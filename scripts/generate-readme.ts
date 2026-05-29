@@ -40,7 +40,7 @@ async function main() {
       const videoFiles = await downloadVideos(promptsToProcess);
 
       if (videoFiles.size > 0) {
-        console.log('\n📤 Uploading videos to GitHub Release...');
+        console.log('\n📤 Uploading videos to GitHub user attachments...');
         const { uploadVideos } = await import('./upload-to-github.js');
         videoUrls = await uploadVideos(videoFiles);
       }

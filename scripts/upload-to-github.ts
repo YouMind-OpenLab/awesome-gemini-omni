@@ -1,4 +1,4 @@
-import { execSync } from 'child_process';
+import { execFileSync } from 'child_process';
 import { existsSync, readFileSync, writeFileSync } from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
@@ -7,8 +7,8 @@ const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 
 const REPO = 'YouMind-OpenLab/awesome-gemini-omni';
-const RELEASE_TAG = 'videos';
 const VIDEO_URLS_FILE = path.resolve(ROOT, 'video-urls.json');
+const GITHUB_ATTACHMENT_RE = /https:\/\/github\.com\/user-attachments\/assets\/[a-zA-Z0-9-]+/;
 
 interface VideoUrlMap {
   [promptId: string]: string;
@@ -28,21 +28,23 @@ function saveVideoUrls(urls: VideoUrlMap): void {
   writeFileSync(VIDEO_URLS_FILE, JSON.stringify({ prompts: urls }, null, 2) + '\n');
 }
 
-function ensureRelease(): void {
-  try {
-    execSync(`gh release view ${RELEASE_TAG} --repo ${REPO}`, { stdio: 'pipe' });
-  } catch {
-    console.log(`Creating release "${RELEASE_TAG}"...`);
-    execSync(
-      `gh release create ${RELEASE_TAG} --repo ${REPO} --title "Video Assets" --notes "Auto-managed video files for README embedding" --latest=false`,
-      { stdio: 'inherit' }
-    );
+function uploadToGitHubAttachment(filePath: string): string {
+  const output = execFileSync('gh', ['image', '--repo', REPO, filePath], {
+    cwd: ROOT,
+    encoding: 'utf-8',
+    stdio: ['ignore', 'pipe', 'pipe'],
+  });
+
+  const match = output.match(GITHUB_ATTACHMENT_RE);
+  if (!match) {
+    throw new Error(`gh image did not return a GitHub user-attachment URL:\n${output}`);
   }
+
+  return match[0];
 }
 
 export async function uploadVideos(videoFiles: Map<number, string>): Promise<VideoUrlMap> {
   const urls = loadVideoUrls();
-  ensureRelease();
 
   for (const [id, filePath] of videoFiles) {
     const idStr = String(id);
@@ -51,12 +53,8 @@ export async function uploadVideos(videoFiles: Map<number, string>): Promise<Vid
       continue;
     }
 
-    const assetName = `${id}.mp4`;
     try {
-      execSync(`gh release upload ${RELEASE_TAG} "${filePath}#${assetName}" --repo ${REPO} --clobber`, {
-        stdio: 'inherit',
-      });
-      urls[idStr] = `https://github.com/${REPO}/releases/download/${RELEASE_TAG}/${assetName}`;
+      urls[idStr] = uploadToGitHubAttachment(filePath);
       console.log(`  ✅ Uploaded ${id} → ${urls[idStr]}`);
     } catch (e) {
       console.error(`  ❌ Failed to upload ${id}:`, e);
