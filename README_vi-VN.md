@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **8** |
+| 📝 Tổng số prompt | **19** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-05-29** |
 
@@ -56,6 +56,67 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Rusalka Tarot Card Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative prompt using descriptive keywords and emojis to generate a stable, cinematic tarot card-inspired video featuring a mythical Rusalka theme.
+
+#### 📝 Prompt
+
+```
+Reflection-Rusalka «🌳🧜‍♀️🪞»
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Rusalka Tarot Card Video">
+
+**[🎬 Xem video →](https://x.com/astvatsaturn/status/2060128558287044975)**
+
+**Tác giả:** [Elis Satu](https://x.com/astvatsaturn) | **Nguồn:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Đã xuất bản:** May 29, 2026
+
+---
+### Sims Style Movie Scene Reimagining
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative template for Gemini Omni that recreates iconic movie and TV scenes within the stylized aesthetic of The Sims videogame, including unique graphics and dialogue.
+
+#### 📝 Prompt
+
+```
+[Movie/TV Show] iconic scene, but it's a Sims videogame
+
+[scene description]
+
+Sims videogame graphics, and Sims silly dialogue
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060067753638207493/img/4K1obHtL1Kl0vP9s.jpg" width="600" alt="Sims Style Movie Scene Reimagining">
+
+**[🎬 Xem video →](https://x.com/techhalla/status/2060068841573498998)**
+
+**Tác giả:** [TechHalla](https://x.com/techhalla) | **Nguồn:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Đã xuất bản:** May 29, 2026
+
+---
+### Hyper-lapse Selfie Travel Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A master prompt for Gemini Omni to create a hyper-lapse travel video that swaps an uploaded character into 20 distinct environments while keeping identity consistent.
+
+#### 📝 Prompt
+
+```
+Create a 10s hyper-lapse selfie-travel video of uploaded character. Strict identity consistency across all locations and professions. 20 distinct absurd professional roles and extreme environments worldwide with hard
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Hyper-lapse Selfie Travel Transformation">
+
+**[🎬 Xem video →](https://x.com/ZefredAi/status/2060051882538594657)**
+
+**Tác giả:** [ZeFred.AI](https://x.com/ZefredAi) | **Nguồn:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Đã xuất bản:** May 29, 2026
+
+---
 ### Mô phỏng vệ tinh về thời tiết cực đoan
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -68,13 +129,71 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 Tạo một đoạn mô phỏng thời tiết điện ảnh dài 10 giây được trực quan hóa từ góc nhìn vệ tinh, hiển thị các hệ thống khí hậu cực đoan nhất của Trái Đất: bão, gió mùa, bão sấm sét, cực quang, các đợt lốc xoáy, bão cát, đám mây tro bụi núi lửa. Các nhãn khoa học xuất hiện bằng phông chữ Noto Sans của Google với màu trắng tinh tế, giống như giao diện khí tượng trực tiếp. Mô phỏng đám mây chi tiết cao và tính chân thực của khí quyển. Thiết kế âm thanh bao gồm các lớp tiếng sấm trầm, nhiễu loạn gió, tiếng đàm thoại vô tuyến khẩn cấp từ xa, tiếng drone khí quyển và âm nhạc tạo sự căng thẳng điện ảnh. Không có lời thoại.
 ```
 
-<video src="https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12" width="600" controls muted playsinline title="Mô phỏng vệ tinh về thời tiết cực đoan"></video>
-
-https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="Mô phỏng vệ tinh về thời tiết cực đoan">
 
 **[🎬 Xem video →](https://x.com/HBCoop_/status/2060008267602853936)**
 
 **Tác giả:** [Heather Cooper](https://x.com/HBCoop_) | **Nguồn:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **Đã xuất bản:** May 28, 2026
+
+---
+### Premium Travel Poster Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to generate a 10-second high-end travel poster video featuring a panoramic moving strip and stylized typography for a specific city.
+
+#### 📝 Prompt
+
+```
+[CITY] = KTOKYO
+Create a 10-second premium travel-poster style video for [CITY].
+
+Use a soft ivory poster background, a thin moving panoramic strip at the top, and a huge bold centered sans-serif title: “[CITY]”.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Premium Travel Poster Video">
+
+**[🎬 Xem video →](https://x.com/loglogrog/status/2059997426023584083)**
+
+**Tác giả:** [マグマグ](https://x.com/loglogrog) | **Nguồn:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Đã xuất bản:** May 28, 2026
+
+---
+### Photorealistic Red Yarn Generation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A simple prompt for generating photorealistic red yarn textures as part of a multimodal creative workflow in Gemini Omni.
+
+#### 📝 Prompt
+
+```
+photorealistic red yarn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059993286211997696/img/g8367Ht-a9BsEIGm.jpg" width="600" alt="Photorealistic Red Yarn Generation">
+
+**[🎬 Xem video →](https://x.com/DataChaz/status/2059993335776129054)**
+
+**Tác giả:** [Charly Wargnier](https://x.com/DataChaz) | **Nguồn:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **Đã xuất bản:** May 28, 2026
+
+---
+### The Snitten Hybrid
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative prompt used to generate a video of a whimsical hybrid creature merging a snail and a kitten.
+
+#### 📝 Prompt
+
+```
+Snail + Kitten = Snitten
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="The Snitten Hybrid">
+
+**[🎬 Xem video →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
+
+**Tác giả:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Nguồn:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **Đã xuất bản:** May 28, 2026
 
 ---
 ### Tạo chuyển động nhân vật Anime nhất quán
@@ -89,13 +208,30 @@ https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS
 Cô gái anime mặc váy tím đi bộ đều đặn về phía trước, với kiểu tóc, màu tóc, kiểu váy và màu sắc được giữ nguyên trong suốt quá trình, vóc dáng và ngoại hình không thay đổi, đồng thời hình ảnh qua các khung hình được thống nhất và ổn định.
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27" width="600" controls muted playsinline title="Tạo chuyển động nhân vật Anime nhất quán"></video>
-
-https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="Tạo chuyển động nhân vật Anime nhất quán">
 
 **[🎬 Xem video →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
 
 **Tác giả:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Nguồn:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **Đã xuất bản:** May 28, 2026
+
+---
+### FPV Drone Map Flight
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt to generate high-speed FPV drone footage starting from a specific point on a map screenshot using Gemini Omni Flash.
+
+#### 📝 Prompt
+
+```
+High-speed FPV drone footage. Complete first-person view (pure FPV POV). The footage begins from the starting point on the screen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059779953227612160/img/FLZbCOAuHBfQYXHP.jpg" width="600" alt="FPV Drone Map Flight">
+
+**[🎬 Xem video →](https://x.com/tanabe_fragm/status/2059781140245057683)**
+
+**Tác giả:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Đã xuất bản:** May 28, 2026
 
 ---
 ### Bản đồ tham quan ảo Middle Earth
@@ -116,9 +252,7 @@ Phong cách thước phim tư liệu (found footage) chân thực và gai góc.
 [TÙY CHỌN] (chủng tộc: tiên, orc, hobbit...) đang thực hiện các hoạt động thường ngày
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27" width="600" controls muted playsinline title="Bản đồ tham quan ảo Middle Earth"></video>
-
-https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="Bản đồ tham quan ảo Middle Earth">
 
 **[🎬 Xem video →](https://x.com/techhalla/status/2059724218158166537)**
 
@@ -144,13 +278,49 @@ Tạo một video nhịp độ nhanh, tràn đầy năng lượng dài 10 giây 
 giữ góc máy nghiêm ngặt ở góc nhìn isometric 3/4
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27" width="600" controls muted playsinline title="Lắp ráp xe thể thao dạng Isometric"></video>
-
-https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="Lắp ráp xe thể thao dạng Isometric">
 
 **[🎬 Xem video →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
 **Tác giả:** [Harshith](https://x.com/HarshithLucky3) | **Nguồn:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Đã xuất bản:** May 28, 2026
+
+---
+### Showa Era Shopping Street Atmosphere
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt capturing the bustling and nostalgic atmosphere of a Japanese shopping district from the Showa era with lively crowd sounds.
+
+#### 📝 Prompt
+
+```
+Showa era shopping street, bustling, Japanese language, lively
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059623705786097664/img/I8hjxgmdDLQbJEIF.jpg" width="600" alt="Showa Era Shopping Street Atmosphere">
+
+**[🎬 Xem video →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
+
+**Tác giả:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **Nguồn:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **Đã xuất bản:** May 27, 2026
+
+---
+### Glowing Childhood Memories in Rain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic prompt for generating a nostalgic video of childhood memories illuminated by a soft glow during a rain shower.
+
+#### 📝 Prompt
+
+```
+Glowing childhood memories in rain
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059620411600781312/img/3fn5OmM6yru_I5ea.jpg" width="600" alt="Glowing Childhood Memories in Rain">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2059620519310442844)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **Đã xuất bản:** May 27, 2026
 
 ---
 ### Mô phỏng vật lý trò chơi tung chai (Bottle Flip)
@@ -165,13 +335,49 @@ https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LY
 Anh ấy là một người đàn ông Nhật Bản ở độ tuổi 50. Hãy duy trì sự nhất quán về hình dạng của chiếc chai cho đến cuối video. Thực hiện theo trình tự sau: 1. Anh ấy tung chiếc chai đang cầm ở tay phải lên cao và buông tay hoàn toàn (sau đó, tuyệt đối không được chạm vào chai nữa). 2. Chiếc chai xoay và rơi xuống, đáp thẳng đứng vào vị trí ban đầu trên mặt bàn. 3. Anh ấy dang rộng tay và ăn mừng.
 ```
 
-<video src="https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25" width="600" controls muted playsinline title="Mô phỏng vật lý trò chơi tung chai (Bottle Flip)"></video>
-
-https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="Mô phỏng vật lý trò chơi tung chai (Bottle Flip)">
 
 **[🎬 Xem video →](https://x.com/onoken1025/status/2059536888588030163)**
 
 **Tác giả:** [onoken1025](https://x.com/onoken1025) | **Nguồn:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Đã xuất bản:** May 27, 2026
+
+---
+### Kinetic Typography and Monologue Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A professional video prompt for Gemini Omni focusing on precise typography placement, technical font styles, and synchronized narration effects.
+
+#### 📝 Prompt
+
+```
+White Helvetica lowercase text + thin line connecting to the main subject + inner monologue style narration
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059535898476523520/img/bVmkD6gicUhnKJGy.jpg" width="600" alt="Kinetic Typography and Monologue Video">
+
+**[🎬 Xem video →](https://x.com/FinanceYF5/status/2059535919007556042)**
+
+**Tác giả:** [AI Will](https://x.com/FinanceYF5) | **Nguồn:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **Đã xuất bản:** May 27, 2026
+
+---
+### GTA India Trailer Generator
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A straightforward prompt for generating a game-style trailer featuring Indian cultural landmarks like the Taj Mahal.
+
+#### 📝 Prompt
+
+```
+generate a GTA India trailer
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059504365996785664/img/BqyV6qHJ8tQvvpkH.jpg" width="600" alt="GTA India Trailer Generator">
+
+**[🎬 Xem video →](https://x.com/BuildFastWithAI/status/2059522490876010600)**
+
+**Tác giả:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Nguồn:** [Link](https://x.com/BuildFastWithAI/status/2059522490876010600) | **Đã xuất bản:** May 27, 2026
 
 ---
 ### Bản đồ Ký ức Du lịch Điện ảnh
@@ -190,9 +396,7 @@ Trên vé có in tên điểm đến là “[CITY]”.
 Khi ánh sáng dịu nhẹ di chuyển trên mặt giấy, tấm bản đồ từ từ tự mở ra.
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27" width="600" controls muted playsinline title="Bản đồ Ký ức Du lịch Điện ảnh"></video>
-
-https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="Bản đồ Ký ức Du lịch Điện ảnh">
 
 **[🎬 Xem video →](https://x.com/loglogrog/status/2059494802534584504)**
 
@@ -211,9 +415,7 @@ https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6
 Tạo hoạt ảnh nhanh qua 20 phiên bản khác nhau của logo này. Giữ màu đen trên nền trắng và căn giữa.
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27" width="600" controls muted playsinline title="Trợ lý tạo hoạt ảnh logo nhanh"></video>
-
-https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="Trợ lý tạo hoạt ảnh logo nhanh">
 
 **[🎬 Xem video →](https://x.com/Team_Greenfield/status/2059493330447413283)**
 
@@ -271,9 +473,7 @@ Tham khảo nghiêm ngặt storyboard đã tải lên. Duy trì bố cục khung
 Chuyển động chậm, chuyển động không tự nhiên, nhảy múa, diễn xuất cường điệu, chuyển động như robot, cơ bắp không tự nhiên, chi bị biến dạng, khuôn mặt bị mờ, kết cấu chất lượng thấp, hướng giả tưởng, hướng khoa học viễn tưởng, đột biến, quay phim bạo lực, người đứng yên trong nền, độ phân giải thấp, biểu cảm kiểu anime, biểu cảm hài hước, đi bộ không tự nhiên, thay đổi góc máy, thay đổi nhân vật, nhòe chuyển động quá mức.
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27" width="600" controls muted playsinline title="Storyboard Phim Tài liệu về Sự tiến hóa của Con người"></video>
-
-https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="Storyboard Phim Tài liệu về Sự tiến hóa của Con người">
 
 **[🎬 Xem video →](https://x.com/tanabe_fragm/status/2059458173615116314)**
 
@@ -316,6 +516,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-05-29T05:06:41.676Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-05-29T08:04:16.453Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **8** |
+| 📝 提示詞總數 | **19** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-05-29** |
 
@@ -56,6 +56,67 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Rusalka Tarot Card Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative prompt using descriptive keywords and emojis to generate a stable, cinematic tarot card-inspired video featuring a mythical Rusalka theme.
+
+#### 📝 提示詞
+
+```
+Reflection-Rusalka «🌳🧜‍♀️🪞»
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Rusalka Tarot Card Video">
+
+**[🎬 觀看視頻 →](https://x.com/astvatsaturn/status/2060128558287044975)**
+
+**作者:** [Elis Satu](https://x.com/astvatsaturn) | **來源:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **發布時間:** May 29, 2026
+
+---
+### Sims Style Movie Scene Reimagining
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative template for Gemini Omni that recreates iconic movie and TV scenes within the stylized aesthetic of The Sims videogame, including unique graphics and dialogue.
+
+#### 📝 提示詞
+
+```
+[Movie/TV Show] iconic scene, but it's a Sims videogame
+
+[scene description]
+
+Sims videogame graphics, and Sims silly dialogue
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060067753638207493/img/4K1obHtL1Kl0vP9s.jpg" width="600" alt="Sims Style Movie Scene Reimagining">
+
+**[🎬 觀看視頻 →](https://x.com/techhalla/status/2060068841573498998)**
+
+**作者:** [TechHalla](https://x.com/techhalla) | **來源:** [Link](https://x.com/techhalla/status/2060068841573498998) | **發布時間:** May 29, 2026
+
+---
+### Hyper-lapse Selfie Travel Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A master prompt for Gemini Omni to create a hyper-lapse travel video that swaps an uploaded character into 20 distinct environments while keeping identity consistent.
+
+#### 📝 提示詞
+
+```
+Create a 10s hyper-lapse selfie-travel video of uploaded character. Strict identity consistency across all locations and professions. 20 distinct absurd professional roles and extreme environments worldwide with hard
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Hyper-lapse Selfie Travel Transformation">
+
+**[🎬 觀看視頻 →](https://x.com/ZefredAi/status/2060051882538594657)**
+
+**作者:** [ZeFred.AI](https://x.com/ZefredAi) | **來源:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **發布時間:** May 29, 2026
+
+---
 ### 極端天氣衛星模擬
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -68,13 +129,71 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 製作一個 10 秒的電影級天氣模擬，以衛星視角呈現地球上最極端的氣候系統：颶風、季風、雷暴、極光、龍捲風爆發、沙塵暴與火山灰雲。科學標籤以簡潔的白色 Noto Sans Google 字體顯示，呈現如即時氣象介面般的視覺效果。具備高細節的雲層模擬與大氣真實感。音效設計包含深沉的雷聲、風力湍流、遠處的緊急無線電雜訊、大氣環境音與電影般的緊張配樂。無對白。
 ```
 
-<video src="https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12" width="600" controls muted playsinline title="極端天氣衛星模擬"></video>
-
-https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="極端天氣衛星模擬">
 
 **[🎬 觀看視頻 →](https://x.com/HBCoop_/status/2060008267602853936)**
 
 **作者:** [Heather Cooper](https://x.com/HBCoop_) | **來源:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **發布時間:** May 28, 2026
+
+---
+### Premium Travel Poster Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to generate a 10-second high-end travel poster video featuring a panoramic moving strip and stylized typography for a specific city.
+
+#### 📝 提示詞
+
+```
+[CITY] = KTOKYO
+Create a 10-second premium travel-poster style video for [CITY].
+
+Use a soft ivory poster background, a thin moving panoramic strip at the top, and a huge bold centered sans-serif title: “[CITY]”.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Premium Travel Poster Video">
+
+**[🎬 觀看視頻 →](https://x.com/loglogrog/status/2059997426023584083)**
+
+**作者:** [マグマグ](https://x.com/loglogrog) | **來源:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **發布時間:** May 28, 2026
+
+---
+### Photorealistic Red Yarn Generation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A simple prompt for generating photorealistic red yarn textures as part of a multimodal creative workflow in Gemini Omni.
+
+#### 📝 提示詞
+
+```
+photorealistic red yarn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059993286211997696/img/g8367Ht-a9BsEIGm.jpg" width="600" alt="Photorealistic Red Yarn Generation">
+
+**[🎬 觀看視頻 →](https://x.com/DataChaz/status/2059993335776129054)**
+
+**作者:** [Charly Wargnier](https://x.com/DataChaz) | **來源:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **發布時間:** May 28, 2026
+
+---
+### The Snitten Hybrid
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative prompt used to generate a video of a whimsical hybrid creature merging a snail and a kitten.
+
+#### 📝 提示詞
+
+```
+Snail + Kitten = Snitten
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="The Snitten Hybrid">
+
+**[🎬 觀看視頻 →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
+
+**作者:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **來源:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **發布時間:** May 28, 2026
 
 ---
 ### 動漫角色行走一致性生成
@@ -89,13 +208,30 @@ https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS
 一位留著紫色頭髮、穿著連身裙的動漫少女穩步向前走，她的髮型、髮色、服裝款式與顏色在過程中保持不變，身形與外貌維持一致，確保各幀之間的影像統一且穩定。
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27" width="600" controls muted playsinline title="動漫角色行走一致性生成"></video>
-
-https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="動漫角色行走一致性生成">
 
 **[🎬 觀看視頻 →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
 
 **作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **來源:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **發布時間:** May 28, 2026
+
+---
+### FPV Drone Map Flight
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt to generate high-speed FPV drone footage starting from a specific point on a map screenshot using Gemini Omni Flash.
+
+#### 📝 提示詞
+
+```
+High-speed FPV drone footage. Complete first-person view (pure FPV POV). The footage begins from the starting point on the screen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059779953227612160/img/FLZbCOAuHBfQYXHP.jpg" width="600" alt="FPV Drone Map Flight">
+
+**[🎬 觀看視頻 →](https://x.com/tanabe_fragm/status/2059781140245057683)**
+
+**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **發布時間:** May 28, 2026
 
 ---
 ### 中土世界虛擬導覽地圖
@@ -116,9 +252,7 @@ https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHD
 [選填] (種族：精靈、半獸人、哈比人……) 正在做日常活動
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27" width="600" controls muted playsinline title="中土世界虛擬導覽地圖"></video>
-
-https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="中土世界虛擬導覽地圖">
 
 **[🎬 觀看視頻 →](https://x.com/techhalla/status/2059724218158166537)**
 
@@ -144,13 +278,49 @@ https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMc
 攝影視角請嚴格保持在 3/4 等距視角
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27" width="600" controls muted playsinline title="跑車等距視角組裝"></video>
-
-https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="跑車等距視角組裝">
 
 **[🎬 觀看視頻 →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
 **作者:** [Harshith](https://x.com/HarshithLucky3) | **來源:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **發布時間:** May 28, 2026
+
+---
+### Showa Era Shopping Street Atmosphere
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt capturing the bustling and nostalgic atmosphere of a Japanese shopping district from the Showa era with lively crowd sounds.
+
+#### 📝 提示詞
+
+```
+Showa era shopping street, bustling, Japanese language, lively
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059623705786097664/img/I8hjxgmdDLQbJEIF.jpg" width="600" alt="Showa Era Shopping Street Atmosphere">
+
+**[🎬 觀看視頻 →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
+
+**作者:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **來源:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **發布時間:** May 27, 2026
+
+---
+### Glowing Childhood Memories in Rain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic prompt for generating a nostalgic video of childhood memories illuminated by a soft glow during a rain shower.
+
+#### 📝 提示詞
+
+```
+Glowing childhood memories in rain
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059620411600781312/img/3fn5OmM6yru_I5ea.jpg" width="600" alt="Glowing Childhood Memories in Rain">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2059620519310442844)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **發布時間:** May 27, 2026
 
 ---
 ### 瓶子翻轉物理模擬
@@ -165,13 +335,49 @@ https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LY
 他是一位 50 多歲的日本男性。請確保瓶子的形狀在整個過程中保持一致。請依照以下順序進行：1. 他將右手持有的瓶子向上拋出並完全放手（此後絕對不能再觸碰瓶子）。2. 瓶子旋轉並落下，最終直立落在桌上的原始位置。3. 他張開雙臂表示慶祝。
 ```
 
-<video src="https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25" width="600" controls muted playsinline title="瓶子翻轉物理模擬"></video>
-
-https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="瓶子翻轉物理模擬">
 
 **[🎬 觀看視頻 →](https://x.com/onoken1025/status/2059536888588030163)**
 
 **作者:** [onoken1025](https://x.com/onoken1025) | **來源:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **發布時間:** May 27, 2026
+
+---
+### Kinetic Typography and Monologue Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A professional video prompt for Gemini Omni focusing on precise typography placement, technical font styles, and synchronized narration effects.
+
+#### 📝 提示詞
+
+```
+White Helvetica lowercase text + thin line connecting to the main subject + inner monologue style narration
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059535898476523520/img/bVmkD6gicUhnKJGy.jpg" width="600" alt="Kinetic Typography and Monologue Video">
+
+**[🎬 觀看視頻 →](https://x.com/FinanceYF5/status/2059535919007556042)**
+
+**作者:** [AI Will](https://x.com/FinanceYF5) | **來源:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **發布時間:** May 27, 2026
+
+---
+### GTA India Trailer Generator
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A straightforward prompt for generating a game-style trailer featuring Indian cultural landmarks like the Taj Mahal.
+
+#### 📝 提示詞
+
+```
+generate a GTA India trailer
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059504365996785664/img/BqyV6qHJ8tQvvpkH.jpg" width="600" alt="GTA India Trailer Generator">
+
+**[🎬 觀看視頻 →](https://x.com/BuildFastWithAI/status/2059522490876010600)**
+
+**作者:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **來源:** [Link](https://x.com/BuildFastWithAI/status/2059522490876010600) | **發布時間:** May 27, 2026
 
 ---
 ### 電影感旅行回憶地圖
@@ -190,9 +396,7 @@ https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/Pz
 隨著柔和的光線在紙面上移動，地圖緩緩地自動展開。
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27" width="600" controls muted playsinline title="電影感旅行回憶地圖"></video>
-
-https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="電影感旅行回憶地圖">
 
 **[🎬 觀看視頻 →](https://x.com/loglogrog/status/2059494802534584504)**
 
@@ -211,9 +415,7 @@ https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6
 快速切換展示此 Logo 的 20 種不同版本動畫。保持黑白配色並確保畫面置中。
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27" width="600" controls muted playsinline title="快速 Logo 動畫助手"></video>
-
-https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="快速 Logo 動畫助手">
 
 **[🎬 觀看視頻 →](https://x.com/Team_Greenfield/status/2059493330447413283)**
 
@@ -271,9 +473,7 @@ https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9
 慢動作、不自然的動作、跳舞、誇張的表演、機器人般的動作、不自然的肌肉、畸形的肢體、模糊的面部、低品質紋理、奇幻風格、科幻風格、突變、劇烈的攝影機運鏡、靜止的背景人物、低解析度、動畫風格表情、滑稽表情、不自然的行走、攝影機角度變化、更換角色、過度的動態模糊。
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27" width="600" controls muted playsinline title="人類演化紀錄片專案"></video>
-
-https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="人類演化紀錄片專案">
 
 **[🎬 觀看視頻 →](https://x.com/tanabe_fragm/status/2059458173615116314)**
 
@@ -316,6 +516,6 @@ https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2U
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-29T05:06:37.502Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-29T08:04:12.903Z</sub>
 
 </div>

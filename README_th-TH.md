@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **8** |
+| 📝 พรอมต์ทั้งหมด | **19** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-05-29** |
 
@@ -56,6 +56,67 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### Rusalka Tarot Card Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative prompt using descriptive keywords and emojis to generate a stable, cinematic tarot card-inspired video featuring a mythical Rusalka theme.
+
+#### 📝 พรอมต์
+
+```
+Reflection-Rusalka «🌳🧜‍♀️🪞»
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Rusalka Tarot Card Video">
+
+**[🎬 ดูวิดีโอ →](https://x.com/astvatsaturn/status/2060128558287044975)**
+
+**ผู้เขียน:** [Elis Satu](https://x.com/astvatsaturn) | **แหล่งที่มา:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Sims Style Movie Scene Reimagining
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative template for Gemini Omni that recreates iconic movie and TV scenes within the stylized aesthetic of The Sims videogame, including unique graphics and dialogue.
+
+#### 📝 พรอมต์
+
+```
+[Movie/TV Show] iconic scene, but it's a Sims videogame
+
+[scene description]
+
+Sims videogame graphics, and Sims silly dialogue
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060067753638207493/img/4K1obHtL1Kl0vP9s.jpg" width="600" alt="Sims Style Movie Scene Reimagining">
+
+**[🎬 ดูวิดีโอ →](https://x.com/techhalla/status/2060068841573498998)**
+
+**ผู้เขียน:** [TechHalla](https://x.com/techhalla) | **แหล่งที่มา:** [Link](https://x.com/techhalla/status/2060068841573498998) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
+### Hyper-lapse Selfie Travel Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A master prompt for Gemini Omni to create a hyper-lapse travel video that swaps an uploaded character into 20 distinct environments while keeping identity consistent.
+
+#### 📝 พรอมต์
+
+```
+Create a 10s hyper-lapse selfie-travel video of uploaded character. Strict identity consistency across all locations and professions. 20 distinct absurd professional roles and extreme environments worldwide with hard
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Hyper-lapse Selfie Travel Transformation">
+
+**[🎬 ดูวิดีโอ →](https://x.com/ZefredAi/status/2060051882538594657)**
+
+**ผู้เขียน:** [ZeFred.AI](https://x.com/ZefredAi) | **แหล่งที่มา:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **เผยแพร่เมื่อ:** May 29, 2026
+
+---
 ### การจำลองสภาพอากาศสุดขั้วจากดาวเทียม
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -68,13 +129,71 @@
 สร้างการจำลองสภาพอากาศระดับภาพยนตร์ความยาว 10 วินาทีในมุมมองจากดาวเทียม ซึ่งแสดงระบบภูมิอากาศที่รุนแรงที่สุดของโลก ได้แก่ พายุเฮอริเคน, มรสุม, พายุสายฟ้า, แสงออโรรา, พายุทอร์นาโด, พายุทราย และกลุ่มควันจากภูเขาไฟ โดยมีป้ายกำกับทางวิทยาศาสตร์ปรากฏขึ้นด้วยฟอนต์ Noto Sans ของ Google สีขาวสะอาดตา คล้ายกับอินเทอร์เฟซของสถานีอุตุนิยมวิทยาแบบเรียลไทม์ พร้อมการจำลองก้อนเมฆที่มีรายละเอียดสูงและความสมจริงของชั้นบรรยากาศ การออกแบบเสียงประกอบด้วยเสียงฟ้าร้องที่ทุ้มลึก, เสียงลมปั่นป่วน, เสียงวิทยุฉุกเฉินที่แว่วมาแต่ไกล, เสียงโดรนบรรยากาศ และดนตรีประกอบที่สร้างความตื่นเต้นในแบบภาพยนตร์ โดยไม่มีบทสนทนา
 ```
 
-<video src="https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12" width="600" controls muted playsinline title="การจำลองสภาพอากาศสุดขั้วจากดาวเทียม"></video>
-
-https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="การจำลองสภาพอากาศสุดขั้วจากดาวเทียม">
 
 **[🎬 ดูวิดีโอ →](https://x.com/HBCoop_/status/2060008267602853936)**
 
 **ผู้เขียน:** [Heather Cooper](https://x.com/HBCoop_) | **แหล่งที่มา:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **เผยแพร่เมื่อ:** May 28, 2026
+
+---
+### Premium Travel Poster Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to generate a 10-second high-end travel poster video featuring a panoramic moving strip and stylized typography for a specific city.
+
+#### 📝 พรอมต์
+
+```
+[CITY] = KTOKYO
+Create a 10-second premium travel-poster style video for [CITY].
+
+Use a soft ivory poster background, a thin moving panoramic strip at the top, and a huge bold centered sans-serif title: “[CITY]”.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Premium Travel Poster Video">
+
+**[🎬 ดูวิดีโอ →](https://x.com/loglogrog/status/2059997426023584083)**
+
+**ผู้เขียน:** [マグマグ](https://x.com/loglogrog) | **แหล่งที่มา:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **เผยแพร่เมื่อ:** May 28, 2026
+
+---
+### Photorealistic Red Yarn Generation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A simple prompt for generating photorealistic red yarn textures as part of a multimodal creative workflow in Gemini Omni.
+
+#### 📝 พรอมต์
+
+```
+photorealistic red yarn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059993286211997696/img/g8367Ht-a9BsEIGm.jpg" width="600" alt="Photorealistic Red Yarn Generation">
+
+**[🎬 ดูวิดีโอ →](https://x.com/DataChaz/status/2059993335776129054)**
+
+**ผู้เขียน:** [Charly Wargnier](https://x.com/DataChaz) | **แหล่งที่มา:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **เผยแพร่เมื่อ:** May 28, 2026
+
+---
+### The Snitten Hybrid
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative prompt used to generate a video of a whimsical hybrid creature merging a snail and a kitten.
+
+#### 📝 พรอมต์
+
+```
+Snail + Kitten = Snitten
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="The Snitten Hybrid">
+
+**[🎬 ดูวิดีโอ →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
+
+**ผู้เขียน:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **แหล่งที่มา:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **เผยแพร่เมื่อ:** May 28, 2026
 
 ---
 ### การสร้างแอนิเมชันตัวละครอนิเมะเดินอย่างต่อเนื่อง
@@ -89,13 +208,30 @@ https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS
 เด็กสาวอนิเมะผมสีม่วงในชุดเดรสเดินไปข้างหน้าอย่างมั่นคง โดยที่ทรงผม สีผม สไตล์ของชุด และสีสันยังคงเดิมตลอดทั้งคลิป รูปร่างและลักษณะปรากฏไม่เปลี่ยนแปลง และภาพในแต่ละเฟรมมีความสอดคล้องและเสถียร
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27" width="600" controls muted playsinline title="การสร้างแอนิเมชันตัวละครอนิเมะเดินอย่างต่อเนื่อง"></video>
-
-https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="การสร้างแอนิเมชันตัวละครอนิเมะเดินอย่างต่อเนื่อง">
 
 **[🎬 ดูวิดีโอ →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
 
 **ผู้เขียน:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **แหล่งที่มา:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **เผยแพร่เมื่อ:** May 28, 2026
+
+---
+### FPV Drone Map Flight
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt to generate high-speed FPV drone footage starting from a specific point on a map screenshot using Gemini Omni Flash.
+
+#### 📝 พรอมต์
+
+```
+High-speed FPV drone footage. Complete first-person view (pure FPV POV). The footage begins from the starting point on the screen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059779953227612160/img/FLZbCOAuHBfQYXHP.jpg" width="600" alt="FPV Drone Map Flight">
+
+**[🎬 ดูวิดีโอ →](https://x.com/tanabe_fragm/status/2059781140245057683)**
+
+**ผู้เขียน:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **แหล่งที่มา:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **เผยแพร่เมื่อ:** May 28, 2026
 
 ---
 ### แผนที่ทัวร์เสมือนจริง Middle Earth
@@ -116,9 +252,7 @@ https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHD
 [ทางเลือก] (เผ่าพันธุ์: เอลฟ์, ออร์ค, ฮอบบิท...) กำลังทำกิจกรรมในชีวิตประจำวัน
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27" width="600" controls muted playsinline title="แผนที่ทัวร์เสมือนจริง Middle Earth"></video>
-
-https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="แผนที่ทัวร์เสมือนจริง Middle Earth">
 
 **[🎬 ดูวิดีโอ →](https://x.com/techhalla/status/2059724218158166537)**
 
@@ -144,13 +278,49 @@ https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMc
 โดยให้คงมุมกล้องแบบ 3/4 ไอโซเมตริกไว้ตลอดทั้งคลิป
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27" width="600" controls muted playsinline title="การประกอบรถสปอร์ตในมุมมองไอโซเมตริก"></video>
-
-https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="การประกอบรถสปอร์ตในมุมมองไอโซเมตริก">
 
 **[🎬 ดูวิดีโอ →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
 **ผู้เขียน:** [Harshith](https://x.com/HarshithLucky3) | **แหล่งที่มา:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **เผยแพร่เมื่อ:** May 28, 2026
+
+---
+### Showa Era Shopping Street Atmosphere
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt capturing the bustling and nostalgic atmosphere of a Japanese shopping district from the Showa era with lively crowd sounds.
+
+#### 📝 พรอมต์
+
+```
+Showa era shopping street, bustling, Japanese language, lively
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059623705786097664/img/I8hjxgmdDLQbJEIF.jpg" width="600" alt="Showa Era Shopping Street Atmosphere">
+
+**[🎬 ดูวิดีโอ →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
+
+**ผู้เขียน:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **แหล่งที่มา:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **เผยแพร่เมื่อ:** May 27, 2026
+
+---
+### Glowing Childhood Memories in Rain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic prompt for generating a nostalgic video of childhood memories illuminated by a soft glow during a rain shower.
+
+#### 📝 พรอมต์
+
+```
+Glowing childhood memories in rain
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059620411600781312/img/3fn5OmM6yru_I5ea.jpg" width="600" alt="Glowing Childhood Memories in Rain">
+
+**[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2059620519310442844)**
+
+**ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **เผยแพร่เมื่อ:** May 27, 2026
 
 ---
 ### การจำลองฟิสิกส์ของการโยนขวด (Bottle Flip)
@@ -165,13 +335,49 @@ https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LY
 เขาเป็นชายชาวญี่ปุ่นในวัย 50 ปี รักษาความสม่ำเสมอของรูปทรงขวดไว้จนจบวิดีโอ ดำเนินการตามลำดับดังต่อไปนี้: 1. เขาโยนขวดที่ถืออยู่ในมือขวาขึ้นไปด้านบนและปล่อยมือจากขวดโดยสมบูรณ์ (หลังจากนั้น ห้ามสัมผัสขวดอีกเด็ดขาด) 2. ขวดหมุนและตกลงมา โดยลงจอดในตำแหน่งเดิมบนโต๊ะในแนวตั้ง 3. เขากางแขนออกและแสดงอาการดีใจ
 ```
 
-<video src="https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25" width="600" controls muted playsinline title="การจำลองฟิสิกส์ของการโยนขวด (Bottle Flip)"></video>
-
-https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="การจำลองฟิสิกส์ของการโยนขวด (Bottle Flip)">
 
 **[🎬 ดูวิดีโอ →](https://x.com/onoken1025/status/2059536888588030163)**
 
 **ผู้เขียน:** [onoken1025](https://x.com/onoken1025) | **แหล่งที่มา:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **เผยแพร่เมื่อ:** May 27, 2026
+
+---
+### Kinetic Typography and Monologue Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A professional video prompt for Gemini Omni focusing on precise typography placement, technical font styles, and synchronized narration effects.
+
+#### 📝 พรอมต์
+
+```
+White Helvetica lowercase text + thin line connecting to the main subject + inner monologue style narration
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059535898476523520/img/bVmkD6gicUhnKJGy.jpg" width="600" alt="Kinetic Typography and Monologue Video">
+
+**[🎬 ดูวิดีโอ →](https://x.com/FinanceYF5/status/2059535919007556042)**
+
+**ผู้เขียน:** [AI Will](https://x.com/FinanceYF5) | **แหล่งที่มา:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **เผยแพร่เมื่อ:** May 27, 2026
+
+---
+### GTA India Trailer Generator
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A straightforward prompt for generating a game-style trailer featuring Indian cultural landmarks like the Taj Mahal.
+
+#### 📝 พรอมต์
+
+```
+generate a GTA India trailer
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059504365996785664/img/BqyV6qHJ8tQvvpkH.jpg" width="600" alt="GTA India Trailer Generator">
+
+**[🎬 ดูวิดีโอ →](https://x.com/BuildFastWithAI/status/2059522490876010600)**
+
+**ผู้เขียน:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **แหล่งที่มา:** [Link](https://x.com/BuildFastWithAI/status/2059522490876010600) | **เผยแพร่เมื่อ:** May 27, 2026
 
 ---
 ### แผนที่ความทรงจำการเดินทางสไตล์ภาพยนตร์
@@ -190,9 +396,7 @@ https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/Pz
 ในขณะที่แสงนุ่มนวลเคลื่อนผ่านกระดาษ แผนที่ก็ค่อย ๆ กางออกด้วยตัวเอง
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27" width="600" controls muted playsinline title="แผนที่ความทรงจำการเดินทางสไตล์ภาพยนตร์"></video>
-
-https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="แผนที่ความทรงจำการเดินทางสไตล์ภาพยนตร์">
 
 **[🎬 ดูวิดีโอ →](https://x.com/loglogrog/status/2059494802534584504)**
 
@@ -211,9 +415,7 @@ https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6
 สร้างแอนิเมชันแบบรวดเร็วผ่านโลโก้นี้ใน 20 รูปแบบที่แตกต่างกัน โดยใช้สีดำบนพื้นหลังสีขาวและจัดวางไว้ที่กึ่งกลาง
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27" width="600" controls muted playsinline title="ผู้ช่วยสร้างแอนิเมชันโลโก้แบบรวดเร็ว"></video>
-
-https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="ผู้ช่วยสร้างแอนิเมชันโลโก้แบบรวดเร็ว">
 
 **[🎬 ดูวิดีโอ →](https://x.com/Team_Greenfield/status/2059493330447413283)**
 
@@ -271,9 +473,7 @@ https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9
 สโลว์โมชัน, การเคลื่อนไหวที่ไม่เป็นธรรมชาติ, การเต้น, การแสดงที่เกินจริง, การเคลื่อนไหวแบบหุ่นยนต์, กล้ามเนื้อที่ไม่เป็นธรรมชาติ, แขนขาผิดรูป, ใบหน้าเบลอ, พื้นผิวคุณภาพต่ำ, ทิศทางแบบแฟนตาซี, ทิศทางแบบไซไฟ, การกลายพันธุ์, การใช้กล้องที่รุนแรง, ผู้คนในฉากหลังที่หยุดนิ่ง, ความละเอียดต่ำ, การแสดงออกสไตล์อนิเมะ, การแสดงออกที่ตลกขบขัน, การเดินที่ไม่เป็นธรรมชาติ, การเปลี่ยนมุมกล้อง, การเปลี่ยนตัวละคร, การเคลื่อนไหวเบลอที่มากเกินไป
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27" width="600" controls muted playsinline title="สตอรีบอร์ดสารคดีวิวัฒนาการของมนุษย์"></video>
-
-https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="สตอรีบอร์ดสารคดีวิวัฒนาการของมนุษย์">
 
 **[🎬 ดูวิดีโอ →](https://x.com/tanabe_fragm/status/2059458173615116314)**
 
@@ -316,6 +516,6 @@ https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2U
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-05-29T05:06:40.523Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-05-29T08:04:15.531Z</sub>
 
 </div>

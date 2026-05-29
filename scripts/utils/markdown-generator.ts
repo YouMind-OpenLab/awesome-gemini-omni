@@ -272,12 +272,13 @@ function generateFeaturedPromptBlock(
   // Video / thumbnail embed (center-aligned)
   md += `#### 🎬 ${t('video', locale)}\n\n`;
   md += `<div align="center">\n\n`;
-  if (videoUrl) {
-    md += renderEmbeddedVideo(videoUrl, title, '700', watchVideoLink);
-  } else {
-    md += `<img src="${displayImage}" width="700" alt="${title}">\n\n`;
-    md += `${watchVideoLink}\n\n`;
-  }
+  md += renderPromptMedia({
+    videoUrl,
+    displayImage,
+    title,
+    width: '700',
+    secondaryLink: watchVideoLink,
+  });
   md += `</div>\n\n`;
 
   md += `#### 📌 ${t('details', locale)}\n\n`;
@@ -312,11 +313,13 @@ function generatePromptBlock(p: import('./cms-client.js').ProcessedPrompt, local
   const tryLink = p.sourceLink || videoUrl || `${galleryUrl}?id=${p.id}`;
   let mediaEmbed: string;
   const watchVideoLink = `**[${t('watchVideo', locale)}](${tryLink})**`;
-  if (videoUrl) {
-    mediaEmbed = renderEmbeddedVideo(videoUrl, title, imgWidth, watchVideoLink);
-  } else {
-    mediaEmbed = `<img src="${displayImage}" width="${imgWidth}" alt="${title}">\n\n${watchVideoLink}`;
-  }
+  mediaEmbed = renderPromptMedia({
+    videoUrl,
+    displayImage,
+    title,
+    width: imgWidth,
+    secondaryLink: watchVideoLink,
+  });
 
   return `### ${title}
 
@@ -348,21 +351,28 @@ function resolveEmbeddedVideoUrl(
 ): string | undefined {
   const mapped = videoUrls[String(p.id)];
   if (mapped) return mapped;
-  if (p.videoUrl && !p.videoUrl.startsWith('cloudflare:')) return p.videoUrl;
   return undefined;
 }
 
-function renderEmbeddedVideo(
-  videoUrl: string,
-  title: string,
-  width: string,
-  secondaryLink: string,
-): string {
-  if (videoUrl.includes('user-attachments/assets/')) {
+function renderPromptMedia(options: {
+  videoUrl?: string;
+  displayImage?: string;
+  title: string;
+  width: string;
+  secondaryLink: string;
+}): string {
+  const { videoUrl, displayImage, title, width, secondaryLink } = options;
+  if (videoUrl?.includes('user-attachments/assets/')) {
     return `${videoUrl}\n\n${secondaryLink}`;
   }
 
-  return `<video src="${videoUrl}" width="${width}" controls muted playsinline title="${escapeHtml(title)}"></video>\n\n${videoUrl}\n\n${secondaryLink}`;
+  if (displayImage) {
+    const image = `<img src="${displayImage}" width="${width}" alt="${escapeHtml(title)}">`;
+    const linkedImage = videoUrl ? `<a href="${videoUrl}">${image}</a>` : image;
+    return `${linkedImage}\n\n${secondaryLink}`;
+  }
+
+  return `${secondaryLink}`;
 }
 
 function escapeHtml(text: string): string {

@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **8** |
+| 📝 총 프롬프트 수 | **19** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-05-29** |
 
@@ -56,6 +56,67 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Rusalka Tarot Card Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative prompt using descriptive keywords and emojis to generate a stable, cinematic tarot card-inspired video featuring a mythical Rusalka theme.
+
+#### 📝 프롬프트
+
+```
+Reflection-Rusalka «🌳🧜‍♀️🪞»
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Rusalka Tarot Card Video">
+
+**[🎬 비디오 보기 →](https://x.com/astvatsaturn/status/2060128558287044975)**
+
+**작성자:** [Elis Satu](https://x.com/astvatsaturn) | **출처:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **게시일:** May 29, 2026
+
+---
+### Sims Style Movie Scene Reimagining
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative template for Gemini Omni that recreates iconic movie and TV scenes within the stylized aesthetic of The Sims videogame, including unique graphics and dialogue.
+
+#### 📝 프롬프트
+
+```
+[Movie/TV Show] iconic scene, but it's a Sims videogame
+
+[scene description]
+
+Sims videogame graphics, and Sims silly dialogue
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2060067753638207493/img/4K1obHtL1Kl0vP9s.jpg" width="600" alt="Sims Style Movie Scene Reimagining">
+
+**[🎬 비디오 보기 →](https://x.com/techhalla/status/2060068841573498998)**
+
+**작성자:** [TechHalla](https://x.com/techhalla) | **출처:** [Link](https://x.com/techhalla/status/2060068841573498998) | **게시일:** May 29, 2026
+
+---
+### Hyper-lapse Selfie Travel Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A master prompt for Gemini Omni to create a hyper-lapse travel video that swaps an uploaded character into 20 distinct environments while keeping identity consistent.
+
+#### 📝 프롬프트
+
+```
+Create a 10s hyper-lapse selfie-travel video of uploaded character. Strict identity consistency across all locations and professions. 20 distinct absurd professional roles and extreme environments worldwide with hard
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Hyper-lapse Selfie Travel Transformation">
+
+**[🎬 비디오 보기 →](https://x.com/ZefredAi/status/2060051882538594657)**
+
+**작성자:** [ZeFred.AI](https://x.com/ZefredAi) | **출처:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **게시일:** May 29, 2026
+
+---
 ### 극한 기상 위성 시뮬레이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -68,13 +129,71 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 지구의 가장 극한 기후 시스템인 허리케인, 몬순, 번개 폭풍, 오로라, 토네이도 발생, 모래 폭풍, 화산재 구름을 위성 시점에서 보여주는 10초 분량의 시네마틱 기상 시뮬레이션을 생성하세요. 과학적 라벨은 실시간 기상 인터페이스처럼 깔끔한 흰색 Noto Sans Google 폰트로 표시됩니다. 고해상도 구름 시뮬레이션과 대기 사실감을 구현하세요. 사운드 디자인은 깊은 천둥소리, 바람의 난기류, 멀리서 들리는 비상 무전 잡음, 대기 드론 소리, 그리고 긴장감 넘치는 시네마틱 음악을 레이어링하세요. 대사는 없습니다.
 ```
 
-<video src="https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12" width="600" controls muted playsinline title="극한 기상 위성 시뮬레이션"></video>
-
-https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="극한 기상 위성 시뮬레이션">
 
 **[🎬 비디오 보기 →](https://x.com/HBCoop_/status/2060008267602853936)**
 
 **작성자:** [Heather Cooper](https://x.com/HBCoop_) | **출처:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **게시일:** May 28, 2026
+
+---
+### Premium Travel Poster Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to generate a 10-second high-end travel poster video featuring a panoramic moving strip and stylized typography for a specific city.
+
+#### 📝 프롬프트
+
+```
+[CITY] = KTOKYO
+Create a 10-second premium travel-poster style video for [CITY].
+
+Use a soft ivory poster background, a thin moving panoramic strip at the top, and a huge bold centered sans-serif title: “[CITY]”.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Premium Travel Poster Video">
+
+**[🎬 비디오 보기 →](https://x.com/loglogrog/status/2059997426023584083)**
+
+**작성자:** [マグマグ](https://x.com/loglogrog) | **출처:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **게시일:** May 28, 2026
+
+---
+### Photorealistic Red Yarn Generation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A simple prompt for generating photorealistic red yarn textures as part of a multimodal creative workflow in Gemini Omni.
+
+#### 📝 프롬프트
+
+```
+photorealistic red yarn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059993286211997696/img/g8367Ht-a9BsEIGm.jpg" width="600" alt="Photorealistic Red Yarn Generation">
+
+**[🎬 비디오 보기 →](https://x.com/DataChaz/status/2059993335776129054)**
+
+**작성자:** [Charly Wargnier](https://x.com/DataChaz) | **출처:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **게시일:** May 28, 2026
+
+---
+### The Snitten Hybrid
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative prompt used to generate a video of a whimsical hybrid creature merging a snail and a kitten.
+
+#### 📝 프롬프트
+
+```
+Snail + Kitten = Snitten
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="The Snitten Hybrid">
+
+**[🎬 비디오 보기 →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
+
+**작성자:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **출처:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **게시일:** May 28, 2026
 
 ---
 ### 일관성 있는 애니메이션 캐릭터 걷기
@@ -89,13 +208,30 @@ https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS
 보라색 머리의 드레스를 입은 애니메이션 소녀가 앞으로 꾸준히 걸어갑니다. 헤어스타일, 머리 색상, 드레스 스타일 및 색상은 전체적으로 일정하게 유지되며, 체형과 외모는 변하지 않고 프레임 간의 이미지가 통일되고 안정적입니다.
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27" width="600" controls muted playsinline title="일관성 있는 애니메이션 캐릭터 걷기"></video>
-
-https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="일관성 있는 애니메이션 캐릭터 걷기">
 
 **[🎬 비디오 보기 →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
 
 **작성자:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **출처:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **게시일:** May 28, 2026
+
+---
+### FPV Drone Map Flight
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt to generate high-speed FPV drone footage starting from a specific point on a map screenshot using Gemini Omni Flash.
+
+#### 📝 프롬프트
+
+```
+High-speed FPV drone footage. Complete first-person view (pure FPV POV). The footage begins from the starting point on the screen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059779953227612160/img/FLZbCOAuHBfQYXHP.jpg" width="600" alt="FPV Drone Map Flight">
+
+**[🎬 비디오 보기 →](https://x.com/tanabe_fragm/status/2059781140245057683)**
+
+**작성자:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **출처:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **게시일:** May 28, 2026
 
 ---
 ### 중간계 가상 투어 지도
@@ -116,9 +252,7 @@ POV: 갈색 말을 타고 달리는 시점.
 [선택 사항] (종족: 엘프, 오크, 호빗 등) 일상적인 활동을 하는 모습 포함
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27" width="600" controls muted playsinline title="중간계 가상 투어 지도"></video>
-
-https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="중간계 가상 투어 지도">
 
 **[🎬 비디오 보기 →](https://x.com/techhalla/status/2059724218158166537)**
 
@@ -144,13 +278,49 @@ https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMc
 카메라 앵글은 3/4 아이소메트릭 샷으로 엄격하게 유지하세요
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27" width="600" controls muted playsinline title="스포츠카 아이소메트릭 조립"></video>
-
-https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="스포츠카 아이소메트릭 조립">
 
 **[🎬 비디오 보기 →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
 **작성자:** [Harshith](https://x.com/HarshithLucky3) | **출처:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **게시일:** May 28, 2026
+
+---
+### Showa Era Shopping Street Atmosphere
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt capturing the bustling and nostalgic atmosphere of a Japanese shopping district from the Showa era with lively crowd sounds.
+
+#### 📝 프롬프트
+
+```
+Showa era shopping street, bustling, Japanese language, lively
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059623705786097664/img/I8hjxgmdDLQbJEIF.jpg" width="600" alt="Showa Era Shopping Street Atmosphere">
+
+**[🎬 비디오 보기 →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
+
+**작성자:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **출처:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **게시일:** May 27, 2026
+
+---
+### Glowing Childhood Memories in Rain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A poetic prompt for generating a nostalgic video of childhood memories illuminated by a soft glow during a rain shower.
+
+#### 📝 프롬프트
+
+```
+Glowing childhood memories in rain
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059620411600781312/img/3fn5OmM6yru_I5ea.jpg" width="600" alt="Glowing Childhood Memories in Rain">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2059620519310442844)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **게시일:** May 27, 2026
 
 ---
 ### 물병 던지기 물리 시뮬레이션
@@ -165,13 +335,49 @@ https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LY
 50대 일본인 남성입니다. 영상이 끝날 때까지 물병의 형태를 일정하게 유지하세요. 다음 순서대로 진행합니다: 1. 오른손에 든 물병을 위로 던져 완전히 놓습니다 (그 이후에는 절대 물병을 건드리지 않습니다). 2. 물병이 회전하며 떨어져 테이블 위의 원래 위치에 똑바로 착지합니다. 3. 남성이 양팔을 벌리며 기뻐합니다.
 ```
 
-<video src="https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25" width="600" controls muted playsinline title="물병 던지기 물리 시뮬레이션"></video>
-
-https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="물병 던지기 물리 시뮬레이션">
 
 **[🎬 비디오 보기 →](https://x.com/onoken1025/status/2059536888588030163)**
 
 **작성자:** [onoken1025](https://x.com/onoken1025) | **출처:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **게시일:** May 27, 2026
+
+---
+### Kinetic Typography and Monologue Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A professional video prompt for Gemini Omni focusing on precise typography placement, technical font styles, and synchronized narration effects.
+
+#### 📝 프롬프트
+
+```
+White Helvetica lowercase text + thin line connecting to the main subject + inner monologue style narration
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059535898476523520/img/bVmkD6gicUhnKJGy.jpg" width="600" alt="Kinetic Typography and Monologue Video">
+
+**[🎬 비디오 보기 →](https://x.com/FinanceYF5/status/2059535919007556042)**
+
+**작성자:** [AI Will](https://x.com/FinanceYF5) | **출처:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **게시일:** May 27, 2026
+
+---
+### GTA India Trailer Generator
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A straightforward prompt for generating a game-style trailer featuring Indian cultural landmarks like the Taj Mahal.
+
+#### 📝 프롬프트
+
+```
+generate a GTA India trailer
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2059504365996785664/img/BqyV6qHJ8tQvvpkH.jpg" width="600" alt="GTA India Trailer Generator">
+
+**[🎬 비디오 보기 →](https://x.com/BuildFastWithAI/status/2059522490876010600)**
+
+**작성자:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **출처:** [Link](https://x.com/BuildFastWithAI/status/2059522490876010600) | **게시일:** May 27, 2026
 
 ---
 ### 시네마틱 여행 추억 지도
@@ -190,9 +396,7 @@ https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/Pz
 부드러운 빛이 종이 위를 가로질러 움직이면서, 지도가 천천히 스스로 펼쳐집니다.
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27" width="600" controls muted playsinline title="시네마틱 여행 추억 지도"></video>
-
-https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="시네마틱 여행 추억 지도">
 
 **[🎬 비디오 보기 →](https://x.com/loglogrog/status/2059494802534584504)**
 
@@ -211,9 +415,7 @@ https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6
 이 로고의 20가지 버전을 빠르게 전환하는 애니메이션을 제작하세요. 흰색 배경에 검은색 로고를 유지하고 중앙에 배치하세요.
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27" width="600" controls muted playsinline title="로고 애니메이션 제작 어시스턴트"></video>
-
-https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="로고 애니메이션 제작 어시스턴트">
 
 **[🎬 비디오 보기 →](https://x.com/Team_Greenfield/status/2059493330447413283)**
 
@@ -271,9 +473,7 @@ https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9
 슬로우 모션, 부자연스러운 움직임, 춤, 과장된 연기, 로봇 같은 움직임, 부자연스러운 근육, 변형된 사지, 흐릿한 얼굴, 저품질 질감, 판타지 연출, SF 연출, 돌연변이, 격렬한 카메라 워킹, 정지된 배경 인물, 낮은 해상도, 애니메이션 스타일 표현, 희극적인 표정, 부자연스러운 걸음걸이, 카메라 앵글 변경, 캐릭터 변경, 과도한 모션 블러.
 ```
 
-<video src="https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27" width="600" controls muted playsinline title="인류 진화 다큐멘터리 스토리보드"></video>
-
-https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="인류 진화 다큐멘터리 스토리보드">
 
 **[🎬 비디오 보기 →](https://x.com/tanabe_fragm/status/2059458173615116314)**
 
@@ -316,6 +516,6 @@ https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2U
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-29T05:06:39.231Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-29T08:04:14.849Z</sub>
 
 </div>
