@@ -17,7 +17,6 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 ## 📖 Table of Contents
 
-- [🌐 View in Web Gallery](#-view-in-web-gallery)
 - [🤔 What is Gemini Omni?](#-what-is-gemini-omni)
 - [📊 Statistics](#-statistics)
 - [⭐ Featured Prompts](#-featured-prompts)
@@ -26,21 +25,6 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 - [📄 License](#-license)
 - [🙏 Acknowledgements](#-acknowledgements)
 - [⭐ Star History](#-star-history)
-
----
-
-## 🌐 View in Web Gallery
-
-**[👉 Browse all Gemini Omni prompts on YouMind](https://youmind.com/en-US/gemini-omni-prompts)**
-
-Why use our gallery?
-
-| Feature | GitHub README | youmind.com Gallery |
-|---------|--------------|---------------------|
-| 🎬 Video Playback | ❌ Static thumbnails only | ✅ Full video playback with streaming |
-| 🔍 Search | Ctrl+F only | Multi-field fuzzy matching search |
-| 🤖 AI Recommendation | - | AI-powered prompt recommendations |
-| 📱 Mobile | Basic | Fully responsive |
 
 ---
 
@@ -84,9 +68,11 @@ Why use our gallery?
 Create a 10-second cinematic weather simulation visualized from satellite perspective showing Earth’s most extreme climate systems: hurricanes, monsoons, lightning storms, auroras, tornado outbreaks, sandstorms, volcanic ash clouds. Scientific labels appear in clean white Noto Sans Google Font like a live meteorological interface. High-detail cloud simulations and atmospheric realism. Sound design layers deep thunder, wind turbulence, distant emergency radio chatter, atmospheric drones, and cinematic tension music. No dialogue.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="Extreme Weather Satellite Simulation">
+<video src="https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12" width="600" controls muted playsinline title="Extreme Weather Satellite Simulation"></video>
 
-**[🎬 Watch Video →](https://youmind.com/en-US/gemini-omni-prompts?id=5360)**
+https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12
+
+**[🎬 Watch Video →](https://x.com/HBCoop_/status/2060008267602853936)**
 
 **Author:** [Heather Cooper](https://x.com/HBCoop_) | **Source:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **Published:** May 28, 2026
 
@@ -103,9 +89,11 @@ Create a 10-second cinematic weather simulation visualized from satellite perspe
 Anime girl in a purple-haired dress walks steadily forward, with her hairstyle, hair color, dress style, and color remaining constant throughout, her figure and appearance unchanged, and her image across frames unified and stable.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="Consistent Anime Character Walking">
+<video src="https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27" width="600" controls muted playsinline title="Consistent Anime Character Walking"></video>
 
-**[🎬 Watch Video →](https://youmind.com/en-US/gemini-omni-prompts?id=5361)**
+https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27
+
+**[🎬 Watch Video →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
 
 **Author:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Source:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **Published:** May 28, 2026
 
@@ -128,9 +116,11 @@ Real gritty found footage.
 [OPTIONAL] (race: elfs, orcs, hobbits...) doing everyday stuff
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="Middle Earth Virtual Tour Map">
+<video src="https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27" width="600" controls muted playsinline title="Middle Earth Virtual Tour Map"></video>
 
-**[🎬 Watch Video →](https://youmind.com/en-US/gemini-omni-prompts?id=5363)**
+https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27
+
+**[🎬 Watch Video →](https://x.com/techhalla/status/2059724218158166537)**
 
 **Author:** [TechHalla](https://x.com/techhalla) | **Source:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Published:** May 28, 2026
 
@@ -154,9 +144,11 @@ Create a fast-paced high-energy 10 sec video showing the rapid, piece-by-piece a
 keep the camera angle strictly as a 3/4 isometric shot
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="Sports Car Isometric Assembly">
+<video src="https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27" width="600" controls muted playsinline title="Sports Car Isometric Assembly"></video>
 
-**[🎬 Watch Video →](https://youmind.com/en-US/gemini-omni-prompts?id=5362)**
+https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27
+
+**[🎬 Watch Video →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
 **Author:** [Harshith](https://x.com/HarshithLucky3) | **Source:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Published:** May 28, 2026
 
@@ -173,9 +165,11 @@ keep the camera angle strictly as a 3/4 isometric shot
 He is a Japanese man in his 50s. Maintain consistency of the bottle shape until the end. Progress through the following sequence: 1. He throws the bottle held in his right hand upwards and completely lets go of it (after that, he absolutely does not touch the bottle). 2. The bottle rotates and falls, landing upright in its original position on the table. 3. He spreads his arms and rejoices.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="Bottle Flip Physics Simulation">
+<video src="https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25" width="600" controls muted playsinline title="Bottle Flip Physics Simulation"></video>
 
-**[🎬 Watch Video →](https://youmind.com/en-US/gemini-omni-prompts?id=5364)**
+https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25
+
+**[🎬 Watch Video →](https://x.com/onoken1025/status/2059536888588030163)**
 
 **Author:** [onoken1025](https://x.com/onoken1025) | **Source:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Published:** May 27, 2026
 
@@ -196,9 +190,11 @@ The ticket has the destination name “[CITY]” printed on it.
 As soft light moves across the paper, the map slowly unfolds by itself.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Travel Memory Map">
+<video src="https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27" width="600" controls muted playsinline title="Cinematic Travel Memory Map"></video>
 
-**[🎬 Watch Video →](https://youmind.com/en-US/gemini-omni-prompts?id=5365)**
+https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27
+
+**[🎬 Watch Video →](https://x.com/loglogrog/status/2059494802534584504)**
 
 **Author:** [マグマグ](https://x.com/loglogrog) | **Source:** [Link](https://x.com/loglogrog/status/2059494802534584504) | **Published:** May 27, 2026
 
@@ -215,9 +211,11 @@ As soft light moves across the paper, the map slowly unfolds by itself.
 Rapid fire animation through 20 different versions of this logo. Keep it black on white and centered.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="Rapid Logo Animation Assistant">
+<video src="https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27" width="600" controls muted playsinline title="Rapid Logo Animation Assistant"></video>
 
-**[🎬 Watch Video →](https://youmind.com/en-US/gemini-omni-prompts?id=5366)**
+https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27
+
+**[🎬 Watch Video →](https://x.com/Team_Greenfield/status/2059493330447413283)**
 
 **Author:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Source:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **Published:** May 27, 2026
 
@@ -252,9 +250,11 @@ Please use the attached storyboard image as an exact visual blueprint to create 
 --- [Negative Prompt] --- Slow motion, unnatural movement, dancing, exaggerated acting, robotic movement, unnatural muscles, deformed limbs, blurred face, low-quality texture, fantasy elements, sci-fi elements, mutation, violent camerawork, static background characters, low resolution, anime-style expression, comical expression, unnatural walking, camera angle change, person becomes a different person, excessive motion blur.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Human Evolution Documentary">
+<video src="https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27" width="600" controls muted playsinline title="Cinematic Human Evolution Documentary"></video>
 
-**[🎬 Watch Video →](https://youmind.com/en-US/gemini-omni-prompts?id=5350)**
+https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27
+
+**[🎬 Watch Video →](https://x.com/tanabe_fragm/status/2059458173615116314)**
 
 **Author:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **Published:** May 27, 2026
 
@@ -292,10 +292,9 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 
 <div align="center">
 
-**[🌐 View in Web Gallery](https://youmind.com/en-US/gemini-omni-prompts)** •
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-29T04:16:46.074Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-05-29T05:06:36.148Z</sub>
 
 </div>

@@ -17,7 +17,6 @@
 
 ## 📖 สารบัญ
 
-- [🌐 ดูในแกลเลอรีเว็บ](#-)
 - [🤔 Gemini Omni คืออะไร?](#-gemini-omni-)
 - [📊 สถิติ](#-)
 - [⭐ พรอมต์แนะนำ](#-)
@@ -26,21 +25,6 @@
 - [📄 ใบอนุญาต](#-)
 - [🙏 กิตติกรรมประกาศ](#-)
 - [⭐ ประวัติดาว](#-)
-
----
-
-## 🌐 ดูในแกลเลอรีเว็บ
-
-**[👉 เรียกดูพรอมต์ Gemini Omni ทั้งหมดบน YouMind](https://youmind.com/th-TH/gemini-omni-prompts)**
-
-ทำไมต้องใช้แกลเลอรีของเรา?
-
-| Feature | GitHub README | แกลเลอรี youmind.com |
-|---------|--------------|---------------------|
-| 🎬 เล่นวิดีโอ | ❌ ภาพขนาดย่อคงที่เท่านั้น | ✅ เล่นวิดีโอเต็มรูปแบบพร้อมสตรีมมิ่ง |
-| 🔍 ค้นหา | Ctrl+F เท่านั้น | การค้นหาแบบจับคู่หลายฟิลด์ |
-| 🤖 แนะนำ AI | - | แนะนำพรอมต์ด้วย AI |
-| 📱 มือถือ | พื้นฐาน | ตอบสนองอย่างเต็มที่ |
 
 ---
 
@@ -84,9 +68,11 @@
 สร้างการจำลองสภาพอากาศระดับภาพยนตร์ความยาว 10 วินาทีในมุมมองจากดาวเทียม ซึ่งแสดงระบบภูมิอากาศที่รุนแรงที่สุดของโลก ได้แก่ พายุเฮอริเคน, มรสุม, พายุสายฟ้า, แสงออโรรา, พายุทอร์นาโด, พายุทราย และกลุ่มควันจากภูเขาไฟ โดยมีป้ายกำกับทางวิทยาศาสตร์ปรากฏขึ้นด้วยฟอนต์ Noto Sans ของ Google สีขาวสะอาดตา คล้ายกับอินเทอร์เฟซของสถานีอุตุนิยมวิทยาแบบเรียลไทม์ พร้อมการจำลองก้อนเมฆที่มีรายละเอียดสูงและความสมจริงของชั้นบรรยากาศ การออกแบบเสียงประกอบด้วยเสียงฟ้าร้องที่ทุ้มลึก, เสียงลมปั่นป่วน, เสียงวิทยุฉุกเฉินที่แว่วมาแต่ไกล, เสียงโดรนบรรยากาศ และดนตรีประกอบที่สร้างความตื่นเต้นในแบบภาพยนตร์ โดยไม่มีบทสนทนา
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="การจำลองสภาพอากาศสุดขั้วจากดาวเทียม">
+<video src="https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12" width="600" controls muted playsinline title="การจำลองสภาพอากาศสุดขั้วจากดาวเทียม"></video>
 
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/gemini-omni-prompts?id=5360)**
+https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12
+
+**[🎬 ดูวิดีโอ →](https://x.com/HBCoop_/status/2060008267602853936)**
 
 **ผู้เขียน:** [Heather Cooper](https://x.com/HBCoop_) | **แหล่งที่มา:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **เผยแพร่เมื่อ:** May 28, 2026
 
@@ -103,9 +89,11 @@
 เด็กสาวอนิเมะผมสีม่วงในชุดเดรสเดินไปข้างหน้าอย่างมั่นคง โดยที่ทรงผม สีผม สไตล์ของชุด และสีสันยังคงเดิมตลอดทั้งคลิป รูปร่างและลักษณะปรากฏไม่เปลี่ยนแปลง และภาพในแต่ละเฟรมมีความสอดคล้องและเสถียร
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="การสร้างแอนิเมชันตัวละครอนิเมะเดินอย่างต่อเนื่อง">
+<video src="https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27" width="600" controls muted playsinline title="การสร้างแอนิเมชันตัวละครอนิเมะเดินอย่างต่อเนื่อง"></video>
 
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/gemini-omni-prompts?id=5361)**
+https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27
+
+**[🎬 ดูวิดีโอ →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
 
 **ผู้เขียน:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **แหล่งที่มา:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **เผยแพร่เมื่อ:** May 28, 2026
 
@@ -128,9 +116,11 @@
 [ทางเลือก] (เผ่าพันธุ์: เอลฟ์, ออร์ค, ฮอบบิท...) กำลังทำกิจกรรมในชีวิตประจำวัน
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="แผนที่ทัวร์เสมือนจริง Middle Earth">
+<video src="https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27" width="600" controls muted playsinline title="แผนที่ทัวร์เสมือนจริง Middle Earth"></video>
 
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/gemini-omni-prompts?id=5363)**
+https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27
+
+**[🎬 ดูวิดีโอ →](https://x.com/techhalla/status/2059724218158166537)**
 
 **ผู้เขียน:** [TechHalla](https://x.com/techhalla) | **แหล่งที่มา:** [Link](https://x.com/techhalla/status/2059724218158166537) | **เผยแพร่เมื่อ:** May 28, 2026
 
@@ -154,9 +144,11 @@
 โดยให้คงมุมกล้องแบบ 3/4 ไอโซเมตริกไว้ตลอดทั้งคลิป
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="การประกอบรถสปอร์ตในมุมมองไอโซเมตริก">
+<video src="https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27" width="600" controls muted playsinline title="การประกอบรถสปอร์ตในมุมมองไอโซเมตริก"></video>
 
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/gemini-omni-prompts?id=5362)**
+https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27
+
+**[🎬 ดูวิดีโอ →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
 **ผู้เขียน:** [Harshith](https://x.com/HarshithLucky3) | **แหล่งที่มา:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **เผยแพร่เมื่อ:** May 28, 2026
 
@@ -173,9 +165,11 @@
 เขาเป็นชายชาวญี่ปุ่นในวัย 50 ปี รักษาความสม่ำเสมอของรูปทรงขวดไว้จนจบวิดีโอ ดำเนินการตามลำดับดังต่อไปนี้: 1. เขาโยนขวดที่ถืออยู่ในมือขวาขึ้นไปด้านบนและปล่อยมือจากขวดโดยสมบูรณ์ (หลังจากนั้น ห้ามสัมผัสขวดอีกเด็ดขาด) 2. ขวดหมุนและตกลงมา โดยลงจอดในตำแหน่งเดิมบนโต๊ะในแนวตั้ง 3. เขากางแขนออกและแสดงอาการดีใจ
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="การจำลองฟิสิกส์ของการโยนขวด (Bottle Flip)">
+<video src="https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25" width="600" controls muted playsinline title="การจำลองฟิสิกส์ของการโยนขวด (Bottle Flip)"></video>
 
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/gemini-omni-prompts?id=5364)**
+https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25
+
+**[🎬 ดูวิดีโอ →](https://x.com/onoken1025/status/2059536888588030163)**
 
 **ผู้เขียน:** [onoken1025](https://x.com/onoken1025) | **แหล่งที่มา:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **เผยแพร่เมื่อ:** May 27, 2026
 
@@ -196,9 +190,11 @@
 ในขณะที่แสงนุ่มนวลเคลื่อนผ่านกระดาษ แผนที่ก็ค่อย ๆ กางออกด้วยตัวเอง
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="แผนที่ความทรงจำการเดินทางสไตล์ภาพยนตร์">
+<video src="https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27" width="600" controls muted playsinline title="แผนที่ความทรงจำการเดินทางสไตล์ภาพยนตร์"></video>
 
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/gemini-omni-prompts?id=5365)**
+https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27
+
+**[🎬 ดูวิดีโอ →](https://x.com/loglogrog/status/2059494802534584504)**
 
 **ผู้เขียน:** [マグマグ](https://x.com/loglogrog) | **แหล่งที่มา:** [Link](https://x.com/loglogrog/status/2059494802534584504) | **เผยแพร่เมื่อ:** May 27, 2026
 
@@ -215,9 +211,11 @@
 สร้างแอนิเมชันแบบรวดเร็วผ่านโลโก้นี้ใน 20 รูปแบบที่แตกต่างกัน โดยใช้สีดำบนพื้นหลังสีขาวและจัดวางไว้ที่กึ่งกลาง
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="ผู้ช่วยสร้างแอนิเมชันโลโก้แบบรวดเร็ว">
+<video src="https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27" width="600" controls muted playsinline title="ผู้ช่วยสร้างแอนิเมชันโลโก้แบบรวดเร็ว"></video>
 
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/gemini-omni-prompts?id=5366)**
+https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27
+
+**[🎬 ดูวิดีโอ →](https://x.com/Team_Greenfield/status/2059493330447413283)**
 
 **ผู้เขียน:** [Greenfield Team!](https://x.com/Team_Greenfield) | **แหล่งที่มา:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **เผยแพร่เมื่อ:** May 27, 2026
 
@@ -273,9 +271,11 @@
 สโลว์โมชัน, การเคลื่อนไหวที่ไม่เป็นธรรมชาติ, การเต้น, การแสดงที่เกินจริง, การเคลื่อนไหวแบบหุ่นยนต์, กล้ามเนื้อที่ไม่เป็นธรรมชาติ, แขนขาผิดรูป, ใบหน้าเบลอ, พื้นผิวคุณภาพต่ำ, ทิศทางแบบแฟนตาซี, ทิศทางแบบไซไฟ, การกลายพันธุ์, การใช้กล้องที่รุนแรง, ผู้คนในฉากหลังที่หยุดนิ่ง, ความละเอียดต่ำ, การแสดงออกสไตล์อนิเมะ, การแสดงออกที่ตลกขบขัน, การเดินที่ไม่เป็นธรรมชาติ, การเปลี่ยนมุมกล้อง, การเปลี่ยนตัวละคร, การเคลื่อนไหวเบลอที่มากเกินไป
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="สตอรีบอร์ดสารคดีวิวัฒนาการของมนุษย์">
+<video src="https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27" width="600" controls muted playsinline title="สตอรีบอร์ดสารคดีวิวัฒนาการของมนุษย์"></video>
 
-**[🎬 ดูวิดีโอ →](https://youmind.com/th-TH/gemini-omni-prompts?id=5350)**
+https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27
+
+**[🎬 ดูวิดีโอ →](https://x.com/tanabe_fragm/status/2059458173615116314)**
 
 **ผู้เขียน:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **แหล่งที่มา:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **เผยแพร่เมื่อ:** May 27, 2026
 
@@ -313,10 +313,9 @@
 
 <div align="center">
 
-**[🌐 ดูในแกลเลอรีเว็บ](https://youmind.com/th-TH/gemini-omni-prompts)** •
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-05-29T04:16:50.559Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-05-29T05:06:40.523Z</sub>
 
 </div>

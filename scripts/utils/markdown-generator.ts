@@ -85,7 +85,6 @@ ${t('subtitle', locale)}
   // TOC
   md += `## 📖 ${t('toc', locale)}
 
-- [🌐 ${t('viewInGallery', locale)}](#-${slugify(t('viewInGallery', locale))})
 - [🤔 ${t('whatIs', locale)}](#-${slugify(t('whatIs', locale))})
 - [📊 ${t('stats', locale)}](#-${slugify(t('stats', locale))})
 - [⭐ ${t('featuredPrompts', locale)}](#-${slugify(t('featuredPrompts', locale))})
@@ -94,24 +93,6 @@ ${t('subtitle', locale)}
 - [📄 ${t('license', locale)}](#-${slugify(t('license', locale))})
 - [🙏 ${t('acknowledgements', locale)}](#-${slugify(t('acknowledgements', locale))})
 - [⭐ ${t('starHistory', locale)}](#-${slugify(t('starHistory', locale))})
-
----
-
-`;
-
-  // Gallery CTA
-  md += `## 🌐 ${t('viewInGallery', locale)}
-
-**[${t('browseGallery', locale)}](${galleryUrl})**
-
-${t('galleryFeatures', locale)}
-
-| Feature | ${t('githubReadme', locale)} | ${t('youmindGallery', locale)} |
-|---------|--------------|---------------------|
-| 🎬 ${t('visualLayout', locale)} | ${t('linearList', locale)} | ${t('masonryGrid', locale)} |
-| 🔍 ${t('search', locale)} | ${t('ctrlFOnly', locale)} | ${t('fullTextSearch', locale)} |
-| 🤖 ${t('languages', locale)} | - | ${t('aiRecommendation', locale)} |
-| 📱 ${t('mobile', locale)} | ${t('basic', locale)} | ${t('fullyResponsive', locale)} |
 
 ---
 
@@ -190,15 +171,7 @@ ${t('whatIsIntro', locale)}
 
 Due to GitHub's content length limitations, we can only display the first ${MAX_PROMPTS_TO_DISPLAY} prompts in this README.
 
-**[${t('viewAll', locale)}](${galleryUrl})**
-
-${t('galleryFeature1', locale)}
-
-${t('galleryFeature2', locale)}
-
-${t('galleryFeature3', locale)}
-
-${t('galleryFeature4', locale)}
+Run \`pnpm run generate\` locally to regenerate this README from CMS.
 
 </div>
 
@@ -250,7 +223,6 @@ ${t('licensedUnder', locale)}
 
 <div align="center">
 
-**[🌐 ${t('viewInGallery', locale)}](${galleryUrl})** •
 **[📝 ${t('submitPrompt', locale)}](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ${t('starRepo', locale)}](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
@@ -283,8 +255,8 @@ function generateFeaturedPromptBlock(
   const title = sanitizeGeminiOmniText(p.title);
   const promptContent = sanitizeGeminiOmniText(p.translatedContent || p.content);
   const displayImage = p.referenceImages?.[0] || p.mediaImages?.[0] || p.thumbnail;
-  const tryLink = `${galleryUrl}?id=${p.id}`;
-  const videoUrl = videoUrls[String(p.id)];
+  const videoUrl = resolveEmbeddedVideoUrl(p, videoUrls);
+  const tryLink = p.sourceLink || videoUrl || `${galleryUrl}?id=${p.id}`;
   const watchVideoLink = `**[${t('watchVideo', locale)}](${tryLink})**`;
 
   let md = `### No. ${index}: ${title}\n\n`;
@@ -300,14 +272,8 @@ function generateFeaturedPromptBlock(
   // Video / thumbnail embed (center-aligned)
   md += `#### 🎬 ${t('video', locale)}\n\n`;
   md += `<div align="center">\n\n`;
-  if (videoUrl && videoUrl.includes('user-attachments/assets/')) {
-    md += `${videoUrl}\n\n`;
-    md += `${watchVideoLink}\n\n`;
-  } else if (videoUrl && displayImage) {
-    md += `<a href="${videoUrl}">\n`;
-    md += `<img src="${displayImage}" width="700" alt="${title}">\n`;
-    md += `</a>\n\n`;
-    md += `📥 *${t('clickToPlay', locale)}* | ${watchVideoLink}\n\n`;
+  if (videoUrl) {
+    md += renderEmbeddedVideo(videoUrl, title, '700', watchVideoLink);
   } else {
     md += `<img src="${displayImage}" width="700" alt="${title}">\n\n`;
     md += `${watchVideoLink}\n\n`;
@@ -336,22 +302,18 @@ function generatePromptBlock(p: import('./cms-client.js').ProcessedPrompt, local
     : '';
   const sourceLine = p.sourceLink ? ` | **${t('source', locale)}:** [Link](${p.sourceLink})` : '';
   const dateLine = p.sourcePublishedAt ? ` | **${t('published', locale)}:** ${formatDate(p.sourcePublishedAt)}` : '';
-  const tryLink = `${galleryUrl}?id=${p.id}`;
   const promptContent = sanitizeGeminiOmniText(p.translatedContent || p.content);
   const displayImage = (p.referenceImages?.[0]) || (p.mediaImages?.[0]) || p.thumbnail;
   const imgWidth = isFeatured ? '700' : '600';
   const featuredBadge = isFeatured ? `![Featured](https://img.shields.io/badge/⭐-Featured-gold)\n` : '';
 
   // Check if we have a video URL from the mapping
-  const videoUrl = videoUrls[String(p.id)];
+  const videoUrl = resolveEmbeddedVideoUrl(p, videoUrls);
+  const tryLink = p.sourceLink || videoUrl || `${galleryUrl}?id=${p.id}`;
   let mediaEmbed: string;
   const watchVideoLink = `**[${t('watchVideo', locale)}](${tryLink})**`;
-  if (videoUrl && videoUrl.includes('user-attachments/assets/')) {
-    // GitHub auto-renders user-attachments URLs as inline video players
-    mediaEmbed = `${videoUrl}\n\n${watchVideoLink}`;
-  } else if (videoUrl && displayImage) {
-    // Fallback: release assets URL — use clickable thumbnail (GitHub won't auto-embed these)
-    mediaEmbed = `<a href="${videoUrl}"><img src="${displayImage}" width="${imgWidth}" alt="${title}"></a>\n\n📥 *${t('clickToPlay', locale)}* | ${watchVideoLink}`;
+  if (videoUrl) {
+    mediaEmbed = renderEmbeddedVideo(videoUrl, title, imgWidth, watchVideoLink);
   } else {
     mediaEmbed = `<img src="${displayImage}" width="${imgWidth}" alt="${title}">\n\n${watchVideoLink}`;
   }
@@ -378,6 +340,37 @@ function sanitizeGeminiOmniText(text: string): string {
   return text
     .replace(/Seedance\s*2(?:\.0)?/gi, 'Gemini Omni')
     .replace(/Seedance/gi, 'Gemini Omni');
+}
+
+function resolveEmbeddedVideoUrl(
+  p: import('./cms-client.js').ProcessedPrompt,
+  videoUrls: VideoUrlMap,
+): string | undefined {
+  const mapped = videoUrls[String(p.id)];
+  if (mapped) return mapped;
+  if (p.videoUrl && !p.videoUrl.startsWith('cloudflare:')) return p.videoUrl;
+  return undefined;
+}
+
+function renderEmbeddedVideo(
+  videoUrl: string,
+  title: string,
+  width: string,
+  secondaryLink: string,
+): string {
+  if (videoUrl.includes('user-attachments/assets/')) {
+    return `${videoUrl}\n\n${secondaryLink}`;
+  }
+
+  return `<video src="${videoUrl}" width="${width}" controls muted playsinline title="${escapeHtml(title)}"></video>\n\n${videoUrl}\n\n${secondaryLink}`;
+}
+
+function escapeHtml(text: string): string {
+  return text
+    .replace(/&/g, '&amp;')
+    .replace(/"/g, '&quot;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
 }
 
 function generateLanguageNavigation(currentLocale: string): string {

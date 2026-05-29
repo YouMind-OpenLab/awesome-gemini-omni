@@ -17,7 +17,6 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 ## 📖 目录
 
-- [🌐 在网页画廊中查看](#-)
 - [🤔 什么是 Gemini Omni？](#--gemini-omni)
 - [📊 统计数据](#-)
 - [⭐ 精选提示词](#-)
@@ -26,21 +25,6 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 - [📄 许可证](#-)
 - [🙏 致谢](#-)
 - [⭐ Star 历史](#-star-)
-
----
-
-## 🌐 在网页画廊中查看
-
-**[👉 在 YouMind 浏览所有 Gemini Omni 提示词](https://youmind.com/zh-CN/gemini-omni-prompts)**
-
-为什么使用画廊？
-
-| Feature | GitHub README | youmind.com 画廊 |
-|---------|--------------|---------------------|
-| 🎬 视频播放 | ❌ 仅静态缩略图 | ✅ 完整视频流畅播放 |
-| 🔍 搜索 | 仅 Ctrl+F | 多字段模糊匹配搜索 |
-| 🤖 AI 推荐 | - | AI 智能提示词推荐 |
-| 📱 移动端 | 基础 | 完全响应式 |
 
 ---
 
@@ -84,9 +68,11 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 创建一个 10 秒的电影级天气模拟，以卫星视角展示地球上最极端的各种气候系统：飓风、季风、雷暴、极光、龙卷风爆发、沙尘暴和火山灰云。科学标签采用简洁的白色 Noto Sans Google 字体，呈现出如实时气象界面般的效果。具备高细节的云层模拟和大气真实感。音效设计包含深沉的雷声、风力湍流、远处的紧急无线电杂音、大气环境音以及电影级的紧张配乐。无对白。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="极端天气卫星模拟">
+<video src="https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12" width="600" controls muted playsinline title="极端天气卫星模拟"></video>
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/gemini-omni-prompts?id=5360)**
+https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12
+
+**[🎬 观看视频 →](https://x.com/HBCoop_/status/2060008267602853936)**
 
 **作者:** [Heather Cooper](https://x.com/HBCoop_) | **来源:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **发布时间:** May 28, 2026
 
@@ -103,9 +89,11 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 一位留着紫色头发、身穿连衣裙的动漫少女稳步向前走，她的发型、发色、裙装款式及颜色在整个过程中保持不变，身材和外貌维持一致，确保各帧画面中的形象统一且稳定。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="保持动漫角色行走一致性">
+<video src="https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27" width="600" controls muted playsinline title="保持动漫角色行走一致性"></video>
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/gemini-omni-prompts?id=5361)**
+https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27
+
+**[🎬 观看视频 →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
 
 **作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **来源:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **发布时间:** May 28, 2026
 
@@ -128,9 +116,11 @@ POV：我们正骑着一匹棕色的马。
 [可选]（种族：精灵、兽人、霍比特人等）正在做日常活动
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="中土世界虚拟导览地图">
+<video src="https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27" width="600" controls muted playsinline title="中土世界虚拟导览地图"></video>
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/gemini-omni-prompts?id=5363)**
+https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27
+
+**[🎬 观看视频 →](https://x.com/techhalla/status/2059724218158166537)**
 
 **作者:** [TechHalla](https://x.com/techhalla) | **来源:** [Link](https://x.com/techhalla/status/2059724218158166537) | **发布时间:** May 28, 2026
 
@@ -154,9 +144,11 @@ POV：我们正骑着一匹棕色的马。
 摄像机角度请严格保持 3/4 等轴测视角
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="跑车等轴测组装">
+<video src="https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27" width="600" controls muted playsinline title="跑车等轴测组装"></video>
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/gemini-omni-prompts?id=5362)**
+https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27
+
+**[🎬 观看视频 →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
 **作者:** [Harshith](https://x.com/HarshithLucky3) | **来源:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **发布时间:** May 28, 2026
 
@@ -173,9 +165,11 @@ POV：我们正骑着一匹棕色的马。
 他是一位 50 多岁的日本男性。请确保瓶子的形状在整个过程中保持一致。按照以下顺序进行：1. 他将右手握住的瓶子向上抛出并完全松手（此后绝对不要再触碰瓶子）。2. 瓶子旋转下落，并直立落在桌子上的原始位置。3. 他张开双臂，表现出欣喜若狂的样子。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="瓶子翻转物理模拟">
+<video src="https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25" width="600" controls muted playsinline title="瓶子翻转物理模拟"></video>
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/gemini-omni-prompts?id=5364)**
+https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25
+
+**[🎬 观看视频 →](https://x.com/onoken1025/status/2059536888588030163)**
 
 **作者:** [onoken1025](https://x.com/onoken1025) | **来源:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **发布时间:** May 27, 2026
 
@@ -196,9 +190,11 @@ POV：我们正骑着一匹棕色的马。
 随着柔和的光线在纸面上移动，地图缓缓自动展开。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="电影感旅行记忆地图">
+<video src="https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27" width="600" controls muted playsinline title="电影感旅行记忆地图"></video>
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/gemini-omni-prompts?id=5365)**
+https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27
+
+**[🎬 观看视频 →](https://x.com/loglogrog/status/2059494802534584504)**
 
 **作者:** [マグマグ](https://x.com/loglogrog) | **来源:** [Link](https://x.com/loglogrog/status/2059494802534584504) | **发布时间:** May 27, 2026
 
@@ -215,9 +211,11 @@ POV：我们正骑着一匹棕色的马。
 快速切换展示该 Logo 的 20 种不同版本。保持黑白配色并确保居中。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="快速 Logo 动画助手">
+<video src="https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27" width="600" controls muted playsinline title="快速 Logo 动画助手"></video>
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/gemini-omni-prompts?id=5366)**
+https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27
+
+**[🎬 观看视频 →](https://x.com/Team_Greenfield/status/2059493330447413283)**
 
 **作者:** [Greenfield Team!](https://x.com/Team_Greenfield) | **来源:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **发布时间:** May 27, 2026
 
@@ -273,9 +271,11 @@ POV：我们正骑着一匹棕色的马。
 慢动作、不自然的动作、跳舞、夸张的表演、机器人动作、不自然的肌肉、畸形的四肢、模糊的面部、低质量纹理、幻想方向、科幻方向、变异、剧烈的运镜、静止的背景人物、低分辨率、动漫风格表情、滑稽表情、不自然的行走、摄像机角度变化、更换角色、过度的运动模糊。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="人类进化纪录片项目 (Storyboard)">
+<video src="https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27" width="600" controls muted playsinline title="人类进化纪录片项目 (Storyboard)"></video>
 
-**[🎬 观看视频 →](https://youmind.com/zh-CN/gemini-omni-prompts?id=5350)**
+https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27
+
+**[🎬 观看视频 →](https://x.com/tanabe_fragm/status/2059458173615116314)**
 
 **作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **来源:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **发布时间:** May 27, 2026
 
@@ -313,10 +313,9 @@ POV：我们正骑着一匹棕色的马。
 
 <div align="center">
 
-**[🌐 在网页画廊中查看](https://youmind.com/zh-CN/gemini-omni-prompts)** •
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-29T04:16:47.374Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-05-29T05:06:36.762Z</sub>
 
 </div>

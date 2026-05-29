@@ -17,7 +17,6 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 ## 📖 目錄
 
-- [🌐 在網頁畫廊中查看](#-)
 - [🤔 什麼是 Gemini Omni？](#--gemini-omni)
 - [📊 統計數據](#-)
 - [⭐ 精選提示詞](#-)
@@ -26,21 +25,6 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 - [📄 許可證](#-)
 - [🙏 致謝](#-)
 - [⭐ Star 歷史](#-star-)
-
----
-
-## 🌐 在網頁畫廊中查看
-
-**[👉 在 YouMind 瀏覽所有 Gemini Omni 提示詞](https://youmind.com/zh-TW/gemini-omni-prompts)**
-
-為什麼使用畫廊？
-
-| Feature | GitHub README | youmind.com 畫廊 |
-|---------|--------------|---------------------|
-| 🎬 視頻播放 | ❌ 僅靜態縮略圖 | ✅ 完整視頻流暢播放 |
-| 🔍 搜索 | 僅 Ctrl+F | 多字段模糊匹配搜索 |
-| 🤖 AI 推薦 | - | AI 智能提示詞推薦 |
-| 📱 移動端 | 基礎 | 完全響應式 |
 
 ---
 
@@ -84,9 +68,11 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 製作一個 10 秒的電影級天氣模擬，以衛星視角呈現地球上最極端的氣候系統：颶風、季風、雷暴、極光、龍捲風爆發、沙塵暴與火山灰雲。科學標籤以簡潔的白色 Noto Sans Google 字體顯示，呈現如即時氣象介面般的視覺效果。具備高細節的雲層模擬與大氣真實感。音效設計包含深沉的雷聲、風力湍流、遠處的緊急無線電雜訊、大氣環境音與電影般的緊張配樂。無對白。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="極端天氣衛星模擬">
+<video src="https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12" width="600" controls muted playsinline title="極端天氣衛星模擬"></video>
 
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/gemini-omni-prompts?id=5360)**
+https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12
+
+**[🎬 觀看視頻 →](https://x.com/HBCoop_/status/2060008267602853936)**
 
 **作者:** [Heather Cooper](https://x.com/HBCoop_) | **來源:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **發布時間:** May 28, 2026
 
@@ -103,9 +89,11 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 一位留著紫色頭髮、穿著連身裙的動漫少女穩步向前走，她的髮型、髮色、服裝款式與顏色在過程中保持不變，身形與外貌維持一致，確保各幀之間的影像統一且穩定。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="動漫角色行走一致性生成">
+<video src="https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27" width="600" controls muted playsinline title="動漫角色行走一致性生成"></video>
 
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/gemini-omni-prompts?id=5361)**
+https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27
+
+**[🎬 觀看視頻 →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
 
 **作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **來源:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **發布時間:** May 28, 2026
 
@@ -128,9 +116,11 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 [選填] (種族：精靈、半獸人、哈比人……) 正在做日常活動
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="中土世界虛擬導覽地圖">
+<video src="https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27" width="600" controls muted playsinline title="中土世界虛擬導覽地圖"></video>
 
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/gemini-omni-prompts?id=5363)**
+https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27
+
+**[🎬 觀看視頻 →](https://x.com/techhalla/status/2059724218158166537)**
 
 **作者:** [TechHalla](https://x.com/techhalla) | **來源:** [Link](https://x.com/techhalla/status/2059724218158166537) | **發布時間:** May 28, 2026
 
@@ -154,9 +144,11 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 攝影視角請嚴格保持在 3/4 等距視角
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="跑車等距視角組裝">
+<video src="https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27" width="600" controls muted playsinline title="跑車等距視角組裝"></video>
 
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/gemini-omni-prompts?id=5362)**
+https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27
+
+**[🎬 觀看視頻 →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
 **作者:** [Harshith](https://x.com/HarshithLucky3) | **來源:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **發布時間:** May 28, 2026
 
@@ -173,9 +165,11 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 他是一位 50 多歲的日本男性。請確保瓶子的形狀在整個過程中保持一致。請依照以下順序進行：1. 他將右手持有的瓶子向上拋出並完全放手（此後絕對不能再觸碰瓶子）。2. 瓶子旋轉並落下，最終直立落在桌上的原始位置。3. 他張開雙臂表示慶祝。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="瓶子翻轉物理模擬">
+<video src="https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25" width="600" controls muted playsinline title="瓶子翻轉物理模擬"></video>
 
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/gemini-omni-prompts?id=5364)**
+https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25
+
+**[🎬 觀看視頻 →](https://x.com/onoken1025/status/2059536888588030163)**
 
 **作者:** [onoken1025](https://x.com/onoken1025) | **來源:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **發布時間:** May 27, 2026
 
@@ -196,9 +190,11 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 隨著柔和的光線在紙面上移動，地圖緩緩地自動展開。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="電影感旅行回憶地圖">
+<video src="https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27" width="600" controls muted playsinline title="電影感旅行回憶地圖"></video>
 
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/gemini-omni-prompts?id=5365)**
+https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27
+
+**[🎬 觀看視頻 →](https://x.com/loglogrog/status/2059494802534584504)**
 
 **作者:** [マグマグ](https://x.com/loglogrog) | **來源:** [Link](https://x.com/loglogrog/status/2059494802534584504) | **發布時間:** May 27, 2026
 
@@ -215,9 +211,11 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 快速切換展示此 Logo 的 20 種不同版本動畫。保持黑白配色並確保畫面置中。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="快速 Logo 動畫助手">
+<video src="https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27" width="600" controls muted playsinline title="快速 Logo 動畫助手"></video>
 
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/gemini-omni-prompts?id=5366)**
+https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27
+
+**[🎬 觀看視頻 →](https://x.com/Team_Greenfield/status/2059493330447413283)**
 
 **作者:** [Greenfield Team!](https://x.com/Team_Greenfield) | **來源:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **發布時間:** May 27, 2026
 
@@ -273,9 +271,11 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 慢動作、不自然的動作、跳舞、誇張的表演、機器人般的動作、不自然的肌肉、畸形的肢體、模糊的面部、低品質紋理、奇幻風格、科幻風格、突變、劇烈的攝影機運鏡、靜止的背景人物、低解析度、動畫風格表情、滑稽表情、不自然的行走、攝影機角度變化、更換角色、過度的動態模糊。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="人類演化紀錄片專案">
+<video src="https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27" width="600" controls muted playsinline title="人類演化紀錄片專案"></video>
 
-**[🎬 觀看視頻 →](https://youmind.com/zh-TW/gemini-omni-prompts?id=5350)**
+https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27
+
+**[🎬 觀看視頻 →](https://x.com/tanabe_fragm/status/2059458173615116314)**
 
 **作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **發布時間:** May 27, 2026
 
@@ -313,10 +313,9 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 <div align="center">
 
-**[🌐 在網頁畫廊中查看](https://youmind.com/zh-TW/gemini-omni-prompts)** •
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-05-29T04:16:48.380Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-05-29T05:06:37.502Z</sub>
 
 </div>

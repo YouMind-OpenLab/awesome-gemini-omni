@@ -17,7 +17,6 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 ## 📖 목차
 
-- [🌐 웹 갤러리에서 보기](#--)
 - [🤔 Gemini Omni이란?](#-gemini-omni)
 - [📊 통계](#-)
 - [⭐ 추천 프롬프트](#--)
@@ -26,21 +25,6 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 - [📄 라이선스](#-)
 - [🙏 감사의 말](#--)
 - [⭐ 스타 히스토리](#--)
-
----
-
-## 🌐 웹 갤러리에서 보기
-
-**[👉 YouMind에서 모든 Gemini Omni 프롬프트 둘러보기](https://youmind.com/ko-KR/gemini-omni-prompts)**
-
-갤러리를 사용하는 이유는?
-
-| Feature | GitHub README | youmind.com 갤러리 |
-|---------|--------------|---------------------|
-| 🎬 비디오 재생 | ❌ 정적 썸네일만 | ✅ 풀 비디오 스트리밍 재생 |
-| 🔍 검색 | Ctrl+F만 | 다중 필드 퍼지 매칭 검색 |
-| 🤖 AI 추천 | - | AI 기반 프롬프트 추천 |
-| 📱 모바일 | 기본 | 완전 반응형 |
 
 ---
 
@@ -84,9 +68,11 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 지구의 가장 극한 기후 시스템인 허리케인, 몬순, 번개 폭풍, 오로라, 토네이도 발생, 모래 폭풍, 화산재 구름을 위성 시점에서 보여주는 10초 분량의 시네마틱 기상 시뮬레이션을 생성하세요. 과학적 라벨은 실시간 기상 인터페이스처럼 깔끔한 흰색 Noto Sans Google 폰트로 표시됩니다. 고해상도 구름 시뮬레이션과 대기 사실감을 구현하세요. 사운드 디자인은 깊은 천둥소리, 바람의 난기류, 멀리서 들리는 비상 무전 잡음, 대기 드론 소리, 그리고 긴장감 넘치는 시네마틱 음악을 레이어링하세요. 대사는 없습니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="극한 기상 위성 시뮬레이션">
+<video src="https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12" width="600" controls muted playsinline title="극한 기상 위성 시뮬레이션"></video>
 
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/gemini-omni-prompts?id=5360)**
+https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12
+
+**[🎬 비디오 보기 →](https://x.com/HBCoop_/status/2060008267602853936)**
 
 **작성자:** [Heather Cooper](https://x.com/HBCoop_) | **출처:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **게시일:** May 28, 2026
 
@@ -103,9 +89,11 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 보라색 머리의 드레스를 입은 애니메이션 소녀가 앞으로 꾸준히 걸어갑니다. 헤어스타일, 머리 색상, 드레스 스타일 및 색상은 전체적으로 일정하게 유지되며, 체형과 외모는 변하지 않고 프레임 간의 이미지가 통일되고 안정적입니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="일관성 있는 애니메이션 캐릭터 걷기">
+<video src="https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27" width="600" controls muted playsinline title="일관성 있는 애니메이션 캐릭터 걷기"></video>
 
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/gemini-omni-prompts?id=5361)**
+https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27
+
+**[🎬 비디오 보기 →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
 
 **작성자:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **출처:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **게시일:** May 28, 2026
 
@@ -128,9 +116,11 @@ POV: 갈색 말을 타고 달리는 시점.
 [선택 사항] (종족: 엘프, 오크, 호빗 등) 일상적인 활동을 하는 모습 포함
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="중간계 가상 투어 지도">
+<video src="https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27" width="600" controls muted playsinline title="중간계 가상 투어 지도"></video>
 
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/gemini-omni-prompts?id=5363)**
+https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27
+
+**[🎬 비디오 보기 →](https://x.com/techhalla/status/2059724218158166537)**
 
 **작성자:** [TechHalla](https://x.com/techhalla) | **출처:** [Link](https://x.com/techhalla/status/2059724218158166537) | **게시일:** May 28, 2026
 
@@ -154,9 +144,11 @@ POV: 갈색 말을 타고 달리는 시점.
 카메라 앵글은 3/4 아이소메트릭 샷으로 엄격하게 유지하세요
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="스포츠카 아이소메트릭 조립">
+<video src="https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27" width="600" controls muted playsinline title="스포츠카 아이소메트릭 조립"></video>
 
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/gemini-omni-prompts?id=5362)**
+https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27
+
+**[🎬 비디오 보기 →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
 **작성자:** [Harshith](https://x.com/HarshithLucky3) | **출처:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **게시일:** May 28, 2026
 
@@ -173,9 +165,11 @@ POV: 갈색 말을 타고 달리는 시점.
 50대 일본인 남성입니다. 영상이 끝날 때까지 물병의 형태를 일정하게 유지하세요. 다음 순서대로 진행합니다: 1. 오른손에 든 물병을 위로 던져 완전히 놓습니다 (그 이후에는 절대 물병을 건드리지 않습니다). 2. 물병이 회전하며 떨어져 테이블 위의 원래 위치에 똑바로 착지합니다. 3. 남성이 양팔을 벌리며 기뻐합니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="물병 던지기 물리 시뮬레이션">
+<video src="https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25" width="600" controls muted playsinline title="물병 던지기 물리 시뮬레이션"></video>
 
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/gemini-omni-prompts?id=5364)**
+https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25
+
+**[🎬 비디오 보기 →](https://x.com/onoken1025/status/2059536888588030163)**
 
 **작성자:** [onoken1025](https://x.com/onoken1025) | **출처:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **게시일:** May 27, 2026
 
@@ -196,9 +190,11 @@ POV: 갈색 말을 타고 달리는 시점.
 부드러운 빛이 종이 위를 가로질러 움직이면서, 지도가 천천히 스스로 펼쳐집니다.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="시네마틱 여행 추억 지도">
+<video src="https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27" width="600" controls muted playsinline title="시네마틱 여행 추억 지도"></video>
 
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/gemini-omni-prompts?id=5365)**
+https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27
+
+**[🎬 비디오 보기 →](https://x.com/loglogrog/status/2059494802534584504)**
 
 **작성자:** [マグマグ](https://x.com/loglogrog) | **출처:** [Link](https://x.com/loglogrog/status/2059494802534584504) | **게시일:** May 27, 2026
 
@@ -215,9 +211,11 @@ POV: 갈색 말을 타고 달리는 시점.
 이 로고의 20가지 버전을 빠르게 전환하는 애니메이션을 제작하세요. 흰색 배경에 검은색 로고를 유지하고 중앙에 배치하세요.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="로고 애니메이션 제작 어시스턴트">
+<video src="https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27" width="600" controls muted playsinline title="로고 애니메이션 제작 어시스턴트"></video>
 
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/gemini-omni-prompts?id=5366)**
+https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27
+
+**[🎬 비디오 보기 →](https://x.com/Team_Greenfield/status/2059493330447413283)**
 
 **작성자:** [Greenfield Team!](https://x.com/Team_Greenfield) | **출처:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **게시일:** May 27, 2026
 
@@ -273,9 +271,11 @@ POV: 갈색 말을 타고 달리는 시점.
 슬로우 모션, 부자연스러운 움직임, 춤, 과장된 연기, 로봇 같은 움직임, 부자연스러운 근육, 변형된 사지, 흐릿한 얼굴, 저품질 질감, 판타지 연출, SF 연출, 돌연변이, 격렬한 카메라 워킹, 정지된 배경 인물, 낮은 해상도, 애니메이션 스타일 표현, 희극적인 표정, 부자연스러운 걸음걸이, 카메라 앵글 변경, 캐릭터 변경, 과도한 모션 블러.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="인류 진화 다큐멘터리 스토리보드">
+<video src="https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27" width="600" controls muted playsinline title="인류 진화 다큐멘터리 스토리보드"></video>
 
-**[🎬 비디오 보기 →](https://youmind.com/ko-KR/gemini-omni-prompts?id=5350)**
+https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27
+
+**[🎬 비디오 보기 →](https://x.com/tanabe_fragm/status/2059458173615116314)**
 
 **작성자:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **출처:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **게시일:** May 27, 2026
 
@@ -313,10 +313,9 @@ POV: 갈색 말을 타고 달리는 시점.
 
 <div align="center">
 
-**[🌐 웹 갤러리에서 보기](https://youmind.com/ko-KR/gemini-omni-prompts)** •
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-29T04:16:49.887Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-05-29T05:06:39.231Z</sub>
 
 </div>

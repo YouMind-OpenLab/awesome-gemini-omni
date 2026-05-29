@@ -17,7 +17,6 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 ## 📖 İçindekiler
 
-- [🌐 Web galerisinde görüntüle](#-web-galerisinde-grntle)
 - [🤔 Gemini Omni nedir?](#-gemini-omni-nedir)
 - [📊 İstatistikler](#-istatistikler)
 - [⭐ Öne Çıkan İstemler](#-ne-kan-istemler)
@@ -26,21 +25,6 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 - [📄 Lisans](#-lisans)
 - [🙏 Teşekkürler](#-teekkrler)
 - [⭐ Yıldız Geçmişi](#-yldz-gemii)
-
----
-
-## 🌐 Web galerisinde görüntüle
-
-**[👉 YouMind'da tüm Gemini Omni istemlerini inceleyin](https://youmind.com/tr-TR/gemini-omni-prompts)**
-
-Neden galerimizi kullanmalısınız?
-
-| Feature | GitHub README | youmind.com Galerisi |
-|---------|--------------|---------------------|
-| 🎬 Video Oynatma | ❌ Yalnızca statik küçük resimler | ✅ Streaming ile tam video oynatma |
-| 🔍 Ara | Sadece Ctrl+F | Çok alanlı bulanık eşleştirme araması |
-| 🤖 AI Önerisi | - | AI destekli prompt önerileri |
-| 📱 Mobil | Temel | Tamamen duyarlı |
 
 ---
 
@@ -84,9 +68,11 @@ Neden galerimizi kullanmalısınız?
 Dünya'nın en aşırı iklim sistemlerini (kasırgalar, musonlar, şimşek fırtınaları, auroralar, hortum felaketleri, kum fırtınaları, volkanik kül bulutları) gösteren, uydu perspektifinden 10 saniyelik sinematik bir hava durumu simülasyonu oluşturun. Bilimsel etiketler, canlı bir meteorolojik arayüz gibi temiz beyaz Noto Sans Google Font ile görünsün. Yüksek detaylı bulut simülasyonları ve atmosferik gerçekçilik. Ses tasarımı; derin gök gürültüsü, rüzgar türbülansı, uzaktan gelen acil durum telsiz konuşmaları, atmosferik dron sesleri ve sinematik gerilim müziği katmanlarından oluşsun. Diyalog içermesin.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="Aşırı Hava Durumu Uydu Simülasyonu">
+<video src="https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12" width="600" controls muted playsinline title="Aşırı Hava Durumu Uydu Simülasyonu"></video>
 
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/gemini-omni-prompts?id=5360)**
+https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12
+
+**[🎬 Videoyu izle →](https://x.com/HBCoop_/status/2060008267602853936)**
 
 **Yazar:** [Heather Cooper](https://x.com/HBCoop_) | **Kaynak:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **Yayınlandı:** May 28, 2026
 
@@ -103,9 +89,11 @@ Dünya'nın en aşırı iklim sistemlerini (kasırgalar, musonlar, şimşek fır
 Mor saçlı elbiseli anime kızı sabit bir şekilde ileri doğru yürüyor; saç stili, saç rengi, elbise tarzı ve rengi boyunca sabit kalıyor, figürü ve görünümü değişmiyor ve kareler arasındaki görüntüsü birleşik ve kararlı bir şekilde korunuyor.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="Tutarlı Anime Karakteri Yürüyüşü">
+<video src="https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27" width="600" controls muted playsinline title="Tutarlı Anime Karakteri Yürüyüşü"></video>
 
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/gemini-omni-prompts?id=5361)**
+https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27
+
+**[🎬 Videoyu izle →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
 
 **Yazar:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Kaynak:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **Yayınlandı:** May 28, 2026
 
@@ -128,9 +116,11 @@ Gerçekçi ve ham bir 'found footage' (buluntu görüntü) tarzı.
 [İSTEĞE BAĞLI] (ırk: elfler, orklar, hobbitler...) günlük işlerini yapıyorlar
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="Orta Dünya Sanal Tur Haritası">
+<video src="https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27" width="600" controls muted playsinline title="Orta Dünya Sanal Tur Haritası"></video>
 
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/gemini-omni-prompts?id=5363)**
+https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27
+
+**[🎬 Videoyu izle →](https://x.com/techhalla/status/2059724218158166537)**
 
 **Yazar:** [TechHalla](https://x.com/techhalla) | **Kaynak:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Yayınlandı:** May 28, 2026
 
@@ -154,9 +144,11 @@ Sağlanan 2 referans görseli başlangıç ve bitiş noktası olarak kullanarak,
 kamera açısını kesinlikle 3/4 izometrik çekim olarak koruyun
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="İzometrik Spor Araba Montajı">
+<video src="https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27" width="600" controls muted playsinline title="İzometrik Spor Araba Montajı"></video>
 
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/gemini-omni-prompts?id=5362)**
+https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27
+
+**[🎬 Videoyu izle →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
 **Yazar:** [Harshith](https://x.com/HarshithLucky3) | **Kaynak:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Yayınlandı:** May 28, 2026
 
@@ -173,9 +165,11 @@ kamera açısını kesinlikle 3/4 izometrik çekim olarak koruyun
 50'li yaşlarında Japon bir adam. Şişe şeklinin sonuna kadar tutarlı kalmasını sağlayın. Şu sırayı takip edin: 1. Sağ elinde tuttuğu şişeyi yukarı doğru fırlatır ve tamamen bırakır (bundan sonra şişeye kesinlikle dokunmaz). 2. Şişe döner, düşer ve masadaki orijinal konumuna dik bir şekilde iner. 3. Kollarını iki yana açarak sevinir.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="Şişe Çevirme (Bottle Flip) Fizik Simülasyonu">
+<video src="https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25" width="600" controls muted playsinline title="Şişe Çevirme (Bottle Flip) Fizik Simülasyonu"></video>
 
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/gemini-omni-prompts?id=5364)**
+https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25
+
+**[🎬 Videoyu izle →](https://x.com/onoken1025/status/2059536888588030163)**
 
 **Yazar:** [onoken1025](https://x.com/onoken1025) | **Kaynak:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Yayınlandı:** May 27, 2026
 
@@ -196,9 +190,11 @@ Biletin üzerinde varış noktası olarak “[CITY]” yazıyor.
 Yumuşak ışık kağıdın üzerinde hareket ederken, harita kendi kendine yavaşça açılıyor.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Seyahat Anıları Haritası">
+<video src="https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27" width="600" controls muted playsinline title="Sinematik Seyahat Anıları Haritası"></video>
 
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/gemini-omni-prompts?id=5365)**
+https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27
+
+**[🎬 Videoyu izle →](https://x.com/loglogrog/status/2059494802534584504)**
 
 **Yazar:** [マグマグ](https://x.com/loglogrog) | **Kaynak:** [Link](https://x.com/loglogrog/status/2059494802534584504) | **Yayınlandı:** May 27, 2026
 
@@ -215,9 +211,11 @@ Yumuşak ışık kağıdın üzerinde hareket ederken, harita kendi kendine yava
 Bu logonun 20 farklı versiyonu arasında hızlı geçiş yapan bir animasyon. Siyah üzerine beyaz olsun ve merkezde kalsın.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="Hızlı Logo Animasyon Asistanı">
+<video src="https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27" width="600" controls muted playsinline title="Hızlı Logo Animasyon Asistanı"></video>
 
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/gemini-omni-prompts?id=5366)**
+https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27
+
+**[🎬 Videoyu izle →](https://x.com/Team_Greenfield/status/2059493330447413283)**
 
 **Yazar:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Kaynak:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **Yayınlandı:** May 27, 2026
 
@@ -273,9 +271,11 @@ Kesinlikle yüklenen storyboard'a başvurun. Çerçeve düzenini, çağ değişi
 Ağır çekim, doğal olmayan hareket, dans, abartılı oyunculuk, robotik hareket, doğal olmayan kaslar, deforme olmuş uzuvlar, bulanık yüzler, düşük kaliteli dokular, fantastik yönelim, bilim kurgu yönelimi, mutasyon, şiddetli kamera hareketleri, sabit duran arka plan insanları, düşük çözünürlük, anime tarzı ifade, komik ifade, doğal olmayan yürüyüş, kamera açısı değişiklikleri, karakter değişimi, aşırı hareket bulanıklığı.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="İnsan Evrimi Belgeseli Storyboard'u">
+<video src="https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27" width="600" controls muted playsinline title="İnsan Evrimi Belgeseli Storyboard'u"></video>
 
-**[🎬 Videoyu izle →](https://youmind.com/tr-TR/gemini-omni-prompts?id=5350)**
+https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27
+
+**[🎬 Videoyu izle →](https://x.com/tanabe_fragm/status/2059458173615116314)**
 
 **Yazar:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **Yayınlandı:** May 27, 2026
 
@@ -313,10 +313,9 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 
 <div align="center">
 
-**[🌐 Web galerisinde görüntüle](https://youmind.com/tr-TR/gemini-omni-prompts)** •
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-29T04:16:59.069Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-05-29T05:06:50.507Z</sub>
 
 </div>

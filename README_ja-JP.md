@@ -17,7 +17,6 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 ## 📖 目次
 
-- [🌐 Web ギャラリーで見る](#-web-)
 - [🤔 Gemini Omni とは？](#-gemini-omni-)
 - [📊 統計](#-)
 - [⭐ おすすめプロンプト](#-)
@@ -26,21 +25,6 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 - [📄 ライセンス](#-)
 - [🙏 謝辞](#-)
 - [⭐ スター履歴](#-)
-
----
-
-## 🌐 Web ギャラリーで見る
-
-**[👉 YouMind で Gemini Omni プロンプトをすべて見る](https://youmind.com/ja-JP/gemini-omni-prompts)**
-
-ギャラリーを使用する理由
-
-| Feature | GitHub README | youmind.com ギャラリー |
-|---------|--------------|---------------------|
-| 🎬 動画再生 | ❌ 静止サムネイルのみ | ✅ フルビデオストリーミング再生 |
-| 🔍 検索 | Ctrl+Fのみ | 複数フィールドのあいまい検索 |
-| 🤖 AI レコメンド | - | AI 搭載プロンプト推薦 |
-| 📱 モバイル | 基本 | 完全レスポンシブ |
 
 ---
 
@@ -84,9 +68,11 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 衛星視点から見た、地球の最も極端な気候システム（ハリケーン、モンスーン、雷雨、オーロラ、竜巻の発生、砂嵐、火山灰雲）を描写した 10 秒間のシネマティックな気象シミュレーションを作成してください。科学的なラベルは、ライブの気象インターフェースのように、クリーンな白の Noto Sans Google Font で表示されます。高精細な雲のシミュレーションと大気のリアリズムを追求してください。サウンドデザインには、重厚な雷鳴、風の乱気流、遠くの緊急無線通信、大気ドローン、そして緊張感のあるシネマティックな音楽を重ねてください。セリフはなしでお願いします。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="極端気象の衛星シミュレーション">
+<video src="https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12" width="600" controls muted playsinline title="極端気象の衛星シミュレーション"></video>
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/gemini-omni-prompts?id=5360)**
+https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12
+
+**[🎬 動画を見る →](https://x.com/HBCoop_/status/2060008267602853936)**
 
 **作者:** [Heather Cooper](https://x.com/HBCoop_) | **ソース:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **公開日:** May 28, 2026
 
@@ -103,9 +89,11 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 紫色の髪をしたドレス姿のアニメの女の子が前方に安定して歩いている。髪型、髪の色、ドレスのスタイルと色は常に一定で、体型や外見も変わらず、フレーム間での画像が統一され安定している。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="一貫性のあるアニメキャラクターの歩行">
+<video src="https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27" width="600" controls muted playsinline title="一貫性のあるアニメキャラクターの歩行"></video>
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/gemini-omni-prompts?id=5361)**
+https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27
+
+**[🎬 動画を見る →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
 
 **作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **ソース:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **公開日:** May 28, 2026
 
@@ -128,9 +116,11 @@ POV：茶色の馬に乗っている視点。
 [オプション] (種族：エルフ、オーク、ホビットなど) が日常的な動作をしている様子
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="中つ国バーチャルツアーマップ">
+<video src="https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27" width="600" controls muted playsinline title="中つ国バーチャルツアーマップ"></video>
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/gemini-omni-prompts?id=5363)**
+https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27
+
+**[🎬 動画を見る →](https://x.com/techhalla/status/2059724218158166537)**
 
 **作者:** [TechHalla](https://x.com/techhalla) | **ソース:** [Link](https://x.com/techhalla/status/2059724218158166537) | **公開日:** May 28, 2026
 
@@ -154,9 +144,11 @@ POV：茶色の馬に乗っている視点。
 カメラアングルは厳密に 3/4 アイソメトリックショットを維持してください
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="スポーツカーのアイソメトリック組み立て">
+<video src="https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27" width="600" controls muted playsinline title="スポーツカーのアイソメトリック組み立て"></video>
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/gemini-omni-prompts?id=5362)**
+https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27
+
+**[🎬 動画を見る →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
 **作者:** [Harshith](https://x.com/HarshithLucky3) | **ソース:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **公開日:** May 28, 2026
 
@@ -173,9 +165,11 @@ POV：茶色の馬に乗っている視点。
 彼は 50 代の日本人男性です。ボトルの形状を最後まで一貫させてください。以下の手順で進行します：1. 右手に持ったボトルを上に投げ、完全に手を離します（その後、ボトルには一切触れません）。2. ボトルが回転しながら落下し、テーブルの元の位置に直立して着地します。3. 彼は両手を広げて喜びます。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="ボトルフリップの物理シミュレーション">
+<video src="https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25" width="600" controls muted playsinline title="ボトルフリップの物理シミュレーション"></video>
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/gemini-omni-prompts?id=5364)**
+https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25
+
+**[🎬 動画を見る →](https://x.com/onoken1025/status/2059536888588030163)**
 
 **作者:** [onoken1025](https://x.com/onoken1025) | **ソース:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **公開日:** May 27, 2026
 
@@ -196,9 +190,11 @@ POV：茶色の馬に乗っている視点。
 柔らかな光が紙の上を移動するにつれ、地図がゆっくりとひとりでに広がっていきます。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="シネマティックな旅の思い出マップ">
+<video src="https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27" width="600" controls muted playsinline title="シネマティックな旅の思い出マップ"></video>
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/gemini-omni-prompts?id=5365)**
+https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27
+
+**[🎬 動画を見る →](https://x.com/loglogrog/status/2059494802534584504)**
 
 **作者:** [マグマグ](https://x.com/loglogrog) | **ソース:** [Link](https://x.com/loglogrog/status/2059494802534584504) | **公開日:** May 27, 2026
 
@@ -215,9 +211,11 @@ POV：茶色の馬に乗っている視点。
 このロゴの 20 種類のバリエーションを高速で切り替えるアニメーションを作成してください。白背景に黒のロゴを使用し、常に中央に配置してください。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="ロゴアニメーション高速生成アシスタント">
+<video src="https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27" width="600" controls muted playsinline title="ロゴアニメーション高速生成アシスタント"></video>
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/gemini-omni-prompts?id=5366)**
+https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27
+
+**[🎬 動画を見る →](https://x.com/Team_Greenfield/status/2059493330447413283)**
 
 **作者:** [Greenfield Team!](https://x.com/Team_Greenfield) | **ソース:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **公開日:** May 27, 2026
 
@@ -273,9 +271,11 @@ POV：茶色の馬に乗っている視点。
 スローモーション、不自然な動き、ダンス、誇張された演技、ロボットのような動き、不自然な筋肉、変形した手足、ぼやけた顔、低品質な質感、ファンタジー演出、SF 演出、突然変異、激しいカメラワーク、静止している背景の人物、低解像度、アニメ調の表現、コミカルな表情、不自然な歩行、カメラアングルの変更、キャラクターの入れ替わり、過度なモーションブラー。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="人類進化ドキュメンタリーのストーリーボード">
+<video src="https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27" width="600" controls muted playsinline title="人類進化ドキュメンタリーのストーリーボード"></video>
 
-**[🎬 動画を見る →](https://youmind.com/ja-JP/gemini-omni-prompts?id=5350)**
+https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27
+
+**[🎬 動画を見る →](https://x.com/tanabe_fragm/status/2059458173615116314)**
 
 **作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **ソース:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **公開日:** May 27, 2026
 
@@ -313,10 +313,9 @@ POV：茶色の馬に乗っている視点。
 
 <div align="center">
 
-**[🌐 Web ギャラリーで見る](https://youmind.com/ja-JP/gemini-omni-prompts)** •
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-29T04:16:48.996Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-29T05:06:38.200Z</sub>
 
 </div>

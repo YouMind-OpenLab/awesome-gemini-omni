@@ -17,7 +17,6 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 ## 📖 Índice
 
-- [🌐 Ver na galeria web](#-ver-na-galeria-web)
 - [🤔 O que é Gemini Omni?](#-o-que-gemini-omni)
 - [📊 Estatísticas](#-estatsticas)
 - [⭐ Prompts em destaque](#-prompts-em-destaque)
@@ -26,21 +25,6 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 - [📄 Licença](#-licena)
 - [🙏 Agradecimentos](#-agradecimentos)
 - [⭐ Histórico de estrelas](#-histrico-de-estrelas)
-
----
-
-## 🌐 Ver na galeria web
-
-**[👉 Navegar por todos os prompts Gemini Omni no YouMind](https://youmind.com/pt-BR/gemini-omni-prompts)**
-
-Por que usar nossa galeria?
-
-| Feature | GitHub README | Galeria youmind.com |
-|---------|--------------|---------------------|
-| 🎬 Reprodução de vídeo | ❌ Apenas miniaturas estáticas | ✅ Reprodução completa com streaming |
-| 🔍 Buscar | Apenas Ctrl+F | Busca fuzzy multicampo |
-| 🤖 Recomendação IA | - | Recomendações de prompts com IA |
-| 📱 Móvel | Básico | Totalmente responsivo |
 
 ---
 
@@ -84,9 +68,11 @@ Por que usar nossa galeria?
 Crie uma simulação climática cinematográfica de 10 segundos visualizada a partir de uma perspectiva de satélite, mostrando os sistemas climáticos mais extremos da Terra: furacões, monções, tempestades de raios, auroras, surtos de tornados, tempestades de areia e nuvens de cinzas vulcânicas. Legendas científicas aparecem em fonte Noto Sans (Google Font) branca e limpa, como uma interface meteorológica ao vivo. Simulações de nuvens de alto detalhe e realismo atmosférico. O design de som inclui camadas de trovões profundos, turbulência de vento, ruídos distantes de rádio de emergência, drones atmosféricos e música de tensão cinematográfica. Sem diálogos.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="Simulação de Clima Extremo via Satélite">
+<video src="https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12" width="600" controls muted playsinline title="Simulação de Clima Extremo via Satélite"></video>
 
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/gemini-omni-prompts?id=5360)**
+https://video.twimg.com/ext_tw_video/2060008227635417088/pu/vid/avc1/1280x720/XS83VfnImLCNOLW2.mp4?tag=12
+
+**[🎬 Assistir vídeo →](https://x.com/HBCoop_/status/2060008267602853936)**
 
 **Autor:** [Heather Cooper](https://x.com/HBCoop_) | **Fonte:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **Publicado:** May 28, 2026
 
@@ -103,9 +89,11 @@ Crie uma simulação climática cinematográfica de 10 segundos visualizada a pa
 Garota de anime de vestido e cabelo roxo caminha firmemente para frente, com seu penteado, cor de cabelo, estilo de vestido e cor permanecendo constantes, sua figura e aparência inalteradas, e sua imagem entre os quadros unificada e estável.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="Caminhada Consistente de Personagem de Anime">
+<video src="https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27" width="600" controls muted playsinline title="Caminhada Consistente de Personagem de Anime"></video>
 
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/gemini-omni-prompts?id=5361)**
+https://video.twimg.com/amplify_video/2059897523448532992/vid/avc1/1280x720/jHHDW7s2AEZMEc7c.mp4?tag=27
+
+**[🎬 Assistir vídeo →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
 
 **Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fonte:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **Publicado:** May 28, 2026
 
@@ -128,9 +116,11 @@ Estilo found footage realista e visceral.
 [OPCIONAL] (raça: elfos, orcs, hobbits...) realizando atividades cotidianas
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="Mapa de Tour Virtual da Terra Média">
+<video src="https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27" width="600" controls muted playsinline title="Mapa de Tour Virtual da Terra Média"></video>
 
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/gemini-omni-prompts?id=5363)**
+https://video.twimg.com/amplify_video/2059722697454624770/vid/avc1/1920x1080/hMcbTKn92Dv-SSmL.mp4?tag=27
+
+**[🎬 Assistir vídeo →](https://x.com/techhalla/status/2059724218158166537)**
 
 **Autor:** [TechHalla](https://x.com/techhalla) | **Fonte:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Publicado:** May 28, 2026
 
@@ -154,9 +144,11 @@ Crie um vídeo de 10 segundos, dinâmico e de alta energia, mostrando a montagem
 mantenha o ângulo da câmera estritamente como uma tomada isométrica de 3/4
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="Montagem Isométrica de Carro Esportivo">
+<video src="https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27" width="600" controls muted playsinline title="Montagem Isométrica de Carro Esportivo"></video>
 
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/gemini-omni-prompts?id=5362)**
+https://video.twimg.com/amplify_video/2059711406111662080/vid/avc1/2160x2160/0LYuDNhAGph6hBeQ.mp4?tag=27
+
+**[🎬 Assistir vídeo →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
 **Autor:** [Harshith](https://x.com/HarshithLucky3) | **Fonte:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Publicado:** May 28, 2026
 
@@ -173,9 +165,11 @@ mantenha o ângulo da câmera estritamente como uma tomada isométrica de 3/4
 Ele é um homem japonês na casa dos 50 anos. Mantenha a consistência do formato da garrafa até o final. Progrida através da seguinte sequência: 1. Ele joga a garrafa que segura na mão direita para cima e a solta completamente (depois disso, ele não toca na garrafa em hipótese alguma). 2. A garrafa gira e cai, aterrissando em pé em sua posição original sobre a mesa. 3. Ele abre os braços e comemora.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="Simulação física de Bottle Flip">
+<video src="https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25" width="600" controls muted playsinline title="Simulação física de Bottle Flip"></video>
 
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/gemini-omni-prompts?id=5364)**
+https://video.twimg.com/ext_tw_video/2059536864470839296/pu/vid/avc1/1280x720/PzsDgMFDayPReETA.mp4?tag=25
+
+**[🎬 Assistir vídeo →](https://x.com/onoken1025/status/2059536888588030163)**
 
 **Autor:** [onoken1025](https://x.com/onoken1025) | **Fonte:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Publicado:** May 27, 2026
 
@@ -196,9 +190,11 @@ A passagem tem o nome do destino “[CITY]” impresso nela.
 À medida que uma luz suave se move pelo papel, o mapa se desenrola lentamente sozinho.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="Mapa de Memórias de Viagem Cinematográfico">
+<video src="https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27" width="600" controls muted playsinline title="Mapa de Memórias de Viagem Cinematográfico"></video>
 
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/gemini-omni-prompts?id=5365)**
+https://video.twimg.com/amplify_video/2059487614508711936/vid/avc1/1280x720/eXO6WSwiWU28Wj0-.mp4?tag=27
+
+**[🎬 Assistir vídeo →](https://x.com/loglogrog/status/2059494802534584504)**
 
 **Autor:** [マグマグ](https://x.com/loglogrog) | **Fonte:** [Link](https://x.com/loglogrog/status/2059494802534584504) | **Publicado:** May 27, 2026
 
@@ -215,9 +211,11 @@ A passagem tem o nome do destino “[CITY]” impresso nela.
 Animação em ritmo acelerado passando por 20 versões diferentes deste logotipo. Mantenha em preto sobre branco e centralizado.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="Assistente de Animação Rápida de Logotipos">
+<video src="https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27" width="600" controls muted playsinline title="Assistente de Animação Rápida de Logotipos"></video>
 
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/gemini-omni-prompts?id=5366)**
+https://video.twimg.com/amplify_video/2059492638928347136/vid/avc1/1280x720/jXp9lj1e-1J35gPT.mp4?tag=27
+
+**[🎬 Assistir vídeo →](https://x.com/Team_Greenfield/status/2059493330447413283)**
 
 **Autor:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Fonte:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **Publicado:** May 27, 2026
 
@@ -273,9 +271,11 @@ Refira-se estritamente ao storyboard enviado. Mantenha o layout dos quadros, as 
 Câmera lenta, movimento não natural, dança, atuação exagerada, movimento robótico, músculos não naturais, membros deformados, rostos desfocados, texturas de baixa qualidade, direção de fantasia, direção de ficção científica, mutação, movimento de câmera violento, pessoas paradas ao fundo, baixa resolução, expressão estilo anime, expressão cômica, caminhada não natural, mudanças de ângulo de câmera, troca de personagens, desfoque de movimento excessivo.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="Storyboard para Documentário sobre a Evolução Humana">
+<video src="https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27" width="600" controls muted playsinline title="Storyboard para Documentário sobre a Evolução Humana"></video>
 
-**[🎬 Assistir vídeo →](https://youmind.com/pt-BR/gemini-omni-prompts?id=5350)**
+https://video.twimg.com/amplify_video/2059457632767975424/vid/avc1/1080x1920/d2UQIC-GjwtBp_rW.mp4?tag=27
+
+**[🎬 Assistir vídeo →](https://x.com/tanabe_fragm/status/2059458173615116314)**
 
 **Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **Publicado:** May 27, 2026
 
@@ -313,10 +313,9 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 
 <div align="center">
 
-**[🌐 Ver na galeria web](https://youmind.com/pt-BR/gemini-omni-prompts)** •
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-29T04:16:56.805Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-29T05:06:48.318Z</sub>
 
 </div>
