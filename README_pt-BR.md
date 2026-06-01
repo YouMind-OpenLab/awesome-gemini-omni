@@ -46,9 +46,9 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **19** |
+| 📝 Total de prompts | **25** |
 | ⭐ Prompts em destaque | **0** |
-| 🔄 Última atualização | **2026-05-29** |
+| 🔄 Última atualização | **2026-06-01** |
 
 ---
 
@@ -56,61 +56,61 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
-### Rusalka Tarot Card Video
+### Vídeo de Carta de Tarot da Rusalka
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative prompt using descriptive keywords and emojis to generate a stable, cinematic tarot card-inspired video featuring a mythical Rusalka theme.
+> Um prompt criativo usando palavras-chave descritivas e emojis para gerar um vídeo estável e cinematográfico inspirado em cartas de tarot, apresentando o tema mítico da Rusalka.
 
 #### 📝 Prompt
 
 ```
-Reflection-Rusalka «🌳🧜‍♀️🪞»
+Reflexo-Rusalka «🌳🧜‍♀️🪞»
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Rusalka Tarot Card Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Carta de Tarot da Rusalka">
 
 **[🎬 Assistir vídeo →](https://x.com/astvatsaturn/status/2060128558287044975)**
 
 **Autor:** [Elis Satu](https://x.com/astvatsaturn) | **Fonte:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Publicado:** May 29, 2026
 
 ---
-### Sims Style Movie Scene Reimagining
+### Reimaginação de cenas de filmes no estilo The Sims
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative template for Gemini Omni that recreates iconic movie and TV scenes within the stylized aesthetic of The Sims videogame, including unique graphics and dialogue.
+> Um modelo criativo para o Gemini Omni que recria cenas icônicas de filmes e séries com a estética estilizada do videogame The Sims, incluindo gráficos e diálogos únicos.
 
 #### 📝 Prompt
 
 ```
-[Movie/TV Show] iconic scene, but it's a Sims videogame
+[Filme/Série] cena icônica, mas como se fosse no videogame The Sims
 
-[scene description]
+[descrição da cena]
 
-Sims videogame graphics, and Sims silly dialogue
+Gráficos do videogame The Sims e diálogos engraçados dos Sims
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060067753638207493/img/4K1obHtL1Kl0vP9s.jpg" width="600" alt="Sims Style Movie Scene Reimagining">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="Reimaginação de cenas de filmes no estilo The Sims">
 
 **[🎬 Assistir vídeo →](https://x.com/techhalla/status/2060068841573498998)**
 
 **Autor:** [TechHalla](https://x.com/techhalla) | **Fonte:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Publicado:** May 29, 2026
 
 ---
-### Hyper-lapse Selfie Travel Transformation
+### Transformação de Viagem em Selfie Hyper-lapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A master prompt for Gemini Omni to create a hyper-lapse travel video that swaps an uploaded character into 20 distinct environments while keeping identity consistent.
+> Um prompt mestre para o Gemini Omni criar um vídeo de viagem em hyper-lapse que insere um personagem enviado em 20 ambientes distintos, mantendo a consistência da identidade.
 
 #### 📝 Prompt
 
 ```
-Create a 10s hyper-lapse selfie-travel video of uploaded character. Strict identity consistency across all locations and professions. 20 distinct absurd professional roles and extreme environments worldwide with hard
+Crie um vídeo de viagem em selfie hyper-lapse de 10 segundos com o personagem enviado. Consistência de identidade rigorosa em todos os locais e profissões. 20 papéis profissionais absurdos e distintos e ambientes extremos ao redor do mundo com cortes bruscos
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Hyper-lapse Selfie Travel Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Transformação de Viagem em Selfie Hyper-lapse">
 
 **[🎬 Assistir vídeo →](https://x.com/ZefredAi/status/2060051882538594657)**
 
@@ -136,60 +136,60 @@ Crie uma simulação climática cinematográfica de 10 segundos visualizada a pa
 **Autor:** [Heather Cooper](https://x.com/HBCoop_) | **Fonte:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **Publicado:** May 28, 2026
 
 ---
-### Premium Travel Poster Video
+### Vídeo de Pôster de Viagem Premium
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt to generate a 10-second high-end travel poster video featuring a panoramic moving strip and stylized typography for a specific city.
+> Um prompt para gerar um vídeo de pôster de viagem de alta qualidade com 10 segundos, apresentando uma faixa panorâmica em movimento e tipografia estilizada para uma cidade específica.
 
 #### 📝 Prompt
 
 ```
-[CITY] = KTOKYO
-Create a 10-second premium travel-poster style video for [CITY].
+[CITY] = TÓQUIO
+Crie um vídeo de 10 segundos no estilo pôster de viagem premium para [CITY].
 
-Use a soft ivory poster background, a thin moving panoramic strip at the top, and a huge bold centered sans-serif title: “[CITY]”.
+Use um fundo de pôster em marfim suave, uma faixa panorâmica fina em movimento no topo e um título enorme, em negrito e centralizado, em fonte sem serifa: “[CITY]”.
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Premium Travel Poster Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Pôster de Viagem Premium">
 
 **[🎬 Assistir vídeo →](https://x.com/loglogrog/status/2059997426023584083)**
 
 **Autor:** [マグマグ](https://x.com/loglogrog) | **Fonte:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Publicado:** May 28, 2026
 
 ---
-### Photorealistic Red Yarn Generation
+### Geração de Fio Vermelho Fotorrealista
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple prompt for generating photorealistic red yarn textures as part of a multimodal creative workflow in Gemini Omni.
+> Um prompt simples para gerar texturas de fio vermelho fotorrealistas como parte de um fluxo de trabalho criativo multimodal no Gemini Omni.
 
 #### 📝 Prompt
 
 ```
-photorealistic red yarn
+fio vermelho fotorrealista
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059993286211997696/img/g8367Ht-a9BsEIGm.jpg" width="600" alt="Photorealistic Red Yarn Generation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dbe6d5ba400dd1a8f921dd24ebc5a66/thumbnails/thumbnail.jpg" width="600" alt="Geração de Fio Vermelho Fotorrealista">
 
 **[🎬 Assistir vídeo →](https://x.com/DataChaz/status/2059993335776129054)**
 
 **Autor:** [Charly Wargnier](https://x.com/DataChaz) | **Fonte:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **Publicado:** May 28, 2026
 
 ---
-### The Snitten Hybrid
+### O Híbrido Snitten
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative prompt used to generate a video of a whimsical hybrid creature merging a snail and a kitten.
+> Um prompt criativo usado para gerar um vídeo de uma criatura híbrida extravagante que mistura um caracol e um gatinho.
 
 #### 📝 Prompt
 
 ```
-Snail + Kitten = Snitten
+Caracol + Gatinho = Snitten
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="The Snitten Hybrid">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="O Híbrido Snitten">
 
 **[🎬 Assistir vídeo →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
 
@@ -215,19 +215,19 @@ Garota de anime de vestido e cabelo roxo caminha firmemente para frente, com seu
 **Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fonte:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **Publicado:** May 28, 2026
 
 ---
-### FPV Drone Map Flight
+### Voo de Drone FPV no Mapa
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A prompt to generate high-speed FPV drone footage starting from a specific point on a map screenshot using Gemini Omni Flash.
+> Um prompt para gerar filmagens de drone FPV de alta velocidade partindo de um ponto específico em uma captura de tela de mapa usando o Gemini Omni Flash.
 
 #### 📝 Prompt
 
 ```
-High-speed FPV drone footage. Complete first-person view (pure FPV POV). The footage begins from the starting point on the screen.
+Filmagem de drone FPV de alta velocidade. Visão em primeira pessoa completa (POV FPV puro). A filmagem começa a partir do ponto inicial na tela.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059779953227612160/img/FLZbCOAuHBfQYXHP.jpg" width="600" alt="FPV Drone Map Flight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e5f5f104bffabd0a8409b32e9ebdf4f/thumbnails/thumbnail.jpg" width="600" alt="Voo de Drone FPV no Mapa">
 
 **[🎬 Assistir vídeo →](https://x.com/tanabe_fragm/status/2059781140245057683)**
 
@@ -285,42 +285,103 @@ mantenha o ângulo da câmera estritamente como uma tomada isométrica de 3/4
 **Autor:** [Harshith](https://x.com/HarshithLucky3) | **Fonte:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Publicado:** May 28, 2026
 
 ---
-### Showa Era Shopping Street Atmosphere
+### Atmosfera de Rua de Comércio da Era Showa
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A prompt capturing the bustling and nostalgic atmosphere of a Japanese shopping district from the Showa era with lively crowd sounds.
+> Um prompt que captura a atmosfera movimentada e nostálgica de um distrito comercial japonês da era Showa, com sons de multidão vibrantes.
 
 #### 📝 Prompt
 
 ```
-Showa era shopping street, bustling, Japanese language, lively
+Rua de comércio da era Showa, movimentada, idioma japonês, vibrante
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059623705786097664/img/I8hjxgmdDLQbJEIF.jpg" width="600" alt="Showa Era Shopping Street Atmosphere">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f1302cf8af26a69a4f9b58f8697401/thumbnails/thumbnail.jpg" width="600" alt="Atmosfera de Rua de Comércio da Era Showa">
 
 **[🎬 Assistir vídeo →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
 
 **Autor:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **Fonte:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **Publicado:** May 27, 2026
 
 ---
-### Glowing Childhood Memories in Rain
+### Misty Twilight City Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic prompt for generating a nostalgic video of childhood memories illuminated by a soft glow during a rain shower.
+> A cinematic video generation featuring a city street at twilight, characterized by misty atmosphere and a movie-like aesthetic.
 
 #### 📝 Prompt
 
 ```
-Glowing childhood memories in rain
+Lost in the misty twilight of the city where every street corner feels like a scene from a movie.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059620411600781312/img/3fn5OmM6yru_I5ea.jpg" width="600" alt="Glowing Childhood Memories in Rain">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a72a0bdd4880238a0f370ac74ee5193d/thumbnails/thumbnail.jpg" width="600" alt="Misty Twilight City Scene">
+
+**[🎬 Assistir vídeo →](https://x.com/ai_with_shah/status/2059622418839486786)**
+
+**Autor:** [Shah](https://x.com/ai_with_shah) | **Fonte:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **Publicado:** May 27, 2026
+
+---
+### Memórias de infância radiantes na chuva
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt poético para gerar um vídeo nostálgico de memórias de infância iluminadas por um brilho suave durante uma chuva.
+
+#### 📝 Prompt
+
+```
+Memórias de infância radiantes na chuva
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="Memórias de infância radiantes na chuva">
 
 **[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2059620519310442844)**
 
 **Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **Publicado:** May 27, 2026
+
+---
+### Jiggling Souffle Pancake Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A video generation prompt that uses a storyboard image to create a 15-second anime-style cooking video of fluffy, jiggling souffle pancakes.
+
+#### 📝 Prompt
+
+```
+Based on the attached storyboard image, please create a 15-second horizontal 16:9 anime cooking video.
+
+Theme: Extremely thick souffle pancakes that jiggle.
+
+Follow the panel order of the storyboard and turn it into a video as a fast-paced cooking scene.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2976e5e6db0710d64f0dca23783ffea/thumbnails/thumbnail.jpg" width="600" alt="Jiggling Souffle Pancake Animation">
+
+**[🎬 Assistir vídeo →](https://x.com/vermouth_dev/status/2059586948881436906)**
+
+**Autor:** [ヴェルモット](https://x.com/vermouth_dev) | **Fonte:** [Link](https://x.com/vermouth_dev/status/2059586948881436906) | **Publicado:** May 27, 2026
+
+---
+### Human Evolution Morphing Documentary
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A highly detailed 10-second documentary prompt tracking human evolution from early primates to modern humans with seamless morphing and cinematic lighting.
+
+#### 📝 Prompt
+
+```
+Please create a 10-second vertical (9:16) ultra-realistic live-action documentary video using the attached storyboard image as an accurate visual blueprint. Strictly maintain the storyboard's composition, chronological order, human evolution, and walking direction. No extra shots or changes in sequence. Style: Ultra-realistic movie quality, high-budget documentary feel like BBC Earth or NHK Special, natural light, cinematic depth. Evolution: Transitions should feature seamless morphing of skeleton, face, and clothing while walking. Character: Walk from left to right at a constant speed, maintaining lineage continuity. Camera: Constant side-view tracking. Captions: Minimal documentary-style text in Japanese for each era. Negative: Slow motion, robotic movement, fantasy effects, low resolution.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d1cda4422d959e6819cd9ae408cda9/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Morphing Documentary">
+
+**[🎬 Assistir vídeo →](https://x.com/tanabe_fragm/status/2059544118876152267)**
+
+**Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **Publicado:** May 27, 2026
 
 ---
 ### Simulação física de Bottle Flip
@@ -342,38 +403,38 @@ Ele é um homem japonês na casa dos 50 anos. Mantenha a consistência do format
 **Autor:** [onoken1025](https://x.com/onoken1025) | **Fonte:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Publicado:** May 27, 2026
 
 ---
-### Kinetic Typography and Monologue Video
+### Tipografia Cinética e Vídeo de Monólogo
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A professional video prompt for Gemini Omni focusing on precise typography placement, technical font styles, and synchronized narration effects.
+> Um prompt de vídeo profissional para o Gemini Omni com foco no posicionamento preciso da tipografia, estilos de fonte técnicos e efeitos de narração sincronizados.
 
 #### 📝 Prompt
 
 ```
-White Helvetica lowercase text + thin line connecting to the main subject + inner monologue style narration
+Texto em minúsculas Helvetica na cor branca + linha fina conectando-se ao assunto principal + narração no estilo de monólogo interno
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059535898476523520/img/bVmkD6gicUhnKJGy.jpg" width="600" alt="Kinetic Typography and Monologue Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b985d3a14ddd17e5c070793e69d9675d/thumbnails/thumbnail.jpg" width="600" alt="Tipografia Cinética e Vídeo de Monólogo">
 
 **[🎬 Assistir vídeo →](https://x.com/FinanceYF5/status/2059535919007556042)**
 
 **Autor:** [AI Will](https://x.com/FinanceYF5) | **Fonte:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **Publicado:** May 27, 2026
 
 ---
-### GTA India Trailer Generator
+### Gerador de Trailer de GTA India
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A straightforward prompt for generating a game-style trailer featuring Indian cultural landmarks like the Taj Mahal.
+> Um prompt direto para gerar um trailer no estilo de jogo apresentando marcos culturais indianos, como o Taj Mahal.
 
 #### 📝 Prompt
 
 ```
-generate a GTA India trailer
+gerar um trailer de GTA India
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059504365996785664/img/BqyV6qHJ8tQvvpkH.jpg" width="600" alt="GTA India Trailer Generator">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a265c8597d79084a16e32ad30792f572/thumbnails/thumbnail.jpg" width="600" alt="Gerador de Trailer de GTA India">
 
 **[🎬 Assistir vídeo →](https://x.com/BuildFastWithAI/status/2059522490876010600)**
 
@@ -480,6 +541,65 @@ Câmera lenta, movimento não natural, dança, atuação exagerada, movimento ro
 **Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **Publicado:** May 27, 2026
 
 ---
+### Seasonal Months Portrait Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a video of a person reciting the months of the year with dynamic background changes corresponding to the seasons and holidays of each month.
+
+#### 📝 Prompt
+
+```
+A video of a man saying the months from Jan to Dec, one month every 1s. show the current month in the corner. No dialogue other than the month he says. The background location and scene changes every month to match it: Jan winter, feb valentine, march spring, April rain, May flowers, June beach, July fireworks, Aug tropical, Sept school/autumn, Oct Halloween, Nov cozy fall, Dec Christmas
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e209f73fac65c170036bd433d0575deb/thumbnails/thumbnail.jpg" width="600" alt="Seasonal Months Portrait Video Prompt">
+
+**[🎬 Assistir vídeo →](https://x.com/HarshithLucky3/status/2059259787444166919)**
+
+**Autor:** [Harshith](https://x.com/HarshithLucky3) | **Fonte:** [Link](https://x.com/HarshithLucky3/status/2059259787444166919) | **Publicado:** May 26, 2026
+
+---
+### Finger Counting with On-Screen Numbers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a video of a man counting to ten on his fingers, featuring specific instructions for timing, dialogue, and hand usage.
+
+#### 📝 Prompt
+
+```
+A video of a man counting to 10 on his fingers, show the number in the corner. A new number every 1s, no dialogue other than the numbers he says. He uses two hands for numbers bigger than 5.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a1964eae4132705b5c7819df0cae54e/thumbnails/thumbnail.jpg" width="600" alt="Finger Counting with On-Screen Numbers">
+
+**[🎬 Assistir vídeo →](https://x.com/fofrAI/status/2059230628911124880)**
+
+**Autor:** [fofr](https://x.com/fofrAI) | **Fonte:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **Publicado:** May 26, 2026
+
+---
+### Tokyo Tower Rocket Launch
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> This prompt transforms a photo of Tokyo Tower into a launching rocket, complete with a countdown and smoke effects at specific timestamps.
+
+#### 📝 Prompt
+
+```
+At second 0: A countdown voice in English is heard (from 3 to zero)
+At second 4: When the countdown ends, smoke rises from under the central red tower (which is actually a rocket).
+At second 5: The red tower slowly flies up into the sky.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee30cef60570d303d2e738b1c293ef15/thumbnails/thumbnail.jpg" width="600" alt="Tokyo Tower Rocket Launch">
+
+**[🎬 Assistir vídeo →](https://x.com/onoken1025/status/2059197447541498219)**
+
+**Autor:** [onoken1025](https://x.com/onoken1025) | **Fonte:** [Link](https://x.com/onoken1025/status/2059197447541498219) | **Publicado:** May 26, 2026
+
+---
 
 ## 🤝 Como contribuir
 
@@ -516,6 +636,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-05-29T08:04:23.586Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-01T07:28:17.375Z</sub>
 
 </div>

@@ -46,9 +46,9 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **19** |
+| 📝 プロンプト総数 | **25** |
 | ⭐ おすすめプロンプト | **0** |
-| 🔄 最終更新 | **2026-05-29** |
+| 🔄 最終更新 | **2026-06-01** |
 
 ---
 
@@ -56,11 +56,11 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
-### Rusalka Tarot Card Video
+### ルサルカのタロットカード動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative prompt using descriptive keywords and emojis to generate a stable, cinematic tarot card-inspired video featuring a mythical Rusalka theme.
+> 神話に登場するルサルカをテーマに、説明的なキーワードと絵文字を使用して、安定した映画のようなタロットカード風の動画を生成するためのクリエイティブなプロンプトです。
 
 #### 📝 プロンプト
 
@@ -68,49 +68,49 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 Reflection-Rusalka «🌳🧜‍♀️🪞»
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Rusalka Tarot Card Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="ルサルカのタロットカード動画">
 
 **[🎬 動画を見る →](https://x.com/astvatsaturn/status/2060128558287044975)**
 
 **作者:** [Elis Satu](https://x.com/astvatsaturn) | **ソース:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **公開日:** May 29, 2026
 
 ---
-### Sims Style Movie Scene Reimagining
+### Sims 風の映画シーン再現
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative template for Gemini Omni that recreates iconic movie and TV scenes within the stylized aesthetic of The Sims videogame, including unique graphics and dialogue.
+> Gemini Omni 用のクリエイティブなテンプレートです。映画やテレビ番組の象徴的なシーンを、The Sims のような独特のグラフィックと会話スタイルで再現します。
 
 #### 📝 プロンプト
 
 ```
-[Movie/TV Show] iconic scene, but it's a Sims videogame
+[映画 / テレビ番組] の名シーンを The Sims 風に再現
 
-[scene description]
+[シーンの説明]
 
-Sims videogame graphics, and Sims silly dialogue
+The Sims のゲームグラフィック、および The Sims 特有のコミカルな会話
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060067753638207493/img/4K1obHtL1Kl0vP9s.jpg" width="600" alt="Sims Style Movie Scene Reimagining">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="Sims 風の映画シーン再現">
 
 **[🎬 動画を見る →](https://x.com/techhalla/status/2060068841573498998)**
 
 **作者:** [TechHalla](https://x.com/techhalla) | **ソース:** [Link](https://x.com/techhalla/status/2060068841573498998) | **公開日:** May 29, 2026
 
 ---
-### Hyper-lapse Selfie Travel Transformation
+### ハイパーラプス自撮り旅行変身
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A master prompt for Gemini Omni to create a hyper-lapse travel video that swaps an uploaded character into 20 distinct environments while keeping identity consistent.
+> アップロードしたキャラクターを 20 種類の異なる環境に配置し、一貫したアイデンティティを保ちながらハイパーラプス旅行動画を作成するための Gemini Omni 向けマスタープロンプト。
 
 #### 📝 プロンプト
 
 ```
-Create a 10s hyper-lapse selfie-travel video of uploaded character. Strict identity consistency across all locations and professions. 20 distinct absurd professional roles and extreme environments worldwide with hard
+アップロードしたキャラクターを使用した 10 秒間のハイパーラプス自撮り旅行動画を作成してください。すべての場所と職業において厳格なアイデンティティの一貫性を維持すること。世界中の 20 種類の異なるユニークな職業と極端な環境を盛り込んでください。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Hyper-lapse Selfie Travel Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="ハイパーラプス自撮り旅行変身">
 
 **[🎬 動画を見る →](https://x.com/ZefredAi/status/2060051882538594657)**
 
@@ -136,60 +136,60 @@ Create a 10s hyper-lapse selfie-travel video of uploaded character. Strict ident
 **作者:** [Heather Cooper](https://x.com/HBCoop_) | **ソース:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **公開日:** May 28, 2026
 
 ---
-### Premium Travel Poster Video
+### プレミアムトラベルポスター動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt to generate a 10-second high-end travel poster video featuring a panoramic moving strip and stylized typography for a specific city.
+> 特定の都市をテーマにした、パノラマの動くストリップとスタイリッシュなタイポグラフィが特徴の、10 秒間のハイエンドなトラベルポスター動画を生成するためのプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-[CITY] = KTOKYO
-Create a 10-second premium travel-poster style video for [CITY].
+[CITY] = TOKYO
+[CITY] をテーマにした、10 秒間のプレミアムなトラベルポスター風動画を作成してください。
 
-Use a soft ivory poster background, a thin moving panoramic strip at the top, and a huge bold centered sans-serif title: “[CITY]”.
+背景には柔らかなアイボリーのポスター素材を使用し、上部には細いパノラマの動くストリップを配置してください。中央には、太字のサンセリフ体で「[CITY]」という大きなタイトルを配置してください。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Premium Travel Poster Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="プレミアムトラベルポスター動画">
 
 **[🎬 動画を見る →](https://x.com/loglogrog/status/2059997426023584083)**
 
 **作者:** [マグマグ](https://x.com/loglogrog) | **ソース:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **公開日:** May 28, 2026
 
 ---
-### Photorealistic Red Yarn Generation
+### フォトリアルな赤い毛糸の生成
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple prompt for generating photorealistic red yarn textures as part of a multimodal creative workflow in Gemini Omni.
+> Gemini Omni におけるマルチモーダルなクリエイティブワークフローの一環として、フォトリアルな赤い毛糸の質感を生成するためのシンプルなプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-photorealistic red yarn
+フォトリアルな赤い毛糸
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059993286211997696/img/g8367Ht-a9BsEIGm.jpg" width="600" alt="Photorealistic Red Yarn Generation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dbe6d5ba400dd1a8f921dd24ebc5a66/thumbnails/thumbnail.jpg" width="600" alt="フォトリアルな赤い毛糸の生成">
 
 **[🎬 動画を見る →](https://x.com/DataChaz/status/2059993335776129054)**
 
 **作者:** [Charly Wargnier](https://x.com/DataChaz) | **ソース:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **公開日:** May 28, 2026
 
 ---
-### The Snitten Hybrid
+### スニッテン（Snitten）ハイブリッド
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative prompt used to generate a video of a whimsical hybrid creature merging a snail and a kitten.
+> カタツムリと子猫を融合させた、風変わりなハイブリッド生物の動画を生成するためのクリエイティブなプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Snail + Kitten = Snitten
+カタツムリ ＋ 子猫 ＝ スニッテン（Snitten）
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="The Snitten Hybrid">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="スニッテン（Snitten）ハイブリッド">
 
 **[🎬 動画を見る →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
 
@@ -215,19 +215,19 @@ Snail + Kitten = Snitten
 **作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **ソース:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **公開日:** May 28, 2026
 
 ---
-### FPV Drone Map Flight
+### FPV ドローン マップ フライト
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A prompt to generate high-speed FPV drone footage starting from a specific point on a map screenshot using Gemini Omni Flash.
+> Gemini Omni Flash を使用し、マップのスクリーンショット上の特定の地点から開始する高速 FPV ドローン映像を生成するためのプロンプト。
 
 #### 📝 プロンプト
 
 ```
-High-speed FPV drone footage. Complete first-person view (pure FPV POV). The footage begins from the starting point on the screen.
+高速 FPV ドローン映像。完全な一人称視点（純粋な FPV POV）。映像は画面上の開始地点から始まります。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059779953227612160/img/FLZbCOAuHBfQYXHP.jpg" width="600" alt="FPV Drone Map Flight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e5f5f104bffabd0a8409b32e9ebdf4f/thumbnails/thumbnail.jpg" width="600" alt="FPV ドローン マップ フライト">
 
 **[🎬 動画を見る →](https://x.com/tanabe_fragm/status/2059781140245057683)**
 
@@ -285,42 +285,103 @@ POV：茶色の馬に乗っている視点。
 **作者:** [Harshith](https://x.com/HarshithLucky3) | **ソース:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **公開日:** May 28, 2026
 
 ---
-### Showa Era Shopping Street Atmosphere
+### 昭和レトロな商店街の雰囲気
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A prompt capturing the bustling and nostalgic atmosphere of a Japanese shopping district from the Showa era with lively crowd sounds.
+> 昭和時代の日本の商店街の賑わいとノスタルジックな雰囲気を再現するプロンプト。活気ある人々の話し声も含まれます。
 
 #### 📝 プロンプト
 
 ```
-Showa era shopping street, bustling, Japanese language, lively
+昭和の商店街 , 賑わい , 日本語 , 活気
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059623705786097664/img/I8hjxgmdDLQbJEIF.jpg" width="600" alt="Showa Era Shopping Street Atmosphere">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f1302cf8af26a69a4f9b58f8697401/thumbnails/thumbnail.jpg" width="600" alt="昭和レトロな商店街の雰囲気">
 
 **[🎬 動画を見る →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
 
 **作者:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **ソース:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **公開日:** May 27, 2026
 
 ---
-### Glowing Childhood Memories in Rain
+### Misty Twilight City Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic prompt for generating a nostalgic video of childhood memories illuminated by a soft glow during a rain shower.
+> A cinematic video generation featuring a city street at twilight, characterized by misty atmosphere and a movie-like aesthetic.
 
 #### 📝 プロンプト
 
 ```
-Glowing childhood memories in rain
+Lost in the misty twilight of the city where every street corner feels like a scene from a movie.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059620411600781312/img/3fn5OmM6yru_I5ea.jpg" width="600" alt="Glowing Childhood Memories in Rain">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a72a0bdd4880238a0f370ac74ee5193d/thumbnails/thumbnail.jpg" width="600" alt="Misty Twilight City Scene">
+
+**[🎬 動画を見る →](https://x.com/ai_with_shah/status/2059622418839486786)**
+
+**作者:** [Shah](https://x.com/ai_with_shah) | **ソース:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **公開日:** May 27, 2026
+
+---
+### 雨の中で輝く子供時代の思い出
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 雨が降る中、柔らかな光に包まれた子供時代の思い出をノスタルジックな動画として生成するための詩的なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+雨の中で輝く子供時代の思い出
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="雨の中で輝く子供時代の思い出">
 
 **[🎬 動画を見る →](https://x.com/MrDasOnX/status/2059620519310442844)**
 
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **公開日:** May 27, 2026
+
+---
+### Jiggling Souffle Pancake Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A video generation prompt that uses a storyboard image to create a 15-second anime-style cooking video of fluffy, jiggling souffle pancakes.
+
+#### 📝 プロンプト
+
+```
+Based on the attached storyboard image, please create a 15-second horizontal 16:9 anime cooking video.
+
+Theme: Extremely thick souffle pancakes that jiggle.
+
+Follow the panel order of the storyboard and turn it into a video as a fast-paced cooking scene.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2976e5e6db0710d64f0dca23783ffea/thumbnails/thumbnail.jpg" width="600" alt="Jiggling Souffle Pancake Animation">
+
+**[🎬 動画を見る →](https://x.com/vermouth_dev/status/2059586948881436906)**
+
+**作者:** [ヴェルモット](https://x.com/vermouth_dev) | **ソース:** [Link](https://x.com/vermouth_dev/status/2059586948881436906) | **公開日:** May 27, 2026
+
+---
+### Human Evolution Morphing Documentary
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A highly detailed 10-second documentary prompt tracking human evolution from early primates to modern humans with seamless morphing and cinematic lighting.
+
+#### 📝 プロンプト
+
+```
+Please create a 10-second vertical (9:16) ultra-realistic live-action documentary video using the attached storyboard image as an accurate visual blueprint. Strictly maintain the storyboard's composition, chronological order, human evolution, and walking direction. No extra shots or changes in sequence. Style: Ultra-realistic movie quality, high-budget documentary feel like BBC Earth or NHK Special, natural light, cinematic depth. Evolution: Transitions should feature seamless morphing of skeleton, face, and clothing while walking. Character: Walk from left to right at a constant speed, maintaining lineage continuity. Camera: Constant side-view tracking. Captions: Minimal documentary-style text in Japanese for each era. Negative: Slow motion, robotic movement, fantasy effects, low resolution.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d1cda4422d959e6819cd9ae408cda9/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Morphing Documentary">
+
+**[🎬 動画を見る →](https://x.com/tanabe_fragm/status/2059544118876152267)**
+
+**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **ソース:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **公開日:** May 27, 2026
 
 ---
 ### ボトルフリップの物理シミュレーション
@@ -342,38 +403,38 @@ Glowing childhood memories in rain
 **作者:** [onoken1025](https://x.com/onoken1025) | **ソース:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **公開日:** May 27, 2026
 
 ---
-### Kinetic Typography and Monologue Video
+### キネティック・タイポグラフィとモノローグ動画
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A professional video prompt for Gemini Omni focusing on precise typography placement, technical font styles, and synchronized narration effects.
+> Gemini Omni 向けのプロフェッショナルな動画プロンプト。正確なタイポグラフィの配置、テクニカルなフォントスタイル、同期されたナレーション効果に焦点を当てています。
 
 #### 📝 プロンプト
 
 ```
-White Helvetica lowercase text + thin line connecting to the main subject + inner monologue style narration
+白の Helvetica 小文字テキスト + メインの被写体へと繋がる細い線 + 内面的なモノローグ形式のナレーション
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059535898476523520/img/bVmkD6gicUhnKJGy.jpg" width="600" alt="Kinetic Typography and Monologue Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b985d3a14ddd17e5c070793e69d9675d/thumbnails/thumbnail.jpg" width="600" alt="キネティック・タイポグラフィとモノローグ動画">
 
 **[🎬 動画を見る →](https://x.com/FinanceYF5/status/2059535919007556042)**
 
 **作者:** [AI Will](https://x.com/FinanceYF5) | **ソース:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **公開日:** May 27, 2026
 
 ---
-### GTA India Trailer Generator
+### GTA India トレーラー生成ツール
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A straightforward prompt for generating a game-style trailer featuring Indian cultural landmarks like the Taj Mahal.
+> タージ・マハルなどのインドの文化的ランドマークをフィーチャーした、ゲームスタイルのトレーラーを生成するためのシンプルなプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-generate a GTA India trailer
+GTA India のトレーラーを生成する
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059504365996785664/img/BqyV6qHJ8tQvvpkH.jpg" width="600" alt="GTA India Trailer Generator">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a265c8597d79084a16e32ad30792f572/thumbnails/thumbnail.jpg" width="600" alt="GTA India トレーラー生成ツール">
 
 **[🎬 動画を見る →](https://x.com/BuildFastWithAI/status/2059522490876010600)**
 
@@ -480,6 +541,65 @@ generate a GTA India trailer
 **作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **ソース:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **公開日:** May 27, 2026
 
 ---
+### Seasonal Months Portrait Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a video of a person reciting the months of the year with dynamic background changes corresponding to the seasons and holidays of each month.
+
+#### 📝 プロンプト
+
+```
+A video of a man saying the months from Jan to Dec, one month every 1s. show the current month in the corner. No dialogue other than the month he says. The background location and scene changes every month to match it: Jan winter, feb valentine, march spring, April rain, May flowers, June beach, July fireworks, Aug tropical, Sept school/autumn, Oct Halloween, Nov cozy fall, Dec Christmas
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e209f73fac65c170036bd433d0575deb/thumbnails/thumbnail.jpg" width="600" alt="Seasonal Months Portrait Video Prompt">
+
+**[🎬 動画を見る →](https://x.com/HarshithLucky3/status/2059259787444166919)**
+
+**作者:** [Harshith](https://x.com/HarshithLucky3) | **ソース:** [Link](https://x.com/HarshithLucky3/status/2059259787444166919) | **公開日:** May 26, 2026
+
+---
+### Finger Counting with On-Screen Numbers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a video of a man counting to ten on his fingers, featuring specific instructions for timing, dialogue, and hand usage.
+
+#### 📝 プロンプト
+
+```
+A video of a man counting to 10 on his fingers, show the number in the corner. A new number every 1s, no dialogue other than the numbers he says. He uses two hands for numbers bigger than 5.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a1964eae4132705b5c7819df0cae54e/thumbnails/thumbnail.jpg" width="600" alt="Finger Counting with On-Screen Numbers">
+
+**[🎬 動画を見る →](https://x.com/fofrAI/status/2059230628911124880)**
+
+**作者:** [fofr](https://x.com/fofrAI) | **ソース:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **公開日:** May 26, 2026
+
+---
+### Tokyo Tower Rocket Launch
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> This prompt transforms a photo of Tokyo Tower into a launching rocket, complete with a countdown and smoke effects at specific timestamps.
+
+#### 📝 プロンプト
+
+```
+At second 0: A countdown voice in English is heard (from 3 to zero)
+At second 4: When the countdown ends, smoke rises from under the central red tower (which is actually a rocket).
+At second 5: The red tower slowly flies up into the sky.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee30cef60570d303d2e738b1c293ef15/thumbnails/thumbnail.jpg" width="600" alt="Tokyo Tower Rocket Launch">
+
+**[🎬 動画を見る →](https://x.com/onoken1025/status/2059197447541498219)**
+
+**作者:** [onoken1025](https://x.com/onoken1025) | **ソース:** [Link](https://x.com/onoken1025/status/2059197447541498219) | **公開日:** May 26, 2026
+
+---
 
 ## 🤝 貢献方法
 
@@ -516,6 +636,6 @@ generate a GTA India trailer
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-05-29T08:04:13.760Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-01T07:28:07.684Z</sub>
 
 </div>
