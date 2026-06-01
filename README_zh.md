@@ -46,9 +46,9 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **19** |
+| 📝 提示词总数 | **25** |
 | ⭐ 精选提示词 | **0** |
-| 🔄 最后更新 | **2026-05-29** |
+| 🔄 最后更新 | **2026-06-01** |
 
 ---
 
@@ -56,11 +56,11 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
-### Rusalka Tarot Card Video
+### Rusalka 塔罗牌视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative prompt using descriptive keywords and emojis to generate a stable, cinematic tarot card-inspired video featuring a mythical Rusalka theme.
+> 一个使用描述性关键词和表情符号的创意提示词，旨在生成一段稳定、具有电影质感的塔罗牌风格视频，呈现神话中的 Rusalka 主题。
 
 #### 📝 提示词
 
@@ -68,49 +68,49 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 Reflection-Rusalka «🌳🧜‍♀️🪞»
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Rusalka Tarot Card Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Rusalka 塔罗牌视频">
 
 **[🎬 观看视频 →](https://x.com/astvatsaturn/status/2060128558287044975)**
 
 **作者:** [Elis Satu](https://x.com/astvatsaturn) | **来源:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **发布时间:** May 29, 2026
 
 ---
-### Sims Style Movie Scene Reimagining
+### 模拟人生 (The Sims) 风格电影场景重构
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative template for Gemini Omni that recreates iconic movie and TV scenes within the stylized aesthetic of The Sims videogame, including unique graphics and dialogue.
+> 这是一个为 Gemini Omni 设计的创意模板，旨在将经典的电影和电视剧场景以《模拟人生》游戏的独特美学进行重构，包含独特的画面风格和对话。
 
 #### 📝 提示词
 
 ```
-[Movie/TV Show] iconic scene, but it's a Sims videogame
+[电影/电视剧] 经典场景，但以《模拟人生》游戏风格呈现
 
-[scene description]
+[场景描述]
 
-Sims videogame graphics, and Sims silly dialogue
+《模拟人生》游戏画面，以及《模拟人生》风格的趣味对话
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060067753638207493/img/4K1obHtL1Kl0vP9s.jpg" width="600" alt="Sims Style Movie Scene Reimagining">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="模拟人生 (The Sims) 风格电影场景重构">
 
 **[🎬 观看视频 →](https://x.com/techhalla/status/2060068841573498998)**
 
 **作者:** [TechHalla](https://x.com/techhalla) | **来源:** [Link](https://x.com/techhalla/status/2060068841573498998) | **发布时间:** May 29, 2026
 
 ---
-### Hyper-lapse Selfie Travel Transformation
+### 延时摄影自拍旅行变身
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A master prompt for Gemini Omni to create a hyper-lapse travel video that swaps an uploaded character into 20 distinct environments while keeping identity consistent.
+> 一个为 Gemini Omni 设计的精选提示词，用于创作延时摄影旅行视频，将上传的人物角色置入 20 个不同的场景中，同时保持角色身份的一致性。
 
 #### 📝 提示词
 
 ```
-Create a 10s hyper-lapse selfie-travel video of uploaded character. Strict identity consistency across all locations and professions. 20 distinct absurd professional roles and extreme environments worldwide with hard
+创作一段 10 秒的延时摄影自拍旅行视频，主角为上传的人物角色。确保在所有地点和职业场景中严格保持身份一致性。展示 20 种荒诞的职业角色以及全球各地的极端环境，并具备硬核
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Hyper-lapse Selfie Travel Transformation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="延时摄影自拍旅行变身">
 
 **[🎬 观看视频 →](https://x.com/ZefredAi/status/2060051882538594657)**
 
@@ -136,33 +136,33 @@ Create a 10s hyper-lapse selfie-travel video of uploaded character. Strict ident
 **作者:** [Heather Cooper](https://x.com/HBCoop_) | **来源:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **发布时间:** May 28, 2026
 
 ---
-### Premium Travel Poster Video
+### 高端旅行海报视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt to generate a 10-second high-end travel poster video featuring a panoramic moving strip and stylized typography for a specific city.
+> 一个用于生成 10 秒高端旅行海报视频的提示词，包含全景动态条和特定城市的风格化排版。
 
 #### 📝 提示词
 
 ```
 [CITY] = KTOKYO
-Create a 10-second premium travel-poster style video for [CITY].
+为 [CITY] 创建一个 10 秒的高端旅行海报风格视频。
 
-Use a soft ivory poster background, a thin moving panoramic strip at the top, and a huge bold centered sans-serif title: “[CITY]”.
+使用柔和的象牙色海报背景，顶部设置一条纤细的动态全景条，并在中心放置一个巨大的粗体无衬线标题：“[CITY]”。
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Premium Travel Poster Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="高端旅行海报视频">
 
 **[🎬 观看视频 →](https://x.com/loglogrog/status/2059997426023584083)**
 
 **作者:** [マグマグ](https://x.com/loglogrog) | **来源:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **发布时间:** May 28, 2026
 
 ---
-### Photorealistic Red Yarn Generation
+### 逼真的红色毛线生成
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple prompt for generating photorealistic red yarn textures as part of a multimodal creative workflow in Gemini Omni.
+> 一个用于在 Gemini Omni 多模态创意工作流中生成逼真红色毛线纹理的简单提示词。
 
 #### 📝 提示词
 
@@ -170,26 +170,26 @@ Use a soft ivory poster background, a thin moving panoramic strip at the top, an
 photorealistic red yarn
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059993286211997696/img/g8367Ht-a9BsEIGm.jpg" width="600" alt="Photorealistic Red Yarn Generation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dbe6d5ba400dd1a8f921dd24ebc5a66/thumbnails/thumbnail.jpg" width="600" alt="逼真的红色毛线生成">
 
 **[🎬 观看视频 →](https://x.com/DataChaz/status/2059993335776129054)**
 
 **作者:** [Charly Wargnier](https://x.com/DataChaz) | **来源:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **发布时间:** May 28, 2026
 
 ---
-### The Snitten Hybrid
+### Snitten 混合体
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A creative prompt used to generate a video of a whimsical hybrid creature merging a snail and a kitten.
+> 一个创意提示词，用于生成一段将蜗牛与小猫融为一体的奇幻混合生物视频。
 
 #### 📝 提示词
 
 ```
-Snail + Kitten = Snitten
+蜗牛 + 小猫 = Snitten
 ```
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="The Snitten Hybrid">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="Snitten 混合体">
 
 **[🎬 观看视频 →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
 
@@ -215,19 +215,19 @@ Snail + Kitten = Snitten
 **作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **来源:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **发布时间:** May 28, 2026
 
 ---
-### FPV Drone Map Flight
+### FPV 无人机地图飞行
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A prompt to generate high-speed FPV drone footage starting from a specific point on a map screenshot using Gemini Omni Flash.
+> 一个使用 Gemini Omni Flash 从地图截图的特定点开始生成高速 FPV 无人机画面的提示词。
 
 #### 📝 提示词
 
 ```
-High-speed FPV drone footage. Complete first-person view (pure FPV POV). The footage begins from the starting point on the screen.
+高速 FPV 无人机画面。完整的沉浸式第一人称视角（纯 FPV POV）。画面从屏幕上的起点开始。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059779953227612160/img/FLZbCOAuHBfQYXHP.jpg" width="600" alt="FPV Drone Map Flight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e5f5f104bffabd0a8409b32e9ebdf4f/thumbnails/thumbnail.jpg" width="600" alt="FPV 无人机地图飞行">
 
 **[🎬 观看视频 →](https://x.com/tanabe_fragm/status/2059781140245057683)**
 
@@ -285,42 +285,103 @@ POV：我们正骑着一匹棕色的马。
 **作者:** [Harshith](https://x.com/HarshithLucky3) | **来源:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **发布时间:** May 28, 2026
 
 ---
-### Showa Era Shopping Street Atmosphere
+### 昭和时代商店街氛围
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> A prompt capturing the bustling and nostalgic atmosphere of a Japanese shopping district from the Showa era with lively crowd sounds.
+> 一段捕捉昭和时代日本商店街熙熙攘攘、怀旧氛围的提示词，包含热闹的人群声。
 
 #### 📝 提示词
 
 ```
-Showa era shopping street, bustling, Japanese language, lively
+昭和时代商店街，熙熙攘攘，日语，热闹
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059623705786097664/img/I8hjxgmdDLQbJEIF.jpg" width="600" alt="Showa Era Shopping Street Atmosphere">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f1302cf8af26a69a4f9b58f8697401/thumbnails/thumbnail.jpg" width="600" alt="昭和时代商店街氛围">
 
 **[🎬 观看视频 →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
 
 **作者:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **来源:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **发布时间:** May 27, 2026
 
 ---
-### Glowing Childhood Memories in Rain
+### Misty Twilight City Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A poetic prompt for generating a nostalgic video of childhood memories illuminated by a soft glow during a rain shower.
+> A cinematic video generation featuring a city street at twilight, characterized by misty atmosphere and a movie-like aesthetic.
 
 #### 📝 提示词
 
 ```
-Glowing childhood memories in rain
+Lost in the misty twilight of the city where every street corner feels like a scene from a movie.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059620411600781312/img/3fn5OmM6yru_I5ea.jpg" width="600" alt="Glowing Childhood Memories in Rain">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a72a0bdd4880238a0f370ac74ee5193d/thumbnails/thumbnail.jpg" width="600" alt="Misty Twilight City Scene">
+
+**[🎬 观看视频 →](https://x.com/ai_with_shah/status/2059622418839486786)**
+
+**作者:** [Shah](https://x.com/ai_with_shah) | **来源:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **发布时间:** May 27, 2026
+
+---
+### 雨中闪耀的童年回忆
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个富有诗意的提示词，用于生成一段充满怀旧感的视频，展现雨中被柔光点亮的童年记忆。
+
+#### 📝 提示词
+
+```
+雨中闪耀的童年回忆
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="雨中闪耀的童年回忆">
 
 **[🎬 观看视频 →](https://x.com/MrDasOnX/status/2059620519310442844)**
 
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **发布时间:** May 27, 2026
+
+---
+### Jiggling Souffle Pancake Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A video generation prompt that uses a storyboard image to create a 15-second anime-style cooking video of fluffy, jiggling souffle pancakes.
+
+#### 📝 提示词
+
+```
+Based on the attached storyboard image, please create a 15-second horizontal 16:9 anime cooking video.
+
+Theme: Extremely thick souffle pancakes that jiggle.
+
+Follow the panel order of the storyboard and turn it into a video as a fast-paced cooking scene.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2976e5e6db0710d64f0dca23783ffea/thumbnails/thumbnail.jpg" width="600" alt="Jiggling Souffle Pancake Animation">
+
+**[🎬 观看视频 →](https://x.com/vermouth_dev/status/2059586948881436906)**
+
+**作者:** [ヴェルモット](https://x.com/vermouth_dev) | **来源:** [Link](https://x.com/vermouth_dev/status/2059586948881436906) | **发布时间:** May 27, 2026
+
+---
+### Human Evolution Morphing Documentary
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A highly detailed 10-second documentary prompt tracking human evolution from early primates to modern humans with seamless morphing and cinematic lighting.
+
+#### 📝 提示词
+
+```
+Please create a 10-second vertical (9:16) ultra-realistic live-action documentary video using the attached storyboard image as an accurate visual blueprint. Strictly maintain the storyboard's composition, chronological order, human evolution, and walking direction. No extra shots or changes in sequence. Style: Ultra-realistic movie quality, high-budget documentary feel like BBC Earth or NHK Special, natural light, cinematic depth. Evolution: Transitions should feature seamless morphing of skeleton, face, and clothing while walking. Character: Walk from left to right at a constant speed, maintaining lineage continuity. Camera: Constant side-view tracking. Captions: Minimal documentary-style text in Japanese for each era. Negative: Slow motion, robotic movement, fantasy effects, low resolution.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d1cda4422d959e6819cd9ae408cda9/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Morphing Documentary">
+
+**[🎬 观看视频 →](https://x.com/tanabe_fragm/status/2059544118876152267)**
+
+**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **来源:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **发布时间:** May 27, 2026
 
 ---
 ### 瓶子翻转物理模拟
@@ -342,38 +403,38 @@ Glowing childhood memories in rain
 **作者:** [onoken1025](https://x.com/onoken1025) | **来源:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **发布时间:** May 27, 2026
 
 ---
-### Kinetic Typography and Monologue Video
+### 动态排版与独白视频
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A professional video prompt for Gemini Omni focusing on precise typography placement, technical font styles, and synchronized narration effects.
+> 一个专为 Gemini Omni 设计的专业视频提示词，侧重于精确的排版布局、科技感字体风格以及同步旁白效果。
 
 #### 📝 提示词
 
 ```
-White Helvetica lowercase text + thin line connecting to the main subject + inner monologue style narration
+白色 Helvetica 小写字体 + 连接至主体对象的细线 + 内心独白风格旁白
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059535898476523520/img/bVmkD6gicUhnKJGy.jpg" width="600" alt="Kinetic Typography and Monologue Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b985d3a14ddd17e5c070793e69d9675d/thumbnails/thumbnail.jpg" width="600" alt="动态排版与独白视频">
 
 **[🎬 观看视频 →](https://x.com/FinanceYF5/status/2059535919007556042)**
 
 **作者:** [AI Will](https://x.com/FinanceYF5) | **来源:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **发布时间:** May 27, 2026
 
 ---
-### GTA India Trailer Generator
+### GTA India 预告片生成器
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A straightforward prompt for generating a game-style trailer featuring Indian cultural landmarks like the Taj Mahal.
+> 一个简单直接的提示词，用于生成以泰姬陵等印度文化地标为特色的游戏风格预告片。
 
 #### 📝 提示词
 
 ```
-generate a GTA India trailer
+生成一个 GTA India 预告片
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059504365996785664/img/BqyV6qHJ8tQvvpkH.jpg" width="600" alt="GTA India Trailer Generator">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a265c8597d79084a16e32ad30792f572/thumbnails/thumbnail.jpg" width="600" alt="GTA India 预告片生成器">
 
 **[🎬 观看视频 →](https://x.com/BuildFastWithAI/status/2059522490876010600)**
 
@@ -480,6 +541,65 @@ generate a GTA India trailer
 **作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **来源:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **发布时间:** May 27, 2026
 
 ---
+### Seasonal Months Portrait Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a video of a person reciting the months of the year with dynamic background changes corresponding to the seasons and holidays of each month.
+
+#### 📝 提示词
+
+```
+A video of a man saying the months from Jan to Dec, one month every 1s. show the current month in the corner. No dialogue other than the month he says. The background location and scene changes every month to match it: Jan winter, feb valentine, march spring, April rain, May flowers, June beach, July fireworks, Aug tropical, Sept school/autumn, Oct Halloween, Nov cozy fall, Dec Christmas
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e209f73fac65c170036bd433d0575deb/thumbnails/thumbnail.jpg" width="600" alt="Seasonal Months Portrait Video Prompt">
+
+**[🎬 观看视频 →](https://x.com/HarshithLucky3/status/2059259787444166919)**
+
+**作者:** [Harshith](https://x.com/HarshithLucky3) | **来源:** [Link](https://x.com/HarshithLucky3/status/2059259787444166919) | **发布时间:** May 26, 2026
+
+---
+### Finger Counting with On-Screen Numbers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a video of a man counting to ten on his fingers, featuring specific instructions for timing, dialogue, and hand usage.
+
+#### 📝 提示词
+
+```
+A video of a man counting to 10 on his fingers, show the number in the corner. A new number every 1s, no dialogue other than the numbers he says. He uses two hands for numbers bigger than 5.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a1964eae4132705b5c7819df0cae54e/thumbnails/thumbnail.jpg" width="600" alt="Finger Counting with On-Screen Numbers">
+
+**[🎬 观看视频 →](https://x.com/fofrAI/status/2059230628911124880)**
+
+**作者:** [fofr](https://x.com/fofrAI) | **来源:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **发布时间:** May 26, 2026
+
+---
+### Tokyo Tower Rocket Launch
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> This prompt transforms a photo of Tokyo Tower into a launching rocket, complete with a countdown and smoke effects at specific timestamps.
+
+#### 📝 提示词
+
+```
+At second 0: A countdown voice in English is heard (from 3 to zero)
+At second 4: When the countdown ends, smoke rises from under the central red tower (which is actually a rocket).
+At second 5: The red tower slowly flies up into the sky.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee30cef60570d303d2e738b1c293ef15/thumbnails/thumbnail.jpg" width="600" alt="Tokyo Tower Rocket Launch">
+
+**[🎬 观看视频 →](https://x.com/onoken1025/status/2059197447541498219)**
+
+**作者:** [onoken1025](https://x.com/onoken1025) | **来源:** [Link](https://x.com/onoken1025/status/2059197447541498219) | **发布时间:** May 26, 2026
+
+---
 
 ## 🤝 如何贡献
 
@@ -516,6 +636,6 @@ generate a GTA India trailer
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-05-29T08:04:11.818Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-01T07:28:04.856Z</sub>
 
 </div>

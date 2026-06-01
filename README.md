@@ -46,9 +46,9 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **19** |
+| 📝 Total Prompts | **25** |
 | ⭐ Featured Prompts | **0** |
-| 🔄 Last Updated | **2026-05-29** |
+| 🔄 Last Updated | **2026-06-01** |
 
 ---
 
@@ -91,7 +91,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 Sims videogame graphics, and Sims silly dialogue
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2060067753638207493/img/4K1obHtL1Kl0vP9s.jpg" width="600" alt="Sims Style Movie Scene Reimagining">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="Sims Style Movie Scene Reimagining">
 
 **[🎬 Watch Video →](https://x.com/techhalla/status/2060068841573498998)**
 
@@ -170,7 +170,7 @@ Use a soft ivory poster background, a thin moving panoramic strip at the top, an
 photorealistic red yarn
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059993286211997696/img/g8367Ht-a9BsEIGm.jpg" width="600" alt="Photorealistic Red Yarn Generation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dbe6d5ba400dd1a8f921dd24ebc5a66/thumbnails/thumbnail.jpg" width="600" alt="Photorealistic Red Yarn Generation">
 
 **[🎬 Watch Video →](https://x.com/DataChaz/status/2059993335776129054)**
 
@@ -227,7 +227,7 @@ Anime girl in a purple-haired dress walks steadily forward, with her hairstyle, 
 High-speed FPV drone footage. Complete first-person view (pure FPV POV). The footage begins from the starting point on the screen.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059779953227612160/img/FLZbCOAuHBfQYXHP.jpg" width="600" alt="FPV Drone Map Flight">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e5f5f104bffabd0a8409b32e9ebdf4f/thumbnails/thumbnail.jpg" width="600" alt="FPV Drone Map Flight">
 
 **[🎬 Watch Video →](https://x.com/tanabe_fragm/status/2059781140245057683)**
 
@@ -297,11 +297,30 @@ keep the camera angle strictly as a 3/4 isometric shot
 Showa era shopping street, bustling, Japanese language, lively
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059623705786097664/img/I8hjxgmdDLQbJEIF.jpg" width="600" alt="Showa Era Shopping Street Atmosphere">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f1302cf8af26a69a4f9b58f8697401/thumbnails/thumbnail.jpg" width="600" alt="Showa Era Shopping Street Atmosphere">
 
 **[🎬 Watch Video →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
 
 **Author:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **Source:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **Published:** May 27, 2026
+
+---
+### Misty Twilight City Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video generation featuring a city street at twilight, characterized by misty atmosphere and a movie-like aesthetic.
+
+#### 📝 Prompt
+
+```
+Lost in the misty twilight of the city where every street corner feels like a scene from a movie.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a72a0bdd4880238a0f370ac74ee5193d/thumbnails/thumbnail.jpg" width="600" alt="Misty Twilight City Scene">
+
+**[🎬 Watch Video →](https://x.com/ai_with_shah/status/2059622418839486786)**
+
+**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **Published:** May 27, 2026
 
 ---
 ### Glowing Childhood Memories in Rain
@@ -316,11 +335,53 @@ Showa era shopping street, bustling, Japanese language, lively
 Glowing childhood memories in rain
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059620411600781312/img/3fn5OmM6yru_I5ea.jpg" width="600" alt="Glowing Childhood Memories in Rain">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="Glowing Childhood Memories in Rain">
 
 **[🎬 Watch Video →](https://x.com/MrDasOnX/status/2059620519310442844)**
 
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **Published:** May 27, 2026
+
+---
+### Jiggling Souffle Pancake Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A video generation prompt that uses a storyboard image to create a 15-second anime-style cooking video of fluffy, jiggling souffle pancakes.
+
+#### 📝 Prompt
+
+```
+Based on the attached storyboard image, please create a 15-second horizontal 16:9 anime cooking video.
+
+Theme: Extremely thick souffle pancakes that jiggle.
+
+Follow the panel order of the storyboard and turn it into a video as a fast-paced cooking scene.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2976e5e6db0710d64f0dca23783ffea/thumbnails/thumbnail.jpg" width="600" alt="Jiggling Souffle Pancake Animation">
+
+**[🎬 Watch Video →](https://x.com/vermouth_dev/status/2059586948881436906)**
+
+**Author:** [ヴェルモット](https://x.com/vermouth_dev) | **Source:** [Link](https://x.com/vermouth_dev/status/2059586948881436906) | **Published:** May 27, 2026
+
+---
+### Human Evolution Morphing Documentary
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A highly detailed 10-second documentary prompt tracking human evolution from early primates to modern humans with seamless morphing and cinematic lighting.
+
+#### 📝 Prompt
+
+```
+Please create a 10-second vertical (9:16) ultra-realistic live-action documentary video using the attached storyboard image as an accurate visual blueprint. Strictly maintain the storyboard's composition, chronological order, human evolution, and walking direction. No extra shots or changes in sequence. Style: Ultra-realistic movie quality, high-budget documentary feel like BBC Earth or NHK Special, natural light, cinematic depth. Evolution: Transitions should feature seamless morphing of skeleton, face, and clothing while walking. Character: Walk from left to right at a constant speed, maintaining lineage continuity. Camera: Constant side-view tracking. Captions: Minimal documentary-style text in Japanese for each era. Negative: Slow motion, robotic movement, fantasy effects, low resolution.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d1cda4422d959e6819cd9ae408cda9/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Morphing Documentary">
+
+**[🎬 Watch Video →](https://x.com/tanabe_fragm/status/2059544118876152267)**
+
+**Author:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **Published:** May 27, 2026
 
 ---
 ### Bottle Flip Physics Simulation
@@ -354,7 +415,7 @@ He is a Japanese man in his 50s. Maintain consistency of the bottle shape until 
 White Helvetica lowercase text + thin line connecting to the main subject + inner monologue style narration
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059535898476523520/img/bVmkD6gicUhnKJGy.jpg" width="600" alt="Kinetic Typography and Monologue Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b985d3a14ddd17e5c070793e69d9675d/thumbnails/thumbnail.jpg" width="600" alt="Kinetic Typography and Monologue Video">
 
 **[🎬 Watch Video →](https://x.com/FinanceYF5/status/2059535919007556042)**
 
@@ -373,7 +434,7 @@ White Helvetica lowercase text + thin line connecting to the main subject + inne
 generate a GTA India trailer
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2059504365996785664/img/BqyV6qHJ8tQvvpkH.jpg" width="600" alt="GTA India Trailer Generator">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a265c8597d79084a16e32ad30792f572/thumbnails/thumbnail.jpg" width="600" alt="GTA India Trailer Generator">
 
 **[🎬 Watch Video →](https://x.com/BuildFastWithAI/status/2059522490876010600)**
 
@@ -459,6 +520,65 @@ Please use the attached storyboard image as an exact visual blueprint to create 
 **Author:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **Published:** May 27, 2026
 
 ---
+### Seasonal Months Portrait Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Generates a video of a person reciting the months of the year with dynamic background changes corresponding to the seasons and holidays of each month.
+
+#### 📝 Prompt
+
+```
+A video of a man saying the months from Jan to Dec, one month every 1s. show the current month in the corner. No dialogue other than the month he says. The background location and scene changes every month to match it: Jan winter, feb valentine, march spring, April rain, May flowers, June beach, July fireworks, Aug tropical, Sept school/autumn, Oct Halloween, Nov cozy fall, Dec Christmas
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e209f73fac65c170036bd433d0575deb/thumbnails/thumbnail.jpg" width="600" alt="Seasonal Months Portrait Video Prompt">
+
+**[🎬 Watch Video →](https://x.com/HarshithLucky3/status/2059259787444166919)**
+
+**Author:** [Harshith](https://x.com/HarshithLucky3) | **Source:** [Link](https://x.com/HarshithLucky3/status/2059259787444166919) | **Published:** May 26, 2026
+
+---
+### Finger Counting with On-Screen Numbers
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a video of a man counting to ten on his fingers, featuring specific instructions for timing, dialogue, and hand usage.
+
+#### 📝 Prompt
+
+```
+A video of a man counting to 10 on his fingers, show the number in the corner. A new number every 1s, no dialogue other than the numbers he says. He uses two hands for numbers bigger than 5.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a1964eae4132705b5c7819df0cae54e/thumbnails/thumbnail.jpg" width="600" alt="Finger Counting with On-Screen Numbers">
+
+**[🎬 Watch Video →](https://x.com/fofrAI/status/2059230628911124880)**
+
+**Author:** [fofr](https://x.com/fofrAI) | **Source:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **Published:** May 26, 2026
+
+---
+### Tokyo Tower Rocket Launch
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> This prompt transforms a photo of Tokyo Tower into a launching rocket, complete with a countdown and smoke effects at specific timestamps.
+
+#### 📝 Prompt
+
+```
+At second 0: A countdown voice in English is heard (from 3 to zero)
+At second 4: When the countdown ends, smoke rises from under the central red tower (which is actually a rocket).
+At second 5: The red tower slowly flies up into the sky.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee30cef60570d303d2e738b1c293ef15/thumbnails/thumbnail.jpg" width="600" alt="Tokyo Tower Rocket Launch">
+
+**[🎬 Watch Video →](https://x.com/onoken1025/status/2059197447541498219)**
+
+**Author:** [onoken1025](https://x.com/onoken1025) | **Source:** [Link](https://x.com/onoken1025/status/2059197447541498219) | **Published:** May 26, 2026
+
+---
 
 ## 🤝 How to Contribute
 
@@ -495,6 +615,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-05-29T08:04:10.775Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-01T07:28:03.228Z</sub>
 
 </div>
