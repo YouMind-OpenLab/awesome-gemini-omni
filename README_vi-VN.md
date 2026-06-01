@@ -72,7 +72,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 Xem video →](https://x.com/astvatsaturn/status/2060128558287044975)**
 
-**Tác giả:** [Elis Satu](https://x.com/astvatsaturn) | **Nguồn:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Đã xuất bản:** May 29, 2026
+**Tác giả:** [Elis Satu](https://x.com/astvatsaturn) | **Nguồn:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Đã xuất bản:** May 28, 2026
 
 ---
 ### Tái hiện cảnh phim theo phong cách The Sims
@@ -95,7 +95,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 Xem video →](https://x.com/techhalla/status/2060068841573498998)**
 
-**Tác giả:** [TechHalla](https://x.com/techhalla) | **Nguồn:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Đã xuất bản:** May 29, 2026
+**Tác giả:** [TechHalla](https://x.com/techhalla) | **Nguồn:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Đã xuất bản:** May 28, 2026
 
 ---
 ### Biến hình du lịch selfie phong cách hyper-lapse
@@ -114,7 +114,7 @@ Tạo một video du lịch selfie phong cách hyper-lapse dài 10 giây với n
 
 **[🎬 Xem video →](https://x.com/ZefredAi/status/2060051882538594657)**
 
-**Tác giả:** [ZeFred.AI](https://x.com/ZefredAi) | **Nguồn:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Đã xuất bản:** May 29, 2026
+**Tác giả:** [ZeFred.AI](https://x.com/ZefredAi) | **Nguồn:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Đã xuất bản:** May 28, 2026
 
 ---
 ### Mô phỏng vệ tinh về thời tiết cực đoan
@@ -231,7 +231,7 @@ Thước phim FPV drone tốc độ cao. Góc nhìn thứ nhất hoàn chỉnh (
 
 **[🎬 Xem video →](https://x.com/tanabe_fragm/status/2059781140245057683)**
 
-**Tác giả:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Đã xuất bản:** May 28, 2026
+**Tác giả:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Đã xuất bản:** May 27, 2026
 
 ---
 ### Bản đồ tham quan ảo Middle Earth
@@ -256,7 +256,7 @@ Phong cách thước phim tư liệu (found footage) chân thực và gai góc.
 
 **[🎬 Xem video →](https://x.com/techhalla/status/2059724218158166537)**
 
-**Tác giả:** [TechHalla](https://x.com/techhalla) | **Nguồn:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Đã xuất bản:** May 28, 2026
+**Tác giả:** [TechHalla](https://x.com/techhalla) | **Nguồn:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Đã xuất bản:** May 27, 2026
 
 ---
 ### Lắp ráp xe thể thao dạng Isometric
@@ -282,7 +282,7 @@ giữ góc máy nghiêm ngặt ở góc nhìn isometric 3/4
 
 **[🎬 Xem video →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
-**Tác giả:** [Harshith](https://x.com/HarshithLucky3) | **Nguồn:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Đã xuất bản:** May 28, 2026
+**Tác giả:** [Harshith](https://x.com/HarshithLucky3) | **Nguồn:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Đã xuất bản:** May 27, 2026
 
 ---
 ### Không khí khu phố mua sắm thời Showa
@@ -636,6 +636,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-01T07:28:10.636Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-01T07:31:28.127Z</sub>
 
 </div>

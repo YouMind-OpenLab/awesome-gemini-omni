@@ -72,7 +72,7 @@ Reflejo-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 Ver video →](https://x.com/astvatsaturn/status/2060128558287044975)**
 
-**Autor:** [Elis Satu](https://x.com/astvatsaturn) | **Fuente:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Publicado:** May 29, 2026
+**Autor:** [Elis Satu](https://x.com/astvatsaturn) | **Fuente:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Publicado:** May 28, 2026
 
 ---
 ### Recreación de escenas de películas al estilo de The Sims
@@ -95,7 +95,7 @@ Gráficos del videojuego The Sims y los divertidos diálogos de los Sims
 
 **[🎬 Ver video →](https://x.com/techhalla/status/2060068841573498998)**
 
-**Autor:** [TechHalla](https://x.com/techhalla) | **Fuente:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Publicado:** May 29, 2026
+**Autor:** [TechHalla](https://x.com/techhalla) | **Fuente:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Publicado:** May 28, 2026
 
 ---
 ### Transformación de viaje en selfie hyper-lapse
@@ -114,7 +114,7 @@ Crea un video de viaje en selfie hyper-lapse de 10 segundos con el personaje sub
 
 **[🎬 Ver video →](https://x.com/ZefredAi/status/2060051882538594657)**
 
-**Autor:** [ZeFred.AI](https://x.com/ZefredAi) | **Fuente:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Publicado:** May 29, 2026
+**Autor:** [ZeFred.AI](https://x.com/ZefredAi) | **Fuente:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Publicado:** May 28, 2026
 
 ---
 ### Simulación satelital de clima extremo
@@ -231,7 +231,7 @@ Metraje de dron FPV de alta velocidad. Vista completa en primera persona (POV FP
 
 **[🎬 Ver video →](https://x.com/tanabe_fragm/status/2059781140245057683)**
 
-**Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fuente:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Publicado:** May 28, 2026
+**Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fuente:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Publicado:** May 27, 2026
 
 ---
 ### Mapa de recorrido virtual por la Tierra Media
@@ -256,7 +256,7 @@ Estilo metraje encontrado (found footage) realista y crudo.
 
 **[🎬 Ver video →](https://x.com/techhalla/status/2059724218158166537)**
 
-**Autor:** [TechHalla](https://x.com/techhalla) | **Fuente:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Publicado:** May 28, 2026
+**Autor:** [TechHalla](https://x.com/techhalla) | **Fuente:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Publicado:** May 27, 2026
 
 ---
 ### Ensamblaje isométrico de auto deportivo
@@ -282,7 +282,7 @@ mantén el ángulo de cámara estrictamente como una toma isométrica de 3/4
 
 **[🎬 Ver video →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
-**Autor:** [Harshith](https://x.com/HarshithLucky3) | **Fuente:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Publicado:** May 28, 2026
+**Autor:** [Harshith](https://x.com/HarshithLucky3) | **Fuente:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Publicado:** May 27, 2026
 
 ---
 ### Ambiente de calle comercial de la era Showa
@@ -636,6 +636,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-01T07:28:13.240Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-01T07:31:29.117Z</sub>
 
 </div>

@@ -72,7 +72,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 观看视频 →](https://x.com/astvatsaturn/status/2060128558287044975)**
 
-**作者:** [Elis Satu](https://x.com/astvatsaturn) | **来源:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **发布时间:** May 29, 2026
+**作者:** [Elis Satu](https://x.com/astvatsaturn) | **来源:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **发布时间:** May 28, 2026
 
 ---
 ### 模拟人生 (The Sims) 风格电影场景重构
@@ -95,7 +95,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 观看视频 →](https://x.com/techhalla/status/2060068841573498998)**
 
-**作者:** [TechHalla](https://x.com/techhalla) | **来源:** [Link](https://x.com/techhalla/status/2060068841573498998) | **发布时间:** May 29, 2026
+**作者:** [TechHalla](https://x.com/techhalla) | **来源:** [Link](https://x.com/techhalla/status/2060068841573498998) | **发布时间:** May 28, 2026
 
 ---
 ### 延时摄影自拍旅行变身
@@ -114,7 +114,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 观看视频 →](https://x.com/ZefredAi/status/2060051882538594657)**
 
-**作者:** [ZeFred.AI](https://x.com/ZefredAi) | **来源:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **发布时间:** May 29, 2026
+**作者:** [ZeFred.AI](https://x.com/ZefredAi) | **来源:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **发布时间:** May 28, 2026
 
 ---
 ### 极端天气卫星模拟
@@ -231,7 +231,7 @@ photorealistic red yarn
 
 **[🎬 观看视频 →](https://x.com/tanabe_fragm/status/2059781140245057683)**
 
-**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **来源:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **发布时间:** May 28, 2026
+**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **来源:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **发布时间:** May 27, 2026
 
 ---
 ### 中土世界虚拟导览地图
@@ -256,7 +256,7 @@ POV：我们正骑着一匹棕色的马。
 
 **[🎬 观看视频 →](https://x.com/techhalla/status/2059724218158166537)**
 
-**作者:** [TechHalla](https://x.com/techhalla) | **来源:** [Link](https://x.com/techhalla/status/2059724218158166537) | **发布时间:** May 28, 2026
+**作者:** [TechHalla](https://x.com/techhalla) | **来源:** [Link](https://x.com/techhalla/status/2059724218158166537) | **发布时间:** May 27, 2026
 
 ---
 ### 跑车等轴测组装
@@ -282,7 +282,7 @@ POV：我们正骑着一匹棕色的马。
 
 **[🎬 观看视频 →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
-**作者:** [Harshith](https://x.com/HarshithLucky3) | **来源:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **发布时间:** May 28, 2026
+**作者:** [Harshith](https://x.com/HarshithLucky3) | **来源:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **发布时间:** May 27, 2026
 
 ---
 ### 昭和时代商店街氛围
@@ -636,6 +636,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-01T07:28:04.856Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-01T07:31:26.220Z</sub>
 
 </div>

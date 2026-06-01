@@ -72,7 +72,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 觀看視頻 →](https://x.com/astvatsaturn/status/2060128558287044975)**
 
-**作者:** [Elis Satu](https://x.com/astvatsaturn) | **來源:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **發布時間:** May 29, 2026
+**作者:** [Elis Satu](https://x.com/astvatsaturn) | **來源:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **發布時間:** May 28, 2026
 
 ---
 ### 模擬市民 (The Sims) 風格電影場景重現
@@ -95,7 +95,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 觀看視頻 →](https://x.com/techhalla/status/2060068841573498998)**
 
-**作者:** [TechHalla](https://x.com/techhalla) | **來源:** [Link](https://x.com/techhalla/status/2060068841573498998) | **發布時間:** May 29, 2026
+**作者:** [TechHalla](https://x.com/techhalla) | **來源:** [Link](https://x.com/techhalla/status/2060068841573498998) | **發布時間:** May 28, 2026
 
 ---
 ### 超縮時自拍旅行變身
@@ -114,7 +114,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 觀看視頻 →](https://x.com/ZefredAi/status/2060051882538594657)**
 
-**作者:** [ZeFred.AI](https://x.com/ZefredAi) | **來源:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **發布時間:** May 29, 2026
+**作者:** [ZeFred.AI](https://x.com/ZefredAi) | **來源:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **發布時間:** May 28, 2026
 
 ---
 ### 極端天氣衛星模擬
@@ -231,7 +231,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 觀看視頻 →](https://x.com/tanabe_fragm/status/2059781140245057683)**
 
-**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **發布時間:** May 28, 2026
+**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **發布時間:** May 27, 2026
 
 ---
 ### 中土世界虛擬導覽地圖
@@ -256,7 +256,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 觀看視頻 →](https://x.com/techhalla/status/2059724218158166537)**
 
-**作者:** [TechHalla](https://x.com/techhalla) | **來源:** [Link](https://x.com/techhalla/status/2059724218158166537) | **發布時間:** May 28, 2026
+**作者:** [TechHalla](https://x.com/techhalla) | **來源:** [Link](https://x.com/techhalla/status/2059724218158166537) | **發布時間:** May 27, 2026
 
 ---
 ### 跑車等距視角組裝
@@ -282,7 +282,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 觀看視頻 →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
-**作者:** [Harshith](https://x.com/HarshithLucky3) | **來源:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **發布時間:** May 28, 2026
+**作者:** [Harshith](https://x.com/HarshithLucky3) | **來源:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **發布時間:** May 27, 2026
 
 ---
 ### 昭和時代商店街氛圍
@@ -636,6 +636,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-01T07:28:06.589Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-01T07:31:26.567Z</sub>
 
 </div>

@@ -72,7 +72,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 ดูวิดีโอ →](https://x.com/astvatsaturn/status/2060128558287044975)**
 
-**ผู้เขียน:** [Elis Satu](https://x.com/astvatsaturn) | **แหล่งที่มา:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **เผยแพร่เมื่อ:** May 29, 2026
+**ผู้เขียน:** [Elis Satu](https://x.com/astvatsaturn) | **แหล่งที่มา:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **เผยแพร่เมื่อ:** May 28, 2026
 
 ---
 ### จำลองฉากภาพยนตร์ในสไตล์ The Sims
@@ -95,7 +95,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 ดูวิดีโอ →](https://x.com/techhalla/status/2060068841573498998)**
 
-**ผู้เขียน:** [TechHalla](https://x.com/techhalla) | **แหล่งที่มา:** [Link](https://x.com/techhalla/status/2060068841573498998) | **เผยแพร่เมื่อ:** May 29, 2026
+**ผู้เขียน:** [TechHalla](https://x.com/techhalla) | **แหล่งที่มา:** [Link](https://x.com/techhalla/status/2060068841573498998) | **เผยแพร่เมื่อ:** May 28, 2026
 
 ---
 ### เปลี่ยนลุคเซลฟี่ท่องเที่ยวด้วยวิดีโอ Hyper-lapse
@@ -114,7 +114,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 ดูวิดีโอ →](https://x.com/ZefredAi/status/2060051882538594657)**
 
-**ผู้เขียน:** [ZeFred.AI](https://x.com/ZefredAi) | **แหล่งที่มา:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **เผยแพร่เมื่อ:** May 29, 2026
+**ผู้เขียน:** [ZeFred.AI](https://x.com/ZefredAi) | **แหล่งที่มา:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **เผยแพร่เมื่อ:** May 28, 2026
 
 ---
 ### การจำลองสภาพอากาศสุดขั้วจากดาวเทียม
@@ -231,7 +231,7 @@ photorealistic red yarn
 
 **[🎬 ดูวิดีโอ →](https://x.com/tanabe_fragm/status/2059781140245057683)**
 
-**ผู้เขียน:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **แหล่งที่มา:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **เผยแพร่เมื่อ:** May 28, 2026
+**ผู้เขียน:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **แหล่งที่มา:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **เผยแพร่เมื่อ:** May 27, 2026
 
 ---
 ### แผนที่ทัวร์เสมือนจริง Middle Earth
@@ -256,7 +256,7 @@ photorealistic red yarn
 
 **[🎬 ดูวิดีโอ →](https://x.com/techhalla/status/2059724218158166537)**
 
-**ผู้เขียน:** [TechHalla](https://x.com/techhalla) | **แหล่งที่มา:** [Link](https://x.com/techhalla/status/2059724218158166537) | **เผยแพร่เมื่อ:** May 28, 2026
+**ผู้เขียน:** [TechHalla](https://x.com/techhalla) | **แหล่งที่มา:** [Link](https://x.com/techhalla/status/2059724218158166537) | **เผยแพร่เมื่อ:** May 27, 2026
 
 ---
 ### การประกอบรถสปอร์ตในมุมมองไอโซเมตริก
@@ -282,7 +282,7 @@ photorealistic red yarn
 
 **[🎬 ดูวิดีโอ →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
-**ผู้เขียน:** [Harshith](https://x.com/HarshithLucky3) | **แหล่งที่มา:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **เผยแพร่เมื่อ:** May 28, 2026
+**ผู้เขียน:** [Harshith](https://x.com/HarshithLucky3) | **แหล่งที่มา:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **เผยแพร่เมื่อ:** May 27, 2026
 
 ---
 ### บรรยากาศย่านร้านค้าในยุคโชวะ
@@ -636,6 +636,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-01T07:28:09.623Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-01T07:31:27.702Z</sub>
 
 </div>

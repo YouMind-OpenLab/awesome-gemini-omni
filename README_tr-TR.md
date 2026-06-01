@@ -72,7 +72,7 @@ Yansıma-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 Videoyu izle →](https://x.com/astvatsaturn/status/2060128558287044975)**
 
-**Yazar:** [Elis Satu](https://x.com/astvatsaturn) | **Kaynak:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Yayınlandı:** May 29, 2026
+**Yazar:** [Elis Satu](https://x.com/astvatsaturn) | **Kaynak:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Yayınlandı:** May 28, 2026
 
 ---
 ### Sims Tarzında Film Sahnesi Yeniden Yaratımı
@@ -95,7 +95,7 @@ Sims video oyunu grafikleri ve Sims'in kendine has komik diyalogları
 
 **[🎬 Videoyu izle →](https://x.com/techhalla/status/2060068841573498998)**
 
-**Yazar:** [TechHalla](https://x.com/techhalla) | **Kaynak:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Yayınlandı:** May 29, 2026
+**Yazar:** [TechHalla](https://x.com/techhalla) | **Kaynak:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Yayınlandı:** May 28, 2026
 
 ---
 ### Hyper-lapse Selfie Seyahat Dönüşümü
@@ -114,7 +114,7 @@ Yüklenen karakterin 10 saniyelik hyper-lapse selfie-seyahat videosunu oluşturu
 
 **[🎬 Videoyu izle →](https://x.com/ZefredAi/status/2060051882538594657)**
 
-**Yazar:** [ZeFred.AI](https://x.com/ZefredAi) | **Kaynak:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Yayınlandı:** May 29, 2026
+**Yazar:** [ZeFred.AI](https://x.com/ZefredAi) | **Kaynak:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Yayınlandı:** May 28, 2026
 
 ---
 ### Aşırı Hava Durumu Uydu Simülasyonu
@@ -231,7 +231,7 @@ Yüksek hızlı FPV drone görüntüleri. Tam birinci şahıs bakış açısı (
 
 **[🎬 Videoyu izle →](https://x.com/tanabe_fragm/status/2059781140245057683)**
 
-**Yazar:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Yayınlandı:** May 28, 2026
+**Yazar:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Yayınlandı:** May 27, 2026
 
 ---
 ### Orta Dünya Sanal Tur Haritası
@@ -256,7 +256,7 @@ Gerçekçi ve ham bir 'found footage' (buluntu görüntü) tarzı.
 
 **[🎬 Videoyu izle →](https://x.com/techhalla/status/2059724218158166537)**
 
-**Yazar:** [TechHalla](https://x.com/techhalla) | **Kaynak:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Yayınlandı:** May 28, 2026
+**Yazar:** [TechHalla](https://x.com/techhalla) | **Kaynak:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Yayınlandı:** May 27, 2026
 
 ---
 ### İzometrik Spor Araba Montajı
@@ -282,7 +282,7 @@ kamera açısını kesinlikle 3/4 izometrik çekim olarak koruyun
 
 **[🎬 Videoyu izle →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
-**Yazar:** [Harshith](https://x.com/HarshithLucky3) | **Kaynak:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Yayınlandı:** May 28, 2026
+**Yazar:** [Harshith](https://x.com/HarshithLucky3) | **Kaynak:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Yayınlandı:** May 27, 2026
 
 ---
 ### Showa Dönemi Alışveriş Caddesi Atmosferi
@@ -636,6 +636,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-01T07:28:19.200Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-01T07:31:31.305Z</sub>
 
 </div>

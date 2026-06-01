@@ -72,7 +72,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 비디오 보기 →](https://x.com/astvatsaturn/status/2060128558287044975)**
 
-**작성자:** [Elis Satu](https://x.com/astvatsaturn) | **출처:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **게시일:** May 29, 2026
+**작성자:** [Elis Satu](https://x.com/astvatsaturn) | **출처:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **게시일:** May 28, 2026
 
 ---
 ### 심즈(The Sims) 스타일로 재해석한 영화 장면
@@ -95,7 +95,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 비디오 보기 →](https://x.com/techhalla/status/2060068841573498998)**
 
-**작성자:** [TechHalla](https://x.com/techhalla) | **출처:** [Link](https://x.com/techhalla/status/2060068841573498998) | **게시일:** May 29, 2026
+**작성자:** [TechHalla](https://x.com/techhalla) | **출처:** [Link](https://x.com/techhalla/status/2060068841573498998) | **게시일:** May 28, 2026
 
 ---
 ### 하이퍼랩스 셀피 여행 변신
@@ -114,7 +114,7 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 
 **[🎬 비디오 보기 →](https://x.com/ZefredAi/status/2060051882538594657)**
 
-**작성자:** [ZeFred.AI](https://x.com/ZefredAi) | **출처:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **게시일:** May 29, 2026
+**작성자:** [ZeFred.AI](https://x.com/ZefredAi) | **출처:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **게시일:** May 28, 2026
 
 ---
 ### 극한 기상 위성 시뮬레이션
@@ -231,7 +231,7 @@ photorealistic red yarn
 
 **[🎬 비디오 보기 →](https://x.com/tanabe_fragm/status/2059781140245057683)**
 
-**작성자:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **출처:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **게시일:** May 28, 2026
+**작성자:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **출처:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **게시일:** May 27, 2026
 
 ---
 ### 중간계 가상 투어 지도
@@ -256,7 +256,7 @@ POV: 갈색 말을 타고 달리는 시점.
 
 **[🎬 비디오 보기 →](https://x.com/techhalla/status/2059724218158166537)**
 
-**작성자:** [TechHalla](https://x.com/techhalla) | **출처:** [Link](https://x.com/techhalla/status/2059724218158166537) | **게시일:** May 28, 2026
+**작성자:** [TechHalla](https://x.com/techhalla) | **출처:** [Link](https://x.com/techhalla/status/2059724218158166537) | **게시일:** May 27, 2026
 
 ---
 ### 스포츠카 아이소메트릭 조립
@@ -282,7 +282,7 @@ POV: 갈색 말을 타고 달리는 시점.
 
 **[🎬 비디오 보기 →](https://x.com/HarshithLucky3/status/2059713624885891271)**
 
-**작성자:** [Harshith](https://x.com/HarshithLucky3) | **출처:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **게시일:** May 28, 2026
+**작성자:** [Harshith](https://x.com/HarshithLucky3) | **출처:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **게시일:** May 27, 2026
 
 ---
 ### 쇼와 시대 상점가 분위기
@@ -636,6 +636,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-01T07:28:08.675Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-01T07:31:27.327Z</sub>
 
 </div>
