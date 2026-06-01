@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **25** |
+| 📝 Toplam İstem | **36** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-01** |
 
@@ -56,6 +56,269 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Krom Bilye Zincirleme Reaksiyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Brütalist bir galeride ilerleyen krom bir bilyenin, karmaşık fizik kuralları ve mühendislik etiketleriyle desteklenen kesintisiz ve akıcı bir video çekimi için geliştirilmiş bir istem.
+
+#### 📝 İstem
+
+```
+Kesintisiz ve akıcı çekim. 10 saniye. Krom bir bilye, brütalist beton bir galeri içindeki imkansız derecede karmaşık bir zincirleme reaksiyon makinesinde hızla ilerliyor. Kamera, tek bir kesintisiz hareketle doğrudan bilyenin arkasını takip ediyor. Bilye; manyetik kaldıraçları, su türbinlerini, asılı dominoları, jiroskopik halkaları, plazma arklarını ve yerçekimine meydan okuyan rampaları tetikliyor. Her reaksiyon fiziksel olarak doğru ve nedensel bir bağ içinde gerçekleşiyor. Mekanizmalar devreye girdikçe yanlarında kısa süreliğine hafif beyaz mühendislik şeması etiketleri beliriyor. Dramatik yansımalara sahip, son derece temiz endüstriyel aydınlatma. Ses; darbelere ve harekete tam uyumlu: metalik tıkırtılar, servo motorlar, manyetik darbeler, bilye çarpmaları ve yükselen orkestral gerilim.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="Krom Bilye Zincirleme Reaksiyonu">
+
+**[🎬 Videoyu izle →](https://x.com/HBCoop_/status/2061095417886990555)**
+
+**Yazar:** [Heather Cooper](https://x.com/HBCoop_) | **Kaynak:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **Yayınlandı:** May 31, 2026
+
+---
+### Antropomorfik Taçlı Kara Kedi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kasvetli, kara film (noir) tarzı bir bahçe ortamında antropomorfik bir kedi karakteri için görsel açıdan yoğun bir komut.
+
+#### 📝 İstem
+
+```
+Gizemli, antropomorfik bir kedi, dramatik kara film ışıklandırması, derin kontrastlar ve karamsar gölgeler altında, solmuş kiraz çiçekleriyle dolu ay ışığı alan bir bahçede, başında bir taç ve üzerinde koyu renkli gölgeli cübbelerle sessizce oturuyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="Antropomorfik Taçlı Kara Kedi">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2061068717937860647)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **Yayınlandı:** May 31, 2026
+
+---
+### Görsel-İşitsel Eylem Senkronizasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Videolardaki karakter eylemlerini belirli ses efektleriyle senkronize etmek için hazırlanmış ayrıntılı teknik bir komut.
+
+#### 📝 İstem
+
+```
+Karakter, standart bir kapı çalma eylemini gerçekleştirmek için elini kaldırır; çalma hareketi, ilgili ses efektiyle anında ve eş zamanlı olarak uyum sağlar. Böylece eylem ve ses efektinin zamanlama açısından hizalanması ve doğal bir uyum içinde olması sağlanır.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="Görsel-İşitsel Eylem Senkronizasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
+
+**Yazar:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Kaynak:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **Yayınlandı:** May 31, 2026
+
+---
+### GPS Koordinatlı Drone Görünümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Paris'in doğru drone bakış açısı görüntülerini oluşturmak için kesin enlem ve boylam koordinatlarını kullanan bir komut.
+
+#### 📝 İstem
+
+```
+Bu konumun 48°51′23.8″N 2°21′08.0″E drone görünümü görüntülerini oluştur (drone görünmeden)
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="GPS Koordinatlı Drone Görünümü">
+
+**[🎬 Videoyu izle →](https://x.com/c_nemri/status/2061007691166667057)**
+
+**Yazar:** [Chouaieb Nemri](https://x.com/c_nemri) | **Kaynak:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Yayınlandı:** May 31, 2026
+
+---
+### Fantastik Hikaye Panosu Sayfası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kraliçe ve beyaz bir kurt yoldaşını içeren çok panelli bir animasyon hikaye panosu sayfası oluşturmak için son derece ayrıntılı bir komut.
+
+#### 📝 İstem
+
+```
+Ultra detaylı fantastik hikaye panosu sayfası, "Genç Kraliçe ve Beyaz Kurt", Studio Ghibli esintili animasyon filmi hikaye panosu, birinci sınıf sulu boya hikaye kitabı illüstrasyonu, sinematik fantastik macera, elle boyanmış konsept sanat, zarif kraliyet estetiği, karlı krallık atmosferi, profesyonel animasyon prodüksiyon öncesi panosu, yüksek detaylı karakter hikaye anlatımı, 10 sinematik panelli temiz hikaye panosu düzeni, yumuşak kış ışığı, büyülü fantastik dünya.
+ANA KARAKTERLER
+Genç Kraliçe: 18-20 yaşlarında zarif bir genç kraliçe, uzun dalgalı kestane rengi saçlar, zarif gümüş-mavi taç, etkileyici zümrüt yeşili gözler, narin yüz hatları, kürk astarlı pelerinli lüks kraliyet kış elbisesi, asil ama şefkatli bir kişilik.
+Beyaz Kurt: Kalın ve kabarık tüyleri olan görkemli kar beyazı bir kurt, delici buz mavisi gözler, asil duruş, zeki ifade, sadık koruyucu yoldaş.
+HİKAYE PANOSU PANELLERİ
+Panel 01 — Donmuş Krallık: Şafak vaktinde muhteşem, karla kaplı bir krallığın geniş sinematik genel çekimi. Genç kraliçe, dağlara ve ormanlara bakan bir kale balkonunda duruyor.
+Panel 02 — Keşif: Kraliçe, ormanın derinliklerinde karla kaplı bir çam ağacının altında dinlenen yaralı bir beyaz kurt yavrusu bulur.
+Panel 03 — İyileşme ve Güven: Sıcak bir kraliyet odasının içinde, pencerelerin dışında kar yağarken kraliçe kurda nazikçe bakım yapar.
+Panel 04 — Dostluk Bağı: Kurt güçlenmiştir. Kraliçe ve kurt, düşen kar tanelerinin altında karlı bahçelerde birlikte yürürler.
+Panel 05 — Yolculuk Başlıyor: İkili krallıktan ayrılır ve uçsuz bucaksız donmuş vadiler ile yüksek dağ yollarından geçerler.
+Panel 06 — Kuzey Işıkları: Kraliçe ve kurt, gece gökyüzünü aydınlatan nefes kesici yeşil ve mor auroraların altında birlikte dururlar.
+Panel 07 — Antik Harabeler: Büyülü fenerler ve parlayan kristallerle aydınlatılan, kar altında kalmış unutulmuş taş harabeleri keşfederler.
+Panel 08 — Kaderin Zirvesi: Uçsuz bucaksız manzaralara bakan karlı bir dağ zirvesinde kahramanca geniş çekim.
+Panel 09 — Kahramanların Dönüşü: Kraliçe ve kurt, vatandaşların gelişlerini kutladığı krallığa geri dönerler.
+Panel 10 — Sonsuza Dek Koruyucular: Krallık üzerinde altın rengi gün batımı. Kraliçe ve kurt, krallıklarına bakan bir kale balkonunda birlikte dururlar.
+KARAKTER SAYFASI BÖLÜMÜ
+Şunları içerir:
+Kraliçe dönüş görünümleri (ön, yan, arka)
+Kraliçe yüz ifadeleri
+Taç detay çalışmaları
+Pelerin ve elbise tasarım referansları
+Beyaz kurt dönüş görünümleri
+Kurt ifadeleri
+Koşma ve kahramanlık pozları
+Boyut karşılaştırma tablosu
+Kraliyet arması tasarımları
+Renk paleti örnekleri
+GÖRSEL STİL
+Studio Ghibli × Disney Fantastik × Prenses Mononoke × Frozen konsept sanatı, elle boyanmış sulu boya dokuları, birinci sınıf animasyon geliştirme çizimleri, sinematik kompozisyon, detaylı çevresel hikaye anlatımı, duygusal fantastik atmosfer, zarif kraliyet estetiği, başyapıt kalitesi.
+RENK PALETİ
+buz mavisi, gümüş beyazı, kraliyet laciverti, yumuşak lavanta, kış grisi, inci kremi, altın güneş ışığı
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ecd237990dd9577b035caed3021da3f7/thumbnails/thumbnail.jpg" width="600" alt="Fantastik Hikaye Panosu Sayfası">
+
+**[🎬 Videoyu izle →](https://x.com/AIwithSynthia/status/2060914385179353444)**
+
+**Yazar:** [Synthia](https://x.com/AIwithSynthia) | **Kaynak:** [Link](https://x.com/AIwithSynthia/status/2060914385179353444) | **Yayınlandı:** May 31, 2026
+
+---
+### Arktik Tohum Bankası Sevkiyat Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Arktik bir tohum bankası tesisindeki küratörün, çatışma bölgesinden gelen nadir bitki örneklerini teslim almasını betimleyen sinematik bir metinden videoya dönüştürme istemi.
+
+#### 📝 İstem
+
+```
+Arktik bir tesisteki tohum bankası küratörünün, çatışma bölgesindeki bir botanik bahçesinden gelen tohum sevkiyatını teslim aldığı, telif hakkı içermeyen özgün ve sinematik bir metinden videoya dönüştürme sahnesi oluşturun; bu tohumlar, bir botanikçi tarafından tahliye edilen on yedi bitki türünün hayatta kalan son örnekleridir
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b65e91184c9582b151a4ae7c657c2a6d/thumbnails/thumbnail.jpg" width="600" alt="Arktik Tohum Bankası Sevkiyat Sahnesi">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2060748226521879021)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2060748226521879021) | **Yayınlandı:** May 30, 2026
+
+---
+### Sabit Görseli Canlandırma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bilgisayar ekranındaki sabit bir görseli alıp, görseldeki özneyi gerçek dünyaya adım atacak şekilde canlandıran bir Gemini Omni istemi.
+
+#### 📝 İstem
+
+```
+Bilgisayar ekranındaki içeriği görseldekiyle birebir aynı olacak şekilde başlatın. Kuşu canlandırın; başını çevirmesini, fotoğraftan çıkmasını ve kişinin elinin üzerine atlamasını sağlayın.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fca7eaa900b5888e191083e4d46bddfa/thumbnails/thumbnail.jpg" width="600" alt="Sabit Görseli Canlandırma">
+
+**[🎬 Videoyu izle →](https://x.com/DiegoAlcubierre/status/2060526084681048166)**
+
+**Yazar:** [Diego Alcubierre](https://x.com/DiegoAlcubierre) | **Kaynak:** [Link](https://x.com/DiegoAlcubierre/status/2060526084681048166) | **Yayınlandı:** May 30, 2026
+
+---
+### Canlı Yayın Arayüzü Video Katmanı
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Gemini Omni'nin, orijinal görüntüleri koruyarak mevcut bir videonun üzerine canlı yayın sohbet arayüzü katmanı eklemesi için bir istem.
+
+#### 📝 İstem
+
+```
+Videonun kendisini değiştirmeyin. İnsanları, ekipmanları, hareketleri, arka planı vb. olduğu gibi bırakın. Videonun sağ tarafında, videoyu gerçek zamanlı izleyen ve yorum yazan kişileri temsil eden bir canlı yayın arayüzü yorum bölümü gibi bir şey görüntüleyin. Yorumlar Japonca yazılmalıdır.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b4aa882ab7db0578fc087334091431c/thumbnails/thumbnail.jpg" width="600" alt="Canlı Yayın Arayüzü Video Katmanı">
+
+**[🎬 Videoyu izle →](https://x.com/YaReYaRu30Life/status/2060343668188569858)**
+
+**Yazar:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Kaynak:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Yayınlandı:** May 29, 2026
+
+---
+### Hızlanan Yaşlanma Zaman Atlamalı (Time-lapse) Videosu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Japon bir kadının bebekliğinden 80 yaşına kadar hızlanan bir zaman atlamalı efektle yaşlanmasını gösteren 10 saniyelik bir video oluşturmak için detaylı bir komut.
+
+#### 📝 İstem
+
+```
+9:16 (dikey) formatında oluşturun. Japon bir kadının 0 yaşındaki bir bebekten 80 yaşındaki bir büyükanneye yaşlanmasını gösteren bir zaman atlamalı video. Zaman atlamasının hızı kademeli olarak artmalı, böylece yaş ilerledikçe değişimler hızlanmalıdır. Bebeklikten başlayarak; çocukluk, genç kızlık, genç kadınlık, yetişkinlik, orta yaş ve son olarak büyükanne dönemine kadar yaşlanmalı ve yaşlanma hızı ikinci yarıda belirgin şekilde artmalıdır. Tüm yaşlar boyunca temel yüz hatları, vücut yapısı ve konturlar aynı kişi olacak şekilde kesinlikle korunmalıdır (Sıkı Karakter Sabitleme). Kompozisyon, tüm vücudu dengeli bir şekilde göstermeli ve arka plan basit, sıcak beyazdan açık bej rengine geçişli olmalıdır. Aydınlatma yumuşak ve doğal ışıktır. 0 yaştan büyükanne dönemine kadar, değişim hızı sürekli artan, 10 saniyelik dinamik bir zaman atlamalı video.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6841b5bda0e57d0f34c8908e174d9e47/thumbnails/thumbnail.jpg" width="600" alt="Hızlanan Yaşlanma Zaman Atlamalı (Time-lapse) Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/akiyoshisan/status/2060292025489175034)**
+
+**Yazar:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Kaynak:** [Link](https://x.com/akiyoshisan/status/2060292025489175034) | **Yayınlandı:** May 29, 2026
+
+---
+### Sinematik Deniz Kenarı Uçurum Uzun Çekim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sinematik bir deniz kenarı sahnesi için lens kontrolüne, akıcı kamera hareketine ve doğal alan derinliği geçişlerine odaklanan teknik bir video istemi.
+
+#### 📝 İstem
+
+```
+Yaşlı bir adam deniz kenarındaki bir uçurumda durmuş denize bakıyor. Uzun çekim, yavaşça ve sabit bir şekilde ilerleyerek kademeli olarak adamın yüzüne odaklanıyor; odak tüm süreç boyunca keskin kalıyor, ilerleme süreci pürüzsüz ve takılmasız gerçekleşiyor, alan derinliği ise doğal bir şekilde geçiş yapıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9eb1fc5613053f87ffb86ef5239c56c/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Deniz Kenarı Uçurum Uzun Çekim">
+
+**[🎬 Videoyu izle →](https://x.com/cloudwiseAI2026/status/2060236649599291773)**
+
+**Yazar:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Kaynak:** [Link](https://x.com/cloudwiseAI2026/status/2060236649599291773) | **Yayınlandı:** May 29, 2026
+
+---
+### Orta Çağ Şövalyesi At Üstü POV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir şövalyenin köy içinde at sürdüğü sinematik bir orta çağ sekansı için gerçekçi insan görüş açısını ve doğal hareketi vurgulayan detaylı birinci şahıs bakış açısı istemi.
+
+#### 📝 İstem
+
+```
+Canlı aksiyon orta çağ Avrupa tarzı bir filmde, bir şövalyenin at üzerinde ilerlediğini gösteren birinci şahıs POV (at üstü sürüş POV) sekansı.
+Kamera, at üzerindeki gerçekçi bir insan görüş açısını temsil edecek şekilde şövalyenin göz hizasına sabitlenmiştir. Hiçbir noktada kesme, üçüncü şahıs bakış açısına geçiş, havadan veya yukarıdan çekim yoktur.
+At, referans görselde belirtilen rotayı takip eder. Yolculuk “Start” (Başlangıç) olarak etiketlenen konumda başlar ve “Stop Here” (Burada Dur) olarak etiketlenen konumda sona erer. Hareket, atın gerçekçi yürüme hızını takip eder; baş, omuz ve dizginlerin neden olduğu hafif kamera sallantısı dahil olmak üzere doğal vücut hareketleri mevcuttur.
+Yol boyunca şövalye, yanlarından geçtiği köylüleri kısaca selamlar (basit baş selamı veya kısa el sallama). Köy; ahşap binaları, taş döşeli sokakları ve doğal bir şekilde hareket eden sakinleriyle canlı aksiyon bir orta çağ yerleşimidir.
+Son varış noktasına ulaşıldığında, at yavaşça yavaşlar ve durur. Şövalye daha sonra doğal bir şekilde attan iner. Görüntü, o ana kadar tek bir kesintisiz çekim olarak kalır.
+
+Görsel Stil (Fotorealistik Geliştirme):
+Canlı aksiyon sinematik film kalitesi, fotorealistik
+Doğal ışık tabanlı sinematik aydınlatma
+Lens özellikleri (sığ alan derinliği, hafif lens nefes alması)
+Elde çekilmiş gibi görünen ancak stabilize edilmiş POV kamera hareketi
+Gerçekçi hareket bulanıklığı
+4K RAW film görünümü
+Sinematik renk düzenleme (aşırı CGI görünümü yok)
+
+Negatif İstemi (gerçekçiliği korumak için):
+Anime, CGI veya oyun motoru tarzı görseller
+Drone çekimi, kuş bakışı veya üçüncü şahıs bakış açısı
+HUD, arayüz, altyazılar, işaretleyiciler, metin bindirmeleri
+Rota çizgileri, kılavuz çizgileri veya harita görselleştirmeleri
+Aşırı ağır çekim veya doğal olmayan hız değişimleri
+Gerçekçi olmayan havada süzülme hissi veya yerçekimine meydan okuyan hareketler
+Kesmeler veya bakış açısı geçişleri
+Aşırı pürüzsüz CGI tarzı kamera hareketi
+Gerçekçi olmayan at hareketi
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1c248860c378d088b3cdd08e9fd17d4/thumbnails/thumbnail.jpg" width="600" alt="Orta Çağ Şövalyesi At Üstü POV">
+
+**[🎬 Videoyu izle →](https://x.com/tanabe_fragm/status/2060173342943117462)**
+
+**Yazar:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Yayınlandı:** May 29, 2026
+
+---
 ### Rusalka Tarot Kartı Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -636,6 +899,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-01T07:31:31.305Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-01T13:40:19.104Z</sub>
 
 </div>

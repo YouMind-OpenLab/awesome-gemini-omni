@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **25** |
+| 📝 提示詞總數 | **36** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-01** |
 
@@ -56,6 +56,269 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Chrome Marble Chain Reaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個精密的提示詞，用於製作一段連續、流暢的影片鏡頭，展示一顆鍍鉻彈珠在野獸派藝廊中穿梭，並附帶複雜的物理與工程標籤。
+
+#### 📝 提示詞
+
+```
+連續流暢的鏡頭。10 秒。一顆鍍鉻彈珠在野獸派混凝土藝廊內，穿梭於一台極其複雜的連鎖反應裝置中。攝影機以單一無縫的動作緊跟在彈珠後方。彈珠觸發了磁力槓桿、水力渦輪、懸浮骨牌、陀螺儀環、電漿弧以及反重力坡道。每一次反應都感覺符合物理定律且具備因果關聯。當機制啟動時，柔和的白色工程圖標籤會短暫出現在旁邊。極致乾淨的工業照明，帶有戲劇性的反射效果。音效與撞擊及移動緊密同步：金屬敲擊聲、伺服馬達聲、磁脈衝聲、彈珠撞擊聲，以及逐漸升高的管弦樂張力。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="Chrome Marble Chain Reaction">
+
+**[🎬 觀看視頻 →](https://x.com/HBCoop_/status/2061095417886990555)**
+
+**作者:** [Heather Cooper](https://x.com/HBCoop_) | **來源:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **發布時間:** May 31, 2026
+
+---
+### 擬人化戴冠黑貓
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個視覺豐富的提示詞，用於描繪在陰鬱的黑色電影風格花園場景中的擬人化貓咪角色。
+
+#### 📝 提示詞
+
+```
+一隻神秘的擬人化貓咪靜靜地坐著，頭戴皇冠，身披深色陰影長袍。場景位於月光下的花園，四周佈滿枯萎的櫻花，並採用戲劇性的黑色電影燈光，呈現出強烈的對比與陰鬱的氛圍。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="擬人化戴冠黑貓">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2061068717937860647)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **發布時間:** May 31, 2026
+
+---
+### 影音動作同步
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份用於將角色動作與影片中特定音效進行同步的詳細技術提示詞。
+
+#### 📝 提示詞
+
+```
+角色舉手執行標準的敲門動作，敲擊動作需與對應的敲門音效即時且同步地吻合，確保動作與音效在時間軸上精準對齊，並在契合度上呈現自然協調的效果。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="影音動作同步">
+
+**[🎬 觀看視頻 →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
+
+**作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **來源:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **發布時間:** May 31, 2026
+
+---
+### GPS 座標無人機視角
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個使用精確經緯度座標，為巴黎生成準確無人機視角影像的提示詞。
+
+#### 📝 提示詞
+
+```
+生成此地點的無人機視角影像（不包含無人機本身）：48°51′23.8″N 2°21′08.0″E
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="GPS 座標無人機視角">
+
+**[🎬 觀看視頻 →](https://x.com/c_nemri/status/2061007691166667057)**
+
+**作者:** [Chouaieb Nemri](https://x.com/c_nemri) | **來源:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **發布時間:** May 31, 2026
+
+---
+### 奇幻故事板頁面
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個極其詳細的提示詞，用於生成包含女王與白狼夥伴的多格動畫故事板頁面。
+
+#### 📝 提示詞
+
+```
+超詳細奇幻故事板頁面，「年輕女王與白狼」，吉卜力工作室風格動畫電影故事板，頂級水彩故事書插畫，電影級奇幻冒險，手繪概念藝術，優雅皇家美學，雪之王國氛圍，專業動畫前期製作專案，高度細緻的角色敘事，簡潔的 10 格電影故事板佈局，柔和冬季光影，魔法奇幻世界。
+主要角色
+年輕女王：一位 18 至 20 歲優雅的年輕女王，留著飄逸的栗棕色長髮，戴著優雅的銀藍色皇冠，擁有深邃的翡翠綠雙眼，五官精緻，身穿奢華的皇家冬裝與毛皮斗篷，氣質高貴且充滿慈悲。
+白狼：一隻雄偉的雪白巨狼，擁有厚實蓬鬆的毛髮，銳利的冰藍色雙眼，姿態高貴，神情聰慧，是忠誠的守護夥伴。
+故事板分鏡
+第 01 格 — 冰封王國：黎明時分，壯麗雪國的寬銀幕遠景鏡頭。年輕女王站在城堡陽台上，俯瞰著山脈與森林。
+第 02 格 — 發現：女王在森林深處的一棵積雪松樹下，發現了一隻受傷的白狼幼崽。
+第 03 格 — 療癒與信任：在溫暖的皇家寢室內，女王溫柔地照料著白狼，窗外飄著雪花。
+第 04 格 — 友誼的羈絆：白狼已長大且變得強壯。女王與白狼在飄落的雪花中，一同漫步於雪地花園。
+第 05 格 — 旅程開始：兩人離開王國，穿越廣闊的冰封山谷與高聳的山徑。
+第 06 格 — 極光：女王與白狼站在絢麗的綠色與紫色極光下，極光照亮了夜空。
+第 07 格 — 古老遺跡：探索埋藏在積雪下的廢棄石造遺跡，由魔法燈籠與發光水晶照亮。
+第 08 格 — 命運之巔：站在雪山頂峰俯瞰無盡景色的英雄式遠景鏡頭。
+第 09 格 — 英雄回歸：女王與白狼回到王國，市民們歡慶著他們的歸來。
+第 10 格 — 永恆守護者：金色夕陽灑在王國上。女王與白狼一同站在城堡陽台上，俯瞰著他們的領土。
+角色設計頁面部分
+包含：
+女王轉身視圖（正面、側面、背面）
+女王表情集
+皇冠細節研究
+斗篷與服裝設計參考
+白狼轉身視圖
+白狼表情集
+奔跑與英雄姿勢
+體型比例對照表
+皇家徽章設計
+配色色票
+視覺風格
+吉卜力工作室 × 迪士尼奇幻 × 魔法公主 × 冰雪奇緣概念藝術，手繪水彩質感，頂級動畫開發美術，電影級構圖，細緻的環境敘事，感性的奇幻氛圍，優雅的皇家美學，大師級品質。
+配色方案
+冰藍色、銀白色、皇家海軍藍、柔薰衣草紫、冬季灰、珍珠奶油色、金色陽光
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ecd237990dd9577b035caed3021da3f7/thumbnails/thumbnail.jpg" width="600" alt="奇幻故事板頁面">
+
+**[🎬 觀看視頻 →](https://x.com/AIwithSynthia/status/2060914385179353444)**
+
+**作者:** [Synthia](https://x.com/AIwithSynthia) | **來源:** [Link](https://x.com/AIwithSynthia/status/2060914385179353444) | **發布時間:** May 31, 2026
+
+---
+### 北極種子庫運送場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個電影級的文字轉影片提示詞，描述一位北極種子庫的館員接收來自衝突地區的稀有植物樣本。
+
+#### 📝 提示詞
+
+```
+創作一個電影級的文字轉影片場景，呈現一個原創且無版權爭議的時刻：在北極設施中的種子庫館員，收到了來自衝突地區植物園的種子貨運，這是由一位植物學家撤離出來的 17 種植物的最後活體樣本。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b65e91184c9582b151a4ae7c657c2a6d/thumbnails/thumbnail.jpg" width="600" alt="北極種子庫運送場景">
+
+**[🎬 觀看視頻 →](https://x.com/Strength04_X/status/2060748226521879021)**
+
+**作者:** [𝐌](https://x.com/Strength04_X) | **來源:** [Link](https://x.com/Strength04_X/status/2060748226521879021) | **發布時間:** May 30, 2026
+
+---
+### 將靜態圖像轉化為動態動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個適用於 Gemini Omni 的提示詞，能將電腦螢幕上的靜態圖像轉化為物體跳入現實世界的動畫。
+
+#### 📝 提示詞
+
+```
+從與圖像完全相同的電腦螢幕內容開始。讓鳥兒活過來，轉動頭部，離開照片並跳到人的手上。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fca7eaa900b5888e191083e4d46bddfa/thumbnails/thumbnail.jpg" width="600" alt="將靜態圖像轉化為動態動畫">
+
+**[🎬 觀看視頻 →](https://x.com/DiegoAlcubierre/status/2060526084681048166)**
+
+**作者:** [Diego Alcubierre](https://x.com/DiegoAlcubierre) | **來源:** [Link](https://x.com/DiegoAlcubierre/status/2060526084681048166) | **發布時間:** May 30, 2026
+
+---
+### 直播 UI 影片疊加層
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個讓 Gemini Omni 在現有影片上添加直播聊天介面疊加層，同時保持原始畫面完整的提示詞。
+
+#### 📝 提示詞
+
+```
+請勿更動影片本身。人物、設備、動作、背景等內容應完全保留原樣。在影片右側顯示類似直播 UI 的留言區，呈現觀眾即時觀看影片並輸入留言的效果。留言內容請使用日文。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b4aa882ab7db0578fc087334091431c/thumbnails/thumbnail.jpg" width="600" alt="直播 UI 影片疊加層">
+
+**[🎬 觀看視頻 →](https://x.com/YaReYaRu30Life/status/2060343668188569858)**
+
+**作者:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **來源:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **發布時間:** May 29, 2026
+
+---
+### 加速老化縮時攝影影片
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一份詳細的提示詞，用於製作一段 10 秒的影片，呈現一位日本女性從嬰兒到 80 歲的加速老化縮時效果。
+
+#### 📝 提示詞
+
+```
+以 9:16 (垂直) 比例生成。一段縮時影片，呈現一位日本女性從 0 歲嬰兒成長至 80 歲祖母的過程。縮時速度逐漸加快，使她在年長時的變化顯得更為迅速。從嬰兒開始，經歷幼兒、女孩、年輕女性、成年人、中年女性，最後成為祖母，老化速度在後半段明顯加快。在所有年齡段中，必須嚴格保持基本面部特徵、體型和輪廓為同一人 (Strict Character Lock)。構圖呈現全身平衡，背景為簡單的暖白色至淺米色漸層。燈光為柔和、溫暖的自然光。一段動態的 10 秒縮時影片，從 0 歲到祖母，變化速率穩定增加。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6841b5bda0e57d0f34c8908e174d9e47/thumbnails/thumbnail.jpg" width="600" alt="加速老化縮時攝影影片">
+
+**[🎬 觀看視頻 →](https://x.com/akiyoshisan/status/2060292025489175034)**
+
+**作者:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **來源:** [Link](https://x.com/akiyoshisan/status/2060292025489175034) | **發布時間:** May 29, 2026
+
+---
+### 電影感海邊懸崖長鏡頭
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個專注於鏡頭控制、流暢運鏡以及自然景深轉換的技術性影片提示詞，適用於電影感海邊場景。
+
+#### 📝 提示詞
+
+```
+一位老者站在海邊懸崖上，凝視著大海。長鏡頭平穩且持續地推進，逐漸聚焦於老者的臉部，過程中對焦始終保持清晰，推進過程流暢且無卡頓，景深轉換自然。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9eb1fc5613053f87ffb86ef5239c56c/thumbnails/thumbnail.jpg" width="600" alt="電影感海邊懸崖長鏡頭">
+
+**[🎬 觀看視頻 →](https://x.com/cloudwiseAI2026/status/2060236649599291773)**
+
+**作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **來源:** [Link](https://x.com/cloudwiseAI2026/status/2060236649599291773) | **發布時間:** May 29, 2026
+
+---
+### 中世紀騎士馬背第一人稱視角
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個詳細的第一人稱視角提示詞，用於製作電影級中世紀場景，展示騎士騎馬穿過村莊的過程，強調真實的人類視覺透視與自然運動感。
+
+#### 📝 提示詞
+
+```
+真人實拍中世紀歐洲風格電影中的第一人稱視角（騎馬視角）片段，展示騎士騎馬前行的過程。
+攝影機固定在騎士的視線高度，呈現出騎在馬背上真實的人類視覺透視。全程無剪輯、無切換至第三人稱視角，亦無任何空中或俯瞰視角。
+馬匹遵循參考圖片中標示的路徑行進。旅程始於標記為「Start」的位置，並於標記為「Stop Here」的位置結束。移動速度遵循馬匹真實的步行節奏，並包含自然的身體晃動，如頭部、肩膀及因韁繩牽引而產生的攝影機擺動。
+途中，騎士在經過村民時會簡短地致意（簡單點頭或揮手）。村莊為真人實拍風格的中世紀聚落，設有木造建築、石板街道，以及自然活動的居民。
+抵達最終目的地後，馬匹逐漸減速並停下。隨後騎士自然地從馬背上下來。在此之前，影片保持單一連續鏡頭。
+
+視覺風格（照片級真實感增強）：
+真人實拍電影畫質，照片級真實感
+基於自然光的電影級燈光
+鏡頭特性（淺景深、輕微的鏡頭呼吸效應）
+手持感但穩定的 POV 攝影機運動
+真實的動態模糊
+4K RAW 電影質感
+電影級調色（無過度的 CGI 感）
+
+負面提示詞（用於維持真實感）：
+動畫、CGI 或遊戲引擎風格的視覺效果
+無人機視角、空中俯瞰或第三人稱視角
+HUD、UI、字幕、標記、文字疊加
+路線線條、引導線或地圖視覺化
+過度的慢動作或不自然的變速
+不真實的漂浮感或違背重力的運動
+剪輯或視角轉換
+過於平滑的 CGI 風格攝影機運動
+不真實的馬匹動作
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1c248860c378d088b3cdd08e9fd17d4/thumbnails/thumbnail.jpg" width="600" alt="中世紀騎士馬背第一人稱視角">
+
+**[🎬 觀看視頻 →](https://x.com/tanabe_fragm/status/2060173342943117462)**
+
+**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **發布時間:** May 29, 2026
+
+---
 ### Rusalka 塔羅牌影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -636,6 +899,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-01T07:31:26.567Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-01T13:40:10.464Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **25** |
+| 📝 Total de prompts | **36** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-06-01** |
 
@@ -56,6 +56,269 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Reacción en cadena de canica cromada
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt sofisticado para una toma de video continua y fluida de una canica cromada navegando por una galería brutalista con etiquetas de física e ingeniería complejas.
+
+#### 📝 Prompt
+
+```
+Toma fluida continua. 10 segundos. Una canica cromada recorre una máquina de reacción en cadena increíblemente compleja dentro de una galería de hormigón brutalista. La cámara sigue directamente detrás de la canica en un movimiento continuo. La canica activa palancas magnéticas, turbinas de agua, dominós suspendidos, anillos giroscópicos, arcos de plasma y rampas que desafían la gravedad. Cada reacción se siente físicamente precisa y causalmente conectada. Etiquetas de diagramas de ingeniería en blanco suave aparecen brevemente junto a los mecanismos a medida que se activan. Iluminación industrial hiperlimpia con reflejos dramáticos. Audio sincronizado estrechamente con los impactos y el movimiento: clics metálicos, servomotores, pulsos magnéticos, impactos de canica y tensión orquestal creciente.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="Reacción en cadena de canica cromada">
+
+**[🎬 Ver video →](https://x.com/HBCoop_/status/2061095417886990555)**
+
+**Autor:** [Heather Cooper](https://x.com/HBCoop_) | **Fuente:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **Publicado:** May 31, 2026
+
+---
+### Gato antropomórfico con corona al estilo noir
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt visualmente denso para un personaje de gato antropomórfico en un jardín con una atmósfera sombría de estilo noir.
+
+#### 📝 Prompt
+
+```
+Un misterioso gato antropomórfico está sentado en silencio, luciendo una corona y túnicas oscuras y sombrías en un jardín iluminado por la luna, lleno de flores de cerezo marchitas bajo una dramática iluminación noir con contrastes profundos y sombras melancólicas.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="Gato antropomórfico con corona al estilo noir">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2061068717937860647)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **Publicado:** May 31, 2026
+
+---
+### Sincronización de acción audiovisual
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt técnico detallado para sincronizar las acciones de los personajes con efectos de sonido específicos en video.
+
+#### 📝 Prompt
+
+```
+El personaje levanta la mano para realizar una acción de tocar estándar, con el movimiento de golpe coincidiendo instantánea y sincrónicamente con el efecto de sonido de golpe correspondiente, asegurando que la acción y el efecto de sonido estén alineados en el tiempo y coordinados de forma natural.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="Sincronización de acción audiovisual">
+
+**[🎬 Ver video →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
+
+**Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fuente:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **Publicado:** May 31, 2026
+
+---
+### Vista de dron con coordenadas GPS
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt que utiliza coordenadas precisas de latitud y longitud para generar imágenes precisas desde la perspectiva de un dron sobre París.
+
+#### 📝 Prompt
+
+```
+Genera imágenes desde la perspectiva de un dron (sin que se vea el dron) de este lugar: 48°51′23.8″N 2°21′08.0″E
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="Vista de dron con coordenadas GPS">
+
+**[🎬 Ver video →](https://x.com/c_nemri/status/2061007691166667057)**
+
+**Autor:** [Chouaieb Nemri](https://x.com/c_nemri) | **Fuente:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Publicado:** May 31, 2026
+
+---
+### Hoja de storyboard de fantasía
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt extremadamente detallado para generar una hoja de storyboard de animación multipanel que presenta a una reina y su compañero, un lobo blanco.
+
+#### 📝 Prompt
+
+```
+Hoja de storyboard de fantasía ultra detallada, "Joven reina y lobo blanco", storyboard de película animada inspirado en Studio Ghibli, ilustración de libro de cuentos en acuarela de alta calidad, aventura de fantasía cinematográfica, arte conceptual pintado a mano, estética real elegante, atmósfera de reino nevado, tablero de preproducción de animación profesional, narrativa de personajes altamente detallada, diseño de storyboard limpio con 10 paneles cinematográficos, iluminación invernal suave, mundo de fantasía mágico.
+PERSONAJES PRINCIPALES
+Joven reina: Una joven reina elegante de 18 a 20 años, cabello castaño largo y fluido, corona elegante de color azul plateado, ojos esmeralda expresivos, rasgos faciales delicados, lujoso vestido real de invierno con capa forrada de piel, personalidad noble pero compasiva.
+Lobo blanco: Un majestuoso lobo blanco como la nieve con pelaje grueso y esponjoso, ojos azul hielo penetrantes, postura noble, expresión inteligente, compañero guardián leal.
+ PANELES DEL STORYBOARD
+Panel 01 — Reino congelado: Plano cinematográfico amplio de establecimiento de un magnífico reino cubierto de nieve al amanecer. La joven reina se encuentra en el balcón de un castillo con vistas a las montañas y los bosques.
+Panel 02 — El descubrimiento: La reina encuentra a un cachorro de lobo blanco herido descansando bajo un pino cubierto de nieve en lo profundo del bosque.
+Panel 03 — Curación y confianza: Dentro de una cálida cámara real, la reina cuida suavemente al lobo mientras cae nieve fuera de las ventanas.
+Panel 04 — Vínculo de amistad: El lobo ha crecido y se ha fortalecido. La reina y el lobo caminan juntos a través de jardines nevados bajo copos de nieve que caen.
+Panel 05 — Comienza el viaje: La pareja abandona el reino y viaja a través de vastos valles congelados y senderos montañosos imponentes.
+Panel 06 — Auroras boreales: La reina y el lobo están juntos bajo impresionantes auroras verdes y púrpuras que iluminan el cielo nocturno.
+Panel 07 — Ruinas antiguas: Explorando ruinas de piedra olvidadas enterradas bajo la nieve, iluminadas por linternas mágicas y cristales brillantes.
+Panel 08 — Cumbre del destino: Plano heroico amplio en la cima de una montaña nevada con vistas a paisajes infinitos.
+Panel 09 — El regreso de los héroes: La reina y el lobo regresan al reino mientras los ciudadanos celebran su llegada.
+Panel 10 — Guardianes para siempre: Atardecer dorado sobre el reino. La reina y el lobo están juntos en el balcón del castillo con vistas a su reino.
+SECCIÓN DE HOJA DE PERSONAJES
+Incluye:
+Vistas de giro de la reina (frente, perfil, espalda)
+Expresiones faciales de la reina
+Estudios de detalle de la corona
+Referencias de diseño de capa y vestido
+Vistas de giro del lobo blanco
+Expresiones del lobo
+Poses de carrera y de héroe
+Tabla de comparación de tamaños
+Diseños de insignias reales
+Muestras de paleta de colores
+ESTILO VISUAL
+Studio Ghibli × Disney Fantasy × Princess Mononoke × arte conceptual de Frozen, texturas de acuarela pintadas a mano, ilustraciones de desarrollo de animación de alta calidad, composición cinematográfica, narrativa ambiental detallada, atmósfera de fantasía emocional, estética real elegante, calidad de obra maestra.
+PALETA DE COLORES
+azul gélido, blanco plateado, azul marino real, lavanda suave, gris invernal, crema perla, luz solar dorada
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ecd237990dd9577b035caed3021da3f7/thumbnails/thumbnail.jpg" width="600" alt="Hoja de storyboard de fantasía">
+
+**[🎬 Ver video →](https://x.com/AIwithSynthia/status/2060914385179353444)**
+
+**Autor:** [Synthia](https://x.com/AIwithSynthia) | **Fuente:** [Link](https://x.com/AIwithSynthia/status/2060914385179353444) | **Publicado:** May 31, 2026
+
+---
+### Escena de envío al Banco Mundial de Semillas del Ártico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico de texto a video que describe a un conservador en una instalación del banco de semillas del Ártico recibiendo muestras de plantas raras provenientes de una zona de conflicto.
+
+#### 📝 Prompt
+
+```
+Crea una escena cinematográfica de texto a video que presente un momento original sin derechos de autor donde un conservador de un banco de semillas en una instalación del Ártico recibe un envío de semillas de un jardín botánico en una zona de conflicto; las últimas muestras vivas de diecisiete especies de plantas, evacuadas por un botánico
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b65e91184c9582b151a4ae7c657c2a6d/thumbnails/thumbnail.jpg" width="600" alt="Escena de envío al Banco Mundial de Semillas del Ártico">
+
+**[🎬 Ver video →](https://x.com/Strength04_X/status/2060748226521879021)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2060748226521879021) | **Publicado:** May 30, 2026
+
+---
+### Animación de imagen estática a vida
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para Gemini Omni que toma una imagen estática en la pantalla de una computadora y anima a un sujeto para que cobre vida y salte al mundo real.
+
+#### 📝 Prompt
+
+```
+Comienza con el contenido de la pantalla de la computadora exactamente igual al de la imagen. Haz que el pájaro cobre vida, gire la cabeza, salga de la foto y salte a la mano de la persona.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fca7eaa900b5888e191083e4d46bddfa/thumbnails/thumbnail.jpg" width="600" alt="Animación de imagen estática a vida">
+
+**[🎬 Ver video →](https://x.com/DiegoAlcubierre/status/2060526084681048166)**
+
+**Autor:** [Diego Alcubierre](https://x.com/DiegoAlcubierre) | **Fuente:** [Link](https://x.com/DiegoAlcubierre/status/2060526084681048166) | **Publicado:** May 30, 2026
+
+---
+### Superposición de interfaz de usuario para transmisión en vivo
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt para Gemini Omni para añadir una superposición de interfaz de chat de transmisión en vivo sobre un video existente, manteniendo intacto el metraje original.
+
+#### 📝 Prompt
+
+```
+No modifiques el video en sí. Muestra a las personas, el equipo, el movimiento, el fondo, etc., exactamente tal como están. Superpón una interfaz de usuario de chat de transmisión en vivo en el lado derecho del video, que represente a personas viendo el video en tiempo real y escribiendo comentarios. Los comentarios deben estar escritos en japonés.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b4aa882ab7db0578fc087334091431c/thumbnails/thumbnail.jpg" width="600" alt="Superposición de interfaz de usuario para transmisión en vivo">
+
+**[🎬 Ver video →](https://x.com/YaReYaRu30Life/status/2060343668188569858)**
+
+**Autor:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Fuente:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Publicado:** May 29, 2026
+
+---
+### Video de time-lapse de envejecimiento acelerado
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt detallado para crear un video de 10 segundos de una mujer japonesa envejeciendo desde la infancia hasta los 80 años con un efecto de time-lapse acelerado.
+
+#### 📝 Prompt
+
+```
+Generar en 9:16 (vertical). Un video de time-lapse de una mujer japonesa envejeciendo desde que es una bebé de 0 años hasta convertirse en una abuela de 80 años. La velocidad del time-lapse aumenta gradualmente, haciendo que los cambios se aceleren a medida que envejece. Comenzando desde bebé, envejece pasando por las etapas de niña pequeña, niña, mujer joven, adulta, mujer de mediana edad y finalmente abuela, con la velocidad de envejecimiento aumentando claramente en la segunda mitad. Los rasgos faciales básicos, la forma del cuerpo y los contornos deben mantenerse estrictamente como la misma persona en todas las edades (Strict Character Lock). La composición muestra el cuerpo completo en equilibrio, con un fondo sencillo de degradado de blanco cálido a beige claro. La iluminación es una luz natural suave y delicada. Un time-lapse dinámico de 10 segundos desde los 0 años hasta la vejez, con una tasa de cambio que aumenta constantemente.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6841b5bda0e57d0f34c8908e174d9e47/thumbnails/thumbnail.jpg" width="600" alt="Video de time-lapse de envejecimiento acelerado">
+
+**[🎬 Ver video →](https://x.com/akiyoshisan/status/2060292025489175034)**
+
+**Autor:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Fuente:** [Link](https://x.com/akiyoshisan/status/2060292025489175034) | **Publicado:** May 29, 2026
+
+---
+### Toma larga cinematográfica de un acantilado junto al mar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video técnico enfocado en el control de la lente, el movimiento fluido de la cámara y transiciones naturales de profundidad de campo para una escena cinematográfica junto al mar.
+
+#### 📝 Prompt
+
+```
+Un hombre mayor se encuentra en un acantilado junto al mar, contemplando el océano. La toma larga avanza de manera fluida y constante, enfocándose gradualmente en el rostro del hombre, manteniendo el enfoque nítido en todo momento, con un proceso de avance suave y sin interrupciones, y una transición natural de la profundidad de campo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9eb1fc5613053f87ffb86ef5239c56c/thumbnails/thumbnail.jpg" width="600" alt="Toma larga cinematográfica de un acantilado junto al mar">
+
+**[🎬 Ver video →](https://x.com/cloudwiseAI2026/status/2060236649599291773)**
+
+**Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fuente:** [Link](https://x.com/cloudwiseAI2026/status/2060236649599291773) | **Publicado:** May 29, 2026
+
+---
+### POV de caballero medieval a caballo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado en primera persona para una secuencia cinematográfica medieval que muestra a un caballero cabalgando a través de una aldea, enfatizando una perspectiva visual humana realista y un movimiento natural.
+
+#### 📝 Prompt
+
+```
+Una secuencia en primera persona (POV a caballo) en una película de acción real de estilo medieval europeo, que muestra a un caballero viajando a caballo.
+La cámara está fijada permanentemente a la altura de los ojos del caballero, representando una perspectiva visual humana realista desde lo alto de un caballo. No hay cortes, ni cambios a tercera persona, ni puntos de vista aéreos o cenitales en ningún momento.
+El caballo sigue la ruta indicada en la imagen de referencia. El viaje comienza en la ubicación etiquetada como “Start” y termina en la ubicación etiquetada como “Stop Here”. El movimiento sigue el paso natural de un caballo, con un movimiento corporal natural que incluye un ligero balanceo de la cámara inducido por la cabeza, los hombros y las riendas.
+A lo largo del camino, el caballero saluda brevemente a los aldeanos mientras pasa junto a ellos (asentimientos simples o breves saludos con la mano). La aldea es un asentamiento medieval de acción real con edificios de madera, calles empedradas y habitantes naturalmente activos.
+Al llegar al destino final, el caballo reduce la velocidad gradualmente y se detiene. Luego, el caballero desmonta del caballo de forma natural. El metraje permanece como una sola toma continua hasta ese momento.
+
+Estilo visual (mejora fotorrealista):
+Calidad de película cinematográfica de acción real, fotorrealista
+Iluminación cinematográfica basada en luz natural
+Características de lente (poca profundidad de campo, ligera respiración de lente)
+Movimiento de cámara POV tipo cámara en mano pero estabilizada
+Desenfoque de movimiento realista
+Aspecto de película 4K RAW
+Graduación de color cinematográfica (sin apariencia excesiva de CGI)
+
+Prompt negativo (para mantener el realismo):
+Visuales estilo anime, CGI o motor de juego
+Vista de dron, vista aérea o perspectiva en tercera persona
+HUD, UI, subtítulos, marcadores, superposiciones de texto
+Líneas de ruta, líneas guía o visualizaciones de mapas
+Cámara lenta excesiva o cambios de velocidad antinaturales
+Sensación de flotación poco realista o movimiento que desafía la gravedad
+Cortes o transiciones de punto de vista
+Movimiento de cámara estilo CGI excesivamente suave
+Movimiento de caballo poco realista
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1c248860c378d088b3cdd08e9fd17d4/thumbnails/thumbnail.jpg" width="600" alt="POV de caballero medieval a caballo">
+
+**[🎬 Ver video →](https://x.com/tanabe_fragm/status/2060173342943117462)**
+
+**Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fuente:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Publicado:** May 29, 2026
+
+---
 ### Video de carta de tarot de Rusalka
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -636,6 +899,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-01T07:31:28.799Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-01T13:40:14.234Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **25** |
+| 📝 Total Prompts | **36** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-01** |
 
@@ -56,6 +56,269 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Chrome Marble Chain Reaction Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex text-to-video prompt for a continuous 10-second shot following a marble through a chain-reaction machine in a brutalist gallery.
+
+#### 📝 Prompt
+
+```
+Continuous smooth shot. 10 seconds. A chrome marble races through an impossibly complex chain-reaction machine inside a brutalist concrete gallery. Camera follows directly behind the marble in one seamless motion. The marble triggers magnetic levers, water turbines, suspended dominoes, gyroscopic rings, plasma arcs, and gravity-defying ramps. Every reaction feels physically accurate and causally connected. Soft white engineering diagram labels appear briefly beside mechanisms as they activate. Hyper-clean industrial lighting with dramatic reflections. Audio synced tightly to impacts and movement: metallic clicks, servo motors, magnetic pulses, marble impacts, rising orchestral tension.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="Chrome Marble Chain Reaction Video">
+
+**[🎬 Watch Video →](https://x.com/HBCoop_/status/2061095417886990555)**
+
+**Author:** [Heather Cooper](https://x.com/HBCoop_) | **Source:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **Published:** May 31, 2026
+
+---
+### Anthropomorphic Royal Cat Noir
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic and moody video prompt featuring a crowned cat in a withered cherry blossom garden under noir lighting.
+
+#### 📝 Prompt
+
+```
+A mysterious, anthropomorphic cat sits silently wearing a crown and dark shadowy robes in a moonlit garden filled with withered cherry blossoms under dramatic noir lighting with deep contrasts and moody shadows.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="Anthropomorphic Royal Cat Noir">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2061068717937860647)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **Published:** May 31, 2026
+
+---
+### Synchronized Sound and Motion Knocking
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A functional prompt designed to test and demonstrate the synchronization between audio sound effects and visual character actions.
+
+#### 📝 Prompt
+
+```
+The character raises their hand to perform a standard knocking action, with the knocking motion instantly and synchronously matching the corresponding knocking sound effect, ensuring that the action and sound effect are time-aligned and naturally coordinated in terms of fit.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="Synchronized Sound and Motion Knocking">
+
+**[🎬 Watch Video →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
+
+**Author:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Source:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **Published:** May 31, 2026
+
+---
+### Drone POV from GPS Coordinates
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt that uses precise GPS coordinates to generate aerial drone footage of a specific location, specifically Paris.
+
+#### 📝 Prompt
+
+```
+Generate drone view footage (without representing the drone) of this place 48°51′23.8″N 2°21′08.0″E
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="Drone POV from GPS Coordinates">
+
+**[🎬 Watch Video →](https://x.com/c_nemri/status/2061007691166667057)**
+
+**Author:** [Chouaieb Nemri](https://x.com/c_nemri) | **Source:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Published:** May 31, 2026
+
+---
+### Fantasy Storyboard Sheet
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An extremely detailed prompt for generating a multi-panel animation storyboard sheet featuring a queen and a white wolf companion.
+
+#### 📝 Prompt
+
+```
+Ultra-detailed fantasy storyboard sheet, "Young Queen & White Wolf", Studio Ghibli-inspired animated movie storyboard, premium watercolor storybook illustration, cinematic fantasy adventure, hand-painted concept art, elegant royal aesthetic, snowy kingdom atmosphere, professional animation pre-production board, highly detailed character storytelling, clean storyboard layout with 10 cinematic panels, soft winter lighting, magical fantasy world.
+MAIN CHARACTERS
+Young Queen A graceful young queen aged 18–20, long flowing chestnut-brown hair, elegant silver-blue crown, expressive emerald eyes, delicate facial features, luxurious royal winter gown with fur-lined cape, noble yet compassionate personality.
+White Wolf A majestic snow-white wolf with thick fluffy fur, piercing ice-blue eyes, noble posture, intelligent expression, loyal guardian companion.
+STORYBOARD PANELS
+Panel 01 — Frozen Kingdom Wide cinematic establishing shot of a magnificent snow-covered kingdom at dawn. The young queen stands on a castle balcony overlooking mountains and forests.
+Panel 02 — The Discovery The queen finds an injured white wolf pup resting beneath a snow-covered pine tree deep in the forest.
+Panel 03 — Healing and Trust Inside a warm royal chamber, the queen gently cares for the wolf while snow falls outside the windows.
+Panel 04 — Bond of Friendship The wolf has grown stronger. Queen and wolf walk together through snowy gardens beneath falling snowflakes.
+Panel 05 — Journey Begins The pair leave the kingdom and travel through vast frozen valleys and towering mountain paths.
+Panel 06 — Northern Lights The queen and wolf stand together beneath breathtaking green and purple auroras illuminating the night sky.
+Panel 07 — Ancient Ruins Exploring forgotten stone ruins buried beneath snow, illuminated by magical lanterns and glowing crystals.
+Panel 08 — Summit of Destiny Heroic wide shot atop a snowy mountain peak overlooking endless landscapes.
+Panel 09 — Return of Heroes The queen and wolf return to the kingdom as citizens celebrate their arrival.
+Panel 10 — Guardians Forever Golden sunset over the kingdom. Queen and wolf stand together on a castle balcony overlooking their realm.
+CHARACTER SHEET SECTION
+Include:
+Queen turnaround views (front, side, back)
+Queen facial expressions
+Crown detail studies
+Cape and dress design references
+White wolf turnaround views
+Wolf expressions
+Running and hero poses
+Size comparison chart
+Royal insignia designs
+Color palette swatches
+VISUAL STYLE
+Studio Ghibli × Disney Fantasy × Princess Mononoke × Frozen concept art, hand-painted watercolor textures, premium animation development artwork, cinematic composition, detailed environmental storytelling, emotional fantasy atmosphere, elegant royal aesthetics, masterpiece quality.
+COLOR PALETTE
+icy blue, silver white, royal navy, soft lavender, winter gray, pearl cream, golden sunlight
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ecd237990dd9577b035caed3021da3f7/thumbnails/thumbnail.jpg" width="600" alt="Fantasy Storyboard Sheet">
+
+**[🎬 Watch Video →](https://x.com/AIwithSynthia/status/2060914385179353444)**
+
+**Author:** [Synthia](https://x.com/AIwithSynthia) | **Source:** [Link](https://x.com/AIwithSynthia/status/2060914385179353444) | **Published:** May 31, 2026
+
+---
+### Arctic Seed Bank Shipment Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic text-to-video prompt describing a curator at an Arctic seed bank facility receiving rare plant samples from a conflict zone.
+
+#### 📝 Prompt
+
+```
+Create a cinematic text-to-video scene featuring an original non-copyrighted moment where a seed bank curator in an Arctic facility receives a shipment of seeds from a botanical garden in a conflict zone the last living samples of seventeen plant species, evacuated by a botanist
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b65e91184c9582b151a4ae7c657c2a6d/thumbnails/thumbnail.jpg" width="600" alt="Arctic Seed Bank Shipment Scene">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2060748226521879021)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2060748226521879021) | **Published:** May 30, 2026
+
+---
+### Static Image to Life Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Gemini Omni that takes a static image on a computer screen and animates a subject jumping out into the real world.
+
+#### 📝 Prompt
+
+```
+Start with the computer screen content exactly the same as in the image. Make the bird come to life, turning head, leaving the photo and jumping onto the person's hand.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fca7eaa900b5888e191083e4d46bddfa/thumbnails/thumbnail.jpg" width="600" alt="Static Image to Life Animation">
+
+**[🎬 Watch Video →](https://x.com/DiegoAlcubierre/status/2060526084681048166)**
+
+**Author:** [Diego Alcubierre](https://x.com/DiegoAlcubierre) | **Source:** [Link](https://x.com/DiegoAlcubierre/status/2060526084681048166) | **Published:** May 30, 2026
+
+---
+### Live Stream UI Video Overlay
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt for Gemini Omni to add a live stream chat interface overlay onto an existing video while keeping the original footage intact.
+
+#### 📝 Prompt
+
+```
+Do not change the video itself. Play people, equipment, movement, background, etc. completely as they are. Display something like a live stream UI comment section on the right side of the video, representing people watching the video in real-time and typing comments. The comments shall be written in Japanese.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b4aa882ab7db0578fc087334091431c/thumbnails/thumbnail.jpg" width="600" alt="Live Stream UI Video Overlay">
+
+**[🎬 Watch Video →](https://x.com/YaReYaRu30Life/status/2060343668188569858)**
+
+**Author:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Source:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Published:** May 29, 2026
+
+---
+### Accelerating Aging Time-lapse Video
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for creating a 10-second video of a Japanese woman aging from infancy to 80 years old with an accelerating time-lapse effect.
+
+#### 📝 Prompt
+
+```
+Generate in 9:16 (vertical). A time-lapse video of a Japanese woman aging from a 0-year-old baby to an 80-year-old grandmother. The speed of the time-lapse gradually increases, making the changes accelerate as she gets older. Starting from a baby, she ages through toddler, girl, young woman, adult, middle-aged woman, and finally to a grandmother, with the aging speed clearly becoming faster in the latter half. Basic facial features, body shape, and contours must be strictly maintained as the same person across all ages (Strict Character Lock). The composition shows the whole body in balance, with a simple, warm white to light beige gradient background. Lighting is soft, gentle natural light. A dynamic 10-second time-lapse from 0 years old to grandmother, with a steadily increasing rate of change.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6841b5bda0e57d0f34c8908e174d9e47/thumbnails/thumbnail.jpg" width="600" alt="Accelerating Aging Time-lapse Video">
+
+**[🎬 Watch Video →](https://x.com/akiyoshisan/status/2060292025489175034)**
+
+**Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2060292025489175034) | **Published:** May 29, 2026
+
+---
+### Cinematic Seaside Cliff Long Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical video prompt focusing on lens control, smooth camera movement, and natural depth of field transitions for a cinematic seaside scene.
+
+#### 📝 Prompt
+
+```
+An elderly man stands on a seaside cliff, gazing out at the sea. The long-shot smoothly and steadily advances, gradually focusing on the man's face, with the focus remaining sharp throughout, the advancement process being smooth and non-laggy, and the depth of field transitioning naturally.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9eb1fc5613053f87ffb86ef5239c56c/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Seaside Cliff Long Shot">
+
+**[🎬 Watch Video →](https://x.com/cloudwiseAI2026/status/2060236649599291773)**
+
+**Author:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Source:** [Link](https://x.com/cloudwiseAI2026/status/2060236649599291773) | **Published:** May 29, 2026
+
+---
+### Medieval Knight First-Person POV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a first-person perspective video of a knight on horseback traveling through a medieval village.
+
+#### 📝 Prompt
+
+```
+A first-person POV (horseback riding POV) sequence in a live-action medieval European-style film, showing a knight traveling on horseback.
+The camera is permanently fixed to the knight’s eye level, representing a realistic human visual perspective from atop a horse. There are no cuts, no switches to third-person, and no aerial or top-down viewpoints at any point.
+The horse follows the route indicated in the reference image. The journey begins at the location labeled “Start” and ends at the location labeled “Stop Here.” Movement follows a realistic walking pace of a horse, with natural body motion including subtle head, shoulder, and reins-induced camera sway.
+Along the way, the knight briefly greets villagers while passing them (simple nods or short hand waves). The village is a live-action medieval settlement with wooden buildings, stone-paved streets, and naturally active inhabitants.
+Upon reaching the final destination, the horse gradually slows down and stops. The knight then naturally dismounts the horse. The footage remains a single continuous shot until that moment.
+
+Visual Style (Photoreal Enhancement):
+Live-action cinematic film quality, photorealistic
+Natural light–based cinematic lighting
+Lens characteristics (shallow depth of field, slight lens breathing)
+Handheld-like but stabilized POV camera motion
+Realistic motion blur
+4K RAW film look
+Cinematic color grading (no excessive CGI appearance)
+
+Negative Prompt (for maintaining realism):
+Anime, CGI, or game engine-style visuals
+Drone view, aerial view, or third-person perspective
+HUD, UI, subtitles, markers, text overlays
+Route lines, guide lines, or map visualizations
+Excessive slow motion or unnatural speed changes
+Unrealistic floating sensation or gravity-defying motion
+Cuts or viewpoint transitions
+Overly smooth CGI-style camera movement
+Unrealistic horse movement
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1c248860c378d088b3cdd08e9fd17d4/thumbnails/thumbnail.jpg" width="600" alt="Medieval Knight First-Person POV">
+
+**[🎬 Watch Video →](https://x.com/tanabe_fragm/status/2060173342943117462)**
+
+**Author:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Published:** May 29, 2026
+
+---
 ### Rusalka Tarot Card Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -615,6 +878,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-01T07:31:25.855Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-01T13:40:09.530Z</sub>
 
 </div>

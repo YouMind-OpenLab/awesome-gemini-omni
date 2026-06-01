@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **25** |
+| 📝 Tổng số prompt | **36** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-01** |
 
@@ -56,6 +56,269 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Phản ứng dây chuyền viên bi chrome
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tinh vi cho cảnh quay video liền mạch, liên tục về một viên bi chrome di chuyển trong phòng trưng bày theo phong cách brutalist với các nhãn dán kỹ thuật và vật lý phức tạp.
+
+#### 📝 Prompt
+
+```
+Cảnh quay mượt mà liên tục. 10 giây. Một viên bi chrome chạy đua qua một cỗ máy phản ứng dây chuyền phức tạp đến khó tin bên trong một phòng trưng bày bê tông theo phong cách brutalist. Máy quay theo sát ngay phía sau viên bi trong một chuyển động liền mạch duy nhất. Viên bi kích hoạt các đòn bẩy từ tính, tuabin nước, quân cờ domino treo lơ lửng, vòng quay hồi chuyển, cung plasma và các đường dốc bất chấp trọng lực. Mọi phản ứng đều mang lại cảm giác chính xác về mặt vật lý và có sự kết nối nhân quả. Các nhãn dán sơ đồ kỹ thuật màu trắng mềm mại xuất hiện thoáng qua bên cạnh các cơ chế khi chúng được kích hoạt. Ánh sáng công nghiệp siêu sạch với các phản chiếu đầy ấn tượng. Âm thanh được đồng bộ hóa chặt chẽ với các va chạm và chuyển động: tiếng lách cách kim loại, động cơ servo, xung từ tính, tiếng va chạm của viên bi, âm nhạc dàn nhạc tăng dần sự kịch tính.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="Phản ứng dây chuyền viên bi chrome">
+
+**[🎬 Xem video →](https://x.com/HBCoop_/status/2061095417886990555)**
+
+**Tác giả:** [Heather Cooper](https://x.com/HBCoop_) | **Nguồn:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **Đã xuất bản:** May 31, 2026
+
+---
+### Mèo Noir Nhân hóa Đội vương miện
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) giàu hình ảnh về nhân vật mèo nhân hóa trong bối cảnh khu vườn mang phong cách noir đầy tâm trạng.
+
+#### 📝 Prompt
+
+```
+Một chú mèo nhân hóa đầy bí ẩn đang ngồi lặng lẽ, đội vương miện và khoác trên mình bộ áo choàng tối màu trong khu vườn dưới ánh trăng, nơi những cánh hoa anh đào héo úa được bao phủ bởi ánh sáng noir kịch tính với độ tương phản sâu và những bóng đổ đầy tâm trạng.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="Mèo Noir Nhân hóa Đội vương miện">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2061068717937860647)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **Đã xuất bản:** May 31, 2026
+
+---
+### Đồng bộ hóa hành động nghe nhìn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh kỹ thuật chi tiết để đồng bộ hóa các hành động của nhân vật với các hiệu ứng âm thanh cụ thể trong video.
+
+#### 📝 Prompt
+
+```
+Nhân vật giơ tay thực hiện hành động gõ cửa tiêu chuẩn, với chuyển động gõ khớp ngay lập tức và đồng bộ với hiệu ứng âm thanh gõ cửa tương ứng, đảm bảo rằng hành động và hiệu ứng âm thanh được căn chỉnh theo thời gian và phối hợp một cách tự nhiên.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="Đồng bộ hóa hành động nghe nhìn">
+
+**[🎬 Xem video →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
+
+**Tác giả:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Nguồn:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **Đã xuất bản:** May 31, 2026
+
+---
+### Góc nhìn flycam theo tọa độ GPS
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh sử dụng tọa độ vĩ độ và kinh độ chính xác để tạo ra thước phim góc nhìn flycam chân thực về Paris.
+
+#### 📝 Prompt
+
+```
+Tạo thước phim góc nhìn flycam (không hiển thị flycam) tại địa điểm này 48°51′23.8″N 2°21′08.0″E
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="Góc nhìn flycam theo tọa độ GPS">
+
+**[🎬 Xem video →](https://x.com/c_nemri/status/2061007691166667057)**
+
+**Tác giả:** [Chouaieb Nemri](https://x.com/c_nemri) | **Nguồn:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Đã xuất bản:** May 31, 2026
+
+---
+### Bảng Phân cảnh Câu chuyện Giả tưởng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh cực kỳ chi tiết để tạo bảng phân cảnh hoạt hình đa khung hình với nhân vật nữ hoàng và người bạn đồng hành là sói trắng.
+
+#### 📝 Prompt
+
+```
+Bảng phân cảnh giả tưởng siêu chi tiết, "Nữ hoàng trẻ & Sói trắng", bảng phân cảnh phim hoạt hình lấy cảm hứng từ Studio Ghibli, minh họa truyện tranh màu nước cao cấp, phiêu lưu giả tưởng điện ảnh, nghệ thuật ý tưởng vẽ tay, thẩm mỹ hoàng gia thanh lịch, bầu không khí vương quốc tuyết, bảng tiền kỳ hoạt hình chuyên nghiệp, kể chuyện nhân vật chi tiết cao, bố cục bảng phân cảnh sạch sẽ với 10 khung hình điện ảnh, ánh sáng mùa đông dịu nhẹ, thế giới giả tưởng kỳ ảo.
+NHÂN VẬT CHÍNH
+Nữ hoàng trẻ: Một nữ hoàng trẻ duyên dáng từ 18–20 tuổi, mái tóc nâu hạt dẻ dài bồng bềnh, vương miện bạc xanh thanh lịch, đôi mắt lục bảo biểu cảm, các đường nét khuôn mặt tinh tế, váy mùa đông hoàng gia sang trọng với áo choàng lót lông, tính cách cao quý nhưng giàu lòng trắc ẩn.
+Sói trắng: Một chú sói trắng như tuyết hùng vĩ với bộ lông dày mềm mại, đôi mắt xanh băng giá sắc sảo, tư thế cao quý, biểu cảm thông minh, người bạn đồng hành bảo vệ trung thành.
+CÁC KHUNG HÌNH PHÂN CẢNH
+Khung 01 — Vương quốc Băng giá: Cảnh quay toàn cảnh điện ảnh về một vương quốc phủ đầy tuyết tráng lệ vào lúc bình minh. Nữ hoàng trẻ đứng trên ban công lâu đài nhìn ra những ngọn núi và khu rừng.
+Khung 02 — Khám phá: Nữ hoàng tìm thấy một chú sói trắng con bị thương đang nằm nghỉ dưới gốc cây thông phủ đầy tuyết sâu trong rừng.
+Khung 03 — Chữa lành và Tin tưởng: Bên trong căn phòng hoàng gia ấm áp, nữ hoàng nhẹ nhàng chăm sóc chú sói trong khi tuyết rơi bên ngoài cửa sổ.
+Khung 04 — Mối liên kết tình bạn: Chú sói đã lớn mạnh hơn. Nữ hoàng và sói cùng nhau đi dạo qua những khu vườn đầy tuyết dưới những bông tuyết rơi.
+Khung 05 — Hành trình bắt đầu: Cả hai rời khỏi vương quốc và đi qua những thung lũng băng giá rộng lớn cùng những con đường núi cao chót vót.
+Khung 06 — Cực quang: Nữ hoàng và sói đứng cùng nhau dưới những dải cực quang xanh và tím ngoạn mục chiếu sáng bầu trời đêm.
+Khung 07 — Tàn tích cổ đại: Khám phá những tàn tích đá bị lãng quên vùi lấp dưới tuyết, được chiếu sáng bởi những chiếc đèn lồng ma thuật và tinh thể phát sáng.
+Khung 08 — Đỉnh cao Định mệnh: Cảnh quay toàn cảnh anh hùng trên đỉnh núi tuyết nhìn ra những cảnh quan vô tận.
+Khung 09 — Sự trở về của những người hùng: Nữ hoàng và sói trở về vương quốc khi người dân ăn mừng sự xuất hiện của họ.
+Khung 10 — Những người bảo vệ mãi mãi: Hoàng hôn vàng trên vương quốc. Nữ hoàng và sói đứng cùng nhau trên ban công lâu đài nhìn ra vương quốc của họ.
+PHẦN BẢNG NHÂN VẬT
+Bao gồm:
+Các góc xoay của Nữ hoàng (trước, bên, sau)
+Biểu cảm khuôn mặt của Nữ hoàng
+Nghiên cứu chi tiết vương miện
+Tham khảo thiết kế áo choàng và váy
+Các góc xoay của sói trắng
+Biểu cảm của sói
+Các tư thế chạy và tư thế anh hùng
+Biểu đồ so sánh kích thước
+Thiết kế phù hiệu hoàng gia
+Bảng mẫu màu sắc
+PHONG CÁCH HÌNH ẢNH
+Studio Ghibli × Disney Fantasy × Princess Mononoke × Frozen concept art, kết cấu màu nước vẽ tay, tác phẩm phát triển hoạt hình cao cấp, bố cục điện ảnh, kể chuyện môi trường chi tiết, bầu không khí giả tưởng đầy cảm xúc, thẩm mỹ hoàng gia thanh lịch, chất lượng kiệt tác.
+BẢNG MÀU
+xanh băng, trắng bạc, xanh hải quân, tím oải hương nhạt, xám mùa đông, kem ngọc trai, ánh nắng vàng
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ecd237990dd9577b035caed3021da3f7/thumbnails/thumbnail.jpg" width="600" alt="Bảng Phân cảnh Câu chuyện Giả tưởng">
+
+**[🎬 Xem video →](https://x.com/AIwithSynthia/status/2060914385179353444)**
+
+**Tác giả:** [Synthia](https://x.com/AIwithSynthia) | **Nguồn:** [Link](https://x.com/AIwithSynthia/status/2060914385179353444) | **Đã xuất bản:** May 31, 2026
+
+---
+### Cảnh vận chuyển hạt giống tại Ngân hàng Hạt giống Bắc Cực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh text-to-video mang tính điện ảnh mô tả một người quản lý tại cơ sở ngân hàng hạt giống ở Bắc Cực đang tiếp nhận các mẫu thực vật quý hiếm từ một vùng chiến sự.
+
+#### 📝 Prompt
+
+```
+Tạo một cảnh quay text-to-video mang tính điện ảnh, thể hiện một khoảnh khắc nguyên bản không vi phạm bản quyền, trong đó một người quản lý ngân hàng hạt giống tại cơ sở ở Bắc Cực tiếp nhận lô hàng hạt giống từ một vườn bách thảo ở vùng chiến sự — những mẫu vật sống cuối cùng của mười bảy loài thực vật, được sơ tán bởi một nhà thực vật học
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b65e91184c9582b151a4ae7c657c2a6d/thumbnails/thumbnail.jpg" width="600" alt="Cảnh vận chuyển hạt giống tại Ngân hàng Hạt giống Bắc Cực">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2060748226521879021)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2060748226521879021) | **Đã xuất bản:** May 30, 2026
+
+---
+### Chuyển đổi ảnh tĩnh thành hoạt ảnh sống động
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh dành cho Gemini Omni giúp biến hình ảnh tĩnh trên màn hình máy tính thành hoạt ảnh một chủ thể nhảy ra ngoài thế giới thực.
+
+#### 📝 Prompt
+
+```
+Bắt đầu với nội dung trên màn hình máy tính giống hệt như trong ảnh. Làm cho chú chim trở nên sống động, quay đầu, rời khỏi bức ảnh và nhảy lên tay của người đó.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fca7eaa900b5888e191083e4d46bddfa/thumbnails/thumbnail.jpg" width="600" alt="Chuyển đổi ảnh tĩnh thành hoạt ảnh sống động">
+
+**[🎬 Xem video →](https://x.com/DiegoAlcubierre/status/2060526084681048166)**
+
+**Tác giả:** [Diego Alcubierre](https://x.com/DiegoAlcubierre) | **Nguồn:** [Link](https://x.com/DiegoAlcubierre/status/2060526084681048166) | **Đã xuất bản:** May 30, 2026
+
+---
+### Lớp phủ giao diện video livestream
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh dành cho Gemini Omni để thêm lớp phủ giao diện trò chuyện livestream lên video hiện có mà vẫn giữ nguyên cảnh quay gốc.
+
+#### 📝 Prompt
+
+```
+Không thay đổi video gốc. Giữ nguyên hoàn toàn hình ảnh con người, thiết bị, chuyển động, bối cảnh, v.v. Hiển thị một phần bình luận giao diện livestream ở phía bên phải video, thể hiện người xem đang theo dõi video trong thời gian thực và nhập bình luận. Các bình luận phải được viết bằng tiếng Nhật.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b4aa882ab7db0578fc087334091431c/thumbnails/thumbnail.jpg" width="600" alt="Lớp phủ giao diện video livestream">
+
+**[🎬 Xem video →](https://x.com/YaReYaRu30Life/status/2060343668188569858)**
+
+**Tác giả:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Nguồn:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Đã xuất bản:** May 29, 2026
+
+---
+### Tăng tốc video tua nhanh quá trình lão hóa
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh chi tiết để tạo video dài 10 giây về một phụ nữ Nhật Bản lão hóa từ lúc sơ sinh đến 80 tuổi với hiệu ứng tua nhanh tăng dần.
+
+#### 📝 Prompt
+
+```
+Tạo ở tỷ lệ 9:16 (dọc). Một video tua nhanh (time-lapse) về quá trình lão hóa của một phụ nữ Nhật Bản từ lúc là em bé 0 tuổi đến khi trở thành bà cụ 80 tuổi. Tốc độ tua nhanh tăng dần, khiến những thay đổi trở nên nhanh hơn khi cô ấy lớn tuổi. Bắt đầu từ một em bé, cô ấy trải qua các giai đoạn từ trẻ mới biết đi, thiếu nữ, phụ nữ trẻ, người trưởng thành, phụ nữ trung niên và cuối cùng là bà cụ, với tốc độ lão hóa rõ ràng nhanh hơn ở nửa sau video. Các đặc điểm khuôn mặt cơ bản, hình dáng cơ thể và đường nét phải được duy trì nghiêm ngặt là cùng một người ở mọi độ tuổi (Khóa nhân vật nghiêm ngặt). Bố cục hiển thị toàn thân cân đối, với nền chuyển màu từ trắng ấm sang be nhạt đơn giản. Ánh sáng là ánh sáng tự nhiên dịu nhẹ. Một video tua nhanh 10 giây sống động từ 0 tuổi đến khi trở thành bà cụ, với tốc độ thay đổi tăng dần đều.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6841b5bda0e57d0f34c8908e174d9e47/thumbnails/thumbnail.jpg" width="600" alt="Tăng tốc video tua nhanh quá trình lão hóa">
+
+**[🎬 Xem video →](https://x.com/akiyoshisan/status/2060292025489175034)**
+
+**Tác giả:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Nguồn:** [Link](https://x.com/akiyoshisan/status/2060292025489175034) | **Đã xuất bản:** May 29, 2026
+
+---
+### Cảnh quay toàn cảnh vách đá ven biển đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video kỹ thuật tập trung vào việc kiểm soát ống kính, chuyển động máy quay mượt mà và hiệu ứng chuyển đổi độ sâu trường ảnh tự nhiên cho cảnh quay vách đá ven biển đậm chất điện ảnh.
+
+#### 📝 Prompt
+
+```
+Một người đàn ông lớn tuổi đứng trên vách đá ven biển, nhìn ra phía đại dương. Cảnh quay toàn cảnh tiến dần một cách mượt mà và ổn định, dần dần lấy nét vào khuôn mặt của người đàn ông, độ sắc nét được duy trì xuyên suốt, quá trình chuyển động mượt mà không bị giật lag, và độ sâu trường ảnh chuyển đổi một cách tự nhiên.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9eb1fc5613053f87ffb86ef5239c56c/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay toàn cảnh vách đá ven biển đậm chất điện ảnh">
+
+**[🎬 Xem video →](https://x.com/cloudwiseAI2026/status/2060236649599291773)**
+
+**Tác giả:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Nguồn:** [Link](https://x.com/cloudwiseAI2026/status/2060236649599291773) | **Đã xuất bản:** May 29, 2026
+
+---
+### Góc nhìn thứ nhất của hiệp sĩ thời trung cổ trên lưng ngựa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chi tiết về góc nhìn thứ nhất cho phân cảnh điện ảnh thời trung cổ, mô tả một hiệp sĩ đang cưỡi ngựa đi qua ngôi làng, nhấn mạnh vào góc nhìn thực tế của con người và chuyển động tự nhiên.
+
+#### 📝 Prompt
+
+```
+Một phân cảnh góc nhìn thứ nhất (POV cưỡi ngựa) trong bộ phim người đóng phong cách châu Âu thời trung cổ, mô tả một hiệp sĩ đang di chuyển trên lưng ngựa.
+Camera được cố định vĩnh viễn ở tầm mắt của hiệp sĩ, thể hiện góc nhìn thực tế của con người từ trên lưng ngựa. Không có bất kỳ đoạn cắt cảnh, chuyển đổi sang góc nhìn thứ ba, hay góc quay từ trên cao nào xuất hiện trong suốt phân cảnh.
+Ngựa di chuyển theo lộ trình được chỉ định trong hình ảnh tham chiếu. Hành trình bắt đầu tại vị trí được đánh dấu “Start” và kết thúc tại vị trí được đánh dấu “Stop Here”. Chuyển động tuân theo tốc độ đi bộ thực tế của ngựa, với các chuyển động cơ thể tự nhiên bao gồm độ rung lắc nhẹ của camera do đầu, vai và dây cương tạo ra.
+Trên đường đi, hiệp sĩ chào hỏi ngắn gọn những người dân làng khi đi ngang qua họ (gật đầu đơn giản hoặc vẫy tay nhẹ). Ngôi làng là một khu định cư thời trung cổ với các tòa nhà bằng gỗ, đường lát đá và cư dân sinh hoạt tự nhiên.
+Khi đến đích cuối cùng, con ngựa dần chậm lại và dừng hẳn. Sau đó, hiệp sĩ xuống ngựa một cách tự nhiên. Đoạn phim vẫn là một cảnh quay liên tục duy nhất cho đến thời điểm đó.
+
+Phong cách hình ảnh (Tăng cường độ chân thực):
+Chất lượng phim điện ảnh người đóng, chân thực như ảnh chụp
+Ánh sáng điện ảnh dựa trên ánh sáng tự nhiên
+Đặc tính ống kính (độ sâu trường ảnh nông, hiệu ứng thở ống kính nhẹ)
+Chuyển động camera POV kiểu cầm tay nhưng được ổn định
+Nhòe chuyển động (motion blur) thực tế
+Diện mạo phim 4K RAW
+Chỉnh màu điện ảnh (không có vẻ ngoài CGI quá đà)
+
+Câu lệnh phủ định (để duy trì tính chân thực):
+Hình ảnh phong cách anime, CGI hoặc công cụ trò chơi
+Góc quay từ trên cao (drone), góc nhìn từ trên không hoặc góc nhìn thứ ba
+HUD, UI, phụ đề, điểm đánh dấu, văn bản đè lên màn hình
+Đường lộ trình, đường hướng dẫn hoặc hình ảnh bản đồ
+Chuyển động chậm quá mức hoặc thay đổi tốc độ không tự nhiên
+Cảm giác lơ lửng không thực tế hoặc chuyển động bất chấp trọng lực
+Các đoạn cắt hoặc chuyển đổi góc nhìn
+Chuyển động camera kiểu CGI quá mượt mà
+Chuyển động của ngựa không thực tế
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1c248860c378d088b3cdd08e9fd17d4/thumbnails/thumbnail.jpg" width="600" alt="Góc nhìn thứ nhất của hiệp sĩ thời trung cổ trên lưng ngựa">
+
+**[🎬 Xem video →](https://x.com/tanabe_fragm/status/2060173342943117462)**
+
+**Tác giả:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Đã xuất bản:** May 29, 2026
+
+---
 ### Video thẻ bài Tarot Rusalka
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -636,6 +899,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-01T07:31:28.127Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-01T13:40:13.116Z</sub>
 
 </div>
