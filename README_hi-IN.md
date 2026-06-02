@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **36** |
+| 📝 कुल प्रॉम्पट्स | **37** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-06-02** |
 
@@ -56,6 +56,26 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### अति यथार्थवादी फ़िरोज़ी पैंथर गिरगिट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक काल्पनिक फ़िरोज़ी पैंथर गिरगिट का उच्च-गुणवत्ता वाला वीडियो बनाने के लिए एक वर्णनात्मक प्रॉम्प्ट, जो देखने में बिल्कुल असली लगता है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक फ़िरोज़ी पैंथर गिरगिट जो अस्तित्व में नहीं है
+फिर भी किसी तरह यह पूरी तरह से वास्तविक लगता है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="अति यथार्थवादी फ़िरोज़ी पैंथर गिरगिट">
+
+**[🎬 वीडियो देखें →](https://x.com/ai_with_shah/status/2061403989623624181)**
+
+**लेखक:** [Shah](https://x.com/ai_with_shah) | **स्रोत:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **प्रकाशित:** Jun 1, 2026
+
+---
 ### क्रोम मार्बल चेन रिएक्शन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -899,6 +919,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-02T08:29:28.069Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-02T16:22:46.195Z</sub>
 
 </div>

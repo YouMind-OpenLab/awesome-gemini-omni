@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **36** |
+| 📝 提示詞總數 | **37** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-02** |
 
@@ -56,6 +56,26 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 超寫實綠松石色豹紋變色龍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用於生成一隻虛構的綠松石色豹紋變色龍的高畫質影片描述提示詞，呈現出極其逼真的視覺效果。
+
+#### 📝 提示詞
+
+```
+一隻不存在的綠松石色豹紋變色龍
+卻在某種程度上顯得如此真實
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="超寫實綠松石色豹紋變色龍">
+
+**[🎬 觀看視頻 →](https://x.com/ai_with_shah/status/2061403989623624181)**
+
+**作者:** [Shah](https://x.com/ai_with_shah) | **來源:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **發布時間:** Jun 1, 2026
+
+---
 ### Chrome Marble Chain Reaction
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -899,6 +919,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-02T08:29:25.692Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-02T16:22:44.948Z</sub>
 
 </div>

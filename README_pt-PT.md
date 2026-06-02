@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **36** |
+| 📝 Total de prompts | **37** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-06-02** |
 
@@ -56,6 +56,26 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Camaleão-pantera turquesa hiper-realista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt descritivo para gerar um vídeo de alta fidelidade de um camaleão-pantera turquesa fictício que parece incrivelmente realista.
+
+#### 📝 Prompt
+
+```
+Um camaleão-pantera turquesa que não existe
+Mas que, de alguma forma, parece completamente real
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="Camaleão-pantera turquesa hiper-realista">
+
+**[🎬 Assistir vídeo →](https://x.com/ai_with_shah/status/2061403989623624181)**
+
+**Autor:** [Shah](https://x.com/ai_with_shah) | **Fonte:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Publicado:** Jun 1, 2026
+
+---
 ### Reação em Cadeia de Esfera Cromada
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -899,6 +919,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-02T08:29:30.137Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-02T16:22:47.950Z</sub>
 
 </div>

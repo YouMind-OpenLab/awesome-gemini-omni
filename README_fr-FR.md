@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **36** |
+| 📝 Total des prompts | **37** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-02** |
 
@@ -56,6 +56,26 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Caméléon panthère turquoise hyperréaliste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt descriptif pour générer une vidéo haute fidélité d'un caméléon panthère turquoise fictif à l'aspect saisissant de réalisme.
+
+#### 📝 Prompt
+
+```
+Un caméléon panthère turquoise qui n'existe pas
+Et pourtant, il semble tout à fait réel
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="Caméléon panthère turquoise hyperréaliste">
+
+**[🎬 Voir la vidéo →](https://x.com/ai_with_shah/status/2061403989623624181)**
+
+**Auteur:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Publié:** Jun 1, 2026
+
+---
 ### Réaction en chaîne d'une bille chromée
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -899,6 +919,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-02T08:29:29.353Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-02T16:22:47.247Z</sub>
 
 </div>

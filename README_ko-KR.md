@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **36** |
+| 📝 총 프롬프트 수 | **37** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-02** |
 
@@ -56,6 +56,26 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 초현실적인 터키석 색상의 팬서 카멜레온
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 놀라울 정도로 실감 나는 가상의 터키석 색상 팬서 카멜레온의 고화질 영상을 생성하기 위한 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+실제로는 존재하지 않는 터키석 색상의 팬서 카멜레온
+그럼에도 불구하고 완전히 실물처럼 느껴집니다
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 터키석 색상의 팬서 카멜레온">
+
+**[🎬 비디오 보기 →](https://x.com/ai_with_shah/status/2061403989623624181)**
+
+**작성자:** [Shah](https://x.com/ai_with_shah) | **출처:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **게시일:** Jun 1, 2026
+
+---
 ### 크롬 구슬 연쇄 반응
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -899,6 +919,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-02T08:29:26.213Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-02T16:22:45.462Z</sub>
 
 </div>

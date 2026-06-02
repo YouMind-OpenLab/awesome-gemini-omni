@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **36** |
+| 📝 Tổng số prompt | **37** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-02** |
 
@@ -56,6 +56,26 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Tắc kè hoa Panther màu ngọc lam siêu thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả để tạo video độ phân giải cao về một chú tắc kè hoa Panther màu ngọc lam hư cấu trông sống động đến kinh ngạc.
+
+#### 📝 Prompt
+
+```
+Một chú tắc kè hoa Panther màu ngọc lam không có thật
+Nhưng bằng cách nào đó lại mang cảm giác hoàn toàn chân thực
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="Tắc kè hoa Panther màu ngọc lam siêu thực">
+
+**[🎬 Xem video →](https://x.com/ai_with_shah/status/2061403989623624181)**
+
+**Tác giả:** [Shah](https://x.com/ai_with_shah) | **Nguồn:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Đã xuất bản:** Jun 1, 2026
+
+---
 ### Phản ứng dây chuyền viên bi chrome
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -899,6 +919,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-02T08:29:27.768Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-02T16:22:45.946Z</sub>
 
 </div>

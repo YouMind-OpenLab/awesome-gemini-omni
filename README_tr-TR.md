@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **36** |
+| 📝 Toplam İstem | **37** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-02** |
 
@@ -56,6 +56,26 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Hiper Gerçekçi Turkuaz Panter Bukalemun
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Son derece gerçekçi görünen, hayali bir turkuaz panter bukalemunun yüksek kaliteli videosunu oluşturmak için açıklayıcı bir komut.
+
+#### 📝 İstem
+
+```
+Var olmayan bir turkuaz panter bukalemun
+Ama yine de tamamen gerçek hissettiriyor
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="Hiper Gerçekçi Turkuaz Panter Bukalemun">
+
+**[🎬 Videoyu izle →](https://x.com/ai_with_shah/status/2061403989623624181)**
+
+**Yazar:** [Shah](https://x.com/ai_with_shah) | **Kaynak:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Yayınlandı:** Jun 1, 2026
+
+---
 ### Krom Bilye Zincirleme Reaksiyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -899,6 +919,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-02T08:29:30.392Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-02T16:22:48.222Z</sub>
 
 </div>

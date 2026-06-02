@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **36** |
+| 📝 Total Prompts | **37** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-02** |
 
@@ -56,6 +56,26 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Hyper Realistic Turquoise Panther Chameleon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for generating a high-fidelity video of a fictional turquoise panther chameleon that appears strikingly lifelike.
+
+#### 📝 Prompt
+
+```
+A turquoise panther chameleon that doesn't exist
+Yet somehow it feels completely real
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="Hyper Realistic Turquoise Panther Chameleon">
+
+**[🎬 Watch Video →](https://x.com/ai_with_shah/status/2061403989623624181)**
+
+**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Published:** Jun 1, 2026
+
+---
 ### Chrome Marble Chain Reaction Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -878,6 +898,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-02T08:29:25.027Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-02T16:22:44.285Z</sub>
 
 </div>

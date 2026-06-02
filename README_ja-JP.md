@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **36** |
+| 📝 プロンプト総数 | **37** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-06-02** |
 
@@ -56,6 +56,26 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 超リアルなターコイズブルーのパンサーカメレオン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 実在しないターコイズブルーのパンサーカメレオンを、驚くほどリアルに再現した高精細な動画を生成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+実在しないターコイズブルーのパンサーカメレオン
+それなのに、なぜか本物のように感じられる
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="超リアルなターコイズブルーのパンサーカメレオン">
+
+**[🎬 動画を見る →](https://x.com/ai_with_shah/status/2061403989623624181)**
+
+**作者:** [Shah](https://x.com/ai_with_shah) | **ソース:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **公開日:** Jun 1, 2026
+
+---
 ### クロームマーブルの連鎖反応
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -899,6 +919,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-02T08:29:25.954Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-02T16:22:45.210Z</sub>
 
 </div>

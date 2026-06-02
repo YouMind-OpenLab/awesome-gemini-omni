@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **36** |
+| 📝 Gesamtanzahl Prompts | **37** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-02** |
 
@@ -56,6 +56,26 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Hyperrealistisches türkisfarbenes Pantherchamäleon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein beschreibender Prompt zur Erstellung eines hochauflösenden Videos eines fiktiven türkisfarbenen Pantherchamäleons, das täuschend echt wirkt.
+
+#### 📝 Prompt
+
+```
+Ein türkisfarbenes Pantherchamäleon, das es gar nicht gibt
+Und das sich doch vollkommen echt anfühlt
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="Hyperrealistisches türkisfarbenes Pantherchamäleon">
+
+**[🎬 Video ansehen →](https://x.com/ai_with_shah/status/2061403989623624181)**
+
+**Autor:** [Shah](https://x.com/ai_with_shah) | **Quelle:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Veröffentlicht:** Jun 1, 2026
+
+---
 ### Chrom-Murmel-Kettenreaktion
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -899,6 +919,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-02T08:29:29.057Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-02T16:22:46.970Z</sub>
 
 </div>
