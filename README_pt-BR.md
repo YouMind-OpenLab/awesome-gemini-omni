@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **37** |
+| 📝 Total de prompts | **40** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-06-03** |
 
@@ -56,6 +56,63 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Cavaleiro Medieval em um Campo de Papoulas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico detalhado para o Gemini Omni, apresentando um cavaleiro descansando em um vibrante campo de papoulas com iluminação natural dramática.
+
+#### 📝 Prompt
+
+```
+Um cavaleiro medieval exausto, vestindo uma armadura de placas brilhante completa, descansa pacificamente sob um grande carvalho antigo em um vasto e infinito campo de papoulas vermelhas vibrantes que balançam suavemente com a brisa. O cavaleiro está deitado na grama macia, ainda com o elmo, olhos fechados em um descanso sereno, cercado por flores vermelhas brilhantes. A câmera começa com um plano aberto, depois se aproxima lentamente com um movimento suave em direção ao cavaleiro, mantendo uma profundidade de campo rasa que mantém o foco nítido no cavaleiro e nas papoulas próximas, enquanto desfoca suavemente o campo distante e o céu. Acima, nuvens escuras e dramáticas de tempestade preenchem o céu, mas se abrem de forma impressionante para deixar raios de luz solar dourada e suave atravessarem, criando belos feixes de luz (god rays) e uma iluminação natural dinâmica com sombras suaves. A atmosfera é pacífica, porém épica, evocando a calma após uma batalha difícil. Estilo de fantasia cinematográfica ultrarrealista, texturas hiperdetalhadas na armadura, flores e grama, clima épico e pictórico, dispersão de luz natural, movimento sutil do vento nas flores e nas folhas das árvores.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="Cavaleiro Medieval em um Campo de Papoulas">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2061828182207336608)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Publicado:** Jun 2, 2026
+
+---
+### Vídeo de Transformação de Personagem Fluida
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt detalhado para o Gemini Omni que cria uma transição de vídeo suave, onde um homem sentado em um banco se transforma em outra pessoa com um estalar de dedos, mantendo um ângulo de câmera fixo.
+
+#### 📝 Prompt
+
+```
+Use a @Image 1 como cena inicial. O ângulo da câmera é totalmente fixo. Inicialmente, um casal sentado em um banco está se divertindo. O homem vestindo uma camisa jeans azul sentado no banco estala o polegar e o dedo médio e, de repente, se transforma na @Image 2. Após a transformação, a mulher olha para o homem com surpresa. Faça um vídeo único e contínuo, sem cortes. Não inclua vozes ou música de fundo, apenas sons do ambiente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="Vídeo de Transformação de Personagem Fluida">
+
+**[🎬 Assistir vídeo →](https://x.com/Immersion_cy/status/2061803769650987365)**
+
+**Autor:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Fonte:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Publicado:** Jun 2, 2026
+
+---
+### Simulação de direção de táxi em primeira pessoa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para gerar uma visão em primeira pessoa de um táxi dirigindo ao longo de uma rota específica fornecida em uma captura de tela de referência.
+
+#### 📝 Prompt
+
+```
+crie uma visão em primeira pessoa de alguém dirigindo um táxi ao longo da rota na imagem de referência
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="Simulação de direção de táxi em primeira pessoa">
+
+**[🎬 Assistir vídeo →](https://x.com/c_nemri/status/2061689402741469191)**
+
+**Autor:** [Chouaieb Nemri](https://x.com/c_nemri) | **Fonte:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Publicado:** Jun 2, 2026
+
+---
 ### Camaleão-pantera turquesa hiper-realista
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -919,6 +976,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-03T09:01:50.429Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-03T16:47:15.667Z</sub>
 
 </div>

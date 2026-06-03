@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **37** |
+| 📝 Total des prompts | **40** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-03** |
 
@@ -56,6 +56,63 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Chevalier médiéval dans un champ de coquelicots
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématique détaillé pour Gemini Omni mettant en scène un chevalier au repos dans un champ de coquelicots vibrant avec un éclairage naturel dramatique.
+
+#### 📝 Prompt
+
+```
+Un chevalier médiéval épuisé, vêtu d'une armure de plaques étincelante, se repose paisiblement sous un grand chêne ancien au milieu d'un vaste champ infini de coquelicots rouges éclatants qui se balancent doucement dans la brise. Le chevalier est allongé sur l'herbe tendre, son casque toujours sur la tête, les yeux fermés dans un repos serein, entouré de fleurs rouge vif. La caméra commence par un plan large, puis s'approche lentement du chevalier avec un mouvement fluide, en maintenant une faible profondeur de champ qui garde une mise au point nette sur le chevalier et les coquelicots proches, tout en floutant doucement le champ lointain et le ciel. Au-dessus, des nuages sombres et orageux remplissent le ciel mais s'écartent de façon spectaculaire pour laisser passer des rayons de soleil dorés, créant de magnifiques rayons de lumière et un éclairage naturel dynamique avec des ombres douces. L'atmosphère est paisible mais épique, évoquant le calme après une bataille acharnée. Style fantastique cinématique ultra-réaliste, textures hyper-détaillées sur l'armure, les fleurs et l'herbe, ambiance épique et picturale, diffusion de lumière naturelle, mouvement subtil du vent dans les fleurs et les feuilles des arbres.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="Chevalier médiéval dans un champ de coquelicots">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2061828182207336608)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Publié:** Jun 2, 2026
+
+---
+### Vidéo de transformation de personnage fluide
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt détaillé pour Gemini Omni permettant de créer une transition vidéo fluide où un homme assis sur un banc se transforme en une autre personne d'un claquement de doigts, tout en conservant un angle de caméra fixe.
+
+#### 📝 Prompt
+
+```
+Utilisez @Image 1 comme scène de départ. L'angle de la caméra est totalement fixe. Au début, un couple assis sur un banc s'amuse. L'homme portant une chemise en jean bleu assis sur le banc claque des doigts et se transforme soudainement en @Image 2. Après la transformation, la femme regarde l'homme avec surprise. Réalisez une vidéo fluide et continue sans aucune coupure. N'incluez ni voix parlée ni musique de fond, uniquement des sons d'ambiance.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="Vidéo de transformation de personnage fluide">
+
+**[🎬 Voir la vidéo →](https://x.com/Immersion_cy/status/2061803769650987365)**
+
+**Auteur:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Source:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Publié:** Jun 2, 2026
+
+---
+### Simulation de conduite de taxi en vue à la première personne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour générer une vue à la première personne d'un taxi circulant le long d'un itinéraire spécifique fourni dans une capture d'écran de référence.
+
+#### 📝 Prompt
+
+```
+créez une vue à la première personne de quelqu'un conduisant un taxi le long de l'itinéraire présent dans l'image de référence
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="Simulation de conduite de taxi en vue à la première personne">
+
+**[🎬 Voir la vidéo →](https://x.com/c_nemri/status/2061689402741469191)**
+
+**Auteur:** [Chouaieb Nemri](https://x.com/c_nemri) | **Source:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Publié:** Jun 2, 2026
+
+---
 ### Caméléon panthère turquoise hyperréaliste
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -919,6 +976,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-03T09:01:49.795Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-03T16:47:14.902Z</sub>
 
 </div>

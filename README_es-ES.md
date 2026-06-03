@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **37** |
+| 📝 Total de prompts | **40** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-06-03** |
 
@@ -56,6 +56,63 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Caballero medieval en un campo de amapolas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico detallado para Gemini Omni que presenta a un caballero descansando en un vibrante campo de amapolas con una iluminación natural dramática.
+
+#### 📝 Prompt
+
+```
+Un caballero medieval cansado con una brillante armadura de placas completa descansa pacíficamente bajo un gran roble antiguo en un vasto e infinito campo de vibrantes amapolas rojas que se mecen suavemente con la brisa. El caballero yace sobre la hierba suave, con el casco puesto y los ojos cerrados en un descanso sereno, rodeado de flores de color rojo brillante. La cámara comienza con un plano general, luego se acerca lentamente con un suave movimiento hacia el caballero, manteniendo una profundidad de campo reducida que conserva un enfoque nítido en el caballero y las amapolas cercanas, mientras desenfoca suavemente el campo y el cielo distantes. Arriba, dramáticas nubes oscuras de tormenta llenan el cielo pero se abren de forma espectacular para dejar que los suaves rayos de luz solar dorada se filtren, proyectando hermosos rayos de luz y una iluminación natural dinámica con sombras suaves. La atmósfera es pacífica pero épica, evocando la calma después de una dura batalla. Estilo de fantasía cinematográfica ultrarrealista, texturas hiperdetalladas en la armadura, las flores y la hierba, ambiente épico pictórico, dispersión de luz natural, movimiento sutil del viento en las flores y las hojas de los árboles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="Caballero medieval en un campo de amapolas">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2061828182207336608)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Publicado:** Jun 2, 2026
+
+---
+### Video de transformación de personaje sin cortes
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt detallado para Gemini Omni que crea una transición de video fluida donde un hombre sentado en un banco se transforma en otra persona al chasquear los dedos, manteniendo un ángulo de cámara fijo.
+
+#### 📝 Prompt
+
+```
+Usa @Image 1 como escena inicial. El ángulo de cámara debe permanecer completamente fijo. Al principio, una pareja sentada en un banco se está divirtiendo. El hombre que lleva una camisa de mezclilla azul sentado en el banco chasquea los dedos y de repente se transforma en @Image 2. Después de la transformación, la mujer mira al hombre con sorpresa. Crea un video único y fluido sin cortes. No incluyas voces ni música de fondo, solo sonidos ambientales.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="Video de transformación de personaje sin cortes">
+
+**[🎬 Ver video →](https://x.com/Immersion_cy/status/2061803769650987365)**
+
+**Autor:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Fuente:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Publicado:** Jun 2, 2026
+
+---
+### Simulación de conducción de taxi en primera persona
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para generar una vista en primera persona de un taxi conduciendo a lo largo de una ruta específica proporcionada en una captura de pantalla de referencia.
+
+#### 📝 Prompt
+
+```
+crea una vista en primera persona de alguien conduciendo un taxi a lo largo de la ruta en la imagen de referencia
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="Simulación de conducción de taxi en primera persona">
+
+**[🎬 Ver video →](https://x.com/c_nemri/status/2061689402741469191)**
+
+**Autor:** [Chouaieb Nemri](https://x.com/c_nemri) | **Fuente:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Publicado:** Jun 2, 2026
+
+---
 ### Camaleón pantera turquesa hiperrealista
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -919,6 +976,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-03T09:01:48.773Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-03T16:47:14.114Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **37** |
+| 📝 Gesamtanzahl Prompts | **40** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-03** |
 
@@ -56,6 +56,63 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Mittelalterlicher Ritter in einem Mohnfeld
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter, kinoreifer Video-Prompt für Gemini Omni, der einen ruhenden Ritter in einem leuchtenden Mohnfeld bei dramatischem natürlichem Licht zeigt.
+
+#### 📝 Prompt
+
+```
+Ein erschöpfter mittelalterlicher Ritter in glänzender Plattenrüstung ruht friedlich unter einer großen, alten Eiche in einem riesigen, endlosen Feld aus leuchtend roten Mohnblumen, die sanft im Wind wiegen. Der Ritter liegt auf dem weichen Gras, den Helm noch auf, die Augen in gelassener Ruhe geschlossen, umgeben von leuchtend roten Blumen. Die Kamera beginnt mit einer weiten Totalen und fährt dann langsam mit einem sanften Push auf den Ritter zu, wobei eine geringe Schärfentiefe beibehalten wird, die den Ritter und die nahen Mohnblumen scharf fokussiert, während das ferne Feld und der Himmel weich verschwimmen. Über ihm füllen dramatische, stürmische dunkle Wolken den Himmel, teilen sich jedoch eindrucksvoll, um weiche goldene Sonnenstrahlen durchzulassen, die wunderschöne Lichtstrahlen und eine dynamische natürliche Beleuchtung mit weichen Schatten erzeugen. Die Atmosphäre ist friedlich und doch episch und erinnert an die Ruhe nach einer harten Schlacht. Ultrarealistischer, kinoreifer Fantasy-Stil, hyperdetaillierte Texturen an Rüstung, Blumen und Gras, malerische epische Stimmung, natürliche Lichtstreuung, subtile Windbewegung in Blumen und Baumblättern.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="Mittelalterlicher Ritter in einem Mohnfeld">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2061828182207336608)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Veröffentlicht:** Jun 2, 2026
+
+---
+### Nahtlose Charakter-Transformation im Video
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Prompt für Gemini Omni, der einen fließenden Videoübergang erzeugt, bei dem sich ein auf einer Bank sitzender Mann mit einem Fingerschnipsen in eine andere Person verwandelt, während der Kamerawinkel fixiert bleibt.
+
+#### 📝 Prompt
+
+```
+Verwende @Image 1 als Ausgangsszene. Der Kamerawinkel ist absolut fixiert. Zu Beginn amüsiert sich ein Paar auf einer Bank. Der Mann im blauen Jeanshemd, der auf der Bank sitzt, schnippt mit Daumen und Mittelfinger und verwandelt sich plötzlich in @Image 2. Nach der Verwandlung blickt die Frau überrascht zu dem Mann. Erstelle ein einziges, nahtloses Video ohne Schnitte. Füge keine sprechenden Stimmen oder Hintergrundmusik hinzu, nur Umgebungsgeräusche.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="Nahtlose Charakter-Transformation im Video">
+
+**[🎬 Video ansehen →](https://x.com/Immersion_cy/status/2061803769650987365)**
+
+**Autor:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Quelle:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Veröffentlicht:** Jun 2, 2026
+
+---
+### Taxi-Fahrsimulation aus der Ego-Perspektive
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Generierung einer Ansicht aus der Ego-Perspektive eines Taxis, das einer in einem Referenz-Screenshot angegebenen Route folgt.
+
+#### 📝 Prompt
+
+```
+Erstelle eine Ansicht aus der Ego-Perspektive von jemandem, der ein Taxi entlang der Route im Referenzbild fährt
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="Taxi-Fahrsimulation aus der Ego-Perspektive">
+
+**[🎬 Video ansehen →](https://x.com/c_nemri/status/2061689402741469191)**
+
+**Autor:** [Chouaieb Nemri](https://x.com/c_nemri) | **Quelle:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Veröffentlicht:** Jun 2, 2026
+
+---
 ### Hyperrealistisches türkisfarbenes Pantherchamäleon
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -919,6 +976,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-03T09:01:49.481Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-03T16:47:14.683Z</sub>
 
 </div>

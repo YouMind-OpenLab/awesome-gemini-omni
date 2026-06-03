@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **37** |
+| 📝 Toplam İstem | **40** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-03** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Gelincik Tarlasında Orta Çağ Şövalyesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni için, dramatik doğal ışıklandırmalı canlı bir gelincik tarlasında dinlenen bir şövalyeyi konu alan detaylı sinematik video istemi.
+
+#### 📝 İstem
+
+```
+Parlak zırhı içindeki yorgun bir Orta Çağ şövalyesi, esintide nazikçe sallanan uçsuz bucaksız, canlı kırmızı gelinciklerle dolu bir tarlada, büyük ve kadim bir meşe ağacının altında huzurla dinleniyor. Şövalye, kaskı hâlâ başındayken yumuşak çimlerin üzerinde uzanıyor, gözleri huzurlu bir dinlenişle kapalı ve etrafı parlak kırmızı çiçeklerle çevrili. Kamera geniş bir çekimle başlıyor, ardından şövalyeye doğru yavaşça yaklaşarak sığ bir alan derinliğini koruyor; şövalyeye ve yakındaki gelinciklere odaklanırken uzak tarlayı ve gökyüzünü hafifçe bulanıklaştırıyor. Gökyüzünde dramatik ve fırtınalı koyu bulutlar yer alıyor ancak bu bulutlar dramatik bir şekilde ayrılarak yumuşak altın rengi güneş ışınlarının süzülmesine izin veriyor; bu da güzel ışık hüzmeleri ve yumuşak gölgelerle dinamik bir doğal aydınlatma yaratıyor. Atmosfer huzurlu ama destansı; zorlu bir savaşın ardından gelen dinginliği çağrıştırıyor. Ultra gerçekçi sinematik fantezi tarzı, zırh, çiçekler ve çimler üzerinde hiper detaylı dokular, resimsel destansı bir ruh hali, doğal ışık dağılımı, çiçeklerde ve ağaç yapraklarında hafif rüzgar hareketi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="Gelincik Tarlasında Orta Çağ Şövalyesi">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2061828182207336608)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Yayınlandı:** Jun 2, 2026
+
+---
+### Kusursuz Karakter Dönüşüm Videosu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Bankta oturan bir adamın parmak şıklatmasıyla başka birine dönüştüğü, sabit kamera açısının korunduğu akıcı bir video geçişi oluşturmak için Gemini Omni'ye yönelik detaylı bir komut.
+
+#### 📝 İstem
+
+```
+Başlangıç sahnesi olarak @Image 1'i kullanın. Kamera açısı tamamen sabit olmalıdır. Başlangıçta, bir bankta oturan bir çift eğlenmektedir. Bankta oturan mavi kot gömlekli adam baş ve orta parmağını şıklatır ve aniden @Image 2'ye dönüşür. Dönüşümden sonra kadın şaşkınlıkla adama bakar. Hiçbir kesinti olmadan tek ve kusursuz bir video oluşturun. Konuşma sesleri veya arka plan müziği eklemeyin, yalnızca ortam sesleri olsun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="Kusursuz Karakter Dönüşüm Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/Immersion_cy/status/2061803769650987365)**
+
+**Yazar:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Kaynak:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Yayınlandı:** Jun 2, 2026
+
+---
+### Birinci Şahıs Taksi Sürüş Simülasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans ekran görüntüsünde sağlanan belirli bir rota boyunca giden bir taksinin birinci şahıs görünümünü oluşturmak için bir komut.
+
+#### 📝 İstem
+
+```
+referans görseldeki rota boyunca taksi süren birinin birinci şahıs görünümünü oluştur
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="Birinci Şahıs Taksi Sürüş Simülasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/c_nemri/status/2061689402741469191)**
+
+**Yazar:** [Chouaieb Nemri](https://x.com/c_nemri) | **Kaynak:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Yayınlandı:** Jun 2, 2026
+
+---
 ### Hiper Gerçekçi Turkuaz Panter Bukalemun
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -919,6 +976,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-03T09:01:51.202Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-03T16:47:16.127Z</sub>
 
 </div>

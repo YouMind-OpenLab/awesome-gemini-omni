@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **37** |
+| 📝 Tổng số prompt | **40** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-03** |
 
@@ -56,6 +56,63 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hiệp sĩ thời Trung cổ trên cánh đồng hoa anh túc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video điện ảnh chi tiết dành cho Gemini Omni, mô tả một hiệp sĩ đang nghỉ ngơi trên cánh đồng hoa anh túc rực rỡ với ánh sáng tự nhiên đầy kịch tính.
+
+#### 📝 Prompt
+
+```
+Một hiệp sĩ thời Trung cổ mệt mỏi trong bộ giáp sắt sáng bóng đang nghỉ ngơi yên bình dưới gốc cây sồi cổ thụ lớn, giữa cánh đồng hoa anh túc đỏ rực nở rộ trải dài bất tận, đung đưa nhẹ nhàng trong gió. Hiệp sĩ nằm trên thảm cỏ mềm, vẫn đội mũ giáp, đôi mắt nhắm nghiền trong sự nghỉ ngơi thanh thản, xung quanh là những bông hoa đỏ thắm. Máy quay bắt đầu bằng một cú lia toàn cảnh, sau đó từ từ tiến lại gần hiệp sĩ, duy trì độ sâu trường ảnh nông để giữ nét sắc sảo trên người hiệp sĩ và những bông hoa anh túc gần đó, đồng thời làm mờ nhẹ cánh đồng và bầu trời phía xa. Phía trên, những đám mây giông tối tăm đầy kịch tính bao phủ bầu trời nhưng tách ra một cách ngoạn mục để những tia nắng vàng dịu nhẹ xuyên qua, tạo nên những dải sáng rực rỡ (god rays) và ánh sáng tự nhiên sống động với những bóng đổ mềm mại. Bầu không khí vừa yên bình vừa hùng tráng, gợi lên sự tĩnh lặng sau một trận chiến khốc liệt. Phong cách giả tưởng điện ảnh siêu thực, kết cấu chi tiết trên bộ giáp, hoa và cỏ, mang đậm chất sử thi hội họa, ánh sáng tự nhiên tán xạ, chuyển động gió tinh tế trên những bông hoa và lá cây.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="Hiệp sĩ thời Trung cổ trên cánh đồng hoa anh túc">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2061828182207336608)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Video chuyển đổi nhân vật mượt mà
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh chi tiết dành cho Gemini Omni giúp tạo ra hiệu ứng chuyển cảnh video mượt mà, trong đó một người đàn ông đang ngồi trên ghế băng biến hình thành người khác chỉ bằng một cái búng tay, với góc máy cố định.
+
+#### 📝 Prompt
+
+```
+Sử dụng @Image 1 làm cảnh bắt đầu. Góc máy hoàn toàn cố định. Ban đầu, một cặp đôi đang ngồi trên ghế băng và trò chuyện vui vẻ. Người đàn ông mặc áo sơ mi denim màu xanh đang ngồi trên ghế búng ngón tay cái và ngón giữa, sau đó đột ngột biến hình thành @Image 2. Sau khi biến hình, người phụ nữ nhìn người đàn ông với vẻ ngạc nhiên. Hãy tạo thành một video liền mạch không cắt ghép. Không bao gồm giọng nói hay nhạc nền, chỉ giữ lại âm thanh môi trường.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="Video chuyển đổi nhân vật mượt mà">
+
+**[🎬 Xem video →](https://x.com/Immersion_cy/status/2061803769650987365)**
+
+**Tác giả:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Nguồn:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Đã xuất bản:** Jun 2, 2026
+
+---
+### Mô phỏng lái xe taxi góc nhìn thứ nhất
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh để tạo góc nhìn thứ nhất của một chiếc taxi đang chạy dọc theo lộ trình cụ thể được cung cấp trong ảnh chụp màn hình tham chiếu.
+
+#### 📝 Prompt
+
+```
+tạo góc nhìn thứ nhất của một người đang lái xe taxi dọc theo lộ trình trong hình ảnh tham chiếu
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="Mô phỏng lái xe taxi góc nhìn thứ nhất">
+
+**[🎬 Xem video →](https://x.com/c_nemri/status/2061689402741469191)**
+
+**Tác giả:** [Chouaieb Nemri](https://x.com/c_nemri) | **Nguồn:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Đã xuất bản:** Jun 2, 2026
+
+---
 ### Tắc kè hoa Panther màu ngọc lam siêu thực
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -919,6 +976,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-03T09:01:48.183Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-03T16:47:13.365Z</sub>
 
 </div>

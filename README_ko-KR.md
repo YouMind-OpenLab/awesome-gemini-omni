@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **37** |
+| 📝 총 프롬프트 수 | **40** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-03** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 양귀비 들판의 중세 기사
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 드라마틱한 자연광이 비치는 생동감 넘치는 양귀비 들판에서 휴식을 취하는 기사를 묘사한 Gemini Omni용 상세 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+완전한 빛을 내는 판금 갑옷을 입은 지친 중세 기사가 끝없이 펼쳐진 생동감 넘치는 붉은 양귀비 들판의 거대한 고목 아래에서 평화롭게 쉬고 있습니다. 기사는 투구를 쓴 채 부드러운 풀밭에 누워 눈을 감고 평온하게 휴식을 취하고 있으며, 주변은 밝은 붉은 꽃들로 둘러싸여 있습니다. 카메라는 와이드 샷으로 시작하여 기사를 향해 천천히 부드럽게 다가가며, 기사와 근처 양귀비에 초점을 맞추고 먼 들판과 하늘은 부드럽게 흐리게 처리하는 얕은 피사계 심도를 유지합니다. 머리 위로는 드라마틱한 폭풍우 구름이 하늘을 가득 채우고 있지만, 구름이 갈라지며 부드러운 황금빛 햇살이 쏟아져 내려 아름다운 빛의 기둥(god rays)과 부드러운 그림자가 어우러진 역동적인 자연광을 연출합니다. 분위기는 평화로우면서도 웅장하며, 치열한 전투 후의 고요함을 자아냅니다. 초현실적인 시네마틱 판타지 스타일로, 갑옷과 꽃, 풀의 질감이 극도로 상세하게 묘사되었으며, 회화적이고 웅장한 분위기, 자연스러운 빛의 산란, 꽃과 나뭇잎의 미세한 바람 움직임이 포함됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="양귀비 들판의 중세 기사">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2061828182207336608)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **게시일:** Jun 2, 2026
+
+---
+### 자연스러운 인물 변환 영상
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 벤치에 앉아 있는 남자가 손가락을 튕기며 다른 사람으로 변신하는 매끄러운 영상 전환을 생성하기 위한 Gemini Omni용 상세 프롬프트입니다. 카메라 앵글은 고정된 상태를 유지합니다.
+
+#### 📝 프롬프트
+
+```
+@Image 1 을 시작 장면으로 사용하세요. 카메라 앵글은 완전히 고정되어 있습니다. 처음에 벤치에 앉아 있는 커플이 즐거운 시간을 보내고 있습니다. 벤치에 앉아 있는 파란색 데님 셔츠를 입은 남자가 엄지와 중지 손가락을 튕기자 갑자기 @Image 2 로 변신합니다. 변신 후, 여자는 놀란 표정으로 남자를 바라봅니다. 컷 없이 매끄러운 하나의 영상으로 제작하세요. 대화 소리나 배경 음악은 넣지 말고, 주변 환경음만 포함하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="자연스러운 인물 변환 영상">
+
+**[🎬 비디오 보기 →](https://x.com/Immersion_cy/status/2061803769650987365)**
+
+**작성자:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **출처:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **게시일:** Jun 2, 2026
+
+---
+### 1인칭 택시 운전 시뮬레이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 참조 스크린샷에 제공된 특정 경로를 따라 택시를 운전하는 1인칭 시점 영상을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+참조 이미지의 경로를 따라 택시를 운전하는 사람의 1인칭 시점 영상을 생성해 줘
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="1인칭 택시 운전 시뮬레이션">
+
+**[🎬 비디오 보기 →](https://x.com/c_nemri/status/2061689402741469191)**
+
+**작성자:** [Chouaieb Nemri](https://x.com/c_nemri) | **출처:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **게시일:** Jun 2, 2026
+
+---
 ### 초현실적인 터키석 색상의 팬서 카멜레온
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -919,6 +976,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-03T09:01:47.451Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-03T16:47:11.740Z</sub>
 
 </div>

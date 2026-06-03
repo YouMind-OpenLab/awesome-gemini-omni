@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **37** |
+| 📝 Total Prompts | **40** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-03** |
 
@@ -56,6 +56,63 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Medieval Knight in Poppy Field
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic video prompt for Gemini Omni featuring a resting knight in a vibrant poppy field with dramatic natural lighting.
+
+#### 📝 Prompt
+
+```
+A weary medieval knight in full shining plate armor rests peacefully under a large ancient oak tree in a vast, endless field of vibrant blooming red poppies swaying gently in the breeze. The knight lies on the soft grass, helmet still on, eyes closed in serene rest, surrounded by bright red flowers. The camera starts with a wide establishing shot, then slowly dollies in with a gentle push toward the knight, maintaining shallow depth of field that keeps sharp focus on the knight and nearby poppies while softly blurring the distant field and sky. Above, dramatic stormy dark clouds fill the sky but part dramatically to let soft golden sunlight rays break through, casting beautiful god rays and dynamic natural lighting with soft shadows. The atmosphere is peaceful yet epic, evoking calm after a hard battle. Ultra-realistic cinematic fantasy style, hyper-detailed textures on armor, flowers, and grass, painterly epic mood, natural light scattering, subtle wind movement in flowers and tree leaves.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="Medieval Knight in Poppy Field">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2061828182207336608)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Published:** Jun 2, 2026
+
+---
+### Seamless Character Transformation Video
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for Gemini Omni that creates a smooth video transition where a man sitting on a bench transforms into another person with a snap of his fingers, maintaining a fixed camera angle.
+
+#### 📝 Prompt
+
+```
+Use @Image 1 as the starting scene. The camera angle is completely fixed. Initially, a couple sitting on a bench is having fun. The man wearing a blue denim shirt sitting on the bench snaps his thumb and middle finger and suddenly transforms into @Image 2. After the transformation, the woman looks at the man in surprise. Make it a single seamless video without any cuts. Do not include talking voices or BGM, only environmental sounds.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="Seamless Character Transformation Video">
+
+**[🎬 Watch Video →](https://x.com/Immersion_cy/status/2061803769650987365)**
+
+**Author:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Source:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Published:** Jun 2, 2026
+
+---
+### First Person Taxi Drive Simulation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt to generate a first-person view of a taxi driving along a specific route provided in a reference screenshot.
+
+#### 📝 Prompt
+
+```
+create a first person view of someone driving a taxi cab along the route in the reference image
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="First Person Taxi Drive Simulation">
+
+**[🎬 Watch Video →](https://x.com/c_nemri/status/2061689402741469191)**
+
+**Author:** [Chouaieb Nemri](https://x.com/c_nemri) | **Source:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Published:** Jun 2, 2026
+
+---
 ### Hyper Realistic Turquoise Panther Chameleon
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -898,6 +955,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-03T09:01:46.092Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-03T16:47:10.175Z</sub>
 
 </div>

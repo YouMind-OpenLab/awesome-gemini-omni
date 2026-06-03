@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **37** |
+| 📝 Totale prompt | **40** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-03** |
 
@@ -56,6 +56,63 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Cavaliere medievale in un campo di papaveri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico dettagliato per Gemini Omni che ritrae un cavaliere a riposo in un vibrante campo di papaveri con una suggestiva illuminazione naturale.
+
+#### 📝 Prompt
+
+```
+Un cavaliere medievale stanco, con una scintillante armatura a piastre completa, riposa serenamente sotto una grande quercia secolare in un vasto e infinito campo di vibranti papaveri rossi in fiore che ondeggiano dolcemente nella brezza. Il cavaliere è disteso sull'erba soffice, con l'elmo ancora indossato e gli occhi chiusi in un riposo sereno, circondato da fiori rosso acceso. La telecamera inizia con un'inquadratura ampia, per poi avvicinarsi lentamente con un movimento fluido verso il cavaliere, mantenendo una profondità di campo ridotta che mantiene una messa a fuoco nitida sul cavaliere e sui papaveri vicini, sfocando delicatamente il campo in lontananza e il cielo. Sopra, drammatiche nuvole scure e temporalesche riempiono il cielo, aprendosi in modo spettacolare per lasciar filtrare morbidi raggi di luce solare dorata, creando splendidi giochi di luce e un'illuminazione naturale dinamica con ombre soffici. L'atmosfera è pacifica ma epica, evocando la calma dopo una dura battaglia. Stile fantasy cinematografico ultra-realistico, texture iper-dettagliate sull'armatura, sui fiori e sull'erba, atmosfera epica e pittorica, diffusione della luce naturale, leggero movimento del vento tra i fiori e le foglie degli alberi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="Cavaliere medievale in un campo di papaveri">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2061828182207336608)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Pubblicato:** Jun 2, 2026
+
+---
+### Video di trasformazione fluida del personaggio
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt dettagliato per Gemini Omni che crea una transizione video fluida in cui un uomo seduto su una panchina si trasforma in un'altra persona con uno schiocco di dita, mantenendo un'angolazione fissa della telecamera.
+
+#### 📝 Prompt
+
+```
+Usa @Image 1 come scena iniziale. L'angolazione della telecamera è completamente fissa. Inizialmente, una coppia seduta su una panchina si sta divertendo. L'uomo che indossa una camicia di jeans blu seduto sulla panchina schiocca il pollice e il medio e si trasforma improvvisamente in @Image 2. Dopo la trasformazione, la donna guarda l'uomo con sorpresa. Crea un unico video fluido senza tagli. Non includere voci parlate o musica di sottofondo, solo suoni ambientali.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="Video di trasformazione fluida del personaggio">
+
+**[🎬 Guarda il video →](https://x.com/Immersion_cy/status/2061803769650987365)**
+
+**Autore:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Fonte:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Pubblicato:** Jun 2, 2026
+
+---
+### Simulazione di guida taxi in prima persona
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare una visuale in prima persona di un taxi che percorre un itinerario specifico fornito in uno screenshot di riferimento.
+
+#### 📝 Prompt
+
+```
+crea una visuale in prima persona di qualcuno che guida un taxi lungo il percorso nell'immagine di riferimento
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="Simulazione di guida taxi in prima persona">
+
+**[🎬 Guarda il video →](https://x.com/c_nemri/status/2061689402741469191)**
+
+**Autore:** [Chouaieb Nemri](https://x.com/c_nemri) | **Fonte:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Pubblicato:** Jun 2, 2026
+
+---
 ### Camaleonte pantera turchese iperrealistico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -919,6 +976,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-03T09:01:50.146Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-03T16:47:15.278Z</sub>
 
 </div>

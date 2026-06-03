@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **37** |
+| 📝 提示詞總數 | **40** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-03** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 罌粟花田中的中世紀騎士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為 Gemini Omni 設計的詳細電影級影片提示詞，描繪了一位在中世紀罌粟花田中休息的騎士，並呈現出戲劇性的自然光影效果。
+
+#### 📝 提示詞
+
+```
+一位疲憊的中世紀騎士身穿閃亮的全身板甲，在一棵巨大的古老橡樹下平靜地休息，周圍是無邊無際、在微風中輕輕搖曳的鮮豔紅罌粟花田。騎士躺在柔軟的草地上，頭盔尚未卸下，雙眼緊閉，神情安詳，四周環繞著火紅的花朵。鏡頭以廣角建立鏡頭開始，隨後緩慢地向騎士推進，保持淺景深，使騎士與近處的罌粟花保持清晰對焦，同時將遠處的田野與天空柔焦處理。上方，戲劇性的烏雲密佈，但雲層戲劇性地裂開，讓柔和的金色陽光灑落，形成美麗的耶穌光與動態的自然光影，並帶有柔和的陰影。氛圍既平靜又壯麗，喚起戰鬥後的寧靜感。超寫實電影級奇幻風格，盔甲、花朵與草地的紋理細節極致豐富，帶有繪畫般的史詩氛圍，自然光散射，花朵與樹葉呈現細膩的風動效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="罌粟花田中的中世紀騎士">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2061828182207336608)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **發布時間:** Jun 2, 2026
+
+---
+### 無縫角色變換影片
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 這是一份為 Gemini Omni 設計的詳細提示詞，旨在製作一段流暢的影片轉場，讓坐在長椅上的男子在彈指間變身為另一人，同時保持固定鏡頭角度。
+
+#### 📝 提示詞
+
+```
+使用 @Image 1 作為起始場景。鏡頭角度需完全固定。起初，一對情侶正坐在長椅上愉快地交談。坐在長椅上、身穿藍色牛仔襯衫的男子彈了一下手指，隨即變身為 @Image 2。變身後，女子驚訝地看著該男子。請製作成一段無剪輯的無縫影片。不要包含人聲對話或背景音樂，僅保留環境音。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="無縫角色變換影片">
+
+**[🎬 觀看視頻 →](https://x.com/Immersion_cy/status/2061803769650987365)**
+
+**作者:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **來源:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **發布時間:** Jun 2, 2026
+
+---
+### 第一人稱計程車駕駛模擬
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於生成第一人稱視角計程車駕駛的提示詞，該駕駛路線需參考提供的截圖。
+
+#### 📝 提示詞
+
+```
+建立一個第一人稱視角，模擬駕駛員沿著參考圖片中的路線駕駛計程車
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="第一人稱計程車駕駛模擬">
+
+**[🎬 觀看視頻 →](https://x.com/c_nemri/status/2061689402741469191)**
+
+**作者:** [Chouaieb Nemri](https://x.com/c_nemri) | **來源:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **發布時間:** Jun 2, 2026
+
+---
 ### 超寫實綠松石色豹紋變色龍
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -919,6 +976,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-03T09:01:46.789Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-03T16:47:11.154Z</sub>
 
 </div>

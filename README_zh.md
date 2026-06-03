@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **37** |
+| 📝 提示词总数 | **40** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-06-03** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 罂粟花田中的中世纪骑士
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个为 Gemini Omni 准备的详细电影感视频提示词，描绘了一位在充满活力的罂粟花田中休息的骑士，并配有戏剧性的自然光影。
+
+#### 📝 提示词
+
+```
+一位疲惫的中世纪骑士身穿闪亮的全身板甲，在一棵巨大的古老橡树下安详地休息，周围是广阔无垠、在微风中轻轻摇曳的鲜艳红罂粟花田。骑士躺在柔软的草地上，头盔尚未摘下，双眼紧闭，神情宁静，四周环绕着鲜红的花朵。镜头从广角全景开始，随后缓慢推近，保持浅景深，使骑士和近处的罂粟花保持清晰对焦，同时将远处的花田和天空柔化虚化。头顶上方，戏剧性的乌云密布，但云层裂开，让柔和的金色阳光倾泻而下，投射出美丽的耶稣光和富有动态的自然光影，伴随着柔和的阴影。氛围既宁静又史诗，唤起了一场艰苦战斗后的平静感。超写实电影级奇幻风格，盔甲、花朵和草地的纹理细节丰富，具有绘画般的史诗意境，自然光散射，花朵和树叶呈现出细微的风动效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="罂粟花田中的中世纪骑士">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2061828182207336608)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **发布时间:** Jun 2, 2026
+
+---
+### 无缝人物变换视频
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 这是一个为 Gemini Omni 设计的详细提示词，旨在创作一段平滑的视频转场：一名坐在长椅上的男子在打响指后瞬间变换为另一个人，同时保持摄像机角度固定。
+
+#### 📝 提示词
+
+```
+以 @Image 1 作为起始场景。摄像机角度保持完全固定。起初，一对情侣正坐在长椅上愉快交谈。坐在长椅上身穿蓝色牛仔衬衫的男子打了一个响指，随后瞬间变换为 @Image 2。变换完成后，女子惊讶地看着该男子。请制作成一段无剪辑的无缝视频。不要包含人声对话或背景音乐，仅保留环境音。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="无缝人物变换视频">
+
+**[🎬 观看视频 →](https://x.com/Immersion_cy/status/2061803769650987365)**
+
+**作者:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **来源:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **发布时间:** Jun 2, 2026
+
+---
+### 第一人称出租车驾驶模拟
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于根据参考截图中的特定路线，生成第一人称视角出租车驾驶画面的提示词。
+
+#### 📝 提示词
+
+```
+创建一个第一人称视角，展示某人沿着参考图像中的路线驾驶出租车
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="第一人称出租车驾驶模拟">
+
+**[🎬 观看视频 →](https://x.com/c_nemri/status/2061689402741469191)**
+
+**作者:** [Chouaieb Nemri](https://x.com/c_nemri) | **来源:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **发布时间:** Jun 2, 2026
+
+---
 ### 超写实绿松石色豹变色龙
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -919,6 +976,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-03T09:01:46.416Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-03T16:47:10.644Z</sub>
 
 </div>
