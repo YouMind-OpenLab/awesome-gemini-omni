@@ -919,6 +919,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-03T04:00:00.174Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-03T09:01:46.416Z</sub>
 
 </div>
