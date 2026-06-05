@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **40** |
+| 📝 Toplam İstem | **43** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-05** |
 
@@ -56,6 +56,66 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Dev İkiz Sahne Etkileşimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kullanıcının dev bir versiyonunu Trafalgar Meydanı ortamına yerleştirerek kendi orijinal benliğiyle etkileşime girmesini sağlayan bir Gemini Omni video istemi.
+
+#### 📝 İstem
+
+```
+Tam olarak aynı kıyafetleri giyen ve aynı yüze sahip devasa bir versiyonum, sahneye soldan giriş yapıyor. İkimiz de birbirimize bakıp coşkuyla el sallıyoruz.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Dev İkiz Sahne Etkileşimi">
+
+**[🎬 Videoyu izle →](https://x.com/EvrenTombul/status/2062637736150880565)**
+
+**Yazar:** [Evren Tombul](https://x.com/EvrenTombul) | **Kaynak:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Yayınlandı:** Jun 4, 2026
+
+---
+### Birinci Şahıs Süpürge Uçuş Rotası Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hareket kontrolü için belirli bir uçuş rotasını takip eden ve hareketli bir Altın Snitch'e odaklanan, uçan süpürge üzerinde sinematik bir birinci şahıs kovalamaca sahnesi.
+
+#### 📝 İstem
+
+```
+Birinci şahıs bakış açısı, uçan süpürge üzerinde sinematik, ultra hızlı, tek plan bir kovalamaca sahnesi. Çekimi, görselde gösterilen beyaz uçuş rotasını kesinlikle takip ederek gerçekleştirin. Altın Snitch kovalamaca boyunca birincil hedef olmaya devam etmeli, ancak ekranın tam merkezine sabitlenmemelidir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="Birinci Şahıs Süpürge Uçuş Rotası Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/GamsGo_Global/status/2062462744297914664)**
+
+**Yazar:** [GamsGo](https://x.com/GamsGo_Global) | **Kaynak:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Yayınlandı:** Jun 4, 2026
+
+---
+### Sinematik Birinci Şahıs Fare Kovalamacası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir farenin bakış açısından yüksek gerilimli bir kovalamaca sekansı için hiper gerçekçi ışıklandırma ve hareket efektleri içeren detaylı sinematik video istemi.
+
+#### 📝 İstem
+
+```
+POV: Bir ev kedisinden kaçan minik bir faresiniz. Ultra gerçekçi birinci şahıs kamera, sinematik aksiyon filmi kalitesi. Banliyö tarzı bir evin içi, gece vakti. Fare, ahşap mutfak zemininde hızla koşarken dev kedi patileri santimler arkasına çarpıyor. Yemek sandalyelerinin altına dalın, masa ayaklarının arasından geçin, devrilmiş bir mısır gevreği kutusunun üzerinden atlayın, parlak bir tezgahın kenarında kayın ve ardından bir koltuğun üzerine sıçrayın. Kedi, lambaları ve dekorasyonları devirerek eşyaların içinden geçiyor. Hızlı el kamerası hareketi, yoğun hareket bulanıklığı, gerçekçi ölçek farkı, dramatik gölgeler, havada uçuşan toz zerreleri. Kedi yaklaştıkça kovalamaca oturma odasında devam ediyor. Çamaşır makinesinin arkasındaki küçük bir boşluktan son bir çaresiz depar, kedi patisi kamerayı santimetre farkıyla ıskalıyor. Hiper gerçekçi kürk, sinematik ışıklandırma, Hollywood aksiyon sekansı, kesintisiz tek plan çekim, sığ alan derinliği, yüksek gerilim, ultra detaylı, 4K, fotogerçekçi.
+
+Negatif İstem:
+çizgi film, animasyon, düşük detay, düşük çözünürlük, üçüncü şahıs bakış açısı, birden fazla fare, birden fazla kedi, metin, altyazı, filigran, hatalar, yavaş hareket, sabit kamera, gerçekçi olmayan fizik, bulanık özne, deforme olmuş hayvanlar, şiddet, kan.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="Sinematik Birinci Şahıs Fare Kovalamacası">
+
+**[🎬 Videoyu izle →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
+
+**Yazar:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Kaynak:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Yayınlandı:** Jun 4, 2026
+
+---
 ### Gelincik Tarlasında Orta Çağ Şövalyesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -976,6 +1036,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-05T08:06:16.215Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-05T14:49:06.889Z</sub>
 
 </div>

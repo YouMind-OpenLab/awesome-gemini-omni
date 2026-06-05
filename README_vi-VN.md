@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **40** |
+| 📝 Tổng số prompt | **43** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-05** |
 
@@ -56,6 +56,66 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Tương tác cảnh quay bản sao khổng lồ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video Gemini Omni giúp đưa phiên bản khổng lồ của người dùng vào bối cảnh Quảng trường Trafalgar để tương tác với chính bản thân họ.
+
+#### 📝 Prompt
+
+```
+Một phiên bản khổng lồ của tôi mặc cùng bộ trang phục và có cùng khuôn mặt bước vào khung hình từ phía bên trái. Cả hai chúng tôi đều nhìn nhau và vẫy tay chào đầy hào hứng.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Tương tác cảnh quay bản sao khổng lồ">
+
+**[🎬 Xem video →](https://x.com/EvrenTombul/status/2062637736150880565)**
+
+**Tác giả:** [Evren Tombul](https://x.com/EvrenTombul) | **Nguồn:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Đã xuất bản:** Jun 4, 2026
+
+---
+### Video đường bay của chổi thần góc nhìn thứ nhất
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một cảnh rượt đuổi điện ảnh ở góc nhìn thứ nhất trên chiếc chổi bay, tuân theo một đường bay cụ thể để điều khiển chuyển động, tập trung vào trái Golden Snitch đang di chuyển.
+
+#### 📝 Prompt
+
+```
+Góc nhìn thứ nhất, một cảnh rượt đuổi điện ảnh, siêu tốc, quay liền mạch trên chiếc chổi bay. Quay phim tuân thủ nghiêm ngặt đường bay màu trắng được hiển thị trong hình ảnh. Trái Golden Snitch vẫn là mục tiêu chính trong suốt cuộc rượt đuổi, nhưng không được để nó cố định ở giữa khung hình
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="Video đường bay của chổi thần góc nhìn thứ nhất">
+
+**[🎬 Xem video →](https://x.com/GamsGo_Global/status/2062462744297914664)**
+
+**Tác giả:** [GamsGo](https://x.com/GamsGo_Global) | **Nguồn:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Đã xuất bản:** Jun 4, 2026
+
+---
+### Video điện ảnh về cuộc rượt đuổi dưới góc nhìn của chuột
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video điện ảnh chi tiết cho phân cảnh rượt đuổi đầy kịch tính từ góc nhìn của một chú chuột, với hiệu ứng ánh sáng và chuyển động siêu thực.
+
+#### 📝 Prompt
+
+```
+POV: Bạn là một chú chuột nhỏ đang chạy trốn khỏi một con mèo nhà. Camera góc nhìn thứ nhất siêu thực, chất lượng phim hành động điện ảnh. Bối cảnh ban đêm bên trong một ngôi nhà ngoại ô. Chú chuột chạy nước rút trên sàn bếp gỗ trong khi những bàn chân mèo khổng lồ đập xuống chỉ cách vài inch phía sau. Lao xuống dưới những chiếc ghế ăn, luồn lách qua các chân bàn, nhảy qua một hộp ngũ cốc bị đổ, trượt trên mép mặt bàn bóng loáng, rồi nhảy lên ghế sofa. Con mèo lao qua các đồ vật, làm đổ đèn và đồ trang trí. Chuyển động camera cầm tay nhanh, hiệu ứng nhòe chuyển động (motion blur) mạnh mẽ, sự khác biệt về tỷ lệ thực tế, bóng đổ kịch tính, các hạt bụi lơ lửng trong không khí. Cuộc rượt đuổi tiếp tục qua phòng khách khi con mèo ngày càng đến gần. Pha chạy nước rút tuyệt vọng cuối cùng qua một khe hở nhỏ phía sau máy giặt, bàn chân mèo suýt chút nữa đã chạm vào camera trong gang tấc. Lông siêu thực, ánh sáng điện ảnh, phân cảnh hành động kiểu Hollywood, cú máy dài không cắt cảnh, độ sâu trường ảnh nông, kịch tính cao, siêu chi tiết, 4K, chân thực như ảnh chụp.
+
+Negative Prompt:
+hoạt hình, animation, chi tiết thấp, độ phân giải thấp, góc nhìn thứ ba, nhiều chuột, nhiều mèo, văn bản, phụ đề, hình mờ (watermark), lỗi hình ảnh, chuyển động chậm, camera tĩnh, vật lý không thực tế, chủ thể bị mờ, động vật bị biến dạng, máu me, bạo lực.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="Video điện ảnh về cuộc rượt đuổi dưới góc nhìn của chuột">
+
+**[🎬 Xem video →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
+
+**Tác giả:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Nguồn:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Đã xuất bản:** Jun 4, 2026
+
+---
 ### Hiệp sĩ thời Trung cổ trên cánh đồng hoa anh túc
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -976,6 +1036,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-05T08:06:11.029Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-05T14:49:03.221Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **40** |
+| 📝 提示詞總數 | **43** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-05** |
 
@@ -56,6 +56,66 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 巨型分身場景互動
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個 Gemini Omni 影片提示詞，將巨型化的使用者置入特拉法加廣場（Trafalgar Square）場景中，與原本的自己進行互動。
+
+#### 📝 提示詞
+
+```
+一個穿著完全相同服裝、擁有相同面孔的巨型我，從左側走入畫面。我們兩人互相對視，並熱情地揮手。
+```
+
+<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="巨型分身場景互動">
+
+**[🎬 觀看視頻 →](https://x.com/EvrenTombul/status/2062637736150880565)**
+
+**作者:** [Evren Tombul](https://x.com/EvrenTombul) | **來源:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **發布時間:** Jun 4, 2026
+
+---
+### 第一人稱掃帚飛行路徑影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一場電影感十足的第一人稱掃帚追逐場景，沿著特定的飛行路徑進行運鏡控制，並聚焦於移動中的金探子。
+
+#### 📝 提示詞
+
+```
+第一人稱視角，一場電影感、超高速、一鏡到底的掃帚追逐場景。拍攝時必須嚴格遵循圖片中顯示的白色飛行路徑。在整個追逐過程中，金探子始終是主要目標，但不能將其固定在畫面中心。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="第一人稱掃帚飛行路徑影片">
+
+**[🎬 觀看視頻 →](https://x.com/GamsGo_Global/status/2062462744297914664)**
+
+**作者:** [GamsGo](https://x.com/GamsGo_Global) | **來源:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **發布時間:** Jun 4, 2026
+
+---
+### 電影級第一人稱老鼠追逐戰
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一份詳細的電影級影片提示詞，描繪從老鼠視角出發的高張力追逐場景，具備超逼真的光影與動態效果。
+
+#### 📝 提示詞
+
+```
+POV：你是一隻正在逃離家貓追捕的小老鼠。超逼真第一人稱視角，電影動作片畫質。場景設定在郊區住宅的夜晚。老鼠在木質廚房地板上狂奔，巨大的貓掌在身後幾英寸處重重拍下。鑽過餐椅下方，穿梭於桌腳之間，跳過倒下的麥片盒，在光滑的檯面邊緣滑行，隨後躍上沙發。貓咪撞翻了檯燈與裝飾品，現場一片混亂。快速手持攝影機運鏡，強烈的動態模糊，真實的比例差異，戲劇性的陰影，空氣中漂浮的塵埃粒子。追逐戰在客廳持續進行，貓咪步步逼近。最後在洗衣機後方的狹小縫隙中絕命狂奔，貓掌距離鏡頭僅幾公分之遙，驚險萬分。超逼真毛髮，電影級燈光，好萊塢動作場面，一鏡到底，淺景深，高張力，極致細節，4K，照片級真實感。
+
+負面提示詞：
+卡通，動畫，低細節，低解析度，第三人稱視角，多隻老鼠，多隻貓，文字，字幕，浮水印，故障，動作緩慢，靜態攝影，不真實的物理效果，主體模糊，動物變形，血腥，流血。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="電影級第一人稱老鼠追逐戰">
+
+**[🎬 觀看視頻 →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
+
+**作者:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **來源:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **發布時間:** Jun 4, 2026
+
+---
 ### 罌粟花田中的中世紀騎士
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -976,6 +1036,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-05T08:06:07.696Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-05T14:49:01.434Z</sub>
 
 </div>

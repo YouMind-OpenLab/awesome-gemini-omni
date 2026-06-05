@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **40** |
+| 📝 Total Prompts | **43** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-05** |
 
@@ -56,6 +56,66 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Giant Doppelganger Scene Interaction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Gemini Omni video prompt that introduces a giant version of the user into a Trafalgar Square setting to interact with their original self.
+
+#### 📝 Prompt
+
+```
+A gigantic version of me wearing the exact same outfit and sharing the same face walks into the scene from the left. We both look at each other and wave enthusiastically.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Giant Doppelganger Scene Interaction">
+
+**[🎬 Watch Video →](https://x.com/EvrenTombul/status/2062637736150880565)**
+
+**Author:** [Evren Tombul](https://x.com/EvrenTombul) | **Source:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Published:** Jun 4, 2026
+
+---
+### First-Person Broomstick Flight Path Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic first-person chase scene on a flying broomstick that follows a specific flight path for motion control, focusing on a moving Golden Snitch.
+
+#### 📝 Prompt
+
+```
+First-person perspective, a cinematic, ultra-fast, one-shot chase scene on a flying broomstick. Shoot strictly following the white flight path shown in the image. The Golden Snitch remains the primary target throughout the chase, but it cannot be fixed in the center
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="First-Person Broomstick Flight Path Video">
+
+**[🎬 Watch Video →](https://x.com/GamsGo_Global/status/2062462744297914664)**
+
+**Author:** [GamsGo](https://x.com/GamsGo_Global) | **Source:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Published:** Jun 4, 2026
+
+---
+### Cinematic First-Person Rat Chase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic video prompt for a high-tension chase sequence from a rat's POV, featuring hyper-realistic lighting and motion effects.
+
+#### 📝 Prompt
+
+```
+POV: You are a tiny rat escaping a house cat. Ultra-realistic first-person camera, cinematic action movie quality. Nighttime inside a suburban house. The rat sprints across a wooden kitchen floor while giant cat paws slam down inches behind. Dash beneath dining chairs, weave through table legs, jump over a fallen cereal box, skid across a glossy countertop edge, then leap onto a couch. The cat crashes through objects, knocking over lamps and decorations. Fast handheld camera movement, intense motion blur, realistic scale difference, dramatic shadows, dust particles floating in the air. The chase continues through the living room as the cat gets closer and closer. Final desperate sprint through a tiny gap behind a washing machine, cat paw narrowly missing the camera by centimeters. Hyper-realistic fur, cinematic lighting, Hollywood action sequence, continuous unbroken shot, shallow depth of field, high tension, ultra-detailed, 4K, photorealistic.
+
+Negative Prompt:
+cartoon, animation, low detail, low resolution, third-person view, multiple rats, multiple cats, text, subtitles, watermark, glitches, slow movement, static camera, unrealistic physics, blurry subject, deformed animals, gore, blood.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="Cinematic First-Person Rat Chase">
+
+**[🎬 Watch Video →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
+
+**Author:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Source:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Published:** Jun 4, 2026
+
+---
 ### Medieval Knight in Poppy Field
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -955,6 +1015,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T08:06:06.392Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-05T14:49:00.619Z</sub>
 
 </div>

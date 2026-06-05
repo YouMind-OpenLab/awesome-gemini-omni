@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **40** |
+| 📝 Total de prompts | **43** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-06-05** |
 
@@ -56,6 +56,66 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Interacción con escena de doble gigante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video para Gemini Omni que introduce una versión gigante del usuario en un entorno de Trafalgar Square para interactuar con su yo original.
+
+#### 📝 Prompt
+
+```
+Una versión gigantesca de mí, vistiendo exactamente el mismo atuendo y compartiendo el mismo rostro, entra en escena desde la izquierda. Ambos nos miramos y saludamos con entusiasmo.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Interacción con escena de doble gigante">
+
+**[🎬 Ver video →](https://x.com/EvrenTombul/status/2062637736150880565)**
+
+**Autor:** [Evren Tombul](https://x.com/EvrenTombul) | **Fuente:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Publicado:** Jun 4, 2026
+
+---
+### Video de trayectoria de vuelo en escoba en primera persona
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una escena de persecución cinematográfica en primera persona sobre una escoba voladora que sigue una trayectoria de vuelo específica para el control de movimiento, enfocándose en una Snitch Dorada en movimiento.
+
+#### 📝 Prompt
+
+```
+Perspectiva en primera persona, una escena de persecución cinematográfica, ultrarrápida y de una sola toma sobre una escoba voladora. La grabación debe seguir estrictamente la trayectoria de vuelo blanca que se muestra en la imagen. La Snitch Dorada sigue siendo el objetivo principal durante toda la persecución, pero no puede mantenerse fija en el centro.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="Video de trayectoria de vuelo en escoba en primera persona">
+
+**[🎬 Ver video →](https://x.com/GamsGo_Global/status/2062462744297914664)**
+
+**Autor:** [GamsGo](https://x.com/GamsGo_Global) | **Fuente:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Publicado:** Jun 4, 2026
+
+---
+### Persecución cinematográfica en primera persona desde la perspectiva de una rata
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico detallado para una secuencia de persecución de alta tensión desde el punto de vista de una rata, con iluminación hiperrealista y efectos de movimiento.
+
+#### 📝 Prompt
+
+```
+POV: Eres una pequeña rata escapando de un gato doméstico. Cámara en primera persona ultrarrealista, calidad de película de acción cinematográfica. Noche dentro de una casa suburbana. La rata corre a través de un suelo de madera en la cocina mientras las enormes patas del gato golpean a centímetros detrás. Corre bajo las sillas del comedor, zigzaguea entre las patas de la mesa, salta sobre una caja de cereales caída, derrapa por el borde de una encimera brillante y luego salta a un sofá. El gato choca contra objetos, tirando lámparas y decoraciones. Movimiento rápido de cámara en mano, intenso desenfoque de movimiento, diferencia de escala realista, sombras dramáticas, partículas de polvo flotando en el aire. La persecución continúa por la sala de estar mientras el gato se acerca cada vez más. Sprint final desesperado a través de un pequeño hueco detrás de una lavadora, la pata del gato esquiva la cámara por centímetros. Pelaje hiperrealista, iluminación cinematográfica, secuencia de acción de Hollywood, plano secuencia continuo, profundidad de campo reducida, alta tensión, ultra detallado, 4K, fotorrealista.
+
+Negative Prompt:
+dibujos animados, animación, bajo detalle, baja resolución, vista en tercera persona, múltiples ratas, múltiples gatos, texto, subtítulos, marca de agua, fallos, movimiento lento, cámara estática, física poco realista, sujeto borroso, animales deformes, gore, sangre.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="Persecución cinematográfica en primera persona desde la perspectiva de una rata">
+
+**[🎬 Ver video →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
+
+**Autor:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Fuente:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Publicado:** Jun 4, 2026
+
+---
 ### Caballero medieval en un campo de amapolas
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -976,6 +1036,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-05T08:06:12.224Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-05T14:49:03.836Z</sub>
 
 </div>

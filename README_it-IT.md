@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **40** |
+| 📝 Totale prompt | **43** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-05** |
 
@@ -56,6 +56,66 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Interazione con la scena del sosia gigante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video per Gemini Omni che inserisce una versione gigante dell'utente in un'ambientazione a Trafalgar Square per interagire con il proprio io originale.
+
+#### 📝 Prompt
+
+```
+Una versione gigantesca di me, che indossa lo stesso identico outfit e ha lo stesso volto, entra in scena da sinistra. Ci guardiamo a vicenda e ci salutiamo con entusiasmo.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Interazione con la scena del sosia gigante">
+
+**[🎬 Guarda il video →](https://x.com/EvrenTombul/status/2062637736150880565)**
+
+**Autore:** [Evren Tombul](https://x.com/EvrenTombul) | **Fonte:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Pubblicato:** Jun 4, 2026
+
+---
+### Video in prima persona del percorso di volo su manico di scopa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una scena di inseguimento cinematografica in prima persona su un manico di scopa volante che segue un percorso di volo specifico per il controllo del movimento, concentrandosi su un Boccino d'Oro in movimento.
+
+#### 📝 Prompt
+
+```
+Prospettiva in prima persona, una scena di inseguimento cinematografica, ultra-veloce e in piano sequenza su un manico di scopa volante. Riprendi seguendo rigorosamente il percorso di volo bianco mostrato nell'immagine. Il Boccino d'Oro rimane l'obiettivo principale durante tutto l'inseguimento, ma non può essere fissato al centro
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="Video in prima persona del percorso di volo su manico di scopa">
+
+**[🎬 Guarda il video →](https://x.com/GamsGo_Global/status/2062462744297914664)**
+
+**Autore:** [GamsGo](https://x.com/GamsGo_Global) | **Fonte:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Pubblicato:** Jun 4, 2026
+
+---
+### Inseguimento cinematografico in prima persona: un topo in fuga
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico dettagliato per una sequenza di inseguimento ad alta tensione dal punto di vista di un topo, caratterizzato da illuminazione iperrealistica ed effetti di movimento.
+
+#### 📝 Prompt
+
+```
+POV: Sei un piccolo topo che scappa da un gatto domestico. Telecamera in prima persona ultra-realistica, qualità da film d'azione cinematografico. Notte all'interno di una casa suburbana. Il topo corre su un pavimento di legno in cucina mentre le zampe giganti del gatto sbattono a pochi centimetri dietro di lui. Scatta sotto le sedie della sala da pranzo, si fa strada tra le gambe del tavolo, salta sopra una scatola di cereali caduta, scivola sul bordo di un piano di lavoro lucido, poi balza su un divano. Il gatto si schianta contro gli oggetti, rovesciando lampade e decorazioni. Movimento rapido della telecamera a mano, intenso motion blur, differenza di scala realistica, ombre drammatiche, particelle di polvere che fluttuano nell'aria. L'inseguimento continua attraverso il soggiorno mentre il gatto si avvicina sempre di più. Sprint finale disperato attraverso una piccola fessura dietro una lavatrice, la zampa del gatto manca la telecamera per pochi centimetri. Pelliccia iperrealistica, illuminazione cinematografica, sequenza d'azione hollywoodiana, ripresa continua senza interruzioni, profondità di campo ridotta, alta tensione, ultra-dettagliato, 4K, fotorealistico.
+
+Negative Prompt:
+cartone animato, animazione, basso dettaglio, bassa risoluzione, visuale in terza persona, topi multipli, gatti multipli, testo, sottotitoli, watermark, glitch, movimento lento, telecamera statica, fisica irrealistica, soggetto sfocato, animali deformi, sangue, violenza.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="Inseguimento cinematografico in prima persona: un topo in fuga">
+
+**[🎬 Guarda il video →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
+
+**Autore:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Fonte:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Pubblicato:** Jun 4, 2026
+
+---
 ### Cavaliere medievale in un campo di papaveri
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -976,6 +1036,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-05T08:06:14.351Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-05T14:49:05.422Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **40** |
+| 📝 Gesamtanzahl Prompts | **43** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-05** |
 
@@ -56,6 +56,66 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Interaktion mit einer riesigen Doppelgänger-Szene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Gemini Omni Video-Prompt, der eine riesige Version des Nutzers in die Szenerie des Trafalgar Square einfügt, um mit dem eigenen Ich zu interagieren.
+
+#### 📝 Prompt
+
+```
+Eine gigantische Version meiner selbst, die exakt dasselbe Outfit trägt und dasselbe Gesicht hat, betritt die Szene von links. Wir beide schauen uns an und winken enthusiastisch.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Interaktion mit einer riesigen Doppelgänger-Szene">
+
+**[🎬 Video ansehen →](https://x.com/EvrenTombul/status/2062637736150880565)**
+
+**Autor:** [Evren Tombul](https://x.com/EvrenTombul) | **Quelle:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Veröffentlicht:** Jun 4, 2026
+
+---
+### Ego-Perspektive: Flugbahn-Video auf dem Besen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine filmische Verfolgungsjagd aus der Ego-Perspektive auf einem fliegenden Besen, die einer bestimmten Flugbahn für die Bewegungssteuerung folgt und sich auf einen sich bewegenden Goldenen Schnatz konzentriert.
+
+#### 📝 Prompt
+
+```
+Ego-Perspektive, eine filmische, ultraschnelle One-Shot-Verfolgungsjagd auf einem fliegenden Besen. Die Aufnahme muss strikt der im Bild gezeigten weißen Flugbahn folgen. Der Goldene Schnatz bleibt während der gesamten Verfolgungsjagd das primäre Ziel, darf jedoch nicht mittig fixiert werden.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="Ego-Perspektive: Flugbahn-Video auf dem Besen">
+
+**[🎬 Video ansehen →](https://x.com/GamsGo_Global/status/2062462744297914664)**
+
+**Autor:** [GamsGo](https://x.com/GamsGo_Global) | **Quelle:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Veröffentlicht:** Jun 4, 2026
+
+---
+### Filmreife Rattenjagd aus der Egoperspektive
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter, filmreifer Video-Prompt für eine spannungsgeladene Verfolgungsjagd aus der Sicht einer Ratte, mit hyperrealistischer Beleuchtung und Bewegungseffekten.
+
+#### 📝 Prompt
+
+```
+POV: Du bist eine kleine Ratte, die vor einer Hauskatze flieht. Ultrarealistische Egoperspektive, filmreife Actionfilm-Qualität. Nachts in einem Vorstadthaus. Die Ratte sprintet über einen hölzernen Küchenboden, während riesige Katzenpfoten nur Zentimeter hinter ihr aufschlagen. Husche unter Esszimmerstühle, schlängle dich durch Tischbeine, springe über eine umgefallene Müslipackung, rutsche über eine glänzende Arbeitsplattenkante und springe dann auf ein Sofa. Die Katze kracht durch Gegenstände, stößt Lampen und Dekorationen um. Schnelle Handkamera-Bewegungen, intensive Bewegungsunschärfe, realistischer Größenunterschied, dramatische Schatten, in der Luft schwebende Staubpartikel. Die Verfolgungsjagd geht durch das Wohnzimmer weiter, während die Katze immer näher kommt. Letzter verzweifelter Sprint durch eine winzige Lücke hinter einer Waschmaschine, die Katzenpfote verfehlt die Kamera nur um Zentimeter. Hyperrealistisches Fell, filmische Beleuchtung, Hollywood-Actionsequenz, durchgehende Einstellung, geringe Schärfentiefe, hohe Spannung, hochdetailliert, 4K, fotorealistisch.
+
+Negativer Prompt:
+Cartoon, Animation, geringes Detail, niedrige Auflösung, Third-Person-Perspektive, mehrere Ratten, mehrere Katzen, Text, Untertitel, Wasserzeichen, Glitches, langsame Bewegung, statische Kamera, unrealistische Physik, unscharfes Motiv, deformierte Tiere, Gewalt, Blut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="Filmreife Rattenjagd aus der Egoperspektive">
+
+**[🎬 Video ansehen →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
+
+**Autor:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Quelle:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Veröffentlicht:** Jun 4, 2026
+
+---
 ### Mittelalterlicher Ritter in einem Mohnfeld
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -976,6 +1036,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-05T08:06:13.297Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-05T14:49:04.558Z</sub>
 
 </div>

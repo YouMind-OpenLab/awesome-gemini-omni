@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **40** |
+| 📝 Total de prompts | **43** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-06-05** |
 
@@ -56,6 +56,66 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Interação de Cena com Doppelganger Gigante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo para o Gemini Omni que introduz uma versão gigante do usuário na Trafalgar Square para interagir com seu eu original.
+
+#### 📝 Prompt
+
+```
+Uma versão gigantesca de mim, vestindo exatamente a mesma roupa e com o mesmo rosto, entra na cena pela esquerda. Nós dois olhamos um para o outro e acenamos entusiasticamente.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Interação de Cena com Doppelganger Gigante">
+
+**[🎬 Assistir vídeo →](https://x.com/EvrenTombul/status/2062637736150880565)**
+
+**Autor:** [Evren Tombul](https://x.com/EvrenTombul) | **Fonte:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Publicado:** Jun 4, 2026
+
+---
+### Vídeo de trajetória de voo em vassoura na primeira pessoa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma cena de perseguição cinematográfica na primeira pessoa em uma vassoura voadora que segue uma trajetória de voo específica para controle de movimento, focando em um Pomo de Ouro em movimento.
+
+#### 📝 Prompt
+
+```
+Perspectiva de primeira pessoa, uma cena de perseguição cinematográfica, ultrarrápida e em plano-sequência em uma vassoura voadora. A filmagem deve seguir estritamente a trajetória de voo branca mostrada na imagem. O Pomo de Ouro permanece como o alvo principal durante toda a perseguição, mas não pode ficar fixo no centro
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="Vídeo de trajetória de voo em vassoura na primeira pessoa">
+
+**[🎬 Assistir vídeo →](https://x.com/GamsGo_Global/status/2062462744297914664)**
+
+**Autor:** [GamsGo](https://x.com/GamsGo_Global) | **Fonte:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Publicado:** Jun 4, 2026
+
+---
+### Perseguição Cinematográfica em Primeira Pessoa de um Rato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico detalhado para uma sequência de perseguição de alta tensão a partir do ponto de vista de um rato, apresentando iluminação hiper-realista e efeitos de movimento.
+
+#### 📝 Prompt
+
+```
+POV: Você é um pequeno rato escapando de um gato doméstico. Câmera em primeira pessoa ultra-realista, qualidade de filme de ação cinematográfico. Período noturno dentro de uma casa suburbana. O rato corre pelo piso de madeira da cozinha enquanto patas gigantes de gato batem a poucos centímetros atrás. Corra por baixo das cadeiras de jantar, desvie das pernas da mesa, pule sobre uma caixa de cereal caída, deslize pela borda de uma bancada brilhante e salte para um sofá. O gato colide com objetos, derrubando luminárias e decorações. Movimento rápido de câmera na mão, intenso desfoque de movimento, diferença de escala realista, sombras dramáticas, partículas de poeira flutuando no ar. A perseguição continua pela sala de estar enquanto o gato se aproxima cada vez mais. Sprint final desesperado por uma pequena fresta atrás de uma máquina de lavar, com a pata do gato passando a centímetros da câmera. Pelagem hiper-realista, iluminação cinematográfica, sequência de ação de Hollywood, plano contínuo sem cortes, profundidade de campo rasa, alta tensão, ultra-detalhado, 4K, fotorrealista.
+
+Negative Prompt:
+desenho animado, animação, baixo detalhe, baixa resolução, visão em terceira pessoa, múltiplos ratos, múltiplos gatos, texto, legendas, marca d'água, falhas, movimento lento, câmera estática, física irrealista, assunto embaçado, animais deformados, sangue, violência.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="Perseguição Cinematográfica em Primeira Pessoa de um Rato">
+
+**[🎬 Assistir vídeo →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
+
+**Autor:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Fonte:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Publicado:** Jun 4, 2026
+
+---
 ### Cavaleiro Medieval em Campo de Papoulas
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -976,6 +1036,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-05T08:06:15.771Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-05T14:49:06.258Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **40** |
+| 📝 Total des prompts | **43** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-05** |
 
@@ -56,6 +56,66 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Interaction avec un double géant
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo Gemini Omni qui intègre une version géante de l'utilisateur sur la place Trafalgar pour interagir avec son double.
+
+#### 📝 Prompt
+
+```
+Une version gigantesque de moi-même, portant exactement la même tenue et arborant le même visage, entre dans la scène par la gauche. Nous nous regardons et nous faisons signe de la main avec enthousiasme.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Interaction avec un double géant">
+
+**[🎬 Voir la vidéo →](https://x.com/EvrenTombul/status/2062637736150880565)**
+
+**Auteur:** [Evren Tombul](https://x.com/EvrenTombul) | **Source:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Publié:** Jun 4, 2026
+
+---
+### Vidéo de trajectoire de vol en balai à la première personne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une scène de poursuite cinématographique à la première personne sur un balai volant, suivant une trajectoire de vol spécifique pour le contrôle de mouvement, avec une mise au point sur un Vif d'or en mouvement.
+
+#### 📝 Prompt
+
+```
+Perspective à la première personne, scène de poursuite cinématographique ultra-rapide en plan-séquence sur un balai volant. Le tournage doit suivre strictement la trajectoire de vol blanche indiquée dans l'image. Le Vif d'or reste la cible principale tout au long de la poursuite, mais il ne doit pas être fixé au centre.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="Vidéo de trajectoire de vol en balai à la première personne">
+
+**[🎬 Voir la vidéo →](https://x.com/GamsGo_Global/status/2062462744297914664)**
+
+**Auteur:** [GamsGo](https://x.com/GamsGo_Global) | **Source:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Publié:** Jun 4, 2026
+
+---
+### Course-poursuite cinématographique à la première personne avec un rat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique détaillé pour une séquence de poursuite sous haute tension du point de vue d'un rat, avec un éclairage hyperréaliste et des effets de mouvement.
+
+#### 📝 Prompt
+
+```
+POV : Vous êtes un minuscule rat qui échappe à un chat domestique. Caméra subjective ultra-réaliste, qualité de film d'action cinématographique. Nuit à l'intérieur d'une maison de banlieue. Le rat sprinte sur un parquet de cuisine en bois tandis que des pattes de chat géantes s'abattent à quelques centimètres derrière lui. Foncez sous les chaises de la salle à manger, faufilez-vous entre les pieds de table, sautez par-dessus une boîte de céréales renversée, dérapez sur le bord d'un comptoir brillant, puis bondissez sur un canapé. Le chat fracasse des objets, renversant lampes et décorations. Mouvement de caméra rapide à l'épaule, flou de mouvement intense, différence d'échelle réaliste, ombres dramatiques, particules de poussière flottant dans l'air. La poursuite se poursuit dans le salon alors que le chat se rapproche de plus en plus. Sprint final désespéré à travers une minuscule ouverture derrière une machine à laver, la patte du chat manquant la caméra de quelques centimètres. Fourrure hyperréaliste, éclairage cinématographique, séquence d'action hollywoodienne, plan-séquence continu, faible profondeur de champ, haute tension, ultra-détaillé, 4K, photoréaliste.
+
+Negative Prompt :
+dessin animé, animation, faible détail, basse résolution, vue à la troisième personne, plusieurs rats, plusieurs chats, texte, sous-titres, filigrane, glitches, mouvement lent, caméra statique, physique irréaliste, sujet flou, animaux déformés, gore, sang.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="Course-poursuite cinématographique à la première personne avec un rat">
+
+**[🎬 Voir la vidéo →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
+
+**Auteur:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Source:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Publié:** Jun 4, 2026
+
+---
 ### Chevalier médiéval dans un champ de coquelicots
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -976,6 +1036,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-05T08:06:13.662Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-05T14:49:04.882Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **40** |
+| 📝 총 프롬프트 수 | **43** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-05** |
 
@@ -56,6 +56,66 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 거대 도플갱어 장면 상호작용
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 사용자의 거대 버전을 트라팔가 광장 배경에 등장시켜 원래의 자신과 상호작용하게 만드는 Gemini Omni 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+나와 똑같은 옷을 입고 똑같은 얼굴을 한 거대한 존재가 왼쪽에서 장면 속으로 걸어 들어옵니다. 우리 둘은 서로를 바라보며 열정적으로 손을 흔듭니다.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="거대 도플갱어 장면 상호작용">
+
+**[🎬 비디오 보기 →](https://x.com/EvrenTombul/status/2062637736150880565)**
+
+**작성자:** [Evren Tombul](https://x.com/EvrenTombul) | **출처:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **게시일:** Jun 4, 2026
+
+---
+### 1인칭 빗자루 비행 경로 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 모션 컨트롤을 위해 특정 비행 경로를 따라 움직이는 골든 스니치를 추격하는 1인칭 시점의 영화 같은 추격 장면입니다.
+
+#### 📝 프롬프트
+
+```
+1인칭 시점의 영화 같고 매우 빠른 원테이크 빗자루 추격 장면입니다. 이미지에 표시된 흰색 비행 경로를 엄격히 따라 촬영하세요. 골든 스니치는 추격 내내 주요 타겟으로 유지되어야 하지만, 화면 중앙에 고정되어서는 안 됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="1인칭 빗자루 비행 경로 영상">
+
+**[🎬 비디오 보기 →](https://x.com/GamsGo_Global/status/2062462744297914664)**
+
+**작성자:** [GamsGo](https://x.com/GamsGo_Global) | **출처:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **게시일:** Jun 4, 2026
+
+---
+### 영화 같은 1인칭 쥐 추격전
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 쥐의 시점에서 펼쳐지는 긴박한 추격전을 위한 상세한 영화적 비디오 프롬프트로, 초현실적인 조명과 모션 효과를 특징으로 합니다.
+
+#### 📝 프롬프트
+
+```
+POV: 당신은 집고양이를 피해 도망치는 작은 쥐입니다. 초현실적인 1인칭 카메라, 영화 액션 영화 품질. 교외 주택의 밤. 쥐가 나무 주방 바닥을 가로질러 질주하고, 거대한 고양이 발이 몇 인치 뒤에 쾅 내려찍습니다. 식탁 의자 아래로 돌진하고, 식탁 다리 사이를 요리조리 빠져나가며, 쓰러진 시리얼 상자를 뛰어넘고, 반짝이는 조리대 가장자리를 미끄러지듯 지나 소파 위로 뛰어오릅니다. 고양이는 물건들을 부수며 램프와 장식품들을 넘어뜨립니다. 빠른 핸드헬드 카메라 움직임, 강렬한 모션 블러, 현실적인 크기 차이, 드라마틱한 그림자, 공중에 떠다니는 먼지 입자. 고양이가 점점 더 가까워지며 거실을 가로지르는 추격전이 계속됩니다. 세탁기 뒤의 작은 틈으로 향하는 마지막 필사적인 질주, 고양이 발이 카메라를 몇 센티미터 차이로 아슬아슬하게 빗나갑니다. 초현실적인 털, 영화적 조명, 할리우드 액션 시퀀스, 끊김 없는 연속 샷, 얕은 피사계 심도, 높은 긴장감, 초고해상도, 4K, 사실적인 사진.
+
+부정 프롬프트:
+만화, 애니메이션, 낮은 디테일, 낮은 해상도, 3인칭 시점, 여러 마리의 쥐, 여러 마리의 고양이, 텍스트, 자막, 워터마크, 글리치, 느린 움직임, 정적인 카메라, 비현실적인 물리 효과, 흐릿한 피사체, 기형적인 동물, 고어, 피.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="영화 같은 1인칭 쥐 추격전">
+
+**[🎬 비디오 보기 →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
+
+**작성자:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **출처:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **게시일:** Jun 4, 2026
+
+---
 ### 양귀비 들판의 중세 기사
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -976,6 +1036,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-05T08:06:09.171Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-05T14:49:02.358Z</sub>
 
 </div>
