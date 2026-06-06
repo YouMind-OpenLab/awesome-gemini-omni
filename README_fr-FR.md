@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **43** |
+| 📝 Total des prompts | **45** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-06** |
 
@@ -56,6 +56,44 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Bande-annonce avec texte animé
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt conçu pour générer des vidéos où le texte apparaît mot par mot avec des animations variées, parfaitement synchronisées sur un rythme dynamique.
+
+#### 📝 Prompt
+
+```
+Mot par mot, un seul mot à l'écran à la fois : saviez, vous, que, ce, modèle, peut, créer, un, texte, vraiment, impressionnant !? chaque mot apparaît avec un style d'animation différent, un rythme parfaitement calé, idéal pour une bande-annonce.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Bande-annonce avec texte animé">
+
+**[🎬 Voir la vidéo →](https://x.com/Google/status/2062925430290526486)**
+
+**Auteur:** [Google](https://x.com/Google) | **Source:** [Link](https://x.com/Google/status/2062925430290526486) | **Publié:** Jun 5, 2026
+
+---
+### Scène dynamique de nature cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo professionnel pour créer des scènes cinématographiques en 1080p à partir d'images, avec un éclairage réaliste et des mouvements de caméra fluides.
+
+#### 📝 Prompt
+
+```
+1080p 30fps, vidéo de 5 secondes ; construit une scène dynamique basée sur des images de référence, avec une brise légère caressant les feuilles, la caméra effectuant un panoramique lent et délicat, et la lumière ambiante changeant en douceur ; tous les objets conservent leurs formes et positions d'origine, avec des mouvements fluides et naturels, sans distorsion, offrant une texture cinématographique réaliste.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Scène dynamique de nature cinématographique">
+
+**[🎬 Voir la vidéo →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
+
+**Auteur:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Source:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Publié:** Jun 5, 2026
+
+---
 ### Interaction avec un double géant
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1036,6 +1074,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-06T06:52:00.180Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-06T10:03:13.821Z</sub>
 
 </div>

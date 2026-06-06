@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **43** |
+| 📝 プロンプト総数 | **45** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-06-06** |
 
@@ -56,6 +56,44 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### アニメーションテキストのシズルリール
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> リズムに合わせて完璧に同期し、単語ごとに異なるアニメーションでテキストが表示される動画を生成するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+単語ごとに、一度に 1 つずつ画面に表示：did, you, know, that, this, model, can, do, pretty, good, text!? 各単語が異なるアニメーションスタイルで表示され、リズムに完璧に合わせたペースのシズルリール。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="アニメーションテキストのシズルリール">
+
+**[🎬 動画を見る →](https://x.com/Google/status/2062925430290526486)**
+
+**作者:** [Google](https://x.com/Google) | **ソース:** [Link](https://x.com/Google/status/2062925430290526486) | **公開日:** Jun 5, 2026
+
+---
+### シネマティックな自然のダイナミックシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 画像から 1080p のシネマティックなシーンを作成するためのプロフェッショナルなビデオプロンプト。リアルなライティングと緩やかなカメラワークが特徴です。
+
+#### 📝 プロンプト
+
+```
+1080P 30fps、5 秒間の動画。参照画像に基づきダイナミックなシーンを構築。葉をなでるそよ風、ゆっくりと繊細に動くパンショット、柔らかく変化する環境光を表現。すべてのオブジェクトは元の形状と位置を維持し、歪みのない滑らかで自然な動きを実現。リアルなシネマティックな質感を再現します。
+```
+
+<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="シネマティックな自然のダイナミックシーン">
+
+**[🎬 動画を見る →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
+
+**作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **ソース:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **公開日:** Jun 5, 2026
+
+---
 ### 巨大なドッペルゲンガーとのシーンインタラクション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1036,6 +1074,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-06T06:51:56.322Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-06T10:03:10.944Z</sub>
 
 </div>

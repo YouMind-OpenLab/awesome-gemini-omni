@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **43** |
+| 📝 Tổng số prompt | **45** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-06** |
 
@@ -56,6 +56,44 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video giới thiệu văn bản chuyển động
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh được thiết kế để tạo video trong đó văn bản xuất hiện theo từng từ với các hiệu ứng chuyển động đa dạng, được đồng bộ hóa hoàn hảo theo nhịp điệu.
+
+#### 📝 Prompt
+
+```
+Từng từ một, mỗi lần chỉ một từ trên màn hình: bạn, có, biết, rằng, mô hình, này, có, thể, tạo, văn, bản, khá, ấn, tượng, không!? mỗi từ xuất hiện với một phong cách chuyển động khác nhau, nhịp điệu hoàn hảo, video giới thiệu đầy lôi cuốn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Video giới thiệu văn bản chuyển động">
+
+**[🎬 Xem video →](https://x.com/Google/status/2062925430290526486)**
+
+**Tác giả:** [Google](https://x.com/Google) | **Nguồn:** [Link](https://x.com/Google/status/2062925430290526486) | **Đã xuất bản:** Jun 5, 2026
+
+---
+### Cảnh quay thiên nhiên điện ảnh sống động
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video chuyên nghiệp để tạo các cảnh quay điện ảnh 1080p từ hình ảnh, với ánh sáng chân thực và chuyển động camera nhẹ nhàng.
+
+#### 📝 Prompt
+
+```
+Video 1080P 30fps, thời lượng 5 giây; xây dựng một cảnh quay sống động dựa trên hình ảnh tham chiếu, với làn gió nhẹ lướt qua những chiếc lá, camera lia chậm rãi và tinh tế, cùng ánh sáng xung quanh thay đổi dịu nhẹ; tất cả các vật thể giữ nguyên hình dạng và vị trí ban đầu, với chuyển động mượt mà và tự nhiên, không bị biến dạng, mang lại kết cấu điện ảnh chân thực.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Cảnh quay thiên nhiên điện ảnh sống động">
+
+**[🎬 Xem video →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
+
+**Tác giả:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Nguồn:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Đã xuất bản:** Jun 5, 2026
+
+---
 ### Tương tác cảnh quay bản sao khổng lồ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1036,6 +1074,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-06T06:51:57.659Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-06T10:03:12.163Z</sub>
 
 </div>

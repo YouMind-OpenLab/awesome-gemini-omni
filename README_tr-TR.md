@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **43** |
+| 📝 Toplam İstem | **45** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-06** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Animasyonlu Metin Sizzle Reel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Metnin kelime kelime, çeşitli animasyonlarla ve ritmik bir tempoyla mükemmel şekilde senkronize olarak ekrana geldiği videolar oluşturmak için tasarlanmış bir komut.
+
+#### 📝 İstem
+
+```
+Kelime kelime, ekranda her seferinde tek bir kelime olacak şekilde: biliyor, muydunuz, bu, modelin, oldukça, iyi, metinler, oluşturabildiğini!? her kelime farklı bir animasyon stiliyle beliriyor, ritme mükemmel uyum sağlayan bir tempo, sizzle reel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Animasyonlu Metin Sizzle Reel">
+
+**[🎬 Videoyu izle →](https://x.com/Google/status/2062925430290526486)**
+
+**Yazar:** [Google](https://x.com/Google) | **Kaynak:** [Link](https://x.com/Google/status/2062925430290526486) | **Yayınlandı:** Jun 5, 2026
+
+---
+### Sinematik Doğa Dinamik Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Görüntülerden 1080p sinematik sahneler oluşturmak için profesyonel bir video istemi; gerçekçi aydınlatma ve yumuşak kamera hareketleri içerir.
+
+#### 📝 İstem
+
+```
+1080P 30fps, 5 saniyelik video; referans görüntülere dayalı dinamik bir sahne oluşturur; yaprakları okşayan hafif bir esinti, yavaş ve hassas bir şekilde kayan kamera ve yumuşak bir şekilde değişen ortam ışığı ile; tüm nesneler orijinal şekillerini ve konumlarını korur, bozulma olmadan pürüzsüz ve doğal hareketlerle gerçekçi bir sinematik doku sunar.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Sinematik Doğa Dinamik Sahnesi">
+
+**[🎬 Videoyu izle →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
+
+**Yazar:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Kaynak:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Yayınlandı:** Jun 5, 2026
+
+---
 ### Dev İkiz Sahne Etkileşimi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1036,6 +1074,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-06T06:52:02.356Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-06T10:03:15.097Z</sub>
 
 </div>

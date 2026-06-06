@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **43** |
+| 📝 Total de prompts | **45** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-06-06** |
 
@@ -56,6 +56,44 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Sizzle Reel de texto animado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt diseñado para generar videos donde el texto aparece palabra por palabra con animaciones variadas, perfectamente sincronizado a un ritmo constante.
+
+#### 📝 Prompt
+
+```
+Palabra por palabra, una palabra a la vez en la pantalla: ¿sabías, que, este, modelo, puede, hacer, un, texto, bastante, bueno!?, cada palabra aparece con un estilo animado diferente, ritmo perfecto al compás, sizzle reel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Sizzle Reel de texto animado">
+
+**[🎬 Ver video →](https://x.com/Google/status/2062925430290526486)**
+
+**Autor:** [Google](https://x.com/Google) | **Fuente:** [Link](https://x.com/Google/status/2062925430290526486) | **Publicado:** Jun 5, 2026
+
+---
+### Escena dinámica de naturaleza cinematográfica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video profesional para crear escenas cinematográficas en 1080p a partir de imágenes, con iluminación realista y movimientos de cámara suaves.
+
+#### 📝 Prompt
+
+```
+1080P 30fps, video de 5 segundos; construye una escena dinámica basada en imágenes de referencia, con una suave brisa acariciando las hojas, la cámara realizando un paneo lento y delicado, y la luz ambiental cambiando suavemente; todos los objetos mantienen sus formas y posiciones originales, con movimientos fluidos y naturales, sin distorsión, presentando una textura cinematográfica realista.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Escena dinámica de naturaleza cinematográfica">
+
+**[🎬 Ver video →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
+
+**Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fuente:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Publicado:** Jun 5, 2026
+
+---
 ### Interacción de escena con un doble gigante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1036,6 +1074,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-06T06:51:59.107Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-06T10:03:13.118Z</sub>
 
 </div>

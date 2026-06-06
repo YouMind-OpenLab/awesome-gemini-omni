@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **43** |
+| 📝 提示詞總數 | **45** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-06** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 動畫文字快閃影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個專為生成影片設計的提示詞，能讓文字以逐字方式呈現並搭配多樣化的動畫效果，與節奏完美同步。
+
+#### 📝 提示詞
+
+```
+逐字顯示，螢幕每次只出現一個單字：你知道嗎，這個模型可以做出非常棒的文字效果！？每個單字都以不同的動畫風格呈現，節奏精準，適合製作快閃影片。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="動畫文字快閃影片">
+
+**[🎬 觀看視頻 →](https://x.com/Google/status/2062925430290526486)**
+
+**作者:** [Google](https://x.com/Google) | **來源:** [Link](https://x.com/Google/status/2062925430290526486) | **發布時間:** Jun 5, 2026
+
+---
+### 電影級自然動態場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個專業的影片提示詞，用於將圖片轉換為 1080p 電影級場景，具備逼真的光影效果與細膩的鏡頭運鏡。
+
+#### 📝 提示詞
+
+```
+1080P 30fps，5 秒影片；根據參考圖片構建動態場景，微風輕拂葉片，鏡頭緩慢而細膩地平移，環境光線柔和變化；所有物體保持原始形狀與位置，動作流暢自然，無變形，呈現出真實的電影質感。
+```
+
+<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="電影級自然動態場景">
+
+**[🎬 觀看視頻 →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
+
+**作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **來源:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **發布時間:** Jun 5, 2026
+
+---
 ### 巨型分身場景互動
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1036,6 +1074,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-06T06:51:55.849Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-06T10:03:10.588Z</sub>
 
 </div>

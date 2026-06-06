@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **43** |
+| 📝 Total Prompts | **45** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-06** |
 
@@ -56,6 +56,44 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Animated Text Sizzle Reel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt designed for generating videos where text appears word-by-word with varied animations, perfectly synced to a rhythmic pace.
+
+#### 📝 Prompt
+
+```
+Word by word, one word on the screen at a time: did, you, know, that, this, model, can, do, pretty, good, text!? each word appears with a different animated style, perfect pacing to a rhythm, sizzle reel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Animated Text Sizzle Reel">
+
+**[🎬 Watch Video →](https://x.com/Google/status/2062925430290526486)**
+
+**Author:** [Google](https://x.com/Google) | **Source:** [Link](https://x.com/Google/status/2062925430290526486) | **Published:** Jun 5, 2026
+
+---
+### Cinematic Nature Dynamic Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional video prompt for creating 1080p cinematic scenes from images, featuring realistic lighting and gentle camera movements.
+
+#### 📝 Prompt
+
+```
+1080P 30fps, 5-second video; constructs a dynamic scene based on reference images, with a gentle breeze caressing the leaves, the camera panning slowly and delicately, and the ambient light changing softly; all objects maintain their original shapes and positions, with smooth and natural movements, no distortion, presenting a realistic cinematic texture.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Cinematic Nature Dynamic Scene">
+
+**[🎬 Watch Video →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
+
+**Author:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Source:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Published:** Jun 5, 2026
+
+---
 ### Giant Doppelganger Scene Interaction
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1015,6 +1053,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T06:51:54.803Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-06T10:03:09.883Z</sub>
 
 </div>

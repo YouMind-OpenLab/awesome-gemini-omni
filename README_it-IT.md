@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **43** |
+| 📝 Totale prompt | **45** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-06** |
 
@@ -56,6 +56,44 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Sizzle Reel con testo animato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt progettato per generare video in cui il testo appare parola per parola con animazioni variegate, perfettamente sincronizzato con un ritmo incalzante.
+
+#### 📝 Prompt
+
+```
+Parola per parola, una parola alla volta sullo schermo: sapevi, che, questo, modello, può, creare, testi, davvero, ottimi!? ogni parola appare con uno stile animato diverso, ritmo perfetto a tempo di musica, sizzle reel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Sizzle Reel con testo animato">
+
+**[🎬 Guarda il video →](https://x.com/Google/status/2062925430290526486)**
+
+**Autore:** [Google](https://x.com/Google) | **Fonte:** [Link](https://x.com/Google/status/2062925430290526486) | **Pubblicato:** Jun 5, 2026
+
+---
+### Scena naturale cinematografica dinamica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video professionale per creare scene cinematografiche in 1080p a partire da immagini, caratterizzato da un'illuminazione realistica e movimenti di camera fluidi.
+
+#### 📝 Prompt
+
+```
+1080P 30fps, video di 5 secondi; costruisce una scena dinamica basata su immagini di riferimento, con una brezza leggera che accarezza le foglie, la camera che esegue una panoramica lenta e delicata e la luce ambientale che cambia dolcemente; tutti gli oggetti mantengono le loro forme e posizioni originali, con movimenti fluidi e naturali, senza distorsioni, presentando una texture cinematografica realistica.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Scena naturale cinematografica dinamica">
+
+**[🎬 Guarda il video →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
+
+**Autore:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fonte:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Pubblicato:** Jun 5, 2026
+
+---
 ### Interazione con la scena del sosia gigante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1036,6 +1074,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-06T06:52:00.851Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-06T10:03:14.135Z</sub>
 
 </div>

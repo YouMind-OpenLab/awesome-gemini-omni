@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **43** |
+| 📝 Gesamtanzahl Prompts | **45** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-06** |
 
@@ -56,6 +56,44 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Animiertes Text-Sizzle-Reel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt zur Erstellung von Videos, bei denen Text Wort für Wort mit abwechslungsreichen Animationen erscheint, perfekt abgestimmt auf einen rhythmischen Takt.
+
+#### 📝 Prompt
+
+```
+Wort für Wort, jeweils ein Wort auf dem Bildschirm: wusstest, du, schon, dass, dieses, Modell, ziemlich, guten, Text, erzeugen, kann!?, jedes Wort erscheint mit einem anderen Animationsstil, perfektes Timing zum Rhythmus, Sizzle-Reel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Animiertes Text-Sizzle-Reel">
+
+**[🎬 Video ansehen →](https://x.com/Google/status/2062925430290526486)**
+
+**Autor:** [Google](https://x.com/Google) | **Quelle:** [Link](https://x.com/Google/status/2062925430290526486) | **Veröffentlicht:** Jun 5, 2026
+
+---
+### Filmreife dynamische Naturszene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein professioneller Video-Prompt zur Erstellung von filmreifen 1080p-Szenen aus Bildern, mit realistischer Beleuchtung und sanften Kamerabewegungen.
+
+#### 📝 Prompt
+
+```
+1080p, 30 fps, 5-sekündiges Video; erstellt eine dynamische Szene basierend auf Referenzbildern, bei der eine sanfte Brise die Blätter streift, die Kamera sich langsam und behutsam schwenkt und das Umgebungslicht sich weich verändert; alle Objekte behalten ihre ursprüngliche Form und Position bei, mit flüssigen und natürlichen Bewegungen, ohne Verzerrungen, für eine realistische, filmische Textur.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Filmreife dynamische Naturszene">
+
+**[🎬 Video ansehen →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
+
+**Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Quelle:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Veröffentlicht:** Jun 5, 2026
+
+---
 ### Interaktion mit einer riesigen Doppelgänger-Szene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1036,6 +1074,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-06T06:51:59.576Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-06T10:03:13.502Z</sub>
 
 </div>

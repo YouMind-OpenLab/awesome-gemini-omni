@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **43** |
+| 📝 총 프롬프트 수 | **45** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-06** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 애니메이션 텍스트 시즐 릴
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 리듬감 있는 속도에 맞춰 텍스트가 단어별로 다양한 애니메이션과 함께 나타나는 영상을 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+단어별로 화면에 한 단어씩 표시: did, you, know, that, this, model, can, do, pretty, good, text!? 각 단어는 서로 다른 애니메이션 스타일로 나타나며, 리듬에 완벽하게 맞춰진 속도로 시즐 릴을 완성합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="애니메이션 텍스트 시즐 릴">
+
+**[🎬 비디오 보기 →](https://x.com/Google/status/2062925430290526486)**
+
+**작성자:** [Google](https://x.com/Google) | **출처:** [Link](https://x.com/Google/status/2062925430290526486) | **게시일:** Jun 5, 2026
+
+---
+### 영화 같은 자연 풍경 다이내믹 장면
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 이미지로부터 1080p 영화 같은 장면을 생성하기 위한 전문가용 비디오 프롬프트로, 사실적인 조명과 부드러운 카메라 움직임이 특징입니다.
+
+#### 📝 프롬프트
+
+```
+1080P 30fps, 5초 분량의 비디오; 참조 이미지를 기반으로 다이내믹한 장면을 구성하며, 나뭇잎을 스치는 부드러운 산들바람, 천천히 섬세하게 움직이는 카메라 워킹, 그리고 은은하게 변화하는 주변 조명을 포함합니다. 모든 객체는 원래의 형태와 위치를 유지하며, 왜곡 없이 매끄럽고 자연스러운 움직임을 보여주어 사실적인 영화적 질감을 구현합니다.
+```
+
+<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="영화 같은 자연 풍경 다이내믹 장면">
+
+**[🎬 비디오 보기 →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
+
+**작성자:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **출처:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **게시일:** Jun 5, 2026
+
+---
 ### 거대 도플갱어 장면 상호작용
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1036,6 +1074,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-06T06:51:56.808Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-06T10:03:11.286Z</sub>
 
 </div>
