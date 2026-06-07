@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **45** |
+| 📝 Toplam İstem | **49** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-07** |
 
@@ -56,6 +56,82 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Gemini Omni Pazarlama Tanıtım Filmi İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Profesyonel bir tanıtım filmi oluşturmak için kelime bazlı metin senkronizasyonunu ve animasyon stillerini hassas bir şekilde kontrol eden, pazarlama videolarına yönelik özel bir istem.
+
+#### 📝 İstem
+
+```
+Kelime kelime, ekranda her seferinde tek bir kelime (Summarize your voice hariç): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. Her kelime farklı bir animasyon stili, mükemmel bir ritim ve tanıtım filmi havasıyla belirir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Gemini Omni Pazarlama Tanıtım Filmi İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/YanStudioX/status/2063341254612824307)**
+
+**Yazar:** [Yan](https://x.com/YanStudioX) | **Kaynak:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **Yayınlandı:** Jun 6, 2026
+
+---
+### Final Fantasy 7 Sahne Geliştirme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni Flash için hayranların isteği üzerine hazırlanan, Final Fantasy 7 karakterlerini futbol gibi belirli eylemlerle ev ortamına ekleyen bir sahne düzenleme istemi.
+
+#### 📝 İstem
+
+```
+Final Fantasy 7'den Cloud ve Tifa'yı sallanan sandalyelerde otururken sahneye ekle. Ayrıca Final Fantasy 7'den Barret ve Red XIII'ü bu sahnede futbol oynarken ekle.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="Final Fantasy 7 Sahne Geliştirme">
+
+**[🎬 Videoyu izle →](https://x.com/bevelez/status/2063316810049679643)**
+
+**Yazar:** [Brandon Edward Velez](https://x.com/bevelez) | **Kaynak:** [Link](https://x.com/bevelez/status/2063316810049679643) | **Yayınlandı:** Jun 6, 2026
+
+---
+### Sinematik Vahşi Yaşam Leopar Takip Çekimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni için tasarlanmış, sisli bir ormanda gerçekçi ışıklandırma ve çiy damlalarıyla bir leopar takip çekimi oluşturmaya yönelik yüksek kaliteli vahşi yaşam sinematografi istemi.
+
+#### 📝 İstem
+
+```
+Bir leopar şafak vakti sisli bir ormanda sessizce yürüyor. Yapraklardan çiy damlaları düşüyor, güneş ışığı ağaçların arasından süzülüyor ve kamera hayvanın yanında ilerliyor. National Geographic tarzı, ultra gerçekçi vahşi yaşam görüntüleri
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="Sinematik Vahşi Yaşam Leopar Takip Çekimi">
+
+**[🎬 Videoyu izle →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
+
+**Yazar:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **Kaynak:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **Yayınlandı:** Jun 6, 2026
+
+---
+### Pixar Tarzı Storyboard Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bu komut, Gemini Omni'nin sağlanan 8 panelli bir storyboard'u, çevresel tutarlılığı koruyarak akıcı ve 10 saniyelik Pixar tarzı bir 3D videoya dönüştürmesini sağlar.
+
+#### 📝 İstem
+
+```
+Ekli 8 panelli MATCHA LATTE STORYBOARD görselini tam referans olarak kullanın. 8 karelik storyboard'u birebir takip eden, 16:9 en boy oranında, akıcı ve tatmin edici 10 saniyelik Pixar tarzı bir 3D animasyon videosu oluşturun. Aynı sıcak ve aydınlık modern ev ortamını koruyun
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="Pixar Tarzı Storyboard Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2063108439577129359)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **Yayınlandı:** Jun 6, 2026
+
+---
 ### Animasyonlu Metin Sizzle Reel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1074,6 +1150,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-07T07:54:35.107Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-07T10:28:39.926Z</sub>
 
 </div>

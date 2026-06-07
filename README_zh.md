@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **45** |
+| 📝 提示词总数 | **49** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-06-07** |
 
@@ -56,6 +56,82 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Gemini Omni 营销宣传片提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个专为营销视频设计的提示词，可精确控制逐词文本同步和动画风格，从而制作出专业的宣传片。
+
+#### 📝 提示词
+
+```
+逐词显示，屏幕一次只出现一个单词（“Summarize your voice” 除外）：Whatsapp、Telegram、Summarize your voice、Hear、Type、HearType。每个单词都以不同的动画风格呈现，节奏完美，打造震撼的宣传片。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Gemini Omni 营销宣传片提示词">
+
+**[🎬 观看视频 →](https://x.com/YanStudioX/status/2063341254612824307)**
+
+**作者:** [Yan](https://x.com/YanStudioX) | **来源:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **发布时间:** Jun 6, 2026
+
+---
+### 《最终幻想 7》场景增强
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个应粉丝要求为 Gemini Omni Flash 设计的场景修改提示词，旨在将多位《最终幻想 7》角色融入到一个居家场景中，并添加踢足球等特定动作。
+
+#### 📝 提示词
+
+```
+将《最终幻想 7》中的 Cloud 和 Tifa 添加到摇椅上。同时，将《最终幻想 7》中的 Barret 和 Red XIII 添加到该场景中并让他们踢足球。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="《最终幻想 7》场景增强">
+
+**[🎬 观看视频 →](https://x.com/bevelez/status/2063316810049679643)**
+
+**作者:** [Brandon Edward Velez](https://x.com/bevelez) | **来源:** [Link](https://x.com/bevelez/status/2063316810049679643) | **发布时间:** Jun 6, 2026
+
+---
+### 电影级野生动物豹子追踪镜头
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个专为 Gemini Omni 设计的高保真野生动物摄影提示词，旨在生成一段在雾气缭绕的丛林中追踪豹子的镜头，包含逼真的光影效果和露珠细节。
+
+#### 📝 提示词
+
+```
+一只豹子在黎明时分静静地穿过雾气缭绕的丛林。露珠从叶片上滴落，阳光透过树木洒下，摄像机在动物身侧进行追踪拍摄。国家地理风格，超写实野生动物影像
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="电影级野生动物豹子追踪镜头">
+
+**[🎬 观看视频 →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
+
+**作者:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **来源:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **发布时间:** Jun 6, 2026
+
+---
+### 皮克斯风格故事板动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此提示词引导 Gemini Omni 将提供的 8 帧故事板动画化，制作成一段流畅的 10 秒皮克斯风格 3D 视频，并确保整个过程中的环境一致性。
+
+#### 📝 提示词
+
+```
+请使用随附的 8 帧 MATCHA LATTE STORYBOARD 图像作为精确参考。制作一段流畅、令人满意的 10 秒皮克斯风格 3D 动画视频，比例为 16:9，并严格遵循 8 镜头的分镜脚本。保持温馨明亮的现代家居环境一致性
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="皮克斯风格故事板动画">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2063108439577129359)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **发布时间:** Jun 6, 2026
+
+---
 ### 动态文字宣传片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1074,6 +1150,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-07T07:54:30.774Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-07T10:28:32.065Z</sub>
 
 </div>

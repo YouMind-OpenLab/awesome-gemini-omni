@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **45** |
+| 📝 プロンプト総数 | **49** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-06-07** |
 
@@ -56,6 +56,82 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### Gemini Omni マーケティング用シズルリールプロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 単語ごとのテキスト同期とアニメーションスタイルを精密に制御し、プロフェッショナルなシズルリールを作成するためのマーケティング動画専用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+単語ごとに、一度に 1 単語ずつ画面に表示（「Summarize your voice」を除く）：Whatsapp、Telegram、Summarize your voice、Hear、Type、HearType。各単語が異なるアニメーションスタイルで表示され、完璧なリズムでシズルリールを演出します。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Gemini Omni マーケティング用シズルリールプロンプト">
+
+**[🎬 動画を見る →](https://x.com/YanStudioX/status/2063341254612824307)**
+
+**作者:** [Yan](https://x.com/YanStudioX) | **ソース:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **公開日:** Jun 6, 2026
+
+---
+### Final Fantasy 7 シーン拡張
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni Flash 向けにファンからリクエストされたシーン修正プロンプトです。Final Fantasy 7 のキャラクターを日常的なシーンに追加し、サッカーなどの特定のアクションを行わせます。
+
+#### 📝 プロンプト
+
+```
+ロッキングチェアに座っている Final Fantasy 7 のクラウドとティファをこのシーンに追加してください。また、同じく Final Fantasy 7 のバレットとレッドXIII がサッカーをしている様子も追加してください。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="Final Fantasy 7 シーン拡張">
+
+**[🎬 動画を見る →](https://x.com/bevelez/status/2063316810049679643)**
+
+**作者:** [Brandon Edward Velez](https://x.com/bevelez) | **ソース:** [Link](https://x.com/bevelez/status/2063316810049679643) | **公開日:** Jun 6, 2026
+
+---
+### シネマティックな野生動物：ヒョウのトラッキングショット
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni 向けに設計された高精細な野生動物撮影用プロンプトです。霧深いジャングルで、リアルな光と露をまとったヒョウのトラッキングショットを生成します。
+
+#### 📝 プロンプト
+
+```
+夜明けの霧深いジャングルを静かに歩くヒョウ。葉から滴る露、木々の間から差し込む太陽の光、そして動物の横を並走するカメラワーク。ナショナルジオグラフィック風の超リアルな野生動物映像。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="シネマティックな野生動物：ヒョウのトラッキングショット">
+
+**[🎬 動画を見る →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
+
+**作者:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **ソース:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **公開日:** Jun 6, 2026
+
+---
+### ピクサー風ストーリーボードアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> このプロンプトは、提供された 8 コマのストーリーボードを、環境の一貫性を保ちながら、滑らかな 10 秒間のピクサー風 3D 動画にアニメーション化するよう Gemini Omni に指示します。
+
+#### 📝 プロンプト
+
+```
+添付の 8 コマの MATCHA LATTE STORYBOARD 画像を正確なリファレンスとして使用してください。8 つのショットで構成されるストーリーボードに忠実に従い、16:9 のアスペクト比で、滑らかで満足度の高い 10 秒間のピクサー風 3D アニメーション動画を作成してください。居心地の良い明るいモダンな家の雰囲気を維持してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="ピクサー風ストーリーボードアニメーション">
+
+**[🎬 動画を見る →](https://x.com/MrDasOnX/status/2063108439577129359)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **公開日:** Jun 6, 2026
+
+---
 ### アニメーションテキストのシズルリール
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1074,6 +1150,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-07T07:54:31.489Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-07T10:28:33.182Z</sub>
 
 </div>

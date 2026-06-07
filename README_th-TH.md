@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **45** |
+| 📝 พรอมต์ทั้งหมด | **49** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-06-07** |
 
@@ -56,6 +56,82 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### พรอมต์สำหรับวิดีโอการตลาดแบบ Sizzle Reel ด้วย Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์เฉพาะทางสำหรับวิดีโอการตลาดที่ควบคุมการซิงค์ข้อความแบบคำต่อคำและสไตล์แอนิเมชันได้อย่างแม่นยำ เพื่อสร้างวิดีโอ Sizzle Reel ระดับมืออาชีพ
+
+#### 📝 พรอมต์
+
+```
+แสดงทีละคำ โดยให้มีเพียงหนึ่งคำบนหน้าจอในแต่ละครั้ง (ยกเว้นคำว่า Summarize your voice): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType โดยแต่ละคำจะปรากฏขึ้นพร้อมสไตล์แอนิเมชันที่แตกต่างกัน มีจังหวะที่สมบูรณ์แบบ เหมาะสำหรับวิดีโอ Sizzle Reel
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="พรอมต์สำหรับวิดีโอการตลาดแบบ Sizzle Reel ด้วย Gemini Omni">
+
+**[🎬 ดูวิดีโอ →](https://x.com/YanStudioX/status/2063341254612824307)**
+
+**ผู้เขียน:** [Yan](https://x.com/YanStudioX) | **แหล่งที่มา:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **เผยแพร่เมื่อ:** Jun 6, 2026
+
+---
+### การปรับปรุงฉาก Final Fantasy 7
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่งปรับแต่งฉากที่แฟน ๆ เรียกร้องสำหรับ Gemini Omni Flash เพื่อเพิ่มตัวละครต่าง ๆ จาก Final Fantasy 7 เข้าไปในฉากชีวิตประจำวันพร้อมกิจกรรมเฉพาะ เช่น การเล่นฟุตบอล
+
+#### 📝 พรอมต์
+
+```
+เพิ่ม Cloud และ Tifa จาก Final Fantasy 7 ให้นั่งอยู่บนเก้าอี้โยก และเพิ่ม Barret กับ Red XIII จาก Final Fantasy 7 กำลังเล่นฟุตบอลในฉากนี้ด้วย
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="การปรับปรุงฉาก Final Fantasy 7">
+
+**[🎬 ดูวิดีโอ →](https://x.com/bevelez/status/2063316810049679643)**
+
+**ผู้เขียน:** [Brandon Edward Velez](https://x.com/bevelez) | **แหล่งที่มา:** [Link](https://x.com/bevelez/status/2063316810049679643) | **เผยแพร่เมื่อ:** Jun 6, 2026
+
+---
+### ช็อตติดตามเสือดาวในป่าแบบภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการถ่ายทำสารคดีสัตว์ป่าความละเอียดสูงที่ออกแบบมาสำหรับ Gemini Omni เพื่อสร้างช็อตติดตามเสือดาวในป่าที่มีหมอกหนา พร้อมแสงที่สมจริงและหยดน้ำค้าง
+
+#### 📝 พรอมต์
+
+```
+เสือดาวเดินอย่างเงียบเชียบผ่านป่าที่มีหมอกปกคลุมในยามรุ่งสาง หยดน้ำค้างร่วงหล่นจากใบไม้ แสงแดดส่องผ่านแมกไม้ และกล้องเคลื่อนที่ติดตามไปข้างๆ สัตว์ตัวนั้น สไตล์ National Geographic ฟุตเทจสัตว์ป่าที่สมจริงเป็นพิเศษ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="ช็อตติดตามเสือดาวในป่าแบบภาพยนตร์">
+
+**[🎬 ดูวิดีโอ →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
+
+**ผู้เขียน:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **แหล่งที่มา:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **เผยแพร่เมื่อ:** Jun 6, 2026
+
+---
+### แอนิเมชันสตอรีบอร์ดสไตล์ Pixar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์นี้จะช่วยให้ Gemini Omni เปลี่ยนสตอรีบอร์ด 8 ช่องที่กำหนดให้กลายเป็นวิดีโอ 3D สไตล์ Pixar ความยาว 10 วินาทีที่ลื่นไหล โดยยังคงความสม่ำเสมอของสภาพแวดล้อมไว้ตลอดทั้งคลิป
+
+#### 📝 พรอมต์
+
+```
+ใช้ภาพ MATCHA LATTE STORYBOARD แบบ 8 ช่องที่แนบมาเป็นข้อมูลอ้างอิงหลัก สร้างวิดีโอแอนิเมชัน 3D สไตล์ Pixar ที่ลื่นไหลและน่าประทับใจ ความยาว 10 วินาที ในอัตราส่วน 16:9 โดยให้ดำเนินเรื่องตามสตอรีบอร์ดทั้ง 8 ช็อตอย่างเคร่งครัด พร้อมรักษาบรรยากาศบ้านสมัยใหม่ที่อบอุ่นและสว่างสดใสเอาไว้
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="แอนิเมชันสตอรีบอร์ดสไตล์ Pixar">
+
+**[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2063108439577129359)**
+
+**ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **เผยแพร่เมื่อ:** Jun 6, 2026
+
+---
 ### วิดีโอแนะนำแบบข้อความเคลื่อนไหว (Animated Text Sizzle Reel)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1074,6 +1150,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-07T07:54:32.037Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-07T10:28:34.453Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **45** |
+| 📝 총 프롬프트 수 | **49** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-07** |
 
@@ -56,6 +56,82 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Gemini Omni 마케팅 시즐 릴(Sizzle Reel) 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 전문적인 시즐 릴 제작을 위해 단어별 텍스트 동기화와 애니메이션 스타일을 정밀하게 제어하는 마케팅 영상 특화 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+단어별로 한 번에 한 단어씩 화면에 표시 (Summarize your voice 제외): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. 각 단어는 서로 다른 애니메이션 스타일과 완벽한 리듬으로 나타나며, 시즐 릴 제작에 최적화되어 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Gemini Omni 마케팅 시즐 릴(Sizzle Reel) 프롬프트">
+
+**[🎬 비디오 보기 →](https://x.com/YanStudioX/status/2063341254612824307)**
+
+**작성자:** [Yan](https://x.com/YanStudioX) | **출처:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **게시일:** Jun 6, 2026
+
+---
+### Final Fantasy 7 장면 강화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni Flash를 위한 팬 요청 장면 수정 프롬프트로, Final Fantasy 7의 캐릭터들을 축구와 같은 특정 동작을 하는 일상적인 장면에 추가합니다.
+
+#### 📝 프롬프트
+
+```
+흔들의자에 앉아 있는 Final Fantasy 7의 Cloud와 Tifa를 이 장면에 추가해 줘. 또한 Final Fantasy 7의 Barret과 Red XIII가 축구하는 모습도 추가해 줘.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="Final Fantasy 7 장면 강화">
+
+**[🎬 비디오 보기 →](https://x.com/bevelez/status/2063316810049679643)**
+
+**작성자:** [Brandon Edward Velez](https://x.com/bevelez) | **출처:** [Link](https://x.com/bevelez/status/2063316810049679643) | **게시일:** Jun 6, 2026
+
+---
+### 영화 같은 야생 표범 추적 촬영
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni를 위해 설계된 고품질 야생 동물 촬영 프롬프트로, 안개 낀 정글 속 표범의 모습을 사실적인 조명과 이슬방울과 함께 추적 촬영하는 영상을 생성합니다.
+
+#### 📝 프롬프트
+
+```
+새벽, 안개 낀 정글을 조용히 걷는 표범. 나뭇잎에서 이슬방울이 떨어지고 나무 사이로 햇살이 비치며, 카메라는 동물의 옆을 따라 이동합니다. 내셔널 지오그래픽 스타일의 초현실적인 야생 동물 영상
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="영화 같은 야생 표범 추적 촬영">
+
+**[🎬 비디오 보기 →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
+
+**작성자:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **출처:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **게시일:** Jun 6, 2026
+
+---
+### 픽사 스타일 스토리보드 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 이 프롬프트는 Gemini Omni를 사용하여 제공된 8컷 스토리보드를 10초 분량의 매끄러운 픽사 스타일 3D 영상으로 애니메이션화하며, 전체적으로 일관된 배경을 유지하도록 안내합니다.
+
+#### 📝 프롬프트
+
+```
+첨부된 8컷 MATCHA LATTE STORYBOARD 이미지를 정확한 참조 자료로 사용하세요. 8컷 스토리보드를 그대로 따르는 16:9 비율의 매끄럽고 만족스러운 10초 분량의 픽사 스타일 3D 애니메이션 영상을 제작하세요. 아늑하고 밝은 현대적인 가정집의 분위기를 그대로 유지하세요
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="픽사 스타일 스토리보드 애니메이션">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2063108439577129359)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **게시일:** Jun 6, 2026
+
+---
 ### 애니메이션 텍스트 시즐 릴
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1074,6 +1150,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-07T07:54:31.769Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-07T10:28:34.010Z</sub>
 
 </div>

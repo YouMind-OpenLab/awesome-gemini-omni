@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **45** |
+| 📝 Tổng số prompt | **49** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-07** |
 
@@ -56,6 +56,82 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Prompt tạo video quảng cáo chuyên nghiệp với Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt chuyên dụng dành cho video marketing, giúp kiểm soát chính xác sự đồng bộ hóa văn bản từng từ một và các phong cách hoạt ảnh để tạo nên một video giới thiệu sản phẩm ấn tượng.
+
+#### 📝 Prompt
+
+```
+Từng từ một, mỗi lần chỉ hiển thị một từ trên màn hình (ngoại trừ cụm Summarize your voice): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. Mỗi từ xuất hiện với một phong cách hoạt ảnh khác nhau, nhịp điệu hoàn hảo, tạo nên một video quảng cáo đầy thu hút.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Prompt tạo video quảng cáo chuyên nghiệp với Gemini Omni">
+
+**[🎬 Xem video →](https://x.com/YanStudioX/status/2063341254612824307)**
+
+**Tác giả:** [Yan](https://x.com/YanStudioX) | **Nguồn:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **Đã xuất bản:** Jun 6, 2026
+
+---
+### Cải thiện cảnh quay Final Fantasy 7
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chỉnh sửa cảnh quay theo yêu cầu của người hâm mộ dành cho Gemini Omni Flash, giúp thêm các nhân vật trong Final Fantasy 7 vào một khung cảnh sinh hoạt đời thường với các hành động cụ thể như chơi bóng đá.
+
+#### 📝 Prompt
+
+```
+Thêm Cloud và Tifa từ Final Fantasy 7 vào những chiếc ghế bập bênh đang ngồi. Ngoài ra, hãy thêm Barret và Red XIII từ Final Fantasy 7 đang chơi bóng đá vào cảnh này.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="Cải thiện cảnh quay Final Fantasy 7">
+
+**[🎬 Xem video →](https://x.com/bevelez/status/2063316810049679643)**
+
+**Tác giả:** [Brandon Edward Velez](https://x.com/bevelez) | **Nguồn:** [Link](https://x.com/bevelez/status/2063316810049679643) | **Đã xuất bản:** Jun 6, 2026
+
+---
+### Cảnh quay theo dấu báo hoa mai phong cách điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) quay phim thế giới động vật độ phân giải cao được thiết kế cho Gemini Omni nhằm tạo ra cảnh quay theo dấu một con báo hoa mai trong khu rừng đầy sương mù với ánh sáng chân thực và những giọt sương.
+
+#### 📝 Prompt
+
+```
+Một con báo hoa mai lặng lẽ bước đi trong khu rừng đầy sương mù vào lúc bình minh. Những giọt sương rơi từ trên lá, ánh nắng xuyên qua những tán cây và máy quay di chuyển theo sát con vật. Phong cách National Geographic, thước phim thế giới động vật siêu thực
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="Cảnh quay theo dấu báo hoa mai phong cách điện ảnh">
+
+**[🎬 Xem video →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
+
+**Tác giả:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **Nguồn:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **Đã xuất bản:** Jun 6, 2026
+
+---
+### Hoạt hình Storyboard phong cách Pixar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt này hướng dẫn Gemini Omni chuyển đổi storyboard 8 khung hình được cung cấp thành video 3D phong cách Pixar mượt mà dài 10 giây, đảm bảo tính nhất quán của môi trường xuyên suốt.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh MATCHA LATTE STORYBOARD 8 khung hình được đính kèm làm tài liệu tham khảo chính xác. Tạo một video hoạt hình 3D phong cách Pixar mượt mà, mãn nhãn dài 10 giây với tỷ lệ khung hình 16:9, bám sát storyboard 8 cảnh. Duy trì bối cảnh ngôi nhà hiện đại, ấm cúng và tươi sáng
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="Hoạt hình Storyboard phong cách Pixar">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2063108439577129359)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **Đã xuất bản:** Jun 6, 2026
+
+---
 ### Video giới thiệu văn bản chuyển động
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1074,6 +1150,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-07T07:54:32.312Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-07T10:28:34.955Z</sub>
 
 </div>

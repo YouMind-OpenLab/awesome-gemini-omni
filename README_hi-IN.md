@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **45** |
+| 📝 कुल प्रॉम्पट्स | **49** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-06-07** |
 
@@ -56,6 +56,82 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Gemini Omni मार्केटिंग सिज़ल रील प्रॉम्प्ट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> मार्केटिंग वीडियो के लिए एक विशेष प्रॉम्प्ट जो पेशेवर सिज़ल रील बनाने के लिए शब्द-दर-शब्द टेक्स्ट सिंक्रोनाइज़ेशन और एनिमेटेड शैलियों को सटीक रूप से नियंत्रित करता है।
+
+#### 📝 प्रॉम्पट
+
+```
+शब्द-दर-शब्द, स्क्रीन पर एक बार में एक शब्द (Summarize your voice को छोड़कर): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType। प्रत्येक शब्द एक अलग एनिमेटेड शैली, सटीक लय और सिज़ल रील के साथ दिखाई देता है।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Gemini Omni मार्केटिंग सिज़ल रील प्रॉम्प्ट">
+
+**[🎬 वीडियो देखें →](https://x.com/YanStudioX/status/2063341254612824307)**
+
+**लेखक:** [Yan](https://x.com/YanStudioX) | **स्रोत:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **प्रकाशित:** Jun 6, 2026
+
+---
+### Final Fantasy 7 सीन एन्हांसमेंट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni Flash के लिए प्रशंसकों द्वारा अनुरोधित एक सीन मॉडिफिकेशन प्रॉम्प्ट, जो Final Fantasy 7 के विभिन्न पात्रों को फुटबॉल खेलने जैसी विशिष्ट गतिविधियों के साथ एक घरेलू दृश्य में जोड़ता है।
+
+#### 📝 प्रॉम्पट
+
+```
+Final Fantasy 7 के Cloud और Tifa को रॉकिंग कुर्सियों पर बैठाएं। साथ ही, इस सीन में Final Fantasy 7 के Barret और Red XIII को फुटबॉल खेलते हुए जोड़ें।
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="Final Fantasy 7 सीन एन्हांसमेंट">
+
+**[🎬 वीडियो देखें →](https://x.com/bevelez/status/2063316810049679643)**
+
+**लेखक:** [Brandon Edward Velez](https://x.com/bevelez) | **स्रोत:** [Link](https://x.com/bevelez/status/2063316810049679643) | **प्रकाशित:** Jun 6, 2026
+
+---
+### सिनेमैटिक वाइल्डलाइफ लेपर्ड ट्रैकिंग शॉट
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni के लिए डिज़ाइन किया गया एक हाई-फिडेलिटी वाइल्डलाइफ सिनेमैटोग्राफी प्रॉम्प्ट, जो धुंधले जंगल में तेंदुए का ट्रैकिंग शॉट बनाने के लिए है, जिसमें यथार्थवादी लाइटिंग और ओस की बूंदें शामिल हैं।
+
+#### 📝 प्रॉम्पट
+
+```
+एक तेंदुआ सुबह के समय धुंधले जंगल में चुपचाप चल रहा है। पत्तियों से ओस की बूंदें गिर रही हैं, पेड़ों के बीच से सूरज की रोशनी छनकर आ रही है, और कैमरा जानवर के साथ-साथ चल रहा है। नेशनल ज्योग्राफिक स्टाइल, अल्ट्रा-रियलिस्टिक वाइल्डलाइफ फुटेज
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="सिनेमैटिक वाइल्डलाइफ लेपर्ड ट्रैकिंग शॉट">
+
+**[🎬 वीडियो देखें →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
+
+**लेखक:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **स्रोत:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **प्रकाशित:** Jun 6, 2026
+
+---
+### पिक्सर स्टाइल स्टोरीबोर्ड एनीमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> यह प्रॉम्प्ट Gemini Omni को एक दिए गए 8-पैनल स्टोरीबोर्ड को 10-सेकंड के स्मूथ पिक्सर-स्टाइल 3D वीडियो में एनिमेट करने के लिए निर्देशित करता है, जो पूरी प्रक्रिया के दौरान पर्यावरणीय निरंतरता बनाए रखता है।
+
+#### 📝 प्रॉम्पट
+
+```
+संलग्न 8-पैनल MATCHA LATTE STORYBOARD इमेज का सटीक संदर्भ के रूप में उपयोग करें। 16:9 आस्पेक्ट रेशियो में 10-सेकंड का एक स्मूथ और संतोषजनक पिक्सर-स्टाइल 3D एनिमेटेड वीडियो बनाएं जो 8-शॉट स्टोरीबोर्ड का पूरी तरह से पालन करे। उसी आरामदायक और आधुनिक घर के माहौल को बनाए रखें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="पिक्सर स्टाइल स्टोरीबोर्ड एनीमेशन">
+
+**[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2063108439577129359)**
+
+**लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **प्रकाशित:** Jun 6, 2026
+
+---
 ### एनिमेटेड टेक्स्ट सिज़ल रील
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1074,6 +1150,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-07T07:54:32.610Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-07T10:28:35.831Z</sub>
 
 </div>

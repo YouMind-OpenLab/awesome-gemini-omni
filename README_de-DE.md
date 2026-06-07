@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **45** |
+| 📝 Gesamtanzahl Prompts | **49** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-07** |
 
@@ -56,6 +56,82 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Gemini Omni Marketing Sizzle Reel Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein spezialisierter Prompt für Marketing-Videos, der eine präzise Wort-für-Wort-Synchronisation und animierte Stile steuert, um ein professionelles Sizzle Reel zu erstellen.
+
+#### 📝 Prompt
+
+```
+Wort für Wort, jeweils ein Wort auf dem Bildschirm (außer bei „Summarize your voice“): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. Jedes Wort erscheint mit einem anderen animierten Stil, perfektem Rhythmus, Sizzle Reel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Gemini Omni Marketing Sizzle Reel Prompt">
+
+**[🎬 Video ansehen →](https://x.com/YanStudioX/status/2063341254612824307)**
+
+**Autor:** [Yan](https://x.com/YanStudioX) | **Quelle:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **Veröffentlicht:** Jun 6, 2026
+
+---
+### Final Fantasy 7 Szenenverbesserung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein von Fans angeforderter Szenen-Modifikations-Prompt für Gemini Omni Flash, der verschiedene Charaktere aus Final Fantasy 7 in eine häusliche Szene einfügt, inklusive spezifischer Aktionen wie Fußballspielen.
+
+#### 📝 Prompt
+
+```
+Füge Cloud und Tifa aus Final Fantasy 7 hinzu, wie sie in den Schaukelstühlen sitzen. Füge dieser Szene außerdem Barret und Red XIII aus Final Fantasy 7 hinzu, die Fußball spielen.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="Final Fantasy 7 Szenenverbesserung">
+
+**[🎬 Video ansehen →](https://x.com/bevelez/status/2063316810049679643)**
+
+**Autor:** [Brandon Edward Velez](https://x.com/bevelez) | **Quelle:** [Link](https://x.com/bevelez/status/2063316810049679643) | **Veröffentlicht:** Jun 6, 2026
+
+---
+### Filmreife Wildlife-Aufnahme: Leopard im Tracking-Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochauflösender Wildlife-Cinematography-Prompt für Gemini Omni, um eine Tracking-Aufnahme eines Leoparden in einem nebligen Dschungel mit realistischer Beleuchtung und Tautropfen zu generieren.
+
+#### 📝 Prompt
+
+```
+Ein Leopard schreitet lautlos bei Morgengrauen durch einen nebligen Dschungel. Tautropfen fallen von den Blättern, Sonnenlicht fällt durch die Bäume und die Kamera folgt dem Tier in einer seitlichen Tracking-Aufnahme. National Geographic-Stil, ultrarealistisches Wildlife-Filmmaterial
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="Filmreife Wildlife-Aufnahme: Leopard im Tracking-Shot">
+
+**[🎬 Video ansehen →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
+
+**Autor:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **Quelle:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **Veröffentlicht:** Jun 6, 2026
+
+---
+### Storyboard-Animation im Pixar-Stil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dieser Prompt leitet Gemini Omni dazu an, ein bereitgestelltes 8-Panel-Storyboard in ein flüssiges, 10-sekündiges 3D-Video im Pixar-Stil zu animieren, wobei die Konsistenz der Umgebung durchgehend gewahrt bleibt.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das beigefügte 8-Panel-MATCHA LATTE STORYBOARD-Bild als exakte Referenz. Erstellen Sie ein flüssiges, ansprechendes 10-sekündiges 3D-Animationsvideo im Pixar-Stil im 16:9-Format, das dem 8-Shot-Storyboard exakt folgt. Bewahren Sie dabei das gemütliche, helle und moderne Zuhause.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="Storyboard-Animation im Pixar-Stil">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2063108439577129359)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **Veröffentlicht:** Jun 6, 2026
+
+---
 ### Animiertes Text-Sizzle-Reel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1074,6 +1150,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-07T07:54:33.435Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-07T10:28:37.412Z</sub>
 
 </div>

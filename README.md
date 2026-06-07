@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **45** |
+| 📝 Total Prompts | **49** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-07** |
 
@@ -56,6 +56,82 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Gemini Omni Marketing Sizzle Reel Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A specialized prompt for marketing videos that precisely controls word-by-word text synchronization and animated styles to create a professional sizzle reel.
+
+#### 📝 Prompt
+
+```
+Word by word, one word on screen at a time (except for Summarize your voice): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. Each word appears with a different animated style, perfect rhythm, sizzle reel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Gemini Omni Marketing Sizzle Reel Prompt">
+
+**[🎬 Watch Video →](https://x.com/YanStudioX/status/2063341254612824307)**
+
+**Author:** [Yan](https://x.com/YanStudioX) | **Source:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **Published:** Jun 6, 2026
+
+---
+### Final Fantasy 7 Scene Enhancement
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fan-requested scene modification prompt for Gemini Omni Flash that adds various Final Fantasy 7 characters into a domestic scene with specific actions like soccer.
+
+#### 📝 Prompt
+
+```
+Add Cloud and Tifa from Final Fantasy 7 to the rocking chairs sitting. also add Barret and Red XIII from Final Fantasy 7 playing soccer to this scene.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="Final Fantasy 7 Scene Enhancement">
+
+**[🎬 Watch Video →](https://x.com/bevelez/status/2063316810049679643)**
+
+**Author:** [Brandon Edward Velez](https://x.com/bevelez) | **Source:** [Link](https://x.com/bevelez/status/2063316810049679643) | **Published:** Jun 6, 2026
+
+---
+### Cinematic Wildlife Leopard Tracking Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-fidelity wildlife cinematography prompt designed for Gemini Omni to generate a tracking shot of a leopard in a misty jungle with realistic lighting and dewdrops.
+
+#### 📝 Prompt
+
+```
+A leopard silently walks through a misty jungle at dawn. Dew drops fall from leaves, sunlight filters through the trees, and the camera tracks beside the animal. National Geographic style, ultra-realistic wildlife footage
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="Cinematic Wildlife Leopard Tracking Shot">
+
+**[🎬 Watch Video →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
+
+**Author:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **Source:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **Published:** Jun 6, 2026
+
+---
+### Pixar Style Storyboard Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> This prompt guides Gemini Omni to animate a provided 8-panel storyboard into a fluid 10-second Pixar-style 3D video, maintaining environmental consistency throughout.
+
+#### 📝 Prompt
+
+```
+Use the attached 8-panel MATCHA LATTE STORYBOARD image as the exact reference. Create a smooth, satisfying 10-second Pixar-style 3D animated video in 16:9 aspect ratio that follows the 8-shot storyboard exactly. Preserve the same cozy bright modern home
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="Pixar Style Storyboard Animation">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2063108439577129359)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **Published:** Jun 6, 2026
+
+---
 ### Animated Text Sizzle Reel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1053,6 +1129,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T07:54:30.437Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-07T10:28:31.284Z</sub>
 
 </div>

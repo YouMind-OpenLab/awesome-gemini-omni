@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **45** |
+| 📝 提示詞總數 | **49** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-07** |
 
@@ -56,6 +56,82 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Gemini Omni 行銷宣傳影片提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 專為行銷影片設計的專業提示詞，可精準控制逐字文字同步與動畫風格，打造專業級的宣傳短片。
+
+#### 📝 提示詞
+
+```
+逐字顯示，一次顯示一個單字（「Summarize your voice」除外）：Whatsapp、Telegram、Summarize your voice、Hear、Type、HearType。每個單字皆以不同的動畫風格呈現，節奏完美，適合製作宣傳短片。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Gemini Omni 行銷宣傳影片提示詞">
+
+**[🎬 觀看視頻 →](https://x.com/YanStudioX/status/2063341254612824307)**
+
+**作者:** [Yan](https://x.com/YanStudioX) | **來源:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **發布時間:** Jun 6, 2026
+
+---
+### Final Fantasy 7 場景增強
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個應粉絲要求為 Gemini Omni Flash 設計的場景修改提示詞，旨在將多位 Final Fantasy 7 角色加入到居家場景中，並執行如踢足球等特定動作。
+
+#### 📝 提示詞
+
+```
+將 Final Fantasy 7 的 Cloud 和 Tifa 加入到搖椅上。同時，將 Final Fantasy 7 的 Barret 和 Red XIII 加入到此場景中進行踢足球的動作。
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="Final Fantasy 7 場景增強">
+
+**[🎬 觀看視頻 →](https://x.com/bevelez/status/2063316810049679643)**
+
+**作者:** [Brandon Edward Velez](https://x.com/bevelez) | **來源:** [Link](https://x.com/bevelez/status/2063316810049679643) | **發布時間:** Jun 6, 2026
+
+---
+### 電影級野生動物花豹追蹤鏡頭
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一款為 Gemini Omni 設計的高保真野生動物攝影提示詞，旨在生成一段花豹在霧氣繚繞的叢林中行走的追蹤鏡頭，並呈現逼真的光影效果與露珠細節。
+
+#### 📝 提示詞
+
+```
+一隻花豹在黎明時分悄無聲息地穿過霧氣繚繞的叢林。露珠從葉片上滴落，陽光透過樹木灑下，攝影機在動物身旁進行追蹤拍攝。國家地理頻道風格，超逼真野生動物影像
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="電影級野生動物花豹追蹤鏡頭">
+
+**[🎬 觀看視頻 →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
+
+**作者:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **來源:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **發布時間:** Jun 6, 2026
+
+---
+### 皮克斯風格分鏡動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此提示詞引導 Gemini Omni 將提供的 8 格分鏡腳本製作成流暢的 10 秒皮克斯風格 3D 影片，並確保整體環境的一致性。
+
+#### 📝 提示詞
+
+```
+請使用隨附的 8 格 MATCHA LATTE STORYBOARD 圖片作為精確參考。製作一段流暢且令人滿意的 10 秒皮克斯風格 3D 動畫影片，比例為 16:9，並嚴格遵循該 8 格分鏡腳本。請維持與原圖一致的溫馨明亮現代居家環境
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="皮克斯風格分鏡動畫">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2063108439577129359)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **發布時間:** Jun 6, 2026
+
+---
 ### 動畫文字快閃影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1074,6 +1150,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-07T07:54:31.053Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-07T10:28:32.578Z</sub>
 
 </div>
