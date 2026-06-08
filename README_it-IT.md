@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **49** |
+| 📝 Totale prompt | **52** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-08** |
 
@@ -56,6 +56,63 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Sequenza spaventosa di arrampicata sul muro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video a tema horror di una donna che striscia in modo innaturale lungo un muro verso la telecamera.
+
+#### 📝 Prompt
+
+```
+Figura femminile inquietante e ultra-realistica che si aggrappa al muro, a metà tra l'orizzontale e il verticale, colonna vertebrale inarcata in modo innaturale, lunghi capelli neri aggrovigliati che ricadono in avanti oscurando parzialmente il volto, le ciocche si spostano leggermente rivelando uno scorcio di un occhio bianco latte che fissa verso il basso, arti contorti in modo innaturale, gomiti piegati all'indietro, dita troppo lunghe che afferrano il cemento come uncini, atmosfera cupa e tenebrosa, contrasto elevato, inquietante, realismo horror. Una donna spaventosa striscia sul muro verso la telecamera. La telecamera segue il suo movimento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="Sequenza spaventosa di arrampicata sul muro">
+
+**[🎬 Guarda il video →](https://x.com/rahulnanda86/status/2063684503282016703)**
+
+**Autore:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fonte:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Pubblicato:** Jun 7, 2026
+
+---
+### Panoramica di una città fantasy sottomarina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una panoramica cinematografica che mostra una transizione fluida da una città urbana a un elaborato mondo fantasy sottomarino.
+
+#### 📝 Prompt
+
+```
+Mentre la telecamera ruota verso la città e scende, vediamo gli edifici proseguire nel sottosuolo e sott'acqua come una continuazione fantastica, elaborata e senza soluzione di continuità di una città fantasy segreta.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="Panoramica di una città fantasy sottomarina">
+
+**[🎬 Guarda il video →](https://x.com/Team_Greenfield/status/2063646327523975345)**
+
+**Autore:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Fonte:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **Pubblicato:** Jun 7, 2026
+
+---
+### Reel di testo animato a ritmo di musica
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt per Gemini Omni per creare un sizzle reel elegante e sperimentale in cui il testo appare parola per parola con animazioni uniche perfettamente sincronizzate con il ritmo.
+
+#### 📝 Prompt
+
+```
+Mostra le seguenti parole sullo schermo una alla volta: 'Lo sapevi?' / 'Gemini Omni' / 'Questo modello' / 'Anche in giapponese' / 'è davvero' / 'buono!?'. Ogni parola deve apparire con un'animazione unica e svilupparsi a un ritmo fluido, perfettamente sincronizzato con la base musicale. Il risultato finale deve essere un breve sizzle reel ad alta energia, elegante e sperimentale ma accessibile, che metta in risalto la qualità dell'espressione testuale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="Reel di testo animato a ritmo di musica">
+
+**[🎬 Guarda il video →](https://x.com/takamasa045/status/2063442373917446515)**
+
+**Autore:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **Fonte:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **Pubblicato:** Jun 7, 2026
+
+---
 ### Prompt per Sizzle Reel di Marketing con Gemini Omni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1150,6 +1207,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-08T08:56:03.529Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-08T15:50:31.090Z</sub>
 
 </div>

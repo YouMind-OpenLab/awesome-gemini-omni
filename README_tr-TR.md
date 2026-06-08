@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **49** |
+| 📝 Toplam İstem | **52** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-08** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Korkutucu Duvar Tırmanışı Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadının duvarda doğal olmayan bir şekilde kameraya doğru sürünmesini konu alan korku temalı bir video.
+
+#### 📝 İstem
+
+```
+Ultra gerçekçi, ürkütücü kadın figürü duvara tutunmuş, yarı yatay yarı dikey, omurgası doğal olmayan bir şekilde bükülmüş, uzun karışık siyah saçları öne doğru sarkarak yüzünü kısmen kapatıyor, saç telleri hafifçe hareket ederek aşağıya bakan süt beyazı bir gözü açığa çıkarıyor, uzuvları doğal olmayan bir şekilde bükülmüş, dirsekleri geriye doğru kıvrılmış, parmakları çok uzun, betonu kanca gibi kavrıyor, karanlık ve kasvetli atmosfer, yüksek kontrast, rahatsız edici, korku gerçekçiliği. Korkutucu kadın duvarda kameraya doğru sürünüyor. Kamera hareketini takip ediyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="Korkutucu Duvar Tırmanışı Sekansı">
+
+**[🎬 Videoyu izle →](https://x.com/rahulnanda86/status/2063684503282016703)**
+
+**Yazar:** [Rahul Nanda](https://x.com/rahulnanda86) | **Kaynak:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Yayınlandı:** Jun 7, 2026
+
+---
+### Sualtı Fantastik Şehir Panoraması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Modern bir şehirden karmaşık bir sualtı fantastik dünyasına kesintisiz geçişi gösteren sinematik bir kamera hareketi.
+
+#### 📝 İstem
+
+```
+Kamera şehre ve aşağıya doğru hareket ettikçe, binaların yer altında ve suyun altında gizli bir fantastik şehrin ayrıntılı ama kesintisiz bir devamı olarak uzandığını görüyoruz.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="Sualtı Fantastik Şehir Panoraması">
+
+**[🎬 Videoyu izle →](https://x.com/Team_Greenfield/status/2063646327523975345)**
+
+**Yazar:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Kaynak:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **Yayınlandı:** Jun 7, 2026
+
+---
+### Müzikle Senkronize Hareketli Metin Reels
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Metinlerin kelime kelime, benzersiz animasyonlarla ve ritimle mükemmel bir şekilde senkronize olarak belirdiği, şık ve deneysel bir tanıtım videosu (sizzle reel) oluşturmaya yönelik bir Gemini Omni istemi.
+
+#### 📝 İstem
+
+```
+Aşağıdaki kelimeleri ekranda sırasıyla göster: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?'. Her kelime benzersiz bir animasyonla belirmeli ve ritimle mükemmel şekilde senkronize, akıcı bir tempoda gelişmelidir. Genel sonuç; metin ifadesinin kalitesini vurgulayan, şık, deneysel ancak anlaşılır, kısa ve yüksek enerjili bir tanıtım videosu olmalıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="Müzikle Senkronize Hareketli Metin Reels">
+
+**[🎬 Videoyu izle →](https://x.com/takamasa045/status/2063442373917446515)**
+
+**Yazar:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **Kaynak:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **Yayınlandı:** Jun 7, 2026
+
+---
 ### Gemini Omni Pazarlama Tanıtım Filmi İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1150,6 +1207,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-08T08:56:04.756Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-08T15:50:32.055Z</sub>
 
 </div>

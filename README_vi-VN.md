@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **49** |
+| 📝 Tổng số prompt | **52** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-08** |
 
@@ -56,6 +56,63 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Chuỗi cảnh bò trên tường đầy ám ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video chủ đề kinh dị về một người phụ nữ đang bò một cách bất thường dọc theo bức tường về phía máy quay.
+
+#### 📝 Prompt
+
+```
+Hình ảnh người phụ nữ kỳ quái, siêu thực đang bám vào tường, tư thế nửa nằm ngang, nửa thẳng đứng, cột sống cong một cách phi tự nhiên, mái tóc đen dài rối bời xõa về phía trước che khuất một phần khuôn mặt, những lọn tóc khẽ dịch chuyển để lộ thoáng qua một con mắt trắng đục đang nhìn xuống, các chi vặn vẹo bất thường, khuỷu tay gập ngược, những ngón tay quá dài bám chặt vào bề mặt bê tông như những chiếc móc, bầu không khí u tối và ảm đạm, độ tương phản cao, gây bất an, phong cách kinh dị chân thực. Người phụ nữ đáng sợ bò trên tường về phía máy quay. Máy quay di chuyển theo chuyển động của cô ấy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="Chuỗi cảnh bò trên tường đầy ám ảnh">
+
+**[🎬 Xem video →](https://x.com/rahulnanda86/status/2063684503282016703)**
+
+**Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Đã xuất bản:** Jun 7, 2026
+
+---
+### Cảnh quay lia toàn cảnh thành phố giả tưởng dưới nước
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một cảnh quay lia máy điện ảnh cho thấy sự chuyển cảnh mượt mà từ một thành phố đô thị sang một thế giới giả tưởng dưới nước đầy công phu.
+
+#### 📝 Prompt
+
+```
+Khi máy quay lia về phía thành phố và hướng xuống dưới, chúng ta thấy các tòa nhà tiếp tục kéo dài xuống lòng đất và dưới nước, tạo thành một sự tiếp nối liền mạch, công phu và đầy chất giả tưởng của một thành phố bí mật.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="Cảnh quay lia toàn cảnh thành phố giả tưởng dưới nước">
+
+**[🎬 Xem video →](https://x.com/Team_Greenfield/status/2063646327523975345)**
+
+**Tác giả:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Nguồn:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **Đã xuất bản:** Jun 7, 2026
+
+---
+### Video ngắn với hiệu ứng chữ chuyển động theo nhịp
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh Gemini Omni giúp tạo video giới thiệu đầy phong cách và thử nghiệm, nơi văn bản xuất hiện theo từng từ với các hiệu ứng chuyển động độc đáo được đồng bộ hoàn hảo với nhịp điệu.
+
+#### 📝 Prompt
+
+```
+Hiển thị lần lượt các từ sau trên màn hình: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?'. Mỗi từ cần xuất hiện với một hiệu ứng chuyển động độc đáo và phát triển theo nhịp độ mượt mà, được đồng bộ hoàn hảo với âm nhạc. Kết quả tổng thể nên là một video giới thiệu ngắn, tràn đầy năng lượng, mang phong cách thử nghiệm nhưng vẫn dễ tiếp cận, làm nổi bật chất lượng của khả năng hiển thị văn bản.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="Video ngắn với hiệu ứng chữ chuyển động theo nhịp">
+
+**[🎬 Xem video →](https://x.com/takamasa045/status/2063442373917446515)**
+
+**Tác giả:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **Nguồn:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **Đã xuất bản:** Jun 7, 2026
+
+---
 ### Prompt tạo video quảng cáo chuyên nghiệp với Gemini Omni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1150,6 +1207,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-08T08:56:00.441Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-08T15:50:28.612Z</sub>
 
 </div>

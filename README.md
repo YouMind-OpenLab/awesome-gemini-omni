@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **49** |
+| 📝 Total Prompts | **52** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-08** |
 
@@ -56,6 +56,63 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Scary Wall Crawl Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A horror-themed video of a woman crawling unnaturally along a wall toward the camera.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic, eerie female figure clinging to the wall, half-horizontal, half-upright, spine arched unnaturally, long tangled black hair hanging forward partially obscuring her face, strands shift slightly revealing a glimpse of one milky-white eye staring downward, limbs twisted unnaturally, elbows bending backward, fingers too long, gripping concrete like hooks, dark and moody atmosphere, high contrast, unsettling, horror realism. Scary woman crawls on wall towards camera. Camera tracks its motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="Scary Wall Crawl Sequence">
+
+**[🎬 Watch Video →](https://x.com/rahulnanda86/status/2063684503282016703)**
+
+**Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Published:** Jun 7, 2026
+
+---
+### Underwater Fantasy City Pan
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic camera pan showing a seamless transition from an urban city to an elaborate underwater fantasy world.
+
+#### 📝 Prompt
+
+```
+As the camera pans toward the city and down, we see the buildings continue underground and underwater as a fantastical, elaborate, but seamless continuation of a secret fantasy city.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="Underwater Fantasy City Pan">
+
+**[🎬 Watch Video →](https://x.com/Team_Greenfield/status/2063646327523975345)**
+
+**Author:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Source:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **Published:** Jun 7, 2026
+
+---
+### Animated Beat-Synced Text Reel
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A Gemini Omni prompt for creating a stylish and experimental sizzle reel where text appears word-by-word with unique animations synced perfectly to a beat.
+
+#### 📝 Prompt
+
+```
+Display the following words on the screen one by one: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?'. Each word should appear with a unique animation and develop at a smooth tempo perfectly synced with the beat. The overall result should be a short, high-energy sizzle reel that is stylish and experimental yet accessible, highlighting the quality of the text expression.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="Animated Beat-Synced Text Reel">
+
+**[🎬 Watch Video →](https://x.com/takamasa045/status/2063442373917446515)**
+
+**Author:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **Source:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **Published:** Jun 7, 2026
+
+---
 ### Gemini Omni Marketing Sizzle Reel Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -132,11 +189,11 @@ Use the attached 8-panel MATCHA LATTE STORYBOARD image as the exact reference. C
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **Published:** Jun 6, 2026
 
 ---
-### Animated Text Sizzle Reel
+### Gemini Omni Dynamic Text Sizzle Reel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt designed for generating videos where text appears word-by-word with varied animations, perfectly synced to a rhythmic pace.
+> A prompt for Gemini Omni that creates a high-energy video where text appears word-by-word with varied animated styles synced perfectly to a rhythm.
 
 #### 📝 Prompt
 
@@ -144,7 +201,7 @@ Use the attached 8-panel MATCHA LATTE STORYBOARD image as the exact reference. C
 Word by word, one word on the screen at a time: did, you, know, that, this, model, can, do, pretty, good, text!? each word appears with a different animated style, perfect pacing to a rhythm, sizzle reel.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Animated Text Sizzle Reel">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Gemini Omni Dynamic Text Sizzle Reel">
 
 **[🎬 Watch Video →](https://x.com/Google/status/2062925430290526486)**
 
@@ -1129,6 +1186,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-08T08:55:57.557Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-08T15:50:26.387Z</sub>
 
 </div>

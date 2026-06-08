@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **49** |
+| 📝 총 프롬프트 수 | **52** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-08** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 공포스러운 벽 기어오르기 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 한 여성이 벽을 따라 부자연스럽게 카메라를 향해 기어오는 공포 테마의 영상입니다.
+
+#### 📝 프롬프트
+
+```
+초현실적인, 기괴한 여성 형상이 벽에 매달려 있음, 반은 수평이고 반은 수직인 자세, 척추가 부자연스럽게 휘어짐, 길고 헝클어진 검은 머리카락이 앞으로 늘어져 얼굴을 부분적으로 가림, 머리카락 사이로 아래를 응시하는 우윳빛 흰 눈이 살짝 보임, 사지가 부자연스럽게 뒤틀림, 팔꿈치가 뒤로 꺾임, 손가락이 지나치게 길어 갈고리처럼 콘크리트를 움켜쥠, 어둡고 음산한 분위기, 높은 대비, 불안함, 호러 리얼리즘. 공포스러운 여성이 벽을 타고 카메라를 향해 기어옴. 카메라가 움직임을 추적함.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="공포스러운 벽 기어오르기 시퀀스">
+
+**[🎬 비디오 보기 →](https://x.com/rahulnanda86/status/2063684503282016703)**
+
+**작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **게시일:** Jun 7, 2026
+
+---
+### 수중 판타지 도시 팬(Pan) 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 현대적인 도시에서 정교한 수중 판타지 세계로 매끄럽게 전환되는 시네마틱 카메라 팬(Pan) 영상입니다.
+
+#### 📝 프롬프트
+
+```
+카메라가 도시를 향해 아래로 이동함에 따라, 건물들이 지하와 수중으로 이어지며 비밀스러운 판타지 도시로 정교하고 매끄럽게 연결되는 모습을 볼 수 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="수중 판타지 도시 팬(Pan) 영상">
+
+**[🎬 비디오 보기 →](https://x.com/Team_Greenfield/status/2063646327523975345)**
+
+**작성자:** [Greenfield Team!](https://x.com/Team_Greenfield) | **출처:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **게시일:** Jun 7, 2026
+
+---
+### 비트에 맞춰 애니메이션되는 텍스트 릴
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 비트에 맞춰 완벽하게 동기화된 독특한 애니메이션으로 텍스트가 단어별로 나타나는 스타일리시하고 실험적인 시즐 릴을 만들기 위한 Gemini Omni 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+다음 단어들을 화면에 하나씩 표시하세요: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?'. 각 단어는 고유한 애니메이션과 함께 나타나야 하며, 비트에 완벽하게 동기화된 부드러운 템포로 전개되어야 합니다. 전체적인 결과물은 텍스트 표현의 품질을 강조하면서도 스타일리시하고 실험적이며 접근하기 쉬운 짧고 에너지가 넘치는 시즐 릴이어야 합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="비트에 맞춰 애니메이션되는 텍스트 릴">
+
+**[🎬 비디오 보기 →](https://x.com/takamasa045/status/2063442373917446515)**
+
+**작성자:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **출처:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **게시일:** Jun 7, 2026
+
+---
 ### Gemini Omni 마케팅 시즐 릴(Sizzle Reel) 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1150,6 +1207,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-08T08:55:59.319Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-08T15:50:27.993Z</sub>
 
 </div>

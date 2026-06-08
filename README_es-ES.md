@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **49** |
+| 📝 Total de prompts | **52** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-06-08** |
 
@@ -56,6 +56,63 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Secuencia de terror: mujer trepando por la pared
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video de terror de una mujer arrastrándose de forma antinatural por una pared hacia la cámara.
+
+#### 📝 Prompt
+
+```
+Figura femenina ultrarrealista y espeluznante aferrada a la pared, en una posición semihorizontal y semivertical, con la columna arqueada de forma antinatural; largo cabello negro y enredado que cae hacia adelante ocultando parcialmente su rostro, mechones que se desplazan ligeramente revelando un vistazo de un ojo blanco lechoso mirando hacia abajo, extremidades retorcidas de forma antinatural, codos doblados hacia atrás, dedos demasiado largos que se aferran al hormigón como ganchos, atmósfera oscura y sombría, alto contraste, inquietante, realismo de terror. Una mujer aterradora se arrastra por la pared hacia la cámara. La cámara sigue su movimiento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="Secuencia de terror: mujer trepando por la pared">
+
+**[🎬 Ver video →](https://x.com/rahulnanda86/status/2063684503282016703)**
+
+**Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Publicado:** Jun 7, 2026
+
+---
+### Panorámica de ciudad de fantasía submarina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un movimiento de cámara cinematográfico que muestra una transición fluida desde una ciudad urbana hacia un elaborado mundo de fantasía submarino.
+
+#### 📝 Prompt
+
+```
+A medida que la cámara se desplaza hacia la ciudad y desciende, vemos cómo los edificios continúan bajo tierra y bajo el agua como una continuación fantástica, elaborada y fluida de una ciudad secreta de fantasía.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="Panorámica de ciudad de fantasía submarina">
+
+**[🎬 Ver video →](https://x.com/Team_Greenfield/status/2063646327523975345)**
+
+**Autor:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Fuente:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **Publicado:** Jun 7, 2026
+
+---
+### Reel de texto animado sincronizado con el ritmo
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de Gemini Omni para crear un reel promocional elegante y experimental, donde el texto aparece palabra por palabra con animaciones únicas perfectamente sincronizadas con el ritmo.
+
+#### 📝 Prompt
+
+```
+Muestra las siguientes palabras en la pantalla una por una: '¿Sabías que?' / 'Gemini Omni' / 'Este modelo' / 'Japonés también' / 'es bastante' / 'bueno!?'. Cada palabra debe aparecer con una animación única y desarrollarse a un ritmo fluido, perfectamente sincronizado con la música. El resultado final debe ser un reel corto y dinámico, elegante y experimental, pero accesible, que destaque la calidad de la expresión textual.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="Reel de texto animado sincronizado con el ritmo">
+
+**[🎬 Ver video →](https://x.com/takamasa045/status/2063442373917446515)**
+
+**Autor:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **Fuente:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **Publicado:** Jun 7, 2026
+
+---
 ### Prompt para el Sizzle Reel de marketing de Gemini Omni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1150,6 +1207,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-08T08:56:01.392Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-08T15:50:29.425Z</sub>
 
 </div>

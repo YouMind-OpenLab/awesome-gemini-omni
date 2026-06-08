@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **49** |
+| 📝 プロンプト総数 | **52** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-06-08** |
 
@@ -56,6 +56,63 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 壁を這う恐怖のシークエンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 壁を不自然な動きで這いながらカメラに向かってくる女性を映したホラーテイストの動画。
+
+#### 📝 プロンプト
+
+```
+超リアルで不気味な女性の姿。壁に張り付き、半分横向きで半分直立した状態で、背骨が不自然に反り返っている。長く絡まった黒髪が前に垂れ下がり、顔を部分的に覆っている。髪の隙間から、下を見つめる白濁した片目がわずかにのぞく。四肢は不自然にねじれ、肘は後ろに曲がり、指は異常に長く、鉤爪のようにコンクリートを掴んでいる。暗く重苦しい雰囲気、高いコントラスト、不安を煽るホラーリアリズム。壁を這いながらカメラに向かってくる恐ろしい女性。カメラがその動きを追跡する。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="壁を這う恐怖のシークエンス">
+
+**[🎬 動画を見る →](https://x.com/rahulnanda86/status/2063684503282016703)**
+
+**作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **ソース:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **公開日:** Jun 7, 2026
+
+---
+### 水中ファンタジー都市のパン撮影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 都会から精巧な水中ファンタジー世界へとシームレスに切り替わる、映画のようなカメラパン映像。
+
+#### 📝 プロンプト
+
+```
+カメラが都市に向かってパンし、下降していくにつれ、建物が地下や水中へと続き、秘密のファンタジー都市として精巧かつシームレスに展開していく様子が映し出されます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="水中ファンタジー都市のパン撮影">
+
+**[🎬 動画を見る →](https://x.com/Team_Greenfield/status/2063646327523975345)**
+
+**作者:** [Greenfield Team!](https://x.com/Team_Greenfield) | **ソース:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **公開日:** Jun 7, 2026
+
+---
+### ビートに同期したアニメーションテキストリール
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> ビートに完璧に同期したユニークなアニメーションで、テキストを単語ごとに表示するスタイリッシュで実験的なシズルリールを作成するための Gemini Omni プロンプトです。
+
+#### 📝 プロンプト
+
+```
+以下の単語を画面に 1 つずつ表示してください：「Did you know?」 / 「Gemini Omni」 / 「This model」 / 「Japanese too」 / 「is quite」 / 「good!?」。各単語はユニークなアニメーションで表示し、ビートに完璧に同期したスムーズなテンポで展開させてください。全体として、スタイリッシュかつ実験的でありながら親しみやすく、テキスト表現のクオリティを際立たせた、短くエネルギッシュなシズルリールに仕上げてください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="ビートに同期したアニメーションテキストリール">
+
+**[🎬 動画を見る →](https://x.com/takamasa045/status/2063442373917446515)**
+
+**作者:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **ソース:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **公開日:** Jun 7, 2026
+
+---
 ### Gemini Omni マーケティング用シズルリールプロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1150,6 +1207,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-08T08:55:58.835Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-08T15:50:27.531Z</sub>
 
 </div>

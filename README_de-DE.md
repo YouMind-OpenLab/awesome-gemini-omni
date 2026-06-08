@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **49** |
+| 📝 Gesamtanzahl Prompts | **52** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-08** |
 
@@ -56,6 +56,63 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Unheimliche Wandkriech-Sequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Horror-Video, in dem eine Frau auf unnatürliche Weise an einer Wand entlang auf die Kamera zukriecht.
+
+#### 📝 Prompt
+
+```
+Ultrarealistische, unheimliche weibliche Gestalt, die an der Wand klebt, halb horizontal, halb aufrecht, Wirbelsäule unnatürlich gekrümmt, langes, verworrenes schwarzes Haar hängt nach vorne und verdeckt teilweise ihr Gesicht, Strähnen bewegen sich leicht und geben den Blick auf ein milchig-weißes Auge frei, das nach unten starrt, Gliedmaßen unnatürlich verdreht, Ellbogen nach hinten gebogen, Finger zu lang, krallen sich wie Haken in den Beton, dunkle und düstere Atmosphäre, hoher Kontrast, verstörend, Horror-Realismus. Unheimliche Frau kriecht an der Wand auf die Kamera zu. Die Kamera verfolgt ihre Bewegung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="Unheimliche Wandkriech-Sequenz">
+
+**[🎬 Video ansehen →](https://x.com/rahulnanda86/status/2063684503282016703)**
+
+**Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Quelle:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Veröffentlicht:** Jun 7, 2026
+
+---
+### Kamerafahrt durch eine Unterwasser-Fantasiestadt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine filmische Kamerafahrt, die einen nahtlosen Übergang von einer urbanen Stadt zu einer aufwendigen Unterwasser-Fantasiewelt zeigt.
+
+#### 📝 Prompt
+
+```
+Während die Kamera auf die Stadt zufährt und nach unten schwenkt, sehen wir, wie sich die Gebäude unter der Erde und unter Wasser als eine fantastische, aufwendige, aber nahtlose Fortsetzung einer geheimen Fantasiestadt fortsetzen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="Kamerafahrt durch eine Unterwasser-Fantasiestadt">
+
+**[🎬 Video ansehen →](https://x.com/Team_Greenfield/status/2063646327523975345)**
+
+**Autor:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Quelle:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **Veröffentlicht:** Jun 7, 2026
+
+---
+### Animiertes, beat-synchrones Text-Reel
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Gemini Omni-Prompt zur Erstellung eines stylischen und experimentellen Sizzle-Reels, bei dem Text Wort für Wort mit einzigartigen, perfekt auf den Beat abgestimmten Animationen erscheint.
+
+#### 📝 Prompt
+
+```
+Lasse die folgenden Wörter nacheinander auf dem Bildschirm erscheinen: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?'. Jedes Wort sollte mit einer einzigartigen Animation erscheinen und sich in einem flüssigen, perfekt auf den Beat abgestimmten Tempo entwickeln. Das Gesamtergebnis sollte ein kurzes, energiegeladenes Sizzle-Reel sein, das stylisch und experimentell, aber dennoch zugänglich ist und die Qualität der Textdarstellung hervorhebt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="Animiertes, beat-synchrones Text-Reel">
+
+**[🎬 Video ansehen →](https://x.com/takamasa045/status/2063442373917446515)**
+
+**Autor:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **Quelle:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **Veröffentlicht:** Jun 7, 2026
+
+---
 ### Gemini Omni Marketing Sizzle Reel Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1150,6 +1207,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-08T08:56:02.429Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-08T15:50:30.210Z</sub>
 
 </div>

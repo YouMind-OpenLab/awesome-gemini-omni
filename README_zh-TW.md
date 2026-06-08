@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **49** |
+| 📝 提示詞總數 | **52** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-08** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 恐怖牆面爬行片段
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段恐怖風格的影片，描述一名女子以不自然的姿勢沿著牆面爬向鏡頭。
+
+#### 📝 提示詞
+
+```
+超寫實、詭異的女性身影緊貼牆面，身體呈現半水平、半垂直的狀態，脊椎以不自然的弧度彎曲，凌亂的黑色長髮向前垂落，遮住部分臉龐，髮絲微微晃動，隱約露出其中一隻蒼白眼球向下凝視，四肢扭曲，手肘向後彎折，手指過長，如鉤子般緊抓混凝土，氣氛陰暗壓抑，高對比度，令人不安，恐怖寫實風格。恐怖女子在牆上向鏡頭爬行。鏡頭跟隨其動作移動。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="恐怖牆面爬行片段">
+
+**[🎬 觀看視頻 →](https://x.com/rahulnanda86/status/2063684503282016703)**
+
+**作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **來源:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **發布時間:** Jun 7, 2026
+
+---
+### 水下奇幻城市運鏡
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影級的運鏡，展示從現代都市無縫過渡到精緻水下奇幻世界的過程。
+
+#### 📝 提示詞
+
+```
+隨著鏡頭向城市平移並向下移動，我們看到建築物在地下與水下延續，展現出一座秘密奇幻城市精緻且無縫的銜接。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="水下奇幻城市運鏡">
+
+**[🎬 觀看視頻 →](https://x.com/Team_Greenfield/status/2063646327523975345)**
+
+**作者:** [Greenfield Team!](https://x.com/Team_Greenfield) | **來源:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **發布時間:** Jun 7, 2026
+
+---
+### 節拍同步動畫文字短片
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 這是一個用於 Gemini Omni 的提示詞，旨在製作充滿時尚感與實驗性的宣傳短片，讓文字能隨著節拍精準同步，逐字呈現出獨特的動畫效果。
+
+#### 📝 提示詞
+
+```
+請在螢幕上逐一顯示以下文字：「Did you know?」/「Gemini Omni」/「This model」/「Japanese too」/「is quite」/「good!?」。每個詞彙都應搭配獨特的動畫效果，並以流暢的節奏與節拍完美同步。最終成品應為一段短小精悍、充滿活力且兼具時尚感與實驗性的宣傳短片，同時突顯出文字呈現的高品質。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="節拍同步動畫文字短片">
+
+**[🎬 觀看視頻 →](https://x.com/takamasa045/status/2063442373917446515)**
+
+**作者:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **來源:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **發布時間:** Jun 7, 2026
+
+---
 ### Gemini Omni 行銷宣傳影片提示詞
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1150,6 +1207,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-08T08:55:58.477Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-08T15:50:27.033Z</sub>
 
 </div>

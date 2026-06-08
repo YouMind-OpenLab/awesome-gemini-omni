@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **49** |
+| 📝 Total de prompts | **52** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-06-08** |
 
@@ -56,6 +56,63 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Sequência assustadora de escalada na parede
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um vídeo com temática de terror de uma mulher rastejando de forma não natural ao longo de uma parede em direção à câmera.
+
+#### 📝 Prompt
+
+```
+Figura feminina ultra-realista e sinistra agarrada à parede, meio horizontal, meio vertical, coluna arqueada de forma não natural, longos cabelos pretos emaranhados caindo para frente e obscurecendo parcialmente o rosto, mechas se movem levemente revelando um vislumbre de um olho branco leitoso olhando para baixo, membros retorcidos de forma não natural, cotovelos dobrados para trás, dedos longos demais, agarrando o concreto como ganchos, atmosfera sombria e melancólica, alto contraste, perturbador, realismo de terror. Mulher assustadora rasteja na parede em direção à câmera. A câmera acompanha seu movimento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="Sequência assustadora de escalada na parede">
+
+**[🎬 Assistir vídeo →](https://x.com/rahulnanda86/status/2063684503282016703)**
+
+**Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fonte:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Publicado:** Jun 7, 2026
+
+---
+### Panorâmica de Cidade Fantástica Subaquática
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma panorâmica cinematográfica mostrando uma transição perfeita de uma cidade urbana para um elaborado mundo de fantasia subaquático.
+
+#### 📝 Prompt
+
+```
+À medida que a câmera faz uma panorâmica em direção à cidade e desce, vemos os edifícios continuarem no subsolo e debaixo d'água como uma continuação fantástica, elaborada e perfeita de uma cidade secreta de fantasia.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="Panorâmica de Cidade Fantástica Subaquática">
+
+**[🎬 Assistir vídeo →](https://x.com/Team_Greenfield/status/2063646327523975345)**
+
+**Autor:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Fonte:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **Publicado:** Jun 7, 2026
+
+---
+### Reel de Texto Animado Sincronizado com a Batida
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt para o Gemini Omni para criar um sizzle reel estiloso e experimental, onde o texto aparece palavra por palavra com animações únicas perfeitamente sincronizadas com a batida.
+
+#### 📝 Prompt
+
+```
+Exiba as seguintes palavras na tela, uma a uma: 'Você sabia?' / 'Gemini Omni' / 'Este modelo' / 'Japonês também' / 'é muito' / 'bom!?'. Cada palavra deve aparecer com uma animação única e se desenvolver em um ritmo suave, perfeitamente sincronizado com a batida. O resultado final deve ser um sizzle reel curto e de alta energia, que seja estiloso e experimental, porém acessível, destacando a qualidade da expressão textual.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="Reel de Texto Animado Sincronizado com a Batida">
+
+**[🎬 Assistir vídeo →](https://x.com/takamasa045/status/2063442373917446515)**
+
+**Autor:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **Fonte:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **Publicado:** Jun 7, 2026
+
+---
 ### Prompt para Sizzle Reel de Marketing do Gemini Omni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1150,6 +1207,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-08T08:56:04.388Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-08T15:50:31.727Z</sub>
 
 </div>
