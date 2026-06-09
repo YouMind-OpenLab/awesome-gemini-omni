@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **52** |
+| 📝 提示詞總數 | **55** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-09** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 電影級動作特技鏡頭
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高能量的影片提示詞，旨在透過生成從橋上跳躍至行駛中車輛的複雜序列，來測試物理效果與動作表現。
+
+#### 📝 提示詞
+
+```
+從橋上跳下，降落在行駛中的卡車上，接著跳到另一輛車上並將其接管。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="電影級動作特技鏡頭">
+
+**[🎬 觀看視頻 →](https://x.com/YourAlphaMom/status/2063952651205677170)**
+
+**作者:** [Alpha Mom](https://x.com/YourAlphaMom) | **來源:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **發布時間:** Jun 8, 2026
+
+---
+### Ginza Six 第一人稱虛擬導覽
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 生成一段沉浸式的第一人稱視角影片，帶領觀眾穿梭於 Ginza Six，從手扶梯一路漫遊至咖啡廳，體驗拉花咖啡。
+
+#### 📝 提示詞
+
+```
+請製作一段第一人稱視角的影片，模擬走進 Ginza Six，搭乘手扶梯前往 6 樓的新開咖啡廳，並享用一款全新的拉花咖啡！請為此進行一場虛擬導覽！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Ginza Six 第一人稱虛擬導覽">
+
+**[🎬 觀看視頻 →](https://x.com/nagi_1up/status/2063930786903187754)**
+
+**作者:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **來源:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **發布時間:** Jun 8, 2026
+
+---
+### 虎斑貓觀察錦鯉池
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高度細緻的影片提示詞，用於生成虎斑貓在池塘邊觀察魚類的寫實場景，包含自然行為與電影級光影效果。
+
+#### 📝 提示詞
+
+```
+業餘直式智慧型手機拍攝影片，9:16 畫面比例，手持拍攝帶有輕微自然晃動，明亮的午後陽光。一隻擁有橘黑色條紋、白色胸毛與明亮綠眼睛的蓬鬆虎斑貓，正坐在花園清澈池塘邊的平坦岩石上，背部大體朝向鏡頭。貓咪正專注地注視著前方的池塘，色彩斑斕的錦鯉與金魚在水中游動，偶爾跳出水面激起小水花。自然行為：尾巴緩慢地左右擺動，耳朵抽動並轉向水花聲，頭部做出好奇的小幅度傾斜，偶爾用爪子輕觸水邊。陽光在漣漪水面上閃爍，形成美麗的倒影，空氣中可見漂浮的微塵。環境音包含輕柔的水花聲、微風吹拂蘆葦與樹葉的沙沙聲、遠處的鳥鳴，以及貓咪偶爾發出的輕柔叫聲或呼嚕聲。背部與尾巴的毛髮質感寫實，從後側四分之三視角呈現栩栩如生的貓咪動作，鮮豔的水面反射，溫暖的自然調色，iPhone 風格拍攝，高細節，10 秒可循環短片。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="虎斑貓觀察錦鯉池">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2063849912773845455)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **發布時間:** Jun 8, 2026
+
+---
 ### 恐怖牆面爬行片段
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1207,6 +1264,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-09T07:46:31.740Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-09T11:14:09.304Z</sub>
 
 </div>

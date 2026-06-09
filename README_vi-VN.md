@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **52** |
+| 📝 Tổng số prompt | **55** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-09** |
 
@@ -56,6 +56,63 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Chuỗi hành động đóng thế đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt tràn đầy năng lượng được thiết kế để kiểm tra vật lý và chuyển động bằng cách tạo ra một chuỗi hành động phức tạp: nhảy từ cầu xuống một chiếc xe tải đang di chuyển, sau đó nhảy sang một chiếc ô tô khác và chiếm quyền điều khiển.
+
+#### 📝 Prompt
+
+```
+một cú nhảy từ cầu, đáp xuống chiếc xe tải đang di chuyển, sau đó nhảy sang một chiếc ô tô và chiếm quyền điều khiển.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Chuỗi hành động đóng thế đậm chất điện ảnh">
+
+**[🎬 Xem video →](https://x.com/YourAlphaMom/status/2063952651205677170)**
+
+**Tác giả:** [Alpha Mom](https://x.com/YourAlphaMom) | **Nguồn:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Đã xuất bản:** Jun 8, 2026
+
+---
+### Chuyến tham quan ảo góc nhìn thứ nhất tại Ginza Six
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Tạo video góc nhìn thứ nhất đầy sống động, dẫn dắt người xem đi từ thang cuốn tại Ginza Six đến một quán cà phê để thưởng thức nghệ thuật vẽ latte.
+
+#### 📝 Prompt
+
+```
+Vui lòng tạo một video góc nhìn thứ nhất ghi lại cảnh đi bộ vào Ginza Six, đi thang cuốn lên một quán cà phê mới ở tầng 6 và thưởng thức một sản phẩm latte art mới! Hãy thực hiện một chuyến tham quan ảo về địa điểm này nhé!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Chuyến tham quan ảo góc nhìn thứ nhất tại Ginza Six">
+
+**[🎬 Xem video →](https://x.com/nagi_1up/status/2063930786903187754)**
+
+**Tác giả:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Nguồn:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Đã xuất bản:** Jun 8, 2026
+
+---
+### Quan sát mèo mướp bên hồ cá Koi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chi tiết cao cho cảnh quay chân thực về một chú mèo mướp đang ngắm cá trong hồ, thể hiện hành vi tự nhiên và ánh sáng đậm chất điện ảnh.
+
+#### 📝 Prompt
+
+```
+Video dọc nghiệp dư quay bằng điện thoại thông minh, tỷ lệ khung hình 9:16, cầm tay có độ rung tự nhiên nhẹ, ánh sáng buổi chiều nắng rực rỡ. Một chú mèo mướp lông xù với các sọc cam đen, ngực trắng và đôi mắt xanh lục sáng đang ngồi trên tảng đá phẳng gần mép hồ cá trong vườn, lưng hướng về phía máy quay. Chú mèo đang chăm chú quan sát hồ nước phía trước, nơi những chú cá Koi và cá vàng đầy màu sắc đang bơi lội và thỉnh thoảng nhảy lên tạo ra những tia nước nhỏ. Hành vi tự nhiên: đuôi vẫy nhẹ từ bên này sang bên kia, tai giật giật và xoay về phía có tiếng nước bắn, đầu nghiêng nhẹ đầy tò mò, thỉnh thoảng dùng chân chạm nhẹ vào mép nước. Ánh nắng mặt trời lấp lánh trên mặt nước gợn sóng tạo nên những hình ảnh phản chiếu tuyệt đẹp, bụi li ti lơ lửng trong không khí. Âm thanh môi trường nhẹ nhàng của tiếng nước bắn, gió nhẹ thổi qua những bụi lau sậy và lá cây gần đó, tiếng chim hót xa xa, và tiếng kêu hoặc tiếng gừ gừ khẽ khàng của chú mèo. Kết cấu lông chân thực trên lưng và đuôi, chuyển động của mèo sống động từ góc nhìn ba phần tư phía sau, phản chiếu mặt nước rực rỡ, chỉnh màu tự nhiên ấm áp, phong cách quay bằng iPhone, chi tiết cao, clip có thể lặp lại trong 10 giây.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="Quan sát mèo mướp bên hồ cá Koi">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2063849912773845455)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **Đã xuất bản:** Jun 8, 2026
+
+---
 ### Chuỗi cảnh bò trên tường đầy ám ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1207,6 +1264,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-09T07:46:33.878Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-09T11:14:11.601Z</sub>
 
 </div>

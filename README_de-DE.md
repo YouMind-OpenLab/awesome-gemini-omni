@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **52** |
+| 📝 Gesamtanzahl Prompts | **55** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-09** |
 
@@ -56,6 +56,63 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Filmreife Action-Stunt-Sequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein energiegeladener Video-Prompt, der darauf ausgelegt ist, Physik und Bewegung durch die Generierung einer komplexen Sequenz eines Brückensprungs auf ein fahrendes Fahrzeug zu testen.
+
+#### 📝 Prompt
+
+```
+ein Sprung von einer Brücke, die Landung auf einem fahrenden LKW, gefolgt von einem Sprung auf ein Auto und dessen Übernahme.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Filmreife Action-Stunt-Sequenz">
+
+**[🎬 Video ansehen →](https://x.com/YourAlphaMom/status/2063952651205677170)**
+
+**Autor:** [Alpha Mom](https://x.com/YourAlphaMom) | **Quelle:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Veröffentlicht:** Jun 8, 2026
+
+---
+### Ginza Six: Virtuelle Tour aus der Egoperspektive
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Erzeugt ein immersives Video aus der Egoperspektive, das durch Ginza Six führt – von der Rolltreppe bis hin zu einem Café mit Latte Art.
+
+#### 📝 Prompt
+
+```
+Bitte erstelle ein Video aus der Egoperspektive, das zeigt, wie man Ginza Six betritt, mit der Rolltreppe zu einem neuen Café im 6. Stock fährt und ein neues Latte-Art-Getränk genießt! Bitte führe eine virtuelle Tour durch diesen Ort durch!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Ginza Six: Virtuelle Tour aus der Egoperspektive">
+
+**[🎬 Video ansehen →](https://x.com/nagi_1up/status/2063930786903187754)**
+
+**Autor:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Quelle:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Veröffentlicht:** Jun 8, 2026
+
+---
+### Beobachtung eines getigerten Katers am Koiteich
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Video-Prompt für eine realistische Szene, in der ein getigerter Kater Fische in einem Teich beobachtet, inklusive natürlichem Verhalten und kinoreifer Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Amateurhaftes vertikales Smartphone-Video, Seitenverhältnis 9:16, leichtes natürliches Wackeln aus der Hand, helles sonniges Nachmittagslicht. Ein flauschiger getigerter Kater mit orangefarbenen und schwarzen Streifen, weißer Brust und leuchtend grünen Augen sitzt auf einem flachen Stein am Rand eines klaren Gartenteichs, den Rücken größtenteils zur Kamera gewandt. Der Kater beobachtet aufmerksam den Teich vor sich, in dem bunte Koi und Goldfische schwimmen und gelegentlich mit kleinen Spritzern aus dem Wasser springen. Natürliches Verhalten: Der Schwanz wedelt langsam hin und her, die Ohren zucken und drehen sich in Richtung jedes Spritzers, der Kopf neigt sich neugierig, gelegentlich sanftes Pfotentippen nahe der Wasserkante. Sonnenlicht glitzert auf dem kräuselnden Wasser und erzeugt wunderschöne Reflexionen, in der Luft sind schwebende Staubpartikel sichtbar. Sanfte Umgebungsgeräusche von plätscherndem Wasser, eine leichte Brise, die durch nahegelegene Schilfhalme und Blätter weht, entferntes Vogelgezwitscher und das gelegentliche sanfte Schnurren oder Gurren des Katers. Realistische Fellstruktur am Rücken und Schwanz, lebensechte Bewegungen der Katze aus einer hinteren Dreiviertelansicht, lebendige Wasserreflexionen, warmes natürliches Color Grading, im iPhone-Stil gefilmt, hohe Detailgenauigkeit, 10-sekündiger loopbarer Clip.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="Beobachtung eines getigerten Katers am Koiteich">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2063849912773845455)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **Veröffentlicht:** Jun 8, 2026
+
+---
 ### Unheimliche Wandkriech-Sequenz
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1207,6 +1264,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-09T07:46:37.694Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-09T11:14:13.958Z</sub>
 
 </div>

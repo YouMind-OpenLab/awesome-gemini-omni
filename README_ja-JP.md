@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **52** |
+| 📝 プロンプト総数 | **55** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-06-09** |
 
@@ -56,6 +56,63 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### シネマティックなアクションスタントシーン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 橋から走行中の車両へ飛び移る複雑なシークエンスを生成し、物理演算とモーションをテストするために設計されたハイエナジーなビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+橋から飛び降り、走行中のトラックに着地し、さらに別の車へ飛び移って奪取する。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="シネマティックなアクションスタントシーン">
+
+**[🎬 動画を見る →](https://x.com/YourAlphaMom/status/2063952651205677170)**
+
+**作者:** [Alpha Mom](https://x.com/YourAlphaMom) | **ソース:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **公開日:** Jun 8, 2026
+
+---
+### Ginza Six 一人称視点バーチャルツアー
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ginza Six 内をエスカレーターからラテアートが楽しめるカフェまで移動する、没入感のある一人称視点の動画を生成します。
+
+#### 📝 プロンプト
+
+```
+Ginza Six に入店し、エスカレーターで 6 階の新しいカフェへ向かい、新作のラテアートを飲むまでの一人称視点の動画を作成してください！バーチャルツアーのような体験をお願いします！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Ginza Six 一人称視点バーチャルツアー">
+
+**[🎬 動画を見る →](https://x.com/nagi_1up/status/2063930786903187754)**
+
+**作者:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **ソース:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **公開日:** Jun 8, 2026
+
+---
+### 池の鯉を眺めるトラ猫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 池の魚を眺めるトラ猫のリアルなシーンのための、自然な動作と映画のような照明を特徴とする高精細な動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+アマチュアによる縦型スマートフォン動画、アスペクト比 9:16、手持ち撮影による自然な微細な揺れ、明るい午後の日差し。オレンジと黒の縞模様、白い胸元、鮮やかな緑色の目をしたふわふわのトラ猫が、澄んだ庭の池のほとりにある平らな岩の上に座っており、背中をカメラに向けている。猫は、色鮮やかな鯉や金魚が泳ぎ、時折小さな水しぶきを上げて飛び跳ねる池をじっと見つめている。自然な動作：尻尾をゆっくりと左右に振り、水しぶきの音に合わせて耳をピクピクと動かし、好奇心旺盛に首を小さく傾け、時折水辺で優しく前足で水を叩く。水面に反射する太陽の光が美しいきらめきを生み出し、空気中には浮遊する塵がかすかに見える。水が跳ねる穏やかな環境音、近くの葦や葉を揺らすそよ風、遠くで鳴く鳥の声、そして猫の時折発する柔らかい鳴き声や喉を鳴らす音。背中と尻尾のリアルな毛並みの質感、後ろ斜めからの視点による猫の生き生きとした動き、鮮やかな水面の反射、温かみのある自然なカラーグレーディング、iPhone で撮影したようなスタイル、高精細、10 秒間のループ再生可能なクリップ。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="池の鯉を眺めるトラ猫">
+
+**[🎬 動画を見る →](https://x.com/MrDasOnX/status/2063849912773845455)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **公開日:** Jun 8, 2026
+
+---
 ### 壁を這う恐怖のシークエンス
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1207,6 +1264,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-09T07:46:32.260Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-09T11:14:09.811Z</sub>
 
 </div>

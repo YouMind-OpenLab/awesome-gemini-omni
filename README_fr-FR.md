@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **52** |
+| 📝 Total des prompts | **55** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-09** |
 
@@ -56,6 +56,63 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Séquence de cascades cinématographiques
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo dynamique conçu pour tester la physique et le mouvement en générant une séquence complexe de saut depuis un pont sur un véhicule en mouvement.
+
+#### 📝 Prompt
+
+```
+un saut depuis un pont, atterrissage sur un camion en mouvement, puis saut sur une voiture pour en prendre le contrôle.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Séquence de cascades cinématographiques">
+
+**[🎬 Voir la vidéo →](https://x.com/YourAlphaMom/status/2063952651205677170)**
+
+**Auteur:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Publié:** Jun 8, 2026
+
+---
+### Visite virtuelle à la première personne de Ginza Six
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Génère une vidéo immersive à la première personne naviguant à travers Ginza Six, de l'escalator jusqu'à un café pour admirer un latte art.
+
+#### 📝 Prompt
+
+```
+Veuillez créer une vidéo à la première personne montrant une promenade dans Ginza Six, la montée par escalator vers un nouveau café au 6e étage, et la dégustation d'un nouveau latte art ! Veuillez réaliser une visite virtuelle de ce lieu !
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Visite virtuelle à la première personne de Ginza Six">
+
+**[🎬 Voir la vidéo →](https://x.com/nagi_1up/status/2063930786903187754)**
+
+**Auteur:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Source:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Publié:** Jun 8, 2026
+
+---
+### Observation d'un chat tigré au bassin de carpes koï
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo très détaillé pour une scène réaliste de chat tigré observant des poissons dans un bassin, mettant en avant un comportement naturel et un éclairage cinématographique.
+
+#### 📝 Prompt
+
+```
+Vidéo amateur verticale sur smartphone, format 9:16, caméra à l'épaule avec léger tremblement naturel, lumière vive d'un après-midi ensoleillé. Un chat tigré au pelage duveteux, rayé orange et noir, avec le poitrail blanc et des yeux vert vif, est assis sur une pierre plate au bord d'un bassin de jardin limpide, tournant principalement le dos à la caméra. Le chat observe attentivement le bassin devant lui où des carpes koï et des poissons rouges nagent et sautent occasionnellement en créant de petites éclaboussures. Comportements naturels : queue remuant lentement de gauche à droite, oreilles frémissant et pivotant vers chaque éclaboussure, tête effectuant de petits inclinaisons curieuses, tapotements doux occasionnels de la patte près du bord de l'eau. La lumière du soleil scintille sur l'eau ridée créant de magnifiques reflets, avec des poussières en suspension visibles dans l'air. Sons ambiants doux d'eau qui clapote, légère brise faisant bruisser les roseaux et les feuilles à proximité, chants d'oiseaux au loin, et doux gazouillis ou ronronnements occasionnels du chat. Texture de fourrure réaliste sur le dos et la queue, mouvements de chat fidèles à la réalité vus de trois-quarts arrière, reflets vibrants sur l'eau, étalonnage des couleurs naturel et chaleureux, style tourné à l'iPhone, haute précision, clip de 10 secondes en boucle.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="Observation d'un chat tigré au bassin de carpes koï">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2063849912773845455)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **Publié:** Jun 8, 2026
+
+---
 ### Séquence effrayante de reptation sur un mur
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1207,6 +1264,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-09T07:46:38.179Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-09T11:14:14.414Z</sub>
 
 </div>

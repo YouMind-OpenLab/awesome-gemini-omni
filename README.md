@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **52** |
+| 📝 Total Prompts | **55** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-09** |
 
@@ -56,6 +56,63 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Action Stunt Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-energy video prompt designed to test physics and motion by generating a complex sequence of a bridge jump onto a moving vehicle.
+
+#### 📝 Prompt
+
+```
+a bridge jump, landing on a moving truck, then jumping onto a car and taking it over.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Cinematic Action Stunt Sequence">
+
+**[🎬 Watch Video →](https://x.com/YourAlphaMom/status/2063952651205677170)**
+
+**Author:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Published:** Jun 8, 2026
+
+---
+### Ginza Six First-Person Virtual Tour
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Generates an immersive first-person perspective video navigating through Ginza Six, from the escalator to a cafe for latte art.
+
+#### 📝 Prompt
+
+```
+Please create a first-person perspective video of walking into Ginza Six, taking the escalator to a new cafe on the 6th floor, and drinking a new latte art product! Please do a virtual tour of this!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Ginza Six First-Person Virtual Tour">
+
+**[🎬 Watch Video →](https://x.com/nagi_1up/status/2063930786903187754)**
+
+**Author:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Source:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Published:** Jun 8, 2026
+
+---
+### Tabby Cat Koi Pond Observation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for a realistic scene of a tabby cat watching fish in a pond, featuring natural behavior and cinematic lighting.
+
+#### 📝 Prompt
+
+```
+Amateur vertical smartphone video, 9:16 aspect ratio, handheld slight natural shake, bright sunny afternoon light. A fluffy tabby cat with orange and black stripes, white chest, and bright green eyes is sitting on a flat rock near the edge of a clear garden pond, with its back mostly to the camera. The cat is intently watching the pond ahead where colorful koi and goldfish are swimming and occasionally jumping out with small splashes. Natural behaviors: tail slowly swishing side to side, ears twitching and rotating toward each splash, head making small curious tilts, occasional gentle paw tap near the water's edge. Sunlight sparkles on the rippling water creating beautiful reflections, with floating dust motes visible in the air. Gentle ambient sounds of water splashing, light breeze rustling nearby reeds and leaves, distant birds chirping, and the cat's soft occasional chirp or purr. Realistic fur texture on the back and tail, lifelike cat movements from a rear three-quarter view, vibrant water reflections, warm natural color grading, shot on iPhone style, high detail, 10 second loopable clip.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="Tabby Cat Koi Pond Observation">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2063849912773845455)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **Published:** Jun 8, 2026
+
+---
 ### Scary Wall Crawl Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1186,6 +1243,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T07:46:30.457Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-09T11:14:08.375Z</sub>
 
 </div>

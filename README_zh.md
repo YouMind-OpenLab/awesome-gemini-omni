@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **52** |
+| 📝 提示词总数 | **55** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-06-09** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 电影级动作特技序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高能视频提示词，旨在通过生成从桥上跳跃至移动车辆的复杂序列，来测试物理效果与运动表现。
+
+#### 📝 提示词
+
+```
+从桥上跳跃，降落在行驶中的卡车上，随后跳到另一辆车上并将其接管。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="电影级动作特技序列">
+
+**[🎬 观看视频 →](https://x.com/YourAlphaMom/status/2063952651205677170)**
+
+**作者:** [Alpha Mom](https://x.com/YourAlphaMom) | **来源:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **发布时间:** Jun 8, 2026
+
+---
+### Ginza Six 第一人称虚拟导览
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 生成一段沉浸式的第一人称视角视频，带你穿梭于 Ginza Six，从自动扶梯一直到咖啡馆体验拉花艺术。
+
+#### 📝 提示词
+
+```
+请制作一段第一人称视角的视频，展示走进 Ginza Six，乘坐自动扶梯前往 6 楼的一家新咖啡馆，并享用一款全新的拉花咖啡！请为这里做一个虚拟导览！
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Ginza Six 第一人称虚拟导览">
+
+**[🎬 观看视频 →](https://x.com/nagi_1up/status/2063930786903187754)**
+
+**作者:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **来源:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **发布时间:** Jun 8, 2026
+
+---
+### 虎斑猫观赏锦鲤池
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度详细的视频提示词，用于生成虎斑猫在池塘边观鱼的写实场景，包含自然的行为表现和电影级光影效果。
+
+#### 📝 提示词
+
+```
+业余竖屏手机视频，9:16 画幅，手持拍摄，带有轻微的自然晃动，明亮的午后阳光。一只毛茸茸的虎斑猫，有着橙黑相间的条纹、白色的胸毛和明亮的绿色眼睛，正坐在清澈花园池塘边的一块平坦岩石上，背部大部分朝向镜头。猫咪正全神贯注地注视着前方的池塘，五颜六色的锦鲤和金鱼在水中游动，偶尔跃出水面溅起小水花。自然行为：尾巴缓慢地左右摆动，耳朵随着每一次水花声抽动并转向，头部做出好奇的小幅度倾斜，偶尔用爪子在水边轻轻拍打。阳光在涟漪的水面上闪烁，形成美丽的倒影，空气中可见漂浮的尘埃。柔和的环境音包括水花溅起声、微风吹动附近芦苇和叶片的沙沙声、远处的鸟鸣声，以及猫咪偶尔发出的轻柔叫声或呼噜声。背部和尾部的毛发质感真实，后侧方视角呈现栩栩如生的猫咪动作，生动的水面反射，温暖的自然色调，iPhone 拍摄风格，高细节，10 秒可循环片段。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="虎斑猫观赏锦鲤池">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2063849912773845455)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **发布时间:** Jun 8, 2026
+
+---
 ### 恐怖墙面爬行片段
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1207,6 +1264,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-09T07:46:31.178Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-09T11:14:08.877Z</sub>
 
 </div>

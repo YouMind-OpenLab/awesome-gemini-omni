@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **52** |
+| 📝 Total de prompts | **55** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-06-09** |
 
@@ -56,6 +56,63 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Sequência de Dublê de Ação Cinematográfica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de alta energia projetado para testar física e movimento ao gerar uma sequência complexa de um salto de uma ponte para um veículo em movimento.
+
+#### 📝 Prompt
+
+```
+um salto de uma ponte, aterrissando em um caminhão em movimento, depois pulando para um carro e assumindo o controle dele.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Sequência de Dublê de Ação Cinematográfica">
+
+**[🎬 Assistir vídeo →](https://x.com/YourAlphaMom/status/2063952651205677170)**
+
+**Autor:** [Alpha Mom](https://x.com/YourAlphaMom) | **Fonte:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Publicado:** Jun 8, 2026
+
+---
+### Tour virtual em primeira pessoa pelo Ginza Six
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Gera um vídeo imersivo em primeira pessoa navegando pelo Ginza Six, desde a escada rolante até um café para ver a latte art.
+
+#### 📝 Prompt
+
+```
+Por favor, crie um vídeo em primeira pessoa caminhando pelo Ginza Six, pegando a escada rolante até um novo café no 6º andar e bebendo um novo produto de latte art! Por favor, faça um tour virtual disso!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Tour virtual em primeira pessoa pelo Ginza Six">
+
+**[🎬 Assistir vídeo →](https://x.com/nagi_1up/status/2063930786903187754)**
+
+**Autor:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Fonte:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Publicado:** Jun 8, 2026
+
+---
+### Observação de gato malhado em lago de carpas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo altamente detalhado para uma cena realista de um gato malhado observando peixes em um lago, apresentando comportamento natural e iluminação cinematográfica.
+
+#### 📝 Prompt
+
+```
+Vídeo amador vertical de smartphone, proporção 9:16, leve tremido natural de câmera na mão, luz brilhante de tarde ensolarada. Um gato malhado fofo com listras laranjas e pretas, peito branco e olhos verdes brilhantes está sentado em uma pedra plana perto da borda de um lago de jardim cristalino, com as costas voltadas principalmente para a câmera. O gato observa atentamente o lago à frente, onde carpas e peixinhos dourados coloridos nadam e ocasionalmente saltam para fora com pequenos respingos. Comportamentos naturais: cauda balançando lentamente de um lado para o outro, orelhas tremendo e girando em direção a cada respingo, cabeça fazendo pequenas inclinações curiosas, toques gentis ocasionais da pata perto da borda da água. A luz do sol brilha na água ondulante criando belos reflexos, com partículas de poeira visíveis no ar. Sons ambientes suaves de água espirrando, brisa leve agitando juncos e folhas próximas, pássaros distantes cantando e o suave pio ou ronronar ocasional do gato. Textura de pelo realista nas costas e na cauda, movimentos de gato realistas a partir de uma visão traseira de três quartos, reflexos de água vibrantes, gradação de cores naturais quentes, estilo de filmagem de iPhone, alto detalhe, clipe de 10 segundos em loop.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="Observação de gato malhado em lago de carpas">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2063849912773845455)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **Publicado:** Jun 8, 2026
+
+---
 ### Sequência assustadora de escalada na parede
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1207,6 +1264,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-09T07:46:39.846Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-09T11:14:16.270Z</sub>
 
 </div>

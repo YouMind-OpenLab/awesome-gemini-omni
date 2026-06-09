@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **52** |
+| 📝 Totale prompt | **55** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-09** |
 
@@ -56,6 +56,63 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Sequenza cinematografica di stunt d'azione
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video ad alta energia progettato per testare la fisica e il movimento, generando una sequenza complessa di un salto da un ponte su un veicolo in movimento.
+
+#### 📝 Prompt
+
+```
+un salto da un ponte, atterraggio su un camion in movimento, seguito da un salto su un'auto per prenderne il controllo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Sequenza cinematografica di stunt d'azione">
+
+**[🎬 Guarda il video →](https://x.com/YourAlphaMom/status/2063952651205677170)**
+
+**Autore:** [Alpha Mom](https://x.com/YourAlphaMom) | **Fonte:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Pubblicato:** Jun 8, 2026
+
+---
+### Tour virtuale in prima persona di Ginza Six
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Genera un video immersivo in prima persona che ti guida attraverso Ginza Six, dalla scala mobile fino a un caffè per ammirare la latte art.
+
+#### 📝 Prompt
+
+```
+Per favore, crea un video in prima persona che mostri l'ingresso a Ginza Six, la salita sulla scala mobile verso un nuovo caffè al 6° piano e la degustazione di una nuova creazione di latte art! Realizza un tour virtuale di tutto questo!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Tour virtuale in prima persona di Ginza Six">
+
+**[🎬 Guarda il video →](https://x.com/nagi_1up/status/2063930786903187754)**
+
+**Autore:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Fonte:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Pubblicato:** Jun 8, 2026
+
+---
+### Osservazione di un gatto soriano presso un laghetto di koi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video altamente dettagliato per una scena realistica di un gatto soriano che osserva i pesci in un laghetto, caratterizzato da comportamenti naturali e illuminazione cinematografica.
+
+#### 📝 Prompt
+
+```
+Video amatoriale verticale da smartphone, formato 9:16, ripresa a mano con leggero tremolio naturale, luce solare brillante di un pomeriggio. Un soffice gatto soriano con strisce arancioni e nere, petto bianco e luminosi occhi verdi è seduto su una roccia piatta vicino al bordo di un limpido laghetto da giardino, con la schiena rivolta per lo più verso la telecamera. Il gatto osserva intensamente il laghetto davanti a sé, dove colorate carpe koi e pesci rossi nuotano e saltano occasionalmente creando piccoli spruzzi. Comportamenti naturali: la coda oscilla lentamente da un lato all'altro, le orecchie fremono e ruotano verso ogni spruzzo, la testa compie piccoli e curiosi movimenti, occasionali colpetti delicati con la zampa vicino al bordo dell'acqua. La luce del sole brilla sull'acqua increspata creando splendidi riflessi, con pulviscolo atmosferico visibile nell'aria. Suoni ambientali delicati di acqua che scorre, una leggera brezza che muove canne e foglie vicine, il cinguettio lontano degli uccelli e il verso o le fusa occasionali del gatto. Texture realistica del pelo sulla schiena e sulla coda, movimenti del gatto realistici da una vista di tre quarti posteriore, riflessi vibranti sull'acqua, color grading naturale e caldo, stile ripresa iPhone, alto dettaglio, clip loopabile di 10 secondi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="Osservazione di un gatto soriano presso un laghetto di koi">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2063849912773845455)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **Pubblicato:** Jun 8, 2026
+
+---
 ### Sequenza spaventosa di arrampicata sul muro
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1207,6 +1264,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-09T07:46:38.755Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-09T11:14:15.317Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **52** |
+| 📝 Toplam İstem | **55** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-09** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Aksiyon Dublör Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hareket halindeki bir araca köprüden atlama gibi karmaşık bir sekans oluşturarak fizik ve hareket kabiliyetini test etmek için tasarlanmış, yüksek enerjili bir video istemi.
+
+#### 📝 İstem
+
+```
+bir köprüden atlayış, hareket halindeki bir kamyonun üzerine iniş, ardından bir arabaya atlayıp kontrolü ele geçirme.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Sinematik Aksiyon Dublör Sekansı">
+
+**[🎬 Videoyu izle →](https://x.com/YourAlphaMom/status/2063952651205677170)**
+
+**Yazar:** [Alpha Mom](https://x.com/YourAlphaMom) | **Kaynak:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Yayınlandı:** Jun 8, 2026
+
+---
+### Ginza Six Birinci Şahıs Sanal Turu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ginza Six içinde yürüyen, yürüyen merdivenlerden 6. kattaki yeni bir kafeye çıkan ve latte art deneyimleyen sürükleyici bir birinci şahıs bakış açılı video oluşturur.
+
+#### 📝 İstem
+
+```
+Lütfen Ginza Six'e giriş yapan, yürüyen merdivenlerle 6. kattaki yeni bir kafeye çıkan ve yeni bir latte art ürününü içen birinci şahıs bakış açılı bir video oluşturun! Lütfen bunun sanal bir turunu yapın!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Ginza Six Birinci Şahıs Sanal Turu">
+
+**[🎬 Videoyu izle →](https://x.com/nagi_1up/status/2063930786903187754)**
+
+**Yazar:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Kaynak:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Yayınlandı:** Jun 8, 2026
+
+---
+### Tekir Kedi Koi Havuzu Gözlemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Doğal davranışlar ve sinematik ışıklandırma içeren, bir havuzdaki balıkları izleyen tekir kediye dair gerçekçi bir sahne için oldukça detaylı video istemi.
+
+#### 📝 İstem
+
+```
+Amatör dikey akıllı telefon videosu, 9:16 en boy oranı, elde çekimden kaynaklanan hafif doğal titreme, parlak güneşli öğleden sonra ışığı. Turuncu ve siyah çizgili, beyaz göğüslü ve parlak yeşil gözlü tüylü bir tekir kedi, berrak bir bahçe havuzunun kenarındaki düz bir kayanın üzerinde, arkası büyük ölçüde kameraya dönük şekilde oturuyor. Kedi, renkli koi ve Japon balıklarının yüzdüğü ve ara sıra küçük sıçramalarla sudan dışarı atladığı havuzu dikkatle izliyor. Doğal davranışlar: kuyruk yavaşça bir yandan diğer yana sallanıyor, kulaklar her sıçramaya doğru seğiriyor ve dönüyor, baş meraklı küçük eğilmeler yapıyor, su kenarına ara sıra nazik pati dokunuşları. Güneş ışığı dalgalanan su üzerinde parıldayarak güzel yansımalar yaratıyor, havada uçuşan toz zerreleri görünür durumda. Suyun şırıltısı, yakındaki sazlıkları ve yaprakları hışırdatan hafif esinti, uzaktan gelen kuş cıvıltıları ve kedinin ara sıra çıkardığı yumuşak mırıltılar gibi nazik ortam sesleri. Sırtta ve kuyrukta gerçekçi kürk dokusu, arka üç çeyrek açıdan gerçekçi kedi hareketleri, canlı su yansımaları, sıcak doğal renk derecelendirmesi, iPhone tarzı çekim, yüksek detay, 10 saniyelik döngüye uygun klip.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="Tekir Kedi Koi Havuzu Gözlemi">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2063849912773845455)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **Yayınlandı:** Jun 8, 2026
+
+---
 ### Korkutucu Duvar Tırmanışı Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1207,6 +1264,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-09T07:46:40.377Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-09T11:14:16.823Z</sub>
 
 </div>

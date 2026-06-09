@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **52** |
+| 📝 총 프롬프트 수 | **55** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-09** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 영화 같은 액션 스턴트 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 다리에서 달리는 차량으로 뛰어내리는 복잡한 시퀀스를 생성하여 물리 효과와 움직임을 테스트하도록 설계된 고에너지 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+다리에서 뛰어내려 달리는 트럭 위로 착지한 뒤, 다시 자동차로 뛰어올라 탈취하는 장면.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="영화 같은 액션 스턴트 시퀀스">
+
+**[🎬 비디오 보기 →](https://x.com/YourAlphaMom/status/2063952651205677170)**
+
+**작성자:** [Alpha Mom](https://x.com/YourAlphaMom) | **출처:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **게시일:** Jun 8, 2026
+
+---
+### Ginza Six 1인칭 가상 투어
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ginza Six를 탐방하며 에스컬레이터를 타고 카페로 이동해 라떼 아트를 즐기는 몰입형 1인칭 시점 영상을 생성합니다.
+
+#### 📝 프롬프트
+
+```
+Ginza Six에 걸어 들어가서 에스컬레이터를 타고 6층의 새로운 카페로 이동한 뒤, 신메뉴 라떼 아트를 마시는 1인칭 시점 영상을 만들어 주세요! 이에 대한 가상 투어를 진행해 주세요!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Ginza Six 1인칭 가상 투어">
+
+**[🎬 비디오 보기 →](https://x.com/nagi_1up/status/2063930786903187754)**
+
+**작성자:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **출처:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **게시일:** Jun 8, 2026
+
+---
+### 연못을 관찰하는 태비 고양이
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 연못 속 물고기를 관찰하는 태비 고양이의 자연스러운 행동과 영화 같은 조명을 담은 사실적인 영상 생성을 위한 고품질 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+아마추어 세로형 스마트폰 영상, 9:16 화면 비율, 핸드헬드 촬영으로 인한 약간의 자연스러운 흔들림, 밝고 화창한 오후의 햇살. 주황색과 검은색 줄무늬, 흰색 가슴 털, 밝은 녹색 눈을 가진 복슬복슬한 태비 고양이가 맑은 정원 연못가 평평한 바위 위에 앉아 있으며, 카메라를 등지고 있는 모습입니다. 고양이는 연못 앞을 유심히 관찰하고 있고, 그 안에서는 화려한 비단잉어와 금붕어들이 헤엄치며 가끔 작은 물보라를 일으키며 튀어 오릅니다. 자연스러운 행동: 꼬리를 천천히 좌우로 흔들고, 물보라가 튈 때마다 귀를 쫑긋거리며 방향을 바꾸고, 호기심 어린 모습으로 고개를 살짝 기울이며, 가끔 물가에 부드럽게 앞발을 톡톡 건드립니다. 잔잔한 물결 위로 햇빛이 반짝이며 아름다운 반사를 만들어내고, 공기 중에는 떠다니는 먼지 입자가 보입니다. 물이 튀는 잔잔한 주변 소리, 근처 갈대와 잎사귀를 스치는 가벼운 산들바람, 멀리서 들리는 새소리, 그리고 고양이가 가끔 내는 부드러운 울음소리나 가르랑거리는 소리가 들립니다. 등과 꼬리의 사실적인 털 질감, 후방 3/4 뷰에서 본 생생한 고양이의 움직임, 생동감 넘치는 물의 반사, 따뜻한 자연스러운 색감 보정, iPhone 스타일의 촬영, 고해상도, 10초 루프 영상.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="연못을 관찰하는 태비 고양이">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2063849912773845455)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **게시일:** Jun 8, 2026
+
+---
 ### 공포스러운 벽 기어오르기 시퀀스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1207,6 +1264,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-09T07:46:32.821Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-09T11:14:10.328Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **52** |
+| 📝 Total de prompts | **55** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-06-09** |
 
@@ -56,6 +56,63 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Secuencia de acción cinematográfica con acrobacias
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video de alta energía diseñado para poner a prueba la física y el movimiento mediante la generación de una secuencia compleja de un salto desde un puente hacia un vehículo en movimiento.
+
+#### 📝 Prompt
+
+```
+un salto desde un puente, aterrizando en un camión en movimiento, para luego saltar a un automóvil y tomar el control.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Secuencia de acción cinematográfica con acrobacias">
+
+**[🎬 Ver video →](https://x.com/YourAlphaMom/status/2063952651205677170)**
+
+**Autor:** [Alpha Mom](https://x.com/YourAlphaMom) | **Fuente:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Publicado:** Jun 8, 2026
+
+---
+### Recorrido virtual en primera persona por Ginza Six
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Genera un video inmersivo en primera persona que recorre Ginza Six, desde la escalera mecánica hasta una cafetería para ver arte latte.
+
+#### 📝 Prompt
+
+```
+Por favor, crea un video en primera persona caminando hacia Ginza Six, tomando la escalera mecánica hasta una nueva cafetería en el sexto piso y bebiendo un nuevo producto de arte latte. ¡Por favor, haz un recorrido virtual de esto!
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Recorrido virtual en primera persona por Ginza Six">
+
+**[🎬 Ver video →](https://x.com/nagi_1up/status/2063930786903187754)**
+
+**Autor:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Fuente:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Publicado:** Jun 8, 2026
+
+---
+### Observación de gato atigrado en estanque de peces koi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video altamente detallado para una escena realista de un gato atigrado observando peces en un estanque, con comportamiento natural e iluminación cinematográfica.
+
+#### 📝 Prompt
+
+```
+Video vertical de aficionado grabado con smartphone, relación de aspecto 9:16, ligero movimiento natural de cámara en mano, luz brillante de tarde soleada. Un gato atigrado esponjoso con rayas naranjas y negras, pecho blanco y ojos verde brillante está sentado sobre una roca plana cerca del borde de un estanque de jardín cristalino, con la espalda mayormente hacia la cámara. El gato observa atentamente el estanque frente a él, donde coloridos peces koi y dorados nadan y saltan ocasionalmente provocando pequeñas salpicaduras. Comportamientos naturales: cola moviéndose lentamente de lado a lado, orejas moviéndose y girando hacia cada salpicadura, cabeza haciendo pequeñas inclinaciones curiosas, toques suaves ocasionales con la pata cerca del borde del agua. La luz del sol brilla sobre el agua ondulante creando hermosos reflejos, con partículas de polvo flotando visibles en el aire. Sonidos ambientales suaves de agua salpicando, brisa ligera agitando juncos y hojas cercanas, pájaros piando a lo lejos y el suave chirrido o ronroneo ocasional del gato. Textura de pelaje realista en la espalda y la cola, movimientos de gato realistas desde una vista trasera de tres cuartos, reflejos de agua vibrantes, gradación de color natural cálida, estilo de grabación con iPhone, alto detalle, clip de 10 segundos en bucle.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="Observación de gato atigrado en estanque de peces koi">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2063849912773845455)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **Publicado:** Jun 8, 2026
+
+---
 ### Secuencia aterradora de escalada en pared
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1207,6 +1264,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-09T07:46:37.033Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-09T11:14:13.385Z</sub>
 
 </div>
