@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **55** |
+| 📝 Total de prompts | **57** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-06-10** |
 
@@ -56,6 +56,62 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Efeito de Câmera Lenta (Action Ramp)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo projetado para criar um efeito dramático de câmera lenta à medida que um objeto ou animal atinge o ápice de seu movimento.
+
+#### 📝 Prompt
+
+```
+À medida que o cão alcança o arco, o tempo começa a desacelerar em uma câmera lenta extrema — atingindo aproximadamente 1% da velocidade real no ápice do salto
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="Efeito de Câmera Lenta (Action Ramp)">
+
+**[🎬 Assistir vídeo →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
+
+**Autor:** [Google Flow](https://x.com/FlowbyGoogle) | **Fonte:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **Publicado:** Jun 9, 2026
+
+---
+### Animação de Título Sci-Fi Futurista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo altamente detalhado para criar uma animação de título sci-fi cibernética e com efeito glitch em tela verde para sobreposições de vídeo.
+
+#### 📝 Prompt
+
+```
+Crie uma animação de título independente em um fundo de tela verde puro para uso em chroma key. Não inclua nenhum ambiente, robô, cidade ou fundo cinematográfico. Mostre apenas o texto animado.
+
+Texto principal:
+“ISTANBUL // YEAR 2100”
+
+Estilo:
+futurista, robótico, visual de interface sci-fi, tipografia digital metálica, efeitos sutis de glitch, linhas de varredura, oscilação de dados, distorção eletrônica e um brilho suave neon ciano / branco ao redor das letras.
+Animação:
+O texto deve aparecer como a inicialização de um sistema robótico. Começa com um breve efeito de oscilação digital / digitação, torna-se totalmente legível, permanece na tela por um momento e depois desaparece com uma dissolução glitch limpa. A animação deve parecer elegante e cinematográfica, não caricata.
+Tempo:
+0,0–0,4 seg: o texto se materializa com efeito de glitch / varredura
+0,4–1,8 seg: o texto permanece totalmente visível
+1,8–2,3 seg: o texto se fragmenta e desaparece digitalmente
+Fundo:
+apenas tela verde sólida pura, iluminada uniformemente, fundo limpo para chroma key, sem sombras, sem textura, sem gradiente.
+Enquadramento:
+texto centralizado, grande e legível, com espaço verde vazio suficiente ao redor para facilitar a composição.
+Formato:
+16:9, alto contraste, elemento de sobreposição limpo, projetado para ser colocado sobre outro vídeo posteriormente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="Animação de Título Sci-Fi Futurista">
+
+**[🎬 Assistir vídeo →](https://x.com/ai_gezgini/status/2064424469079474504)**
+
+**Autor:** [ai.gezgini](https://x.com/ai_gezgini) | **Fonte:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Publicado:** Jun 9, 2026
+
+---
 ### Sequência de Dublê de Ação Cinematográfica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1264,6 +1320,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-10T08:07:05.947Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-10T15:32:59.515Z</sub>
 
 </div>

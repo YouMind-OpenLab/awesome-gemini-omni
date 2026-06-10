@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **55** |
+| 📝 Gesamtanzahl Prompts | **57** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-10** |
 
@@ -56,6 +56,62 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Slow-Motion-Action-Ramp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt, der entwickelt wurde, um einen dramatischen Zeitlupeneffekt zu erzeugen, während ein Objekt oder Tier den Höhepunkt seiner Bewegung erreicht.
+
+#### 📝 Prompt
+
+```
+Während der Hund den Reifen erreicht, verlangsamt sich die Zeit in eine extreme Zeitlupe – und erreicht am höchsten Punkt des Sprungs etwa 1 % der Originalgeschwindigkeit.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="Slow-Motion-Action-Ramp">
+
+**[🎬 Video ansehen →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
+
+**Autor:** [Google Flow](https://x.com/FlowbyGoogle) | **Quelle:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **Veröffentlicht:** Jun 9, 2026
+
+---
+### Futuristische Sci-Fi-Titelanimation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Video-Prompt zur Erstellung einer kybernetischen, glitchigen Sci-Fi-Titelanimation auf einem Greenscreen für Video-Overlays.
+
+#### 📝 Prompt
+
+```
+Erstelle eine eigenständige Titelanimation auf einem rein grünen Hintergrund für die Chroma-Key-Verwendung. Füge keine Umgebung, Roboter, Städte oder filmischen Hintergründe ein. Zeige ausschließlich den animierten Text.
+
+Haupttext:
+„ISTANBUL // YEAR 2100“
+
+Stil:
+futuristisch, robotisch, Sci-Fi-Interface-Look, metallisch-digitale Typografie, subtile Glitch-Effekte, Scanlines, Datenflimmern, elektronische Verzerrung und ein sanftes neon-zyanfarbenes / weißes Leuchten um die Buchstaben.
+Animation:
+Der Text soll wie beim Hochfahren eines Robotersystems erscheinen. Er beginnt mit einem kurzen digitalen Flimmern / Schreibmaschineneffekt, wird vollständig lesbar, bleibt einen Moment auf dem Bildschirm und verschwindet dann mit einer sauberen Glitch-Auflösung. Die Animation sollte elegant und filmisch wirken, nicht wie ein Cartoon.
+Zeitplan:
+0,0–0,4 Sek.: Text materialisiert sich mit Glitch- / Scan-Effekt
+0,4–1,8 Sek.: Text bleibt vollständig sichtbar
+1,8–2,3 Sek.: Text zerfällt und verschwindet digital
+Hintergrund:
+reiner, einfarbiger Greenscreen, gleichmäßig ausgeleuchtet, sauberer Chroma-Key-Hintergrund, keine Schatten, keine Textur, kein Verlauf.
+Bildaufbau:
+zentrierter Text, groß und gut lesbar, mit ausreichend leerem grünen Raum für ein einfaches Compositing.
+Format:
+16:9, hoher Kontrast, sauberes Overlay-Element, konzipiert für die spätere Platzierung über einem anderen Video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="Futuristische Sci-Fi-Titelanimation">
+
+**[🎬 Video ansehen →](https://x.com/ai_gezgini/status/2064424469079474504)**
+
+**Autor:** [ai.gezgini](https://x.com/ai_gezgini) | **Quelle:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Veröffentlicht:** Jun 9, 2026
+
+---
 ### Filmreife Action-Stunt-Sequenz
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1264,6 +1320,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-10T08:07:02.958Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-10T15:32:57.631Z</sub>
 
 </div>

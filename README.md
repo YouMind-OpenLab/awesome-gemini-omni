@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **55** |
+| 📝 Total Prompts | **57** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-10** |
 
@@ -56,6 +56,62 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Slow Motion Action Ramp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt designed to create a dramatic slow-motion effect as an object or animal reaches the peak of its movement.
+
+#### 📝 Prompt
+
+```
+As the dog reaches the hoop, time begins to ramp down into extreme slow motion — reaching approximately 1% of real speed at the apex of the jump
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="Slow Motion Action Ramp">
+
+**[🎬 Watch Video →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
+
+**Author:** [Google Flow](https://x.com/FlowbyGoogle) | **Source:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **Published:** Jun 9, 2026
+
+---
+### Futuristic Sci-Fi Title Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for creating a cybernetic, glitchy sci-fi title animation on a green screen for video overlays.
+
+#### 📝 Prompt
+
+```
+Create a standalone title animation on a pure green screen background for chroma key use. Do not include any environment, robot, city, or cinematic background. Only show animated text.
+
+Main text:
+“ISTANBUL // YEAR 2100”
+
+Style:
+futuristic, robotic, sci-fi interface look, metallic-digital typography, subtle glitch effects, scan lines, data flicker, electronic distortion, and a soft neon cyan / white glow around the letters.
+Animation:
+The text should appear like a robotic system boot-up. It starts with a brief digital flicker / typing-in effect, becomes fully readable, stays on screen for a moment, then disappears with a clean glitch dissolve. The animation should feel sleek and cinematic, not cartoonish.
+Timing:
+0.0–0.4 sec: text materializes with glitch / scan effect
+0.4–1.8 sec: text stays fully visible
+1.8–2.3 sec: text breaks apart and disappears digitally
+Background:
+pure solid green screen only, evenly lit, clean chroma key background, no shadows, no texture, no gradient.
+Framing:
+centered text, large and readable, with enough empty green space around it for easy compositing.
+Format:
+16:9, high contrast, clean overlay element, designed to be placed over another video later.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="Futuristic Sci-Fi Title Animation">
+
+**[🎬 Watch Video →](https://x.com/ai_gezgini/status/2064424469079474504)**
+
+**Author:** [ai.gezgini](https://x.com/ai_gezgini) | **Source:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Published:** Jun 9, 2026
+
+---
 ### Cinematic Action Stunt Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1243,6 +1299,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-10T08:06:55.616Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-10T15:32:52.662Z</sub>
 
 </div>

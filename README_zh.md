@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **55** |
+| 📝 提示词总数 | **57** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-06-10** |
 
@@ -56,6 +56,62 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 慢动作变速特效
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，旨在当物体或动物达到动作顶点时，营造出戏剧性的慢动作效果。
+
+#### 📝 提示词
+
+```
+当小狗跃向圆环时，时间开始平滑过渡至极致慢动作——在跳跃的最高点，速度降至正常速度的约 1%
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="慢动作变速特效">
+
+**[🎬 观看视频 →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
+
+**作者:** [Google Flow](https://x.com/FlowbyGoogle) | **来源:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **发布时间:** Jun 9, 2026
+
+---
+### 未来科幻风格标题动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高度详细的视频提示词，用于创建可用于视频叠加的绿幕赛博朋克故障风科幻标题动画。
+
+#### 📝 提示词
+
+```
+在纯绿幕背景上创建一个独立的标题动画，以便进行色度键抠像。不要包含任何环境、机器人、城市或电影背景。仅显示动画文字。
+
+主标题：
+“ISTANBUL // YEAR 2100”
+
+风格：
+未来感、机器人风格、科幻界面外观、金属数字排版、微妙的故障效果、扫描线、数据闪烁、电子失真，以及字母周围柔和的青色 / 白色霓虹光晕。
+动画：
+文字应呈现出机器人系统启动的效果。以短暂的数字闪烁 / 键入效果开始，随后完全清晰可见，在屏幕上停留片刻，最后以干净的故障溶解效果消失。动画应感觉流畅且具有电影质感，而非卡通化。
+时间轴：
+0.0–0.4 秒：文字伴随故障 / 扫描效果显现
+0.4–1.8 秒：文字保持完全可见
+1.8–2.3 秒：文字以数字方式破碎并消失
+背景：
+仅纯色绿幕，光照均匀，干净的色度键背景，无阴影，无纹理，无渐变。
+构图：
+文字居中，清晰易读，周围留有足够的绿色空白空间，便于后期合成。
+格式：
+16:9，高对比度，干净的叠加元素，专为后续叠加在其他视频上而设计。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="未来科幻风格标题动画">
+
+**[🎬 观看视频 →](https://x.com/ai_gezgini/status/2064424469079474504)**
+
+**作者:** [ai.gezgini](https://x.com/ai_gezgini) | **来源:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **发布时间:** Jun 9, 2026
+
+---
 ### 电影级动作特技序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1264,6 +1320,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-10T08:06:56.163Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-10T15:32:53.127Z</sub>
 
 </div>

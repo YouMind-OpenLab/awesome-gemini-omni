@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **55** |
+| 📝 Tổng số prompt | **57** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-10** |
 
@@ -56,6 +56,62 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hiệu ứng Slow Motion Action Ramp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video được thiết kế để tạo hiệu ứng chuyển động chậm đầy kịch tính khi một vật thể hoặc động vật đạt đến đỉnh điểm của chuyển động.
+
+#### 📝 Prompt
+
+```
+Khi chú chó chạm đến vòng, thời gian bắt đầu chậm dần thành hiệu ứng slow motion cực đại — đạt khoảng 1% tốc độ thực tại đỉnh điểm của cú nhảy
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="Hiệu ứng Slow Motion Action Ramp">
+
+**[🎬 Xem video →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
+
+**Tác giả:** [Google Flow](https://x.com/FlowbyGoogle) | **Nguồn:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **Đã xuất bản:** Jun 9, 2026
+
+---
+### Hoạt ảnh tiêu đề khoa học viễn tưởng tương lai
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chi tiết để tạo hoạt ảnh tiêu đề khoa học viễn tưởng mang phong cách điều khiển học, hiệu ứng nhiễu trên nền xanh lá cây để làm lớp phủ video.
+
+#### 📝 Prompt
+
+```
+Tạo một hoạt ảnh tiêu đề độc lập trên nền xanh lá cây thuần túy để sử dụng kỹ thuật chroma key. Không bao gồm bất kỳ môi trường, robot, thành phố hoặc nền điện ảnh nào. Chỉ hiển thị văn bản hoạt hình.
+
+Văn bản chính:
+“ISTANBUL // YEAR 2100”
+
+Phong cách:
+tương lai, robot, giao diện khoa học viễn tưởng, kiểu chữ kỹ thuật số kim loại, hiệu ứng nhiễu tinh tế, đường quét, nhấp nháy dữ liệu, biến dạng điện tử và ánh sáng neon màu lục lam / trắng dịu xung quanh các chữ cái.
+Hoạt ảnh:
+Văn bản sẽ xuất hiện giống như quá trình khởi động của một hệ thống robot. Bắt đầu bằng hiệu ứng nhấp nháy kỹ thuật số / hiệu ứng gõ phím ngắn, hiển thị rõ ràng, giữ trên màn hình trong chốc lát, sau đó biến mất bằng hiệu ứng tan biến nhiễu gọn gàng. Hoạt ảnh cần mang lại cảm giác mượt mà và đậm chất điện ảnh, không giống hoạt hình.
+Thời lượng:
+0,0–0,4 giây: văn bản xuất hiện với hiệu ứng nhiễu / đường quét
+0,4–1,8 giây: văn bản hiển thị rõ ràng
+1,8–2,3 giây: văn bản vỡ ra và biến mất theo kiểu kỹ thuật số
+Nền:
+chỉ sử dụng nền xanh lá cây thuần túy, được chiếu sáng đều, nền chroma key sạch sẽ, không có bóng đổ, không có kết cấu, không có hiệu ứng chuyển màu.
+Bố cục:
+văn bản căn giữa, lớn và dễ đọc, với đủ khoảng trống màu xanh lá cây xung quanh để dễ dàng ghép ảnh.
+Định dạng:
+16:9, độ tương phản cao, phần tử lớp phủ sạch sẽ, được thiết kế để đặt lên trên một video khác sau này.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="Hoạt ảnh tiêu đề khoa học viễn tưởng tương lai">
+
+**[🎬 Xem video →](https://x.com/ai_gezgini/status/2064424469079474504)**
+
+**Tác giả:** [ai.gezgini](https://x.com/ai_gezgini) | **Nguồn:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Đã xuất bản:** Jun 9, 2026
+
+---
 ### Chuỗi hành động đóng thế đậm chất điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1264,6 +1320,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-10T08:07:00.134Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-10T15:32:55.751Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **55** |
+| 📝 Total de prompts | **57** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-06-10** |
 
@@ -56,6 +56,62 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Efecto de cámara lenta (Slow Motion Action Ramp)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video diseñado para crear un efecto dramático de cámara lenta cuando un objeto o animal alcanza el punto máximo de su movimiento.
+
+#### 📝 Prompt
+
+```
+A medida que el perro alcanza el aro, el tiempo comienza a reducirse hasta una cámara lenta extrema, alcanzando aproximadamente el 1% de la velocidad real en el punto más alto del salto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="Efecto de cámara lenta (Slow Motion Action Ramp)">
+
+**[🎬 Ver video →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
+
+**Autor:** [Google Flow](https://x.com/FlowbyGoogle) | **Fuente:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **Publicado:** Jun 9, 2026
+
+---
+### Animación de título de ciencia ficción futurista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video altamente detallado para crear una animación de título de ciencia ficción cibernética con efectos de glitch sobre una pantalla verde para superposiciones de video.
+
+#### 📝 Prompt
+
+```
+Crea una animación de título independiente sobre un fondo de pantalla verde puro para uso con chroma key. No incluyas ningún entorno, robot, ciudad o fondo cinematográfico. Muestra únicamente el texto animado.
+
+Texto principal:
+“ISTANBUL // YEAR 2100”
+
+Estilo:
+futurista, robótico, aspecto de interfaz de ciencia ficción, tipografía digital metálica, efectos de glitch sutiles, líneas de escaneo, parpadeo de datos, distorsión electrónica y un suave resplandor cian neón / blanco alrededor de las letras.
+Animación:
+El texto debe aparecer como el arranque de un sistema robótico. Comienza con un breve parpadeo digital / efecto de escritura, se vuelve completamente legible, permanece en pantalla un momento y luego desaparece con una disolución de glitch limpia. La animación debe sentirse elegante y cinematográfica, no caricaturesca.
+Duración:
+0.0–0.4 seg: el texto se materializa con efecto de glitch / escaneo
+0.4–1.8 seg: el texto permanece completamente visible
+1.8–2.3 seg: el texto se descompone y desaparece digitalmente
+Fondo:
+pantalla verde sólida pura únicamente, iluminada uniformemente, fondo de chroma key limpio, sin sombras, sin texturas, sin degradados.
+Encuadre:
+texto centrado, grande y legible, con suficiente espacio verde vacío alrededor para facilitar la composición.
+Formato:
+16:9, alto contraste, elemento de superposición limpio, diseñado para ser colocado sobre otro video posteriormente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="Animación de título de ciencia ficción futurista">
+
+**[🎬 Ver video →](https://x.com/ai_gezgini/status/2064424469079474504)**
+
+**Autor:** [ai.gezgini](https://x.com/ai_gezgini) | **Fuente:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Publicado:** Jun 9, 2026
+
+---
 ### Secuencia de acción cinematográfica con especialistas
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1264,6 +1320,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-10T08:07:01.612Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-10T15:32:56.714Z</sub>
 
 </div>

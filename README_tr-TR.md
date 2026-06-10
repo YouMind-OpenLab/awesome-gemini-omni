@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **55** |
+| 📝 Toplam İstem | **57** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-10** |
 
@@ -56,6 +56,62 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Ağır Çekim Hareket Rampası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir nesne veya hayvan hareketinin zirvesine ulaştığında dramatik bir ağır çekim etkisi yaratmak için tasarlanmış bir video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Köpek çembere ulaştığı anda zaman, aşırı ağır çekime geçerek yavaşlamaya başlar ve sıçramanın zirvesinde gerçek hızın yaklaşık %1'ine ulaşır
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="Ağır Çekim Hareket Rampası">
+
+**[🎬 Videoyu izle →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
+
+**Yazar:** [Google Flow](https://x.com/FlowbyGoogle) | **Kaynak:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **Yayınlandı:** Jun 9, 2026
+
+---
+### Fütüristik Bilim Kurgu Başlık Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video katmanları için yeşil ekran üzerinde sibernetik, glitch efektli bir bilim kurgu başlık animasyonu oluşturmaya yönelik oldukça detaylı bir video istemi.
+
+#### 📝 İstem
+
+```
+Chroma key kullanımı için saf yeşil ekran arka plan üzerinde bağımsız bir başlık animasyonu oluşturun. Herhangi bir ortam, robot, şehir veya sinematik arka plan içermesin. Sadece animasyonlu metni gösterin.
+
+Ana metin:
+“ISTANBUL // YEAR 2100”
+
+Stil:
+fütüristik, robotik, bilim kurgu arayüz görünümü, metalik-dijital tipografi, hafif glitch efektleri, tarama çizgileri, veri titremesi, elektronik bozulma ve harflerin etrafında yumuşak neon camgöbeği / beyaz bir parlama.
+Animasyon:
+Metin, robotik bir sistemin açılışı gibi görünmelidir. Kısa bir dijital titreme / yazılma efektiyle başlar, tamamen okunabilir hale gelir, bir süre ekranda kalır ve ardından temiz bir glitch çözünmesiyle kaybolur. Animasyon karikatürize değil, şık ve sinematik hissettirmelidir.
+Zamanlama:
+0.0–0.4 sn: metin glitch / tarama efektiyle belirir
+0.4–1.8 sn: metin tamamen görünür kalır
+1.8–2.3 sn: metin parçalanır ve dijital olarak kaybolur
+Arka plan:
+sadece saf düz yeşil ekran, eşit şekilde aydınlatılmış, temiz chroma key arka planı, gölge yok, doku yok, gradyan yok.
+Çerçeveleme:
+ortalanmış metin, büyük ve okunabilir, kolay kompozisyon için etrafında yeterli boş yeşil alan.
+Format:
+16:9, yüksek kontrast, temiz katman öğesi, daha sonra başka bir videonun üzerine yerleştirilmek üzere tasarlanmıştır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="Fütüristik Bilim Kurgu Başlık Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/ai_gezgini/status/2064424469079474504)**
+
+**Yazar:** [ai.gezgini](https://x.com/ai_gezgini) | **Kaynak:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Yayınlandı:** Jun 9, 2026
+
+---
 ### Sinematik Aksiyon Dublör Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1264,6 +1320,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-10T08:07:06.775Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-10T15:33:00.032Z</sub>
 
 </div>

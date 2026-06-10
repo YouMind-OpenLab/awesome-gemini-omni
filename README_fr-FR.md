@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **55** |
+| 📝 Total des prompts | **57** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-10** |
 
@@ -56,6 +56,62 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Ralenti progressif (Slow Motion Action Ramp)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo conçu pour créer un effet de ralenti spectaculaire lorsqu'un objet ou un animal atteint le point culminant de son mouvement.
+
+#### 📝 Prompt
+
+```
+Alors que le chien atteint le cerceau, le temps commence à ralentir progressivement jusqu'à un ralenti extrême, atteignant environ 1 % de la vitesse réelle au sommet du saut
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="Ralenti progressif (Slow Motion Action Ramp)">
+
+**[🎬 Voir la vidéo →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
+
+**Auteur:** [Google Flow](https://x.com/FlowbyGoogle) | **Source:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **Publié:** Jun 9, 2026
+
+---
+### Animation de titre de science-fiction futuriste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo extrêmement détaillé pour créer une animation de titre cybernétique et glitchée de science-fiction sur fond vert, destinée aux superpositions vidéo.
+
+#### 📝 Prompt
+
+```
+Créez une animation de titre autonome sur un fond vert pur pour une utilisation en incrustation (chroma key). N'incluez aucun environnement, robot, ville ou arrière-plan cinématographique. Affichez uniquement le texte animé.
+
+Texte principal :
+« ISTANBUL // YEAR 2100 »
+
+Style :
+futuriste, robotique, interface de science-fiction, typographie numérique métallique, effets de glitch subtils, lignes de balayage, scintillement de données, distorsion électronique et un doux éclat néon cyan / blanc autour des lettres.
+Animation :
+Le texte doit apparaître comme le démarrage d'un système robotique. Il commence par un bref scintillement numérique / effet de frappe, devient parfaitement lisible, reste à l'écran un instant, puis disparaît avec une dissolution glitch propre. L'animation doit paraître élégante et cinématographique, sans aspect cartoon.
+Chronologie :
+0,0–0,4 s : le texte se matérialise avec un effet de glitch / balayage
+0,4–1,8 s : le texte reste entièrement visible
+1,8–2,3 s : le texte se fragmente et disparaît numériquement
+Arrière-plan :
+fond vert uni uniquement, éclairage uniforme, fond d'incrustation propre, sans ombres, sans texture, sans dégradé.
+Cadrage :
+texte centré, grand et lisible, avec suffisamment d'espace vert vide autour pour une composition facile.
+Format :
+16:9, contraste élevé, élément de superposition propre, conçu pour être placé ultérieurement sur une autre vidéo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="Animation de titre de science-fiction futuriste">
+
+**[🎬 Voir la vidéo →](https://x.com/ai_gezgini/status/2064424469079474504)**
+
+**Auteur:** [ai.gezgini](https://x.com/ai_gezgini) | **Source:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Publié:** Jun 9, 2026
+
+---
 ### Séquence de cascades cinématographiques
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1264,6 +1320,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-10T08:07:03.513Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-10T15:32:58.093Z</sub>
 
 </div>

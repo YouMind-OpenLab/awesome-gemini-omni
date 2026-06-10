@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **55** |
+| 📝 Totale prompt | **57** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-10** |
 
@@ -56,6 +56,62 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Effetto Slow Motion Action Ramp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di generazione video progettato per creare un drammatico effetto al rallentatore nel momento in cui un oggetto o un animale raggiunge l'apice del suo movimento.
+
+#### 📝 Prompt
+
+```
+Mentre il cane raggiunge il cerchio, il tempo inizia a rallentare fino a un estremo slow motion, arrivando a circa l'1% della velocità reale nel punto più alto del salto
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="Effetto Slow Motion Action Ramp">
+
+**[🎬 Guarda il video →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
+
+**Autore:** [Google Flow](https://x.com/FlowbyGoogle) | **Fonte:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **Pubblicato:** Jun 9, 2026
+
+---
+### Animazione titolo sci-fi futuristica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video altamente dettagliato per creare un'animazione di un titolo sci-fi cibernetico e glitch su green screen per sovrapposizioni video.
+
+#### 📝 Prompt
+
+```
+Crea un'animazione di un titolo indipendente su uno sfondo green screen puro per l'utilizzo del chroma key. Non includere alcun ambiente, robot, città o sfondo cinematografico. Mostra solo il testo animato.
+
+Testo principale:
+“ISTANBUL // YEAR 2100”
+
+Stile:
+futuristico, robotico, look interfaccia sci-fi, tipografia digitale metallica, sottili effetti glitch, linee di scansione, sfarfallio dati, distorsione elettronica e un tenue bagliore neon ciano / bianco attorno alle lettere.
+Animazione:
+Il testo dovrebbe apparire come l'avvio di un sistema robotico. Inizia con un breve sfarfallio digitale / effetto di digitazione, diventa completamente leggibile, rimane sullo schermo per un momento, quindi scompare con una dissolvenza glitch pulita. L'animazione dovrebbe risultare elegante e cinematografica, non cartoonesca.
+Tempistiche:
+0.0–0.4 sec: il testo si materializza con effetto glitch / scansione
+0.4–1.8 sec: il testo rimane completamente visibile
+1.8–2.3 sec: il testo si frammenta e scompare digitalmente
+Sfondo:
+solo green screen a tinta unita, illuminato uniformemente, sfondo chroma key pulito, nessuna ombra, nessuna texture, nessun gradiente.
+Inquadratura:
+testo centrato, grande e leggibile, con abbastanza spazio verde vuoto attorno per una facile composizione.
+Formato:
+16:9, alto contrasto, elemento di sovrapposizione pulito, progettato per essere posizionato sopra un altro video in un secondo momento.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="Animazione titolo sci-fi futuristica">
+
+**[🎬 Guarda il video →](https://x.com/ai_gezgini/status/2064424469079474504)**
+
+**Autore:** [ai.gezgini](https://x.com/ai_gezgini) | **Fonte:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Pubblicato:** Jun 9, 2026
+
+---
 ### Sequenza cinematografica di stunt d'azione
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1264,6 +1320,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-10T08:07:04.237Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-10T15:32:58.582Z</sub>
 
 </div>
