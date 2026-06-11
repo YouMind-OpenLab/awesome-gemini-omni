@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **57** |
+| 📝 Totale prompt | **58** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-11** |
 
@@ -56,6 +56,25 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Sequenza video con storyboard cinematografico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per Gemini Omni per animare uno storyboard a griglia in una sequenza video cinematografica continua di 10 secondi.
+
+#### 📝 Prompt
+
+```
+Mostrami questa storia. Segui la storia esattamente nell'ordine indicato, partendo dall'alto a sinistra. L'intera storia in 10 secondi. Cinematografico.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="Sequenza video con storyboard cinematografico">
+
+**[🎬 Guarda il video →](https://x.com/masterai13/status/2064704102701928461)**
+
+**Autore:** [Natai](https://x.com/masterai13) | **Fonte:** [Link](https://x.com/masterai13/status/2064704102701928461) | **Pubblicato:** Jun 10, 2026
+
+---
 ### Effetto Slow Motion Action Ramp
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1320,6 +1339,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-11T08:46:43.266Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-11T15:59:00.522Z</sub>
 
 </div>

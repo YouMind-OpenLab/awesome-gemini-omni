@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **57** |
+| 📝 พรอมต์ทั้งหมด | **58** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-06-11** |
 
@@ -56,6 +56,25 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### ลำดับวิดีโอสตอรี่บอร์ดแบบภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับ Gemini Omni เพื่อเปลี่ยนสตอรี่บอร์ดแบบตารางให้เป็นลำดับวิดีโอแบบภาพยนตร์ต่อเนื่องความยาว 10 วินาที
+
+#### 📝 พรอมต์
+
+```
+แสดงให้ฉันเห็นในเรื่องราวนี้ โดยดำเนินเรื่องตามลำดับอย่างเคร่งครัดเริ่มจากซ้ายบน ทั้งหมดนี้ภายใน 10 วินาที ในรูปแบบภาพยนตร์
+```
+
+<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="ลำดับวิดีโอสตอรี่บอร์ดแบบภาพยนตร์">
+
+**[🎬 ดูวิดีโอ →](https://x.com/masterai13/status/2064704102701928461)**
+
+**ผู้เขียน:** [Natai](https://x.com/masterai13) | **แหล่งที่มา:** [Link](https://x.com/masterai13/status/2064704102701928461) | **เผยแพร่เมื่อ:** Jun 10, 2026
+
+---
 ### การทำ Slow Motion แบบไล่ระดับ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1320,6 +1339,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-11T08:46:41.197Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-11T15:58:58.335Z</sub>
 
 </div>

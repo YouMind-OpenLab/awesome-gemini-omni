@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **57** |
+| 📝 Tổng số prompt | **58** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-11** |
 
@@ -56,6 +56,25 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Chuỗi video phân cảnh điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh dành cho Gemini Omni để chuyển hoạt ảnh từ bảng phân cảnh dạng lưới thành một chuỗi video điện ảnh liên tục dài 10 giây.
+
+#### 📝 Prompt
+
+```
+Hãy thể hiện câu chuyện này cho tôi. Thực hiện chính xác theo thứ tự câu chuyện bắt đầu từ góc trên cùng bên trái. Toàn bộ câu chuyện trong 10 giây. Phong cách điện ảnh.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="Chuỗi video phân cảnh điện ảnh">
+
+**[🎬 Xem video →](https://x.com/masterai13/status/2064704102701928461)**
+
+**Tác giả:** [Natai](https://x.com/masterai13) | **Nguồn:** [Link](https://x.com/masterai13/status/2064704102701928461) | **Đã xuất bản:** Jun 10, 2026
+
+---
 ### Hiệu ứng Slow Motion Action Ramp
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1320,6 +1339,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-11T08:46:41.528Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-11T15:58:58.704Z</sub>
 
 </div>

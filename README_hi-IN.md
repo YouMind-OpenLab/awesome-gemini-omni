@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **57** |
+| 📝 कुल प्रॉम्पट्स | **58** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-06-11** |
 
@@ -56,6 +56,25 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### सिनेमैटिक स्टोरीबोर्ड वीडियो सीक्वेंस
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni के लिए एक प्रॉम्प्ट, जो ग्रिड-आधारित स्टोरीबोर्ड को 10-सेकंड के निरंतर सिनेमैटिक वीडियो सीक्वेंस में एनिमेट करता है।
+
+#### 📝 प्रॉम्पट
+
+```
+मुझे इस कहानी में दिखाएं। ऊपर बाईं ओर से शुरू करते हुए कहानी का ठीक उसी क्रम में पालन करें। पूरी कहानी 10 सेकंड में। सिनेमैटिक।
+```
+
+<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="सिनेमैटिक स्टोरीबोर्ड वीडियो सीक्वेंस">
+
+**[🎬 वीडियो देखें →](https://x.com/masterai13/status/2064704102701928461)**
+
+**लेखक:** [Natai](https://x.com/masterai13) | **स्रोत:** [Link](https://x.com/masterai13/status/2064704102701928461) | **प्रकाशित:** Jun 10, 2026
+
+---
 ### स्लो मोशन एक्शन रैंप
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1320,6 +1339,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-11T08:46:41.847Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-11T15:58:58.999Z</sub>
 
 </div>

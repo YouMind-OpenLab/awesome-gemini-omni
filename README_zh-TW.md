@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **57** |
+| 📝 提示詞總數 | **58** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-11** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 電影感 Storyboard 影片序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於 Gemini Omni 的提示詞，旨在將網格狀的 Storyboard 動畫化為一段 10 秒的連續電影感影片序列。
+
+#### 📝 提示詞
+
+```
+請將此故事呈現出來。請嚴格按照從左上角開始的順序進行。整個故事需在 10 秒內完成。呈現電影感。
+```
+
+<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="電影感 Storyboard 影片序列">
+
+**[🎬 觀看視頻 →](https://x.com/masterai13/status/2064704102701928461)**
+
+**作者:** [Natai](https://x.com/masterai13) | **來源:** [Link](https://x.com/masterai13/status/2064704102701928461) | **發布時間:** Jun 10, 2026
+
+---
 ### 慢動作動態加速
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1320,6 +1339,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-11T08:46:40.307Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-11T15:58:56.479Z</sub>
 
 </div>

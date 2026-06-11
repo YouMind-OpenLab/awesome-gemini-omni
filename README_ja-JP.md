@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **57** |
+| 📝 プロンプト総数 | **58** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-06-11** |
 
@@ -56,6 +56,25 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### シネマティックなストーリーボード動画シーケンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> グリッド形式のストーリーボードを 10 秒間の連続したシネマティックな動画シーケンスにアニメーション化するための Gemini Omni 用プロンプト。
+
+#### 📝 プロンプト
+
+```
+このストーリーを映像化してください。左上から順に、ストーリーの展開を正確に追ってください。ストーリー全体を 10 秒間で構成し、シネマティックな仕上がりにしてください。
+```
+
+<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="シネマティックなストーリーボード動画シーケンス">
+
+**[🎬 動画を見る →](https://x.com/masterai13/status/2064704102701928461)**
+
+**作者:** [Natai](https://x.com/masterai13) | **ソース:** [Link](https://x.com/masterai13/status/2064704102701928461) | **公開日:** Jun 10, 2026
+
+---
 ### スローモーション・アクション・ランプ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1320,6 +1339,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-11T08:46:40.601Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-11T15:58:57.682Z</sub>
 
 </div>

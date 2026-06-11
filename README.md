@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **57** |
+| 📝 Total Prompts | **58** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-11** |
 
@@ -56,6 +56,25 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Storyboard Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Gemini Omni to animate a grid-based storyboard into a continuous 10-second cinematic video sequence.
+
+#### 📝 Prompt
+
+```
+Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="Cinematic Storyboard Video Sequence">
+
+**[🎬 Watch Video →](https://x.com/masterai13/status/2064704102701928461)**
+
+**Author:** [Natai](https://x.com/masterai13) | **Source:** [Link](https://x.com/masterai13/status/2064704102701928461) | **Published:** Jun 10, 2026
+
+---
 ### Slow Motion Action Ramp
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -112,19 +131,19 @@ Format:
 **Author:** [ai.gezgini](https://x.com/ai_gezgini) | **Source:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Published:** Jun 9, 2026
 
 ---
-### Cinematic Action Stunt Sequence
+### Action Stunt Sequence Bridge Jump
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy video prompt designed to test physics and motion by generating a complex sequence of a bridge jump onto a moving vehicle.
+> A simple yet challenging video prompt featuring a stunt jump from a bridge onto a moving truck and then a car, used to test physics and motion logic in video generation.
 
 #### 📝 Prompt
 
 ```
-a bridge jump, landing on a moving truck, then jumping onto a car and taking it over.
+a bridge jump, landing on a moving truck, then jumping onto a car and taking it over
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Cinematic Action Stunt Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Action Stunt Sequence Bridge Jump">
 
 **[🎬 Watch Video →](https://x.com/YourAlphaMom/status/2063952651205677170)**
 
@@ -1299,6 +1318,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-11T08:46:39.688Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-11T15:58:55.864Z</sub>
 
 </div>

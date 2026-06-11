@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **57** |
+| 📝 Total de prompts | **58** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-06-11** |
 
@@ -56,6 +56,25 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Secuencia de video de guion gráfico cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para Gemini Omni para animar un guion gráfico basado en cuadrícula en una secuencia de video cinematográfica continua de 10 segundos.
+
+#### 📝 Prompt
+
+```
+Muéstrame en esta historia. Sigue la historia exactamente en orden comenzando desde la parte superior izquierda. Toda la historia en 10 segundos. Cinematográfico.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="Secuencia de video de guion gráfico cinematográfico">
+
+**[🎬 Ver video →](https://x.com/masterai13/status/2064704102701928461)**
+
+**Autor:** [Natai](https://x.com/masterai13) | **Fuente:** [Link](https://x.com/masterai13/status/2064704102701928461) | **Publicado:** Jun 10, 2026
+
+---
 ### Efecto de cámara lenta (Slow Motion Action Ramp)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1320,6 +1339,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-11T08:46:42.443Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-11T15:58:59.591Z</sub>
 
 </div>

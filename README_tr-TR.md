@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **57** |
+| 📝 Toplam İstem | **58** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-11** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Storyboard Video Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni'nin ızgara tabanlı bir storyboard'u 10 saniyelik kesintisiz bir sinematik video sekansına dönüştürmesi için bir komut.
+
+#### 📝 İstem
+
+```
+Bana bu hikayeyi göster. Sol üstten başlayarak hikayeyi sırasıyla tam olarak takip et. Tüm hikaye 10 saniye içinde olsun. Sinematik.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="Sinematik Storyboard Video Sekansı">
+
+**[🎬 Videoyu izle →](https://x.com/masterai13/status/2064704102701928461)**
+
+**Yazar:** [Natai](https://x.com/masterai13) | **Kaynak:** [Link](https://x.com/masterai13/status/2064704102701928461) | **Yayınlandı:** Jun 10, 2026
+
+---
 ### Ağır Çekim Hareket Rampası
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1320,6 +1339,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-11T08:46:44.110Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-11T15:59:01.294Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **57** |
+| 📝 총 프롬프트 수 | **58** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-11** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 시네마틱 스토리보드 영상 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni를 사용하여 그리드 기반 스토리보드를 10초 분량의 연속적인 시네마틱 영상 시퀀스로 애니메이션화하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이 스토리를 영상으로 보여줘. 왼쪽 상단부터 시작하여 스토리 순서를 정확히 따라가 줘. 전체 스토리를 10초 안에 담아내고, 시네마틱한 느낌으로 제작해 줘.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="시네마틱 스토리보드 영상 시퀀스">
+
+**[🎬 비디오 보기 →](https://x.com/masterai13/status/2064704102701928461)**
+
+**작성자:** [Natai](https://x.com/masterai13) | **출처:** [Link](https://x.com/masterai13/status/2064704102701928461) | **게시일:** Jun 10, 2026
+
+---
 ### 슬로우 모션 액션 램프
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1320,6 +1339,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-11T08:46:40.905Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-11T15:58:58.001Z</sub>
 
 </div>

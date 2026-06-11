@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **57** |
+| 📝 Gesamtanzahl Prompts | **58** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-11** |
 
@@ -56,6 +56,25 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Filmische Storyboard-Videosequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für Gemini Omni, um ein rasterbasiertes Storyboard in eine durchgehende, 10-sekündige filmische Videosequenz zu animieren.
+
+#### 📝 Prompt
+
+```
+Zeige mir diese Geschichte. Folge der Geschichte exakt in der Reihenfolge, beginnend oben links. Die gesamte Geschichte in 10 Sekunden. Filmisch.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="Filmische Storyboard-Videosequenz">
+
+**[🎬 Video ansehen →](https://x.com/masterai13/status/2064704102701928461)**
+
+**Autor:** [Natai](https://x.com/masterai13) | **Quelle:** [Link](https://x.com/masterai13/status/2064704102701928461) | **Veröffentlicht:** Jun 10, 2026
+
+---
 ### Slow-Motion-Action-Ramp
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1320,6 +1339,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-11T08:46:42.728Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-11T15:58:59.860Z</sub>
 
 </div>
