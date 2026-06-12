@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **58** |
+| 📝 Total de prompts | **59** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-06-12** |
 
@@ -56,6 +56,56 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Jogador de futebol marcando um gol e comemorando
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt complexo de ação esportiva para uma sequência de futebol envolvendo driblar defensores, marcar um gol e comemorar de forma natural.
+
+#### 📝 Prompt
+
+```
+Um jogador precisou romper a defesa, driblar os adversários, marcar um belo gol e comemorar de forma natural.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c53da27de61023f58dc784d761eb6c8/thumbnails/thumbnail.jpg" width="600" alt="Jogador de futebol marcando um gol e comemorando">
+
+**[🎬 Assistir vídeo →](https://x.com/YourAlphaMom/status/2065002571148779843)**
+
+**Autor:** [Alpha Mom](https://x.com/YourAlphaMom) | **Fonte:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **Publicado:** Jun 11, 2026
+
+---
+### Colagem de Vlog de Viagem Realista pela Itália
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt abrangente para gerar um vídeo de vlog de viagem com temática da Itália realista, com estética de câmera de smartphone, apresentando um detalhamento de vários locais icônicos e enquadramento casual de mão.
+
+#### 📝 Prompt
+
+```
+colagem de vlog realista da Itália, sensação de câmera de smartphone imperfeita, névoa de umidade tropical, desfoque de movimento, narrativa de viagem autêntica, enquadramento casual de mão, texturas realistas, luz ambiente natural, sem polimento de estúdio, realismo de rede social espontâneo
+
+Detalhamento dos quadros inclui:
+- selfie na mesa de restaurante em caverna com ecos do mar
+- conferindo mapa de estrada na Toscana após pegar o caminho errado
+- caminhada em plantação de limões em Amalfi vista de trás
+- selfie trêmula em gôndola em Veneza ao anoitecer
+- momento espontâneo de almoço em terraço em Cinque Terre
+- selfie apertada em barco em Capri com brilho azul
+- brinde de jantar no Lago de Como com enquadramento torto
+- selfie com vento no rosto em colina de Florença com névoa da cidade
+- momento à mesa com frutos do mar na Sicília com pratos bagunçados
+Quadro final: aperitivo em bar de beco em Roma enquanto as luzes da rua piscam, captura de celular trêmula e risonha
+```
+
+<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="Colagem de Vlog de Viagem Realista pela Itália">
+
+**[🎬 Assistir vídeo →](https://x.com/mariaveydiaries/status/2064893720823271904)**
+
+**Autor:** [Maria Vey](https://x.com/mariaveydiaries) | **Fonte:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **Publicado:** Jun 11, 2026
+
+---
 ### Sequência de Vídeo de Storyboard Cinematográfico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -87,7 +137,7 @@ Mostre-me nesta história. Siga a história exatamente na ordem, começando pelo
 À medida que o cão alcança o arco, o tempo começa a desacelerar em uma câmera lenta extrema — atingindo aproximadamente 1% da velocidade real no ápice do salto
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="Efeito de Câmera Lenta (Action Ramp)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b31b364da8c894f1af92298756da4091/thumbnails/thumbnail.jpg" width="600" alt="Efeito de Câmera Lenta (Action Ramp)">
 
 **[🎬 Assistir vídeo →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
 
@@ -124,30 +174,11 @@ Formato:
 16:9, alto contraste, elemento de sobreposição limpo, projetado para ser colocado sobre outro vídeo posteriormente.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="Animação de Título Sci-Fi Futurista">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd4a7e3d76ae65cb9d30303e3fafd12d/thumbnails/thumbnail.jpg" width="600" alt="Animação de Título Sci-Fi Futurista">
 
 **[🎬 Assistir vídeo →](https://x.com/ai_gezgini/status/2064424469079474504)**
 
 **Autor:** [ai.gezgini](https://x.com/ai_gezgini) | **Fonte:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Publicado:** Jun 9, 2026
-
----
-### Sequência de Dublê de Ação Cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de alta energia projetado para testar física e movimento ao gerar uma sequência complexa de um salto de uma ponte para um veículo em movimento.
-
-#### 📝 Prompt
-
-```
-um salto de uma ponte, aterrissando em um caminhão em movimento, depois pulando para um carro e assumindo o controle dele.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Sequência de Dublê de Ação Cinematográfica">
-
-**[🎬 Assistir vídeo →](https://x.com/YourAlphaMom/status/2063952651205677170)**
-
-**Autor:** [Alpha Mom](https://x.com/YourAlphaMom) | **Fonte:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Publicado:** Jun 8, 2026
 
 ---
 ### Tour virtual em primeira pessoa pelo Ginza Six
@@ -162,7 +193,7 @@ um salto de uma ponte, aterrissando em um caminhão em movimento, depois pulando
 Por favor, crie um vídeo em primeira pessoa caminhando pelo Ginza Six, pegando a escada rolante até um novo café no 6º andar e bebendo um novo produto de latte art! Por favor, faça um tour virtual disso!
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Tour virtual em primeira pessoa pelo Ginza Six">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a21aed34172cebce5e53f1fde366ec5/thumbnails/thumbnail.jpg" width="600" alt="Tour virtual em primeira pessoa pelo Ginza Six">
 
 **[🎬 Assistir vídeo →](https://x.com/nagi_1up/status/2063930786903187754)**
 
@@ -181,7 +212,7 @@ Por favor, crie um vídeo em primeira pessoa caminhando pelo Ginza Six, pegando 
 Vídeo amador vertical de smartphone, proporção 9:16, leve tremido natural de câmera na mão, luz brilhante de tarde ensolarada. Um gato malhado fofo com listras laranjas e pretas, peito branco e olhos verdes brilhantes está sentado em uma pedra plana perto da borda de um lago de jardim cristalino, com as costas voltadas principalmente para a câmera. O gato observa atentamente o lago à frente, onde carpas e peixinhos dourados coloridos nadam e ocasionalmente saltam para fora com pequenos respingos. Comportamentos naturais: cauda balançando lentamente de um lado para o outro, orelhas tremendo e girando em direção a cada respingo, cabeça fazendo pequenas inclinações curiosas, toques gentis ocasionais da pata perto da borda da água. A luz do sol brilha na água ondulante criando belos reflexos, com partículas de poeira visíveis no ar. Sons ambientes suaves de água espirrando, brisa leve agitando juncos e folhas próximas, pássaros distantes cantando e o suave pio ou ronronar ocasional do gato. Textura de pelo realista nas costas e na cauda, movimentos de gato realistas a partir de uma visão traseira de três quartos, reflexos de água vibrantes, gradação de cores naturais quentes, estilo de filmagem de iPhone, alto detalhe, clipe de 10 segundos em loop.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="Observação de gato malhado em lago de carpas">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="Observação de gato malhado em lago de carpas">
 
 **[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2063849912773845455)**
 
@@ -200,7 +231,7 @@ Vídeo amador vertical de smartphone, proporção 9:16, leve tremido natural de 
 Figura feminina ultra-realista e sinistra agarrada à parede, meio horizontal, meio vertical, coluna arqueada de forma não natural, longos cabelos pretos emaranhados caindo para frente e obscurecendo parcialmente o rosto, mechas se movem levemente revelando um vislumbre de um olho branco leitoso olhando para baixo, membros retorcidos de forma não natural, cotovelos dobrados para trás, dedos longos demais, agarrando o concreto como ganchos, atmosfera sombria e melancólica, alto contraste, perturbador, realismo de terror. Mulher assustadora rasteja na parede em direção à câmera. A câmera acompanha seu movimento.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="Sequência assustadora de escalada na parede">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="Sequência assustadora de escalada na parede">
 
 **[🎬 Assistir vídeo →](https://x.com/rahulnanda86/status/2063684503282016703)**
 
@@ -219,7 +250,7 @@ Figura feminina ultra-realista e sinistra agarrada à parede, meio horizontal, m
 À medida que a câmera faz uma panorâmica em direção à cidade e desce, vemos os edifícios continuarem no subsolo e debaixo d'água como uma continuação fantástica, elaborada e perfeita de uma cidade secreta de fantasia.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="Panorâmica de Cidade Fantástica Subaquática">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/566a148a54d3afc81db5cb50f35f8474/thumbnails/thumbnail.jpg" width="600" alt="Panorâmica de Cidade Fantástica Subaquática">
 
 **[🎬 Assistir vídeo →](https://x.com/Team_Greenfield/status/2063646327523975345)**
 
@@ -238,7 +269,7 @@ Figura feminina ultra-realista e sinistra agarrada à parede, meio horizontal, m
 Exiba as seguintes palavras na tela, uma a uma: 'Você sabia?' / 'Gemini Omni' / 'Este modelo' / 'Japonês também' / 'é muito' / 'bom!?'. Cada palavra deve aparecer com uma animação única e se desenvolver em um ritmo suave, perfeitamente sincronizado com a batida. O resultado final deve ser um sizzle reel curto e de alta energia, que seja estiloso e experimental, porém acessível, destacando a qualidade da expressão textual.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="Reel de Texto Animado Sincronizado com a Batida">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85e7b9ee81f0fe8c4234867d080596fc/thumbnails/thumbnail.jpg" width="600" alt="Reel de Texto Animado Sincronizado com a Batida">
 
 **[🎬 Assistir vídeo →](https://x.com/takamasa045/status/2063442373917446515)**
 
@@ -257,7 +288,7 @@ Exiba as seguintes palavras na tela, uma a uma: 'Você sabia?' / 'Gemini Omni' /
 Palavra por palavra, uma palavra na tela por vez (exceto para Summarize your voice): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. Cada palavra aparece com um estilo de animação diferente, ritmo perfeito, sizzle reel.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Prompt para Sizzle Reel de Marketing do Gemini Omni">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0af65cac11b6060ebca9c8c4af81df/thumbnails/thumbnail.jpg" width="600" alt="Prompt para Sizzle Reel de Marketing do Gemini Omni">
 
 **[🎬 Assistir vídeo →](https://x.com/YanStudioX/status/2063341254612824307)**
 
@@ -276,7 +307,7 @@ Palavra por palavra, uma palavra na tela por vez (exceto para Summarize your voi
 Adicione Cloud e Tifa de Final Fantasy 7 sentados nas cadeiras de balanço. Adicione também Barret e Red XIII de Final Fantasy 7 jogando futebol nesta cena.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="Aprimoramento de cena de Final Fantasy 7">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53ace4b4476c971aeff4ee79b79b25c3/thumbnails/thumbnail.jpg" width="600" alt="Aprimoramento de cena de Final Fantasy 7">
 
 **[🎬 Assistir vídeo →](https://x.com/bevelez/status/2063316810049679643)**
 
@@ -295,7 +326,7 @@ Adicione Cloud e Tifa de Final Fantasy 7 sentados nas cadeiras de balanço. Adic
 Um leopardo caminha silenciosamente por uma selva enevoada ao amanhecer. Gotas de orvalho caem das folhas, a luz do sol filtra-se pelas árvores e a câmera acompanha o animal. Estilo National Geographic, filmagem de vida selvagem ultrarrealista
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="Tomada cinematográfica de rastreamento de leopardo na vida selvagem">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9dd1af9dd9efab6e01650a79e6afa08/thumbnails/thumbnail.jpg" width="600" alt="Tomada cinematográfica de rastreamento de leopardo na vida selvagem">
 
 **[🎬 Assistir vídeo →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
 
@@ -314,7 +345,7 @@ Um leopardo caminha silenciosamente por uma selva enevoada ao amanhecer. Gotas d
 Use a imagem do MATCHA LATTE STORYBOARD de 8 quadros em anexo como referência exata. Crie um vídeo animado em 3D fluido e satisfatório de 10 segundos no estilo Pixar, na proporção 16:9, que siga exatamente o storyboard de 8 cenas. Preserve o mesmo ambiente aconchegante, iluminado e moderno da casa
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="Animação de Storyboard no Estilo Pixar">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="Animação de Storyboard no Estilo Pixar">
 
 **[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2063108439577129359)**
 
@@ -333,7 +364,7 @@ Use a imagem do MATCHA LATTE STORYBOARD de 8 quadros em anexo como referência e
 Palavra por palavra, uma palavra na tela de cada vez: você, sabia, que, este, modelo, consegue, fazer, textos, muito, bons!?, cada palavra aparece com um estilo de animação diferente, ritmo perfeito para uma batida, vídeo promocional.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Vídeo Promocional com Texto Animado">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c4a8ebe90c8cbec7fbddf22848862938/thumbnails/thumbnail.jpg" width="600" alt="Vídeo Promocional com Texto Animado">
 
 **[🎬 Assistir vídeo →](https://x.com/Google/status/2062925430290526486)**
 
@@ -390,7 +421,7 @@ Uma versão gigantesca de mim, vestindo exatamente a mesma roupa e com o mesmo r
 Perspectiva de primeira pessoa, uma cena de perseguição cinematográfica, ultrarrápida e em plano-sequência em uma vassoura voadora. A filmagem deve seguir estritamente a trajetória de voo branca mostrada na imagem. O Pomo de Ouro permanece como o alvo principal durante toda a perseguição, mas não pode ficar fixo no centro
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="Vídeo de trajetória de voo em vassoura na primeira pessoa">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de trajetória de voo em vassoura na primeira pessoa">
 
 **[🎬 Assistir vídeo →](https://x.com/GamsGo_Global/status/2062462744297914664)**
 
@@ -412,7 +443,7 @@ Negative Prompt:
 desenho animado, animação, baixo detalhe, baixa resolução, visão em terceira pessoa, múltiplos ratos, múltiplos gatos, texto, legendas, marca d'água, falhas, movimento lento, câmera estática, física irrealista, assunto embaçado, animais deformados, sangue, violência.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="Perseguição Cinematográfica em Primeira Pessoa de um Rato">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="Perseguição Cinematográfica em Primeira Pessoa de um Rato">
 
 **[🎬 Assistir vídeo →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
 
@@ -431,7 +462,7 @@ desenho animado, animação, baixo detalhe, baixa resolução, visão em terceir
 Um cavaleiro medieval exausto, vestindo uma armadura de placas brilhante, descansa pacificamente sob um grande carvalho antigo em um vasto e infinito campo de papoulas vermelhas vibrantes que balançam suavemente com a brisa. O cavaleiro está deitado na grama macia, ainda com o elmo, olhos fechados em um descanso sereno, cercado por flores vermelhas brilhantes. A câmera começa com um plano aberto e, em seguida, aproxima-se lentamente com um movimento suave em direção ao cavaleiro, mantendo uma profundidade de campo rasa que mantém o foco nítido no cavaleiro e nas papoulas próximas, enquanto desfoca suavemente o campo distante e o céu. Acima, nuvens dramáticas e tempestuosas preenchem o céu, mas se abrem de forma espetacular para deixar raios de sol dourados e suaves atravessarem, criando belos feixes de luz e uma iluminação natural dinâmica com sombras suaves. A atmosfera é pacífica, porém épica, evocando a calma após uma batalha difícil. Estilo de fantasia cinematográfica ultrarrealista, texturas hiperdetalhadas na armadura, flores e grama, clima épico pictórico, dispersão de luz natural, movimento sutil do vento nas flores e nas folhas das árvores.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="Cavaleiro Medieval em Campo de Papoulas">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="Cavaleiro Medieval em Campo de Papoulas">
 
 **[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2061828182207336608)**
 
@@ -450,7 +481,7 @@ Um cavaleiro medieval exausto, vestindo uma armadura de placas brilhante, descan
 Use a @Image 1 como cena inicial. O ângulo da câmera é totalmente fixo. Inicialmente, um casal sentado em um banco está se divertindo. O homem vestindo uma camisa jeans azul sentado no banco estala o polegar e o dedo médio e, de repente, se transforma na @Image 2. Após a transformação, a mulher olha para o homem com surpresa. Faça um vídeo único e contínuo, sem cortes. Não inclua vozes ou música de fundo, apenas sons do ambiente.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="Vídeo de Transformação de Personagem Sem Emendas">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Transformação de Personagem Sem Emendas">
 
 **[🎬 Assistir vídeo →](https://x.com/Immersion_cy/status/2061803769650987365)**
 
@@ -469,7 +500,7 @@ Use a @Image 1 como cena inicial. O ângulo da câmera é totalmente fixo. Inici
 crie uma visão em primeira pessoa de alguém dirigindo um táxi ao longo da rota na imagem de referência
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="Simulação de direção de táxi em primeira pessoa">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="Simulação de direção de táxi em primeira pessoa">
 
 **[🎬 Assistir vídeo →](https://x.com/c_nemri/status/2061689402741469191)**
 
@@ -1339,6 +1370,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-12T08:25:18.810Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-12T14:56:38.445Z</sub>
 
 </div>

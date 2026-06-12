@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **58** |
+| 📝 Gesamtanzahl Prompts | **59** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-12** |
 
@@ -56,6 +56,56 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Fußballspieler beim Erzielen eines Tors und beim Jubeln
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer Sport-Action-Prompt für eine Fußballsequenz, die das Dribbeln an Verteidigern vorbei, das Erzielen eines Tors und einen natürlichen Jubel beinhaltet.
+
+#### 📝 Prompt
+
+```
+Ein Spieler musste die Abwehr durchbrechen, an Gegnern vorbeidribbeln, ein schönes Tor erzielen und natürlich jubeln.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c53da27de61023f58dc784d761eb6c8/thumbnails/thumbnail.jpg" width="600" alt="Fußballspieler beim Erzielen eines Tors und beim Jubeln">
+
+**[🎬 Video ansehen →](https://x.com/YourAlphaMom/status/2065002571148779843)**
+
+**Autor:** [Alpha Mom](https://x.com/YourAlphaMom) | **Quelle:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **Veröffentlicht:** Jun 11, 2026
+
+---
+### Realistisches Italien-Reise-Vlog-Collage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender Prompt zur Erstellung eines realistischen Reise-Vlog-Videos über Italien im Smartphone-Kamera-Look, mit einer Aufschlüsselung mehrerer ikonischer Orte und einer lässigen Handkamera-Perspektive.
+
+#### 📝 Prompt
+
+```
+realistische Italien-Vlog-Collage, unperfekter Smartphone-Kamera-Look, tropischer Feuchtigkeitsdunst, Bewegungsunschärfe, authentisches Reise-Storytelling, lässige Handkamera-Perspektive, realistische Texturen, natürliches Umgebungslicht, kein Studio-Glanz, ungezwungener Social-Media-Realismus
+
+Aufschlüsselung der Szenen:
+- Selfie am Tisch eines Höhlenrestaurants mit Meeresrauschen
+- Blick auf die Straßenkarte bei einer falschen Abzweigung in der Toskana
+- Spaziergang durch eine Zitronenplantage an der Amalfiküste aus der Rückenperspektive
+- wackeliges Venedig-Gondel-Selfie in der Dämmerung
+- ungezwungene Aufnahme beim Mittagessen auf einer Terrasse in Cinque Terre
+- enges Selfie auf einem Boot auf Capri mit blauem Schimmer
+- Anstoßen beim Abendessen am Comer See mit schiefem Bildausschnitt
+- windzerzaustes Selfie auf einem Hügel in Florenz mit dem Dunst der Stadt im Hintergrund
+- Moment am sizilianischen Meeresfrüchte-Tisch mit unordentlichen Tellern
+Letzte Szene: Aperitivo in einer Bar in einer römischen Gasse bei flackernden Straßenlaternen, wackelige, lachende Handyaufnahme
+```
+
+<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="Realistisches Italien-Reise-Vlog-Collage">
+
+**[🎬 Video ansehen →](https://x.com/mariaveydiaries/status/2064893720823271904)**
+
+**Autor:** [Maria Vey](https://x.com/mariaveydiaries) | **Quelle:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **Veröffentlicht:** Jun 11, 2026
+
+---
 ### Filmische Storyboard-Videosequenz
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -87,7 +137,7 @@ Zeige mir diese Geschichte. Folge der Geschichte exakt in der Reihenfolge, begin
 Während der Hund den Reifen erreicht, verlangsamt sich die Zeit in eine extreme Zeitlupe – und erreicht am höchsten Punkt des Sprungs etwa 1 % der Originalgeschwindigkeit.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="Slow-Motion-Action-Ramp">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b31b364da8c894f1af92298756da4091/thumbnails/thumbnail.jpg" width="600" alt="Slow-Motion-Action-Ramp">
 
 **[🎬 Video ansehen →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
 
@@ -124,30 +174,11 @@ Format:
 16:9, hoher Kontrast, sauberes Overlay-Element, konzipiert für die spätere Platzierung über einem anderen Video.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="Futuristische Sci-Fi-Titelanimation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd4a7e3d76ae65cb9d30303e3fafd12d/thumbnails/thumbnail.jpg" width="600" alt="Futuristische Sci-Fi-Titelanimation">
 
 **[🎬 Video ansehen →](https://x.com/ai_gezgini/status/2064424469079474504)**
 
 **Autor:** [ai.gezgini](https://x.com/ai_gezgini) | **Quelle:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Veröffentlicht:** Jun 9, 2026
-
----
-### Filmreife Action-Stunt-Sequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein energiegeladener Video-Prompt, der darauf ausgelegt ist, Physik und Bewegung durch die Generierung einer komplexen Sequenz eines Brückensprungs auf ein fahrendes Fahrzeug zu testen.
-
-#### 📝 Prompt
-
-```
-ein Sprung von einer Brücke, die Landung auf einem fahrenden LKW, gefolgt von einem Sprung auf ein Auto und dessen Übernahme.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Filmreife Action-Stunt-Sequenz">
-
-**[🎬 Video ansehen →](https://x.com/YourAlphaMom/status/2063952651205677170)**
-
-**Autor:** [Alpha Mom](https://x.com/YourAlphaMom) | **Quelle:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Veröffentlicht:** Jun 8, 2026
 
 ---
 ### Ginza Six: Virtuelle Tour aus der Egoperspektive
@@ -162,7 +193,7 @@ ein Sprung von einer Brücke, die Landung auf einem fahrenden LKW, gefolgt von e
 Bitte erstelle ein Video aus der Egoperspektive, das zeigt, wie man Ginza Six betritt, mit der Rolltreppe zu einem neuen Café im 6. Stock fährt und ein neues Latte-Art-Getränk genießt! Bitte führe eine virtuelle Tour durch diesen Ort durch!
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Ginza Six: Virtuelle Tour aus der Egoperspektive">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a21aed34172cebce5e53f1fde366ec5/thumbnails/thumbnail.jpg" width="600" alt="Ginza Six: Virtuelle Tour aus der Egoperspektive">
 
 **[🎬 Video ansehen →](https://x.com/nagi_1up/status/2063930786903187754)**
 
@@ -181,7 +212,7 @@ Bitte erstelle ein Video aus der Egoperspektive, das zeigt, wie man Ginza Six be
 Amateurhaftes vertikales Smartphone-Video, Seitenverhältnis 9:16, leichtes natürliches Wackeln aus der Hand, helles sonniges Nachmittagslicht. Ein flauschiger getigerter Kater mit orangefarbenen und schwarzen Streifen, weißer Brust und leuchtend grünen Augen sitzt auf einem flachen Stein am Rand eines klaren Gartenteichs, den Rücken größtenteils zur Kamera gewandt. Der Kater beobachtet aufmerksam den Teich vor sich, in dem bunte Koi und Goldfische schwimmen und gelegentlich mit kleinen Spritzern aus dem Wasser springen. Natürliches Verhalten: Der Schwanz wedelt langsam hin und her, die Ohren zucken und drehen sich in Richtung jedes Spritzers, der Kopf neigt sich neugierig, gelegentlich sanftes Pfotentippen nahe der Wasserkante. Sonnenlicht glitzert auf dem kräuselnden Wasser und erzeugt wunderschöne Reflexionen, in der Luft sind schwebende Staubpartikel sichtbar. Sanfte Umgebungsgeräusche von plätscherndem Wasser, eine leichte Brise, die durch nahegelegene Schilfhalme und Blätter weht, entferntes Vogelgezwitscher und das gelegentliche sanfte Schnurren oder Gurren des Katers. Realistische Fellstruktur am Rücken und Schwanz, lebensechte Bewegungen der Katze aus einer hinteren Dreiviertelansicht, lebendige Wasserreflexionen, warmes natürliches Color Grading, im iPhone-Stil gefilmt, hohe Detailgenauigkeit, 10-sekündiger loopbarer Clip.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="Beobachtung eines getigerten Katers am Koiteich">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="Beobachtung eines getigerten Katers am Koiteich">
 
 **[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2063849912773845455)**
 
@@ -200,7 +231,7 @@ Amateurhaftes vertikales Smartphone-Video, Seitenverhältnis 9:16, leichtes nat�
 Ultrarealistische, unheimliche weibliche Gestalt, die an der Wand klebt, halb horizontal, halb aufrecht, Wirbelsäule unnatürlich gekrümmt, langes, verworrenes schwarzes Haar hängt nach vorne und verdeckt teilweise ihr Gesicht, Strähnen bewegen sich leicht und geben den Blick auf ein milchig-weißes Auge frei, das nach unten starrt, Gliedmaßen unnatürlich verdreht, Ellbogen nach hinten gebogen, Finger zu lang, krallen sich wie Haken in den Beton, dunkle und düstere Atmosphäre, hoher Kontrast, verstörend, Horror-Realismus. Unheimliche Frau kriecht an der Wand auf die Kamera zu. Die Kamera verfolgt ihre Bewegung.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="Unheimliche Wandkriech-Sequenz">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="Unheimliche Wandkriech-Sequenz">
 
 **[🎬 Video ansehen →](https://x.com/rahulnanda86/status/2063684503282016703)**
 
@@ -219,7 +250,7 @@ Ultrarealistische, unheimliche weibliche Gestalt, die an der Wand klebt, halb ho
 Während die Kamera auf die Stadt zufährt und nach unten schwenkt, sehen wir, wie sich die Gebäude unter der Erde und unter Wasser als eine fantastische, aufwendige, aber nahtlose Fortsetzung einer geheimen Fantasiestadt fortsetzen.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="Kamerafahrt durch eine Unterwasser-Fantasiestadt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/566a148a54d3afc81db5cb50f35f8474/thumbnails/thumbnail.jpg" width="600" alt="Kamerafahrt durch eine Unterwasser-Fantasiestadt">
 
 **[🎬 Video ansehen →](https://x.com/Team_Greenfield/status/2063646327523975345)**
 
@@ -238,7 +269,7 @@ Während die Kamera auf die Stadt zufährt und nach unten schwenkt, sehen wir, w
 Lasse die folgenden Wörter nacheinander auf dem Bildschirm erscheinen: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?'. Jedes Wort sollte mit einer einzigartigen Animation erscheinen und sich in einem flüssigen, perfekt auf den Beat abgestimmten Tempo entwickeln. Das Gesamtergebnis sollte ein kurzes, energiegeladenes Sizzle-Reel sein, das stylisch und experimentell, aber dennoch zugänglich ist und die Qualität der Textdarstellung hervorhebt.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="Animiertes, beat-synchrones Text-Reel">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85e7b9ee81f0fe8c4234867d080596fc/thumbnails/thumbnail.jpg" width="600" alt="Animiertes, beat-synchrones Text-Reel">
 
 **[🎬 Video ansehen →](https://x.com/takamasa045/status/2063442373917446515)**
 
@@ -257,7 +288,7 @@ Lasse die folgenden Wörter nacheinander auf dem Bildschirm erscheinen: 'Did you
 Wort für Wort, jeweils ein Wort auf dem Bildschirm (außer bei „Summarize your voice“): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. Jedes Wort erscheint mit einem anderen animierten Stil, perfektem Rhythmus, Sizzle Reel.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Gemini Omni Marketing Sizzle Reel Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0af65cac11b6060ebca9c8c4af81df/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni Marketing Sizzle Reel Prompt">
 
 **[🎬 Video ansehen →](https://x.com/YanStudioX/status/2063341254612824307)**
 
@@ -276,7 +307,7 @@ Wort für Wort, jeweils ein Wort auf dem Bildschirm (außer bei „Summarize you
 Füge Cloud und Tifa aus Final Fantasy 7 hinzu, wie sie in den Schaukelstühlen sitzen. Füge dieser Szene außerdem Barret und Red XIII aus Final Fantasy 7 hinzu, die Fußball spielen.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="Final Fantasy 7 Szenenverbesserung">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53ace4b4476c971aeff4ee79b79b25c3/thumbnails/thumbnail.jpg" width="600" alt="Final Fantasy 7 Szenenverbesserung">
 
 **[🎬 Video ansehen →](https://x.com/bevelez/status/2063316810049679643)**
 
@@ -295,7 +326,7 @@ Füge Cloud und Tifa aus Final Fantasy 7 hinzu, wie sie in den Schaukelstühlen 
 Ein Leopard schreitet lautlos bei Morgengrauen durch einen nebligen Dschungel. Tautropfen fallen von den Blättern, Sonnenlicht fällt durch die Bäume und die Kamera folgt dem Tier in einer seitlichen Tracking-Aufnahme. National Geographic-Stil, ultrarealistisches Wildlife-Filmmaterial
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="Filmreife Wildlife-Aufnahme: Leopard im Tracking-Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9dd1af9dd9efab6e01650a79e6afa08/thumbnails/thumbnail.jpg" width="600" alt="Filmreife Wildlife-Aufnahme: Leopard im Tracking-Shot">
 
 **[🎬 Video ansehen →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
 
@@ -314,7 +345,7 @@ Ein Leopard schreitet lautlos bei Morgengrauen durch einen nebligen Dschungel. T
 Verwenden Sie das beigefügte 8-Panel-MATCHA LATTE STORYBOARD-Bild als exakte Referenz. Erstellen Sie ein flüssiges, ansprechendes 10-sekündiges 3D-Animationsvideo im Pixar-Stil im 16:9-Format, das dem 8-Shot-Storyboard exakt folgt. Bewahren Sie dabei das gemütliche, helle und moderne Zuhause.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="Storyboard-Animation im Pixar-Stil">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="Storyboard-Animation im Pixar-Stil">
 
 **[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2063108439577129359)**
 
@@ -333,7 +364,7 @@ Verwenden Sie das beigefügte 8-Panel-MATCHA LATTE STORYBOARD-Bild als exakte Re
 Wort für Wort, jeweils ein Wort auf dem Bildschirm: wusstest, du, schon, dass, dieses, Modell, ziemlich, guten, Text, erzeugen, kann!?, jedes Wort erscheint mit einem anderen Animationsstil, perfektes Timing zum Rhythmus, Sizzle-Reel.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Animiertes Text-Sizzle-Reel">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c4a8ebe90c8cbec7fbddf22848862938/thumbnails/thumbnail.jpg" width="600" alt="Animiertes Text-Sizzle-Reel">
 
 **[🎬 Video ansehen →](https://x.com/Google/status/2062925430290526486)**
 
@@ -390,7 +421,7 @@ Eine gigantische Version meiner selbst, die exakt dasselbe Outfit trägt und das
 Ego-Perspektive, eine filmische, ultraschnelle One-Shot-Verfolgungsjagd auf einem fliegenden Besen. Die Aufnahme muss strikt der im Bild gezeigten weißen Flugbahn folgen. Der Goldene Schnatz bleibt während der gesamten Verfolgungsjagd das primäre Ziel, darf jedoch nicht mittig fixiert werden.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="Ego-Perspektive: Flugbahn-Video auf dem Besen">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="Ego-Perspektive: Flugbahn-Video auf dem Besen">
 
 **[🎬 Video ansehen →](https://x.com/GamsGo_Global/status/2062462744297914664)**
 
@@ -412,7 +443,7 @@ Negativer Prompt:
 Cartoon, Animation, geringes Detail, niedrige Auflösung, Third-Person-Perspektive, mehrere Ratten, mehrere Katzen, Text, Untertitel, Wasserzeichen, Glitches, langsame Bewegung, statische Kamera, unrealistische Physik, unscharfes Motiv, deformierte Tiere, Gewalt, Blut.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="Filmreife Rattenjagd aus der Egoperspektive">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="Filmreife Rattenjagd aus der Egoperspektive">
 
 **[🎬 Video ansehen →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
 
@@ -431,7 +462,7 @@ Cartoon, Animation, geringes Detail, niedrige Auflösung, Third-Person-Perspekti
 Ein erschöpfter mittelalterlicher Ritter in glänzender Plattenrüstung ruht friedlich unter einer großen, alten Eiche in einem riesigen, endlosen Feld aus leuchtend roten Mohnblumen, die sanft im Wind wiegen. Der Ritter liegt auf dem weichen Gras, den Helm noch auf, die Augen in gelassener Ruhe geschlossen, umgeben von leuchtend roten Blumen. Die Kamera beginnt mit einer weiten Totalen und fährt dann langsam mit einem sanften Push auf den Ritter zu, wobei eine geringe Schärfentiefe beibehalten wird, die den Ritter und die nahen Mohnblumen scharf fokussiert, während das ferne Feld und der Himmel weich verschwimmen. Über ihm füllen dramatische, stürmische dunkle Wolken den Himmel, teilen sich jedoch eindrucksvoll, um weiche goldene Sonnenstrahlen durchzulassen, die wunderschöne Lichtstrahlen und eine dynamische natürliche Beleuchtung mit weichen Schatten erzeugen. Die Atmosphäre ist friedlich und doch episch und erinnert an die Ruhe nach einer harten Schlacht. Ultrarealistischer, kinoreifer Fantasy-Stil, hyperdetaillierte Texturen an Rüstung, Blumen und Gras, malerische epische Stimmung, natürliche Lichtstreuung, subtile Windbewegung in Blumen und Baumblättern.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="Mittelalterlicher Ritter in einem Mohnfeld">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="Mittelalterlicher Ritter in einem Mohnfeld">
 
 **[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2061828182207336608)**
 
@@ -450,7 +481,7 @@ Ein erschöpfter mittelalterlicher Ritter in glänzender Plattenrüstung ruht fr
 Verwende @Image 1 als Ausgangsszene. Der Kamerawinkel ist absolut fixiert. Zu Beginn amüsiert sich ein Paar auf einer Bank. Der Mann im blauen Jeanshemd, der auf der Bank sitzt, schnippt mit Daumen und Mittelfinger und verwandelt sich plötzlich in @Image 2. Nach der Verwandlung blickt die Frau überrascht zu dem Mann. Erstelle ein einziges, nahtloses Video ohne Schnitte. Füge keine sprechenden Stimmen oder Hintergrundmusik hinzu, nur Umgebungsgeräusche.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="Nahtlose Charakter-Transformation im Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="Nahtlose Charakter-Transformation im Video">
 
 **[🎬 Video ansehen →](https://x.com/Immersion_cy/status/2061803769650987365)**
 
@@ -469,7 +500,7 @@ Verwende @Image 1 als Ausgangsszene. Der Kamerawinkel ist absolut fixiert. Zu Be
 Erstelle eine Ansicht aus der Ego-Perspektive von jemandem, der ein Taxi entlang der Route im Referenzbild fährt
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="Taxi-Fahrsimulation aus der Ego-Perspektive">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="Taxi-Fahrsimulation aus der Ego-Perspektive">
 
 **[🎬 Video ansehen →](https://x.com/c_nemri/status/2061689402741469191)**
 
@@ -1339,6 +1370,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-12T08:25:16.810Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-12T14:56:36.773Z</sub>
 
 </div>

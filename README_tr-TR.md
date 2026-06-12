@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **58** |
+| 📝 Toplam İstem | **59** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-12** |
 
@@ -56,6 +56,56 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Futbolcu Gol Atışı ve Sevinci
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Defans oyuncularını çalımlayıp gol atma ve doğal bir şekilde sevinme içeren bir futbol sekansı için karmaşık spor aksiyonu istemi.
+
+#### 📝 İstem
+
+```
+Bir oyuncunun savunmayı yarması, rakiplerini çalımlaması, güzel bir gol atması ve doğal bir şekilde sevinmesi gerekiyordu.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c53da27de61023f58dc784d761eb6c8/thumbnails/thumbnail.jpg" width="600" alt="Futbolcu Gol Atışı ve Sevinci">
+
+**[🎬 Videoyu izle →](https://x.com/YourAlphaMom/status/2065002571148779843)**
+
+**Yazar:** [Alpha Mom](https://x.com/YourAlphaMom) | **Kaynak:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **Yayınlandı:** Jun 11, 2026
+
+---
+### Gerçekçi İtalya Seyahat Vlog Kolajı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Akıllı telefon kamerası estetiğine sahip, gerçekçi bir İtalya temalı seyahat vlog videosu oluşturmak için kapsamlı bir komut; ikonik lokasyonların dökümünü ve doğal el kamerası çekimlerini içerir.
+
+#### 📝 İstem
+
+```
+gerçekçi İtalya vlog kolajı, kusurlu akıllı telefon kamerası hissi, tropikal nem pususu, hareket bulanıklığı, otantik seyahat hikayesi anlatımı, doğal el kamerası çekimi, gerçekçi dokular, doğal ortam ışığı, stüdyo cilası yok, samimi sosyal medya gerçekçiliği
+
+Kare Dökümü şunları içerir:
+- deniz yankılarıyla mağara restoranı masa özçekimi
+- yanlış dönülen Toskana yol haritası kontrolü
+- arkadan Amalfi limon bahçesi yürüyüşü
+- gün batımında sallantılı Venedik gondol özçekimi
+- Cinque Terre terasında doğal öğle yemeği
+- mavi ışıltılı dar Capri tekne özçekimi
+- yamuk kadrajlı Como Gölü akşam yemeği kadehi
+- şehir puslu, rüzgarlı Floransa tepesi özçekimi
+- dağınık tabaklarla Sicilya deniz ürünleri masası anı
+Son kare: sokak lambaları titrerken Roma ara sokağında aperitivo, sallantılı ve gülümsemeli telefon çekimi
+```
+
+<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="Gerçekçi İtalya Seyahat Vlog Kolajı">
+
+**[🎬 Videoyu izle →](https://x.com/mariaveydiaries/status/2064893720823271904)**
+
+**Yazar:** [Maria Vey](https://x.com/mariaveydiaries) | **Kaynak:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **Yayınlandı:** Jun 11, 2026
+
+---
 ### Sinematik Storyboard Video Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -87,7 +137,7 @@ Bana bu hikayeyi göster. Sol üstten başlayarak hikayeyi sırasıyla tam olara
 Köpek çembere ulaştığı anda zaman, aşırı ağır çekime geçerek yavaşlamaya başlar ve sıçramanın zirvesinde gerçek hızın yaklaşık %1'ine ulaşır
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="Ağır Çekim Hareket Rampası">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b31b364da8c894f1af92298756da4091/thumbnails/thumbnail.jpg" width="600" alt="Ağır Çekim Hareket Rampası">
 
 **[🎬 Videoyu izle →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
 
@@ -124,30 +174,11 @@ Format:
 16:9, yüksek kontrast, temiz katman öğesi, daha sonra başka bir videonun üzerine yerleştirilmek üzere tasarlanmıştır.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="Fütüristik Bilim Kurgu Başlık Animasyonu">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd4a7e3d76ae65cb9d30303e3fafd12d/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik Bilim Kurgu Başlık Animasyonu">
 
 **[🎬 Videoyu izle →](https://x.com/ai_gezgini/status/2064424469079474504)**
 
 **Yazar:** [ai.gezgini](https://x.com/ai_gezgini) | **Kaynak:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Yayınlandı:** Jun 9, 2026
-
----
-### Sinematik Aksiyon Dublör Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hareket halindeki bir araca köprüden atlama gibi karmaşık bir sekans oluşturarak fizik ve hareket kabiliyetini test etmek için tasarlanmış, yüksek enerjili bir video istemi.
-
-#### 📝 İstem
-
-```
-bir köprüden atlayış, hareket halindeki bir kamyonun üzerine iniş, ardından bir arabaya atlayıp kontrolü ele geçirme.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Sinematik Aksiyon Dublör Sekansı">
-
-**[🎬 Videoyu izle →](https://x.com/YourAlphaMom/status/2063952651205677170)**
-
-**Yazar:** [Alpha Mom](https://x.com/YourAlphaMom) | **Kaynak:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Yayınlandı:** Jun 8, 2026
 
 ---
 ### Ginza Six Birinci Şahıs Sanal Turu
@@ -162,7 +193,7 @@ bir köprüden atlayış, hareket halindeki bir kamyonun üzerine iniş, ardınd
 Lütfen Ginza Six'e giriş yapan, yürüyen merdivenlerle 6. kattaki yeni bir kafeye çıkan ve yeni bir latte art ürününü içen birinci şahıs bakış açılı bir video oluşturun! Lütfen bunun sanal bir turunu yapın!
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Ginza Six Birinci Şahıs Sanal Turu">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a21aed34172cebce5e53f1fde366ec5/thumbnails/thumbnail.jpg" width="600" alt="Ginza Six Birinci Şahıs Sanal Turu">
 
 **[🎬 Videoyu izle →](https://x.com/nagi_1up/status/2063930786903187754)**
 
@@ -181,7 +212,7 @@ Lütfen Ginza Six'e giriş yapan, yürüyen merdivenlerle 6. kattaki yeni bir ka
 Amatör dikey akıllı telefon videosu, 9:16 en boy oranı, elde çekimden kaynaklanan hafif doğal titreme, parlak güneşli öğleden sonra ışığı. Turuncu ve siyah çizgili, beyaz göğüslü ve parlak yeşil gözlü tüylü bir tekir kedi, berrak bir bahçe havuzunun kenarındaki düz bir kayanın üzerinde, arkası büyük ölçüde kameraya dönük şekilde oturuyor. Kedi, renkli koi ve Japon balıklarının yüzdüğü ve ara sıra küçük sıçramalarla sudan dışarı atladığı havuzu dikkatle izliyor. Doğal davranışlar: kuyruk yavaşça bir yandan diğer yana sallanıyor, kulaklar her sıçramaya doğru seğiriyor ve dönüyor, baş meraklı küçük eğilmeler yapıyor, su kenarına ara sıra nazik pati dokunuşları. Güneş ışığı dalgalanan su üzerinde parıldayarak güzel yansımalar yaratıyor, havada uçuşan toz zerreleri görünür durumda. Suyun şırıltısı, yakındaki sazlıkları ve yaprakları hışırdatan hafif esinti, uzaktan gelen kuş cıvıltıları ve kedinin ara sıra çıkardığı yumuşak mırıltılar gibi nazik ortam sesleri. Sırtta ve kuyrukta gerçekçi kürk dokusu, arka üç çeyrek açıdan gerçekçi kedi hareketleri, canlı su yansımaları, sıcak doğal renk derecelendirmesi, iPhone tarzı çekim, yüksek detay, 10 saniyelik döngüye uygun klip.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="Tekir Kedi Koi Havuzu Gözlemi">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="Tekir Kedi Koi Havuzu Gözlemi">
 
 **[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2063849912773845455)**
 
@@ -200,7 +231,7 @@ Amatör dikey akıllı telefon videosu, 9:16 en boy oranı, elde çekimden kayna
 Ultra gerçekçi, ürkütücü kadın figürü duvara tutunmuş, yarı yatay yarı dikey, omurgası doğal olmayan bir şekilde bükülmüş, uzun karışık siyah saçları öne doğru sarkarak yüzünü kısmen kapatıyor, saç telleri hafifçe hareket ederek aşağıya bakan süt beyazı bir gözü açığa çıkarıyor, uzuvları doğal olmayan bir şekilde bükülmüş, dirsekleri geriye doğru kıvrılmış, parmakları çok uzun, betonu kanca gibi kavrıyor, karanlık ve kasvetli atmosfer, yüksek kontrast, rahatsız edici, korku gerçekçiliği. Korkutucu kadın duvarda kameraya doğru sürünüyor. Kamera hareketini takip ediyor.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="Korkutucu Duvar Tırmanışı Sekansı">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="Korkutucu Duvar Tırmanışı Sekansı">
 
 **[🎬 Videoyu izle →](https://x.com/rahulnanda86/status/2063684503282016703)**
 
@@ -219,7 +250,7 @@ Ultra gerçekçi, ürkütücü kadın figürü duvara tutunmuş, yarı yatay yar
 Kamera şehre ve aşağıya doğru hareket ettikçe, binaların yer altında ve suyun altında gizli bir fantastik şehrin ayrıntılı ama kesintisiz bir devamı olarak uzandığını görüyoruz.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="Sualtı Fantastik Şehir Panoraması">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/566a148a54d3afc81db5cb50f35f8474/thumbnails/thumbnail.jpg" width="600" alt="Sualtı Fantastik Şehir Panoraması">
 
 **[🎬 Videoyu izle →](https://x.com/Team_Greenfield/status/2063646327523975345)**
 
@@ -238,7 +269,7 @@ Kamera şehre ve aşağıya doğru hareket ettikçe, binaların yer altında ve 
 Aşağıdaki kelimeleri ekranda sırasıyla göster: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?'. Her kelime benzersiz bir animasyonla belirmeli ve ritimle mükemmel şekilde senkronize, akıcı bir tempoda gelişmelidir. Genel sonuç; metin ifadesinin kalitesini vurgulayan, şık, deneysel ancak anlaşılır, kısa ve yüksek enerjili bir tanıtım videosu olmalıdır.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="Müzikle Senkronize Hareketli Metin Reels">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85e7b9ee81f0fe8c4234867d080596fc/thumbnails/thumbnail.jpg" width="600" alt="Müzikle Senkronize Hareketli Metin Reels">
 
 **[🎬 Videoyu izle →](https://x.com/takamasa045/status/2063442373917446515)**
 
@@ -257,7 +288,7 @@ Aşağıdaki kelimeleri ekranda sırasıyla göster: 'Did you know?' / 'Gemini O
 Kelime kelime, ekranda her seferinde tek bir kelime (Summarize your voice hariç): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. Her kelime farklı bir animasyon stili, mükemmel bir ritim ve tanıtım filmi havasıyla belirir.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Gemini Omni Pazarlama Tanıtım Filmi İstemi">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0af65cac11b6060ebca9c8c4af81df/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni Pazarlama Tanıtım Filmi İstemi">
 
 **[🎬 Videoyu izle →](https://x.com/YanStudioX/status/2063341254612824307)**
 
@@ -276,7 +307,7 @@ Kelime kelime, ekranda her seferinde tek bir kelime (Summarize your voice hariç
 Final Fantasy 7'den Cloud ve Tifa'yı sallanan sandalyelerde otururken sahneye ekle. Ayrıca Final Fantasy 7'den Barret ve Red XIII'ü bu sahnede futbol oynarken ekle.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="Final Fantasy 7 Sahne Geliştirme">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53ace4b4476c971aeff4ee79b79b25c3/thumbnails/thumbnail.jpg" width="600" alt="Final Fantasy 7 Sahne Geliştirme">
 
 **[🎬 Videoyu izle →](https://x.com/bevelez/status/2063316810049679643)**
 
@@ -295,7 +326,7 @@ Final Fantasy 7'den Cloud ve Tifa'yı sallanan sandalyelerde otururken sahneye e
 Bir leopar şafak vakti sisli bir ormanda sessizce yürüyor. Yapraklardan çiy damlaları düşüyor, güneş ışığı ağaçların arasından süzülüyor ve kamera hayvanın yanında ilerliyor. National Geographic tarzı, ultra gerçekçi vahşi yaşam görüntüleri
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="Sinematik Vahşi Yaşam Leopar Takip Çekimi">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9dd1af9dd9efab6e01650a79e6afa08/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Vahşi Yaşam Leopar Takip Çekimi">
 
 **[🎬 Videoyu izle →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
 
@@ -314,7 +345,7 @@ Bir leopar şafak vakti sisli bir ormanda sessizce yürüyor. Yapraklardan çiy 
 Ekli 8 panelli MATCHA LATTE STORYBOARD görselini tam referans olarak kullanın. 8 karelik storyboard'u birebir takip eden, 16:9 en boy oranında, akıcı ve tatmin edici 10 saniyelik Pixar tarzı bir 3D animasyon videosu oluşturun. Aynı sıcak ve aydınlık modern ev ortamını koruyun
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="Pixar Tarzı Storyboard Animasyonu">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="Pixar Tarzı Storyboard Animasyonu">
 
 **[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2063108439577129359)**
 
@@ -333,7 +364,7 @@ Ekli 8 panelli MATCHA LATTE STORYBOARD görselini tam referans olarak kullanın.
 Kelime kelime, ekranda her seferinde tek bir kelime olacak şekilde: biliyor, muydunuz, bu, modelin, oldukça, iyi, metinler, oluşturabildiğini!? her kelime farklı bir animasyon stiliyle beliriyor, ritme mükemmel uyum sağlayan bir tempo, sizzle reel.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Animasyonlu Metin Sizzle Reel">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c4a8ebe90c8cbec7fbddf22848862938/thumbnails/thumbnail.jpg" width="600" alt="Animasyonlu Metin Sizzle Reel">
 
 **[🎬 Videoyu izle →](https://x.com/Google/status/2062925430290526486)**
 
@@ -390,7 +421,7 @@ Tam olarak aynı kıyafetleri giyen ve aynı yüze sahip devasa bir versiyonum, 
 Birinci şahıs bakış açısı, uçan süpürge üzerinde sinematik, ultra hızlı, tek plan bir kovalamaca sahnesi. Çekimi, görselde gösterilen beyaz uçuş rotasını kesinlikle takip ederek gerçekleştirin. Altın Snitch kovalamaca boyunca birincil hedef olmaya devam etmeli, ancak ekranın tam merkezine sabitlenmemelidir.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="Birinci Şahıs Süpürge Uçuş Rotası Videosu">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="Birinci Şahıs Süpürge Uçuş Rotası Videosu">
 
 **[🎬 Videoyu izle →](https://x.com/GamsGo_Global/status/2062462744297914664)**
 
@@ -412,7 +443,7 @@ Negatif İstem:
 çizgi film, animasyon, düşük detay, düşük çözünürlük, üçüncü şahıs bakış açısı, birden fazla fare, birden fazla kedi, metin, altyazı, filigran, hatalar, yavaş hareket, sabit kamera, gerçekçi olmayan fizik, bulanık özne, deforme olmuş hayvanlar, şiddet, kan.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="Sinematik Birinci Şahıs Fare Kovalamacası">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Birinci Şahıs Fare Kovalamacası">
 
 **[🎬 Videoyu izle →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
 
@@ -431,7 +462,7 @@ Negatif İstem:
 Parlak zırhı içindeki yorgun bir Orta Çağ şövalyesi, esintide nazikçe sallanan uçsuz bucaksız, canlı kırmızı gelinciklerle dolu bir tarlada, büyük ve kadim bir meşe ağacının altında huzurla dinleniyor. Şövalye, kaskı hâlâ başındayken yumuşak çimlerin üzerinde uzanıyor, gözleri huzurlu bir dinlenişle kapalı ve etrafı parlak kırmızı çiçeklerle çevrili. Kamera geniş bir çekimle başlıyor, ardından şövalyeye doğru yavaşça yaklaşarak sığ bir alan derinliğini koruyor; şövalyeye ve yakındaki gelinciklere odaklanırken uzak tarlayı ve gökyüzünü hafifçe bulanıklaştırıyor. Gökyüzünde dramatik ve fırtınalı koyu bulutlar yer alıyor ancak bu bulutlar dramatik bir şekilde ayrılarak yumuşak altın rengi güneş ışınlarının süzülmesine izin veriyor; bu da güzel ışık hüzmeleri ve yumuşak gölgelerle dinamik bir doğal aydınlatma yaratıyor. Atmosfer huzurlu ama destansı; zorlu bir savaşın ardından gelen dinginliği çağrıştırıyor. Ultra gerçekçi sinematik fantezi tarzı, zırh, çiçekler ve çimler üzerinde hiper detaylı dokular, resimsel destansı bir ruh hali, doğal ışık dağılımı, çiçeklerde ve ağaç yapraklarında hafif rüzgar hareketi.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="Gelincik Tarlasında Orta Çağ Şövalyesi">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="Gelincik Tarlasında Orta Çağ Şövalyesi">
 
 **[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2061828182207336608)**
 
@@ -450,7 +481,7 @@ Parlak zırhı içindeki yorgun bir Orta Çağ şövalyesi, esintide nazikçe sa
 Başlangıç sahnesi olarak @Image 1'i kullanın. Kamera açısı tamamen sabit olmalıdır. Başlangıçta, bir bankta oturan bir çift eğlenmektedir. Bankta oturan mavi kot gömlekli adam baş ve orta parmağını şıklatır ve aniden @Image 2'ye dönüşür. Dönüşümden sonra kadın şaşkınlıkla adama bakar. Hiçbir kesinti olmadan tek ve kusursuz bir video oluşturun. Konuşma sesleri veya arka plan müziği eklemeyin, yalnızca ortam sesleri olsun.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="Kusursuz Karakter Dönüşüm Videosu">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="Kusursuz Karakter Dönüşüm Videosu">
 
 **[🎬 Videoyu izle →](https://x.com/Immersion_cy/status/2061803769650987365)**
 
@@ -469,7 +500,7 @@ Başlangıç sahnesi olarak @Image 1'i kullanın. Kamera açısı tamamen sabit 
 referans görseldeki rota boyunca taksi süren birinin birinci şahıs görünümünü oluştur
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="Birinci Şahıs Taksi Sürüş Simülasyonu">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="Birinci Şahıs Taksi Sürüş Simülasyonu">
 
 **[🎬 Videoyu izle →](https://x.com/c_nemri/status/2061689402741469191)**
 
@@ -1339,6 +1370,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-12T08:25:19.315Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-12T14:56:38.940Z</sub>
 
 </div>

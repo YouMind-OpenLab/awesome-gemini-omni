@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **58** |
+| 📝 Total Prompts | **59** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-12** |
 
@@ -56,6 +56,56 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Soccer Player Goal Scoring and Celebration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex sports action prompt for a football sequence involving dribbling past defenders, scoring a goal, and celebrating naturally.
+
+#### 📝 Prompt
+
+```
+A player had to break through the defense, dribble past opponents, score a beautiful goal, and celebrate naturally.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c53da27de61023f58dc784d761eb6c8/thumbnails/thumbnail.jpg" width="600" alt="Soccer Player Goal Scoring and Celebration">
+
+**[🎬 Watch Video →](https://x.com/YourAlphaMom/status/2065002571148779843)**
+
+**Author:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **Published:** Jun 11, 2026
+
+---
+### Realistic Italy Travel Vlog Collage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive prompt for generating a realistic Italy-themed travel vlog video with a smartphone camera aesthetic, featuring a breakdown of multiple iconic locations and casual handheld framing.
+
+#### 📝 Prompt
+
+```
+realistic Italy vlog collage, imperfect smartphone camera feel, tropical humidity haze, motion blur, authentic travel storytelling, casual handheld framing, realistic textures, natural ambient light, no studio polish, candid social media realism
+
+Frame Breakdown includes:
+- cave restaurant table selfie with sea echoes
+- wrong-turn Tuscany road map check
+- Amalfi lemon farm walk from behind
+- wobbly Venice gondola selfie at dusk
+- Cinque Terre terrace lunch candid
+- cramped Capri boat selfie with blue glow
+- Lake Como dinner toast with crooked framing
+- Florence hill windblown selfie with city haze
+- Sicilian seafood table moment with messy plates
+Final frame: Rome alley bar aperitivo as streetlights flicker, shaky laughing phone capture
+```
+
+<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="Realistic Italy Travel Vlog Collage">
+
+**[🎬 Watch Video →](https://x.com/mariaveydiaries/status/2064893720823271904)**
+
+**Author:** [Maria Vey](https://x.com/mariaveydiaries) | **Source:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **Published:** Jun 11, 2026
+
+---
 ### Cinematic Storyboard Video Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -87,7 +137,7 @@ Show me in this story. Follow the story exactly in order starting top left. Enti
 As the dog reaches the hoop, time begins to ramp down into extreme slow motion — reaching approximately 1% of real speed at the apex of the jump
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="Slow Motion Action Ramp">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b31b364da8c894f1af92298756da4091/thumbnails/thumbnail.jpg" width="600" alt="Slow Motion Action Ramp">
 
 **[🎬 Watch Video →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
 
@@ -124,30 +174,11 @@ Format:
 16:9, high contrast, clean overlay element, designed to be placed over another video later.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="Futuristic Sci-Fi Title Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd4a7e3d76ae65cb9d30303e3fafd12d/thumbnails/thumbnail.jpg" width="600" alt="Futuristic Sci-Fi Title Animation">
 
 **[🎬 Watch Video →](https://x.com/ai_gezgini/status/2064424469079474504)**
 
 **Author:** [ai.gezgini](https://x.com/ai_gezgini) | **Source:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Published:** Jun 9, 2026
-
----
-### Action Stunt Sequence Bridge Jump
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A simple yet challenging video prompt featuring a stunt jump from a bridge onto a moving truck and then a car, used to test physics and motion logic in video generation.
-
-#### 📝 Prompt
-
-```
-a bridge jump, landing on a moving truck, then jumping onto a car and taking it over
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Action Stunt Sequence Bridge Jump">
-
-**[🎬 Watch Video →](https://x.com/YourAlphaMom/status/2063952651205677170)**
-
-**Author:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Published:** Jun 8, 2026
 
 ---
 ### Ginza Six First-Person Virtual Tour
@@ -162,7 +193,7 @@ a bridge jump, landing on a moving truck, then jumping onto a car and taking it 
 Please create a first-person perspective video of walking into Ginza Six, taking the escalator to a new cafe on the 6th floor, and drinking a new latte art product! Please do a virtual tour of this!
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Ginza Six First-Person Virtual Tour">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a21aed34172cebce5e53f1fde366ec5/thumbnails/thumbnail.jpg" width="600" alt="Ginza Six First-Person Virtual Tour">
 
 **[🎬 Watch Video →](https://x.com/nagi_1up/status/2063930786903187754)**
 
@@ -181,7 +212,7 @@ Please create a first-person perspective video of walking into Ginza Six, taking
 Amateur vertical smartphone video, 9:16 aspect ratio, handheld slight natural shake, bright sunny afternoon light. A fluffy tabby cat with orange and black stripes, white chest, and bright green eyes is sitting on a flat rock near the edge of a clear garden pond, with its back mostly to the camera. The cat is intently watching the pond ahead where colorful koi and goldfish are swimming and occasionally jumping out with small splashes. Natural behaviors: tail slowly swishing side to side, ears twitching and rotating toward each splash, head making small curious tilts, occasional gentle paw tap near the water's edge. Sunlight sparkles on the rippling water creating beautiful reflections, with floating dust motes visible in the air. Gentle ambient sounds of water splashing, light breeze rustling nearby reeds and leaves, distant birds chirping, and the cat's soft occasional chirp or purr. Realistic fur texture on the back and tail, lifelike cat movements from a rear three-quarter view, vibrant water reflections, warm natural color grading, shot on iPhone style, high detail, 10 second loopable clip.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="Tabby Cat Koi Pond Observation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="Tabby Cat Koi Pond Observation">
 
 **[🎬 Watch Video →](https://x.com/MrDasOnX/status/2063849912773845455)**
 
@@ -200,7 +231,7 @@ Amateur vertical smartphone video, 9:16 aspect ratio, handheld slight natural sh
 Ultra-realistic, eerie female figure clinging to the wall, half-horizontal, half-upright, spine arched unnaturally, long tangled black hair hanging forward partially obscuring her face, strands shift slightly revealing a glimpse of one milky-white eye staring downward, limbs twisted unnaturally, elbows bending backward, fingers too long, gripping concrete like hooks, dark and moody atmosphere, high contrast, unsettling, horror realism. Scary woman crawls on wall towards camera. Camera tracks its motion.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="Scary Wall Crawl Sequence">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="Scary Wall Crawl Sequence">
 
 **[🎬 Watch Video →](https://x.com/rahulnanda86/status/2063684503282016703)**
 
@@ -219,7 +250,7 @@ Ultra-realistic, eerie female figure clinging to the wall, half-horizontal, half
 As the camera pans toward the city and down, we see the buildings continue underground and underwater as a fantastical, elaborate, but seamless continuation of a secret fantasy city.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="Underwater Fantasy City Pan">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/566a148a54d3afc81db5cb50f35f8474/thumbnails/thumbnail.jpg" width="600" alt="Underwater Fantasy City Pan">
 
 **[🎬 Watch Video →](https://x.com/Team_Greenfield/status/2063646327523975345)**
 
@@ -238,7 +269,7 @@ As the camera pans toward the city and down, we see the buildings continue under
 Display the following words on the screen one by one: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?'. Each word should appear with a unique animation and develop at a smooth tempo perfectly synced with the beat. The overall result should be a short, high-energy sizzle reel that is stylish and experimental yet accessible, highlighting the quality of the text expression.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="Animated Beat-Synced Text Reel">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85e7b9ee81f0fe8c4234867d080596fc/thumbnails/thumbnail.jpg" width="600" alt="Animated Beat-Synced Text Reel">
 
 **[🎬 Watch Video →](https://x.com/takamasa045/status/2063442373917446515)**
 
@@ -257,7 +288,7 @@ Display the following words on the screen one by one: 'Did you know?' / 'Gemini 
 Word by word, one word on screen at a time (except for Summarize your voice): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. Each word appears with a different animated style, perfect rhythm, sizzle reel.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Gemini Omni Marketing Sizzle Reel Prompt">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0af65cac11b6060ebca9c8c4af81df/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni Marketing Sizzle Reel Prompt">
 
 **[🎬 Watch Video →](https://x.com/YanStudioX/status/2063341254612824307)**
 
@@ -276,7 +307,7 @@ Word by word, one word on screen at a time (except for Summarize your voice): Wh
 Add Cloud and Tifa from Final Fantasy 7 to the rocking chairs sitting. also add Barret and Red XIII from Final Fantasy 7 playing soccer to this scene.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="Final Fantasy 7 Scene Enhancement">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53ace4b4476c971aeff4ee79b79b25c3/thumbnails/thumbnail.jpg" width="600" alt="Final Fantasy 7 Scene Enhancement">
 
 **[🎬 Watch Video →](https://x.com/bevelez/status/2063316810049679643)**
 
@@ -295,7 +326,7 @@ Add Cloud and Tifa from Final Fantasy 7 to the rocking chairs sitting. also add 
 A leopard silently walks through a misty jungle at dawn. Dew drops fall from leaves, sunlight filters through the trees, and the camera tracks beside the animal. National Geographic style, ultra-realistic wildlife footage
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="Cinematic Wildlife Leopard Tracking Shot">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9dd1af9dd9efab6e01650a79e6afa08/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Wildlife Leopard Tracking Shot">
 
 **[🎬 Watch Video →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
 
@@ -314,7 +345,7 @@ A leopard silently walks through a misty jungle at dawn. Dew drops fall from lea
 Use the attached 8-panel MATCHA LATTE STORYBOARD image as the exact reference. Create a smooth, satisfying 10-second Pixar-style 3D animated video in 16:9 aspect ratio that follows the 8-shot storyboard exactly. Preserve the same cozy bright modern home
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="Pixar Style Storyboard Animation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="Pixar Style Storyboard Animation">
 
 **[🎬 Watch Video →](https://x.com/MrDasOnX/status/2063108439577129359)**
 
@@ -333,7 +364,7 @@ Use the attached 8-panel MATCHA LATTE STORYBOARD image as the exact reference. C
 Word by word, one word on the screen at a time: did, you, know, that, this, model, can, do, pretty, good, text!? each word appears with a different animated style, perfect pacing to a rhythm, sizzle reel.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Gemini Omni Dynamic Text Sizzle Reel">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c4a8ebe90c8cbec7fbddf22848862938/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni Dynamic Text Sizzle Reel">
 
 **[🎬 Watch Video →](https://x.com/Google/status/2062925430290526486)**
 
@@ -390,7 +421,7 @@ A gigantic version of me wearing the exact same outfit and sharing the same face
 First-person perspective, a cinematic, ultra-fast, one-shot chase scene on a flying broomstick. Shoot strictly following the white flight path shown in the image. The Golden Snitch remains the primary target throughout the chase, but it cannot be fixed in the center
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="First-Person Broomstick Flight Path Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="First-Person Broomstick Flight Path Video">
 
 **[🎬 Watch Video →](https://x.com/GamsGo_Global/status/2062462744297914664)**
 
@@ -412,7 +443,7 @@ Negative Prompt:
 cartoon, animation, low detail, low resolution, third-person view, multiple rats, multiple cats, text, subtitles, watermark, glitches, slow movement, static camera, unrealistic physics, blurry subject, deformed animals, gore, blood.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="Cinematic First-Person Rat Chase">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="Cinematic First-Person Rat Chase">
 
 **[🎬 Watch Video →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
 
@@ -431,7 +462,7 @@ cartoon, animation, low detail, low resolution, third-person view, multiple rats
 A weary medieval knight in full shining plate armor rests peacefully under a large ancient oak tree in a vast, endless field of vibrant blooming red poppies swaying gently in the breeze. The knight lies on the soft grass, helmet still on, eyes closed in serene rest, surrounded by bright red flowers. The camera starts with a wide establishing shot, then slowly dollies in with a gentle push toward the knight, maintaining shallow depth of field that keeps sharp focus on the knight and nearby poppies while softly blurring the distant field and sky. Above, dramatic stormy dark clouds fill the sky but part dramatically to let soft golden sunlight rays break through, casting beautiful god rays and dynamic natural lighting with soft shadows. The atmosphere is peaceful yet epic, evoking calm after a hard battle. Ultra-realistic cinematic fantasy style, hyper-detailed textures on armor, flowers, and grass, painterly epic mood, natural light scattering, subtle wind movement in flowers and tree leaves.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="Medieval Knight in Poppy Field">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="Medieval Knight in Poppy Field">
 
 **[🎬 Watch Video →](https://x.com/MrDasOnX/status/2061828182207336608)**
 
@@ -450,7 +481,7 @@ A weary medieval knight in full shining plate armor rests peacefully under a lar
 Use @Image 1 as the starting scene. The camera angle is completely fixed. Initially, a couple sitting on a bench is having fun. The man wearing a blue denim shirt sitting on the bench snaps his thumb and middle finger and suddenly transforms into @Image 2. After the transformation, the woman looks at the man in surprise. Make it a single seamless video without any cuts. Do not include talking voices or BGM, only environmental sounds.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="Seamless Character Transformation Video">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="Seamless Character Transformation Video">
 
 **[🎬 Watch Video →](https://x.com/Immersion_cy/status/2061803769650987365)**
 
@@ -469,7 +500,7 @@ Use @Image 1 as the starting scene. The camera angle is completely fixed. Initia
 create a first person view of someone driving a taxi cab along the route in the reference image
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="First Person Taxi Drive Simulation">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="First Person Taxi Drive Simulation">
 
 **[🎬 Watch Video →](https://x.com/c_nemri/status/2061689402741469191)**
 
@@ -1318,6 +1349,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-12T08:25:11.266Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-12T14:56:32.922Z</sub>
 
 </div>

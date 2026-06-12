@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **58** |
+| 📝 Total des prompts | **59** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-12** |
 
@@ -56,6 +56,56 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Joueur de football marquant un but et célébration
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'action sportive complexe pour une séquence de football impliquant le dribble face aux défenseurs, le marquage d'un but et une célébration naturelle.
+
+#### 📝 Prompt
+
+```
+Un joueur devait percer la défense, dribbler ses adversaires, marquer un beau but et célébrer de manière naturelle.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c53da27de61023f58dc784d761eb6c8/thumbnails/thumbnail.jpg" width="600" alt="Joueur de football marquant un but et célébration">
+
+**[🎬 Voir la vidéo →](https://x.com/YourAlphaMom/status/2065002571148779843)**
+
+**Auteur:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **Publié:** Jun 11, 2026
+
+---
+### Collage de vlog de voyage réaliste en Italie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complet pour générer une vidéo de vlog de voyage réaliste sur le thème de l'Italie avec une esthétique de caméra de smartphone, incluant une décomposition de plusieurs lieux emblématiques et un cadrage décontracté à la main.
+
+#### 📝 Prompt
+
+```
+collage de vlog réaliste en Italie, rendu imparfait de caméra de smartphone, brume d'humidité tropicale, flou de mouvement, narration de voyage authentique, cadrage décontracté à la main, textures réalistes, lumière ambiante naturelle, sans finition studio, réalisme candide des réseaux sociaux
+
+Décomposition des plans incluant :
+- selfie à une table de restaurant troglodyte avec échos de la mer
+- vérification de carte routière en Toscane après un mauvais virage
+- marche dans une plantation de citrons à Amalfi vue de dos
+- selfie tremblant en gondole à Venise au crépuscule
+- moment candide lors d'un déjeuner sur une terrasse aux Cinque Terre
+- selfie à l'étroit sur un bateau à Capri avec reflet bleu
+- toast lors d'un dîner au lac de Côme avec cadrage incliné
+- selfie décoiffé par le vent sur une colline de Florence avec brume urbaine
+- moment à table avec fruits de mer en Sicile et assiettes en désordre
+Plan final : apéritif dans un bar de ruelle à Rome alors que les réverbères vacillent, capture tremblante au téléphone avec des rires
+```
+
+<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="Collage de vlog de voyage réaliste en Italie">
+
+**[🎬 Voir la vidéo →](https://x.com/mariaveydiaries/status/2064893720823271904)**
+
+**Auteur:** [Maria Vey](https://x.com/mariaveydiaries) | **Source:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **Publié:** Jun 11, 2026
+
+---
 ### Séquence vidéo de storyboard cinématographique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -87,7 +137,7 @@ Mets en scène cette histoire. Suis l'histoire exactement dans l'ordre en commen
 Alors que le chien atteint le cerceau, le temps commence à ralentir progressivement jusqu'à un ralenti extrême, atteignant environ 1 % de la vitesse réelle au sommet du saut
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064432197604360193/img/s-pEbUOnqr1RGX4W.jpg" width="600" alt="Ralenti progressif (Slow Motion Action Ramp)">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b31b364da8c894f1af92298756da4091/thumbnails/thumbnail.jpg" width="600" alt="Ralenti progressif (Slow Motion Action Ramp)">
 
 **[🎬 Voir la vidéo →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
 
@@ -124,30 +174,11 @@ Format :
 16:9, contraste élevé, élément de superposition propre, conçu pour être placé ultérieurement sur une autre vidéo.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2064421373276033025/img/2oAfu01hU6foA4lS.jpg" width="600" alt="Animation de titre de science-fiction futuriste">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd4a7e3d76ae65cb9d30303e3fafd12d/thumbnails/thumbnail.jpg" width="600" alt="Animation de titre de science-fiction futuriste">
 
 **[🎬 Voir la vidéo →](https://x.com/ai_gezgini/status/2064424469079474504)**
 
 **Auteur:** [ai.gezgini](https://x.com/ai_gezgini) | **Source:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Publié:** Jun 9, 2026
-
----
-### Séquence de cascades cinématographiques
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo dynamique conçu pour tester la physique et le mouvement en générant une séquence complexe de saut depuis un pont sur un véhicule en mouvement.
-
-#### 📝 Prompt
-
-```
-un saut depuis un pont, atterrissage sur un camion en mouvement, puis saut sur une voiture pour en prendre le contrôle.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063951365701844992/img/9nlSs4oFYhHlbwst.jpg" width="600" alt="Séquence de cascades cinématographiques">
-
-**[🎬 Voir la vidéo →](https://x.com/YourAlphaMom/status/2063952651205677170)**
-
-**Auteur:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2063952651205677170) | **Publié:** Jun 8, 2026
 
 ---
 ### Visite virtuelle à la première personne de Ginza Six
@@ -162,7 +193,7 @@ un saut depuis un pont, atterrissage sur un camion en mouvement, puis saut sur u
 Veuillez créer une vidéo à la première personne montrant une promenade dans Ginza Six, la montée par escalator vers un nouveau café au 6e étage, et la dégustation d'un nouveau latte art ! Veuillez réaliser une visite virtuelle de ce lieu !
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063799377328816128/img/pO8SNkFBqSKE14lB.jpg" width="600" alt="Visite virtuelle à la première personne de Ginza Six">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a21aed34172cebce5e53f1fde366ec5/thumbnails/thumbnail.jpg" width="600" alt="Visite virtuelle à la première personne de Ginza Six">
 
 **[🎬 Voir la vidéo →](https://x.com/nagi_1up/status/2063930786903187754)**
 
@@ -181,7 +212,7 @@ Veuillez créer une vidéo à la première personne montrant une promenade dans 
 Vidéo amateur verticale sur smartphone, format 9:16, caméra à l'épaule avec léger tremblement naturel, lumière vive d'un après-midi ensoleillé. Un chat tigré au pelage duveteux, rayé orange et noir, avec le poitrail blanc et des yeux vert vif, est assis sur une pierre plate au bord d'un bassin de jardin limpide, tournant principalement le dos à la caméra. Le chat observe attentivement le bassin devant lui où des carpes koï et des poissons rouges nagent et sautent occasionnellement en créant de petites éclaboussures. Comportements naturels : queue remuant lentement de gauche à droite, oreilles frémissant et pivotant vers chaque éclaboussure, tête effectuant de petits inclinaisons curieuses, tapotements doux occasionnels de la patte près du bord de l'eau. La lumière du soleil scintille sur l'eau ridée créant de magnifiques reflets, avec des poussières en suspension visibles dans l'air. Sons ambiants doux d'eau qui clapote, légère brise faisant bruisser les roseaux et les feuilles à proximité, chants d'oiseaux au loin, et doux gazouillis ou ronronnements occasionnels du chat. Texture de fourrure réaliste sur le dos et la queue, mouvements de chat fidèles à la réalité vus de trois-quarts arrière, reflets vibrants sur l'eau, étalonnage des couleurs naturel et chaleureux, style tourné à l'iPhone, haute précision, clip de 10 secondes en boucle.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063849728073469952/img/0YuGRvBdaKo-wKCj.jpg" width="600" alt="Observation d'un chat tigré au bassin de carpes koï">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="Observation d'un chat tigré au bassin de carpes koï">
 
 **[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2063849912773845455)**
 
@@ -200,7 +231,7 @@ Vidéo amateur verticale sur smartphone, format 9:16, caméra à l'épaule avec 
 Ultra-réaliste, silhouette féminine sinistre agrippée au mur, à mi-chemin entre l'horizontale et la verticale, colonne vertébrale arquée de façon surnaturelle, longs cheveux noirs emmêlés tombant vers l'avant et obscurcissant partiellement son visage, mèches bougeant légèrement pour révéler un aperçu d'un œil blanc laiteux fixant le sol, membres tordus de manière anormale, coudes pliés vers l'arrière, doigts trop longs agrippant le béton comme des crochets, atmosphère sombre et lugubre, contraste élevé, troublant, réalisme d'horreur. Une femme effrayante rampe sur le mur vers la caméra. La caméra suit son mouvement.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063684434097025025/img/He4DUmyxFW5aCvDI.jpg" width="600" alt="Séquence effrayante de reptation sur un mur">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="Séquence effrayante de reptation sur un mur">
 
 **[🎬 Voir la vidéo →](https://x.com/rahulnanda86/status/2063684503282016703)**
 
@@ -219,7 +250,7 @@ Ultra-réaliste, silhouette féminine sinistre agrippée au mur, à mi-chemin en
 Alors que la caméra effectue un panoramique vers la ville et plonge, nous voyons les bâtiments se prolonger sous terre et sous l'eau, formant une extension fantastique, élaborée et parfaitement fluide d'une cité secrète imaginaire.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063645093211594753/img/3ckQ43uAqGGqJbat.jpg" width="600" alt="Panoramique sur une cité fantastique sous-marine">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/566a148a54d3afc81db5cb50f35f8474/thumbnails/thumbnail.jpg" width="600" alt="Panoramique sur une cité fantastique sous-marine">
 
 **[🎬 Voir la vidéo →](https://x.com/Team_Greenfield/status/2063646327523975345)**
 
@@ -238,7 +269,7 @@ Alors que la caméra effectue un panoramique vers la ville et plonge, nous voyon
 Affichez les mots suivants à l'écran un par un : « Le saviez-vous ? » / « Gemini Omni » / « Ce modèle » / « Le japonais aussi » / « est plutôt » / « bon !? ». Chaque mot doit apparaître avec une animation unique et se développer à un tempo fluide parfaitement synchronisé avec le rythme. Le résultat global doit être un court sizzle reel dynamique, à la fois stylé et expérimental tout en restant accessible, mettant en valeur la qualité de l'expression textuelle.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063442250802274304/img/tnFic5HPGa7nmEJL.jpg" width="600" alt="Reel de texte animé synchronisé sur le rythme">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85e7b9ee81f0fe8c4234867d080596fc/thumbnails/thumbnail.jpg" width="600" alt="Reel de texte animé synchronisé sur le rythme">
 
 **[🎬 Voir la vidéo →](https://x.com/takamasa045/status/2063442373917446515)**
 
@@ -257,7 +288,7 @@ Affichez les mots suivants à l'écran un par un : « Le saviez-vous ? » / « G
 Mot à mot, un mot à la fois à l'écran (sauf pour Summarize your voice) : Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. Chaque mot apparaît avec un style d'animation différent, un rythme parfait, idéal pour une vidéo promotionnelle.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063340943843917824/img/nP1Hfge98WNqsikP.jpg" width="600" alt="Prompt pour la vidéo promotionnelle Gemini Omni">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0af65cac11b6060ebca9c8c4af81df/thumbnails/thumbnail.jpg" width="600" alt="Prompt pour la vidéo promotionnelle Gemini Omni">
 
 **[🎬 Voir la vidéo →](https://x.com/YanStudioX/status/2063341254612824307)**
 
@@ -276,7 +307,7 @@ Mot à mot, un mot à la fois à l'écran (sauf pour Summarize your voice) : Wha
 Ajoutez Cloud et Tifa de Final Fantasy 7 assis sur les chaises à bascule. Ajoutez également Barret et Red XIII de Final Fantasy 7 en train de jouer au football dans cette scène.
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2063316774171594752/pu/img/rSun3jzykPQn_bgn.jpg" width="600" alt="Amélioration de scène Final Fantasy 7">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53ace4b4476c971aeff4ee79b79b25c3/thumbnails/thumbnail.jpg" width="600" alt="Amélioration de scène Final Fantasy 7">
 
 **[🎬 Voir la vidéo →](https://x.com/bevelez/status/2063316810049679643)**
 
@@ -295,7 +326,7 @@ Ajoutez Cloud et Tifa de Final Fantasy 7 assis sur les chaises à bascule. Ajout
 Un léopard marche silencieusement à travers une jungle brumeuse à l'aube. Des gouttes de rosée tombent des feuilles, la lumière du soleil filtre à travers les arbres et la caméra suit l'animal de côté. Style National Geographic, images animalières ultra-réalistes
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063305089620619264/img/V0KhItiQHUz58Le2.jpg" width="600" alt="Plan de suivi cinématographique d'un léopard dans la nature">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9dd1af9dd9efab6e01650a79e6afa08/thumbnails/thumbnail.jpg" width="600" alt="Plan de suivi cinématographique d'un léopard dans la nature">
 
 **[🎬 Voir la vidéo →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
 
@@ -314,7 +345,7 @@ Un léopard marche silencieusement à travers une jungle brumeuse à l'aube. Des
 Utilisez l'image du MATCHA LATTE STORYBOARD à 8 panneaux ci-jointe comme référence exacte. Créez une vidéo animée 3D fluide et satisfaisante de 10 secondes dans le style Pixar, au format 16:9, qui suit exactement le storyboard de 8 plans. Préservez le même intérieur moderne, lumineux et chaleureux.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2063107764562653184/img/bIbjIYjyHki_qNgL.jpg" width="600" alt="Animation de storyboard style Pixar">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="Animation de storyboard style Pixar">
 
 **[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2063108439577129359)**
 
@@ -333,7 +364,7 @@ Utilisez l'image du MATCHA LATTE STORYBOARD à 8 panneaux ci-jointe comme réfé
 Mot par mot, un seul mot à l'écran à la fois : saviez, vous, que, ce, modèle, peut, créer, un, texte, vraiment, impressionnant !? chaque mot apparaît avec un style d'animation différent, un rythme parfaitement calé, idéal pour une bande-annonce.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062923610554023936/img/6eHu2GBrk1zI-Mfi.jpg" width="600" alt="Bande-annonce avec texte animé">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c4a8ebe90c8cbec7fbddf22848862938/thumbnails/thumbnail.jpg" width="600" alt="Bande-annonce avec texte animé">
 
 **[🎬 Voir la vidéo →](https://x.com/Google/status/2062925430290526486)**
 
@@ -390,7 +421,7 @@ Une version gigantesque de moi-même, portant exactement la même tenue et arbor
 Perspective à la première personne, scène de poursuite cinématographique ultra-rapide en plan-séquence sur un balai volant. Le tournage doit suivre strictement la trajectoire de vol blanche indiquée dans l'image. Le Vif d'or reste la cible principale tout au long de la poursuite, mais il ne doit pas être fixé au centre.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062378522711318529/img/3xehELbxhdp4Kx4d.jpg" width="600" alt="Vidéo de trajectoire de vol en balai à la première personne">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de trajectoire de vol en balai à la première personne">
 
 **[🎬 Voir la vidéo →](https://x.com/GamsGo_Global/status/2062462744297914664)**
 
@@ -412,7 +443,7 @@ Negative Prompt :
 dessin animé, animation, faible détail, basse résolution, vue à la troisième personne, plusieurs rats, plusieurs chats, texte, sous-titres, filigrane, glitches, mouvement lent, caméra statique, physique irréaliste, sujet flou, animaux déformés, gore, sang.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2062365093942435840/img/RdOAbx9fczko_6Kv.jpg" width="600" alt="Course-poursuite cinématographique à la première personne avec un rat">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="Course-poursuite cinématographique à la première personne avec un rat">
 
 **[🎬 Voir la vidéo →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
 
@@ -431,7 +462,7 @@ dessin animé, animation, faible détail, basse résolution, vue à la troisièm
 Un chevalier médiéval épuisé, vêtu d'une armure de plaques étincelante, se repose paisiblement sous un grand chêne ancien au milieu d'un vaste champ infini de coquelicots rouges éclatants qui se balancent doucement dans la brise. Le chevalier est allongé sur l'herbe tendre, son casque toujours sur la tête, les yeux fermés dans un repos serein, entouré de fleurs rouge vif. La caméra commence par un plan large, puis s'approche lentement du chevalier avec un mouvement fluide, en maintenant une faible profondeur de champ qui garde une mise au point nette sur le chevalier et les coquelicots proches, tout en floutant doucement le champ lointain et le ciel. Au-dessus, des nuages sombres et orageux remplissent le ciel mais s'écartent de façon spectaculaire pour laisser passer des rayons de soleil dorés, créant de magnifiques rayons de lumière et un éclairage naturel dynamique avec des ombres douces. L'atmosphère est paisible mais épique, évoquant le calme après une bataille acharnée. Style fantastique cinématique ultra-réaliste, textures hyper-détaillées sur l'armure, les fleurs et l'herbe, ambiance épique et picturale, diffusion de lumière naturelle, mouvement subtil du vent dans les fleurs et les feuilles des arbres.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061828090691833857/img/iwzIvSgdlOg38B-h.jpg" width="600" alt="Chevalier médiéval dans un champ de coquelicots">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="Chevalier médiéval dans un champ de coquelicots">
 
 **[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2061828182207336608)**
 
@@ -450,7 +481,7 @@ Un chevalier médiéval épuisé, vêtu d'une armure de plaques étincelante, se
 Utilisez @Image 1 comme scène de départ. L'angle de la caméra est totalement fixe. Au début, un couple assis sur un banc s'amuse. L'homme portant une chemise en jean bleu assis sur le banc claque des doigts et se transforme soudainement en @Image 2. Après la transformation, la femme regarde l'homme avec surprise. Réalisez une vidéo fluide et continue sans aucune coupure. N'incluez ni voix parlée ni musique de fond, uniquement des sons d'ambiance.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2061802631279120384/img/tabGwIyY_gTydX3o.jpg" width="600" alt="Vidéo de transformation de personnage fluide">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de transformation de personnage fluide">
 
 **[🎬 Voir la vidéo →](https://x.com/Immersion_cy/status/2061803769650987365)**
 
@@ -469,7 +500,7 @@ Utilisez @Image 1 comme scène de départ. L'angle de la caméra est totalement 
 créez une vue à la première personne de quelqu'un conduisant un taxi le long de l'itinéraire présent dans l'image de référence
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2061689379760824320/pu/img/xNNDVwTsbm2qtiQx.jpg" width="600" alt="Simulation de conduite de taxi en vue à la première personne">
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="Simulation de conduite de taxi en vue à la première personne">
 
 **[🎬 Voir la vidéo →](https://x.com/c_nemri/status/2061689402741469191)**
 
@@ -1339,6 +1370,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-12T08:25:17.290Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-12T14:56:37.186Z</sub>
 
 </div>
