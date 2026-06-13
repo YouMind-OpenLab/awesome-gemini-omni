@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **59** |
+| 📝 Tổng số prompt | **61** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-13** |
 
@@ -56,6 +56,50 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Chuyển đổi phong cách thời trang siêu tốc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt thời trang tốc độ cao cho thấy người mẫu thay đổi qua 20 phong cách khác nhau trong 10 giây bằng kỹ thuật cắt cảnh nhanh.
+
+#### 📝 Prompt
+
+```
+Người mẫu thời trang thay đổi trang phục chỉ trong một cái búng tay — 20 phong cách trong 10 giây, cắt cảnh nhanh
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="Chuyển đổi phong cách thời trang siêu tốc">
+
+**[🎬 Xem video →](https://x.com/Dheepanratnam/status/2065470220253135360)**
+
+**Tác giả:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Nguồn:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Đã xuất bản:** Jun 12, 2026
+
+---
+### Video Mùa Mưa đậm chất Điện ảnh
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một cấu trúc câu lệnh (prompt) dùng để tạo nội dung video đậm chất điện ảnh và thơ mộng với chủ đề mùa mưa, bao gồm các tham số có thể tùy chỉnh cho khu vực và tâm trạng.
+
+#### 📝 Prompt
+
+```
+[REGION] = Tokyo
+[REGION_NAME_DISPLAY] = Tokyo
+[REGION_SIGNATURES] = auto
+[DURATION] = 10 giây
+[ASPECT_RATIO] = 16:9
+[MOOD] = điện ảnh, thơ mộng, mùa mưa, chủ nghĩa hiện thực huyền ảo
+Vui lòng tạo một video đậm chất điện ảnh có thời lượng [DURATION] dựa trên chủ đề mùa mưa.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="Video Mùa Mưa đậm chất Điện ảnh">
+
+**[🎬 Xem video →](https://x.com/loglogrog/status/2065388912949002722)**
+
+**Tác giả:** [マグマグ](https://x.com/loglogrog) | **Nguồn:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **Đã xuất bản:** Jun 12, 2026
+
+---
 ### Cầu thủ bóng đá ghi bàn và ăn mừng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1370,6 +1414,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-13T07:46:14.742Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-13T10:27:45.320Z</sub>
 
 </div>

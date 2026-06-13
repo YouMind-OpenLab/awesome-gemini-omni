@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **59** |
+| 📝 Toplam İstem | **61** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-13** |
 
@@ -56,6 +56,50 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Hızlı Moda Stili Değişimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir modelin 10 saniye içinde 20 farklı stili sert kesişmelerle sergilediği yüksek hızlı bir moda istemi.
+
+#### 📝 İstem
+
+```
+Bir moda modeli parmak şıklatmasıyla kıyafet değiştiriyor — 10 saniyede 20 stil, sert kesişmeler
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="Hızlı Moda Stili Değişimi">
+
+**[🎬 Videoyu izle →](https://x.com/Dheepanratnam/status/2065470220253135360)**
+
+**Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Yayınlandı:** Jun 12, 2026
+
+---
+### Sinematik Yağmur Mevsimi Videosu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Yağmur mevsimi temalı, sinematik ve şiirsel video içerikleri oluşturmak için bölge ve ruh hali için özelleştirilebilir parametrelere sahip yapılandırılmış bir komut.
+
+#### 📝 İstem
+
+```
+[REGION] = Tokyo
+[REGION_NAME_DISPLAY] = Tokyo
+[REGION_SIGNATURES] = otomatik
+[DURATION] = 10 saniye
+[ASPECT_RATIO] = 16:9
+[MOOD] = sinematik, şiirsel, yağmur mevsimi, büyülü gerçekçilik
+Lütfen yağmur mevsimi temasına dayalı [DURATION] uzunluğunda sinematik bir video oluşturun.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Yağmur Mevsimi Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/loglogrog/status/2065388912949002722)**
+
+**Yazar:** [マグマグ](https://x.com/loglogrog) | **Kaynak:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **Yayınlandı:** Jun 12, 2026
+
+---
 ### Futbolcu Gol Atışı ve Sevinci
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1370,6 +1414,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-13T07:46:19.612Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-13T10:27:49.860Z</sub>
 
 </div>

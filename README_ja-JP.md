@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **59** |
+| 📝 プロンプト総数 | **61** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-06-13** |
 
@@ -56,6 +56,50 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 瞬時に切り替わるファッションスタイル
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ハードカットを用いて、10 秒間で 20 種類のスタイルを次々と披露するモデルの高速ファッションプロンプトです。
+
+#### 📝 プロンプト
+
+```
+指パッチンで衣装が切り替わるファッションモデル — 10 秒間で 20 スタイルをハードカットで表現
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="瞬時に切り替わるファッションスタイル">
+
+**[🎬 動画を見る →](https://x.com/Dheepanratnam/status/2065470220253135360)**
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **ソース:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **公開日:** Jun 12, 2026
+
+---
+### シネマティックな梅雨の動画
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 梅雨をテーマにした、映画のような詩的な動画コンテンツを作成するための構成済みプロンプトです。地域やムードをカスタマイズ可能なパラメーターを備えています。
+
+#### 📝 プロンプト
+
+```
+[REGION] = Tokyo
+[REGION_NAME_DISPLAY] = 東京
+[REGION_SIGNATURES] = auto
+[DURATION] = 10 秒
+[ASPECT_RATIO] = 16:9
+[MOOD] = シネマティック、詩的、梅雨、マジックリアリズム
+梅雨をテーマにした [DURATION] のシネマティックな動画を作成してください。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="シネマティックな梅雨の動画">
+
+**[🎬 動画を見る →](https://x.com/loglogrog/status/2065388912949002722)**
+
+**作者:** [マグマグ](https://x.com/loglogrog) | **ソース:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **公開日:** Jun 12, 2026
+
+---
 ### サッカー選手のゴールシーンとゴールパフォーマンス
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1370,6 +1414,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-13T07:46:13.188Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-13T10:27:43.726Z</sub>
 
 </div>

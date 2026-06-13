@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **59** |
+| 📝 Total de prompts | **61** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-06-13** |
 
@@ -56,6 +56,50 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Troca Rápida de Estilo de Moda
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de moda de alta velocidade mostrando uma modelo alternando entre 20 estilos diferentes em 10 segundos usando cortes secos.
+
+#### 📝 Prompt
+
+```
+Uma modelo de moda troca de roupa num estalar de dedos — 20 estilos em 10 segundos, com cortes secos
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="Troca Rápida de Estilo de Moda">
+
+**[🎬 Assistir vídeo →](https://x.com/Dheepanratnam/status/2065470220253135360)**
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Publicado:** Jun 12, 2026
+
+---
+### Vídeo Cinematográfico da Temporada de Chuvas
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt estruturado para criar conteúdo de vídeo cinematográfico e poético com o tema da temporada de chuvas, apresentando parâmetros personalizáveis para região e clima.
+
+#### 📝 Prompt
+
+```
+[REGION] = Tóquio
+[REGION_NAME_DISPLAY] = Tóquio
+[REGION_SIGNATURES] = auto
+[DURATION] = 10 segundos
+[ASPECT_RATIO] = 16:9
+[MOOD] = cinematográfico, poético, temporada de chuvas, realismo mágico
+Por favor, crie um vídeo cinematográfico de [DURATION] baseado no tema da temporada de chuvas.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="Vídeo Cinematográfico da Temporada de Chuvas">
+
+**[🎬 Assistir vídeo →](https://x.com/loglogrog/status/2065388912949002722)**
+
+**Autor:** [マグマグ](https://x.com/loglogrog) | **Fonte:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **Publicado:** Jun 12, 2026
+
+---
 ### Jogador de futebol marcando gol e comemorando
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1370,6 +1414,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-13T07:46:18.560Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-13T10:27:48.880Z</sub>
 
 </div>

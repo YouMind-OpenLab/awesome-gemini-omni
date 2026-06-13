@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **59** |
+| 📝 พรอมต์ทั้งหมด | **61** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-06-13** |
 
@@ -56,6 +56,50 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### เปลี่ยนสไตล์แฟชั่นแบบรวดเร็วทันใจ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมท์แฟชั่นความเร็วสูงที่แสดงให้เห็นนางแบบเปลี่ยนสไตล์ถึง 20 แบบภายใน 10 วินาที โดยใช้การตัดต่อแบบฮาร์ดคัต
+
+#### 📝 พรอมต์
+
+```
+นางแบบแฟชั่นเปลี่ยนชุดได้ในพริบตา — 20 สไตล์ใน 10 วินาที ด้วยการตัดต่อแบบฮาร์ดคัต
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="เปลี่ยนสไตล์แฟชั่นแบบรวดเร็วทันใจ">
+
+**[🎬 ดูวิดีโอ →](https://x.com/Dheepanratnam/status/2065470220253135360)**
+
+**ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **เผยแพร่เมื่อ:** Jun 12, 2026
+
+---
+### วิดีโอฤดูฝนในสไตล์ภาพยนตร์
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> ชุดคำสั่ง (Prompt) ที่มีโครงสร้างสำหรับการสร้างสรรค์วิดีโอในสไตล์ภาพยนตร์และบทกวีในธีมฤดูฝน พร้อมพารามิเตอร์ที่ปรับแต่งได้ตามภูมิภาคและอารมณ์ของวิดีโอ
+
+#### 📝 พรอมต์
+
+```
+[REGION] = โตเกียว
+[REGION_NAME_DISPLAY] = โตเกียว
+[REGION_SIGNATURES] = อัตโนมัติ
+[DURATION] = 10 วินาที
+[ASPECT_RATIO] = 16:9
+[MOOD] = สไตล์ภาพยนตร์, บทกวี, ฤดูฝน, สัจนิยมมหัศจรรย์
+โปรดสร้างวิดีโอสไตล์ภาพยนตร์ความยาว [DURATION] โดยอิงจากธีมฤดูฝน
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอฤดูฝนในสไตล์ภาพยนตร์">
+
+**[🎬 ดูวิดีโอ →](https://x.com/loglogrog/status/2065388912949002722)**
+
+**ผู้เขียน:** [マグマグ](https://x.com/loglogrog) | **แหล่งที่มา:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **เผยแพร่เมื่อ:** Jun 12, 2026
+
+---
 ### นักฟุตบอลทำประตูและการฉลองชัย
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1370,6 +1414,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-13T07:46:14.254Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-13T10:27:44.819Z</sub>
 
 </div>

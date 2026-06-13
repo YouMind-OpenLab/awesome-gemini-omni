@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **59** |
+| 📝 Total de prompts | **61** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-06-13** |
 
@@ -56,6 +56,50 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Cambio rápido de estilo de moda
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de moda de alta velocidad que muestra a una modelo cambiando entre 20 estilos diferentes en 10 segundos mediante cortes directos.
+
+#### 📝 Prompt
+
+```
+Una modelo de moda cambia de atuendo con un chasquido de dedos: 20 estilos en 10 segundos, cortes directos
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="Cambio rápido de estilo de moda">
+
+**[🎬 Ver video →](https://x.com/Dheepanratnam/status/2065470220253135360)**
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fuente:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Publicado:** Jun 12, 2026
+
+---
+### Video cinemático de la temporada de lluvias
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt estructurado para crear contenido de video cinemático y poético con la temática de la temporada de lluvias, que incluye parámetros personalizables para la región y el estado de ánimo.
+
+#### 📝 Prompt
+
+```
+[REGION] = Tokio
+[REGION_NAME_DISPLAY] = Tokio
+[REGION_SIGNATURES] = auto
+[DURATION] = 10 segundos
+[ASPECT_RATIO] = 16:9
+[MOOD] = cinemático, poético, temporada de lluvias, realismo mágico
+Por favor, crea un video cinemático de [DURATION] basado en la temática de la temporada de lluvias.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="Video cinemático de la temporada de lluvias">
+
+**[🎬 Ver video →](https://x.com/loglogrog/status/2065388912949002722)**
+
+**Autor:** [マグマグ](https://x.com/loglogrog) | **Fuente:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **Publicado:** Jun 12, 2026
+
+---
 ### Jugador de fútbol marcando un gol y celebrando
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1370,6 +1414,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-13T07:46:15.814Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-13T10:27:46.269Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **59** |
+| 📝 कुल प्रॉम्पट्स | **61** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-06-13** |
 
@@ -56,6 +56,50 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### रैपिड फैशन स्टाइल स्विच
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक हाई-स्पीड फैशन प्रॉम्प्ट जिसमें एक मॉडल 10 सेकंड में हार्ड कट्स का उपयोग करके 20 अलग-अलग स्टाइल में स्विच करती है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक फैशन मॉडल चुटकी बजाते ही अपनी पोशाक बदल लेती है — 10 सेकंड में 20 स्टाइल, हार्ड कट्स के साथ
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="रैपिड फैशन स्टाइल स्विच">
+
+**[🎬 वीडियो देखें →](https://x.com/Dheepanratnam/status/2065470220253135360)**
+
+**लेखक:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **स्रोत:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **प्रकाशित:** Jun 12, 2026
+
+---
+### सिनेमैटिक रेनी सीज़न वीडियो
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> रेनी सीज़न (बरसात के मौसम) पर आधारित सिनेमैटिक और काव्यात्मक वीडियो कंटेंट बनाने के लिए एक स्ट्रक्चर्ड प्रॉम्प्ट, जिसमें क्षेत्र और मूड के लिए कस्टमाइज़ेबल पैरामीटर्स शामिल हैं।
+
+#### 📝 प्रॉम्पट
+
+```
+[REGION] = Tokyo
+[REGION_NAME_DISPLAY] = Tokyo
+[REGION_SIGNATURES] = auto
+[DURATION] = 10 seconds
+[ASPECT_RATIO] = 16:9
+[MOOD] = cinematic, poetic, rainy season, magical realism
+कृपया रेनी सीज़न की थीम पर आधारित [DURATION] का एक सिनेमैटिक वीडियो बनाएं।
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक रेनी सीज़न वीडियो">
+
+**[🎬 वीडियो देखें →](https://x.com/loglogrog/status/2065388912949002722)**
+
+**लेखक:** [マグマグ](https://x.com/loglogrog) | **स्रोत:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **प्रकाशित:** Jun 12, 2026
+
+---
 ### फुटबॉल खिलाड़ी का गोल करना और जश्न मनाना
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1370,6 +1414,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-13T07:46:15.309Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-13T10:27:45.770Z</sub>
 
 </div>

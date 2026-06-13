@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **59** |
+| 📝 총 프롬프트 수 | **61** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-13** |
 
@@ -56,6 +56,50 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 빠른 패션 스타일 전환
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 하드 컷을 사용하여 10초 만에 20가지 스타일을 선보이는 모델의 고속 패션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+손가락을 튕길 때마다 바뀌는 패션 모델의 의상 — 10초 동안 20가지 스타일을 보여주는 하드 컷 영상
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="빠른 패션 스타일 전환">
+
+**[🎬 비디오 보기 →](https://x.com/Dheepanratnam/status/2065470220253135360)**
+
+**작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **게시일:** Jun 12, 2026
+
+---
+### 영화 같은 장마철 영상
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 장마철을 테마로 영화적이고 시적인 영상 콘텐츠를 제작하기 위한 구조화된 프롬프트로, 지역과 분위기를 맞춤 설정할 수 있는 매개변수를 포함합니다.
+
+#### 📝 프롬프트
+
+```
+[REGION] = 도쿄
+[REGION_NAME_DISPLAY] = 도쿄
+[REGION_SIGNATURES] = 자동
+[DURATION] = 10 초
+[ASPECT_RATIO] = 16:9
+[MOOD] = 영화 같은, 시적인, 장마철, 마술적 리얼리즘
+장마철을 테마로 하여 [DURATION] 길이의 영화 같은 영상을 제작해 주세요.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 장마철 영상">
+
+**[🎬 비디오 보기 →](https://x.com/loglogrog/status/2065388912949002722)**
+
+**작성자:** [マグマグ](https://x.com/loglogrog) | **출처:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **게시일:** Jun 12, 2026
+
+---
 ### 축구 선수의 골 득점 및 세리머니
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1370,6 +1414,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-13T07:46:13.705Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-13T10:27:44.233Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **59** |
+| 📝 提示詞總數 | **61** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-13** |
 
@@ -56,6 +56,50 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 快速時尚風格切換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個高節奏的時尚提示詞，展示模特兒在 10 秒內透過硬切（hard cuts）變換 20 種不同風格。
+
+#### 📝 提示詞
+
+```
+時尚模特兒彈指間變換穿搭 —— 10 秒內呈現 20 種風格，採用硬切手法
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="快速時尚風格切換">
+
+**[🎬 觀看視頻 →](https://x.com/Dheepanratnam/status/2065470220253135360)**
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **發布時間:** Jun 12, 2026
+
+---
+### 電影感雨季影片
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 這是一個結構化的提示詞，用於創作以雨季為主題、充滿電影感與詩意的影片內容，並提供地區與氛圍的自訂參數。
+
+#### 📝 提示詞
+
+```
+[REGION] = 東京
+[REGION_NAME_DISPLAY] = 東京
+[REGION_SIGNATURES] = 自動
+[DURATION] = 10 秒
+[ASPECT_RATIO] = 16:9
+[MOOD] = 電影感、詩意、雨季、魔幻寫實
+請根據雨季的主題，創作一部 [DURATION] 的電影感影片。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="電影感雨季影片">
+
+**[🎬 觀看視頻 →](https://x.com/loglogrog/status/2065388912949002722)**
+
+**作者:** [マグマグ](https://x.com/loglogrog) | **來源:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **發布時間:** Jun 12, 2026
+
+---
 ### 足球員進球與慶祝動作
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1370,6 +1414,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-13T07:46:12.691Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-13T10:27:43.149Z</sub>
 
 </div>

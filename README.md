@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **59** |
+| 📝 Total Prompts | **61** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-13** |
 
@@ -56,6 +56,50 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Fashion Model Rapid Style Switch
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-speed fashion video prompt that creates a sequence of a model instantly switching between twenty different styles using hard cuts and a finger snap trigger.
+
+#### 📝 Prompt
+
+```
+A fashion model switches attires with a snap of a finger — 20 styles in 10 seconds, hard cuts
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="Fashion Model Rapid Style Switch">
+
+**[🎬 Watch Video →](https://x.com/Dheepanratnam/status/2065470220253135360)**
+
+**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Published:** Jun 12, 2026
+
+---
+### Cinematic Rainy Season Video
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A structured prompt for creating cinematic and poetic video content themed around the rainy season, featuring customizable parameters for region and mood.
+
+#### 📝 Prompt
+
+```
+[REGION] = Tokyo
+[REGION_NAME_DISPLAY] = Tokyo
+[REGION_SIGNATURES] = auto
+[DURATION] = 10 seconds
+[ASPECT_RATIO] = 16:9
+[MOOD] = cinematic, poetic, rainy season, magical realism
+Please create a cinematic video of [DURATION] based on the theme of the rainy season.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Rainy Season Video">
+
+**[🎬 Watch Video →](https://x.com/loglogrog/status/2065388912949002722)**
+
+**Author:** [マグマグ](https://x.com/loglogrog) | **Source:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **Published:** Jun 12, 2026
+
+---
 ### Soccer Player Goal Scoring and Celebration
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1349,6 +1393,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T07:46:11.679Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-13T10:27:42.019Z</sub>
 
 </div>

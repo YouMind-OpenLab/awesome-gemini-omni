@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **59** |
+| 📝 Gesamtanzahl Prompts | **61** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-13** |
 
@@ -56,6 +56,50 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Schneller Wechsel des Modestils
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein rasanter Fashion-Prompt, der ein Model zeigt, das in 10 Sekunden durch 20 verschiedene Stile wechselt, unter Verwendung von Hard Cuts.
+
+#### 📝 Prompt
+
+```
+Ein Model wechselt mit einem Fingerschnippen das Outfit – 20 Stile in 10 Sekunden, Hard Cuts
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="Schneller Wechsel des Modestils">
+
+**[🎬 Video ansehen →](https://x.com/Dheepanratnam/status/2065470220253135360)**
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Quelle:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Veröffentlicht:** Jun 12, 2026
+
+---
+### Filmreifes Video zur Regenzeit
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein strukturierter Prompt zur Erstellung filmreifer und poetischer Videoinhalte rund um das Thema Regenzeit, inklusive anpassbarer Parameter für Region und Stimmung.
+
+#### 📝 Prompt
+
+```
+[REGION] = Tokio
+[REGION_NAME_DISPLAY] = Tokio
+[REGION_SIGNATURES] = auto
+[DURATION] = 10 Sekunden
+[ASPECT_RATIO] = 16:9
+[MOOD] = filmreif, poetisch, Regenzeit, magischer Realismus
+Bitte erstelle ein filmreifes Video von [DURATION] basierend auf dem Thema der Regenzeit.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="Filmreifes Video zur Regenzeit">
+
+**[🎬 Video ansehen →](https://x.com/loglogrog/status/2065388912949002722)**
+
+**Autor:** [マグマグ](https://x.com/loglogrog) | **Quelle:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **Veröffentlicht:** Jun 12, 2026
+
+---
 ### Fußballspieler beim Erzielen eines Tors und beim Jubeln
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1370,6 +1414,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-13T07:46:16.878Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-13T10:27:47.199Z</sub>
 
 </div>

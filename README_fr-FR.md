@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **59** |
+| 📝 Total des prompts | **61** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-13** |
 
@@ -56,6 +56,50 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Changement de style mode ultra-rapide
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt mode haute vitesse montrant un mannequin changeant de style 20 fois en 10 secondes grâce à des coupes franches.
+
+#### 📝 Prompt
+
+```
+Un mannequin change de tenue en un claquement de doigts — 20 styles en 10 secondes, coupes franches
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="Changement de style mode ultra-rapide">
+
+**[🎬 Voir la vidéo →](https://x.com/Dheepanratnam/status/2065470220253135360)**
+
+**Auteur:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Publié:** Jun 12, 2026
+
+---
+### Vidéo cinématographique sur la saison des pluies
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt structuré pour créer du contenu vidéo cinématographique et poétique sur le thème de la saison des pluies, incluant des paramètres personnalisables pour la région et l'ambiance.
+
+#### 📝 Prompt
+
+```
+[REGION] = Tokyo
+[REGION_NAME_DISPLAY] = Tokyo
+[REGION_SIGNATURES] = auto
+[DURATION] = 10 secondes
+[ASPECT_RATIO] = 16:9
+[MOOD] = cinématographique, poétique, saison des pluies, réalisme magique
+Veuillez créer une vidéo cinématographique de [DURATION] basée sur le thème de la saison des pluies.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="Vidéo cinématographique sur la saison des pluies">
+
+**[🎬 Voir la vidéo →](https://x.com/loglogrog/status/2065388912949002722)**
+
+**Auteur:** [マグマグ](https://x.com/loglogrog) | **Source:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **Publié:** Jun 12, 2026
+
+---
 ### Joueur de football marquant un but et célébration
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1370,6 +1414,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-13T07:46:17.530Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-13T10:27:47.688Z</sub>
 
 </div>

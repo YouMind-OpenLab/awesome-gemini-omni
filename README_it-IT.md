@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **59** |
+| 📝 Totale prompt | **61** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-13** |
 
@@ -56,6 +56,50 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Cambio rapido di stile moda
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di moda ad alta velocità che mostra una modella che cambia 20 stili diversi in 10 secondi utilizzando tagli netti.
+
+#### 📝 Prompt
+
+```
+Una modella cambia outfit in uno schiocco di dita: 20 stili in 10 secondi, con tagli netti
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="Cambio rapido di stile moda">
+
+**[🎬 Guarda il video →](https://x.com/Dheepanratnam/status/2065470220253135360)**
+
+**Autore:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Pubblicato:** Jun 12, 2026
+
+---
+### Video cinematografico sulla stagione delle piogge
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt strutturato per creare contenuti video cinematografici e poetici a tema stagione delle piogge, con parametri personalizzabili per regione e atmosfera.
+
+#### 📝 Prompt
+
+```
+[REGION] = Tokyo
+[REGION_NAME_DISPLAY] = Tokyo
+[REGION_SIGNATURES] = auto
+[DURATION] = 10 secondi
+[ASPECT_RATIO] = 16:9
+[MOOD] = cinematografico, poetico, stagione delle piogge, realismo magico
+Per favore, crea un video cinematografico di [DURATION] basato sul tema della stagione delle piogge.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="Video cinematografico sulla stagione delle piogge">
+
+**[🎬 Guarda il video →](https://x.com/loglogrog/status/2065388912949002722)**
+
+**Autore:** [マグマグ](https://x.com/loglogrog) | **Fonte:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **Pubblicato:** Jun 12, 2026
+
+---
 ### Calciatore che segna un gol ed esulta
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1370,6 +1414,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-13T07:46:18.028Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-13T10:27:48.163Z</sub>
 
 </div>
