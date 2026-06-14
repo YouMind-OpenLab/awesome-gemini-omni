@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **61** |
+| 📝 提示詞總數 | **63** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-14** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 巴黎冰糖城市轉場
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為 Gemini Omni 設計的超現實電影感提示詞，能將城市街道轉化為溶解的冰糖與糖漿，並呈現從灰色到琥珀色的季節性色彩變換。
+
+#### 📝 提示詞
+
+```
+巴黎冰糖大道溶解為糖漿，色彩從冬日的灰色轉變為春天的花朵，最終化作落葉的琥珀色
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="巴黎冰糖城市轉場">
+
+**[🎬 觀看視頻 →](https://x.com/loglogrog/status/2065898537121185919)**
+
+**作者:** [マグマグ](https://x.com/loglogrog) | **來源:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **發布時間:** Jun 13, 2026
+
+---
+### 臉部情緒序列轉換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個 Gemini Omni 提示詞，引導主體根據參考網格經歷一系列情緒，創造出連續且不自然的序列。
+
+#### 📝 提示詞
+
+```
+讓影片中的女性以不自然的順序經歷圖片 2 中的所有情緒，但保持連續拍攝。請勿將圖片 2 包含在影片中
+```
+
+<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="臉部情緒序列轉換">
+
+**[🎬 觀看視頻 →](https://x.com/AlinTiganus/status/2065796704784306366)**
+
+**作者:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **來源:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **發布時間:** Jun 13, 2026
+
+---
 ### 快速時尚風格切換
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1414,6 +1452,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-14T08:19:47.097Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-14T14:00:46.791Z</sub>
 
 </div>

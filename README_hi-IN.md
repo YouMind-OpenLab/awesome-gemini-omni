@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **61** |
+| 📝 कुल प्रॉम्पट्स | **63** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-06-14** |
 
@@ -56,6 +56,44 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### पेरिस रॉक-शुगर सिटी ट्रांज़िशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni के लिए एक असली (surreal) सिनेमाई प्रॉम्प्ट, जो शहर की सड़कों को पिघलती हुई रॉक शुगर और सिरप में बदल देता है, जिसमें ग्रे से एम्बर तक मौसमी रंग परिवर्तन शामिल है।
+
+#### 📝 प्रॉम्पट
+
+```
+पेरिस की रॉक-शुगर वाली सड़कें सिरप में घुल रही हैं, जिसका रंग सर्दियों के ग्रे से बदलकर वसंत के फूलों और फिर गिरी हुई पत्तियों के एम्बर रंग में गहरा होता जा रहा है
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="पेरिस रॉक-शुगर सिटी ट्रांज़िशन">
+
+**[🎬 वीडियो देखें →](https://x.com/loglogrog/status/2065898537121185919)**
+
+**लेखक:** [マグマグ](https://x.com/loglogrog) | **स्रोत:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **प्रकाशित:** Jun 13, 2026
+
+---
+### चेहरे के भावों का क्रमिक परिवर्तन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> एक Gemini Omni प्रॉम्प्ट जो एक संदर्भ ग्रिड के आधार पर विषय को भावनाओं की एक श्रृंखला से गुजारता है, जिससे एक निरंतर और अप्राकृतिक अनुक्रम तैयार होता है।
+
+#### 📝 प्रॉम्पट
+
+```
+महिला को इमेज 2 में दी गई सभी भावनाओं से एक अप्राकृतिक लेकिन निरंतर शॉट में गुजारें। वीडियो में इमेज 2 को शामिल न करें
+```
+
+<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="चेहरे के भावों का क्रमिक परिवर्तन">
+
+**[🎬 वीडियो देखें →](https://x.com/AlinTiganus/status/2065796704784306366)**
+
+**लेखक:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **स्रोत:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **प्रकाशित:** Jun 13, 2026
+
+---
 ### रैपिड फैशन स्टाइल स्विच
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1414,6 +1452,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-14T08:19:49.925Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-14T14:00:49.741Z</sub>
 
 </div>

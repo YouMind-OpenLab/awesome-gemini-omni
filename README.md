@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **61** |
+| 📝 Total Prompts | **63** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-14** |
 
@@ -56,6 +56,44 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Paris Rock-Sugar City Transition
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal cinematic prompt for Gemini Omni that transforms city streets into dissolving rock sugar and syrup, featuring a seasonal color transition from grey to amber.
+
+#### 📝 Prompt
+
+```
+Paris Rock-sugar boulevards dissolving into syrup, the color deepening from winter grey to spring blossom to the amber of fallen leaves
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="Paris Rock-Sugar City Transition">
+
+**[🎬 Watch Video →](https://x.com/loglogrog/status/2065898537121185919)**
+
+**Author:** [マグマグ](https://x.com/loglogrog) | **Source:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **Published:** Jun 13, 2026
+
+---
+### Facial Emotion Sequence Transition
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Gemini Omni prompt that guides a subject through a series of emotions based on a reference grid, creating a continuous and unnatural sequence.
+
+#### 📝 Prompt
+
+```
+Make the woman go through all the emotions in image 2 in an unnatural sequence but continuous shot. Don't include image 2 in the video
+```
+
+<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="Facial Emotion Sequence Transition">
+
+**[🎬 Watch Video →](https://x.com/AlinTiganus/status/2065796704784306366)**
+
+**Author:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **Source:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **Published:** Jun 13, 2026
+
+---
 ### Fashion Model Rapid Style Switch
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1393,6 +1431,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-14T08:19:46.082Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-14T14:00:45.720Z</sub>
 
 </div>

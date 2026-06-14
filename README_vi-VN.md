@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **61** |
+| 📝 Tổng số prompt | **63** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-14** |
 
@@ -56,6 +56,44 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Chuyển cảnh thành phố đường phèn Paris
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh siêu thực dành cho Gemini Omni, biến các con phố thành đường phèn và siro tan chảy, với hiệu ứng chuyển đổi màu sắc theo mùa từ xám sang hổ phách.
+
+#### 📝 Prompt
+
+```
+Những đại lộ đường phèn tại Paris tan chảy thành siro, màu sắc chuyển dần từ xám mùa đông sang sắc hoa mùa xuân rồi đến màu hổ phách của lá rụng
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="Chuyển cảnh thành phố đường phèn Paris">
+
+**[🎬 Xem video →](https://x.com/loglogrog/status/2065898537121185919)**
+
+**Tác giả:** [マグマグ](https://x.com/loglogrog) | **Nguồn:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **Đã xuất bản:** Jun 13, 2026
+
+---
+### Chuyển đổi Chuỗi Cảm xúc Khuôn mặt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh Gemini Omni hướng dẫn chủ thể trải qua một loạt các cảm xúc dựa trên lưới tham chiếu, tạo ra một chuỗi liên tục và phi tự nhiên.
+
+#### 📝 Prompt
+
+```
+Hãy để người phụ nữ trải qua tất cả các cảm xúc trong hình 2 theo một trình tự phi tự nhiên nhưng trong một cảnh quay liên tục. Không bao gồm hình 2 trong video
+```
+
+<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="Chuyển đổi Chuỗi Cảm xúc Khuôn mặt">
+
+**[🎬 Xem video →](https://x.com/AlinTiganus/status/2065796704784306366)**
+
+**Tác giả:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **Nguồn:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **Đã xuất bản:** Jun 13, 2026
+
+---
 ### Chuyển đổi phong cách thời trang siêu tốc
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1414,6 +1452,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-14T08:19:49.341Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-14T14:00:49.029Z</sub>
 
 </div>

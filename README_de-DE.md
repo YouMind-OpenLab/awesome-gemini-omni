@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **61** |
+| 📝 Gesamtanzahl Prompts | **63** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-14** |
 
@@ -56,6 +56,44 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Paris: Übergang zur Kandiszucker-Stadt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer, filmischer Prompt für Gemini Omni, der Straßen in schmelzenden Kandiszucker und Sirup verwandelt, mit einem jahreszeitlichen Farbwechsel von Grau zu Bernstein.
+
+#### 📝 Prompt
+
+```
+Boulevards aus Kandiszucker in Paris, die zu Sirup zerfließen; die Farbe vertieft sich von winterlichem Grau über Frühlingsblüten bis hin zum Bernstein von herabgefallenem Laub
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="Paris: Übergang zur Kandiszucker-Stadt">
+
+**[🎬 Video ansehen →](https://x.com/loglogrog/status/2065898537121185919)**
+
+**Autor:** [マグマグ](https://x.com/loglogrog) | **Quelle:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **Veröffentlicht:** Jun 13, 2026
+
+---
+### Übergang der Gesichtsemotionssequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Gemini Omni-Prompt, der eine Person durch eine Reihe von Emotionen basierend auf einem Referenzraster führt und so eine kontinuierliche und unnatürliche Sequenz erzeugt.
+
+#### 📝 Prompt
+
+```
+Lasse die Frau alle Emotionen aus Bild 2 in einer unnatürlichen Sequenz, aber in einer kontinuierlichen Aufnahme durchlaufen. Binde Bild 2 nicht in das Video ein.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="Übergang der Gesichtsemotionssequenz">
+
+**[🎬 Video ansehen →](https://x.com/AlinTiganus/status/2065796704784306366)**
+
+**Autor:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **Quelle:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **Veröffentlicht:** Jun 13, 2026
+
+---
 ### Schneller Wechsel des Modestils
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1414,6 +1452,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-14T08:19:51.652Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-14T14:00:53.368Z</sub>
 
 </div>

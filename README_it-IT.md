@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **61** |
+| 📝 Totale prompt | **63** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-14** |
 
@@ -56,6 +56,44 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Transizione della città di Parigi in zucchero candito
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico surreale per Gemini Omni che trasforma le strade cittadine in zucchero candito e sciroppo che si sciolgono, caratterizzato da una transizione cromatica stagionale dal grigio all'ambra.
+
+#### 📝 Prompt
+
+```
+Boulevard di Parigi in zucchero candito che si sciolgono in sciroppo, con colori che virano dal grigio invernale al fiore primaverile fino all'ambra delle foglie cadute
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="Transizione della città di Parigi in zucchero candito">
+
+**[🎬 Guarda il video →](https://x.com/loglogrog/status/2065898537121185919)**
+
+**Autore:** [マグマグ](https://x.com/loglogrog) | **Fonte:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **Pubblicato:** Jun 13, 2026
+
+---
+### Transizione della sequenza delle emozioni facciali
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per Gemini Omni che guida un soggetto attraverso una serie di emozioni basate su una griglia di riferimento, creando una sequenza continua e innaturale.
+
+#### 📝 Prompt
+
+```
+Fai in modo che la donna attraversi tutte le emozioni presenti nell'immagine 2 in una sequenza innaturale ma in un'unica ripresa continua. Non includere l'immagine 2 nel video.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="Transizione della sequenza delle emozioni facciali">
+
+**[🎬 Guarda il video →](https://x.com/AlinTiganus/status/2065796704784306366)**
+
+**Autore:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **Fonte:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **Pubblicato:** Jun 13, 2026
+
+---
 ### Cambio rapido di stile moda
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1414,6 +1452,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-14T08:19:52.695Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-14T14:00:54.347Z</sub>
 
 </div>

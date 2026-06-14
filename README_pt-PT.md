@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **61** |
+| 📝 Total de prompts | **63** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-06-14** |
 
@@ -56,6 +56,44 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Transição de Paris em Cidade de Açúcar Cristal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico surreal para o Gemini Omni que transforma as ruas da cidade em açúcar cristal e xarope que se dissolvem, apresentando uma transição de cores sazonal do cinza ao âmbar.
+
+#### 📝 Prompt
+
+```
+Boulevards de Paris em açúcar cristal dissolvendo-se em xarope, com a cor aprofundando-se do cinza de inverno para o florescer da primavera e o âmbar das folhas caídas
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="Transição de Paris em Cidade de Açúcar Cristal">
+
+**[🎬 Assistir vídeo →](https://x.com/loglogrog/status/2065898537121185919)**
+
+**Autor:** [マグマグ](https://x.com/loglogrog) | **Fonte:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **Publicado:** Jun 13, 2026
+
+---
+### Transição de Sequência de Emoções Faciais
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para o Gemini Omni que guia um sujeito através de uma série de emoções com base em uma grade de referência, criando uma sequência contínua e não natural.
+
+#### 📝 Prompt
+
+```
+Faça a mulher passar por todas as emoções da imagem 2 em uma sequência não natural, mas em uma tomada contínua. Não inclua a imagem 2 no vídeo
+```
+
+<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="Transição de Sequência de Emoções Faciais">
+
+**[🎬 Assistir vídeo →](https://x.com/AlinTiganus/status/2065796704784306366)**
+
+**Autor:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **Fonte:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **Publicado:** Jun 13, 2026
+
+---
 ### Troca Rápida de Estilo de Moda
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1414,6 +1452,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-14T08:19:53.750Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-14T14:00:55.391Z</sub>
 
 </div>

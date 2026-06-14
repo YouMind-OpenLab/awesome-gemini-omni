@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **61** |
+| 📝 プロンプト総数 | **63** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-06-14** |
 
@@ -56,6 +56,44 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### パリのロックシュガー・シティ・トランジション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni 用のシュールなシネマティック・プロンプト。街の通りが溶けゆく氷砂糖とシロップに変化し、季節の移ろいとともにグレーから琥珀色へと色が変化する様子を描写します。
+
+#### 📝 プロンプト
+
+```
+シロップへと溶けゆくパリの氷砂糖の並木道。冬のグレーから春の芽吹き、そして落ち葉の琥珀色へと深まっていく色彩
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="パリのロックシュガー・シティ・トランジション">
+
+**[🎬 動画を見る →](https://x.com/loglogrog/status/2065898537121185919)**
+
+**作者:** [マグマグ](https://x.com/loglogrog) | **ソース:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **公開日:** Jun 13, 2026
+
+---
+### 表情変化のシーケンス遷移
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 参照グリッドに基づいて被写体に一連の感情を表現させる Gemini Omni プロンプト。連続的かつ不自然なシーケンスを作成します。
+
+#### 📝 プロンプト
+
+```
+画像 2 にあるすべての感情を、不自然な順序で、かつ連続したショットで女性に表現させてください。動画内に画像 2 を含めないでください。
+```
+
+<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="表情変化のシーケンス遷移">
+
+**[🎬 動画を見る →](https://x.com/AlinTiganus/status/2065796704784306366)**
+
+**作者:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **ソース:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **公開日:** Jun 13, 2026
+
+---
 ### 瞬時に切り替わるファッションスタイル
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1414,6 +1452,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-14T08:19:47.625Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-14T14:00:47.418Z</sub>
 
 </div>

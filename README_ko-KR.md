@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **61** |
+| 📝 총 프롬프트 수 | **63** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-14** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 파리 락슈가 시티 트랜지션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 도시의 거리가 녹아내리는 락슈가와 시럽으로 변하며, 겨울의 회색빛에서 호박색으로 계절감이 변화하는 모습을 담은 Gemini Omni용 초현실적 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+시럽으로 녹아내리는 파리의 락슈가 대로, 겨울의 회색빛에서 봄의 꽃망울을 거쳐 낙엽의 호박색으로 깊어지는 색채 변화
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="파리 락슈가 시티 트랜지션">
+
+**[🎬 비디오 보기 →](https://x.com/loglogrog/status/2065898537121185919)**
+
+**작성자:** [マグマグ](https://x.com/loglogrog) | **출처:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **게시일:** Jun 13, 2026
+
+---
+### 얼굴 감정 시퀀스 전환
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 참조 그리드를 기반으로 피사체가 일련의 감정을 거치도록 유도하여, 연속적이면서도 부자연스러운 시퀀스를 생성하는 Gemini Omni 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+이미지 2에 있는 모든 감정을 부자연스러운 순서로 표현하되, 끊김 없는 연속적인 샷으로 촬영해 주세요. 영상에 이미지 2는 포함하지 마세요.
+```
+
+<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="얼굴 감정 시퀀스 전환">
+
+**[🎬 비디오 보기 →](https://x.com/AlinTiganus/status/2065796704784306366)**
+
+**작성자:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **출처:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **게시일:** Jun 13, 2026
+
+---
 ### 빠른 패션 스타일 전환
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1414,6 +1452,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-14T08:19:48.245Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-14T14:00:47.973Z</sub>
 
 </div>
