@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **63** |
+| 📝 Totale prompt | **65** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-15** |
 
@@ -56,6 +56,44 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Animazione video con tipografia cinetica 3D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt utilizzato per animare le parole pronunciate nello spazio 3D utilizzando uno stile di carattere specifico da un'immagine di riferimento, sovrapponendole a uno sfondo video.
+
+#### 📝 Prompt
+
+```
+Anima le parole che pronuncia nello spazio 3D seguendo lo stile delle lettere presenti nell'immagine di riferimento. Possono apparire sia in primo piano che sullo sfondo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="Animazione video con tipografia cinetica 3D">
+
+**[🎬 Guarda il video →](https://x.com/andr3_ai/status/2066165981173473347)**
+
+**Autore:** [ANDR3 AI](https://x.com/andr3_ai) | **Fonte:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **Pubblicato:** Jun 14, 2026
+
+---
+### Video ASMR ultra-realistico di una rosa di cristallo che si frantuma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video ASMR ultra-realistico che crea l'immagine di una rosa di cristallo traslucido congelata che viene frantumata, con dettagliati effetti di ghiaccio in frantumi e cinematografia macro.
+
+#### 📝 Prompt
+
+```
+Video ASMR ultra-realistico, 10 secondi. Una rosa congelata di ghiaccio cristallino traslucido viene schiacciata delicatamente tra dita guantate. I petali di ghiaccio si incrinano e si frantumano in frammenti scintillanti. Obiettivo macro, illuminazione drammatica, slow motion. Suoni ASMR: delicato scricchiolio del ghiaccio, tintinnio cristallino, fruscio soffice, audio di pura qualità da studio.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="Video ASMR ultra-realistico di una rosa di cristallo che si frantuma">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2066068213734195675)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **Pubblicato:** Jun 14, 2026
+
+---
 ### Transizione della città di Parigi in zucchero candito
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1452,6 +1490,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-15T04:11:22.298Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-15T13:54:48.651Z</sub>
 
 </div>

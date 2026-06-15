@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **63** |
+| 📝 Total Prompts | **65** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-15** |
 
@@ -56,6 +56,44 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### 3D Kinetic Typography Video Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt used to animate spoken words in 3D space using a specific font style from a reference image, overlaying them onto a video background.
+
+#### 📝 Prompt
+
+```
+Animate the words he is saying in 3D space in the style of the letters in the reference image. it can be in the foreground and in the background.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="3D Kinetic Typography Video Animation">
+
+**[🎬 Watch Video →](https://x.com/andr3_ai/status/2066165981173473347)**
+
+**Author:** [ANDR3 AI](https://x.com/andr3_ai) | **Source:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **Published:** Jun 14, 2026
+
+---
+### Ultra-Realistic ASMR Crystal Rose Shattering Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An ultra-realistic ASMR video prompt that creates a visual of a frozen translucent crystal rose being crushed, featuring detailed ice shattering effects and macro cinematography.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic ASMR video, 10 seconds. A frozen translucent rose made of crystal ice is gently crushed between gloved fingers. Ice petals crack and shatter into sparkling fragments. Macro lens, dramatic lighting, slow motion. ASMR sounds: delicate ice cracking, crystalline tinkling, soft crunching, pure studio-quality audio.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="Ultra-Realistic ASMR Crystal Rose Shattering Video">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2066068213734195675)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **Published:** Jun 14, 2026
+
+---
 ### Paris Rock-Sugar City Transition
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1431,6 +1469,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-15T04:11:15.761Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-15T13:54:41.806Z</sub>
 
 </div>

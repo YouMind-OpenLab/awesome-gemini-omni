@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **63** |
+| 📝 Tổng số prompt | **65** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-15** |
 
@@ -56,6 +56,44 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hoạt ảnh Typography động 3D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) được sử dụng để tạo hoạt ảnh cho các từ ngữ được nói trong không gian 3D, sử dụng kiểu phông chữ cụ thể từ hình ảnh tham chiếu và phủ chúng lên nền video.
+
+#### 📝 Prompt
+
+```
+Tạo hoạt ảnh cho các từ ngữ mà nhân vật đang nói trong không gian 3D theo phong cách chữ cái trong hình ảnh tham chiếu. Các từ này có thể xuất hiện ở tiền cảnh và hậu cảnh.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Typography động 3D">
+
+**[🎬 Xem video →](https://x.com/andr3_ai/status/2066165981173473347)**
+
+**Tác giả:** [ANDR3 AI](https://x.com/andr3_ai) | **Nguồn:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **Đã xuất bản:** Jun 14, 2026
+
+---
+### Video ASMR hoa hồng pha lê vỡ vụn siêu thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video ASMR siêu thực, mô phỏng hình ảnh bông hoa hồng pha lê trong suốt bị đóng băng đang bị nghiền nát, với hiệu ứng băng vỡ chi tiết và kỹ thuật quay phim macro.
+
+#### 📝 Prompt
+
+```
+Video ASMR siêu thực, 10 giây. Một bông hoa hồng làm từ băng pha lê trong suốt đang bị nghiền nhẹ giữa những ngón tay đeo găng. Các cánh hoa bằng băng nứt và vỡ vụn thành những mảnh lấp lánh. Ống kính macro, ánh sáng ấn tượng, chuyển động chậm. Âm thanh ASMR: tiếng băng nứt tinh tế, tiếng pha lê leng keng, tiếng giòn tan nhẹ nhàng, âm thanh chất lượng phòng thu thuần khiết.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="Video ASMR hoa hồng pha lê vỡ vụn siêu thực">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2066068213734195675)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **Đã xuất bản:** Jun 14, 2026
+
+---
 ### Chuyển cảnh thành phố đường phèn Paris
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1452,6 +1490,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-15T04:11:19.174Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-15T13:54:45.349Z</sub>
 
 </div>

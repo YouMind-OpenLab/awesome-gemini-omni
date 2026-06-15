@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **63** |
+| 📝 プロンプト総数 | **65** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-06-15** |
 
@@ -56,6 +56,44 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 3D キネティック・タイポグラフィ・ビデオ・アニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 参照画像から特定のフォントスタイルを使用して、話されている言葉を 3D 空間でアニメーション化し、ビデオの背景に重ね合わせるためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+彼が話している言葉を、参照画像の文字スタイルに合わせて 3D 空間でアニメーション化してください。前景と背景の両方に配置可能です。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="3D キネティック・タイポグラフィ・ビデオ・アニメーション">
+
+**[🎬 動画を見る →](https://x.com/andr3_ai/status/2066165981173473347)**
+
+**作者:** [ANDR3 AI](https://x.com/andr3_ai) | **ソース:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **公開日:** Jun 14, 2026
+
+---
+### 超リアルな ASMR クリスタルローズ粉砕動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 凍った半透明のクリスタルローズが砕ける様子を生成する、超リアルな ASMR 動画プロンプト。繊細な氷の破砕エフェクトとマクロ撮影による映像が特徴です。
+
+#### 📝 プロンプト
+
+```
+超リアルな ASMR 動画、10 秒間。手袋をした指の間で、クリスタルアイスでできた凍った半透明のバラが優しく押しつぶされる。氷の花びらがひび割れ、きらめく破片となって飛び散る。マクロレンズ、ドラマチックなライティング、スローモーション。ASMR サウンド：繊細な氷のひび割れる音、クリスタルのような澄んだ音、柔らかな砕ける音、スタジオ品質の純粋なオーディオ。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="超リアルな ASMR クリスタルローズ粉砕動画">
+
+**[🎬 動画を見る →](https://x.com/MrDasOnX/status/2066068213734195675)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **公開日:** Jun 14, 2026
+
+---
 ### パリのロックシュガー・シティ・トランジション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1452,6 +1490,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-15T04:11:17.624Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-15T13:54:43.633Z</sub>
 
 </div>

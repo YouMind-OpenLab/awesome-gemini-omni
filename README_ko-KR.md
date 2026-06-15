@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **63** |
+| 📝 총 프롬프트 수 | **65** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-15** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 3D 키네틱 타이포그래피 비디오 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 참조 이미지의 폰트 스타일을 사용하여 3D 공간에서 음성을 애니메이션화하고, 이를 비디오 배경 위에 오버레이하는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+참조 이미지에 있는 글자 스타일을 사용하여 그가 말하는 단어들을 3D 공간에서 애니메이션으로 구현하세요. 전경과 배경 모두에 배치할 수 있습니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="3D 키네틱 타이포그래피 비디오 애니메이션">
+
+**[🎬 비디오 보기 →](https://x.com/andr3_ai/status/2066165981173473347)**
+
+**작성자:** [ANDR3 AI](https://x.com/andr3_ai) | **출처:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **게시일:** Jun 14, 2026
+
+---
+### 초현실적인 ASMR 크리스탈 장미 산산조각 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 얼어붙은 반투명 크리스탈 장미가 부서지는 모습을 시각화한 초현실적인 ASMR 영상 프롬프트로, 정교한 얼음 파편 효과와 매크로 촬영 기법이 특징입니다.
+
+#### 📝 프롬프트
+
+```
+초현실적인 ASMR 영상, 10초. 크리스탈 얼음으로 만들어진 반투명한 장미가 장갑을 낀 손가락 사이에서 부드럽게 으스러집니다. 얼음 꽃잎이 갈라지며 반짝이는 파편으로 산산조각 납니다. 매크로 렌즈, 드라마틱한 조명, 슬로우 모션. ASMR 사운드: 섬세한 얼음 갈라지는 소리, 크리스탈이 부딪히는 맑은 소리, 부드러운 바스락거림, 순도 높은 스튜디오급 오디오.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 ASMR 크리스탈 장미 산산조각 영상">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2066068213734195675)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **게시일:** Jun 14, 2026
+
+---
 ### 파리 락슈가 시티 트랜지션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1452,6 +1490,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-15T04:11:18.149Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-15T13:54:44.263Z</sub>
 
 </div>

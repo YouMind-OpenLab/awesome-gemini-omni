@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **63** |
+| 📝 提示词总数 | **65** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-06-15** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 3D 动态排版视频动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于在 3D 空间中为口述内容制作动画的提示词，通过参考图像中的特定字体样式，将其叠加在视频背景上。
+
+#### 📝 提示词
+
+```
+以参考图像中字母的风格，在 3D 空间中为他所说的词语制作动画。动画可以呈现在前景或背景中。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="3D 动态排版视频动画">
+
+**[🎬 观看视频 →](https://x.com/andr3_ai/status/2066165981173473347)**
+
+**作者:** [ANDR3 AI](https://x.com/andr3_ai) | **来源:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **发布时间:** Jun 14, 2026
+
+---
+### 超逼真 ASMR 水晶玫瑰破碎视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个超逼真的 ASMR 视频提示词，用于创作冰冻半透明水晶玫瑰被捏碎的视觉效果，包含细腻的冰块破碎特效和微距摄影画面。
+
+#### 📝 提示词
+
+```
+超逼真 ASMR 视频，10 秒。一朵由水晶冰制成的冰冻半透明玫瑰在戴着手套的手指间被轻轻捏碎。冰花瓣破裂并碎成闪闪发光的碎片。微距镜头，戏剧性灯光，慢动作。ASMR 音效：精致的冰裂声、清脆的晶体碰撞声、柔和的碎裂声，纯净的录音室级音质。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="超逼真 ASMR 水晶玫瑰破碎视频">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2066068213734195675)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **发布时间:** Jun 14, 2026
+
+---
 ### 巴黎冰糖城市变幻
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1452,6 +1490,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-15T04:11:16.362Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-15T13:54:42.418Z</sub>
 
 </div>

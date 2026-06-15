@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **63** |
+| 📝 Total des prompts | **65** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-15** |
 
@@ -56,6 +56,44 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Animation vidéo de typographie cinétique 3D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt utilisé pour animer des mots prononcés dans un espace 3D en utilisant un style de police spécifique issu d'une image de référence, en les superposant sur un arrière-plan vidéo.
+
+#### 📝 Prompt
+
+```
+Animez les mots qu'il prononce dans un espace 3D en suivant le style des lettres de l'image de référence. Ils peuvent apparaître au premier plan comme à l'arrière-plan.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="Animation vidéo de typographie cinétique 3D">
+
+**[🎬 Voir la vidéo →](https://x.com/andr3_ai/status/2066165981173473347)**
+
+**Auteur:** [ANDR3 AI](https://x.com/andr3_ai) | **Source:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **Publié:** Jun 14, 2026
+
+---
+### Vidéo ASMR ultra-réaliste d'une rose en cristal qui se brise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo ASMR ultra-réaliste qui génère le visuel d'une rose en cristal translucide gelée en train d'être écrasée, avec des effets de glace brisée détaillés et une cinématographie macro.
+
+#### 📝 Prompt
+
+```
+Vidéo ASMR ultra-réaliste, 10 secondes. Une rose translucide en glace cristalline est délicatement écrasée entre des doigts gantés. Les pétales de glace se fissurent et volent en éclats étincelants. Objectif macro, éclairage dramatique, ralenti. Sons ASMR : craquements de glace délicats, tintements cristallins, léger croustillant, audio de qualité studio pure.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="Vidéo ASMR ultra-réaliste d'une rose en cristal qui se brise">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2066068213734195675)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **Publié:** Jun 14, 2026
+
+---
 ### Transition de Paris en ville de sucre candi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1452,6 +1490,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-15T04:11:21.781Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-15T13:54:48.123Z</sub>
 
 </div>

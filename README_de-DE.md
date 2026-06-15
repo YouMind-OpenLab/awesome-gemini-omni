@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **63** |
+| 📝 Gesamtanzahl Prompts | **65** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-15** |
 
@@ -56,6 +56,44 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### 3D-Kinetische Typografie-Videoanimation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt, um gesprochene Wörter mithilfe eines bestimmten Schriftstils aus einem Referenzbild im 3D-Raum zu animieren und sie über einen Videohintergrund zu legen.
+
+#### 📝 Prompt
+
+```
+Animieren Sie die gesprochenen Wörter im 3D-Raum im Stil der Buchstaben aus dem Referenzbild. Sie können sowohl im Vordergrund als auch im Hintergrund erscheinen.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="3D-Kinetische Typografie-Videoanimation">
+
+**[🎬 Video ansehen →](https://x.com/andr3_ai/status/2066165981173473347)**
+
+**Autor:** [ANDR3 AI](https://x.com/andr3_ai) | **Quelle:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **Veröffentlicht:** Jun 14, 2026
+
+---
+### Ultra-realistisches ASMR-Video: Zerbrechende Kristallrose
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein ultra-realistischer ASMR-Video-Prompt, der ein visuelles Erlebnis einer gefrorenen, durchscheinenden Kristallrose beim Zerdrücken erzeugt, mit detaillierten Eis-Splitter-Effekten und Makro-Kinematografie.
+
+#### 📝 Prompt
+
+```
+Ultra-realistisches ASMR-Video, 10 Sekunden. Eine gefrorene, durchscheinende Rose aus Kristalleis wird sanft zwischen behandschuhten Fingern zerdrückt. Eispellets reißen und zersplittern in funkelnde Fragmente. Makro-Objektiv, dramatische Beleuchtung, Zeitlupe. ASMR-Sounds: feines Knacken von Eis, kristallines Klirren, sanftes Knirschen, reiner Audio-Sound in Studioqualität.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="Ultra-realistisches ASMR-Video: Zerbrechende Kristallrose">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2066068213734195675)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **Veröffentlicht:** Jun 14, 2026
+
+---
 ### Paris: Übergang zur Kandiszucker-Stadt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1452,6 +1490,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-15T04:11:21.277Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-15T13:54:47.545Z</sub>
 
 </div>

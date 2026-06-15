@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **63** |
+| 📝 Total de prompts | **65** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-06-15** |
 
@@ -56,6 +56,44 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Animação de Vídeo com Tipografia Cinética 3D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt usado para animar palavras faladas no espaço 3D usando um estilo de fonte específico de uma imagem de referência, sobrepondo-as a um fundo de vídeo.
+
+#### 📝 Prompt
+
+```
+Anime as palavras que ele está dizendo no espaço 3D no estilo das letras da imagem de referência. Pode ser no primeiro plano e no segundo plano.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="Animação de Vídeo com Tipografia Cinética 3D">
+
+**[🎬 Assistir vídeo →](https://x.com/andr3_ai/status/2066165981173473347)**
+
+**Autor:** [ANDR3 AI](https://x.com/andr3_ai) | **Fonte:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **Publicado:** Jun 14, 2026
+
+---
+### Vídeo ASMR Ultra-Realista de Rosa de Cristal se Estilhaçando
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo ASMR ultra-realista que cria o visual de uma rosa de cristal translúcida congelada sendo esmagada, apresentando efeitos detalhados de gelo se quebrando e cinematografia macro.
+
+#### 📝 Prompt
+
+```
+Vídeo ASMR ultra-realista, 10 segundos. Uma rosa translúcida congelada feita de gelo cristalino é suavemente esmagada entre dedos enluvados. Pétalas de gelo racham e se estilhaçam em fragmentos brilhantes. Lente macro, iluminação dramática, câmera lenta. Sons de ASMR: estalos delicados de gelo, tilintar cristalino, trituração suave, áudio puro com qualidade de estúdio.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="Vídeo ASMR Ultra-Realista de Rosa de Cristal se Estilhaçando">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2066068213734195675)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **Publicado:** Jun 14, 2026
+
+---
 ### Transição de Paris em Cidade de Açúcar Cristal
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1452,6 +1490,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-15T04:11:22.828Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-15T13:54:49.159Z</sub>
 
 </div>

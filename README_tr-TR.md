@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **63** |
+| 📝 Toplam İstem | **65** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-15** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### 3D Kinetik Tipografi Video Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans görseldeki belirli bir yazı tipi stilini kullanarak, konuşulan kelimeleri 3D uzayda canlandırmak ve bunları bir video arka planının üzerine yerleştirmek için kullanılan bir komut.
+
+#### 📝 İstem
+
+```
+Referans görseldeki harflerin stilini kullanarak, konuşulan kelimeleri 3D uzayda canlandır. Kelimeler ön planda ve arka planda yer alabilir.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="3D Kinetik Tipografi Video Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/andr3_ai/status/2066165981173473347)**
+
+**Yazar:** [ANDR3 AI](https://x.com/andr3_ai) | **Kaynak:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **Yayınlandı:** Jun 14, 2026
+
+---
+### Ultra Gerçekçi ASMR Kristal Gül Kırılma Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Donmuş, yarı saydam kristal bir gülün ezilme görselini oluşturan, detaylı buz kırılma efektleri ve makro sinematografi içeren ultra gerçekçi bir ASMR video istemi.
+
+#### 📝 İstem
+
+```
+Ultra gerçekçi ASMR videosu, 10 saniye. Kristal buzdan yapılmış donmuş, yarı saydam bir gül, eldivenli parmaklar arasında nazikçe eziliyor. Buz yaprakları çatlıyor ve parıldayan parçalara ayrılarak kırılıyor. Makro lens, dramatik aydınlatma, ağır çekim. ASMR sesleri: hassas buz çatlaması, kristal çınlaması, yumuşak çıtırtı, saf stüdyo kalitesinde ses.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="Ultra Gerçekçi ASMR Kristal Gül Kırılma Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2066068213734195675)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **Yayınlandı:** Jun 14, 2026
+
+---
 ### Paris Kaya Şekeri Şehir Geçişi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1452,6 +1490,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-15T04:11:23.928Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-15T13:54:50.235Z</sub>
 
 </div>
