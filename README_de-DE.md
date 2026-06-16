@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **65** |
+| 📝 Gesamtanzahl Prompts | **66** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-16** |
 
@@ -56,6 +56,29 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Gemini Omni Fußballspiel-Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Video-Generierungs-Prompt für ein Fußballspiel zwischen einer älteren Herrenmannschaft und einer jüngeren Damenmannschaft, inklusive spezifischer Teamtrikots und eines spielentscheidenden Treffers.
+
+#### 📝 Prompt
+
+```
+Sprache: Japanisch.
+Fußballspiel-Szene.
+Das blaue Team besteht aus japanischen Männern in ihren 50ern mit schütterem Haar und fülliger Statur, die blaue Trikots mit einem „Oji“-Logo auf der Brust tragen.
+Das rote Team besteht aus japanischen Frauen in ihren 20ern mit zurückgebundenem oder kurzem Haar, die rote Trikots mit einem „Anti Oji“-Logo auf der Brust tragen.
+Das rote Team dominiert das blaue Team. Schließlich erzielt das rote Team ein Tor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8398e3f0031d57434e2510af01502eb1/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni Fußballspiel-Animation">
+
+**[🎬 Video ansehen →](https://x.com/onoken1025/status/2066356040887898371)**
+
+**Autor:** [onoken1025](https://x.com/onoken1025) | **Quelle:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **Veröffentlicht:** Jun 15, 2026
+
+---
 ### 3D-Kinetische Typografie-Videoanimation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1490,6 +1513,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-16T04:00:34.523Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-16T12:52:33.528Z</sub>
 
 </div>

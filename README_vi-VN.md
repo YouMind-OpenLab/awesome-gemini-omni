@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **65** |
+| 📝 Tổng số prompt | **66** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-16** |
 
@@ -56,6 +56,29 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hoạt ảnh trận đấu bóng đá Gemini Omni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh tạo video chi tiết cho trận đấu bóng đá giữa đội nam lớn tuổi và đội nữ trẻ, bao gồm các bộ đồng phục cụ thể và cú sút quyết định chiến thắng.
+
+#### 📝 Prompt
+
+```
+Ngôn ngữ hội thoại: Tiếng Nhật.
+Cảnh trận đấu bóng đá.
+Đội xanh bao gồm những người đàn ông Nhật Bản ở độ tuổi 50 với mái tóc thưa và thể hình béo phì, mặc đồng phục màu xanh với logo "Oji" trên ngực.
+Đội đỏ bao gồm những phụ nữ Nhật Bản ở độ tuổi 20 với mái tóc buộc gọn hoặc tóc ngắn, mặc đồng phục màu đỏ với logo "Anti Oji" trên ngực.
+Đội đỏ áp đảo đội xanh. Cuối cùng, đội đỏ ghi bàn thắng.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8398e3f0031d57434e2510af01502eb1/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh trận đấu bóng đá Gemini Omni">
+
+**[🎬 Xem video →](https://x.com/onoken1025/status/2066356040887898371)**
+
+**Tác giả:** [onoken1025](https://x.com/onoken1025) | **Nguồn:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **Đã xuất bản:** Jun 15, 2026
+
+---
 ### Hoạt ảnh Typography động 3D
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1490,6 +1513,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-16T04:00:33.029Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-16T12:52:31.014Z</sub>
 
 </div>

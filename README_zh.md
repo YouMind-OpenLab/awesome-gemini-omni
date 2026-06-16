@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **65** |
+| 📝 提示词总数 | **66** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-06-16** |
 
@@ -56,6 +56,29 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Gemini Omni 足球比赛动画
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一份详细的视频生成提示词，用于制作一场由中老年男子队对阵年轻女子队的足球比赛，包含特定的队服设计及制胜进球画面。
+
+#### 📝 提示词
+
+```
+语音语言：日语。
+足球比赛场景。
+蓝色队伍由 50 多岁的日本男性组成，他们头发稀疏、体型肥胖，身穿胸前印有“Oji”标志的蓝色队服。
+红色队伍由 20 多岁的日本女性组成，她们留着马尾或短发，身穿胸前印有“Anti Oji”标志的红色队服。
+红色队伍在比赛中压制蓝色队伍。最终，红色队伍攻入一球。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8398e3f0031d57434e2510af01502eb1/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni 足球比赛动画">
+
+**[🎬 观看视频 →](https://x.com/onoken1025/status/2066356040887898371)**
+
+**作者:** [onoken1025](https://x.com/onoken1025) | **来源:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **发布时间:** Jun 15, 2026
+
+---
 ### 3D 动态排版视频动画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1490,6 +1513,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-16T04:00:31.489Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-16T12:52:27.801Z</sub>
 
 </div>

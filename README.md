@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **65** |
+| 📝 Total Prompts | **66** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-16** |
 
@@ -56,6 +56,29 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Gemini Omni Soccer Match Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed video generation prompt for a soccer match between an older men's team and a younger women's team, featuring specific team uniforms and a game-winning shot.
+
+#### 📝 Prompt
+
+```
+Speech Language: Japanese.
+Soccer match scene.
+The blue team consists of Japanese men in their 50s with thinning hair and obese physiques, wearing blue uniforms with an "Oji" logo on the chest.
+The red team consists of Japanese women in their 20s with hair tied back or short hair, wearing red uniforms with an "Anti Oji" logo on the chest.
+The red team overwhelms the blue team. Finally, the red team scores a goal.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8398e3f0031d57434e2510af01502eb1/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni Soccer Match Animation">
+
+**[🎬 Watch Video →](https://x.com/onoken1025/status/2066356040887898371)**
+
+**Author:** [onoken1025](https://x.com/onoken1025) | **Source:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **Published:** Jun 15, 2026
+
+---
 ### 3D Kinetic Typography Video Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1469,6 +1492,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-16T04:00:31.116Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-16T12:52:27.164Z</sub>
 
 </div>

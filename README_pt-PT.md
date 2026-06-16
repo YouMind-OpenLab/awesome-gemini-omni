@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **65** |
+| 📝 Total de prompts | **66** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-06-16** |
 
@@ -56,6 +56,29 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Animação de Partida de Futebol com Gemini Omni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt detalhado de geração de vídeo para uma partida de futebol entre um time masculino mais velho e um time feminino mais jovem, apresentando uniformes específicos e um gol decisivo.
+
+#### 📝 Prompt
+
+```
+Idioma da fala: Japonês.
+Cena de partida de futebol.
+O time azul consiste em homens japoneses na faixa dos 50 anos, com cabelos ralos e físico obeso, vestindo uniformes azuis com o logotipo "Oji" no peito.
+O time vermelho consiste em mulheres japonesas na faixa dos 20 anos, com cabelos presos ou curtos, vestindo uniformes vermelhos com o logotipo "Anti Oji" no peito.
+O time vermelho domina o time azul. Por fim, o time vermelho marca um gol.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8398e3f0031d57434e2510af01502eb1/thumbnails/thumbnail.jpg" width="600" alt="Animação de Partida de Futebol com Gemini Omni">
+
+**[🎬 Assistir vídeo →](https://x.com/onoken1025/status/2066356040887898371)**
+
+**Autor:** [onoken1025](https://x.com/onoken1025) | **Fonte:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **Publicado:** Jun 15, 2026
+
+---
 ### Animação de Tipografia Cinética 3D
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1490,6 +1513,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-16T04:00:35.805Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-16T12:52:35.841Z</sub>
 
 </div>

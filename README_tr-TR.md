@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **65** |
+| 📝 Toplam İstem | **66** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-16** |
 
@@ -56,6 +56,29 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Gemini Omni Futbol Maçı Animasyonu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Yaşlı erkeklerden oluşan bir takım ile genç kadınlardan oluşan bir takım arasındaki futbol maçına dair, belirli takım formalarını ve maçı kazandıran gol vuruşunu içeren detaylı bir video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Konuşma Dili: Japonca.
+Futbol maçı sahnesi.
+Mavi takım, göğüslerinde "Oji" logosu bulunan mavi formalar giyen, seyrek saçlı ve obez yapılı 50'li yaşlardaki Japon erkeklerden oluşuyor.
+Kırmızı takım, göğüslerinde "Anti Oji" logosu bulunan kırmızı formalar giyen, saçları arkadan bağlı veya kısa saçlı 20'li yaşlardaki Japon kadınlardan oluşuyor.
+Kırmızı takım, mavi takıma üstünlük sağlıyor. Sonunda, kırmızı takım bir gol atıyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8398e3f0031d57434e2510af01502eb1/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni Futbol Maçı Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/onoken1025/status/2066356040887898371)**
+
+**Yazar:** [onoken1025](https://x.com/onoken1025) | **Kaynak:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **Yayınlandı:** Jun 15, 2026
+
+---
 ### 3D Kinetik Tipografi Video Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1490,6 +1513,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-16T04:00:36.118Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-16T12:52:36.393Z</sub>
 
 </div>

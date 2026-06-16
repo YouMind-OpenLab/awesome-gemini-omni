@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **65** |
+| 📝 총 프롬프트 수 | **66** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-16** |
 
@@ -56,6 +56,29 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Gemini Omni 축구 경기 애니메이션
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 중년 남성 팀과 젊은 여성 팀 간의 축구 경기를 위한 상세한 영상 생성 프롬프트로, 특정 팀 유니폼과 결승골 장면을 포함합니다.
+
+#### 📝 프롬프트
+
+```
+음성 언어: 일본어.
+축구 경기 장면.
+파란색 팀은 가슴에 "Oji" 로고가 새겨진 파란색 유니폼을 입은 50대 일본 남성들로 구성되어 있으며, 머리숱이 적고 비만 체형입니다.
+빨간색 팀은 가슴에 "Anti Oji" 로고가 새겨진 빨간색 유니폼을 입은 20대 일본 여성들로 구성되어 있으며, 머리를 묶거나 짧은 머리 스타일입니다.
+빨간색 팀이 파란색 팀을 압도합니다. 마지막으로 빨간색 팀이 골을 넣습니다.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8398e3f0031d57434e2510af01502eb1/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni 축구 경기 애니메이션">
+
+**[🎬 비디오 보기 →](https://x.com/onoken1025/status/2066356040887898371)**
+
+**작성자:** [onoken1025](https://x.com/onoken1025) | **출처:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **게시일:** Jun 15, 2026
+
+---
 ### 3D 키네틱 타이포그래피 비디오 애니메이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1490,6 +1513,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-16T04:00:32.480Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-16T12:52:29.816Z</sub>
 
 </div>
