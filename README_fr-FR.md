@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **66** |
+| 📝 Total des prompts | **67** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-17** |
 
@@ -56,6 +56,25 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Vidéo d'unboxing cinématographique d'un adorable chaton
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt très détaillé pour générer une vidéo d'unboxing cinématographique réconfortante mettant en scène un chaton duveteux, agrémentée d'étincelles magiques et d'un éclairage pastel doux.
+
+#### 📝 Prompt
+
+```
+Vidéo d'unboxing cinématographique adorable mettant en scène la surprise d'un mignon chaton. Ouverture sur une table de style chambre d'enfant aux tons rose pastel et blanc, avec des nuages duveteux et une douce lumière matinale qui entre par la fenêtre. Une grande boîte cadeau aux couleurs pastel avec un gros nœud en satin est placée au centre. Le couvercle se soulève lentement avec le son délicat d'étincelles magiques. Soudain, un minuscule chaton tigré blanc et gris, au pelage duveteux et aux grands yeux brillants, sort sa tête, l'air curieux et somnolent. Une main gantée de jaune pastel s'approche doucement pour soulever l'adorable chaton. Le chaton miaule mignonnement, remue ses petites pattes, et une rafale d'étincelles en forme de cœur, de confettis colorés et de douces particules de lumière dorée tourbillonne autour de lui. Le chaton joue avec les étincelles tout en étant tenu, puis bâille largement. Mouvement de caméra cinématographique fluide : zoom lent sur l'ouverture de la boîte, orbite douce autour du chaton, et un gros plan final chaleureux sur son visage aux yeux pétillants. Détails du pelage photoréalistes, qualité commerciale ultra-mignonne, éclairage volumétrique doux, faible profondeur de champ, étalonnage des couleurs pastel vives avec des roses, des jaunes et des blancs, textures hyper-réalistes, ambiance réconfortante et saine.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="Vidéo d'unboxing cinématographique d'un adorable chaton">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2066732269184889282)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **Publié:** Jun 16, 2026
+
+---
 ### Animation d'un match de football Gemini Omni
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1513,6 +1532,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-17T04:02:18.332Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-17T12:15:55.040Z</sub>
 
 </div>

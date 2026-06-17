@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **66** |
+| 📝 Total Prompts | **67** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-17** |
 
@@ -56,6 +56,25 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Cute Kitten Unboxing Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for generating a heartwarming cinematic unboxing video featuring a fluffy kitten, complete with magical sparkles and soft pastel lighting.
+
+#### 📝 Prompt
+
+```
+Cinematic adorable unboxing video featuring a surprise cute kitten. Open on a bright, pastel pink and white nursery-style table with fluffy clouds and soft morning sunlight streaming in. A large, cute pastel-colored gift box with a big satin bow sits centered. The lid slowly lifts open with a gentle magical sparkle sound. Suddenly, a tiny fluffy white and gray tabby kitten with big sparkling eyes pops its head out, looking curious and sleepy. A soft gloved hand in pastel yellow gently reaches in and lifts the adorable kitten out. The kitten meows cutely, wiggles its tiny paws, and a burst of floating heart-shaped sparkles, colorful confetti, and gentle golden light particles swirl around it. The kitten playfully bats at the sparkles while being held up, then gives a big yawn. Smooth cinematic camera movement: slow zoom in on the box opening, gentle orbit around the kitten, and a final warm close-up on its face with sparkling eyes. Photorealistic fur details, ultra-cute commercial quality, volumetric soft lighting, shallow depth of field, bright pastel color grading with pinks, yellows and whites, hyper-realistic textures, heartwarming and wholesome mood.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Cute Kitten Unboxing Video">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2066732269184889282)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **Published:** Jun 16, 2026
+
+---
 ### Gemini Omni Soccer Match Animation
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1492,6 +1511,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-17T04:02:10.669Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-17T12:15:45.571Z</sub>
 
 </div>

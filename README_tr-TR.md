@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **66** |
+| 📝 Toplam İstem | **67** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-17** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Sevimli Yavru Kedi Kutu Açılımı Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Büyülü parıltılar ve yumuşak pastel ışıklandırmayla tamamlanan, tüylü bir yavru kedinin yer aldığı iç ısıtan sinematik bir kutu açılımı videosu oluşturmak için oldukça detaylı bir komut.
+
+#### 📝 İstem
+
+```
+Sürpriz sevimli bir yavru kedinin yer aldığı sinematik ve sevimli kutu açılımı videosu. Parlak, pastel pembe ve beyaz tonlarında, kreş tarzı bir masa üzerinde, kabarık bulutlar ve içeri süzülen yumuşak sabah güneş ışığıyla sahne başlar. Ortada büyük, pastel renkli ve büyük saten kurdeleli bir hediye kutusu durmaktadır. Kapağı, hafif büyülü bir parıltı sesiyle yavaşça açılır. Aniden, iri parıldayan gözlere sahip, meraklı ve uykulu görünen minik, tüylü, beyaz ve gri tekir bir yavru kedi başını dışarı çıkarır. Pastel sarı eldivenli yumuşak bir el nazikçe içeri uzanır ve sevimli yavru kediyi dışarı çıkarır. Yavru kedi sevimli bir şekilde miyavlar, minik patilerini hareket ettirir ve etrafında uçuşan kalp şeklinde parıltılar, renkli konfetiler ve nazik altın rengi ışık parçacıkları döner. Yavru kedi tutulurken oyunbaz bir şekilde parıltılara vurur ve ardından kocaman esner. Pürüzsüz sinematik kamera hareketi: kutunun açılışına yavaş yakınlaştırma, yavru kedinin etrafında nazik bir yörünge hareketi ve parıldayan gözleriyle yüzüne yapılan son sıcak bir yakın çekim. Fotogerçekçi kürk detayları, ultra sevimli ticari kalite, hacimsel yumuşak ışıklandırma, sığ alan derinliği, pembe, sarı ve beyaz tonlarıyla parlak pastel renk derecelendirmesi, hiper gerçekçi dokular, iç ısıtan ve huzur verici bir atmosfer.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Sevimli Yavru Kedi Kutu Açılımı Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2066732269184889282)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **Yayınlandı:** Jun 16, 2026
+
+---
 ### Gemini Omni Futbol Maçı Animasyonu
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1513,6 +1532,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-17T04:02:20.875Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-17T12:15:57.877Z</sub>
 
 </div>

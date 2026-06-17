@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **66** |
+| 📝 提示詞總數 | **67** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-17** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 電影級可愛小貓開箱影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高細節的提示詞，用於生成一部溫馨的電影級開箱影片，主角是一隻毛茸茸的小貓，並配有夢幻般的閃光與柔和的粉彩色調燈光。
+
+#### 📝 提示詞
+
+```
+電影級可愛開箱影片，主角是一隻驚喜現身的可愛小貓。場景開場於一張明亮、粉紅與白色系的托兒所風格桌面上，背景有蓬鬆的雲朵，柔和的晨光灑落。畫面中央放置著一個大型、粉彩色的精美禮盒，上面繫著巨大的緞帶蝴蝶結。盒蓋伴隨著輕柔的魔法閃光聲緩緩開啟。突然，一隻毛茸茸的白灰相間小虎斑貓探出頭來，牠有著一雙閃閃發光的大眼睛，看起來既好奇又惺忪。一隻戴著淡黃色手套的溫柔手伸入盒中，將可愛的小貓抱了出來。小貓發出可愛的喵喵聲，揮動著小爪子，周圍環繞著飄浮的心形閃光、彩色紙屑以及柔和的金色光點。小貓在被抱起時俏皮地拍打著閃光，隨後打了一個大大的哈欠。流暢的電影級運鏡：緩慢變焦至盒子開啟，溫柔地環繞小貓拍攝，最後以溫暖的特寫鏡頭聚焦在牠閃爍的雙眼上。照片級的毛髮細節、超可愛的商業廣告品質、體積感柔光、淺景深、以粉紅、黃色與白色為主的明亮粉彩調色、超寫實質感，營造出溫馨療癒的氛圍。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="電影級可愛小貓開箱影片">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2066732269184889282)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **發布時間:** Jun 16, 2026
+
+---
 ### Gemini Omni 足球比賽動畫
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1513,6 +1532,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-17T04:02:12.198Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-17T12:15:47.375Z</sub>
 
 </div>

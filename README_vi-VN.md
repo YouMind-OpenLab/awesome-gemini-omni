@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **66** |
+| 📝 Tổng số prompt | **67** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-17** |
 
@@ -56,6 +56,25 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video unboxing chú mèo con đáng yêu theo phong cách điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) chi tiết giúp tạo ra video unboxing theo phong cách điện ảnh đầy cảm xúc với nhân vật chính là một chú mèo con lông xù, kết hợp cùng hiệu ứng lấp lánh huyền ảo và ánh sáng pastel dịu nhẹ.
+
+#### 📝 Prompt
+
+```
+Video unboxing đáng yêu theo phong cách điện ảnh với sự xuất hiện bất ngờ của một chú mèo con dễ thương. Mở đầu bằng khung cảnh trên một chiếc bàn phong cách nhà trẻ với tông màu hồng pastel và trắng tươi sáng, xung quanh là những đám mây bông xốp cùng ánh nắng ban mai dịu nhẹ chiếu vào. Một hộp quà lớn màu pastel với chiếc nơ satin to bản được đặt ở chính giữa. Nắp hộp từ từ mở ra kèm theo âm thanh lấp lánh huyền ảo nhẹ nhàng. Bất ngờ thay, một chú mèo con lông xù màu trắng xám với đôi mắt to tròn long lanh ló đầu ra, trông vừa tò mò vừa buồn ngủ. Một bàn tay đeo găng màu vàng pastel nhẹ nhàng đưa vào và bế chú mèo con đáng yêu ra ngoài. Chú mèo kêu meo meo đầy dễ thương, khua khoắng đôi chân nhỏ xíu, trong khi những tia sáng hình trái tim, pháo giấy đầy màu sắc và các hạt ánh sáng vàng dịu nhẹ bay lượn xung quanh. Chú mèo tinh nghịch vờn những tia sáng khi được bế lên, rồi ngáp một cái thật to. Chuyển động camera điện ảnh mượt mà: zoom chậm vào cảnh mở hộp, xoay nhẹ quanh chú mèo và kết thúc bằng một cú cận cảnh ấm áp vào gương mặt với đôi mắt long lanh của nó. Chi tiết lông chân thực như ảnh chụp, chất lượng thương mại cực kỳ dễ thương, ánh sáng mềm mại dạng khối, độ sâu trường ảnh nông, chỉnh màu pastel tươi sáng với các tông hồng, vàng và trắng, kết cấu siêu thực, mang lại cảm giác ấm áp và trong trẻo.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="Video unboxing chú mèo con đáng yêu theo phong cách điện ảnh">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2066732269184889282)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **Đã xuất bản:** Jun 16, 2026
+
+---
 ### Hoạt ảnh trận đấu bóng đá Gemini Omni
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1513,6 +1532,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-17T04:02:14.788Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-17T12:15:50.563Z</sub>
 
 </div>

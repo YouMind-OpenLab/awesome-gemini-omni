@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **66** |
+| 📝 提示词总数 | **67** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-06-17** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 电影感可爱小猫开箱视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成温馨电影感开箱视频的高细节提示词，主角是一只毛茸茸的小猫，并配有梦幻闪光和柔和的马卡龙色调灯光。
+
+#### 📝 提示词
+
+```
+电影感十足的可爱开箱视频，主角是一只惊喜出现的小猫。画面开始于一张明亮的马卡龙粉白色育婴风格桌子，背景有蓬松的云朵，柔和的晨光倾泻而入。桌子中央放着一个巨大的、可爱的马卡龙色礼盒，上面系着一个巨大的缎带蝴蝶结。盒盖伴随着轻柔的魔法闪光声缓慢开启。突然，一只毛茸茸的白灰相间小虎斑猫探出头来，它有着大大的闪亮眼睛，看起来既好奇又困倦。一只戴着淡黄色手套的柔和手轻轻伸入，将这只可爱的小猫抱了出来。小猫发出可爱的叫声，扭动着小爪子，周围环绕着一簇簇漂浮的心形闪光、彩色纸屑和柔和的金色光粒。小猫在被抱起时顽皮地拍打着闪光，随后打了一个大大的哈欠。平滑的电影级运镜：缓慢推近盒子的开启过程，围绕小猫进行轻柔的环绕拍摄，最后以一个温暖的特写镜头定格在它闪烁着光芒的眼睛上。照片级真实的毛发细节，超可爱的商业级画质，体积感柔光，浅景深效果，以粉色、黄色和白色为主的明亮马卡龙色调，超写实纹理，营造出温馨治愈的氛围。
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="电影感可爱小猫开箱视频">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2066732269184889282)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **发布时间:** Jun 16, 2026
+
+---
 ### Gemini Omni 足球比赛动画
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1513,6 +1532,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-17T04:02:11.322Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-17T12:15:46.566Z</sub>
 
 </div>

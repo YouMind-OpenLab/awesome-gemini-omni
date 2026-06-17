@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **66** |
+| 📝 Gesamtanzahl Prompts | **67** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-17** |
 
@@ -56,6 +56,25 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Cinematic-Video: Süßes Kätzchen beim Unboxing
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Prompt zur Erstellung eines herzerwärmenden, filmreifen Unboxing-Videos mit einem flauschigen Kätzchen, inklusive magischem Glitzereffekt und sanfter Pastellbeleuchtung.
+
+#### 📝 Prompt
+
+```
+Filmreifes, bezauberndes Unboxing-Video mit einem überraschenden, süßen Kätzchen. Die Szene beginnt auf einem hellen Tisch im Kinderzimmer-Stil in Pastellrosa und Weiß, mit flauschigen Wolken und sanftem Morgenlicht, das hereinströmt. Ein großes, niedliches Geschenkpaket in Pastellfarben mit einer großen Satinschleife steht in der Mitte. Der Deckel hebt sich langsam mit einem sanften, magischen Glitzergeräusch. Plötzlich streckt ein winziges, flauschiges weiß-graues getigertes Kätzchen mit großen, funkelnden Augen neugierig und verschlafen den Kopf heraus. Eine sanfte, in Pastellgelb behandschuhte Hand greift vorsichtig hinein und hebt das entzückende Kätzchen heraus. Das Kätzchen miaut niedlich, bewegt seine winzigen Pfoten, und ein Schauer aus schwebenden herzförmigen Glitzerpartikeln, buntem Konfetti und sanften goldenen Lichtteilchen wirbelt um es herum. Das Kätzchen spielt verspielt mit dem Glitzer, während es hochgehalten wird, und gähnt dann ausgiebig. Sanfte filmische Kamerabewegung: langsamer Zoom auf das sich öffnende Paket, sanfte Orbit-Bewegung um das Kätzchen und eine abschließende warme Nahaufnahme seines Gesichts mit funkelnden Augen. Fotorealistische Fell-Details, ultra-süße Werbequalität, volumetrische sanfte Beleuchtung, geringe Schärfentiefe, helle Pastell-Farbkorrektur mit Rosa-, Gelb- und Weißtönen, hyperrealistische Texturen, herzerwärmende und wohltuende Stimmung.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="Cinematic-Video: Süßes Kätzchen beim Unboxing">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2066732269184889282)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **Veröffentlicht:** Jun 16, 2026
+
+---
 ### Gemini Omni Fußballspiel-Animation
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1513,6 +1532,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-17T04:02:17.662Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-17T12:15:54.151Z</sub>
 
 </div>

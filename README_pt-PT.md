@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **66** |
+| 📝 Total de prompts | **67** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-06-17** |
 
@@ -56,6 +56,25 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vídeo cinematográfico de unboxing de gatinho fofo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt altamente detalhado para gerar um vídeo de unboxing cinematográfico e emocionante com um gatinho fofo, completo com brilhos mágicos e iluminação suave em tons pastéis.
+
+#### 📝 Prompt
+
+```
+Vídeo cinematográfico e adorável de unboxing com um gatinho fofo de surpresa. Começa em uma mesa estilo berçário, brilhante, em tons de rosa pastel e branco, com nuvens fofas e a luz suave da manhã entrando. Uma grande caixa de presente em tons pastéis com um laço de cetim está centralizada. A tampa se abre lentamente com um som suave de brilho mágico. De repente, um pequeno gatinho malhado, branco e cinza, com olhos grandes e brilhantes, coloca a cabeça para fora, parecendo curioso e sonolento. Uma mão suave com uma luva amarelo-pastel entra gentilmente e retira o gatinho adorável. O gatinho mia de forma fofa, mexe suas patinhas minúsculas, e uma explosão de brilhos em formato de coração, confetes coloridos e partículas de luz dourada suave giram ao redor dele. O gatinho brinca com os brilhos enquanto é segurado e, em seguida, dá um grande bocejo. Movimento de câmera cinematográfico suave: zoom lento na abertura da caixa, órbita suave ao redor do gatinho e um close-up final caloroso em seu rosto com olhos brilhantes. Detalhes de pelos fotorrealistas, qualidade comercial ultra fofa, iluminação volumétrica suave, profundidade de campo rasa, gradação de cores em tons pastéis brilhantes com rosas, amarelos e brancos, texturas hiper-realistas, clima emocionante e acolhedor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="Vídeo cinematográfico de unboxing de gatinho fofo">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2066732269184889282)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **Publicado:** Jun 16, 2026
+
+---
 ### Animação de Partida de Futebol com Gemini Omni
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1513,6 +1532,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-17T04:02:20.204Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-17T12:15:57.191Z</sub>
 
 </div>

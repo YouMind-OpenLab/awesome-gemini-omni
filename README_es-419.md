@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **66** |
+| 📝 Total de prompts | **67** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-06-17** |
 
@@ -56,6 +56,25 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Video cinemático de unboxing de un gatito adorable
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente detallado para generar un video de unboxing cinemático y conmovedor protagonizado por un gatito esponjoso, con destellos mágicos e iluminación suave en tonos pastel.
+
+#### 📝 Prompt
+
+```
+Video cinemático y adorable de unboxing con la sorpresa de un gatito tierno. Comienza en una mesa estilo guardería de colores rosa pastel y blanco, con nubes esponjosas y la suave luz de la mañana entrando. Una caja de regalo grande y de colores pastel con un lazo de satén se encuentra en el centro. La tapa se levanta lentamente con un suave sonido de destello mágico. De repente, un pequeño gatito atigrado, esponjoso y de color blanco con gris, asoma su cabeza con ojos grandes y brillantes, luciendo curioso y somnoliento. Una mano suave con un guante amarillo pastel se acerca con delicadeza y levanta al adorable gatito. El gatito maúlla tiernamente, mueve sus pequeñas patas y una ráfaga de destellos en forma de corazón, confeti colorido y partículas de luz dorada giran a su alrededor. El gatito juega con los destellos mientras lo sostienen, y luego da un gran bostezo. Movimiento de cámara cinemático y fluido: zoom lento hacia la apertura de la caja, un suave giro alrededor del gatito y un primer plano final cálido en su rostro con ojos brillantes. Detalles de pelaje fotorrealistas, calidad comercial ultra tierna, iluminación suave volumétrica, profundidad de campo reducida, gradación de color pastel brillante con rosas, amarillos y blancos, texturas hiperrealistas, ambiente conmovedor y encantador.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="Video cinemático de unboxing de un gatito adorable">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2066732269184889282)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **Publicado:** Jun 16, 2026
+
+---
 ### Animación de partido de fútbol de Gemini Omni
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1513,6 +1532,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-17T04:02:16.888Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-17T12:15:53.322Z</sub>
 
 </div>
