@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **67** |
+| 📝 Tổng số prompt | **70** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-19** |
 
@@ -56,6 +56,93 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Sự biến hình của Lord Krishna từ quả cầu bí ẩn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh mang tính tâm linh dành cho Gemini Omni, mô tả một quả cầu kim loại huyền bí bên bờ sông Hằng đang biến hình thành Lord Krishna trong bộ giáp tương lai vào lúc bình minh.
+
+#### 📝 Prompt
+
+```
+Video điện ảnh siêu thực lấy bối cảnh trên những bờ đá của dòng sông Hằng linh thiêng vào lúc bình minh. Ánh nắng vàng buổi sáng phản chiếu trên mặt nước đang chảy. Tiếng chuông đền thờ vang vọng nhẹ nhàng từ xa. Khói hương lan tỏa trong không khí. Các bậc thềm (ghat), những ngôi đền nhỏ và các tín đồ có thể được nhìn thấy thấp thoáng ở phía xa dọc theo bờ sông. Bầu không khí mang cảm giác cổ kính, tâm linh và yên bình. Sông Hằng được tôn kính là dòng sông linh thiêng nhất của Ấn Độ giáo và có các bậc thềm cùng đền thờ nổi tiếng dọc khắp miền bắc Ấn Độ.
+
+Bàn tay của một người xuất hiện trong khung hình, cầm một quả cầu kim loại bí ẩn đặt trên một tảng đá lớn bên bờ sông. Quả cầu trông giống như một thánh vật cổ đại kết hợp với công nghệ tương lai: kim loại tối màu được đánh bóng, các đường năng lượng màu xanh lam và vàng rực rỡ, những nét chạm khắc tiếng Phạn tinh xảo, các họa tiết hình học thiêng liêng, các chi tiết lấy cảm hứng từ lông công, các biểu tượng hình sáo và những chi tiết thiên thể trang trí công phu.
+
+Quả cầu được đặt nhẹ nhàng lên tảng đá bên cạnh dòng sông đang chảy.
+
+Trong một khoảnh khắc, không có gì xảy ra.
+
+Sau đó, các nét chạm khắc bắt đầu phát sáng. Năng lượng vàng-xanh rung động bên dưới bề mặt kim loại. Một tiếng ầm trầm đục của máy móc vang lên. Các tấm kim loại mở ra với độ chính xác như robot biến hình. Hàng trăm phân đoạn kim loại xoay, tách rời và lắp ráp lại. Các dòng năng lượng chảy qua các bộ phận đang chuyển động.
+
+Quả cầu dần dần biến đổi thành một Lord Krishna bằng kim loại mang phong cách tương lai đầy uy nghiêm. Bộ giáp thiêng liêng hình thành xung quanh ngài. Một cây sáo kim loại được chế tác tinh xảo hiện ra từ các bộ phận đang dịch chuyển. Năng lượng thần thánh màu xanh-vàng tỏa ra qua các họa tiết chạm khắc trên khắp cơ thể ngài.
+
+Lord Krishna từ từ nâng cây sáo lên và nhìn về phía chân trời. Mặt trời mọc chiếu sáng dòng sông phía sau ngài. Tiếng chuông đền thờ lớn dần khi quá trình biến hình hoàn tất. Biến hình cơ khí siêu thực, thẩm mỹ khoa học viễn tưởng thiêng liêng, hiệu ứng hình ảnh cao cấp, màn xuất hiện thần thánh đầy cảm hứng, không sử dụng phong cách hoạt hình.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="Sự biến hình của Lord Krishna từ quả cầu bí ẩn">
+
+**[🎬 Xem video →](https://x.com/rahulnanda86/status/2067640397183230410)**
+
+**Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **Đã xuất bản:** Jun 18, 2026
+
+---
+### Biến hình Gada của Thần Hanuman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh dành cho Gemini Omni để tạo video siêu thực về chiếc gada kim loại tương lai biến hình thành nhân vật Thần Hanuman uy nghiêm trong một phòng khách hiện đại tại Ấn Độ.
+
+#### 📝 Prompt
+
+```
+Video gia đình mang tính điện ảnh, siêu thực, được quay bằng điện thoại thông minh trong một phòng khách hiện đại tại Ấn Độ vào ban ngày. Ánh sáng tự nhiên từ cửa sổ, không gian phòng chân thực, chuyển động cầm tay nhẹ nhàng, chất lượng camera điện thoại di động nguyên bản. Không nhìn thấy khuôn mặt ở bất kỳ thời điểm nào.
+
+Bàn tay của một người xuất hiện trong khung hình, cầm theo chiếc gada kim loại tương lai lấy cảm hứng từ chùy của Thần Hanuman. Chiếc gada trông giống như một cổ vật được tái hiện với công nghệ tiên tiến: kim loại màu xám súng (gunmetal) được đánh bóng, các đường năng lượng màu nghệ tây rực rỡ, các biểu tượng Hindu tinh xảo, các bản khắc tiếng Phạn, các họa tiết hình học thiêng liêng, những điểm nhấn vàng tinh tế và các chi tiết cơ khí.
+
+Bàn tay nhẹ nhàng đặt chiếc gada thẳng đứng trên một chiếc bàn gỗ.
+
+Trong một khoảnh khắc, không có gì xảy ra.
+
+Chiếc gada tự cân bằng hoàn hảo mà không cần điểm tựa.
+
+Một tiếng vo ve kim loại khẽ vang lên. Các biểu tượng năng lượng giống như tiếng Phạn cổ bắt đầu phát sáng trên bề mặt. Các phân đoạn cơ khí bắt đầu dịch chuyển. Các tấm kim loại xoay, mở ra và trượt tách rời nhau với âm thanh biến hình chân thực. Năng lượng vàng bên trong bắt đầu tỏa sáng.
+
+Camera từ từ tiến lại gần.
+
+Quá trình biến hình tăng tốc. Phần cán tách ra thành các chi tiết giống như tay chân. Phần đầu chùy mở ra thành các tấm giáp. Hàng trăm thành phần kim loại tự sắp xếp lại với độ chính xác cao.
+
+Chỉ trong vài giây, chiếc gada đã hoàn toàn biến hình thành một Thần Hanuman kim loại oai vệ đang đứng trên bàn. Bộ giáp thiêng liêng tương lai, đôi mắt rực sáng, thiết kế cơ khí lấy cảm hứng từ Hindu tinh xảo, năng lượng vàng thần thánh chảy qua các biểu tượng được khắc.
+
+Thần Hanuman từ từ mở mắt và nhìn về phía camera. Căn phòng tràn ngập ánh sáng vàng ấm áp trong giây lát. Vật lý biến hình chân thực, hiệu ứng hình ảnh (VFX) cao cấp, chuyển động cơ khí kiểu transformer, thẩm mỹ khoa học viễn tưởng thần thoại, màn xuất hiện đầy kinh ngạc, không có vẻ hoạt hình.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="Biến hình Gada của Thần Hanuman">
+
+**[🎬 Xem video →](https://x.com/rahulnanda86/status/2067639367225737714)**
+
+**Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Đã xuất bản:** Jun 18, 2026
+
+---
+### Chuyển đổi chú chó Dachshund từ 2D sang 3D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video Gemini mang tính điện ảnh giúp biến chú chó dachshund hoạt hình 2D trên màn hình thành nhân vật 3D chân thực nhảy vào lòng bàn tay người.
+
+#### 📝 Prompt
+
+```
+[Phân tích cảnh quay] Một chú chó dachshund hoạt hình 2D đáng yêu đang chạy nhảy tinh nghịch bên trong màn hình máy tính. Với hiệu ứng cổng dịch chuyển kỳ ảo và liền mạch tại ranh giới màn hình, chú cún tự nhiên nhảy ra ngoài. [Chuyển đổi từ 2D sang 3D] Trong lúc nhảy, cơ thể chú cún trải qua quá trình biến đổi mượt mà, hoàn hảo, từ một hình ảnh hoạt hình 2D phẳng chuyển sang nhân vật 3D phong cách Pixar vô cùng chi tiết. Chú chó dachshund 3D có đôi mắt sáng long lanh, bộ lông bóng mượt với kết cấu tinh xảo cùng biểu cảm khuôn mặt sống động, linh hoạt—thè lưỡi thở và nghiêng đầu. [Tương tác & Tư thế] Chú cún 3D đáp nhẹ nhàng xuống lòng bàn tay người thật (khớp với kiểu tay trong hình ảnh tham chiếu) đặt trước màn hình. Chú thực hiện chuỗi tư thế đáng yêu: vẫy đuôi liên tục, dụi đầu vào ngón tay người đầy tình cảm và cuối cùng ngồi ngay ngắn với vẻ mặt ngây thơ. [Bối cảnh & Ánh sáng] Ánh sáng điện ảnh. Thiết lập bàn làm việc, máy tính và môi trường nền thực tế vẫn hiển thị rõ nét. Ánh sáng dịu nhẹ phát ra từ màn hình tạo hiệu ứng viền sáng chân thực trên bộ lông của chú cún 3D. Các chi tiết siêu thực, sự tích hợp liền mạch, hòa quyện giữa kỹ thuật số và thực tế một cách chân thực. [Thiết kế âm thanh] Bắt đầu với hiệu ứng âm thanh chạy lạch cạch kiểu hoạt hình 2D. Một âm thanh "ding" hoặc tiếng vút kỳ ảo, lấp lánh vang lên chính xác tại thời điểm chuyển đổi cổng từ 2D sang 3D. Tiếng đáp nhẹ nhàng xuống lòng bàn tay, theo sau là tiếng ửng ửng vui vẻ của cún con, tiếng vẫy đuôi đập vào da, kết hợp cùng giai điệu acoustic nền nhẹ nhàng, ấm áp và tinh nghịch.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="Chuyển đổi chú chó Dachshund từ 2D sang 3D">
+
+**[🎬 Xem video →](https://x.com/coder_hali/status/2067597800175788089)**
+
+**Tác giả:** [程序员哈利](https://x.com/coder_hali) | **Nguồn:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Đã xuất bản:** Jun 18, 2026
+
+---
 ### Video unboxing chú mèo con đáng yêu theo phong cách điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1532,6 +1619,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-19T04:12:33.888Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-19T12:05:31.938Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **67** |
+| 📝 Totale prompt | **70** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-19** |
 
@@ -56,6 +56,93 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Trasformazione della sfera di Lord Krishna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico spirituale per Gemini Omni che raffigura una mistica sfera metallica sulle rive del fiume Gange che si trasforma in un futuristico Lord Krishna corazzato all'alba.
+
+#### 📝 Prompt
+
+```
+Video cinematografico ultra-realistico ambientato sulle rive rocciose del sacro fiume Gange durante l'alba. La luce dorata del mattino si riflette sull'acqua che scorre. In lontananza risuonano debolmente le campane dei templi. Il fumo dell'incenso si diffonde nell'aria. Sullo sfondo, lungo la riva del fiume, si intravedono ghat, piccoli templi e devoti. L'atmosfera è antica, spirituale e pacifica. Il Gange è venerato come il fiume più sacro dell'induismo ed è costeggiato da famosi ghat e templi in tutta l'India settentrionale.
+
+La mano di una persona entra nell'inquadratura tenendo una misteriosa sfera metallica, che viene appoggiata su una grande roccia lungo il fiume. La sfera ricorda un'antica reliquia divina fusa con una tecnologia futuristica: metallo scuro lucido, venature di energia blu e oro, intricate incisioni in sanscrito, motivi geometrici sacri, decorazioni ispirate alle piume di pavone, simboli a forma di flauto e dettagli celestiali ornati.
+
+La sfera viene posata delicatamente sulla roccia accanto al fiume che scorre.
+
+Per un momento, non succede nulla.
+
+Poi le incisioni iniziano a brillare. Un'energia dorata e blu pulsa sotto la superficie metallica. Emerge un profondo ronzio meccanico. I pannelli si aprono con la precisione di un transformer. Centinaia di segmenti metallici ruotano, si separano e si riassemblano. Flussi di energia attraversano i componenti in movimento.
+
+La sfera si trasforma gradualmente in un maestoso e futuristico Lord Krishna metallico. Un'armatura sacra si forma attorno a lui. Un flauto metallico finemente lavorato si materializza dai componenti in movimento. Un'energia divina blu-oro irradia attraverso i motivi incisi su tutto il suo corpo.
+
+Lord Krishna solleva lentamente il flauto e guarda verso l'orizzonte. Il sole nascente illumina il fiume alle sue spalle. Le campane dei templi si fanno più forti mentre la trasformazione si completa. Trasformazione meccanica ultra-realistica, estetica sci-fi sacra, effetti visivi premium, rivelazione divina maestosa, nessuno stile cartoonesco.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="Trasformazione della sfera di Lord Krishna">
+
+**[🎬 Guarda il video →](https://x.com/rahulnanda86/status/2067640397183230410)**
+
+**Autore:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fonte:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **Pubblicato:** Jun 18, 2026
+
+---
+### Trasformazione della Gada di Lord Hanuman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico per Gemini Omni per generare un video ultra-realistico di una gada metallica futuristica che si trasforma in una divina figura di Lord Hanuman in un moderno soggiorno indiano.
+
+#### 📝 Prompt
+
+```
+Video domestico cinematografico ultra-realistico girato con uno smartphone in un moderno soggiorno indiano durante il giorno. Luce naturale proveniente dalla finestra, ambiente realistico, leggero movimento a mano libera, autentica qualità da fotocamera di cellulare. Nessun volto visibile in alcun momento.
+
+La mano di una persona entra nell'inquadratura tenendo una gada metallica futuristica ispirata alla mazza di Lord Hanuman. La gada appare come un'antica reliquia reinventata con tecnologia avanzata: metallo brunito, linee di energia color zafferano, intricati simboli indù, incisioni in sanscrito, motivi geometrici sacri, sottili riflessi dorati e dettagli meccanici.
+
+La mano appoggia delicatamente la gada in verticale su un tavolo di legno.
+
+Per un momento non succede nulla.
+
+La gada si bilancia perfettamente da sola senza alcun supporto.
+
+Inizia un debole ronzio metallico. Antichi simboli energetici simili al sanscrito brillano sulla sua superficie. I segmenti meccanici iniziano a muoversi. I pannelli ruotano, si aprono e scorrono con suoni realistici in stile transformer. L'energia dorata interna diventa visibile.
+
+La fotocamera si avvicina lentamente.
+
+La trasformazione accelera. L'asta si separa in arti articolati. La testa della mazza si apre in piastre di armatura. Centinaia di componenti metallici si riorganizzano con precisione.
+
+In pochi secondi, la gada si è completamente trasformata in un maestoso Lord Hanuman metallico in piedi sul tavolo. Armatura sacra futuristica, occhi luminosi, intricato design meccanico di ispirazione indù, divina energia dorata che scorre attraverso i simboli incisi.
+
+Lord Hanuman apre lentamente gli occhi e guarda verso la fotocamera. La stanza si riempie brevemente di una calda luce dorata. Fisica di trasformazione autentica, realismo VFX premium, movimento meccanico in stile transformer, estetica sci-fi mitologica, rivelazione mozzafiato, nessun aspetto da cartone animato.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="Trasformazione della Gada di Lord Hanuman">
+
+**[🎬 Guarda il video →](https://x.com/rahulnanda86/status/2067639367225737714)**
+
+**Autore:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fonte:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Pubblicato:** Jun 18, 2026
+
+---
+### Transizione da 2D a 3D di un bassotto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico per Gemini che trasforma un bassotto dei cartoni animati 2D su uno schermo in un realistico personaggio 3D che salta nel palmo di una mano umana.
+
+#### 📝 Prompt
+
+```
+[Analisi della scena] Un affascinante bassotto dei cartoni animati 2D corre giocosamente all'interno dello schermo di un computer. Grazie a un effetto portale fluido e magico sul bordo dello schermo, il cucciolo salta naturalmente fuori dal monitor. [Transizione da 2D a 3D] Durante il salto, il suo corpo subisce una trasformazione impeccabile e fluida, evolvendosi da un'animazione 2D piatta a un personaggio 3D in stile Pixar altamente dettagliato. Il bassotto 3D presenta occhi lucidi e scintillanti, un pelo lucido dalla consistenza fine ed espressioni facciali incredibilmente vivaci: ansimando con la lingua di fuori e inclinando la testa. [Interazione e pose] Il cucciolo 3D atterra delicatamente sul palmo di una mano umana reale (che richiama lo stile della mano nell'immagine di riferimento) davanti al monitor. Esegue una sequenza di pose adorabili: scodinzola rapidamente, strofina affettuosamente il muso contro le dita dell'umano e infine si siede composto con un'espressione innocente. [Ambiente e illuminazione] Illuminazione cinematografica. La scrivania, il computer e l'ambiente circostante nel mondo reale rimangono nitidi. Il bagliore soffuso emesso dallo schermo proietta una realistica luce di contorno sul pelo del cucciolo 3D. Dettagli surreali, integrazione senza soluzione di continuità, fusione fotorealistica tra digitale e realtà. [Sound Design / Audio] Inizia con effetti sonori da cartone animato 2D che richiamano un calpestio. Un suono magico e scintillante, come un "ding" o uno "swoosh", viene riprodotto esattamente nel momento della transizione del portale da 2D a 3D. Un tonfo sottile e morbido accompagna l'atterraggio sul palmo, seguito da deboli e allegri guaiti da cucciolo, il rumore ritmato della coda che batte contro la pelle, il tutto accompagnato da una melodia acustica di sottofondo spensierata, commovente e giocosa.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="Transizione da 2D a 3D di un bassotto">
+
+**[🎬 Guarda il video →](https://x.com/coder_hali/status/2067597800175788089)**
+
+**Autore:** [程序员哈利](https://x.com/coder_hali) | **Fonte:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Pubblicato:** Jun 18, 2026
+
+---
 ### Video di unboxing cinematografico di un gattino adorabile
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1532,6 +1619,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-19T04:12:37.878Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-19T12:05:34.709Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **67** |
+| 📝 Toplam İstem | **70** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-19** |
 
@@ -56,6 +56,93 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Lord Krishna Küre Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ganj Nehri kıyısında, gün doğumunda fütüristik ve zırhlı bir Lord Krishna'ya dönüşen mistik metalik bir küreyi betimleyen, Gemini Omni için ruhani sinematik bir komut.
+
+#### 📝 İstem
+
+```
+Ganj Nehri'nin kayalık kıyısında, gün doğumu sırasında geçen ultra gerçekçi sinematik video. Altın rengi sabah ışığı, akan suyun üzerinde yansıyor. Uzaktan hafifçe tapınak çanlarının sesi duyuluyor. Havada tütsü dumanı süzülüyor. Nehir kıyısı boyunca arka planda ghatlar, küçük tapınaklar ve ibadet eden insanlar görülebiliyor. Atmosfer kadim, ruhani ve huzurlu hissettiriyor. Ganj, Hinduizm'in en kutsal nehri olarak kabul edilir ve kuzey Hindistan boyunca ünlü ghatlar ve tapınaklarla çevrilidir.
+
+Bir kişinin eli, nehir kenarındaki büyük bir kayanın üzerinde duran gizemli metalik bir küreyi tutarak kadraja giriyor. Küre, fütüristik teknolojiyle birleşmiş kadim bir ilahi emaneti andırıyor: cilalı koyu metal, parlayan mavi ve altın rengi enerji damarları, karmaşık Sanskritçe oymalar, kutsal geometrik desenler, tavus kuşu tüyünden esinlenilmiş motifler, flüt şeklindeki semboller ve süslü göksel detaylar.
+
+Küre, akan nehrin yanındaki kayanın üzerine nazikçe bırakılıyor.
+
+Bir an için hiçbir şey olmuyor.
+
+Ardından oymalar parlamaya başlıyor. Metalik yüzeyin altında altın-mavi enerji nabız gibi atıyor. Derinden gelen mekanik bir uğultu yükseliyor. Paneller, transformer benzeri bir hassasiyetle açılıyor. Yüzlerce metalik parça dönüyor, ayrılıyor ve yeniden birleşiyor. Hareket eden bileşenlerin arasından enerji akışları geçiyor.
+
+Küre yavaş yavaş görkemli, fütüristik ve metalik bir Lord Krishna'ya dönüşüyor. Kutsal zırh etrafında şekilleniyor. Hareket eden parçalardan ustalıkla işlenmiş metalik bir flüt oluşuyor. Mavi-altın rengi ilahi enerji, vücudundaki oyma desenlerin arasından yayılıyor.
+
+Lord Krishna yavaşça flütü kaldırıyor ve ufka bakıyor. Yükselen güneş, arkasındaki nehri aydınlatıyor. Dönüşüm tamamlandığında tapınak çanlarının sesi yükseliyor. Ultra gerçekçi mekanik dönüşüm, kutsal bilimkurgu estetiği, üst düzey görsel efektler, hayranlık uyandırıcı ilahi açığa çıkış, çizgi film tarzı değil.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="Lord Krishna Küre Dönüşümü">
+
+**[🎬 Videoyu izle →](https://x.com/rahulnanda86/status/2067640397183230410)**
+
+**Yazar:** [Rahul Nanda](https://x.com/rahulnanda86) | **Kaynak:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **Yayınlandı:** Jun 18, 2026
+
+---
+### Lord Hanuman Gada Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni'nin, modern bir Hint oturma odasında fütüristik metalik bir gada'nın ilahi Lord Hanuman karakterine dönüşümünü içeren ultra gerçekçi bir video oluşturması için sinematik bir komut.
+
+#### 📝 İstem
+
+```
+Gündüz vakti modern bir Hint oturma odasında akıllı telefonla çekilmiş ultra gerçekçi sinematik ev videosu. Doğal pencere ışığı, gerçekçi oda ambiyansı, hafif el kamerası hareketi, otantik cep telefonu kamera kalitesi. Hiçbir noktada yüz görünmüyor.
+
+Bir kişinin eli, Lord Hanuman'ın gürzünden esinlenen fütüristik metalik bir gada tutarak kadraja giriyor. Gada, ileri teknolojiyle yeniden tasarlanmış antik bir kalıntı gibi görünüyor: fırçalanmış tunç metali, parlayan safran rengi enerji hatları, karmaşık Hindu sembolleri, Sanskritçe oymalar, kutsal geometrik desenler, ince altın vurgular ve mekanik detaylar.
+
+El, gada'yı nazikçe ahşap bir masanın üzerine dik bir şekilde yerleştiriyor.
+
+Bir anlığına hiçbir şey olmuyor.
+
+Gada, destek almadan mükemmel bir şekilde dengede duruyor.
+
+Hafif bir metalik uğultu başlıyor. Yüzeyinde antik Sanskritçe benzeri enerji sembolleri parlıyor. Mekanik bölümler hareket etmeye başlıyor. Paneller dönüyor, açılıyor ve gerçekçi transformer tarzı seslerle birbirinden ayrılıyor. İç kısımdaki altın enerji darbeleri görünür hale geliyor.
+
+Kamera yavaşça yaklaşıyor.
+
+Dönüşüm hızlanıyor. Gövde, eklemli uzuvlara ayrılıyor. Gürzün baş kısmı zırh plakalarına dönüşüyor. Yüzlerce metalik bileşen hassasiyetle yeniden düzenleniyor.
+
+Saniyeler içinde gada, masanın üzerinde duran görkemli ve metalik bir Lord Hanuman'a tamamen dönüşüyor. Fütüristik kutsal zırh, parlayan gözler, karmaşık Hindu esintili mekanik tasarım, kazınmış sembollerden akan ilahi altın enerji.
+
+Lord Hanuman yavaşça gözlerini açıyor ve kameraya bakıyor. Oda kısa bir süreliğine sıcak bir altın ışıltıyla doluyor. Otantik dönüşüm fiziği, üst düzey VFX gerçekçiliği, transformer tarzı mekanik hareket, mitolojik bilim kurgu estetiği, hayranlık uyandırıcı bir açılış, çizgi film görünümü yok.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="Lord Hanuman Gada Dönüşümü">
+
+**[🎬 Videoyu izle →](https://x.com/rahulnanda86/status/2067639367225737714)**
+
+**Yazar:** [Rahul Nanda](https://x.com/rahulnanda86) | **Kaynak:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Yayınlandı:** Jun 18, 2026
+
+---
+### 2D'den 3D'ye Dachshund Geçişi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ekrandaki 2D çizgi film dachshund köpeğini, insan eline atlayan gerçekçi bir 3D karaktere dönüştüren sinematik bir Gemini video istemi.
+
+#### 📝 İstem
+
+```
+[Sahne Analizi] Sevimli bir 2D çizgi film dachshund, bilgisayar ekranının içinde neşeyle koşuyor. Ekran sınırındaki kusursuz ve büyülü bir portal efektiyle, köpek yavrusu doğal bir şekilde ekrandan dışarı atlıyor. [2D'den 3D'ye Geçiş] Atlayış sırasında vücudu, düz bir 2D animasyondan son derece detaylı, Pixar tarzı bir 3D karaktere dönüşerek kusursuz ve akıcı bir değişim geçiriyor. 3D dachshund; parlayan, parlak gözlere, ince dokulu parlak tüylere ve dili dışarıda soluyup başını yana eğdiği inanılmaz derecede canlı ve ifadeli bir yüz yapısına sahip. [Etkileşim ve Pozlar] 3D köpek yavrusu, monitörün önündeki gerçek bir insan avucuna (referans görseldeki el stiliyle uyumlu) nazikçe konuyor. Bir dizi sevimli hareket sergiliyor: hızla kuyruğunu sallıyor, insanın parmaklarına sevgiyle sokuluyor ve sonunda masum bir bakışla düzgünce oturuyor. [Ortam ve Aydınlatma] Sinematik aydınlatma. Gerçek dünyadaki masa düzeni, bilgisayar ve arka plan ortamı kristal netliğinde kalıyor. Ekrandan yayılan yumuşak ışık, 3D köpeğin tüylerinde gerçekçi bir kenar ışığı oluşturuyor. Sürreal detaylar, kusursuz entegrasyon, dijital ile gerçeklik arasında fotogerçekçi bir harmanlama. [Ses Tasarımı / Ses] 2D çizgi film tarzı tıkırtılı koşma ses efektleriyle başlıyor. 2D'den 3D'ye portal geçişi anında büyülü, parıltılı bir "çınlama" veya vınlama sesi çalıyor. Avuca konduğunda hafif, yumuşak bir tok ses duyuluyor; ardından neşeli köpek yavrusu iniltileri, cilde vuran hızlı kuyruk sallama sesleri geliyor ve tüm bunlar neşeli, iç ısıtan ve eğlenceli bir akustik arka plan melodisiyle destekleniyor.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="2D'den 3D'ye Dachshund Geçişi">
+
+**[🎬 Videoyu izle →](https://x.com/coder_hali/status/2067597800175788089)**
+
+**Yazar:** [程序员哈利](https://x.com/coder_hali) | **Kaynak:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Yayınlandı:** Jun 18, 2026
+
+---
 ### Sinematik Sevimli Yavru Kedi Kutu Açılımı Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1532,6 +1619,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-19T04:12:39.786Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-19T12:05:36.136Z</sub>
 
 </div>

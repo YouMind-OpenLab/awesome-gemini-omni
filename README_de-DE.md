@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **67** |
+| 📝 Gesamtanzahl Prompts | **70** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-19** |
 
@@ -56,6 +56,93 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Lord Krishna Sphären-Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein spiritueller, filmischer Prompt für Gemini Omni, der eine mystische metallische Sphäre am Ufer des Ganges darstellt, die sich bei Sonnenaufgang in einen futuristischen, gepanzerten Lord Krishna verwandelt.
+
+#### 📝 Prompt
+
+```
+Ultrarealistisches, filmisches Video, angesiedelt an den felsigen Ufern des heiligen Ganges bei Sonnenaufgang. Das goldene Morgenlicht spiegelt sich im fließenden Wasser wider. In der Ferne läuten leise Tempelglocken. Weihrauchrauch zieht durch die Luft. Ghats, kleine Tempel und Gläubige sind im fernen Hintergrund entlang des Flussufers zu sehen. Die Atmosphäre wirkt uralt, spirituell und friedlich. Der Ganges wird als heiligster Fluss des Hinduismus verehrt und ist in ganz Nordindien von berühmten Ghats und Tempeln gesäumt.
+
+Die Hand einer Person kommt ins Bild und hält eine mysteriöse metallische Sphäre, die auf einem großen Felsen am Flussufer ruht. Die Sphäre gleicht einem alten göttlichen Relikt, das mit futuristischer Technologie verschmolzen ist: poliertes dunkles Metall, leuchtende blau-goldene Energieadern, kunstvolle Sanskrit-Gravuren, heilige geometrische Muster, von Pfauenfedern inspirierte Motive, flötenförmige Symbole und verzierte himmlische Details.
+
+Die Sphäre wird sanft auf den Felsen neben dem fließenden Fluss gelegt.
+
+Einen Moment lang passiert nichts.
+
+Dann beginnen die Gravuren zu leuchten. Goldblaue Energie pulsiert unter der metallischen Oberfläche. Ein tiefes mechanisches Summen ertönt. Paneele entfalten sich mit transformerartiger Präzision. Hunderte metallische Segmente rotieren, trennen sich und setzen sich neu zusammen. Energieströme fließen durch die sich bewegenden Komponenten.
+
+Die Sphäre verwandelt sich allmählich in einen majestätischen, futuristischen metallischen Lord Krishna. Heilige Rüstungsteile formen sich um ihn herum. Eine wunderschön gefertigte metallische Flöte materialisiert sich aus den sich verschiebenden Komponenten. Blau-goldene göttliche Energie strahlt durch die eingravierten Muster über seinen gesamten Körper.
+
+Lord Krishna hebt langsam die Flöte und blickt zum Horizont. Die aufgehende Sonne beleuchtet den Fluss hinter ihm. Die Tempelglocken werden lauter, während die Transformation abgeschlossen wird. Ultrarealistische mechanische Transformation, heilige Sci-Fi-Ästhetik, erstklassige visuelle Effekte, beeindruckende göttliche Enthüllung, kein Cartoon-Stil.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="Lord Krishna Sphären-Transformation">
+
+**[🎬 Video ansehen →](https://x.com/rahulnanda86/status/2067640397183230410)**
+
+**Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Quelle:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### Lord Hanuman Gada Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Prompt für Gemini Omni zur Erstellung eines ultra-realistischen Videos, in dem sich eine futuristische metallische Gada in einem modernen indischen Wohnzimmer in eine göttliche Lord Hanuman-Figur verwandelt.
+
+#### 📝 Prompt
+
+```
+Ultra-realistisches, cineastisches Haushaltsvideo, gefilmt mit einem Smartphone in einem modernen indischen Wohnzimmer bei Tageslicht. Natürliches Fensterlicht, realistisches Raumambiente, leichte Handkamera-Bewegungen, authentische Handy-Kameraqualität. Zu keinem Zeitpunkt ist ein Gesicht zu sehen.
+
+Die Hand einer Person kommt ins Bild und hält eine futuristische metallische Gada, inspiriert von der Keule von Lord Hanuman. Die Gada wirkt wie ein antikes Relikt, neu interpretiert mit fortschrittlicher Technologie: gebürstetes Schusswaffenmetall, leuchtende safranfarbene Energielinien, komplexe hinduistische Symbole, Sanskrit-Gravuren, heilige geometrische Muster, subtile goldene Highlights und mechanische Details.
+
+Die Hand stellt die Gada vorsichtig aufrecht auf einen Holztisch.
+
+Einen Moment lang passiert nichts.
+
+Die Gada balanciert sich perfekt von selbst aus, ohne Unterstützung.
+
+Ein leises metallisches Summen beginnt. Antike, Sanskrit-ähnliche Energiesymbole leuchten auf ihrer Oberfläche auf. Mechanische Segmente beginnen sich zu bewegen. Paneele rotieren, entfalten sich und gleiten mit realistischen Transformer-artigen Geräuschen auseinander. Interne goldene Energieimpulse werden sichtbar.
+
+Die Kamera bewegt sich langsam näher.
+
+Die Transformation beschleunigt sich. Der Schaft trennt sich in bewegliche Gliedmaßen. Der Kopf der Keule entfaltet sich zu Panzerplatten. Hunderte metallische Komponenten ordnen sich präzise neu an.
+
+Innerhalb von Sekunden hat sich die Gada vollständig in einen majestätischen metallischen Lord Hanuman verwandelt, der auf dem Tisch steht. Futuristische heilige Rüstung, leuchtende Augen, komplexes, hinduistisch inspiriertes mechanisches Design, göttliche goldene Energie, die durch gravierte Symbole fließt.
+
+Lord Hanuman öffnet langsam seine Augen und blickt in die Kamera. Der Raum füllt sich kurzzeitig mit einem warmen goldenen Schein. Authentische Transformationsphysik, erstklassiger VFX-Realismus, mechanische Bewegungen im Transformer-Stil, mythologische Sci-Fi-Ästhetik, beeindruckende Enthüllung, kein Cartoon-Erscheinungsbild.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="Lord Hanuman Gada Transformation">
+
+**[🎬 Video ansehen →](https://x.com/rahulnanda86/status/2067639367225737714)**
+
+**Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Quelle:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Veröffentlicht:** Jun 18, 2026
+
+---
+### 2D-zu-3D-Dackel-Übergang
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Gemini-Video-Prompt, der einen 2D-Cartoon-Dackel auf einem Bildschirm in eine realistische 3D-Figur verwandelt, die in eine menschliche Hand springt.
+
+#### 📝 Prompt
+
+```
+[Szenenaufbau] Ein charmanter 2D-Cartoon-Dackel rennt verspielt in einem Computerbildschirm. Mit einem nahtlosen und magischen Portaleffekt an der Bildschirmkante springt der Welpe auf natürliche Weise aus dem Bildschirm heraus. [2D-zu-3D-Übergang] Während des Sprungs durchläuft sein Körper eine makellose, flüssige Verwandlung und entwickelt sich von einer flachen 2D-Animation zu einer hochdetaillierten 3D-Figur im Pixar-Stil. Der 3D-Dackel hat funkelnde, glänzende Augen, fein strukturiertes, glänzendes Fell und unglaublich lebendige, ausdrucksstarke Gesichtszüge – er hechelt mit herausgestreckter Zunge und legt den Kopf schief. [Interaktion & Posen] Der 3D-Welpe landet sanft auf einer echten menschlichen Handfläche (passend zum Handstil im Referenzbild) vor dem Monitor. Er führt eine Reihe bezaubernder Posen aus: Er wedelt schnell mit dem Schwanz, stupst liebevoll die Finger des Menschen an und setzt sich schließlich ordentlich hin, mit einem unschuldigen Blick. [Umgebung & Beleuchtung] Cineastische Beleuchtung. Das reale Schreibtisch-Setup, der Computer und die Hintergrundumgebung bleiben gestochen scharf. Das sanfte Leuchten des Bildschirms wirft ein realistisches Kantenlicht auf das Fell des 3D-Welpen. Surreale Details, nahtlose Integration, fotorealistische Vermischung von Digitalem und Realität. [Sounddesign / Audio] Beginnt mit 2D-cartoonartigen Trippelschritt-Soundeffekten. Ein magisches, schimmerndes „Ding“ oder ein „Swoosh“-Geräusch ertönt genau in dem Moment des 2D-zu-3D-Portalübergangs. Ein dezentes, sanftes Aufprallgeräusch bei der Landung auf der Handfläche, gefolgt von leisen, fröhlichen Welpenwimmern und dem schnellen Klopfen des wedelnden Schwanzes auf der Haut, untermalt von einer unbeschwerten, herzerwärmenden und verspielten akustischen Hintergrundmelodie.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="2D-zu-3D-Dackel-Übergang">
+
+**[🎬 Video ansehen →](https://x.com/coder_hali/status/2067597800175788089)**
+
+**Autor:** [程序员哈利](https://x.com/coder_hali) | **Quelle:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Veröffentlicht:** Jun 18, 2026
+
+---
 ### Cinematic-Video: Süßes Kätzchen beim Unboxing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1532,6 +1619,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-19T04:12:36.763Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-19T12:05:33.752Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **67** |
+| 📝 Total des prompts | **70** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-19** |
 
@@ -56,6 +56,93 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Transformation de la sphère du Seigneur Krishna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique spirituel pour Gemini Omni représentant une sphère métallique mystique sur les rives du Gange se transformant en un Seigneur Krishna futuriste en armure au lever du soleil.
+
+#### 📝 Prompt
+
+```
+Vidéo cinématographique ultra-réaliste située sur les rives rocheuses du fleuve sacré du Gange au lever du soleil. La lumière dorée du matin se reflète sur l'eau qui coule. Les cloches des temples résonnent faiblement au loin. La fumée d'encens flotte dans l'air. Des ghats, de petits temples et des fidèles sont visibles au loin sur la rive. L'atmosphère est ancienne, spirituelle et paisible. Le Gange est vénéré comme le fleuve le plus sacré de l'hindouisme et est bordé de célèbres ghats et temples à travers le nord de l'Inde.
+
+La main d'une personne entre dans le cadre, tenant une mystérieuse sphère métallique posée sur un gros rocher au bord de la rivière. La sphère ressemble à une ancienne relique divine fusionnée avec une technologie futuriste : métal sombre poli, veines d'énergie bleu et or, gravures sanskrites complexes, motifs géométriques sacrés, motifs inspirés des plumes de paon, symboles en forme de flûte et détails célestes ornés.
+
+La sphère est délicatement posée sur le rocher à côté de la rivière.
+
+Pendant un instant, rien ne se passe.
+
+Puis, les gravures commencent à briller. Une énergie bleu doré pulse sous la surface métallique. Un bourdonnement mécanique profond émerge. Des panneaux se déploient avec une précision digne d'un transformer. Des centaines de segments métalliques tournent, se séparent et se réassemblent. Des flux d'énergie circulent à travers les composants en mouvement.
+
+La sphère se transforme progressivement en un majestueux Seigneur Krishna métallique futuriste. Une armure sacrée se forme autour de lui. Une flûte métallique magnifiquement conçue se matérialise à partir des composants en mouvement. Une énergie divine bleu-or rayonne à travers les motifs gravés sur tout son corps.
+
+Le Seigneur Krishna lève lentement la flûte et regarde vers l'horizon. Le soleil levant illumine la rivière derrière lui. Les cloches des temples deviennent plus fortes à mesure que la transformation s'achève. Transformation mécanique ultra-réaliste, esthétique sacrée de science-fiction, effets visuels haut de gamme, révélation divine impressionnante, pas de style dessin animé.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="Transformation de la sphère du Seigneur Krishna">
+
+**[🎬 Voir la vidéo →](https://x.com/rahulnanda86/status/2067640397183230410)**
+
+**Auteur:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **Publié:** Jun 18, 2026
+
+---
+### Transformation de la Gada du Seigneur Hanuman
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique pour Gemini Omni afin de générer une vidéo ultra-réaliste d'une gada métallique futuriste se transformant en un Seigneur Hanuman divin dans un salon indien moderne.
+
+#### 📝 Prompt
+
+```
+Vidéo domestique cinématographique ultra-réaliste filmée sur smartphone dans un salon indien moderne en plein jour. Lumière naturelle provenant d'une fenêtre, ambiance réaliste, léger mouvement de caméra à l'épaule, qualité authentique de caméra de téléphone portable. Aucun visage n'est visible à aucun moment.
+
+La main d'une personne entre dans le champ, tenant une gada métallique futuriste inspirée de la masse du Seigneur Hanuman. La gada ressemble à une relique ancienne réimaginée avec une technologie avancée : métal gris acier brossé, lignes d'énergie safran lumineuses, symboles hindous complexes, gravures en sanskrit, motifs géométriques sacrés, reflets dorés subtils et détails mécaniques.
+
+La main pose délicatement la gada à la verticale sur une table en bois.
+
+Pendant un instant, il ne se passe rien.
+
+La gada s'équilibre parfaitement sans aucun support.
+
+Un léger bourdonnement métallique commence. Des symboles d'énergie anciens ressemblant à du sanskrit brillent à sa surface. Des segments mécaniques commencent à bouger. Des panneaux pivotent, se déploient et coulissent avec des sons réalistes de type « transformer ». Des pulsations d'énergie dorée interne deviennent visibles.
+
+La caméra se rapproche lentement.
+
+La transformation s'accélère. Le manche se sépare en membres articulés. La tête de la masse se déploie en plaques d'armure. Des centaines de composants métalliques se réorganisent avec précision.
+
+En quelques secondes, la gada s'est complètement transformée en un majestueux Seigneur Hanuman métallique debout sur la table. Armure sacrée futuriste, yeux brillants, design mécanique complexe d'inspiration hindoue, énergie dorée divine circulant à travers les symboles gravés.
+
+Le Seigneur Hanuman ouvre lentement les yeux et regarde vers la caméra. La pièce s'emplit brièvement d'une chaude lueur dorée. Physique de transformation authentique, réalisme VFX premium, mouvement mécanique de type « transformer », esthétique de science-fiction mythologique, révélation impressionnante, aucun aspect cartoon.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="Transformation de la Gada du Seigneur Hanuman">
+
+**[🎬 Voir la vidéo →](https://x.com/rahulnanda86/status/2067639367225737714)**
+
+**Auteur:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Publié:** Jun 18, 2026
+
+---
+### Transition 2D vers 3D d'un teckel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématique pour Gemini qui transforme un teckel de dessin animé 2D sur un écran en un personnage 3D réaliste sautant dans une main humaine.
+
+#### 📝 Prompt
+
+```
+[Décomposition de la scène] Un charmant teckel de dessin animé 2D court de manière ludique à l'intérieur d'un écran d'ordinateur. Grâce à un effet de portail magique et fluide à la limite de l'écran, le chiot en sort naturellement. [Transition 2D vers 3D] Pendant le saut, son corps subit une transformation fluide et impeccable, passant d'une animation 2D plate à un personnage 3D très détaillé de style Pixar. Le teckel 3D possède des yeux brillants et lustrés, une fourrure texturée et brillante, ainsi que des expressions faciales incroyablement vives et animées : il halète, tire la langue et penche la tête. [Interaction et poses] Le chiot 3D atterrit délicatement sur une véritable paume humaine (correspondant au style de main de l'image de référence) devant le moniteur. Il enchaîne une série de poses adorables : il remue la queue rapidement, se frotte affectueusement contre les doigts de l'humain et finit par s'asseoir sagement avec un regard innocent. [Environnement et éclairage] Éclairage cinématique. Le bureau réel, l'ordinateur et l'environnement en arrière-plan restent parfaitement nets. La douce lueur émise par l'écran projette une lumière de contour réaliste sur la fourrure du chiot 3D. Détails surréalistes, intégration transparente, mélange photoréaliste entre le numérique et la réalité. [Conception sonore / Audio] Commence par des effets sonores de petits pas de dessin animé 2D. Un son magique et scintillant de type « ding » ou « swoosh » se déclenche précisément au moment de la transition du portail 2D vers 3D. Un bruit sourd et doux accompagne l'atterrissage sur la paume, suivi de légers gémissements de chiot joyeux et du battement rapide de la queue contre la peau, le tout sur fond de mélodie acoustique légère, réconfortante et ludique.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="Transition 2D vers 3D d'un teckel">
+
+**[🎬 Voir la vidéo →](https://x.com/coder_hali/status/2067597800175788089)**
+
+**Auteur:** [程序员哈利](https://x.com/coder_hali) | **Source:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Publié:** Jun 18, 2026
+
+---
 ### Vidéo d'unboxing cinématographique d'un adorable chaton
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1532,6 +1619,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-19T04:12:37.382Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-19T12:05:34.226Z</sub>
 
 </div>

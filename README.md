@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **67** |
+| 📝 Total Prompts | **70** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-19** |
 
@@ -56,6 +56,93 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Lord Krishna Sphere Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A spiritual cinematic prompt for Gemini Omni depicting a mystical metallic sphere on the banks of the Ganges river transforming into a futuristic armored Lord Krishna at sunrise.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic video set on the rocky banks of the sacred Ganges River during sunrise. Golden morning light reflects off the flowing water. Temple bells ring faintly in the distance. Incense smoke drifts through the air. Ghats, small temples, and devotees can be seen far in the background along the riverbank. The atmosphere feels ancient, spiritual, and peaceful. The Ganges is revered as Hinduism’s holiest river and is lined with famous ghats and temples throughout northern India.
+
+A person’s hand enters the frame holding a mysterious metallic sphere resting on a large riverside rock. The sphere resembles an ancient divine relic fused with futuristic technology: polished dark metal, glowing blue and gold energy veins, intricate Sanskrit engravings, sacred geometric patterns, peacock-feather-inspired motifs, flute-shaped symbols, and ornate celestial detailing.
+
+The sphere is gently placed on the rock beside the flowing river.
+
+For a moment, nothing happens.
+
+Then the engravings begin glowing. Golden-blue energy pulses beneath the metallic surface. A deep mechanical hum emerges. Panels unfold with transformer-like precision. Hundreds of metallic segments rotate, separate, and reassemble. Energy streams flow through the moving components.
+
+The sphere gradually transforms into a majestic futuristic metallic Lord Krishna. Sacred armor forms around him. A beautifully crafted metallic flute materializes from shifting components. Blue-gold divine energy radiates through engraved patterns across his body.
+
+Lord Krishna slowly raises the flute and looks toward the horizon. The rising sun illuminates the river behind him. Temple bells grow louder as the transformation completes. Ultra-realistic mechanical transformation, sacred sci-fi aesthetic, premium visual effects, awe-inspiring divine reveal, no cartoon style.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="Lord Krishna Sphere Transformation">
+
+**[🎬 Watch Video →](https://x.com/rahulnanda86/status/2067640397183230410)**
+
+**Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **Published:** Jun 18, 2026
+
+---
+### Lord Hanuman Gada Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for Gemini Omni to generate an ultra-realistic video of a futuristic metallic gada transforming into a divine Lord Hanuman character in a modern Indian living room.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic household video filmed on a smartphone in a modern Indian living room during the daytime. Natural window light, realistic room ambience, slight handheld movement, authentic mobile-phone camera quality. No face visible at any point.
+
+A person’s hand enters frame holding a futuristic metallic gada inspired by Lord Hanuman’s mace. The gada looks like an ancient relic reimagined with advanced technology: brushed gunmetal metal, glowing saffron energy lines, intricate Hindu symbols, Sanskrit engravings, sacred geometric patterns, subtle golden highlights, and mechanical detailing.
+
+The hand gently places the gada upright on a wooden table.
+
+For a moment nothing happens.
+
+The gada perfectly balances itself without support.
+
+A faint metallic hum begins. Ancient Sanskrit-like energy symbols glow across its surface. Mechanical segments start shifting. Panels rotate, unfold, and slide apart with realistic transformer-style sounds. Internal golden energy pulses become visible.
+
+The camera slowly moves closer.
+
+The transformation accelerates. The shaft separates into articulated limbs. The head of the mace unfolds into armor plates. Hundreds of metallic components rearrange themselves with precision.
+
+Within seconds, the gada has completely transformed into a majestic metallic Lord Hanuman standing on the table. Futuristic sacred armor, glowing eyes, intricate Hindu-inspired mechanical design, divine golden energy flowing through engraved symbols.
+
+Lord Hanuman slowly opens his eyes and looks toward the camera. The room briefly fills with a warm golden glow. Authentic transformation physics, premium VFX realism, transformer-style mechanical motion, mythological sci-fi aesthetic, awe-inspiring reveal, no cartoon appearance.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="Lord Hanuman Gada Transformation">
+
+**[🎬 Watch Video →](https://x.com/rahulnanda86/status/2067639367225737714)**
+
+**Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Published:** Jun 18, 2026
+
+---
+### 2D to 3D Dachshund Transition
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic Gemini video prompt that transforms a 2D cartoon dachshund on a screen into a realistic 3D character leaping into a human hand.
+
+#### 📝 Prompt
+
+```
+[Scene Breakdown] A charming 2D cartoon dachshund is running playfully inside a computer screen. With a seamless and magical portal effect at the screen boundary, the puppy naturally leaps out of the screen. [2D to 3D Transition] During the leap, its body undergoes a flawless, fluid transformation, evolving from a flat 2D animation into a highly detailed 3D Pixar-style character. The 3D dachshund features sparkling, glossy eyes, fine-textured glossy fur, and incredibly lively, vivid facial expressions—pant with its tongue out and tilting its head. [Interaction & Poses] The 3D puppy lands gently on a real human palm (matching the hand style in the reference image) in front of the monitor. It performs a sequence of adorable poses: wagging its tail rapidly, nuzzling the human's fingers affectionally, and finally sitting up neatly with an innocent look. [Environment & Lighting] Cinematic lighting. The real-world desk setup, computer, and background environment remain crystal clear. The soft glow emitted from the screen casts realistic rim light on the 3D pup's fur. Surreal details, seamless integration, photorealistic blending between digital and reality. [Sound Design / Audio] Starts with 2D cartoonish pitter-patter running sound effects. A magical, shimmering "ding" or swoosh sound plays precisely at the moment of the 2D-to-3D portal transition. Subtle, soft thud as it lands on the palm, followed by faint, cheerful puppy whimpers, rapid tail-wagging thumps against the skin, set against a lighthearted, heartwarming, and playful background acoustic melody.
+```
+
+<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="2D to 3D Dachshund Transition">
+
+**[🎬 Watch Video →](https://x.com/coder_hali/status/2067597800175788089)**
+
+**Author:** [程序员哈利](https://x.com/coder_hali) | **Source:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Published:** Jun 18, 2026
+
+---
 ### Cinematic Cute Kitten Unboxing Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1511,6 +1598,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-19T04:12:29.836Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-19T12:05:28.954Z</sub>
 
 </div>
