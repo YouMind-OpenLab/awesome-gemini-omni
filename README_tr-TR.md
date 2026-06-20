@@ -56,157 +56,157 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### Kinetic Typography Motion Graphics
+### Kinetik Tipografi Hareketli Grafikleri
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade structural prompt for generating high-energy kinetic typography with precise timing and glitch effects.
+> Hassas zamanlama ve glitch efektleriyle yüksek enerjili kinetik tipografi oluşturmak için profesyonel düzeyde yapısal bir komut.
 
 #### 📝 İstem
 
 ```
-Typography-only motion video.
-No images. Text only.
+Sadece tipografi içeren hareketli video.
+Görsel yok. Sadece metin.
 
-STYLE:
-Black background
-Ultra bold gothic + square techno font
-Hard aggressive motion
-Modern broadcast motion graphics
-Hyper kinetic typography
-Fast-paced editing
+STİL:
+Siyah arka plan
+Ultra kalın gotik + kare tekno yazı tipi
+Sert ve agresif hareket
+Modern yayın hareketli grafikleri
+Hiper kinetik tipografi
+Hızlı kurgu
 
-COLOR:
-Base = White
-Accent = Vivid Red
-RGB Split = Cyan + Magenta
-Occasional Yellow Flash
+RENK:
+Taban = Beyaz
+Vurgu = Canlı Kırmızı
+RGB Ayrımı = Camgöbeği + Macenta
+Ara sıra Sarı Flaş
 
-TOTAL LENGTH: 6 seconds
+TOPLAM UZUNLUK: 6 saniye
 ────────────────
-0.0–0.35s
-Violent RGB glitch explosion.
-Heavy digital tearing.
-Camera rush.
-Micro spin.
-Fragments instantly reconstruct.
+0.0–0.35sn
+Şiddetli RGB glitch patlaması.
+Ağır dijital bozulma.
+Kamera hücumu.
+Mikro dönüş.
+Parçalar anında yeniden birleşir.
 
 "FRIDAY"
 ────────────────
-0.35–0.70s
-Square mask opens with impact.
-Zoom punch.
-Letter slices swap positions.
-Red pulse flashes.
+0.35–0.70sn
+Kare maske darbeyle açılır.
+Zoom vuruşu.
+Harf dilimleri yer değiştirir.
+Kırmızı nabız flaşları.
 
 "ON"
 ────────────────
-0.70–1.05s
-Full-screen digital noise.
-Scanline wipe.
-Pixel destruction.
-White flash.
+0.70–1.05sn
+Tam ekran dijital gürültü.
+Tarama çizgisi silinmesi.
+Piksel yıkımı.
+Beyaz flaş.
 
 "WEEKEND"
 ────────────────
-1.05–1.45s
-Four-way split.
-Vertical inversion.
-Elastic snap back.
-Camera shake.
+1.05–1.45sn
+Dört yönlü bölünme.
+Dikey ters çevirme.
+Elastik geri sıçrama.
+Kamera sarsıntısı.
 
 "START"
 ────────────────
-1.45–1.90s
-Extreme squash & stretch.
-RGB ghost trails.
-Horizontal whip.
-Impact stop.
+1.45–1.90sn
+Ekstrem ezilme ve esneme.
+RGB hayalet izleri.
+Yatay kırbaç hareketi.
+Darbe duruşu.
 
 "WORK END"
 ────────────────
-1.90–2.25s
-Instant blackout.
-Red scan lines.
-Bass hit.
-Noise burst.
+1.90–2.25sn
+Anlık kararma.
+Kırmızı tarama çizgileri.
+Bas vuruşu.
+Gürültü patlaması.
 
 "LIBERATED."
 ────────────────
-2.25–2.80s
-90° rotation.
-Square frame lock.
-Frame shatters.
-Letters burst outward then magnetically reassemble.
+2.25–2.80sn
+90° döndürme.
+Kare çerçeve kilidi.
+Çerçeve parçalanır.
+Harfler dışa doğru patlar ve ardından manyetik olarak yeniden birleşir.
 
 "LET'S GO!!"
 
 ────────────────
-2.80–3.30s
-High-speed scan wipe.
-Diagonal glitch streaks.
-Chromatic split.
-Particle sparks.
+2.80–3.30sn
+Yüksek hızlı tarama silinmesi.
+Çapraz glitch çizgileri.
+Kromatik ayrım.
+Parçacık kıvılcımları.
 
 "TONIGHT"
 ────────────────
-3.30–3.85s
-Characters explode apart.
-Magnetic attraction.
-Heavy impact landing.
-Shockwave ripple.
+3.30–3.85sn
+Karakterler patlayarak dağılır.
+Manyetik çekim.
+Ağır darbe inişi.
+Şok dalgası dalgalanması.
 
 "EVERYTHING YOU LOVE"
 ────────────────
-3.85–4.45s
-Impact zoom.
-Neon outline.
-Background beat pulse.
-Micro orbit camera.
+3.85–4.45sn
+Darbe zoomu.
+Neon ana hat.
+Arka plan ritim nabzı.
+Mikro yörünge kamerası.
 
 "LET'S DO IT ALL."
 ────────────────
-4.45–5.10s
-Rapid RGB flicker.
-Fast zoom in/out.
-Digital distortion.
-Aggressive shake.
+4.45–5.10sn
+Hızlı RGB titremesi.
+Hızlı yakınlaştırma/uzaklaştırma.
+Dijital bozulma.
+Agresif sarsıntı.
 
 "NO LIMIT"
 ────────────────
-5.10–6.00s
-Maximum scale.
-Noise gradually fades.
-White + Red lock.
-Subtle vibration.
-Final spark.
-Fade to black.
+5.10–6.00sn
+Maksimum ölçek.
+Gürültü kademeli olarak azalır.
+Beyaz + Kırmızı kilit.
+Hafif titreşim.
+Son kıvılcım.
+Siyaha kararma.
 
 "HAPPY FRIDAY!!"
 ────────────────
-STYLE TAGS:
-aggressive typography,
-hyper kinetic typography,
-broadcast motion graphics,
-rapid cut,
+STİL ETİKETLERİ:
+agresif tipografi,
+hiper kinetik tipografi,
+yayın hareketli grafikleri,
+hızlı kesim,
 rgb glitch,
-impact zoom,
-spin snap,
-square mask,
-digital destruction,
-magnetic assembly,
-scanline,
-chromatic aberration,
-camera shake,
-speed lines,
-Friday hype,
-text MV,
-high energy,
-cyberpunk,
-modern anime editing
+darbe zoomu,
+dönüş ve sıçrama,
+kare maske,
+dijital yıkım,
+manyetik birleşme,
+tarama çizgisi,
+kromatik sapma,
+kamera sarsıntısı,
+hız çizgileri,
+Cuma heyecanı,
+metin MV,
+yüksek enerji,
+siberpunk,
+modern anime kurgusu
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Kinetic Typography Motion Graphics">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Kinetik Tipografi Hareketli Grafikleri">
 
 **[🎬 Videoyu izle →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
 
@@ -1776,6 +1776,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-20T10:31:40.244Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-20T14:01:17.884Z</sub>
 
 </div>

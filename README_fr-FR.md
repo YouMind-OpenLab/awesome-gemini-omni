@@ -56,157 +56,157 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
-### Kinetic Typography Motion Graphics
+### Motion Graphics de typographie cinétique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade structural prompt for generating high-energy kinetic typography with precise timing and glitch effects.
+> Un prompt structurel de qualité professionnelle pour générer une typographie cinétique à haute énergie avec un timing précis et des effets de glitch.
 
 #### 📝 Prompt
 
 ```
-Typography-only motion video.
-No images. Text only.
+Vidéo animée basée uniquement sur la typographie.
+Pas d'images. Texte uniquement.
 
-STYLE:
-Black background
-Ultra bold gothic + square techno font
-Hard aggressive motion
-Modern broadcast motion graphics
-Hyper kinetic typography
-Fast-paced editing
+STYLE :
+Fond noir
+Police gothique ultra grasse + techno carrée
+Mouvement agressif et percutant
+Motion design broadcast moderne
+Typographie hyper cinétique
+Montage au rythme effréné
 
-COLOR:
-Base = White
-Accent = Vivid Red
-RGB Split = Cyan + Magenta
-Occasional Yellow Flash
+COULEUR :
+Base = Blanc
+Accent = Rouge vif
+Split RVB = Cyan + Magenta
+Flash jaune occasionnel
 
-TOTAL LENGTH: 6 seconds
+DURÉE TOTALE : 6 secondes
 ────────────────
-0.0–0.35s
-Violent RGB glitch explosion.
-Heavy digital tearing.
-Camera rush.
-Micro spin.
-Fragments instantly reconstruct.
+0,0–0,35s
+Explosion de glitch RVB violente.
+Fort déchirement numérique.
+Accélération de caméra.
+Micro-rotation.
+Les fragments se reconstruisent instantanément.
 
 "FRIDAY"
 ────────────────
-0.35–0.70s
-Square mask opens with impact.
-Zoom punch.
-Letter slices swap positions.
-Red pulse flashes.
+0,35–0,70s
+Masque carré s'ouvrant avec impact.
+Zoom percutant.
+Les tranches de lettres échangent leurs positions.
+Flashs d'impulsion rouge.
 
 "ON"
 ────────────────
-0.70–1.05s
-Full-screen digital noise.
-Scanline wipe.
-Pixel destruction.
-White flash.
+0,70–1,05s
+Bruit numérique plein écran.
+Balayage de lignes de balayage.
+Destruction de pixels.
+Flash blanc.
 
 "WEEKEND"
 ────────────────
-1.05–1.45s
-Four-way split.
-Vertical inversion.
-Elastic snap back.
-Camera shake.
+1,05–1,45s
+Division en quatre.
+Inversion verticale.
+Retour élastique.
+Secousse de caméra.
 
 "START"
 ────────────────
-1.45–1.90s
-Extreme squash & stretch.
-RGB ghost trails.
-Horizontal whip.
-Impact stop.
+1,45–1,90s
+Squash & stretch extrême.
+Traînées fantômes RVB.
+Coup de fouet horizontal.
+Arrêt sur impact.
 
 "WORK END"
 ────────────────
-1.90–2.25s
-Instant blackout.
-Red scan lines.
-Bass hit.
-Noise burst.
+1,90–2,25s
+Black-out instantané.
+Lignes de balayage rouges.
+Impact de basse.
+Rafale de bruit.
 
 "LIBERATED."
 ────────────────
-2.25–2.80s
-90° rotation.
-Square frame lock.
-Frame shatters.
-Letters burst outward then magnetically reassemble.
+2,25–2,80s
+Rotation à 90°.
+Verrouillage du cadre carré.
+Le cadre vole en éclats.
+Les lettres explosent vers l'extérieur puis se réassemblent magnétiquement.
 
 "LET'S GO!!"
 
 ────────────────
-2.80–3.30s
-High-speed scan wipe.
-Diagonal glitch streaks.
-Chromatic split.
-Particle sparks.
+2,80–3,30s
+Balayage haute vitesse.
+Traînées de glitch diagonales.
+Split chromatique.
+Étincelles de particules.
 
 "TONIGHT"
 ────────────────
-3.30–3.85s
-Characters explode apart.
-Magnetic attraction.
-Heavy impact landing.
-Shockwave ripple.
+3,30–3,85s
+Les caractères explosent.
+Attraction magnétique.
+Atterrissage à fort impact.
+Onde de choc.
 
 "EVERYTHING YOU LOVE"
 ────────────────
-3.85–4.45s
-Impact zoom.
-Neon outline.
-Background beat pulse.
-Micro orbit camera.
+3,85–4,45s
+Zoom d'impact.
+Contour néon.
+Battement de fond pulsé.
+Micro-orbite de caméra.
 
 "LET'S DO IT ALL."
 ────────────────
-4.45–5.10s
-Rapid RGB flicker.
-Fast zoom in/out.
-Digital distortion.
-Aggressive shake.
+4,45–5,10s
+Flicker RVB rapide.
+Zoom avant/arrière rapide.
+Distorsion numérique.
+Secousse agressive.
 
 "NO LIMIT"
 ────────────────
-5.10–6.00s
-Maximum scale.
-Noise gradually fades.
-White + Red lock.
-Subtle vibration.
-Final spark.
-Fade to black.
+5,10–6,00s
+Échelle maximale.
+Le bruit s'estompe progressivement.
+Verrouillage Blanc + Rouge.
+Vibration subtile.
+Étincelle finale.
+Fondu au noir.
 
 "HAPPY FRIDAY!!"
 ────────────────
-STYLE TAGS:
-aggressive typography,
-hyper kinetic typography,
-broadcast motion graphics,
-rapid cut,
-rgb glitch,
-impact zoom,
-spin snap,
-square mask,
-digital destruction,
-magnetic assembly,
-scanline,
-chromatic aberration,
-camera shake,
-speed lines,
+TAGS DE STYLE :
+typographie agressive,
+typographie hyper cinétique,
+motion design broadcast,
+coupe rapide,
+glitch rvb,
+zoom d'impact,
+rotation snap,
+masque carré,
+destruction numérique,
+assemblage magnétique,
+ligne de balayage,
+aberration chromatique,
+secousse de caméra,
+lignes de vitesse,
 Friday hype,
-text MV,
-high energy,
+clip texte,
+haute énergie,
 cyberpunk,
-modern anime editing
+montage anime moderne
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Kinetic Typography Motion Graphics">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Motion Graphics de typographie cinétique">
 
 **[🎬 Voir la vidéo →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
 
@@ -1776,6 +1776,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-20T10:31:37.707Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-20T14:01:15.862Z</sub>
 
 </div>

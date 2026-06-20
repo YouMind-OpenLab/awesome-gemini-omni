@@ -56,157 +56,157 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### Kinetic Typography Motion Graphics
+### काइनेटिक टाइपोग्राफी मोशन ग्राफिक्स
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade structural prompt for generating high-energy kinetic typography with precise timing and glitch effects.
+> सटीक टाइमिंग और ग्लिच इफेक्ट्स के साथ हाई-एनर्जी काइनेटिक टाइपोग्राफी जेनरेट करने के लिए एक प्रोफेशनल-ग्रेड स्ट्रक्चरल प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Typography-only motion video.
-No images. Text only.
+केवल टाइपोग्राफी वाला मोशन वीडियो।
+कोई इमेज नहीं। केवल टेक्स्ट।
 
-STYLE:
-Black background
-Ultra bold gothic + square techno font
-Hard aggressive motion
-Modern broadcast motion graphics
-Hyper kinetic typography
-Fast-paced editing
+स्टाइल:
+ब्लैक बैकग्राउंड
+अल्ट्रा बोल्ड गोथिक + स्क्वायर टेक्नो फॉन्ट
+हार्ड एग्रेसिव मोशन
+मॉडर्न ब्रॉडकास्ट मोशन ग्राफिक्स
+हाइपर काइनेटिक टाइपोग्राफी
+फास्ट-पेस्ड एडिटिंग
 
-COLOR:
-Base = White
-Accent = Vivid Red
-RGB Split = Cyan + Magenta
-Occasional Yellow Flash
+रंग:
+बेस = सफेद
+एक्सेंट = विविड रेड
+RGB स्प्लिट = सियान + मैजेंटा
+बीच-बीच में पीली फ्लैश
 
-TOTAL LENGTH: 6 seconds
+कुल लंबाई: 6 सेकंड
 ────────────────
 0.0–0.35s
-Violent RGB glitch explosion.
-Heavy digital tearing.
-Camera rush.
-Micro spin.
-Fragments instantly reconstruct.
+हिंसक RGB ग्लिच विस्फोट।
+भारी डिजिटल टियरिंग।
+कैमरा रश।
+माइक्रो स्पिन।
+फ्रैगमेंट तुरंत फिर से जुड़ते हैं।
 
 "FRIDAY"
 ────────────────
 0.35–0.70s
-Square mask opens with impact.
-Zoom punch.
-Letter slices swap positions.
-Red pulse flashes.
+स्क्वायर मास्क प्रभाव के साथ खुलता है।
+ज़ूम पंच।
+अक्षर अपनी जगह बदलते हैं।
+लाल पल्स फ्लैश।
 
 "ON"
 ────────────────
 0.70–1.05s
-Full-screen digital noise.
-Scanline wipe.
-Pixel destruction.
-White flash.
+फुल-स्क्रीन डिजिटल नॉइज़।
+स्कैनलाइन वाइप।
+पिक्सेल डिस्ट्रक्शन।
+सफेद फ्लैश।
 
 "WEEKEND"
 ────────────────
 1.05–1.45s
-Four-way split.
-Vertical inversion.
-Elastic snap back.
-Camera shake.
+चार-तरफा स्प्लिट।
+वर्टिकल इनवर्जन।
+इलास्टिक स्नैप बैक।
+कैमरा शेक।
 
 "START"
 ────────────────
 1.45–1.90s
-Extreme squash & stretch.
-RGB ghost trails.
-Horizontal whip.
-Impact stop.
+एक्सट्रीम स्क्वैश और स्ट्रेच।
+RGB घोस्ट ट्रेल्स।
+हॉरिजॉन्टल व्हिप।
+इम्पैक्ट स्टॉप।
 
 "WORK END"
 ────────────────
 1.90–2.25s
-Instant blackout.
-Red scan lines.
-Bass hit.
-Noise burst.
+इंस्टेंट ब्लैकआउट।
+लाल स्कैन लाइन्स।
+बास हिट।
+नॉइज़ बर्स्ट।
 
 "LIBERATED."
 ────────────────
 2.25–2.80s
-90° rotation.
-Square frame lock.
-Frame shatters.
-Letters burst outward then magnetically reassemble.
+90° रोटेशन।
+स्क्वायर फ्रेम लॉक।
+फ्रेम टूटता है।
+अक्षर बाहर की ओर फटते हैं और फिर चुंबकीय रूप से फिर से जुड़ जाते हैं।
 
 "LET'S GO!!"
 
 ────────────────
 2.80–3.30s
-High-speed scan wipe.
-Diagonal glitch streaks.
-Chromatic split.
-Particle sparks.
+हाई-स्पीड स्कैन वाइप।
+डायगोनल ग्लिच स्ट्रीक्स।
+क्रोमैटिक स्प्लिट।
+पार्टिकल स्पार्क्स।
 
 "TONIGHT"
 ────────────────
 3.30–3.85s
-Characters explode apart.
-Magnetic attraction.
-Heavy impact landing.
-Shockwave ripple.
+अक्षर अलग होकर फटते हैं।
+चुंबकीय आकर्षण।
+भारी इम्पैक्ट लैंडिंग।
+शॉकवेव रिपल।
 
 "EVERYTHING YOU LOVE"
 ────────────────
 3.85–4.45s
-Impact zoom.
-Neon outline.
-Background beat pulse.
-Micro orbit camera.
+इम्पैक्ट ज़ूम।
+नियॉन आउटलाइन।
+बैकग्राउंड बीट पल्स।
+माइक्रो ऑर्बिट कैमरा।
 
 "LET'S DO IT ALL."
 ────────────────
 4.45–5.10s
-Rapid RGB flicker.
-Fast zoom in/out.
-Digital distortion.
-Aggressive shake.
+तेज़ RGB फ्लिकर।
+फास्ट ज़ूम इन/आउट।
+डिजिटल डिस्टॉर्शन।
+एग्रेसिव शेक।
 
 "NO LIMIT"
 ────────────────
 5.10–6.00s
-Maximum scale.
-Noise gradually fades.
-White + Red lock.
-Subtle vibration.
-Final spark.
-Fade to black.
+अधिकतम स्केल।
+नॉइज़ धीरे-धीरे कम होती है।
+सफेद + लाल लॉक।
+हल्का कंपन।
+अंतिम चिंगारी।
+ब्लैक में फेड।
 
 "HAPPY FRIDAY!!"
 ────────────────
-STYLE TAGS:
-aggressive typography,
-hyper kinetic typography,
-broadcast motion graphics,
-rapid cut,
-rgb glitch,
-impact zoom,
-spin snap,
-square mask,
-digital destruction,
-magnetic assembly,
-scanline,
-chromatic aberration,
-camera shake,
-speed lines,
-Friday hype,
-text MV,
-high energy,
-cyberpunk,
-modern anime editing
+स्टाइल टैग्स:
+एग्रेसिव टाइपोग्राफी,
+हाइपर काइनेटिक टाइपोग्राफी,
+ब्रॉडकास्ट मोशन ग्राफिक्स,
+रैपिड कट,
+RGB ग्लिच,
+इम्पैक्ट ज़ूम,
+स्पिन स्नैप,
+स्क्वायर मास्क,
+डिजिटल डिस्ट्रक्शन,
+मैग्नेटिक असेंबली,
+स्कैनलाइन,
+क्रोमैटिक एबरेशन,
+कैमरा शेक,
+स्पीड लाइन्स,
+Friday हाइप,
+टेक्स्ट MV,
+हाई एनर्जी,
+साइबरपंक,
+मॉडर्न एनीमे एडिटिंग
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Kinetic Typography Motion Graphics">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="काइनेटिक टाइपोग्राफी मोशन ग्राफिक्स">
 
 **[🎬 वीडियो देखें →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
 
@@ -1776,6 +1776,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-20T10:31:35.474Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-20T14:01:14.016Z</sub>
 
 </div>

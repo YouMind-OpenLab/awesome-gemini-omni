@@ -56,157 +56,157 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
-### Kinetic Typography Motion Graphics
+### キネティック・タイポグラフィ・モーショングラフィックス
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade structural prompt for generating high-energy kinetic typography with precise timing and glitch effects.
+> 正確なタイミングとグリッチエフェクトを備えた、高エネルギーなキネティック・タイポグラフィを生成するためのプロフェッショナル仕様の構造化プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Typography-only motion video.
-No images. Text only.
+タイポグラフィのみのモーションビデオ。
+画像なし。テキストのみ。
 
-STYLE:
-Black background
-Ultra bold gothic + square techno font
-Hard aggressive motion
-Modern broadcast motion graphics
-Hyper kinetic typography
-Fast-paced editing
+スタイル：
+黒背景
+極太ゴシック体 ＋ スクエア・テクノフォント
+ハードでアグレッシブな動き
+モダンな放送用モーショングラフィックス
+ハイパー・キネティック・タイポグラフィ
+テンポの速い編集
 
-COLOR:
-Base = White
-Accent = Vivid Red
-RGB Split = Cyan + Magenta
-Occasional Yellow Flash
+カラー：
+ベース ＝ ホワイト
+アクセント ＝ ビビッドレッド
+RGB 分割 ＝ シアン ＋ マゼンタ
+時折入るイエローのフラッシュ
 
-TOTAL LENGTH: 6 seconds
+合計時間：6 秒
 ────────────────
-0.0–0.35s
-Violent RGB glitch explosion.
-Heavy digital tearing.
-Camera rush.
-Micro spin.
-Fragments instantly reconstruct.
+0.0～0.35 秒
+激しい RGB グリッチの爆発。
+重厚なデジタル・ティアリング（映像の乱れ）。
+カメララッシュ。
+マイクロ・スピン。
+断片が瞬時に再構築される。
 
-"FRIDAY"
+「FRIDAY」
 ────────────────
-0.35–0.70s
-Square mask opens with impact.
-Zoom punch.
-Letter slices swap positions.
-Red pulse flashes.
+0.35～0.70 秒
+スクエアマスクが衝撃と共に開く。
+ズームパンチ。
+文字のスライスが位置を入れ替える。
+赤のパルスがフラッシュする。
 
-"ON"
+「ON」
 ────────────────
-0.70–1.05s
-Full-screen digital noise.
-Scanline wipe.
-Pixel destruction.
-White flash.
+0.70～1.05 秒
+フルスクリーンのデジタルノイズ。
+スキャンライン・ワイプ。
+ピクセル破壊。
+ホワイトフラッシュ。
 
-"WEEKEND"
+「WEEKEND」
 ────────────────
-1.05–1.45s
-Four-way split.
-Vertical inversion.
-Elastic snap back.
-Camera shake.
+1.05～1.45 秒
+4 分割画面。
+垂直反転。
+弾性のあるスナップバック。
+カメラシェイク。
 
-"START"
+「START」
 ────────────────
-1.45–1.90s
-Extreme squash & stretch.
-RGB ghost trails.
-Horizontal whip.
-Impact stop.
+1.45～1.90 秒
+極端なスクワッシュ ＆ ストレッチ。
+RGB ゴーストトレイル。
+水平方向のホイップ。
+インパクト・ストップ。
 
-"WORK END"
+「WORK END」
 ────────────────
-1.90–2.25s
-Instant blackout.
-Red scan lines.
-Bass hit.
-Noise burst.
+1.90～2.25 秒
+瞬時のブラックアウト。
+赤のスキャンライン。
+ベースヒット。
+ノイズバースト。
 
-"LIBERATED."
+「LIBERATED.」
 ────────────────
-2.25–2.80s
-90° rotation.
-Square frame lock.
-Frame shatters.
-Letters burst outward then magnetically reassemble.
+2.25～2.80 秒
+90 度回転。
+スクエアフレーム・ロック。
+フレームが粉砕される。
+文字が外側に爆発し、磁力で再集合する。
 
-"LET'S GO!!"
+「LET'S GO!!」
 
 ────────────────
-2.80–3.30s
-High-speed scan wipe.
-Diagonal glitch streaks.
-Chromatic split.
-Particle sparks.
+2.80～3.30 秒
+高速スキャン・ワイプ。
+斜めのグリッチ・ストリーク。
+色収差。
+パーティクルの火花。
 
-"TONIGHT"
+「TONIGHT」
 ────────────────
-3.30–3.85s
-Characters explode apart.
-Magnetic attraction.
-Heavy impact landing.
-Shockwave ripple.
+3.30～3.85 秒
+文字が爆発して四散する。
+磁力による引き寄せ。
+重厚なインパクト・ランディング。
+衝撃波の波紋。
 
-"EVERYTHING YOU LOVE"
+「EVERYTHING YOU LOVE」
 ────────────────
-3.85–4.45s
-Impact zoom.
-Neon outline.
-Background beat pulse.
-Micro orbit camera.
+3.85～4.45 秒
+インパクト・ズーム。
+ネオンのアウトライン。
+背景のビートパルス。
+マイクロ・オービット・カメラ。
 
-"LET'S DO IT ALL."
+「LET'S DO IT ALL.」
 ────────────────
-4.45–5.10s
-Rapid RGB flicker.
-Fast zoom in/out.
-Digital distortion.
-Aggressive shake.
+4.45～5.10 秒
+高速 RGB フリッカー。
+高速ズームイン／アウト。
+デジタル・ディストーション。
+アグレッシブなシェイク。
 
-"NO LIMIT"
+「NO LIMIT」
 ────────────────
-5.10–6.00s
-Maximum scale.
-Noise gradually fades.
-White + Red lock.
-Subtle vibration.
-Final spark.
-Fade to black.
+5.10～6.00 秒
+最大スケール。
+ノイズが徐々にフェードアウト。
+ホワイト ＋ レッドで固定。
+微細な振動。
+最後の火花。
+フェード・トゥ・ブラック。
 
-"HAPPY FRIDAY!!"
+「HAPPY FRIDAY!!」
 ────────────────
-STYLE TAGS:
-aggressive typography,
-hyper kinetic typography,
-broadcast motion graphics,
-rapid cut,
-rgb glitch,
-impact zoom,
-spin snap,
-square mask,
-digital destruction,
-magnetic assembly,
-scanline,
-chromatic aberration,
-camera shake,
-speed lines,
-Friday hype,
-text MV,
-high energy,
-cyberpunk,
-modern anime editing
+スタイルタグ：
+aggressive typography（アグレッシブ・タイポグラフィ）、
+hyper kinetic typography（ハイパー・キネティック・タイポグラフィ）、
+broadcast motion graphics（放送用モーショングラフィックス）、
+rapid cut（ラピッドカット）、
+rgb glitch（RGB グリッチ）、
+impact zoom（インパクト・ズーム）、
+spin snap（スピン・スナップ）、
+square mask（スクエアマスク）、
+digital destruction（デジタル破壊）、
+magnetic assembly（磁力による集合）、
+scanline（スキャンライン）、
+chromatic aberration（色収差）、
+camera shake（カメラシェイク）、
+speed lines（スピードライン）、
+Friday hype（フライデー・ハイプ）、
+text MV（テキスト MV）、
+high energy（ハイエネルギー）、
+cyberpunk（サイバーパンク）、
+modern anime editing（モダン・アニメ編集）
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Kinetic Typography Motion Graphics">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="キネティック・タイポグラフィ・モーショングラフィックス">
 
 **[🎬 動画を見る →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
 
@@ -1776,6 +1776,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-20T10:31:33.210Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-20T14:01:12.038Z</sub>
 
 </div>

@@ -56,157 +56,157 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
-### Kinetic Typography Motion Graphics
+### 키네틱 타이포그래피 모션 그래픽
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade structural prompt for generating high-energy kinetic typography with precise timing and glitch effects.
+> 정밀한 타이밍과 글리치 효과를 갖춘 고에너지 키네틱 타이포그래피 생성을 위한 전문가급 구조적 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Typography-only motion video.
-No images. Text only.
+타이포그래피 전용 모션 비디오.
+이미지 없음. 텍스트 전용.
 
-STYLE:
-Black background
-Ultra bold gothic + square techno font
-Hard aggressive motion
-Modern broadcast motion graphics
-Hyper kinetic typography
-Fast-paced editing
+스타일:
+검은색 배경
+울트라 볼드 고딕 + 스퀘어 테크노 폰트
+강렬하고 공격적인 모션
+현대적인 방송용 모션 그래픽
+하이퍼 키네틱 타이포그래피
+빠른 템포의 편집
 
-COLOR:
-Base = White
-Accent = Vivid Red
-RGB Split = Cyan + Magenta
-Occasional Yellow Flash
+색상:
+기본 = 흰색
+강조 = 선명한 빨간색
+RGB 분할 = 시안 + 마젠타
+간헐적인 노란색 플래시
 
-TOTAL LENGTH: 6 seconds
+총 길이: 6 초
 ────────────────
-0.0–0.35s
-Violent RGB glitch explosion.
-Heavy digital tearing.
-Camera rush.
-Micro spin.
-Fragments instantly reconstruct.
+0.0–0.35초
+강렬한 RGB 글리치 폭발.
+강한 디지털 티어링.
+카메라 러시.
+마이크로 스핀.
+파편이 즉시 재구성됨.
 
 "FRIDAY"
 ────────────────
-0.35–0.70s
-Square mask opens with impact.
-Zoom punch.
-Letter slices swap positions.
-Red pulse flashes.
+0.35–0.70초
+스퀘어 마스크가 임팩트 있게 열림.
+줌 펀치.
+글자 조각들이 위치를 바꿈.
+빨간색 펄스 플래시.
 
 "ON"
 ────────────────
-0.70–1.05s
-Full-screen digital noise.
-Scanline wipe.
-Pixel destruction.
-White flash.
+0.70–1.05초
+전체 화면 디지털 노이즈.
+스캔라인 와이프.
+픽셀 파괴.
+흰색 플래시.
 
 "WEEKEND"
 ────────────────
-1.05–1.45s
-Four-way split.
-Vertical inversion.
-Elastic snap back.
-Camera shake.
+1.05–1.45초
+4방향 분할.
+수직 반전.
+탄성 있는 스냅 백.
+카메라 흔들림.
 
 "START"
 ────────────────
-1.45–1.90s
-Extreme squash & stretch.
-RGB ghost trails.
-Horizontal whip.
-Impact stop.
+1.45–1.90초
+극단적인 스쿼시 & 스트레치.
+RGB 고스트 트레일.
+수평 휩.
+임팩트 정지.
 
 "WORK END"
 ────────────────
-1.90–2.25s
-Instant blackout.
-Red scan lines.
-Bass hit.
-Noise burst.
+1.90–2.25초
+즉각적인 블랙아웃.
+빨간색 스캔 라인.
+베이스 히트.
+노이즈 버스트.
 
 "LIBERATED."
 ────────────────
-2.25–2.80s
-90° rotation.
-Square frame lock.
-Frame shatters.
-Letters burst outward then magnetically reassemble.
+2.25–2.80초
+90° 회전.
+스퀘어 프레임 고정.
+프레임 산산조각.
+글자들이 밖으로 터져 나왔다가 자석처럼 다시 조립됨.
 
 "LET'S GO!!"
 
 ────────────────
-2.80–3.30s
-High-speed scan wipe.
-Diagonal glitch streaks.
-Chromatic split.
-Particle sparks.
+2.80–3.30초
+고속 스캔 와이프.
+대각선 글리치 스트릭.
+색수차 분할.
+입자 스파크.
 
 "TONIGHT"
 ────────────────
-3.30–3.85s
-Characters explode apart.
-Magnetic attraction.
-Heavy impact landing.
-Shockwave ripple.
+3.30–3.85초
+글자들이 폭발하며 흩어짐.
+자석 같은 끌림.
+강한 임팩트 랜딩.
+충격파 리플.
 
 "EVERYTHING YOU LOVE"
 ────────────────
-3.85–4.45s
-Impact zoom.
-Neon outline.
-Background beat pulse.
-Micro orbit camera.
+3.85–4.45초
+임팩트 줌.
+네온 아웃라인.
+배경 비트 펄스.
+마이크로 궤도 카메라.
 
 "LET'S DO IT ALL."
 ────────────────
-4.45–5.10s
-Rapid RGB flicker.
-Fast zoom in/out.
-Digital distortion.
-Aggressive shake.
+4.45–5.10초
+빠른 RGB 플리커.
+빠른 줌 인/아웃.
+디지털 왜곡.
+공격적인 흔들림.
 
 "NO LIMIT"
 ────────────────
-5.10–6.00s
-Maximum scale.
-Noise gradually fades.
-White + Red lock.
-Subtle vibration.
-Final spark.
-Fade to black.
+5.10–6.00초
+최대 스케일.
+노이즈가 점차 사라짐.
+흰색 + 빨간색 고정.
+미세한 진동.
+마지막 스파크.
+블랙으로 페이드 아웃.
 
 "HAPPY FRIDAY!!"
 ────────────────
-STYLE TAGS:
-aggressive typography,
-hyper kinetic typography,
-broadcast motion graphics,
-rapid cut,
-rgb glitch,
-impact zoom,
-spin snap,
-square mask,
-digital destruction,
-magnetic assembly,
-scanline,
-chromatic aberration,
-camera shake,
-speed lines,
-Friday hype,
-text MV,
-high energy,
-cyberpunk,
-modern anime editing
+스타일 태그:
+공격적인 타이포그래피,
+하이퍼 키네틱 타이포그래피,
+방송용 모션 그래픽,
+빠른 컷,
+RGB 글리치,
+임팩트 줌,
+스핀 스냅,
+스퀘어 마스크,
+디지털 파괴,
+자석 조립,
+스캔라인,
+색수차,
+카메라 흔들림,
+속도선,
+금요일 하이프,
+텍스트 MV,
+고에너지,
+사이버펑크,
+현대적인 애니메이션 편집
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Kinetic Typography Motion Graphics">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="키네틱 타이포그래피 모션 그래픽">
 
 **[🎬 비디오 보기 →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
 
@@ -1776,6 +1776,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-20T10:31:34.009Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-20T14:01:12.722Z</sub>
 
 </div>

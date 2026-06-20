@@ -56,157 +56,157 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
-### Kinetic Typography Motion Graphics
+### 动态排版动态图形
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade structural prompt for generating high-energy kinetic typography with precise timing and glitch effects.
+> 一个专业级的结构化提示词，用于生成具有精确时序和故障效果的高能动态排版。
 
 #### 📝 提示词
 
 ```
-Typography-only motion video.
-No images. Text only.
+纯排版动态视频。
+无图像。仅文本。
 
-STYLE:
-Black background
-Ultra bold gothic + square techno font
-Hard aggressive motion
-Modern broadcast motion graphics
-Hyper kinetic typography
-Fast-paced editing
+风格：
+黑色背景
+超粗哥特体 + 方形科技字体
+强烈的激进运动感
+现代广播级动态图形
+超动态排版
+快节奏剪辑
 
-COLOR:
-Base = White
-Accent = Vivid Red
-RGB Split = Cyan + Magenta
-Occasional Yellow Flash
+色彩：
+基色 = 白色
+强调色 = 鲜红色
+RGB 分离 = 青色 + 洋红色
+偶尔出现的黄色闪光
 
-TOTAL LENGTH: 6 seconds
+总时长：6 秒
 ────────────────
-0.0–0.35s
-Violent RGB glitch explosion.
-Heavy digital tearing.
-Camera rush.
-Micro spin.
-Fragments instantly reconstruct.
+0.0–0.35 秒
+剧烈的 RGB 故障爆炸。
+沉重的数字撕裂感。
+镜头快速推进。
+微旋转。
+碎片瞬间重组。
 
-"FRIDAY"
+“FRIDAY”
 ────────────────
-0.35–0.70s
-Square mask opens with impact.
-Zoom punch.
-Letter slices swap positions.
-Red pulse flashes.
+0.35–0.70 秒
+方形遮罩伴随冲击打开。
+缩放冲击。
+字母切片交换位置。
+红色脉冲闪烁。
 
-"ON"
+“ON”
 ────────────────
-0.70–1.05s
-Full-screen digital noise.
-Scanline wipe.
-Pixel destruction.
-White flash.
+0.70–1.05 秒
+全屏数字噪点。
+扫描线擦除。
+像素破坏。
+白色闪光。
 
-"WEEKEND"
+“WEEKEND”
 ────────────────
-1.05–1.45s
-Four-way split.
-Vertical inversion.
-Elastic snap back.
-Camera shake.
+1.05–1.45 秒
+四向分割。
+垂直翻转。
+弹性回弹。
+镜头抖动。
 
-"START"
+“START”
 ────────────────
-1.45–1.90s
-Extreme squash & stretch.
-RGB ghost trails.
-Horizontal whip.
-Impact stop.
+1.45–1.90 秒
+极端的挤压与拉伸。
+RGB 鬼影拖尾。
+水平挥动。
+冲击停顿。
 
-"WORK END"
+“WORK END”
 ────────────────
-1.90–2.25s
-Instant blackout.
-Red scan lines.
-Bass hit.
-Noise burst.
+1.90–2.25 秒
+瞬间黑屏。
+红色扫描线。
+低音重击。
+噪点爆发。
 
-"LIBERATED."
+“LIBERATED.”
 ────────────────
-2.25–2.80s
-90° rotation.
-Square frame lock.
-Frame shatters.
-Letters burst outward then magnetically reassemble.
+2.25–2.80 秒
+90° 旋转。
+方形边框锁定。
+边框破碎。
+字母向外爆发后磁性重组。
 
-"LET'S GO!!"
+“LET'S GO!!”
 
 ────────────────
-2.80–3.30s
-High-speed scan wipe.
-Diagonal glitch streaks.
-Chromatic split.
-Particle sparks.
+2.80–3.30 秒
+高速扫描擦除。
+对角线故障条纹。
+色差分离。
+粒子火花。
 
-"TONIGHT"
+“TONIGHT”
 ────────────────
-3.30–3.85s
-Characters explode apart.
-Magnetic attraction.
-Heavy impact landing.
-Shockwave ripple.
+3.30–3.85 秒
+字符炸裂散开。
+磁性吸引。
+重击着陆。
+冲击波涟漪。
 
-"EVERYTHING YOU LOVE"
+“EVERYTHING YOU LOVE”
 ────────────────
-3.85–4.45s
-Impact zoom.
-Neon outline.
-Background beat pulse.
-Micro orbit camera.
+3.85–4.45 秒
+冲击缩放。
+霓虹轮廓。
+背景节拍脉冲。
+微轨道摄像机。
 
-"LET'S DO IT ALL."
+“LET'S DO IT ALL.”
 ────────────────
-4.45–5.10s
-Rapid RGB flicker.
-Fast zoom in/out.
-Digital distortion.
-Aggressive shake.
+4.45–5.10 秒
+快速 RGB 闪烁。
+快速缩放进/出。
+数字失真。
+激进抖动。
 
-"NO LIMIT"
+“NO LIMIT”
 ────────────────
-5.10–6.00s
-Maximum scale.
-Noise gradually fades.
-White + Red lock.
-Subtle vibration.
-Final spark.
-Fade to black.
+5.10–6.00 秒
+最大缩放。
+噪点逐渐淡出。
+白色 + 红色锁定。
+细微震动。
+最终火花。
+淡出至黑色。
 
-"HAPPY FRIDAY!!"
+“HAPPY FRIDAY!!”
 ────────────────
-STYLE TAGS:
-aggressive typography,
-hyper kinetic typography,
-broadcast motion graphics,
-rapid cut,
-rgb glitch,
-impact zoom,
-spin snap,
-square mask,
-digital destruction,
-magnetic assembly,
-scanline,
-chromatic aberration,
-camera shake,
-speed lines,
-Friday hype,
-text MV,
-high energy,
-cyberpunk,
-modern anime editing
+风格标签：
+激进排版，
+超动态排版，
+广播级动态图形，
+快速剪辑，
+RGB 故障，
+冲击缩放，
+旋转快照，
+方形遮罩，
+数字破坏，
+磁性重组，
+扫描线，
+色差，
+镜头抖动，
+速度线，
+周五狂欢，
+文字 MV，
+高能量，
+赛博朋克，
+现代动漫剪辑
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Kinetic Typography Motion Graphics">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="动态排版动态图形">
 
 **[🎬 观看视频 →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
 
@@ -1776,6 +1776,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-20T10:31:32.136Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-20T14:01:11.257Z</sub>
 
 </div>

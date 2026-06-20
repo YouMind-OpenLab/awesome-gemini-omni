@@ -56,157 +56,157 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### Kinetic Typography Motion Graphics
+### Đồ họa chuyển động Kinetic Typography
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade structural prompt for generating high-energy kinetic typography with precise timing and glitch effects.
+> Một câu lệnh cấu trúc chuyên nghiệp để tạo ra kinetic typography tràn đầy năng lượng với thời gian chính xác và hiệu ứng glitch.
 
 #### 📝 Prompt
 
 ```
-Typography-only motion video.
-No images. Text only.
+Video chuyển động chỉ sử dụng Typography.
+Không hình ảnh. Chỉ có văn bản.
 
-STYLE:
-Black background
-Ultra bold gothic + square techno font
-Hard aggressive motion
-Modern broadcast motion graphics
-Hyper kinetic typography
-Fast-paced editing
+PHONG CÁCH:
+Nền đen
+Phông chữ gothic siêu đậm + techno vuông
+Chuyển động mạnh mẽ, dứt khoát
+Đồ họa chuyển động truyền hình hiện đại
+Typography siêu động (hyper kinetic)
+Biên tập nhịp độ nhanh
 
-COLOR:
-Base = White
-Accent = Vivid Red
-RGB Split = Cyan + Magenta
-Occasional Yellow Flash
+MÀU SẮC:
+Cơ bản = Trắng
+Điểm nhấn = Đỏ rực
+RGB Split = Lục lam (Cyan) + Đỏ tươi (Magenta)
+Chớp vàng ngẫu nhiên
 
-TOTAL LENGTH: 6 seconds
+TỔNG THỜI LƯỢNG: 6 giây
 ────────────────
 0.0–0.35s
-Violent RGB glitch explosion.
-Heavy digital tearing.
-Camera rush.
-Micro spin.
-Fragments instantly reconstruct.
+Hiệu ứng glitch RGB bùng nổ dữ dội.
+Nhiễu kỹ thuật số nặng.
+Camera lao tới.
+Xoay siêu nhanh.
+Các mảnh vỡ tái tạo tức thì.
 
 "FRIDAY"
 ────────────────
 0.35–0.70s
-Square mask opens with impact.
-Zoom punch.
-Letter slices swap positions.
-Red pulse flashes.
+Mặt nạ vuông mở ra đầy ấn tượng.
+Zoom cận cảnh.
+Các chữ cái hoán đổi vị trí.
+Nhịp đỏ nhấp nháy.
 
 "ON"
 ────────────────
 0.70–1.05s
-Full-screen digital noise.
-Scanline wipe.
-Pixel destruction.
-White flash.
+Nhiễu kỹ thuật số toàn màn hình.
+Quét đường kẻ (scanline).
+Phá hủy pixel.
+Chớp trắng.
 
 "WEEKEND"
 ────────────────
 1.05–1.45s
-Four-way split.
-Vertical inversion.
-Elastic snap back.
-Camera shake.
+Chia bốn màn hình.
+Đảo ngược dọc.
+Đàn hồi bật lại.
+Camera rung lắc.
 
 "START"
 ────────────────
 1.45–1.90s
-Extreme squash & stretch.
-RGB ghost trails.
-Horizontal whip.
-Impact stop.
+Hiệu ứng co giãn cực độ (squash & stretch).
+Vệt bóng RGB.
+Quét ngang nhanh.
+Dừng đột ngột.
 
 "WORK END"
 ────────────────
 1.90–2.25s
-Instant blackout.
-Red scan lines.
-Bass hit.
-Noise burst.
+Tắt đen tức thì.
+Đường quét đỏ.
+Nhịp bass đập.
+Bùng nổ nhiễu.
 
 "LIBERATED."
 ────────────────
 2.25–2.80s
-90° rotation.
-Square frame lock.
-Frame shatters.
-Letters burst outward then magnetically reassemble.
+Xoay 90°.
+Khóa khung hình vuông.
+Khung hình vỡ vụn.
+Các chữ cái bung ra rồi tự động lắp ghép lại bằng lực từ tính.
 
 "LET'S GO!!"
 
 ────────────────
 2.80–3.30s
-High-speed scan wipe.
-Diagonal glitch streaks.
-Chromatic split.
-Particle sparks.
+Quét tốc độ cao.
+Các vệt glitch chéo.
+Tách màu sắc (chromatic split).
+Tia lửa hạt.
 
 "TONIGHT"
 ────────────────
 3.30–3.85s
-Characters explode apart.
-Magnetic attraction.
-Heavy impact landing.
-Shockwave ripple.
+Các ký tự nổ tung.
+Lực hút từ tính.
+Tiếp đất mạnh mẽ.
+Sóng xung kích lan tỏa.
 
 "EVERYTHING YOU LOVE"
 ────────────────
 3.85–4.45s
-Impact zoom.
-Neon outline.
-Background beat pulse.
-Micro orbit camera.
+Zoom tác động.
+Viền neon.
+Nhịp nền đập theo nhạc.
+Camera quỹ đạo siêu nhỏ.
 
 "LET'S DO IT ALL."
 ────────────────
 4.45–5.10s
-Rapid RGB flicker.
-Fast zoom in/out.
-Digital distortion.
-Aggressive shake.
+Nhấp nháy RGB nhanh.
+Zoom vào/ra liên tục.
+Biến dạng kỹ thuật số.
+Rung lắc mạnh.
 
 "NO LIMIT"
 ────────────────
 5.10–6.00s
-Maximum scale.
-Noise gradually fades.
-White + Red lock.
-Subtle vibration.
-Final spark.
-Fade to black.
+Phóng đại tối đa.
+Nhiễu mờ dần.
+Khóa màu Trắng + Đỏ.
+Rung nhẹ.
+Tia lửa cuối cùng.
+Mờ dần về đen.
 
 "HAPPY FRIDAY!!"
 ────────────────
-STYLE TAGS:
-aggressive typography,
-hyper kinetic typography,
-broadcast motion graphics,
-rapid cut,
-rgb glitch,
-impact zoom,
-spin snap,
-square mask,
-digital destruction,
-magnetic assembly,
-scanline,
-chromatic aberration,
-camera shake,
-speed lines,
-Friday hype,
-text MV,
-high energy,
+THẺ PHONG CÁCH:
+typography mạnh mẽ,
+typography siêu động,
+đồ họa chuyển động truyền hình,
+cắt cảnh nhanh,
+glitch rgb,
+zoom tác động,
+xoay nhanh,
+mặt nạ vuông,
+phá hủy kỹ thuật số,
+lắp ghép từ tính,
+đường quét,
+sai sắc (chromatic aberration),
+camera rung lắc,
+đường tốc độ,
+hào hứng ngày thứ Sáu,
+MV văn bản,
+năng lượng cao,
 cyberpunk,
-modern anime editing
+biên tập anime hiện đại
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Kinetic Typography Motion Graphics">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Đồ họa chuyển động Kinetic Typography">
 
 **[🎬 Xem video →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
 
@@ -1776,6 +1776,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-20T10:31:34.909Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-20T14:01:13.537Z</sub>
 
 </div>

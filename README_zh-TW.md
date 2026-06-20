@@ -56,157 +56,157 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
-### Kinetic Typography Motion Graphics
+### 動態排版動態圖形
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade structural prompt for generating high-energy kinetic typography with precise timing and glitch effects.
+> 一個專業級的結構化提示詞，用於生成具有精確時序與故障效果的高能量動態排版。
 
 #### 📝 提示詞
 
 ```
-Typography-only motion video.
-No images. Text only.
+純文字動態影片。
+無圖像。僅限文字。
 
-STYLE:
-Black background
-Ultra bold gothic + square techno font
-Hard aggressive motion
-Modern broadcast motion graphics
-Hyper kinetic typography
-Fast-paced editing
+風格：
+黑色背景
+超粗哥德體 + 方形科技字體
+強烈激進的動態
+現代廣播動態圖形
+超動態排版
+快節奏剪輯
 
-COLOR:
-Base = White
-Accent = Vivid Red
-RGB Split = Cyan + Magenta
-Occasional Yellow Flash
+顏色：
+基底 = 白色
+強調色 = 鮮紅色
+RGB 分離 = 青色 + 洋紅色
+偶爾出現黃色閃光
 
-TOTAL LENGTH: 6 seconds
+總長度：6 秒
 ────────────────
 0.0–0.35s
-Violent RGB glitch explosion.
-Heavy digital tearing.
-Camera rush.
-Micro spin.
-Fragments instantly reconstruct.
+強烈的 RGB 故障爆炸。
+沉重的數位撕裂感。
+鏡頭衝刺。
+微旋轉。
+碎片瞬間重組。
 
 "FRIDAY"
 ────────────────
 0.35–0.70s
-Square mask opens with impact.
-Zoom punch.
-Letter slices swap positions.
-Red pulse flashes.
+方形遮罩伴隨衝擊開啟。
+縮放衝擊。
+字母切片交換位置。
+紅色脈衝閃爍。
 
 "ON"
 ────────────────
 0.70–1.05s
-Full-screen digital noise.
-Scanline wipe.
-Pixel destruction.
-White flash.
+全螢幕數位雜訊。
+掃描線擦除。
+像素破壞。
+白色閃光。
 
 "WEEKEND"
 ────────────────
 1.05–1.45s
-Four-way split.
-Vertical inversion.
-Elastic snap back.
-Camera shake.
+四向分割。
+垂直翻轉。
+彈性回彈。
+鏡頭晃動。
 
 "START"
 ────────────────
 1.45–1.90s
-Extreme squash & stretch.
-RGB ghost trails.
-Horizontal whip.
-Impact stop.
+極致的擠壓與拉伸。
+RGB 殘影。
+水平揮動。
+衝擊停止。
 
 "WORK END"
 ────────────────
 1.90–2.25s
-Instant blackout.
-Red scan lines.
-Bass hit.
-Noise burst.
+瞬間黑屏。
+紅色掃描線。
+重低音撞擊。
+雜訊爆發。
 
 "LIBERATED."
 ────────────────
 2.25–2.80s
-90° rotation.
-Square frame lock.
-Frame shatters.
-Letters burst outward then magnetically reassemble.
+90° 旋轉。
+方形框架鎖定。
+框架破碎。
+字母向外爆發後磁性重組。
 
 "LET'S GO!!"
 
 ────────────────
 2.80–3.30s
-High-speed scan wipe.
-Diagonal glitch streaks.
-Chromatic split.
-Particle sparks.
+高速掃描擦除。
+對角線故障條紋。
+色差分離。
+粒子火花。
 
 "TONIGHT"
 ────────────────
 3.30–3.85s
-Characters explode apart.
-Magnetic attraction.
-Heavy impact landing.
-Shockwave ripple.
+字元炸開。
+磁性吸引。
+重擊落地。
+衝擊波漣漪。
 
 "EVERYTHING YOU LOVE"
 ────────────────
 3.85–4.45s
-Impact zoom.
-Neon outline.
-Background beat pulse.
-Micro orbit camera.
+衝擊縮放。
+霓虹輪廓。
+背景節拍脈動。
+微軌道鏡頭。
 
 "LET'S DO IT ALL."
 ────────────────
 4.45–5.10s
-Rapid RGB flicker.
-Fast zoom in/out.
-Digital distortion.
-Aggressive shake.
+快速 RGB 閃爍。
+快速縮放進出。
+數位失真。
+激進晃動。
 
 "NO LIMIT"
 ────────────────
 5.10–6.00s
-Maximum scale.
-Noise gradually fades.
-White + Red lock.
-Subtle vibration.
-Final spark.
-Fade to black.
+最大比例。
+雜訊逐漸淡出。
+白色 + 紅色鎖定。
+細微震動。
+最後火花。
+淡出至黑色。
 
 "HAPPY FRIDAY!!"
 ────────────────
-STYLE TAGS:
-aggressive typography,
-hyper kinetic typography,
-broadcast motion graphics,
-rapid cut,
-rgb glitch,
-impact zoom,
-spin snap,
-square mask,
-digital destruction,
-magnetic assembly,
-scanline,
-chromatic aberration,
-camera shake,
-speed lines,
-Friday hype,
-text MV,
-high energy,
-cyberpunk,
-modern anime editing
+風格標籤：
+激進排版，
+超動態排版，
+廣播動態圖形，
+快速剪輯，
+RGB 故障，
+衝擊縮放，
+旋轉快照，
+方形遮罩，
+數位破壞，
+磁性組裝，
+掃描線，
+色差，
+鏡頭晃動，
+速度線，
+週五狂熱，
+文字 MV，
+高能量，
+賽博龐克，
+現代動漫剪輯
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Kinetic Typography Motion Graphics">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="動態排版動態圖形">
 
 **[🎬 觀看視頻 →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
 
@@ -1776,6 +1776,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-20T10:31:32.678Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-20T14:01:11.630Z</sub>
 
 </div>

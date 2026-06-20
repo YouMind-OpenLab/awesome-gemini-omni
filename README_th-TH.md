@@ -56,157 +56,139 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### Kinetic Typography Motion Graphics
+### โมชันกราฟิกแบบ Kinetic Typography
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional-grade structural prompt for generating high-energy kinetic typography with precise timing and glitch effects.
+> โครงสร้าง Prompt ระดับมืออาชีพสำหรับการสร้างสรรค์ Kinetic Typography ที่เปี่ยมไปด้วยพลัง พร้อมการกำหนดจังหวะที่แม่นยำและเอฟเฟกต์ Glitch
 
 #### 📝 พรอมต์
 
 ```
-Typography-only motion video.
-No images. Text only.
+วิดีโอโมชันกราฟิกแบบเน้นตัวอักษรเท่านั้น
+ไม่มีรูปภาพ ใช้เฉพาะข้อความ
 
-STYLE:
-Black background
-Ultra bold gothic + square techno font
-Hard aggressive motion
-Modern broadcast motion graphics
-Hyper kinetic typography
-Fast-paced editing
+สไตล์:
+พื้นหลังสีดำ
+ฟอนต์ Gothic หนาพิเศษ + ฟอนต์ Techno ทรงเหลี่ยม
+การเคลื่อนไหวที่ดุดันและรุนแรง
+โมชันกราฟิกสไตล์รายการโทรทัศน์สมัยใหม่
+Kinetic Typography ที่มีความเคลื่อนไหวสูง
+การตัดต่อที่รวดเร็วฉับไว
 
-COLOR:
-Base = White
-Accent = Vivid Red
-RGB Split = Cyan + Magenta
-Occasional Yellow Flash
+สี:
+สีหลัก = สีขาว
+สีเน้น = สีแดงสด
+RGB Split = สีฟ้า Cyan + สีม่วง Magenta
+มีสีเหลืองกะพริบเป็นระยะ
 
-TOTAL LENGTH: 6 seconds
+ความยาวรวม: 6 วินาที
 ────────────────
-0.0–0.35s
-Violent RGB glitch explosion.
-Heavy digital tearing.
-Camera rush.
-Micro spin.
-Fragments instantly reconstruct.
+0.0–0.35 วินาที
+ระเบิดเอฟเฟกต์ RGB Glitch อย่างรุนแรง
+ภาพดิจิทัลแตกกระจาย
+กล้องพุ่งเข้าหาวัตถุ
+หมุนแบบรวดเร็ว (Micro spin)
+ชิ้นส่วนตัวอักษรประกอบร่างกลับมาทันที
 
 "FRIDAY"
 ────────────────
-0.35–0.70s
-Square mask opens with impact.
-Zoom punch.
-Letter slices swap positions.
-Red pulse flashes.
+0.35–0.70 วินาที
+มาสก์ทรงสี่เหลี่ยมเปิดออกพร้อมแรงกระแทก
+ซูมแบบกระชาก
+ตัวอักษรสลับตำแหน่งกัน
+ไฟสีแดงกะพริบเป็นจังหวะ
 
 "ON"
 ────────────────
-0.70–1.05s
-Full-screen digital noise.
-Scanline wipe.
-Pixel destruction.
-White flash.
+0.70–1.05 วินาที
+สัญญาณรบกวนดิจิทัลเต็มหน้าจอ
+กวาดภาพด้วยเส้น Scanline
+พิกเซลแตกกระจาย
+แสงสีขาววาบ
 
 "WEEKEND"
 ────────────────
-1.05–1.45s
-Four-way split.
-Vertical inversion.
-Elastic snap back.
-Camera shake.
+1.05–1.45 วินาที
+แยกหน้าจอ 4 ส่วน
+พลิกแนวตั้ง
+เด้งกลับแบบยืดหยุ่น
+กล้องสั่นไหว
 
 "START"
 ────────────────
-1.45–1.90s
-Extreme squash & stretch.
-RGB ghost trails.
-Horizontal whip.
-Impact stop.
+1.45–1.90 วินาที
+ยืดและหดตัวแบบสุดขีด
+มีเงา RGB ตามหลัง
+สะบัดแนวนอน
+หยุดกะทันหันเมื่อเกิดแรงกระแทก
 
 "WORK END"
 ────────────────
-1.90–2.25s
-Instant blackout.
-Red scan lines.
-Bass hit.
-Noise burst.
+1.90–2.25 วินาที
+ตัดภาพมืดทันที
+เส้น Scanline สีแดง
+เสียงเบสหนักๆ
+เสียงรบกวนระเบิดออกมา
 
 "LIBERATED."
 ────────────────
-2.25–2.80s
-90° rotation.
-Square frame lock.
-Frame shatters.
-Letters burst outward then magnetically reassemble.
+2.25–2.80 วินาที
+หมุน 90 องศา
+ล็อกกรอบสี่เหลี่ยม
+กรอบแตกกระจาย
+ตัวอักษรระเบิดออกแล้วประกอบกลับเข้าที่ด้วยแรงดึงดูดแม่เหล็ก
 
 "LET'S GO!!"
 
 ────────────────
-2.80–3.30s
-High-speed scan wipe.
-Diagonal glitch streaks.
-Chromatic split.
-Particle sparks.
+2.80–3.30 วินาที
+กวาดภาพด้วยความเร็วสูง
+เส้น Glitch แนวทแยง
+แยกสี Chromatic
+ประกายอนุภาค
 
 "TONIGHT"
 ────────────────
-3.30–3.85s
-Characters explode apart.
-Magnetic attraction.
-Heavy impact landing.
-Shockwave ripple.
+3.30–3.85 วินาที
+ตัวอักษรระเบิดแยกออกจากกัน
+แรงดึงดูดแม่เหล็ก
+ลงจอดด้วยแรงกระแทกหนักๆ
+คลื่นกระแทกกระจายตัว
 
 "EVERYTHING YOU LOVE"
 ────────────────
-3.85–4.45s
-Impact zoom.
-Neon outline.
-Background beat pulse.
-Micro orbit camera.
+3.85–4.45 วินาที
+ซูมเข้าตามแรงกระแทก
+ขอบนีออน
+พื้นหลังเต้นตามจังหวะ
+กล้องหมุนรอบวัตถุในระยะใกล้
 
 "LET'S DO IT ALL."
 ────────────────
-4.45–5.10s
-Rapid RGB flicker.
-Fast zoom in/out.
-Digital distortion.
-Aggressive shake.
+4.45–5.10 วินาที
+RGB กะพริบถี่ๆ
+ซูมเข้า/ออกอย่างรวดเร็ว
+ภาพบิดเบี้ยวดิจิทัล
+สั่นไหวอย่างรุนแรง
 
 "NO LIMIT"
 ────────────────
-5.10–6.00s
-Maximum scale.
-Noise gradually fades.
-White + Red lock.
-Subtle vibration.
-Final spark.
-Fade to black.
+5.10–6.00 วินาที
+ขยายขนาดสูงสุด
+สัญญาณรบกวนค่อยๆ จางหาย
+ล็อกสีขาว + แดง
+สั่นไหวเล็กน้อย
+ประกายไฟสุดท้าย
+เฟดเข้าสู่ความมืด
 
 "HAPPY FRIDAY!!"
 ────────────────
-STYLE TAGS:
-aggressive typography,
-hyper kinetic typography,
-broadcast motion graphics,
-rapid cut,
-rgb glitch,
-impact zoom,
-spin snap,
-square mask,
-digital destruction,
-magnetic assembly,
-scanline,
-chromatic aberration,
-camera shake,
-speed lines,
-Friday hype,
-text MV,
-high energy,
-cyberpunk,
-modern anime editing
+แท็กสไตล์:
+aggressive typography, hyper kinetic typography, broadcast motion graphics, rapid cut, rgb glitch, impact zoom, spin snap, square mask, digital destruction, magnetic assembly, scanline, chromatic aberration, camera shake, speed lines, Friday hype, text MV, high energy, cyberpunk, modern anime editing
 ```
 
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Kinetic Typography Motion Graphics">
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="โมชันกราฟิกแบบ Kinetic Typography">
 
 **[🎬 ดูวิดีโอ →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
 
@@ -1776,6 +1758,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-20T10:31:34.444Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-20T14:01:13.133Z</sub>
 
 </div>
