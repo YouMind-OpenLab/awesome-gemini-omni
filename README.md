@@ -48,7 +48,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 |--------|-------|
 | 📝 Total Prompts | **70** |
 | ⭐ Featured Prompts | **0** |
-| 🔄 Last Updated | **2026-06-19** |
+| 🔄 Last Updated | **2026-06-20** |
 
 ---
 
@@ -1598,6 +1598,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-19T21:09:39.239Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-20T03:34:56.873Z</sub>
 
 </div>
