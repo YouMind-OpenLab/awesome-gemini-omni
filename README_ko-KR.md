@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **70** |
+| 📝 총 프롬프트 수 | **71** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-20** |
 
@@ -56,6 +56,163 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Kinetic Typography Motion Graphics
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional-grade structural prompt for generating high-energy kinetic typography with precise timing and glitch effects.
+
+#### 📝 프롬프트
+
+```
+Typography-only motion video.
+No images. Text only.
+
+STYLE:
+Black background
+Ultra bold gothic + square techno font
+Hard aggressive motion
+Modern broadcast motion graphics
+Hyper kinetic typography
+Fast-paced editing
+
+COLOR:
+Base = White
+Accent = Vivid Red
+RGB Split = Cyan + Magenta
+Occasional Yellow Flash
+
+TOTAL LENGTH: 6 seconds
+────────────────
+0.0–0.35s
+Violent RGB glitch explosion.
+Heavy digital tearing.
+Camera rush.
+Micro spin.
+Fragments instantly reconstruct.
+
+"FRIDAY"
+────────────────
+0.35–0.70s
+Square mask opens with impact.
+Zoom punch.
+Letter slices swap positions.
+Red pulse flashes.
+
+"ON"
+────────────────
+0.70–1.05s
+Full-screen digital noise.
+Scanline wipe.
+Pixel destruction.
+White flash.
+
+"WEEKEND"
+────────────────
+1.05–1.45s
+Four-way split.
+Vertical inversion.
+Elastic snap back.
+Camera shake.
+
+"START"
+────────────────
+1.45–1.90s
+Extreme squash & stretch.
+RGB ghost trails.
+Horizontal whip.
+Impact stop.
+
+"WORK END"
+────────────────
+1.90–2.25s
+Instant blackout.
+Red scan lines.
+Bass hit.
+Noise burst.
+
+"LIBERATED."
+────────────────
+2.25–2.80s
+90° rotation.
+Square frame lock.
+Frame shatters.
+Letters burst outward then magnetically reassemble.
+
+"LET'S GO!!"
+
+────────────────
+2.80–3.30s
+High-speed scan wipe.
+Diagonal glitch streaks.
+Chromatic split.
+Particle sparks.
+
+"TONIGHT"
+────────────────
+3.30–3.85s
+Characters explode apart.
+Magnetic attraction.
+Heavy impact landing.
+Shockwave ripple.
+
+"EVERYTHING YOU LOVE"
+────────────────
+3.85–4.45s
+Impact zoom.
+Neon outline.
+Background beat pulse.
+Micro orbit camera.
+
+"LET'S DO IT ALL."
+────────────────
+4.45–5.10s
+Rapid RGB flicker.
+Fast zoom in/out.
+Digital distortion.
+Aggressive shake.
+
+"NO LIMIT"
+────────────────
+5.10–6.00s
+Maximum scale.
+Noise gradually fades.
+White + Red lock.
+Subtle vibration.
+Final spark.
+Fade to black.
+
+"HAPPY FRIDAY!!"
+────────────────
+STYLE TAGS:
+aggressive typography,
+hyper kinetic typography,
+broadcast motion graphics,
+rapid cut,
+rgb glitch,
+impact zoom,
+spin snap,
+square mask,
+digital destruction,
+magnetic assembly,
+scanline,
+chromatic aberration,
+camera shake,
+speed lines,
+Friday hype,
+text MV,
+high energy,
+cyberpunk,
+modern anime editing
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Kinetic Typography Motion Graphics">
+
+**[🎬 비디오 보기 →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
+
+**작성자:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **출처:** [Link](https://x.com/YaReYaRu30Life/status/2067814602612830374) | **게시일:** Jun 19, 2026
+
+---
 ### 크리슈나 경(Lord Krishna) 구체 변신
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1619,6 +1776,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-20T07:50:07.862Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-20T10:31:34.009Z</sub>
 
 </div>

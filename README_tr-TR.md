@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **70** |
+| 📝 Toplam İstem | **71** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-20** |
 
@@ -56,6 +56,163 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Kinetic Typography Motion Graphics
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional-grade structural prompt for generating high-energy kinetic typography with precise timing and glitch effects.
+
+#### 📝 İstem
+
+```
+Typography-only motion video.
+No images. Text only.
+
+STYLE:
+Black background
+Ultra bold gothic + square techno font
+Hard aggressive motion
+Modern broadcast motion graphics
+Hyper kinetic typography
+Fast-paced editing
+
+COLOR:
+Base = White
+Accent = Vivid Red
+RGB Split = Cyan + Magenta
+Occasional Yellow Flash
+
+TOTAL LENGTH: 6 seconds
+────────────────
+0.0–0.35s
+Violent RGB glitch explosion.
+Heavy digital tearing.
+Camera rush.
+Micro spin.
+Fragments instantly reconstruct.
+
+"FRIDAY"
+────────────────
+0.35–0.70s
+Square mask opens with impact.
+Zoom punch.
+Letter slices swap positions.
+Red pulse flashes.
+
+"ON"
+────────────────
+0.70–1.05s
+Full-screen digital noise.
+Scanline wipe.
+Pixel destruction.
+White flash.
+
+"WEEKEND"
+────────────────
+1.05–1.45s
+Four-way split.
+Vertical inversion.
+Elastic snap back.
+Camera shake.
+
+"START"
+────────────────
+1.45–1.90s
+Extreme squash & stretch.
+RGB ghost trails.
+Horizontal whip.
+Impact stop.
+
+"WORK END"
+────────────────
+1.90–2.25s
+Instant blackout.
+Red scan lines.
+Bass hit.
+Noise burst.
+
+"LIBERATED."
+────────────────
+2.25–2.80s
+90° rotation.
+Square frame lock.
+Frame shatters.
+Letters burst outward then magnetically reassemble.
+
+"LET'S GO!!"
+
+────────────────
+2.80–3.30s
+High-speed scan wipe.
+Diagonal glitch streaks.
+Chromatic split.
+Particle sparks.
+
+"TONIGHT"
+────────────────
+3.30–3.85s
+Characters explode apart.
+Magnetic attraction.
+Heavy impact landing.
+Shockwave ripple.
+
+"EVERYTHING YOU LOVE"
+────────────────
+3.85–4.45s
+Impact zoom.
+Neon outline.
+Background beat pulse.
+Micro orbit camera.
+
+"LET'S DO IT ALL."
+────────────────
+4.45–5.10s
+Rapid RGB flicker.
+Fast zoom in/out.
+Digital distortion.
+Aggressive shake.
+
+"NO LIMIT"
+────────────────
+5.10–6.00s
+Maximum scale.
+Noise gradually fades.
+White + Red lock.
+Subtle vibration.
+Final spark.
+Fade to black.
+
+"HAPPY FRIDAY!!"
+────────────────
+STYLE TAGS:
+aggressive typography,
+hyper kinetic typography,
+broadcast motion graphics,
+rapid cut,
+rgb glitch,
+impact zoom,
+spin snap,
+square mask,
+digital destruction,
+magnetic assembly,
+scanline,
+chromatic aberration,
+camera shake,
+speed lines,
+Friday hype,
+text MV,
+high energy,
+cyberpunk,
+modern anime editing
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Kinetic Typography Motion Graphics">
+
+**[🎬 Videoyu izle →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
+
+**Yazar:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Kaynak:** [Link](https://x.com/YaReYaRu30Life/status/2067814602612830374) | **Yayınlandı:** Jun 19, 2026
+
+---
 ### Lord Krishna Küre Dönüşümü
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1619,6 +1776,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-20T07:50:14.542Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-20T10:31:40.244Z</sub>
 
 </div>
