@@ -1776,6 +1776,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-21T17:26:54.403Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-21T21:12:45.537Z</sub>
 
 </div>
