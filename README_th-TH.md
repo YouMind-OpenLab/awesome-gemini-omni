@@ -48,7 +48,7 @@
 |--------|-------|
 | 📝 พรอมต์ทั้งหมด | **71** |
 | ⭐ พรอมต์แนะนำ | **0** |
-| 🔄 อัปเดตล่าสุด | **2026-06-22** |
+| 🔄 อัปเดตล่าสุด | **2026-06-23** |
 
 ---
 
@@ -1758,6 +1758,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-22T22:01:19.338Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-06-23T03:28:38.956Z</sub>
 
 </div>
