@@ -48,7 +48,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 |--------|-------|
 | 📝 提示词总数 | **71** |
 | ⭐ 精选提示词 | **0** |
-| 🔄 最后更新 | **2026-06-23** |
+| 🔄 最后更新 | **2026-06-24** |
 
 ---
 
@@ -1776,6 +1776,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-23T21:42:28.903Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-24T03:30:35.018Z</sub>
 
 </div>
