@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **71** |
+| 📝 提示词总数 | **72** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-06-24** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 野生动物纪录片：小象写下“你好”
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个用于生成电影级视频的提示词，描绘了一个逼真的自然纪录片场景：一只小象发现了摄像机，并用泥土写下了一条信息。
+
+#### 📝 提示词
+
+```
+超逼真的野生动物纪录片镜头。一位自然摄影师正在拍摄一群大象过河。一切看起来都非常正常。突然，一只小象注意到了摄像机。它捡起一根树枝，在河边的泥地上写下了：HELLO。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="野生动物纪录片：小象写下“你好”">
+
+**[🎬 观看视频 →](https://x.com/vireonixx/status/2069347975986311341)**
+
+**作者:** [Virena](https://x.com/vireonixx) | **来源:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **发布时间:** Jun 23, 2026
+
+---
 ### 动态排版动态图形
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1776,6 +1795,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-24T07:39:42.077Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-24T10:48:30.093Z</sub>
 
 </div>

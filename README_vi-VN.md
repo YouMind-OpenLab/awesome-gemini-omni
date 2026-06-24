@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **71** |
+| 📝 Tổng số prompt | **72** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-24** |
 
@@ -56,6 +56,25 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Phim tài liệu về động vật hoang dã: Voi con viết lời chào
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video đậm chất điện ảnh cho cảnh quay phim tài liệu thiên nhiên chân thực, nơi một chú voi con phát hiện ra máy quay và viết thông điệp trên bùn.
+
+#### 📝 Prompt
+
+```
+Cảnh quay phim tài liệu về động vật hoang dã siêu chân thực. Một nhiếp ảnh gia thiên nhiên đang quay phim một đàn voi đang băng qua sông. Mọi thứ trông hoàn toàn bình thường. Một chú voi con bất ngờ chú ý đến chiếc máy quay. Nó nhặt một cành cây lên. Trên lớp bùn bên bờ sông, nó viết: HELLO.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="Phim tài liệu về động vật hoang dã: Voi con viết lời chào">
+
+**[🎬 Xem video →](https://x.com/vireonixx/status/2069347975986311341)**
+
+**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **Đã xuất bản:** Jun 23, 2026
+
+---
 ### Đồ họa chuyển động Kinetic Typography
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1776,6 +1795,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-24T07:39:45.380Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-24T10:48:33.315Z</sub>
 
 </div>

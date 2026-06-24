@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **71** |
+| 📝 Gesamtanzahl Prompts | **72** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-24** |
 
@@ -56,6 +56,25 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Wildlife-Dokumentation: Elefantenbaby schreibt „Hallo“
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Generierungs-Prompt für eine realistische Naturdokumentationsszene, in der ein Elefantenbaby eine Kamera entdeckt und eine Nachricht in den Schlamm schreibt.
+
+#### 📝 Prompt
+
+```
+Ultrarealistisches Filmmaterial einer Wildlife-Dokumentation. Ein Naturfotograf filmt eine Elefantenfamilie, die einen Fluss überquert. Alles wirkt vollkommen normal. Plötzlich bemerkt ein Elefantenbaby die Kamera. Es hebt einen Stock auf. Im Schlamm am Flussufer schreibt es: HELLO.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="Wildlife-Dokumentation: Elefantenbaby schreibt „Hallo“">
+
+**[🎬 Video ansehen →](https://x.com/vireonixx/status/2069347975986311341)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **Veröffentlicht:** Jun 23, 2026
+
+---
 ### Kinetische Typografie Motion Graphics
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1776,6 +1795,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-24T07:39:48.218Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-24T10:48:36.133Z</sub>
 
 </div>

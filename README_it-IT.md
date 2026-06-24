@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **71** |
+| 📝 Totale prompt | **72** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-24** |
 
@@ -56,6 +56,25 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Documentario naturalistico: un cucciolo di elefante scrive "Ciao"
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di generazione video cinematografico per una scena realistica da documentario naturalistico, con protagonista un cucciolo di elefante che scopre una telecamera e scrive un messaggio nel fango.
+
+#### 📝 Prompt
+
+```
+Riprese di un documentario naturalistico ultra-realistiche. Un fotografo naturalista riprende una famiglia di elefanti che attraversa un fiume. Tutto sembra assolutamente normale. Un cucciolo di elefante nota improvvisamente la telecamera. Raccoglie un bastoncino. Nel fango accanto al fiume scrive: CIAO.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="Documentario naturalistico: un cucciolo di elefante scrive &quot;Ciao&quot;">
+
+**[🎬 Guarda il video →](https://x.com/vireonixx/status/2069347975986311341)**
+
+**Autore:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **Pubblicato:** Jun 23, 2026
+
+---
 ### Motion Graphics con Tipografia Cinetica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1776,6 +1795,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-24T07:39:49.524Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-24T10:48:37.526Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **71** |
+| 📝 プロンプト総数 | **72** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-06-24** |
 
@@ -56,6 +56,25 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 野生動物ドキュメンタリー：挨拶をする子ゾウ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> カメラを発見し、泥の中にメッセージを書く子ゾウを捉えた、リアリティあふれる自然ドキュメンタリー風の動画生成用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+超リアルな野生動物ドキュメンタリーの映像。自然写真家が川を渡るゾウの家族を撮影している。すべてはごく普通の光景に見える。突然、一頭の子ゾウがカメラに気づく。子ゾウは木の枝を拾い上げ、川のそばの泥の上にこう書く。「HELLO」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="野生動物ドキュメンタリー：挨拶をする子ゾウ">
+
+**[🎬 動画を見る →](https://x.com/vireonixx/status/2069347975986311341)**
+
+**作者:** [Virena](https://x.com/vireonixx) | **ソース:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **公開日:** Jun 23, 2026
+
+---
 ### キネティック・タイポグラフィ・モーショングラフィックス
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1776,6 +1795,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-24T07:39:43.279Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-24T10:48:31.489Z</sub>
 
 </div>

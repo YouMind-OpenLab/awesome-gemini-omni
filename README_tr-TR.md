@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **71** |
+| 📝 Toplam İstem | **72** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-24** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Vahşi Yaşam Belgeseli: Yavru Fil Merhaba Yazıyor
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir yavru filin kamerayı keşfedip çamurun üzerine mesaj yazdığı, gerçekçi bir doğa belgeseli sahnesi için sinematik video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Ultra gerçekçi vahşi yaşam belgeseli görüntüleri. Bir doğa fotoğrafçısı, nehri geçen bir fil ailesini görüntülüyor. Her şey tamamen normal görünüyor. Bir yavru fil aniden kamerayı fark ediyor. Bir dal parçası alıyor. Nehrin kenarındaki çamurun üzerine şunu yazıyor: MERHABA.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="Vahşi Yaşam Belgeseli: Yavru Fil Merhaba Yazıyor">
+
+**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2069347975986311341)**
+
+**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **Yayınlandı:** Jun 23, 2026
+
+---
 ### Kinetik Tipografi Hareketli Grafikleri
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1776,6 +1795,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-24T07:39:51.768Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-24T10:48:39.592Z</sub>
 
 </div>

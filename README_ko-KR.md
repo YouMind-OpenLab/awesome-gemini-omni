@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **71** |
+| 📝 총 프롬프트 수 | **72** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-24** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 야생 다큐멘터리: 인사하는 아기 코끼리
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 카메라를 발견하고 진흙 위에 메시지를 쓰는 아기 코끼리를 담은 실감 나는 자연 다큐멘터리 스타일의 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+초고화질 야생 다큐멘터리 영상. 자연 다큐멘터리 촬영 감독이 강을 건너는 코끼리 가족을 촬영하고 있습니다. 모든 것이 평화로워 보이는 순간, 아기 코끼리 한 마리가 카메라를 발견합니다. 아기 코끼리는 나뭇가지를 집어 들더니 강가 진흙 위에 'HELLO'라고 적습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="야생 다큐멘터리: 인사하는 아기 코끼리">
+
+**[🎬 비디오 보기 →](https://x.com/vireonixx/status/2069347975986311341)**
+
+**작성자:** [Virena](https://x.com/vireonixx) | **출처:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **게시일:** Jun 23, 2026
+
+---
 ### 키네틱 타이포그래피 모션 그래픽
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1776,6 +1795,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-24T07:39:44.059Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-24T10:48:32.052Z</sub>
 
 </div>

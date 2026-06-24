@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **71** |
+| 📝 Total des prompts | **72** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-24** |
 
@@ -56,6 +56,25 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Documentaire animalier : un éléphanteau écrit « Bonjour »
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo cinématographique pour une scène de documentaire animalier réaliste mettant en scène un éléphanteau qui découvre une caméra et écrit un message dans la boue.
+
+#### 📝 Prompt
+
+```
+Images de documentaire animalier ultra-réalistes. Un photographe animalier filme une famille d'éléphants traversant une rivière. Tout semble tout à fait normal. Soudain, un éléphanteau remarque la caméra. Il ramasse un bâton. Dans la boue au bord de la rivière, il écrit : HELLO.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="Documentaire animalier : un éléphanteau écrit « Bonjour »">
+
+**[🎬 Voir la vidéo →](https://x.com/vireonixx/status/2069347975986311341)**
+
+**Auteur:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **Publié:** Jun 23, 2026
+
+---
 ### Motion Graphics de typographie cinétique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1776,6 +1795,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-24T07:39:48.916Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-24T10:48:36.827Z</sub>
 
 </div>

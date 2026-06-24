@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **71** |
+| 📝 Total Prompts | **72** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-24** |
 
@@ -56,6 +56,25 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Wildlife Documentary Baby Elephant Writes Hello
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video generation prompt for a realistic nature documentary scene featuring a baby elephant that discovers a camera and writes a message in the mud.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic wildlife documentary footage. A nature photographer films a family of elephants crossing a river. Everything appears completely normal. One baby elephant suddenly notices the camera. It picks up a stick. In the mud beside the river it writes: HELLO.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="Wildlife Documentary Baby Elephant Writes Hello">
+
+**[🎬 Watch Video →](https://x.com/vireonixx/status/2069347975986311341)**
+
+**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **Published:** Jun 23, 2026
+
+---
 ### Kinetic Typography Motion Graphics
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1755,6 +1774,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-24T07:39:41.401Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-24T10:48:29.404Z</sub>
 
 </div>

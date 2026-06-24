@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **71** |
+| 📝 Total de prompts | **72** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-06-24** |
 
@@ -56,6 +56,25 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Documental de vida silvestre: cría de elefante escribe un saludo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video cinematográfico para una escena realista de documental de naturaleza, donde una cría de elefante descubre una cámara y escribe un mensaje en el barro.
+
+#### 📝 Prompt
+
+```
+Metraje de documental de vida silvestre ultrarrealista. Un fotógrafo de naturaleza graba a una familia de elefantes cruzando un río. Todo parece completamente normal. De repente, una cría de elefante nota la cámara. Recoge una rama. En el barro junto al río, escribe: HELLO.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="Documental de vida silvestre: cría de elefante escribe un saludo">
+
+**[🎬 Ver video →](https://x.com/vireonixx/status/2069347975986311341)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Fuente:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **Publicado:** Jun 23, 2026
+
+---
 ### Gráficos en movimiento de tipografía cinética
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1776,6 +1795,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-24T07:39:46.749Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-24T10:48:34.682Z</sub>
 
 </div>
