@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **72** |
+| 📝 プロンプト総数 | **74** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-06-25** |
 
@@ -56,6 +56,44 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### Gemini Omni ダイナミックテキストアニメーション
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 散らばった文字が収束してタイトルを形成し、発光やパーティクルエフェクトを伴うモーショングラフィックスを作成するためのダイナミックなビデオプロンプトです。
+
+#### 📝 プロンプト
+
+```
+画面上にランダムに配置され浮遊する「G」「e」「m」「i」「n」「i」「O」「m」「n」「i」「T」「e」「x」「t」「A」「n」「i」「m」「e」の各文字が、次々と中央へ飛来し、「Gemini Omni Text Anime」という1行の文字列に整列するダイナミックなテキストアニメーション。白の太字サンセリフ体を使用し、各文字に個別の回転、発光、パーティクルエフェクトを適用。背景はソリッドグリーン、モーションブラーをかけ、完璧な整列でタイトルを表示する。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Gemini Omni ダイナミックテキストアニメーション">
+
+**[🎬 動画を見る →](https://x.com/applete77191758/status/2069735742902022592)**
+
+**作者:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **ソース:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **公開日:** Jun 24, 2026
+
+---
+### ドローン配送強盗チェイス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni 向けのハイアクションなシネマティック動画プロンプト。密集した都市部でのドローン同士による空中強盗と高速チェイスを描写します。
+
+#### 📝 プロンプト
+
+```
+荷物を運ぶ配送ドローン、空中強盗を試みる泥棒ドローン、密集した都市部での高速チェイス、ニアミス、急旋回、配達成功。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="ドローン配送強盗チェイス">
+
+**[🎬 動画を見る →](https://x.com/vireonixx/status/2069696802794954891)**
+
+**作者:** [Virena](https://x.com/vireonixx) | **ソース:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **公開日:** Jun 24, 2026
+
+---
 ### 野生動物ドキュメンタリー：挨拶をする子ゾウ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1795,6 +1833,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-25T07:41:17.007Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-25T10:40:54.828Z</sub>
 
 </div>

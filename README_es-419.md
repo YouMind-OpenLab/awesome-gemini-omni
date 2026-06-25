@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **72** |
+| 📝 Total de prompts | **74** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-06-25** |
 
@@ -56,6 +56,44 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Animación de texto dinámico Gemini Omni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de video dinámico para crear animaciones de texto en movimiento donde caracteres dispersos convergen para formar un título con efectos de brillo y partículas.
+
+#### 📝 Prompt
+
+```
+Una animación de texto dinámica donde los caracteres dispersos 'G', 'e', 'm', 'i', 'n', 'i', 'O', 'm', 'n', 'i', 'T', 'e', 'x', 't', 'A', 'n', 'i', 'm', 'e' (en japonés) se colocan aleatoriamente en la pantalla y flotan. Vuelan uno tras otro hacia el centro y se alinean en una sola fila como 'Gemini Omni Text Anime'. Fuente sans-serif blanca en negrita, rotación individual, efectos de brillo y partículas para cada carácter, fondo verde sólido, desenfoque de movimiento, revelación con alineación perfecta.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Animación de texto dinámico Gemini Omni">
+
+**[🎬 Ver video →](https://x.com/applete77191758/status/2069735742902022592)**
+
+**Autor:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **Fuente:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **Publicado:** Jun 24, 2026
+
+---
+### Persecución y robo de drones de entrega
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinemático de alta acción para Gemini Omni que representa un robo en el aire y una persecución a alta velocidad entre drones en una ciudad densa.
+
+#### 📝 Prompt
+
+```
+dron de entrega transportando un paquete, dron ladrón intenta un robo en el aire, persecución a alta velocidad a través de una ciudad densa, casi colisiones, giros cerrados, entrega exitosa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="Persecución y robo de drones de entrega">
+
+**[🎬 Ver video →](https://x.com/vireonixx/status/2069696802794954891)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Fuente:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **Publicado:** Jun 24, 2026
+
+---
 ### Documental de vida silvestre: Elefantito escribe un saludo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1795,6 +1833,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-25T07:41:19.693Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-25T10:40:58.836Z</sub>
 
 </div>

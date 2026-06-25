@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **72** |
+| 📝 Totale prompt | **74** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-25** |
 
@@ -56,6 +56,44 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Animazione dinamica del testo Gemini Omni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt video dinamico per creare animazioni di testo in movimento in cui i caratteri sparsi convergono per formare un titolo con effetti bagliore e particellari.
+
+#### 📝 Prompt
+
+```
+Un'animazione di testo dinamica in cui i caratteri sparsi 'G', 'e', 'm', 'i', 'n', 'i', 'O', 'm', 'n', 'i', 'T', 'e', 'x', 't', 'A', 'n', 'i', 'm', 'e' (in giapponese) sono posizionati casualmente sullo schermo e fluttuano. Volano uno dopo l'altro verso il centro e si allineano in un'unica riga formando 'Gemini Omni Text Anime'. Carattere sans-serif bianco in grassetto, rotazione individuale, effetti bagliore e particellari per ogni carattere, sfondo verde a tinta unita, motion blur, rivelazione con allineamento perfetto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Animazione dinamica del testo Gemini Omni">
+
+**[🎬 Guarda il video →](https://x.com/applete77191758/status/2069735742902022592)**
+
+**Autore:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **Fonte:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **Pubblicato:** Jun 24, 2026
+
+---
+### Inseguimento e rapina con droni per consegne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico ad alta azione per Gemini Omni che raffigura una rapina a mezz'aria e un inseguimento ad alta velocità tra droni in una città densamente popolata.
+
+#### 📝 Prompt
+
+```
+drone per consegne che trasporta un pacco, drone ladro tenta una rapina a mezz'aria, inseguimento ad alta velocità attraverso una città densa, collisioni sfiorate, curve strette, consegna completata con successo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="Inseguimento e rapina con droni per consegne">
+
+**[🎬 Guarda il video →](https://x.com/vireonixx/status/2069696802794954891)**
+
+**Autore:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **Pubblicato:** Jun 24, 2026
+
+---
 ### Documentario naturalistico: un cucciolo di elefante scrive "Ciao"
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1795,6 +1833,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-25T07:41:20.887Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-25T10:41:00.771Z</sub>
 
 </div>

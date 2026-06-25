@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **72** |
+| 📝 Gesamtanzahl Prompts | **74** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-25** |
 
@@ -56,6 +56,44 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Gemini Omni Dynamische Textanimation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein dynamischer Video-Prompt zur Erstellung von bewegten Textanimationen, bei denen verstreute Zeichen zusammenlaufen, um einen Titel mit Glüh- und Partikeleffekten zu bilden.
+
+#### 📝 Prompt
+
+```
+Eine dynamische Textanimation, bei der die verstreuten Zeichen 'G', 'e', 'm', 'i', 'n', 'i', 'O', 'm', 'n', 'i', 'T', 'e', 'x', 't', 'A', 'n', 'i', 'm', 'e' (auf Japanisch) zufällig auf dem Bildschirm platziert sind und schweben. Sie fliegen nacheinander in die Mitte und ordnen sich in einer einzigen Reihe als 'Gemini Omni Text Anime' an. Weiße, fette serifenlose Schrift, individuelle Rotation, Glüh- und Partikeleffekte für jedes Zeichen, einfarbiger grüner Hintergrund, Bewegungsunschärfe, Enthüllung durch perfekte Ausrichtung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Gemini Omni Dynamische Textanimation">
+
+**[🎬 Video ansehen →](https://x.com/applete77191758/status/2069735742902022592)**
+
+**Autor:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **Quelle:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **Veröffentlicht:** Jun 24, 2026
+
+---
+### Verfolgungsjagd bei Drohnen-Lieferung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein actiongeladener, filmischer Video-Prompt für Gemini Omni, der einen Raubüberfall in der Luft und eine Hochgeschwindigkeits-Verfolgungsjagd zwischen Drohnen in einer dicht besiedelten Stadt darstellt.
+
+#### 📝 Prompt
+
+```
+Lieferdrohne mit Paket, Diebesdrohne versucht einen Raubüberfall in der Luft, Hochgeschwindigkeits-Verfolgungsjagd durch eine dicht besiedelte Stadt, Beinahe-Zusammenstöße, scharfe Kurven, erfolgreiche Zustellung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="Verfolgungsjagd bei Drohnen-Lieferung">
+
+**[🎬 Video ansehen →](https://x.com/vireonixx/status/2069696802794954891)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **Veröffentlicht:** Jun 24, 2026
+
+---
 ### Wildlife-Dokumentation: Elefantenbaby schreibt „Hallo“
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1795,6 +1833,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-25T07:41:20.082Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-25T10:40:59.497Z</sub>
 
 </div>

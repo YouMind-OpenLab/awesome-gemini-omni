@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **72** |
+| 📝 Total des prompts | **74** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-25** |
 
@@ -56,6 +56,44 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Animation de texte dynamique Gemini Omni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt vidéo dynamique pour créer des animations de texte en mouvement où des caractères dispersés convergent pour former un titre avec des effets de lueur et de particules.
+
+#### 📝 Prompt
+
+```
+Une animation de texte dynamique où les caractères dispersés « G », « e », « m », « i », « n », « i », « O », « m », « n », « i », « T », « e », « x », « t », « A », « n », « i », « m », « e » (en japonais) sont placés de manière aléatoire sur l'écran et flottent. Ils volent les uns après les autres vers le centre et s'alignent sur une seule ligne pour former « Gemini Omni Text Anime ». Police sans-serif grasse blanche, rotation individuelle, effets de lueur et de particules pour chaque caractère, fond vert uni, flou de mouvement, révélation par alignement parfait.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Animation de texte dynamique Gemini Omni">
+
+**[🎬 Voir la vidéo →](https://x.com/applete77191758/status/2069735742902022592)**
+
+**Auteur:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **Source:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **Publié:** Jun 24, 2026
+
+---
+### Course-poursuite et vol de drone de livraison
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique riche en action pour Gemini Omni, illustrant un vol en plein vol et une course-poursuite à grande vitesse entre des drones dans une ville dense.
+
+#### 📝 Prompt
+
+```
+drone de livraison transportant un colis, drone voleur tentant un braquage en plein vol, course-poursuite à grande vitesse à travers une ville dense, quasi-collisions, virages serrés, livraison réussie.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="Course-poursuite et vol de drone de livraison">
+
+**[🎬 Voir la vidéo →](https://x.com/vireonixx/status/2069696802794954891)**
+
+**Auteur:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **Publié:** Jun 24, 2026
+
+---
 ### Documentaire animalier : un éléphanteau écrit « Bonjour »
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1795,6 +1833,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-25T07:41:20.485Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-25T10:41:00.118Z</sub>
 
 </div>

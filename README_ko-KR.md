@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **72** |
+| 📝 총 프롬프트 수 | **74** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-25** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Gemini Omni 동적 텍스트 애니메이션
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 흩어진 글자들이 모여 빛과 입자 효과가 적용된 제목을 형성하는 모션 텍스트 애니메이션을 위한 동적 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+'G', 'e', 'm', 'i', 'n', 'i', 'O', 'm', 'n', 'i', 'T', 'e', 'x', 't', 'A', 'n', 'i', 'm', 'e'(일본어) 문자들이 화면에 무작위로 배치되어 떠다니는 동적 텍스트 애니메이션입니다. 각 문자가 차례대로 중앙을 향해 날아가 'Gemini Omni Text Anime'라는 한 줄로 정렬됩니다. 흰색 볼드 산세리프 서체, 각 문자별 개별 회전, 빛 및 입자 효과, 단색 녹색 배경, 모션 블러, 완벽한 정렬로 나타나는 효과를 포함합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Gemini Omni 동적 텍스트 애니메이션">
+
+**[🎬 비디오 보기 →](https://x.com/applete77191758/status/2069735742902022592)**
+
+**작성자:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **출처:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **게시일:** Jun 24, 2026
+
+---
+### 드론 배송 강탈 추격전
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 밀집된 도시를 배경으로 드론 간의 공중 강탈과 고속 추격전을 묘사한 Gemini Omni용 고액션 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+택배를 운반하는 배송 드론, 공중 강탈을 시도하는 도둑 드론, 밀집된 도시를 가로지르는 고속 추격전, 아슬아슬한 충돌 위기, 급회전, 성공적인 배송.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="드론 배송 강탈 추격전">
+
+**[🎬 비디오 보기 →](https://x.com/vireonixx/status/2069696802794954891)**
+
+**작성자:** [Virena](https://x.com/vireonixx) | **출처:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **게시일:** Jun 24, 2026
+
+---
 ### 야생 다큐멘터리: 인사하는 아기 코끼리
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1795,6 +1833,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-25T07:41:17.418Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-25T10:40:55.493Z</sub>
 
 </div>

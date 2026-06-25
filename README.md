@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **72** |
+| 📝 Total Prompts | **74** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-25** |
 
@@ -56,6 +56,44 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Gemini Omni Dynamic Text Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A dynamic video prompt for creating motion text animations where scattered characters converge to form a title with glow and particle effects.
+
+#### 📝 Prompt
+
+```
+A dynamic text animation where the scattered characters 'G', 'e', 'm', 'i', 'n', 'i', 'O', 'm', 'n', 'i', 'T', 'e', 'x', 't', 'A', 'n', 'i', 'm', 'e' (in Japanese) are randomly placed on the screen and float. They fly one after another toward the center and align in a single row as 'Gemini Omni Text Anime'. White bold sans-serif, individual rotation, glow, and particle effects for each character, solid green background, motion blur, perfect alignment reveal.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Gemini Omni Dynamic Text Animation">
+
+**[🎬 Watch Video →](https://x.com/applete77191758/status/2069735742902022592)**
+
+**Author:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **Source:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **Published:** Jun 24, 2026
+
+---
+### Drone Delivery Robbery Chase
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-action cinematic video prompt for Gemini Omni depicting a mid-air robbery and high-speed chase between drones in a dense city.
+
+#### 📝 Prompt
+
+```
+delivery drone carrying a package, thief drone attempts a mid-air robbery, high-speed chase through a dense city, near collisions, sharp turns, successful delivery.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="Drone Delivery Robbery Chase">
+
+**[🎬 Watch Video →](https://x.com/vireonixx/status/2069696802794954891)**
+
+**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **Published:** Jun 24, 2026
+
+---
 ### Wildlife Documentary Baby Elephant Writes Hello
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1774,6 +1812,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-25T07:41:15.789Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-25T10:40:52.828Z</sub>
 
 </div>

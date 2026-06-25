@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **72** |
+| 📝 提示詞總數 | **74** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-25** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Gemini Omni 動態文字動畫
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一個用於製作動態文字動畫的影片提示詞，讓散落的字元匯聚並形成帶有發光與粒子效果的標題。
+
+#### 📝 提示詞
+
+```
+一個動態文字動畫，畫面中散落著「G」、「e」、「m」、「i」、「n」、「i」、「O」、「m」、「n」、「i」、「T」、「e」、「x」、「t」、「A」、「n」、「i」、「m」、「e」（日文）等字元，它們在螢幕上隨機分佈並漂浮。隨後，這些字元逐一飛向畫面中心，並排列成「Gemini Omni Text Anime」一行。採用白色粗體無襯線字體，每個字元皆具備獨立旋轉、發光與粒子效果，背景為純綠色，並帶有動態模糊與精準對齊的顯現效果。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Gemini Omni 動態文字動畫">
+
+**[🎬 觀看視頻 →](https://x.com/applete77191758/status/2069735742902022592)**
+
+**作者:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **來源:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **發布時間:** Jun 24, 2026
+
+---
+### 無人機快遞搶劫追逐戰
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為 Gemini Omni 設計的高動作電影感影片提示詞，描繪了在人口稠密的城市中，無人機之間的空中搶劫與高速追逐場面。
+
+#### 📝 提示詞
+
+```
+運送包裹的快遞無人機，竊賊無人機嘗試進行空中搶劫，在人口稠密的城市中展開高速追逐，驚險的擦撞、急轉彎，最終成功送達。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="無人機快遞搶劫追逐戰">
+
+**[🎬 觀看視頻 →](https://x.com/vireonixx/status/2069696802794954891)**
+
+**作者:** [Virena](https://x.com/vireonixx) | **來源:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **發布時間:** Jun 24, 2026
+
+---
 ### 野生動物紀錄片：小象寫下「你好」
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1795,6 +1833,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-25T07:41:16.592Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-25T10:40:54.188Z</sub>
 
 </div>

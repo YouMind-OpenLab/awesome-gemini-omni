@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **72** |
+| 📝 Toplam İstem | **74** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-25** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Gemini Omni Dinamik Metin Animasyonu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Dağınık karakterlerin bir araya gelerek parlama ve parçacık efektleriyle bir başlık oluşturduğu hareketli metin animasyonları oluşturmaya yönelik dinamik bir video istemi.
+
+#### 📝 İstem
+
+```
+Ekrana rastgele yerleştirilmiş ve süzülen 'G', 'e', 'm', 'i', 'n', 'i', 'O', 'm', 'n', 'i', 'T', 'e', 'x', 't', 'A', 'n', 'i', 'm', 'e' (Japonca) karakterlerinin yer aldığı dinamik bir metin animasyonu. Karakterler birbiri ardına merkeze doğru uçar ve 'Gemini Omni Text Anime' şeklinde tek bir satırda hizalanır. Beyaz, kalın, sans-serif yazı tipi; her karakter için ayrı dönüş, parlama ve parçacık efektleri; düz yeşil arka plan, hareket bulanıklığı ve mükemmel hizalama ile ortaya çıkış.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Gemini Omni Dinamik Metin Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/applete77191758/status/2069735742902022592)**
+
+**Yazar:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **Kaynak:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **Yayınlandı:** Jun 24, 2026
+
+---
+### Drone ile Teslimat Soygunu Takibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni için, yoğun bir şehirde dronlar arasında geçen havada soygunu ve yüksek hızlı takibi konu alan, yüksek aksiyonlu sinematik video istemi.
+
+#### 📝 İstem
+
+```
+paket taşıyan teslimat dronu, hırsız dronun havada soygun girişimi, yoğun bir şehirde yüksek hızlı takip, kıl payı çarpışmalar, keskin dönüşler, başarılı teslimat.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="Drone ile Teslimat Soygunu Takibi">
+
+**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2069696802794954891)**
+
+**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **Yayınlandı:** Jun 24, 2026
+
+---
 ### Vahşi Yaşam Belgeseli: Yavru Fil Merhaba Yazıyor
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1795,6 +1833,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-25T07:41:22.281Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-25T10:41:02.592Z</sub>
 
 </div>

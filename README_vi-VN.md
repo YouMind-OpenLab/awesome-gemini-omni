@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **72** |
+| 📝 Tổng số prompt | **74** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-25** |
 
@@ -56,6 +56,44 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hoạt ảnh văn bản động Gemini Omni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một video prompt động giúp tạo các hiệu ứng chuyển động văn bản, nơi các ký tự phân tán hội tụ để tạo thành tiêu đề với hiệu ứng phát sáng và hạt.
+
+#### 📝 Prompt
+
+```
+Một hiệu ứng hoạt ảnh văn bản động, nơi các ký tự phân tán 'G', 'e', 'm', 'i', 'n', 'i', 'O', 'm', 'n', 'i', 'T', 'e', 'x', 't', 'A', 'n', 'i', 'm', 'e' (bằng tiếng Nhật) được đặt ngẫu nhiên trên màn hình và trôi nổi. Chúng lần lượt bay về phía trung tâm và xếp thành một hàng duy nhất với nội dung 'Gemini Omni Text Anime'. Phông chữ không chân (sans-serif) đậm màu trắng, mỗi ký tự có hiệu ứng xoay riêng, phát sáng và hiệu ứng hạt, nền xanh lá cây đồng nhất, hiệu ứng nhòe chuyển động (motion blur), hiển thị căn chỉnh hoàn hảo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Hoạt ảnh văn bản động Gemini Omni">
+
+**[🎬 Xem video →](https://x.com/applete77191758/status/2069735742902022592)**
+
+**Tác giả:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **Nguồn:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **Đã xuất bản:** Jun 24, 2026
+
+---
+### Cuộc rượt đuổi cướp drone giao hàng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh hành động cao dành cho Gemini Omni, mô tả một vụ cướp giữa không trung và cuộc rượt đuổi tốc độ cao giữa các drone trong một thành phố đông đúc.
+
+#### 📝 Prompt
+
+```
+drone giao hàng đang mang theo một kiện hàng, drone kẻ trộm cố gắng thực hiện vụ cướp giữa không trung, cuộc rượt đuổi tốc độ cao xuyên qua thành phố đông đúc, suýt va chạm, những khúc cua gấp, giao hàng thành công.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="Cuộc rượt đuổi cướp drone giao hàng">
+
+**[🎬 Xem video →](https://x.com/vireonixx/status/2069696802794954891)**
+
+**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **Đã xuất bản:** Jun 24, 2026
+
+---
 ### Phim tài liệu về động vật hoang dã: Voi con viết lời chào
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1795,6 +1833,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-25T07:41:18.411Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-25T10:40:56.801Z</sub>
 
 </div>
