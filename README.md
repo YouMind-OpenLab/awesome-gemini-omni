@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **74** |
+| 📝 Total Prompts | **75** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-26** |
 
@@ -56,6 +56,26 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### 3D Meditation Animation Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A structured multi-scene prompt for Gemini Omni Flash that generates a 3D animation of a character meditating in nature and speaking about its importance.
+
+#### 📝 Prompt
+
+```
+0-10 seconds - Side view of @ gex practicing meditation in nature at dusk
+10-20 - continue from the last frame of the video - he talks about the importance of meditation
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="3D Meditation Animation Sequence">
+
+**[🎬 Watch Video →](https://x.com/sebatheepan/status/2070155888912953761)**
+
+**Author:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **Published:** Jun 25, 2026
+
+---
 ### Gemini Omni Dynamic Text Animation
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1812,6 +1832,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-26T07:51:34.880Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-26T10:50:14.051Z</sub>
 
 </div>

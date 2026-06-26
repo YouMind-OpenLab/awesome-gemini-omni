@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **74** |
+| 📝 プロンプト総数 | **75** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-06-26** |
 
@@ -56,6 +56,26 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 3D 瞑想アニメーションシーケンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 自然の中で瞑想し、その重要性について語るキャラクターの 3D アニメーションを生成するための、Gemini Omni Flash 向け構造化マルチシーンプロンプトです。
+
+#### 📝 プロンプト
+
+```
+0 ～ 10 秒 - 夕暮れの自然の中で瞑想する @ gex の側面図
+10 ～ 20 秒 - 前の動画の最後のフレームから継続 - 彼が瞑想の重要性について語る
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="3D 瞑想アニメーションシーケンス">
+
+**[🎬 動画を見る →](https://x.com/sebatheepan/status/2070155888912953761)**
+
+**作者:** [Pan](https://x.com/sebatheepan) | **ソース:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **公開日:** Jun 25, 2026
+
+---
 ### Gemini Omni ダイナミックテキストアニメーション
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1833,6 +1853,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-26T07:51:37.086Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-26T10:50:16.927Z</sub>
 
 </div>

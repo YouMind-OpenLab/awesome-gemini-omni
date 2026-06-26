@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **74** |
+| 📝 提示詞總數 | **75** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-26** |
 
@@ -56,6 +56,26 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 3D 冥想動畫序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個為 Gemini Omni Flash 設計的結構化多場景提示詞，用於生成一段 3D 動畫，內容為一個角色在自然環境中冥想並講述其重要性。
+
+#### 📝 提示詞
+
+```
+0-10 秒 - 側面視角，@ gex 在黃昏的自然環境中練習冥想
+10-20 秒 - 從影片的最後一幀繼續 - 他講述冥想的重要性
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="3D 冥想動畫序列">
+
+**[🎬 觀看視頻 →](https://x.com/sebatheepan/status/2070155888912953761)**
+
+**作者:** [Pan](https://x.com/sebatheepan) | **來源:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **發布時間:** Jun 25, 2026
+
+---
 ### Gemini Omni 動態文字動畫
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1833,6 +1853,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-26T07:51:36.228Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-26T10:50:15.984Z</sub>
 
 </div>

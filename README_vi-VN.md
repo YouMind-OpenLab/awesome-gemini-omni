@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **74** |
+| 📝 Tổng số prompt | **75** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-26** |
 
@@ -56,6 +56,26 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Chuỗi hoạt ảnh thiền định 3D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một cấu trúc câu lệnh đa cảnh dành cho Gemini Omni Flash giúp tạo hoạt ảnh 3D về một nhân vật đang thiền định giữa thiên nhiên và chia sẻ về tầm quan trọng của việc thiền.
+
+#### 📝 Prompt
+
+```
+0-10 giây - Góc nhìn nghiêng của @ gex đang thực hành thiền định giữa thiên nhiên vào lúc hoàng hôn
+10-20 giây - tiếp tục từ khung hình cuối của video - nhân vật nói về tầm quan trọng của việc thiền định
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="Chuỗi hoạt ảnh thiền định 3D">
+
+**[🎬 Xem video →](https://x.com/sebatheepan/status/2070155888912953761)**
+
+**Tác giả:** [Pan](https://x.com/sebatheepan) | **Nguồn:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **Đã xuất bản:** Jun 25, 2026
+
+---
 ### Hoạt ảnh văn bản động Gemini Omni
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1833,6 +1853,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-26T07:51:38.992Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-26T10:50:19.779Z</sub>
 
 </div>

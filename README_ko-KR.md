@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **74** |
+| 📝 총 프롬프트 수 | **75** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-26** |
 
@@ -56,6 +56,26 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 3D 명상 애니메이션 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 자연 속에서 명상하며 그 중요성에 대해 이야기하는 캐릭터의 3D 애니메이션을 생성하기 위한 Gemini Omni Flash용 구조화된 멀티 씬 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+0-10초 - 해 질 녘 자연 속에서 명상하는 @ gex 의 측면 모습
+10-20초 - 이전 영상의 마지막 프레임에서 이어짐 - 그가 명상의 중요성에 대해 이야기함
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="3D 명상 애니메이션 시퀀스">
+
+**[🎬 비디오 보기 →](https://x.com/sebatheepan/status/2070155888912953761)**
+
+**작성자:** [Pan](https://x.com/sebatheepan) | **출처:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **게시일:** Jun 25, 2026
+
+---
 ### Gemini Omni 동적 텍스트 애니메이션
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1833,6 +1853,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-26T07:51:37.968Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-26T10:50:18.033Z</sub>
 
 </div>

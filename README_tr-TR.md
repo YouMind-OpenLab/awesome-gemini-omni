@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **74** |
+| 📝 Toplam İstem | **75** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-26** |
 
@@ -56,6 +56,26 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### 3D Meditasyon Animasyon Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Doğada meditasyon yapan ve meditasyonun öneminden bahseden bir karakterin 3D animasyonunu oluşturan, Gemini Omni Flash için yapılandırılmış çok sahneli bir istem.
+
+#### 📝 İstem
+
+```
+0-10 saniye - Alacakaranlıkta doğada meditasyon yapan @ gex'in yandan görünümü
+10-20 saniye - videonun son karesinden devam et - meditasyonun önemi hakkında konuşuyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="3D Meditasyon Animasyon Sekansı">
+
+**[🎬 Videoyu izle →](https://x.com/sebatheepan/status/2070155888912953761)**
+
+**Yazar:** [Pan](https://x.com/sebatheepan) | **Kaynak:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **Yayınlandı:** Jun 25, 2026
+
+---
 ### Gemini Omni Dinamik Metin Animasyonu
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -1833,6 +1853,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-26T07:51:44.803Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-26T10:50:28.494Z</sub>
 
 </div>
