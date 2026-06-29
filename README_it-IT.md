@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **75** |
+| 📝 Totale prompt | **77** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-29** |
 
@@ -56,6 +56,44 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Animazione in stop-motion di un ricamo a forma di drago
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per un'animazione in stop-motion che mostra un ricamo automatico di un drago su tessuto di cotone giallo, con dettagli tattili del filo.
+
+#### 📝 Prompt
+
+```
+Animazione in stop-motion di un ricamo che si realizza da solo su un tessuto di cotone giallo. L'illustrazione di un potente drago intrappolato dietro pesanti sbarre di ferro si ricama da sola, utilizzando brevi punti raso che si accumulano fotogramma dopo fotogramma. Il filo da ricamo in rilievo, con le singole fibre visibili, cattura la luce del giorno soffusa e diffusa mentre i fili si intrecciano progressivamente. Man mano che il drago prende forma, fiamme cremisi vivide, volute di fumo scuro e pesanti catene si ricamano attorno ad esso per incorniciare il soggetto. Il testo ricamato "Release Claude Fable 5" si compone nello spazio vuoto con un carattere audace e nitido. Cadenza stop-motion leggermente tremolante, con ogni punto che si stringe e si blocca nella trama del cotone. Niente mani, niente ago, niente telaio, niente rocchetto, solo il tessuto e i fili che si formano da soli. Ripresa macro dall'alto. Audio diegetico soffuso del fruscio del tessuto e lievi tocchi del filo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071272244224151552/img/xLsuFaQkWtWvxebs.jpg" width="600" alt="Animazione in stop-motion di un ricamo a forma di drago">
+
+**[🎬 Guarda il video →](https://x.com/HarshithLucky3/status/2071272516379943218)**
+
+**Autore:** [Harshith](https://x.com/HarshithLucky3) | **Fonte:** [Link](https://x.com/HarshithLucky3/status/2071272516379943218) | **Pubblicato:** Jun 28, 2026
+
+---
+### Animazione di un gatto in gelatina blu zaffiro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico per generare un'animazione di alta qualità di un gatto scolpito in gelatina che salta sopra una piscina di gelatina, con fisica realistica e tracciamento macro della fotocamera.
+
+#### 📝 Prompt
+
+```
+Una piscina cristallina fatta interamente di gelatina blu zaffiro traslucida su uno sfondo a gradiente bianco pulito. Un gatto giocoso, scolpito nella stessa gelatina blu zaffiro, corre con grazia sulla superficie della gelatina prima di compiere un elegante salto al rallentatore sopra la piscina. Ogni passo crea oscillazioni soddisfacenti, increspature elastiche e lucidi schizzi di gelatina. Il gatto atterra dolcemente, con il corpo e la coda che rimbalzano grazie a una fisica della gelatina realistica. La fotocamera inizia con un primo piano macro della superficie scintillante della gelatina, segue fluidamente il gatto durante la corsa e il salto, per poi allontanarsi delicatamente rivelando l'intera piscina. Una morbida illuminazione da studio esalta la consistenza traslucida, i riflessi lucidi e il realistico subsurface scattering. Estetica da fotografia gastronomica ultra pulita e curata, immagini ASMR ipnotiche, fisica della gelatina altamente realistica, cinematografico, ripresa continua di 10 secondi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071247391442001920/img/_JAqcbmD5Z_pM1k0.jpg" width="600" alt="Animazione di un gatto in gelatina blu zaffiro">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2071247539161170223)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Pubblicato:** Jun 28, 2026
+
+---
 ### Sequenza di animazione 3D per la meditazione
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1853,6 +1891,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-29T08:58:15.779Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-29T15:44:04.024Z</sub>
 
 </div>

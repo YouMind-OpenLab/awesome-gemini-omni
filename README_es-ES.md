@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **75** |
+| 📝 Total de prompts | **77** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-06-29** |
 
@@ -56,6 +56,44 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Animación de bordado stop-motion de un dragón
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para una animación stop-motion que muestra el bordado automático de un dragón sobre tela de algodón amarilla con detalles de hilo táctiles.
+
+#### 📝 Prompt
+
+```
+Animación stop-motion de un bordado que se realiza solo sobre tela de algodón amarilla. La ilustración de un poderoso dragón atrapado tras los barrotes de una pesada cárcel se va cosiendo a sí misma, utilizando puntadas de satén cortas que se acumulan fotograma a fotograma. El hilo con relieve y sus hebras individuales captan la suave luz natural difusa a medida que las puntadas se forman progresivamente. Mientras el dragón toma forma, llamas de un carmesí intenso, volutas de humo oscuro y diseños de cadenas pesadas se bordan alrededor para enmarcar al sujeto. El texto bordado "Release Claude Fable 5" se cose en el espacio vacío con una tipografía negrita y nítida. Cadencia de stop-motion ligeramente inestable, con cada puntada apretándose y fijándose en la textura del algodón tejido. Sin manos, sin agujas, sin bastidor, sin carretes, solo la tela y los hilos que se forman por sí mismos. Toma macro cenital. Audio diegético suave de susurros de tela y ligeros toques de hilo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071272244224151552/img/xLsuFaQkWtWvxebs.jpg" width="600" alt="Animación de bordado stop-motion de un dragón">
+
+**[🎬 Ver video →](https://x.com/HarshithLucky3/status/2071272516379943218)**
+
+**Autor:** [Harshith](https://x.com/HarshithLucky3) | **Fuente:** [Link](https://x.com/HarshithLucky3/status/2071272516379943218) | **Publicado:** Jun 28, 2026
+
+---
+### Animación de gato de gelatina azul zafiro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico para generar una animación de alta calidad de un gato esculpido en gelatina saltando sobre una piscina de gelatina, con física realista y seguimiento de cámara macro.
+
+#### 📝 Prompt
+
+```
+Una piscina cristalina hecha completamente de gelatina azul zafiro translúcida sobre un fondo de degradado blanco limpio. Un gato juguetón esculpido en la misma gelatina azul zafiro corre con gracia sobre la superficie de gelatina antes de dar un elegante salto en cámara lenta sobre la piscina. Cada paso crea oscilaciones satisfactorias, ondas elásticas y salpicaduras de gelatina brillante. El gato aterriza suavemente, con su cuerpo y cola rebotando con una física de gelatina realista. La cámara comienza con un primer plano macro de la superficie de gelatina brillante, sigue suavemente al gato durante la carrera y el salto, y luego se aleja suavemente para revelar toda la piscina. La iluminación de estudio suave realza la textura translúcida, los reflejos brillantes y la dispersión subsuperficial realista. Estética de fotografía gastronómica ultra limpia y dirigida, visuales ASMR fascinantes, física de gelatina altamente realista, cinematográfico, toma fluida de 10 segundos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071247391442001920/img/_JAqcbmD5Z_pM1k0.jpg" width="600" alt="Animación de gato de gelatina azul zafiro">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2071247539161170223)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Publicado:** Jun 28, 2026
+
+---
 ### Secuencia de animación 3D de meditación
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1853,6 +1891,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-29T08:58:12.118Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-06-29T15:44:01.903Z</sub>
 
 </div>

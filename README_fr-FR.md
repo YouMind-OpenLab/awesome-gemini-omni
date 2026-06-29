@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **75** |
+| 📝 Total des prompts | **77** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-29** |
 
@@ -56,6 +56,44 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Animation en stop-motion de broderie de dragon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'animation en stop-motion détaillé montrant la broderie automatique d'un dragon sur un tissu en coton jaune avec des détails de fils tactiles.
+
+#### 📝 Prompt
+
+```
+Animation en stop-motion de broderie automatique sur un tissu en coton jaune. L'illustration d'un puissant dragon enfermé derrière de lourdes barreaux de prison en fer se brode elle-même, utilisant de courts points de satin qui s'accumulent image par image. Le fil en relief, avec ses brins individuels, capte une lumière du jour douce et diffuse à mesure que les fils se forment progressivement. Tandis que le dragon prend forme, des flammes cramoisies vives, des volutes de fumée sombre et des motifs de chaînes lourdes se brodent autour de lui pour encadrer le sujet. Le texte brodé « Release Claude Fable 5 » s'inscrit dans l'espace vide avec une écriture audacieuse et nette. Cadence de stop-motion légèrement saccadée, chaque point se resserrant et se verrouillant dans la texture du coton tissé. Pas de mains, pas d'aiguille, pas de tambour, pas de bobine, seulement le tissu et les fils qui se forment d'eux-mêmes. Prise de vue macro en plongée. Audio diégétique doux de bruissement de tissu et de légers tapotements de fil.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071272244224151552/img/xLsuFaQkWtWvxebs.jpg" width="600" alt="Animation en stop-motion de broderie de dragon">
+
+**[🎬 Voir la vidéo →](https://x.com/HarshithLucky3/status/2071272516379943218)**
+
+**Auteur:** [Harshith](https://x.com/HarshithLucky3) | **Source:** [Link](https://x.com/HarshithLucky3/status/2071272516379943218) | **Publié:** Jun 28, 2026
+
+---
+### Animation d'un chat en gelée bleu saphir
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique pour générer une animation de haute qualité d'un chat sculpté en gelée sautant au-dessus d'une piscine de gelée, avec une physique réaliste et un suivi de caméra macro.
+
+#### 📝 Prompt
+
+```
+Une piscine cristalline entièrement faite de gelée bleu saphir translucide sur un fond dégradé blanc épuré. Un chat espiègle sculpté dans la même gelée bleu saphir court avec grâce sur la surface avant d'effectuer un élégant saut au ralenti au-dessus de la piscine. Chaque pas crée des oscillations satisfaisantes, des ondulations élastiques et des éclaboussures de gelée brillantes. Le chat atterrit en douceur, son corps et sa queue rebondissant avec une physique de gelée réaliste. La caméra commence par un gros plan macro de la surface scintillante, suit le chat avec fluidité pendant sa course et son saut, puis recule doucement pour révéler l'ensemble de la piscine. Un éclairage de studio doux met en valeur la texture translucide, les reflets brillants et la diffusion sous-surfacique réaliste. Esthétique de photographie culinaire ultra-propre et dirigée, visuels ASMR fascinants, physique de gelée hautement réaliste, cinématographique, plan fluide de 10 secondes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071247391442001920/img/_JAqcbmD5Z_pM1k0.jpg" width="600" alt="Animation d'un chat en gelée bleu saphir">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2071247539161170223)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Publié:** Jun 28, 2026
+
+---
 ### Séquence d'animation 3D de méditation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1853,6 +1891,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-29T08:58:14.720Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-29T15:44:03.517Z</sub>
 
 </div>

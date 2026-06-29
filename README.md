@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **75** |
+| 📝 Total Prompts | **77** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-29** |
 
@@ -56,6 +56,44 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Stop-Motion Embroidery Dragon Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed stop-motion animation prompt showing self-stitching embroidery of a dragon onto yellow cotton fabric with tactile thread details.
+
+#### 📝 Prompt
+
+```
+Stop-motion animation of self-stitching embroidery onto yellow cotton cloth. An illustration of a powerful dragon trapped behind heavy iron jail bars stitches itself into existence, using short satin stitches accumulating frame by frame. The raised tactile floss with individual thread strands catches soft diffused daylight as the threads build progressively. As the dragon forms, vivid crimson flames, dark smoke curls, and heavy chain designs stitch themselves around it to frame the subject. The embroidered text "Release Claude Fable 5" stitches into the empty space in a bold, sharp script. Slightly jittery stop-motion cadence, each stitch tightening and locking into the woven cotton texture. No hands, no needle, no hoop, no spool, only the fabric and self-forming threads. Top-down flat macro shot. Soft diegetic audio of fabric rustle and faint thread taps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071272244224151552/img/xLsuFaQkWtWvxebs.jpg" width="600" alt="Stop-Motion Embroidery Dragon Animation">
+
+**[🎬 Watch Video →](https://x.com/HarshithLucky3/status/2071272516379943218)**
+
+**Author:** [Harshith](https://x.com/HarshithLucky3) | **Source:** [Link](https://x.com/HarshithLucky3/status/2071272516379943218) | **Published:** Jun 28, 2026
+
+---
+### Sapphire Blue Jello Cat Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for generating a high-quality animation of a jello-sculpted cat leaping over a jello swimming pool with realistic physics and macro camera tracking.
+
+#### 📝 Prompt
+
+```
+A crystal-clear swimming pool made entirely of translucent sapphire blue jello on a clean white gradient background. A playful cat sculpted from the same sapphire blue jello gracefully sprints across the jello surface before making an elegant slow-motion leap over the pool. Every pawstep creates satisfying wobbles, stretchy ripples, and glossy jello splashes. The cat lands softly, its body and tail bouncing with realistic jello physics. The camera begins with a macro close-up of the shimmering jello surface, smoothly tracks the cat during the run and jump, then gently pulls back to reveal the entire pool. Soft studio lighting enhances the translucent texture, glossy reflections, and realistic subsurface scattering. Ultra clean art-directed food photography aesthetic, mesmerizing ASMR visuals, highly realistic jello physics, cinematic, seamless 10-second shot.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071247391442001920/img/_JAqcbmD5Z_pM1k0.jpg" width="600" alt="Sapphire Blue Jello Cat Animation">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2071247539161170223)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Published:** Jun 28, 2026
+
+---
 ### 3D Meditation Animation Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1832,6 +1870,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T08:58:04.003Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-29T15:43:57.532Z</sub>
 
 </div>

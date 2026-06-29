@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **75** |
+| 📝 Toplam İstem | **77** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-29** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Stop-Motion Nakış Ejderha Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sarı pamuklu kumaş üzerine kendi kendine işlenen, dokunsal iplik detaylarına sahip bir ejderha nakışını gösteren ayrıntılı stop-motion animasyon istemi.
+
+#### 📝 İstem
+
+```
+Sarı pamuklu kumaş üzerine kendi kendine işlenen nakışın stop-motion animasyonu. Ağır demir parmaklıkların ardına hapsedilmiş güçlü bir ejderha illüstrasyonu, kare kare biriken kısa saten dikişler kullanarak kendi kendini var ediyor. Kabartmalı ve dokunsal iplikler, iplikler giderek belirginleşirken yumuşak ve dağılmış gün ışığını yakalıyor. Ejderha şekillenirken, canlı kızıl alevler, koyu duman kıvrımları ve ağır zincir tasarımları, özneyi çerçevelemek için etrafına işleniyor. "Release Claude Fable 5" nakış metni, boş alana kalın ve keskin bir yazı tipiyle işleniyor. Hafif sarsıntılı stop-motion ritmi, her dikiş dokuma pamuk dokusuna sıkıca oturuyor ve kilitleniyor. El yok, iğne yok, kasnak yok, makara yok; sadece kumaş ve kendi kendine oluşan iplikler var. Yukarıdan aşağıya düz makro çekim. Kumaş hışırtısı ve hafif iplik tıkırtılarından oluşan yumuşak diegetik ses.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071272244224151552/img/xLsuFaQkWtWvxebs.jpg" width="600" alt="Stop-Motion Nakış Ejderha Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/HarshithLucky3/status/2071272516379943218)**
+
+**Yazar:** [Harshith](https://x.com/HarshithLucky3) | **Kaynak:** [Link](https://x.com/HarshithLucky3/status/2071272516379943218) | **Yayınlandı:** Jun 28, 2026
+
+---
+### Safir Mavisi Jöle Kedi Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gerçekçi fizik kuralları ve makro kamera takibi ile jöleden yapılmış bir kedinin jöle havuzunun üzerinden atladığı yüksek kaliteli bir animasyon oluşturmak için sinematik bir komut.
+
+#### 📝 İstem
+
+```
+Temiz beyaz bir gradyan arka plan üzerinde tamamen yarı saydam safir mavisi jöleden yapılmış kristal netliğinde bir yüzme havuzu. Aynı safir mavisi jöleden şekillendirilmiş oyuncu bir kedi, havuzun üzerinden zarif bir ağır çekim atlayış yapmadan önce jöle yüzeyinde çevik bir şekilde koşuyor. Her pati izi tatmin edici titremeler, esnek dalgalanmalar ve parlak jöle sıçramaları yaratıyor. Kedi yumuşak bir şekilde yere iniyor; vücudu ve kuyruğu gerçekçi jöle fiziğiyle esniyor. Kamera, parıldayan jöle yüzeyinin makro yakın çekimiyle başlıyor, koşu ve atlayış sırasında kediyi pürüzsüzce takip ediyor ve ardından tüm havuzu gösterecek şekilde yavaşça geri çekiliyor. Yumuşak stüdyo aydınlatması, yarı saydam dokuyu, parlak yansımaları ve gerçekçi yüzey altı ışık dağılımını vurguluyor. Ultra temiz, sanat yönetmenliği yapılmış yemek fotoğrafçılığı estetiği, büyüleyici ASMR görselleri, son derece gerçekçi jöle fiziği, sinematik, kesintisiz 10 saniyelik çekim.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071247391442001920/img/_JAqcbmD5Z_pM1k0.jpg" width="600" alt="Safir Mavisi Jöle Kedi Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2071247539161170223)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Yayınlandı:** Jun 28, 2026
+
+---
 ### 3D Meditasyon Animasyon Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1853,6 +1891,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-29T08:58:18.336Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-29T15:44:06.003Z</sub>
 
 </div>

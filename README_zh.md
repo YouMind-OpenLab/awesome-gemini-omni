@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **75** |
+| 📝 提示词总数 | **77** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-06-29** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 定格动画刺绣龙
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详细的定格动画提示词，展示了在黄色棉布上自动绣出龙的图案，并呈现出逼真的丝线质感。
+
+#### 📝 提示词
+
+```
+在黄色棉布上自动刺绣的定格动画。画面展示了一只被困在沉重铁栏后的威猛巨龙，通过逐帧累积的短缎面绣针法，一点点“缝制”出自己的身躯。随着丝线逐渐堆叠，凸起的丝线质感在柔和的漫射日光下清晰可见。当龙身成形时，鲜红的火焰、深色的烟雾卷曲纹样以及沉重的锁链图案围绕着主体自动绣出。刺绣文字“Release Claude Fable 5”以粗体、锋利的字体绣在空白处。画面呈现出轻微抖动的定格动画节奏，每一针都紧紧锁入棉布纹理中。没有手、没有针、没有绣花绷架、没有线轴，只有布料和自动成形的丝线。俯视微距拍摄。伴有布料摩擦和轻微线头敲击的柔和现场音效。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071272244224151552/img/xLsuFaQkWtWvxebs.jpg" width="600" alt="定格动画刺绣龙">
+
+**[🎬 观看视频 →](https://x.com/HarshithLucky3/status/2071272516379943218)**
+
+**作者:** [Harshith](https://x.com/HarshithLucky3) | **来源:** [Link](https://x.com/HarshithLucky3/status/2071272516379943218) | **发布时间:** Jun 28, 2026
+
+---
+### 蓝宝石果冻猫动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于生成高质量动画的电影级提示词，描绘了一只果冻雕塑猫跃过果冻游泳池的场景，包含逼真的物理效果和微距镜头追踪。
+
+#### 📝 提示词
+
+```
+一个完全由半透明蓝宝石色果冻制成的清澈游泳池，背景为干净的白色渐变。一只由同样的蓝宝石色果冻雕刻而成的顽皮猫咪，在果冻表面轻盈地奔跑，随后优雅地慢动作跃过水池。每一次落脚都会产生令人愉悦的晃动、弹性的涟漪和光泽四溅的果冻水花。猫咪轻柔落地，其身体和尾巴呈现出逼真的果冻物理弹跳效果。镜头从闪烁的果冻表面微距特写开始，平滑地追踪猫咪的奔跑和跳跃过程，随后缓慢拉远以展现整个水池。柔和的摄影棚灯光增强了半透明的质感、光泽反射以及逼真的次表面散射效果。极简艺术指导下的美食摄影美学，令人着迷的 ASMR 视觉体验，高度逼真的果冻物理效果，电影级质感，无缝衔接的 10 秒镜头。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071247391442001920/img/_JAqcbmD5Z_pM1k0.jpg" width="600" alt="蓝宝石果冻猫动画">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2071247539161170223)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **发布时间:** Jun 28, 2026
+
+---
 ### 3D 冥想动画序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1853,6 +1891,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-29T08:58:05.016Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-29T15:43:58.091Z</sub>
 
 </div>

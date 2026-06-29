@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **75** |
+| 📝 Gesamtanzahl Prompts | **77** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-29** |
 
@@ -56,6 +56,44 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Stop-Motion-Stickanimation eines Drachen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Stop-Motion-Animations-Prompt, der die selbststickende Animation eines Drachen auf gelbem Baumwollstoff mit haptischen Faden-Details zeigt.
+
+#### 📝 Prompt
+
+```
+Stop-Motion-Animation einer selbststickenden Stickerei auf gelbem Baumwollstoff. Eine Illustration eines mächtigen Drachen, der hinter schweren eisernen Gefängnisgittern gefangen ist, stickt sich selbst ins Dasein, wobei kurze Plattstiche Bild für Bild hinzugefügt werden. Das erhabene, haptische Stickgarn mit einzelnen Fadensträngen fängt weiches, diffuses Tageslicht ein, während sich die Fäden nach und nach aufbauen. Während der Drache Gestalt annimmt, sticken sich lebhafte karmesinrote Flammen, dunkle Rauchschwaden und schwere Kettenmuster um ihn herum, um das Motiv einzurahmen. Der gestickte Text „Release Claude Fable 5“ stickt sich in einer kräftigen, scharfen Schrift in den leeren Raum. Leicht ruckelnde Stop-Motion-Kadenz, bei der sich jeder Stich festzieht und in der gewebten Baumwollstruktur verankert. Keine Hände, keine Nadel, kein Stickrahmen, keine Spule, nur der Stoff und die sich selbst formenden Fäden. Makroaufnahme aus der Vogelperspektive. Sanfte diegetische Audiospur mit Stoffrauschen und leisem Klopfen der Fäden.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071272244224151552/img/xLsuFaQkWtWvxebs.jpg" width="600" alt="Stop-Motion-Stickanimation eines Drachen">
+
+**[🎬 Video ansehen →](https://x.com/HarshithLucky3/status/2071272516379943218)**
+
+**Autor:** [Harshith](https://x.com/HarshithLucky3) | **Quelle:** [Link](https://x.com/HarshithLucky3/status/2071272516379943218) | **Veröffentlicht:** Jun 28, 2026
+
+---
+### Saphirblaue Wackelpudding-Katzen-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer Prompt zur Erstellung einer hochwertigen Animation einer aus Wackelpudding geformten Katze, die über einen Wackelpudding-Pool springt, mit realistischer Physik und Makro-Kameraverfolgung.
+
+#### 📝 Prompt
+
+```
+Ein kristallklarer Swimmingpool, der vollständig aus durchscheinendem, saphirblauem Wackelpudding besteht, vor einem sauberen, weißen Verlaufs-Hintergrund. Eine verspielte Katze, geformt aus demselben saphirblauen Wackelpudding, rennt anmutig über die Wackelpudding-Oberfläche, bevor sie einen eleganten Zeitlupensprung über den Pool macht. Jeder Pfotenschritt erzeugt befriedigendes Wackeln, dehnbare Wellen und glänzende Wackelpudding-Spritzer. Die Katze landet sanft, wobei ihr Körper und ihr Schwanz mit realistischer Wackelpudding-Physik federn. Die Kamera beginnt mit einer Makro-Nahaufnahme der schimmernden Wackelpudding-Oberfläche, verfolgt die Katze flüssig während des Laufs und Sprungs und zieht sich dann sanft zurück, um den gesamten Pool zu zeigen. Weiches Studio-Licht unterstreicht die durchscheinende Textur, die glänzenden Reflexionen und die realistische unterirdische Lichtstreuung. Ästhetik der ultra-sauberen, art-directed Food-Fotografie, faszinierende ASMR-Visuals, hochrealistische Wackelpudding-Physik, filmische, nahtlose 10-Sekunden-Aufnahme.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071247391442001920/img/_JAqcbmD5Z_pM1k0.jpg" width="600" alt="Saphirblaue Wackelpudding-Katzen-Animation">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2071247539161170223)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Veröffentlicht:** Jun 28, 2026
+
+---
 ### 3D-Meditationsanimationssequenz
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1853,6 +1891,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-29T08:58:13.702Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-29T15:44:03.071Z</sub>
 
 </div>

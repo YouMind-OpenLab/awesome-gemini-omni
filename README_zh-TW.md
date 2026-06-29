@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **75** |
+| 📝 提示詞總數 | **77** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-06-29** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 停格動畫刺繡龍
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個詳細的停格動畫提示詞，展示在黃色棉布上自動刺繡出龍的圖案，並呈現出真實的線條細節。
+
+#### 📝 提示詞
+
+```
+自動刺繡於黃色棉布上的停格動畫。畫面描繪一隻強大的龍被困在厚重的鐵欄杆後，透過逐幀累積的短緞面針法，將自身一針一線地縫製出來。立體的繡線與單根線束在柔和的漫射日光下呈現出細膩質感，隨著線條逐漸堆疊，龍的輪廓愈發清晰。當龍形完成後，鮮紅的火焰、深色的煙霧捲曲以及厚重的鎖鏈圖案也隨之縫合，環繞並襯托出主體。刺繡文字「Release Claude Fable 5」以大膽銳利的字體縫製在空白處。帶有輕微抖動的停格節奏，每一針都緊密地鎖入棉布紋理中。畫面中沒有手、沒有針、沒有繡框、沒有線軸，只有布料與自動成形的線條。俯視微距鏡頭。伴隨布料摩擦與輕微線頭敲擊的柔和現場音效。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071272244224151552/img/xLsuFaQkWtWvxebs.jpg" width="600" alt="停格動畫刺繡龍">
+
+**[🎬 觀看視頻 →](https://x.com/HarshithLucky3/status/2071272516379943218)**
+
+**作者:** [Harshith](https://x.com/HarshithLucky3) | **來源:** [Link](https://x.com/HarshithLucky3/status/2071272516379943218) | **發布時間:** Jun 28, 2026
+
+---
+### 藍寶石果凍貓動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個電影級提示詞，用於生成高品質的動畫，內容為一隻果凍雕塑貓躍過果凍游泳池，具備逼真的物理效果與微距攝影追蹤。
+
+#### 📝 提示詞
+
+```
+一個由全透明藍寶石色果凍製成的清澈游泳池，背景為乾淨的白色漸層。一隻由同樣藍寶石色果凍雕塑而成的俏皮貓咪，在果凍表面優雅地奔跑，隨後優雅地慢動作躍過泳池。每一次腳步都產生令人滿足的晃動、彈性漣漪與光澤感果凍飛濺。貓咪輕柔落地，身體與尾巴呈現出逼真的果凍物理彈性。攝影機以微距特寫捕捉閃爍的果凍表面，流暢地追蹤貓咪的奔跑與跳躍過程，隨後輕柔拉遠以呈現整個泳池的全貌。柔和的攝影棚燈光增強了半透明質感、光澤反射與逼真的次表面散射效果。極致乾淨的藝術指導美食攝影美學，令人著迷的 ASMR 視覺效果，高度逼真的果凍物理模擬，電影級質感，無縫銜接的 10 秒鏡頭。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071247391442001920/img/_JAqcbmD5Z_pM1k0.jpg" width="600" alt="藍寶石果凍貓動畫">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2071247539161170223)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **發布時間:** Jun 28, 2026
+
+---
 ### 3D 冥想動畫序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1853,6 +1891,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-06-29T08:58:05.973Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-06-29T15:43:58.685Z</sub>
 
 </div>

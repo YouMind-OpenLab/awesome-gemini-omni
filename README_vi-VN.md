@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **75** |
+| 📝 Tổng số prompt | **77** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-29** |
 
@@ -56,6 +56,44 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hoạt hình thêu tay phong cách stop-motion hình rồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo hoạt hình stop-motion chi tiết mô tả quá trình tự thêu hình rồng lên vải cotton vàng với các chi tiết sợi chỉ chân thực.
+
+#### 📝 Prompt
+
+```
+Hoạt hình stop-motion mô tả quá trình tự thêu lên vải cotton màu vàng. Hình ảnh một con rồng dũng mãnh bị nhốt sau những song sắt nhà tù dày đặc tự thêu chính nó vào vải, sử dụng các mũi thêu satin ngắn tích tụ qua từng khung hình. Các sợi chỉ nổi lên với từng sợi tơ riêng biệt bắt lấy ánh sáng ban ngày dịu nhẹ khi các đường chỉ dần hình thành. Khi hình rồng hiện rõ, những ngọn lửa đỏ rực, những cuộn khói đen và các thiết kế xích sắt nặng nề tự thêu xung quanh để làm khung cho chủ thể. Dòng chữ thêu "Release Claude Fable 5" xuất hiện ở khoảng trống với kiểu chữ đậm, sắc nét. Nhịp điệu stop-motion hơi rung, mỗi mũi thêu thắt chặt và khóa vào kết cấu vải cotton dệt. Không có bàn tay, không kim, không khung thêu, không cuộn chỉ, chỉ có vải và những sợi chỉ tự hình thành. Góc quay macro từ trên xuống. Âm thanh thực tế nhẹ nhàng của tiếng vải sột soạt và tiếng chỉ chạm khẽ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071272244224151552/img/xLsuFaQkWtWvxebs.jpg" width="600" alt="Hoạt hình thêu tay phong cách stop-motion hình rồng">
+
+**[🎬 Xem video →](https://x.com/HarshithLucky3/status/2071272516379943218)**
+
+**Tác giả:** [Harshith](https://x.com/HarshithLucky3) | **Nguồn:** [Link](https://x.com/HarshithLucky3/status/2071272516379943218) | **Đã xuất bản:** Jun 28, 2026
+
+---
+### Hoạt hình mèo thạch xanh Sapphire
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh để tạo hoạt hình chất lượng cao về chú mèo được điêu khắc từ thạch đang nhảy qua hồ bơi thạch với hiệu ứng vật lý chân thực và kỹ thuật quay macro.
+
+#### 📝 Prompt
+
+```
+Một hồ bơi trong vắt được làm hoàn toàn từ thạch màu xanh sapphire trong suốt trên nền gradient trắng sạch sẽ. Một chú mèo tinh nghịch được điêu khắc từ cùng loại thạch xanh sapphire chạy duyên dáng trên bề mặt thạch trước khi thực hiện cú nhảy chậm đầy thanh thoát qua hồ. Mỗi bước chân tạo ra những rung động đầy thỏa mãn, những gợn sóng co giãn và những tia thạch bóng bẩy bắn ra. Chú mèo tiếp đất nhẹ nhàng, cơ thể và đuôi nảy lên với hiệu ứng vật lý thạch chân thực. Máy quay bắt đầu bằng cận cảnh macro bề mặt thạch lấp lánh, theo sát chú mèo trong lúc chạy và nhảy, sau đó nhẹ nhàng lùi lại để lộ toàn cảnh hồ bơi. Ánh sáng studio dịu nhẹ làm nổi bật kết cấu trong suốt, những phản chiếu bóng bẩy và hiệu ứng tán xạ dưới bề mặt chân thực. Thẩm mỹ nhiếp ảnh thực phẩm được dàn dựng sạch sẽ, hình ảnh ASMR đầy mê hoặc, vật lý thạch cực kỳ chân thực, cảnh quay điện ảnh liền mạch trong 10 giây.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071247391442001920/img/_JAqcbmD5Z_pM1k0.jpg" width="600" alt="Hoạt hình mèo thạch xanh Sapphire">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2071247539161170223)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Đã xuất bản:** Jun 28, 2026
+
+---
 ### Chuỗi hoạt ảnh thiền định 3D
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1853,6 +1891,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-29T08:58:10.301Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-29T15:44:00.896Z</sub>
 
 </div>
