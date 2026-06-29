@@ -48,7 +48,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **75** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
-| 🔄 अंतिम अपडेट | **2026-06-28** |
+| 🔄 अंतिम अपडेट | **2026-06-29** |
 
 ---
 
@@ -1853,6 +1853,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-28T21:00:23.489Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-06-29T03:47:56.166Z</sub>
 
 </div>
