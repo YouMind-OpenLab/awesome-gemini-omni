@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **77** |
+| 📝 Toplam İstem | **78** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-06-30** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Nostaljik Çocukluk Anıları Makro Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni için çocukluk anılarını dönen vintage bir oyuncak anahtarından çıkan altın rengi parlayan parçacıklar olarak görselleştiren, son derece detaylı sinematik bir komut.
+
+#### 📝 İstem
+
+```
+Tamamen siyah arka plan. Parlak bir yüzey üzerinde kendi kendine yavaşça dönen eski ve paslı bir kurmalı oyuncak anahtarının sabit makro sinematik çekimi. Anahtar döndükçe, içinden binlerce küçük parlayan parçacık dışarı akar ve minyatür çocukluk anılarını oluşturur: yağmur suyunda yüzen bir kağıttan gemi, bir topaç, gökyüzünde süzülen bir uçurtma, ahşap bir okul sırası, eski bir CRT televizyon ve onların etrafında dönen bir oyuncak tren. Her şey, akıcı ve büyülü bir hareketle parlayan parçacıklardan doğal bir şekilde bir araya gelir. Sıcak altın rengi ışık, yumuşak hacimsel parıltı, rüya gibi nostaljik bir atmosfer, gerçekçi parçacık fiziği, sinematik alan derinliği, ultra yüksek çözünürlüklü sinematik kalite. Son kare, tamamlanmış minyatür çocukluk dünyasında sabit kalır. 10 saniye, 16:9, 24fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071504130334691328/img/jOu7q6raSCE6KcNR.jpg" width="600" alt="Nostaljik Çocukluk Anıları Makro Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2071504297716822456)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2071504297716822456) | **Yayınlandı:** Jun 29, 2026
+
+---
 ### Stop-Motion Nakış Ejderha Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1891,6 +1910,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-30T07:53:09.183Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-06-30T10:56:11.032Z</sub>
 
 </div>

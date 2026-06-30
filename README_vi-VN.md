@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **77** |
+| 📝 Tổng số prompt | **78** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-06-30** |
 
@@ -56,6 +56,25 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video Macro về Ký ức Tuổi thơ Hoài niệm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh điện ảnh chi tiết dành cho Gemini Omni, giúp hình dung những ký ức tuổi thơ dưới dạng các hạt phát sáng màu vàng kim thoát ra từ một chiếc chìa khóa đồ chơi cổ điển đang xoay.
+
+#### 📝 Prompt
+
+```
+Nền đen thuần túy. Cận cảnh điện ảnh tĩnh về một chiếc chìa khóa đồ chơi lên dây cót cũ kỹ, gỉ sét đang tự xoay chậm rãi trên bề mặt bóng loáng. Khi chìa khóa xoay, hàng ngàn hạt nhỏ phát sáng thoát ra, tạo thành những ký ức tuổi thơ thu nhỏ — một chiếc thuyền giấy trôi trên nước mưa, một con quay, một cánh diều bay lượn trên bầu trời, một chiếc bàn học bằng gỗ, một chiếc tivi CRT cũ và một đoàn tàu đồ chơi chạy vòng quanh. Mọi thứ kết hợp lại một cách tự nhiên từ các hạt phát sáng với chuyển động kỳ ảo mượt mà. Ánh sáng vàng ấm áp, hiệu ứng tỏa sáng nhẹ nhàng, bầu không khí hoài niệm mơ màng, vật lý hạt chân thực, độ sâu trường ảnh điện ảnh, chất lượng điện ảnh độ phân giải siêu cao. Khung hình cuối dừng lại ở thế giới tuổi thơ thu nhỏ hoàn chỉnh. 10 giây, 16:9, 24fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071504130334691328/img/jOu7q6raSCE6KcNR.jpg" width="600" alt="Video Macro về Ký ức Tuổi thơ Hoài niệm">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2071504297716822456)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2071504297716822456) | **Đã xuất bản:** Jun 29, 2026
+
+---
 ### Hoạt hình thêu tay phong cách stop-motion hình rồng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1891,6 +1910,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-30T07:52:59.958Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-06-30T10:56:03.732Z</sub>
 
 </div>

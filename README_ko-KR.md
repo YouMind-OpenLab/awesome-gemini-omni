@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **77** |
+| 📝 총 프롬프트 수 | **78** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-06-30** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 향수를 불러일으키는 어린 시절의 추억 매크로 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 회전하는 빈티지 장난감 태엽 열쇠에서 황금빛 입자가 뿜어져 나오며 어린 시절의 추억을 시각화하는 Gemini Omni용 고해상도 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+완전한 검은색 배경. 광택이 나는 표면 위에서 스스로 천천히 회전하는 오래되고 녹슨 태엽 장난감 열쇠의 정적인 매크로 시네마틱 샷. 열쇠가 돌아감에 따라 수천 개의 작은 빛나는 입자가 쏟아져 나오며 어린 시절의 작은 추억들을 형성합니다. 빗물에 떠 있는 종이배, 팽이, 하늘을 나는 연, 나무 책상, 오래된 CRT 텔레비전, 그리고 그 주위를 도는 장난감 기차. 모든 요소가 빛나는 입자들로부터 부드럽고 마법 같은 움직임으로 자연스럽게 조립됩니다. 따뜻한 황금빛 조명, 부드러운 볼류메트릭 글로우, 꿈결 같은 향수의 분위기, 사실적인 입자 물리 효과, 시네마틱 피사계 심도, 초고화질 시네마틱 퀄리티. 마지막 프레임은 완성된 어린 시절의 미니어처 세계를 보여주며 멈춥니다. 10초, 16:9, 24fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071504130334691328/img/jOu7q6raSCE6KcNR.jpg" width="600" alt="향수를 불러일으키는 어린 시절의 추억 매크로 영상">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2071504297716822456)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2071504297716822456) | **게시일:** Jun 29, 2026
+
+---
 ### 스톱모션 자수 드래곤 애니메이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1891,6 +1910,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-30T07:52:58.574Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-30T10:56:02.155Z</sub>
 
 </div>

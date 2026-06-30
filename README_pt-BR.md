@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **77** |
+| 📝 Total de prompts | **78** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-06-30** |
 
@@ -56,6 +56,25 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vídeo Macro de Memórias Nostálgicas da Infância
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico altamente detalhado para o Gemini Omni que visualiza memórias de infância como partículas douradas brilhantes emergindo de uma chave de brinquedo vintage giratória.
+
+#### 📝 Prompt
+
+```
+Fundo preto puro. Close-up macro cinematográfico estático de uma chave de brinquedo de corda antiga e enferrujada girando lentamente sozinha sobre uma superfície brilhante. À medida que gira, milhares de pequenas partículas brilhantes fluem da chave, formando memórias de infância em miniatura — um barco de papel flutuando na água da chuva, um pião, uma pipa voando no céu, uma carteira escolar de madeira, uma televisão CRT antiga e um trem de brinquedo circulando-os. Tudo se monta naturalmente a partir das partículas brilhantes com um movimento mágico e suave. Luz dourada quente, brilho volumétrico suave, atmosfera nostálgica e sonhadora, física de partículas realista, profundidade de campo cinematográfica, qualidade cinematográfica de ultra-alta definição. O quadro final permanece estático na cena completa do mundo da infância em miniatura. 10 segundos, 16:9, 24fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071504130334691328/img/jOu7q6raSCE6KcNR.jpg" width="600" alt="Vídeo Macro de Memórias Nostálgicas da Infância">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2071504297716822456)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2071504297716822456) | **Publicado:** Jun 29, 2026
+
+---
 ### Animação em Stop-Motion de Bordado de Dragão
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1891,6 +1910,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-30T07:53:07.457Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-06-30T10:56:09.489Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **77** |
+| 📝 提示词总数 | **78** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-06-30** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 怀旧童年记忆微距视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个为 Gemini Omni 设计的高细节电影感提示词，将童年记忆可视化为从旋转的复古玩具钥匙中涌出的金色发光粒子。
+
+#### 📝 提示词
+
+```
+纯黑色背景。静态微距电影镜头，展示一把生锈的旧发条玩具钥匙在光亮的表面上缓慢自转。随着钥匙转动，成千上万的微小发光粒子从中涌出，形成微缩的童年记忆——雨水中漂浮的纸船、旋转的陀螺、天空中翱翔的风筝、木制课桌、旧式 CRT 电视机，以及环绕它们的玩具火车。所有物体都由发光粒子自然汇聚而成，动作流畅且充满魔力。温暖的金色光芒，柔和的体积光，梦幻的怀旧氛围，真实的粒子物理效果，电影级景深，超高清电影画质。最后一帧定格在完整的微缩童年世界。10 秒，16:9，24fps。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071504130334691328/img/jOu7q6raSCE6KcNR.jpg" width="600" alt="怀旧童年记忆微距视频">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2071504297716822456)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2071504297716822456) | **发布时间:** Jun 29, 2026
+
+---
 ### 定格动画刺绣龙
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1891,6 +1910,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-06-30T07:52:56.073Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-06-30T10:55:59.420Z</sub>
 
 </div>

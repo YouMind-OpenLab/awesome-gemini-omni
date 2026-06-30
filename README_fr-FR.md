@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **77** |
+| 📝 Total des prompts | **78** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-06-30** |
 
@@ -56,6 +56,25 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Vidéo macro de souvenirs d'enfance nostalgiques
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique très détaillé pour Gemini Omni qui visualise des souvenirs d'enfance sous forme de particules dorées lumineuses émergeant d'une clé de jouet vintage en rotation.
+
+#### 📝 Prompt
+
+```
+Fond noir pur. Plan cinématographique macro statique d'une vieille clé de jouet à remonter rouillée tournant lentement d'elle-même sur une surface brillante. À mesure qu'elle tourne, des milliers de minuscules particules lumineuses s'en échappent, formant des souvenirs d'enfance miniatures : un bateau en papier flottant dans l'eau de pluie, une toupie, un cerf-volant planant dans le ciel, un pupitre d'écolier en bois, un vieux téléviseur cathodique et un train miniature tournant autour d'eux. Tout s'assemble naturellement à partir des particules lumineuses avec un mouvement magique et fluide. Lumière dorée chaude, lueur volumétrique douce, atmosphère nostalgique et onirique, physique des particules réaliste, profondeur de champ cinématographique, qualité cinématographique ultra-haute définition. L'image finale se fige sur le monde miniature complet de l'enfance. 10 secondes, 16:9, 24 ips.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071504130334691328/img/jOu7q6raSCE6KcNR.jpg" width="600" alt="Vidéo macro de souvenirs d'enfance nostalgiques">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2071504297716822456)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2071504297716822456) | **Publié:** Jun 29, 2026
+
+---
 ### Animation en stop-motion de broderie de dragon
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1891,6 +1910,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-30T07:53:05.056Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-06-30T10:56:07.833Z</sub>
 
 </div>

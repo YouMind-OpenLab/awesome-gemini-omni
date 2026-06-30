@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **77** |
+| 📝 Total Prompts | **78** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-06-30** |
 
@@ -56,6 +56,25 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Nostalgic Childhood Memories Macro Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for Gemini Omni that visualizes childhood memories as golden glowing particles emerging from a rotating vintage toy key.
+
+#### 📝 Prompt
+
+```
+Pure black background. Static macro cinematic shot of an old rusty wind-up toy key slowly rotating by itself on a glossy surface. As it turns, thousands of tiny glowing particles flow out from the key, forming miniature childhood memories — a paper boat floating in rainwater, a spinning top, a kite soaring in the sky, a wooden school desk, an old CRT television, and a toy train circling them. Everything assembles naturally from the glowing particles with smooth magical motion. Warm golden light, soft volumetric glow, dreamy nostalgic atmosphere, realistic particle physics, cinematic depth of field, ultra-high-definition cinematic quality. Final frame holds still on the complete miniature childhood world. 10 seconds, 16:9, 24fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071504130334691328/img/jOu7q6raSCE6KcNR.jpg" width="600" alt="Nostalgic Childhood Memories Macro Video">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2071504297716822456)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2071504297716822456) | **Published:** Jun 29, 2026
+
+---
 ### Stop-Motion Embroidery Dragon Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1870,6 +1889,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T07:52:55.392Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-06-30T10:55:58.501Z</sub>
 
 </div>

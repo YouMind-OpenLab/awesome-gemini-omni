@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **77** |
+| 📝 Gesamtanzahl Prompts | **78** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-06-30** |
 
@@ -56,6 +56,25 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Nostalgische Kindheitserinnerungen Makro-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, kinoreifer Prompt für Gemini Omni, der Kindheitserinnerungen als goldene, leuchtende Partikel visualisiert, die aus einem sich drehenden Vintage-Spielzeugschlüssel hervorgehen.
+
+#### 📝 Prompt
+
+```
+Reiner schwarzer Hintergrund. Statische Makro-Filmaufnahme eines alten, rostigen Aufziehschlüssels, der sich langsam von selbst auf einer glänzenden Oberfläche dreht. Während er sich dreht, strömen Tausende winziger leuchtender Partikel aus dem Schlüssel und formen miniaturenhafte Kindheitserinnerungen – ein Papierboot, das im Regenwasser schwimmt, ein Kreisel, ein Drachen, der am Himmel fliegt, ein hölzerner Schultisch, ein alter Röhrenfernseher und eine Spielzeugeisenbahn, die sie umkreist. Alles setzt sich auf natürliche Weise aus den leuchtenden Partikeln mit fließender, magischer Bewegung zusammen. Warmes goldenes Licht, sanftes volumetrisches Leuchten, verträumte nostalgische Atmosphäre, realistische Partikelphysik, filmische Schärfentiefe, ultra-hochauflösende Kinoqualität. Der letzte Frame verharrt auf der vollständigen Miniatur-Kindheitswelt. 10 Sekunden, 16:9, 24 fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071504130334691328/img/jOu7q6raSCE6KcNR.jpg" width="600" alt="Nostalgische Kindheitserinnerungen Makro-Video">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2071504297716822456)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2071504297716822456) | **Veröffentlicht:** Jun 29, 2026
+
+---
 ### Stop-Motion-Stickanimation eines Drachen
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1891,6 +1910,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-30T07:53:04.274Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-06-30T10:56:07.025Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **77** |
+| 📝 Totale prompt | **78** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-06-30** |
 
@@ -56,6 +56,25 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Video macro sui ricordi nostalgici dell'infanzia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico altamente dettagliato per Gemini Omni che visualizza i ricordi d'infanzia come particelle dorate luminose che emergono da una chiave di un giocattolo vintage in rotazione.
+
+#### 📝 Prompt
+
+```
+Sfondo nero puro. Ripresa cinematografica macro statica di una vecchia chiave arrugginita di un giocattolo a molla che ruota lentamente da sola su una superficie lucida. Mentre gira, migliaia di minuscole particelle luminose fuoriescono dalla chiave, formando ricordi d'infanzia in miniatura: una barchetta di carta che galleggia nell'acqua piovana, una trottola, un aquilone che vola nel cielo, un banco di scuola in legno, un vecchio televisore a tubo catodico e un trenino giocattolo che gira intorno a loro. Tutto si assembla naturalmente dalle particelle luminose con un movimento magico e fluido. Luce dorata calda, bagliore volumetrico soffuso, atmosfera nostalgica e sognante, fisica delle particelle realistica, profondità di campo cinematografica, qualità cinematografica ad altissima definizione. Il fotogramma finale si ferma sul mondo d'infanzia in miniatura completo. 10 secondi, 16:9, 24fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2071504130334691328/img/jOu7q6raSCE6KcNR.jpg" width="600" alt="Video macro sui ricordi nostalgici dell'infanzia">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2071504297716822456)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2071504297716822456) | **Pubblicato:** Jun 29, 2026
+
+---
 ### Animazione in stop-motion di un ricamo a forma di drago
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1891,6 +1910,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-30T07:53:05.870Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-06-30T10:56:08.805Z</sub>
 
 </div>
