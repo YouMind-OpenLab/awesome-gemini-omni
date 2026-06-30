@@ -48,7 +48,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 |--------|-------|
 | 📝 プロンプト総数 | **77** |
 | ⭐ おすすめプロンプト | **0** |
-| 🔄 最終更新 | **2026-06-29** |
+| 🔄 最終更新 | **2026-06-30** |
 
 ---
 
@@ -1891,6 +1891,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-29T21:26:01.683Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-06-30T03:34:00.965Z</sub>
 
 </div>
