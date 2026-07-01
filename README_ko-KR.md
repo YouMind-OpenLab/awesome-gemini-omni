@@ -48,7 +48,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 |--------|-------|
 | 📝 총 프롬프트 수 | **78** |
 | ⭐ 추천 프롬프트 | **0** |
-| 🔄 마지막 업데이트 | **2026-06-30** |
+| 🔄 마지막 업데이트 | **2026-07-01** |
 
 ---
 
@@ -1910,6 +1910,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-06-30T21:27:43.167Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-01T03:43:04.441Z</sub>
 
 </div>
