@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **78** |
+| 📝 Total des prompts | **80** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-07-02** |
 
@@ -56,6 +56,54 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Vidéo d'une jeune fille Pahadi dans la matinée himalayenne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de storyboard cinématographique pour une vidéo de 10 secondes représentant une jeune fille avec des moutons dans les montagnes brumeuses de l'Himalaya, incluant divers types de plans et des sons d'ambiance.
+
+#### 📝 Prompt
+
+```
+Titre de la scène : Jeune fille Pahadi avec ses moutons — Matinée himalayenne
+[0s–2s]
+Plan large d'ensemble : Une jeune fille indienne des montagnes, silhouette fine, âgée d'environ 22 ans, marchant doucement le long d'un sentier étroit. Elle porte une tenue traditionnelle pahadi (châle en laine douce, kurta simple, boucles d'oreilles jhumka en argent), son dupatta flottant légèrement dans la brise. Montagnes vertes brumeuses et pins en arrière-plan. Lumière naturelle du matin, ton doré doux.
+[2s–4s]
+Plan moyen : Elle marche aux côtés d'un petit troupeau de moutons, sa main reposant doucement sur un bâton en bois. Son expression est calme, chaleureuse et sereine — un léger sourire, les yeux reflétant une innocence amoureuse de la nature. Le vent agite ses cheveux naturellement.
+[4s–6s]
+Gros plan : Son visage sous une lumière naturelle douce — traits mignons et élégants, look sans maquillage, peau éclatante. Elle jette un regard affectueux vers les moutons, riant doucement alors que l'un d'eux lui donne un coup de museau. Son ambiant naturel : chants d'oiseaux, légers grelots de moutons (ghungroo), bruissement du vent.
+[6s–8s]
+Plan en travelling arrière : Elle monte plus haut sur une pente herbeuse, les moutons la suivant, son dupatta flottant, sa silhouette encadrée par les sommets himalayens en couches et les nuages dérivants.
+[8s–10s]
+Plan large final : Elle s'arrête au bord d'une falaise, contemplant la vallée, les moutons paissant calmement autour d'elle. Son de vent doux, une cloche de temple lointaine ou une flûte en arrière-plan s'intensifie progressivement. Arrêt sur image sur son expression paisible et sereine alors que le plan s'estompe en une douce vignette.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Vidéo d'une jeune fille Pahadi dans la matinée himalayenne">
+
+**[🎬 Voir la vidéo →](https://x.com/b275511/status/2072308089056084456)**
+
+**Auteur:** [TheAIDev](https://x.com/b275511) | **Source:** [Link](https://x.com/b275511/status/2072308089056084456) | **Publié:** Jul 1, 2026
+
+---
+### Vidéo d'un chaton Maine Coon dans un jardin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt très détaillé pour générer une vidéo réaliste d'un chaton Maine Coon duveteux observant des écureuils dans un jardin à l'heure dorée, avec des mouvements naturels et une ambiance sonore.
+
+#### 📝 Prompt
+
+```
+Un chaton Maine Coon roux et duveteux, aux grands yeux verts et aux oreilles touffues, est assis au bord d'une terrasse en bois surplombant un jardin luxuriant à l'heure dorée. Au premier plan, plusieurs écureuils gris espiègles se poursuivent, grimpent aux arbres et grignotent des glands tombés au sol. Les oreilles du chaton se dressent, sa queue s'agite avec excitation, sa tête se penche curieusement d'un côté à l'autre, et il émet de doux gazouillis tout en faisant de petits bonds vers la rambarde vitrée en observant les écureuils. Style vidéo réaliste filmé au smartphone, mouvement naturel du pelage dans la brise, faible profondeur de champ avec un magnifique bokeh sur les arbres et les fleurs en arrière-plan, lumière chaude du coucher de soleil, vent léger faisant bruisser les feuilles, chants d'oiseaux et bavardages d'écureuils au loin pour une ambiance sonore immersive. Comportement animal très détaillé et réaliste.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072290295488905217/img/PcxzWxPGGJR2Q8Hk.jpg" width="600" alt="Vidéo d'un chaton Maine Coon dans un jardin">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2072290764441465218)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2072290764441465218) | **Publié:** Jul 1, 2026
+
+---
 ### Vidéo macro de souvenirs d'enfance nostalgiques
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1910,6 +1958,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-02T07:30:59.709Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-02T10:38:08.168Z</sub>
 
 </div>

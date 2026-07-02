@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **78** |
+| 📝 Total de prompts | **80** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-02** |
 
@@ -56,6 +56,54 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Video de una chica Pahadi en una mañana en el Himalaya
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de storyboard cinematográfico para un video de 10 segundos que muestra a una joven con ovejas en las brumosas montañas del Himalaya, incluyendo varios tipos de planos y sonidos ambientales.
+
+#### 📝 Prompt
+
+```
+Título de la escena: Chica Pahadi con ovejas — Mañana en el Himalaya
+[0s–2s]
+Plano general de establecimiento: Una joven india de la montaña, de complexión delgada, de unos 22 años, caminando suavemente por un sendero estrecho de montaña. Viste un atuendo tradicional pahadi (chal de lana suave, kurta sencilla, pendientes jhumka de plata), con el dupatta ondeando ligeramente con la brisa. Montañas verdes brumosas y pinos de fondo. Luz solar natural de la mañana, tono dorado suave.
+[2s–4s]
+Plano medio: Camina junto a un pequeño rebaño de ovejas, con la mano apoyada suavemente en un bastón de madera. Su expresión es tranquila, cálida y satisfecha: una sonrisa suave, ojos que reflejan una inocencia amante de la naturaleza. El viento mueve su cabello de forma natural.
+[4s–6s]
+Primer plano: Su rostro bajo una luz natural suave: rasgos lindos y elegantes, aspecto sin maquillaje, piel radiante. Mira con afecto a las ovejas, riendo suavemente mientras una le da un empujoncito en la pierna. Sonido ambiental natural: canto de pájaros, cencerros de ovejas (ghungroo), susurro del viento.
+[6s–8s]
+Plano de seguimiento desde atrás: Camina hacia arriba por una ladera cubierta de hierba, con las ovejas siguiéndola, el dupatta fluyendo, su silueta enmarcada contra los picos del Himalaya y las nubes a la deriva.
+[8s–10s]
+Plano general final: Se detiene al borde de un acantilado, mirando hacia el valle, con las ovejas pastando tranquilamente a su alrededor. Sonido de viento suave, una campana de templo lejana o una flauta de fondo que se desvanece. Congelación en su expresión pacífica y serena mientras la toma se desvanece hacia una viñeta suave.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Video de una chica Pahadi en una mañana en el Himalaya">
+
+**[🎬 Ver video →](https://x.com/b275511/status/2072308089056084456)**
+
+**Autor:** [TheAIDev](https://x.com/b275511) | **Fuente:** [Link](https://x.com/b275511/status/2072308089056084456) | **Publicado:** Jul 1, 2026
+
+---
+### Video de un gatito Maine Coon en el jardín
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente detallado para generar un video realista de un esponjoso gatito Maine Coon observando ardillas en un jardín durante la hora dorada, con movimiento natural y sonido ambiental.
+
+#### 📝 Prompt
+
+```
+Un esponjoso gatito Maine Coon naranja con grandes ojos verdes y orejas con mechones está sentado en el borde de una terraza de madera con vistas a un exuberante jardín trasero durante la hora dorada. En primer plano, varias ardillas grises juguetonas se persiguen, trepan árboles y mordisquean bellotas caídas. Las orejas del gatito se erigen, su cola se mueve con entusiasmo, inclina la cabeza con curiosidad de un lado a otro y emite suaves maullidos y pequeños saltos hacia la barandilla de cristal mientras observa a las ardillas. Estilo de video realista grabado con smartphone, movimiento natural del pelaje con la brisa, profundidad de campo reducida con un hermoso efecto bokeh en los árboles y flores del fondo, luz cálida del atardecer, viento suave que agita las hojas, canto de pájaros y el lejano parloteo de las ardillas para un sonido ambiental envolvente. Altamente detallado, comportamiento animal realista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072290295488905217/img/PcxzWxPGGJR2Q8Hk.jpg" width="600" alt="Video de un gatito Maine Coon en el jardín">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2072290764441465218)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2072290764441465218) | **Publicado:** Jul 1, 2026
+
+---
 ### Video macro de recuerdos nostálgicos de la infancia
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1910,6 +1958,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-02T07:30:57.370Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-02T10:38:05.427Z</sub>
 
 </div>

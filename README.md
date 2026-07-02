@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **78** |
+| 📝 Total Prompts | **80** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-02** |
 
@@ -56,6 +56,54 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Himalayan Morning Pahadi Girl Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic storyboard prompt for a 10-second video depicting a young girl with sheep in the misty Himalayan mountains, featuring various shot types and ambient sounds.
+
+#### 📝 Prompt
+
+```
+Scene Title: Pahadi Girl with Sheep — Himalayan Morning
+[0s–2s]
+Wide establishing shot: A young Indian hill girl, slim build, around 22 years old, walking gently along a narrow mountain trail. She wears a traditional pahadi outfit (soft wool shawl, simple kurta, silver jhumka earrings), dupatta lightly fluttering in the breeze. Misty green mountains and pine trees in the background. Natural morning sunlight, soft golden tone.
+[2s–4s]
+Medium shot: She walks alongside a small flock of sheep, her hand gently resting on a wooden staff. Her expression is calm, warm, and content — a soft smile, eyes reflecting nature-loving innocence. Wind moves through her hair naturally.
+[4s–6s]
+Close-up shot: Her face in soft natural light — cute, elegant features, no makeup look, glowing skin. She glances affectionately toward the sheep, laughing softly as one nudges her leg. Natural ambient sound: birds chirping, faint sheep bells (ghungroo), wind rustling.
+[6s–8s]
+Tracking shot from behind: She walks further up a grassy slope, sheep trailing behind her, dupatta flowing, silhouette framed against layered Himalayan peaks and drifting clouds.
+[8s–10s]
+Final wide shot: She pauses at a cliff edge, looking out over the valley, sheep grazing calmly around her. Soft wind sound, distant temple bell or flute in the background fades in. Freeze on her peaceful, serene expression as the shot fades to a gentle vignette.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Himalayan Morning Pahadi Girl Video">
+
+**[🎬 Watch Video →](https://x.com/b275511/status/2072308089056084456)**
+
+**Author:** [TheAIDev](https://x.com/b275511) | **Source:** [Link](https://x.com/b275511/status/2072308089056084456) | **Published:** Jul 1, 2026
+
+---
+### Maine Coon Kitten Garden Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for generating a realistic video of a fluffy Maine Coon kitten watching squirrels in a garden during golden hour, featuring natural movement and ambient sound.
+
+#### 📝 Prompt
+
+```
+A fluffy orange Maine Coon kitten with big green eyes and tufted ears sits on the edge of a wooden deck overlooking a lush backyard garden at golden hour. In the foreground, several playful gray squirrels chase each other, climb trees, and nibble on fallen acorns. The kitten’s ears perk up, tail twitches excitedly, head tilts curiously side to side, and it makes soft chirping meows and little pounces toward the glass railing as it watches the squirrels. Realistic handheld smartphone video style, natural fur movement in the breeze, shallow depth of field with beautiful bokeh on the background trees and flowers, warm sunset light, gentle wind rustling leaves, birds chirping, and distant squirrel chattering for immersive ambient sound. Highly detailed, lifelike animal behaviour.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072290295488905217/img/PcxzWxPGGJR2Q8Hk.jpg" width="600" alt="Maine Coon Kitten Garden Video">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2072290764441465218)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2072290764441465218) | **Published:** Jul 1, 2026
+
+---
 ### Nostalgic Childhood Memories Macro Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1889,6 +1937,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T07:30:51.255Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-02T10:37:59.194Z</sub>
 
 </div>

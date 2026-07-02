@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **78** |
+| 📝 Gesamtanzahl Prompts | **80** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-02** |
 
@@ -56,6 +56,54 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Video eines Pahadi-Mädchens am Morgen im Himalaya
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmisches Storyboard-Prompt für ein 10-sekündiges Video, das ein junges Mädchen mit Schafen in den nebligen Bergen des Himalaya zeigt, inklusive verschiedener Kameraeinstellungen und Umgebungsgeräusche.
+
+#### 📝 Prompt
+
+```
+Szenentitel: Pahadi-Mädchen mit Schafen — Morgen im Himalaya
+[0s–2s]
+Totale (Establishing Shot): Ein junges indisches Bergmädchen, schlanke Statur, etwa 22 Jahre alt, geht sanft einen schmalen Bergpfad entlang. Sie trägt ein traditionelles Pahadi-Outfit (weicher Wollschal, schlichtes Kurta, silberne Jhumka-Ohrringe), ihr Dupatta flattert leicht im Wind. Neblige grüne Berge und Pinien im Hintergrund. Natürliches Morgenlicht, sanfter Goldton.
+[2s–4s]
+Halbnahe Einstellung: Sie geht neben einer kleinen Schafherde her, ihre Hand ruht sanft auf einem Holzstab. Ihr Ausdruck ist ruhig, warm und zufrieden — ein sanftes Lächeln, ihre Augen spiegeln eine naturverbundene Unschuld wider. Der Wind bewegt ihr Haar auf natürliche Weise.
+[4s–6s]
+Großaufnahme: Ihr Gesicht im sanften natürlichen Licht — niedliche, elegante Gesichtszüge, natürlicher Look ohne Make-up, strahlende Haut. Sie blickt liebevoll zu den Schafen und lacht leise, als eines sie anstupst. Natürliche Umgebungsgeräusche: Vogelgezwitscher, leise Schafsglocken (Ghungroo), Windrauschen.
+[6s–8s]
+Verfolgungseinstellung von hinten: Sie geht weiter einen grasbewachsenen Hang hinauf, die Schafe folgen ihr, das Dupatta weht im Wind, ihre Silhouette vor den gestaffelten Gipfeln des Himalaya und ziehenden Wolken.
+[8s–10s]
+Abschließende Totale: Sie hält an einer Klippe inne und blickt über das Tal, während die Schafe friedlich um sie herum grasen. Sanftes Windgeräusch, eine ferne Tempelglocke oder Flötenmusik im Hintergrund blendet ein. Standbild ihres friedlichen, gelassenen Ausdrucks, während das Bild sanft in eine Vignette übergeht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Video eines Pahadi-Mädchens am Morgen im Himalaya">
+
+**[🎬 Video ansehen →](https://x.com/b275511/status/2072308089056084456)**
+
+**Autor:** [TheAIDev](https://x.com/b275511) | **Quelle:** [Link](https://x.com/b275511/status/2072308089056084456) | **Veröffentlicht:** Jul 1, 2026
+
+---
+### Maine Coon Kätzchen Garten-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Prompt zur Erstellung eines realistischen Videos eines flauschigen Maine Coon Kätzchens, das während der goldenen Stunde Eichhörnchen im Garten beobachtet, inklusive natürlicher Bewegungen und Umgebungsgeräuschen.
+
+#### 📝 Prompt
+
+```
+Ein flauschiges orangefarbenes Maine Coon Kätzchen mit großen grünen Augen und Pinselohren sitzt am Rand einer Holzterrasse mit Blick auf einen üppigen Garten während der goldenen Stunde. Im Vordergrund jagen sich mehrere verspielte graue Eichhörnchen, klettern auf Bäume und knabbern an heruntergefallenen Eicheln. Die Ohren des Kätzchens spitzen sich, der Schwanz zuckt aufgeregt, der Kopf neigt sich neugierig von einer Seite zur anderen, und es gibt leise zwitschernde Miaulaute von sich und macht kleine Sprünge in Richtung des Glasgeländers, während es die Eichhörnchen beobachtet. Realistischer Smartphone-Video-Stil aus der Hand, natürliche Fellbewegung im Wind, geringe Schärfentiefe mit wunderschönem Bokeh bei den Bäumen und Blumen im Hintergrund, warmes Sonnenuntergangslicht, sanftes Rauschen der Blätter im Wind, zwitschernde Vögel und das ferne Geplapper der Eichhörnchen für eine immersive Klangkulisse. Hochdetailliertes, lebensechtes Tierverhalten.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072290295488905217/img/PcxzWxPGGJR2Q8Hk.jpg" width="600" alt="Maine Coon Kätzchen Garten-Video">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2072290764441465218)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2072290764441465218) | **Veröffentlicht:** Jul 1, 2026
+
+---
 ### Nostalgische Kindheitserinnerungen Makro-Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1910,6 +1958,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-02T07:30:58.989Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-02T10:38:07.265Z</sub>
 
 </div>

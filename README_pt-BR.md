@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **78** |
+| 📝 Total de prompts | **80** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-02** |
 
@@ -56,6 +56,54 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vídeo de Garota Pahadi em uma Manhã no Himalaia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de storyboard cinematográfico para um vídeo de 10 segundos retratando uma jovem com ovelhas nas montanhas nebulosas do Himalaia, apresentando vários tipos de enquadramento e sons ambientes.
+
+#### 📝 Prompt
+
+```
+Título da Cena: Garota Pahadi com Ovelhas — Manhã no Himalaia
+[0s–2s]
+Plano geral de estabelecimento: Uma jovem indiana da região serrana, de porte esguio, com cerca de 22 anos, caminhando suavemente por uma trilha estreita na montanha. Ela veste um traje tradicional pahadi (xale de lã macia, kurta simples, brincos jhumka de prata), com o dupatta esvoaçando levemente ao vento. Montanhas verdes nebulosas e pinheiros ao fundo. Luz solar natural da manhã, tom dourado suave.
+[2s–4s]
+Plano médio: Ela caminha ao lado de um pequeno rebanho de ovelhas, com a mão apoiada suavemente em um cajado de madeira. Sua expressão é calma, calorosa e satisfeita — um sorriso suave, olhos que refletem uma inocência amante da natureza. O vento move seu cabelo naturalmente.
+[4s–6s]
+Close-up: Seu rosto sob luz natural suave — traços bonitos e elegantes, visual sem maquiagem, pele radiante. Ela olha com carinho para as ovelhas, rindo baixinho enquanto uma delas cutuca sua perna. Som ambiente natural: pássaros cantando, sinos de ovelhas distantes (ghungroo), vento farfalhando.
+[6s–8s]
+Plano de acompanhamento (tracking shot) por trás: Ela caminha mais para cima em uma encosta gramada, com as ovelhas atrás dela, o dupatta fluindo, silhueta emoldurada contra os picos do Himalaia em camadas e nuvens à deriva.
+[8s–10s]
+Plano geral final: Ela para na beira de um penhasco, olhando para o vale, com as ovelhas pastando calmamente ao seu redor. Som de vento suave, sino de templo distante ou flauta ao fundo que aumenta gradualmente. Congela em sua expressão pacífica e serena enquanto a cena desaparece em uma vinheta suave.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Vídeo de Garota Pahadi em uma Manhã no Himalaia">
+
+**[🎬 Assistir vídeo →](https://x.com/b275511/status/2072308089056084456)**
+
+**Autor:** [TheAIDev](https://x.com/b275511) | **Fonte:** [Link](https://x.com/b275511/status/2072308089056084456) | **Publicado:** Jul 1, 2026
+
+---
+### Vídeo de gatinho Maine Coon no jardim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt altamente detalhado para gerar um vídeo realista de um gatinho Maine Coon fofo observando esquilos em um jardim durante a hora dourada, apresentando movimento natural e som ambiente.
+
+#### 📝 Prompt
+
+```
+Um gatinho Maine Coon laranja e fofo, com grandes olhos verdes e orelhas com tufos, está sentado na borda de um deck de madeira com vista para um jardim exuberante durante a hora dourada. Em primeiro plano, vários esquilos cinzentos brincalhões perseguem uns aos outros, sobem em árvores e mordiscam bolotas caídas. As orelhas do gatinho se levantam, a cauda balança com entusiasmo, a cabeça inclina-se curiosamente de um lado para o outro, e ele emite miados suaves e pequenos saltos em direção ao parapeito de vidro enquanto observa os esquilos. Estilo de vídeo realista feito com smartphone, movimento natural do pelo na brisa, profundidade de campo rasa com um belo efeito bokeh nas árvores e flores ao fundo, luz quente do pôr do sol, vento suave farfalhando as folhas, pássaros cantando e o som distante dos esquilos para um áudio ambiente imersivo. Altamente detalhado, comportamento animal realista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072290295488905217/img/PcxzWxPGGJR2Q8Hk.jpg" width="600" alt="Vídeo de gatinho Maine Coon no jardim">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2072290764441465218)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2072290764441465218) | **Publicado:** Jul 1, 2026
+
+---
 ### Vídeo Macro de Memórias Nostálgicas da Infância
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1910,6 +1958,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-02T07:31:01.009Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-02T10:38:10.022Z</sub>
 
 </div>

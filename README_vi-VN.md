@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **78** |
+| 📝 Tổng số prompt | **80** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-02** |
 
@@ -56,6 +56,54 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video cô gái vùng cao Pahadi trong buổi sáng tại dãy Himalaya
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý kịch bản phân cảnh điện ảnh cho video dài 10 giây, mô tả một cô gái trẻ cùng đàn cừu giữa những ngọn núi Himalaya mờ sương, bao gồm nhiều kiểu quay và âm thanh môi trường.
+
+#### 📝 Prompt
+
+```
+Tiêu đề cảnh quay: Cô gái Pahadi và đàn cừu — Buổi sáng tại Himalaya
+[0s–2s]
+Cảnh toàn (Wide shot): Một cô gái trẻ người Ấn Độ, vóc dáng mảnh khảnh, khoảng 22 tuổi, đang nhẹ nhàng bước đi trên con đường mòn hẹp trên núi. Cô mặc trang phục Pahadi truyền thống (khăn choàng len mềm mại, áo kurta đơn giản, khuyên tai bạc jhumka), chiếc khăn dupatta khẽ bay trong gió. Phía sau là những ngọn núi xanh mờ sương và rừng thông. Ánh nắng buổi sáng tự nhiên, tông màu vàng dịu.
+[2s–4s]
+Cảnh trung (Medium shot): Cô đi bên cạnh một đàn cừu nhỏ, tay nhẹ nhàng đặt lên chiếc gậy gỗ. Biểu cảm của cô bình thản, ấm áp và mãn nguyện — một nụ cười nhẹ, đôi mắt ánh lên vẻ ngây thơ yêu thiên nhiên. Gió thổi qua mái tóc cô một cách tự nhiên.
+[4s–6s]
+Cảnh cận (Close-up): Gương mặt cô trong ánh sáng tự nhiên dịu nhẹ — các đường nét thanh tú, xinh xắn, phong cách không trang điểm, làn da rạng rỡ. Cô nhìn đàn cừu đầy trìu mến, khẽ cười khi một chú cừu dụi vào chân mình. Âm thanh môi trường tự nhiên: tiếng chim hót, tiếng chuông cừu (ghungroo) xa xa, tiếng gió xào xạc.
+[6s–8s]
+Cảnh quay theo từ phía sau (Tracking shot): Cô bước tiếp lên một sườn đồi đầy cỏ, đàn cừu theo sau, chiếc khăn dupatta bay trong gió, bóng dáng cô nổi bật trên nền những đỉnh núi Himalaya trùng điệp và những đám mây trôi.
+[8s–10s]
+Cảnh toàn cuối (Final wide shot): Cô dừng lại ở mép vách đá, nhìn ra thung lũng, đàn cừu đang thong dong gặm cỏ xung quanh. Tiếng gió nhẹ, âm thanh tiếng chuông đền hoặc tiếng sáo xa xa dần hiện lên. Dừng lại ở biểu cảm bình yên, thanh thản của cô khi cảnh quay mờ dần vào hiệu ứng tối góc nhẹ nhàng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Video cô gái vùng cao Pahadi trong buổi sáng tại dãy Himalaya">
+
+**[🎬 Xem video →](https://x.com/b275511/status/2072308089056084456)**
+
+**Tác giả:** [TheAIDev](https://x.com/b275511) | **Nguồn:** [Link](https://x.com/b275511/status/2072308089056084456) | **Đã xuất bản:** Jul 1, 2026
+
+---
+### Video mèo con Maine Coon trong vườn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) chi tiết để tạo video chân thực về một chú mèo con Maine Coon lông xù đang ngắm sóc trong vườn vào giờ vàng, với chuyển động tự nhiên và âm thanh môi trường sống động.
+
+#### 📝 Prompt
+
+```
+Một chú mèo con Maine Coon lông xù màu cam với đôi mắt xanh lục to tròn và đôi tai có chùm lông đang ngồi trên mép sàn gỗ nhìn ra khu vườn xanh mát vào giờ vàng. Ở tiền cảnh, vài chú sóc xám tinh nghịch đang đuổi bắt nhau, leo trèo trên cây và gặm nhấm những quả sồi rơi. Đôi tai mèo con dựng lên, đuôi vẫy nhẹ đầy phấn khích, đầu nghiêng qua lại đầy tò mò, chú mèo phát ra tiếng kêu chiêm chiếp nhẹ nhàng và vồ nhẹ về phía lan can kính khi ngắm nhìn lũ sóc. Phong cách video quay bằng điện thoại cầm tay chân thực, bộ lông chuyển động tự nhiên trong gió, độ sâu trường ảnh nông với hiệu ứng bokeh tuyệt đẹp trên nền cây cối và hoa lá, ánh hoàng hôn ấm áp, tiếng gió nhẹ xào xạc qua tán lá, tiếng chim hót và tiếng sóc kêu xa xa tạo nên âm thanh môi trường sống động. Độ chi tiết cao, hành vi động vật như thật.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072290295488905217/img/PcxzWxPGGJR2Q8Hk.jpg" width="600" alt="Video mèo con Maine Coon trong vườn">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2072290764441465218)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2072290764441465218) | **Đã xuất bản:** Jul 1, 2026
+
+---
 ### Video Macro về Ký ức Tuổi thơ Hoài niệm
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1910,6 +1958,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-02T07:30:55.978Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-02T10:38:03.822Z</sub>
 
 </div>

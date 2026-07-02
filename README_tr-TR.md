@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **78** |
+| 📝 Toplam İstem | **80** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-02** |
 
@@ -56,6 +56,54 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Himalayalar'da Sabah: Pahadi Kız Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sisli Himalayalar'da koyunlarıyla birlikte yürüyen genç bir kızı konu alan, çeşitli çekim türleri ve ortam sesleri içeren 10 saniyelik sinematik bir video hikaye panosu (storyboard) istemi.
+
+#### 📝 İstem
+
+```
+Sahne Başlığı: Koyunlarla Pahadi Kız — Himalayalar'da Sabah
+[0sn–2sn]
+Geniş ölçekli giriş çekimi: Yaklaşık 22 yaşlarında, ince yapılı, genç bir Hintli dağ kızı, dar bir dağ patikasında nazikçe yürüyor. Üzerinde geleneksel pahadi kıyafeti (yumuşak yün şal, sade bir kurta, gümüş jhumka küpeler) var, dupattası rüzgarda hafifçe dalgalanıyor. Arka planda sisli yeşil dağlar ve çam ağaçları. Doğal sabah güneş ışığı, yumuşak altın tonları.
+[2sn–4sn]
+Orta çekim: Küçük bir koyun sürüsünün yanında yürüyor, eli nazikçe ahşap bir asaya dayanmış. İfadesi sakin, sıcak ve huzurlu; hafif bir gülümseme, gözlerinde doğa sevgisi ve masumiyet yansıyor. Rüzgar saçlarını doğal bir şekilde hareket ettiriyor.
+[4sn–6sn]
+Yakın çekim: Yumuşak doğal ışıkta yüzü; sevimli, zarif hatlar, makyajsız bir görünüm, ışıldayan bir cilt. Koyunlara şefkatle bakıyor, biri bacağına dokunduğunda hafifçe gülüyor. Doğal ortam sesleri: kuş cıvıltıları, uzaktan gelen koyun çanları (ghungroo), rüzgarın hışırtısı.
+[6sn–8sn]
+Arkadan takip çekimi: Çimenli bir yamaçta yukarı doğru yürüyor, koyunlar arkasından geliyor, dupattası dalgalanıyor, silüeti katmanlı Himalaya zirveleri ve sürüklenen bulutlar önünde çerçeveleniyor.
+[8sn–10sn]
+Final geniş çekim: Bir uçurumun kenarında duruyor, vadiye bakıyor, koyunlar etrafında sakince otluyor. Yumuşak rüzgar sesi, arka planda yavaşça yükselen uzak bir tapınak çanı veya flüt sesi. Çekim hafif bir vinyet ile kararırken, huzurlu ve dingin ifadesi üzerinde donuyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Himalayalar'da Sabah: Pahadi Kız Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/b275511/status/2072308089056084456)**
+
+**Yazar:** [TheAIDev](https://x.com/b275511) | **Kaynak:** [Link](https://x.com/b275511/status/2072308089056084456) | **Yayınlandı:** Jul 1, 2026
+
+---
+### Maine Coon Yavru Kedi Bahçe Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Altın saatlerde bahçede sincapları izleyen tüylü bir Maine Coon yavru kedisinin doğal hareketler ve ortam sesleri içeren gerçekçi bir videosunu oluşturmak için oldukça detaylı bir istem.
+
+#### 📝 İstem
+
+```
+Büyük yeşil gözleri ve püsküllü kulakları olan tüylü turuncu bir Maine Coon yavru kedi, altın saatlerde yemyeşil bir arka bahçeye bakan ahşap bir verandanın kenarında oturuyor. Ön planda, birkaç oyuncu gri sincap birbirini kovalıyor, ağaçlara tırmanıyor ve yere düşen meşe palamutlarını kemiriyor. Yavru kedinin kulakları dikleşiyor, kuyruğu heyecanla seğiriyor, başını merakla iki yana eğiyor ve sincapları izlerken cam korkuluklara doğru yumuşak cıvıltılı miyavlamalar çıkarıp küçük hamleler yapıyor. Gerçekçi el tipi akıllı telefon video tarzı, esintide doğal kürk hareketi, arka plandaki ağaçlar ve çiçeklerde güzel bir bokeh efekti ile sığ alan derinliği, sıcak gün batımı ışığı, yaprakları hışırdatan hafif rüzgar, kuş cıvıltıları ve sürükleyici bir ortam sesi için uzaktan gelen sincap sesleri. Son derece detaylı, gerçekçi hayvan davranışları.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072290295488905217/img/PcxzWxPGGJR2Q8Hk.jpg" width="600" alt="Maine Coon Yavru Kedi Bahçe Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2072290764441465218)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2072290764441465218) | **Yayınlandı:** Jul 1, 2026
+
+---
 ### Nostaljik Çocukluk Anıları Makro Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1910,6 +1958,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-02T07:31:02.414Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-02T10:38:11.856Z</sub>
 
 </div>

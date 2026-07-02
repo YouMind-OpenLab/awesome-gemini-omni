@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **78** |
+| 📝 Totale prompt | **80** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-07-02** |
 
@@ -56,6 +56,54 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Video di una ragazza Pahadi in una mattina sull'Himalaya
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per storyboard cinematografico per un video di 10 secondi che ritrae una giovane ragazza con pecore tra le nebbiose montagne dell'Himalaya, caratterizzato da vari tipi di inquadratura e suoni ambientali.
+
+#### 📝 Prompt
+
+```
+Titolo della scena: Ragazza Pahadi con pecore — Mattina sull'Himalaya
+[0s–2s]
+Inquadratura panoramica (Wide shot): Una giovane ragazza indiana di montagna, corporatura snella, circa 22 anni, cammina dolcemente lungo uno stretto sentiero di montagna. Indossa un tradizionale abito pahadi (scialle di lana morbida, kurta semplice, orecchini jhumka in argento), con il dupatta che ondeggia leggermente nella brezza. Montagne verdi nebbiose e pini sullo sfondo. Luce solare naturale del mattino, tonalità dorata tenue.
+[2s–4s]
+Mezza figura (Medium shot): Cammina accanto a un piccolo gregge di pecore, la mano poggiata delicatamente su un bastone di legno. La sua espressione è calma, calorosa e soddisfatta: un sorriso accennato, occhi che riflettono un'innocenza che ama la natura. Il vento le muove i capelli in modo naturale.
+[4s–6s]
+Primo piano (Close-up): Il suo viso illuminato da una luce naturale soffusa — lineamenti graziosi ed eleganti, look senza trucco, pelle luminosa. Guarda con affetto verso le pecore, ridendo dolcemente mentre una di esse le spinge la gamba. Suono ambientale naturale: cinguettio di uccelli, deboli campanacci delle pecore (ghungroo), fruscio del vento.
+[6s–8s]
+Ripresa in movimento da dietro (Tracking shot): Cammina più in alto lungo un pendio erboso, le pecore la seguono, il dupatta fluttua, la silhouette è incorniciata dalle vette himalayane stratificate e dalle nuvole che si spostano.
+[8s–10s]
+Inquadratura finale panoramica: Si ferma sul bordo di un dirupo, guardando verso la valle, con le pecore che pascolano tranquille intorno a lei. Suono di vento leggero, una campana di tempio lontana o un flauto in sottofondo che sfuma in entrata. Fermo immagine sulla sua espressione serena e pacifica mentre l'inquadratura sfuma in una delicata vignettatura.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Video di una ragazza Pahadi in una mattina sull'Himalaya">
+
+**[🎬 Guarda il video →](https://x.com/b275511/status/2072308089056084456)**
+
+**Autore:** [TheAIDev](https://x.com/b275511) | **Fonte:** [Link](https://x.com/b275511/status/2072308089056084456) | **Pubblicato:** Jul 1, 2026
+
+---
+### Video di un gattino Maine Coon in giardino
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente dettagliato per generare un video realistico di un soffice gattino Maine Coon che osserva degli scoiattoli in un giardino durante l'ora d'oro, caratterizzato da movimenti naturali e suoni ambientali.
+
+#### 📝 Prompt
+
+```
+Un soffice gattino Maine Coon arancione, con grandi occhi verdi e orecchie dotate di ciuffi, siede sul bordo di una terrazza in legno che si affaccia su un rigoglioso giardino nel retro durante l'ora d'oro. In primo piano, diversi scoiattoli grigi giocosi si rincorrono, si arrampicano sugli alberi e rosicchiano ghiande cadute. Le orecchie del gattino si drizzano, la coda si agita con entusiasmo, la testa si inclina curiosamente da un lato all'altro e il piccolo emette dolci miagolii cinguettanti e piccoli balzi verso la ringhiera in vetro mentre osserva gli scoiattoli. Stile video realistico da smartphone tenuto in mano, movimento naturale del pelo nella brezza, profondità di campo ridotta con un bellissimo effetto bokeh sugli alberi e sui fiori sullo sfondo, calda luce del tramonto, vento leggero che fa frusciare le foglie, cinguettio degli uccelli e il lontano chiacchiericcio degli scoiattoli per un suono ambientale immersivo. Altamente dettagliato, comportamento animale realistico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072290295488905217/img/PcxzWxPGGJR2Q8Hk.jpg" width="600" alt="Video di un gattino Maine Coon in giardino">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2072290764441465218)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2072290764441465218) | **Pubblicato:** Jul 1, 2026
+
+---
 ### Video macro sui ricordi nostalgici dell'infanzia
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1910,6 +1958,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-02T07:31:00.323Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-02T10:38:09.136Z</sub>
 
 </div>
