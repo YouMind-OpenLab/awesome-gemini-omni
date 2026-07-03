@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **80** |
+| 📝 Gesamtanzahl Prompts | **86** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-03** |
 
@@ -56,6 +56,185 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Vintage Tokyo DV-Camcorder-Ästhetik
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, sequenzbasierter Prompt, der entwickelt wurde, um die Aufnahmen einer DV-Camcorder-Kamera aus den frühen 2000er Jahren in einer Seitenstraße von Tokio zu replizieren.
+
+#### 📝 Prompt
+
+```
+Hauptmotiv: junge Japanerin, Anfang 20, natürliches Alltagserscheinungsbild, übergroße cremefarbene Strickjacke, verwaschenes marineblaues T-Shirt, lockere beige Cargohose, weiße Canvas-Sneaker, dünne Silberkette, glattes schwarzes Haar, das locker mit einer kleinen Schildpatt-Haarklammer hochgesteckt ist. Realistische Hauttextur, minimales Make-up, ruhiges, schüchternes Lächeln, sanfte, aber neugierige Persönlichkeit. Behalten Sie Identität, Kleidung, Frisur und Aussehen während des gesamten Videos konsistent bei.
+
+Ort: Authentische, ruhige Wohnstraße in Tokio während eines leichten Vormittagsregens. Enge Asphaltgassen, kompakte Häuser, kleine Balkone, Regenrinnen, Fahrräder mit Kunststoffabdeckungen, Topfpflanzen, Regenschirme an Hauseingängen, Strommasten, Oberleitungen, Verkaufsautomaten nur weit im Hintergrund ohne lesbare Werbung, Reflexionen auf nassem Asphalt, friedliche Nachbarschaftsatmosphäre. Keine Menschenmengen, keine kommerziellen Aktivitäten, kein Fokus auf moderne Beschilderung.
+
+Visueller Stil: Ultra-realistischer Dokumentarfilm-Stil. Echtes, ungezwungenes Verhalten. Natürliche Bewegungen. Ungeplantes „Slice-of-Life“-Gefühl an einem Regentag. Starke atmosphärische Authentizität. Reiche, reale Details und glaubwürdige menschliche Bewegungen.
+
+Kamerastil: Ästhetik eines DV-Camcorders für Endverbraucher aus den frühen 2000er Jahren. Ein Freund nimmt beiläufig alltägliche Momente auf. Starkes Handkamera-Wackeln, unperfekte Bildkomposition, häufiges Nachjustieren des Autofokus, Lens Breathing, Belichtungsschwankungen durch Reflexionen des grauen Himmels, gelegentliche Bewegungsunschärfe, subtiler Rolling-Shutter-Effekt, leichte digitale Kompressionsartefakte, verblasste Farben, weicher Kontrast, leichtes Sensorrauschen. Keine Stabilisierung. Keine filmischen Kamerabewegungen. Kein modernes Color Grading.
+
+00:00–00:02
+Vor einem kleinen Wohnungseingang. Sie tritt mit einem transparenten Regenschirm heraus, prüft den Regen mit ihrer Handfläche und lächelt dann in die Kamera. Der Fokus wandert kurz zu den Regentropfen auf dem Schirm.
+
+00:02–00:04
+Die Kamera folgt ihr die nasse Gasse entlang. Sie hält an, um eine kleine Topfpflanze vor dem herabtropfenden Wasser wegzustellen. Der Bildausschnitt neigt sich leicht, während der Kameramann um eine Pfütze herumgeht.
+
+00:04–00:06
+Sie bemerkt einen Papierkranich, der in der Nähe eines Abflusses hängengeblieben ist, hebt ihn auf und lacht leise. Der Autofokus wechselt zwischen ihren Händen und dem nassen Asphalt.
+
+00:06–00:08
+Neben einem schmalen Balkon schüttelt sie den Regen vom Schirm und hilft, eine Fahrradabdeckung gerade zu rücken. Wasser spritzt sanft auf den Boden.
+
+00:08–00:10
+Sie steht unter einem kleinen Vordach mit einem Dosenkaffee. Im kühlen Regen ist der Dampf nur schwach zu sehen. Die Kamera wandert zu tief und korrigiert dies erst spät.
+
+00:10–00:12
+Nahe Seitenansicht. Jemand außerhalb des Bildes sagt guten Morgen. Sie dreht sich um, hebt leicht ihren Regenschirm, lächelt und sagt beiläufig: „Ohayou.“ Die Kamera fängt das Lächeln etwas verzögert ein.
+
+00:12–00:15
+Sie geht langsam die regnerische Gasse entlang. Der nasse Asphalt spiegelt ihre Silhouette wider. Sie blickt einmal zurück, grinst kurz und biegt dann um die Ecke. Die Aufnahme bricht mitten im Schritt abrupt ab und wird schwarz.
+
+Audio: Nur natürliche Umgebungsgeräusche, leichter Regen, eine entfernte Fahrradklingel, leise Reifengeräusche auf nasser Straße, Vögel unter Dachvorsprüngen, das Klopfen auf dem Schirmstoff, Schritte durch Pfützen
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072754525077692416/img/KwonLLl5-X6lSWYR.jpg" width="600" alt="Vintage Tokyo DV-Camcorder-Ästhetik">
+
+**[🎬 Video ansehen →](https://x.com/PeshCreates/status/2072754584922005671)**
+
+**Autor:** [Pesh](https://x.com/PeshCreates) | **Quelle:** [Link](https://x.com/PeshCreates/status/2072754584922005671) | **Veröffentlicht:** Jul 2, 2026
+
+---
+### Authentisches Lissabon-Dokumentarvideo im Camcorder-Stil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, strukturierter Prompt zur Erstellung einer authentischen Szene im Stil eines Home-Videos der frühen 2000er Jahre in Lissabon mit Gemini Omni Flash.
+
+#### 📝 Prompt
+
+```
+Hauptmotiv: junge Portugiesin, Mitte 20, natürliches Alltagserscheinungsbild, blassgelbes, eng anliegendes Tanktop, lockere blaue Jeans mit hoher Taille, abgenutzte braune Ledersandalen, kleine goldene Creolen, welliges kastanienbraunes Haar, das zu einem unordentlichen, tiefen Dutt mit losen Strähnen gebunden ist. Realistische Hautstruktur, leichte Sommersprossen, minimales Make-up, lebhafte und entspannte Persönlichkeit. Behalten Sie Identität, Kleidung, Frisur und Aussehen während des gesamten Videos konsistent bei.
+
+Ort: Authentische Wohnstraße am Hang in Lissabon an einem warmen Vormittag. Enge Kopfsteinpflastergassen, geflieste Häuserfronten, kleine eiserne Balkone, zwischen den Fenstern hängende Wäsche, verblasste Türen, Basilikumtöpfe und Blumen, steile Stufen, alte Motorroller, sonnenbeschienene Mauern, ruhige Nachbarschaftsatmosphäre. Keine Touristenmassen, keine Geschäfte, keine Werbung, keine Cafés.
+
+Visueller Stil: Ultra-realistischer Dokumentarfilm-Stil. Echtes, ungezwungenes Verhalten. Natürliche Körpersprache. Uninszeniertes „Slice-of-Life“-Gefühl. Starke atmosphärische Authentizität. Reiche, reale Details und glaubwürdige menschliche Bewegungen.
+
+Kamerastil: Ästhetik eines DV-Camcorders für Endverbraucher aus den frühen 2000ern. Ein Freund filmt beiläufig alltägliche Momente. Starke Handkamera-Verwacklungen, unperfekte Bildkomposition, häufiges Nachjustieren des Autofokus, Lens Breathing, Belichtungsschwankungen zwischen sonnenbeschienenen Fliesen und schattigen Stufen, gelegentliche Bewegungsunschärfe, subtiler Rolling-Shutter-Effekt, leichte digitale Kompressionsartefakte, verblasste Farben, weicher Kontrast, leichtes Sensorrauschen. Keine Stabilisierung. Keine filmischen Kamerabewegungen. Kein modernes Color Grading.
+
+00:00–00:02
+Sie lehnt sich über einen kleinen Balkon und gießt Basilikumpflanzen. Ein paar Tropfen fallen auf die Straße darunter. Sie bemerkt die Kamera und zieht ein verspieltes, verlegenes Gesicht.
+
+00:02–00:04
+Die Kamera folgt ihr, als sie die Treppe hinunter auf die Kopfsteinpflastergasse geht. Sie trägt einen kleinen geflochtenen Korb und kontrolliert die Wäsche, die vor einem Fenster aufgehängt ist.
+
+00:04–00:06
+Sie findet eine Socke, die auf die Stufen gefallen ist, lacht und steckt sie wieder an die Wäscheleine. Der Autofokus wechselt zwischen ihrem Gesicht und den Wäscheklammern.
+
+00:06–00:08
+Auf einer steilen Treppe im Wohnviertel hält sie inne, um einen älteren Nachbarn außerhalb des Bildes zu grüßen. Ihre Körpersprache ist lässig und vertraut. Die Kamera rahmt sie etwas zu weit links ein.
+
+00:08–00:10
+Sie sitzt mit einer kleinen Espressotasse auf einer niedrigen Steinstufe. Sonnenlicht flackert über die gemusterten Fliesen hinter ihr. Die Belichtung pulsiert, während die Kamera nach oben schwenkt.
+
+00:10–00:12
+Nahe Seitenansicht. Jemand außerhalb des Bildes neckt sie sanft. Sie dreht sich um, lächelt breit und sagt beiläufig: „Bom dia.“ Die Kamera fängt ein leises Lachen nach den Worten ein.
+
+Audio: Nur natürliche Umgebungsgeräusche, entfernte Motorroller, Tauben, Schritte auf Kopfsteinpflaster, sich bewegende Wäsche auf Leinen, leise Stimmen aus der Nachbarschaft, von Pflanzen tropfendes Wasser, leichter Wind. Keine Musik. Kein Sounddesign. Kein Kommentar.
+
+Ziel: Authentisches Lissabonner Wohnleben, eingefangen wie ein vergessenes Home-Video aus den frühen 2000ern – ungezwungen, unperfekt, warm und zutiefst glaubwürdig.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072753893600038912/img/BngLHIuefeWAWkk_.jpg" width="600" alt="Authentisches Lissabon-Dokumentarvideo im Camcorder-Stil">
+
+**[🎬 Video ansehen →](https://x.com/PeshCreates/status/2072754211847078137)**
+
+**Autor:** [Pesh](https://x.com/PeshCreates) | **Quelle:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Veröffentlicht:** Jul 2, 2026
+
+---
+### Hyperrealistische VFX-Video-Editing-Prompts
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine Sammlung filmischer Prompts für Gemini Omni Flash, die realistische Textur-Overlays und Objekt-Tracking demonstrieren, wie etwa das Abziehen von Tattoos oder mit Honig bedeckte Tastaturen.
+
+#### 📝 Prompt
+
+```
+Eine Nahaufnahme des Unterarms einer Person mit einem schwarzen Tattoo. Eine Hand kommt ins Bild und zieht das Tattoo ab, als wäre es ein durchsichtiger Plastikaufkleber, wodurch die saubere, nicht tätowierte Haut darunter zum Vorschein kommt. Nahtlose Beleuchtung und natürliche Hauttextur.
+
+Eine Draufsicht auf Hände, die auf einer mechanischen Tastatur tippen. Die Tastatur und die Finger sind mit dickem, klebrigem, durchscheinendem Honig bedeckt. Fäden aus zähem Honig ziehen sich beim Drücken der Tasten zwischen den Fingerspitzen und den gelb-schwarzen Tastenkappen mit realistischer Physik.
+
+Eine Draufsicht auf Hände, die auf einer mechanischen Tastatur tippen. Das gesamte Tastaturgehäuse und die Tastenkappen sind in ein einziges Stück durchscheinenden grünen Wackelpudding verwandelt. Das Gelee wackelt bei jedem Tastenanschlag natürlich mit.
+
+Eine Draufsicht auf Hände, die auf einer mechanischen Tastatur tippen. Die Tastatur besteht aus glühendem, geschmolzenem Lavagestein, und kleine Flammenstöße sowie Glut entzünden sich beim Tippen um die Tasten herum. Die Hände bleiben vom Feuer unbeeinflusst und werfen dynamische orangefarbene Lichtreflexionen.
+
+Eine Draufsicht auf Hände, die auf einer mechanischen Tastatur tippen. Schlanke grüne Ranken sind überwuchert und fest um die Tastatur und die Tastenkappen gewickelt. Die Finger tippen mühelos zwischen dem kriechenden Blattwerk, das weiche Schatten wirft.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072723774974087168/img/zJBeX548eeRyd39V.jpg" width="600" alt="Hyperrealistische VFX-Video-Editing-Prompts">
+
+**[🎬 Video ansehen →](https://x.com/NeurainX/status/2072723878195929405)**
+
+**Autor:** [Neurain](https://x.com/NeurainX) | **Quelle:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Veröffentlicht:** Jul 2, 2026
+
+---
+### Sprechende Taube im Park
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein surrealer und filmischer Video-Prompt, in dem eine ältere Frau in einem Park von ihrer Taube unerwartet angesprochen wird.
+
+#### 📝 Prompt
+
+```
+Ein realistisches, filmisches 10-sekündiges Video einer sanften älteren Frau mit grauem Haar, die auf einer Holzbank in einem sonnendurchfluteten Park sitzt, trockenes Brot zerbröckelt und es einer kleinen Schar Tauben zu ihren Füßen zuwirft. Die Kamera schwenkt nach unten auf eine Nahaufnahme einer bestimmten grauen Taube. Die Taube schaut direkt zu der Frau auf, ihr Schnabel bewegt sich realistisch, während sie mit höflicher Stimme spricht: „Würdest du uns morgen bitte ein paar Krapfen mitbringen?“ Die Kamera schneidet zurück auf das Gesicht der Frau, das ihren Ausdruck völliger Überraschung und Fassungslosigkeit zeigt. Natürliche Beleuchtung, geringe Schärfentiefe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072681494816976896/img/THpOjpflO5_b9BE-.jpg" width="600" alt="Sprechende Taube im Park">
+
+**[🎬 Video ansehen →](https://x.com/michaelrabone/status/2072681730423521364)**
+
+**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Quelle:** [Link](https://x.com/michaelrabone/status/2072681730423521364) | **Veröffentlicht:** Jul 2, 2026
+
+---
+### Tokyo Smartphone-Reise-Vlog-Montage
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein umfassender Video-Generierungs-Prompt für einen 10-sekündigen Tokyo-Reise-Vlog mit einer konsistenten Creatorin, realistischen Kamera-Artefakten und natürlichen Interaktionen an ikonischen Orten.
+
+#### 📝 Prompt
+
+```
+Erstelle eine 10-sekündige, filmische Reise-Vlog-Montage. Verwende in jeder Einstellung durchgehend das hochgeladene Gesicht der Frau. Sie ist eine atemberaubende junge Reise-Creatorin mit langem, dunklem, welligem Haar und lockigem Pony, die stylische, übergroße japanische Streetwear trägt (burgunderrote lange Lederjacke, Umhängetasche), mit natürlichem Make-up und einer fröhlichen, lebhaften Persönlichkeit. Das gesamte Video sollte sich wie echtes Smartphone-Material anfühlen, einschließlich handgeführter Kamerabewegungen, unperfekter Bildausschnitte, zufälliger Lens Flares, leichter Bewegungsunschärfe, Rolling-Shutter-Effekt, hohem ISO-Rauschen bei Nacht, Autofokus-Pumpen, überbelichteten Highlights, leichter tonnenförmiger Verzeichnung durch das Weitwinkelobjektiv eines Smartphones, winzigen Fingerabdrücken auf der Linse und natürlichem Kamerawackeln. Vermeide einen polierten kommerziellen Stil. Story-Ablauf (10 Sekunden) 0,0–0,8s Low-Angle-Selfie vor dem Tokyo Tower. Sie lächelt natürlich, während sie das Handy ausrichtet. Der Horizont ist leicht geneigt. Heller, überbelichteter bewölkter Himmel. Winziger Fingerabdruck auf der Linse. 0,8–1,6s Gang über die Shibuya-Kreuzung bei Nacht. Blick zurück zur Kamera während des Gehens. Neonlichter spiegeln sich auf nassen Straßen. Starke Bewegungsunschärfe. Schneller Whip-Pan-Übergang. 1,6–2,4s In einem japanischen Convenience Store. Hält ein Onigiri nah an die Kamera. Zieht niedlich und verspielt die Augenbrauen hoch. Hartes Neonlicht. Hintergrundregale weich verschwommen. 2,4–3,2s Alleine im Yoyogi-Park sitzend. Ein ruhiger, authentischer Moment. Blick weg von der Kamera. Weiches Sonnenlicht fällt durch die Bäume. Leichter Fokusfehler. 3,2–4,0s Essen von frisch zubereitetem Takoyaki. Spontane Reaktion nach dem ersten Bissen. Warmes Laternenlicht. Gesicht durch Bewegung leicht verschwommen. Natürliches Lachen. 4,0–4,8s Stehend vor einem leuchtenden Verkaufsautomaten. Blaues und rosa Licht auf ihrem Gesicht. Drückt beiläufig einen Getränkeknopf. Sichtbares nächtliches Bildrauschen. 4,8–5,6s Spiegelung in einem Fenster eines Tokyoter Zuges. Überlagerte Stadtlichter spiegeln sich im Glas. Sie schaut nachdenklich aus dem Fenster. Die Zugbewegung erzeugt Lichtstreifen. 5,6–6,4s Gehen unter Torii-Toren. Low-Angle-Tracking-Shot von hinten. Kurzes Umdrehen des Kopfes. Bewegungsunschärfe. Heller Lichtschein vom Himmel. 6,4–7,2s Immersive digitale Kunstausstellung. Blaue, violette und goldene Lichter bewegen sich über ihr Gesicht. Schaut staunend nach oben. Natürliches Rauschen bei wenig Licht. 7,2–8,0s Weitwinkel-Low-Angle-Aufnahme neben einer riesigen silbernen Kugel-Skulptur. Sie wirkt klein unter der Skulptur. Handy-Linsenverzerrung. Himmel leicht überbelichtet. 8,0–8,8s Gehen durch eine laternenbeleuchtete Gasse. Die Kamera folgt von hinten. Sie dreht sich um und lächelt. Warmes Laternenleuchten. Natürliches nächtliches Bildrauschen. 8,8–10,0s Rooftop-Selfie mit Blick auf die Skyline von Tokyo. Wind weht ihr Haar über die Kameralinse. Horizont leicht geneigt. Überbelichtete Stadtlichter. Sie lacht natürlich, während sie einen Arm in Richtung Skyline ausstreckt. Bearbeitungsstil * Schnelle Whip-Pan-Übergänge * Speed Ramping * Match Cuts * Natürliche Jump Cuts * Handgeführte Kamerabewegungen * Leichter Rolling-Shutter-Effekt * Smartphone-HDR-Belichtung * Authentische Reise-Vlog-Energie * Keine Zeitlupe * Kein filmisches Color Grading * Authentische TikTok-Creator-Ästhetik * Warme Hauttöne * Hoher Realismus * Konsistente Gesichtsidentität in jeder Szene * 16:9 Landscape, 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072614460746080256/img/H_BX2Tgbu6m2vVFV.jpg" width="600" alt="Tokyo Smartphone-Reise-Vlog-Montage">
+
+**[🎬 Video ansehen →](https://x.com/xzjken/status/2072615060632228239)**
+
+**Autor:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Quelle:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Veröffentlicht:** Jul 2, 2026
+
+---
+### Riesenfaultier gegen Godzilla: Stadtkampf
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, filmreifer Prompt, in dem ein berg-großes Faultier versehentlich ein Elefanten-Godzilla-Monster mit Slapstick-Physik besiegt.
+
+#### 📝 Prompt
+
+```
+Ein gigantisches, sich langsam bewegendes Faultier von der Größe eines Berges hängt an einem Wolkenkratzer und gähnt herzhaft. Ein wütendes Elefanten-Godzilla-Monster stampft darauf zu und speit winzige Blitze. Das Faultier streckt träge eine Kralle aus und schleudert das Monster mühelos meilenweit weg. Das Faultier zuckt mit den Schultern und schläft auf dem Gebäude weiter. Absurder Geschwindigkeitskontrast, Slapstick-Physik, humorvolle Zeitlupen-Einschläge, lebhafte Zerstörung der Stadt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Riesenfaultier gegen Godzilla: Stadtkampf">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2072542482857099759)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Veröffentlicht:** Jul 2, 2026
+
+---
 ### Video eines Pahadi-Mädchens am Morgen im Himalaya
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1958,6 +2137,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-03T07:19:21.901Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-03T10:34:23.653Z</sub>
 
 </div>

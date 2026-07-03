@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **80** |
+| 📝 Total de prompts | **86** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-03** |
 
@@ -56,6 +56,185 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Estética de videocámara DV vintage de Tokio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente detallado basado en secuencias, diseñado para replicar las grabaciones de videocámaras DV de consumo de principios de los 2000 en una callejuela de Tokio.
+
+#### 📝 Prompt
+
+```
+Sujeto principal: mujer japonesa joven, de unos 20 años, apariencia natural y cotidiana, cárdigan de punto color crema oversize, camiseta azul marino desteñida, pantalones cargo beige holgados, zapatillas de lona blancas, collar de plata fino, cabello negro lacio recogido de forma casual con una pequeña pinza de carey. Textura de piel realista, maquillaje mínimo, sonrisa tranquila y tímida, personalidad suave pero curiosa. Mantener la identidad, la ropa, el peinado y la apariencia consistentes durante todo el video.
+
+Ubicación: Una auténtica y tranquila callejuela residencial de Tokio durante una lluvia ligera a media mañana. Carriles estrechos de asfalto, casas compactas, balcones pequeños, canaletas de lluvia, bicicletas con fundas de plástico, plantas en macetas, paraguas cerca de las puertas, postes de luz, cables aéreos, máquinas expendedoras solo en el fondo lejano sin anuncios legibles, reflejos en el pavimento mojado, ambiente de vecindario pacífico. Sin multitudes, sin actividad comercial, sin enfoque en señalización moderna.
+
+Estilo visual: Realismo documental ultra realista. Comportamiento genuino y espontáneo. Movimiento natural. Sensación de vida cotidiana en un día lluvioso sin guion. Fuerte autenticidad ambiental. Ricos detalles del mundo real y movimiento humano creíble.
+
+Estilo de cámara: Estética de videocámara DV de consumo de principios de los 2000. Un amigo grabando casualmente momentos cotidianos. Mucho movimiento de mano, encuadre imperfecto, enfoque automático que busca constantemente, respiración de lente, fluctuaciones de exposición por los reflejos del cielo gris, desenfoque de movimiento ocasional, sutil efecto de rolling shutter, artefactos de compresión digital leves, colores desteñidos, contraste suave, ligero ruido de sensor. Sin estabilización. Sin movimientos de cámara cinematográficos. Sin corrección de color moderna.
+
+00:00–00:02
+Fuera de la entrada de un pequeño apartamento. Ella sale sosteniendo un paraguas transparente, comprueba la lluvia con la palma de la mano y luego sonríe a la cámara. El enfoque se desplaza brevemente hacia las gotas de lluvia en el paraguas.
+
+00:02–00:04
+La cámara la sigue por el carril mojado. Ella se detiene para mover una pequeña planta en maceta lejos del agua que gotea. El encuadre se inclina ligeramente mientras el operador de cámara esquiva un charco.
+
+00:04–00:06
+Ella nota una grulla de papel atrapada cerca de un desagüe, la recoge y se ríe suavemente. El enfoque automático cambia entre sus manos y el pavimento mojado.
+
+00:06–00:08
+Junto a un balcón estrecho, sacude la lluvia del paraguas y ayuda a enderezar la funda de una bicicleta. El agua salpica suavemente el suelo.
+
+00:08–00:10
+Ella se para bajo un pequeño toldo con un café en lata caliente. El vapor es tenue bajo la lluvia fría. La cámara se desvía demasiado hacia abajo y luego corrige tarde.
+
+00:10–00:12
+Ángulo lateral cerrado. Alguien fuera de cámara dice buenos días. Ella se gira, levanta el paraguas ligeramente, sonríe y dice casualmente: “Ohayou”. La cámara captura la sonrisa un poco tarde.
+
+00:12–00:15
+Ella camina lentamente por el carril lluvioso. El pavimento mojado refleja su silueta. Mira hacia atrás una vez, esboza una pequeña sonrisa y luego dobla la esquina. La grabación se corta abruptamente a negro a mitad del paso.
+
+Audio: Solo sonido ambiental natural, lluvia ligera, timbre de bicicleta a lo lejos, neumáticos suaves sobre carretera mojada, pájaros bajo los aleros, golpeteo de la tela del paraguas, pasos a través de charcos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072754525077692416/img/KwonLLl5-X6lSWYR.jpg" width="600" alt="Estética de videocámara DV vintage de Tokio">
+
+**[🎬 Ver video →](https://x.com/PeshCreates/status/2072754584922005671)**
+
+**Autor:** [Pesh](https://x.com/PeshCreates) | **Fuente:** [Link](https://x.com/PeshCreates/status/2072754584922005671) | **Publicado:** Jul 2, 2026
+
+---
+### Video auténtico de estilo cámara de video documental en Lisboa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente detallado y estructurado para generar una escena al estilo de video casero de principios de los 2000 en Lisboa usando Gemini Omni Flash.
+
+#### 📝 Prompt
+
+```
+Sujeto principal: mujer portuguesa joven, de unos 20 y tantos años, apariencia natural y cotidiana, camiseta sin mangas ajustada de color amarillo pálido, jeans azules holgados de tiro alto, sandalias de cuero marrón desgastadas, pequeños aretes de aro dorados, cabello castaño ondulado recogido en un moño bajo despeinado con mechones sueltos. Textura de piel realista, pecas ligeras, maquillaje mínimo, personalidad alegre y relajada. Mantener la identidad, la ropa, el peinado y la apariencia consistentes durante todo el video.
+
+Ubicación: Una auténtica calle residencial en una colina de Lisboa durante una cálida mañana. Carriles estrechos de adoquines, fachadas de apartamentos con azulejos, pequeños balcones de hierro, ropa tendida entre las ventanas, puertas desgastadas, macetas con albahaca y flores, escalones empinados, scooters viejos, paredes iluminadas por el sol, atmósfera de vecindario tranquilo. Sin multitudes de turistas, sin tiendas, sin publicidad, sin cafés.
+
+Estilo visual: Realismo documental ultra realista. Comportamiento genuino y espontáneo. Lenguaje corporal natural. Sensación de vida cotidiana sin guion. Fuerte autenticidad ambiental. Ricos detalles del mundo real y movimiento humano creíble.
+
+Estilo de cámara: Estética de videocámara DV de consumo de principios de los 2000. Un amigo grabando casualmente momentos cotidianos. Mucho movimiento de cámara en mano, encuadre imperfecto, enfoque automático que busca constantemente, respiración de lente, cambios de exposición entre los azulejos iluminados por el sol y los escalones sombreados, desenfoque de movimiento ocasional, sutil efecto de rolling shutter, leves artefactos de compresión digital, colores desvanecidos, contraste suave, ligero ruido de sensor. Sin estabilización. Sin movimientos de cámara cinematográficos. Sin corrección de color moderna.
+
+00:00–00:02
+Ella se inclina sobre un pequeño balcón para regar plantas de albahaca. Unas pocas gotas caen a la calle. Nota la cámara y pone una cara de vergüenza juguetona.
+
+00:02–00:04
+La cámara la sigue mientras baja las escaleras hacia el carril de adoquines. Lleva una pequeña cesta tejida y revisa la ropa tendida fuera de una ventana.
+
+00:04–00:06
+Encuentra un calcetín que se cayó en los escalones, se ríe y lo vuelve a colgar en el tendedero. El enfoque automático cambia entre su rostro y los ganchos de la ropa.
+
+00:06–00:08
+En una escalera residencial empinada, se detiene para saludar a un vecino anciano que está fuera de cámara. Su lenguaje corporal es casual y familiar. La cámara la encuadra un poco demasiado a la izquierda.
+
+00:08–00:10
+Se sienta en un escalón de piedra bajo con una pequeña taza de espresso. La luz del sol parpadea sobre los azulejos estampados detrás de ella. La exposición pulsa mientras la cámara se inclina hacia arriba.
+
+00:10–00:12
+Ángulo lateral cerrado. Alguien fuera de cámara la molesta suavemente. Ella se gira, sonríe ampliamente y dice casualmente: “Bom dia”. La cámara captura una risa suave después de las palabras.
+
+Audio: Solo sonido ambiental natural, scooters a lo lejos, palomas, pasos sobre adoquines, tela moviéndose en las cuerdas, voces suaves del vecindario, agua goteando de las plantas, viento ligero. Sin música. Sin diseño de sonido. Sin narración.
+
+Objetivo: La vida residencial auténtica de Lisboa capturada como un video casero olvidado de principios de los 2000, espontáneo, imperfecto, cálido y profundamente creíble.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072753893600038912/img/BngLHIuefeWAWkk_.jpg" width="600" alt="Video auténtico de estilo cámara de video documental en Lisboa">
+
+**[🎬 Ver video →](https://x.com/PeshCreates/status/2072754211847078137)**
+
+**Autor:** [Pesh](https://x.com/PeshCreates) | **Fuente:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Publicado:** Jul 2, 2026
+
+---
+### Prompts de edición de video con efectos visuales hiperrealistas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una colección de prompts cinematográficos para Gemini Omni Flash que demuestran superposiciones de texturas realistas y seguimiento de objetos, como despegar tatuajes y teclados cubiertos de miel.
+
+#### 📝 Prompt
+
+```
+Un primer plano del antebrazo de una persona con un tatuaje de tinta negra. Una mano entra en el encuadre y despega el tatuaje como si fuera una calcomanía de plástico transparente, revelando una piel limpia y sin tatuajes debajo. Iluminación impecable y textura de piel natural.
+
+Una vista cenital de unas manos escribiendo en un teclado mecánico. El teclado y los dedos están cubiertos de miel espesa, pegajosa y translúcida. Hilos de miel viscosa se estiran y se tensan entre las yemas de los dedos y las teclas amarillas y negras con una física realista a medida que se presionan las teclas.
+
+Una vista cenital de unas manos escribiendo en un teclado mecánico. Toda la carcasa y las teclas del teclado se transforman en una sola pieza de gelatina verde translúcida. La gelatina se tambalea de forma natural con cada pulsación.
+
+Una vista cenital de unas manos escribiendo en un teclado mecánico. El teclado está hecho de roca de lava fundida brillante, y pequeñas ráfagas de llamas y brasas se encienden alrededor de las teclas mientras los dedos escriben. Las manos permanecen intactas por el fuego, proyectando reflejos de luz naranja dinámica.
+
+Una vista cenital de unas manos escribiendo en un teclado mecánico. Enredaderas verdes y delgadas crecen y se envuelven firmemente alrededor del teclado y las teclas. Los dedos escriben sin esfuerzo entre el follaje que se arrastra, proyectando sombras suaves.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072723774974087168/img/zJBeX548eeRyd39V.jpg" width="600" alt="Prompts de edición de video con efectos visuales hiperrealistas">
+
+**[🎬 Ver video →](https://x.com/NeurainX/status/2072723878195929405)**
+
+**Autor:** [Neurain](https://x.com/NeurainX) | **Fuente:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Publicado:** Jul 2, 2026
+
+---
+### Escena del parque con paloma parlante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video surrealista y cinematográfico que presenta a una anciana en un parque cuya paloma le habla inesperadamente.
+
+#### 📝 Prompt
+
+```
+Un video realista y cinematográfico de 10 segundos de una anciana amable con cabello gris sentada en un banco de madera en un parque local iluminado por el sol, desmoronando pan seco y lanzándolo a una pequeña bandada de palomas a sus pies. La cámara baja hacia un primer plano de una paloma gris específica. La paloma mira directamente a la mujer, su pico se mueve de forma realista mientras habla con una voz educada: "¿Le importaría traernos algunas donas mañana, por favor?". La cámara vuelve al rostro de la mujer, mostrando su expresión de total sorpresa y desconcierto. Iluminación natural, poca profundidad de campo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072681494816976896/img/THpOjpflO5_b9BE-.jpg" width="600" alt="Escena del parque con paloma parlante">
+
+**[🎬 Ver video →](https://x.com/michaelrabone/status/2072681730423521364)**
+
+**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fuente:** [Link](https://x.com/michaelrabone/status/2072681730423521364) | **Publicado:** Jul 2, 2026
+
+---
+### Montaje de vlog de viajes en Tokio grabado con smartphone
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt integral de generación de video para un vlog de viajes de 10 segundos en Tokio, que presenta a una creadora constante, artefactos de cámara realistas e interacciones naturales en lugares icónicos.
+
+#### 📝 Prompt
+
+```
+Crea un montaje de vlog de viajes cinematográfico de 10 segundos. A lo largo de todas las tomas, utiliza de forma consistente el rostro femenino subido. Es una impresionante joven creadora de viajes con cabello largo, oscuro y ondulado con flequillo rizado, que viste ropa urbana japonesa moderna y holgada (chaqueta larga de cuero color burdeos, bolso al hombro), con maquillaje natural y una personalidad alegre y vivaz. Todo el video debe sentirse como una grabación real de smartphone, incluyendo movimiento de cámara en mano, encuadre imperfecto, destellos de lente accidentales, ligero desenfoque de movimiento, efecto rolling shutter, ruido de ISO alto de noche, búsqueda de enfoque automático, luces altas quemadas, ligera distorsión de barril propia del lente gran angular de un teléfono, pequeñas manchas en el lente y movimiento natural de la cámara. Evita un estilo comercial pulido. Flujo de la historia (10 segundos) 0.0–0.8s Selfie en ángulo contrapicado frente a la Tokyo Tower. Ella sonríe naturalmente mientras ajusta el teléfono. El horizonte está ligeramente inclinado. Cielo nublado brillante sobreexpuesto. Pequeña huella dactilar en el lente. 0.8–1.6s Caminando por el cruce de Shibuya de noche. Mirando hacia la cámara mientras camina. Luces de neón reflejadas en calles mojadas. Fuerte desenfoque de movimiento. Transición rápida de barrido (whip pan). 1.6–2.4s Dentro de una tienda de conveniencia japonesa. Sosteniendo un onigiri cerca de la cámara. Levantando las cejas de forma linda y juguetona. Iluminación fluorescente intensa. Estantes de fondo suavemente desenfocados. 2.4–3.2s Sentada sola en el parque Yoyogi. Un momento auténtico y tranquilo. Mirando lejos de la cámara. Luz solar suave filtrándose a través de los árboles. Ligero error de enfoque. 3.2–4.0s Comiendo takoyaki recién hecho. Reacción instantánea tras el primer bocado. Iluminación cálida de farol. Rostro ligeramente desenfocado debido al movimiento. Riendo naturalmente. 4.0–4.8s De pie frente a una máquina expendedora brillante. Luces azules y rosas en su rostro. Presionando casualmente el botón de una bebida. Ruido de grano nocturno visible. 4.8–5.6s Reflejo en la ventana de un tren en Tokio. Luces de la ciudad superpuestas reflejadas en el cristal. Ella mira pensativa por la ventana. El movimiento del tren crea estelas de luz. 5.6–6.4s Caminando bajo puertas Torii. Toma de seguimiento en ángulo contrapicado desde atrás. Breve giro de cabeza. Desenfoque de movimiento. Halo brillante proveniente del cielo. 6.4–7.2s Exposición de arte digital inmersivo. Luces azules, púrpuras y doradas moviéndose por su rostro. Mirando hacia arriba con asombro. Ruido natural de baja iluminación. 7.2–8.0s Toma gran angular en ángulo contrapicado junto a una escultura gigante de bala plateada. Ella aparece pequeña bajo la escultura. Distorsión de lente de teléfono. Cielo ligeramente sobreexpuesto. 8.0–8.8s Caminando por un callejón iluminado por faroles. La cámara sigue desde atrás. Ella se gira y sonríe. Resplandor cálido de farol. Ruido de grano nocturno natural. 8.8–10.0s Selfie en la azotea con vistas al horizonte de Tokio. El viento sopla el cabello sobre el lente de la cámara. Horizonte ligeramente inclinado. Luces de la ciudad sobreexpuestas. Ella ríe naturalmente mientras extiende un brazo hacia el horizonte. Estilo de edición * Transiciones rápidas de barrido (whip pan) * Speed ramping * Cortes de coincidencia (match cuts) * Jump cuts naturales * Movimiento de cámara en mano * Ligero efecto rolling shutter * Exposición HDR de smartphone * Energía auténtica de vlog de viajes * Sin cámara lenta * Sin corrección de color cinematográfica * Estética auténtica de creador de TikTok * Tonos de piel cálidos * Alto realismo * Identidad facial consistente en cada escena * 16:9 horizontal, 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072614460746080256/img/H_BX2Tgbu6m2vVFV.jpg" width="600" alt="Montaje de vlog de viajes en Tokio grabado con smartphone">
+
+**[🎬 Ver video →](https://x.com/xzjken/status/2072615060632228239)**
+
+**Autor:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Fuente:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Publicado:** Jul 2, 2026
+
+---
+### Batalla en la ciudad: Perezoso gigante contra Godzilla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinemático altamente detallado que presenta a un perezoso del tamaño de una montaña derrotando accidentalmente a un monstruo elefante-Godzilla con físicas de comedia slapstick.
+
+#### 📝 Prompt
+
+```
+Un perezoso gigantesco y de movimiento lento, del tamaño de una montaña, cuelga de un rascacielos mientras bosteza estrepitosamente. Un furioso monstruo elefante-Godzilla avanza hacia él lanzando pequeños rayos. El perezoso extiende perezosamente una garra y, sin esfuerzo alguno, lanza al monstruo a kilómetros de distancia. El perezoso se encoge de hombros y vuelve a dormir sobre el edificio. Contraste absurdo de velocidad, físicas de comedia slapstick, impactos humorísticos en cámara lenta y destrucción vibrante de la ciudad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Batalla en la ciudad: Perezoso gigante contra Godzilla">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2072542482857099759)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Publicado:** Jul 2, 2026
+
+---
 ### Video de chica Pahadi en la mañana del Himalaya
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1958,6 +2137,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-03T07:19:21.440Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-03T10:34:22.849Z</sub>
 
 </div>

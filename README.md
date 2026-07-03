@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **80** |
+| 📝 Total Prompts | **86** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-03** |
 
@@ -56,6 +56,185 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Vintage Tokyo DV Camcorder Aesthetic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, sequence-based prompt designed to replicate early-2000s consumer DV camcorder footage in a Tokyo backstreet.
+
+#### 📝 Prompt
+
+```
+Main subject: young Japanese woman, early 20s, natural everyday appearance, oversized cream knit cardigan, faded navy T-shirt, loose beige cargo pants, white canvas sneakers, thin silver necklace, straight black hair clipped loosely with a small tortoiseshell hair clip. Realistic skin texture, minimal makeup, calm shy smile, soft but curious personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
+
+Location: Authentic quiet Tokyo residential backstreet during a light late-morning rain. Narrow asphalt lanes, compact homes, small balconies, rain gutters, bicycles with plastic covers, potted plants, umbrellas near doorways, utility poles, overhead wires, vending machines only in the far background with no readable ads, wet pavement reflections, peaceful neighborhood feel. No crowds, no commercial activity, no modern signage focus.
+
+Visual Style: Ultra-realistic documentary realism. Genuine candid behavior. Natural movement. Unscripted rainy-day slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
+
+Camera Style: Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping from grey sky reflections, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
+
+00:00–00:02
+Outside a small apartment entrance. She steps out holding a clear umbrella, checks the rain with her palm, then smiles at the camera. Focus drifts briefly to raindrops on the umbrella.
+
+00:02–00:04
+The camera follows her down the wet lane. She stops to move a small potted plant away from dripping water. The frame tilts slightly as the camera operator steps around a puddle.
+
+00:04–00:06
+She notices a paper crane caught near a drain, picks it up, and laughs quietly. Autofocus shifts between her hands and the wet pavement.
+
+00:06–00:08
+Beside a narrow balcony, she shakes rain off the umbrella and helps straighten a bicycle cover. Water splashes softly onto the ground.
+
+00:08–00:10
+She stands under a small awning with a warm canned coffee. Steam is faint in the cool rain. The camera drifts too low, then corrects late.
+
+00:10–00:12
+Close side angle. Someone off-camera says good morning. She turns, raises her umbrella slightly, smiles, and casually says, “Ohayou.” The camera catches the smile slightly late.
+
+00:12–00:15
+She walks slowly away along the rainy lane. Wet pavement reflects her silhouette. She glances back once, gives a small grin, then turns the corner. Recording cuts abruptly to black mid-step.
+
+Audio: Natural ambient sound only, light rain, distant bicycle bell, soft tires on wet road, birds under eaves, umbrella fabric tapping, footsteps through puddles
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072754525077692416/img/KwonLLl5-X6lSWYR.jpg" width="600" alt="Vintage Tokyo DV Camcorder Aesthetic">
+
+**[🎬 Watch Video →](https://x.com/PeshCreates/status/2072754584922005671)**
+
+**Author:** [Pesh](https://x.com/PeshCreates) | **Source:** [Link](https://x.com/PeshCreates/status/2072754584922005671) | **Published:** Jul 2, 2026
+
+---
+### Authentic Lisbon Documentary Camcorder Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed, structured prompt for generating a candid, early-2000s home video style scene in Lisbon using Gemini Omni Flash.
+
+#### 📝 Prompt
+
+```
+Main subject: young Portuguese woman, mid 20s, natural everyday appearance, pale yellow fitted tank top, loose high-waisted blue jeans, worn brown leather sandals, small gold hoop earrings, wavy chestnut hair tied in a messy low bun with loose strands. Realistic skin texture, light freckles, minimal makeup, lively and relaxed personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
+
+Location: Authentic Lisbon residential hill street during warm late morning. Narrow cobblestone lanes, tiled apartment fronts, small iron balconies, laundry hanging between windows, faded doors, potted basil and flowers, steep steps, old scooters, sunlit walls, quiet neighborhood atmosphere. No tourist crowds, no shops, no advertisements, no cafés.
+
+Visual Style: Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
+
+Camera Style: Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping between sunlit tile and shaded steps, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
+
+00:00–00:02
+She leans over a small balcony watering basil plants. A few drops fall onto the street below. She notices the camera and makes a playful embarrassed face.
+
+00:02–00:04
+The camera follows her as she comes downstairs onto the cobblestone lane. She carries a small woven basket and checks laundry pinned outside a window.
+
+00:04–00:06
+She finds a sock dropped on the steps, laughs, and pins it back to the clothesline. Autofocus shifts between her face and the laundry clips.
+
+00:06–00:08
+On a steep residential staircase, she pauses to greet an elderly neighbor off-camera. Her body language is casual and familiar. The camera frames her slightly too far left.
+
+00:08–00:10
+She sits on a low stone step with a small espresso cup. Sunlight flickers over patterned tiles behind her. Exposure pulses as the camera tilts upward.
+
+00:10–00:12
+Close side angle. Someone off-camera teases her gently. She turns, smiles wide, and casually says, “Bom dia.” The camera catches a soft laugh after the words.
+
+Audio: Natural ambient sound only, distant scooters, pigeons, footsteps on cobblestone, fabric moving on lines, soft neighborhood voices, water dripping from plants, light wind. No music. No sound design. No narration.
+
+Goal: Authentic Lisbon residential life captured like a forgotten early-2000s home video, candid, imperfect, warm, and deeply believable.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072753893600038912/img/BngLHIuefeWAWkk_.jpg" width="600" alt="Authentic Lisbon Documentary Camcorder Video">
+
+**[🎬 Watch Video →](https://x.com/PeshCreates/status/2072754211847078137)**
+
+**Author:** [Pesh](https://x.com/PeshCreates) | **Source:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Published:** Jul 2, 2026
+
+---
+### Hyper-realistic VFX Video Editing Prompts
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A collection of cinematic prompts for Gemini Omni Flash demonstrating realistic texture overlays and object tracking, such as peeling off tattoos and honey-covered keyboards.
+
+#### 📝 Prompt
+
+```
+A close-up shot of a person's forearm with a black ink tattoo. A hand enters the frame and peels off the tattoo as if it were a clear plastic sticker, revealing clean, un-tattooed skin underneath. Seamless lighting and natural skin texture.
+
+A top-down view of hands typing on a mechanical keyboard. The keyboard and the fingers are covered in thick, sticky, translucent honey. Strands of gooey honey stretch and pull between the fingertips and the yellow and black keycaps with realistic physics as the keys are pressed.
+
+A top-down view of hands typing on a mechanical keyboard. The entire keyboard housing and keycaps are transformed into a single piece of translucent green gelatin mold. The jelly wobbles naturally with each keystroke.
+
+A top-down view of hands typing on a mechanical keyboard. The keyboard is made of glowing, molten lava rock, and small flame bursts and embers ignite around the keys as the fingers type. The hands remain unaffected by the fire, casting dynamic orange light reflections.
+
+A top-down view of hands typing on a mechanical keyboard. Slender green leafy vines are overgrown and wrapped tightly around the keyboard and keycaps. The fingers type effortlessly between the crawling foliage, casting soft shadows.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072723774974087168/img/zJBeX548eeRyd39V.jpg" width="600" alt="Hyper-realistic VFX Video Editing Prompts">
+
+**[🎬 Watch Video →](https://x.com/NeurainX/status/2072723878195929405)**
+
+**Author:** [Neurain](https://x.com/NeurainX) | **Source:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Published:** Jul 2, 2026
+
+---
+### Talking Pigeon Park Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal and cinematic video prompt featuring an elderly woman in a park whose pigeon unexpectedly speaks to her.
+
+#### 📝 Prompt
+
+```
+A realistic, cinematic 10-second video of a gentle elderly woman with gray hair sitting on a wooden bench in a sunlit local park, crumbling dry bread and tossing it to a small flock of pigeons at her feet. The camera pans down to a close-up of one specific grey pigeon. The pigeon looks directly up at the woman, its beak moving realistically as it speaks in a polite voice: "Would you mind bringing us some doughnuts tomorrow please?" The camera cuts back to the woman's face, showing her expression of utter shock and bewilderment. Natural lighting, shallow depth of field.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072681494816976896/img/THpOjpflO5_b9BE-.jpg" width="600" alt="Talking Pigeon Park Scene">
+
+**[🎬 Watch Video →](https://x.com/michaelrabone/status/2072681730423521364)**
+
+**Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2072681730423521364) | **Published:** Jul 2, 2026
+
+---
+### Tokyo Smartphone Travel Vlog Montage
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A comprehensive video generation prompt for a 10-second Tokyo travel vlog featuring a consistent female creator, realistic camera artifacts, and natural interactions in iconic locations.
+
+#### 📝 Prompt
+
+```
+Create a 10-second cinematic travel vlog montage. Throughout every shot, consistently use the uploaded female face. She is a stunning young female travel creator with long dark wavy hair and curly bangs, wearing stylish oversized Japanese streetwear (burgundy long leather jacket, shoulder bag), with natural makeup and an upbeat, lively personality. The entire video should feel like real smartphone footage, including handheld camera movement, imperfect framing, accidental lens flares, slight motion blur, rolling shutter, high ISO noise at night, autofocus hunting, blown-out highlights, slight barrel distortion from a phone's wide-angle lens, tiny lens smudges, and natural camera shake. Avoid a polished commercial style. Story Flow (10 seconds) 0.0–0.8s Low-angle selfie in front of Tokyo Tower. She smiles naturally while adjusting the phone. Horizon is slightly tilted. Bright overexposed cloudy sky. Tiny fingerprint on the lens. 0.8–1.6s Walking through Shibuya Crossing at night. Looking back at the camera while walking. Neon lights reflecting on wet roads. Strong motion blur. Quick whip pan transition. 1.6–2.4s Inside a Japanese convenience store. Holding an onigiri close to the camera. Cutely and playfully raising eyebrows. Harsh fluorescent lighting. Background shelves softly blurred. 2.4–3.2s Sitting alone in Yoyogi Park. A quiet authentic moment. Looking away from the camera. Soft sunlight filtering through trees. Slight focus miss. 3.2–4.0s Eating freshly made takoyaki. Instant reaction after the first bite. Warm lantern lighting. Face slightly blurred due to movement. Laughing naturally. 4.0–4.8s Standing in front of a glowing vending machine. Blue and pink lights on her face. Casually pressing a drink button. Visible nighttime grain noise. 4.8–5.6s Reflection in a Tokyo train window. Layered city lights reflecting on the glass. She looks thoughtfully out the window. Train movement creates light streaks. 5.6–6.4s Walking under Torii gates. Low-angle tracking shot from behind. Brief head turn. Motion blur. Bright halo from the sky. 6.4–7.2s Immersive digital art exhibition. Blue, purple, and gold lights moving across her face. Looking up in wonder. Natural low-light noise. 7.2–8.0s Wide-angle low-angle shot next to a giant silver bullet sculpture. She appears small under the sculpture. Phone lens distortion. Sky slightly overexposed. 8.0–8.8s Walking through a lantern-lit alleyway. Camera follows from behind. She turns and smiles. Warm lantern glow. Natural nighttime grain noise. 8.8–10.0s Rooftop selfie overlooking the Tokyo skyline. Wind blowing hair across the camera lens. Horizon slightly tilted. Overexposed city lights. She laughs naturally while reaching an arm out towards the skyline. Editing Style * Quick whip pan transitions * Speed ramping * Match cuts * Natural jump cuts * Handheld camera movement * Slight rolling shutter * Smartphone HDR exposure * Authentic travel vlog energy * No slow motion * No cinematic color grading * Authentic TikTok creator aesthetic * Warm skin tones * High realism * Consistent facial identity in every scene * 16:9 landscape, 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072614460746080256/img/H_BX2Tgbu6m2vVFV.jpg" width="600" alt="Tokyo Smartphone Travel Vlog Montage">
+
+**[🎬 Watch Video →](https://x.com/xzjken/status/2072615060632228239)**
+
+**Author:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Source:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Published:** Jul 2, 2026
+
+---
+### Giant Sloth vs Godzilla City Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt featuring a mountain-sized sloth accidentally defeating an elephant-Godzilla monster with slapstick physics.
+
+#### 📝 Prompt
+
+```
+A gigantic slow-moving sloth the height of a mountain hangs from a skyscraper, yawning massively. A furious elephant-Godzilla monster stomps toward it breathing tiny lightning. The sloth lazily reaches out one claw and accidentally yeets the monster miles away with zero effort. Sloth shrugs, goes back to sleep on the building. Absurd contrast in speed, slapstick physics, humorous slow-motion impacts, vibrant city destruction.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Giant Sloth vs Godzilla City Battle">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2072542482857099759)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Published:** Jul 2, 2026
+
+---
 ### Himalayan Morning Pahadi Girl Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1937,6 +2116,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-03T07:19:17.295Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-03T10:34:15.843Z</sub>
 
 </div>

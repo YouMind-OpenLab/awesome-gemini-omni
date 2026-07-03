@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **80** |
+| 📝 Tổng số prompt | **86** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-03** |
 
@@ -56,6 +56,185 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Thẩm mỹ máy quay DV cổ điển tại Tokyo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) chi tiết theo trình tự, được thiết kế để tái hiện thước phim từ máy quay DV gia đình đầu những năm 2000 tại một con hẻm ở Tokyo.
+
+#### 📝 Prompt
+
+```
+Chủ thể chính: một phụ nữ trẻ người Nhật, khoảng ngoài 20 tuổi, vẻ ngoài tự nhiên thường ngày, mặc áo cardigan len màu kem dáng rộng, áo phông màu xanh navy bạc màu, quần túi hộp màu be ống rộng, giày sneaker vải trắng, đeo vòng cổ bạc mảnh, tóc đen thẳng được kẹp lỏng bằng một chiếc kẹp tóc đồi mồi nhỏ. Kết cấu da chân thực, trang điểm tối giản, nụ cười dịu dàng e ấp, tính cách nhẹ nhàng nhưng tò mò. Duy trì sự nhất quán về danh tính, trang phục, kiểu tóc và ngoại hình trong suốt toàn bộ video.
+
+Địa điểm: Một con hẻm dân cư yên tĩnh, chân thực tại Tokyo vào một buổi sáng muộn có mưa nhẹ. Những con đường nhựa hẹp, những ngôi nhà san sát, ban công nhỏ, máng xối, xe đạp có bọc nhựa, chậu cây, ô dù để gần cửa ra vào, cột điện, dây điện chằng chịt, máy bán hàng tự động chỉ xuất hiện ở phía xa với các biển quảng cáo không rõ chữ, mặt đường ướt phản chiếu ánh sáng, cảm giác khu phố yên bình. Không có đám đông, không có hoạt động thương mại, không tập trung vào các biển hiệu hiện đại.
+
+Phong cách hình ảnh: Chủ nghĩa hiện thực tài liệu siêu thực. Hành động tự nhiên, chân thật. Chuyển động tự nhiên. Cảm giác về một lát cắt cuộc sống ngày mưa không kịch bản. Tính xác thực của môi trường mạnh mẽ. Chi tiết thực tế phong phú và chuyển động của con người đáng tin cậy.
+
+Phong cách máy quay: Thẩm mỹ máy quay DV gia đình đầu những năm 2000. Một người bạn đang quay lại những khoảnh khắc đời thường một cách ngẫu hứng. Rung lắc mạnh do cầm tay, khung hình không hoàn hảo, lấy nét tự động liên tục thay đổi, hiện tượng thở ống kính (lens breathing), độ phơi sáng thay đổi do phản chiếu từ bầu trời xám, thỉnh thoảng bị nhòe chuyển động, hiện tượng rolling shutter nhẹ, các lỗi nén kỹ thuật số tinh tế, màu sắc phai nhạt, độ tương phản mềm, nhiễu cảm biến nhẹ. Không có chống rung. Không có các chuyển động máy quay điện ảnh. Không có chỉnh màu hiện đại.
+
+00:00–00:02
+Bên ngoài lối vào một căn hộ nhỏ. Cô ấy bước ra, cầm một chiếc ô trong suốt, đưa tay kiểm tra mưa, rồi mỉm cười với máy quay. Tiêu điểm chuyển dịch nhẹ sang những giọt mưa trên ô.
+
+00:02–00:04
+Máy quay theo chân cô ấy dọc con hẻm ướt át. Cô ấy dừng lại để di chuyển một chậu cây nhỏ tránh xa chỗ nước nhỏ giọt. Khung hình nghiêng nhẹ khi người quay phim bước vòng qua vũng nước.
+
+00:04–00:06
+Cô ấy phát hiện một con hạc giấy bị mắc kẹt gần cống, nhặt nó lên và khẽ cười. Lấy nét tự động chuyển đổi giữa đôi bàn tay cô ấy và mặt đường ướt.
+
+00:06–00:08
+Bên cạnh một ban công hẹp, cô ấy giũ nước mưa trên ô và giúp chỉnh lại tấm bạt phủ xe đạp. Nước bắn nhẹ xuống mặt đất.
+
+00:08–00:10
+Cô ấy đứng dưới một mái hiên nhỏ với một lon cà phê nóng. Hơi nước mờ ảo trong không khí mưa lạnh. Máy quay bị hạ thấp quá mức, sau đó mới điều chỉnh lại.
+
+00:10–00:12
+Góc quay cận cảnh từ bên hông. Một người ngoài khung hình nói chào buổi sáng. Cô ấy quay lại, nâng nhẹ chiếc ô, mỉm cười và nói một cách tự nhiên: “Ohayou”. Máy quay bắt được nụ cười hơi muộn một chút.
+
+00:12–00:15
+Cô ấy chậm rãi bước đi dọc con hẻm mưa. Mặt đường ướt phản chiếu bóng dáng cô ấy. Cô ấy ngoái nhìn lại một lần, nở nụ cười nhẹ, rồi rẽ vào góc phố. Bản ghi đột ngột cắt sang màu đen khi cô ấy đang bước đi.
+
+Âm thanh: Chỉ có âm thanh môi trường tự nhiên, mưa nhẹ, tiếng chuông xe đạp từ xa, tiếng lốp xe lăn êm trên đường ướt, tiếng chim dưới mái hiên, tiếng vải ô chạm vào nhau, tiếng bước chân qua vũng nước.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072754525077692416/img/KwonLLl5-X6lSWYR.jpg" width="600" alt="Thẩm mỹ máy quay DV cổ điển tại Tokyo">
+
+**[🎬 Xem video →](https://x.com/PeshCreates/status/2072754584922005671)**
+
+**Tác giả:** [Pesh](https://x.com/PeshCreates) | **Nguồn:** [Link](https://x.com/PeshCreates/status/2072754584922005671) | **Đã xuất bản:** Jul 2, 2026
+
+---
+### Video quay bằng máy quay phim tài liệu chân thực tại Lisbon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chi tiết và có cấu trúc để tạo ra cảnh quay theo phong cách video gia đình đầu những năm 2000 đầy tự nhiên tại Lisbon bằng cách sử dụng Gemini Omni Flash.
+
+#### 📝 Prompt
+
+```
+Chủ thể chính: một phụ nữ trẻ người Bồ Đào Nha, độ tuổi đôi mươi, ngoại hình tự nhiên, đời thường, mặc áo ba lỗ ôm sát màu vàng nhạt, quần jean xanh cạp cao ống rộng, dép da nâu đã cũ, đeo khuyên tai vòng nhỏ bằng vàng, tóc màu hạt dẻ uốn lượn được búi thấp lộn xộn với vài lọn tóc xõa tự nhiên. Kết cấu da chân thực, có vài nốt tàn nhang, trang điểm tối giản, tính cách hoạt bát và thoải mái. Duy trì sự nhất quán về danh tính, trang phục, kiểu tóc và ngoại hình trong suốt toàn bộ video.
+
+Địa điểm: Một con phố trên đồi ở khu dân cư Lisbon đầy chân thực vào một buổi sáng muộn ấm áp. Những con hẻm lát đá cuội hẹp, mặt tiền căn hộ ốp gạch, ban công sắt nhỏ, quần áo phơi giữa các cửa sổ, những cánh cửa đã phai màu, chậu húng quế và hoa, những bậc thang dốc, xe tay ga cũ, những bức tường tràn ngập ánh nắng, không khí khu phố yên tĩnh. Không có đám đông du khách, không có cửa hàng, không có quảng cáo, không có quán cà phê.
+
+Phong cách hình ảnh: Chủ nghĩa hiện thực tài liệu siêu thực. Hành vi tự nhiên, chân thực. Ngôn ngữ cơ thể tự nhiên. Cảm giác về cuộc sống thường nhật không kịch bản. Tính chân thực của môi trường mạnh mẽ. Chi tiết thực tế phong phú và chuyển động của con người đáng tin cậy.
+
+Phong cách máy quay: Thẩm mỹ của máy quay phim DV tiêu dùng đầu những năm 2000. Một người bạn quay lại những khoảnh khắc đời thường một cách ngẫu hứng. Rung lắc mạnh do cầm tay, khung hình không hoàn hảo, lấy nét tự động liên tục thay đổi, ống kính thở, độ phơi sáng thay đổi giữa các mảng gạch nắng và bậc thang râm mát, thỉnh thoảng có nhòe chuyển động, hiệu ứng màn trập lăn tinh tế, nhiễu nén kỹ thuật số nhẹ, màu sắc phai nhạt, độ tương phản mềm mại, nhiễu cảm biến nhẹ. Không chống rung. Không có các chuyển động máy quay điện ảnh. Không chỉnh màu hiện đại.
+
+00:00–00:02
+Cô ấy nghiêng người qua ban công nhỏ để tưới cây húng quế. Vài giọt nước rơi xuống con phố bên dưới. Cô ấy nhận ra máy quay và làm vẻ mặt ngượng ngùng đầy tinh nghịch.
+
+00:02–00:04
+Máy quay theo chân cô ấy khi cô ấy đi xuống cầu thang ra con đường lát đá cuội. Cô ấy xách một chiếc giỏ đan nhỏ và kiểm tra quần áo đang phơi bên ngoài cửa sổ.
+
+00:04–00:06
+Cô ấy thấy một chiếc tất rơi trên bậc thang, cười lớn và kẹp nó trở lại dây phơi. Lấy nét tự động chuyển đổi giữa khuôn mặt cô ấy và kẹp quần áo.
+
+00:06–00:08
+Trên một cầu thang dốc trong khu dân cư, cô ấy dừng lại để chào một người hàng xóm lớn tuổi không xuất hiện trong khung hình. Ngôn ngữ cơ thể của cô ấy rất tự nhiên và thân thuộc. Máy quay đặt cô ấy hơi lệch về phía bên trái quá mức.
+
+00:08–00:10
+Cô ấy ngồi trên một bậc đá thấp với một tách espresso nhỏ. Ánh nắng lung linh trên những viên gạch có hoa văn phía sau cô ấy. Độ phơi sáng nhấp nháy khi máy quay hướng lên trên.
+
+00:10–00:12
+Góc quay cận cảnh từ bên cạnh. Một người ngoài khung hình trêu chọc cô ấy một cách nhẹ nhàng. Cô ấy quay lại, cười tươi và nói một cách tự nhiên: “Bom dia.” Máy quay bắt được tiếng cười nhẹ sau khi cô ấy nói xong.
+
+Âm thanh: Chỉ có âm thanh môi trường tự nhiên, tiếng xe tay ga từ xa, tiếng chim bồ câu, tiếng bước chân trên đá cuội, tiếng vải chuyển động trên dây, tiếng trò chuyện nhẹ nhàng trong khu phố, tiếng nước nhỏ giọt từ cây, gió nhẹ. Không có âm nhạc. Không có thiết kế âm thanh. Không có lời dẫn.
+
+Mục tiêu: Cuộc sống khu dân cư Lisbon chân thực được ghi lại như một video gia đình từ đầu những năm 2000 đã bị lãng quên, tự nhiên, không hoàn hảo, ấm áp và vô cùng đáng tin cậy.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072753893600038912/img/BngLHIuefeWAWkk_.jpg" width="600" alt="Video quay bằng máy quay phim tài liệu chân thực tại Lisbon">
+
+**[🎬 Xem video →](https://x.com/PeshCreates/status/2072754211847078137)**
+
+**Tác giả:** [Pesh](https://x.com/PeshCreates) | **Nguồn:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Đã xuất bản:** Jul 2, 2026
+
+---
+### Các câu lệnh (prompt) chỉnh sửa video VFX siêu thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bộ sưu tập các câu lệnh điện ảnh dành cho Gemini Omni Flash, minh họa các lớp phủ kết cấu chân thực và tính năng theo dõi đối tượng, chẳng hạn như bóc hình xăm và bàn phím phủ mật ong.
+
+#### 📝 Prompt
+
+```
+Cận cảnh cẳng tay của một người với hình xăm mực đen. Một bàn tay xuất hiện trong khung hình và bóc hình xăm ra như thể đó là một miếng dán nhựa trong suốt, để lộ làn da sạch sẽ, không có hình xăm bên dưới. Ánh sáng liền mạch và kết cấu da tự nhiên.
+
+Góc nhìn từ trên xuống của đôi tay đang gõ trên bàn phím cơ. Bàn phím và các ngón tay được bao phủ bởi lớp mật ong dày, dính và trong suốt. Những sợi mật ong dẻo kéo dài giữa các đầu ngón tay và các phím màu vàng đen với hiệu ứng vật lý chân thực khi các phím được nhấn.
+
+Góc nhìn từ trên xuống của đôi tay đang gõ trên bàn phím cơ. Toàn bộ vỏ bàn phím và các phím bấm biến thành một khối thạch màu xanh lá cây trong suốt. Khối thạch rung rinh một cách tự nhiên theo từng lần nhấn phím.
+
+Góc nhìn từ trên xuống của đôi tay đang gõ trên bàn phím cơ. Bàn phím được làm từ đá nham thạch nóng chảy rực rỡ, những đốm lửa nhỏ và tàn tro bùng lên xung quanh các phím khi ngón tay gõ. Đôi tay không bị ảnh hưởng bởi lửa, tạo ra những phản chiếu ánh sáng màu cam sống động.
+
+Góc nhìn từ trên xuống của đôi tay đang gõ trên bàn phím cơ. Những dây leo xanh mảnh mai mọc um tùm và quấn chặt quanh bàn phím và các phím bấm. Các ngón tay gõ một cách dễ dàng giữa những tán lá đang bò, tạo ra những bóng đổ mềm mại.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072723774974087168/img/zJBeX548eeRyd39V.jpg" width="600" alt="Các câu lệnh (prompt) chỉnh sửa video VFX siêu thực">
+
+**[🎬 Xem video →](https://x.com/NeurainX/status/2072723878195929405)**
+
+**Tác giả:** [Neurain](https://x.com/NeurainX) | **Nguồn:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Đã xuất bản:** Jul 2, 2026
+
+---
+### Cảnh công viên với chú chim bồ câu biết nói
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video siêu thực và đậm chất điện ảnh về một người phụ nữ lớn tuổi trong công viên, nơi chú chim bồ câu bất ngờ cất tiếng nói với bà.
+
+#### 📝 Prompt
+
+```
+Một video chân thực, đậm chất điện ảnh dài 10 giây quay cảnh một người phụ nữ lớn tuổi hiền hậu với mái tóc bạc đang ngồi trên băng ghế gỗ trong một công viên địa phương ngập tràn ánh nắng, bà đang bóp vụn mẩu bánh mì khô và ném cho đàn chim bồ câu nhỏ dưới chân. Máy quay lia xuống cận cảnh một chú chim bồ câu xám cụ thể. Chú chim bồ câu nhìn thẳng lên người phụ nữ, mỏ của nó chuyển động một cách chân thực khi cất tiếng nói bằng giọng điệu lịch sự: "Ngày mai bà có thể mang cho chúng cháu ít bánh vòng được không ạ?" Máy quay chuyển cảnh trở lại khuôn mặt của người phụ nữ, ghi lại biểu cảm vô cùng kinh ngạc và bối rối của bà. Ánh sáng tự nhiên, độ sâu trường ảnh nông.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072681494816976896/img/THpOjpflO5_b9BE-.jpg" width="600" alt="Cảnh công viên với chú chim bồ câu biết nói">
+
+**[🎬 Xem video →](https://x.com/michaelrabone/status/2072681730423521364)**
+
+**Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2072681730423521364) | **Đã xuất bản:** Jul 2, 2026
+
+---
+### Video Montage Vlog du lịch Tokyo bằng điện thoại
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một prompt tạo video toàn diện cho vlog du lịch Tokyo dài 10 giây, với nhân vật nữ nhất quán, các hiệu ứng camera chân thực và những tương tác tự nhiên tại các địa điểm mang tính biểu tượng.
+
+#### 📝 Prompt
+
+```
+Tạo một video montage vlog du lịch điện ảnh dài 10 giây. Trong mọi cảnh quay, hãy sử dụng nhất quán khuôn mặt của nữ nhân vật đã tải lên. Cô ấy là một nữ sáng tạo nội dung du lịch trẻ trung, xinh đẹp với mái tóc dài gợn sóng màu tối và tóc mái xoăn, mặc trang phục đường phố Nhật Bản oversized sành điệu (áo khoác da dài màu đỏ tía, túi đeo vai), trang điểm tự nhiên và có tính cách vui vẻ, hoạt bát. Toàn bộ video cần mang lại cảm giác như thước phim quay bằng điện thoại thực tế, bao gồm chuyển động camera cầm tay, khung hình không hoàn hảo, hiệu ứng lóe sáng (lens flare) ngẫu nhiên, nhòe chuyển động nhẹ, hiệu ứng rolling shutter, nhiễu hạt ISO cao vào ban đêm, lấy nét tự động không ổn định, vùng sáng bị cháy (blown-out highlights), méo hình nhẹ do ống kính góc rộng của điện thoại, vết bẩn nhỏ trên ống kính và độ rung lắc tự nhiên của camera. Tránh phong cách thương mại bóng bẩy. Cấu trúc câu chuyện (10 giây) 0,0–0,8s Selfie góc thấp trước tháp Tokyo. Cô ấy cười tự nhiên trong khi chỉnh điện thoại. Đường chân trời hơi nghiêng. Bầu trời nhiều mây sáng quá mức. Có dấu vân tay nhỏ trên ống kính. 0,8–1,6s Đi bộ qua giao lộ Shibuya vào ban đêm. Nhìn lại camera khi đang đi bộ. Đèn neon phản chiếu trên mặt đường ướt. Nhòe chuyển động mạnh. Chuyển cảnh bằng cú lia máy nhanh (whip pan). 1,6–2,4s Bên trong một cửa hàng tiện lợi Nhật Bản. Cầm onigiri sát vào camera. Nhướn mày một cách dễ thương và tinh nghịch. Ánh sáng đèn huỳnh quang gay gắt. Các kệ hàng phía sau bị làm mờ nhẹ. 2,4–3,2s Ngồi một mình trong công viên Yoyogi. Một khoảnh khắc chân thực, yên tĩnh. Nhìn ra xa camera. Ánh nắng dịu nhẹ xuyên qua các tán cây. Lấy nét hơi lệch. 3,2–4,0s Ăn takoyaki mới làm. Phản ứng tức thì sau miếng đầu tiên. Ánh sáng đèn lồng ấm áp. Khuôn mặt hơi mờ do chuyển động. Cười tự nhiên. 4,0–4,8s Đứng trước máy bán hàng tự động đang phát sáng. Ánh sáng xanh và hồng trên khuôn mặt. Thản nhiên nhấn nút chọn đồ uống. Có thể thấy nhiễu hạt vào ban đêm. 4,8–5,6s Hình ảnh phản chiếu trên cửa sổ tàu điện Tokyo. Ánh đèn thành phố xếp lớp phản chiếu trên kính. Cô ấy nhìn ra ngoài cửa sổ đầy suy tư. Chuyển động của tàu tạo ra các vệt sáng. 5,6–6,4s Đi bộ dưới cổng Torii. Cảnh quay theo dõi góc thấp từ phía sau. Quay đầu nhanh. Nhòe chuyển động. Quầng sáng rực rỡ từ bầu trời. 6,4–7,2s Triển lãm nghệ thuật kỹ thuật số sống động. Ánh sáng xanh, tím và vàng di chuyển trên khuôn mặt. Ngước nhìn đầy kinh ngạc. Nhiễu hạt tự nhiên trong điều kiện thiếu sáng. 7,2–8,0s Cảnh quay góc rộng, góc thấp bên cạnh một tác phẩm điêu khắc hình viên đạn bạc khổng lồ. Cô ấy trông nhỏ bé dưới tác phẩm điêu khắc. Méo hình do ống kính điện thoại. Bầu trời hơi sáng quá mức. 8,0–8,8s Đi bộ qua con hẻm thắp đèn lồng. Camera theo sau từ phía sau. Cô ấy quay lại và mỉm cười. Ánh sáng đèn lồng ấm áp. Nhiễu hạt tự nhiên vào ban đêm. 8,8–10,0s Selfie trên sân thượng nhìn ra đường chân trời Tokyo. Gió thổi tóc bay ngang ống kính camera. Đường chân trời hơi nghiêng. Ánh đèn thành phố sáng quá mức. Cô ấy cười tự nhiên trong khi vươn tay về phía đường chân trời. Phong cách biên tập * Chuyển cảnh bằng cú lia máy nhanh (whip pan) * Tăng tốc độ (speed ramping) * Cắt nối khớp (match cuts) * Cắt nhảy tự nhiên (jump cuts) * Chuyển động camera cầm tay * Hiệu ứng rolling shutter nhẹ * Phơi sáng HDR của điện thoại * Năng lượng vlog du lịch chân thực * Không quay chậm (slow motion) * Không chỉnh màu điện ảnh * Thẩm mỹ của nhà sáng tạo TikTok chân thực * Tông màu da ấm áp * Độ chân thực cao * Nhất quán về khuôn mặt trong mọi cảnh quay * Tỷ lệ khung hình 16:9 ngang, 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072614460746080256/img/H_BX2Tgbu6m2vVFV.jpg" width="600" alt="Video Montage Vlog du lịch Tokyo bằng điện thoại">
+
+**[🎬 Xem video →](https://x.com/xzjken/status/2072615060632228239)**
+
+**Tác giả:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Nguồn:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Đã xuất bản:** Jul 2, 2026
+
+---
+### Trận chiến thành phố giữa Sloth khổng lồ và Godzilla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh cực kỳ chi tiết mô tả cảnh một con lười to bằng ngọn núi vô tình đánh bại quái vật voi-Godzilla với hiệu ứng vật lý hài hước.
+
+#### 📝 Prompt
+
+```
+Một con lười khổng lồ chậm chạp cao bằng ngọn núi đang treo mình trên một tòa nhà chọc trời, ngáp một cái thật lớn. Một quái vật voi-Godzilla hung dữ dậm chân tiến về phía nó, phun ra những tia chớp nhỏ xíu. Con lười lười biếng đưa một móng vuốt ra và vô tình hất văng con quái vật đi xa hàng dặm mà không tốn chút sức lực nào. Con lười nhún vai rồi quay lại ngủ tiếp trên tòa nhà. Sự tương phản phi lý về tốc độ, hiệu ứng vật lý hài hước, những cú va chạm chuyển động chậm đầy thú vị, khung cảnh thành phố bị tàn phá sống động.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Trận chiến thành phố giữa Sloth khổng lồ và Godzilla">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2072542482857099759)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Đã xuất bản:** Jul 2, 2026
+
+---
 ### Video cô gái vùng cao Pahadi trong buổi sáng tại dãy Himalaya
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1958,6 +2137,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-03T07:19:20.031Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-03T10:34:20.576Z</sub>
 
 </div>

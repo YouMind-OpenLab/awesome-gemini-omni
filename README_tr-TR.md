@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **80** |
+| 📝 Toplam İstem | **86** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-03** |
 
@@ -56,6 +56,185 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Vintage Tokyo DV Kamera Estetiği
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 2000'lerin başındaki tüketici tipi DV kamera görüntülerini bir Tokyo arka sokağında yeniden oluşturmak için tasarlanmış, son derece detaylı, sekans tabanlı bir istem.
+
+#### 📝 İstem
+
+```
+Ana karakter: Genç Japon kadın, 20'li yaşların başı, doğal günlük görünüm, oversize krem rengi örgü hırka, soluk lacivert tişört, bol bej kargo pantolon, beyaz kanvas spor ayakkabılar, ince gümüş kolye, küçük bir kaplumbağa kabuğu desenli toka ile gevşekçe tutturulmuş düz siyah saçlar. Gerçekçi cilt dokusu, minimal makyaj, sakin ve utangaç bir gülümseme, yumuşak ama meraklı bir kişilik. Video boyunca kimliği, kıyafeti, saç stilini ve görünümü tutarlı tutun.
+
+Konum: Hafif yağmurlu bir sabah geç saatlerinde, Tokyo'nun otantik ve sessiz bir yerleşim arka sokağı. Dar asfalt yollar, kompakt evler, küçük balkonlar, yağmur olukları, plastik örtülü bisikletler, saksı bitkileri, kapı önlerinde şemsiyeler, elektrik direkleri, havai hatlar, sadece uzak arka planda okunaklı reklam içermeyen otomatlar, ıslak kaldırım yansımaları, huzurlu bir mahalle hissi. Kalabalık yok, ticari faaliyet yok, modern tabelalara odaklanma yok.
+
+Görsel Stil: Ultra gerçekçi belgesel gerçekçiliği. Samimi ve doğal davranışlar. Doğal hareketler. Senaryosuz, yağmurlu bir günün içinden kesit hissi. Güçlü çevresel otantiklik. Zengin gerçek dünya detayları ve inandırıcı insan hareketleri.
+
+Kamera Stili: 2000'lerin başı tüketici tipi DV kamera estetiği. Bir arkadaşın günlük anları gelişigüzel kaydetmesi. Yoğun el titremesi, kusurlu kadraj, sık sık odak arayışı, lens nefes alması (lens breathing), gri gökyüzü yansımalarından kaynaklanan pozlama dalgalanmaları, ara sıra hareket bulanıklığı, hafif rolling shutter etkisi, hafif dijital sıkıştırma bozulmaları, soluk renkler, yumuşak kontrast, hafif sensör gürültüsü. Sabitleme yok. Sinematik kamera hareketleri yok. Modern renk düzenlemesi yok.
+
+00:00–00:02
+Küçük bir apartman girişinin dışı. Şeffaf bir şemsiye ile dışarı çıkıyor, avucuyla yağmuru kontrol ediyor ve ardından kameraya gülümsüyor. Odak kısa süreliğine şemsiyenin üzerindeki yağmur damlalarına kayıyor.
+
+00:02–00:04
+Kamera, ıslak sokakta onu takip ediyor. Damlayan sudan korumak için küçük bir saksıyı kenara çekmek üzere duruyor. Kamera operatörü bir su birikintisinin etrafından dolaşırken kadraj hafifçe eğiliyor.
+
+00:04–00:06
+Bir giderin yakınında takılmış kağıttan bir turna kuşu fark ediyor, onu alıyor ve sessizce gülüyor. Otomatik odak, elleri ile ıslak kaldırım arasında gidip geliyor.
+
+00:06–00:08
+Dar bir balkonun yanında, şemsiyesindeki yağmuru silkeliyor ve bir bisiklet örtüsünü düzeltmeye yardım ediyor. Su, zemine hafifçe sıçrıyor.
+
+00:08–00:10
+Küçük bir tentenin altında elinde sıcak bir kutu kahve ile duruyor. Serin yağmurda buhar hafifçe tütüyor. Kamera çok aşağı kayıyor, sonra geç bir düzeltme yapıyor.
+
+00:10–00:12
+Yandan yakın açı. Kamera dışından biri günaydın diyor. Dönüyor, şemsiyesini hafifçe kaldırıyor, gülümsüyor ve doğal bir şekilde "Ohayou" diyor. Kamera gülümsemeyi biraz geç yakalıyor.
+
+00:12–00:15
+Yağmurlu sokak boyunca yavaşça uzaklaşıyor. Islak kaldırım silüetini yansıtıyor. Bir kez arkasına bakıyor, hafifçe sırıtıyor ve köşeyi dönüyor. Kayıt, adımın ortasında aniden kararıyor.
+
+Ses: Sadece doğal ortam sesleri, hafif yağmur, uzaktan gelen bisiklet zili, ıslak yolda yumuşak lastik sesleri, saçak altındaki kuşlar, şemsiye kumaşının tıkırtısı, su birikintilerinde yürüyüş sesleri
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072754525077692416/img/KwonLLl5-X6lSWYR.jpg" width="600" alt="Vintage Tokyo DV Kamera Estetiği">
+
+**[🎬 Videoyu izle →](https://x.com/PeshCreates/status/2072754584922005671)**
+
+**Yazar:** [Pesh](https://x.com/PeshCreates) | **Kaynak:** [Link](https://x.com/PeshCreates/status/2072754584922005671) | **Yayınlandı:** Jul 2, 2026
+
+---
+### Otantik Lizbon Belgesel Tarzı Video Kamera Kaydı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni Flash kullanarak 2000'lerin başındaki samimi ev videosu tarzında bir Lizbon sahnesi oluşturmak için oldukça detaylı ve yapılandırılmış bir komut.
+
+#### 📝 İstem
+
+```
+Ana özne: 20'li yaşlarının ortasında genç bir Portekizli kadın, doğal günlük görünüm, soluk sarı dar askılı bluz, bol yüksek belli mavi kot pantolon, eski kahverengi deri sandaletler, küçük altın halka küpeler, dağınık düşük bir topuz yapılmış dalgalı kestane rengi saçlar. Gerçekçi cilt dokusu, hafif çiller, minimal makyaj, canlı ve rahat bir kişilik. Video boyunca kimliği, kıyafeti, saç stilini ve görünümü tutarlı tutun.
+
+Konum: Sıcak bir sabah sonrasında otantik Lizbon'un yerleşim yeri olan yokuşlu bir sokak. Dar Arnavut kaldırımlı yollar, fayans kaplı apartman cepheleri, küçük demir balkonlar, pencereler arasında asılı çamaşırlar, solmuş kapılar, saksıda fesleğen ve çiçekler, dik merdivenler, eski scooterlar, güneşli duvarlar, sessiz mahalle atmosferi. Turist kalabalığı, dükkanlar, reklamlar veya kafeler yok.
+
+Görsel Stil: Ultra gerçekçi belgesel gerçekçiliği. Samimi ve doğal davranışlar. Doğal vücut dili. Senaryosuz, hayattan bir kesit hissi. Güçlü çevresel özgünlük. Zengin gerçek dünya detayları ve inandırıcı insan hareketleri.
+
+Kamera Stili: 2000'lerin başındaki tüketici tipi DV video kamera estetiği. Bir arkadaşın günlük anları gelişigüzel kaydetmesi. Belirgin el titremesi, kusurlu kadraj, sık sık odak arama, lens nefes alması, güneşli fayanslar ve gölgeli basamaklar arasında pozlama dalgalanması, ara sıra hareket bulanıklığı, hafif rolling shutter etkisi, hafif dijital sıkıştırma bozulmaları, soluk renkler, yumuşak kontrast, hafif sensör gürültüsü. Sabitleme yok. Sinematik kamera hareketleri yok. Modern renk düzenlemesi yok.
+
+00:00–00:02
+Küçük bir balkona eğilip fesleğenleri suluyor. Birkaç damla aşağıdaki sokağa düşüyor. Kamerayı fark edip şakacı bir utangaçlıkla yüzünü buruşturuyor.
+
+00:02–00:04
+Kamera, Arnavut kaldırımlı yola inen kadını takip ediyor. Elinde küçük hasır bir sepet taşıyor ve pencerenin dışına asılmış çamaşırları kontrol ediyor.
+
+00:04–00:06
+Basamaklarda düşmüş bir çorap buluyor, gülüyor ve tekrar çamaşır ipine asıyor. Otomatik odaklama, yüzü ile çamaşır mandalları arasında gidip geliyor.
+
+00:06–00:08
+Dik bir merdivende, kamera dışındaki yaşlı bir komşusunu selamlamak için duraksıyor. Vücut dili rahat ve samimi. Kamera onu kadrajın biraz fazla solunda tutuyor.
+
+00:08–00:10
+Küçük bir espresso fincanıyla alçak bir taş basamağa oturuyor. Arkasındaki desenli fayansların üzerinde güneş ışığı titriyor. Kamera yukarı doğru eğilirken pozlama dalgalanıyor.
+
+00:10–00:12
+Yandan yakın açı. Kamera dışından biri ona hafifçe takılıyor. Dönüp genişçe gülümsüyor ve rahat bir şekilde “Bom dia” diyor. Kamera, sözlerin ardından gelen hafif bir kahkahayı yakalıyor.
+
+Ses: Sadece doğal ortam sesleri; uzaktan gelen scooterlar, güvercinler, Arnavut kaldırımındaki ayak sesleri, iplerde hareket eden kumaşlar, hafif mahalle sesleri, bitkilerden damlayan su, hafif rüzgar. Müzik yok. Ses tasarımı yok. Dış ses yok.
+
+Amaç: 2000'lerin başından kalma unutulmuş bir ev videosu gibi yakalanmış, samimi, kusurlu, sıcak ve son derece inandırıcı otantik Lizbon mahalle yaşamı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072753893600038912/img/BngLHIuefeWAWkk_.jpg" width="600" alt="Otantik Lizbon Belgesel Tarzı Video Kamera Kaydı">
+
+**[🎬 Videoyu izle →](https://x.com/PeshCreates/status/2072754211847078137)**
+
+**Yazar:** [Pesh](https://x.com/PeshCreates) | **Kaynak:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Yayınlandı:** Jul 2, 2026
+
+---
+### Hiper Gerçekçi VFX Video Düzenleme İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni Flash için dövme soyma ve balla kaplı klavyeler gibi gerçekçi doku katmanlarını ve nesne takibini gösteren sinematik istem koleksiyonu.
+
+#### 📝 İstem
+
+```
+Siyah mürekkepli dövmeye sahip bir kişinin ön kolunun yakın çekimi. Bir el kadraja girer ve dövmeyi şeffaf bir plastik etiketmiş gibi soyarak altındaki temiz, dövmesiz cildi ortaya çıkarır. Kusursuz ışıklandırma ve doğal cilt dokusu.
+
+Mekanik bir klavyede yazı yazan ellerin yukarıdan görünümü. Klavye ve parmaklar kalın, yapışkan, yarı saydam balla kaplıdır. Tuşlara basıldığında, yapışkan bal şeritleri parmak uçları ile sarı ve siyah tuş başlıkları arasında gerçekçi fizik kurallarıyla esner ve uzar.
+
+Mekanik bir klavyede yazı yazan ellerin yukarıdan görünümü. Klavye kasasının tamamı ve tuş başlıkları, tek parça yarı saydam yeşil jöle kalıbına dönüşmüştür. Jöle, her tuş vuruşunda doğal bir şekilde titrer.
+
+Mekanik bir klavyede yazı yazan ellerin yukarıdan görünümü. Klavye parlayan, erimiş lav taşından yapılmıştır ve parmaklar yazı yazarken tuşların etrafında küçük alev patlamaları ve közler oluşur. Eller ateşten etkilenmez ve dinamik turuncu ışık yansımaları oluşturur.
+
+Mekanik bir klavyede yazı yazan ellerin yukarıdan görünümü. İnce yeşil yapraklı sarmaşıklar klavyeyi ve tuş başlıklarını sıkıca sarmıştır. Parmaklar, sürünen bitki örtüsünün arasında zahmetsizce yazı yazar ve yumuşak gölgeler oluşturur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072723774974087168/img/zJBeX548eeRyd39V.jpg" width="600" alt="Hiper Gerçekçi VFX Video Düzenleme İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/NeurainX/status/2072723878195929405)**
+
+**Yazar:** [Neurain](https://x.com/NeurainX) | **Kaynak:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Yayınlandı:** Jul 2, 2026
+
+---
+### Konuşan Güvercin Park Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Parkta oturan yaşlı bir kadının, güvercininin beklenmedik bir şekilde onunla konuştuğu sürreal ve sinematik bir video istemi.
+
+#### 📝 İstem
+
+```
+Güneşli bir yerel parkta, ahşap bir bankta oturan, gri saçlı, nazik yaşlı bir kadının ayaklarının dibindeki küçük bir güvercin sürüsüne kuru ekmek kırıntıları attığı, 10 saniyelik gerçekçi ve sinematik bir video. Kamera, gri bir güvercine odaklanarak yakın çekime geçer. Güvercin doğrudan kadına bakar, gagası gerçekçi bir şekilde hareket ederek kibar bir ses tonuyla şöyle der: "Yarın bize biraz çörek getirmeniz mümkün mü acaba?" Kamera tekrar kadının yüzüne döner ve kadının yaşadığı şaşkınlık ile hayret ifadesini gösterir. Doğal ışıklandırma, sığ alan derinliği.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072681494816976896/img/THpOjpflO5_b9BE-.jpg" width="600" alt="Konuşan Güvercin Park Sahnesi">
+
+**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2072681730423521364)**
+
+**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2072681730423521364) | **Yayınlandı:** Jul 2, 2026
+
+---
+### Tokyo Akıllı Telefon Seyahat Vlog'u Montajı
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Tutarlı bir kadın içerik üreticisi, gerçekçi kamera kusurları ve ikonik mekanlarda doğal etkileşimler içeren 10 saniyelik bir Tokyo seyahat vlog'u için kapsamlı video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+10 saniyelik sinematik bir seyahat vlog'u montajı oluşturun. Her çekim boyunca yüklenen kadın yüzünü tutarlı bir şekilde kullanın. Uzun, dalgalı koyu saçları ve kıvırcık perçemleri olan, şık ve büyük beden Japon sokak modası (bordo uzun deri ceket, omuz çantası) giyen, doğal makyajlı ve neşeli, canlı bir kişiliğe sahip çarpıcı genç bir kadın seyahat içerik üreticisi. Videonun tamamı, elde taşınan kamera hareketi, kusurlu kadraj, kazara oluşan lens parlamaları, hafif hareket bulanıklığı, rolling shutter etkisi, gece yüksek ISO gürültüsü, otomatik odaklama arayışı, patlamış parlak alanlar, telefonun geniş açılı lensinden kaynaklanan hafif fıçı bozulması, küçük lens lekeleri ve doğal kamera sarsıntısı dahil olmak üzere gerçek bir akıllı telefon çekimi hissi vermelidir. Cilalı ticari tarzdan kaçının. Hikaye Akışı (10 saniye) 0.0–0.8 sn Tokyo Kulesi önünde düşük açılı selfie. Telefonu ayarlarken doğal bir şekilde gülümsüyor. Ufuk çizgisi hafif eğik. Parlak, aşırı pozlanmış bulutlu gökyüzü. Lenste minik bir parmak izi. 0.8–1.6 sn Gece Shibuya Geçidi'nde yürüyor. Yürürken kameraya geri bakıyor. Islak yollara yansıyan neon ışıklar. Güçlü hareket bulanıklığı. Hızlı whip pan geçişi. 1.6–2.4 sn Bir Japon marketinin içi. Kameraya yakın bir onigiri tutuyor. Sevimli ve oyuncu bir şekilde kaşlarını kaldırıyor. Sert floresan aydınlatma. Arka plandaki raflar hafifçe bulanık. 2.4–3.2 sn Yoyogi Parkı'nda tek başına oturuyor. Sessiz ve otantik bir an. Kameradan başka yöne bakıyor. Ağaçların arasından süzülen yumuşak güneş ışığı. Hafif odak kaçırma. 3.2–4.0 sn Taze yapılmış takoyaki yiyor. İlk ısırıktan sonra anlık tepki. Sıcak fener aydınlatması. Hareket nedeniyle yüz hafif bulanık. Doğal bir şekilde gülüyor. 4.0–4.8 sn Işıklı bir otomatın önünde duruyor. Yüzünde mavi ve pembe ışıklar. Gelişigüzel bir şekilde içecek düğmesine basıyor. Görünür gece gren gürültüsü. 4.8–5.6 sn Tokyo treni penceresindeki yansıma. Camda yansıyan katmanlı şehir ışıkları. Düşünceli bir şekilde pencereden dışarı bakıyor. Tren hareketi ışık çizgileri oluşturuyor. 5.6–6.4 sn Torii kapılarının altından yürüyor. Arkadan düşük açılı takip çekimi. Kısa bir baş dönüşü. Hareket bulanıklığı. Gökyüzünden gelen parlak hale. 6.4–7.2 sn Sürükleyici dijital sanat sergisi. Yüzünde hareket eden mavi, mor ve altın rengi ışıklar. Hayranlıkla yukarı bakıyor. Doğal düşük ışık gürültüsü. 7.2–8.0 sn Dev gümüş mermi heykelinin yanında geniş açılı, düşük açılı çekim. Heykelin altında küçük görünüyor. Telefon lensi bozulması. Gökyüzü hafif aşırı pozlanmış. 8.0–8.8 sn Fenerlerle aydınlatılmış bir ara sokakta yürüyor. Kamera arkadan takip ediyor. Dönüp gülümsüyor. Sıcak fener parıltısı. Doğal gece gren gürültüsü. 8.8–10.0 sn Tokyo silüetine bakan çatı katı selfie'si. Rüzgar saçları kamera lensine doğru savuruyor. Ufuk çizgisi hafif eğik. Aşırı pozlanmış şehir ışıkları. Kolunu silüete doğru uzatırken doğal bir şekilde gülüyor. Düzenleme Tarzı * Hızlı whip pan geçişleri * Hız rampalama (speed ramping) * Match cut (eşleşen kesmeler) * Doğal jump cut (sıçramalı kesmeler) * Elde taşınan kamera hareketi * Hafif rolling shutter * Akıllı telefon HDR pozlaması * Otantik seyahat vlog'u enerjisi * Ağır çekim yok * Sinematik renk düzenlemesi yok * Otantik TikTok içerik üreticisi estetiği * Sıcak cilt tonları * Yüksek gerçekçilik * Her sahnede tutarlı yüz kimliği * 16:9 yatay, 16:9
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072614460746080256/img/H_BX2Tgbu6m2vVFV.jpg" width="600" alt="Tokyo Akıllı Telefon Seyahat Vlog'u Montajı">
+
+**[🎬 Videoyu izle →](https://x.com/xzjken/status/2072615060632228239)**
+
+**Yazar:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Kaynak:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Yayınlandı:** Jul 2, 2026
+
+---
+### Dev Tembel Hayvan ve Godzilla Şehir Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dağ büyüklüğünde bir tembel hayvanın, komedi fiziğiyle bir fil-Godzilla canavarını kazara alt ettiği, oldukça detaylı sinematik bir istem.
+
+#### 📝 İstem
+
+```
+Dağ yüksekliğinde, yavaş hareket eden devasa bir tembel hayvan bir gökdelene asılmış, kocaman esniyor. Öfkeli bir fil-Godzilla canavarı, küçük şimşekler saçarak ona doğru ilerliyor. Tembel hayvan, üşengeç bir tavırla tek pençesini uzatıyor ve hiç çaba sarf etmeden canavarı kilometrelerce uzağa fırlatıyor. Tembel hayvan omuz silkiyor ve binanın üzerinde uyumaya devam ediyor. Hızdaki absürt tezatlık, komedi fiziği, mizahi ağır çekim darbeler ve canlı şehir yıkımı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Dev Tembel Hayvan ve Godzilla Şehir Savaşı">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2072542482857099759)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Yayınlandı:** Jul 2, 2026
+
+---
 ### Himalayalar'da Sabah: Pahadi Kız Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -1958,6 +2137,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-03T07:19:24.950Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-03T10:34:27.713Z</sub>
 
 </div>
