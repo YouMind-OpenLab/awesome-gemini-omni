@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **86** |
+| 📝 Tổng số prompt | **90** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-05** |
 
@@ -56,6 +56,124 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Đồ họa chuyển động chuyên nghiệp với hình ảnh tham chiếu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh tạo video chi tiết giúp tạo ra các đồ họa chuyển động chất lượng thương mại tinh tế. Câu lệnh hướng dẫn mô hình sử dụng hình ảnh tham chiếu mà không thay đổi, đồng thời áp dụng các hiệu ứng hoạt ảnh phức tạp như xoay 3D, phân tách và đồng bộ hóa kiểu chữ để trực quan hóa cột mốc doanh thu.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh đính kèm làm tham chiếu duy nhất. Không thay đổi hình minh họa, nhân vật, thiết kế, màu sắc, hình dạng, tỷ lệ hoặc các chi tiết của hình ảnh tham chiếu. Luôn sử dụng cùng một hình ảnh, chỉ tạo hoạt ảnh cho vị trí, tỷ lệ, xoay, xoay 3D và nhân bản của nó. Không tạo mới hoặc vẽ lại hình minh họa. Tỷ lệ 16:9, thời lượng 10 giây, đồ họa chuyển động chất lượng cao. Nền đơn giản và sạch sẽ. Thiết kế chuyển động thương mại tinh tế như được sản xuất trong After Effects.
+
+Khi bắt đầu video, hình ảnh đính kèm xuất hiện ở giữa màn hình. Hình ảnh phóng to nhanh chóng và sau đó lặp lại nhịp nhàng hiệu ứng thu phóng. Hoạt ảnh tỷ lệ nảy mạnh mẽ với nhịp điệu khớp với nhịp nhạc.
+
+Tiếp theo, hình ảnh tiếp tục thay đổi tỷ lệ nhẹ trong khi xoay 360 độ ở tốc độ cao quanh tâm. Sau đó, nó chuyển đổi mượt mà sang xoay 3D trên trục Y (lật thẻ), với camera di chuyển nhẹ về phía trước và phía sau để tạo chiều sâu.
+
+Tại thời điểm kết thúc xoay 3D, hình ảnh ngay lập tức tách từ 1 thành 4 và bung ra bốn góc. Mỗi hình trong bốn hình tiếp tục di chuyển trong khi xoay và thay đổi tỷ lệ.
+
+Ngay sau đó, 4 hình ảnh tách nhanh thành 16, lan tỏa đều khắp màn hình. 16 hình ảnh lặp lại việc xoay, xoay 3D và thay đổi tỷ lệ ở các thời điểm khác nhau, tạo thành đồ họa chuyển động tốc độ cao.
+
+Ở phần kết, tất cả 16 hình ảnh được hút vào trung tâm ở tốc độ cao và hợp nhất thành một. Camera phóng to mạnh mẽ về phía hình ảnh đã hợp nhất, kết thúc video với một cái kết đầy ấn tượng.
+
+Duy trì sự phát triển tràn đầy năng lượng và nhịp độ tốt mà không dừng lại trong suốt video. Hoạt ảnh phải mượt mà và sắc nét, đạt được đồ họa chuyển động chất lượng cao phù hợp cho quảng cáo, video âm nhạc hoặc quảng cáo trên YouTube.
+
+Hiệu ứng kiểu chữ (Câu lệnh bổ sung)
+
+Đồng bộ hóa kiểu chữ hoàn hảo với chuyển động của hình ảnh. Đặt văn bản vào một lớp phía trước hình ảnh bằng cách sử dụng phông chữ không chân, hiện đại và cực đậm. Tích cực sử dụng hiệu ứng nhòe chuyển động (motion blur), tỷ lệ và xoay để tạo ra đồ họa chuyển động tích hợp với hình ảnh.
+
+0-2 giây: 'X' phóng to cực đại, rung động theo nhịp phóng to của hình ảnh.
+2-4 giây: 'Girigiri' (Vừa vặn) trượt sang trái và phải ở tốc độ cao với hiệu ứng nhòe chuyển động.
+4-6 giây: Đồng bộ với xoay 3D, 'Shueki' (Doanh thu) bật ra từ nền và phóng to đáng kể.
+6-8 giây: Khi hình ảnh tách thành 4 và 16, nhiều biểu tượng 'X' xuất hiện và phân tán nhịp nhàng khắp màn hình.
+8-10 giây: Tất cả hình ảnh và văn bản tập trung tại trung tâm, với 'X', 'Girigiri' và 'Shueki' chồng lên nhau một cách mạnh mẽ cho phần kết, tạo ra một cái kết giống như logo đầy ấn tượng với hiệu ứng camera phóng to.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073354982523609088/img/98Ey2dRo4vfvov5v.jpg" width="600" alt="Đồ họa chuyển động chuyên nghiệp với hình ảnh tham chiếu">
+
+**[🎬 Xem video →](https://x.com/Naonekozamurai/status/2073355820704907627)**
+
+**Tác giả:** [なお](https://x.com/Naonekozamurai) | **Nguồn:** [Link](https://x.com/Naonekozamurai/status/2073355820704907627) | **Đã xuất bản:** Jul 4, 2026
+
+---
+### Video selfie mèo trên tàu lượn siêu tốc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một lời nhắc (prompt) hài hước theo phong cách POV mô tả một người đàn ông và chú mèo của anh ấy đang đi tàu lượn siêu tốc, kèm theo dòng thời gian chi tiết 10 giây về phản ứng của họ.
+
+#### 📝 Prompt
+
+```
+Video vui nhộn góc nhìn selfie về một người đàn ông có râu đang hét lớn, ôm chú mèo mướp màu cam cùng đi trên tàu lượn siêu tốc với tốc độ cao. Cả hai đều mở to mắt và há hốc miệng trong sự kinh hãi đồng bộ. Hiệu ứng gió thổi mạnh, đường ray màu xanh uốn lượn và bầu trời đầy mây mờ ảo lướt qua ở tốc độ cao.
+
+Dòng thời gian 10 giây:
+
+0:00 - 0:02: Tàu lượn lên đến đỉnh. Người đàn ông và chú mèo nhìn xuống, mắt mở to đầy hồi hộp.
+
+0:02 - 0:05: Cú rơi bắt đầu. Gió ập đến ngay lập tức. Người đàn ông bắt đầu hét lên.
+
+0:05 - 0:08: Tốc độ tối đa. Cả người đàn ông và chú mèo đều đang hét với khuôn miệng mở rộng. Râu và tóc bay dữ dội. Phông nền mờ đi.
+
+0:08 - 0:10: Tàu lượn đi vào đoạn đường bằng phẳng. Gió chậm lại, cả hai khép miệng, nhìn vào camera với vẻ mặt hoàn toàn choáng váng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073315699271901184/img/3cJpEwkEHfbEhKHQ.jpg" width="600" alt="Video selfie mèo trên tàu lượn siêu tốc">
+
+**[🎬 Xem video →](https://x.com/michaelrabone/status/2073316066931966159)**
+
+**Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2073316066931966159) | **Đã xuất bản:** Jul 4, 2026
+
+---
+### Đạp xe địa hình trong rừng núi cao
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt chi tiết cho phân cảnh đạp xe địa hình dài 10 giây băng qua rừng núi cao, với các hiệu ứng môi trường phức tạp và nhiều góc máy khác nhau.
+
+#### 📝 Prompt
+
+```
+Thời lượng: 10 giây. Sử dụng chính xác hình ảnh tham chiếu nam giới được đính kèm.
+
+Một khu rừng núi cao sau cơn mưa. Người đàn ông lái chiếc xe đạp địa hình cao cấp xuống một con đường mòn kỹ thuật trong rừng. Nước bắn lên từ các vũng bùn, ánh nắng xuyên qua tán cây, lá cây bay tán loạn dưới bánh xe, và hệ thống giảm xóc nén lại một cách chân thực khi đi qua các tảng đá. Anh ấy rời khỏi khu rừng để đến một điểm quan sát tuyệt đẹp trên núi và mỉm cười nhẹ nhàng.
+
+Góc máy luân phiên giữa góc nhìn FPV theo sau, góc quay ngang tầm thấp và một cú máy drone lùi ra xa đầy ấn tượng bao quát cả thung lũng.
+
+Nhạc nền: Dàn nhạc hybrid truyền cảm hứng với bộ gõ nhịp nhàng, âm thanh xe đạp chân thực, tiếng xích chuyển động, tiếng chim hót và âm thanh môi trường rừng núi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073291490567372800/img/QeFefZQKKxyiSSgm.jpg" width="600" alt="Đạp xe địa hình trong rừng núi cao">
+
+**[🎬 Xem video →](https://x.com/vireonixx/status/2073291551653208142)**
+
+**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Đã xuất bản:** Jul 4, 2026
+
+---
+### Quan sát tĩnh lặng tại Bảo tàng Nghệ thuật Đương đại
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh mô tả một người phụ nữ đang đi dạo trong bảo tàng nghệ thuật đương đại vắng vẻ, tập trung vào bầu không khí và một bức tranh trừu tượng cụ thể.
+
+#### 📝 Prompt
+
+```
+Một bảo tàng nghệ thuật đương đại vắng vẻ sau giờ đóng cửa. Người phụ nữ chậm rãi bước đi qua phòng trưng bày, chiêm ngưỡng những bức tranh khổng lồ. Cô dừng lại trước một tác phẩm nghệ thuật trừu tượng.
+
+Máy quay di chuyển quanh vai cô để lộ ra bức tranh. Cô chỉ đơn giản đứng đó thưởng thức tác phẩm. Không có gì khác xảy ra. Sự tĩnh lặng trở thành câu chuyện.
+
+Nhạc nền: Piano tối giản, dàn nhạc ambient.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073240590406635520/img/FMVlUeG8cRzaJMaD.jpg" width="600" alt="Quan sát tĩnh lặng tại Bảo tàng Nghệ thuật Đương đại">
+
+**[🎬 Xem video →](https://x.com/vireonixx/status/2073240652268323043)**
+
+**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2073240652268323043) | **Đã xuất bản:** Jul 4, 2026
+
+---
 ### Thẩm mỹ máy quay DV cổ điển tại Tokyo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2137,6 +2255,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-05T07:24:18.270Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-05T10:11:49.002Z</sub>
 
 </div>

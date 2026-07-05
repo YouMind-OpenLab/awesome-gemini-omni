@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **86** |
+| 📝 Total des prompts | **90** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-07-05** |
 
@@ -56,6 +56,124 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Motion design professionnel avec image de référence
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de génération vidéo ultra-détaillé pour créer des motion graphics sophistiqués de qualité commerciale. Il indique au modèle d'utiliser une image de référence sans la modifier, en appliquant des animations complexes comme des rotations 3D, des fractionnements et une typographie synchronisée pour illustrer un jalon de revenus.
+
+#### 📝 Prompt
+
+```
+Utilisez l'image jointe comme seule référence. Ne modifiez pas l'illustration, le personnage, le design, les couleurs, les formes, les proportions ou les détails de l'image de référence. Utilisez toujours la même image, en n'animant que sa position, son échelle, sa rotation, sa rotation 3D et sa duplication. Ne générez pas et ne redessinez pas de nouvelles illustrations. 16:9, 10 secondes, motion graphics de haute qualité. Arrière-plan simple et épuré. Motion design commercial sophistiqué, comme s'il avait été produit dans After Effects.
+
+Au début de la vidéo, l'image jointe apparaît au centre de l'écran. L'image s'agrandit rapidement, puis effectue des zooms avant et arrière rythmés. L'animation d'échelle rebondit vigoureusement sur un tempo correspondant à un battement musical.
+
+Ensuite, l'image continue de changer légèrement d'échelle tout en effectuant une rotation à 360 degrés à grande vitesse autour de son centre. Elle effectue ensuite une transition fluide vers une rotation 3D sur l'axe Y (effet de retournement de carte), avec un léger mouvement de caméra vers l'avant et l'arrière pour créer de la profondeur.
+
+Au moment où la rotation 3D se termine, l'image se divise instantanément de 1 à 4 et éclate vers les quatre coins. Chacune des quatre images continue de bouger tout en tournant et en changeant d'échelle.
+
+Immédiatement après, les 4 images se divisent rapidement en 16, se répartissant uniformément sur l'écran. Les 16 images répètent des rotations, des rotations 3D et des changements d'échelle à des timings différents, formant des motion graphics à haute vitesse.
+
+Dans le final, les 16 images sont aspirées vers le centre à grande vitesse et fusionnées en une seule. La caméra zoome puissamment vers l'image fusionnée, terminant la vidéo avec un impact fort.
+
+Maintenez un développement énergique et bien rythmé sans temps mort tout au long de la vidéo. L'animation doit être fluide et nette, atteignant une qualité de motion graphics adaptée aux publicités, aux clips musicaux ou aux vidéos YouTube.
+
+Effets typographiques (Prompt additionnel)
+
+Synchronisez parfaitement la typographie avec le mouvement de l'image. Placez le texte sur un calque devant l'image en utilisant des polices sans-serif modernes et extra-bold. Utilisez activement le flou de mouvement, l'échelle et la rotation pour créer des motion graphics intégrés à l'image.
+
+0-2 secondes : « X » s'agrandit énormément, pulsant avec le changement d'échelle de l'image.
+2-4 secondes : « Girigiri » (Juste) glisse à gauche et à droite à haute vitesse avec un flou de mouvement.
+4-6 secondes : Synchronisé avec la rotation 3D, « Shueki » (Revenu) jaillit de l'arrière-plan et s'agrandit considérablement.
+6-8 secondes : Lorsque l'image se divise en 4 puis en 16, plusieurs icônes « X » apparaissent et se dispersent de manière rythmée sur l'écran.
+8-10 secondes : Toutes les images et le texte se rassemblent au centre, avec « X », « Girigiri » et « Shueki » se chevauchant puissamment pour la fin, créant une conclusion impressionnante de type logo avec un zoom avant de la caméra.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073354982523609088/img/98Ey2dRo4vfvov5v.jpg" width="600" alt="Motion design professionnel avec image de référence">
+
+**[🎬 Voir la vidéo →](https://x.com/Naonekozamurai/status/2073355820704907627)**
+
+**Auteur:** [なお](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2073355820704907627) | **Publié:** Jul 4, 2026
+
+---
+### Vidéo selfie d'un chat sur des montagnes russes
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt humoristique en vue subjective (POV) dépeignant un homme et son chat faisant des montagnes russes, accompagné d'une chronologie détaillée de 10 secondes de leurs réactions.
+
+#### 📝 Prompt
+
+```
+Vidéo amusante en vue selfie d'un homme barbu qui hurle en tenant son chat tigré orange alors qu'ils dévalent des montagnes russes à toute vitesse. Tous deux ont les yeux écarquillés et la bouche ouverte dans une terreur synchronisée. Effets de vent rapide, rails bleus sinueux et ciel nuageux en arrière-plan qui défile à toute allure.
+
+Chronologie de 10 secondes :
+
+0:00 - 0:02 : Les montagnes russes atteignent le sommet. L'homme et le chat regardent vers le bas, les yeux s'écarquillant d'anticipation.
+
+0:02 - 0:05 : La chute commence. Le vent les frappe instantanément. L'homme commence à hurler.
+
+0:05 - 0:08 : Vitesse maximale. L'homme et le chat hurlent, la bouche grande ouverte. Les moustaches et les poils sont agités violemment par le vent. L'arrière-plan devient flou.
+
+0:08 - 0:10 : Les montagnes russes atteignent une section plate. Le vent ralentit, et tous deux ferment la bouche, l'air complètement hébété face à la caméra.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073315699271901184/img/3cJpEwkEHfbEhKHQ.jpg" width="600" alt="Vidéo selfie d'un chat sur des montagnes russes">
+
+**[🎬 Voir la vidéo →](https://x.com/michaelrabone/status/2073316066931966159)**
+
+**Auteur:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2073316066931966159) | **Publié:** Jul 4, 2026
+
+---
+### VTT en forêt alpine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo détaillé pour une séquence de 10 secondes de VTT à travers une forêt alpine, incluant des effets environnementaux complexes et plusieurs angles de caméra.
+
+#### 📝 Prompt
+
+```
+Durée : 10 secondes. Utilisez exactement l'image de référence masculine ci-jointe.
+
+Une forêt alpine après la pluie. L'homme dévale un sentier technique en VTT haut de gamme. L'eau éclabousse dans les flaques, la lumière du soleil perce à travers les arbres, les feuilles s'éparpillent sous les pneus et la suspension se comprime de manière réaliste sur les rochers. Il sort de la forêt pour atteindre un point de vue époustouflant au-dessus des montagnes et sourit discrètement.
+
+La caméra alterne entre des prises de vue en immersion (FPV), un suivi latéral au ras du sol et un spectaculaire recul de drone au-dessus de la vallée.
+
+Musique de fond : Orchestre hybride inspirant avec percussions rythmiques, sons de vélo réalistes, mouvement de chaîne, oiseaux, ambiance forestière.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073291490567372800/img/QeFefZQKKxyiSSgm.jpg" width="600" alt="VTT en forêt alpine">
+
+**[🎬 Voir la vidéo →](https://x.com/vireonixx/status/2073291551653208142)**
+
+**Auteur:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Publié:** Jul 4, 2026
+
+---
+### Observation silencieuse au musée d'art contemporain
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique décrivant une femme marchant dans un musée d'art contemporain vide, en mettant l'accent sur l'atmosphère et une peinture abstraite spécifique.
+
+#### 📝 Prompt
+
+```
+Un musée d'art contemporain vide après la fermeture. La femme marche lentement à travers la galerie en admirant d'immenses peintures. Elle s'arrête devant une œuvre abstraite.
+
+La caméra se déplace autour de son épaule pour révéler la peinture. Elle reste simplement là à l'admirer. Il ne se passe rien d'autre. Le silence devient l'histoire.
+
+Musique de fond : Piano minimaliste, orchestre ambiant.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073240590406635520/img/FMVlUeG8cRzaJMaD.jpg" width="600" alt="Observation silencieuse au musée d'art contemporain">
+
+**[🎬 Voir la vidéo →](https://x.com/vireonixx/status/2073240652268323043)**
+
+**Auteur:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2073240652268323043) | **Publié:** Jul 4, 2026
+
+---
 ### Esthétique caméscope DV vintage de Tokyo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2137,6 +2255,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-05T07:24:23.302Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-05T10:11:52.949Z</sub>
 
 </div>

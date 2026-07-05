@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **86** |
+| 📝 Total de prompts | **90** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-05** |
 
@@ -56,6 +56,124 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Motion graphics profesionales con imagen de referencia
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de generación de video altamente detallado para crear motion graphics sofisticados de calidad comercial. Indica al modelo utilizar una imagen de referencia sin modificaciones, aplicando animaciones complejas como rotaciones 3D, divisiones y tipografía sincronizada para visualizar un hito de ingresos.
+
+#### 📝 Prompt
+
+```
+Utiliza la imagen adjunta como única referencia. No cambies la ilustración, el personaje, el diseño, los colores, las formas, las proporciones ni los detalles de la imagen de referencia. Utiliza siempre la misma imagen, animando únicamente su posición, escala, rotación, rotación 3D y duplicación. No generes ni redibujes nuevas ilustraciones. 16:9, 10 segundos, motion graphics de alta calidad. Fondo simple y limpio. Diseño de movimiento comercial sofisticado, como si hubiera sido producido en After Effects.
+
+Al inicio del video, la imagen adjunta aparece en el centro de la pantalla. La imagen aumenta de escala rápidamente y luego repite rítmicamente un efecto de zoom in y zoom out. La animación de escala rebota vigorosamente con un tempo que coincide con un ritmo musical.
+
+A continuación, la imagen continúa escalándose ligeramente mientras gira 360 grados a alta velocidad alrededor de su centro. Luego, transiciona suavemente a una rotación 3D en el eje Y (giro de tarjeta), con la cámara moviéndose ligeramente hacia adelante y hacia atrás para crear profundidad.
+
+En el momento en que termina la rotación 3D, la imagen se divide instantáneamente de 1 a 4 y se despliega hacia las cuatro esquinas. Cada una de las cuatro imágenes continúa moviéndose mientras rota y cambia de escala.
+
+Inmediatamente después, las 4 imágenes se dividen rápidamente en 16, distribuyéndose uniformemente por toda la pantalla. Las 16 imágenes repiten rotación, rotación 3D y escalado en diferentes tiempos, formando motion graphics de alta velocidad.
+
+En el final, las 16 imágenes son succionadas hacia el centro a alta velocidad y se fusionan en una sola. La cámara hace un zoom potente hacia la imagen fusionada, terminando el video con un cierre impactante.
+
+Mantén un desarrollo enérgico y bien ritmado sin detenerte durante todo el video. La animación debe ser fluida y nítida, logrando motion graphics de alta calidad adecuados para comerciales, videos musicales o anuncios de YouTube.
+
+Efectos de tipografía (Prompt adicional)
+
+Sincroniza la tipografía perfectamente con el movimiento de la imagen. Coloca el texto en una capa frente a la imagen utilizando fuentes sans-serif modernas y extra-bold. Utiliza activamente desenfoque de movimiento (motion blur), escala y rotación para crear motion graphics integrados con la imagen.
+
+0-2 segundos: 'X' aumenta de escala enormemente, pulsando al ritmo del escalado de la imagen.
+2-4 segundos: 'Girigiri' (Apenas) se desliza de izquierda a derecha a alta velocidad con desenfoque de movimiento.
+4-6 segundos: Sincronizado con la rotación 3D, 'Shueki' (Ingresos) emerge desde el fondo y aumenta significativamente de escala.
+6-8 segundos: Cuando la imagen se divide en 4 y 16, múltiples iconos de 'X' aparecen y se dispersan rítmicamente por la pantalla.
+8-10 segundos: Todas las imágenes y el texto se reúnen en el centro, con 'X', 'Girigiri' y 'Shueki' superponiéndose poderosamente para el final, creando un cierre impresionante tipo logo con un zoom de cámara.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073354982523609088/img/98Ey2dRo4vfvov5v.jpg" width="600" alt="Motion graphics profesionales con imagen de referencia">
+
+**[🎬 Ver video →](https://x.com/Naonekozamurai/status/2073355820704907627)**
+
+**Autor:** [なお](https://x.com/Naonekozamurai) | **Fuente:** [Link](https://x.com/Naonekozamurai/status/2073355820704907627) | **Publicado:** Jul 4, 2026
+
+---
+### Video de selfie de gato en montaña rusa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un divertido prompt al estilo POV que muestra a un hombre y su gato montados en una montaña rusa, con una cronología detallada de 10 segundos de sus reacciones.
+
+#### 📝 Prompt
+
+```
+Divertido video en modo selfie de un hombre barbudo gritando mientras sostiene a su gato atigrado naranja en una montaña rusa a toda velocidad. Ambos tienen los ojos muy abiertos y la boca abierta en un terror sincronizado. Efectos de viento fuerte, vías azules que se retuercen y un cielo nublado de fondo que se difumina a gran velocidad.
+
+Cronología de 10 segundos:
+
+0:00 - 0:02: La montaña rusa llega a la cima. El hombre y el gato miran hacia abajo, con los ojos muy abiertos por la anticipación.
+
+0:02 - 0:05: Comienza la caída. El viento los golpea al instante. El hombre empieza a gritar.
+
+0:05 - 0:08: Velocidad máxima. Tanto el hombre como el gato gritan con la boca muy abierta. Los bigotes y el cabello se agitan violentamente. El fondo se vuelve borroso.
+
+0:08 - 0:10: La montaña rusa llega a un tramo plano. El viento disminuye y ambos cierran la boca, mirando a la cámara completamente aturdidos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073315699271901184/img/3cJpEwkEHfbEhKHQ.jpg" width="600" alt="Video de selfie de gato en montaña rusa">
+
+**[🎬 Ver video →](https://x.com/michaelrabone/status/2073316066931966159)**
+
+**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fuente:** [Link](https://x.com/michaelrabone/status/2073316066931966159) | **Publicado:** Jul 4, 2026
+
+---
+### Ciclismo de montaña en bosque alpino
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video detallado para una secuencia de 10 segundos de ciclismo de montaña a través de un bosque alpino, que incluye efectos ambientales complejos y múltiples ángulos de cámara.
+
+#### 📝 Prompt
+
+```
+Duración: 10 segundos. Utilice exactamente la imagen de referencia masculina adjunta.
+
+Un bosque alpino después de la lluvia. El hombre conduce una bicicleta de montaña de alta gama por un sendero técnico en el bosque. El agua salpica en los charcos, la luz del sol se filtra entre los árboles, las hojas se dispersan bajo los neumáticos y la suspensión se comprime de forma realista sobre las rocas. Sale del bosque hacia un impresionante mirador sobre las montañas y sonríe con tranquilidad.
+
+La cámara alterna entre tomas de seguimiento en primera persona (FPV), tomas laterales bajas y un dramático retroceso de dron sobre el valle.
+
+Música de fondo: Orquesta híbrida inspiradora con percusión rítmica, sonidos realistas de bicicleta, movimiento de cadena, pájaros y ambiente de bosque.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073291490567372800/img/QeFefZQKKxyiSSgm.jpg" width="600" alt="Ciclismo de montaña en bosque alpino">
+
+**[🎬 Ver video →](https://x.com/vireonixx/status/2073291551653208142)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Fuente:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Publicado:** Jul 4, 2026
+
+---
+### Observación silenciosa en el museo de arte contemporáneo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico que describe a una mujer caminando por un museo de arte contemporáneo vacío, centrándose en la atmósfera y en una pintura abstracta específica.
+
+#### 📝 Prompt
+
+```
+Un museo de arte contemporáneo vacío después del horario de cierre. La mujer camina lentamente por la galería admirando enormes pinturas. Se detiene frente a una obra de arte abstracta.
+
+La cámara se mueve alrededor de su hombro para revelar la pintura. Ella simplemente se queda allí apreciándola. No sucede nada más. El silencio se convierte en la historia.
+
+Música de fondo: Piano minimalista, orquesta ambiental.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073240590406635520/img/FMVlUeG8cRzaJMaD.jpg" width="600" alt="Observación silenciosa en el museo de arte contemporáneo">
+
+**[🎬 Ver video →](https://x.com/vireonixx/status/2073240652268323043)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Fuente:** [Link](https://x.com/vireonixx/status/2073240652268323043) | **Publicado:** Jul 4, 2026
+
+---
 ### Estética de videocámara DV vintage de Tokio
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2137,6 +2255,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-05T07:24:20.248Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-05T10:11:50.662Z</sub>
 
 </div>
