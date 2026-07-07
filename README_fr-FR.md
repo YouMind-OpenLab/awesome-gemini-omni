@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **90** |
+| 📝 Total des prompts | **93** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-07-07** |
 
@@ -56,6 +56,92 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt de mouvement vidéo pour vêtements e-commerce
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt vidéo-à-vidéo détaillé pour transférer avec précision les mouvements et postures d'un personnage depuis une vidéo source vers un vêtement cible issu d'une image de référence.
+
+#### 📝 Prompt
+
+```
+Utilisez la vidéo téléchargée comme unique référence de mouvement, en extrayant uniquement le rythme du mouvement, les trajectoires des mains, l'ouverture et la fermeture des paumes, les changements de posture assise et la logique de changement de vêtement de la femme au centre, tout en ignorant les autres personnages et les mouvements d'arrière-plan. Utilisez l'image téléchargée du t-shirt gris à motif de chat comme unique référence de vêtement cible. Le vêtement cible doit reproduire strictement ce t-shirt gris à manches courtes et col rond.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="Prompt de mouvement vidéo pour vêtements e-commerce">
+
+**[🎬 Voir la vidéo →](https://x.com/Chengzilhy/status/2074066431835000960)**
+
+**Auteur:** [小宇Chengzi](https://x.com/Chengzilhy) | **Source:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **Publié:** Jul 6, 2026
+
+---
+### Prompt de personnage pour entraînement de boxe cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt haute fidélité pour générer une vidéo d'entraînement de boxe garantissant une cohérence stricte du personnage à partir d'une image de référence, avec un réalisme de style IMAX et des effets physiques détaillés.
+
+#### 📝 Prompt
+
+```
+Utilisez l'image de référence masculine ci-jointe comme SEULE référence d'identité pour le personnage principal.
+
+Maintenez une cohérence faciale totale sur chaque image. Préservez les traits du visage, la coiffure, le teint, la barbe, les proportions corporelles et les expressions identiques à ceux de l'image de référence fournie.
+
+Durée : 10 secondes.
+
+La première image s'ouvre sur le personnage en train d'enchaîner des combinaisons rapides sur un sac de frappe dans une salle de boxe haut de gamme à l'ancienne, avant le lever du soleil. La sueur vole naturellement à travers des rayons de lumière dorée. Il esquive un coup imaginaire, lance un crochet puissant, termine par un uppercut net, puis reprend son souffle calmement tandis que le sac de frappe oscille de manière spectaculaire.
+
+Réalisme Hollywood IMAX. Textures de peau ultra-détaillées. Simulation de sueur cinématographique. Mouvement musculaire réaliste. Éclairage volumétrique. Étalonnage HDR premium.
+
+Caméra :
+Gros plan extrême à côté du sac qui oscille → orbite circulaire Steadicam → impact du coup de poing au ralenti → plan large dramatique.
+
+Musique de fond :
+Musique de bande-annonce hybride sombre avec percussions profondes, basses rythmées, cordes agressives, cuivres cinématographiques.
+
+Environnement sonore :
+Impacts sur le sac de frappe, gants frappant le cuir, respiration, glissements de chaussures, mouvement des chaînes, réverbération subtile de la salle.
+
+Aucun dialogue.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="Prompt de personnage pour entraînement de boxe cinématographique">
+
+**[🎬 Voir la vidéo →](https://x.com/vireonixx/status/2073994774357655911)**
+
+**Auteur:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Publié:** Jul 6, 2026
+
+---
+### Portrait cinématographique d'une femme aux cheveux roux
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt précis basé sur une chronologie pour une vidéo cinématographique de 10 secondes mettant en scène une femme aux cheveux roux, utilisant une esthétique de film moyen format et des transitions de lumière spécifiques.
+
+#### 📝 Prompt
+
+```
+Portrait cinématographique en film moyen format (Pentax 67, 90mm f/2.8, Kodak Portra 400). Femme rousse avec des taches de rousseur, yeux fermés, longs cheveux roux flottant au vent sur un toit à Barcelone. Coucher de soleil à l'heure dorée, fuites de lumière vives, grain de film analogique.
+
+Prompt chronologique de 10 secondes :
+
+0-2s : Portrait en gros plan. Une brise légère commence à soulever ses cheveux roux. Des reflets solaires chauds traversent l'objectif.
+
+3-5s : Le vent s'intensifie. Les cheveux fouettent dynamiquement son visage. Le grain de film analogique et les fuites de lumière pulsent.
+
+6-8s : Travelling cinématographique lent autour de son profil. Le coucher de soleil de l'heure dorée souligne ses taches de rousseur et la texture de ses cheveux.
+
+8-10s : Le vent se calme légèrement. Une dernière fuite de lumière chaude s'estompe alors qu'elle reste immobile et paisible.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Portrait cinématographique d'une femme aux cheveux roux">
+
+**[🎬 Voir la vidéo →](https://x.com/michaelrabone/status/2073723756191637777)**
+
+**Auteur:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Publié:** Jul 5, 2026
+
+---
 ### Motion design professionnel avec image de référence
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2255,6 +2341,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-07T07:36:18.240Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-07T10:54:10.196Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **90** |
+| 📝 Totale prompt | **93** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-07-07** |
 
@@ -56,6 +56,92 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt di movimento video per abbigliamento e-commerce
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt video-to-video dettagliato per trasferire movimenti e posture precise dei personaggi da un video sorgente a un capo di abbigliamento target proveniente da un'immagine di riferimento.
+
+#### 📝 Prompt
+
+```
+Utilizza il video caricato come unico riferimento di movimento, estraendo esclusivamente il ritmo del movimento, le traiettorie delle mani, l'apertura e la chiusura dei palmi, i cambi di postura da seduta e la logica di cambio abbigliamento della donna al centro, ignorando gli altri personaggi e i movimenti dello sfondo. Utilizza l'immagine caricata della T-shirt grigia con stampa di gatto come unico riferimento per l'abbigliamento target. L'abbigliamento target deve replicare rigorosamente questa T-shirt grigia a maniche corte con girocollo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="Prompt di movimento video per abbigliamento e-commerce">
+
+**[🎬 Guarda il video →](https://x.com/Chengzilhy/status/2074066431835000960)**
+
+**Autore:** [小宇Chengzi](https://x.com/Chengzilhy) | **Fonte:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **Pubblicato:** Jul 6, 2026
+
+---
+### Prompt per personaggio: Allenamento di pugilato cinematografico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt ad alta fedeltà per generare un video di allenamento di pugilato che mantiene una rigorosa coerenza del personaggio utilizzando un'immagine di riferimento, caratterizzato da realismo in stile IMAX ed effetti fisici dettagliati.
+
+#### 📝 Prompt
+
+```
+Utilizza l'immagine di riferimento maschile allegata come UNICO riferimento di identità per il personaggio principale.
+
+Mantieni una coerenza facciale completa in ogni fotogramma. Preserva tratti del viso, acconciatura, tonalità della pelle, barba, proporzioni corporee ed espressioni identiche a quelle dell'immagine di riferimento allegata.
+
+Durata: 10 secondi.
+
+Il primo fotogramma si apre con il personaggio che sta già sferrando rapide combinazioni contro un sacco da boxe pesante all'interno di una palestra di pugilato old-school di alto livello prima dell'alba. Il sudore vola naturalmente attraverso fasci di luce dorata. Schiva un pugno immaginario, sferra un potente gancio, termina con un montante pulito, quindi riprende fiato silenziosamente mentre il sacco pesante oscilla drammaticamente.
+
+Realismo Hollywood IMAX. Texture della pelle ultra-dettagliate. Simulazione cinematografica del sudore. Movimento muscolare realistico. Illuminazione volumetrica. Grading HDR premium.
+
+Camera:
+Primo piano estremo accanto al sacco che oscilla → orbita circolare con Steadicam → impatto del pugno al rallentatore → ampia inquadratura drammatica.
+
+Musica di sottofondo:
+Musica trailer ibrida dark con percussioni profonde, bassi che ricordano un battito cardiaco, archi aggressivi, ottoni cinematografici.
+
+Suoni ambientali:
+Impatti sul sacco pesante, guantoni che colpiscono la pelle, respiro, scarpe che scivolano, movimento delle catene, sottile riverbero della palestra.
+
+Nessun dialogo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="Prompt per personaggio: Allenamento di pugilato cinematografico">
+
+**[🎬 Guarda il video →](https://x.com/vireonixx/status/2073994774357655911)**
+
+**Autore:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Pubblicato:** Jul 6, 2026
+
+---
+### Ritratto cinematografico su pellicola di una donna dai capelli rossi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt preciso basato su timeline per un video cinematografico di 10 secondi con protagonista una donna dai capelli rossi, che utilizza specifiche estetiche da pellicola medio formato e transizioni di luce.
+
+#### 📝 Prompt
+
+```
+Ritratto cinematografico su pellicola medio formato (Pentax 67, 90mm f/2.8, Kodak Portra 400). Donna dai capelli rossi con lentiggini, occhi chiusi, lunghi capelli rossi mossi dal vento su un tetto di Barcellona. Tramonto durante la golden hour, intensi light leak, grana della pellicola analogica.
+
+Prompt per timeline di 10 secondi:
+
+0-2s: Primo piano. Una brezza leggera inizia a sollevare i suoi capelli rossi. Caldi bagliori solari attraversano l'obiettivo.
+
+3-5s: Il vento si intensifica. I capelli sferzano il viso in modo dinamico. La grana della pellicola analogica e i light leak pulsano.
+
+6-8s: Lenta panoramica cinematografica attorno al suo profilo. Il tramonto della golden hour mette in risalto le sue lentiggini e la texture dei capelli.
+
+8-10s: Il vento cala leggermente. Un ultimo caldo light leak sfuma mentre lei rimane immobile e serena.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Ritratto cinematografico su pellicola di una donna dai capelli rossi">
+
+**[🎬 Guarda il video →](https://x.com/michaelrabone/status/2073723756191637777)**
+
+**Autore:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Pubblicato:** Jul 5, 2026
+
+---
 ### Motion graphics professionali con immagine di riferimento
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2255,6 +2341,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-07T07:36:18.815Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-07T10:54:10.730Z</sub>
 
 </div>

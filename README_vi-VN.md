@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **90** |
+| 📝 Tổng số prompt | **93** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-07** |
 
@@ -56,6 +56,92 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Prompt chuyển động video cho thời trang thương mại điện tử
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một prompt video-to-video chi tiết giúp chuyển đổi chính xác các chuyển động và tư thế của nhân vật từ video nguồn sang sản phẩm quần áo mục tiêu từ hình ảnh tham chiếu.
+
+#### 📝 Prompt
+
+```
+Sử dụng video đã tải lên làm tài liệu tham chiếu chuyển động duy nhất, chỉ trích xuất nhịp điệu chuyển động, quỹ đạo tay, cử động đóng mở lòng bàn tay, thay đổi tư thế ngồi và logic thay đổi trang phục của người phụ nữ ở trung tâm, đồng thời bỏ qua các nhân vật khác và chuyển động của hậu cảnh. Sử dụng hình ảnh chiếc áo thun in hình mèo màu xám đã tải lên làm tài liệu tham chiếu trang phục mục tiêu duy nhất. Trang phục mục tiêu phải tái tạo chính xác chiếc áo thun cổ tròn tay ngắn màu xám này.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="Prompt chuyển động video cho thời trang thương mại điện tử">
+
+**[🎬 Xem video →](https://x.com/Chengzilhy/status/2074066431835000960)**
+
+**Tác giả:** [小宇Chengzi](https://x.com/Chengzilhy) | **Nguồn:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **Đã xuất bản:** Jul 6, 2026
+
+---
+### Prompt Nhân vật Tập luyện Quyền anh Điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt độ trung thực cao để tạo video tập luyện quyền anh, duy trì tính nhất quán nghiêm ngặt của nhân vật bằng hình ảnh tham chiếu, mang phong cách chân thực kiểu IMAX và các hiệu ứng vật lý chi tiết.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh tham chiếu nam giới đính kèm làm tài liệu tham khảo nhận dạng DUY NHẤT cho nhân vật chính.
+
+Duy trì sự nhất quán hoàn toàn trên khuôn mặt trong mọi khung hình. Bảo toàn các đặc điểm khuôn mặt, kiểu tóc, tông màu da, râu, tỷ lệ cơ thể và biểu cảm giống hệt như trong hình ảnh tham chiếu đính kèm.
+
+Thời lượng: 10 giây.
+
+Khung hình đầu tiên mở ra với cảnh nhân vật đang thực hiện các đòn phối hợp nhanh vào bao cát nặng bên trong một phòng tập quyền anh cổ điển cao cấp trước bình minh. Mồ hôi bay tự nhiên qua những tia sáng vàng. Anh né một cú đấm tưởng tượng, tung một cú móc uy lực, kết thúc bằng một cú đấm móc ngược gọn gàng, sau đó lặng lẽ lấy lại hơi thở trong khi bao cát đung đưa đầy kịch tính.
+
+Chân thực kiểu Hollywood IMAX. Kết cấu da siêu chi tiết. Mô phỏng mồ hôi đậm chất điện ảnh. Chuyển động cơ bắp chân thực. Ánh sáng thể tích. Phân loại màu HDR cao cấp.
+
+Camera:
+Cận cảnh cực đại bên cạnh bao cát đang đung đưa → quỹ đạo Steadicam hình tròn → tác động cú đấm chuyển động chậm → góc rộng đầy kịch tính.
+
+Nhạc nền:
+Nhạc trailer lai tối tăm với bộ gõ trầm, âm bass nhịp tim, đàn dây mạnh mẽ, kèn đồng điện ảnh.
+
+Âm thanh môi trường:
+Tiếng va chạm bao cát, găng tay đập vào da, tiếng thở, tiếng giày trượt trên sàn, tiếng xích chuyển động, tiếng vang tinh tế của phòng tập.
+
+Không có lời thoại.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="Prompt Nhân vật Tập luyện Quyền anh Điện ảnh">
+
+**[🎬 Xem video →](https://x.com/vireonixx/status/2073994774357655911)**
+
+**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Đã xuất bản:** Jul 6, 2026
+
+---
+### Chân dung điện ảnh cô gái tóc đỏ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) dựa trên dòng thời gian chính xác cho video điện ảnh dài 10 giây, mô tả một người phụ nữ tóc đỏ với tính thẩm mỹ của phim nhựa khổ trung và các hiệu ứng chuyển đổi ánh sáng đặc trưng.
+
+#### 📝 Prompt
+
+```
+Chân dung điện ảnh phim nhựa khổ trung (Pentax 67, 90mm f/2.8, Kodak Portra 400). Người phụ nữ tóc đỏ hung với những nốt tàn nhang, nhắm mắt, mái tóc đỏ dài bay trong gió trên sân thượng ở Barcelona. Hoàng hôn giờ vàng, hiệu ứng hở sáng (light leaks) rực rỡ, hạt phim analog.
+
+Câu lệnh dòng thời gian 10 giây:
+
+0-2s: Chân dung cận cảnh. Làn gió nhẹ bắt đầu làm mái tóc đỏ của cô bay lên. Những tia nắng ấm áp lướt qua ống kính.
+
+3-5s: Gió mạnh dần. Mái tóc chuyển động mạnh che ngang mặt cô. Hạt phim analog và hiệu ứng hở sáng nhấp nháy.
+
+6-8s: Cảnh quay lia máy chậm theo kiểu điện ảnh quanh góc nghiêng của cô. Ánh hoàng hôn giờ vàng làm nổi bật những nốt tàn nhang và kết cấu mái tóc.
+
+8-10s: Gió dịu dần. Một vệt sáng ấm cuối cùng mờ dần khi cô vẫn giữ vẻ tĩnh lặng và bình yên.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Chân dung điện ảnh cô gái tóc đỏ">
+
+**[🎬 Xem video →](https://x.com/michaelrabone/status/2073723756191637777)**
+
+**Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Đã xuất bản:** Jul 5, 2026
+
+---
 ### Đồ họa chuyển động chuyên nghiệp với hình ảnh tham chiếu
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2255,6 +2341,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-07T07:36:15.500Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-07T10:54:07.211Z</sub>
 
 </div>

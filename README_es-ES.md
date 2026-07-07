@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **90** |
+| 📝 Total de prompts | **93** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-07** |
 
@@ -56,6 +56,92 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de movimiento de video para ropa de comercio electrónico
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado de video a video para transferir movimientos y posturas precisas de un personaje desde un video de origen a una prenda de vestir objetivo a partir de una imagen de referencia.
+
+#### 📝 Prompt
+
+```
+Utiliza el video cargado como única referencia de movimiento, extrayendo exclusivamente el ritmo de movimiento, las trayectorias de las manos, la apertura y cierre de las palmas, los cambios de postura al sentarse y la lógica de cambio de ropa de la mujer en el centro, ignorando a otros personajes y los movimientos del fondo. Utiliza la imagen cargada de la camiseta gris con estampado de gato como única referencia de la prenda objetivo. La prenda objetivo debe replicar estrictamente esta camiseta gris de manga corta y cuello redondo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="Prompt de movimiento de video para ropa de comercio electrónico">
+
+**[🎬 Ver video →](https://x.com/Chengzilhy/status/2074066431835000960)**
+
+**Autor:** [小宇Chengzi](https://x.com/Chengzilhy) | **Fuente:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **Publicado:** Jul 6, 2026
+
+---
+### Prompt de personaje para entrenamiento de boxeo cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de alta fidelidad para generar un video de entrenamiento de boxeo que mantiene una estricta consistencia del personaje usando una imagen de referencia, con realismo estilo IMAX y efectos físicos detallados.
+
+#### 📝 Prompt
+
+```
+Utiliza la imagen de referencia masculina adjunta como la ÚNICA referencia de identidad para el personaje principal.
+
+Mantén una consistencia facial completa en cada fotograma. Preserva los rasgos faciales, el peinado, el tono de piel, la barba, las proporciones corporales y las expresiones idénticas a las de la imagen de referencia adjunta.
+
+Duración: 10 segundos.
+
+El primer fotograma comienza con el personaje lanzando combinaciones rápidas a un saco de boxeo pesado dentro de un gimnasio de boxeo premium de la vieja escuela antes del amanecer. El sudor vuela de forma natural a través de haces de luz dorada. Esquiva un golpe imaginario, lanza un gancho potente, termina con un uppercut limpio y luego recupera el aliento tranquilamente mientras el saco pesado se balancea dramáticamente.
+
+Realismo estilo Hollywood IMAX. Texturas de piel ultra detalladas. Simulación de sudor cinematográfica. Movimiento muscular realista. Iluminación volumétrica. Gradación HDR premium.
+
+Cámara:
+Primer plano extremo junto al saco que se balancea → órbita circular con Steadicam → impacto de golpe en cámara lenta → plano general dramático.
+
+Música de fondo:
+Música de tráiler híbrida y oscura con percusión profunda, bajos tipo latido, cuerdas agresivas y metales cinematográficos.
+
+Sonido ambiental:
+Impactos en el saco pesado, guantes golpeando el cuero, respiración, deslizamiento de zapatos, movimiento de cadenas, sutil reverberación de gimnasio.
+
+Sin diálogos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="Prompt de personaje para entrenamiento de boxeo cinematográfico">
+
+**[🎬 Ver video →](https://x.com/vireonixx/status/2073994774357655911)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Fuente:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Publicado:** Jul 6, 2026
+
+---
+### Retrato cinematográfico de mujer pelirroja en película
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt preciso basado en una línea de tiempo para un video cinematográfico de 10 segundos que presenta a una mujer con cabello rojo, utilizando estética de película de formato medio y transiciones de iluminación específicas.
+
+#### 📝 Prompt
+
+```
+Retrato cinematográfico en película de formato medio (Pentax 67, 90mm f/2.8, Kodak Portra 400). Mujer pelirroja con pecas, ojos cerrados, cabello rojo largo ondeando al viento en una azotea de Barcelona. Atardecer de hora dorada, fugas de luz brillantes, grano de película analógica.
+
+Prompt de línea de tiempo de 10 segundos:
+
+0-2s: Retrato en primer plano. Una brisa suave comienza a levantar su cabello rojo. Destellos solares cálidos cruzan la lente.
+
+3-5s: El viento se intensifica. El cabello se agita dinámicamente sobre su rostro. El grano de película analógica y las fugas de luz pulsan.
+
+6-8s: Lento paneo cinematográfico alrededor de su perfil. El atardecer de la hora dorada resalta sus pecas y la textura de su cabello.
+
+8-10s: El viento disminuye ligeramente. Una última fuga de luz cálida se desvanece mientras ella permanece quieta y serena.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Retrato cinematográfico de mujer pelirroja en película">
+
+**[🎬 Ver video →](https://x.com/michaelrabone/status/2073723756191637777)**
+
+**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fuente:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Publicado:** Jul 5, 2026
+
+---
 ### Motion graphics profesionales con imagen de referencia
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2255,6 +2341,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-07T07:36:16.637Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-07T10:54:08.346Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **90** |
+| 📝 Gesamtanzahl Prompts | **93** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-07** |
 
@@ -56,6 +56,92 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### E-Commerce-Video-Motion-Prompt für Bekleidung
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Video-zu-Video-Prompt zur Übertragung präziser Bewegungsabläufe und Körperhaltungen von einem Quellvideo auf ein Zielkleidungsstück aus einem Referenzbild.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das hochgeladene Video als einzige Bewegungsreferenz und extrahieren Sie dabei ausschließlich den Bewegungsrhythmus, die Handbewegungen, das Öffnen und Schließen der Handflächen, die Veränderungen der Sitzposition sowie die Logik des Kleiderwechsels der Dame in der Mitte, während andere Charaktere und Hintergrundbewegungen ignoriert werden. Verwenden Sie das hochgeladene Bild des grauen T-Shirts mit Katzen-Print als einzige Referenz für das Zielkleidungsstück. Das Zielkleidungsstück muss dieses graue, kurzärmelige T-Shirt mit Rundhalsausschnitt exakt reproduzieren.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="E-Commerce-Video-Motion-Prompt für Bekleidung">
+
+**[🎬 Video ansehen →](https://x.com/Chengzilhy/status/2074066431835000960)**
+
+**Autor:** [小宇Chengzi](https://x.com/Chengzilhy) | **Quelle:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **Veröffentlicht:** Jul 6, 2026
+
+---
+### Cinematic Boxing Training Character Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochpräziser Prompt zur Erstellung eines Boxtrainings-Videos, das durch die Verwendung eines Referenzbildes eine strikte Charakterkonsistenz beibehält, inklusive IMAX-Realismus und detaillierten physischen Effekten.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das angehängte männliche Referenzbild als EINZIGE Identitätsreferenz für die Hauptfigur.
+
+Sorgen Sie für eine durchgehende Gesichtskonsistenz in jedem Frame. Behalten Sie die identischen Gesichtszüge, die Frisur, den Hautton, den Bart, die Körperproportionen und die Mimik aus dem angehängten Referenzbild bei.
+
+Dauer: 10 Sekunden.
+
+Die erste Einstellung beginnt damit, dass der Charakter bereits schnelle Kombinationen gegen einen schweren Boxsack in einem erstklassigen Old-School-Boxstudio vor Sonnenaufgang ausführt. Schweißtropfen fliegen natürlich durch goldene Lichtstrahlen. Er weicht einem imaginären Schlag aus, schlägt einen kraftvollen Haken, beendet die Sequenz mit einem sauberen Uppercut und holt dann ruhig Atem, während der schwere Boxsack dramatisch schwingt.
+
+Hollywood IMAX-Realismus. Hochdetaillierte Hauttexturen. Kinoreife Schweiß-Simulation. Realistische Muskelbewegungen. Volumetrische Beleuchtung. Erstklassiges HDR-Grading.
+
+Kamera:
+Extreme Nahaufnahme neben dem schwingenden Boxsack → kreisförmige Steadicam-Umlaufbahn → Zeitlupen-Schlagaufprall → dramatische Totale.
+
+Hintergrundmusik:
+Dunkle Hybrid-Trailermusik mit tiefen Percussions, Herzschlag-Bass, aggressiven Streichern und cineastischen Bläsern.
+
+Umgebungsgeräusche:
+Aufprall auf den schweren Boxsack, Handschuhe auf Leder, Atmung, rutschende Schuhe, Kettenbewegungen, dezenter Hall im Fitnessstudio.
+
+Kein Dialog.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="Cinematic Boxing Training Character Prompt">
+
+**[🎬 Video ansehen →](https://x.com/vireonixx/status/2073994774357655911)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Veröffentlicht:** Jul 6, 2026
+
+---
+### Cinematisches Filmporträt mit rotem Haar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein präziser, zeitlinienbasierter Prompt für ein 10-sekündiges kinoreifes Video einer Frau mit rotem Haar, unter Verwendung spezifischer Mittelformat-Filmästhetik und Lichtübergänge.
+
+#### 📝 Prompt
+
+```
+Cinematisches Mittelformat-Filmporträt (Pentax 67, 90mm f/2.8, Kodak Portra 400). Rothaarige Frau mit Sommersprossen, geschlossene Augen, langes rotes Haar weht im Wind auf einem Dach in Barcelona. Goldene Stunde bei Sonnenuntergang, helle Lichtreflexe (Light Leaks), analoge Filmkörnung.
+
+10-Sekunden-Zeitlinien-Prompt:
+
+0-2s: Nahaufnahme-Porträt. Eine sanfte Brise beginnt, ihr rotes Haar anzuheben. Warme Sonnenstrahlen ziehen über das Objektiv.
+
+3-5s: Der Wind nimmt zu. Das Haar peitscht dynamisch über ihr Gesicht. Analoge Filmkörnung und Lichtreflexe pulsieren.
+
+6-8s: Langsamer kinoreifer Kameraschwenk um ihr Profil. Der Sonnenuntergang der goldenen Stunde betont ihre Sommersprossen und die Haarstruktur.
+
+8-10s: Der Wind lässt leicht nach. Ein letzter warmer Lichtreflex blendet aus, während sie ruhig und friedlich verharrt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Cinematisches Filmporträt mit rotem Haar">
+
+**[🎬 Video ansehen →](https://x.com/michaelrabone/status/2073723756191637777)**
+
+**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Quelle:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Veröffentlicht:** Jul 5, 2026
+
+---
 ### Professionelle Motion Graphics mit Referenzbild
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2255,6 +2341,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-07T07:36:17.727Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-07T10:54:09.577Z</sub>
 
 </div>

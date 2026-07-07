@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **90** |
+| 📝 Toplam İstem | **93** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-07** |
 
@@ -56,6 +56,92 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### E-ticaret Giyim Video Hareket İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Kaynak bir videodaki hassas karakter hareketlerini ve duruşlarını, referans bir görseldeki hedef giyim ürününe aktarmak için kullanılan detaylı bir video-videoya dönüştürme istemi.
+
+#### 📝 İstem
+
+```
+Yüklenen videoyu tek hareket referansı olarak kullanın; yalnızca merkezdeki kadının hareket ritmini, el yollarını, avuç içi açılıp kapanma hareketlerini, oturma duruşu değişikliklerini ve kıyafet değiştirme mantığını çıkarın, diğer karakterleri ve arka plan hareketlerini görmezden gelin. Yüklenen gri kedi baskılı tişört görselini tek hedef kıyafet referansı olarak kullanın. Hedef kıyafet, bu gri kısa kollu bisiklet yaka tişörtü birebir kopyalamalıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="E-ticaret Giyim Video Hareket İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/Chengzilhy/status/2074066431835000960)**
+
+**Yazar:** [小宇Chengzi](https://x.com/Chengzilhy) | **Kaynak:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **Yayınlandı:** Jul 6, 2026
+
+---
+### Sinematik Boks Antrenmanı Karakter İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans görsel kullanarak katı karakter tutarlılığını koruyan, IMAX tarzı gerçekçilik ve detaylı fiziksel efektler içeren, yüksek sadakatli bir boks antrenmanı videosu oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Ana karakter için TEK kimlik referansı olarak ekteki erkek referans görselini kullanın.
+
+Her karede tam yüz tutarlılığını koruyun. Ekteki referans görselindeki yüz hatlarını, saç stilini, cilt tonunu, sakalı, vücut oranlarını ve ifadeleri birebir muhafaza edin.
+
+Süre: 10 saniye.
+
+İlk kare, karakterin gün doğumundan önce birinci sınıf, eski tarz bir boks salonunda ağır bir boks torbasına hızlı kombinasyonlar vurmasıyla başlar. Ter, altın rengi ışık huzmeleri arasında doğal bir şekilde havaya saçılır. Hayali bir yumruktan sıyrılır, güçlü bir kroşe atar, temiz bir aparkat ile bitirir ve ardından ağır torba dramatik bir şekilde sallanırken sessizce nefesini toplar.
+
+Hollywood IMAX gerçekçiliği. Ultra detaylı cilt dokuları. Sinematik ter simülasyonu. Gerçekçi kas hareketi. Volumetrik aydınlatma. Premium HDR derecelendirme.
+
+Kamera:
+Sallanan torbanın yanında aşırı yakın çekim → dairesel Steadicam yörüngesi → ağır çekim yumruk darbesi → dramatik geniş açı geçişi.
+
+Arka Plan Müziği:
+Derin perküsyon, kalp atışı bas, agresif yaylılar ve sinematik nefesli çalgılar içeren karanlık hibrit fragman müziği.
+
+Çevresel Ses:
+Ağır torba darbeleri, deriye çarpan eldivenler, nefes alışverişi, ayakkabı sürtünmesi, zincir hareketi, hafif spor salonu yankısı.
+
+Diyalog yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="Sinematik Boks Antrenmanı Karakter İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2073994774357655911)**
+
+**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Yayınlandı:** Jul 6, 2026
+
+---
+### Sinematik Kızıl Saçlı Film Portresi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kızıl saçlı bir kadının yer aldığı, belirli orta format film estetiği ve ışık geçişleri kullanan 10 saniyelik sinematik bir video için hassas, zaman çizelgesi tabanlı bir istem.
+
+#### 📝 İstem
+
+```
+Sinematik orta format film portresi (Pentax 67, 90mm f/2.8, Kodak Portra 400). Çilli, gözleri kapalı, Barselona'da bir çatı katında rüzgarda uçuşan uzun kızıl saçlı kızıl saçlı kadın. Altın saat gün batımı, parlak ışık sızıntıları, analog film greni.
+
+10 Saniyelik Zaman Çizelgesi İstemi:
+
+0-2. saniye: Yakın plan portre. Hafif bir esinti kızıl saçlarını kaldırmaya başlar. Sıcak güneş parlamaları lensi geçer.
+
+3-5. saniye: Rüzgar şiddetlenir. Saçlar dinamik bir şekilde yüzünde savrulur. Analog film greni ve ışık sızıntıları titreşir.
+
+6-8. saniye: Profili etrafında yavaş sinematik bir kaydırma. Altın saat gün batımı, çillerini ve saç dokusunu vurgular.
+
+8-10. saniye: Rüzgar hafifçe diner. O, hareketsiz ve huzurlu bir şekilde dururken son bir sıcak ışık sızıntısı solar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Sinematik Kızıl Saçlı Film Portresi">
+
+**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2073723756191637777)**
+
+**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Yayınlandı:** Jul 5, 2026
+
+---
 ### Referans Görsel ile Profesyonel Hareketli Grafikler
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2255,6 +2341,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-07T07:36:20.402Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-07T10:54:12.377Z</sub>
 
 </div>

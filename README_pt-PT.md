@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **90** |
+| 📝 Total de prompts | **93** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-07** |
 
@@ -56,6 +56,92 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompt de Movimento de Vídeo para E-commerce de Vestuário
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado de vídeo para vídeo para transferir movimentos e posturas precisas de personagens de um vídeo de origem para uma peça de roupa alvo a partir de uma imagem de referência.
+
+#### 📝 Prompt
+
+```
+Use o vídeo enviado como a única referência de movimento, extraindo apenas o ritmo do movimento, trajetórias das mãos, abertura e fechamento das palmas, mudanças de postura ao sentar e a lógica de troca de roupa da mulher no centro, ignorando outros personagens e movimentos de fundo. Use a imagem enviada da camiseta cinza com estampa de gato como a única referência de vestuário alvo. A roupa alvo deve replicar rigorosamente esta camiseta cinza de manga curta e gola redonda.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="Prompt de Movimento de Vídeo para E-commerce de Vestuário">
+
+**[🎬 Assistir vídeo →](https://x.com/Chengzilhy/status/2074066431835000960)**
+
+**Autor:** [小宇Chengzi](https://x.com/Chengzilhy) | **Fonte:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **Publicado:** Jul 6, 2026
+
+---
+### Prompt de Personagem para Treino de Boxe Cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de alta fidelidade para gerar um vídeo de treino de boxe mantendo uma consistência rigorosa do personagem usando uma imagem de referência, apresentando realismo estilo IMAX e efeitos físicos detalhados.
+
+#### 📝 Prompt
+
+```
+Use a imagem de referência masculina anexada como a ÚNICA referência de identidade para o personagem principal.
+
+Mantenha total consistência facial em todos os quadros. Preserve traços faciais, penteado, tom de pele, barba, proporções corporais e expressões idênticas aos da imagem de referência anexada.
+
+Duração: 10 segundos.
+
+O primeiro quadro abre com o personagem já desferindo combinações rápidas em um saco de pancadas pesado dentro de uma academia de boxe premium à moda antiga antes do nascer do sol. O suor voa naturalmente através de feixes de luz dourada. Ele esquiva de um soco imaginário, desfere um gancho poderoso, termina com um uppercut preciso e, em seguida, recupera o fôlego silenciosamente enquanto o saco de pancadas balança dramaticamente.
+
+Realismo Hollywood IMAX. Texturas de pele ultra-detalhadas. Simulação de suor cinematográfica. Movimento muscular realista. Iluminação volumétrica. Gradação HDR premium.
+
+Câmera:
+Close-up extremo ao lado do saco de pancadas → órbita circular de Steadicam → impacto de soco em câmera lenta → revelação ampla dramática.
+
+Trilha Sonora:
+Música de trailer híbrida e sombria com percussão profunda, graves de batimento cardíaco, cordas agressivas e metais cinematográficos.
+
+Som Ambiental:
+Impactos no saco de pancadas, luvas atingindo o couro, respiração, sapatos deslizando, movimento de correntes, reverberação sutil de academia.
+
+Sem diálogo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="Prompt de Personagem para Treino de Boxe Cinematográfico">
+
+**[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2073994774357655911)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Publicado:** Jul 6, 2026
+
+---
+### Retrato Cinematográfico em Filme de Cabelo Ruivo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt preciso baseado em linha do tempo para um vídeo cinematográfico de 10 segundos apresentando uma mulher de cabelos ruivos, utilizando estética de filme de médio formato e transições de iluminação específicas.
+
+#### 📝 Prompt
+
+```
+Retrato cinematográfico em filme de médio formato (Pentax 67, 90mm f/2.8, Kodak Portra 400). Mulher ruiva com sardas, olhos fechados, longos cabelos vermelhos soprando ao vento em um terraço em Barcelona. Pôr do sol na hora dourada, vazamentos de luz brilhantes, granulação de filme analógico.
+
+Prompt de Linha do Tempo de 10 Segundos:
+
+0-2s: Retrato em close-up. Uma brisa suave começa a levantar seu cabelo ruivo. Reflexos solares quentes cruzam a lente.
+
+3-5s: O vento intensifica. O cabelo chicoteia dinamicamente pelo rosto. Granulação de filme analógico e vazamentos de luz pulsam.
+
+6-8s: Panorâmica cinematográfica lenta ao redor do seu perfil. O pôr do sol da hora dourada destaca suas sardas e a textura do cabelo.
+
+8-10s: O vento diminui levemente. Um último vazamento de luz quente desaparece enquanto ela permanece imóvel e serena.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Retrato Cinematográfico em Filme de Cabelo Ruivo">
+
+**[🎬 Assistir vídeo →](https://x.com/michaelrabone/status/2073723756191637777)**
+
+**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Publicado:** Jul 5, 2026
+
+---
 ### Motion Graphics Profissionais com Imagem de Referência
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2255,6 +2341,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-07T07:36:19.874Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-07T10:54:11.808Z</sub>
 
 </div>

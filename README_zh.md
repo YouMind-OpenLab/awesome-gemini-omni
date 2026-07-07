@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **90** |
+| 📝 提示词总数 | **93** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-07-07** |
 
@@ -56,6 +56,92 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 电商服装视频动作提示词
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一份详细的视频转视频（video-to-video）提示词，用于将源视频中人物精准的动作和姿态迁移到参考图中的目标服装上。
+
+#### 📝 提示词
+
+```
+请仅使用上传的视频作为动作参考，提取视频中心女士的动作节奏、手部轨迹、手掌开合、坐姿变化以及换装逻辑，并忽略其他人物和背景的运动。使用上传的灰色猫咪印花 T 恤图片作为唯一的目标服装参考。目标服装必须严格复刻这件灰色短袖圆领 T 恤。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="电商服装视频动作提示词">
+
+**[🎬 观看视频 →](https://x.com/Chengzilhy/status/2074066431835000960)**
+
+**作者:** [小宇Chengzi](https://x.com/Chengzilhy) | **来源:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **发布时间:** Jul 6, 2026
+
+---
+### 电影级拳击训练角色提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一套高保真提示词，用于生成拳击训练视频。通过参考图保持严格的角色一致性，呈现 IMAX 级的写实感与细腻的物理效果。
+
+#### 📝 提示词
+
+```
+请将附带的男性参考图作为主角的唯一身份参考。
+
+确保每一帧的面部特征完全一致。保留参考图中相同的面部特征、发型、肤色、胡须、身体比例及表情。
+
+时长：10 秒。
+
+第一帧画面：角色已在日出前的顶级复古拳击馆内，对着重型沙袋进行快速组合拳训练。汗水在金色光束中自然飞溅。他闪避了一记虚构的重拳，打出一记强有力的勾拳，以利落的上勾拳收尾，随后在沙袋剧烈晃动时静静地调整呼吸。
+
+好莱坞 IMAX 级写实感。超细腻皮肤纹理。电影级汗水模拟。逼真的肌肉运动。体积光效果。顶级 HDR 调色。
+
+运镜：
+沙袋旁的极近特写 → 环绕式斯坦尼康（Steadicam）轨道拍摄 → 慢动作拳击冲击 → 震撼的广角展现。
+
+背景音乐：
+暗黑混合风格预告片音乐，包含深沉的打击乐、心跳般的低音、激昂的弦乐及电影级铜管乐。
+
+环境音效：
+重拳击打沙袋声、拳套撞击皮革声、呼吸声、脚步摩擦声、铁链晃动声，以及细腻的拳馆回声。
+
+无对白。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="电影级拳击训练角色提示词">
+
+**[🎬 观看视频 →](https://x.com/vireonixx/status/2073994774357655911)**
+
+**作者:** [Virena](https://x.com/vireonixx) | **来源:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **发布时间:** Jul 6, 2026
+
+---
+### 电影感红发人像摄影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份基于精确时间轴的 10 秒电影感视频提示词，展示了一位红发女性，并运用了特定的中画幅胶片美学与光影过渡。
+
+#### 📝 提示词
+
+```
+电影感中画幅胶片人像（Pentax 67, 90mm f/2.8, Kodak Portra 400）。一位长着雀斑的姜黄色头发女性，闭着双眼，一头红发在巴塞罗那的屋顶上随风飘动。黄金时刻的日落，明亮的光晕，模拟胶片颗粒感。
+
+10 秒时间轴提示词：
+
+0-2 秒：特写人像。微风开始吹起她的红发。温暖的太阳光晕掠过镜头。
+
+3-5 秒：风力增强。头发在她的脸上动态拂动。模拟胶片颗粒感和光晕闪烁。
+
+6-8 秒：围绕她的侧脸进行缓慢的电影感平移拍摄。黄金时刻的日落突显了她的雀斑和发丝质感。
+
+8-10 秒：风力稍减。随着她保持静止与平和，最后一道温暖的光晕逐渐淡出。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="电影感红发人像摄影">
+
+**[🎬 观看视频 →](https://x.com/michaelrabone/status/2073723756191637777)**
+
+**作者:** [Michael Rabone](https://x.com/michaelrabone) | **来源:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **发布时间:** Jul 5, 2026
+
+---
 ### 基于参考图像的专业动态图形制作
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2255,6 +2341,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-07T07:36:12.417Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-07T10:54:04.453Z</sub>
 
 </div>

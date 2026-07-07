@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **90** |
+| 📝 Total Prompts | **93** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-07** |
 
@@ -56,6 +56,92 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### E-commerce Clothing Video Motion Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed video-to-video prompt for transferring precise character movements and postures from a source video to a targeted clothing item from a reference image.
+
+#### 📝 Prompt
+
+```
+Use the uploaded video as the sole motion reference, extracting only the motion rhythm, hand paths, palm opening and closing, sitting posture changes, and clothing-change logic of the lady in the center, while ignoring other characters and background movements. Use the uploaded image of the grey cat-print T-shirt as the sole target clothing reference. The target clothing must strictly replicate this grey short-sleeved round-neck T-shirt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="E-commerce Clothing Video Motion Prompt">
+
+**[🎬 Watch Video →](https://x.com/Chengzilhy/status/2074066431835000960)**
+
+**Author:** [小宇Chengzi](https://x.com/Chengzilhy) | **Source:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **Published:** Jul 6, 2026
+
+---
+### Cinematic Boxing Training Character Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-fidelity prompt for generating a boxing training video that maintains strict character consistency using a reference image, featuring IMAX-style realism and detailed physical effects.
+
+#### 📝 Prompt
+
+```
+Use the attached male reference image as the ONLY identity reference for the main character.
+
+Maintain complete facial consistency throughout every frame. Preserve identical facial features, hairstyle, skin tone, beard, body proportions, and expressions from the attached reference image.
+
+Duration: 10 seconds.
+
+The first frame opens with the character already delivering rapid combinations to a heavy boxing bag inside a premium old-school boxing gym before sunrise. Sweat flies naturally through shafts of golden light. He slips an imaginary punch, throws a powerful hook, finishes with a clean uppercut, then quietly catches his breath while the heavy bag swings dramatically.
+
+Hollywood IMAX realism. Ultra-detailed skin textures. Cinematic sweat simulation. Realistic muscle movement. Volumetric lighting. Premium HDR grading.
+
+Camera:
+Extreme close-up beside the swinging bag → circular Steadicam orbit → slow-motion punch impact → dramatic wide reveal.
+
+Background Music:
+Dark hybrid trailer music featuring deep percussion, heartbeat bass, aggressive strings, cinematic brass.
+
+Environmental Sound:
+Heavy bag impacts, gloves striking leather, breathing, shoes sliding, chain movement, subtle gym reverb.
+
+No dialogue.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="Cinematic Boxing Training Character Prompt">
+
+**[🎬 Watch Video →](https://x.com/vireonixx/status/2073994774357655911)**
+
+**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Published:** Jul 6, 2026
+
+---
+### Cinematic Red Hair Film Portrait
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A precise timeline-based prompt for a 10-second cinematic video featuring a woman with red hair, using specific medium format film aesthetics and lighting transitions.
+
+#### 📝 Prompt
+
+```
+Cinematic medium format film portrait (Pentax 67, 90mm f/2.8, Kodak Portra 400). Ginger woman with freckles, eyes closed, long red hair blowing in the wind on a Barcelona rooftop. Golden hour sunset, bright light leaks, analog film grain.
+
+10-Second Timeline Prompt:
+
+0-2s: Close-up portrait. Gentle breeze begins to lift her red hair. Warm sun flares cross the lens.
+
+3-5s: Wind intensifies. Hair dynamically whips across her face. Analog film grain and light leaks pulse.
+
+6-8s: Slow cinematic pan around her profile. The golden hour sunset highlights her freckles and hair texture.
+
+8-10s: Wind settles slightly. A final warm light leak fades as she remains still and peaceful.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Cinematic Red Hair Film Portrait">
+
+**[🎬 Watch Video →](https://x.com/michaelrabone/status/2073723756191637777)**
+
+**Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Published:** Jul 5, 2026
+
+---
 ### Professional Motion Graphics with Reference Image
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2234,6 +2320,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T07:36:11.780Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-07T10:54:03.884Z</sub>
 
 </div>
