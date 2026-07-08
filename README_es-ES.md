@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **93** |
+| 📝 Total de prompts | **95** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-08** |
 
@@ -56,6 +56,44 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Animación de un gigante amable y una mariposa brillante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narrativo conmovedor que presenta a un gigante amable y una mariposa mágica, utilizado para una comparación lado a lado entre Gemini Omni y otros modelos de video.
+
+#### 📝 Prompt
+
+```
+Un gigante amable encuentra una mariposa brillante… desde un atardecer solitario hasta una amistad mágica bajo las estrellas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Animación de un gigante amable y una mariposa brillante">
+
+**[🎬 Ver video →](https://x.com/Dheepanratnam/status/2074412218666414171)**
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fuente:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Publicado:** Jul 7, 2026
+
+---
+### Secuencia de montaje de cocina estilo anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar una secuencia de cocina estilo anime de ritmo rápido, que abarca desde la preparación en el refrigerador hasta el plato final.
+
+#### 📝 Prompt
+
+```
+Un montaje de cocina estilo anime de 10 segundos, de ritmo rápido y silencioso, SIN diálogos. Secuencia: POV abriendo un refrigerador lleno de [noodles ] → vertiendo una salsa brillante → cortando verduras → encendiendo una estufa de gas → una mujer femenina salteando ingredientes en un wok chisporroteante → toma macro de [noodles ] humeantes y burbujeantes → toma cenital del banquete final → primer plano del hombre comiendo un bocado grande en silencio → toma estética final del plato humeante en una encimera de cocina iluminada por el sol
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="Secuencia de montaje de cocina estilo anime">
+
+**[🎬 Ver video →](https://x.com/Just_sharon7/status/2074360713766981924)**
+
+**Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Fuente:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **Publicado:** Jul 7, 2026
+
+---
 ### Prompt de movimiento de video para ropa de comercio electrónico
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2341,6 +2379,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-08T06:27:14.284Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-08T10:16:13.806Z</sub>
 
 </div>

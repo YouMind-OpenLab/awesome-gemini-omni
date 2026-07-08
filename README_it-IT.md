@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **93** |
+| 📝 Totale prompt | **95** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-07-08** |
 
@@ -56,6 +56,44 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Animazione di un gigante gentile e una farfalla luminosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narrativo emozionante con protagonista un gigante gentile e una farfalla magica, utilizzato per un confronto diretto tra Gemini Omni e altri modelli video.
+
+#### 📝 Prompt
+
+```
+Un gigante gentile trova una farfalla luminosa… dal tramonto in solitudine a una magica amicizia sotto le stelle.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Animazione di un gigante gentile e una farfalla luminosa">
+
+**[🎬 Guarda il video →](https://x.com/Dheepanratnam/status/2074412218666414171)**
+
+**Autore:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Pubblicato:** Jul 7, 2026
+
+---
+### Sequenza di montaggio di cucina in stile anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per generare una sequenza di cucina in stile anime dal ritmo incalzante, che copre ogni fase, dalla preparazione degli ingredienti alla presentazione del piatto finale.
+
+#### 📝 Prompt
+
+```
+Un montaggio di cucina in stile anime dal ritmo incalzante, della durata di 10 secondi e senza dialoghi. Sequenza: POV apertura di un frigorifero rifornito per [noodles ] → versare una salsa lucida → affettare verdure → accendere un fornello a gas → una donna che salta gli ingredienti in un wok sfrigolante → ripresa macro di [noodles ] fumanti e gorgoglianti → inquadratura dall'alto del banchetto finale → primo piano dell'uomo che mangia silenziosamente un boccone → inquadratura estetica finale del piatto fumante su un bancone della cucina illuminato dal sole
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="Sequenza di montaggio di cucina in stile anime">
+
+**[🎬 Guarda il video →](https://x.com/Just_sharon7/status/2074360713766981924)**
+
+**Autore:** [Sharon Riley](https://x.com/Just_sharon7) | **Fonte:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **Pubblicato:** Jul 7, 2026
+
+---
 ### Prompt di movimento video per abbigliamento e-commerce
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2341,6 +2379,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-08T06:27:16.608Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-08T10:16:17.364Z</sub>
 
 </div>

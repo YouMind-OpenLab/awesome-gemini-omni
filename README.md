@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **93** |
+| 📝 Total Prompts | **95** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-08** |
 
@@ -56,6 +56,44 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Gentle Giant and Glowing Butterfly Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A heartwarming storytelling prompt featuring a gentle giant and a magical butterfly, used for a side-by-side comparison of Gemini Omni and other video models.
+
+#### 📝 Prompt
+
+```
+Gentle giant finds a glowing butterfly… from lonely sunset to magical friendship under the stars.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Gentle Giant and Glowing Butterfly Animation">
+
+**[🎬 Watch Video →](https://x.com/Dheepanratnam/status/2074412218666414171)**
+
+**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Published:** Jul 7, 2026
+
+---
+### Anime Cooking Montage Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a fast-paced anime-style cooking sequence, covering everything from fridge prep to the final meal.
+
+#### 📝 Prompt
+
+```
+A fast-paced, silent 10-second anime cooking montage with NO dialogue. Sequence: POV opening a fridge stocked for [noodles ] → pouring glossy sauce → slicing veggies → igniting a gas stove → feminine woman tossing ingredients in a sizzling wok → macro shot of steaming, bubbling [noodles ] → overhead flat-lay of the final feast → close-up of the man silently eating a big bite → final aesthetic shot of the steaming dish on a sunlit kitchen counter
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="Anime Cooking Montage Sequence">
+
+**[🎬 Watch Video →](https://x.com/Just_sharon7/status/2074360713766981924)**
+
+**Author:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **Published:** Jul 7, 2026
+
+---
 ### E-commerce Clothing Video Motion Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2320,6 +2358,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T06:27:09.751Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-08T10:16:06.457Z</sub>
 
 </div>

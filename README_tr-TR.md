@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **93** |
+| 📝 Toplam İstem | **95** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-08** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Nazik Dev ve Parlayan Kelebek Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Nazik bir dev ve büyülü bir kelebeği konu alan, Gemini Omni ile diğer video modellerinin yan yana karşılaştırmasında kullanılan iç ısıtan bir hikaye anlatımı istemi.
+
+#### 📝 İstem
+
+```
+Nazik dev parlayan bir kelebek bulur… yalnız bir gün batımından yıldızların altında büyülü bir dostluğa uzanan hikaye.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Nazik Dev ve Parlayan Kelebek Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/Dheepanratnam/status/2074412218666414171)**
+
+**Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Yayınlandı:** Jul 7, 2026
+
+---
+### Anime Tarzı Yemek Hazırlama Montajı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Buzdolabı hazırlığından son yemeğe kadar her aşamayı kapsayan, hızlı tempolu anime tarzı bir yemek hazırlama sekansı oluşturmak için detaylı bir istem.
+
+#### 📝 İstem
+
+```
+Diyalog içermeyen, 10 saniyelik, hızlı tempolu ve sessiz bir anime yemek hazırlama montajı. Sekans: [noodles ] ile dolu bir buzdolabının açıldığı POV çekimi → parlak sosun dökülmesi → sebzelerin doğranması → gazlı ocağın yakılması → kadın karakterin cızırdayan wok tavada malzemeleri karıştırması → dumanı tüten, fokurdayan [noodles ] makro çekimi → final ziyafetinin tepeden düz çekimi → erkeğin sessizce büyük bir lokma yediği yakın çekim → güneş alan bir mutfak tezgahında dumanı tüten yemeğin estetik final çekimi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="Anime Tarzı Yemek Hazırlama Montajı">
+
+**[🎬 Videoyu izle →](https://x.com/Just_sharon7/status/2074360713766981924)**
+
+**Yazar:** [Sharon Riley](https://x.com/Just_sharon7) | **Kaynak:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **Yayınlandı:** Jul 7, 2026
+
+---
 ### E-ticaret Giyim Video Hareket İstemi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2341,6 +2379,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-08T06:27:18.131Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-08T10:16:19.602Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **93** |
+| 📝 Total de prompts | **95** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-08** |
 
@@ -56,6 +56,44 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Animação de um Gigante Gentil e uma Borboleta Brilhante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de narrativa emocionante apresentando um gigante gentil e uma borboleta mágica, usado para uma comparação lado a lado entre o Gemini Omni e outros modelos de vídeo.
+
+#### 📝 Prompt
+
+```
+Um gigante gentil encontra uma borboleta brilhante… do pôr do sol solitário à amizade mágica sob as estrelas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Animação de um Gigante Gentil e uma Borboleta Brilhante">
+
+**[🎬 Assistir vídeo →](https://x.com/Dheepanratnam/status/2074412218666414171)**
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Publicado:** Jul 7, 2026
+
+---
+### Sequência de Montagem de Culinária em Anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado para gerar uma sequência de culinária em estilo anime de ritmo acelerado, cobrindo desde a preparação na geladeira até a refeição final.
+
+#### 📝 Prompt
+
+```
+Uma montagem de culinária em anime de 10 segundos, silenciosa e de ritmo acelerado, SEM diálogos. Sequência: POV abrindo uma geladeira abastecida para [noodles] → despejando molho brilhante → fatiando vegetais → acendendo um fogão a gás → mulher feminina jogando ingredientes em uma wok fervente → close macro de [noodles] fumegantes borbulhando → visão aérea da refeição final → close do homem comendo silenciosamente uma grande garfada → cena estética final do prato fumegante em uma bancada de cozinha iluminada pelo sol
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="Sequência de Montagem de Culinária em Anime">
+
+**[🎬 Assistir vídeo →](https://x.com/Just_sharon7/status/2074360713766981924)**
+
+**Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Fonte:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **Publicado:** Jul 7, 2026
+
+---
 ### Prompt de Movimento de Vídeo para E-commerce de Vestuário
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2341,6 +2379,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-08T06:27:17.642Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-08T10:16:18.929Z</sub>
 
 </div>

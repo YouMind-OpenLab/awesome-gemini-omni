@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **93** |
+| 📝 Total des prompts | **95** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-07-08** |
 
@@ -56,6 +56,44 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Animation d'un géant doux et d'un papillon lumineux
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narratif touchant mettant en scène un géant doux et un papillon magique, utilisé pour une comparaison côte à côte entre Gemini Omni et d'autres modèles vidéo.
+
+#### 📝 Prompt
+
+```
+Un géant doux découvre un papillon lumineux… du coucher de soleil solitaire à une amitié magique sous les étoiles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Animation d'un géant doux et d'un papillon lumineux">
+
+**[🎬 Voir la vidéo →](https://x.com/Dheepanratnam/status/2074412218666414171)**
+
+**Auteur:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Publié:** Jul 7, 2026
+
+---
+### Séquence de montage culinaire style anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour générer une séquence culinaire rapide dans le style anime, couvrant toutes les étapes, de la préparation dans le réfrigérateur au plat final.
+
+#### 📝 Prompt
+
+```
+Un montage culinaire rapide et silencieux de 10 secondes en style anime, SANS dialogue. Séquence : POV ouvrant un réfrigérateur rempli pour des [noodles ] → versement d'une sauce brillante → découpe de légumes → allumage d'une cuisinière à gaz → une femme faisant sauter des ingrédients dans un wok grésillant → plan macro de [noodles ] fumantes et bouillonnantes → vue de dessus du festin final → gros plan sur l'homme mangeant silencieusement une grosse bouchée → plan esthétique final du plat fumant sur un comptoir de cuisine ensoleillé
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="Séquence de montage culinaire style anime">
+
+**[🎬 Voir la vidéo →](https://x.com/Just_sharon7/status/2074360713766981924)**
+
+**Auteur:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **Publié:** Jul 7, 2026
+
+---
 ### Prompt de mouvement vidéo pour vêtements e-commerce
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2341,6 +2379,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-08T06:27:16.062Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-08T10:16:16.549Z</sub>
 
 </div>

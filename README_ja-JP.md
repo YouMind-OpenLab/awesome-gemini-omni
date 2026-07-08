@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **93** |
+| 📝 プロンプト総数 | **95** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-07-08** |
 
@@ -56,6 +56,44 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 優しい巨人と光る蝶のアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 優しい巨人と魔法の蝶が登場する心温まるストーリーテリング用プロンプト。Gemini Omni と他の動画生成モデルの比較検証に使用されます。
+
+#### 📝 プロンプト
+
+```
+優しい巨人が光る蝶を見つける……孤独な夕暮れから、星空の下で育まれる魔法のような友情まで。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="優しい巨人と光る蝶のアニメーション">
+
+**[🎬 動画を見る →](https://x.com/Dheepanratnam/status/2074412218666414171)**
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **ソース:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **公開日:** Jul 7, 2026
+
+---
+### アニメ風クッキングモンタージュのシーケンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 冷蔵庫の準備から完成した料理まで、テンポの良いアニメスタイルのクッキングシーケンスを生成するための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+セリフなし、10 秒間のテンポの良いアニメ風クッキングモンタージュ。シーケンス：[麺類 ] 用の食材が入った冷蔵庫を開ける POV → 艶やかなソースを注ぐ → 野菜をスライスする → ガスコンロに火をつける → 女性が熱々の鍋で具材を炒める → 湯気が立ち上り、沸騰する [麺類 ] のマクロショット → 完成した料理の真上からの俯瞰ショット → 男性が静かに大きな一口を食べるクローズアップ → 日差しが差し込むキッチンカウンターに置かれた湯気の立つ料理の最終的なエステティックショット
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="アニメ風クッキングモンタージュのシーケンス">
+
+**[🎬 動画を見る →](https://x.com/Just_sharon7/status/2074360713766981924)**
+
+**作者:** [Sharon Riley](https://x.com/Just_sharon7) | **ソース:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **公開日:** Jul 7, 2026
+
+---
 ### E-commerce Clothing Video Motion Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2341,6 +2379,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-08T06:27:11.625Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-08T10:16:09.072Z</sub>
 
 </div>

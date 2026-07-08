@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **93** |
+| 📝 Gesamtanzahl Prompts | **95** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-08** |
 
@@ -56,6 +56,44 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Animation eines sanftmütigen Riesen und eines leuchtenden Schmetterlings
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein herzerwärmender Storytelling-Prompt mit einem sanftmütigen Riesen und einem magischen Schmetterling, der für einen direkten Vergleich zwischen Gemini Omni und anderen Videomodellen verwendet wird.
+
+#### 📝 Prompt
+
+```
+Ein sanftmütiger Riese findet einen leuchtenden Schmetterling… vom einsamen Sonnenuntergang bis hin zu einer magischen Freundschaft unter dem Sternenhimmel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Animation eines sanftmütigen Riesen und eines leuchtenden Schmetterlings">
+
+**[🎬 Video ansehen →](https://x.com/Dheepanratnam/status/2074412218666414171)**
+
+**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Quelle:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Veröffentlicht:** Jul 7, 2026
+
+---
+### Anime-Koch-Montage-Sequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Erstellung einer rasanten Kochsequenz im Anime-Stil, die alles von der Vorbereitung im Kühlschrank bis zum fertigen Gericht abdeckt.
+
+#### 📝 Prompt
+
+```
+Eine rasante, stumme 10-sekündige Anime-Koch-Montage OHNE Dialoge. Sequenz: POV beim Öffnen eines mit [Nudeln] gefüllten Kühlschranks → Eingießen einer glänzenden Soße → Schneiden von Gemüse → Anzünden eines Gasherds → eine Frau, die Zutaten in einem zischenden Wok schwenkt → Makroaufnahme von dampfenden, sprudelnden [Nudeln] → Flat-Lay-Ansicht des fertigen Festmahls von oben → Nahaufnahme des Mannes, der schweigend einen großen Bissen isst → finale ästhetische Aufnahme des dampfenden Gerichts auf einer sonnendurchfluteten Küchentheke
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="Anime-Koch-Montage-Sequenz">
+
+**[🎬 Video ansehen →](https://x.com/Just_sharon7/status/2074360713766981924)**
+
+**Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Quelle:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **Veröffentlicht:** Jul 7, 2026
+
+---
 ### E-Commerce-Video-Motion-Prompt für Bekleidung
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2341,6 +2379,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-08T06:27:15.397Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-08T10:16:15.670Z</sub>
 
 </div>

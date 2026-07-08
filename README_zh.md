@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **93** |
+| 📝 提示词总数 | **95** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-07-08** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 温柔巨人与发光蝴蝶动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个温馨的叙事提示词，主角是一位温柔的巨人和一只神奇的蝴蝶，用于对比 Gemini Omni 与其他视频模型的效果。
+
+#### 📝 提示词
+
+```
+温柔巨人发现了一只发光的蝴蝶……从孤独的日落到星空下奇妙的友谊。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="温柔巨人与发光蝴蝶动画">
+
+**[🎬 观看视频 →](https://x.com/Dheepanratnam/status/2074412218666414171)**
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **来源:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **发布时间:** Jul 7, 2026
+
+---
+### 动漫风格烹饪蒙太奇片段
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份用于生成快节奏动漫风格烹饪片段的详细提示词，涵盖从冰箱备菜到最终成品的完整过程。
+
+#### 📝 提示词
+
+```
+一段快节奏、无对白的 10 秒动漫烹饪蒙太奇。序列：第一人称视角打开装满 [noodles ] 的冰箱 → 倒入浓郁酱汁 → 切菜 → 点燃燃气灶 → 一位女性在滋滋作响的炒锅中翻炒食材 → 冒着热气、沸腾的 [noodles ] 特写镜头 → 最终成品俯拍图 → 男子静静大口吃面的特写 → 阳光洒在厨房台面上，展示冒着热气的菜肴的最终美学镜头
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="动漫风格烹饪蒙太奇片段">
+
+**[🎬 观看视频 →](https://x.com/Just_sharon7/status/2074360713766981924)**
+
+**作者:** [Sharon Riley](https://x.com/Just_sharon7) | **来源:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **发布时间:** Jul 7, 2026
+
+---
 ### 电商服装视频动作提示词
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2341,6 +2379,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-08T06:27:10.263Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-08T10:16:07.258Z</sub>
 
 </div>

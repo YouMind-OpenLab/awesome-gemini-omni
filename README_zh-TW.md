@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **93** |
+| 📝 提示詞總數 | **95** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-07-08** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 溫柔巨人與發光蝴蝶動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個溫馨的敘事提示詞，主角為一位溫柔的巨人與一隻神奇的蝴蝶，用於 Gemini Omni 與其他影片模型之間的並排比較。
+
+#### 📝 提示詞
+
+```
+溫柔的巨人發現了一隻發光的蝴蝶……從孤獨的日落到星空下奇幻的友誼。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="溫柔巨人與發光蝴蝶動畫">
+
+**[🎬 觀看視頻 →](https://x.com/Dheepanratnam/status/2074412218666414171)**
+
+**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **發布時間:** Jul 7, 2026
+
+---
+### 動漫風格烹飪蒙太奇片段
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份用於生成快節奏動漫風格烹飪片段的詳細提示詞，涵蓋從冰箱備料到最終成品的所有細節。
+
+#### 📝 提示詞
+
+```
+一段節奏明快、無對白的 10 秒動漫風格烹飪蒙太奇。畫面順序：第一人稱視角打開裝滿 [noodles ] 的冰箱 → 倒入濃郁醬汁 → 切蔬菜 → 點燃瓦斯爐 → 一位女性在滋滋作響的炒鍋中翻炒食材 → 冒著熱氣、沸騰的 [noodles ] 特寫鏡頭 → 最終料理的俯視平拍 → 男性靜靜地大口享用的特寫 → 最後是陽光灑在廚房檯面上，冒著熱氣的精緻菜餚畫面
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="動漫風格烹飪蒙太奇片段">
+
+**[🎬 觀看視頻 →](https://x.com/Just_sharon7/status/2074360713766981924)**
+
+**作者:** [Sharon Riley](https://x.com/Just_sharon7) | **來源:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **發布時間:** Jul 7, 2026
+
+---
 ### 電商服飾影片動態提示詞
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2341,6 +2379,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-08T06:27:10.933Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-08T10:16:08.117Z</sub>
 
 </div>

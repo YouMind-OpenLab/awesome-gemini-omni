@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **93** |
+| 📝 총 프롬프트 수 | **95** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-08** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 온순한 거인과 빛나는 나비 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 온순한 거인과 마법 같은 나비가 등장하는 가슴 따뜻한 스토리텔링 프롬프트로, Gemini Omni와 다른 비디오 모델을 나란히 비교하는 데 사용됩니다.
+
+#### 📝 프롬프트
+
+```
+온순한 거인이 빛나는 나비를 발견하다… 외로운 노을에서 별빛 아래 마법 같은 우정으로 이어지는 이야기.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="온순한 거인과 빛나는 나비 애니메이션">
+
+**[🎬 비디오 보기 →](https://x.com/Dheepanratnam/status/2074412218666414171)**
+
+**작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **게시일:** Jul 7, 2026
+
+---
+### 애니메이션 요리 몽타주 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 냉장고 재료 준비부터 최종 요리까지, 속도감 있는 애니메이션 스타일의 요리 시퀀스를 생성하기 위한 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+대사 없이 10초 동안 빠르게 진행되는 애니메이션 요리 몽타주. 시퀀스: [noodles ]로 가득 찬 냉장고를 여는 POV → 윤기 나는 소스를 붓는 장면 → 채소를 써는 장면 → 가스레인지에 불을 붙이는 장면 → 여성 캐릭터가 달궈진 웍에 재료를 넣고 볶는 장면 → 김이 모락모락 나는 [noodles ]의 매크로 샷 → 완성된 요리를 위에서 내려다본 항공 샷 → 남성이 말없이 크게 한 입 먹는 클로즈업 → 햇살이 비치는 주방 조리대 위에 놓인 김이 나는 요리의 마지막 감성적인 샷
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="애니메이션 요리 몽타주 시퀀스">
+
+**[🎬 비디오 보기 →](https://x.com/Just_sharon7/status/2074360713766981924)**
+
+**작성자:** [Sharon Riley](https://x.com/Just_sharon7) | **출처:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **게시일:** Jul 7, 2026
+
+---
 ### 이커머스 의류 영상 모션 프롬프트
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2341,6 +2379,6 @@ At second 5: The red tower slowly flies up into the sky.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-08T06:27:12.147Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-08T10:16:09.950Z</sub>
 
 </div>

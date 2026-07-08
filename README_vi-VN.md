@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **93** |
+| 📝 Tổng số prompt | **95** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-08** |
 
@@ -56,6 +56,44 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hoạt hình Người khổng lồ hiền lành và Chú bướm phát sáng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý kể chuyện đầy cảm động về một người khổng lồ hiền lành và một chú bướm kỳ diệu, được sử dụng để so sánh song song giữa Gemini Omni và các mô hình video khác.
+
+#### 📝 Prompt
+
+```
+Người khổng lồ hiền lành tìm thấy một chú bướm phát sáng… từ buổi hoàng hôn cô đơn đến tình bạn kỳ diệu dưới những vì sao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Hoạt hình Người khổng lồ hiền lành và Chú bướm phát sáng">
+
+**[🎬 Xem video →](https://x.com/Dheepanratnam/status/2074412218666414171)**
+
+**Tác giả:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Nguồn:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Đã xuất bản:** Jul 7, 2026
+
+---
+### Chuỗi phân cảnh nấu ăn phong cách Anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chi tiết để tạo chuỗi phân cảnh nấu ăn phong cách anime với nhịp độ nhanh, bao gồm mọi công đoạn từ chuẩn bị nguyên liệu trong tủ lạnh đến thành phẩm cuối cùng.
+
+#### 📝 Prompt
+
+```
+Một đoạn phim montage nấu ăn phong cách anime nhịp độ nhanh, không lời thoại, thời lượng 10 giây. Trình tự: Góc nhìn thứ nhất (POV) mở tủ lạnh đầy ắp [noodles ] → rót nước sốt bóng bẩy → thái rau củ → bật bếp ga → một người phụ nữ nữ tính đang đảo nguyên liệu trong chảo wok nóng hổi → cận cảnh macro [noodles ] đang bốc khói nghi ngút → góc quay từ trên xuống (flat-lay) toàn bộ bàn tiệc cuối cùng → cận cảnh người đàn ông lặng lẽ thưởng thức một miếng lớn → cảnh quay thẩm mỹ cuối cùng của món ăn đang bốc khói trên mặt bàn bếp ngập tràn ánh nắng
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="Chuỗi phân cảnh nấu ăn phong cách Anime">
+
+**[🎬 Xem video →](https://x.com/Just_sharon7/status/2074360713766981924)**
+
+**Tác giả:** [Sharon Riley](https://x.com/Just_sharon7) | **Nguồn:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **Đã xuất bản:** Jul 7, 2026
+
+---
 ### Prompt chuyển động video cho thời trang thương mại điện tử
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2341,6 +2379,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-08T06:27:13.258Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-08T10:16:12.173Z</sub>
 
 </div>
