@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **95** |
+| 📝 Total Prompts | **101** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-09** |
 
@@ -56,6 +56,156 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Animated Travel Poster Postcard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A short and effective prompt to animate a static travel poster into a moving postcard with drifting clouds and ocean shimmers.
+
+#### 📝 Prompt
+
+```
+turn this travel poster into a moving postcard: clouds drift, gulls cross frame, ocean shimmer, relaxed camera sway, 10s
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074873385452978176/img/cndIiE_44XHPMYim.jpg" width="600" alt="Animated Travel Poster Postcard">
+
+**[🎬 Watch Video →](https://x.com/getimg_ai/status/2074948887698096374)**
+
+**Author:** [getimg.ai](https://x.com/getimg_ai) | **Source:** [Link](https://x.com/getimg_ai/status/2074948887698096374) | **Published:** Jul 8, 2026
+
+---
+### Wild West Dinosaur Adventure Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic series of video prompts describing a prehistoric Wild West where cowboys ride dinosaurs through canyons and plains, featuring sunrise and sunset lighting.
+
+#### 📝 Prompt
+
+```
+Cinematic tracking shot, sunrise over a majestic red rock canyon in the Wild West. A cowboy in traditional frontier clothing is riding on the back of a large Pterosaur, soaring smoothly through the air over the rugged terrain. Photorealistic, 4k, volumetric lighting.
+
+Wide establishing shot at dusk. A cowboy sits resting by a warm campfire in a grassy plain. In the immediate background, a massive, realistic Triceratops harnessed to a wooden wagon rests peacefully. Soft, cinematic twilight lighting.
+
+Low angle tracking shot in a dusty desert during the day. A colossal Brachiosaurus outfitted with a riding saddle and cargo walks majestically across the screen, surrounded by a bustling herd of smaller dinosaurs and cowboys riding them. Lens flares and atmospheric dust.
+
+Dramatic silhouette shot at night. A cowboy stands in the center aiming a revolver, flanked by two aggressive, feathered raptors. The scene is brilliantly backlit by a massive, roaring fire from a burning structure behind them. High contrast, action-oriented.
+
+Epic wide silhouette shot during a golden hour sunset. A cowboy rides atop a massive Tyrannosaurus Rex that is walking slowly across the flat desert plain. The massive sun sits low on the horizon, creating a striking and beautiful final image.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074810577088557056/img/WEj2e5ODrGlSwDyN.jpg" width="600" alt="Wild West Dinosaur Adventure Sequence">
+
+**[🎬 Watch Video →](https://x.com/michaelrabone/status/2074810751898841468)**
+
+**Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2074810751898841468) | **Published:** Jul 8, 2026
+
+---
+### Pastel Ink Fantasy Couple Dance MV
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A comprehensive prompt for generating a high-quality stylized music video featuring two characters with distinct VFX, pastel ink aesthetics, and synchronized hand-drawn effects.
+
+#### 📝 Prompt
+
+```
+Use 2 reference images. Treat image1 as Person A and image2 as Person B. Represent Person A and Person B as characters appearing in a live-action music video (MV) while maintaining the facial features, hairstyle, body type, expression, costume impression, atmosphere, and character identity from the reference images. Do not mix the two people. Do not swap faces, hairstyles, costumes, physiques, vibes, VFX, or character traits. Maintain the individual personality of each reference image and depict them clearly as separate individuals. Integrate characteristic decorations or silhouettes from the reference images naturally as fantasy costumes for a live-action MV. Show realistic textures, hair swaying, fabric movement, accessory reflections, skin texture, and light and shadow. The overall style should be a cute, elegant, and transparent live-action fantasy MV. The background is not a real-world location, but a 'Pastel Ink Dream Stage' for a live-action MV. Arrange a soft white studio space with pale ink, watercolor light, translucent glass, swaying silk fabric, transparent rings, a faintly reflective floor, floating paper fragments, soap-bubble-like circles, and stardust particles. Focus on soft pastel colors such as milky white, baby blue, lavender, pale pink, cream yellow, mint green, and thin cyan. Colors should not emit strong light but appear to bleed faintly. The background is not static from the start; synchronized with 118 BPM, pale ink clouds, watercolor light, transparent rings, glass reflections, fabric, and light particles slowly expand, flow, sway, and melt. Add both cute ink-style VFX and delicate hand-drawn effects. Ink is presented as transparent watercolor, pale brush marks, milky splashes, small ink grains, and blurs spreading in the air. Hand-drawn effects appear momentarily as thin white lines, pale pastel outlines, small stars, thin lightning, hand-drawn speed lines, wavy lines, and sparkling trails. Shake the lines slightly to retain a hand-drawn warmth. Person A's VFX should be sharp and transparent, with thin lines, transparent rings, liquid glass ripples, and sharp hand-drawn trails reacting to the shoulders, wrists, feet, and turns. Person B's VFX should be soft and sweet, with pale ink blurs, stardust, small light flowers, soft ribbon-like brushes, and hand-drawn sparkles reacting to fingertips, hair, costumes, and turns. At the moment they approach, Person A's ring VFX and Person B's stardust VFX momentarily overlap as pale ripples of light before separating immediately. VFX must not hide faces, eyes, body lines, limbs, costume details, or dancing. Costumes are glamorously redesigned for a live-action MV while keeping the reference image worldview, adding glossy materials, layers, short jackets, swaying fabric, chains, belts, ribbons, accessories, boots, gloves, metallic parts, transparency, and accent colors. Person A and Person B show a sense of being a couple, but their costume and VFX personalities are clearly distinguished. Hair, fabric, ribbons, accessories, and characteristic decorations sway naturally with the dance. Expressions are cute and poised, showing a couple-like distance. When one looks at the camera, the other looks at the partner or slightly away; they do not make the same expression simultaneously. The overall impression is a live-action characterization of image1 and image2 in a pale pastel ink world couple dance MV. Person A is cool and sharp; Person B is soft and glamorous. The background is cute but not cheap-looking, moving beautifully with transparent watercolor ink and hand-drawn VFX. Prioritize faces, hairstyles, body types, expressions, and silhouettes. No text overlays, subtitles, logos, or readable characters. No graffiti, spray art, strong neon, cyber-style, or normal landscape backgrounds. No duplication of people, no new people, no perfect synchronization, no symmetrical copying, no standing still, and no just walking. Use one or more reference images. Treat all persons/characters in the reference images as protagonists. If there is 1 image, feature 1 person; if 2 images, 2 people; if 3 images, 3 people, making them all appear simultaneously in the same video. 15 seconds, 60fps. A high-quality dance video in the style of an idol concept MV. Ensure a tempo suitable for a short MV, cute choreography, and synchronized hand-drawn 2D effects. Describe smooth movements for hair, clothes, accessories, hands, steps, turns, gaze, and effects. Place everyone in the same background, shooting space, and MV scene at once. Do not change the background for each reference image. Do not split into different scenes per person. Do not swap characters mid-way. Do not introduce them one by one. For multiple reference images, treat each as an independent person. Do not mix faces, hairstyles, hair colors, builds, costumes, accessories, genders, age ranges, or vibes. Do not make them a pair with the same face, hair, or outfit. If using male and female references, maintain them clearly as male and female. Prioritize retaining the characterization from the reference images, including texture, art style, atmosphere, and personality. Even if textures differ between references, keep them individual for each character. Do not force a uniform art style on everyone. If full bodies or costumes are not visible, naturally complement them based on colors, materials, silhouettes, and character traits from each image. Complementary parts must follow the same direction as their respective reference image. Do not borrow features from other characters. Fix the background as a single common MV shooting space: either an indoor studio, a room by a window, or a simple shooting space. Use soft natural light and an organized background where everyone looks like a lead. Do not change the location per shot; only change camera angles within the same space. Analyze commonalities across the reference images to create a single idol concept MV space, adjusting for atmosphere (bright, pale, calm, humid, cool, cute, etc.). The music is a Japanese song; do not use real existing songs. The video concept is a short concept MV where all characters dance together cutely and impressively in the same space. Priority: everyone exists simultaneously, everyone looks cute, the MV is memorable, and dance integrates with hand-drawn 2D effects. Use side-by-side, triangular, diagonal, or front-to-back arrangements so everyone is visible. Everyone dances at once; no solo-only parts, standing still, or separate-location direction. Do not use template 'cuteness'; analyze the references to create a cohesive idol concept cuteness. Bright characters: bouncy cuteness. Calm characters: elegant cuteness. Cool characters: shy or poised cuteness. Ephemeral characters: soft cuteness. Street-style characters: rough and playful cuteness. Choreography: solo dance if 1 person, group dance if 2+. Include synchronized moments and moments showing individuality. Use hands, shoulders, neck, waist, feet, gaze, turns, and poses naturally. Movements should be cute, easy to mimic, and memorable. No overly childish, overly sexy, excessively intense, unnatural jumping, or random movements. Hand-drawn 2D effects are auto-generated based on character analysis. Ensure shapes, lines, textures, colors, density, and timing suit everyone. Unify the screen with one MV design while giving characters slight variations in color/line style as needed. Effects are hand-drawn motion graphics composited over the video, resembling rough, cute 2D animations like crayon, pencil, oil pastel, or pale ink. Sync them with hands, faces, feet, body movements, turns, gaze, and poses. Balance them across the screen without favoring one person. Do not hide faces or bodies too much. Configure as if shot with 5 cameras, switching every 2 seconds: Front, Top, Left, Right, Back. Maintain the same background space, only changing angles. Prioritize compositions where everyone is visible, including full-body or knee-up group shots. No close-ups that cut people out. Do not fix the camera completely; shake it lightly to the beat (small bounces, punch-ins, slight sways). Do not use messy handheld shaking. 0.0-2.0s: Front camera. Everyone appears in the same background. Full-body or knee-up. Arrange side-by-side or in formation. Everyone rhythmically performs a cute intro pose and small steps fitting their personality. Hand-drawn 2D effects matching the atmosphere appear near hands and faces. 2.0-4.0s: Top camera (overhead). Everyone enters the frame and acknowledges the camera. Coordinate facial gestures and hand accents while maintaining individual character traits. 4.0-6.0s: Left camera. Short choreography using body orientation, waist, shoulders, and hands. Keep knee-up to full-body distance. Hand-drawn effects flow across everyone following movement trails. 6.0-8.0s: Right camera. Everyone faces the opposite way while acknowledging the camera. Cute beat-synced choreography with shoulders, hands, and feet. Show clear steps with a natural composition. Effects derived from reference colors/shapes appear at shoulders and feet. 8.0-10.0s: Back camera. Hair and costumes sway softly. Natural silhouette composition. Everyone looks back over their shoulder at the camera, synchronized or slightly staggered. Includes turns and hand poses with effect trails. 10.0-12.0s: Front camera (Climax). Knee-up to full-body. Memorable group choreography using full body. Increase effect density. Spread shapes/lines across the screen. Add short camera shakes on 'hits'. 12.0-14.0s: Top camera. Everyone looks up with cute facial/hand gestures. Hand-drawn effects spread softly from hands. Maintain all facial/hair consistency. 14.0-15.0s: Ending scene. Front-facing or slight diagonal. Final group pose flowing from the dance. Not necessarily a face close-up; choose the most attractive group composition (full-body to bust-up). No sudden zooms, jump cuts, or abrupt face close-ups at the end. Use a smooth camera approach or slight stop. Emphasize the pose through body stillness, hand shapes, gaze, and lingering movement of hair/fabric and a short burst of 2D effects. Constraints: No characters other than the protagonists. Do not merge multiple references into one person. Do not mix male and female faces. Do not swap hairstyles/costumes. No twin-ification. Do not share character traits just because they share a background. No costumes contradicting references. No poses/expressions/icons/colors inconsistent with characters. Do not use the same template for every effect/gesture. Ensure dance and effects are perfectly synced. Effects should be part of the choreography, not too weak. No explosions, fire, smoke, excessive glitch, or flashy magic. No text, subtitles, logos, or watermarks. Render the entire 15 seconds smoothly at 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074800449652424704/img/XC2gobNaI_RucnzU.jpg" width="600" alt="Pastel Ink Fantasy Couple Dance MV">
+
+**[🎬 Watch Video →](https://x.com/sailorv321/status/2074805393294004436)**
+
+**Author:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Source:** [Link](https://x.com/sailorv321/status/2074805393294004436) | **Published:** Jul 8, 2026
+
+---
+### Anime Idli Cooking Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed step-by-step anime montage prompt for preparing traditional South Indian idlis, featuring POV shots and close-up food photography.
+
+#### 📝 Prompt
+
+```
+A fast-paced, silent 10-second anime cooking montage with NO dialogue. 
+Sequence: POV opening a container with rice and urad dal → grinding into smooth fermented batter → greasing idli molds → pouring batter into the molds → placing molds in a traditional steamer → steaming until perfectly fluffy → beautiful South Indian girl removing the hot idlis → macro shot of soft, spongy, steaming idlis → overhead flat-lay of idlis served with sambar and coconut chutney → close-up of the girl silently taking a delicious bite → final aesthetic shot of the steaming idli platter on a sunlit traditional kitchen counter.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074761774155616256/img/G_dRnuUbfQkF44fs.jpg" width="600" alt="Anime Idli Cooking Sequence">
+
+**[🎬 Watch Video →](https://x.com/snskritinaruka/status/2074761846444503180)**
+
+**Author:** [Sanskriti Naruka](https://x.com/snskritinaruka) | **Source:** [Link](https://x.com/snskritinaruka/status/2074761846444503180) | **Published:** Jul 8, 2026
+
+---
+### Alpine Cycling Cinematic Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for a high-speed cycling descent on an alpine road, maintaining facial consistency from a reference image.
+
+#### 📝 Prompt
+
+```
+Use the attached female reference image as the ONLY identity reference for the main character.
+
+Maintain complete facial consistency throughout every frame.
+
+Duration: 10 seconds.
+
+The first frame opens with the character already descending an alpine mountain road on a premium carbon road bicycle at high speed. She leans confidently into sweeping corners while morning fog slowly clears below. Sunlight reaches the mountain peaks as she exits a final curve overlooking an endless valley.
+
+IMAX 65mm realism. Premium HDR grading. Cinematic aerial photography.
+
+Camera:
+FPV drone chase already in motion → side tracking → wheel-mounted camera → massive aerial reveal.
+
+Background Music:
+Uplifting cinematic orchestra, rhythmic percussion, acoustic guitar, emotional strings.
+
+Environmental Sound:
+Freehub clicking, gear shifts, tire noise, mountain wind, birds.
+
+No dialogue.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074666143852445696/img/oikKJLTsOxHizW6r.jpg" width="600" alt="Alpine Cycling Cinematic Sequence">
+
+**[🎬 Watch Video →](https://x.com/vireonixx/status/2074666384051904670)**
+
+**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2074666384051904670) | **Published:** Jul 8, 2026
+
+---
+### Surreal Giant Eye Landscape Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for Gemini generating a surreal landscape featuring a giant blinking eye and small human explorers, complete with a detailed 10-second movement timeline.
+
+#### 📝 Prompt
+
+```
+Photorealistic surreal landscape. A giant, highly detailed human eye with a blue iris and bloodshot sclera blinks slowly in the center. It is surrounded by pulsating, red, fleshy, star-shaped structures, each containing a blinking blue eye. Tiny, realistic human figures in suits walk among the fleshy terrain, examining the eyes.
+
+Timeline (10 seconds):
+
+0-3s: Extreme close-up of the giant central eye blinking slowly. Focus on photorealistic iris textures and blood vessels.
+
+3-6s: Camera pulls back slowly. The surrounding red, fleshy star-structures begin to pulsate. The smaller eyes dart around frantically.
+
+6-10s: Wide shot establishing the scale. Tiny human figures walk across the fleshy terrain, examining the structures as all the eyes focus on the camera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074493433201221632/img/OO2qM-98wUw2rXi4.jpg" width="600" alt="Surreal Giant Eye Landscape Video">
+
+**[🎬 Watch Video →](https://x.com/michaelrabone/status/2074493655843258788)**
+
+**Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Published:** Jul 7, 2026
+
+---
 ### Gentle Giant and Glowing Butterfly Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2301,27 +2451,22 @@ A video of a man counting to 10 on his fingers, show the number in the corner. A
 **Author:** [fofr](https://x.com/fofrAI) | **Source:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **Published:** May 26, 2026
 
 ---
-### Tokyo Tower Rocket Launch
+---
 
-![日本語](https://img.shields.io/badge/lang-日本語-green)
+## 📚 More Prompts Available
 
-> This prompt transforms a photo of Tokyo Tower into a launching rocket, complete with a countdown and smoke effects at specific timestamps.
+<div align="center">
 
-#### 📝 Prompt
+### 🎯 1 more prompts not shown here
 
-```
-At second 0: A countdown voice in English is heard (from 3 to zero)
-At second 4: When the countdown ends, smoke rises from under the central red tower (which is actually a rocket).
-At second 5: The red tower slowly flies up into the sky.
-```
+Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee30cef60570d303d2e738b1c293ef15/thumbnails/thumbnail.jpg" width="600" alt="Tokyo Tower Rocket Launch">
+Run `pnpm run generate` locally to regenerate this README from CMS.
 
-**[🎬 Watch Video →](https://x.com/onoken1025/status/2059197447541498219)**
-
-**Author:** [onoken1025](https://x.com/onoken1025) | **Source:** [Link](https://x.com/onoken1025/status/2059197447541498219) | **Published:** May 26, 2026
+</div>
 
 ---
+
 
 ## 🤝 How to Contribute
 
@@ -2358,6 +2503,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T07:35:55.521Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-09T10:53:10.493Z</sub>
 
 </div>

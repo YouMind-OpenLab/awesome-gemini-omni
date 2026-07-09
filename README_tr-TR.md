@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **95** |
+| 📝 Toplam İstem | **101** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-09** |
 
@@ -56,6 +56,156 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Animasyonlu Seyahat Posteri Kartpostalı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sabit bir seyahat posterini; sürüklenen bulutlar ve parıldayan okyanus efektleriyle hareketli bir kartpostala dönüştürmek için kısa ve etkili bir komut.
+
+#### 📝 İstem
+
+```
+bu seyahat posterini hareketli bir kartpostala dönüştür: bulutlar sürüklensin, martılar kadrajdan geçsin, okyanus parıldasın, rahat bir kamera salınımı olsun, 10 sn
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074873385452978176/img/cndIiE_44XHPMYim.jpg" width="600" alt="Animasyonlu Seyahat Posteri Kartpostalı">
+
+**[🎬 Videoyu izle →](https://x.com/getimg_ai/status/2074948887698096374)**
+
+**Yazar:** [getimg.ai](https://x.com/getimg_ai) | **Kaynak:** [Link](https://x.com/getimg_ai/status/2074948887698096374) | **Yayınlandı:** Jul 8, 2026
+
+---
+### Vahşi Batı Dinozor Macerası Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kovboyların kanyonlar ve ovalarda dinozorlara bindiği, gün doğumu ve gün batımı ışıklandırmasına sahip tarih öncesi bir Vahşi Batı'yı betimleyen sinematik video istemleri serisi.
+
+#### 📝 İstem
+
+```
+Sinematik takip çekimi, Vahşi Batı'daki görkemli kızıl kaya kanyonu üzerinde gün doğumu. Geleneksel sınır bölgesi kıyafetleri içindeki bir kovboy, büyük bir Pterosaur'un sırtında, engebeli arazinin üzerinde süzülerek ilerliyor. Fotogerçekçi, 4k, hacimsel ışıklandırma.
+
+Alacakaranlıkta geniş genel çekim. Bir kovboy, çimenli bir ovada sıcak bir kamp ateşinin yanında oturmuş dinleniyor. Hemen arka planda, ahşap bir vagona koşulmuş devasa ve gerçekçi bir Triceratops huzur içinde dinleniyor. Yumuşak, sinematik alacakaranlık ışıklandırması.
+
+Gündüz vakti tozlu bir çölde düşük açılı takip çekimi. Eyer ve yük ile donatılmış devasa bir Brachiosaurus, daha küçük dinozorlardan oluşan hareketli bir sürü ve onlara binen kovboylar eşliğinde ekran boyunca görkemli bir şekilde yürüyor. Lens parlamaları ve atmosferik toz.
+
+Gece vakti dramatik silüet çekimi. Bir kovboy, iki saldırgan ve tüylü raptorun arasında, elinde revolver ile nişan almış şekilde duruyor. Sahne, arkalarındaki yanan bir yapıdan yükselen devasa ve gürleyen ateşle parlak bir şekilde arkadan aydınlatılıyor. Yüksek kontrast, aksiyon odaklı.
+
+Altın saat gün batımı sırasında epik geniş silüet çekimi. Bir kovboy, düz çöl ovasında yavaşça yürüyen devasa bir Tyrannosaurus Rex'in üzerinde ilerliyor. Devasa güneş ufukta alçalarak çarpıcı ve güzel bir final görüntüsü oluşturuyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074810577088557056/img/WEj2e5ODrGlSwDyN.jpg" width="600" alt="Vahşi Batı Dinozor Macerası Sekansı">
+
+**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2074810751898841468)**
+
+**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2074810751898841468) | **Yayınlandı:** Jul 8, 2026
+
+---
+### Pastel Mürekkep Fantezi Çift Dansı MV
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Belirgin görsel efektlere (VFX), pastel mürekkep estetiğine ve senkronize el çizimi efektlere sahip iki karakterin yer aldığı, yüksek kaliteli ve stilize bir müzik videosu oluşturmak için kapsamlı bir komut.
+
+#### 📝 İstem
+
+```
+2 adet referans görseli kullanın. 1. görseli Kişi A, 2. görseli Kişi B olarak kabul edin. Kişi A ve Kişi B'yi, referans görsellerindeki yüz hatlarını, saç stilini, vücut tipini, ifadeyi, kostüm izlenimini, atmosferi ve karakter kimliğini koruyarak canlı çekim bir müzik videosunda (MV) yer alan karakterler olarak temsil edin. İki kişiyi birbirine karıştırmayın. Yüzleri, saç stillerini, kostümleri, fiziksel yapıları, enerjileri, görsel efektleri veya karakter özelliklerini değiştirmeyin. Her bir referans görselinin bireysel kişiliğini koruyun ve onları net bir şekilde ayrı bireyler olarak betimleyin. Referans görsellerindeki karakteristik süslemeleri veya silüetleri, canlı çekim bir MV için fantezi kostümleri olarak doğal bir şekilde entegre edin. Gerçekçi dokuları, saç sallanmasını, kumaş hareketini, aksesuar yansımalarını, cilt dokusunu ve ışık-gölge oyunlarını gösterin. Genel tarz, sevimli, zarif ve şeffaf bir canlı çekim fantezi MV'si olmalıdır. Arka plan gerçek bir dünya mekanı değil, canlı çekim MV için bir 'Pastel Mürekkep Rüya Sahnesi'dir. Yumuşak beyaz bir stüdyo alanını; soluk mürekkep, sulu boya ışığı, yarı saydam cam, sallanan ipek kumaş, şeffaf halkalar, hafif yansıtıcı bir zemin, uçuşan kağıt parçaları, sabun köpüğü benzeri daireler ve yıldız tozu parçacıkları ile düzenleyin. Süt beyazı, bebek mavisi, lavanta, soluk pembe, krem sarısı, nane yeşili ve ince camgöbeği gibi yumuşak pastel renklere odaklanın. Renkler güçlü ışık yaymamalı, hafifçe birbirine karışıyormuş gibi görünmelidir. Arka plan en baştan itibaren statik değildir; 118 BPM ile senkronize bir şekilde soluk mürekkep bulutları, sulu boya ışığı, şeffaf halkalar, cam yansımaları, kumaş ve ışık parçacıkları yavaşça genişler, akar, sallanır ve erir. Hem sevimli mürekkep tarzı görsel efektler hem de narin el çizimi efektler ekleyin. Mürekkep; şeffaf sulu boya, soluk fırça izleri, sütlü sıçramalar, küçük mürekkep taneleri ve havada yayılan bulanıklıklar olarak sunulur. El çizimi efektler; ince beyaz çizgiler, soluk pastel ana hatlar, küçük yıldızlar, ince şimşekler, el çizimi hız çizgileri, dalgalı çizgiler ve ışıltılı izler olarak anlık belirir. El çizimi sıcaklığını korumak için çizgileri hafifçe titretin. Kişi A'nın görsel efektleri; omuzlar, bilekler, ayaklar ve dönüşlerle tepkimeye giren ince çizgiler, şeffaf halkalar, sıvı cam dalgalanmaları ve keskin el çizimi izlerle keskin ve şeffaf olmalıdır. Kişi B'nin görsel efektleri; parmak uçları, saç, kostümler ve dönüşlerle tepkimeye giren soluk mürekkep bulanıklıkları, yıldız tozu, küçük ışık çiçekleri, yumuşak kurdele benzeri fırça darbeleri ve el çizimi ışıltılarla yumuşak ve tatlı olmalıdır. Yaklaştıkları anda, Kişi A'nın halka görsel efektleri ile Kişi B'nin yıldız tozu görsel efektleri, ayrılmadan hemen önce soluk ışık dalgalanmaları olarak anlık bir şekilde örtüşür. Görsel efektler; yüzleri, gözleri, vücut hatlarını, uzuvları, kostüm detaylarını veya dansı gizlememelidir. Kostümler, referans görselinin dünya görüşünü koruyarak; parlak malzemeler, katmanlar, kısa ceketler, sallanan kumaşlar, zincirler, kemerler, kurdeleler, aksesuarlar, botlar, eldivenler, metalik parçalar, şeffaflık ve vurgu renkleri eklenerek canlı çekim bir MV için göz alıcı bir şekilde yeniden tasarlanmıştır. Kişi A ve Kişi B bir çift olma hissini verir ancak kostüm ve görsel efekt kişilikleri net bir şekilde ayırt edilir. Saç, kumaş, kurdeleler, aksesuarlar ve karakteristik süslemeler dansla birlikte doğal bir şekilde sallanır. İfadeler sevimli ve dengelidir, çift benzeri bir mesafe gösterir. Biri kameraya baktığında diğeri partnerine veya hafifçe uzağa bakar; aynı anda aynı ifadeyi yapmazlar. Genel izlenim, soluk pastel mürekkep dünyasında bir çift dansı MV'sinde 1. ve 2. görselin canlı çekim karakterizasyonudur. Kişi A havalı ve keskindir; Kişi B yumuşak ve göz alıcıdır. Arka plan sevimlidir ancak ucuz görünmez, şeffaf sulu boya mürekkebi ve el çizimi görsel efektlerle güzel bir şekilde hareket eder. Yüzlere, saç stillerine, vücut tiplerine, ifadelere ve silüetlere öncelik verin. Metin bindirmeleri, altyazılar, logolar veya okunabilir karakterler olmasın. Grafiti, sprey sanatı, güçlü neon, siber tarz veya normal manzara arka planları olmasın. İnsanların çoğaltılması, yeni insanlar, mükemmel senkronizasyon, simetrik kopyalama, sabit durma veya sadece yürüme olmasın. Bir veya daha fazla referans görseli kullanın. Referans görsellerindeki tüm kişi/karakterleri başrol olarak kabul edin. 1 görsel varsa 1 kişiyi, 2 görsel varsa 2 kişiyi, 3 görsel varsa 3 kişiyi aynı videoda aynı anda görünecek şekilde işleyin. 15 saniye, 60fps. İdol konseptli MV tarzında yüksek kaliteli bir dans videosu. Kısa bir MV için uygun bir tempo, sevimli koreografi ve senkronize el çizimi 2D efektler sağlayın. Saç, kıyafet, aksesuar, el, adım, dönüş, bakış ve efektler için akıcı hareketleri tanımlayın. Herkesi aynı arka plana, çekim alanına ve MV sahnesine yerleştirin. Her referans görseli için arka planı değiştirmeyin. Kişi başına farklı sahnelere bölmeyin. Karakterleri yarı yolda değiştirmeyin. Onları tek tek tanıtmayın. Birden fazla referans görseli için her birini bağımsız bir kişi olarak kabul edin. Yüzleri, saç stillerini, saç renklerini, yapıları, kostümleri, aksesuarları, cinsiyetleri, yaş aralıklarını veya enerjileri karıştırmayın. Onları aynı yüz, saç veya kıyafetle bir çift yapmayın. Erkek ve kadın referansları kullanıyorsanız, onları net bir şekilde erkek ve kadın olarak koruyun. Doku, sanat tarzı, atmosfer ve kişilik dahil olmak üzere referans görsellerindeki karakterizasyonu korumaya öncelik verin. Referanslar arasında dokular farklı olsa bile, her karakter için bireysel tutun. Herkese tek tip bir sanat tarzı dayatmayın. Tam vücut veya kostümler görünmüyorsa, bunları her görseldeki renkler, malzemeler, silüetler ve karakter özelliklerine göre doğal bir şekilde tamamlayın. Tamamlayıcı parçalar, ilgili referans görseliyle aynı yönde olmalıdır. Diğer karakterlerden özellik ödünç almayın. Arka planı tek bir ortak MV çekim alanı olarak sabitleyin: kapalı bir stüdyo, pencere kenarında bir oda veya basit bir çekim alanı. Yumuşak doğal ışık ve herkesin başrol gibi göründüğü düzenli bir arka plan kullanın. Konumu çekim başına değiştirmeyin; sadece aynı alan içindeki kamera açılarını değiştirin. Atmosfere (parlak, soluk, sakin, nemli, serin, sevimli vb.) göre ayarlayarak tek bir idol konseptli MV alanı oluşturmak için referans görsellerindeki ortak noktaları analiz edin. Müzik Japonca bir şarkıdır; gerçek mevcut şarkıları kullanmayın. Video konsepti, tüm karakterlerin aynı alanda birlikte sevimli ve etkileyici bir şekilde dans ettiği kısa bir konsept MV'dir. Öncelik: herkesin aynı anda var olması, herkesin sevimli görünmesi, MV'nin akılda kalıcı olması ve dansın el çizimi 2D efektlerle bütünleşmesidir. Herkesin görünür olması için yan yana, üçgen, çapraz veya ön-arka düzenlemeleri kullanın. Herkes aynı anda dans eder; solo kısımlar, sabit durma veya ayrı konum yönetimi yoktur. Şablon 'sevimlilik' kullanmayın; tutarlı bir idol konsepti sevimliliği oluşturmak için referansları analiz edin. Parlak karakterler: enerjik sevimlilik. Sakin karakterler: zarif sevimlilik. Havalı karakterler: utangaç veya dengeli sevimlilik. Eterik karakterler: yumuşak sevimlilik. Sokak tarzı karakterler: sert ve oyuncu sevimlilik. Koreografi: 1 kişi ise solo dans, 2+ kişi ise grup dansı. Senkronize anları ve bireyselliği gösteren anları dahil edin. Elleri, omuzları, boynu, beli, ayakları, bakışları, dönüşleri ve pozları doğal bir şekilde kullanın. Hareketler sevimli, taklit etmesi kolay ve akılda kalıcı olmalıdır. Aşırı çocuksu, aşırı seksi, aşırı yoğun, doğal olmayan zıplamalar veya rastgele hareketler olmasın. El çizimi 2D efektler, karakter analizine göre otomatik olarak oluşturulur. Şekillerin, çizgilerin, dokuların, renklerin, yoğunluğun ve zamanlamanın herkese uygun olduğundan emin olun. Karakterlere gerektiğinde renk/çizgi stilinde hafif varyasyonlar vererek ekranı tek bir MV tasarımıyla birleştirin. Efektler, video üzerine kompoze edilmiş, pastel boya, kurşun kalem, yağlı pastel veya soluk mürekkep gibi kaba, sevimli 2D animasyonlara benzeyen el çizimi hareketli grafiklerdir. Bunları eller, yüzler, ayaklar, vücut hareketleri, dönüşler, bakışlar ve pozlarla senkronize edin. Bir kişiyi kayırmadan ekran genelinde dengeleyin. Yüzleri veya vücutları çok fazla gizlemeyin. 5 kamera ile çekilmiş gibi yapılandırın ve her 2 saniyede bir geçiş yapın: Ön, Üst, Sol, Sağ, Arka. Aynı arka plan alanını koruyun, sadece açıları değiştirin. Tam vücut veya diz üstü grup çekimleri dahil olmak üzere herkesin görünür olduğu kompozisyonlara öncelik verin. İnsanları kadraj dışı bırakan yakın çekimler olmasın. Kamerayı tamamen sabitlemeyin; ritme göre hafifçe sallayın (küçük sıçramalar, punch-in'ler, hafif sallanmalar). Dağınık el kamerası sarsıntısı kullanmayın. 0.0-2.0s: Ön kamera. Herkes aynı arka planda görünür. Tam vücut veya diz üstü. Yan yana veya formasyonda düzenleyin. Herkes ritmik olarak sevimli bir giriş pozu ve kişiliğine uygun küçük adımlar atar. Eller ve yüzler yakınında atmosfere uygun el çizimi 2D efektler belirir. 2.0-4.0s: Üst kamera (tepeden). Herkes kadraja girer ve kamerayı selamlar. Bireysel karakter özelliklerini korurken yüz jestlerini ve el vurgularını koordine edin. 4.0-6.0s: Sol kamera. Vücut yönü, bel, omuzlar ve elleri kullanan kısa koreografi. Diz üstü ile tam vücut mesafesini koruyun. El çizimi efektler, hareket izlerini takip ederek herkesin üzerinde akar. 6.0-8.0s: Sağ kamera. Herkes kamerayı selamlarken ters yöne bakar. Omuzlar, eller ve ayaklarla sevimli, ritimle senkronize koreografi. Doğal bir kompozisyonla net adımlar gösterin. Referans renklerinden/şekillerinden türetilen efektler omuzlarda ve ayaklarda belirir. 8.0-10.0s: Arka kamera. Saç ve kostümler yumuşak bir şekilde sallanır. Doğal silüet kompozisyonu. Herkes omzunun üzerinden kameraya bakar, senkronize veya hafif şaşırtmalı. Efekt izleri ile dönüşler ve el pozları içerir. 10.0-12.0s: Ön kamera (Doruk noktası). Diz üstü ile tam vücut. Tüm vücudu kullanan akılda kalıcı grup koreografisi. Efekt yoğunluğunu artırın. Şekilleri/çizgileri ekrana yayın. 'Vuruşlarda' kısa kamera sarsıntıları ekleyin. 12.0-14.0s: Üst kamera. Herkes sevimli yüz/el jestleriyle yukarı bakar. El çizimi efektler ellerden yumuşak bir şekilde yayılır. Tüm yüz/saç tutarlılığını koruyun. 14.0-15.0s: Bitiş sahnesi. Öne dönük veya hafif çapraz. Danstan akan son grup pozu. İlla yüz yakın çekimi olması gerekmez; en çekici grup kompozisyonunu seçin (tam vücuttan göğüs hizasına kadar). Sonda ani yakınlaştırmalar, atlama kesmeleri veya ani yüz yakın çekimleri olmasın. Akıcı bir kamera yaklaşımı veya hafif bir duruş kullanın. Vücut hareketsizliği, el şekilleri, bakışlar ve saç/kumaşın süregelen hareketi ve kısa bir 2D efekt patlaması ile pozu vurgulayın. Kısıtlamalar: Başroller dışında karakter olmasın. Birden fazla referansı tek bir kişide birleştirmeyin. Erkek ve kadın yüzlerini karıştırmayın. Saç stillerini/kostümleri değiştirmeyin. İkizleştirme yapmayın. Sadece aynı arka planı paylaşıyorlar diye karakter özelliklerini ortaklaştırmayın. Referanslarla çelişen kostümler olmasın. Karakterlerle tutarsız pozlar/ifadeler/ikonlar/renkler olmasın. Her efekt/jest için aynı şablonu kullanmayın. Dansın ve efektlerin mükemmel şekilde senkronize olduğundan emin olun. Efektler koreografinin bir parçası olmalı, çok zayıf olmamalıdır. Patlama, ateş, duman, aşırı hata (glitch) veya gösterişli büyü olmasın. Metin, altyazı, logo veya filigran olmasın. 15 saniyenin tamamını 60fps'de akıcı bir şekilde oluşturun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074800449652424704/img/XC2gobNaI_RucnzU.jpg" width="600" alt="Pastel Mürekkep Fantezi Çift Dansı MV">
+
+**[🎬 Videoyu izle →](https://x.com/sailorv321/status/2074805393294004436)**
+
+**Yazar:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Kaynak:** [Link](https://x.com/sailorv321/status/2074805393294004436) | **Yayınlandı:** Jul 8, 2026
+
+---
+### Anime Tarzı İdli Hazırlama Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Geleneksel Güney Hindistan idlisi hazırlamak için POV çekimler ve yakın plan yemek fotoğrafçılığı içeren, adım adım detaylandırılmış bir anime montaj istemi.
+
+#### 📝 İstem
+
+```
+Diyalog içermeyen, 10 saniyelik, hızlı tempolu ve sessiz bir anime yemek hazırlama montajı. 
+Sekans: Pirinç ve urad dal (siyah mercimek) dolu bir kabın POV açısıyla açılması → pürüzsüz fermente hamur haline gelene kadar öğütülmesi → idli kalıplarının yağlanması → hamurun kalıplara dökülmesi → kalıpların geleneksel bir buharlı pişiriciye yerleştirilmesi → mükemmel şekilde kabarana kadar buharda pişirilmesi → güzel bir Güney Hintli kızın sıcak idlileri kalıptan çıkarması → yumuşak, süngerimsi ve dumanı tüten idlilerin makro çekimi → sambar ve hindistan cevizi chutney ile servis edilen idlilerin tepeden çekimi → kızın sessizce lezzetli bir lokma alırken yakın plan çekimi → güneş alan geleneksel bir mutfak tezgahında dumanı tüten idli tabağının estetik final çekimi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074761774155616256/img/G_dRnuUbfQkF44fs.jpg" width="600" alt="Anime Tarzı İdli Hazırlama Sekansı">
+
+**[🎬 Videoyu izle →](https://x.com/snskritinaruka/status/2074761846444503180)**
+
+**Yazar:** [Sanskriti Naruka](https://x.com/snskritinaruka) | **Kaynak:** [Link](https://x.com/snskritinaruka/status/2074761846444503180) | **Yayınlandı:** Jul 8, 2026
+
+---
+### Alp Dağları Bisiklet Sinematik Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir referans görselinden yüz tutarlılığını koruyarak, Alp dağları yolunda yüksek hızlı bir bisiklet inişi için detaylı sinematik komut dosyası.
+
+#### 📝 İstem
+
+```
+Ana karakter için TEK kimlik referansı olarak ekteki kadın referans görselini kullanın.
+
+Her kare boyunca tam yüz tutarlılığını koruyun.
+
+Süre: 10 saniye.
+
+İlk kare, karakterin yüksek hızda birinci sınıf bir karbon yol bisikletiyle Alp dağ yolundan aşağı indiği anla başlar. Sabah sisi aşağıda yavaşça dağılırken, karakter kendine güvenen bir şekilde geniş virajlara yatar. Son virajdan çıkıp sonsuz vadiye tepeden baktığında güneş dağ zirvelerine ulaşır.
+
+IMAX 65mm gerçekçiliği. Premium HDR derecelendirme. Sinematik hava çekimi.
+
+Kamera:
+Halihazırda hareket halinde olan FPV drone takibi → yandan takip → tekerlek montajlı kamera → geniş hava çekimi ile ortaya çıkış.
+
+Arka Plan Müziği:
+Canlandırıcı sinematik orkestra, ritmik perküsyon, akustik gitar, duygusal yaylılar.
+
+Çevresel Ses:
+Arka göbek tıkırtısı, vites değişimleri, lastik sesi, dağ rüzgarı, kuşlar.
+
+Diyalog yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074666143852445696/img/oikKJLTsOxHizW6r.jpg" width="600" alt="Alp Dağları Bisiklet Sinematik Sekansı">
+
+**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2074666384051904670)**
+
+**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2074666384051904670) | **Yayınlandı:** Jul 8, 2026
+
+---
+### Sürreal Dev Göz Manzarası Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dev bir göz kırpan göz ve küçük insan kaşiflerin yer aldığı sürreal bir manzara oluşturan Gemini için sinematik bir video istemi; 10 saniyelik detaylı hareket zaman çizelgesi ile birlikte.
+
+#### 📝 İstem
+
+```
+Fotogerçekçi sürreal manzara. Mavi irisli ve kan çanağına dönmüş sklera yapısına sahip, son derece detaylı dev bir insan gözü merkezde yavaşça kırpılıyor. Göz, her birinin içinde kırpan mavi bir göz bulunan, nabız gibi atan, kırmızı, etli, yıldız şeklindeki yapılarla çevrili. Takım elbiseli minik, gerçekçi insan figürleri etli arazide yürüyerek gözleri inceliyor.
+
+Zaman Çizelgesi (10 saniye):
+
+0-3 sn: Yavaşça kırpan dev merkezi gözün ekstrem yakın çekimi. Fotogerçekçi iris dokularına ve kan damarlarına odaklanın.
+
+3-6 sn: Kamera yavaşça geri çekiliyor. Çevredeki kırmızı, etli yıldız yapıları nabız gibi atmaya başlıyor. Daha küçük gözler telaşla etrafa bakınıyor.
+
+6-10 sn: Ölçeği belirleyen geniş çekim. Minik insan figürleri etli arazide yürüyor ve tüm gözler kameraya odaklanırken yapıları inceliyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074493433201221632/img/OO2qM-98wUw2rXi4.jpg" width="600" alt="Sürreal Dev Göz Manzarası Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2074493655843258788)**
+
+**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Yayınlandı:** Jul 7, 2026
+
+---
 ### Nazik Dev ve Parlayan Kelebek Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2322,27 +2472,22 @@ A video of a man counting to 10 on his fingers, show the number in the corner. A
 **Yazar:** [fofr](https://x.com/fofrAI) | **Kaynak:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **Yayınlandı:** May 26, 2026
 
 ---
-### Tokyo Tower Rocket Launch
+---
 
-![日本語](https://img.shields.io/badge/lang-日本語-green)
+## 📚 Daha fazla istem mevcut
 
-> This prompt transforms a photo of Tokyo Tower into a launching rocket, complete with a countdown and smoke effects at specific timestamps.
+<div align="center">
 
-#### 📝 İstem
+### 🎯 1 burada gösterilmeyen daha fazla istem
 
-```
-At second 0: A countdown voice in English is heard (from 3 to zero)
-At second 4: When the countdown ends, smoke rises from under the central red tower (which is actually a rocket).
-At second 5: The red tower slowly flies up into the sky.
-```
+Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee30cef60570d303d2e738b1c293ef15/thumbnails/thumbnail.jpg" width="600" alt="Tokyo Tower Rocket Launch">
+Run `pnpm run generate` locally to regenerate this README from CMS.
 
-**[🎬 Videoyu izle →](https://x.com/onoken1025/status/2059197447541498219)**
-
-**Yazar:** [onoken1025](https://x.com/onoken1025) | **Kaynak:** [Link](https://x.com/onoken1025/status/2059197447541498219) | **Yayınlandı:** May 26, 2026
+</div>
 
 ---
+
 
 ## 🤝 Nasıl Katkıda Bulunulur
 
@@ -2379,6 +2524,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-09T07:36:03.363Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-09T10:53:19.293Z</sub>
 
 </div>

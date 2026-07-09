@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **95** |
+| 📝 Total de prompts | **101** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-09** |
 
@@ -56,6 +56,156 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Cartão-postal de Pôster de Viagem Animado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt curto e eficaz para animar um pôster de viagem estático em um cartão-postal em movimento com nuvens à deriva e reflexos no oceano.
+
+#### 📝 Prompt
+
+```
+transforme este pôster de viagem em um cartão-postal em movimento: nuvens à deriva, gaivotas cruzando o quadro, reflexos no oceano, movimento suave de câmera, 10s
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074873385452978176/img/cndIiE_44XHPMYim.jpg" width="600" alt="Cartão-postal de Pôster de Viagem Animado">
+
+**[🎬 Assistir vídeo →](https://x.com/getimg_ai/status/2074948887698096374)**
+
+**Autor:** [getimg.ai](https://x.com/getimg_ai) | **Fonte:** [Link](https://x.com/getimg_ai/status/2074948887698096374) | **Publicado:** Jul 8, 2026
+
+---
+### Sequência de Aventura de Dinossauros no Velho Oeste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma série cinematográfica de prompts de vídeo que descreve um Velho Oeste pré-histórico onde cowboys montam dinossauros por cânions e planícies, com iluminação de nascer e pôr do sol.
+
+#### 📝 Prompt
+
+```
+Take de acompanhamento cinematográfico, nascer do sol sobre um majestoso cânion de rocha vermelha no Velho Oeste. Um cowboy em trajes tradicionais da fronteira está montado nas costas de um grande Pterossauro, voando suavemente pelo ar sobre o terreno acidentado. Fotorrealista, 4k, iluminação volumétrica.
+
+Take de estabelecimento amplo ao anoitecer. Um cowboy descansa ao lado de uma fogueira quente em uma planície gramada. No plano de fundo imediato, um Triceratops massivo e realista atrelado a uma carroça de madeira descansa pacificamente. Iluminação suave e cinematográfica de crepúsculo.
+
+Take de acompanhamento em ângulo baixo em um deserto empoeirado durante o dia. Um Braquiossauro colossal equipado com sela e carga caminha majestosamente pela tela, cercado por um rebanho agitado de dinossauros menores e cowboys montados neles. Reflexos de lente e poeira atmosférica.
+
+Take de silhueta dramática à noite. Um cowboy está no centro apontando um revólver, ladeado por dois raptores emplumados agressivos. A cena é brilhantemente retroiluminada por um fogo massivo e intenso vindo de uma estrutura em chamas atrás deles. Alto contraste, orientado para ação.
+
+Take épico de silhueta ampla durante o pôr do sol na hora dourada. Um cowboy cavalga sobre um massivo Tiranossauro Rex que caminha lentamente pela planície desértica plana. O sol massivo está baixo no horizonte, criando uma imagem final marcante e bela.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074810577088557056/img/WEj2e5ODrGlSwDyN.jpg" width="600" alt="Sequência de Aventura de Dinossauros no Velho Oeste">
+
+**[🎬 Assistir vídeo →](https://x.com/michaelrabone/status/2074810751898841468)**
+
+**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2074810751898841468) | **Publicado:** Jul 8, 2026
+
+---
+### MV de Dança de Casal em Tinta Pastel
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt abrangente para gerar um videoclipe estilizado de alta qualidade, apresentando dois personagens com efeitos visuais distintos, estética de tinta pastel e efeitos desenhados à mão sincronizados.
+
+#### 📝 Prompt
+
+```
+Use 2 imagens de referência. Trate a imagem1 como Pessoa A e a imagem2 como Pessoa B. Represente a Pessoa A e a Pessoa B como personagens que aparecem em um videoclipe (MV) live-action, mantendo as características faciais, penteado, tipo físico, expressão, impressão do traje, atmosfera e identidade de cada personagem das imagens de referência. Não misture as duas pessoas. Não troque rostos, penteados, trajes, físicos, vibrações, efeitos visuais (VFX) ou traços de personalidade. Mantenha a personalidade individual de cada imagem de referência e retrate-as claramente como indivíduos distintos. Integre decorações ou silhuetas características das imagens de referência naturalmente como trajes de fantasia para um MV live-action. Mostre texturas realistas, balanço de cabelo, movimento de tecido, reflexos em acessórios, textura da pele e luz e sombra. O estilo geral deve ser um MV de fantasia live-action fofo, elegante e transparente. O fundo não é um local do mundo real, mas um 'Palco de Sonhos em Tinta Pastel' para um MV live-action. Organize um espaço de estúdio branco suave com tinta pálida, luz de aquarela, vidro translúcido, tecido de seda esvoaçante, anéis transparentes, um piso levemente reflexivo, fragmentos de papel flutuantes, círculos semelhantes a bolhas de sabão e partículas de poeira estelar. Foque em cores pastéis suaves como branco leitoso, azul bebê, lavanda, rosa pálido, creme amarelado, verde menta e ciano claro. As cores não devem emitir luz forte, mas parecer sangrar levemente. O fundo não é estático desde o início; sincronizado com 118 BPM, nuvens de tinta pálida, luz de aquarela, anéis transparentes, reflexos de vidro, tecido e partículas de luz expandem-se, fluem, balançam e derretem lentamente. Adicione efeitos visuais (VFX) fofos estilo tinta e efeitos delicados desenhados à mão. A tinta é apresentada como aquarela transparente, marcas de pincel pálidas, respingos leitosos, pequenos grãos de tinta e borrões que se espalham no ar. Efeitos desenhados à mão aparecem momentaneamente como linhas brancas finas, contornos pastéis pálidos, pequenas estrelas, raios finos, linhas de velocidade desenhadas à mão, linhas onduladas e rastros brilhantes. Balance as linhas levemente para manter um calor artesanal. Os VFX da Pessoa A devem ser nítidos e transparentes, com linhas finas, anéis transparentes, ondulações de vidro líquido e rastros desenhados à mão que reagem aos ombros, pulsos, pés e giros. Os VFX da Pessoa B devem ser suaves e doces, com borrões de tinta pálida, poeira estelar, pequenas flores de luz, pincéis suaves semelhantes a fitas e brilhos desenhados à mão que reagem às pontas dos dedos, cabelo, trajes e giros. No momento em que se aproximam, os VFX de anel da Pessoa A e os VFX de poeira estelar da Pessoa B se sobrepõem momentaneamente como ondulações pálidas de luz antes de se separarem imediatamente. Os VFX não devem esconder rostos, olhos, linhas corporais, membros, detalhes de trajes ou a dança. Os trajes são glamorosamente redesenhados para um MV live-action, mantendo a visão de mundo da imagem de referência, adicionando materiais brilhantes, camadas, jaquetas curtas, tecidos esvoaçantes, correntes, cintos, fitas, acessórios, botas, luvas, peças metálicas, transparência e cores de destaque. A Pessoa A e a Pessoa B mostram um senso de serem um casal, mas suas personalidades de traje e VFX são claramente distintas. Cabelo, tecidos, fitas, acessórios e decorações características balançam naturalmente com a dança. As expressões são fofas e equilibradas, mostrando uma distância típica de casal. Quando um olha para a câmera, o outro olha para o parceiro ou levemente para o lado; eles não fazem a mesma expressão simultaneamente. A impressão geral é uma caracterização live-action da imagem1 e imagem2 em um MV de dança de casal em um mundo de tinta pastel pálida. A Pessoa A é legal e nítida; a Pessoa B é suave e glamorosa. O fundo é fofo, mas não parece barato, movendo-se lindamente com tinta aquarela transparente e VFX desenhados à mão. Priorize rostos, penteados, tipos físicos, expressões e silhuetas. Sem sobreposições de texto, legendas, logotipos ou caracteres legíveis. Sem grafite, arte em spray, neon forte, estilo cibernético ou fundos de paisagem normais. Sem duplicação de pessoas, sem novas pessoas, sem sincronização perfeita, sem cópia simétrica, sem ficar parado e sem apenas caminhar. Use uma ou mais imagens de referência. Trate todas as pessoas/personagens nas imagens de referência como protagonistas. Se houver 1 imagem, apresente 1 pessoa; se 2 imagens, 2 pessoas; se 3 imagens, 3 pessoas, fazendo com que todas apareçam simultaneamente no mesmo vídeo. 15 segundos, 60fps. Um vídeo de dança de alta qualidade no estilo de um MV de conceito idol. Garanta um ritmo adequado para um MV curto, coreografia fofa e efeitos 2D desenhados à mão sincronizados. Descreva movimentos suaves para cabelo, roupas, acessórios, mãos, passos, giros, olhar e efeitos. Coloque todos no mesmo fundo, espaço de filmagem e cena de MV de uma só vez. Não mude o fundo para cada imagem de referência. Não divida em cenas diferentes por pessoa. Não troque personagens no meio do caminho. Não os apresente um por um. Para múltiplas imagens de referência, trate cada uma como uma pessoa independente. Não misture rostos, penteados, cores de cabelo, biotipos, trajes, acessórios, gêneros, faixas etárias ou vibrações. Não os faça um par com o mesmo rosto, cabelo ou roupa. Se usar referências masculinas e femininas, mantenha-as claramente como masculino e feminino. Priorize a retenção da caracterização das imagens de referência, incluindo textura, estilo artístico, atmosfera e personalidade. Mesmo que as texturas difiram entre as referências, mantenha-as individuais para cada personagem. Não force um estilo artístico uniforme em todos. Se corpos inteiros ou trajes não estiverem visíveis, complemente-os naturalmente com base nas cores, materiais, silhuetas e traços de personalidade de cada imagem. As partes complementares devem seguir a mesma direção da respectiva imagem de referência. Não pegue emprestado características de outros personagens. Fixe o fundo como um único espaço de filmagem de MV comum: um estúdio interno, um quarto perto de uma janela ou um espaço de filmagem simples. Use luz natural suave e um fundo organizado onde todos pareçam protagonistas. Não mude o local por tomada; apenas mude os ângulos da câmera dentro do mesmo espaço. Analise as semelhanças entre as imagens de referência para criar um único espaço de MV de conceito idol, ajustando a atmosfera (brilhante, pálida, calma, úmida, fria, fofa, etc.). A música é uma canção japonesa; não use músicas reais existentes. O conceito do vídeo é um MV de conceito curto onde todos os personagens dançam juntos de forma fofa e impressionante no mesmo espaço. Prioridade: todos existem simultaneamente, todos parecem fofos, o MV é memorável e a dança se integra com efeitos 2D desenhados à mão. Use arranjos lado a lado, triangulares, diagonais ou de frente para trás para que todos fiquem visíveis. Todos dançam ao mesmo tempo; sem partes apenas solo, ficar parado ou direção de local separado. Não use 'fofura' de modelo; analise as referências para criar uma fofura de conceito idol coesa. Personagens brilhantes: fofura saltitante. Personagens calmos: fofura elegante. Personagens legais: fofura tímida ou equilibrada. Personagens efêmeros: fofura suave. Personagens estilo urbano: fofura rude e brincalhona. Coreografia: dança solo se 1 pessoa, dança em grupo se 2+. Inclua momentos sincronizados e momentos que mostram individualidade. Use mãos, ombros, pescoço, cintura, pés, olhar, giros e poses naturalmente. Os movimentos devem ser fofos, fáceis de imitar e memoráveis. Nada excessivamente infantil, excessivamente sexy, intensamente agressivo, saltos não naturais ou movimentos aleatórios. Efeitos 2D desenhados à mão são gerados automaticamente com base na análise do personagem. Garanta que formas, linhas, texturas, cores, densidade e tempo sejam adequados para todos. Unifique a tela com um design de MV enquanto dá aos personagens pequenas variações no estilo de cor/linha conforme necessário. Os efeitos são gráficos em movimento desenhados à mão compostos sobre o vídeo, assemelhando-se a animações 2D rudes e fofas como giz de cera, lápis, pastel a óleo ou tinta pálida. Sincronize-os com mãos, rostos, pés, movimentos corporais, giros, olhar e poses. Equilibre-os pela tela sem favorecer uma pessoa. Não esconda rostos ou corpos demais. Configure como se filmado com 5 câmeras, alternando a cada 2 segundos: Frente, Topo, Esquerda, Direita, Trás. Mantenha o mesmo espaço de fundo, mudando apenas os ângulos. Priorize composições onde todos estejam visíveis, incluindo planos de corpo inteiro ou do joelho para cima. Sem closes que cortem as pessoas. Não fixe a câmera completamente; balance-a levemente no ritmo (pequenos saltos, zoom, balanços leves). Não use balanço de câmera na mão desordenado. 0.0-2.0s: Câmera frontal. Todos aparecem no mesmo fundo. Corpo inteiro ou do joelho para cima. Organize lado a lado ou em formação. Todos executam ritmicamente uma pose de introdução fofa e pequenos passos que se encaixam em sua personalidade. Efeitos 2D desenhados à mão que combinam com a atmosfera aparecem perto das mãos e rostos. 2.0-4.0s: Câmera superior (overhead). Todos entram no quadro e reconhecem a câmera. Coordene gestos faciais e acentos de mão enquanto mantém traços de personalidade individuais. 4.0-6.0s: Câmera esquerda. Coreografia curta usando orientação corporal, cintura, ombros e mãos. Mantenha a distância do joelho para cima até o corpo inteiro. Efeitos desenhados à mão fluem por todos seguindo rastros de movimento. 6.0-8.0s: Câmera direita. Todos ficam de frente para o lado oposto enquanto reconhecem a câmera. Coreografia fofa sincronizada com a batida usando ombros, mãos e pés. Mostre passos claros com uma composição natural. Efeitos derivados das cores/formas de referência aparecem nos ombros e pés. 8.0-10.0s: Câmera traseira. Cabelo e trajes balançam suavemente. Composição de silhueta natural. Todos olham para trás sobre o ombro para a câmera, sincronizados ou levemente escalonados. Inclui giros e poses de mão com rastros de efeito. 10.0-12.0s: Câmera frontal (Clímax). Do joelho para cima até o corpo inteiro. Coreografia de grupo memorável usando o corpo inteiro. Aumente a densidade do efeito. Espalhe formas/linhas pela tela. Adicione pequenos balanços de câmera nos 'hits'. 12.0-14.0s: Câmera superior. Todos olham para cima com gestos fofos de rosto/mão. Efeitos desenhados à mão se espalham suavemente das mãos. Mantenha toda a consistência de rosto/cabelo. 14.0-15.0s: Cena final. De frente ou levemente diagonal. Pose final do grupo fluindo da dança. Não necessariamente um close no rosto; escolha a composição de grupo mais atraente (corpo inteiro até o busto). Sem zooms repentinos, cortes bruscos ou closes de rosto abruptos no final. Use uma aproximação de câmera suave ou uma parada leve. Enfatize a pose através da imobilidade corporal, formas das mãos, olhar e movimento persistente de cabelo/tecido e uma curta explosão de efeitos 2D. Restrições: Nenhum personagem além dos protagonistas. Não mescle múltiplas referências em uma pessoa. Não misture rostos masculinos e femininos. Não troque penteados/trajes. Sem 'twin-ificação'. Não compartilhe traços de personagem apenas porque compartilham um fundo. Sem trajes contradizendo as referências. Sem poses/expressões/ícones/cores inconsistentes com os personagens. Não use o mesmo modelo para cada efeito/gesto. Garanta que a dança e os efeitos estejam perfeitamente sincronizados. Os efeitos devem ser parte da coreografia, não muito fracos. Sem explosões, fogo, fumaça, glitch excessivo ou magia chamativa. Sem texto, legendas, logotipos ou marcas d'água. Renderize todos os 15 segundos suavemente a 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074800449652424704/img/XC2gobNaI_RucnzU.jpg" width="600" alt="MV de Dança de Casal em Tinta Pastel">
+
+**[🎬 Assistir vídeo →](https://x.com/sailorv321/status/2074805393294004436)**
+
+**Autor:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Fonte:** [Link](https://x.com/sailorv321/status/2074805393294004436) | **Publicado:** Jul 8, 2026
+
+---
+### Sequência de Preparo de Idli em Estilo Anime
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado passo a passo para uma montagem em estilo anime sobre o preparo de idlis tradicionais do sul da Índia, apresentando tomadas em POV e fotografia de alimentos em close-up.
+
+#### 📝 Prompt
+
+```
+Uma montagem de culinária em estilo anime, dinâmica e silenciosa, com 10 segundos de duração e SEM diálogos. 
+Sequência: POV abrindo um recipiente com arroz e urad dal → triturando até obter uma massa fermentada lisa → untando as formas de idli → despejando a massa nas formas → colocando as formas em uma vaporeira tradicional → cozinhando no vapor até ficarem perfeitamente fofas → uma bela garota do sul da Índia removendo os idlis quentes → tomada macro de idlis macios, esponjosos e fumegantes → vista superior (flat-lay) de idlis servidos com sambar e chutney de coco → close-up da garota dando uma mordida deliciosa em silêncio → tomada estética final da travessa de idli fumegante em uma bancada de cozinha tradicional iluminada pelo sol.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074761774155616256/img/G_dRnuUbfQkF44fs.jpg" width="600" alt="Sequência de Preparo de Idli em Estilo Anime">
+
+**[🎬 Assistir vídeo →](https://x.com/snskritinaruka/status/2074761846444503180)**
+
+**Autor:** [Sanskriti Naruka](https://x.com/snskritinaruka) | **Fonte:** [Link](https://x.com/snskritinaruka/status/2074761846444503180) | **Publicado:** Jul 8, 2026
+
+---
+### Sequência Cinematográfica de Ciclismo Alpino
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico detalhado para uma descida de ciclismo em alta velocidade em uma estrada alpina, mantendo a consistência facial a partir de uma imagem de referência.
+
+#### 📝 Prompt
+
+```
+Use a imagem de referência feminina anexada como a ÚNICA referência de identidade para a personagem principal.
+
+Mantenha total consistência facial em todos os quadros.
+
+Duração: 10 segundos.
+
+O primeiro quadro abre com a personagem já descendo uma estrada de montanha alpina em uma bicicleta de estrada de carbono premium em alta velocidade. Ela se inclina com confiança em curvas amplas enquanto a neblina da manhã se dissipa lentamente abaixo. A luz do sol atinge os picos das montanhas enquanto ela sai de uma curva final com vista para um vale infinito.
+
+Realismo IMAX 65mm. Gradação HDR premium. Fotografia aérea cinematográfica.
+
+Câmera:
+Perseguição de drone FPV já em movimento → acompanhamento lateral → câmera montada na roda → revelação aérea massiva.
+
+Trilha Sonora:
+Orquestra cinematográfica inspiradora, percussão rítmica, violão acústico, cordas emocionantes.
+
+Som Ambiental:
+Clique do cubo livre, trocas de marcha, ruído dos pneus, vento da montanha, pássaros.
+
+Sem diálogos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074666143852445696/img/oikKJLTsOxHizW6r.jpg" width="600" alt="Sequência Cinematográfica de Ciclismo Alpino">
+
+**[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2074666384051904670)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2074666384051904670) | **Publicado:** Jul 8, 2026
+
+---
+### Vídeo de paisagem surreal com olho gigante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico para o Gemini gerar uma paisagem surreal com um olho gigante piscando e pequenos exploradores humanos, completo com uma linha do tempo detalhada de 10 segundos de movimento.
+
+#### 📝 Prompt
+
+```
+Paisagem surreal fotorrealista. Um olho humano gigante e altamente detalhado, com íris azul e esclera avermelhada, pisca lentamente no centro. Ele é cercado por estruturas pulsantes, vermelhas, carnudas e em formato de estrela, cada uma contendo um olho azul piscando. Pequenas figuras humanas realistas vestindo ternos caminham pelo terreno carnudo, examinando os olhos.
+
+Linha do tempo (10 segundos):
+
+0-3s: Close extremo do olho central gigante piscando lentamente. Foco nas texturas fotorrealistas da íris e nos vasos sanguíneos.
+
+3-6s: A câmera se afasta lentamente. As estruturas estelares vermelhas e carnudas ao redor começam a pulsar. Os olhos menores se movem freneticamente.
+
+6-10s: Plano aberto estabelecendo a escala. Pequenas figuras humanas caminham pelo terreno carnudo, examinando as estruturas enquanto todos os olhos focam na câmera.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074493433201221632/img/OO2qM-98wUw2rXi4.jpg" width="600" alt="Vídeo de paisagem surreal com olho gigante">
+
+**[🎬 Assistir vídeo →](https://x.com/michaelrabone/status/2074493655843258788)**
+
+**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Publicado:** Jul 7, 2026
+
+---
 ### Animação de um Gigante Gentil e uma Borboleta Brilhante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2322,27 +2472,22 @@ A video of a man counting to 10 on his fingers, show the number in the corner. A
 **Autor:** [fofr](https://x.com/fofrAI) | **Fonte:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **Publicado:** May 26, 2026
 
 ---
-### Tokyo Tower Rocket Launch
+---
 
-![日本語](https://img.shields.io/badge/lang-日本語-green)
+## 📚 Mais prompts disponíveis
 
-> This prompt transforms a photo of Tokyo Tower into a launching rocket, complete with a countdown and smoke effects at specific timestamps.
+<div align="center">
 
-#### 📝 Prompt
+### 🎯 1 mais prompts não mostrados aqui
 
-```
-At second 0: A countdown voice in English is heard (from 3 to zero)
-At second 4: When the countdown ends, smoke rises from under the central red tower (which is actually a rocket).
-At second 5: The red tower slowly flies up into the sky.
-```
+Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ee30cef60570d303d2e738b1c293ef15/thumbnails/thumbnail.jpg" width="600" alt="Tokyo Tower Rocket Launch">
+Run `pnpm run generate` locally to regenerate this README from CMS.
 
-**[🎬 Assistir vídeo →](https://x.com/onoken1025/status/2059197447541498219)**
-
-**Autor:** [onoken1025](https://x.com/onoken1025) | **Fonte:** [Link](https://x.com/onoken1025/status/2059197447541498219) | **Publicado:** May 26, 2026
+</div>
 
 ---
+
 
 ## 🤝 Como contribuir
 
@@ -2379,6 +2524,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-09T07:36:02.854Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-09T10:53:18.794Z</sub>
 
 </div>
