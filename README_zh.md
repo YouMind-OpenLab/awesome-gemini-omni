@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **101** |
+| 📝 提示词总数 | **104** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-07-10** |
 
@@ -56,6 +56,171 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 电影感图像转视频推入效果
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一款精致的运动提示词，旨在为静态竖屏图像增加细腻的电影感深度与动态效果。
+
+#### 📝 提示词
+
+```
+缓慢的电影感推入，柔和的光影移动，微妙的背景动态，写实氛围，9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075153215952162816/img/SXIdMfPuasbXTp8X.jpg" width="600" alt="电影感图像转视频推入效果">
+
+**[🎬 观看视频 →](https://x.com/getimg_ai/status/2075303977692836130)**
+
+**作者:** [getimg.ai](https://x.com/getimg_ai) | **来源:** [Link](https://x.com/getimg_ai/status/2075303977692836130) | **发布时间:** Jul 9, 2026
+
+---
+### 科幻机器人战斗序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个高端电影级项目，用于制作一段 10 秒的科幻短片，讲述主角与废弃城市中巨型自主机器人之间的对决。
+
+#### 📝 提示词
+
+```
+创作一段 10 秒的超写实电影级科幻动作序列，灵感源自《造物主》(The Creator)、《遗落战境》(Oblivion)、《第九区》(District 9) 和《极乐空间》(Elysium)。
+
+使用**提供的男性参考图像**作为主角。在每个镜头中保持完美的人物身份、面部一致性、发型、身体比例、服装连贯性以及逼真的表情。
+
+## 风格
+
+好莱坞大片质感。
+
+扎实的近未来科技感。
+
+照片级写实。
+
+IMAX 大画幅。
+
+无痕视觉特效 (VFX)。
+
+实拍感爆炸效果。
+
+工业写实风格。
+
+## 摄影
+
+ARRI ALEXA 65 摄影机。
+
+Panavision Ultra Vista 变形镜头。
+
+手持动作与稳定追踪镜头相结合。
+
+自然的动态模糊。
+
+## 格式
+
+9:16
+
+10 秒
+
+5 个镜头。
+
+---
+
+### 镜头 1 (0:00–0:02) — 倒计时
+
+一台巨大的自主战斗机器人矗立在废弃城市中央。
+
+其受损的胸口显示出倒计时。
+
+**00:10**
+
+主角缓慢靠近。
+
+---
+
+### 镜头 2 (0:02–0:04) — 抉择
+
+机器人突然重新启动。
+
+武器系统开始部署。
+
+主角径直向它冲刺。
+
+---
+
+### 镜头 3 (0:04–0:06) — 冲击
+
+他从机器人腿下 Slides 而过，身后的街道被导弹摧毁。
+
+混凝土碎裂飞溅。
+
+车辆翻滚。
+
+尘土弥漫。
+
+---
+
+### 镜头 4 (0:06–0:08) — 关闭
+
+主角抵达暴露的反应堆处。
+
+他将一把机械关闭钥匙插入核心。
+
+倒计时瞬间定格在 **00:01**。
+
+---
+
+### 镜头 5 (0:08–0:10) — 寂静
+
+机器人缓慢跪下。
+
+所有灯光熄灭。
+
+城市陷入彻底的寂静。
+
+主角头也不回地走开。
+
+**音乐：** 工业低音 → 混合管弦乐 → 彻底寂静。
+
+---
+
+## 情感目标
+
+“世界距离毁灭仅剩一秒。”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075176434931560448/img/r1khnveDSRsyTFKa.jpg" width="600" alt="科幻机器人战斗序列">
+
+**[🎬 观看视频 →](https://x.com/vireonixx/status/2075176503265137135)**
+
+**作者:** [Virena](https://x.com/vireonixx) | **来源:** [Link](https://x.com/vireonixx/status/2075176503265137135) | **发布时间:** Jul 9, 2026
+
+---
+### 从哈巴狗到狼的镜像变身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满创意的变身提示词：一只可爱的哈巴狗在镜中看到了威严而凶猛的狼的倒影。
+
+#### 📝 提示词
+
+```
+一只可爱的哈巴狗坐在摄影棚里，在戏剧性的高对比度日间光线下凝视着一面大镜子。镜中的倒影里，映出的不是哈巴狗，而是一只凶猛威严的狼，它带着强大且自信的表情回望。镜头缓慢推进，将骄傲的哈巴狗与它那野性、古老的倒影形成对比。幽默而富有启发性的氛围，电影级风格，超高细节。
+
+10 秒故事板时间轴
+
+0-3 秒 | 开场：中景镜头，一只可爱的哈巴狗骄傲地坐在落地大镜子前。灯光明亮且富有戏剧性，如同专业摄影棚。哈巴狗歪着头，看起来充满好奇。
+
+3-7 秒 | 揭示：镜头缓慢平移并向前推进至镜子。当倒影变得清晰时，画面平滑过渡，显现出一只巨大、威严的灰狼，它正用凶猛而自信的眼神回望。
+
+7-10 秒 | 对比与高潮：通过分屏或肩后视角突出对比：现实中可爱的哈巴狗看起来很骄傲，与镜中强大、古老的狼形成鲜明对比。电影级灯光增强，随后画面淡出至黑色。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075172932792254464/img/-JF8X4hZDCSe2lKd.jpg" width="600" alt="从哈巴狗到狼的镜像变身">
+
+**[🎬 观看视频 →](https://x.com/michaelrabone/status/2075173227651887525)**
+
+**作者:** [Michael Rabone](https://x.com/michaelrabone) | **来源:** [Link](https://x.com/michaelrabone/status/2075173227651887525) | **发布时间:** Jul 9, 2026
+
+---
 ### 动画旅行海报明信片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2376,109 +2541,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **作者:** [Greenfield Team!](https://x.com/Team_Greenfield) | **来源:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **发布时间:** May 27, 2026
 
 ---
-### 人类进化纪录片项目 (Storyboard)
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 这是一个为 Gemini Omni 设计的高细节电影级纪录片提示词，通过项目 (board) 格式引导模型完成从灵长类动物到现代人类的进化阶段展示。
-
-#### 📝 提示词
-
-```
-请使用随附的项目 (board) 图片作为精确的视觉蓝图，创作一段 10 秒的竖屏 (9:16) 超写实真人纪录片视频。请严格保持项目 (board) 的构图、时间顺序、角色进化过程及行走方向。禁止添加额外镜头或更改顺序。
-
-[视觉风格]
-超写实真人电影画质。BBC Earth、NHK 特别节目或国家地理频道级别的高预算纪录片风格。具有历史重现电影般的逼真质感。基于自然光。电影级布光。照片级真实感。逼真的皮肤、毛发、衣物、石器和自然环境。电影级景深。充满智慧与宏伟的氛围。
-
-[视频构图]
-时长：10 秒。
-按 1-6 的顺序切换项目 (board) 中的以下 6 个场景，每个场景时长相等：
-1. 猿人（早期灵长类）
-2. 南方古猿
-3. 直立人
-4. 尼安德特人
-5. 克罗马农人
-6. 现代人类
-编辑每个场景以实现自然衔接。强调随时间推移逐渐进化的过程。
-
-[角色指导]
-角色在所有场景中持续从左向右行走。行走速度保持恒定。确保所有场景中同一血统的连续性。
-随着进化，姿态、面部特征、体格、毛发量、衣物、工具和行走方式应自然演变。这应表现为同一血统内的进化，而非切换到不同的人。
-
-[摄像机]
-在所有场景中保持相同的侧视图构图。保持摄像机距离恒定。始终展示角色的全身。平滑地跟随行走动作。禁止过度运镜。采用纪录片式的自然拍摄手法。
-
-[背景指导]
-背景环境也随每个时代自然演变：森林、草原、干旱区、冰川区、山区、现代城市。确保环境变化自然衔接。
-
-[字幕]
-为每个时代显示简短的日文标题。
-内容：猿人（早期灵长类）、南方古猿、直立人、尼安德特人、克罗马农人、现代人类。
-字幕风格：小巧、优雅、不遮挡画面、半透明、白色或浅灰色、底部居中、适度的淡入淡出。BBC Earth 或 NHK 特别节目风格。极简优雅的纪录片式排版。
-重要：不要让字幕遮挡角色。无炫目动画。无 YouTube 风格 UI。无综艺节目风格。
-
-[音乐]
-宏伟壮丽的古典音乐，唤起宇宙起源或人类历史的感触。充满智慧与神秘的氛围。如电影预告片般的情感铺垫。
-
-[重要]
-请严格参考上传的项目 (board)。保持画面布局、时代更迭和行走方向。最终视频不得显示项目 (board) 边框、注释、UI、页面信息或制作说明。
-
-[负面提示词]
-慢动作、不自然的动作、跳舞、夸张的表演、机器人动作、不自然的肌肉、畸形的四肢、模糊的面部、低质量纹理、幻想方向、科幻方向、变异、剧烈的运镜、静止的背景人物、低分辨率、动漫风格表情、滑稽表情、不自然的行走、摄像机角度变化、更换角色、过度的运动模糊。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="人类进化纪录片项目 (Storyboard)">
-
-**[🎬 观看视频 →](https://x.com/tanabe_fragm/status/2059458173615116314)**
-
-**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **来源:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **发布时间:** May 27, 2026
-
----
-### Seasonal Months Portrait Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of a person reciting the months of the year with dynamic background changes corresponding to the seasons and holidays of each month.
-
-#### 📝 提示词
-
-```
-A video of a man saying the months from Jan to Dec, one month every 1s. show the current month in the corner. No dialogue other than the month he says. The background location and scene changes every month to match it: Jan winter, feb valentine, march spring, April rain, May flowers, June beach, July fireworks, Aug tropical, Sept school/autumn, Oct Halloween, Nov cozy fall, Dec Christmas
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e209f73fac65c170036bd433d0575deb/thumbnails/thumbnail.jpg" width="600" alt="Seasonal Months Portrait Video Prompt">
-
-**[🎬 观看视频 →](https://x.com/HarshithLucky3/status/2059259787444166919)**
-
-**作者:** [Harshith](https://x.com/HarshithLucky3) | **来源:** [Link](https://x.com/HarshithLucky3/status/2059259787444166919) | **发布时间:** May 26, 2026
-
----
-### Finger Counting with On-Screen Numbers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a video of a man counting to ten on his fingers, featuring specific instructions for timing, dialogue, and hand usage.
-
-#### 📝 提示词
-
-```
-A video of a man counting to 10 on his fingers, show the number in the corner. A new number every 1s, no dialogue other than the numbers he says. He uses two hands for numbers bigger than 5.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a1964eae4132705b5c7819df0cae54e/thumbnails/thumbnail.jpg" width="600" alt="Finger Counting with On-Screen Numbers">
-
-**[🎬 观看视频 →](https://x.com/fofrAI/status/2059230628911124880)**
-
-**作者:** [fofr](https://x.com/fofrAI) | **来源:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **发布时间:** May 26, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 1 更多提示词未在此显示
+### 🎯 4 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2524,6 +2593,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-10T07:33:46.570Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-10T10:52:05.486Z</sub>
 
 </div>

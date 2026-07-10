@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **101** |
+| 📝 プロンプト総数 | **104** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-07-10** |
 
@@ -56,6 +56,169 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### シネマティックな画像から動画へのプッシュイン
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 静止画の縦長画像に、繊細なシネマティックな奥行きと動きを加えるために設計された洗練されたモーションプロンプトです。
+
+#### 📝 プロンプト
+
+```
+slow cinematic push-in, soft light movement, subtle background motion, realistic atmosphere, 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075153215952162816/img/SXIdMfPuasbXTp8X.jpg" width="600" alt="シネマティックな画像から動画へのプッシュイン">
+
+**[🎬 動画を見る →](https://x.com/getimg_ai/status/2075303977692836130)**
+
+**作者:** [getimg.ai](https://x.com/getimg_ai) | **ソース:** [Link](https://x.com/getimg_ai/status/2075303977692836130) | **公開日:** Jul 9, 2026
+
+---
+### SF ロボット戦闘シークエンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 廃墟となった都市を舞台に、主人公と巨大な自律型ロボットが繰り広げる 10 秒間の SF シークエンスに向けた、ハイエンドなシネマティック・ストーリーボード。
+
+#### 📝 プロンプト
+
+```
+『ザ・クリエイター／創造者』、『オブリビオン』、『第9地区』、『エリジウム』にインスパイアされた、10 秒間の超写実的なシネマティック SF アクションシークエンスを作成してください。
+
+**提供された男性の参照画像**を主人公として使用してください。すべてのカットを通じて、完璧なアイデンティティ、顔の整合性、髪型、体格、服装の連続性、そしてリアルな表情を維持してください。
+
+## スタイル
+
+ハリウッド大作映画。
+
+地に足のついた近未来テクノロジー。
+
+フォトリアル。
+
+ラージフォーマット IMAX。
+
+インビジブル VFX。
+
+実写ベースの爆発表現。
+
+インダストリアルなリアリズム。
+
+## カメラ
+
+ARRI ALEXA 65。
+
+Panavision Ultra Vista アナモフィックレンズ。
+
+手持ちカメラのアクションとスタビライズされたトラッキングの融合。
+
+自然なモーションブラー。
+
+## フォーマット
+
+9:16
+
+10 秒間
+
+5 カット。
+
+---
+
+### カット 1 (0:00–0:02) — カウントダウン
+
+廃墟となった都市の中央に、巨大な自律型戦闘ロボットが立っている。
+
+損傷した胸部にカウントダウンが表示される。
+
+**00:10**
+
+主人公がゆっくりと近づいていく。
+
+---
+
+### カット 2 (0:02–0:04) — 決断
+
+ロボットが突然再起動する。
+
+武器が展開し始める。
+
+主人公がロボットに向かって全力で走り出す。
+
+---
+
+### カット 3 (0:04–0:06) — 衝撃
+
+主人公がロボットの脚の下を Slides し、背後ではミサイルが通りを破壊する。
+
+コンクリートが噴出し、車が跳ね上がる。
+
+空気が埃で満たされる。
+
+---
+
+### カット 4 (0:06–0:08) — シャットダウン
+
+主人公が露出したリアクターに到達する。
+
+コアにメカニカルなシャットダウンキーを突き刺す。
+
+カウントダウンが **00:01** で瞬時に停止する。
+
+---
+
+### カット 5 (0:08–0:10) — 静寂
+
+ロボットがゆっくりと膝をつく。
+
+すべての光が消える。
+
+都市が完全な静寂に包まれる。
+
+主人公は振り返ることなく歩き去る。
+
+**音楽:** インダストリアルな重低音 → ハイブリッド・オーケストラ → 完全な静寂。
+
+---
+
+## 感情的ターゲット
+
+「世界は滅亡まであと 1 秒だった。」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075176434931560448/img/r1khnveDSRsyTFKa.jpg" width="600" alt="SF ロボット戦闘シークエンス">
+
+**[🎬 動画を見る →](https://x.com/vireonixx/status/2075176503265137135)**
+
+**作者:** [Virena](https://x.com/vireonixx) | **ソース:** [Link](https://x.com/vireonixx/status/2075176503265137135) | **公開日:** Jul 9, 2026
+
+---
+### パグからオオカミへ：鏡に映る変身
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> かわいいパグが鏡の中に雄大で獰猛なオオカミを見る、クリエイティブな変身プロンプトです。
+
+#### 📝 プロンプト
+
+```
+スタジオに座ったかわいいパグが、ドラマチックでコントラストの強い昼間の光の下で大きな鏡を覗き込んでいます。鏡に映る姿はパグではなく、力強く自信に満ちた表情でこちらを見つめる、獰猛で雄大なオオカミです。カメラはゆっくりとズームインし、誇らしげなパグと、その野生の古代の姿である鏡の中の反射を対比させます。ユーモラスでありながらインスピレーションを与えるムード、映画のようなスタイル、超高精細な描写。
+
+10 秒間のストーリーボード・タイムライン
+
+0 ～ 3 秒 | 設定：大きな姿見の前に誇らしげに座る愛らしいパグのミディアムショット。照明はプロのスタジオのように明るくドラマチックです。パグは好奇心旺盛に首を傾げます。
+
+3 ～ 7 秒 | 明らかになる真実：カメラがゆっくりとパンし、鏡に向かって前進します。反射が鮮明になるにつれ、獰猛で自信に満ちた目をした巨大で雄大な灰色のオオカミが映し出される様子へとスムーズに切り替わります。
+
+7 ～ 10 秒 | 対比とクライマックス：現実のかわいいパグの誇らしげな姿と、鏡の中に映る力強く古代のオオカミという対比を強調する、スプリットスクリーンまたは肩越しのショット。映画のような照明が強まり、暗転して終了します。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075172932792254464/img/-JF8X4hZDCSe2lKd.jpg" width="600" alt="パグからオオカミへ：鏡に映る変身">
+
+**[🎬 動画を見る →](https://x.com/michaelrabone/status/2075173227651887525)**
+
+**作者:** [Michael Rabone](https://x.com/michaelrabone) | **ソース:** [Link](https://x.com/michaelrabone/status/2075173227651887525) | **公開日:** Jul 9, 2026
+
+---
 ### アニメーション化されたトラベルポスターのポストカード
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2376,109 +2539,13 @@ GTA India のトレーラーを生成する
 **作者:** [Greenfield Team!](https://x.com/Team_Greenfield) | **ソース:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **公開日:** May 27, 2026
 
 ---
-### 人類進化ドキュメンタリーのストーリーボード
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Gemini Omni 向けの非常に詳細なシネマティック・ドキュメンタリー用プロンプトです。ストーリーボード形式を使用して、霊長類から現代人までの人類進化の過程をモデルにガイドします。
-
-#### 📝 プロンプト
-
-```
-添付のストーリーボード画像を正確なビジュアルの青写真として使用し、10 秒間の縦型（9:16）の超リアルな実写ドキュメンタリー動画を作成してください。ストーリーボードの構図、時系列、キャラクターの進化、歩行方向を厳密に維持してください。ショットの追加や順序の変更は禁止です。
-
-[ビジュアルスタイル]
-超リアルな実写映画のクオリティ。BBC Earth、NHK スペシャル、ナショナル ジオグラフィックのような高予算ドキュメンタリースタイル。歴史再現ドラマのようなリアルな質感。自然光をベースにしたシネマティックなライティング。フォトリアル。肌、毛皮、衣服、石器、自然環境をリアルに表現。シネマティックな奥行き。知的で壮大な雰囲気。
-
-[動画の構成]
-長さ：10 秒間。
-ストーリーボードの以下の 6 つのシーンを、1 から 6 の順序で均等な時間配分で切り替えてください：
-1. 猿人（初期霊長類）
-2. アウストラロピテクス
-3. ホモ・エレクトス
-4. ネアンデルタール人
-5. クロマニョン人
-6. 現代人
-各シーンが自然につながるように編集してください。時間の経過とともに少しずつ進化していく様子を強調してください。
-
-[キャラクターの演出]
-キャラクターはすべてのシーンで左から右へ歩き続けます。歩行速度は常に一定に保ってください。すべてのシーンを通して、同一の系統であることを維持してください。
-進化するにつれて、姿勢、顔立ち、体格、体毛の量、衣服、道具、歩き方が自然に変化するようにしてください。これは別人に切り替わるのではなく、同一系統内での進化の表現である必要があります。
-
-[カメラ]
-すべてのシーンで同じサイドビューの構図を維持してください。カメラの距離も一定に保ちます。常にキャラクターの全身を表示してください。歩行動作をスムーズに追従してください。過度なカメラワークは禁止です。ドキュメンタリー映画のような自然な撮影を心がけてください。
-
-[背景の演出]
-背景環境も時代とともに自然に変化させます：森林、草原、乾燥地帯、氷河地帯、山岳地帯、現代都市。環境の変化が自然につながるようにしてください。
-
-[キャプション]
-各時代を示す短い日本語のキャプションを表示してください。
-内容：猿人（初期霊長類）、アウストラロピテクス、ホモ・エレクトス、ネアンデルタール人、クロマニョン人、現代人。
-キャプションのスタイル：小さく、エレガントで、邪魔にならないもの。半透明の白またはライトグレー。画面下部中央に配置し、控えめなフェードイン／フェードアウトを適用。BBC Earth や NHK スペシャルのようなスタイル。最小限でエレガントなドキュメンタリー風のタイポグラフィ。
-重要：キャプションでキャラクターを隠さないでください。派手なアニメーションは禁止です。YouTube 風の UI やバラエティ番組のようなスタイルは避けてください。
-
-[音楽]
-宇宙の始まりや人類の歴史を想起させる、壮大でクラシックな音楽。知的で神秘的な雰囲気。映画の予告編のような感情の高まりを感じさせるもの。
-
-[重要]
-アップロードされたストーリーボードを厳密に参照してください。フレームのレイアウト、時代の変化、歩行方向を維持してください。最終的な動画には、ストーリーボードの枠線、注釈、UI、ページ情報、制作メモなどが映り込まないようにしてください。
-
-[ネガティブプロンプト]
-スローモーション、不自然な動き、ダンス、誇張された演技、ロボットのような動き、不自然な筋肉、変形した手足、ぼやけた顔、低品質な質感、ファンタジー演出、SF 演出、突然変異、激しいカメラワーク、静止している背景の人物、低解像度、アニメ調の表現、コミカルな表情、不自然な歩行、カメラアングルの変更、キャラクターの入れ替わり、過度なモーションブラー。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="人類進化ドキュメンタリーのストーリーボード">
-
-**[🎬 動画を見る →](https://x.com/tanabe_fragm/status/2059458173615116314)**
-
-**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **ソース:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **公開日:** May 27, 2026
-
----
-### Seasonal Months Portrait Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of a person reciting the months of the year with dynamic background changes corresponding to the seasons and holidays of each month.
-
-#### 📝 プロンプト
-
-```
-A video of a man saying the months from Jan to Dec, one month every 1s. show the current month in the corner. No dialogue other than the month he says. The background location and scene changes every month to match it: Jan winter, feb valentine, march spring, April rain, May flowers, June beach, July fireworks, Aug tropical, Sept school/autumn, Oct Halloween, Nov cozy fall, Dec Christmas
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e209f73fac65c170036bd433d0575deb/thumbnails/thumbnail.jpg" width="600" alt="Seasonal Months Portrait Video Prompt">
-
-**[🎬 動画を見る →](https://x.com/HarshithLucky3/status/2059259787444166919)**
-
-**作者:** [Harshith](https://x.com/HarshithLucky3) | **ソース:** [Link](https://x.com/HarshithLucky3/status/2059259787444166919) | **公開日:** May 26, 2026
-
----
-### Finger Counting with On-Screen Numbers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a video of a man counting to ten on his fingers, featuring specific instructions for timing, dialogue, and hand usage.
-
-#### 📝 プロンプト
-
-```
-A video of a man counting to 10 on his fingers, show the number in the corner. A new number every 1s, no dialogue other than the numbers he says. He uses two hands for numbers bigger than 5.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a1964eae4132705b5c7819df0cae54e/thumbnails/thumbnail.jpg" width="600" alt="Finger Counting with On-Screen Numbers">
-
-**[🎬 動画を見る →](https://x.com/fofrAI/status/2059230628911124880)**
-
-**作者:** [fofr](https://x.com/fofrAI) | **ソース:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **公開日:** May 26, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 1 さらに多くのプロンプトがあります
+### 🎯 4 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2524,6 +2591,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-10T07:33:48.735Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-10T10:52:06.747Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **101** |
+| 📝 Tổng số prompt | **104** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-10** |
 
@@ -56,6 +56,171 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hiệu ứng Cinematic Image-to-Video Push-In
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chuyển động tinh tế được thiết kế để tạo thêm chiều sâu điện ảnh và sự chuyển động nhẹ nhàng cho hình ảnh dọc tĩnh.
+
+#### 📝 Prompt
+
+```
+slow cinematic push-in, soft light movement, subtle background motion, realistic atmosphere, 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075153215952162816/img/SXIdMfPuasbXTp8X.jpg" width="600" alt="Hiệu ứng Cinematic Image-to-Video Push-In">
+
+**[🎬 Xem video →](https://x.com/getimg_ai/status/2075303977692836130)**
+
+**Tác giả:** [getimg.ai](https://x.com/getimg_ai) | **Nguồn:** [Link](https://x.com/getimg_ai/status/2075303977692836130) | **Đã xuất bản:** Jul 9, 2026
+
+---
+### Chuỗi cảnh chiến đấu robot khoa học viễn tưởng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một kịch bản phân cảnh điện ảnh cao cấp cho phân đoạn khoa học viễn tưởng dài 10 giây, với sự tham gia của nhân vật chính và một robot tự hành khổng lồ trong một thành phố bỏ hoang.
+
+#### 📝 Prompt
+
+```
+Tạo một phân đoạn hành động khoa học viễn tưởng điện ảnh siêu thực dài 10 giây, lấy cảm hứng từ *The Creator*, *Oblivion*, *District 9* và *Elysium*.
+
+Sử dụng **hình ảnh tham chiếu nam được cung cấp** làm nhân vật chính. Duy trì sự đồng nhất tuyệt đối về danh tính, khuôn mặt, kiểu tóc, tỷ lệ cơ thể, trang phục và biểu cảm chân thực trong suốt mọi cảnh quay.
+
+## PHONG CÁCH
+
+Bom tấn Hollywood.
+
+Công nghệ tương lai gần thực tế.
+
+Siêu thực (Photorealistic).
+
+Định dạng lớn IMAX.
+
+VFX vô hình.
+
+Hiệu ứng cháy nổ thực tế.
+
+Chủ nghĩa hiện thực công nghiệp.
+
+## MÁY QUAY
+
+ARRI ALEXA 65.
+
+Ống kính anamorphic Panavision Ultra Vista.
+
+Hành động cầm tay kết hợp với tracking ổn định.
+
+Chuyển động mờ tự nhiên.
+
+## ĐỊNH DẠNG
+
+9:16
+
+10 giây
+
+5 cảnh quay.
+
+---
+
+### CẢNH 1 (0:00–0:02) — ĐẾM NGƯỢC
+
+Một robot chiến đấu tự hành khổng lồ đứng giữa một thành phố bỏ hoang.
+
+Một bộ đếm ngược xuất hiện trên phần ngực bị hư hại của nó.
+
+**00:10**
+
+Nhân vật chính chậm rãi tiến lại gần.
+
+---
+
+### CẢNH 2 (0:02–0:04) — QUYẾT ĐỊNH
+
+Robot đột ngột khởi động lại.
+
+Các loại vũ khí bắt đầu được triển khai.
+
+Nhân vật chính bắt đầu chạy nước rút thẳng về phía nó.
+
+---
+
+### CẢNH 3 (0:04–0:06) — VA CHẠM
+
+Anh ấy Slides bên dưới chân robot trong khi tên lửa phá hủy con đường phía sau.
+
+Bê tông vỡ vụn.
+
+Xe cộ lật nhào.
+
+Bụi mù mịt không trung.
+
+---
+
+### CẢNH 4 (0:06–0:08) — TẮT MÁY
+
+Nhân vật chính tiếp cận lò phản ứng lộ ra ngoài.
+
+Anh ấy cắm chìa khóa tắt máy cơ học vào lõi.
+
+Bộ đếm ngược lập tức dừng lại ở **00:01**.
+
+---
+
+### CẢNH 5 (0:08–0:10) — TĨNH LẶNG
+
+Robot từ từ quỳ xuống.
+
+Tất cả đèn vụt tắt.
+
+Thành phố trở nên hoàn toàn tĩnh lặng.
+
+Nhân vật chính bước đi mà không ngoảnh lại.
+
+**Âm nhạc:** Industrial bass → dàn nhạc hybrid → im lặng hoàn toàn.
+
+---
+
+## MỤC TIÊU CẢM XÚC
+
+"Thế giới chỉ còn cách sự diệt vong đúng một giây."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075176434931560448/img/r1khnveDSRsyTFKa.jpg" width="600" alt="Chuỗi cảnh chiến đấu robot khoa học viễn tưởng">
+
+**[🎬 Xem video →](https://x.com/vireonixx/status/2075176503265137135)**
+
+**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2075176503265137135) | **Đã xuất bản:** Jul 9, 2026
+
+---
+### Biến hình phản chiếu: Từ chó Pug thành sói
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh sáng tạo về sự biến hình, nơi một chú chó Pug đáng yêu nhìn thấy hình ảnh phản chiếu của một con sói dũng mãnh, oai vệ trong gương.
+
+#### 📝 Prompt
+
+```
+Một chú chó Pug đáng yêu đang ngồi trong studio, nhìn vào một chiếc gương lớn dưới ánh sáng ban ngày đầy kịch tính và có độ tương phản cao. Trong hình ảnh phản chiếu ở gương, thay vì là chú chó Pug, một con sói dũng mãnh và uy nghi đang nhìn lại với vẻ mặt đầy quyền lực và tự tin. Máy quay từ từ phóng to, tạo sự tương phản giữa chú chó Pug kiêu hãnh và hình ảnh phản chiếu hoang dã, cổ xưa của nó. Tâm trạng vừa hài hước vừa truyền cảm hứng, phong cách điện ảnh, chi tiết đến từng milimet.
+
+Dòng thời gian phân cảnh 10 giây
+
+0-3s | Thiết lập: Cảnh quay trung bình một chú chó Pug đáng yêu đang ngồi đầy kiêu hãnh trước một chiếc gương lớn đặt trên sàn. Ánh sáng rực rỡ và đầy kịch tính như trong một studio chuyên nghiệp. Chú chó Pug nghiêng đầu, vẻ mặt đầy tò mò.
+
+3-7s | Tiết lộ: Máy quay từ từ lia và tiến dần về phía chiếc gương. Khi hình ảnh phản chiếu trở nên rõ nét, nó chuyển đổi mượt mà để lộ ra một con sói xám to lớn, uy nghi đang nhìn lại với đôi mắt sắc sảo, đầy tự tin.
+
+7-10s | Tương phản & Cao trào: Góc quay chia đôi màn hình hoặc quay qua vai làm nổi bật sự tương phản: chú chó Pug đáng yêu ngoài đời thực trông đầy kiêu hãnh, đặt cạnh hình ảnh con sói mạnh mẽ, cổ xưa trong gương. Ánh sáng điện ảnh tăng dần trước khi mờ dần thành màu đen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075172932792254464/img/-JF8X4hZDCSe2lKd.jpg" width="600" alt="Biến hình phản chiếu: Từ chó Pug thành sói">
+
+**[🎬 Xem video →](https://x.com/michaelrabone/status/2075173227651887525)**
+
+**Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2075173227651887525) | **Đã xuất bản:** Jul 9, 2026
+
+---
 ### Bưu thiếp áp phích du lịch chuyển động
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2376,109 +2541,13 @@ Tạo hoạt ảnh nhanh qua 20 phiên bản khác nhau của logo này. Giữ m
 **Tác giả:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Nguồn:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **Đã xuất bản:** May 27, 2026
 
 ---
-### Storyboard Phim Tài liệu về Sự tiến hóa của Con người
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh (prompt) phim tài liệu điện ảnh chi tiết dành cho Gemini Omni, hướng dẫn mô hình thực hiện các giai đoạn tiến hóa của con người từ linh trưởng đến con người hiện đại bằng định dạng storyboard.
-
-#### 📝 Prompt
-
-```
-Vui lòng tạo một video tài liệu live-action siêu thực, định dạng dọc (9:16) dài 10 giây, sử dụng hình ảnh storyboard đính kèm làm bản thiết kế hình ảnh chính xác. Tuân thủ nghiêm ngặt bố cục, trình tự thời gian, sự tiến hóa của nhân vật và hướng đi bộ trong storyboard. Nghiêm cấm việc thêm các cảnh quay bổ sung hoặc thay đổi trình tự.
-
-[Phong cách Hình ảnh]
-Chất lượng phim live-action siêu thực. Phong cách phim tài liệu kinh phí lớn như BBC Earth, NHK Special hoặc National Geographic. Kết cấu chân thực như các bộ phim tái hiện lịch sử. Dựa trên ánh sáng tự nhiên. Ánh sáng điện ảnh. Ảnh thực tế. Da, lông, quần áo, công cụ bằng đá và môi trường tự nhiên chân thực. Độ sâu điện ảnh. Không khí trí tuệ và hùng vĩ.
-
-[Bố cục Video]
-Thời lượng: 10 giây.
-Chuyển đổi giữa 6 cảnh sau đây từ storyboard theo thứ tự 1-6 với thời lượng bằng nhau:
-1. Vượn người (linh trưởng sơ khai)
-2. Australopithecus
-3. Homo erectus
-4. Người Neanderthal
-5. Người Cro-Magnon
-6. Con người hiện đại
-Chỉnh sửa từng cảnh để kết nối một cách tự nhiên. Nhấn mạnh cảm giác tiến hóa dần dần theo thời gian.
-
-[Chỉ đạo Nhân vật]
-Nhân vật tiếp tục đi bộ từ trái sang phải trong tất cả các cảnh. Tốc độ đi bộ luôn ổn định. Đảm bảo tính liên tục của cùng một dòng dõi qua tất cả các cảnh.
-Khi họ tiến hóa, tư thế, đặc điểm khuôn mặt, vóc dáng, lượng lông, quần áo, công cụ và phong cách đi bộ sẽ tiến hóa một cách tự nhiên. Đây phải là sự thể hiện quá trình tiến hóa trong cùng một dòng dõi, không phải chuyển sang người khác.
-
-[Máy quay]
-Duy trì cùng một bố cục góc nhìn ngang trong tất cả các cảnh. Giữ khoảng cách máy quay ổn định. Luôn hiển thị toàn thân nhân vật. Theo sát chuyển động đi bộ một cách mượt mà. Nghiêm cấm các kỹ thuật máy quay quá đà. Quay phim tự nhiên như phim tài liệu.
-
-[Chỉ đạo Bối cảnh]
-Bối cảnh môi trường cũng tiến hóa tự nhiên theo từng kỷ nguyên: Rừng rậm, Đồng cỏ, Vùng khô cằn, Vùng băng giá, Vùng núi, Thành phố hiện đại. Đảm bảo các thay đổi về môi trường kết nối một cách tự nhiên.
-
-[Phụ đề]
-Hiển thị phụ đề tiếng Nhật ngắn gọn cho từng kỷ nguyên.
-Nội dung: Vượn người (linh trưởng sơ khai), Australopithecus, Homo erectus, Người Neanderthal, Người Cro-Magnon, Con người hiện đại.
-Phong cách Phụ đề: Nhỏ, thanh lịch, không gây cản trở, bán trong suốt, màu trắng hoặc xám nhạt, căn giữa ở phía dưới, hiệu ứng mờ dần (fade-in/fade-out) tinh tế. Phong cách BBC Earth hoặc NHK Special. Kiểu chữ phong cách tài liệu tối giản và thanh lịch.
-Quan trọng: Không che khuất nhân vật bằng phụ đề. Không có hiệu ứng hoạt hình lòe loẹt. Không có giao diện người dùng kiểu YouTube. Không có phong cách chương trình tạp kỹ.
-
-[Âm nhạc]
-Nhạc cổ điển hùng vĩ và tráng lệ gợi lên sự khởi đầu của vũ trụ hoặc lịch sử nhân loại. Không khí trí tuệ và bí ẩn. Cảm xúc dâng trào như trailer phim.
-
-[Quan trọng]
-Tham khảo nghiêm ngặt storyboard đã tải lên. Duy trì bố cục khung hình, sự thay đổi kỷ nguyên và hướng đi bộ. Video cuối cùng không được hiển thị khung storyboard, chú thích, giao diện người dùng, thông tin trang hoặc ghi chú sản xuất.
-
-[Negative Prompt]
-Chuyển động chậm, chuyển động không tự nhiên, nhảy múa, diễn xuất cường điệu, chuyển động như robot, cơ bắp không tự nhiên, chi bị biến dạng, khuôn mặt bị mờ, kết cấu chất lượng thấp, hướng giả tưởng, hướng khoa học viễn tưởng, đột biến, quay phim bạo lực, người đứng yên trong nền, độ phân giải thấp, biểu cảm kiểu anime, biểu cảm hài hước, đi bộ không tự nhiên, thay đổi góc máy, thay đổi nhân vật, nhòe chuyển động quá mức.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="Storyboard Phim Tài liệu về Sự tiến hóa của Con người">
-
-**[🎬 Xem video →](https://x.com/tanabe_fragm/status/2059458173615116314)**
-
-**Tác giả:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **Đã xuất bản:** May 27, 2026
-
----
-### Seasonal Months Portrait Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of a person reciting the months of the year with dynamic background changes corresponding to the seasons and holidays of each month.
-
-#### 📝 Prompt
-
-```
-A video of a man saying the months from Jan to Dec, one month every 1s. show the current month in the corner. No dialogue other than the month he says. The background location and scene changes every month to match it: Jan winter, feb valentine, march spring, April rain, May flowers, June beach, July fireworks, Aug tropical, Sept school/autumn, Oct Halloween, Nov cozy fall, Dec Christmas
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e209f73fac65c170036bd433d0575deb/thumbnails/thumbnail.jpg" width="600" alt="Seasonal Months Portrait Video Prompt">
-
-**[🎬 Xem video →](https://x.com/HarshithLucky3/status/2059259787444166919)**
-
-**Tác giả:** [Harshith](https://x.com/HarshithLucky3) | **Nguồn:** [Link](https://x.com/HarshithLucky3/status/2059259787444166919) | **Đã xuất bản:** May 26, 2026
-
----
-### Finger Counting with On-Screen Numbers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a video of a man counting to ten on his fingers, featuring specific instructions for timing, dialogue, and hand usage.
-
-#### 📝 Prompt
-
-```
-A video of a man counting to 10 on his fingers, show the number in the corner. A new number every 1s, no dialogue other than the numbers he says. He uses two hands for numbers bigger than 5.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a1964eae4132705b5c7819df0cae54e/thumbnails/thumbnail.jpg" width="600" alt="Finger Counting with On-Screen Numbers">
-
-**[🎬 Xem video →](https://x.com/fofrAI/status/2059230628911124880)**
-
-**Tác giả:** [fofr](https://x.com/fofrAI) | **Nguồn:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **Đã xuất bản:** May 26, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 1 prompt khác không hiển thị ở đây
+### 🎯 4 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2524,6 +2593,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-10T07:33:52.333Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-10T10:52:08.566Z</sub>
 
 </div>

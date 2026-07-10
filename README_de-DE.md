@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **101** |
+| 📝 Gesamtanzahl Prompts | **104** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-10** |
 
@@ -56,6 +56,171 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Kinematischer Image-to-Video Push-in
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein eleganter Motion-Prompt, der entwickelt wurde, um statischen vertikalen Bildern eine subtile filmische Tiefe und Bewegung zu verleihen.
+
+#### 📝 Prompt
+
+```
+langsamer kinematischer Push-in, sanfte Lichtbewegung, subtile Hintergrundbewegung, realistische Atmosphäre, 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075153215952162816/img/SXIdMfPuasbXTp8X.jpg" width="600" alt="Kinematischer Image-to-Video Push-in">
+
+**[🎬 Video ansehen →](https://x.com/getimg_ai/status/2075303977692836130)**
+
+**Autor:** [getimg.ai](https://x.com/getimg_ai) | **Quelle:** [Link](https://x.com/getimg_ai/status/2075303977692836130) | **Veröffentlicht:** Jul 9, 2026
+
+---
+### Sci-Fi-Roboter-Kampfsequenz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochwertiges filmisches Storyboard für eine 10-sekündige Sci-Fi-Sequenz mit einem Protagonisten und einem riesigen autonomen Roboter in einer verlassenen Stadt.
+
+#### 📝 Prompt
+
+```
+Erstelle eine 10-sekündige, ultra-fotorealistische filmische Sci-Fi-Actionsequenz, inspiriert von *The Creator*, *Oblivion*, *District 9* und *Elysium*.
+
+Verwende das **bereitgestellte männliche Referenzbild** als Protagonisten. Bewahre in jeder Einstellung die perfekte Identität, Gesichtskonsistenz, Frisur, Körperproportionen, Kleidungskontinuität und realistische Mimik.
+
+## STIL
+
+Hollywood-Blockbuster.
+
+Geerdete Technologie der nahen Zukunft.
+
+Fotorealistisch.
+
+Großformatiges IMAX.
+
+Unsichtbare VFX.
+
+Praktische Explosionen.
+
+Industrieller Realismus.
+
+## KAMERA
+
+ARRI ALEXA 65.
+
+Panavision Ultra Vista anamorphotische Objektive.
+
+Handkamera-Action gemischt mit stabilisierten Tracking-Aufnahmen.
+
+Natürliche Bewegungsunschärfe.
+
+## FORMAT
+
+9:16
+
+10 Sekunden
+
+5 Einstellungen.
+
+---
+
+### EINSTELLUNG 1 (0:00–0:02) — COUNTDOWN
+
+Ein gigantischer autonomer Kampfroboter steht inmitten einer verlassenen Stadt.
+
+Auf seiner beschädigten Brust erscheint ein Countdown.
+
+**00:10**
+
+Der Protagonist nähert sich langsam.
+
+---
+
+### EINSTELLUNG 2 (0:02–0:04) — ENTSCHEIDUNG
+
+Der Roboter schaltet sich plötzlich wieder ein.
+
+Seine Waffen beginnen auszufahren.
+
+Der Protagonist beginnt, direkt auf ihn zuzurennen.
+
+---
+
+### EINSTELLUNG 3 (0:04–0:06) — AUFPRALL
+
+Er macht einen Slides unter den Beinen des Roboters hindurch, während Raketen die Straße hinter ihm zerstören.
+
+Beton bricht auf.
+
+Autos überschlagen sich.
+
+Staub erfüllt die Luft.
+
+---
+
+### EINSTELLUNG 4 (0:06–0:08) — ABSCHALTUNG
+
+Der Protagonist erreicht den freigelegten Reaktor.
+
+Er rammt einen mechanischen Abschalt-Schlüssel in den Kern.
+
+Der Countdown friert sofort bei **00:01** ein.
+
+---
+
+### EINSTELLUNG 5 (0:08–0:10) — STILLE
+
+Der Roboter geht langsam in die Knie.
+
+Alle Lichter erlöschen.
+
+Die Stadt wird vollkommen still.
+
+Der Protagonist geht davon, ohne zurückzublicken.
+
+**Musik:** Industrieller Bass → Hybrid-Orchester → absolute Stille.
+
+---
+
+## EMOTIONALES ZIEL
+
+„Die Welt war nur eine Sekunde vor dem Untergang.“
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075176434931560448/img/r1khnveDSRsyTFKa.jpg" width="600" alt="Sci-Fi-Roboter-Kampfsequenz">
+
+**[🎬 Video ansehen →](https://x.com/vireonixx/status/2075176503265137135)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2075176503265137135) | **Veröffentlicht:** Jul 9, 2026
+
+---
+### Vom Mops zum Wolf: Eine Spiegelbild-Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Transformations-Prompt, bei dem ein niedlicher Mops im Spiegelbild einen majestätischen, wilden Wolf sieht.
+
+#### 📝 Prompt
+
+```
+Ein niedlicher Mops sitzt in einem Studio und blickt unter dramatischem, kontrastreichem Tageslicht in einen großen Spiegel. Im Spiegelbild starrt anstelle des Mopses ein wilder und majestätischer Wolf mit einem kraftvollen, selbstbewussten Ausdruck zurück. Die Kamera zoomt langsam heran und kontrastiert den stolzen Mops mit seinem wilden, uralten Spiegelbild. Humorvolle und zugleich inspirierende Stimmung, filmischer Stil, hyperdetailliert.
+
+10-Sekunden-Storyboard-Zeitplan
+
+0-3s | Das Setting: Eine Halbtotale eines entzückenden Mopses, der stolz vor einem großen Standspiegel sitzt. Die Beleuchtung ist hell und dramatisch, wie in einem professionellen Studio. Der Mops legt den Kopf schief und wirkt neugierig.
+
+3-7s | Die Enthüllung: Die Kamera schwenkt langsam und bewegt sich auf den Spiegel zu. Sobald das Spiegelbild klar wird, geht es fließend in einen massiven, majestätischen Grauwolf über, der mit wilden, selbstbewussten Augen zurückstarrt.
+
+7-10s | Kontrast & Höhepunkt: Ein Split-Screen oder eine Schulterperspektive unterstreicht den Kontrast: der niedliche Mops in der Realität wirkt stolz, gegenübergestellt dem kraftvollen, uralten Wolf im Spiegelbild. Die filmische Beleuchtung intensiviert sich, bevor das Bild schwarz ausblendet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075172932792254464/img/-JF8X4hZDCSe2lKd.jpg" width="600" alt="Vom Mops zum Wolf: Eine Spiegelbild-Transformation">
+
+**[🎬 Video ansehen →](https://x.com/michaelrabone/status/2075173227651887525)**
+
+**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Quelle:** [Link](https://x.com/michaelrabone/status/2075173227651887525) | **Veröffentlicht:** Jul 9, 2026
+
+---
 ### Animierte Reiseplakat-Postkarte
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2376,109 +2541,13 @@ Schnelle Animationssequenz durch 20 verschiedene Versionen dieses Logos. Halte e
 **Autor:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Quelle:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **Veröffentlicht:** May 27, 2026
 
 ---
-### Storyboard für eine Dokumentation über die menschliche Evolution
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein hochdetaillierter, filmischer Dokumentations-Prompt für Gemini Omni, der das Modell mithilfe eines Storyboard-Formats durch die Stadien der menschlichen Evolution von Primaten bis zum modernen Menschen führt.
-
-#### 📝 Prompt
-
-```
-Bitte erstellen Sie ein 10-sekündiges, vertikales (9:16) ultra-realistisches Live-Action-Dokumentationsvideo unter Verwendung des beigefügten Storyboard-Bildes als präzise visuelle Vorlage. Halten Sie sich strikt an die Komposition, die chronologische Reihenfolge, die Entwicklung der Charaktere und die Laufrichtung des Storyboards. Das Hinzufügen zusätzlicher Aufnahmen oder das Ändern der Sequenz ist untersagt.
-
-[Visueller Stil]
-Ultra-realistische Live-Action-Filmqualität. Dokumentationsstil mit hohem Budget, vergleichbar mit BBC Earth, NHK Special oder National Geographic. Realistische Texturen wie in historischen Reenactment-Filmen. Basiert auf natürlichem Licht. Filmische Beleuchtung. Fotorealistisch. Realistische Haut, Fell, Kleidung, Steinwerkzeuge und natürliche Umgebungen. Filmische Tiefe. Intellektuelle und majestätische Atmosphäre.
-
-[Videokomposition]
-Dauer: 10 Sekunden.
-Wechseln Sie zwischen den folgenden 6 Szenen des Storyboards in der Reihenfolge 1-6 mit gleicher Dauer:
-1. Affenmensch (früher Primat)
-2. Australopithecus
-3. Homo erectus
-4. Neandertaler
-5. Cro-Magnon-Mensch
-6. Moderner Mensch
-Bearbeiten Sie jede Szene so, dass sie natürlich ineinander übergeht. Betonen Sie das Gefühl der allmählichen Evolution im Laufe der Zeit.
-
-[Regieanweisungen für die Charaktere]
-Der Charakter läuft in allen Szenen kontinuierlich von links nach rechts. Die Gehgeschwindigkeit bleibt stets konstant. Stellen Sie die Kontinuität derselben Abstammungslinie über alle Szenen hinweg sicher.
-Mit der Evolution entwickeln sich Körperhaltung, Gesichtszüge, Körperbau, Behaarung, Kleidung, Werkzeuge und Gehstil auf natürliche Weise weiter. Dies soll die Evolution innerhalb derselben Linie darstellen und nicht den Wechsel zu einer anderen Person.
-
-[Kamera]
-Behalten Sie in allen Szenen dieselbe Seitenansicht bei. Halten Sie den Kameraabstand konstant. Zeigen Sie stets den gesamten Körper des Charakters. Folgen Sie der Gehbewegung flüssig. Übermäßige Kamerabewegungen sind untersagt. Natürliche Aufnahmen wie in einem Dokumentarfilm.
-
-[Regieanweisungen für den Hintergrund]
-Die Hintergrundumgebung entwickelt sich mit jeder Epoche ebenfalls natürlich weiter: Wald, Grasland, Trockenzone, Gletscherzone, Bergregion, moderne Stadt. Stellen Sie sicher, dass die Umweltveränderungen natürlich ineinander übergehen.
-
-[Untertitel]
-Blenden Sie kurze japanische Untertitel für jede Epoche ein.
-Inhalt: Affenmensch (früher Primat), Australopithecus, Homo erectus, Neandertaler, Cro-Magnon-Mensch, Moderner Mensch.
-Stil der Untertitel: Klein, elegant, dezent, halbtransparent, weiß oder hellgrau, zentriert am unteren Bildrand, dezentes Ein- und Ausblenden. Stil wie bei BBC Earth oder NHK Special. Minimale, elegante Typografie im Dokumentationsstil.
-Wichtig: Verdecken Sie den Charakter nicht durch Untertitel. Keine auffälligen Animationen. Keine Benutzeroberfläche im YouTube-Stil. Kein Stil von Unterhaltungssendungen.
-
-[Musik]
-Majestätische und großartige klassische Musik, die an den Beginn des Universums oder der Menschheitsgeschichte erinnert. Intellektuelle und geheimnisvolle Atmosphäre. Emotionaler Aufbau wie bei einem Filmtrailer.
-
-[Wichtig]
-Beziehen Sie sich strikt auf das hochgeladene Storyboard. Behalten Sie das Rahmenlayout, die Epochenwechsel und die Laufrichtung bei. Das finale Video darf weder den Storyboard-Rahmen, Anmerkungen, UI-Elemente, Seiteninformationen noch Produktionsnotizen enthalten.
-
-[Negativer Prompt]
-Zeitlupe, unnatürliche Bewegungen, Tanzen, übertriebene Schauspielerei, roboterhafte Bewegungen, unnatürliche Muskeln, deformierte Gliedmaßen, verschwommene Gesichter, minderwertige Texturen, Fantasy-Stil, Science-Fiction-Stil, Mutation, gewaltsame Kamerabewegungen, unbewegte Personen im Hintergrund, niedrige Auflösung, Anime-Stil, komische Mimik, unnatürlicher Gang, Wechsel des Kamerawinkels, wechselnde Charaktere, übermäßige Bewegungsunschärfe.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="Storyboard für eine Dokumentation über die menschliche Evolution">
-
-**[🎬 Video ansehen →](https://x.com/tanabe_fragm/status/2059458173615116314)**
-
-**Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Quelle:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **Veröffentlicht:** May 27, 2026
-
----
-### Seasonal Months Portrait Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of a person reciting the months of the year with dynamic background changes corresponding to the seasons and holidays of each month.
-
-#### 📝 Prompt
-
-```
-A video of a man saying the months from Jan to Dec, one month every 1s. show the current month in the corner. No dialogue other than the month he says. The background location and scene changes every month to match it: Jan winter, feb valentine, march spring, April rain, May flowers, June beach, July fireworks, Aug tropical, Sept school/autumn, Oct Halloween, Nov cozy fall, Dec Christmas
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e209f73fac65c170036bd433d0575deb/thumbnails/thumbnail.jpg" width="600" alt="Seasonal Months Portrait Video Prompt">
-
-**[🎬 Video ansehen →](https://x.com/HarshithLucky3/status/2059259787444166919)**
-
-**Autor:** [Harshith](https://x.com/HarshithLucky3) | **Quelle:** [Link](https://x.com/HarshithLucky3/status/2059259787444166919) | **Veröffentlicht:** May 26, 2026
-
----
-### Finger Counting with On-Screen Numbers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a video of a man counting to ten on his fingers, featuring specific instructions for timing, dialogue, and hand usage.
-
-#### 📝 Prompt
-
-```
-A video of a man counting to 10 on his fingers, show the number in the corner. A new number every 1s, no dialogue other than the numbers he says. He uses two hands for numbers bigger than 5.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a1964eae4132705b5c7819df0cae54e/thumbnails/thumbnail.jpg" width="600" alt="Finger Counting with On-Screen Numbers">
-
-**[🎬 Video ansehen →](https://x.com/fofrAI/status/2059230628911124880)**
-
-**Autor:** [fofr](https://x.com/fofrAI) | **Quelle:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **Veröffentlicht:** May 26, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 1 weitere Prompts hier nicht angezeigt
+### 🎯 4 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2524,6 +2593,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-10T07:33:56.372Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-10T10:52:10.836Z</sub>
 
 </div>

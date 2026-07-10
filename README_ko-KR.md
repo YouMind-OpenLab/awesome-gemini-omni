@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **101** |
+| 📝 총 프롬프트 수 | **104** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-10** |
 
@@ -56,6 +56,171 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 시네마틱 이미지 투 비디오 푸시인
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 정적인 세로형 이미지에 은은한 시네마틱 깊이감과 움직임을 더하도록 설계된 세련된 모션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+slow cinematic push-in, soft light movement, subtle background motion, realistic atmosphere, 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075153215952162816/img/SXIdMfPuasbXTp8X.jpg" width="600" alt="시네마틱 이미지 투 비디오 푸시인">
+
+**[🎬 비디오 보기 →](https://x.com/getimg_ai/status/2075303977692836130)**
+
+**작성자:** [getimg.ai](https://x.com/getimg_ai) | **출처:** [Link](https://x.com/getimg_ai/status/2075303977692836130) | **게시일:** Jul 9, 2026
+
+---
+### SF 로봇 전투 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 버려진 도시를 배경으로 주인공과 거대 자율주행 로봇이 등장하는 10초 분량의 하이엔드 시네마틱 스토리보드입니다.
+
+#### 📝 프롬프트
+
+```
+*The Creator*, *Oblivion*, *District 9*, *Elysium*에서 영감을 받은 10초 분량의 초고화질 시네마틱 SF 액션 시퀀스를 제작하세요.
+
+**제공된 남성 참조 이미지**를 주인공으로 사용하세요. 모든 샷에서 완벽한 정체성, 얼굴 일관성, 헤어스타일, 신체 비율, 의상 연속성 및 사실적인 표정을 유지하세요.
+
+## 스타일
+
+할리우드 블록버스터.
+
+현실적인 근미래 기술.
+
+포토리얼리스틱.
+
+대형 포맷 IMAX.
+
+보이지 않는 VFX.
+
+실제 폭발 효과.
+
+산업적 사실주의.
+
+## 카메라
+
+ARRI ALEXA 65.
+
+Panavision Ultra Vista 아나모픽 렌즈.
+
+핸드헬드 액션과 안정적인 트래킹의 혼합.
+
+자연스러운 모션 블러.
+
+## 형식
+
+9:16
+
+10초
+
+5개 샷.
+
+---
+
+### 샷 1 (0:00–0:02) — 카운트다운
+
+거대한 자율주행 전투 로봇이 버려진 도시 한복판에 서 있습니다.
+
+손상된 로봇의 가슴에 카운트다운이 나타납니다.
+
+**00:10**
+
+주인공이 천천히 다가갑니다.
+
+---
+
+### 샷 2 (0:02–0:04) — 결단
+
+로봇의 전원이 갑자기 다시 켜집니다.
+
+무기가 배치되기 시작합니다.
+
+주인공이 로봇을 향해 전력 질주하기 시작합니다.
+
+---
+
+### 샷 3 (0:04–0:06) — 충격
+
+주인공이 로봇의 다리 사이로 Slides 하며 지나가는 동안, 뒤편의 거리가 미사일로 파괴됩니다.
+
+콘크리트가 솟구칩니다.
+
+자동차가 뒤집힙니다.
+
+먼지가 공기를 가득 채웁니다.
+
+---
+
+### 샷 4 (0:06–0:08) — 셧다운
+
+주인공이 노출된 원자로에 도달합니다.
+
+그는 기계식 셧다운 키를 코어에 꽂아 넣습니다.
+
+카운트다운이 **00:01**에서 즉시 멈춥니다.
+
+---
+
+### 샷 5 (0:08–0:10) — 정적
+
+로봇이 천천히 무릎을 꿇습니다.
+
+모든 불빛이 꺼집니다.
+
+도시는 완전히 고요해집니다.
+
+주인공은 뒤도 돌아보지 않고 걸어 나갑니다.
+
+**음악:** 인더스트리얼 베이스 → 하이브리드 오케스트라 → 완전한 정적.
+
+---
+
+## 감정적 목표
+
+"세상이 멸망하기 1초 전이었다."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075176434931560448/img/r1khnveDSRsyTFKa.jpg" width="600" alt="SF 로봇 전투 시퀀스">
+
+**[🎬 비디오 보기 →](https://x.com/vireonixx/status/2075176503265137135)**
+
+**작성자:** [Virena](https://x.com/vireonixx) | **출처:** [Link](https://x.com/vireonixx/status/2075176503265137135) | **게시일:** Jul 9, 2026
+
+---
+### 퍼그에서 늑대로의 반전 변신
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 귀여운 퍼그가 거울 속에서 웅장하고 사나운 늑대의 모습을 마주하게 되는 창의적인 변신 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+스튜디오에 앉아 있는 귀여운 퍼그가 드라마틱하고 대비가 강한 주간 조명 아래 커다란 거울을 바라봅니다. 거울 속에는 퍼그 대신 사납고 웅장한 늑대가 강력하고 자신감 넘치는 표정으로 응시하고 있습니다. 카메라는 천천히 줌인하며, 자랑스러운 퍼그와 그 속에 비친 야생의 고대 늑대를 대비시킵니다. 유머러스하면서도 영감을 주는 분위기, 영화 같은 스타일, 초고화질 디테일.
+
+10초 스토리보드 타임라인
+
+0-3초 | 설정: 커다란 전신 거울 앞에 자랑스럽게 앉아 있는 사랑스러운 퍼그의 미디엄 샷. 전문 스튜디오처럼 밝고 드라마틱한 조명. 퍼그가 호기심 어린 표정으로 고개를 갸웃거립니다.
+
+3-7초 | 반전: 카메라가 천천히 팬(pan)하며 거울을 향해 다가갑니다. 거울 속 모습이 선명해지면서, 사납고 자신감 넘치는 눈빛으로 응시하는 거대하고 웅장한 회색 늑대의 모습으로 부드럽게 전환됩니다.
+
+7-10초 | 대비와 클라이맥스: 실제 귀여운 퍼그의 자랑스러운 모습과 거울 속 강력한 고대 늑대의 모습을 대비시키는 분할 화면 또는 오버 더 숄더 앵글. 영화 같은 조명이 강렬해지다가 암전됩니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075172932792254464/img/-JF8X4hZDCSe2lKd.jpg" width="600" alt="퍼그에서 늑대로의 반전 변신">
+
+**[🎬 비디오 보기 →](https://x.com/michaelrabone/status/2075173227651887525)**
+
+**작성자:** [Michael Rabone](https://x.com/michaelrabone) | **출처:** [Link](https://x.com/michaelrabone/status/2075173227651887525) | **게시일:** Jul 9, 2026
+
+---
 ### 애니메이션 여행 포스터 엽서
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2376,109 +2541,13 @@ GTA India 트레일러 생성
 **작성자:** [Greenfield Team!](https://x.com/Team_Greenfield) | **출처:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **게시일:** May 27, 2026
 
 ---
-### 인류 진화 다큐멘터리 스토리보드
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Gemini Omni을 위한 고도로 상세한 시네마틱 다큐멘터리 프롬프트로, 스토리보드 형식을 사용하여 영장류부터 현대 인류에 이르기까지의 인류 진화 과정을 모델이 따라갈 수 있도록 안내합니다.
-
-#### 📝 프롬프트
-
-```
-첨부된 스토리보드 이미지를 정확한 시각적 청사진으로 활용하여 10초 분량의 세로형 (9:16) 초현실적 실사 다큐멘터리 영상을 제작해 주세요. 스토리보드의 구도, 시대적 순서, 캐릭터의 진화 과정, 그리고 걷는 방향을 엄격하게 유지하십시오. 추가 샷을 삽입하거나 순서를 변경하는 것은 금지됩니다.
-
-[시각적 스타일]
-초현실적 실사 영화 품질. BBC Earth, NHK 스페셜, 내셔널 지오그래픽과 같은 고예산 다큐멘터리 스타일. 역사 재연 영화와 같은 사실적인 질감. 자연광 기반. 시네마틱 조명. 포토리얼리스틱. 사실적인 피부, 털, 의복, 석기 및 자연 환경. 시네마틱한 깊이감. 지적이고 웅장한 분위기.
-
-[영상 구성]
-길이: 10초.
-스토리보드의 다음 6개 장면을 1번부터 6번 순서대로 동일한 시간 동안 전환하십시오:
-1. 유인원 (초기 영장류)
-2. 오스트랄로피테쿠스
-3. 호모 에렉투스
-4. 네안데르탈인
-5. 크로마뇽인
-6. 현대 인류
-각 장면이 자연스럽게 연결되도록 편집하십시오. 시간이 흐름에 따라 점진적으로 진화하는 느낌을 강조하십시오.
-
-[캐릭터 연출]
-모든 장면에서 캐릭터는 왼쪽에서 오른쪽으로 계속 걸어갑니다. 걷는 속도는 항상 일정하게 유지하십시오. 모든 장면에서 동일한 혈통의 연속성을 보장하십시오.
-진화함에 따라 자세, 얼굴 특징, 체격, 체모의 양, 의복, 도구, 걷는 스타일이 자연스럽게 변화해야 합니다. 이는 다른 사람으로 바뀌는 것이 아니라 동일한 혈통 내에서의 진화를 표현하는 것이어야 합니다.
-
-[카메라]
-모든 장면에서 동일한 측면 구도를 유지하십시오. 카메라 거리를 일정하게 유지하십시오. 항상 캐릭터의 전신을 보여주십시오. 걷는 동작을 부드럽게 따라가십시오. 과도한 카메라 워킹은 금지됩니다. 다큐멘터리 영화와 같은 자연스러운 촬영.
-
-[배경 연출]
-배경 환경 또한 각 시대에 맞춰 자연스럽게 변화합니다: 숲, 초원, 건조 지대, 빙하 지대, 산악 지대, 현대 도시. 환경 변화가 자연스럽게 연결되도록 하십시오.
-
-[자막]
-각 시대에 대한 짧은 일본어 자막을 표시하십시오.
-내용: 유인원 (초기 영장류), 오스트랄로피테쿠스, 호모 에렉투스, 네안데르탈인, 크로마뇽인, 현대 인류.
-자막 스타일: 작고 우아하며 방해가 되지 않는 반투명한 흰색 또는 밝은 회색, 하단 중앙 배치, 절제된 페이드 인/아웃. BBC Earth 또는 NHK 스페셜 스타일. 미니멀하고 우아한 다큐멘터리 스타일의 타이포그래피.
-중요: 자막으로 캐릭터를 가리지 마십시오. 화려한 애니메이션 금지. 유튜브 스타일 UI 금지. 예능 프로그램 스타일 금지.
-
-[음악]
-우주의 시작이나 인류의 역사를 떠올리게 하는 웅장하고 장엄한 클래식 음악. 지적이고 신비로운 분위기. 영화 예고편과 같은 감정적 고조.
-
-[중요]
-업로드된 스토리보드를 엄격히 참조하십시오. 프레임 레이아웃, 시대 변화, 걷는 방향을 유지하십시오. 최종 영상에는 스토리보드 프레임, 주석, UI, 페이지 정보 또는 제작 노트가 표시되어서는 안 됩니다.
-
-[부정 프롬프트]
-슬로우 모션, 부자연스러운 움직임, 춤, 과장된 연기, 로봇 같은 움직임, 부자연스러운 근육, 변형된 사지, 흐릿한 얼굴, 저품질 질감, 판타지 연출, SF 연출, 돌연변이, 격렬한 카메라 워킹, 정지된 배경 인물, 낮은 해상도, 애니메이션 스타일 표현, 희극적인 표정, 부자연스러운 걸음걸이, 카메라 앵글 변경, 캐릭터 변경, 과도한 모션 블러.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="인류 진화 다큐멘터리 스토리보드">
-
-**[🎬 비디오 보기 →](https://x.com/tanabe_fragm/status/2059458173615116314)**
-
-**작성자:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **출처:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **게시일:** May 27, 2026
-
----
-### Seasonal Months Portrait Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of a person reciting the months of the year with dynamic background changes corresponding to the seasons and holidays of each month.
-
-#### 📝 프롬프트
-
-```
-A video of a man saying the months from Jan to Dec, one month every 1s. show the current month in the corner. No dialogue other than the month he says. The background location and scene changes every month to match it: Jan winter, feb valentine, march spring, April rain, May flowers, June beach, July fireworks, Aug tropical, Sept school/autumn, Oct Halloween, Nov cozy fall, Dec Christmas
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e209f73fac65c170036bd433d0575deb/thumbnails/thumbnail.jpg" width="600" alt="Seasonal Months Portrait Video Prompt">
-
-**[🎬 비디오 보기 →](https://x.com/HarshithLucky3/status/2059259787444166919)**
-
-**작성자:** [Harshith](https://x.com/HarshithLucky3) | **출처:** [Link](https://x.com/HarshithLucky3/status/2059259787444166919) | **게시일:** May 26, 2026
-
----
-### Finger Counting with On-Screen Numbers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a video of a man counting to ten on his fingers, featuring specific instructions for timing, dialogue, and hand usage.
-
-#### 📝 프롬프트
-
-```
-A video of a man counting to 10 on his fingers, show the number in the corner. A new number every 1s, no dialogue other than the numbers he says. He uses two hands for numbers bigger than 5.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a1964eae4132705b5c7819df0cae54e/thumbnails/thumbnail.jpg" width="600" alt="Finger Counting with On-Screen Numbers">
-
-**[🎬 비디오 보기 →](https://x.com/fofrAI/status/2059230628911124880)**
-
-**작성자:** [fofr](https://x.com/fofrAI) | **출처:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **게시일:** May 26, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 1 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 4 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2524,6 +2593,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-10T07:33:49.934Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-10T10:52:07.329Z</sub>
 
 </div>

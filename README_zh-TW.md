@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **101** |
+| 📝 提示詞總數 | **104** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-07-10** |
 
@@ -56,6 +56,171 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 電影感圖像轉影片推鏡效果
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個精緻的動態提示詞，旨在為靜態直式圖像增添細膩的電影感深度與動態效果。
+
+#### 📝 提示詞
+
+```
+緩慢的電影感推鏡，柔和的光影流動，細膩的背景動態，真實的氛圍感，9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075153215952162816/img/SXIdMfPuasbXTp8X.jpg" width="600" alt="電影感圖像轉影片推鏡效果">
+
+**[🎬 觀看視頻 →](https://x.com/getimg_ai/status/2075303977692836130)**
+
+**作者:** [getimg.ai](https://x.com/getimg_ai) | **來源:** [Link](https://x.com/getimg_ai/status/2075303977692836130) | **發布時間:** Jul 9, 2026
+
+---
+### 科幻機器人戰鬥場景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高階電影級分鏡腳本，描述主角與巨型自主機器人在廢棄城市中進行 10 秒科幻戰鬥的場景。
+
+#### 📝 提示詞
+
+```
+創作一段 10 秒超寫實電影級科幻動作片段，靈感源自《A.I. 創世者》、《遺落戰境》、《第九禁區》與《極樂世界》。
+
+請使用**提供的男性參考圖像**作為主角。在每個鏡頭中，務必保持完美的身分特徵、臉部一致性、髮型、身體比例、服裝連貫性以及真實的表情。
+
+## 風格
+
+好萊塢大片質感。
+
+寫實的近未來科技。
+
+照片級真實感。
+
+大畫幅 IMAX 規格。
+
+隱形視覺特效 (Invisible VFX)。
+
+實拍感爆炸效果。
+
+工業寫實風格。
+
+## 攝影
+
+ARRI ALEXA 65 攝影機。
+
+Panavision Ultra Vista 變形鏡頭。
+
+手持動作與穩定追蹤鏡頭交替。
+
+自然的動態模糊。
+
+## 格式
+
+9:16
+
+10 秒
+
+5 個鏡頭。
+
+---
+
+### 鏡頭 1 (0:00–0:02) — 倒數計時
+
+一台巨大的自主戰鬥機器人矗立在廢棄城市中央。
+
+它受損的胸口顯示著倒數計時。
+
+**00:10**
+
+主角緩緩靠近。
+
+---
+
+### 鏡頭 2 (0:02–0:04) — 決策
+
+機器人突然重新啟動。
+
+武器開始部署。
+
+主角直接朝它衝刺。
+
+---
+
+### 鏡頭 3 (0:04–0:06) — 衝擊
+
+他從機器人腿下滑過，身後的街道被飛彈摧毀。
+
+混凝土噴濺。
+
+車輛翻覆。
+
+塵土瀰漫。
+
+---
+
+### 鏡頭 4 (0:06–0:08) — 關機
+
+主角抵達暴露的反應爐。
+
+他將機械關機鑰匙插入核心。
+
+倒數計時瞬間凍結在 **00:01**。
+
+---
+
+### 鏡頭 5 (0:08–0:10) — 寂靜
+
+機器人緩緩跪下。
+
+所有燈光熄滅。
+
+城市陷入一片死寂。
+
+主角頭也不回地走開。
+
+**音樂：** 工業低音 → 混合管弦樂 → 完全寂靜。
+
+---
+
+## 情感目標
+
+「世界距離毀滅僅剩一秒。」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075176434931560448/img/r1khnveDSRsyTFKa.jpg" width="600" alt="科幻機器人戰鬥場景">
+
+**[🎬 觀看視頻 →](https://x.com/vireonixx/status/2075176503265137135)**
+
+**作者:** [Virena](https://x.com/vireonixx) | **來源:** [Link](https://x.com/vireonixx/status/2075176503265137135) | **發布時間:** Jul 9, 2026
+
+---
+### 巴哥犬變身野狼的鏡像轉化
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿創意的轉化提示詞，描述一隻可愛的巴哥犬在鏡中看見自己變成了威武兇猛的野狼。
+
+#### 📝 提示詞
+
+```
+一隻可愛的巴哥犬坐在攝影棚內，在戲劇性且高對比的日間光線下注視著一面大鏡子。鏡中的倒影並非巴哥犬，而是一隻兇猛且威嚴的野狼，正以充滿力量與自信的神情回望。鏡頭緩慢推進，將驕傲的巴哥犬與其狂野、古老的倒影形成鮮明對比。幽默且具啟發性的氛圍，電影級風格，超高細節。
+
+10 秒分鏡腳本時間軸
+
+0-3 秒 | 場景設置：中景鏡頭，一隻可愛的巴哥犬驕傲地坐在大型落地鏡前。光線明亮且具戲劇性，如同專業攝影棚。巴哥犬歪著頭，看起來充滿好奇。
+
+3-7 秒 | 揭曉時刻：鏡頭緩慢平移並向前推進至鏡面。隨著倒影變得清晰，畫面流暢地轉變為一隻巨大、威嚴的灰狼，正以兇猛且自信的眼神回望。
+
+7-10 秒 | 對比與高潮：透過分割畫面或過肩鏡頭強調對比：現實中可愛的巴哥犬看起來十分驕傲，與鏡中強大、古老的野狼形成強烈對比。電影級光影效果增強，隨後淡出至全黑。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075172932792254464/img/-JF8X4hZDCSe2lKd.jpg" width="600" alt="巴哥犬變身野狼的鏡像轉化">
+
+**[🎬 觀看視頻 →](https://x.com/michaelrabone/status/2075173227651887525)**
+
+**作者:** [Michael Rabone](https://x.com/michaelrabone) | **來源:** [Link](https://x.com/michaelrabone/status/2075173227651887525) | **發布時間:** Jul 9, 2026
+
+---
 ### 動畫旅遊海報明信片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2376,109 +2541,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **作者:** [Greenfield Team!](https://x.com/Team_Greenfield) | **來源:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **發布時間:** May 27, 2026
 
 ---
-### 人類演化紀錄片專案
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 這是一個為 Gemini Omni 設計的超詳細電影級紀錄片提示詞，透過專案格式引導模型呈現從靈長類到現代人類的演化過程。
-
-#### 📝 提示詞
-
-```
-請使用隨附的專案圖像作為精確的視覺藍圖，製作一段 10 秒鐘的垂直（9:16）超寫實真人紀錄片影片。請嚴格遵守專案的構圖、時間順序、角色演化以及行走方向。禁止添加額外鏡頭或更改順序。
-
-[視覺風格]
-超寫實真人電影畫質。具備 BBC Earth、NHK 特輯或國家地理頻道等高預算紀錄片風格。呈現如歷史重現影片般的逼真質感。基於自然光，採用電影級燈光。照片級真實感。真實的皮膚、毛髮、衣物、石器及自然環境。電影級景深。營造知性且宏偉的氛圍。
-
-[影片構圖]
-時長：10 秒。
-請依序切換專案中的 6 個場景（1-6），每個場景時長相等：
-1. 猿人（早期靈長類）
-2. 南方古猿
-3. 直立人
-4. 尼安德塔人
-5. 克羅馬儂人
-6. 現代人類
-編輯每個場景以確保自然銜接。強調隨時間推移而產生的漸進式演化感。
-
-[角色指導]
-角色在所有場景中皆持續由左向右行走。行走速度保持恆定。確保所有場景中同一血脈的連貫性。
-隨著演化，姿勢、面部特徵、體格、毛髮量、衣物、工具及行走風格應自然演變。這應表現為同一血脈內的演化，而非切換成不同的人。
-
-[攝影機]
-所有場景保持相同的側面構圖。攝影機距離保持恆定。始終呈現角色的全身。平滑地跟隨行走動作。禁止過度的攝影機運鏡。呈現如紀錄片般的自然拍攝感。
-
-[背景指導]
-背景環境隨時代自然演變：森林、草原、乾旱區、冰河區、山區、現代城市。確保環境變化自然銜接。
-
-[字幕]
-為每個時代顯示簡短的日文字幕。
-內容：猿人（早期靈長類）、南方古猿、直立人、尼安德塔人、克羅馬儂人、現代人類。
-字幕風格：小巧、優雅、不干擾畫面、半透明、白色或淺灰色、置於底部中央、低調的淡入淡出。採用 BBC Earth 或 NHK 特輯風格。極簡且優雅的紀錄片字體。
-重要：字幕不得遮擋角色。無華麗動畫。無 YouTube 風格 UI。無綜藝節目風格。
-
-[音樂]
-宏偉壯麗的古典音樂，喚起宇宙起源或人類歷史的感覺。知性且神秘的氛圍。如電影預告片般的情緒堆疊。
-
-[重要事項]
-請嚴格參考上傳的專案。維持畫面佈局、時代更迭及行走方向。最終影片不得顯示專案邊框、註釋、UI、頁面資訊或製作筆記。
-
-[負面提示詞]
-慢動作、不自然的動作、跳舞、誇張的表演、機器人般的動作、不自然的肌肉、畸形的肢體、模糊的面部、低品質紋理、奇幻風格、科幻風格、突變、劇烈的攝影機運鏡、靜止的背景人物、低解析度、動畫風格表情、滑稽表情、不自然的行走、攝影機角度變化、更換角色、過度的動態模糊。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="人類演化紀錄片專案">
-
-**[🎬 觀看視頻 →](https://x.com/tanabe_fragm/status/2059458173615116314)**
-
-**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **發布時間:** May 27, 2026
-
----
-### Seasonal Months Portrait Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of a person reciting the months of the year with dynamic background changes corresponding to the seasons and holidays of each month.
-
-#### 📝 提示詞
-
-```
-A video of a man saying the months from Jan to Dec, one month every 1s. show the current month in the corner. No dialogue other than the month he says. The background location and scene changes every month to match it: Jan winter, feb valentine, march spring, April rain, May flowers, June beach, July fireworks, Aug tropical, Sept school/autumn, Oct Halloween, Nov cozy fall, Dec Christmas
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e209f73fac65c170036bd433d0575deb/thumbnails/thumbnail.jpg" width="600" alt="Seasonal Months Portrait Video Prompt">
-
-**[🎬 觀看視頻 →](https://x.com/HarshithLucky3/status/2059259787444166919)**
-
-**作者:** [Harshith](https://x.com/HarshithLucky3) | **來源:** [Link](https://x.com/HarshithLucky3/status/2059259787444166919) | **發布時間:** May 26, 2026
-
----
-### Finger Counting with On-Screen Numbers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a video of a man counting to ten on his fingers, featuring specific instructions for timing, dialogue, and hand usage.
-
-#### 📝 提示詞
-
-```
-A video of a man counting to 10 on his fingers, show the number in the corner. A new number every 1s, no dialogue other than the numbers he says. He uses two hands for numbers bigger than 5.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a1964eae4132705b5c7819df0cae54e/thumbnails/thumbnail.jpg" width="600" alt="Finger Counting with On-Screen Numbers">
-
-**[🎬 觀看視頻 →](https://x.com/fofrAI/status/2059230628911124880)**
-
-**作者:** [fofr](https://x.com/fofrAI) | **來源:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **發布時間:** May 26, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 1 更多提示詞未在此顯示
+### 🎯 4 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2524,6 +2593,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-10T07:33:47.554Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-10T10:52:06.063Z</sub>
 
 </div>

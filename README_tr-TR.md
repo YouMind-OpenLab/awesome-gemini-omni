@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **101** |
+| 📝 Toplam İstem | **104** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-10** |
 
@@ -56,6 +56,171 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Görselden Videoya Yakınlaştırma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sabit dikey görsellere incelikli bir sinematik derinlik ve hareket katmak için tasarlanmış şık bir hareket komutu.
+
+#### 📝 İstem
+
+```
+yavaş sinematik yakınlaştırma, yumuşak ışık hareketi, hafif arka plan hareketi, gerçekçi atmosfer, 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075153215952162816/img/SXIdMfPuasbXTp8X.jpg" width="600" alt="Sinematik Görselden Videoya Yakınlaştırma">
+
+**[🎬 Videoyu izle →](https://x.com/getimg_ai/status/2075303977692836130)**
+
+**Yazar:** [getimg.ai](https://x.com/getimg_ai) | **Kaynak:** [Link](https://x.com/getimg_ai/status/2075303977692836130) | **Yayınlandı:** Jul 9, 2026
+
+---
+### Bilim Kurgu Robot Savaş Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Terk edilmiş bir şehirde geçen, bir ana karakter ve devasa otonom bir robotun yer aldığı 10 saniyelik bilim kurgu sekansı için üst düzey sinematik storyboard.
+
+#### 📝 İstem
+
+```
+The Creator, Oblivion, District 9 ve Elysium'dan esinlenen 10 saniyelik, ultra fotogerçekçi sinematik bilim kurgu aksiyon sekansı oluşturun.
+
+Ana karakter olarak **sağlanan erkek referans görselini** kullanın. Her çekim boyunca mükemmel kimlik, yüz tutarlılığı, saç stili, vücut oranları, kıyafet devamlılığı ve gerçekçi ifadeleri koruyun.
+
+## STİL
+
+Hollywood gişe filmi.
+
+Gerçekçi yakın gelecek teknolojisi.
+
+Fotogerçekçi.
+
+Büyük format IMAX.
+
+Görünmez görsel efektler (VFX).
+
+Gerçekçi patlamalar.
+
+Endüstriyel gerçekçilik.
+
+## KAMERA
+
+ARRI ALEXA 65.
+
+Panavision Ultra Vista anamorfik lensler.
+
+Elde çekim aksiyon ve stabilize takip çekimleri karışımı.
+
+Doğal hareket bulanıklığı.
+
+## FORMAT
+
+9:16
+
+10 saniye
+
+5 çekim.
+
+---
+
+### ÇEKİM 1 (0:00–0:02) — GERİ SAYIM
+
+Devasa bir otonom savaş robotu, terk edilmiş bir şehrin ortasında duruyor.
+
+Hasarlı göğsünde bir geri sayım beliriyor.
+
+**00:10**
+
+Ana karakter yavaşça yaklaşıyor.
+
+---
+
+### ÇEKİM 2 (0:02–0:04) — KARAR
+
+Robot aniden tekrar çalışmaya başlıyor.
+
+Silahları konuşlanmaya başlıyor.
+
+Ana karakter doğrudan ona doğru koşmaya başlıyor.
+
+---
+
+### ÇEKİM 3 (0:04–0:06) — ETKİ
+
+O, robotun bacaklarının altından kayarken füzeler arkasındaki caddeyi yok ediyor.
+
+Beton parçaları havaya uçuyor.
+
+Arabalar takla atıyor.
+
+Toz havayı kaplıyor.
+
+---
+
+### ÇEKİM 4 (0:06–0:08) — KAPANIŞ
+
+Ana karakter açıkta kalan reaktöre ulaşıyor.
+
+Mekanik bir kapatma anahtarını çekirdeğe saplıyor.
+
+Geri sayım anında **00:01**'de donuyor.
+
+---
+
+### ÇEKİM 5 (0:08–0:10) — SESSİZLİK
+
+Robot yavaşça diz çöküyor.
+
+Tüm ışıklar sönüyor.
+
+Şehir tamamen sessizliğe bürünüyor.
+
+Ana karakter arkasına bakmadan yürüyüp gidiyor.
+
+**Müzik:** Endüstriyel bas → hibrit orkestra → tam sessizlik.
+
+---
+
+## DUYGUSAL HEDEF
+
+"Dünya sona ermeye bir saniye uzaklıktaydı."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075176434931560448/img/r1khnveDSRsyTFKa.jpg" width="600" alt="Bilim Kurgu Robot Savaş Sekansı">
+
+**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2075176503265137135)**
+
+**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2075176503265137135) | **Yayınlandı:** Jul 9, 2026
+
+---
+### Pug'dan Kurda Yansıma Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sevimli bir pug'ın aynadaki yansımasında görkemli ve vahşi bir kurt gördüğü yaratıcı bir dönüşüm istemi.
+
+#### 📝 İstem
+
+```
+Sevimli bir pug, stüdyo ortamında, dramatik ve yüksek kontrastlı gün ışığı altında büyük bir aynaya bakıyor. Aynadaki yansımada ise pug yerine, güçlü ve kendinden emin bir ifadeyle geri bakan vahşi ve görkemli bir kurt yer alıyor. Kamera yavaşça yakınlaşarak, gururlu pug ile onun vahşi ve kadim yansıması arasındaki tezatlığı vurguluyor. Mizahi ama ilham verici bir atmosfer, sinematik tarz, hiper detaylı.
+
+10 Saniyelik Storyboard Zaman Çizelgesi
+
+0-3 sn | Kurulum: Büyük bir boy aynasının önünde gururla oturan sevimli bir pug'ın orta ölçekli çekimi. Aydınlatma, profesyonel bir stüdyo gibi parlak ve dramatik. Pug, meraklı bir şekilde başını yana eğiyor.
+
+3-7 sn | Ortaya Çıkış: Kamera yavaşça aynaya doğru kayıyor ve ilerliyor. Yansıma netleştikçe, görüntü akıcı bir geçişle, vahşi ve kendinden emin gözlerle geri bakan devasa, görkemli bir gri kurda dönüşüyor.
+
+7-10 sn | Tezatlık ve Doruk Noktası: Gerçek hayattaki sevimli pug'ın gururlu duruşu ile yansımadaki güçlü, kadim kurt arasındaki tezatlığı vurgulayan bölünmüş ekran veya omuz üstü çekim açısı. Sinematik aydınlatma yoğunlaşıyor ve ardından ekran karararak sona eriyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075172932792254464/img/-JF8X4hZDCSe2lKd.jpg" width="600" alt="Pug'dan Kurda Yansıma Dönüşümü">
+
+**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2075173227651887525)**
+
+**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2075173227651887525) | **Yayınlandı:** Jul 9, 2026
+
+---
 ### Animasyonlu Seyahat Posteri Kartpostalı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2376,109 +2541,13 @@ Bu logonun 20 farklı versiyonu arasında hızlı geçiş yapan bir animasyon. S
 **Yazar:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Kaynak:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **Yayınlandı:** May 27, 2026
 
 ---
-### İnsan Evrimi Belgeseli Storyboard'u
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Gemini Omni için, primatlardan modern insana kadar insan evriminin aşamalarını bir storyboard formatı kullanarak modele rehberlik eden, son derece detaylı ve sinematik bir belgesel istemi.
-
-#### 📝 İstem
-
-```
-Lütfen ekteki storyboard görselini doğru bir görsel taslak olarak kullanarak 10 saniyelik, dikey (9:16) formatta, ultra gerçekçi bir canlı aksiyon belgesel videosu oluşturun. Storyboard'un kompozisyonuna, kronolojik sırasına, karakter evrimine ve yürüme yönüne kesinlikle sadık kalın. Ek çekimler eklemek veya dizilimi değiştirmek yasaktır.
-
-[Görsel Stil]
-Ultra gerçekçi canlı aksiyon film kalitesi. BBC Earth, NHK Special veya National Geographic gibi yüksek bütçeli belgesel tarzı. Tarihi canlandırma filmleri gibi gerçekçi doku. Doğal ışık tabanlı. Sinematik aydınlatma. Fotogerçekçi. Gerçekçi cilt, kürk, kıyafet, taş aletler ve doğal ortamlar. Sinematik derinlik. Entelektüel ve görkemli bir atmosfer.
-
-[Video Kompozisyonu]
-Süre: 10 saniye.
-Storyboard'daki aşağıdaki 6 sahne arasında, eşit sürelerle 1'den 6'ya kadar sırayla geçiş yapın:
-1. İnsansı maymun (erken primat)
-2. Australopithecus
-3. Homo erectus
-4. Neandertal
-5. Cro-Magnon
-6. Modern İnsan
-Her sahneyi doğal bir şekilde bağlanacak şekilde düzenleyin. Zaman içindeki kademeli evrim hissini vurgulayın.
-
-[Karakter Yönlendirmesi]
-Karakter tüm sahnelerde soldan sağa doğru yürümeye devam eder. Yürüme hızı her zaman sabittir. Tüm sahneler boyunca aynı soyun devamlılığını sağlayın.
-Karakter evrimleştikçe duruşu, yüz hatları, fiziği, saç miktarı, kıyafetleri, aletleri ve yürüyüş tarzı doğal bir şekilde evrilmelidir. Bu, farklı bir kişiye geçiş değil, aynı soy içindeki evrimin bir ifadesi olmalıdır.
-
-[Kamera]
-Tüm sahnelerde aynı yandan görünüm kompozisyonunu koruyun. Kamera mesafesini sabit tutun. Karakterin tüm vücudunu her zaman gösterin. Yürüme hareketini akıcı bir şekilde takip edin. Aşırı kamera hareketleri yasaktır. Belgesel filmi gibi doğal çekim.
-
-[Arka Plan Yönlendirmesi]
-Arka plan ortamı da her çağla birlikte doğal bir şekilde evrilir: Orman, Çayır, Kurak bölge, Buzul bölgesi, Dağlık bölge, Modern şehir. Çevresel değişimlerin doğal bir şekilde birbirine bağlandığından emin olun.
-
-[Altyazılar]
-Her çağ için kısa Japonca altyazılar görüntüleyin.
-İçerik: İnsansı maymun (erken primat), Australopithecus, Homo erectus, Neandertal, Cro-Magnon, Modern İnsan.
-Altyazı Stili: Küçük, zarif, rahatsız etmeyen, yarı şeffaf, beyaz veya açık gri, alt kısımda ortalanmış, hafif bir giriş/çıkış efektiyle. BBC Earth veya NHK Special tarzı. Minimalist ve zarif belgesel tarzı tipografi.
-Önemli: Karakteri altyazılarla kapatmayın. Gösterişli animasyonlar yok. YouTube tarzı arayüz yok. Eğlence programı tarzı yok.
-
-[Müzik]
-Evrenin veya insanlık tarihinin başlangıcını çağrıştıran görkemli ve büyük klasik müzik. Entelektüel ve gizemli bir atmosfer. Film fragmanı gibi duygusal bir yükseliş.
-
-[Önemli]
-Kesinlikle yüklenen storyboard'a başvurun. Çerçeve düzenini, çağ değişimlerini ve yürüme yönünü koruyun. Nihai video; storyboard çerçevesini, açıklamaları, arayüzü, sayfa bilgilerini veya yapım notlarını içermemelidir.
-
-[Negatif İstem]
-Ağır çekim, doğal olmayan hareket, dans, abartılı oyunculuk, robotik hareket, doğal olmayan kaslar, deforme olmuş uzuvlar, bulanık yüzler, düşük kaliteli dokular, fantastik yönelim, bilim kurgu yönelimi, mutasyon, şiddetli kamera hareketleri, sabit duran arka plan insanları, düşük çözünürlük, anime tarzı ifade, komik ifade, doğal olmayan yürüyüş, kamera açısı değişiklikleri, karakter değişimi, aşırı hareket bulanıklığı.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="İnsan Evrimi Belgeseli Storyboard'u">
-
-**[🎬 Videoyu izle →](https://x.com/tanabe_fragm/status/2059458173615116314)**
-
-**Yazar:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **Yayınlandı:** May 27, 2026
-
----
-### Seasonal Months Portrait Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of a person reciting the months of the year with dynamic background changes corresponding to the seasons and holidays of each month.
-
-#### 📝 İstem
-
-```
-A video of a man saying the months from Jan to Dec, one month every 1s. show the current month in the corner. No dialogue other than the month he says. The background location and scene changes every month to match it: Jan winter, feb valentine, march spring, April rain, May flowers, June beach, July fireworks, Aug tropical, Sept school/autumn, Oct Halloween, Nov cozy fall, Dec Christmas
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e209f73fac65c170036bd433d0575deb/thumbnails/thumbnail.jpg" width="600" alt="Seasonal Months Portrait Video Prompt">
-
-**[🎬 Videoyu izle →](https://x.com/HarshithLucky3/status/2059259787444166919)**
-
-**Yazar:** [Harshith](https://x.com/HarshithLucky3) | **Kaynak:** [Link](https://x.com/HarshithLucky3/status/2059259787444166919) | **Yayınlandı:** May 26, 2026
-
----
-### Finger Counting with On-Screen Numbers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a video of a man counting to ten on his fingers, featuring specific instructions for timing, dialogue, and hand usage.
-
-#### 📝 İstem
-
-```
-A video of a man counting to 10 on his fingers, show the number in the corner. A new number every 1s, no dialogue other than the numbers he says. He uses two hands for numbers bigger than 5.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a1964eae4132705b5c7819df0cae54e/thumbnails/thumbnail.jpg" width="600" alt="Finger Counting with On-Screen Numbers">
-
-**[🎬 Videoyu izle →](https://x.com/fofrAI/status/2059230628911124880)**
-
-**Yazar:** [fofr](https://x.com/fofrAI) | **Kaynak:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **Yayınlandı:** May 26, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 1 burada gösterilmeyen daha fazla istem
+### 🎯 4 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2524,6 +2593,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-10T07:34:01.545Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-10T10:52:14.240Z</sub>
 
 </div>

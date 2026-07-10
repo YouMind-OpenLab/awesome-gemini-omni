@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **101** |
+| 📝 Total Prompts | **104** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-10** |
 
@@ -56,6 +56,171 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Image-to-Video Push-In
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sleek motion prompt designed to add subtle cinematic depth and movement to a static vertical image.
+
+#### 📝 Prompt
+
+```
+slow cinematic push-in, soft light movement, subtle background motion, realistic atmosphere, 9:16
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075153215952162816/img/SXIdMfPuasbXTp8X.jpg" width="600" alt="Cinematic Image-to-Video Push-In">
+
+**[🎬 Watch Video →](https://x.com/getimg_ai/status/2075303977692836130)**
+
+**Author:** [getimg.ai](https://x.com/getimg_ai) | **Source:** [Link](https://x.com/getimg_ai/status/2075303977692836130) | **Published:** Jul 9, 2026
+
+---
+### Sci-Fi Robot Combat Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-end cinematic storyboard for a 10-second sci-fi sequence involving a protagonist and a giant autonomous robot in an abandoned city.
+
+#### 📝 Prompt
+
+```
+Create a 10-second ultra-photorealistic cinematic sci-fi action sequence inspired by *The Creator*, *Oblivion*, *District 9*, and *Elysium*.
+
+Use the **provided male reference image** as the protagonist. Maintain perfect identity, facial consistency, hairstyle, body proportions, clothing continuity, and realistic expressions throughout every shot.
+
+## STYLE
+
+Hollywood blockbuster.
+
+Grounded near-future technology.
+
+Photorealistic.
+
+Large-format IMAX.
+
+Invisible VFX.
+
+Practical explosions.
+
+Industrial realism.
+
+## CAMERA
+
+ARRI ALEXA 65.
+
+Panavision Ultra Vista anamorphic lenses.
+
+Handheld action mixed with stabilized tracking.
+
+Natural motion blur.
+
+## FORMAT
+
+9:16
+
+10 seconds
+
+5 shots.
+
+---
+
+### SHOT 1 (0:00–0:02) — COUNTDOWN
+
+A gigantic autonomous combat robot stands in the middle of an abandoned city.
+
+A countdown appears on its damaged chest.
+
+**00:10**
+
+The protagonist slowly approaches.
+
+---
+
+### SHOT 2 (0:02–0:04) — DECISION
+
+The robot suddenly powers back on.
+
+Its weapons begin deploying.
+
+The protagonist starts sprinting directly toward it.
+
+---
+
+### SHOT 3 (0:04–0:06) — IMPACT
+
+He slides beneath the robot's legs while missiles destroy the street behind him.
+
+Concrete erupts.
+
+Cars flip.
+
+Dust fills the air.
+
+---
+
+### SHOT 4 (0:06–0:08) — SHUTDOWN
+
+The protagonist reaches the exposed reactor.
+
+He slams a mechanical shutdown key into the core.
+
+The countdown instantly freezes at **00:01**.
+
+---
+
+### SHOT 5 (0:08–0:10) — SILENCE
+
+The robot slowly kneels.
+
+All lights fade.
+
+The city becomes completely silent.
+
+The protagonist walks away without looking back.
+
+**Music:** Industrial bass → hybrid orchestra → complete silence.
+
+---
+
+## EMOTIONAL TARGET
+
+"The world was one second away from ending."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075176434931560448/img/r1khnveDSRsyTFKa.jpg" width="600" alt="Sci-Fi Robot Combat Sequence">
+
+**[🎬 Watch Video →](https://x.com/vireonixx/status/2075176503265137135)**
+
+**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2075176503265137135) | **Published:** Jul 9, 2026
+
+---
+### Pug to Wolf Reflection Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative transformation prompt where a cute pug sees a majestic, fierce wolf in its mirror reflection.
+
+#### 📝 Prompt
+
+```
+A cute pug sits in a studio looking into a large mirror under dramatic, high-contrast daytime lighting. Inside the mirror reflection, instead of the pug, a fierce and majestic wolf stares back with a powerful, confident expression. The camera slowly zooms in, contrasting the proud pug with its wild, ancient reflection. Humorous yet inspirational mood, cinematic style, hyper-detailed.
+
+10-Second Storyboard Timeline
+
+0-3s | The Setup: A medium shot of an adorable pug sitting proudly in front of a large floor mirror. The lighting is bright and dramatic, like a professional studio. The pug tilts its head, looking curious.
+
+3-7s | The Reveal: The camera slowly pans and tracks forward towards the mirror. As the reflection becomes clear, it smoothly transitions to show a massive, majestic grey wolf staring back with fierce, confident eyes.
+
+7-10s | The Contrast & Climax: A split-screen or over-the-shoulder angle highlighting the contrast: the real-life cute pug looking proud, juxtaposed against the powerful, ancient wolf in the reflection. The cinematic lighting intensifies before fading to black.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075172932792254464/img/-JF8X4hZDCSe2lKd.jpg" width="600" alt="Pug to Wolf Reflection Transformation">
+
+**[🎬 Watch Video →](https://x.com/michaelrabone/status/2075173227651887525)**
+
+**Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2075173227651887525) | **Published:** Jul 9, 2026
+
+---
 ### Animated Travel Poster Postcard
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -75,11 +240,11 @@ turn this travel poster into a moving postcard: clouds drift, gulls cross frame,
 **Author:** [getimg.ai](https://x.com/getimg_ai) | **Source:** [Link](https://x.com/getimg_ai/status/2074948887698096374) | **Published:** Jul 8, 2026
 
 ---
-### Wild West Dinosaur Adventure Sequence
+### Cowboy and Dinosaurs Cinematic Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic series of video prompts describing a prehistoric Wild West where cowboys ride dinosaurs through canyons and plains, featuring sunrise and sunset lighting.
+> A comprehensive cinematic video prompt for Gemini Omni featuring a cowboy interacting with various dinosaurs across different times of day.
 
 #### 📝 Prompt
 
@@ -95,7 +260,7 @@ Dramatic silhouette shot at night. A cowboy stands in the center aiming a revolv
 Epic wide silhouette shot during a golden hour sunset. A cowboy rides atop a massive Tyrannosaurus Rex that is walking slowly across the flat desert plain. The massive sun sits low on the horizon, creating a striking and beautiful final image.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074810577088557056/img/WEj2e5ODrGlSwDyN.jpg" width="600" alt="Wild West Dinosaur Adventure Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074810577088557056/img/WEj2e5ODrGlSwDyN.jpg" width="600" alt="Cowboy and Dinosaurs Cinematic Sequence">
 
 **[🎬 Watch Video →](https://x.com/michaelrabone/status/2074810751898841468)**
 
@@ -179,11 +344,11 @@ No dialogue.
 **Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2074666384051904670) | **Published:** Jul 8, 2026
 
 ---
-### Surreal Giant Eye Landscape Video
+### Surreal Blinking Eye Landscape
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic video prompt for Gemini generating a surreal landscape featuring a giant blinking eye and small human explorers, complete with a detailed 10-second movement timeline.
+> A detailed 10-second video generation prompt for a surreal landscape with a giant eye, featuring specific movement instructions and shot sequences.
 
 #### 📝 Prompt
 
@@ -192,14 +357,14 @@ Photorealistic surreal landscape. A giant, highly detailed human eye with a blue
 
 Timeline (10 seconds):
 
-0-3s: Extreme close-up of the giant central eye blinking slowly. Focus on photorealistic iris textures and blood vessels.
+0-3s: Extreme close-up of the giant central eye blinking slowly. Focus on photorealistic iris textures and blood vessels.
 
-3-6s: Camera pulls back slowly. The surrounding red, fleshy star-structures begin to pulsate. The smaller eyes dart around frantically.
+3-6s: Camera pulls back slowly. The surrounding red, fleshy star-structures begin to pulsate. The smaller eyes dart around frantically.
 
-6-10s: Wide shot establishing the scale. Tiny human figures walk across the fleshy terrain, examining the structures as all the eyes focus on the camera.
+6-10s: Wide shot establishing the scale. Tiny human figures walk across the fleshy terrain, examining the structures as all the eyes focus on the camera.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074493433201221632/img/OO2qM-98wUw2rXi4.jpg" width="600" alt="Surreal Giant Eye Landscape Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2074493433201221632/img/OO2qM-98wUw2rXi4.jpg" width="600" alt="Surreal Blinking Eye Landscape">
 
 **[🎬 Watch Video →](https://x.com/michaelrabone/status/2074493655843258788)**
 
@@ -2376,88 +2541,13 @@ Rapid fire animation through 20 different versions of this logo. Keep it black o
 **Author:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Source:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **Published:** May 27, 2026
 
 ---
-### Cinematic Human Evolution Documentary
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A comprehensive prompt for generating a highly realistic documentary video showing the evolution of humanity from early primates to modern humans, maintaining consistent side-view walking motion and period-accurate backgrounds.
-
-#### 📝 Prompt
-
-```
-Please use the attached storyboard image as an exact visual blueprint to create a 10-second vertical (9:16) ultra-realistic live-action documentary video. Strictly maintain the storyboard composition, chronological order, human evolution, and walking direction. Adding extra shots or changing the sequence is prohibited.
-
---- [Visual Style] --- Ultra-realistic live-action film quality. High-budget documentary footage like BBC Earth, NHK Special, or National Geographic. Realistic texture like a historical recreation film. Natural light-based. Cinematic lighting. Photorealistic. Realistic skin, fur, clothing, stone tools, and natural environments. Cinematic depth. Intellectual and solemn atmosphere.
-
---- [Video Structure] --- Video length is 10 seconds. Switch through the following 6 scenes from the storyboard in order from 1 to 6 with equal length: 1. Ape-man (Early Primate), 2. Australopithecus, 3. Homo erectus, 4. Neanderthal, 5. Cro-Magnon, 6. Modern Human. Edit each scene to connect naturally. Emphasize the sense of gradual evolution over time.
-
---- [Character Direction] --- Characters walk from left to right in all scenes. Walking speed is always constant. Feel the continuity of the same lineage across all scenes. As evolution progresses, posture, facial features, physique, hair volume, clothing, tools, and walking style naturally evolve. Express evolution within the same lineage, not a switch to a different person.
-
---- [Camera] --- Maintain the same side-view composition in all scenes. Keep camera distance constant. Always show the character's full body. Smoothly track the walking motion. Violent camerawork is prohibited. Natural documentary-style filming.
-
---- [Background Direction] --- The background environment naturally evolves with each era: Forest, Grassland, Dry Zone, Glacial Zone, Mountainous Zone, Modern City. Ensure environmental changes connect naturally.
-
---- [Captions] --- Display short Japanese captions indicating the era in each scene. Content: Ape-man (Early Primate), Australopithecus, Homo erectus, Neanderthal, Cro-Magnon, Modern Human. Style: Small, elegant, non-intrusive, semi-transparent, white or light gray, centered at the bottom, modest fade-in/fade-out, BBC Earth/NHK style, Minimal elegant documentary-style typography. Important: Do not hide people with captions. No flashy animations. No YouTube-style UI. No variety show style.
-
---- [Music] --- Solemn and grand classical music evoking the beginning of the universe and human history. Intellectual and mysterious atmosphere. Emotional buildup like a movie trailer.
-
---- [Important] --- Strictly refer to the uploaded storyboard. Maintain frame layout, era changes, and walking direction. Do not show storyboard frames, annotations, UI, page info, or production notes in the final video.
-
---- [Negative Prompt] --- Slow motion, unnatural movement, dancing, exaggerated acting, robotic movement, unnatural muscles, deformed limbs, blurred face, low-quality texture, fantasy elements, sci-fi elements, mutation, violent camerawork, static background characters, low resolution, anime-style expression, comical expression, unnatural walking, camera angle change, person becomes a different person, excessive motion blur.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/da5af2710144313b8d9111ba936d32cc/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Human Evolution Documentary">
-
-**[🎬 Watch Video →](https://x.com/tanabe_fragm/status/2059458173615116314)**
-
-**Author:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2059458173615116314) | **Published:** May 27, 2026
-
----
-### Seasonal Months Portrait Video Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a video of a person reciting the months of the year with dynamic background changes corresponding to the seasons and holidays of each month.
-
-#### 📝 Prompt
-
-```
-A video of a man saying the months from Jan to Dec, one month every 1s. show the current month in the corner. No dialogue other than the month he says. The background location and scene changes every month to match it: Jan winter, feb valentine, march spring, April rain, May flowers, June beach, July fireworks, Aug tropical, Sept school/autumn, Oct Halloween, Nov cozy fall, Dec Christmas
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/e209f73fac65c170036bd433d0575deb/thumbnails/thumbnail.jpg" width="600" alt="Seasonal Months Portrait Video Prompt">
-
-**[🎬 Watch Video →](https://x.com/HarshithLucky3/status/2059259787444166919)**
-
-**Author:** [Harshith](https://x.com/HarshithLucky3) | **Source:** [Link](https://x.com/HarshithLucky3/status/2059259787444166919) | **Published:** May 26, 2026
-
----
-### Finger Counting with On-Screen Numbers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a video of a man counting to ten on his fingers, featuring specific instructions for timing, dialogue, and hand usage.
-
-#### 📝 Prompt
-
-```
-A video of a man counting to 10 on his fingers, show the number in the corner. A new number every 1s, no dialogue other than the numbers he says. He uses two hands for numbers bigger than 5.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9a1964eae4132705b5c7819df0cae54e/thumbnails/thumbnail.jpg" width="600" alt="Finger Counting with On-Screen Numbers">
-
-**[🎬 Watch Video →](https://x.com/fofrAI/status/2059230628911124880)**
-
-**Author:** [fofr](https://x.com/fofrAI) | **Source:** [Link](https://x.com/fofrAI/status/2059230628911124880) | **Published:** May 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 1 more prompts not shown here
+### 🎯 4 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2503,6 +2593,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T07:33:45.658Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-10T10:52:04.874Z</sub>
 
 </div>
