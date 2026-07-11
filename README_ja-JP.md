@@ -56,340 +56,340 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
-### Cinematic Product Orbit Ad
+### シネマティックな製品回転広告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple but effective prompt for generating a premium product advertisement with smooth camera movement and professional lighting effects.
+> 滑らかなカメラワークとプロフェッショナルな照明効果を備えた、高品質な製品広告を生成するためのシンプルかつ効果的なプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+カメラが製品の周りをゆっくりと回転し、表面に反射が移動する、空気中に漂う柔らかな粒子、プレミアムな広告の雰囲気
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Cinematic Product Orbit Ad">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="シネマティックな製品回転広告">
 
 **[🎬 動画を見る →](https://x.com/getimg_ai/status/2075683226681831794)**
 
 **作者:** [getimg.ai](https://x.com/getimg_ai) | **ソース:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **公開日:** Jul 10, 2026
 
 ---
-### Cinematic Martial Arts Fight Scene
+### シネマティックな格闘アクションシーン
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive video prompt for a 10-second martial arts sequence featuring technical camera details, audio design, and character identity preservation.
+> 技術的なカメラ設定、音響デザイン、キャラクターの同一性保持を盛り込んだ、10 秒間の格闘アクション動画用プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Create a 10-second ultra-photorealistic cinematic martial arts sequence inspired by classic Hong Kong action cinema, modern stunt choreography, and premium Hollywood filmmaking.
+香港のクラシックなアクション映画、現代のスタント・コレオグラフィー、そして最高品質のハリウッド映画にインスパイアされた、10 秒間の超写実的なシネマティック格闘アクションを作成してください。
 
-Use the provided male reference image as the protagonist.
+提供された男性の参照画像を主人公として使用してください。
 
-Maintain absolute identity consistency throughout every frame.
+すべてのフレームを通じて、完璧な同一性を維持してください。
 
-Preserve exactly:
+以下を正確に保持すること：
 
-* Facial structure
-* Hairstyle
-* Eye shape
-* Skin tone
-* Body proportions
-* Facial hair (if present)
-* Clothing continuity
-* Expressions
-* Accessories
+* 顔の構造
+* 髪型
+* 目の形
+* 肌のトーン
+* 体格
+* 顔の毛（存在する場合）
+* 服装の連続性
+* 表情
+* アクセサリー
 
-The protagonist must remain perfectly recognizable during every movement, close-up, slow-motion sequence, and camera transition.
-
----
-
-# STYLE
-
-Ultra-photorealistic.
-
-Grounded martial arts.
-
-No supernatural powers.
-
-Authentic fight choreography.
-
-Feature-film quality.
-
-Practical stunt work.
-
-Invisible CGI.
-
-Premium cinematic color grading.
-
-Large-format IMAX cinematography.
+主人公は、あらゆる動き、クローズアップ、スローモーション、カメラの切り替わりにおいても、完璧に同一人物として認識される必要があります。
 
 ---
 
-# CAMERA PACKAGE
+# スタイル
+
+超写実的。
+
+地に足のついた格闘技。
+
+超常能力はなし。
+
+本格的な格闘の振り付け。
+
+長編映画品質。
+
+実写スタントワーク。
+
+目に見えない CGI。
+
+プレミアムなシネマティック・カラーグレーディング。
+
+ラージフォーマットの IMAX 撮影。
+
+---
+
+# カメラパッケージ
 
 ARRI ALEXA 65
 
-Panavision Ultra Vista anamorphic lenses
+Panavision Ultra Vista アナモフィックレンズ
 
-Steadicam
+ステディカム
 
-High-speed Phantom Flex
+高速撮影用 Phantom Flex
 
-Technocrane
+テクノクレーン
 
-Slow circular dolly
+ゆっくりとした円形ドリー
 
-Macro inserts
+マクロインサート
 
-Natural handheld during impacts
-
----
-
-# MUSIC
-
-The soundtrack begins immediately.
-
-Heavy hard rock guitar riff.
-
-Fast double-kick drums.
-
-Driving bass guitar.
-
-Hybrid orchestral percussion.
-
-Massive cinematic trailer hits.
-
-At the decisive strike, every instrument cuts instantly.
-
-Only breathing and cloth movement remain.
-
-The guitars return with maximum force.
+衝撃時の自然なハンドヘルド撮影
 
 ---
 
-# SOUND DESIGN
+# 音楽
 
-Bare footsteps.
+サウンドトラックは開始と同時に始まります。
 
-Fabric movement.
+ヘヴィなハードロックのギターリフ。
 
-Controlled breathing.
+高速なダブルキックドラム。
 
-Precise punches.
+ドライビング・ベースギター。
 
-Bone-deep body impacts.
+ハイブリッドなオーケストラ・パーカッション。
 
-Wood splintering.
+壮大なシネマティック・トレーラーのヒット音。
 
-Natural room ambience.
+決定的な一撃の瞬間、すべての楽器が即座にカットされます。
 
-Perfect synchronization between every strike and every drum beat.
+呼吸音と衣擦れの音だけが残ります。
 
----
-
-# LIGHTING
-
-Morning sunlight through dojo windows.
-
-Warm highlights.
-
-Natural shadows.
-
-Floating dust particles.
-
-High dynamic range.
+その後、ギターが最大音量で再開します。
 
 ---
 
-# FORMAT
+# サウンドデザイン
 
-10 seconds
+素足の足音。
 
-5 cinematic shots.
+衣擦れの音。
 
----
+制御された呼吸音。
 
-## SHOT 1 (0:00–0:02) — THE CHALLENGE
+正確なパンチ音。
 
-An enormous traditional dojo.
+骨に響く打撃音。
 
-The protagonist stands opposite six elite martial artists.
+木材が砕ける音。
 
-Nobody speaks.
+自然な部屋の環境音。
 
-The hard rock riff begins immediately.
-
----
-
-## SHOT 2 (0:02–0:04) — STILLNESS
-
-Extreme close-up.
-
-The protagonist calmly closes his eyes.
-
-Everyone else prepares to attack.
-
-The drums begin building.
+すべての打撃とドラムのビートの完璧な同期。
 
 ---
 
-## SHOT 3 (0:04–0:06) — ONE MOVEMENT
+# ライティング
 
-The attackers rush simultaneously.
+道場の窓から差し込む朝の光。
 
-The protagonist makes one precise movement.
+温かみのあるハイライト。
 
-The soundtrack drops to silence.
+自然な影。
 
-Only footsteps and breathing remain.
+浮遊する塵の粒子。
 
----
-
-## SHOT 4 (0:06–0:08) — REVEAL
-
-The attackers freeze.
-
-One after another, they lose balance and collapse.
-
-The protagonist never changes expression.
-
-The guitars explode back in.
+高ダイナミックレンジ。
 
 ---
 
-## SHOT 5 (0:08–0:10) — RESPECT
+# フォーマット
 
-The dojo master, watching from above, slowly bows.
+10 秒間
 
-The protagonist returns the bow.
-
-The camera rises through the wooden ceiling into the morning sky.
-
-The final guitar chord sustains.
-
-Cut to black.
+5 つのシネマティック・ショット
 
 ---
 
-# EMOTIONAL TARGET
+## ショット 1 (0:00–0:02) — 挑戦
 
-The audience should immediately think:
+巨大な伝統的な道場。
 
-**"Real mastery doesn't look fast... it looks effortless."**
+主人公が 6 人のエリート格闘家と対峙する。
+
+誰も言葉を発しない。
+
+ハードロックのリフが即座に始まる。
 
 ---
 
-# TECHNICAL REQUIREMENTS
+## ショット 2 (0:02–0:04) — 静寂
 
-Feature-film reali
+極端なクローズアップ。
+
+主人公が静かに目を閉じる。
+
+他の全員が攻撃の準備をする。
+
+ドラムが盛り上がり始める。
+
+---
+
+## ショット 3 (0:04–0:06) — 一撃
+
+攻撃者が一斉に突進する。
+
+主人公が正確な一撃を放つ。
+
+サウンドトラックが消え、静寂に包まれる。
+
+足音と呼吸音だけが残る。
+
+---
+
+## ショット 4 (0:06–0:08) — 明かされる真実
+
+攻撃者が凍りつく。
+
+次々とバランスを崩して倒れる。
+
+主人公の表情は一切変わらない。
+
+ギターが爆発的に再開する。
+
+---
+
+## ショット 5 (0:08–0:10) — 敬意
+
+上から見守っていた道場主がゆっくりと礼をする。
+
+主人公も礼を返す。
+
+カメラが木製の天井を突き抜け、朝の空へと上昇していく。
+
+最後のギターコードが余韻を残す。
+
+暗転。
+
+---
+
+# 感情的ターゲット
+
+視聴者に即座にこう思わせる：
+
+**「真の達人技は速く見えるのではない……努力を感じさせないのだ」**
+
+---
+
+# 技術的要件
+
+長編映画のリアリティ
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cinematic Martial Arts Fight Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="シネマティックな格闘アクションシーン">
 
 **[🎬 動画を見る →](https://x.com/vireonixx/status/2075533217193742739)**
 
 **作者:** [Virena](https://x.com/vireonixx) | **ソース:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **公開日:** Jul 10, 2026
 
 ---
-### Macro Cinematic Cockroach Comedy
+### マクロ撮影によるゴキブリのコメディ映画風映像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-stage video prompt for creating a photorealistic comedic scene of cockroaches interacting with a pizza slice, including a 10-second timeline.
+> ピザのスライスと戯れるゴキブリをフォトリアルなコメディシーンとして描くための、10秒間のタイムラインを含む詳細なマルチステージ動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Subject: A photorealistic, macro-cinematography comedic scene of two cockroaches on a gritty, slightly wet city sidewalk at night, interacting with a discarded slice of pizza.
+被写体：夜の都会のざらついた少し濡れた歩道で、捨てられたピザのスライスと戯れる2匹のゴキブリを捉えた、フォトリアルなマクロ撮影によるコメディシーン。
 
-Camera & Aesthetic: Shot on a Leica SL2 with a 100mm macro lens. Emulate Kodak Portra 400 film stock with organic film grain, rich color contrast, and a shallow depth of field. The lighting is cinematic street lighting, with soft neon reflections bouncing off the greasy pizza cheese and wet concrete.
+カメラと美学：Leica SL2 と 100mm マクロレンズで撮影。Kodak Portra 400 フィルムの質感を再現し、有機的なフィルムグレイン、豊かな色調のコントラスト、浅い被写界深度を持たせる。照明は映画のような街灯を想定し、脂ぎったピザのチーズや濡れたコンクリートに反射する柔らかなネオンの光を表現する。
 
-Audio: Gritty ambient street noise, squishy food sound effects, and a distinct character voiceover at the end.
+オーディオ：都会のざらついた環境音、食べ物のクチャクチャという効果音、そして最後に特徴的なキャラクターのナレーションを入れる。
 
-10 Second Timeline:
+10秒間のタイムライン：
 
-0-3s: Extreme macro close-up. Two highly detailed, expressive cockroaches are standing on top of a greasy, oversized slice of pizza. They have their front legs wrapped around a bright yellow, glistening pineapple ring embedded in the cheese. They are straining and pulling backward in unison.
+0～3秒：極端なマクロクローズアップ。非常に詳細で表情豊かな2匹のゴキブリが、脂ぎった大きなピザの上に立っている。彼らは前脚をチーズに埋め込まれた鮮やかな黄色のパイナップルの輪に巻きつけている。力を込めて一斉に後ろへ引っ張っている。
 
-3-5s: The mozzarella cheese stretches dramatically like elastic. With a sudden, visceral snap, the pineapple ring breaks free from the crust.
+3～5秒：モッツァレラチーズがゴムのように劇的に伸びる。突然、生々しい音を立ててチーズが切れ、パイナップルの輪がクラストから外れる。
 
-5-7s: The camera rack focuses as the pineapple ring lands on its edge on the concrete and rolls rapidly away down the textured sidewalk, disappearing into the smooth, out-of-focus background bokeh.
+5～7秒：カメラがフォーカスを送り、パイナップルの輪がコンクリートの上で縁から着地し、質感のある歩道を素早く転がって、ピントの合っていない滑らかな背景のボケの中に消えていく。
 
-7-10s: Quick cut back to the two cockroaches. They brush off their front legs in a gesture of relief. The camera zooms in slightly on the cockroach on the right as it looks directly at the camera, throwing its front legs up in exasperation, and distinctly shouts with perfect lip-sync/mandible-sync, "That is disgusting!"
+7～10秒：素早く2匹のゴキブリのカットに戻る。彼らは安堵した様子で前脚を払う。カメラが右側のゴキブリに少しズームインすると、そのゴキブリはカメラをじっと見つめ、呆れたように前脚を振り上げ、完璧なリップシンク／下顎の動きで「なんて気持ち悪いんだ！」と叫ぶ。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Macro Cinematic Cockroach Comedy">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="マクロ撮影によるゴキブリのコメディ映画風映像">
 
 **[🎬 動画を見る →](https://x.com/michaelrabone/status/2075490289062400195)**
 
 **作者:** [Michael Rabone](https://x.com/michaelrabone) | **ソース:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **公開日:** Jul 10, 2026
 
 ---
-### Photorealistic Horror Film Sequence
+### フォトリアルなホラー映画のシークエンス
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured 10-second cinematic horror sequence prompt that uses a reference image to create a tension-filled scene in a Victorian house.
+> ヴィクトリア朝様式の邸宅を舞台に、参照画像を使用して緊張感あふれるシーンを作成するための、10 秒間の構造化された映画的ホラーシークエンスのプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*.
+『死霊館』、『スマイル』、『ヘレディタリー／継承』にインスパイアされた、10 秒間の超フォトリアルな映画的ホラーシークエンスを作成してください。
 
-Use the provided reference image as the protagonist.
+提供された参照画像を主人公として使用してください。
 
-## STYLE
+## スタイル
 
-Grounded horror.
-Minimal visual effects.
-Natural darkness.
-Practical lighting.
-Slow-building tension.
-No gore.
+地に足のついたホラー。
+最小限の視覚効果。
+自然な暗闇。
+実用的な照明。
+ゆっくりと高まる緊張感。
+ゴア表現なし。
 
-## FORMAT
+## フォーマット
 
-10 seconds
-5 shots
+10 秒間
+5 ショット
 
-### SHOT 1 (0:00–0:02)
+### ショット 1 (0:00–0:02)
 
-The protagonist explores an abandoned Victorian house using only a flashlight.
+主人公が懐中電灯だけを頼りに、廃墟となったヴィクトリア朝様式の邸宅を探索する。
 
-### SHOT 2 (0:02–0:04)
+### ショット 2 (0:02–0:04)
 
-They take a photo down a dark hallway.
-Nothing unusual is visible.
+主人公が暗い廊下を写真に撮る。
+異常は見当たらない。
 
-### SHOT 3 (0:04–0:06)
+### ショット 3 (0:04–0:06)
 
-Looking at the photo, a smiling figure appears at the end of the hallway.
-The real hallway is empty.
+写真を確認すると、廊下の突き当たりに笑顔の人物が写っている。
+実際の廊下には誰もいない。
 
-### SHOT 4 (0:06–0:08)
+### ショット 4 (0:06–0:08)
 
-They slowly lower the phone and look ahead.
-Still nothing.
+主人公がゆっくりとスマートフォンを下ろし、前を見る。
+やはり何もいない。
 
-### SHOT 5 (0:08–0:10)
+### ショット 5 (0:08–0:10)
 
-They check the screen again.
-The smiling figure is now standing directly behind them in the photo.
-Cut to black before they turn around.
+もう一度画面を確認する。
+写真の中では、笑顔の人物がすぐ背後に立っている。
+振り返る直前で暗転。
 
-Music
-Low drones.
-Wood creaks.
-One sharp orchestral sting at the final frame.
+音楽
+低いドローン音。
+床板のきしむ音。
+最後のフレームで鋭いオーケストラの不協和音を 1 回。
 
-Emotional Target
+感情的ターゲット
 
-*"The camera saw what the eyes couldn't."
+*「カメラは、肉眼では見えないものを見ていた。」
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Photorealistic Horror Film Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="フォトリアルなホラー映画のシークエンス">
 
 **[🎬 動画を見る →](https://x.com/vireonixx/status/2075377636420059580)**
 
@@ -2851,6 +2851,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-11T09:28:00.280Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-11T13:16:13.687Z</sub>
 
 </div>

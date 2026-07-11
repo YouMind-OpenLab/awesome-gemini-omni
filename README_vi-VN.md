@@ -56,340 +56,340 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### Cinematic Product Orbit Ad
+### Quảng cáo sản phẩm với hiệu ứng xoay điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple but effective prompt for generating a premium product advertisement with smooth camera movement and professional lighting effects.
+> Một câu lệnh đơn giản nhưng hiệu quả để tạo ra quảng cáo sản phẩm cao cấp với chuyển động camera mượt mà và hiệu ứng ánh sáng chuyên nghiệp.
 
 #### 📝 Prompt
 
 ```
-camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+camera từ từ xoay quanh sản phẩm, các tia phản chiếu di chuyển trên bề mặt, các hạt bụi mềm trong không khí, mang lại cảm giác quảng cáo cao cấp
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Cinematic Product Orbit Ad">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Quảng cáo sản phẩm với hiệu ứng xoay điện ảnh">
 
 **[🎬 Xem video →](https://x.com/getimg_ai/status/2075683226681831794)**
 
 **Tác giả:** [getimg.ai](https://x.com/getimg_ai) | **Nguồn:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **Đã xuất bản:** Jul 10, 2026
 
 ---
-### Cinematic Martial Arts Fight Scene
+### Cảnh quay võ thuật điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive video prompt for a 10-second martial arts sequence featuring technical camera details, audio design, and character identity preservation.
+> Một video prompt toàn diện cho phân cảnh võ thuật dài 10 giây, bao gồm các chi tiết kỹ thuật camera, thiết kế âm thanh và bảo toàn danh tính nhân vật.
 
 #### 📝 Prompt
 
 ```
-Create a 10-second ultra-photorealistic cinematic martial arts sequence inspired by classic Hong Kong action cinema, modern stunt choreography, and premium Hollywood filmmaking.
+Tạo một phân cảnh võ thuật điện ảnh siêu thực dài 10 giây, lấy cảm hứng từ phim hành động Hồng Kông cổ điển, vũ đạo đóng thế hiện đại và phong cách làm phim Hollywood cao cấp.
 
-Use the provided male reference image as the protagonist.
+Sử dụng hình ảnh tham chiếu nam giới được cung cấp làm nhân vật chính.
 
-Maintain absolute identity consistency throughout every frame.
+Duy trì sự nhất quán tuyệt đối về danh tính trong mọi khung hình.
 
-Preserve exactly:
+Bảo toàn chính xác:
 
-* Facial structure
-* Hairstyle
-* Eye shape
-* Skin tone
-* Body proportions
-* Facial hair (if present)
-* Clothing continuity
-* Expressions
-* Accessories
+* Cấu trúc khuôn mặt
+* Kiểu tóc
+* Hình dáng mắt
+* Tông màu da
+* Tỷ lệ cơ thể
+* Râu (nếu có)
+* Sự liên tục của trang phục
+* Biểu cảm
+* Phụ kiện
 
-The protagonist must remain perfectly recognizable during every movement, close-up, slow-motion sequence, and camera transition.
-
----
-
-# STYLE
-
-Ultra-photorealistic.
-
-Grounded martial arts.
-
-No supernatural powers.
-
-Authentic fight choreography.
-
-Feature-film quality.
-
-Practical stunt work.
-
-Invisible CGI.
-
-Premium cinematic color grading.
-
-Large-format IMAX cinematography.
+Nhân vật chính phải luôn dễ nhận diện trong mọi chuyển động, cảnh quay cận cảnh, cảnh quay chậm và chuyển cảnh camera.
 
 ---
 
-# CAMERA PACKAGE
+# PHONG CÁCH
+
+Siêu thực tế.
+
+Võ thuật thực chiến.
+
+Không có năng lực siêu nhiên.
+
+Vũ đạo chiến đấu chân thực.
+
+Chất lượng phim điện ảnh.
+
+Đóng thế thực tế.
+
+CGI ẩn.
+
+Chỉnh màu điện ảnh cao cấp.
+
+Quay phim định dạng lớn IMAX.
+
+---
+
+# THIẾT BỊ CAMERA
 
 ARRI ALEXA 65
 
-Panavision Ultra Vista anamorphic lenses
+Ống kính anamorphic Panavision Ultra Vista
 
 Steadicam
 
-High-speed Phantom Flex
+Phantom Flex tốc độ cao
 
 Technocrane
 
-Slow circular dolly
+Dolly xoay tròn chậm
 
-Macro inserts
+Chèn cảnh macro
 
-Natural handheld during impacts
-
----
-
-# MUSIC
-
-The soundtrack begins immediately.
-
-Heavy hard rock guitar riff.
-
-Fast double-kick drums.
-
-Driving bass guitar.
-
-Hybrid orchestral percussion.
-
-Massive cinematic trailer hits.
-
-At the decisive strike, every instrument cuts instantly.
-
-Only breathing and cloth movement remain.
-
-The guitars return with maximum force.
+Cầm tay tự nhiên trong các cảnh va chạm
 
 ---
 
-# SOUND DESIGN
+# ÂM NHẠC
 
-Bare footsteps.
+Nhạc nền bắt đầu ngay lập tức.
 
-Fabric movement.
+Riff guitar hard rock mạnh mẽ.
 
-Controlled breathing.
+Trống double-kick nhanh.
 
-Precise punches.
+Guitar bass dồn dập.
 
-Bone-deep body impacts.
+Bộ gõ dàn nhạc lai.
 
-Wood splintering.
+Tiếng hiệu ứng trailer điện ảnh hoành tráng.
 
-Natural room ambience.
+Tại cú đánh quyết định, mọi nhạc cụ dừng đột ngột.
 
-Perfect synchronization between every strike and every drum beat.
+Chỉ còn tiếng thở và tiếng vải chuyển động.
 
----
-
-# LIGHTING
-
-Morning sunlight through dojo windows.
-
-Warm highlights.
-
-Natural shadows.
-
-Floating dust particles.
-
-High dynamic range.
+Tiếng guitar quay trở lại với cường độ tối đa.
 
 ---
 
-# FORMAT
+# THIẾT KẾ ÂM THANH
 
-10 seconds
+Tiếng bước chân trần.
 
-5 cinematic shots.
+Tiếng vải chuyển động.
 
----
+Tiếng thở có kiểm soát.
 
-## SHOT 1 (0:00–0:02) — THE CHALLENGE
+Tiếng đấm chính xác.
 
-An enormous traditional dojo.
+Tiếng va chạm cơ thể sâu vào xương.
 
-The protagonist stands opposite six elite martial artists.
+Tiếng gỗ nứt.
 
-Nobody speaks.
+Âm thanh môi trường tự nhiên.
 
-The hard rock riff begins immediately.
-
----
-
-## SHOT 2 (0:02–0:04) — STILLNESS
-
-Extreme close-up.
-
-The protagonist calmly closes his eyes.
-
-Everyone else prepares to attack.
-
-The drums begin building.
+Đồng bộ hoàn hảo giữa mỗi cú đánh và mỗi nhịp trống.
 
 ---
 
-## SHOT 3 (0:04–0:06) — ONE MOVEMENT
+# ÁNH SÁNG
 
-The attackers rush simultaneously.
+Ánh nắng buổi sáng xuyên qua cửa sổ võ đường.
 
-The protagonist makes one precise movement.
+Điểm sáng ấm áp.
 
-The soundtrack drops to silence.
+Bóng đổ tự nhiên.
 
-Only footsteps and breathing remain.
+Các hạt bụi lơ lửng.
 
----
-
-## SHOT 4 (0:06–0:08) — REVEAL
-
-The attackers freeze.
-
-One after another, they lose balance and collapse.
-
-The protagonist never changes expression.
-
-The guitars explode back in.
+Dải tương phản động cao.
 
 ---
 
-## SHOT 5 (0:08–0:10) — RESPECT
+# ĐỊNH DẠNG
 
-The dojo master, watching from above, slowly bows.
+10 giây
 
-The protagonist returns the bow.
-
-The camera rises through the wooden ceiling into the morning sky.
-
-The final guitar chord sustains.
-
-Cut to black.
+5 cảnh quay điện ảnh.
 
 ---
 
-# EMOTIONAL TARGET
+## CẢNH 1 (0:00–0:02) — THÁCH THỨC
 
-The audience should immediately think:
+Một võ đường truyền thống rộng lớn.
 
-**"Real mastery doesn't look fast... it looks effortless."**
+Nhân vật chính đứng đối diện với sáu võ sĩ tinh nhuệ.
+
+Không ai nói lời nào.
+
+Riff hard rock bắt đầu ngay lập tức.
 
 ---
 
-# TECHNICAL REQUIREMENTS
+## CẢNH 2 (0:02–0:04) — TĨNH LẶNG
 
-Feature-film reali
+Cận cảnh cực độ.
+
+Nhân vật chính bình tĩnh nhắm mắt lại.
+
+Tất cả những người khác chuẩn bị tấn công.
+
+Tiếng trống bắt đầu dồn dập.
+
+---
+
+## CẢNH 3 (0:04–0:06) — MỘT CHUYỂN ĐỘNG
+
+Những kẻ tấn công lao tới cùng lúc.
+
+Nhân vật chính thực hiện một chuyển động chính xác.
+
+Nhạc nền im bặt.
+
+Chỉ còn tiếng bước chân và tiếng thở.
+
+---
+
+## CẢNH 4 (0:06–0:08) — TIẾT LỘ
+
+Những kẻ tấn công khựng lại.
+
+Lần lượt từng người mất thăng bằng và gục xuống.
+
+Nhân vật chính không hề thay đổi biểu cảm.
+
+Tiếng guitar bùng nổ trở lại.
+
+---
+
+## CẢNH 5 (0:08–0:10) — TÔN TRỌNG
+
+Sư phụ võ đường, quan sát từ trên cao, chậm rãi cúi chào.
+
+Nhân vật chính cúi chào đáp lễ.
+
+Camera bay lên qua trần gỗ hướng về bầu trời buổi sáng.
+
+Nốt guitar cuối cùng ngân dài.
+
+Chuyển sang màu đen.
+
+---
+
+# MỤC TIÊU CẢM XÚC
+
+Khán giả nên nghĩ ngay đến:
+
+**"Bậc thầy thực sự không cần phải nhanh... mà là sự nhẹ nhàng."**
+
+---
+
+# YÊU CẦU KỸ THUẬT
+
+Độ chân thực của phim điện ảnh
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cinematic Martial Arts Fight Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cảnh quay võ thuật điện ảnh">
 
 **[🎬 Xem video →](https://x.com/vireonixx/status/2075533217193742739)**
 
 **Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **Đã xuất bản:** Jul 10, 2026
 
 ---
-### Macro Cinematic Cockroach Comedy
+### Phim hài cận cảnh về gián
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-stage video prompt for creating a photorealistic comedic scene of cockroaches interacting with a pizza slice, including a 10-second timeline.
+> Một video prompt đa giai đoạn cực kỳ chi tiết để tạo ra cảnh quay hài hước chân thực về những chú gián đang tương tác với một miếng pizza, bao gồm mốc thời gian 10 giây.
 
 #### 📝 Prompt
 
 ```
-Subject: A photorealistic, macro-cinematography comedic scene of two cockroaches on a gritty, slightly wet city sidewalk at night, interacting with a discarded slice of pizza.
+Chủ đề: Một cảnh quay hài hước theo phong cách điện ảnh cận cảnh (macro) về hai chú gián trên vỉa hè thành phố đầy bụi bặm, hơi ẩm ướt vào ban đêm, đang tương tác với một miếng pizza bị bỏ đi.
 
-Camera & Aesthetic: Shot on a Leica SL2 with a 100mm macro lens. Emulate Kodak Portra 400 film stock with organic film grain, rich color contrast, and a shallow depth of field. The lighting is cinematic street lighting, with soft neon reflections bouncing off the greasy pizza cheese and wet concrete.
+Camera & Thẩm mỹ: Quay bằng máy Leica SL2 với ống kính macro 100mm. Mô phỏng phim Kodak Portra 400 với hạt phim tự nhiên, độ tương phản màu sắc phong phú và độ sâu trường ảnh nông. Ánh sáng mang phong cách điện ảnh đường phố, với những tia phản chiếu neon mềm mại trên lớp phô mai béo ngậy của miếng pizza và mặt bê tông ướt.
 
-Audio: Gritty ambient street noise, squishy food sound effects, and a distinct character voiceover at the end.
+Âm thanh: Tiếng ồn đường phố chân thực, hiệu ứng âm thanh thức ăn nhầy nhụa và một giọng lồng tiếng nhân vật đặc trưng ở cuối.
 
-10 Second Timeline:
+Mốc thời gian 10 giây:
 
-0-3s: Extreme macro close-up. Two highly detailed, expressive cockroaches are standing on top of a greasy, oversized slice of pizza. They have their front legs wrapped around a bright yellow, glistening pineapple ring embedded in the cheese. They are straining and pulling backward in unison.
+0-3 giây: Cận cảnh macro cực đại. Hai chú gián biểu cảm, chi tiết cao đang đứng trên một miếng pizza quá khổ đầy dầu mỡ. Chân trước của chúng ôm lấy một vòng dứa màu vàng tươi, lấp lánh cắm trong lớp phô mai. Chúng đang gồng mình và kéo ngược ra sau một cách đồng bộ.
 
-3-5s: The mozzarella cheese stretches dramatically like elastic. With a sudden, visceral snap, the pineapple ring breaks free from the crust.
+3-5 giây: Lớp phô mai mozzarella kéo giãn ra một cách ấn tượng như dây thun. Với một tiếng "bộp" đột ngột và sống động, vòng dứa tách rời khỏi lớp vỏ bánh.
 
-5-7s: The camera rack focuses as the pineapple ring lands on its edge on the concrete and rolls rapidly away down the textured sidewalk, disappearing into the smooth, out-of-focus background bokeh.
+5-7 giây: Camera lấy nét chuyển tiếp khi vòng dứa rơi xuống cạnh trên mặt bê tông và lăn nhanh dọc theo vỉa hè đầy kết cấu, biến mất vào vùng nền bokeh mờ ảo.
 
-7-10s: Quick cut back to the two cockroaches. They brush off their front legs in a gesture of relief. The camera zooms in slightly on the cockroach on the right as it looks directly at the camera, throwing its front legs up in exasperation, and distinctly shouts with perfect lip-sync/mandible-sync, "That is disgusting!"
+7-10 giây: Cắt cảnh nhanh quay lại hai chú gián. Chúng phủi chân trước như một cử chỉ nhẹ nhõm. Camera zoom nhẹ vào chú gián bên phải khi nó nhìn thẳng vào ống kính, vung hai chân trước lên đầy bực bội và hét lên rõ ràng với chuyển động môi/hàm khớp hoàn hảo: "Thật là kinh tởm!"
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Macro Cinematic Cockroach Comedy">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Phim hài cận cảnh về gián">
 
 **[🎬 Xem video →](https://x.com/michaelrabone/status/2075490289062400195)**
 
 **Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **Đã xuất bản:** Jul 10, 2026
 
 ---
-### Photorealistic Horror Film Sequence
+### Chuỗi cảnh phim kinh dị chân thực
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured 10-second cinematic horror sequence prompt that uses a reference image to create a tension-filled scene in a Victorian house.
+> Một prompt cấu trúc cho chuỗi cảnh phim kinh dị dài 10 giây, sử dụng hình ảnh tham chiếu để tạo ra một phân cảnh đầy căng thẳng trong ngôi nhà kiểu Victoria.
 
 #### 📝 Prompt
 
 ```
-Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*.
+Tạo một chuỗi cảnh phim kinh dị dài 10 giây với độ chân thực cao, lấy cảm hứng từ *The Conjuring*, *Smile* và *Hereditary*.
 
-Use the provided reference image as the protagonist.
+Sử dụng hình ảnh tham chiếu được cung cấp làm nhân vật chính.
 
-## STYLE
+## PHONG CÁCH
 
-Grounded horror.
-Minimal visual effects.
-Natural darkness.
-Practical lighting.
-Slow-building tension.
-No gore.
+Kinh dị thực tế.
+Tối giản hiệu ứng hình ảnh.
+Ánh sáng tối tự nhiên.
+Ánh sáng thực tế.
+Căng thẳng tăng dần.
+Không máu me.
 
-## FORMAT
+## ĐỊNH DẠNG
 
-10 seconds
-5 shots
+10 giây
+5 cảnh quay
 
-### SHOT 1 (0:00–0:02)
+### CẢNH 1 (0:00–0:02)
 
-The protagonist explores an abandoned Victorian house using only a flashlight.
+Nhân vật chính khám phá một ngôi nhà kiểu Victoria bị bỏ hoang chỉ với một chiếc đèn pin.
 
-### SHOT 2 (0:02–0:04)
+### CẢNH 2 (0:02–0:04)
 
-They take a photo down a dark hallway.
-Nothing unusual is visible.
+Họ chụp một bức ảnh xuống hành lang tối.
+Không có gì bất thường xuất hiện.
 
-### SHOT 3 (0:04–0:06)
+### CẢNH 3 (0:04–0:06)
 
-Looking at the photo, a smiling figure appears at the end of the hallway.
-The real hallway is empty.
+Khi nhìn vào bức ảnh, một bóng người đang cười xuất hiện ở cuối hành lang.
+Hành lang thực tế vẫn trống rỗng.
 
-### SHOT 4 (0:06–0:08)
+### CẢNH 4 (0:06–0:08)
 
-They slowly lower the phone and look ahead.
-Still nothing.
+Họ từ từ hạ điện thoại xuống và nhìn về phía trước.
+Vẫn không có gì cả.
 
-### SHOT 5 (0:08–0:10)
+### CẢNH 5 (0:08–0:10)
 
-They check the screen again.
-The smiling figure is now standing directly behind them in the photo.
-Cut to black before they turn around.
+Họ kiểm tra lại màn hình.
+Bóng người đang cười giờ đã đứng ngay phía sau họ trong bức ảnh.
+Chuyển sang màn hình đen trước khi họ kịp quay đầu lại.
 
-Music
-Low drones.
-Wood creaks.
-One sharp orchestral sting at the final frame.
+Âm nhạc
+Tiếng trầm kéo dài.
+Tiếng gỗ kêu cót két.
+Một âm thanh dàn nhạc sắc lẹm ở khung hình cuối cùng.
 
-Emotional Target
+Mục tiêu cảm xúc
 
-*"The camera saw what the eyes couldn't."
+*"Máy ảnh đã nhìn thấy những gì đôi mắt không thể."
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Photorealistic Horror Film Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Chuỗi cảnh phim kinh dị chân thực">
 
 **[🎬 Xem video →](https://x.com/vireonixx/status/2075377636420059580)**
 
@@ -2853,6 +2853,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-11T09:28:03.623Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-11T13:16:25.693Z</sub>
 
 </div>

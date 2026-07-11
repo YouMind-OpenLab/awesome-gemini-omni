@@ -56,340 +56,340 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
-### Cinematic Product Orbit Ad
+### 영화 같은 제품 회전 광고
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple but effective prompt for generating a premium product advertisement with smooth camera movement and professional lighting effects.
+> 부드러운 카메라 움직임과 전문적인 조명 효과를 활용하여 프리미엄 제품 광고를 생성할 수 있는 간단하면서도 효과적인 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+카메라가 제품 주위를 천천히 회전하며, 표면 위로 반사광이 흐르고, 공기 중에는 부드러운 입자가 떠다니는 프리미엄 광고 느낌
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Cinematic Product Orbit Ad">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="영화 같은 제품 회전 광고">
 
 **[🎬 비디오 보기 →](https://x.com/getimg_ai/status/2075683226681831794)**
 
 **작성자:** [getimg.ai](https://x.com/getimg_ai) | **출처:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **게시일:** Jul 10, 2026
 
 ---
-### Cinematic Martial Arts Fight Scene
+### 영화 같은 무술 격투 장면
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive video prompt for a 10-second martial arts sequence featuring technical camera details, audio design, and character identity preservation.
+> 기술적인 카메라 디테일, 오디오 디자인, 캐릭터 정체성 유지를 포함한 10초 분량의 무술 시퀀스를 위한 종합 비디오 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Create a 10-second ultra-photorealistic cinematic martial arts sequence inspired by classic Hong Kong action cinema, modern stunt choreography, and premium Hollywood filmmaking.
+고전 홍콩 액션 영화, 현대 스턴트 안무, 프리미엄 할리우드 영화 제작 기법에서 영감을 받은 10초 분량의 초현실적인 영화 같은 무술 시퀀스를 제작하세요.
 
-Use the provided male reference image as the protagonist.
+제공된 남성 참조 이미지를 주인공으로 사용하세요.
 
-Maintain absolute identity consistency throughout every frame.
+모든 프레임에서 절대적인 정체성 일관성을 유지하세요.
 
-Preserve exactly:
+다음 사항을 정확하게 보존하세요:
 
-* Facial structure
-* Hairstyle
-* Eye shape
-* Skin tone
-* Body proportions
-* Facial hair (if present)
-* Clothing continuity
-* Expressions
-* Accessories
+* 얼굴 구조
+* 헤어스타일
+* 눈매
+* 피부 톤
+* 신체 비율
+* 수염(있는 경우)
+* 의상 연속성
+* 표정
+* 액세서리
 
-The protagonist must remain perfectly recognizable during every movement, close-up, slow-motion sequence, and camera transition.
-
----
-
-# STYLE
-
-Ultra-photorealistic.
-
-Grounded martial arts.
-
-No supernatural powers.
-
-Authentic fight choreography.
-
-Feature-film quality.
-
-Practical stunt work.
-
-Invisible CGI.
-
-Premium cinematic color grading.
-
-Large-format IMAX cinematography.
+주인공은 모든 움직임, 클로즈업, 슬로우 모션 시퀀스, 카메라 전환 과정에서 완벽하게 식별 가능해야 합니다.
 
 ---
 
-# CAMERA PACKAGE
+# 스타일
+
+초현실적 사실주의.
+
+현실적인 무술.
+
+초자연적인 능력 없음.
+
+정통 격투 안무.
+
+장편 영화 품질.
+
+실제 스턴트 작업.
+
+눈에 띄지 않는 CGI.
+
+프리미엄 영화 색 보정.
+
+대형 포맷 IMAX 촬영.
+
+---
+
+# 카메라 패키지
 
 ARRI ALEXA 65
 
-Panavision Ultra Vista anamorphic lenses
+Panavision Ultra Vista 아나모픽 렌즈
 
-Steadicam
+스테디캠
 
-High-speed Phantom Flex
+고속 Phantom Flex
 
-Technocrane
+테크노크레인
 
-Slow circular dolly
+느린 원형 돌리
 
-Macro inserts
+매크로 인서트
 
-Natural handheld during impacts
-
----
-
-# MUSIC
-
-The soundtrack begins immediately.
-
-Heavy hard rock guitar riff.
-
-Fast double-kick drums.
-
-Driving bass guitar.
-
-Hybrid orchestral percussion.
-
-Massive cinematic trailer hits.
-
-At the decisive strike, every instrument cuts instantly.
-
-Only breathing and cloth movement remain.
-
-The guitars return with maximum force.
+충격 시 자연스러운 핸드헬드
 
 ---
 
-# SOUND DESIGN
+# 음악
 
-Bare footsteps.
+사운드트랙이 즉시 시작됩니다.
 
-Fabric movement.
+강렬한 하드 록 기타 리프.
 
-Controlled breathing.
+빠른 더블 킥 드럼.
 
-Precise punches.
+드라이빙 베이스 기타.
 
-Bone-deep body impacts.
+하이브리드 오케스트라 퍼커션.
 
-Wood splintering.
+웅장한 영화 예고편 스타일의 타격음.
 
-Natural room ambience.
+결정적인 타격 순간, 모든 악기 소리가 즉시 멈춥니다.
 
-Perfect synchronization between every strike and every drum beat.
+숨소리와 옷깃 스치는 소리만 남습니다.
 
----
-
-# LIGHTING
-
-Morning sunlight through dojo windows.
-
-Warm highlights.
-
-Natural shadows.
-
-Floating dust particles.
-
-High dynamic range.
+기타 소리가 최대 출력으로 다시 돌아옵니다.
 
 ---
 
-# FORMAT
+# 사운드 디자인
 
-10 seconds
+맨발 발소리.
 
-5 cinematic shots.
+옷깃 스치는 소리.
 
----
+절제된 숨소리.
 
-## SHOT 1 (0:00–0:02) — THE CHALLENGE
+정확한 타격음.
 
-An enormous traditional dojo.
+뼈를 울리는 신체 타격음.
 
-The protagonist stands opposite six elite martial artists.
+나무가 부서지는 소리.
 
-Nobody speaks.
+자연스러운 실내 앰비언스.
 
-The hard rock riff begins immediately.
-
----
-
-## SHOT 2 (0:02–0:04) — STILLNESS
-
-Extreme close-up.
-
-The protagonist calmly closes his eyes.
-
-Everyone else prepares to attack.
-
-The drums begin building.
+모든 타격과 드럼 비트 간의 완벽한 동기화.
 
 ---
 
-## SHOT 3 (0:04–0:06) — ONE MOVEMENT
+# 조명
 
-The attackers rush simultaneously.
+도장 창문을 통해 들어오는 아침 햇살.
 
-The protagonist makes one precise movement.
+따뜻한 하이라이트.
 
-The soundtrack drops to silence.
+자연스러운 그림자.
 
-Only footsteps and breathing remain.
+부유하는 먼지 입자.
 
----
-
-## SHOT 4 (0:06–0:08) — REVEAL
-
-The attackers freeze.
-
-One after another, they lose balance and collapse.
-
-The protagonist never changes expression.
-
-The guitars explode back in.
+높은 다이내믹 레인지.
 
 ---
 
-## SHOT 5 (0:08–0:10) — RESPECT
+# 형식
 
-The dojo master, watching from above, slowly bows.
+10초
 
-The protagonist returns the bow.
-
-The camera rises through the wooden ceiling into the morning sky.
-
-The final guitar chord sustains.
-
-Cut to black.
+5개의 영화적 샷.
 
 ---
 
-# EMOTIONAL TARGET
+## 샷 1 (0:00–0:02) — 도전
 
-The audience should immediately think:
+거대한 전통 도장.
 
-**"Real mastery doesn't look fast... it looks effortless."**
+주인공이 6명의 엘리트 무술가들과 마주 보고 서 있습니다.
+
+아무도 말하지 않습니다.
+
+하드 록 리프가 즉시 시작됩니다.
 
 ---
 
-# TECHNICAL REQUIREMENTS
+## 샷 2 (0:02–0:04) — 정적
 
-Feature-film reali
+익스트림 클로즈업.
+
+주인공이 차분하게 눈을 감습니다.
+
+다른 사람들은 모두 공격을 준비합니다.
+
+드럼 비트가 고조되기 시작합니다.
+
+---
+
+## 샷 3 (0:04–0:06) — 단 하나의 움직임
+
+공격자들이 동시에 달려듭니다.
+
+주인공이 단 한 번의 정확한 움직임을 선보입니다.
+
+사운드트랙이 침묵으로 바뀝니다.
+
+발소리와 숨소리만 남습니다.
+
+---
+
+## 샷 4 (0:06–0:08) — 드러남
+
+공격자들이 멈춰 섭니다.
+
+차례대로 균형을 잃고 쓰러집니다.
+
+주인공은 표정 변화가 전혀 없습니다.
+
+기타 사운드가 다시 폭발적으로 터져 나옵니다.
+
+---
+
+## 샷 5 (0:08–0:10) — 존중
+
+위에서 지켜보던 도장 관장이 천천히 고개를 숙여 인사합니다.
+
+주인공도 답례로 고개를 숙입니다.
+
+카메라가 나무 천장을 뚫고 아침 하늘로 올라갑니다.
+
+마지막 기타 코드가 길게 이어집니다.
+
+화면이 검게 전환됩니다.
+
+---
+
+# 감정적 목표
+
+관객이 즉시 다음과 같이 생각하게 만듭니다:
+
+**"진정한 고수는 빠르지 않아 보인다... 힘들이지 않아 보인다."**
+
+---
+
+# 기술적 요구 사항
+
+장편 영화 수준의 사실성
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cinematic Martial Arts Fight Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="영화 같은 무술 격투 장면">
 
 **[🎬 비디오 보기 →](https://x.com/vireonixx/status/2075533217193742739)**
 
 **작성자:** [Virena](https://x.com/vireonixx) | **출처:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **게시일:** Jul 10, 2026
 
 ---
-### Macro Cinematic Cockroach Comedy
+### 매크로 시네마틱 바퀴벌레 코미디
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-stage video prompt for creating a photorealistic comedic scene of cockroaches interacting with a pizza slice, including a 10-second timeline.
+> 피자 조각과 상호작용하는 바퀴벌레의 사실적인 코믹 장면을 생성하기 위한 10초 타임라인이 포함된 고도로 상세한 다단계 비디오 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Subject: A photorealistic, macro-cinematography comedic scene of two cockroaches on a gritty, slightly wet city sidewalk at night, interacting with a discarded slice of pizza.
+주제: 밤의 거칠고 약간 젖은 도시 보도 위에서 버려진 피자 조각과 상호작용하는 두 마리 바퀴벌레의 사실적인 매크로 시네마틱 코미디 장면.
 
-Camera & Aesthetic: Shot on a Leica SL2 with a 100mm macro lens. Emulate Kodak Portra 400 film stock with organic film grain, rich color contrast, and a shallow depth of field. The lighting is cinematic street lighting, with soft neon reflections bouncing off the greasy pizza cheese and wet concrete.
+카메라 및 미학: 100mm 매크로 렌즈를 장착한 Leica SL2로 촬영. 유기적인 필름 그레인, 풍부한 색 대비, 얕은 피사계 심도를 가진 Kodak Portra 400 필름 스톡 느낌을 재현. 조명은 시네마틱한 거리 조명으로, 기름진 피자 치즈와 젖은 콘크리트 바닥에 반사되는 부드러운 네온 빛을 포함.
 
-Audio: Gritty ambient street noise, squishy food sound effects, and a distinct character voiceover at the end.
+오디오: 거친 거리의 주변 소음, 끈적한 음식 효과음, 그리고 마지막에 나오는 독특한 캐릭터 내레이션.
 
-10 Second Timeline:
+10초 타임라인:
 
-0-3s: Extreme macro close-up. Two highly detailed, expressive cockroaches are standing on top of a greasy, oversized slice of pizza. They have their front legs wrapped around a bright yellow, glistening pineapple ring embedded in the cheese. They are straining and pulling backward in unison.
+0-3초: 극단적인 매크로 클로즈업. 매우 상세하고 표정이 풍부한 두 마리의 바퀴벌레가 기름진 대형 피자 조각 위에 서 있음. 앞다리로 치즈 속에 박힌 밝은 노란색의 반짝이는 파인애플 링을 감싸고 있음. 두 마리가 동시에 뒤로 힘껏 당기고 있음.
 
-3-5s: The mozzarella cheese stretches dramatically like elastic. With a sudden, visceral snap, the pineapple ring breaks free from the crust.
+3-5초: 모짜렐라 치즈가 고무줄처럼 극적으로 늘어남. 갑작스럽고 생생한 '탁' 소리와 함께 파인애플 링이 도우에서 떨어져 나옴.
 
-5-7s: The camera rack focuses as the pineapple ring lands on its edge on the concrete and rolls rapidly away down the textured sidewalk, disappearing into the smooth, out-of-focus background bokeh.
+5-7초: 카메라 초점이 이동하며 파인애플 링이 콘크리트 바닥에 닿아 빠르게 굴러가고, 질감이 살아있는 보도를 따라가다 초점이 흐려진 배경 보케 속으로 사라짐.
 
-7-10s: Quick cut back to the two cockroaches. They brush off their front legs in a gesture of relief. The camera zooms in slightly on the cockroach on the right as it looks directly at the camera, throwing its front legs up in exasperation, and distinctly shouts with perfect lip-sync/mandible-sync, "That is disgusting!"
+7-10초: 다시 두 마리의 바퀴벌레로 빠르게 전환. 바퀴벌레들이 안도의 제스처로 앞다리를 털어냄. 카메라가 오른쪽 바퀴벌레를 살짝 줌인하자, 바퀴벌레가 카메라를 똑바로 쳐다보며 짜증 섞인 표정으로 앞다리를 들어 올리고, 완벽한 립싱크/하악골 싱크로 "정말 역겨워!"라고 외침.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Macro Cinematic Cockroach Comedy">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="매크로 시네마틱 바퀴벌레 코미디">
 
 **[🎬 비디오 보기 →](https://x.com/michaelrabone/status/2075490289062400195)**
 
 **작성자:** [Michael Rabone](https://x.com/michaelrabone) | **출처:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **게시일:** Jul 10, 2026
 
 ---
-### Photorealistic Horror Film Sequence
+### 실사풍 공포 영화 시퀀스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured 10-second cinematic horror sequence prompt that uses a reference image to create a tension-filled scene in a Victorian house.
+> 참조 이미지를 활용하여 빅토리아 시대 저택의 긴장감 넘치는 장면을 연출하는 10초 분량의 구조화된 시네마틱 공포 시퀀스 프롬프트입니다.
 
 #### 📝 프롬프트
 
 ```
-Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*.
+*컨저링*, *스마일*, *유전*에서 영감을 받은 10초 분량의 초실사 시네마틱 공포 시퀀스를 제작하세요.
 
-Use the provided reference image as the protagonist.
+제공된 참조 이미지를 주인공으로 사용하세요.
 
-## STYLE
+## 스타일
 
-Grounded horror.
-Minimal visual effects.
-Natural darkness.
-Practical lighting.
-Slow-building tension.
-No gore.
+현실적인 공포.
+최소한의 시각 효과.
+자연스러운 어둠.
+실제 조명 활용.
+서서히 고조되는 긴장감.
+고어 요소 없음.
 
-## FORMAT
+## 형식
 
-10 seconds
-5 shots
+10초
+5개 컷
 
-### SHOT 1 (0:00–0:02)
+### 컷 1 (0:00–0:02)
 
-The protagonist explores an abandoned Victorian house using only a flashlight.
+주인공이 손전등 하나에 의지해 버려진 빅토리아 시대 저택을 탐색합니다.
 
-### SHOT 2 (0:02–0:04)
+### 컷 2 (0:02–0:04)
 
-They take a photo down a dark hallway.
-Nothing unusual is visible.
+주인공이 어두운 복도를 향해 사진을 찍습니다.
+아무것도 보이지 않습니다.
 
-### SHOT 3 (0:04–0:06)
+### 컷 3 (0:04–0:06)
 
-Looking at the photo, a smiling figure appears at the end of the hallway.
-The real hallway is empty.
+사진을 확인하자 복도 끝에 미소 짓는 형체가 나타납니다.
+실제 복도는 비어 있습니다.
 
-### SHOT 4 (0:06–0:08)
+### 컷 4 (0:06–0:08)
 
-They slowly lower the phone and look ahead.
-Still nothing.
+주인공이 천천히 휴대폰을 내리고 앞을 봅니다.
+여전히 아무것도 없습니다.
 
-### SHOT 5 (0:08–0:10)
+### 컷 5 (0:08–0:10)
 
-They check the screen again.
-The smiling figure is now standing directly behind them in the photo.
-Cut to black before they turn around.
+다시 화면을 확인합니다.
+사진 속 미소 짓는 형체가 이제 주인공 바로 뒤에 서 있습니다.
+주인공이 뒤를 돌아보기 직전 화면이 암전됩니다.
 
-Music
-Low drones.
-Wood creaks.
-One sharp orchestral sting at the final frame.
+음악
+낮게 깔리는 드론 사운드.
+나무 삐걱거리는 소리.
+마지막 프레임에서 날카로운 오케스트라 효과음 한 번.
 
-Emotional Target
+감정적 목표
 
-*"The camera saw what the eyes couldn't."
+*"카메라는 눈이 보지 못한 것을 보았다."
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Photorealistic Horror Film Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="실사풍 공포 영화 시퀀스">
 
 **[🎬 비디오 보기 →](https://x.com/vireonixx/status/2075377636420059580)**
 
@@ -2853,6 +2853,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-11T09:28:01.439Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-11T13:16:17.681Z</sub>
 
 </div>

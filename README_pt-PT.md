@@ -56,340 +56,340 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
-### Cinematic Product Orbit Ad
+### Anúncio Cinematográfico de Produto com Movimento Orbital
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple but effective prompt for generating a premium product advertisement with smooth camera movement and professional lighting effects.
+> Um prompt simples, porém eficaz, para gerar um anúncio de produto premium com movimento de câmera suave e efeitos de iluminação profissionais.
 
 #### 📝 Prompt
 
 ```
-camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+a câmera orbita lentamente ao redor do produto, reflexos se movem pela superfície, partículas suaves no ar, sensação de anúncio premium
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Cinematic Product Orbit Ad">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Anúncio Cinematográfico de Produto com Movimento Orbital">
 
 **[🎬 Assistir vídeo →](https://x.com/getimg_ai/status/2075683226681831794)**
 
 **Autor:** [getimg.ai](https://x.com/getimg_ai) | **Fonte:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **Publicado:** Jul 10, 2026
 
 ---
-### Cinematic Martial Arts Fight Scene
+### Cena de Luta de Artes Marciais Cinematográfica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive video prompt for a 10-second martial arts sequence featuring technical camera details, audio design, and character identity preservation.
+> Um prompt de vídeo abrangente para uma sequência de artes marciais de 10 segundos, apresentando detalhes técnicos de câmera, design de áudio e preservação da identidade do personagem.
 
 #### 📝 Prompt
 
 ```
-Create a 10-second ultra-photorealistic cinematic martial arts sequence inspired by classic Hong Kong action cinema, modern stunt choreography, and premium Hollywood filmmaking.
+Crie uma sequência cinematográfica de artes marciais ultra-fotorrealista de 10 segundos, inspirada no cinema de ação clássico de Hong Kong, na coreografia de dublês moderna e na produção cinematográfica premium de Hollywood.
 
-Use the provided male reference image as the protagonist.
+Use a imagem de referência masculina fornecida como o protagonista.
 
-Maintain absolute identity consistency throughout every frame.
+Mantenha a consistência absoluta da identidade em todos os quadros.
 
-Preserve exactly:
+Preserve exatamente:
 
-* Facial structure
-* Hairstyle
-* Eye shape
-* Skin tone
-* Body proportions
-* Facial hair (if present)
-* Clothing continuity
-* Expressions
-* Accessories
+* Estrutura facial
+* Penteado
+* Formato dos olhos
+* Tom de pele
+* Proporções corporais
+* Pelos faciais (se presentes)
+* Continuidade das roupas
+* Expressões
+* Acessórios
 
-The protagonist must remain perfectly recognizable during every movement, close-up, slow-motion sequence, and camera transition.
-
----
-
-# STYLE
-
-Ultra-photorealistic.
-
-Grounded martial arts.
-
-No supernatural powers.
-
-Authentic fight choreography.
-
-Feature-film quality.
-
-Practical stunt work.
-
-Invisible CGI.
-
-Premium cinematic color grading.
-
-Large-format IMAX cinematography.
+O protagonista deve permanecer perfeitamente reconhecível durante cada movimento, close-up, sequência em câmera lenta e transição de câmera.
 
 ---
 
-# CAMERA PACKAGE
+# ESTILO
+
+Ultra-fotorrealista.
+
+Artes marciais realistas.
+
+Sem poderes sobrenaturais.
+
+Coreografia de luta autêntica.
+
+Qualidade de longa-metragem.
+
+Trabalho de dublês prático.
+
+CGI invisível.
+
+Color grading cinematográfico premium.
+
+Cinematografia IMAX de grande formato.
+
+---
+
+# EQUIPAMENTO DE CÂMERA
 
 ARRI ALEXA 65
 
-Panavision Ultra Vista anamorphic lenses
+Lentes anamórficas Panavision Ultra Vista
 
 Steadicam
 
-High-speed Phantom Flex
+Phantom Flex de alta velocidade
 
 Technocrane
 
-Slow circular dolly
+Dolly circular lento
 
-Macro inserts
+Inserções macro
 
-Natural handheld during impacts
-
----
-
-# MUSIC
-
-The soundtrack begins immediately.
-
-Heavy hard rock guitar riff.
-
-Fast double-kick drums.
-
-Driving bass guitar.
-
-Hybrid orchestral percussion.
-
-Massive cinematic trailer hits.
-
-At the decisive strike, every instrument cuts instantly.
-
-Only breathing and cloth movement remain.
-
-The guitars return with maximum force.
+Câmera na mão natural durante impactos
 
 ---
 
-# SOUND DESIGN
+# MÚSICA
 
-Bare footsteps.
+A trilha sonora começa imediatamente.
 
-Fabric movement.
+Riff de guitarra de hard rock pesado.
 
-Controlled breathing.
+Bateria com bumbo duplo rápido.
 
-Precise punches.
+Baixo marcante.
 
-Bone-deep body impacts.
+Percussão orquestral híbrida.
 
-Wood splintering.
+Impactos massivos de trailer cinematográfico.
 
-Natural room ambience.
+No golpe decisivo, todos os instrumentos param instantaneamente.
 
-Perfect synchronization between every strike and every drum beat.
+Apenas a respiração e o movimento do tecido permanecem.
 
----
-
-# LIGHTING
-
-Morning sunlight through dojo windows.
-
-Warm highlights.
-
-Natural shadows.
-
-Floating dust particles.
-
-High dynamic range.
+As guitarras retornam com força máxima.
 
 ---
 
-# FORMAT
+# DESIGN DE SOM
 
-10 seconds
+Passos descalços.
 
-5 cinematic shots.
+Movimento de tecido.
 
----
+Respiração controlada.
 
-## SHOT 1 (0:00–0:02) — THE CHALLENGE
+Socos precisos.
 
-An enormous traditional dojo.
+Impactos corporais profundos.
 
-The protagonist stands opposite six elite martial artists.
+Madeira estilhaçando.
 
-Nobody speaks.
+Ambiente natural da sala.
 
-The hard rock riff begins immediately.
-
----
-
-## SHOT 2 (0:02–0:04) — STILLNESS
-
-Extreme close-up.
-
-The protagonist calmly closes his eyes.
-
-Everyone else prepares to attack.
-
-The drums begin building.
+Sincronização perfeita entre cada golpe e cada batida da bateria.
 
 ---
 
-## SHOT 3 (0:04–0:06) — ONE MOVEMENT
+# ILUMINAÇÃO
 
-The attackers rush simultaneously.
+Luz solar da manhã através das janelas do dojo.
 
-The protagonist makes one precise movement.
+Destaques quentes.
 
-The soundtrack drops to silence.
+Sombras naturais.
 
-Only footsteps and breathing remain.
+Partículas de poeira flutuantes.
 
----
-
-## SHOT 4 (0:06–0:08) — REVEAL
-
-The attackers freeze.
-
-One after another, they lose balance and collapse.
-
-The protagonist never changes expression.
-
-The guitars explode back in.
+Alto alcance dinâmico.
 
 ---
 
-## SHOT 5 (0:08–0:10) — RESPECT
+# FORMATO
 
-The dojo master, watching from above, slowly bows.
+10 segundos
 
-The protagonist returns the bow.
-
-The camera rises through the wooden ceiling into the morning sky.
-
-The final guitar chord sustains.
-
-Cut to black.
+5 planos cinematográficos.
 
 ---
 
-# EMOTIONAL TARGET
+## PLANO 1 (0:00–0:02) — O DESAFIO
 
-The audience should immediately think:
+Um dojo tradicional enorme.
 
-**"Real mastery doesn't look fast... it looks effortless."**
+O protagonista está em frente a seis artistas marciais de elite.
+
+Ninguém fala.
+
+O riff de hard rock começa imediatamente.
 
 ---
 
-# TECHNICAL REQUIREMENTS
+## PLANO 2 (0:02–0:04) — IMOBILIDADE
 
-Feature-film reali
+Close-up extremo.
+
+O protagonista fecha os olhos calmamente.
+
+Todos os outros se preparam para atacar.
+
+A bateria começa a crescer.
+
+---
+
+## PLANO 3 (0:04–0:06) — UM MOVIMENTO
+
+Os atacantes avançam simultaneamente.
+
+O protagonista faz um movimento preciso.
+
+A trilha sonora silencia.
+
+Apenas passos e respiração permanecem.
+
+---
+
+## PLANO 4 (0:06–0:08) — REVELAÇÃO
+
+Os atacantes congelam.
+
+Um após o outro, eles perdem o equilíbrio e caem.
+
+O protagonista nunca muda a expressão.
+
+As guitarras explodem de volta.
+
+---
+
+## PLANO 5 (0:08–0:10) — RESPEITO
+
+O mestre do dojo, observando de cima, faz uma reverência lentamente.
+
+O protagonista retribui a reverência.
+
+A câmera sobe pelo teto de madeira em direção ao céu da manhã.
+
+O acorde final da guitarra se sustenta.
+
+Corte para o preto.
+
+---
+
+# ALVO EMOCIONAL
+
+O público deve pensar imediatamente:
+
+**"O verdadeiro domínio não parece rápido... parece sem esforço."**
+
+---
+
+# REQUISITOS TÉCNICOS
+
+Realismo de longa-metragem
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cinematic Martial Arts Fight Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cena de Luta de Artes Marciais Cinematográfica">
 
 **[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2075533217193742739)**
 
 **Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **Publicado:** Jul 10, 2026
 
 ---
-### Macro Cinematic Cockroach Comedy
+### Comédia Cinematográfica Macro com Baratas
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-stage video prompt for creating a photorealistic comedic scene of cockroaches interacting with a pizza slice, including a 10-second timeline.
+> Um prompt de vídeo de várias etapas altamente detalhado para criar uma cena cômica fotorrealista de baratas interagindo com uma fatia de pizza, incluindo uma linha do tempo de 10 segundos.
 
 #### 📝 Prompt
 
 ```
-Subject: A photorealistic, macro-cinematography comedic scene of two cockroaches on a gritty, slightly wet city sidewalk at night, interacting with a discarded slice of pizza.
+Assunto: Uma cena cômica fotorrealista em macrocinematografia de duas baratas em uma calçada urbana suja e levemente úmida à noite, interagindo com uma fatia de pizza descartada.
 
-Camera & Aesthetic: Shot on a Leica SL2 with a 100mm macro lens. Emulate Kodak Portra 400 film stock with organic film grain, rich color contrast, and a shallow depth of field. The lighting is cinematic street lighting, with soft neon reflections bouncing off the greasy pizza cheese and wet concrete.
+Câmera e Estética: Filmado com uma Leica SL2 com lente macro de 100mm. Emule o filme Kodak Portra 400 com granulação orgânica, contraste de cores rico e profundidade de campo rasa. A iluminação é de rua cinematográfica, com reflexos de neon suaves refletindo no queijo gorduroso da pizza e no concreto molhado.
 
-Audio: Gritty ambient street noise, squishy food sound effects, and a distinct character voiceover at the end.
+Áudio: Ruído ambiente urbano, efeitos sonoros de comida pastosa e uma narração de personagem distinta no final.
 
-10 Second Timeline:
+Linha do Tempo de 10 Segundos:
 
-0-3s: Extreme macro close-up. Two highly detailed, expressive cockroaches are standing on top of a greasy, oversized slice of pizza. They have their front legs wrapped around a bright yellow, glistening pineapple ring embedded in the cheese. They are straining and pulling backward in unison.
+0-3s: Close-up macro extremo. Duas baratas altamente detalhadas e expressivas estão em cima de uma fatia de pizza gordurosa e exagerada. Elas estão com as patas dianteiras envoltas em um anel de abacaxi amarelo brilhante incrustado no queijo. Elas estão fazendo força e puxando para trás em uníssono.
 
-3-5s: The mozzarella cheese stretches dramatically like elastic. With a sudden, visceral snap, the pineapple ring breaks free from the crust.
+3-5s: O queijo mussarela estica dramaticamente como elástico. Com um estalo visceral e repentino, o anel de abacaxi se solta da massa.
 
-5-7s: The camera rack focuses as the pineapple ring lands on its edge on the concrete and rolls rapidly away down the textured sidewalk, disappearing into the smooth, out-of-focus background bokeh.
+5-7s: A câmera ajusta o foco enquanto o anel de abacaxi cai de lado no concreto e rola rapidamente pela calçada texturizada, desaparecendo no bokeh suave e desfocado do fundo.
 
-7-10s: Quick cut back to the two cockroaches. They brush off their front legs in a gesture of relief. The camera zooms in slightly on the cockroach on the right as it looks directly at the camera, throwing its front legs up in exasperation, and distinctly shouts with perfect lip-sync/mandible-sync, "That is disgusting!"
+7-10s: Corte rápido de volta para as duas baratas. Elas limpam as patas dianteiras em um gesto de alívio. A câmera dá um leve zoom na barata à direita enquanto ela olha diretamente para a câmera, jogando as patas dianteiras para cima em exasperação e grita distintamente, com sincronia labial/mandibular perfeita: "Isso é nojento!"
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Macro Cinematic Cockroach Comedy">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Comédia Cinematográfica Macro com Baratas">
 
 **[🎬 Assistir vídeo →](https://x.com/michaelrabone/status/2075490289062400195)**
 
 **Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **Publicado:** Jul 10, 2026
 
 ---
-### Photorealistic Horror Film Sequence
+### Sequência de Filme de Terror Fotorrealista
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured 10-second cinematic horror sequence prompt that uses a reference image to create a tension-filled scene in a Victorian house.
+> Um prompt estruturado para uma sequência cinematográfica de terror de 10 segundos que utiliza uma imagem de referência para criar uma cena cheia de tensão em uma casa vitoriana.
 
 #### 📝 Prompt
 
 ```
-Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*.
+Crie uma sequência cinematográfica de terror ultra-fotorrealista de 10 segundos inspirada em *Invocação do Mal*, *Sorria* e *Hereditário*.
 
-Use the provided reference image as the protagonist.
+Use a imagem de referência fornecida como o protagonista.
 
-## STYLE
+## ESTILO
 
-Grounded horror.
-Minimal visual effects.
-Natural darkness.
-Practical lighting.
-Slow-building tension.
-No gore.
+Terror realista.
+Efeitos visuais mínimos.
+Escuridão natural.
+Iluminação prática.
+Tensão de construção lenta.
+Sem sangue.
 
-## FORMAT
+## FORMATO
 
-10 seconds
-5 shots
+10 segundos
+5 planos
 
-### SHOT 1 (0:00–0:02)
+### PLANO 1 (0:00–0:02)
 
-The protagonist explores an abandoned Victorian house using only a flashlight.
+O protagonista explora uma casa vitoriana abandonada usando apenas uma lanterna.
 
-### SHOT 2 (0:02–0:04)
+### PLANO 2 (0:02–0:04)
 
-They take a photo down a dark hallway.
-Nothing unusual is visible.
+Eles tiram uma foto de um corredor escuro.
+Nada de incomum é visível.
 
-### SHOT 3 (0:04–0:06)
+### PLANO 3 (0:04–0:06)
 
-Looking at the photo, a smiling figure appears at the end of the hallway.
-The real hallway is empty.
+Ao olhar para a foto, uma figura sorridente aparece no final do corredor.
+O corredor real está vazio.
 
-### SHOT 4 (0:06–0:08)
+### PLANO 4 (0:06–0:08)
 
-They slowly lower the phone and look ahead.
-Still nothing.
+Eles abaixam o telefone lentamente e olham para frente.
+Ainda nada.
 
-### SHOT 5 (0:08–0:10)
+### PLANO 5 (0:08–0:10)
 
-They check the screen again.
-The smiling figure is now standing directly behind them in the photo.
-Cut to black before they turn around.
+Eles verificam a tela novamente.
+A figura sorridente agora está parada diretamente atrás deles na foto.
+Corte para o preto antes que eles se virem.
 
-Music
-Low drones.
-Wood creaks.
-One sharp orchestral sting at the final frame.
+Música
+Sons graves contínuos.
+Madeira rangendo.
+Um acorde orquestral agudo no quadro final.
 
-Emotional Target
+Alvo Emocional
 
-*"The camera saw what the eyes couldn't."
+*"A câmera viu o que os olhos não puderam."
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Photorealistic Horror Film Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Sequência de Filme de Terror Fotorrealista">
 
 **[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2075377636420059580)**
 
@@ -2853,6 +2853,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-11T09:28:12.692Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-11T13:17:00.113Z</sub>
 
 </div>

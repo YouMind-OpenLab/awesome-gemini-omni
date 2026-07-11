@@ -56,340 +56,340 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
-### Cinematic Product Orbit Ad
+### 電影級產品環繞廣告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple but effective prompt for generating a premium product advertisement with smooth camera movement and professional lighting effects.
+> 一個簡單但有效的提示詞，用於生成具有流暢運鏡與專業燈光效果的高級產品廣告。
 
 #### 📝 提示詞
 
 ```
-camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+攝影機緩慢環繞產品，光影在表面流動，空氣中漂浮著細微顆粒，呈現高級廣告質感
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Cinematic Product Orbit Ad">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="電影級產品環繞廣告">
 
 **[🎬 觀看視頻 →](https://x.com/getimg_ai/status/2075683226681831794)**
 
 **作者:** [getimg.ai](https://x.com/getimg_ai) | **來源:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **發布時間:** Jul 10, 2026
 
 ---
-### Cinematic Martial Arts Fight Scene
+### 電影級武術打鬥場景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive video prompt for a 10-second martial arts sequence featuring technical camera details, audio design, and character identity preservation.
+> 一份全面的 10 秒武術序列影片提示詞，包含技術攝影細節、音訊設計以及角色身分保持。
 
 #### 📝 提示詞
 
 ```
-Create a 10-second ultra-photorealistic cinematic martial arts sequence inspired by classic Hong Kong action cinema, modern stunt choreography, and premium Hollywood filmmaking.
+創作一段 10 秒的超逼真電影級武術序列，靈感源自經典香港動作電影、現代特技編排以及頂級好萊塢電影製作。
 
-Use the provided male reference image as the protagonist.
+請使用提供的男性參考圖像作為主角。
 
-Maintain absolute identity consistency throughout every frame.
+確保在每一幀中保持絕對的身分一致性。
 
-Preserve exactly:
+精確保留：
 
-* Facial structure
-* Hairstyle
-* Eye shape
-* Skin tone
-* Body proportions
-* Facial hair (if present)
-* Clothing continuity
-* Expressions
-* Accessories
+* 臉部結構
+* 髮型
+* 眼型
+* 膚色
+* 身體比例
+* 鬍鬚（若有）
+* 服裝連貫性
+* 表情
+* 配飾
 
-The protagonist must remain perfectly recognizable during every movement, close-up, slow-motion sequence, and camera transition.
-
----
-
-# STYLE
-
-Ultra-photorealistic.
-
-Grounded martial arts.
-
-No supernatural powers.
-
-Authentic fight choreography.
-
-Feature-film quality.
-
-Practical stunt work.
-
-Invisible CGI.
-
-Premium cinematic color grading.
-
-Large-format IMAX cinematography.
+主角在每一次動作、特寫、慢動作序列以及鏡頭轉換中都必須保持完美的可辨識度。
 
 ---
 
-# CAMERA PACKAGE
+# 風格
+
+超逼真寫實。
+
+紮實的武術風格。
+
+無超自然力量。
+
+正宗的打鬥編排。
+
+劇情片品質。
+
+實拍特技。
+
+隱形 CGI。
+
+頂級電影級調色。
+
+大畫幅 IMAX 攝影。
+
+---
+
+# 攝影器材
 
 ARRI ALEXA 65
 
-Panavision Ultra Vista anamorphic lenses
+Panavision Ultra Vista 變形鏡頭
 
-Steadicam
+Steadicam 穩定器
 
-High-speed Phantom Flex
+Phantom Flex 高速攝影機
 
-Technocrane
+Technocrane 伸縮搖臂
 
-Slow circular dolly
+慢速環繞軌道車
 
-Macro inserts
+微距插入鏡頭
 
-Natural handheld during impacts
-
----
-
-# MUSIC
-
-The soundtrack begins immediately.
-
-Heavy hard rock guitar riff.
-
-Fast double-kick drums.
-
-Driving bass guitar.
-
-Hybrid orchestral percussion.
-
-Massive cinematic trailer hits.
-
-At the decisive strike, every instrument cuts instantly.
-
-Only breathing and cloth movement remain.
-
-The guitars return with maximum force.
+衝擊時的自然手持攝影
 
 ---
 
-# SOUND DESIGN
+# 音樂
 
-Bare footsteps.
+配樂立即開始。
 
-Fabric movement.
+沉重的硬搖滾吉他 Riff。
 
-Controlled breathing.
+快速的雙踏鼓點。
 
-Precise punches.
+強勁的貝斯吉他。
 
-Bone-deep body impacts.
+混合管弦樂打擊樂。
 
-Wood splintering.
+震撼的電影預告片重擊聲。
 
-Natural room ambience.
+在決定性的一擊時，所有樂器瞬間靜止。
 
-Perfect synchronization between every strike and every drum beat.
+僅剩下呼吸聲與衣物摩擦聲。
 
----
-
-# LIGHTING
-
-Morning sunlight through dojo windows.
-
-Warm highlights.
-
-Natural shadows.
-
-Floating dust particles.
-
-High dynamic range.
+吉他聲以最大力度回歸。
 
 ---
 
-# FORMAT
+# 音效設計
 
-10 seconds
+赤腳腳步聲。
 
-5 cinematic shots.
+衣物摩擦聲。
 
----
+受控的呼吸聲。
 
-## SHOT 1 (0:00–0:02) — THE CHALLENGE
+精準的拳擊聲。
 
-An enormous traditional dojo.
+深入骨髓的身體撞擊聲。
 
-The protagonist stands opposite six elite martial artists.
+木頭碎裂聲。
 
-Nobody speaks.
+自然的室內環境音。
 
-The hard rock riff begins immediately.
-
----
-
-## SHOT 2 (0:02–0:04) — STILLNESS
-
-Extreme close-up.
-
-The protagonist calmly closes his eyes.
-
-Everyone else prepares to attack.
-
-The drums begin building.
+每一次打擊與每一次鼓點完美同步。
 
 ---
 
-## SHOT 3 (0:04–0:06) — ONE MOVEMENT
+# 燈光
 
-The attackers rush simultaneously.
+透過道場窗戶射入的晨光。
 
-The protagonist makes one precise movement.
+溫暖的高光。
 
-The soundtrack drops to silence.
+自然的陰影。
 
-Only footsteps and breathing remain.
+漂浮的塵埃粒子。
 
----
-
-## SHOT 4 (0:06–0:08) — REVEAL
-
-The attackers freeze.
-
-One after another, they lose balance and collapse.
-
-The protagonist never changes expression.
-
-The guitars explode back in.
+高動態範圍。
 
 ---
 
-## SHOT 5 (0:08–0:10) — RESPECT
+# 格式
 
-The dojo master, watching from above, slowly bows.
+10 秒
 
-The protagonist returns the bow.
-
-The camera rises through the wooden ceiling into the morning sky.
-
-The final guitar chord sustains.
-
-Cut to black.
+5 個電影鏡頭。
 
 ---
 
-# EMOTIONAL TARGET
+## 鏡頭 1 (0:00–0:02) — 挑戰
 
-The audience should immediately think:
+一個巨大的傳統道場。
 
-**"Real mastery doesn't look fast... it looks effortless."**
+主角站在六名精英武術家對面。
+
+無人說話。
+
+硬搖滾 Riff 立即響起。
 
 ---
 
-# TECHNICAL REQUIREMENTS
+## 鏡頭 2 (0:02–0:04) — 靜止
 
-Feature-film reali
+極致特寫。
+
+主角冷靜地閉上雙眼。
+
+其他人準備發動攻擊。
+
+鼓點開始堆疊。
+
+---
+
+## 鏡頭 3 (0:04–0:06) — 一動
+
+攻擊者同時衝上前。
+
+主角做出一個精準的動作。
+
+配樂降至靜音。
+
+僅剩下腳步聲與呼吸聲。
+
+---
+
+## 鏡頭 4 (0:06–0:08) — 揭曉
+
+攻擊者僵住。
+
+他們一個接一個失去平衡並倒下。
+
+主角的表情毫無變化。
+
+吉他聲爆發回歸。
+
+---
+
+## 鏡頭 5 (0:08–0:10) — 敬意
+
+在上方觀看的道場師傅緩緩鞠躬。
+
+主角回禮。
+
+攝影機穿過木製天花板升向晨空。
+
+最後的吉他和弦持續迴盪。
+
+切至黑畫面。
+
+---
+
+# 情緒目標
+
+觀眾應該立即想到：
+
+**「真正的精通看起來並不快……它看起來毫不費力。」**
+
+---
+
+# 技術要求
+
+劇情片寫實感
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cinematic Martial Arts Fight Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="電影級武術打鬥場景">
 
 **[🎬 觀看視頻 →](https://x.com/vireonixx/status/2075533217193742739)**
 
 **作者:** [Virena](https://x.com/vireonixx) | **來源:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **發布時間:** Jul 10, 2026
 
 ---
-### Macro Cinematic Cockroach Comedy
+### 微距電影感蟑螂喜劇
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-stage video prompt for creating a photorealistic comedic scene of cockroaches interacting with a pizza slice, including a 10-second timeline.
+> 這是一個高度細節化的多階段影片提示詞，用於創作一個蟑螂與披薩互動的寫實喜劇場景，包含 10 秒的時間軸。
 
 #### 📝 提示詞
 
 ```
-Subject: A photorealistic, macro-cinematography comedic scene of two cockroaches on a gritty, slightly wet city sidewalk at night, interacting with a discarded slice of pizza.
+主體：一個寫實的微距電影感喜劇場景，兩隻蟑螂在夜晚充滿顆粒感且微濕的城市人行道上，與一片被丟棄的披薩互動。
 
-Camera & Aesthetic: Shot on a Leica SL2 with a 100mm macro lens. Emulate Kodak Portra 400 film stock with organic film grain, rich color contrast, and a shallow depth of field. The lighting is cinematic street lighting, with soft neon reflections bouncing off the greasy pizza cheese and wet concrete.
+攝影與美學：使用 Leica SL2 搭配 100mm 微距鏡頭拍攝。模擬 Kodak Portra 400 底片質感，具有有機底片顆粒、豐富的色彩對比以及淺景深。燈光採用電影級街頭照明，柔和的霓虹燈反射在油膩的披薩起司和濕潤的混凝土上。
 
-Audio: Gritty ambient street noise, squishy food sound effects, and a distinct character voiceover at the end.
+音效：粗獷的街道環境音、黏糊的食物音效，以及結尾處獨特的角色旁白。
 
-10 Second Timeline:
+10 秒時間軸：
 
-0-3s: Extreme macro close-up. Two highly detailed, expressive cockroaches are standing on top of a greasy, oversized slice of pizza. They have their front legs wrapped around a bright yellow, glistening pineapple ring embedded in the cheese. They are straining and pulling backward in unison.
+0-3 秒：極致微距特寫。兩隻細節豐富、表情生動的蟑螂站在一片油膩且巨大的披薩上。牠們的前腳環抱著鑲嵌在起司中、鮮黃且閃閃發光的鳳梨圈。牠們正合力向後拉扯。
 
-3-5s: The mozzarella cheese stretches dramatically like elastic. With a sudden, visceral snap, the pineapple ring breaks free from the crust.
+3-5 秒：莫札瑞拉起司像彈性體一樣戲劇性地拉伸。伴隨著一聲突如其來的清脆聲響，鳳梨圈從餅皮上脫落。
 
-5-7s: The camera rack focuses as the pineapple ring lands on its edge on the concrete and rolls rapidly away down the textured sidewalk, disappearing into the smooth, out-of-focus background bokeh.
+5-7 秒：鏡頭焦點轉換，鳳梨圈以邊緣著地，在混凝土上迅速滾動並沿著紋理豐富的人行道遠去，消失在平滑且失焦的背景散景中。
 
-7-10s: Quick cut back to the two cockroaches. They brush off their front legs in a gesture of relief. The camera zooms in slightly on the cockroach on the right as it looks directly at the camera, throwing its front legs up in exasperation, and distinctly shouts with perfect lip-sync/mandible-sync, "That is disgusting!"
+7-10 秒：快速切回兩隻蟑螂。牠們拍掉前腳，做出如釋重負的動作。鏡頭稍微拉近右側的蟑螂，牠直視鏡頭，憤慨地舉起前腳，並以完美的唇形/大顎同步，清晰地喊道：「這太噁心了！」
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Macro Cinematic Cockroach Comedy">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="微距電影感蟑螂喜劇">
 
 **[🎬 觀看視頻 →](https://x.com/michaelrabone/status/2075490289062400195)**
 
 **作者:** [Michael Rabone](https://x.com/michaelrabone) | **來源:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **發布時間:** Jul 10, 2026
 
 ---
-### Photorealistic Horror Film Sequence
+### 超寫實恐怖電影序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured 10-second cinematic horror sequence prompt that uses a reference image to create a tension-filled scene in a Victorian house.
+> 一個結構化的 10 秒電影級恐怖序列提示詞，利用參考圖像在維多利亞風格的房屋中營造充滿張力的場景。
 
 #### 📝 提示詞
 
 ```
-Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*.
+創作一個 10 秒超寫實電影級恐怖序列，靈感源自《厲陰宅》(The Conjuring)、《微笑》(Smile) 和《宿怨》(Hereditary)。
 
-Use the provided reference image as the protagonist.
+請使用提供的參考圖像作為主角。
 
-## STYLE
+## 風格
 
-Grounded horror.
-Minimal visual effects.
-Natural darkness.
-Practical lighting.
-Slow-building tension.
-No gore.
+寫實恐怖。
+極簡視覺特效。
+自然黑暗感。
+實景照明。
+緩慢堆疊的張力。
+無血腥畫面。
 
-## FORMAT
+## 格式
 
-10 seconds
-5 shots
+10 秒
+5 個鏡頭
 
-### SHOT 1 (0:00–0:02)
+### 鏡頭 1 (0:00–0:02)
 
-The protagonist explores an abandoned Victorian house using only a flashlight.
+主角僅使用手電筒探索一棟廢棄的維多利亞風格房屋。
 
-### SHOT 2 (0:02–0:04)
+### 鏡頭 2 (0:02–0:04)
 
-They take a photo down a dark hallway.
-Nothing unusual is visible.
+他們對著黑暗的走廊拍了一張照片。
+畫面中沒有任何異常。
 
-### SHOT 3 (0:04–0:06)
+### 鏡頭 3 (0:04–0:06)
 
-Looking at the photo, a smiling figure appears at the end of the hallway.
-The real hallway is empty.
+查看照片時，走廊盡頭出現了一個微笑的人影。
+現實中的走廊空無一人。
 
-### SHOT 4 (0:06–0:08)
+### 鏡頭 4 (0:06–0:08)
 
-They slowly lower the phone and look ahead.
-Still nothing.
+他們緩緩放下手機並向前看。
+依然什麼都沒有。
 
-### SHOT 5 (0:08–0:10)
+### 鏡頭 5 (0:08–0:10)
 
-They check the screen again.
-The smiling figure is now standing directly behind them in the photo.
-Cut to black before they turn around.
+他們再次查看螢幕。
+照片中，那個微笑的人影現在正站在他們身後。
+在他們轉身前畫面切換至全黑。
 
-Music
-Low drones.
-Wood creaks.
-One sharp orchestral sting at the final frame.
+音樂
+低沉的嗡嗡聲。
+木頭的吱呀聲。
+最後一幀伴隨一聲尖銳的管弦樂重擊。
 
-Emotional Target
+情感目標
 
-*"The camera saw what the eyes couldn't."
+*「鏡頭看見了肉眼無法察覺的事物。」
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Photorealistic Horror Film Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="超寫實恐怖電影序列">
 
 **[🎬 觀看視頻 →](https://x.com/vireonixx/status/2075377636420059580)**
 
@@ -2853,6 +2853,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-11T09:27:59.231Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-11T13:16:09.748Z</sub>
 
 </div>

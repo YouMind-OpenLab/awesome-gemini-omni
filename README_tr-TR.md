@@ -56,340 +56,340 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### Cinematic Product Orbit Ad
+### Sinematik Ürün Orbit Reklamı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple but effective prompt for generating a premium product advertisement with smooth camera movement and professional lighting effects.
+> Akıcı kamera hareketleri ve profesyonel ışık efektleriyle premium bir ürün reklamı oluşturmak için basit ama etkili bir komut.
 
 #### 📝 İstem
 
 ```
-camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+kamera ürünün etrafında yavaşça döner, yansımalar yüzey boyunca hareket eder, havada yumuşak parçacıklar, premium reklam hissi
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Cinematic Product Orbit Ad">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Sinematik Ürün Orbit Reklamı">
 
 **[🎬 Videoyu izle →](https://x.com/getimg_ai/status/2075683226681831794)**
 
 **Yazar:** [getimg.ai](https://x.com/getimg_ai) | **Kaynak:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **Yayınlandı:** Jul 10, 2026
 
 ---
-### Cinematic Martial Arts Fight Scene
+### Sinematik Dövüş Sanatları Aksiyon Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive video prompt for a 10-second martial arts sequence featuring technical camera details, audio design, and character identity preservation.
+> Teknik kamera detayları, ses tasarımı ve karakter kimliği koruması içeren 10 saniyelik bir dövüş sanatları sekansı için kapsamlı video istemi.
 
 #### 📝 İstem
 
 ```
-Create a 10-second ultra-photorealistic cinematic martial arts sequence inspired by classic Hong Kong action cinema, modern stunt choreography, and premium Hollywood filmmaking.
+Klasik Hong Kong aksiyon sinemasından, modern dublör koreografisinden ve birinci sınıf Hollywood film yapımcılığından ilham alan 10 saniyelik ultra fotogerçekçi sinematik dövüş sanatları sekansı oluşturun.
 
-Use the provided male reference image as the protagonist.
+Başrol oyuncusu olarak sağlanan erkek referans görselini kullanın.
 
-Maintain absolute identity consistency throughout every frame.
+Her karede mutlak kimlik tutarlılığını koruyun.
 
-Preserve exactly:
+Şunları tam olarak muhafaza edin:
 
-* Facial structure
-* Hairstyle
-* Eye shape
-* Skin tone
-* Body proportions
-* Facial hair (if present)
-* Clothing continuity
-* Expressions
-* Accessories
+* Yüz yapısı
+* Saç modeli
+* Göz şekli
+* Cilt tonu
+* Vücut oranları
+* Yüz kılları (varsa)
+* Kıyafet sürekliliği
+* İfadeler
+* Aksesuarlar
 
-The protagonist must remain perfectly recognizable during every movement, close-up, slow-motion sequence, and camera transition.
-
----
-
-# STYLE
-
-Ultra-photorealistic.
-
-Grounded martial arts.
-
-No supernatural powers.
-
-Authentic fight choreography.
-
-Feature-film quality.
-
-Practical stunt work.
-
-Invisible CGI.
-
-Premium cinematic color grading.
-
-Large-format IMAX cinematography.
+Başrol oyuncusu; her hareket, yakın çekim, ağır çekim sekansı ve kamera geçişi sırasında mükemmel bir şekilde tanınabilir kalmalıdır.
 
 ---
 
-# CAMERA PACKAGE
+# STİL
+
+Ultra fotogerçekçi.
+
+Gerçekçi dövüş sanatları.
+
+Doğaüstü güçler yok.
+
+Otantik dövüş koreografisi.
+
+Uzun metrajlı film kalitesi.
+
+Pratik dublör çalışması.
+
+Görünmez CGI.
+
+Birinci sınıf sinematik renk derecelendirmesi.
+
+Büyük format IMAX sinematografisi.
+
+---
+
+# KAMERA PAKETİ
 
 ARRI ALEXA 65
 
-Panavision Ultra Vista anamorphic lenses
+Panavision Ultra Vista anamorfik lensler
 
 Steadicam
 
-High-speed Phantom Flex
+Yüksek hızlı Phantom Flex
 
 Technocrane
 
-Slow circular dolly
+Yavaş dairesel dolly
 
-Macro inserts
+Makro detay çekimleri
 
-Natural handheld during impacts
-
----
-
-# MUSIC
-
-The soundtrack begins immediately.
-
-Heavy hard rock guitar riff.
-
-Fast double-kick drums.
-
-Driving bass guitar.
-
-Hybrid orchestral percussion.
-
-Massive cinematic trailer hits.
-
-At the decisive strike, every instrument cuts instantly.
-
-Only breathing and cloth movement remain.
-
-The guitars return with maximum force.
+Darbe anlarında doğal el kamerası
 
 ---
 
-# SOUND DESIGN
+# MÜZİK
 
-Bare footsteps.
+Film müziği hemen başlar.
 
-Fabric movement.
+Ağır hard rock gitar riffleri.
 
-Controlled breathing.
+Hızlı çift vuruşlu davullar.
 
-Precise punches.
+Sürükleyici bas gitar.
 
-Bone-deep body impacts.
+Hibrit orkestral perküsyon.
 
-Wood splintering.
+Devasa sinematik fragman vuruşları.
 
-Natural room ambience.
+Belirleyici vuruş anında tüm enstrümanlar aniden kesilir.
 
-Perfect synchronization between every strike and every drum beat.
+Sadece nefes alışverişi ve kumaş sesi kalır.
+
+Gitarlar maksimum güçle geri döner.
 
 ---
 
-# LIGHTING
+# SES TASARIMI
 
-Morning sunlight through dojo windows.
+Çıplak ayak sesleri.
 
-Warm highlights.
+Kumaş hareketi.
 
-Natural shadows.
+Kontrollü nefes alışverişi.
 
-Floating dust particles.
+Hassas yumruklar.
 
-High dynamic range.
+Derin vücut darbeleri.
+
+Tahta kırılma sesleri.
+
+Doğal ortam ambiyansı.
+
+Her vuruş ile her davul ritmi arasında mükemmel senkronizasyon.
+
+---
+
+# AYDINLATMA
+
+Dojo pencerelerinden süzülen sabah güneş ışığı.
+
+Sıcak vurgular.
+
+Doğal gölgeler.
+
+Havada uçuşan toz parçacıkları.
+
+Yüksek dinamik aralık.
 
 ---
 
 # FORMAT
 
-10 seconds
+10 saniye
 
-5 cinematic shots.
-
----
-
-## SHOT 1 (0:00–0:02) — THE CHALLENGE
-
-An enormous traditional dojo.
-
-The protagonist stands opposite six elite martial artists.
-
-Nobody speaks.
-
-The hard rock riff begins immediately.
+5 sinematik çekim.
 
 ---
 
-## SHOT 2 (0:02–0:04) — STILLNESS
+## ÇEKİM 1 (0:00–0:02) — MEYDAN OKUMA
 
-Extreme close-up.
+Devasa, geleneksel bir dojo.
 
-The protagonist calmly closes his eyes.
+Başrol oyuncusu, altı seçkin dövüş sanatçısının karşısında duruyor.
 
-Everyone else prepares to attack.
+Kimse konuşmuyor.
 
-The drums begin building.
-
----
-
-## SHOT 3 (0:04–0:06) — ONE MOVEMENT
-
-The attackers rush simultaneously.
-
-The protagonist makes one precise movement.
-
-The soundtrack drops to silence.
-
-Only footsteps and breathing remain.
+Hard rock riffleri hemen başlıyor.
 
 ---
 
-## SHOT 4 (0:06–0:08) — REVEAL
+## ÇEKİM 2 (0:02–0:04) — SESSİZLİK
 
-The attackers freeze.
+Ekstrem yakın çekim.
 
-One after another, they lose balance and collapse.
+Başrol oyuncusu sakince gözlerini kapatıyor.
 
-The protagonist never changes expression.
+Diğer herkes saldırıya hazırlanıyor.
 
-The guitars explode back in.
-
----
-
-## SHOT 5 (0:08–0:10) — RESPECT
-
-The dojo master, watching from above, slowly bows.
-
-The protagonist returns the bow.
-
-The camera rises through the wooden ceiling into the morning sky.
-
-The final guitar chord sustains.
-
-Cut to black.
+Davullar yükselmeye başlıyor.
 
 ---
 
-# EMOTIONAL TARGET
+## ÇEKİM 3 (0:04–0:06) — TEK BİR HAREKET
 
-The audience should immediately think:
+Saldırganlar aynı anda ileri atılıyor.
 
-**"Real mastery doesn't look fast... it looks effortless."**
+Başrol oyuncusu tek bir hassas hareket yapıyor.
+
+Film müziği sessizliğe gömülüyor.
+
+Sadece ayak sesleri ve nefesler kalıyor.
 
 ---
 
-# TECHNICAL REQUIREMENTS
+## ÇEKİM 4 (0:06–0:08) — ORTAYA ÇIKIŞ
 
-Feature-film reali
+Saldırganlar donup kalıyor.
+
+Birbiri ardına dengelerini kaybedip yere yığılıyorlar.
+
+Başrol oyuncusunun ifadesi hiç değişmiyor.
+
+Gitarlar patlayarak geri giriyor.
+
+---
+
+## ÇEKİM 5 (0:08–0:10) — SAYGI
+
+Yukarıdan izleyen dojo ustası yavaşça selam veriyor.
+
+Başrol oyuncusu selamına karşılık veriyor.
+
+Kamera ahşap tavandan yükselerek sabah gökyüzüne çıkıyor.
+
+Son gitar akoru uzuyor.
+
+Siyaha geçiş.
+
+---
+
+# DUYGUSAL HEDEF
+
+İzleyici anında şunu düşünmeli:
+
+**"Gerçek ustalık hızlı görünmez... zahmetsiz görünür."**
+
+---
+
+# TEKNİK GEREKSİNİMLER
+
+Uzun metrajlı film gerçekçiliği
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cinematic Martial Arts Fight Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Sinematik Dövüş Sanatları Aksiyon Sahnesi">
 
 **[🎬 Videoyu izle →](https://x.com/vireonixx/status/2075533217193742739)**
 
 **Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **Yayınlandı:** Jul 10, 2026
 
 ---
-### Macro Cinematic Cockroach Comedy
+### Makro Sinematik Hamam Böceği Komedisi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-stage video prompt for creating a photorealistic comedic scene of cockroaches interacting with a pizza slice, including a 10-second timeline.
+> Hamam böceklerinin bir pizza dilimiyle etkileşimini konu alan, fotorealistik ve komik bir sahne oluşturmaya yönelik, 10 saniyelik zaman çizelgesini de içeren çok aşamalı ve son derece detaylı bir video istemi.
 
 #### 📝 İstem
 
 ```
-Subject: A photorealistic, macro-cinematography comedic scene of two cockroaches on a gritty, slightly wet city sidewalk at night, interacting with a discarded slice of pizza.
+Konu: Gece vakti, kirli ve hafif ıslak bir şehir kaldırımında, atılmış bir pizza dilimiyle etkileşime giren iki hamam böceğinin yer aldığı, makro sinematografi tarzında fotorealistik ve komik bir sahne.
 
-Camera & Aesthetic: Shot on a Leica SL2 with a 100mm macro lens. Emulate Kodak Portra 400 film stock with organic film grain, rich color contrast, and a shallow depth of field. The lighting is cinematic street lighting, with soft neon reflections bouncing off the greasy pizza cheese and wet concrete.
+Kamera ve Estetik: 100mm makro lensli Leica SL2 ile çekilmiştir. Organik film greni, zengin renk kontrastı ve sığ alan derinliği ile Kodak Portra 400 film stoğunu taklit eder. Aydınlatma, yağlı pizza peyniri ve ıslak beton üzerinde yansıyan yumuşak neon ışıklarıyla sinematik bir sokak aydınlatmasıdır.
 
-Audio: Gritty ambient street noise, squishy food sound effects, and a distinct character voiceover at the end.
+Ses: Sert sokak ortam sesleri, vıcık vıcık yiyecek ses efektleri ve sonunda belirgin bir karakter seslendirmesi.
 
-10 Second Timeline:
+10 Saniyelik Zaman Çizelgesi:
 
-0-3s: Extreme macro close-up. Two highly detailed, expressive cockroaches are standing on top of a greasy, oversized slice of pizza. They have their front legs wrapped around a bright yellow, glistening pineapple ring embedded in the cheese. They are straining and pulling backward in unison.
+0-3 sn: Aşırı makro yakın çekim. Son derece detaylı ve ifadeli iki hamam böceği, yağlı ve büyük bir pizza diliminin üzerinde duruyor. Ön bacaklarını, peynirin içine gömülü parlak sarı, parlayan bir ananas halkasına dolamışlar. Birlikte zorlanarak geriye doğru çekiliyorlar.
 
-3-5s: The mozzarella cheese stretches dramatically like elastic. With a sudden, visceral snap, the pineapple ring breaks free from the crust.
+3-5 sn: Mozzarella peyniri elastik bir şekilde dramatik olarak uzuyor. Ani ve içgüdüsel bir kopuşla, ananas halkası hamurdan kurtuluyor.
 
-5-7s: The camera rack focuses as the pineapple ring lands on its edge on the concrete and rolls rapidly away down the textured sidewalk, disappearing into the smooth, out-of-focus background bokeh.
+5-7 sn: Kamera odağı kaydırıyor; ananas halkası kenarı üzerine betonun üzerine düşüyor ve dokulu kaldırım boyunca hızla yuvarlanarak odak dışı kalmış pürüzsüz arka plan bokeh efektinin içinde kayboluyor.
 
-7-10s: Quick cut back to the two cockroaches. They brush off their front legs in a gesture of relief. The camera zooms in slightly on the cockroach on the right as it looks directly at the camera, throwing its front legs up in exasperation, and distinctly shouts with perfect lip-sync/mandible-sync, "That is disgusting!"
+7-10 sn: İki hamam böceğine hızlı bir kesme. Rahatlamış bir jestle ön bacaklarını temizliyorlar. Kamera, sağdaki hamam böceğine hafifçe yakınlaşıyor; böcek doğrudan kameraya bakıyor, ön bacaklarını bıkkınlıkla havaya kaldırıyor ve mükemmel bir dudak/çene senkronizasyonuyla net bir şekilde "Bu iğrenç!" diye bağırıyor.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Macro Cinematic Cockroach Comedy">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Makro Sinematik Hamam Böceği Komedisi">
 
 **[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2075490289062400195)**
 
 **Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **Yayınlandı:** Jul 10, 2026
 
 ---
-### Photorealistic Horror Film Sequence
+### Fotogerçekçi Korku Filmi Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured 10-second cinematic horror sequence prompt that uses a reference image to create a tension-filled scene in a Victorian house.
+> Victorian tarzı bir evde gerilim dolu bir sahne oluşturmak için referans görsel kullanan, 10 saniyelik yapılandırılmış sinematik korku sekansı istemi.
 
 #### 📝 İstem
 
 ```
-Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*.
+The Conjuring, Smile ve Hereditary filmlerinden esinlenen, 10 saniyelik ultra fotogerçekçi sinematik bir korku sekansı oluşturun.
 
-Use the provided reference image as the protagonist.
+Sağlanan referans görseli başrol karakteri olarak kullanın.
 
-## STYLE
+## STİL
 
-Grounded horror.
-Minimal visual effects.
-Natural darkness.
-Practical lighting.
-Slow-building tension.
-No gore.
+Gerçekçi korku.
+Minimal görsel efektler.
+Doğal karanlık.
+Doğal ışıklandırma.
+Yavaş yavaş artan gerilim.
+Kan ve şiddet içermez.
 
 ## FORMAT
 
-10 seconds
-5 shots
+10 saniye
+5 çekim
 
-### SHOT 1 (0:00–0:02)
+### 1. ÇEKİM (0:00–0:02)
 
-The protagonist explores an abandoned Victorian house using only a flashlight.
+Başrol karakteri, sadece bir el feneri kullanarak terk edilmiş bir Victorian evini keşfediyor.
 
-### SHOT 2 (0:02–0:04)
+### 2. ÇEKİM (0:02–0:04)
 
-They take a photo down a dark hallway.
-Nothing unusual is visible.
+Karanlık bir koridorun fotoğrafını çekiyor.
+Görünürde sıra dışı hiçbir şey yok.
 
-### SHOT 3 (0:04–0:06)
+### 3. ÇEKİM (0:04–0:06)
 
-Looking at the photo, a smiling figure appears at the end of the hallway.
-The real hallway is empty.
+Fotoğrafa baktığında, koridorun sonunda gülümseyen bir figür beliriyor.
+Gerçek koridor ise boş.
 
-### SHOT 4 (0:06–0:08)
+### 4. ÇEKİM (0:06–0:08)
 
-They slowly lower the phone and look ahead.
-Still nothing.
+Yavaşça telefonu indirip ileriye bakıyor.
+Hala hiçbir şey yok.
 
-### SHOT 5 (0:08–0:10)
+### 5. ÇEKİM (0:08–0:10)
 
-They check the screen again.
-The smiling figure is now standing directly behind them in the photo.
-Cut to black before they turn around.
+Ekrana tekrar bakıyor.
+Gülümseyen figür artık fotoğrafta tam arkasında duruyor.
+Karakter arkasını dönmeden ekran kararır.
 
-Music
-Low drones.
-Wood creaks.
-One sharp orchestral sting at the final frame.
+Müzik
+Derinden gelen uğultular.
+Ahşap gıcırtıları.
+Son karede keskin bir orkestral vurgu.
 
-Emotional Target
+Duygusal Hedef
 
-*"The camera saw what the eyes couldn't."
+*"Kamera, gözlerin göremediğini gördü."
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Photorealistic Horror Film Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Fotogerçekçi Korku Filmi Sekansı">
 
 **[🎬 Videoyu izle →](https://x.com/vireonixx/status/2075377636420059580)**
 
@@ -2853,6 +2853,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-11T09:28:13.786Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-11T13:17:08.789Z</sub>
 
 </div>

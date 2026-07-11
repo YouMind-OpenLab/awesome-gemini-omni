@@ -56,340 +56,340 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### Cinematic Product Orbit Ad
+### โฆษณาสินค้าแบบ Cinematic Product Orbit
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple but effective prompt for generating a premium product advertisement with smooth camera movement and professional lighting effects.
+> คำสั่ง (Prompt) ที่เรียบง่ายแต่ทรงพลังสำหรับการสร้างสรรค์โฆษณาสินค้าระดับพรีเมียม ด้วยการเคลื่อนกล้องที่นุ่มนวลและเอฟเฟกต์แสงระดับมืออาชีพ
 
 #### 📝 พรอมต์
 
 ```
-camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+กล้องเคลื่อนที่เป็นวงกลมรอบสินค้าอย่างช้าๆ มีแสงสะท้อนเคลื่อนผ่านพื้นผิว มีละอองฝุ่นนุ่มนวลในอากาศ ให้ความรู้สึกเหมือนโฆษณาระดับพรีเมียม
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Cinematic Product Orbit Ad">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="โฆษณาสินค้าแบบ Cinematic Product Orbit">
 
 **[🎬 ดูวิดีโอ →](https://x.com/getimg_ai/status/2075683226681831794)**
 
 **ผู้เขียน:** [getimg.ai](https://x.com/getimg_ai) | **แหล่งที่มา:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **เผยแพร่เมื่อ:** Jul 10, 2026
 
 ---
-### Cinematic Martial Arts Fight Scene
+### ฉากต่อสู้ศิลปะการต่อสู้สไตล์ภาพยนตร์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive video prompt for a 10-second martial arts sequence featuring technical camera details, audio design, and character identity preservation.
+> พรอมต์วิดีโอฉบับสมบูรณ์สำหรับฉากศิลปะการต่อสู้ความยาว 10 วินาที ที่มาพร้อมรายละเอียดทางเทคนิคของกล้อง การออกแบบเสียง และการรักษาเอกลักษณ์ของตัวละคร
 
 #### 📝 พรอมต์
 
 ```
-Create a 10-second ultra-photorealistic cinematic martial arts sequence inspired by classic Hong Kong action cinema, modern stunt choreography, and premium Hollywood filmmaking.
+สร้างฉากศิลปะการต่อสู้ความยาว 10 วินาที ที่มีความสมจริงระดับสูงในสไตล์ภาพยนตร์ โดยได้รับแรงบันดาลใจจากภาพยนตร์แอ็กชันฮ่องกงคลาสสิก การออกแบบท่าต่อสู้สมัยใหม่ และการสร้างภาพยนตร์ระดับฮอลลีวูด
 
-Use the provided male reference image as the protagonist.
+ใช้ภาพอ้างอิงตัวละครชายที่ให้มาเป็นตัวเอก
 
-Maintain absolute identity consistency throughout every frame.
+รักษาความคงที่ของเอกลักษณ์ตัวละครให้สมบูรณ์แบบในทุกเฟรม
 
-Preserve exactly:
+คงรายละเอียดดังนี้ให้แม่นยำ:
 
-* Facial structure
-* Hairstyle
-* Eye shape
-* Skin tone
-* Body proportions
-* Facial hair (if present)
-* Clothing continuity
-* Expressions
-* Accessories
+* โครงสร้างใบหน้า
+* ทรงผม
+* รูปทรงดวงตา
+* โทนสีผิว
+* สัดส่วนร่างกาย
+* หนวดเครา (ถ้ามี)
+* ความต่อเนื่องของเสื้อผ้า
+* สีหน้าและอารมณ์
+* เครื่องประดับ
 
-The protagonist must remain perfectly recognizable during every movement, close-up, slow-motion sequence, and camera transition.
-
----
-
-# STYLE
-
-Ultra-photorealistic.
-
-Grounded martial arts.
-
-No supernatural powers.
-
-Authentic fight choreography.
-
-Feature-film quality.
-
-Practical stunt work.
-
-Invisible CGI.
-
-Premium cinematic color grading.
-
-Large-format IMAX cinematography.
+ตัวเอกจะต้องคงความชัดเจนและจดจำได้ง่ายในทุกการเคลื่อนไหว ทุกฉากโคลสอัพ ทุกฉากสโลว์โมชัน และทุกการเปลี่ยนมุมกล้อง
 
 ---
 
-# CAMERA PACKAGE
+# สไตล์ (STYLE)
+
+สมจริงระดับภาพถ่าย (Ultra-photorealistic)
+
+ศิลปะการต่อสู้ที่สมจริง
+
+ไม่มีพลังเหนือธรรมชาติ
+
+ท่าต่อสู้ที่สมจริงและมีที่มา
+
+คุณภาพระดับภาพยนตร์ฟอร์มยักษ์
+
+การแสดงสตันท์แบบดั้งเดิม
+
+CGI ที่แนบเนียน
+
+การเกรดสีระดับพรีเมียม
+
+งานภาพสไตล์ IMAX จอใหญ่
+
+---
+
+# อุปกรณ์กล้อง (CAMERA PACKAGE)
 
 ARRI ALEXA 65
 
-Panavision Ultra Vista anamorphic lenses
+เลนส์อะนามอร์ฟิก Panavision Ultra Vista
 
 Steadicam
 
-High-speed Phantom Flex
+กล้องความเร็วสูง Phantom Flex
 
 Technocrane
 
-Slow circular dolly
+การเคลื่อนกล้องแบบ Dolly วนรอบช้าๆ
 
-Macro inserts
+การถ่ายเจาะแบบมาโคร (Macro inserts)
 
-Natural handheld during impacts
-
----
-
-# MUSIC
-
-The soundtrack begins immediately.
-
-Heavy hard rock guitar riff.
-
-Fast double-kick drums.
-
-Driving bass guitar.
-
-Hybrid orchestral percussion.
-
-Massive cinematic trailer hits.
-
-At the decisive strike, every instrument cuts instantly.
-
-Only breathing and cloth movement remain.
-
-The guitars return with maximum force.
+การถ่ายแบบถือกล้องด้วยมือ (Handheld) ที่ดูเป็นธรรมชาติในช่วงที่มีการปะทะ
 
 ---
 
-# SOUND DESIGN
+# ดนตรี (MUSIC)
 
-Bare footsteps.
+ดนตรีประกอบเริ่มขึ้นทันที
 
-Fabric movement.
+เสียงกีตาร์ฮาร์ดร็อกหนักๆ
 
-Controlled breathing.
+เสียงกลองกระเดื่องคู่ที่รวดเร็ว
 
-Precise punches.
+เสียงเบสที่ดุดัน
 
-Bone-deep body impacts.
+เสียงเครื่องดนตรีออร์เคสตราผสมผสานกับเพอร์คัสชัน
 
-Wood splintering.
+เสียงเอฟเฟกต์หนักๆ แบบตัวอย่างภาพยนตร์
 
-Natural room ambience.
+ในจังหวะการโจมตีตัดสิน ดนตรีทุกชิ้นจะเงียบลงทันที
 
-Perfect synchronization between every strike and every drum beat.
+เหลือเพียงเสียงลมหายใจและเสียงการเคลื่อนไหวของเสื้อผ้า
 
----
-
-# LIGHTING
-
-Morning sunlight through dojo windows.
-
-Warm highlights.
-
-Natural shadows.
-
-Floating dust particles.
-
-High dynamic range.
+จากนั้นเสียงกีตาร์จะกลับมาดังขึ้นอีกครั้งอย่างทรงพลัง
 
 ---
 
-# FORMAT
+# การออกแบบเสียง (SOUND DESIGN)
 
-10 seconds
+เสียงฝีเท้าเปล่า
 
-5 cinematic shots.
+เสียงการเคลื่อนไหวของเนื้อผ้า
 
----
+เสียงลมหายใจที่ควบคุมได้
 
-## SHOT 1 (0:00–0:02) — THE CHALLENGE
+เสียงหมัดที่แม่นยำ
 
-An enormous traditional dojo.
+เสียงการปะทะร่างกายที่หนักแน่น
 
-The protagonist stands opposite six elite martial artists.
+เสียงไม้แตก
 
-Nobody speaks.
+เสียงบรรยากาศธรรมชาติภายในห้อง
 
-The hard rock riff begins immediately.
-
----
-
-## SHOT 2 (0:02–0:04) — STILLNESS
-
-Extreme close-up.
-
-The protagonist calmly closes his eyes.
-
-Everyone else prepares to attack.
-
-The drums begin building.
+จังหวะที่สอดประสานกันอย่างสมบูรณ์แบบระหว่างการโจมตีและเสียงกลอง
 
 ---
 
-## SHOT 3 (0:04–0:06) — ONE MOVEMENT
+# แสง (LIGHTING)
 
-The attackers rush simultaneously.
+แสงแดดยามเช้าส่องผ่านหน้าต่างโรงฝึก (Dojo)
 
-The protagonist makes one precise movement.
+ไฮไลต์โทนอุ่น
 
-The soundtrack drops to silence.
+เงาที่เป็นธรรมชาติ
 
-Only footsteps and breathing remain.
+ละอองฝุ่นที่ลอยอยู่ในอากาศ
 
----
-
-## SHOT 4 (0:06–0:08) — REVEAL
-
-The attackers freeze.
-
-One after another, they lose balance and collapse.
-
-The protagonist never changes expression.
-
-The guitars explode back in.
+ช่วงไดนามิกของแสงสูง (High dynamic range)
 
 ---
 
-## SHOT 5 (0:08–0:10) — RESPECT
+# รูปแบบ (FORMAT)
 
-The dojo master, watching from above, slowly bows.
+10 วินาที
 
-The protagonist returns the bow.
-
-The camera rises through the wooden ceiling into the morning sky.
-
-The final guitar chord sustains.
-
-Cut to black.
+5 ช็อตภาพยนตร์
 
 ---
 
-# EMOTIONAL TARGET
+## ช็อตที่ 1 (0:00–0:02) — การท้าทาย
 
-The audience should immediately think:
+โรงฝึกแบบดั้งเดิมขนาดใหญ่
 
-**"Real mastery doesn't look fast... it looks effortless."**
+ตัวเอกยืนเผชิญหน้ากับนักสู้ฝีมือเยี่ยม 6 คน
+
+ไม่มีใครพูดอะไร
+
+เสียงกีตาร์ฮาร์ดร็อกเริ่มขึ้นทันที
 
 ---
 
-# TECHNICAL REQUIREMENTS
+## ช็อตที่ 2 (0:02–0:04) — ความนิ่งสงบ
 
-Feature-film reali
+ภาพโคลสอัพใบหน้าแบบสุดๆ
+
+ตัวเอกหลับตาลงอย่างใจเย็น
+
+คนอื่นๆ เตรียมตัวเข้าจู่โจม
+
+เสียงกลองเริ่มเร่งจังหวะขึ้น
+
+---
+
+## ช็อตที่ 3 (0:04–0:06) — การเคลื่อนไหวเดียว
+
+เหล่านักสู้พุ่งเข้ามาพร้อมกัน
+
+ตัวเอกขยับตัวเพียงครั้งเดียวอย่างแม่นยำ
+
+ดนตรีประกอบเงียบลง
+
+เหลือเพียงเสียงฝีเท้าและเสียงลมหายใจ
+
+---
+
+## ช็อตที่ 4 (0:06–0:08) — การเปิดเผย
+
+เหล่านักสู้หยุดชะงัก
+
+ทีละคน พวกเขาเสียหลักและล้มลง
+
+ตัวเอกยังคงสีหน้าเรียบเฉย
+
+เสียงกีตาร์ระเบิดดังขึ้นอีกครั้ง
+
+---
+
+## ช็อตที่ 5 (0:08–0:10) — การให้เกียรติ
+
+อาจารย์ประจำโรงฝึกที่เฝ้ามองจากด้านบน โค้งคำนับช้าๆ
+
+ตัวเอกโค้งคำนับตอบ
+
+กล้องค่อยๆ เคลื่อนผ่านเพดานไม้ขึ้นสู่ท้องฟ้ายามเช้า
+
+เสียงคอร์ดกีตาร์สุดท้ายค่อยๆ จางหายไป
+
+ตัดเข้าสู่หน้าจอดำ
+
+---
+
+# เป้าหมายทางอารมณ์ (EMOTIONAL TARGET)
+
+ผู้ชมควรจะคิดในทันทีว่า:
+
+**"ยอดฝีมือที่แท้จริงไม่ได้ดูรวดเร็ว... แต่ดูเหมือนไม่ต้องใช้ความพยายามเลย"**
+
+---
+
+# ข้อกำหนดทางเทคนิค (TECHNICAL REQUIREMENTS)
+
+ความสมจริงระดับภาพยนตร์
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cinematic Martial Arts Fight Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="ฉากต่อสู้ศิลปะการต่อสู้สไตล์ภาพยนตร์">
 
 **[🎬 ดูวิดีโอ →](https://x.com/vireonixx/status/2075533217193742739)**
 
 **ผู้เขียน:** [Virena](https://x.com/vireonixx) | **แหล่งที่มา:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **เผยแพร่เมื่อ:** Jul 10, 2026
 
 ---
-### Macro Cinematic Cockroach Comedy
+### คอมเมดี้แมลงสาบสไตล์มาโครสุดสมจริง
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-stage video prompt for creating a photorealistic comedic scene of cockroaches interacting with a pizza slice, including a 10-second timeline.
+> พรอมต์วิดีโอแบบหลายขั้นตอนที่มีรายละเอียดสูง สำหรับการสร้างฉากคอมเมดี้ที่สมจริงของแมลงสาบที่กำลังโต้ตอบกับชิ้นพิซซ่า พร้อมไทม์ไลน์ความยาว 10 วินาที
 
 #### 📝 พรอมต์
 
 ```
-Subject: A photorealistic, macro-cinematography comedic scene of two cockroaches on a gritty, slightly wet city sidewalk at night, interacting with a discarded slice of pizza.
+หัวข้อ: ฉากคอมเมดี้สไตล์มาโครที่สมจริงของแมลงสาบสองตัวบนทางเท้าในเมืองที่ดูสกปรกและเปียกชื้นในยามค่ำคืน กำลังโต้ตอบกับเศษพิซซ่าที่ถูกทิ้งไว้
 
-Camera & Aesthetic: Shot on a Leica SL2 with a 100mm macro lens. Emulate Kodak Portra 400 film stock with organic film grain, rich color contrast, and a shallow depth of field. The lighting is cinematic street lighting, with soft neon reflections bouncing off the greasy pizza cheese and wet concrete.
+กล้องและสุนทรียภาพ: ถ่ายด้วยกล้อง Leica SL2 พร้อมเลนส์มาโคร 100 มม. จำลองฟิล์ม Kodak Portra 400 ที่มีเกรนฟิล์มแบบออร์แกนิก คอนทราสต์ของสีที่เข้มข้น และระยะชัดลึกที่ตื้น แสงเป็นแบบภาพยนตร์จากไฟถนน พร้อมแสงสะท้อนจากป้ายนีออนที่ตกกระทบลงบนชีสพิซซ่าที่มันเยิ้มและพื้นคอนกรีตที่เปียกชื้น
 
-Audio: Gritty ambient street noise, squishy food sound effects, and a distinct character voiceover at the end.
+เสียง: เสียงบรรยากาศถนนที่ดูสมจริง เสียงเอฟเฟกต์อาหารที่ดูนุ่มนิ่ม และเสียงพากย์ตัวละครที่ชัดเจนในช่วงท้าย
 
-10 Second Timeline:
+ไทม์ไลน์ 10 วินาที:
 
-0-3s: Extreme macro close-up. Two highly detailed, expressive cockroaches are standing on top of a greasy, oversized slice of pizza. They have their front legs wrapped around a bright yellow, glistening pineapple ring embedded in the cheese. They are straining and pulling backward in unison.
+0-3 วินาที: ภาพมาโครระยะใกล้สุดๆ แมลงสาบสองตัวที่มีรายละเอียดสูงและแสดงสีหน้าท่าทางได้ชัดเจนกำลังยืนอยู่บนชิ้นพิซซ่าที่มันเยิ้มและมีขนาดใหญ่เกินจริง ขาหน้าของพวกมันโอบรอบวงสับปะรดสีเหลืองสดใสที่ฝังอยู่ในชีส พวกมันกำลังออกแรงดึงถอยหลังพร้อมกัน
 
-3-5s: The mozzarella cheese stretches dramatically like elastic. With a sudden, visceral snap, the pineapple ring breaks free from the crust.
+3-5 วินาที: มอสซาเรลล่าชีสยืดออกอย่างน่าทึ่งเหมือนยางยืด และด้วยเสียงดีดที่ดังชัดเจน วงสับปะรดก็หลุดออกมาจากขอบแป้งพิซซ่า
 
-5-7s: The camera rack focuses as the pineapple ring lands on its edge on the concrete and rolls rapidly away down the textured sidewalk, disappearing into the smooth, out-of-focus background bokeh.
+5-7 วินาที: กล้องปรับโฟกัสตามวงสับปะรดที่ตกลงบนขอบทางเท้าและกลิ้งออกไปอย่างรวดเร็วตามพื้นผิวทางเท้า ก่อนจะหายลับไปในพื้นหลังที่เบลอ (bokeh)
 
-7-10s: Quick cut back to the two cockroaches. They brush off their front legs in a gesture of relief. The camera zooms in slightly on the cockroach on the right as it looks directly at the camera, throwing its front legs up in exasperation, and distinctly shouts with perfect lip-sync/mandible-sync, "That is disgusting!"
+7-10 วินาที: ตัดภาพกลับมาที่แมลงสาบสองตัวอย่างรวดเร็ว พวกมันปัดขาหน้าออกเหมือนกำลังโล่งใจ กล้องซูมเข้าไปที่แมลงสาบตัวขวาเล็กน้อยขณะที่มันมองตรงมาที่กล้อง พร้อมยกขาหน้าขึ้นด้วยท่าทางหงุดหงิด และตะโกนออกมาอย่างชัดเจนด้วยการขยับปาก/ขยับกรามที่ตรงกับเสียงว่า "นั่นมันน่าขยะแขยงจริงๆ!"
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Macro Cinematic Cockroach Comedy">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="คอมเมดี้แมลงสาบสไตล์มาโครสุดสมจริง">
 
 **[🎬 ดูวิดีโอ →](https://x.com/michaelrabone/status/2075490289062400195)**
 
 **ผู้เขียน:** [Michael Rabone](https://x.com/michaelrabone) | **แหล่งที่มา:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **เผยแพร่เมื่อ:** Jul 10, 2026
 
 ---
-### Photorealistic Horror Film Sequence
+### ลำดับภาพยนตร์สยองขวัญสมจริงระดับภาพถ่าย
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured 10-second cinematic horror sequence prompt that uses a reference image to create a tension-filled scene in a Victorian house.
+> ชุดคำสั่ง (Prompt) สำหรับสร้างลำดับภาพยนตร์สยองขวัญความยาว 10 วินาทีที่เน้นโครงสร้าง โดยใช้ภาพอ้างอิงเพื่อสร้างฉากที่เต็มไปด้วยความตึงเครียดภายในบ้านสไตล์วิกตอเรียน
 
 #### 📝 พรอมต์
 
 ```
-Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*.
+สร้างลำดับภาพยนตร์สยองขวัญความยาว 10 วินาทีที่สมจริงระดับภาพถ่าย โดยได้รับแรงบันดาลใจจากภาพยนตร์เรื่อง The Conjuring, Smile และ Hereditary
 
-Use the provided reference image as the protagonist.
+ใช้ภาพอ้างอิงที่กำหนดให้เป็นตัวละครหลัก
 
-## STYLE
+## สไตล์
 
-Grounded horror.
-Minimal visual effects.
-Natural darkness.
-Practical lighting.
-Slow-building tension.
-No gore.
+สยองขวัญแบบสมจริง
+เน้นเอฟเฟกต์ภาพน้อยที่สุด
+ความมืดที่เป็นธรรมชาติ
+การจัดแสงแบบสมจริง
+ความตึงเครียดที่ค่อย ๆ ก่อตัวขึ้น
+ไม่มีฉากเลือดสาด
 
-## FORMAT
+## รูปแบบ
 
-10 seconds
-5 shots
+ความยาว 10 วินาที
+จำนวน 5 ช็อต
 
-### SHOT 1 (0:00–0:02)
+### ช็อตที่ 1 (0:00–0:02)
 
-The protagonist explores an abandoned Victorian house using only a flashlight.
+ตัวละครหลักสำรวจบ้านสไตล์วิกตอเรียนที่ถูกทิ้งร้างโดยใช้เพียงไฟฉาย
 
-### SHOT 2 (0:02–0:04)
+### ช็อตที่ 2 (0:02–0:04)
 
-They take a photo down a dark hallway.
-Nothing unusual is visible.
+ตัวละครถ่ายภาพไปตามโถงทางเดินที่มืดมิด
+ไม่พบสิ่งผิดปกติใด ๆ ในภาพ
 
-### SHOT 3 (0:04–0:06)
+### ช็อตที่ 3 (0:04–0:06)
 
-Looking at the photo, a smiling figure appears at the end of the hallway.
-The real hallway is empty.
+เมื่อดูภาพถ่าย ปรากฏร่างที่มีรอยยิ้มอยู่ที่ปลายโถงทางเดิน
+ในขณะที่โถงทางเดินจริงนั้นว่างเปล่า
 
-### SHOT 4 (0:06–0:08)
+### ช็อตที่ 4 (0:06–0:08)
 
-They slowly lower the phone and look ahead.
-Still nothing.
+ตัวละครค่อย ๆ ลดโทรศัพท์ลงและมองไปข้างหน้า
+ยังคงไม่พบสิ่งใด
 
-### SHOT 5 (0:08–0:10)
+### ช็อตที่ 5 (0:08–0:10)
 
-They check the screen again.
-The smiling figure is now standing directly behind them in the photo.
-Cut to black before they turn around.
+ตัวละครตรวจสอบหน้าจออีกครั้ง
+ร่างที่มีรอยยิ้มนั้นมายืนอยู่ข้างหลังพวกเขาในภาพถ่ายแล้ว
+ตัดเข้าสู่ความมืดก่อนที่ตัวละครจะหันกลับไปมอง
 
-Music
-Low drones.
-Wood creaks.
-One sharp orchestral sting at the final frame.
+ดนตรี
+เสียงครางต่ำ (Low drones)
+เสียงไม้ลั่น
+เสียงดนตรีออร์เคสตรากระชากอารมณ์หนึ่งครั้งในเฟรมสุดท้าย
 
-Emotional Target
+เป้าหมายทางอารมณ์
 
-*"The camera saw what the eyes couldn't."
+*"กล้องมองเห็นในสิ่งที่ดวงตามองไม่เห็น"*
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Photorealistic Horror Film Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="ลำดับภาพยนตร์สยองขวัญสมจริงระดับภาพถ่าย">
 
 **[🎬 ดูวิดีโอ →](https://x.com/vireonixx/status/2075377636420059580)**
 
@@ -2835,6 +2835,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-11T09:28:02.435Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-11T13:16:21.636Z</sub>
 
 </div>

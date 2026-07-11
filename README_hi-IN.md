@@ -56,340 +56,340 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### Cinematic Product Orbit Ad
+### सिनेमैटिक प्रोडक्ट ऑर्बिट विज्ञापन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A simple but effective prompt for generating a premium product advertisement with smooth camera movement and professional lighting effects.
+> स्मूथ कैमरा मूवमेंट और प्रोफेशनल लाइटिंग इफेक्ट्स के साथ एक प्रीमियम प्रोडक्ट विज्ञापन बनाने के लिए एक सरल लेकिन प्रभावी प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+कैमरा धीरे-धीरे प्रोडक्ट के चारों ओर घूमता है, सतह पर रिफ्लेक्शन चलते हैं, हवा में सॉफ्ट पार्टिकल्स, प्रीमियम विज्ञापन जैसा अनुभव
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Cinematic Product Orbit Ad">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="सिनेमैटिक प्रोडक्ट ऑर्बिट विज्ञापन">
 
 **[🎬 वीडियो देखें →](https://x.com/getimg_ai/status/2075683226681831794)**
 
 **लेखक:** [getimg.ai](https://x.com/getimg_ai) | **स्रोत:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **प्रकाशित:** Jul 10, 2026
 
 ---
-### Cinematic Martial Arts Fight Scene
+### सिनेमैटिक मार्शल आर्ट्स फाइट सीन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive video prompt for a 10-second martial arts sequence featuring technical camera details, audio design, and character identity preservation.
+> तकनीकी कैमरा विवरण, ऑडियो डिज़ाइन और चरित्र की पहचान बनाए रखने की विशेषताओं के साथ 10-सेकंड के मार्शल आर्ट्स सीक्वेंस के लिए एक व्यापक वीडियो प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Create a 10-second ultra-photorealistic cinematic martial arts sequence inspired by classic Hong Kong action cinema, modern stunt choreography, and premium Hollywood filmmaking.
+क्लासिक हांगकांग एक्शन सिनेमा, आधुनिक स्टंट कोरियोग्राफी और प्रीमियम हॉलीवुड फिल्म निर्माण से प्रेरित 10-सेकंड का अल्ट्रा-फोटोरीलिस्टिक सिनेमैटिक मार्शल आर्ट्स सीक्वेंस बनाएं।
 
-Use the provided male reference image as the protagonist.
+नायक के रूप में दिए गए पुरुष संदर्भ चित्र (reference image) का उपयोग करें।
 
-Maintain absolute identity consistency throughout every frame.
+हर फ्रेम में पूर्ण पहचान स्थिरता (identity consistency) बनाए रखें।
 
-Preserve exactly:
+इनका सटीक रूप से पालन करें:
 
-* Facial structure
-* Hairstyle
-* Eye shape
-* Skin tone
-* Body proportions
-* Facial hair (if present)
-* Clothing continuity
-* Expressions
-* Accessories
+* चेहरे की बनावट
+* हेयरस्टाइल
+* आंखों का आकार
+* त्वचा का रंग
+* शरीर का अनुपात
+* चेहरे के बाल (यदि हों)
+* कपड़ों की निरंतरता
+* हाव-भाव
+* एक्सेसरीज
 
-The protagonist must remain perfectly recognizable during every movement, close-up, slow-motion sequence, and camera transition.
-
----
-
-# STYLE
-
-Ultra-photorealistic.
-
-Grounded martial arts.
-
-No supernatural powers.
-
-Authentic fight choreography.
-
-Feature-film quality.
-
-Practical stunt work.
-
-Invisible CGI.
-
-Premium cinematic color grading.
-
-Large-format IMAX cinematography.
+हर मूवमेंट, क्लोज-अप, स्लो-मोशन सीक्वेंस और कैमरा ट्रांजिशन के दौरान नायक को पूरी तरह से पहचाने जाने योग्य होना चाहिए।
 
 ---
 
-# CAMERA PACKAGE
+# स्टाइल
+
+अल्ट्रा-फोटोरीलिस्टिक।
+
+जमीनी स्तर के मार्शल आर्ट्स।
+
+कोई अलौकिक शक्तियां नहीं।
+
+प्रामाणिक फाइट कोरियोग्राफी।
+
+फीचर-फिल्म क्वालिटी।
+
+प्रैक्टिकल स्टंट वर्क।
+
+अदृश्य CGI।
+
+प्रीमियम सिनेमैटिक कलर ग्रेडिंग।
+
+लार्ज-फॉर्मेट IMAX सिनेमैटोग्राफी।
+
+---
+
+# कैमरा पैकेज
 
 ARRI ALEXA 65
 
-Panavision Ultra Vista anamorphic lenses
+Panavision Ultra Vista एनामोर्फिक लेंस
 
-Steadicam
+स्टेडीकैम (Steadicam)
 
-High-speed Phantom Flex
+हाई-स्पीड Phantom Flex
 
-Technocrane
+टेक्नोक्रेन (Technocrane)
 
-Slow circular dolly
+स्लो सर्कुलर डॉली
 
-Macro inserts
+मैक्रो इंसर्ट्स
 
-Natural handheld during impacts
-
----
-
-# MUSIC
-
-The soundtrack begins immediately.
-
-Heavy hard rock guitar riff.
-
-Fast double-kick drums.
-
-Driving bass guitar.
-
-Hybrid orchestral percussion.
-
-Massive cinematic trailer hits.
-
-At the decisive strike, every instrument cuts instantly.
-
-Only breathing and cloth movement remain.
-
-The guitars return with maximum force.
+इम्पैक्ट के दौरान नेचुरल हैंडहेल्ड
 
 ---
 
-# SOUND DESIGN
+# संगीत
 
-Bare footsteps.
+साउंडट्रैक तुरंत शुरू होता है।
 
-Fabric movement.
+भारी हार्ड रॉक गिटार रिफ।
 
-Controlled breathing.
+तेज़ डबल-किक ड्रम।
 
-Precise punches.
+ड्राइविंग बास गिटार।
 
-Bone-deep body impacts.
+हाइब्रिड ऑर्केस्ट्रल पर्कशन।
 
-Wood splintering.
+विशाल सिनेमैटिक ट्रेलर हिट्स।
 
-Natural room ambience.
+निर्णायक प्रहार (strike) पर, सभी वाद्ययंत्र तुरंत बंद हो जाते हैं।
 
-Perfect synchronization between every strike and every drum beat.
+केवल सांस लेने और कपड़ों की सरसराहट की आवाज सुनाई देती है।
 
----
-
-# LIGHTING
-
-Morning sunlight through dojo windows.
-
-Warm highlights.
-
-Natural shadows.
-
-Floating dust particles.
-
-High dynamic range.
+गिटार पूरी ताकत के साथ वापस आते हैं।
 
 ---
 
-# FORMAT
+# साउंड डिज़ाइन
 
-10 seconds
+नंगे पैरों की आहट।
 
-5 cinematic shots.
+कपड़ों की हलचल।
 
----
+नियंत्रित सांस लेना।
 
-## SHOT 1 (0:00–0:02) — THE CHALLENGE
+सटीक घूंसे।
 
-An enormous traditional dojo.
+शरीर पर गहरी चोट की आवाज।
 
-The protagonist stands opposite six elite martial artists.
+लकड़ी के टूटने की आवाज।
 
-Nobody speaks.
+प्राकृतिक कमरे का परिवेश।
 
-The hard rock riff begins immediately.
-
----
-
-## SHOT 2 (0:02–0:04) — STILLNESS
-
-Extreme close-up.
-
-The protagonist calmly closes his eyes.
-
-Everyone else prepares to attack.
-
-The drums begin building.
+हर प्रहार और हर ड्रम बीट के बीच सटीक तालमेल।
 
 ---
 
-## SHOT 3 (0:04–0:06) — ONE MOVEMENT
+# लाइटिंग
 
-The attackers rush simultaneously.
+डोजो की खिड़कियों से आती सुबह की धूप।
 
-The protagonist makes one precise movement.
+वार्म हाइलाइट्स।
 
-The soundtrack drops to silence.
+प्राकृतिक छाया।
 
-Only footsteps and breathing remain.
+हवा में तैरते धूल के कण।
 
----
-
-## SHOT 4 (0:06–0:08) — REVEAL
-
-The attackers freeze.
-
-One after another, they lose balance and collapse.
-
-The protagonist never changes expression.
-
-The guitars explode back in.
+हाई डायनेमिक रेंज।
 
 ---
 
-## SHOT 5 (0:08–0:10) — RESPECT
+# फॉर्मेट
 
-The dojo master, watching from above, slowly bows.
+10 सेकंड
 
-The protagonist returns the bow.
-
-The camera rises through the wooden ceiling into the morning sky.
-
-The final guitar chord sustains.
-
-Cut to black.
+5 सिनेमैटिक शॉट्स।
 
 ---
 
-# EMOTIONAL TARGET
+## शॉट 1 (0:00–0:02) — चुनौती
 
-The audience should immediately think:
+एक विशाल पारंपरिक डोजो।
 
-**"Real mastery doesn't look fast... it looks effortless."**
+नायक छह कुलीन मार्शल कलाकारों के सामने खड़ा है।
+
+कोई कुछ नहीं बोलता।
+
+हार्ड रॉक रिफ तुरंत शुरू होता है।
 
 ---
 
-# TECHNICAL REQUIREMENTS
+## शॉट 2 (0:02–0:04) — स्थिरता
 
-Feature-film reali
+एक्सट्रीम क्लोज-अप।
+
+नायक शांति से अपनी आंखें बंद करता है।
+
+बाकी सभी हमला करने की तैयारी करते हैं।
+
+ड्रम की आवाज तेज होने लगती है।
+
+---
+
+## शॉट 3 (0:04–0:06) — एक मूवमेंट
+
+हमलावर एक साथ दौड़ते हैं।
+
+नायक एक सटीक मूवमेंट करता है।
+
+साउंडट्रैक शांत हो जाता है।
+
+केवल पैरों की आहट और सांस लेने की आवाज बची है।
+
+---
+
+## शॉट 4 (0:06–0:08) — खुलासा
+
+हमलावर जम जाते हैं।
+
+एक के बाद एक, वे अपना संतुलन खो देते हैं और गिर जाते हैं।
+
+नायक के चेहरे के हाव-भाव में कोई बदलाव नहीं आता।
+
+गिटार की आवाज फिर से गूंज उठती है।
+
+---
+
+## शॉट 5 (0:08–0:10) — सम्मान
+
+ऊपर से देख रहा डोजो मास्टर धीरे से झुककर अभिवादन करता है।
+
+नायक भी झुककर अभिवादन लौटाता है।
+
+कैमरा लकड़ी की छत से ऊपर उठकर सुबह के आसमान की ओर जाता है।
+
+अंतिम गिटार कॉर्ड गूंजता रहता है।
+
+स्क्रीन काली हो जाती है।
+
+---
+
+# भावनात्मक लक्ष्य
+
+दर्शक को तुरंत यह सोचना चाहिए:
+
+**"असली महारत तेज़ नहीं दिखती... यह सहज दिखती है।"**
+
+---
+
+# तकनीकी आवश्यकताएं
+
+फीचर-फिल्म यथार्थवाद
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cinematic Martial Arts Fight Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="सिनेमैटिक मार्शल आर्ट्स फाइट सीन">
 
 **[🎬 वीडियो देखें →](https://x.com/vireonixx/status/2075533217193742739)**
 
 **लेखक:** [Virena](https://x.com/vireonixx) | **स्रोत:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **प्रकाशित:** Jul 10, 2026
 
 ---
-### Macro Cinematic Cockroach Comedy
+### मैक्रो सिनेमैटिक कॉकरोच कॉमेडी
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed multi-stage video prompt for creating a photorealistic comedic scene of cockroaches interacting with a pizza slice, including a 10-second timeline.
+> पिज़्ज़ा स्लाइस के साथ बातचीत करते कॉकरोच के एक फोटो-रियलिस्टिक कॉमेडी दृश्य को बनाने के लिए एक अत्यधिक विस्तृत मल्टी-स्टेज वीडियो प्रॉम्प्ट, जिसमें 10-सेकंड की टाइमलाइन शामिल है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Subject: A photorealistic, macro-cinematography comedic scene of two cockroaches on a gritty, slightly wet city sidewalk at night, interacting with a discarded slice of pizza.
+विषय: रात के समय शहर के एक गंदे, थोड़े गीले फुटपाथ पर दो कॉकरोच का एक फोटो-रियलिस्टिक, मैक्रो-सिनेमैटोग्राफी कॉमेडी दृश्य, जो पिज़्ज़ा के एक फेंके हुए टुकड़े के साथ बातचीत कर रहे हैं।
 
-Camera & Aesthetic: Shot on a Leica SL2 with a 100mm macro lens. Emulate Kodak Portra 400 film stock with organic film grain, rich color contrast, and a shallow depth of field. The lighting is cinematic street lighting, with soft neon reflections bouncing off the greasy pizza cheese and wet concrete.
+कैमरा और सौंदर्य: 100mm मैक्रो लेंस के साथ Leica SL2 पर शूट किया गया। ऑर्गेनिक फिल्म ग्रेन, समृद्ध रंग कंट्रास्ट और उथले डेप्थ ऑफ फील्ड के साथ Kodak Portra 400 फिल्म स्टॉक की नकल करें। लाइटिंग सिनेमैटिक स्ट्रीट लाइटिंग है, जिसमें चिकने पिज़्ज़ा चीज़ और गीले कंक्रीट से टकराते हुए सॉफ्ट नियॉन रिफ्लेक्शन हैं।
 
-Audio: Gritty ambient street noise, squishy food sound effects, and a distinct character voiceover at the end.
+ऑडियो: ग्रिटी एम्बिएंट स्ट्रीट नॉइज़, स्क्विशी फूड साउंड इफेक्ट्स और अंत में एक विशिष्ट कैरेक्टर वॉयसओवर।
 
-10 Second Timeline:
+10 सेकंड की टाइमलाइन:
 
-0-3s: Extreme macro close-up. Two highly detailed, expressive cockroaches are standing on top of a greasy, oversized slice of pizza. They have their front legs wrapped around a bright yellow, glistening pineapple ring embedded in the cheese. They are straining and pulling backward in unison.
+0-3 सेकंड: एक्सट्रीम मैक्रो क्लोज-अप। दो अत्यधिक विस्तृत, अभिव्यंजक कॉकरोच पिज़्ज़ा के एक चिकने, बड़े स्लाइस के ऊपर खड़े हैं। उनके अगले पैर चीज़ में धंसे हुए एक चमकीले पीले, चमकते अनानास के छल्ले के चारों ओर लिपटे हुए हैं। वे एक साथ जोर लगा रहे हैं और पीछे की ओर खींच रहे हैं।
 
-3-5s: The mozzarella cheese stretches dramatically like elastic. With a sudden, visceral snap, the pineapple ring breaks free from the crust.
+3-5 सेकंड: मोज़ेरेला चीज़ इलास्टिक की तरह नाटकीय रूप से खिंचता है। अचानक, एक जोरदार झटके के साथ, अनानास का छल्ला क्रस्ट से अलग हो जाता है।
 
-5-7s: The camera rack focuses as the pineapple ring lands on its edge on the concrete and rolls rapidly away down the textured sidewalk, disappearing into the smooth, out-of-focus background bokeh.
+5-7 सेकंड: कैमरा रैक फोकस करता है जैसे ही अनानास का छल्ला कंक्रीट पर अपने किनारे पर गिरता है और तेजी से टेक्सचर्ड फुटपाथ पर लुढ़कते हुए दूर चला जाता है, जो धुंधले बैकग्राउंड बोकेह में गायब हो जाता है।
 
-7-10s: Quick cut back to the two cockroaches. They brush off their front legs in a gesture of relief. The camera zooms in slightly on the cockroach on the right as it looks directly at the camera, throwing its front legs up in exasperation, and distinctly shouts with perfect lip-sync/mandible-sync, "That is disgusting!"
+7-10 सेकंड: वापस दो कॉकरोच पर क्विक कट। वे राहत के भाव में अपने अगले पैरों को झाड़ते हैं। कैमरा दाईं ओर वाले कॉकरोच पर थोड़ा ज़ूम इन करता है क्योंकि वह सीधे कैमरे की ओर देखता है, झुंझलाहट में अपने अगले पैर ऊपर फेंकता है, और स्पष्ट रूप से परफेक्ट लिप-सिंक/मेंडिबल-सिंक के साथ चिल्लाता है, "यह घिनौना है!"
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Macro Cinematic Cockroach Comedy">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="मैक्रो सिनेमैटिक कॉकरोच कॉमेडी">
 
 **[🎬 वीडियो देखें →](https://x.com/michaelrabone/status/2075490289062400195)**
 
 **लेखक:** [Michael Rabone](https://x.com/michaelrabone) | **स्रोत:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **प्रकाशित:** Jul 10, 2026
 
 ---
-### Photorealistic Horror Film Sequence
+### फोटो-रियलिस्टिक हॉरर फिल्म सीक्वेंस
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A structured 10-second cinematic horror sequence prompt that uses a reference image to create a tension-filled scene in a Victorian house.
+> एक संरचित 10-सेकंड का सिनेमैटिक हॉरर सीक्वेंस प्रॉम्प्ट, जो विक्टोरियन घर में तनावपूर्ण दृश्य बनाने के लिए एक संदर्भ छवि (reference image) का उपयोग करता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*.
+The Conjuring, Smile, और Hereditary से प्रेरित 10-सेकंड का अल्ट्रा-फोटो-रियलिस्टिक सिनेमैटिक हॉरर सीक्वेंस बनाएं।
 
-Use the provided reference image as the protagonist.
+दी गई संदर्भ छवि (reference image) का मुख्य पात्र के रूप में उपयोग करें।
 
-## STYLE
+## स्टाइल
 
-Grounded horror.
-Minimal visual effects.
-Natural darkness.
-Practical lighting.
-Slow-building tension.
-No gore.
+ग्राउंडेड हॉरर।
+न्यूनतम विजुअल इफेक्ट्स।
+प्राकृतिक अंधेरा।
+प्रैक्टिकल लाइटिंग।
+धीरे-धीरे बढ़ता तनाव।
+कोई खून-खराबा नहीं।
 
-## FORMAT
+## फॉर्मेट
 
-10 seconds
-5 shots
+10 सेकंड
+5 शॉट्स
 
-### SHOT 1 (0:00–0:02)
+### शॉट 1 (0:00–0:02)
 
-The protagonist explores an abandoned Victorian house using only a flashlight.
+मुख्य पात्र केवल एक टॉर्च का उपयोग करके एक परित्यक्त विक्टोरियन घर की खोज करता है।
 
-### SHOT 2 (0:02–0:04)
+### शॉट 2 (0:02–0:04)
 
-They take a photo down a dark hallway.
-Nothing unusual is visible.
+वे एक अंधेरे गलियारे की फोटो लेते हैं।
+कुछ भी असामान्य दिखाई नहीं देता है।
 
-### SHOT 3 (0:04–0:06)
+### शॉट 3 (0:04–0:06)
 
-Looking at the photo, a smiling figure appears at the end of the hallway.
-The real hallway is empty.
+फोटो को देखने पर, गलियारे के अंत में एक मुस्कुराती हुई आकृति दिखाई देती है।
+असली गलियारा खाली है।
 
-### SHOT 4 (0:06–0:08)
+### शॉट 4 (0:06–0:08)
 
-They slowly lower the phone and look ahead.
-Still nothing.
+वे धीरे-धीरे फोन नीचे करते हैं और सामने देखते हैं।
+अभी भी कुछ नहीं है।
 
-### SHOT 5 (0:08–0:10)
+### शॉट 5 (0:08–0:10)
 
-They check the screen again.
-The smiling figure is now standing directly behind them in the photo.
-Cut to black before they turn around.
+वे फिर से स्क्रीन चेक करते हैं।
+मुस्कुराती हुई आकृति अब फोटो में सीधे उनके पीछे खड़ी है।
+उनके मुड़ने से पहले स्क्रीन काली हो जाती है (Cut to black)।
 
-Music
-Low drones.
-Wood creaks.
-One sharp orchestral sting at the final frame.
+संगीत
+धीमी गूँज (Low drones)।
+लकड़ी के चरमराने की आवाज।
+अंतिम फ्रेम पर एक तेज ऑर्केस्ट्रल स्टिंग।
 
-Emotional Target
+इमोशनल टारगेट
 
-*"The camera saw what the eyes couldn't."
+*"कैमरे ने वह देखा जो आँखें नहीं देख सकीं।"*
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Photorealistic Horror Film Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="फोटो-रियलिस्टिक हॉरर फिल्म सीक्वेंस">
 
 **[🎬 वीडियो देखें →](https://x.com/vireonixx/status/2075377636420059580)**
 
@@ -2853,6 +2853,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-07-11T09:28:04.893Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-07-11T13:16:29.807Z</sub>
 
 </div>
