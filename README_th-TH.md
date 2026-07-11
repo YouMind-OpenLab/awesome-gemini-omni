@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **104** |
+| 📝 พรอมต์ทั้งหมด | **107** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-07-11** |
 
@@ -56,6 +56,346 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### Cinematic Product Orbit Ad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A simple but effective prompt for generating a premium product advertisement with smooth camera movement and professional lighting effects.
+
+#### 📝 พรอมต์
+
+```
+camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Cinematic Product Orbit Ad">
+
+**[🎬 ดูวิดีโอ →](https://x.com/getimg_ai/status/2075683226681831794)**
+
+**ผู้เขียน:** [getimg.ai](https://x.com/getimg_ai) | **แหล่งที่มา:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **เผยแพร่เมื่อ:** Jul 10, 2026
+
+---
+### Cinematic Martial Arts Fight Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video prompt for a 10-second martial arts sequence featuring technical camera details, audio design, and character identity preservation.
+
+#### 📝 พรอมต์
+
+```
+Create a 10-second ultra-photorealistic cinematic martial arts sequence inspired by classic Hong Kong action cinema, modern stunt choreography, and premium Hollywood filmmaking.
+
+Use the provided male reference image as the protagonist.
+
+Maintain absolute identity consistency throughout every frame.
+
+Preserve exactly:
+
+* Facial structure
+* Hairstyle
+* Eye shape
+* Skin tone
+* Body proportions
+* Facial hair (if present)
+* Clothing continuity
+* Expressions
+* Accessories
+
+The protagonist must remain perfectly recognizable during every movement, close-up, slow-motion sequence, and camera transition.
+
+---
+
+# STYLE
+
+Ultra-photorealistic.
+
+Grounded martial arts.
+
+No supernatural powers.
+
+Authentic fight choreography.
+
+Feature-film quality.
+
+Practical stunt work.
+
+Invisible CGI.
+
+Premium cinematic color grading.
+
+Large-format IMAX cinematography.
+
+---
+
+# CAMERA PACKAGE
+
+ARRI ALEXA 65
+
+Panavision Ultra Vista anamorphic lenses
+
+Steadicam
+
+High-speed Phantom Flex
+
+Technocrane
+
+Slow circular dolly
+
+Macro inserts
+
+Natural handheld during impacts
+
+---
+
+# MUSIC
+
+The soundtrack begins immediately.
+
+Heavy hard rock guitar riff.
+
+Fast double-kick drums.
+
+Driving bass guitar.
+
+Hybrid orchestral percussion.
+
+Massive cinematic trailer hits.
+
+At the decisive strike, every instrument cuts instantly.
+
+Only breathing and cloth movement remain.
+
+The guitars return with maximum force.
+
+---
+
+# SOUND DESIGN
+
+Bare footsteps.
+
+Fabric movement.
+
+Controlled breathing.
+
+Precise punches.
+
+Bone-deep body impacts.
+
+Wood splintering.
+
+Natural room ambience.
+
+Perfect synchronization between every strike and every drum beat.
+
+---
+
+# LIGHTING
+
+Morning sunlight through dojo windows.
+
+Warm highlights.
+
+Natural shadows.
+
+Floating dust particles.
+
+High dynamic range.
+
+---
+
+# FORMAT
+
+10 seconds
+
+5 cinematic shots.
+
+---
+
+## SHOT 1 (0:00–0:02) — THE CHALLENGE
+
+An enormous traditional dojo.
+
+The protagonist stands opposite six elite martial artists.
+
+Nobody speaks.
+
+The hard rock riff begins immediately.
+
+---
+
+## SHOT 2 (0:02–0:04) — STILLNESS
+
+Extreme close-up.
+
+The protagonist calmly closes his eyes.
+
+Everyone else prepares to attack.
+
+The drums begin building.
+
+---
+
+## SHOT 3 (0:04–0:06) — ONE MOVEMENT
+
+The attackers rush simultaneously.
+
+The protagonist makes one precise movement.
+
+The soundtrack drops to silence.
+
+Only footsteps and breathing remain.
+
+---
+
+## SHOT 4 (0:06–0:08) — REVEAL
+
+The attackers freeze.
+
+One after another, they lose balance and collapse.
+
+The protagonist never changes expression.
+
+The guitars explode back in.
+
+---
+
+## SHOT 5 (0:08–0:10) — RESPECT
+
+The dojo master, watching from above, slowly bows.
+
+The protagonist returns the bow.
+
+The camera rises through the wooden ceiling into the morning sky.
+
+The final guitar chord sustains.
+
+Cut to black.
+
+---
+
+# EMOTIONAL TARGET
+
+The audience should immediately think:
+
+**"Real mastery doesn't look fast... it looks effortless."**
+
+---
+
+# TECHNICAL REQUIREMENTS
+
+Feature-film reali
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cinematic Martial Arts Fight Scene">
+
+**[🎬 ดูวิดีโอ →](https://x.com/vireonixx/status/2075533217193742739)**
+
+**ผู้เขียน:** [Virena](https://x.com/vireonixx) | **แหล่งที่มา:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **เผยแพร่เมื่อ:** Jul 10, 2026
+
+---
+### Macro Cinematic Cockroach Comedy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed multi-stage video prompt for creating a photorealistic comedic scene of cockroaches interacting with a pizza slice, including a 10-second timeline.
+
+#### 📝 พรอมต์
+
+```
+Subject: A photorealistic, macro-cinematography comedic scene of two cockroaches on a gritty, slightly wet city sidewalk at night, interacting with a discarded slice of pizza.
+
+Camera & Aesthetic: Shot on a Leica SL2 with a 100mm macro lens. Emulate Kodak Portra 400 film stock with organic film grain, rich color contrast, and a shallow depth of field. The lighting is cinematic street lighting, with soft neon reflections bouncing off the greasy pizza cheese and wet concrete.
+
+Audio: Gritty ambient street noise, squishy food sound effects, and a distinct character voiceover at the end.
+
+10 Second Timeline:
+
+0-3s: Extreme macro close-up. Two highly detailed, expressive cockroaches are standing on top of a greasy, oversized slice of pizza. They have their front legs wrapped around a bright yellow, glistening pineapple ring embedded in the cheese. They are straining and pulling backward in unison.
+
+3-5s: The mozzarella cheese stretches dramatically like elastic. With a sudden, visceral snap, the pineapple ring breaks free from the crust.
+
+5-7s: The camera rack focuses as the pineapple ring lands on its edge on the concrete and rolls rapidly away down the textured sidewalk, disappearing into the smooth, out-of-focus background bokeh.
+
+7-10s: Quick cut back to the two cockroaches. They brush off their front legs in a gesture of relief. The camera zooms in slightly on the cockroach on the right as it looks directly at the camera, throwing its front legs up in exasperation, and distinctly shouts with perfect lip-sync/mandible-sync, "That is disgusting!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Macro Cinematic Cockroach Comedy">
+
+**[🎬 ดูวิดีโอ →](https://x.com/michaelrabone/status/2075490289062400195)**
+
+**ผู้เขียน:** [Michael Rabone](https://x.com/michaelrabone) | **แหล่งที่มา:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **เผยแพร่เมื่อ:** Jul 10, 2026
+
+---
+### Photorealistic Horror Film Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A structured 10-second cinematic horror sequence prompt that uses a reference image to create a tension-filled scene in a Victorian house.
+
+#### 📝 พรอมต์
+
+```
+Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*.
+
+Use the provided reference image as the protagonist.
+
+## STYLE
+
+Grounded horror.
+Minimal visual effects.
+Natural darkness.
+Practical lighting.
+Slow-building tension.
+No gore.
+
+## FORMAT
+
+10 seconds
+5 shots
+
+### SHOT 1 (0:00–0:02)
+
+The protagonist explores an abandoned Victorian house using only a flashlight.
+
+### SHOT 2 (0:02–0:04)
+
+They take a photo down a dark hallway.
+Nothing unusual is visible.
+
+### SHOT 3 (0:04–0:06)
+
+Looking at the photo, a smiling figure appears at the end of the hallway.
+The real hallway is empty.
+
+### SHOT 4 (0:06–0:08)
+
+They slowly lower the phone and look ahead.
+Still nothing.
+
+### SHOT 5 (0:08–0:10)
+
+They check the screen again.
+The smiling figure is now standing directly behind them in the photo.
+Cut to black before they turn around.
+
+Music
+Low drones.
+Wood creaks.
+One sharp orchestral sting at the final frame.
+
+Emotional Target
+
+*"The camera saw what the eyes couldn't."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Photorealistic Horror Film Sequence">
+
+**[🎬 ดูวิดีโอ →](https://x.com/vireonixx/status/2075377636420059580)**
+
+**ผู้เขียน:** [Virena](https://x.com/vireonixx) | **แหล่งที่มา:** [Link](https://x.com/vireonixx/status/2075377636420059580) | **เผยแพร่เมื่อ:** Jul 10, 2026
+
+---
 ### Cinematic Image-to-Video Push-In
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -369,25 +709,6 @@ ARRI ALEXA 65
 **[🎬 ดูวิดีโอ →](https://x.com/michaelrabone/status/2074493655843258788)**
 
 **ผู้เขียน:** [Michael Rabone](https://x.com/michaelrabone) | **แหล่งที่มา:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **เผยแพร่เมื่อ:** Jul 7, 2026
-
----
-### แอนิเมชันยักษ์ใจดีกับผีเสื้อเรืองแสง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับการเล่าเรื่องสุดอบอุ่นหัวใจที่มีตัวละครยักษ์ใจดีและผีเสื้อวิเศษ ใช้สำหรับการเปรียบเทียบประสิทธิภาพระหว่าง Gemini Omni และโมเดลวิดีโออื่น ๆ แบบเคียงข้างกัน
-
-#### 📝 พรอมต์
-
-```
-ยักษ์ใจดีพบกับผีเสื้อเรืองแสง... จากยามเย็นที่แสนเหงา สู่มิตรภาพอันน่าอัศจรรย์ใต้แสงดาว
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="แอนิเมชันยักษ์ใจดีกับผีเสื้อเรืองแสง">
-
-**[🎬 ดูวิดีโอ →](https://x.com/Dheepanratnam/status/2074412218666414171)**
-
-**ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **เผยแพร่เมื่อ:** Jul 7, 2026
 
 ---
 ### ลำดับภาพการทำอาหารสไตล์อนิเมะ
@@ -2462,74 +2783,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **ผู้เขียน:** [AI Will](https://x.com/FinanceYF5) | **แหล่งที่มา:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **เผยแพร่เมื่อ:** May 27, 2026
 
 ---
-### เครื่องมือสร้างตัวอย่างวิดีโอ GTA India
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) แบบเข้าใจง่ายสำหรับสร้างตัวอย่างวิดีโอในสไตล์เกม ที่นำเสนอสถานที่สำคัญทางวัฒนธรรมของอินเดีย เช่น ทัชมาฮาล
-
-#### 📝 พรอมต์
-
-```
-สร้างตัวอย่างวิดีโอ GTA India
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a265c8597d79084a16e32ad30792f572/thumbnails/thumbnail.jpg" width="600" alt="เครื่องมือสร้างตัวอย่างวิดีโอ GTA India">
-
-**[🎬 ดูวิดีโอ →](https://x.com/BuildFastWithAI/status/2059522490876010600)**
-
-**ผู้เขียน:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **แหล่งที่มา:** [Link](https://x.com/BuildFastWithAI/status/2059522490876010600) | **เผยแพร่เมื่อ:** May 27, 2026
-
----
-### แผนที่ความทรงจำการเดินทางสไตล์ภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) แบบละเอียดสำหรับสร้างวิดีโอท่องเที่ยวสั้นสไตล์ภาพยนตร์ ที่มีฉากแผนที่กำลังกางออกและตั๋วเดินทางไปยังจุดหมายปลายทาง
-
-#### 📝 พรอมต์
-
-```
-[CITY] = TOKYO
-สร้างวิดีโอความทรงจำการเดินทางสไตล์ภาพยนตร์ความยาว 10 วินาทีสำหรับ [CITY]
-มีแผนที่กระดาษพับและตั๋วเดินทางใบเก่าวางอยู่บนโต๊ะสีงาช้างที่สะอาดตา
-บนตั๋วมีชื่อจุดหมายปลายทาง “[CITY]” พิมพ์อยู่
-ในขณะที่แสงนุ่มนวลเคลื่อนผ่านกระดาษ แผนที่ก็ค่อย ๆ กางออกด้วยตัวเอง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="แผนที่ความทรงจำการเดินทางสไตล์ภาพยนตร์">
-
-**[🎬 ดูวิดีโอ →](https://x.com/loglogrog/status/2059494802534584504)**
-
-**ผู้เขียน:** [マグマグ](https://x.com/loglogrog) | **แหล่งที่มา:** [Link](https://x.com/loglogrog/status/2059494802534584504) | **เผยแพร่เมื่อ:** May 27, 2026
-
----
-### ผู้ช่วยสร้างแอนิเมชันโลโก้แบบรวดเร็ว
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างแอนิเมชันความเร็วสูงที่แสดงโลโก้แบบเรียบง่ายใน 20 รูปแบบที่แตกต่างกัน โดยยังคงตำแหน่งไว้ที่กึ่งกลาง
-
-#### 📝 พรอมต์
-
-```
-สร้างแอนิเมชันแบบรวดเร็วผ่านโลโก้นี้ใน 20 รูปแบบที่แตกต่างกัน โดยใช้สีดำบนพื้นหลังสีขาวและจัดวางไว้ที่กึ่งกลาง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="ผู้ช่วยสร้างแอนิเมชันโลโก้แบบรวดเร็ว">
-
-**[🎬 ดูวิดีโอ →](https://x.com/Team_Greenfield/status/2059493330447413283)**
-
-**ผู้เขียน:** [Greenfield Team!](https://x.com/Team_Greenfield) | **แหล่งที่มา:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **เผยแพร่เมื่อ:** May 27, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 4 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 7 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2575,6 +2835,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-11T06:11:57.246Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-11T09:28:02.435Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **104** |
+| 📝 Total de prompts | **107** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-11** |
 
@@ -56,6 +56,346 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Cinematic Product Orbit Ad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A simple but effective prompt for generating a premium product advertisement with smooth camera movement and professional lighting effects.
+
+#### 📝 Prompt
+
+```
+camera slowly orbits the product, reflections move across the surface, soft particles in the air, premium ad feel
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Cinematic Product Orbit Ad">
+
+**[🎬 Assistir vídeo →](https://x.com/getimg_ai/status/2075683226681831794)**
+
+**Autor:** [getimg.ai](https://x.com/getimg_ai) | **Fonte:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **Publicado:** Jul 10, 2026
+
+---
+### Cinematic Martial Arts Fight Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video prompt for a 10-second martial arts sequence featuring technical camera details, audio design, and character identity preservation.
+
+#### 📝 Prompt
+
+```
+Create a 10-second ultra-photorealistic cinematic martial arts sequence inspired by classic Hong Kong action cinema, modern stunt choreography, and premium Hollywood filmmaking.
+
+Use the provided male reference image as the protagonist.
+
+Maintain absolute identity consistency throughout every frame.
+
+Preserve exactly:
+
+* Facial structure
+* Hairstyle
+* Eye shape
+* Skin tone
+* Body proportions
+* Facial hair (if present)
+* Clothing continuity
+* Expressions
+* Accessories
+
+The protagonist must remain perfectly recognizable during every movement, close-up, slow-motion sequence, and camera transition.
+
+---
+
+# STYLE
+
+Ultra-photorealistic.
+
+Grounded martial arts.
+
+No supernatural powers.
+
+Authentic fight choreography.
+
+Feature-film quality.
+
+Practical stunt work.
+
+Invisible CGI.
+
+Premium cinematic color grading.
+
+Large-format IMAX cinematography.
+
+---
+
+# CAMERA PACKAGE
+
+ARRI ALEXA 65
+
+Panavision Ultra Vista anamorphic lenses
+
+Steadicam
+
+High-speed Phantom Flex
+
+Technocrane
+
+Slow circular dolly
+
+Macro inserts
+
+Natural handheld during impacts
+
+---
+
+# MUSIC
+
+The soundtrack begins immediately.
+
+Heavy hard rock guitar riff.
+
+Fast double-kick drums.
+
+Driving bass guitar.
+
+Hybrid orchestral percussion.
+
+Massive cinematic trailer hits.
+
+At the decisive strike, every instrument cuts instantly.
+
+Only breathing and cloth movement remain.
+
+The guitars return with maximum force.
+
+---
+
+# SOUND DESIGN
+
+Bare footsteps.
+
+Fabric movement.
+
+Controlled breathing.
+
+Precise punches.
+
+Bone-deep body impacts.
+
+Wood splintering.
+
+Natural room ambience.
+
+Perfect synchronization between every strike and every drum beat.
+
+---
+
+# LIGHTING
+
+Morning sunlight through dojo windows.
+
+Warm highlights.
+
+Natural shadows.
+
+Floating dust particles.
+
+High dynamic range.
+
+---
+
+# FORMAT
+
+10 seconds
+
+5 cinematic shots.
+
+---
+
+## SHOT 1 (0:00–0:02) — THE CHALLENGE
+
+An enormous traditional dojo.
+
+The protagonist stands opposite six elite martial artists.
+
+Nobody speaks.
+
+The hard rock riff begins immediately.
+
+---
+
+## SHOT 2 (0:02–0:04) — STILLNESS
+
+Extreme close-up.
+
+The protagonist calmly closes his eyes.
+
+Everyone else prepares to attack.
+
+The drums begin building.
+
+---
+
+## SHOT 3 (0:04–0:06) — ONE MOVEMENT
+
+The attackers rush simultaneously.
+
+The protagonist makes one precise movement.
+
+The soundtrack drops to silence.
+
+Only footsteps and breathing remain.
+
+---
+
+## SHOT 4 (0:06–0:08) — REVEAL
+
+The attackers freeze.
+
+One after another, they lose balance and collapse.
+
+The protagonist never changes expression.
+
+The guitars explode back in.
+
+---
+
+## SHOT 5 (0:08–0:10) — RESPECT
+
+The dojo master, watching from above, slowly bows.
+
+The protagonist returns the bow.
+
+The camera rises through the wooden ceiling into the morning sky.
+
+The final guitar chord sustains.
+
+Cut to black.
+
+---
+
+# EMOTIONAL TARGET
+
+The audience should immediately think:
+
+**"Real mastery doesn't look fast... it looks effortless."**
+
+---
+
+# TECHNICAL REQUIREMENTS
+
+Feature-film reali
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cinematic Martial Arts Fight Scene">
+
+**[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2075533217193742739)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **Publicado:** Jul 10, 2026
+
+---
+### Macro Cinematic Cockroach Comedy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed multi-stage video prompt for creating a photorealistic comedic scene of cockroaches interacting with a pizza slice, including a 10-second timeline.
+
+#### 📝 Prompt
+
+```
+Subject: A photorealistic, macro-cinematography comedic scene of two cockroaches on a gritty, slightly wet city sidewalk at night, interacting with a discarded slice of pizza.
+
+Camera & Aesthetic: Shot on a Leica SL2 with a 100mm macro lens. Emulate Kodak Portra 400 film stock with organic film grain, rich color contrast, and a shallow depth of field. The lighting is cinematic street lighting, with soft neon reflections bouncing off the greasy pizza cheese and wet concrete.
+
+Audio: Gritty ambient street noise, squishy food sound effects, and a distinct character voiceover at the end.
+
+10 Second Timeline:
+
+0-3s: Extreme macro close-up. Two highly detailed, expressive cockroaches are standing on top of a greasy, oversized slice of pizza. They have their front legs wrapped around a bright yellow, glistening pineapple ring embedded in the cheese. They are straining and pulling backward in unison.
+
+3-5s: The mozzarella cheese stretches dramatically like elastic. With a sudden, visceral snap, the pineapple ring breaks free from the crust.
+
+5-7s: The camera rack focuses as the pineapple ring lands on its edge on the concrete and rolls rapidly away down the textured sidewalk, disappearing into the smooth, out-of-focus background bokeh.
+
+7-10s: Quick cut back to the two cockroaches. They brush off their front legs in a gesture of relief. The camera zooms in slightly on the cockroach on the right as it looks directly at the camera, throwing its front legs up in exasperation, and distinctly shouts with perfect lip-sync/mandible-sync, "That is disgusting!"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Macro Cinematic Cockroach Comedy">
+
+**[🎬 Assistir vídeo →](https://x.com/michaelrabone/status/2075490289062400195)**
+
+**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **Publicado:** Jul 10, 2026
+
+---
+### Photorealistic Horror Film Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A structured 10-second cinematic horror sequence prompt that uses a reference image to create a tension-filled scene in a Victorian house.
+
+#### 📝 Prompt
+
+```
+Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*.
+
+Use the provided reference image as the protagonist.
+
+## STYLE
+
+Grounded horror.
+Minimal visual effects.
+Natural darkness.
+Practical lighting.
+Slow-building tension.
+No gore.
+
+## FORMAT
+
+10 seconds
+5 shots
+
+### SHOT 1 (0:00–0:02)
+
+The protagonist explores an abandoned Victorian house using only a flashlight.
+
+### SHOT 2 (0:02–0:04)
+
+They take a photo down a dark hallway.
+Nothing unusual is visible.
+
+### SHOT 3 (0:04–0:06)
+
+Looking at the photo, a smiling figure appears at the end of the hallway.
+The real hallway is empty.
+
+### SHOT 4 (0:06–0:08)
+
+They slowly lower the phone and look ahead.
+Still nothing.
+
+### SHOT 5 (0:08–0:10)
+
+They check the screen again.
+The smiling figure is now standing directly behind them in the photo.
+Cut to black before they turn around.
+
+Music
+Low drones.
+Wood creaks.
+One sharp orchestral sting at the final frame.
+
+Emotional Target
+
+*"The camera saw what the eyes couldn't."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Photorealistic Horror Film Sequence">
+
+**[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2075377636420059580)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2075377636420059580) | **Publicado:** Jul 10, 2026
+
+---
 ### Zoom Cinematico (Push-In) de Imagem para Vídeo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -369,25 +709,6 @@ Linha do tempo (10 segundos):
 **[🎬 Assistir vídeo →](https://x.com/michaelrabone/status/2074493655843258788)**
 
 **Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Publicado:** Jul 7, 2026
-
----
-### Animação de um Gigante Gentil e uma Borboleta Brilhante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de narrativa emocionante apresentando um gigante gentil e uma borboleta mágica, usado para uma comparação lado a lado entre o Gemini Omni e outros modelos de vídeo.
-
-#### 📝 Prompt
-
-```
-Um gigante gentil encontra uma borboleta brilhante… do pôr do sol solitário à amizade mágica sob as estrelas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074412047656173568/img/PmeIz0AWd-B6Ynfs.jpg" width="600" alt="Animação de um Gigante Gentil e uma Borboleta Brilhante">
-
-**[🎬 Assistir vídeo →](https://x.com/Dheepanratnam/status/2074412218666414171)**
-
-**Autor:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Fonte:** [Link](https://x.com/Dheepanratnam/status/2074412218666414171) | **Publicado:** Jul 7, 2026
 
 ---
 ### Sequência de Montagem de Culinária em Anime
@@ -2480,74 +2801,13 @@ Texto em Helvetica minúsculo na cor branca + linha fina conectando ao assunto p
 **Autor:** [AI Will](https://x.com/FinanceYF5) | **Fonte:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **Publicado:** May 27, 2026
 
 ---
-### Gerador de Trailer de GTA India
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt direto para gerar um trailer no estilo de jogo apresentando marcos culturais indianos, como o Taj Mahal.
-
-#### 📝 Prompt
-
-```
-gerar um trailer de GTA India
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a265c8597d79084a16e32ad30792f572/thumbnails/thumbnail.jpg" width="600" alt="Gerador de Trailer de GTA India">
-
-**[🎬 Assistir vídeo →](https://x.com/BuildFastWithAI/status/2059522490876010600)**
-
-**Autor:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Fonte:** [Link](https://x.com/BuildFastWithAI/status/2059522490876010600) | **Publicado:** May 27, 2026
-
----
-### Mapa de Memórias de Viagem Cinematográfico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico detalhado para gerar um curta-metragem de viagem apresentando um mapa que se desenrola e uma passagem de destino.
-
-#### 📝 Prompt
-
-```
-[CITY] = TÓQUIO
-Crie um filme de memória de viagem cinematográfico de 10 segundos para [CITY].
-Um mapa de papel dobrado e uma passagem de viagem antiga estão sobre uma mesa de marfim limpa.
-A passagem tem o nome do destino “[CITY]” impresso nela.
-À medida que uma luz suave se move sobre o papel, o mapa se desenrola lentamente sozinho.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e3731d717c708f41b9d518a0bbde13c/thumbnails/thumbnail.jpg" width="600" alt="Mapa de Memórias de Viagem Cinematográfico">
-
-**[🎬 Assistir vídeo →](https://x.com/loglogrog/status/2059494802534584504)**
-
-**Autor:** [マグマグ](https://x.com/loglogrog) | **Fonte:** [Link](https://x.com/loglogrog/status/2059494802534584504) | **Publicado:** May 27, 2026
-
----
-### Assistente de Animação Rápida de Logotipo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para criar uma animação de alta velocidade exibindo 20 versões diferentes de um logotipo simples, mantendo o design centralizado.
-
-#### 📝 Prompt
-
-```
-Animação rápida de 20 versões diferentes deste logotipo. Mantenha-o em preto sobre branco e centralizado.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f4720b99bef33888b5ba3265f857f93c/thumbnails/thumbnail.jpg" width="600" alt="Assistente de Animação Rápida de Logotipo">
-
-**[🎬 Assistir vídeo →](https://x.com/Team_Greenfield/status/2059493330447413283)**
-
-**Autor:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Fonte:** [Link](https://x.com/Team_Greenfield/status/2059493330447413283) | **Publicado:** May 27, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 4 mais prompts não mostrados aqui
+### 🎯 7 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2593,6 +2853,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-11T06:12:05.208Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-11T09:28:12.692Z</sub>
 
 </div>
