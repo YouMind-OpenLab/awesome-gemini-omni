@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **107** |
+| 📝 Gesamtanzahl Prompts | **108** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-12** |
 
@@ -56,6 +56,81 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Filmreife Roadmovie-Sequenz im Stil von Nomadland
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, filmreifer Video-Prompt für Gemini Omni zur Erstellung einer fünfteiligen Roadmovie-Sequenz mit Golden-Hour-Beleuchtung und konsistenten Charakterdetails.
+
+#### 📝 Prompt
+
+```
+Erstelle eine 10-sekündige, ultra-fotorealistische, filmreife Roadmovie-Sequenz, inspiriert von *Nomadland*, *Das erstaunliche Leben des Walter Mitty* und *Into the Wild*.
+
+Verwende das bereitgestellte Referenzbild der Frau als Protagonistin. Bewahre die exakte Gesichtsidentität, Frisur, Hautton, Körperproportionen, Kleidungskontinuität und Mimik über die gesamte Sequenz hinweg.
+
+## STIL
+
+Cinematografie zur „Goldenen Stunde“.
+
+Natürliche Landschaften.
+
+Authentische Darstellungen.
+
+ARRI ALEXA 65.
+
+Warmes, filmisches Color Grading.
+
+## FORMAT
+
+10 Sekunden
+
+5 Einstellungen
+
+### EINSTELLUNG 1 (0:00–0:02)
+
+Die Protagonistin fährt allein bei Sonnenuntergang einen leeren Küsten-Highway entlang.
+
+### EINSTELLUNG 2 (0:02–0:04)
+
+Sie bemerkt ein kleines Holzschild mit der Aufschrift:
+
+**„Scenic Route.“**
+
+Sie lächelt und biegt ab.
+
+### EINSTELLUNG 3 (0:04–0:06)
+
+Die Straße steigt über die Küste an und gibt den Blick auf ein atemberaubendes Ozean-Panorama frei.
+
+### EINSTELLUNG 4 (0:06–0:08)
+
+Sie hält das Auto an, steigt aus und spürt die Meeresbrise.
+
+### EINSTELLUNG 5 (0:08–0:10)
+
+Eine weite Drohnenaufnahme zeigt sie allein auf der Klippe, während unter ihr die Wellen brechen.
+
+**Musik**
+
+Akustikgitarre.
+
+Warme Streicher.
+
+Sanftes Klavier.
+
+**Emotionales Ziel**
+
+*„Nicht jeder Umweg ist ein Fehler.“*
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075765489247383552/img/cFbChjHjOg7W09WZ.jpg" width="600" alt="Filmreife Roadmovie-Sequenz im Stil von Nomadland">
+
+**[🎬 Video ansehen →](https://x.com/vireonixx/status/2075765549796340071)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2075765549796340071) | **Veröffentlicht:** Jul 11, 2026
+
+---
 ### Cinematic Product Orbit Ad
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2782,32 +2857,13 @@ Es ist ein japanischer Mann in seinen 50ern. Achten Sie darauf, die Form der Fla
 **Autor:** [onoken1025](https://x.com/onoken1025) | **Quelle:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Veröffentlicht:** May 27, 2026
 
 ---
-### Kinetische Typografie und Monolog-Video
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein professioneller Video-Prompt für Gemini Omni, der sich auf präzise Typografie-Platzierung, technische Schriftstile und synchronisierte Erzähleffekte konzentriert.
-
-#### 📝 Prompt
-
-```
-Weißer Helvetica-Text in Kleinbuchstaben + dünne Linie, die zum Hauptobjekt führt + Erzählung im Stil eines inneren Monologs
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b985d3a14ddd17e5c070793e69d9675d/thumbnails/thumbnail.jpg" width="600" alt="Kinetische Typografie und Monolog-Video">
-
-**[🎬 Video ansehen →](https://x.com/FinanceYF5/status/2059535919007556042)**
-
-**Autor:** [AI Will](https://x.com/FinanceYF5) | **Quelle:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **Veröffentlicht:** May 27, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 7 weitere Prompts hier nicht angezeigt
+### 🎯 8 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2853,6 +2909,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-12T06:31:44.735Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-12T09:50:05.060Z</sub>
 
 </div>

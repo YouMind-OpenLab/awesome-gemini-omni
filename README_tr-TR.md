@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **107** |
+| 📝 Toplam İstem | **108** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-12** |
 
@@ -56,6 +56,79 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Nomadland'den İlham Alan Sinematik Yol Filmi Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni için altın saat ışıklandırması ve tutarlı karakter detaylarıyla beş çekimlik bir yol filmi sekansı oluşturan, oldukça detaylı sinematik video istemi.
+
+#### 📝 İstem
+
+```
+Nomadland, The Secret Life of Walter Mitty ve Into the Wild'dan ilham alan 10 saniyelik, ultra gerçekçi sinematik bir yol filmi sekansı oluşturun.
+
+Protagonist olarak sağlanan kadın referans görselini kullanın. Tüm çekimler boyunca yüz kimliğini, saç stilini, cilt tonunu, vücut oranlarını, kıyafet sürekliliğini ve ifadeleri tam olarak koruyun.
+
+## STİL
+
+Altın saat sinematografisi.
+
+Doğal manzaralar.
+
+Otantik performanslar.
+
+ARRI ALEXA 65.
+
+Sıcak filmik renk derecelendirmesi.
+
+## FORMAT
+
+10 saniye
+
+5 çekim
+
+### 1. ÇEKİM (0:00–0:02)
+
+Protagonist, gün batımında boş bir sahil otoyolunda tek başına araba sürüyor.
+
+### 2. ÇEKİM (0:02–0:04)
+
+Üzerinde **"Scenic Route"** (Manzaralı Yol) yazan küçük ahşap bir tabela fark ediyor.
+
+Gülümsüyor ve direksiyonu kırıyor.
+
+### 3. ÇEKİM (0:04–0:06)
+
+Yol sahil şeridinin yukarısına tırmanıyor ve nefes kesici panoramik bir okyanus manzarası ortaya çıkıyor.
+
+### 4. ÇEKİM (0:06–0:08)
+
+Arabayı durduruyor, dışarı çıkıyor ve okyanus esintisini hissediyor.
+
+### 5. ÇEKİM (0:08–0:10)
+
+Geniş bir drone çekimi, aşağıda dalgalar çarparken onun uçurumda tek başına durduğunu gösteriyor.
+
+**Müzik**
+
+Akustik gitar.
+
+Sıcak yaylılar.
+
+Yumuşak piyano.
+
+**Duygusal Hedef**
+
+*"Her yanlış sapak bir hata değildir."*
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075765489247383552/img/cFbChjHjOg7W09WZ.jpg" width="600" alt="Nomadland'den İlham Alan Sinematik Yol Filmi Sekansı">
+
+**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2075765549796340071)**
+
+**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2075765549796340071) | **Yayınlandı:** Jul 11, 2026
+
+---
 ### Sinematik Ürün Orbit Reklamı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2782,32 +2855,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **Yazar:** [onoken1025](https://x.com/onoken1025) | **Kaynak:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Yayınlandı:** May 27, 2026
 
 ---
-### Kinetik Tipografi ve Monolog Videosu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Hassas tipografi yerleşimi, teknik yazı tipi stilleri ve senkronize anlatım efektlerine odaklanan, Gemini Omni için profesyonel bir video istemi.
-
-#### 📝 İstem
-
-```
-Beyaz Helvetica küçük harf metin + ana konuya bağlanan ince çizgi + iç monolog tarzı anlatım
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b985d3a14ddd17e5c070793e69d9675d/thumbnails/thumbnail.jpg" width="600" alt="Kinetik Tipografi ve Monolog Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/FinanceYF5/status/2059535919007556042)**
-
-**Yazar:** [AI Will](https://x.com/FinanceYF5) | **Kaynak:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **Yayınlandı:** May 27, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 7 burada gösterilmeyen daha fazla istem
+### 🎯 8 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2853,6 +2907,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-12T06:31:49.481Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-12T09:50:10.107Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **107** |
+| 📝 Tổng số prompt | **108** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-12** |
 
@@ -56,6 +56,81 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Chuỗi cảnh phim điện ảnh về hành trình truyền cảm hứng từ Nomadland
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video điện ảnh cực kỳ chi tiết dành cho Gemini Omni để tạo chuỗi 5 cảnh phim về hành trình với ánh sáng giờ vàng và các chi tiết nhân vật nhất quán.
+
+#### 📝 Prompt
+
+```
+Tạo một chuỗi cảnh phim điện ảnh siêu thực dài 10 giây lấy cảm hứng từ *Nomadland*, *The Secret Life of Walter Mitty* và *Into the Wild*.
+
+Sử dụng hình ảnh tham chiếu nữ được cung cấp làm nhân vật chính. Duy trì chính xác nhận dạng khuôn mặt, kiểu tóc, tông màu da, tỷ lệ cơ thể, sự nhất quán về trang phục và biểu cảm trong suốt video.
+
+## PHONG CÁCH
+
+Quay phim giờ vàng (golden-hour).
+
+Phong cảnh tự nhiên.
+
+Diễn xuất chân thực.
+
+Máy quay ARRI ALEXA 65.
+
+Chỉnh màu phim ấm áp.
+
+## ĐỊNH DẠNG
+
+10 giây
+
+5 cảnh quay
+
+### CẢNH 1 (0:00–0:02)
+
+Nhân vật chính lái xe một mình dọc theo đường cao tốc ven biển vắng vẻ lúc hoàng hôn.
+
+### CẢNH 2 (0:02–0:04)
+
+Cô ấy chú ý đến một tấm biển gỗ nhỏ có ghi:
+
+**"Scenic Route."** (Tuyến đường ngắm cảnh)
+
+Cô ấy mỉm cười và rẽ vào.
+
+### CẢNH 3 (0:04–0:06)
+
+Con đường leo lên phía trên đường bờ biển, để lộ tầm nhìn toàn cảnh đại dương ngoạn mục.
+
+### CẢNH 4 (0:06–0:08)
+
+Cô ấy dừng xe, bước ra ngoài và cảm nhận làn gió biển.
+
+### CẢNH 5 (0:08–0:10)
+
+Cảnh quay flycam góc rộng cho thấy cô ấy đứng một mình trên vách đá khi những con sóng vỗ bên dưới.
+
+**Âm nhạc**
+
+Guitar acoustic.
+
+Nhạc dây ấm áp.
+
+Piano nhẹ nhàng.
+
+**Mục tiêu cảm xúc**
+
+*"Không phải ngã rẽ sai lầm nào cũng là một sai lầm."*
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075765489247383552/img/cFbChjHjOg7W09WZ.jpg" width="600" alt="Chuỗi cảnh phim điện ảnh về hành trình truyền cảm hứng từ Nomadland">
+
+**[🎬 Xem video →](https://x.com/vireonixx/status/2075765549796340071)**
+
+**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2075765549796340071) | **Đã xuất bản:** Jul 11, 2026
+
+---
 ### Quảng cáo sản phẩm với hiệu ứng xoay điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2782,32 +2857,13 @@ Anh ấy là một người đàn ông Nhật Bản ở độ tuổi 50. Hãy du
 **Tác giả:** [onoken1025](https://x.com/onoken1025) | **Nguồn:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Đã xuất bản:** May 27, 2026
 
 ---
-### Typography động và Video độc thoại
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh (prompt) video chuyên nghiệp dành cho Gemini Omni, tập trung vào việc căn chỉnh typography chính xác, các kiểu phông chữ kỹ thuật và hiệu ứng tường thuật đồng bộ.
-
-#### 📝 Prompt
-
-```
-Văn bản Helvetica viết thường màu trắng + đường kẻ mảnh kết nối với chủ thể chính + tường thuật theo phong cách độc thoại nội tâm
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b985d3a14ddd17e5c070793e69d9675d/thumbnails/thumbnail.jpg" width="600" alt="Typography động và Video độc thoại">
-
-**[🎬 Xem video →](https://x.com/FinanceYF5/status/2059535919007556042)**
-
-**Tác giả:** [AI Will](https://x.com/FinanceYF5) | **Nguồn:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **Đã xuất bản:** May 27, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 7 prompt khác không hiển thị ở đây
+### 🎯 8 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2853,6 +2909,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-12T06:31:41.322Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-12T09:50:00.185Z</sub>
 
 </div>

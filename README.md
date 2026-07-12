@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **107** |
+| 📝 Total Prompts | **108** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-12** |
 
@@ -56,6 +56,81 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Nomadland-Inspired Road Movie Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic video prompt for Gemini Omni creating a five-shot road movie sequence with golden-hour lighting and consistent character details.
+
+#### 📝 Prompt
+
+```
+Create a 10-second ultra-photorealistic cinematic road movie sequence inspired by *Nomadland*, *The Secret Life of Walter Mitty*, and *Into the Wild*.
+
+Use the provided female reference image as the protagonist. Preserve exact facial identity, hairstyle, skin tone, body proportions, clothing continuity, and expressions throughout.
+
+## STYLE
+
+Golden-hour cinematography.
+
+Natural landscapes.
+
+Authentic performances.
+
+ARRI ALEXA 65.
+
+Warm filmic color grading.
+
+## FORMAT
+
+10 seconds
+
+5 shots
+
+### SHOT 1 (0:00–0:02)
+
+The protagonist drives alone along an empty coastal highway at sunset.
+
+### SHOT 2 (0:02–0:04)
+
+She notices a small wooden sign reading:
+
+**"Scenic Route."**
+
+She smiles and turns.
+
+### SHOT 3 (0:04–0:06)
+
+The road climbs above the coastline, revealing a breathtaking panoramic ocean view.
+
+### SHOT 4 (0:06–0:08)
+
+She stops the car, steps out, and feels the ocean breeze.
+
+### SHOT 5 (0:08–0:10)
+
+A wide drone shot shows her standing alone on the cliff as waves crash below.
+
+**Music**
+
+Acoustic guitar.
+
+Warm strings.
+
+Soft piano.
+
+**Emotional Target**
+
+*"Not every wrong turn is a mistake."*
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075765489247383552/img/cFbChjHjOg7W09WZ.jpg" width="600" alt="Cinematic Nomadland-Inspired Road Movie Sequence">
+
+**[🎬 Watch Video →](https://x.com/vireonixx/status/2075765549796340071)**
+
+**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2075765549796340071) | **Published:** Jul 11, 2026
+
+---
 ### Cinematic Product Orbit Ad
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2782,32 +2857,13 @@ He is a Japanese man in his 50s. Maintain consistency of the bottle shape until 
 **Author:** [onoken1025](https://x.com/onoken1025) | **Source:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Published:** May 27, 2026
 
 ---
-### Kinetic Typography and Monologue Video
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A professional video prompt for Gemini Omni focusing on precise typography placement, technical font styles, and synchronized narration effects.
-
-#### 📝 Prompt
-
-```
-White Helvetica lowercase text + thin line connecting to the main subject + inner monologue style narration
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b985d3a14ddd17e5c070793e69d9675d/thumbnails/thumbnail.jpg" width="600" alt="Kinetic Typography and Monologue Video">
-
-**[🎬 Watch Video →](https://x.com/FinanceYF5/status/2059535919007556042)**
-
-**Author:** [AI Will](https://x.com/FinanceYF5) | **Source:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **Published:** May 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 7 more prompts not shown here
+### 🎯 8 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2853,6 +2909,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T06:31:37.095Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-12T09:49:53.135Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **107** |
+| 📝 提示詞總數 | **108** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-07-12** |
 
@@ -56,6 +56,81 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 電影感《游牧人生》風格公路電影序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個為 Gemini Omni 設計的高細節電影感影片提示詞，用於創作五個鏡頭的公路電影序列，包含黃金時刻光影與連貫的角色細節。
+
+#### 📝 提示詞
+
+```
+創作一個 10 秒的超寫實電影感公路電影序列，靈感源自《游牧人生》（Nomadland）、《白日夢冒險王》（The Secret Life of Walter Mitty）與《阿拉斯加之死》（Into the Wild）。
+
+使用提供的女性參考圖像作為主角。在整個過程中，請保持精確的面部特徵、髮型、膚色、身體比例、服裝連貫性以及表情。
+
+## 風格
+
+黃金時刻攝影。
+
+自然景觀。
+
+真實的表演。
+
+ARRI ALEXA 65 攝影機。
+
+溫暖的電影感調色。
+
+## 格式
+
+10 秒
+
+5 個鏡頭
+
+### 鏡頭 1 (0:00–0:02)
+
+主角在日落時分獨自駕車行駛在空曠的沿海公路上。
+
+### 鏡頭 2 (0:02–0:04)
+
+她注意到一個寫著以下文字的小木牌：
+
+**「Scenic Route」（景觀路線）。**
+
+她微笑並轉向。
+
+### 鏡頭 3 (0:04–0:06)
+
+道路攀升至海岸線上方，展現出令人屏息的壯闊海景全景。
+
+### 鏡頭 4 (0:06–0:08)
+
+她停下車，走出來，感受海風吹拂。
+
+### 鏡頭 5 (0:08–0:10)
+
+一個廣角無人機鏡頭，展示她獨自站在懸崖上，下方海浪拍打著岩石。
+
+**音樂**
+
+木吉他。
+
+溫暖的弦樂。
+
+柔和的鋼琴。
+
+**情感目標**
+
+*「並非每一次錯誤的轉彎都是失誤。」*
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075765489247383552/img/cFbChjHjOg7W09WZ.jpg" width="600" alt="電影感《游牧人生》風格公路電影序列">
+
+**[🎬 觀看視頻 →](https://x.com/vireonixx/status/2075765549796340071)**
+
+**作者:** [Virena](https://x.com/vireonixx) | **來源:** [Link](https://x.com/vireonixx/status/2075765549796340071) | **發布時間:** Jul 11, 2026
+
+---
 ### 電影級產品環繞廣告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2782,32 +2857,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **作者:** [onoken1025](https://x.com/onoken1025) | **來源:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **發布時間:** May 27, 2026
 
 ---
-### 動態排版與獨白影片
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 為 Gemini Omni 設計的專業影片提示詞，專注於精確的排版位置、技術字體風格以及同步旁白效果。
-
-#### 📝 提示詞
-
-```
-白色 Helvetica 小寫文字 + 連接至主體的細線 + 內心獨白風格旁白
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b985d3a14ddd17e5c070793e69d9675d/thumbnails/thumbnail.jpg" width="600" alt="動態排版與獨白影片">
-
-**[🎬 觀看視頻 →](https://x.com/FinanceYF5/status/2059535919007556042)**
-
-**作者:** [AI Will](https://x.com/FinanceYF5) | **來源:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **發布時間:** May 27, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 7 更多提示詞未在此顯示
+### 🎯 8 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2853,6 +2909,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-12T06:31:38.408Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-12T09:49:55.566Z</sub>
 
 </div>

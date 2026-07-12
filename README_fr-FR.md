@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **107** |
+| 📝 Total des prompts | **108** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-07-12** |
 
@@ -56,6 +56,81 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Séquence de road-movie cinématographique inspirée de Nomadland
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique très détaillé pour Gemini Omni, permettant de créer une séquence de road-movie en cinq plans avec un éclairage d'heure dorée et une cohérence des détails du personnage.
+
+#### 📝 Prompt
+
+```
+Créez une séquence de road-movie cinématographique ultra-photoréaliste de 10 secondes inspirée de *Nomadland*, *La Vie rêvée de Walter Mitty* et *Into the Wild*.
+
+Utilisez l'image de référence féminine fournie comme protagoniste. Préservez l'identité faciale exacte, la coiffure, le teint, les proportions corporelles, la continuité des vêtements et les expressions tout au long de la séquence.
+
+## STYLE
+
+Cinématographie à l'heure dorée.
+
+Paysages naturels.
+
+Interprétations authentiques.
+
+ARRI ALEXA 65.
+
+Étalonnage des couleurs chaud et cinématographique.
+
+## FORMAT
+
+10 secondes
+
+5 plans
+
+### PLAN 1 (0:00–0:02)
+
+La protagoniste conduit seule le long d'une route côtière déserte au coucher du soleil.
+
+### PLAN 2 (0:02–0:04)
+
+Elle remarque un petit panneau en bois sur lequel est inscrit :
+
+**"Scenic Route."**
+
+Elle sourit et tourne.
+
+### PLAN 3 (0:04–0:06)
+
+La route grimpe au-dessus du littoral, révélant une vue panoramique époustouflante sur l'océan.
+
+### PLAN 4 (0:06–0:08)
+
+Elle arrête la voiture, en sort et ressent la brise marine.
+
+### PLAN 5 (0:08–0:10)
+
+Un plan large au drone la montre debout, seule sur la falaise, tandis que les vagues se brisent en contrebas.
+
+**Musique**
+
+Guitare acoustique.
+
+Cordes chaleureuses.
+
+Piano doux.
+
+**Cible émotionnelle**
+
+*"Tous les mauvais virages ne sont pas des erreurs."*
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075765489247383552/img/cFbChjHjOg7W09WZ.jpg" width="600" alt="Séquence de road-movie cinématographique inspirée de Nomadland">
+
+**[🎬 Voir la vidéo →](https://x.com/vireonixx/status/2075765549796340071)**
+
+**Auteur:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2075765549796340071) | **Publié:** Jul 11, 2026
+
+---
 ### Publicité cinématique pour produit avec mouvement orbital
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2782,32 +2857,13 @@ Il s'agit d'un homme japonais dans la cinquantaine. Maintenez la cohérence de l
 **Auteur:** [onoken1025](https://x.com/onoken1025) | **Source:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Publié:** May 27, 2026
 
 ---
-### Typographie cinétique et vidéo de monologue
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo professionnel pour Gemini Omni axé sur le placement précis de la typographie, les styles de police techniques et les effets de narration synchronisés.
-
-#### 📝 Prompt
-
-```
-Texte en minuscules Helvetica blanc + ligne fine connectée au sujet principal + narration de style monologue intérieur
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b985d3a14ddd17e5c070793e69d9675d/thumbnails/thumbnail.jpg" width="600" alt="Typographie cinétique et vidéo de monologue">
-
-**[🎬 Voir la vidéo →](https://x.com/FinanceYF5/status/2059535919007556042)**
-
-**Auteur:** [AI Will](https://x.com/FinanceYF5) | **Source:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **Publié:** May 27, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 7 prompts supplémentaires non affichés ici
+### 🎯 8 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2853,6 +2909,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-12T06:31:46.246Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-12T09:50:06.083Z</sub>
 
 </div>

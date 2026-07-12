@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **107** |
+| 📝 プロンプト総数 | **108** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-07-12** |
 
@@ -56,6 +56,79 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 『ノマドランド』にインスパイアされた映画のようなロードムービーシーケンス
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni 向けの非常に詳細なシネマティックビデオプロンプト。ゴールデンアワーのライティングと一貫したキャラクター描写を用いた、5 ショット構成のロードムービーシーケンスを作成します。
+
+#### 📝 プロンプト
+
+```
+『ノマドランド』、『LIFE!』、『イントゥ・ザ・ワイルド』にインスパイアされた、10 秒間の超写実的なシネマティック・ロードムービーシーケンスを作成してください。
+
+提供された女性の参照画像を使用し、主人公としてください。顔の造形、髪型、肌の色、体型、服装の連続性、表情を全編にわたって正確に維持してください。
+
+## スタイル
+
+ゴールデンアワーのシネマトグラフィー。
+
+自然の風景。
+
+リアルな演技。
+
+ARRI ALEXA 65 使用。
+
+温かみのあるフィルム調のカラーグレーディング。
+
+## フォーマット
+
+10 秒間
+
+5 ショット
+
+### ショット 1 (0:00–0:02)
+
+主人公が夕暮れ時の誰もいない海岸沿いのハイウェイを一人で運転している。
+
+### ショット 2 (0:02–0:04)
+
+彼女が「Scenic Route（絶景ルート）」と書かれた小さな木製の標識に気づく。
+
+彼女は微笑み、ハンドルを切る。
+
+### ショット 3 (0:04–0:06)
+
+道が海岸線の上へと登っていき、息をのむようなパノラマのオーシャンビューが広がる。
+
+### ショット 4 (0:06–0:08)
+
+彼女が車を止め、外へ出て、海風を感じる。
+
+### ショット 5 (0:08–0:10)
+
+崖の上に一人で立ち、眼下に打ち寄せる波を見下ろす彼女を捉えたワイドなドローンショット。
+
+**音楽**
+
+アコースティックギター。
+
+温かみのあるストリングス。
+
+柔らかなピアノ。
+
+**感情のターゲット**
+
+*「すべての回り道が間違いというわけではない。」*
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075765489247383552/img/cFbChjHjOg7W09WZ.jpg" width="600" alt="『ノマドランド』にインスパイアされた映画のようなロードムービーシーケンス">
+
+**[🎬 動画を見る →](https://x.com/vireonixx/status/2075765549796340071)**
+
+**作者:** [Virena](https://x.com/vireonixx) | **ソース:** [Link](https://x.com/vireonixx/status/2075765549796340071) | **公開日:** Jul 11, 2026
+
+---
 ### シネマティックな製品回転広告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2780,32 +2853,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **作者:** [onoken1025](https://x.com/onoken1025) | **ソース:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **公開日:** May 27, 2026
 
 ---
-### キネティック・タイポグラフィとモノローグ動画
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Gemini Omni 向けのプロフェッショナルな動画プロンプト。正確なタイポグラフィの配置、テクニカルなフォントスタイル、同期されたナレーション効果に焦点を当てています。
-
-#### 📝 プロンプト
-
-```
-白の Helvetica 小文字テキスト + メインの被写体へと繋がる細い線 + 内面的なモノローグ形式のナレーション
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b985d3a14ddd17e5c070793e69d9675d/thumbnails/thumbnail.jpg" width="600" alt="キネティック・タイポグラフィとモノローグ動画">
-
-**[🎬 動画を見る →](https://x.com/FinanceYF5/status/2059535919007556042)**
-
-**作者:** [AI Will](https://x.com/FinanceYF5) | **ソース:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **公開日:** May 27, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 7 さらに多くのプロンプトがあります
+### 🎯 8 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2851,6 +2905,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-12T06:31:39.039Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-12T09:49:56.551Z</sub>
 
 </div>

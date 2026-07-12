@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **107** |
+| 📝 提示词总数 | **108** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-07-12** |
 
@@ -56,6 +56,81 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 电影感《无依之地》风格公路电影片段
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个为 Gemini Omni 设计的高细节电影感视频提示词，用于创作包含黄金时刻光影和角色一致性的五镜头公路电影片段。
+
+#### 📝 提示词
+
+```
+创作一段 10 秒钟超写实电影感公路电影片段，灵感源自《无依之地》(Nomadland)、《白日梦想家》(The Secret Life of Walter Mitty) 和《荒野生存》(Into the Wild)。
+
+使用提供的女性参考图像作为主角。在整个过程中保持精确的面部特征、发型、肤色、身体比例、服装连贯性和表情。
+
+## 风格
+
+黄金时刻电影摄影。
+
+自然景观。
+
+真实的表演。
+
+ARRI ALEXA 65 拍摄。
+
+温暖的胶片色调。
+
+## 格式
+
+10 秒
+
+5 个镜头
+
+### 镜头 1 (0:00–0:02)
+
+主角在日落时分独自驾车行驶在空旷的沿海公路上。
+
+### 镜头 2 (0:02–0:04)
+
+她注意到一个写着以下内容的小木牌：
+
+**“Scenic Route”（景观路线）。**
+
+她微笑着转动方向盘。
+
+### 镜头 3 (0:04–0:06)
+
+道路攀升至海岸线上方，展现出令人惊叹的广阔海景。
+
+### 镜头 4 (0:06–0:08)
+
+她停下车，走出来，感受着海风。
+
+### 镜头 5 (0:08–0:10)
+
+广角无人机镜头展示她独自站在悬崖上，下方海浪拍打着岩石。
+
+**音乐**
+
+原声吉他。
+
+温暖的弦乐。
+
+柔和的钢琴。
+
+**情感目标**
+
+*“并非每一次错误的转弯都是失误。”*
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075765489247383552/img/cFbChjHjOg7W09WZ.jpg" width="600" alt="电影感《无依之地》风格公路电影片段">
+
+**[🎬 观看视频 →](https://x.com/vireonixx/status/2075765549796340071)**
+
+**作者:** [Virena](https://x.com/vireonixx) | **来源:** [Link](https://x.com/vireonixx/status/2075765549796340071) | **发布时间:** Jul 11, 2026
+
+---
 ### 电影级产品环绕广告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2782,32 +2857,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **作者:** [onoken1025](https://x.com/onoken1025) | **来源:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **发布时间:** May 27, 2026
 
 ---
-### 动态排版与独白视频
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 一个专为 Gemini Omni 设计的专业视频提示词，侧重于精确的排版布局、科技感字体风格以及同步旁白效果。
-
-#### 📝 提示词
-
-```
-白色 Helvetica 小写字体 + 连接至主体对象的细线 + 内心独白风格旁白
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b985d3a14ddd17e5c070793e69d9675d/thumbnails/thumbnail.jpg" width="600" alt="动态排版与独白视频">
-
-**[🎬 观看视频 →](https://x.com/FinanceYF5/status/2059535919007556042)**
-
-**作者:** [AI Will](https://x.com/FinanceYF5) | **来源:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **发布时间:** May 27, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 7 更多提示词未在此显示
+### 🎯 8 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2853,6 +2909,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-12T06:31:37.694Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-12T09:49:54.152Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **107** |
+| 📝 총 프롬프트 수 | **108** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-12** |
 
@@ -56,6 +56,79 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 영화 '노매드랜드' 스타일의 로드 무비 시퀀스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni를 위한 고도로 상세한 영화적 비디오 프롬프트로, 골든 아워 조명과 일관된 캐릭터 디테일을 갖춘 5개 컷의 로드 무비 시퀀스를 생성합니다.
+
+#### 📝 프롬프트
+
+```
+영화 *노매드랜드*, *월터의 상상은 현실이 된다*, *인투 더 와일드*에서 영감을 받은 10초 분량의 초현실적인 영화적 로드 무비 시퀀스를 제작하세요.
+
+제공된 여성 참조 이미지를 주인공으로 사용하세요. 전체 영상에서 정확한 얼굴 정체성, 헤어스타일, 피부 톤, 신체 비율, 의상 연속성 및 표정을 유지해야 합니다.
+
+## 스타일
+
+골든 아워 촬영 기법.
+
+자연 풍경.
+
+진정성 있는 연기.
+
+ARRI ALEXA 65 카메라.
+
+따뜻한 필름 색감 보정.
+
+## 형식
+
+10초
+
+5개 컷
+
+### 컷 1 (0:00–0:02)
+
+주인공이 해 질 녘 텅 빈 해안 도로를 따라 홀로 운전합니다.
+
+### 컷 2 (0:02–0:04)
+
+그녀가 **"Scenic Route(경치 좋은 길)"**라고 적힌 작은 나무 표지판을 발견합니다.
+
+그녀는 미소를 지으며 방향을 틉니다.
+
+### 컷 3 (0:04–0:06)
+
+도로가 해안선을 따라 위로 올라가며 숨 막히게 아름다운 바다 파노라마 뷰가 펼쳐집니다.
+
+### 컷 4 (0:06–0:08)
+
+그녀가 차를 세우고 내려 바닷바람을 느낍니다.
+
+### 컷 5 (0:08–0:10)
+
+드론 와이드 샷으로 아래에서 파도가 치는 절벽 위에 홀로 서 있는 그녀의 모습을 보여줍니다.
+
+**음악**
+
+어쿠스틱 기타.
+
+따뜻한 현악기.
+
+부드러운 피아노.
+
+**감정적 목표**
+
+*"모든 잘못된 길 선택이 실수는 아니다."*
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2075765489247383552/img/cFbChjHjOg7W09WZ.jpg" width="600" alt="영화 '노매드랜드' 스타일의 로드 무비 시퀀스">
+
+**[🎬 비디오 보기 →](https://x.com/vireonixx/status/2075765549796340071)**
+
+**작성자:** [Virena](https://x.com/vireonixx) | **출처:** [Link](https://x.com/vireonixx/status/2075765549796340071) | **게시일:** Jul 11, 2026
+
+---
 ### 영화 같은 제품 회전 광고
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2782,32 +2855,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **작성자:** [onoken1025](https://x.com/onoken1025) | **출처:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **게시일:** May 27, 2026
 
 ---
-### 키네틱 타이포그래피 및 독백 영상
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> 정밀한 타이포그래피 배치, 기술적인 폰트 스타일, 그리고 동기화된 내레이션 효과에 중점을 둔 Gemini Omni용 전문 영상 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-흰색 Helvetica 소문자 텍스트 + 피사체와 연결되는 가는 선 + 속마음 독백 스타일의 내레이션
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b985d3a14ddd17e5c070793e69d9675d/thumbnails/thumbnail.jpg" width="600" alt="키네틱 타이포그래피 및 독백 영상">
-
-**[🎬 비디오 보기 →](https://x.com/FinanceYF5/status/2059535919007556042)**
-
-**작성자:** [AI Will](https://x.com/FinanceYF5) | **출처:** [Link](https://x.com/FinanceYF5/status/2059535919007556042) | **게시일:** May 27, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 7 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 8 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2853,6 +2907,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-12T06:31:39.717Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-12T09:49:57.655Z</sub>
 
 </div>
