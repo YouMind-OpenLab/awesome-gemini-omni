@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **108** |
+| 📝 Toplam İstem | **109** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-14** |
 
@@ -56,6 +56,35 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Holografik Siberpunk Samuray Aksiyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Holografik maskeli bir siberpunk samurayı için katana savurmaları ve neon ışık efektleri içeren çok aşamalı bir aksiyon zaman çizelgesine sahip, son derece detaylı bir video istemi.
+
+#### 📝 İstem
+
+```
+Oniks tenli, gösterişli kıyafetleri ve LED rünlü parlayan holografik Oni maskesiyle fütüristik samuray. Sinematik aksiyon, siberpunk estetiği, parlayan neon bokeh arka plan, 8k çözünürlük, fotogerçekçi.
+
+10 Saniyelik Aksiyon Zaman Çizelgesi:
+
+0-2. saniye: LED maske ve holografik rünler güçlenerek yanıp sönmeye başlar.
+
+2-4. saniye: Hızlı uzaklaşma. Samuray, parlak neon enerjisiyle çatırdayan katanasını hızla çeker.
+
+4-7. saniye: İleriye doğru hızlı aksiyon atılımı. Samuray, kameraya doğru ışıklı ve süpürücü bir darbe indirir.
+
+7-10. saniye: Ağır çekim final. Samuray, neon yağmuru başlarken katanasını kınına sokar ve vakur bir poz verir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076667811745742848/img/BPV02scF6Vf1sJ26.jpg" width="600" alt="Holografik Siberpunk Samuray Aksiyonu">
+
+**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2076668007007338683)**
+
+**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2076668007007338683) | **Yayınlandı:** Jul 13, 2026
+
+---
 ### Nomadland'den İlham Alan Sinematik Yol Filmi Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2836,32 +2865,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **Yazar:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **Yayınlandı:** May 27, 2026
 
 ---
-### Şişe Çevirme (Bottle Flip) Fizik Simülasyonu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Bir adamın yukarı doğru fırlattığı şişenin masanın üzerine dik bir şekilde düşmesini sağlayan fiziksel hareketi simüle etmek için tasarlanmış bir görselden videoya (i2v) istemi.
-
-#### 📝 İstem
-
-```
-50'li yaşlarında Japon bir adam. Şişe şeklinin sonuna kadar tutarlı kalmasını sağlayın. Şu sırayı takip edin: 1. Sağ elinde tuttuğu şişeyi yukarı doğru fırlatır ve tamamen bırakır (bundan sonra şişeye kesinlikle dokunmaz). 2. Şişe döner, düşer ve masadaki orijinal konumuna dik bir şekilde iner. 3. Kollarını iki yana açarak sevinir.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="Şişe Çevirme (Bottle Flip) Fizik Simülasyonu">
-
-**[🎬 Videoyu izle →](https://x.com/onoken1025/status/2059536888588030163)**
-
-**Yazar:** [onoken1025](https://x.com/onoken1025) | **Kaynak:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Yayınlandı:** May 27, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 8 burada gösterilmeyen daha fazla istem
+### 🎯 9 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2907,6 +2917,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-14T06:09:54.303Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-14T09:57:09.539Z</sub>
 
 </div>

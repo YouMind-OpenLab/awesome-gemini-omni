@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **108** |
+| 📝 Total de prompts | **109** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-14** |
 
@@ -56,6 +56,35 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Ação de Samurai Cyberpunk Holográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo altamente detalhado para um samurai cyberpunk com máscara holográfica, apresentando uma linha do tempo de ação em várias etapas, incluindo golpes de katana e efeitos de iluminação neon.
+
+#### 📝 Prompt
+
+```
+Samurai futurista com pele de ônix, vestes opulentas e uma máscara Oni holográfica brilhante com runas de LED. Ação cinematográfica, estética cyberpunk, fundo com bokeh de neon brilhante, resolução 8k, fotorrealista.
+
+Linha do Tempo de Ação de 10 Segundos:
+
+0-2s: A máscara de LED e as runas holográficas ligam-se e piscam.
+
+2-4s: Zoom rápido para trás. O samurai saca rapidamente uma katana que crepita com energia neon brilhante.
+
+4-7s: Avanço rápido. O samurai executa um golpe luminoso e amplo em direção à câmera.
+
+7-10s: Finalização em câmera lenta. O samurai embainha a katana enquanto uma chuva de neon começa a cair, mantendo uma pose estoica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076667811745742848/img/BPV02scF6Vf1sJ26.jpg" width="600" alt="Ação de Samurai Cyberpunk Holográfico">
+
+**[🎬 Assistir vídeo →](https://x.com/michaelrabone/status/2076668007007338683)**
+
+**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2076668007007338683) | **Publicado:** Jul 13, 2026
+
+---
 ### Sequência de Road Movie Cinematográfico Inspirada em Nomadland
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2838,32 +2867,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **Publicado:** May 27, 2026
 
 ---
-### Simulação de Física de Bottle Flip
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de imagem para vídeo (i2v) projetado para simular a ação física de um homem lançando uma garrafa para cima e fazendo com que ela pouse em pé sobre uma mesa.
-
-#### 📝 Prompt
-
-```
-Ele é um homem japonês na casa dos 50 anos. Mantenha a consistência do formato da garrafa até o final. Progrida através da seguinte sequência: 1. Ele lança a garrafa que segura na mão direita para cima e a solta completamente (depois disso, ele não toca na garrafa em hipótese alguma). 2. A garrafa gira e cai, pousando em pé na sua posição original sobre a mesa. 3. Ele abre os braços e comemora.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="Simulação de Física de Bottle Flip">
-
-**[🎬 Assistir vídeo →](https://x.com/onoken1025/status/2059536888588030163)**
-
-**Autor:** [onoken1025](https://x.com/onoken1025) | **Fonte:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Publicado:** May 27, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 8 mais prompts não mostrados aqui
+### 🎯 9 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2909,6 +2919,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-14T06:09:53.297Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-14T09:57:08.715Z</sub>
 
 </div>

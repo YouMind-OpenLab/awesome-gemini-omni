@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **108** |
+| 📝 Tổng số prompt | **109** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-14** |
 
@@ -56,6 +56,35 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hành động Samurai Cyberpunk toàn ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chi tiết về samurai cyberpunk với mặt nạ toàn ảnh, bao gồm dòng thời gian hành động đa giai đoạn với các cú chém katana và hiệu ứng ánh sáng neon.
+
+#### 📝 Prompt
+
+```
+Samurai tương lai với làn da đen tuyền, trang phục lộng lẫy và mặt nạ Oni toàn ảnh phát sáng với các ký tự rune LED. Hành động đậm chất điện ảnh, thẩm mỹ cyberpunk, nền bokeh neon rực rỡ, độ phân giải 8k, chân thực như ảnh chụp.
+
+Dòng thời gian hành động 10 giây:
+
+0-2 giây: Mặt nạ LED và các ký tự rune toàn ảnh khởi động và nhấp nháy.
+
+2-4 giây: Thu phóng nhanh ra xa. Samurai rút nhanh thanh katana đang nứt vỡ với năng lượng neon rực rỡ.
+
+4-7 giây: Hành động lao tới nhanh chóng. Samurai thực hiện một cú chém quét sáng rực về phía máy quay.
+
+7-10 giây: Kết thúc bằng chuyển động chậm. Samurai tra kiếm vào vỏ khi mưa neon bắt đầu rơi, tạo dáng vẻ điềm tĩnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076667811745742848/img/BPV02scF6Vf1sJ26.jpg" width="600" alt="Hành động Samurai Cyberpunk toàn ảnh">
+
+**[🎬 Xem video →](https://x.com/michaelrabone/status/2076668007007338683)**
+
+**Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2076668007007338683) | **Đã xuất bản:** Jul 13, 2026
+
+---
 ### Chuỗi cảnh phim điện ảnh về hành trình truyền cảm hứng từ Nomadland
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2838,32 +2867,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **Tác giả:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **Đã xuất bản:** May 27, 2026
 
 ---
-### Mô phỏng vật lý trò chơi tung chai (Bottle Flip)
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh (prompt) chuyển đổi hình ảnh thành video (i2v) được thiết kế để mô phỏng hành động vật lý của một người đàn ông tung chai lên cao và để nó rơi xuống thẳng đứng trên mặt bàn.
-
-#### 📝 Prompt
-
-```
-Anh ấy là một người đàn ông Nhật Bản ở độ tuổi 50. Hãy duy trì sự nhất quán về hình dạng của chiếc chai cho đến cuối video. Thực hiện theo trình tự sau: 1. Anh ấy tung chiếc chai đang cầm ở tay phải lên cao và buông tay hoàn toàn (sau đó, tuyệt đối không được chạm vào chai nữa). 2. Chiếc chai xoay và rơi xuống, đáp thẳng đứng vào vị trí ban đầu trên mặt bàn. 3. Anh ấy dang rộng tay và ăn mừng.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="Mô phỏng vật lý trò chơi tung chai (Bottle Flip)">
-
-**[🎬 Xem video →](https://x.com/onoken1025/status/2059536888588030163)**
-
-**Tác giả:** [onoken1025](https://x.com/onoken1025) | **Nguồn:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Đã xuất bản:** May 27, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 8 prompt khác không hiển thị ở đây
+### 🎯 9 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2909,6 +2919,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-14T06:09:43.300Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-14T09:57:01.353Z</sub>
 
 </div>

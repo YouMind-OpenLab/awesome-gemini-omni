@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **108** |
+| 📝 プロンプト総数 | **109** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-07-14** |
 
@@ -56,6 +56,35 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### ホログラフィック・サイバーパンク・サムライ・アクション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ホログラフィックマスクを装着したサイバーパンク・サムライのための高精細な動画プロンプト。刀による斬撃やネオンのライティング効果を含む、多段階のアクションタイムラインを特徴としています。
+
+#### 📝 プロンプト
+
+```
+オニキスのような肌、豪華な衣装、そして LED ルーンが輝くホログラフィックな鬼のマスクを身につけた未来的なサムライ。シネマティックなアクション、サイバーパンクの美学、輝くネオンのボケ味を背景にした、8k 解像度のフォトリアルな映像。
+
+10 秒間のアクションタイムライン：
+
+0〜2 秒：LED マスクとホログラフィックなルーンが起動し、明滅しながら輝き出す。
+
+2〜4 秒：急速なズームアウト。サムライが鮮やかなネオンエネルギーを放つ刀を素早く抜く。
+
+4〜7 秒：前方への素早いダッシュ。サムライがカメラに向かって、光り輝く一閃を放つ。
+
+7〜10 秒：スローモーションでの締めくくり。ネオンの雨が降り始める中、サムライが刀を鞘に収め、ストイックなポーズを決める。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076667811745742848/img/BPV02scF6Vf1sJ26.jpg" width="600" alt="ホログラフィック・サイバーパンク・サムライ・アクション">
+
+**[🎬 動画を見る →](https://x.com/michaelrabone/status/2076668007007338683)**
+
+**作者:** [Michael Rabone](https://x.com/michaelrabone) | **ソース:** [Link](https://x.com/michaelrabone/status/2076668007007338683) | **公開日:** Jul 13, 2026
+
+---
 ### 『ノマドランド』にインスパイアされた映画のようなロードムービーシーケンス
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2834,32 +2863,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **ソース:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **公開日:** May 27, 2026
 
 ---
-### ボトルフリップの物理シミュレーション
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 男性がボトルを上に投げ、テーブルの上に直立させる物理的な動作をシミュレートするための画像から動画（i2v）へのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-彼は 50 代の日本人男性です。ボトルの形状を最後まで一貫させてください。以下の手順で進行します：1. 右手に持ったボトルを上に投げ、完全に手を離します（その後、ボトルには一切触れません）。2. ボトルが回転しながら落下し、テーブルの元の位置に直立して着地します。3. 彼は両手を広げて喜びます。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="ボトルフリップの物理シミュレーション">
-
-**[🎬 動画を見る →](https://x.com/onoken1025/status/2059536888588030163)**
-
-**作者:** [onoken1025](https://x.com/onoken1025) | **ソース:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **公開日:** May 27, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 8 さらに多くのプロンプトがあります
+### 🎯 9 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2905,6 +2915,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-14T06:09:39.894Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-14T09:56:57.996Z</sub>
 
 </div>

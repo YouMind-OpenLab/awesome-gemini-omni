@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **108** |
+| 📝 提示词总数 | **109** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-07-14** |
 
@@ -56,6 +56,35 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 全息赛博朋克武士动作
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于佩戴全息面具的赛博朋克武士的高细节视频提示词，包含武士刀劈砍和霓虹灯光效果的多阶段动作时间轴。
+
+#### 📝 提示词
+
+```
+未来派武士，拥有黑玛瑙般的皮肤、华丽的长袍，以及带有 LED 符文的发光全息鬼面具。电影级动作，赛博朋克美学，发光的霓虹虚化背景，8k 分辨率，照片级真实感。
+
+10 秒动作时间轴：
+
+0-2 秒：LED 面具和全息符文启动并闪烁亮起。
+
+2-4 秒：快速拉远镜头。武士迅速拔出闪烁着明亮霓虹能量的武士刀。
+
+4-7 秒：快速向前冲刺。武士向镜头方向执行一次大范围的发光劈砍。
+
+7-10 秒：慢动作收尾。武士收刀入鞘，霓虹雨开始落下，摆出冷峻的姿势。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076667811745742848/img/BPV02scF6Vf1sJ26.jpg" width="600" alt="全息赛博朋克武士动作">
+
+**[🎬 观看视频 →](https://x.com/michaelrabone/status/2076668007007338683)**
+
+**作者:** [Michael Rabone](https://x.com/michaelrabone) | **来源:** [Link](https://x.com/michaelrabone/status/2076668007007338683) | **发布时间:** Jul 13, 2026
+
+---
 ### 电影感《无依之地》风格公路电影片段
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2838,32 +2867,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **来源:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **发布时间:** May 27, 2026
 
 ---
-### 瓶子翻转物理模拟
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个旨在模拟人物将瓶子向上抛出并使其直立落在桌面上这一物理动作的图生视频 (i2v) 提示词。
-
-#### 📝 提示词
-
-```
-他是一位 50 多岁的日本男性。请确保瓶子的形状在整个过程中保持一致。按照以下顺序进行：1. 他将右手握住的瓶子向上抛出并完全松手（此后绝对不要再触碰瓶子）。2. 瓶子旋转下落，并直立落在桌子上的原始位置。3. 他张开双臂，表现出欣喜若狂的样子。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="瓶子翻转物理模拟">
-
-**[🎬 观看视频 →](https://x.com/onoken1025/status/2059536888588030163)**
-
-**作者:** [onoken1025](https://x.com/onoken1025) | **来源:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **发布时间:** May 27, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 8 更多提示词未在此显示
+### 🎯 9 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2909,6 +2919,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-14T06:09:37.573Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-14T09:56:56.060Z</sub>
 
 </div>

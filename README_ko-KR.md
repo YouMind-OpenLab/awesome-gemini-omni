@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **108** |
+| 📝 총 프롬프트 수 | **109** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-14** |
 
@@ -56,6 +56,35 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 홀로그램 사이버펑크 사무라이 액션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 홀로그램 마스크를 쓴 사이버펑크 사무라이를 위한 고도로 상세한 비디오 프롬프트입니다. 카타나 베기 동작과 네온 조명 효과를 포함한 다단계 액션 타임라인을 특징으로 합니다.
+
+#### 📝 프롬프트
+
+```
+오닉스 피부, 화려한 로봇, LED 룬이 새겨진 빛나는 홀로그램 오니 마스크를 착용한 미래형 사무라이. 영화 같은 액션, 사이버펑크 미학, 빛나는 네온 보케 배경, 8k 해상도, 사실적인 사진 품질.
+
+10초 액션 타임라인:
+
+0-2초: LED 마스크와 홀로그램 룬이 켜지며 깜빡입니다.
+
+2-4초: 빠르게 줌 아웃. 사무라이가 밝은 네온 에너지가 번쩍이는 카타나를 신속하게 뽑아듭니다.
+
+4-7초: 빠르게 앞으로 돌진. 사무라이가 카메라를 향해 빛나는 칼을 크게 휘두릅니다.
+
+7-10초: 슬로우 모션 마무리. 네온 비가 내리기 시작하는 가운데 사무라이가 카타나를 칼집에 넣으며 의연한 자세를 취합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076667811745742848/img/BPV02scF6Vf1sJ26.jpg" width="600" alt="홀로그램 사이버펑크 사무라이 액션">
+
+**[🎬 비디오 보기 →](https://x.com/michaelrabone/status/2076668007007338683)**
+
+**작성자:** [Michael Rabone](https://x.com/michaelrabone) | **출처:** [Link](https://x.com/michaelrabone/status/2076668007007338683) | **게시일:** Jul 13, 2026
+
+---
 ### 영화 '노매드랜드' 스타일의 로드 무비 시퀀스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2836,32 +2865,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **작성자:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **출처:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **게시일:** May 27, 2026
 
 ---
-### 물병 던지기 물리 시뮬레이션
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 남성이 물병을 위로 던져 테이블 위에 똑바로 세우는 물리적 동작을 시뮬레이션하기 위해 설계된 이미지 투 비디오 (i2v) 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-50대 일본인 남성입니다. 영상이 끝날 때까지 물병의 형태를 일정하게 유지하세요. 다음 순서대로 진행합니다: 1. 오른손에 든 물병을 위로 던져 완전히 놓습니다 (그 이후에는 절대 물병을 건드리지 않습니다). 2. 물병이 회전하며 떨어져 테이블 위의 원래 위치에 똑바로 착지합니다. 3. 남성이 양팔을 벌리며 기뻐합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="물병 던지기 물리 시뮬레이션">
-
-**[🎬 비디오 보기 →](https://x.com/onoken1025/status/2059536888588030163)**
-
-**작성자:** [onoken1025](https://x.com/onoken1025) | **출처:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **게시일:** May 27, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 8 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 9 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2907,6 +2917,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-14T06:09:41.079Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-14T09:56:59.269Z</sub>
 
 </div>

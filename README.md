@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **108** |
+| 📝 Total Prompts | **109** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-14** |
 
@@ -56,6 +56,35 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Holographic Cyberpunk Samurai Action
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for a cyberpunk samurai with a holographic mask, featuring a multi-stage action timeline including katana slashes and neon lighting effects.
+
+#### 📝 Prompt
+
+```
+Futuristic samurai with onyx skin, opulent robes, and a glowing holographic Oni mask with LED runes. Cinematic action, cyberpunk aesthetic, glowing neon bokeh background, 8k resolution, photorealistic.
+
+10-Second Action Timeline:
+
+0-2s: The LED mask and holographic runes power up and flicker to life.
+
+2-4s: Fast zoom out. The samurai swiftly draws a katana that crackles with bright neon energy.
+
+4-7s: Rapid action dash forward. The samurai executes a sweeping, luminous slash toward the camera.
+
+7-10s: Slow-motion finish. The samurai sheathes the katana as neon rain begins to fall, striking a stoic pose.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076667811745742848/img/BPV02scF6Vf1sJ26.jpg" width="600" alt="Holographic Cyberpunk Samurai Action">
+
+**[🎬 Watch Video →](https://x.com/michaelrabone/status/2076668007007338683)**
+
+**Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2076668007007338683) | **Published:** Jul 13, 2026
+
+---
 ### Cinematic Nomadland-Inspired Road Movie Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2838,32 +2867,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **Author:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **Published:** May 27, 2026
 
 ---
-### Bottle Flip Physics Simulation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> An image-to-video (i2v) prompt designed to simulate the physical action of a man throwing a bottle upward and having it land upright on a table.
-
-#### 📝 Prompt
-
-```
-He is a Japanese man in his 50s. Maintain consistency of the bottle shape until the end. Progress through the following sequence: 1. He throws the bottle held in his right hand upwards and completely lets go of it (after that, he absolutely does not touch the bottle). 2. The bottle rotates and falls, landing upright in its original position on the table. 3. He spreads his arms and rejoices.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="Bottle Flip Physics Simulation">
-
-**[🎬 Watch Video →](https://x.com/onoken1025/status/2059536888588030163)**
-
-**Author:** [onoken1025](https://x.com/onoken1025) | **Source:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Published:** May 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 8 more prompts not shown here
+### 🎯 9 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2909,6 +2919,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-14T06:09:36.572Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-14T09:56:54.826Z</sub>
 
 </div>

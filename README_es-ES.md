@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **108** |
+| 📝 Total de prompts | **109** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-14** |
 
@@ -56,6 +56,35 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Acción de samurái ciberpunk holográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video altamente detallado para un samurái ciberpunk con máscara holográfica, que incluye una línea de tiempo de acción de varias etapas con cortes de katana y efectos de iluminación de neón.
+
+#### 📝 Prompt
+
+```
+Samurái futurista con piel de ónice, túnicas opulentas y una máscara Oni holográfica brillante con runas LED. Acción cinematográfica, estética ciberpunk, fondo de bokeh de neón brillante, resolución 8k, fotorrealista.
+
+Línea de tiempo de acción de 10 segundos:
+
+0-2s: La máscara LED y las runas holográficas se encienden y parpadean hasta cobrar vida.
+
+2-4s: Zoom rápido hacia atrás. El samurái desenvaina rápidamente una katana que chisporrotea con brillante energía de neón.
+
+4-7s: Carrera de acción rápida hacia adelante. El samurái ejecuta un corte luminoso y amplio hacia la cámara.
+
+7-10s: Final en cámara lenta. El samurái enfunda la katana mientras comienza a caer lluvia de neón, adoptando una pose estoica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076667811745742848/img/BPV02scF6Vf1sJ26.jpg" width="600" alt="Acción de samurái ciberpunk holográfico">
+
+**[🎬 Ver video →](https://x.com/michaelrabone/status/2076668007007338683)**
+
+**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fuente:** [Link](https://x.com/michaelrabone/status/2076668007007338683) | **Publicado:** Jul 13, 2026
+
+---
 ### Secuencia de road movie cinematográfica inspirada en Nomadland
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2838,32 +2867,13 @@ Please create a 10-second vertical (9:16) ultra-realistic live-action documentar
 **Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fuente:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **Publicado:** May 27, 2026
 
 ---
-### Simulación física de un 'bottle flip'
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt de imagen a video (i2v) diseñado para simular la acción física de un hombre lanzando una botella hacia arriba y logrando que aterrice en posición vertical sobre una mesa.
-
-#### 📝 Prompt
-
-```
-Es un hombre japonés de unos 50 años. Mantén la consistencia de la forma de la botella hasta el final. Procede con la siguiente secuencia: 1. Lanza la botella que sostiene en su mano derecha hacia arriba y la suelta por completo (después de esto, no vuelve a tocar la botella bajo ninguna circunstancia). 2. La botella gira y cae, aterrizando en posición vertical en su posición original sobre la mesa. 3. Abre los brazos y celebra.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ef2a25b3d96136e18a28242c5098aa7c/thumbnails/thumbnail.jpg" width="600" alt="Simulación física de un 'bottle flip'">
-
-**[🎬 Ver video →](https://x.com/onoken1025/status/2059536888588030163)**
-
-**Autor:** [onoken1025](https://x.com/onoken1025) | **Fuente:** [Link](https://x.com/onoken1025/status/2059536888588030163) | **Publicado:** May 27, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 8 más prompts no mostrados aquí
+### 🎯 9 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2909,6 +2919,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-14T06:09:45.945Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-14T09:57:03.224Z</sub>
 
 </div>
