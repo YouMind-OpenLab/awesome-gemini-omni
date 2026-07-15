@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **109** |
+| 📝 提示词总数 | **111** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-07-15** |
 
@@ -56,6 +56,48 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 电影级企鹅宝藏发现
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个为 Gemini Omni 设计的详细电影级提示词，旨在创作一段 10 秒钟的悬疑视频，内容为在宝箱中发现一只小企鹅，包含音频和摄像机指令。
+
+#### 📝 提示词
+
+```
+10 秒电影级 POV 视频。夜晚，安静的森林。手电筒的光束缓慢扫过地面，直到发现一个覆盖着苔藓的古老木制宝箱。摄像机伴随着细微的手持晃动小心翼翼地靠近，营造出悬疑感。一只人手伸下，打开锁扣，缓慢掀开箱盖。箱子里没有宝藏，而是一只戴着迷你黑色墨镜、毛茸茸的小企鹅，坐在发光的冰晶上。企鹅直视镜头，微笑并缓慢抬起一只鳍状肢，做出一个清晰的 👍 点赞手势。摄像机推进，特写它可爱的表情。
+
+音频：安静的森林环境音，伴随着远处的蟋蟀声和靠近时轻柔的悬疑音乐。箱子打开的瞬间，音乐转变为欢快、振奋的旋律。一个自然的成年男性声音充满热情地说：“哇，太棒了！”，并与企鹅的点赞动作完美同步。企鹅随即发出可爱的鸣叫声。
+
+超写实，电影级光影，高度精细的羽毛，富有表现力的眼睛，真实的物理效果，自然的动画，平滑的手持摄像机运动，浅景深，照片级真实感，无字幕，无文字，无水印。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="电影级企鹅宝藏发现">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2077310416615780646)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2077310416615780646) | **发布时间:** Jul 15, 2026
+
+---
+### 定格动画风格心理健康应用宣传片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份使用 Gemini Omni 创建 10 秒定格动画的综合视频生成提示词。该提示词遵循关于心理压力与 AI 助手应用的脚本序列，并采用手工卡纸艺术风格。
+
+#### 📝 提示词
+
+```
+生成一段 10 秒的无缝视频，将所提供的脚本网格参考图中的事件序列进行动画化处理。视频应依次呈现第 1 帧（心理压力）、第 2 帧（一键签到）、第 3 帧（AI 助手）和第 4 帧（品牌展示），并在各场景之间实现流畅且具有定格动画节奏感的过渡。风格与运动指令：采用 12 FPS 的手工定格动画美学，无运动模糊。动作需逐帧呈现，带有刻意的纸张抖动和可见的图层重置效果。材质：分层卡纸、撕裂的报纸边缘、美纹纸胶带和拍立得相框。配色：米白色背景、炭黑色、电光黄高光以及柔和的鼠尾草绿。场景序列：（0-2.5 秒）微距镜头快速推向 Isla 的纸质剪影头像，头像落入混乱的纸堆中。文字“MIND WON'T SLOW DOWN?”逐词出现。（2.5-5 秒）一个干净的“项目”滑入。Isla 在拍立得相框中微笑。一只纸质手指点击纸质手机，将混乱的场景替换为纸花和阳光。（5-8 秒）关节灵活的 Isla 木偶走过踏脚石。AI 卡片以手风琴方式展开：“Breathe”（呼吸）、“Reflect”（反思）、“Reset”（重置）。（8-10 秒）一部纸质智能手机拍入画面中心，显示 Feel Fresh 的 UI 界面。“FEEL FRESH”标志以最终的快速推镜头盖章式落下。音频：“Ever feel like your mind just won't slow down? With Feel Fresh, check in with one tap. Let AI help you breathe, reflect, and reset. Feel Fresh feel lighter, every day.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076895874266046464/img/NksVtycvOSTSh2hj.jpg" width="600" alt="定格动画风格心理健康应用宣传片">
+
+**[🎬 观看视频 →](https://x.com/AItheoryx/status/2076898752347144434)**
+
+**作者:** [AI Theory](https://x.com/AItheoryx) | **来源:** [Link](https://x.com/AItheoryx/status/2076898752347144434) | **发布时间:** Jul 14, 2026
+
+---
 ### 全息赛博朋克武士动作
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2825,55 +2867,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **发布时间:** May 27, 2026
 
 ---
-### Jiggling Souffle Pancake Animation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A video generation prompt that uses a storyboard image to create a 15-second anime-style cooking video of fluffy, jiggling souffle pancakes.
-
-#### 📝 提示词
-
-```
-Based on the attached storyboard image, please create a 15-second horizontal 16:9 anime cooking video.
-
-Theme: Extremely thick souffle pancakes that jiggle.
-
-Follow the panel order of the storyboard and turn it into a video as a fast-paced cooking scene.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2976e5e6db0710d64f0dca23783ffea/thumbnails/thumbnail.jpg" width="600" alt="Jiggling Souffle Pancake Animation">
-
-**[🎬 观看视频 →](https://x.com/vermouth_dev/status/2059586948881436906)**
-
-**作者:** [ヴェルモット](https://x.com/vermouth_dev) | **来源:** [Link](https://x.com/vermouth_dev/status/2059586948881436906) | **发布时间:** May 27, 2026
-
----
-### Human Evolution Morphing Documentary
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed 10-second documentary prompt tracking human evolution from early primates to modern humans with seamless morphing and cinematic lighting.
-
-#### 📝 提示词
-
-```
-Please create a 10-second vertical (9:16) ultra-realistic live-action documentary video using the attached storyboard image as an accurate visual blueprint. Strictly maintain the storyboard's composition, chronological order, human evolution, and walking direction. No extra shots or changes in sequence. Style: Ultra-realistic movie quality, high-budget documentary feel like BBC Earth or NHK Special, natural light, cinematic depth. Evolution: Transitions should feature seamless morphing of skeleton, face, and clothing while walking. Character: Walk from left to right at a constant speed, maintaining lineage continuity. Camera: Constant side-view tracking. Captions: Minimal documentary-style text in Japanese for each era. Negative: Slow motion, robotic movement, fantasy effects, low resolution.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d1cda4422d959e6819cd9ae408cda9/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Morphing Documentary">
-
-**[🎬 观看视频 →](https://x.com/tanabe_fragm/status/2059544118876152267)**
-
-**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **来源:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **发布时间:** May 27, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 9 更多提示词未在此显示
+### 🎯 11 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2919,6 +2919,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-15T06:12:26.391Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-15T10:01:02.959Z</sub>
 
 </div>

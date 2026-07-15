@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **109** |
+| 📝 Toplam İstem | **111** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-15** |
 
@@ -56,6 +56,48 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Penguen Hazine Keşfi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni için, bir hazine sandığının içinde bulunan yavru penguenin yer aldığı, ses ve kamera talimatlarını içeren 10 saniyelik gerilim dolu sinematik bir istem.
+
+#### 📝 İstem
+
+```
+10 saniyelik sinematik POV video. Gece vakti, sessiz bir orman. Bir el fenerinin ışığı, yosunlarla kaplı eski, ahşap bir hazine sandığını keşfedene kadar zeminde yavaşça dolaşır. Kamera, gerilimi artırmak için hafif el kamerası hareketleriyle dikkatlice yaklaşır. Bir insan eli aşağı uzanır, sandığın kilidini açar ve kapağı yavaşça kaldırır. Hazine yerine, içinde parlayan buz kristallerinin üzerinde oturan, minyatür siyah güneş gözlüğü takmış minik, tüylü bir yavru penguen vardır. Penguen doğrudan kameraya bakar, gülümser ve net bir 👍 başparmak işareti yapmak için bir yüzgecini yavaşça kaldırır. Kamera, sevimli ifadeyi yakalamak için yakın çekime girer.
+
+Ses: Yaklaşma anında uzaktan gelen cırcır böcekleri ve hafif, gerilim dolu bir müzikle sessiz orman ambiyansı. Sandık açıldığı anda müzik, neşeli ve moral verici bir tona dönüşür. Doğal bir yetişkin erkek sesi, penguenin başparmak işaretiyle mükemmel bir şekilde senkronize olarak coşkuyla "Vay canına, harika!" der. Penguen hemen sevimli bir cıvıltıyla yanıt verir.
+
+Ultra gerçekçi, sinematik aydınlatma, son derece detaylı tüyler, etkileyici gözler, gerçekçi fizik, doğal animasyon, pürüzsüz el kamerası hareketi, sığ alan derinliği, fotogerçekçi, altyazı yok, metin yok, filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="Sinematik Penguen Hazine Keşfi">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2077310416615780646)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2077310416615780646) | **Yayınlandı:** Jul 15, 2026
+
+---
+### Stop-motion Ruh Sağlığı Uygulaması Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni kullanarak 10 saniyelik stop-motion animasyon oluşturmaya yönelik kapsamlı bir video üretim istemi. Zihinsel bunalma ve bir yapay zeka destek uygulaması hakkındaki bir storyboard dizisini takip eder ve el yapımı karton estetiğine sahiptir.
+
+#### 📝 İstem
+
+```
+Sağlanan storyboard ızgara referans görselinde gösterilen olay dizisini canlandıran, tek parça ve kesintisiz 10 saniyelik bir video oluşturun. Video; Kare 1 (zihinsel bunalma), Kare 2 (tek dokunuşla kontrol), Kare 3 (yapay zeka desteği) ve Kare 4 (marka kimliği) boyunca ilerlemeli ve her sahne arasında canlı bir stop-motion zamanlamasıyla yumuşak geçişler yapmalıdır. STİL VE HAREKET YÖNERGELERİ: 12 FPS hızında, hareket bulanıklığı olmayan, el yapımı stop-motion estetiği. Kasıtlı kağıt titremesi ve görünür katman yer değiştirmeleriyle kare kare canlı hareket. Malzemeler: Katmanlı karton, yırtık gazete kenarları, maskeleme bandı ve Polaroid çerçeveler. Renkler: Kırık beyaz arka plan, kömür siyahı, elektrik sarısı vurgular ve mat adaçayı yeşili. SAHNE SIRALAMASI (0-2.5s) Isla'nın kağıttan kesilmiş kafasının kaotik kağıt yığınına düştüğü makro bir yakın çekim. "MIND WON'T SLOW DOWN?" tipografisi kelime kelime belirir. (2.5-5s) Temiz bir pano Slides şeklinde içeri girer. Isla, bir Polaroid çerçevesinden gülümser. Kağıttan bir parmak, kağıttan bir telefona dokunur ve karmaşayı kağıttan çiçekler ve güneş ışığıyla değiştirir. (5-8s) Eklemli Isla kuklası, basamak taşları üzerinde yürür. Yapay zeka kartları akordeon tarzında açılır: "Breathe", "Reflect", "Reset". (8-10s) Kağıttan bir akıllı telefon, Feel Fresh arayüzünü göstererek merkeze çarpar. "FEEL FRESH" logosu, son bir yakın çekimle damgalanır. SES "Zihninizin hiç yavaşlamadığını hissettiğiniz oldu mu? Feel Fresh ile tek dokunuşla durumunuzu kontrol edin. Yapay zekanın nefes almanıza, düşünmenize ve sıfırlanmanıza yardımcı olmasına izin verin. Feel Fresh ile her gün daha hafif hissedin."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076895874266046464/img/NksVtycvOSTSh2hj.jpg" width="600" alt="Stop-motion Ruh Sağlığı Uygulaması Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/AItheoryx/status/2076898752347144434)**
+
+**Yazar:** [AI Theory](https://x.com/AItheoryx) | **Kaynak:** [Link](https://x.com/AItheoryx/status/2076898752347144434) | **Yayınlandı:** Jul 14, 2026
+
+---
 ### Holografik Siberpunk Samuray Aksiyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2823,55 +2865,13 @@ Yağmur altında parlayan çocukluk anıları
 **Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **Yayınlandı:** May 27, 2026
 
 ---
-### Jiggling Souffle Pancake Animation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A video generation prompt that uses a storyboard image to create a 15-second anime-style cooking video of fluffy, jiggling souffle pancakes.
-
-#### 📝 İstem
-
-```
-Based on the attached storyboard image, please create a 15-second horizontal 16:9 anime cooking video.
-
-Theme: Extremely thick souffle pancakes that jiggle.
-
-Follow the panel order of the storyboard and turn it into a video as a fast-paced cooking scene.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2976e5e6db0710d64f0dca23783ffea/thumbnails/thumbnail.jpg" width="600" alt="Jiggling Souffle Pancake Animation">
-
-**[🎬 Videoyu izle →](https://x.com/vermouth_dev/status/2059586948881436906)**
-
-**Yazar:** [ヴェルモット](https://x.com/vermouth_dev) | **Kaynak:** [Link](https://x.com/vermouth_dev/status/2059586948881436906) | **Yayınlandı:** May 27, 2026
-
----
-### Human Evolution Morphing Documentary
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed 10-second documentary prompt tracking human evolution from early primates to modern humans with seamless morphing and cinematic lighting.
-
-#### 📝 İstem
-
-```
-Please create a 10-second vertical (9:16) ultra-realistic live-action documentary video using the attached storyboard image as an accurate visual blueprint. Strictly maintain the storyboard's composition, chronological order, human evolution, and walking direction. No extra shots or changes in sequence. Style: Ultra-realistic movie quality, high-budget documentary feel like BBC Earth or NHK Special, natural light, cinematic depth. Evolution: Transitions should feature seamless morphing of skeleton, face, and clothing while walking. Character: Walk from left to right at a constant speed, maintaining lineage continuity. Camera: Constant side-view tracking. Captions: Minimal documentary-style text in Japanese for each era. Negative: Slow motion, robotic movement, fantasy effects, low resolution.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d1cda4422d959e6819cd9ae408cda9/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Morphing Documentary">
-
-**[🎬 Videoyu izle →](https://x.com/tanabe_fragm/status/2059544118876152267)**
-
-**Yazar:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **Yayınlandı:** May 27, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 9 burada gösterilmeyen daha fazla istem
+### 🎯 11 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2917,6 +2917,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-15T06:12:38.715Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-15T10:01:15.827Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **109** |
+| 📝 プロンプト総数 | **111** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-07-15** |
 
@@ -56,6 +56,48 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 映画のようなペンギンの宝探し
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni 向けの、宝箱の中から見つかった赤ちゃんペンギンの 10 秒間のサスペンスフルな動画を作成するための詳細なシネマティックプロンプト。音声およびカメラの指示を含みます。
+
+#### 📝 プロンプト
+
+```
+10 秒間のシネマティックな POV 動画。静かな森の夜。懐中電灯の光が地面をゆっくりと照らし、苔に覆われた古い木製の宝箱を発見する。カメラはサスペンス感を高めるため、手持ちカメラのような繊細な動きで慎重に近づく。人間の手が伸びて宝箱の鍵を開け、ゆっくりと蓋を持ち上げる。中には宝物ではなく、小さな黒いサングラスをかけたふわふわの赤ちゃんペンギンが、光る氷の結晶の上に座っている。ペンギンはカメラをまっすぐ見つめて微笑み、ゆっくりと片方のフリッパーを上げて、はっきりと 👍 サムズアップのポーズをとる。カメラは愛らしい表情を捉えるためにクローズアップで寄る。
+
+音声：近づく間は、遠くのコオロギの鳴き声と静かなサスペンス調の音楽が流れる森の環境音。宝箱が開いた瞬間に、音楽は明るく高揚感のある曲調に変化する。ペンギンのサムズアップに合わせて、自然な成人男性の声で「Wow, wonderful!」と熱っぽく語りかける。ペンギンはすぐにかわいらしい鳴き声で応える。
+
+超リアル、シネマティックな照明、細部まで描き込まれた羽毛、表情豊かな目、リアルな物理演算、自然なアニメーション、滑らかな手持ちカメラの動き、浅い被写界深度、フォトリアル、字幕なし、テキストなし、ウォーターマークなし。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="映画のようなペンギンの宝探し">
+
+**[🎬 動画を見る →](https://x.com/MrDasOnX/status/2077310416615780646)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2077310416615780646) | **公開日:** Jul 15, 2026
+
+---
+### メンタルヘルスアプリのストップモーションアニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni を使用して 10 秒間のストップモーションアニメーションを作成するための包括的な動画生成プロンプトです。メンタルヘルスの過負荷と AI ヘルパーアプリをテーマにしたストーリーボードに沿って、手作りのカードストック（厚紙）風の質感を表現します。
+
+#### 📝 プロンプト
+
+```
+提供されたストーリーボードのグリッド参照画像に示された一連のイベントをアニメーション化し、10 秒間のシームレスな動画を生成してください。動画は、フレーム 1（メンタルヘルスの過負荷）、フレーム 2（ワンタップでのチェックイン）、フレーム 3（AI ヘルパー）、フレーム 4（ブランディング）の順に進行し、各シーン間をキビキビとしたストップモーションのタイミングでスムーズに遷移させます。スタイルと動きの指示：12 FPS の手作りストップモーション風で、モーションブラーは一切なし。意図的な紙の揺れやレイヤーの再配置が見える、コマ撮り特有のキビキビとした動き。素材：レイヤー状のカードストック、破れた新聞の端、マスキングテープ、ポラロイドフレーム。色：オフホワイトの背景、チャコールブラック、エレクトリックイエローのハイライト、落ち着いたセージグリーン。シーンの順序（0～2.5 秒）：Isla の切り絵の頭が混沌とした紙の山の中に落ちていく様子をマクロで急接近（クラッシュズーム）。「MIND WON'T SLOW DOWN?」というタイポグラフィが単語ごとに表示される。（2.5～5 秒）：きれいなボードが Slides してくる。Isla がポラロイドフレームの中で微笑む。紙の指が紙のスマホをタップし、散らかった紙が花と太陽の光に置き換わる。（5～8 秒）：関節のある Isla の人形が飛び石の上を歩く。AI カードがアコーディオン式に展開し、「Breathe」、「Reflect」、「Reset」と表示される。（8～10 秒）：紙のスマートフォンが中央に叩きつけられ、Feel Fresh の UI が表示される。「FEEL FRESH」のロゴがスタンプのように押され、最後にクラッシュズームで終了する。音声：「Ever feel like your mind just won't slow down? With Feel Fresh, check in with one tap. Let AI help you breathe, reflect, and reset. Feel Fresh feel lighter, every day.」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076895874266046464/img/NksVtycvOSTSh2hj.jpg" width="600" alt="メンタルヘルスアプリのストップモーションアニメーション">
+
+**[🎬 動画を見る →](https://x.com/AItheoryx/status/2076898752347144434)**
+
+**作者:** [AI Theory](https://x.com/AItheoryx) | **ソース:** [Link](https://x.com/AItheoryx/status/2076898752347144434) | **公開日:** Jul 14, 2026
+
+---
 ### ホログラフィック・サイバーパンク・サムライ・アクション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2821,55 +2863,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **公開日:** May 27, 2026
 
 ---
-### Jiggling Souffle Pancake Animation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A video generation prompt that uses a storyboard image to create a 15-second anime-style cooking video of fluffy, jiggling souffle pancakes.
-
-#### 📝 プロンプト
-
-```
-Based on the attached storyboard image, please create a 15-second horizontal 16:9 anime cooking video.
-
-Theme: Extremely thick souffle pancakes that jiggle.
-
-Follow the panel order of the storyboard and turn it into a video as a fast-paced cooking scene.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2976e5e6db0710d64f0dca23783ffea/thumbnails/thumbnail.jpg" width="600" alt="Jiggling Souffle Pancake Animation">
-
-**[🎬 動画を見る →](https://x.com/vermouth_dev/status/2059586948881436906)**
-
-**作者:** [ヴェルモット](https://x.com/vermouth_dev) | **ソース:** [Link](https://x.com/vermouth_dev/status/2059586948881436906) | **公開日:** May 27, 2026
-
----
-### Human Evolution Morphing Documentary
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed 10-second documentary prompt tracking human evolution from early primates to modern humans with seamless morphing and cinematic lighting.
-
-#### 📝 プロンプト
-
-```
-Please create a 10-second vertical (9:16) ultra-realistic live-action documentary video using the attached storyboard image as an accurate visual blueprint. Strictly maintain the storyboard's composition, chronological order, human evolution, and walking direction. No extra shots or changes in sequence. Style: Ultra-realistic movie quality, high-budget documentary feel like BBC Earth or NHK Special, natural light, cinematic depth. Evolution: Transitions should feature seamless morphing of skeleton, face, and clothing while walking. Character: Walk from left to right at a constant speed, maintaining lineage continuity. Camera: Constant side-view tracking. Captions: Minimal documentary-style text in Japanese for each era. Negative: Slow motion, robotic movement, fantasy effects, low resolution.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d1cda4422d959e6819cd9ae408cda9/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Morphing Documentary">
-
-**[🎬 動画を見る →](https://x.com/tanabe_fragm/status/2059544118876152267)**
-
-**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **ソース:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **公開日:** May 27, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 9 さらに多くのプロンプトがあります
+### 🎯 11 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2915,6 +2915,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-15T06:12:28.097Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-15T10:01:04.865Z</sub>
 
 </div>

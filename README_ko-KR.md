@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **109** |
+| 📝 총 프롬프트 수 | **111** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-15** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 영화 같은 펭귄 보물 발견
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 보물 상자 안에서 발견된 아기 펭귄의 긴장감 넘치는 10초 분량 영상을 생성하기 위한 Gemini Omni용 상세 시네마틱 프롬프트입니다. 오디오 및 카메라 지침이 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+10초 분량의 시네마틱 POV 영상. 고요한 숲속의 밤. 손전등 불빛이 지면을 천천히 훑다가 이끼로 덮인 오래된 나무 보물 상자를 발견합니다. 카메라는 긴장감을 조성하며 미세한 핸드헬드 움직임으로 조심스럽게 다가갑니다. 사람의 손이 내려와 상자 잠금을 풀고 뚜껑을 천천히 들어 올립니다. 보물 대신, 작은 검은색 선글라스를 쓴 보송보송한 아기 펭귄이 빛나는 얼음 결정 위에 앉아 있습니다. 펭귄은 카메라를 똑바로 쳐다보며 미소를 짓고, 천천히 한쪽 지느러미를 들어 올려 분명한 👍 엄지척 제스처를 취합니다. 카메라는 펭귄의 사랑스러운 표정을 담기 위해 클로즈업으로 다가갑니다.\n\n오디오: 접근하는 동안 멀리서 들리는 귀뚜라미 소리와 부드럽고 긴장감 넘치는 음악이 깔린 고요한 숲의 분위기. 상자가 열리는 순간 음악은 경쾌하고 희망찬 곡으로 바뀝니다. 자연스러운 성인 남성의 목소리가 펭귄의 엄지척 제스처에 맞춰 "와, 놀라워!"라고 열정적으로 말합니다. 펭귄은 즉시 귀여운 짹짹거리는 소리로 화답합니다.\n\n초현실적, 영화 같은 조명, 매우 상세한 깃털, 표현력이 풍부한 눈, 사실적인 물리 효과, 자연스러운 애니메이션, 부드러운 핸드헬드 카메라 움직임, 얕은 피사계 심도, 사실적인 사진 느낌, 자막 없음, 텍스트 없음, 워터마크 없음.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="영화 같은 펭귄 보물 발견">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2077310416615780646)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2077310416615780646) | **게시일:** Jul 15, 2026
+
+---
+### 스톱모션 정신 건강 앱 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni를 사용하여 10초 분량의 스톱모션 애니메이션을 제작하기 위한 종합적인 영상 생성 프롬프트입니다. 정신적 과부하와 AI 도우미 앱에 관한 스토리보드 시퀀스를 따르며, 수작업 카드스톡 느낌의 미학을 특징으로 합니다.
+
+#### 📝 프롬프트
+
+```
+제공된 스토리보드 그리드 참조 이미지에 나타난 일련의 사건들을 애니메이션화하는 10초 분량의 매끄러운 영상을 생성하세요. 영상은 프레임 1(정신적 과부하), 프레임 2(원탭 체크인), 프레임 3(AI 도우미), 프레임 4(브랜딩) 순으로 진행되어야 하며, 각 장면 사이는 경쾌한 스톱모션 타이밍으로 부드럽게 전환되어야 합니다. 스타일 및 모션 지침: 12 FPS의 수작업 스톱모션 미학, 모션 블러 없음. 의도적인 종이 떨림과 눈에 보이는 레이어 재배치가 포함된 프레임 단위의 경쾌한 움직임. 재료: 레이어드 카드스톡, 찢어진 신문지 가장자리, 마스킹 테이프, 폴라로이드 프레임. 색상: 오프 화이트 배경, 차콜 블랙, 일렉트릭 옐로우 하이라이트, 차분한 세이지 그린. 장면 시퀀스 (0-2.5초): Isla의 종이 인형 머리가 혼란스러운 종이 더미 속으로 떨어지는 매크로 크래시 줌. "MIND WON'T SLOW DOWN?" 타이포그래피가 단어별로 나타남. (2.5-5초): 깔끔한 보드가 Slides 되어 들어옴. Isla가 폴라로이드 프레임 안에서 미소 지음. 종이 손가락이 종이 스마트폰을 탭하여 종이 꽃과 햇살로 혼란을 대체함. (5-8초): 관절이 있는 Isla 인형이 징검다리를 건너감. AI 카드가 아코디언 스타일로 펼쳐짐: "Breathe", "Reflect", "Reset". (8-10초): 종이 스마트폰이 중앙에 탁 놓이며 Feel Fresh UI가 나타남. "FEEL FRESH" 로고가 마지막 크래시 줌과 함께 도장처럼 찍힘. 오디오: "Ever feel like your mind just won't slow down? With Feel Fresh, check in with one tap. Let AI help you breathe, reflect, and reset. Feel Fresh feel lighter, every day."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076895874266046464/img/NksVtycvOSTSh2hj.jpg" width="600" alt="스톱모션 정신 건강 앱 애니메이션">
+
+**[🎬 비디오 보기 →](https://x.com/AItheoryx/status/2076898752347144434)**
+
+**작성자:** [AI Theory](https://x.com/AItheoryx) | **출처:** [Link](https://x.com/AItheoryx/status/2076898752347144434) | **게시일:** Jul 14, 2026
+
+---
 ### 홀로그램 사이버펑크 사무라이 액션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2823,55 +2861,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **게시일:** May 27, 2026
 
 ---
-### Jiggling Souffle Pancake Animation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A video generation prompt that uses a storyboard image to create a 15-second anime-style cooking video of fluffy, jiggling souffle pancakes.
-
-#### 📝 프롬프트
-
-```
-Based on the attached storyboard image, please create a 15-second horizontal 16:9 anime cooking video.
-
-Theme: Extremely thick souffle pancakes that jiggle.
-
-Follow the panel order of the storyboard and turn it into a video as a fast-paced cooking scene.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2976e5e6db0710d64f0dca23783ffea/thumbnails/thumbnail.jpg" width="600" alt="Jiggling Souffle Pancake Animation">
-
-**[🎬 비디오 보기 →](https://x.com/vermouth_dev/status/2059586948881436906)**
-
-**작성자:** [ヴェルモット](https://x.com/vermouth_dev) | **출처:** [Link](https://x.com/vermouth_dev/status/2059586948881436906) | **게시일:** May 27, 2026
-
----
-### Human Evolution Morphing Documentary
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed 10-second documentary prompt tracking human evolution from early primates to modern humans with seamless morphing and cinematic lighting.
-
-#### 📝 프롬프트
-
-```
-Please create a 10-second vertical (9:16) ultra-realistic live-action documentary video using the attached storyboard image as an accurate visual blueprint. Strictly maintain the storyboard's composition, chronological order, human evolution, and walking direction. No extra shots or changes in sequence. Style: Ultra-realistic movie quality, high-budget documentary feel like BBC Earth or NHK Special, natural light, cinematic depth. Evolution: Transitions should feature seamless morphing of skeleton, face, and clothing while walking. Character: Walk from left to right at a constant speed, maintaining lineage continuity. Camera: Constant side-view tracking. Captions: Minimal documentary-style text in Japanese for each era. Negative: Slow motion, robotic movement, fantasy effects, low resolution.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d1cda4422d959e6819cd9ae408cda9/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Morphing Documentary">
-
-**[🎬 비디오 보기 →](https://x.com/tanabe_fragm/status/2059544118876152267)**
-
-**작성자:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **출처:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **게시일:** May 27, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 9 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 11 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2917,6 +2913,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-15T06:12:28.992Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-15T10:01:05.890Z</sub>
 
 </div>

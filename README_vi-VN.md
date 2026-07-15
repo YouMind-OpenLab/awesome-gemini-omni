@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **109** |
+| 📝 Tổng số prompt | **111** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-15** |
 
@@ -56,6 +56,48 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Khám phá kho báu chim cánh cụt đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết dành cho Gemini Omni giúp tạo ra video 10 giây đầy kịch tính về một chú chim cánh cụt con được tìm thấy bên trong rương kho báu, bao gồm cả hướng dẫn về âm thanh và góc máy.
+
+#### 📝 Prompt
+
+```
+Video POV đậm chất điện ảnh dài 10 giây. Ban đêm trong một khu rừng yên tĩnh. Chùm đèn pin quét chậm trên mặt đất cho đến khi phát hiện ra một chiếc rương kho báu bằng gỗ cũ kỹ phủ đầy rêu. Máy quay cẩn thận tiến lại gần với chuyển động cầm tay tinh tế, tạo cảm giác hồi hộp. Một bàn tay người vươn xuống, mở khóa rương và từ từ nhấc nắp lên. Thay vì kho báu, một chú chim cánh cụt con nhỏ nhắn, bông xù, đeo kính râm đen tí hon đang ngồi bên trong trên những tinh thể băng phát sáng. Chú chim cánh cụt nhìn thẳng vào máy quay, mỉm cười và từ từ giơ một chiếc vây lên để thực hiện cử chỉ giơ ngón tay cái 👍 rõ ràng. Máy quay tiến sát vào để cận cảnh biểu cảm đáng yêu đó.
+
+Âm thanh: Không gian rừng yên tĩnh với tiếng dế kêu xa xa và nhạc nền hồi hộp nhẹ nhàng trong lúc tiến lại gần. Ngay khoảnh khắc chiếc rương mở ra, âm nhạc chuyển sang giai điệu vui tươi, phấn khởi. Giọng nam trưởng thành tự nhiên hào hứng nói: "Wow, tuyệt vời!" đồng bộ hoàn hảo với cử chỉ giơ ngón tay cái của chú chim cánh cụt. Chú chim cánh cụt ngay lập tức đáp lại bằng một tiếng kêu chiêm chiếp dễ thương.
+
+Siêu thực, ánh sáng điện ảnh, lông vũ chi tiết cao, đôi mắt biểu cảm, vật lý chân thực, hoạt ảnh tự nhiên, chuyển động máy quay cầm tay mượt mà, độ sâu trường ảnh nông, chân thực như ảnh chụp, không phụ đề, không văn bản, không hình mờ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="Khám phá kho báu chim cánh cụt đậm chất điện ảnh">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2077310416615780646)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2077310416615780646) | **Đã xuất bản:** Jul 15, 2026
+
+---
+### Hoạt hình Stop-motion về ứng dụng sức khỏe tinh thần
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video toàn diện để tạo hoạt hình stop-motion dài 10 giây bằng Gemini Omni. Nội dung tuân theo trình tự kịch bản phân cảnh về tình trạng quá tải tinh thần và một ứng dụng hỗ trợ AI, với phong cách thẩm mỹ từ giấy bìa thủ công.
+
+#### 📝 Prompt
+
+```
+Tạo một video liền mạch dài 10 giây mô phỏng trình tự các sự kiện được hiển thị trong hình ảnh tham chiếu lưới phân cảnh được cung cấp. Video cần đi qua Khung 1 (quá tải tinh thần), Khung 2 (kiểm tra nhanh chỉ với một lần chạm), Khung 3 (trợ lý AI) và Khung 4 (thương hiệu), chuyển cảnh mượt mà giữa các phân đoạn với nhịp điệu stop-motion dứt khoát. CHỈ DẪN PHONG CÁCH & CHUYỂN ĐỘNG Thẩm mỹ stop-motion thủ công ở tốc độ 12 FPS, không bị nhòe chuyển động. Chuyển động từng khung hình dứt khoát với độ rung của giấy có chủ đích và các lớp giấy được định vị rõ ràng. Chất liệu: Giấy bìa nhiều lớp, mép báo xé, băng dính giấy và khung ảnh Polaroid. Màu sắc: Nền trắng ngà, đen than, điểm nhấn vàng điện và xanh lá xám dịu. TRÌNH TỰ CẢNH (0-2,5 giây) Zoom cận cảnh vào đầu nhân vật Isla cắt từ giấy rơi vào đống giấy hỗn độn. Dòng chữ "MIND WON'T SLOW DOWN?" xuất hiện từng từ một. (2,5-5 giây) Một tấm bảng sạch sẽ trượt vào. Isla mỉm cười từ khung ảnh Polaroid. Một ngón tay bằng giấy chạm vào điện thoại giấy, thay thế sự hỗn độn bằng hoa giấy và ánh nắng. (5-8 giây) Con rối Isla có khớp nối bước đi trên những viên đá. Các thẻ AI mở ra theo kiểu đàn xếp: "Breathe", "Reflect", "Reset". (8-10 giây) Một chiếc điện thoại thông minh bằng giấy đập vào trung tâm hiển thị giao diện người dùng Feel Fresh. Logo "FEEL FRESH" đóng dấu xuống với cú zoom cận cảnh cuối cùng. ÂM THANH "Bạn đã bao giờ cảm thấy tâm trí mình không thể chậm lại? Với Feel Fresh, hãy kiểm tra trạng thái chỉ với một lần chạm. Hãy để AI giúp bạn hít thở, suy ngẫm và thiết lập lại. Feel Fresh để cảm thấy nhẹ nhàng hơn mỗi ngày."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076895874266046464/img/NksVtycvOSTSh2hj.jpg" width="600" alt="Hoạt hình Stop-motion về ứng dụng sức khỏe tinh thần">
+
+**[🎬 Xem video →](https://x.com/AItheoryx/status/2076898752347144434)**
+
+**Tác giả:** [AI Theory](https://x.com/AItheoryx) | **Nguồn:** [Link](https://x.com/AItheoryx/status/2076898752347144434) | **Đã xuất bản:** Jul 14, 2026
+
+---
 ### Hành động Samurai Cyberpunk toàn ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2825,55 +2867,13 @@ Những ký ức tuổi thơ rực rỡ trong mưa
 **Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **Đã xuất bản:** May 27, 2026
 
 ---
-### Jiggling Souffle Pancake Animation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A video generation prompt that uses a storyboard image to create a 15-second anime-style cooking video of fluffy, jiggling souffle pancakes.
-
-#### 📝 Prompt
-
-```
-Based on the attached storyboard image, please create a 15-second horizontal 16:9 anime cooking video.
-
-Theme: Extremely thick souffle pancakes that jiggle.
-
-Follow the panel order of the storyboard and turn it into a video as a fast-paced cooking scene.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2976e5e6db0710d64f0dca23783ffea/thumbnails/thumbnail.jpg" width="600" alt="Jiggling Souffle Pancake Animation">
-
-**[🎬 Xem video →](https://x.com/vermouth_dev/status/2059586948881436906)**
-
-**Tác giả:** [ヴェルモット](https://x.com/vermouth_dev) | **Nguồn:** [Link](https://x.com/vermouth_dev/status/2059586948881436906) | **Đã xuất bản:** May 27, 2026
-
----
-### Human Evolution Morphing Documentary
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed 10-second documentary prompt tracking human evolution from early primates to modern humans with seamless morphing and cinematic lighting.
-
-#### 📝 Prompt
-
-```
-Please create a 10-second vertical (9:16) ultra-realistic live-action documentary video using the attached storyboard image as an accurate visual blueprint. Strictly maintain the storyboard's composition, chronological order, human evolution, and walking direction. No extra shots or changes in sequence. Style: Ultra-realistic movie quality, high-budget documentary feel like BBC Earth or NHK Special, natural light, cinematic depth. Evolution: Transitions should feature seamless morphing of skeleton, face, and clothing while walking. Character: Walk from left to right at a constant speed, maintaining lineage continuity. Camera: Constant side-view tracking. Captions: Minimal documentary-style text in Japanese for each era. Negative: Slow motion, robotic movement, fantasy effects, low resolution.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d1cda4422d959e6819cd9ae408cda9/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Morphing Documentary">
-
-**[🎬 Xem video →](https://x.com/tanabe_fragm/status/2059544118876152267)**
-
-**Tác giả:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **Đã xuất bản:** May 27, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 9 prompt khác không hiển thị ở đây
+### 🎯 11 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2919,6 +2919,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-15T06:12:30.647Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-15T10:01:07.890Z</sub>
 
 </div>

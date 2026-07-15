@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **109** |
+| 📝 พรอมต์ทั้งหมด | **111** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-07-15** |
 
@@ -56,6 +56,44 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### การค้นพบสมบัติของเพนกวินในรูปแบบภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พร้อมท์แบบละเอียดสำหรับ Gemini Omni เพื่อสร้างวิดีโอความยาว 10 วินาทีที่เต็มไปด้วยความระทึกขวัญ ของลูกเพนกวินที่ถูกพบในหีบสมบัติ พร้อมคำแนะนำด้านเสียงและมุมกล้อง
+
+#### 📝 พรอมต์
+
+```
+วิดีโอแบบ POV สไตล์ภาพยนตร์ความยาว 10 วินาที ช่วงเวลากลางคืนในป่าที่เงียบสงัด ลำแสงจากไฟฉายค่อยๆ กวาดไปตามพื้นจนกระทั่งพบหีบสมบัติไม้เก่าแก่ที่ปกคลุมไปด้วยมอส กล้องค่อยๆ เคลื่อนเข้าไปใกล้ด้วยการสั่นไหวแบบถือกล้องด้วยมือเล็กน้อยเพื่อสร้างความระทึกขวัญ มือของมนุษย์เอื้อมลงไป ปลดล็อกหีบ และค่อยๆ เปิดฝาออก แทนที่จะเป็นสมบัติ กลับมีลูกเพนกวินตัวจิ๋วขนฟูสวมแว่นกันแดดสีดำขนาดเล็กนั่งอยู่ข้างในบนผลึกน้ำแข็งที่ส่องแสง เพนกวินมองตรงมาที่กล้อง ยิ้ม และค่อยๆ ยกครีบข้างหนึ่งขึ้นเพื่อทำท่า 👍 ยกนิ้วโป้งอย่างชัดเจน กล้องซูมเข้าไปใกล้เพื่อเก็บสีหน้าอันน่ารักนั้น\n\nเสียง: บรรยากาศป่าที่เงียบสงบพร้อมเสียงจิ้งหรีดจากที่ไกลๆ และดนตรีแนวระทึกขวัญเบาๆ ในช่วงที่เดินเข้าไป ทันทีที่หีบเปิดออก ดนตรีจะเปลี่ยนเป็นท่วงทำนองที่ร่าเริงและสดใส มีเสียงผู้ชายวัยผู้ใหญ่ที่เป็นธรรมชาติพูดอย่างกระตือรือร้นว่า "ว้าว ยอดเยี่ยมไปเลย!" ซึ่งตรงจังหวะกับการที่เพนกวินยกนิ้วโป้งพอดี เพนกวินตอบสนองทันทีด้วยเสียงร้องจิ๊บๆ อันน่ารัก\n\nสมจริงเป็นพิเศษ, แสงสไตล์ภาพยนตร์, ขนที่มีรายละเอียดสูง, ดวงตาที่แสดงอารมณ์, ฟิสิกส์ที่สมจริง, แอนิเมชันที่เป็นธรรมชาติ, การเคลื่อนไหวของกล้องแบบถือด้วยมือที่นุ่มนวล, ระยะชัดลึกตื้น, ภาพถ่ายสมจริง, ไม่มีคำบรรยาย, ไม่มีข้อความ, ไม่มีลายน้ำ
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="การค้นพบสมบัติของเพนกวินในรูปแบบภาพยนตร์">
+
+**[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2077310416615780646)**
+
+**ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2077310416615780646) | **เผยแพร่เมื่อ:** Jul 15, 2026
+
+---
+### แอนิเมชันสตอปโมชันสำหรับแอปดูแลสุขภาพจิต
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ชุดคำสั่ง (Prompt) สำหรับสร้างวิดีโอสตอปโมชันความยาว 10 วินาทีโดยใช้ Gemini Omni โดยอ้างอิงจากสตอรีบอร์ดเกี่ยวกับภาวะจิตใจที่ว้าวุ่นและแอปผู้ช่วย AI ในสไตล์งานประดิษฐ์จากกระดาษการ์ด
+
+#### 📝 พรอมต์
+
+```
+สร้างวิดีโอแบบไร้รอยต่อความยาว 10 วินาที โดยทำแอนิเมชันตามลำดับเหตุการณ์ที่แสดงในภาพอ้างอิงตารางสตอรีบอร์ดที่ให้มา วิดีโอควรดำเนินเรื่องผ่านเฟรมที่ 1 (ภาวะจิตใจว้าวุ่น), เฟรมที่ 2 (การเช็กอินด้วยการแตะครั้งเดียว), เฟรมที่ 3 (ผู้ช่วย AI), และเฟรมที่ 4 (การสร้างแบรนด์) โดยเปลี่ยนผ่านแต่ละฉากอย่างลื่นไหลด้วยจังหวะสตอปโมชันที่ฉับไว คำสั่งด้านสไตล์และการเคลื่อนไหว: สไตล์สตอปโมชันแบบงานทำมือที่ 12 FPS โดยไม่มีภาพเบลอ การเคลื่อนไหวแบบเฟรมต่อเฟรมที่ฉับไวพร้อมความตั้งใจให้กระดาษสั่นไหวและเห็นรอยการขยับเลเยอร์ วัสดุ: กระดาษการ์ดแบบซ้อนชั้น, ขอบหนังสือพิมพ์ที่ฉีกขาด, เทปกาว และกรอบรูปโพลารอยด์ สี: พื้นหลังสีขาวออฟไวท์, สีดำถ่าน, ไฮไลต์สีเหลืองไฟฟ้า และสีเขียวเซจหม่น ลำดับฉาก: (0-2.5 วินาที) ซูมเข้าแบบมาโครไปที่หัวกระดาษคัตเอาต์ของ Isla ที่ร่วงลงสู่กองกระดาษที่วุ่นวาย ตัวอักษร "MIND WON'T SLOW DOWN?" ปรากฏขึ้นทีละคำ (2.5-5 วินาที) แผ่นกระดาษสะอาดตา Slides เข้ามา Isla ยิ้มออกมาจากกรอบโพลารอยด์ นิ้วกระดาษแตะที่โทรศัพท์กระดาษ แทนที่ความวุ่นวายด้วยดอกไม้กระดาษและแสงแดด (5-8 วินาที) หุ่นกระดาษ Isla เดินข้ามก้อนหิน การ์ด AI คลี่ออกเหมือนหีบเพลง: "Breathe", "Reflect", "Reset" (8-10 วินาที) สมาร์ทโฟนกระดาษตบลงมาตรงกลางเผยให้เห็น UI ของ Feel Fresh โลโก้ "FEEL FRESH" ประทับลงมาพร้อมการซูมเข้าแบบฉับไวในตอนจบ เสียง: "เคยรู้สึกไหมว่าจิตใจของคุณไม่ยอมหยุดพัก? ด้วย Feel Fresh คุณสามารถเช็กอินได้ด้วยการแตะเพียงครั้งเดียว ให้ AI ช่วยคุณหายใจ ทบทวน และรีเซ็ต รู้สึกเบาสบายขึ้นได้ทุกวันกับ Feel Fresh"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076895874266046464/img/NksVtycvOSTSh2hj.jpg" width="600" alt="แอนิเมชันสตอปโมชันสำหรับแอปดูแลสุขภาพจิต">
+
+**[🎬 ดูวิดีโอ →](https://x.com/AItheoryx/status/2076898752347144434)**
+
+**ผู้เขียน:** [AI Theory](https://x.com/AItheoryx) | **แหล่งที่มา:** [Link](https://x.com/AItheoryx/status/2076898752347144434) | **เผยแพร่เมื่อ:** Jul 14, 2026
+
+---
 ### แอ็กชันซามูไรไซเบอร์พังก์โฮโลแกรม
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2807,55 +2845,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **เผยแพร่เมื่อ:** May 27, 2026
 
 ---
-### Jiggling Souffle Pancake Animation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A video generation prompt that uses a storyboard image to create a 15-second anime-style cooking video of fluffy, jiggling souffle pancakes.
-
-#### 📝 พรอมต์
-
-```
-Based on the attached storyboard image, please create a 15-second horizontal 16:9 anime cooking video.
-
-Theme: Extremely thick souffle pancakes that jiggle.
-
-Follow the panel order of the storyboard and turn it into a video as a fast-paced cooking scene.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2976e5e6db0710d64f0dca23783ffea/thumbnails/thumbnail.jpg" width="600" alt="Jiggling Souffle Pancake Animation">
-
-**[🎬 ดูวิดีโอ →](https://x.com/vermouth_dev/status/2059586948881436906)**
-
-**ผู้เขียน:** [ヴェルモット](https://x.com/vermouth_dev) | **แหล่งที่มา:** [Link](https://x.com/vermouth_dev/status/2059586948881436906) | **เผยแพร่เมื่อ:** May 27, 2026
-
----
-### Human Evolution Morphing Documentary
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed 10-second documentary prompt tracking human evolution from early primates to modern humans with seamless morphing and cinematic lighting.
-
-#### 📝 พรอมต์
-
-```
-Please create a 10-second vertical (9:16) ultra-realistic live-action documentary video using the attached storyboard image as an accurate visual blueprint. Strictly maintain the storyboard's composition, chronological order, human evolution, and walking direction. No extra shots or changes in sequence. Style: Ultra-realistic movie quality, high-budget documentary feel like BBC Earth or NHK Special, natural light, cinematic depth. Evolution: Transitions should feature seamless morphing of skeleton, face, and clothing while walking. Character: Walk from left to right at a constant speed, maintaining lineage continuity. Camera: Constant side-view tracking. Captions: Minimal documentary-style text in Japanese for each era. Negative: Slow motion, robotic movement, fantasy effects, low resolution.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d1cda4422d959e6819cd9ae408cda9/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Morphing Documentary">
-
-**[🎬 ดูวิดีโอ →](https://x.com/tanabe_fragm/status/2059544118876152267)**
-
-**ผู้เขียน:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **แหล่งที่มา:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **เผยแพร่เมื่อ:** May 27, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 9 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 11 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2901,6 +2897,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-15T06:12:29.725Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-15T10:01:06.877Z</sub>
 
 </div>

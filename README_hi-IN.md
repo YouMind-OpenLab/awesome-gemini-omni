@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **109** |
+| 📝 कुल प्रॉम्पट्स | **111** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-07-15** |
 
@@ -56,6 +56,48 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### सिनेमैटिक पेंगुइन ट्रेज़र डिस्कवरी
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni के लिए एक विस्तृत सिनेमैटिक प्रॉम्प्ट, जो खजाने के संदूक में मिले एक नन्हे पेंगुइन का 10-सेकंड का सस्पेंस से भरपूर वीडियो बनाता है, जिसमें ऑडियो और कैमरा निर्देश शामिल हैं।
+
+#### 📝 प्रॉम्पट
+
+```
+10-सेकंड का सिनेमैटिक POV वीडियो। एक शांत जंगल में रात का समय। टॉर्च की रोशनी धीरे-धीरे ज़मीन पर घूमती है जब तक कि उसे काई से ढका एक पुराना लकड़ी का खजाने का संदूक नहीं मिल जाता। कैमरा सावधानी से करीब आता है, जिसमें हल्का हैंडहेल्ड मूवमेंट है, जो सस्पेंस पैदा करता है। एक इंसान का हाथ नीचे पहुँचता है, संदूक का ताला खोलता है और धीरे से ढक्कन उठाता है। खजाने के बजाय, एक छोटा सा रोएंदार बेबी पेंगुइन, जिसने छोटे काले धूप के चश्मे पहने हैं, अंदर चमकते हुए बर्फ के क्रिस्टल पर बैठा है। पेंगुइन सीधे कैमरे में देखता है, मुस्कुराता है और धीरे से अपना एक फ्लिपर उठाकर स्पष्ट रूप से 👍 थम्स-अप का इशारा करता है। कैमरा उस प्यारे भाव के क्लोज़-अप के लिए आगे बढ़ता है।
+
+ऑडियो: शांत जंगल का माहौल, जिसमें दूर झींगुरों की आवाज़ और करीब आते समय हल्का सस्पेंस भरा संगीत है। जैसे ही संदूक खुलता है, संगीत एक खुशमिजाज, उत्साहजनक धुन में बदल जाता है। एक स्वाभाविक पुरुष आवाज़ उत्साह के साथ कहती है, "वाह, अद्भुत!" जो पेंगुइन के थम्स-अप के साथ पूरी तरह से मेल खाती है। पेंगुइन तुरंत एक प्यारी सी चहचहाहट के साथ प्रतिक्रिया देता है।
+
+अल्ट्रा-रियलिस्टिक, सिनेमैटिक लाइटिंग, अत्यधिक विस्तृत पंख, अभिव्यंजक आँखें, यथार्थवादी भौतिकी, प्राकृतिक एनीमेशन, स्मूथ हैंडहेल्ड कैमरा मूवमेंट, उथला डेप्थ ऑफ फील्ड, फोटो-रियलिस्टिक, कोई सबटाइटल नहीं, कोई टेक्स्ट नहीं, कोई वॉटरमार्क नहीं।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="सिनेमैटिक पेंगुइन ट्रेज़र डिस्कवरी">
+
+**[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2077310416615780646)**
+
+**लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2077310416615780646) | **प्रकाशित:** Jul 15, 2026
+
+---
+### स्टॉप-मोशन मेंटल हेल्थ ऐप एनिमेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni का उपयोग करके 10-सेकंड का स्टॉप-मोशन एनिमेशन बनाने के लिए एक व्यापक वीडियो जनरेशन प्रॉम्प्ट। यह मानसिक तनाव और एक AI हेल्पर ऐप के बारे में स्टोरीबोर्ड अनुक्रम का पालन करता है, जिसमें हस्तनिर्मित कार्डस्टॉक एस्थेटिक का उपयोग किया गया है।
+
+#### 📝 प्रॉम्पट
+
+```
+दिए गए स्टोरीबोर्ड ग्रिड संदर्भ छवि में दिखाए गए घटनाओं के अनुक्रम को एनिमेट करते हुए एक एकल, निर्बाध 10-सेकंड का वीडियो जनरेट करें। वीडियो को फ्रेम 1 (मानसिक तनाव), फ्रेम 2 (वन-टैप चेक-इन), फ्रेम 3 (AI हेल्पर), और फ्रेम 4 (ब्रांडिंग) के माध्यम से आगे बढ़ना चाहिए, जो प्रत्येक दृश्य के बीच स्नैपी स्टॉप-मोशन टाइमिंग के साथ सहजता से परिवर्तित हो। स्टाइल और मोशन निर्देश: 12 FPS पर हस्तनिर्मित स्टॉप-मोशन एस्थेटिक, जिसमें मोशन ब्लर बिल्कुल न हो। जानबूझकर पेपर जिटर और दृश्यमान लेयर रिपोजिशनिंग के साथ स्नैपी फ्रेम-बाय-फ्रेम मूवमेंट। सामग्री: लेयर्ड कार्डस्टॉक, फटे हुए अखबार के किनारे, मास्किंग टेप, और पोलरॉइड फ्रेम। रंग: ऑफ-व्हाइट बैकग्राउंड, चारकोल ब्लैक, इलेक्ट्रिक येलो हाइलाइट्स, और म्यूटेड सेज ग्रीन। दृश्य अनुक्रम (0-2.5s) आइला (Isla) के पेपर-कटआउट सिर का मैक्रो क्रैश ज़ूम, जो अराजक कागज़ के ढेर में गिरता है। टाइपोग्राफी "MIND WON'T SLOW DOWN?" शब्द-दर-शब्द दिखाई देती है। (2.5-5s) एक साफ बोर्ड Slides इन करता है। आइला एक पोलरॉइड फ्रेम से मुस्कुराती है। एक कागज़ की उंगली कागज़ के फोन को टैप करती है, जिससे अव्यवस्था कागज़ के फूलों और धूप से बदल जाती है। (5-8s) आर्टिकुलेटेड आइला कठपुतली स्टेपिंग स्टोन्स पर चलती है। AI कार्ड्स अकॉर्डियन-स्टाइल में खुलते हैं: "Breathe", "Reflect", "Reset"। (8-10s) एक कागज़ का स्मार्टफोन केंद्र में आता है जो Feel Fresh UI दिखाता है। "FEEL FRESH" लोगो अंतिम क्रैश ज़ूम के साथ स्टैम्प होता है। ऑडियो "क्या कभी ऐसा लगता है कि आपका दिमाग शांत नहीं हो रहा है? Feel Fresh के साथ, एक टैप में चेक-इन करें। AI को सांस लेने, चिंतन करने और रीसेट करने में अपनी मदद करने दें। Feel Fresh, हर दिन हल्का महसूस करें।"
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076895874266046464/img/NksVtycvOSTSh2hj.jpg" width="600" alt="स्टॉप-मोशन मेंटल हेल्थ ऐप एनिमेशन">
+
+**[🎬 वीडियो देखें →](https://x.com/AItheoryx/status/2076898752347144434)**
+
+**लेखक:** [AI Theory](https://x.com/AItheoryx) | **स्रोत:** [Link](https://x.com/AItheoryx/status/2076898752347144434) | **प्रकाशित:** Jul 14, 2026
+
+---
 ### होलोग्राफिक साइबरपंक समुराई एक्शन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2825,55 +2867,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **प्रकाशित:** May 27, 2026
 
 ---
-### Jiggling Souffle Pancake Animation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A video generation prompt that uses a storyboard image to create a 15-second anime-style cooking video of fluffy, jiggling souffle pancakes.
-
-#### 📝 प्रॉम्पट
-
-```
-Based on the attached storyboard image, please create a 15-second horizontal 16:9 anime cooking video.
-
-Theme: Extremely thick souffle pancakes that jiggle.
-
-Follow the panel order of the storyboard and turn it into a video as a fast-paced cooking scene.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2976e5e6db0710d64f0dca23783ffea/thumbnails/thumbnail.jpg" width="600" alt="Jiggling Souffle Pancake Animation">
-
-**[🎬 वीडियो देखें →](https://x.com/vermouth_dev/status/2059586948881436906)**
-
-**लेखक:** [ヴェルモット](https://x.com/vermouth_dev) | **स्रोत:** [Link](https://x.com/vermouth_dev/status/2059586948881436906) | **प्रकाशित:** May 27, 2026
-
----
-### Human Evolution Morphing Documentary
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed 10-second documentary prompt tracking human evolution from early primates to modern humans with seamless morphing and cinematic lighting.
-
-#### 📝 प्रॉम्पट
-
-```
-Please create a 10-second vertical (9:16) ultra-realistic live-action documentary video using the attached storyboard image as an accurate visual blueprint. Strictly maintain the storyboard's composition, chronological order, human evolution, and walking direction. No extra shots or changes in sequence. Style: Ultra-realistic movie quality, high-budget documentary feel like BBC Earth or NHK Special, natural light, cinematic depth. Evolution: Transitions should feature seamless morphing of skeleton, face, and clothing while walking. Character: Walk from left to right at a constant speed, maintaining lineage continuity. Camera: Constant side-view tracking. Captions: Minimal documentary-style text in Japanese for each era. Negative: Slow motion, robotic movement, fantasy effects, low resolution.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d1cda4422d959e6819cd9ae408cda9/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Morphing Documentary">
-
-**[🎬 वीडियो देखें →](https://x.com/tanabe_fragm/status/2059544118876152267)**
-
-**लेखक:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **स्रोत:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **प्रकाशित:** May 27, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 9 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 11 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2919,6 +2919,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-07-15T06:12:31.499Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-07-15T10:01:08.639Z</sub>
 
 </div>

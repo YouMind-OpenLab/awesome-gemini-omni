@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **109** |
+| 📝 Total Prompts | **111** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-15** |
 
@@ -56,6 +56,44 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Penguin Treasure Discovery
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for Gemini Omni that creates a suspenseful 10-second video of a baby penguin found inside a treasure chest, including audio and camera instructions.
+
+#### 📝 Prompt
+
+```
+10-second cinematic POV video. Nighttime in a quiet forest. A flashlight beam slowly sweeps across the ground until it discovers an old wooden treasure chest covered in moss. The camera carefully walks closer with subtle handheld movement, creating suspense. A human hand reaches down, unlocks the chest, and slowly lifts the lid. Instead of treasure, a tiny fluffy baby penguin wearing miniature black sunglasses is sitting inside on glowing ice crystals. The penguin looks directly into the camera, smiles, and slowly raises one flipper to give a clear 👍 thumbs-up gesture. The camera pushes in for a close-up of the adorable expression.\n\nAudio: Quiet forest ambience with distant crickets and soft suspenseful music during the approach. The instant the chest opens, the music changes to a cheerful, uplifting tune. A natural adult male voice enthusiastically says, "Wow, wonderful!" perfectly synchronized with the penguin's thumbs-up. The penguin immediately responds with a cute chirping sound.\n\nUltra-realistic, cinematic lighting, highly detailed feathers, expressive eyes, realistic physics, natural animation, smooth handheld camera movement, shallow depth of field, photorealistic, no subtitles, no text, no watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="Cinematic Penguin Treasure Discovery">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2077310416615780646)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2077310416615780646) | **Published:** Jul 15, 2026
+
+---
+### Stop-motion Mental Health App Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video generation prompt for creating a 10-second stop-motion animation using Gemini Omni. It follows a storyboard sequence about mental overwhelm and an AI helper app, featuring a handcrafted cardstock aesthetic.
+
+#### 📝 Prompt
+
+```
+Generate a single, seamless 10-second video that animates the sequence of events shown in the provided storyboard grid reference image. The video should progress through Frame 1 (mental overwhelm), Frame 2 (one-tap check-in), Frame 3 (AI helper), and Frame 4 (branding), transitioning smoothly between each scene with snappy stop-motion timing. STYLE & MOTION DIRECTIVES Handcrafted stop-motion aesthetic at 12 FPS with zero motion blur. Snappy frame-by-frame movement with intentional paper jitter and visible layer repositioning. Materials: Layered cardstock, torn newspaper edges, masking tape, and Polaroid frames. Colors: Off-white background, charcoal black, electric yellow highlights, and muted sage green. SCENE SEQUENCE (0-2.5s) Macro crash zoom into Isla's paper-cutout head dropping into chaotic paper clutter. Typography "MIND WON'T SLOW DOWN?" appears word-by-word. (2.5-5s) A clean board slides in. Isla smiles from a Polaroid frame. A paper finger taps a paper phone, replacing clutter with paper flowers and sunshine. (5-8s) Articulated Isla puppet walks across stepping stones. AI cards unfold accordion-style: "Breathe", "Reflect", "Reset". (8-10s) A paper smartphone slaps into the center showing the Feel Fresh UI. The "FEEL FRESH" logo stamps down with a final crash zoom. AUDIO "Ever feel like your mind just won't slow down? With Feel Fresh, check in with one tap. Let AI help you breathe, reflect, and reset. Feel Fresh feel lighter, every day."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076895874266046464/img/NksVtycvOSTSh2hj.jpg" width="600" alt="Stop-motion Mental Health App Animation">
+
+**[🎬 Watch Video →](https://x.com/AItheoryx/status/2076898752347144434)**
+
+**Author:** [AI Theory](https://x.com/AItheoryx) | **Source:** [Link](https://x.com/AItheoryx/status/2076898752347144434) | **Published:** Jul 14, 2026
+
+---
 ### Holographic Cyberpunk Samurai Action
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2825,55 +2863,13 @@ Glowing childhood memories in rain
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **Published:** May 27, 2026
 
 ---
-### Jiggling Souffle Pancake Animation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A video generation prompt that uses a storyboard image to create a 15-second anime-style cooking video of fluffy, jiggling souffle pancakes.
-
-#### 📝 Prompt
-
-```
-Based on the attached storyboard image, please create a 15-second horizontal 16:9 anime cooking video.
-
-Theme: Extremely thick souffle pancakes that jiggle.
-
-Follow the panel order of the storyboard and turn it into a video as a fast-paced cooking scene.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2976e5e6db0710d64f0dca23783ffea/thumbnails/thumbnail.jpg" width="600" alt="Jiggling Souffle Pancake Animation">
-
-**[🎬 Watch Video →](https://x.com/vermouth_dev/status/2059586948881436906)**
-
-**Author:** [ヴェルモット](https://x.com/vermouth_dev) | **Source:** [Link](https://x.com/vermouth_dev/status/2059586948881436906) | **Published:** May 27, 2026
-
----
-### Human Evolution Morphing Documentary
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed 10-second documentary prompt tracking human evolution from early primates to modern humans with seamless morphing and cinematic lighting.
-
-#### 📝 Prompt
-
-```
-Please create a 10-second vertical (9:16) ultra-realistic live-action documentary video using the attached storyboard image as an accurate visual blueprint. Strictly maintain the storyboard's composition, chronological order, human evolution, and walking direction. No extra shots or changes in sequence. Style: Ultra-realistic movie quality, high-budget documentary feel like BBC Earth or NHK Special, natural light, cinematic depth. Evolution: Transitions should feature seamless morphing of skeleton, face, and clothing while walking. Character: Walk from left to right at a constant speed, maintaining lineage continuity. Camera: Constant side-view tracking. Captions: Minimal documentary-style text in Japanese for each era. Negative: Slow motion, robotic movement, fantasy effects, low resolution.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d1cda4422d959e6819cd9ae408cda9/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Morphing Documentary">
-
-**[🎬 Watch Video →](https://x.com/tanabe_fragm/status/2059544118876152267)**
-
-**Author:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **Published:** May 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 9 more prompts not shown here
+### 🎯 11 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2919,6 +2915,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T06:12:25.451Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-15T10:01:02.019Z</sub>
 
 </div>

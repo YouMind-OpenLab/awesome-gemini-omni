@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **109** |
+| 📝 Total des prompts | **111** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-07-15** |
 
@@ -56,6 +56,48 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Découverte cinématographique d'un trésor de manchot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique détaillé pour Gemini Omni permettant de créer une vidéo pleine de suspense de 10 secondes montrant un bébé manchot découvert dans un coffre au trésor, incluant des instructions audio et de caméra.
+
+#### 📝 Prompt
+
+```
+Vidéo POV cinématographique de 10 secondes. Nuit dans une forêt calme. Le faisceau d'une lampe torche balaie lentement le sol jusqu'à découvrir un vieux coffre au trésor en bois recouvert de mousse. La caméra s'approche prudemment avec un mouvement à l'épaule subtil, créant du suspense. Une main humaine descend, déverrouille le coffre et soulève lentement le couvercle. Au lieu d'un trésor, un minuscule bébé manchot duveteux portant des lunettes de soleil miniatures est assis à l'intérieur sur des cristaux de glace scintillants. Le manchot regarde directement la caméra, sourit et lève lentement une nageoire pour faire un geste clair de pouce levé 👍. La caméra avance pour un gros plan sur son expression adorable.
+
+Audio : Ambiance de forêt calme avec des grillons au loin et une musique douce et pleine de suspense pendant l'approche. Dès l'ouverture du coffre, la musique change pour une mélodie joyeuse et entraînante. Une voix d'homme adulte naturelle dit avec enthousiasme : « Wow, merveilleux ! », parfaitement synchronisée avec le pouce levé du manchot. Le manchot répond immédiatement par un petit gazouillis mignon.
+
+Ultra-réaliste, éclairage cinématographique, plumes très détaillées, yeux expressifs, physique réaliste, animation naturelle, mouvement de caméra à l'épaule fluide, faible profondeur de champ, photoréaliste, sans sous-titres, sans texte, sans filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="Découverte cinématographique d'un trésor de manchot">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2077310416615780646)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2077310416615780646) | **Publié:** Jul 15, 2026
+
+---
+### Animation en stop-motion pour une application de santé mentale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complet de génération vidéo pour créer une animation en stop-motion de 10 secondes avec Gemini Omni. Il suit une séquence de storyboard sur le thème de la surcharge mentale et d'une application d'assistance IA, avec une esthétique en papier cartonné fait main.
+
+#### 📝 Prompt
+
+```
+Générez une vidéo unique et fluide de 10 secondes animant la séquence d'événements illustrée dans la grille de storyboard fournie en référence. La vidéo doit progresser à travers le Cadre 1 (surcharge mentale), le Cadre 2 (enregistrement en un clic), le Cadre 3 (assistant IA) et le Cadre 4 (branding), avec des transitions fluides et un rythme de stop-motion dynamique. DIRECTIVES DE STYLE ET DE MOUVEMENT : Esthétique stop-motion faite main à 12 FPS sans aucun flou de mouvement. Mouvement image par image vif avec un léger tremblement intentionnel du papier et un repositionnement visible des couches. Matériaux : Papier cartonné superposé, bords de journaux déchirés, ruban adhésif et cadres Polaroid. Couleurs : Fond blanc cassé, noir charbon, reflets jaune électrique et vert sauge doux. SÉQUENCE DES SCÈNES (0-2,5s) : Zoom macro rapide sur la tête en papier découpé d'Isla tombant dans un chaos de papiers. La typographie « MIND WON'T SLOW DOWN? » apparaît mot par mot. (2,5-5s) : Un panneau propre arrive en glissant. Isla sourit depuis un cadre Polaroid. Un doigt en papier appuie sur un téléphone en papier, remplaçant le chaos par des fleurs en papier et du soleil. (5-8s) : La marionnette articulée d'Isla marche sur des pierres de gué. Des cartes IA se déplient en accordéon : « Breathe », « Reflect », « Reset ». (8-10s) : Un smartphone en papier apparaît au centre affichant l'interface utilisateur de Feel Fresh. Le logo « FEEL FRESH » est apposé avec un zoom final rapide. AUDIO : « Ever feel like your mind just won't slow down? With Feel Fresh, check in with one tap. Let AI help you breathe, reflect, and reset. Feel Fresh feel lighter, every day. »
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2076895874266046464/img/NksVtycvOSTSh2hj.jpg" width="600" alt="Animation en stop-motion pour une application de santé mentale">
+
+**[🎬 Voir la vidéo →](https://x.com/AItheoryx/status/2076898752347144434)**
+
+**Auteur:** [AI Theory](https://x.com/AItheoryx) | **Source:** [Link](https://x.com/AItheoryx/status/2076898752347144434) | **Publié:** Jul 14, 2026
+
+---
 ### Action de samouraï cyberpunk holographique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2825,55 +2867,13 @@ Souvenirs d'enfance lumineux sous la pluie
 **Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **Publié:** May 27, 2026
 
 ---
-### Jiggling Souffle Pancake Animation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A video generation prompt that uses a storyboard image to create a 15-second anime-style cooking video of fluffy, jiggling souffle pancakes.
-
-#### 📝 Prompt
-
-```
-Based on the attached storyboard image, please create a 15-second horizontal 16:9 anime cooking video.
-
-Theme: Extremely thick souffle pancakes that jiggle.
-
-Follow the panel order of the storyboard and turn it into a video as a fast-paced cooking scene.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f2976e5e6db0710d64f0dca23783ffea/thumbnails/thumbnail.jpg" width="600" alt="Jiggling Souffle Pancake Animation">
-
-**[🎬 Voir la vidéo →](https://x.com/vermouth_dev/status/2059586948881436906)**
-
-**Auteur:** [ヴェルモット](https://x.com/vermouth_dev) | **Source:** [Link](https://x.com/vermouth_dev/status/2059586948881436906) | **Publié:** May 27, 2026
-
----
-### Human Evolution Morphing Documentary
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed 10-second documentary prompt tracking human evolution from early primates to modern humans with seamless morphing and cinematic lighting.
-
-#### 📝 Prompt
-
-```
-Please create a 10-second vertical (9:16) ultra-realistic live-action documentary video using the attached storyboard image as an accurate visual blueprint. Strictly maintain the storyboard's composition, chronological order, human evolution, and walking direction. No extra shots or changes in sequence. Style: Ultra-realistic movie quality, high-budget documentary feel like BBC Earth or NHK Special, natural light, cinematic depth. Evolution: Transitions should feature seamless morphing of skeleton, face, and clothing while walking. Character: Walk from left to right at a constant speed, maintaining lineage continuity. Camera: Constant side-view tracking. Captions: Minimal documentary-style text in Japanese for each era. Negative: Slow motion, robotic movement, fantasy effects, low resolution.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/51d1cda4422d959e6819cd9ae408cda9/thumbnails/thumbnail.jpg" width="600" alt="Human Evolution Morphing Documentary">
-
-**[🎬 Voir la vidéo →](https://x.com/tanabe_fragm/status/2059544118876152267)**
-
-**Auteur:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2059544118876152267) | **Publié:** May 27, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 9 prompts supplémentaires non affichés ici
+### 🎯 11 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2919,6 +2919,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-15T06:12:35.146Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-15T10:01:12.021Z</sub>
 
 </div>
