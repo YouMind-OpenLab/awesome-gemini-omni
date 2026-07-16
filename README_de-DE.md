@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **111** |
+| 📝 Gesamtanzahl Prompts | **112** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-16** |
 
@@ -56,6 +56,27 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Chanel Luxushotel Video-Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-zu-Video-Editing-Prompt für Gemini Omni, der eine Szene so anpasst, dass Chanel-Produkte und eine elegante Hotelsuite integriert werden, während das Aussehen der Person beibehalten wird.
+
+#### 📝 Prompt
+
+```
+Verwende Gemini Omni. Lass die Schachtel, die ich öffne, von Chanel sein. Sobald ich sie öffne, sollen sich darin Chanel-Parfüms und einige Lippenstifte befinden.
+
+Ändere den Hintergrund in die elegante, luxuriöse Hotelsuite aus dem Referenzbild. Behalte mein Aussehen unverändert bei.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="Chanel Luxushotel Video-Transformation">
+
+**[🎬 Video ansehen →](https://x.com/ytjessie_/status/2077522462494085236)**
+
+**Autor:** [Jessie_Ma](https://x.com/ytjessie_) | **Quelle:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **Veröffentlicht:** Jul 15, 2026
+
+---
 ### Filmreife Entdeckung eines Pinguin-Schatzes
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2848,32 +2869,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **Autor:** [Shah](https://x.com/ai_with_shah) | **Quelle:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **Veröffentlicht:** May 27, 2026
 
 ---
-### Leuchtende Kindheitserinnerungen im Regen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein poetischer Prompt zur Erstellung eines nostalgischen Videos über Kindheitserinnerungen, die während eines Regenschauers in sanftes Licht getaucht werden.
-
-#### 📝 Prompt
-
-```
-Leuchtende Kindheitserinnerungen im Regen
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="Leuchtende Kindheitserinnerungen im Regen">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2059620519310442844)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **Veröffentlicht:** May 27, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 11 weitere Prompts hier nicht angezeigt
+### 🎯 12 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2919,6 +2921,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-16T06:16:24.554Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-16T10:07:29.313Z</sub>
 
 </div>

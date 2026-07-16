@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **111** |
+| 📝 提示詞總數 | **112** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-07-16** |
 
@@ -56,6 +56,27 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Chanel 奢華飯店影片轉換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個適用於 Gemini Omni 的影片轉影片編輯提示詞，可在保留主體外觀的同時，將場景修改為包含 Chanel 產品與優雅飯店套房。
+
+#### 📝 提示詞
+
+```
+使用 Gemini Omni，讓我正在打開的這個盒子變成 Chanel 的盒子。當我打開它時，裡面要有 Chanel 香水和幾支口紅。
+
+將背景更改為參考圖片中所示的優雅奢華飯店套房。請保持我的外觀不變。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="Chanel 奢華飯店影片轉換">
+
+**[🎬 觀看視頻 →](https://x.com/ytjessie_/status/2077522462494085236)**
+
+**作者:** [Jessie_Ma](https://x.com/ytjessie_) | **來源:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **發布時間:** Jul 15, 2026
+
+---
 ### 電影級企鵝尋寶畫面
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2848,32 +2869,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **作者:** [Shah](https://x.com/ai_with_shah) | **來源:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **發布時間:** May 27, 2026
 
 ---
-### 雨中閃耀的童年回憶
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個充滿詩意的提示詞，用於生成一段懷舊影片，呈現童年回憶在雨中被柔和光芒照亮的場景。
-
-#### 📝 提示詞
-
-```
-雨中閃耀的童年回憶
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="雨中閃耀的童年回憶">
-
-**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2059620519310442844)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **發布時間:** May 27, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 11 更多提示詞未在此顯示
+### 🎯 12 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2919,6 +2921,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-16T06:16:17.953Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-16T10:07:24.777Z</sub>
 
 </div>

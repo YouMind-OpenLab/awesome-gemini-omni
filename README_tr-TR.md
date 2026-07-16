@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **111** |
+| 📝 Toplam İstem | **112** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-16** |
 
@@ -56,6 +56,27 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Chanel Lüks Otel Video Dönüşümü
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni için, öznenin görünümünü korurken sahneyi Chanel ürünlerini ve şık bir otel süitini içerecek şekilde değiştiren bir video-video düzenleme komutu.
+
+#### 📝 İstem
+
+```
+Gemini Omni'yi kullanarak, açtığım bu kutuyu Chanel kutusuna dönüştür; kutuyu açtığımda içinde Chanel parfümleri ve birkaç ruj olsun.
+
+Arka planı referans görselinde gösterilen şık ve lüks otel süitiyle değiştir. Benim görünümümü değiştirmeden koru.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="Chanel Lüks Otel Video Dönüşümü">
+
+**[🎬 Videoyu izle →](https://x.com/ytjessie_/status/2077522462494085236)**
+
+**Yazar:** [Jessie_Ma](https://x.com/ytjessie_) | **Kaynak:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **Yayınlandı:** Jul 15, 2026
+
+---
 ### Sinematik Penguen Hazine Keşfi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2846,32 +2867,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **Yazar:** [Shah](https://x.com/ai_with_shah) | **Kaynak:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **Yayınlandı:** May 27, 2026
 
 ---
-### Yağmur Altında Parlayan Çocukluk Anıları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yağmur yağarken yumuşak bir ışıkla aydınlanan çocukluk anılarına dair nostaljik bir video oluşturmak için şiirsel bir komut.
-
-#### 📝 İstem
-
-```
-Yağmur altında parlayan çocukluk anıları
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="Yağmur Altında Parlayan Çocukluk Anıları">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2059620519310442844)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **Yayınlandı:** May 27, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 11 burada gösterilmeyen daha fazla istem
+### 🎯 12 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2917,6 +2919,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-16T06:16:28.565Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-16T10:07:32.470Z</sub>
 
 </div>

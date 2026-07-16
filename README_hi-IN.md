@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **111** |
+| 📝 कुल प्रॉम्पट्स | **112** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-07-16** |
 
@@ -56,6 +56,27 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Chanel लग्जरी होटल वीडियो ट्रांसफॉर्मेशन
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni के लिए एक वीडियो-टू-वीडियो एडिटिंग प्रॉम्प्ट, जो किसी सीन को Chanel प्रोडक्ट्स और एक शानदार होटल सुइट के साथ मॉडिफाई करता है, जबकि सब्जेक्ट के लुक को बरकरार रखता है।
+
+#### 📝 प्रॉम्पट
+
+```
+Gemini Omni का उपयोग करें, इस बॉक्स को जिसे मैं खोल रहा हूँ उसे Chanel का बना दें, जैसे ही मैं इसे खोलूँ, अंदर Chanel के परफ्यूम और कुछ लिपस्टिक होनी चाहिए।
+
+बैकग्राउंड को रेफरेंस इमेज में दिखाए गए शानदार, लग्जरी होटल सुइट में बदलें। मेरे लुक को वैसा ही रहने दें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="Chanel लग्जरी होटल वीडियो ट्रांसफॉर्मेशन">
+
+**[🎬 वीडियो देखें →](https://x.com/ytjessie_/status/2077522462494085236)**
+
+**लेखक:** [Jessie_Ma](https://x.com/ytjessie_) | **स्रोत:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **प्रकाशित:** Jul 15, 2026
+
+---
 ### सिनेमैटिक पेंगुइन ट्रेज़र डिस्कवरी
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2848,32 +2869,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **लेखक:** [Shah](https://x.com/ai_with_shah) | **स्रोत:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **प्रकाशित:** May 27, 2026
 
 ---
-### बारिश में चमकती बचपन की यादें
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> बारिश के दौरान हल्की रोशनी से जगमगाती बचपन की यादों का एक उदासीन (nostalgic) वीडियो बनाने के लिए एक काव्यात्मक प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-बारिश में चमकती बचपन की यादें
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="बारिश में चमकती बचपन की यादें">
-
-**[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2059620519310442844)**
-
-**लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **प्रकाशित:** May 27, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 11 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 12 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2919,6 +2921,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-07-16T06:16:22.464Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-07-16T10:07:27.359Z</sub>
 
 </div>

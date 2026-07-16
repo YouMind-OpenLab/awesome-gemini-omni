@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **111** |
+| 📝 Total de prompts | **112** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-16** |
 
@@ -56,6 +56,27 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Transformación de video de hotel de lujo de Chanel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de edición de video a video para Gemini Omni que modifica una escena para incluir productos de Chanel y una elegante suite de hotel, manteniendo intacta la apariencia del sujeto.
+
+#### 📝 Prompt
+
+```
+Usa Gemini Omni, haz que esta caja que estoy abriendo sea de Chanel; una vez que la abra, que haya perfumes de Chanel y algunos labiales dentro.
+
+Cambia el fondo por la elegante y lujosa suite de hotel que se muestra en la imagen de referencia. Mantén mi apariencia sin cambios.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="Transformación de video de hotel de lujo de Chanel">
+
+**[🎬 Ver video →](https://x.com/ytjessie_/status/2077522462494085236)**
+
+**Autor:** [Jessie_Ma](https://x.com/ytjessie_) | **Fuente:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **Publicado:** Jul 15, 2026
+
+---
 ### Descubrimiento cinematográfico de un tesoro con un pingüino
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2848,32 +2869,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **Autor:** [Shah](https://x.com/ai_with_shah) | **Fuente:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **Publicado:** May 27, 2026
 
 ---
-### Recuerdos brillantes de la infancia bajo la lluvia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt poético para generar un video nostálgico de recuerdos de la infancia iluminados por un suave resplandor durante una lluvia.
-
-#### 📝 Prompt
-
-```
-Recuerdos brillantes de la infancia bajo la lluvia
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="Recuerdos brillantes de la infancia bajo la lluvia">
-
-**[🎬 Ver video →](https://x.com/MrDasOnX/status/2059620519310442844)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **Publicado:** May 27, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 11 más prompts no mostrados aquí
+### 🎯 12 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2919,6 +2921,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-16T06:16:23.190Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-16T10:07:28.147Z</sub>
 
 </div>

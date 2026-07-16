@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **111** |
+| 📝 พรอมต์ทั้งหมด | **112** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-07-16** |
 
@@ -56,6 +56,27 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### การเปลี่ยนวิดีโอโรงแรมหรูสไตล์ Chanel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> คำสั่ง (Prompt) สำหรับการตัดต่อวิดีโอแบบวิดีโอต่อวิดีโอด้วย Gemini Omni เพื่อปรับเปลี่ยนฉากให้มีผลิตภัณฑ์จาก Chanel และห้องสวีทโรงแรมสุดหรู โดยยังคงรูปลักษณ์ของตัวแบบไว้เหมือนเดิม
+
+#### 📝 พรอมต์
+
+```
+ใช้ gemini omni ช่วยเปลี่ยนกล่องที่ฉันกำลังเปิดอยู่ให้เป็นของ Chanel และเมื่อเปิดออกมา ให้มีน้ำหอมและลิปสติกของ Chanel อยู่ข้างใน
+
+เปลี่ยนพื้นหลังให้เป็นห้องสวีทโรงแรมที่หรูหราและสวยงามตามภาพอ้างอิง โดยยังคงรูปลักษณ์ของฉันไว้เหมือนเดิม
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="การเปลี่ยนวิดีโอโรงแรมหรูสไตล์ Chanel">
+
+**[🎬 ดูวิดีโอ →](https://x.com/ytjessie_/status/2077522462494085236)**
+
+**ผู้เขียน:** [Jessie_Ma](https://x.com/ytjessie_) | **แหล่งที่มา:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **เผยแพร่เมื่อ:** Jul 15, 2026
+
+---
 ### การค้นพบสมบัติของเพนกวินในรูปแบบภาพยนตร์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2826,32 +2847,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **ผู้เขียน:** [Shah](https://x.com/ai_with_shah) | **แหล่งที่มา:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **เผยแพร่เมื่อ:** May 27, 2026
 
 ---
-### ความทรงจำวัยเด็กอันเปล่งประกายท่ามกลางสายฝน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เชิงกวีสำหรับการสร้างวิดีโอที่เต็มไปด้วยความโหยหาถึงอดีตของความทรงจำในวัยเด็ก ที่ถูกฉาบด้วยแสงนวลตาในช่วงเวลาที่ฝนตก
-
-#### 📝 พรอมต์
-
-```
-ความทรงจำวัยเด็กอันเปล่งประกายท่ามกลางสายฝน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="ความทรงจำวัยเด็กอันเปล่งประกายท่ามกลางสายฝน">
-
-**[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2059620519310442844)**
-
-**ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **เผยแพร่เมื่อ:** May 27, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 11 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 12 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2897,6 +2899,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-16T06:16:20.742Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-16T10:07:26.348Z</sub>
 
 </div>

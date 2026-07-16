@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **111** |
+| 📝 Tổng số prompt | **112** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-16** |
 
@@ -56,6 +56,27 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Chuyển đổi video khách sạn sang trọng của Chanel
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh chỉnh sửa video-to-video dành cho Gemini Omni giúp thay đổi cảnh quay để thêm các sản phẩm của Chanel và một phòng khách sạn sang trọng, đồng thời giữ nguyên diện mạo của chủ thể.
+
+#### 📝 Prompt
+
+```
+Sử dụng Gemini Omni, hãy biến chiếc hộp tôi đang mở thành sản phẩm của Chanel. Sau khi tôi mở hộp, bên trong sẽ xuất hiện nước hoa và một vài thỏi son của Chanel. 
+
+Thay đổi phông nền thành phòng khách sạn sang trọng, đẳng cấp như trong hình ảnh tham chiếu. Giữ nguyên diện mạo của tôi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="Chuyển đổi video khách sạn sang trọng của Chanel">
+
+**[🎬 Xem video →](https://x.com/ytjessie_/status/2077522462494085236)**
+
+**Tác giả:** [Jessie_Ma](https://x.com/ytjessie_) | **Nguồn:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **Đã xuất bản:** Jul 15, 2026
+
+---
 ### Khám phá kho báu chim cánh cụt đậm chất điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2848,32 +2869,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **Tác giả:** [Shah](https://x.com/ai_with_shah) | **Nguồn:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **Đã xuất bản:** May 27, 2026
 
 ---
-### Những ký ức tuổi thơ rực rỡ trong mưa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh đầy chất thơ để tạo ra video hoài niệm về những ký ức tuổi thơ được chiếu sáng bởi ánh sáng dịu nhẹ trong một cơn mưa.
-
-#### 📝 Prompt
-
-```
-Những ký ức tuổi thơ rực rỡ trong mưa
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="Những ký ức tuổi thơ rực rỡ trong mưa">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2059620519310442844)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **Đã xuất bản:** May 27, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 11 prompt khác không hiển thị ở đây
+### 🎯 12 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2919,6 +2921,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-16T06:16:21.508Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-16T10:07:26.761Z</sub>
 
 </div>

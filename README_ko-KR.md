@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **111** |
+| 📝 총 프롬프트 수 | **112** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-16** |
 
@@ -56,6 +56,27 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Chanel 럭셔리 호텔 영상 변환
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni를 위한 비디오 투 비디오 편집 프롬프트로, 피사체의 외형은 유지하면서 Chanel 제품과 우아한 호텔 스위트룸이 포함된 장면으로 수정합니다.
+
+#### 📝 프롬프트
+
+```
+Gemini Omni를 사용하여, 제가 열고 있는 이 상자를 Chanel 제품으로 바꿔줘. 상자를 열면 안에 Chanel 향수와 립스틱이 들어 있게 해줘. 
+
+배경은 참조 이미지에 있는 우아하고 고급스러운 호텔 스위트룸으로 변경해줘. 내 모습은 그대로 유지해줘.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="Chanel 럭셔리 호텔 영상 변환">
+
+**[🎬 비디오 보기 →](https://x.com/ytjessie_/status/2077522462494085236)**
+
+**작성자:** [Jessie_Ma](https://x.com/ytjessie_) | **출처:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **게시일:** Jul 15, 2026
+
+---
 ### 영화 같은 펭귄 보물 발견
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2842,32 +2863,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **작성자:** [Shah](https://x.com/ai_with_shah) | **출처:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **게시일:** May 27, 2026
 
 ---
-### 빗속에서 빛나는 어린 시절의 추억
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 비 내리는 날, 부드러운 빛으로 물든 어린 시절의 향수를 불러일으키는 영상을 생성하기 위한 감성적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-빗속에서 빛나는 어린 시절의 추억
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="빗속에서 빛나는 어린 시절의 추억">
-
-**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2059620519310442844)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **게시일:** May 27, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 11 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 12 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2913,6 +2915,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-16T06:16:19.839Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-16T10:07:25.895Z</sub>
 
 </div>

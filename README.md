@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **111** |
+| 📝 Total Prompts | **112** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-16** |
 
@@ -56,19 +56,44 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Cinematic Penguin Treasure Discovery
+### Chanel Luxury Hotel Video Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed cinematic prompt for Gemini Omni that creates a suspenseful 10-second video of a baby penguin found inside a treasure chest, including audio and camera instructions.
+> A video-to-video editing prompt for Gemini Omni that modifies a scene to include Chanel products and an elegant hotel suite while preserving the subject's look.
 
 #### 📝 Prompt
 
 ```
-10-second cinematic POV video. Nighttime in a quiet forest. A flashlight beam slowly sweeps across the ground until it discovers an old wooden treasure chest covered in moss. The camera carefully walks closer with subtle handheld movement, creating suspense. A human hand reaches down, unlocks the chest, and slowly lifts the lid. Instead of treasure, a tiny fluffy baby penguin wearing miniature black sunglasses is sitting inside on glowing ice crystals. The penguin looks directly into the camera, smiles, and slowly raises one flipper to give a clear 👍 thumbs-up gesture. The camera pushes in for a close-up of the adorable expression.\n\nAudio: Quiet forest ambience with distant crickets and soft suspenseful music during the approach. The instant the chest opens, the music changes to a cheerful, uplifting tune. A natural adult male voice enthusiastically says, "Wow, wonderful!" perfectly synchronized with the penguin's thumbs-up. The penguin immediately responds with a cute chirping sound.\n\nUltra-realistic, cinematic lighting, highly detailed feathers, expressive eyes, realistic physics, natural animation, smooth handheld camera movement, shallow depth of field, photorealistic, no subtitles, no text, no watermark.
+Use gemini omni, make this box i'm opening from Chanel, once i open it, there are chanel perfumes and some lipsticks inside.  
+
+Change the background to the elegant, luxurious hotel suite shown in the reference image. keep my look unchanged.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="Cinematic Penguin Treasure Discovery">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="Chanel Luxury Hotel Video Transformation">
+
+**[🎬 Watch Video →](https://x.com/ytjessie_/status/2077522462494085236)**
+
+**Author:** [Jessie_Ma](https://x.com/ytjessie_) | **Source:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **Published:** Jul 15, 2026
+
+---
+### Cinematic Penguin Thumbs-Up Discovery
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed 10-second cinematic video prompt featuring a suspenseful POV sequence in a forest where a treasure chest reveals a cute penguin giving a thumbs-up, complete with audio and lighting directions.
+
+#### 📝 Prompt
+
+```
+10-second cinematic POV video. Nighttime in a quiet forest. A flashlight beam slowly sweeps across the ground until it discovers an old wooden treasure chest covered in moss. The camera carefully walks closer with subtle handheld movement, creating suspense. A human hand reaches down, unlocks the chest, and slowly lifts the lid. Instead of treasure, a tiny fluffy baby penguin wearing miniature black sunglasses is sitting inside on glowing ice crystals. The penguin looks directly into the camera, smiles, and slowly raises one flipper to give a clear 👍 thumbs-up gesture. The camera pushes in for a close-up of the adorable expression.
+
+Audio: Quiet forest ambience with distant crickets and soft suspenseful music during the approach. The instant the chest opens, the music changes to a cheerful, uplifting tune. A natural adult male voice enthusiastically says, "Wow, wonderful!" perfectly synchronized with the penguin's thumbs-up. The penguin immediately responds with a cute chirping sound.
+
+Ultra-realistic, cinematic lighting, highly detailed feathers, expressive eyes, realistic physics, natural animation, smooth handheld camera movement, shallow depth of field, photorealistic, no subtitles, no text, no watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="Cinematic Penguin Thumbs-Up Discovery">
 
 **[🎬 Watch Video →](https://x.com/MrDasOnX/status/2077310416615780646)**
 
@@ -2844,32 +2869,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **Published:** May 27, 2026
 
 ---
-### Glowing Childhood Memories in Rain
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A poetic prompt for generating a nostalgic video of childhood memories illuminated by a soft glow during a rain shower.
-
-#### 📝 Prompt
-
-```
-Glowing childhood memories in rain
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="Glowing Childhood Memories in Rain">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2059620519310442844)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **Published:** May 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 11 more prompts not shown here
+### 🎯 12 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2915,6 +2921,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-16T06:16:15.955Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-16T10:07:23.682Z</sub>
 
 </div>

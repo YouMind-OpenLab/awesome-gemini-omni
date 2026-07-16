@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **111** |
+| 📝 プロンプト総数 | **112** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-07-16** |
 
@@ -56,6 +56,27 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### Chanel ラグジュアリーホテル風動画変換
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni 用の動画間編集プロンプトです。被写体の外見を維持したまま、Chanel の製品とエレガントなホテルのスイートルームが登場するシーンに変換します。
+
+#### 📝 プロンプト
+
+```
+Gemini Omni を使用して、私が開けているこの箱を Chanel のものにしてください。箱を開けると、中に Chanel の香水とリップスティックが入っているようにします。
+
+背景を、参照画像のようなエレガントで豪華なホテルのスイートルームに変更してください。私の外見はそのまま維持してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="Chanel ラグジュアリーホテル風動画変換">
+
+**[🎬 動画を見る →](https://x.com/ytjessie_/status/2077522462494085236)**
+
+**作者:** [Jessie_Ma](https://x.com/ytjessie_) | **ソース:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **公開日:** Jul 15, 2026
+
+---
 ### 映画のようなペンギンの宝探し
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2844,32 +2865,13 @@ Lost in the misty twilight of the city where every street corner feels like a sc
 **作者:** [Shah](https://x.com/ai_with_shah) | **ソース:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **公開日:** May 27, 2026
 
 ---
-### 雨の中で輝く子供時代の思い出
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 雨が降る中、柔らかな光に包まれた子供時代の思い出をノスタルジックな動画として生成するための詩的なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-雨の中で輝く子供時代の思い出
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/05724da8f4923db62f501e7374d3bfac/thumbnails/thumbnail.jpg" width="600" alt="雨の中で輝く子供時代の思い出">
-
-**[🎬 動画を見る →](https://x.com/MrDasOnX/status/2059620519310442844)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2059620519310442844) | **公開日:** May 27, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 11 さらに多くのプロンプトがあります
+### 🎯 12 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2915,6 +2917,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-16T06:16:18.890Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-16T10:07:25.353Z</sub>
 
 </div>
