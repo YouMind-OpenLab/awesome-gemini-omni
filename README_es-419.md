@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **112** |
+| 📝 Total de prompts | **116** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-17** |
 
@@ -56,6 +56,137 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Animación de logotipo en 3D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de animación para Gemini Omni para crear un efecto de aparición 3D para un logotipo sobre un fondo de pantalla verde.
+
+#### 📝 Prompt
+
+```
+Haz que el logotipo (de referencia) aparezca de forma genial sobre un fondo de pantalla verde. Centrado en el encuadre. Aparece de la nada, se ensambla y luego flota en su lugar. Un efecto 3D genial.
+```
+
+<img src="https://pbs.twimg.com/media/HNYa_xmWgAAoWAE.jpg" width="600" alt="Animación de logotipo en 3D">
+
+**[🎬 Ver video →](https://x.com/chrisfirst/status/2077877168730706019)**
+
+**Autor:** [CHRIS FIRST](https://x.com/chrisfirst) | **Fuente:** [Link](https://x.com/chrisfirst/status/2077877168730706019) | **Publicado:** Jul 16, 2026
+
+---
+### Preservación de la identidad en el galope del caballo islandés
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico de alta producción para una secuencia de equitación en Islandia, enfocado en preservar la identidad de una imagen de referencia a través de complejos movimientos de cámara.
+
+#### 📝 Prompt
+
+```
+Utiliza la imagen de referencia masculina adjunta como la ÚNICA referencia de identidad para el personaje principal.
+
+Mantén una identidad facial perfecta incluso durante galopes rápidos, tomas de dron, ángulos laterales y composiciones cinematográficas amplias.
+
+Duración: 10 segundos.
+
+El encuadre inicial muestra inmediatamente al personaje galopando a toda velocidad por un enorme valle islandés sobre un poderoso caballo negro. El caballo salpica al cruzar un río poco profundo, sube una cresta cubierta de hierba sin reducir la velocidad y luego corre a lo largo del borde de un acantilado con vistas a cascadas y montañas infinitas.
+
+Producción fotorrealista IMAX de 65 mm. Iluminación cinematográfica premium. Animación de caballo hiperrealista. Detalles ambientales de calidad de Hollywood.
+
+Cámara:
+Seguimiento montado a caballo → seguimiento lateral → persecución con dron FPV → revelación aérea épica.
+
+Música de fondo:
+Orquesta celta épica, trompas francesas, coro, tambores taiko, cuerdas emotivas.
+
+Sonido ambiental:
+Cascos galopando, salpicaduras de río, movimiento de silla de cuero, viento, cascadas lejanas, pájaros.
+
+Sin diálogos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077790013799206912/img/JiItvZPzotkWNxrm.jpg" width="600" alt="Preservación de la identidad en el galope del caballo islandés">
+
+**[🎬 Ver video →](https://x.com/vireonixx/status/2077790049618547067)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Fuente:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **Publicado:** Jul 16, 2026
+
+---
+### Vlog acogedor organizando estantería de libros
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video detallado para un vlog con estética de videocámara mini DV de mano, que muestra a una joven organizando libros con sonidos ASMR satisfactorios e iluminación natural.
+
+#### 📝 Prompt
+
+```
+CÁMARA / ESTILO VISUAL: Metraje de videocámara mini DV de mano grabado por la propia protagonista. Ligera vibración de mano, búsqueda de enfoque ocasional, encuadre imperfecto, ajustes de zoom naturales, calidad de imagen suave tipo cinta, grano sutil, cambios de exposición automática realistas por la cálida luz de la tarde. Tonos de piel naturales, ligero desenfoque de movimiento, estética auténtica de videocámara de consumo.
+ESTILO: Vlog acogedor de organización de estantería con elementos ASMR suaves. Ritmo relajado, diálogo mínimo, momentos espontáneos. Enfoque en sonidos satisfactorios: pasar páginas, golpecitos en los lomos de los libros, pasar el trapo para el polvo, suave deslizamiento en el estante.
+SUJETO: Joven de unos 20 años, cabello largo y ondulado, camisa de franela oversize, gafas de lectura sobre la cabeza. Energía tranquila y reflexiva mientras reorganiza.
+ESCENARIO: Pequeño rincón de lectura en una tarde tranquila de fin de semana. Luz cálida a través de las cortinas, una estantería medio vacía, pilas de libros en el suelo.
+GUION GRÁFICO:
+→ (2s, plano medio apoyado) Coloca la cámara en una mesa auxiliar, se sienta cerca de la estantería. "Por fin organizando mis libros por color".
+→ (2s, plano cenital) Saca los libros del estante, los clasifica en pilas.
+→ (2s, primer plano) Limpia el polvo del estante vacío con un paño.
+→ (2s, plano en mano) Hojea un libro viejo, deteniéndose en una página. "Olvidé que incluso tenía este".
+→ (2s, plano de detalle) Organiza los libros por color, deslizándolos en su lugar. Sin diálogo.
+→ (2s, plano medio) Añade una pequeña planta y una vela al estante. "Solo necesita un poco de decoración".
+→ (2s, plano macro) Endereza los lomos de los libros, dándoles golpecitos para igualarlos.
+→ (2s, plano apoyado) Se aleja para comprobar la disposición desde la distancia.
+→ (2s, plano final cálido) Admira el estante terminado, sonrisa feliz. "Mucho mejor".
+→ (1.5s, plano final) Se acerca a la cámara. "Nos vemos pronto". La mano cubre el lente mientras termina la grabación.
+NOTAS DE AUDIO: El ambiente natural de pasar páginas, limpiar el polvo y deslizar libros debe ser claramente audible. Diálogo tranquilo y casual.
+NOTAS DE REALISMO: Lenguaje corporal auténtico, parpadeo natural, sonrisas genuinas, pausas de pensamiento ocasionales, encuadre imperfecto, respiración de enfoque, cambios de luz cálida de la tarde. Debe parecer un vlog de organización personal genuino grabado con una videocámara de consumo, no una producción comercial.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077761124582543360/img/NROUVc0jpf1UZ9LZ.jpg" width="600" alt="Vlog acogedor organizando estantería de libros">
+
+**[🎬 Ver video →](https://x.com/Strength04_X/status/2077761335585280363)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2077761335585280363) | **Publicado:** Jul 16, 2026
+
+---
+### Revelación de producto con dron FPV en cañón desértico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una secuencia cinemática de alta velocidad con dron FPV a través de escarpados cañones desérticos que culmina en una revelación de producto precisa en una meseta iluminada por el sol.
+
+#### 📝 Prompt
+
+```
+{
+  "description": "Una toma cinemática de alta velocidad con dron FPV comienza muy por encima de espectaculares acantilados desérticos al amanecer. El dron se lanza en picada hacia cañones rocosos escarpados, rozando dunas de arena y compitiendo entre enormes paredes de piedra roja. El viento levanta estelas de polvo mientras el dron acelera, pasando estrechamente a través de arcos de roca naturales y crestas iluminadas por el sol. A mitad de camino, el movimiento se ralentiza gradualmente a medida que el dron emerge hacia una amplia meseta desértica, revelando una lata de Red Bull bien fría sobre una losa de piedra rugosa, con la condensación visible y brillante bajo la luz de la mañana. Sin texto.",
+  "style": "cinemático, comercial de deportes extremos hiperrealista",
+  "camera": "perspectiva de dron FPV en primera persona con un vuelo rápido y agresivo a través del cañón, que transiciona hacia una revelación cinemática suave, controlada y lenta",
+  "lighting": "luz de amanecer temprano con reflejos cálidos, fuerte iluminación de contorno en las formaciones rocosas, sombras de alto contraste; reflejos nítidos y destellos de condensación en la lata de Red Bull",
+  "environment": "vasto paisaje de cañón desértico con acantilados de roca roja, cañones estrechos, dunas de arena, polvo arrastrado por el viento y un claro en una meseta abierta",
+  "motion": "movimiento aéreo muy rápido con picadas pronunciadas, pasadas cercanas por el cañón y giros cerrados; transiciona gradualmente a cámara lenta y estabilización suave para la revelación final",
+  "ending": "un momento potente y silencioso en la meseta desértica abierta; la lata de Red Bull centrada en la losa de piedra mientras la cámara orbita suavemente y se acerca, enfatizando energía, frescura e impacto",
+  "aspect_ratio": "16:9",
+  "duration": "10 segundos",
+  "text": "ninguno",
+  "keywords": [
+    "dron FPV",
+    "movimiento cinemático ultrarrápido",
+    "vuelo a través de cañón desértico",
+    "revelación de producto hiperrealista",
+    "comercial de bebida energética",
+    "final en cámara lenta",
+    "sin texto"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077736758104723456/img/Czy7V5pZUnqzGTlz.jpg" width="600" alt="Revelación de producto con dron FPV en cañón desértico">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2077736805416505855)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2077736805416505855) | **Publicado:** Jul 16, 2026
+
+---
 ### Transformación de video de hotel de lujo de Chanel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2780,102 +2911,13 @@ Metraje de dron FPV de alta velocidad. Vista completa en primera persona (POV FP
 **Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fuente:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Publicado:** May 27, 2026
 
 ---
-### Mapa de recorrido virtual por la Tierra Media
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un recorrido virtual en primera persona a caballo por locaciones de la Tierra Media, basado en una imagen de mapa cargada con marcadores de dirección.
-
-#### 📝 Prompt
-
-```
-Analiza la ubicación y la dirección de la flecha en el mapa adjunto. Elimina la flecha roja. Crea un video de guía de recorrido virtual que muestre las 2 ubicaciones más importantes en ese lugar.
-
-POV: estamos montando un caballo marrón.
-
-Estilo metraje encontrado (found footage) realista y crudo.
-
-[OPCIONAL] (raza: elfos, orcos, hobbits...) realizando actividades cotidianas
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="Mapa de recorrido virtual por la Tierra Media">
-
-**[🎬 Ver video →](https://x.com/techhalla/status/2059724218158166537)**
-
-**Autor:** [TechHalla](https://x.com/techhalla) | **Fuente:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Publicado:** May 27, 2026
-
----
-### Ensamblaje isométrico de auto deportivo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de animación de ensamblaje que transforma un chasis de auto en mate a un auto deportivo rojo brillante utilizando ángulos de cámara isométricos.
-
-#### 📝 Prompt
-
-```
-Crea un video de 10 segundos de ritmo rápido y alta energía que muestre el ensamblaje veloz, pieza por pieza, de un auto deportivo, utilizando las 2 imágenes de referencia proporcionadas como puntos de inicio y fin.
-- comienza con las cuatro ruedas rodando hasta su posición
-- las varillas metálicas y la suspensión se ajustan rápidamente entre ellas
-- el bloque del motor desciende
-- los paneles de la carrocería externa vuelan desde todos los lados y se encajan en el chasis
-- transforma la imprimación mate en pintura roja brillante
-
-mantén el ángulo de cámara estrictamente como una toma isométrica de 3/4
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="Ensamblaje isométrico de auto deportivo">
-
-**[🎬 Ver video →](https://x.com/HarshithLucky3/status/2059713624885891271)**
-
-**Autor:** [Harshith](https://x.com/HarshithLucky3) | **Fuente:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Publicado:** May 27, 2026
-
----
-### Ambiente de calle comercial de la era Showa
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt que captura la atmósfera bulliciosa y nostálgica de un distrito comercial japonés de la era Showa con sonidos de multitudes animadas.
-
-#### 📝 Prompt
-
-```
-Calle comercial de la era Showa, bulliciosa, idioma japonés, animada
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f1302cf8af26a69a4f9b58f8697401/thumbnails/thumbnail.jpg" width="600" alt="Ambiente de calle comercial de la era Showa">
-
-**[🎬 Ver video →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
-
-**Autor:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **Fuente:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **Publicado:** May 27, 2026
-
----
-### Misty Twilight City Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video generation featuring a city street at twilight, characterized by misty atmosphere and a movie-like aesthetic.
-
-#### 📝 Prompt
-
-```
-Lost in the misty twilight of the city where every street corner feels like a scene from a movie.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a72a0bdd4880238a0f370ac74ee5193d/thumbnails/thumbnail.jpg" width="600" alt="Misty Twilight City Scene">
-
-**[🎬 Ver video →](https://x.com/ai_with_shah/status/2059622418839486786)**
-
-**Autor:** [Shah](https://x.com/ai_with_shah) | **Fuente:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **Publicado:** May 27, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 12 más prompts no mostrados aquí
+### 🎯 16 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2921,6 +2963,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-17T06:13:59.180Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-17T09:56:00.628Z</sub>
 
 </div>

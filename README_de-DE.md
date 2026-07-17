@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **112** |
+| 📝 Gesamtanzahl Prompts | **116** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-17** |
 
@@ -56,6 +56,137 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### 3D-Logo-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Animations-Prompt für Gemini Omni zur Erstellung eines 3D-Pop-in-Effekts für ein Logo vor einem Greenscreen-Hintergrund.
+
+#### 📝 Prompt
+
+```
+Lasse das (Referenz-)Logo cool vor einem Greenscreen-Hintergrund erscheinen. Zentriert im Bild. Es taucht aus dem Nichts auf, setzt sich zusammen und schwebt dann an Ort und Stelle. Cooler 3D-Effekt.
+```
+
+<img src="https://pbs.twimg.com/media/HNYa_xmWgAAoWAE.jpg" width="600" alt="3D-Logo-Animation">
+
+**[🎬 Video ansehen →](https://x.com/chrisfirst/status/2077877168730706019)**
+
+**Autor:** [CHRIS FIRST](https://x.com/chrisfirst) | **Quelle:** [Link](https://x.com/chrisfirst/status/2077877168730706019) | **Veröffentlicht:** Jul 16, 2026
+
+---
+### Bewahrung der Identität beim Islandpferd-Galopp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer High-End-Prompt für eine Reitsequenz in Island, der sich auf die konsistente Wahrung der Identität eines Referenzbildes bei komplexen Kamerabewegungen konzentriert.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das beigefügte männliche Referenzbild als EINZIGE Identitätsreferenz für die Hauptfigur.
+
+Bewahren Sie die perfekte Gesichtsidentität selbst bei schnellem Galopp, Drohnenaufnahmen, Seitenansichten und weiten cineastischen Kompositionen.
+
+Dauer: 10 Sekunden.
+
+Das erste Bild zeigt die Figur sofort im vollen Galopp durch ein riesiges isländisches Tal auf einem kraftvollen schwarzen Pferd. Das Pferd prescht durch einen flachen Fluss, erklimmt einen grasbewachsenen Bergrücken, ohne langsamer zu werden, und rast dann entlang der Klippenkante mit Blick auf Wasserfälle und endlose Berge.
+
+Fotorealistische IMAX 65mm-Produktion. Erstklassige cineastische Beleuchtung. Hyperrealistische Pferdanimation. Umgebungsdetails auf Hollywood-Niveau.
+
+Kamera:
+Kamerafahrt am Pferd → seitliche Kamerafahrt → FPV-Drohnenverfolgung → epischer Luftbild-Reveal.
+
+Hintergrundmusik:
+Episches keltisches Orchester, Waldhörner, Chor, Taiko-Trommeln, emotionale Streicher.
+
+Umgebungsgeräusche:
+Galoppierende Hufe, Flussplätschern, Bewegungen des Ledersattels, Wind, ferne Wasserfälle, Vögel.
+
+Kein Dialog.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077790013799206912/img/JiItvZPzotkWNxrm.jpg" width="600" alt="Bewahrung der Identität beim Islandpferd-Galopp">
+
+**[🎬 Video ansehen →](https://x.com/vireonixx/status/2077790049618547067)**
+
+**Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **Veröffentlicht:** Jul 16, 2026
+
+---
+### Gemütlicher Vlog: Bücherregal sortieren
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Prompt für einen Vlog im ästhetischen Mini-DV-Camcorder-Stil, in dem eine junge Frau ihre Bücher sortiert, begleitet von befriedigenden ASMR-Geräuschen und natürlichem Licht.
+
+#### 📝 Prompt
+
+```
+KAMERA / LOOK: Handgeführte Mini-DV-Camcorder-Aufnahmen, von der Person selbst gefilmt. Leichtes Wackeln, gelegentliches Nachjustieren des Fokus, unperfekter Bildausschnitt, natürliche Zoom-Bewegungen, weiche, bandartige Bildqualität, dezentes Rauschen, realistische Belichtungswechsel durch warmes Nachmittagslicht. Natürliche Hauttöne, leichte Bewegungsunschärfe, authentische Consumer-Camcorder-Ästhetik.
+STIL: Gemütlicher Vlog zum Thema Bücherregal-Organisation mit sanften ASMR-Elementen. Entspanntes Tempo, minimaler Dialog, ungezwungene Momente. Fokus auf befriedigende Geräusche: Umblättern von Seiten, Klopfen der Buchrücken, Abwischen von Staub, sanftes Verschieben der Bücher.
+PERSON: Junge Frau Anfang 20, langes welliges Haar, übergroßes Flanellhemd, Lesebrille auf dem Kopf. Ruhige, nachdenkliche Ausstrahlung beim Umräumen.
+SETTING: Kleine Leseecke an einem ruhigen Wochenendnachmittag. Warmes Licht durch Vorhänge, ein halb leeres Bücherregal, Bücherstapel auf dem Boden.
+STORYBOARD:
+→ (2s, abgestellte Halbtotale) Platziert die Kamera auf einem Beistelltisch, setzt sich in die Nähe des Bücherregals. „Endlich sortiere ich meine Bücher nach Farben.“
+→ (2s, Aufsicht) Nimmt Bücher aus dem Regal, sortiert sie in Stapel.
+→ (2s, Nahaufnahme) Wischt mit einem Tuch Staub vom leeren Regal.
+→ (2s, Handkamera) Blättert durch ein altes Buch, hält bei einer Seite inne. „Ich hatte ganz vergessen, dass ich das besitze.“
+→ (2s, Detailaufnahme) Ordnet die Bücher nach Farben, schiebt sie an ihren Platz. Kein Dialog.
+→ (2s, Halbtotale) Stellt eine kleine Pflanze und eine Kerze ins Regal. „Braucht nur ein bisschen Deko.“
+→ (2s, Makroaufnahme) Richtet die Buchrücken aus, klopft sie bündig.
+→ (2s, abgestellte Kamera) Tritt zurück, um die Anordnung aus der Distanz zu betrachten.
+→ (2s, warmes Schlussbild) Bewundert das fertige Regal, glückliches Lächeln. „So viel besser.“
+→ (1,5s, letzte Einstellung) Greift zur Kamera. „Bis bald.“ Die Hand verdeckt das Objektiv, während die Aufnahme endet.
+AUDIO-HINWEISE: Natürliche Umgebungsgeräusche wie Umblättern, Staubwischen und das Verschieben der Bücher sollten deutlich hörbar sein. Dialoge leise und beiläufig.
+REALISMUS-HINWEISE: Authentische Körpersprache, natürliches Blinzeln, echtes Lächeln, gelegentliche Denkpausen, unperfekter Bildausschnitt, Fokus-Pumpen, Verschiebungen im warmen Nachmittagslicht. Sollte wie ein echter persönlicher Organisations-Vlog auf einem Consumer-Camcorder wirken, nicht wie eine kommerzielle Produktion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077761124582543360/img/NROUVc0jpf1UZ9LZ.jpg" width="600" alt="Gemütlicher Vlog: Bücherregal sortieren">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2077761335585280363)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2077761335585280363) | **Veröffentlicht:** Jul 16, 2026
+
+---
+### Wüsten-Canyon FPV-Drohnen-Enthüllung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine cineastische Hochgeschwindigkeits-FPV-Drohnensequenz durch zerklüftete Wüstencanyons, die in einer präzisen Produktpräsentation auf einem sonnigen Plateau endet.
+
+#### 📝 Prompt
+
+```
+{
+  "description": "Eine cineastische Hochgeschwindigkeits-FPV-Drohnenaufnahme beginnt weit über dramatischen Wüstenklippen im frühen Morgengrauen. Die Drohne stürzt steil in zerklüftete Felsenschluchten, gleitet über Sanddünen und rast zwischen massiven roten Steinwänden hindurch. Der Wind wirbelt Staubspuren auf, während die Drohne beschleunigt und knapp durch natürliche Felsbögen und sonnenbeschienene Bergrücken fliegt. Auf halbem Weg verlangsamt sich die Bewegung allmählich, während die Drohne auf ein weites, offenes Wüstenplateau hinausbricht und eine einzelne eiskalte Red Bull Dose enthüllt, die auf einer rauen Steinplatte steht; Kondenswasser ist sichtbar und glitzert im Morgenlicht. Kein Text.",
+  "style": "cineastischer, hyperrealistischer Extremsport-Werbespot",
+  "camera": "First-Person-FPV-Drohnenperspektive mit aggressivem Hochgeschwindigkeits-Canyon-Flug, übergehend in eine sanfte, kontrollierte und langsame cineastische Enthüllung",
+  "lighting": "Licht des frühen Sonnenaufgangs mit warmen Highlights, starkem Streiflicht auf Felsformationen, kontrastreichen Schatten; knackige Reflexionen und Kondenswasser-Highlights auf der Red Bull Dose",
+  "environment": "weite Wüsten-Canyon-Landschaft mit roten Felsklippen, engen Schluchten, Sanddünen, windverwehtem Staub und einer offenen Plateau-Lichtung",
+  "motion": "sehr schnelle Flugbewegung mit scharfen Sturzflügen, engen Canyon-Passagen und knappen Kurven; geht allmählich in Zeitlupe und sanfte Stabilisierung für die finale Enthüllung über",
+  "ending": "ein kraftvoller, ruhiger Moment auf dem offenen Wüstenplateau; die Red Bull Dose zentriert auf der Steinplatte, während die Kamera sanft kreist und heranzoomt, um Energie, Frische und Wirkung zu betonen",
+  "aspect_ratio": "16:9",
+  "duration": "10 Sekunden",
+  "text": "keiner",
+  "keywords": [
+    "FPV-Drohne",
+    "ultraschnelle cineastische Bewegung",
+    "Wüsten-Canyon-Flug",
+    "hyperrealistische Produktenthüllung",
+    "Energy-Drink-Werbung",
+    "Zeitlupen-Ende",
+    "kein Text"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077736758104723456/img/Czy7V5pZUnqzGTlz.jpg" width="600" alt="Wüsten-Canyon FPV-Drohnen-Enthüllung">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2077736805416505855)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2077736805416505855) | **Veröffentlicht:** Jul 16, 2026
+
+---
 ### Chanel Luxushotel Video-Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2780,102 +2911,13 @@ High-Speed-FPV-Drohnenaufnahme. Komplette First-Person-Perspektive (reiner FPV-P
 **Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Quelle:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Veröffentlicht:** May 27, 2026
 
 ---
-### Virtuelle Tour-Karte von Mittelerde
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung einer virtuellen POV-Reittour durch Orte in Mittelerde, basierend auf einem hochgeladenen Kartenbild mit Richtungsmarkierungen.
-
-#### 📝 Prompt
-
-```
-Analysiere den Standort und die Richtung des Pfeils auf der beigefügten Karte. Entferne den roten Pfeil. Erstelle ein virtuelles Tour-Guide-Video, das die zwei wichtigsten Orte an dieser Stelle zeigt.
-
-POV: Wir reiten auf einem braunen Pferd.
-
-Echtes, körniges Found-Footage-Material.
-
-[OPTIONAL] (Rasse: Elben, Orks, Hobbits...) bei alltäglichen Aktivitäten
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="Virtuelle Tour-Karte von Mittelerde">
-
-**[🎬 Video ansehen →](https://x.com/techhalla/status/2059724218158166537)**
-
-**Autor:** [TechHalla](https://x.com/techhalla) | **Quelle:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Veröffentlicht:** May 27, 2026
-
----
-### Isometrische Montage eines Sportwagens
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Montage-Animations-Prompt, der einen matten Fahrzeugrahmen mithilfe isometrischer Kamerawinkel in einen glänzenden roten Sportwagen verwandelt.
-
-#### 📝 Prompt
-
-```
-Erstelle ein rasantes, energiegeladenes 10-sekündiges Video, das die schnelle, schrittweise Montage eines Sportwagens zeigt, wobei die 2 bereitgestellten Referenzbilder als Start- und Endpunkte dienen:
-- beginne mit den vier Rädern, die in Position rollen
-- Metallstangen und Federung schnappen schnell dazwischen ein
-- der Motorblock wird eingesetzt
-- äußere Karosserieteile fliegen von allen Seiten heran und schnappen auf den Rahmen
-- verwandle die matte Grundierung in eine glänzende rote Lackierung
-
-behalte den Kamerawinkel strikt als isometrische 3/4-Ansicht bei
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="Isometrische Montage eines Sportwagens">
-
-**[🎬 Video ansehen →](https://x.com/HarshithLucky3/status/2059713624885891271)**
-
-**Autor:** [Harshith](https://x.com/HarshithLucky3) | **Quelle:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Veröffentlicht:** May 27, 2026
-
----
-### Einkaufsstraßen-Atmosphäre der Showa-Ära
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Prompt, der die geschäftige und nostalgische Atmosphäre eines japanischen Einkaufsviertels der Showa-Ära mit lebendigen Geräuschen einer Menschenmenge einfängt.
-
-#### 📝 Prompt
-
-```
-Einkaufsstraße der Showa-Ära, geschäftig, japanische Sprache, lebhaft
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f1302cf8af26a69a4f9b58f8697401/thumbnails/thumbnail.jpg" width="600" alt="Einkaufsstraßen-Atmosphäre der Showa-Ära">
-
-**[🎬 Video ansehen →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
-
-**Autor:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **Quelle:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **Veröffentlicht:** May 27, 2026
-
----
-### Misty Twilight City Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video generation featuring a city street at twilight, characterized by misty atmosphere and a movie-like aesthetic.
-
-#### 📝 Prompt
-
-```
-Lost in the misty twilight of the city where every street corner feels like a scene from a movie.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a72a0bdd4880238a0f370ac74ee5193d/thumbnails/thumbnail.jpg" width="600" alt="Misty Twilight City Scene">
-
-**[🎬 Video ansehen →](https://x.com/ai_with_shah/status/2059622418839486786)**
-
-**Autor:** [Shah](https://x.com/ai_with_shah) | **Quelle:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **Veröffentlicht:** May 27, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 12 weitere Prompts hier nicht angezeigt
+### 🎯 16 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2921,6 +2963,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-17T06:14:00.130Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-17T09:56:01.123Z</sub>
 
 </div>

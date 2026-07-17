@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **112** |
+| 📝 Toplam İstem | **116** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-17** |
 
@@ -56,6 +56,137 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### 3D Logo Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni'nin yeşil ekran arka plan üzerinde 3D pop-in (belirme) efektiyle bir logo oluşturması için hazırlanan animasyon istemi.
+
+#### 📝 İstem
+
+```
+Yeşil ekran arka plan üzerinde (Referans) logonun havalı bir şekilde belirmesini sağla. Kare merkezinde olsun. Hiç yoktan aniden belirecek, bir araya gelecek ve olduğu yerde havada asılı kalacak. Havalı bir 3D efekti olsun.
+```
+
+<img src="https://pbs.twimg.com/media/HNYa_xmWgAAoWAE.jpg" width="600" alt="3D Logo Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/chrisfirst/status/2077877168730706019)**
+
+**Yazar:** [CHRIS FIRST](https://x.com/chrisfirst) | **Kaynak:** [Link](https://x.com/chrisfirst/status/2077877168730706019) | **Yayınlandı:** Jul 16, 2026
+
+---
+### İzlanda Atı Dörtnal Kimlik Koruma
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İzlanda'daki bir at binme sekansı için, karmaşık kamera hareketleri boyunca referans görselin kimliğini korumaya odaklanan yüksek prodüksiyonlu sinematik bir komut.
+
+#### 📝 İstem
+
+```
+Ana karakter için TEK kimlik referansı olarak ekteki erkek referans görselini kullanın.
+
+Hızlı dörtnal, drone çekimleri, yan açılar ve geniş sinematik kompozisyonlar sırasında bile yüz kimliğini kusursuz bir şekilde koruyun.
+
+Süre: 10 saniye.
+
+Açılış karesinde karakter, devasa bir İzlanda vadisinde güçlü siyah bir atın üzerinde tam hızla dörtnal koşarken görülür. At sığ bir nehirden geçer, yavaşlamadan çimenli bir sırta tırmanır, ardından şelalelere ve uçsuz bucaksız dağlara bakan uçurumun kenarı boyunca yarışır.
+
+Fotogerçekçi IMAX 65mm prodüksiyon. Birinci sınıf sinematik aydınlatma. Hiper gerçekçi at animasyonu. Hollywood kalitesinde çevresel detaylar.
+
+Kamera:
+At üstü takip çekimi → yan takip → FPV drone takibi → epik hava çekimi ile açılış.
+
+Arka Plan Müziği:
+Epik Kelt orkestrası, Fransız kornoları, koro, taiko davulları, duygusal yaylılar.
+
+Çevresel Ses:
+Dörtnal koşan toynak sesleri, nehir sıçramaları, deri eyer hareketi, rüzgar, uzaktaki şelaleler, kuşlar.
+
+Diyalog yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077790013799206912/img/JiItvZPzotkWNxrm.jpg" width="600" alt="İzlanda Atı Dörtnal Kimlik Koruma">
+
+**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2077790049618547067)**
+
+**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **Yayınlandı:** Jul 16, 2026
+
+---
+### Huzurlu Kitaplık Düzenleme Vlog'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Genç bir kadının kitaplarını düzenlediği, tatmin edici ASMR sesleri ve doğal ışık içeren, el tipi mini DV kamera estetiğinde bir vlog için detaylı video istemi.
+
+#### 📝 İstem
+
+```
+KAMERA / GÖRÜNÜM: Öznenin bizzat kendisi tarafından çekilen el tipi mini DV kamera görüntüleri. Hafif el titremesi, ara sıra odak arayışı, kusurlu kadraj, doğal yakınlaştırma ayarları, yumuşak kaset benzeri görüntü kalitesi, hafif gren, sıcak öğleden sonra ışığından kaynaklanan gerçekçi otomatik pozlama değişimleri. Doğal cilt tonları, hafif hareket bulanıklığı, otantik tüketici tipi kamera estetiği.
+STİL: Nazik ASMR öğeleri içeren huzurlu kitaplık düzenleme vlog'u. Rahat bir tempo, minimal diyalog, doğal anlar. Tatmin edici seslere odaklanma: sayfaların çevrilmesi, kitap sırtlarının tıkırtısı, toz bezinin silme sesi, rafın hafif gıcırtısı.
+ÖZNE: 20'li yaşlarının başında, uzun dalgalı saçlı, büyük beden flanel gömlekli, okuma gözlüğü kafasında olan genç bir kadın. Düzenleme yaparken sakin ve düşünceli bir enerji.
+MEKAN: Sessiz bir hafta sonu öğleden sonrasında küçük bir okuma köşesi. Perdelerden süzülen sıcak ışık, yarı boş bir kitaplık, yerde kitap yığınları.
+SENARYO TASLAĞI:
+→ (2sn, sabit orta çekim) Kamerayı yan sehpaya yerleştirir, kitaplığın yakınına oturur. "Sonunda kitaplarımı renge göre düzenliyorum."
+→ (2sn, tepeden çekim) Kitapları raftan indirir, yığınlar halinde sıralar.
+→ (2sn, yakın çekim) Boş rafın tozunu bir bezle siler.
+→ (2sn, el tipi çekim) Eski bir kitabın sayfalarını çevirir, bir sayfada duraksar. "Buna sahip olduğumu bile unutmuşum."
+→ (2sn, detay çekim) Kitapları renge göre düzenler, yerlerine kaydırır. Diyalog yok.
+→ (2sn, orta çekim) Rafa küçük bir bitki ve mum ekler. "Sadece biraz dekorasyona ihtiyacı var."
+→ (2sn, makro çekim) Kitap sırtlarını düzeltir, hizalamak için tıklar.
+→ (2sn, sabit çekim) Düzenlemeyi uzaktan kontrol etmek için geri çekilir.
+→ (2sn, sıcak kapanış çekimi) Bitmiş rafı hayranlıkla izler, mutlu bir gülümseme. "Çok daha iyi oldu."
+→ (1.5sn, final çekimi) Kameraya doğru uzanır. "Yakında görüşürüz." Kayıt biterken el lensi kapatır.
+SES NOTLARI: Sayfa çevirme, toz silme ve kitap kaydırma gibi doğal ortam sesleri net bir şekilde duyulmalıdır. Diyaloglar kısık sesli ve gündelik olmalıdır.
+GERÇEKÇİLİK NOTLARI: Otantik vücut dili, doğal göz kırpma, samimi gülümsemeler, ara sıra düşünme duraksamaları, kusurlu kadraj, odak nefes alıp verişleri, sıcak öğleden sonra ışığı değişimleri. Ticari bir prodüksiyon gibi değil, tüketici tipi bir kamerayla çekilmiş gerçek bir kişisel düzenleme vlog'u gibi görünmelidir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077761124582543360/img/NROUVc0jpf1UZ9LZ.jpg" width="600" alt="Huzurlu Kitaplık Düzenleme Vlog'u">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2077761335585280363)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2077761335585280363) | **Yayınlandı:** Jul 16, 2026
+
+---
+### Çöl Kanyonu FPV Drone Tanıtımı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Engebeli çöl kanyonlarında geçen yüksek hızlı sinematik FPV drone sekansı ve güneşli bir platoda gerçekleşen çarpıcı ürün tanıtımı.
+
+#### 📝 İstem
+
+```
+{
+  "description": "Şafak vaktinde dramatik çöl kayalıklarının çok üzerinde başlayan yüksek hızlı sinematik FPV drone çekimi. Drone, engebeli kayalık kanyonlara dik bir dalış yaparak kum tepelerinin üzerinden süzülüyor ve devasa kırmızı taş duvarların arasından hızla geçiyor. Drone hızlandıkça rüzgar toz bulutlarını havalandırıyor; doğal kaya kemiklerinin ve güneşli sırtların arasından kıl payı geçiyor. Orta kısımda, drone geniş ve açık bir çöl platosuna çıktıkça hareket yavaşlıyor ve engebeli bir taş levha üzerinde duran, sabah ışığında yoğunlaşmış damlacıkları parlayan buz gibi bir Red Bull kutusu ortaya çıkıyor. Metin yok.",
+  "style": "sinematik, hiper gerçekçi ekstrem spor reklamı",
+  "camera": "agresif yüksek hızlı kanyon geçişli birinci şahıs FPV drone perspektifi, yumuşak ve kontrollü yavaş sinematik tanıtıma geçiş",
+  "lighting": "sıcak vurgulara sahip erken gün doğumu ışığı, kaya oluşumları üzerinde güçlü kenar aydınlatması, yüksek kontrastlı gölgeler; Red Bull kutusu üzerinde keskin yansımalar ve yoğunlaşma vurguları",
+  "environment": "kırmızı kaya uçurumları, dar kanyonlar, kum tepeleri, rüzgarla savrulan tozlar ve açık bir plato düzlüğü içeren geniş çöl manzarası",
+  "motion": "keskin dalışlar, yakın kanyon geçişleri ve sert dönüşlerle çok hızlı hava hareketi; final tanıtımı için yavaş çekime ve pürüzsüz stabilizasyona kademeli geçiş",
+  "ending": "açık çöl platosunda güçlü ve sessiz bir an; kamera yavaşça yörüngesinde dönüp yakınlaşırken taş levhanın merkezinde duran Red Bull kutusu; enerji, tazelik ve etki vurgulanıyor",
+  "aspect_ratio": "16:9",
+  "duration": "10 saniye",
+  "text": "yok",
+  "keywords": [
+    "FPV drone",
+    "ultra hızlı sinematik hareket",
+    "çöl kanyonu geçişi",
+    "hiper gerçekçi ürün tanıtımı",
+    "enerji içeceği reklamı",
+    "yavaş çekim final",
+    "metin yok"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077736758104723456/img/Czy7V5pZUnqzGTlz.jpg" width="600" alt="Çöl Kanyonu FPV Drone Tanıtımı">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2077736805416505855)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2077736805416505855) | **Yayınlandı:** Jul 16, 2026
+
+---
 ### Chanel Lüks Otel Video Dönüşümü
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2778,102 +2909,13 @@ Yüksek hızlı FPV drone görüntüleri. Tam birinci şahıs bakış açısı (
 **Yazar:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Yayınlandı:** May 27, 2026
 
 ---
-### Orta Dünya Sanal Tur Haritası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yüklenen bir harita görseli ve yön işaretçileri temel alınarak, Orta Dünya konumlarında at sırtında POV (birinci şahıs bakış açısı) sanal tur oluşturmaya yarayan bir komut.
-
-#### 📝 İstem
-
-```
-Ekli haritadaki okun konumunu ve yönünü analiz et. Kırmızı oku kaldır. O yerdeki en önemli 2 konumu gösteren bir sanal tur rehberi videosu oluştur.
-
-POV: Kahverengi bir atın üzerindeyiz.
-
-Gerçekçi ve ham bir 'found footage' (buluntu görüntü) tarzı.
-
-[İSTEĞE BAĞLI] (ırk: elfler, orklar, hobbitler...) günlük işlerini yapıyorlar
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="Orta Dünya Sanal Tur Haritası">
-
-**[🎬 Videoyu izle →](https://x.com/techhalla/status/2059724218158166537)**
-
-**Yazar:** [TechHalla](https://x.com/techhalla) | **Kaynak:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Yayınlandı:** May 27, 2026
-
----
-### İzometrik Spor Araba Montajı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mat bir araba iskeletini izometrik kamera açıları kullanarak parlak kırmızı bir spor arabaya dönüştüren bir montaj animasyonu istemi.
-
-#### 📝 İstem
-
-```
-Sağlanan 2 referans görseli başlangıç ve bitiş noktası olarak kullanarak, bir spor arabanın parça parça hızlı montajını gösteren 10 saniyelik, yüksek tempolu bir video oluşturun
-- dört tekerleğin yuvarlanarak yerlerine gelmesiyle başlayın
-- metal çubuklar ve süspansiyonlar hızla aralarına yerleşsin
-- motor bloğu yerine otursun
-- dış gövde panelleri her yönden uçarak iskeletin üzerine kenetlensin
-- mat astar boyayı parlak kırmızı renge dönüştürün
-
-kamera açısını kesinlikle 3/4 izometrik çekim olarak koruyun
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="İzometrik Spor Araba Montajı">
-
-**[🎬 Videoyu izle →](https://x.com/HarshithLucky3/status/2059713624885891271)**
-
-**Yazar:** [Harshith](https://x.com/HarshithLucky3) | **Kaynak:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Yayınlandı:** May 27, 2026
-
----
-### Showa Dönemi Alışveriş Caddesi Atmosferi
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Showa dönemine ait bir Japon alışveriş bölgesinin hareketli ve nostaljik atmosferini, canlı kalabalık sesleriyle yansıtan bir komut.
-
-#### 📝 İstem
-
-```
-Showa dönemi alışveriş caddesi, hareketli, Japonca, canlı
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f1302cf8af26a69a4f9b58f8697401/thumbnails/thumbnail.jpg" width="600" alt="Showa Dönemi Alışveriş Caddesi Atmosferi">
-
-**[🎬 Videoyu izle →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
-
-**Yazar:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **Kaynak:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **Yayınlandı:** May 27, 2026
-
----
-### Misty Twilight City Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video generation featuring a city street at twilight, characterized by misty atmosphere and a movie-like aesthetic.
-
-#### 📝 İstem
-
-```
-Lost in the misty twilight of the city where every street corner feels like a scene from a movie.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a72a0bdd4880238a0f370ac74ee5193d/thumbnails/thumbnail.jpg" width="600" alt="Misty Twilight City Scene">
-
-**[🎬 Videoyu izle →](https://x.com/ai_with_shah/status/2059622418839486786)**
-
-**Yazar:** [Shah](https://x.com/ai_with_shah) | **Kaynak:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **Yayınlandı:** May 27, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 12 burada gösterilmeyen daha fazla istem
+### 🎯 16 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2919,6 +2961,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-17T06:14:05.009Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-17T09:56:04.168Z</sub>
 
 </div>

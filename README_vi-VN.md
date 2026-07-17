@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **112** |
+| 📝 Tổng số prompt | **116** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-17** |
 
@@ -56,6 +56,137 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hoạt ảnh Logo 3D
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo hoạt ảnh cho Gemini Omni để tạo hiệu ứng 3D pop-in cho logo trên nền màn hình xanh.
+
+#### 📝 Prompt
+
+```
+Tạo hiệu ứng logo (tham chiếu) xuất hiện ấn tượng trên nền màn hình xanh. Đặt ở chính giữa khung hình. Logo xuất hiện bất ngờ, các thành phần ghép lại với nhau rồi lơ lửng tại chỗ. Hiệu ứng 3D cực chất.
+```
+
+<img src="https://pbs.twimg.com/media/HNYa_xmWgAAoWAE.jpg" width="600" alt="Hoạt ảnh Logo 3D">
+
+**[🎬 Xem video →](https://x.com/chrisfirst/status/2077877168730706019)**
+
+**Tác giả:** [CHRIS FIRST](https://x.com/chrisfirst) | **Nguồn:** [Link](https://x.com/chrisfirst/status/2077877168730706019) | **Đã xuất bản:** Jul 16, 2026
+
+---
+### Bảo tồn danh tính trong cảnh phi nước đại của ngựa Iceland
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chất lượng cao cho phân cảnh cưỡi ngựa tại Iceland, tập trung vào việc bảo tồn danh tính của hình ảnh tham chiếu xuyên suốt các chuyển động máy quay phức tạp.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh tham chiếu nam giới được đính kèm làm tham chiếu danh tính DUY NHẤT cho nhân vật chính.
+
+Duy trì danh tính khuôn mặt hoàn hảo ngay cả trong các cảnh phi nước đại tốc độ cao, cảnh quay bằng drone, góc quay nghiêng và các bố cục điện ảnh góc rộng.
+
+Thời lượng: 10 giây.
+
+Khung hình mở đầu ngay lập tức cho thấy nhân vật đang phi nước đại với tốc độ tối đa băng qua một thung lũng rộng lớn tại Iceland trên một chú ngựa đen dũng mãnh. Chú ngựa tung vó qua một con sông nông, leo lên sườn đồi đầy cỏ mà không hề giảm tốc độ, sau đó chạy dọc theo mép vách đá nhìn xuống những thác nước và những dãy núi bất tận.
+
+Sản xuất theo phong cách điện ảnh IMAX 65mm chân thực. Ánh sáng điện ảnh cao cấp. Hoạt ảnh ngựa siêu thực. Chi tiết môi trường đạt chuẩn Hollywood.
+
+Máy quay:
+Tracking gắn trên ngựa → tracking ngang → FPV drone đuổi theo → cảnh quay từ trên không đầy ấn tượng.
+
+Nhạc nền:
+Dàn nhạc Celtic hùng tráng, kèn Pháp, hợp xướng, trống taiko, tiếng đàn dây đầy cảm xúc.
+
+Âm thanh môi trường:
+Tiếng vó ngựa phi, tiếng nước sông bắn tung tóe, tiếng chuyển động của yên da, tiếng gió, tiếng thác nước từ xa, tiếng chim hót.
+
+Không có lời thoại.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077790013799206912/img/JiItvZPzotkWNxrm.jpg" width="600" alt="Bảo tồn danh tính trong cảnh phi nước đại của ngựa Iceland">
+
+**[🎬 Xem video →](https://x.com/vireonixx/status/2077790049618547067)**
+
+**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **Đã xuất bản:** Jul 16, 2026
+
+---
+### Vlog sắp xếp kệ sách ấm cúng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video chi tiết cho vlog mang phong cách máy quay mini DV cầm tay, ghi lại cảnh một cô gái trẻ sắp xếp sách với âm thanh ASMR thỏa mãn và ánh sáng tự nhiên.
+
+#### 📝 Prompt
+
+```
+GÓC MÁY / HÌNH ẢNH: Cảnh quay từ máy quay mini DV cầm tay do chính nhân vật tự quay. Có độ rung nhẹ, thỉnh thoảng lấy nét lại, khung hình không hoàn hảo, thao tác zoom tự nhiên, chất lượng hình ảnh mềm mại như băng từ, hạt nhiễu tinh tế, độ phơi sáng tự động thay đổi chân thực theo ánh sáng chiều ấm áp. Tông màu da tự nhiên, nhòe chuyển động nhẹ, mang đậm chất thẩm mỹ của máy quay gia đình.
+PHONG CÁCH: Vlog sắp xếp kệ sách ấm cúng với các yếu tố ASMR nhẹ nhàng. Nhịp độ thư thái, tối giản lời thoại, các khoảnh khắc tự nhiên. Tập trung vào những âm thanh thỏa mãn: tiếng lật trang, tiếng gáy sách chạm vào nhau, tiếng lau bụi, tiếng kệ gỗ dịch chuyển khẽ.
+NHÂN VẬT: Cô gái trẻ khoảng ngoài 20 tuổi, tóc dài gợn sóng, mặc áo sơ mi flannel rộng, đeo kính đọc sách trên đầu. Năng lượng bình tĩnh, trầm tư khi đang sắp xếp lại đồ đạc.
+BỐI CẢNH: Góc đọc sách nhỏ vào một buổi chiều cuối tuần yên tĩnh. Ánh sáng ấm áp xuyên qua rèm cửa, kệ sách còn trống một nửa, những chồng sách đặt trên sàn nhà.
+KỊCH BẢN PHÂN CẢNH:
+→ (2 giây, góc trung đặt máy) Đặt máy quay lên bàn bên cạnh, ngồi gần kệ sách. "Cuối cùng cũng sắp xếp sách theo màu sắc."
+→ (2 giây, góc từ trên xuống) Lấy sách ra khỏi kệ, phân loại thành từng chồng.
+→ (2 giây, cận cảnh) Lau bụi trên kệ trống bằng khăn.
+→ (2 giây, góc cầm tay) Lật xem một cuốn sách cũ, dừng lại ở một trang. "Mình quên mất là mình có cuốn này luôn đấy."
+→ (2 giây, góc chi tiết) Sắp xếp sách theo màu sắc, đẩy chúng vào vị trí. Không có lời thoại.
+→ (2 giây, góc trung) Thêm một chậu cây nhỏ và nến lên kệ. "Chỉ cần trang trí một chút thôi."
+→ (2 giây, góc macro) Chỉnh lại gáy sách cho thẳng hàng, vỗ nhẹ cho đều.
+→ (2 giây, góc đặt máy) Lùi lại để kiểm tra cách sắp xếp từ xa.
+→ (2 giây, cảnh kết ấm áp) Ngắm nhìn kệ sách đã hoàn thiện, mỉm cười hạnh phúc. "Tốt hơn nhiều rồi."
+→ (1,5 giây, cảnh cuối) Đưa tay về phía máy quay. "Hẹn gặp lại nhé." Bàn tay che ống kính khi kết thúc ghi hình.
+LƯU Ý ÂM THANH: Âm thanh tự nhiên của tiếng lật trang, lau bụi, tiếng sách trượt cần phải nghe rõ ràng. Lời thoại nhỏ nhẹ và tự nhiên.
+LƯU Ý VỀ TÍNH CHÂN THỰC: Ngôn ngữ cơ thể chân thực, chớp mắt tự nhiên, nụ cười thật lòng, những khoảng lặng suy nghĩ, khung hình không hoàn hảo, hiệu ứng lấy nét hơi thở, sự thay đổi ánh sáng chiều ấm áp. Video cần giống như một vlog cá nhân chân thực trên máy quay gia đình, không phải sản xuất thương mại.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077761124582543360/img/NROUVc0jpf1UZ9LZ.jpg" width="600" alt="Vlog sắp xếp kệ sách ấm cúng">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2077761335585280363)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2077761335585280363) | **Đã xuất bản:** Jul 16, 2026
+
+---
+### Ra mắt sản phẩm bằng drone FPV tại hẻm núi sa mạc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một phân cảnh drone FPV điện ảnh tốc độ cao băng qua các hẻm núi sa mạc gồ ghề, kết thúc bằng màn ra mắt sản phẩm ấn tượng trên cao nguyên đầy nắng.
+
+#### 📝 Prompt
+
+```
+{
+  "description": "Một cú máy drone FPV điện ảnh tốc độ cao bắt đầu từ trên cao phía trên những vách đá sa mạc hùng vĩ vào lúc bình minh. Drone lao dốc mạnh vào các hẻm núi đá gồ ghề, lướt qua những đụn cát và băng nhanh giữa các bức tường đá đỏ khổng lồ. Gió cuốn theo những dải bụi khi drone tăng tốc, bay sát qua các vòm đá tự nhiên và những đường sườn núi đầy nắng. Ở giữa chặng, chuyển động chậm dần khi drone bay vút ra một cao nguyên sa mạc rộng mở, để lộ một lon Red Bull lạnh giá đang đặt trên phiến đá gồ ghề, những giọt nước đọng trên lon hiện rõ và lấp lánh dưới ánh sáng buổi sáng. Không có văn bản.",
+  "style": "điện ảnh, quảng cáo thể thao mạo hiểm siêu thực",
+  "camera": "góc nhìn drone FPV thứ nhất với cảnh bay xuyên hẻm núi tốc độ cao đầy kịch tính, chuyển tiếp sang cảnh quay chậm mượt mà, có kiểm soát để làm nổi bật sản phẩm",
+  "lighting": "ánh sáng bình minh sớm với các điểm nhấn ấm áp, ánh sáng viền mạnh trên các khối đá, độ tương phản bóng đổ cao; phản chiếu sắc nét và điểm nhấn từ hơi nước đọng trên lon Red Bull",
+  "environment": "phong cảnh hẻm núi sa mạc rộng lớn với các vách đá đỏ, hẻm núi hẹp, đụn cát, bụi bay trong gió và một khoảng cao nguyên trống trải",
+  "motion": "chuyển động trên không rất nhanh với những cú lao dốc sắc nét, bay sát hẻm núi và những khúc cua gấp; chuyển dần sang chuyển động chậm và ổn định mượt mà cho cảnh kết thúc",
+  "ending": "một khoảnh khắc mạnh mẽ, tĩnh lặng trên cao nguyên sa mạc; lon Red Bull nằm chính giữa phiến đá khi camera nhẹ nhàng xoay quanh và tiến lại gần, nhấn mạnh vào năng lượng, sự tươi mát và tác động mạnh mẽ",
+  "aspect_ratio": "16:9",
+  "duration": "10 giây",
+  "text": "không có",
+  "keywords": [
+    "drone FPV",
+    "chuyển động điện ảnh siêu tốc",
+    "bay xuyên hẻm núi sa mạc",
+    "ra mắt sản phẩm siêu thực",
+    "quảng cáo nước tăng lực",
+    "kết thúc bằng chuyển động chậm",
+    "không có văn bản"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077736758104723456/img/Czy7V5pZUnqzGTlz.jpg" width="600" alt="Ra mắt sản phẩm bằng drone FPV tại hẻm núi sa mạc">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2077736805416505855)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2077736805416505855) | **Đã xuất bản:** Jul 16, 2026
+
+---
 ### Chuyển đổi video khách sạn sang trọng của Chanel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2780,102 +2911,13 @@ Thước phim FPV drone tốc độ cao. Góc nhìn thứ nhất hoàn chỉnh (
 **Tác giả:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Đã xuất bản:** May 27, 2026
 
 ---
-### Bản đồ tham quan ảo Middle Earth
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) để tạo video tham quan ảo góc nhìn thứ nhất (POV) khi cưỡi ngựa qua các địa điểm tại Middle Earth dựa trên hình ảnh bản đồ được tải lên với các điểm chỉ hướng.
-
-#### 📝 Prompt
-
-```
-Hãy phân tích vị trí và hướng của mũi tên trên bản đồ đính kèm. Loại bỏ mũi tên màu đỏ. Tạo một video hướng dẫn tham quan ảo hiển thị 2 địa điểm quan trọng nhất tại nơi đó.
-
-POV: chúng ta đang cưỡi một con ngựa màu nâu.
-
-Phong cách thước phim tư liệu (found footage) chân thực và gai góc.
-
-[TÙY CHỌN] (chủng tộc: tiên, orc, hobbit...) đang thực hiện các hoạt động thường ngày
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="Bản đồ tham quan ảo Middle Earth">
-
-**[🎬 Xem video →](https://x.com/techhalla/status/2059724218158166537)**
-
-**Tác giả:** [TechHalla](https://x.com/techhalla) | **Nguồn:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Đã xuất bản:** May 27, 2026
-
----
-### Lắp ráp xe thể thao dạng Isometric
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt tạo hoạt ảnh lắp ráp biến khung xe sơn lót thành chiếc xe thể thao màu đỏ bóng bẩy bằng góc máy isometric.
-
-#### 📝 Prompt
-
-```
-Tạo một video nhịp độ nhanh, tràn đầy năng lượng dài 10 giây mô tả quá trình lắp ráp từng mảnh một cách nhanh chóng của một chiếc xe thể thao, sử dụng 2 hình ảnh tham chiếu được cung cấp làm điểm bắt đầu và kết thúc
-- bắt đầu với bốn bánh xe lăn vào vị trí
-- các thanh kim loại và hệ thống treo nhanh chóng khớp vào vị trí giữa các bánh xe
-- khối động cơ hạ xuống
-- các tấm thân xe bay từ mọi phía và khớp vào khung
-- chuyển đổi từ lớp sơn lót mờ sang lớp sơn đỏ bóng bẩy
-
-giữ góc máy nghiêm ngặt ở góc nhìn isometric 3/4
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="Lắp ráp xe thể thao dạng Isometric">
-
-**[🎬 Xem video →](https://x.com/HarshithLucky3/status/2059713624885891271)**
-
-**Tác giả:** [Harshith](https://x.com/HarshithLucky3) | **Nguồn:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Đã xuất bản:** May 27, 2026
-
----
-### Không khí khu phố mua sắm thời Showa
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh (prompt) tái hiện bầu không khí nhộn nhịp và đầy hoài niệm của một khu phố mua sắm Nhật Bản thời Showa với âm thanh đám đông sống động.
-
-#### 📝 Prompt
-
-```
-Khu phố mua sắm thời Showa, nhộn nhịp, tiếng Nhật, sống động
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f1302cf8af26a69a4f9b58f8697401/thumbnails/thumbnail.jpg" width="600" alt="Không khí khu phố mua sắm thời Showa">
-
-**[🎬 Xem video →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
-
-**Tác giả:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **Nguồn:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **Đã xuất bản:** May 27, 2026
-
----
-### Misty Twilight City Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video generation featuring a city street at twilight, characterized by misty atmosphere and a movie-like aesthetic.
-
-#### 📝 Prompt
-
-```
-Lost in the misty twilight of the city where every street corner feels like a scene from a movie.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a72a0bdd4880238a0f370ac74ee5193d/thumbnails/thumbnail.jpg" width="600" alt="Misty Twilight City Scene">
-
-**[🎬 Xem video →](https://x.com/ai_with_shah/status/2059622418839486786)**
-
-**Tác giả:** [Shah](https://x.com/ai_with_shah) | **Nguồn:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **Đã xuất bản:** May 27, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 12 prompt khác không hiển thị ở đây
+### 🎯 16 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2921,6 +2963,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-17T06:13:56.406Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-17T09:55:58.635Z</sub>
 
 </div>

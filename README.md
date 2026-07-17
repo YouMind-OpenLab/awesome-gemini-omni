@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **112** |
+| 📝 Total Prompts | **116** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-17** |
 
@@ -56,6 +56,137 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### 3D Logo Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An animation prompt for Gemini Omni to create a 3D pop-in effect for a logo on a green screen background.
+
+#### 📝 Prompt
+
+```
+Have (Reference) logo pop in cool on a green screen background. Center of frame. It pops in from nowhere and comes together then hovers in place. Cool 3D effect.
+```
+
+<img src="https://pbs.twimg.com/media/HNYa_xmWgAAoWAE.jpg" width="600" alt="3D Logo Animation">
+
+**[🎬 Watch Video →](https://x.com/chrisfirst/status/2077877168730706019)**
+
+**Author:** [CHRIS FIRST](https://x.com/chrisfirst) | **Source:** [Link](https://x.com/chrisfirst/status/2077877168730706019) | **Published:** Jul 16, 2026
+
+---
+### Icelandic Horse Gallop Identity Preservation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-production cinematic prompt for a horse-riding sequence in Iceland, focusing on preserving the identity of a reference image across complex camera movements.
+
+#### 📝 Prompt
+
+```
+Use the attached male reference image as the ONLY identity reference for the main character.
+
+Maintain perfect facial identity even during fast galloping, drone shots, side angles, and wide cinematic compositions.
+
+Duration: 10 seconds.
+
+The opening frame immediately shows the character already galloping at full speed across an enormous Icelandic valley on a powerful black horse. The horse splashes through a shallow river, climbs a grassy ridge without slowing, then races along the cliff edge overlooking waterfalls and endless mountains.
+
+Photorealistic IMAX 65mm production. Premium cinematic lighting. Hyper-realistic horse animation. Hollywood-grade environmental detail.
+
+Camera:
+Horse-mounted tracking → side tracking → FPV drone chase → epic aerial reveal.
+
+Background Music:
+Epic Celtic orchestra, French horns, choir, taiko drums, emotional strings.
+
+Environmental Sound:
+Galloping hooves, river splashes, leather saddle movement, wind, distant waterfalls, birds.
+
+No dialogue.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077790013799206912/img/JiItvZPzotkWNxrm.jpg" width="600" alt="Icelandic Horse Gallop Identity Preservation">
+
+**[🎬 Watch Video →](https://x.com/vireonixx/status/2077790049618547067)**
+
+**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **Published:** Jul 16, 2026
+
+---
+### Cozy Bookshelf Organizing Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for a handheld mini DV camcorder aesthetic vlog featuring a young woman organizing books with satisfying ASMR sounds and natural lighting.
+
+#### 📝 Prompt
+
+```
+CAMERA / LOOK: Handheld mini DV camcorder footage filmed by the subject herself. Slight hand shake, occasional focus hunting, imperfect framing, natural zoom adjustments, soft tape-like image quality, subtle grain, realistic auto-exposure shifts from warm afternoon light. Natural skin tones, mild motion blur, authentic consumer camcorder aesthetic.
+STYLE: Cozy bookshelf-organizing vlog with gentle ASMR elements. Relaxed pacing, minimal dialogue, candid moments. Focus on satisfying sounds: pages flipping, book spines tapping, dust cloth wiping, soft shelf shifting.
+SUBJECT: Young woman in her early 20s, long wavy hair, oversized flannel shirt, reading glasses pushed up on her head. Calm, thoughtful energy while reorganizing.
+SETTING: Small reading nook on a quiet weekend afternoon. Warm light through curtains, a half-empty bookshelf, stacks of books on the floor.
+STORYBOARD:
+→ (2s, propped medium shot) Places camera on a side table, sits near the bookshelf. "Finally organizing my books by color."
+→ (2s, overhead shot) Pulls books off the shelf, sorts them into stacks.
+→ (2s, close-up) Wipes dust off the empty shelf with a cloth.
+→ (2s, handheld shot) Flips through an old book, pausing on a page. "I forgot I even owned this one."
+→ (2s, detail shot) Arranges books by color, sliding them into place. No dialogue.
+→ (2s, medium shot) Adds a small plant and candle to the shelf. "Just needs a little decoration."
+→ (2s, macro shot) Straightens book spines, taps them even.
+→ (2s, propped shot) Steps back to check the arrangement from a distance.
+→ (2s, warm ending shot) Admires the finished shelf, happy smile. "So much better."
+→ (1.5s, final shot) Reaches toward camera. "See you soon." Hand covers lens as recording ends.
+AUDIO NOTES: Natural ambience page flipping, dust wiping, book sliding should be clearly audible. Dialogue quiet and casual.
+REALISM NOTES: Authentic body language, natural blinking, genuine smiles, occasional thinking pauses, imperfect framing, focus breathing, warm afternoon light shifts. Should resemble a genuine personal organizing vlog on a consumer camcorder, not a commercial production.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077761124582543360/img/NROUVc0jpf1UZ9LZ.jpg" width="600" alt="Cozy Bookshelf Organizing Vlog">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2077761335585280363)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2077761335585280363) | **Published:** Jul 16, 2026
+
+---
+### Desert Canyon FPV Drone Reveal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-speed cinematic FPV drone sequence through rugged desert canyons ending in a sharp product reveal on a sunlit plateau.
+
+#### 📝 Prompt
+
+```
+{
+  "description": "A high-speed cinematic FPV drone shot begins far above dramatic desert cliffs at early dawn. The drone dives steeply into rugged rocky canyons, skimming over sand dunes and racing between massive red stone walls. Wind lifts trails of dust as the drone accelerates, narrowly passing through natural rock arches and sunlit ridgelines. Midway, the motion gradually slows as the drone bursts out onto a wide open desert plateau, revealing a single ice-cold Red Bull can standing on a rugged stone slab, condensation visible and sparkling in the morning light. No text.",
+  "style": "cinematic, hyper-realistic extreme sports commercial",
+  "camera": "first-person FPV drone perspective with aggressive high-speed canyon flythrough, transitioning into a smooth, controlled slow cinematic reveal",
+  "lighting": "early sunrise light with warm highlights, strong rim lighting on rock formations, high contrast shadows; crisp reflections and condensation highlights on the Red Bull can",
+  "environment": "vast desert canyon landscape featuring red rock cliffs, narrow canyons, sand dunes, wind-blown dust, and an open plateau clearing",
+  "motion": "very fast aerial movement with sharp dives, close canyon passes, and tight turns; gradually transitions into slow motion and smooth stabilization for the final reveal",
+  "ending": "a powerful, quiet moment on the open desert plateau; the Red Bull can centered on the stone slab as the camera gently orbits and pushes in, emphasizing energy, freshness, and impact",
+  "aspect_ratio": "16:9",
+  "duration": "10 seconds",
+  "text": "none",
+  "keywords": [
+    "FPV drone",
+    "ultra fast cinematic motion",
+    "desert canyon flythrough",
+    "hyper-realistic product reveal",
+    "energy drink commercial",
+    "slow motion ending",
+    "no text"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077736758104723456/img/Czy7V5pZUnqzGTlz.jpg" width="600" alt="Desert Canyon FPV Drone Reveal">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2077736805416505855)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2077736805416505855) | **Published:** Jul 16, 2026
+
+---
 ### Chanel Luxury Hotel Video Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2780,102 +2911,13 @@ High-speed FPV drone footage. Complete first-person view (pure FPV POV). The foo
 **Author:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Published:** May 27, 2026
 
 ---
-### Middle Earth Virtual Tour Map
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt to generate a POV horse-riding virtual tour of Middle Earth locations based on an uploaded map image with direction markers.
-
-#### 📝 Prompt
-
-```
-Analyze the location and direction of the arrow on the attached map. remove the red arrow. Create a virtual tour guide video showing the 2 most important locations on that place.
-
-POV: we were riding a brown horse.
-
-Real gritty found footage.
-
-[OPTIONAL] (race: elfs, orcs, hobbits...) doing everyday stuff
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="Middle Earth Virtual Tour Map">
-
-**[🎬 Watch Video →](https://x.com/techhalla/status/2059724218158166537)**
-
-**Author:** [TechHalla](https://x.com/techhalla) | **Source:** [Link](https://x.com/techhalla/status/2059724218158166537) | **Published:** May 27, 2026
-
----
-### Sports Car Isometric Assembly
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An assembly animation prompt that transforms a matte car frame into a finished glossy red sports car using isometric camera angles.
-
-#### 📝 Prompt
-
-```
-Create a fast-paced high-energy 10 sec video showing the rapid, piece-by-piece assembly of a sports car, using the provided 2 reference images as start to end points
--  start with the four wheels rolling into position
-- metallic rods and suspension quickly snaps into place b/w them
-- engine block drops
-- external body panels fly from all sides and snaps onto the frame 
-- transform matte primer into glossy red paint
-
-keep the camera angle strictly as a 3/4 isometric shot
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="Sports Car Isometric Assembly">
-
-**[🎬 Watch Video →](https://x.com/HarshithLucky3/status/2059713624885891271)**
-
-**Author:** [Harshith](https://x.com/HarshithLucky3) | **Source:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **Published:** May 27, 2026
-
----
-### Showa Era Shopping Street Atmosphere
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A prompt capturing the bustling and nostalgic atmosphere of a Japanese shopping district from the Showa era with lively crowd sounds.
-
-#### 📝 Prompt
-
-```
-Showa era shopping street, bustling, Japanese language, lively
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f1302cf8af26a69a4f9b58f8697401/thumbnails/thumbnail.jpg" width="600" alt="Showa Era Shopping Street Atmosphere">
-
-**[🎬 Watch Video →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
-
-**Author:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **Source:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **Published:** May 27, 2026
-
----
-### Misty Twilight City Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video generation featuring a city street at twilight, characterized by misty atmosphere and a movie-like aesthetic.
-
-#### 📝 Prompt
-
-```
-Lost in the misty twilight of the city where every street corner feels like a scene from a movie.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a72a0bdd4880238a0f370ac74ee5193d/thumbnails/thumbnail.jpg" width="600" alt="Misty Twilight City Scene">
-
-**[🎬 Watch Video →](https://x.com/ai_with_shah/status/2059622418839486786)**
-
-**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **Published:** May 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 12 more prompts not shown here
+### 🎯 16 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2921,6 +2963,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-17T06:13:50.949Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-17T09:55:54.019Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **112** |
+| 📝 총 프롬프트 수 | **116** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-17** |
 
@@ -56,6 +56,137 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 3D 로고 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni를 사용하여 그린 스크린 배경에 3D 팝인 효과의 로고를 생성하기 위한 애니메이션 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+(참조) 로고가 그린 스크린 배경 위에서 멋지게 팝인(pop-in) 되도록 설정하세요. 프레임 중앙에 위치해야 합니다. 로고가 갑자기 나타나서 하나로 합쳐진 뒤 제자리에 떠 있도록 하세요. 멋진 3D 효과를 적용해 주세요.
+```
+
+<img src="https://pbs.twimg.com/media/HNYa_xmWgAAoWAE.jpg" width="600" alt="3D 로고 애니메이션">
+
+**[🎬 비디오 보기 →](https://x.com/chrisfirst/status/2077877168730706019)**
+
+**작성자:** [CHRIS FIRST](https://x.com/chrisfirst) | **출처:** [Link](https://x.com/chrisfirst/status/2077877168730706019) | **게시일:** Jul 16, 2026
+
+---
+### 아이슬란드 말 질주 장면의 인물 정체성 유지
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 복잡한 카메라 움직임 속에서도 참조 이미지의 인물 정체성을 완벽하게 유지하며 아이슬란드 승마 장면을 구현하기 위한 고품질 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+첨부된 남성 참조 이미지를 주인공의 유일한 정체성 참조 자료로 사용하십시오.
+
+빠른 질주, 드론 샷, 측면 앵글, 와이드 시네마틱 구도에서도 얼굴 정체성을 완벽하게 유지하십시오.
+
+영상 길이: 10초.
+
+첫 프레임부터 주인공이 거대한 아이슬란드 계곡을 가로질러 검은 말을 타고 전속력으로 질주하는 모습을 보여주십시오. 말은 얕은 강물을 튀기며 건너고, 속도를 줄이지 않은 채 풀이 무성한 능선을 오르며, 폭포와 끝없이 펼쳐진 산맥이 내려다보이는 절벽 가장자리를 따라 질주합니다.
+
+포토리얼리스틱 IMAX 65mm 프로덕션. 프리미엄 시네마틱 조명. 초현실적인 말 애니메이션. 할리우드급 환경 디테일.
+
+카메라:
+말 탑재 트래킹 → 측면 트래킹 → FPV 드론 추격 → 웅장한 항공 뷰.
+
+배경 음악:
+웅장한 켈틱 오케스트라, 프렌치 호른, 합창단, 타이코 드럼, 감성적인 현악기.
+
+환경음:
+말발굽 소리, 강물 튀는 소리, 가죽 안장 움직임, 바람 소리, 멀리서 들리는 폭포 소리, 새소리.
+
+대사 없음.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077790013799206912/img/JiItvZPzotkWNxrm.jpg" width="600" alt="아이슬란드 말 질주 장면의 인물 정체성 유지">
+
+**[🎬 비디오 보기 →](https://x.com/vireonixx/status/2077790049618547067)**
+
+**작성자:** [Virena](https://x.com/vireonixx) | **출처:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **게시일:** Jul 16, 2026
+
+---
+### 아늑한 책장 정리 브이로그
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 만족스러운 ASMR 사운드와 자연광 속에서 책을 정리하는 젊은 여성의 모습을 담은, 핸드헬드 미니 DV 캠코더 감성의 브이로그용 상세 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+카메라 / 룩: 피사체가 직접 촬영한 핸드헬드 미니 DV 캠코더 영상. 약간의 손떨림, 간헐적인 초점 이동, 불완전한 구도, 자연스러운 줌 조절, 부드러운 테이프 질감의 화질, 은은한 노이즈, 따뜻한 오후 햇살에 따른 현실적인 자동 노출 변화. 자연스러운 피부 톤, 가벼운 모션 블러, 정통 소비자용 캠코더 감성.
+스타일: 부드러운 ASMR 요소가 포함된 아늑한 책장 정리 브이로그. 여유로운 호흡, 최소한의 대화, 꾸밈없는 순간들. 책장 넘기는 소리, 책등을 톡톡 치는 소리, 먼지를 닦아내는 소리, 선반을 옮기는 부드러운 소리 등 만족스러운 사운드에 집중.
+피사체: 20대 초반의 여성, 긴 웨이브 머리, 오버사이즈 플란넬 셔츠, 머리 위로 올린 독서용 안경. 책을 정리하는 동안 차분하고 사색적인 분위기.
+배경: 조용한 주말 오후의 작은 독서 공간. 커튼 사이로 들어오는 따뜻한 햇살, 반쯤 비어 있는 책장, 바닥에 쌓인 책들.
+스토리보드:
+→ (2초, 거치된 미디엄 샷) 사이드 테이블에 카메라를 놓고 책장 근처에 앉는다. "드디어 책을 색깔별로 정리해."
+→ (2초, 오버헤드 샷) 책장에서 책을 꺼내 더미별로 분류한다.
+→ (2초, 클로즈업) 천으로 빈 선반의 먼지를 닦아낸다.
+→ (2초, 핸드헬드 샷) 오래된 책을 넘겨보다가 한 페이지에서 멈춘다. "이 책 가지고 있었는지도 잊고 있었네."
+→ (2초, 디테일 샷) 책을 색깔별로 정리하여 제자리에 밀어 넣는다. 대사 없음.
+→ (2초, 미디엄 샷) 선반에 작은 식물과 양초를 놓는다. "약간의 장식이 필요해."
+→ (2초, 매크로 샷) 책등을 가지런히 정리하고 톡톡 쳐서 맞춘다.
+→ (2초, 거치된 샷) 뒤로 물러나 멀리서 정리된 모습을 확인한다.
+→ (2초, 따뜻한 엔딩 샷) 완성된 책장을 감상하며 행복하게 미소 짓는다. "훨씬 낫네."
+→ (1.5초, 마지막 샷) 카메라를 향해 손을 뻗는다. "곧 다시 봐." 손으로 렌즈를 가리며 녹화 종료.
+오디오 노트: 책장 넘기는 소리, 먼지 닦는 소리, 책 밀어 넣는 소리 등 자연스러운 주변 소리가 선명하게 들려야 함. 대사는 작고 일상적인 톤으로.
+리얼리즘 노트: 자연스러운 바디 랭귀지, 자연스러운 눈 깜빡임, 진심 어린 미소, 간헐적인 생각하는 멈춤, 불완전한 구도, 포커스 브리딩, 따뜻한 오후 햇살의 변화. 상업적인 영상이 아닌, 소비자용 캠코더로 촬영한 개인적인 정리 브이로그처럼 보여야 함.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077761124582543360/img/NROUVc0jpf1UZ9LZ.jpg" width="600" alt="아늑한 책장 정리 브이로그">
+
+**[🎬 비디오 보기 →](https://x.com/Strength04_X/status/2077761335585280363)**
+
+**작성자:** [𝐌](https://x.com/Strength04_X) | **출처:** [Link](https://x.com/Strength04_X/status/2077761335585280363) | **게시일:** Jul 16, 2026
+
+---
+### 사막 협곡 FPV 드론 제품 공개
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 거친 사막 협곡을 통과하는 고속 시네마틱 FPV 드론 영상으로, 햇살이 내리쬐는 고원에서 제품이 강렬하게 공개됩니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "description": "이른 새벽, 드라마틱한 사막 절벽 위에서 시작되는 고속 시네마틱 FPV 드론 샷입니다. 드론은 가파른 바위 협곡으로 급강하하며 모래 언덕을 스치듯 지나 거대한 붉은 암벽 사이를 질주합니다. 드론이 가속함에 따라 바람이 먼지 꼬리를 일으키고, 자연 암석 아치와 햇살이 비치는 능선을 아슬아슬하게 통과합니다. 중간 지점에서 움직임이 점차 느려지며 드론이 탁 트인 사막 고원으로 빠져나오고, 거친 돌판 위에 놓인 차가운 Red Bull 캔 하나가 아침 햇살을 받아 결로가 선명하게 빛나는 모습이 드러납니다. 텍스트 없음.",
+  "style": "시네마틱, 초현실적 익스트림 스포츠 광고",
+  "camera": "공격적인 고속 협곡 비행을 담은 1인칭 FPV 드론 시점, 부드럽고 절제된 슬로우 시네마틱 공개로 전환",
+  "lighting": "따뜻한 하이라이트가 있는 이른 아침 햇살, 암석 지형의 강렬한 림 라이팅, 높은 대비의 그림자; Red Bull 캔의 선명한 반사와 결로 하이라이트",
+  "environment": "붉은 바위 절벽, 좁은 협곡, 모래 언덕, 바람에 날리는 먼지, 탁 트인 고원이 특징인 광활한 사막 풍경",
+  "motion": "급강하, 근접 협곡 통과, 급회전이 포함된 매우 빠른 항공 이동; 최종 공개를 위해 점차 슬로우 모션 및 부드러운 안정화로 전환",
+  "ending": "탁 트인 사막 고원에서의 강렬하고 고요한 순간; 카메라가 부드럽게 궤도를 돌며 다가가 돌판 중앙의 Red Bull 캔을 강조하여 에너지, 신선함, 임팩트를 전달",
+  "aspect_ratio": "16:9",
+  "duration": "10초",
+  "text": "없음",
+  "keywords": [
+    "FPV 드론",
+    "초고속 시네마틱 모션",
+    "사막 협곡 비행",
+    "초현실적 제품 공개",
+    "에너지 드링크 광고",
+    "슬로우 모션 엔딩",
+    "텍스트 없음"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077736758104723456/img/Czy7V5pZUnqzGTlz.jpg" width="600" alt="사막 협곡 FPV 드론 제품 공개">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2077736805416505855)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2077736805416505855) | **게시일:** Jul 16, 2026
+
+---
 ### Chanel 럭셔리 호텔 영상 변환
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2774,102 +2905,13 @@ photorealistic red yarn
 **작성자:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **출처:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **게시일:** May 27, 2026
 
 ---
-### 중간계 가상 투어 지도
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 업로드된 지도 이미지와 방향 표시를 기반으로 중간계 지역을 말 타고 달리는 POV 가상 투어 영상을 생성하는 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-첨부된 지도에서 화살표의 위치와 방향을 분석하세요. 빨간색 화살표는 제거해 주세요. 해당 지역에서 가장 중요한 장소 2곳을 보여주는 가상 투어 가이드 영상을 제작하세요.
-
-POV: 갈색 말을 타고 달리는 시점.
-
-실제와 같은 거친 파운드 푸티지(found footage) 느낌.
-
-[선택 사항] (종족: 엘프, 오크, 호빗 등) 일상적인 활동을 하는 모습 포함
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="중간계 가상 투어 지도">
-
-**[🎬 비디오 보기 →](https://x.com/techhalla/status/2059724218158166537)**
-
-**작성자:** [TechHalla](https://x.com/techhalla) | **출처:** [Link](https://x.com/techhalla/status/2059724218158166537) | **게시일:** May 27, 2026
-
----
-### 스포츠카 아이소메트릭 조립
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 아이소메트릭 카메라 앵글을 사용하여 무광 자동차 프레임을 광택이 나는 빨간색 스포츠카로 변환하는 조립 애니메이션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-제공된 2개의 참조 이미지를 시작점과 끝점으로 사용하여 스포츠카가 빠르게 조립되는 과정을 보여주는 10초 분량의 속도감 있고 에너지 넘치는 영상을 제작하세요.
-- 네 개의 바퀴가 제자리로 굴러 들어오며 시작
-- 금속 막대와 서스펜션이 바퀴 사이로 빠르게 결합
-- 엔진 블록이 아래로 장착
-- 외부 차체 패널이 사방에서 날아와 프레임에 결합
-- 무광 프라이머가 광택이 나는 빨간색 페인트로 변환
-
-카메라 앵글은 3/4 아이소메트릭 샷으로 엄격하게 유지하세요
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="스포츠카 아이소메트릭 조립">
-
-**[🎬 비디오 보기 →](https://x.com/HarshithLucky3/status/2059713624885891271)**
-
-**작성자:** [Harshith](https://x.com/HarshithLucky3) | **출처:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **게시일:** May 27, 2026
-
----
-### 쇼와 시대 상점가 분위기
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 활기찬 군중 소리와 함께 쇼와 시대 일본 상점가의 북적이고 향수를 불러일으키는 분위기를 담아낸 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-쇼와 시대 상점가, 북적이는, 일본어, 활기찬
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f1302cf8af26a69a4f9b58f8697401/thumbnails/thumbnail.jpg" width="600" alt="쇼와 시대 상점가 분위기">
-
-**[🎬 비디오 보기 →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
-
-**작성자:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **출처:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **게시일:** May 27, 2026
-
----
-### Misty Twilight City Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video generation featuring a city street at twilight, characterized by misty atmosphere and a movie-like aesthetic.
-
-#### 📝 프롬프트
-
-```
-Lost in the misty twilight of the city where every street corner feels like a scene from a movie.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a72a0bdd4880238a0f370ac74ee5193d/thumbnails/thumbnail.jpg" width="600" alt="Misty Twilight City Scene">
-
-**[🎬 비디오 보기 →](https://x.com/ai_with_shah/status/2059622418839486786)**
-
-**작성자:** [Shah](https://x.com/ai_with_shah) | **출처:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **게시일:** May 27, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 12 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 16 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2915,6 +2957,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-17T06:13:54.270Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-17T09:55:57.377Z</sub>
 
 </div>

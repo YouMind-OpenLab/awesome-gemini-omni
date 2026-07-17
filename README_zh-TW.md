@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **112** |
+| 📝 提示詞總數 | **116** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-07-17** |
 
@@ -56,6 +56,137 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 3D Logo 動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於 Gemini Omni 的動畫提示詞，旨在為綠幕背景上的 Logo 製作 3D 彈出效果。
+
+#### 📝 提示詞
+
+```
+讓（參考）Logo 在綠幕背景上以酷炫的方式彈出。置於畫面中央。它從虛空中彈出並組合在一起，然後懸浮在原地。呈現酷炫的 3D 效果。
+```
+
+<img src="https://pbs.twimg.com/media/HNYa_xmWgAAoWAE.jpg" width="600" alt="3D Logo 動畫">
+
+**[🎬 觀看視頻 →](https://x.com/chrisfirst/status/2077877168730706019)**
+
+**作者:** [CHRIS FIRST](https://x.com/chrisfirst) | **來源:** [Link](https://x.com/chrisfirst/status/2077877168730706019) | **發布時間:** Jul 16, 2026
+
+---
+### 冰島馬奔馳的身分特徵保持
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個用於冰島騎馬場景的高品質電影級提示詞，重點在於在複雜的攝影機運動中保持參考圖像的身分特徵。
+
+#### 📝 提示詞
+
+```
+請使用隨附的男性參考圖像作為主角的唯一身分參考。
+
+即使在快速奔馳、無人機拍攝、側面角度和寬銀幕電影構圖中，也要保持完美的面部身分特徵。
+
+時長：10 秒。
+
+開場畫面直接呈現主角騎著一匹強壯的黑馬，在廣闊的冰島山谷中全速奔馳。馬匹濺起淺河的水花，毫不減速地爬上草坡，隨後沿著俯瞰瀑布與無盡群山的懸崖邊緣疾馳。
+
+照片級真實感 IMAX 65mm 製作。頂級電影燈光。超逼真的馬匹動畫。好萊塢等級的環境細節。
+
+攝影機：
+馬背追蹤拍攝 → 側面追蹤 → FPV 無人機追逐 → 史詩級空拍揭幕。
+
+背景音樂：
+史詩級凱爾特管弦樂、法國號、合唱團、太鼓、情感豐富的弦樂。
+
+環境音效：
+馬蹄奔馳聲、河水濺起聲、皮革馬鞍摩擦聲、風聲、遠處的瀑布聲、鳥鳴聲。
+
+無對話。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077790013799206912/img/JiItvZPzotkWNxrm.jpg" width="600" alt="冰島馬奔馳的身分特徵保持">
+
+**[🎬 觀看視頻 →](https://x.com/vireonixx/status/2077790049618547067)**
+
+**作者:** [Virena](https://x.com/vireonixx) | **來源:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **發布時間:** Jul 16, 2026
+
+---
+### 溫馨書架整理 Vlog
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一份詳細的影片提示詞，旨在呈現手持迷你 DV 攝影機風格的 Vlog，內容為一名年輕女性整理書籍，並搭配療癒的 ASMR 聲音與自然光影。
+
+#### 📝 提示詞
+
+```
+攝影 / 視覺風格：由主角親自手持迷你 DV 攝影機拍攝。帶有輕微的手震、偶爾的對焦調整、不完美的構圖、自然的變焦、柔和的磁帶質感、細微的顆粒感，以及隨溫暖午後光線變化的真實自動曝光。自然的膚色、輕微的動態模糊，呈現道地的消費級攝影機美學。
+風格：溫馨的書架整理 Vlog，融入輕柔的 ASMR 元素。節奏放鬆、對話極少、呈現真實自然的瞬間。重點在於療癒的聲音：翻書聲、書脊輕敲聲、抹布擦拭聲、書架移動的細微聲響。
+主角：20 多歲的年輕女性，留著波浪長髮，穿著寬鬆法蘭絨襯衫，頭上戴著閱讀眼鏡。整理時神情平靜且專注。
+場景：安靜週末午後的小型閱讀角落。陽光透過窗簾灑落，半空的書架，地板上堆疊著書籍。
+分鏡腳本：
+→ (2 秒，架設中景) 將攝影機放在邊桌上，坐在書架旁。「終於要把書按顏色整理好了。」
+→ (2 秒，俯拍) 將書從架上取下，分類堆疊。
+→ (2 秒，特寫) 用抹布擦去空書架上的灰塵。
+→ (2 秒，手持鏡頭) 翻閱一本舊書，停在一頁上。「我都忘了我有這本。」
+→ (2 秒，細節鏡頭) 按顏色排列書籍，將它們滑入定位。無對話。
+→ (2 秒，中景) 在書架上擺放小盆栽和蠟燭。「稍微裝飾一下更好。」
+→ (2 秒，微距鏡頭) 調整書脊，將它們輕敲整齊。
+→ (2 秒，架設鏡頭) 退後幾步，從遠處檢視整理成果。
+→ (2 秒，溫暖結尾鏡頭) 欣賞整理好的書架，露出滿意的微笑。「這樣好多了。」
+→ (1.5 秒，最後鏡頭) 伸手向攝影機。「下次見。」手遮住鏡頭，錄影結束。
+音訊備註：翻書、擦拭灰塵、書籍滑動等自然環境音應清晰可聞。對話應保持輕聲且隨意。
+真實感備註：真實的肢體語言、自然的眨眼、真誠的微笑、偶爾的思考停頓、不完美的構圖、對焦呼吸效應以及溫暖的午後光影變化。應呈現出真實的個人整理 Vlog 風格，而非商業廣告製作。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077761124582543360/img/NROUVc0jpf1UZ9LZ.jpg" width="600" alt="溫馨書架整理 Vlog">
+
+**[🎬 觀看視頻 →](https://x.com/Strength04_X/status/2077761335585280363)**
+
+**作者:** [𝐌](https://x.com/Strength04_X) | **來源:** [Link](https://x.com/Strength04_X/status/2077761335585280363) | **發布時間:** Jul 16, 2026
+
+---
+### 沙漠峽谷 FPV 無人機產品展示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段穿越崎嶇沙漠峽谷的高速電影級 FPV 無人機鏡頭，最終在陽光普照的高原上呈現產品特寫。
+
+#### 📝 提示詞
+
+```
+{
+  "description": "一段高速電影級 FPV 無人機鏡頭從黎明時分壯觀的沙漠懸崖上方開始。無人機陡峭地俯衝進崎嶇的岩石峽谷，掠過沙丘，在巨大的紅石牆之間疾馳。隨著無人機加速，風捲起陣陣塵土，驚險地穿過天然岩拱和陽光照耀的山脊。中途，隨著無人機衝向開闊的沙漠高原，鏡頭逐漸放慢，展現出一罐冰涼的 Red Bull 矗立在粗糙的石板上，晨光下凝結的水珠清晰可見且閃閃發光。無文字。",
+  "style": "電影級、超寫實極限運動廣告",
+  "camera": "第一人稱 FPV 無人機視角，包含激進的高速峽谷穿越，並過渡到平滑、受控的慢動作電影級展示",
+  "lighting": "清晨日出光線，帶有溫暖的高光，岩層上有強烈的邊緣光，高對比度陰影；Red Bull 罐身上有清晰的反射和凝結水珠的高光",
+  "environment": "廣闊的沙漠峽谷景觀，包含紅岩懸崖、狹窄峽谷、沙丘、風吹塵土以及開闊的高原空地",
+  "motion": "極快的空中移動，伴隨急劇俯衝、近距離峽谷穿越和急轉彎；最終過渡到慢動作和平滑穩定，以進行最後的產品展示",
+  "ending": "在開闊的沙漠高原上一個強而有力的寧靜時刻；鏡頭輕柔地繞行並推近置於石板中央的 Red Bull 罐，強調能量、新鮮感與衝擊力",
+  "aspect_ratio": "16:9",
+  "duration": "10 秒",
+  "text": "無",
+  "keywords": [
+    "FPV 無人機",
+    "超高速電影級運鏡",
+    "沙漠峽谷穿越",
+    "超寫實產品展示",
+    "能量飲料廣告",
+    "慢動作結尾",
+    "無文字"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2077736758104723456/img/Czy7V5pZUnqzGTlz.jpg" width="600" alt="沙漠峽谷 FPV 無人機產品展示">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2077736805416505855)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2077736805416505855) | **發布時間:** Jul 16, 2026
+
+---
 ### Chanel 奢華飯店影片轉換
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2780,102 +2911,13 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 **作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **發布時間:** May 27, 2026
 
 ---
-### 中土世界虛擬導覽地圖
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個提示詞，用於根據上傳帶有方向標記的地圖圖像，生成中土世界騎馬視角的虛擬導覽。
-
-#### 📝 提示詞
-
-```
-分析附圖中箭頭的位置與方向。移除紅色箭頭。製作一部虛擬導覽影片，展示該地點最重要的 2 個位置。
-
-視角 (POV)：我們正騎著一匹棕色馬。
-
-真實且粗獷的紀錄片風格 (found footage)。
-
-[選填] (種族：精靈、半獸人、哈比人……) 正在做日常活動
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d3370c23cbdc0982d3f08e3c8e768c65/thumbnails/thumbnail.jpg" width="600" alt="中土世界虛擬導覽地圖">
-
-**[🎬 觀看視頻 →](https://x.com/techhalla/status/2059724218158166537)**
-
-**作者:** [TechHalla](https://x.com/techhalla) | **來源:** [Link](https://x.com/techhalla/status/2059724218158166537) | **發布時間:** May 27, 2026
-
----
-### 跑車等距視角組裝
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個組裝動畫提示詞，利用等距攝影視角，將消光車架轉換為成品亮面紅色跑車。
-
-#### 📝 提示詞
-
-```
-製作一支節奏明快、充滿活力的 10 秒影片，展示跑車快速的零件組裝過程，並以提供的 2 張參考圖片作為起始與結束點：
-- 從四個輪子滾動到位開始
-- 金屬桿與懸吊系統在輪子之間快速扣合
-- 引擎本體落下
-- 外部車身面板從四面八方飛入並扣合在車架上
-- 將消光底漆轉換為亮面紅色烤漆
-
-攝影視角請嚴格保持在 3/4 等距視角
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/756c3c1ce04183aa0295ae8d21f07e7d/thumbnails/thumbnail.jpg" width="600" alt="跑車等距視角組裝">
-
-**[🎬 觀看視頻 →](https://x.com/HarshithLucky3/status/2059713624885891271)**
-
-**作者:** [Harshith](https://x.com/HarshithLucky3) | **來源:** [Link](https://x.com/HarshithLucky3/status/2059713624885891271) | **發布時間:** May 27, 2026
-
----
-### 昭和時代商店街氛圍
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一個捕捉日本昭和時代商店街熱鬧且懷舊氛圍的提示詞，包含生動的人群喧囂聲。
-
-#### 📝 提示詞
-
-```
-昭和時代商店街，熱鬧，日語，充滿活力
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a9f1302cf8af26a69a4f9b58f8697401/thumbnails/thumbnail.jpg" width="600" alt="昭和時代商店街氛圍">
-
-**[🎬 觀看視頻 →](https://x.com/ai_Tyler_no_bu/status/2059623724538863805)**
-
-**作者:** [Nobu_cyan](https://x.com/ai_Tyler_no_bu) | **來源:** [Link](https://x.com/ai_Tyler_no_bu/status/2059623724538863805) | **發布時間:** May 27, 2026
-
----
-### Misty Twilight City Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video generation featuring a city street at twilight, characterized by misty atmosphere and a movie-like aesthetic.
-
-#### 📝 提示詞
-
-```
-Lost in the misty twilight of the city where every street corner feels like a scene from a movie.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a72a0bdd4880238a0f370ac74ee5193d/thumbnails/thumbnail.jpg" width="600" alt="Misty Twilight City Scene">
-
-**[🎬 觀看視頻 →](https://x.com/ai_with_shah/status/2059622418839486786)**
-
-**作者:** [Shah](https://x.com/ai_with_shah) | **來源:** [Link](https://x.com/ai_with_shah/status/2059622418839486786) | **發布時間:** May 27, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 12 更多提示詞未在此顯示
+### 🎯 16 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2921,6 +2963,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-17T06:13:52.656Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-17T09:55:55.246Z</sub>
 
 </div>
