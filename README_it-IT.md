@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **116** |
+| 📝 Totale prompt | **118** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-07-18** |
 
@@ -56,6 +56,44 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Video di creazione personaggio in stile The Sims
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt creativo per generare un video che ricorda la schermata di creazione personaggio di The Sims, con un leggero movimento di danza, un Plumbob rotante e un'interfaccia utente statica.
+
+#### 📝 Prompt
+
+```
+Partendo dalla mia foto, crea un'immagine nello stile del gioco The Sims, nel blocco di creazione del personaggio. Sim [uomo] con [jeans neri, maglietta nera e cappellino nero]. Alla destra del personaggio ci sono dei quadrati bianchi. In questi quadrati, dall'alto verso il basso: [MacBook, iPhone, AirPods max]. Sopra la testa del Sim c'è un plumbob verde e, sopra di esso, la scritta [ALEX PROMPTS], realizzata nello stile del gioco The Sims. Aggiungi delle frecce a destra e a sinistra del Sim, come nell'editor dei personaggi di The Sims. 9:16 Una schermata stilizzata di creazione personaggio tratta dal videogioco The Sims. Un [uomo] che indossa [maglietta nera, pantaloni neri, cappellino nero] si trova al centro. Accenna un leggero movimento di danza, ondeggiando delicatamente i fianchi e le braccia. Sopra la sua testa, un Plumbob verde fluttua e ruota lentamente. L'interfaccia utente con le opzioni di abbigliamento, le frecce e l'etichetta [ALEX PROMPTS] rimane completamente statica. Lo sfondo non si muove.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="Video di creazione personaggio in stile The Sims">
+
+**[🎬 Guarda il video →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
+
+**Autore:** [Alex Prompts](https://x.com/AlexPromptsAI) | **Fonte:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **Pubblicato:** Jul 17, 2026
+
+---
+### Timelapse di una ristrutturazione del soggiorno
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico altamente descrittivo per generare un timelapse dettagliato di 10 secondi della ristrutturazione di un soggiorno, caratterizzato da cambiamenti di luce e movimenti realistici.
+
+#### 📝 Prompt
+
+```
+Timelapse cinematografico ultra-realistico, progressione naturale della luce diurna dalla morbida luce dell'alba al vibrante sole di mezzogiorno, fino al caldo bagliore del tramonto; telecamera statica adattiva fissata in un angolo rialzato del soggiorno che mostra l'intero spazio con sottili regolazioni focali per profondità e parallasse mentre l'area si trasforma. Movimenti realistici di operai, attrezzi, addetti al trasloco e materiali. Trasformazione della ristrutturazione di un soggiorno. [00:00–00:01] Ampia inquadratura statica di un soggiorno datato anni 2000 nella fresca luce dell'alba: moquette beige usurata, ingombrante mobile TV in legno scuro, carta da parati floreale sbiadita, vecchio divano componibile, ingombro di decorazioni superate e illuminazione fioca. Gli operai arrivano con attrezzi e scatole. Effetti sonori: uccellini del mattino, scricchiolii di porte, ambiente leggero. [00:01–00:03] Rapida demolizione e preparazione: gli operai rimuovono vecchia moquette, carta da parati, mobili e infissi a velocità accelerata. Le pareti vengono levigate e dipinte, gli aggiornamenti elettrici nascosti, il nuovo sottofondo preparato. Il sole sorge, le ombre si spostano. Effetti sonori: strappo della moquette, raschiatura della carta da parati, martellamento, rimozione dei detriti. [00:03–00:06] Installazione principale: installazione di moderni scaffali sospesi e mobile multimediale in rovere chiaro o grigio, posizionamento di un grande divano componibile in tonalità neutre, montaggio di una TV elegante, posa di pavimenti a spina di pesce o in vinile di lusso, srotolamento di un tappeto di design. La luminosa luce naturale di mezzogiorno inonda la stanza. Effetti sonori: trapano, posizionamento mobili, aspirapolvere, clic di attrezzi. [00:06–00:08] Dettagli di finitura: aggiunta di illuminazione moderna (lampade da terra, faretti incassati, strisce LED), cuscini, piante, opere d'arte e tende. Il tavolino da caffè con decorazioni si materializza. La luce dorata del tardo pomeriggio crea caldi riflessi. Effetti sonori: suoni di posizionamento più morbidi, fruscio di tessuti, interruttori della luce. [00:08–00:10] Rivelazione finale del soggiorno contemporaneo minimalista completato nel calore del tramonto: luminoso, accogliente, invitante con linee pulite, texture stratificate, scaffali a giorno organizzati, morbida illuminazione d'atmosfera, piante fresche. Atmosfera calma e aspirazionale. Comportamento della telecamera: telecamera timelapse statica adattiva — angolo rialzato fisso con intelligente riframing minore e parallasse per mantenere una visione completa e profondità cinematografica. Spostamenti di prospettiva naturali, transizioni di materiale fluide. Mood ed estetica: timelapse di ristrutturazione iper-realistico, soddisfacente cambiamento accelerato da uno spazio datato e disordinato a un luminoso santuario moderno. Enfasi sulle texture (venature del legno, trame dei tessuti, finiture delle vernici), illuminazione naturale dinamica, progresso pulito e senso di realizzazione. Superfici altamente dettagliate, fisica realistica, movimenti organici. Color grading cinematografico, durata totale 10 secondi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="Timelapse di una ristrutturazione del soggiorno">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2078102401446490554)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **Pubblicato:** Jul 17, 2026
+
+---
 ### Animazione logo 3D
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2873,51 +2911,13 @@ Lumaca + Gattino = Snitten
 **Autore:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Fonte:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **Pubblicato:** May 28, 2026
 
 ---
-### Animazione coerente di un personaggio anime che cammina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt tecnico progettato per Gemini Omni per generare un'animazione stabile di un personaggio anime che cammina, mantenendo coerenza in capelli, abbigliamento e colori.
-
-#### 📝 Prompt
-
-```
-Ragazza anime con i capelli viola e un vestito cammina costantemente in avanti, mantenendo invariati l'acconciatura, il colore dei capelli, lo stile e il colore dell'abito; la sua figura e il suo aspetto rimangono immutati, garantendo un'immagine coerente e stabile tra i vari fotogrammi.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="Animazione coerente di un personaggio anime che cammina">
-
-**[🎬 Guarda il video →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
-
-**Autore:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fonte:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **Pubblicato:** May 28, 2026
-
----
-### Volo con drone FPV su mappa
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt per generare riprese con drone FPV ad alta velocità partendo da un punto specifico su uno screenshot di una mappa utilizzando Gemini Omni Flash.
-
-#### 📝 Prompt
-
-```
-Riprese con drone FPV ad alta velocità. Visuale in prima persona completa (puro POV FPV). Le riprese iniziano dal punto di partenza sullo schermo.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e5f5f104bffabd0a8409b32e9ebdf4f/thumbnails/thumbnail.jpg" width="600" alt="Volo con drone FPV su mappa">
-
-**[🎬 Guarda il video →](https://x.com/tanabe_fragm/status/2059781140245057683)**
-
-**Autore:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Pubblicato:** May 27, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 16 altri prompt non mostrati qui
+### 🎯 18 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2963,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-18T06:04:12.064Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-18T09:23:52.289Z</sub>
 
 </div>

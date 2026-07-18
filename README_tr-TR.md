@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **116** |
+| 📝 Toplam İstem | **118** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-18** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sims Tarzı Karakter Oluşturma Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hafif dans hareketleri, dönen bir Plumbob ve sabit bir arayüz içeren, Sims karakter oluşturma ekranını andıran bir video çıktısı oluşturmak için yaratıcı bir komut.
+
+#### 📝 İstem
+
+```
+Fotoğrafımı temel alarak, The Sims oyununun karakter oluşturma ekranı tarzında bir görsel oluştur. [Siyah kot pantolon, siyah tişört ve siyah şapka] giymiş [erkek] Sim. Karakterin sağ tarafında beyaz kareler olsun. Bu karelerin içinde yukarıdan aşağıya doğru: [MacBook, iPhone, AirPods Max] yer alsın. Sim'in başının üzerinde yeşil bir Plumbob ve onun da üzerinde The Sims oyunu tarzında yazılmış [ALEX PROMPTS] yazısı bulunsun. The Sims karakter düzenleyicisinde olduğu gibi Sim'in sağına ve soluna oklar ekle. 9:16 The Sims video oyunundan stilize edilmiş bir karakter oluşturma ekranı. [Siyah tişört, siyah pantolon, siyah şapka] giymiş bir [erkek] merkezde duruyor. Olduğu yerde hafifçe dans ediyor, kalçasını ve kollarını nazikçe sallıyor. Başının üzerinde yeşil bir Plumbob süzülüyor ve yavaşça dönüyor. Kıyafet seçeneklerinin, okların ve [ALEX PROMPTS] etiketinin bulunduğu kullanıcı arayüzü tamamen sabit kalıyor. Arka plan hareket etmiyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="Sims Tarzı Karakter Oluşturma Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
+
+**Yazar:** [Alex Prompts](https://x.com/AlexPromptsAI) | **Kaynak:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **Yayınlandı:** Jul 17, 2026
+
+---
+### Oturma Odası Yenileme Hızlandırılmış Çekimi (Timelapse)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Değişen ışık ve gerçekçi hareketlerle, 10 saniyelik detaylı bir iç mekan oturma odası yenileme hızlandırılmış çekimi oluşturmak için oldukça açıklayıcı, sinematik bir komut.
+
+#### 📝 İstem
+
+```
+Ultra gerçekçi sinematik hızlandırılmış çekim; yumuşak şafak ışığından canlı öğle güneşine ve sıcak gün batımı parıltısına kadar doğal gün ışığı ilerlemesi. Oturma odasının yüksek bir köşesine sabitlenmiş, alanın tamamını gösteren ve derinlik ile paralaks için ince odak ayarlamaları yapan uyarlanabilir statik kamera. İşçilerin, aletlerin, mobilya taşıyıcıların ve malzemelerin gerçekçi hareketleri. İç mekan oturma odası yenileme dönüşümü. [00:00–00:01] 2000'li yıllardan kalma eski bir oturma odasının soğuk şafak ışığındaki geniş statik çekimi: yıpranmış bej halı, hantal koyu ahşap eğlence ünitesi, solmuş çiçekli duvar kağıdı, eski köşe koltuk, modası geçmiş dekorasyon ve loş ışıkla dolu. İşçiler aletler ve kutularla gelir. SFX: sabah kuşları, kapı gıcırtıları, hafif ortam sesleri. [00:01–00:03] Hızlı yıkım ve hazırlık: işçiler eski halıyı, duvar kağıdını, mobilyaları ve armatürleri hızlandırılmış bir şekilde kaldırır. Duvarlar düzleştirilir ve boyanır, elektrik güncellemeleri gizlenir, yeni alt zemin hazırlanır. Güneş yükselir, gölgeler değişir. SFX: halı sökme, duvar kağıdı kazıma, çekiçleme, enkaz temizleme. [00:03–00:06] Temel kurulum: modern açık meşe veya gri yüzer raflar ve medya konsolu monte edilir, nötr tonlarda büyük köşe koltuk yerleştirilir, şık TV monte edilir, balıksırtı veya lüks vinil plank zemin döşenir, dekoratif halı serilir. Öğle vakti parlak doğal ışık içeri dolar. SFX: matkap sesi, mobilya yerleştirme, süpürme, alet tıkırtıları. [00:06–00:08] Son dokunuşlar: modern aydınlatma (lambaderler, gömme ışıklar, LED şeritler), kırlentler, bitkiler, sanat eserleri ve perdeler eklenir. Dekoratif sehpa belirir. Gün sonu altın rengi ışık, sıcak yansımalar yaratır. SFX: daha yumuşak yerleştirme sesleri, kumaş hışırtısı, ışık düğmeleri. [00:08–00:10] Gün batımı sıcaklığında tamamlanmış çağdaş minimalist oturma odasının final gösterimi: temiz hatlar, katmanlı dokular, düzenli açık raflar, yumuşak ortam aydınlatması ve taze bitkilerle parlak, rahat ve davetkar. İlham verici sakin bir atmosfer. Kamera davranışı: Uyarlanabilir statik hızlandırılmış kamera — tam görünümü ve sinematik derinliği korumak için akıllı küçük yeniden çerçeveleme ve paralaks ile sabitlenmiş yüksek köşe. Doğal perspektif değişimleri, pürüzsüz malzeme geçişleri. Ruh hali ve estetik: Hiper gerçekçi yenileme hızlandırılmış çekimi, eskimiş ve dağınık halden parlak modern bir sığınağa tatmin edici hızlandırılmış değişim. Dokulara (ahşap dokusu, kumaş örgüleri, boya cilaları), dinamik doğal aydınlatmaya, temiz ilerlemeye ve başarıya vurgu. Yüksek detaylı yüzeyler, gerçekçi fizik, organik hareketler. Sinematik renk derecelendirme, toplam 10 saniye süre.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="Oturma Odası Yenileme Hızlandırılmış Çekimi (Timelapse)">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2078102401446490554)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **Yayınlandı:** Jul 17, 2026
+
+---
 ### 3D Logo Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2871,51 +2909,13 @@ Salyangoz + Kedi Yavrusu = Snitten
 **Yazar:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Kaynak:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **Yayınlandı:** May 28, 2026
 
 ---
-### Tutarlı Anime Karakteri Yürüyüşü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni'nin; saç, kıyafet ve renk tutarlılığına sahip, sabit bir anime karakteri yürüyüş animasyonu oluşturması için tasarlanmış teknik bir komut.
-
-#### 📝 İstem
-
-```
-Mor saçlı elbiseli anime kızı sabit bir şekilde ileri doğru yürüyor; saç stili, saç rengi, elbise tarzı ve rengi boyunca sabit kalıyor, figürü ve görünümü değişmiyor ve kareler arasındaki görüntüsü birleşik ve kararlı bir şekilde korunuyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="Tutarlı Anime Karakteri Yürüyüşü">
-
-**[🎬 Videoyu izle →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
-
-**Yazar:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Kaynak:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **Yayınlandı:** May 28, 2026
-
----
-### FPV Drone Harita Uçuşu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Gemini Omni Flash kullanarak bir harita ekran görüntüsündeki belirli bir noktadan başlayan yüksek hızlı FPV drone görüntüleri oluşturmaya yönelik bir komut.
-
-#### 📝 İstem
-
-```
-Yüksek hızlı FPV drone görüntüleri. Tam birinci şahıs bakış açısı (saf FPV POV). Görüntüler, ekrandaki başlangıç noktasından itibaren başlar.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e5f5f104bffabd0a8409b32e9ebdf4f/thumbnails/thumbnail.jpg" width="600" alt="FPV Drone Harita Uçuşu">
-
-**[🎬 Videoyu izle →](https://x.com/tanabe_fragm/status/2059781140245057683)**
-
-**Yazar:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Yayınlandı:** May 27, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 16 burada gösterilmeyen daha fazla istem
+### 🎯 18 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2961,6 +2961,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-18T06:04:14.473Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-18T09:23:54.063Z</sub>
 
 </div>

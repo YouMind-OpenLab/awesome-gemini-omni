@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **116** |
+| 📝 Gesamtanzahl Prompts | **118** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-18** |
 
@@ -56,6 +56,44 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Video zur Charaktererstellung im Sims-Stil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Prompt zur Erstellung eines Videos, das dem Charakter-Editor von Die Sims nachempfunden ist, inklusive leichtem Tanzen, einem rotierenden Plumbob und einer statischen Benutzeroberfläche.
+
+#### 📝 Prompt
+
+```
+Erstelle basierend auf meinem Foto ein Bild im Stil des Charakter-Editors von Die Sims. [Männlicher] Sim in [schwarzer Jeans, schwarzem T-Shirt und schwarzer Kappe]. Rechts neben dem Charakter befinden sich weiße Quadrate. In diesen Quadraten, von oben nach unten: [MacBook, iPhone, AirPods Max]. Über dem Kopf des Sims schwebt ein grüner Plumbob, darüber steht der Schriftzug [ALEX PROMPTS] im Stil des Spiels Die Sims. Füge rechts und links vom Sim Pfeile hinzu, wie im Charakter-Editor von Die Sims. 9:16 Ein stilisierter Charakter-Editor aus dem Videospiel Die Sims. Ein [Mann] trägt ein [schwarzes T-Shirt, eine schwarze Hose, eine schwarze Kappe] und steht in der Mitte. Er tanzt leicht auf der Stelle und wiegt sanft Hüften und Arme. Über seinem Kopf schwebt und rotiert langsam ein grüner Plumbob. Die Benutzeroberfläche mit Kleidungsauswahl, Pfeilen und dem [ALEX PROMPTS]-Label bleibt komplett statisch. Der Hintergrund bewegt sich nicht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="Video zur Charaktererstellung im Sims-Stil">
+
+**[🎬 Video ansehen →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
+
+**Autor:** [Alex Prompts](https://x.com/AlexPromptsAI) | **Quelle:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **Veröffentlicht:** Jul 17, 2026
+
+---
+### Zeitraffer einer Wohnzimmerrenovierung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochgradig beschreibender, filmischer Prompt zur Generierung eines detaillierten 10-sekündigen Zeitraffers einer Wohnzimmerrenovierung mit wechselnden Lichtverhältnissen und realistischen Bewegungsabläufen.
+
+#### 📝 Prompt
+
+```
+Ultrarealistischer, filmischer Zeitraffer: natürlicher Tageslichtverlauf von sanftem Morgenlicht über strahlendes Mittagssonnenlicht bis hin zum warmen Glanz des Sonnenuntergangs. Eine adaptive, statische Kamera ist in einer erhöhten Ecke des Wohnzimmers fixiert und zeigt den gesamten Raum mit subtilen Fokus-Anpassungen für Tiefe und Parallaxe während der Umgestaltung. Realistische Bewegungen von Arbeitern, Werkzeugen, Möbelpackern und Materialien. Umgestaltung eines Wohnzimmers. [00:00–00:01] Statische Weitwinkelaufnahme eines veralteten Wohnzimmers aus den 2000er Jahren im kühlen Morgenlicht: abgenutzter beiger Teppich, wuchtige dunkle Holzschrankwand, verblasste Blumentapete, altes Ecksofa, vollgestellt mit veralteter Dekoration und gedimmter Beleuchtung. Arbeiter treffen mit Werkzeug und Kisten ein. SFX: morgendliches Vogelgezwitscher, knarrende Türen, leichte Umgebungsgeräusche. [00:01–00:03] Schneller Abriss und Vorbereitung: Arbeiter entfernen im Zeitraffer alten Teppich, Tapeten, Möbel und Einrichtungsgegenstände. Wände werden geglättet und gestrichen, Elektroinstallationen verborgen, neuer Unterboden vorbereitet. Die Sonne geht auf, Schatten wandern. SFX: Teppich herausreißen, Tapeten abkratzen, Hämmern, Schutt wegräumen. [00:03–00:06] Kerninstallation: Moderne schwebende Regale und ein Medienboard in hellem Eichen- oder Grauton werden montiert, ein großes Ecksofa in neutralen Tönen wird platziert, ein flacher Fernseher angebracht, Fischgrätparkett oder luxuriöser Vinylboden verlegt, ein moderner Teppich ausgerollt. Helles natürliches Mittagslicht flutet den Raum. SFX: Bohren, Möbelrücken, Staubsaugen, Werkzeugklicken. [00:06–00:08] Feinarbeiten: Moderne Beleuchtung (Stehlampen, Einbaustrahler, LED-Streifen), Dekokissen, Pflanzen, Kunstwerke und Vorhänge werden hinzugefügt. Ein Couchtisch mit Dekoration erscheint. Das goldene Licht des späten Nachmittags erzeugt warme Reflexionen. SFX: sanftere Platzierungsgeräusche, Stoffrauschen, Lichtschalter. [00:08–00:10] Finale Enthüllung des fertiggestellten, zeitgenössischen, minimalistischen Wohnzimmers im warmen Licht des Sonnenuntergangs: hell, gemütlich, einladend mit klaren Linien, geschichteten Texturen, organisierten offenen Regalen, sanfter Ambiente-Beleuchtung und frischen Pflanzen. Inspirierende, ruhige Atmosphäre. Kameraverhalten: Adaptiver statischer Zeitraffer – fixierte erhöhte Ecke mit intelligenter, minimaler Neuausrichtung und Parallaxe, um die vollständige Ansicht und filmische Tiefe zu wahren. Natürliche Perspektivwechsel, fließende Materialübergänge. Stimmung und Ästhetik: Hyperrealistischer Renovierungs-Zeitraffer, befriedigender beschleunigter Wandel von veraltet und überladen zu einem hellen, modernen Rückzugsort. Fokus auf Texturen (Holzmaserung, Stoffstrukturen, Farboberflächen), dynamische natürliche Beleuchtung, sauberer Fortschritt und Erfolgserlebnis. Hochdetaillierte Oberflächen, realistische Physik, organische Bewegungen. Filmisches Color Grading, 10 Sekunden Gesamtdauer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="Zeitraffer einer Wohnzimmerrenovierung">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2078102401446490554)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **Veröffentlicht:** Jul 17, 2026
+
+---
 ### 3D-Logo-Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2873,51 +2911,13 @@ Schnecke + Kätzchen = Snitten
 **Autor:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Quelle:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **Veröffentlicht:** May 28, 2026
 
 ---
-### Konsistente Anime-Charakter-Animation beim Gehen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein technischer Prompt für Gemini Omni zur Erstellung einer stabilen Anime-Charakter-Gehanimation mit konsistentem Haar, Kleidung und Farben.
-
-#### 📝 Prompt
-
-```
-Anime-Mädchen in einem lila Kleid geht stetig vorwärts, wobei Frisur, Haarfarbe, Kleidungsstil und Farben durchgehend konstant bleiben, ihre Figur und ihr Erscheinungsbild unverändert sind und ihr Bild über alle Frames hinweg einheitlich und stabil bleibt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="Konsistente Anime-Charakter-Animation beim Gehen">
-
-**[🎬 Video ansehen →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
-
-**Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Quelle:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **Veröffentlicht:** May 28, 2026
-
----
-### FPV-Drohnenflug über eine Karte
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Prompt zur Erstellung von High-Speed-FPV-Drohnenaufnahmen, die von einem bestimmten Punkt auf einem Karten-Screenshot ausgehen, unter Verwendung von Gemini Omni Flash.
-
-#### 📝 Prompt
-
-```
-High-Speed-FPV-Drohnenaufnahme. Komplette First-Person-Perspektive (reiner FPV-POV). Die Aufnahme beginnt am Startpunkt auf dem Bildschirm.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e5f5f104bffabd0a8409b32e9ebdf4f/thumbnails/thumbnail.jpg" width="600" alt="FPV-Drohnenflug über eine Karte">
-
-**[🎬 Video ansehen →](https://x.com/tanabe_fragm/status/2059781140245057683)**
-
-**Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Quelle:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Veröffentlicht:** May 27, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 16 weitere Prompts hier nicht angezeigt
+### 🎯 18 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2963,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-18T06:04:10.370Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-18T09:23:50.880Z</sub>
 
 </div>

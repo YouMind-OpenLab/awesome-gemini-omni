@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **116** |
+| 📝 Tổng số prompt | **118** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-18** |
 
@@ -56,6 +56,44 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video tạo nhân vật theo phong cách The Sims
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh sáng tạo để tạo ra video mô phỏng màn hình tạo nhân vật trong The Sims, với các chuyển động nhảy nhẹ nhàng, biểu tượng Plumbob xoay và giao diện người dùng tĩnh.
+
+#### 📝 Prompt
+
+```
+Dựa trên ảnh của tôi, hãy tạo một bức ảnh theo phong cách trò chơi The Sims, trong khung tạo nhân vật. [Nam] Sim mặc [quần jeans đen, áo phông đen và mũ lưỡi trai đen]. Bên phải nhân vật là các ô vuông màu trắng. Trong các ô này, từ trên xuống dưới: [MacBook, iPhone, AirPods Max]. Phía trên đầu Sim là một biểu tượng Plumbob màu xanh lá cây, và phía trên đó là dòng chữ [ALEX PROMPTS], được thiết kế theo phong cách trò chơi The Sims. Thêm các mũi tên ở bên phải và bên trái của Sim, giống như trong trình chỉnh sửa nhân vật của The Sims. Tỷ lệ 9:16. Một màn hình tạo nhân vật cách điệu từ trò chơi điện tử The Sims. Một [người đàn ông] mặc [áo phông đen, quần dài đen, mũ lưỡi trai đen] đứng ở trung tâm. Anh ấy đang nhảy nhẹ tại chỗ, lắc hông và tay một cách uyển chuyển. Phía trên đầu anh ấy, một biểu tượng Plumbob màu xanh lá cây lơ lửng và xoay chậm. Giao diện người dùng với các lựa chọn trang phục, mũi tên và nhãn [ALEX PROMPTS] hoàn toàn tĩnh. Nền không di chuyển.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="Video tạo nhân vật theo phong cách The Sims">
+
+**[🎬 Xem video →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
+
+**Tác giả:** [Alex Prompts](https://x.com/AlexPromptsAI) | **Nguồn:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **Đã xuất bản:** Jul 17, 2026
+
+---
+### Timelapse cải tạo phòng khách
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh đầy đủ chi tiết để tạo video timelapse 10 giây về quá trình cải tạo nội thất phòng khách, với hiệu ứng thay đổi ánh sáng và chuyển động chân thực.
+
+#### 📝 Prompt
+
+```
+Timelapse điện ảnh siêu thực, sự chuyển đổi ánh sáng tự nhiên từ ánh bình minh dịu nhẹ sang nắng trưa rực rỡ rồi đến ánh hoàng hôn ấm áp, camera tĩnh thích ứng đặt cố định tại một góc cao của phòng khách, bao quát toàn bộ không gian với các điều chỉnh tiêu cự tinh tế tạo chiều sâu và hiệu ứng thị sai khi căn phòng biến đổi. Chuyển động chân thực của thợ thi công, dụng cụ, người di chuyển đồ đạc và vật liệu. Quá trình cải tạo nội thất phòng khách. [00:00–00:01] Cảnh tĩnh góc rộng về một phòng khách cũ kỹ từ những năm 2000 trong ánh bình minh: thảm màu be sờn cũ, kệ giải trí bằng gỗ tối màu cồng kềnh, giấy dán tường hoa văn phai màu, ghế sofa cũ, bừa bộn với đồ trang trí lỗi thời và ánh sáng mờ nhạt. Thợ thi công đến cùng dụng cụ và thùng hàng. SFX: tiếng chim hót buổi sáng, tiếng cửa kẽo kẹt, âm thanh môi trường nhẹ nhàng. [00:01–00:03] Phá dỡ và chuẩn bị nhanh: thợ thi công tháo dỡ thảm cũ, giấy dán tường, đồ nội thất và các thiết bị với tốc độ nhanh. Tường được làm phẳng và sơn lại, hệ thống điện được cập nhật, sàn phụ mới được chuẩn bị. Mặt trời mọc, bóng đổ thay đổi. SFX: tiếng xé thảm, cạo giấy dán tường, tiếng búa, tiếng dọn dẹp mảnh vụn. [00:03–00:06] Lắp đặt chính: kệ treo tường và tủ kệ tivi bằng gỗ sồi sáng màu hoặc màu xám hiện đại được lắp đặt, ghế sofa lớn tông màu trung tính được đặt vào vị trí, tivi kiểu dáng đẹp được gắn lên tường, sàn gỗ xương cá hoặc sàn nhựa giả gỗ cao cấp được lát, thảm trải sàn được trải ra. Ánh sáng tự nhiên ban trưa tràn ngập căn phòng. SFX: tiếng khoan, tiếng sắp xếp đồ đạc, tiếng máy hút bụi, tiếng dụng cụ. [00:06–00:08] Hoàn thiện chi tiết: thêm đèn hiện đại (đèn sàn, đèn âm trần, dải đèn LED), gối tựa, cây cảnh, tranh nghệ thuật và rèm cửa. Bàn cà phê với đồ trang trí xuất hiện. Ánh sáng vàng cuối chiều tạo nên những phản chiếu ấm áp. SFX: tiếng đặt đồ nhẹ nhàng, tiếng vải sột soạt, tiếng công tắc đèn. [00:08–00:10] Cảnh cuối cùng hé lộ phòng khách tối giản hiện đại đã hoàn thiện trong ánh hoàng hôn ấm áp: tươi sáng, ấm cúng, đầy mời gọi với những đường nét sạch sẽ, kết cấu phân lớp, kệ mở ngăn nắp, ánh sáng dịu nhẹ, cây xanh tươi tốt. Bầu không khí bình yên đầy cảm hứng. Chuyển động camera: Camera timelapse tĩnh thích ứng — cố định ở góc cao với khả năng tái khung hình thông minh và hiệu ứng thị sai để duy trì tầm nhìn bao quát và chiều sâu điện ảnh. Góc nhìn thay đổi tự nhiên, chuyển đổi vật liệu mượt mà. Tâm trạng và thẩm mỹ: Timelapse cải tạo siêu thực, sự thay đổi nhanh chóng đầy thỏa mãn từ không gian cũ kỹ, bừa bộn thành một nơi trú ẩn hiện đại, tươi sáng. Nhấn mạnh vào kết cấu (vân gỗ, sợi vải, lớp sơn), ánh sáng tự nhiên động, tiến trình sạch sẽ và thành quả đạt được. Bề mặt chi tiết cao, vật lý chân thực, chuyển động hữu cơ. Chỉnh màu điện ảnh, tổng thời lượng 10 giây.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="Timelapse cải tạo phòng khách">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2078102401446490554)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **Đã xuất bản:** Jul 17, 2026
+
+---
 ### Hoạt ảnh Logo 3D
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2873,51 +2911,13 @@ sợi len đỏ chân thực
 **Tác giả:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Nguồn:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **Đã xuất bản:** May 28, 2026
 
 ---
-### Tạo chuyển động nhân vật Anime nhất quán
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh kỹ thuật được thiết kế cho Gemini Omni nhằm tạo ra hoạt ảnh nhân vật anime đi bộ ổn định với kiểu tóc, trang phục và màu sắc nhất quán.
-
-#### 📝 Prompt
-
-```
-Cô gái anime mặc váy tím đi bộ đều đặn về phía trước, với kiểu tóc, màu tóc, kiểu váy và màu sắc được giữ nguyên trong suốt quá trình, vóc dáng và ngoại hình không thay đổi, đồng thời hình ảnh qua các khung hình được thống nhất và ổn định.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="Tạo chuyển động nhân vật Anime nhất quán">
-
-**[🎬 Xem video →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
-
-**Tác giả:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Nguồn:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **Đã xuất bản:** May 28, 2026
-
----
-### Bay FPV Drone theo bản đồ
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh (prompt) để tạo thước phim FPV drone tốc độ cao bắt đầu từ một điểm cụ thể trên ảnh chụp màn hình bản đồ bằng cách sử dụng Gemini Omni Flash.
-
-#### 📝 Prompt
-
-```
-Thước phim FPV drone tốc độ cao. Góc nhìn thứ nhất hoàn chỉnh (POV FPV thuần túy). Thước phim bắt đầu từ điểm xuất phát trên màn hình.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e5f5f104bffabd0a8409b32e9ebdf4f/thumbnails/thumbnail.jpg" width="600" alt="Bay FPV Drone theo bản đồ">
-
-**[🎬 Xem video →](https://x.com/tanabe_fragm/status/2059781140245057683)**
-
-**Tác giả:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Đã xuất bản:** May 27, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 16 prompt khác không hiển thị ở đây
+### 🎯 18 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2963,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-18T06:04:07.395Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-18T09:23:48.620Z</sub>
 
 </div>

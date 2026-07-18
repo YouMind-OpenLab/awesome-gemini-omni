@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **116** |
+| 📝 提示詞總數 | **118** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-07-18** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 模擬市民 (The Sims) 風格角色創建影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個創意提示詞，旨在製作出類似模擬市民角色創建畫面的影片，包含輕微的舞蹈動作、旋轉的綠色晶鑽 (Plumbob) 以及靜態的 UI 介面。
+
+#### 📝 提示詞
+
+```
+根據我的照片，創建一張模擬市民 (The Sims) 遊戲風格的角色創建畫面照片。[男性] 模擬市民穿著 [黑色牛仔褲、黑色 T 恤和黑色鴨舌帽]。角色右側有白色方格，這些方格中由上至下分別為：[MacBook、iPhone、AirPods Max]。模擬市民頭頂上方有一個綠色晶鑽 (Plumbob)，上方並以模擬市民遊戲風格標註 [ALEX PROMPTS] 字樣。在模擬市民左右兩側添加箭頭，如同模擬市民的角色編輯器。9:16 比例。一個模擬市民遊戲風格的角色創建畫面。一名 [男性] 穿著 [黑色 T 恤、黑色長褲、黑色鴨舌帽] 站在中心。他正在原地輕微舞動，輕輕擺動臀部和手臂。他頭頂上方，一個綠色晶鑽 (Plumbob) 緩慢地漂浮並旋轉。包含服裝選擇、箭頭和 [ALEX PROMPTS] 標籤的使用者介面保持完全靜態。背景不會移動。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="模擬市民 (The Sims) 風格角色創建影片">
+
+**[🎬 觀看視頻 →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
+
+**作者:** [Alex Prompts](https://x.com/AlexPromptsAI) | **來源:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **發布時間:** Jul 17, 2026
+
+---
+### 客廳翻新縮時攝影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個極具描述性的電影級提示詞，用於生成一段 10 秒的詳細室內客廳翻新縮時攝影，呈現光影變化與寫實的施工過程。
+
+#### 📝 提示詞
+
+```
+超寫實電影級縮時攝影，自然日光從柔和的晨光轉變為明亮的中午陽光，再到溫暖的日落餘暉。採用適應性固定攝影機，架設於客廳高處角落，完整呈現空間全貌，並透過細微的焦距調整展現深度與視差，記錄空間蛻變過程。包含工人、工具、家具搬運與建材的寫實動作。室內客廳翻新改造。 [00:00–00:01] 晨光中 2000 年代風格客廳的寬鏡頭靜態畫面：磨損的米色地毯、笨重的深色木質電視櫃、褪色的花卉壁紙、老舊的組合式沙發，以及堆滿過時裝飾與昏暗燈光的空間。工人攜帶工具與箱子進場。音效：晨鳥鳴叫、門軸聲、輕微環境音。 [00:01–00:03] 快速拆除與準備：工人以加速動作拆除舊地毯、壁紙、家具與固定裝置。牆面整平並粉刷，隱藏式電路更新，鋪設新底板。太陽升起，陰影移動。音效：撕開地毯聲、刮除壁紙聲、敲擊聲、清理碎屑聲。 [00:03–00:06] 核心安裝：安裝現代淺橡木或灰色懸浮層架與媒體櫃，擺放中性色調的大型組合式沙發，安裝流線型電視，鋪設人字紋或豪華塑膠地板，鋪開質感地毯。正午明亮的自然光灑入室內。音效：電鑽聲、家具定位聲、吸塵聲、工具碰撞聲。 [00:06–00:08] 裝飾細節：加入現代燈具（落地燈、崁燈、LED 燈條）、抱枕、植栽、藝術品與窗簾。咖啡桌與裝飾品逐漸成形。午後黃昏的金色光線營造出溫暖的反射效果。音效：輕柔的擺放聲、布料摩擦聲、開關聲。 [00:08–00:10] 最終呈現：在日落餘暉下完成的現代極簡風客廳，明亮、舒適、誘人，線條俐落，層次豐富，開放式層架井然有序，柔和的環境光與新鮮植栽。營造出令人嚮往的寧靜氛圍。攝影機行為：適應性固定縮時攝影機——固定於高處角落，透過智慧型微調取景與視差，維持全景視野與電影級深度。自然的視角轉換，流暢的材質過渡。氛圍與美學：超寫實翻新縮時攝影，呈現從老舊雜亂到明亮現代避風港的療癒加速變化。強調質感（木紋、布料編織、漆面）、動態自然光、清晰的進度與成就感。高度細節的表面、寫實的物理效果、有機的動作。電影級調色，總長 10 秒。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="客廳翻新縮時攝影">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2078102401446490554)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **發布時間:** Jul 17, 2026
+
+---
 ### 3D Logo 動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2873,51 +2911,13 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 **作者:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **來源:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **發布時間:** May 28, 2026
 
 ---
-### 動漫角色行走一致性生成
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個專為 Gemini Omni 設計的技術提示詞，旨在生成動漫角色行走動畫，確保髮型、服裝和顏色保持穩定一致。
-
-#### 📝 提示詞
-
-```
-一位留著紫色頭髮、穿著連身裙的動漫少女穩步向前走，她的髮型、髮色、服裝款式與顏色在過程中保持不變，身形與外貌維持一致，確保各幀之間的影像統一且穩定。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="動漫角色行走一致性生成">
-
-**[🎬 觀看視頻 →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
-
-**作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **來源:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **發布時間:** May 28, 2026
-
----
-### FPV 無人機地圖飛行
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一個使用 Gemini Omni Flash，根據地圖截圖上的特定起點生成高速 FPV 無人機影像的提示詞。
-
-#### 📝 提示詞
-
-```
-高速 FPV 無人機影像。完整的沉浸式第一人稱視角（純 FPV POV）。影像從螢幕上的起點開始。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e5f5f104bffabd0a8409b32e9ebdf4f/thumbnails/thumbnail.jpg" width="600" alt="FPV 無人機地圖飛行">
-
-**[🎬 觀看視頻 →](https://x.com/tanabe_fragm/status/2059781140245057683)**
-
-**作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **來源:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **發布時間:** May 27, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 16 更多提示詞未在此顯示
+### 🎯 18 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2963,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-18T06:04:03.743Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-18T09:23:45.500Z</sub>
 
 </div>

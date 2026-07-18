@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **116** |
+| 📝 총 프롬프트 수 | **118** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-18** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 심즈(Sims) 스타일 캐릭터 생성 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 심즈 캐릭터 생성 화면과 유사한 영상 결과물을 만들기 위한 창의적인 프롬프트로, 미세한 춤 동작, 회전하는 플럼밥(Plumbob), 그리고 고정된 UI가 특징입니다.
+
+#### 📝 프롬프트
+
+```
+내 사진을 기반으로 심즈(The Sims) 게임의 캐릭터 생성 블록 스타일로 사진을 생성해 줘. [남자] 심(Sim)이 [검은색 청바지, 검은색 티셔츠, 검은색 모자]를 착용하고 있음. 캐릭터 오른쪽에는 흰색 사각형들이 있음. 이 사각형들에는 위에서부터 순서대로 [MacBook, iPhone, AirPods max]가 있음. 심의 머리 위에는 초록색 플럼밥이 있고, 그 위에는 심즈 게임 스타일로 [ALEX PROMPTS]라는 문구가 적혀 있음. 심즈 캐릭터 편집기처럼 심의 좌우에 화살표를 추가해 줘. 9:16 비율. 심즈 비디오 게임의 스타일화된 캐릭터 생성 화면. [검은색 티셔츠, 검은색 바지, 검은색 모자]를 착용한 [남성]이 중앙에 서 있음. 그는 제자리에서 엉덩이와 팔을 부드럽게 흔들며 미세하게 춤을 추고 있음. 머리 위에는 초록색 플럼밥이 떠서 천천히 회전함. 의상 선택지, 화살표, [ALEX PROMPTS] 라벨이 포함된 사용자 인터페이스는 완전히 고정되어 있음. 배경은 움직이지 않음.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="심즈(Sims) 스타일 캐릭터 생성 영상">
+
+**[🎬 비디오 보기 →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
+
+**작성자:** [Alex Prompts](https://x.com/AlexPromptsAI) | **출처:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **게시일:** Jul 17, 2026
+
+---
+### 거실 리모델링 타임랩스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 변화하는 빛과 사실적인 움직임을 포함하여 10초 분량의 상세한 실내 거실 리모델링 타임랩스를 생성하기 위한 고도로 묘사된 시네마틱 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+초현실적인 시네마틱 타임랩스, 부드러운 새벽 빛에서 활기찬 한낮의 태양, 따뜻한 노을빛으로 이어지는 자연스러운 일광의 변화, 거실의 높은 구석에 고정된 적응형 정적 카메라가 공간 전체를 보여주며 공간이 변화함에 따라 깊이감과 시차를 위해 미세하게 초점을 조정함. 작업자, 도구, 가구 이동 및 자재의 사실적인 움직임. 실내 거실 리모델링 변화 과정. [00:00–00:01] 차가운 새벽 빛 속의 2000년대식 구식 거실을 담은 와이드 정적 샷: 낡은 베이지색 카펫, 부피가 큰 어두운 목재 엔터테인먼트 센터, 바랜 꽃무늬 벽지, 오래된 섹션형 소파, 유행 지난 장식품과 어두운 조명으로 어수선함. 작업자들이 도구와 상자를 들고 도착함. 효과음: 아침 새소리, 문 삐걱거리는 소리, 가벼운 주변 소음. [00:01–00:03] 빠른 철거 및 준비: 작업자들이 오래된 카펫, 벽지, 가구, 비품을 빠른 속도로 제거함. 벽은 매끄럽게 다듬어지고 페인트칠 되며, 전기 배선이 정리되고 새로운 바닥 기초가 준비됨. 해가 뜨면서 그림자가 이동함. 효과음: 카펫 뜯는 소리, 벽지 긁는 소리, 망치질 소리, 잔해 치우는 소리. [00:03–00:06] 핵심 설치: 현대적인 밝은 오크 또는 회색 플로팅 선반과 미디어 콘솔 설치, 중성적인 톤의 대형 섹션형 소파 배치, 세련된 TV 설치, 헤링본 또는 고급 비닐 판자 바닥재 시공, 포인트 러그 배치. 한낮의 밝은 자연광이 쏟아짐. 효과음: 드릴 소리, 가구 배치 소리, 청소기 소리, 도구 클릭 소리. [00:06–00:08] 마무리 작업: 현대적인 조명(플로어 램프, 매립등, LED 스트립), 쿠션, 식물, 예술 작품 및 커튼 추가. 장식품이 놓인 커피 테이블이 나타남. 늦은 오후의 황금빛이 따뜻한 반사를 만들어냄. 효과음: 부드러운 배치 소리, 천이 스치는 소리, 조명 스위치 소리. [00:08–00:10] 노을의 따뜻함 속에서 완성된 현대적이고 미니멀한 거실의 최종 모습: 깔끔한 라인, 레이어드된 질감, 정리된 오픈형 선반, 부드러운 간접 조명, 싱싱한 식물들로 밝고 아늑하며 매력적인 공간. 열망을 불러일으키는 차분한 분위기. 카메라 동작: 적응형 정적 타임랩스 카메라 — 지능적인 미세 리프레이밍과 시차를 통해 전체 뷰와 시네마틱한 깊이감을 유지하는 고정된 높은 구석 위치. 자연스러운 시점 변화, 매끄러운 소재 전환. 분위기 및 미학: 초현실적인 리모델링 타임랩스, 구식의 어수선한 공간에서 밝고 현대적인 안식처로 변화하는 만족스러운 가속 과정. 질감(나무 결, 직물 짜임, 페인트 마감), 역동적인 자연광, 깔끔한 진행 과정 및 성취감 강조. 매우 상세한 표면, 사실적인 물리 효과, 유기적인 움직임. 시네마틱 컬러 그레이딩, 총 10초 분량.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="거실 리모델링 타임랩스">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2078102401446490554)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **게시일:** Jul 17, 2026
+
+---
 ### 3D 로고 애니메이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2867,51 +2905,13 @@ photorealistic red yarn
 **작성자:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **출처:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **게시일:** May 28, 2026
 
 ---
-### 일관성 있는 애니메이션 캐릭터 걷기
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni를 사용하여 머리카락, 의상, 색상이 일관되게 유지되는 안정적인 애니메이션 캐릭터 걷기 애니메이션을 생성하기 위한 기술적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-보라색 머리의 드레스를 입은 애니메이션 소녀가 앞으로 꾸준히 걸어갑니다. 헤어스타일, 머리 색상, 드레스 스타일 및 색상은 전체적으로 일정하게 유지되며, 체형과 외모는 변하지 않고 프레임 간의 이미지가 통일되고 안정적입니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="일관성 있는 애니메이션 캐릭터 걷기">
-
-**[🎬 비디오 보기 →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
-
-**작성자:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **출처:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **게시일:** May 28, 2026
-
----
-### FPV 드론 맵 비행
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Gemini Omni Flash를 사용하여 지도 스크린샷의 특정 지점에서 시작하는 고속 FPV 드론 영상을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-고속 FPV 드론 영상. 완전한 1인칭 시점 (순수 FPV POV). 영상은 화면상의 시작 지점부터 시작됩니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e5f5f104bffabd0a8409b32e9ebdf4f/thumbnails/thumbnail.jpg" width="600" alt="FPV 드론 맵 비행">
-
-**[🎬 비디오 보기 →](https://x.com/tanabe_fragm/status/2059781140245057683)**
-
-**작성자:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **출처:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **게시일:** May 27, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 16 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 18 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2957,6 +2957,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-18T06:04:05.626Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-18T09:23:47.258Z</sub>
 
 </div>

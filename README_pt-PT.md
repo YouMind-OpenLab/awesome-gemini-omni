@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **116** |
+| 📝 Total de prompts | **118** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-18** |
 
@@ -56,6 +56,44 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vídeo de criação de personagem estilo The Sims
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt criativo para criar um vídeo que lembra a tela de criação de personagens do The Sims, apresentando uma dança sutil, um Plumbob giratório e uma interface de usuário estática.
+
+#### 📝 Prompt
+
+```
+Com base na minha foto, crie uma imagem no estilo do jogo The Sims, no bloco de criação de personagem. [Homem] Sim vestindo [calça jeans preta, camiseta preta e boné preto]. À direita do personagem, há quadrados brancos. Nesses quadrados, de cima para baixo: [MacBook, iPhone, AirPods Max]. Acima da cabeça do Sim, há um plumbob verde e, acima dele, a inscrição [ALEX PROMPTS], feita no estilo do jogo The Sims. Adicione setas à direita e à esquerda do Sim, como no editor de personagens do The Sims. 9:16 Uma tela estilizada de criação de personagem do videogame The Sims. Um [homem] vestindo [camiseta preta, calça preta, boné preto] está no centro. Ele dança sutilmente no lugar, balançando os quadris e os braços suavemente. Acima de sua cabeça, um Plumbob verde flutua e gira lentamente. A interface do usuário com opções de roupas, setas e o rótulo [ALEX PROMPTS] permanece completamente estática. O fundo não se move.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="Vídeo de criação de personagem estilo The Sims">
+
+**[🎬 Assistir vídeo →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
+
+**Autor:** [Alex Prompts](https://x.com/AlexPromptsAI) | **Fonte:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **Publicado:** Jul 17, 2026
+
+---
+### Timelapse de Reforma de Sala de Estar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico altamente descritivo para gerar um timelapse detalhado de 10 segundos de uma reforma de sala de estar, apresentando mudanças de iluminação e movimentos realistas.
+
+#### 📝 Prompt
+
+```
+Timelapse cinematográfico ultrarrealista, progressão de luz natural desde a luz suave do amanhecer até o sol vibrante do meio-dia e o brilho quente do pôr do sol, câmera estática adaptativa fixada em um canto elevado da sala de estar mostrando todo o espaço com ajustes focais sutis para profundidade e paralaxe conforme a área se transforma. Movimentos realistas de trabalhadores, ferramentas, transportadores de móveis e materiais. Transformação de reforma de sala de estar. [00:00–00:01] Plano estático amplo de uma sala de estar datada dos anos 2000 sob a luz fria do amanhecer: carpete bege gasto, centro de entretenimento de madeira escura volumoso, papel de parede floral desbotado, sofá de canto antigo, bagunçado com decoração ultrapassada e iluminação fraca. Trabalhadores chegam com ferramentas e caixas. Efeitos sonoros: pássaros matinais, rangidos de porta, ambiente leve. [00:01–00:03] Demolição e preparação rápidas: trabalhadores removem o carpete antigo, papel de parede, móveis e acessórios em velocidade acelerada. Paredes são alisadas e pintadas, atualizações elétricas ocultas, novo contrapiso preparado. O sol nasce, as sombras mudam. Efeitos sonoros: rasgar carpete, raspar papel de parede, martelar, limpeza de detritos. [00:03–00:06] Instalação principal: prateleiras flutuantes e console de mídia em carvalho claro ou cinza modernos instalados, sofá de canto grande em tons neutros posicionado, TV elegante montada, piso espinha de peixe ou vinílico de luxo colocado, tapete de destaque desenrolado. Luz natural brilhante do meio-dia inunda o ambiente. Efeitos sonoros: furadeira, posicionamento de móveis, aspirador de pó, cliques de ferramentas. [00:06–00:08] Detalhes de acabamento: iluminação moderna (luminárias de chão, embutidas, fitas de LED), almofadas, plantas, obras de arte e cortinas adicionadas. Mesa de centro com decoração se materializa. A luz dourada do final da tarde cria reflexos quentes. Efeitos sonoros: sons de posicionamento mais suaves, tecido farfalhando, interruptores de luz. [00:08–00:10] Revelação final da sala de estar minimalista contemporânea concluída no calor do pôr do sol: brilhante, aconchegante, convidativa com linhas limpas, texturas em camadas, prateleiras abertas organizadas, iluminação ambiente suave, plantas frescas. Atmosfera calma e aspiracional. Comportamento da câmera: Câmera de timelapse estática adaptativa — canto elevado fixo com reenquadramento inteligente menor e paralaxe para manter a visão completa e profundidade cinematográfica. Mudanças de perspectiva naturais, transições de material suaves. Humor e estética: Timelapse de reforma hiper-realista, mudança acelerada satisfatória de um ambiente datado e bagunçado para um santuário moderno e brilhante. Ênfase em texturas (veios da madeira, tramas de tecido, acabamentos de pintura), iluminação natural dinâmica, progresso limpo e conquista. Superfícies altamente detalhadas, física realista, movimentos orgânicos. Tratamento de cor cinematográfico, 10 segundos de duração total.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="Timelapse de Reforma de Sala de Estar">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2078102401446490554)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **Publicado:** Jul 17, 2026
+
+---
 ### Animação de Logotipo 3D
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2873,51 +2911,13 @@ Caracol + Gatinho = Snitten
 **Autor:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Fonte:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **Publicado:** May 28, 2026
 
 ---
-### Caminhada Consistente de Personagem de Anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt técnico projetado para o Gemini Omni gerar uma animação de caminhada de personagem de anime estável, com cabelo, roupas e cores consistentes.
-
-#### 📝 Prompt
-
-```
-Garota de anime com vestido e cabelo roxo caminha firmemente para frente, mantendo seu penteado, cor de cabelo, estilo e cor do vestido constantes, com sua figura e aparência inalteradas, e sua imagem unificada e estável entre os quadros.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="Caminhada Consistente de Personagem de Anime">
-
-**[🎬 Assistir vídeo →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
-
-**Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fonte:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **Publicado:** May 28, 2026
-
----
-### Voo de Drone FPV no Mapa
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt para gerar filmagens de drone FPV de alta velocidade a partir de um ponto específico em uma captura de tela de mapa usando o Gemini Omni Flash.
-
-#### 📝 Prompt
-
-```
-Filmagem de drone FPV de alta velocidade. Visão em primeira pessoa completa (POV FPV puro). A filmagem começa a partir do ponto de partida na tela.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e5f5f104bffabd0a8409b32e9ebdf4f/thumbnails/thumbnail.jpg" width="600" alt="Voo de Drone FPV no Mapa">
-
-**[🎬 Assistir vídeo →](https://x.com/tanabe_fragm/status/2059781140245057683)**
-
-**Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Publicado:** May 27, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 16 mais prompts não mostrados aqui
+### 🎯 18 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2963,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-18T06:04:13.600Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-18T09:23:53.449Z</sub>
 
 </div>

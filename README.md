@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **116** |
+| 📝 Total Prompts | **118** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-18** |
 
@@ -56,6 +56,44 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Sims Style Character Creation Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative prompt to build a video output resembling the Sims character creation screen, featuring subtle dancing, a rotating Plumbob, and a static UI.
+
+#### 📝 Prompt
+
+```
+Based on my photo, create a photo in the style of The Sims game, character creation block. [Guy] Sim in [black jeans, black T-shirt, and black cap]. To the right of the character are white squares. In these squares, from top to bottom: [MacBook, iPhone, AirPods max]. Above the Sim's head is a green plumbob, and above it is the inscription [ALEX PROMPTS], made in the style of The Sims game. Add arrows to the right and left of the Sim, as in The Sims character editor. 9:16 A stylized character creation screen from The Sims video game. A [men] wearing a [black t-shirt, black trousers, black cap] stands in the center. He is subtly dancing in place, swaying her hips and arms gently. Above his head, a green Plumbob floats and rotates slowly. The user interface with clothing choices, arrows, and the [ALEX PROMPTS] label stays completely static. The background does not move.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="Sims Style Character Creation Video">
+
+**[🎬 Watch Video →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
+
+**Author:** [Alex Prompts](https://x.com/AlexPromptsAI) | **Source:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **Published:** Jul 17, 2026
+
+---
+### Living Room Renovation Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly descriptive cinematic prompt for generating a detailed 10-second timelapse of an interior living room renovation featuring changing light and realistic movements.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic timelapse, natural daylight progression from soft dawn light to vibrant midday sun to warm sunset glow, adaptive static camera fixed in one elevated corner of the living room showing the full space with subtle focal adjustments for depth and parallax as the area transforms. Realistic movements of workers, tools, furniture movers, and materials. Interior living room renovation transformation. [00:00–00:01] Wide static shot of a dated 2000s living room in cool dawn light: worn beige carpet, bulky dark wood entertainment center, faded floral wallpaper, old sectional sofa, cluttered with outdated decor and dim lighting. Workers arrive with tools and boxes. SFX: morning birds, door creaks, light ambience. [00:01–00:03] Rapid demolition and prep: workers remove old carpet, wallpaper, furniture, and fixtures at accelerated speed. Walls are smoothed and painted, electrical updates hidden, new subfloor prepped. Sun rises, shadows shift. SFX: ripping carpet, scraping wallpaper, hammering, debris clearing. [00:03–00:06] Core installation: modern light oak or gray floating shelves and media console installed, large sectional sofa in neutral tones placed, sleek TV mounted, herringbone or luxury vinyl plank flooring laid, statement area rug unrolled. Midday bright natural light floods in. SFX: drilling, furniture positioning, vacuuming, tool clicks. [00:06–00:08] Finishing details: modern lighting (floor lamps, recessed, LED strips), throw pillows, plants, artwork, and curtains added. Coffee table with decor materializes. Late afternoon golden light creates warm reflections. SFX: softer placement sounds, fabric rustling, light switches. [00:08–00:10] Final reveal of the completed contemporary minimalist living room in sunset warmth: bright, cozy, inviting with clean lines, layered textures, organized open shelving, soft ambient lighting, fresh plants. Aspirational calm atmosphere. Camera behavior: Adaptive static timelapse camera — fixed elevated corner with intelligent minor reframing and parallax to maintain full view and cinematic depth. Natural perspective shifts, smooth material transitions. Mood and aesthetics: Hyper-realistic renovation timelapse, satisfying accelerated change from dated and cluttered to bright modern sanctuary. Emphasis on textures (wood grain, fabric weaves, paint finishes), dynamic natural lighting, clean progress, and achievement. Highly detailed surfaces, realistic physics, organic movements. Cinematic color grading, 10 seconds total duration.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="Living Room Renovation Timelapse">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2078102401446490554)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **Published:** Jul 17, 2026
+
+---
 ### 3D Logo Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2873,51 +2911,13 @@ Snail + Kitten = Snitten
 **Author:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Source:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **Published:** May 28, 2026
 
 ---
-### Consistent Anime Character Walking
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical prompt designed for Gemini Omni to generate a stable anime character walking animation with consistent hair, clothing, and colors.
-
-#### 📝 Prompt
-
-```
-Anime girl in a purple-haired dress walks steadily forward, with her hairstyle, hair color, dress style, and color remaining constant throughout, her figure and appearance unchanged, and her image across frames unified and stable.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/68f2fb195cb7c459f7cbeb8b4f7946dc/thumbnails/thumbnail.jpg" width="600" alt="Consistent Anime Character Walking">
-
-**[🎬 Watch Video →](https://x.com/cloudwiseAI2026/status/2059898750190166145)**
-
-**Author:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Source:** [Link](https://x.com/cloudwiseAI2026/status/2059898750190166145) | **Published:** May 28, 2026
-
----
-### FPV Drone Map Flight
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A prompt to generate high-speed FPV drone footage starting from a specific point on a map screenshot using Gemini Omni Flash.
-
-#### 📝 Prompt
-
-```
-High-speed FPV drone footage. Complete first-person view (pure FPV POV). The footage begins from the starting point on the screen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8e5f5f104bffabd0a8409b32e9ebdf4f/thumbnails/thumbnail.jpg" width="600" alt="FPV Drone Map Flight">
-
-**[🎬 Watch Video →](https://x.com/tanabe_fragm/status/2059781140245057683)**
-
-**Author:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2059781140245057683) | **Published:** May 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 16 more prompts not shown here
+### 🎯 18 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2963,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-18T06:04:01.568Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-18T09:23:43.867Z</sub>
 
 </div>
