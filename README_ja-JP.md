@@ -2959,6 +2959,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-19T13:14:40.867Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-19T16:56:50.916Z</sub>
 
 </div>
