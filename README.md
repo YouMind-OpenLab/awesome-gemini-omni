@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **118** |
+| 📝 Total Prompts | **120** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-20** |
 
@@ -56,6 +56,44 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Mie Ayam Food Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt designed for Gemini to generate a high-end food timelapse of Indonesian Chicken Noodles (Mie Ayam), featuring professional lighting and macro details.
+
+#### 📝 Prompt
+
+```
+Create a cinematic timelapse of crafting a luxurious bowl of Mie Ayam (Indonesian Chicken Noodles), themed 'Culinary Elegance.' Blend warm golden lighting, macro food photography, and elegant bokeh effects. Focus on bouncy golden noodles being tossed, glossy caramelized chicken chunks, and rich steaming broth pouring in slow-motion. Include drizzling aromatic chili oil, falling fresh green scallions, and a sleek dark ceramic bowl. Add floating steam particles and dynamic macro pans with a gentle zoom-in. Create a mouth-watering, warm, luxurious atmosphere blending culinary art with high-end aesthetics.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="Cinematic Mie Ayam Food Timelapse">
+
+**[🎬 Watch Video →](https://x.com/aikonect_/status/2078803644867383767)**
+
+**Author:** [aiko](https://x.com/aikonect_) | **Source:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **Published:** Jul 19, 2026
+
+---
+### Soccer Player Jumping Out of Screen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video generation prompt where a soccer player kicks a ball out of a screen and then jumps out to juggle it on a person's palm.
+
+#### 📝 Prompt
+
+```
+The soccer player kicks the ball out of the screen... I catch it in my hand... Then the player jumps out of the screen and starts juggling the ball on my palm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="Soccer Player Jumping Out of Screen">
+
+**[🎬 Watch Video →](https://x.com/nicegen_ai/status/2078656532955439254)**
+
+**Author:** [NiceGen.ai](https://x.com/nicegen_ai) | **Source:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **Published:** Jul 19, 2026
+
+---
 ### Sims Style Character Creation Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2873,51 +2911,13 @@ Use a soft ivory poster background, a thin moving panoramic strip at the top, an
 **Author:** [マグマグ](https://x.com/loglogrog) | **Source:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Published:** May 28, 2026
 
 ---
-### Photorealistic Red Yarn Generation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A simple prompt for generating photorealistic red yarn textures as part of a multimodal creative workflow in Gemini Omni.
-
-#### 📝 Prompt
-
-```
-photorealistic red yarn
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dbe6d5ba400dd1a8f921dd24ebc5a66/thumbnails/thumbnail.jpg" width="600" alt="Photorealistic Red Yarn Generation">
-
-**[🎬 Watch Video →](https://x.com/DataChaz/status/2059993335776129054)**
-
-**Author:** [Charly Wargnier](https://x.com/DataChaz) | **Source:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **Published:** May 28, 2026
-
----
-### The Snitten Hybrid
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative prompt used to generate a video of a whimsical hybrid creature merging a snail and a kitten.
-
-#### 📝 Prompt
-
-```
-Snail + Kitten = Snitten
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="The Snitten Hybrid">
-
-**[🎬 Watch Video →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
-
-**Author:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Source:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **Published:** May 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 18 more prompts not shown here
+### 🎯 20 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2963,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-20T06:43:58.645Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-20T10:50:35.880Z</sub>
 
 </div>

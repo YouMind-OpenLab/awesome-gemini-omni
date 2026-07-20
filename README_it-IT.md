@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **118** |
+| 📝 Totale prompt | **120** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-07-20** |
 
@@ -56,6 +56,44 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Timelapse cinematografico di Mie Ayam
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico progettato per Gemini per generare un timelapse gastronomico di alta qualità di Mie Ayam (spaghetti indonesiani al pollo), caratterizzato da un'illuminazione professionale e dettagli macro.
+
+#### 📝 Prompt
+
+```
+Crea un timelapse cinematografico della preparazione di una lussuosa ciotola di Mie Ayam (spaghetti indonesiani al pollo), a tema 'Eleganza Culinaria'. Combina un'illuminazione calda e dorata, fotografia macro di cibo ed eleganti effetti bokeh. Concentrati sugli spaghetti dorati e sodi che vengono mescolati, sui bocconcini di pollo caramellati e lucidi e sul ricco brodo fumante versato al rallentatore. Includi un filo di olio al peperoncino aromatico, cipollotti freschi che cadono e un'elegante ciotola in ceramica scura. Aggiungi particelle di vapore fluttuanti e panoramiche macro dinamiche con un leggero zoom in avanti. Crea un'atmosfera invitante, calda e lussuosa che unisca l'arte culinaria a un'estetica di alto livello.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="Timelapse cinematografico di Mie Ayam">
+
+**[🎬 Guarda il video →](https://x.com/aikonect_/status/2078803644867383767)**
+
+**Autore:** [aiko](https://x.com/aikonect_) | **Fonte:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **Pubblicato:** Jul 19, 2026
+
+---
+### Calciatore che esce dallo schermo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt creativo per la generazione di video in cui un calciatore calcia un pallone fuori dallo schermo e poi salta fuori per palleggiare sul palmo della mano di una persona.
+
+#### 📝 Prompt
+
+```
+Il calciatore calcia il pallone fuori dallo schermo... lo afferro con la mano... Poi il giocatore salta fuori dallo schermo e inizia a palleggiare sul mio palmo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="Calciatore che esce dallo schermo">
+
+**[🎬 Guarda il video →](https://x.com/nicegen_ai/status/2078656532955439254)**
+
+**Autore:** [NiceGen.ai](https://x.com/nicegen_ai) | **Fonte:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **Pubblicato:** Jul 19, 2026
+
+---
 ### Video di creazione personaggio in stile The Sims
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2873,51 +2911,13 @@ Utilizza uno sfondo color avorio tenue, una sottile striscia panoramica in movim
 **Autore:** [マグマグ](https://x.com/loglogrog) | **Fonte:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Pubblicato:** May 28, 2026
 
 ---
-### Generazione di filato rosso fotorealistico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un semplice prompt per generare texture di filato rosso fotorealistico come parte di un flusso di lavoro creativo multimodale in Gemini Omni.
-
-#### 📝 Prompt
-
-```
-filato rosso fotorealistico
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dbe6d5ba400dd1a8f921dd24ebc5a66/thumbnails/thumbnail.jpg" width="600" alt="Generazione di filato rosso fotorealistico">
-
-**[🎬 Guarda il video →](https://x.com/DataChaz/status/2059993335776129054)**
-
-**Autore:** [Charly Wargnier](https://x.com/DataChaz) | **Fonte:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **Pubblicato:** May 28, 2026
-
----
-### L'ibrido Snitten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo utilizzato per generare il video di una stravagante creatura ibrida che unisce una lumaca e un gattino.
-
-#### 📝 Prompt
-
-```
-Lumaca + Gattino = Snitten
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="L'ibrido Snitten">
-
-**[🎬 Guarda il video →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
-
-**Autore:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Fonte:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **Pubblicato:** May 28, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 18 altri prompt non mostrati qui
+### 🎯 20 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2963,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-20T06:44:05.037Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-20T10:50:46.652Z</sub>
 
 </div>

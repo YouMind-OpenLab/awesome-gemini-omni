@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **118** |
+| 📝 Gesamtanzahl Prompts | **120** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-20** |
 
@@ -56,6 +56,44 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Cinematische Mie Ayam Food-Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer Video-Prompt für Gemini zur Erstellung einer hochwertigen Food-Timelapse von indonesischen Hühnchen-Nudeln (Mie Ayam), mit professioneller Beleuchtung und Makro-Details.
+
+#### 📝 Prompt
+
+```
+Erstelle eine cinematische Timelapse von der Zubereitung einer luxuriösen Schale Mie Ayam (indonesische Hühnchen-Nudeln) unter dem Motto 'Kulinarische Eleganz'. Kombiniere warme, goldene Beleuchtung, Makro-Food-Fotografie und elegante Bokeh-Effekte. Konzentriere dich auf elastische, goldene Nudeln, die geschwenkt werden, glänzende, karamellisierte Hühnchenstücke und eine reichhaltige, dampfende Brühe, die in Zeitlupe eingegossen wird. Füge träufelndes, aromatisches Chili-Öl, fallende frische Frühlingszwiebeln und eine elegante, dunkle Keramikschale hinzu. Ergänze schwebende Dampfpartikel und dynamische Makro-Schwenks mit einem sanften Zoom. Erzeuge eine appetitanregende, warme und luxuriöse Atmosphäre, die kulinarische Kunst mit High-End-Ästhetik verbindet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="Cinematische Mie Ayam Food-Timelapse">
+
+**[🎬 Video ansehen →](https://x.com/aikonect_/status/2078803644867383767)**
+
+**Autor:** [aiko](https://x.com/aikonect_) | **Quelle:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **Veröffentlicht:** Jul 19, 2026
+
+---
+### Fußballspieler springt aus dem Bildschirm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Prompt zur Videogenerierung, bei dem ein Fußballspieler einen Ball aus einem Bildschirm kickt und anschließend herausspringt, um ihn auf der Handfläche einer Person zu jonglieren.
+
+#### 📝 Prompt
+
+```
+Der Fußballspieler kickt den Ball aus dem Bildschirm... Ich fange ihn mit meiner Hand... Dann springt der Spieler aus dem Bildschirm und beginnt, den Ball auf meiner Handfläche zu jonglieren.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="Fußballspieler springt aus dem Bildschirm">
+
+**[🎬 Video ansehen →](https://x.com/nicegen_ai/status/2078656532955439254)**
+
+**Autor:** [NiceGen.ai](https://x.com/nicegen_ai) | **Quelle:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **Veröffentlicht:** Jul 19, 2026
+
+---
 ### Video zur Charaktererstellung im Sims-Stil
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2873,51 +2911,13 @@ Verwende einen weichen, elfenbeinfarbenen Plakat-Hintergrund, einen dünnen, sic
 **Autor:** [マグマグ](https://x.com/loglogrog) | **Quelle:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Veröffentlicht:** May 28, 2026
 
 ---
-### Fotorealistische Generierung von rotem Garn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein einfacher Prompt zur Erstellung fotorealistischer Texturen von rotem Garn als Teil eines multimodalen kreativen Workflows in Gemini Omni.
-
-#### 📝 Prompt
-
-```
-fotorealistisches rotes Garn
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dbe6d5ba400dd1a8f921dd24ebc5a66/thumbnails/thumbnail.jpg" width="600" alt="Fotorealistische Generierung von rotem Garn">
-
-**[🎬 Video ansehen →](https://x.com/DataChaz/status/2059993335776129054)**
-
-**Autor:** [Charly Wargnier](https://x.com/DataChaz) | **Quelle:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **Veröffentlicht:** May 28, 2026
-
----
-### Der Snitten-Hybrid
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Prompt zur Erstellung eines Videos von einem skurrilen Hybridwesen, das eine Schnecke mit einem Kätzchen verschmilzt.
-
-#### 📝 Prompt
-
-```
-Schnecke + Kätzchen = Snitten
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="Der Snitten-Hybrid">
-
-**[🎬 Video ansehen →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
-
-**Autor:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Quelle:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **Veröffentlicht:** May 28, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 18 weitere Prompts hier nicht angezeigt
+### 🎯 20 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2963,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-20T06:44:04.037Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-20T10:50:44.832Z</sub>
 
 </div>

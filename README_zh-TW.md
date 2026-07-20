@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **118** |
+| 📝 提示詞總數 | **120** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-07-20** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 電影級 Mie Ayam 美食縮時攝影
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個專為 Gemini 設計的電影級影片提示詞，旨在生成印尼雞肉麵（Mie Ayam）的高端美食縮時攝影，呈現專業燈光與微距細節。
+
+#### 📝 提示詞
+
+```
+創作一段電影級縮時攝影，展示製作一碗奢華 Mie Ayam（印尼雞肉麵）的過程，主題為「烹飪優雅」。融合溫暖的金色燈光、微距美食攝影以及優雅的散景效果。焦點在於彈牙的金黃麵條被翻動的瞬間、油亮焦糖色的雞肉塊，以及濃郁的高湯緩緩倒入的慢動作。加入淋上香氣四溢的辣油、灑落的新鮮青蔥，以及精緻的深色陶瓷碗。添加漂浮的蒸氣粒子，並配合柔和的放大效果進行動態微距運鏡。營造出一種令人垂涎、溫暖且奢華的氛圍，將烹飪藝術與高端美學完美結合。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="電影級 Mie Ayam 美食縮時攝影">
+
+**[🎬 觀看視頻 →](https://x.com/aikonect_/status/2078803644867383767)**
+
+**作者:** [aiko](https://x.com/aikonect_) | **來源:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **發布時間:** Jul 19, 2026
+
+---
+### 足球員從螢幕中跳出
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個充滿創意的影片生成提示詞：足球員將球踢出螢幕，隨後跳出螢幕並在人的手掌上進行顛球表演。
+
+#### 📝 提示詞
+
+```
+足球員將球踢出螢幕……我用手接住球……接著該球員從螢幕中跳出，並開始在我的手掌上進行顛球。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="足球員從螢幕中跳出">
+
+**[🎬 觀看視頻 →](https://x.com/nicegen_ai/status/2078656532955439254)**
+
+**作者:** [NiceGen.ai](https://x.com/nicegen_ai) | **來源:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **發布時間:** Jul 19, 2026
+
+---
 ### 模擬市民 (The Sims) 風格角色創建影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2873,51 +2911,13 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 **作者:** [マグマグ](https://x.com/loglogrog) | **來源:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **發布時間:** May 28, 2026
 
 ---
-### 生成照片級逼真的紅色毛線
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個簡單的提示詞，用於在 Gemini Omni 的多模態創意工作流程中生成照片級逼真的紅色毛線紋理。
-
-#### 📝 提示詞
-
-```
-照片級逼真的紅色毛線
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dbe6d5ba400dd1a8f921dd24ebc5a66/thumbnails/thumbnail.jpg" width="600" alt="生成照片級逼真的紅色毛線">
-
-**[🎬 觀看視頻 →](https://x.com/DataChaz/status/2059993335776129054)**
-
-**作者:** [Charly Wargnier](https://x.com/DataChaz) | **來源:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **發布時間:** May 28, 2026
-
----
-### Snitten 混合體
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個創意提示詞，用於生成一隻結合蝸牛與小貓的奇幻混合生物影片。
-
-#### 📝 提示詞
-
-```
-蝸牛 + 小貓 = Snitten
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="Snitten 混合體">
-
-**[🎬 觀看視頻 →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
-
-**作者:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **來源:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **發布時間:** May 28, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 18 更多提示詞未在此顯示
+### 🎯 20 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2963,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-20T06:43:59.626Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-20T10:50:37.593Z</sub>
 
 </div>

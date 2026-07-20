@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **118** |
+| 📝 พรอมต์ทั้งหมด | **120** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-07-20** |
 
@@ -56,6 +56,44 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### วิดีโอไทม์แลปส์เมนูหมี่ไก่สไตล์ภาพยนตร์
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์วิดีโอสไตล์ภาพยนตร์ที่ออกแบบมาสำหรับ Gemini เพื่อสร้างวิดีโอไทม์แลปส์อาหารระดับไฮเอนด์ของเมนูหมี่ไก่ (Mie Ayam) โดยเน้นการจัดแสงแบบมืออาชีพและรายละเอียดแบบมาโคร
+
+#### 📝 พรอมต์
+
+```
+สร้างวิดีโอไทม์แลปส์สไตล์ภาพยนตร์ของการทำหมี่ไก่ (Mie Ayam) ชามหรูในธีม 'Culinary Elegance' ผสมผสานการจัดแสงโทนสีทองอบอุ่น การถ่ายภาพอาหารแบบมาโคร และเอฟเฟกต์โบเก้ที่สวยงาม เน้นภาพเส้นหมี่สีทองเหนียวนุ่มที่กำลังถูกคลุกเคล้า ชิ้นไก่เคลือบซอสเงางาม และน้ำซุปเข้มข้นที่กำลังเทลงมาแบบสโลว์โมชั่น เพิ่มรายละเอียดการหยดน้ำมันพริกหอมๆ การโรยต้นหอมสด และชามเซรามิกสีเข้มดีไซน์เรียบหรู ใส่เอฟเฟกต์ละอองไอน้ำลอยฟุ้งและการเคลื่อนกล้องแบบมาโครที่ซูมเข้าอย่างนุ่มนวล สร้างบรรยากาศที่ดูหรูหรา อบอุ่น และน่ารับประทาน โดยผสมผสานศิลปะการทำอาหารเข้ากับสุนทรียภาพระดับไฮเอนด์
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="วิดีโอไทม์แลปส์เมนูหมี่ไก่สไตล์ภาพยนตร์">
+
+**[🎬 ดูวิดีโอ →](https://x.com/aikonect_/status/2078803644867383767)**
+
+**ผู้เขียน:** [aiko](https://x.com/aikonect_) | **แหล่งที่มา:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **เผยแพร่เมื่อ:** Jul 19, 2026
+
+---
+### นักฟุตบอลกระโดดออกมาจากหน้าจอ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> พรอมต์สำหรับการสร้างวิดีโอเชิงสร้างสรรค์ โดยนักฟุตบอลเตะลูกบอลออกมาจากหน้าจอ จากนั้นกระโดดออกมาเพื่อเดาะบอลบนฝ่ามือของคน
+
+#### 📝 พรอมต์
+
+```
+นักฟุตบอลเตะลูกบอลออกมาจากหน้าจอ... ฉันรับมันไว้ในมือ... จากนั้นนักฟุตบอลก็กระโดดออกมาจากหน้าจอและเริ่มเดาะบอลบนฝ่ามือของฉัน
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="นักฟุตบอลกระโดดออกมาจากหน้าจอ">
+
+**[🎬 ดูวิดีโอ →](https://x.com/nicegen_ai/status/2078656532955439254)**
+
+**ผู้เขียน:** [NiceGen.ai](https://x.com/nicegen_ai) | **แหล่งที่มา:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **เผยแพร่เมื่อ:** Jul 19, 2026
+
+---
 ### วิดีโอสร้างตัวละครสไตล์ The Sims
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2851,51 +2889,13 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 **ผู้เขียน:** [マグマグ](https://x.com/loglogrog) | **แหล่งที่มา:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **เผยแพร่เมื่อ:** May 28, 2026
 
 ---
-### การสร้างภาพเส้นด้ายสีแดงให้สมจริง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) อย่างง่ายสำหรับการสร้างพื้นผิวเส้นด้ายสีแดงที่ดูสมจริง เพื่อเป็นส่วนหนึ่งของขั้นตอนการสร้างสรรค์ผลงานแบบมัลติโมดัลใน Gemini Omni
-
-#### 📝 พรอมต์
-
-```
-photorealistic red yarn
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dbe6d5ba400dd1a8f921dd24ebc5a66/thumbnails/thumbnail.jpg" width="600" alt="การสร้างภาพเส้นด้ายสีแดงให้สมจริง">
-
-**[🎬 ดูวิดีโอ →](https://x.com/DataChaz/status/2059993335776129054)**
-
-**ผู้เขียน:** [Charly Wargnier](https://x.com/DataChaz) | **แหล่งที่มา:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **เผยแพร่เมื่อ:** May 28, 2026
-
----
-### Snitten Hybrid
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) เชิงสร้างสรรค์ที่ใช้สำหรับสร้างวิดีโอของสิ่งมีชีวิตลูกผสมสุดแปลกตาที่รวมร่างระหว่างหอยทากและลูกแมวเข้าด้วยกัน
-
-#### 📝 พรอมต์
-
-```
-หอยทาก + ลูกแมว = Snitten
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="Snitten Hybrid">
-
-**[🎬 ดูวิดีโอ →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
-
-**ผู้เขียน:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **แหล่งที่มา:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **เผยแพร่เมื่อ:** May 28, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 18 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 20 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2941,6 +2941,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-20T06:44:01.201Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-07-20T10:50:40.395Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **118** |
+| 📝 총 프롬프트 수 | **120** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-20** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 시네마틱 미 아얌(Mie Ayam) 음식 타임랩스
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 인도네시아식 닭고기 국수(Mie Ayam)를 전문적인 조명과 매크로 디테일로 담아낸, Gemini용 고품질 음식 타임랩스 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+'요리의 우아함(Culinary Elegance)'을 테마로, 고급스러운 미 아얌(인도네시아식 닭고기 국수) 한 그릇을 만드는 과정을 담은 시네마틱 타임랩스를 생성하세요. 따뜻한 황금빛 조명, 매크로 음식 사진 기법, 그리고 우아한 보케 효과를 조화롭게 연출하세요. 탱글탱글한 황금빛 면발을 섞는 모습, 윤기가 흐르는 캐러멜라이징된 닭고기 조각, 그리고 진한 육수가 천천히 부어지는 장면에 집중하세요. 향긋한 고추기름을 뿌리고 신선한 대파를 얹는 모습과 세련된 검은색 도자기 그릇을 포함하세요. 피어오르는 김 입자와 부드러운 줌인 효과가 가미된 역동적인 매크로 팬(pan) 촬영 기법을 적용하세요. 요리 예술과 하이엔드 미학이 어우러진, 군침 도는 따뜻하고 고급스러운 분위기를 연출하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="시네마틱 미 아얌(Mie Ayam) 음식 타임랩스">
+
+**[🎬 비디오 보기 →](https://x.com/aikonect_/status/2078803644867383767)**
+
+**작성자:** [aiko](https://x.com/aikonect_) | **출처:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **게시일:** Jul 19, 2026
+
+---
+### 화면 밖으로 튀어나오는 축구 선수
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 축구 선수가 화면 밖으로 공을 차낸 뒤, 직접 튀어나와 사람의 손바닥 위에서 공을 저글링하는 창의적인 영상 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+축구 선수가 화면 밖으로 공을 차냅니다... 제가 공을 손으로 잡습니다... 그러자 선수가 화면 밖으로 튀어나와 제 손바닥 위에서 공을 저글링하기 시작합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="화면 밖으로 튀어나오는 축구 선수">
+
+**[🎬 비디오 보기 →](https://x.com/nicegen_ai/status/2078656532955439254)**
+
+**작성자:** [NiceGen.ai](https://x.com/nicegen_ai) | **출처:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **게시일:** Jul 19, 2026
+
+---
 ### 심즈(Sims) 스타일 캐릭터 생성 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2867,51 +2905,13 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 **작성자:** [マグマグ](https://x.com/loglogrog) | **출처:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **게시일:** May 28, 2026
 
 ---
-### 실사 같은 빨간색 실 생성
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni의 멀티모달 크리에이티브 워크플로우의 일환으로, 실사 같은 빨간색 실 텍스처를 생성하기 위한 간단한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-photorealistic red yarn
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dbe6d5ba400dd1a8f921dd24ebc5a66/thumbnails/thumbnail.jpg" width="600" alt="실사 같은 빨간색 실 생성">
-
-**[🎬 비디오 보기 →](https://x.com/DataChaz/status/2059993335776129054)**
-
-**작성자:** [Charly Wargnier](https://x.com/DataChaz) | **출처:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **게시일:** May 28, 2026
-
----
-### 스니튼 (Snitten) 하이브리드
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 달팽이와 새끼 고양이가 결합된 기발한 하이브리드 생물 영상을 생성하기 위한 창의적인 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-달팽이 + 새끼 고양이 = 스니튼 (Snitten)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="스니튼 (Snitten) 하이브리드">
-
-**[🎬 비디오 보기 →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
-
-**작성자:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **출처:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **게시일:** May 28, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 18 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 20 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2957,6 +2957,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-20T06:44:00.603Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-20T10:50:39.234Z</sub>
 
 </div>

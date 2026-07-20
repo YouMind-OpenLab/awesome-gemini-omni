@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **118** |
+| 📝 Toplam İstem | **120** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-20** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Mie Ayam Yemek Zaman Atlamalı Çekimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini'nin Endonezya usulü Tavuklu Erişte (Mie Ayam) için profesyonel aydınlatma ve makro detaylar içeren üst düzey bir yemek zaman atlamalı (timelapse) videosu oluşturması için tasarlanmış sinematik bir video istemi.
+
+#### 📝 İstem
+
+```
+'Mutfak Zarafeti' temalı, lüks bir kase Mie Ayam (Endonezya usulü Tavuklu Erişte) yapımını konu alan sinematik bir zaman atlamalı çekim oluşturun. Sıcak altın rengi aydınlatmayı, makro yemek fotoğrafçılığını ve zarif bokeh efektlerini harmanlayın. Karıştırılan esnek altın rengi eriştelere, parlak karamelize tavuk parçalarına ve ağır çekimde dökülen zengin, dumanı tüten et suyuna odaklanın. Üzerine gezdirilen aromatik acı yağ, serpilen taze yeşil soğanlar ve şık, koyu renkli seramik bir kaseyi dahil edin. Yükselen buhar parçacıkları ve hafif bir yakınlaştırma ile dinamik makro kamera hareketleri ekleyin. Mutfak sanatını üst düzey estetikle birleştiren, ağız sulandıran, sıcak ve lüks bir atmosfer yaratın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="Sinematik Mie Ayam Yemek Zaman Atlamalı Çekimi">
+
+**[🎬 Videoyu izle →](https://x.com/aikonect_/status/2078803644867383767)**
+
+**Yazar:** [aiko](https://x.com/aikonect_) | **Kaynak:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **Yayınlandı:** Jul 19, 2026
+
+---
+### Ekrandan Dışarı Atlayan Futbolcu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir futbolcunun ekrandan dışarı topa vurduğu ve ardından dışarı atlayıp bir kişinin avucunda top sektirdiği yaratıcı bir video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Futbolcu topa vurarak ekranın dışına çıkarıyor... Topu elimle yakalıyorum... Ardından futbolcu ekrandan dışarı atlıyor ve avucumun üzerinde top sektirmeye başlıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="Ekrandan Dışarı Atlayan Futbolcu">
+
+**[🎬 Videoyu izle →](https://x.com/nicegen_ai/status/2078656532955439254)**
+
+**Yazar:** [NiceGen.ai](https://x.com/nicegen_ai) | **Kaynak:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **Yayınlandı:** Jul 19, 2026
+
+---
 ### Sims Tarzı Karakter Oluşturma Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2871,51 +2909,13 @@ Yumuşak fildişi rengi bir poster arka planı, üst kısımda ince, hareketli p
 **Yazar:** [マグマグ](https://x.com/loglogrog) | **Kaynak:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Yayınlandı:** May 28, 2026
 
 ---
-### Fotogerçekçi Kırmızı İplik Oluşturma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni'deki çok modlu yaratıcı iş akışının bir parçası olarak fotogerçekçi kırmızı iplik dokuları oluşturmaya yönelik basit bir komut.
-
-#### 📝 İstem
-
-```
-fotogerçekçi kırmızı iplik
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dbe6d5ba400dd1a8f921dd24ebc5a66/thumbnails/thumbnail.jpg" width="600" alt="Fotogerçekçi Kırmızı İplik Oluşturma">
-
-**[🎬 Videoyu izle →](https://x.com/DataChaz/status/2059993335776129054)**
-
-**Yazar:** [Charly Wargnier](https://x.com/DataChaz) | **Kaynak:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **Yayınlandı:** May 28, 2026
-
----
-### Snitten Hibriti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Salyangoz ve kedi yavrusunun birleşiminden oluşan hayali bir hibrit yaratığın videosunu oluşturmak için kullanılan yaratıcı bir istem.
-
-#### 📝 İstem
-
-```
-Salyangoz + Kedi Yavrusu = Snitten
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="Snitten Hibriti">
-
-**[🎬 Videoyu izle →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
-
-**Yazar:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Kaynak:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **Yayınlandı:** May 28, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 18 burada gösterilmeyen daha fazla istem
+### 🎯 20 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2961,6 +2961,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-20T06:44:06.847Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-20T10:50:49.320Z</sub>
 
 </div>

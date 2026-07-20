@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **118** |
+| 📝 Tổng số prompt | **120** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-20** |
 
@@ -56,6 +56,44 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video Timelapse Điện ảnh về Món Mì Gà (Mie Ayam)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video điện ảnh được thiết kế cho Gemini để tạo video timelapse ẩm thực cao cấp về món Mì Gà Indonesia (Mie Ayam), với ánh sáng chuyên nghiệp và các chi tiết macro sắc nét.
+
+#### 📝 Prompt
+
+```
+Hãy tạo một video timelapse điện ảnh về quá trình chế biến một tô Mie Ayam (Mì Gà Indonesia) sang trọng với chủ đề 'Nghệ thuật Ẩm thực'. Kết hợp ánh sáng vàng ấm áp, kỹ thuật chụp ảnh thực phẩm macro và hiệu ứng bokeh tinh tế. Tập trung vào những sợi mì vàng óng đang được trộn đều, những miếng gà kho caramen bóng bẩy và nước dùng đậm đà đang được rót vào theo hiệu ứng chuyển động chậm (slow-motion). Thêm cảnh rưới dầu ớt thơm lừng, hành lá tươi xanh rơi xuống và chiếc bát gốm đen bóng bẩy. Kết hợp các hạt hơi nước bay bổng và các cảnh quay macro động với hiệu ứng zoom nhẹ. Tạo ra một bầu không khí ấm áp, sang trọng và đầy kích thích vị giác, kết hợp giữa nghệ thuật ẩm thực và tính thẩm mỹ cao cấp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="Video Timelapse Điện ảnh về Món Mì Gà (Mie Ayam)">
+
+**[🎬 Xem video →](https://x.com/aikonect_/status/2078803644867383767)**
+
+**Tác giả:** [aiko](https://x.com/aikonect_) | **Nguồn:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **Đã xuất bản:** Jul 19, 2026
+
+---
+### Cầu thủ bóng đá nhảy ra khỏi màn hình
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video sáng tạo, trong đó một cầu thủ bóng đá sút quả bóng ra khỏi màn hình, sau đó nhảy ra ngoài để tâng bóng trên lòng bàn tay của một người.
+
+#### 📝 Prompt
+
+```
+Cầu thủ bóng đá sút quả bóng ra khỏi màn hình... Tôi bắt lấy nó trong lòng bàn tay... Sau đó, cầu thủ nhảy ra khỏi màn hình và bắt đầu tâng bóng trên lòng bàn tay của tôi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="Cầu thủ bóng đá nhảy ra khỏi màn hình">
+
+**[🎬 Xem video →](https://x.com/nicegen_ai/status/2078656532955439254)**
+
+**Tác giả:** [NiceGen.ai](https://x.com/nicegen_ai) | **Nguồn:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **Đã xuất bản:** Jul 19, 2026
+
+---
 ### Video tạo nhân vật theo phong cách The Sims
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2873,51 +2911,13 @@ Sử dụng nền poster màu trắng ngà nhẹ nhàng, một dải ảnh toàn
 **Tác giả:** [マグマグ](https://x.com/loglogrog) | **Nguồn:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Đã xuất bản:** May 28, 2026
 
 ---
-### Tạo hình sợi len đỏ chân thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh đơn giản để tạo kết cấu sợi len đỏ chân thực như một phần của quy trình sáng tạo đa phương thức trong Gemini Omni.
-
-#### 📝 Prompt
-
-```
-sợi len đỏ chân thực
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9dbe6d5ba400dd1a8f921dd24ebc5a66/thumbnails/thumbnail.jpg" width="600" alt="Tạo hình sợi len đỏ chân thực">
-
-**[🎬 Xem video →](https://x.com/DataChaz/status/2059993335776129054)**
-
-**Tác giả:** [Charly Wargnier](https://x.com/DataChaz) | **Nguồn:** [Link](https://x.com/DataChaz/status/2059993335776129054) | **Đã xuất bản:** May 28, 2026
-
----
-### Sinh vật lai Snitten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh sáng tạo được sử dụng để tạo video về một sinh vật lai kỳ lạ kết hợp giữa ốc sên và mèo con.
-
-#### 📝 Prompt
-
-```
-Ốc sên + Mèo con = Snitten
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/4733b3e2a194585910d9ac81bab691fc/thumbnails/thumbnail.jpg" width="600" alt="Sinh vật lai Snitten">
-
-**[🎬 Xem video →](https://x.com/BuildFastWithAI/status/2059961447443296380)**
-
-**Tác giả:** [Build Fast with AI](https://x.com/BuildFastWithAI) | **Nguồn:** [Link](https://x.com/BuildFastWithAI/status/2059961447443296380) | **Đã xuất bản:** May 28, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 18 prompt khác không hiển thị ở đây
+### 🎯 20 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2963,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-20T06:44:01.753Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-20T10:50:41.356Z</sub>
 
 </div>
