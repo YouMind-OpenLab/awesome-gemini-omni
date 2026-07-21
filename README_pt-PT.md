@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **120** |
+| 📝 Total de prompts | **122** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-21** |
 
@@ -56,6 +56,45 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Viúva Rajasthani em Aquarela Cinematográfica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo narrativo usando um estilo de aquarela cinematográfica para contar a história de uma viúva e suas filhas no pátio de uma casa de barro.
+
+#### 📝 Prompt
+
+```
+O Peso da Viuvez. Plano médio cinematográfico, continuando o movimento de câmera descendente da cena anterior. A câmera foca em uma jovem viúva Rajasthani, despojada de suas joias de casamento, sentada no pátio empoeirado de sua casa de barro. Um olhar profundo de tristeza, solidão e reflexão pesada está em seu rosto. Há 3 meninas mais novas sentadas ao redor dela, todas adolescentes com cerca de 14 a 15 anos, olhando para ela em busca de orientação com um pequeno vislumbre de esperança. A luta pela sobrevivência delas é visível em sua postura. Estilo de Arte: Estilo de pintura em aquarela cinematográfica. Pinceladas suaves e expressivas, lavagens de cores fluidas e tons terrosos. Pintura em aquarela animada de alta qualidade. Não use estilos fotorrealistas, live-action ou renderizações 3D. Áudio: Música instrumental ou sons ambientais, sem vocais ou narrações.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="Viúva Rajasthani em Aquarela Cinematográfica">
+
+**[🎬 Assistir vídeo →](https://x.com/GargeyaS/status/2079207922006114649)**
+
+**Autor:** [Gargeya](https://x.com/GargeyaS) | **Fonte:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **Publicado:** Jul 20, 2026
+
+---
+### Destaques de Férias no Estilo iPhone 16
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para criar filmagens realistas de férias feitas à mão, apresentando características específicas de movimento de câmera e iluminação do iPhone 16.
+
+#### 📝 Prompt
+
+```
+Vídeo de Destaques de Férias, Sujeito Feminino, Narração em Voz. 
+CÂMERA: iPhone 16. O sensor-shift OIS e o gyro EIS integrados suavizam a maior parte da trepidação, mas não eliminam os micro-movimentos naturais de quem segura a câmera e os ocasionais reenquadramentos que uma pessoa real filmando a si mesma produziria. O foco automático busca e reajusta brevemente quando uma mão ou produto entra no quadro em curta distância ou quando o foco muda do rosto para o objeto. A exposição se ajusta ao vivo com uma transição natural conforme o sujeito ou o produto se move em relação à luz da janela.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="Destaques de Férias no Estilo iPhone 16">
+
+**[🎬 Assistir vídeo →](https://x.com/VisuraCode/status/2079047884759011439)**
+
+**Autor:** [Visura](https://x.com/VisuraCode) | **Fonte:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **Publicado:** Jul 20, 2026
+
+---
 ### Timelapse Cinematográfico de Mie Ayam
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2870,54 +2909,13 @@ Crie um vídeo de viagem em selfie hyper-lapse de 10 segundos com o personagem e
 **Autor:** [ZeFred.AI](https://x.com/ZefredAi) | **Fonte:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Publicado:** May 28, 2026
 
 ---
-### Simulação de Clima Extremo via Satélite
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico para gerar uma simulação climática de alta fidelidade a partir de uma perspectiva de satélite, apresentando diversos sistemas climáticos extremos com legendas científicas e design de som realista.
-
-#### 📝 Prompt
-
-```
-Crie uma simulação climática cinematográfica de 10 segundos visualizada a partir de uma perspectiva de satélite, mostrando os sistemas climáticos mais extremos da Terra: furacões, monções, tempestades de raios, auroras, surtos de tornados, tempestades de areia e nuvens de cinzas vulcânicas. Legendas científicas aparecem na fonte Noto Sans do Google em branco limpo, como uma interface meteorológica ao vivo. Simulações de nuvens de alto detalhe e realismo atmosférico. O design de som inclui camadas de trovões profundos, turbulência de vento, ruído distante de rádio de emergência, drones atmosféricos e música de tensão cinematográfica. Sem diálogos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="Simulação de Clima Extremo via Satélite">
-
-**[🎬 Assistir vídeo →](https://x.com/HBCoop_/status/2060008267602853936)**
-
-**Autor:** [Heather Cooper](https://x.com/HBCoop_) | **Fonte:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **Publicado:** May 28, 2026
-
----
-### Vídeo de Pôster de Viagem Premium
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para gerar um vídeo de pôster de viagem de alta qualidade com 10 segundos, apresentando uma faixa panorâmica em movimento e tipografia estilizada para uma cidade específica.
-
-#### 📝 Prompt
-
-```
-[CITY] = TÓQUIO
-Crie um vídeo de 10 segundos no estilo de pôster de viagem premium para [CITY].
-
-Use um fundo de pôster em marfim suave, uma faixa panorâmica fina em movimento no topo e um título enorme, em negrito e centralizado, em fonte sem serifa: “[CITY]”.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Pôster de Viagem Premium">
-
-**[🎬 Assistir vídeo →](https://x.com/loglogrog/status/2059997426023584083)**
-
-**Autor:** [マグマグ](https://x.com/loglogrog) | **Fonte:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Publicado:** May 28, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 20 mais prompts não mostrados aqui
+### 🎯 22 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2961,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-21T06:27:01.474Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-21T10:24:31.812Z</sub>
 
 </div>

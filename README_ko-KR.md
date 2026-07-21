@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **120** |
+| 📝 총 프롬프트 수 | **122** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-21** |
 
@@ -56,6 +56,45 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 영화 같은 수채화풍의 라자스탄 미망인
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 점토 집 마당에 있는 미망인과 그녀의 딸들의 이야기를 영화 같은 수채화 스타일로 담아낸 내러티브 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+미망인의 무게. 영화 같은 미디엄 샷, 이전 장면에서 이어지는 아래쪽으로의 팬(pan) 촬영. 카메라는 결혼 예물을 모두 벗어버린 채 점토 집의 먼지 쌓인 마당에 앉아 있는 젊은 라자스탄 미망인을 비춥니다. 그녀의 얼굴에는 깊은 슬픔과 외로움, 그리고 무거운 고민이 서려 있습니다. 그녀 주변에는 14세에서 15세 사이의 십 대 소녀 3명이 앉아 있으며, 모두 작은 희망을 품고 그녀의 지도를 기다리는 듯한 눈빛으로 그녀를 바라보고 있습니다. 그들의 자세에서 생존을 위한 고군분투가 느껴집니다. 예술 스타일: 영화 같은 수채화 기법. 부드럽고 표현력이 풍부한 붓 터치, 흐르는 듯한 색감의 번짐, 그리고 흙빛 톤. 고품질의 애니메이션 수채화. 실사, 라이브 액션 또는 3D 렌더링 스타일은 사용하지 마십시오. 오디오: 악기 연주곡 또는 주변 환경음, 보컬이나 내레이션은 없음.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="영화 같은 수채화풍의 라자스탄 미망인">
+
+**[🎬 비디오 보기 →](https://x.com/GargeyaS/status/2079207922006114649)**
+
+**작성자:** [Gargeya](https://x.com/GargeyaS) | **출처:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **게시일:** Jul 20, 2026
+
+---
+### iPhone 16 스타일의 휴가 하이라이트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 특정 iPhone 16 카메라의 움직임과 조명 특성을 반영하여 사실적인 핸드헬드 휴가 영상을 제작하기 위한 비디오 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+휴가 하이라이트 영상, 여성 출연자, 음성 내레이션. 
+카메라: iPhone 16. 내장된 센서 시프트 OIS와 자이로 EIS가 심한 흔들림을 보정하지만, 실제 사람이 직접 촬영할 때 발생하는 자연스러운 핸드헬드 미세 움직임과 간헐적인 소규모 프레임 재조정은 그대로 유지됩니다. 손이나 피사체가 근접 거리에서 프레임 안으로 들어오거나 얼굴에서 피사체로 초점이 이동할 때, 자동 초점이 짧게 탐색 후 다시 맞춰집니다. 피사체나 제품이 창가 조명에 따라 움직일 때 노출이 자연스럽게 실시간으로 조정됩니다.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="iPhone 16 스타일의 휴가 하이라이트">
+
+**[🎬 비디오 보기 →](https://x.com/VisuraCode/status/2079047884759011439)**
+
+**작성자:** [Visura](https://x.com/VisuraCode) | **출처:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **게시일:** Jul 20, 2026
+
+---
 ### 시네마틱 미 아얌(Mie Ayam) 음식 타임랩스
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2864,54 +2903,13 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 **작성자:** [ZeFred.AI](https://x.com/ZefredAi) | **출처:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **게시일:** May 28, 2026
 
 ---
-### 극한 기상 위성 시뮬레이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 위성 시점에서 고해상도 기상 시뮬레이션을 생성하기 위한 시네마틱 프롬프트로, 과학적 라벨과 사실적인 사운드 디자인이 포함된 다양한 극한 기후 시스템을 특징으로 합니다.
-
-#### 📝 프롬프트
-
-```
-지구의 가장 극한 기후 시스템인 허리케인, 몬순, 번개 폭풍, 오로라, 토네이도 발생, 모래 폭풍, 화산재 구름을 위성 시점에서 보여주는 10초 분량의 시네마틱 기상 시뮬레이션을 생성하세요. 과학적 라벨은 실시간 기상 인터페이스처럼 깔끔한 흰색 Noto Sans Google 폰트로 표시됩니다. 고해상도 구름 시뮬레이션과 대기 사실감을 구현하세요. 사운드 디자인은 깊은 천둥소리, 바람의 난기류, 멀리서 들리는 비상 무전 잡음, 대기 드론 소리, 그리고 긴장감 넘치는 시네마틱 음악을 레이어링하세요. 대사는 없습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="극한 기상 위성 시뮬레이션">
-
-**[🎬 비디오 보기 →](https://x.com/HBCoop_/status/2060008267602853936)**
-
-**작성자:** [Heather Cooper](https://x.com/HBCoop_) | **출처:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **게시일:** May 28, 2026
-
----
-### 프리미엄 여행 포스터 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 특정 도시를 테마로 파노라마 무빙 스트립과 스타일리시한 타이포그래피가 포함된 10초 분량의 고급 여행 포스터 영상을 생성하는 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-[CITY] = KTOKYO
-[CITY]를 위한 10초 분량의 프리미엄 여행 포스터 스타일 영상을 제작하세요.
-
-부드러운 아이보리색 포스터 배경을 사용하고, 상단에는 얇은 파노라마 무빙 스트립을 배치하며, 중앙에는 크고 굵은 산세리프체 제목으로 “[CITY]”를 넣으세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="프리미엄 여행 포스터 영상">
-
-**[🎬 비디오 보기 →](https://x.com/loglogrog/status/2059997426023584083)**
-
-**작성자:** [マグマグ](https://x.com/loglogrog) | **출처:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **게시일:** May 28, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 20 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 22 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2957,6 +2955,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-21T06:26:55.299Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-21T10:24:25.888Z</sub>
 
 </div>

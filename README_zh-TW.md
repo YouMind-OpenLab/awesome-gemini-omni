@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **120** |
+| 📝 提示詞總數 | **122** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-07-21** |
 
@@ -56,6 +56,45 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 電影感水彩風格：拉賈斯坦邦的寡婦
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個敘事性影片提示詞，運用電影感水彩風格，講述了一位寡婦與女兒們在泥屋庭院中的故事。
+
+#### 📝 提示詞
+
+```
+寡婦的沉重。電影感中景鏡頭，延續上一幕的向下平移鏡頭。攝影機聚焦於一位年輕的拉賈斯坦邦寡婦，她卸下了婚禮首飾，坐在泥屋塵土飛揚的庭院中。她的臉上流露出深沉的悲傷、孤獨與沉重的思緒。身旁圍坐著 3 個年輕女孩，年齡約在 14 至 15 歲之間，她們望著她尋求指引，眼中帶著一絲微弱的希望。她們的姿態顯露出生活的艱辛。藝術風格：電影感水彩畫風格。筆觸柔和且富有表現力，色彩渲染流暢，色調呈現大地色系。高品質動畫水彩畫。請勿使用寫實、真人實拍或 3D 渲染風格。音訊：器樂或環境音效，無人聲或旁白。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="電影感水彩風格：拉賈斯坦邦的寡婦">
+
+**[🎬 觀看視頻 →](https://x.com/GargeyaS/status/2079207922006114649)**
+
+**作者:** [Gargeya](https://x.com/GargeyaS) | **來源:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **發布時間:** Jul 20, 2026
+
+---
+### iPhone 16 風格度假精華
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個影片生成提示詞，用於創作具有 iPhone 16 相機運動與光影特徵的真實手持度假影片。
+
+#### 📝 提示詞
+
+```
+度假精華影片，女性主角，語音旁白。
+相機：iPhone 16。內建的感光元件位移式光學影像穩定功能（OIS）與陀螺儀電子影像穩定功能（EIS）可平滑處理大部分晃動，但不會完全消除真實手持拍攝時產生的自然微震，以及偶爾出現的小幅重新構圖。當手部或產品近距離進入畫面，或焦點從臉部轉移至物體時，自動對焦會出現短暫的搜尋與重新對焦過程。曝光會隨著主角或產品相對於窗光的移動而進行自然的即時調整。
+```
+
+<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="iPhone 16 風格度假精華">
+
+**[🎬 觀看視頻 →](https://x.com/VisuraCode/status/2079047884759011439)**
+
+**作者:** [Visura](https://x.com/VisuraCode) | **來源:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **發布時間:** Jul 20, 2026
+
+---
 ### 電影級 Mie Ayam 美食縮時攝影
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2870,54 +2909,13 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 **作者:** [ZeFred.AI](https://x.com/ZefredAi) | **來源:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **發布時間:** May 28, 2026
 
 ---
-### 極端天氣衛星模擬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於生成衛星視角高細節天氣模擬的電影級提示詞，包含各種極端氣候系統，並附帶科學標籤與逼真的音效設計。
-
-#### 📝 提示詞
-
-```
-製作一個 10 秒的電影級天氣模擬，以衛星視角呈現地球上最極端的氣候系統：颶風、季風、雷暴、極光、龍捲風爆發、沙塵暴與火山灰雲。科學標籤以簡潔的白色 Noto Sans Google 字體顯示，呈現如即時氣象介面般的視覺效果。具備高細節的雲層模擬與大氣真實感。音效設計包含深沉的雷聲、風力湍流、遠處的緊急無線電雜訊、大氣環境音與電影般的緊張配樂。無對白。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="極端天氣衛星模擬">
-
-**[🎬 觀看視頻 →](https://x.com/HBCoop_/status/2060008267602853936)**
-
-**作者:** [Heather Cooper](https://x.com/HBCoop_) | **來源:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **發布時間:** May 28, 2026
-
----
-### 頂級旅遊海報影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於生成 10 秒頂級旅遊海報風格影片的提示詞，包含全景移動條與特定城市的風格化排版。
-
-#### 📝 提示詞
-
-```
-[CITY] = KTOKYO
-為 [CITY] 製作一部 10 秒的頂級旅遊海報風格影片。
-
-使用柔和的象牙色海報背景，頂部設置一條細長的移動全景條，並在中央放置巨大的粗體無襯線標題：「[CITY]」。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="頂級旅遊海報影片">
-
-**[🎬 觀看視頻 →](https://x.com/loglogrog/status/2059997426023584083)**
-
-**作者:** [マグマグ](https://x.com/loglogrog) | **來源:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **發布時間:** May 28, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 20 更多提示詞未在此顯示
+### 🎯 22 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2961,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-21T06:26:54.230Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-21T10:24:24.567Z</sub>
 
 </div>

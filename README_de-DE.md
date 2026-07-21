@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **120** |
+| 📝 Gesamtanzahl Prompts | **122** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-21** |
 
@@ -56,6 +56,45 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Filmische Aquarellmalerei: Rajasthani-Witwe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein narrativer Video-Prompt im filmischen Aquarellstil, der die Geschichte einer Witwe und ihrer Töchter im Innenhof eines Lehmhauses erzählt.
+
+#### 📝 Prompt
+
+```
+Die Last der Witwenschaft. Filmische Halbtotale, Fortsetzung des Kameraschwenks nach unten aus der vorherigen Szene. Die Kamera ruht auf einer jungen Rajasthani-Witwe, der der Brautschmuck abgenommen wurde, während sie im staubigen Innenhof ihres Lehmhauses sitzt. Ein tiefer Ausdruck von Trauer, Einsamkeit und schwerem Nachdenken liegt auf ihrem Gesicht. Um sie herum sitzen drei jüngere Mädchen, allesamt Teenager im Alter von etwa 14 bis 15 Jahren, die mit einem kleinen Hoffnungsschimmer zu ihr aufblicken und nach Orientierung suchen. Der Überlebenskampf ist an ihrer Körperhaltung erkennbar. Kunststil: Filmischer Aquarellmalerei-Stil. Weiche, ausdrucksstarke Pinselstriche, fließende Farbverläufe und erdige Töne. Hochwertige, animierte Aquarellmalerei. Verwenden Sie keine fotorealistischen, Live-Action- oder 3D-Render-Stile. Audio: Instrumentale Musik oder atmosphärische Umgebungsgeräusche, kein Gesang oder Voiceover.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="Filmische Aquarellmalerei: Rajasthani-Witwe">
+
+**[🎬 Video ansehen →](https://x.com/GargeyaS/status/2079207922006114649)**
+
+**Autor:** [Gargeya](https://x.com/GargeyaS) | **Quelle:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **Veröffentlicht:** Jul 20, 2026
+
+---
+### Urlaubs-Highlights im iPhone 16-Stil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Videogenerierungs-Prompt zur Erstellung realistischer Urlaubsaufnahmen aus der Hand, die die spezifischen Kamerabewegungen und Lichtcharakteristiken des iPhone 16 nachahmen.
+
+#### 📝 Prompt
+
+```
+Urlaubs-Highlight-Video, weibliche Person, Voice-Over-Erzählung. 
+KAMERA: iPhone 16. Die integrierte Sensor-Shift-OIS und die Gyro-EIS gleichen starke Verwacklungen aus, eliminieren jedoch nicht die natürlichen Mikro-Bewegungen aus der Hand sowie gelegentliche kleine Neuausrichtungen, wie sie entstehen, wenn eine echte Person sich selbst filmt. Der Autofokus sucht und justiert kurz nach, wenn eine Hand oder ein Produkt im Nahbereich ins Bild gelangt oder wenn der Fokus vom Gesicht auf ein Objekt wechselt. Die Belichtung passt sich live und natürlich an, während sich die Person oder das Produkt relativ zum Fensterlicht bewegt.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="Urlaubs-Highlights im iPhone 16-Stil">
+
+**[🎬 Video ansehen →](https://x.com/VisuraCode/status/2079047884759011439)**
+
+**Autor:** [Visura](https://x.com/VisuraCode) | **Quelle:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **Veröffentlicht:** Jul 20, 2026
+
+---
 ### Cinematische Mie Ayam Food-Timelapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2870,54 +2909,13 @@ Erstelle ein 10-sekündiges Hyperlapse-Selfie-Reisevideo mit dem hochgeladenen C
 **Autor:** [ZeFred.AI](https://x.com/ZefredAi) | **Quelle:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Veröffentlicht:** May 28, 2026
 
 ---
-### Simulation von Extremwetterereignissen aus der Satellitenperspektive
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Prompt zur Erstellung einer hochdetaillierten Wettersimulation aus der Satellitenperspektive, die verschiedene extreme Klimasysteme mit wissenschaftlichen Beschriftungen und realistischem Sounddesign darstellt.
-
-#### 📝 Prompt
-
-```
-Erstelle eine 10-sekündige cineastische Wettersimulation aus der Satellitenperspektive, die die extremsten Klimasysteme der Erde zeigt: Hurrikane, Monsune, Gewitterstürme, Polarlichter, Tornadoserien, Sandstürme und vulkanische Aschewolken. Wissenschaftliche Beschriftungen erscheinen in der klaren, weißen Google Font Noto Sans, ähnlich einer meteorologischen Live-Schnittstelle. Hochdetaillierte Wolkensimulationen und atmosphärischer Realismus. Das Sounddesign umfasst tiefes Donnern, Windturbulenzen, entferntes Funkgeplapper von Notdiensten, atmosphärische Drones und cineastische Spannungsmusik. Kein Dialog.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="Simulation von Extremwetterereignissen aus der Satellitenperspektive">
-
-**[🎬 Video ansehen →](https://x.com/HBCoop_/status/2060008267602853936)**
-
-**Autor:** [Heather Cooper](https://x.com/HBCoop_) | **Quelle:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **Veröffentlicht:** May 28, 2026
-
----
-### Premium-Reiseplakat-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Erstellung eines 10-sekündigen, hochwertigen Reiseplakat-Videos mit einem panoramischen Laufstreifen und stilisierter Typografie für eine bestimmte Stadt.
-
-#### 📝 Prompt
-
-```
-[CITY] = TOKIO
-Erstelle ein 10-sekündiges Video im Premium-Reiseplakat-Stil für [CITY].
-
-Verwende einen weichen, elfenbeinfarbenen Plakat-Hintergrund, einen dünnen, sich bewegenden Panorama-Streifen am oberen Rand und einen riesigen, fetten, zentrierten serifenlosen Titel: „[CITY]“.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Premium-Reiseplakat-Video">
-
-**[🎬 Video ansehen →](https://x.com/loglogrog/status/2059997426023584083)**
-
-**Autor:** [マグマグ](https://x.com/loglogrog) | **Quelle:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Veröffentlicht:** May 28, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 20 weitere Prompts hier nicht angezeigt
+### 🎯 22 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2961,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-21T06:26:58.975Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-21T10:24:29.623Z</sub>
 
 </div>

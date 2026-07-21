@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **120** |
+| 📝 Total de prompts | **122** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-21** |
 
@@ -56,6 +56,45 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Viuda de Rajastán en estilo acuarela cinematográfica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video narrativo que utiliza un estilo de acuarela cinematográfica para contar la historia de una viuda y sus hijas en el patio de una casa de adobe.
+
+#### 📝 Prompt
+
+```
+El peso de la viudez. Plano medio cinematográfico, continuando el paneo descendente de la escena anterior. La cámara se centra en una joven viuda de Rajastán, despojada de sus joyas nupciales, sentada en el patio polvoriento de su casa de adobe. En su rostro se refleja una profunda mirada de tristeza, soledad y pensamientos pesados. Hay 3 niñas más jóvenes sentadas a su alrededor, todas adolescentes de entre 14 y 15 años, que la observan en busca de guía con un pequeño rayo de esperanza. La lucha por su supervivencia es visible en su postura. Estilo artístico: Estilo de pintura en acuarela cinematográfica. Pinceladas suaves y expresivas, lavados de color fluidos y tonos tierra. Pintura en acuarela animada de alta calidad. No utilizar estilos fotorrealistas, de acción real ni renderizados en 3D. Audio: Música instrumental o sonidos ambientales, sin voces ni locuciones.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="Viuda de Rajastán en estilo acuarela cinematográfica">
+
+**[🎬 Ver video →](https://x.com/GargeyaS/status/2079207922006114649)**
+
+**Autor:** [Gargeya](https://x.com/GargeyaS) | **Fuente:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **Publicado:** Jul 20, 2026
+
+---
+### Momentos destacados de vacaciones al estilo iPhone 16
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video para crear metraje realista de vacaciones grabado a mano, con las características específicas de movimiento de cámara e iluminación del iPhone 16.
+
+#### 📝 Prompt
+
+```
+Video de momentos destacados de vacaciones, sujeto femenino, narración de voz. 
+CÁMARA: iPhone 16. El sensor-shift OIS y el gyro EIS integrados suavizan la mayor parte de la vibración, pero no eliminan el micro-movimiento natural de la cámara en mano ni los reencuadres ocasionales que produciría una persona real grabándose a sí misma. El enfoque automático busca y se reajusta brevemente cuando una mano o un producto entra en el encuadre a corta distancia, o cuando el enfoque cambia de la cara al objeto. La exposición se ajusta en tiempo real con un efecto natural a medida que el sujeto o el producto se mueven en relación con la luz de la ventana.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="Momentos destacados de vacaciones al estilo iPhone 16">
+
+**[🎬 Ver video →](https://x.com/VisuraCode/status/2079047884759011439)**
+
+**Autor:** [Visura](https://x.com/VisuraCode) | **Fuente:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **Publicado:** Jul 20, 2026
+
+---
 ### Timelapse cinematográfico de comida: Mie Ayam
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2870,54 +2909,13 @@ Crea un video de viaje tipo selfie en hyper-lapse de 10 segundos con el personaj
 **Autor:** [ZeFred.AI](https://x.com/ZefredAi) | **Fuente:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Publicado:** May 28, 2026
 
 ---
-### Simulación satelital de clima extremo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematográfico para generar una simulación meteorológica de alta precisión desde una perspectiva satelital, que presenta diversos sistemas climáticos extremos con etiquetas científicas y un diseño de sonido realista.
-
-#### 📝 Prompt
-
-```
-Crea una simulación meteorológica cinematográfica de 10 segundos visualizada desde una perspectiva satelital que muestre los sistemas climáticos más extremos de la Tierra: huracanes, monzones, tormentas eléctricas, auroras, brotes de tornados, tormentas de arena y nubes de ceniza volcánica. Las etiquetas científicas aparecen en una fuente clara y blanca Noto Sans de Google, como si fuera una interfaz meteorológica en vivo. Simulaciones de nubes de alto detalle y realismo atmosférico. El diseño de sonido incluye capas de truenos profundos, turbulencias de viento, charlas de radio de emergencia distantes, drones atmosféricos y música de tensión cinematográfica. Sin diálogos.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="Simulación satelital de clima extremo">
-
-**[🎬 Ver video →](https://x.com/HBCoop_/status/2060008267602853936)**
-
-**Autor:** [Heather Cooper](https://x.com/HBCoop_) | **Fuente:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **Publicado:** May 28, 2026
-
----
-### Video de póster de viajes premium
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar un video de póster de viajes de alta gama de 10 segundos, que incluye una franja panorámica en movimiento y tipografía estilizada para una ciudad específica.
-
-#### 📝 Prompt
-
-```
-[CITY] = TOKIO
-Crea un video de 10 segundos con estilo de póster de viajes premium para [CITY].
-
-Utiliza un fondo de póster de color marfil suave, una franja panorámica delgada en movimiento en la parte superior y un título enorme, en negrita y centrado en fuente sans-serif: “[CITY]”.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Video de póster de viajes premium">
-
-**[🎬 Ver video →](https://x.com/loglogrog/status/2059997426023584083)**
-
-**Autor:** [マグマグ](https://x.com/loglogrog) | **Fuente:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Publicado:** May 28, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 20 más prompts no mostrados aquí
+### 🎯 22 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2961,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-21T06:26:57.693Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-21T10:24:28.554Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **120** |
+| 📝 Tổng số prompt | **122** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-21** |
 
@@ -56,6 +56,45 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Tranh màu nước điện ảnh về góa phụ vùng Rajasthan
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu chuyện bằng video sử dụng phong cách tranh màu nước điện ảnh để kể về cuộc đời của một góa phụ và các con gái trong sân nhà đất.
+
+#### 📝 Prompt
+
+```
+Gánh nặng của kiếp góa phụ. Cảnh quay trung (medium shot) đậm chất điện ảnh, tiếp nối chuyển động lia máy từ trên xuống của cảnh trước. Máy quay dừng lại ở một góa phụ trẻ người Rajasthan, người đã trút bỏ trang sức cưới, đang ngồi trong khoảng sân đầy bụi bặm của ngôi nhà đất. Gương mặt cô lộ rõ vẻ buồn bã, cô đơn và đầy suy tư. Xung quanh cô là 3 cô con gái, tất cả đều đang ở độ tuổi thiếu niên từ 14 đến 15, đang nhìn mẹ tìm kiếm sự dẫn dắt với một chút hy vọng mong manh. Sự chật vật để sinh tồn hiện rõ qua dáng vẻ của họ. Phong cách nghệ thuật: Phong cách tranh màu nước điện ảnh. Những nét cọ mềm mại, biểu cảm, các mảng màu loang tự nhiên và tông màu đất. Tranh màu nước hoạt họa chất lượng cao. Không sử dụng phong cách chân thực (photorealistic), người đóng (live-action) hoặc kết xuất 3D. Âm thanh: Nhạc không lời hoặc âm thanh môi trường xung quanh, không có giọng hát hay lời dẫn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="Tranh màu nước điện ảnh về góa phụ vùng Rajasthan">
+
+**[🎬 Xem video →](https://x.com/GargeyaS/status/2079207922006114649)**
+
+**Tác giả:** [Gargeya](https://x.com/GargeyaS) | **Nguồn:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **Đã xuất bản:** Jul 20, 2026
+
+---
+### Điểm nhấn kỳ nghỉ phong cách iPhone 16
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video để tạo thước phim kỳ nghỉ cầm tay chân thực, thể hiện các đặc điểm về chuyển động camera và ánh sáng đặc trưng của iPhone 16.
+
+#### 📝 Prompt
+
+```
+Video điểm nhấn kỳ nghỉ, nhân vật nữ, lời dẫn chuyện. 
+CAMERA: iPhone 16. Công nghệ chống rung cảm biến OIS và chống rung điện tử gyro tích hợp giúp làm mượt các rung lắc mạnh nhưng vẫn giữ lại những chuyển động nhỏ tự nhiên khi cầm tay và các thao tác điều chỉnh khung hình thỉnh thoảng xuất hiện như cách một người thực sự tự quay phim. Tính năng lấy nét tự động sẽ tìm và lấy nét lại trong giây lát khi có bàn tay hoặc sản phẩm xuất hiện trong khung hình ở cự ly gần, hoặc khi chuyển tiêu điểm từ khuôn mặt sang vật thể. Độ phơi sáng được điều chỉnh trực tiếp với hiệu ứng thay đổi tự nhiên khi nhân vật hoặc sản phẩm di chuyển so với nguồn sáng từ cửa sổ.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="Điểm nhấn kỳ nghỉ phong cách iPhone 16">
+
+**[🎬 Xem video →](https://x.com/VisuraCode/status/2079047884759011439)**
+
+**Tác giả:** [Visura](https://x.com/VisuraCode) | **Nguồn:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **Đã xuất bản:** Jul 20, 2026
+
+---
 ### Video Timelapse Điện ảnh về Món Mì Gà (Mie Ayam)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2870,54 +2909,13 @@ Tạo một video du lịch selfie phong cách hyper-lapse dài 10 giây với n
 **Tác giả:** [ZeFred.AI](https://x.com/ZefredAi) | **Nguồn:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Đã xuất bản:** May 28, 2026
 
 ---
-### Mô phỏng vệ tinh về thời tiết cực đoan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh dùng để tạo mô phỏng thời tiết chi tiết cao từ góc nhìn vệ tinh, bao gồm các hệ thống khí hậu cực đoan khác nhau với nhãn khoa học và thiết kế âm thanh chân thực.
-
-#### 📝 Prompt
-
-```
-Tạo một đoạn mô phỏng thời tiết điện ảnh dài 10 giây được trực quan hóa từ góc nhìn vệ tinh, hiển thị các hệ thống khí hậu cực đoan nhất của Trái Đất: bão, gió mùa, bão sấm sét, cực quang, các đợt lốc xoáy, bão cát, đám mây tro bụi núi lửa. Các nhãn khoa học xuất hiện bằng phông chữ Noto Sans của Google với màu trắng tinh tế, giống như giao diện khí tượng trực tiếp. Mô phỏng đám mây chi tiết cao và tính chân thực của khí quyển. Thiết kế âm thanh bao gồm các lớp tiếng sấm trầm, nhiễu loạn gió, tiếng đàm thoại vô tuyến khẩn cấp từ xa, tiếng drone khí quyển và âm nhạc tạo sự căng thẳng điện ảnh. Không có lời thoại.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="Mô phỏng vệ tinh về thời tiết cực đoan">
-
-**[🎬 Xem video →](https://x.com/HBCoop_/status/2060008267602853936)**
-
-**Tác giả:** [Heather Cooper](https://x.com/HBCoop_) | **Nguồn:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **Đã xuất bản:** May 28, 2026
-
----
-### Video Poster Du lịch Cao cấp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) để tạo video poster du lịch cao cấp dài 10 giây, bao gồm dải ảnh toàn cảnh chuyển động và kiểu chữ cách điệu cho một thành phố cụ thể.
-
-#### 📝 Prompt
-
-```
-[CITY] = TOKYO
-Tạo một video phong cách poster du lịch cao cấp dài 10 giây cho [CITY].
-
-Sử dụng nền poster màu trắng ngà nhẹ nhàng, một dải ảnh toàn cảnh chuyển động mỏng ở phía trên và tiêu đề in đậm, cỡ lớn, căn giữa theo phông chữ không chân (sans-serif): “[CITY]”.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Video Poster Du lịch Cao cấp">
-
-**[🎬 Xem video →](https://x.com/loglogrog/status/2059997426023584083)**
-
-**Tác giả:** [マグマグ](https://x.com/loglogrog) | **Nguồn:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Đã xuất bản:** May 28, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 20 prompt khác không hiển thị ở đây
+### 🎯 22 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2961,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-21T06:26:56.610Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-21T10:24:27.296Z</sub>
 
 </div>

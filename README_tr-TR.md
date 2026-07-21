@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **120** |
+| 📝 Toplam İstem | **122** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-21** |
 
@@ -56,6 +56,45 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Suluboya Racastanlı Dul Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir dul kadın ve kızlarının kerpiç bir evin avlusundaki hikayesini anlatan, sinematik suluboya tarzında bir anlatı video istemi.
+
+#### 📝 İstem
+
+```
+Dul Kalmanın Ağırlığı. Sinematik orta ölçekli çekim, önceki sahneden aşağıya doğru devam eden kamera hareketi. Kamera, gelin takılarından arındırılmış, kerpiç evinin tozlu avlusunda oturan genç bir Racastanlı dul kadına odaklanır. Yüzünde derin bir hüzün, yalnızlık ve düşünceli bir ifade vardır. Etrafında, hepsi 14-15 yaşlarında olan ve ondan rehberlik bekleyen, küçük bir umut kırıntısıyla ona bakan 3 genç kız oturmaktadır. Hayatta kalma mücadeleleri duruşlarından belli olmaktadır. Sanat Tarzı: Sinematik suluboya resim tarzı. Yumuşak, etkileyici fırça darbeleri, akışkan renk tonları ve toprak renkleri. Yüksek kaliteli, animasyonlu suluboya resim. Fotogerçekçi, canlı çekim veya 3D render tarzlarını kullanmayın. Ses: Enstrümantal müzik veya ortam sesleri, vokal veya dış ses olmamalıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="Sinematik Suluboya Racastanlı Dul Kadın">
+
+**[🎬 Videoyu izle →](https://x.com/GargeyaS/status/2079207922006114649)**
+
+**Yazar:** [Gargeya](https://x.com/GargeyaS) | **Kaynak:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **Yayınlandı:** Jul 20, 2026
+
+---
+### iPhone 16 Tarzı Tatil Öne Çıkanları
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirli iPhone 16 kamera hareketi ve ışıklandırma özelliklerini içeren, gerçekçi el tipi tatil görüntüleri oluşturmaya yönelik bir video üretim istemi.
+
+#### 📝 İstem
+
+```
+Tatil Öne Çıkanlar Videosu, Kadın Karakter, Sesli Anlatım. 
+KAMERA: iPhone 16. Dahili sensör kaydırmalı OIS ve gyro EIS, titremelerin en kötüsünü yumuşatır ancak gerçek bir kişinin kendini çekerken oluşturacağı doğal el tipi mikro hareketleri ve ara sıra oluşan küçük kadraj düzeltmelerini tamamen yok etmez. Bir el veya ürün yakın mesafeden kadraja girdiğinde ya da odak yüzden nesneye kaydığında otomatik odaklama kısa süreliğine arama yapar ve yeniden netleme yapar. Pozlama, özne veya ürün pencere ışığına göre hareket ettikçe doğal bir geçişle canlı olarak ayarlanır.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="iPhone 16 Tarzı Tatil Öne Çıkanları">
+
+**[🎬 Videoyu izle →](https://x.com/VisuraCode/status/2079047884759011439)**
+
+**Yazar:** [Visura](https://x.com/VisuraCode) | **Kaynak:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **Yayınlandı:** Jul 20, 2026
+
+---
 ### Sinematik Mie Ayam Yemek Zaman Atlamalı Çekimi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2868,54 +2907,13 @@ Yüklenen karakterin 10 saniyelik hyper-lapse selfie-seyahat videosunu oluşturu
 **Yazar:** [ZeFred.AI](https://x.com/ZefredAi) | **Kaynak:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Yayınlandı:** May 28, 2026
 
 ---
-### Aşırı Hava Durumu Uydu Simülasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bilimsel etiketler ve gerçekçi ses tasarımıyla, çeşitli aşırı iklim sistemlerini içeren, uydu perspektifinden yüksek detaylı bir hava durumu simülasyonu oluşturmak için sinematik bir komut.
-
-#### 📝 İstem
-
-```
-Dünya'nın en aşırı iklim sistemlerini (kasırgalar, musonlar, şimşek fırtınaları, auroralar, hortum felaketleri, kum fırtınaları, volkanik kül bulutları) gösteren, uydu perspektifinden 10 saniyelik sinematik bir hava durumu simülasyonu oluşturun. Bilimsel etiketler, canlı bir meteorolojik arayüz gibi temiz beyaz Noto Sans Google Font ile görünsün. Yüksek detaylı bulut simülasyonları ve atmosferik gerçekçilik. Ses tasarımı; derin gök gürültüsü, rüzgar türbülansı, uzaktan gelen acil durum telsiz konuşmaları, atmosferik dron sesleri ve sinematik gerilim müziği katmanlarından oluşsun. Diyalog içermesin.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="Aşırı Hava Durumu Uydu Simülasyonu">
-
-**[🎬 Videoyu izle →](https://x.com/HBCoop_/status/2060008267602853936)**
-
-**Yazar:** [Heather Cooper](https://x.com/HBCoop_) | **Kaynak:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **Yayınlandı:** May 28, 2026
-
----
-### Premium Seyahat Posteri Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli bir şehir için panoramik hareketli bir şerit ve stilize tipografi içeren, 10 saniyelik üst düzey bir seyahat posteri videosu oluşturmaya yönelik bir komut.
-
-#### 📝 İstem
-
-```
-[CITY] = TOKYO
-[CITY] için 10 saniyelik, premium seyahat posteri tarzında bir video oluştur.
-
-Yumuşak fildişi rengi bir poster arka planı, üst kısımda ince, hareketli panoramik bir şerit ve merkezde devasa, kalın, sans-serif bir başlık kullan: “[CITY]”.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Premium Seyahat Posteri Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/loglogrog/status/2059997426023584083)**
-
-**Yazar:** [マグマグ](https://x.com/loglogrog) | **Kaynak:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Yayınlandı:** May 28, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 20 burada gösterilmeyen daha fazla istem
+### 🎯 22 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2961,6 +2959,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-21T06:27:01.979Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-21T10:24:32.350Z</sub>
 
 </div>

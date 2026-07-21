@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **120** |
+| 📝 Total des prompts | **122** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-07-21** |
 
@@ -56,6 +56,45 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Veuve rajasthanie, style aquarelle cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo narratif utilisant un style aquarelle cinématographique pour raconter l'histoire d'une veuve et de ses filles dans la cour d'une maison en terre.
+
+#### 📝 Prompt
+
+```
+Le poids du veuvage. Plan moyen cinématographique, poursuivant le panoramique descendant de la scène précédente. La caméra se fixe sur une jeune veuve rajasthanie, dépouillée de ses bijoux de mariage, assise dans la cour poussiéreuse de sa maison en terre. Un regard profond empreint de tristesse, de solitude et de pensées lourdes se lit sur son visage. Trois jeunes filles sont assises autour d'elle, toutes adolescentes âgées d'environ 14 à 15 ans, la regardant en quête de conseils avec une lueur d'espoir. La difficulté de leur survie est visible dans leur posture. Style artistique : Style peinture aquarelle cinématographique. Coups de pinceau doux et expressifs, lavis de couleurs fluides et tons terreux. Peinture aquarelle animée de haute qualité. Ne pas utiliser de styles photoréalistes, en prises de vues réelles ou en rendu 3D. Audio : Musique instrumentale ou sons environnementaux ambiants, sans voix ni narration.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="Veuve rajasthanie, style aquarelle cinématographique">
+
+**[🎬 Voir la vidéo →](https://x.com/GargeyaS/status/2079207922006114649)**
+
+**Auteur:** [Gargeya](https://x.com/GargeyaS) | **Source:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **Publié:** Jul 20, 2026
+
+---
+### Temps forts de vacances style iPhone 16
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo pour créer des séquences de vacances réalistes filmées à la main, intégrant les caractéristiques spécifiques de mouvement de caméra et d'éclairage de l'iPhone 16.
+
+#### 📝 Prompt
+
+```
+Vidéo des temps forts de vacances, sujet féminin, voix off. 
+CAMÉRA : iPhone 16. La stabilisation optique par déplacement du capteur et la stabilisation électronique gyroscopique intégrées atténuent les secousses les plus importantes sans toutefois éliminer les micro-mouvements naturels liés à la prise de vue à la main, ni les légers recadrages occasionnels qu'une personne se filmant elle-même produirait. L'autofocus cherche et se recalibre brièvement lorsqu'une main ou un produit entre dans le champ à courte distance, ou lors d'un changement de mise au point du visage vers un objet. L'exposition s'ajuste en temps réel avec une transition naturelle à mesure que le sujet ou le produit se déplace par rapport à la lumière de la fenêtre.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="Temps forts de vacances style iPhone 16">
+
+**[🎬 Voir la vidéo →](https://x.com/VisuraCode/status/2079047884759011439)**
+
+**Auteur:** [Visura](https://x.com/VisuraCode) | **Source:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **Publié:** Jul 20, 2026
+
+---
 ### Timelapse culinaire cinématographique de Mie Ayam
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2870,54 +2909,13 @@ Créez une vidéo de voyage en selfie hyper-lapse de 10 secondes à partir d'un 
 **Auteur:** [ZeFred.AI](https://x.com/ZefredAi) | **Source:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Publié:** May 28, 2026
 
 ---
-### Simulation satellite de conditions météorologiques extrêmes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique pour générer une simulation météorologique ultra-détaillée vue depuis un satellite, présentant divers systèmes climatiques extrêmes avec des étiquettes scientifiques et une conception sonore réaliste.
-
-#### 📝 Prompt
-
-```
-Créez une simulation météorologique cinématographique de 10 secondes vue depuis un satellite, illustrant les systèmes climatiques les plus extrêmes de la Terre : ouragans, moussons, orages, aurores boréales, tornades, tempêtes de sable et nuages de cendres volcaniques. Des étiquettes scientifiques apparaissent dans une police Noto Sans épurée et blanche, rappelant une interface météorologique en direct. Simulations de nuages haute définition et réalisme atmosphérique. La conception sonore superpose des grondements de tonnerre profonds, des turbulences éoliennes, des bruits de radio d'urgence lointains, des drones atmosphériques et une musique de tension cinématographique. Aucun dialogue.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="Simulation satellite de conditions météorologiques extrêmes">
-
-**[🎬 Voir la vidéo →](https://x.com/HBCoop_/status/2060008267602853936)**
-
-**Auteur:** [Heather Cooper](https://x.com/HBCoop_) | **Source:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **Publié:** May 28, 2026
-
----
-### Vidéo d'affiche de voyage premium
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vidéo d'affiche de voyage haut de gamme de 10 secondes, présentant une bande panoramique animée et une typographie stylisée pour une ville spécifique.
-
-#### 📝 Prompt
-
-```
-[CITY] = TOKYO
-Créez une vidéo de 10 secondes dans le style d'une affiche de voyage premium pour [CITY].
-
-Utilisez un fond d'affiche ivoire doux, une fine bande panoramique animée en haut et un immense titre en gras centré sans empattement : « [CITY] ».
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Vidéo d'affiche de voyage premium">
-
-**[🎬 Voir la vidéo →](https://x.com/loglogrog/status/2059997426023584083)**
-
-**Auteur:** [マグマグ](https://x.com/loglogrog) | **Source:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Publié:** May 28, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 20 prompts supplémentaires non affichés ici
+### 🎯 22 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2961,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-21T06:26:59.662Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-21T10:24:30.320Z</sub>
 
 </div>

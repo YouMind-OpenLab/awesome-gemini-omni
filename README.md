@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **120** |
+| 📝 Total Prompts | **122** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-21** |
 
@@ -56,6 +56,45 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Watercolor Rajasthani Widow
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt using a cinematic watercolor style to tell a story of a widow and her daughters in a clay house courtyard.
+
+#### 📝 Prompt
+
+```
+The Weight of Widowhood. Cinematic medium shot, continuing the downward pan from the previous scene. The camera settles on a young Rajasthani widow, stripped of her bridal jewelry, sitting in the dusty courtyard of her clay house. A profound look of sadness, loneliness, and heavy thought is on her face. There are 3 younger girls are sitting around her, all teenagers around 14 to 15 years old, looking at her for guidance with little sliver of hope. The struggle of their survival is visible in their posture. Art Style: Cinematic watercolor painting style. Soft, expressive brush strokes, flowing washes of color, and earthy tones. High-quality, animated watercolor painting. Do not use photorealistic, live-action, or 3D render styles. Audio: Instrumental music or ambient environmental sounds, no vocals or voiceovers.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="Cinematic Watercolor Rajasthani Widow">
+
+**[🎬 Watch Video →](https://x.com/GargeyaS/status/2079207922006114649)**
+
+**Author:** [Gargeya](https://x.com/GargeyaS) | **Source:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **Published:** Jul 20, 2026
+
+---
+### iPhone 16 Style Vacation Highlights
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for creating realistic handheld vacation footage featuring specific iPhone 16 camera movement and lighting characteristics.
+
+#### 📝 Prompt
+
+```
+Vacation Highlight Video, Female Subject, Voice Narration. 
+CAMERA: iPhone 16. Built-in sensor-shift OIS and gyro EIS smooth the worst of the shake but do not eliminate natural handheld micro-movement and occasional small reframes as a real person filming themselves would produce. Autofocus briefly hunts and resettles when a hand or product enters frame at close range or when focus pulls from face to object. Exposure adjusts live with natural pull as subject or product moves relative to window light.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="iPhone 16 Style Vacation Highlights">
+
+**[🎬 Watch Video →](https://x.com/VisuraCode/status/2079047884759011439)**
+
+**Author:** [Visura](https://x.com/VisuraCode) | **Source:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **Published:** Jul 20, 2026
+
+---
 ### Cinematic Mie Ayam Food Timelapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2870,54 +2909,13 @@ Create a 10s hyper-lapse selfie-travel video of uploaded character. Strict ident
 **Author:** [ZeFred.AI](https://x.com/ZefredAi) | **Source:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Published:** May 28, 2026
 
 ---
-### Extreme Weather Satellite Simulation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic prompt for generating a high-detail weather simulation from a satellite perspective, featuring various extreme climate systems with scientific labels and realistic sound design.
-
-#### 📝 Prompt
-
-```
-Create a 10-second cinematic weather simulation visualized from satellite perspective showing Earth’s most extreme climate systems: hurricanes, monsoons, lightning storms, auroras, tornado outbreaks, sandstorms, volcanic ash clouds. Scientific labels appear in clean white Noto Sans Google Font like a live meteorological interface. High-detail cloud simulations and atmospheric realism. Sound design layers deep thunder, wind turbulence, distant emergency radio chatter, atmospheric drones, and cinematic tension music. No dialogue.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="Extreme Weather Satellite Simulation">
-
-**[🎬 Watch Video →](https://x.com/HBCoop_/status/2060008267602853936)**
-
-**Author:** [Heather Cooper](https://x.com/HBCoop_) | **Source:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **Published:** May 28, 2026
-
----
-### Premium Travel Poster Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt to generate a 10-second high-end travel poster video featuring a panoramic moving strip and stylized typography for a specific city.
-
-#### 📝 Prompt
-
-```
-[CITY] = KTOKYO
-Create a 10-second premium travel-poster style video for [CITY].
-
-Use a soft ivory poster background, a thin moving panoramic strip at the top, and a huge bold centered sans-serif title: “[CITY]”.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="Premium Travel Poster Video">
-
-**[🎬 Watch Video →](https://x.com/loglogrog/status/2059997426023584083)**
-
-**Author:** [マグマグ](https://x.com/loglogrog) | **Source:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **Published:** May 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 20 more prompts not shown here
+### 🎯 22 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2961,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-21T06:26:52.947Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-21T10:24:23.464Z</sub>
 
 </div>

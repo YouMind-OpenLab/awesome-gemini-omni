@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **120** |
+| 📝 提示词总数 | **122** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-07-21** |
 
@@ -56,6 +56,45 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 电影感水彩画：拉贾斯坦邦的寡妇
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个叙事性视频提示词，采用电影感水彩画风格，讲述了一位寡妇和她的女儿们在泥屋庭院中的故事。
+
+#### 📝 提示词
+
+```
+寡妇的重担。电影感中景镜头，延续上一场景的向下平移。镜头聚焦于一位年轻的拉贾斯坦邦寡妇，她已摘下婚嫁首饰，坐在泥屋尘土飞扬的庭院中。她的脸上流露出深沉的悲伤、孤独和沉重的思绪。她身边坐着 3 个年轻女孩，都是 14 到 15 岁左右的青少年，她们带着一丝希望注视着她，寻求指引。她们的姿态中显露出生存的挣扎。艺术风格：电影感水彩画风格。柔和且富有表现力的笔触，流动的色彩渲染，以及大地色调。高质量的动画水彩画。请勿使用照片级真实感、真人实拍或 3D 渲染风格。音频：器乐或环境音，无需人声或旁白。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="电影感水彩画：拉贾斯坦邦的寡妇">
+
+**[🎬 观看视频 →](https://x.com/GargeyaS/status/2079207922006114649)**
+
+**作者:** [Gargeya](https://x.com/GargeyaS) | **来源:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **发布时间:** Jul 20, 2026
+
+---
+### iPhone 16 风格度假精彩瞬间
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个视频生成提示词，用于创作具有 iPhone 16 摄像机运动和光影特征的逼真手持度假视频。
+
+#### 📝 提示词
+
+```
+度假精彩瞬间视频，女性主角，配音解说。
+摄像机：iPhone 16。内置传感器位移式光学图像防抖（OIS）和陀螺仪电子防抖（EIS）可平滑掉大部分剧烈抖动，但不会消除真实手持拍摄时产生的自然微小晃动，以及偶尔出现的构图微调。当手部或产品近距离进入画面，或焦点从人脸切换到物体时，自动对焦会产生短暂的搜索和重新对焦过程。曝光会随着主角或产品相对于窗户光线的移动而进行自然、实时的调整。
+```
+
+<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="iPhone 16 风格度假精彩瞬间">
+
+**[🎬 观看视频 →](https://x.com/VisuraCode/status/2079047884759011439)**
+
+**作者:** [Visura](https://x.com/VisuraCode) | **来源:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **发布时间:** Jul 20, 2026
+
+---
 ### 电影级印尼鸡肉面（Mie Ayam）延时摄影
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2870,54 +2909,13 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 **作者:** [ZeFred.AI](https://x.com/ZefredAi) | **来源:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **发布时间:** May 28, 2026
 
 ---
-### 极端天气卫星模拟
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成卫星视角高细节天气模拟的电影级提示词，包含各类极端气候系统、科学标签以及逼真的音效设计。
-
-#### 📝 提示词
-
-```
-创建一个 10 秒的电影级天气模拟，以卫星视角展示地球上最极端的各种气候系统：飓风、季风、雷暴、极光、龙卷风爆发、沙尘暴和火山灰云。科学标签采用简洁的白色 Noto Sans Google 字体，呈现出如实时气象界面般的效果。具备高细节的云层模拟和大气真实感。音效设计包含深沉的雷声、风力湍流、远处的紧急无线电杂音、大气环境音以及电影级的紧张配乐。无对白。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5a09d8aa77eb1e83870371cf8622ca72/thumbnails/thumbnail.jpg" width="600" alt="极端天气卫星模拟">
-
-**[🎬 观看视频 →](https://x.com/HBCoop_/status/2060008267602853936)**
-
-**作者:** [Heather Cooper](https://x.com/HBCoop_) | **来源:** [Link](https://x.com/HBCoop_/status/2060008267602853936) | **发布时间:** May 28, 2026
-
----
-### 高端旅行海报视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成 10 秒高端旅行海报视频的提示词，包含全景动态条和特定城市的风格化排版。
-
-#### 📝 提示词
-
-```
-[CITY] = KTOKYO
-为 [CITY] 创建一个 10 秒的高端旅行海报风格视频。
-
-使用柔和的象牙色海报背景，顶部设置一条纤细的动态全景条，并在中心放置一个巨大的粗体无衬线标题：“[CITY]”。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a48f0c3bd2d86f77e150c51be1b0d3db/thumbnails/thumbnail.jpg" width="600" alt="高端旅行海报视频">
-
-**[🎬 观看视频 →](https://x.com/loglogrog/status/2059997426023584083)**
-
-**作者:** [マグマグ](https://x.com/loglogrog) | **来源:** [Link](https://x.com/loglogrog/status/2059997426023584083) | **发布时间:** May 28, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 20 更多提示词未在此显示
+### 🎯 22 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2963,6 +2961,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-21T06:26:53.706Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-21T10:24:24.120Z</sub>
 
 </div>
