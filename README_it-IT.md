@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **122** |
+| 📝 Totale prompt | **124** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-07-22** |
 
@@ -56,6 +56,82 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt per la sostituzione di oggetti nei video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt specifico per Gemini Omni Flash progettato per sostituire un oggetto in un video con un gatto proveniente da un'immagine di riferimento, mantenendo la coerenza della scena.
+
+#### 📝 Prompt
+
+```
+Modifica il video in input. Sostituisci il criceto con il gatto presente in <IMAGE_REF_0>, facendo corrispondere l'aspetto e l'identità del gatto. Applica lo stile visivo di <IMAGE_REF_1> all'aspetto del gatto (pelo, colori, stile di rendering). Mantieni il movimento, il timing, l'inquadratura e lo sfondo originali. 
+Lascia tutto il resto invariato. Ripresa continua, senza tagli di scena.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Prompt per la sostituzione di oggetti nei video">
+
+**[🎬 Guarda il video →](https://x.com/nicegen_ai/status/2079554954638033066)**
+
+**Autore:** [NiceGen.ai](https://x.com/nicegen_ai) | **Fonte:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Pubblicato:** Jul 21, 2026
+
+---
+### Pubblicità cinematografica con drone per il miele dell'Himalaya
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt completo in formato JSON per uno spot pubblicitario cinematografico ad alta velocità con drone, incentrato sul packaging del miele ambientato tra le montagne dell'Himalaya.
+
+#### 📝 Prompt
+
+```
+{
+  "description": "Un'inquadratura cinematografica ultra-rapida con drone inizia in alto sopra le maestose montagne innevate dell'Himalaya durante un'alba dorata. La telecamera scende rapidamente attraverso rigogliose valli verdi, fiumi cristallini e foreste di pini avvolte dalla nebbia, accelerando mentre sfreccia tra alberi imponenti e sfiora cascate scroscianti. Il ritmo rallenta gradualmente, passando a una tranquilla radura nella foresta baciata dalla calda luce del mattino. La telecamera scivola verso una pietra coperta di muschio dove un vasetto di vetro di Dabur Honey, sigillato e con il suo autentico packaging originale, è elegantemente posizionato come prodotto protagonista. L'inquadratura termina con un primo piano cinematografico premium che mette in risalto il ricco miele dorato all'interno del barattolo trasparente, preservando l'etichetta reale e il design del packaging. Nessun elemento di branding aggiuntivo, grafica fluttuante o testo extra.",
+  "style": "pubblicità naturalistica premium, cinematografica e iperrealistica con fotografia di prodotto di lusso",
+  "camera": "volo con drone in stile FPV ad alta velocità che transita in una ripresa cinematografica stabilizzata con dolly e una lenta rotazione macro per la presentazione del prodotto",
+  "lighting": "calda luce dell'alba dorata con bagliori naturali dell'obiettivo, raggi solari volumetrici attraverso la chioma della foresta, terminando con una luce chiave morbida e diffusa che accentua il barattolo di vetro e il miele dorato",
+  "environment": "maestose montagne dell'Himalaya, rigogliose valli forestali indiane, fiumi incontaminati, cascate scroscianti, fitte foreste di pini e una tranquilla radura forestale coperta di muschio ricca di texture naturali",
+  "elements": [
+    "montagne innevate dell'Himalaya",
+    "rigogliose valli verdi",
+    "fiumi cristallini",
+    "foreste di pini avvolte dalla nebbia",
+    "cascate scroscianti",
+    "piedistallo di pietra coperto di muschio",
+    "autentico vasetto di vetro Dabur Honey sigillato con packaging originale",
+    "api e farfalle sottili",
+    "rugiada del mattino",
+    "nebbia leggera che si dirada"
+  ],
+  "motion": "discesa aerea estremamente veloce e volo attraverso la foresta in stile FPV durante i primi 6 secondi, seguiti da una graziosa planata al rallentatore, un'orbita sottile e un leggero avvicinamento verso il prodotto per i 4 secondi finali",
+  "duration": "10 secondi",
+  "ending": "Il vasetto di Dabur Honey rimane perfettamente centrato sulla pietra coperta di muschio mentre la telecamera orbita lentamente e termina con un macro primo piano premium dell'etichetta e del miele dorato brillante all'interno del vasetto di vetro.",
+  "text": "nessuno",
+  "keywords": [
+    "16:9",
+    "pubblicità premium",
+    "volo cinematografico con drone",
+    "FPV",
+    "iperrealistico",
+    "presentazione prodotto di lusso",
+    "packaging autentico Dabur Honey",
+    "barattolo di miele in vetro",
+    "alba dorata",
+    "paesaggio naturale indiano",
+    "macro shot di prodotto",
+    "senza testo",
+    "senza loghi aggiuntivi"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Pubblicità cinematografica con drone per il miele dell'Himalaya">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2079454972098609447)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Pubblicato:** Jul 21, 2026
+
+---
 ### Vedova del Rajasthan in stile acquerello cinematografico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2867,55 +2943,13 @@ Riflesso-Rusalka «🌳🧜‍♀️🪞»
 **Autore:** [Elis Satu](https://x.com/astvatsaturn) | **Fonte:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Pubblicato:** May 28, 2026
 
 ---
-### Reimmaginazione di scene cinematografiche in stile The Sims
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un template creativo per Gemini Omni che ricrea scene iconiche di film e serie TV con l'estetica stilizzata del videogioco The Sims, includendo grafiche uniche e dialoghi.
-
-#### 📝 Prompt
-
-```
-[Film/Serie TV] scena iconica, ma in versione videogioco The Sims
-
-[descrizione della scena]
-
-Grafica in stile videogioco The Sims e dialoghi stravaganti tipici dei Sims
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="Reimmaginazione di scene cinematografiche in stile The Sims">
-
-**[🎬 Guarda il video →](https://x.com/techhalla/status/2060068841573498998)**
-
-**Autore:** [TechHalla](https://x.com/techhalla) | **Fonte:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Pubblicato:** May 28, 2026
-
----
-### Trasformazione video hyper-lapse di viaggi con selfie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un master prompt per Gemini Omni per creare un video di viaggio in hyper-lapse che inserisce un personaggio caricato in 20 ambienti diversi, mantenendo costante l'identità.
-
-#### 📝 Prompt
-
-```
-Crea un video hyper-lapse di 10 secondi di un viaggio con selfie del personaggio caricato. Mantieni una rigorosa coerenza dell'identità in tutte le location e professioni. 20 ruoli professionali assurdi e ambienti estremi in tutto il mondo con
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Trasformazione video hyper-lapse di viaggi con selfie">
-
-**[🎬 Guarda il video →](https://x.com/ZefredAi/status/2060051882538594657)**
-
-**Autore:** [ZeFred.AI](https://x.com/ZefredAi) | **Fonte:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Pubblicato:** May 28, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 22 altri prompt non mostrati qui
+### 🎯 24 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2961,6 +2995,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-22T06:26:48.152Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-22T10:23:51.480Z</sub>
 
 </div>

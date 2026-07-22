@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **122** |
+| 📝 Tổng số prompt | **124** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-22** |
 
@@ -56,6 +56,82 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Câu lệnh thay thế đối tượng trong video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh cụ thể dành cho Gemini Omni Flash được thiết kế để thay thế đối tượng trong video bằng một chú mèo từ hình ảnh tham chiếu, đồng thời đảm bảo tính nhất quán của cảnh quay.
+
+#### 📝 Prompt
+
+```
+Chỉnh sửa video đầu vào. Thay thế chú chuột hamster bằng chú mèo từ <IMAGE_REF_0>, đảm bảo khớp với ngoại hình và đặc điểm của chú mèo đó. Áp dụng phong cách hình ảnh của <IMAGE_REF_1> cho diện mạo của chú mèo (bộ lông, màu sắc, phong cách kết xuất). Giữ nguyên chuyển động, thời gian, góc máy và bối cảnh ban đầu. 
+Giữ mọi thứ khác không đổi. Cảnh quay liên tục, không cắt cảnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Câu lệnh thay thế đối tượng trong video">
+
+**[🎬 Xem video →](https://x.com/nicegen_ai/status/2079554954638033066)**
+
+**Tác giả:** [NiceGen.ai](https://x.com/nicegen_ai) | **Nguồn:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Đã xuất bản:** Jul 21, 2026
+
+---
+### Quảng cáo bằng drone điện ảnh cho mật ong Himalaya
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt định dạng JSON toàn diện cho video quảng cáo thương mại bằng drone tốc độ cao, giới thiệu bao bì sản phẩm mật ong trên nền dãy núi Himalaya hùng vĩ.
+
+#### 📝 Prompt
+
+```
+{
+  "description": "Một cú máy drone điện ảnh siêu nhanh bắt đầu từ trên cao dãy núi Himalaya phủ tuyết trắng xóa vào lúc bình minh vàng rực. Camera lao nhanh qua những thung lũng xanh mướt, những dòng sông trong vắt và những cánh rừng thông bao phủ trong sương mù, tăng tốc khi lướt giữa những hàng cây cao vút và bay sát trên những thác nước đổ. Nhịp độ chậm dần, chuyển sang một khoảng rừng yên bình được tắm trong ánh sáng ban mai ấm áp. Camera lướt về phía một tảng đá phủ đầy rêu, nơi một hũ thủy tinh mật ong Dabur Honey nguyên bản, còn nguyên niêm phong với bao bì bán lẻ chính hãng được đặt một cách tinh tế làm sản phẩm chủ đạo. Cú máy kết thúc bằng một cảnh quay cận cảnh điện ảnh cao cấp, làm nổi bật lớp mật ong vàng óng bên trong hũ thủy tinh trong suốt, đồng thời giữ nguyên nhãn sản phẩm và thiết kế bao bì thực tế. Không thêm các yếu tố thương hiệu, đồ họa nổi hoặc văn bản bổ sung.",
+  "style": "quảng cáo thiên nhiên siêu thực, điện ảnh cao cấp kết hợp nhiếp ảnh sản phẩm sang trọng",
+  "camera": "drone FPV tốc độ cao bay xuyên qua, chuyển tiếp sang chế độ dolly điện ảnh ổn định và quay cận cảnh sản phẩm theo quỹ đạo chậm",
+  "lighting": "ánh sáng bình minh vàng ấm áp với hiệu ứng lóe sáng tự nhiên, tia nắng thể tích xuyên qua tán rừng, kết thúc bằng ánh sáng chính dịu nhẹ làm nổi bật hũ thủy tinh và mật ong vàng",
+  "environment": "dãy núi Himalaya hùng vĩ, thung lũng rừng Ấn Độ tươi tốt, những dòng sông nguyên sơ, thác nước đổ, rừng thông rậm rạp và một khoảng rừng phủ rêu yên tĩnh với kết cấu tự nhiên phong phú",
+  "elements": [
+    "dãy núi Himalaya phủ tuyết",
+    "thung lũng xanh mướt",
+    "những dòng sông trong vắt",
+    "rừng thông phủ sương mù",
+    "thác nước đổ",
+    "bệ đá phủ rêu",
+    "hũ thủy tinh Dabur Honey nguyên bản với bao bì bán lẻ chính hãng",
+    "ong và bướm tinh tế",
+    "sương sớm",
+    "làn sương nhẹ trôi"
+  ],
+  "motion": "cú hạ độ cao cực nhanh và bay xuyên rừng kiểu FPV trong 6 giây đầu tiên, theo sau là chuyển động lướt chậm rãi duyên dáng, quỹ đạo tinh tế và tiến dần về phía sản phẩm trong 4 giây cuối",
+  "duration": "10 giây",
+  "ending": "Hũ Dabur Honey chính hãng vẫn nằm hoàn hảo ở trung tâm trên tảng đá phủ rêu khi camera từ từ quay quanh và kết thúc bằng một cú cận cảnh macro cao cấp vào nhãn sản phẩm và lớp mật ong vàng óng bên trong hũ thủy tinh.",
+  "text": "không có",
+  "keywords": [
+    "16:9",
+    "quảng cáo cao cấp",
+    "bay drone điện ảnh",
+    "FPV",
+    "siêu thực",
+    "giới thiệu sản phẩm sang trọng",
+    "bao bì Dabur Honey chính hãng",
+    "hũ mật ong thủy tinh",
+    "bình minh vàng",
+    "phong cảnh thiên nhiên Ấn Độ",
+    "cận cảnh sản phẩm",
+    "không văn bản",
+    "không thêm logo"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Quảng cáo bằng drone điện ảnh cho mật ong Himalaya">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2079454972098609447)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Đã xuất bản:** Jul 21, 2026
+
+---
 ### Tranh màu nước điện ảnh về góa phụ vùng Rajasthan
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2867,55 +2943,13 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 **Tác giả:** [Elis Satu](https://x.com/astvatsaturn) | **Nguồn:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Đã xuất bản:** May 28, 2026
 
 ---
-### Tái hiện cảnh phim theo phong cách The Sims
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một mẫu sáng tạo dành cho Gemini Omni giúp tái hiện các cảnh phim và chương trình truyền hình kinh điển theo phong cách đồ họa đặc trưng của trò chơi The Sims, bao gồm hình ảnh độc đáo và lời thoại hài hước.
-
-#### 📝 Prompt
-
-```
-[Phim/Chương trình truyền hình] cảnh kinh điển, nhưng dưới dạng trò chơi The Sims
-
-[mô tả cảnh]
-
-Đồ họa trò chơi The Sims và lời thoại ngớ ngẩn kiểu Sims
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="Tái hiện cảnh phim theo phong cách The Sims">
-
-**[🎬 Xem video →](https://x.com/techhalla/status/2060068841573498998)**
-
-**Tác giả:** [TechHalla](https://x.com/techhalla) | **Nguồn:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Đã xuất bản:** May 28, 2026
-
----
-### Biến hình du lịch selfie phong cách hyper-lapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mẫu (master prompt) dành cho Gemini Omni để tạo video du lịch hyper-lapse, giúp thay thế nhân vật trong ảnh tải lên vào 20 bối cảnh khác nhau mà vẫn giữ nguyên đặc điểm nhận dạng.
-
-#### 📝 Prompt
-
-```
-Tạo một video du lịch selfie phong cách hyper-lapse dài 10 giây với nhân vật được tải lên. Đảm bảo tính nhất quán tuyệt đối về danh tính xuyên suốt tất cả các địa điểm và nghề nghiệp. Thể hiện 20 vai trò chuyên môn độc đáo và các môi trường khắc nghiệt trên toàn thế giới với độ khó cao
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Biến hình du lịch selfie phong cách hyper-lapse">
-
-**[🎬 Xem video →](https://x.com/ZefredAi/status/2060051882538594657)**
-
-**Tác giả:** [ZeFred.AI](https://x.com/ZefredAi) | **Nguồn:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Đã xuất bản:** May 28, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 22 prompt khác không hiển thị ở đây
+### 🎯 24 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2961,6 +2995,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-22T06:26:43.958Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-22T10:23:46.142Z</sub>
 
 </div>

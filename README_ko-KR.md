@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **122** |
+| 📝 총 프롬프트 수 | **124** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-22** |
 
@@ -56,6 +56,82 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 비디오 객체 교체 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni Flash를 사용하여 비디오 내 객체를 참조 이미지의 고양이로 교체하면서 장면의 일관성을 유지하도록 설계된 특정 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+입력된 비디오를 편집하세요. 햄스터를 <IMAGE_REF_0>의 고양이로 교체하고, 고양이의 외형과 정체성을 유지하세요. <IMAGE_REF_1>의 시각적 스타일(털, 색상, 렌더링 스타일)을 고양이의 외양에 적용하세요. 원래의 움직임, 타이밍, 카메라 구도 및 배경은 그대로 유지하세요. 
+그 외 모든 요소는 동일하게 유지하세요. 장면 전환 없는 연속 촬영본입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="비디오 객체 교체 프롬프트">
+
+**[🎬 비디오 보기 →](https://x.com/nicegen_ai/status/2079554954638033066)**
+
+**작성자:** [NiceGen.ai](https://x.com/nicegen_ai) | **출처:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **게시일:** Jul 21, 2026
+
+---
+### 히말라야 허니 시네마틱 드론 광고
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 히말라야 산맥을 배경으로 한 꿀 제품 패키지 고속 시네마틱 드론 광고를 위한 포괄적인 JSON 형식의 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "description": "웅장한 히말라야 설산 위, 황금빛 일출과 함께 초고속 시네마틱 드론 샷이 시작됩니다. 카메라는 울창한 녹색 계곡, 수정처럼 맑은 강, 안개 낀 소나무 숲 사이를 빠르게 통과하며, 거대한 나무들 사이를 질주하고 폭포 위를 스치듯 가속합니다. 속도가 점차 줄어들며 따스한 아침 햇살이 내리쬐는 평화로운 숲속 공터로 전환됩니다. 카메라는 이끼 낀 바위 쪽으로 부드럽게 이동하며, 그 위에 우아하게 놓인 실제 소매용 패키지의 Dabur Honey 유리병을 메인 제품으로 비춥니다. 영상은 투명한 병 속의 풍부한 황금빛 꿀을 강조하는 프리미엄 시네마틱 클로즈업으로 마무리되며, 실제 제품 라벨과 패키지 디자인을 그대로 유지합니다. 추가적인 브랜딩 요소, 떠다니는 그래픽 또는 텍스트는 없습니다.",
+  "style": "프리미엄 시네마틱 하이퍼 리얼리스틱 자연 광고 및 럭셔리 제품 촬영",
+  "camera": "고속 FPV 스타일 드론 플라이스루에서 안정적인 시네마틱 돌리 및 느린 궤도 매크로 제품 노출로 전환",
+  "lighting": "자연스러운 렌즈 플레어와 숲의 캐노피를 통과하는 볼륨감 있는 햇살이 어우러진 따뜻한 황금빛 일출 조명, 마지막에는 유리병과 황금빛 꿀을 강조하는 부드러운 확산 키 라이트로 마무리",
+  "environment": "웅장한 히말라야 산맥, 울창한 인도 숲 계곡, 깨끗한 강, 쏟아지는 폭포, 빽빽한 소나무 숲, 자연의 질감이 풍부한 고요한 이끼 낀 숲속 공터",
+  "elements": [
+    "히말라야 설산",
+    "울창한 녹색 계곡",
+    "수정처럼 맑은 강",
+    "안개 낀 소나무 숲",
+    "쏟아지는 폭포",
+    "이끼 낀 바위 받침대",
+    "실제 소매용 패키지가 포함된 밀봉된 Dabur Honey 유리병",
+    "은은한 벌과 나비",
+    "아침 이슬",
+    "부드럽게 흐르는 안개"
+  ],
+  "motion": "첫 6초 동안은 매우 빠른 공중 하강 및 FPV 숲 플라이스루, 이후 4초 동안은 우아하고 느린 슬로우 모션 글라이드, 미세한 궤도 이동 및 제품을 향한 부드러운 푸시 인",
+  "duration": "10초",
+  "ending": "카메라가 천천히 궤도를 돌며 라벨과 유리병 속에서 빛나는 황금빛 꿀을 프리미엄 매크로 클로즈업으로 비추는 동안, 실제 Dabur Honey 병은 이끼 낀 바위 위에 완벽하게 중앙에 위치합니다.",
+  "text": "없음",
+  "keywords": [
+    "16:9",
+    "프리미엄 광고",
+    "시네마틱 드론 플라이스루",
+    "FPV",
+    "하이퍼 리얼리스틱",
+    "럭셔리 제품 노출",
+    "실제 Dabur Honey 패키지",
+    "유리 꿀병",
+    "황금빛 일출",
+    "인도 자연 경관",
+    "매크로 제품 샷",
+    "텍스트 없음",
+    "추가 로고 없음"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="히말라야 허니 시네마틱 드론 광고">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2079454972098609447)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **게시일:** Jul 21, 2026
+
+---
 ### 영화 같은 수채화풍의 라자스탄 미망인
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2861,55 +2937,13 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 **작성자:** [Elis Satu](https://x.com/astvatsaturn) | **출처:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **게시일:** May 28, 2026
 
 ---
-### 심즈(The Sims) 스타일로 재해석한 영화 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 유명 영화 및 TV 프로그램의 명장면을 심즈(The Sims) 게임 특유의 미학으로 재현하는 Gemini Omni용 크리에이티브 템플릿입니다. 독특한 그래픽과 심즈 스타일의 대사가 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-[영화/TV 프로그램] 명장면, 하지만 심즈(The Sims) 게임 버전
-
-[장면 설명]
-
-심즈(The Sims) 게임 그래픽, 그리고 심즈 특유의 엉뚱한 대사
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="심즈(The Sims) 스타일로 재해석한 영화 장면">
-
-**[🎬 비디오 보기 →](https://x.com/techhalla/status/2060068841573498998)**
-
-**작성자:** [TechHalla](https://x.com/techhalla) | **출처:** [Link](https://x.com/techhalla/status/2060068841573498998) | **게시일:** May 28, 2026
-
----
-### 하이퍼랩스 셀피 여행 변신
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 업로드된 캐릭터의 정체성을 유지하면서 20개의 서로 다른 환경으로 변신시키는 하이퍼랩스 여행 영상을 제작하기 위한 Gemini Omni용 마스터 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-업로드된 캐릭터를 활용하여 10초 분량의 하이퍼랩스 셀피 여행 영상을 제작하세요. 모든 장소와 직업군에서 캐릭터의 정체성을 엄격하게 유지해야 합니다. 전 세계의 20가지 독특하고 이색적인 전문 역할과 극한의 환경을 배경으로 구성하세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="하이퍼랩스 셀피 여행 변신">
-
-**[🎬 비디오 보기 →](https://x.com/ZefredAi/status/2060051882538594657)**
-
-**작성자:** [ZeFred.AI](https://x.com/ZefredAi) | **출처:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **게시일:** May 28, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 22 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 24 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2955,6 +2989,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-22T06:26:42.957Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-22T10:23:44.788Z</sub>
 
 </div>

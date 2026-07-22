@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **122** |
+| 📝 Gesamtanzahl Prompts | **124** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-22** |
 
@@ -56,6 +56,82 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Prompt zum Ersetzen von Videoobjekten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein spezifischer Prompt für Gemini Omni Flash, der darauf ausgelegt ist, ein Objekt in einem Video durch eine Katze aus einem Referenzbild zu ersetzen und dabei die Szenenkonsistenz zu wahren.
+
+#### 📝 Prompt
+
+```
+Bearbeite das Eingabevideo. Ersetze den Hamster durch die Katze aus <IMAGE_REF_0> und stimme das Aussehen sowie die Identität der Katze ab. Wende den visuellen Stil von <IMAGE_REF_1> auf das Erscheinungsbild der Katze an (Fell, Farben, Rendering-Stil). Behalte die ursprüngliche Bewegung, das Timing, die Kameraführung und den Hintergrund bei. 
+Lasse alles andere unverändert. Durchgehende Aufnahme, keine Szenenschnitte.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Prompt zum Ersetzen von Videoobjekten">
+
+**[🎬 Video ansehen →](https://x.com/nicegen_ai/status/2079554954638033066)**
+
+**Autor:** [NiceGen.ai](https://x.com/nicegen_ai) | **Quelle:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Veröffentlicht:** Jul 21, 2026
+
+---
+### Himalayan Honey Kinematische Drohnenwerbung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender, im JSON-Format gehaltener Prompt für einen rasanten, kinematischen Drohnen-Werbespot, der Honigverpackungen vor der Kulisse des Himalayas in Szene setzt.
+
+#### 📝 Prompt
+
+```
+{
+  "description": "Eine ultraschnelle, kinematische Drohnenaufnahme beginnt hoch über den majestätischen, schneebedeckten Gipfeln des Himalayas bei goldenem Sonnenaufgang. Die Kamera stürzt rasant durch üppig grüne Täler, kristallklare Flüsse und nebelverhangene Kiefernwälder, beschleunigt, während sie zwischen hoch aufragenden Bäumen hindurchrast und über kaskadierende Wasserfälle hinweggleitet. Das Tempo verlangsamt sich allmählich und geht in eine friedliche Waldlichtung über, die in warmes Morgenlicht getaucht ist. Die Kamera gleitet auf einen moosbewachsenen Stein zu, auf dem ein makelloses, versiegeltes Dabur Honey Glas mit seiner authentischen Verkaufsverpackung elegant als Hauptprodukt platziert ist. Die Aufnahme endet mit einer erstklassigen kinematischen Nahaufnahme, die den satten, goldenen Honig im Inneren des transparenten Glases hervorhebt, während das echte Produktetikett und das Verpackungsdesign beibehalten werden. Keine zusätzlichen Branding-Elemente, schwebenden Grafiken oder zusätzlicher Text.",
+  "style": "hochwertiger, kinematischer, hyperrealistischer Natur-Werbespot mit luxuriöser Produktfotografie",
+  "camera": "schneller FPV-Drohnenflug mit Übergang zu einer stabilisierten kinematischen Dolly-Fahrt und langsamer, orbitaler Makro-Produktpräsentation",
+  "lighting": "warmes, goldenes Sonnenaufgangslicht mit natürlichen Lens Flares, volumetrischen Sonnenstrahlen durch das Blätterdach des Waldes, endend mit weichem, diffusem Hauptlicht, das das Glas und den goldenen Honig betont",
+  "environment": "majestätische Himalaya-Berge, üppige indische Waldtäler, unberührte Flüsse, kaskadierende Wasserfälle, dichte Kiefernwälder und eine ruhige, moosbewachsene Waldlichtung mit reichhaltigen natürlichen Texturen",
+  "elements": [
+    "schneebedeckte Himalaya-Gipfel",
+    "üppig grüne Täler",
+    "kristallklare Flüsse",
+    "nebelverhangene Kiefernwälder",
+    "kaskadierende Wasserfälle",
+    "moosbewachsener Steinsockel",
+    "authentisches, versiegeltes Dabur Honey Glas mit originaler Verkaufsverpackung",
+    "subtile Bienen und Schmetterlinge",
+    "Morgentau",
+    "sanft ziehender Nebel"
+  ],
+  "motion": "extrem schneller Luftabstieg und FPV-Waldflug während der ersten 6 Sekunden, gefolgt von einem eleganten Zeitlupengleiten, einer subtilen Umlaufbahn und einem sanften Heranzoomen auf das Produkt für die letzten 4 Sekunden",
+  "duration": "10 Sekunden",
+  "ending": "Das authentische Dabur Honey Glas bleibt perfekt zentriert auf dem moosbewachsenen Stein, während die Kamera langsam kreist und mit einer erstklassigen Makro-Nahaufnahme des Etiketts und des leuchtend goldenen Honigs im Inneren des Glases endet.",
+  "text": "kein",
+  "keywords": [
+    "16:9",
+    "Premium-Werbespot",
+    "kinematischer Drohnenflug",
+    "FPV",
+    "hyperrealistisch",
+    "luxuriöse Produktpräsentation",
+    "authentische Dabur Honey Verpackung",
+    "Honigglas",
+    "goldener Sonnenaufgang",
+    "indische Naturlandschaft",
+    "Makro-Produktaufnahme",
+    "kein Text",
+    "keine zusätzlichen Logos"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Himalayan Honey Kinematische Drohnenwerbung">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2079454972098609447)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Veröffentlicht:** Jul 21, 2026
+
+---
 ### Filmische Aquarellmalerei: Rajasthani-Witwe
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2867,55 +2943,13 @@ Reflektion-Rusalka «🌳🧜‍♀️🪞»
 **Autor:** [Elis Satu](https://x.com/astvatsaturn) | **Quelle:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Veröffentlicht:** May 28, 2026
 
 ---
-### Neuinterpretation von Filmszenen im Sims-Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine kreative Vorlage für Gemini Omni, die ikonische Film- und TV-Szenen in der stilisierten Ästhetik des Videospiels The Sims nachbildet, inklusive einzigartiger Grafiken und Dialoge.
-
-#### 📝 Prompt
-
-```
-[Film/TV-Serie] ikonische Szene, aber als The Sims Videospiel
-
-[Szenenbeschreibung]
-
-The Sims Videospiel-Grafik und der typische, alberne The Sims Dialog
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="Neuinterpretation von Filmszenen im Sims-Stil">
-
-**[🎬 Video ansehen →](https://x.com/techhalla/status/2060068841573498998)**
-
-**Autor:** [TechHalla](https://x.com/techhalla) | **Quelle:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Veröffentlicht:** May 28, 2026
-
----
-### Hyperlapse-Selfie-Reisetransformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Master-Prompt für Gemini Omni zur Erstellung eines Hyperlapse-Reisevideos, das einen hochgeladenen Charakter in 20 verschiedene Umgebungen versetzt und dabei die Identität konsistent beibehält.
-
-#### 📝 Prompt
-
-```
-Erstelle ein 10-sekündiges Hyperlapse-Selfie-Reisevideo mit dem hochgeladenen Charakter. Strikte Identitätskonsistenz über alle Standorte und Berufe hinweg. 20 verschiedene, absurde Berufsrollen und extreme Umgebungen weltweit mit harten
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Hyperlapse-Selfie-Reisetransformation">
-
-**[🎬 Video ansehen →](https://x.com/ZefredAi/status/2060051882538594657)**
-
-**Autor:** [ZeFred.AI](https://x.com/ZefredAi) | **Quelle:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Veröffentlicht:** May 28, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 22 weitere Prompts hier nicht angezeigt
+### 🎯 24 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2961,6 +2995,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-22T06:26:46.771Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-22T10:23:50.157Z</sub>
 
 </div>

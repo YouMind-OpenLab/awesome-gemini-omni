@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **122** |
+| 📝 プロンプト総数 | **124** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-07-22** |
 
@@ -56,6 +56,81 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 動画内のオブジェクト置換プロンプト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni Flash 向けに設計された、動画内のオブジェクトを参照画像の猫に置き換えつつ、シーンの一貫性を維持するための専用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+入力動画を編集してください。ハムスターを <IMAGE_REF_0> の猫に置き換え、その猫の外見と個性を再現してください。<IMAGE_REF_1> のビジュアルスタイル（毛並み、色、レンダリングスタイル）を猫に適用してください。元の動き、タイミング、カメラワーク、背景は維持してください。その他の要素はすべてそのままにしてください。カットなしの連続したショットとして処理してください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="動画内のオブジェクト置換プロンプト">
+
+**[🎬 動画を見る →](https://x.com/nicegen_ai/status/2079554954638033066)**
+
+**作者:** [NiceGen.ai](https://x.com/nicegen_ai) | **ソース:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **公開日:** Jul 21, 2026
+
+---
+### ヒマラヤ産ハチミツのシネマティック・ドローン広告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ヒマラヤ山脈を背景にしたハチミツのパッケージをフィーチャーした、高速シネマティック・ドローンCM用の包括的な JSON 形式プロンプト。
+
+#### 📝 プロンプト
+
+```
+{
+  "description": "黄金色の日の出の中、雄大なヒマラヤの雪山の上空から始まる超高速シネマティック・ドローンショット。カメラは緑豊かな渓谷、透き通った川、霧に包まれた松林を急降下し、木々の間を縫うように加速しながら滝の上をかすめていく。ペースは徐々に落ち着き、温かい朝の光に満ちた穏やかな森の空き地へと移行する。カメラは苔むした石の上へと滑らかに進み、そこには本物の小売パッケージに入った未開封の Dabur Honey のガラス瓶が、主役の製品としてエレガントに置かれている。ラストは、透明な瓶の中の濃厚な黄金色のハチミツを強調するプレミアムなシネマティック・クローズアップで締めくくられる。製品本来のラベルとパッケージデザインを維持すること。追加のブランディング要素、フローティンググラフィック、余分なテキストは一切なし。",
+  "style": "プレミアムなシネマティック・ハイパーリアリスティック自然派コマーシャル、高級製品撮影",
+  "camera": "高速 FPV スタイルのドローン飛行から、安定したシネマティック・ドリーおよびゆっくりとした軌道を描くマクロ製品紹介への移行",
+  "lighting": "自然なレンズフレアを伴う温かい黄金色の日の出の光、森の木漏れ日によるボリューム感のある光線。最後はガラス瓶と黄金色のハチミツを際立たせる柔らかな拡散キーライト",
+  "environment": "雄大なヒマラヤ山脈、緑豊かなインドの森林渓谷、清らかな川、滝、鬱蒼とした松林、自然の質感に富んだ静かな苔むした森の空き地",
+  "elements": [
+    "ヒマラヤの雪山",
+    "緑豊かな渓谷",
+    "透き通った川",
+    "霧に包まれた松林",
+    "滝",
+    "苔むした石の台座",
+    "オリジナルの小売パッケージに入った未開封の Dabur Honey ガラス瓶",
+    "かすかなハチや蝶",
+    "朝露",
+    "優しく漂う霧"
+  ],
+  "motion": "最初の 6 秒間は極めて高速な空中降下と FPV による森の飛行。続く 4 秒間は優雅なスローモーションの滑空、緩やかな旋回、そして製品への穏やかなズームイン",
+  "duration": "10 秒",
+  "ending": "カメラがゆっくりと旋回し、ラベルとガラス瓶の中で輝く黄金色のハチミツのプレミアムなマクロ・クローズアップで終了する間、本物の Dabur Honey の瓶は苔むした石の上に完璧に中央配置されたままとなる。",
+  "text": "なし",
+  "keywords": [
+    "16:9",
+    "プレミアム・コマーシャル",
+    "シネマティック・ドローン飛行",
+    "FPV",
+    "ハイパーリアリスティック",
+    "高級製品紹介",
+    "本物の Dabur Honey パッケージ",
+    "ハチミツのガラス瓶",
+    "黄金色の日の出",
+    "インドの自然風景",
+    "マクロ製品ショット",
+    "テキストなし",
+    "追加ロゴなし"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="ヒマラヤ産ハチミツのシネマティック・ドローン広告">
+
+**[🎬 動画を見る →](https://x.com/MrDasOnX/status/2079454972098609447)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **公開日:** Jul 21, 2026
+
+---
 ### シネマティックな水彩画風のラージャスターンの未亡人
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2863,55 +2938,13 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 **作者:** [Elis Satu](https://x.com/astvatsaturn) | **ソース:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **公開日:** May 28, 2026
 
 ---
-### Sims 風の映画シーン再現
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni 用のクリエイティブなテンプレートです。映画やテレビ番組の象徴的なシーンを、The Sims のような独特のグラフィックと会話スタイルで再現します。
-
-#### 📝 プロンプト
-
-```
-[映画 / テレビ番組] の名シーンを The Sims 風に再現
-
-[シーンの説明]
-
-The Sims のゲームグラフィック、および The Sims 特有のコミカルな会話
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="Sims 風の映画シーン再現">
-
-**[🎬 動画を見る →](https://x.com/techhalla/status/2060068841573498998)**
-
-**作者:** [TechHalla](https://x.com/techhalla) | **ソース:** [Link](https://x.com/techhalla/status/2060068841573498998) | **公開日:** May 28, 2026
-
----
-### ハイパーラプス自撮り旅行変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> アップロードしたキャラクターを 20 種類の異なる環境に配置し、一貫したアイデンティティを保ちながらハイパーラプス旅行動画を作成するための Gemini Omni 向けマスタープロンプト。
-
-#### 📝 プロンプト
-
-```
-アップロードしたキャラクターを使用した 10 秒間のハイパーラプス自撮り旅行動画を作成してください。すべての場所と職業において厳格なアイデンティティの一貫性を維持すること。世界中の 20 種類の異なるユニークな職業と極端な環境を盛り込んでください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="ハイパーラプス自撮り旅行変身">
-
-**[🎬 動画を見る →](https://x.com/ZefredAi/status/2060051882538594657)**
-
-**作者:** [ZeFred.AI](https://x.com/ZefredAi) | **ソース:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **公開日:** May 28, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 22 さらに多くのプロンプトがあります
+### 🎯 24 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2957,6 +2990,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-22T06:26:42.306Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-22T10:23:43.211Z</sub>
 
 </div>

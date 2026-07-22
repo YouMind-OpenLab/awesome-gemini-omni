@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **122** |
+| 📝 Toplam İstem | **124** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-22** |
 
@@ -56,6 +56,82 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Video Nesne Değiştirme İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni Flash için tasarlanmış, sahne tutarlılığını koruyarak videodaki bir nesneyi referans görseldeki bir kediyle değiştirmeye yönelik özel bir istem.
+
+#### 📝 İstem
+
+```
+Girdi videosunu düzenle. Hamster'ı <IMAGE_REF_0> içindeki kediyle değiştir; kedinin görünüşünü ve kimliğini eşleştir. <IMAGE_REF_1> görsel stilini kedinin görünümüne (tüy, renkler, işleme stili) uygula. Orijinal hareketi, zamanlamayı, kamerayı ve arka planı koru. 
+Diğer her şeyi aynı tut. Kesintisiz çekim, sahne geçişi yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Video Nesne Değiştirme İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/nicegen_ai/status/2079554954638033066)**
+
+**Yazar:** [NiceGen.ai](https://x.com/nicegen_ai) | **Kaynak:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Yayınlandı:** Jul 21, 2026
+
+---
+### Himalaya Balı Sinematik Drone Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Himalaya dağları fonunda bal ambalajını öne çıkaran, yüksek hızlı sinematik drone reklamı için kapsamlı JSON formatında bir komut.
+
+#### 📝 İstem
+
+```
+{
+  "description": "Ultra hızlı sinematik drone çekimi, altın rengi gün doğumunda görkemli, karla kaplı Himalaya dağlarının üzerinde başlar. Kamera; yemyeşil vadiler, kristal berraklığında nehirler ve sisle kaplı çam ormanlarının içinden hızla dalarak, devasa ağaçların arasında yarışıp çağlayan şelalelerin üzerinden süzülerek hızlanır. Tempo kademeli olarak yavaşlar ve sıcak sabah ışığıyla yıkanan huzurlu bir orman açıklığına geçiş yapar. Kamera, yosun kaplı bir taşın üzerinde, otantik perakende ambalajıyla zarif bir şekilde yerleştirilmiş, ağzı kapalı saf Dabur Honey cam kavanozuna doğru süzülür. Çekim, gerçek ürün etiketini ve ambalaj tasarımını korurken, şeffaf kavanozun içindeki zengin altın rengi balı vurgulayan birinci sınıf bir sinematik yakın çekimle sona erer. Ek marka öğeleri, yüzen grafikler veya fazladan metin yoktur.",
+  "style": "premium sinematik hiper-gerçekçi doğa reklamı ve lüks ürün fotoğrafçılığı",
+  "camera": "yüksek hızlı FPV tarzı drone geçişi, ardından stabilize sinematik dolly ve yavaş orbital makro ürün sunumu",
+  "lighting": "doğal lens parlamaları ve orman gölgeliğinden süzülen hacimsel güneş ışınları ile sıcak altın rengi gün doğumu aydınlatması; cam kavanozu ve altın rengi balı vurgulayan yumuşak difüzörlü ana ışıkla sona erer",
+  "environment": "görkemli Himalaya dağları, yemyeşil Hint orman vadileri, kristal berraklığında nehirler, çağlayan şelaleler, sık çam ormanları ve doğal dokular açısından zengin, huzurlu, yosun kaplı orman açıklığı",
+  "elements": [
+    "karla kaplı Himalaya dağları",
+    "yemyeşil vadiler",
+    "kristal berraklığında nehirler",
+    "sisle kaplı çam ormanları",
+    "çağlayan şelaleler",
+    "yosun kaplı taş kaide",
+    "orijinal perakende ambalajıyla ağzı kapalı otantik Dabur Honey cam kavanozu",
+    "ince arılar ve kelebekler",
+    "sabah çiyi",
+    "hafif sürüklenen sis"
+  ],
+  "motion": "ilk 6 saniye boyunca son derece hızlı hava inişi ve FPV orman geçişi, ardından zarif bir ağır çekim süzülüş, hafif yörünge hareketi ve son 4 saniyede ürüne doğru nazik bir yakınlaşma",
+  "duration": "10 saniye",
+  "ending": "Kamera yavaşça yörüngede dönerken otantik Dabur Honey kavanozu yosun kaplı taşın üzerinde mükemmel bir şekilde merkezde kalır ve etiket ile cam kavanozun içindeki parlayan altın rengi balın premium makro yakın çekimiyle sona erer.",
+  "text": "yok",
+  "keywords": [
+    "16:9",
+    "premium reklam",
+    "sinematik drone geçişi",
+    "FPV",
+    "hiper-gerçekçi",
+    "lüks ürün sunumu",
+    "otantik Dabur Honey ambalajı",
+    "cam bal kavanozu",
+    "altın rengi gün doğumu",
+    "Hint doğal manzarası",
+    "makro ürün çekimi",
+    "metin yok",
+    "ek logo yok"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Himalaya Balı Sinematik Drone Reklamı">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2079454972098609447)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Yayınlandı:** Jul 21, 2026
+
+---
 ### Sinematik Suluboya Racastanlı Dul Kadın
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2865,55 +2941,13 @@ Yansıma-Rusalka «🌳🧜‍♀️🪞»
 **Yazar:** [Elis Satu](https://x.com/astvatsaturn) | **Kaynak:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Yayınlandı:** May 28, 2026
 
 ---
-### Sims Tarzında Film Sahnesi Yeniden Yaratımı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İkonik film ve dizi sahnelerini, benzersiz grafikler ve diyaloglar dahil olmak üzere The Sims video oyununun stilize estetiğiyle yeniden yaratan, Gemini Omni için yaratıcı bir şablon.
-
-#### 📝 İstem
-
-```
-[Film/Dizi] ikonik sahnesi, ama Sims video oyunu tarzında
-
-[sahne açıklaması]
-
-Sims video oyunu grafikleri ve Sims'in kendine has komik diyalogları
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="Sims Tarzında Film Sahnesi Yeniden Yaratımı">
-
-**[🎬 Videoyu izle →](https://x.com/techhalla/status/2060068841573498998)**
-
-**Yazar:** [TechHalla](https://x.com/techhalla) | **Kaynak:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Yayınlandı:** May 28, 2026
-
----
-### Hyper-lapse Selfie Seyahat Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yüklenen bir karakteri 20 farklı ortama yerleştirirken kimlik tutarlılığını koruyan ve hyper-lapse seyahat videosu oluşturan Gemini Omni için bir ana komut (master prompt).
-
-#### 📝 İstem
-
-```
-Yüklenen karakterin 10 saniyelik hyper-lapse selfie-seyahat videosunu oluşturun. Tüm konumlarda ve mesleklerde katı kimlik tutarlılığı sağlayın. Dünya genelinde 20 farklı absürt profesyonel rol ve ekstrem ortam ile
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Hyper-lapse Selfie Seyahat Dönüşümü">
-
-**[🎬 Videoyu izle →](https://x.com/ZefredAi/status/2060051882538594657)**
-
-**Yazar:** [ZeFred.AI](https://x.com/ZefredAi) | **Kaynak:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Yayınlandı:** May 28, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 22 burada gösterilmeyen daha fazla istem
+### 🎯 24 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2959,6 +2993,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-22T06:26:50.440Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-22T10:23:53.259Z</sub>
 
 </div>

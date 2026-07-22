@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **122** |
+| 📝 Total Prompts | **124** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-22** |
 
@@ -56,6 +56,82 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Video Object Replacement Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A specific prompt for Gemini Omni Flash designed to replace an object in a video with a cat from a reference image while maintaining scene consistency.
+
+#### 📝 Prompt
+
+```
+Edit the input video. Replace the hamster with the cat from <IMAGE_REF_0>,  matching the cat's appearance and identity. Apply the visual style of <IMAGE_REF_1> to the cat's look (fur, colors, rendering style).  Keep the original motion, timing, camera, and background. 
+Keep everything else the same. Continuous shot, no scene cuts.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Video Object Replacement Prompt">
+
+**[🎬 Watch Video →](https://x.com/nicegen_ai/status/2079554954638033066)**
+
+**Author:** [NiceGen.ai](https://x.com/nicegen_ai) | **Source:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Published:** Jul 21, 2026
+
+---
+### Himalayan Honey Cinematic Drone Ad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive JSON-formatted prompt for a high-speed cinematic drone commercial featuring honey packaging set against the Himalayan mountains.
+
+#### 📝 Prompt
+
+```
+{
+  "description": "An ultra-fast cinematic drone shot begins high above majestic Himalayan snow-capped mountains at golden sunrise. The camera dives rapidly through lush green valleys, crystal-clear rivers, and mist-covered pine forests, accelerating as it races between towering trees and skims above cascading waterfalls. The pace gradually slows, transitioning into a peaceful forest clearing bathed in warm morning light. The camera glides toward a moss-covered stone where a pristine, sealed Dabur Honey glass jar with its authentic retail packaging is elegantly placed as the hero product. The shot ends with a premium cinematic close-up highlighting the rich golden honey inside the transparent jar while preserving the real product label and packaging design. No additional branding elements, floating graphics, or extra text.",
+  "style": "premium cinematic hyper-realistic nature commercial with luxury product photography",
+  "camera": "high-speed FPV-style drone flythrough transitioning into stabilized cinematic dolly and slow orbital macro product reveal",
+  "lighting": "warm golden sunrise lighting with natural lens flares, volumetric sun rays through the forest canopy, ending with soft diffused key light accentuating the glass jar and golden honey",
+  "environment": "majestic Himalayan mountains, lush Indian forest valleys, pristine rivers, cascading waterfalls, dense pine forests, and a tranquil moss-covered forest clearing rich in natural textures",
+  "elements": [
+    "Himalayan snow-capped mountains",
+    "lush green valleys",
+    "crystal-clear rivers",
+    "mist-covered pine forests",
+    "cascading waterfalls",
+    "moss-covered stone pedestal",
+    "authentic sealed Dabur Honey glass jar with original retail packaging",
+    "subtle bees and butterflies",
+    "morning dew",
+    "gentle drifting mist"
+  ],
+  "motion": "extremely fast aerial descent and FPV forest flythrough during the first 6 seconds, followed by a graceful slow-motion glide, subtle orbit, and gentle push-in toward the product for the final 4 seconds",
+  "duration": "10 seconds",
+  "ending": "The authentic Dabur Honey jar remains perfectly centered on the moss-covered stone as the camera slowly orbits and finishes with a premium macro close-up of the label and glowing golden honey inside the glass jar.",
+  "text": "none",
+  "keywords": [
+    "16:9",
+    "premium commercial",
+    "cinematic drone flythrough",
+    "FPV",
+    "hyper-realistic",
+    "luxury product reveal",
+    "authentic Dabur Honey packaging",
+    "glass honey jar",
+    "golden sunrise",
+    "indian natural landscape",
+    "macro product shot",
+    "no text",
+    "no additional logos"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Himalayan Honey Cinematic Drone Ad">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2079454972098609447)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Published:** Jul 21, 2026
+
+---
 ### Cinematic Watercolor Rajasthani Widow
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2867,55 +2943,13 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 **Author:** [Elis Satu](https://x.com/astvatsaturn) | **Source:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Published:** May 28, 2026
 
 ---
-### Sims Style Movie Scene Reimagining
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative template for Gemini Omni that recreates iconic movie and TV scenes within the stylized aesthetic of The Sims videogame, including unique graphics and dialogue.
-
-#### 📝 Prompt
-
-```
-[Movie/TV Show] iconic scene, but it's a Sims videogame
-
-[scene description]
-
-Sims videogame graphics, and Sims silly dialogue
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="Sims Style Movie Scene Reimagining">
-
-**[🎬 Watch Video →](https://x.com/techhalla/status/2060068841573498998)**
-
-**Author:** [TechHalla](https://x.com/techhalla) | **Source:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Published:** May 28, 2026
-
----
-### Hyper-lapse Selfie Travel Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A master prompt for Gemini Omni to create a hyper-lapse travel video that swaps an uploaded character into 20 distinct environments while keeping identity consistent.
-
-#### 📝 Prompt
-
-```
-Create a 10s hyper-lapse selfie-travel video of uploaded character. Strict identity consistency across all locations and professions. 20 distinct absurd professional roles and extreme environments worldwide with hard
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Hyper-lapse Selfie Travel Transformation">
-
-**[🎬 Watch Video →](https://x.com/ZefredAi/status/2060051882538594657)**
-
-**Author:** [ZeFred.AI](https://x.com/ZefredAi) | **Source:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Published:** May 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 22 more prompts not shown here
+### 🎯 24 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2961,6 +2995,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T06:26:40.444Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-22T10:23:41.562Z</sub>
 
 </div>

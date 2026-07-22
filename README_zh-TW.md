@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **122** |
+| 📝 提示詞總數 | **124** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-07-22** |
 
@@ -56,6 +56,82 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 影片物件替換提示詞
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 專為 Gemini Omni Flash 設計的特定提示詞，旨在將影片中的物件替換為參考圖片中的貓，同時保持場景的一致性。
+
+#### 📝 提示詞
+
+```
+編輯輸入的影片。將倉鼠替換為 <IMAGE_REF_0> 中的貓，並匹配該貓的外觀與特徵。將 <IMAGE_REF_1> 的視覺風格應用於貓的外觀（毛髮、顏色、渲染風格）。保留原始的動作、時序、攝影機運鏡與背景。
+保持其他所有內容不變。連續鏡頭，無場景切換。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="影片物件替換提示詞">
+
+**[🎬 觀看視頻 →](https://x.com/nicegen_ai/status/2079554954638033066)**
+
+**作者:** [NiceGen.ai](https://x.com/nicegen_ai) | **來源:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **發布時間:** Jul 21, 2026
+
+---
+### 喜馬拉雅蜂蜜電影級無人機廣告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份完整的 JSON 格式提示詞，用於製作以喜馬拉雅山脈為背景、展示蜂蜜包裝的高速電影級無人機商業廣告。
+
+#### 📝 提示詞
+
+```
+{
+  "description": "鏡頭從喜馬拉雅山脈壯麗的雪山頂端開始，在金色晨曦中以超高速電影級無人機視角俯衝。攝影機快速穿過翠綠的山谷、清澈見底的河流以及霧氣繚繞的松樹林，在參天大樹間疾馳並掠過層疊的瀑布，速度逐漸放緩，過渡到沐浴在溫暖晨光中的寧靜林間空地。攝影機滑向一塊長滿苔蘚的石頭，那裡優雅地放置著一罐密封完好、帶有真實零售包裝的 Dabur Honey 玻璃罐，作為主角產品。鏡頭最後以頂級電影級特寫結束，突顯透明罐內濃郁的金色蜂蜜，同時保留真實的產品標籤與包裝設計。不包含額外的品牌元素、浮動圖形或額外文字。",
+  "style": "頂級電影級超寫實自然商業廣告，結合奢華產品攝影",
+  "camera": "高速 FPV 風格無人機穿梭，過渡至穩定的電影級滑軌鏡頭與緩慢的環繞式微距產品展示",
+  "lighting": "溫暖的金色晨曦照明，帶有自然鏡頭光暈，林冠間的體積光束，結尾處以柔和的擴散主光突顯玻璃罐與金色蜂蜜",
+  "environment": "壯麗的喜馬拉雅山脈、蔥鬱的印度森林山谷、純淨的河流、層疊的瀑布、茂密的松樹林，以及充滿自然紋理、寧靜且長滿苔蘚的林間空地",
+  "elements": [
+    "喜馬拉雅雪山",
+    "翠綠山谷",
+    "清澈河流",
+    "霧氣繚繞的松樹林",
+    "層疊瀑布",
+    "長滿苔蘚的石台",
+    "帶有原始零售包裝的密封 Dabur Honey 玻璃罐",
+    "細微的蜜蜂與蝴蝶",
+    "晨露",
+    "輕柔飄動的薄霧"
+  ],
+  "motion": "前 6 秒為極速空中俯衝與 FPV 森林穿梭，隨後 4 秒過渡為優雅的慢動作滑行、細微環繞以及向產品緩慢推進的鏡頭",
+  "duration": "10 秒",
+  "ending": "當攝影機緩慢環繞並以標籤與玻璃罐內發光金色蜂蜜的頂級微距特寫結束時，真實的 Dabur Honey 罐始終保持在長滿苔蘚的石頭中央。",
+  "text": "無",
+  "keywords": [
+    "16:9",
+    "頂級商業廣告",
+    "電影級無人機穿梭",
+    "FPV",
+    "超寫實",
+    "奢華產品展示",
+    "真實 Dabur Honey 包裝",
+    "玻璃蜂蜜罐",
+    "金色晨曦",
+    "印度自然景觀",
+    "微距產品鏡頭",
+    "無文字",
+    "無額外標誌"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="喜馬拉雅蜂蜜電影級無人機廣告">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2079454972098609447)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **發布時間:** Jul 21, 2026
+
+---
 ### 電影感水彩風格：拉賈斯坦邦的寡婦
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2867,55 +2943,13 @@ Reflection-Rusalka «🌳🧜‍♀️🪞»
 **作者:** [Elis Satu](https://x.com/astvatsaturn) | **來源:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **發布時間:** May 28, 2026
 
 ---
-### 模擬市民 (The Sims) 風格電影場景重現
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Gemini Omni 設計的創意模板，旨在將經典電影與電視場景，以模擬市民 (The Sims) 電玩遊戲的獨特美學進行重現，包含獨特的視覺效果與對話。
-
-#### 📝 提示詞
-
-```
-[電影/電視節目] 經典場景，但以模擬市民 (The Sims) 電玩風格呈現
-
-[場景描述]
-
-模擬市民 (The Sims) 電玩遊戲畫面，以及模擬市民特有的趣味對話
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="模擬市民 (The Sims) 風格電影場景重現">
-
-**[🎬 觀看視頻 →](https://x.com/techhalla/status/2060068841573498998)**
-
-**作者:** [TechHalla](https://x.com/techhalla) | **來源:** [Link](https://x.com/techhalla/status/2060068841573498998) | **發布時間:** May 28, 2026
-
----
-### 超縮時自拍旅行變身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個專為 Gemini Omni 設計的指令，用於製作超縮時旅行影片。透過將上傳的人物角色置入 20 種不同的環境中，同時保持角色外觀的一致性。
-
-#### 📝 提示詞
-
-```
-製作一段 10 秒的超縮時自拍旅行影片，主角為上傳的人物角色。確保在所有地點與職業場景中，角色外觀保持嚴格的一致性。影片需包含 20 種截然不同的荒謬職業角色與全球極端環境，並具備強烈的
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="超縮時自拍旅行變身">
-
-**[🎬 觀看視頻 →](https://x.com/ZefredAi/status/2060051882538594657)**
-
-**作者:** [ZeFred.AI](https://x.com/ZefredAi) | **來源:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **發布時間:** May 28, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 22 更多提示詞未在此顯示
+### 🎯 24 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2961,6 +2995,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-22T06:26:41.513Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-22T10:23:42.667Z</sub>
 
 </div>

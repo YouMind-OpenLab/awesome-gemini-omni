@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **122** |
+| 📝 Total de prompts | **124** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-22** |
 
@@ -56,6 +56,82 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompt para Substituição de Objetos em Vídeo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt específico para o Gemini Omni Flash projetado para substituir um objeto em um vídeo por um gato a partir de uma imagem de referência, mantendo a consistência da cena.
+
+#### 📝 Prompt
+
+```
+Edite o vídeo de entrada. Substitua o hamster pelo gato da <IMAGE_REF_0>, combinando a aparência e a identidade do gato. Aplique o estilo visual da <IMAGE_REF_1> ao visual do gato (pelagem, cores, estilo de renderização). Mantenha o movimento, o tempo, a câmera e o fundo originais. 
+Mantenha todo o restante igual. Tomada contínua, sem cortes de cena.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Prompt para Substituição de Objetos em Vídeo">
+
+**[🎬 Assistir vídeo →](https://x.com/nicegen_ai/status/2079554954638033066)**
+
+**Autor:** [NiceGen.ai](https://x.com/nicegen_ai) | **Fonte:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Publicado:** Jul 21, 2026
+
+---
+### Anúncio Cinematográfico de Drone para Mel do Himalaia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt abrangente em formato JSON para um comercial cinematográfico de drone em alta velocidade, apresentando embalagens de mel com o cenário das montanhas do Himalaia.
+
+#### 📝 Prompt
+
+```
+{
+  "description": "Uma tomada cinematográfica de drone ultrarrápida começa no alto das majestosas montanhas nevadas do Himalaia durante um nascer do sol dourado. A câmera mergulha rapidamente através de vales verdes exuberantes, rios cristalinos e florestas de pinheiros cobertas por névoa, acelerando enquanto corre entre árvores imponentes e desliza sobre cachoeiras. O ritmo diminui gradualmente, transicionando para uma clareira tranquila na floresta banhada pela luz quente da manhã. A câmera desliza em direção a uma pedra coberta de musgo onde um pote de vidro de mel Dabur, selado e impecável, com sua embalagem autêntica de varejo, é elegantemente posicionado como o produto principal. A tomada termina com um close-up cinematográfico premium destacando o rico mel dourado dentro do pote transparente, preservando o rótulo real e o design da embalagem. Sem elementos de marca adicionais, gráficos flutuantes ou texto extra.",
+  "style": "comercial de natureza premium, cinematográfico e hiper-realista com fotografia de produto de luxo",
+  "camera": "voo de drone estilo FPV de alta velocidade transicionando para um dolly cinematográfico estabilizado e revelação macro orbital lenta do produto",
+  "lighting": "iluminação quente de nascer do sol dourado com reflexos naturais de lente, raios solares volumétricos através da copa da floresta, terminando com uma luz principal suave e difusa acentuando o pote de vidro e o mel dourado",
+  "environment": "montanhas majestosas do Himalaia, vales florestais indianos exuberantes, rios cristalinos, cachoeiras, florestas densas de pinheiros e uma clareira tranquila coberta de musgo, rica em texturas naturais",
+  "elements": [
+    "montanhas nevadas do Himalaia",
+    "vales verdes exuberantes",
+    "rios cristalinos",
+    "florestas de pinheiros cobertas por névoa",
+    "cachoeiras",
+    "pedra coberta de musgo como pedestal",
+    "pote de vidro de mel Dabur autêntico e selado com embalagem original de varejo",
+    "abelhas e borboletas sutis",
+    "orvalho da manhã",
+    "névoa suave à deriva"
+  ],
+  "motion": "descida aérea extremamente rápida e voo FPV pela floresta durante os primeiros 6 segundos, seguido por um deslize gracioso em câmera lenta, órbita sutil e aproximação suave em direção ao produto nos 4 segundos finais",
+  "duration": "10 segundos",
+  "ending": "O pote autêntico de mel Dabur permanece perfeitamente centralizado na pedra coberta de musgo enquanto a câmera orbita lentamente e termina com um close-up macro premium do rótulo e do mel dourado brilhante dentro do pote de vidro.",
+  "text": "nenhum",
+  "keywords": [
+    "16:9",
+    "comercial premium",
+    "voo cinematográfico de drone",
+    "FPV",
+    "hiper-realista",
+    "revelação de produto de luxo",
+    "embalagem autêntica de mel Dabur",
+    "pote de vidro de mel",
+    "nascer do sol dourado",
+    "paisagem natural indiana",
+    "tomada macro de produto",
+    "sem texto",
+    "sem logotipos adicionais"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Anúncio Cinematográfico de Drone para Mel do Himalaia">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2079454972098609447)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Publicado:** Jul 21, 2026
+
+---
 ### Viúva Rajasthani em Aquarela Cinematográfica
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2867,55 +2943,13 @@ Reflexo-Rusalka «🌳🧜‍♀️🪞»
 **Autor:** [Elis Satu](https://x.com/astvatsaturn) | **Fonte:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Publicado:** May 28, 2026
 
 ---
-### Recriação de cenas de filmes no estilo The Sims
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um modelo criativo para o Gemini Omni que recria cenas icônicas de filmes e séries com a estética estilizada do videogame The Sims, incluindo gráficos e diálogos únicos.
-
-#### 📝 Prompt
-
-```
-[Filme/Série] cena icônica, mas como se fosse no videogame The Sims
-
-[descrição da cena]
-
-Gráficos do videogame The Sims e diálogos divertidos ao estilo Sims
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="Recriação de cenas de filmes no estilo The Sims">
-
-**[🎬 Assistir vídeo →](https://x.com/techhalla/status/2060068841573498998)**
-
-**Autor:** [TechHalla](https://x.com/techhalla) | **Fonte:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Publicado:** May 28, 2026
-
----
-### Transformação de Viagem em Selfie Hyper-lapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt mestre para o Gemini Omni criar um vídeo de viagem em hyper-lapse que insere um personagem enviado em 20 ambientes distintos, mantendo a consistência da identidade.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo de viagem em selfie hyper-lapse de 10 segundos com o personagem enviado. Consistência de identidade rigorosa em todos os locais e profissões. 20 papéis profissionais absurdos e distintos e ambientes extremos ao redor do mundo com cortes bruscos
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Transformação de Viagem em Selfie Hyper-lapse">
-
-**[🎬 Assistir vídeo →](https://x.com/ZefredAi/status/2060051882538594657)**
-
-**Autor:** [ZeFred.AI](https://x.com/ZefredAi) | **Fonte:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Publicado:** May 28, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 22 mais prompts não mostrados aqui
+### 🎯 24 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2961,6 +2995,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-22T06:26:49.673Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-22T10:23:52.502Z</sub>
 
 </div>

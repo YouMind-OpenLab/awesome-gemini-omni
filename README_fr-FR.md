@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **122** |
+| 📝 Total des prompts | **124** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-07-22** |
 
@@ -56,6 +56,82 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt de remplacement d'objet vidéo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt spécifique pour Gemini Omni Flash conçu pour remplacer un objet dans une vidéo par un chat provenant d'une image de référence, tout en maintenant la cohérence de la scène.
+
+#### 📝 Prompt
+
+```
+Modifie la vidéo source. Remplace le hamster par le chat de <IMAGE_REF_0>, en respectant l'apparence et l'identité du chat. Applique le style visuel de <IMAGE_REF_1> à l'aspect du chat (fourrure, couleurs, style de rendu). Conserve le mouvement, le timing, la caméra et l'arrière-plan d'origine. 
+Ne change rien d'autre. Plan continu, sans coupes de scène.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Prompt de remplacement d'objet vidéo">
+
+**[🎬 Voir la vidéo →](https://x.com/nicegen_ai/status/2079554954638033066)**
+
+**Auteur:** [NiceGen.ai](https://x.com/nicegen_ai) | **Source:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Publié:** Jul 21, 2026
+
+---
+### Publicité cinématographique par drone pour le miel de l'Himalaya
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complet au format JSON pour une publicité cinématographique par drone à haute vitesse mettant en vedette un emballage de miel dans le décor des montagnes de l'Himalaya.
+
+#### 📝 Prompt
+
+```
+{
+  "description": "Un plan de drone cinématographique ultra-rapide commence au-dessus des majestueuses montagnes enneigées de l'Himalaya lors d'un lever de soleil doré. La caméra plonge rapidement à travers des vallées verdoyantes, des rivières cristallines et des forêts de pins couvertes de brume, accélérant alors qu'elle file entre les arbres imposants et survole des cascades. Le rythme ralentit progressivement pour laisser place à une clairière paisible baignée par la lumière chaude du matin. La caméra glisse vers une pierre recouverte de mousse où un pot en verre de miel Dabur, scellé et authentique avec son emballage de vente au détail, est élégamment placé en tant que produit phare. Le plan se termine par un gros plan cinématographique premium mettant en valeur le miel doré riche à l'intérieur du pot transparent, tout en préservant l'étiquette réelle et le design de l'emballage. Aucun élément de marque supplémentaire, graphique flottant ou texte additionnel.",
+  "style": "publicité nature hyper-réaliste cinématographique premium avec photographie de produit de luxe",
+  "camera": "survol de drone de type FPV à haute vitesse transitionnant vers un travelling cinématographique stabilisé et une révélation macro orbitale lente du produit",
+  "lighting": "éclairage chaud de lever de soleil doré avec reflets naturels, rayons de soleil volumétriques à travers la canopée, se terminant par une lumière douce et diffuse accentuant le pot en verre et le miel doré",
+  "environment": "montagnes majestueuses de l'Himalaya, vallées forestières indiennes luxuriantes, rivières cristallines, cascades, forêts de pins denses et clairière tranquille recouverte de mousse riche en textures naturelles",
+  "elements": [
+    "montagnes enneigées de l'Himalaya",
+    "vallées verdoyantes",
+    "rivières cristallines",
+    "forêts de pins couvertes de brume",
+    "cascades",
+    "socle en pierre recouvert de mousse",
+    "pot en verre de miel Dabur authentique et scellé avec emballage de vente original",
+    "abeilles et papillons subtils",
+    "rosée du matin",
+    "brume légère"
+  ],
+  "motion": "descente aérienne extrêmement rapide et survol de forêt en FPV pendant les 6 premières secondes, suivis d'un glissement gracieux au ralenti, d'une orbite subtile et d'un zoom lent vers le produit pour les 4 dernières secondes",
+  "duration": "10 secondes",
+  "ending": "Le pot de miel Dabur authentique reste parfaitement centré sur la pierre recouverte de mousse tandis que la caméra orbite lentement et termine sur un gros plan macro premium de l'étiquette et du miel doré brillant à l'intérieur du pot en verre.",
+  "text": "aucun",
+  "keywords": [
+    "16:9",
+    "publicité premium",
+    "survol cinématographique par drone",
+    "FPV",
+    "hyper-réaliste",
+    "révélation de produit de luxe",
+    "emballage authentique de miel Dabur",
+    "pot de miel en verre",
+    "lever de soleil doré",
+    "paysage naturel indien",
+    "plan macro produit",
+    "sans texte",
+    "sans logos supplémentaires"
+  ]
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Publicité cinématographique par drone pour le miel de l'Himalaya">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2079454972098609447)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Publié:** Jul 21, 2026
+
+---
 ### Veuve rajasthanie, style aquarelle cinématographique
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2867,55 +2943,13 @@ Reflet-Rusalka «🌳🧜‍♀️🪞»
 **Auteur:** [Elis Satu](https://x.com/astvatsaturn) | **Source:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Publié:** May 28, 2026
 
 ---
-### Réimagination de scènes de films façon Les Sims
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un modèle créatif pour Gemini Omni qui recrée des scènes cultes de films et de séries dans l'esthétique stylisée du jeu vidéo Les Sims, incluant des graphismes uniques et des dialogues.
-
-#### 📝 Prompt
-
-```
-[Film/Série] scène culte, mais façon jeu vidéo Les Sims
-
-[description de la scène]
-
-Graphismes du jeu vidéo Les Sims et dialogues loufoques façon Sims
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7145eaee1a90344835ee5ae74d20846e/thumbnails/thumbnail.jpg" width="600" alt="Réimagination de scènes de films façon Les Sims">
-
-**[🎬 Voir la vidéo →](https://x.com/techhalla/status/2060068841573498998)**
-
-**Auteur:** [TechHalla](https://x.com/techhalla) | **Source:** [Link](https://x.com/techhalla/status/2060068841573498998) | **Publié:** May 28, 2026
-
----
-### Transformation de voyage en selfie hyper-lapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt maître pour Gemini Omni permettant de créer une vidéo de voyage en hyper-lapse qui intègre un personnage téléchargé dans 20 environnements distincts tout en préservant la cohérence de son identité.
-
-#### 📝 Prompt
-
-```
-Créez une vidéo de voyage en selfie hyper-lapse de 10 secondes à partir d'un personnage téléchargé. Assurez une cohérence d'identité stricte à travers tous les lieux et professions. Mettez en scène 20 rôles professionnels absurdes et environnements extrêmes à travers le monde avec des transitions marquées.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ff0eb210940a5cf57340a0af10000f9e/thumbnails/thumbnail.jpg" width="600" alt="Transformation de voyage en selfie hyper-lapse">
-
-**[🎬 Voir la vidéo →](https://x.com/ZefredAi/status/2060051882538594657)**
-
-**Auteur:** [ZeFred.AI](https://x.com/ZefredAi) | **Source:** [Link](https://x.com/ZefredAi/status/2060051882538594657) | **Publié:** May 28, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 22 prompts supplémentaires non affichés ici
+### 🎯 24 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2961,6 +2995,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-22T06:26:47.377Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-22T10:23:50.850Z</sub>
 
 </div>
