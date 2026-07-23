@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **124** |
+| 📝 कुल प्रॉम्पट्स | **125** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-07-23** |
 
@@ -56,6 +56,29 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### ट्रेन और फिगर मोशन कंस्ट्रेंट्स
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Gemini Omni के लिए निर्देशों का एक सटीक सेट, जो एक मॉडल ट्रेन को देखते हुए एक फिगर को सख्त दिशात्मक और कैमरा बाधाओं के साथ एनिमेट करने के लिए है।
+
+#### 📝 प्रॉम्पट
+
+```
+व्यक्ति और मॉडल ट्रेन को मूव करें।
+- ट्रेन को केवल आगे की ओर बढ़ना चाहिए; पीछे की ओर गति प्रतिबंधित है।
+- व्यक्ति को ट्रेन की ओर देखते हुए आगे बढ़ना चाहिए; पीछे की ओर गति प्रतिबंधित है।
+- कैमरा स्विच न करें।
+- मूल छवि में मौजूद नहीं होने वाली किसी भी ट्रेन या फॉर्मेशन को शामिल न करें।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="ट्रेन और फिगर मोशन कंस्ट्रेंट्स">
+
+**[🎬 वीडियो देखें →](https://x.com/uso800railway/status/2079923166248644727)**
+
+**लेखक:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **स्रोत:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **प्रकाशित:** Jul 22, 2026
+
+---
 ### वीडियो ऑब्जेक्ट रिप्लेसमेंट प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2923,32 +2946,13 @@ HUD, UI, सबटाइटल, मार्कर, टेक्स्ट ओव
 **लेखक:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **स्रोत:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **प्रकाशित:** May 29, 2026
 
 ---
-### Rusalka टैरो कार्ड वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक पौराणिक Rusalka थीम वाली स्थिर, सिनेमाई टैरो कार्ड-प्रेरित वीडियो बनाने के लिए वर्णनात्मक कीवर्ड और इमोजी का उपयोग करने वाला एक रचनात्मक प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-Reflection-Rusalka «🌳🧜‍♀️🪞»
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Rusalka टैरो कार्ड वीडियो">
-
-**[🎬 वीडियो देखें →](https://x.com/astvatsaturn/status/2060128558287044975)**
-
-**लेखक:** [Elis Satu](https://x.com/astvatsaturn) | **स्रोत:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **प्रकाशित:** May 28, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 24 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 25 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2994,6 +2998,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-07-23T06:29:10.059Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-07-23T10:21:26.562Z</sub>
 
 </div>

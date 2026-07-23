@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **124** |
+| 📝 총 프롬프트 수 | **125** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-23** |
 
@@ -56,6 +56,29 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 기차 및 인물 동작 제약 조건 학습
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Gemini Omni가 엄격한 방향 및 카메라 제약 조건에 따라 모델 기차를 바라보는 인물을 애니메이션화하도록 지시하는 정밀한 가이드라인입니다.
+
+#### 📝 프롬프트
+
+```
+인물과 모델 기차를 움직이세요.
+- 기차는 앞으로만 움직여야 하며, 뒤로 움직이는 것은 금지됩니다.
+- 인물은 기차를 바라보며 앞으로 이동해야 하며, 뒤로 움직이는 것은 금지됩니다.
+- 카메라를 전환하지 마세요.
+- 원본 이미지에 없는 기차나 구성을 포함하지 마세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="기차 및 인물 동작 제약 조건 학습">
+
+**[🎬 비디오 보기 →](https://x.com/uso800railway/status/2079923166248644727)**
+
+**작성자:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **출처:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **게시일:** Jul 22, 2026
+
+---
 ### 비디오 객체 교체 프롬프트
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2918,32 +2941,13 @@ HUD, UI, 자막, 마커, 텍스트 오버레이
 **작성자:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **출처:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **게시일:** May 29, 2026
 
 ---
-### 루살카(Rusalka) 타로 카드 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 설명적인 키워드와 이모지를 활용한 창의적인 프롬프트로, 신화 속 루살카 테마를 담은 안정적이고 영화 같은 타로 카드 스타일의 영상을 생성합니다.
-
-#### 📝 프롬프트
-
-```
-Reflection-Rusalka «🌳🧜‍♀️🪞»
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="루살카(Rusalka) 타로 카드 영상">
-
-**[🎬 비디오 보기 →](https://x.com/astvatsaturn/status/2060128558287044975)**
-
-**작성자:** [Elis Satu](https://x.com/astvatsaturn) | **출처:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **게시일:** May 28, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 24 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 25 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2989,6 +2993,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-23T06:29:07.983Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-23T10:21:24.616Z</sub>
 
 </div>

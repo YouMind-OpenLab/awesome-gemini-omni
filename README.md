@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **124** |
+| 📝 Total Prompts | **125** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-23** |
 
@@ -56,6 +56,29 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Train and Figure Motion Constraints
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A precise set of instructions for Gemini Omni to animate a figure watching a model train with strict directional and camera constraints.
+
+#### 📝 Prompt
+
+```
+Move the person and the model train.
+- The train should only move forward; backward movement is prohibited.
+- The person should move forward while looking at the train; backward movement is prohibited.
+- Do not switch cameras.
+- Do not include any trains or formations not present in the original image.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="Train and Figure Motion Constraints">
+
+**[🎬 Watch Video →](https://x.com/uso800railway/status/2079923166248644727)**
+
+**Author:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **Source:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **Published:** Jul 22, 2026
+
+---
 ### Video Object Replacement Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2924,32 +2947,13 @@ Unrealistic horse movement
 **Author:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Published:** May 29, 2026
 
 ---
-### Rusalka Tarot Card Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative prompt using descriptive keywords and emojis to generate a stable, cinematic tarot card-inspired video featuring a mythical Rusalka theme.
-
-#### 📝 Prompt
-
-```
-Reflection-Rusalka «🌳🧜‍♀️🪞»
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Rusalka Tarot Card Video">
-
-**[🎬 Watch Video →](https://x.com/astvatsaturn/status/2060128558287044975)**
-
-**Author:** [Elis Satu](https://x.com/astvatsaturn) | **Source:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Published:** May 28, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 24 more prompts not shown here
+### 🎯 25 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2995,6 +2999,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T06:29:05.292Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-23T10:21:22.274Z</sub>
 
 </div>

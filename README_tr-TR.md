@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **124** |
+| 📝 Toplam İstem | **125** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-23** |
 
@@ -56,6 +56,29 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Tren ve Figür Hareket Kısıtlamaları
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Gemini Omni'nin, bir model treni izleyen figürü katı yön ve kamera kısıtlamalarıyla canlandırması için hazırlanmış hassas talimatlar seti.
+
+#### 📝 İstem
+
+```
+Kişiyi ve model treni hareket ettirin.
+- Tren sadece ileri doğru hareket etmelidir; geri hareket yasaktır.
+- Kişi, trene bakarken ileri doğru hareket etmelidir; geri hareket yasaktır.
+- Kamera açısını değiştirmeyin.
+- Orijinal görselde bulunmayan hiçbir treni veya oluşumu dahil etmeyin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="Tren ve Figür Hareket Kısıtlamaları">
+
+**[🎬 Videoyu izle →](https://x.com/uso800railway/status/2079923166248644727)**
+
+**Yazar:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **Kaynak:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **Yayınlandı:** Jul 22, 2026
+
+---
 ### Video Nesne Değiştirme İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2922,32 +2945,13 @@ Gerçekçi olmayan at hareketi
 **Yazar:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Yayınlandı:** May 29, 2026
 
 ---
-### Rusalka Tarot Kartı Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mitolojik bir Rusalka temasına sahip, stabil ve sinematik bir tarot kartı esintili video oluşturmak için açıklayıcı anahtar kelimeler ve emojiler kullanan yaratıcı bir komut.
-
-#### 📝 İstem
-
-```
-Yansıma-Rusalka «🌳🧜‍♀️🪞»
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Rusalka Tarot Kartı Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/astvatsaturn/status/2060128558287044975)**
-
-**Yazar:** [Elis Satu](https://x.com/astvatsaturn) | **Kaynak:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Yayınlandı:** May 28, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 24 burada gösterilmeyen daha fazla istem
+### 🎯 25 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2993,6 +2997,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-23T06:29:16.901Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-23T10:21:31.132Z</sub>
 
 </div>

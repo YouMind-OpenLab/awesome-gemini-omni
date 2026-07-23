@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **124** |
+| 📝 Total de prompts | **125** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-23** |
 
@@ -56,6 +56,29 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Restricciones de movimiento para el tren y la figura
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un conjunto preciso de instrucciones para que Gemini Omni anime a una figura observando un tren a escala con estrictas restricciones de dirección y cámara.
+
+#### 📝 Prompt
+
+```
+Mueve a la persona y al tren a escala.
+- El tren solo debe moverse hacia adelante; el movimiento hacia atrás está prohibido.
+- La persona debe moverse hacia adelante mientras mira el tren; el movimiento hacia atrás está prohibido.
+- No cambies de cámara.
+- No incluyas trenes ni formaciones que no estén presentes en la imagen original.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="Restricciones de movimiento para el tren y la figura">
+
+**[🎬 Ver video →](https://x.com/uso800railway/status/2079923166248644727)**
+
+**Autor:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **Fuente:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **Publicado:** Jul 22, 2026
+
+---
 ### Prompt para reemplazo de objetos en video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2924,32 +2947,13 @@ Movimiento de caballo poco realista
 **Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fuente:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Publicado:** May 29, 2026
 
 ---
-### Video de carta de tarot de Rusalka
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo que utiliza palabras clave descriptivas y emojis para generar un video estable y cinematográfico inspirado en una carta de tarot con la temática mítica de una Rusalka.
-
-#### 📝 Prompt
-
-```
-Reflejo-Rusalka «🌳🧜‍♀️🪞»
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Video de carta de tarot de Rusalka">
-
-**[🎬 Ver video →](https://x.com/astvatsaturn/status/2060128558287044975)**
-
-**Autor:** [Elis Satu](https://x.com/astvatsaturn) | **Fuente:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Publicado:** May 28, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 24 más prompts no mostrados aquí
+### 🎯 25 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2995,6 +2999,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-23T06:29:10.905Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-23T10:21:27.152Z</sub>
 
 </div>

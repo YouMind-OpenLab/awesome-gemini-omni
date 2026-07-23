@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **124** |
+| 📝 Tổng số prompt | **125** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-23** |
 
@@ -56,6 +56,29 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Huấn luyện và Thiết lập các Ràng buộc Chuyển động cho Hình mẫu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một bộ hướng dẫn chính xác dành cho Gemini Omni để tạo hoạt ảnh cho một hình mẫu đang quan sát mô hình tàu hỏa với các ràng buộc nghiêm ngặt về hướng di chuyển và góc máy quay.
+
+#### 📝 Prompt
+
+```
+Di chuyển người và mô hình tàu hỏa.
+- Tàu hỏa chỉ được phép di chuyển về phía trước; nghiêm cấm di chuyển lùi.
+- Người phải di chuyển về phía trước trong khi nhìn vào tàu hỏa; nghiêm cấm di chuyển lùi.
+- Không được chuyển đổi góc máy quay.
+- Không được thêm bất kỳ tàu hỏa hoặc đội hình nào không có trong hình ảnh gốc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="Huấn luyện và Thiết lập các Ràng buộc Chuyển động cho Hình mẫu">
+
+**[🎬 Xem video →](https://x.com/uso800railway/status/2079923166248644727)**
+
+**Tác giả:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **Nguồn:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **Đã xuất bản:** Jul 22, 2026
+
+---
 ### Câu lệnh thay thế đối tượng trong video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2924,32 +2947,13 @@ Chuyển động của ngựa không thực tế
 **Tác giả:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Đã xuất bản:** May 29, 2026
 
 ---
-### Video thẻ bài Tarot Rusalka
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh sáng tạo sử dụng các từ khóa mô tả và biểu tượng cảm xúc để tạo ra video ổn định, đậm chất điện ảnh lấy cảm hứng từ thẻ bài Tarot với chủ đề thần thoại Rusalka.
-
-#### 📝 Prompt
-
-```
-Reflection-Rusalka «🌳🧜‍♀️🪞»
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Video thẻ bài Tarot Rusalka">
-
-**[🎬 Xem video →](https://x.com/astvatsaturn/status/2060128558287044975)**
-
-**Tác giả:** [Elis Satu](https://x.com/astvatsaturn) | **Nguồn:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Đã xuất bản:** May 28, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 24 prompt khác không hiển thị ở đây
+### 🎯 25 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2995,6 +2999,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-23T06:29:09.371Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-23T10:21:25.840Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **124** |
+| 📝 Gesamtanzahl Prompts | **125** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-23** |
 
@@ -56,6 +56,29 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Bewegungseinschränkungen für Zug und Figur trainieren
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Eine präzise Anweisung für Gemini Omni, um eine Figur zu animieren, die eine Modelleisenbahn beobachtet, unter Einhaltung strenger Richtungs- und Kameravorgaben.
+
+#### 📝 Prompt
+
+```
+Bewege die Person und die Modelleisenbahn.
+- Der Zug darf sich nur vorwärts bewegen; eine Rückwärtsbewegung ist untersagt.
+- Die Person soll sich vorwärts bewegen, während sie den Zug betrachtet; eine Rückwärtsbewegung ist untersagt.
+- Wechsle nicht die Kameraeinstellung.
+- Füge keine Züge oder Formationen hinzu, die nicht im Originalbild enthalten sind.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="Bewegungseinschränkungen für Zug und Figur trainieren">
+
+**[🎬 Video ansehen →](https://x.com/uso800railway/status/2079923166248644727)**
+
+**Autor:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **Quelle:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **Veröffentlicht:** Jul 22, 2026
+
+---
 ### Prompt zum Ersetzen von Videoobjekten
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2924,32 +2947,13 @@ Unrealistische Pferdebewegungen
 **Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Quelle:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Veröffentlicht:** May 29, 2026
 
 ---
-### Rusalka Tarotkarten-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Prompt mit beschreibenden Schlüsselwörtern und Emojis zur Erstellung eines stabilen, filmreifen Videos im Tarotkarten-Stil mit einem mystischen Rusalka-Thema.
-
-#### 📝 Prompt
-
-```
-Reflektion-Rusalka «🌳🧜‍♀️🪞»
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Rusalka Tarotkarten-Video">
-
-**[🎬 Video ansehen →](https://x.com/astvatsaturn/status/2060128558287044975)**
-
-**Autor:** [Elis Satu](https://x.com/astvatsaturn) | **Quelle:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **Veröffentlicht:** May 28, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 24 weitere Prompts hier nicht angezeigt
+### 🎯 25 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2995,6 +2999,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-23T06:29:12.420Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-23T10:21:28.374Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **124** |
+| 📝 プロンプト総数 | **125** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-07-23** |
 
@@ -56,6 +56,29 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 列車と人物の動作制約のトレーニング
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Gemini Omni に対し、厳格な方向およびカメラの制約に従って、模型列車を見つめる人物をアニメーション化するための詳細な指示セットです。
+
+#### 📝 プロンプト
+
+```
+人物と模型列車を動かしてください。
+- 列車は前進のみとし、後退は禁止です。
+- 人物は列車を見つめながら前進し、後退は禁止です。
+- カメラの切り替えは行わないでください。
+- 元の画像に存在しない列車や編成は含めないでください。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="列車と人物の動作制約のトレーニング">
+
+**[🎬 動画を見る →](https://x.com/uso800railway/status/2079923166248644727)**
+
+**作者:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **ソース:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **公開日:** Jul 22, 2026
+
+---
 ### 動画内のオブジェクト置換プロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2919,32 +2942,13 @@ HUD、UI、字幕、マーカー、テキストオーバーレイ
 **作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **ソース:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **公開日:** May 29, 2026
 
 ---
-### ルサルカのタロットカード動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 神話に登場するルサルカをテーマに、説明的なキーワードと絵文字を使用して、安定した映画のようなタロットカード風の動画を生成するためのクリエイティブなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-Reflection-Rusalka «🌳🧜‍♀️🪞»
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="ルサルカのタロットカード動画">
-
-**[🎬 動画を見る →](https://x.com/astvatsaturn/status/2060128558287044975)**
-
-**作者:** [Elis Satu](https://x.com/astvatsaturn) | **ソース:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **公開日:** May 28, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 24 さらに多くのプロンプトがあります
+### 🎯 25 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2990,6 +2994,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-23T06:29:07.414Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-23T10:21:24.096Z</sub>
 
 </div>

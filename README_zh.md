@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **124** |
+| 📝 提示词总数 | **125** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-07-23** |
 
@@ -56,6 +56,29 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 训练模型与人物运动约束
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 为 Gemini Omni 提供的一组精确指令，用于指导其制作人物观察模型火车的动画，并设置严格的方向和摄像机约束。
+
+#### 📝 提示词
+
+```
+移动人物和模型火车。
+- 火车只能向前移动；禁止向后移动。
+- 人物在注视火车的同时应向前移动；禁止向后移动。
+- 请勿切换摄像机视角。
+- 请勿包含原始图像中不存在的任何火车或编组。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="训练模型与人物运动约束">
+
+**[🎬 观看视频 →](https://x.com/uso800railway/status/2079923166248644727)**
+
+**作者:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **来源:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **发布时间:** Jul 22, 2026
+
+---
 ### 视频对象替换提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2924,32 +2947,13 @@ HUD、UI、字幕、标记、文字覆盖
 **作者:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **来源:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **发布时间:** May 29, 2026
 
 ---
-### Rusalka 塔罗牌视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个使用描述性关键词和表情符号的创意提示词，旨在生成一段稳定、具有电影质感的塔罗牌风格视频，呈现神话中的 Rusalka 主题。
-
-#### 📝 提示词
-
-```
-Reflection-Rusalka «🌳🧜‍♀️🪞»
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9d2af1fadc3d5b5d824d18dc672bcd78/thumbnails/thumbnail.jpg" width="600" alt="Rusalka 塔罗牌视频">
-
-**[🎬 观看视频 →](https://x.com/astvatsaturn/status/2060128558287044975)**
-
-**作者:** [Elis Satu](https://x.com/astvatsaturn) | **来源:** [Link](https://x.com/astvatsaturn/status/2060128558287044975) | **发布时间:** May 28, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 24 更多提示词未在此显示
+### 🎯 25 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2995,6 +2999,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-23T06:29:06.058Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-23T10:21:22.847Z</sub>
 
 </div>
