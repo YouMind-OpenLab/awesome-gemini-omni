@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **125** |
+| 📝 Total Prompts | **128** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-24** |
 
@@ -56,6 +56,245 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Gemini Omni vs Gemini Omni Birthday Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A comparison between Gemini Omni and Gemini Omni for a complex birthday-themed video generation, featuring the prompt used for the Gemini Omni output.
+
+#### 📝 Prompt
+
+```
+以当前上传图片作为唯一女主身份、脸部、发型、身材比例、服装与配饰参考，生成一段 10秒、9:16竖屏 的真实生日反转短视频。
+参考图左侧近景用于锁定脸部身份与妆容，中间正面全身用于锁定正面比例和服装轮廓，右侧背面用于锁定背面结构、头发长度和裙摆拖尾。中间人物脸部的灰色圆形只是遮挡标记，成片中禁止出现灰色圆形、面具、无脸或面部遮挡。
+
+【风格与镜头规则】
+
+真实智能手机竖屏短视频质感，夜晚户外公园。
+
+全片只使用：
+
+一个固定主镜头；
+
+一次脸部特写插入；
+
+两次镜头硬切：进入特写、返回主镜头。
+
+除此之外摄影机始终固定，禁止推拉、横摇、俯仰、跟拍、环绕、甩镜和数字变焦。
+
+返回主镜头后，镜头4至镜头6在同一个构图中连续完成，不再切换角度。黑白变化只是同一画面瞬间去除颜色，不算第三次镜头剪辑。
+
+镜头1至镜头5为自然真实速度，只有镜头6使用慢动作。
+【场景】
+夜晚户外公园，画面中央是一张长椅，后方有草地、树木和少量路灯，背景简洁，有自然夜景纵深。
+
+开场长椅为空。固定主镜头的机位、高度、焦距和构图在全片保持一致。
+
+【女主】
+
+严格依据上传图片保持同一人物、同一妆容、同一发型和同一套服装，不重新设计造型。
+
+人物行动时，长发、披纱和裙摆按照真实布料物理自然摆动，但服装结构、长度和配饰位置不能改变。
+
+前半段状态自然温和。反转核心是：女主原本只是准备吹灭生日蜡烛，普通吹气瞬间变成巨大的橙色火焰喷流。
+
+【核心道具与左右关系】
+
+女主右手始终握着同一瓶绿色香槟，左手始终托着同一个点燃蜡烛的生日蛋糕。
+
+从摄影机视角看：
+
+香槟瓶位于画面左侧；
+
+蛋糕位于画面右侧。
+
+香槟瓶口从开场起已经打开，但完成向下重甩动作之前不得漏液、冒泡或提前喷射。
+
+瓶口只能喷出真实浅金色香槟酒液、白色泡沫和液体飞沫，绝对不能出现火焰、烟花、火星、冷焰火、银色光柱或魔法粒子。
+
+蛋糕始终保持水平，蜡烛持续点燃。蛋糕不能倾斜、掉落、融化、烧焦或变形。
+
+【镜头1：空长椅建立、入场并坐下】
+固定主镜头短暂展示夜晚公园中的空长椅。
+
+随后女主从画面右侧进入。她右手握绿色香槟瓶，左手平稳托着点燃蜡烛的生日蛋糕，走到长椅中央并自然坐下。
+
+坐下后身体位于画面中央，香槟瓶位于画面左侧，蛋糕稳定保持在胸前附近。摄影机不能跟随人物移动。
+
+【镜头2：连续晃动香槟】
+
+女主右手握紧瓶颈，连续上下晃动香槟瓶约三次：
+
+抬至肩膀附近
+→ 快速降至腰部附近
+→ 再次抬高
+→ 再次向下甩动
+→ 完成最后一次清楚的上下晃动。
+
+动作由手臂和前臂主导，节奏明确，像在增加瓶内压力。身体和左手蛋糕保持稳定，香槟不能提前喷射。
+
+【镜头3：硬切脸部特写，坏笑并深吸气】
+
+第一次硬切进入女主脸部特写。
+
+女主脸部占据竖屏主要区域，路灯暖光勾勒面部轮廓，夜晚公园背景自然虚化。脸部必须与主镜头和参考图完全一致。
+
+女主停止晃瓶，直视摄影机。表情从温和逐渐变成单侧嘴角抬起的克制坏笑，眼睛略微眯起，眼神带有狡黠感。
+不要露齿大笑，不要挤眉弄眼或面部扭曲。
+最后，她像准备吹灭蜡烛一样明显深吸一口气。香槟瓶和蛋糕仍由双手持有，并在画面下方保持原有位置。
+【镜头4：返回原构图，抬蛋糕并向下重甩香槟】
+第二次硬切返回与开场完全相同的固定主镜头。
+
+女主仍坐在长椅中央。她左手将蛋糕抬到脸前，蛋糕略低于嘴部，位于画面右侧。
+
+同时，右手将香槟瓶高高举起，随后快速、利落地向下挥动：
+
+抬高瓶子
+→ 手臂快速下挥
+→ 瓶子猛地甩向身体右下方
+→ 从摄影机视角看停在画面左下方。
+
+她始终牢牢握住瓶颈。瓶子不能脱手、落地、撞击长椅或破碎。
+
+就在重甩动作完成的同一瞬间，不得停顿，两个效果立即同步启动：
+
+画面左侧香槟瓶口垂直向上喷出真实香槟酒液、大量白色泡沫和飞沫；
+
+女主同时朝蜡烛用力吹气，普通气流瞬间转化为巨大的橙色火焰，从蜡烛正上方掠过并水平喷向画面右侧。
+
+【镜头5：彩色高潮持续喷射】
+
+女主保持坐姿和吹蜡烛的动作，嘴部持续向画面右侧喷出橙色火焰。
+
+火焰必须明确来自嘴部吹气，从蜡烛上方经过，水平向右延伸并略微翻卷，不能从鼻子、脸颊、蜡烛或蛋糕中产生。
+
+左手蛋糕保持在脸前并维持水平。蜡烛持续点燃，蛋糕不融化、不烧焦、不冒烟。
+
+画面左侧香槟瓶口持续垂直向上喷出：
+透明浅金色酒液；
+大量白色泡沫；
+向四周飞散的细密飞沫；
+
+受重力影响自然回落的液体。
+
+瓶口和瓶身表面出现真实湿润反光。香槟必须呈现液体物理，不能形成僵硬白柱、烟雾、烟花或火焰。
+
+画面形成清楚的三个区域：
+左侧：香槟酒液和泡沫；
+
+中间：女主；
+
+右侧：生日蛋糕及从蜡烛上方经过的橙色火焰。
+
+香槟垂直向上，火焰水平向右，两者朝相反方向延伸，不能交叉、接触或重叠。
+
+火焰真实照亮女主脸部、服装、蛋糕、长椅和附近环境；香槟液体反射暖色火光。
+
+【镜头6：黑白慢动作生日海报结尾】
+
+当火焰和香槟喷射达到最夸张的高潮时，配合音乐强拍，整个画面在同一帧内瞬间转换为完全去饱和的纯黑白画面，同时进入慢动作。
+这是同一个主镜头内的色彩变化，不是新的镜头剪辑。
+女主保持完全相同的姿势继续喷火。香槟泡沫和飞沫在黑白慢动作中缓慢飘散、翻滚和坠落，火焰缓慢翻卷。
+黑白转换的同一瞬间，画面上方出现白色手写英文：
+
+Happy Birthday
+
+该文字只能出现在黑白段落，彩色画面中不能提前出现。
+
+慢动作持续至视频结束，最后一帧停留在最高潮姿势。禁止重新摆姿势、切换角度、淡入淡出、白色闪光、溶解或渐变黑白。
+【声音与节奏】
+背景音乐全程连续，节奏清楚。入场、坐下、晃动香槟和向下重甩动作跟随音乐节拍。
+
+脸部特写坏笑时，音乐短暂降低，清楚保留深吸气声。
+
+向下重甩时加入短促挥动风声和低频冲击声，禁止玻璃破碎声。
+
+重甩完成的瞬间立即同步叠加：
+
+吹蜡烛的“呼——”气流声；
+
+气流瞬间转化为火焰爆燃声；
+
+香槟高压喷射声；
+
+酒液与泡沫持续喷射的嘶响声；
+
+短促低频冲击声。
+
+香槟声音必须像高压液体和泡沫喷射，不能像烟花燃烧声。
+
+进入黑白慢动作时，火焰与喷射声同步被拉长为低沉持续的回响，背景音乐继续播放，不能突然停止。
+
+【强制约束】
+
+总时长必须为 10秒、9:16竖屏。
+
+动作顺序必须是：
+
+空长椅
+→ 入场并坐下
+→ 晃动香槟
+→ 硬切脸部特写
+→ 单侧坏笑并深吸气
+→ 硬切返回原构图
+→ 抬起蛋糕并向下重甩香槟
+→ 重甩完成瞬间同步喷出香槟与嘴部火焰
+→ 彩色高潮持续喷射
+→ 音乐强拍瞬间转为黑白慢动作并出现 Happy Birthday
+→ 海报式结尾。
+
+香槟瓶始终握在右手中，不能脱手、落地或破碎。火焰只能来自吹向蜡烛的嘴部气流；香槟瓶口只能喷出酒液、泡沫和飞沫。
+
+香槟喷泉位于画面左侧并垂直向上，嘴部火焰从蜡烛上方掠过并水平向画面右侧，两者必须同时开始且不能交叉。
+女主、蛋糕和香槟瓶全程保持一致。禁止人物复制、额外手臂、额外瓶子、第二个蛋糕、道具变形或服装漂移。
+除黑白段落中的白色手写体 Happy Birthday 外，禁止出现其他字幕、Logo、边框或水印。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080255348896915456/img/ytFQLE_PKdA3JJ5L.jpg" width="600" alt="Gemini Omni vs Gemini Omni Birthday Prompt">
+
+**[🎬 Watch Video →](https://x.com/Chengzilhy/status/2080257001268125733)**
+
+**Author:** [小宇Chengzi](https://x.com/Chengzilhy) | **Source:** [Link](https://x.com/Chengzilhy/status/2080257001268125733) | **Published:** Jul 23, 2026
+
+---
+### Cinematic Beverage Commercial for Fizzi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed prompt for a high-end summer beverage commercial, featuring macro product shots, golden hour lighting, and lifestyle scenes by a pool.
+
+#### 📝 Prompt
+
+```
+Cinematic summer beverage commercial for FIZZI Sparkling Tonic — Grapefruit, high-end style in a warm golden-hour color grade with teal-turquoise pool contrast and coral-pink accents, mixing lifestyle wide shots with hyper-detailed macro product close-ups, slow-motion moments, fun youthful carefree energy, upbeat tropical pop and sound design of can hiss, carbonation fizz, pool splashes and laughter. The product is a tall slim coral-pink aluminum can with condensation droplets — bold retro-rounded lowercase magenta "fizzi" at the top, "sparkling tonic" below, a 4x4 pop-art grid of illustrated grapefruit circles in pink, coral, hot pink and pale yellow, with "0% Alcohol" and "GRAPEFRUIT" at the bottom. At golden hour on a stylish rooftop pool, a young woman in a coral-pink swimsuit sits at the pool edge with her feet in turquoise water, lifting an ice-cold FIZZI can to her lips and closing her eyes in pleasure, friends mingling and string lights twinkling in a dreamy soft-focus blur behind her, condensation catching the golden light. A slightly wider shot shows her floating on a clear inflatable beside a friend in a pale yellow swimsuit, both laughing as they clink their coral-pink cans with a small splash, shot at water level with sparkling reflections dancing across the frame. An extreme macro slowly pans across the coral-pink can surface in hyper-detail — beads of condensation catching prismatic light, the glistening magenta "fizzi" logo filling the frame, then down to the crisp pop-art grapefruit grid with shimmering turquoise bokeh behind. Another dreamy slow-motion macro shows tiny carbonation bubbles racing up through pale-pink sparkling liquid in a glass with a glowing grapefruit slice floating, the can softly out of focus behind, with ASMR fizzing crackle. Finally the camera pulls back to a wide golden-hour shot of the full party — both women floating with cans, friends dancing and lounging on coral towels, grabbing FIZZI from an ice bucket of grapefruit halves — then slowly pushes in as they raise their cans toward camera and clean white text fades in: "Grab an ice cold fizzi," with "© 2026 FIZZI Beverages Co." below, holding then fading out.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080249467647721473/img/W2AOX-wwqvfZtqbA.jpg" width="600" alt="Cinematic Beverage Commercial for Fizzi">
+
+**[🎬 Watch Video →](https://x.com/Just_sharon7/status/2080250591675101490)**
+
+**Author:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Published:** Jul 23, 2026
+
+---
+### Cinematic Japanese School Drama
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video generation prompt for Gemini Omni that creates a detailed high school drama scene with specific camera movements, dialogue, and atmospheric effects.
+
+#### 📝 Prompt
+
+```
+[SCENE & CAMERA MOVEMENT] Cinematic Japanese high school drama scene. The camera begins with a high-angle bird's-eye wide shot looking down at a bright hallway filled with golden afternoon sunlight. The camera then smoothly zooms in and lowers its angle, transitioning into a dynamic side profile, and finally settles into a medium close-up on the characters' faces and upper bodies.  [ACTION & CHARACTERS] A confident blonde-streaked schoolgirl with black nail polish steps forward and gently places her hand on the wall beside a neat, shy class president wearing round glasses. The class president holds her books tightly, blushing slightly with surprise. Pink sakura petals and hair flutter softly across the frame in the warm wind from open windows.  [SFX & AUDIO EFFECTS] Gentle ambient wind and soft rustling sakura petals → Light wall touch sound → Soft surprised gasp → Calm, subtle heartbeat sound effect.  [JAPANESE DIALOGUE] - Confident Girl (Teasing but gentle tone): "Hey, President... what's wrong? Your face is a bit red?" (Nee, Iinchou... doushita no? Kao ga sukoshi akai yo?) - Class President (Flustered but soft tone): "Eh...! Ah, you're too close... wait..." (Ehh...! A, chikai desu... chotto...) [STYLE & AESTHETIC] Photorealistic Japanese youth live-action film style, cinematic lighting, atmospheric dust particles, shallow depth of field, high focus, 8k resolution, 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080151806152482816/img/DzNNE11EyiPsrErK.jpg" width="600" alt="Cinematic Japanese School Drama">
+
+**[🎬 Watch Video →](https://x.com/ngoctramtp/status/2080152132133474497)**
+
+**Author:** [Ciara | Yuri Cinematic](https://x.com/ngoctramtp) | **Source:** [Link](https://x.com/ngoctramtp/status/2080152132133474497) | **Published:** Jul 23, 2026
+
+---
 ### Train and Figure Motion Constraints
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2866,94 +3105,13 @@ Do not change the video itself. Play people, equipment, movement, background, et
 **Author:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Source:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Published:** May 29, 2026
 
 ---
-### Accelerating Aging Time-lapse Video
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed prompt for creating a 10-second video of a Japanese woman aging from infancy to 80 years old with an accelerating time-lapse effect.
-
-#### 📝 Prompt
-
-```
-Generate in 9:16 (vertical). A time-lapse video of a Japanese woman aging from a 0-year-old baby to an 80-year-old grandmother. The speed of the time-lapse gradually increases, making the changes accelerate as she gets older. Starting from a baby, she ages through toddler, girl, young woman, adult, middle-aged woman, and finally to a grandmother, with the aging speed clearly becoming faster in the latter half. Basic facial features, body shape, and contours must be strictly maintained as the same person across all ages (Strict Character Lock). The composition shows the whole body in balance, with a simple, warm white to light beige gradient background. Lighting is soft, gentle natural light. A dynamic 10-second time-lapse from 0 years old to grandmother, with a steadily increasing rate of change.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6841b5bda0e57d0f34c8908e174d9e47/thumbnails/thumbnail.jpg" width="600" alt="Accelerating Aging Time-lapse Video">
-
-**[🎬 Watch Video →](https://x.com/akiyoshisan/status/2060292025489175034)**
-
-**Author:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Source:** [Link](https://x.com/akiyoshisan/status/2060292025489175034) | **Published:** May 29, 2026
-
----
-### Cinematic Seaside Cliff Long Shot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical video prompt focusing on lens control, smooth camera movement, and natural depth of field transitions for a cinematic seaside scene.
-
-#### 📝 Prompt
-
-```
-An elderly man stands on a seaside cliff, gazing out at the sea. The long-shot smoothly and steadily advances, gradually focusing on the man's face, with the focus remaining sharp throughout, the advancement process being smooth and non-laggy, and the depth of field transitioning naturally.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9eb1fc5613053f87ffb86ef5239c56c/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Seaside Cliff Long Shot">
-
-**[🎬 Watch Video →](https://x.com/cloudwiseAI2026/status/2060236649599291773)**
-
-**Author:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Source:** [Link](https://x.com/cloudwiseAI2026/status/2060236649599291773) | **Published:** May 29, 2026
-
----
-### Medieval Knight First-Person POV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for a first-person perspective video of a knight on horseback traveling through a medieval village.
-
-#### 📝 Prompt
-
-```
-A first-person POV (horseback riding POV) sequence in a live-action medieval European-style film, showing a knight traveling on horseback.
-The camera is permanently fixed to the knight’s eye level, representing a realistic human visual perspective from atop a horse. There are no cuts, no switches to third-person, and no aerial or top-down viewpoints at any point.
-The horse follows the route indicated in the reference image. The journey begins at the location labeled “Start” and ends at the location labeled “Stop Here.” Movement follows a realistic walking pace of a horse, with natural body motion including subtle head, shoulder, and reins-induced camera sway.
-Along the way, the knight briefly greets villagers while passing them (simple nods or short hand waves). The village is a live-action medieval settlement with wooden buildings, stone-paved streets, and naturally active inhabitants.
-Upon reaching the final destination, the horse gradually slows down and stops. The knight then naturally dismounts the horse. The footage remains a single continuous shot until that moment.
-
-Visual Style (Photoreal Enhancement):
-Live-action cinematic film quality, photorealistic
-Natural light–based cinematic lighting
-Lens characteristics (shallow depth of field, slight lens breathing)
-Handheld-like but stabilized POV camera motion
-Realistic motion blur
-4K RAW film look
-Cinematic color grading (no excessive CGI appearance)
-
-Negative Prompt (for maintaining realism):
-Anime, CGI, or game engine-style visuals
-Drone view, aerial view, or third-person perspective
-HUD, UI, subtitles, markers, text overlays
-Route lines, guide lines, or map visualizations
-Excessive slow motion or unnatural speed changes
-Unrealistic floating sensation or gravity-defying motion
-Cuts or viewpoint transitions
-Overly smooth CGI-style camera movement
-Unrealistic horse movement
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1c248860c378d088b3cdd08e9fd17d4/thumbnails/thumbnail.jpg" width="600" alt="Medieval Knight First-Person POV">
-
-**[🎬 Watch Video →](https://x.com/tanabe_fragm/status/2060173342943117462)**
-
-**Author:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Published:** May 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 25 more prompts not shown here
+### 🎯 28 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2999,6 +3157,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T06:24:42.597Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-24T10:14:50.260Z</sub>
 
 </div>

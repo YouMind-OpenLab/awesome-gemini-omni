@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **125** |
+| 📝 Total de prompts | **128** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-24** |
 
@@ -56,6 +56,82 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Transformação Surreal de Aniversário com Sopro de Fogo
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt de imagem para vídeo altamente detalhado para uma cena de aniversário, apresentando uma mulher que solta uma chama massiva em vez de apagar uma vela, terminando com um efeito de pôster em câmera lenta em preto e branco.
+
+#### 📝 Prompt
+
+```
+Usando a imagem carregada atualmente como única referência para identidade, rosto, penteado, proporções corporais, roupas e acessórios, gere um vídeo curto vertical de 10 segundos, formato 9:16, realista e com temática de aniversário.
+[Regras de Estilo e Câmera]
+Textura de vídeo vertical realista de smartphone, parque noturno ao ar livre. Apenas um plano principal fixo, uma inserção de close-up do rosto e dois cortes secos. Sem zoom ou movimento de câmera. Velocidade natural para as cenas 1-5, câmera lenta para a cena 6. Transição em preto e branco no final.
+[Cenário]
+Parque noturno ao ar livre com um banco, grama e árvores. Profundidade noturna natural.
+[Personagem]
+A mesma pessoa do upload. A transformação: a garota se prepara para apagar uma vela, mas ela se transforma em um jato de chama laranja massivo.
+[Adereços Principais]
+A mão direita segura uma garrafa de champanhe verde, a mão esquerda segura um bolo de aniversário aceso. O champanhe está à esquerda, o bolo à direita.
+[Cenas 1-6]
+1. Entrada e sentando no banco.
+2. Sacudindo a garrafa de champanhe.
+3. Corte seco para close-up do rosto, com um sorriso de canto e respiração profunda.
+4. Retorno ao plano principal, levantando o bolo e batendo a garrafa de champanhe. Jato de champanhe sincronizado instantâneo (para cima) e fogo pela boca (horizontalmente para a direita).
+5. Clímax de cor com o jato sustentado e o fogo iluminando a cena.
+6. Transição instantânea para câmera lenta em preto e branco com sobreposição de texto 'Happy Birthday'.
+[Áudio]
+Música de fundo contínua. Som de respiração, som de balanço, som de ignição de chama e som de spray de champanhe de alta pressão.
+[Restrições]
+10 segundos no total. Sem duplicação de personagem ou distorção de objetos. O champanhe e o fogo não devem se cruzar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080255348896915456/img/ytFQLE_PKdA3JJ5L.jpg" width="600" alt="Transformação Surreal de Aniversário com Sopro de Fogo">
+
+**[🎬 Assistir vídeo →](https://x.com/Chengzilhy/status/2080257001268125733)**
+
+**Autor:** [小宇Chengzi](https://x.com/Chengzilhy) | **Fonte:** [Link](https://x.com/Chengzilhy/status/2080257001268125733) | **Publicado:** Jul 23, 2026
+
+---
+### Comercial Cinematográfico de Bebida para a Fizzi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt altamente detalhado para um comercial de bebida de verão de alto padrão, apresentando closes macro do produto, iluminação de golden hour e cenas de estilo de vida à beira da piscina.
+
+#### 📝 Prompt
+
+```
+Comercial cinematográfico de bebida de verão para FIZZI Sparkling Tonic — Grapefruit, estilo de alto padrão com color grading quente de golden hour, contraste de piscina em azul-turquesa e detalhes em rosa-coral, misturando planos abertos de estilo de vida com closes macro hiperdetalhados do produto, momentos em câmera lenta, energia jovem, divertida e despreocupada, pop tropical animado e design de som com o chiado da lata, efervescência, respingos na piscina e risadas. O produto é uma lata de alumínio alta e fina na cor rosa-coral com gotas de condensação — logotipo "fizzi" em letras minúsculas arredondadas retrô em magenta no topo, "sparkling tonic" abaixo, uma grade 4x4 de estilo pop-art com círculos ilustrados de toranja em rosa, coral, rosa choque e amarelo pálido, com "0% Alcohol" e "GRAPEFRUIT" na parte inferior. Na golden hour em uma piscina estilosa na cobertura, uma jovem de maiô rosa-coral senta-se na borda da piscina com os pés na água turquesa, levando uma lata de FIZZI gelada aos lábios e fechando os olhos com prazer, amigos conversando e luzes de cordão brilhando em um desfoque suave e sonhador ao fundo, com a condensação capturando a luz dourada. Um plano um pouco mais aberto a mostra flutuando em uma boia transparente ao lado de uma amiga de maiô amarelo pálido, ambas rindo enquanto brindam com suas latas rosa-coral com um pequeno respingo, filmado ao nível da água com reflexos cintilantes dançando pelo quadro. Um macro extremo faz um movimento lento pela superfície da lata rosa-coral em hiperdetalhe — gotas de condensação capturando luz prismática, o logotipo magenta "fizzi" brilhante preenchendo o quadro, depois descendo para a grade nítida de toranjas pop-art com um bokeh turquesa cintilante ao fundo. Outro macro sonhador em câmera lenta mostra pequenas bolhas de carbonatação subindo pelo líquido espumante rosa-pálido em um copo com uma fatia de toranja brilhante flutuando, a lata suavemente fora de foco atrás, com o som ASMR de efervescência. Finalmente, a câmera se afasta para um plano aberto da festa completa na golden hour — ambas as mulheres flutuando com as latas, amigos dançando e relaxando em toalhas corais, pegando FIZZI de um balde de gelo com metades de toranja — então avança lentamente enquanto elas levantam as latas em direção à câmera e um texto branco limpo aparece: "Grab an ice cold fizzi," com "© 2026 FIZZI Beverages Co." abaixo, mantendo a imagem e depois desaparecendo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080249467647721473/img/W2AOX-wwqvfZtqbA.jpg" width="600" alt="Comercial Cinematográfico de Bebida para a Fizzi">
+
+**[🎬 Assistir vídeo →](https://x.com/Just_sharon7/status/2080250591675101490)**
+
+**Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Fonte:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Publicado:** Jul 23, 2026
+
+---
+### Drama Escolar Japonês Cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo abrangente para o Gemini Omni que cria uma cena detalhada de drama escolar, com movimentos de câmera específicos, diálogos e efeitos atmosféricos.
+
+#### 📝 Prompt
+
+```
+[CENA E MOVIMENTO DE CÂMERA] Cena de drama escolar japonês cinematográfico. A câmera começa com um plano geral zenital (bird's-eye view) olhando para um corredor iluminado pela luz dourada da tarde. Em seguida, a câmera faz um zoom suave e baixa o ângulo, transicionando para um perfil lateral dinâmico e, finalmente, estabiliza em um plano médio fechado nos rostos e na parte superior do corpo dos personagens. [AÇÃO E PERSONAGENS] Uma estudante confiante com mechas loiras e esmalte preto dá um passo à frente e coloca suavemente a mão na parede ao lado de uma presidente de classe tímida e organizada, que usa óculos redondos. A presidente de classe segura seus livros com força, corando levemente de surpresa. Pétalas de sakura cor-de-rosa e cabelos balançam suavemente no quadro com o vento quente que entra pelas janelas abertas. [SFX E EFEITOS DE ÁUDIO] Vento ambiente suave e farfalhar leve das pétalas de sakura → Som leve de toque na parede → Suspiro suave de surpresa → Efeito sonoro de batimento cardíaco calmo e sutil. [DIÁLOGO EM JAPONÊS] - Garota confiante (tom provocador, mas gentil): "Ei, Presidente... o que houve? Seu rosto está um pouco vermelho?" (Nee, Iinchou... doushita no? Kao ga sukoshi akai yo?) - Presidente de classe (tom confuso, mas suave): "Eh...! Ah, você está muito perto... espere..." (Ehh...! A, chikai desu... chotto...) [ESTILO E ESTÉTICA] Estilo de filme live-action de juventude japonesa fotorrealista, iluminação cinematográfica, partículas de poeira atmosférica, profundidade de campo rasa, foco nítido, resolução 8k, 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080151806152482816/img/DzNNE11EyiPsrErK.jpg" width="600" alt="Drama Escolar Japonês Cinematográfico">
+
+**[🎬 Assistir vídeo →](https://x.com/ngoctramtp/status/2080152132133474497)**
+
+**Autor:** [Ciara | Yuri Cinematic](https://x.com/ngoctramtp) | **Fonte:** [Link](https://x.com/ngoctramtp/status/2080152132133474497) | **Publicado:** Jul 23, 2026
+
+---
 ### Treinar e definir restrições de movimento da figura
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2866,94 +2942,13 @@ Não altere o vídeo em si. Exiba as pessoas, equipamentos, movimentos, fundo, e
 **Autor:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Fonte:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Publicado:** May 29, 2026
 
 ---
-### Vídeo de Time-lapse de Envelhecimento Acelerado
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt detalhado para criar um vídeo de 10 segundos de uma mulher japonesa envelhecendo desde a infância até os 80 anos com um efeito de time-lapse acelerado.
-
-#### 📝 Prompt
-
-```
-Gere em 9:16 (vertical). Um vídeo de time-lapse de uma mulher japonesa envelhecendo desde bebê de 0 anos até uma avó de 80 anos. A velocidade do time-lapse aumenta gradualmente, fazendo com que as mudanças acelerem à medida que ela envelhece. Começando como bebê, ela passa pelas fases de criança, menina, jovem, adulta, meia-idade e, finalmente, avó, com a velocidade de envelhecimento tornando-se claramente mais rápida na segunda metade. Os traços faciais básicos, a forma do corpo e os contornos devem ser estritamente mantidos como a mesma pessoa em todas as idades (Strict Character Lock). A composição mostra o corpo inteiro em equilíbrio, com um fundo simples em gradiente de branco quente a bege claro. A iluminação é suave, com luz natural delicada. Um time-lapse dinâmico de 10 segundos de 0 anos até a idade de avó, com uma taxa de mudança que aumenta constantemente.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6841b5bda0e57d0f34c8908e174d9e47/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de Time-lapse de Envelhecimento Acelerado">
-
-**[🎬 Assistir vídeo →](https://x.com/akiyoshisan/status/2060292025489175034)**
-
-**Autor:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Fonte:** [Link](https://x.com/akiyoshisan/status/2060292025489175034) | **Publicado:** May 29, 2026
-
----
-### Plano Aberto Cinematográfico de Penhasco à Beira-Mar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo técnico com foco em controle de lente, movimento de câmera suave e transições naturais de profundidade de campo para uma cena cinematográfica à beira-mar.
-
-#### 📝 Prompt
-
-```
-Um homem idoso está em um penhasco à beira-mar, olhando para o mar. O plano aberto avança de forma suave e constante, focando gradualmente no rosto do homem, com o foco permanecendo nítido durante todo o processo, sendo o movimento fluido e sem travamentos, e a profundidade de campo transitando naturalmente.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9eb1fc5613053f87ffb86ef5239c56c/thumbnails/thumbnail.jpg" width="600" alt="Plano Aberto Cinematográfico de Penhasco à Beira-Mar">
-
-**[🎬 Assistir vídeo →](https://x.com/cloudwiseAI2026/status/2060236649599291773)**
-
-**Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fonte:** [Link](https://x.com/cloudwiseAI2026/status/2060236649599291773) | **Publicado:** May 29, 2026
-
----
-### POV de Cavaleiro Medieval a Cavalo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado em primeira pessoa para uma sequência cinematográfica medieval, mostrando um cavaleiro cavalgando por uma vila, enfatizando a perspectiva visual humana realista e o movimento natural.
-
-#### 📝 Prompt
-
-```
-Uma sequência em POV de primeira pessoa (POV montado a cavalo) em um filme live-action de estilo medieval europeu, mostrando um cavaleiro viajando a cavalo.
-A câmera é fixada permanentemente ao nível dos olhos do cavaleiro, representando uma perspectiva visual humana realista de cima de um cavalo. Não há cortes, mudanças para terceira pessoa, nem pontos de vista aéreos ou de cima para baixo em momento algum.
-O cavalo segue a rota indicada na imagem de referência. A jornada começa no local marcado como “Start” (Início) e termina no local marcado como “Stop Here” (Parar Aqui). O movimento segue o passo realista de um cavalo, com movimento corporal natural, incluindo balanço sutil da câmera induzido pela cabeça, ombros e rédeas.
-Ao longo do caminho, o cavaleiro cumprimenta brevemente os aldeões enquanto passa por eles (acenos simples ou breves movimentos de mão). A vila é um assentamento medieval live-action com edifícios de madeira, ruas pavimentadas com pedra e habitantes naturalmente ativos.
-Ao chegar ao destino final, o cavalo diminui gradualmente a velocidade e para. O cavaleiro então desmonta do cavalo naturalmente. A filmagem permanece como um único plano contínuo até esse momento.
-
-Estilo Visual (Aprimoramento Fotorrealista):
-Qualidade de filme cinematográfico live-action, fotorrealista
-Iluminação cinematográfica baseada em luz natural
-Características da lente (profundidade de campo rasa, leve respiração da lente)
-Movimento de câmera POV estilo câmera na mão, porém estabilizado
-Desfoque de movimento (motion blur) realista
-Visual de filme 4K RAW
-Color grading cinematográfico (sem aparência excessiva de CGI)
-
-Prompt Negativo (para manter o realismo):
-Anime, CGI ou visuais estilo motor de jogo
-Visão de drone, visão aérea ou perspectiva de terceira pessoa
-HUD, UI, legendas, marcadores, sobreposições de texto
-Linhas de rota, linhas de guia ou visualizações de mapa
-Câmera lenta excessiva ou mudanças de velocidade não naturais
-Sensação de flutuação irreal ou movimento que desafia a gravidade
-Cortes ou transições de ponto de vista
-Movimento de câmera estilo CGI excessivamente suave
-Movimento de cavalo irreal
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1c248860c378d088b3cdd08e9fd17d4/thumbnails/thumbnail.jpg" width="600" alt="POV de Cavaleiro Medieval a Cavalo">
-
-**[🎬 Assistir vídeo →](https://x.com/tanabe_fragm/status/2060173342943117462)**
-
-**Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Publicado:** May 29, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 25 mais prompts não mostrados aqui
+### 🎯 28 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2999,6 +2994,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-24T06:24:54.967Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-24T10:15:05.171Z</sub>
 
 </div>

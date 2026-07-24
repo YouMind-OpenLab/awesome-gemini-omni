@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **125** |
+| 📝 Totale prompt | **128** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-07-24** |
 
@@ -56,6 +56,82 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Trasformazione surreale di compleanno con sputafuoco
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt image-to-video altamente dettagliato per una scena di compleanno in cui una donna sputa una fiamma massiccia invece di spegnere una candela, terminando con un effetto poster in bianco e nero al rallentatore.
+
+#### 📝 Prompt
+
+```
+Utilizzando l'immagine attualmente caricata come unico riferimento per identità, volto, acconciatura, proporzioni corporee, abbigliamento e accessori, genera un video breve realistico di 10 secondi, in formato verticale 9:16, a tema compleanno.
+[Regole di stile e fotocamera]
+Texture realistica da video per smartphone in verticale, parco notturno all'aperto. Solo un'inquadratura principale fissa, un inserimento in primo piano del volto e due tagli netti. Nessuno zoom o panoramica. Velocità naturale per le inquadrature 1-5, rallentatore per l'inquadratura 6. Transizione in bianco e nero alla fine.
+[Scena]
+Parco notturno all'aperto con una panchina, erba e alberi. Profondità notturna naturale.
+[Personaggio]
+La stessa persona dell'immagine caricata. La trasformazione: la ragazza si prepara a spegnere una candela, ma questa si trasforma in un massiccio getto di fiamma arancione.
+[Oggetti di scena principali]
+La mano destra tiene una bottiglia di champagne verde, la mano sinistra tiene una torta di compleanno accesa. Lo champagne è a sinistra, la torta a destra.
+[Inquadrature 1-6]
+1. Ingresso e seduta sulla panchina.
+2. Agitare la bottiglia di champagne.
+3. Taglio netto sul primo piano del volto, sorrisetto e respiro profondo.
+4. Ritorno all'inquadratura principale, sollevamento della torta e colpo secco della bottiglia di champagne. Spruzzo di champagne sincronizzato istantaneo (verso l'alto) e fuoco dalla bocca (orizzontalmente verso destra).
+5. Climax a colori con spruzzo prolungato e fuoco che illumina la scena.
+6. Transizione istantanea al rallentatore in bianco e nero con sovrimpressione del testo 'Happy Birthday'.
+[Audio]
+Musica di sottofondo continua. Suono del respiro, suono dell'oscillazione, suono dell'accensione della fiamma e suono dello spruzzo di champagne ad alta pressione.
+[Vincoli]
+10 secondi totali. Nessuna duplicazione del personaggio o deformazione degli oggetti di scena. Lo champagne e il fuoco non devono incrociarsi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080255348896915456/img/ytFQLE_PKdA3JJ5L.jpg" width="600" alt="Trasformazione surreale di compleanno con sputafuoco">
+
+**[🎬 Guarda il video →](https://x.com/Chengzilhy/status/2080257001268125733)**
+
+**Autore:** [小宇Chengzi](https://x.com/Chengzilhy) | **Fonte:** [Link](https://x.com/Chengzilhy/status/2080257001268125733) | **Pubblicato:** Jul 23, 2026
+
+---
+### Spot pubblicitario cinematografico per la bevanda Fizzi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt altamente dettagliato per uno spot pubblicitario di una bevanda estiva di alta gamma, con riprese macro del prodotto, illuminazione durante l'ora d'oro e scene di lifestyle a bordo piscina.
+
+#### 📝 Prompt
+
+```
+Spot pubblicitario estivo cinematografico per FIZZI Sparkling Tonic — Pompelmo, stile di alta gamma con color grading caldo da ora d'oro, contrasto tra il turchese della piscina e accenti rosa corallo, che alterna riprese lifestyle a campo largo a primi piani macro iper-dettagliati del prodotto, momenti in slow-motion, energia giovane, spensierata e divertente, pop tropicale ritmato e sound design con il sibilo della lattina, l'effervescenza delle bollicine, schizzi in piscina e risate. Il prodotto è una lattina in alluminio alta e sottile color rosa corallo con goccioline di condensa — logo "fizzi" in minuscolo, arrotondato e rétro in magenta in alto, "sparkling tonic" sotto, una griglia pop-art 4x4 di cerchi di pompelmo illustrati in rosa, corallo, rosa acceso e giallo pallido, con "0% Alcohol" e "GRAPEFRUIT" in basso. Durante l'ora d'oro su una piscina panoramica elegante, una giovane donna in costume da bagno rosa corallo siede a bordo piscina con i piedi nell'acqua turchese, solleva una lattina ghiacciata di FIZZI alle labbra e chiude gli occhi per il piacere, amici che chiacchierano e luci a festone che brillano in uno sfocato da sogno sullo sfondo, la condensa che cattura la luce dorata. Un'inquadratura leggermente più ampia la mostra mentre galleggia su un gonfiabile trasparente accanto a un'amica in costume giallo pallido, entrambe ridono mentre fanno tintinnare le loro lattine rosa corallo con un piccolo schizzo, riprese a livello dell'acqua con riflessi scintillanti che danzano nell'inquadratura. Una macro estrema scorre lentamente sulla superficie della lattina rosa corallo in iper-dettaglio — gocce di condensa che catturano la luce prismatica, il logo magenta "fizzi" scintillante che riempie l'inquadratura, poi giù verso la nitida griglia pop-art di pompelmi con un bokeh turchese scintillante sullo sfondo. Un'altra macro in slow-motion da sogno mostra minuscole bollicine di anidride carbonica che risalgono attraverso il liquido frizzante rosa pallido in un bicchiere con una fetta di pompelmo luminosa che galleggia, la lattina leggermente fuori fuoco dietro, con il crepitio ASMR dell'effervescenza. Infine, la telecamera si allontana verso un'inquadratura ampia dell'ora d'oro dell'intera festa — entrambe le donne che galleggiano con le lattine, amici che ballano e si rilassano su asciugamani color corallo, prendendo FIZZI da un secchiello del ghiaccio pieno di metà pompelmo — poi si avvicina lentamente mentre sollevano le lattine verso la telecamera e appare un testo bianco pulito: "Grab an ice cold fizzi," con sotto "© 2026 FIZZI Beverages Co.", che rimane impresso per poi sfumare.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080249467647721473/img/W2AOX-wwqvfZtqbA.jpg" width="600" alt="Spot pubblicitario cinematografico per la bevanda Fizzi">
+
+**[🎬 Guarda il video →](https://x.com/Just_sharon7/status/2080250591675101490)**
+
+**Autore:** [Sharon Riley](https://x.com/Just_sharon7) | **Fonte:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Pubblicato:** Jul 23, 2026
+
+---
+### Dramma scolastico giapponese in stile cinematografico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt completo per la generazione video con Gemini Omni, progettato per creare una scena dettagliata di un dramma scolastico con movimenti di camera specifici, dialoghi ed effetti atmosferici.
+
+#### 📝 Prompt
+
+```
+[SCENA E MOVIMENTI DI CAMERA] Scena di un dramma scolastico giapponese in stile cinematografico. La camera inizia con un'inquadratura dall'alto (bird's-eye view) che mostra un corridoio luminoso inondato dalla luce dorata del pomeriggio. La camera esegue poi uno zoom fluido abbassando l'angolazione, passando a un profilo laterale dinamico e stabilizzandosi infine in un piano medio sui volti e sul busto dei personaggi. [AZIONE E PERSONAGGI] Una studentessa sicura di sé, con ciocche bionde e smalto nero, si fa avanti e appoggia delicatamente la mano sulla parete accanto a una timida e composta rappresentante di classe con occhiali rotondi. La rappresentante di classe stringe i libri al petto, arrossendo leggermente per la sorpresa. Petali di sakura rosa e ciocche di capelli ondeggiano dolcemente nell'inquadratura, mossi dal vento che entra dalle finestre aperte. [SFX ED EFFETTI AUDIO] Vento ambientale leggero e fruscio soffuso dei petali di sakura → Suono leggero di tocco sulla parete → Sospiro di sorpresa sommesso → Effetto sonoro calmo e sottile di battito cardiaco. [DIALOGHI IN GIAPPONESE] - Ragazza sicura di sé (tono scherzoso ma gentile): "Ehi, rappresentante... che succede? Hai la faccia un po' rossa?" (Nee, Iinchou... doushita no? Kao ga sukoshi akai yo?) - Rappresentante di classe (tono agitato ma dolce): "Eh...! Ah, sei troppo vicina... aspetta..." (Ehh...! A, chikai desu... chotto...) [STILE ED ESTETICA] Stile film live-action giapponese fotorealistico, illuminazione cinematografica, particelle di polvere atmosferica, profondità di campo ridotta, alta messa a fuoco, risoluzione 8k, 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080151806152482816/img/DzNNE11EyiPsrErK.jpg" width="600" alt="Dramma scolastico giapponese in stile cinematografico">
+
+**[🎬 Guarda il video →](https://x.com/ngoctramtp/status/2080152132133474497)**
+
+**Autore:** [Ciara | Yuri Cinematic](https://x.com/ngoctramtp) | **Fonte:** [Link](https://x.com/ngoctramtp/status/2080152132133474497) | **Pubblicato:** Jul 23, 2026
+
+---
 ### Addestramento e vincoli di movimento della figura
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2866,94 +2942,13 @@ Non modificare il video stesso. Mantieni persone, attrezzature, movimenti, sfond
 **Autore:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Fonte:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Pubblicato:** May 29, 2026
 
 ---
-### Video time-lapse di invecchiamento accelerato
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt dettagliato per creare un video di 10 secondi di una donna giapponese che invecchia dall'infanzia fino a 80 anni con un effetto time-lapse accelerato.
-
-#### 📝 Prompt
-
-```
-Genera in 9:16 (verticale). Un video time-lapse di una donna giapponese che invecchia da neonata di 0 anni a nonna di 80 anni. La velocità del time-lapse aumenta gradualmente, facendo sì che i cambiamenti accelerino man mano che invecchia. Partendo da neonata, attraversa le fasi di bambina, ragazza, giovane donna, adulta, donna di mezza età e infine nonna, con la velocità di invecchiamento che diventa chiaramente più rapida nella seconda metà. I tratti del viso, la forma del corpo e i contorni di base devono essere rigorosamente mantenuti come la stessa persona in tutte le età (Strict Character Lock). La composizione mostra l'intero corpo in equilibrio, con uno sfondo semplice e sfumato dal bianco caldo al beige chiaro. L'illuminazione è una luce naturale morbida e delicata. Un time-lapse dinamico di 10 secondi da 0 anni a nonna, con un tasso di cambiamento che aumenta costantemente.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6841b5bda0e57d0f34c8908e174d9e47/thumbnails/thumbnail.jpg" width="600" alt="Video time-lapse di invecchiamento accelerato">
-
-**[🎬 Guarda il video →](https://x.com/akiyoshisan/status/2060292025489175034)**
-
-**Autore:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Fonte:** [Link](https://x.com/akiyoshisan/status/2060292025489175034) | **Pubblicato:** May 29, 2026
-
----
-### Ripresa cinematografica a campo lungo di una scogliera sul mare
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video tecnico incentrato sul controllo dell'obiettivo, sul movimento fluido della telecamera e su transizioni naturali della profondità di campo per una scena cinematografica sulla scogliera.
-
-#### 📝 Prompt
-
-```
-Un uomo anziano si trova su una scogliera affacciata sul mare, osservando l'orizzonte. L'inquadratura a campo lungo avanza in modo fluido e costante, focalizzandosi gradualmente sul volto dell'uomo; la messa a fuoco rimane nitida per tutta la durata, il movimento è fluido e privo di scatti, e la profondità di campo transita in modo naturale.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9eb1fc5613053f87ffb86ef5239c56c/thumbnails/thumbnail.jpg" width="600" alt="Ripresa cinematografica a campo lungo di una scogliera sul mare">
-
-**[🎬 Guarda il video →](https://x.com/cloudwiseAI2026/status/2060236649599291773)**
-
-**Autore:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fonte:** [Link](https://x.com/cloudwiseAI2026/status/2060236649599291773) | **Pubblicato:** May 29, 2026
-
----
-### POV cavaliere medievale a cavallo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato in prima persona per una sequenza cinematografica medievale che mostra un cavaliere che attraversa un villaggio, enfatizzando la prospettiva visiva umana realistica e il movimento naturale.
-
-#### 📝 Prompt
-
-```
-Una sequenza in soggettiva (POV a cavallo) in un film live-action in stile medievale europeo, che mostra un cavaliere che viaggia a cavallo.
-La telecamera è fissata permanentemente all'altezza degli occhi del cavaliere, rappresentando una prospettiva visiva umana realistica dall'alto di un cavallo. Non ci sono tagli, passaggi alla terza persona, né inquadrature aeree o dall'alto in nessun momento.
-Il cavallo segue il percorso indicato nell'immagine di riferimento. Il viaggio inizia nella posizione etichettata come “Start” e termina nella posizione etichettata come “Stop Here”. Il movimento segue il realistico passo di un cavallo, con un naturale movimento del corpo che include un leggero ondeggiamento della telecamera dovuto alla testa, alle spalle e alle redini.
-Lungo il tragitto, il cavaliere saluta brevemente gli abitanti del villaggio mentre li oltrepassa (semplici cenni del capo o brevi cenni con la mano). Il villaggio è un insediamento medievale live-action con edifici in legno, strade lastricate in pietra e abitanti naturalmente attivi.
-Una volta raggiunta la destinazione finale, il cavallo rallenta gradualmente e si ferma. Il cavaliere smonta quindi naturalmente da cavallo. Il filmato rimane un'unica ripresa continua fino a quel momento.
-
-Stile visivo (Miglioramento fotorealistico):
-Qualità cinematografica live-action, fotorealistico
-Illuminazione cinematografica basata sulla luce naturale
-Caratteristiche dell'obiettivo (profondità di campo ridotta, leggero lens breathing)
-Movimento della telecamera in soggettiva simile a una ripresa a mano ma stabilizzata
-Motion blur realistico
-Look cinematografico 4K RAW
-Color grading cinematografico (senza un aspetto CGI eccessivo)
-
-Prompt negativo (per mantenere il realismo):
-Anime, CGI o immagini in stile motore di gioco
-Vista da drone, vista aerea o prospettiva in terza persona
-HUD, UI, sottotitoli, indicatori, sovrapposizioni di testo
-Linee di percorso, linee guida o visualizzazioni di mappe
-Slow motion eccessivo o cambi di velocità innaturali
-Sensazione di galleggiamento irrealistica o movimento che sfida la gravità
-Tagli o transizioni di inquadratura
-Movimento della telecamera in stile CGI eccessivamente fluido
-Movimento del cavallo irrealistico
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1c248860c378d088b3cdd08e9fd17d4/thumbnails/thumbnail.jpg" width="600" alt="POV cavaliere medievale a cavallo">
-
-**[🎬 Guarda il video →](https://x.com/tanabe_fragm/status/2060173342943117462)**
-
-**Autore:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Pubblicato:** May 29, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 25 altri prompt non mostrati qui
+### 🎯 28 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2999,6 +2994,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-24T06:24:53.031Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-24T10:15:03.103Z</sub>
 
 </div>

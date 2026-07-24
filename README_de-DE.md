@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **125** |
+| 📝 Gesamtanzahl Prompts | **128** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-24** |
 
@@ -56,6 +56,82 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Surreale Geburtstags-Transformation: Feuer spucken
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein hochdetaillierter Image-to-Video-Prompt für eine Geburtstagsszene, in der eine Frau anstelle einer Kerze eine riesige Flamme ausstößt, endend mit einem schwarz-weißen Zeitlupen-Postereffekt.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das aktuell hochgeladene Bild als einzige Referenz für Identität, Gesicht, Frisur, Körperproportionen, Kleidung und Accessoires und generieren Sie ein 10-sekündiges, realistisches vertikales 9:16-Kurzvideo einer Geburtstagsumkehrung.
+[Stil- & Kameraregeln]
+Realistische Smartphone-Video-Textur im Hochformat, nächtlicher Park im Freien. Nur eine feste Haupteinstellung, eine Nahaufnahme des Gesichts und zwei harte Schnitte. Kein Zoomen oder Schwenken. Natürliche Geschwindigkeit für die Einstellungen 1-5, Zeitlupe für Einstellung 6. Schwarz-Weiß-Übergang am Ende.
+[Szene]
+Nächtlicher Park im Freien mit einer Bank, Gras und Bäumen. Natürliche nächtliche Tiefenwirkung.
+[Charakter]
+Dieselbe Person wie im Upload. Die Transformation: Das Mädchen bereitet sich darauf vor, eine Kerze auszupusten, doch daraus wird ein massiver, orangefarbener Flammenstrahl.
+[Wichtige Requisiten]
+Die rechte Hand hält eine grüne Champagnerflasche, die linke Hand hält eine brennende Geburtstagstorte. Champagner links, Torte rechts.
+[Einstellungen 1-6]
+1. Auftritt und Hinsetzen auf die Bank.
+2. Schütteln der Champagnerflasche.
+3. Harter Schnitt auf eine Nahaufnahme des Gesichts, Grinsen und tiefes Einatmen.
+4. Rückkehr zur Haupteinstellung, Anheben der Torte und Abstellen der Champagnerflasche. Sofortiger, synchronisierter Champagnersprühstoß (nach oben) und Feuer aus dem Mund (horizontal nach rechts).
+5. Farbiger Höhepunkt mit anhaltendem Sprühstoß und Feuer, das die Szene beleuchtet.
+6. Sofortiger Übergang in eine schwarz-weiße Zeitlupe mit „Happy Birthday“-Textüberlagerung.
+[Audio]
+Durchgehende Hintergrundmusik. Atemgeräusche, Schwenkgeräusche, Geräusch der Flammenzündung und das Geräusch des Hochdruck-Champagnersprühstoßes.
+[Einschränkungen]
+Insgesamt 10 Sekunden. Keine Charakterverdopplung oder Verformung der Requisiten. Champagner und Feuer dürfen sich nicht kreuzen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080255348896915456/img/ytFQLE_PKdA3JJ5L.jpg" width="600" alt="Surreale Geburtstags-Transformation: Feuer spucken">
+
+**[🎬 Video ansehen →](https://x.com/Chengzilhy/status/2080257001268125733)**
+
+**Autor:** [小宇Chengzi](https://x.com/Chengzilhy) | **Quelle:** [Link](https://x.com/Chengzilhy/status/2080257001268125733) | **Veröffentlicht:** Jul 23, 2026
+
+---
+### Filmischer Getränkewerbespot für Fizzi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Prompt für einen erstklassigen Sommergetränke-Werbespot, mit Makro-Produktaufnahmen, Beleuchtung zur goldenen Stunde und Lifestyle-Szenen am Pool.
+
+#### 📝 Prompt
+
+```
+Filmischer Sommergetränke-Werbespot für FIZZI Sparkling Tonic — Grapefruit, High-End-Stil in einer warmen Farbkorrektur zur goldenen Stunde mit teal-türkisfarbenem Pool-Kontrast und korallenrosa Akzenten, eine Mischung aus Lifestyle-Totalen und hyperdetaillierten Makro-Produkt-Nahaufnahmen, Zeitlupenmomenten, spaßiger, jugendlicher und unbeschwerter Energie, fröhlichem Tropical-Pop und Sounddesign mit Dosenzischen, prickelnder Kohlensäure, Pool-Plätschern und Lachen. Das Produkt ist eine hohe, schlanke, korallenrosa Aluminiumdose mit Kondenswassertropfen — kräftiges, retro-abgerundetes, kleingeschriebenes magenta „fizzi“ oben, „sparkling tonic“ darunter, ein 4x4 Pop-Art-Raster aus illustrierten Grapefruitkreisen in Pink, Koralle, Neonpink und Blassgelb, mit „0% Alcohol“ und „GRAPEFRUIT“ am unteren Rand. Zur goldenen Stunde an einem stilvollen Rooftop-Pool sitzt eine junge Frau in einem korallenrosa Badeanzug am Beckenrand, die Füße im türkisfarbenen Wasser, hebt eine eiskalte FIZZI-Dose an ihre Lippen und schließt genussvoll die Augen, während Freunde sich unterhalten und Lichterketten im verträumten Soft-Focus-Hintergrund funkeln, wobei das Kondenswasser das goldene Licht einfängt. Eine etwas weitere Einstellung zeigt sie auf einer durchsichtigen Luftmatratze neben einer Freundin in einem blassgelben Badeanzug, beide lachen, während sie ihre korallenrosa Dosen mit einem kleinen Spritzer aneinanderstoßen, gefilmt auf Wasserhöhe mit funkelnden Reflexionen, die über den Rahmen tanzen. Ein extremes Makro schwenkt langsam über die korallenrosa Dosenoberfläche in Hyper-Detail — Kondenswassertropfen, die prismatisches Licht einfangen, das glitzernde magenta „fizzi“-Logo füllt den Rahmen, dann hinunter zum klaren Pop-Art-Grapefruit-Raster mit schimmerndem türkisfarbenem Bokeh im Hintergrund. Ein weiteres verträumtes Zeitlupen-Makro zeigt winzige Kohlensäurebläschen, die durch blassrosa prickelnde Flüssigkeit in einem Glas nach oben steigen, in dem eine leuchtende Grapefruitscheibe schwimmt, die Dose leicht unscharf im Hintergrund, mit ASMR-Zischgeräuschen. Schließlich fährt die Kamera zurück in eine weite Einstellung der Party zur goldenen Stunde — beide Frauen treiben mit Dosen im Wasser, Freunde tanzen und entspannen auf korallenfarbenen Handtüchern, greifen nach FIZZI aus einem Eiskübel voller Grapefruit-Hälften — dann fährt die Kamera langsam heran, während sie ihre Dosen in Richtung Kamera heben und sauberer weißer Text eingeblendet wird: „Grab an ice cold fizzi“, mit „© 2026 FIZZI Beverages Co.“ darunter, der kurz gehalten und dann ausgeblendet wird.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080249467647721473/img/W2AOX-wwqvfZtqbA.jpg" width="600" alt="Filmischer Getränkewerbespot für Fizzi">
+
+**[🎬 Video ansehen →](https://x.com/Just_sharon7/status/2080250591675101490)**
+
+**Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Quelle:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Veröffentlicht:** Jul 23, 2026
+
+---
+### Cinematisches japanisches Schul-Drama
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender Video-Generierungs-Prompt für Gemini Omni, der eine detaillierte Highschool-Drama-Szene mit spezifischen Kamerabewegungen, Dialogen und atmosphärischen Effekten erstellt.
+
+#### 📝 Prompt
+
+```
+[SZENE & KAMERABEWEGUNG] Cinematisches japanisches Highschool-Drama. Die Kamera beginnt mit einer weiten Vogelperspektive von oben auf einen hellen Flur, der in goldenes Nachmittagslicht getaucht ist. Die Kamera zoomt dann sanft heran, senkt den Winkel, geht in ein dynamisches Seitenprofil über und endet schließlich in einer mittleren Nahaufnahme der Gesichter und Oberkörper der Charaktere. [AKTION & CHARAKTERE] Eine selbstbewusste Schülerin mit blonden Strähnen und schwarzem Nagellack tritt vor und legt sanft ihre Hand auf die Wand neben einer ordentlichen, schüchternen Klassensprecherin mit runder Brille. Die Klassensprecherin hält ihre Bücher fest umklammert und errötet leicht vor Überraschung. Rosa Sakura-Blütenblätter und Haare wehen sanft durch den Rahmen, getragen vom warmen Wind, der durch die offenen Fenster weht. [SFX & AUDIO-EFFEKTE] Sanfter Umgebungswind und leises Rascheln der Sakura-Blütenblätter → Leises Geräusch einer Hand an der Wand → Sanftes, überraschtes Keuchen → Ruhiger, subtiler Herzschlag-Soundeffekt. [JAPANISCHER DIALOG] - Selbstbewusstes Mädchen (neckender, aber sanfter Tonfall): „Hey, Klassensprecherin... was ist los? Dein Gesicht ist ein bisschen rot?“ (Nee, Iinchou... doushita no? Kao ga sukoshi akai yo?) - Klassensprecherin (verlegen, aber sanfter Tonfall): „Eh...! Ah, du bist zu nah... warte...“ (Ehh...! A, chikai desu... chotto...) [STIL & ÄSTHETIK] Fotorealistischer japanischer Jugend-Spielfilm-Stil, cinematische Beleuchtung, atmosphärische Staubpartikel, geringe Schärfentiefe, hoher Fokus, 8k-Auflösung, 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080151806152482816/img/DzNNE11EyiPsrErK.jpg" width="600" alt="Cinematisches japanisches Schul-Drama">
+
+**[🎬 Video ansehen →](https://x.com/ngoctramtp/status/2080152132133474497)**
+
+**Autor:** [Ciara | Yuri Cinematic](https://x.com/ngoctramtp) | **Quelle:** [Link](https://x.com/ngoctramtp/status/2080152132133474497) | **Veröffentlicht:** Jul 23, 2026
+
+---
 ### Bewegungseinschränkungen für Zug und Figur trainieren
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2866,94 +2942,13 @@ Verändere das Video selbst nicht. Personen, Ausrüstung, Bewegungen, Hintergrun
 **Autor:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Quelle:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Veröffentlicht:** May 29, 2026
 
 ---
-### Beschleunigtes Zeitraffer-Video des Alterns
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter Prompt zur Erstellung eines 10-sekündigen Videos einer japanischen Frau, die vom Säuglingsalter bis zum 80. Lebensjahr altert, mit einem beschleunigten Zeitraffer-Effekt.
-
-#### 📝 Prompt
-
-```
-Erstellung im 9:16-Format (vertikal). Ein Zeitraffer-Video einer japanischen Frau, die von einem 0-jährigen Baby zu einer 80-jährigen Großmutter altert. Die Geschwindigkeit des Zeitraffers nimmt allmählich zu, sodass sich die Veränderungen mit zunehmendem Alter beschleunigen. Beginnend als Baby durchläuft sie die Phasen Kleinkind, Mädchen, junge Frau, Erwachsene, Frau mittleren Alters und schließlich Großmutter, wobei die Alterungsgeschwindigkeit in der zweiten Hälfte deutlich zunimmt. Grundlegende Gesichtszüge, Körperform und Konturen müssen über alle Altersstufen hinweg strikt als dieselbe Person beibehalten werden (Strict Character Lock). Die Komposition zeigt den gesamten Körper in ausgewogener Weise vor einem einfachen, warmen weißen bis hellbeigen Verlaufs-Hintergrund. Die Beleuchtung ist weiches, sanftes natürliches Licht. Ein dynamischer 10-sekündiger Zeitraffer von 0 Jahren bis zur Großmutter mit einer stetig zunehmenden Veränderungsrate.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6841b5bda0e57d0f34c8908e174d9e47/thumbnails/thumbnail.jpg" width="600" alt="Beschleunigtes Zeitraffer-Video des Alterns">
-
-**[🎬 Video ansehen →](https://x.com/akiyoshisan/status/2060292025489175034)**
-
-**Autor:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Quelle:** [Link](https://x.com/akiyoshisan/status/2060292025489175034) | **Veröffentlicht:** May 29, 2026
-
----
-### Filmische Totale einer Küstenklippe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein technischer Video-Prompt mit Fokus auf Objektivsteuerung, flüssige Kamerabewegungen und natürliche Übergänge der Schärfentiefe für eine filmische Küstenszene.
-
-#### 📝 Prompt
-
-```
-Ein älterer Mann steht auf einer Küstenklippe und blickt auf das Meer hinaus. Die Totale bewegt sich flüssig und stetig vorwärts, wobei der Fokus allmählich auf das Gesicht des Mannes wandert. Die Schärfe bleibt dabei durchgehend erhalten, der Vorwärtsbewegungsprozess verläuft ruckelfrei und die Schärfentiefe geht natürlich ineinander über.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9eb1fc5613053f87ffb86ef5239c56c/thumbnails/thumbnail.jpg" width="600" alt="Filmische Totale einer Küstenklippe">
-
-**[🎬 Video ansehen →](https://x.com/cloudwiseAI2026/status/2060236649599291773)**
-
-**Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Quelle:** [Link](https://x.com/cloudwiseAI2026/status/2060236649599291773) | **Veröffentlicht:** May 29, 2026
-
----
-### POV eines mittelalterlichen Ritters zu Pferd
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter First-Person-Prompt für eine filmische mittelalterliche Sequenz, die einen durch ein Dorf reitenden Ritter zeigt, mit Fokus auf eine realistische menschliche Perspektive und natürliche Bewegungsabläufe.
-
-#### 📝 Prompt
-
-```
-Eine First-Person-POV-Sequenz (Reit-POV) in einem mittelalterlichen Realfilm europäischen Stils, die einen Ritter auf dem Pferderücken zeigt.
-Die Kamera ist fest auf Augenhöhe des Ritters fixiert und stellt eine realistische menschliche Sichtweise vom Pferd aus dar. Es gibt keine Schnitte, keine Wechsel in die Third-Person-Perspektive und zu keinem Zeitpunkt Luft- oder Draufsichten.
-Das Pferd folgt der im Referenzbild angegebenen Route. Die Reise beginnt an der mit „Start“ markierten Stelle und endet an der mit „Stop Here“ markierten Stelle. Die Bewegung folgt dem realistischen Schritttempo eines Pferdes, inklusive natürlicher Körperbewegungen wie subtilem Schwanken der Kamera durch Kopf-, Schulter- und Zügelbewegungen.
-Unterwegs grüßt der Ritter kurz die Dorfbewohner, während er an ihnen vorbeireitet (einfaches Nicken oder kurzes Winken). Das Dorf ist eine mittelalterliche Live-Action-Siedlung mit Holzhäusern, gepflasterten Straßen und natürlich agierenden Bewohnern.
-Beim Erreichen des Endziels verlangsamt das Pferd allmählich das Tempo und bleibt stehen. Der Ritter steigt anschließend natürlich vom Pferd ab. Das Filmmaterial bleibt bis zu diesem Moment eine einzige, kontinuierliche Aufnahme.
-
-Visueller Stil (Photorealistische Optimierung):
-Filmische Live-Action-Qualität, fotorealistisch
-Natürliche, filmische Beleuchtung
-Objektiveigenschaften (geringe Schärfentiefe, leichtes Lens Breathing)
-Handkamera-ähnliche, aber stabilisierte POV-Kamerabewegung
-Realistische Bewegungsunschärfe
-4K-RAW-Film-Look
-Filmische Farbkorrektur (kein übermäßiger CGI-Look)
-
-Negativer Prompt (zur Wahrung des Realismus):
-Anime-, CGI- oder Game-Engine-Optik
-Drohnenansicht, Luftaufnahme oder Third-Person-Perspektive
-HUD, UI, Untertitel, Markierungen, Texteinblendungen
-Routenlinien, Hilfslinien oder Kartendarstellungen
-Übermäßige Zeitlupe oder unnatürliche Geschwindigkeitsänderungen
-Unrealistisches Schwebegefühl oder der Schwerkraft trotzende Bewegungen
-Schnitte oder Perspektivwechsel
-Übermäßig glatte CGI-artige Kamerabewegungen
-Unrealistische Pferdebewegungen
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1c248860c378d088b3cdd08e9fd17d4/thumbnails/thumbnail.jpg" width="600" alt="POV eines mittelalterlichen Ritters zu Pferd">
-
-**[🎬 Video ansehen →](https://x.com/tanabe_fragm/status/2060173342943117462)**
-
-**Autor:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Quelle:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Veröffentlicht:** May 29, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 25 weitere Prompts hier nicht angezeigt
+### 🎯 28 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2999,6 +2994,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-24T06:24:51.268Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-24T10:14:59.641Z</sub>
 
 </div>

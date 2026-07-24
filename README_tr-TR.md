@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **125** |
+| 📝 Toplam İstem | **128** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-24** |
 
@@ -56,6 +56,82 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sürreal Doğum Günü Ateş Püskürtme Dönüşümü
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Bir kadının mum üflemek yerine devasa bir alev püskürttüğü, siyah-beyaz ağır çekim poster efektiyle sona eren, doğum günü sahnesi için oldukça detaylı bir görselden videoya dönüştürme komutu.
+
+#### 📝 İstem
+
+```
+Kimlik, yüz, saç modeli, vücut oranları, kıyafet ve aksesuarlar için referans olarak yalnızca yüklenen görseli kullanarak 10 saniyelik, 9:16 dikey gerçekçi bir doğum günü tersine çevirme kısa videosu oluşturun.
+[Stil ve Kamera Kuralları]
+Gerçekçi akıllı telefon dikey video dokusu, gece dış mekan parkı. Sadece bir sabit ana çekim, bir yüz yakın plan geçişi ve iki sert kesim. Yakınlaştırma veya kaydırma yok. 1-5 arası çekimler doğal hızda, 6. çekim ağır çekimde. Sonunda siyah-beyaz geçiş.
+[Sahne]
+Bank, çimenler ve ağaçların olduğu gece dış mekan parkı. Doğal gece derinliği.
+[Karakter]
+Yüklenen görseldeki kişiyle aynı. Dönüşüm: Kız mumu üflemeye hazırlanır ancak mum devasa bir turuncu alev püskürmesine dönüşür.
+[Temel Aksesuarlar]
+Sağ elinde yeşil bir şampanya şişesi, sol elinde yanan bir doğum günü pastası var. Şampanya solda, pasta sağda.
+[Çekimler 1-6]
+1. Giriş ve banka oturma.
+2. Şampanya şişesini çalkalama.
+3. Yüz yakın planına sert kesim, sırıtma ve derin nefes alma.
+4. Ana çekime dönüş, pastayı kaldırma ve şampanya şişesini yere vurma. Anlık senkronize şampanya püskürmesi (yukarı doğru) ve ağızdan ateş (yatay olarak sağa).
+5. Sürekli püskürme ve sahneyi aydınlatan ateş ile renkli doruk noktası.
+6. 'Happy Birthday' metin bindirmesi ile siyah-beyaz ağır çekime anlık geçiş.
+[Ses]
+Sürekli arka plan müziği. Nefes sesi, sallanma sesi, alevin yanma sesi ve yüksek basınçlı şampanya püskürme sesi.
+[Kısıtlamalar]
+Toplam 10 saniye. Karakter çoğalması veya aksesuar bozulması yok. Şampanya ve ateş birbirine karışmamalı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080255348896915456/img/ytFQLE_PKdA3JJ5L.jpg" width="600" alt="Sürreal Doğum Günü Ateş Püskürtme Dönüşümü">
+
+**[🎬 Videoyu izle →](https://x.com/Chengzilhy/status/2080257001268125733)**
+
+**Yazar:** [小宇Chengzi](https://x.com/Chengzilhy) | **Kaynak:** [Link](https://x.com/Chengzilhy/status/2080257001268125733) | **Yayınlandı:** Jul 23, 2026
+
+---
+### Fizzi için Sinematik İçecek Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Makro ürün çekimleri, altın saat ışıklandırması ve havuz kenarı yaşam tarzı sahnelerini içeren, üst düzey bir yaz içeceği reklamı için oldukça detaylı bir istem.
+
+#### 📝 İstem
+
+```
+FIZZI Sparkling Tonic — Grapefruit için sinematik yaz içeceği reklamı; sıcak altın saat renk tonu, turkuaz havuz kontrastı ve mercan pembesi vurgularla üst düzey bir tarz. Yaşam tarzı geniş çekimler ile hiper detaylı makro ürün yakın planlarının, ağır çekim anların, eğlenceli ve kaygısız gençlik enerjisinin, hareketli tropikal pop müziğin ve kutu açılma sesi, gazoz köpürmesi, havuz sıçramaları ve kahkahalardan oluşan ses tasarımının harmanlandığı bir çalışma. Ürün, üzerinde yoğuşma damlaları bulunan uzun ve ince mercan pembesi bir alüminyum kutu; üst kısımda kalın, retro-yuvarlak hatlı, küçük harflerle yazılmış macenta renkli "fizzi" logosu, altında "sparkling tonic" yazısı, 4x4'lük pop-art ızgarasında pembe, mercan, canlı pembe ve soluk sarı renkli greyfurt illüstrasyonları, en altta ise "0% Alcohol" ve "GRAPEFRUIT" ibareleri yer alıyor. Şık bir çatı katı havuzunda, altın saat vaktinde, mercan pembesi mayolu genç bir kadın ayakları turkuaz suyun içinde havuz kenarında oturuyor, buz gibi bir FIZZI kutusunu dudaklarına götürüp keyifle gözlerini kapatıyor; arkasında arkadaşları sosyalleşiyor ve ışık zincirleri rüya gibi bir yumuşak odakla parlıyor, kutunun üzerindeki yoğuşma damlaları altın ışığı yakalıyor. Biraz daha geniş bir çekimde, soluk sarı mayolu bir arkadaşının yanında şeffaf bir deniz yatağında yüzerken, ikisi de gülerek mercan pembesi kutularını küçük bir su sıçramasıyla tokuşturuyor; çekim su seviyesinden, kadraj boyunca dans eden ışıltılı yansımalarla yapılıyor. Aşırı makro bir çekim, mercan pembesi kutunun yüzeyinde hiper detayla yavaşça geziniyor; yoğuşma damlaları prizmatik ışığı yakalıyor, parıldayan macenta renkli "fizzi" logosu kadrajı dolduruyor, ardından arkada parıldayan turkuaz bokeh efektiyle net pop-art greyfurt ızgarasına odaklanıyor. Bir başka rüya gibi ağır çekim makro, içinde yüzen parlak bir greyfurt dilimi olan bardaktaki soluk pembe gazlı içeceğin içinde hızla yükselen minik karbonasyon kabarcıklarını gösteriyor; kutu arkada hafifçe odak dışı kalırken ASMR tarzı köpürme sesi duyuluyor. Son olarak kamera, tüm partiyi gösteren geniş bir altın saat çekimine geri dönüyor; her iki kadın da kutularıyla yüzüyor, arkadaşları dans ediyor ve mercan rengi havlular üzerinde uzanıyor, greyfurt dilimleriyle dolu bir buz kovasından FIZZI alıyorlar. Kamera yavaşça yaklaşırken kutularını kameraya doğru kaldırıyorlar ve temiz beyaz bir metin ekrana geliyor: "Grab an ice cold fizzi," altında ise "© 2026 FIZZI Beverages Co." yazısı belirip bir süre kaldıktan sonra kararıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080249467647721473/img/W2AOX-wwqvfZtqbA.jpg" width="600" alt="Fizzi için Sinematik İçecek Reklamı">
+
+**[🎬 Videoyu izle →](https://x.com/Just_sharon7/status/2080250591675101490)**
+
+**Yazar:** [Sharon Riley](https://x.com/Just_sharon7) | **Kaynak:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Yayınlandı:** Jul 23, 2026
+
+---
+### Sinematik Japon Lise Draması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni için özel kamera hareketleri, diyaloglar ve atmosferik efektlerle detaylı bir lise draması sahnesi oluşturan kapsamlı bir video üretim istemi.
+
+#### 📝 İstem
+
+```
+[SAHNE & KAMERA HAREKETİ] Sinematik Japon lise draması sahnesi. Kamera, altın rengi öğleden sonra güneş ışığıyla dolu aydınlık bir koridora yukarıdan bakan, yüksek açılı kuş bakışı geniş bir çekimle başlar. Kamera daha sonra yumuşak bir şekilde yakınlaşır ve açısını düşürerek dinamik bir yan profile geçer, son olarak karakterlerin yüzlerine ve üst gövdelerine odaklanan orta yakın çekime yerleşir. [AKSİYON & KARAKTERLER] Siyah ojeli, sarı saç tutamları olan özgüvenli bir kız öğrenci öne çıkar ve elini nazikçe, yuvarlak gözlüklü, düzenli ve utangaç sınıf başkanının yanındaki duvara koyar. Sınıf başkanı kitaplarını sıkıca tutar, şaşkınlıkla hafifçe kızarır. Açık pencerelerden gelen ılık rüzgarla birlikte pembe sakura yaprakları ve saçlar kare boyunca yumuşakça dalgalanır. [SFX & SES EFEKTLERİ] Hafif ortam rüzgarı ve yumuşak hışırdayan sakura yaprakları → Hafif duvara dokunma sesi → Yumuşak şaşkınlık nefesi → Sakin, hafif kalp atışı ses efekti. [JAPONCA DİYALOG] - Özgüvenli Kız (Alaycı ama nazik bir tonla): "Hey, Başkan... ne oldu? Yüzün biraz kızarmış mı?" (Nee, Iinchou... doushita no? Kao ga sukoshi akai yo?) - Sınıf Başkanı (Telaşlı ama yumuşak bir tonla): "Eh...! Ah, çok yakındasın... bekle..." (Ehh...! A, chikai desu... chotto...) [STİL & ESTETİK] Fotogerçekçi Japon gençlik canlı çekim film stili, sinematik aydınlatma, atmosferik toz parçacıkları, sığ alan derinliği, yüksek odak, 8k çözünürlük, 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080151806152482816/img/DzNNE11EyiPsrErK.jpg" width="600" alt="Sinematik Japon Lise Draması">
+
+**[🎬 Videoyu izle →](https://x.com/ngoctramtp/status/2080152132133474497)**
+
+**Yazar:** [Ciara | Yuri Cinematic](https://x.com/ngoctramtp) | **Kaynak:** [Link](https://x.com/ngoctramtp/status/2080152132133474497) | **Yayınlandı:** Jul 23, 2026
+
+---
 ### Tren ve Figür Hareket Kısıtlamaları
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2864,94 +2940,13 @@ Videonun kendisini değiştirmeyin. İnsanları, ekipmanları, hareketleri, arka
 **Yazar:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Kaynak:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Yayınlandı:** May 29, 2026
 
 ---
-### Hızlanan Yaşlanma Zaman Atlamalı (Time-lapse) Videosu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Japon bir kadının bebekliğinden 80 yaşına kadar hızlanan bir zaman atlamalı efektle yaşlanmasını gösteren 10 saniyelik bir video oluşturmak için detaylı bir komut.
-
-#### 📝 İstem
-
-```
-9:16 (dikey) formatında oluşturun. Japon bir kadının 0 yaşındaki bir bebekten 80 yaşındaki bir büyükanneye yaşlanmasını gösteren bir zaman atlamalı video. Zaman atlamasının hızı kademeli olarak artmalı, böylece yaş ilerledikçe değişimler hızlanmalıdır. Bebeklikten başlayarak; çocukluk, genç kızlık, genç kadınlık, yetişkinlik, orta yaş ve son olarak büyükanne dönemine kadar yaşlanmalı ve yaşlanma hızı ikinci yarıda belirgin şekilde artmalıdır. Tüm yaşlar boyunca temel yüz hatları, vücut yapısı ve konturlar aynı kişi olacak şekilde kesinlikle korunmalıdır (Sıkı Karakter Sabitleme). Kompozisyon, tüm vücudu dengeli bir şekilde göstermeli ve arka plan basit, sıcak beyazdan açık bej rengine geçişli olmalıdır. Aydınlatma yumuşak ve doğal ışıktır. 0 yaştan büyükanne dönemine kadar, değişim hızı sürekli artan, 10 saniyelik dinamik bir zaman atlamalı video.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6841b5bda0e57d0f34c8908e174d9e47/thumbnails/thumbnail.jpg" width="600" alt="Hızlanan Yaşlanma Zaman Atlamalı (Time-lapse) Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/akiyoshisan/status/2060292025489175034)**
-
-**Yazar:** [右よし左よし秋よし@AIエンタメ](https://x.com/akiyoshisan) | **Kaynak:** [Link](https://x.com/akiyoshisan/status/2060292025489175034) | **Yayınlandı:** May 29, 2026
-
----
-### Sinematik Deniz Kenarı Uçurum Uzun Çekim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sinematik bir deniz kenarı sahnesi için lens kontrolüne, akıcı kamera hareketine ve doğal alan derinliği geçişlerine odaklanan teknik bir video istemi.
-
-#### 📝 İstem
-
-```
-Yaşlı bir adam deniz kenarındaki bir uçurumda durmuş denize bakıyor. Uzun çekim, yavaşça ve sabit bir şekilde ilerleyerek kademeli olarak adamın yüzüne odaklanıyor; odak tüm süreç boyunca keskin kalıyor, ilerleme süreci pürüzsüz ve takılmasız gerçekleşiyor, alan derinliği ise doğal bir şekilde geçiş yapıyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d9eb1fc5613053f87ffb86ef5239c56c/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Deniz Kenarı Uçurum Uzun Çekim">
-
-**[🎬 Videoyu izle →](https://x.com/cloudwiseAI2026/status/2060236649599291773)**
-
-**Yazar:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Kaynak:** [Link](https://x.com/cloudwiseAI2026/status/2060236649599291773) | **Yayınlandı:** May 29, 2026
-
----
-### Orta Çağ Şövalyesi At Üstü POV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir şövalyenin köy içinde at sürdüğü sinematik bir orta çağ sekansı için gerçekçi insan görüş açısını ve doğal hareketi vurgulayan detaylı birinci şahıs bakış açısı istemi.
-
-#### 📝 İstem
-
-```
-Canlı aksiyon orta çağ Avrupa tarzı bir filmde, bir şövalyenin at üzerinde ilerlediğini gösteren birinci şahıs POV (at üstü sürüş POV) sekansı.
-Kamera, at üzerindeki gerçekçi bir insan görüş açısını temsil edecek şekilde şövalyenin göz hizasına sabitlenmiştir. Hiçbir noktada kesme, üçüncü şahıs bakış açısına geçiş, havadan veya yukarıdan çekim yoktur.
-At, referans görselde belirtilen rotayı takip eder. Yolculuk “Start” (Başlangıç) olarak etiketlenen konumda başlar ve “Stop Here” (Burada Dur) olarak etiketlenen konumda sona erer. Hareket, atın gerçekçi yürüme hızını takip eder; baş, omuz ve dizginlerin neden olduğu hafif kamera sallantısı dahil olmak üzere doğal vücut hareketleri mevcuttur.
-Yol boyunca şövalye, yanlarından geçtiği köylüleri kısaca selamlar (basit baş selamı veya kısa el sallama). Köy; ahşap binaları, taş döşeli sokakları ve doğal bir şekilde hareket eden sakinleriyle canlı aksiyon bir orta çağ yerleşimidir.
-Son varış noktasına ulaşıldığında, at yavaşça yavaşlar ve durur. Şövalye daha sonra doğal bir şekilde attan iner. Görüntü, o ana kadar tek bir kesintisiz çekim olarak kalır.
-
-Görsel Stil (Fotorealistik Geliştirme):
-Canlı aksiyon sinematik film kalitesi, fotorealistik
-Doğal ışık tabanlı sinematik aydınlatma
-Lens özellikleri (sığ alan derinliği, hafif lens nefes alması)
-Elde çekilmiş gibi görünen ancak stabilize edilmiş POV kamera hareketi
-Gerçekçi hareket bulanıklığı
-4K RAW film görünümü
-Sinematik renk düzenleme (aşırı CGI görünümü yok)
-
-Negatif İstemi (gerçekçiliği korumak için):
-Anime, CGI veya oyun motoru tarzı görseller
-Drone çekimi, kuş bakışı veya üçüncü şahıs bakış açısı
-HUD, arayüz, altyazılar, işaretleyiciler, metin bindirmeleri
-Rota çizgileri, kılavuz çizgileri veya harita görselleştirmeleri
-Aşırı ağır çekim veya doğal olmayan hız değişimleri
-Gerçekçi olmayan havada süzülme hissi veya yerçekimine meydan okuyan hareketler
-Kesmeler veya bakış açısı geçişleri
-Aşırı pürüzsüz CGI tarzı kamera hareketi
-Gerçekçi olmayan at hareketi
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b1c248860c378d088b3cdd08e9fd17d4/thumbnails/thumbnail.jpg" width="600" alt="Orta Çağ Şövalyesi At Üstü POV">
-
-**[🎬 Videoyu izle →](https://x.com/tanabe_fragm/status/2060173342943117462)**
-
-**Yazar:** [タナベ | 動画・音声生成AI解説](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2060173342943117462) | **Yayınlandı:** May 29, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 25 burada gösterilmeyen daha fazla istem
+### 🎯 28 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2997,6 +2992,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-24T06:24:56.074Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-24T10:15:05.997Z</sub>
 
 </div>
