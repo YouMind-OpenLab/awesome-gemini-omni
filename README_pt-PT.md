@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **128** |
+| 📝 Total de prompts | **132** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-25** |
 
@@ -56,6 +56,110 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Animação de perseguição estilo 'slapstick' de gato e rato
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico altamente detalhado para uma cena de perseguição em animação 3D inspirada na comédia muda clássica americana, apresentando física complexa e interações de personagens.
+
+#### 📝 Prompt
+
+```
+Gere uma animação 3D horizontal de alta qualidade com 10 segundos de duração, mostrando uma perseguição entre um gato e um rato. O estilo geral é de comédia muda clássica americana original, com movimentos exagerados, ritmo preciso e expressões ricas, sem imitar personagens de animação existentes. Um gato laranja rechonchudo e impaciente persegue um rato cinza-acastanhado ágil e inteligente. Toda a animação utiliza planos de acompanhamento lateral com câmera única contínua, com os personagens sempre se movendo da esquerda para a direita. Todos os movimentos dependem de velocidade, inércia e colisões para se conectarem naturalmente, sem cortes bruscos, teletransporte ou pausas repentinas. Em uma cozinha retrô quente e iluminada, o ratinho, carregando um queijo, passa rapidamente pelas pernas da mesa, pula em uma tampa de panela giratória e a usa como um skate para deslizar. A tampa da panela atinge um rolo inclinado, e o ratinho usa o impulso para saltar sobre a mesa de jantar. O gato laranja segue o mesmo caminho, pisando no rolo, com as pernas cambaleando rapidamente e o corpo balançando de um lado para o outro, finalmente saltando para a mesa de jantar usando o impulso. Após aterrissar, ele colide com um saco de farinha, liberando uma nuvem de pó branco. O gato laranja emerge ileso da nuvem de farinha, com o corpo todo branco, exceto pelos olhos furiosos. O ratinho passa correndo por dentro de uma baguete oca, deslizando para fora pela outra extremidade. O gato laranja o segue de perto, mas fica preso brevemente. A baguete estica e depois volta ao normal, impulsionando o gato para frente e diminuindo a distância novamente. Ambos os personagens saltam da mesa de jantar simultaneamente. O ratinho aterrissa em um aspirador de pó robô, usando sua rotação para mudar de direção, depois agarra uma toalha pendurada e balança sobre a pia. O gato laranja aterrissa no mesmo robô, girando meio círculo suavemente, depois usa o impulso para agarrar o lustre, balançando para frente, com as patas quase tocando a cauda do rato. O ratinho aterrissa na frente da geladeira, deslizando para o lado. O gato laranja corre em alta velocidade, seus membros freiam bruscamente várias vezes, mas ele ainda consegue quebrar a porta da geladeira devido à inércia. Um bolo de creme desliza, cobrindo completamente o rosto do gato. O ratinho corre atrás do gato ao longo de sua cauda, pula no nariz do gato, pega a cereja do creme e acena triunfante. O gato laranja contrai o nariz duas vezes e, de repente, espirra alto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080925522910236672/img/Qq7W2rnPrk1LYpTJ.jpg" width="600" alt="Animação de perseguição estilo 'slapstick' de gato e rato">
+
+**[🎬 Assistir vídeo →](https://x.com/Cencencahya12/status/2080925688811720835)**
+
+**Autor:** [Cencen](https://x.com/Cencencahya12) | **Fonte:** [Link](https://x.com/Cencencahya12/status/2080925688811720835) | **Publicado:** Jul 25, 2026
+
+---
+### Vídeo de florista arranjando rosas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt altamente descritivo para gerar um vídeo realista de uma florista arranjando rosas em um vaso sob luz solar natural.
+
+#### 📝 Prompt
+
+```
+Uma florista negra corta e arranja cuidadosamente rosas vermelhas frescas em um vaso de cerâmica branca sobre uma mesa de madeira escura. As mãos ajustam os caules e as folhas para criar um buquê equilibrado, com o arranjo floral final exibido lindamente sob a luz quente do sol, perto de janelas com vista para um jardim verdejante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080919216220200961/img/sdh1PmxEUtazD262.jpg" width="600" alt="Vídeo de florista arranjando rosas">
+
+**[🎬 Assistir vídeo →](https://x.com/iam_damayor/status/2080919280535609480)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2080919280535609480) | **Publicado:** Jul 25, 2026
+
+---
+### Dualidade entre Aquarela e Realidade Digital
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo criativo em tela dividida para o Gemini Omni que contrasta um sereno lago em aquarela ao amanhecer com uma paisagem urbana digital futurista ao anoitecer.
+
+#### 📝 Prompt
+
+```
+Metade superior em estilo aquarela mostrando um lago sereno ao amanhecer, metade inferior em estilo de arte digital mostrando uma paisagem urbana futurista ao anoitecer, tela dividida.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080625015096254464/img/-o_9Bp8yhlGBMl0B.jpg" width="600" alt="Dualidade entre Aquarela e Realidade Digital">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2080625058268258343)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2080625058268258343) | **Publicado:** Jul 24, 2026
+
+---
+### Storyboard ASMR LEGO Technic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um storyboard abrangente com múltiplas cenas para criar um vídeo ASMR hiper-realista da montagem de um LEGO Lamborghini, incluindo direções de câmera e efeitos sonoros.
+
+#### 📝 Prompt
+
+```
+Crie um storyboard de produção cinematográfica profissional para um vídeo ASMR de 10 segundos mostrando a montagem de um LEGO Technic Lamborghini Aventador.
+
+O layout deve parecer um storyboard de filme real com 8 painéis sequenciais organizados em duas colunas.
+
+Cada painel deve conter: • Imagem de pré-visualização cinematográfica grande • Número da cena • Timecode • Direção de câmera • Descrição visual • Ação • Diálogo / Narração • Efeitos Sonoros (SFX) • Música • Movimento de câmera • Emoção • Transição
+
+Use um design de storyboard técnico preto premium com tipografia branca, bordas limpas, notas de produção, etiquetas de tempo e um estilo de planejamento cinematográfico.
+
+Cabeçalho: STORYBOARD ASMR MONTAGEM LEGO LAMBORGHINI AVENTADOR Duração: 10 Segundos Proporção: 9:16 Vertical Estilo: ASMR Cinematográfico Hiper-realista
+
+Cena 1 (0,00 a 1,20) Plano macro aéreo de peças LEGO Technic organizadas ordenadamente em um tapete de trabalho preto. Mãos pegam o chassi. Sons suaves de clique de plástico. Dolly aéreo lento.
+
+Cena 2 (1,20 a 2,40) Close-up macro extremo das mãos conectando o eixo da suspensão dianteira. Foco saindo dos dedos para o conector. Clique alto e satisfatório.
+
+Cena 3 (2,40 a 3,60) Painéis azuis da carroceria são instalados à medida que a forma do Lamborghini começa a surgir. Ângulo macro de três quartos com uma órbita de câmera suave.
+
+Cena 4 (3,60 a 4,80) O para-brisa é instalado com o cockpit visível por baixo. A câmera avança do para-brisa para o interior. Som nítido de encaixe de plástico.
+
+Cena 5 (4,80 a 6,00) A roda dianteira é fixada. Plano macro da roda girando. Plano de acompanhamento curto segue a rotação com sons mecânicos sutis.
+
+Cena 6 (6,00 a 7,20) Painéis traseiros da carroceria, difusor e lanternas traseiras são instalados. Aproximação lenta enquanto as peças finais se encaixam.
+
+Cena 7 (7,20 a 8,50) O Lamborghini concluído é deslizado suavemente pela mesa. Plano de acompanhamento em ângulo baixo cria uma revelação premium.
+
+Cena 8 (8,50 a 10,00) Plano hero do LEGO Lamborghini Aventador azul concluído em uma superfície preta brilhante sob iluminação de estúdio azul dramática. Órbita cinematográfica lenta termina em um ângulo de três quartos frontal antes de desaparecer para o preto.
+
+Adicione notas de produção profissionais na parte inferior, incluindo: • Consistência de personagem • Adereços • Iluminação • Estilo de câmera • Tom • Estilo visual
+
+Faça o storyboard parecer exatamente com uma folha de planejamento de produção de Hollywood real, com quadros de pré-visualização ultra-realistas, fotografia cinematográfica, anotações técnicas, tipografia premium e qualidade de pré-visualização de filme de alto nível.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784970669504_y82rm8_HN9sdvtbEAEtMhQ.jpg" width="600" alt="Storyboard ASMR LEGO Technic">
+
+**[🎬 Assistir vídeo →](https://x.com/Shorelyn_/status/2080500909076107595)**
+
+**Autor:** [Shore Lyn](https://x.com/Shorelyn_) | **Fonte:** [Link](https://x.com/Shorelyn_/status/2080500909076107595) | **Publicado:** Jul 24, 2026
+
+---
 ### Transformação Surreal de Aniversário com Sopro de Fogo
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2836,119 +2940,13 @@ Gere imagens de vista de drone (sem representar o drone) deste local 48°51′23
 **Autor:** [Chouaieb Nemri](https://x.com/c_nemri) | **Fonte:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Publicado:** May 31, 2026
 
 ---
-### Folha de Storyboard de Fantasia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt extremamente detalhado para gerar uma folha de storyboard de animação com vários painéis, apresentando uma rainha e seu companheiro, um lobo branco.
-
-#### 📝 Prompt
-
-```
-Folha de storyboard de fantasia ultra-detalhada, "Jovem Rainha e Lobo Branco", storyboard de filme de animação inspirado no Studio Ghibli, ilustração de livro de histórias em aquarela premium, aventura de fantasia cinematográfica, arte conceitual pintada à mão, estética real elegante, atmosfera de reino nevado, prancha de pré-produção de animação profissional, narrativa de personagens altamente detalhada, layout de storyboard limpo com 10 painéis cinematográficos, iluminação suave de inverno, mundo de fantasia mágico.
-PERSONAGENS PRINCIPAIS
-Jovem Rainha: Uma jovem rainha graciosa de 18 a 20 anos, longos cabelos castanhos ondulados, coroa elegante em azul prateado, olhos esmeralda expressivos, traços faciais delicados, luxuoso vestido real de inverno com capa forrada de pele, personalidade nobre e compassiva.
-Lobo Branco: Um majestoso lobo branco como a neve com pelo espesso e fofo, olhos azul-gelo penetrantes, postura nobre, expressão inteligente, companheiro guardião leal.
-PAINÉIS DO STORYBOARD
-Painel 01 — Reino Congelado: Plano cinematográfico amplo estabelecendo um magnífico reino coberto de neve ao amanhecer. A jovem rainha está na varanda do castelo observando as montanhas e florestas.
-Painel 02 — A Descoberta: A rainha encontra um filhote de lobo branco ferido descansando sob um pinheiro coberto de neve nas profundezas da floresta.
-Painel 03 — Cura e Confiança: Dentro de uma câmara real aquecida, a rainha cuida gentilmente do lobo enquanto a neve cai do lado de fora das janelas.
-Painel 04 — Laço de Amizade: O lobo cresceu e está mais forte. A rainha e o lobo caminham juntos pelos jardins nevados sob flocos de neve caindo.
-Painel 05 — A Jornada Começa: A dupla deixa o reino e viaja por vastos vales congelados e caminhos montanhosos imponentes.
-Painel 06 — Aurora Boreal: A rainha e o lobo estão juntos sob deslumbrantes auroras verdes e roxas que iluminam o céu noturno.
-Painel 07 — Ruínas Antigas: Explorando ruínas de pedra esquecidas enterradas sob a neve, iluminadas por lanternas mágicas e cristais brilhantes.
-Painel 08 — Cume do Destino: Plano heroico amplo no topo de um pico nevado observando paisagens infinitas.
-Painel 09 — O Retorno dos Heróis: A rainha e o lobo retornam ao reino enquanto os cidadãos celebram sua chegada.
-Painel 10 — Guardiões para Sempre: Pôr do sol dourado sobre o reino. A rainha e o lobo estão juntos na varanda do castelo observando seu reino.
-SEÇÃO DA FOLHA DE PERSONAGENS
-Incluir:
-Vistas de rotação da Rainha (frente, lado, costas)
-Expressões faciais da Rainha
-Estudos de detalhes da coroa
-Referências de design da capa e do vestido
-Vistas de rotação do lobo branco
-Expressões do lobo
-Poses de corrida e heroicas
-Gráfico de comparação de tamanho
-Designs de insígnias reais
-Amostras de paleta de cores
-ESTILO VISUAL
-Studio Ghibli × Fantasia Disney × Princesa Mononoke × arte conceitual de Frozen, texturas em aquarela pintadas à mão, arte de desenvolvimento de animação premium, composição cinematográfica, narrativa ambiental detalhada, atmosfera de fantasia emocional, estética real elegante, qualidade de obra-prima.
-PALETA DE CORES
-azul gelo, branco prateado, azul marinho real, lavanda suave, cinza inverno, creme perolado, luz solar dourada
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ecd237990dd9577b035caed3021da3f7/thumbnails/thumbnail.jpg" width="600" alt="Folha de Storyboard de Fantasia">
-
-**[🎬 Assistir vídeo →](https://x.com/AIwithSynthia/status/2060914385179353444)**
-
-**Autor:** [Synthia](https://x.com/AIwithSynthia) | **Fonte:** [Link](https://x.com/AIwithSynthia/status/2060914385179353444) | **Publicado:** May 31, 2026
-
----
-### Cena de envio para o Banco de Sementes do Ártico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico de texto para vídeo que descreve um curador em uma instalação de banco de sementes no Ártico recebendo amostras raras de plantas de uma zona de conflito.
-
-#### 📝 Prompt
-
-```
-Crie uma cena cinematográfica de texto para vídeo apresentando um momento original e sem direitos autorais, onde um curador de um banco de sementes em uma instalação no Ártico recebe uma remessa de sementes de um jardim botânico em uma zona de conflito, as últimas amostras vivas de dezessete espécies de plantas, evacuadas por um botânico
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b65e91184c9582b151a4ae7c657c2a6d/thumbnails/thumbnail.jpg" width="600" alt="Cena de envio para o Banco de Sementes do Ártico">
-
-**[🎬 Assistir vídeo →](https://x.com/Strength04_X/status/2060748226521879021)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2060748226521879021) | **Publicado:** May 30, 2026
-
----
-### Animação de Imagem Estática para Vida Real
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para o Gemini Omni que pega uma imagem estática na tela de um computador e anima um objeto saltando para o mundo real.
-
-#### 📝 Prompt
-
-```
-Comece com o conteúdo da tela do computador exatamente como na imagem. Faça o pássaro ganhar vida, virando a cabeça, saindo da foto e saltando para a mão da pessoa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fca7eaa900b5888e191083e4d46bddfa/thumbnails/thumbnail.jpg" width="600" alt="Animação de Imagem Estática para Vida Real">
-
-**[🎬 Assistir vídeo →](https://x.com/DiegoAlcubierre/status/2060526084681048166)**
-
-**Autor:** [Diego Alcubierre](https://x.com/DiegoAlcubierre) | **Fonte:** [Link](https://x.com/DiegoAlcubierre/status/2060526084681048166) | **Publicado:** May 30, 2026
-
----
-### Sobreposição de interface de transmissão ao vivo em vídeo
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt para o Gemini Omni adicionar uma sobreposição de interface de chat de transmissão ao vivo em um vídeo existente, mantendo a filmagem original intacta.
-
-#### 📝 Prompt
-
-```
-Não altere o vídeo em si. Exiba as pessoas, equipamentos, movimentos, fundo, etc., exatamente como estão. Exiba algo como uma seção de comentários de interface de transmissão ao vivo no lado direito do vídeo, representando pessoas assistindo ao vídeo em tempo real e digitando comentários. Os comentários devem ser escritos em japonês.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b4aa882ab7db0578fc087334091431c/thumbnails/thumbnail.jpg" width="600" alt="Sobreposição de interface de transmissão ao vivo em vídeo">
-
-**[🎬 Assistir vídeo →](https://x.com/YaReYaRu30Life/status/2060343668188569858)**
-
-**Autor:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Fonte:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Publicado:** May 29, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 28 mais prompts não mostrados aqui
+### 🎯 32 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2994,6 +2992,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-25T06:17:00.290Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-25T09:46:07.942Z</sub>
 
 </div>

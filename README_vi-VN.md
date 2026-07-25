@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **128** |
+| 📝 Tổng số prompt | **132** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-25** |
 
@@ -56,6 +56,82 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hoạt hình mèo và chuột phong cách hài hước
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết cho cảnh rượt đuổi hoạt hình 3D lấy cảm hứng từ phim hài câm kinh điển của Mỹ, với các tương tác nhân vật và vật lý phức tạp.
+
+#### 📝 Prompt
+
+```
+Tạo một đoạn hoạt hình 3D chất lượng cao dài 10 giây theo chiều ngang về cảnh mèo đuổi chuột. Phong cách tổng thể là phim hài câm kinh điển của Mỹ, với các chuyển động cường điệu, nhịp điệu dồn dập và biểu cảm phong phú, nhưng không bắt chước bất kỳ nhân vật hoạt hình nào hiện có. Một chú mèo cam tròn trịa, mũm mĩm và thiếu kiên nhẫn đuổi theo một chú chuột màu nâu xám thông minh và nhanh nhẹn. Toàn bộ hoạt hình sử dụng các cú máy quay ngang liên tục, với các nhân vật luôn di chuyển từ trái sang phải. Tất cả các chuyển động phụ thuộc vào tốc độ, quán tính và va chạm để kết nối một cách tự nhiên, không có cắt cảnh, dịch chuyển tức thời hay tạm dừng đột ngột. Trong một căn bếp cổ điển ấm áp và tươi sáng, chú chuột nhỏ mang theo miếng phô mai, nhanh nhẹn lách qua chân bàn, nhảy lên nắp nồi đang xoay và dùng nó như ván trượt để lướt về phía trước. Nắp nồi va vào một con lăn nghiêng, và chú chuột nhỏ tận dụng đà đó để nhảy lên bàn ăn. Chú mèo cam đi theo cùng một lộ trình, bước lên con lăn, đôi chân loạng choạng nhanh chóng, cơ thể lắc lư từ bên này sang bên kia, cuối cùng nhảy lên bàn ăn nhờ vào quán tính. Sau khi tiếp đất, nó đâm sầm vào một bao bột mì, làm tung lên một đám bụi trắng. Chú mèo cam thoát ra khỏi đám mây bột mì mà không hề hấn gì, toàn thân trắng xóa chỉ trừ đôi mắt giận dữ. Chú chuột nhỏ lao qua một chiếc bánh mì baguette rỗng ruột, trượt ra từ đầu bên kia. Chú mèo cam bám sát theo sau nhưng bị kẹt lại trong chốc lát. Chiếc bánh mì co giãn rồi bật lại, đẩy chú mèo về phía trước và thu hẹp khoảng cách với chú chuột một lần nữa. Cả hai nhân vật cùng nhảy khỏi bàn ăn. Chú chuột nhỏ đáp xuống một chiếc máy hút bụi robot, tận dụng vòng quay của nó để đổi hướng, sau đó chộp lấy một chiếc khăn treo và đu người qua bồn rửa. Chú mèo cam đáp xuống cùng chiếc robot đó, xoay nửa vòng một cách mượt mà, sau đó tận dụng đà để chộp lấy chiếc đèn chùm, đu người về phía trước, đôi chân gần như chạm vào đuôi của chú chuột. Chú chuột nhỏ đáp xuống trước tủ lạnh, trượt sang một bên. Chú mèo cam lao tới với tốc độ cao, các chi liên tục phanh gấp nhưng vẫn làm vỡ cửa tủ lạnh do quán tính. Một chiếc bánh kem trượt xuống, che kín mặt chú mèo. Chú chuột nhỏ chạy dọc theo đuôi chú mèo, nhảy lên mũi nó, chộp lấy quả anh đào trên bánh kem và vẫy tay đắc thắng. Chú mèo cam giật giật mũi hai lần, rồi bất ngờ hắt hơi thật lớn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080925522910236672/img/Qq7W2rnPrk1LYpTJ.jpg" width="600" alt="Hoạt hình mèo và chuột phong cách hài hước">
+
+**[🎬 Xem video →](https://x.com/Cencencahya12/status/2080925688811720835)**
+
+**Tác giả:** [Cencen](https://x.com/Cencencahya12) | **Nguồn:** [Link](https://x.com/Cencencahya12/status/2080925688811720835) | **Đã xuất bản:** Jul 25, 2026
+
+---
+### Video người bán hoa cắm hoa hồng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả chi tiết để tạo video chân thực về người bán hoa đang cắm hoa hồng vào bình dưới ánh sáng tự nhiên.
+
+#### 📝 Prompt
+
+```
+Một nữ nhân viên bán hoa da đen đang cẩn thận tỉa và cắm những bông hoa hồng đỏ tươi vào một chiếc bình gốm trắng trên bàn gỗ tối màu. Đôi bàn tay điều chỉnh cành và lá để tạo nên một bó hoa cân đối, với tác phẩm hoa hoàn thiện được trưng bày đẹp mắt dưới ánh nắng ấm áp gần cửa sổ nhìn ra khu vườn xanh tươi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080919216220200961/img/sdh1PmxEUtazD262.jpg" width="600" alt="Video người bán hoa cắm hoa hồng">
+
+**[🎬 Xem video →](https://x.com/iam_damayor/status/2080919280535609480)**
+
+**Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2080919280535609480) | **Đã xuất bản:** Jul 25, 2026
+
+---
+### Thực tại kép: Màu nước và Kỹ thuật số
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video chia đôi màn hình đầy sáng tạo dành cho Gemini Omni, tạo sự tương phản giữa hồ nước vẽ màu nước thanh bình lúc bình minh và cảnh quan thành phố kỹ thuật số tương lai lúc hoàng hôn.
+
+#### 📝 Prompt
+
+```
+Nửa trên theo phong cách màu nước hiển thị một hồ nước thanh bình lúc bình minh, nửa dưới theo phong cách nghệ thuật kỹ thuật số hiển thị cảnh quan thành phố tương lai lúc hoàng hôn, màn hình chia đôi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080625015096254464/img/-o_9Bp8yhlGBMl0B.jpg" width="600" alt="Thực tại kép: Màu nước và Kỹ thuật số">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2080625058268258343)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2080625058268258343) | **Đã xuất bản:** Jul 24, 2026
+
+---
+### Storyboard ASMR LEGO Technic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một bảng phân cảnh (storyboard) đa cảnh toàn diện để tạo video ASMR siêu thực về quá trình lắp ráp LEGO Lamborghini, bao gồm hướng dẫn góc máy và hiệu ứng âm thanh.
+
+#### 📝 Prompt
+
+```
+Hãy tạo một bảng phân cảnh sản xuất phim chuyên nghiệp cho video ASMR dài 10 giây mô tả quá trình lắp ráp LEGO Technic Lamborghini Aventador.\n\nBố cục cần giống như một bảng phân cảnh phim thực thụ với 8 khung hình tuần tự được sắp xếp thành hai cột.\n\nMỗi khung hình phải bao gồm: • Hình ảnh xem trước điện ảnh khổ lớn • Số cảnh • Mã thời gian (Timecode) • Hướng góc máy • Mô tả hình ảnh • Hành động • Lời thoại / Lồng tiếng • Hiệu ứng âm thanh (SFX) • Âm nhạc • Chuyển động máy quay • Cảm xúc • Chuyển cảnh\n\nSử dụng thiết kế bảng phân cảnh kỹ thuật màu đen cao cấp với phông chữ trắng, đường viền gọn gàng, ghi chú sản xuất, nhãn thời gian và phong cách lập kế hoạch điện ảnh.\n\nTiêu đề: STORYBOARD ASMR LẮP RÁP LEGO LAMBORGHINI AVENTADOR Thời lượng: 10 Giây Tỷ lệ: 9:16 Dọc Phong cách: ASMR Điện ảnh Siêu thực\n\nCảnh 1 (0.00 đến 1.20) Góc quay từ trên cao (overhead macro) các mảnh LEGO Technic được sắp xếp gọn gàng trên tấm thảm làm việc màu đen. Đôi tay nhấc khung gầm lên. Âm thanh nhựa va chạm nhẹ nhàng. Chuyển động dolly chậm từ trên cao.\n\nCảnh 2 (1.20 đến 2.40) Cận cảnh macro cực đại đôi tay đang kết nối trục treo trước. Lấy nét từ ngón tay sang khớp nối. Tiếng click thỏa mãn, rõ nét.\n\nCảnh 3 (2.40 đến 3.60) Các tấm ốp thân xe màu xanh được lắp vào khi hình dáng chiếc Lamborghini bắt đầu hình thành. Góc quay macro ba phần tư với chuyển động orbit mượt mà.\n\nCảnh 4 (3.60 đến 4.80) Kính chắn gió được lắp vào, lộ ra phần buồng lái bên dưới. Máy quay đẩy từ kính chắn gió vào nội thất. Tiếng nhựa khớp vào nhau giòn giã.\n\nCảnh 5 (4.80 đến 6.00) Bánh trước được gắn vào. Cảnh quay macro bánh xe đang quay. Cảnh quay tracking ngắn theo vòng quay với âm thanh cơ khí tinh tế.\n\nCảnh 6 (6.00 đến 7.20) Các tấm ốp thân sau, bộ khuếch tán và đèn hậu được lắp vào. Đẩy máy chậm khi các mảnh cuối cùng khớp vào vị trí.\n\nCảnh 7 (7.20 đến 8.50) Chiếc Lamborghini hoàn thiện được lăn nhẹ nhàng trên bàn. Cảnh quay tracking góc thấp tạo nên màn lộ diện cao cấp.\n\nCảnh 8 (8.50 đến 10.00) Cảnh quay đẹp nhất (hero shot) chiếc LEGO Lamborghini Aventador màu xanh hoàn thiện trên bề mặt đen bóng dưới ánh sáng studio màu xanh đầy kịch tính. Chuyển động orbit điện ảnh chậm kết thúc ở góc ba phần tư phía trước trước khi mờ dần sang màu đen.\n\nThêm các ghi chú sản xuất chuyên nghiệp ở phía dưới bao gồm: • Tính nhất quán của nhân vật • Đạo cụ • Ánh sáng • Phong cách máy quay • Tông màu • Phong cách hình ảnh\n\nHãy làm cho bảng phân cảnh trông giống hệt như một tờ kế hoạch sản xuất phim Hollywood thực thụ với các khung hình xem trước siêu thực, nhiếp ảnh điện ảnh, chú thích kỹ thuật, phông chữ cao cấp và chất lượng tiền hình ảnh hóa phim đỉnh cao.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784970669504_y82rm8_HN9sdvtbEAEtMhQ.jpg" width="600" alt="Storyboard ASMR LEGO Technic">
+
+**[🎬 Xem video →](https://x.com/Shorelyn_/status/2080500909076107595)**
+
+**Tác giả:** [Shore Lyn](https://x.com/Shorelyn_) | **Nguồn:** [Link](https://x.com/Shorelyn_/status/2080500909076107595) | **Đã xuất bản:** Jul 24, 2026
+
+---
 ### Biến hình phun lửa siêu thực trong ngày sinh nhật
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2836,119 +2912,13 @@ Tạo thước phim góc nhìn flycam (không hiển thị flycam) tại địa 
 **Tác giả:** [Chouaieb Nemri](https://x.com/c_nemri) | **Nguồn:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Đã xuất bản:** May 31, 2026
 
 ---
-### Bảng Phân cảnh Câu chuyện Giả tưởng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh cực kỳ chi tiết để tạo bảng phân cảnh hoạt hình đa khung hình với nhân vật nữ hoàng và người bạn đồng hành là sói trắng.
-
-#### 📝 Prompt
-
-```
-Bảng phân cảnh giả tưởng siêu chi tiết, "Nữ hoàng trẻ & Sói trắng", bảng phân cảnh phim hoạt hình lấy cảm hứng từ Studio Ghibli, minh họa truyện tranh màu nước cao cấp, phiêu lưu giả tưởng điện ảnh, nghệ thuật ý tưởng vẽ tay, thẩm mỹ hoàng gia thanh lịch, bầu không khí vương quốc tuyết, bảng tiền kỳ hoạt hình chuyên nghiệp, kể chuyện nhân vật chi tiết cao, bố cục bảng phân cảnh sạch sẽ với 10 khung hình điện ảnh, ánh sáng mùa đông dịu nhẹ, thế giới giả tưởng kỳ ảo.
-NHÂN VẬT CHÍNH
-Nữ hoàng trẻ: Một nữ hoàng trẻ duyên dáng từ 18–20 tuổi, mái tóc nâu hạt dẻ dài bồng bềnh, vương miện bạc xanh thanh lịch, đôi mắt lục bảo biểu cảm, các đường nét khuôn mặt tinh tế, váy mùa đông hoàng gia sang trọng với áo choàng lót lông, tính cách cao quý nhưng giàu lòng trắc ẩn.
-Sói trắng: Một chú sói trắng như tuyết hùng vĩ với bộ lông dày mềm mại, đôi mắt xanh băng giá sắc sảo, tư thế cao quý, biểu cảm thông minh, người bạn đồng hành bảo vệ trung thành.
-CÁC KHUNG HÌNH PHÂN CẢNH
-Khung 01 — Vương quốc Băng giá: Cảnh quay toàn cảnh điện ảnh về một vương quốc phủ đầy tuyết tráng lệ vào lúc bình minh. Nữ hoàng trẻ đứng trên ban công lâu đài nhìn ra những ngọn núi và khu rừng.
-Khung 02 — Khám phá: Nữ hoàng tìm thấy một chú sói trắng con bị thương đang nằm nghỉ dưới gốc cây thông phủ đầy tuyết sâu trong rừng.
-Khung 03 — Chữa lành và Tin tưởng: Bên trong căn phòng hoàng gia ấm áp, nữ hoàng nhẹ nhàng chăm sóc chú sói trong khi tuyết rơi bên ngoài cửa sổ.
-Khung 04 — Mối liên kết tình bạn: Chú sói đã lớn mạnh hơn. Nữ hoàng và sói cùng nhau đi dạo qua những khu vườn đầy tuyết dưới những bông tuyết rơi.
-Khung 05 — Hành trình bắt đầu: Cả hai rời khỏi vương quốc và đi qua những thung lũng băng giá rộng lớn cùng những con đường núi cao chót vót.
-Khung 06 — Cực quang: Nữ hoàng và sói đứng cùng nhau dưới những dải cực quang xanh và tím ngoạn mục chiếu sáng bầu trời đêm.
-Khung 07 — Tàn tích cổ đại: Khám phá những tàn tích đá bị lãng quên vùi lấp dưới tuyết, được chiếu sáng bởi những chiếc đèn lồng ma thuật và tinh thể phát sáng.
-Khung 08 — Đỉnh cao Định mệnh: Cảnh quay toàn cảnh anh hùng trên đỉnh núi tuyết nhìn ra những cảnh quan vô tận.
-Khung 09 — Sự trở về của những người hùng: Nữ hoàng và sói trở về vương quốc khi người dân ăn mừng sự xuất hiện của họ.
-Khung 10 — Những người bảo vệ mãi mãi: Hoàng hôn vàng trên vương quốc. Nữ hoàng và sói đứng cùng nhau trên ban công lâu đài nhìn ra vương quốc của họ.
-PHẦN BẢNG NHÂN VẬT
-Bao gồm:
-Các góc xoay của Nữ hoàng (trước, bên, sau)
-Biểu cảm khuôn mặt của Nữ hoàng
-Nghiên cứu chi tiết vương miện
-Tham khảo thiết kế áo choàng và váy
-Các góc xoay của sói trắng
-Biểu cảm của sói
-Các tư thế chạy và tư thế anh hùng
-Biểu đồ so sánh kích thước
-Thiết kế phù hiệu hoàng gia
-Bảng mẫu màu sắc
-PHONG CÁCH HÌNH ẢNH
-Studio Ghibli × Disney Fantasy × Princess Mononoke × Frozen concept art, kết cấu màu nước vẽ tay, tác phẩm phát triển hoạt hình cao cấp, bố cục điện ảnh, kể chuyện môi trường chi tiết, bầu không khí giả tưởng đầy cảm xúc, thẩm mỹ hoàng gia thanh lịch, chất lượng kiệt tác.
-BẢNG MÀU
-xanh băng, trắng bạc, xanh hải quân, tím oải hương nhạt, xám mùa đông, kem ngọc trai, ánh nắng vàng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ecd237990dd9577b035caed3021da3f7/thumbnails/thumbnail.jpg" width="600" alt="Bảng Phân cảnh Câu chuyện Giả tưởng">
-
-**[🎬 Xem video →](https://x.com/AIwithSynthia/status/2060914385179353444)**
-
-**Tác giả:** [Synthia](https://x.com/AIwithSynthia) | **Nguồn:** [Link](https://x.com/AIwithSynthia/status/2060914385179353444) | **Đã xuất bản:** May 31, 2026
-
----
-### Cảnh vận chuyển hạt giống tại Ngân hàng Hạt giống Bắc Cực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh text-to-video mang tính điện ảnh mô tả một người quản lý tại cơ sở ngân hàng hạt giống ở Bắc Cực đang tiếp nhận các mẫu thực vật quý hiếm từ một vùng chiến sự.
-
-#### 📝 Prompt
-
-```
-Tạo một cảnh quay text-to-video mang tính điện ảnh, thể hiện một khoảnh khắc nguyên bản không vi phạm bản quyền, trong đó một người quản lý ngân hàng hạt giống tại cơ sở ở Bắc Cực tiếp nhận lô hàng hạt giống từ một vườn bách thảo ở vùng chiến sự — những mẫu vật sống cuối cùng của mười bảy loài thực vật, được sơ tán bởi một nhà thực vật học
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b65e91184c9582b151a4ae7c657c2a6d/thumbnails/thumbnail.jpg" width="600" alt="Cảnh vận chuyển hạt giống tại Ngân hàng Hạt giống Bắc Cực">
-
-**[🎬 Xem video →](https://x.com/Strength04_X/status/2060748226521879021)**
-
-**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2060748226521879021) | **Đã xuất bản:** May 30, 2026
-
----
-### Chuyển đổi ảnh tĩnh thành hoạt ảnh sống động
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh dành cho Gemini Omni giúp biến hình ảnh tĩnh trên màn hình máy tính thành hoạt ảnh một chủ thể nhảy ra ngoài thế giới thực.
-
-#### 📝 Prompt
-
-```
-Bắt đầu với nội dung trên màn hình máy tính giống hệt như trong ảnh. Làm cho chú chim trở nên sống động, quay đầu, rời khỏi bức ảnh và nhảy lên tay của người đó.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fca7eaa900b5888e191083e4d46bddfa/thumbnails/thumbnail.jpg" width="600" alt="Chuyển đổi ảnh tĩnh thành hoạt ảnh sống động">
-
-**[🎬 Xem video →](https://x.com/DiegoAlcubierre/status/2060526084681048166)**
-
-**Tác giả:** [Diego Alcubierre](https://x.com/DiegoAlcubierre) | **Nguồn:** [Link](https://x.com/DiegoAlcubierre/status/2060526084681048166) | **Đã xuất bản:** May 30, 2026
-
----
-### Lớp phủ giao diện video livestream
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh dành cho Gemini Omni để thêm lớp phủ giao diện trò chuyện livestream lên video hiện có mà vẫn giữ nguyên cảnh quay gốc.
-
-#### 📝 Prompt
-
-```
-Không thay đổi video gốc. Giữ nguyên hoàn toàn hình ảnh con người, thiết bị, chuyển động, bối cảnh, v.v. Hiển thị một phần bình luận giao diện livestream ở phía bên phải video, thể hiện người xem đang theo dõi video trong thời gian thực và nhập bình luận. Các bình luận phải được viết bằng tiếng Nhật.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b4aa882ab7db0578fc087334091431c/thumbnails/thumbnail.jpg" width="600" alt="Lớp phủ giao diện video livestream">
-
-**[🎬 Xem video →](https://x.com/YaReYaRu30Life/status/2060343668188569858)**
-
-**Tác giả:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Nguồn:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Đã xuất bản:** May 29, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 28 prompt khác không hiển thị ở đây
+### 🎯 32 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2994,6 +2964,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-25T06:16:54.584Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-25T09:45:58.959Z</sub>
 
 </div>

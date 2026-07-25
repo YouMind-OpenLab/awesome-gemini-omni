@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **128** |
+| 📝 Total Prompts | **132** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-25** |
 
@@ -56,6 +56,82 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Slapstick Cat and Mouse Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a 3D animated chase scene inspired by classic American silent comedy, featuring complex physics and character interactions.
+
+#### 📝 Prompt
+
+```
+Generate a 10-second high-quality horizontal 3D cartoon cat and mouse chase animation. The overall style is original classic American silent comedy, with exaggerated movements, tight rhythm, and rich expressions, but it does not imitate any existing animated characters. A round, chubby, and impatient orange cat chases a clever and agile grey-brown mouse. The entire animation uses continuous single-camera side tracking shots, with characters always moving from left to right. All movements depend on speed, inertia, and collisions to connect naturally, without jump cuts, teleportation, or sudden pauses. In a warm and bright retro kitchen, the little mouse, carrying cheese, swiftly passes table legs, jumps onto a spinning pot lid, and uses it as a skateboard to glide forward. The pot lid hits a slanted roller, and the little mouse uses the momentum to jump onto the dining table. The orange cat follows the same path, stepping on the roller, its legs staggering rapidly, its body swaying from side to side, finally jumping onto the dining table using its momentum. After landing, it crashes into a sack of flour, releasing a spray of white dust. The orange cat emerges unhindered from the flour cloud, its whole body white except for its angry eyes. The little mouse rushes through a hollow baguette, sliding out from the other end. The orange cat follows closely but gets stuck briefly. The baguette stretches and then snaps back, propelling the cat forward and closing the distance with the mouse again. Both characters jump from the dining table simultaneously. The little mouse lands on a robot vacuum cleaner, using its rotation to change direction, then grabs a hanging towel and swings it across the sink. The orange cat lands on the same robot, spinning half a circle smoothly, then uses its momentum to grab the chandelier, swinging forward, its paws almost touching the mouse's tail. The little mouse lands in front of the refrigerator, sliding to the side. The orange cat rushes at high speed, its limbs repeatedly braking hard, but still manages to break the refrigerator door due to inertia. A cream cake slides down, completely covering the cat's face. The little mouse runs behind the cat along its tail, jumps onto the cat's nose, grabs the cherry from the cream, and waves triumphantly. The orange cat twitches its nose twice, then suddenly sneezes loudly,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080925522910236672/img/Qq7W2rnPrk1LYpTJ.jpg" width="600" alt="Slapstick Cat and Mouse Animation">
+
+**[🎬 Watch Video →](https://x.com/Cencencahya12/status/2080925688811720835)**
+
+**Author:** [Cencen](https://x.com/Cencencahya12) | **Source:** [Link](https://x.com/Cencencahya12/status/2080925688811720835) | **Published:** Jul 25, 2026
+
+---
+### Florist Arranging Roses Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly descriptive prompt for generating a realistic video of a florist arranging roses in a vase under natural sunlight.
+
+#### 📝 Prompt
+
+```
+A black woman florist carefully trims and arranges fresh red roses into a white ceramic vase on a dark wooden table. The hands adjust the stems and leaves to create a balanced bouquet, with the finished floral centerpiece displayed beautifully in warm sunlight near windows overlooking a lush green garden.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080919216220200961/img/sdh1PmxEUtazD262.jpg" width="600" alt="Florist Arranging Roses Video">
+
+**[🎬 Watch Video →](https://x.com/iam_damayor/status/2080919280535609480)**
+
+**Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2080919280535609480) | **Published:** Jul 25, 2026
+
+---
+### Watercolor and Digital Dual Reality
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative split-screen video prompt for Gemini Omni that contrasts a serene watercolor lake at sunrise with a futuristic digital cityscape at dusk.
+
+#### 📝 Prompt
+
+```
+Top half in watercolor style showing a serene lake at sunrise, bottom half in digital art style showing a futuristic cityscape at dusk, split screen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080625015096254464/img/-o_9Bp8yhlGBMl0B.jpg" width="600" alt="Watercolor and Digital Dual Reality">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2080625058268258343)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2080625058268258343) | **Published:** Jul 24, 2026
+
+---
+### ASMR LEGO Technic Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive multi-scene storyboard prompt for creating a hyperrealistic ASMR video of a LEGO Lamborghini assembly, including camera directions and sound effects.
+
+#### 📝 Prompt
+
+```
+Create a professional film production storyboard for a 10 second ASMR video showing the assembly of a LEGO Technic Lamborghini Aventador.\n\nLayout should look like a real movie storyboard with 8 sequential panels arranged in two columns.\n\nEach panel must contain: • Large cinematic preview image • Scene number • Timecode • Camera direction • Visual description • Action • Dialogue / Voice Over • Sound Effects (SFX) • Music • Camera movement • Emotion • Transition\n\nUse a premium black technical storyboard design with white typography, clean borders, production notes, timing labels, and a cinematic planning style.\n\nHeader: STORYBOARD ASMR MERAKIT LEGO LAMBORGHINI AVENTADOR Duration: 10 Seconds Ratio: 9:16 Vertical Style: Hyperrealistic Cinematic ASMR\n\nScene 1 (0.00 to 1.20) Overhead macro shot of neatly organized LEGO Technic pieces on a black work mat. Hands pick up the chassis. Soft plastic clicking sounds. Slow overhead dolly.\n\nScene 2 (1.20 to 2.40) Extreme macro close up of hands connecting the front suspension axle. Focus rack from fingers to connector. Loud satisfying click.\n\nScene 3 (2.40 to 3.60) Blue body panels are installed as the Lamborghini shape begins to form. Macro three quarter angle with a smooth orbit camera.\n\nScene 4 (3.60 to 4.80) Windshield is installed with the cockpit visible beneath. Camera pushes from the windshield into the interior. Crisp plastic snap sound.\n\nScene 5 (4.80 to 6.00) Front wheel is attached. Macro shot of the wheel spinning. Short tracking shot follows the rotation with subtle mechanical sounds.\n\nScene 6 (6.00 to 7.20) Rear body panels, diffuser, and tail lights are installed. Slow push in as the final pieces lock into place.\n\nScene 7 (7.20 to 8.50) The completed Lamborghini is gently rolled across the table. Low angle tracking shot creates a premium reveal.\n\nScene 8 (8.50 to 10.00) Hero beauty shot of the completed blue LEGO Lamborghini Aventador on a glossy black surface under dramatic blue studio lighting. Slow cinematic orbit ends on a front three quarter angle before fading to black.\n\nAdd professional production notes at the bottom including: • Character consistency • Props • Lighting • Camera style • Tone • Visual style\n\nMake the storyboard look exactly like a real Hollywood production planning sheet with ultra realistic preview frames, cinematic photography, technical annotations, premium typography, and high end film previsualization quality.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784970669504_y82rm8_HN9sdvtbEAEtMhQ.jpg" width="600" alt="ASMR LEGO Technic Storyboard">
+
+**[🎬 Watch Video →](https://x.com/Shorelyn_/status/2080500909076107595)**
+
+**Author:** [Shore Lyn](https://x.com/Shorelyn_) | **Source:** [Link](https://x.com/Shorelyn_/status/2080500909076107595) | **Published:** Jul 24, 2026
+
+---
 ### Gemini Omni vs Gemini Omni Birthday Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2999,119 +3075,13 @@ Generate drone view footage (without representing the drone) of this place 48°5
 **Author:** [Chouaieb Nemri](https://x.com/c_nemri) | **Source:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Published:** May 31, 2026
 
 ---
-### Fantasy Storyboard Sheet
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An extremely detailed prompt for generating a multi-panel animation storyboard sheet featuring a queen and a white wolf companion.
-
-#### 📝 Prompt
-
-```
-Ultra-detailed fantasy storyboard sheet, "Young Queen & White Wolf", Studio Ghibli-inspired animated movie storyboard, premium watercolor storybook illustration, cinematic fantasy adventure, hand-painted concept art, elegant royal aesthetic, snowy kingdom atmosphere, professional animation pre-production board, highly detailed character storytelling, clean storyboard layout with 10 cinematic panels, soft winter lighting, magical fantasy world.
-MAIN CHARACTERS
-Young Queen A graceful young queen aged 18–20, long flowing chestnut-brown hair, elegant silver-blue crown, expressive emerald eyes, delicate facial features, luxurious royal winter gown with fur-lined cape, noble yet compassionate personality.
-White Wolf A majestic snow-white wolf with thick fluffy fur, piercing ice-blue eyes, noble posture, intelligent expression, loyal guardian companion.
-STORYBOARD PANELS
-Panel 01 — Frozen Kingdom Wide cinematic establishing shot of a magnificent snow-covered kingdom at dawn. The young queen stands on a castle balcony overlooking mountains and forests.
-Panel 02 — The Discovery The queen finds an injured white wolf pup resting beneath a snow-covered pine tree deep in the forest.
-Panel 03 — Healing and Trust Inside a warm royal chamber, the queen gently cares for the wolf while snow falls outside the windows.
-Panel 04 — Bond of Friendship The wolf has grown stronger. Queen and wolf walk together through snowy gardens beneath falling snowflakes.
-Panel 05 — Journey Begins The pair leave the kingdom and travel through vast frozen valleys and towering mountain paths.
-Panel 06 — Northern Lights The queen and wolf stand together beneath breathtaking green and purple auroras illuminating the night sky.
-Panel 07 — Ancient Ruins Exploring forgotten stone ruins buried beneath snow, illuminated by magical lanterns and glowing crystals.
-Panel 08 — Summit of Destiny Heroic wide shot atop a snowy mountain peak overlooking endless landscapes.
-Panel 09 — Return of Heroes The queen and wolf return to the kingdom as citizens celebrate their arrival.
-Panel 10 — Guardians Forever Golden sunset over the kingdom. Queen and wolf stand together on a castle balcony overlooking their realm.
-CHARACTER SHEET SECTION
-Include:
-Queen turnaround views (front, side, back)
-Queen facial expressions
-Crown detail studies
-Cape and dress design references
-White wolf turnaround views
-Wolf expressions
-Running and hero poses
-Size comparison chart
-Royal insignia designs
-Color palette swatches
-VISUAL STYLE
-Studio Ghibli × Disney Fantasy × Princess Mononoke × Frozen concept art, hand-painted watercolor textures, premium animation development artwork, cinematic composition, detailed environmental storytelling, emotional fantasy atmosphere, elegant royal aesthetics, masterpiece quality.
-COLOR PALETTE
-icy blue, silver white, royal navy, soft lavender, winter gray, pearl cream, golden sunlight
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ecd237990dd9577b035caed3021da3f7/thumbnails/thumbnail.jpg" width="600" alt="Fantasy Storyboard Sheet">
-
-**[🎬 Watch Video →](https://x.com/AIwithSynthia/status/2060914385179353444)**
-
-**Author:** [Synthia](https://x.com/AIwithSynthia) | **Source:** [Link](https://x.com/AIwithSynthia/status/2060914385179353444) | **Published:** May 31, 2026
-
----
-### Arctic Seed Bank Shipment Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic text-to-video prompt describing a curator at an Arctic seed bank facility receiving rare plant samples from a conflict zone.
-
-#### 📝 Prompt
-
-```
-Create a cinematic text-to-video scene featuring an original non-copyrighted moment where a seed bank curator in an Arctic facility receives a shipment of seeds from a botanical garden in a conflict zone the last living samples of seventeen plant species, evacuated by a botanist
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b65e91184c9582b151a4ae7c657c2a6d/thumbnails/thumbnail.jpg" width="600" alt="Arctic Seed Bank Shipment Scene">
-
-**[🎬 Watch Video →](https://x.com/Strength04_X/status/2060748226521879021)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2060748226521879021) | **Published:** May 30, 2026
-
----
-### Static Image to Life Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Gemini Omni that takes a static image on a computer screen and animates a subject jumping out into the real world.
-
-#### 📝 Prompt
-
-```
-Start with the computer screen content exactly the same as in the image. Make the bird come to life, turning head, leaving the photo and jumping onto the person's hand.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fca7eaa900b5888e191083e4d46bddfa/thumbnails/thumbnail.jpg" width="600" alt="Static Image to Life Animation">
-
-**[🎬 Watch Video →](https://x.com/DiegoAlcubierre/status/2060526084681048166)**
-
-**Author:** [Diego Alcubierre](https://x.com/DiegoAlcubierre) | **Source:** [Link](https://x.com/DiegoAlcubierre/status/2060526084681048166) | **Published:** May 30, 2026
-
----
-### Live Stream UI Video Overlay
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A prompt for Gemini Omni to add a live stream chat interface overlay onto an existing video while keeping the original footage intact.
-
-#### 📝 Prompt
-
-```
-Do not change the video itself. Play people, equipment, movement, background, etc. completely as they are. Display something like a live stream UI comment section on the right side of the video, representing people watching the video in real-time and typing comments. The comments shall be written in Japanese.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b4aa882ab7db0578fc087334091431c/thumbnails/thumbnail.jpg" width="600" alt="Live Stream UI Video Overlay">
-
-**[🎬 Watch Video →](https://x.com/YaReYaRu30Life/status/2060343668188569858)**
-
-**Author:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Source:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Published:** May 29, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 28 more prompts not shown here
+### 🎯 32 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3157,6 +3127,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T06:16:51.159Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-25T09:45:53.334Z</sub>
 
 </div>

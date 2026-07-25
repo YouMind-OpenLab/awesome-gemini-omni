@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **128** |
+| 📝 Gesamtanzahl Prompts | **132** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-25** |
 
@@ -56,6 +56,110 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Slapstick-Animation mit Katze und Maus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, kinoreifer Prompt für eine 3D-animierte Verfolgungsjagd, inspiriert von klassischer amerikanischer Stummfilm-Comedy, mit komplexer Physik und Charakterinteraktionen.
+
+#### 📝 Prompt
+
+```
+Erstelle eine 10-sekündige, hochwertige horizontale 3D-Cartoon-Verfolgungsjagd zwischen einer Katze und einer Maus. Der Gesamtstil orientiert sich an der klassischen amerikanischen Stummfilm-Comedy mit übertriebenen Bewegungen, straffem Rhythmus und ausdrucksstarker Mimik, ohne dabei existierende Zeichentrickfiguren zu imitieren. Eine rundliche, pummelige und ungeduldige orangefarbene Katze jagt eine clevere und flinke graubraune Maus. Die gesamte Animation nutzt durchgehende seitliche Kamerafahrten, bei denen sich die Charaktere stets von links nach rechts bewegen. Alle Bewegungen basieren auf Geschwindigkeit, Trägheit und Kollisionen, um einen natürlichen Ablauf ohne Jump-Cuts, Teleportationen oder plötzliche Pausen zu gewährleisten. In einer warmen und hellen Retro-Küche huscht die kleine Maus mit einem Stück Käse geschickt an Tischbeinen vorbei, springt auf einen rotierenden Topfdeckel und nutzt diesen wie ein Skateboard, um vorwärts zu gleiten. Der Topfdeckel trifft auf eine schräge Rolle, und die kleine Maus nutzt den Schwung, um auf den Esstisch zu springen. Die orangefarbene Katze folgt dem gleichen Weg, tritt auf die Rolle, ihre Beine taumeln hastig, ihr Körper schwankt hin und her, bis sie schließlich mit dem gewonnenen Schwung auf den Esstisch springt. Nach der Landung prallt sie gegen einen Mehlsack, wodurch eine Wolke aus weißem Staub aufgewirbelt wird. Die orangefarbene Katze taucht unbeeindruckt aus der Mehlwolke auf, ihr ganzer Körper ist weiß, bis auf ihre wütenden Augen. Die kleine Maus flitzt durch ein hohles Baguette und rutscht am anderen Ende wieder heraus. Die orangefarbene Katze folgt dicht dahinter, bleibt aber kurz stecken. Das Baguette dehnt sich und schnellt dann zurück, wodurch die Katze nach vorne geschleudert wird und den Abstand zur Maus wieder verringert. Beide Charaktere springen gleichzeitig vom Esstisch. Die kleine Maus landet auf einem Saugroboter, nutzt dessen Drehung für einen Richtungswechsel, greift dann ein hängendes Handtuch und schwingt sich über das Waschbecken. Die orangefarbene Katze landet auf demselben Roboter, dreht sich geschmeidig um eine halbe Kreisbahn und nutzt dann ihren Schwung, um den Kronleuchter zu greifen und sich vorwärts zu schwingen, wobei ihre Pfoten fast den Schwanz der Maus berühren. Die kleine Maus landet vor dem Kühlschrank und rutscht zur Seite. Die orangefarbene Katze stürmt mit hoher Geschwindigkeit heran, ihre Gliedmaßen bremsen wiederholt stark ab, doch aufgrund der Trägheit bricht sie dennoch die Kühlschranktür auf. Eine Sahnetorte rutscht herunter und bedeckt das Gesicht der Katze vollständig. Die kleine Maus rennt hinter der Katze an deren Schwanz entlang, springt auf die Nase der Katze, schnappt sich die Kirsche von der Sahne und winkt triumphierend. Die orangefarbene Katze zuckt zweimal mit der Nase und niest dann plötzlich laut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080925522910236672/img/Qq7W2rnPrk1LYpTJ.jpg" width="600" alt="Slapstick-Animation mit Katze und Maus">
+
+**[🎬 Video ansehen →](https://x.com/Cencencahya12/status/2080925688811720835)**
+
+**Autor:** [Cencen](https://x.com/Cencencahya12) | **Quelle:** [Link](https://x.com/Cencencahya12/status/2080925688811720835) | **Veröffentlicht:** Jul 25, 2026
+
+---
+### Video einer Floristin beim Arrangieren von Rosen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Erstellung eines realistischen Videos, das eine Floristin zeigt, wie sie Rosen in einer Vase bei natürlichem Sonnenlicht arrangiert.
+
+#### 📝 Prompt
+
+```
+Eine schwarze Floristin schneidet sorgfältig frische rote Rosen zurecht und arrangiert sie in einer weißen Keramikvase auf einem dunklen Holztisch. Ihre Hände richten die Stiele und Blätter aus, um einen ausgewogenen Blumenstrauß zu kreieren. Das fertige Blumenarrangement wird wunderschön im warmen Sonnenlicht in der Nähe von Fenstern präsentiert, die den Blick auf einen üppig grünen Garten freigeben.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080919216220200961/img/sdh1PmxEUtazD262.jpg" width="600" alt="Video einer Floristin beim Arrangieren von Rosen">
+
+**[🎬 Video ansehen →](https://x.com/iam_damayor/status/2080919280535609480)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Quelle:** [Link](https://x.com/iam_damayor/status/2080919280535609480) | **Veröffentlicht:** Jul 25, 2026
+
+---
+### Aquarell und digitale Dualität
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Split-Screen-Video-Prompt für Gemini Omni, der einen ruhigen Aquarell-See bei Sonnenaufgang einer futuristischen digitalen Stadtlandschaft bei Dämmerung gegenüberstellt.
+
+#### 📝 Prompt
+
+```
+Obere Hälfte im Aquarellstil mit einem ruhigen See bei Sonnenaufgang, untere Hälfte im digitalen Kunststil mit einer futuristischen Stadtlandschaft bei Dämmerung, geteilter Bildschirm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080625015096254464/img/-o_9Bp8yhlGBMl0B.jpg" width="600" alt="Aquarell und digitale Dualität">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2080625058268258343)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2080625058268258343) | **Veröffentlicht:** Jul 24, 2026
+
+---
+### ASMR LEGO Technic Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender, mehrszeniger Storyboard-Prompt zur Erstellung eines hyperrealistischen ASMR-Videos vom Zusammenbau eines LEGO Lamborghini, inklusive Kameraanweisungen und Soundeffekten.
+
+#### 📝 Prompt
+
+```
+Erstelle ein professionelles Filmproduktions-Storyboard für ein 10-sekündiges ASMR-Video, das den Zusammenbau eines LEGO Technic Lamborghini Aventador zeigt.
+
+Das Layout sollte wie ein echtes Film-Storyboard aussehen, mit 8 sequenziellen Panels, die in zwei Spalten angeordnet sind.
+
+Jedes Panel muss enthalten: • Großes filmisches Vorschaubild • Szenennummer • Timecode • Kameraanweisung • Visuelle Beschreibung • Aktion • Dialog / Voice-Over • Soundeffekte (SFX) • Musik • Kamerabewegung • Emotion • Übergang
+
+Verwende ein hochwertiges, technisches Storyboard-Design in Schwarz mit weißer Typografie, sauberen Rändern, Produktionsnotizen, Zeitangaben und einem filmischen Planungsstil.
+
+Header: STORYBOARD ASMR ZUSAMMENBAU LEGO LAMBORGHINI AVENTADOR Dauer: 10 Sekunden Seitenverhältnis: 9:16 Vertikal Stil: Hyperrealistisches filmisches ASMR
+
+Szene 1 (0,00 bis 1,20) Overhead-Makroaufnahme von ordentlich angeordneten LEGO Technic Teilen auf einer schwarzen Arbeitsmatte. Hände nehmen das Chassis auf. Sanfte Kunststoff-Klickgeräusche. Langsamer Overhead-Dolly.
+
+Szene 2 (1,20 bis 2,40) Extreme Makro-Nahaufnahme von Händen, die die vordere Aufhängungsachse verbinden. Fokusverlagerung von den Fingern auf das Verbindungsstück. Lautes, befriedigendes Klicken.
+
+Szene 3 (2,40 bis 3,60) Blaue Karosserieteile werden montiert, während die Lamborghini-Form Gestalt annimmt. Makro-Dreiviertelansicht mit einer sanften Orbit-Kamerafahrt.
+
+Szene 4 (3,60 bis 4,80) Die Windschutzscheibe wird montiert, wobei das Cockpit darunter sichtbar ist. Die Kamera fährt von der Windschutzscheibe in den Innenraum. Knackiges Kunststoff-Einrastgeräusch.
+
+Szene 5 (4,80 bis 6,00) Das Vorderrad wird befestigt. Makroaufnahme des sich drehenden Rades. Kurze Tracking-Aufnahme folgt der Rotation mit subtilen mechanischen Geräuschen.
+
+Szene 6 (6,00 bis 7,20) Hintere Karosserieteile, Diffusor und Rücklichter werden montiert. Langsamer Push-in, während die letzten Teile einrasten.
+
+Szene 7 (7,20 bis 8,50) Der fertiggestellte Lamborghini wird sanft über den Tisch gerollt. Eine Tracking-Aufnahme aus niedriger Perspektive sorgt für eine hochwertige Enthüllung.
+
+Szene 8 (8,50 bis 10,00) Hero-Shot des fertiggestellten blauen LEGO Lamborghini Aventador auf einer glänzend schwarzen Oberfläche unter dramatischer blauer Studiobeleuchtung. Langsamer filmischer Orbit, der in einer vorderen Dreiviertelansicht endet, bevor das Bild schwarz ausblendet.
+
+Füge am Ende professionelle Produktionsnotizen hinzu, darunter: • Charakterkonsistenz • Requisiten • Beleuchtung • Kamerastil • Tonalität • Visueller Stil
+
+Das Storyboard soll exakt wie ein echtes Hollywood-Produktionsplanungsblatt aussehen, mit ultrarealistischen Vorschaubildern, filmischer Fotografie, technischen Anmerkungen, hochwertiger Typografie und erstklassiger Film-Previsualisierungsqualität.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784970669504_y82rm8_HN9sdvtbEAEtMhQ.jpg" width="600" alt="ASMR LEGO Technic Storyboard">
+
+**[🎬 Video ansehen →](https://x.com/Shorelyn_/status/2080500909076107595)**
+
+**Autor:** [Shore Lyn](https://x.com/Shorelyn_) | **Quelle:** [Link](https://x.com/Shorelyn_/status/2080500909076107595) | **Veröffentlicht:** Jul 24, 2026
+
+---
 ### Surreale Geburtstags-Transformation: Feuer spucken
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2836,119 +2940,13 @@ Generiere Drohnenaufnahmen (ohne die Drohne selbst abzubilden) von diesem Ort: 4
 **Autor:** [Chouaieb Nemri](https://x.com/c_nemri) | **Quelle:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Veröffentlicht:** May 31, 2026
 
 ---
-### Fantasy-Storyboard-Blatt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein extrem detaillierter Prompt zur Erstellung eines mehrteiligen Animations-Storyboards mit einer Königin und ihrem weißen Wolfsbegleiter.
-
-#### 📝 Prompt
-
-```
-Ultra-detailliertes Fantasy-Storyboard-Blatt, „Junge Königin & weißer Wolf“, Storyboard für einen Animationsfilm im Stil von Studio Ghibli, hochwertige Aquarell-Illustration für Bilderbücher, cineastisches Fantasy-Abenteuer, handgemalte Konzeptkunst, elegante königliche Ästhetik, Atmosphäre eines verschneiten Königreichs, professionelles Storyboard für die Animations-Vorproduktion, detailliertes Charakter-Storytelling, sauberes Storyboard-Layout mit 10 cineastischen Panels, sanfte Winterbeleuchtung, magische Fantasy-Welt.
-HAUPTCHARAKTERE
-Junge Königin: Eine anmutige junge Königin im Alter von 18–20 Jahren, langes, wallendes kastanienbraunes Haar, elegante silber-blaue Krone, ausdrucksstarke smaragdgrüne Augen, feine Gesichtszüge, luxuriöses königliches Winterkleid mit pelzbesetztem Umhang, edle und zugleich mitfühlende Persönlichkeit.
-Weißer Wolf: Ein majestätischer, schneeweißer Wolf mit dickem, flauschigem Fell, stechend eisblauen Augen, edler Körperhaltung, intelligentem Ausdruck, loyaler Wächter und Begleiter.
-STORYBOARD-PANELS
-Panel 01 — Gefrorenes Königreich: Weite cineastische Totale eines prächtigen, schneebedeckten Königreichs im Morgengrauen. Die junge Königin steht auf einem Schlossbalkon mit Blick auf Berge und Wälder.
-Panel 02 — Die Entdeckung: Die Königin findet ein verletztes weißes Wolfsjunges, das tief im Wald unter einer schneebedeckten Kiefer ruht.
-Panel 03 — Heilung und Vertrauen: In einem warmen königlichen Gemach kümmert sich die Königin liebevoll um den Wolf, während draußen vor den Fenstern Schnee fällt.
-Panel 04 — Band der Freundschaft: Der Wolf ist stärker geworden. Die Königin und der Wolf spazieren gemeinsam durch verschneite Gärten unter fallenden Schneeflocken.
-Panel 05 — Die Reise beginnt: Das Paar verlässt das Königreich und reist durch weite, gefrorene Täler und über hoch aufragende Bergpfade.
-Panel 06 — Nordlichter: Die Königin und der Wolf stehen gemeinsam unter atemberaubenden grünen und violetten Polarlichtern, die den Nachthimmel erhellen.
-Panel 07 — Antike Ruinen: Erkundung vergessener Steinruinen, die unter Schnee begraben sind, beleuchtet von magischen Laternen und leuchtenden Kristallen.
-Panel 08 — Gipfel des Schicksals: Heroische Totale auf einem schneebedeckten Berggipfel mit Blick auf endlose Landschaften.
-Panel 09 — Rückkehr der Helden: Die Königin und der Wolf kehren in das Königreich zurück, während die Bürger ihre Ankunft feiern.
-Panel 10 — Wächter für immer: Goldener Sonnenuntergang über dem Königreich. Die Königin und der Wolf stehen gemeinsam auf einem Schlossbalkon und überblicken ihr Reich.
-CHARAKTER-BLATT-BEREICH
-Beinhaltet:
-Ansichten der Königin (von vorne, von der Seite, von hinten)
-Gesichtsausdrücke der Königin
-Detailstudien der Krone
-Design-Referenzen für Umhang und Kleid
-Ansichten des weißen Wolfs (Drehungen)
-Ausdrücke des Wolfs
-Lauf- und Heldenposen
-Größenvergleichstabelle
-Designs für königliche Insignien
-Farbpaletten-Muster
-VISUELLER STIL
-Studio Ghibli × Disney Fantasy × Prinzessin Mononoke × Frozen Konzeptkunst, handgemalte Aquarelltexturen, hochwertige Kunstwerke für die Animationsentwicklung, cineastische Komposition, detailliertes Environmental Storytelling, emotionale Fantasy-Atmosphäre, elegante königliche Ästhetik, Meisterwerk-Qualität.
-FARBPALETTE
-eisblau, silberweiß, königsblau, sanftes Lavendel, Wintergrau, Perlcreme, goldenes Sonnenlicht
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ecd237990dd9577b035caed3021da3f7/thumbnails/thumbnail.jpg" width="600" alt="Fantasy-Storyboard-Blatt">
-
-**[🎬 Video ansehen →](https://x.com/AIwithSynthia/status/2060914385179353444)**
-
-**Autor:** [Synthia](https://x.com/AIwithSynthia) | **Quelle:** [Link](https://x.com/AIwithSynthia/status/2060914385179353444) | **Veröffentlicht:** May 31, 2026
-
----
-### Szene: Lieferung an die Arktis-Samenbank
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Text-zu-Video-Prompt, der einen Kurator in einer arktischen Samenbank beschreibt, der seltene Pflanzenproben aus einem Konfliktgebiet erhält.
-
-#### 📝 Prompt
-
-```
-Erstelle eine filmische Text-zu-Video-Szene, die einen originellen, urheberrechtsfreien Moment zeigt: Ein Kurator einer Samenbank in einer arktischen Einrichtung erhält eine Lieferung von Samen aus einem botanischen Garten in einem Konfliktgebiet – die letzten lebenden Exemplare von siebzehn Pflanzenarten, die von einem Botaniker evakuiert wurden.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b65e91184c9582b151a4ae7c657c2a6d/thumbnails/thumbnail.jpg" width="600" alt="Szene: Lieferung an die Arktis-Samenbank">
-
-**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2060748226521879021)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2060748226521879021) | **Veröffentlicht:** May 30, 2026
-
----
-### Statische Bilder zum Leben erwecken
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Gemini Omni, der ein statisches Bild auf einem Computerbildschirm nimmt und ein Motiv animiert, das in die reale Welt springt.
-
-#### 📝 Prompt
-
-```
-Beginne mit dem Inhalt des Computerbildschirms genau wie im Bild. Erwecke den Vogel zum Leben, lass ihn den Kopf drehen, das Foto verlassen und auf die Hand der Person springen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fca7eaa900b5888e191083e4d46bddfa/thumbnails/thumbnail.jpg" width="600" alt="Statische Bilder zum Leben erwecken">
-
-**[🎬 Video ansehen →](https://x.com/DiegoAlcubierre/status/2060526084681048166)**
-
-**Autor:** [Diego Alcubierre](https://x.com/DiegoAlcubierre) | **Quelle:** [Link](https://x.com/DiegoAlcubierre/status/2060526084681048166) | **Veröffentlicht:** May 30, 2026
-
----
-### Live-Stream-UI-Video-Overlay
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Prompt für Gemini Omni, um ein Live-Stream-Chat-Interface-Overlay über ein bestehendes Video zu legen, während das Originalmaterial unverändert bleibt.
-
-#### 📝 Prompt
-
-```
-Verändere das Video selbst nicht. Personen, Ausrüstung, Bewegungen, Hintergrund usw. sollen vollständig erhalten bleiben. Blende auf der rechten Seite des Videos eine Live-Stream-UI-Kommentarspalte ein, die darstellt, wie Zuschauer das Video in Echtzeit verfolgen und Kommentare schreiben. Die Kommentare sollen auf Japanisch verfasst sein.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b4aa882ab7db0578fc087334091431c/thumbnails/thumbnail.jpg" width="600" alt="Live-Stream-UI-Video-Overlay">
-
-**[🎬 Video ansehen →](https://x.com/YaReYaRu30Life/status/2060343668188569858)**
-
-**Autor:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Quelle:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Veröffentlicht:** May 29, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 28 weitere Prompts hier nicht angezeigt
+### 🎯 32 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2994,6 +2992,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-25T06:16:57.116Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-25T09:46:03.019Z</sub>
 
 </div>

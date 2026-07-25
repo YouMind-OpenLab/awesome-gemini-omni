@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **128** |
+| 📝 Toplam İstem | **132** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-25** |
 
@@ -56,6 +56,82 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Slapstick Kedi ve Fare Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Klasik Amerikan sessiz komedisinden esinlenen, karmaşık fizik ve karakter etkileşimleri içeren 3D animasyonlu bir kovalamaca sahnesi için oldukça detaylı sinematik bir komut.
+
+#### 📝 İstem
+
+```
+10 saniyelik, yüksek kaliteli, yatay formatta 3D çizgi film tarzı kedi ve fare kovalamaca animasyonu oluşturun. Genel tarz, abartılı hareketler, sıkı bir ritim ve zengin ifadelerle orijinal klasik Amerikan sessiz komedisidir; ancak mevcut hiçbir animasyon karakterini taklit etmemelidir. Tombul, yuvarlak hatlı ve sabırsız bir turuncu kedi, zeki ve çevik gri-kahverengi bir fareyi kovalar. Animasyonun tamamında sürekli tek kameralı yan takip çekimleri kullanılır ve karakterler her zaman soldan sağa doğru hareket eder. Tüm hareketler; atlama kesmeleri, ışınlanma veya ani duraksamalar olmadan, doğal bir şekilde bağlanmak için hız, eylemsizlik ve çarpışmalara dayanır. Sıcak ve aydınlık retro bir mutfakta, peynir taşıyan küçük fare hızla masa ayaklarının arasından geçer, dönen bir tencere kapağının üzerine atlar ve onu kaykay gibi kullanarak ileri doğru süzülür. Tencere kapağı eğimli bir silindire çarpar ve küçük fare, kazandığı ivmeyi kullanarak yemek masasının üzerine zıplar. Turuncu kedi aynı yolu izler, silindire basar, bacakları hızla sendeler, vücudu bir o yana bir bu yana sallanır ve sonunda ivmesini kullanarak yemek masasına atlar. Yere indikten sonra bir un çuvalına çarparak etrafa beyaz bir toz bulutu saçar. Turuncu kedi, un bulutunun içinden, kızgın gözleri dışında tamamen bembeyaz olmuş bir şekilde çıkar. Küçük fare içi boş bir baget ekmeğin içinden hızla geçer ve diğer ucundan kayarak çıkar. Turuncu kedi onu yakından takip eder ancak kısa bir süreliğine sıkışır. Baget esner ve ardından eski haline dönerek kediyi ileri doğru fırlatır ve fareyle arasındaki mesafeyi tekrar kapatır. Her iki karakter de aynı anda yemek masasından atlar. Küçük fare bir robot süpürgenin üzerine iner, dönüşünü yön değiştirmek için kullanır, ardından asılı bir havluyu yakalayıp lavabonun üzerinden sallanır. Turuncu kedi aynı robotun üzerine iner, pürüzsüz bir şekilde yarım tur döner, ardından ivmesini kullanarak avizeyi yakalar ve ileri doğru sallanır; patileri neredeyse farenin kuyruğuna değmektedir. Küçük fare buzdolabının önünde yere iner ve yana doğru kayar. Turuncu kedi yüksek hızla üzerine atılır, uzuvlarıyla defalarca sert fren yapar ancak eylemsizlik nedeniyle buzdolabının kapısını kırmayı başarır. Bir kremalı pasta aşağı kayarak kedinin yüzünü tamamen kaplar. Küçük fare, kedinin kuyruğu boyunca arkasından koşar, kedinin burnunun üzerine zıplar, kremanın üzerindeki kirazı kapar ve zaferle sallar. Turuncu kedi burnunu iki kez seğirtir ve ardından aniden yüksek sesle hapşırır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080925522910236672/img/Qq7W2rnPrk1LYpTJ.jpg" width="600" alt="Slapstick Kedi ve Fare Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/Cencencahya12/status/2080925688811720835)**
+
+**Yazar:** [Cencen](https://x.com/Cencencahya12) | **Kaynak:** [Link](https://x.com/Cencencahya12/status/2080925688811720835) | **Yayınlandı:** Jul 25, 2026
+
+---
+### Gül Düzenleyen Çiçekçi Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Doğal güneş ışığı altında bir vazoya güller yerleştiren bir çiçekçinin gerçekçi videosunu oluşturmak için oldukça açıklayıcı bir komut.
+
+#### 📝 İstem
+
+```
+Siyahi bir kadın çiçekçi, koyu renkli ahşap bir masa üzerindeki beyaz seramik vazoya taze kırmızı gülleri dikkatlice budayıp yerleştiriyor. Eller, dengeli bir buket oluşturmak için sapları ve yaprakları düzeltiyor; tamamlanan çiçek aranjmanı, yemyeşil bir bahçeye bakan pencerelerin yakınında, sıcak güneş ışığı altında güzel bir şekilde sergileniyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080919216220200961/img/sdh1PmxEUtazD262.jpg" width="600" alt="Gül Düzenleyen Çiçekçi Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/iam_damayor/status/2080919280535609480)**
+
+**Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2080919280535609480) | **Yayınlandı:** Jul 25, 2026
+
+---
+### Suluboya ve Dijital İkili Gerçeklik
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni için gün doğumunda huzurlu bir suluboya göl manzarası ile gün batımında fütüristik bir dijital şehir manzarasını karşılaştıran yaratıcı bir bölünmüş ekran video istemi.
+
+#### 📝 İstem
+
+```
+Üst yarıda gün doğumunda huzurlu bir gölü gösteren suluboya tarzı, alt yarıda gün batımında fütüristik bir şehir manzarasını gösteren dijital sanat tarzı, bölünmüş ekran.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080625015096254464/img/-o_9Bp8yhlGBMl0B.jpg" width="600" alt="Suluboya ve Dijital İkili Gerçeklik">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2080625058268258343)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2080625058268258343) | **Yayınlandı:** Jul 24, 2026
+
+---
+### ASMR LEGO Technic Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> LEGO Lamborghini montajının hiper gerçekçi ASMR videosunu oluşturmak için kamera yönlendirmeleri ve ses efektlerini içeren kapsamlı, çok sahneli bir storyboard istemi.
+
+#### 📝 İstem
+
+```
+LEGO Technic Lamborghini Aventador montajını gösteren 10 saniyelik bir ASMR videosu için profesyonel bir film prodüksiyon storyboard'u oluşturun.\n\nDüzen, iki sütun halinde sıralanmış 8 ardışık panelden oluşan gerçek bir film storyboard'u gibi görünmelidir.\n\nHer panel şunları içermelidir: • Büyük sinematik önizleme görseli • Sahne numarası • Zaman kodu • Kamera yönü • Görsel açıklama • Eylem • Diyalog / Dış ses • Ses Efektleri (SFX) • Müzik • Kamera hareketi • Duygu • Geçiş\n\nBeyaz tipografi, temiz kenarlıklar, prodüksiyon notları, zamanlama etiketleri ve sinematik planlama stili ile birinci sınıf siyah teknik storyboard tasarımı kullanın.\n\nBaşlık: STORYBOARD ASMR LEGO LAMBORGHINI AVENTADOR MONTAJI Süre: 10 Saniye Oran: 9:16 Dikey Stil: Hiper Gerçekçi Sinematik ASMR\n\nSahne 1 (0.00 - 1.20) Siyah bir çalışma matı üzerinde düzenli bir şekilde organize edilmiş LEGO Technic parçalarının yukarıdan makro çekimi. Eller şasiyi alır. Yumuşak plastik tıklama sesleri. Yavaş yukarıdan dolly hareketi.\n\nSahne 2 (1.20 - 2.40) Ön süspansiyon aksını birleştiren ellerin aşırı makro yakın çekimi. Parmaklardan konektöre odak kaydırma (focus rack). Yüksek ve tatmin edici bir tıklama sesi.\n\nSahne 3 (2.40 - 3.60) Lamborghini şekli oluşmaya başlarken mavi gövde panelleri takılır. Pürüzsüz bir yörünge kamerası ile makro üç çeyrek açı.\n\nSahne 4 (3.60 - 4.80) Ön cam, altındaki kokpit görünecek şekilde takılır. Kamera ön camdan içeriye doğru ilerler. Net plastik çıt sesi.\n\nSahne 5 (4.80 - 6.00) Ön tekerlek takılır. Tekerleğin döndüğü makro çekim. Kısa takip çekimi, hafif mekanik seslerle dönüşü izler.\n\nSahne 6 (6.00 - 7.20) Arka gövde panelleri, difüzör ve arka lambalar takılır. Son parçalar yerine otururken yavaşça içeri doğru itme (push in).\n\nSahne 7 (7.20 - 8.50) Tamamlanmış Lamborghini masanın üzerinde nazikçe yuvarlanır. Düşük açılı takip çekimi, premium bir sunum yaratır.\n\nSahne 8 (8.50 - 10.00) Dramatik mavi stüdyo ışığı altında parlak siyah bir yüzey üzerinde tamamlanmış mavi LEGO Lamborghini Aventador'un kahraman (hero) güzellik çekimi. Yavaş sinematik yörünge hareketi, kararmadan önce ön üç çeyrek açıda sona erer.\n\nAlt kısma şu profesyonel prodüksiyon notlarını ekleyin: • Karakter tutarlılığı • Dekorlar • Aydınlatma • Kamera stili • Ton • Görsel stil\n\nStoryboard'un ultra gerçekçi önizleme kareleri, sinematik fotoğrafçılık, teknik açıklamalar, premium tipografi ve üst düzey film ön görselleştirme kalitesiyle gerçek bir Hollywood prodüksiyon planlama sayfası gibi görünmesini sağlayın.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784970669504_y82rm8_HN9sdvtbEAEtMhQ.jpg" width="600" alt="ASMR LEGO Technic Storyboard">
+
+**[🎬 Videoyu izle →](https://x.com/Shorelyn_/status/2080500909076107595)**
+
+**Yazar:** [Shore Lyn](https://x.com/Shorelyn_) | **Kaynak:** [Link](https://x.com/Shorelyn_/status/2080500909076107595) | **Yayınlandı:** Jul 24, 2026
+
+---
 ### Sürreal Doğum Günü Ateş Püskürtme Dönüşümü
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2834,119 +2910,13 @@ Bu konumun 48°51′23.8″N 2°21′08.0″E drone görünümü görüntülerin
 **Yazar:** [Chouaieb Nemri](https://x.com/c_nemri) | **Kaynak:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Yayınlandı:** May 31, 2026
 
 ---
-### Fantastik Hikaye Panosu Sayfası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kraliçe ve beyaz bir kurt yoldaşını içeren çok panelli bir animasyon hikaye panosu sayfası oluşturmak için son derece ayrıntılı bir komut.
-
-#### 📝 İstem
-
-```
-Ultra detaylı fantastik hikaye panosu sayfası, "Genç Kraliçe ve Beyaz Kurt", Studio Ghibli esintili animasyon filmi hikaye panosu, birinci sınıf sulu boya hikaye kitabı illüstrasyonu, sinematik fantastik macera, elle boyanmış konsept sanat, zarif kraliyet estetiği, karlı krallık atmosferi, profesyonel animasyon prodüksiyon öncesi panosu, yüksek detaylı karakter hikaye anlatımı, 10 sinematik panelli temiz hikaye panosu düzeni, yumuşak kış ışığı, büyülü fantastik dünya.
-ANA KARAKTERLER
-Genç Kraliçe: 18-20 yaşlarında zarif bir genç kraliçe, uzun dalgalı kestane rengi saçlar, zarif gümüş-mavi taç, etkileyici zümrüt yeşili gözler, narin yüz hatları, kürk astarlı pelerinli lüks kraliyet kış elbisesi, asil ama şefkatli bir kişilik.
-Beyaz Kurt: Kalın ve kabarık tüyleri olan görkemli kar beyazı bir kurt, delici buz mavisi gözler, asil duruş, zeki ifade, sadık koruyucu yoldaş.
-HİKAYE PANOSU PANELLERİ
-Panel 01 — Donmuş Krallık: Şafak vaktinde muhteşem, karla kaplı bir krallığın geniş sinematik genel çekimi. Genç kraliçe, dağlara ve ormanlara bakan bir kale balkonunda duruyor.
-Panel 02 — Keşif: Kraliçe, ormanın derinliklerinde karla kaplı bir çam ağacının altında dinlenen yaralı bir beyaz kurt yavrusu bulur.
-Panel 03 — İyileşme ve Güven: Sıcak bir kraliyet odasının içinde, pencerelerin dışında kar yağarken kraliçe kurda nazikçe bakım yapar.
-Panel 04 — Dostluk Bağı: Kurt güçlenmiştir. Kraliçe ve kurt, düşen kar tanelerinin altında karlı bahçelerde birlikte yürürler.
-Panel 05 — Yolculuk Başlıyor: İkili krallıktan ayrılır ve uçsuz bucaksız donmuş vadiler ile yüksek dağ yollarından geçerler.
-Panel 06 — Kuzey Işıkları: Kraliçe ve kurt, gece gökyüzünü aydınlatan nefes kesici yeşil ve mor auroraların altında birlikte dururlar.
-Panel 07 — Antik Harabeler: Büyülü fenerler ve parlayan kristallerle aydınlatılan, kar altında kalmış unutulmuş taş harabeleri keşfederler.
-Panel 08 — Kaderin Zirvesi: Uçsuz bucaksız manzaralara bakan karlı bir dağ zirvesinde kahramanca geniş çekim.
-Panel 09 — Kahramanların Dönüşü: Kraliçe ve kurt, vatandaşların gelişlerini kutladığı krallığa geri dönerler.
-Panel 10 — Sonsuza Dek Koruyucular: Krallık üzerinde altın rengi gün batımı. Kraliçe ve kurt, krallıklarına bakan bir kale balkonunda birlikte dururlar.
-KARAKTER SAYFASI BÖLÜMÜ
-Şunları içerir:
-Kraliçe dönüş görünümleri (ön, yan, arka)
-Kraliçe yüz ifadeleri
-Taç detay çalışmaları
-Pelerin ve elbise tasarım referansları
-Beyaz kurt dönüş görünümleri
-Kurt ifadeleri
-Koşma ve kahramanlık pozları
-Boyut karşılaştırma tablosu
-Kraliyet arması tasarımları
-Renk paleti örnekleri
-GÖRSEL STİL
-Studio Ghibli × Disney Fantastik × Prenses Mononoke × Frozen konsept sanatı, elle boyanmış sulu boya dokuları, birinci sınıf animasyon geliştirme çizimleri, sinematik kompozisyon, detaylı çevresel hikaye anlatımı, duygusal fantastik atmosfer, zarif kraliyet estetiği, başyapıt kalitesi.
-RENK PALETİ
-buz mavisi, gümüş beyazı, kraliyet laciverti, yumuşak lavanta, kış grisi, inci kremi, altın güneş ışığı
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ecd237990dd9577b035caed3021da3f7/thumbnails/thumbnail.jpg" width="600" alt="Fantastik Hikaye Panosu Sayfası">
-
-**[🎬 Videoyu izle →](https://x.com/AIwithSynthia/status/2060914385179353444)**
-
-**Yazar:** [Synthia](https://x.com/AIwithSynthia) | **Kaynak:** [Link](https://x.com/AIwithSynthia/status/2060914385179353444) | **Yayınlandı:** May 31, 2026
-
----
-### Arktik Tohum Bankası Sevkiyat Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Arktik bir tohum bankası tesisindeki küratörün, çatışma bölgesinden gelen nadir bitki örneklerini teslim almasını betimleyen sinematik bir metinden videoya dönüştürme istemi.
-
-#### 📝 İstem
-
-```
-Arktik bir tesisteki tohum bankası küratörünün, çatışma bölgesindeki bir botanik bahçesinden gelen tohum sevkiyatını teslim aldığı, telif hakkı içermeyen özgün ve sinematik bir metinden videoya dönüştürme sahnesi oluşturun; bu tohumlar, bir botanikçi tarafından tahliye edilen on yedi bitki türünün hayatta kalan son örnekleridir
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b65e91184c9582b151a4ae7c657c2a6d/thumbnails/thumbnail.jpg" width="600" alt="Arktik Tohum Bankası Sevkiyat Sahnesi">
-
-**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2060748226521879021)**
-
-**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2060748226521879021) | **Yayınlandı:** May 30, 2026
-
----
-### Sabit Görseli Canlandırma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bilgisayar ekranındaki sabit bir görseli alıp, görseldeki özneyi gerçek dünyaya adım atacak şekilde canlandıran bir Gemini Omni istemi.
-
-#### 📝 İstem
-
-```
-Bilgisayar ekranındaki içeriği görseldekiyle birebir aynı olacak şekilde başlatın. Kuşu canlandırın; başını çevirmesini, fotoğraftan çıkmasını ve kişinin elinin üzerine atlamasını sağlayın.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fca7eaa900b5888e191083e4d46bddfa/thumbnails/thumbnail.jpg" width="600" alt="Sabit Görseli Canlandırma">
-
-**[🎬 Videoyu izle →](https://x.com/DiegoAlcubierre/status/2060526084681048166)**
-
-**Yazar:** [Diego Alcubierre](https://x.com/DiegoAlcubierre) | **Kaynak:** [Link](https://x.com/DiegoAlcubierre/status/2060526084681048166) | **Yayınlandı:** May 30, 2026
-
----
-### Canlı Yayın Arayüzü Video Katmanı
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Gemini Omni'nin, orijinal görüntüleri koruyarak mevcut bir videonun üzerine canlı yayın sohbet arayüzü katmanı eklemesi için bir istem.
-
-#### 📝 İstem
-
-```
-Videonun kendisini değiştirmeyin. İnsanları, ekipmanları, hareketleri, arka planı vb. olduğu gibi bırakın. Videonun sağ tarafında, videoyu gerçek zamanlı izleyen ve yorum yazan kişileri temsil eden bir canlı yayın arayüzü yorum bölümü gibi bir şey görüntüleyin. Yorumlar Japonca yazılmalıdır.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b4aa882ab7db0578fc087334091431c/thumbnails/thumbnail.jpg" width="600" alt="Canlı Yayın Arayüzü Video Katmanı">
-
-**[🎬 Videoyu izle →](https://x.com/YaReYaRu30Life/status/2060343668188569858)**
-
-**Yazar:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Kaynak:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Yayınlandı:** May 29, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 28 burada gösterilmeyen daha fazla istem
+### 🎯 32 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2992,6 +2962,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-25T06:17:00.924Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-25T09:46:08.867Z</sub>
 
 </div>

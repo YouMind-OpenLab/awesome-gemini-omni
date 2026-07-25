@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **128** |
+| 📝 Total des prompts | **132** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-07-25** |
 
@@ -56,6 +56,110 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Animation burlesque de chat et de souris
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique très détaillé pour une scène de poursuite en animation 3D, inspirée de la comédie burlesque américaine classique, mettant en scène des interactions entre personnages et une physique complexe.
+
+#### 📝 Prompt
+
+```
+Générez une animation 3D horizontale de haute qualité de 10 secondes montrant une poursuite entre un chat et une souris. Le style général est celui de la comédie burlesque américaine classique originale, avec des mouvements exagérés, un rythme soutenu et des expressions riches, sans toutefois imiter de personnages animés existants. Un chat orange rond, potelé et impatient poursuit une souris gris-brun agile et intelligente. L'animation entière utilise des plans de suivi latéraux continus avec une seule caméra, les personnages se déplaçant toujours de gauche à droite. Tous les mouvements dépendent de la vitesse, de l'inertie et des collisions pour s'enchaîner naturellement, sans coupes franches, téléportations ou pauses soudaines. Dans une cuisine rétro chaleureuse et lumineuse, la petite souris, portant un morceau de fromage, passe rapidement entre les pieds de table, saute sur un couvercle de casserole en rotation et l'utilise comme un skateboard pour glisser vers l'avant. Le couvercle heurte un rouleau incliné, et la petite souris utilise l'élan pour sauter sur la table à manger. Le chat orange suit le même chemin, marche sur le rouleau, ses pattes vacillant rapidement, son corps se balançant d'un côté à l'autre, avant de finalement sauter sur la table à manger grâce à son élan. Après avoir atterri, il percute un sac de farine, libérant un nuage de poussière blanche. Le chat orange émerge indemne du nuage de farine, tout son corps étant blanc à l'exception de ses yeux furieux. La petite souris se précipite à travers une baguette creuse et glisse de l'autre côté. Le chat orange suit de près mais reste brièvement coincé. La baguette s'étire puis se rétracte, propulsant le chat vers l'avant et réduisant à nouveau la distance avec la souris. Les deux personnages sautent simultanément de la table à manger. La petite souris atterrit sur un aspirateur robot, utilisant sa rotation pour changer de direction, puis attrape une serviette suspendue et se balance au-dessus de l'évier. Le chat orange atterrit sur le même robot, effectue un demi-tour en douceur, puis utilise son élan pour attraper le lustre, se balançant vers l'avant, ses pattes frôlant presque la queue de la souris. La petite souris atterrit devant le réfrigérateur et glisse sur le côté. Le chat orange se précipite à grande vitesse, ses membres freinant brusquement à plusieurs reprises, mais il parvient tout de même à arracher la porte du réfrigérateur sous l'effet de l'inertie. Un gâteau à la crème glisse et recouvre complètement le visage du chat. La petite souris court derrière le chat le long de sa queue, saute sur son nez, attrape la cerise sur la crème et salue triomphalement. Le chat orange fait frémir son nez deux fois, puis éternue soudainement très fort.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080925522910236672/img/Qq7W2rnPrk1LYpTJ.jpg" width="600" alt="Animation burlesque de chat et de souris">
+
+**[🎬 Voir la vidéo →](https://x.com/Cencencahya12/status/2080925688811720835)**
+
+**Auteur:** [Cencen](https://x.com/Cencencahya12) | **Source:** [Link](https://x.com/Cencencahya12/status/2080925688811720835) | **Publié:** Jul 25, 2026
+
+---
+### Vidéo d'un fleuriste arrangeant des roses
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt très descriptif pour générer une vidéo réaliste d'un fleuriste arrangeant des roses dans un vase sous la lumière naturelle du soleil.
+
+#### 📝 Prompt
+
+```
+Une fleuriste noire coupe et arrange soigneusement des roses rouges fraîches dans un vase en céramique blanc posé sur une table en bois sombre. Ses mains ajustent les tiges et les feuilles pour créer un bouquet équilibré, le centre de table floral terminé étant magnifiquement mis en valeur par la lumière chaude du soleil près de fenêtres donnant sur un jardin verdoyant.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080919216220200961/img/sdh1PmxEUtazD262.jpg" width="600" alt="Vidéo d'un fleuriste arrangeant des roses">
+
+**[🎬 Voir la vidéo →](https://x.com/iam_damayor/status/2080919280535609480)**
+
+**Auteur:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2080919280535609480) | **Publié:** Jul 25, 2026
+
+---
+### Double réalité : Aquarelle et numérique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo créatif en écran partagé pour Gemini Omni, contrastant un lac serein à l'aquarelle au lever du soleil avec un paysage urbain numérique futuriste au crépuscule.
+
+#### 📝 Prompt
+
+```
+Moitié supérieure en style aquarelle montrant un lac serein au lever du soleil, moitié inférieure en style art numérique montrant un paysage urbain futuriste au crépuscule, écran partagé.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080625015096254464/img/-o_9Bp8yhlGBMl0B.jpg" width="600" alt="Double réalité : Aquarelle et numérique">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2080625058268258343)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2080625058268258343) | **Publié:** Jul 24, 2026
+
+---
+### Storyboard ASMR LEGO Technic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un storyboard complet multi-scènes pour créer une vidéo ASMR hyperréaliste de l'assemblage d'une Lamborghini LEGO, incluant les directions de caméra et les effets sonores.
+
+#### 📝 Prompt
+
+```
+Créez un storyboard de production cinématographique professionnel pour une vidéo ASMR de 10 secondes montrant l'assemblage d'une Lamborghini Aventador LEGO Technic.
+
+La mise en page doit ressembler à un véritable storyboard de film avec 8 panneaux séquentiels disposés en deux colonnes.
+
+Chaque panneau doit contenir : • Grande image de prévisualisation cinématographique • Numéro de scène • Timecode • Direction de caméra • Description visuelle • Action • Dialogue / Voix off • Effets sonores (SFX) • Musique • Mouvement de caméra • Émotion • Transition
+
+Utilisez un design de storyboard technique noir premium avec une typographie blanche, des bordures épurées, des notes de production, des étiquettes de minutage et un style de planification cinématographique.
+
+En-tête : STORYBOARD ASMR ASSEMBLAGE LEGO LAMBORGHINI AVENTADOR Durée : 10 secondes Format : 9:16 Vertical Style : ASMR cinématographique hyperréaliste
+
+Scène 1 (0,00 à 1,20) Prise de vue macro en plongée de pièces LEGO Technic soigneusement organisées sur un tapis de travail noir. Les mains saisissent le châssis. Sons de cliquetis de plastique doux. Travelling avant lent en plongée.
+
+Scène 2 (1,20 à 2,40) Gros plan macro extrême des mains connectant l'essieu de suspension avant. Mise au point passant des doigts au connecteur. Clic satisfaisant et sonore.
+
+Scène 3 (2,40 à 3,60) Les panneaux de carrosserie bleus sont installés alors que la forme de la Lamborghini commence à apparaître. Angle macro aux trois quarts avec une orbite de caméra fluide.
+
+Scène 4 (3,60 à 4,80) Le pare-brise est installé avec le cockpit visible en dessous. La caméra pousse du pare-brise vers l'intérieur. Son de plastique sec et net.
+
+Scène 5 (4,80 à 6,00) La roue avant est fixée. Prise de vue macro de la roue en rotation. Un travelling court suit la rotation avec des sons mécaniques subtils.
+
+Scène 6 (6,00 à 7,20) Les panneaux de carrosserie arrière, le diffuseur et les feux arrière sont installés. Zoom avant lent alors que les pièces finales se verrouillent en place.
+
+Scène 7 (7,20 à 8,50) La Lamborghini terminée est délicatement déplacée sur la table. Un travelling en contre-plongée crée une révélation premium.
+
+Scène 8 (8,50 à 10,00) Plan héroïque de la Lamborghini Aventador LEGO bleue terminée sur une surface noire brillante sous un éclairage de studio bleu dramatique. Une orbite cinématographique lente se termine sur un angle aux trois quarts avant de fondu au noir.
+
+Ajoutez des notes de production professionnelles en bas, incluant : • Cohérence des personnages • Accessoires • Éclairage • Style de caméra • Ton • Style visuel
+
+Faites en sorte que le storyboard ressemble exactement à une véritable feuille de planification de production hollywoodienne avec des cadres de prévisualisation ultra-réalistes, une photographie cinématographique, des annotations techniques, une typographie premium et une qualité de prévisualisation de film haut de gamme.
+```
+
+<img src="https://cms-assets.youmind.com/media/1784970669504_y82rm8_HN9sdvtbEAEtMhQ.jpg" width="600" alt="Storyboard ASMR LEGO Technic">
+
+**[🎬 Voir la vidéo →](https://x.com/Shorelyn_/status/2080500909076107595)**
+
+**Auteur:** [Shore Lyn](https://x.com/Shorelyn_) | **Source:** [Link](https://x.com/Shorelyn_/status/2080500909076107595) | **Publié:** Jul 24, 2026
+
+---
 ### Transformation surréaliste : cracheuse de feu pour un anniversaire
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2836,119 +2940,13 @@ Génère des images en vue drone (sans montrer le drone) de cet endroit : 48°51
 **Auteur:** [Chouaieb Nemri](https://x.com/c_nemri) | **Source:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Publié:** May 31, 2026
 
 ---
-### Feuille de storyboard fantastique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt extrêmement détaillé pour générer une feuille de storyboard d'animation multi-panneaux mettant en scène une reine et son compagnon, un loup blanc.
-
-#### 📝 Prompt
-
-```
-Feuille de storyboard fantastique ultra-détaillée, « Jeune Reine & Loup Blanc », storyboard de film d'animation inspiré du Studio Ghibli, illustration de livre d'histoires à l'aquarelle premium, aventure fantastique cinématographique, concept art peint à la main, esthétique royale élégante, atmosphère de royaume enneigé, planche de pré-production d'animation professionnelle, narration de personnage hautement détaillée, mise en page de storyboard propre avec 10 panneaux cinématographiques, éclairage hivernal doux, monde fantastique magique.
-PERSONNAGES PRINCIPAUX
-Jeune Reine : Une gracieuse jeune reine âgée de 18 à 20 ans, longs cheveux châtain clair flottants, élégante couronne bleu argenté, yeux émeraude expressifs, traits du visage délicats, luxueuse robe royale d'hiver avec cape bordée de fourrure, personnalité noble et compatissante.
-Loup Blanc : Un majestueux loup blanc comme neige avec une fourrure épaisse et duveteuse, yeux bleu glacier perçants, posture noble, expression intelligente, compagnon gardien loyal.
-PANNEAUX DU STORYBOARD
-Panneau 01 — Royaume Gelé : Plan large cinématographique établissant un magnifique royaume couvert de neige à l'aube. La jeune reine se tient sur un balcon du château surplombant les montagnes et les forêts.
-Panneau 02 — La Découverte : La reine trouve un louveteau blanc blessé se reposant sous un pin enneigé au cœur de la forêt.
-Panneau 03 — Guérison et Confiance : À l'intérieur d'une chambre royale chaleureuse, la reine soigne doucement le loup tandis que la neige tombe à l'extérieur des fenêtres.
-Panneau 04 — Lien d'Amitié : Le loup a grandi et est devenu plus fort. La reine et le loup marchent ensemble à travers des jardins enneigés sous les flocons qui tombent.
-Panneau 05 — Le Voyage Commence : Le duo quitte le royaume et voyage à travers de vastes vallées gelées et des sentiers de montagne imposants.
-Panneau 06 — Aurores Boréales : La reine et le loup se tiennent ensemble sous des aurores vertes et violettes à couper le souffle illuminant le ciel nocturne.
-Panneau 07 — Ruines Anciennes : Exploration de ruines de pierre oubliées enfouies sous la neige, éclairées par des lanternes magiques et des cristaux scintillants.
-Panneau 08 — Sommet du Destin : Plan large héroïque au sommet d'un pic montagneux enneigé surplombant des paysages infinis.
-Panneau 09 — Retour des Héros : La reine et le loup retournent au royaume alors que les citoyens célèbrent leur arrivée.
-Panneau 10 — Gardiens pour Toujours : Coucher de soleil doré sur le royaume. La reine et le loup se tiennent ensemble sur un balcon du château surplombant leur domaine.
-SECTION FEUILLE DE PERSONNAGE
-Inclure :
-Vues de rotation de la reine (face, profil, dos)
-Expressions faciales de la reine
-Études détaillées de la couronne
-Références de design pour la cape et la robe
-Vues de rotation du loup blanc
-Expressions du loup
-Poses de course et poses héroïques
-Tableau de comparaison de taille
-Designs d'insignes royaux
-Nuancier de couleurs
-STYLE VISUEL
-Studio Ghibli × Disney Fantasy × Princesse Mononoké × concept art de La Reine des Neiges, textures aquarelle peintes à la main, illustrations de développement d'animation premium, composition cinématographique, narration environnementale détaillée, atmosphère fantastique émotionnelle, esthétique royale élégante, qualité chef-d'œuvre.
-PALETTE DE COULEURS
-bleu glacier, blanc argenté, bleu marine royal, lavande douce, gris hivernal, crème nacré, lumière du soleil dorée
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ecd237990dd9577b035caed3021da3f7/thumbnails/thumbnail.jpg" width="600" alt="Feuille de storyboard fantastique">
-
-**[🎬 Voir la vidéo →](https://x.com/AIwithSynthia/status/2060914385179353444)**
-
-**Auteur:** [Synthia](https://x.com/AIwithSynthia) | **Source:** [Link](https://x.com/AIwithSynthia/status/2060914385179353444) | **Publié:** May 31, 2026
-
----
-### Scène de livraison à la banque de semences de l'Arctique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt text-to-video cinématographique décrivant un conservateur dans une banque de semences arctique recevant des échantillons de plantes rares provenant d'une zone de conflit.
-
-#### 📝 Prompt
-
-```
-Créez une scène text-to-video cinématographique présentant un moment original et libre de droits où un conservateur de banque de semences, dans une installation arctique, reçoit une cargaison de graines provenant d'un jardin botanique situé dans une zone de conflit ; il s'agit des derniers spécimens vivants de dix-sept espèces végétales, évacués par un botaniste.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b65e91184c9582b151a4ae7c657c2a6d/thumbnails/thumbnail.jpg" width="600" alt="Scène de livraison à la banque de semences de l'Arctique">
-
-**[🎬 Voir la vidéo →](https://x.com/Strength04_X/status/2060748226521879021)**
-
-**Auteur:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2060748226521879021) | **Publié:** May 30, 2026
-
----
-### Animation d'image statique vers le réel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour Gemini Omni qui prend une image statique sur un écran d'ordinateur et anime un sujet qui en sort pour entrer dans le monde réel.
-
-#### 📝 Prompt
-
-```
-Commencez avec le contenu de l'écran d'ordinateur identique à celui de l'image. Donnez vie à l'oiseau : faites-le tourner la tête, sortir de la photo et sauter sur la main de la personne.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/fca7eaa900b5888e191083e4d46bddfa/thumbnails/thumbnail.jpg" width="600" alt="Animation d'image statique vers le réel">
-
-**[🎬 Voir la vidéo →](https://x.com/DiegoAlcubierre/status/2060526084681048166)**
-
-**Auteur:** [Diego Alcubierre](https://x.com/DiegoAlcubierre) | **Source:** [Link](https://x.com/DiegoAlcubierre/status/2060526084681048166) | **Publié:** May 30, 2026
-
----
-### Superposition d'interface de diffusion en direct pour vidéo
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt pour Gemini Omni permettant d'ajouter une superposition d'interface de chat en direct sur une vidéo existante tout en conservant l'intégrité du contenu original.
-
-#### 📝 Prompt
-
-```
-Ne modifiez pas la vidéo elle-même. Les personnes, l'équipement, les mouvements, l'arrière-plan, etc., doivent rester exactement tels quels. Affichez une interface de type section de commentaires de diffusion en direct sur le côté droit de la vidéo, représentant des personnes regardant la vidéo en temps réel et écrivant des commentaires. Les commentaires doivent être rédigés en japonais.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/2b4aa882ab7db0578fc087334091431c/thumbnails/thumbnail.jpg" width="600" alt="Superposition d'interface de diffusion en direct pour vidéo">
-
-**[🎬 Voir la vidéo →](https://x.com/YaReYaRu30Life/status/2060343668188569858)**
-
-**Auteur:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Source:** [Link](https://x.com/YaReYaRu30Life/status/2060343668188569858) | **Publié:** May 29, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 28 prompts supplémentaires non affichés ici
+### 🎯 32 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2994,6 +2992,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-25T06:16:57.827Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-25T09:46:03.935Z</sub>
 
 </div>
