@@ -75,11 +75,11 @@ Generate a 10-second high-quality horizontal 3D cartoon cat and mouse chase anim
 **Author:** [Cencen](https://x.com/Cencencahya12) | **Source:** [Link](https://x.com/Cencencahya12/status/2080925688811720835) | **Published:** Jul 25, 2026
 
 ---
-### Florist Arranging Roses Video
+### Florist Arranging Roses in Sunlight
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly descriptive prompt for generating a realistic video of a florist arranging roses in a vase under natural sunlight.
+> A cinematic video prompt featuring a florist carefully preparing red roses in a sunlit room, focusing on hand movements and natural lighting.
 
 #### 📝 Prompt
 
@@ -87,7 +87,7 @@ Generate a 10-second high-quality horizontal 3D cartoon cat and mouse chase anim
 A black woman florist carefully trims and arranges fresh red roses into a white ceramic vase on a dark wooden table. The hands adjust the stems and leaves to create a balanced bouquet, with the finished floral centerpiece displayed beautifully in warm sunlight near windows overlooking a lush green garden.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080919216220200961/img/sdh1PmxEUtazD262.jpg" width="600" alt="Florist Arranging Roses Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2080919216220200961/img/sdh1PmxEUtazD262.jpg" width="600" alt="Florist Arranging Roses in Sunlight">
 
 **[🎬 Watch Video →](https://x.com/iam_damayor/status/2080919280535609480)**
 
@@ -3127,6 +3127,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T06:35:10.687Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-26T09:57:54.035Z</sub>
 
 </div>
