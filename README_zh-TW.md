@@ -48,7 +48,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 |--------|-------|
 | 📝 提示詞總數 | **132** |
 | ⭐ 精選提示詞 | **0** |
-| 🔄 最後更新 | **2026-07-26** |
+| 🔄 最後更新 | **2026-07-27** |
 
 ---
 
@@ -2999,6 +2999,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-26T20:56:32.234Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-27T02:47:44.193Z</sub>
 
 </div>
