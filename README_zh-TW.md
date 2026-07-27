@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **132** |
+| 📝 提示詞總數 | **136** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-07-27** |
 
@@ -56,6 +56,88 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 微距虹彩蜂蜜 ASMR 影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份詳細的 10 秒影片提示詞，用於創作蜂蜜滴在玻璃上並呈現真實反射效果的微距電影感 ASMR 鏡頭。
+
+#### 📝 提示詞
+
+```
+超微距電影感 ASMR 影片，10 秒。透明水晶蜂巢緩慢地將虹彩蜂蜜滴在玻璃盤上。細小的彩虹反射在表面跳動。極致特寫，淺景深，4K 真實感。ASMR 音效：濃稠蜂蜜拉絲、細膩水滴落下、微妙的玻璃共鳴、柔和的環境靜謐感。流暢的慢動作運鏡，令人著迷且放鬆。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="微距虹彩蜂蜜 ASMR 影片">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2081634357060726896)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **發布時間:** Jul 27, 2026
+
+---
+### 奢華腕錶廣告拍攝清單
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份詳細的分鏡提示詞，用於製作專業的奢華產品廣告，包含微距角度、流暢的鏡頭旋轉以及精確的燈光描述。
+
+#### 📝 提示詞
+
+```
+極致微距拍攝錶盤，捕捉秒針掃過的瞬間
+
+緩慢旋轉鏡頭掠過拋光錶殼，呈現邊緣光效果
+
+強光側拍錶冠與計時按鈕
+
+固定式俯視特寫鏡頭作為結尾
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="奢華腕錶廣告拍攝清單">
+
+**[🎬 觀看視頻 →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
+
+**作者:** [Hex Horizon](https://x.com/Noderunner_Hex) | **來源:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **發布時間:** Jul 26, 2026
+
+---
+### 皮克斯風格 3D 咖啡廣告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份針對皮克斯風格 3D 咖啡廣告的綜合影片提示詞，詳細說明了從藍調時刻到黃金時刻的轉場，以及角色一致性的相關提示。
+
+#### 📝 提示詞
+
+```
+10 秒，9:16 皮克斯風格 3D Da Mayor Coffee 廣告。年輕女性，小麥色肌膚，深色及肩波浪捲髮，身穿寬鬆米色針織毛衣，戴著金戒指 — 在黎明前的藍調時刻走上屋頂，手持炭灰色外帶杯，熱氣在發光的城市天際線上繚繞（注意）。啜飲，閉上雙眼（興趣）。天空泛起發光的青色星座漣漪，雙眼因驚嘆而睜大 — 揭示/高潮（慾望）。星光消散轉為金色的日出，對著鏡頭露出自信微笑；英雄鏡頭 + 杯子特寫（牛皮紙杯套，銀色 Da Mayor 星爆圖示，「Da Mayor」商標字樣，白色圓頂杯蓋），品牌標誌定格，標語「Da Mayor Coffee. Wake up to something bigger」旁白（行動）。每一幀保持角色與杯子設計一致，無偏差；表情從睡眼惺忪轉為驚嘆再轉為溫暖。燈光：靛藍色藍調時刻 → 青色光暈 → 3200K 黃金時刻，體積光。攝影：推軌鏡頭 → 環繞鏡頭 → 低角度仰拍揭示 → 英雄環繞/特寫鏡頭，無手持感/變速。聲音：環境音在揭示時轉為管弦樂高潮，溫暖的結尾，熱氣/呼吸/啜飲的擬音，定格時加入旁白。Octane 渲染品質，次表面散射，8K 紋理，電影級景深，底片顆粒感 — 奇幻、高級、全動畫呈現
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="皮克斯風格 3D 咖啡廣告">
+
+**[🎬 觀看視頻 →](https://x.com/iam_damayor/status/2081448072706723933)**
+
+**作者:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **來源:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **發布時間:** Jul 26, 2026
+
+---
+### 高能量健身氣泡飲廣告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個高品質的健身氣泡飲廣告影片提示詞，運用 AIDA 架構描述運動後的恢復場景，並結合產品微距鏡頭與電光藍視覺特效。
+
+#### 📝 提示詞
+
+```
+一位 20 多歲的黑人女性，留著捲曲的高髮髻，身穿炭灰色背心與黑色緊身褲，手持毛巾並佩戴智慧手錶，運動後坐在健身房長椅上（引起注意）。打開罐裝飲料，水珠凝結的罐身發出嘶嘶聲（引發興趣）。飲用後閉上雙眼，肩膀放鬆，電光藍色的光芒籠罩全身，展現舒緩感（產生慾望/高潮）。對鏡頭微笑，隨後切換至英雄鏡頭與海軍藍/銀色「Mayor's Soda」罐身的微距美感特寫，展示皇冠圖示、Logo 與標語「Mayor's Soda. Refresh the win」的旁白（採取行動）。每一幀畫面需保持角色與罐身設計一致，無偏差。採用 5200-5800K 清晰的健身房燈光，冷色調反射，舒緩時刻帶有藍色光暈。攝影：推軌鏡頭 → 環繞鏡頭 → 微距鏡頭。音效：合成器襯底音樂、開罐嘶嘶聲、溫暖的音效漸強，最後搭配旁白。Octane 等級渲染，次表面散射，8K 紋理。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="高能量健身氣泡飲廣告">
+
+**[🎬 觀看視頻 →](https://x.com/iam_damayor/status/2081379499262746808)**
+
+**作者:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **來源:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **發布時間:** Jul 26, 2026
+
+---
 ### 滑稽貓鼠動畫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2871,89 +2953,13 @@ POV：你是一隻正在逃離家貓追捕的小老鼠。超逼真第一人稱�
 **作者:** [Shah](https://x.com/ai_with_shah) | **來源:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **發布時間:** Jun 1, 2026
 
 ---
-### Chrome Marble Chain Reaction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個精密的提示詞，用於製作一段連續、流暢的影片鏡頭，展示一顆鍍鉻彈珠在野獸派藝廊中穿梭，並附帶複雜的物理與工程標籤。
-
-#### 📝 提示詞
-
-```
-連續流暢的鏡頭。10 秒。一顆鍍鉻彈珠在野獸派混凝土藝廊內，穿梭於一台極其複雜的連鎖反應裝置中。攝影機以單一無縫的動作緊跟在彈珠後方。彈珠觸發了磁力槓桿、水力渦輪、懸浮骨牌、陀螺儀環、電漿弧以及反重力坡道。每一次反應都感覺符合物理定律且具備因果關聯。當機制啟動時，柔和的白色工程圖標籤會短暫出現在旁邊。極致乾淨的工業照明，帶有戲劇性的反射效果。音效與撞擊及移動緊密同步：金屬敲擊聲、伺服馬達聲、磁脈衝聲、彈珠撞擊聲，以及逐漸升高的管弦樂張力。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="Chrome Marble Chain Reaction">
-
-**[🎬 觀看視頻 →](https://x.com/HBCoop_/status/2061095417886990555)**
-
-**作者:** [Heather Cooper](https://x.com/HBCoop_) | **來源:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **發布時間:** May 31, 2026
-
----
-### 擬人化戴冠黑貓
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個視覺豐富的提示詞，用於描繪在陰鬱的黑色電影風格花園場景中的擬人化貓咪角色。
-
-#### 📝 提示詞
-
-```
-一隻神秘的擬人化貓咪靜靜地坐著，頭戴皇冠，身披深色陰影長袍。場景位於月光下的花園，四周佈滿枯萎的櫻花，並採用戲劇性的黑色電影燈光，呈現出強烈的對比與陰鬱的氛圍。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="擬人化戴冠黑貓">
-
-**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2061068717937860647)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **發布時間:** May 31, 2026
-
----
-### 影音動作同步
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份用於將角色動作與影片中特定音效進行同步的詳細技術提示詞。
-
-#### 📝 提示詞
-
-```
-角色舉手執行標準的敲門動作，敲擊動作需與對應的敲門音效即時且同步地吻合，確保動作與音效在時間軸上精準對齊，並在契合度上呈現自然協調的效果。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="影音動作同步">
-
-**[🎬 觀看視頻 →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
-
-**作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **來源:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **發布時間:** May 31, 2026
-
----
-### GPS 座標無人機視角
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個使用精確經緯度座標，為巴黎生成準確無人機視角影像的提示詞。
-
-#### 📝 提示詞
-
-```
-生成此地點的無人機視角影像（不包含無人機本身）：48°51′23.8″N 2°21′08.0″E
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="GPS 座標無人機視角">
-
-**[🎬 觀看視頻 →](https://x.com/c_nemri/status/2061007691166667057)**
-
-**作者:** [Chouaieb Nemri](https://x.com/c_nemri) | **來源:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **發布時間:** May 31, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 32 更多提示詞未在此顯示
+### 🎯 36 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2999,6 +3005,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-27T07:28:58.205Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-27T11:18:55.733Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **132** |
+| 📝 Total Prompts | **136** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-27** |
 
@@ -56,6 +56,88 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Macro Iridescent Honey ASMR Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed 10-second video prompt for creating a macro cinematic ASMR shot of honey dripping onto glass with realistic reflections.
+
+#### 📝 Prompt
+
+```
+Ultra-macro cinematic ASMR video, 10 seconds. A transparent crystal honeycomb slowly drips iridescent honey onto a glass plate. Tiny rainbow reflections dance across the surface. Extreme close-up, shallow depth of field, 4K realism. ASMR sounds: thick honey stretching, delicate droplets landing, subtle glass resonance, soft ambient silence. Smooth slow-motion camera movement, mesmerizing and relaxing.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Macro Iridescent Honey ASMR Video">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2081634357060726896)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **Published:** Jul 27, 2026
+
+---
+### Luxury Watch Commercial Shot List
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed shot-by-shot prompt for creating professional luxury product advertisements, featuring macro angles, smooth camera rotations, and precise lighting descriptions.
+
+#### 📝 Prompt
+
+```
+extreme macro on the dial as the second hand sweeps in
+
+a slow rotation across the polished case with rim lighting
+
+a hard-lit side shot on the crown and pushers
+
+a locked top-down hero shot to close
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="Luxury Watch Commercial Shot List">
+
+**[🎬 Watch Video →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
+
+**Author:** [Hex Horizon](https://x.com/Noderunner_Hex) | **Source:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **Published:** Jul 26, 2026
+
+---
+### Pixar-Style 3D Coffee Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video prompt for a stylized 3D coffee commercial with Pixar-like aesthetics, detailing specific transitions from blue-hour lighting to golden hour and character consistency cues.
+
+#### 📝 Prompt
+
+```
+10s, 9:16 stylized Pixar-style 3D commercial for Da Mayor Coffee. Young woman, tan skin, dark shoulder-length waves, oversized cream knit sweater, gold ring — steps onto rooftop at pre-dawn blue hour with charcoal to-go cup, steam curling over glowing skyline (Attention). Sips, eyes closed (Interest). Sky ripples into glowing cyan constellations, eyes wide with wonder — reveal/peak (Desire). Stars dissolve into golden sunrise, confident smile to camera; hero shot + beauty pass on cup (kraft sleeve, silver Da Mayor-burst icon, "Da Mayor" wordmark, white dome lid), logo lockup, tagline "Da Mayor Coffee. Wake up to something bigger" VO (Action). Same character/cup design every frame, no drift; expression shifts sleepy→awe→warm. Lighting: indigo blue-hour → cyan bloom → 3200K golden hour, volumetric glow. Camera: push-in → orbit → low-angle tilt-up reveal → hero orbit/beauty pass, no handheld/speed ramps. Sound: ambient tone rising into orchestral swell at reveal, warm resolve, steam/breath/sip foley, VO on lockup. Octane-quality, subsurface scattering, 8K textures, cinematic DOF, film grain — wondrous, premium, fully animated
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="Pixar-Style 3D Coffee Commercial">
+
+**[🎬 Watch Video →](https://x.com/iam_damayor/status/2081448072706723933)**
+
+**Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Published:** Jul 26, 2026
+
+---
+### High-Energy Fitness Soda Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-quality video prompt for a fitness soda commercial, using the AIDA framework to describe a post-workout recovery scene with macro product shots and electric blue visual effects.
+
+#### 📝 Prompt
+
+```
+Black woman, late 20s, coily high-puff bun, charcoal tank, black leggings, towel, smartwatch — sits post-workout on gym bench (Attention). Cracks open condensation-beaded can, fizz visible (Interest). Drinks; eyes close, shoulders drop, electric-blue glow washes over her in relief (Desire/peak). Smiles to camera, then hero shot + macro beauty pass on navy/silver "Mayor's Soda" can, crown icon, logo lockup, tagline "Mayor's Soda. Refresh the win" VO (Action). Same character/can design every frame, no drift. Crisp 5200-5800K gym light, cool reflections, blue bloom on relief beat. Camera: push-ins → orbit → macro. Sound: synth pad, crack/fizz, warm swell, VO on lockup. Octane-quality render, subsurface scattering, 8K textures.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="High-Energy Fitness Soda Commercial">
+
+**[🎬 Watch Video →](https://x.com/iam_damayor/status/2081379499262746808)**
+
+**Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **Published:** Jul 26, 2026
+
+---
 ### Slapstick Cat and Mouse Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2999,89 +3081,13 @@ Yet somehow it feels completely real
 **Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Published:** Jun 1, 2026
 
 ---
-### Chrome Marble Chain Reaction Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex text-to-video prompt for a continuous 10-second shot following a marble through a chain-reaction machine in a brutalist gallery.
-
-#### 📝 Prompt
-
-```
-Continuous smooth shot. 10 seconds. A chrome marble races through an impossibly complex chain-reaction machine inside a brutalist concrete gallery. Camera follows directly behind the marble in one seamless motion. The marble triggers magnetic levers, water turbines, suspended dominoes, gyroscopic rings, plasma arcs, and gravity-defying ramps. Every reaction feels physically accurate and causally connected. Soft white engineering diagram labels appear briefly beside mechanisms as they activate. Hyper-clean industrial lighting with dramatic reflections. Audio synced tightly to impacts and movement: metallic clicks, servo motors, magnetic pulses, marble impacts, rising orchestral tension.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="Chrome Marble Chain Reaction Video">
-
-**[🎬 Watch Video →](https://x.com/HBCoop_/status/2061095417886990555)**
-
-**Author:** [Heather Cooper](https://x.com/HBCoop_) | **Source:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **Published:** May 31, 2026
-
----
-### Anthropomorphic Royal Cat Noir
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic and moody video prompt featuring a crowned cat in a withered cherry blossom garden under noir lighting.
-
-#### 📝 Prompt
-
-```
-A mysterious, anthropomorphic cat sits silently wearing a crown and dark shadowy robes in a moonlit garden filled with withered cherry blossoms under dramatic noir lighting with deep contrasts and moody shadows.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="Anthropomorphic Royal Cat Noir">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2061068717937860647)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **Published:** May 31, 2026
-
----
-### Synchronized Sound and Motion Knocking
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A functional prompt designed to test and demonstrate the synchronization between audio sound effects and visual character actions.
-
-#### 📝 Prompt
-
-```
-The character raises their hand to perform a standard knocking action, with the knocking motion instantly and synchronously matching the corresponding knocking sound effect, ensuring that the action and sound effect are time-aligned and naturally coordinated in terms of fit.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="Synchronized Sound and Motion Knocking">
-
-**[🎬 Watch Video →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
-
-**Author:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Source:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **Published:** May 31, 2026
-
----
-### Drone POV from GPS Coordinates
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt that uses precise GPS coordinates to generate aerial drone footage of a specific location, specifically Paris.
-
-#### 📝 Prompt
-
-```
-Generate drone view footage (without representing the drone) of this place 48°51′23.8″N 2°21′08.0″E
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="Drone POV from GPS Coordinates">
-
-**[🎬 Watch Video →](https://x.com/c_nemri/status/2061007691166667057)**
-
-**Author:** [Chouaieb Nemri](https://x.com/c_nemri) | **Source:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Published:** May 31, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 32 more prompts not shown here
+### 🎯 36 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3127,6 +3133,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T07:28:56.293Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-27T11:18:53.201Z</sub>
 
 </div>

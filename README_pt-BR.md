@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **132** |
+| 📝 Total de prompts | **136** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-27** |
 
@@ -56,6 +56,88 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vídeo ASMR de Mel Iridescente em Macro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico detalhado de 10 segundos para criar uma cena ASMR macro de mel escorrendo sobre vidro com reflexos realistas.
+
+#### 📝 Prompt
+
+```
+Vídeo ASMR cinematográfico ultra-macro, 10 segundos. Um favo de mel de cristal transparente deixa escorrer lentamente mel iridescente sobre uma placa de vidro. Pequenos reflexos de arco-íris dançam pela superfície. Close-up extremo, profundidade de campo rasa, realismo em 4K. Sons ASMR: mel espesso esticando, gotas delicadas caindo, ressonância sutil do vidro, silêncio ambiente suave. Movimento de câmera em câmera lenta fluido, hipnotizante e relaxante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Vídeo ASMR de Mel Iridescente em Macro">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2081634357060726896)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **Publicado:** Jul 27, 2026
+
+---
+### Lista de Tomadas para Comercial de Relógios de Luxo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado, cena a cena, para a criação de anúncios profissionais de produtos de luxo, apresentando ângulos macro, rotações suaves de câmera e descrições precisas de iluminação.
+
+#### 📝 Prompt
+
+```
+macro extremo no mostrador enquanto o ponteiro dos segundos desliza
+
+uma rotação lenta pela caixa polida com iluminação de contorno
+
+um plano lateral com iluminação intensa na coroa e nos botões
+
+um plano hero estático de cima para baixo para encerrar
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="Lista de Tomadas para Comercial de Relógios de Luxo">
+
+**[🎬 Assistir vídeo →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
+
+**Autor:** [Hex Horizon](https://x.com/Noderunner_Hex) | **Fonte:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **Publicado:** Jul 26, 2026
+
+---
+### Comercial de café em 3D estilo Pixar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo abrangente para um comercial de café em 3D estilizado com estética semelhante à da Pixar, detalhando transições específicas da iluminação da hora azul para a hora dourada e dicas de consistência de personagem.
+
+#### 📝 Prompt
+
+```
+10s, 9:16 comercial em 3D estilizado estilo Pixar para o Da Mayor Coffee. Jovem mulher, pele bronzeada, cabelos escuros ondulados na altura dos ombros, suéter de tricô creme oversized, anel de ouro — pisa em um terraço durante a hora azul do pré-amanhecer com um copo de café para viagem, vapor subindo sobre o horizonte brilhante (Atenção). Bebe um gole, olhos fechados (Interesse). O céu ondula em constelações ciano brilhantes, olhos arregalados de admiração — revelação/pico (Desejo). As estrelas se dissolvem no nascer do sol dourado, sorriso confiante para a câmera; hero shot + beauty pass no copo (luva de papel kraft, ícone de explosão prateado do Da Mayor, logotipo "Da Mayor", tampa branca), encerramento com logo, slogan "Da Mayor Coffee. Wake up to something bigger" VO (Ação). Mesmo design de personagem/copo em todos os quadros, sem desvio; expressões mudam de sonolenta → maravilhada → calorosa. Iluminação: azul índigo da hora azul → brilho ciano → hora dourada 3200K, brilho volumétrico. Câmera: push-in → órbita → tilt-up de ângulo baixo para revelação → órbita hero/beauty pass, sem câmera na mão/acelerações. Som: tom ambiente subindo para um crescendo orquestral na revelação, resolução calorosa, foley de vapor/respiração/gole, VO no encerramento. Qualidade Octane, subsurface scattering, texturas 8K, profundidade de campo cinematográfica, granulação de filme — maravilhoso, premium, totalmente animado
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="Comercial de café em 3D estilo Pixar">
+
+**[🎬 Assistir vídeo →](https://x.com/iam_damayor/status/2081448072706723933)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Publicado:** Jul 26, 2026
+
+---
+### Comercial de Refrigerante Fitness de Alta Energia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de alta qualidade para um comercial de refrigerante fitness, utilizando o framework AIDA para descrever uma cena de recuperação pós-treino com closes macro do produto e efeitos visuais em azul elétrico.
+
+#### 📝 Prompt
+
+```
+Mulher negra, final dos 20 anos, coque alto e crespo, regata cinza-chumbo, leggings pretas, toalha, smartwatch — sentada após o treino em um banco de academia (Atenção). Abre a lata com gotas de condensação, efervescência visível (Interesse). Bebe; olhos se fecham, ombros relaxam, um brilho azul elétrico a envolve em alívio (Desejo/auge). Sorri para a câmera, seguido de um hero shot + close macro na lata azul-marinho/prata "Mayor's Soda", ícone de coroa, logo, tagline "Mayor's Soda. Refresh the win" em locução (Ação). Mesma personagem/design de lata em todos os quadros, sem distorção. Iluminação de academia nítida de 5200-5800K, reflexos frios, efeito bloom azul no momento de alívio. Câmera: push-in → órbita → macro. Som: synth pad, som de abertura/efervescência, subida de tom calorosa, locução no encerramento. Renderização com qualidade Octane, espalhamento subsuperficial, texturas em 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="Comercial de Refrigerante Fitness de Alta Energia">
+
+**[🎬 Assistir vídeo →](https://x.com/iam_damayor/status/2081379499262746808)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **Publicado:** Jul 26, 2026
+
+---
 ### Animação de perseguição estilo 'Slapstick' entre gato e rato
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2864,89 +2946,13 @@ Mas que, de alguma forma, parece completamente real
 **Autor:** [Shah](https://x.com/ai_with_shah) | **Fonte:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Publicado:** Jun 1, 2026
 
 ---
-### Reação em Cadeia de Esfera Cromada
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt sofisticado para uma tomada de vídeo contínua e fluida de uma esfera cromada navegando por uma galeria brutalista com física complexa e etiquetas de engenharia.
-
-#### 📝 Prompt
-
-```
-Tomada contínua e fluida. 10 segundos. Uma esfera cromada corre através de uma máquina de reação em cadeia impossivelmente complexa dentro de uma galeria de concreto brutalista. A câmera segue diretamente atrás da esfera em um movimento contínuo. A esfera aciona alavancas magnéticas, turbinas de água, dominós suspensos, anéis giroscópicos, arcos de plasma e rampas que desafiam a gravidade. Cada reação parece fisicamente precisa e causalmente conectada. Etiquetas de diagramas de engenharia em branco suave aparecem brevemente ao lado dos mecanismos conforme eles são ativados. Iluminação industrial hiper-limpa com reflexos dramáticos. Áudio sincronizado precisamente com os impactos e movimentos: cliques metálicos, servomotores, pulsos magnéticos, impactos da esfera, tensão orquestral crescente.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="Reação em Cadeia de Esfera Cromada">
-
-**[🎬 Assistir vídeo →](https://x.com/HBCoop_/status/2061095417886990555)**
-
-**Autor:** [Heather Cooper](https://x.com/HBCoop_) | **Fonte:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **Publicado:** May 31, 2026
-
----
-### Gato Noir Antropomórfico com Coroa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt visualmente denso para um personagem gato antropomórfico em um cenário de jardim com iluminação noir melancólica.
-
-#### 📝 Prompt
-
-```
-Um gato antropomórfico misterioso senta-se silenciosamente usando uma coroa e mantos escuros e sombrios em um jardim iluminado pelo luar, repleto de flores de cerejeira murchas sob uma iluminação noir dramática com contrastes profundos e sombras melancólicas.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="Gato Noir Antropomórfico com Coroa">
-
-**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2061068717937860647)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **Publicado:** May 31, 2026
-
----
-### Sincronização de Ação Audiovisual
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt técnico detalhado para sincronizar ações de personagens com efeitos sonoros específicos em vídeos.
-
-#### 📝 Prompt
-
-```
-O personagem levanta a mão para realizar uma ação padrão de bater, com o movimento de batida correspondendo instantânea e sincronizadamente ao efeito sonoro de batida, garantindo que a ação e o efeito sonoro estejam alinhados no tempo e naturalmente coordenados em termos de ajuste.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="Sincronização de Ação Audiovisual">
-
-**[🎬 Assistir vídeo →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
-
-**Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fonte:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **Publicado:** May 31, 2026
-
----
-### Vista de Drone com Coordenadas GPS
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt que utiliza coordenadas precisas de latitude e longitude para gerar imagens precisas de Paris sob a perspectiva de um drone.
-
-#### 📝 Prompt
-
-```
-Gere imagens com vista de drone (sem representar o drone) deste local 48°51′23.8″N 2°21′08.0″E
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="Vista de Drone com Coordenadas GPS">
-
-**[🎬 Assistir vídeo →](https://x.com/c_nemri/status/2061007691166667057)**
-
-**Autor:** [Chouaieb Nemri](https://x.com/c_nemri) | **Fonte:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Publicado:** May 31, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 32 mais prompts não mostrados aqui
+### 🎯 36 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2992,6 +2998,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-27T07:29:10.969Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-27T11:19:09.251Z</sub>
 
 </div>

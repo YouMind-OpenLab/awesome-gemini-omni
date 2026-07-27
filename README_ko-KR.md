@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **132** |
+| 📝 총 프롬프트 수 | **136** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-27** |
 
@@ -56,6 +56,88 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 매크로 무지갯빛 꿀 ASMR 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 유리 위로 떨어지는 꿀의 사실적인 반사를 담은 매크로 시네마틱 ASMR 영상을 제작하기 위한 10초 분량의 상세 영상 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+초매크로 시네마틱 ASMR 영상, 10초. 투명한 크리스털 벌집에서 무지갯빛 꿀이 유리 접시 위로 천천히 떨어집니다. 표면 위로 작은 무지개 빛 반사가 일렁입니다. 극단적인 클로즈업, 얕은 피사계 심도, 4K 리얼리즘. ASMR 사운드: 꿀이 끈적하게 늘어나는 소리, 섬세한 물방울이 떨어지는 소리, 은은한 유리 공명음, 부드러운 주변의 정적. 매끄러운 슬로우 모션 카메라 무빙, 매혹적이고 편안한 분위기.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="매크로 무지갯빛 꿀 ASMR 영상">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2081634357060726896)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **게시일:** Jul 27, 2026
+
+---
+### 럭셔리 시계 광고 촬영 리스트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 매크로 앵글, 부드러운 카메라 회전, 정밀한 조명 묘사를 포함하여 전문적인 럭셔리 제품 광고를 제작하기 위한 상세한 샷별 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+초침이 움직이는 다이얼의 익스트림 매크로 샷
+
+림 라이트를 활용하여 광택이 나는 케이스를 가로지르는 느린 회전 샷
+
+크라운과 푸셔를 강조하는 강한 측면 조명 샷
+
+마무리로 시계 전체를 보여주는 고정된 탑다운 히어로 샷
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="럭셔리 시계 광고 촬영 리스트">
+
+**[🎬 비디오 보기 →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
+
+**작성자:** [Hex Horizon](https://x.com/Noderunner_Hex) | **출처:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **게시일:** Jul 26, 2026
+
+---
+### 픽사 스타일 3D 커피 광고
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 픽사 스타일의 미학을 담은 스타일리시한 3D 커피 광고를 위한 종합적인 비디오 프롬프트입니다. 블루 아워 조명에서 골든 아워로의 구체적인 전환과 캐릭터 일관성 유지 방법을 상세히 설명합니다.
+
+#### 📝 프롬프트
+
+```
+10초, 9:16 비율의 스타일리시한 픽사 스타일 3D Da Mayor Coffee 광고. 구릿빛 피부, 어깨까지 오는 어두운 웨이브 머리, 오버사이즈 크림색 니트 스웨터, 금반지를 착용한 젊은 여성이 새벽 블루 아워에 숯색 테이크아웃 컵을 들고 옥상으로 올라온다. 빛나는 도시의 스카이라인 위로 김이 모락모락 피어오른다 (주의). 한 모금 마시고 눈을 감는다 (흥미). 하늘이 빛나는 청록색 별자리로 물결치고, 경이로움에 눈이 커진다 — 반전/절정 (욕구). 별들이 황금빛 일출로 녹아들고, 카메라를 향해 자신감 있는 미소를 짓는다. 제품 히어로 샷 및 뷰티 패스 (크라프트 슬리브, 은색 Da Mayor 버스트 아이콘, "Da Mayor" 워드마크, 흰색 돔 뚜껑), 로고 고정, 태그라인 "Da Mayor Coffee. Wake up to something bigger" 성우 내레이션 (행동). 모든 프레임에서 동일한 캐릭터 및 컵 디자인 유지, 흔들림 없음. 표정 변화: 졸림 → 경이로움 → 따뜻함. 조명: 인디고 블루 아워 → 청록색 블룸 → 3200K 골든 아워, 볼류메트릭 글로우. 카메라: 푸시 인 → 오빗 → 로우 앵글 틸트 업 리빌 → 히어로 오빗/뷰티 패스, 핸드헬드 및 속도 램프 효과 없음. 사운드: 반전 시 오케스트라 사운드가 고조되는 앰비언트 톤, 따뜻한 마무리, 김/숨소리/마시는 소리 폴리 효과, 로고 고정 시 성우 내레이션. 옥테인 퀄리티, 서브서피스 스캐터링, 8K 텍스처, 영화적 심도(DOF), 필름 그레인 — 경이롭고 프리미엄하며 완벽하게 애니메이션화된 영상
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="픽사 스타일 3D 커피 광고">
+
+**[🎬 비디오 보기 →](https://x.com/iam_damayor/status/2081448072706723933)**
+
+**작성자:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **출처:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **게시일:** Jul 26, 2026
+
+---
+### 고에너지 피트니스 소다 광고
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> AIDA 프레임워크를 활용하여 운동 후 회복 장면, 매크로 제품 샷, 일렉트릭 블루 시각 효과를 묘사한 고품질 피트니스 소다 광고용 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+20대 후반의 흑인 여성, 곱슬머리를 높게 묶은 번 헤어, 차콜색 탱크탑, 검은색 레깅스, 수건, 스마트워치 착용 — 운동 후 헬스장 벤치에 앉아 있음 (Attention). 이슬이 맺힌 캔을 따고 탄산 기포가 보임 (Interest). 음료를 마시자 눈을 감고 어깨가 내려가며, 안도감과 함께 일렉트릭 블루 빛이 감돔 (Desire/peak). 카메라를 보며 미소, 이후 네이비/실버 색상의 "Mayor's Soda" 캔에 대한 히어로 샷 + 매크로 뷰티 컷, 왕관 아이콘, 로고 배치, 태그라인 "Mayor's Soda. Refresh the win" 성우 내레이션 (Action). 모든 프레임에서 동일한 캐릭터와 캔 디자인 유지, 일관성 유지. 5200-5800K의 선명한 헬스장 조명, 차가운 반사광, 안도감을 주는 순간의 블루 블룸 효과. 카메라: 푸시인 → 궤도 이동 → 매크로. 사운드: 신디사이저 패드, 캔 따는 소리/탄산 소리, 따뜻하게 고조되는 음악, 마지막 로고 등장 시 성우 내레이션. 옥테인(Octane)급 렌더링, 서브서피스 스캐터링, 8K 텍스처.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="고에너지 피트니스 소다 광고">
+
+**[🎬 비디오 보기 →](https://x.com/iam_damayor/status/2081379499262746808)**
+
+**작성자:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **출처:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **게시일:** Jul 26, 2026
+
+---
 ### 슬랩스틱 고양이와 쥐 애니메이션
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2858,89 +2940,13 @@ POV: 당신은 집고양이를 피해 도망치는 작은 쥐입니다. 초현�
 **작성자:** [Shah](https://x.com/ai_with_shah) | **출처:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **게시일:** Jun 1, 2026
 
 ---
-### 크롬 구슬 연쇄 반응
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 브루탈리즘 양식의 갤러리를 통과하는 크롬 구슬의 연속적이고 매끄러운 영상 촬영을 위한 정교한 프롬프트로, 복잡한 물리 법칙과 엔지니어링 라벨이 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-끊김 없이 매끄러운 샷. 10초 분량. 브루탈리즘 양식의 콘크리트 갤러리 내부에서 크롬 구슬이 믿을 수 없을 만큼 복잡한 연쇄 반응 장치를 통과하며 질주합니다. 카메라는 하나의 매끄러운 동작으로 구슬의 바로 뒤를 따라갑니다. 구슬은 자기 레버, 수력 터빈, 공중에 매달린 도미노, 자이로스코프 링, 플라즈마 아크, 중력을 거스르는 경사로를 작동시킵니다. 모든 반응은 물리적으로 정확하며 인과 관계가 분명하게 느껴집니다. 장치가 작동할 때마다 그 옆에 부드러운 흰색의 엔지니어링 도표 라벨이 짧게 나타납니다. 극적인 반사가 돋보이는 매우 깔끔한 산업용 조명. 오디오는 충격 및 움직임과 긴밀하게 동기화되어 금속성 클릭 소리, 서보 모터, 자기 펄스, 구슬이 부딪히는 소리, 고조되는 오케스트라의 긴장감이 포함됩니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="크롬 구슬 연쇄 반응">
-
-**[🎬 비디오 보기 →](https://x.com/HBCoop_/status/2061095417886990555)**
-
-**작성자:** [Heather Cooper](https://x.com/HBCoop_) | **출처:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **게시일:** May 31, 2026
-
----
-### 의인화된 왕관을 쓴 느와르 고양이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 분위기 있는 느와르풍 정원을 배경으로 한 의인화된 고양이 캐릭터를 위한 시각적으로 밀도 높은 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-달빛이 비치는 정원에 시든 벚꽃이 가득한 가운데, 왕관과 어두운 그림자 로브를 걸친 신비로운 의인화 고양이가 조용히 앉아 있습니다. 강렬한 느와르 조명 아래 깊은 대비와 분위기 있는 그림자가 돋보이는 장면입니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="의인화된 왕관을 쓴 느와르 고양이">
-
-**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2061068717937860647)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **게시일:** May 31, 2026
-
----
-### 시청각 동작 동기화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 영상 내 특정 효과음과 캐릭터의 동작을 동기화하기 위한 상세 기술 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-캐릭터가 손을 들어 표준적인 노크 동작을 수행하며, 노크 동작이 해당 노크 효과음과 즉각적이고 동기화되게 일치하도록 하여 동작과 효과음이 시간적으로 정렬되고 자연스럽게 어우러지도록 합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="시청각 동작 동기화">
-
-**[🎬 비디오 보기 →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
-
-**작성자:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **출처:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **게시일:** May 31, 2026
-
----
-### GPS 좌표 드론 뷰
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 정밀한 위도 및 경도 좌표를 사용하여 파리의 정확한 드론 시점 영상을 생성하는 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-48°51′23.8″N 2°21′08.0″E 위치의 드론 뷰 영상을 생성해 줘 (드론 기체는 보이지 않게 처리)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="GPS 좌표 드론 뷰">
-
-**[🎬 비디오 보기 →](https://x.com/c_nemri/status/2061007691166667057)**
-
-**작성자:** [Chouaieb Nemri](https://x.com/c_nemri) | **출처:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **게시일:** May 31, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 32 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 36 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2986,6 +2992,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-27T07:29:01.501Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-27T11:18:58.009Z</sub>
 
 </div>

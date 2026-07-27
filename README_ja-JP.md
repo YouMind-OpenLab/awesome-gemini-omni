@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **132** |
+| 📝 プロンプト総数 | **136** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-07-27** |
 
@@ -56,6 +56,88 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### マクロ虹色ハニー ASMR 動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ガラスの上に滴る蜂蜜のリアルな反射を捉えた、マクロ・シネマティックな ASMR 動画を作成するための 10 秒間の詳細な動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+ウルトラマクロ・シネマティック ASMR 動画、10 秒間。透明なクリスタルのハニカムから、虹色に輝く蜂蜜がガラスプレートの上にゆっくりと滴り落ちる様子。表面には小さな虹色の反射が揺らめく。極端なクローズアップ、浅い被写界深度、4K のリアリズム。ASMR サウンド：蜂蜜が伸びる粘り気のある音、繊細な雫が落ちる音、かすかなガラスの共鳴音、柔らかな環境音。滑らかなスローモーションのカメラワークで、魅惑的でリラックスできる映像。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="マクロ虹色ハニー ASMR 動画">
+
+**[🎬 動画を見る →](https://x.com/MrDasOnX/status/2081634357060726896)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **公開日:** Jul 27, 2026
+
+---
+### 高級時計のコマーシャル用ショットリスト
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> マクロアングル、滑らかなカメラ回転、精密なライティング設定など、プロフェッショナルな高級製品広告を作成するための詳細なショット別プロンプトです。
+
+#### 📝 プロンプト
+
+```
+秒針が動く文字盤の極端なマクロショット
+
+リムライトを当てた、磨き上げられたケースを横切る緩やかな回転ショット
+
+リューズとプッシャーに強い光を当てたサイドショット
+
+最後に固定された真上からのヒーローショット
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="高級時計のコマーシャル用ショットリスト">
+
+**[🎬 動画を見る →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
+
+**作者:** [Hex Horizon](https://x.com/Noderunner_Hex) | **ソース:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **公開日:** Jul 26, 2026
+
+---
+### ピクサー風 3D コーヒー CM
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> ピクサーのような美学を取り入れた、スタイリッシュな 3D コーヒー CM 向けの包括的なビデオプロンプト。ブルーアワーからゴールデンアワーへの具体的なトランジションや、キャラクターの一貫性を保つための指示が含まれています。
+
+#### 📝 プロンプト
+
+```
+10 秒、9:16、Da Mayor Coffee 向けピクサー風 3D CM。若い女性、小麦色の肌、肩までのダークなウェーブヘア、オーバーサイズのクリーム色ニットセーター、ゴールドの指輪。夜明け前のブルーアワーに屋上へ足を踏み入れ、チャコールグレーのテイクアウトカップを手に持つ。湯気が光り輝くスカイラインの上に立ち上る（Attention）。一口飲み、目を閉じる（Interest）。空が輝くシアン色の星座へと波打ち、驚きに目を見開く — クライマックス（Desire）。星々が黄金の日の出へと溶け込み、カメラに向かって自信に満ちた微笑み。ヒーローショット ＋ カップのビューティーパス（クラフトスリーブ、シルバーの Da Mayor バーストアイコン、「Da Mayor」のワードマーク、白いドーム蓋）、ロゴの固定、タグライン「Da Mayor Coffee. Wake up to something bigger」のナレーション（Action）。全フレームでキャラクターとカップのデザインを統一し、変化させないこと。表情は「眠そう」→「驚き」→「温かみ」へと変化。ライティング：インディゴブルーのブルーアワー → シアンの輝き → 3200K のゴールデンアワー、ボリュメトリックな光。カメラ：プッシュイン → オービット → ローアングルからのティルトアップで披露 → ヒーローオービット／ビューティーパス、手持ちカメラやスピードランプは使用しない。サウンド：アンビエントトーンが盛り上がり、クライマックスでオーケストラが膨らむ、温かい解決、湯気／呼吸／すする音のフォーリー、ロゴ固定時にナレーション。Octane クオリティ、サブサーフェス・スキャタリング、8K テクスチャ、シネマティックな被写界深度、フィルムグレイン — 驚異的、プレミアム、フルアニメーション
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="ピクサー風 3D コーヒー CM">
+
+**[🎬 動画を見る →](https://x.com/iam_damayor/status/2081448072706723933)**
+
+**作者:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **ソース:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **公開日:** Jul 26, 2026
+
+---
+### ハイエナジーなフィットネスソーダの CM
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> フィットネスソーダの CM 向け高品質ビデオプロンプト。AIDA フレームワークを用い、ワークアウト後のリカバリーシーンをマクロな製品ショットとエレクトリックブルーの視覚効果で描写します。
+
+#### 📝 プロンプト
+
+```
+20 代後半の黒人女性、コイリーヘアのハイパフバン、チャコールグレーのタンクトップ、黒のレギンス、タオル、スマートウォッチを着用。ジムのベンチでワークアウト後の休憩中（Attention）。結露した缶を開け、炭酸の泡が見える（Interest）。一口飲むと、目を閉じ、肩の力が抜け、安らぎの中でエレクトリックブルーの光が彼女を包み込む（Desire/peak）。カメラに向かって微笑み、続いてネイビーとシルバーの「Mayor's Soda」缶のヒーローショットとマクロのビューティーショット。王冠のアイコン、ロゴのロックアップ、タグライン「Mayor's Soda. Refresh the win」のナレーション（Action）。全フレームでキャラクターと缶のデザインを統一し、ブレを防止。5200-5800K の鮮明なジム照明、クールな反射、安らぎの瞬間に青いブルーム効果。カメラワーク：プッシュイン → オービット → マクロ。サウンド：シンセパッド、缶を開ける音と炭酸の音、温かみのある盛り上がり、最後にナレーション。オクタン価の高いレンダリング、サブサーフェス・スキャタリング、8K テクスチャ。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="ハイエナジーなフィットネスソーダの CM">
+
+**[🎬 動画を見る →](https://x.com/iam_damayor/status/2081379499262746808)**
+
+**作者:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **ソース:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **公開日:** Jul 26, 2026
+
+---
 ### ドタバタ劇の猫とネズミのアニメーション
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2859,89 +2941,13 @@ POV：あなたは家猫から逃げる小さなネズミです。超リアル�
 **作者:** [Shah](https://x.com/ai_with_shah) | **ソース:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **公開日:** Jun 1, 2026
 
 ---
-### クロームマーブルの連鎖反応
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ブルータリズム様式のギャラリー内を駆け抜けるクロームマーブルを、複雑な物理演算とエンジニアリングのラベルと共に捉えた、シームレスな連続動画ショットのための洗練されたプロンプト。
-
-#### 📝 プロンプト
-
-```
-滑らかな連続ショット。10 秒間。ブルータリズム様式のコンクリートギャラリー内で、クロームマーブルが極めて複雑な連鎖反応マシンの中を駆け抜ける。カメラはマーブルの直後をシームレスな動きで追従する。マーブルが磁気レバー、水力タービン、吊り下げられたドミノ、ジャイロスコープリング、プラズマアーク、重力を無視したランプを次々と作動させる。すべての反応は物理的に正確で、因果関係に基づいている。メカニズムが作動する際、その横にエンジニアリング図面の白いラベルが短く表示される。ドラマチックな反射を伴う、極めてクリーンなインダストリアル照明。オーディオは衝撃音や動きと完全に同期しており、金属的なクリック音、サーボモーターの音、磁気パルス、マーブルの衝突音、そして高まるオーケストラの緊張感が含まれる。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="クロームマーブルの連鎖反応">
-
-**[🎬 動画を見る →](https://x.com/HBCoop_/status/2061095417886990555)**
-
-**作者:** [Heather Cooper](https://x.com/HBCoop_) | **ソース:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **公開日:** May 31, 2026
-
----
-### 擬人化された王冠をかぶった猫のノワール
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ムードのあるノワール調の庭園を舞台にした、擬人化された猫のキャラクターのための視覚的に密度の高いプロンプト。
-
-#### 📝 プロンプト
-
-```
-ドラマチックなノワール調の照明と深いコントラスト、そしてムードのある影が漂う月明かりの庭園。枯れた桜が舞う中、王冠をかぶり、暗い影のようなローブをまとった謎めいた擬人化された猫が静かに座っている。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="擬人化された王冠をかぶった猫のノワール">
-
-**[🎬 動画を見る →](https://x.com/MrDasOnX/status/2061068717937860647)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **公開日:** May 31, 2026
-
----
-### オーディオ・ビジュアル・アクション同期
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 動画内のキャラクターの動作と特定の効果音を同期させるための詳細な技術プロンプト。
-
-#### 📝 プロンプト
-
-```
-キャラクターが手を上げて標準的なノック動作を行い、そのノックの動きが対応するノックの効果音と即座に同期するようにします。動作と効果音が時間的に一致し、自然に調和するように調整してください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="オーディオ・ビジュアル・アクション同期">
-
-**[🎬 動画を見る →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
-
-**作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **ソース:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **公開日:** May 31, 2026
-
----
-### GPS 座標によるドローン視点映像
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 正確な緯度と経度の座標を使用して、パリのドローン視点映像を生成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-以下の場所のドローン視点映像を生成してください（ドローン本体は映さないこと）：48°51′23.8″N 2°21′08.0″E
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="GPS 座標によるドローン視点映像">
-
-**[🎬 動画を見る →](https://x.com/c_nemri/status/2061007691166667057)**
-
-**作者:** [Chouaieb Nemri](https://x.com/c_nemri) | **ソース:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **公開日:** May 31, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 32 さらに多くのプロンプトがあります
+### 🎯 36 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2987,6 +2993,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-27T07:28:59.239Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-27T11:18:56.860Z</sub>
 
 </div>

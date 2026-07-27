@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **132** |
+| 📝 Totale prompt | **136** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-07-27** |
 
@@ -56,6 +56,88 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Video ASMR macro di miele iridescente
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video dettagliato di 10 secondi per creare una ripresa cinematografica macro ASMR di miele che cola su vetro con riflessi realistici.
+
+#### 📝 Prompt
+
+```
+Video ASMR cinematografico ultra-macro, 10 secondi. Un favo di cristallo trasparente fa colare lentamente del miele iridescente su una lastra di vetro. Minuscoli riflessi arcobaleno danzano sulla superficie. Primo piano estremo, profondità di campo ridotta, realismo 4K. Suoni ASMR: il miele denso che si allunga, gocce delicate che cadono, sottile risonanza del vetro, morbido silenzio ambientale. Movimento di camera fluido al rallentatore, ipnotico e rilassante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Video ASMR macro di miele iridescente">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2081634357060726896)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **Pubblicato:** Jul 27, 2026
+
+---
+### Lista delle inquadrature per spot di orologi di lusso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un elenco dettagliato di prompt inquadratura per inquadratura per la creazione di pubblicità professionali di prodotti di lusso, caratterizzato da angolazioni macro, rotazioni fluide della fotocamera e descrizioni precise dell'illuminazione.
+
+#### 📝 Prompt
+
+```
+macro estremo sul quadrante mentre la lancetta dei secondi scorre
+
+una lenta rotazione sulla cassa lucida con illuminazione di contorno
+
+un'inquadratura laterale con luce intensa sulla corona e sui pulsanti
+
+un'inquadratura hero fissa dall'alto per la chiusura
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="Lista delle inquadrature per spot di orologi di lusso">
+
+**[🎬 Guarda il video →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
+
+**Autore:** [Hex Horizon](https://x.com/Noderunner_Hex) | **Fonte:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **Pubblicato:** Jul 26, 2026
+
+---
+### Spot pubblicitario 3D in stile Pixar per caffè
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video completo per uno spot pubblicitario 3D stilizzato per caffè con estetica in stile Pixar, che descrive nel dettaglio le transizioni dall'illuminazione dell'ora blu all'ora d'oro e i segnali per la coerenza dei personaggi.
+
+#### 📝 Prompt
+
+```
+10s, 9:16 spot pubblicitario 3D stilizzato in stile Pixar per Da Mayor Coffee. Giovane donna, pelle ambrata, capelli scuri mossi alle spalle, maglione oversize in maglia color crema, anello d'oro — sale su un tetto all'alba durante l'ora blu con un bicchiere da asporto color carbone, vapore che si arriccia sopra uno skyline luminoso (Attenzione). Beve, occhi chiusi (Interesse). Il cielo si increspa in costellazioni ciano luminose, occhi sgranati per la meraviglia — rivelazione/picco (Desiderio). Le stelle si dissolvono in un'alba dorata, sorriso sicuro verso la telecamera; inquadratura hero + beauty pass sul bicchiere (manicotto in carta kraft, icona a scoppio argentata Da Mayor, logotipo "Da Mayor", coperchio a cupola bianco), logo lockup, tagline "Da Mayor Coffee. Wake up to something bigger" VO (Azione). Stesso design del personaggio/bicchiere in ogni fotogramma, nessuna deriva; espressione che passa da assonnata a meravigliata a calda. Illuminazione: ora blu indaco → fioritura ciano → ora d'oro 3200K, bagliore volumetrico. Telecamera: push-in → orbita → tilt-up dal basso verso l'alto per rivelazione → orbita hero/beauty pass, niente riprese a mano/speed ramp. Suono: tono ambientale che cresce in un crescendo orchestrale alla rivelazione, risoluzione calda, foley di vapore/respiro/sorso, VO sul lockup. Qualità Octane, subsurface scattering, texture 8K, profondità di campo cinematografica, grana della pellicola — meraviglioso, premium, completamente animato
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="Spot pubblicitario 3D in stile Pixar per caffè">
+
+**[🎬 Guarda il video →](https://x.com/iam_damayor/status/2081448072706723933)**
+
+**Autore:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Pubblicato:** Jul 26, 2026
+
+---
+### Spot pubblicitario per bevanda fitness ad alta energia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video di alta qualità per uno spot pubblicitario di una bevanda fitness, che utilizza il framework AIDA per descrivere una scena di recupero post-allenamento con riprese macro del prodotto ed effetti visivi blu elettrico.
+
+#### 📝 Prompt
+
+```
+Donna di colore, fine vent'anni, chignon alto e riccio, canotta color antracite, leggings neri, asciugamano, smartwatch — seduta su una panca in palestra dopo l'allenamento (Attenzione). Apre una lattina con goccioline di condensa, effervescenza visibile (Interesse). Beve; chiude gli occhi, le spalle si rilassano, un bagliore blu elettrico la avvolge in un momento di sollievo (Desiderio/apice). Sorride alla telecamera, poi inquadratura principale + ripresa macro di bellezza sulla lattina blu navy/argento "Mayor's Soda", icona della corona, logo, tagline "Mayor's Soda. Refresh the win" fuori campo (Azione). Stesso personaggio/design della lattina in ogni fotogramma, nessuna variazione. Luce da palestra nitida 5200-5800K, riflessi freddi, bagliore blu sul momento di sollievo. Telecamera: push-in → orbita → macro. Suono: synth pad, crepitio/effervescenza, crescendo caldo, voce fuori campo sul logo. Render di qualità Octane, subsurface scattering, texture 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="Spot pubblicitario per bevanda fitness ad alta energia">
+
+**[🎬 Guarda il video →](https://x.com/iam_damayor/status/2081379499262746808)**
+
+**Autore:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **Pubblicato:** Jul 26, 2026
+
+---
 ### Animazione slapstick di gatto e topo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2836,89 +2918,13 @@ Eppure, in qualche modo, sembra del tutto reale
 **Autore:** [Shah](https://x.com/ai_with_shah) | **Fonte:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Pubblicato:** Jun 1, 2026
 
 ---
-### Reazione a catena con biglia cromata
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt sofisticato per una ripresa video continua e fluida di una biglia cromata che attraversa una galleria brutalista, con fisica complessa ed etichette ingegneristiche.
-
-#### 📝 Prompt
-
-```
-Ripresa fluida e continua. 10 secondi. Una biglia cromata corre attraverso una macchina a reazione a catena incredibilmente complessa all'interno di una galleria in cemento brutalista. La telecamera segue direttamente la biglia in un unico movimento senza interruzioni. La biglia attiva leve magnetiche, turbine idrauliche, domino sospesi, anelli giroscopici, archi al plasma e rampe che sfidano la gravità. Ogni reazione appare fisicamente accurata e causalmente connessa. Etichette con diagrammi ingegneristici in bianco tenue appaiono brevemente accanto ai meccanismi mentre si attivano. Illuminazione industriale iper-pulita con riflessi drammatici. Audio perfettamente sincronizzato con gli impatti e il movimento: clic metallici, servomotori, impulsi magnetici, impatti della biglia, crescente tensione orchestrale.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="Reazione a catena con biglia cromata">
-
-**[🎬 Guarda il video →](https://x.com/HBCoop_/status/2061095417886990555)**
-
-**Autore:** [Heather Cooper](https://x.com/HBCoop_) | **Fonte:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **Pubblicato:** May 31, 2026
-
----
-### Gatto antropomorfo con corona in stile noir
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt visivamente denso per un personaggio gatto antropomorfo in un giardino dall'atmosfera noir.
-
-#### 📝 Prompt
-
-```
-Un misterioso gatto antropomorfo siede in silenzio indossando una corona e vesti scure in un giardino illuminato dalla luna, pieno di fiori di ciliegio appassiti, sotto una drammatica illuminazione noir con contrasti profondi e ombre suggestive.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="Gatto antropomorfo con corona in stile noir">
-
-**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2061068717937860647)**
-
-**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **Pubblicato:** May 31, 2026
-
----
-### Sincronizzazione audio-video delle azioni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt tecnico dettagliato per sincronizzare le azioni dei personaggi con specifici effetti sonori nei video.
-
-#### 📝 Prompt
-
-```
-Il personaggio alza la mano per eseguire un'azione di bussare standard, con il movimento che corrisponde istantaneamente e in modo sincrono al relativo effetto sonoro, garantendo che l'azione e l'effetto sonoro siano allineati temporalmente e coordinati in modo naturale.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="Sincronizzazione audio-video delle azioni">
-
-**[🎬 Guarda il video →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
-
-**Autore:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fonte:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **Pubblicato:** May 31, 2026
-
----
-### Vista drone con coordinate GPS
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt che utilizza coordinate precise di latitudine e longitudine per generare riprese accurate in soggettiva drone di Parigi.
-
-#### 📝 Prompt
-
-```
-Genera riprese con vista drone (senza mostrare il drone) di questo luogo 48°51′23.8″N 2°21′08.0″E
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="Vista drone con coordinate GPS">
-
-**[🎬 Guarda il video →](https://x.com/c_nemri/status/2061007691166667057)**
-
-**Autore:** [Chouaieb Nemri](https://x.com/c_nemri) | **Fonte:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Pubblicato:** May 31, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 32 altri prompt non mostrati qui
+### 🎯 36 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2964,6 +2970,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-27T07:29:09.634Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-27T11:19:07.975Z</sub>
 
 </div>

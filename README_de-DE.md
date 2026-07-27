@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **132** |
+| 📝 Gesamtanzahl Prompts | **136** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-27** |
 
@@ -56,6 +56,88 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Makro-Video von irisierendem Honig (ASMR)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter 10-sekündiger Video-Prompt zur Erstellung einer filmischen Makro-ASMR-Aufnahme von Honig, der auf Glas tropft, mit realistischen Reflexionen.
+
+#### 📝 Prompt
+
+```
+Ultra-Makro filmisches ASMR-Video, 10 Sekunden. Eine transparente Kristallwabe lässt langsam irisierenden Honig auf eine Glasplatte tropfen. Winzige Regenbogenreflexionen tanzen auf der Oberfläche. Extreme Nahaufnahme, geringe Schärfentiefe, 4K-Realismus. ASMR-Sounds: zäher Honig, der sich dehnt, feine Tropfen, die aufschlagen, subtile Glasresonanz, sanfte Umgebungsstille. Sanfte Zeitlupen-Kamerabewegung, faszinierend und entspannend.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Makro-Video von irisierendem Honig (ASMR)">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2081634357060726896)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **Veröffentlicht:** Jul 27, 2026
+
+---
+### Aufnahmeliste für Luxusuhren-Werbespots
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter, schrittweiser Prompt für die Erstellung professioneller Luxusproduktwerbung, einschließlich Makroaufnahmen, sanfter Kamerarotationen und präziser Lichtbeschreibungen.
+
+#### 📝 Prompt
+
+```
+Extreme Makroaufnahme des Zifferblatts, während der Sekundenzeiger vorbeiläuft
+
+eine langsame Rotation über das polierte Gehäuse mit Kantenlicht
+
+eine hart beleuchtete Seitenaufnahme der Krone und der Drücker
+
+eine statische Hero-Aufnahme von oben als Abschluss
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="Aufnahmeliste für Luxusuhren-Werbespots">
+
+**[🎬 Video ansehen →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
+
+**Autor:** [Hex Horizon](https://x.com/Noderunner_Hex) | **Quelle:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **Veröffentlicht:** Jul 26, 2026
+
+---
+### 3D-Kaffeewerbespot im Pixar-Stil
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender Video-Prompt für einen stilisierten 3D-Kaffeewerbespot mit Pixar-ähnlicher Ästhetik, der spezifische Übergänge von der blauen Stunde zur goldenen Stunde sowie Hinweise zur Charakterkonsistenz detailliert beschreibt.
+
+#### 📝 Prompt
+
+```
+10s, 9:16 stilisierter 3D-Werbespot im Pixar-Stil für Da Mayor Coffee. Junge Frau, gebräunte Haut, dunkle schulterlange Wellen, übergroßer cremefarbener Strickpullover, Goldring — betritt bei Anbruch der blauen Stunde das Dach mit einem Coffee-to-go-Becher, Dampf kräuselt sich über der leuchtenden Skyline (Attention). Sie nimmt einen Schluck, Augen geschlossen (Interest). Der Himmel verwandelt sich in leuchtende cyanfarbene Sternbilder, Augen weit vor Staunen — Enthüllung/Höhepunkt (Desire). Sterne lösen sich in goldenen Sonnenaufgang auf, selbstbewusstes Lächeln in die Kamera; Hero-Shot + Beauty-Pass auf den Becher (Kraftpapier-Manschette, silbernes Da Mayor-Burst-Icon, "Da Mayor"-Schriftzug, weißer gewölbter Deckel), Logo-Einblendung, Slogan "Da Mayor Coffee. Wake up to something bigger" VO (Action). Gleiches Charakter-/Becherdesign in jedem Frame, kein Drift; Ausdruck wechselt von schläfrig zu staunend zu warm. Beleuchtung: indigo blaue Stunde → cyanfarbenes Leuchten → 3200K goldene Stunde, volumetrischer Glanz. Kamera: Push-in → Orbit → Low-Angle Tilt-up Enthüllung → Hero-Orbit/Beauty-Pass, kein Handheld/keine Geschwindigkeitsrampen. Sound: Ambient-Ton, der bei der Enthüllung in ein orchestrales Anschwellen übergeht, warmer Ausklang, Foley für Dampf/Atem/Schlucken, VO bei Logo-Einblendung. Octane-Qualität, Subsurface Scattering, 8K-Texturen, filmische Tiefenschärfe, Filmkorn — wundervoll, hochwertig, vollständig animiert
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="3D-Kaffeewerbespot im Pixar-Stil">
+
+**[🎬 Video ansehen →](https://x.com/iam_damayor/status/2081448072706723933)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Quelle:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Veröffentlicht:** Jul 26, 2026
+
+---
+### Hochenergetischer Fitness-Soda-Werbespot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochwertiger Video-Prompt für einen Fitness-Soda-Werbespot, der das AIDA-Modell nutzt, um eine Post-Workout-Erholungsszene mit Makro-Produktaufnahmen und elektrisch blauen visuellen Effekten zu beschreiben.
+
+#### 📝 Prompt
+
+```
+Schwarze Frau, Ende 20, lockiger High-Puff-Dutt, anthrazitfarbenes Tanktop, schwarze Leggings, Handtuch, Smartwatch — sitzt nach dem Training auf einer Fitnessbank (Attention). Öffnet eine Dose mit Kondenswassertropfen, das Sprudeln ist sichtbar (Interest). Trinkt; Augen schließen sich, Schultern entspannen sich, ein elektrisch blaues Leuchten umhüllt sie bei der Erleichterung (Desire/Peak). Lächelt in die Kamera, dann Hero-Shot + Makro-Beauty-Pass auf der marineblau-silbernen „Mayor's Soda“-Dose, Kronen-Icon, Logo-Einblendung, Slogan „Mayor's Soda. Refresh the win“ VO (Action). Gleicher Charakter/Dosen-Design in jedem Frame, kein Drift. Knackiges 5200-5800K Fitnessstudio-Licht, kühle Reflexionen, blauer Bloom-Effekt beim Erleichterungsmoment. Kamera: Push-ins → Orbit → Makro. Sound: Synth-Pad, Knacken/Zischen, warmes Anschwellen, VO bei Logo-Einblendung. Octane-Qualitäts-Render, Subsurface Scattering, 8K-Texturen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="Hochenergetischer Fitness-Soda-Werbespot">
+
+**[🎬 Video ansehen →](https://x.com/iam_damayor/status/2081379499262746808)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Quelle:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **Veröffentlicht:** Jul 26, 2026
+
+---
 ### Slapstick-Animation mit Katze und Maus
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2864,89 +2946,13 @@ Und das sich doch vollkommen echt anfühlt
 **Autor:** [Shah](https://x.com/ai_with_shah) | **Quelle:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Veröffentlicht:** Jun 1, 2026
 
 ---
-### Chrom-Murmel-Kettenreaktion
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein anspruchsvoller Prompt für eine kontinuierliche, nahtlose Videoaufnahme einer Chrom-Murmel, die durch eine brutalistische Galerie navigiert, inklusive komplexer Physik und technischer Beschriftungen.
-
-#### 📝 Prompt
-
-```
-Kontinuierliche, flüssige Aufnahme. 10 Sekunden. Eine Chrom-Murmel rast durch eine unglaublich komplexe Kettenreaktionsmaschine in einer brutalistischen Betongalerie. Die Kamera folgt der Murmel direkt in einer nahtlosen Bewegung. Die Murmel löst magnetische Hebel, Wasserturbinen, hängende Dominosteine, gyroskopische Ringe, Lichtbögen und der Schwerkraft trotzende Rampen aus. Jede Reaktion wirkt physikalisch präzise und kausal verknüpft. Dezente, weiße technische Diagrammbeschriftungen erscheinen kurz neben den Mechanismen, während diese aktiviert werden. Hyper-saubere industrielle Beleuchtung mit dramatischen Reflexionen. Der Ton ist präzise auf die Aufpralle und Bewegungen abgestimmt: metallisches Klicken, Servomotoren, magnetische Impulse, Murmelaufpralle, ansteigende orchestrale Spannung.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="Chrom-Murmel-Kettenreaktion">
-
-**[🎬 Video ansehen →](https://x.com/HBCoop_/status/2061095417886990555)**
-
-**Autor:** [Heather Cooper](https://x.com/HBCoop_) | **Quelle:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **Veröffentlicht:** May 31, 2026
-
----
-### Anthropomorphe gekrönte Katze im Noir-Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein visuell dichter Prompt für eine anthropomorphe Katzenfigur in einer stimmungsvollen, Noir-beleuchteten Gartenkulisse.
-
-#### 📝 Prompt
-
-```
-Eine geheimnisvolle, anthropomorphe Katze sitzt schweigend mit einer Krone und dunklen, schattenhaften Gewändern in einem mondbeschienenen Garten voller verwelkter Kirschblüten, inszeniert in dramatischem Noir-Licht mit tiefen Kontrasten und stimmungsvollen Schatten.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="Anthropomorphe gekrönte Katze im Noir-Stil">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2061068717937860647)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **Veröffentlicht:** May 31, 2026
-
----
-### Audio-visuelle Aktionssynchronisation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter technischer Prompt zur Synchronisierung von Charakteraktionen mit spezifischen Soundeffekten in Videos.
-
-#### 📝 Prompt
-
-```
-Der Charakter hebt die Hand für eine standardmäßige Klopfbewegung, wobei die Klopfbewegung unmittelbar und synchron mit dem entsprechenden Klopfgeräusch übereinstimmt, um sicherzustellen, dass Aktion und Soundeffekt zeitlich aufeinander abgestimmt und in ihrer Passgenauigkeit natürlich koordiniert sind.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="Audio-visuelle Aktionssynchronisation">
-
-**[🎬 Video ansehen →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
-
-**Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Quelle:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **Veröffentlicht:** May 31, 2026
-
----
-### Drohnenansicht mit GPS-Koordinaten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der präzise Breiten- und Längengrade verwendet, um akkurate Drohnenaufnahmen von Paris aus der Vogelperspektive zu generieren.
-
-#### 📝 Prompt
-
-```
-Generiere Drohnenaufnahmen (ohne die Drohne selbst abzubilden) von diesem Ort: 48°51′23.8″N 2°21′08.0″E
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="Drohnenansicht mit GPS-Koordinaten">
-
-**[🎬 Video ansehen →](https://x.com/c_nemri/status/2061007691166667057)**
-
-**Autor:** [Chouaieb Nemri](https://x.com/c_nemri) | **Quelle:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Veröffentlicht:** May 31, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 32 weitere Prompts hier nicht angezeigt
+### 🎯 36 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2992,6 +2998,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-27T07:29:07.731Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-27T11:19:05.450Z</sub>
 
 </div>

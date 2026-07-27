@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **132** |
+| 📝 Toplam İstem | **136** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-27** |
 
@@ -56,6 +56,88 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Makro Yanardöner Bal ASMR Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cam üzerine damlayan balın gerçekçi yansımalarla makro sinematik ASMR çekimini oluşturmak için 10 saniyelik detaylı video istemi.
+
+#### 📝 İstem
+
+```
+Ultra makro sinematik ASMR videosu, 10 saniye. Şeffaf kristal bir petekten cam tabağa yavaşça damlayan yanardöner bal. Yüzeyde dans eden minik gökkuşağı yansımaları. Aşırı yakın çekim, sığ alan derinliği, 4K gerçekçilik. ASMR sesleri: yoğun balın uzaması, narin damlaların düşüşü, hafif cam rezonansı, yumuşak ortam sessizliği. Pürüzsüz ağır çekim kamera hareketi, büyüleyici ve rahatlatıcı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Makro Yanardöner Bal ASMR Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2081634357060726896)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **Yayınlandı:** Jul 27, 2026
+
+---
+### Lüks Saat Reklamı Çekim Listesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Makro açılar, akıcı kamera rotasyonları ve hassas ışıklandırma tanımları içeren, profesyonel lüks ürün reklamları oluşturmaya yönelik detaylı, çekim çekim bir istem.
+
+#### 📝 İstem
+
+```
+saniye kolu ilerlerken kadran üzerinde ekstrem makro çekim
+
+kenar ışıklandırmasıyla parlatılmış kasa üzerinde yavaş bir rotasyon
+
+tepe ve butonlar üzerinde sert ışıklandırılmış yan çekim
+
+kapanış için sabitlenmiş, yukarıdan aşağıya doğru bir ana ürün çekimi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="Lüks Saat Reklamı Çekim Listesi">
+
+**[🎬 Videoyu izle →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
+
+**Yazar:** [Hex Horizon](https://x.com/Noderunner_Hex) | **Kaynak:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **Yayınlandı:** Jul 26, 2026
+
+---
+### Pixar Tarzı 3D Kahve Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Pixar benzeri estetiğe sahip, stilize edilmiş bir 3D kahve reklamı için; mavi saat ışığından altın saate geçişleri ve karakter tutarlılığı ipuçlarını detaylandıran kapsamlı bir video istemi.
+
+#### 📝 İstem
+
+```
+10 saniye, 9:16, Da Mayor Coffee için stilize Pixar tarzı 3D reklam. Genç kadın, buğday tenli, omuz hizasında dalgalı koyu saçlar, büyük beden krem rengi örgü kazak, altın yüzük — şafak öncesi mavi saatte elinde karton kahve bardağıyla çatıya çıkar, parlayan şehir silüeti üzerinde yükselen buhar (Dikkat). Bir yudum alır, gözleri kapalı (İlgi). Gökyüzü parlayan camgöbeği takımyıldızlara dönüşür, gözleri hayranlıkla açılır — ortaya çıkış/zirve (Arzu). Yıldızlar altın sarısı gün doğumuna dönüşür, kameraya kendinden emin bir gülümseme; kahraman çekimi + bardak için güzellik odaklı çekim (kraft kılıf, gümüş Da Mayor patlama ikonu, "Da Mayor" yazı logosu, beyaz kubbe kapak), logo kapanışı, "Da Mayor Coffee. Güne daha büyük bir şeyle uyan" sloganı ile dış ses (Eylem). Her karede aynı karakter/bardak tasarımı, kayma yok; ifade uykulu→hayranlık→sıcak şeklinde değişir. Işık: çivit mavisi saat → camgöbeği parıltı → 3200K altın saat, hacimsel ışık. Kamera: ileri itme → yörünge → düşük açılı yukarı eğimle ortaya çıkarma → kahraman yörüngesi/güzellik çekimi, el kamerası/hız rampası yok. Ses: ortaya çıkış anında orkestral bir yükselişe geçen ortam tonu, sıcak bir bitiş, buhar/nefes/yudum efektleri, kapanışta dış ses. Octane kalitesi, yüzey altı saçılma, 8K dokular, sinematik alan derinliği, film greni — büyüleyici, premium, tamamen animasyonlu
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="Pixar Tarzı 3D Kahve Reklamı">
+
+**[🎬 Videoyu izle →](https://x.com/iam_damayor/status/2081448072706723933)**
+
+**Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Yayınlandı:** Jul 26, 2026
+
+---
+### Yüksek Enerjili Fitness Gazozu Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fitness gazozu reklamı için AIDA çerçevesi kullanılarak hazırlanan; makro ürün çekimleri ve elektrik mavisi görsel efektlerle desteklenmiş, antrenman sonrası toparlanma sahnesini betimleyen yüksek kaliteli bir video istemi.
+
+#### 📝 İstem
+
+```
+Siyah tenli kadın, 20'li yaşların sonu, kıvırcık yüksek topuz, antrasit atlet, siyah tayt, havlu, akıllı saat — spor salonu bankında antrenman sonrası oturuyor (Dikkat). Üzerinde yoğuşma damlaları olan kutuyu açıyor, gazın çıkışı görünür (İlgi). İçiyor; gözlerini kapatıyor, omuzları gevşiyor, rahatlamayla birlikte üzerine elektrik mavisi bir ışık yayılıyor (Arzu/zirve). Kameraya gülümsüyor, ardından lacivert/gümüş renkli "Mayor's Soda" kutusuna odaklanan kahraman çekimi + makro güzellik geçişi, taç ikonu, logo yerleşimi, "Mayor's Soda. Zaferi tazele" sloganı ve dış ses (Eylem). Her karede aynı karakter/kutu tasarımı, kayma yok. Net 5200-5800K spor salonu ışığı, soğuk yansımalar, rahatlama anında mavi parlama. Kamera: yakınlaştırma → yörünge → makro. Ses: synth pad, açılma/gaz sesi, sıcak yükseliş, kapanışta dış ses. Octane kalitesinde render, yüzey altı saçılma, 8K dokular.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="Yüksek Enerjili Fitness Gazozu Reklamı">
+
+**[🎬 Videoyu izle →](https://x.com/iam_damayor/status/2081379499262746808)**
+
+**Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **Yayınlandı:** Jul 26, 2026
+
+---
 ### Slapstick Kedi ve Fare Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2834,89 +2916,13 @@ Ama yine de tamamen gerçek hissettiriyor
 **Yazar:** [Shah](https://x.com/ai_with_shah) | **Kaynak:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Yayınlandı:** Jun 1, 2026
 
 ---
-### Krom Bilye Zincirleme Reaksiyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Brütalist bir galeride ilerleyen krom bir bilyenin, karmaşık fizik kuralları ve mühendislik etiketleriyle desteklenen kesintisiz ve akıcı bir video çekimi için geliştirilmiş bir istem.
-
-#### 📝 İstem
-
-```
-Kesintisiz ve akıcı çekim. 10 saniye. Krom bir bilye, brütalist beton bir galeri içindeki imkansız derecede karmaşık bir zincirleme reaksiyon makinesinde hızla ilerliyor. Kamera, tek bir kesintisiz hareketle doğrudan bilyenin arkasını takip ediyor. Bilye; manyetik kaldıraçları, su türbinlerini, asılı dominoları, jiroskopik halkaları, plazma arklarını ve yerçekimine meydan okuyan rampaları tetikliyor. Her reaksiyon fiziksel olarak doğru ve nedensel bir bağ içinde gerçekleşiyor. Mekanizmalar devreye girdikçe yanlarında kısa süreliğine hafif beyaz mühendislik şeması etiketleri beliriyor. Dramatik yansımalara sahip, son derece temiz endüstriyel aydınlatma. Ses; darbelere ve harekete tam uyumlu: metalik tıkırtılar, servo motorlar, manyetik darbeler, bilye çarpmaları ve yükselen orkestral gerilim.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="Krom Bilye Zincirleme Reaksiyonu">
-
-**[🎬 Videoyu izle →](https://x.com/HBCoop_/status/2061095417886990555)**
-
-**Yazar:** [Heather Cooper](https://x.com/HBCoop_) | **Kaynak:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **Yayınlandı:** May 31, 2026
-
----
-### Antropomorfik Taçlı Kara Kedi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kasvetli, kara film (noir) tarzı bir bahçe ortamında antropomorfik bir kedi karakteri için görsel açıdan yoğun bir komut.
-
-#### 📝 İstem
-
-```
-Gizemli, antropomorfik bir kedi, dramatik kara film ışıklandırması, derin kontrastlar ve karamsar gölgeler altında, solmuş kiraz çiçekleriyle dolu ay ışığı alan bir bahçede, başında bir taç ve üzerinde koyu renkli gölgeli cübbelerle sessizce oturuyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="Antropomorfik Taçlı Kara Kedi">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2061068717937860647)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **Yayınlandı:** May 31, 2026
-
----
-### Görsel-İşitsel Eylem Senkronizasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Videolardaki karakter eylemlerini belirli ses efektleriyle senkronize etmek için hazırlanmış ayrıntılı teknik bir komut.
-
-#### 📝 İstem
-
-```
-Karakter, standart bir kapı çalma eylemini gerçekleştirmek için elini kaldırır; çalma hareketi, ilgili ses efektiyle anında ve eş zamanlı olarak uyum sağlar. Böylece eylem ve ses efektinin zamanlama açısından hizalanması ve doğal bir uyum içinde olması sağlanır.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="Görsel-İşitsel Eylem Senkronizasyonu">
-
-**[🎬 Videoyu izle →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
-
-**Yazar:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Kaynak:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **Yayınlandı:** May 31, 2026
-
----
-### GPS Koordinatlı Drone Görünümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Paris'in doğru drone bakış açısı görüntülerini oluşturmak için kesin enlem ve boylam koordinatlarını kullanan bir komut.
-
-#### 📝 İstem
-
-```
-Bu konumun 48°51′23.8″N 2°21′08.0″E drone görünümü görüntülerini oluştur (drone görünmeden)
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="GPS Koordinatlı Drone Görünümü">
-
-**[🎬 Videoyu izle →](https://x.com/c_nemri/status/2061007691166667057)**
-
-**Yazar:** [Chouaieb Nemri](https://x.com/c_nemri) | **Kaynak:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Yayınlandı:** May 31, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 32 burada gösterilmeyen daha fazla istem
+### 🎯 36 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2962,6 +2968,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-27T07:29:12.939Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-27T11:19:12.083Z</sub>
 
 </div>

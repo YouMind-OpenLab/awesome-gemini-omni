@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **132** |
+| 📝 Total des prompts | **136** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-07-27** |
 
@@ -56,6 +56,88 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Vidéo ASMR macro de miel irisé
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo détaillé de 10 secondes pour créer un plan cinématographique macro ASMR de miel coulant sur du verre avec des reflets réalistes.
+
+#### 📝 Prompt
+
+```
+Vidéo ASMR cinématographique ultra-macro, 10 secondes. Un rayon de miel en cristal transparent laisse lentement couler un miel irisé sur une plaque de verre. De minuscules reflets arc-en-ciel dansent à la surface. Très gros plan, faible profondeur de champ, réalisme 4K. Sons ASMR : épaisseur du miel qui s'étire, délicates gouttes qui tombent, résonance subtile du verre, doux silence ambiant. Mouvement de caméra fluide au ralenti, hypnotisant et relaxant.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Vidéo ASMR macro de miel irisé">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2081634357060726896)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **Publié:** Jul 27, 2026
+
+---
+### Liste de plans pour publicité de montres de luxe
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé, plan par plan, pour créer des publicités de produits de luxe professionnelles, incluant des angles macro, des rotations de caméra fluides et des descriptions d'éclairage précises.
+
+#### 📝 Prompt
+
+```
+gros plan extrême sur le cadran alors que la trotteuse balaie le cadran
+
+une rotation lente sur le boîtier poli avec un éclairage de contour
+
+un plan latéral à éclairage contrasté sur la couronne et les poussoirs
+
+un plan fixe plongeant « hero shot » pour conclure
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="Liste de plans pour publicité de montres de luxe">
+
+**[🎬 Voir la vidéo →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
+
+**Auteur:** [Hex Horizon](https://x.com/Noderunner_Hex) | **Source:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **Publié:** Jul 26, 2026
+
+---
+### Publicité pour café en 3D style Pixar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo complet pour une publicité stylisée en 3D pour du café avec une esthétique façon Pixar, détaillant les transitions spécifiques de l'éclairage de l'heure bleue à l'heure dorée, ainsi que des indications pour la cohérence des personnages.
+
+#### 📝 Prompt
+
+```
+10s, 9:16 publicité 3D stylisée façon Pixar pour Da Mayor Coffee. Jeune femme, peau mate, cheveux bruns ondulés aux épaules, pull en maille crème oversize, bague en or — monte sur un toit à l'heure bleue avant l'aube avec un gobelet à emporter anthracite, vapeur s'élevant au-dessus d'un horizon urbain lumineux (Attention). Elle boit une gorgée, yeux fermés (Intérêt). Le ciel ondule en constellations cyan lumineuses, yeux écarquillés d'émerveillement — révélation/apogée (Désir). Les étoiles se dissolvent dans un lever de soleil doré, sourire confiant vers la caméra ; plan héroïque + plan beauté sur le gobelet (manchon kraft, icône argentée Da Mayor-burst, logotype "Da Mayor", couvercle blanc), logo final, slogan "Da Mayor Coffee. Wake up to something bigger" voix off (Action). Même personnage/design de gobelet à chaque image, aucune dérive ; expressions passant de somnolent à émerveillé puis chaleureux. Éclairage : bleu heure bleue → éclat cyan → heure dorée 3200K, lueur volumétrique. Caméra : travelling avant → orbite → contre-plongée révélatrice → orbite héroïque/plan beauté, pas de caméra à l'épaule ni de rampes de vitesse. Son : tonalité ambiante montant en crescendo orchestral lors de la révélation, résolution chaleureuse, bruitages de vapeur/souffle/gorgée, voix off sur le logo final. Qualité Octane, subsurface scattering, textures 8K, profondeur de champ cinématographique, grain de film — merveilleux, premium, entièrement animé
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="Publicité pour café en 3D style Pixar">
+
+**[🎬 Voir la vidéo →](https://x.com/iam_damayor/status/2081448072706723933)**
+
+**Auteur:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Publié:** Jul 26, 2026
+
+---
+### Publicité pour une boisson fitness énergisante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo de haute qualité pour une publicité de boisson fitness, utilisant le cadre AIDA pour décrire une scène de récupération après l'entraînement avec des plans macro du produit et des effets visuels bleu électrique.
+
+#### 📝 Prompt
+
+```
+Femme noire, fin vingtaine, chignon haut texturé, débardeur anthracite, legging noir, serviette, montre connectée — assise sur un banc de salle de sport après l'entraînement (Attention). Ouvre une canette perlée de condensation, pétillement visible (Intérêt). Boit ; les yeux se ferment, les épaules se relâchent, une lueur bleu électrique l'enveloppe en signe de soulagement (Désir/point culminant). Sourit à la caméra, puis plan héroïque + plan macro beauté sur la canette bleu marine/argent « Mayor's Soda », icône de couronne, logo, slogan « Mayor's Soda. Refresh the win » en voix off (Action). Même personnage/design de canette à chaque image, sans dérive. Éclairage de salle de sport net 5200-5800K, reflets froids, halo bleu sur le temps de soulagement. Caméra : push-in → orbite → macro. Son : nappe de synthé, craquement/pétillement, montée en puissance chaleureuse, voix off sur le logo final. Rendu qualité Octane, diffusion sous-surfacique, textures 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="Publicité pour une boisson fitness énergisante">
+
+**[🎬 Voir la vidéo →](https://x.com/iam_damayor/status/2081379499262746808)**
+
+**Auteur:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **Publié:** Jul 26, 2026
+
+---
 ### Animation burlesque de chat et de souris
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2864,89 +2946,13 @@ Et pourtant, il semble tout à fait réel
 **Auteur:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Publié:** Jun 1, 2026
 
 ---
-### Réaction en chaîne d'une bille chromée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt sophistiqué pour un plan vidéo continu et fluide d'une bille chromée naviguant dans une galerie brutaliste, agrémenté d'étiquettes techniques et physiques complexes.
-
-#### 📝 Prompt
-
-```
-Plan continu et fluide. 10 secondes. Une bille chromée parcourt une machine à réaction en chaîne d'une complexité impossible au sein d'une galerie en béton brutaliste. La caméra suit la bille de près dans un mouvement fluide et ininterrompu. La bille déclenche des leviers magnétiques, des turbines hydrauliques, des dominos suspendus, des anneaux gyroscopiques, des arcs à plasma et des rampes défiant la gravité. Chaque réaction semble physiquement précise et causalement liée. Des étiquettes de schémas techniques d'un blanc doux apparaissent brièvement à côté des mécanismes lors de leur activation. Éclairage industriel hyper-propre avec des reflets spectaculaires. Audio parfaitement synchronisé avec les impacts et les mouvements : cliquetis métalliques, servomoteurs, impulsions magnétiques, impacts de la bille, tension orchestrale croissante.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="Réaction en chaîne d'une bille chromée">
-
-**[🎬 Voir la vidéo →](https://x.com/HBCoop_/status/2061095417886990555)**
-
-**Auteur:** [Heather Cooper](https://x.com/HBCoop_) | **Source:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **Publié:** May 31, 2026
-
----
-### Chat noir anthropomorphe couronné
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt visuellement riche pour un personnage de chat anthropomorphe dans un jardin à l'ambiance sombre et cinématographique.
-
-#### 📝 Prompt
-
-```
-Un chat anthropomorphe mystérieux est assis en silence, portant une couronne et des robes sombres et ombragées dans un jardin éclairé par la lune, rempli de fleurs de cerisier fanées, sous un éclairage noir dramatique avec des contrastes profonds et des ombres mélancoliques.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="Chat noir anthropomorphe couronné">
-
-**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2061068717937860647)**
-
-**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **Publié:** May 31, 2026
-
----
-### Synchronisation audiovisuelle des actions
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt technique détaillé pour synchroniser les actions des personnages avec des effets sonores spécifiques dans une vidéo.
-
-#### 📝 Prompt
-
-```
-Le personnage lève la main pour effectuer une action de frappe standard, le mouvement de frappe correspondant instantanément et de manière synchrone à l'effet sonore de frappe associé, garantissant que l'action et l'effet sonore sont alignés temporellement et coordonnés de manière naturelle.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="Synchronisation audiovisuelle des actions">
-
-**[🎬 Voir la vidéo →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
-
-**Auteur:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Source:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **Publié:** May 31, 2026
-
----
-### Vue par drone avec coordonnées GPS
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt utilisant des coordonnées de latitude et de longitude précises pour générer des images réalistes en vue drone de Paris.
-
-#### 📝 Prompt
-
-```
-Génère des images en vue drone (sans montrer le drone) de cet endroit : 48°51′23.8″N 2°21′08.0″E
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="Vue par drone avec coordonnées GPS">
-
-**[🎬 Voir la vidéo →](https://x.com/c_nemri/status/2061007691166667057)**
-
-**Auteur:** [Chouaieb Nemri](https://x.com/c_nemri) | **Source:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Publié:** May 31, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 32 prompts supplémentaires non affichés ici
+### 🎯 36 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2992,6 +2998,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-27T07:29:08.705Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-27T11:19:06.760Z</sub>
 
 </div>

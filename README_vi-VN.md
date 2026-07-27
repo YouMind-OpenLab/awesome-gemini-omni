@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **132** |
+| 📝 Tổng số prompt | **136** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-27** |
 
@@ -56,6 +56,88 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video ASMR quay cận cảnh mật ong óng ánh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một đoạn gợi ý video ASMR điện ảnh quay cận cảnh dài 10 giây, mô tả cảnh mật ong nhỏ giọt lên mặt kính với hiệu ứng phản chiếu chân thực.
+
+#### 📝 Prompt
+
+```
+Video ASMR điện ảnh siêu cận cảnh, dài 10 giây. Một tổ ong pha lê trong suốt đang nhỏ từng giọt mật óng ánh xuống đĩa thủy tinh. Những tia phản chiếu cầu vồng li ti nhảy múa trên bề mặt. Quay cận cảnh cực đại, độ sâu trường ảnh nông, độ phân giải 4K chân thực. Âm thanh ASMR: tiếng mật ong đặc quánh kéo dài, tiếng những giọt mật rơi tinh tế, tiếng vang nhẹ trên mặt kính, không gian tĩnh lặng êm dịu. Chuyển động camera quay chậm mượt mà, đầy mê hoặc và thư giãn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Video ASMR quay cận cảnh mật ong óng ánh">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2081634357060726896)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **Đã xuất bản:** Jul 27, 2026
+
+---
+### Danh sách cảnh quay quảng cáo đồng hồ cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một danh sách gợi ý chi tiết từng cảnh quay để tạo ra các quảng cáo sản phẩm cao cấp chuyên nghiệp, bao gồm các góc quay macro, chuyển động xoay camera mượt mà và mô tả ánh sáng chính xác.
+
+#### 📝 Prompt
+
+```
+cận cảnh cực đại vào mặt số khi kim giây lướt qua
+
+chuyển động xoay chậm trên phần vỏ được đánh bóng với ánh sáng viền
+
+góc quay nghiêng với ánh sáng mạnh tập trung vào núm vặn và các nút bấm
+
+góc quay chính diện từ trên xuống để kết thúc video
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="Danh sách cảnh quay quảng cáo đồng hồ cao cấp">
+
+**[🎬 Xem video →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
+
+**Tác giả:** [Hex Horizon](https://x.com/Noderunner_Hex) | **Nguồn:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **Đã xuất bản:** Jul 26, 2026
+
+---
+### Quảng cáo cà phê 3D phong cách Pixar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt toàn diện cho quảng cáo cà phê 3D cách điệu với thẩm mỹ giống Pixar, mô tả chi tiết các chuyển cảnh từ ánh sáng giờ xanh (blue hour) sang giờ vàng (golden hour) và các gợi ý về tính nhất quán của nhân vật.
+
+#### 📝 Prompt
+
+```
+10 giây, 9:16 quảng cáo 3D cách điệu phong cách Pixar cho Da Mayor Coffee. Một phụ nữ trẻ, da rám nắng, tóc xoăn ngang vai màu tối, mặc áo len dệt kim màu kem quá khổ, đeo nhẫn vàng — bước lên sân thượng vào lúc bình minh giờ xanh với chiếc cốc giấy màu than, hơi nước bốc lên trên đường chân trời rực rỡ (Attention). Nhấp một ngụm, nhắm mắt lại (Interest). Bầu trời gợn sóng thành những chòm sao màu lục lam rực rỡ, mắt mở to đầy kinh ngạc — tiết lộ/cao trào (Desire). Những ngôi sao tan biến thành ánh bình minh vàng, nụ cười tự tin hướng về phía máy quay; cảnh quay chính + cảnh quay cận sản phẩm (tay cầm bằng giấy kraft, biểu tượng tia sáng Da Mayor màu bạc, chữ "Da Mayor", nắp trắng), logo hiện ra, tagline "Da Mayor Coffee. Wake up to something bigger" VO (Action). Thiết kế nhân vật/cốc nhất quán trong mọi khung hình, không bị lệch; biểu cảm chuyển từ buồn ngủ → kinh ngạc → ấm áp. Ánh sáng: giờ xanh chàm → hiệu ứng lục lam → giờ vàng 3200K, ánh sáng thể tích. Camera: đẩy vào → xoay quanh → góc thấp hất lên để tiết lộ → xoay quanh nhân vật chính/cận sản phẩm, không rung lắc/không tăng tốc độ. Âm thanh: âm nền tăng dần thành dàn nhạc giao hưởng khi tiết lộ, kết thúc ấm áp, hiệu ứng âm thanh hơi nước/hơi thở/tiếng nhấp, VO khi hiện logo. Chất lượng Octane, tán xạ dưới bề mặt, kết cấu 8K, độ sâu trường ảnh điện ảnh, hạt phim — kỳ diệu, cao cấp, hoạt hình hoàn chỉnh
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="Quảng cáo cà phê 3D phong cách Pixar">
+
+**[🎬 Xem video →](https://x.com/iam_damayor/status/2081448072706723933)**
+
+**Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Đã xuất bản:** Jul 26, 2026
+
+---
+### Quảng cáo nước giải khát thể thao tràn đầy năng lượng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt chất lượng cao cho quảng cáo nước giải khát thể thao, sử dụng mô hình AIDA để mô tả cảnh phục hồi sau khi tập luyện với các cảnh quay cận cảnh sản phẩm và hiệu ứng hình ảnh màu xanh điện tử.
+
+#### 📝 Prompt
+
+```
+Người phụ nữ da đen, tầm 20 tuổi, tóc búi cao xoăn tít, mặc áo ba lỗ màu than, quần legging đen, khăn tắm, đồng hồ thông minh — ngồi trên ghế tập gym sau khi tập luyện (Attention - Thu hút). Mở lon nước có đọng sương, thấy rõ bọt sủi (Interest - Thích thú). Uống nước; nhắm mắt, thả lỏng vai, ánh sáng xanh điện tử bao phủ lấy cô ấy đầy thư thái (Desire - Khao khát). Mỉm cười với ống kính, sau đó là cảnh quay cận cảnh sản phẩm (hero shot) + quay cận cảnh vẻ đẹp của lon "Mayor's Soda" màu xanh navy/bạc, biểu tượng vương miện, logo xuất hiện, câu khẩu hiệu "Mayor's Soda. Refresh the win" cùng lời bình (Action - Hành động). Giữ nguyên thiết kế nhân vật/lon nước trong mọi khung hình, không bị biến dạng. Ánh sáng phòng gym sắc nét 5200-5800K, phản chiếu tông lạnh, hiệu ứng tỏa sáng màu xanh lam ở nhịp thư giãn. Camera: đẩy vào → xoay quanh → cận cảnh. Âm thanh: nhạc synth pad, tiếng mở lon/tiếng sủi bọt, nhạc nền dâng trào ấm áp, lời bình khi logo xuất hiện. Kết xuất chất lượng Octane, tán xạ dưới bề mặt, kết cấu 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="Quảng cáo nước giải khát thể thao tràn đầy năng lượng">
+
+**[🎬 Xem video →](https://x.com/iam_damayor/status/2081379499262746808)**
+
+**Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **Đã xuất bản:** Jul 26, 2026
+
+---
 ### Hoạt hình mèo và chuột phong cách hài hước
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2836,89 +2918,13 @@ Nhưng bằng cách nào đó lại mang cảm giác hoàn toàn chân thực
 **Tác giả:** [Shah](https://x.com/ai_with_shah) | **Nguồn:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Đã xuất bản:** Jun 1, 2026
 
 ---
-### Phản ứng dây chuyền viên bi chrome
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tinh vi cho cảnh quay video liền mạch, liên tục về một viên bi chrome di chuyển trong phòng trưng bày theo phong cách brutalist với các nhãn dán kỹ thuật và vật lý phức tạp.
-
-#### 📝 Prompt
-
-```
-Cảnh quay mượt mà liên tục. 10 giây. Một viên bi chrome chạy đua qua một cỗ máy phản ứng dây chuyền phức tạp đến khó tin bên trong một phòng trưng bày bê tông theo phong cách brutalist. Máy quay theo sát ngay phía sau viên bi trong một chuyển động liền mạch duy nhất. Viên bi kích hoạt các đòn bẩy từ tính, tuabin nước, quân cờ domino treo lơ lửng, vòng quay hồi chuyển, cung plasma và các đường dốc bất chấp trọng lực. Mọi phản ứng đều mang lại cảm giác chính xác về mặt vật lý và có sự kết nối nhân quả. Các nhãn dán sơ đồ kỹ thuật màu trắng mềm mại xuất hiện thoáng qua bên cạnh các cơ chế khi chúng được kích hoạt. Ánh sáng công nghiệp siêu sạch với các phản chiếu đầy ấn tượng. Âm thanh được đồng bộ hóa chặt chẽ với các va chạm và chuyển động: tiếng lách cách kim loại, động cơ servo, xung từ tính, tiếng va chạm của viên bi, âm nhạc dàn nhạc tăng dần sự kịch tính.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d7857ac4fd256b11669ebce1997c0601/thumbnails/thumbnail.jpg" width="600" alt="Phản ứng dây chuyền viên bi chrome">
-
-**[🎬 Xem video →](https://x.com/HBCoop_/status/2061095417886990555)**
-
-**Tác giả:** [Heather Cooper](https://x.com/HBCoop_) | **Nguồn:** [Link](https://x.com/HBCoop_/status/2061095417886990555) | **Đã xuất bản:** May 31, 2026
-
----
-### Mèo Noir Nhân hóa Đội vương miện
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) giàu hình ảnh về nhân vật mèo nhân hóa trong bối cảnh khu vườn mang phong cách noir đầy tâm trạng.
-
-#### 📝 Prompt
-
-```
-Một chú mèo nhân hóa đầy bí ẩn đang ngồi lặng lẽ, đội vương miện và khoác trên mình bộ áo choàng tối màu trong khu vườn dưới ánh trăng, nơi những cánh hoa anh đào héo úa được bao phủ bởi ánh sáng noir kịch tính với độ tương phản sâu và những bóng đổ đầy tâm trạng.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1c7aa86a42762c5aaf1aa93516e0daca/thumbnails/thumbnail.jpg" width="600" alt="Mèo Noir Nhân hóa Đội vương miện">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2061068717937860647)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2061068717937860647) | **Đã xuất bản:** May 31, 2026
-
----
-### Đồng bộ hóa hành động nghe nhìn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh kỹ thuật chi tiết để đồng bộ hóa các hành động của nhân vật với các hiệu ứng âm thanh cụ thể trong video.
-
-#### 📝 Prompt
-
-```
-Nhân vật giơ tay thực hiện hành động gõ cửa tiêu chuẩn, với chuyển động gõ khớp ngay lập tức và đồng bộ với hiệu ứng âm thanh gõ cửa tương ứng, đảm bảo rằng hành động và hiệu ứng âm thanh được căn chỉnh theo thời gian và phối hợp một cách tự nhiên.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/62882676ada2592eb8f1757df5f8c50d/thumbnails/thumbnail.jpg" width="600" alt="Đồng bộ hóa hành động nghe nhìn">
-
-**[🎬 Xem video →](https://x.com/cloudwiseAI2026/status/2061033123555762673)**
-
-**Tác giả:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Nguồn:** [Link](https://x.com/cloudwiseAI2026/status/2061033123555762673) | **Đã xuất bản:** May 31, 2026
-
----
-### Góc nhìn flycam theo tọa độ GPS
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh sử dụng tọa độ vĩ độ và kinh độ chính xác để tạo ra thước phim góc nhìn flycam chân thực về Paris.
-
-#### 📝 Prompt
-
-```
-Tạo thước phim góc nhìn flycam (không hiển thị flycam) tại địa điểm này 48°51′23.8″N 2°21′08.0″E
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/17708370360df0d2a9bc5a4aea5b353c/thumbnails/thumbnail.jpg" width="600" alt="Góc nhìn flycam theo tọa độ GPS">
-
-**[🎬 Xem video →](https://x.com/c_nemri/status/2061007691166667057)**
-
-**Tác giả:** [Chouaieb Nemri](https://x.com/c_nemri) | **Nguồn:** [Link](https://x.com/c_nemri/status/2061007691166667057) | **Đã xuất bản:** May 31, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 32 prompt khác không hiển thị ở đây
+### 🎯 36 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2964,6 +2970,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-27T07:29:03.669Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-27T11:19:00.751Z</sub>
 
 </div>
