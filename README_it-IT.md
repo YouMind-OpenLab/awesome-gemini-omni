@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **136** |
+| 📝 Totale prompt | **138** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-07-28** |
 
@@ -56,6 +56,48 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt video per un gatto soriano arancione barista
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt dettagliato multi-scena per un modello di generazione video che vede protagonista un gatto American Shorthair arancione nel ruolo di un serio barista all'interno di una caffetteria.
+
+#### 📝 Prompt
+
+```
+[00:00-00:03] La telecamera inquadra l'ingresso della caffetteria e si sposta verso il bancone. Un gatto American Shorthair arancione è seduto su un cuscino dietro il bancone, indossando un piccolo grembiule. Ha un'espressione seria e solenne, come quella di un barista devoto al suo lavoro. Tocca delicatamente i chicchi di caffè con la zampa e china la testa per annusarne l'aroma.
+
+[00:03-00:07] La telecamera si avvicina. Il gatto osserva attentamente un latte appena preparato. Allunga la zampa per sfiorare delicatamente il bordo della tazza, poi china la testa per annusare la schiuma di latte. Non riesce a trattenersi dal dare una rapida leccata alla schiuma. Subito dopo, guarda verso la telecamera, facendo finta di niente.
+
+[00:07-00:10] Una piccola tazzina da caffè viene spinta davanti al gatto. Il gatto si mette seduto dritto, riprendendo la sua espressione seria. Guarda verso la telecamera e sbatte le palpebre lentamente. Infine, allunga furtivamente una zampa e tira la tazza verso di sé.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="Prompt video per un gatto soriano arancione barista">
+
+**[🎬 Guarda il video →](https://x.com/zhongying14/status/2081818532786974777)**
+
+**Autore:** [麻酱AI实验室](https://x.com/zhongying14) | **Fonte:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Pubblicato:** Jul 27, 2026
+
+---
+### Video del magico lancio di un bouquet di rose
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Questo prompt dettagliato trasforma un'immagine di riferimento in una scena magica in cui un soggetto lancia un bouquet di rose che esplodono in particelle luminose e calligrafia.
+
+#### 📝 Prompt
+
+```
+Usa l'immagine di riferimento come base esatta. Non modificare in alcun modo il viso, i lineamenti, il tono della pelle, i capelli o l'espressione.\n\nTrasforma la scena in modo che lei lanci dinamicamente il bouquet di rose rosse scintillanti verso lo spettatore. Le rose esplodono in magiche particelle luminose, petali fluttuanti e scie di luce rosso-oro che riempiono l'aria.\n\nUn delicato testo magico "Believe in Magic" si materializza in un'elegante calligrafia luminosa proprio al centro delle rose volanti e della luce. Mantieni lo sfondo dell'incantato giardino di rose, aggiungi più luci scintillanti e petali di rosa fluttuanti per un'atmosfera cinematografica, accattivante e magica. Fotorealistico, alta definizione, rossi vibranti e un delicato bagliore dorato.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="Video del magico lancio di un bouquet di rose">
+
+**[🎬 Guarda il video →](https://x.com/amynys/status/2081681005073825820)**
+
+**Autore:** [Amy G](https://x.com/amynys) | **Fonte:** [Link](https://x.com/amynys/status/2081681005073825820) | **Pubblicato:** Jul 27, 2026
+
+---
 ### Video ASMR macro di miele iridescente
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2879,52 +2921,13 @@ Usa @Image 1 come scena iniziale. L'angolazione della telecamera è completament
 **Autore:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Fonte:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Pubblicato:** Jun 2, 2026
 
 ---
-### Simulazione di guida taxi in prima persona
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per generare una visuale in prima persona di un taxi che percorre un itinerario specifico fornito in uno screenshot di riferimento.
-
-#### 📝 Prompt
-
-```
-crea una visuale in prima persona di qualcuno che guida un taxi lungo il percorso nell'immagine di riferimento
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="Simulazione di guida taxi in prima persona">
-
-**[🎬 Guarda il video →](https://x.com/c_nemri/status/2061689402741469191)**
-
-**Autore:** [Chouaieb Nemri](https://x.com/c_nemri) | **Fonte:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Pubblicato:** Jun 2, 2026
-
----
-### Camaleonte pantera turchese iperrealistico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descrittivo per generare un video ad alta fedeltà di un camaleonte pantera turchese immaginario che appare incredibilmente realistico.
-
-#### 📝 Prompt
-
-```
-Un camaleonte pantera turchese che non esiste
-Eppure, in qualche modo, sembra del tutto reale
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="Camaleonte pantera turchese iperrealistico">
-
-**[🎬 Guarda il video →](https://x.com/ai_with_shah/status/2061403989623624181)**
-
-**Autore:** [Shah](https://x.com/ai_with_shah) | **Fonte:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Pubblicato:** Jun 1, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 36 altri prompt non mostrati qui
+### 🎯 38 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2970,6 +2973,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-28T06:25:53.016Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-28T10:33:15.056Z</sub>
 
 </div>

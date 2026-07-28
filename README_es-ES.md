@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **136** |
+| 📝 Total de prompts | **138** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-28** |
 
@@ -56,6 +56,52 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de video de gato atigrado naranja barista
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado de múltiples escenas para un modelo de generación de video que presenta a un gato American Shorthair naranja actuando como un barista serio en una cafetería.
+
+#### 📝 Prompt
+
+```
+[00:00-00:03] La cámara hace un zoom desde la entrada de la cafetería hacia el mostrador. Un gato American Shorthair naranja está sentado sobre un cojín detrás del mostrador, vistiendo un pequeño delantal. Tiene una expresión seria y solemne, pareciendo un barista dedicado. Toca suavemente los granos de café con su pata e inclina la cabeza para oler el aroma del café.
+
+[00:03-00:07] La cámara se acerca. El gato observa cuidadosamente un latte recién preparado. Extiende su pata para tocar suavemente el borde de la taza, luego inclina la cabeza para oler la espuma de leche. No puede evitar darle un rápido lametón a la espuma. Inmediatamente después, mira a la cámara, fingiendo que no ha pasado nada.
+
+[00:07-00:10] Una pequeña taza de café es empujada frente al gato. El gato se sienta derecho, retomando su expresión seria. Mira hacia la cámara y parpadea lentamente. Finalmente, extiende sigilosamente una pata y acerca la taza hacia sí mismo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="Prompt de video de gato atigrado naranja barista">
+
+**[🎬 Ver video →](https://x.com/zhongying14/status/2081818532786974777)**
+
+**Autor:** [麻酱AI实验室](https://x.com/zhongying14) | **Fuente:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Publicado:** Jul 27, 2026
+
+---
+### Video de lanzamiento de ramo de rosas mágicas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Este prompt detallado transforma una imagen de referencia en una escena mágica donde un sujeto lanza un ramo de rosas que estalla en partículas brillantes y caligrafía.
+
+#### 📝 Prompt
+
+```
+Utiliza la imagen de referencia como base exacta. No cambies su rostro, rasgos faciales, tono de piel, cabello ni expresión de ninguna manera.
+
+Transforma la escena para que ella lance dinámicamente el ramo de rosas rojas brillantes hacia el espectador. Las rosas estallan en partículas mágicas brillantes, pétalos flotantes y estelas de luz rojo dorado que llenan el aire.
+
+Un suave texto mágico que dice “Believe in Magic” se materializa en una elegante caligrafía brillante justo en el centro de las rosas voladoras y la luz. Mantén el fondo del jardín de rosas encantado, añade más luces brillantes y pétalos de rosa flotantes para lograr una atmósfera cinematográfica, llamativa y mágica. Fotorrealista, alto nivel de detalle, rojos vibrantes y un suave resplandor dorado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="Video de lanzamiento de ramo de rosas mágicas">
+
+**[🎬 Ver video →](https://x.com/amynys/status/2081681005073825820)**
+
+**Autor:** [Amy G](https://x.com/amynys) | **Fuente:** [Link](https://x.com/amynys/status/2081681005073825820) | **Publicado:** Jul 27, 2026
+
+---
 ### Video ASMR de miel iridiscente en macro
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2907,52 +2953,13 @@ Usa @Image 1 como escena inicial. El ángulo de cámara debe permanecer completa
 **Autor:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Fuente:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Publicado:** Jun 2, 2026
 
 ---
-### Simulación de conducción de taxi en primera persona
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para generar una vista en primera persona de un taxi conduciendo a lo largo de una ruta específica proporcionada en una captura de pantalla de referencia.
-
-#### 📝 Prompt
-
-```
-crea una vista en primera persona de alguien conduciendo un taxi a lo largo de la ruta en la imagen de referencia
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="Simulación de conducción de taxi en primera persona">
-
-**[🎬 Ver video →](https://x.com/c_nemri/status/2061689402741469191)**
-
-**Autor:** [Chouaieb Nemri](https://x.com/c_nemri) | **Fuente:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Publicado:** Jun 2, 2026
-
----
-### Camaleón pantera turquesa hiperrealista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptivo para generar un video de alta fidelidad de un camaleón pantera turquesa ficticio que parece increíblemente real.
-
-#### 📝 Prompt
-
-```
-Un camaleón pantera turquesa que no existe
-Y que, sin embargo, se siente completamente real
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="Camaleón pantera turquesa hiperrealista">
-
-**[🎬 Ver video →](https://x.com/ai_with_shah/status/2061403989623624181)**
-
-**Autor:** [Shah](https://x.com/ai_with_shah) | **Fuente:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Publicado:** Jun 1, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 36 más prompts no mostrados aquí
+### 🎯 38 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2998,6 +3005,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-28T06:25:48.676Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-28T10:33:09.960Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **136** |
+| 📝 Total Prompts | **138** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-28** |
 
@@ -56,11 +56,53 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Macro Iridescent Honey ASMR Video
+### Orange Tabby Cat Barista Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed multi-scene prompt for a video generation model featuring an orange American Shorthair cat acting as a serious barista in a coffee shop setting.
+
+#### 📝 Prompt
+
+```
+[00:00-00:03] The camera zooms in from the coffee shop entrance toward the counter. An orange American Shorthair cat is sitting on a cushion behind the counter, wearing a small apron. It has a serious and solemn expression, looking like a dedicated barista. It gently touches the coffee beans with its paw and bows its head to smell the coffee aroma.
+
+[00:03-00:07] The camera moves closer. The cat carefully observes a freshly made latte. It reaches out its paw to gently touch the rim of the cup, then bows its head to smell the milk foam. It can't help but take a quick lick of the foam. Immediately after, it looks up at the camera, pretending nothing happened.
+
+[00:07-00:10] A small coffee cup is pushed in front of the cat. The cat sits up straight, resuming its serious expression. It looks toward the camera and blinks slowly. Finally, it stealthily reaches out a paw and pulls the cup toward itself.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="Orange Tabby Cat Barista Video Prompt">
+
+**[🎬 Watch Video →](https://x.com/zhongying14/status/2081818532786974777)**
+
+**Author:** [麻酱AI实验室](https://x.com/zhongying14) | **Source:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Published:** Jul 27, 2026
+
+---
+### Magical Rose Bouquet Throw Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed 10-second video prompt for creating a macro cinematic ASMR shot of honey dripping onto glass with realistic reflections.
+> This detailed prompt transforms a reference image into a magical scene where a subject throws a bouquet of roses that burst into glowing particles and calligraphy.
+
+#### 📝 Prompt
+
+```
+Use the referenced image as the exact base. Do not change her face, facial features, skin tone, hair, or expression in any way.\n\nTransform the scene so she is dynamically throwing the bouquet of sparkling red roses toward the viewer. The roses burst into glowing magical particles, floating petals, and trails of golden-red light that fill the air. \n\nSoft magical text “Believe in Magic” materializes in elegant glowing calligraphy right in the center of the flying roses and light. Keep the enchanted rose-garden background, add more sparkling lights and floating rose petals for a cinematic, eye-catching, magical atmosphere. Photorealistic, high detail, vibrant reds and soft golden glow.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="Magical Rose Bouquet Throw Video">
+
+**[🎬 Watch Video →](https://x.com/amynys/status/2081681005073825820)**
+
+**Author:** [Amy G](https://x.com/amynys) | **Source:** [Link](https://x.com/amynys/status/2081681005073825820) | **Published:** Jul 27, 2026
+
+---
+### Cinematic ASMR Liquid Honey Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An immersive ASMR video prompt that creates a high-quality 4K macro shot of iridescent honey dripping onto a glass plate, complete with detailed sound descriptions for a relaxing effect.
 
 #### 📝 Prompt
 
@@ -68,7 +110,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 Ultra-macro cinematic ASMR video, 10 seconds. A transparent crystal honeycomb slowly drips iridescent honey onto a glass plate. Tiny rainbow reflections dance across the surface. Extreme close-up, shallow depth of field, 4K realism. ASMR sounds: thick honey stretching, delicate droplets landing, subtle glass resonance, soft ambient silence. Smooth slow-motion camera movement, mesmerizing and relaxing.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Macro Iridescent Honey ASMR Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Cinematic ASMR Liquid Honey Video">
 
 **[🎬 Watch Video →](https://x.com/MrDasOnX/status/2081634357060726896)**
 
@@ -3042,52 +3084,13 @@ Use @Image 1 as the starting scene. The camera angle is completely fixed. Initia
 **Author:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Source:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Published:** Jun 2, 2026
 
 ---
-### First Person Taxi Drive Simulation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt to generate a first-person view of a taxi driving along a specific route provided in a reference screenshot.
-
-#### 📝 Prompt
-
-```
-create a first person view of someone driving a taxi cab along the route in the reference image
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="First Person Taxi Drive Simulation">
-
-**[🎬 Watch Video →](https://x.com/c_nemri/status/2061689402741469191)**
-
-**Author:** [Chouaieb Nemri](https://x.com/c_nemri) | **Source:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Published:** Jun 2, 2026
-
----
-### Hyper Realistic Turquoise Panther Chameleon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive prompt for generating a high-fidelity video of a fictional turquoise panther chameleon that appears strikingly lifelike.
-
-#### 📝 Prompt
-
-```
-A turquoise panther chameleon that doesn't exist
-Yet somehow it feels completely real
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="Hyper Realistic Turquoise Panther Chameleon">
-
-**[🎬 Watch Video →](https://x.com/ai_with_shah/status/2061403989623624181)**
-
-**Author:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Published:** Jun 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 36 more prompts not shown here
+### 🎯 38 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3133,6 +3136,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T06:25:39.781Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-28T10:32:59.467Z</sub>
 
 </div>

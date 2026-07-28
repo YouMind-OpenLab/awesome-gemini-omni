@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **136** |
+| 📝 提示词总数 | **138** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-07-28** |
 
@@ -56,6 +56,52 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 橘色虎斑猫咖啡师视频提示词
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 这是一份为视频生成模型设计的详细多场景提示词，主角是一只在咖啡店里扮演专业咖啡师的橘色美国短毛猫。
+
+#### 📝 提示词
+
+```
+[00:00-00:03] 镜头从咖啡店入口推向吧台。一只橘色美国短毛猫正坐在吧台后的软垫上，系着一条小围裙。它表情严肃庄重，看起来像是一位敬业的咖啡师。它用爪子轻轻触碰咖啡豆，并低头闻了闻咖啡的香气。
+
+[00:03-00:07] 镜头拉近。猫咪仔细观察着一杯刚做好的拿铁。它伸出爪子轻轻触碰杯缘，然后低头闻了闻奶泡。它忍不住快速舔了一下奶泡，随即立刻抬头看向镜头，假装什么都没发生。
+
+[00:07-00:10] 一个小咖啡杯被推到猫咪面前。猫咪坐直身体，恢复了严肃的表情。它看向镜头并缓慢地眨了眨眼。最后，它悄悄伸出一只爪子，将杯子拉向自己。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="橘色虎斑猫咖啡师视频提示词">
+
+**[🎬 观看视频 →](https://x.com/zhongying14/status/2081818532786974777)**
+
+**作者:** [麻酱AI实验室](https://x.com/zhongying14) | **来源:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **发布时间:** Jul 27, 2026
+
+---
+### 魔法玫瑰花束抛洒视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此详细提示词可将参考图像转化为一个充满魔法的场景：主体抛出一束玫瑰，玫瑰随即炸裂成发光的粒子与书法文字。
+
+#### 📝 提示词
+
+```
+请以参考图像为基础进行创作。请勿以任何方式改变人物的面部、五官、肤色、发型或表情。
+
+将场景转换为她正充满动感地将那束闪耀的红玫瑰抛向镜头。玫瑰炸裂成发光的魔法粒子、飘浮的花瓣以及弥漫在空气中的金红色光影轨迹。
+
+在飞舞的玫瑰与光影中心，优雅的发光书法文字“Believe in Magic”缓缓浮现。保持原有的魔法玫瑰花园背景，增加更多闪烁的光点和飘浮的玫瑰花瓣，营造出电影级、引人注目且充满魔法的氛围。照片级真实感，高细节，鲜艳的红色与柔和的金光。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="魔法玫瑰花束抛洒视频">
+
+**[🎬 观看视频 →](https://x.com/amynys/status/2081681005073825820)**
+
+**作者:** [Amy G](https://x.com/amynys) | **来源:** [Link](https://x.com/amynys/status/2081681005073825820) | **发布时间:** Jul 27, 2026
+
+---
 ### 微距虹彩蜂蜜 ASMR 视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2907,52 +2953,13 @@ POV：你是一只正在逃离家猫追捕的小老鼠。超写实第一人称�
 **作者:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **来源:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **发布时间:** Jun 2, 2026
 
 ---
-### 第一人称出租车驾驶模拟
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于根据参考截图中的特定路线，生成第一人称视角出租车驾驶画面的提示词。
-
-#### 📝 提示词
-
-```
-创建一个第一人称视角，展示某人沿着参考图像中的路线驾驶出租车
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="第一人称出租车驾驶模拟">
-
-**[🎬 观看视频 →](https://x.com/c_nemri/status/2061689402741469191)**
-
-**作者:** [Chouaieb Nemri](https://x.com/c_nemri) | **来源:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **发布时间:** Jun 2, 2026
-
----
-### 超写实绿松石色豹变色龙
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于生成高保真视频的描述性提示词，旨在呈现一只栩栩如生的虚构绿松石色豹变色龙。
-
-#### 📝 提示词
-
-```
-一只并不存在的绿松石色豹变色龙
-却在某种程度上显得如此真实
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="超写实绿松石色豹变色龙">
-
-**[🎬 观看视频 →](https://x.com/ai_with_shah/status/2061403989623624181)**
-
-**作者:** [Shah](https://x.com/ai_with_shah) | **来源:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **发布时间:** Jun 1, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 36 更多提示词未在此显示
+### 🎯 38 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2998,6 +3005,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-28T06:25:41.052Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-28T10:33:00.803Z</sub>
 
 </div>

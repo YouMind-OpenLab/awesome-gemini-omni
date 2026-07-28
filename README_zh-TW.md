@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **136** |
+| 📝 提示詞總數 | **138** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-07-28** |
 
@@ -56,6 +56,52 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 橘色虎斑貓咖啡師影片提示詞
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一份詳細的多場景影片生成模型提示詞，主角是一隻在咖啡廳裡扮演專業咖啡師的橘色美國短毛貓。
+
+#### 📝 提示詞
+
+```
+[00:00-00:03] 鏡頭從咖啡廳入口向櫃檯推進。一隻橘色美國短毛貓坐在櫃檯後的坐墊上，穿著一件小圍裙。牠表情嚴肅而莊重，看起來就像一位敬業的咖啡師。牠用爪子輕輕觸碰咖啡豆，並低頭聞著咖啡香氣。
+
+[00:03-00:07] 鏡頭拉近。貓咪仔細觀察著剛做好的拿鐵。牠伸出爪子輕輕觸碰杯緣，接著低頭聞了聞奶泡。牠忍不住快速舔了一下奶泡，隨即抬頭看向鏡頭，假裝什麼事都沒發生過。
+
+[00:07-00:10] 一個小咖啡杯被推到貓咪面前。貓咪坐直了身體，恢復嚴肅的表情。牠看向鏡頭並緩慢地眨眼。最後，牠悄悄伸出一隻爪子，將杯子拉向自己。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="橘色虎斑貓咖啡師影片提示詞">
+
+**[🎬 觀看視頻 →](https://x.com/zhongying14/status/2081818532786974777)**
+
+**作者:** [麻酱AI实验室](https://x.com/zhongying14) | **來源:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **發布時間:** Jul 27, 2026
+
+---
+### 夢幻玫瑰花束拋擲影片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 此詳細提示詞可將參考圖像轉換為夢幻場景，讓主角拋出玫瑰花束，並使其綻放為發光的粒子與書法字體。
+
+#### 📝 提示詞
+
+```
+請以參考圖像作為基礎。請勿以任何方式更改她的臉部、五官、膚色、髮型或表情。
+
+將場景轉換為她正充滿動感地將閃耀的紅玫瑰花束拋向觀眾。玫瑰花束綻放為發光的魔法粒子、飄浮的花瓣，以及充滿空氣的紅金色光影軌跡。
+
+柔和的魔法文字「Believe in Magic」以優雅的發光書法字體，在飛舞的玫瑰與光影正中央浮現。保留迷人的玫瑰花園背景，增加更多閃爍光點與飄浮的玫瑰花瓣，營造出電影般吸睛的魔法氛圍。照片級真實感、高細節、鮮豔的紅色與柔和的金光。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="夢幻玫瑰花束拋擲影片">
+
+**[🎬 觀看視頻 →](https://x.com/amynys/status/2081681005073825820)**
+
+**作者:** [Amy G](https://x.com/amynys) | **來源:** [Link](https://x.com/amynys/status/2081681005073825820) | **發布時間:** Jul 27, 2026
+
+---
 ### 微距虹彩蜂蜜 ASMR 影片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2914,52 +2960,13 @@ POV：你是一隻正在逃離家貓追捕的小老鼠。超逼真第一人稱�
 **作者:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **來源:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **發布時間:** Jun 2, 2026
 
 ---
-### 第一人稱計程車駕駛模擬
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於生成第一人稱視角計程車駕駛的提示詞，該駕駛路線需參考提供的截圖。
-
-#### 📝 提示詞
-
-```
-建立一個第一人稱視角，模擬駕駛員沿著參考圖片中的路線駕駛計程車
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="第一人稱計程車駕駛模擬">
-
-**[🎬 觀看視頻 →](https://x.com/c_nemri/status/2061689402741469191)**
-
-**作者:** [Chouaieb Nemri](https://x.com/c_nemri) | **來源:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **發布時間:** Jun 2, 2026
-
----
-### 超寫實綠松石色豹紋變色龍
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於生成一隻虛構的綠松石色豹紋變色龍的高畫質影片描述提示詞，呈現出極其逼真的視覺效果。
-
-#### 📝 提示詞
-
-```
-一隻不存在的綠松石色豹紋變色龍
-卻在某種程度上顯得如此真實
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="超寫實綠松石色豹紋變色龍">
-
-**[🎬 觀看視頻 →](https://x.com/ai_with_shah/status/2061403989623624181)**
-
-**作者:** [Shah](https://x.com/ai_with_shah) | **來源:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **發布時間:** Jun 1, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 36 更多提示詞未在此顯示
+### 🎯 38 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3005,6 +3012,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-28T06:25:42.037Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-28T10:33:02.394Z</sub>
 
 </div>

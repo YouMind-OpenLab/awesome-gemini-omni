@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **136** |
+| 📝 Toplam İstem | **138** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-28** |
 
@@ -56,6 +56,52 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Turuncu Tekir Kedi Barista Video İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Bir kahve dükkanı ortamında ciddi bir barista rolü üstlenen turuncu bir American Shorthair kedinin yer aldığı, video üretim modeline yönelik detaylı çok sahneli bir istem.
+
+#### 📝 İstem
+
+```
+[00:00-00:03] Kamera, kahve dükkanının girişinden tezgaha doğru yakınlaşır. Tezgahın arkasındaki bir minder üzerinde oturan, küçük bir önlük takmış turuncu bir American Shorthair kedi görülür. Kendini işine adamış bir barista gibi görünen ciddi ve ağırbaşlı bir ifadesi vardır. Patisiyle nazikçe kahve çekirdeklerine dokunur ve kahve aromasını koklamak için başını eğer.
+
+[00:03-00:07] Kamera daha da yaklaşır. Kedi, yeni yapılmış bir latteyi dikkatle inceler. Patisini uzatıp fincanın kenarına hafifçe dokunur, ardından süt köpüğünü koklamak için başını eğer. Köpükten hızlıca bir yalama almaktan kendini alamaz. Hemen ardından, hiçbir şey olmamış gibi kameraya bakar.
+
+[00:07-00:10] Kedinin önüne küçük bir kahve fincanı itilir. Kedi dikleşir ve ciddi ifadesine geri döner. Kameraya doğru bakar ve yavaşça göz kırpar. Sonunda, gizlice patisini uzatır ve fincanı kendine doğru çeker.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="Turuncu Tekir Kedi Barista Video İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/zhongying14/status/2081818532786974777)**
+
+**Yazar:** [麻酱AI实验室](https://x.com/zhongying14) | **Kaynak:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Yayınlandı:** Jul 27, 2026
+
+---
+### Büyülü Gül Buketi Fırlatma Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bu detaylı komut, referans görselinizi, bir öznenin gül buketini fırlattığı ve buketin parlayan parçacıklar ile kaligrafiye dönüştüğü büyülü bir sahneye dönüştürür.
+
+#### 📝 İstem
+
+```
+Referans görseli tam olarak temel alın. Yüzünü, yüz hatlarını, cilt tonunu, saçını veya ifadesini hiçbir şekilde değiştirmeyin.
+
+Sahneyi, özne dinamik bir şekilde parıldayan kırmızı gül buketini izleyiciye doğru fırlatacak şekilde dönüştürün. Güller, havayı dolduran parlayan büyülü parçacıklara, uçuşan taç yapraklara ve altın-kırmızı ışık izlerine dönüşsün.
+
+Uçuşan güllerin ve ışığın tam merkezinde, zarif ve parlayan bir kaligrafiyle “Believe in Magic” (Büyüye İnan) yazan yumuşak, büyülü bir metin belirmesini sağlayın. Büyülü gül bahçesi arka planını koruyun; sinematik, dikkat çekici ve büyülü bir atmosfer için daha fazla parlayan ışık ve uçuşan gül yaprağı ekleyin. Fotogerçekçi, yüksek detaylı, canlı kırmızılar ve yumuşak altın rengi ışıltı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="Büyülü Gül Buketi Fırlatma Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/amynys/status/2081681005073825820)**
+
+**Yazar:** [Amy G](https://x.com/amynys) | **Kaynak:** [Link](https://x.com/amynys/status/2081681005073825820) | **Yayınlandı:** Jul 27, 2026
+
+---
 ### Makro Yanardöner Bal ASMR Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2877,52 +2923,13 @@ Başlangıç sahnesi olarak @Image 1'i kullanın. Kamera açısı tamamen sabit 
 **Yazar:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Kaynak:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Yayınlandı:** Jun 2, 2026
 
 ---
-### Birinci Şahıs Taksi Sürüş Simülasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Referans ekran görüntüsünde sağlanan belirli bir rota boyunca giden bir taksinin birinci şahıs görünümünü oluşturmak için bir komut.
-
-#### 📝 İstem
-
-```
-referans görseldeki rota boyunca taksi süren birinin birinci şahıs görünümünü oluştur
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="Birinci Şahıs Taksi Sürüş Simülasyonu">
-
-**[🎬 Videoyu izle →](https://x.com/c_nemri/status/2061689402741469191)**
-
-**Yazar:** [Chouaieb Nemri](https://x.com/c_nemri) | **Kaynak:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Yayınlandı:** Jun 2, 2026
-
----
-### Hiper Gerçekçi Turkuaz Panter Bukalemun
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Son derece gerçekçi görünen, hayali bir turkuaz panter bukalemunun yüksek kaliteli videosunu oluşturmak için açıklayıcı bir komut.
-
-#### 📝 İstem
-
-```
-Var olmayan bir turkuaz panter bukalemun
-Ama yine de tamamen gerçek hissettiriyor
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="Hiper Gerçekçi Turkuaz Panter Bukalemun">
-
-**[🎬 Videoyu izle →](https://x.com/ai_with_shah/status/2061403989623624181)**
-
-**Yazar:** [Shah](https://x.com/ai_with_shah) | **Kaynak:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Yayınlandı:** Jun 1, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 36 burada gösterilmeyen daha fazla istem
+### 🎯 38 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2968,6 +2975,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-28T06:25:55.979Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-28T10:33:18.311Z</sub>
 
 </div>

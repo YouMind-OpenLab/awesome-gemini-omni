@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **136** |
+| 📝 총 프롬프트 수 | **138** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-28** |
 
@@ -56,6 +56,52 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 주황색 태비 고양이 바리스타 비디오 프롬프트
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 커피숍에서 진지한 바리스타 역할을 하는 주황색 아메리칸 쇼트헤어 고양이를 주인공으로 한 비디오 생성 모델용 상세 멀티씬 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+[00:00-00:03] 카메라가 커피숍 입구에서 카운터 쪽으로 줌인합니다. 카운터 뒤 쿠션 위에 작은 앞치마를 두른 주황색 아메리칸 쇼트헤어 고양이가 앉아 있습니다. 고양이는 마치 헌신적인 바리스타처럼 진지하고 엄숙한 표정을 짓고 있습니다. 고양이가 앞발로 커피 원두를 부드럽게 만지고 고개를 숙여 커피 향을 맡습니다.
+
+[00:03-00:07] 카메라가 더 가까이 다가갑니다. 고양이가 갓 만든 라떼를 주의 깊게 관찰합니다. 앞발을 뻗어 컵 가장자리를 살며시 건드린 뒤, 고개를 숙여 우유 거품 향을 맡습니다. 고양이는 참지 못하고 거품을 살짝 핥아먹습니다. 그러고는 곧바로 아무 일도 없었다는 듯 카메라를 쳐다봅니다.
+
+[00:07-00:10] 작은 커피잔 하나가 고양이 앞으로 밀려옵니다. 고양이는 허리를 곧게 펴고 다시 진지한 표정을 짓습니다. 카메라를 향해 천천히 눈을 깜빡입니다. 마지막으로 고양이는 슬그머니 앞발을 뻗어 컵을 자기 쪽으로 당깁니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="주황색 태비 고양이 바리스타 비디오 프롬프트">
+
+**[🎬 비디오 보기 →](https://x.com/zhongying14/status/2081818532786974777)**
+
+**작성자:** [麻酱AI实验室](https://x.com/zhongying14) | **출처:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **게시일:** Jul 27, 2026
+
+---
+### 마법 같은 장미 꽃다발 던지기 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 이 상세한 프롬프트는 참조 이미지를 피사체가 장미 꽃다발을 던져 빛나는 입자와 캘리그라피로 변하는 마법 같은 장면으로 바꿔줍니다.
+
+#### 📝 프롬프트
+
+```
+참조 이미지를 정확한 베이스로 사용하세요. 그녀의 얼굴, 이목구비, 피부 톤, 머리카락 또는 표정을 절대 변경하지 마세요.
+
+그녀가 반짝이는 빨간 장미 꽃다발을 시청자를 향해 역동적으로 던지는 장면으로 변환하세요. 장미는 빛나는 마법 입자, 떠다니는 꽃잎, 공기를 가득 채우는 금빛 붉은 빛의 궤적으로 터져 나옵니다.
+
+날아가는 장미와 빛의 바로 중앙에 우아하고 빛나는 캘리그라피로 “Believe in Magic”이라는 부드러운 마법 문구가 나타나게 하세요. 매혹적인 장미 정원 배경을 유지하고, 더 많은 반짝이는 조명과 떠다니는 장미 꽃잎을 추가하여 영화 같고 시선을 사로잡는 마법 같은 분위기를 연출하세요. 사실적인 사진, 높은 디테일, 선명한 빨간색과 부드러운 금빛 광채를 표현하세요.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="마법 같은 장미 꽃다발 던지기 영상">
+
+**[🎬 비디오 보기 →](https://x.com/amynys/status/2081681005073825820)**
+
+**작성자:** [Amy G](https://x.com/amynys) | **출처:** [Link](https://x.com/amynys/status/2081681005073825820) | **게시일:** Jul 27, 2026
+
+---
 ### 매크로 무지갯빛 꿀 ASMR 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2901,52 +2947,13 @@ POV: 당신은 집고양이를 피해 도망치는 작은 쥐입니다. 초현�
 **작성자:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **출처:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **게시일:** Jun 2, 2026
 
 ---
-### 1인칭 택시 운전 시뮬레이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 참조 스크린샷에 제공된 특정 경로를 따라 택시를 운전하는 1인칭 시점 영상을 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-참조 이미지의 경로를 따라 택시를 운전하는 사람의 1인칭 시점 영상을 생성해 줘
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="1인칭 택시 운전 시뮬레이션">
-
-**[🎬 비디오 보기 →](https://x.com/c_nemri/status/2061689402741469191)**
-
-**작성자:** [Chouaieb Nemri](https://x.com/c_nemri) | **출처:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **게시일:** Jun 2, 2026
-
----
-### 초현실적인 터키석 색상의 팬서 카멜레온
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 놀라울 정도로 실감 나는 가상의 터키석 색상 팬서 카멜레온의 고화질 영상을 생성하기 위한 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-실제로는 존재하지 않는 터키석 색상의 팬서 카멜레온
-그럼에도 불구하고 완전히 실물처럼 느껴집니다
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 터키석 색상의 팬서 카멜레온">
-
-**[🎬 비디오 보기 →](https://x.com/ai_with_shah/status/2061403989623624181)**
-
-**작성자:** [Shah](https://x.com/ai_with_shah) | **출처:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **게시일:** Jun 1, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 36 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 38 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2992,6 +2999,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-28T06:25:44.273Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-28T10:33:05.052Z</sub>
 
 </div>

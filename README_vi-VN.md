@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **136** |
+| 📝 Tổng số prompt | **138** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-28** |
 
@@ -56,6 +56,52 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Prompt video chú mèo mướp cam làm barista
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một prompt chi tiết gồm nhiều cảnh dành cho mô hình tạo video, với nhân vật chính là một chú mèo American Shorthair màu cam đang làm barista chuyên nghiệp trong một quán cà phê.
+
+#### 📝 Prompt
+
+```
+[00:00-00:03] Camera zoom từ cửa quán cà phê vào phía quầy pha chế. Một chú mèo American Shorthair màu cam đang ngồi trên đệm sau quầy, đeo một chiếc tạp dề nhỏ. Chú mèo có biểu cảm nghiêm túc và trang trọng, trông như một barista tận tâm. Nó nhẹ nhàng chạm vào những hạt cà phê bằng chân và cúi đầu ngửi hương thơm của cà phê.
+
+[00:03-00:07] Camera di chuyển lại gần hơn. Chú mèo chăm chú quan sát một tách latte vừa mới pha xong. Nó đưa chân ra chạm nhẹ vào miệng tách, sau đó cúi đầu ngửi lớp bọt sữa. Nó không kìm được mà liếm nhanh một chút bọt. Ngay sau đó, nó ngước nhìn vào camera, giả vờ như không có chuyện gì xảy ra.
+
+[00:07-00:10] Một tách cà phê nhỏ được đẩy đến trước mặt chú mèo. Chú mèo ngồi thẳng dậy, lấy lại vẻ mặt nghiêm túc. Nó nhìn về phía camera và chớp mắt chậm rãi. Cuối cùng, nó lén lút đưa chân ra và kéo tách cà phê về phía mình.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="Prompt video chú mèo mướp cam làm barista">
+
+**[🎬 Xem video →](https://x.com/zhongying14/status/2081818532786974777)**
+
+**Tác giả:** [麻酱AI实验室](https://x.com/zhongying14) | **Nguồn:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Đã xuất bản:** Jul 27, 2026
+
+---
+### Video tung bó hoa hồng kỳ ảo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Câu lệnh chi tiết này biến hình ảnh tham chiếu thành một khung cảnh kỳ ảo, nơi nhân vật tung bó hoa hồng và chúng vỡ tan thành những hạt sáng cùng các nét chữ thư pháp.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh tham chiếu làm cơ sở chính xác. Không được thay đổi khuôn mặt, các đặc điểm trên khuôn mặt, tông da, mái tóc hoặc biểu cảm của nhân vật dưới bất kỳ hình thức nào.
+
+Chuyển đổi khung cảnh để nhân vật đang tung bó hoa hồng đỏ lấp lánh về phía người xem một cách đầy sống động. Những bông hoa hồng vỡ tan thành các hạt sáng kỳ ảo, những cánh hoa bay bổng và những vệt sáng đỏ vàng lấp đầy không gian.
+
+Dòng chữ kỳ ảo “Believe in Magic” hiện lên bằng nét chữ thư pháp thanh tao, rực rỡ ngay giữa những bông hoa hồng đang bay và ánh sáng. Giữ nguyên bối cảnh khu vườn hoa hồng đầy mê hoặc, thêm nhiều ánh sáng lấp lánh và những cánh hoa hồng bay trong gió để tạo nên bầu không khí điện ảnh, bắt mắt và đầy ma thuật. Ảnh chân thực, độ chi tiết cao, màu đỏ rực rỡ và ánh sáng vàng dịu nhẹ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="Video tung bó hoa hồng kỳ ảo">
+
+**[🎬 Xem video →](https://x.com/amynys/status/2081681005073825820)**
+
+**Tác giả:** [Amy G](https://x.com/amynys) | **Nguồn:** [Link](https://x.com/amynys/status/2081681005073825820) | **Đã xuất bản:** Jul 27, 2026
+
+---
 ### Video ASMR quay cận cảnh mật ong óng ánh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2879,52 +2925,13 @@ Sử dụng @Image 1 làm cảnh bắt đầu. Góc máy hoàn toàn cố địn
 **Tác giả:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Nguồn:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Đã xuất bản:** Jun 2, 2026
 
 ---
-### Mô phỏng lái xe taxi góc nhìn thứ nhất
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh để tạo góc nhìn thứ nhất của một chiếc taxi đang chạy dọc theo lộ trình cụ thể được cung cấp trong ảnh chụp màn hình tham chiếu.
-
-#### 📝 Prompt
-
-```
-tạo góc nhìn thứ nhất của một người đang lái xe taxi dọc theo lộ trình trong hình ảnh tham chiếu
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="Mô phỏng lái xe taxi góc nhìn thứ nhất">
-
-**[🎬 Xem video →](https://x.com/c_nemri/status/2061689402741469191)**
-
-**Tác giả:** [Chouaieb Nemri](https://x.com/c_nemri) | **Nguồn:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Đã xuất bản:** Jun 2, 2026
-
----
-### Tắc kè hoa Panther màu ngọc lam siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả để tạo video độ phân giải cao về một chú tắc kè hoa Panther màu ngọc lam hư cấu trông sống động đến kinh ngạc.
-
-#### 📝 Prompt
-
-```
-Một chú tắc kè hoa Panther màu ngọc lam không có thật
-Nhưng bằng cách nào đó lại mang cảm giác hoàn toàn chân thực
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="Tắc kè hoa Panther màu ngọc lam siêu thực">
-
-**[🎬 Xem video →](https://x.com/ai_with_shah/status/2061403989623624181)**
-
-**Tác giả:** [Shah](https://x.com/ai_with_shah) | **Nguồn:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Đã xuất bản:** Jun 1, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 36 prompt khác không hiển thị ở đây
+### 🎯 38 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2970,6 +2977,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-28T06:25:46.624Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-28T10:33:07.448Z</sub>
 
 </div>

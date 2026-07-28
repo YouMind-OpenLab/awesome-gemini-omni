@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **136** |
+| 📝 プロンプト総数 | **138** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-07-28** |
 
@@ -56,6 +56,52 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 茶トラ猫のバリスタの動画生成プロンプト
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> コーヒーショップで真剣なバリスタとして働く茶トラのアメリカンショートヘアを題材にした、動画生成モデル向けの多シーン詳細プロンプトです。
+
+#### 📝 プロンプト
+
+```
+[00:00-00:03] カメラがコーヒーショップの入り口からカウンターに向かってズームインする。カウンターの裏にあるクッションの上に、小さなエプロンをつけた茶トラのアメリカンショートヘアが座っている。猫は献身的なバリスタのような、真剣で厳かな表情をしている。前足でコーヒー豆にそっと触れ、頭を下げてコーヒーの香りを嗅ぐ。
+
+[00:03-00:07] カメラがさらに近づく。猫は淹れたてのラテを注意深く観察する。前足を伸ばしてカップの縁にそっと触れ、頭を下げてミルクフォームの香りを嗅ぐ。思わずフォームを少し舐めてしまうが、直後に何事もなかったかのようにカメラを見上げる。
+
+[00:07-00:10] 小さなコーヒーカップが猫の前に差し出される。猫は姿勢を正し、真剣な表情に戻る。カメラの方を見てゆっくりと瞬きをする。最後に、猫はこっそりと前足を伸ばし、カップを自分の方へ引き寄せる。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="茶トラ猫のバリスタの動画生成プロンプト">
+
+**[🎬 動画を見る →](https://x.com/zhongying14/status/2081818532786974777)**
+
+**作者:** [麻酱AI实验室](https://x.com/zhongying14) | **ソース:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **公開日:** Jul 27, 2026
+
+---
+### 魔法のバラのブーケを投げる動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> この詳細なプロンプトを使用して、参照画像を、被写体が投げたバラのブーケが光り輝く粒子とカリグラフィーへと変化する魔法のようなシーンに変換します。
+
+#### 📝 プロンプト
+
+```
+参照画像をそのままベースとして使用してください。彼女の顔、顔立ち、肌の色、髪型、表情は一切変更しないでください。
+
+彼女が輝く赤いバラのブーケを視聴者に向かってダイナミックに投げているシーンに変換してください。バラは光り輝く魔法の粒子、舞い散る花びら、そして空中に広がる金赤色の光の軌跡へと変化します。
+
+空中に舞うバラと光の中心に、エレガントで輝くカリグラフィーで「Believe in Magic」という魔法のテキストを浮かび上がらせてください。魔法のバラ園の背景は維持しつつ、きらめく光と舞い散るバラの花びらを追加して、映画のような目を引く魔法の雰囲気を演出してください。フォトリアル、高精細、鮮やかな赤と柔らかな黄金の輝き。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="魔法のバラのブーケを投げる動画">
+
+**[🎬 動画を見る →](https://x.com/amynys/status/2081681005073825820)**
+
+**作者:** [Amy G](https://x.com/amynys) | **ソース:** [Link](https://x.com/amynys/status/2081681005073825820) | **公開日:** Jul 27, 2026
+
+---
 ### マクロ虹色ハニー ASMR 動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2902,52 +2948,13 @@ POV：あなたは家猫から逃げる小さなネズミです。超リアル�
 **作者:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **ソース:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **公開日:** Jun 2, 2026
 
 ---
-### 一人称視点のタクシー運転シミュレーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 参照画像で指定されたルートに沿ってタクシーを運転する一人称視点の映像を生成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-参照画像内のルートに沿ってタクシーを運転している一人称視点の映像を作成してください
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="一人称視点のタクシー運転シミュレーション">
-
-**[🎬 動画を見る →](https://x.com/c_nemri/status/2061689402741469191)**
-
-**作者:** [Chouaieb Nemri](https://x.com/c_nemri) | **ソース:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **公開日:** Jun 2, 2026
-
----
-### 超リアルなターコイズブルーのパンサーカメレオン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 実在しないターコイズブルーのパンサーカメレオンを、驚くほどリアルに再現した高精細な動画を生成するためのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-実在しないターコイズブルーのパンサーカメレオン
-それなのに、なぜか本物のように感じられる
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="超リアルなターコイズブルーのパンサーカメレオン">
-
-**[🎬 動画を見る →](https://x.com/ai_with_shah/status/2061403989623624181)**
-
-**作者:** [Shah](https://x.com/ai_with_shah) | **ソース:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **公開日:** Jun 1, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 36 さらに多くのプロンプトがあります
+### 🎯 38 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2993,6 +3000,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-28T06:25:43.118Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-28T10:33:03.794Z</sub>
 
 </div>

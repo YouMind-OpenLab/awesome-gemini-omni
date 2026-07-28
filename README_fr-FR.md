@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **136** |
+| 📝 Total des prompts | **138** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-07-28** |
 
@@ -56,6 +56,48 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt vidéo : Chat tabby orange barista
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé en plusieurs scènes pour un modèle de génération vidéo mettant en scène un chat American Shorthair orange jouant le rôle d'un barista sérieux dans un café.
+
+#### 📝 Prompt
+
+```
+[00:00-00:03] La caméra zoome depuis l'entrée du café vers le comptoir. Un chat American Shorthair orange est assis sur un coussin derrière le comptoir, portant un petit tablier. Il a une expression sérieuse et solennelle, tel un barista dévoué. Il touche délicatement les grains de café avec sa patte et incline la tête pour humer l'arôme du café.
+
+[00:03-00:07] La caméra se rapproche. Le chat observe attentivement un latte fraîchement préparé. Il tend sa patte pour effleurer le bord de la tasse, puis incline la tête pour sentir la mousse de lait. Il ne peut s'empêcher de donner un petit coup de langue dans la mousse. Immédiatement après, il regarde la caméra, faisant comme si de rien n'était.
+
+[00:07-00:10] Une petite tasse de café est poussée devant le chat. Le chat se redresse, reprenant son expression sérieuse. Il regarde vers la caméra et cligne lentement des yeux. Finalement, il tend furtivement une patte et tire la tasse vers lui.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="Prompt vidéo : Chat tabby orange barista">
+
+**[🎬 Voir la vidéo →](https://x.com/zhongying14/status/2081818532786974777)**
+
+**Auteur:** [麻酱AI实验室](https://x.com/zhongying14) | **Source:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Publié:** Jul 27, 2026
+
+---
+### Vidéo magique de lancer de bouquet de roses
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ce prompt détaillé transforme une image de référence en une scène magique où un sujet lance un bouquet de roses qui se transforme en particules lumineuses et en calligraphie.
+
+#### 📝 Prompt
+
+```
+Utilisez l'image référencée comme base exacte. Ne modifiez en aucun cas son visage, ses traits, sa carnation, ses cheveux ou son expression.\n\nTransformez la scène pour qu'elle lance dynamiquement le bouquet de roses rouges étincelantes vers le spectateur. Les roses éclatent en particules magiques lumineuses, en pétales flottants et en traînées de lumière rouge doré qui remplissent l'air.\n\nUn texte magique doux « Believe in Magic » se matérialise dans une élégante calligraphie lumineuse juste au centre des roses volantes et de la lumière. Conservez l'arrière-plan de jardin de roses enchanté, ajoutez davantage de lumières scintillantes et de pétales de roses flottants pour une atmosphère cinématographique, captivante et magique. Photoréaliste, très détaillé, rouges vibrants et lueur dorée douce.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="Vidéo magique de lancer de bouquet de roses">
+
+**[🎬 Voir la vidéo →](https://x.com/amynys/status/2081681005073825820)**
+
+**Auteur:** [Amy G](https://x.com/amynys) | **Source:** [Link](https://x.com/amynys/status/2081681005073825820) | **Publié:** Jul 27, 2026
+
+---
 ### Vidéo ASMR macro de miel irisé
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2907,52 +2949,13 @@ Utilisez @Image 1 comme scène de départ. L'angle de la caméra est totalement 
 **Auteur:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Source:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Publié:** Jun 2, 2026
 
 ---
-### Simulation de conduite de taxi en vue à la première personne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt pour générer une vue à la première personne d'un taxi circulant le long d'un itinéraire spécifique fourni dans une capture d'écran de référence.
-
-#### 📝 Prompt
-
-```
-créez une vue à la première personne de quelqu'un conduisant un taxi le long de l'itinéraire présent dans l'image de référence
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="Simulation de conduite de taxi en vue à la première personne">
-
-**[🎬 Voir la vidéo →](https://x.com/c_nemri/status/2061689402741469191)**
-
-**Auteur:** [Chouaieb Nemri](https://x.com/c_nemri) | **Source:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Publié:** Jun 2, 2026
-
----
-### Caméléon panthère turquoise hyperréaliste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptif pour générer une vidéo haute fidélité d'un caméléon panthère turquoise fictif à l'aspect saisissant de réalisme.
-
-#### 📝 Prompt
-
-```
-Un caméléon panthère turquoise qui n'existe pas
-Et pourtant, il semble tout à fait réel
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="Caméléon panthère turquoise hyperréaliste">
-
-**[🎬 Voir la vidéo →](https://x.com/ai_with_shah/status/2061403989623624181)**
-
-**Auteur:** [Shah](https://x.com/ai_with_shah) | **Source:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Publié:** Jun 1, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 36 prompts supplémentaires non affichés ici
+### 🎯 38 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2998,6 +3001,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-28T06:25:51.904Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-28T10:33:13.473Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **136** |
+| 📝 Gesamtanzahl Prompts | **138** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-28** |
 
@@ -56,6 +56,48 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Video-Prompt für einen orangefarbenen getigerten Katzen-Barista
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Multi-Scene-Prompt für ein Videogenerierungsmodell, in dem eine orangefarbene American Shorthair Katze als seriöser Barista in einem Café agiert.
+
+#### 📝 Prompt
+
+```
+[00:00-00:03] Die Kamera zoomt vom Eingang des Cafés in Richtung Theke. Eine orangefarbene American Shorthair Katze sitzt auf einem Kissen hinter der Theke und trägt eine kleine Schürze. Sie hat einen ernsten und feierlichen Gesichtsausdruck und wirkt wie ein engagierter Barista. Sie berührt sanft die Kaffeebohnen mit ihrer Pfote und neigt den Kopf, um am Kaffeearoma zu riechen.
+
+[00:03-00:07] Die Kamera bewegt sich näher heran. Die Katze beobachtet aufmerksam einen frisch zubereiteten Latte. Sie streckt ihre Pfote aus, um den Rand der Tasse sanft zu berühren, und neigt dann den Kopf, um am Milchschaum zu riechen. Sie kann nicht anders, als kurz den Schaum abzulecken. Sofort danach schaut sie zur Kamera hoch und tut so, als wäre nichts passiert.
+
+[00:07-00:10] Eine kleine Kaffeetasse wird vor die Katze geschoben. Die Katze setzt sich aufrecht hin und nimmt wieder ihren ernsten Gesichtsausdruck an. Sie schaut in Richtung Kamera und blinzelt langsam. Schließlich streckt sie verstohlen eine Pfote aus und zieht die Tasse zu sich heran.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="Video-Prompt für einen orangefarbenen getigerten Katzen-Barista">
+
+**[🎬 Video ansehen →](https://x.com/zhongying14/status/2081818532786974777)**
+
+**Autor:** [麻酱AI实验室](https://x.com/zhongying14) | **Quelle:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Veröffentlicht:** Jul 27, 2026
+
+---
+### Magisches Video: Rosenstrauß-Wurf
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dieser detaillierte Prompt verwandelt ein Referenzbild in eine magische Szene, in der eine Person einen Rosenstrauß wirft, der in leuchtende Partikel und Kalligrafie explodiert.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das referenzierte Bild als exakte Grundlage. Verändern Sie auf keinen Fall ihr Gesicht, ihre Gesichtszüge, ihren Hautton, ihr Haar oder ihren Ausdruck.\n\nTransformieren Sie die Szene so, dass sie den Strauß aus funkelnden roten Rosen dynamisch in Richtung des Betrachters wirft. Die Rosen explodieren in leuchtende magische Partikel, schwebende Blütenblätter und Spuren aus gold-rotem Licht, die die Luft erfüllen.\n\nEin sanfter, magischer Schriftzug „Believe in Magic“ materialisiert sich in eleganter, leuchtender Kalligrafie direkt inmitten der fliegenden Rosen und des Lichts. Behalten Sie den verzauberten Rosengarten als Hintergrund bei und fügen Sie weitere funkelnde Lichter sowie schwebende Rosenblätter hinzu, um eine filmreife, auffällige und magische Atmosphäre zu schaffen. Fotorealistisch, detailreich, leuchtende Rottöne und ein sanfter goldener Glanz.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="Magisches Video: Rosenstrauß-Wurf">
+
+**[🎬 Video ansehen →](https://x.com/amynys/status/2081681005073825820)**
+
+**Autor:** [Amy G](https://x.com/amynys) | **Quelle:** [Link](https://x.com/amynys/status/2081681005073825820) | **Veröffentlicht:** Jul 27, 2026
+
+---
 ### Makro-Video von irisierendem Honig (ASMR)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2907,52 +2949,13 @@ Verwende @Image 1 als Ausgangsszene. Der Kamerawinkel ist absolut fixiert. Zu Be
 **Autor:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Quelle:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Veröffentlicht:** Jun 2, 2026
 
 ---
-### Taxi-Fahrsimulation aus der Ego-Perspektive
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt zur Generierung einer Ansicht aus der Ego-Perspektive eines Taxis, das einer in einem Referenz-Screenshot angegebenen Route folgt.
-
-#### 📝 Prompt
-
-```
-Erstelle eine Ansicht aus der Ego-Perspektive von jemandem, der ein Taxi entlang der Route im Referenzbild fährt
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5973d459d2a3a5f08fd5ab0d4fb0cf3f/thumbnails/thumbnail.jpg" width="600" alt="Taxi-Fahrsimulation aus der Ego-Perspektive">
-
-**[🎬 Video ansehen →](https://x.com/c_nemri/status/2061689402741469191)**
-
-**Autor:** [Chouaieb Nemri](https://x.com/c_nemri) | **Quelle:** [Link](https://x.com/c_nemri/status/2061689402741469191) | **Veröffentlicht:** Jun 2, 2026
-
----
-### Hyperrealistisches türkisfarbenes Pantherchamäleon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein beschreibender Prompt zur Erstellung eines hochauflösenden Videos eines fiktiven türkisfarbenen Pantherchamäleons, das täuschend echt wirkt.
-
-#### 📝 Prompt
-
-```
-Ein türkisfarbenes Pantherchamäleon, das es gar nicht gibt
-Und das sich doch vollkommen echt anfühlt
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/1edf8ae2a039efeb07fcb6ca363d973c/thumbnails/thumbnail.jpg" width="600" alt="Hyperrealistisches türkisfarbenes Pantherchamäleon">
-
-**[🎬 Video ansehen →](https://x.com/ai_with_shah/status/2061403989623624181)**
-
-**Autor:** [Shah](https://x.com/ai_with_shah) | **Quelle:** [Link](https://x.com/ai_with_shah/status/2061403989623624181) | **Veröffentlicht:** Jun 1, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 36 weitere Prompts hier nicht angezeigt
+### 🎯 38 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2998,6 +3001,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-28T06:25:50.692Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-28T10:33:12.276Z</sub>
 
 </div>
