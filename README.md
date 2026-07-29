@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **138** |
+| 📝 Total Prompts | **139** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-29** |
 
@@ -56,6 +56,25 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Floating City Drone Flythrough
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A dynamic cinematic drone-shot prompt capturing a high-speed flight through a futuristic floating city with hanging gardens and glowing transit rails.
+
+#### 📝 Prompt
+
+```
+Camera flying fast and low through cloud layer, then bursts through into a floating city — spires, hanging gardens, glowing transit rails looping between towers. Drone-style continuous forward push, banking hard around a tower, market stalls and citizens glancing up, ending as camera dives off the city's edge into open sky below, revealing the ocean thousands of feet down.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="Floating City Drone Flythrough">
+
+**[🎬 Watch Video →](https://x.com/iam_damayor/status/2082129581838938522)**
+
+**Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **Published:** Jul 28, 2026
+
+---
 ### Orange Tabby Cat Barista Video Prompt
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -3065,32 +3084,13 @@ A weary medieval knight in full shining plate armor rests peacefully under a lar
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Published:** Jun 2, 2026
 
 ---
-### Seamless Character Transformation Video
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A detailed prompt for Gemini Omni that creates a smooth video transition where a man sitting on a bench transforms into another person with a snap of his fingers, maintaining a fixed camera angle.
-
-#### 📝 Prompt
-
-```
-Use @Image 1 as the starting scene. The camera angle is completely fixed. Initially, a couple sitting on a bench is having fun. The man wearing a blue denim shirt sitting on the bench snaps his thumb and middle finger and suddenly transforms into @Image 2. After the transformation, the woman looks at the man in surprise. Make it a single seamless video without any cuts. Do not include talking voices or BGM, only environmental sounds.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="Seamless Character Transformation Video">
-
-**[🎬 Watch Video →](https://x.com/Immersion_cy/status/2061803769650987365)**
-
-**Author:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Source:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Published:** Jun 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 38 more prompts not shown here
+### 🎯 39 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3136,6 +3136,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-29T06:29:10.288Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-29T10:37:21.612Z</sub>
 
 </div>

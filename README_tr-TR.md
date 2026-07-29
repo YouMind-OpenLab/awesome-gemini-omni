@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **138** |
+| 📝 Toplam İstem | **139** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-29** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Yüzen Şehir Drone Çekimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Asılı bahçeler ve parlayan ulaşım raylarıyla dolu fütüristik bir yüzen şehirde yüksek hızlı bir uçuşu yakalayan dinamik ve sinematik bir drone çekimi istemi.
+
+#### 📝 İstem
+
+```
+Kamera bulut tabakasının içinden hızla ve alçaktan uçuyor, ardından yüzen bir şehre giriş yapıyor; kuleler arasında dolanan kuleler, asılı bahçeler ve parlayan ulaşım rayları. Drone tarzı sürekli ileri hareket, bir kulenin etrafında keskin bir dönüş, pazar tezgahları ve yukarı bakan vatandaşlar; kamera şehrin kenarından aşağıdaki açık gökyüzüne dalarak binlerce fit aşağıdaki okyanusu gözler önüne seriyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="Yüzen Şehir Drone Çekimi">
+
+**[🎬 Videoyu izle →](https://x.com/iam_damayor/status/2082129581838938522)**
+
+**Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **Yayınlandı:** Jul 28, 2026
+
+---
 ### Turuncu Tekir Kedi Barista Video İstemi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2904,32 +2923,13 @@ Parlak zırhı içindeki yorgun bir Orta Çağ şövalyesi, esintide nazikçe sa
 **Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Yayınlandı:** Jun 2, 2026
 
 ---
-### Kusursuz Karakter Dönüşüm Videosu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Bankta oturan bir adamın parmak şıklatmasıyla başka birine dönüştüğü, sabit kamera açısının korunduğu akıcı bir video geçişi oluşturmak için Gemini Omni'ye yönelik detaylı bir komut.
-
-#### 📝 İstem
-
-```
-Başlangıç sahnesi olarak @Image 1'i kullanın. Kamera açısı tamamen sabit olmalıdır. Başlangıçta, bir bankta oturan bir çift eğlenmektedir. Bankta oturan mavi kot gömlekli adam baş ve orta parmağını şıklatır ve aniden @Image 2'ye dönüşür. Dönüşümden sonra kadın şaşkınlıkla adama bakar. Hiçbir kesinti olmadan tek ve kusursuz bir video oluşturun. Konuşma sesleri veya arka plan müziği eklemeyin, yalnızca ortam sesleri olsun.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="Kusursuz Karakter Dönüşüm Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/Immersion_cy/status/2061803769650987365)**
-
-**Yazar:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Kaynak:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Yayınlandı:** Jun 2, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 38 burada gösterilmeyen daha fazla istem
+### 🎯 39 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2975,6 +2975,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-29T06:29:28.828Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-29T10:37:32.599Z</sub>
 
 </div>

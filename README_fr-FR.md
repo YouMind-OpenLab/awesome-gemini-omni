@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **138** |
+| 📝 Total des prompts | **139** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-07-29** |
 
@@ -56,6 +56,25 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Survol en drone d'une cité flottante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dynamique pour une prise de vue cinématographique au drone, capturant un vol à haute vitesse à travers une cité flottante futuriste dotée de jardins suspendus et de rails de transport lumineux.
+
+#### 📝 Prompt
+
+```
+La caméra vole rapidement à basse altitude à travers une couche nuageuse, puis surgit dans une cité flottante — flèches, jardins suspendus, rails de transport lumineux serpentant entre les tours. Mouvement continu de drone vers l'avant, virage serré autour d'une tour, étals de marché et citoyens levant les yeux, se terminant par une plongée de la caméra depuis le bord de la ville vers le ciel ouvert, révélant l'océan des milliers de mètres plus bas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="Survol en drone d'une cité flottante">
+
+**[🎬 Voir la vidéo →](https://x.com/iam_damayor/status/2082129581838938522)**
+
+**Auteur:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **Publié:** Jul 28, 2026
+
+---
 ### Prompt vidéo : Chat tabby orange barista
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2930,32 +2949,13 @@ Un chevalier médiéval épuisé, vêtu d'une armure de plaques étincelante, se
 **Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Publié:** Jun 2, 2026
 
 ---
-### Vidéo de transformation de personnage fluide
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt détaillé pour Gemini Omni permettant de créer une transition vidéo fluide où un homme assis sur un banc se transforme en une autre personne d'un claquement de doigts, tout en conservant un angle de caméra fixe.
-
-#### 📝 Prompt
-
-```
-Utilisez @Image 1 comme scène de départ. L'angle de la caméra est totalement fixe. Au début, un couple assis sur un banc s'amuse. L'homme portant une chemise en jean bleu assis sur le banc claque des doigts et se transforme soudainement en @Image 2. Après la transformation, la femme regarde l'homme avec surprise. Réalisez une vidéo fluide et continue sans aucune coupure. N'incluez ni voix parlée ni musique de fond, uniquement des sons d'ambiance.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de transformation de personnage fluide">
-
-**[🎬 Voir la vidéo →](https://x.com/Immersion_cy/status/2061803769650987365)**
-
-**Auteur:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Source:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Publié:** Jun 2, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 38 prompts supplémentaires non affichés ici
+### 🎯 39 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3001,6 +3001,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-29T06:29:24.980Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-29T10:37:29.575Z</sub>
 
 </div>

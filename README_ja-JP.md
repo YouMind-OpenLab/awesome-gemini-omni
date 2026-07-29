@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **138** |
+| 📝 プロンプト総数 | **139** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-07-29** |
 
@@ -56,6 +56,25 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 浮遊都市のドローン空撮
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 空中庭園と光り輝く交通レールが張り巡らされた未来の浮遊都市を、高速で駆け抜けるダイナミックなシネマティック・ドローンショット用プロンプト。
+
+#### 📝 プロンプト
+
+```
+カメラは雲の層を低空で高速飛行し、浮遊都市へと突き抜ける。そこには尖塔、空中庭園、タワー間をループする光り輝く交通レールが広がっている。ドローンによる連続的な前進ショットで、タワーの周りを鋭く旋回。市場の屋台や市民が顔を上げる様子を捉え、最後は都市の端から眼下の広大な空へとダイブし、数千フィート下の海面を映し出す。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="浮遊都市のドローン空撮">
+
+**[🎬 動画を見る →](https://x.com/iam_damayor/status/2082129581838938522)**
+
+**作者:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **ソース:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **公開日:** Jul 28, 2026
+
+---
 ### 茶トラ猫のバリスタの動画生成プロンプト
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2929,32 +2948,13 @@ POV：あなたは家猫から逃げる小さなネズミです。超リアル�
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **公開日:** Jun 2, 2026
 
 ---
-### シームレスな人物変身動画
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Gemini Omni を使用し、ベンチに座っている男性が指を鳴らすと別の人物に変身する、カメラアングルを固定したスムーズな動画遷移を作成するための詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-@Image 1 を開始シーンとして使用してください。カメラアングルは完全に固定します。最初は、ベンチに座っているカップルが楽しそうにしています。ベンチに座っている青いデニムシャツを着た男性が親指と中指を鳴らすと、突然 @Image 2 の人物に変身します。変身後、女性は驚いた様子で男性を見つめます。カットなしのシームレスな動画にしてください。話し声や BGM は含めず、環境音のみにしてください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="シームレスな人物変身動画">
-
-**[🎬 動画を見る →](https://x.com/Immersion_cy/status/2061803769650987365)**
-
-**作者:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **ソース:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **公開日:** Jun 2, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 38 さらに多くのプロンプトがあります
+### 🎯 39 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3000,6 +3000,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-29T06:29:13.764Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-29T10:37:23.673Z</sub>
 
 </div>

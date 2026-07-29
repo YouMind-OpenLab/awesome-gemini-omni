@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **138** |
+| 📝 提示词总数 | **139** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-07-29** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 浮空城无人机穿梭视角
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充满动感的电影级无人机运镜提示词，捕捉高速穿梭于未来浮空城的画面，包含空中花园与发光的交通轨道。
+
+#### 📝 提示词
+
+```
+摄像机快速低空穿过云层，随后冲入一座浮空城——映入眼帘的是尖塔、空中花园以及在塔楼间环绕的发光交通轨道。采用无人机风格的持续前推运镜，在塔楼周围大幅度侧倾转弯，捕捉市场摊位与抬头仰望的市民，最后摄像机从城市边缘俯冲向下方开阔的天空，展现出数千英尺之下的海洋。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="浮空城无人机穿梭视角">
+
+**[🎬 观看视频 →](https://x.com/iam_damayor/status/2082129581838938522)**
+
+**作者:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **来源:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **发布时间:** Jul 28, 2026
+
+---
 ### 橘色虎斑猫咖啡师视频提示词
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2934,32 +2953,13 @@ POV：你是一只正在逃离家猫追捕的小老鼠。超写实第一人称�
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **发布时间:** Jun 2, 2026
 
 ---
-### 无缝人物变换视频
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 这是一个为 Gemini Omni 设计的详细提示词，旨在创作一段平滑的视频转场：一名坐在长椅上的男子在打响指后瞬间变换为另一个人，同时保持摄像机角度固定。
-
-#### 📝 提示词
-
-```
-以 @Image 1 作为起始场景。摄像机角度保持完全固定。起初，一对情侣正坐在长椅上愉快交谈。坐在长椅上身穿蓝色牛仔衬衫的男子打了一个响指，随后瞬间变换为 @Image 2。变换完成后，女子惊讶地看着该男子。请制作成一段无剪辑的无缝视频。不要包含人声对话或背景音乐，仅保留环境音。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="无缝人物变换视频">
-
-**[🎬 观看视频 →](https://x.com/Immersion_cy/status/2061803769650987365)**
-
-**作者:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **来源:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **发布时间:** Jun 2, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 38 更多提示词未在此显示
+### 🎯 39 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3005,6 +3005,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-29T06:29:11.297Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-29T10:37:22.493Z</sub>
 
 </div>

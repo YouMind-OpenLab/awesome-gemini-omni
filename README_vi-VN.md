@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **138** |
+| 📝 Tổng số prompt | **139** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-29** |
 
@@ -56,6 +56,25 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video quay flycam về thành phố nổi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) tạo video điện ảnh năng động, ghi lại cảnh bay tốc độ cao xuyên qua một thành phố nổi tương lai với các khu vườn treo và đường ray vận chuyển phát sáng.
+
+#### 📝 Prompt
+
+```
+Camera bay nhanh và thấp xuyên qua lớp mây, sau đó lao vút vào một thành phố nổi — các tòa tháp cao vút, khu vườn treo, đường ray vận chuyển phát sáng uốn lượn giữa các tòa nhà. Cảnh quay theo phong cách flycam di chuyển liên tục về phía trước, nghiêng mình lách qua một tòa tháp, các quầy hàng trên thị trường và người dân ngước nhìn lên, kết thúc bằng cảnh camera lao xuống từ rìa thành phố vào bầu trời rộng mở bên dưới, để lộ đại dương cách đó hàng ngàn feet.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="Video quay flycam về thành phố nổi">
+
+**[🎬 Xem video →](https://x.com/iam_damayor/status/2082129581838938522)**
+
+**Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **Đã xuất bản:** Jul 28, 2026
+
+---
 ### Prompt video chú mèo mướp cam làm barista
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2906,32 +2925,13 @@ Một hiệp sĩ thời Trung cổ mệt mỏi trong bộ giáp sắt sáng bón
 **Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Đã xuất bản:** Jun 2, 2026
 
 ---
-### Video chuyển đổi nhân vật mượt mà
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh chi tiết dành cho Gemini Omni giúp tạo ra hiệu ứng chuyển cảnh video mượt mà, trong đó một người đàn ông đang ngồi trên ghế băng biến hình thành người khác chỉ bằng một cái búng tay, với góc máy cố định.
-
-#### 📝 Prompt
-
-```
-Sử dụng @Image 1 làm cảnh bắt đầu. Góc máy hoàn toàn cố định. Ban đầu, một cặp đôi đang ngồi trên ghế băng và trò chuyện vui vẻ. Người đàn ông mặc áo sơ mi denim màu xanh đang ngồi trên ghế búng ngón tay cái và ngón giữa, sau đó đột ngột biến hình thành @Image 2. Sau khi biến hình, người phụ nữ nhìn người đàn ông với vẻ ngạc nhiên. Hãy tạo thành một video liền mạch không cắt ghép. Không bao gồm giọng nói hay nhạc nền, chỉ giữ lại âm thanh môi trường.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="Video chuyển đổi nhân vật mượt mà">
-
-**[🎬 Xem video →](https://x.com/Immersion_cy/status/2061803769650987365)**
-
-**Tác giả:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Nguồn:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Đã xuất bản:** Jun 2, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 38 prompt khác không hiển thị ở đây
+### 🎯 39 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2977,6 +2977,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-29T06:29:18.198Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-29T10:37:25.815Z</sub>
 
 </div>

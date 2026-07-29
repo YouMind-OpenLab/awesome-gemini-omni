@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **138** |
+| 📝 Total de prompts | **139** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-29** |
 
@@ -56,6 +56,25 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Recorrido con dron por una ciudad flotante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dinámico de toma cinematográfica con dron que captura un vuelo a alta velocidad a través de una ciudad flotante futurista con jardines colgantes y rieles de tránsito brillantes.
+
+#### 📝 Prompt
+
+```
+La cámara vuela rápido y a baja altura a través de una capa de nubes, luego irrumpe en una ciudad flotante: agujas, jardines colgantes y rieles de tránsito brillantes que se entrelazan entre las torres. Empuje continuo hacia adelante al estilo de un dron, inclinándose bruscamente alrededor de una torre, puestos de mercado y ciudadanos mirando hacia arriba, terminando cuando la cámara se lanza desde el borde de la ciudad hacia el cielo abierto, revelando el océano a miles de pies de profundidad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="Recorrido con dron por una ciudad flotante">
+
+**[🎬 Ver video →](https://x.com/iam_damayor/status/2082129581838938522)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fuente:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **Publicado:** Jul 28, 2026
+
+---
 ### Prompt de video: Gato atigrado naranja barista
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2905,32 +2924,13 @@ Un caballero medieval cansado con una brillante armadura de placas completa desc
 **Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Publicado:** Jun 2, 2026
 
 ---
-### Video de transformación de personaje fluida
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt detallado para Gemini Omni que crea una transición de video fluida donde un hombre sentado en una banca se transforma en otra persona al chasquear los dedos, manteniendo un ángulo de cámara fijo.
-
-#### 📝 Prompt
-
-```
-Usa @Image 1 como la escena inicial. El ángulo de la cámara es completamente fijo. Inicialmente, una pareja sentada en una banca se está divirtiendo. El hombre que viste una camisa de mezclilla azul sentado en la banca chasquea sus dedos y de repente se transforma en @Image 2. Después de la transformación, la mujer mira al hombre con sorpresa. Haz que sea un solo video fluido sin cortes. No incluyas voces ni música de fondo, solo sonidos ambientales.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="Video de transformación de personaje fluida">
-
-**[🎬 Ver video →](https://x.com/Immersion_cy/status/2061803769650987365)**
-
-**Autor:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Fuente:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Publicado:** Jun 2, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 38 más prompts no mostrados aquí
+### 🎯 39 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2976,6 +2976,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-29T06:29:22.567Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-29T10:37:28.008Z</sub>
 
 </div>

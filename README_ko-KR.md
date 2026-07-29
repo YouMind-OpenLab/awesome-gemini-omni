@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **138** |
+| 📝 총 프롬프트 수 | **139** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-29** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 플로팅 시티 드론 플라이스루
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 공중 정원과 빛나는 이동 레일이 있는 미래형 플로팅 시티를 고속으로 비행하는 역동적인 시네마틱 드론 샷 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+카메라가 구름층을 낮고 빠르게 통과한 뒤 플로팅 시티로 진입합니다. 첨탑, 공중 정원, 타워 사이를 잇는 빛나는 이동 레일이 보입니다. 드론 스타일로 계속해서 전진하며 타워 주변을 급회전하고, 시장 가판대와 시민들이 위를 올려다보는 모습이 지나갑니다. 마지막에는 카메라가 도시 가장자리에서 아래쪽 탁 트인 하늘로 급강하하며 수천 피트 아래의 바다를 보여줍니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="플로팅 시티 드론 플라이스루">
+
+**[🎬 비디오 보기 →](https://x.com/iam_damayor/status/2082129581838938522)**
+
+**작성자:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **출처:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **게시일:** Jul 28, 2026
+
+---
 ### 주황색 태비 고양이 바리스타 비디오 프롬프트
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2928,32 +2947,13 @@ POV: 당신은 집고양이를 피해 도망치는 작은 쥐입니다. 초현�
 **작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **게시일:** Jun 2, 2026
 
 ---
-### 자연스러운 인물 변환 영상
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 벤치에 앉아 있는 남자가 손가락을 튕기며 다른 사람으로 변신하는 매끄러운 영상 전환을 생성하기 위한 Gemini Omni용 상세 프롬프트입니다. 카메라 앵글은 고정된 상태를 유지합니다.
-
-#### 📝 프롬프트
-
-```
-@Image 1 을 시작 장면으로 사용하세요. 카메라 앵글은 완전히 고정되어 있습니다. 처음에 벤치에 앉아 있는 커플이 즐거운 시간을 보내고 있습니다. 벤치에 앉아 있는 파란색 데님 셔츠를 입은 남자가 엄지와 중지 손가락을 튕기자 갑자기 @Image 2 로 변신합니다. 변신 후, 여자는 놀란 표정으로 남자를 바라봅니다. 컷 없이 매끄러운 하나의 영상으로 제작하세요. 대화 소리나 배경 음악은 넣지 말고, 주변 환경음만 포함하세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="자연스러운 인물 변환 영상">
-
-**[🎬 비디오 보기 →](https://x.com/Immersion_cy/status/2061803769650987365)**
-
-**작성자:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **출처:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **게시일:** Jun 2, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 38 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 39 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2999,6 +2999,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-29T06:29:15.961Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-29T10:37:24.256Z</sub>
 
 </div>

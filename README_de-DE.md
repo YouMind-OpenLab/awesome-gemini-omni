@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **138** |
+| 📝 Gesamtanzahl Prompts | **139** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-29** |
 
@@ -56,6 +56,25 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Drohnenflug durch eine schwebende Stadt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein dynamischer, filmischer Drohnen-Prompt, der einen Hochgeschwindigkeitsflug durch eine futuristische schwebende Stadt mit hängenden Gärten und leuchtenden Transitschienen einfängt.
+
+#### 📝 Prompt
+
+```
+Die Kamera fliegt schnell und tief durch eine Wolkenschicht und bricht dann in eine schwebende Stadt hervor – mit Türmen, hängenden Gärten und leuchtenden Transitschienen, die sich zwischen den Gebäuden winden. Kontinuierliche Vorwärtsbewegung im Drohnen-Stil, mit einer engen Kurve um einen Turm, Marktständen und Bürgern, die nach oben blicken. Das Video endet, als die Kamera vom Rand der Stadt in den offenen Himmel darunter eintaucht und den tausende Meter tiefer liegenden Ozean enthüllt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="Drohnenflug durch eine schwebende Stadt">
+
+**[🎬 Video ansehen →](https://x.com/iam_damayor/status/2082129581838938522)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Quelle:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **Veröffentlicht:** Jul 28, 2026
+
+---
 ### Video-Prompt für einen orangefarbenen getigerten Katzen-Barista
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2930,32 +2949,13 @@ Ein erschöpfter mittelalterlicher Ritter in glänzender Plattenrüstung ruht fr
 **Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Veröffentlicht:** Jun 2, 2026
 
 ---
-### Nahtlose Charakter-Transformation im Video
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein detaillierter Prompt für Gemini Omni, der einen fließenden Videoübergang erzeugt, bei dem sich ein auf einer Bank sitzender Mann mit einem Fingerschnipsen in eine andere Person verwandelt, während der Kamerawinkel fixiert bleibt.
-
-#### 📝 Prompt
-
-```
-Verwende @Image 1 als Ausgangsszene. Der Kamerawinkel ist absolut fixiert. Zu Beginn amüsiert sich ein Paar auf einer Bank. Der Mann im blauen Jeanshemd, der auf der Bank sitzt, schnippt mit Daumen und Mittelfinger und verwandelt sich plötzlich in @Image 2. Nach der Verwandlung blickt die Frau überrascht zu dem Mann. Erstelle ein einziges, nahtloses Video ohne Schnitte. Füge keine sprechenden Stimmen oder Hintergrundmusik hinzu, nur Umgebungsgeräusche.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="Nahtlose Charakter-Transformation im Video">
-
-**[🎬 Video ansehen →](https://x.com/Immersion_cy/status/2061803769650987365)**
-
-**Autor:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Quelle:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Veröffentlicht:** Jun 2, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 38 weitere Prompts hier nicht angezeigt
+### 🎯 39 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3001,6 +3001,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-29T06:29:23.823Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-29T10:37:28.781Z</sub>
 
 </div>

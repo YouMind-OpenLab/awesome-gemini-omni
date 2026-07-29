@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **138** |
+| 📝 Totale prompt | **139** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-07-29** |
 
@@ -56,6 +56,25 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Sorvolo con drone di una città fluttuante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dinamico e cinematografico per riprese con drone che cattura un volo ad alta velocità attraverso una futuristica città fluttuante con giardini pensili e binari di transito luminosi.
+
+#### 📝 Prompt
+
+```
+La telecamera vola veloce e bassa attraverso uno strato di nuvole, per poi irrompere in una città fluttuante: guglie, giardini pensili, binari di transito luminosi che si snodano tra le torri. Movimento continuo in avanti in stile drone, virata stretta attorno a una torre, bancarelle del mercato e cittadini che guardano verso l'alto; il video termina con la telecamera che si tuffa oltre il bordo della città verso il cielo aperto, rivelando l'oceano migliaia di metri più in basso.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="Sorvolo con drone di una città fluttuante">
+
+**[🎬 Guarda il video →](https://x.com/iam_damayor/status/2082129581838938522)**
+
+**Autore:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **Pubblicato:** Jul 28, 2026
+
+---
 ### Prompt video per un gatto soriano arancione barista
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2902,32 +2921,13 @@ Un cavaliere medievale stanco, con una scintillante armatura a piastre completa,
 **Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Pubblicato:** Jun 2, 2026
 
 ---
-### Video di trasformazione fluida del personaggio
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt dettagliato per Gemini Omni che crea una transizione video fluida in cui un uomo seduto su una panchina si trasforma in un'altra persona con uno schiocco di dita, mantenendo un'angolazione fissa della telecamera.
-
-#### 📝 Prompt
-
-```
-Usa @Image 1 come scena iniziale. L'angolazione della telecamera è completamente fissa. Inizialmente, una coppia seduta su una panchina si sta divertendo. L'uomo che indossa una camicia di jeans blu seduto sulla panchina schiocca il pollice e il medio e si trasforma improvvisamente in @Image 2. Dopo la trasformazione, la donna guarda l'uomo con sorpresa. Crea un unico video fluido senza tagli. Non includere voci parlate o musica di sottofondo, solo suoni ambientali.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/7ee7556aec97f0ce68d46806f29f5af0/thumbnails/thumbnail.jpg" width="600" alt="Video di trasformazione fluida del personaggio">
-
-**[🎬 Guarda il video →](https://x.com/Immersion_cy/status/2061803769650987365)**
-
-**Autore:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Fonte:** [Link](https://x.com/Immersion_cy/status/2061803769650987365) | **Pubblicato:** Jun 2, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 38 altri prompt non mostrati qui
+### 🎯 39 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2973,6 +2973,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-29T06:29:25.868Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-29T10:37:30.350Z</sub>
 
 </div>
