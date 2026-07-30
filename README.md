@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **139** |
+| 📝 Total Prompts | **142** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-30** |
 
@@ -56,6 +56,83 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Soccer Anime Clip
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for an anime-style short film featuring a rooftop soccer sequence with specific timestamped actions and audio directions.
+
+#### 📝 Prompt
+
+```
+Cinematic anime short film clip, 10 seconds. Flat concrete rooftop, clear bright blue sky everywhere, city visible far below, just him and the ball.
+
+CHARACTER: use uploaded character sheet.
+
+AUDIO: High energy hip hop beat loud from frame one never stopping, every cut synced to the beat, crisp satisfying ball contact sound on every touch always audible.
+
+[0:00-0:01] Lying flat on his back on the concrete, both feet pointing up, juggling ball above him with alternating feet, blue sky above. Side profile ground level shot. Cut to below looking up at feet and ball against sky. Cut to overhead looking straight down at him horizontal.
+
+[0:01-0:02] Jumps to feet mid-juggle, immediately launches into double around the world — foot circling ball twice in one jump, blurring into a circle. Low angle looking up against blue sky. Side profile full jump. Extreme close up foot blurring around ball.
+
+[0:02-0:03] Ball lands perfectly still on back of neck. Close up of ball on neck. Wide shot against sky. Immediately flows into ATW from the neck stall — ball launches off neck, foot circles instantly. Low angle showing full combination against sky.
+
+[0:03-0:04] Bends forward, ball rolls slowly down entire spine from neck to lower back without falling. Side profile showing full roll. Close up of ball on spine. Arches back up explosively flicking ball back into air from lower back.
+
+[0:04-0:06] Sits cross legged on concrete mid-juggle, both heels alternating juggling while sitting. Overhead looking down. Close up heels from side. Stands back up mid-juggle without hands touching ground.
+
+[0:06-0:08] Handstand — body fully vertical, ball balanced on one foot pointing straight up. Wide shot against blue sky. Close up foot balancing ball upside down. Low angle looking up at him inverted against the sky.
+
+[0:08-0:10] Launches ball high with thigh — camera follows ball upward against pure blue sky — peak — drops back — rainbow flick over his head — turns — full power volley — ball rockets directly at camera filling entire frame — CUT TO BLACK. One final beat hit in darkness.
+
+Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, bright natural daylight, clear blue sky throughout, digital painting feel, hard-edge brushwork, heavy shadows, not cartoon not Disney not Pixar, film grain, premium anime quality, hip hop beat and ball contact sounds dominant throughout
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Cinematic Soccer Anime Clip">
+
+**[🎬 Watch Video →](https://x.com/iam_damayor/status/2082752702056956014)**
+
+**Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Published:** Jul 30, 2026
+
+---
+### Ink Wash Shrimp Futuristic City Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A creative video generation prompt depicting black and white ink wash shrimp leaping from rice paper into a futuristic neon city with glowing orbital whiskers.
+
+#### 📝 Prompt
+
+```
+Ink wash shrimp leaping into a futuristic city—a piece of rice paper unfolds among nocturnal skyscrapers, eight black-and-white ink wash shrimp leap out from the paper's surface, their bodies still retaining the 'flying white' brushwork and ink gradients. The shrimp whiskers turn into glowing city tracks, and ink droplets become neon rain; the scene features huge scale contrast, strong depth, cinematic lighting, and a spectacle that captures the eye instantly. No text, no watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Ink Wash Shrimp Futuristic City Video">
+
+**[🎬 Watch Video →](https://x.com/nicekate8888/status/2082746108493848857)**
+
+**Author:** [nicekate](https://x.com/nicekate8888) | **Source:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Published:** Jul 30, 2026
+
+---
+### Suburban Void Space Tear
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt describing a quiet suburban street where the sky splits into a purple void, pulling debris and transitioning to an alien horizon.
+
+#### 📝 Prompt
+
+```
+Quiet suburban street, evening, sprinklers running. Sky splits with a silent lightning-like tear, widening into a churning purple void. Camera pushes toward it from ground level as debris starts lifting off the street; ends with the camera crossing the threshold, the suburb replaced instantly by an alien horizon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Suburban Void Space Tear">
+
+**[🎬 Watch Video →](https://x.com/iam_damayor/status/2082402289126432866)**
+
+**Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Published:** Jul 29, 2026
+
+---
 ### Floating City Drone Flythrough
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3024,73 +3101,13 @@ A gigantic version of me wearing the exact same outfit and sharing the same face
 **Author:** [Evren Tombul](https://x.com/EvrenTombul) | **Source:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Published:** Jun 4, 2026
 
 ---
-### First-Person Broomstick Flight Path Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic first-person chase scene on a flying broomstick that follows a specific flight path for motion control, focusing on a moving Golden Snitch.
-
-#### 📝 Prompt
-
-```
-First-person perspective, a cinematic, ultra-fast, one-shot chase scene on a flying broomstick. Shoot strictly following the white flight path shown in the image. The Golden Snitch remains the primary target throughout the chase, but it cannot be fixed in the center
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="First-Person Broomstick Flight Path Video">
-
-**[🎬 Watch Video →](https://x.com/GamsGo_Global/status/2062462744297914664)**
-
-**Author:** [GamsGo](https://x.com/GamsGo_Global) | **Source:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Published:** Jun 4, 2026
-
----
-### Cinematic First-Person Rat Chase
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic video prompt for a high-tension chase sequence from a rat's POV, featuring hyper-realistic lighting and motion effects.
-
-#### 📝 Prompt
-
-```
-POV: You are a tiny rat escaping a house cat. Ultra-realistic first-person camera, cinematic action movie quality. Nighttime inside a suburban house. The rat sprints across a wooden kitchen floor while giant cat paws slam down inches behind. Dash beneath dining chairs, weave through table legs, jump over a fallen cereal box, skid across a glossy countertop edge, then leap onto a couch. The cat crashes through objects, knocking over lamps and decorations. Fast handheld camera movement, intense motion blur, realistic scale difference, dramatic shadows, dust particles floating in the air. The chase continues through the living room as the cat gets closer and closer. Final desperate sprint through a tiny gap behind a washing machine, cat paw narrowly missing the camera by centimeters. Hyper-realistic fur, cinematic lighting, Hollywood action sequence, continuous unbroken shot, shallow depth of field, high tension, ultra-detailed, 4K, photorealistic.
-
-Negative Prompt:
-cartoon, animation, low detail, low resolution, third-person view, multiple rats, multiple cats, text, subtitles, watermark, glitches, slow movement, static camera, unrealistic physics, blurry subject, deformed animals, gore, blood.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="Cinematic First-Person Rat Chase">
-
-**[🎬 Watch Video →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
-
-**Author:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Source:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Published:** Jun 4, 2026
-
----
-### Medieval Knight in Poppy Field
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic video prompt for Gemini Omni featuring a resting knight in a vibrant poppy field with dramatic natural lighting.
-
-#### 📝 Prompt
-
-```
-A weary medieval knight in full shining plate armor rests peacefully under a large ancient oak tree in a vast, endless field of vibrant blooming red poppies swaying gently in the breeze. The knight lies on the soft grass, helmet still on, eyes closed in serene rest, surrounded by bright red flowers. The camera starts with a wide establishing shot, then slowly dollies in with a gentle push toward the knight, maintaining shallow depth of field that keeps sharp focus on the knight and nearby poppies while softly blurring the distant field and sky. Above, dramatic stormy dark clouds fill the sky but part dramatically to let soft golden sunlight rays break through, casting beautiful god rays and dynamic natural lighting with soft shadows. The atmosphere is peaceful yet epic, evoking calm after a hard battle. Ultra-realistic cinematic fantasy style, hyper-detailed textures on armor, flowers, and grass, painterly epic mood, natural light scattering, subtle wind movement in flowers and tree leaves.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="Medieval Knight in Poppy Field">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2061828182207336608)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Published:** Jun 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 39 more prompts not shown here
+### 🎯 42 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3136,6 +3153,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T06:26:11.220Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-30T10:23:28.700Z</sub>
 
 </div>

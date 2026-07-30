@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **139** |
+| 📝 Total de prompts | **142** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-30** |
 
@@ -56,6 +56,83 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Clipe de Anime de Futebol Cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo altamente detalhado para um curta-metragem em estilo anime, apresentando uma sequência de futebol em um terraço com ações cronometradas específicas e direções de áudio.
+
+#### 📝 Prompt
+
+```
+Clipe de curta-metragem de anime cinematográfico, 10 segundos. Terraço de concreto plano, céu azul claro e brilhante por toda parte, cidade visível lá embaixo, apenas ele e a bola.
+
+PERSONAGEM: use a folha de personagem enviada.
+
+ÁUDIO: Batida de hip hop de alta energia, alta desde o primeiro quadro e sem parar, cada corte sincronizado com a batida, som de contato nítido e satisfatório da bola em cada toque, sempre audível.
+
+[0:00-0:01] Deitado de costas no concreto, ambos os pés apontando para cima, fazendo embaixadinhas com a bola acima dele, alternando os pés, céu azul acima. Ângulo de perfil ao nível do solo. Corte para baixo, olhando para os pés e a bola contra o céu. Corte para cima, olhando diretamente para baixo, na horizontal.
+
+[0:01-0:02] Pula para os pés no meio da embaixadinha, lança imediatamente um "double around the world" — pé circulando a bola duas vezes em um salto, borrando em um círculo. Ângulo baixo olhando para cima contra o céu azul. Perfil lateral do salto completo. Close-up extremo do pé borrando ao redor da bola.
+
+[0:02-0:03] A bola aterrissa perfeitamente imóvel na nuca. Close-up da bola na nuca. Plano aberto contra o céu. Flui imediatamente para um ATW a partir da parada na nuca — a bola é lançada da nuca, o pé circula instantaneamente. Ângulo baixo mostrando a combinação completa contra o céu.
+
+[0:03-0:04] Inclina-se para frente, a bola rola lentamente por toda a coluna, do pescoço à lombar, sem cair. Perfil lateral mostrando o rolamento completo. Close-up da bola na coluna. Arqueia as costas explosivamente, lançando a bola de volta para o ar a partir da lombar.
+
+[0:04-0:06] Senta-se de pernas cruzadas no concreto no meio da embaixadinha, ambos os calcanhares alternando os toques enquanto sentado. Ângulo superior olhando para baixo. Close-up dos calcanhares de lado. Levanta-se novamente no meio da embaixadinha sem que as mãos toquem o chão.
+
+[0:06-0:08] Parada de mão — corpo totalmente vertical, bola equilibrada em um pé apontando diretamente para cima. Plano aberto contra o céu azul. Close-up do pé equilibrando a bola de cabeça para baixo. Ângulo baixo olhando para ele invertido contra o céu.
+
+[0:08-0:10] Lança a bola alto com a coxa — a câmera segue a bola para cima contra o céu puramente azul — pico — cai de volta — "rainbow flick" sobre sua cabeça — vira-se — voleio com força total — a bola dispara diretamente para a câmera, preenchendo todo o quadro — CORTE PARA O PRETO. Uma última batida no escuro.
+
+Anime 3D com sombreamento cel cinematográfico, CGI semirrealista, texturas pintadas à mão, qualidade Unreal Engine, luz do dia natural e brilhante, céu azul claro durante todo o vídeo, sensação de pintura digital, pinceladas de bordas rígidas, sombras pesadas, não é desenho animado, não é Disney, não é Pixar, granulação de filme, qualidade de anime premium, batida de hip hop e sons de contato da bola dominantes durante todo o tempo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Clipe de Anime de Futebol Cinematográfico">
+
+**[🎬 Assistir vídeo →](https://x.com/iam_damayor/status/2082752702056956014)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Publicado:** Jul 30, 2026
+
+---
+### Vídeo de Camarão em Pintura a Nanquim numa Cidade Futurista
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt criativo de geração de vídeo que retrata camarões em pintura a nanquim preto e branco saltando de papel de arroz para uma cidade futurista de neon com bigodes orbitais brilhantes.
+
+#### 📝 Prompt
+
+```
+Camarões em pintura a nanquim saltando para uma cidade futurista — uma folha de papel de arroz se desenrola entre arranha-céus noturnos, oito camarões em nanquim preto e branco saltam da superfície do papel, seus corpos ainda mantendo a técnica de pincelada 'branco voador' e gradientes de tinta. Os bigodes dos camarões se transformam em trilhos brilhantes da cidade, e gotas de tinta tornam-se chuva de neon; a cena apresenta um contraste de escala imenso, forte profundidade, iluminação cinematográfica e um espetáculo que captura o olhar instantaneamente. Sem texto, sem marcas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Vídeo de Camarão em Pintura a Nanquim numa Cidade Futurista">
+
+**[🎬 Assistir vídeo →](https://x.com/nicekate8888/status/2082746108493848857)**
+
+**Autor:** [nicekate](https://x.com/nicekate8888) | **Fonte:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Publicado:** Jul 30, 2026
+
+---
+### Racha no Vazio em Área Suburbana
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico que descreve uma rua suburbana silenciosa onde o céu se abre em um vazio roxo, atraindo detritos e fazendo a transição para um horizonte alienígena.
+
+#### 📝 Prompt
+
+```
+Rua suburbana silenciosa, anoitecer, irrigadores ligados. O céu se abre com uma fenda silenciosa semelhante a um relâmpago, alargando-se em um vazio roxo agitado. A câmera avança em direção a ele a partir do nível do solo enquanto detritos começam a levitar da rua; termina com a câmera cruzando o limiar, com o subúrbio sendo instantaneamente substituído por um horizonte alienígena.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Racha no Vazio em Área Suburbana">
+
+**[🎬 Assistir vídeo →](https://x.com/iam_damayor/status/2082402289126432866)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Publicado:** Jul 29, 2026
+
+---
 ### Sobrevoo de Drone por Cidade Flutuante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2893,73 +2970,13 @@ Uma versão gigantesca de mim, vestindo exatamente a mesma roupa e com o mesmo r
 **Autor:** [Evren Tombul](https://x.com/EvrenTombul) | **Fonte:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Publicado:** Jun 4, 2026
 
 ---
-### Vídeo de trajetória de voo em vassoura na primeira pessoa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma cena de perseguição cinematográfica na primeira pessoa em uma vassoura voadora que segue uma trajetória de voo específica para controle de movimento, focando em um Pomo de Ouro em movimento.
-
-#### 📝 Prompt
-
-```
-Perspectiva de primeira pessoa, uma cena de perseguição cinematográfica, ultrarrápida e em plano-sequência em uma vassoura voadora. A filmagem deve seguir estritamente a trajetória de voo branca mostrada na imagem. O Pomo de Ouro permanece como o alvo principal durante toda a perseguição, mas não pode ficar fixo no centro
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="Vídeo de trajetória de voo em vassoura na primeira pessoa">
-
-**[🎬 Assistir vídeo →](https://x.com/GamsGo_Global/status/2062462744297914664)**
-
-**Autor:** [GamsGo](https://x.com/GamsGo_Global) | **Fonte:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Publicado:** Jun 4, 2026
-
----
-### Perseguição Cinematográfica em Primeira Pessoa de um Rato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico detalhado para uma sequência de perseguição de alta tensão a partir do ponto de vista de um rato, apresentando iluminação hiper-realista e efeitos de movimento.
-
-#### 📝 Prompt
-
-```
-POV: Você é um pequeno rato escapando de um gato doméstico. Câmera em primeira pessoa ultra-realista, qualidade de filme de ação cinematográfico. Período noturno dentro de uma casa suburbana. O rato corre pelo piso de madeira da cozinha enquanto patas gigantes de gato batem a poucos centímetros atrás. Corra por baixo das cadeiras de jantar, desvie das pernas da mesa, pule sobre uma caixa de cereal caída, deslize pela borda de uma bancada brilhante e salte para um sofá. O gato colide com objetos, derrubando luminárias e decorações. Movimento rápido de câmera na mão, intenso desfoque de movimento, diferença de escala realista, sombras dramáticas, partículas de poeira flutuando no ar. A perseguição continua pela sala de estar enquanto o gato se aproxima cada vez mais. Sprint final desesperado por uma pequena fresta atrás de uma máquina de lavar, com a pata do gato passando a centímetros da câmera. Pelagem hiper-realista, iluminação cinematográfica, sequência de ação de Hollywood, plano contínuo sem cortes, profundidade de campo rasa, alta tensão, ultra-detalhado, 4K, fotorrealista.
-
-Negative Prompt:
-desenho animado, animação, baixo detalhe, baixa resolução, visão em terceira pessoa, múltiplos ratos, múltiplos gatos, texto, legendas, marca d'água, falhas, movimento lento, câmera estática, física irrealista, assunto embaçado, animais deformados, sangue, violência.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="Perseguição Cinematográfica em Primeira Pessoa de um Rato">
-
-**[🎬 Assistir vídeo →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
-
-**Autor:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Fonte:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Publicado:** Jun 4, 2026
-
----
-### Cavaleiro Medieval em Campo de Papoulas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico detalhado para o Gemini Omni, apresentando um cavaleiro descansando em um campo vibrante de papoulas com iluminação natural dramática.
-
-#### 📝 Prompt
-
-```
-Um cavaleiro medieval exausto, vestindo uma armadura de placas brilhante, descansa pacificamente sob um grande carvalho antigo em um vasto e infinito campo de papoulas vermelhas vibrantes que balançam suavemente com a brisa. O cavaleiro está deitado na grama macia, ainda com o elmo, olhos fechados em um descanso sereno, cercado por flores vermelhas brilhantes. A câmera começa com um plano aberto e, em seguida, aproxima-se lentamente com um movimento suave em direção ao cavaleiro, mantendo uma profundidade de campo rasa que mantém o foco nítido no cavaleiro e nas papoulas próximas, enquanto desfoca suavemente o campo distante e o céu. Acima, nuvens dramáticas e tempestuosas preenchem o céu, mas se abrem de forma espetacular para deixar raios de sol dourados e suaves atravessarem, criando belos feixes de luz e uma iluminação natural dinâmica com sombras suaves. A atmosfera é pacífica, porém épica, evocando a calma após uma batalha difícil. Estilo de fantasia cinematográfica ultrarrealista, texturas hiperdetalhadas na armadura, flores e grama, clima épico pictórico, dispersão de luz natural, movimento sutil do vento nas flores e nas folhas das árvores.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="Cavaleiro Medieval em Campo de Papoulas">
-
-**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2061828182207336608)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Publicado:** Jun 2, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 39 mais prompts não mostrados aqui
+### 🎯 42 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3005,6 +3022,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-30T06:26:28.859Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-30T10:23:46.164Z</sub>
 
 </div>

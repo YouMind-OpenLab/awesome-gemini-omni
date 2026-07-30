@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **139** |
+| 📝 Toplam İstem | **142** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-30** |
 
@@ -56,6 +56,83 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Futbol Anime Klibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirli zaman damgalı aksiyonlar ve ses yönergeleri içeren, çatı katında geçen bir futbol sekansına sahip anime tarzı kısa film için oldukça detaylı bir video istemi.
+
+#### 📝 İstem
+
+```
+Sinematik anime kısa film klibi, 10 saniye. Düz beton çatı, her yerde açık parlak mavi gökyüzü, uzakta görünen şehir, sadece o ve top.
+
+KARAKTER: yüklenen karakter sayfasını kullanın.
+
+SES: İlk kareden itibaren hiç durmayan yüksek enerjili hip hop ritmi, her kesme ritimle senkronize, her dokunuşta net ve tatmin edici top teması sesi her zaman duyulabilir.
+
+[0:00-0:01] Betonda sırt üstü yatıyor, her iki ayak yukarı bakıyor, ayaklarını değiştirerek üzerindeki topu sektiriyor, yukarıda mavi gökyüzü. Yer seviyesinden yan profil çekimi. Ayaklara ve gökyüzüne karşı topa bakan aşağıdan yukarıya doğru kesme. Tam tepeden ona yatay olarak bakan yukarıdan aşağıya kesme.
+
+[0:01-0:02] Sektirme sırasında ayağa fırlar, hemen çift 'around the world' hareketine başlar — ayak topun etrafında bir zıplamada iki kez döner, bulanıklaşarak bir daire oluşturur. Mavi gökyüzüne karşı aşağıdan yukarıya düşük açı. Yan profil tam zıplama. Topun etrafında bulanıklaşan ayağın aşırı yakın çekimi.
+
+[0:02-0:03] Top mükemmel bir şekilde ensede sabit durur. Ensedeki topun yakın çekimi. Gökyüzüne karşı geniş çekim. Hemen ense duruşundan ATW hareketine geçer — top enseden fırlar, ayak anında daire çizer. Gökyüzüne karşı tam kombinasyonu gösteren düşük açı.
+
+[0:03-0:04] Öne eğilir, top enseden bele kadar tüm omurga boyunca düşmeden yavaşça yuvarlanır. Tam yuvarlanmayı gösteren yan profil. Omurgadaki topun yakın çekimi. Belden topu havaya doğru patlayıcı bir şekilde fırlatarak sırtını yay gibi gerer.
+
+[0:04-0:06] Sektirme sırasında betonda bağdaş kurarak oturur, otururken her iki topukla sektirmeye devam eder. Tepeden aşağıya bakış. Yandan topukların yakın çekimi. Elleri yere değmeden sektirmeye devam ederek tekrar ayağa kalkar.
+
+[0:06-0:08] Amuda kalkış — vücut tamamen dikey, top doğrudan yukarıyı gösteren bir ayağın üzerinde dengeleniyor. Mavi gökyüzüne karşı geniş çekim. Topu ters şekilde dengeleyen ayağın yakın çekimi. Gökyüzüne karşı ters duran karaktere aşağıdan yukarıya düşük açı.
+
+[0:08-0:10] Topu uyluğuyla yükseğe fırlatır — kamera masmavi gökyüzüne karşı topu yukarı doğru takip eder — zirve — geri düşer — başının üzerinden gökkuşağı hareketi — döner — tam güç vole — top doğrudan kameraya doğru fırlar ve tüm ekranı kaplar — SİYAH EKRANA GEÇİŞ. Karanlıkta son bir ritim vuruşu.
+
+Sinematik cel-shaded 3D anime, yarı gerçekçi CGI, el boyaması dokular, Unreal Engine kalitesi, parlak doğal gün ışığı, baştan sona açık mavi gökyüzü, dijital boyama hissi, keskin fırça darbeleri, yoğun gölgeler, çizgi film değil, Disney değil, Pixar değil, film greni, premium anime kalitesi, baştan sona baskın hip hop ritmi ve top temas sesleri
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Sinematik Futbol Anime Klibi">
+
+**[🎬 Videoyu izle →](https://x.com/iam_damayor/status/2082752702056956014)**
+
+**Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Yayınlandı:** Jul 30, 2026
+
+---
+### Mürekkep Yıkama Tarzı Karides ve Fütüristik Şehir Videosu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Pirinç kağıdından fırlayıp parlayan yörüngesel bıyıklarıyla fütüristik bir neon şehre dalan siyah beyaz mürekkep yıkama tarzı karidesleri betimleyen yaratıcı bir video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Fütüristik bir şehre sıçrayan mürekkep yıkama tarzı karidesler; gece gökdelenlerinin arasında açılan bir pirinç kağıdı, kağıdın yüzeyinden fırlayan sekiz adet siyah beyaz mürekkep yıkama tarzı karides; vücutları hala 'uçan beyaz' fırça darbelerini ve mürekkep gradyanlarını koruyor. Karides bıyıkları parlayan şehir raylarına, mürekkep damlaları ise neon yağmura dönüşüyor; sahne devasa ölçek kontrastı, güçlü derinlik, sinematik aydınlatma ve göz alıcı bir görsel şölen sunuyor. Metin yok, filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Mürekkep Yıkama Tarzı Karides ve Fütüristik Şehir Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/nicekate8888/status/2082746108493848857)**
+
+**Yazar:** [nicekate](https://x.com/nicekate8888) | **Kaynak:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Yayınlandı:** Jul 30, 2026
+
+---
+### Banliyö Boşluk Yırtılması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gökyüzünün mor bir boşluğa dönüştüğü, enkazı içine çektiği ve uzaylı bir ufka geçiş yaptığı sessiz bir banliyö sokağını betimleyen sinematik bir video istemi.
+
+#### 📝 İstem
+
+```
+Sessiz banliyö sokağı, akşam vakti, fıskiyeler çalışıyor. Gökyüzü sessiz, şimşek benzeri bir yırtıkla ikiye ayrılıyor ve çalkantılı mor bir boşluğa dönüşerek genişliyor. Kamera yer seviyesinden ona doğru ilerlerken sokaktaki enkazlar havalanmaya başlıyor; kamera eşiği geçtiği anda banliyö yerini anında uzaylı bir ufka bırakıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Banliyö Boşluk Yırtılması">
+
+**[🎬 Videoyu izle →](https://x.com/iam_damayor/status/2082402289126432866)**
+
+**Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Yayınlandı:** Jul 29, 2026
+
+---
 ### Yüzen Şehir Drone Çekimi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2863,73 +2940,13 @@ Tam olarak aynı kıyafetleri giyen ve aynı yüze sahip devasa bir versiyonum, 
 **Yazar:** [Evren Tombul](https://x.com/EvrenTombul) | **Kaynak:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Yayınlandı:** Jun 4, 2026
 
 ---
-### Birinci Şahıs Süpürge Uçuş Rotası Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hareket kontrolü için belirli bir uçuş rotasını takip eden ve hareketli bir Altın Snitch'e odaklanan, uçan süpürge üzerinde sinematik bir birinci şahıs kovalamaca sahnesi.
-
-#### 📝 İstem
-
-```
-Birinci şahıs bakış açısı, uçan süpürge üzerinde sinematik, ultra hızlı, tek plan bir kovalamaca sahnesi. Çekimi, görselde gösterilen beyaz uçuş rotasını kesinlikle takip ederek gerçekleştirin. Altın Snitch kovalamaca boyunca birincil hedef olmaya devam etmeli, ancak ekranın tam merkezine sabitlenmemelidir.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="Birinci Şahıs Süpürge Uçuş Rotası Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/GamsGo_Global/status/2062462744297914664)**
-
-**Yazar:** [GamsGo](https://x.com/GamsGo_Global) | **Kaynak:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Yayınlandı:** Jun 4, 2026
-
----
-### Sinematik Birinci Şahıs Fare Kovalamacası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir farenin bakış açısından yüksek gerilimli bir kovalamaca sekansı için hiper gerçekçi ışıklandırma ve hareket efektleri içeren detaylı sinematik video istemi.
-
-#### 📝 İstem
-
-```
-POV: Bir ev kedisinden kaçan minik bir faresiniz. Ultra gerçekçi birinci şahıs kamera, sinematik aksiyon filmi kalitesi. Banliyö tarzı bir evin içi, gece vakti. Fare, ahşap mutfak zemininde hızla koşarken dev kedi patileri santimler arkasına çarpıyor. Yemek sandalyelerinin altına dalın, masa ayaklarının arasından geçin, devrilmiş bir mısır gevreği kutusunun üzerinden atlayın, parlak bir tezgahın kenarında kayın ve ardından bir koltuğun üzerine sıçrayın. Kedi, lambaları ve dekorasyonları devirerek eşyaların içinden geçiyor. Hızlı el kamerası hareketi, yoğun hareket bulanıklığı, gerçekçi ölçek farkı, dramatik gölgeler, havada uçuşan toz zerreleri. Kedi yaklaştıkça kovalamaca oturma odasında devam ediyor. Çamaşır makinesinin arkasındaki küçük bir boşluktan son bir çaresiz depar, kedi patisi kamerayı santimetre farkıyla ıskalıyor. Hiper gerçekçi kürk, sinematik ışıklandırma, Hollywood aksiyon sekansı, kesintisiz tek plan çekim, sığ alan derinliği, yüksek gerilim, ultra detaylı, 4K, fotogerçekçi.
-
-Negatif İstem:
-çizgi film, animasyon, düşük detay, düşük çözünürlük, üçüncü şahıs bakış açısı, birden fazla fare, birden fazla kedi, metin, altyazı, filigran, hatalar, yavaş hareket, sabit kamera, gerçekçi olmayan fizik, bulanık özne, deforme olmuş hayvanlar, şiddet, kan.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Birinci Şahıs Fare Kovalamacası">
-
-**[🎬 Videoyu izle →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
-
-**Yazar:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Kaynak:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Yayınlandı:** Jun 4, 2026
-
----
-### Gelincik Tarlasında Orta Çağ Şövalyesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için, dramatik doğal ışıklandırmalı canlı bir gelincik tarlasında dinlenen bir şövalyeyi konu alan detaylı sinematik video istemi.
-
-#### 📝 İstem
-
-```
-Parlak zırhı içindeki yorgun bir Orta Çağ şövalyesi, esintide nazikçe sallanan uçsuz bucaksız, canlı kırmızı gelinciklerle dolu bir tarlada, büyük ve kadim bir meşe ağacının altında huzurla dinleniyor. Şövalye, kaskı hâlâ başındayken yumuşak çimlerin üzerinde uzanıyor, gözleri huzurlu bir dinlenişle kapalı ve etrafı parlak kırmızı çiçeklerle çevrili. Kamera geniş bir çekimle başlıyor, ardından şövalyeye doğru yavaşça yaklaşarak sığ bir alan derinliğini koruyor; şövalyeye ve yakındaki gelinciklere odaklanırken uzak tarlayı ve gökyüzünü hafifçe bulanıklaştırıyor. Gökyüzünde dramatik ve fırtınalı koyu bulutlar yer alıyor ancak bu bulutlar dramatik bir şekilde ayrılarak yumuşak altın rengi güneş ışınlarının süzülmesine izin veriyor; bu da güzel ışık hüzmeleri ve yumuşak gölgelerle dinamik bir doğal aydınlatma yaratıyor. Atmosfer huzurlu ama destansı; zorlu bir savaşın ardından gelen dinginliği çağrıştırıyor. Ultra gerçekçi sinematik fantezi tarzı, zırh, çiçekler ve çimler üzerinde hiper detaylı dokular, resimsel destansı bir ruh hali, doğal ışık dağılımı, çiçeklerde ve ağaç yapraklarında hafif rüzgar hareketi.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="Gelincik Tarlasında Orta Çağ Şövalyesi">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2061828182207336608)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Yayınlandı:** Jun 2, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 39 burada gösterilmeyen daha fazla istem
+### 🎯 42 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2975,6 +2992,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-30T06:26:30.135Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-30T10:23:47.611Z</sub>
 
 </div>

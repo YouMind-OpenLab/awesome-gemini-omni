@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **139** |
+| 📝 Tổng số prompt | **142** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-30** |
 
@@ -56,6 +56,83 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Đoạn phim anime bóng đá đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video chi tiết cho phim ngắn phong cách anime, mô tả cảnh đá bóng trên sân thượng với các hành động theo mốc thời gian cụ thể và chỉ dẫn âm thanh.
+
+#### 📝 Prompt
+
+```
+Đoạn phim ngắn anime đậm chất điện ảnh, thời lượng 10 giây. Sân thượng bê tông phẳng, bầu trời xanh trong vắt, nhìn thấy thành phố phía xa bên dưới, chỉ có cậu ấy và quả bóng.
+
+NHÂN VẬT: sử dụng bảng nhân vật đã tải lên.
+
+ÂM THANH: Nhạc hip hop sôi động bắt đầu từ khung hình đầu tiên và không dừng lại, mỗi nhịp cắt đều khớp với nhịp nhạc, âm thanh tiếp xúc bóng sắc nét và thỏa mãn luôn nghe rõ trong mỗi lần chạm.
+
+[0:00-0:01] Nằm ngửa trên nền bê tông, hai chân hướng lên trên, tâng bóng phía trên bằng hai chân luân phiên, bầu trời xanh phía trên. Góc quay ngang tầm mặt đất. Cắt sang góc nhìn từ dưới lên vào đôi chân và quả bóng trên nền trời. Cắt sang góc nhìn từ trên cao xuống thẳng người cậu ấy.
+
+[0:01-0:02] Bật dậy khi đang tâng bóng, ngay lập tức thực hiện cú double around the world — chân xoay quanh bóng hai lần trong một cú nhảy, tạo thành vòng tròn mờ ảo. Góc thấp nhìn lên nền trời xanh. Góc quay ngang toàn cảnh cú nhảy. Cận cảnh cực đại đôi chân mờ đi quanh quả bóng.
+
+[0:02-0:03] Bóng rơi xuống và đứng yên hoàn hảo trên gáy. Cận cảnh quả bóng trên gáy. Góc quay rộng trên nền trời. Ngay lập tức chuyển sang kỹ thuật ATW từ tư thế giữ bóng trên gáy — bóng bật khỏi gáy, chân xoay tức thì. Góc thấp cho thấy toàn bộ tổ hợp kỹ thuật trên nền trời.
+
+[0:03-0:04] Cúi người về phía trước, bóng lăn chậm dọc theo toàn bộ cột sống từ gáy xuống thắt lưng mà không rơi. Góc quay ngang cho thấy toàn bộ đường lăn. Cận cảnh quả bóng trên cột sống. Ưỡn lưng bật mạnh, hất quả bóng ngược lên không trung từ thắt lưng.
+
+[0:04-0:06] Ngồi khoanh chân trên bê tông khi đang tâng bóng, hai gót chân luân phiên tâng bóng trong khi ngồi. Góc nhìn từ trên xuống. Cận cảnh gót chân từ góc ngang. Đứng dậy khi đang tâng bóng mà không dùng tay chạm đất.
+
+[0:06-0:08] Trồng cây chuối — cơ thể thẳng đứng hoàn toàn, bóng thăng bằng trên một bàn chân hướng thẳng lên trời. Góc quay rộng trên nền trời xanh. Cận cảnh bàn chân giữ thăng bằng quả bóng khi đang lộn ngược. Góc thấp nhìn lên cậu ấy trong tư thế lộn ngược trên nền trời.
+
+[0:08-0:10] Hất bóng lên cao bằng đùi — máy quay theo bóng hướng lên trên nền trời xanh thuần khiết — đạt đỉnh — rơi xuống — cú rainbow flick qua đầu — xoay người — cú vô lê toàn lực — bóng lao thẳng vào máy quay lấp đầy khung hình — CẮT ĐEN. Một nhịp nhạc cuối cùng vang lên trong bóng tối.
+
+Anime 3D cel-shaded điện ảnh, CGI bán thực tế, kết cấu vẽ tay, chất lượng Unreal Engine, ánh sáng ban ngày tự nhiên rực rỡ, bầu trời xanh trong suốt, cảm giác tranh kỹ thuật số, nét vẽ sắc sảo, đổ bóng đậm, không phải hoạt hình, không phải Disney, không phải Pixar, có hạt phim (film grain), chất lượng anime cao cấp, nhịp hip hop và âm thanh tiếp xúc bóng chiếm ưu thế xuyên suốt
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Đoạn phim anime bóng đá đậm chất điện ảnh">
+
+**[🎬 Xem video →](https://x.com/iam_damayor/status/2082752702056956014)**
+
+**Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Đã xuất bản:** Jul 30, 2026
+
+---
+### Video thành phố tương lai với tôm thủy mặc
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một câu lệnh tạo video sáng tạo mô tả những chú tôm thủy mặc đen trắng nhảy ra từ giấy xuyến chỉ vào một thành phố neon tương lai với những chiếc râu phát sáng như quỹ đạo.
+
+#### 📝 Prompt
+
+```
+Tôm thủy mặc nhảy vào thành phố tương lai—một tờ giấy xuyến chỉ mở ra giữa những tòa nhà chọc trời về đêm, tám chú tôm thủy mặc đen trắng nhảy ra từ bề mặt giấy, cơ thể chúng vẫn giữ được kỹ thuật vẽ "phi bạch" và các sắc độ mực. Râu tôm biến thành những đường ray thành phố rực rỡ, còn những giọt mực trở thành cơn mưa neon; khung cảnh có sự tương phản quy mô lớn, chiều sâu ấn tượng, ánh sáng đậm chất điện ảnh và một cảnh tượng thu hút mọi ánh nhìn ngay lập tức. Không văn bản, không hình mờ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Video thành phố tương lai với tôm thủy mặc">
+
+**[🎬 Xem video →](https://x.com/nicekate8888/status/2082746108493848857)**
+
+**Tác giả:** [nicekate](https://x.com/nicekate8888) | **Nguồn:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Đã xuất bản:** Jul 30, 2026
+
+---
+### Vết nứt không gian tại vùng ngoại ô
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh mô tả con phố ngoại ô yên tĩnh, nơi bầu trời tách ra thành một khoảng không màu tím, hút các mảnh vỡ và chuyển cảnh sang một đường chân trời ngoài hành tinh.
+
+#### 📝 Prompt
+
+```
+Con phố ngoại ô yên tĩnh vào buổi tối, vòi phun nước đang hoạt động. Bầu trời tách ra với một vết nứt im lặng như tia chớp, mở rộng thành một khoảng không màu tím cuộn trào. Máy quay đẩy dần về phía đó từ mặt đất khi các mảnh vỡ bắt đầu bay lên khỏi mặt đường; kết thúc bằng cảnh máy quay băng qua ngưỡng cửa, khung cảnh ngoại ô ngay lập tức được thay thế bằng một đường chân trời ngoài hành tinh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Vết nứt không gian tại vùng ngoại ô">
+
+**[🎬 Xem video →](https://x.com/iam_damayor/status/2082402289126432866)**
+
+**Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Đã xuất bản:** Jul 29, 2026
+
+---
 ### Video quay flycam về thành phố nổi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2865,73 +2942,13 @@ Một phiên bản khổng lồ của tôi mặc cùng bộ trang phục và có
 **Tác giả:** [Evren Tombul](https://x.com/EvrenTombul) | **Nguồn:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Đã xuất bản:** Jun 4, 2026
 
 ---
-### Video đường bay của chổi thần góc nhìn thứ nhất
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một cảnh rượt đuổi điện ảnh ở góc nhìn thứ nhất trên chiếc chổi bay, tuân theo một đường bay cụ thể để điều khiển chuyển động, tập trung vào trái Golden Snitch đang di chuyển.
-
-#### 📝 Prompt
-
-```
-Góc nhìn thứ nhất, một cảnh rượt đuổi điện ảnh, siêu tốc, quay liền mạch trên chiếc chổi bay. Quay phim tuân thủ nghiêm ngặt đường bay màu trắng được hiển thị trong hình ảnh. Trái Golden Snitch vẫn là mục tiêu chính trong suốt cuộc rượt đuổi, nhưng không được để nó cố định ở giữa khung hình
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="Video đường bay của chổi thần góc nhìn thứ nhất">
-
-**[🎬 Xem video →](https://x.com/GamsGo_Global/status/2062462744297914664)**
-
-**Tác giả:** [GamsGo](https://x.com/GamsGo_Global) | **Nguồn:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Đã xuất bản:** Jun 4, 2026
-
----
-### Video điện ảnh về cuộc rượt đuổi dưới góc nhìn của chuột
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video điện ảnh chi tiết cho phân cảnh rượt đuổi đầy kịch tính từ góc nhìn của một chú chuột, với hiệu ứng ánh sáng và chuyển động siêu thực.
-
-#### 📝 Prompt
-
-```
-POV: Bạn là một chú chuột nhỏ đang chạy trốn khỏi một con mèo nhà. Camera góc nhìn thứ nhất siêu thực, chất lượng phim hành động điện ảnh. Bối cảnh ban đêm bên trong một ngôi nhà ngoại ô. Chú chuột chạy nước rút trên sàn bếp gỗ trong khi những bàn chân mèo khổng lồ đập xuống chỉ cách vài inch phía sau. Lao xuống dưới những chiếc ghế ăn, luồn lách qua các chân bàn, nhảy qua một hộp ngũ cốc bị đổ, trượt trên mép mặt bàn bóng loáng, rồi nhảy lên ghế sofa. Con mèo lao qua các đồ vật, làm đổ đèn và đồ trang trí. Chuyển động camera cầm tay nhanh, hiệu ứng nhòe chuyển động (motion blur) mạnh mẽ, sự khác biệt về tỷ lệ thực tế, bóng đổ kịch tính, các hạt bụi lơ lửng trong không khí. Cuộc rượt đuổi tiếp tục qua phòng khách khi con mèo ngày càng đến gần. Pha chạy nước rút tuyệt vọng cuối cùng qua một khe hở nhỏ phía sau máy giặt, bàn chân mèo suýt chút nữa đã chạm vào camera trong gang tấc. Lông siêu thực, ánh sáng điện ảnh, phân cảnh hành động kiểu Hollywood, cú máy dài không cắt cảnh, độ sâu trường ảnh nông, kịch tính cao, siêu chi tiết, 4K, chân thực như ảnh chụp.
-
-Negative Prompt:
-hoạt hình, animation, chi tiết thấp, độ phân giải thấp, góc nhìn thứ ba, nhiều chuột, nhiều mèo, văn bản, phụ đề, hình mờ (watermark), lỗi hình ảnh, chuyển động chậm, camera tĩnh, vật lý không thực tế, chủ thể bị mờ, động vật bị biến dạng, máu me, bạo lực.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="Video điện ảnh về cuộc rượt đuổi dưới góc nhìn của chuột">
-
-**[🎬 Xem video →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
-
-**Tác giả:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Nguồn:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Đã xuất bản:** Jun 4, 2026
-
----
-### Hiệp sĩ thời Trung cổ trên cánh đồng hoa anh túc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video điện ảnh chi tiết dành cho Gemini Omni, mô tả một hiệp sĩ đang nghỉ ngơi trên cánh đồng hoa anh túc rực rỡ với ánh sáng tự nhiên đầy kịch tính.
-
-#### 📝 Prompt
-
-```
-Một hiệp sĩ thời Trung cổ mệt mỏi trong bộ giáp sắt sáng bóng đang nghỉ ngơi yên bình dưới gốc cây sồi cổ thụ lớn, giữa cánh đồng hoa anh túc đỏ rực nở rộ trải dài bất tận, đung đưa nhẹ nhàng trong gió. Hiệp sĩ nằm trên thảm cỏ mềm, vẫn đội mũ giáp, đôi mắt nhắm nghiền trong sự nghỉ ngơi thanh thản, xung quanh là những bông hoa đỏ thắm. Máy quay bắt đầu bằng một cú lia toàn cảnh, sau đó từ từ tiến lại gần hiệp sĩ, duy trì độ sâu trường ảnh nông để giữ nét sắc sảo trên người hiệp sĩ và những bông hoa anh túc gần đó, đồng thời làm mờ nhẹ cánh đồng và bầu trời phía xa. Phía trên, những đám mây giông tối tăm đầy kịch tính bao phủ bầu trời nhưng tách ra một cách ngoạn mục để những tia nắng vàng dịu nhẹ xuyên qua, tạo nên những dải sáng rực rỡ (god rays) và ánh sáng tự nhiên sống động với những bóng đổ mềm mại. Bầu không khí vừa yên bình vừa hùng tráng, gợi lên sự tĩnh lặng sau một trận chiến khốc liệt. Phong cách giả tưởng điện ảnh siêu thực, kết cấu chi tiết trên bộ giáp, hoa và cỏ, mang đậm chất sử thi hội họa, ánh sáng tự nhiên tán xạ, chuyển động gió tinh tế trên những bông hoa và lá cây.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="Hiệp sĩ thời Trung cổ trên cánh đồng hoa anh túc">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2061828182207336608)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Đã xuất bản:** Jun 2, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 39 prompt khác không hiển thị ở đây
+### 🎯 42 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2977,6 +2994,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-30T06:26:18.687Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-30T10:23:36.521Z</sub>
 
 </div>

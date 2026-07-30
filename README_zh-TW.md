@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **139** |
+| 📝 提示詞總數 | **142** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-07-30** |
 
@@ -56,6 +56,83 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 電影感足球動畫短片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個針對動畫風格短片的詳細影片提示詞，內容包含屋頂足球場景，並附有精確的時間軸動作與音效指示。
+
+#### 📝 提示詞
+
+```
+電影感動畫短片片段，10 秒。平坦的混凝土屋頂，背景為萬里無雲的明亮藍天，遠處可見城市景觀，畫面中僅有主角與足球。
+
+角色：請使用已上傳的角色設定圖。
+
+音效：高能量嘻哈節奏從第一幀開始持續播放，每個剪輯點皆與節奏同步，每次觸球時皆能聽到清脆且令人滿足的擊球聲。
+
+[0:00-0:01] 平躺在混凝土上，雙腳朝天，雙腳交替顛球，上方為藍天。側身地面視角。切換至下方仰視腳部與球對著天空的視角。切換至上方俯視視角。
+
+[0:01-0:02] 顛球過程中躍起，隨即展開雙重繞球（Around the World）動作——單次跳躍中腳部繞球兩圈，形成模糊圓圈。低角度仰視藍天視角。側身全身跳躍視角。腳部繞球的極致特寫。
+
+[0:02-0:03] 球完美停在後頸處。頸部停球特寫。對著天空的全景鏡頭。隨即從頸部停球流暢銜接至繞球動作——球從頸部彈起，腳部瞬間繞球。低角度展示對著天空的完整組合動作。
+
+[0:03-0:04] 身體前傾，球從頸部緩慢滾過整條脊椎至下背部而不掉落。展示完整滾球過程的側身鏡頭。脊椎滾球特寫。背部爆發性拱起，將球從下背部彈回空中。
+
+[0:04-0:06] 在混凝土上盤腿坐著顛球，坐姿下雙腳後跟交替顛球。俯視視角。側邊腳後跟特寫。不使用雙手支撐地面，在顛球過程中起身。
+
+[0:06-0:08] 倒立——身體完全垂直，球平衡在一隻筆直朝上的腳上。對著藍天的全景鏡頭。腳部倒立平衡球的特寫。低角度仰視他倒立於天空的視角。
+
+[0:08-0:10] 用大腿將球高高彈起——鏡頭跟隨球向上對著純淨藍天——到達頂點——落下——頭頂彩虹過人（Rainbow flick）——轉身——全力凌空抽射——球直衝鏡頭並填滿整個畫面——切換至黑畫面。黑暗中最後一聲節拍重擊。
+
+電影感賽璐珞風格 3D 動畫，半寫實 CGI，手繪質感，Unreal Engine 品質，明亮的自然日光，全程清澈藍天，數位繪畫感，硬邊筆觸，強烈陰影，非卡通、非迪士尼、非皮克斯風格，膠卷顆粒感，頂級動畫品質，嘻哈節奏與擊球聲貫穿始終
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="電影感足球動畫短片">
+
+**[🎬 觀看視頻 →](https://x.com/iam_damayor/status/2082752702056956014)**
+
+**作者:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **來源:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **發布時間:** Jul 30, 2026
+
+---
+### 水墨蝦躍入未來城市影片
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一個充滿創意的影片生成提示詞，描繪了黑白水墨蝦從宣紙中躍出，進入充滿發光軌道觸鬚的未來霓虹城市。
+
+#### 📝 提示詞
+
+```
+水墨蝦躍入未來城市——一張宣紙在夜間摩天大樓間展開，八隻黑白水墨蝦從紙面躍出，牠們的身體保留了「飛白」筆觸與水墨漸層。蝦鬚化作發光的城市軌道，墨滴變為霓虹雨；場景呈現出巨大的比例對比、強烈的景深、電影級光影，以及瞬間抓住目光的視覺奇觀。無文字，無浮水印。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="水墨蝦躍入未來城市影片">
+
+**[🎬 觀看視頻 →](https://x.com/nicekate8888/status/2082746108493848857)**
+
+**作者:** [nicekate](https://x.com/nicekate8888) | **來源:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **發布時間:** Jul 30, 2026
+
+---
+### 郊區虛空裂縫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段電影感影片提示詞，描述一條寧靜的郊區街道，天空裂開一道紫色虛空，將碎片吸入並轉換為外星地平線的場景。
+
+#### 📝 提示詞
+
+```
+寧靜的郊區街道，傍晚時分，灑水器正在運作。天空出現一道如閃電般無聲的裂痕，隨即擴大成翻騰的紫色虛空。鏡頭從地面高度向裂縫推進，街道上的碎片開始飄浮；影片結束時鏡頭穿過裂縫，郊區瞬間變成了外星地平線。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="郊區虛空裂縫">
+
+**[🎬 觀看視頻 →](https://x.com/iam_damayor/status/2082402289126432866)**
+
+**作者:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **來源:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **發布時間:** Jul 29, 2026
+
+---
 ### 浮空城市無人機穿越鏡頭
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2900,73 +2977,13 @@ RGB 故障，
 **作者:** [Evren Tombul](https://x.com/EvrenTombul) | **來源:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **發布時間:** Jun 4, 2026
 
 ---
-### 第一人稱掃帚飛行路徑影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一場電影感十足的第一人稱掃帚追逐場景，沿著特定的飛行路徑進行運鏡控制，並聚焦於移動中的金探子。
-
-#### 📝 提示詞
-
-```
-第一人稱視角，一場電影感、超高速、一鏡到底的掃帚追逐場景。拍攝時必須嚴格遵循圖片中顯示的白色飛行路徑。在整個追逐過程中，金探子始終是主要目標，但不能將其固定在畫面中心。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="第一人稱掃帚飛行路徑影片">
-
-**[🎬 觀看視頻 →](https://x.com/GamsGo_Global/status/2062462744297914664)**
-
-**作者:** [GamsGo](https://x.com/GamsGo_Global) | **來源:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **發布時間:** Jun 4, 2026
-
----
-### 電影級第一人稱老鼠追逐戰
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一份詳細的電影級影片提示詞，描繪從老鼠視角出發的高張力追逐場景，具備超逼真的光影與動態效果。
-
-#### 📝 提示詞
-
-```
-POV：你是一隻正在逃離家貓追捕的小老鼠。超逼真第一人稱視角，電影動作片畫質。場景設定在郊區住宅的夜晚。老鼠在木質廚房地板上狂奔，巨大的貓掌在身後幾英寸處重重拍下。鑽過餐椅下方，穿梭於桌腳之間，跳過倒下的麥片盒，在光滑的檯面邊緣滑行，隨後躍上沙發。貓咪撞翻了檯燈與裝飾品，現場一片混亂。快速手持攝影機運鏡，強烈的動態模糊，真實的比例差異，戲劇性的陰影，空氣中漂浮的塵埃粒子。追逐戰在客廳持續進行，貓咪步步逼近。最後在洗衣機後方的狹小縫隙中絕命狂奔，貓掌距離鏡頭僅幾公分之遙，驚險萬分。超逼真毛髮，電影級燈光，好萊塢動作場面，一鏡到底，淺景深，高張力，極致細節，4K，照片級真實感。
-
-負面提示詞：
-卡通，動畫，低細節，低解析度，第三人稱視角，多隻老鼠，多隻貓，文字，字幕，浮水印，故障，動作緩慢，靜態攝影，不真實的物理效果，主體模糊，動物變形，血腥，流血。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="電影級第一人稱老鼠追逐戰">
-
-**[🎬 觀看視頻 →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
-
-**作者:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **來源:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **發布時間:** Jun 4, 2026
-
----
-### 罌粟花田中的中世紀騎士
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Gemini Omni 設計的詳細電影級影片提示詞，描繪了一位在中世紀罌粟花田中休息的騎士，並呈現出戲劇性的自然光影效果。
-
-#### 📝 提示詞
-
-```
-一位疲憊的中世紀騎士身穿閃亮的全身板甲，在一棵巨大的古老橡樹下平靜地休息，周圍是無邊無際、在微風中輕輕搖曳的鮮豔紅罌粟花田。騎士躺在柔軟的草地上，頭盔尚未卸下，雙眼緊閉，神情安詳，四周環繞著火紅的花朵。鏡頭以廣角建立鏡頭開始，隨後緩慢地向騎士推進，保持淺景深，使騎士與近處的罌粟花保持清晰對焦，同時將遠處的田野與天空柔焦處理。上方，戲劇性的烏雲密佈，但雲層戲劇性地裂開，讓柔和的金色陽光灑落，形成美麗的耶穌光與動態的自然光影，並帶有柔和的陰影。氛圍既平靜又壯麗，喚起戰鬥後的寧靜感。超寫實電影級奇幻風格，盔甲、花朵與草地的紋理細節極致豐富，帶有繪畫般的史詩氛圍，自然光散射，花朵與樹葉呈現細膩的風動效果。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="罌粟花田中的中世紀騎士">
-
-**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2061828182207336608)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **發布時間:** Jun 2, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 39 更多提示詞未在此顯示
+### 🎯 42 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3012,6 +3029,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-07-30T06:26:13.145Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-07-30T10:23:31.486Z</sub>
 
 </div>

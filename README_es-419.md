@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **139** |
+| 📝 Total de prompts | **142** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-30** |
 
@@ -56,6 +56,83 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Clip de anime de fútbol cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video altamente detallado para un cortometraje estilo anime que presenta una secuencia de fútbol en una azotea con acciones específicas marcadas por tiempo e instrucciones de audio.
+
+#### 📝 Prompt
+
+```
+Clip de cortometraje de anime cinematográfico, 10 segundos. Azotea de concreto plana, cielo azul claro y brillante en todas partes, ciudad visible muy abajo, solo él y el balón.
+
+PERSONAJE: usar la hoja de personaje subida.
+
+AUDIO: Ritmo de hip hop de alta energía fuerte desde el primer cuadro sin detenerse, cada corte sincronizado con el ritmo, sonido de contacto con el balón nítido y satisfactorio en cada toque siempre audible.
+
+[0:00-0:01] Tumbado boca arriba sobre el concreto, ambos pies apuntando hacia arriba, haciendo malabares con el balón sobre él con pies alternos. Plano de perfil a nivel del suelo. Corte a toma desde abajo mirando hacia los pies y el balón contra el cielo. Corte a toma cenital mirando directamente hacia abajo a él en posición horizontal.
+
+[0:01-0:02] Salta a sus pies a mitad del malabarismo, lanza inmediatamente un doble "around the world" (vuelta al mundo): el pie rodea el balón dos veces en un solo salto, difuminándose en un círculo. Ángulo bajo mirando hacia el cielo azul. Perfil lateral de salto completo. Primer plano extremo del pie difuminándose alrededor del balón.
+
+[0:02-0:03] El balón aterriza perfectamente quieto en la nuca. Primer plano del balón en el cuello. Plano general contra el cielo. Fluye inmediatamente hacia un ATW desde la parada en el cuello: el balón sale disparado del cuello, el pie rodea instantáneamente. Ángulo bajo que muestra la combinación completa contra el cielo.
+
+[0:03-0:04] Se inclina hacia adelante, el balón rueda lentamente por toda la columna desde el cuello hasta la parte baja de la espalda sin caerse. Perfil lateral que muestra el rodaje completo. Primer plano del balón en la columna. Arquea la espalda explosivamente lanzando el balón de vuelta al aire desde la parte baja de la espalda.
+
+[0:04-0:06] Se sienta con las piernas cruzadas sobre el concreto a mitad del malabarismo, ambos talones alternan malabares mientras está sentado. Toma cenital mirando hacia abajo. Primer plano de los talones desde el lado. Se vuelve a poner de pie a mitad del malabarismo sin que las manos toquen el suelo.
+
+[0:06-0:08] Parada de manos: cuerpo totalmente vertical, balón equilibrado en un pie apuntando directamente hacia arriba. Plano general contra el cielo azul. Primer plano del pie equilibrando el balón boca abajo. Ángulo bajo mirando hacia él invertido contra el cielo.
+
+[0:08-0:10] Lanza el balón alto con el muslo: la cámara sigue al balón hacia arriba contra el cielo azul puro: punto máximo: cae de nuevo: "rainbow flick" sobre su cabeza: gira: volea a máxima potencia: el balón sale disparado directamente hacia la cámara llenando todo el encuadre: CORTE A NEGRO. Un último golpe de ritmo en la oscuridad.
+
+Anime 3D con sombreado cel cinematográfico, CGI semirrealista, texturas pintadas a mano, calidad de Unreal Engine, luz natural brillante, cielo azul claro en todo momento, sensación de pintura digital, pinceladas de bordes duros, sombras marcadas, no es caricatura, no es Disney, no es Pixar, grano de película, calidad de anime premium, ritmo de hip hop y sonidos de contacto con el balón dominantes en todo momento
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Clip de anime de fútbol cinematográfico">
+
+**[🎬 Ver video →](https://x.com/iam_damayor/status/2082752702056956014)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fuente:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Publicado:** Jul 30, 2026
+
+---
+### Video de camarones en estilo aguada en una ciudad futurista
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt creativo de generación de video que muestra camarones en estilo aguada (ink wash) saltando desde papel de arroz hacia una ciudad futurista de neón con bigotes orbitales brillantes.
+
+#### 📝 Prompt
+
+```
+Camarones en estilo aguada saltando hacia una ciudad futurista: un trozo de papel de arroz se despliega entre rascacielos nocturnos, ocho camarones en tinta blanca y negra saltan de la superficie del papel, sus cuerpos aún conservan el trazo de pincel 'blanco volador' y los degradados de tinta. Los bigotes de los camarones se convierten en pistas brillantes de la ciudad y las gotas de tinta se transforman en lluvia de neón; la escena presenta un contraste de gran escala, una profundidad marcada, iluminación cinematográfica y un espectáculo que captura la vista al instante. Sin texto, sin marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Video de camarones en estilo aguada en una ciudad futurista">
+
+**[🎬 Ver video →](https://x.com/nicekate8888/status/2082746108493848857)**
+
+**Autor:** [nicekate](https://x.com/nicekate8888) | **Fuente:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Publicado:** Jul 30, 2026
+
+---
+### Desgarro en el vacío suburbano
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinemático que describe una calle suburbana tranquila donde el cielo se abre hacia un vacío púrpura, succionando escombros y haciendo la transición hacia un horizonte alienígena.
+
+#### 📝 Prompt
+
+```
+Calle suburbana tranquila al atardecer, con los aspersores funcionando. El cielo se abre con un desgarro silencioso similar a un rayo, ensanchándose hasta convertirse en un vacío púrpura agitado. La cámara se acerca desde el nivel del suelo mientras los escombros comienzan a elevarse de la calle; termina con la cámara cruzando el umbral, donde el suburbio es reemplazado instantáneamente por un horizonte alienígena.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Desgarro en el vacío suburbano">
+
+**[🎬 Ver video →](https://x.com/iam_damayor/status/2082402289126432866)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fuente:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Publicado:** Jul 29, 2026
+
+---
 ### Recorrido con dron por una ciudad flotante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2864,73 +2941,13 @@ Una versión gigantesca de mí, vistiendo exactamente el mismo atuendo y con el 
 **Autor:** [Evren Tombul](https://x.com/EvrenTombul) | **Fuente:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Publicado:** Jun 4, 2026
 
 ---
-### Video de trayectoria de vuelo en escoba en primera persona
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una escena de persecución cinematográfica en primera persona sobre una escoba voladora que sigue una trayectoria de vuelo específica para el control de movimiento, enfocándose en una Snitch Dorada en movimiento.
-
-#### 📝 Prompt
-
-```
-Perspectiva en primera persona, una escena de persecución cinematográfica, ultrarrápida y de una sola toma sobre una escoba voladora. La grabación debe seguir estrictamente la trayectoria de vuelo blanca que se muestra en la imagen. La Snitch Dorada sigue siendo el objetivo principal durante toda la persecución, pero no puede permanecer fija en el centro
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="Video de trayectoria de vuelo en escoba en primera persona">
-
-**[🎬 Ver video →](https://x.com/GamsGo_Global/status/2062462744297914664)**
-
-**Autor:** [GamsGo](https://x.com/GamsGo_Global) | **Fuente:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Publicado:** Jun 4, 2026
-
----
-### Persecución cinematográfica en primera persona de una rata
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico detallado para una secuencia de persecución de alta tensión desde el punto de vista de una rata, con iluminación hiperrealista y efectos de movimiento.
-
-#### 📝 Prompt
-
-```
-POV: Eres una pequeña rata escapando de un gato doméstico. Cámara en primera persona ultrarrealista, calidad de película de acción cinematográfica. Noche dentro de una casa suburbana. La rata corre a toda velocidad por un piso de madera en la cocina mientras las patas gigantes del gato golpean a centímetros detrás. Esquiva debajo de las sillas del comedor, se abre paso entre las patas de la mesa, salta sobre una caja de cereal caída, derrapa por el borde de una encimera brillante y luego salta a un sofá. El gato choca contra objetos, derribando lámparas y decoraciones. Movimiento de cámara rápida en mano, intenso desenfoque de movimiento, diferencia de escala realista, sombras dramáticas, partículas de polvo flotando en el aire. La persecución continúa por la sala de estar a medida que el gato se acerca cada vez más. Sprint final desesperado a través de un pequeño espacio detrás de una lavadora, la pata del gato falla por centímetros al pasar cerca de la cámara. Pelaje hiperrealista, iluminación cinematográfica, secuencia de acción de Hollywood, toma continua sin cortes, poca profundidad de campo, alta tensión, ultra detallado, 4K, fotorrealista.
-
-Negative Prompt:
-dibujos animados, animación, bajo detalle, baja resolución, vista en tercera persona, múltiples ratas, múltiples gatos, texto, subtítulos, marca de agua, fallos, movimiento lento, cámara estática, física poco realista, sujeto borroso, animales deformes, gore, sangre.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="Persecución cinematográfica en primera persona de una rata">
-
-**[🎬 Ver video →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
-
-**Autor:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Fuente:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Publicado:** Jun 4, 2026
-
----
-### Caballero medieval en un campo de amapolas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico detallado para Gemini Omni que presenta a un caballero descansando en un vibrante campo de amapolas con una iluminación natural dramática.
-
-#### 📝 Prompt
-
-```
-Un caballero medieval cansado con una brillante armadura de placas completa descansa pacíficamente bajo un gran roble antiguo en un vasto e infinito campo de vibrantes amapolas rojas que se mecen suavemente con la brisa. El caballero yace sobre la hierba suave, con el casco puesto y los ojos cerrados en un descanso sereno, rodeado de flores de color rojo brillante. La cámara comienza con un plano general, luego se acerca lentamente con un suave movimiento hacia el caballero, manteniendo una profundidad de campo reducida que conserva un enfoque nítido en el caballero y las amapolas cercanas, mientras desenfoca suavemente el campo y el cielo distantes. Arriba, dramáticas nubes oscuras de tormenta llenan el cielo, pero se abren espectacularmente para dejar que los suaves rayos de luz solar dorada se filtren, creando hermosos rayos de luz y una iluminación natural dinámica con sombras suaves. La atmósfera es pacífica pero épica, evocando la calma después de una dura batalla. Estilo de fantasía cinematográfica ultrarrealista, texturas hiperdetalladas en la armadura, las flores y la hierba, ambiente épico y pictórico, dispersión de luz natural, movimiento sutil del viento en las flores y las hojas de los árboles.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="Caballero medieval en un campo de amapolas">
-
-**[🎬 Ver video →](https://x.com/MrDasOnX/status/2061828182207336608)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Publicado:** Jun 2, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 39 más prompts no mostrados aquí
+### 🎯 42 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2976,6 +2993,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-30T06:26:23.168Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-30T10:23:40.200Z</sub>
 
 </div>

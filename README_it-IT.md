@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **139** |
+| 📝 Totale prompt | **142** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-07-30** |
 
@@ -56,6 +56,83 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Clip di anime calcistico cinematografico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video altamente dettagliato per un cortometraggio in stile anime che presenta una sequenza di calcio su un tetto, con azioni scandite da timestamp specifici e indicazioni audio.
+
+#### 📝 Prompt
+
+```
+Clip di cortometraggio anime cinematografico, 10 secondi. Tetto in cemento piatto, cielo azzurro limpido ovunque, città visibile in lontananza, solo lui e il pallone.
+
+PERSONAGGIO: utilizzare la scheda personaggio caricata.
+
+AUDIO: Beat hip hop ad alta energia, forte fin dal primo fotogramma e costante, ogni taglio sincronizzato con il ritmo, suono del contatto con il pallone nitido e soddisfacente a ogni tocco, sempre udibile.
+
+[0:00-0:01] Sdraiato sulla schiena sul cemento, entrambi i piedi rivolti verso l'alto, palleggia con il pallone sopra di sé alternando i piedi. Ripresa di profilo a livello del suolo. Taglio dal basso verso l'alto sui piedi e sul pallone contro il cielo. Taglio dall'alto con inquadratura zenitale.
+
+[0:01-0:02] Salta in piedi a metà palleggio, lancia immediatamente un doppio "around the world" (ATW) — il piede circonda il pallone due volte in un solo salto, sfocando in un cerchio. Angolazione dal basso verso l'alto contro il cielo azzurro. Profilo laterale del salto completo. Primissimo piano del piede che sfoca attorno al pallone.
+
+[0:02-0:03] Il pallone atterra perfettamente immobile sulla nuca. Primo piano del pallone sul collo. Campo lungo contro il cielo. Transizione immediata in un ATW dallo stallo sul collo — il pallone viene lanciato dal collo, il piede circonda istantaneamente. Angolazione dal basso che mostra la combinazione completa contro il cielo.
+
+[0:03-0:04] Si piega in avanti, il pallone rotola lentamente lungo tutta la colonna vertebrale, dal collo alla parte bassa della schiena, senza cadere. Profilo laterale che mostra il rotolamento completo. Primo piano del pallone sulla schiena. Inarca la schiena esplosivamente, lanciando il pallone in aria dalla parte bassa della schiena.
+
+[0:04-0:06] Si siede a gambe incrociate sul cemento continuando a palleggiare, entrambi i talloni alternano il palleggio mentre è seduto. Ripresa dall'alto. Primo piano dei talloni di lato. Si rialza a metà palleggio senza usare le mani per toccare terra.
+
+[0:06-0:08] Verticale sulle mani — corpo completamente verticale, pallone in equilibrio su un piede rivolto verso l'alto. Campo lungo contro il cielo azzurro. Primo piano del piede che bilancia il pallone capovolto. Angolazione dal basso verso l'alto su di lui rovesciato contro il cielo.
+
+[0:08-0:10] Lancia il pallone in alto con la coscia — la telecamera segue il pallone verso l'alto contro il cielo azzurro puro — apice — ricaduta — rainbow flick sopra la testa — si gira — tiro al volo a piena potenza — il pallone sfreccia direttamente verso la telecamera riempiendo l'intera inquadratura — TAGLIO AL NERO. Un ultimo colpo di beat nel buio.
+
+Anime 3D in cel-shading cinematografico, CGI semi-realistica, texture dipinte a mano, qualità Unreal Engine, luce diurna naturale e brillante, cielo azzurro limpido per tutta la durata, sensazione di pittura digitale, pennellate dai bordi netti, ombre marcate, non cartone animato, non Disney, non Pixar, grana della pellicola, qualità anime premium, beat hip hop e suoni del contatto con il pallone dominanti per tutta la durata
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Clip di anime calcistico cinematografico">
+
+**[🎬 Guarda il video →](https://x.com/iam_damayor/status/2082752702056956014)**
+
+**Autore:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Pubblicato:** Jul 30, 2026
+
+---
+### Video di gamberi in stile pittura a inchiostro in una città futuristica
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt creativo per la generazione di video che raffigura gamberi in stile pittura a inchiostro bianco e nero che saltano dalla carta di riso in una città futuristica al neon con baffi orbitali luminosi.
+
+#### 📝 Prompt
+
+```
+Gamberi in stile pittura a inchiostro che saltano in una città futuristica: un foglio di carta di riso si dispiega tra grattacieli notturni, otto gamberi in bianco e nero balzano fuori dalla superficie della carta, i loro corpi conservano ancora la tecnica del 'bianco volante' e le sfumature dell'inchiostro. I baffi dei gamberi si trasformano in percorsi cittadini luminosi e le gocce d'inchiostro diventano pioggia al neon; la scena presenta un enorme contrasto di scala, una grande profondità, un'illuminazione cinematografica e uno spettacolo che cattura immediatamente lo sguardo. Nessun testo, nessuna filigrana.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Video di gamberi in stile pittura a inchiostro in una città futuristica">
+
+**[🎬 Guarda il video →](https://x.com/nicekate8888/status/2082746108493848857)**
+
+**Autore:** [nicekate](https://x.com/nicekate8888) | **Fonte:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Pubblicato:** Jul 30, 2026
+
+---
+### Squarcio nel vuoto in un sobborgo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video cinematografico che descrive una tranquilla strada suburbana dove il cielo si apre in un vuoto viola, risucchiando detriti e trasformandosi in un orizzonte alieno.
+
+#### 📝 Prompt
+
+```
+Tranquilla strada suburbana, sera, irrigatori in funzione. Il cielo si squarcia con un silenzioso lampo, allargandosi in un vorticoso vuoto viola. La telecamera avanza verso di esso dal livello del suolo mentre i detriti iniziano a sollevarsi dalla strada; il video termina con la telecamera che attraversa la soglia, sostituendo istantaneamente il sobborgo con un orizzonte alieno.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Squarcio nel vuoto in un sobborgo">
+
+**[🎬 Guarda il video →](https://x.com/iam_damayor/status/2082402289126432866)**
+
+**Autore:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Pubblicato:** Jul 29, 2026
+
+---
 ### Sorvolo con drone di una città fluttuante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2861,73 +2938,13 @@ Una versione gigantesca di me, che indossa lo stesso identico outfit e ha lo ste
 **Autore:** [Evren Tombul](https://x.com/EvrenTombul) | **Fonte:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Pubblicato:** Jun 4, 2026
 
 ---
-### Video in prima persona del percorso di volo su manico di scopa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una scena di inseguimento cinematografica in prima persona su un manico di scopa volante che segue un percorso di volo specifico per il controllo del movimento, concentrandosi su un Boccino d'Oro in movimento.
-
-#### 📝 Prompt
-
-```
-Prospettiva in prima persona, una scena di inseguimento cinematografica, ultra-veloce e in piano sequenza su un manico di scopa volante. Riprendi seguendo rigorosamente il percorso di volo bianco mostrato nell'immagine. Il Boccino d'Oro rimane l'obiettivo principale durante tutto l'inseguimento, ma non può essere fissato al centro
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="Video in prima persona del percorso di volo su manico di scopa">
-
-**[🎬 Guarda il video →](https://x.com/GamsGo_Global/status/2062462744297914664)**
-
-**Autore:** [GamsGo](https://x.com/GamsGo_Global) | **Fonte:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Pubblicato:** Jun 4, 2026
-
----
-### Inseguimento cinematografico in prima persona: un topo in fuga
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico dettagliato per una sequenza di inseguimento ad alta tensione dal punto di vista di un topo, caratterizzato da illuminazione iperrealistica ed effetti di movimento.
-
-#### 📝 Prompt
-
-```
-POV: Sei un piccolo topo che scappa da un gatto domestico. Telecamera in prima persona ultra-realistica, qualità da film d'azione cinematografico. Notte all'interno di una casa suburbana. Il topo corre su un pavimento di legno in cucina mentre le zampe giganti del gatto sbattono a pochi centimetri dietro di lui. Scatta sotto le sedie della sala da pranzo, si fa strada tra le gambe del tavolo, salta sopra una scatola di cereali caduta, scivola sul bordo di un piano di lavoro lucido, poi balza su un divano. Il gatto si schianta contro gli oggetti, rovesciando lampade e decorazioni. Movimento rapido della telecamera a mano, intenso motion blur, differenza di scala realistica, ombre drammatiche, particelle di polvere che fluttuano nell'aria. L'inseguimento continua attraverso il soggiorno mentre il gatto si avvicina sempre di più. Sprint finale disperato attraverso una piccola fessura dietro una lavatrice, la zampa del gatto manca la telecamera per pochi centimetri. Pelliccia iperrealistica, illuminazione cinematografica, sequenza d'azione hollywoodiana, ripresa continua senza interruzioni, profondità di campo ridotta, alta tensione, ultra-dettagliato, 4K, fotorealistico.
-
-Negative Prompt:
-cartone animato, animazione, basso dettaglio, bassa risoluzione, visuale in terza persona, topi multipli, gatti multipli, testo, sottotitoli, watermark, glitch, movimento lento, telecamera statica, fisica irrealistica, soggetto sfocato, animali deformi, sangue, violenza.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="Inseguimento cinematografico in prima persona: un topo in fuga">
-
-**[🎬 Guarda il video →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
-
-**Autore:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Fonte:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Pubblicato:** Jun 4, 2026
-
----
-### Cavaliere medievale in un campo di papaveri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico dettagliato per Gemini Omni che ritrae un cavaliere a riposo in un vibrante campo di papaveri con una suggestiva illuminazione naturale.
-
-#### 📝 Prompt
-
-```
-Un cavaliere medievale stanco, con una scintillante armatura a piastre completa, riposa serenamente sotto una grande quercia secolare in un vasto e infinito campo di vibranti papaveri rossi in fiore che ondeggiano dolcemente nella brezza. Il cavaliere è disteso sull'erba soffice, con l'elmo ancora indossato e gli occhi chiusi in un riposo sereno, circondato da fiori rosso acceso. La telecamera inizia con un'inquadratura ampia, per poi avvicinarsi lentamente con un movimento fluido verso il cavaliere, mantenendo una profondità di campo ridotta che mantiene una messa a fuoco nitida sul cavaliere e sui papaveri vicini, sfocando delicatamente il campo in lontananza e il cielo. Sopra, drammatiche nuvole scure e temporalesche riempiono il cielo, aprendosi in modo spettacolare per lasciar filtrare morbidi raggi di luce solare dorata, creando splendidi giochi di luce e un'illuminazione naturale dinamica con ombre soffici. L'atmosfera è pacifica ma epica, evocando la calma dopo una dura battaglia. Stile fantasy cinematografico ultra-realistico, texture iper-dettagliate sull'armatura, sui fiori e sull'erba, atmosfera epica e pittorica, diffusione della luce naturale, leggero movimento del vento tra i fiori e le foglie degli alberi.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="Cavaliere medievale in un campo di papaveri">
-
-**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2061828182207336608)**
-
-**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Pubblicato:** Jun 2, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 39 altri prompt non mostrati qui
+### 🎯 42 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2973,6 +2990,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-30T06:26:26.779Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-30T10:23:43.811Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **139** |
+| 📝 Total des prompts | **142** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-07-30** |
 
@@ -56,6 +56,83 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Clip d'anime de football cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo très détaillé pour un court-métrage de style anime mettant en scène une séquence de football sur un toit, avec des actions horodatées précises et des indications audio.
+
+#### 📝 Prompt
+
+```
+Court-métrage d'anime cinématographique, 10 secondes. Toit en béton plat, ciel bleu clair et dégagé partout, ville visible au loin en contrebas, juste lui et le ballon.
+
+PERSONNAGE : utilisez la fiche de personnage téléchargée.
+
+AUDIO : Beat hip-hop énergique, fort dès la première image et sans interruption, chaque coupe synchronisée sur le rythme, son de contact net et satisfaisant du ballon à chaque touche, toujours audible.
+
+[0:00-0:01] Allongé sur le dos sur le béton, les deux pieds pointés vers le haut, jonglant avec le ballon au-dessus de lui en alternant les pieds. Vue de profil au niveau du sol. Coupe vers une vue d'en bas regardant les pieds et le ballon sur fond de ciel. Coupe en vue plongeante verticale.
+
+[0:01-0:02] Se met debout en plein jongle, enchaîne immédiatement avec un double « around the world » (ATW) — le pied tourne deux fois autour du ballon en un seul saut, créant un effet de flou circulaire. Angle bas regardant vers le ciel bleu. Profil complet du saut. Très gros plan sur le pied tournant autour du ballon.
+
+[0:02-0:03] Le ballon atterrit parfaitement immobile sur la nuque. Gros plan du ballon sur la nuque. Plan large sur fond de ciel. Enchaîne immédiatement avec un ATW depuis la nuque — le ballon est propulsé depuis la nuque, le pied tourne instantanément. Angle bas montrant la combinaison complète sur fond de ciel.
+
+[0:03-0:04] Se penche en avant, le ballon roule lentement le long de toute la colonne vertébrale, de la nuque au bas du dos, sans tomber. Profil montrant le roulement complet. Gros plan du ballon sur la colonne. Arque le dos de manière explosive pour propulser le ballon en l'air depuis le bas du dos.
+
+[0:04-0:06] S'assoit en tailleur sur le béton en plein jongle, les deux talons jonglant alternativement en position assise. Vue plongeante. Gros plan des talons de profil. Se relève en plein jongle sans utiliser les mains.
+
+[0:06-0:08] Équilibre sur les mains (handstand) — corps parfaitement vertical, ballon en équilibre sur un pied pointé vers le haut. Plan large sur fond de ciel bleu. Gros plan du pied équilibrant le ballon à l'envers. Angle bas regardant vers lui, inversé sur fond de ciel.
+
+[0:08-0:10] Propulse le ballon haut avec la cuisse — la caméra suit le ballon vers le haut sur fond de ciel bleu pur — sommet — retombe — coup du sombrero (rainbow flick) au-dessus de sa tête — se retourne — volée pleine puissance — le ballon fonce directement vers la caméra, remplissant tout le cadre — NOIR. Un dernier coup de beat dans l'obscurité.
+
+Anime 3D cinématographique en cel-shading, CGI semi-réaliste, textures peintes à la main, qualité Unreal Engine, lumière naturelle vive, ciel bleu clair constant, rendu peinture numérique, traits marqués, ombres marquées, pas de style cartoon, ni Disney, ni Pixar, grain de film, qualité anime premium, beat hip-hop et sons de contact du ballon dominants tout au long.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Clip d'anime de football cinématographique">
+
+**[🎬 Voir la vidéo →](https://x.com/iam_damayor/status/2082752702056956014)**
+
+**Auteur:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Publié:** Jul 30, 2026
+
+---
+### Vidéo d'une ville futuriste avec des crevettes à l'encre de Chine
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt de génération vidéo créatif représentant des crevettes à l'encre de Chine noire et blanche bondissant d'une feuille de papier de riz vers une ville futuriste au néon, avec des moustaches orbitales lumineuses.
+
+#### 📝 Prompt
+
+```
+Des crevettes à l'encre de Chine bondissant dans une ville futuriste : une feuille de papier de riz se déploie au milieu de gratte-ciel nocturnes, huit crevettes à l'encre noire et blanche jaillissent de la surface du papier, leurs corps conservant le style « blanc volant » du pinceau et les dégradés d'encre. Les moustaches des crevettes se transforment en voies urbaines lumineuses et les gouttes d'encre deviennent une pluie de néons ; la scène présente un contraste d'échelle saisissant, une grande profondeur, un éclairage cinématographique et un spectacle qui attire immédiatement le regard. Pas de texte, pas de filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Vidéo d'une ville futuriste avec des crevettes à l'encre de Chine">
+
+**[🎬 Voir la vidéo →](https://x.com/nicekate8888/status/2082746108493848857)**
+
+**Auteur:** [nicekate](https://x.com/nicekate8888) | **Source:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Publié:** Jul 30, 2026
+
+---
+### Déchirure du vide dans une banlieue
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique décrivant une rue de banlieue calme où le ciel se fend pour révéler un vide violet, aspirant les débris et laissant place à un horizon extraterrestre.
+
+#### 📝 Prompt
+
+```
+Rue de banlieue calme, en soirée, arroseurs automatiques en marche. Le ciel se fend dans une déchirure silencieuse semblable à un éclair, s'élargissant en un vide violet tourbillonnant. La caméra avance au niveau du sol alors que des débris commencent à s'élever de la rue ; la séquence se termine par le passage de la caméra à travers la brèche, la banlieue étant instantanément remplacée par un horizon extraterrestre.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Déchirure du vide dans une banlieue">
+
+**[🎬 Voir la vidéo →](https://x.com/iam_damayor/status/2082402289126432866)**
+
+**Auteur:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Publié:** Jul 29, 2026
+
+---
 ### Survol en drone d'une cité flottante
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2889,73 +2966,13 @@ Une version gigantesque de moi-même, portant exactement la même tenue et arbor
 **Auteur:** [Evren Tombul](https://x.com/EvrenTombul) | **Source:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Publié:** Jun 4, 2026
 
 ---
-### Vidéo de trajectoire de vol en balai à la première personne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une scène de poursuite cinématographique à la première personne sur un balai volant, suivant une trajectoire de vol spécifique pour le contrôle de mouvement, avec une mise au point sur un Vif d'or en mouvement.
-
-#### 📝 Prompt
-
-```
-Perspective à la première personne, scène de poursuite cinématographique ultra-rapide en plan-séquence sur un balai volant. Le tournage doit suivre strictement la trajectoire de vol blanche indiquée dans l'image. Le Vif d'or reste la cible principale tout au long de la poursuite, mais il ne doit pas être fixé au centre.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="Vidéo de trajectoire de vol en balai à la première personne">
-
-**[🎬 Voir la vidéo →](https://x.com/GamsGo_Global/status/2062462744297914664)**
-
-**Auteur:** [GamsGo](https://x.com/GamsGo_Global) | **Source:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Publié:** Jun 4, 2026
-
----
-### Course-poursuite cinématographique à la première personne avec un rat
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique détaillé pour une séquence de poursuite sous haute tension du point de vue d'un rat, avec un éclairage hyperréaliste et des effets de mouvement.
-
-#### 📝 Prompt
-
-```
-POV : Vous êtes un minuscule rat qui échappe à un chat domestique. Caméra subjective ultra-réaliste, qualité de film d'action cinématographique. Nuit à l'intérieur d'une maison de banlieue. Le rat sprinte sur un parquet de cuisine en bois tandis que des pattes de chat géantes s'abattent à quelques centimètres derrière lui. Foncez sous les chaises de la salle à manger, faufilez-vous entre les pieds de table, sautez par-dessus une boîte de céréales renversée, dérapez sur le bord d'un comptoir brillant, puis bondissez sur un canapé. Le chat fracasse des objets, renversant lampes et décorations. Mouvement de caméra rapide à l'épaule, flou de mouvement intense, différence d'échelle réaliste, ombres dramatiques, particules de poussière flottant dans l'air. La poursuite se poursuit dans le salon alors que le chat se rapproche de plus en plus. Sprint final désespéré à travers une minuscule ouverture derrière une machine à laver, la patte du chat manquant la caméra de quelques centimètres. Fourrure hyperréaliste, éclairage cinématographique, séquence d'action hollywoodienne, plan-séquence continu, faible profondeur de champ, haute tension, ultra-détaillé, 4K, photoréaliste.
-
-Negative Prompt :
-dessin animé, animation, faible détail, basse résolution, vue à la troisième personne, plusieurs rats, plusieurs chats, texte, sous-titres, filigrane, glitches, mouvement lent, caméra statique, physique irréaliste, sujet flou, animaux déformés, gore, sang.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="Course-poursuite cinématographique à la première personne avec un rat">
-
-**[🎬 Voir la vidéo →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
-
-**Auteur:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Source:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Publié:** Jun 4, 2026
-
----
-### Chevalier médiéval dans un champ de coquelicots
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématique détaillé pour Gemini Omni mettant en scène un chevalier au repos dans un champ de coquelicots vibrant avec un éclairage naturel dramatique.
-
-#### 📝 Prompt
-
-```
-Un chevalier médiéval épuisé, vêtu d'une armure de plaques étincelante, se repose paisiblement sous un grand chêne ancien au milieu d'un vaste champ infini de coquelicots rouges éclatants qui se balancent doucement dans la brise. Le chevalier est allongé sur l'herbe tendre, son casque toujours sur la tête, les yeux fermés dans un repos serein, entouré de fleurs rouge vif. La caméra commence par un plan large, puis s'approche lentement du chevalier avec un mouvement fluide, en maintenant une faible profondeur de champ qui garde une mise au point nette sur le chevalier et les coquelicots proches, tout en floutant doucement le champ lointain et le ciel. Au-dessus, des nuages sombres et orageux remplissent le ciel mais s'écartent de façon spectaculaire pour laisser passer des rayons de soleil dorés, créant de magnifiques rayons de lumière et un éclairage naturel dynamique avec des ombres douces. L'atmosphère est paisible mais épique, évoquant le calme après une bataille acharnée. Style fantastique cinématique ultra-réaliste, textures hyper-détaillées sur l'armure, les fleurs et l'herbe, ambiance épique et picturale, diffusion de lumière naturelle, mouvement subtil du vent dans les fleurs et les feuilles des arbres.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="Chevalier médiéval dans un champ de coquelicots">
-
-**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2061828182207336608)**
-
-**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Publié:** Jun 2, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 39 prompts supplémentaires non affichés ici
+### 🎯 42 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3001,6 +3018,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-30T06:26:25.458Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-07-30T10:23:42.656Z</sub>
 
 </div>

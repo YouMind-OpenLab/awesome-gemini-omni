@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **139** |
+| 📝 Gesamtanzahl Prompts | **142** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-30** |
 
@@ -56,6 +56,83 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Cinematischer Fußball-Anime-Clip
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Video-Prompt für einen Kurzfilm im Anime-Stil, der eine Fußballsequenz auf einem Dach mit spezifischen zeitgesteuerten Aktionen und Audioanweisungen enthält.
+
+#### 📝 Prompt
+
+```
+Cinematischer Anime-Kurzfilm-Clip, 10 Sekunden. Flaches Betondach, klarer, strahlend blauer Himmel überall, Stadt weit unter ihm sichtbar, nur er und der Ball.
+
+CHARAKTER: Verwende das hochgeladene Charakterblatt.
+
+AUDIO: Hochenergetischer Hip-Hop-Beat, ab dem ersten Frame laut und durchgehend, jeder Schnitt auf den Beat abgestimmt, knackiges und befriedigendes Ballkontaktgeräusch bei jeder Berührung stets hörbar.
+
+[0:00-0:01] Flach auf dem Rücken auf dem Beton liegend, beide Füße zeigen nach oben, jongliert den Ball über sich mit abwechselnden Füßen, blauer Himmel darüber. Seitenprofil-Aufnahme auf Bodenhöhe. Schnitt von unten, Blick auf Füße und Ball vor dem Himmel. Schnitt von oben, direkter Blick nach unten auf ihn in horizontaler Position.
+
+[0:01-0:02] Springt mitten im Jonglieren auf die Füße, geht sofort in einen doppelten „Around the World“ über – der Fuß umkreist den Ball zweimal in einem Sprung, verschwimmt zu einem Kreis. Niedriger Winkel mit Blick nach oben gegen den blauen Himmel. Seitenprofil-Aufnahme des gesamten Sprungs. Extreme Nahaufnahme des Fußes, der um den Ball verschwimmt.
+
+[0:02-0:03] Ball landet perfekt und ruhig im Nacken. Nahaufnahme des Balls auf dem Nacken. Totale vor dem Himmel. Geht sofort vom Nacken-Stall in einen ATW über – der Ball schnellt vom Nacken hoch, der Fuß umkreist ihn sofort. Niedriger Winkel, der die gesamte Kombination vor dem Himmel zeigt.
+
+[0:03-0:04] Beugt sich nach vorne, der Ball rollt langsam den gesamten Rücken vom Nacken bis zum unteren Rücken hinunter, ohne herunterzufallen. Seitenprofil, das das gesamte Rollen zeigt. Nahaufnahme des Balls auf der Wirbelsäule. Wölbt den Rücken explosiv nach oben und schnippt den Ball vom unteren Rücken zurück in die Luft.
+
+[0:04-0:06] Sitzt im Schneidersitz auf dem Beton mitten im Jonglieren, beide Fersen jonglieren abwechselnd im Sitzen. Blick von oben nach unten. Nahaufnahme der Fersen von der Seite. Steht mitten im Jonglieren wieder auf, ohne dass die Hände den Boden berühren.
+
+[0:06-0:08] Handstand – Körper vollständig vertikal, der Ball balanciert auf einem Fuß, der gerade nach oben zeigt. Totale vor blauem Himmel. Nahaufnahme des Fußes, der den Ball kopfüber balanciert. Niedriger Winkel mit Blick nach oben auf ihn, invertiert vor dem Himmel.
+
+[0:08-0:10] Schießt den Ball mit dem Oberschenkel hoch – die Kamera folgt dem Ball nach oben gegen den rein blauen Himmel – Scheitelpunkt – fällt zurück – Rainbow-Flick über seinen Kopf – dreht sich – Volley mit voller Kraft – der Ball schießt direkt auf die Kamera zu und füllt den gesamten Bildausschnitt – SCHNITT AUF SCHWARZ. Ein letzter Beat-Schlag in der Dunkelheit.
+
+Cinematischer Cel-Shaded 3D-Anime, semi-realistisches CGI, handgemalte Texturen, Unreal Engine-Qualität, helles natürliches Tageslicht, durchgehend klarer blauer Himmel, Digital-Painting-Look, hartkantige Pinselstriche, starke Schatten, kein Cartoon, nicht Disney, nicht Pixar, Filmkörnung, Premium-Anime-Qualität, Hip-Hop-Beat und Ballkontaktgeräusche durchgehend dominant
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Cinematischer Fußball-Anime-Clip">
+
+**[🎬 Video ansehen →](https://x.com/iam_damayor/status/2082752702056956014)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Quelle:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Veröffentlicht:** Jul 30, 2026
+
+---
+### Tuschmalerei-Garnelen in einer futuristischen Stadt – Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein kreativer Prompt zur Videogenerierung, der schwarz-weiße Tuschmalerei-Garnelen zeigt, die von Reispapier in eine futuristische Neonstadt mit leuchtenden orbitalen Fühlern springen.
+
+#### 📝 Prompt
+
+```
+Tuschmalerei-Garnelen springen in eine futuristische Stadt – ein Stück Reispapier entfaltet sich inmitten nächtlicher Wolkenkratzer, acht schwarz-weiße Tuschmalerei-Garnelen springen von der Oberfläche des Papiers, wobei ihre Körper die „fliegenden weißen“ Pinselstriche und Tuscheverläufe beibehalten. Die Fühler der Garnelen verwandeln sich in leuchtende Stadtbahnen und Tintentropfen werden zu Neonregen; die Szene zeichnet sich durch einen enormen Maßstabs-Kontrast, starke Tiefenwirkung, filmische Beleuchtung und ein Spektakel aus, das sofort ins Auge fällt. Kein Text, keine Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Tuschmalerei-Garnelen in einer futuristischen Stadt – Video">
+
+**[🎬 Video ansehen →](https://x.com/nicekate8888/status/2082746108493848857)**
+
+**Autor:** [nicekate](https://x.com/nicekate8888) | **Quelle:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Veröffentlicht:** Jul 30, 2026
+
+---
+### Suburbaner Leerraum-Riss
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt, der eine ruhige Vorstadtstraße beschreibt, in der sich der Himmel in einen violetten Leerraum spaltet, Trümmer anzieht und in einen außerirdischen Horizont übergeht.
+
+#### 📝 Prompt
+
+```
+Ruhige Vorstadtstraße, Abend, Rasensprenger laufen. Der Himmel spaltet sich mit einem lautlosen, blitzartigen Riss, der sich zu einem wirbelnden violetten Leerraum weitet. Die Kamera bewegt sich auf Bodenhöhe darauf zu, während Trümmer von der Straße aufsteigen; endet damit, dass die Kamera die Schwelle überschreitet und die Vorstadt augenblicklich durch einen außerirdischen Horizont ersetzt wird.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Suburbaner Leerraum-Riss">
+
+**[🎬 Video ansehen →](https://x.com/iam_damayor/status/2082402289126432866)**
+
+**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Quelle:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Veröffentlicht:** Jul 29, 2026
+
+---
 ### Drohnenflug durch eine schwebende Stadt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2889,73 +2966,13 @@ Eine gigantische Version meiner selbst, die exakt dasselbe Outfit trägt und das
 **Autor:** [Evren Tombul](https://x.com/EvrenTombul) | **Quelle:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Veröffentlicht:** Jun 4, 2026
 
 ---
-### Ego-Perspektive: Flugbahn-Video auf dem Besen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine filmische Verfolgungsjagd aus der Ego-Perspektive auf einem fliegenden Besen, die einer bestimmten Flugbahn für die Bewegungssteuerung folgt und sich auf einen sich bewegenden Goldenen Schnatz konzentriert.
-
-#### 📝 Prompt
-
-```
-Ego-Perspektive, eine filmische, ultraschnelle One-Shot-Verfolgungsjagd auf einem fliegenden Besen. Die Aufnahme muss strikt der im Bild gezeigten weißen Flugbahn folgen. Der Goldene Schnatz bleibt während der gesamten Verfolgungsjagd das primäre Ziel, darf jedoch nicht mittig fixiert werden.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d09d8d4ef35e05a8120869fca3415627/thumbnails/thumbnail.jpg" width="600" alt="Ego-Perspektive: Flugbahn-Video auf dem Besen">
-
-**[🎬 Video ansehen →](https://x.com/GamsGo_Global/status/2062462744297914664)**
-
-**Autor:** [GamsGo](https://x.com/GamsGo_Global) | **Quelle:** [Link](https://x.com/GamsGo_Global/status/2062462744297914664) | **Veröffentlicht:** Jun 4, 2026
-
----
-### Filmreife Rattenjagd aus der Egoperspektive
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, filmreifer Video-Prompt für eine spannungsgeladene Verfolgungsjagd aus der Sicht einer Ratte, mit hyperrealistischer Beleuchtung und Bewegungseffekten.
-
-#### 📝 Prompt
-
-```
-POV: Du bist eine kleine Ratte, die vor einer Hauskatze flieht. Ultrarealistische Egoperspektive, filmreife Actionfilm-Qualität. Nachts in einem Vorstadthaus. Die Ratte sprintet über einen hölzernen Küchenboden, während riesige Katzenpfoten nur Zentimeter hinter ihr aufschlagen. Husche unter Esszimmerstühle, schlängle dich durch Tischbeine, springe über eine umgefallene Müslipackung, rutsche über eine glänzende Arbeitsplattenkante und springe dann auf ein Sofa. Die Katze kracht durch Gegenstände, stößt Lampen und Dekorationen um. Schnelle Handkamera-Bewegungen, intensive Bewegungsunschärfe, realistischer Größenunterschied, dramatische Schatten, in der Luft schwebende Staubpartikel. Die Verfolgungsjagd geht durch das Wohnzimmer weiter, während die Katze immer näher kommt. Letzter verzweifelter Sprint durch eine winzige Lücke hinter einer Waschmaschine, die Katzenpfote verfehlt die Kamera nur um Zentimeter. Hyperrealistisches Fell, filmische Beleuchtung, Hollywood-Actionsequenz, durchgehende Einstellung, geringe Schärfentiefe, hohe Spannung, hochdetailliert, 4K, fotorealistisch.
-
-Negativer Prompt:
-Cartoon, Animation, geringes Detail, niedrige Auflösung, Third-Person-Perspektive, mehrere Ratten, mehrere Katzen, Text, Untertitel, Wasserzeichen, Glitches, langsame Bewegung, statische Kamera, unrealistische Physik, unscharfes Motiv, deformierte Tiere, Gewalt, Blut.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/06775bd6e6b6cd0fd03a42d0fa9b6541/thumbnails/thumbnail.jpg" width="600" alt="Filmreife Rattenjagd aus der Egoperspektive">
-
-**[🎬 Video ansehen →](https://x.com/ApurbaDS2024/status/2062365527268589884)**
-
-**Autor:** [Apurba Dey Singha](https://x.com/ApurbaDS2024) | **Quelle:** [Link](https://x.com/ApurbaDS2024/status/2062365527268589884) | **Veröffentlicht:** Jun 4, 2026
-
----
-### Mittelalterlicher Ritter in einem Mohnfeld
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, kinoreifer Video-Prompt für Gemini Omni, der einen ruhenden Ritter in einem leuchtenden Mohnfeld bei dramatischem natürlichem Licht zeigt.
-
-#### 📝 Prompt
-
-```
-Ein erschöpfter mittelalterlicher Ritter in glänzender Plattenrüstung ruht friedlich unter einer großen, alten Eiche in einem riesigen, endlosen Feld aus leuchtend roten Mohnblumen, die sanft im Wind wiegen. Der Ritter liegt auf dem weichen Gras, den Helm noch auf, die Augen in gelassener Ruhe geschlossen, umgeben von leuchtend roten Blumen. Die Kamera beginnt mit einer weiten Totalen und fährt dann langsam mit einem sanften Push auf den Ritter zu, wobei eine geringe Schärfentiefe beibehalten wird, die den Ritter und die nahen Mohnblumen scharf fokussiert, während das ferne Feld und der Himmel weich verschwimmen. Über ihm füllen dramatische, stürmische dunkle Wolken den Himmel, teilen sich jedoch eindrucksvoll, um weiche goldene Sonnenstrahlen durchzulassen, die wunderschöne Lichtstrahlen und eine dynamische natürliche Beleuchtung mit weichen Schatten erzeugen. Die Atmosphäre ist friedlich und doch episch und erinnert an die Ruhe nach einer harten Schlacht. Ultrarealistischer, kinoreifer Fantasy-Stil, hyperdetaillierte Texturen an Rüstung, Blumen und Gras, malerische epische Stimmung, natürliche Lichtstreuung, subtile Windbewegung in Blumen und Baumblättern.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0796dea9f3e96742188d97a988d24823/thumbnails/thumbnail.jpg" width="600" alt="Mittelalterlicher Ritter in einem Mohnfeld">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2061828182207336608)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2061828182207336608) | **Veröffentlicht:** Jun 2, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 39 weitere Prompts hier nicht angezeigt
+### 🎯 42 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3001,6 +3018,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-30T06:26:24.291Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-30T10:23:41.444Z</sub>
 
 </div>
