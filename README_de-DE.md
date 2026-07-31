@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **142** |
+| 📝 Gesamtanzahl Prompts | **144** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-07-31** |
 
@@ -56,6 +56,44 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Animation im Vox-Stil zu den Wahrzeichen Hongkongs
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Animations-Prompt im Dokumentarstil zur Erklärung der Wahrzeichen Hongkongs, mit stilisierten Grafiken und japanischer Erzählstimme.
+
+#### 📝 Prompt
+
+```
+Eine 10-sekündige Animation, die die Wahrzeichen Hongkongs im Stil eines Vox-Erklärvideos erläutert. Der Hintergrund zeigt stilisierte 3D-Kartengrafiken von Hongkong (Längen-/Breitengrade, Küstenlinie des Hafens, Straßennetz und leuchtende Neontexturen). Beinhaltet eine japanische Erzählstimme (Ansage).
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="Animation im Vox-Stil zu den Wahrzeichen Hongkongs">
+
+**[🎬 Video ansehen →](https://x.com/cantonese_slang/status/2083065827671060963)**
+
+**Autor:** [広東語スラング先生](https://x.com/cantonese_slang) | **Quelle:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Veröffentlicht:** Jul 31, 2026
+
+---
+### Video einer Katze mit Blasenhelm unter Wasser
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein fantasievoller Prompt für Gemini Omni, der ein Video einer Katze mit einem Blasenhelm erstellt, umgeben von schwimmenden Fischen in einer realistischen und zugleich märchenhaften Umgebung.
+
+#### 📝 Prompt
+
+```
+Erstelle ein Video mit dem Foto meiner Katze, die einen Blasenhelm trägt und von schwimmenden Fischen umgeben ist. Realistische und fantastische Szene
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Video einer Katze mit Blasenhelm unter Wasser">
+
+**[🎬 Video ansehen →](https://x.com/googleespanol/status/2082964458100433212)**
+
+**Autor:** [Google en español](https://x.com/googleespanol) | **Quelle:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **Veröffentlicht:** Jul 30, 2026
+
+---
 ### Cinematischer Fußball-Anime-Clip
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2928,51 +2966,13 @@ Wort für Wort, jeweils ein Wort auf dem Bildschirm: wusstest, du, schon, dass, 
 **Autor:** [Google](https://x.com/Google) | **Quelle:** [Link](https://x.com/Google/status/2062925430290526486) | **Veröffentlicht:** Jun 5, 2026
 
 ---
-### Filmreife dynamische Naturszene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein professioneller Video-Prompt zur Erstellung von filmreifen 1080p-Szenen aus Bildern, mit realistischer Beleuchtung und sanften Kamerabewegungen.
-
-#### 📝 Prompt
-
-```
-1080p, 30 fps, 5-sekündiges Video; erstellt eine dynamische Szene basierend auf Referenzbildern, bei der eine sanfte Brise die Blätter streift, die Kamera sich langsam und behutsam schwenkt und das Umgebungslicht sich weich verändert; alle Objekte behalten ihre ursprüngliche Form und Position bei, mit flüssigen und natürlichen Bewegungen, ohne Verzerrungen, für eine realistische, filmische Textur.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Filmreife dynamische Naturszene">
-
-**[🎬 Video ansehen →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
-
-**Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Quelle:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Veröffentlicht:** Jun 5, 2026
-
----
-### Interaktion mit einer riesigen Doppelgänger-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Gemini Omni Video-Prompt, der eine riesige Version des Nutzers in die Szenerie des Trafalgar Square einfügt, um mit dem eigenen Ich zu interagieren.
-
-#### 📝 Prompt
-
-```
-Eine gigantische Version meiner selbst, die exakt dasselbe Outfit trägt und dasselbe Gesicht hat, betritt die Szene von links. Wir beide schauen uns an und winken enthusiastisch.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Interaktion mit einer riesigen Doppelgänger-Szene">
-
-**[🎬 Video ansehen →](https://x.com/EvrenTombul/status/2062637736150880565)**
-
-**Autor:** [Evren Tombul](https://x.com/EvrenTombul) | **Quelle:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Veröffentlicht:** Jun 4, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 42 weitere Prompts hier nicht angezeigt
+### 🎯 44 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3018,6 +3018,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-31T06:42:27.915Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-07-31T10:37:19.791Z</sub>
 
 </div>

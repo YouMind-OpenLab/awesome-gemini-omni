@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **142** |
+| 📝 Total de prompts | **144** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-07-31** |
 
@@ -56,6 +56,44 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Animación al estilo Vox de los lugares emblemáticos de Hong Kong
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de animación estilo documental para explicar los lugares emblemáticos de Hong Kong, con gráficos estilizados y narración en japonés.
+
+#### 📝 Prompt
+
+```
+Una animación de 10 segundos que explica los lugares emblemáticos de Hong Kong al estilo de un video explicativo de Vox. El fondo presenta elegantes gráficos de mapas en 3D de Hong Kong (líneas de longitud/latitud, costa del puerto, cuadrícula de calles y texturas de neón brillantes). Incluye audio de narración (anuncio) en japonés.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="Animación al estilo Vox de los lugares emblemáticos de Hong Kong">
+
+**[🎬 Ver video →](https://x.com/cantonese_slang/status/2083065827671060963)**
+
+**Autor:** [広東語スラング先生](https://x.com/cantonese_slang) | **Fuente:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Publicado:** Jul 31, 2026
+
+---
+### Video de un gato con casco de burbuja bajo el agua
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt creativo para Gemini Omni que genera un video de un gato con un casco de burbuja rodeado de peces nadando en un entorno realista pero fantástico.
+
+#### 📝 Prompt
+
+```
+Crea un video con la foto de mi gato usando un casco de burbuja y con peces nadando a su alrededor. Escena realista y fantástica
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Video de un gato con casco de burbuja bajo el agua">
+
+**[🎬 Ver video →](https://x.com/googleespanol/status/2082964458100433212)**
+
+**Autor:** [Google en español](https://x.com/googleespanol) | **Fuente:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **Publicado:** Jul 30, 2026
+
+---
 ### Clip de anime de fútbol cinematográfico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2932,51 +2970,13 @@ Palabra por palabra, una palabra a la vez en la pantalla: ¿sabías, que, este, 
 **Autor:** [Google](https://x.com/Google) | **Fuente:** [Link](https://x.com/Google/status/2062925430290526486) | **Publicado:** Jun 5, 2026
 
 ---
-### Escena dinámica de naturaleza cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video profesional para crear escenas cinematográficas en 1080p a partir de imágenes, con iluminación realista y movimientos de cámara suaves.
-
-#### 📝 Prompt
-
-```
-1080P 30fps, video de 5 segundos; construye una escena dinámica basada en imágenes de referencia, con una brisa suave acariciando las hojas, la cámara realizando un paneo lento y delicado, y la luz ambiental cambiando suavemente; todos los objetos mantienen sus formas y posiciones originales, con movimientos fluidos y naturales, sin distorsión, presentando una textura cinematográfica realista.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Escena dinámica de naturaleza cinematográfica">
-
-**[🎬 Ver video →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
-
-**Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fuente:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Publicado:** Jun 5, 2026
-
----
-### Interacción con escena de doble gigante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video para Gemini Omni que introduce una versión gigante del usuario en un entorno de Trafalgar Square para interactuar con su yo original.
-
-#### 📝 Prompt
-
-```
-Una versión gigantesca de mí, vistiendo exactamente el mismo atuendo y compartiendo el mismo rostro, entra en escena desde la izquierda. Ambos nos miramos y saludamos con entusiasmo.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Interacción con escena de doble gigante">
-
-**[🎬 Ver video →](https://x.com/EvrenTombul/status/2062637736150880565)**
-
-**Autor:** [Evren Tombul](https://x.com/EvrenTombul) | **Fuente:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Publicado:** Jun 4, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 42 más prompts no mostrados aquí
+### 🎯 44 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3022,6 +3022,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-31T06:42:25.751Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-07-31T10:37:17.472Z</sub>
 
 </div>

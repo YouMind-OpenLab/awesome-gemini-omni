@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **142** |
+| 📝 提示词总数 | **144** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-07-31** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 香港地标 Vox 风格动画
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个用于讲解香港地标的纪录片风格动画提示词，包含风格化图形和日语旁白。
+
+#### 📝 提示词
+
+```
+一段 10 秒长的动画，以 Vox 解释类视频的风格讲解香港地标。背景采用时尚的香港 3D 地图图形（包含经纬线、港口海岸线、街道网格和发光的霓虹灯纹理）。包含日语旁白（播报）音频。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="香港地标 Vox 风格动画">
+
+**[🎬 观看视频 →](https://x.com/cantonese_slang/status/2083065827671060963)**
+
+**作者:** [広東語スラング先生](https://x.com/cantonese_slang) | **来源:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **发布时间:** Jul 31, 2026
+
+---
+### 戴着泡泡头盔的猫咪水下视频
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 这是一个为 Gemini Omni 设计的奇思妙想提示词，旨在生成一段视频：一只戴着泡泡头盔的猫咪被游动的鱼群环绕，呈现出一种既写实又梦幻的场景。
+
+#### 📝 提示词
+
+```
+根据我猫咪的照片制作一段视频，让它戴上泡泡头盔，周围有鱼儿游动。场景要既写实又梦幻。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="戴着泡泡头盔的猫咪水下视频">
+
+**[🎬 观看视频 →](https://x.com/googleespanol/status/2082964458100433212)**
+
+**作者:** [Google en español](https://x.com/googleespanol) | **来源:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **发布时间:** Jul 30, 2026
+
+---
 ### 电影感足球动漫短片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2932,51 +2970,13 @@ Gada 在没有支撑的情况下完美保持平衡。
 **作者:** [Google](https://x.com/Google) | **来源:** [Link](https://x.com/Google/status/2062925430290526486) | **发布时间:** Jun 5, 2026
 
 ---
-### 电影级自然动态场景
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个专业的视频提示词，用于根据图像创建 1080p 电影级场景，具备逼真的光影效果和细腻的镜头移动。
-
-#### 📝 提示词
-
-```
-1080P 30fps，5 秒视频；根据参考图像构建动态场景，微风拂过叶片，镜头缓慢而细腻地平移，环境光柔和变化；所有物体保持原始形状和位置，运动平滑自然，无畸变，呈现出逼真的电影质感。
-```
-
-<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="电影级自然动态场景">
-
-**[🎬 观看视频 →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
-
-**作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **来源:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **发布时间:** Jun 5, 2026
-
----
-### 巨型分身场景交互
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 Gemini Omni 视频提示词，将用户的一个巨型版本引入特拉法加广场场景，并与原始自我进行交互。
-
-#### 📝 提示词
-
-```
-一个穿着完全相同服装、拥有相同面孔的巨型我从左侧走进场景。我们两人互相注视，并热情地挥手致意。
-```
-
-<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="巨型分身场景交互">
-
-**[🎬 观看视频 →](https://x.com/EvrenTombul/status/2062637736150880565)**
-
-**作者:** [Evren Tombul](https://x.com/EvrenTombul) | **来源:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **发布时间:** Jun 4, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 42 更多提示词未在此显示
+### 🎯 44 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3022,6 +3022,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-07-31T06:42:17.788Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-07-31T10:37:10.822Z</sub>
 
 </div>

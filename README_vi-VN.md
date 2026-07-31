@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **142** |
+| 📝 Tổng số prompt | **144** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-07-31** |
 
@@ -56,6 +56,44 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hoạt hình phong cách Vox về các địa danh tại Hồng Kông
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một gợi ý (prompt) tạo hoạt hình theo phong cách phim tài liệu để giải thích về các địa danh tại Hồng Kông, sử dụng đồ họa cách điệu và lời dẫn bằng tiếng Nhật.
+
+#### 📝 Prompt
+
+```
+Một đoạn hoạt hình dài 10 giây giải thích về các địa danh tại Hồng Kông theo phong cách video giải thích của Vox. Nền video sử dụng đồ họa bản đồ 3D đầy phong cách về Hồng Kông (các đường kinh độ/vĩ độ, đường bờ biển của cảng, lưới đường phố và các kết cấu đèn neon rực rỡ). Bao gồm âm thanh dẫn chuyện (thông báo) bằng tiếng Nhật.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="Hoạt hình phong cách Vox về các địa danh tại Hồng Kông">
+
+**[🎬 Xem video →](https://x.com/cantonese_slang/status/2083065827671060963)**
+
+**Tác giả:** [広東語スラング先生](https://x.com/cantonese_slang) | **Nguồn:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Đã xuất bản:** Jul 31, 2026
+
+---
+### Video chú mèo đội mũ bong bóng dưới nước
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đầy sáng tạo dành cho Gemini Omni để tạo video về một chú mèo đội mũ bong bóng, xung quanh là những chú cá đang bơi trong một khung cảnh vừa chân thực vừa huyền ảo.
+
+#### 📝 Prompt
+
+```
+Tạo một video từ ảnh chú mèo của tôi đang đội mũ bong bóng với những chú cá bơi xung quanh. Khung cảnh chân thực và đầy chất huyền ảo
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Video chú mèo đội mũ bong bóng dưới nước">
+
+**[🎬 Xem video →](https://x.com/googleespanol/status/2082964458100433212)**
+
+**Tác giả:** [Google en español](https://x.com/googleespanol) | **Nguồn:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **Đã xuất bản:** Jul 30, 2026
+
+---
 ### Đoạn phim anime bóng đá đậm chất điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2904,51 +2942,13 @@ Từng từ một, mỗi lần chỉ một từ trên màn hình: bạn, có, bi
 **Tác giả:** [Google](https://x.com/Google) | **Nguồn:** [Link](https://x.com/Google/status/2062925430290526486) | **Đã xuất bản:** Jun 5, 2026
 
 ---
-### Cảnh quay thiên nhiên điện ảnh sống động
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video chuyên nghiệp để tạo các cảnh quay điện ảnh 1080p từ hình ảnh, với ánh sáng chân thực và chuyển động camera nhẹ nhàng.
-
-#### 📝 Prompt
-
-```
-Video 1080P 30fps, thời lượng 5 giây; xây dựng một cảnh quay sống động dựa trên hình ảnh tham chiếu, với làn gió nhẹ lướt qua những chiếc lá, camera lia chậm rãi và tinh tế, cùng ánh sáng xung quanh thay đổi dịu nhẹ; tất cả các vật thể giữ nguyên hình dạng và vị trí ban đầu, với chuyển động mượt mà và tự nhiên, không bị biến dạng, mang lại kết cấu điện ảnh chân thực.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Cảnh quay thiên nhiên điện ảnh sống động">
-
-**[🎬 Xem video →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
-
-**Tác giả:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Nguồn:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Đã xuất bản:** Jun 5, 2026
-
----
-### Tương tác cảnh quay bản sao khổng lồ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video Gemini Omni giúp đưa phiên bản khổng lồ của người dùng vào bối cảnh Quảng trường Trafalgar để tương tác với chính bản thân họ.
-
-#### 📝 Prompt
-
-```
-Một phiên bản khổng lồ của tôi mặc cùng bộ trang phục và có cùng khuôn mặt bước vào khung hình từ phía bên trái. Cả hai chúng tôi đều nhìn nhau và vẫy tay chào đầy hào hứng.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Tương tác cảnh quay bản sao khổng lồ">
-
-**[🎬 Xem video →](https://x.com/EvrenTombul/status/2062637736150880565)**
-
-**Tác giả:** [Evren Tombul](https://x.com/EvrenTombul) | **Nguồn:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Đã xuất bản:** Jun 4, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 42 prompt khác không hiển thị ở đây
+### 🎯 44 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2994,6 +2994,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-31T06:42:23.576Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-07-31T10:37:14.942Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **142** |
+| 📝 Toplam İstem | **144** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-07-31** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Hong Kong Landmark Vox Tarzı Animasyon
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Hong Kong'daki simge yapıları açıklayan, stilize grafikler ve Japonca anlatım içeren belgesel tarzında bir animasyon istemi.
+
+#### 📝 İstem
+
+```
+Vox açıklayıcı video tarzında Hong Kong simge yapılarını anlatan 10 saniyelik bir animasyon. Arka planda Hong Kong'un şık 3D harita grafikleri (boylam/enlem çizgileri, liman kıyı şeridi, sokak ızgarası ve parlayan neon dokular) yer alıyor. Japonca anlatım (duyuru) sesi içerir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="Hong Kong Landmark Vox Tarzı Animasyon">
+
+**[🎬 Videoyu izle →](https://x.com/cantonese_slang/status/2083065827671060963)**
+
+**Yazar:** [広東語スラング先生](https://x.com/cantonese_slang) | **Kaynak:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Yayınlandı:** Jul 31, 2026
+
+---
+### Sualtında Balon Kasklı Kedi Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni için, gerçekçi ama fantastik bir ortamda yüzen balıklarla çevrili balon kask takan bir kedinin videosunu oluşturan eğlenceli bir komut.
+
+#### 📝 İstem
+
+```
+Kedimin balon kask taktığı ve etrafında balıkların yüzdüğü fotoğrafıyla bir video oluştur. Gerçekçi ve fantastik bir sahne
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Sualtında Balon Kasklı Kedi Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/googleespanol/status/2082964458100433212)**
+
+**Yazar:** [Google en español](https://x.com/googleespanol) | **Kaynak:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **Yayınlandı:** Jul 30, 2026
+
+---
 ### Sinematik Futbol Anime Klibi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2902,51 +2940,13 @@ Kelime kelime, ekranda her seferinde tek bir kelime olacak şekilde: biliyor, mu
 **Yazar:** [Google](https://x.com/Google) | **Kaynak:** [Link](https://x.com/Google/status/2062925430290526486) | **Yayınlandı:** Jun 5, 2026
 
 ---
-### Sinematik Doğa Dinamik Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Görüntülerden 1080p sinematik sahneler oluşturmak için profesyonel bir video istemi; gerçekçi aydınlatma ve yumuşak kamera hareketleri içerir.
-
-#### 📝 İstem
-
-```
-1080P 30fps, 5 saniyelik video; referans görüntülere dayalı dinamik bir sahne oluşturur; yaprakları okşayan hafif bir esinti, yavaş ve hassas bir şekilde kayan kamera ve yumuşak bir şekilde değişen ortam ışığı ile; tüm nesneler orijinal şekillerini ve konumlarını korur, bozulma olmadan pürüzsüz ve doğal hareketlerle gerçekçi bir sinematik doku sunar.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Sinematik Doğa Dinamik Sahnesi">
-
-**[🎬 Videoyu izle →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
-
-**Yazar:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Kaynak:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Yayınlandı:** Jun 5, 2026
-
----
-### Dev İkiz Sahne Etkileşimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kullanıcının dev bir versiyonunu Trafalgar Meydanı ortamına yerleştirerek kendi orijinal benliğiyle etkileşime girmesini sağlayan bir Gemini Omni video istemi.
-
-#### 📝 İstem
-
-```
-Tam olarak aynı kıyafetleri giyen ve aynı yüze sahip devasa bir versiyonum, sahneye soldan giriş yapıyor. İkimiz de birbirimize bakıp coşkuyla el sallıyoruz.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Dev İkiz Sahne Etkileşimi">
-
-**[🎬 Videoyu izle →](https://x.com/EvrenTombul/status/2062637736150880565)**
-
-**Yazar:** [Evren Tombul](https://x.com/EvrenTombul) | **Kaynak:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Yayınlandı:** Jun 4, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 42 burada gösterilmeyen daha fazla istem
+### 🎯 44 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2992,6 +2992,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-31T06:42:32.978Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-07-31T10:37:24.169Z</sub>
 
 </div>

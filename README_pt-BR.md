@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **142** |
+| 📝 Total de prompts | **144** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-07-31** |
 
@@ -56,6 +56,44 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Animação estilo Vox de pontos turísticos de Hong Kong
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt de animação em estilo documentário para explicar pontos turísticos de Hong Kong, apresentando gráficos estilizados e narração em japonês.
+
+#### 📝 Prompt
+
+```
+Uma animação de 10 segundos explicando os pontos turísticos de Hong Kong no estilo de um vídeo explicativo da Vox. O fundo apresenta gráficos de mapa 3D elegantes de Hong Kong (linhas de longitude/latitude, costa do porto, malha viária e texturas de neon brilhantes). Inclui áudio de narração (anúncio) em japonês.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="Animação estilo Vox de pontos turísticos de Hong Kong">
+
+**[🎬 Assistir vídeo →](https://x.com/cantonese_slang/status/2083065827671060963)**
+
+**Autor:** [広東語スラング先生](https://x.com/cantonese_slang) | **Fonte:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Publicado:** Jul 31, 2026
+
+---
+### Vídeo de gato com capacete de bolha debaixo d'água
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt criativo para o Gemini Omni que cria um vídeo de um gato usando um capacete de bolha cercado por peixes nadando em um cenário realista, porém fantástico.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo com a foto do meu gato usando um capacete de bolha e com peixes nadando ao redor dele. Cena realista e fantástica
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Vídeo de gato com capacete de bolha debaixo d'água">
+
+**[🎬 Assistir vídeo →](https://x.com/googleespanol/status/2082964458100433212)**
+
+**Autor:** [Google en español](https://x.com/googleespanol) | **Fonte:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **Publicado:** Jul 30, 2026
+
+---
 ### Clipe de Anime de Futebol Cinematográfico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2932,51 +2970,13 @@ Palavra por palavra, uma palavra na tela de cada vez: você, sabia, que, este, m
 **Autor:** [Google](https://x.com/Google) | **Fonte:** [Link](https://x.com/Google/status/2062925430290526486) | **Publicado:** Jun 5, 2026
 
 ---
-### Cena Dinâmica de Natureza Cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo profissional para criar cenas cinematográficas em 1080p a partir de imagens, apresentando iluminação realista e movimentos de câmera suaves.
-
-#### 📝 Prompt
-
-```
-1080P 30fps, vídeo de 5 segundos; constrói uma cena dinâmica baseada em imagens de referência, com uma brisa suave acariciando as folhas, a câmera fazendo um movimento de pan lento e delicado, e a luz ambiente mudando suavemente; todos os objetos mantêm suas formas e posições originais, com movimentos fluidos e naturais, sem distorção, apresentando uma textura cinematográfica realista.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Cena Dinâmica de Natureza Cinematográfica">
-
-**[🎬 Assistir vídeo →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
-
-**Autor:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fonte:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Publicado:** Jun 5, 2026
-
----
-### Interação de Cena com Doppelgänger Gigante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo para o Gemini Omni que insere uma versão gigante do usuário na Trafalgar Square para interagir com seu eu original.
-
-#### 📝 Prompt
-
-```
-Uma versão gigantesca de mim, vestindo exatamente a mesma roupa e com o mesmo rosto, entra na cena pela esquerda. Nós dois olhamos um para o outro e acenamos entusiasticamente.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Interação de Cena com Doppelgänger Gigante">
-
-**[🎬 Assistir vídeo →](https://x.com/EvrenTombul/status/2062637736150880565)**
-
-**Autor:** [Evren Tombul](https://x.com/EvrenTombul) | **Fonte:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Publicado:** Jun 4, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 42 mais prompts não mostrados aqui
+### 🎯 44 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3022,6 +3022,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-31T06:42:31.191Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-07-31T10:37:22.438Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **142** |
+| 📝 Total Prompts | **144** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-07-31** |
 
@@ -56,11 +56,49 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Cinematic Soccer Anime Clip
+### Hong Kong Landmark Vox Style Animation
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A documentary-style animation prompt for explaining Hong Kong landmarks, featuring stylized graphics and Japanese narration.
+
+#### 📝 Prompt
+
+```
+A 10-second animation explaining Hong Kong landmarks in the style of a Vox explanatory video. The background features stylish 3D map graphics of Hong Kong (longitude/latitude lines, harbor coastline, street grid, and glowing neon textures). Includes Japanese narration (announcement) audio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="Hong Kong Landmark Vox Style Animation">
+
+**[🎬 Watch Video →](https://x.com/cantonese_slang/status/2083065827671060963)**
+
+**Author:** [広東語スラング先生](https://x.com/cantonese_slang) | **Source:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Published:** Jul 31, 2026
+
+---
+### Cat with Bubble Helmet Underwater Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video prompt for an anime-style short film featuring a rooftop soccer sequence with specific timestamped actions and audio directions.
+> A whimsical prompt for Gemini Omni that creates a video of a cat wearing a bubble helmet surrounded by swimming fish in a realistic yet fantasy setting.
+
+#### 📝 Prompt
+
+```
+Create a video with the photo of my cat wearing a bubble helmet and having fish swimming around it. Realistic and fantastical scene
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Cat with Bubble Helmet Underwater Video">
+
+**[🎬 Watch Video →](https://x.com/googleespanol/status/2082964458100433212)**
+
+**Author:** [Google en español](https://x.com/googleespanol) | **Source:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **Published:** Jul 30, 2026
+
+---
+### Cinematic Anime Soccer Juggling Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed scene-by-scene cinematic anime prompt for a soccer juggling sequence on a rooftop, featuring specific camera angles, beat-synced cuts, and audio design instructions.
 
 #### 📝 Prompt
 
@@ -88,26 +126,26 @@ AUDIO: High energy hip hop beat loud from frame one never stopping, every cut sy
 Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, bright natural daylight, clear blue sky throughout, digital painting feel, hard-edge brushwork, heavy shadows, not cartoon not Disney not Pixar, film grain, premium anime quality, hip hop beat and ball contact sounds dominant throughout
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Cinematic Soccer Anime Clip">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Cinematic Anime Soccer Juggling Sequence">
 
 **[🎬 Watch Video →](https://x.com/iam_damayor/status/2082752702056956014)**
 
 **Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Published:** Jul 30, 2026
 
 ---
-### Ink Wash Shrimp Futuristic City Video
+### Ink Wash Shrimp in Future City
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A creative video generation prompt depicting black and white ink wash shrimp leaping from rice paper into a futuristic neon city with glowing orbital whiskers.
+> A detailed prompt for creating a surreal video blending traditional ink wash aesthetics with a neon-lit futuristic cityscape.
 
 #### 📝 Prompt
 
 ```
-Ink wash shrimp leaping into a futuristic city—a piece of rice paper unfolds among nocturnal skyscrapers, eight black-and-white ink wash shrimp leap out from the paper's surface, their bodies still retaining the 'flying white' brushwork and ink gradients. The shrimp whiskers turn into glowing city tracks, and ink droplets become neon rain; the scene features huge scale contrast, strong depth, cinematic lighting, and a spectacle that captures the eye instantly. No text, no watermarks.
+Ink wash shrimp leaping into a future city—a sheet of rice paper unfolds between moonlit skyscrapers. Eight black-and-white ink wash shrimp leap from the paper, their bodies retaining traditional ink strokes and washes. Their whiskers transform into glowing urban transit tracks, and ink droplets turn into neon rain. The scene features massive scale contrast, intense depth, cinematic lighting, and a breathtaking visual spectacle. No text, no watermarks.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Ink Wash Shrimp Futuristic City Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Ink Wash Shrimp in Future City">
 
 **[🎬 Watch Video →](https://x.com/nicekate8888/status/2082746108493848857)**
 
@@ -3063,51 +3101,13 @@ Word by word, one word on the screen at a time: did, you, know, that, this, mode
 **Author:** [Google](https://x.com/Google) | **Source:** [Link](https://x.com/Google/status/2062925430290526486) | **Published:** Jun 5, 2026
 
 ---
-### Cinematic Nature Dynamic Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A professional video prompt for creating 1080p cinematic scenes from images, featuring realistic lighting and gentle camera movements.
-
-#### 📝 Prompt
-
-```
-1080P 30fps, 5-second video; constructs a dynamic scene based on reference images, with a gentle breeze caressing the leaves, the camera panning slowly and delicately, and the ambient light changing softly; all objects maintain their original shapes and positions, with smooth and natural movements, no distortion, presenting a realistic cinematic texture.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Cinematic Nature Dynamic Scene">
-
-**[🎬 Watch Video →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
-
-**Author:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Source:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Published:** Jun 5, 2026
-
----
-### Giant Doppelganger Scene Interaction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A Gemini Omni video prompt that introduces a giant version of the user into a Trafalgar Square setting to interact with their original self.
-
-#### 📝 Prompt
-
-```
-A gigantic version of me wearing the exact same outfit and sharing the same face walks into the scene from the left. We both look at each other and wave enthusiastically.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Giant Doppelganger Scene Interaction">
-
-**[🎬 Watch Video →](https://x.com/EvrenTombul/status/2062637736150880565)**
-
-**Author:** [Evren Tombul](https://x.com/EvrenTombul) | **Source:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Published:** Jun 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 42 more prompts not shown here
+### 🎯 44 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3153,6 +3153,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-07-31T06:42:16.463Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-07-31T10:37:09.972Z</sub>
 
 </div>

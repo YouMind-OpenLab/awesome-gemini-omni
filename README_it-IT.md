@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **142** |
+| 📝 Totale prompt | **144** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-07-31** |
 
@@ -56,6 +56,44 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Animazione in stile Vox sui punti di riferimento di Hong Kong
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt per un'animazione in stile documentaristico per spiegare i punti di riferimento di Hong Kong, con grafica stilizzata e narrazione in giapponese.
+
+#### 📝 Prompt
+
+```
+Un'animazione di 10 secondi che spiega i punti di riferimento di Hong Kong nello stile dei video esplicativi di Vox. Lo sfondo presenta una stilizzata grafica 3D della mappa di Hong Kong (linee di longitudine/latitudine, costa del porto, rete stradale e texture al neon luminose). Include l'audio della narrazione (annuncio) in giapponese.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="Animazione in stile Vox sui punti di riferimento di Hong Kong">
+
+**[🎬 Guarda il video →](https://x.com/cantonese_slang/status/2083065827671060963)**
+
+**Autore:** [広東語スラング先生](https://x.com/cantonese_slang) | **Fonte:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Pubblicato:** Jul 31, 2026
+
+---
+### Video di un gatto con casco a bolla sott'acqua
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt stravagante per Gemini Omni che crea un video di un gatto che indossa un casco a bolla circondato da pesci che nuotano, in un'ambientazione realistica ma fantastica.
+
+#### 📝 Prompt
+
+```
+Crea un video con la foto del mio gatto che indossa un casco a bolla con dei pesci che gli nuotano intorno. Scena realistica e fantastica
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Video di un gatto con casco a bolla sott'acqua">
+
+**[🎬 Guarda il video →](https://x.com/googleespanol/status/2082964458100433212)**
+
+**Autore:** [Google en español](https://x.com/googleespanol) | **Fonte:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **Pubblicato:** Jul 30, 2026
+
+---
 ### Clip di anime calcistico cinematografico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2900,51 +2938,13 @@ Parola per parola, una parola alla volta sullo schermo: sapevi, che, questo, mod
 **Autore:** [Google](https://x.com/Google) | **Fonte:** [Link](https://x.com/Google/status/2062925430290526486) | **Pubblicato:** Jun 5, 2026
 
 ---
-### Scena naturale cinematografica dinamica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video professionale per creare scene cinematografiche in 1080p a partire da immagini, caratterizzato da un'illuminazione realistica e movimenti di camera fluidi.
-
-#### 📝 Prompt
-
-```
-1080P 30fps, video di 5 secondi; costruisce una scena dinamica basata su immagini di riferimento, con una brezza leggera che accarezza le foglie, la camera che esegue una panoramica lenta e delicata e la luce ambientale che cambia dolcemente; tutti gli oggetti mantengono le loro forme e posizioni originali, con movimenti fluidi e naturali, senza distorsioni, presentando una texture cinematografica realistica.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="Scena naturale cinematografica dinamica">
-
-**[🎬 Guarda il video →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
-
-**Autore:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **Fonte:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **Pubblicato:** Jun 5, 2026
-
----
-### Interazione con la scena del sosia gigante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video per Gemini Omni che inserisce una versione gigante dell'utente in un'ambientazione a Trafalgar Square per interagire con il proprio io originale.
-
-#### 📝 Prompt
-
-```
-Una versione gigantesca di me, che indossa lo stesso identico outfit e ha lo stesso volto, entra in scena da sinistra. Ci guardiamo a vicenda e ci salutiamo con entusiasmo.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="Interazione con la scena del sosia gigante">
-
-**[🎬 Guarda il video →](https://x.com/EvrenTombul/status/2062637736150880565)**
-
-**Autore:** [Evren Tombul](https://x.com/EvrenTombul) | **Fonte:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **Pubblicato:** Jun 4, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 42 altri prompt non mostrati qui
+### 🎯 44 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2990,6 +2990,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-31T06:42:29.891Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-07-31T10:37:21.430Z</sub>
 
 </div>

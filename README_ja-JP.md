@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **142** |
+| 📝 プロンプト総数 | **144** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-07-31** |
 
@@ -56,6 +56,44 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 香港のランドマークを解説する Vox スタイルのアニメーション
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 香港のランドマークを解説するための、ドキュメンタリー風アニメーション用プロンプト。スタイリッシュなグラフィックと日本語ナレーションが特徴です。
+
+#### 📝 プロンプト
+
+```
+Vox の解説動画のようなスタイルで香港のランドマークを説明する 10 秒間のアニメーション。背景には、香港のスタイリッシュな 3D マップグラフィック（経緯線、港の海岸線、街路網、光り輝くネオンのテクスチャ）を使用。日本語のナレーション（アナウンス）音声を含みます。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="香港のランドマークを解説する Vox スタイルのアニメーション">
+
+**[🎬 動画を見る →](https://x.com/cantonese_slang/status/2083065827671060963)**
+
+**作者:** [広東語スラング先生](https://x.com/cantonese_slang) | **ソース:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **公開日:** Jul 31, 2026
+
+---
+### バブルヘルメットを被った猫の水中動画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni 向けのユニークなプロンプトです。バブルヘルメットを被り、魚が泳ぐ幻想的かつリアルな環境にいる猫の動画を作成します。
+
+#### 📝 プロンプト
+
+```
+バブルヘルメットを被り、周囲に魚が泳いでいる私の猫の写真を使って動画を作成してください。リアルかつ幻想的なシーンでお願いします
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="バブルヘルメットを被った猫の水中動画">
+
+**[🎬 動画を見る →](https://x.com/googleespanol/status/2082964458100433212)**
+
+**作者:** [Google en español](https://x.com/googleespanol) | **ソース:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **公開日:** Jul 30, 2026
+
+---
 ### シネマティックなサッカーアニメのクリップ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2927,51 +2965,13 @@ Ginza Six に入店し、エスカレーターで 6 階の新しいカフェへ�
 **作者:** [Google](https://x.com/Google) | **ソース:** [Link](https://x.com/Google/status/2062925430290526486) | **公開日:** Jun 5, 2026
 
 ---
-### シネマティックな自然のダイナミックシーン
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 画像から 1080p のシネマティックなシーンを作成するためのプロフェッショナルなビデオプロンプト。リアルなライティングと緩やかなカメラワークが特徴です。
-
-#### 📝 プロンプト
-
-```
-1080P 30fps、5 秒間の動画。参照画像に基づきダイナミックなシーンを構築。葉をなでるそよ風、ゆっくりと繊細に動くパンショット、柔らかく変化する環境光を表現。すべてのオブジェクトは元の形状と位置を維持し、歪みのない滑らかで自然な動きを実現。リアルなシネマティックな質感を再現します。
-```
-
-<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="シネマティックな自然のダイナミックシーン">
-
-**[🎬 動画を見る →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
-
-**作者:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **ソース:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **公開日:** Jun 5, 2026
-
----
-### 巨大なドッペルゲンガーとのシーンインタラクション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni のビデオプロンプト。ユーザーの巨大な分身をトラファルガー広場のシーンに登場させ、元の自分自身とインタラクションさせるためのものです。
-
-#### 📝 プロンプト
-
-```
-全く同じ服装で同じ顔をした巨大な私が、左側からシーンに歩いて入ってきます。私たちは二人でお互いを見つめ合い、熱心に手を振り合います。
-```
-
-<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="巨大なドッペルゲンガーとのシーンインタラクション">
-
-**[🎬 動画を見る →](https://x.com/EvrenTombul/status/2062637736150880565)**
-
-**作者:** [Evren Tombul](https://x.com/EvrenTombul) | **ソース:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **公開日:** Jun 4, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 42 さらに多くのプロンプトがあります
+### 🎯 44 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3017,6 +3017,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-31T06:42:19.659Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-07-31T10:37:12.513Z</sub>
 
 </div>

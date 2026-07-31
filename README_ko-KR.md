@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **142** |
+| 📝 총 프롬프트 수 | **144** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-07-31** |
 
@@ -56,6 +56,44 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 홍콩 랜드마크 Vox 스타일 애니메이션
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 홍콩의 랜드마크를 설명하기 위한 다큐멘터리 스타일의 애니메이션 프롬프트로, 스타일리시한 그래픽과 일본어 내레이션이 포함되어 있습니다.
+
+#### 📝 프롬프트
+
+```
+Vox 설명 영상 스타일로 홍콩의 랜드마크를 설명하는 10초 분량의 애니메이션입니다. 배경에는 홍콩의 스타일리시한 3D 지도 그래픽(경도/위도 선, 항구 해안선, 도로망, 빛나는 네온 텍스처)이 포함됩니다. 일본어 내레이션(안내) 오디오가 포함되어 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="홍콩 랜드마크 Vox 스타일 애니메이션">
+
+**[🎬 비디오 보기 →](https://x.com/cantonese_slang/status/2083065827671060963)**
+
+**작성자:** [広東語スラング先生](https://x.com/cantonese_slang) | **출처:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **게시일:** Jul 31, 2026
+
+---
+### 물속에서 버블 헬멧을 쓴 고양이 영상
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni를 위한 기발한 프롬프트로, 현실적이면서도 판타지적인 배경 속에서 물고기들과 함께 헤엄치며 버블 헬멧을 쓴 고양이 영상을 생성합니다.
+
+#### 📝 프롬프트
+
+```
+내 고양이 사진을 활용해 버블 헬멧을 쓰고 주변에 물고기가 헤엄치는 영상을 만들어 줘. 현실적이면서도 판타지적인 장면으로 구성해 줘
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="물속에서 버블 헬멧을 쓴 고양이 영상">
+
+**[🎬 비디오 보기 →](https://x.com/googleespanol/status/2082964458100433212)**
+
+**작성자:** [Google en español](https://x.com/googleespanol) | **출처:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **게시일:** Jul 30, 2026
+
+---
 ### 시네마틱 축구 애니메이션 클립
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2926,51 +2964,13 @@ Ginza Six에 걸어 들어가서 에스컬레이터를 타고 6층의 새로운 
 **작성자:** [Google](https://x.com/Google) | **출처:** [Link](https://x.com/Google/status/2062925430290526486) | **게시일:** Jun 5, 2026
 
 ---
-### 영화 같은 자연 풍경 다이내믹 장면
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 이미지로부터 1080p 영화 같은 장면을 생성하기 위한 전문가용 비디오 프롬프트로, 사실적인 조명과 부드러운 카메라 움직임이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-1080P 30fps, 5초 분량의 비디오; 참조 이미지를 기반으로 다이내믹한 장면을 구성하며, 나뭇잎을 스치는 부드러운 산들바람, 천천히 섬세하게 움직이는 카메라 워킹, 그리고 은은하게 변화하는 주변 조명을 포함합니다. 모든 객체는 원래의 형태와 위치를 유지하며, 왜곡 없이 매끄럽고 자연스러운 움직임을 보여주어 사실적인 영화적 질감을 구현합니다.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780737943176_nuxj8v_HKB_6OaacAADuTO.jpg" width="600" alt="영화 같은 자연 풍경 다이내믹 장면">
-
-**[🎬 비디오 보기 →](https://x.com/cloudwiseAI2026/status/2062789282851598425)**
-
-**작성자:** [CloudwiseAI](https://x.com/cloudwiseAI2026) | **출처:** [Link](https://x.com/cloudwiseAI2026/status/2062789282851598425) | **게시일:** Jun 5, 2026
-
----
-### 거대 도플갱어 장면 상호작용
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 사용자의 거대 버전을 트라팔가 광장 배경에 등장시켜 원래의 자신과 상호작용하게 만드는 Gemini Omni 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-나와 똑같은 옷을 입고 똑같은 얼굴을 한 거대한 존재가 왼쪽에서 장면 속으로 걸어 들어옵니다. 우리 둘은 서로를 바라보며 열정적으로 손을 흔듭니다.
-```
-
-<img src="https://cms-assets.youmind.com/media/1780653066072_j27akl_HJ_1aOhWkAANG6k.jpg" width="600" alt="거대 도플갱어 장면 상호작용">
-
-**[🎬 비디오 보기 →](https://x.com/EvrenTombul/status/2062637736150880565)**
-
-**작성자:** [Evren Tombul](https://x.com/EvrenTombul) | **출처:** [Link](https://x.com/EvrenTombul/status/2062637736150880565) | **게시일:** Jun 4, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 42 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 44 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3016,6 +3016,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-31T06:42:21.174Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-07-31T10:37:13.278Z</sub>
 
 </div>
