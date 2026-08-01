@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **144** |
+| 📝 Total Prompts | **145** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-01** |
 
@@ -56,6 +56,25 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### X Earnings Celebration Motion Graphics
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A highly detailed motion graphics prompt for Gemini Omni to create celebratory animations for X earnings milestones, featuring complex 3D rotations, particle effects, and synchronized typography.
+
+#### 📝 Prompt
+
+```
+Use the attached image as the sole reference image. Always use the same image; only animate position, scale, rotation, 3D rotation, and duplication. Do not generate or redraw new illustrations. High-quality motion graphics. Commercial-quality video as if made in After Effects. The overall atmosphere is 'success', 'doubling', 'celebration', and 'joy'. The background is bright and gorgeous, with golden light, confetti, sparkles, particles, and celebratory effects dancing beautifully. The entire video carries a positive and uplifting vibe.\n\nSimultaneous with the start of the video, the attached image appears in the center of the screen. The image scales up vigorously and rhythmically repeats expanding -> shrinking -> expanding. Accompanied by the bouncy animation, golden light and sparkles spread around.\n\nNext, the image rotates 360 degrees rapidly around its center, smoothly transitioning to a 3D rotation (card flip) along the Y-axis. The camera also moves slightly back and forth to create depth. Golden ribbon-like light and particles swirl in sync with the rotation, emphasizing the festive feel.\n\nAt the moment the 3D rotation ends, the image instantly splits from one into four. The four pieces fly out to the corners, each continuing to rotate, scale, and leave beautiful light trails.\n\nImmediately after, the four pieces split further into 16, spreading evenly across the screen. These 16 pieces repeat rotation, 3D rotation, and scaling at different timings, proliferating to fill the screen. In the background, confetti, golden particles, star-shaped lights, and celebratory effects dance grandly, visually emphasizing the image of 'doubling'.\n\nAt the end, all 16 pieces converge at the center at high speed and are integrated into a single piece in an instant. As the camera zooms in sharply towards the integrated image, golden light bursts, and confetti fills the screen. The video concludes with an overwhelmingly gorgeous finish celebrating success.\n\nEnsure there are no moments of stillness throughout the video, maintaining a bright and energetic tempo. The motion should be smooth and sharp, aiming for high-quality motion graphics at the level of ads, commercials, or music videos.\n\nTypography Presentation (Celebration/Doubling Version)\n\nTypography should be perfectly synchronized with the image's motion. Text is placed in front of the image, using a bold, modern, and luxurious sans-serif font. Add golden brilliance, luminescence, light glow, and motion blur to the characters to create a celebratory and high-end look.\n\n0–2 seconds: A giant 'X' scales in vigorously, pulsing in sync with the image's scaling. Golden light and sparkles spread around.\n\n2–4 seconds: Syncing with the image's 3D rotation, the word 'Earnings' jumps out from the background, scaling up boldly. Accompanied by trails of golden light, perform an effect symbolizing success and profit.\n\n4–6 seconds: The word 'Doubled' jumps powerfully into the center of the screen, scaling up significantly. After a slight bounce, golden radiance spreads across the screen, emphasizing the impact of 'Earnings have doubled'.\n\n6–8 seconds: As the image splits into 4 and 16 pieces, multiple 'X' symbols appear and proliferate rhythmically across the screen. Confetti, golden particles, and star-shaped lights dance in the background, raising the celebratory mood to its peak.\n\n8–10 seconds: All images and characters gather in the center, with 'X', 'Earnings', and 'Doubled' overlapping to form a powerful title. As the camera zooms in, golden light bursts, and confetti pours across the screen. The video ends with a luxurious and refreshing finish, celebrating 'Earnings Doubled!'.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="X Earnings Celebration Motion Graphics">
+
+**[🎬 Watch Video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
+
+**Author:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Published:** Aug 1, 2026
+
+---
 ### Hong Kong Landmark Vox Style Animation
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -75,19 +94,19 @@ A 10-second animation explaining Hong Kong landmarks in the style of a Vox expla
 **Author:** [広東語スラング先生](https://x.com/cantonese_slang) | **Source:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Published:** Jul 31, 2026
 
 ---
-### Cat with Bubble Helmet Underwater Video
+### Cat Bubble Helmet Fantasy Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A whimsical prompt for Gemini Omni that creates a video of a cat wearing a bubble helmet surrounded by swimming fish in a realistic yet fantasy setting.
+> A video generation prompt that transforms a photo of a cat into a realistic fantasy scene where the cat wears a bubble helmet surrounded by fish.
 
 #### 📝 Prompt
 
 ```
-Create a video with the photo of my cat wearing a bubble helmet and having fish swimming around it. Realistic and fantastical scene
+Create a video with the photo of my cat where it has a bubble helmet and there are fish swimming around it. Realistic and fantasy scene
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Cat with Bubble Helmet Underwater Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Cat Bubble Helmet Fantasy Video">
 
 **[🎬 Watch Video →](https://x.com/googleespanol/status/2082964458100433212)**
 
@@ -3082,32 +3101,13 @@ Use the attached 8-panel MATCHA LATTE STORYBOARD image as the exact reference. C
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **Published:** Jun 6, 2026
 
 ---
-### Gemini Omni Dynamic Text Sizzle Reel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Gemini Omni that creates a high-energy video where text appears word-by-word with varied animated styles synced perfectly to a rhythm.
-
-#### 📝 Prompt
-
-```
-Word by word, one word on the screen at a time: did, you, know, that, this, model, can, do, pretty, good, text!? each word appears with a different animated style, perfect pacing to a rhythm, sizzle reel.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c4a8ebe90c8cbec7fbddf22848862938/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni Dynamic Text Sizzle Reel">
-
-**[🎬 Watch Video →](https://x.com/Google/status/2062925430290526486)**
-
-**Author:** [Google](https://x.com/Google) | **Source:** [Link](https://x.com/Google/status/2062925430290526486) | **Published:** Jun 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 44 more prompts not shown here
+### 🎯 45 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3153,6 +3153,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-01T06:27:40.714Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-01T09:57:20.237Z</sub>
 
 </div>

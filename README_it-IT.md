@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **144** |
+| 📝 Totale prompt | **145** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-08-01** |
 
@@ -56,6 +56,51 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Motion Graphics per la celebrazione degli utili di X
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt di motion graphics altamente dettagliato per Gemini Omni, pensato per creare animazioni celebrative per i traguardi raggiunti da X, caratterizzato da complesse rotazioni 3D, effetti particellari e tipografia sincronizzata.
+
+#### 📝 Prompt
+
+```
+Utilizza l'immagine allegata come unico riferimento visivo. Usa sempre la stessa immagine; anima solo posizione, scala, rotazione, rotazione 3D e duplicazione. Non generare o ridisegnare nuove illustrazioni. Motion graphics di alta qualità. Video di qualità commerciale, come se fosse realizzato in After Effects. L'atmosfera generale deve trasmettere 'successo', 'raddoppio', 'celebrazione' e 'gioia'. Lo sfondo è luminoso e sfarzoso, con luci dorate, coriandoli, scintille, particelle ed effetti celebrativi che danzano magnificamente. L'intero video trasmette un'energia positiva e stimolante.
+
+All'inizio del video, l'immagine allegata appare al centro dello schermo. L'immagine si ingrandisce con vigore e ripete ritmicamente il movimento espansione -> contrazione -> espansione. Accompagnati dall'animazione dinamica, luci dorate e scintille si diffondono tutt'intorno.
+
+Successivamente, l'immagine ruota rapidamente di 360 gradi attorno al proprio centro, passando fluidamente a una rotazione 3D (effetto card flip) lungo l'asse Y. Anche la telecamera si muove leggermente avanti e indietro per creare profondità. Luci dorate simili a nastri e particelle vorticano in sincronia con la rotazione, enfatizzando l'atmosfera festosa.
+
+Nel momento in cui termina la rotazione 3D, l'immagine si divide istantaneamente da una a quattro. I quattro pezzi volano verso gli angoli, continuando ciascuno a ruotare, scalare e lasciare scie luminose spettacolari.
+
+Subito dopo, i quattro pezzi si dividono ulteriormente in 16, distribuendosi uniformemente sullo schermo. Questi 16 pezzi ripetono rotazione, rotazione 3D e ridimensionamento con tempistiche diverse, moltiplicandosi fino a riempire lo schermo. Sullo sfondo, coriandoli, particelle dorate, luci a forma di stella ed effetti celebrativi danzano grandiosamente, enfatizzando visivamente il concetto di 'raddoppio'.
+
+Alla fine, tutti i 16 pezzi convergono al centro ad alta velocità e si integrano in un unico elemento in un istante. Mentre la telecamera esegue uno zoom rapido verso l'immagine integrata, esplode una luce dorata e i coriandoli riempiono lo schermo. Il video si conclude con un finale straordinariamente sfarzoso che celebra il successo.
+
+Assicurati che non ci siano momenti di staticità durante il video, mantenendo un ritmo brillante ed energico. Il movimento deve essere fluido e netto, puntando a una qualità di motion graphics pari a quella di pubblicità, spot commerciali o video musicali.
+
+Presentazione della tipografia (Versione Celebrazione/Raddoppio)
+
+La tipografia deve essere perfettamente sincronizzata con il movimento dell'immagine. Il testo è posizionato davanti all'immagine, utilizzando un font sans-serif audace, moderno e lussuoso. Aggiungi brillantezza dorata, luminescenza, bagliore luminoso e motion blur ai caratteri per creare un look celebrativo e di alta classe.
+
+0–2 secondi: Una 'X' gigante entra in scena ingrandendosi vigorosamente, pulsando in sincronia con il ridimensionamento dell'immagine. Luci dorate e scintille si diffondono intorno.
+
+2–4 secondi: In sincronia con la rotazione 3D dell'immagine, la parola 'Earnings' emerge dallo sfondo, ingrandendosi con decisione. Accompagnata da scie di luce dorata, crea un effetto che simboleggia successo e profitto.
+
+4–6 secondi: La parola 'Doubled' balza con forza al centro dello schermo, ingrandendosi notevolmente. Dopo un leggero rimbalzo, una radiosità dorata si diffonde sullo schermo, enfatizzando l'impatto del 'raddoppio degli utili'.
+
+6–8 secondi: Mentre l'immagine si divide in 4 e 16 pezzi, molteplici simboli 'X' appaiono e si moltiplicano ritmicamente sullo schermo. Coriandoli, particelle dorate e luci a forma di stella danzano sullo sfondo, portando l'atmosfera celebrativa al culmine.
+
+8–10 secondi: Tutte le immagini e i caratteri si riuniscono al centro, con 'X', 'Earnings' e 'Doubled' che si sovrappongono per formare un titolo potente. Mentre la telecamera zooma, la luce dorata esplode e i coriandoli inondano lo schermo. Il video termina con un finale lussuoso e rinfrescante, celebrando 'Earnings Doubled!'.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Motion Graphics per la celebrazione degli utili di X">
+
+**[🎬 Guarda il video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
+
+**Autore:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Fonte:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Pubblicato:** Aug 1, 2026
+
+---
 ### Animazione in stile Vox sui punti di riferimento di Hong Kong
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2919,32 +2964,13 @@ Utilizza l'immagine MATCHA LATTE STORYBOARD a 8 pannelli allegata come riferimen
 **Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **Pubblicato:** Jun 6, 2026
 
 ---
-### Sizzle Reel con testo animato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt progettato per generare video in cui il testo appare parola per parola con animazioni variegate, perfettamente sincronizzato con un ritmo incalzante.
-
-#### 📝 Prompt
-
-```
-Parola per parola, una parola alla volta sullo schermo: sapevi, che, questo, modello, può, creare, testi, davvero, ottimi!? ogni parola appare con uno stile animato diverso, ritmo perfetto a tempo di musica, sizzle reel.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c4a8ebe90c8cbec7fbddf22848862938/thumbnails/thumbnail.jpg" width="600" alt="Sizzle Reel con testo animato">
-
-**[🎬 Guarda il video →](https://x.com/Google/status/2062925430290526486)**
-
-**Autore:** [Google](https://x.com/Google) | **Fonte:** [Link](https://x.com/Google/status/2062925430290526486) | **Pubblicato:** Jun 5, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 44 altri prompt non mostrati qui
+### 🎯 45 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2990,6 +3016,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-01T06:27:58.436Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-01T09:57:38.919Z</sub>
 
 </div>

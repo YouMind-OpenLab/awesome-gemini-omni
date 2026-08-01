@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **144** |
+| 📝 Tổng số prompt | **145** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-01** |
 
@@ -56,6 +56,25 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Đồ họa chuyển động kỷ niệm thu nhập của X
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh đồ họa chuyển động chi tiết dành cho Gemini Omni để tạo các hoạt ảnh kỷ niệm cho các cột mốc thu nhập của X, bao gồm các vòng xoay 3D phức tạp, hiệu ứng hạt và kiểu chữ đồng bộ.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh đính kèm làm hình ảnh tham chiếu duy nhất. Luôn sử dụng cùng một hình ảnh; chỉ tạo hoạt ảnh cho vị trí, tỷ lệ, xoay, xoay 3D và nhân bản. Không tạo hoặc vẽ lại các hình minh họa mới. Đồ họa chuyển động chất lượng cao. Video chất lượng thương mại như được thực hiện trong After Effects. Bầu không khí tổng thể là 'thành công', 'nhân đôi', 'kỷ niệm' và 'niềm vui'. Nền sáng và lộng lẫy, với ánh sáng vàng, pháo giấy, tia sáng, các hạt và hiệu ứng kỷ niệm nhảy múa đẹp mắt. Toàn bộ video mang lại cảm giác tích cực và phấn chấn.\n\nNgay khi video bắt đầu, hình ảnh đính kèm xuất hiện ở giữa màn hình. Hình ảnh phóng to mạnh mẽ và lặp lại nhịp nhàng theo kiểu mở rộng -> thu nhỏ -> mở rộng. Đi kèm với hoạt ảnh nảy, ánh sáng vàng và các tia sáng lan tỏa xung quanh.\n\nTiếp theo, hình ảnh xoay nhanh 360 độ quanh tâm, chuyển đổi mượt mà sang xoay 3D (lật thẻ) dọc theo trục Y. Camera cũng di chuyển nhẹ qua lại để tạo chiều sâu. Ánh sáng giống như dải ruy băng vàng và các hạt xoáy đồng bộ với chuyển động xoay, làm nổi bật cảm giác lễ hội.\n\nTại thời điểm kết thúc xoay 3D, hình ảnh ngay lập tức tách từ một thành bốn. Bốn mảnh bay ra các góc, mỗi mảnh tiếp tục xoay, thay đổi tỷ lệ và để lại những vệt sáng đẹp mắt.\n\nNgay sau đó, bốn mảnh tiếp tục tách thành 16 mảnh, lan tỏa đều khắp màn hình. 16 mảnh này lặp lại chuyển động xoay, xoay 3D và thay đổi tỷ lệ ở các thời điểm khác nhau, nhân lên để lấp đầy màn hình. Ở hậu cảnh, pháo giấy, hạt vàng, đèn hình ngôi sao và các hiệu ứng kỷ niệm nhảy múa hoành tráng, nhấn mạnh trực quan hình ảnh 'nhân đôi'.\n\nCuối cùng, tất cả 16 mảnh hội tụ về trung tâm với tốc độ cao và được tích hợp thành một mảnh trong tích tắc. Khi camera phóng to mạnh vào hình ảnh đã hợp nhất, ánh sáng vàng bùng nổ và pháo giấy lấp đầy màn hình. Video kết thúc với một cái kết lộng lẫy, ăn mừng thành công.\n\nĐảm bảo không có khoảnh khắc tĩnh lặng nào trong suốt video, duy trì nhịp độ tươi sáng và tràn đầy năng lượng. Chuyển động phải mượt mà và sắc nét, hướng tới đồ họa chuyển động chất lượng cao ở cấp độ quảng cáo, thương mại hoặc video âm nhạc.\n\nTrình bày kiểu chữ (Phiên bản Kỷ niệm/Nhân đôi)\n\nKiểu chữ phải được đồng bộ hoàn hảo với chuyển động của hình ảnh. Văn bản được đặt phía trước hình ảnh, sử dụng phông chữ không chân đậm, hiện đại và sang trọng. Thêm độ sáng vàng, phát quang, hiệu ứng ánh sáng và nhòe chuyển động cho các ký tự để tạo vẻ ngoài kỷ niệm và cao cấp.\n\n0–2 giây: Chữ 'X' khổng lồ phóng to mạnh mẽ, nhấp nháy đồng bộ với tỷ lệ của hình ảnh. Ánh sáng vàng và các tia sáng lan tỏa xung quanh.\n\n2–4 giây: Đồng bộ với chuyển động xoay 3D của hình ảnh, từ 'Earnings' nhảy ra từ hậu cảnh, phóng to đậm nét. Đi kèm với những vệt sáng vàng, tạo hiệu ứng tượng trưng cho thành công và lợi nhuận.\n\n4–6 giây: Từ 'Doubled' nhảy mạnh mẽ vào giữa màn hình, phóng to đáng kể. Sau một cú nảy nhẹ, ánh sáng vàng lan tỏa khắp màn hình, nhấn mạnh tác động của 'Thu nhập đã tăng gấp đôi'.\n\n6–8 giây: Khi hình ảnh tách thành 4 và 16 mảnh, nhiều biểu tượng 'X' xuất hiện và nhân lên nhịp nhàng khắp màn hình. Pháo giấy, hạt vàng và đèn hình ngôi sao nhảy múa ở hậu cảnh, đẩy tâm trạng kỷ niệm lên cao trào.\n\n8–10 giây: Tất cả hình ảnh và ký tự tập trung ở trung tâm, với 'X', 'Earnings' và 'Doubled' chồng lên nhau tạo thành một tiêu đề mạnh mẽ. Khi camera phóng to, ánh sáng vàng bùng nổ và pháo giấy đổ xuống màn hình. Video kết thúc với một cái kết sang trọng và sảng khoái, kỷ niệm 'Earnings Doubled!'.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Đồ họa chuyển động kỷ niệm thu nhập của X">
+
+**[🎬 Xem video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
+
+**Tác giả:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Nguồn:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Đã xuất bản:** Aug 1, 2026
+
+---
 ### Hoạt hình phong cách Vox về các địa danh tại Hồng Kông
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2923,32 +2942,13 @@ Sử dụng hình ảnh MATCHA LATTE STORYBOARD 8 khung hình được đính k�
 **Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **Đã xuất bản:** Jun 6, 2026
 
 ---
-### Video giới thiệu văn bản chuyển động
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh được thiết kế để tạo video trong đó văn bản xuất hiện theo từng từ với các hiệu ứng chuyển động đa dạng, được đồng bộ hóa hoàn hảo theo nhịp điệu.
-
-#### 📝 Prompt
-
-```
-Từng từ một, mỗi lần chỉ một từ trên màn hình: bạn, có, biết, rằng, mô hình, này, có, thể, tạo, văn, bản, khá, ấn, tượng, không!? mỗi từ xuất hiện với một phong cách chuyển động khác nhau, nhịp điệu hoàn hảo, video giới thiệu đầy lôi cuốn.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/c4a8ebe90c8cbec7fbddf22848862938/thumbnails/thumbnail.jpg" width="600" alt="Video giới thiệu văn bản chuyển động">
-
-**[🎬 Xem video →](https://x.com/Google/status/2062925430290526486)**
-
-**Tác giả:** [Google](https://x.com/Google) | **Nguồn:** [Link](https://x.com/Google/status/2062925430290526486) | **Đã xuất bản:** Jun 5, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 44 prompt khác không hiển thị ở đây
+### 🎯 45 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2994,6 +2994,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-01T06:27:48.979Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-01T09:57:30.483Z</sub>
 
 </div>
