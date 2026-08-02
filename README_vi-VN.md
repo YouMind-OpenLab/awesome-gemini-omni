@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **145** |
+| 📝 Tổng số prompt | **146** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-02** |
 
@@ -56,6 +56,25 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Luxury Toddler Fashion Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+
+#### 📝 Prompt
+
+```
+a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+
+**[🎬 Xem video →](https://x.com/ritesh_ai/status/2083525213309042711)**
+
+**Tác giả:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Nguồn:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Đã xuất bản:** Aug 1, 2026
+
+---
 ### Đồ họa chuyển động kỷ niệm thu nhập của X
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2923,32 +2942,13 @@ Một con báo hoa mai lặng lẽ bước đi trong khu rừng đầy sương m
 **Tác giả:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **Nguồn:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **Đã xuất bản:** Jun 6, 2026
 
 ---
-### Hoạt hình Storyboard phong cách Pixar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Prompt này hướng dẫn Gemini Omni chuyển đổi storyboard 8 khung hình được cung cấp thành video 3D phong cách Pixar mượt mà dài 10 giây, đảm bảo tính nhất quán của môi trường xuyên suốt.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh MATCHA LATTE STORYBOARD 8 khung hình được đính kèm làm tài liệu tham khảo chính xác. Tạo một video hoạt hình 3D phong cách Pixar mượt mà, mãn nhãn dài 10 giây với tỷ lệ khung hình 16:9, bám sát storyboard 8 cảnh. Duy trì bối cảnh ngôi nhà hiện đại, ấm cúng và tươi sáng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="Hoạt hình Storyboard phong cách Pixar">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2063108439577129359)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **Đã xuất bản:** Jun 6, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 45 prompt khác không hiển thị ở đây
+### 🎯 46 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2994,6 +2994,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-02T06:31:58.968Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-02T09:55:10.215Z</sub>
 
 </div>

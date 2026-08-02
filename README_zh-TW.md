@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **145** |
+| 📝 提示詞總數 | **146** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-08-02** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Luxury Toddler Fashion Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+
+#### 📝 提示詞
+
+```
+a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+
+**[🎬 觀看視頻 →](https://x.com/ritesh_ai/status/2083525213309042711)**
+
+**作者:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **來源:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **發布時間:** Aug 1, 2026
+
+---
 ### X 財報慶祝動態圖形
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2984,32 +3003,13 @@ RGB 故障，
 **作者:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **來源:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **發布時間:** Jun 6, 2026
 
 ---
-### 皮克斯風格分鏡動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 此提示詞引導 Gemini Omni 將提供的 8 格分鏡腳本製作成流暢的 10 秒皮克斯風格 3D 影片，並確保整體環境的一致性。
-
-#### 📝 提示詞
-
-```
-請使用隨附的 8 格 MATCHA LATTE STORYBOARD 圖片作為精確參考。製作一段流暢且令人滿意的 10 秒皮克斯風格 3D 動畫影片，比例為 16:9，並嚴格遵循該 8 格分鏡腳本。請維持與原圖一致的溫馨明亮現代居家環境
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="皮克斯風格分鏡動畫">
-
-**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2063108439577129359)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **發布時間:** Jun 6, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 45 更多提示詞未在此顯示
+### 🎯 46 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3055,6 +3055,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-02T06:31:56.014Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-02T09:55:05.847Z</sub>
 
 </div>

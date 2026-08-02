@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **145** |
+| 📝 कुल प्रॉम्पट्स | **146** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-08-02** |
 
@@ -56,6 +56,25 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Luxury Toddler Fashion Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+
+#### 📝 प्रॉम्पट
+
+```
+a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+
+**[🎬 वीडियो देखें →](https://x.com/ritesh_ai/status/2083525213309042711)**
+
+**लेखक:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **स्रोत:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **प्रकाशित:** Aug 1, 2026
+
+---
 ### X अर्निंग्स सेलिब्रेशन मोशन ग्राफिक्स
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2976,32 +2995,13 @@ Final Fantasy 7 के Cloud और Tifa को रॉकिंग कुर्�
 **लेखक:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **स्रोत:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **प्रकाशित:** Jun 6, 2026
 
 ---
-### पिक्सर स्टाइल स्टोरीबोर्ड एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> यह प्रॉम्प्ट Gemini Omni को एक दिए गए 8-पैनल स्टोरीबोर्ड को 10-सेकंड के स्मूथ पिक्सर-स्टाइल 3D वीडियो में एनिमेट करने के लिए निर्देशित करता है, जो पूरी प्रक्रिया के दौरान पर्यावरणीय निरंतरता बनाए रखता है।
-
-#### 📝 प्रॉम्पट
-
-```
-संलग्न 8-पैनल MATCHA LATTE STORYBOARD इमेज का सटीक संदर्भ के रूप में उपयोग करें। 16:9 आस्पेक्ट रेशियो में 10-सेकंड का एक स्मूथ और संतोषजनक पिक्सर-स्टाइल 3D एनिमेटेड वीडियो बनाएं जो 8-शॉट स्टोरीबोर्ड का पूरी तरह से पालन करे। उसी आरामदायक और आधुनिक घर के माहौल को बनाए रखें।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="पिक्सर स्टाइल स्टोरीबोर्ड एनीमेशन">
-
-**[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2063108439577129359)**
-
-**लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **प्रकाशित:** Jun 6, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 45 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 46 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3047,6 +3047,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-02T06:31:59.602Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-02T09:55:11.339Z</sub>
 
 </div>

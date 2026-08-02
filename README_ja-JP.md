@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **145** |
+| 📝 プロンプト総数 | **146** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-08-02** |
 
@@ -56,6 +56,25 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### Luxury Toddler Fashion Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+
+#### 📝 プロンプト
+
+```
+a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+
+**[🎬 動画を見る →](https://x.com/ritesh_ai/status/2083525213309042711)**
+
+**作者:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **ソース:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **公開日:** Aug 1, 2026
+
+---
 ### X 決算記念モーショングラフィックス
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2972,32 +2991,13 @@ Ginza Six に入店し、エスカレーターで 6 階の新しいカフェへ�
 **作者:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **ソース:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **公開日:** Jun 6, 2026
 
 ---
-### ピクサー風ストーリーボードアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> このプロンプトは、提供された 8 コマのストーリーボードを、環境の一貫性を保ちながら、滑らかな 10 秒間のピクサー風 3D 動画にアニメーション化するよう Gemini Omni に指示します。
-
-#### 📝 プロンプト
-
-```
-添付の 8 コマの MATCHA LATTE STORYBOARD 画像を正確なリファレンスとして使用してください。8 つのショットで構成されるストーリーボードに忠実に従い、16:9 のアスペクト比で、滑らかで満足度の高い 10 秒間のピクサー風 3D アニメーション動画を作成してください。居心地の良い明るいモダンな家の雰囲気を維持してください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="ピクサー風ストーリーボードアニメーション">
-
-**[🎬 動画を見る →](https://x.com/MrDasOnX/status/2063108439577129359)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **公開日:** Jun 6, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 45 さらに多くのプロンプトがあります
+### 🎯 46 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3043,6 +3043,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-02T06:31:56.704Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-02T09:55:07.041Z</sub>
 
 </div>

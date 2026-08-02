@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **145** |
+| 📝 Toplam İstem | **146** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-02** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Luxury Toddler Fashion Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+
+#### 📝 İstem
+
+```
+a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+
+**[🎬 Videoyu izle →](https://x.com/ritesh_ai/status/2083525213309042711)**
+
+**Yazar:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Kaynak:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Yayınlandı:** Aug 1, 2026
+
+---
 ### X Kazanç Kutlaması Hareketli Grafikleri
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2947,32 +2966,13 @@ Bir leopar şafak vakti sisli bir ormanda sessizce yürüyor. Yapraklardan çiy 
 **Yazar:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **Kaynak:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **Yayınlandı:** Jun 6, 2026
 
 ---
-### Pixar Tarzı Storyboard Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bu komut, Gemini Omni'nin sağlanan 8 panelli bir storyboard'u, çevresel tutarlılığı koruyarak akıcı ve 10 saniyelik Pixar tarzı bir 3D videoya dönüştürmesini sağlar.
-
-#### 📝 İstem
-
-```
-Ekli 8 panelli MATCHA LATTE STORYBOARD görselini tam referans olarak kullanın. 8 karelik storyboard'u birebir takip eden, 16:9 en boy oranında, akıcı ve tatmin edici 10 saniyelik Pixar tarzı bir 3D animasyon videosu oluşturun. Aynı sıcak ve aydınlık modern ev ortamını koruyun
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="Pixar Tarzı Storyboard Animasyonu">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2063108439577129359)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **Yayınlandı:** Jun 6, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 45 burada gösterilmeyen daha fazla istem
+### 🎯 46 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3018,6 +3018,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-02T06:32:05.982Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-02T09:55:20.825Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **145** |
+| 📝 총 프롬프트 수 | **146** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-08-02** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Luxury Toddler Fashion Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+
+#### 📝 프롬프트
+
+```
+a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+
+**[🎬 비디오 보기 →](https://x.com/ritesh_ai/status/2083525213309042711)**
+
+**작성자:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **출처:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **게시일:** Aug 1, 2026
+
+---
 ### X 실적 발표 기념 모션 그래픽
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2971,32 +2990,13 @@ Ginza Six에 걸어 들어가서 에스컬레이터를 타고 6층의 새로운 
 **작성자:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **출처:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **게시일:** Jun 6, 2026
 
 ---
-### 픽사 스타일 스토리보드 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 이 프롬프트는 Gemini Omni를 사용하여 제공된 8컷 스토리보드를 10초 분량의 매끄러운 픽사 스타일 3D 영상으로 애니메이션화하며, 전체적으로 일관된 배경을 유지하도록 안내합니다.
-
-#### 📝 프롬프트
-
-```
-첨부된 8컷 MATCHA LATTE STORYBOARD 이미지를 정확한 참조 자료로 사용하세요. 8컷 스토리보드를 그대로 따르는 16:9 비율의 매끄럽고 만족스러운 10초 분량의 픽사 스타일 3D 애니메이션 영상을 제작하세요. 아늑하고 밝은 현대적인 가정집의 분위기를 그대로 유지하세요
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="픽사 스타일 스토리보드 애니메이션">
-
-**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2063108439577129359)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **게시일:** Jun 6, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 45 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 46 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3042,6 +3042,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-02T06:31:57.353Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-02T09:55:08.085Z</sub>
 
 </div>

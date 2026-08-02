@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **145** |
+| 📝 Total Prompts | **146** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-02** |
 
@@ -56,19 +56,69 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### X Earnings Celebration Motion Graphics
+### Luxury Toddler Fashion Commercial
 
-![日本語](https://img.shields.io/badge/lang-日本語-green)
+![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed motion graphics prompt for Gemini Omni to create celebratory animations for X earnings milestones, featuring complex 3D rotations, particle effects, and synchronized typography.
+> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
 
 #### 📝 Prompt
 
 ```
-Use the attached image as the sole reference image. Always use the same image; only animate position, scale, rotation, 3D rotation, and duplication. Do not generate or redraw new illustrations. High-quality motion graphics. Commercial-quality video as if made in After Effects. The overall atmosphere is 'success', 'doubling', 'celebration', and 'joy'. The background is bright and gorgeous, with golden light, confetti, sparkles, particles, and celebratory effects dancing beautifully. The entire video carries a positive and uplifting vibe.\n\nSimultaneous with the start of the video, the attached image appears in the center of the screen. The image scales up vigorously and rhythmically repeats expanding -> shrinking -> expanding. Accompanied by the bouncy animation, golden light and sparkles spread around.\n\nNext, the image rotates 360 degrees rapidly around its center, smoothly transitioning to a 3D rotation (card flip) along the Y-axis. The camera also moves slightly back and forth to create depth. Golden ribbon-like light and particles swirl in sync with the rotation, emphasizing the festive feel.\n\nAt the moment the 3D rotation ends, the image instantly splits from one into four. The four pieces fly out to the corners, each continuing to rotate, scale, and leave beautiful light trails.\n\nImmediately after, the four pieces split further into 16, spreading evenly across the screen. These 16 pieces repeat rotation, 3D rotation, and scaling at different timings, proliferating to fill the screen. In the background, confetti, golden particles, star-shaped lights, and celebratory effects dance grandly, visually emphasizing the image of 'doubling'.\n\nAt the end, all 16 pieces converge at the center at high speed and are integrated into a single piece in an instant. As the camera zooms in sharply towards the integrated image, golden light bursts, and confetti fills the screen. The video concludes with an overwhelmingly gorgeous finish celebrating success.\n\nEnsure there are no moments of stillness throughout the video, maintaining a bright and energetic tempo. The motion should be smooth and sharp, aiming for high-quality motion graphics at the level of ads, commercials, or music videos.\n\nTypography Presentation (Celebration/Doubling Version)\n\nTypography should be perfectly synchronized with the image's motion. Text is placed in front of the image, using a bold, modern, and luxurious sans-serif font. Add golden brilliance, luminescence, light glow, and motion blur to the characters to create a celebratory and high-end look.\n\n0–2 seconds: A giant 'X' scales in vigorously, pulsing in sync with the image's scaling. Golden light and sparkles spread around.\n\n2–4 seconds: Syncing with the image's 3D rotation, the word 'Earnings' jumps out from the background, scaling up boldly. Accompanied by trails of golden light, perform an effect symbolizing success and profit.\n\n4–6 seconds: The word 'Doubled' jumps powerfully into the center of the screen, scaling up significantly. After a slight bounce, golden radiance spreads across the screen, emphasizing the impact of 'Earnings have doubled'.\n\n6–8 seconds: As the image splits into 4 and 16 pieces, multiple 'X' symbols appear and proliferate rhythmically across the screen. Confetti, golden particles, and star-shaped lights dance in the background, raising the celebratory mood to its peak.\n\n8–10 seconds: All images and characters gather in the center, with 'X', 'Earnings', and 'Doubled' overlapping to form a powerful title. As the camera zooms in, golden light bursts, and confetti pours across the screen. The video ends with a luxurious and refreshing finish, celebrating 'Earnings Doubled!'.
+a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="X Earnings Celebration Motion Graphics">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+
+**[🎬 Watch Video →](https://x.com/ritesh_ai/status/2083525213309042711)**
+
+**Author:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Source:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Published:** Aug 1, 2026
+
+---
+### Celebratory Revenue Milestone Motion Graphics
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A highly detailed motion graphics prompt for Gemini Omni designed to animate a reference image for marketing success. It features complex instructions for 3D card flips, multi-image splitting, and synchronized typography with celebratory visual effects like gold particles and confetti.
+
+#### 📝 Prompt
+
+```
+Use the attached image as the sole reference image. Always use the same image; only animate position, scale, rotation, 3D rotation, and duplication. Do not generate or redraw new illustrations. High-quality motion graphics. Commercial-quality video as if produced in After Effects. The overall atmosphere is 'success', 'doubled', 'celebration', and 'joy'. The background is bright and gorgeous, with golden light, confetti, sparkles, particles, and celebratory effects dancing beautifully. The entire video exudes a positive and uplifting atmosphere.
+
+At the start of the video, the attached image appears in the center. The image scales up vigorously and repeats a rhythmic expansion -> contraction -> expansion cycle. Golden light and sparkles spread around in sync with the bouncy animation.
+
+Next, the image rotates 360 degrees rapidly on its axis and smoothly transitions into a 3D rotation along the Y-axis (card flip). The camera moves slightly back and forth to create depth. Golden ribbon-like light and particles swirl in sync with the rotation, emphasizing the festive feeling.
+
+The moment the 3D rotation ends, the image instantly splits from one to four. The four images fly to the corners, continuing to rotate and scale while leaving beautiful light trails.
+
+Immediately after, the four split into 16 at high speed, spreading evenly across the screen. The 16 images repeat rotation, 3D rotation, expansion, and contraction at different timings, proliferating throughout the screen. In the background, confetti, golden particles, star-shaped lights, and celebratory effects dance grandly, visually emphasizing the 'doubled' image.
+
+In the finale, all 16 images gather at the center at high speed and integrate into one instantly. As the camera zooms in vigorously toward the integrated image, golden light bursts significantly and confetti dances across the screen. Conclude with an overwhelmingly gorgeous finish celebrating success.
+
+Maintain a bright and energetic tempo throughout the video without any still moments. The motion should be smooth and sharp, ensuring high-quality motion graphics on an advertisement, commercial, or music video level.
+
+Typography Presentation (Celebration/Doubling Version)
+
+Synchronize the typography perfectly with the motion of the images. Place text in front of the image using an ultra-bold, modern, and high-end sans-serif font. Add golden brilliance, luminescence, a light glow, and motion blur to the text for a premium festive feel.
+
+0–2 seconds
+A giant 'X' scales in vigorously, pulsing in sync with the image's expansion and contraction. Golden light and sparkles spread around.
+
+2–4 seconds
+In sync with the image's 3D rotation, 'Revenue' (収益) flies out from the back, scaling up boldly. Create a presentation symbolizing success and profit with trails of golden light.
+
+4–6 seconds
+The word 'Doubled' (倍増) forcefully jumps to the center, scaling up significantly. After a slight bounce, golden brilliance spreads, emphasizing the impact of 'doubled revenue'.
+
+6–8 seconds
+As the images split into 4 and 16, multiple 'X's also appear, proliferating rhythmically. Background confetti, golden particles, and star-shaped lights bring the celebration to its peak.
+
+8–10 seconds
+All images and text gather at the center, with 'X', 'Revenue', and 'Doubled' overlapping to form a powerful title. As the camera zooms in, golden light bursts and confetti pours down. Conclude with a refreshing finish celebrating 'Revenue Doubled!'.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Celebratory Revenue Milestone Motion Graphics">
 
 **[🎬 Watch Video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
 
@@ -3082,32 +3132,13 @@ A leopard silently walks through a misty jungle at dawn. Dew drops fall from lea
 **Author:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **Source:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **Published:** Jun 6, 2026
 
 ---
-### Pixar Style Storyboard Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> This prompt guides Gemini Omni to animate a provided 8-panel storyboard into a fluid 10-second Pixar-style 3D video, maintaining environmental consistency throughout.
-
-#### 📝 Prompt
-
-```
-Use the attached 8-panel MATCHA LATTE STORYBOARD image as the exact reference. Create a smooth, satisfying 10-second Pixar-style 3D animated video in 16:9 aspect ratio that follows the 8-shot storyboard exactly. Preserve the same cozy bright modern home
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="Pixar Style Storyboard Animation">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2063108439577129359)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **Published:** Jun 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 45 more prompts not shown here
+### 🎯 46 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3153,6 +3184,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-02T06:31:54.171Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-02T09:55:03.845Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **145** |
+| 📝 Total de prompts | **146** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-08-02** |
 
@@ -56,6 +56,25 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Luxury Toddler Fashion Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+
+#### 📝 Prompt
+
+```
+a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+
+**[🎬 Ver video →](https://x.com/ritesh_ai/status/2083525213309042711)**
+
+**Autor:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Fuente:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Publicado:** Aug 1, 2026
+
+---
 ### Gráficos en movimiento para la celebración de ganancias de X
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2977,32 +2996,13 @@ Un leopardo camina silenciosamente a través de una selva neblinosa al amanecer.
 **Autor:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **Fuente:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **Publicado:** Jun 6, 2026
 
 ---
-### Animación de storyboard al estilo Pixar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Este prompt guía a Gemini Omni para animar un storyboard de 8 paneles y convertirlo en un video 3D fluido de 10 segundos al estilo Pixar, manteniendo la consistencia ambiental en todo momento.
-
-#### 📝 Prompt
-
-```
-Utiliza la imagen del STORYBOARD DE MATCHA LATTE de 8 paneles adjunta como referencia exacta. Crea un video animado en 3D al estilo Pixar, fluido y satisfactorio, de 10 segundos de duración en una relación de aspecto de 16:9 que siga exactamente el storyboard de 8 planos. Conserva el mismo hogar moderno, acogedor y luminoso
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="Animación de storyboard al estilo Pixar">
-
-**[🎬 Ver video →](https://x.com/MrDasOnX/status/2063108439577129359)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **Publicado:** Jun 6, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 45 más prompts no mostrados aquí
+### 🎯 46 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3048,6 +3048,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-02T06:32:00.419Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-02T09:55:12.620Z</sub>
 
 </div>

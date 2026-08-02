@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **145** |
+| 📝 พรอมต์ทั้งหมด | **146** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-08-02** |
 
@@ -56,6 +56,25 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### Luxury Toddler Fashion Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+
+#### 📝 พรอมต์
+
+```
+a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+
+**[🎬 ดูวิดีโอ →](https://x.com/ritesh_ai/status/2083525213309042711)**
+
+**ผู้เขียน:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **แหล่งที่มา:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **เผยแพร่เมื่อ:** Aug 1, 2026
+
+---
 ### โมชันกราฟิกฉลองผลประกอบการ X
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2929,32 +2948,13 @@ aggressive typography, hyper kinetic typography, broadcast motion graphics, rapi
 **ผู้เขียน:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **แหล่งที่มา:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **เผยแพร่เมื่อ:** Jun 6, 2026
 
 ---
-### แอนิเมชันสตอรีบอร์ดสไตล์ Pixar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์นี้จะช่วยให้ Gemini Omni เปลี่ยนสตอรีบอร์ด 8 ช่องที่กำหนดให้กลายเป็นวิดีโอ 3D สไตล์ Pixar ความยาว 10 วินาทีที่ลื่นไหล โดยยังคงความสม่ำเสมอของสภาพแวดล้อมไว้ตลอดทั้งคลิป
-
-#### 📝 พรอมต์
-
-```
-ใช้ภาพ MATCHA LATTE STORYBOARD แบบ 8 ช่องที่แนบมาเป็นข้อมูลอ้างอิงหลัก สร้างวิดีโอแอนิเมชัน 3D สไตล์ Pixar ที่ลื่นไหลและน่าประทับใจ ความยาว 10 วินาที ในอัตราส่วน 16:9 โดยให้ดำเนินเรื่องตามสตอรีบอร์ดทั้ง 8 ช็อตอย่างเคร่งครัด พร้อมรักษาบรรยากาศบ้านสมัยใหม่ที่อบอุ่นและสว่างสดใสเอาไว้
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/0f4dfd8283d103c1d25f27e9d59ceed0/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันสตอรีบอร์ดสไตล์ Pixar">
-
-**[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2063108439577129359)**
-
-**ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2063108439577129359) | **เผยแพร่เมื่อ:** Jun 6, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 45 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 46 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3000,6 +3000,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-02T06:31:57.973Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-02T09:55:08.976Z</sub>
 
 </div>
