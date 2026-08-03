@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **146** |
+| 📝 提示詞總數 | **148** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-08-03** |
 
@@ -56,6 +56,61 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Mechanical Pepper Grinder Mantis Duel
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed cinematic video prompt for Gemini Omni featuring a mechanical mantis made from a pepper grinder fighting a cockroach in a kitchen.
+
+#### 📝 提示詞
+
+```
+Macro cinematic lens, the night kitchen countertop is shot like a vast metal wasteland. Breadcrumbs, salt grains, and herb fragments are scattered on the countertop like rocks and bushes. The main character is a peculiar 'pepper grinder mantis': the body is a small silver stainless steel pepper grinder, tilted vertically forward, with slender realistic mantis legs growing from the bottom and sides, and two iconic sickle-shaped raptorial forelimbs in front. It has no normal insect head; the main body is the pepper grinder itself, moving cautiously and mechanically.
+
+A shiny brown cockroach slowly crawls out from the shadow of a napkin on the left, quickly approaching the pepper grinder mantis. The air is tense, like a late-night kitchen duel. The pepper grinder mantis suddenly stops, its body lifting slightly as if locking onto a target. Then it suddenly turns the top grinding head, making a crisp mechanical sound, and a large amount of black pepper fragments spray out from the top and front like a smoke bomb, hitting the cockroach directly.
+
+The cockroach is choked by the pepper, retreats in panic, its antennae waving wildly, its feet slipping, and quickly retreats back into the shadow on the left. Small black pepper particles and a slight powder mist float in the air. The pepper grinder mantis stays in place, forelimbs raised high, like a calm, victorious night watchman.
+
+Timeline Storyboard
+0–3 seconds:
+Ultra-close-up macro shot. The silver pepper grinder mantis walks slowly on the kitchen countertop, surrounded by breadcrumbs, salt grains, and herb fragments. The metal surface has soft reflections, and the mantis legs move realistically and naturally.
+
+3–6 seconds:
+In the shadow on the left, a brown cockroach suddenly appears and quickly approaches the pepper grinder mantis. The camera follows slightly, creating a sense of tension. The two sides have a brief confrontation in a small open space.
+
+6–7 seconds:
+The top of the pepper grinder suddenly turns quickly, making a mechanical friction sound. A large amount of black pepper powder sprays out suddenly, forming a dense granular black spray, hitting the cockroach head-on.
+
+7–10 seconds:
+The cockroach retreats in panic after being stimulated by the pepper powder, quickly escapes back into the shadow on the left and disappears. Black pepper dust floats in the air. The pepper grinder mantis remains still, forelimbs raised, guarding the spot like a victor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mechanical Pepper Grinder Mantis Duel">
+
+**[🎬 觀看視頻 →](https://x.com/jesselaunz/status/2084153849326309450)**
+
+**作者:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **來源:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **發布時間:** Aug 3, 2026
+
+---
+### Sharks on Surfboards Band Performance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt for generating bootleg-style footage of a shark rock band performing on surfboards in a dive bar setting.
+
+#### 📝 提示詞
+
+```
+Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," real sharks somehow balanced on boards and shredding guitars with their fins, hisses a brief hello before tearing into their thrashing single, "Chum Bucket."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Sharks on Surfboards Band Performance">
+
+**[🎬 觀看視頻 →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
+
+**作者:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **來源:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **發布時間:** Aug 3, 2026
+
+---
 ### Luxury Toddler Fashion Commercial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2965,51 +3020,13 @@ RGB 故障，
 **作者:** [Yan](https://x.com/YanStudioX) | **來源:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **發布時間:** Jun 6, 2026
 
 ---
-### Final Fantasy 7 場景增強
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個應粉絲要求為 Gemini Omni Flash 設計的場景修改提示詞，旨在將多位 Final Fantasy 7 角色加入到居家場景中，並執行如踢足球等特定動作。
-
-#### 📝 提示詞
-
-```
-將 Final Fantasy 7 的 Cloud 和 Tifa 加入到搖椅上。同時，將 Final Fantasy 7 的 Barret 和 Red XIII 加入到此場景中進行踢足球的動作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53ace4b4476c971aeff4ee79b79b25c3/thumbnails/thumbnail.jpg" width="600" alt="Final Fantasy 7 場景增強">
-
-**[🎬 觀看視頻 →](https://x.com/bevelez/status/2063316810049679643)**
-
-**作者:** [Brandon Edward Velez](https://x.com/bevelez) | **來源:** [Link](https://x.com/bevelez/status/2063316810049679643) | **發布時間:** Jun 6, 2026
-
----
-### 電影級野生動物花豹追蹤鏡頭
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一款為 Gemini Omni 設計的高保真野生動物攝影提示詞，旨在生成一段花豹在霧氣繚繞的叢林中行走的追蹤鏡頭，並呈現逼真的光影效果與露珠細節。
-
-#### 📝 提示詞
-
-```
-一隻花豹在黎明時分悄無聲息地穿過霧氣繚繞的叢林。露珠從葉片上滴落，陽光透過樹木灑下，攝影機在動物身旁進行追蹤拍攝。國家地理頻道風格，超逼真野生動物影像
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9dd1af9dd9efab6e01650a79e6afa08/thumbnails/thumbnail.jpg" width="600" alt="電影級野生動物花豹追蹤鏡頭">
-
-**[🎬 觀看視頻 →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
-
-**作者:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **來源:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **發布時間:** Jun 6, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 46 更多提示詞未在此顯示
+### 🎯 48 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3055,6 +3072,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-03T06:58:13.960Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-03T11:20:59.026Z</sub>
 
 </div>

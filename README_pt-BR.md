@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **146** |
+| 📝 Total de prompts | **148** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-08-03** |
 
@@ -56,6 +56,61 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Mechanical Pepper Grinder Mantis Duel
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed cinematic video prompt for Gemini Omni featuring a mechanical mantis made from a pepper grinder fighting a cockroach in a kitchen.
+
+#### 📝 Prompt
+
+```
+Macro cinematic lens, the night kitchen countertop is shot like a vast metal wasteland. Breadcrumbs, salt grains, and herb fragments are scattered on the countertop like rocks and bushes. The main character is a peculiar 'pepper grinder mantis': the body is a small silver stainless steel pepper grinder, tilted vertically forward, with slender realistic mantis legs growing from the bottom and sides, and two iconic sickle-shaped raptorial forelimbs in front. It has no normal insect head; the main body is the pepper grinder itself, moving cautiously and mechanically.
+
+A shiny brown cockroach slowly crawls out from the shadow of a napkin on the left, quickly approaching the pepper grinder mantis. The air is tense, like a late-night kitchen duel. The pepper grinder mantis suddenly stops, its body lifting slightly as if locking onto a target. Then it suddenly turns the top grinding head, making a crisp mechanical sound, and a large amount of black pepper fragments spray out from the top and front like a smoke bomb, hitting the cockroach directly.
+
+The cockroach is choked by the pepper, retreats in panic, its antennae waving wildly, its feet slipping, and quickly retreats back into the shadow on the left. Small black pepper particles and a slight powder mist float in the air. The pepper grinder mantis stays in place, forelimbs raised high, like a calm, victorious night watchman.
+
+Timeline Storyboard
+0–3 seconds:
+Ultra-close-up macro shot. The silver pepper grinder mantis walks slowly on the kitchen countertop, surrounded by breadcrumbs, salt grains, and herb fragments. The metal surface has soft reflections, and the mantis legs move realistically and naturally.
+
+3–6 seconds:
+In the shadow on the left, a brown cockroach suddenly appears and quickly approaches the pepper grinder mantis. The camera follows slightly, creating a sense of tension. The two sides have a brief confrontation in a small open space.
+
+6–7 seconds:
+The top of the pepper grinder suddenly turns quickly, making a mechanical friction sound. A large amount of black pepper powder sprays out suddenly, forming a dense granular black spray, hitting the cockroach head-on.
+
+7–10 seconds:
+The cockroach retreats in panic after being stimulated by the pepper powder, quickly escapes back into the shadow on the left and disappears. Black pepper dust floats in the air. The pepper grinder mantis remains still, forelimbs raised, guarding the spot like a victor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mechanical Pepper Grinder Mantis Duel">
+
+**[🎬 Assistir vídeo →](https://x.com/jesselaunz/status/2084153849326309450)**
+
+**Autor:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Fonte:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Publicado:** Aug 3, 2026
+
+---
+### Sharks on Surfboards Band Performance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt for generating bootleg-style footage of a shark rock band performing on surfboards in a dive bar setting.
+
+#### 📝 Prompt
+
+```
+Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," real sharks somehow balanced on boards and shredding guitars with their fins, hisses a brief hello before tearing into their thrashing single, "Chum Bucket."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Sharks on Surfboards Band Performance">
+
+**[🎬 Assistir vídeo →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
+
+**Autor:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Fonte:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **Publicado:** Aug 3, 2026
+
+---
 ### Luxury Toddler Fashion Commercial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2958,51 +3013,13 @@ Palavra por palavra, uma palavra na tela por vez (exceto para Summarize your voi
 **Autor:** [Yan](https://x.com/YanStudioX) | **Fonte:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **Publicado:** Jun 6, 2026
 
 ---
-### Aprimoramento de cena de Final Fantasy 7
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de modificação de cena solicitado por fãs para o Gemini Omni Flash, que adiciona vários personagens de Final Fantasy 7 a uma cena doméstica com ações específicas, como jogar futebol.
-
-#### 📝 Prompt
-
-```
-Adicione Cloud e Tifa de Final Fantasy 7 sentados nas cadeiras de balanço. Adicione também Barret e Red XIII de Final Fantasy 7 jogando futebol a esta cena.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53ace4b4476c971aeff4ee79b79b25c3/thumbnails/thumbnail.jpg" width="600" alt="Aprimoramento de cena de Final Fantasy 7">
-
-**[🎬 Assistir vídeo →](https://x.com/bevelez/status/2063316810049679643)**
-
-**Autor:** [Brandon Edward Velez](https://x.com/bevelez) | **Fonte:** [Link](https://x.com/bevelez/status/2063316810049679643) | **Publicado:** Jun 6, 2026
-
----
-### Tomada cinematográfica de rastreamento de leopardo na vida selvagem
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de cinematografia de vida selvagem de alta fidelidade projetado para o Gemini Omni gerar uma tomada de rastreamento de um leopardo em uma selva enevoada com iluminação realista e gotas de orvalho.
-
-#### 📝 Prompt
-
-```
-Um leopardo caminha silenciosamente por uma selva enevoada ao amanhecer. Gotas de orvalho caem das folhas, a luz do sol filtra-se através das árvores e a câmera acompanha o animal. Estilo National Geographic, filmagem de vida selvagem ultrarrealista
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9dd1af9dd9efab6e01650a79e6afa08/thumbnails/thumbnail.jpg" width="600" alt="Tomada cinematográfica de rastreamento de leopardo na vida selvagem">
-
-**[🎬 Assistir vídeo →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
-
-**Autor:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **Fonte:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **Publicado:** Jun 6, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 46 mais prompts não mostrados aqui
+### 🎯 48 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3048,6 +3065,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-03T06:58:30.292Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-03T11:21:13.632Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **146** |
+| 📝 총 프롬프트 수 | **148** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-08-03** |
 
@@ -56,6 +56,61 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Mechanical Pepper Grinder Mantis Duel
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly detailed cinematic video prompt for Gemini Omni featuring a mechanical mantis made from a pepper grinder fighting a cockroach in a kitchen.
+
+#### 📝 프롬프트
+
+```
+Macro cinematic lens, the night kitchen countertop is shot like a vast metal wasteland. Breadcrumbs, salt grains, and herb fragments are scattered on the countertop like rocks and bushes. The main character is a peculiar 'pepper grinder mantis': the body is a small silver stainless steel pepper grinder, tilted vertically forward, with slender realistic mantis legs growing from the bottom and sides, and two iconic sickle-shaped raptorial forelimbs in front. It has no normal insect head; the main body is the pepper grinder itself, moving cautiously and mechanically.
+
+A shiny brown cockroach slowly crawls out from the shadow of a napkin on the left, quickly approaching the pepper grinder mantis. The air is tense, like a late-night kitchen duel. The pepper grinder mantis suddenly stops, its body lifting slightly as if locking onto a target. Then it suddenly turns the top grinding head, making a crisp mechanical sound, and a large amount of black pepper fragments spray out from the top and front like a smoke bomb, hitting the cockroach directly.
+
+The cockroach is choked by the pepper, retreats in panic, its antennae waving wildly, its feet slipping, and quickly retreats back into the shadow on the left. Small black pepper particles and a slight powder mist float in the air. The pepper grinder mantis stays in place, forelimbs raised high, like a calm, victorious night watchman.
+
+Timeline Storyboard
+0–3 seconds:
+Ultra-close-up macro shot. The silver pepper grinder mantis walks slowly on the kitchen countertop, surrounded by breadcrumbs, salt grains, and herb fragments. The metal surface has soft reflections, and the mantis legs move realistically and naturally.
+
+3–6 seconds:
+In the shadow on the left, a brown cockroach suddenly appears and quickly approaches the pepper grinder mantis. The camera follows slightly, creating a sense of tension. The two sides have a brief confrontation in a small open space.
+
+6–7 seconds:
+The top of the pepper grinder suddenly turns quickly, making a mechanical friction sound. A large amount of black pepper powder sprays out suddenly, forming a dense granular black spray, hitting the cockroach head-on.
+
+7–10 seconds:
+The cockroach retreats in panic after being stimulated by the pepper powder, quickly escapes back into the shadow on the left and disappears. Black pepper dust floats in the air. The pepper grinder mantis remains still, forelimbs raised, guarding the spot like a victor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mechanical Pepper Grinder Mantis Duel">
+
+**[🎬 비디오 보기 →](https://x.com/jesselaunz/status/2084153849326309450)**
+
+**작성자:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **출처:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **게시일:** Aug 3, 2026
+
+---
+### Sharks on Surfboards Band Performance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt for generating bootleg-style footage of a shark rock band performing on surfboards in a dive bar setting.
+
+#### 📝 프롬프트
+
+```
+Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," real sharks somehow balanced on boards and shredding guitars with their fins, hisses a brief hello before tearing into their thrashing single, "Chum Bucket."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Sharks on Surfboards Band Performance">
+
+**[🎬 비디오 보기 →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
+
+**작성자:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **출처:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **게시일:** Aug 3, 2026
+
+---
 ### Luxury Toddler Fashion Commercial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2952,51 +3007,13 @@ Ginza Six에 걸어 들어가서 에스컬레이터를 타고 6층의 새로운 
 **작성자:** [Yan](https://x.com/YanStudioX) | **출처:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **게시일:** Jun 6, 2026
 
 ---
-### Final Fantasy 7 장면 강화
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni Flash를 위한 팬 요청 장면 수정 프롬프트로, Final Fantasy 7의 캐릭터들을 축구와 같은 특정 동작을 하는 일상적인 장면에 추가합니다.
-
-#### 📝 프롬프트
-
-```
-흔들의자에 앉아 있는 Final Fantasy 7의 Cloud와 Tifa를 이 장면에 추가해 줘. 또한 Final Fantasy 7의 Barret과 Red XIII가 축구하는 모습도 추가해 줘.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/53ace4b4476c971aeff4ee79b79b25c3/thumbnails/thumbnail.jpg" width="600" alt="Final Fantasy 7 장면 강화">
-
-**[🎬 비디오 보기 →](https://x.com/bevelez/status/2063316810049679643)**
-
-**작성자:** [Brandon Edward Velez](https://x.com/bevelez) | **출처:** [Link](https://x.com/bevelez/status/2063316810049679643) | **게시일:** Jun 6, 2026
-
----
-### 영화 같은 야생 표범 추적 촬영
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni를 위해 설계된 고품질 야생 동물 촬영 프롬프트로, 안개 낀 정글 속 표범의 모습을 사실적인 조명과 이슬방울과 함께 추적 촬영하는 영상을 생성합니다.
-
-#### 📝 프롬프트
-
-```
-새벽, 안개 낀 정글을 조용히 걷는 표범. 나뭇잎에서 이슬방울이 떨어지고 나무 사이로 햇살이 비치며, 카메라는 동물의 옆을 따라 이동합니다. 내셔널 지오그래픽 스타일의 초현실적인 야생 동물 영상
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f9dd1af9dd9efab6e01650a79e6afa08/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 야생 표범 추적 촬영">
-
-**[🎬 비디오 보기 →](https://x.com/EcoVibeExplorer/status/2063306931725619680)**
-
-**작성자:** [Eco Vibes 🌍](https://x.com/EcoVibeExplorer) | **출처:** [Link](https://x.com/EcoVibeExplorer/status/2063306931725619680) | **게시일:** Jun 6, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 46 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 48 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3042,6 +3059,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-03T06:58:16.891Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-03T11:21:00.931Z</sub>
 
 </div>
