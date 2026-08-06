@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **148** |
+| 📝 총 프롬프트 수 | **151** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-08-06** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Artistic Ink Landscape Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+
+#### 📝 프롬프트
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2085178634067923397)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **게시일:** Aug 6, 2026
+
+---
+### High-Energy Match Cut Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+
+#### 📝 프롬프트
+
+```
+generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+
+**[🎬 비디오 보기 →](https://x.com/ViralOps_/status/2085069575700246678)**
+
+**작성자:** [ViralOps](https://x.com/ViralOps_) | **출처:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **게시일:** Aug 5, 2026
+
+---
+### Traditional Sumo Rikishi Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+
+#### 📝 프롬프트
+
+```
+Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+
+**[🎬 비디오 보기 →](https://x.com/222TT222/status/2085036219894026485)**
+
+**작성자:** [TakTempest](https://x.com/222TT222) | **출처:** [Link](https://x.com/222TT222/status/2085036219894026485) | **게시일:** Aug 5, 2026
+
+---
 ### Mechanical Pepper Grinder Mantis Kitchen Duel
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2943,70 +3000,13 @@ Ginza Six에 걸어 들어가서 에스컬레이터를 타고 6층의 새로운 
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **게시일:** Jun 7, 2026
 
 ---
-### 수중 판타지 도시 팬(Pan) 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 현대적인 도시에서 정교한 수중 판타지 세계로 매끄럽게 전환되는 시네마틱 카메라 팬(Pan) 영상입니다.
-
-#### 📝 프롬프트
-
-```
-카메라가 도시를 향해 아래로 이동함에 따라, 건물들이 지하와 수중으로 이어지며 비밀스러운 판타지 도시로 정교하고 매끄럽게 연결되는 모습을 볼 수 있습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/566a148a54d3afc81db5cb50f35f8474/thumbnails/thumbnail.jpg" width="600" alt="수중 판타지 도시 팬(Pan) 영상">
-
-**[🎬 비디오 보기 →](https://x.com/Team_Greenfield/status/2063646327523975345)**
-
-**작성자:** [Greenfield Team!](https://x.com/Team_Greenfield) | **출처:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **게시일:** Jun 7, 2026
-
----
-### 비트에 맞춰 애니메이션되는 텍스트 릴
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 비트에 맞춰 완벽하게 동기화된 독특한 애니메이션으로 텍스트가 단어별로 나타나는 스타일리시하고 실험적인 시즐 릴을 만들기 위한 Gemini Omni 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-다음 단어들을 화면에 하나씩 표시하세요: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?'. 각 단어는 고유한 애니메이션과 함께 나타나야 하며, 비트에 완벽하게 동기화된 부드러운 템포로 전개되어야 합니다. 전체적인 결과물은 텍스트 표현의 품질을 강조하면서도 스타일리시하고 실험적이며 접근하기 쉬운 짧고 에너지가 넘치는 시즐 릴이어야 합니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85e7b9ee81f0fe8c4234867d080596fc/thumbnails/thumbnail.jpg" width="600" alt="비트에 맞춰 애니메이션되는 텍스트 릴">
-
-**[🎬 비디오 보기 →](https://x.com/takamasa045/status/2063442373917446515)**
-
-**작성자:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **출처:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **게시일:** Jun 7, 2026
-
----
-### Gemini Omni 마케팅 시즐 릴(Sizzle Reel) 프롬프트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 전문적인 시즐 릴 제작을 위해 단어별 텍스트 동기화와 애니메이션 스타일을 정밀하게 제어하는 마케팅 영상 특화 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-단어별로 한 번에 한 단어씩 화면에 표시 (Summarize your voice 제외): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. 각 단어는 서로 다른 애니메이션 스타일과 완벽한 리듬으로 나타나며, 시즐 릴 제작에 최적화되어 있습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0af65cac11b6060ebca9c8c4af81df/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni 마케팅 시즐 릴(Sizzle Reel) 프롬프트">
-
-**[🎬 비디오 보기 →](https://x.com/YanStudioX/status/2063341254612824307)**
-
-**작성자:** [Yan](https://x.com/YanStudioX) | **출처:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **게시일:** Jun 6, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 48 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 51 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3052,6 +3052,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-06T06:28:54.081Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-06T10:36:36.134Z</sub>
 
 </div>

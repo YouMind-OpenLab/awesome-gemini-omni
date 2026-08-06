@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **148** |
+| 📝 Toplam İstem | **151** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-06** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Artistic Ink Landscape Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+
+#### 📝 İstem
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2085178634067923397)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **Yayınlandı:** Aug 6, 2026
+
+---
+### High-Energy Match Cut Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+
+#### 📝 İstem
+
+```
+generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+
+**[🎬 Videoyu izle →](https://x.com/ViralOps_/status/2085069575700246678)**
+
+**Yazar:** [ViralOps](https://x.com/ViralOps_) | **Kaynak:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **Yayınlandı:** Aug 5, 2026
+
+---
+### Traditional Sumo Rikishi Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+
+#### 📝 İstem
+
+```
+Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+
+**[🎬 Videoyu izle →](https://x.com/222TT222/status/2085036219894026485)**
+
+**Yazar:** [TakTempest](https://x.com/222TT222) | **Kaynak:** [Link](https://x.com/222TT222/status/2085036219894026485) | **Yayınlandı:** Aug 5, 2026
+
+---
 ### Mechanical Pepper Grinder Mantis Kitchen Duel
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2919,70 +2976,13 @@ Ultra gerçekçi, ürkütücü kadın figürü duvara tutunmuş, yarı yatay yar
 **Yazar:** [Rahul Nanda](https://x.com/rahulnanda86) | **Kaynak:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Yayınlandı:** Jun 7, 2026
 
 ---
-### Sualtı Fantastik Şehir Panoraması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Modern bir şehirden karmaşık bir sualtı fantastik dünyasına kesintisiz geçişi gösteren sinematik bir kamera hareketi.
-
-#### 📝 İstem
-
-```
-Kamera şehre ve aşağıya doğru hareket ettikçe, binaların yer altında ve suyun altında gizli bir fantastik şehrin ayrıntılı ama kesintisiz bir devamı olarak uzandığını görüyoruz.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/566a148a54d3afc81db5cb50f35f8474/thumbnails/thumbnail.jpg" width="600" alt="Sualtı Fantastik Şehir Panoraması">
-
-**[🎬 Videoyu izle →](https://x.com/Team_Greenfield/status/2063646327523975345)**
-
-**Yazar:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Kaynak:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **Yayınlandı:** Jun 7, 2026
-
----
-### Müzikle Senkronize Hareketli Metin Reels
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Metinlerin kelime kelime, benzersiz animasyonlarla ve ritimle mükemmel bir şekilde senkronize olarak belirdiği, şık ve deneysel bir tanıtım videosu (sizzle reel) oluşturmaya yönelik bir Gemini Omni istemi.
-
-#### 📝 İstem
-
-```
-Aşağıdaki kelimeleri ekranda sırasıyla göster: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?'. Her kelime benzersiz bir animasyonla belirmeli ve ritimle mükemmel şekilde senkronize, akıcı bir tempoda gelişmelidir. Genel sonuç; metin ifadesinin kalitesini vurgulayan, şık, deneysel ancak anlaşılır, kısa ve yüksek enerjili bir tanıtım videosu olmalıdır.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85e7b9ee81f0fe8c4234867d080596fc/thumbnails/thumbnail.jpg" width="600" alt="Müzikle Senkronize Hareketli Metin Reels">
-
-**[🎬 Videoyu izle →](https://x.com/takamasa045/status/2063442373917446515)**
-
-**Yazar:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **Kaynak:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **Yayınlandı:** Jun 7, 2026
-
----
-### Gemini Omni Pazarlama Tanıtım Filmi İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Profesyonel bir tanıtım filmi oluşturmak için kelime bazlı metin senkronizasyonunu ve animasyon stillerini hassas bir şekilde kontrol eden, pazarlama videolarına yönelik özel bir istem.
-
-#### 📝 İstem
-
-```
-Kelime kelime, ekranda her seferinde tek bir kelime (Summarize your voice hariç): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. Her kelime farklı bir animasyon stili, mükemmel bir ritim ve tanıtım filmi havasıyla belirir.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0af65cac11b6060ebca9c8c4af81df/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni Pazarlama Tanıtım Filmi İstemi">
-
-**[🎬 Videoyu izle →](https://x.com/YanStudioX/status/2063341254612824307)**
-
-**Yazar:** [Yan](https://x.com/YanStudioX) | **Kaynak:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **Yayınlandı:** Jun 6, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 48 burada gösterilmeyen daha fazla istem
+### 🎯 51 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3028,6 +3028,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-06T06:29:07.936Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-06T10:36:47.948Z</sub>
 
 </div>

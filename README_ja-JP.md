@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **148** |
+| 📝 プロンプト総数 | **151** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-08-06** |
 
@@ -56,6 +56,63 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### Artistic Ink Landscape Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+
+#### 📝 プロンプト
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+
+**[🎬 動画を見る →](https://x.com/MrDasOnX/status/2085178634067923397)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **公開日:** Aug 6, 2026
+
+---
+### High-Energy Match Cut Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+
+#### 📝 プロンプト
+
+```
+generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+
+**[🎬 動画を見る →](https://x.com/ViralOps_/status/2085069575700246678)**
+
+**作者:** [ViralOps](https://x.com/ViralOps_) | **ソース:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **公開日:** Aug 5, 2026
+
+---
+### Traditional Sumo Rikishi Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+
+#### 📝 プロンプト
+
+```
+Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+
+**[🎬 動画を見る →](https://x.com/222TT222/status/2085036219894026485)**
+
+**作者:** [TakTempest](https://x.com/222TT222) | **ソース:** [Link](https://x.com/222TT222/status/2085036219894026485) | **公開日:** Aug 5, 2026
+
+---
 ### Mechanical Pepper Grinder Mantis Kitchen Duel
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2944,70 +3001,13 @@ Ginza Six に入店し、エスカレーターで 6 階の新しいカフェへ�
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **ソース:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **公開日:** Jun 7, 2026
 
 ---
-### 水中ファンタジー都市のパン撮影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 都会から精巧な水中ファンタジー世界へとシームレスに切り替わる、映画のようなカメラパン映像。
-
-#### 📝 プロンプト
-
-```
-カメラが都市に向かってパンし、下降していくにつれ、建物が地下や水中へと続き、秘密のファンタジー都市として精巧かつシームレスに展開していく様子が映し出されます。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/566a148a54d3afc81db5cb50f35f8474/thumbnails/thumbnail.jpg" width="600" alt="水中ファンタジー都市のパン撮影">
-
-**[🎬 動画を見る →](https://x.com/Team_Greenfield/status/2063646327523975345)**
-
-**作者:** [Greenfield Team!](https://x.com/Team_Greenfield) | **ソース:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **公開日:** Jun 7, 2026
-
----
-### ビートに同期したアニメーションテキストリール
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> ビートに完璧に同期したユニークなアニメーションで、テキストを単語ごとに表示するスタイリッシュで実験的なシズルリールを作成するための Gemini Omni プロンプトです。
-
-#### 📝 プロンプト
-
-```
-以下の単語を画面に 1 つずつ表示してください：「Did you know?」 / 「Gemini Omni」 / 「This model」 / 「Japanese too」 / 「is quite」 / 「good!?」。各単語はユニークなアニメーションで表示し、ビートに完璧に同期したスムーズなテンポで展開させてください。全体として、スタイリッシュかつ実験的でありながら親しみやすく、テキスト表現のクオリティを際立たせた、短くエネルギッシュなシズルリールに仕上げてください。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85e7b9ee81f0fe8c4234867d080596fc/thumbnails/thumbnail.jpg" width="600" alt="ビートに同期したアニメーションテキストリール">
-
-**[🎬 動画を見る →](https://x.com/takamasa045/status/2063442373917446515)**
-
-**作者:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **ソース:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **公開日:** Jun 7, 2026
-
----
-### Gemini Omni マーケティング用シズルリールプロンプト
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 単語ごとのテキスト同期とアニメーションスタイルを精密に制御し、プロフェッショナルなシズルリールを作成するためのマーケティング動画専用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-単語ごとに、一度に 1 単語ずつ画面に表示（「Summarize your voice」を除く）：Whatsapp、Telegram、Summarize your voice、Hear、Type、HearType。各単語が異なるアニメーションスタイルで表示され、完璧なリズムでシズルリールを演出します。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0af65cac11b6060ebca9c8c4af81df/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni マーケティング用シズルリールプロンプト">
-
-**[🎬 動画を見る →](https://x.com/YanStudioX/status/2063341254612824307)**
-
-**作者:** [Yan](https://x.com/YanStudioX) | **ソース:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **公開日:** Jun 6, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 48 さらに多くのプロンプトがあります
+### 🎯 51 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3053,6 +3053,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-06T06:28:53.057Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-06T10:36:35.131Z</sub>
 
 </div>

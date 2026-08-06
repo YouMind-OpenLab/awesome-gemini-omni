@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **148** |
+| 📝 提示词总数 | **151** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-08-06** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Artistic Ink Landscape Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+
+#### 📝 提示词
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2085178634067923397)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **发布时间:** Aug 6, 2026
+
+---
+### High-Energy Match Cut Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+
+#### 📝 提示词
+
+```
+generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+
+**[🎬 观看视频 →](https://x.com/ViralOps_/status/2085069575700246678)**
+
+**作者:** [ViralOps](https://x.com/ViralOps_) | **来源:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **发布时间:** Aug 5, 2026
+
+---
+### Traditional Sumo Rikishi Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+
+#### 📝 提示词
+
+```
+Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+
+**[🎬 观看视频 →](https://x.com/222TT222/status/2085036219894026485)**
+
+**作者:** [TakTempest](https://x.com/222TT222) | **来源:** [Link](https://x.com/222TT222/status/2085036219894026485) | **发布时间:** Aug 5, 2026
+
+---
 ### Mechanical Pepper Grinder Mantis Kitchen Duel
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2949,70 +3006,13 @@ Gada 在没有支撑的情况下完美保持平衡。
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **来源:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **发布时间:** Jun 7, 2026
 
 ---
-### 水下奇幻城市平移镜头
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段电影级的平移镜头，展示了从现代都市到精致水下奇幻世界的无缝过渡。
-
-#### 📝 提示词
-
-```
-随着镜头向城市方向平移并下潜，我们看到建筑在地下和水下延伸，呈现出一座精致且充满奇幻色彩的秘密城市，整个过程衔接自然、浑然一体。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/566a148a54d3afc81db5cb50f35f8474/thumbnails/thumbnail.jpg" width="600" alt="水下奇幻城市平移镜头">
-
-**[🎬 观看视频 →](https://x.com/Team_Greenfield/status/2063646327523975345)**
-
-**作者:** [Greenfield Team!](https://x.com/Team_Greenfield) | **来源:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **发布时间:** Jun 7, 2026
-
----
-### 动感节拍同步文字短片
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个用于创建时尚且具有实验性宣传短片的 Gemini Omni 提示词，通过独特的动画效果，让文字逐词出现并与节拍完美同步。
-
-#### 📝 提示词
-
-```
-请在屏幕上依次显示以下词语：“Did you know?” / “Gemini Omni” / “This model” / “Japanese too” / “is quite” / “good!?”。每个词都应配有独特的动画效果，并以与节拍完美同步的流畅节奏呈现。最终效果应为一个短小、高能、时尚且具有实验性但又不失易读性的宣传短片，以突显文字表现的质量。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85e7b9ee81f0fe8c4234867d080596fc/thumbnails/thumbnail.jpg" width="600" alt="动感节拍同步文字短片">
-
-**[🎬 观看视频 →](https://x.com/takamasa045/status/2063442373917446515)**
-
-**作者:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **来源:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **发布时间:** Jun 7, 2026
-
----
-### Gemini Omni 营销宣传片提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个专为营销视频设计的提示词，可精确控制逐词文本同步和动画风格，从而制作出专业的宣传片。
-
-#### 📝 提示词
-
-```
-逐词显示，屏幕一次只出现一个单词（“Summarize your voice” 除外）：Whatsapp、Telegram、Summarize your voice、Hear、Type、HearType。每个单词都以不同的动画风格呈现，节奏完美，打造震撼的宣传片。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0af65cac11b6060ebca9c8c4af81df/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni 营销宣传片提示词">
-
-**[🎬 观看视频 →](https://x.com/YanStudioX/status/2063341254612824307)**
-
-**作者:** [Yan](https://x.com/YanStudioX) | **来源:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **发布时间:** Jun 6, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 48 更多提示词未在此显示
+### 🎯 51 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3058,6 +3058,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-06T06:28:51.063Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-06T10:36:32.903Z</sub>
 
 </div>

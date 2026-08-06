@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **148** |
+| 📝 Gesamtanzahl Prompts | **151** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-06** |
 
@@ -56,6 +56,63 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Artistic Ink Landscape Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+
+#### 📝 Prompt
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2085178634067923397)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **Veröffentlicht:** Aug 6, 2026
+
+---
+### High-Energy Match Cut Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+
+#### 📝 Prompt
+
+```
+generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+
+**[🎬 Video ansehen →](https://x.com/ViralOps_/status/2085069575700246678)**
+
+**Autor:** [ViralOps](https://x.com/ViralOps_) | **Quelle:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **Veröffentlicht:** Aug 5, 2026
+
+---
+### Traditional Sumo Rikishi Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+
+#### 📝 Prompt
+
+```
+Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+
+**[🎬 Video ansehen →](https://x.com/222TT222/status/2085036219894026485)**
+
+**Autor:** [TakTempest](https://x.com/222TT222) | **Quelle:** [Link](https://x.com/222TT222/status/2085036219894026485) | **Veröffentlicht:** Aug 5, 2026
+
+---
 ### Mechanical Pepper Grinder Mantis Kitchen Duel
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2945,70 +3002,13 @@ Ultrarealistische, unheimliche weibliche Gestalt, die an der Wand klebt, halb ho
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Quelle:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Veröffentlicht:** Jun 7, 2026
 
 ---
-### Kamerafahrt durch eine Unterwasser-Fantasiestadt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine filmische Kamerafahrt, die einen nahtlosen Übergang von einer urbanen Stadt zu einer aufwendigen Unterwasser-Fantasiewelt zeigt.
-
-#### 📝 Prompt
-
-```
-Während die Kamera auf die Stadt zufährt und nach unten schwenkt, sehen wir, wie sich die Gebäude unter der Erde und unter Wasser als eine fantastische, aufwendige, aber nahtlose Fortsetzung einer geheimen Fantasiestadt fortsetzen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/566a148a54d3afc81db5cb50f35f8474/thumbnails/thumbnail.jpg" width="600" alt="Kamerafahrt durch eine Unterwasser-Fantasiestadt">
-
-**[🎬 Video ansehen →](https://x.com/Team_Greenfield/status/2063646327523975345)**
-
-**Autor:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Quelle:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **Veröffentlicht:** Jun 7, 2026
-
----
-### Animiertes, beat-synchrones Text-Reel
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Gemini Omni-Prompt zur Erstellung eines stylischen und experimentellen Sizzle-Reels, bei dem Text Wort für Wort mit einzigartigen, perfekt auf den Beat abgestimmten Animationen erscheint.
-
-#### 📝 Prompt
-
-```
-Lasse die folgenden Wörter nacheinander auf dem Bildschirm erscheinen: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?'. Jedes Wort sollte mit einer einzigartigen Animation erscheinen und sich in einem flüssigen, perfekt auf den Beat abgestimmten Tempo entwickeln. Das Gesamtergebnis sollte ein kurzes, energiegeladenes Sizzle-Reel sein, das stylisch und experimentell, aber dennoch zugänglich ist und die Qualität der Textdarstellung hervorhebt.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85e7b9ee81f0fe8c4234867d080596fc/thumbnails/thumbnail.jpg" width="600" alt="Animiertes, beat-synchrones Text-Reel">
-
-**[🎬 Video ansehen →](https://x.com/takamasa045/status/2063442373917446515)**
-
-**Autor:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **Quelle:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **Veröffentlicht:** Jun 7, 2026
-
----
-### Gemini Omni Marketing Sizzle Reel Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein spezialisierter Prompt für Marketing-Videos, der eine präzise Wort-für-Wort-Synchronisation und animierte Stile steuert, um ein professionelles Sizzle Reel zu erstellen.
-
-#### 📝 Prompt
-
-```
-Wort für Wort, jeweils ein Wort auf dem Bildschirm (außer bei „Summarize your voice“): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. Jedes Wort erscheint mit einem anderen animierten Stil, perfektem Rhythmus, Sizzle Reel.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0af65cac11b6060ebca9c8c4af81df/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni Marketing Sizzle Reel Prompt">
-
-**[🎬 Video ansehen →](https://x.com/YanStudioX/status/2063341254612824307)**
-
-**Autor:** [Yan](https://x.com/YanStudioX) | **Quelle:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **Veröffentlicht:** Jun 6, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 48 weitere Prompts hier nicht angezeigt
+### 🎯 51 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3054,6 +3054,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-06T06:29:01.075Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-06T10:36:43.202Z</sub>
 
 </div>

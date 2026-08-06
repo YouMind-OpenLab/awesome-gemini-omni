@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **148** |
+| 📝 Tổng số prompt | **151** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-06** |
 
@@ -56,6 +56,63 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Artistic Ink Landscape Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+
+#### 📝 Prompt
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2085178634067923397)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **Đã xuất bản:** Aug 6, 2026
+
+---
+### High-Energy Match Cut Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+
+#### 📝 Prompt
+
+```
+generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+
+**[🎬 Xem video →](https://x.com/ViralOps_/status/2085069575700246678)**
+
+**Tác giả:** [ViralOps](https://x.com/ViralOps_) | **Nguồn:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **Đã xuất bản:** Aug 5, 2026
+
+---
+### Traditional Sumo Rikishi Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+
+#### 📝 Prompt
+
+```
+Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+
+**[🎬 Xem video →](https://x.com/222TT222/status/2085036219894026485)**
+
+**Tác giả:** [TakTempest](https://x.com/222TT222) | **Nguồn:** [Link](https://x.com/222TT222/status/2085036219894026485) | **Đã xuất bản:** Aug 5, 2026
+
+---
 ### Mechanical Pepper Grinder Mantis Kitchen Duel
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2895,70 +2952,13 @@ Hình ảnh người phụ nữ kỳ quái, siêu thực đang bám vào tườn
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Đã xuất bản:** Jun 7, 2026
 
 ---
-### Cảnh quay lia toàn cảnh thành phố giả tưởng dưới nước
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một cảnh quay lia máy điện ảnh cho thấy sự chuyển cảnh mượt mà từ một thành phố đô thị sang một thế giới giả tưởng dưới nước đầy công phu.
-
-#### 📝 Prompt
-
-```
-Khi máy quay lia về phía thành phố và hướng xuống dưới, chúng ta thấy các tòa nhà tiếp tục kéo dài xuống lòng đất và dưới nước, tạo thành một sự tiếp nối liền mạch, công phu và đầy chất giả tưởng của một thành phố bí mật.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/566a148a54d3afc81db5cb50f35f8474/thumbnails/thumbnail.jpg" width="600" alt="Cảnh quay lia toàn cảnh thành phố giả tưởng dưới nước">
-
-**[🎬 Xem video →](https://x.com/Team_Greenfield/status/2063646327523975345)**
-
-**Tác giả:** [Greenfield Team!](https://x.com/Team_Greenfield) | **Nguồn:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **Đã xuất bản:** Jun 7, 2026
-
----
-### Video ngắn với hiệu ứng chữ chuyển động theo nhịp
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh Gemini Omni giúp tạo video giới thiệu đầy phong cách và thử nghiệm, nơi văn bản xuất hiện theo từng từ với các hiệu ứng chuyển động độc đáo được đồng bộ hoàn hảo với nhịp điệu.
-
-#### 📝 Prompt
-
-```
-Hiển thị lần lượt các từ sau trên màn hình: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?'. Mỗi từ cần xuất hiện với một hiệu ứng chuyển động độc đáo và phát triển theo nhịp độ mượt mà, được đồng bộ hoàn hảo với âm nhạc. Kết quả tổng thể nên là một video giới thiệu ngắn, tràn đầy năng lượng, mang phong cách thử nghiệm nhưng vẫn dễ tiếp cận, làm nổi bật chất lượng của khả năng hiển thị văn bản.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85e7b9ee81f0fe8c4234867d080596fc/thumbnails/thumbnail.jpg" width="600" alt="Video ngắn với hiệu ứng chữ chuyển động theo nhịp">
-
-**[🎬 Xem video →](https://x.com/takamasa045/status/2063442373917446515)**
-
-**Tác giả:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **Nguồn:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **Đã xuất bản:** Jun 7, 2026
-
----
-### Prompt tạo video quảng cáo chuyên nghiệp với Gemini Omni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chuyên dụng dành cho video marketing, giúp kiểm soát chính xác sự đồng bộ hóa văn bản từng từ một và các phong cách hoạt ảnh để tạo nên một video giới thiệu sản phẩm ấn tượng.
-
-#### 📝 Prompt
-
-```
-Từng từ một, mỗi lần chỉ hiển thị một từ trên màn hình (ngoại trừ cụm Summarize your voice): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType. Mỗi từ xuất hiện với một phong cách hoạt ảnh khác nhau, nhịp điệu hoàn hảo, tạo nên một video quảng cáo đầy thu hút.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0af65cac11b6060ebca9c8c4af81df/thumbnails/thumbnail.jpg" width="600" alt="Prompt tạo video quảng cáo chuyên nghiệp với Gemini Omni">
-
-**[🎬 Xem video →](https://x.com/YanStudioX/status/2063341254612824307)**
-
-**Tác giả:** [Yan](https://x.com/YanStudioX) | **Nguồn:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **Đã xuất bản:** Jun 6, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 48 prompt khác không hiển thị ở đây
+### 🎯 51 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3004,6 +3004,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-06T06:28:56.005Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-06T10:36:38.603Z</sub>
 
 </div>

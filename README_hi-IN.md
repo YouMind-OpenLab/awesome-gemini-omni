@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **148** |
+| 📝 कुल प्रॉम्पट्स | **151** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-08-06** |
 
@@ -56,6 +56,63 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Artistic Ink Landscape Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+
+#### 📝 प्रॉम्पट
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+
+**[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2085178634067923397)**
+
+**लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **प्रकाशित:** Aug 6, 2026
+
+---
+### High-Energy Match Cut Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+
+#### 📝 प्रॉम्पट
+
+```
+generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+
+**[🎬 वीडियो देखें →](https://x.com/ViralOps_/status/2085069575700246678)**
+
+**लेखक:** [ViralOps](https://x.com/ViralOps_) | **स्रोत:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **प्रकाशित:** Aug 5, 2026
+
+---
+### Traditional Sumo Rikishi Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+
+#### 📝 प्रॉम्पट
+
+```
+Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+
+**[🎬 वीडियो देखें →](https://x.com/222TT222/status/2085036219894026485)**
+
+**लेखक:** [TakTempest](https://x.com/222TT222) | **स्रोत:** [Link](https://x.com/222TT222/status/2085036219894026485) | **प्रकाशित:** Aug 5, 2026
+
+---
 ### Mechanical Pepper Grinder Mantis Kitchen Duel
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2948,70 +3005,13 @@ Friday हाइप,
 **लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **प्रकाशित:** Jun 7, 2026
 
 ---
-### पानी के नीचे का काल्पनिक शहर पैन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमाई कैमरा पैन जो एक शहरी शहर से पानी के नीचे की एक विस्तृत काल्पनिक दुनिया में सहज बदलाव को दर्शाता है।
-
-#### 📝 प्रॉम्पट
-
-```
-जैसे-जैसे कैमरा शहर की ओर और नीचे की तरफ पैन करता है, हम देखते हैं कि इमारतें भूमिगत और पानी के नीचे एक गुप्त काल्पनिक शहर के रूप में एक शानदार, विस्तृत, लेकिन सहज निरंतरता के साथ जारी रहती हैं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/566a148a54d3afc81db5cb50f35f8474/thumbnails/thumbnail.jpg" width="600" alt="पानी के नीचे का काल्पनिक शहर पैन">
-
-**[🎬 वीडियो देखें →](https://x.com/Team_Greenfield/status/2063646327523975345)**
-
-**लेखक:** [Greenfield Team!](https://x.com/Team_Greenfield) | **स्रोत:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **प्रकाशित:** Jun 7, 2026
-
----
-### बीट के साथ सिंक होने वाला एनिमेटेड टेक्स्ट रील
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक स्टाइलिश और एक्सपेरिमेंटल सिज़ल रील बनाने के लिए Gemini Omni प्रॉम्प्ट, जिसमें टेक्स्ट शब्द-दर-शब्द एक अनोखे एनिमेशन के साथ बीट पर पूरी तरह सिंक होकर दिखाई देता है।
-
-#### 📝 प्रॉम्पट
-
-```
-स्क्रीन पर निम्नलिखित शब्दों को एक-एक करके प्रदर्शित करें: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?'. प्रत्येक शब्द एक अनोखे एनिमेशन के साथ आना चाहिए और बीट के साथ पूरी तरह सिंक होकर एक स्मूथ टेम्पो में विकसित होना चाहिए। कुल मिलाकर परिणाम एक छोटी, हाई-एनर्जी वाली सिज़ल रील होनी चाहिए जो स्टाइलिश और एक्सपेरिमेंटल होने के साथ-साथ समझने में आसान हो, और टेक्स्ट एक्सप्रेशन की गुणवत्ता को उजागर करे।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85e7b9ee81f0fe8c4234867d080596fc/thumbnails/thumbnail.jpg" width="600" alt="बीट के साथ सिंक होने वाला एनिमेटेड टेक्स्ट रील">
-
-**[🎬 वीडियो देखें →](https://x.com/takamasa045/status/2063442373917446515)**
-
-**लेखक:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **स्रोत:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **प्रकाशित:** Jun 7, 2026
-
----
-### Gemini Omni मार्केटिंग सिज़ल रील प्रॉम्प्ट
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> मार्केटिंग वीडियो के लिए एक विशेष प्रॉम्प्ट जो पेशेवर सिज़ल रील बनाने के लिए शब्द-दर-शब्द टेक्स्ट सिंक्रोनाइज़ेशन और एनिमेटेड शैलियों को सटीक रूप से नियंत्रित करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-शब्द-दर-शब्द, स्क्रीन पर एक बार में एक शब्द (Summarize your voice को छोड़कर): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType। प्रत्येक शब्द एक अलग एनिमेटेड शैली, सटीक लय और सिज़ल रील के साथ दिखाई देता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0af65cac11b6060ebca9c8c4af81df/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni मार्केटिंग सिज़ल रील प्रॉम्प्ट">
-
-**[🎬 वीडियो देखें →](https://x.com/YanStudioX/status/2063341254612824307)**
-
-**लेखक:** [Yan](https://x.com/YanStudioX) | **स्रोत:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **प्रकाशित:** Jun 6, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 48 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 51 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3057,6 +3057,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-06T06:28:57.005Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-06T10:36:39.785Z</sub>
 
 </div>

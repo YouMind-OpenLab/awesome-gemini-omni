@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **148** |
+| 📝 พรอมต์ทั้งหมด | **151** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-08-06** |
 
@@ -56,6 +56,63 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### Artistic Ink Landscape Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+
+#### 📝 พรอมต์
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+
+**[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2085178634067923397)**
+
+**ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **เผยแพร่เมื่อ:** Aug 6, 2026
+
+---
+### High-Energy Match Cut Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+
+#### 📝 พรอมต์
+
+```
+generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+
+**[🎬 ดูวิดีโอ →](https://x.com/ViralOps_/status/2085069575700246678)**
+
+**ผู้เขียน:** [ViralOps](https://x.com/ViralOps_) | **แหล่งที่มา:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **เผยแพร่เมื่อ:** Aug 5, 2026
+
+---
+### Traditional Sumo Rikishi Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+
+#### 📝 พรอมต์
+
+```
+Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+
+**[🎬 ดูวิดีโอ →](https://x.com/222TT222/status/2085036219894026485)**
+
+**ผู้เขียน:** [TakTempest](https://x.com/222TT222) | **แหล่งที่มา:** [Link](https://x.com/222TT222/status/2085036219894026485) | **เผยแพร่เมื่อ:** Aug 5, 2026
+
+---
 ### Mechanical Pepper Grinder Mantis Kitchen Duel
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2901,70 +2958,13 @@ aggressive typography, hyper kinetic typography, broadcast motion graphics, rapi
 **ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **เผยแพร่เมื่อ:** Jun 7, 2026
 
 ---
-### การแพนกล้องชมเมืองแฟนตาซีใต้บาดาล
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> การแพนกล้องแบบภาพยนตร์ที่แสดงการเปลี่ยนผ่านอย่างแนบเนียนจากเมืองในโลกปัจจุบันไปสู่โลกแฟนตาซีใต้บาดาลอันวิจิตรบรรจง
-
-#### 📝 พรอมต์
-
-```
-ในขณะที่กล้องแพนไปยังตัวเมืองและเคลื่อนต่ำลง เราจะเห็นอาคารบ้านเรือนทอดยาวลงไปใต้ดินและใต้ผืนน้ำ ซึ่งเป็นการเชื่อมต่อกันอย่างแนบเนียนของเมืองแฟนตาซีลับอันวิจิตรตระการตา
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/566a148a54d3afc81db5cb50f35f8474/thumbnails/thumbnail.jpg" width="600" alt="การแพนกล้องชมเมืองแฟนตาซีใต้บาดาล">
-
-**[🎬 ดูวิดีโอ →](https://x.com/Team_Greenfield/status/2063646327523975345)**
-
-**ผู้เขียน:** [Greenfield Team!](https://x.com/Team_Greenfield) | **แหล่งที่มา:** [Link](https://x.com/Team_Greenfield/status/2063646327523975345) | **เผยแพร่เมื่อ:** Jun 7, 2026
-
----
-### วิดีโอรีลข้อความเคลื่อนไหวตามจังหวะเพลง
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์สำหรับ Gemini Omni เพื่อสร้างวิดีโอแนะนำสินค้า (Sizzle Reel) สไตล์ทดลองสุดล้ำ ที่ข้อความจะปรากฏขึ้นทีละคำพร้อมแอนิเมชันเฉพาะตัวซึ่งซิงค์เข้ากับจังหวะเพลงได้อย่างลงตัว
-
-#### 📝 พรอมต์
-
-```
-แสดงคำต่อไปนี้บนหน้าจอทีละคำ: 'Did you know?' / 'Gemini Omni' / 'This model' / 'Japanese too' / 'is quite' / 'good!?' โดยแต่ละคำควรปรากฏขึ้นพร้อมแอนิเมชันที่ไม่ซ้ำกัน และเคลื่อนไหวด้วยจังหวะที่ลื่นไหลซึ่งซิงค์เข้ากับบีทเพลงได้อย่างสมบูรณ์แบบ ผลลัพธ์โดยรวมควรเป็นวิดีโอรีลสั้นๆ ที่เปี่ยมไปด้วยพลัง มีสไตล์และดูแปลกใหม่แต่ยังคงเข้าถึงง่าย เพื่อเน้นย้ำถึงคุณภาพของการแสดงผลข้อความ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/85e7b9ee81f0fe8c4234867d080596fc/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอรีลข้อความเคลื่อนไหวตามจังหวะเพลง">
-
-**[🎬 ดูวิดีโอ →](https://x.com/takamasa045/status/2063442373917446515)**
-
-**ผู้เขียน:** [伊藤貴將（イトパン）｜AIエージェント×創作開発](https://x.com/takamasa045) | **แหล่งที่มา:** [Link](https://x.com/takamasa045/status/2063442373917446515) | **เผยแพร่เมื่อ:** Jun 7, 2026
-
----
-### พรอมต์สำหรับวิดีโอการตลาดแบบ Sizzle Reel ด้วย Gemini Omni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์เฉพาะทางสำหรับวิดีโอการตลาดที่ควบคุมการซิงค์ข้อความแบบคำต่อคำและสไตล์แอนิเมชันได้อย่างแม่นยำ เพื่อสร้างวิดีโอ Sizzle Reel ระดับมืออาชีพ
-
-#### 📝 พรอมต์
-
-```
-แสดงทีละคำ โดยให้มีเพียงหนึ่งคำบนหน้าจอในแต่ละครั้ง (ยกเว้นคำว่า Summarize your voice): Whatsapp, Telegram, Summarize your voice, Hear, Type, HearType โดยแต่ละคำจะปรากฏขึ้นพร้อมสไตล์แอนิเมชันที่แตกต่างกัน มีจังหวะที่สมบูรณ์แบบ เหมาะสำหรับวิดีโอ Sizzle Reel
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/be0af65cac11b6060ebca9c8c4af81df/thumbnails/thumbnail.jpg" width="600" alt="พรอมต์สำหรับวิดีโอการตลาดแบบ Sizzle Reel ด้วย Gemini Omni">
-
-**[🎬 ดูวิดีโอ →](https://x.com/YanStudioX/status/2063341254612824307)**
-
-**ผู้เขียน:** [Yan](https://x.com/YanStudioX) | **แหล่งที่มา:** [Link](https://x.com/YanStudioX/status/2063341254612824307) | **เผยแพร่เมื่อ:** Jun 6, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 48 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 51 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3010,6 +3010,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-06T06:28:55.130Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-06T10:36:37.314Z</sub>
 
 </div>
