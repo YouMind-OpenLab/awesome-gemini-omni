@@ -3058,6 +3058,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-07T05:39:04.970Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-07T08:57:25.072Z</sub>
 
 </div>
