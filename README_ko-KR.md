@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **151** |
+| 📝 총 프롬프트 수 | **153** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-08-07** |
 
@@ -56,19 +56,82 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
-### Artistic Ink Landscape Transformation
+### Glowing Jelly Octopus Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
 
 #### 📝 프롬프트
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+
+Style: Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+
+Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+
+**[🎬 비디오 보기 →](https://x.com/Strength04_X/status/2085559452481261606)**
+
+**작성자:** [𝐌](https://x.com/Strength04_X) | **출처:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **게시일:** Aug 7, 2026
+
+---
+### Prehistoric Caveman Rock Concert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+
+#### 📝 프롬프트
+
+```
+A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+
+**[🎬 비디오 보기 →](https://x.com/ozansihay/status/2085420070952649179)**
+
+**작성자:** [Ozan Sihay](https://x.com/ozansihay) | **출처:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **게시일:** Aug 6, 2026
+
+---
+### Ink Splash to Landscape Painting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+
+#### 📝 프롬프트
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
+Style: abstract beauty | fluid motion | artistic transformation
+Camera: static macro → slow reveal
+Length: 10 seconds
+Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
 
 **[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
@@ -2962,51 +3025,13 @@ Ginza Six에 걸어 들어가서 에스컬레이터를 타고 6층의 새로운 
 **작성자:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **출처:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **게시일:** Jun 8, 2026
 
 ---
-### 연못을 관찰하는 태비 고양이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 연못 속 물고기를 관찰하는 태비 고양이의 자연스러운 행동과 영화 같은 조명을 담은 사실적인 영상 생성을 위한 고품질 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-아마추어 세로형 스마트폰 영상, 9:16 화면 비율, 핸드헬드 촬영으로 인한 약간의 자연스러운 흔들림, 밝고 화창한 오후의 햇살. 주황색과 검은색 줄무늬, 흰색 가슴 털, 밝은 녹색 눈을 가진 복슬복슬한 태비 고양이가 맑은 정원 연못가 평평한 바위 위에 앉아 있으며, 카메라를 등지고 있는 모습입니다. 고양이는 연못 앞을 유심히 관찰하고 있고, 그 안에서는 화려한 비단잉어와 금붕어들이 헤엄치며 가끔 작은 물보라를 일으키며 튀어 오릅니다. 자연스러운 행동: 꼬리를 천천히 좌우로 흔들고, 물보라가 튈 때마다 귀를 쫑긋거리며 방향을 바꾸고, 호기심 어린 모습으로 고개를 살짝 기울이며, 가끔 물가에 부드럽게 앞발을 톡톡 건드립니다. 잔잔한 물결 위로 햇빛이 반짝이며 아름다운 반사를 만들어내고, 공기 중에는 떠다니는 먼지 입자가 보입니다. 물이 튀는 잔잔한 주변 소리, 근처 갈대와 잎사귀를 스치는 가벼운 산들바람, 멀리서 들리는 새소리, 그리고 고양이가 가끔 내는 부드러운 울음소리나 가르랑거리는 소리가 들립니다. 등과 꼬리의 사실적인 털 질감, 후방 3/4 뷰에서 본 생생한 고양이의 움직임, 생동감 넘치는 물의 반사, 따뜻한 자연스러운 색감 보정, iPhone 스타일의 촬영, 고해상도, 10초 루프 영상.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="연못을 관찰하는 태비 고양이">
-
-**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2063849912773845455)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **게시일:** Jun 8, 2026
-
----
-### 공포스러운 벽 기어오르기 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 한 여성이 벽을 따라 부자연스럽게 카메라를 향해 기어오는 공포 테마의 영상입니다.
-
-#### 📝 프롬프트
-
-```
-초현실적인, 기괴한 여성 형상이 벽에 매달려 있음, 반은 수평이고 반은 수직인 자세, 척추가 부자연스럽게 휘어짐, 길고 헝클어진 검은 머리카락이 앞으로 늘어져 얼굴을 부분적으로 가림, 머리카락 사이로 아래를 응시하는 우윳빛 흰 눈이 살짝 보임, 사지가 부자연스럽게 뒤틀림, 팔꿈치가 뒤로 꺾임, 손가락이 지나치게 길어 갈고리처럼 콘크리트를 움켜쥠, 어둡고 음산한 분위기, 높은 대비, 불안함, 호러 리얼리즘. 공포스러운 여성이 벽을 타고 카메라를 향해 기어옴. 카메라가 움직임을 추적함.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="공포스러운 벽 기어오르기 시퀀스">
-
-**[🎬 비디오 보기 →](https://x.com/rahulnanda86/status/2063684503282016703)**
-
-**작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **게시일:** Jun 7, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 51 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 53 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3052,6 +3077,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-07T08:57:18.727Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-07T12:59:20.237Z</sub>
 
 </div>

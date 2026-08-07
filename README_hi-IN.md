@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **151** |
+| 📝 कुल प्रॉम्पट्स | **153** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-08-07** |
 
@@ -56,19 +56,82 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### Artistic Ink Landscape Transformation
+### Glowing Jelly Octopus Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
 
 #### 📝 प्रॉम्पट
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+
+Style: Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+
+Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+
+**[🎬 वीडियो देखें →](https://x.com/Strength04_X/status/2085559452481261606)**
+
+**लेखक:** [𝐌](https://x.com/Strength04_X) | **स्रोत:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **प्रकाशित:** Aug 7, 2026
+
+---
+### Prehistoric Caveman Rock Concert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+
+#### 📝 प्रॉम्पट
+
+```
+A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+
+**[🎬 वीडियो देखें →](https://x.com/ozansihay/status/2085420070952649179)**
+
+**लेखक:** [Ozan Sihay](https://x.com/ozansihay) | **स्रोत:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **प्रकाशित:** Aug 6, 2026
+
+---
+### Ink Splash to Landscape Painting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+
+#### 📝 प्रॉम्पट
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
+Style: abstract beauty | fluid motion | artistic transformation
+Camera: static macro → slow reveal
+Length: 10 seconds
+Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
 
 **[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
@@ -2967,51 +3030,13 @@ Friday हाइप,
 **लेखक:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **स्रोत:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **प्रकाशित:** Jun 8, 2026
 
 ---
-### टैबी बिल्ली द्वारा कोई तालाब का अवलोकन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक तालाब में मछलियों को देखती हुई टैबी बिल्ली के यथार्थवादी दृश्य के लिए एक अत्यधिक विस्तृत वीडियो प्रॉम्प्ट, जिसमें स्वाभाविक व्यवहार और सिनेमाई लाइटिंग शामिल है।
-
-#### 📝 प्रॉम्पट
-
-```
-एमेच्योर वर्टिकल स्मार्टफोन वीडियो, 9:16 आस्पेक्ट रेशियो, हैंडहेल्ड हल्का प्राकृतिक शेक, दोपहर की चमकदार धूप। नारंगी और काली धारियों, सफेद छाती और चमकीली हरी आंखों वाली एक रोएंदार टैबी बिल्ली एक साफ बगीचे के तालाब के किनारे एक सपाट पत्थर पर बैठी है, जिसकी पीठ मुख्य रूप से कैमरे की ओर है। बिल्ली ध्यान से सामने तालाब को देख रही है जहाँ रंगीन कोई और गोल्डफिश तैर रही हैं और कभी-कभी छोटी छलांग लगाकर पानी में हलचल पैदा कर रही हैं। प्राकृतिक व्यवहार: पूंछ का धीरे-धीरे अगल-बगल हिलना, कानों का फड़फड़ाना और हर छपछपाहट की ओर घूमना, सिर का जिज्ञासावश थोड़ा झुकना, पानी के किनारे पर कभी-कभी पंजे से हल्का स्पर्श। पानी की लहरों पर सूरज की रोशनी चमक रही है, जिससे सुंदर प्रतिबिंब बन रहे हैं, और हवा में तैरते धूल के कण दिखाई दे रहे हैं। पानी के छपछपाने, पास की नरकट और पत्तियों के बीच हल्की हवा की सरसराहट, दूर पक्षियों के चहकने और बिल्ली की कभी-कभार आने वाली हल्की म्याऊं या गुर्राहट की कोमल परिवेशीय ध्वनियाँ। पीठ और पूंछ पर यथार्थवादी फर बनावट, पीछे के तीन-चौथाई दृश्य से बिल्ली की जीवंत हरकतें, जीवंत जल प्रतिबिंब, गर्म प्राकृतिक कलर ग्रेडिंग, iPhone स्टाइल में शूट किया गया, उच्च विवरण, 10 सेकंड का लूप करने योग्य क्लिप।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="टैबी बिल्ली द्वारा कोई तालाब का अवलोकन">
-
-**[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2063849912773845455)**
-
-**लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **प्रकाशित:** Jun 8, 2026
-
----
-### डरावना वॉल क्रॉल सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक हॉरर-थीम वाला वीडियो जिसमें एक महिला दीवार पर अप्राकृतिक तरीके से रेंगते हुए कैमरे की ओर आ रही है।
-
-#### 📝 प्रॉम्पट
-
-```
-अल्ट्रा-रियलिस्टिक, डरावनी महिला आकृति दीवार से चिपकी हुई, आधी क्षैतिज, आधी सीधी, रीढ़ की हड्डी अप्राकृतिक रूप से मुड़ी हुई, लंबे उलझे हुए काले बाल आगे की ओर लटके हुए जो आंशिक रूप से उसके चेहरे को ढके हुए हैं, बालों की लटें थोड़ी हिलती हैं जिससे नीचे की ओर घूर रही एक दूधिया-सफेद आंख की झलक दिखाई देती है, अंग अप्राकृतिक रूप से मुड़े हुए, कोहनियां पीछे की ओर मुड़ी हुई, उंगलियां बहुत लंबी, कंक्रीट को हुक की तरह जकड़े हुए, गहरा और उदास माहौल, उच्च कंट्रास्ट, परेशान करने वाला, हॉरर रियलिज्म। डरावनी महिला दीवार पर रेंगते हुए कैमरे की ओर आती है। कैमरा उसकी गति को ट्रैक करता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="डरावना वॉल क्रॉल सीक्वेंस">
-
-**[🎬 वीडियो देखें →](https://x.com/rahulnanda86/status/2063684503282016703)**
-
-**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **प्रकाशित:** Jun 7, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 51 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 53 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3057,6 +3082,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-07T08:57:20.776Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-07T12:59:22.608Z</sub>
 
 </div>

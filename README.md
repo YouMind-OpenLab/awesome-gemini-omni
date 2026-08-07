@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **151** |
+| 📝 Total Prompts | **153** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-07** |
 
@@ -56,19 +56,82 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Artistic Ink Landscape Transformation
+### Glowing Jelly Octopus Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
 
 #### 📝 Prompt
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+
+Style: Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+
+Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2085559452481261606)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **Published:** Aug 7, 2026
+
+---
+### Prehistoric Caveman Rock Concert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+
+#### 📝 Prompt
+
+```
+A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+
+**[🎬 Watch Video →](https://x.com/ozansihay/status/2085420070952649179)**
+
+**Author:** [Ozan Sihay](https://x.com/ozansihay) | **Source:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **Published:** Aug 6, 2026
+
+---
+### Ink Splash to Landscape Painting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+
+#### 📝 Prompt
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
+Style: abstract beauty | fluid motion | artistic transformation
+Camera: static macro → slow reveal
+Length: 10 seconds
+Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
 
 **[🎬 Watch Video →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
@@ -3104,51 +3167,13 @@ Please create a first-person perspective video of walking into Ginza Six, taking
 **Author:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Source:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Published:** Jun 8, 2026
 
 ---
-### Tabby Cat Koi Pond Observation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed video prompt for a realistic scene of a tabby cat watching fish in a pond, featuring natural behavior and cinematic lighting.
-
-#### 📝 Prompt
-
-```
-Amateur vertical smartphone video, 9:16 aspect ratio, handheld slight natural shake, bright sunny afternoon light. A fluffy tabby cat with orange and black stripes, white chest, and bright green eyes is sitting on a flat rock near the edge of a clear garden pond, with its back mostly to the camera. The cat is intently watching the pond ahead where colorful koi and goldfish are swimming and occasionally jumping out with small splashes. Natural behaviors: tail slowly swishing side to side, ears twitching and rotating toward each splash, head making small curious tilts, occasional gentle paw tap near the water's edge. Sunlight sparkles on the rippling water creating beautiful reflections, with floating dust motes visible in the air. Gentle ambient sounds of water splashing, light breeze rustling nearby reeds and leaves, distant birds chirping, and the cat's soft occasional chirp or purr. Realistic fur texture on the back and tail, lifelike cat movements from a rear three-quarter view, vibrant water reflections, warm natural color grading, shot on iPhone style, high detail, 10 second loopable clip.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="Tabby Cat Koi Pond Observation">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2063849912773845455)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **Published:** Jun 8, 2026
-
----
-### Scary Wall Crawl Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A horror-themed video of a woman crawling unnaturally along a wall toward the camera.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic, eerie female figure clinging to the wall, half-horizontal, half-upright, spine arched unnaturally, long tangled black hair hanging forward partially obscuring her face, strands shift slightly revealing a glimpse of one milky-white eye staring downward, limbs twisted unnaturally, elbows bending backward, fingers too long, gripping concrete like hooks, dark and moody atmosphere, high contrast, unsettling, horror realism. Scary woman crawls on wall towards camera. Camera tracks its motion.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="Scary Wall Crawl Sequence">
-
-**[🎬 Watch Video →](https://x.com/rahulnanda86/status/2063684503282016703)**
-
-**Author:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Published:** Jun 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 51 more prompts not shown here
+### 🎯 53 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3194,6 +3219,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-07T08:57:15.541Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-07T12:59:17.215Z</sub>
 
 </div>

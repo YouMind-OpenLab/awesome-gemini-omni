@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **151** |
+| 📝 プロンプト総数 | **153** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-08-07** |
 
@@ -56,19 +56,82 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
-### Artistic Ink Landscape Transformation
+### Glowing Jelly Octopus Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
 
 #### 📝 プロンプト
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+
+Style: Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+
+Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+
+**[🎬 動画を見る →](https://x.com/Strength04_X/status/2085559452481261606)**
+
+**作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **公開日:** Aug 7, 2026
+
+---
+### Prehistoric Caveman Rock Concert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+
+#### 📝 プロンプト
+
+```
+A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+
+**[🎬 動画を見る →](https://x.com/ozansihay/status/2085420070952649179)**
+
+**作者:** [Ozan Sihay](https://x.com/ozansihay) | **ソース:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **公開日:** Aug 6, 2026
+
+---
+### Ink Splash to Landscape Painting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+
+#### 📝 プロンプト
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
+Style: abstract beauty | fluid motion | artistic transformation
+Camera: static macro → slow reveal
+Length: 10 seconds
+Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
 
 **[🎬 動画を見る →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
@@ -2963,51 +3026,13 @@ Ginza Six に入店し、エスカレーターで 6 階の新しいカフェへ�
 **作者:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **ソース:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **公開日:** Jun 8, 2026
 
 ---
-### 池の鯉を眺めるトラ猫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 池の魚を眺めるトラ猫のリアルなシーンのための、自然な動作と映画のような照明を特徴とする高精細な動画プロンプト。
-
-#### 📝 プロンプト
-
-```
-アマチュアによる縦型スマートフォン動画、アスペクト比 9:16、手持ち撮影による自然な微細な揺れ、明るい午後の日差し。オレンジと黒の縞模様、白い胸元、鮮やかな緑色の目をしたふわふわのトラ猫が、澄んだ庭の池のほとりにある平らな岩の上に座っており、背中をカメラに向けている。猫は、色鮮やかな鯉や金魚が泳ぎ、時折小さな水しぶきを上げて飛び跳ねる池をじっと見つめている。自然な動作：尻尾をゆっくりと左右に振り、水しぶきの音に合わせて耳をピクピクと動かし、好奇心旺盛に首を小さく傾け、時折水辺で優しく前足で水を叩く。水面に反射する太陽の光が美しいきらめきを生み出し、空気中には浮遊する塵がかすかに見える。水が跳ねる穏やかな環境音、近くの葦や葉を揺らすそよ風、遠くで鳴く鳥の声、そして猫の時折発する柔らかい鳴き声や喉を鳴らす音。背中と尻尾のリアルな毛並みの質感、後ろ斜めからの視点による猫の生き生きとした動き、鮮やかな水面の反射、温かみのある自然なカラーグレーディング、iPhone で撮影したようなスタイル、高精細、10 秒間のループ再生可能なクリップ。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="池の鯉を眺めるトラ猫">
-
-**[🎬 動画を見る →](https://x.com/MrDasOnX/status/2063849912773845455)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **公開日:** Jun 8, 2026
-
----
-### 壁を這う恐怖のシークエンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 壁を不自然な動きで這いながらカメラに向かってくる女性を映したホラーテイストの動画。
-
-#### 📝 プロンプト
-
-```
-超リアルで不気味な女性の姿。壁に張り付き、半分横向きで半分直立した状態で、背骨が不自然に反り返っている。長く絡まった黒髪が前に垂れ下がり、顔を部分的に覆っている。髪の隙間から、下を見つめる白濁した片目がわずかにのぞく。四肢は不自然にねじれ、肘は後ろに曲がり、指は異常に長く、鉤爪のようにコンクリートを掴んでいる。暗く重苦しい雰囲気、高いコントラスト、不安を煽るホラーリアリズム。壁を這いながらカメラに向かってくる恐ろしい女性。カメラがその動きを追跡する。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="壁を這う恐怖のシークエンス">
-
-**[🎬 動画を見る →](https://x.com/rahulnanda86/status/2063684503282016703)**
-
-**作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **ソース:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **公開日:** Jun 7, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 51 さらに多くのプロンプトがあります
+### 🎯 53 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3053,6 +3078,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-07T08:57:17.804Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-07T12:59:19.481Z</sub>
 
 </div>

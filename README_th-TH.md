@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **151** |
+| 📝 พรอมต์ทั้งหมด | **153** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-08-07** |
 
@@ -56,19 +56,82 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### Artistic Ink Landscape Transformation
+### Glowing Jelly Octopus Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
 
 #### 📝 พรอมต์
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+
+Style: Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+
+Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+
+**[🎬 ดูวิดีโอ →](https://x.com/Strength04_X/status/2085559452481261606)**
+
+**ผู้เขียน:** [𝐌](https://x.com/Strength04_X) | **แหล่งที่มา:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **เผยแพร่เมื่อ:** Aug 7, 2026
+
+---
+### Prehistoric Caveman Rock Concert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+
+#### 📝 พรอมต์
+
+```
+A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+
+**[🎬 ดูวิดีโอ →](https://x.com/ozansihay/status/2085420070952649179)**
+
+**ผู้เขียน:** [Ozan Sihay](https://x.com/ozansihay) | **แหล่งที่มา:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **เผยแพร่เมื่อ:** Aug 6, 2026
+
+---
+### Ink Splash to Landscape Painting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+
+#### 📝 พรอมต์
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
+Style: abstract beauty | fluid motion | artistic transformation
+Camera: static macro → slow reveal
+Length: 10 seconds
+Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
 
 **[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
@@ -2920,51 +2983,13 @@ aggressive typography, hyper kinetic typography, broadcast motion graphics, rapi
 **ผู้เขียน:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **แหล่งที่มา:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **เผยแพร่เมื่อ:** Jun 8, 2026
 
 ---
-### การสังเกตการณ์แมวลายสลิดที่บ่อปลาคาร์ฟ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอที่มีรายละเอียดสูงสำหรับฉากสมจริงของแมวลายสลิดที่กำลังจ้องมองปลาในบ่อ นำเสนอพฤติกรรมที่เป็นธรรมชาติและแสงในรูปแบบภาพยนตร์
-
-#### 📝 พรอมต์
-
-```
-วิดีโอแนวตั้งจากสมาร์ทโฟนแบบมือสมัครเล่น อัตราส่วนภาพ 9:16 มีการสั่นไหวเล็กน้อยแบบธรรมชาติจากการถือด้วยมือ แสงแดดสดใสยามบ่าย แมวลายสลิดขนฟูที่มีลายสีส้มสลับดำ อกสีขาว และดวงตาสีเขียวสดใส กำลังนั่งอยู่บนหินแบนราบใกล้ขอบบ่อสวนที่น้ำใสสะอาด โดยหันหลังให้กล้องเป็นส่วนใหญ่ แมวกำลังจ้องมองไปที่บ่อด้านหน้าอย่างตั้งใจ ซึ่งมีปลาคาร์ฟและปลาทองหลากสีสันกำลังว่ายน้ำและกระโดดขึ้นมาเป็นระยะพร้อมเสียงน้ำกระเซ็นเบาๆ พฤติกรรมที่เป็นธรรมชาติ: หางแกว่งไปมาอย่างช้าๆ หูกระดิกและหมุนไปตามเสียงน้ำกระเซ็น หัวเอียงเล็กน้อยด้วยความอยากรู้อยากเห็น มีการใช้เท้าหน้าแตะน้ำเบาๆ ที่ขอบบ่อเป็นครั้งคราว แสงแดดส่องกระทบผิวน้ำที่เป็นระลอกคลื่นสร้างการสะท้อนที่สวยงาม มองเห็นละอองฝุ่นลอยอยู่ในอากาศ เสียงบรรยากาศที่นุ่มนวลของน้ำกระเซ็น สายลมพัดผ่านต้นกกและใบไม้ใกล้ๆ เสียงนกร้องไห้แว่วมาแต่ไกล และเสียงร้องหรือเสียงครางเบาๆ ของแมวเป็นระยะ พื้นผิวขนที่สมจริงบนหลังและหาง การเคลื่อนไหวของแมวที่เหมือนจริงจากมุมมองด้านหลังสามส่วนสี่ การสะท้อนของน้ำที่สดใส การปรับสีโทนอุ่นที่เป็นธรรมชาติ ถ่ายทำในสไตล์ iPhone รายละเอียดสูง คลิปความยาว 10 วินาทีที่สามารถเล่นวนได้
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="การสังเกตการณ์แมวลายสลิดที่บ่อปลาคาร์ฟ">
-
-**[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2063849912773845455)**
-
-**ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **เผยแพร่เมื่อ:** Jun 8, 2026
-
----
-### ฉากสยองขวัญไต่กำแพง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอแนวสยองขวัญของหญิงสาวที่กำลังคลานอยู่บนกำแพงอย่างผิดธรรมชาติมุ่งหน้ามาทางกล้อง
-
-#### 📝 พรอมต์
-
-```
-ภาพสมจริงระดับสูง หญิงสาวดูน่าขนลุกเกาะอยู่บนกำแพง ในท่ากึ่งแนวนอนกึ่งตั้งตรง กระดูกสันหลังโค้งงออย่างผิดธรรมชาติ ผมสีดำยาวรุงรังปรกมาด้านหน้าบดบังใบหน้าบางส่วน เส้นผมขยับเล็กน้อยเผยให้เห็นดวงตาสีขาวขุ่นข้างหนึ่งที่จ้องมองลงมา แขนขาบิดเบี้ยวอย่างผิดธรรมชาติ ข้อศอกหักงอไปด้านหลัง นิ้วมือยาวเกินจริงจิกเกาะคอนกรีตราวกับตะขอ บรรยากาศมืดมิดและหม่นหมอง คอนทราสต์สูง ชวนให้รู้สึกไม่สบายใจ สยองขวัญสมจริง หญิงสาวน่ากลัวคลานบนกำแพงมุ่งหน้ามาทางกล้อง กล้องเคลื่อนที่ติดตามการเคลื่อนไหวของเธอ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="ฉากสยองขวัญไต่กำแพง">
-
-**[🎬 ดูวิดีโอ →](https://x.com/rahulnanda86/status/2063684503282016703)**
-
-**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **เผยแพร่เมื่อ:** Jun 7, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 51 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 53 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3010,6 +3035,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-07T08:57:19.539Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-07T12:59:21.026Z</sub>
 
 </div>

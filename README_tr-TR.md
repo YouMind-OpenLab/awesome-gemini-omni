@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **151** |
+| 📝 Toplam İstem | **153** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-07** |
 
@@ -56,19 +56,82 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### Artistic Ink Landscape Transformation
+### Glowing Jelly Octopus Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
 
 #### 📝 İstem
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+
+Style: Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+
+Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2085559452481261606)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **Yayınlandı:** Aug 7, 2026
+
+---
+### Prehistoric Caveman Rock Concert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+
+#### 📝 İstem
+
+```
+A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+
+**[🎬 Videoyu izle →](https://x.com/ozansihay/status/2085420070952649179)**
+
+**Yazar:** [Ozan Sihay](https://x.com/ozansihay) | **Kaynak:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **Yayınlandı:** Aug 6, 2026
+
+---
+### Ink Splash to Landscape Painting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+
+#### 📝 İstem
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
+Style: abstract beauty | fluid motion | artistic transformation
+Camera: static macro → slow reveal
+Length: 10 seconds
+Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
 
 **[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
@@ -2938,51 +3001,13 @@ Lütfen Ginza Six'e giriş yapan, yürüyen merdivenlerle 6. kattaki yeni bir ka
 **Yazar:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Kaynak:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Yayınlandı:** Jun 8, 2026
 
 ---
-### Tekir Kedi Koi Havuzu Gözlemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Doğal davranışlar ve sinematik ışıklandırma içeren, bir havuzdaki balıkları izleyen tekir kediye dair gerçekçi bir sahne için oldukça detaylı video istemi.
-
-#### 📝 İstem
-
-```
-Amatör dikey akıllı telefon videosu, 9:16 en boy oranı, elde çekimden kaynaklanan hafif doğal titreme, parlak güneşli öğleden sonra ışığı. Turuncu ve siyah çizgili, beyaz göğüslü ve parlak yeşil gözlü tüylü bir tekir kedi, berrak bir bahçe havuzunun kenarındaki düz bir kayanın üzerinde, arkası büyük ölçüde kameraya dönük şekilde oturuyor. Kedi, renkli koi ve Japon balıklarının yüzdüğü ve ara sıra küçük sıçramalarla sudan dışarı atladığı havuzu dikkatle izliyor. Doğal davranışlar: kuyruk yavaşça bir yandan diğer yana sallanıyor, kulaklar her sıçramaya doğru seğiriyor ve dönüyor, baş meraklı küçük eğilmeler yapıyor, su kenarına ara sıra nazik pati dokunuşları. Güneş ışığı dalgalanan su üzerinde parıldayarak güzel yansımalar yaratıyor, havada uçuşan toz zerreleri görünür durumda. Suyun şırıltısı, yakındaki sazlıkları ve yaprakları hışırdatan hafif esinti, uzaktan gelen kuş cıvıltıları ve kedinin ara sıra çıkardığı yumuşak mırıltılar gibi nazik ortam sesleri. Sırtta ve kuyrukta gerçekçi kürk dokusu, arka üç çeyrek açıdan gerçekçi kedi hareketleri, canlı su yansımaları, sıcak doğal renk derecelendirmesi, iPhone tarzı çekim, yüksek detay, 10 saniyelik döngüye uygun klip.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="Tekir Kedi Koi Havuzu Gözlemi">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2063849912773845455)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **Yayınlandı:** Jun 8, 2026
-
----
-### Korkutucu Duvar Tırmanışı Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kadının duvarda doğal olmayan bir şekilde kameraya doğru sürünmesini konu alan korku temalı bir video.
-
-#### 📝 İstem
-
-```
-Ultra gerçekçi, ürkütücü kadın figürü duvara tutunmuş, yarı yatay yarı dikey, omurgası doğal olmayan bir şekilde bükülmüş, uzun karışık siyah saçları öne doğru sarkarak yüzünü kısmen kapatıyor, saç telleri hafifçe hareket ederek aşağıya bakan süt beyazı bir gözü açığa çıkarıyor, uzuvları doğal olmayan bir şekilde bükülmüş, dirsekleri geriye doğru kıvrılmış, parmakları çok uzun, betonu kanca gibi kavrıyor, karanlık ve kasvetli atmosfer, yüksek kontrast, rahatsız edici, korku gerçekçiliği. Korkutucu kadın duvarda kameraya doğru sürünüyor. Kamera hareketini takip ediyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="Korkutucu Duvar Tırmanışı Sekansı">
-
-**[🎬 Videoyu izle →](https://x.com/rahulnanda86/status/2063684503282016703)**
-
-**Yazar:** [Rahul Nanda](https://x.com/rahulnanda86) | **Kaynak:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Yayınlandı:** Jun 7, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 51 burada gösterilmeyen daha fazla istem
+### 🎯 53 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3028,6 +3053,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-07T08:57:26.337Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-07T12:59:29.237Z</sub>
 
 </div>

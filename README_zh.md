@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **151** |
+| 📝 提示词总数 | **153** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-08-07** |
 
@@ -56,19 +56,82 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
-### Artistic Ink Landscape Transformation
+### Glowing Jelly Octopus Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
 
 #### 📝 提示词
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+
+Style: Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+
+Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+
+**[🎬 观看视频 →](https://x.com/Strength04_X/status/2085559452481261606)**
+
+**作者:** [𝐌](https://x.com/Strength04_X) | **来源:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **发布时间:** Aug 7, 2026
+
+---
+### Prehistoric Caveman Rock Concert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+
+#### 📝 提示词
+
+```
+A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+
+**[🎬 观看视频 →](https://x.com/ozansihay/status/2085420070952649179)**
+
+**作者:** [Ozan Sihay](https://x.com/ozansihay) | **来源:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **发布时间:** Aug 6, 2026
+
+---
+### Ink Splash to Landscape Painting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+
+#### 📝 提示词
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
+Style: abstract beauty | fluid motion | artistic transformation
+Camera: static macro → slow reveal
+Length: 10 seconds
+Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
 
 **[🎬 观看视频 →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
@@ -2968,51 +3031,13 @@ Gada 在没有支撑的情况下完美保持平衡。
 **作者:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **来源:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **发布时间:** Jun 8, 2026
 
 ---
-### 虎斑猫观赏锦鲤池
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个高度详细的视频提示词，用于生成虎斑猫在池塘边观鱼的写实场景，包含自然的行为表现和电影级光影效果。
-
-#### 📝 提示词
-
-```
-业余竖屏手机视频，9:16 画幅，手持拍摄，带有轻微的自然晃动，明亮的午后阳光。一只毛茸茸的虎斑猫，有着橙黑相间的条纹、白色的胸毛和明亮的绿色眼睛，正坐在清澈花园池塘边的一块平坦岩石上，背部大部分朝向镜头。猫咪正全神贯注地注视着前方的池塘，五颜六色的锦鲤和金鱼在水中游动，偶尔跃出水面溅起小水花。自然行为：尾巴缓慢地左右摆动，耳朵随着每一次水花声抽动并转向，头部做出好奇的小幅度倾斜，偶尔用爪子在水边轻轻拍打。阳光在涟漪的水面上闪烁，形成美丽的倒影，空气中可见漂浮的尘埃。柔和的环境音包括水花溅起声、微风吹动附近芦苇和叶片的沙沙声、远处的鸟鸣声，以及猫咪偶尔发出的轻柔叫声或呼噜声。背部和尾部的毛发质感真实，后侧方视角呈现栩栩如生的猫咪动作，生动的水面反射，温暖的自然色调，iPhone 拍摄风格，高细节，10 秒可循环片段。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="虎斑猫观赏锦鲤池">
-
-**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2063849912773845455)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **发布时间:** Jun 8, 2026
-
----
-### 恐怖墙面爬行片段
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段恐怖主题视频，展示了一名女性以不自然的姿态沿着墙壁向镜头爬行。
-
-#### 📝 提示词
-
-```
-超写实风格，诡异的女性身影紧贴墙壁，身体处于半横向、半直立状态，脊椎呈现出不自然的拱起，凌乱的长黑发向前垂落，部分遮住了脸庞，发丝微微晃动，隐约露出的一只乳白色眼睛正向下凝视，四肢扭曲得极不自然，手肘向后弯曲，手指过长，像钩子一样抓入混凝土中，阴暗压抑的氛围，高对比度，令人不安，恐怖写实感。恐怖女性向镜头爬行。镜头跟随其动作进行追踪拍摄。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="恐怖墙面爬行片段">
-
-**[🎬 观看视频 →](https://x.com/rahulnanda86/status/2063684503282016703)**
-
-**作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **来源:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **发布时间:** Jun 7, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 51 更多提示词未在此显示
+### 🎯 53 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3058,6 +3083,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-07T08:57:16.225Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-07T12:59:18.021Z</sub>
 
 </div>

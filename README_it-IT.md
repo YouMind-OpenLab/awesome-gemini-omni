@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **151** |
+| 📝 Totale prompt | **153** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-08-07** |
 
@@ -56,19 +56,82 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
-### Artistic Ink Landscape Transformation
+### Glowing Jelly Octopus Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
 
 #### 📝 Prompt
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+
+Style: Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+
+Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+
+**[🎬 Guarda il video →](https://x.com/Strength04_X/status/2085559452481261606)**
+
+**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **Pubblicato:** Aug 7, 2026
+
+---
+### Prehistoric Caveman Rock Concert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+
+#### 📝 Prompt
+
+```
+A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+
+**[🎬 Guarda il video →](https://x.com/ozansihay/status/2085420070952649179)**
+
+**Autore:** [Ozan Sihay](https://x.com/ozansihay) | **Fonte:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **Pubblicato:** Aug 6, 2026
+
+---
+### Ink Splash to Landscape Painting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+
+#### 📝 Prompt
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
+Style: abstract beauty | fluid motion | artistic transformation
+Camera: static macro → slow reveal
+Length: 10 seconds
+Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
 
 **[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
@@ -2936,51 +2999,13 @@ Per favore, crea un video in prima persona che mostri l'ingresso a Ginza Six, la
 **Autore:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Fonte:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Pubblicato:** Jun 8, 2026
 
 ---
-### Osservazione di un gatto soriano presso un laghetto di koi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video altamente dettagliato per una scena realistica di un gatto soriano che osserva i pesci in un laghetto, caratterizzato da comportamenti naturali e illuminazione cinematografica.
-
-#### 📝 Prompt
-
-```
-Video amatoriale verticale da smartphone, formato 9:16, ripresa a mano con leggero tremolio naturale, luce solare brillante di un pomeriggio. Un soffice gatto soriano con strisce arancioni e nere, petto bianco e luminosi occhi verdi è seduto su una roccia piatta vicino al bordo di un limpido laghetto da giardino, con la schiena rivolta per lo più verso la telecamera. Il gatto osserva intensamente il laghetto davanti a sé, dove colorate carpe koi e pesci rossi nuotano e saltano occasionalmente creando piccoli spruzzi. Comportamenti naturali: la coda oscilla lentamente da un lato all'altro, le orecchie fremono e ruotano verso ogni spruzzo, la testa compie piccoli e curiosi movimenti, occasionali colpetti delicati con la zampa vicino al bordo dell'acqua. La luce del sole brilla sull'acqua increspata creando splendidi riflessi, con pulviscolo atmosferico visibile nell'aria. Suoni ambientali delicati di acqua che scorre, una leggera brezza che muove canne e foglie vicine, il cinguettio lontano degli uccelli e il verso o le fusa occasionali del gatto. Texture realistica del pelo sulla schiena e sulla coda, movimenti del gatto realistici da una vista di tre quarti posteriore, riflessi vibranti sull'acqua, color grading naturale e caldo, stile ripresa iPhone, alto dettaglio, clip loopabile di 10 secondi.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="Osservazione di un gatto soriano presso un laghetto di koi">
-
-**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2063849912773845455)**
-
-**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **Pubblicato:** Jun 8, 2026
-
----
-### Sequenza spaventosa di arrampicata sul muro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un video a tema horror di una donna che striscia in modo innaturale lungo un muro verso la telecamera.
-
-#### 📝 Prompt
-
-```
-Figura femminile inquietante e ultra-realistica che si aggrappa al muro, a metà tra l'orizzontale e il verticale, colonna vertebrale inarcata in modo innaturale, lunghi capelli neri aggrovigliati che ricadono in avanti oscurando parzialmente il volto, le ciocche si spostano leggermente rivelando uno scorcio di un occhio bianco latte che fissa verso il basso, arti contorti in modo innaturale, gomiti piegati all'indietro, dita troppo lunghe che afferrano il cemento come uncini, atmosfera cupa e tenebrosa, contrasto elevato, inquietante, realismo horror. Una donna spaventosa striscia sul muro verso la telecamera. La telecamera segue il suo movimento.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="Sequenza spaventosa di arrampicata sul muro">
-
-**[🎬 Guarda il video →](https://x.com/rahulnanda86/status/2063684503282016703)**
-
-**Autore:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fonte:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Pubblicato:** Jun 7, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 51 altri prompt non mostrati qui
+### 🎯 53 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3026,6 +3051,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-07T08:57:24.503Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-07T12:59:26.854Z</sub>
 
 </div>

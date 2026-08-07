@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **151** |
+| 📝 Tổng số prompt | **153** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-07** |
 
@@ -56,19 +56,82 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### Artistic Ink Landscape Transformation
+### Glowing Jelly Octopus Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a high-quality video where falling ink splashes evolve into a vivid miniature landscape painting.
+> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
 
 #### 📝 Prompt
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still. Style: abstract beauty | fluid motion | artistic transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: soft studio light, high clarity
+Extreme close-up macro cinematography. 
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+
+Style: Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+
+Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Artistic Ink Landscape Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2085559452481261606)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **Đã xuất bản:** Aug 7, 2026
+
+---
+### Prehistoric Caveman Rock Concert
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+
+#### 📝 Prompt
+
+```
+A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+
+**[🎬 Xem video →](https://x.com/ozansihay/status/2085420070952649179)**
+
+**Tác giả:** [Ozan Sihay](https://x.com/ozansihay) | **Nguồn:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **Đã xuất bản:** Aug 6, 2026
+
+---
+### Ink Splash to Landscape Painting
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+
+#### 📝 Prompt
+
+```
+A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
+Style: abstract beauty | fluid motion | artistic transformation
+Camera: static macro → slow reveal
+Length: 10 seconds
+Lighting: soft studio light, high clarity
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
 
 **[🎬 Xem video →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
@@ -2914,51 +2977,13 @@ Vui lòng tạo một video góc nhìn thứ nhất ghi lại cảnh đi bộ v�
 **Tác giả:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Nguồn:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Đã xuất bản:** Jun 8, 2026
 
 ---
-### Quan sát mèo mướp bên hồ cá Koi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video chi tiết cao cho cảnh quay chân thực về một chú mèo mướp đang ngắm cá trong hồ, thể hiện hành vi tự nhiên và ánh sáng đậm chất điện ảnh.
-
-#### 📝 Prompt
-
-```
-Video dọc nghiệp dư quay bằng điện thoại thông minh, tỷ lệ khung hình 9:16, cầm tay có độ rung tự nhiên nhẹ, ánh sáng buổi chiều nắng rực rỡ. Một chú mèo mướp lông xù với các sọc cam đen, ngực trắng và đôi mắt xanh lục sáng đang ngồi trên tảng đá phẳng gần mép hồ cá trong vườn, lưng hướng về phía máy quay. Chú mèo đang chăm chú quan sát hồ nước phía trước, nơi những chú cá Koi và cá vàng đầy màu sắc đang bơi lội và thỉnh thoảng nhảy lên tạo ra những tia nước nhỏ. Hành vi tự nhiên: đuôi vẫy nhẹ từ bên này sang bên kia, tai giật giật và xoay về phía có tiếng nước bắn, đầu nghiêng nhẹ đầy tò mò, thỉnh thoảng dùng chân chạm nhẹ vào mép nước. Ánh nắng mặt trời lấp lánh trên mặt nước gợn sóng tạo nên những hình ảnh phản chiếu tuyệt đẹp, bụi li ti lơ lửng trong không khí. Âm thanh môi trường nhẹ nhàng của tiếng nước bắn, gió nhẹ thổi qua những bụi lau sậy và lá cây gần đó, tiếng chim hót xa xa, và tiếng kêu hoặc tiếng gừ gừ khẽ khàng của chú mèo. Kết cấu lông chân thực trên lưng và đuôi, chuyển động của mèo sống động từ góc nhìn ba phần tư phía sau, phản chiếu mặt nước rực rỡ, chỉnh màu tự nhiên ấm áp, phong cách quay bằng iPhone, chi tiết cao, clip có thể lặp lại trong 10 giây.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b475477bcc1dfff919e35a447c50c194/thumbnails/thumbnail.jpg" width="600" alt="Quan sát mèo mướp bên hồ cá Koi">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2063849912773845455)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2063849912773845455) | **Đã xuất bản:** Jun 8, 2026
-
----
-### Chuỗi cảnh bò trên tường đầy ám ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video chủ đề kinh dị về một người phụ nữ đang bò một cách bất thường dọc theo bức tường về phía máy quay.
-
-#### 📝 Prompt
-
-```
-Hình ảnh người phụ nữ kỳ quái, siêu thực đang bám vào tường, tư thế nửa nằm ngang, nửa thẳng đứng, cột sống cong một cách phi tự nhiên, mái tóc đen dài rối bời xõa về phía trước che khuất một phần khuôn mặt, những lọn tóc khẽ dịch chuyển để lộ thoáng qua một con mắt trắng đục đang nhìn xuống, các chi vặn vẹo bất thường, khuỷu tay gập ngược, những ngón tay quá dài bám chặt vào bề mặt bê tông như những chiếc móc, bầu không khí u tối và ảm đạm, độ tương phản cao, gây bất an, phong cách kinh dị chân thực. Người phụ nữ đáng sợ bò trên tường về phía máy quay. Máy quay di chuyển theo chuyển động của cô ấy.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/f0aa2331a5f8c50c081eb17533baacd7/thumbnails/thumbnail.jpg" width="600" alt="Chuỗi cảnh bò trên tường đầy ám ảnh">
-
-**[🎬 Xem video →](https://x.com/rahulnanda86/status/2063684503282016703)**
-
-**Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2063684503282016703) | **Đã xuất bản:** Jun 7, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 51 prompt khác không hiển thị ở đây
+### 🎯 53 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3004,6 +3029,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-07T08:57:20.190Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-07T12:59:21.723Z</sub>
 
 </div>
