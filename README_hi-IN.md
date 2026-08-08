@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **153** |
+| 📝 कुल प्रॉम्पट्स | **156** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-08-08** |
 
@@ -56,11 +56,88 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### Glowing Jelly Octopus Transformation
+### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
+> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+
+#### 📝 प्रॉम्पट
+
+```
+A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+
+**[🎬 वीडियो देखें →](https://x.com/playinbey/status/2085826420287418413)**
+
+**लेखक:** [PLAY!](https://x.com/playinbey) | **स्रोत:** [Link](https://x.com/playinbey/status/2085826420287418413) | **प्रकाशित:** Aug 7, 2026
+
+---
+### Dread and Foreboding Image-to-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+
+#### 📝 प्रॉम्पट
+
+```
+Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+
+**[🎬 वीडियो देखें →](https://x.com/pzf_ai/status/2085736211625230529)**
+
+**लेखक:** [PZF](https://x.com/pzf_ai) | **स्रोत:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **प्रकाशित:** Aug 7, 2026
+
+---
+### Cherry Blossom Tree Gel Sculpture
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+
+#### 📝 प्रॉम्पट
+
+```
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+Style:
+Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+Negative Prompt:
+Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+
+**[🎬 वीडियो देखें →](https://x.com/Strength04_X/status/2085703642037018819)**
+
+**लेखक:** [𝐌](https://x.com/Strength04_X) | **स्रोत:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **प्रकाशित:** Aug 7, 2026
+
+---
+### Jelly Octopus Macro Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
 
 #### 📝 प्रॉम्पट
 
@@ -89,7 +166,7 @@ No background distractions
 Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
 
 **[🎬 वीडियो देखें →](https://x.com/Strength04_X/status/2085559452481261606)**
 
@@ -2955,88 +3032,13 @@ Friday हाइप,
 **लेखक:** [Natai](https://x.com/masterai13) | **स्रोत:** [Link](https://x.com/masterai13/status/2064704102701928461) | **प्रकाशित:** Jun 10, 2026
 
 ---
-### स्लो मोशन एक्शन रैंप
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक वीडियो जनरेशन प्रॉम्प्ट जिसे किसी वस्तु या जानवर के मूवमेंट के चरम पर पहुँचने पर एक नाटकीय स्लो-मोशन प्रभाव पैदा करने के लिए डिज़ाइन किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-जैसे ही कुत्ता हूप (hoop) तक पहुँचता है, समय अत्यधिक स्लो मोशन में बदलने लगता है — जो छलांग के चरम पर वास्तविक गति के लगभग 1% तक पहुँच जाता है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b31b364da8c894f1af92298756da4091/thumbnails/thumbnail.jpg" width="600" alt="स्लो मोशन एक्शन रैंप">
-
-**[🎬 वीडियो देखें →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
-
-**लेखक:** [Google Flow](https://x.com/FlowbyGoogle) | **स्रोत:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **प्रकाशित:** Jun 9, 2026
-
----
-### फ्यूचरिस्टिक साइंस-फिक्शन टाइटल एनिमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> वीडियो ओवरले के लिए ग्रीन स्क्रीन पर साइबरनेटिक, ग्लिच वाले साइंस-फिक्शन टाइटल एनिमेशन बनाने के लिए एक अत्यधिक विस्तृत वीडियो प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-क्रोमा की (chroma key) उपयोग के लिए शुद्ध ग्रीन स्क्रीन बैकग्राउंड पर एक स्टैंडअलोन टाइटल एनिमेशन बनाएं। इसमें कोई भी वातावरण, रोबोट, शहर या सिनेमैटिक बैकग्राउंड शामिल न करें। केवल एनिमेटेड टेक्स्ट दिखाएं।
-
-मुख्य टेक्स्ट:
-“ISTANBUL // YEAR 2100”
-
-स्टाइल:
-फ्यूचरिस्टिक, रोबोटिक, साइंस-फिक्शन इंटरफेस लुक, मैटेलिक-डिजिटल टाइपोग्राफी, सूक्ष्म ग्लिच इफेक्ट्स, स्कैन लाइन्स, डेटा फ्लिकर, इलेक्ट्रॉनिक डिस्टॉर्शन, और अक्षरों के चारों ओर एक हल्का नियॉन सियान / सफेद ग्लो।
-एनिमेशन:
-टेक्स्ट एक रोबोटिक सिस्टम बूट-अप की तरह दिखना चाहिए। यह एक संक्षिप्त डिजिटल फ्लिकर / टाइपिंग-इन इफेक्ट के साथ शुरू होता है, पूरी तरह से पढ़ने योग्य हो जाता है, थोड़ी देर स्क्रीन पर रहता है, और फिर एक क्लीन ग्लिच डिजॉल्व के साथ गायब हो जाता है। एनिमेशन स्लीक और सिनेमैटिक महसूस होना चाहिए, कार्टून जैसा नहीं।
-टाइमिंग:
-0.0–0.4 सेकंड: ग्लिच / स्कैन इफेक्ट के साथ टेक्स्ट का प्रकट होना
-0.4–1.8 सेकंड: टेक्स्ट का पूरी तरह से दिखाई देना
-1.8–2.3 सेकंड: टेक्स्ट का डिजिटल रूप से बिखरना और गायब होना
-बैकग्राउंड:
-केवल शुद्ध सॉलिड ग्रीन स्क्रीन, समान रूप से प्रकाशित, क्लीन क्रोमा की बैकग्राउंड, कोई छाया नहीं, कोई टेक्सचर नहीं, कोई ग्रेडिएंट नहीं।
-फ्रेमिंग:
-केंद्रित टेक्स्ट, बड़ा और पढ़ने योग्य, जिसके चारों ओर आसान कंपोजिटिंग के लिए पर्याप्त खाली ग्रीन स्पेस हो।
-फॉर्मेट:
-16:9, हाई कंट्रास्ट, क्लीन ओवरले एलिमेंट, जिसे बाद में किसी अन्य वीडियो के ऊपर रखने के लिए डिज़ाइन किया गया है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd4a7e3d76ae65cb9d30303e3fafd12d/thumbnails/thumbnail.jpg" width="600" alt="फ्यूचरिस्टिक साइंस-फिक्शन टाइटल एनिमेशन">
-
-**[🎬 वीडियो देखें →](https://x.com/ai_gezgini/status/2064424469079474504)**
-
-**लेखक:** [ai.gezgini](https://x.com/ai_gezgini) | **स्रोत:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **प्रकाशित:** Jun 9, 2026
-
----
-### Ginza Six का फर्स्ट-पर्सन वर्चुअल टूर
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ginza Six में एस्केलेटर से लेकर लट्टे आर्ट वाले कैफे तक घूमने का एक इमर्सिव फर्स्ट-पर्सन पर्सपेक्टिव वीडियो तैयार करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-कृपया Ginza Six में प्रवेश करने, एस्केलेटर से 6वीं मंजिल पर स्थित एक नए कैफे तक जाने और वहां एक नए लट्टे आर्ट प्रोडक्ट का आनंद लेने का फर्स्ट-पर्सन पर्सपेक्टिव वीडियो बनाएं! कृपया इसका एक वर्चुअल टूर तैयार करें!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a21aed34172cebce5e53f1fde366ec5/thumbnails/thumbnail.jpg" width="600" alt="Ginza Six का फर्स्ट-पर्सन वर्चुअल टूर">
-
-**[🎬 वीडियो देखें →](https://x.com/nagi_1up/status/2063930786903187754)**
-
-**लेखक:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **स्रोत:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **प्रकाशित:** Jun 8, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 53 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 56 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3082,6 +3084,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-08T08:38:32.329Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-08T12:43:50.031Z</sub>
 
 </div>

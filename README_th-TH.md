@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **153** |
+| 📝 พรอมต์ทั้งหมด | **156** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-08-08** |
 
@@ -56,11 +56,88 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### Glowing Jelly Octopus Transformation
+### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
+> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+
+#### 📝 พรอมต์
+
+```
+A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+
+**[🎬 ดูวิดีโอ →](https://x.com/playinbey/status/2085826420287418413)**
+
+**ผู้เขียน:** [PLAY!](https://x.com/playinbey) | **แหล่งที่มา:** [Link](https://x.com/playinbey/status/2085826420287418413) | **เผยแพร่เมื่อ:** Aug 7, 2026
+
+---
+### Dread and Foreboding Image-to-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+
+#### 📝 พรอมต์
+
+```
+Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+
+**[🎬 ดูวิดีโอ →](https://x.com/pzf_ai/status/2085736211625230529)**
+
+**ผู้เขียน:** [PZF](https://x.com/pzf_ai) | **แหล่งที่มา:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **เผยแพร่เมื่อ:** Aug 7, 2026
+
+---
+### Cherry Blossom Tree Gel Sculpture
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+
+#### 📝 พรอมต์
+
+```
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+Style:
+Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+Negative Prompt:
+Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+
+**[🎬 ดูวิดีโอ →](https://x.com/Strength04_X/status/2085703642037018819)**
+
+**ผู้เขียน:** [𝐌](https://x.com/Strength04_X) | **แหล่งที่มา:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **เผยแพร่เมื่อ:** Aug 7, 2026
+
+---
+### Jelly Octopus Macro Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
 
 #### 📝 พรอมต์
 
@@ -89,7 +166,7 @@ No background distractions
 Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
 
 **[🎬 ดูวิดีโอ →](https://x.com/Strength04_X/status/2085559452481261606)**
 
@@ -2908,88 +2985,13 @@ aggressive typography, hyper kinetic typography, broadcast motion graphics, rapi
 **ผู้เขียน:** [Natai](https://x.com/masterai13) | **แหล่งที่มา:** [Link](https://x.com/masterai13/status/2064704102701928461) | **เผยแพร่เมื่อ:** Jun 10, 2026
 
 ---
-### การทำ Slow Motion แบบไล่ระดับ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับสร้างวิดีโอที่ออกแบบมาเพื่อสร้างเอฟเฟกต์สโลว์โมชันสุดดราม่า ในจังหวะที่วัตถุหรือสัตว์เคลื่อนที่ถึงจุดสูงสุดของการเคลื่อนไหว
-
-#### 📝 พรอมต์
-
-```
-ในขณะที่สุนัขกระโดดถึงห่วง เวลาจะเริ่มช้าลงจนกลายเป็นสโลว์โมชันแบบสุดขีด โดยความเร็วจะลดลงเหลือประมาณ 1% ของความเร็วปกติ ณ จุดสูงสุดของการกระโดด
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b31b364da8c894f1af92298756da4091/thumbnails/thumbnail.jpg" width="600" alt="การทำ Slow Motion แบบไล่ระดับ">
-
-**[🎬 ดูวิดีโอ →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
-
-**ผู้เขียน:** [Google Flow](https://x.com/FlowbyGoogle) | **แหล่งที่มา:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **เผยแพร่เมื่อ:** Jun 9, 2026
-
----
-### แอนิเมชันชื่อเรื่องสไตล์ไซไฟแห่งอนาคต
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> วิดีโอพรอมต์ที่มีรายละเอียดสูงสำหรับการสร้างแอนิเมชันชื่อเรื่องสไตล์ไซไฟแบบไซเบอร์เนติกและมีเอฟเฟกต์กลิตช์บนฉากหลังสีเขียว เพื่อใช้สำหรับซ้อนทับวิดีโอ
-
-#### 📝 พรอมต์
-
-```
-สร้างแอนิเมชันชื่อเรื่องแบบเดี่ยวบนพื้นหลังสีเขียวล้วนสำหรับใช้ทำ Chroma Key ห้ามใส่สภาพแวดล้อม หุ่นยนต์ เมือง หรือพื้นหลังแบบภาพยนตร์ ให้แสดงเฉพาะข้อความที่มีการเคลื่อนไหวเท่านั้น
-
-ข้อความหลัก:
-“ISTANBUL // YEAR 2100”
-
-สไตล์:
-ล้ำสมัย, หุ่นยนต์, หน้าตาแบบอินเทอร์เฟซไซไฟ, ตัวอักษรแบบดิจิทัลโลหะ, เอฟเฟกต์กลิตช์เล็กน้อย, เส้นสแกน, การกะพริบของข้อมูล, การบิดเบือนทางอิเล็กทรอนิกส์ และแสงเรืองรองสีฟ้าไซแอน / ขาวรอบตัวอักษร
-แอนิเมชัน:
-ข้อความควรปรากฏเหมือนการบูตระบบหุ่นยนต์ เริ่มต้นด้วยการกะพริบแบบดิจิทัล / เอฟเฟกต์การพิมพ์สั้นๆ จากนั้นแสดงผลชัดเจน ค้างไว้บนหน้าจอครู่หนึ่ง แล้วหายไปพร้อมกับการสลายตัวแบบกลิตช์ที่สะอาดตา แอนิเมชันควรให้ความรู้สึกที่โฉบเฉี่ยวและเป็นภาพยนตร์ ไม่ใช่การ์ตูน
-ระยะเวลา:
-0.0–0.4 วินาที: ข้อความปรากฏขึ้นพร้อมเอฟเฟกต์กลิตช์ / เส้นสแกน
-0.4–1.8 วินาที: ข้อความแสดงผลชัดเจน
-1.8–2.3 วินาที: ข้อความแตกตัวและหายไปในรูปแบบดิจิทัล
-พื้นหลัง:
-พื้นหลังสีเขียวล้วนเท่านั้น จัดแสงสม่ำเสมอ เป็นพื้นหลังสำหรับทำ Chroma Key ที่สะอาดตา ไม่มีเงา ไม่มีพื้นผิว และไม่มีการไล่ระดับสี
-การจัดเฟรม:
-ข้อความอยู่ตรงกลาง ขนาดใหญ่และอ่านง่าย โดยมีพื้นที่สีเขียวว่างรอบๆ เพียงพอสำหรับการนำไปตัดต่อซ้อนทับได้ง่าย
-รูปแบบ:
-16:9, คอนทราสต์สูง, เป็นองค์ประกอบสำหรับซ้อนทับที่สะอาดตา ออกแบบมาเพื่อนำไปวางทับบนวิดีโออื่นในภายหลัง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd4a7e3d76ae65cb9d30303e3fafd12d/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันชื่อเรื่องสไตล์ไซไฟแห่งอนาคต">
-
-**[🎬 ดูวิดีโอ →](https://x.com/ai_gezgini/status/2064424469079474504)**
-
-**ผู้เขียน:** [ai.gezgini](https://x.com/ai_gezgini) | **แหล่งที่มา:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **เผยแพร่เมื่อ:** Jun 9, 2026
-
----
-### ทัวร์เสมือนจริงมุมมองบุคคลที่หนึ่งที่ Ginza Six
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> สร้างวิดีโอในมุมมองบุคคลที่หนึ่งที่ให้ความรู้สึกสมจริง โดยนำทางผ่าน Ginza Six ตั้งแต่บันไดเลื่อนไปจนถึงคาเฟ่เพื่อชมศิลปะบนฟองนมลาเต้
-
-#### 📝 พรอมต์
-
-```
-ช่วยสร้างวิดีโอในมุมมองบุคคลที่หนึ่งของการเดินเข้าไปใน Ginza Six ขึ้นบันไดเลื่อนไปยังคาเฟ่แห่งใหม่บนชั้น 6 และดื่มผลิตภัณฑ์ลาเต้อาร์ตตัวใหม่ให้หน่อย! ช่วยทำทัวร์เสมือนจริงของสถานที่นี้ด้วย!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a21aed34172cebce5e53f1fde366ec5/thumbnails/thumbnail.jpg" width="600" alt="ทัวร์เสมือนจริงมุมมองบุคคลที่หนึ่งที่ Ginza Six">
-
-**[🎬 ดูวิดีโอ →](https://x.com/nagi_1up/status/2063930786903187754)**
-
-**ผู้เขียน:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **แหล่งที่มา:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **เผยแพร่เมื่อ:** Jun 8, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 53 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 56 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3035,6 +3037,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-08T08:38:30.208Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-08T12:43:47.333Z</sub>
 
 </div>

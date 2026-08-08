@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **153** |
+| 📝 Tổng số prompt | **156** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-08** |
 
@@ -56,11 +56,88 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### Glowing Jelly Octopus Transformation
+### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
+> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+
+#### 📝 Prompt
+
+```
+A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+
+**[🎬 Xem video →](https://x.com/playinbey/status/2085826420287418413)**
+
+**Tác giả:** [PLAY!](https://x.com/playinbey) | **Nguồn:** [Link](https://x.com/playinbey/status/2085826420287418413) | **Đã xuất bản:** Aug 7, 2026
+
+---
+### Dread and Foreboding Image-to-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+
+#### 📝 Prompt
+
+```
+Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+
+**[🎬 Xem video →](https://x.com/pzf_ai/status/2085736211625230529)**
+
+**Tác giả:** [PZF](https://x.com/pzf_ai) | **Nguồn:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Đã xuất bản:** Aug 7, 2026
+
+---
+### Cherry Blossom Tree Gel Sculpture
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+
+#### 📝 Prompt
+
+```
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+Style:
+Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+Negative Prompt:
+Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2085703642037018819)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Đã xuất bản:** Aug 7, 2026
+
+---
+### Jelly Octopus Macro Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
 
 #### 📝 Prompt
 
@@ -89,7 +166,7 @@ No background distractions
 Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
 
 **[🎬 Xem video →](https://x.com/Strength04_X/status/2085559452481261606)**
 
@@ -2902,88 +2979,13 @@ Hãy thể hiện câu chuyện này cho tôi. Thực hiện chính xác theo th
 **Tác giả:** [Natai](https://x.com/masterai13) | **Nguồn:** [Link](https://x.com/masterai13/status/2064704102701928461) | **Đã xuất bản:** Jun 10, 2026
 
 ---
-### Hiệu ứng Slow Motion Action Ramp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video được thiết kế để tạo hiệu ứng chuyển động chậm đầy kịch tính khi một vật thể hoặc động vật đạt đến đỉnh điểm của chuyển động.
-
-#### 📝 Prompt
-
-```
-Khi chú chó chạm đến vòng, thời gian bắt đầu chậm dần thành hiệu ứng slow motion cực đại — đạt khoảng 1% tốc độ thực tại đỉnh điểm của cú nhảy
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b31b364da8c894f1af92298756da4091/thumbnails/thumbnail.jpg" width="600" alt="Hiệu ứng Slow Motion Action Ramp">
-
-**[🎬 Xem video →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
-
-**Tác giả:** [Google Flow](https://x.com/FlowbyGoogle) | **Nguồn:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **Đã xuất bản:** Jun 9, 2026
-
----
-### Hoạt ảnh tiêu đề khoa học viễn tưởng tương lai
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video chi tiết để tạo hoạt ảnh tiêu đề khoa học viễn tưởng mang phong cách điều khiển học, hiệu ứng nhiễu trên nền xanh lá cây để làm lớp phủ video.
-
-#### 📝 Prompt
-
-```
-Tạo một hoạt ảnh tiêu đề độc lập trên nền xanh lá cây thuần túy để sử dụng kỹ thuật chroma key. Không bao gồm bất kỳ môi trường, robot, thành phố hoặc nền điện ảnh nào. Chỉ hiển thị văn bản hoạt hình.
-
-Văn bản chính:
-“ISTANBUL // YEAR 2100”
-
-Phong cách:
-tương lai, robot, giao diện khoa học viễn tưởng, kiểu chữ kỹ thuật số kim loại, hiệu ứng nhiễu tinh tế, đường quét, nhấp nháy dữ liệu, biến dạng điện tử và ánh sáng neon màu lục lam / trắng dịu xung quanh các chữ cái.
-Hoạt ảnh:
-Văn bản sẽ xuất hiện giống như quá trình khởi động của một hệ thống robot. Bắt đầu bằng hiệu ứng nhấp nháy kỹ thuật số / hiệu ứng gõ phím ngắn, hiển thị rõ ràng, giữ trên màn hình trong chốc lát, sau đó biến mất bằng hiệu ứng tan biến nhiễu gọn gàng. Hoạt ảnh cần mang lại cảm giác mượt mà và đậm chất điện ảnh, không giống hoạt hình.
-Thời lượng:
-0,0–0,4 giây: văn bản xuất hiện với hiệu ứng nhiễu / đường quét
-0,4–1,8 giây: văn bản hiển thị rõ ràng
-1,8–2,3 giây: văn bản vỡ ra và biến mất theo kiểu kỹ thuật số
-Nền:
-chỉ sử dụng nền xanh lá cây thuần túy, được chiếu sáng đều, nền chroma key sạch sẽ, không có bóng đổ, không có kết cấu, không có hiệu ứng chuyển màu.
-Bố cục:
-văn bản căn giữa, lớn và dễ đọc, với đủ khoảng trống màu xanh lá cây xung quanh để dễ dàng ghép ảnh.
-Định dạng:
-16:9, độ tương phản cao, phần tử lớp phủ sạch sẽ, được thiết kế để đặt lên trên một video khác sau này.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd4a7e3d76ae65cb9d30303e3fafd12d/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh tiêu đề khoa học viễn tưởng tương lai">
-
-**[🎬 Xem video →](https://x.com/ai_gezgini/status/2064424469079474504)**
-
-**Tác giả:** [ai.gezgini](https://x.com/ai_gezgini) | **Nguồn:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Đã xuất bản:** Jun 9, 2026
-
----
-### Chuyến tham quan ảo góc nhìn thứ nhất tại Ginza Six
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Tạo video góc nhìn thứ nhất đầy sống động, dẫn dắt người xem đi từ thang cuốn tại Ginza Six đến một quán cà phê để thưởng thức nghệ thuật vẽ latte.
-
-#### 📝 Prompt
-
-```
-Vui lòng tạo một video góc nhìn thứ nhất ghi lại cảnh đi bộ vào Ginza Six, đi thang cuốn lên một quán cà phê mới ở tầng 6 và thưởng thức một sản phẩm latte art mới! Hãy thực hiện một chuyến tham quan ảo về địa điểm này nhé!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a21aed34172cebce5e53f1fde366ec5/thumbnails/thumbnail.jpg" width="600" alt="Chuyến tham quan ảo góc nhìn thứ nhất tại Ginza Six">
-
-**[🎬 Xem video →](https://x.com/nagi_1up/status/2063930786903187754)**
-
-**Tác giả:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Nguồn:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Đã xuất bản:** Jun 8, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 53 prompt khác không hiển thị ở đây
+### 🎯 56 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3029,6 +3031,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-08T08:38:31.419Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-08T12:43:48.765Z</sub>
 
 </div>

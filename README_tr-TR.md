@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **153** |
+| 📝 Toplam İstem | **156** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-08** |
 
@@ -56,11 +56,88 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### Glowing Jelly Octopus Transformation
+### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
+> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+
+#### 📝 İstem
+
+```
+A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+
+**[🎬 Videoyu izle →](https://x.com/playinbey/status/2085826420287418413)**
+
+**Yazar:** [PLAY!](https://x.com/playinbey) | **Kaynak:** [Link](https://x.com/playinbey/status/2085826420287418413) | **Yayınlandı:** Aug 7, 2026
+
+---
+### Dread and Foreboding Image-to-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+
+#### 📝 İstem
+
+```
+Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+
+**[🎬 Videoyu izle →](https://x.com/pzf_ai/status/2085736211625230529)**
+
+**Yazar:** [PZF](https://x.com/pzf_ai) | **Kaynak:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Yayınlandı:** Aug 7, 2026
+
+---
+### Cherry Blossom Tree Gel Sculpture
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+
+#### 📝 İstem
+
+```
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+Style:
+Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+Negative Prompt:
+Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2085703642037018819)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Yayınlandı:** Aug 7, 2026
+
+---
+### Jelly Octopus Macro Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
 
 #### 📝 İstem
 
@@ -89,7 +166,7 @@ No background distractions
 Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
 
 **[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2085559452481261606)**
 
@@ -2926,88 +3003,13 @@ Bana bu hikayeyi göster. Sol üstten başlayarak hikayeyi sırasıyla tam olara
 **Yazar:** [Natai](https://x.com/masterai13) | **Kaynak:** [Link](https://x.com/masterai13/status/2064704102701928461) | **Yayınlandı:** Jun 10, 2026
 
 ---
-### Ağır Çekim Hareket Rampası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir nesne veya hayvan hareketinin zirvesine ulaştığında dramatik bir ağır çekim etkisi yaratmak için tasarlanmış bir video oluşturma istemi.
-
-#### 📝 İstem
-
-```
-Köpek çembere ulaştığı anda zaman, aşırı ağır çekime geçerek yavaşlamaya başlar ve sıçramanın zirvesinde gerçek hızın yaklaşık %1'ine ulaşır
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b31b364da8c894f1af92298756da4091/thumbnails/thumbnail.jpg" width="600" alt="Ağır Çekim Hareket Rampası">
-
-**[🎬 Videoyu izle →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
-
-**Yazar:** [Google Flow](https://x.com/FlowbyGoogle) | **Kaynak:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **Yayınlandı:** Jun 9, 2026
-
----
-### Fütüristik Bilim Kurgu Başlık Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Video katmanları için yeşil ekran üzerinde sibernetik, glitch efektli bir bilim kurgu başlık animasyonu oluşturmaya yönelik oldukça detaylı bir video istemi.
-
-#### 📝 İstem
-
-```
-Chroma key kullanımı için saf yeşil ekran arka plan üzerinde bağımsız bir başlık animasyonu oluşturun. Herhangi bir ortam, robot, şehir veya sinematik arka plan içermesin. Sadece animasyonlu metni gösterin.
-
-Ana metin:
-“ISTANBUL // YEAR 2100”
-
-Stil:
-fütüristik, robotik, bilim kurgu arayüz görünümü, metalik-dijital tipografi, hafif glitch efektleri, tarama çizgileri, veri titremesi, elektronik bozulma ve harflerin etrafında yumuşak neon camgöbeği / beyaz bir parlama.
-Animasyon:
-Metin, robotik bir sistemin açılışı gibi görünmelidir. Kısa bir dijital titreme / yazılma efektiyle başlar, tamamen okunabilir hale gelir, bir süre ekranda kalır ve ardından temiz bir glitch çözünmesiyle kaybolur. Animasyon karikatürize değil, şık ve sinematik hissettirmelidir.
-Zamanlama:
-0.0–0.4 sn: metin glitch / tarama efektiyle belirir
-0.4–1.8 sn: metin tamamen görünür kalır
-1.8–2.3 sn: metin parçalanır ve dijital olarak kaybolur
-Arka plan:
-sadece saf düz yeşil ekran, eşit şekilde aydınlatılmış, temiz chroma key arka planı, gölge yok, doku yok, gradyan yok.
-Çerçeveleme:
-ortalanmış metin, büyük ve okunabilir, kolay kompozisyon için etrafında yeterli boş yeşil alan.
-Format:
-16:9, yüksek kontrast, temiz katman öğesi, daha sonra başka bir videonun üzerine yerleştirilmek üzere tasarlanmıştır.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd4a7e3d76ae65cb9d30303e3fafd12d/thumbnails/thumbnail.jpg" width="600" alt="Fütüristik Bilim Kurgu Başlık Animasyonu">
-
-**[🎬 Videoyu izle →](https://x.com/ai_gezgini/status/2064424469079474504)**
-
-**Yazar:** [ai.gezgini](https://x.com/ai_gezgini) | **Kaynak:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Yayınlandı:** Jun 9, 2026
-
----
-### Ginza Six Birinci Şahıs Sanal Turu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ginza Six içinde yürüyen, yürüyen merdivenlerden 6. kattaki yeni bir kafeye çıkan ve latte art deneyimleyen sürükleyici bir birinci şahıs bakış açılı video oluşturur.
-
-#### 📝 İstem
-
-```
-Lütfen Ginza Six'e giriş yapan, yürüyen merdivenlerle 6. kattaki yeni bir kafeye çıkan ve yeni bir latte art ürününü içen birinci şahıs bakış açılı bir video oluşturun! Lütfen bunun sanal bir turunu yapın!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a21aed34172cebce5e53f1fde366ec5/thumbnails/thumbnail.jpg" width="600" alt="Ginza Six Birinci Şahıs Sanal Turu">
-
-**[🎬 Videoyu izle →](https://x.com/nagi_1up/status/2063930786903187754)**
-
-**Yazar:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Kaynak:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Yayınlandı:** Jun 8, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 53 burada gösterilmeyen daha fazla istem
+### 🎯 56 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3053,6 +3055,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-08T08:38:41.649Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-08T12:43:58.968Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **153** |
+| 📝 Gesamtanzahl Prompts | **156** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-08** |
 
@@ -56,11 +56,88 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
-### Glowing Jelly Octopus Transformation
+### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
+> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+
+#### 📝 Prompt
+
+```
+A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+
+**[🎬 Video ansehen →](https://x.com/playinbey/status/2085826420287418413)**
+
+**Autor:** [PLAY!](https://x.com/playinbey) | **Quelle:** [Link](https://x.com/playinbey/status/2085826420287418413) | **Veröffentlicht:** Aug 7, 2026
+
+---
+### Dread and Foreboding Image-to-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+
+#### 📝 Prompt
+
+```
+Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+
+**[🎬 Video ansehen →](https://x.com/pzf_ai/status/2085736211625230529)**
+
+**Autor:** [PZF](https://x.com/pzf_ai) | **Quelle:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Veröffentlicht:** Aug 7, 2026
+
+---
+### Cherry Blossom Tree Gel Sculpture
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+
+#### 📝 Prompt
+
+```
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+Style:
+Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+Negative Prompt:
+Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2085703642037018819)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Veröffentlicht:** Aug 7, 2026
+
+---
+### Jelly Octopus Macro Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
 
 #### 📝 Prompt
 
@@ -89,7 +166,7 @@ No background distractions
 Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
 
 **[🎬 Video ansehen →](https://x.com/Strength04_X/status/2085559452481261606)**
 
@@ -2952,88 +3029,13 @@ Zeige mir diese Geschichte. Folge der Geschichte exakt in der Reihenfolge, begin
 **Autor:** [Natai](https://x.com/masterai13) | **Quelle:** [Link](https://x.com/masterai13/status/2064704102701928461) | **Veröffentlicht:** Jun 10, 2026
 
 ---
-### Slow-Motion-Action-Ramp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Generierungs-Prompt, der entwickelt wurde, um einen dramatischen Zeitlupeneffekt zu erzeugen, während ein Objekt oder Tier den Höhepunkt seiner Bewegung erreicht.
-
-#### 📝 Prompt
-
-```
-Während der Hund den Reifen erreicht, verlangsamt sich die Zeit in eine extreme Zeitlupe – und erreicht am höchsten Punkt des Sprungs etwa 1 % der Originalgeschwindigkeit.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b31b364da8c894f1af92298756da4091/thumbnails/thumbnail.jpg" width="600" alt="Slow-Motion-Action-Ramp">
-
-**[🎬 Video ansehen →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
-
-**Autor:** [Google Flow](https://x.com/FlowbyGoogle) | **Quelle:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **Veröffentlicht:** Jun 9, 2026
-
----
-### Futuristische Sci-Fi-Titelanimation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Video-Prompt zur Erstellung einer kybernetischen, glitchigen Sci-Fi-Titelanimation auf einem Greenscreen für Video-Overlays.
-
-#### 📝 Prompt
-
-```
-Erstelle eine eigenständige Titelanimation auf einem rein grünen Hintergrund für die Chroma-Key-Verwendung. Füge keine Umgebung, Roboter, Städte oder filmischen Hintergründe ein. Zeige ausschließlich den animierten Text.
-
-Haupttext:
-„ISTANBUL // YEAR 2100“
-
-Stil:
-futuristisch, robotisch, Sci-Fi-Interface-Look, metallisch-digitale Typografie, subtile Glitch-Effekte, Scanlines, Datenflimmern, elektronische Verzerrung und ein sanftes neon-zyanfarbenes / weißes Leuchten um die Buchstaben.
-Animation:
-Der Text soll wie beim Hochfahren eines Robotersystems erscheinen. Er beginnt mit einem kurzen digitalen Flimmern / Schreibmaschineneffekt, wird vollständig lesbar, bleibt einen Moment auf dem Bildschirm und verschwindet dann mit einer sauberen Glitch-Auflösung. Die Animation sollte elegant und filmisch wirken, nicht wie ein Cartoon.
-Zeitplan:
-0,0–0,4 Sek.: Text materialisiert sich mit Glitch- / Scan-Effekt
-0,4–1,8 Sek.: Text bleibt vollständig sichtbar
-1,8–2,3 Sek.: Text zerfällt und verschwindet digital
-Hintergrund:
-reiner, einfarbiger Greenscreen, gleichmäßig ausgeleuchtet, sauberer Chroma-Key-Hintergrund, keine Schatten, keine Textur, kein Verlauf.
-Bildaufbau:
-zentrierter Text, groß und gut lesbar, mit ausreichend leerem grünen Raum für ein einfaches Compositing.
-Format:
-16:9, hoher Kontrast, sauberes Overlay-Element, konzipiert für die spätere Platzierung über einem anderen Video.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd4a7e3d76ae65cb9d30303e3fafd12d/thumbnails/thumbnail.jpg" width="600" alt="Futuristische Sci-Fi-Titelanimation">
-
-**[🎬 Video ansehen →](https://x.com/ai_gezgini/status/2064424469079474504)**
-
-**Autor:** [ai.gezgini](https://x.com/ai_gezgini) | **Quelle:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **Veröffentlicht:** Jun 9, 2026
-
----
-### Ginza Six: Virtuelle Tour aus der Egoperspektive
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Erzeugt ein immersives Video aus der Egoperspektive, das durch Ginza Six führt – von der Rolltreppe bis hin zu einem Café mit Latte Art.
-
-#### 📝 Prompt
-
-```
-Bitte erstelle ein Video aus der Egoperspektive, das zeigt, wie man Ginza Six betritt, mit der Rolltreppe zu einem neuen Café im 6. Stock fährt und ein neues Latte-Art-Getränk genießt! Bitte führe eine virtuelle Tour durch diesen Ort durch!
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a21aed34172cebce5e53f1fde366ec5/thumbnails/thumbnail.jpg" width="600" alt="Ginza Six: Virtuelle Tour aus der Egoperspektive">
-
-**[🎬 Video ansehen →](https://x.com/nagi_1up/status/2063930786903187754)**
-
-**Autor:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **Quelle:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **Veröffentlicht:** Jun 8, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 53 weitere Prompts hier nicht angezeigt
+### 🎯 56 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3079,6 +3081,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-08T08:38:35.465Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-08T12:43:53.628Z</sub>
 
 </div>

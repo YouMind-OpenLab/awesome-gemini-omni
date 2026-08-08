@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **153** |
+| 📝 プロンプト総数 | **156** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-08-08** |
 
@@ -56,11 +56,88 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
-### Glowing Jelly Octopus Transformation
+### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
+> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+
+#### 📝 プロンプト
+
+```
+A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+
+**[🎬 動画を見る →](https://x.com/playinbey/status/2085826420287418413)**
+
+**作者:** [PLAY!](https://x.com/playinbey) | **ソース:** [Link](https://x.com/playinbey/status/2085826420287418413) | **公開日:** Aug 7, 2026
+
+---
+### Dread and Foreboding Image-to-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+
+#### 📝 プロンプト
+
+```
+Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+
+**[🎬 動画を見る →](https://x.com/pzf_ai/status/2085736211625230529)**
+
+**作者:** [PZF](https://x.com/pzf_ai) | **ソース:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **公開日:** Aug 7, 2026
+
+---
+### Cherry Blossom Tree Gel Sculpture
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+
+#### 📝 プロンプト
+
+```
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+Style:
+Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+Negative Prompt:
+Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+
+**[🎬 動画を見る →](https://x.com/Strength04_X/status/2085703642037018819)**
+
+**作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **公開日:** Aug 7, 2026
+
+---
+### Jelly Octopus Macro Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
 
 #### 📝 プロンプト
 
@@ -89,7 +166,7 @@ No background distractions
 Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
 
 **[🎬 動画を見る →](https://x.com/Strength04_X/status/2085559452481261606)**
 
@@ -2951,88 +3028,13 @@ modern anime editing（モダン・アニメ編集）
 **作者:** [Natai](https://x.com/masterai13) | **ソース:** [Link](https://x.com/masterai13/status/2064704102701928461) | **公開日:** Jun 10, 2026
 
 ---
-### スローモーション・アクション・ランプ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> オブジェクトや動物が動きの頂点に達した瞬間に、ドラマチックなスローモーション効果を生み出すための動画生成プロンプトです。
-
-#### 📝 プロンプト
-
-```
-犬がフープに到達すると同時に、時間が極端なスローモーションへと変化し始めます。ジャンプの頂点では、実際の速度の約 1% にまで減速します。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b31b364da8c894f1af92298756da4091/thumbnails/thumbnail.jpg" width="600" alt="スローモーション・アクション・ランプ">
-
-**[🎬 動画を見る →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
-
-**作者:** [Google Flow](https://x.com/FlowbyGoogle) | **ソース:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **公開日:** Jun 9, 2026
-
----
-### 近未来的な SF タイトルアニメーション
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 動画オーバーレイ用のグリーンバック素材として、サイバネティックでグリッチ感のある SF タイトルアニメーションを作成するための詳細なビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-クロマキー合成用に、純粋なグリーンバック背景で単体のタイトルアニメーションを作成してください。背景には環境、ロボット、都市、映画のような風景を含めないでください。アニメーション化されたテキストのみを表示してください。
-
-メインテキスト:
-“ISTANBUL // YEAR 2100”
-
-スタイル:
-近未来的、ロボット的、SF インターフェース風、メタリックでデジタルなタイポグラフィ、繊細なグリッチエフェクト、スキャンライン、データのちらつき、電子的な歪み、文字の周囲に柔らかなネオンシアン / ホワイトの輝き。
-アニメーション:
-ロボットシステムの起動のようなテキスト表示。短いデジタルのちらつき / タイピングエフェクトから始まり、完全に読み取れる状態になり、しばらく静止した後、クリーンなグリッチディゾルブで消滅します。アニメーションは漫画っぽくならず、洗練された映画のような質感にしてください。
-タイミング:
-0.0～0.4 秒: グリッチ / スキャンエフェクトと共にテキストが出現
-0.4～1.8 秒: テキストが完全に表示された状態で静止
-1.8～2.3 秒: テキストがデジタル的に崩れて消滅
-背景:
-純粋な単色のグリーンバックのみ。均一に照明を当て、影、テクスチャ、グラデーションのないクリーンなクロマキー背景にしてください。
-フレーミング:
-テキストを中央に配置し、大きく読みやすくします。後で簡単に合成できるよう、周囲に十分なグリーンの余白を確保してください。
-フォーマット:
-16:9、高コントラスト、クリーンなオーバーレイ要素。後で他の動画の上に重ねることを前提としたデザイン。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd4a7e3d76ae65cb9d30303e3fafd12d/thumbnails/thumbnail.jpg" width="600" alt="近未来的な SF タイトルアニメーション">
-
-**[🎬 動画を見る →](https://x.com/ai_gezgini/status/2064424469079474504)**
-
-**作者:** [ai.gezgini](https://x.com/ai_gezgini) | **ソース:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **公開日:** Jun 9, 2026
-
----
-### Ginza Six 一人称視点バーチャルツアー
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ginza Six 内をエスカレーターからラテアートが楽しめるカフェまで移動する、没入感のある一人称視点の動画を生成します。
-
-#### 📝 プロンプト
-
-```
-Ginza Six に入店し、エスカレーターで 6 階の新しいカフェへ向かい、新作のラテアートを飲むまでの一人称視点の動画を作成してください！バーチャルツアーのような体験をお願いします！
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a21aed34172cebce5e53f1fde366ec5/thumbnails/thumbnail.jpg" width="600" alt="Ginza Six 一人称視点バーチャルツアー">
-
-**[🎬 動画を見る →](https://x.com/nagi_1up/status/2063930786903187754)**
-
-**作者:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **ソース:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **公開日:** Jun 8, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 53 さらに多くのプロンプトがあります
+### 🎯 56 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3078,6 +3080,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-08T08:38:27.997Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-08T12:43:45.131Z</sub>
 
 </div>

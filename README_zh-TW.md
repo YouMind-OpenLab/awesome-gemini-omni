@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **153** |
+| 📝 提示詞總數 | **156** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-08-08** |
 
@@ -56,11 +56,88 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
-### Glowing Jelly Octopus Transformation
+### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An intricate video prompt for Gemini Omni Flash designed to create a hyper-realistic close-up of a glowing gel tube morphing into a translucent jelly octopus in a premium product commercial style.
+> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+
+#### 📝 提示詞
+
+```
+A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+
+**[🎬 觀看視頻 →](https://x.com/playinbey/status/2085826420287418413)**
+
+**作者:** [PLAY!](https://x.com/playinbey) | **來源:** [Link](https://x.com/playinbey/status/2085826420287418413) | **發布時間:** Aug 7, 2026
+
+---
+### Dread and Foreboding Image-to-Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+
+#### 📝 提示詞
+
+```
+Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+
+**[🎬 觀看視頻 →](https://x.com/pzf_ai/status/2085736211625230529)**
+
+**作者:** [PZF](https://x.com/pzf_ai) | **來源:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **發布時間:** Aug 7, 2026
+
+---
+### Cherry Blossom Tree Gel Sculpture
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+
+#### 📝 提示詞
+
+```
+A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
+The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
+The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+Style:
+Ultra macro photography
+Hyper-realistic CGI
+Cinematic studio lighting
+Extremely shallow depth of field
+Rich reflections
+Premium product commercial aesthetic
+Smooth continuous transformation
+Crisp textures
+Photorealistic materials
+8K quality
+Vertical 16:9
+30 FPS
+No text
+No camera movement
+No background distractions
+Negative Prompt:
+Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+
+**[🎬 觀看視頻 →](https://x.com/Strength04_X/status/2085703642037018819)**
+
+**作者:** [𝐌](https://x.com/Strength04_X) | **來源:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **發布時間:** Aug 7, 2026
+
+---
+### Jelly Octopus Macro Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
 
 #### 📝 提示詞
 
@@ -89,7 +166,7 @@ No background distractions
 Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Glowing Jelly Octopus Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
 
 **[🎬 觀看視頻 →](https://x.com/Strength04_X/status/2085559452481261606)**
 
@@ -2963,88 +3040,13 @@ RGB 故障，
 **作者:** [Natai](https://x.com/masterai13) | **來源:** [Link](https://x.com/masterai13/status/2064704102701928461) | **發布時間:** Jun 10, 2026
 
 ---
-### 慢動作動態加速
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個影片生成提示詞，旨在當物體或動物達到動作最高點時，創造出戲劇性的慢動作效果。
-
-#### 📝 提示詞
-
-```
-當狗狗到達圓圈時，時間開始減速進入極致慢動作——在跳躍的最高點達到實際速度的約 1%
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/b31b364da8c894f1af92298756da4091/thumbnails/thumbnail.jpg" width="600" alt="慢動作動態加速">
-
-**[🎬 觀看視頻 →](https://x.com/FlowbyGoogle/status/2064432607719555102)**
-
-**作者:** [Google Flow](https://x.com/FlowbyGoogle) | **來源:** [Link](https://x.com/FlowbyGoogle/status/2064432607719555102) | **發布時間:** Jun 9, 2026
-
----
-### 未來感科幻標題動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個高細節的影片提示詞，用於在綠幕上製作具備賽博龐克風格、故障藝術效果的科幻標題動畫，適用於影片疊加。
-
-#### 📝 提示詞
-
-```
-在純綠幕背景上製作一個獨立的標題動畫，以便進行色度鍵（Chroma Key）去背。請勿包含任何環境、機器人、城市或電影級背景，僅顯示動畫文字。
-
-主要文字：
-“ISTANBUL // YEAR 2100”
-
-風格：
-未來感、機器人風格、科幻介面視覺、金屬數位字體、細微的故障特效、掃描線、數據閃爍、電子失真，以及字母周圍散發柔和的霓虹青色 / 白色光暈。
-動畫：
-文字應呈現出機器人系統啟動的感覺。開頭帶有短暫的數位閃爍 / 打字機效果，隨後完全清晰顯示，停留片刻後以乾淨的故障溶解效果消失。動畫應呈現流暢且具電影感，而非卡通風格。
-時間軸：
-0.0–0.4 秒：文字伴隨故障 / 掃描特效顯現
-0.4–1.8 秒：文字保持完全可見
-1.8–2.3 秒：文字數位化破碎並消失
-背景：
-僅限純實色綠幕，均勻照明，乾淨的色度鍵背景，無陰影、無紋理、無漸層。
-構圖：
-文字置中，大而清晰，周圍保留足夠的綠色空白空間，以便於後續合成。
-格式：
-16:9，高對比度，乾淨的疊加元素，專為後續放置於其他影片之上而設計。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/dd4a7e3d76ae65cb9d30303e3fafd12d/thumbnails/thumbnail.jpg" width="600" alt="未來感科幻標題動畫">
-
-**[🎬 觀看視頻 →](https://x.com/ai_gezgini/status/2064424469079474504)**
-
-**作者:** [ai.gezgini](https://x.com/ai_gezgini) | **來源:** [Link](https://x.com/ai_gezgini/status/2064424469079474504) | **發布時間:** Jun 9, 2026
-
----
-### Ginza Six 第一人稱虛擬導覽
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 生成一段沉浸式的第一人稱視角影片，帶領觀眾穿梭於 Ginza Six，從手扶梯一路漫遊至咖啡廳，體驗拉花咖啡。
-
-#### 📝 提示詞
-
-```
-請製作一段第一人稱視角的影片，模擬走進 Ginza Six，搭乘手扶梯前往 6 樓的新開咖啡廳，並享用一款全新的拉花咖啡！請為此進行一場虛擬導覽！
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/6a21aed34172cebce5e53f1fde366ec5/thumbnails/thumbnail.jpg" width="600" alt="Ginza Six 第一人稱虛擬導覽">
-
-**[🎬 觀看視頻 →](https://x.com/nagi_1up/status/2063930786903187754)**
-
-**作者:** [なぎ｜AI動画のプロ/ 金盾経営者](https://x.com/nagi_1up) | **來源:** [Link](https://x.com/nagi_1up/status/2063930786903187754) | **發布時間:** Jun 8, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 53 更多提示詞未在此顯示
+### 🎯 56 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3090,6 +3092,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-08T08:38:26.958Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-08T12:43:43.881Z</sub>
 
 </div>
