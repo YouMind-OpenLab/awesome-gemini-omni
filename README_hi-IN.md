@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **156** |
+| 📝 कुल प्रॉम्पट्स | **158** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-08-10** |
 
@@ -56,6 +56,48 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Treehouse Interior Detailing Motion Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+
+#### 📝 प्रॉम्पट
+
+```
+Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+
+Create an ultra fast timelapse
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+
+**[🎬 वीडियो देखें →](https://x.com/Strength04_X/status/2086644591089041676)**
+
+**लेखक:** [𝐌](https://x.com/Strength04_X) | **स्रोत:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **प्रकाशित:** Aug 10, 2026
+
+---
+### Treehouse Foundation Motion Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+
+#### 📝 प्रॉम्पट
+
+```
+Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+
+Create an ultra fast timelapse speed construction
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
+
+**[🎬 वीडियो देखें →](https://x.com/Strength04_X/status/2086644027420815501)**
+
+**लेखक:** [𝐌](https://x.com/Strength04_X) | **स्रोत:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **प्रकाशित:** Aug 10, 2026
+
+---
 ### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2982,63 +3024,13 @@ Friday हाइप,
 **लेखक:** [Alpha Mom](https://x.com/YourAlphaMom) | **स्रोत:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **प्रकाशित:** Jun 11, 2026
 
 ---
-### यथार्थवादी इटली ट्रैवल व्लॉग कोलाज
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> स्मार्टफोन कैमरा एस्थेटिक के साथ एक यथार्थवादी इटली-थीम वाले ट्रैवल व्लॉग वीडियो को जेनरेट करने के लिए एक व्यापक प्रॉम्प्ट, जिसमें कई प्रतिष्ठित स्थानों का विवरण और कैजुअल हैंडहेल्ड फ्रेमिंग शामिल है।
-
-#### 📝 प्रॉम्पट
-
-```
-यथार्थवादी इटली व्लॉग कोलाज, अपूर्ण स्मार्टफोन कैमरा फील, उष्णकटिबंधीय आर्द्रता की धुंध, मोशन ब्लर, प्रामाणिक यात्रा कहानी, कैजुअल हैंडहेल्ड फ्रेमिंग, यथार्थवादी बनावट, प्राकृतिक एम्बिएंट लाइट, कोई स्टूडियो पॉलिश नहीं, कैंडिड सोशल मीडिया यथार्थवाद
-
-फ्रेम ब्रेकडाउन में शामिल हैं:
-- समुद्र की गूँज के साथ गुफा रेस्तरां टेबल सेल्फी
-- टस्कनी में गलत रास्ते पर मैप चेक
-- पीछे से अमाल्फी लेमन फार्म वॉक
-- शाम के समय डगमगाती वेनिस गोंडोला सेल्फी
-- सिंक टेरे टेरेस लंच कैंडिड
-- नीली चमक के साथ तंग कापरी बोट सेल्फी
-- टेढ़ी फ्रेमिंग के साथ लेक कोमो डिनर टोस्ट
-- शहर की धुंध के साथ फ्लोरेंस हिल विंडब्लोन सेल्फी
-- गंदी प्लेटों के साथ सिसिलियन सीफूड टेबल मोमेंट
-अंतिम फ्रेम: स्ट्रीटलाइट्स के टिमटिमाते ही रोम एली बार एपेरिटिवो, कांपती हुई हँसी वाली फोन कैप्चर
-```
-
-<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="यथार्थवादी इटली ट्रैवल व्लॉग कोलाज">
-
-**[🎬 वीडियो देखें →](https://x.com/mariaveydiaries/status/2064893720823271904)**
-
-**लेखक:** [Maria Vey](https://x.com/mariaveydiaries) | **स्रोत:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **प्रकाशित:** Jun 11, 2026
-
----
-### सिनेमैटिक स्टोरीबोर्ड वीडियो सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni के लिए एक प्रॉम्प्ट, जो ग्रिड-आधारित स्टोरीबोर्ड को 10-सेकंड के निरंतर सिनेमैटिक वीडियो सीक्वेंस में एनिमेट करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-मुझे इस कहानी में दिखाएं। ऊपर बाईं ओर से शुरू करते हुए कहानी का ठीक उसी क्रम में पालन करें। पूरी कहानी 10 सेकंड में। सिनेमैटिक।
-```
-
-<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="सिनेमैटिक स्टोरीबोर्ड वीडियो सीक्वेंस">
-
-**[🎬 वीडियो देखें →](https://x.com/masterai13/status/2064704102701928461)**
-
-**लेखक:** [Natai](https://x.com/masterai13) | **स्रोत:** [Link](https://x.com/masterai13/status/2064704102701928461) | **प्रकाशित:** Jun 10, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 56 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 58 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3084,6 +3076,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-10T05:24:54.233Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-10T09:18:28.609Z</sub>
 
 </div>

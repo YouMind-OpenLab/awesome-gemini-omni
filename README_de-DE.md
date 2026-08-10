@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **156** |
+| 📝 Gesamtanzahl Prompts | **158** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-10** |
 
@@ -56,6 +56,48 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Treehouse Interior Detailing Motion Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+
+#### 📝 Prompt
+
+```
+Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+
+Create an ultra fast timelapse
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2086644591089041676)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **Veröffentlicht:** Aug 10, 2026
+
+---
+### Treehouse Foundation Motion Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+
+#### 📝 Prompt
+
+```
+Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+
+Create an ultra fast timelapse speed construction
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2086644027420815501)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Veröffentlicht:** Aug 10, 2026
+
+---
 ### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2979,63 +3021,13 @@ Ein Spieler musste die Abwehr durchbrechen, an Gegnern vorbeidribbeln, ein schö
 **Autor:** [Alpha Mom](https://x.com/YourAlphaMom) | **Quelle:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **Veröffentlicht:** Jun 11, 2026
 
 ---
-### Realistisches Italien-Reise-Vlog-Collage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender Prompt zur Erstellung eines realistischen Reise-Vlog-Videos über Italien im Smartphone-Kamera-Look, mit einer Aufschlüsselung mehrerer ikonischer Orte und einer lässigen Handkamera-Perspektive.
-
-#### 📝 Prompt
-
-```
-realistische Italien-Vlog-Collage, unperfekter Smartphone-Kamera-Look, tropischer Feuchtigkeitsdunst, Bewegungsunschärfe, authentisches Reise-Storytelling, lässige Handkamera-Perspektive, realistische Texturen, natürliches Umgebungslicht, kein Studio-Glanz, ungezwungener Social-Media-Realismus
-
-Aufschlüsselung der Szenen:
-- Selfie am Tisch eines Höhlenrestaurants mit Meeresrauschen
-- Blick auf die Straßenkarte bei einer falschen Abzweigung in der Toskana
-- Spaziergang durch eine Zitronenplantage an der Amalfiküste aus der Rückenperspektive
-- wackeliges Venedig-Gondel-Selfie in der Dämmerung
-- ungezwungene Aufnahme beim Mittagessen auf einer Terrasse in Cinque Terre
-- enges Selfie auf einem Boot auf Capri mit blauem Schimmer
-- Anstoßen beim Abendessen am Comer See mit schiefem Bildausschnitt
-- windzerzaustes Selfie auf einem Hügel in Florenz mit dem Dunst der Stadt im Hintergrund
-- Moment am sizilianischen Meeresfrüchte-Tisch mit unordentlichen Tellern
-Letzte Szene: Aperitivo in einer Bar in einer römischen Gasse bei flackernden Straßenlaternen, wackelige, lachende Handyaufnahme
-```
-
-<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="Realistisches Italien-Reise-Vlog-Collage">
-
-**[🎬 Video ansehen →](https://x.com/mariaveydiaries/status/2064893720823271904)**
-
-**Autor:** [Maria Vey](https://x.com/mariaveydiaries) | **Quelle:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **Veröffentlicht:** Jun 11, 2026
-
----
-### Filmische Storyboard-Videosequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt für Gemini Omni, um ein rasterbasiertes Storyboard in eine durchgehende, 10-sekündige filmische Videosequenz zu animieren.
-
-#### 📝 Prompt
-
-```
-Zeige mir diese Geschichte. Folge der Geschichte exakt in der Reihenfolge, beginnend oben links. Die gesamte Geschichte in 10 Sekunden. Filmisch.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="Filmische Storyboard-Videosequenz">
-
-**[🎬 Video ansehen →](https://x.com/masterai13/status/2064704102701928461)**
-
-**Autor:** [Natai](https://x.com/masterai13) | **Quelle:** [Link](https://x.com/masterai13/status/2064704102701928461) | **Veröffentlicht:** Jun 10, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 56 weitere Prompts hier nicht angezeigt
+### 🎯 58 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3081,6 +3073,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-10T05:24:58.836Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-10T09:18:31.696Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **156** |
+| 📝 プロンプト総数 | **158** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-08-10** |
 
@@ -56,6 +56,48 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### Treehouse Interior Detailing Motion Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+
+#### 📝 プロンプト
+
+```
+Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+
+Create an ultra fast timelapse
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+
+**[🎬 動画を見る →](https://x.com/Strength04_X/status/2086644591089041676)**
+
+**作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **公開日:** Aug 10, 2026
+
+---
+### Treehouse Foundation Motion Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+
+#### 📝 プロンプト
+
+```
+Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+
+Create an ultra fast timelapse speed construction
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
+
+**[🎬 動画を見る →](https://x.com/Strength04_X/status/2086644027420815501)**
+
+**作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **公開日:** Aug 10, 2026
+
+---
 ### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2978,63 +3020,13 @@ modern anime editing（モダン・アニメ編集）
 **作者:** [Alpha Mom](https://x.com/YourAlphaMom) | **ソース:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **公開日:** Jun 11, 2026
 
 ---
-### リアルなイタリア旅行 Vlog コラージュ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> スマートフォンで撮影したような、リアルなイタリア旅行 Vlog 動画を生成するための包括的なプロンプトです。象徴的なロケーションの数々と、カジュアルな手持ち撮影の構図を詳細に指定しています。
-
-#### 📝 プロンプト
-
-```
-リアルなイタリア旅行 Vlog コラージュ、不完全なスマートフォン撮影の質感、熱帯の湿気によるかすみ、モーションブラー、本格的な旅のストーリーテリング、カジュアルな手持ち構図、リアルな質感、自然な環境光、スタジオ撮影のような洗練を排除、SNS に投稿されるようなありのままのリアリズム
-
-フレーム構成の内訳：
-- 海の音が響く洞窟レストランでのテーブルセルフィー
-- 道を間違えて地図を確認するトスカーナの風景
-- アマルフィのレモン農園を歩く後ろ姿
-- 夕暮れ時、揺れるヴェネツィアのゴンドラでのセルフィー
-- チンクエ・テッレのテラスでのランチ風景
-- 青い光に包まれた狭いカプリ島のボートでのセルフィー
-- 構図が少し傾いたコモ湖でのディナーの乾杯シーン
-- フィレンツェの丘で風に吹かれ、街がかすむ中でのセルフィー
-- 皿が散らかったシチリアのシーフードテーブルでのひととき
-最後のフレーム：街灯が点滅するローマの路地裏バーでのアペリティーボ、笑いながら手ブレするスマホ撮影
-```
-
-<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="リアルなイタリア旅行 Vlog コラージュ">
-
-**[🎬 動画を見る →](https://x.com/mariaveydiaries/status/2064893720823271904)**
-
-**作者:** [Maria Vey](https://x.com/mariaveydiaries) | **ソース:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **公開日:** Jun 11, 2026
-
----
-### シネマティックなストーリーボード動画シーケンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> グリッド形式のストーリーボードを 10 秒間の連続したシネマティックな動画シーケンスにアニメーション化するための Gemini Omni 用プロンプト。
-
-#### 📝 プロンプト
-
-```
-このストーリーを映像化してください。左上から順に、ストーリーの展開を正確に追ってください。ストーリー全体を 10 秒間で構成し、シネマティックな仕上がりにしてください。
-```
-
-<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="シネマティックなストーリーボード動画シーケンス">
-
-**[🎬 動画を見る →](https://x.com/masterai13/status/2064704102701928461)**
-
-**作者:** [Natai](https://x.com/masterai13) | **ソース:** [Link](https://x.com/masterai13/status/2064704102701928461) | **公開日:** Jun 10, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 56 さらに多くのプロンプトがあります
+### 🎯 58 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3080,6 +3072,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-10T05:24:48.864Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-10T09:18:25.388Z</sub>
 
 </div>

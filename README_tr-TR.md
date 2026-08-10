@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **156** |
+| 📝 Toplam İstem | **158** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-10** |
 
@@ -56,6 +56,48 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Treehouse Interior Detailing Motion Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+
+#### 📝 İstem
+
+```
+Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+
+Create an ultra fast timelapse
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2086644591089041676)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **Yayınlandı:** Aug 10, 2026
+
+---
+### Treehouse Foundation Motion Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+
+#### 📝 İstem
+
+```
+Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+
+Create an ultra fast timelapse speed construction
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2086644027420815501)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Yayınlandı:** Aug 10, 2026
+
+---
 ### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2953,63 +2995,13 @@ Bir oyuncunun savunmayı yarması, rakiplerini çalımlaması, güzel bir gol at
 **Yazar:** [Alpha Mom](https://x.com/YourAlphaMom) | **Kaynak:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **Yayınlandı:** Jun 11, 2026
 
 ---
-### Gerçekçi İtalya Seyahat Vlog Kolajı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Akıllı telefon kamerası estetiğine sahip, gerçekçi bir İtalya temalı seyahat vlog videosu oluşturmak için kapsamlı bir komut; ikonik lokasyonların dökümünü ve doğal el kamerası çekimlerini içerir.
-
-#### 📝 İstem
-
-```
-gerçekçi İtalya vlog kolajı, kusurlu akıllı telefon kamerası hissi, tropikal nem pususu, hareket bulanıklığı, otantik seyahat hikayesi anlatımı, doğal el kamerası çekimi, gerçekçi dokular, doğal ortam ışığı, stüdyo cilası yok, samimi sosyal medya gerçekçiliği
-
-Kare Dökümü şunları içerir:
-- deniz yankılarıyla mağara restoranı masa özçekimi
-- yanlış dönülen Toskana yol haritası kontrolü
-- arkadan Amalfi limon bahçesi yürüyüşü
-- gün batımında sallantılı Venedik gondol özçekimi
-- Cinque Terre terasında doğal öğle yemeği
-- mavi ışıltılı dar Capri tekne özçekimi
-- yamuk kadrajlı Como Gölü akşam yemeği kadehi
-- şehir puslu, rüzgarlı Floransa tepesi özçekimi
-- dağınık tabaklarla Sicilya deniz ürünleri masası anı
-Son kare: sokak lambaları titrerken Roma ara sokağında aperitivo, sallantılı ve gülümsemeli telefon çekimi
-```
-
-<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="Gerçekçi İtalya Seyahat Vlog Kolajı">
-
-**[🎬 Videoyu izle →](https://x.com/mariaveydiaries/status/2064893720823271904)**
-
-**Yazar:** [Maria Vey](https://x.com/mariaveydiaries) | **Kaynak:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **Yayınlandı:** Jun 11, 2026
-
----
-### Sinematik Storyboard Video Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni'nin ızgara tabanlı bir storyboard'u 10 saniyelik kesintisiz bir sinematik video sekansına dönüştürmesi için bir komut.
-
-#### 📝 İstem
-
-```
-Bana bu hikayeyi göster. Sol üstten başlayarak hikayeyi sırasıyla tam olarak takip et. Tüm hikaye 10 saniye içinde olsun. Sinematik.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="Sinematik Storyboard Video Sekansı">
-
-**[🎬 Videoyu izle →](https://x.com/masterai13/status/2064704102701928461)**
-
-**Yazar:** [Natai](https://x.com/masterai13) | **Kaynak:** [Link](https://x.com/masterai13/status/2064704102701928461) | **Yayınlandı:** Jun 10, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 56 burada gösterilmeyen daha fazla istem
+### 🎯 58 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3055,6 +3047,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-10T05:25:05.637Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-10T09:18:35.342Z</sub>
 
 </div>

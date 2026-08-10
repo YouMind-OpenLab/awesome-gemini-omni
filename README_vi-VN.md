@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **156** |
+| 📝 Tổng số prompt | **158** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-10** |
 
@@ -56,6 +56,48 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Treehouse Interior Detailing Motion Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+
+#### 📝 Prompt
+
+```
+Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+
+Create an ultra fast timelapse
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2086644591089041676)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **Đã xuất bản:** Aug 10, 2026
+
+---
+### Treehouse Foundation Motion Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+
+#### 📝 Prompt
+
+```
+Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+
+Create an ultra fast timelapse speed construction
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2086644027420815501)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Đã xuất bản:** Aug 10, 2026
+
+---
 ### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2929,63 +2971,13 @@ Cầu thủ phải vượt qua hàng phòng ngự, rê bóng qua các đối th�
 **Tác giả:** [Alpha Mom](https://x.com/YourAlphaMom) | **Nguồn:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **Đã xuất bản:** Jun 11, 2026
 
 ---
-### Video nhật ký du lịch Ý chân thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh toàn diện để tạo video nhật ký du lịch theo chủ đề Ý đầy chân thực với phong cách quay bằng điện thoại thông minh, bao gồm chi tiết về nhiều địa điểm mang tính biểu tượng và góc quay cầm tay tự nhiên.
-
-#### 📝 Prompt
-
-```
-video nhật ký du lịch Ý chân thực, cảm giác quay bằng điện thoại thông minh không hoàn hảo, hiệu ứng mờ ảo do độ ẩm nhiệt đới, nhòe chuyển động, kể chuyện du lịch chân thực, góc quay cầm tay tự nhiên, kết cấu thực tế, ánh sáng tự nhiên, không qua chỉnh sửa studio, phong cách thực tế trên mạng xã hội
-
-Chi tiết các khung hình bao gồm:
-- ảnh selfie tại bàn ăn trong nhà hàng hang động với tiếng vang của biển
-- kiểm tra bản đồ trên đường ở Tuscany khi đi nhầm đường
-- đi dạo trong vườn chanh ở Amalfi nhìn từ phía sau
-- ảnh selfie chòng chành trên thuyền gondola ở Venice lúc hoàng hôn
-- khoảnh khắc tự nhiên khi ăn trưa trên sân thượng ở Cinque Terre
-- ảnh selfie chật chội trên thuyền ở Capri với ánh sáng xanh
-- cụng ly bữa tối ở hồ Como với khung hình nghiêng
-- ảnh selfie bị gió thổi tung ở đồi Florence với thành phố mờ ảo
-- khoảnh khắc bàn ăn hải sản ở Sicily với đĩa thức ăn lộn xộn
-Khung hình cuối: thưởng thức đồ uống aperitivo tại quán bar trong ngõ ở Rome khi đèn đường nhấp nháy, hình ảnh quay bằng điện thoại rung lắc đầy tiếng cười
-```
-
-<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="Video nhật ký du lịch Ý chân thực">
-
-**[🎬 Xem video →](https://x.com/mariaveydiaries/status/2064893720823271904)**
-
-**Tác giả:** [Maria Vey](https://x.com/mariaveydiaries) | **Nguồn:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **Đã xuất bản:** Jun 11, 2026
-
----
-### Chuỗi video phân cảnh điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh dành cho Gemini Omni để chuyển hoạt ảnh từ bảng phân cảnh dạng lưới thành một chuỗi video điện ảnh liên tục dài 10 giây.
-
-#### 📝 Prompt
-
-```
-Hãy thể hiện câu chuyện này cho tôi. Thực hiện chính xác theo thứ tự câu chuyện bắt đầu từ góc trên cùng bên trái. Toàn bộ câu chuyện trong 10 giây. Phong cách điện ảnh.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="Chuỗi video phân cảnh điện ảnh">
-
-**[🎬 Xem video →](https://x.com/masterai13/status/2064704102701928461)**
-
-**Tác giả:** [Natai](https://x.com/masterai13) | **Nguồn:** [Link](https://x.com/masterai13/status/2064704102701928461) | **Đã xuất bản:** Jun 10, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 56 prompt khác không hiển thị ở đây
+### 🎯 58 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3031,6 +3023,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-10T05:24:53.150Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-10T09:18:27.809Z</sub>
 
 </div>

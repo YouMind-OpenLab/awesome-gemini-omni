@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **156** |
+| 📝 총 프롬프트 수 | **158** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-08-10** |
 
@@ -56,6 +56,48 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Treehouse Interior Detailing Motion Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+
+#### 📝 프롬프트
+
+```
+Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+
+Create an ultra fast timelapse
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+
+**[🎬 비디오 보기 →](https://x.com/Strength04_X/status/2086644591089041676)**
+
+**작성자:** [𝐌](https://x.com/Strength04_X) | **출처:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **게시일:** Aug 10, 2026
+
+---
+### Treehouse Foundation Motion Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+
+#### 📝 프롬프트
+
+```
+Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+
+Create an ultra fast timelapse speed construction
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
+
+**[🎬 비디오 보기 →](https://x.com/Strength04_X/status/2086644027420815501)**
+
+**작성자:** [𝐌](https://x.com/Strength04_X) | **출처:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **게시일:** Aug 10, 2026
+
+---
 ### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2977,63 +3019,13 @@ RGB 글리치,
 **작성자:** [Alpha Mom](https://x.com/YourAlphaMom) | **출처:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **게시일:** Jun 11, 2026
 
 ---
-### 현실적인 이탈리아 여행 브이로그 콜라주
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 스마트폰 카메라 감성을 살린 현실적인 이탈리아 여행 브이로그 영상 생성용 종합 프롬프트입니다. 여러 상징적인 장소와 자연스러운 핸드헬드 구도를 포함하고 있습니다.
-
-#### 📝 프롬프트
-
-```
-현실적인 이탈리아 브이로그 콜라주, 불완전한 스마트폰 카메라 느낌, 열대 습기 안개, 모션 블러, 진정성 있는 여행 스토리텔링, 자연스러운 핸드헬드 구도, 사실적인 질감, 자연광, 스튜디오 보정 없음, 가감 없는 소셜 미디어 리얼리즘
-
-프레임 구성:
-- 바다 소리가 들리는 동굴 레스토랑 테이블 셀카
-- 길을 잘못 들어 확인하는 토스카나 지도
-- 뒤에서 촬영한 아말피 레몬 농장 산책
-- 해 질 녘 흔들리는 베네치아 곤돌라 셀카
-- 친퀘테레 테라스에서의 자연스러운 점심 식사
-- 푸른 빛이 감도는 비좁은 카프리 보트 셀카
-- 구도가 살짝 비뚤어진 코모 호수에서의 저녁 건배
-- 도시의 안개가 어우러진 피렌체 언덕 위 바람에 흩날리는 셀카
-- 접시가 어질러진 시칠리아 해산물 식탁
-마지막 프레임: 가로등이 깜빡이는 로마 골목 바에서의 아페리티보, 흔들리며 웃음이 터지는 스마트폰 촬영
-```
-
-<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="현실적인 이탈리아 여행 브이로그 콜라주">
-
-**[🎬 비디오 보기 →](https://x.com/mariaveydiaries/status/2064893720823271904)**
-
-**작성자:** [Maria Vey](https://x.com/mariaveydiaries) | **출처:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **게시일:** Jun 11, 2026
-
----
-### 시네마틱 스토리보드 영상 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni를 사용하여 그리드 기반 스토리보드를 10초 분량의 연속적인 시네마틱 영상 시퀀스로 애니메이션화하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이 스토리를 영상으로 보여줘. 왼쪽 상단부터 시작하여 스토리 순서를 정확히 따라가 줘. 전체 스토리를 10초 안에 담아내고, 시네마틱한 느낌으로 제작해 줘.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="시네마틱 스토리보드 영상 시퀀스">
-
-**[🎬 비디오 보기 →](https://x.com/masterai13/status/2064704102701928461)**
-
-**작성자:** [Natai](https://x.com/masterai13) | **출처:** [Link](https://x.com/masterai13/status/2064704102701928461) | **게시일:** Jun 10, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 56 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 58 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3079,6 +3071,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-10T05:24:50.440Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-10T09:18:26.104Z</sub>
 
 </div>

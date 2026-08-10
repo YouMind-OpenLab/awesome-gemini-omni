@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **156** |
+| 📝 提示詞總數 | **158** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-08-10** |
 
@@ -56,6 +56,48 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Treehouse Interior Detailing Motion Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+
+#### 📝 提示詞
+
+```
+Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+
+Create an ultra fast timelapse
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+
+**[🎬 觀看視頻 →](https://x.com/Strength04_X/status/2086644591089041676)**
+
+**作者:** [𝐌](https://x.com/Strength04_X) | **來源:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **發布時間:** Aug 10, 2026
+
+---
+### Treehouse Foundation Motion Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+
+#### 📝 提示詞
+
+```
+Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+
+Create an ultra fast timelapse speed construction
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
+
+**[🎬 觀看視頻 →](https://x.com/Strength04_X/status/2086644027420815501)**
+
+**作者:** [𝐌](https://x.com/Strength04_X) | **來源:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **發布時間:** Aug 10, 2026
+
+---
 ### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2990,63 +3032,13 @@ RGB 故障，
 **作者:** [Alpha Mom](https://x.com/YourAlphaMom) | **來源:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **發布時間:** Jun 11, 2026
 
 ---
-### 寫實風格義大利旅遊 Vlog 拼貼
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份用於生成寫實義大利主題旅遊 Vlog 影片的綜合提示詞，具備智慧型手機拍攝的美感，包含多個標誌性地點的細節拆解與隨性手持運鏡。
-
-#### 📝 提示詞
-
-```
-寫實風格義大利 Vlog 拼貼，不完美的智慧型手機拍攝質感，熱帶濕氣霧感，動態模糊，真實的旅遊敘事，隨性手持運鏡，寫實紋理，自然環境光，無攝影棚修飾，坦率的社群媒體寫實感
-
-畫面拆解包含：
-- 洞穴餐廳餐桌自拍，背景帶有海浪回音
-- 在托斯卡尼迷路時查看地圖的畫面
-- 從背後拍攝的阿瑪菲檸檬園漫步
-- 黃昏時分搖晃的威尼斯貢多拉自拍
-- 五漁村露台午餐的隨性抓拍
-- 擁擠的卡布里島船上自拍，帶有藍色光暈
-- 科莫湖晚餐乾杯，構圖略顯歪斜
-- 佛羅倫斯山丘上被風吹亂頭髮的自拍，背景帶有城市霧氣
-- 西西里島海鮮餐桌時刻，餐盤凌亂
-最後畫面：羅馬巷弄酒吧的開胃酒時光，街燈閃爍，晃動且充滿笑聲的手機捕捉畫面
-```
-
-<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="寫實風格義大利旅遊 Vlog 拼貼">
-
-**[🎬 觀看視頻 →](https://x.com/mariaveydiaries/status/2064893720823271904)**
-
-**作者:** [Maria Vey](https://x.com/mariaveydiaries) | **來源:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **發布時間:** Jun 11, 2026
-
----
-### 電影感 Storyboard 影片序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於 Gemini Omni 的提示詞，旨在將網格狀的 Storyboard 動畫化為一段 10 秒的連續電影感影片序列。
-
-#### 📝 提示詞
-
-```
-請將此故事呈現出來。請嚴格按照從左上角開始的順序進行。整個故事需在 10 秒內完成。呈現電影感。
-```
-
-<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="電影感 Storyboard 影片序列">
-
-**[🎬 觀看視頻 →](https://x.com/masterai13/status/2064704102701928461)**
-
-**作者:** [Natai](https://x.com/masterai13) | **來源:** [Link](https://x.com/masterai13/status/2064704102701928461) | **發布時間:** Jun 10, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 56 更多提示詞未在此顯示
+### 🎯 58 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3092,6 +3084,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-10T05:24:47.302Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-10T09:18:24.624Z</sub>
 
 </div>

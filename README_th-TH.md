@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **156** |
+| 📝 พรอมต์ทั้งหมด | **158** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-08-10** |
 
@@ -56,6 +56,48 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### Treehouse Interior Detailing Motion Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+
+#### 📝 พรอมต์
+
+```
+Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+
+Create an ultra fast timelapse
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+
+**[🎬 ดูวิดีโอ →](https://x.com/Strength04_X/status/2086644591089041676)**
+
+**ผู้เขียน:** [𝐌](https://x.com/Strength04_X) | **แหล่งที่มา:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **เผยแพร่เมื่อ:** Aug 10, 2026
+
+---
+### Treehouse Foundation Motion Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+
+#### 📝 พรอมต์
+
+```
+Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+
+Create an ultra fast timelapse speed construction
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
+
+**[🎬 ดูวิดีโอ →](https://x.com/Strength04_X/status/2086644027420815501)**
+
+**ผู้เขียน:** [𝐌](https://x.com/Strength04_X) | **แหล่งที่มา:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **เผยแพร่เมื่อ:** Aug 10, 2026
+
+---
 ### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2935,63 +2977,13 @@ aggressive typography, hyper kinetic typography, broadcast motion graphics, rapi
 **ผู้เขียน:** [Alpha Mom](https://x.com/YourAlphaMom) | **แหล่งที่มา:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **เผยแพร่เมื่อ:** Jun 11, 2026
 
 ---
-### คอลลาจวิดีโอบล็อกท่องเที่ยวอิตาลีแบบสมจริง
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ชุดคำสั่ง (Prompt) สำหรับสร้างวิดีโอบล็อกท่องเที่ยวในธีมอิตาลีที่ดูสมจริงด้วยสไตล์กล้องสมาร์ทโฟน พร้อมรายละเอียดสถานที่สำคัญต่างๆ และการถ่ายทำแบบถือกล้องด้วยมือให้ความรู้สึกเป็นกันเอง
-
-#### 📝 พรอมต์
-
-```
-คอลลาจวิดีโอบล็อกท่องเที่ยวอิตาลีแบบสมจริง, ให้ความรู้สึกเหมือนถ่ายด้วยกล้องสมาร์ทโฟนที่ไม่สมบูรณ์แบบ, บรรยากาศความชื้นแบบเมืองร้อน, ภาพเบลอจากการเคลื่อนไหว, การเล่าเรื่องการท่องเที่ยวที่ดูเป็นธรรมชาติ, การถ่ายทำแบบถือกล้องด้วยมือ, พื้นผิวที่สมจริง, แสงธรรมชาติ, ไม่มีความเนี้ยบแบบสตูดิโอ, ความสมจริงแบบโซเชียลมีเดีย
-
-รายละเอียดแต่ละเฟรมประกอบด้วย:
-- เซลฟี่ที่โต๊ะอาหารในร้านถ้ำพร้อมเสียงสะท้อนจากทะเล
-- ภาพเช็กแผนที่ถนนในทัสคานีตอนหลงทาง
-- เดินชมสวนเลมอนในอามาลฟีจากมุมมองด้านหลัง
-- เซลฟี่บนเรือกอนโดลาในเวนิสที่โคลงเคลงตอนพลบค่ำ
-- ภาพแคนดิดมื้อเที่ยงบนระเบียงในชิงเกวแตร์เร
-- เซลฟี่ในเรือที่คับแคบที่คาปรีพร้อมแสงสีฟ้า
-- ภาพชนแก้วมื้อค่ำที่ทะเลสาบโคโมแบบจัดเฟรมเอียงๆ
-- เซลฟี่ผมปลิวจากลมบนเนินเขาในฟลอเรนซ์พร้อมวิวเมืองที่มีหมอกจางๆ
-- ช่วงเวลาบนโต๊ะอาหารทะเลในซิซิลีพร้อมจานอาหารที่ดูยุ่งเหยิง
-เฟรมสุดท้าย: ดื่มอะเพริทีโวที่บาร์ในตรอกที่โรมขณะไฟถนนกะพริบ ภาพสั่นไหวจากการถือโทรศัพท์ถ่ายขณะหัวเราะ
-```
-
-<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="คอลลาจวิดีโอบล็อกท่องเที่ยวอิตาลีแบบสมจริง">
-
-**[🎬 ดูวิดีโอ →](https://x.com/mariaveydiaries/status/2064893720823271904)**
-
-**ผู้เขียน:** [Maria Vey](https://x.com/mariaveydiaries) | **แหล่งที่มา:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **เผยแพร่เมื่อ:** Jun 11, 2026
-
----
-### ลำดับวิดีโอสตอรี่บอร์ดแบบภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับ Gemini Omni เพื่อเปลี่ยนสตอรี่บอร์ดแบบตารางให้เป็นลำดับวิดีโอแบบภาพยนตร์ต่อเนื่องความยาว 10 วินาที
-
-#### 📝 พรอมต์
-
-```
-แสดงให้ฉันเห็นในเรื่องราวนี้ โดยดำเนินเรื่องตามลำดับอย่างเคร่งครัดเริ่มจากซ้ายบน ทั้งหมดนี้ภายใน 10 วินาที ในรูปแบบภาพยนตร์
-```
-
-<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="ลำดับวิดีโอสตอรี่บอร์ดแบบภาพยนตร์">
-
-**[🎬 ดูวิดีโอ →](https://x.com/masterai13/status/2064704102701928461)**
-
-**ผู้เขียน:** [Natai](https://x.com/masterai13) | **แหล่งที่มา:** [Link](https://x.com/masterai13/status/2064704102701928461) | **เผยแพร่เมื่อ:** Jun 10, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 56 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 58 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3037,6 +3029,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-10T05:24:51.843Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-10T09:18:26.744Z</sub>
 
 </div>

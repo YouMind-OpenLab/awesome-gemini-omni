@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **156** |
+| 📝 Total Prompts | **158** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-10** |
 
@@ -56,6 +56,48 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Treehouse Interior Detailing Motion Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+
+#### 📝 Prompt
+
+```
+Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+
+Create an ultra fast timelapse
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2086644591089041676)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **Published:** Aug 10, 2026
+
+---
+### Treehouse Foundation Motion Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+
+#### 📝 Prompt
+
+```
+Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+
+Create an ultra fast timelapse speed construction
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2086644027420815501)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Published:** Aug 10, 2026
+
+---
 ### Anime Style Pandan Flour Pressing
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3119,63 +3161,13 @@ A player had to break through the defense, dribble past opponents, score a beaut
 **Author:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **Published:** Jun 11, 2026
 
 ---
-### Realistic Italy Travel Vlog Collage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive prompt for generating a realistic Italy-themed travel vlog video with a smartphone camera aesthetic, featuring a breakdown of multiple iconic locations and casual handheld framing.
-
-#### 📝 Prompt
-
-```
-realistic Italy vlog collage, imperfect smartphone camera feel, tropical humidity haze, motion blur, authentic travel storytelling, casual handheld framing, realistic textures, natural ambient light, no studio polish, candid social media realism
-
-Frame Breakdown includes:
-- cave restaurant table selfie with sea echoes
-- wrong-turn Tuscany road map check
-- Amalfi lemon farm walk from behind
-- wobbly Venice gondola selfie at dusk
-- Cinque Terre terrace lunch candid
-- cramped Capri boat selfie with blue glow
-- Lake Como dinner toast with crooked framing
-- Florence hill windblown selfie with city haze
-- Sicilian seafood table moment with messy plates
-Final frame: Rome alley bar aperitivo as streetlights flicker, shaky laughing phone capture
-```
-
-<img src="https://cms-assets.youmind.com/media/1781258505283_u9yc5z_HKf5O3-aYAAY_I8.jpg" width="600" alt="Realistic Italy Travel Vlog Collage">
-
-**[🎬 Watch Video →](https://x.com/mariaveydiaries/status/2064893720823271904)**
-
-**Author:** [Maria Vey](https://x.com/mariaveydiaries) | **Source:** [Link](https://x.com/mariaveydiaries/status/2064893720823271904) | **Published:** Jun 11, 2026
-
----
-### Cinematic Storyboard Video Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt for Gemini Omni to animate a grid-based storyboard into a continuous 10-second cinematic video sequence.
-
-#### 📝 Prompt
-
-```
-Show me in this story. Follow the story exactly in order starting top left. Entire story in 10 seconds. Cinematic.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781172489872_cwwopd_HKdNW2qXYAAqGoH.jpg" width="600" alt="Cinematic Storyboard Video Sequence">
-
-**[🎬 Watch Video →](https://x.com/masterai13/status/2064704102701928461)**
-
-**Author:** [Natai](https://x.com/masterai13) | **Source:** [Link](https://x.com/masterai13/status/2064704102701928461) | **Published:** Jun 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 56 more prompts not shown here
+### 🎯 58 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3221,6 +3213,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-10T05:24:44.588Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-10T09:18:22.939Z</sub>
 
 </div>
