@@ -48,7 +48,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 |--------|-------|
 | 📝 총 프롬프트 수 | **156** |
 | ⭐ 추천 프롬프트 | **0** |
-| 🔄 마지막 업데이트 | **2026-08-09** |
+| 🔄 마지막 업데이트 | **2026-08-10** |
 
 ---
 
@@ -3079,6 +3079,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-09T20:30:05.137Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-10T01:41:04.710Z</sub>
 
 </div>
