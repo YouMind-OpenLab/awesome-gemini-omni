@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **158** |
+| 📝 Total Prompts | **161** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-11** |
 
@@ -56,6 +56,68 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Hand Plucking Star from Night Sky Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
+
+#### 📝 Prompt
+
+```
+First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
+
+**[🎬 Watch Video →](https://x.com/TheChuksAi/status/2087042640453738616)**
+
+**Author:** [ChuksAi](https://x.com/TheChuksAi) | **Source:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **Published:** Aug 11, 2026
+
+---
+### Ember and the Firefly Storyboard Shot 1
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
+
+#### 📝 Prompt
+
+```
+EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
+
+SHOT 1 | THE SPARK (0:00–1:3s)
+Cam: Static wide, slow push-in.
+Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
+Sound: Forest hush, soft chime on the glow.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
+
+**[🎬 Watch Video →](https://x.com/Gre8tDan/status/2086787909399572802)**
+
+**Author:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Source:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Published:** Aug 10, 2026
+
+---
+### Strawberry Jello Pool Bounce
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for generating a video of a realistic strawberry made of jello bouncing in a strawberry jello pool, featuring macro textures and smooth camera movements.
+
+#### 📝 Prompt
+
+```
+A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Strawberry Jello Pool Bounce">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2086771369673699476)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Published:** Aug 10, 2026
+
+---
 ### Treehouse Interior Detailing Motion Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3098,76 +3160,13 @@ Make the woman go through all the emotions in image 2 in an unnatural sequence b
 **Author:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **Source:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **Published:** Jun 13, 2026
 
 ---
-### Fashion Model Rapid Style Switch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-speed fashion video prompt that creates a sequence of a model instantly switching between twenty different styles using hard cuts and a finger snap trigger.
-
-#### 📝 Prompt
-
-```
-A fashion model switches attires with a snap of a finger — 20 styles in 10 seconds, hard cuts
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="Fashion Model Rapid Style Switch">
-
-**[🎬 Watch Video →](https://x.com/Dheepanratnam/status/2065470220253135360)**
-
-**Author:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Source:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Published:** Jun 12, 2026
-
----
-### Cinematic Rainy Season Video
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A structured prompt for creating cinematic and poetic video content themed around the rainy season, featuring customizable parameters for region and mood.
-
-#### 📝 Prompt
-
-```
-[REGION] = Tokyo
-[REGION_NAME_DISPLAY] = Tokyo
-[REGION_SIGNATURES] = auto
-[DURATION] = 10 seconds
-[ASPECT_RATIO] = 16:9
-[MOOD] = cinematic, poetic, rainy season, magical realism
-Please create a cinematic video of [DURATION] based on the theme of the rainy season.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Rainy Season Video">
-
-**[🎬 Watch Video →](https://x.com/loglogrog/status/2065388912949002722)**
-
-**Author:** [マグマグ](https://x.com/loglogrog) | **Source:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **Published:** Jun 12, 2026
-
----
-### Soccer Player Goal Scoring and Celebration
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A complex sports action prompt for a football sequence involving dribbling past defenders, scoring a goal, and celebrating naturally.
-
-#### 📝 Prompt
-
-```
-A player had to break through the defense, dribble past opponents, score a beautiful goal, and celebrate naturally.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c53da27de61023f58dc784d761eb6c8/thumbnails/thumbnail.jpg" width="600" alt="Soccer Player Goal Scoring and Celebration">
-
-**[🎬 Watch Video →](https://x.com/YourAlphaMom/status/2065002571148779843)**
-
-**Author:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **Published:** Jun 11, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 58 more prompts not shown here
+### 🎯 61 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3213,6 +3212,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-11T08:53:25.430Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-11T13:00:15.259Z</sub>
 
 </div>

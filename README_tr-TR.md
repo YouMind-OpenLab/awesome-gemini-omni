@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **158** |
+| 📝 Toplam İstem | **161** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-11** |
 
@@ -56,6 +56,68 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Hand Plucking Star from Night Sky Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
+
+#### 📝 İstem
+
+```
+First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
+
+**[🎬 Videoyu izle →](https://x.com/TheChuksAi/status/2087042640453738616)**
+
+**Yazar:** [ChuksAi](https://x.com/TheChuksAi) | **Kaynak:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **Yayınlandı:** Aug 11, 2026
+
+---
+### Ember and the Firefly Storyboard Shot 1
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
+
+#### 📝 İstem
+
+```
+EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
+
+SHOT 1 | THE SPARK (0:00–1:3s)
+Cam: Static wide, slow push-in.
+Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
+Sound: Forest hush, soft chime on the glow.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
+
+**[🎬 Videoyu izle →](https://x.com/Gre8tDan/status/2086787909399572802)**
+
+**Yazar:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Kaynak:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Yayınlandı:** Aug 10, 2026
+
+---
+### Strawberry Jello Pool Bounce
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for generating a video of a realistic strawberry made of jello bouncing in a strawberry jello pool, featuring macro textures and smooth camera movements.
+
+#### 📝 İstem
+
+```
+A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Strawberry Jello Pool Bounce">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2086771369673699476)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Yayınlandı:** Aug 10, 2026
+
+---
 ### Treehouse Interior Detailing Motion Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2932,76 +2994,13 @@ Kadının 2. görseldeki tüm duyguları doğal olmayan bir sırayla ancak kesin
 **Yazar:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **Kaynak:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **Yayınlandı:** Jun 13, 2026
 
 ---
-### Hızlı Moda Stili Değişimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir modelin 10 saniye içinde 20 farklı stili sert kesişmelerle sergilediği yüksek hızlı bir moda istemi.
-
-#### 📝 İstem
-
-```
-Bir moda modeli parmak şıklatmasıyla kıyafet değiştiriyor — 10 saniyede 20 stil, sert kesişmeler
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="Hızlı Moda Stili Değişimi">
-
-**[🎬 Videoyu izle →](https://x.com/Dheepanratnam/status/2065470220253135360)**
-
-**Yazar:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **Kaynak:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **Yayınlandı:** Jun 12, 2026
-
----
-### Sinematik Yağmur Mevsimi Videosu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Yağmur mevsimi temalı, sinematik ve şiirsel video içerikleri oluşturmak için bölge ve ruh hali için özelleştirilebilir parametrelere sahip yapılandırılmış bir komut.
-
-#### 📝 İstem
-
-```
-[REGION] = Tokyo
-[REGION_NAME_DISPLAY] = Tokyo
-[REGION_SIGNATURES] = otomatik
-[DURATION] = 10 saniye
-[ASPECT_RATIO] = 16:9
-[MOOD] = sinematik, şiirsel, yağmur mevsimi, büyülü gerçekçilik
-Lütfen yağmur mevsimi temasına dayalı [DURATION] uzunluğunda sinematik bir video oluşturun.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Yağmur Mevsimi Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/loglogrog/status/2065388912949002722)**
-
-**Yazar:** [マグマグ](https://x.com/loglogrog) | **Kaynak:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **Yayınlandı:** Jun 12, 2026
-
----
-### Futbolcu Gol Atışı ve Sevinci
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Defans oyuncularını çalımlayıp gol atma ve doğal bir şekilde sevinme içeren bir futbol sekansı için karmaşık spor aksiyonu istemi.
-
-#### 📝 İstem
-
-```
-Bir oyuncunun savunmayı yarması, rakiplerini çalımlaması, güzel bir gol atması ve doğal bir şekilde sevinmesi gerekiyordu.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c53da27de61023f58dc784d761eb6c8/thumbnails/thumbnail.jpg" width="600" alt="Futbolcu Gol Atışı ve Sevinci">
-
-**[🎬 Videoyu izle →](https://x.com/YourAlphaMom/status/2065002571148779843)**
-
-**Yazar:** [Alpha Mom](https://x.com/YourAlphaMom) | **Kaynak:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **Yayınlandı:** Jun 11, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 58 burada gösterilmeyen daha fazla istem
+### 🎯 61 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3047,6 +3046,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-11T08:53:41.760Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-11T13:00:43.156Z</sub>
 
 </div>

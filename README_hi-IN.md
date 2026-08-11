@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **158** |
+| 📝 कुल प्रॉम्पट्स | **161** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-08-11** |
 
@@ -56,6 +56,68 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Hand Plucking Star from Night Sky Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
+
+#### 📝 प्रॉम्पट
+
+```
+First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
+
+**[🎬 वीडियो देखें →](https://x.com/TheChuksAi/status/2087042640453738616)**
+
+**लेखक:** [ChuksAi](https://x.com/TheChuksAi) | **स्रोत:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **प्रकाशित:** Aug 11, 2026
+
+---
+### Ember and the Firefly Storyboard Shot 1
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
+
+#### 📝 प्रॉम्पट
+
+```
+EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
+
+SHOT 1 | THE SPARK (0:00–1:3s)
+Cam: Static wide, slow push-in.
+Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
+Sound: Forest hush, soft chime on the glow.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
+
+**[🎬 वीडियो देखें →](https://x.com/Gre8tDan/status/2086787909399572802)**
+
+**लेखक:** [Great Dan 🥥](https://x.com/Gre8tDan) | **स्रोत:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **प्रकाशित:** Aug 10, 2026
+
+---
+### Strawberry Jello Pool Bounce
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for generating a video of a realistic strawberry made of jello bouncing in a strawberry jello pool, featuring macro textures and smooth camera movements.
+
+#### 📝 प्रॉम्पट
+
+```
+A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Strawberry Jello Pool Bounce">
+
+**[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2086771369673699476)**
+
+**लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **प्रकाशित:** Aug 10, 2026
+
+---
 ### Treehouse Interior Detailing Motion Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2961,76 +3023,13 @@ Friday हाइप,
 **लेखक:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **स्रोत:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **प्रकाशित:** Jun 13, 2026
 
 ---
-### रैपिड फैशन स्टाइल स्विच
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक हाई-स्पीड फैशन प्रॉम्प्ट जिसमें एक मॉडल 10 सेकंड में हार्ड कट्स का उपयोग करके 20 अलग-अलग स्टाइल में स्विच करती है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक फैशन मॉडल चुटकी बजाते ही अपनी पोशाक बदल लेती है — 10 सेकंड में 20 स्टाइल, हार्ड कट्स के साथ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="रैपिड फैशन स्टाइल स्विच">
-
-**[🎬 वीडियो देखें →](https://x.com/Dheepanratnam/status/2065470220253135360)**
-
-**लेखक:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **स्रोत:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **प्रकाशित:** Jun 12, 2026
-
----
-### सिनेमैटिक रेनी सीज़न वीडियो
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> रेनी सीज़न (बरसात के मौसम) पर आधारित सिनेमैटिक और काव्यात्मक वीडियो कंटेंट बनाने के लिए एक स्ट्रक्चर्ड प्रॉम्प्ट, जिसमें क्षेत्र और मूड के लिए कस्टमाइज़ेबल पैरामीटर्स शामिल हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-[REGION] = Tokyo
-[REGION_NAME_DISPLAY] = Tokyo
-[REGION_SIGNATURES] = auto
-[DURATION] = 10 seconds
-[ASPECT_RATIO] = 16:9
-[MOOD] = cinematic, poetic, rainy season, magical realism
-कृपया रेनी सीज़न की थीम पर आधारित [DURATION] का एक सिनेमैटिक वीडियो बनाएं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक रेनी सीज़न वीडियो">
-
-**[🎬 वीडियो देखें →](https://x.com/loglogrog/status/2065388912949002722)**
-
-**लेखक:** [マグマグ](https://x.com/loglogrog) | **स्रोत:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **प्रकाशित:** Jun 12, 2026
-
----
-### फुटबॉल खिलाड़ी का गोल करना और जश्न मनाना
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> डिफेंडरों को छकाकर आगे बढ़ने, गोल करने और स्वाभाविक रूप से जश्न मनाने वाले फुटबॉल सीक्वेंस के लिए एक जटिल स्पोर्ट्स एक्शन प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-एक खिलाड़ी को डिफेंस को तोड़कर, विरोधियों को ड्रिबल करके पीछे छोड़ना था, एक शानदार गोल करना था और स्वाभाविक रूप से जश्न मनाना था।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c53da27de61023f58dc784d761eb6c8/thumbnails/thumbnail.jpg" width="600" alt="फुटबॉल खिलाड़ी का गोल करना और जश्न मनाना">
-
-**[🎬 वीडियो देखें →](https://x.com/YourAlphaMom/status/2065002571148779843)**
-
-**लेखक:** [Alpha Mom](https://x.com/YourAlphaMom) | **स्रोत:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **प्रकाशित:** Jun 11, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 58 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 61 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3076,6 +3075,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-11T08:53:33.027Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-11T13:00:28.730Z</sub>
 
 </div>

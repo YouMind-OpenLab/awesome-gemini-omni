@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **158** |
+| 📝 พรอมต์ทั้งหมด | **161** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-08-11** |
 
@@ -56,6 +56,68 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### Hand Plucking Star from Night Sky Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
+
+#### 📝 พรอมต์
+
+```
+First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
+
+**[🎬 ดูวิดีโอ →](https://x.com/TheChuksAi/status/2087042640453738616)**
+
+**ผู้เขียน:** [ChuksAi](https://x.com/TheChuksAi) | **แหล่งที่มา:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **เผยแพร่เมื่อ:** Aug 11, 2026
+
+---
+### Ember and the Firefly Storyboard Shot 1
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
+
+#### 📝 พรอมต์
+
+```
+EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
+
+SHOT 1 | THE SPARK (0:00–1:3s)
+Cam: Static wide, slow push-in.
+Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
+Sound: Forest hush, soft chime on the glow.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
+
+**[🎬 ดูวิดีโอ →](https://x.com/Gre8tDan/status/2086787909399572802)**
+
+**ผู้เขียน:** [Great Dan 🥥](https://x.com/Gre8tDan) | **แหล่งที่มา:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **เผยแพร่เมื่อ:** Aug 10, 2026
+
+---
+### Strawberry Jello Pool Bounce
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for generating a video of a realistic strawberry made of jello bouncing in a strawberry jello pool, featuring macro textures and smooth camera movements.
+
+#### 📝 พรอมต์
+
+```
+A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Strawberry Jello Pool Bounce">
+
+**[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2086771369673699476)**
+
+**ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **เผยแพร่เมื่อ:** Aug 10, 2026
+
+---
 ### Treehouse Interior Detailing Motion Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2914,76 +2976,13 @@ aggressive typography, hyper kinetic typography, broadcast motion graphics, rapi
 **ผู้เขียน:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **แหล่งที่มา:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **เผยแพร่เมื่อ:** Jun 13, 2026
 
 ---
-### เปลี่ยนสไตล์แฟชั่นแบบรวดเร็วทันใจ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมท์แฟชั่นความเร็วสูงที่แสดงให้เห็นนางแบบเปลี่ยนสไตล์ถึง 20 แบบภายใน 10 วินาที โดยใช้การตัดต่อแบบฮาร์ดคัต
-
-#### 📝 พรอมต์
-
-```
-นางแบบแฟชั่นเปลี่ยนชุดได้ในพริบตา — 20 สไตล์ใน 10 วินาที ด้วยการตัดต่อแบบฮาร์ดคัต
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="เปลี่ยนสไตล์แฟชั่นแบบรวดเร็วทันใจ">
-
-**[🎬 ดูวิดีโอ →](https://x.com/Dheepanratnam/status/2065470220253135360)**
-
-**ผู้เขียน:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **แหล่งที่มา:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **เผยแพร่เมื่อ:** Jun 12, 2026
-
----
-### วิดีโอฤดูฝนในสไตล์ภาพยนตร์
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> ชุดคำสั่ง (Prompt) ที่มีโครงสร้างสำหรับการสร้างสรรค์วิดีโอในสไตล์ภาพยนตร์และบทกวีในธีมฤดูฝน พร้อมพารามิเตอร์ที่ปรับแต่งได้ตามภูมิภาคและอารมณ์ของวิดีโอ
-
-#### 📝 พรอมต์
-
-```
-[REGION] = โตเกียว
-[REGION_NAME_DISPLAY] = โตเกียว
-[REGION_SIGNATURES] = อัตโนมัติ
-[DURATION] = 10 วินาที
-[ASPECT_RATIO] = 16:9
-[MOOD] = สไตล์ภาพยนตร์, บทกวี, ฤดูฝน, สัจนิยมมหัศจรรย์
-โปรดสร้างวิดีโอสไตล์ภาพยนตร์ความยาว [DURATION] โดยอิงจากธีมฤดูฝน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอฤดูฝนในสไตล์ภาพยนตร์">
-
-**[🎬 ดูวิดีโอ →](https://x.com/loglogrog/status/2065388912949002722)**
-
-**ผู้เขียน:** [マグマグ](https://x.com/loglogrog) | **แหล่งที่มา:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **เผยแพร่เมื่อ:** Jun 12, 2026
-
----
-### นักฟุตบอลทำประตูและการฉลองชัย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (prompt) สำหรับฉากแอ็กชันกีฬาที่ซับซ้อนในลำดับเหตุการณ์ฟุตบอล ซึ่งประกอบด้วยการเลี้ยงบอลผ่านกองหลัง การทำประตู และการฉลองชัยอย่างเป็นธรรมชาติ
-
-#### 📝 พรอมต์
-
-```
-ผู้เล่นจะต้องฝ่าแนวรับ เลี้ยงบอลผ่านคู่แข่ง ทำประตูสุดสวย และฉลองชัยอย่างเป็นธรรมชาติ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c53da27de61023f58dc784d761eb6c8/thumbnails/thumbnail.jpg" width="600" alt="นักฟุตบอลทำประตูและการฉลองชัย">
-
-**[🎬 ดูวิดีโอ →](https://x.com/YourAlphaMom/status/2065002571148779843)**
-
-**ผู้เขียน:** [Alpha Mom](https://x.com/YourAlphaMom) | **แหล่งที่มา:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **เผยแพร่เมื่อ:** Jun 11, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 58 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 61 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3029,6 +3028,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-11T08:53:30.822Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-11T13:00:24.413Z</sub>
 
 </div>

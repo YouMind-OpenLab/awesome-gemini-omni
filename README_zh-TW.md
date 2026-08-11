@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **158** |
+| 📝 提示詞總數 | **161** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-08-11** |
 
@@ -56,6 +56,68 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Hand Plucking Star from Night Sky Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
+
+#### 📝 提示詞
+
+```
+First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
+
+**[🎬 觀看視頻 →](https://x.com/TheChuksAi/status/2087042640453738616)**
+
+**作者:** [ChuksAi](https://x.com/TheChuksAi) | **來源:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **發布時間:** Aug 11, 2026
+
+---
+### Ember and the Firefly Storyboard Shot 1
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
+
+#### 📝 提示詞
+
+```
+EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
+
+SHOT 1 | THE SPARK (0:00–1:3s)
+Cam: Static wide, slow push-in.
+Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
+Sound: Forest hush, soft chime on the glow.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
+
+**[🎬 觀看視頻 →](https://x.com/Gre8tDan/status/2086787909399572802)**
+
+**作者:** [Great Dan 🥥](https://x.com/Gre8tDan) | **來源:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **發布時間:** Aug 10, 2026
+
+---
+### Strawberry Jello Pool Bounce
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for generating a video of a realistic strawberry made of jello bouncing in a strawberry jello pool, featuring macro textures and smooth camera movements.
+
+#### 📝 提示詞
+
+```
+A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Strawberry Jello Pool Bounce">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2086771369673699476)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **發布時間:** Aug 10, 2026
+
+---
 ### Treehouse Interior Detailing Motion Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2969,76 +3031,13 @@ RGB 故障，
 **作者:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **來源:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **發布時間:** Jun 13, 2026
 
 ---
-### 快速時尚風格切換
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個高節奏的時尚提示詞，展示模特兒在 10 秒內透過硬切（hard cuts）變換 20 種不同風格。
-
-#### 📝 提示詞
-
-```
-時尚模特兒彈指間變換穿搭 —— 10 秒內呈現 20 種風格，採用硬切手法
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="快速時尚風格切換">
-
-**[🎬 觀看視頻 →](https://x.com/Dheepanratnam/status/2065470220253135360)**
-
-**作者:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **來源:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **發布時間:** Jun 12, 2026
-
----
-### 電影感雨季影片
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 這是一個結構化的提示詞，用於創作以雨季為主題、充滿電影感與詩意的影片內容，並提供地區與氛圍的自訂參數。
-
-#### 📝 提示詞
-
-```
-[REGION] = 東京
-[REGION_NAME_DISPLAY] = 東京
-[REGION_SIGNATURES] = 自動
-[DURATION] = 10 秒
-[ASPECT_RATIO] = 16:9
-[MOOD] = 電影感、詩意、雨季、魔幻寫實
-請根據雨季的主題，創作一部 [DURATION] 的電影感影片。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="電影感雨季影片">
-
-**[🎬 觀看視頻 →](https://x.com/loglogrog/status/2065388912949002722)**
-
-**作者:** [マグマグ](https://x.com/loglogrog) | **來源:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **發布時間:** Jun 12, 2026
-
----
-### 足球員進球與慶祝動作
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個複雜的運動動作提示詞，用於生成足球員過人、進球以及自然慶祝的連續動作。
-
-#### 📝 提示詞
-
-```
-球員必須突破防守、盤球過人、踢進精彩的一球，並展現自然的慶祝動作。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c53da27de61023f58dc784d761eb6c8/thumbnails/thumbnail.jpg" width="600" alt="足球員進球與慶祝動作">
-
-**[🎬 觀看視頻 →](https://x.com/YourAlphaMom/status/2065002571148779843)**
-
-**作者:** [Alpha Mom](https://x.com/YourAlphaMom) | **來源:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **發布時間:** Jun 11, 2026
-
----
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 58 更多提示詞未在此顯示
+### 🎯 61 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3084,6 +3083,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-11T08:53:27.860Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-11T13:00:18.839Z</sub>
 
 </div>

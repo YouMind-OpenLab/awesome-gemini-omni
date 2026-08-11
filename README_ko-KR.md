@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **158** |
+| 📝 총 프롬프트 수 | **161** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-08-11** |
 
@@ -56,6 +56,68 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Hand Plucking Star from Night Sky Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
+
+#### 📝 프롬프트
+
+```
+First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
+
+**[🎬 비디오 보기 →](https://x.com/TheChuksAi/status/2087042640453738616)**
+
+**작성자:** [ChuksAi](https://x.com/TheChuksAi) | **출처:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **게시일:** Aug 11, 2026
+
+---
+### Ember and the Firefly Storyboard Shot 1
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
+
+#### 📝 프롬프트
+
+```
+EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
+
+SHOT 1 | THE SPARK (0:00–1:3s)
+Cam: Static wide, slow push-in.
+Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
+Sound: Forest hush, soft chime on the glow.
+```
+
+<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
+
+**[🎬 비디오 보기 →](https://x.com/Gre8tDan/status/2086787909399572802)**
+
+**작성자:** [Great Dan 🥥](https://x.com/Gre8tDan) | **출처:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **게시일:** Aug 10, 2026
+
+---
+### Strawberry Jello Pool Bounce
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic prompt for generating a video of a realistic strawberry made of jello bouncing in a strawberry jello pool, featuring macro textures and smooth camera movements.
+
+#### 📝 프롬프트
+
+```
+A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Strawberry Jello Pool Bounce">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2086771369673699476)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **게시일:** Aug 10, 2026
+
+---
 ### Treehouse Interior Detailing Motion Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2956,76 +3018,13 @@ RGB 글리치,
 **작성자:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **출처:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **게시일:** Jun 13, 2026
 
 ---
-### 빠른 패션 스타일 전환
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 하드 컷을 사용하여 10초 만에 20가지 스타일을 선보이는 모델의 고속 패션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-손가락을 튕길 때마다 바뀌는 패션 모델의 의상 — 10초 동안 20가지 스타일을 보여주는 하드 컷 영상
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/317b347ec6ff0aeb4c9d5a93da62205d/thumbnails/thumbnail.jpg" width="600" alt="빠른 패션 스타일 전환">
-
-**[🎬 비디오 보기 →](https://x.com/Dheepanratnam/status/2065470220253135360)**
-
-**작성자:** [Dheepan Ratnam](https://x.com/Dheepanratnam) | **출처:** [Link](https://x.com/Dheepanratnam/status/2065470220253135360) | **게시일:** Jun 12, 2026
-
----
-### 영화 같은 장마철 영상
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 장마철을 테마로 영화적이고 시적인 영상 콘텐츠를 제작하기 위한 구조화된 프롬프트로, 지역과 분위기를 맞춤 설정할 수 있는 매개변수를 포함합니다.
-
-#### 📝 프롬프트
-
-```
-[REGION] = 도쿄
-[REGION_NAME_DISPLAY] = 도쿄
-[REGION_SIGNATURES] = 자동
-[DURATION] = 10 초
-[ASPECT_RATIO] = 16:9
-[MOOD] = 영화 같은, 시적인, 장마철, 마술적 리얼리즘
-장마철을 테마로 하여 [DURATION] 길이의 영화 같은 영상을 제작해 주세요.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/a83d8c4590460d917098bd24edd9aa7c/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 장마철 영상">
-
-**[🎬 비디오 보기 →](https://x.com/loglogrog/status/2065388912949002722)**
-
-**작성자:** [マグマグ](https://x.com/loglogrog) | **출처:** [Link](https://x.com/loglogrog/status/2065388912949002722) | **게시일:** Jun 12, 2026
-
----
-### 축구 선수의 골 득점 및 세리머니
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 수비수를 제치고 드리블하여 골을 넣고 자연스럽게 세리머니를 하는 축구 시퀀스를 위한 복합적인 스포츠 액션 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-선수는 수비를 돌파하고 상대 선수를 드리블로 제친 뒤 멋진 골을 성공시키고 자연스럽게 세리머니를 해야 했습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/5c53da27de61023f58dc784d761eb6c8/thumbnails/thumbnail.jpg" width="600" alt="축구 선수의 골 득점 및 세리머니">
-
-**[🎬 비디오 보기 →](https://x.com/YourAlphaMom/status/2065002571148779843)**
-
-**작성자:** [Alpha Mom](https://x.com/YourAlphaMom) | **출처:** [Link](https://x.com/YourAlphaMom/status/2065002571148779843) | **게시일:** Jun 11, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 58 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 61 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3071,6 +3070,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-11T08:53:30.045Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-11T13:00:22.563Z</sub>
 
 </div>
