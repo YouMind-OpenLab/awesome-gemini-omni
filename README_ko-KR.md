@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **161** |
+| 📝 총 프롬프트 수 | **165** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-08-12** |
 
@@ -56,6 +56,82 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Squirrel Garden Yard Sale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical video prompt describing a squirrel holding a yard sale in a garden to raise money.
+
+#### 📝 프롬프트
+
+```
+Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Squirrel Garden Yard Sale">
+
+**[🎬 비디오 보기 →](https://x.com/SilverAIProject/status/2087298245747683578)**
+
+**작성자:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **출처:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **게시일:** Aug 11, 2026
+
+---
+### Cat Food Thief Narrative
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for Gemini Omni involving two cats and a playful interaction with their owner.
+
+#### 📝 프롬프트
+
+```
+Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Cat Food Thief Narrative">
+
+**[🎬 비디오 보기 →](https://x.com/SilverAIProject/status/2087295479335751880)**
+
+**작성자:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **출처:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **게시일:** Aug 11, 2026
+
+---
+### Business Dashboard Review
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+
+#### 📝 프롬프트
+
+```
+A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+
+**[🎬 비디오 보기 →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
+
+**작성자:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **출처:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **게시일:** Aug 11, 2026
+
+---
+### Crystalline Frozen Water Droplet World
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+
+#### 📝 프롬프트
+
+```
+A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2087219303926124787)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **게시일:** Aug 11, 2026
+
+---
 ### Hand Plucking Star from Night Sky Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -99,11 +175,11 @@ Sound: Forest hush, soft chime on the glow.
 **작성자:** [Great Dan 🥥](https://x.com/Gre8tDan) | **출처:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **게시일:** Aug 10, 2026
 
 ---
-### Strawberry Jello Pool Bounce
+### Bouncing Strawberry Jello Pool
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for generating a video of a realistic strawberry made of jello bouncing in a strawberry jello pool, featuring macro textures and smooth camera movements.
+> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
 
 #### 📝 프롬프트
 
@@ -111,7 +187,7 @@ Sound: Forest hush, soft chime on the glow.
 A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Strawberry Jello Pool Bounce">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
 
 **[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
@@ -2942,89 +3018,13 @@ RGB 글리치,
 **작성자:** [onoken1025](https://x.com/onoken1025) | **출처:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **게시일:** Jun 15, 2026
 
 ---
-### 3D 키네틱 타이포그래피 비디오 애니메이션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 참조 이미지의 폰트 스타일을 사용하여 3D 공간에서 음성을 애니메이션화하고, 이를 비디오 배경 위에 오버레이하는 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-참조 이미지에 있는 글자 스타일을 사용하여 그가 말하는 단어들을 3D 공간에서 애니메이션으로 구현하세요. 전경과 배경 모두에 배치할 수 있습니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="3D 키네틱 타이포그래피 비디오 애니메이션">
-
-**[🎬 비디오 보기 →](https://x.com/andr3_ai/status/2066165981173473347)**
-
-**작성자:** [ANDR3 AI](https://x.com/andr3_ai) | **출처:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **게시일:** Jun 14, 2026
-
----
-### 초현실적인 ASMR 크리스탈 장미 산산조각 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 얼어붙은 반투명 크리스탈 장미가 부서지는 모습을 시각화한 초현실적인 ASMR 영상 프롬프트로, 정교한 얼음 파편 효과와 매크로 촬영 기법이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-초현실적인 ASMR 영상, 10초. 크리스탈 얼음으로 만들어진 반투명한 장미가 장갑을 낀 손가락 사이에서 부드럽게 으스러집니다. 얼음 꽃잎이 갈라지며 반짝이는 파편으로 산산조각 납니다. 매크로 렌즈, 드라마틱한 조명, 슬로우 모션. ASMR 사운드: 섬세한 얼음 갈라지는 소리, 크리스탈이 부딪히는 맑은 소리, 부드러운 바스락거림, 순도 높은 스튜디오급 오디오.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="초현실적인 ASMR 크리스탈 장미 산산조각 영상">
-
-**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2066068213734195675)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **게시일:** Jun 14, 2026
-
----
-### 파리 락슈가 시티 트랜지션
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 도시의 거리가 녹아내리는 락슈가와 시럽으로 변하며, 겨울의 회색빛에서 호박색으로 계절감이 변화하는 모습을 담은 Gemini Omni용 초현실적 시네마틱 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-시럽으로 녹아내리는 파리의 락슈가 대로, 겨울의 회색빛에서 봄의 꽃망울을 거쳐 낙엽의 호박색으로 깊어지는 색채 변화
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="파리 락슈가 시티 트랜지션">
-
-**[🎬 비디오 보기 →](https://x.com/loglogrog/status/2065898537121185919)**
-
-**작성자:** [マグマグ](https://x.com/loglogrog) | **출처:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **게시일:** Jun 13, 2026
-
----
-### 얼굴 감정 시퀀스 전환
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 참조 그리드를 기반으로 피사체가 일련의 감정을 거치도록 유도하여, 연속적이면서도 부자연스러운 시퀀스를 생성하는 Gemini Omni 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-이미지 2에 있는 모든 감정을 부자연스러운 순서로 표현하되, 끊김 없는 연속적인 샷으로 촬영해 주세요. 영상에 이미지 2는 포함하지 마세요.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="얼굴 감정 시퀀스 전환">
-
-**[🎬 비디오 보기 →](https://x.com/AlinTiganus/status/2065796704784306366)**
-
-**작성자:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **출처:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **게시일:** Jun 13, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 61 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 65 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3070,6 +3070,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-12T05:36:08.536Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-12T09:09:37.767Z</sub>
 
 </div>

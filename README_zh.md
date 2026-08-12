@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **161** |
+| 📝 提示词总数 | **165** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-08-12** |
 
@@ -56,6 +56,82 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Squirrel Garden Yard Sale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical video prompt describing a squirrel holding a yard sale in a garden to raise money.
+
+#### 📝 提示词
+
+```
+Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Squirrel Garden Yard Sale">
+
+**[🎬 观看视频 →](https://x.com/SilverAIProject/status/2087298245747683578)**
+
+**作者:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **来源:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **发布时间:** Aug 11, 2026
+
+---
+### Cat Food Thief Narrative
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for Gemini Omni involving two cats and a playful interaction with their owner.
+
+#### 📝 提示词
+
+```
+Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Cat Food Thief Narrative">
+
+**[🎬 观看视频 →](https://x.com/SilverAIProject/status/2087295479335751880)**
+
+**作者:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **来源:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **发布时间:** Aug 11, 2026
+
+---
+### Business Dashboard Review
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+
+#### 📝 提示词
+
+```
+A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+
+**[🎬 观看视频 →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
+
+**作者:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **来源:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **发布时间:** Aug 11, 2026
+
+---
+### Crystalline Frozen Water Droplet World
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+
+#### 📝 提示词
+
+```
+A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2087219303926124787)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **发布时间:** Aug 11, 2026
+
+---
 ### Hand Plucking Star from Night Sky Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -99,11 +175,11 @@ Sound: Forest hush, soft chime on the glow.
 **作者:** [Great Dan 🥥](https://x.com/Gre8tDan) | **来源:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **发布时间:** Aug 10, 2026
 
 ---
-### Strawberry Jello Pool Bounce
+### Bouncing Strawberry Jello Pool
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for generating a video of a realistic strawberry made of jello bouncing in a strawberry jello pool, featuring macro textures and smooth camera movements.
+> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
 
 #### 📝 提示词
 
@@ -111,7 +187,7 @@ Sound: Forest hush, soft chime on the glow.
 A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Strawberry Jello Pool Bounce">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
 
 **[🎬 观看视频 →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
@@ -2948,89 +3024,13 @@ Gada 在没有支撑的情况下完美保持平衡。
 **作者:** [onoken1025](https://x.com/onoken1025) | **来源:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **发布时间:** Jun 15, 2026
 
 ---
-### 3D 动态排版视频动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于在 3D 空间中为口述内容制作动画的提示词，通过参考图像中的特定字体样式，将其叠加在视频背景上。
-
-#### 📝 提示词
-
-```
-以参考图像中字母的风格，在 3D 空间中为他所说的词语制作动画。动画可以呈现在前景或背景中。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="3D 动态排版视频动画">
-
-**[🎬 观看视频 →](https://x.com/andr3_ai/status/2066165981173473347)**
-
-**作者:** [ANDR3 AI](https://x.com/andr3_ai) | **来源:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **发布时间:** Jun 14, 2026
-
----
-### 超逼真 ASMR 水晶玫瑰破碎视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个超逼真的 ASMR 视频提示词，用于创作冰冻半透明水晶玫瑰被捏碎的视觉效果，包含细腻的冰块破碎特效和微距摄影画面。
-
-#### 📝 提示词
-
-```
-超逼真 ASMR 视频，10 秒。一朵由水晶冰制成的冰冻半透明玫瑰在戴着手套的手指间被轻轻捏碎。冰花瓣破裂并碎成闪闪发光的碎片。微距镜头，戏剧性灯光，慢动作。ASMR 音效：精致的冰裂声、清脆的晶体碰撞声、柔和的碎裂声，纯净的录音室级音质。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="超逼真 ASMR 水晶玫瑰破碎视频">
-
-**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2066068213734195675)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **发布时间:** Jun 14, 2026
-
----
-### 巴黎冰糖城市变幻
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Gemini Omni 设计的超现实电影感提示词，将城市街道转化为融化的冰糖与糖浆，呈现出从灰色到琥珀色的季节性色彩过渡。
-
-#### 📝 提示词
-
-```
-巴黎冰糖大道融化为糖浆，色彩从冬日的灰色过渡到春天的花朵，最终变为落叶的琥珀色
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="巴黎冰糖城市变幻">
-
-**[🎬 观看视频 →](https://x.com/loglogrog/status/2065898537121185919)**
-
-**作者:** [マグマグ](https://x.com/loglogrog) | **来源:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **发布时间:** Jun 13, 2026
-
----
-### 面部情绪序列转换
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 Gemini Omni 提示词，引导主体根据参考网格经历一系列情绪，从而创造出连续且不自然的序列。
-
-#### 📝 提示词
-
-```
-让这位女性以不自然的顺序经历图片 2 中的所有情绪，但保持镜头连续。视频中不要包含图片 2
-```
-
-<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="面部情绪序列转换">
-
-**[🎬 观看视频 →](https://x.com/AlinTiganus/status/2065796704784306366)**
-
-**作者:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **来源:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **发布时间:** Jun 13, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 61 更多提示词未在此显示
+### 🎯 65 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3076,6 +3076,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-12T05:36:06.536Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-12T09:09:35.049Z</sub>
 
 </div>

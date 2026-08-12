@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **161** |
+| 📝 कुल प्रॉम्पट्स | **165** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-08-12** |
 
@@ -56,6 +56,82 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Squirrel Garden Yard Sale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical video prompt describing a squirrel holding a yard sale in a garden to raise money.
+
+#### 📝 प्रॉम्पट
+
+```
+Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Squirrel Garden Yard Sale">
+
+**[🎬 वीडियो देखें →](https://x.com/SilverAIProject/status/2087298245747683578)**
+
+**लेखक:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **स्रोत:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **प्रकाशित:** Aug 11, 2026
+
+---
+### Cat Food Thief Narrative
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for Gemini Omni involving two cats and a playful interaction with their owner.
+
+#### 📝 प्रॉम्पट
+
+```
+Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Cat Food Thief Narrative">
+
+**[🎬 वीडियो देखें →](https://x.com/SilverAIProject/status/2087295479335751880)**
+
+**लेखक:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **स्रोत:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **प्रकाशित:** Aug 11, 2026
+
+---
+### Business Dashboard Review
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+
+#### 📝 प्रॉम्पट
+
+```
+A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+
+**[🎬 वीडियो देखें →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
+
+**लेखक:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **स्रोत:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **प्रकाशित:** Aug 11, 2026
+
+---
+### Crystalline Frozen Water Droplet World
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+
+#### 📝 प्रॉम्पट
+
+```
+A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+
+**[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2087219303926124787)**
+
+**लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **प्रकाशित:** Aug 11, 2026
+
+---
 ### Hand Plucking Star from Night Sky Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -99,11 +175,11 @@ Sound: Forest hush, soft chime on the glow.
 **लेखक:** [Great Dan 🥥](https://x.com/Gre8tDan) | **स्रोत:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **प्रकाशित:** Aug 10, 2026
 
 ---
-### Strawberry Jello Pool Bounce
+### Bouncing Strawberry Jello Pool
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for generating a video of a realistic strawberry made of jello bouncing in a strawberry jello pool, featuring macro textures and smooth camera movements.
+> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
 
 #### 📝 प्रॉम्पट
 
@@ -111,7 +187,7 @@ Sound: Forest hush, soft chime on the glow.
 A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Strawberry Jello Pool Bounce">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
 
 **[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
@@ -2947,89 +3023,13 @@ Friday हाइप,
 **लेखक:** [onoken1025](https://x.com/onoken1025) | **स्रोत:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **प्रकाशित:** Jun 15, 2026
 
 ---
-### 3D काइनेटिक टाइपोग्राफी वीडियो एनीमेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्रॉम्प्ट जिसका उपयोग किसी संदर्भ छवि (reference image) से विशिष्ट फ़ॉन्ट शैली का उपयोग करके 3D स्पेस में बोले गए शब्दों को एनिमेट करने और उन्हें वीडियो बैकग्राउंड पर ओवरले करने के लिए किया जाता है।
-
-#### 📝 प्रॉम्पट
-
-```
-संदर्भ छवि में मौजूद अक्षरों की शैली में 3D स्पेस में उसके द्वारा बोले जा रहे शब्दों को एनिमेट करें। यह अग्रभूमि (foreground) और पृष्ठभूमि (background) दोनों में हो सकता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="3D काइनेटिक टाइपोग्राफी वीडियो एनीमेशन">
-
-**[🎬 वीडियो देखें →](https://x.com/andr3_ai/status/2066165981173473347)**
-
-**लेखक:** [ANDR3 AI](https://x.com/andr3_ai) | **स्रोत:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **प्रकाशित:** Jun 14, 2026
-
----
-### अति-यथार्थवादी ASMR क्रिस्टल रोज़ शैट्रिंग वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक अति-यथार्थवादी ASMR वीडियो प्रॉम्प्ट जो जमे हुए पारभासी क्रिस्टल गुलाब के कुचले जाने का दृश्य बनाता है, जिसमें विस्तृत बर्फ के बिखरने के प्रभाव और मैक्रो सिनेमैटोग्राफी शामिल है।
-
-#### 📝 प्रॉम्पट
-
-```
-अति-यथार्थवादी ASMR वीडियो, 10 सेकंड। क्रिस्टल बर्फ से बना एक जमा हुआ पारभासी गुलाब दस्ताने पहने उंगलियों के बीच धीरे से कुचला जाता है। बर्फ की पंखुड़ियाँ चटकती हैं और चमकते टुकड़ों में बिखर जाती हैं। मैक्रो लेंस, नाटकीय लाइटिंग, स्लो मोशन। ASMR ध्वनियाँ: नाजुक बर्फ का चटकना, क्रिस्टल जैसी खनक, हल्की कुरकुराहट, शुद्ध स्टूडियो-गुणवत्ता वाली ऑडियो।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="अति-यथार्थवादी ASMR क्रिस्टल रोज़ शैट्रिंग वीडियो">
-
-**[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2066068213734195675)**
-
-**लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **प्रकाशित:** Jun 14, 2026
-
----
-### पेरिस रॉक-शुगर सिटी ट्रांज़िशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni के लिए एक असली (surreal) सिनेमाई प्रॉम्प्ट, जो शहर की सड़कों को पिघलती हुई रॉक शुगर और सिरप में बदल देता है, जिसमें ग्रे से एम्बर तक मौसमी रंग परिवर्तन शामिल है।
-
-#### 📝 प्रॉम्पट
-
-```
-पेरिस की रॉक-शुगर वाली सड़कें सिरप में घुल रही हैं, जिसका रंग सर्दियों के ग्रे से बदलकर वसंत के फूलों और फिर गिरी हुई पत्तियों के एम्बर रंग में गहरा होता जा रहा है
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="पेरिस रॉक-शुगर सिटी ट्रांज़िशन">
-
-**[🎬 वीडियो देखें →](https://x.com/loglogrog/status/2065898537121185919)**
-
-**लेखक:** [マグマグ](https://x.com/loglogrog) | **स्रोत:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **प्रकाशित:** Jun 13, 2026
-
----
-### चेहरे के भावों का क्रमिक परिवर्तन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक Gemini Omni प्रॉम्प्ट जो एक संदर्भ ग्रिड के आधार पर विषय को भावनाओं की एक श्रृंखला से गुजारता है, जिससे एक निरंतर और अप्राकृतिक अनुक्रम तैयार होता है।
-
-#### 📝 प्रॉम्पट
-
-```
-महिला को इमेज 2 में दी गई सभी भावनाओं से एक अप्राकृतिक लेकिन निरंतर शॉट में गुजारें। वीडियो में इमेज 2 को शामिल न करें
-```
-
-<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="चेहरे के भावों का क्रमिक परिवर्तन">
-
-**[🎬 वीडियो देखें →](https://x.com/AlinTiganus/status/2065796704784306366)**
-
-**लेखक:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **स्रोत:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **प्रकाशित:** Jun 13, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 61 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 65 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3075,6 +3075,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-12T05:36:10.489Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-12T09:09:40.543Z</sub>
 
 </div>

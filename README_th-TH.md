@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **161** |
+| 📝 พรอมต์ทั้งหมด | **165** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-08-12** |
 
@@ -56,6 +56,82 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### Squirrel Garden Yard Sale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical video prompt describing a squirrel holding a yard sale in a garden to raise money.
+
+#### 📝 พรอมต์
+
+```
+Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Squirrel Garden Yard Sale">
+
+**[🎬 ดูวิดีโอ →](https://x.com/SilverAIProject/status/2087298245747683578)**
+
+**ผู้เขียน:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **แหล่งที่มา:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **เผยแพร่เมื่อ:** Aug 11, 2026
+
+---
+### Cat Food Thief Narrative
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for Gemini Omni involving two cats and a playful interaction with their owner.
+
+#### 📝 พรอมต์
+
+```
+Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Cat Food Thief Narrative">
+
+**[🎬 ดูวิดีโอ →](https://x.com/SilverAIProject/status/2087295479335751880)**
+
+**ผู้เขียน:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **แหล่งที่มา:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **เผยแพร่เมื่อ:** Aug 11, 2026
+
+---
+### Business Dashboard Review
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+
+#### 📝 พรอมต์
+
+```
+A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+
+**[🎬 ดูวิดีโอ →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
+
+**ผู้เขียน:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **แหล่งที่มา:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **เผยแพร่เมื่อ:** Aug 11, 2026
+
+---
+### Crystalline Frozen Water Droplet World
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+
+#### 📝 พรอมต์
+
+```
+A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+
+**[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2087219303926124787)**
+
+**ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **เผยแพร่เมื่อ:** Aug 11, 2026
+
+---
 ### Hand Plucking Star from Night Sky Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -99,11 +175,11 @@ Sound: Forest hush, soft chime on the glow.
 **ผู้เขียน:** [Great Dan 🥥](https://x.com/Gre8tDan) | **แหล่งที่มา:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **เผยแพร่เมื่อ:** Aug 10, 2026
 
 ---
-### Strawberry Jello Pool Bounce
+### Bouncing Strawberry Jello Pool
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for generating a video of a realistic strawberry made of jello bouncing in a strawberry jello pool, featuring macro textures and smooth camera movements.
+> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
 
 #### 📝 พรอมต์
 
@@ -111,7 +187,7 @@ Sound: Forest hush, soft chime on the glow.
 A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Strawberry Jello Pool Bounce">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
 
 **[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
@@ -2900,89 +2976,13 @@ aggressive typography, hyper kinetic typography, broadcast motion graphics, rapi
 **ผู้เขียน:** [onoken1025](https://x.com/onoken1025) | **แหล่งที่มา:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **เผยแพร่เมื่อ:** Jun 15, 2026
 
 ---
-### แอนิเมชันวิดีโอตัวอักษรเคลื่อนไหวแบบ 3D
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับใช้ทำแอนิเมชันคำพูดในพื้นที่ 3D โดยใช้รูปแบบตัวอักษรจากภาพอ้างอิง และนำไปวางซ้อนบนพื้นหลังวิดีโอ
-
-#### 📝 พรอมต์
-
-```
-สร้างแอนิเมชันคำพูดของเขาในพื้นที่ 3D โดยใช้รูปแบบตัวอักษรตามภาพอ้างอิง สามารถจัดวางไว้ทั้งในส่วนหน้าและส่วนหลังของวิดีโอได้
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="แอนิเมชันวิดีโอตัวอักษรเคลื่อนไหวแบบ 3D">
-
-**[🎬 ดูวิดีโอ →](https://x.com/andr3_ai/status/2066165981173473347)**
-
-**ผู้เขียน:** [ANDR3 AI](https://x.com/andr3_ai) | **แหล่งที่มา:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **เผยแพร่เมื่อ:** Jun 14, 2026
-
----
-### วิดีโอ ASMR ดอกกุหลาบคริสตัลแตกละเอียดสมจริงเป็นพิเศษ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอ ASMR ที่สมจริงเป็นพิเศษสำหรับการสร้างภาพดอกกุหลาบคริสตัลโปร่งแสงที่ถูกแช่แข็งแล้วแตกออก นำเสนอเอฟเฟกต์น้ำแข็งแตกละเอียดและงานภาพแบบมาโคร
-
-#### 📝 พรอมต์
-
-```
-วิดีโอ ASMR ที่สมจริงเป็นพิเศษ ความยาว 10 วินาที ภาพดอกกุหลาบโปร่งแสงที่ทำจากน้ำแข็งคริสตัลถูกบีบเบาๆ ด้วยนิ้วมือที่สวมถุงมือ กลีบน้ำแข็งแตกและกระจายตัวเป็นชิ้นส่วนประกายระยิบระยับ เลนส์มาโคร แสงที่ดูมีมิติ สโลว์โมชัน เสียง ASMR: เสียงน้ำแข็งแตกละเอียด เสียงคริสตัลกระทบกัน เสียงกรอบแกรบเบาๆ คุณภาพเสียงระดับสตูดิโอ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอ ASMR ดอกกุหลาบคริสตัลแตกละเอียดสมจริงเป็นพิเศษ">
-
-**[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2066068213734195675)**
-
-**ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **เผยแพร่เมื่อ:** Jun 14, 2026
-
----
-### การเปลี่ยนผ่านของเมืองปารีสสู่เมืองน้ำตาลกรวด
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวภาพยนตร์เหนือจริงสำหรับ Gemini Omni ที่เปลี่ยนถนนในเมืองให้กลายเป็นน้ำตาลกรวดและน้ำเชื่อมที่กำลังละลาย พร้อมการเปลี่ยนผ่านของสีตามฤดูกาลจากสีเทาไปสู่สีเหลืองอำพัน
-
-#### 📝 พรอมต์
-
-```
-ถนนในปารีสที่ทำจากน้ำตาลกรวดกำลังละลายกลายเป็นน้ำเชื่อม สีสันเปลี่ยนจากสีเทาของฤดูหนาวไปสู่สีสันของดอกไม้ผลิ และกลายเป็นสีเหลืองอำพันของใบไม้ร่วง
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนผ่านของเมืองปารีสสู่เมืองน้ำตาลกรวด">
-
-**[🎬 ดูวิดีโอ →](https://x.com/loglogrog/status/2065898537121185919)**
-
-**ผู้เขียน:** [マグマグ](https://x.com/loglogrog) | **แหล่งที่มา:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **เผยแพร่เมื่อ:** Jun 13, 2026
-
----
-### การเปลี่ยนผ่านลำดับอารมณ์บนใบหน้า
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) สำหรับ Gemini Omni ที่จะนำทางตัวแบบให้แสดงอารมณ์ต่างๆ ตามตารางอ้างอิง เพื่อสร้างลำดับเหตุการณ์ที่ต่อเนื่องแต่ดูไม่เป็นธรรมชาติ
-
-#### 📝 พรอมต์
-
-```
-ทำให้ผู้หญิงคนนี้แสดงอารมณ์ทั้งหมดตามภาพที่ 2 โดยใช้ลำดับที่ไม่เป็นธรรมชาติแต่เป็นการถ่ายทำแบบต่อเนื่อง ห้ามรวมภาพที่ 2 ไว้ในวิดีโอ
-```
-
-<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="การเปลี่ยนผ่านลำดับอารมณ์บนใบหน้า">
-
-**[🎬 ดูวิดีโอ →](https://x.com/AlinTiganus/status/2065796704784306366)**
-
-**ผู้เขียน:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **แหล่งที่มา:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **เผยแพร่เมื่อ:** Jun 13, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 61 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 65 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3028,6 +3028,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-12T05:36:09.186Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-12T09:09:38.727Z</sub>
 
 </div>

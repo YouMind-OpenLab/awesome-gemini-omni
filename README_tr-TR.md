@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **161** |
+| 📝 Toplam İstem | **165** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-12** |
 
@@ -56,6 +56,82 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Squirrel Garden Yard Sale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical video prompt describing a squirrel holding a yard sale in a garden to raise money.
+
+#### 📝 İstem
+
+```
+Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Squirrel Garden Yard Sale">
+
+**[🎬 Videoyu izle →](https://x.com/SilverAIProject/status/2087298245747683578)**
+
+**Yazar:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Kaynak:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **Yayınlandı:** Aug 11, 2026
+
+---
+### Cat Food Thief Narrative
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for Gemini Omni involving two cats and a playful interaction with their owner.
+
+#### 📝 İstem
+
+```
+Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Cat Food Thief Narrative">
+
+**[🎬 Videoyu izle →](https://x.com/SilverAIProject/status/2087295479335751880)**
+
+**Yazar:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Kaynak:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **Yayınlandı:** Aug 11, 2026
+
+---
+### Business Dashboard Review
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+
+#### 📝 İstem
+
+```
+A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+
+**[🎬 Videoyu izle →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
+
+**Yazar:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Kaynak:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Yayınlandı:** Aug 11, 2026
+
+---
+### Crystalline Frozen Water Droplet World
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+
+#### 📝 İstem
+
+```
+A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2087219303926124787)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **Yayınlandı:** Aug 11, 2026
+
+---
 ### Hand Plucking Star from Night Sky Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -99,11 +175,11 @@ Sound: Forest hush, soft chime on the glow.
 **Yazar:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Kaynak:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Yayınlandı:** Aug 10, 2026
 
 ---
-### Strawberry Jello Pool Bounce
+### Bouncing Strawberry Jello Pool
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for generating a video of a realistic strawberry made of jello bouncing in a strawberry jello pool, featuring macro textures and smooth camera movements.
+> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
 
 #### 📝 İstem
 
@@ -111,7 +187,7 @@ Sound: Forest hush, soft chime on the glow.
 A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Strawberry Jello Pool Bounce">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
 
 **[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
@@ -2918,89 +2994,13 @@ Kırmızı takım, mavi takıma üstünlük sağlıyor. Sonunda, kırmızı tak�
 **Yazar:** [onoken1025](https://x.com/onoken1025) | **Kaynak:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **Yayınlandı:** Jun 15, 2026
 
 ---
-### 3D Kinetik Tipografi Video Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Referans görseldeki belirli bir yazı tipi stilini kullanarak, konuşulan kelimeleri 3D uzayda canlandırmak ve bunları bir video arka planının üzerine yerleştirmek için kullanılan bir komut.
-
-#### 📝 İstem
-
-```
-Referans görseldeki harflerin stilini kullanarak, konuşulan kelimeleri 3D uzayda canlandır. Kelimeler ön planda ve arka planda yer alabilir.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="3D Kinetik Tipografi Video Animasyonu">
-
-**[🎬 Videoyu izle →](https://x.com/andr3_ai/status/2066165981173473347)**
-
-**Yazar:** [ANDR3 AI](https://x.com/andr3_ai) | **Kaynak:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **Yayınlandı:** Jun 14, 2026
-
----
-### Ultra Gerçekçi ASMR Kristal Gül Kırılma Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Donmuş, yarı saydam kristal bir gülün ezilme görselini oluşturan, detaylı buz kırılma efektleri ve makro sinematografi içeren ultra gerçekçi bir ASMR video istemi.
-
-#### 📝 İstem
-
-```
-Ultra gerçekçi ASMR videosu, 10 saniye. Kristal buzdan yapılmış donmuş, yarı saydam bir gül, eldivenli parmaklar arasında nazikçe eziliyor. Buz yaprakları çatlıyor ve parıldayan parçalara ayrılarak kırılıyor. Makro lens, dramatik aydınlatma, ağır çekim. ASMR sesleri: hassas buz çatlaması, kristal çınlaması, yumuşak çıtırtı, saf stüdyo kalitesinde ses.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="Ultra Gerçekçi ASMR Kristal Gül Kırılma Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2066068213734195675)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **Yayınlandı:** Jun 14, 2026
-
----
-### Paris Kaya Şekeri Şehir Geçişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Şehir sokaklarını eriyen kaya şekeri ve şuruba dönüştüren, gri tonlardan kehribar rengine mevsimsel bir renk geçişi içeren, Gemini Omni için sürreal sinematik bir istem.
-
-#### 📝 İstem
-
-```
-Şuruba dönüşen Paris kaya şekeri bulvarları; kış grisinden bahar çiçeklerine ve dökülen yaprakların kehribar rengine derinleşen bir renk geçişi
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="Paris Kaya Şekeri Şehir Geçişi">
-
-**[🎬 Videoyu izle →](https://x.com/loglogrog/status/2065898537121185919)**
-
-**Yazar:** [マグマグ](https://x.com/loglogrog) | **Kaynak:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **Yayınlandı:** Jun 13, 2026
-
----
-### Yüz Duygusu Sıralı Geçişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir referans ızgarasına dayalı olarak özneyi bir dizi duygu boyunca yönlendiren ve sürekli, doğal olmayan bir sekans oluşturan bir Gemini Omni istemi.
-
-#### 📝 İstem
-
-```
-Kadının 2. görseldeki tüm duyguları doğal olmayan bir sırayla ancak kesintisiz bir çekimde yaşamasını sağla. 2. görseli videoya dahil etme.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="Yüz Duygusu Sıralı Geçişi">
-
-**[🎬 Videoyu izle →](https://x.com/AlinTiganus/status/2065796704784306366)**
-
-**Yazar:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **Kaynak:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **Yayınlandı:** Jun 13, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 61 burada gösterilmeyen daha fazla istem
+### 🎯 65 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3046,6 +3046,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-12T05:36:15.568Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-12T09:09:46.462Z</sub>
 
 </div>

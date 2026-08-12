@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **161** |
+| 📝 Gesamtanzahl Prompts | **165** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-12** |
 
@@ -56,6 +56,82 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Squirrel Garden Yard Sale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical video prompt describing a squirrel holding a yard sale in a garden to raise money.
+
+#### 📝 Prompt
+
+```
+Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Squirrel Garden Yard Sale">
+
+**[🎬 Video ansehen →](https://x.com/SilverAIProject/status/2087298245747683578)**
+
+**Autor:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Quelle:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **Veröffentlicht:** Aug 11, 2026
+
+---
+### Cat Food Thief Narrative
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for Gemini Omni involving two cats and a playful interaction with their owner.
+
+#### 📝 Prompt
+
+```
+Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Cat Food Thief Narrative">
+
+**[🎬 Video ansehen →](https://x.com/SilverAIProject/status/2087295479335751880)**
+
+**Autor:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Quelle:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **Veröffentlicht:** Aug 11, 2026
+
+---
+### Business Dashboard Review
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+
+#### 📝 Prompt
+
+```
+A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+
+**[🎬 Video ansehen →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
+
+**Autor:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Quelle:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Veröffentlicht:** Aug 11, 2026
+
+---
+### Crystalline Frozen Water Droplet World
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+
+#### 📝 Prompt
+
+```
+A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2087219303926124787)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **Veröffentlicht:** Aug 11, 2026
+
+---
 ### Hand Plucking Star from Night Sky Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -99,11 +175,11 @@ Sound: Forest hush, soft chime on the glow.
 **Autor:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Quelle:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Veröffentlicht:** Aug 10, 2026
 
 ---
-### Strawberry Jello Pool Bounce
+### Bouncing Strawberry Jello Pool
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for generating a video of a realistic strawberry made of jello bouncing in a strawberry jello pool, featuring macro textures and smooth camera movements.
+> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
 
 #### 📝 Prompt
 
@@ -111,7 +187,7 @@ Sound: Forest hush, soft chime on the glow.
 A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Strawberry Jello Pool Bounce">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
 
 **[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
@@ -2944,89 +3020,13 @@ Das rote Team dominiert das blaue Team. Schließlich erzielt das rote Team ein T
 **Autor:** [onoken1025](https://x.com/onoken1025) | **Quelle:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **Veröffentlicht:** Jun 15, 2026
 
 ---
-### 3D-Kinetische Typografie-Videoanimation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, um gesprochene Wörter mithilfe eines bestimmten Schriftstils aus einem Referenzbild im 3D-Raum zu animieren und sie über einen Videohintergrund zu legen.
-
-#### 📝 Prompt
-
-```
-Animieren Sie die gesprochenen Wörter im 3D-Raum im Stil der Buchstaben aus dem Referenzbild. Sie können sowohl im Vordergrund als auch im Hintergrund erscheinen.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="3D-Kinetische Typografie-Videoanimation">
-
-**[🎬 Video ansehen →](https://x.com/andr3_ai/status/2066165981173473347)**
-
-**Autor:** [ANDR3 AI](https://x.com/andr3_ai) | **Quelle:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **Veröffentlicht:** Jun 14, 2026
-
----
-### Ultra-realistisches ASMR-Video: Zerbrechende Kristallrose
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein ultra-realistischer ASMR-Video-Prompt, der ein visuelles Erlebnis einer gefrorenen, durchscheinenden Kristallrose beim Zerdrücken erzeugt, mit detaillierten Eis-Splitter-Effekten und Makro-Kinematografie.
-
-#### 📝 Prompt
-
-```
-Ultra-realistisches ASMR-Video, 10 Sekunden. Eine gefrorene, durchscheinende Rose aus Kristalleis wird sanft zwischen behandschuhten Fingern zerdrückt. Eispellets reißen und zersplittern in funkelnde Fragmente. Makro-Objektiv, dramatische Beleuchtung, Zeitlupe. ASMR-Sounds: feines Knacken von Eis, kristallines Klirren, sanftes Knirschen, reiner Audio-Sound in Studioqualität.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="Ultra-realistisches ASMR-Video: Zerbrechende Kristallrose">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2066068213734195675)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **Veröffentlicht:** Jun 14, 2026
-
----
-### Paris: Übergang zur Kandiszucker-Stadt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer, filmischer Prompt für Gemini Omni, der Straßen in schmelzenden Kandiszucker und Sirup verwandelt, mit einem jahreszeitlichen Farbwechsel von Grau zu Bernstein.
-
-#### 📝 Prompt
-
-```
-Boulevards aus Kandiszucker in Paris, die zu Sirup zerfließen; die Farbe vertieft sich von winterlichem Grau über Frühlingsblüten bis hin zum Bernstein von herabgefallenem Laub
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="Paris: Übergang zur Kandiszucker-Stadt">
-
-**[🎬 Video ansehen →](https://x.com/loglogrog/status/2065898537121185919)**
-
-**Autor:** [マグマグ](https://x.com/loglogrog) | **Quelle:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **Veröffentlicht:** Jun 13, 2026
-
----
-### Übergang der Gesichtsemotionssequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Gemini Omni-Prompt, der eine Person durch eine Reihe von Emotionen basierend auf einem Referenzraster führt und so eine kontinuierliche und unnatürliche Sequenz erzeugt.
-
-#### 📝 Prompt
-
-```
-Lasse die Frau alle Emotionen aus Bild 2 in einer unnatürlichen Sequenz, aber in einer kontinuierlichen Aufnahme durchlaufen. Binde Bild 2 nicht in das Video ein.
-```
-
-<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="Übergang der Gesichtsemotionssequenz">
-
-**[🎬 Video ansehen →](https://x.com/AlinTiganus/status/2065796704784306366)**
-
-**Autor:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **Quelle:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **Veröffentlicht:** Jun 13, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 61 weitere Prompts hier nicht angezeigt
+### 🎯 65 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3072,6 +3072,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-12T05:36:12.388Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-12T09:09:43.043Z</sub>
 
 </div>

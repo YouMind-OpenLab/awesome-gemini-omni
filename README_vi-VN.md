@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **161** |
+| 📝 Tổng số prompt | **165** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-12** |
 
@@ -56,6 +56,82 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Squirrel Garden Yard Sale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical video prompt describing a squirrel holding a yard sale in a garden to raise money.
+
+#### 📝 Prompt
+
+```
+Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Squirrel Garden Yard Sale">
+
+**[🎬 Xem video →](https://x.com/SilverAIProject/status/2087298245747683578)**
+
+**Tác giả:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Nguồn:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **Đã xuất bản:** Aug 11, 2026
+
+---
+### Cat Food Thief Narrative
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A narrative video prompt for Gemini Omni involving two cats and a playful interaction with their owner.
+
+#### 📝 Prompt
+
+```
+Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Cat Food Thief Narrative">
+
+**[🎬 Xem video →](https://x.com/SilverAIProject/status/2087295479335751880)**
+
+**Tác giả:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Nguồn:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **Đã xuất bản:** Aug 11, 2026
+
+---
+### Business Dashboard Review
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+
+#### 📝 Prompt
+
+```
+A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+
+**[🎬 Xem video →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
+
+**Tác giả:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Nguồn:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Đã xuất bản:** Aug 11, 2026
+
+---
+### Crystalline Frozen Water Droplet World
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+
+#### 📝 Prompt
+
+```
+A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2087219303926124787)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **Đã xuất bản:** Aug 11, 2026
+
+---
 ### Hand Plucking Star from Night Sky Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -99,11 +175,11 @@ Sound: Forest hush, soft chime on the glow.
 **Tác giả:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Nguồn:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Đã xuất bản:** Aug 10, 2026
 
 ---
-### Strawberry Jello Pool Bounce
+### Bouncing Strawberry Jello Pool
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic prompt for generating a video of a realistic strawberry made of jello bouncing in a strawberry jello pool, featuring macro textures and smooth camera movements.
+> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
 
 #### 📝 Prompt
 
@@ -111,7 +187,7 @@ Sound: Forest hush, soft chime on the glow.
 A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Strawberry Jello Pool Bounce">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
 
 **[🎬 Xem video →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
@@ -2894,89 +2970,13 @@ Cảnh trận đấu bóng đá.
 **Tác giả:** [onoken1025](https://x.com/onoken1025) | **Nguồn:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **Đã xuất bản:** Jun 15, 2026
 
 ---
-### Hoạt ảnh Typography động 3D
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) được sử dụng để tạo hoạt ảnh cho các từ ngữ được nói trong không gian 3D, sử dụng kiểu phông chữ cụ thể từ hình ảnh tham chiếu và phủ chúng lên nền video.
-
-#### 📝 Prompt
-
-```
-Tạo hoạt ảnh cho các từ ngữ mà nhân vật đang nói trong không gian 3D theo phong cách chữ cái trong hình ảnh tham chiếu. Các từ này có thể xuất hiện ở tiền cảnh và hậu cảnh.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/32936e31f960b24cfb892bd8d8044307/thumbnails/thumbnail.jpg" width="600" alt="Hoạt ảnh Typography động 3D">
-
-**[🎬 Xem video →](https://x.com/andr3_ai/status/2066165981173473347)**
-
-**Tác giả:** [ANDR3 AI](https://x.com/andr3_ai) | **Nguồn:** [Link](https://x.com/andr3_ai/status/2066165981173473347) | **Đã xuất bản:** Jun 14, 2026
-
----
-### Video ASMR hoa hồng pha lê vỡ vụn siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video ASMR siêu thực, mô phỏng hình ảnh bông hoa hồng pha lê trong suốt bị đóng băng đang bị nghiền nát, với hiệu ứng băng vỡ chi tiết và kỹ thuật quay phim macro.
-
-#### 📝 Prompt
-
-```
-Video ASMR siêu thực, 10 giây. Một bông hoa hồng làm từ băng pha lê trong suốt đang bị nghiền nhẹ giữa những ngón tay đeo găng. Các cánh hoa bằng băng nứt và vỡ vụn thành những mảnh lấp lánh. Ống kính macro, ánh sáng ấn tượng, chuyển động chậm. Âm thanh ASMR: tiếng băng nứt tinh tế, tiếng pha lê leng keng, tiếng giòn tan nhẹ nhàng, âm thanh chất lượng phòng thu thuần khiết.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/ed8d7f300cd6cf4cb4e3f5dc19d506d0/thumbnails/thumbnail.jpg" width="600" alt="Video ASMR hoa hồng pha lê vỡ vụn siêu thực">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2066068213734195675)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2066068213734195675) | **Đã xuất bản:** Jun 14, 2026
-
----
-### Chuyển cảnh thành phố đường phèn Paris
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh siêu thực dành cho Gemini Omni, biến các con phố thành đường phèn và siro tan chảy, với hiệu ứng chuyển đổi màu sắc theo mùa từ xám sang hổ phách.
-
-#### 📝 Prompt
-
-```
-Những đại lộ đường phèn tại Paris tan chảy thành siro, màu sắc chuyển dần từ xám mùa đông sang sắc hoa mùa xuân rồi đến màu hổ phách của lá rụng
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/9c7cc52ce9c035004ce3fe42a9e1d550/thumbnails/thumbnail.jpg" width="600" alt="Chuyển cảnh thành phố đường phèn Paris">
-
-**[🎬 Xem video →](https://x.com/loglogrog/status/2065898537121185919)**
-
-**Tác giả:** [マグマグ](https://x.com/loglogrog) | **Nguồn:** [Link](https://x.com/loglogrog/status/2065898537121185919) | **Đã xuất bản:** Jun 13, 2026
-
----
-### Chuyển đổi Chuỗi Cảm xúc Khuôn mặt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh Gemini Omni hướng dẫn chủ thể trải qua một loạt các cảm xúc dựa trên lưới tham chiếu, tạo ra một chuỗi liên tục và phi tự nhiên.
-
-#### 📝 Prompt
-
-```
-Hãy để người phụ nữ trải qua tất cả các cảm xúc trong hình 2 theo một trình tự phi tự nhiên nhưng trong một cảnh quay liên tục. Không bao gồm hình 2 trong video
-```
-
-<img src="https://cms-assets.youmind.com/media/1781430137498_5qdzh2_HKsujP-WgAAcSbZ.jpg" width="600" alt="Chuyển đổi Chuỗi Cảm xúc Khuôn mặt">
-
-**[🎬 Xem video →](https://x.com/AlinTiganus/status/2065796704784306366)**
-
-**Tác giả:** [Alin Cristian Tiganus (eyes2AI)](https://x.com/AlinTiganus) | **Nguồn:** [Link](https://x.com/AlinTiganus/status/2065796704784306366) | **Đã xuất bản:** Jun 13, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 61 prompt khác không hiển thị ở đây
+### 🎯 65 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3022,6 +3022,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-12T05:36:09.932Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-12T09:09:39.892Z</sub>
 
 </div>
