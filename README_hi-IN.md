@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **165** |
+| 📝 कुल प्रॉम्पट्स | **166** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-08-13** |
 
@@ -56,11 +56,30 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### Squirrel Garden Yard Sale
+### Continuous Shot Anime Mask Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A whimsical video prompt describing a squirrel holding a yard sale in a garden to raise money.
+> A complex cinematic video prompt for Gemini Omni that creates a single continuous shot of a subject using hand gestures to trigger dynamic anime-style facial overlays and masks with synchronized audio descriptions.
+
+#### 📝 प्रॉम्पट
+
+```
+Generate a single continuous shot.\n\n{ "setting": "Cozy minimalist indoor studio room with off-white walls and dark wood accents", \n  "lighting": "Soft diffused warm cove lighting with subtle side fill", \n  "weather": "Indoor ambient", \n  "color_grade": "Warm natural tones with high-contrast digital overlay pops" }\n\n[SUBJECT ANCHOR — reiterate character visual descriptors]:\nThe young East Asian man with long straight black hair wearing a dark grey hooded windbreaker jacket with visible drawstrings.\n\n[00:00-00:02]: The young East Asian man in the dark grey hooded jacket holds her hood drawstrings near her chin, then smoothly raises both hands, expanding her fingers to form a crisp rectangular geometric frame in front of her eyes. Inside the hand frame, a dynamic 2D cel-shaded anime eye graphic instantly pops into view overlaying her real eyes.\n[00:02-00:04]: She shifts her hand frame downward across her cheek, changing the framing angle to reveal a sharp, manga-style eye and eyebrow graphic overlay that tracks locked between her fingers.\n[00:04-00:06]: Moving her hands upward in a rhythmic motion, a stylized 2D anime smiling mouth graphic appears inside a new lower-face hand cutout frame, matching her head angle.\n[00:06-00:08]: She restructures her gesture, using index fingers to point diagonally across her eyes and nose region, creating a triangular hand frame that displays a vivid triangular vector anime mask filter over her upper face.\n[00:08-00:10]: She flips the triangular hand frame smoothly to the opposite angle over her lower face, holding a horizontal anime artwork banner overlay between her fingertips as the clip holds.\n\n🎤 VOICE PERFORMANCE:\nNo spoken dialogue in this opening segment. The audio performance is anchored by the rhythmic atmosphere of the musical build-up, synced to snappy, clean UI movement sounds.\n\nAmbient: Quiet residential room acoustics with soft low-end air resonance.\nFoley: Sharp digital swoosh and UI snap effects frame-locked precisely to each hand expansion and overlay state shift at 01s, 03s, 05s, 07s, and 09s.\nMusic: High-energy electro-pop/cyberpunk synth melody building in rhythm and intensity.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Continuous Shot Anime Mask Overlay">
+
+**[🎬 वीडियो देखें →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
+
+**लेखक:** [Aryan](https://x.com/Aryan_Ali_Pro) | **स्रोत:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **प्रकाशित:** Aug 12, 2026
+
+---
+### Garden Squirrel Yard Sale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical prompt for Gemini Omni depicting a squirrel hosting a sale in a garden.
 
 #### 📝 प्रॉम्पट
 
@@ -68,18 +87,18 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 Squirrel runs short of money so holds a sale in the garden, offering many valuable things
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Squirrel Garden Yard Sale">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Garden Squirrel Yard Sale">
 
 **[🎬 वीडियो देखें →](https://x.com/SilverAIProject/status/2087298245747683578)**
 
 **लेखक:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **स्रोत:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **प्रकाशित:** Aug 11, 2026
 
 ---
-### Cat Food Thief Narrative
+### Sneaky Cat Food Theft
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A narrative video prompt for Gemini Omni involving two cats and a playful interaction with their owner.
+> A humorous narrative prompt for Gemini Omni featuring a cat stealing food and charming its owner.
 
 #### 📝 प्रॉम्पट
 
@@ -87,7 +106,7 @@ Squirrel runs short of money so holds a sale in the garden, offering many valuab
 Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Cat Food Thief Narrative">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Sneaky Cat Food Theft">
 
 **[🎬 वीडियो देखें →](https://x.com/SilverAIProject/status/2087295479335751880)**
 
@@ -3000,36 +3019,13 @@ Friday हाइप,
 **लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **प्रकाशित:** Jun 16, 2026
 
 ---
-### Gemini Omni सॉकर मैच एनिमेशन
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> एक पुरानी पुरुष टीम और एक युवा महिला टीम के बीच सॉकर मैच के लिए विस्तृत वीडियो जनरेशन प्रॉम्प्ट, जिसमें विशिष्ट टीम यूनिफॉर्म और गेम-विनिंग शॉट शामिल हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-स्पीच लैंग्वेज: जापानी।
-सॉकर मैच का दृश्य।
-ब्लू टीम में 50 वर्ष की आयु के जापानी पुरुष हैं, जिनके बाल कम हैं और शरीर भारी है, उन्होंने नीली यूनिफॉर्म पहनी है जिस पर छाती पर "Oji" लोगो है।
-रेड टीम में 20 वर्ष की आयु की जापानी महिलाएं हैं, जिनके बाल बंधे हुए या छोटे हैं, उन्होंने लाल यूनिफॉर्म पहनी है जिस पर छाती पर "Anti Oji" लोगो है।
-रेड टीम ब्लू टीम पर हावी है। अंत में, रेड टीम गोल करती है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8398e3f0031d57434e2510af01502eb1/thumbnails/thumbnail.jpg" width="600" alt="Gemini Omni सॉकर मैच एनिमेशन">
-
-**[🎬 वीडियो देखें →](https://x.com/onoken1025/status/2066356040887898371)**
-
-**लेखक:** [onoken1025](https://x.com/onoken1025) | **स्रोत:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **प्रकाशित:** Jun 15, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 65 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 66 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3075,6 +3071,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-13T09:10:24.094Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-13T13:06:06.603Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **165** |
+| 📝 Total de prompts | **166** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-08-13** |
 
@@ -56,11 +56,30 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
-### Squirrel Garden Yard Sale
+### Continuous Shot Anime Mask Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A whimsical video prompt describing a squirrel holding a yard sale in a garden to raise money.
+> A complex cinematic video prompt for Gemini Omni that creates a single continuous shot of a subject using hand gestures to trigger dynamic anime-style facial overlays and masks with synchronized audio descriptions.
+
+#### 📝 Prompt
+
+```
+Generate a single continuous shot.\n\n{ "setting": "Cozy minimalist indoor studio room with off-white walls and dark wood accents", \n  "lighting": "Soft diffused warm cove lighting with subtle side fill", \n  "weather": "Indoor ambient", \n  "color_grade": "Warm natural tones with high-contrast digital overlay pops" }\n\n[SUBJECT ANCHOR — reiterate character visual descriptors]:\nThe young East Asian man with long straight black hair wearing a dark grey hooded windbreaker jacket with visible drawstrings.\n\n[00:00-00:02]: The young East Asian man in the dark grey hooded jacket holds her hood drawstrings near her chin, then smoothly raises both hands, expanding her fingers to form a crisp rectangular geometric frame in front of her eyes. Inside the hand frame, a dynamic 2D cel-shaded anime eye graphic instantly pops into view overlaying her real eyes.\n[00:02-00:04]: She shifts her hand frame downward across her cheek, changing the framing angle to reveal a sharp, manga-style eye and eyebrow graphic overlay that tracks locked between her fingers.\n[00:04-00:06]: Moving her hands upward in a rhythmic motion, a stylized 2D anime smiling mouth graphic appears inside a new lower-face hand cutout frame, matching her head angle.\n[00:06-00:08]: She restructures her gesture, using index fingers to point diagonally across her eyes and nose region, creating a triangular hand frame that displays a vivid triangular vector anime mask filter over her upper face.\n[00:08-00:10]: She flips the triangular hand frame smoothly to the opposite angle over her lower face, holding a horizontal anime artwork banner overlay between her fingertips as the clip holds.\n\n🎤 VOICE PERFORMANCE:\nNo spoken dialogue in this opening segment. The audio performance is anchored by the rhythmic atmosphere of the musical build-up, synced to snappy, clean UI movement sounds.\n\nAmbient: Quiet residential room acoustics with soft low-end air resonance.\nFoley: Sharp digital swoosh and UI snap effects frame-locked precisely to each hand expansion and overlay state shift at 01s, 03s, 05s, 07s, and 09s.\nMusic: High-energy electro-pop/cyberpunk synth melody building in rhythm and intensity.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Continuous Shot Anime Mask Overlay">
+
+**[🎬 Assistir vídeo →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
+
+**Autor:** [Aryan](https://x.com/Aryan_Ali_Pro) | **Fonte:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **Publicado:** Aug 12, 2026
+
+---
+### Garden Squirrel Yard Sale
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical prompt for Gemini Omni depicting a squirrel hosting a sale in a garden.
 
 #### 📝 Prompt
 
@@ -68,18 +87,18 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 Squirrel runs short of money so holds a sale in the garden, offering many valuable things
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Squirrel Garden Yard Sale">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Garden Squirrel Yard Sale">
 
 **[🎬 Assistir vídeo →](https://x.com/SilverAIProject/status/2087298245747683578)**
 
 **Autor:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Fonte:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **Publicado:** Aug 11, 2026
 
 ---
-### Cat Food Thief Narrative
+### Sneaky Cat Food Theft
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A narrative video prompt for Gemini Omni involving two cats and a playful interaction with their owner.
+> A humorous narrative prompt for Gemini Omni featuring a cat stealing food and charming its owner.
 
 #### 📝 Prompt
 
@@ -87,7 +106,7 @@ Squirrel runs short of money so holds a sale in the garden, offering many valuab
 Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Cat Food Thief Narrative">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Sneaky Cat Food Theft">
 
 **[🎬 Assistir vídeo →](https://x.com/SilverAIProject/status/2087295479335751880)**
 
@@ -3001,36 +3020,13 @@ Vídeo cinematográfico e adorável de unboxing com um gatinho fofo de surpresa.
 **Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **Publicado:** Jun 16, 2026
 
 ---
-### Animação de Partida de Futebol Gemini Omni
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt detalhado de geração de vídeo para uma partida de futebol entre um time de homens mais velhos e um time de mulheres mais jovens, apresentando uniformes específicos e um gol decisivo.
-
-#### 📝 Prompt
-
-```
-Idioma da fala: Japonês.
-Cena de partida de futebol.
-O time azul consiste em homens japoneses na faixa dos 50 anos, com calvície e físico obeso, vestindo uniformes azuis com o logotipo "Oji" no peito.
-O time vermelho consiste em mulheres japonesas na faixa dos 20 anos, com cabelos presos ou curtos, vestindo uniformes vermelhos com o logotipo "Anti Oji" no peito.
-O time vermelho domina o time azul. Por fim, o time vermelho marca um gol.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/8398e3f0031d57434e2510af01502eb1/thumbnails/thumbnail.jpg" width="600" alt="Animação de Partida de Futebol Gemini Omni">
-
-**[🎬 Assistir vídeo →](https://x.com/onoken1025/status/2066356040887898371)**
-
-**Autor:** [onoken1025](https://x.com/onoken1025) | **Fonte:** [Link](https://x.com/onoken1025/status/2066356040887898371) | **Publicado:** Jun 15, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 65 mais prompts não mostrados aqui
+### 🎯 66 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3076,6 +3072,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-13T09:10:28.687Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-13T13:06:12.416Z</sub>
 
 </div>
