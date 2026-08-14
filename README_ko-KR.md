@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **166** |
+| 📝 총 프롬프트 수 | **167** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-08-14** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Boxer's Daily Routine Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video prompt for generating a high-energy, cinematic 15-second sequence of a Japanese boxer's morning routine, including gym work and outdoor running.
+
+#### 📝 프롬프트
+
+```
+Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Boxer's Daily Routine Video Sequence">
+
+**[🎬 비디오 보기 →](https://x.com/AiwithBloodline/status/2087843492257243460)**
+
+**작성자:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **출처:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **게시일:** Aug 13, 2026
+
+---
 ### Continuous Shot Anime Mask Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2995,32 +3014,13 @@ RGB 글리치,
 **작성자:** [程序员哈利](https://x.com/coder_hali) | **출처:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **게시일:** Jun 18, 2026
 
 ---
-### 영화 같은 귀여운 아기 고양이 언박싱 영상
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 폭신폭신한 아기 고양이가 등장하는 마음 따뜻해지는 영화 같은 언박싱 영상을 생성하기 위한 상세 프롬프트입니다. 마법 같은 반짝임과 부드러운 파스텔 톤 조명이 포함되어 있습니다.
-
-#### 📝 프롬프트
-
-```
-놀랍고 귀여운 아기 고양이가 등장하는 영화 같은 언박싱 영상입니다. 밝고 파스텔 톤의 핑크와 화이트 색상으로 꾸며진 아기자기한 테이블 위, 푹신한 구름과 부드러운 아침 햇살이 비치는 장면으로 시작합니다. 중앙에는 커다란 새틴 리본이 달린 귀여운 파스텔 톤 선물 상자가 놓여 있습니다. 뚜껑이 마법 같은 반짝이는 소리와 함께 천천히 열립니다. 갑자기 크고 반짝이는 눈을 가진 작고 폭신한 흰색과 회색의 태비 아기 고양이가 호기심 어린 졸린 표정으로 머리를 쏙 내밉니다. 파스텔 옐로우 색상의 장갑을 낀 부드러운 손이 조심스럽게 다가가 사랑스러운 아기 고양이를 들어 올립니다. 아기 고양이가 귀엽게 야옹 소리를 내며 작은 발을 꼼지락거리고, 주변에는 하트 모양의 반짝임과 알록달록한 꽃가루, 부드러운 황금빛 입자들이 소용돌이칩니다. 아기 고양이는 안긴 채로 반짝이는 입자들을 장난스럽게 건드리다가 크게 하품을 합니다. 부드러운 영화적 카메라 무빙: 상자가 열릴 때 천천히 줌인, 아기 고양이 주변을 부드럽게 회전, 마지막으로 반짝이는 눈을 가진 얼굴을 따뜻하게 클로즈업합니다. 사실적인 털 묘사, 초귀여운 상업용 퀄리티, 볼륨감 있는 부드러운 조명, 얕은 피사계 심도, 핑크와 옐로우, 화이트가 어우러진 밝은 파스텔 톤 색감, 초현실적인 질감, 마음이 따뜻해지는 훈훈한 분위기.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="영화 같은 귀여운 아기 고양이 언박싱 영상">
-
-**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2066732269184889282)**
-
-**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **게시일:** Jun 16, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 66 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 67 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3066,6 +3066,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-14T05:36:30.684Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-14T09:05:21.354Z</sub>
 
 </div>

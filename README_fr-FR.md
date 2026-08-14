@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **166** |
+| 📝 Total des prompts | **167** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-08-14** |
 
@@ -56,6 +56,25 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Boxer's Daily Routine Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video prompt for generating a high-energy, cinematic 15-second sequence of a Japanese boxer's morning routine, including gym work and outdoor running.
+
+#### 📝 Prompt
+
+```
+Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Boxer's Daily Routine Video Sequence">
+
+**[🎬 Voir la vidéo →](https://x.com/AiwithBloodline/status/2087843492257243460)**
+
+**Auteur:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Publié:** Aug 13, 2026
+
+---
 ### Continuous Shot Anime Mask Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2997,32 +3016,13 @@ Le Seigneur Hanuman ouvre lentement les yeux et regarde vers la caméra. La piè
 **Auteur:** [程序员哈利](https://x.com/coder_hali) | **Source:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Publié:** Jun 18, 2026
 
 ---
-### Vidéo d'unboxing cinématographique d'un adorable chaton
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt très détaillé pour générer une vidéo d'unboxing cinématographique réconfortante mettant en scène un chaton duveteux, agrémentée d'étincelles magiques et d'un éclairage pastel doux.
-
-#### 📝 Prompt
-
-```
-Vidéo d'unboxing cinématographique adorable mettant en scène la surprise d'un mignon chaton. Ouverture sur une table de style chambre d'enfant aux tons rose pastel et blanc, avec des nuages duveteux et une douce lumière matinale qui entre par la fenêtre. Une grande boîte cadeau aux couleurs pastel avec un gros nœud en satin est placée au centre. Le couvercle se soulève lentement avec le son délicat d'étincelles magiques. Soudain, un minuscule chaton tigré blanc et gris, au pelage duveteux et aux grands yeux brillants, sort sa tête, l'air curieux et somnolent. Une main gantée de jaune pastel s'approche doucement pour soulever l'adorable chaton. Le chaton miaule mignonnement, remue ses petites pattes, et une rafale d'étincelles en forme de cœur, de confettis colorés et de douces particules de lumière dorée tourbillonne autour de lui. Le chaton joue avec les étincelles tout en étant tenu, puis bâille largement. Mouvement de caméra cinématographique fluide : zoom lent sur l'ouverture de la boîte, orbite douce autour du chaton, et un gros plan final chaleureux sur son visage aux yeux pétillants. Détails du pelage photoréalistes, qualité commerciale ultra-mignonne, éclairage volumétrique doux, faible profondeur de champ, étalonnage des couleurs pastel vives avec des roses, des jaunes et des blancs, textures hyper-réalistes, ambiance réconfortante et saine.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="Vidéo d'unboxing cinématographique d'un adorable chaton">
-
-**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2066732269184889282)**
-
-**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **Publié:** Jun 16, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 66 prompts supplémentaires non affichés ici
+### 🎯 67 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3068,6 +3068,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-14T05:36:39.410Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-14T09:05:29.141Z</sub>
 
 </div>

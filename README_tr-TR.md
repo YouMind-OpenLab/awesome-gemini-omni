@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **166** |
+| 📝 Toplam İstem | **167** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-14** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Boxer's Daily Routine Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video prompt for generating a high-energy, cinematic 15-second sequence of a Japanese boxer's morning routine, including gym work and outdoor running.
+
+#### 📝 İstem
+
+```
+Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Boxer's Daily Routine Video Sequence">
+
+**[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2087843492257243460)**
+
+**Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Yayınlandı:** Aug 13, 2026
+
+---
 ### Continuous Shot Anime Mask Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2971,32 +2990,13 @@ Lord Hanuman yavaşça gözlerini açıyor ve kameraya bakıyor. Oda kısa bir s
 **Yazar:** [程序员哈利](https://x.com/coder_hali) | **Kaynak:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Yayınlandı:** Jun 18, 2026
 
 ---
-### Sinematik Sevimli Yavru Kedi Kutu Açılımı Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Büyülü parıltılar ve yumuşak pastel ışıklandırmayla tamamlanan, tüylü bir yavru kedinin yer aldığı iç ısıtan sinematik bir kutu açılımı videosu oluşturmak için oldukça detaylı bir komut.
-
-#### 📝 İstem
-
-```
-Sürpriz sevimli bir yavru kedinin yer aldığı sinematik ve sevimli kutu açılımı videosu. Parlak, pastel pembe ve beyaz tonlarında, kreş tarzı bir masa üzerinde, kabarık bulutlar ve içeri süzülen yumuşak sabah güneş ışığıyla sahne başlar. Ortada büyük, pastel renkli ve büyük saten kurdeleli bir hediye kutusu durmaktadır. Kapağı, hafif büyülü bir parıltı sesiyle yavaşça açılır. Aniden, iri parıldayan gözlere sahip, meraklı ve uykulu görünen minik, tüylü, beyaz ve gri tekir bir yavru kedi başını dışarı çıkarır. Pastel sarı eldivenli yumuşak bir el nazikçe içeri uzanır ve sevimli yavru kediyi dışarı çıkarır. Yavru kedi sevimli bir şekilde miyavlar, minik patilerini hareket ettirir ve etrafında uçuşan kalp şeklinde parıltılar, renkli konfetiler ve nazik altın rengi ışık parçacıkları döner. Yavru kedi tutulurken oyunbaz bir şekilde parıltılara vurur ve ardından kocaman esner. Pürüzsüz sinematik kamera hareketi: kutunun açılışına yavaş yakınlaştırma, yavru kedinin etrafında nazik bir yörünge hareketi ve parıldayan gözleriyle yüzüne yapılan son sıcak bir yakın çekim. Fotogerçekçi kürk detayları, ultra sevimli ticari kalite, hacimsel yumuşak ışıklandırma, sığ alan derinliği, pembe, sarı ve beyaz tonlarıyla parlak pastel renk derecelendirmesi, hiper gerçekçi dokular, iç ısıtan ve huzur verici bir atmosfer.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="Sinematik Sevimli Yavru Kedi Kutu Açılımı Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2066732269184889282)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **Yayınlandı:** Jun 16, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 66 burada gösterilmeyen daha fazla istem
+### 🎯 67 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3042,6 +3042,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-14T05:36:47.167Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-14T09:05:31.942Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **166** |
+| 📝 Total de prompts | **167** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-08-14** |
 
@@ -56,6 +56,25 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Boxer's Daily Routine Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video prompt for generating a high-energy, cinematic 15-second sequence of a Japanese boxer's morning routine, including gym work and outdoor running.
+
+#### 📝 Prompt
+
+```
+Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Boxer's Daily Routine Video Sequence">
+
+**[🎬 Assistir vídeo →](https://x.com/AiwithBloodline/status/2087843492257243460)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Publicado:** Aug 13, 2026
+
+---
 ### Continuous Shot Anime Mask Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3001,32 +3020,13 @@ O Lorde Hanuman abre lentamente os olhos e olha para a câmera. A sala se enche 
 **Autor:** [程序员哈利](https://x.com/coder_hali) | **Fonte:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Publicado:** Jun 18, 2026
 
 ---
-### Vídeo cinematográfico de unboxing de gatinho fofo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt altamente detalhado para gerar um vídeo de unboxing cinematográfico e emocionante com um gatinho peludo, completo com brilhos mágicos e iluminação suave em tons pastéis.
-
-#### 📝 Prompt
-
-```
-Vídeo cinematográfico e adorável de unboxing com um gatinho fofo de surpresa. Começa em uma mesa estilo berçário, brilhante, em tons de rosa pastel e branco, com nuvens fofas e a luz suave da manhã entrando. Uma caixa de presente grande e fofa em tons pastéis com um laço de cetim está centralizada. A tampa se abre lentamente com um som suave de brilho mágico. De repente, um gatinho malhado, minúsculo, peludo, branco e cinza, com olhos grandes e brilhantes, coloca a cabeça para fora, parecendo curioso e sonolento. Uma mão suave com luva amarelo-pastel entra gentilmente e retira o gatinho adorável. O gatinho mia de forma fofa, mexe suas patinhas minúsculas, e uma explosão de brilhos em formato de coração, confetes coloridos e partículas de luz dourada suave giram ao seu redor. O gatinho brinca com os brilhos enquanto é segurado, e então dá um grande bocejo. Movimento de câmera cinematográfico e suave: zoom lento na abertura da caixa, órbita suave ao redor do gatinho e um close-up final caloroso em seu rosto com olhos brilhantes. Detalhes de pelos fotorrealistas, qualidade comercial ultra fofa, iluminação volumétrica suave, profundidade de campo rasa, gradação de cores em tons pastéis brilhantes com rosas, amarelos e brancos, texturas hiper-realistas, clima emocionante e acolhedor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="Vídeo cinematográfico de unboxing de gatinho fofo">
-
-**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2066732269184889282)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **Publicado:** Jun 16, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 66 mais prompts não mostrados aqui
+### 🎯 67 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3072,6 +3072,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-14T05:36:43.772Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-14T09:05:30.621Z</sub>
 
 </div>

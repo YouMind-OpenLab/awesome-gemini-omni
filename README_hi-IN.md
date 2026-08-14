@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **166** |
+| 📝 कुल प्रॉम्पट्स | **167** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-08-14** |
 
@@ -56,6 +56,25 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Boxer's Daily Routine Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video prompt for generating a high-energy, cinematic 15-second sequence of a Japanese boxer's morning routine, including gym work and outdoor running.
+
+#### 📝 प्रॉम्पट
+
+```
+Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Boxer's Daily Routine Video Sequence">
+
+**[🎬 वीडियो देखें →](https://x.com/AiwithBloodline/status/2087843492257243460)**
+
+**लेखक:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **स्रोत:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **प्रकाशित:** Aug 13, 2026
+
+---
 ### Continuous Shot Anime Mask Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3000,32 +3019,13 @@ Friday हाइप,
 **लेखक:** [程序员哈利](https://x.com/coder_hali) | **स्रोत:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **प्रकाशित:** Jun 18, 2026
 
 ---
-### सिनेमैटिक क्यूट किटन अनबॉक्सिंग वीडियो
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक प्यारे सिनेमैटिक अनबॉक्सिंग वीडियो को जेनरेट करने के लिए एक अत्यधिक विस्तृत प्रॉम्प्ट, जिसमें एक रोएंदार बिल्ली का बच्चा, जादुई चमक और सॉफ्ट पेस्टल लाइटिंग शामिल है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक सरप्राइज क्यूट किटन (बिल्ली का बच्चा) के साथ सिनेमैटिक और मनमोहक अनबॉक्सिंग वीडियो। वीडियो की शुरुआत एक चमकदार, पेस्टल पिंक और व्हाइट नर्सरी-स्टाइल टेबल से होती है, जिस पर रुई जैसे बादल हैं और सुबह की हल्की धूप आ रही है। बीच में एक बड़ा, पेस्टल रंग का गिफ्ट बॉक्स रखा है जिस पर एक बड़ा सा साटन का बो (bow) लगा है। ढक्कन धीरे-धीरे एक हल्की जादुई चमक वाली आवाज के साथ खुलता है। अचानक, बड़ी चमकती आंखों वाला एक छोटा, रोएंदार सफेद और ग्रे टैबी किटन अपना सिर बाहर निकालता है, जो जिज्ञासु और नींद में लग रहा है। पेस्टल पीले रंग के दस्ताने पहने एक कोमल हाथ धीरे से अंदर जाता है और उस प्यारे किटन को बाहर निकालता है। किटन प्यारा सा म्याऊँ करता है, अपने छोटे पंजों को हिलाता है, और उसके चारों ओर दिल के आकार की चमकती हुई चीजें, रंगीन कॉन्फेटी और सुनहरी रोशनी के कण तैरने लगते हैं। किटन पकड़े जाने पर खेल-खेल में उन चमकती चीजों को मारता है और फिर एक बड़ी सी उबासी लेता है। स्मूथ सिनेमैटिक कैमरा मूवमेंट: बॉक्स खुलने पर धीरे-धीरे ज़ूम इन, किटन के चारों ओर हल्का ऑर्बिट, और अंत में उसकी चमकती आंखों के साथ चेहरे का एक वार्म क्लोज़-अप। फोटो-रियलिस्टिक फर डिटेल्स, अल्ट्रा-क्यूट कमर्शियल क्वालिटी, वॉल्यूमेट्रिक सॉफ्ट लाइटिंग, शैलो डेप्थ ऑफ फील्ड, पिंक, पीले और सफेद रंगों के साथ ब्राइट पेस्टल कलर ग्रेडिंग, हाइपर-रियलिस्टिक टेक्सचर, दिल को छू लेने वाला और सुखद माहौल।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="सिनेमैटिक क्यूट किटन अनबॉक्सिंग वीडियो">
-
-**[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2066732269184889282)**
-
-**लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **प्रकाशित:** Jun 16, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 66 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 67 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3071,6 +3071,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-14T05:36:34.161Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-14T09:05:26.123Z</sub>
 
 </div>

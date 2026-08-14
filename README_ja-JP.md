@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **166** |
+| 📝 プロンプト総数 | **167** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-08-14** |
 
@@ -56,6 +56,25 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### Boxer's Daily Routine Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video prompt for generating a high-energy, cinematic 15-second sequence of a Japanese boxer's morning routine, including gym work and outdoor running.
+
+#### 📝 プロンプト
+
+```
+Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Boxer's Daily Routine Video Sequence">
+
+**[🎬 動画を見る →](https://x.com/AiwithBloodline/status/2087843492257243460)**
+
+**作者:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **ソース:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **公開日:** Aug 13, 2026
+
+---
 ### Continuous Shot Anime Mask Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2996,32 +3015,13 @@ modern anime editing（モダン・アニメ編集）
 **作者:** [程序员哈利](https://x.com/coder_hali) | **ソース:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **公開日:** Jun 18, 2026
 
 ---
-### 映画のような可愛い子猫の開封動画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ふわふわの子猫が登場する、魔法のようなきらめきと柔らかなパステルカラーの光に包まれた、心温まる映画のような開封動画を生成するための詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-サプライズで可愛い子猫が登場する、映画のような愛らしい開封動画。明るいパステルピンクと白を基調とした子供部屋風のテーブルの上で、ふわふわの雲と柔らかな朝の光が差し込むシーンから始まります。中央には、大きなサテンのリボンがついた可愛らしいパステルカラーのギフトボックスが置かれています。蓋がゆっくりと持ち上がると、魔法のような優しいきらめきの音が響きます。すると突然、大きな瞳を輝かせた、小さくてふわふわの白とグレーのトラ猫が、好奇心旺盛で眠たそうな様子で顔を出します。パステルイエローの柔らかな手袋をした手が優しく伸び、愛らしい子猫を抱き上げます。子猫が可愛らしく鳴いて小さな前足を動かすと、ハート型のきらめきやカラフルな紙吹雪、優しい黄金色の光の粒子が周囲に舞い上がります。子猫は抱っこされながらきらめきを追いかけて遊び、最後に大きなあくびをします。滑らかなシネマティック・カメラワーク：箱が開く様子へのスローズーム、子猫の周りをゆっくりと回るオービット撮影、そして輝く瞳の子猫の顔への温かみのあるクローズアップ。フォトリアルな毛並みの質感、超キュートなコマーシャル品質、ボリューム感のある柔らかなライティング、浅い被写界深度、ピンク・イエロー・白を基調とした明るいパステルカラーのカラーグレーディング、ハイパーリアルな質感、心温まる癒やしのムード。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="映画のような可愛い子猫の開封動画">
-
-**[🎬 動画を見る →](https://x.com/MrDasOnX/status/2066732269184889282)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **公開日:** Jun 16, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 66 さらに多くのプロンプトがあります
+### 🎯 67 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3067,6 +3067,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-14T05:36:29.679Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-14T09:05:20.507Z</sub>
 
 </div>

@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **166** |
+| 📝 พรอมต์ทั้งหมด | **167** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-08-14** |
 
@@ -56,6 +56,25 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### Boxer's Daily Routine Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video prompt for generating a high-energy, cinematic 15-second sequence of a Japanese boxer's morning routine, including gym work and outdoor running.
+
+#### 📝 พรอมต์
+
+```
+Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Boxer's Daily Routine Video Sequence">
+
+**[🎬 ดูวิดีโอ →](https://x.com/AiwithBloodline/status/2087843492257243460)**
+
+**ผู้เขียน:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **แหล่งที่มา:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **เผยแพร่เมื่อ:** Aug 13, 2026
+
+---
 ### Continuous Shot Anime Mask Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2953,32 +2972,13 @@ aggressive typography, hyper kinetic typography, broadcast motion graphics, rapi
 **ผู้เขียน:** [程序员哈利](https://x.com/coder_hali) | **แหล่งที่มา:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **เผยแพร่เมื่อ:** Jun 18, 2026
 
 ---
-### วิดีโอแกะกล่องลูกแมวสุดน่ารักในสไตล์ภาพยนตร์
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> คำสั่ง (Prompt) รายละเอียดสูงสำหรับการสร้างวิดีโอแกะกล่องสไตล์ภาพยนตร์ที่อบอุ่นหัวใจ โดยมีลูกแมวขนฟู พร้อมเอฟเฟกต์ประกายวิบวับเวทมนตร์และแสงโทนพาสเทลนุ่มนวล
-
-#### 📝 พรอมต์
-
-```
-วิดีโอแกะกล่องสุดน่ารักสไตล์ภาพยนตร์ที่เผยให้เห็นเซอร์ไพรส์เป็นลูกแมวตัวน้อย เริ่มต้นที่โต๊ะสไตล์ห้องเด็กอ่อนสีชมพูพาสเทลและสีขาวที่สว่างสดใส ตกแต่งด้วยก้อนเมฆปุยและแสงแดดยามเช้าที่ส่องเข้ามา กล่องของขวัญสีพาสเทลขนาดใหญ่ผูกโบว์ผ้าซาตินวางอยู่ตรงกลาง ฝากล่องค่อยๆ เปิดออกพร้อมเสียงประกายวิบวับเวทมนตร์เบาๆ ทันใดนั้น ลูกแมวลายสลิดสีขาวเทาขนฟูตัวจิ๋วที่มีดวงตาเป็นประกายก็โผล่หัวออกมาด้วยท่าทางอยากรู้อยากเห็นและง่วงนอน มือที่สวมถุงมือสีเหลืองพาสเทลนุ่มนวลค่อยๆ เอื้อมเข้าไปอุ้มลูกแมวสุดน่ารักตัวนั้นออกมา ลูกแมวร้องเมี๊ยวอย่างน่าเอ็นดู ขยับอุ้งเท้าเล็กๆ ของมัน พร้อมกับประกายรูปหัวใจที่ลอยฟุ้ง กระดาษโปรยหลากสี และละอองแสงสีทองนวลตาหมุนวนอยู่รอบตัว ลูกแมวเล่นกับประกายไฟเหล่านั้นอย่างสนุกสนานขณะถูกอุ้มขึ้นมา ก่อนจะหาวออกมาคำโต การเคลื่อนไหวกล้องแบบภาพยนตร์ที่นุ่มนวล: ซูมเข้าช้าๆ ตอนเปิดกล่อง หมุนรอบตัวลูกแมวอย่างนุ่มนวล และปิดท้ายด้วยภาพโคลสอัพใบหน้าที่อบอุ่นพร้อมดวงตาที่เป็นประกาย รายละเอียดขนสมจริง คุณภาพระดับโฆษณาที่น่ารักสุดๆ แสงนุ่มนวลแบบวอลลูเมตริก ระยะชัดลึกตื้น การปรับสีโทนพาสเทลสว่างด้วยสีชมพู สีเหลือง และสีขาว พื้นผิวสมจริงระดับสูง ให้บรรยากาศที่อบอุ่นและน่าประทับใจ
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="วิดีโอแกะกล่องลูกแมวสุดน่ารักในสไตล์ภาพยนตร์">
-
-**[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2066732269184889282)**
-
-**ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **เผยแพร่เมื่อ:** Jun 16, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 66 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 67 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3024,6 +3024,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-14T05:36:31.799Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-14T09:05:24.472Z</sub>
 
 </div>

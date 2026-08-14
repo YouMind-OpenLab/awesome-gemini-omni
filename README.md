@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **166** |
+| 📝 Total Prompts | **167** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-14** |
 
@@ -56,6 +56,25 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Boxer's Daily Routine Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video prompt for generating a high-energy, cinematic 15-second sequence of a Japanese boxer's morning routine, including gym work and outdoor running.
+
+#### 📝 Prompt
+
+```
+Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Boxer's Daily Routine Video Sequence">
+
+**[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2087843492257243460)**
+
+**Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Published:** Aug 13, 2026
+
+---
 ### Continuous Shot Anime Mask Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3137,32 +3156,13 @@ Lord Hanuman slowly opens his eyes and looks toward the camera. The room briefly
 **Author:** [程序员哈利](https://x.com/coder_hali) | **Source:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Published:** Jun 18, 2026
 
 ---
-### Cinematic Cute Kitten Unboxing Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed prompt for generating a heartwarming cinematic unboxing video featuring a fluffy kitten, complete with magical sparkles and soft pastel lighting.
-
-#### 📝 Prompt
-
-```
-Cinematic adorable unboxing video featuring a surprise cute kitten. Open on a bright, pastel pink and white nursery-style table with fluffy clouds and soft morning sunlight streaming in. A large, cute pastel-colored gift box with a big satin bow sits centered. The lid slowly lifts open with a gentle magical sparkle sound. Suddenly, a tiny fluffy white and gray tabby kitten with big sparkling eyes pops its head out, looking curious and sleepy. A soft gloved hand in pastel yellow gently reaches in and lifts the adorable kitten out. The kitten meows cutely, wiggles its tiny paws, and a burst of floating heart-shaped sparkles, colorful confetti, and gentle golden light particles swirl around it. The kitten playfully bats at the sparkles while being held up, then gives a big yawn. Smooth cinematic camera movement: slow zoom in on the box opening, gentle orbit around the kitten, and a final warm close-up on its face with sparkling eyes. Photorealistic fur details, ultra-cute commercial quality, volumetric soft lighting, shallow depth of field, bright pastel color grading with pinks, yellows and whites, hyper-realistic textures, heartwarming and wholesome mood.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="Cinematic Cute Kitten Unboxing Video">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2066732269184889282)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **Published:** Jun 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 66 more prompts not shown here
+### 🎯 67 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3208,6 +3208,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-14T05:36:26.335Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-14T09:05:18.354Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **166** |
+| 📝 Gesamtanzahl Prompts | **167** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-14** |
 
@@ -56,6 +56,25 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Boxer's Daily Routine Video Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive video prompt for generating a high-energy, cinematic 15-second sequence of a Japanese boxer's morning routine, including gym work and outdoor running.
+
+#### 📝 Prompt
+
+```
+Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Boxer's Daily Routine Video Sequence">
+
+**[🎬 Video ansehen →](https://x.com/AiwithBloodline/status/2087843492257243460)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Quelle:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Veröffentlicht:** Aug 13, 2026
+
+---
 ### Continuous Shot Anime Mask Overlay
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2997,32 +3016,13 @@ Lord Hanuman öffnet langsam seine Augen und blickt in die Kamera. Der Raum fül
 **Autor:** [程序员哈利](https://x.com/coder_hali) | **Quelle:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Veröffentlicht:** Jun 18, 2026
 
 ---
-### Cinematic-Video: Süßes Kätzchen beim Unboxing
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Prompt zur Erstellung eines herzerwärmenden, filmreifen Unboxing-Videos mit einem flauschigen Kätzchen, inklusive magischem Glitzereffekt und sanfter Pastellbeleuchtung.
-
-#### 📝 Prompt
-
-```
-Filmreifes, bezauberndes Unboxing-Video mit einem überraschenden, süßen Kätzchen. Die Szene beginnt auf einem hellen Tisch im Kinderzimmer-Stil in Pastellrosa und Weiß, mit flauschigen Wolken und sanftem Morgenlicht, das hereinströmt. Ein großes, niedliches Geschenkpaket in Pastellfarben mit einer großen Satinschleife steht in der Mitte. Der Deckel hebt sich langsam mit einem sanften, magischen Glitzergeräusch. Plötzlich streckt ein winziges, flauschiges weiß-graues getigertes Kätzchen mit großen, funkelnden Augen neugierig und verschlafen den Kopf heraus. Eine sanfte, in Pastellgelb behandschuhte Hand greift vorsichtig hinein und hebt das entzückende Kätzchen heraus. Das Kätzchen miaut niedlich, bewegt seine winzigen Pfoten, und ein Schauer aus schwebenden herzförmigen Glitzerpartikeln, buntem Konfetti und sanften goldenen Lichtteilchen wirbelt um es herum. Das Kätzchen spielt verspielt mit dem Glitzer, während es hochgehalten wird, und gähnt dann ausgiebig. Sanfte filmische Kamerabewegung: langsamer Zoom auf das sich öffnende Paket, sanfte Orbit-Bewegung um das Kätzchen und eine abschließende warme Nahaufnahme seines Gesichts mit funkelnden Augen. Fotorealistische Fell-Details, ultra-süße Werbequalität, volumetrische sanfte Beleuchtung, geringe Schärfentiefe, helle Pastell-Farbkorrektur mit Rosa-, Gelb- und Weißtönen, hyperrealistische Texturen, herzerwärmende und wohltuende Stimmung.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/45ccdba3b290ba761cc9554a422a8d10/thumbnails/thumbnail.jpg" width="600" alt="Cinematic-Video: Süßes Kätzchen beim Unboxing">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2066732269184889282)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2066732269184889282) | **Veröffentlicht:** Jun 16, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 66 weitere Prompts hier nicht angezeigt
+### 🎯 67 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3068,6 +3068,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-14T05:36:38.408Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-14T09:05:28.327Z</sub>
 
 </div>
