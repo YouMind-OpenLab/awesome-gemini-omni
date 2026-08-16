@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **167** |
+| 📝 कुल प्रॉम्पट्स | **168** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-08-16** |
 
@@ -56,6 +56,25 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Cinematic Miniature Disaster Scene VFX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+
+#### 📝 प्रॉम्पट
+
+```
+Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+
+**[🎬 वीडियो देखें →](https://x.com/AiwithBloodline/status/2088473623694921736)**
+
+**लेखक:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **स्रोत:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **प्रकाशित:** Aug 15, 2026
+
+---
 ### Professional Boxer Daily Routine Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3000,32 +3019,13 @@ Friday हाइप,
 **लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **प्रकाशित:** Jun 18, 2026
 
 ---
-### 2D से 3D डचशंड (Dachshund) ट्रांज़िशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक सिनेमैटिक Gemini वीडियो प्रॉम्प्ट जो स्क्रीन पर मौजूद 2D कार्टून डचशंड को एक यथार्थवादी 3D कैरेक्टर में बदल देता है, जो छलांग लगाकर इंसान के हाथ पर आ जाता है।
-
-#### 📝 प्रॉम्पट
-
-```
-[दृश्य का विवरण] एक प्यारा 2D कार्टून डचशंड कंप्यूटर स्क्रीन के अंदर चंचलता से दौड़ रहा है। स्क्रीन के किनारे पर एक सहज और जादुई पोर्टल प्रभाव के साथ, पिल्ला स्वाभाविक रूप से स्क्रीन से बाहर छलांग लगाता है। [2D से 3D ट्रांज़िशन] छलांग के दौरान, इसका शरीर एक त्रुटिहीन और तरल परिवर्तन से गुज़रता है, जो एक सपाट 2D एनिमेशन से अत्यधिक विस्तृत 3D पिक्सर-शैली (Pixar-style) के कैरेक्टर में बदल जाता है। 3D डचशंड में चमकती हुई आँखें, बेहतरीन बनावट वाले चमकदार बाल, और अविश्वसनीय रूप से जीवंत, स्पष्ट चेहरे के भाव हैं—जीभ बाहर निकालकर हाँफना और सिर को झुकाना। [इंटरैक्शन और पोज़] 3D पिल्ला मॉनिटर के सामने एक वास्तविक मानव हथेली (रेफरेंस इमेज में हाथ की शैली से मेल खाते हुए) पर धीरे से उतरता है। यह प्यारे पोज़ की एक श्रृंखला करता है: तेज़ी से अपनी पूंछ हिलाना, स्नेहपूर्वक इंसान की उंगलियों को सहलाना, और अंत में मासूमियत भरी नज़र के साथ सीधे बैठ जाना। [वातावरण और लाइटिंग] सिनेमैटिक लाइटिंग। वास्तविक दुनिया का डेस्क सेटअप, कंप्यूटर और बैकग्राउंड का वातावरण बिल्कुल स्पष्ट रहता है। स्क्रीन से निकलने वाली हल्की रोशनी 3D पिल्ले के बालों पर यथार्थवादी रिम लाइट डालती है। असली और डिजिटल दुनिया का अद्भुत विवरण, सहज एकीकरण और फोटो-यथार्थवादी मिश्रण। [साउंड डिज़ाइन / ऑडियो] शुरुआत 2D कार्टून जैसे दौड़ने की आवाज़ से होती है। 2D से 3D पोर्टल ट्रांज़िशन के क्षण में एक जादुई, झिलमिलाती "डिंग" या "स्वूश" ध्वनि बजती है। हथेली पर उतरते समय एक हल्की सी धमक, जिसके बाद पिल्ले के धीमे, खुशमिजाज रोने की आवाज़, त्वचा पर पूंछ हिलाने की आवाज़, और बैकग्राउंड में एक हल्का-फुल्का, दिल को छू लेने वाला और चंचल एकॉस्टिक संगीत बजता है।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="2D से 3D डचशंड (Dachshund) ट्रांज़िशन">
-
-**[🎬 वीडियो देखें →](https://x.com/coder_hali/status/2067597800175788089)**
-
-**लेखक:** [程序员哈利](https://x.com/coder_hali) | **स्रोत:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **प्रकाशित:** Jun 18, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 67 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 68 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3071,6 +3071,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-16T04:34:07.058Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-16T08:26:55.377Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **167** |
+| 📝 총 프롬프트 수 | **168** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-08-16** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Cinematic Miniature Disaster Scene VFX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+
+#### 📝 프롬프트
+
+```
+Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+
+**[🎬 비디오 보기 →](https://x.com/AiwithBloodline/status/2088473623694921736)**
+
+**작성자:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **출처:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **게시일:** Aug 15, 2026
+
+---
 ### Professional Boxer Daily Routine Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2995,32 +3014,13 @@ RGB 글리치,
 **작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **게시일:** Jun 18, 2026
 
 ---
-### 2D에서 3D로 변환되는 닥스훈트
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 화면 속 2D 만화 닥스훈트가 사람의 손 위로 뛰어오르는 사실적인 3D 캐릭터로 변신하는 시네마틱 Gemini 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-[장면 구성] 매력적인 2D 만화 닥스훈트가 컴퓨터 화면 안에서 장난스럽게 달리고 있습니다. 화면 경계에서 매끄럽고 마법 같은 포털 효과가 나타나며 강아지가 자연스럽게 화면 밖으로 뛰어 나옵니다. [2D에서 3D로의 전환] 뛰어오르는 동안 강아지의 몸은 평면적인 2D 애니메이션에서 디테일이 살아있는 3D 픽사 스타일 캐릭터로 완벽하고 유연하게 변합니다. 3D 닥스훈트는 반짝이는 눈, 질감이 살아있는 윤기 나는 털, 혀를 내밀고 고개를 갸웃거리는 생동감 넘치는 표정을 보여줍니다. [상호작용 및 포즈] 3D 강아지는 모니터 앞 실제 사람의 손바닥(참조 이미지의 손 스타일과 일치) 위에 부드럽게 착지합니다. 꼬리를 빠르게 흔들고, 사람의 손가락에 애교를 부리며 비비고, 마지막에는 순진한 표정으로 단정하게 앉는 등 사랑스러운 포즈를 취합니다. [환경 및 조명] 시네마틱 조명. 실제 책상 설정, 컴퓨터 및 배경 환경은 매우 선명하게 유지됩니다. 화면에서 나오는 부드러운 빛이 3D 강아지의 털에 사실적인 림 라이트를 만들어냅니다. 초현실적인 디테일, 매끄러운 통합, 디지털과 현실 간의 사실적인 블렌딩이 돋보입니다. [사운드 디자인 / 오디오] 2D 만화 특유의 발소리로 시작합니다. 2D에서 3D 포털로 전환되는 순간 마법처럼 반짝이는 "딩" 소리나 휙 지나가는 효과음이 정확하게 재생됩니다. 손바닥에 착지할 때의 부드러운 쿵 소리, 뒤이어 들리는 희미하고 경쾌한 강아지의 낑낑거리는 소리, 피부에 닿는 빠른 꼬리 흔들림 소리가 가볍고 따뜻하며 장난스러운 어쿠스틱 배경 음악과 어우러집니다.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="2D에서 3D로 변환되는 닥스훈트">
-
-**[🎬 비디오 보기 →](https://x.com/coder_hali/status/2067597800175788089)**
-
-**작성자:** [程序员哈利](https://x.com/coder_hali) | **출처:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **게시일:** Jun 18, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 67 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 68 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3066,6 +3066,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-16T04:34:04.670Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-16T08:26:50.979Z</sub>
 
 </div>

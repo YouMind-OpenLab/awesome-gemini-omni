@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **167** |
+| 📝 プロンプト総数 | **168** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-08-16** |
 
@@ -56,6 +56,25 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### Cinematic Miniature Disaster Scene VFX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+
+#### 📝 プロンプト
+
+```
+Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+
+**[🎬 動画を見る →](https://x.com/AiwithBloodline/status/2088473623694921736)**
+
+**作者:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **ソース:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **公開日:** Aug 15, 2026
+
+---
 ### Professional Boxer Daily Routine Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2996,32 +3015,13 @@ modern anime editing（モダン・アニメ編集）
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **ソース:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **公開日:** Jun 18, 2026
 
 ---
-### 2D から 3D へ：ダックスフンドの変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 画面上の 2D アニメーションのダックスフンドが、リアルな 3D キャラクターへと変身し、人間の手に飛び乗る様子を描いた Gemini 用のシネマティックな動画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-[シーンの構成] コンピュータ画面の中で、愛らしい 2D アニメーションのダックスフンドが楽しそうに走り回っています。画面の境界線に魔法のようなシームレスなポータルが現れ、子犬が画面から自然に飛び出します。[2D から 3D への変身] 飛び出す過程で、その体は滑らかかつ完璧に変身を遂げ、フラットな 2D アニメーションから、非常に精巧な Pixar スタイルの 3D キャラクターへと進化します。3D のダックスフンドは、キラキラと輝く瞳、質感のある艶やかな毛並み、そして舌を出してハァハァと息を弾ませたり、首を傾げたりする、驚くほど生き生きとした表情を見せます。[インタラクションとポーズ] 3D の子犬は、モニターの前にある人間のリアルな手のひら（参照画像の手のスタイルに合わせる）に優しく着地します。尻尾を激しく振る、愛情を込めて指に鼻先をこすりつける、そして最後には無邪気な表情でちょこんと座るという、愛らしい一連のポーズをとります。[環境とライティング] シネマティックなライティング。現実世界のデスク周り、コンピュータ、背景環境は非常に鮮明に描写されます。画面から放たれる柔らかな光が、3D の子犬の毛並みにリアルなリムライトを落とします。シュールなディテール、シームレスな統合、デジタルと現実が融合したフォトリアルな仕上がり。[サウンドデザイン / オーディオ] 2D アニメーションらしい軽快な足音で始まります。2D から 3D へと切り替わるポータルの瞬間に、魔法のようなキラキラとした「ディン」という音や、シュッという効果音が正確に鳴ります。手のひらに着地する際の微かな柔らかい音、それに続いて子犬の愛らしい鳴き声、尻尾が肌に当たるパタパタという音。全体を通して、明るく心温まる遊び心あふれるアコースティックなメロディが流れます。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="2D から 3D へ：ダックスフンドの変身">
-
-**[🎬 動画を見る →](https://x.com/coder_hali/status/2067597800175788089)**
-
-**作者:** [程序员哈利](https://x.com/coder_hali) | **ソース:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **公開日:** Jun 18, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 67 さらに多くのプロンプトがあります
+### 🎯 68 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3067,6 +3067,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-16T04:34:03.734Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-16T08:26:50.098Z</sub>
 
 </div>

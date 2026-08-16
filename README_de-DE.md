@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **167** |
+| 📝 Gesamtanzahl Prompts | **168** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-16** |
 
@@ -56,6 +56,25 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Cinematic Miniature Disaster Scene VFX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+
+**[🎬 Video ansehen →](https://x.com/AiwithBloodline/status/2088473623694921736)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Quelle:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Veröffentlicht:** Aug 15, 2026
+
+---
 ### Professional Boxer Daily Routine Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2997,32 +3016,13 @@ Lord Hanuman öffnet langsam seine Augen und blickt in die Kamera. Der Raum fül
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Quelle:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Veröffentlicht:** Jun 18, 2026
 
 ---
-### 2D-zu-3D-Dackel-Übergang
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Gemini-Video-Prompt, der einen 2D-Cartoon-Dackel auf einem Bildschirm in eine realistische 3D-Figur verwandelt, die in eine menschliche Hand springt.
-
-#### 📝 Prompt
-
-```
-[Szenenaufbau] Ein charmanter 2D-Cartoon-Dackel rennt verspielt in einem Computerbildschirm. Mit einem nahtlosen und magischen Portaleffekt an der Bildschirmkante springt der Welpe auf natürliche Weise aus dem Bildschirm heraus. [2D-zu-3D-Übergang] Während des Sprungs durchläuft sein Körper eine makellose, flüssige Verwandlung und entwickelt sich von einer flachen 2D-Animation zu einer hochdetaillierten 3D-Figur im Pixar-Stil. Der 3D-Dackel hat funkelnde, glänzende Augen, fein strukturiertes, glänzendes Fell und unglaublich lebendige, ausdrucksstarke Gesichtszüge – er hechelt mit herausgestreckter Zunge und legt den Kopf schief. [Interaktion & Posen] Der 3D-Welpe landet sanft auf einer echten menschlichen Handfläche (passend zum Handstil im Referenzbild) vor dem Monitor. Er führt eine Reihe bezaubernder Posen aus: Er wedelt schnell mit dem Schwanz, stupst liebevoll die Finger des Menschen an und setzt sich schließlich ordentlich hin, mit einem unschuldigen Blick. [Umgebung & Beleuchtung] Cineastische Beleuchtung. Das reale Schreibtisch-Setup, der Computer und die Hintergrundumgebung bleiben gestochen scharf. Das sanfte Leuchten des Bildschirms wirft ein realistisches Kantenlicht auf das Fell des 3D-Welpen. Surreale Details, nahtlose Integration, fotorealistische Vermischung von Digitalem und Realität. [Sounddesign / Audio] Beginnt mit 2D-cartoonartigen Trippelschritt-Soundeffekten. Ein magisches, schimmerndes „Ding“ oder ein „Swoosh“-Geräusch ertönt genau in dem Moment des 2D-zu-3D-Portalübergangs. Ein dezentes, sanftes Aufprallgeräusch bei der Landung auf der Handfläche, gefolgt von leisen, fröhlichen Welpenwimmern und dem schnellen Klopfen des wedelnden Schwanzes auf der Haut, untermalt von einer unbeschwerten, herzerwärmenden und verspielten akustischen Hintergrundmelodie.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="2D-zu-3D-Dackel-Übergang">
-
-**[🎬 Video ansehen →](https://x.com/coder_hali/status/2067597800175788089)**
-
-**Autor:** [程序员哈利](https://x.com/coder_hali) | **Quelle:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Veröffentlicht:** Jun 18, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 67 weitere Prompts hier nicht angezeigt
+### 🎯 68 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3068,6 +3068,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-16T04:34:09.490Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-16T08:26:57.199Z</sub>
 
 </div>

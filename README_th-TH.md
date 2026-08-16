@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **167** |
+| 📝 พรอมต์ทั้งหมด | **168** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-08-16** |
 
@@ -56,6 +56,25 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### Cinematic Miniature Disaster Scene VFX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+
+#### 📝 พรอมต์
+
+```
+Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+
+**[🎬 ดูวิดีโอ →](https://x.com/AiwithBloodline/status/2088473623694921736)**
+
+**ผู้เขียน:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **แหล่งที่มา:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **เผยแพร่เมื่อ:** Aug 15, 2026
+
+---
 ### Professional Boxer Daily Routine Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2953,32 +2972,13 @@ aggressive typography, hyper kinetic typography, broadcast motion graphics, rapi
 **ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **เผยแพร่เมื่อ:** Jun 18, 2026
 
 ---
-### การเปลี่ยนภาพสุนัขดัชชุนจาก 2D เป็น 3D
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พร้อมท์วิดีโอ Gemini สไตล์ภาพยนตร์ที่เปลี่ยนภาพสุนัขดัชชุนการ์ตูน 2D บนหน้าจอให้กลายเป็นตัวละคร 3D สมจริงที่กระโดดลงบนฝ่ามือมนุษย์
-
-#### 📝 พรอมต์
-
-```
-[รายละเอียดฉาก] สุนัขดัชชุนการ์ตูน 2D แสนน่ารักกำลังวิ่งเล่นอยู่ภายในหน้าจอคอมพิวเตอร์ ด้วยเอฟเฟกต์ประตูมิติที่ไร้รอยต่อและดูมหัศจรรย์บริเวณขอบหน้าจอ เจ้าลูกสุนัขจึงกระโดดออกมาจากหน้าจอได้อย่างเป็นธรรมชาติ [การเปลี่ยนจาก 2D เป็น 3D] ในระหว่างการกระโดด ร่างกายของมันจะเกิดการเปลี่ยนแปลงที่ลื่นไหลและไร้ที่ติ จากภาพแอนิเมชัน 2D แบนๆ กลายเป็นตัวละคร 3D สไตล์ Pixar ที่มีรายละเอียดสูง สุนัขดัชชุน 3D มีดวงตาที่เป็นประกายแวววาว ขนที่มีพื้นผิวละเอียดเงางาม และการแสดงออกทางสีหน้าที่ดูมีชีวิตชีวาอย่างเหลือเชื่อ ทั้งการหอบลิ้นห้อยและการเอียงคอ [การโต้ตอบและท่าทาง] ลูกสุนัข 3D ลงจอดอย่างนุ่มนวลบนฝ่ามือมนุษย์จริงๆ (ให้ตรงกับสไตล์มือในภาพอ้างอิง) ที่อยู่หน้าจอคอมพิวเตอร์ มันแสดงท่าทางน่ารักหลายอย่าง เช่น การกระดิกหางอย่างรวดเร็ว การเอาหน้าถูไถนิ้วมือมนุษย์ด้วยความรัก และสุดท้ายคือการนั่งตัวตรงอย่างเรียบร้อยพร้อมทำหน้าตาท่าทางไร้เดียงสา [สภาพแวดล้อมและแสง] แสงสไตล์ภาพยนตร์ การตั้งค่าโต๊ะทำงานในโลกแห่งความเป็นจริง คอมพิวเตอร์ และสภาพแวดล้อมพื้นหลังยังคงความคมชัด แสงนุ่มนวลที่เปล่งออกมาจากหน้าจอทำให้เกิดแสงขอบ (rim light) ที่สมจริงบนขนของลูกสุนัข 3D รายละเอียดเหนือจริง การผสานรวมที่ไร้รอยต่อ และการผสมผสานระหว่างโลกดิจิทัลกับความเป็นจริงที่ดูสมจริงดั่งภาพถ่าย [การออกแบบเสียง / เสียงประกอบ] เริ่มต้นด้วยเสียงฝีเท้าวิ่งแบบการ์ตูน 2D มีเสียง "ติ๊ง" หรือเสียงวูบวาบแบบเวทมนตร์ดังขึ้นอย่างแม่นยำในจังหวะที่เปลี่ยนผ่านจาก 2D เป็น 3D ผ่านประตูมิติ ตามด้วยเสียงตุบเบาๆ เมื่อลงจอดบนฝ่ามือ ตามด้วยเสียงลูกสุนัขครางเบาๆ อย่างร่าเริง เสียงหางที่กระดิกกระทบผิวหนังอย่างรวดเร็ว โดยมีทำนองเพลงอะคูสติกพื้นหลังที่สดใส อบอุ่นหัวใจ และขี้เล่น
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนภาพสุนัขดัชชุนจาก 2D เป็น 3D">
-
-**[🎬 ดูวิดีโอ →](https://x.com/coder_hali/status/2067597800175788089)**
-
-**ผู้เขียน:** [程序员哈利](https://x.com/coder_hali) | **แหล่งที่มา:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **เผยแพร่เมื่อ:** Jun 18, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 67 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 68 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3024,6 +3024,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-16T04:34:05.396Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-16T08:26:53.864Z</sub>
 
 </div>

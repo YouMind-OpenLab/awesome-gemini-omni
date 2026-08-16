@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **167** |
+| 📝 Toplam İstem | **168** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-16** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Cinematic Miniature Disaster Scene VFX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+
+#### 📝 İstem
+
+```
+Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+
+**[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2088473623694921736)**
+
+**Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Yayınlandı:** Aug 15, 2026
+
+---
 ### Professional Boxer Daily Routine Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2971,32 +2990,13 @@ Lord Hanuman yavaşça gözlerini açıyor ve kameraya bakıyor. Oda kısa bir s
 **Yazar:** [Rahul Nanda](https://x.com/rahulnanda86) | **Kaynak:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Yayınlandı:** Jun 18, 2026
 
 ---
-### 2D'den 3D'ye Dachshund Geçişi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ekrandaki 2D çizgi film dachshund köpeğini, insan eline atlayan gerçekçi bir 3D karaktere dönüştüren sinematik bir Gemini video istemi.
-
-#### 📝 İstem
-
-```
-[Sahne Analizi] Sevimli bir 2D çizgi film dachshund, bilgisayar ekranının içinde neşeyle koşuyor. Ekran sınırındaki kusursuz ve büyülü bir portal efektiyle, köpek yavrusu doğal bir şekilde ekrandan dışarı atlıyor. [2D'den 3D'ye Geçiş] Atlayış sırasında vücudu, düz bir 2D animasyondan son derece detaylı, Pixar tarzı bir 3D karaktere dönüşerek kusursuz ve akıcı bir değişim geçiriyor. 3D dachshund; parlayan, parlak gözlere, ince dokulu parlak tüylere ve dili dışarıda soluyup başını yana eğdiği inanılmaz derecede canlı ve ifadeli bir yüz yapısına sahip. [Etkileşim ve Pozlar] 3D köpek yavrusu, monitörün önündeki gerçek bir insan avucuna (referans görseldeki el stiliyle uyumlu) nazikçe konuyor. Bir dizi sevimli hareket sergiliyor: hızla kuyruğunu sallıyor, insanın parmaklarına sevgiyle sokuluyor ve sonunda masum bir bakışla düzgünce oturuyor. [Ortam ve Aydınlatma] Sinematik aydınlatma. Gerçek dünyadaki masa düzeni, bilgisayar ve arka plan ortamı kristal netliğinde kalıyor. Ekrandan yayılan yumuşak ışık, 3D köpeğin tüylerinde gerçekçi bir kenar ışığı oluşturuyor. Sürreal detaylar, kusursuz entegrasyon, dijital ile gerçeklik arasında fotogerçekçi bir harmanlama. [Ses Tasarımı / Ses] 2D çizgi film tarzı tıkırtılı koşma ses efektleriyle başlıyor. 2D'den 3D'ye portal geçişi anında büyülü, parıltılı bir "çınlama" veya vınlama sesi çalıyor. Avuca konduğunda hafif, yumuşak bir tok ses duyuluyor; ardından neşeli köpek yavrusu iniltileri, cilde vuran hızlı kuyruk sallama sesleri geliyor ve tüm bunlar neşeli, iç ısıtan ve eğlenceli bir akustik arka plan melodisiyle destekleniyor.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="2D'den 3D'ye Dachshund Geçişi">
-
-**[🎬 Videoyu izle →](https://x.com/coder_hali/status/2067597800175788089)**
-
-**Yazar:** [程序员哈利](https://x.com/coder_hali) | **Kaynak:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Yayınlandı:** Jun 18, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 67 burada gösterilmeyen daha fazla istem
+### 🎯 68 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3042,6 +3042,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-16T04:34:14.033Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-16T08:27:02.011Z</sub>
 
 </div>

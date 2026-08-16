@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **167** |
+| 📝 Total de prompts | **168** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-08-16** |
 
@@ -56,6 +56,25 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Cinematic Miniature Disaster Scene VFX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+
+**[🎬 Ver video →](https://x.com/AiwithBloodline/status/2088473623694921736)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fuente:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Publicado:** Aug 15, 2026
+
+---
 ### Professional Boxer Daily Routine Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2972,32 +2991,13 @@ El Señor Hanuman abre lentamente los ojos y mira hacia la cámara. La habitaci�
 **Autor:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fuente:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Publicado:** Jun 18, 2026
 
 ---
-### Transición de un Dachshund de 2D a 3D
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinemático para video de Gemini que transforma a un dachshund de caricatura 2D en una pantalla en un personaje 3D realista que salta hacia una mano humana.
-
-#### 📝 Prompt
-
-```
-[Desglose de la escena] Un encantador dachshund de caricatura 2D corre juguetonamente dentro de la pantalla de una computadora. Con un efecto de portal mágico y fluido en el borde de la pantalla, el cachorro salta naturalmente hacia afuera. [Transición de 2D a 3D] Durante el salto, su cuerpo experimenta una transformación impecable y fluida, evolucionando de una animación 2D plana a un personaje 3D altamente detallado al estilo Pixar. El dachshund 3D presenta ojos brillantes y lustrosos, pelaje brillante con textura fina y expresiones faciales increíblemente vivas y animadas: jadeando con la lengua afuera e inclinando la cabeza. [Interacción y poses] El cachorro 3D aterriza suavemente en la palma de una mano humana real (que coincide con el estilo de mano de la imagen de referencia) frente al monitor. Realiza una secuencia de poses adorables: mueve la cola rápidamente, frota su nariz contra los dedos del humano con afecto y finalmente se sienta con una mirada inocente. [Entorno e iluminación] Iluminación cinemática. El escritorio, la computadora y el entorno del mundo real permanecen nítidos. El suave resplandor emitido por la pantalla proyecta una luz de contorno realista sobre el pelaje del cachorro 3D. Detalles surrealistas, integración perfecta, mezcla fotorrealista entre lo digital y la realidad. [Diseño de sonido / Audio] Comienza con efectos de sonido de pasos rápidos de caricatura 2D. Un sonido mágico y brillante de "ding" o un efecto de barrido suena precisamente en el momento de la transición del portal de 2D a 3D. Un golpe sutil y suave al aterrizar en la palma, seguido de leves y alegres gemidos de cachorro, el golpeteo rápido de la cola contra la piel, todo ambientado con una melodía acústica alegre, conmovedora y juguetona.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="Transición de un Dachshund de 2D a 3D">
-
-**[🎬 Ver video →](https://x.com/coder_hali/status/2067597800175788089)**
-
-**Autor:** [程序员哈利](https://x.com/coder_hali) | **Fuente:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Publicado:** Jun 18, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 67 más prompts no mostrados aquí
+### 🎯 68 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3043,6 +3043,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-16T04:34:08.584Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-16T08:26:56.624Z</sub>
 
 </div>

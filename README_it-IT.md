@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **167** |
+| 📝 Totale prompt | **168** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-08-16** |
 
@@ -56,6 +56,25 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Cinematic Miniature Disaster Scene VFX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+
+**[🎬 Guarda il video →](https://x.com/AiwithBloodline/status/2088473623694921736)**
+
+**Autore:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Pubblicato:** Aug 15, 2026
+
+---
 ### Professional Boxer Daily Routine Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2969,32 +2988,13 @@ Lord Hanuman apre lentamente gli occhi e guarda verso la fotocamera. La stanza s
 **Autore:** [Rahul Nanda](https://x.com/rahulnanda86) | **Fonte:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Pubblicato:** Jun 18, 2026
 
 ---
-### Transizione da 2D a 3D di un bassotto
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico per Gemini che trasforma un bassotto dei cartoni animati 2D su uno schermo in un realistico personaggio 3D che salta nel palmo di una mano umana.
-
-#### 📝 Prompt
-
-```
-[Analisi della scena] Un affascinante bassotto dei cartoni animati 2D corre giocosamente all'interno dello schermo di un computer. Grazie a un effetto portale fluido e magico sul bordo dello schermo, il cucciolo salta naturalmente fuori dal monitor. [Transizione da 2D a 3D] Durante il salto, il suo corpo subisce una trasformazione impeccabile e fluida, evolvendosi da un'animazione 2D piatta a un personaggio 3D in stile Pixar altamente dettagliato. Il bassotto 3D presenta occhi lucidi e scintillanti, un pelo lucido dalla consistenza fine ed espressioni facciali incredibilmente vivaci: ansimando con la lingua di fuori e inclinando la testa. [Interazione e pose] Il cucciolo 3D atterra delicatamente sul palmo di una mano umana reale (che richiama lo stile della mano nell'immagine di riferimento) davanti al monitor. Esegue una sequenza di pose adorabili: scodinzola rapidamente, strofina affettuosamente il muso contro le dita dell'umano e infine si siede composto con un'espressione innocente. [Ambiente e illuminazione] Illuminazione cinematografica. La scrivania, il computer e l'ambiente circostante nel mondo reale rimangono nitidi. Il bagliore soffuso emesso dallo schermo proietta una realistica luce di contorno sul pelo del cucciolo 3D. Dettagli surreali, integrazione senza soluzione di continuità, fusione fotorealistica tra digitale e realtà. [Sound Design / Audio] Inizia con effetti sonori da cartone animato 2D che richiamano un calpestio. Un suono magico e scintillante, come un "ding" o uno "swoosh", viene riprodotto esattamente nel momento della transizione del portale da 2D a 3D. Un tonfo sottile e morbido accompagna l'atterraggio sul palmo, seguito da deboli e allegri guaiti da cucciolo, il rumore ritmato della coda che batte contro la pelle, il tutto accompagnato da una melodia acustica di sottofondo spensierata, commovente e giocosa.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="Transizione da 2D a 3D di un bassotto">
-
-**[🎬 Guarda il video →](https://x.com/coder_hali/status/2067597800175788089)**
-
-**Autore:** [程序员哈利](https://x.com/coder_hali) | **Fonte:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Pubblicato:** Jun 18, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 67 altri prompt non mostrati qui
+### 🎯 68 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3040,6 +3040,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-16T04:34:11.219Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-16T08:26:58.853Z</sub>
 
 </div>

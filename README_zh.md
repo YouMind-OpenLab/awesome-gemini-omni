@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **167** |
+| 📝 提示词总数 | **168** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-08-16** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Cinematic Miniature Disaster Scene VFX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+
+#### 📝 提示词
+
+```
+Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+
+**[🎬 观看视频 →](https://x.com/AiwithBloodline/status/2088473623694921736)**
+
+**作者:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **来源:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **发布时间:** Aug 15, 2026
+
+---
 ### Professional Boxer Daily Routine Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3001,32 +3020,13 @@ Gada 在没有支撑的情况下完美保持平衡。
 **作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **来源:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **发布时间:** Jun 18, 2026
 
 ---
-### 从 2D 到 3D 的腊肠犬转场
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个电影级的 Gemini 视频提示词，将屏幕中 2D 卡通腊肠犬转化为跳入人手的逼真 3D 角色。
-
-#### 📝 提示词
-
-```
-【场景拆解】一只迷人的 2D 卡通腊肠犬正在电脑屏幕内欢快地奔跑。随着屏幕边缘出现无缝且神奇的传送门效果，小狗自然地从屏幕中跃出。【2D 转 3D 过渡】在跳跃过程中，它的身体经历了完美且流畅的转变，从扁平的 2D 动画演变为细节丰富的 3D 皮克斯风格角色。这只 3D 腊肠犬拥有闪亮且富有光泽的眼睛、质感细腻的毛发，以及极其生动活泼的面部表情——吐着舌头喘气并歪着脑袋。【互动与姿态】3D 小狗轻轻落在显示器前真实的人类手掌上（与参考图像中的手部风格一致）。它做出了一系列可爱的动作：快速摇尾巴、亲昵地蹭着人的手指，最后天真地坐好。【环境与光影】电影级光影。真实的桌面设置、电脑和背景环境保持清晰可见。屏幕发出的柔和光芒在 3D 小狗的毛发上投射出逼真的轮廓光。超现实细节，无缝融合，数字与现实之间的照片级真实感混合。【声音设计/音频】以 2D 卡通风格的脚步声开场。在 2D 转 3D 传送门过渡的瞬间，精准播放神奇的闪烁“叮”声或呼啸声。落在手掌上时有轻柔的落地声，随后是微弱、欢快的小狗呜咽声，以及尾巴快速拍打皮肤的声音，背景配以轻松、温馨且俏皮的声学旋律。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="从 2D 到 3D 的腊肠犬转场">
-
-**[🎬 观看视频 →](https://x.com/coder_hali/status/2067597800175788089)**
-
-**作者:** [程序员哈利](https://x.com/coder_hali) | **来源:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **发布时间:** Jun 18, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 67 更多提示词未在此显示
+### 🎯 68 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3072,6 +3072,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-16T04:34:01.345Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-16T08:26:47.429Z</sub>
 
 </div>

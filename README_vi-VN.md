@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **167** |
+| 📝 Tổng số prompt | **168** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-16** |
 
@@ -56,6 +56,25 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Cinematic Miniature Disaster Scene VFX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+
+**[🎬 Xem video →](https://x.com/AiwithBloodline/status/2088473623694921736)**
+
+**Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Đã xuất bản:** Aug 15, 2026
+
+---
 ### Professional Boxer Daily Routine Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2947,32 +2966,13 @@ Thần Hanuman từ từ mở mắt và nhìn về phía camera. Căn phòng tr�
 **Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Đã xuất bản:** Jun 18, 2026
 
 ---
-### Chuyển đổi chú chó Dachshund từ 2D sang 3D
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video Gemini mang tính điện ảnh giúp biến chú chó dachshund hoạt hình 2D trên màn hình thành nhân vật 3D chân thực nhảy vào lòng bàn tay người.
-
-#### 📝 Prompt
-
-```
-[Phân tích cảnh quay] Một chú chó dachshund hoạt hình 2D đáng yêu đang chạy nhảy tinh nghịch bên trong màn hình máy tính. Với hiệu ứng cổng dịch chuyển kỳ ảo và liền mạch tại ranh giới màn hình, chú cún tự nhiên nhảy ra ngoài. [Chuyển đổi từ 2D sang 3D] Trong lúc nhảy, cơ thể chú cún trải qua quá trình biến đổi mượt mà, hoàn hảo, từ một hình ảnh hoạt hình 2D phẳng chuyển sang nhân vật 3D phong cách Pixar vô cùng chi tiết. Chú chó dachshund 3D có đôi mắt sáng long lanh, bộ lông bóng mượt với kết cấu tinh xảo cùng biểu cảm khuôn mặt sống động, linh hoạt—thè lưỡi thở và nghiêng đầu. [Tương tác & Tư thế] Chú cún 3D đáp nhẹ nhàng xuống lòng bàn tay người thật (khớp với kiểu tay trong hình ảnh tham chiếu) đặt trước màn hình. Chú thực hiện chuỗi tư thế đáng yêu: vẫy đuôi liên tục, dụi đầu vào ngón tay người đầy tình cảm và cuối cùng ngồi ngay ngắn với vẻ mặt ngây thơ. [Bối cảnh & Ánh sáng] Ánh sáng điện ảnh. Thiết lập bàn làm việc, máy tính và môi trường nền thực tế vẫn hiển thị rõ nét. Ánh sáng dịu nhẹ phát ra từ màn hình tạo hiệu ứng viền sáng chân thực trên bộ lông của chú cún 3D. Các chi tiết siêu thực, sự tích hợp liền mạch, hòa quyện giữa kỹ thuật số và thực tế một cách chân thực. [Thiết kế âm thanh] Bắt đầu với hiệu ứng âm thanh chạy lạch cạch kiểu hoạt hình 2D. Một âm thanh "ding" hoặc tiếng vút kỳ ảo, lấp lánh vang lên chính xác tại thời điểm chuyển đổi cổng từ 2D sang 3D. Tiếng đáp nhẹ nhàng xuống lòng bàn tay, theo sau là tiếng ửng ửng vui vẻ của cún con, tiếng vẫy đuôi đập vào da, kết hợp cùng giai điệu acoustic nền nhẹ nhàng, ấm áp và tinh nghịch.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="Chuyển đổi chú chó Dachshund từ 2D sang 3D">
-
-**[🎬 Xem video →](https://x.com/coder_hali/status/2067597800175788089)**
-
-**Tác giả:** [程序员哈利](https://x.com/coder_hali) | **Nguồn:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Đã xuất bản:** Jun 18, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 67 prompt khác không hiển thị ở đây
+### 🎯 68 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3018,6 +3018,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-16T04:34:06.103Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-16T08:26:54.623Z</sub>
 
 </div>

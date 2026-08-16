@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **167** |
+| 📝 Total des prompts | **168** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-08-16** |
 
@@ -56,6 +56,25 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Cinematic Miniature Disaster Scene VFX
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+
+#### 📝 Prompt
+
+```
+Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+
+**[🎬 Voir la vidéo →](https://x.com/AiwithBloodline/status/2088473623694921736)**
+
+**Auteur:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Publié:** Aug 15, 2026
+
+---
 ### Professional Boxer Daily Routine Sequence
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2997,32 +3016,13 @@ Le Seigneur Hanuman ouvre lentement les yeux et regarde vers la caméra. La piè
 **Auteur:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Publié:** Jun 18, 2026
 
 ---
-### Transition 2D vers 3D d'un teckel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématique pour Gemini qui transforme un teckel de dessin animé 2D sur un écran en un personnage 3D réaliste sautant dans une main humaine.
-
-#### 📝 Prompt
-
-```
-[Décomposition de la scène] Un charmant teckel de dessin animé 2D court de manière ludique à l'intérieur d'un écran d'ordinateur. Grâce à un effet de portail magique et fluide à la limite de l'écran, le chiot en sort naturellement. [Transition 2D vers 3D] Pendant le saut, son corps subit une transformation fluide et impeccable, passant d'une animation 2D plate à un personnage 3D très détaillé de style Pixar. Le teckel 3D possède des yeux brillants et lustrés, une fourrure texturée et brillante, ainsi que des expressions faciales incroyablement vives et animées : il halète, tire la langue et penche la tête. [Interaction et poses] Le chiot 3D atterrit délicatement sur une véritable paume humaine (correspondant au style de main de l'image de référence) devant le moniteur. Il enchaîne une série de poses adorables : il remue la queue rapidement, se frotte affectueusement contre les doigts de l'humain et finit par s'asseoir sagement avec un regard innocent. [Environnement et éclairage] Éclairage cinématique. Le bureau réel, l'ordinateur et l'environnement en arrière-plan restent parfaitement nets. La douce lueur émise par l'écran projette une lumière de contour réaliste sur la fourrure du chiot 3D. Détails surréalistes, intégration transparente, mélange photoréaliste entre le numérique et la réalité. [Conception sonore / Audio] Commence par des effets sonores de petits pas de dessin animé 2D. Un son magique et scintillant de type « ding » ou « swoosh » se déclenche précisément au moment de la transition du portail 2D vers 3D. Un bruit sourd et doux accompagne l'atterrissage sur la paume, suivi de légers gémissements de chiot joyeux et du battement rapide de la queue contre la peau, le tout sur fond de mélodie acoustique légère, réconfortante et ludique.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/d8cc3428c30a5d17de571b6432be60fc/thumbnails/thumbnail.jpg" width="600" alt="Transition 2D vers 3D d'un teckel">
-
-**[🎬 Voir la vidéo →](https://x.com/coder_hali/status/2067597800175788089)**
-
-**Auteur:** [程序员哈利](https://x.com/coder_hali) | **Source:** [Link](https://x.com/coder_hali/status/2067597800175788089) | **Publié:** Jun 18, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 67 prompts supplémentaires non affichés ici
+### 🎯 68 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3068,6 +3068,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-16T04:34:10.430Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-16T08:26:58.063Z</sub>
 
 </div>
