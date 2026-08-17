@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **168** |
+| 📝 プロンプト総数 | **173** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-08-17** |
 
@@ -56,6 +56,101 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### Bolivian Salt Flats Mirror Sunrise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+
+#### 📝 プロンプト
+
+```
+Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+
+**[🎬 動画を見る →](https://x.com/genevieve__h/status/2089068330225221876)**
+
+**作者:** [genevieveh@](https://x.com/genevieve__h) | **ソース:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **公開日:** Aug 16, 2026
+
+---
+### Ghibli Style Koi Pond Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+
+#### 📝 プロンプト
+
+```
+Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+
+**[🎬 動画を見る →](https://x.com/genevieve__h/status/2089068327691862357)**
+
+**作者:** [genevieveh@](https://x.com/genevieve__h) | **ソース:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **公開日:** Aug 16, 2026
+
+---
+### Zero Gravity Glass Ribbon Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+
+#### 📝 プロンプト
+
+```
+Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+
+**[🎬 動画を見る →](https://x.com/genevieve__h/status/2089068325493944435)**
+
+**作者:** [genevieveh@](https://x.com/genevieve__h) | **ソース:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **公開日:** Aug 16, 2026
+
+---
+### Double-Exposure Silhouette Forest Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+
+#### 📝 プロンプト
+
+```
+Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+
+**[🎬 動画を見る →](https://x.com/genevieve__h/status/2089068323132649758)**
+
+**作者:** [genevieveh@](https://x.com/genevieve__h) | **ソース:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **公開日:** Aug 16, 2026
+
+---
+### Underwater Kelp Forest Video Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+
+#### 📝 プロンプト
+
+```
+Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+
+**[🎬 動画を見る →](https://x.com/genevieve__h/status/2089068314764997056)**
+
+**作者:** [genevieveh@](https://x.com/genevieve__h) | **ソース:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **公開日:** Aug 16, 2026
+
+---
 ### Cinematic Miniature Disaster Scene VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2752,276 +2847,13 @@ FPV ドローンによる追走（開始時点）→ サイドトラッキング
 **作者:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **ソース:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **公開日:** Jun 24, 2026
 
 ---
-### ドローン配送強盗チェイス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni 向けのハイアクションなシネマティック動画プロンプト。密集した都市部でのドローン同士による空中強盗と高速チェイスを描写します。
-
-#### 📝 プロンプト
-
-```
-荷物を運ぶ配送ドローン、空中強盗を試みる泥棒ドローン、密集した都市部での高速チェイス、ニアミス、急旋回、配達成功。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="ドローン配送強盗チェイス">
-
-**[🎬 動画を見る →](https://x.com/vireonixx/status/2069696802794954891)**
-
-**作者:** [Virena](https://x.com/vireonixx) | **ソース:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **公開日:** Jun 24, 2026
-
----
-### 野生動物ドキュメンタリー：挨拶をする子ゾウ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> カメラを発見し、泥の中にメッセージを書く子ゾウを捉えた、リアリティあふれる自然ドキュメンタリー風の動画生成用プロンプトです。
-
-#### 📝 プロンプト
-
-```
-超リアルな野生動物ドキュメンタリーの映像。自然写真家が川を渡るゾウの家族を撮影している。すべてはごく普通の光景に見える。突然、一頭の子ゾウがカメラに気づく。子ゾウは木の枝を拾い上げ、川のそばの泥の上にこう書く。「HELLO」
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="野生動物ドキュメンタリー：挨拶をする子ゾウ">
-
-**[🎬 動画を見る →](https://x.com/vireonixx/status/2069347975986311341)**
-
-**作者:** [Virena](https://x.com/vireonixx) | **ソース:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **公開日:** Jun 23, 2026
-
----
-### キネティック・タイポグラフィ・モーショングラフィックス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 正確なタイミングとグリッチエフェクトを備えた、高エネルギーなキネティック・タイポグラフィを生成するためのプロフェッショナル仕様の構造化プロンプトです。
-
-#### 📝 プロンプト
-
-```
-タイポグラフィのみのモーションビデオ。
-画像なし。テキストのみ。
-
-スタイル：
-黒背景
-極太ゴシック体 ＋ スクエア・テクノフォント
-ハードでアグレッシブな動き
-モダンな放送用モーショングラフィックス
-ハイパー・キネティック・タイポグラフィ
-テンポの速い編集
-
-カラー：
-ベース ＝ ホワイト
-アクセント ＝ ビビッドレッド
-RGB 分割 ＝ シアン ＋ マゼンタ
-時折入るイエローのフラッシュ
-
-合計時間：6 秒
-────────────────
-0.0～0.35 秒
-激しい RGB グリッチの爆発。
-重厚なデジタル・ティアリング（映像の乱れ）。
-カメララッシュ。
-マイクロ・スピン。
-断片が瞬時に再構築される。
-
-「FRIDAY」
-────────────────
-0.35～0.70 秒
-スクエアマスクが衝撃と共に開く。
-ズームパンチ。
-文字のスライスが位置を入れ替える。
-赤のパルスがフラッシュする。
-
-「ON」
-────────────────
-0.70～1.05 秒
-フルスクリーンのデジタルノイズ。
-スキャンライン・ワイプ。
-ピクセル破壊。
-ホワイトフラッシュ。
-
-「WEEKEND」
-────────────────
-1.05～1.45 秒
-4 分割画面。
-垂直反転。
-弾性のあるスナップバック。
-カメラシェイク。
-
-「START」
-────────────────
-1.45～1.90 秒
-極端なスクワッシュ ＆ ストレッチ。
-RGB ゴーストトレイル。
-水平方向のホイップ。
-インパクト・ストップ。
-
-「WORK END」
-────────────────
-1.90～2.25 秒
-瞬時のブラックアウト。
-赤のスキャンライン。
-ベースヒット。
-ノイズバースト。
-
-「LIBERATED.」
-────────────────
-2.25～2.80 秒
-90 度回転。
-スクエアフレーム・ロック。
-フレームが粉砕される。
-文字が外側に爆発し、磁力で再集合する。
-
-「LET'S GO!!」
-
-────────────────
-2.80～3.30 秒
-高速スキャン・ワイプ。
-斜めのグリッチ・ストリーク。
-色収差。
-パーティクルの火花。
-
-「TONIGHT」
-────────────────
-3.30～3.85 秒
-文字が爆発して四散する。
-磁力による引き寄せ。
-重厚なインパクト・ランディング。
-衝撃波の波紋。
-
-「EVERYTHING YOU LOVE」
-────────────────
-3.85～4.45 秒
-インパクト・ズーム。
-ネオンのアウトライン。
-背景のビートパルス。
-マイクロ・オービット・カメラ。
-
-「LET'S DO IT ALL.」
-────────────────
-4.45～5.10 秒
-高速 RGB フリッカー。
-高速ズームイン／アウト。
-デジタル・ディストーション。
-アグレッシブなシェイク。
-
-「NO LIMIT」
-────────────────
-5.10～6.00 秒
-最大スケール。
-ノイズが徐々にフェードアウト。
-ホワイト ＋ レッドで固定。
-微細な振動。
-最後の火花。
-フェード・トゥ・ブラック。
-
-「HAPPY FRIDAY!!」
-────────────────
-スタイルタグ：
-aggressive typography（アグレッシブ・タイポグラフィ）、
-hyper kinetic typography（ハイパー・キネティック・タイポグラフィ）、
-broadcast motion graphics（放送用モーショングラフィックス）、
-rapid cut（ラピッドカット）、
-rgb glitch（RGB グリッチ）、
-impact zoom（インパクト・ズーム）、
-spin snap（スピン・スナップ）、
-square mask（スクエアマスク）、
-digital destruction（デジタル破壊）、
-magnetic assembly（磁力による集合）、
-scanline（スキャンライン）、
-chromatic aberration（色収差）、
-camera shake（カメラシェイク）、
-speed lines（スピードライン）、
-Friday hype（フライデー・ハイプ）、
-text MV（テキスト MV）、
-high energy（ハイエネルギー）、
-cyberpunk（サイバーパンク）、
-modern anime editing（モダン・アニメ編集）
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="キネティック・タイポグラフィ・モーショングラフィックス">
-
-**[🎬 動画を見る →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
-
-**作者:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **ソース:** [Link](https://x.com/YaReYaRu30Life/status/2067814602612830374) | **公開日:** Jun 19, 2026
-
----
-### クリシュナ神の球体変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> ガンジス川のほとりで、神秘的な金属製の球体が日の出とともに未来的な鎧をまとったクリシュナ神へと変身する様子を描いた、Gemini Omni 用のスピリチュアルなシネマティックプロンプト。
-
-#### 📝 プロンプト
-
-```
-日の出の聖なるガンジス川の岩場を舞台にした、超リアルなシネマティックビデオ。朝の黄金色の光が流れる水面に反射している。遠くで寺院の鐘がかすかに鳴り響き、お香の煙が空中に漂う。川岸の背景には、ガート（沐浴場）や小さな寺院、参拝者の姿が遠くに見える。古代の神秘的で穏やかな雰囲気。ガンジス川はヒンドゥー教で最も神聖な川として崇められており、北インド全域に有名なガートや寺院が立ち並んでいる。
-
-画面に人の手が入ってきて、川辺の大きな岩の上に神秘的な金属製の球体を置く。その球体は、古代の神聖な遺物と未来のテクノロジーが融合したような外観で、磨き上げられたダークメタル、青と金の光を放つエネルギーの脈動、精巧なサンスクリット語の彫刻、神聖幾何学模様、孔雀の羽をモチーフにしたデザイン、フルートの形をしたシンボル、そして華やかな天体の装飾が施されている。
-
-球体は流れる川のそばの岩の上に静かに置かれる。
-
-一瞬、何も起こらない。
-
-やがて、彫刻が輝き始める。金属の表面の下で黄金と青のエネルギーが脈動する。重厚な機械音が響き渡る。パネルがトランスフォーマーのように精密に展開し、何百もの金属セグメントが回転、分離、再構成される。動くパーツの間をエネルギーの奔流が駆け抜ける。
-
-球体は徐々に、威厳のある未来的な金属製のクリシュナ神へと変身していく。神聖な鎧が彼の周囲に形成される。変形するパーツから、精巧に作られた金属製のフルートが具現化する。青と金の神聖なエネルギーが、彼の全身に刻まれた模様を通って放射される。
-
-クリシュナ神はゆっくりとフルートを掲げ、地平線を見つめる。昇る太陽が彼の背後の川を照らす。変身が完了するとともに、寺院の鐘の音が大きく鳴り響く。超リアルなメカニカル変身、神聖な SF 美学、プレミアムな視覚効果、畏敬の念を抱かせる神々しい登場。カートゥーン調は不可。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="クリシュナ神の球体変身">
-
-**[🎬 動画を見る →](https://x.com/rahulnanda86/status/2067640397183230410)**
-
-**作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **ソース:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **公開日:** Jun 18, 2026
-
----
-### ハヌマーン神のガダー（棍棒）の変身
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni 用のシネマティックプロンプト。現代インドのリビングルームで、近未来的な金属製のガダーがハヌマーン神の姿へと変身する超リアルな動画を生成します。
-
-#### 📝 プロンプト
-
-```
-現代インドのリビングルームで、日中にスマートフォンで撮影された超リアルな家庭用ビデオ。自然な窓からの光、リアルな室内の雰囲気、わずかな手持ちカメラの揺れ、本物のスマホカメラの画質。顔は一切映らない。
-
-画面内に人の手が入ってきて、ハヌマーン神の棍棒（ガダー）をモチーフにした近未来的な金属製のガダーを持っている。そのガダーは、高度な技術で再構築された古代の遺物のように見える。つや消しのガンメタル、輝くサフラン色のエネルギーライン、複雑なヒンドゥー教のシンボル、サンスクリット語の刻印、神聖な幾何学模様、繊細な金のハイライト、そして機械的なディテールが施されている。
-
-その手が、ガダーを木製のテーブルの上にそっと立てる。
-
-一瞬、何も起こらない。
-
-ガダーは支えなしで完璧にバランスを保っている。
-
-かすかな金属的なハミング音が聞こえ始める。表面全体に古代サンスクリット語のようなエネルギーのシンボルが輝き出す。機械的なセグメントが動き始める。パネルが回転し、展開し、トランスフォーマーのようにスライドして分かれていく。内部の黄金色のエネルギーの鼓動が見えるようになる。
-
-カメラがゆっくりと近づく。
-
-変身が加速する。柄が分かれて関節のある手足となり、棍棒の頭部が装甲板へと展開する。何百もの金属パーツが精密に再構成されていく。
-
-数秒のうちに、ガダーはテーブルの上に立つ威厳ある金属製のハヌマーン神へと完全に変身する。近未来的な神聖な鎧、輝く瞳、複雑なヒンドゥー教に着想を得たメカニカルデザイン、刻印されたシンボルを流れる神聖な黄金のエネルギー。
-
-ハヌマーン神がゆっくりと目を開け、カメラの方を見る。部屋が一瞬、温かい黄金色の光に包まれる。本物のような変身の物理演算、最高品質の VFX のリアリズム、トランスフォーマー風の機械的な動き、神話と SF が融合した美学、畏敬の念を抱かせる演出。アニメ調ではない。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="ハヌマーン神のガダー（棍棒）の変身">
-
-**[🎬 動画を見る →](https://x.com/rahulnanda86/status/2067639367225737714)**
-
-**作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **ソース:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **公開日:** Jun 18, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 68 さらに多くのプロンプトがあります
+### 🎯 73 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3067,6 +2899,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-17T08:40:45.877Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-17T12:39:54.359Z</sub>
 
 </div>

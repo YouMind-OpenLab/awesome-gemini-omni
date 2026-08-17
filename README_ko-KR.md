@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **168** |
+| 📝 총 프롬프트 수 | **173** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-08-17** |
 
@@ -56,6 +56,101 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Bolivian Salt Flats Mirror Sunrise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+
+#### 📝 프롬프트
+
+```
+Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+
+**[🎬 비디오 보기 →](https://x.com/genevieve__h/status/2089068330225221876)**
+
+**작성자:** [genevieveh@](https://x.com/genevieve__h) | **출처:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **게시일:** Aug 16, 2026
+
+---
+### Ghibli Style Koi Pond Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+
+#### 📝 프롬프트
+
+```
+Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+
+**[🎬 비디오 보기 →](https://x.com/genevieve__h/status/2089068327691862357)**
+
+**작성자:** [genevieveh@](https://x.com/genevieve__h) | **출처:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **게시일:** Aug 16, 2026
+
+---
+### Zero Gravity Glass Ribbon Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+
+#### 📝 프롬프트
+
+```
+Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+
+**[🎬 비디오 보기 →](https://x.com/genevieve__h/status/2089068325493944435)**
+
+**작성자:** [genevieveh@](https://x.com/genevieve__h) | **출처:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **게시일:** Aug 16, 2026
+
+---
+### Double-Exposure Silhouette Forest Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+
+#### 📝 프롬프트
+
+```
+Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+
+**[🎬 비디오 보기 →](https://x.com/genevieve__h/status/2089068323132649758)**
+
+**작성자:** [genevieveh@](https://x.com/genevieve__h) | **출처:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **게시일:** Aug 16, 2026
+
+---
+### Underwater Kelp Forest Video Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+
+#### 📝 프롬프트
+
+```
+Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+
+**[🎬 비디오 보기 →](https://x.com/genevieve__h/status/2089068314764997056)**
+
+**작성자:** [genevieveh@](https://x.com/genevieve__h) | **출처:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **게시일:** Aug 16, 2026
+
+---
 ### Cinematic Miniature Disaster Scene VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2751,276 +2846,13 @@ FPV 드론 추격(이미 이동 중) → 측면 트래킹 → 휠 장착 카메�
 **작성자:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **출처:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **게시일:** Jun 24, 2026
 
 ---
-### 드론 배송 강탈 추격전
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 밀집된 도시를 배경으로 드론 간의 공중 강탈과 고속 추격전을 묘사한 Gemini Omni용 고액션 시네마틱 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-택배를 운반하는 배송 드론, 공중 강탈을 시도하는 도둑 드론, 밀집된 도시를 가로지르는 고속 추격전, 아슬아슬한 충돌 위기, 급회전, 성공적인 배송.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="드론 배송 강탈 추격전">
-
-**[🎬 비디오 보기 →](https://x.com/vireonixx/status/2069696802794954891)**
-
-**작성자:** [Virena](https://x.com/vireonixx) | **출처:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **게시일:** Jun 24, 2026
-
----
-### 야생 다큐멘터리: 인사하는 아기 코끼리
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 카메라를 발견하고 진흙 위에 메시지를 쓰는 아기 코끼리를 담은 실감 나는 자연 다큐멘터리 스타일의 영상 생성 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-초고화질 야생 다큐멘터리 영상. 자연 다큐멘터리 촬영 감독이 강을 건너는 코끼리 가족을 촬영하고 있습니다. 모든 것이 평화로워 보이는 순간, 아기 코끼리 한 마리가 카메라를 발견합니다. 아기 코끼리는 나뭇가지를 집어 들더니 강가 진흙 위에 'HELLO'라고 적습니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="야생 다큐멘터리: 인사하는 아기 코끼리">
-
-**[🎬 비디오 보기 →](https://x.com/vireonixx/status/2069347975986311341)**
-
-**작성자:** [Virena](https://x.com/vireonixx) | **출처:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **게시일:** Jun 23, 2026
-
----
-### 키네틱 타이포그래피 모션 그래픽
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 정밀한 타이밍과 글리치 효과를 갖춘 고에너지 키네틱 타이포그래피 생성을 위한 전문가급 구조적 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-타이포그래피 전용 모션 비디오.
-이미지 없음. 텍스트 전용.
-
-스타일:
-검은색 배경
-울트라 볼드 고딕 + 스퀘어 테크노 폰트
-강렬하고 공격적인 모션
-현대적인 방송용 모션 그래픽
-하이퍼 키네틱 타이포그래피
-빠른 템포의 편집
-
-색상:
-기본 = 흰색
-강조 = 선명한 빨간색
-RGB 분할 = 시안 + 마젠타
-간헐적인 노란색 플래시
-
-총 길이: 6 초
-────────────────
-0.0–0.35초
-강렬한 RGB 글리치 폭발.
-강한 디지털 티어링.
-카메라 러시.
-마이크로 스핀.
-파편이 즉시 재구성됨.
-
-"FRIDAY"
-────────────────
-0.35–0.70초
-스퀘어 마스크가 임팩트 있게 열림.
-줌 펀치.
-글자 조각들이 위치를 바꿈.
-빨간색 펄스 플래시.
-
-"ON"
-────────────────
-0.70–1.05초
-전체 화면 디지털 노이즈.
-스캔라인 와이프.
-픽셀 파괴.
-흰색 플래시.
-
-"WEEKEND"
-────────────────
-1.05–1.45초
-4방향 분할.
-수직 반전.
-탄성 있는 스냅 백.
-카메라 흔들림.
-
-"START"
-────────────────
-1.45–1.90초
-극단적인 스쿼시 & 스트레치.
-RGB 고스트 트레일.
-수평 휩.
-임팩트 정지.
-
-"WORK END"
-────────────────
-1.90–2.25초
-즉각적인 블랙아웃.
-빨간색 스캔 라인.
-베이스 히트.
-노이즈 버스트.
-
-"LIBERATED."
-────────────────
-2.25–2.80초
-90° 회전.
-스퀘어 프레임 고정.
-프레임 산산조각.
-글자들이 밖으로 터져 나왔다가 자석처럼 다시 조립됨.
-
-"LET'S GO!!"
-
-────────────────
-2.80–3.30초
-고속 스캔 와이프.
-대각선 글리치 스트릭.
-색수차 분할.
-입자 스파크.
-
-"TONIGHT"
-────────────────
-3.30–3.85초
-글자들이 폭발하며 흩어짐.
-자석 같은 끌림.
-강한 임팩트 랜딩.
-충격파 리플.
-
-"EVERYTHING YOU LOVE"
-────────────────
-3.85–4.45초
-임팩트 줌.
-네온 아웃라인.
-배경 비트 펄스.
-마이크로 궤도 카메라.
-
-"LET'S DO IT ALL."
-────────────────
-4.45–5.10초
-빠른 RGB 플리커.
-빠른 줌 인/아웃.
-디지털 왜곡.
-공격적인 흔들림.
-
-"NO LIMIT"
-────────────────
-5.10–6.00초
-최대 스케일.
-노이즈가 점차 사라짐.
-흰색 + 빨간색 고정.
-미세한 진동.
-마지막 스파크.
-블랙으로 페이드 아웃.
-
-"HAPPY FRIDAY!!"
-────────────────
-스타일 태그:
-공격적인 타이포그래피,
-하이퍼 키네틱 타이포그래피,
-방송용 모션 그래픽,
-빠른 컷,
-RGB 글리치,
-임팩트 줌,
-스핀 스냅,
-스퀘어 마스크,
-디지털 파괴,
-자석 조립,
-스캔라인,
-색수차,
-카메라 흔들림,
-속도선,
-금요일 하이프,
-텍스트 MV,
-고에너지,
-사이버펑크,
-현대적인 애니메이션 편집
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="키네틱 타이포그래피 모션 그래픽">
-
-**[🎬 비디오 보기 →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
-
-**작성자:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **출처:** [Link](https://x.com/YaReYaRu30Life/status/2067814602612830374) | **게시일:** Jun 19, 2026
-
----
-### 크리슈나 경(Lord Krishna) 구체 변신
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 갠지스 강변에서 일출을 배경으로 신비로운 금속 구체가 미래지향적인 갑옷을 입은 크리슈나 경으로 변신하는 모습을 담은 Gemini Omni용 영적 시네마틱 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-일출 무렵 성스러운 갠지스 강의 바위가 많은 강변을 배경으로 한 초현실적인 시네마틱 영상입니다. 황금빛 아침 햇살이 흐르는 강물에 반사됩니다. 멀리서 사원 종소리가 희미하게 울려 퍼지고, 향 연기가 공기 중으로 피어오릅니다. 강둑을 따라 멀리 배경으로 가트(Ghats), 작은 사원들, 그리고 신도들의 모습이 보입니다. 분위기는 고대적이고 영적이며 평화롭습니다. 갠지스 강은 힌두교에서 가장 신성한 강으로 숭배받으며, 인도 북부 전역에 걸쳐 유명한 가트와 사원들이 줄지어 있습니다.
-
-한 사람의 손이 프레임 안으로 들어와 강변의 큰 바위 위에 놓인 신비로운 금속 구체를 들고 있습니다. 이 구체는 고대의 신성한 유물과 미래 기술이 융합된 듯한 모습입니다. 광택이 나는 어두운 금속, 푸른색과 금색으로 빛나는 에너지 맥동, 정교한 산스크리트어 각인, 신성한 기하학적 패턴, 공작 깃털에서 영감을 받은 모티프, 피리 모양의 상징, 그리고 화려한 천상의 디테일이 특징입니다.
-
-구체가 흐르는 강 옆 바위 위에 조심스럽게 놓입니다.
-
-잠시 동안 아무 일도 일어나지 않습니다.
-
-그러다 각인들이 빛나기 시작합니다. 금색과 푸른색의 에너지가 금속 표면 아래에서 맥동합니다. 깊은 기계적 웅웅거림이 들려옵니다. 패널들이 트랜스포머처럼 정교하게 펼쳐집니다. 수백 개의 금속 조각들이 회전하고 분리되며 다시 조립됩니다. 움직이는 부품들 사이로 에너지 줄기가 흐릅니다.
-
-구체는 점차 웅장하고 미래지향적인 금속 크리슈나 경의 모습으로 변신합니다. 신성한 갑옷이 그의 몸을 감싸며 형성됩니다. 변하는 부품들로부터 아름답게 제작된 금속 피리가 구체화됩니다. 푸른색과 금색의 신성한 에너지가 그의 몸 전체에 새겨진 패턴을 따라 방사됩니다.
-
-크리슈나 경이 천천히 피리를 들어 올려 수평선을 바라봅니다. 떠오르는 태양이 그의 뒤로 강을 비춥니다. 변신이 완료되면서 사원 종소리가 더 크게 울려 퍼집니다. 초현실적인 기계적 변신, 신성한 SF 미학, 프리미엄 시각 효과, 경외심을 불러일으키는 신성한 등장, 만화 스타일 아님.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="크리슈나 경(Lord Krishna) 구체 변신">
-
-**[🎬 비디오 보기 →](https://x.com/rahulnanda86/status/2067640397183230410)**
-
-**작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **게시일:** Jun 18, 2026
-
----
-### 하누만 신의 가다(Gada) 변신
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 현대적인 인도 가정집 거실에서 미래지향적인 금속 가다(Gada)가 하누만 신 캐릭터로 변신하는 초현실적인 영상을 생성하기 위한 Gemini Omni용 시네마틱 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-낮 시간대 현대적인 인도 가정집 거실에서 스마트폰으로 촬영한 초현실적인 시네마틱 영상. 자연스러운 창가 조명, 사실적인 실내 분위기, 약간의 핸드헬드 흔들림, 실제 스마트폰 카메라 화질. 얼굴은 전혀 보이지 않음.
-
-한 사람의 손이 화면 안으로 들어와 하누만 신의 철퇴에서 영감을 받은 미래지향적인 금속 가다(Gada)를 들고 있음. 가다는 첨단 기술로 재해석된 고대 유물처럼 보임: 브러시 처리된 건메탈, 빛나는 사프란 색 에너지 라인, 정교한 힌두교 상징, 산스크리트어 각인, 신성한 기하학적 패턴, 은은한 금색 하이라이트 및 기계적 디테일.
-
-손이 가다를 나무 테이블 위에 조심스럽게 똑바로 세워 놓음.
-
-잠시 동안 아무 일도 일어나지 않음.
-
-가다는 지지대 없이 완벽하게 균형을 잡음.
-
-희미한 금속성 웅웅거리는 소리가 시작됨. 고대 산스크리트어와 유사한 에너지 상징들이 표면 전체에서 빛남. 기계적 부품들이 움직이기 시작함. 패널들이 회전하고 펼쳐지며 트랜스포머 스타일의 사실적인 소리와 함께 미끄러지듯 분리됨. 내부의 황금빛 에너지가 맥동하는 것이 보임.
-
-카메라가 천천히 가까이 다가감.
-
-변신이 가속화됨. 자루가 관절이 있는 팔다리로 분리됨. 철퇴 머리 부분이 갑옷 판으로 펼쳐짐. 수백 개의 금속 부품들이 정밀하게 재배치됨.
-
-몇 초 안에 가다는 테이블 위에 서 있는 위엄 있는 금속 하누만 신으로 완전히 변신함. 미래지향적인 신성한 갑옷, 빛나는 눈, 정교한 힌두교풍의 기계적 디자인, 각인된 상징을 통해 흐르는 신성한 황금빛 에너지.
-
-하누만 신이 천천히 눈을 뜨고 카메라를 바라봄. 방 안이 잠시 따뜻한 황금빛으로 가득 참. 사실적인 변신 물리 효과, 프리미엄 VFX 리얼리즘, 트랜스포머 스타일의 기계적 움직임, 신화적 SF 미학, 경외심을 불러일으키는 연출, 만화 같은 느낌 전혀 없음.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="하누만 신의 가다(Gada) 변신">
-
-**[🎬 비디오 보기 →](https://x.com/rahulnanda86/status/2067639367225737714)**
-
-**작성자:** [Rahul Nanda](https://x.com/rahulnanda86) | **출처:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **게시일:** Jun 18, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 68 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 73 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3066,6 +2898,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-17T08:40:46.689Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-17T12:39:55.425Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **168** |
+| 📝 Tổng số prompt | **173** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-17** |
 
@@ -56,6 +56,101 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Bolivian Salt Flats Mirror Sunrise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+
+#### 📝 Prompt
+
+```
+Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+
+**[🎬 Xem video →](https://x.com/genevieve__h/status/2089068330225221876)**
+
+**Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Đã xuất bản:** Aug 16, 2026
+
+---
+### Ghibli Style Koi Pond Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+
+#### 📝 Prompt
+
+```
+Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+
+**[🎬 Xem video →](https://x.com/genevieve__h/status/2089068327691862357)**
+
+**Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Đã xuất bản:** Aug 16, 2026
+
+---
+### Zero Gravity Glass Ribbon Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+
+#### 📝 Prompt
+
+```
+Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+
+**[🎬 Xem video →](https://x.com/genevieve__h/status/2089068325493944435)**
+
+**Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Đã xuất bản:** Aug 16, 2026
+
+---
+### Double-Exposure Silhouette Forest Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+
+#### 📝 Prompt
+
+```
+Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+
+**[🎬 Xem video →](https://x.com/genevieve__h/status/2089068323132649758)**
+
+**Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Đã xuất bản:** Aug 16, 2026
+
+---
+### Underwater Kelp Forest Video Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+
+#### 📝 Prompt
+
+```
+Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+
+**[🎬 Xem video →](https://x.com/genevieve__h/status/2089068314764997056)**
+
+**Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Đã xuất bản:** Aug 16, 2026
+
+---
 ### Cinematic Miniature Disaster Scene VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2703,276 +2798,13 @@ Một hiệu ứng hoạt ảnh văn bản động, nơi các ký tự phân tá
 **Tác giả:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **Nguồn:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **Đã xuất bản:** Jun 24, 2026
 
 ---
-### Cuộc rượt đuổi cướp drone giao hàng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh hành động cao dành cho Gemini Omni, mô tả một vụ cướp giữa không trung và cuộc rượt đuổi tốc độ cao giữa các drone trong một thành phố đông đúc.
-
-#### 📝 Prompt
-
-```
-drone giao hàng đang mang theo một kiện hàng, drone kẻ trộm cố gắng thực hiện vụ cướp giữa không trung, cuộc rượt đuổi tốc độ cao xuyên qua thành phố đông đúc, suýt va chạm, những khúc cua gấp, giao hàng thành công.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="Cuộc rượt đuổi cướp drone giao hàng">
-
-**[🎬 Xem video →](https://x.com/vireonixx/status/2069696802794954891)**
-
-**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **Đã xuất bản:** Jun 24, 2026
-
----
-### Phim tài liệu về động vật hoang dã: Voi con viết lời chào
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video đậm chất điện ảnh cho cảnh quay phim tài liệu thiên nhiên chân thực, nơi một chú voi con phát hiện ra máy quay và viết thông điệp trên bùn.
-
-#### 📝 Prompt
-
-```
-Cảnh quay phim tài liệu về động vật hoang dã siêu chân thực. Một nhiếp ảnh gia thiên nhiên đang quay phim một đàn voi đang băng qua sông. Mọi thứ trông hoàn toàn bình thường. Một chú voi con bất ngờ chú ý đến chiếc máy quay. Nó nhặt một cành cây lên. Trên lớp bùn bên bờ sông, nó viết: HELLO.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="Phim tài liệu về động vật hoang dã: Voi con viết lời chào">
-
-**[🎬 Xem video →](https://x.com/vireonixx/status/2069347975986311341)**
-
-**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **Đã xuất bản:** Jun 23, 2026
-
----
-### Đồ họa chuyển động Kinetic Typography
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh cấu trúc chuyên nghiệp để tạo ra kinetic typography tràn đầy năng lượng với thời gian chính xác và hiệu ứng glitch.
-
-#### 📝 Prompt
-
-```
-Video chuyển động chỉ sử dụng Typography.
-Không hình ảnh. Chỉ có văn bản.
-
-PHONG CÁCH:
-Nền đen
-Phông chữ gothic siêu đậm + techno vuông
-Chuyển động mạnh mẽ, dứt khoát
-Đồ họa chuyển động truyền hình hiện đại
-Typography siêu động (hyper kinetic)
-Biên tập nhịp độ nhanh
-
-MÀU SẮC:
-Cơ bản = Trắng
-Điểm nhấn = Đỏ rực
-RGB Split = Lục lam (Cyan) + Đỏ tươi (Magenta)
-Chớp vàng ngẫu nhiên
-
-TỔNG THỜI LƯỢNG: 6 giây
-────────────────
-0.0–0.35s
-Hiệu ứng glitch RGB bùng nổ dữ dội.
-Nhiễu kỹ thuật số nặng.
-Camera lao tới.
-Xoay siêu nhanh.
-Các mảnh vỡ tái tạo tức thì.
-
-"FRIDAY"
-────────────────
-0.35–0.70s
-Mặt nạ vuông mở ra đầy ấn tượng.
-Zoom cận cảnh.
-Các chữ cái hoán đổi vị trí.
-Nhịp đỏ nhấp nháy.
-
-"ON"
-────────────────
-0.70–1.05s
-Nhiễu kỹ thuật số toàn màn hình.
-Quét đường kẻ (scanline).
-Phá hủy pixel.
-Chớp trắng.
-
-"WEEKEND"
-────────────────
-1.05–1.45s
-Chia bốn màn hình.
-Đảo ngược dọc.
-Đàn hồi bật lại.
-Camera rung lắc.
-
-"START"
-────────────────
-1.45–1.90s
-Hiệu ứng co giãn cực độ (squash & stretch).
-Vệt bóng RGB.
-Quét ngang nhanh.
-Dừng đột ngột.
-
-"WORK END"
-────────────────
-1.90–2.25s
-Tắt đen tức thì.
-Đường quét đỏ.
-Nhịp bass đập.
-Bùng nổ nhiễu.
-
-"LIBERATED."
-────────────────
-2.25–2.80s
-Xoay 90°.
-Khóa khung hình vuông.
-Khung hình vỡ vụn.
-Các chữ cái bung ra rồi tự động lắp ghép lại bằng lực từ tính.
-
-"LET'S GO!!"
-
-────────────────
-2.80–3.30s
-Quét tốc độ cao.
-Các vệt glitch chéo.
-Tách màu sắc (chromatic split).
-Tia lửa hạt.
-
-"TONIGHT"
-────────────────
-3.30–3.85s
-Các ký tự nổ tung.
-Lực hút từ tính.
-Tiếp đất mạnh mẽ.
-Sóng xung kích lan tỏa.
-
-"EVERYTHING YOU LOVE"
-────────────────
-3.85–4.45s
-Zoom tác động.
-Viền neon.
-Nhịp nền đập theo nhạc.
-Camera quỹ đạo siêu nhỏ.
-
-"LET'S DO IT ALL."
-────────────────
-4.45–5.10s
-Nhấp nháy RGB nhanh.
-Zoom vào/ra liên tục.
-Biến dạng kỹ thuật số.
-Rung lắc mạnh.
-
-"NO LIMIT"
-────────────────
-5.10–6.00s
-Phóng đại tối đa.
-Nhiễu mờ dần.
-Khóa màu Trắng + Đỏ.
-Rung nhẹ.
-Tia lửa cuối cùng.
-Mờ dần về đen.
-
-"HAPPY FRIDAY!!"
-────────────────
-THẺ PHONG CÁCH:
-typography mạnh mẽ,
-typography siêu động,
-đồ họa chuyển động truyền hình,
-cắt cảnh nhanh,
-glitch rgb,
-zoom tác động,
-xoay nhanh,
-mặt nạ vuông,
-phá hủy kỹ thuật số,
-lắp ghép từ tính,
-đường quét,
-sai sắc (chromatic aberration),
-camera rung lắc,
-đường tốc độ,
-hào hứng ngày thứ Sáu,
-MV văn bản,
-năng lượng cao,
-cyberpunk,
-biên tập anime hiện đại
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Đồ họa chuyển động Kinetic Typography">
-
-**[🎬 Xem video →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
-
-**Tác giả:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Nguồn:** [Link](https://x.com/YaReYaRu30Life/status/2067814602612830374) | **Đã xuất bản:** Jun 19, 2026
-
----
-### Sự biến hình của Lord Krishna từ quả cầu bí ẩn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh mang tính tâm linh dành cho Gemini Omni, mô tả một quả cầu kim loại huyền bí bên bờ sông Hằng đang biến hình thành Lord Krishna trong bộ giáp tương lai vào lúc bình minh.
-
-#### 📝 Prompt
-
-```
-Video điện ảnh siêu thực lấy bối cảnh trên những bờ đá của dòng sông Hằng linh thiêng vào lúc bình minh. Ánh nắng vàng buổi sáng phản chiếu trên mặt nước đang chảy. Tiếng chuông đền thờ vang vọng nhẹ nhàng từ xa. Khói hương lan tỏa trong không khí. Các bậc thềm (ghat), những ngôi đền nhỏ và các tín đồ có thể được nhìn thấy thấp thoáng ở phía xa dọc theo bờ sông. Bầu không khí mang cảm giác cổ kính, tâm linh và yên bình. Sông Hằng được tôn kính là dòng sông linh thiêng nhất của Ấn Độ giáo và có các bậc thềm cùng đền thờ nổi tiếng dọc khắp miền bắc Ấn Độ.
-
-Bàn tay của một người xuất hiện trong khung hình, cầm một quả cầu kim loại bí ẩn đặt trên một tảng đá lớn bên bờ sông. Quả cầu trông giống như một thánh vật cổ đại kết hợp với công nghệ tương lai: kim loại tối màu được đánh bóng, các đường năng lượng màu xanh lam và vàng rực rỡ, những nét chạm khắc tiếng Phạn tinh xảo, các họa tiết hình học thiêng liêng, các chi tiết lấy cảm hứng từ lông công, các biểu tượng hình sáo và những chi tiết thiên thể trang trí công phu.
-
-Quả cầu được đặt nhẹ nhàng lên tảng đá bên cạnh dòng sông đang chảy.
-
-Trong một khoảnh khắc, không có gì xảy ra.
-
-Sau đó, các nét chạm khắc bắt đầu phát sáng. Năng lượng vàng-xanh rung động bên dưới bề mặt kim loại. Một tiếng ầm trầm đục của máy móc vang lên. Các tấm kim loại mở ra với độ chính xác như robot biến hình. Hàng trăm phân đoạn kim loại xoay, tách rời và lắp ráp lại. Các dòng năng lượng chảy qua các bộ phận đang chuyển động.
-
-Quả cầu dần dần biến đổi thành một Lord Krishna bằng kim loại mang phong cách tương lai đầy uy nghiêm. Bộ giáp thiêng liêng hình thành xung quanh ngài. Một cây sáo kim loại được chế tác tinh xảo hiện ra từ các bộ phận đang dịch chuyển. Năng lượng thần thánh màu xanh-vàng tỏa ra qua các họa tiết chạm khắc trên khắp cơ thể ngài.
-
-Lord Krishna từ từ nâng cây sáo lên và nhìn về phía chân trời. Mặt trời mọc chiếu sáng dòng sông phía sau ngài. Tiếng chuông đền thờ lớn dần khi quá trình biến hình hoàn tất. Biến hình cơ khí siêu thực, thẩm mỹ khoa học viễn tưởng thiêng liêng, hiệu ứng hình ảnh cao cấp, màn xuất hiện thần thánh đầy cảm hứng, không sử dụng phong cách hoạt hình.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="Sự biến hình của Lord Krishna từ quả cầu bí ẩn">
-
-**[🎬 Xem video →](https://x.com/rahulnanda86/status/2067640397183230410)**
-
-**Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **Đã xuất bản:** Jun 18, 2026
-
----
-### Biến hình Gada của Thần Hanuman
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh dành cho Gemini Omni để tạo video siêu thực về chiếc gada kim loại tương lai biến hình thành nhân vật Thần Hanuman uy nghiêm trong một phòng khách hiện đại tại Ấn Độ.
-
-#### 📝 Prompt
-
-```
-Video gia đình mang tính điện ảnh, siêu thực, được quay bằng điện thoại thông minh trong một phòng khách hiện đại tại Ấn Độ vào ban ngày. Ánh sáng tự nhiên từ cửa sổ, không gian phòng chân thực, chuyển động cầm tay nhẹ nhàng, chất lượng camera điện thoại di động nguyên bản. Không nhìn thấy khuôn mặt ở bất kỳ thời điểm nào.
-
-Bàn tay của một người xuất hiện trong khung hình, cầm theo chiếc gada kim loại tương lai lấy cảm hứng từ chùy của Thần Hanuman. Chiếc gada trông giống như một cổ vật được tái hiện với công nghệ tiên tiến: kim loại màu xám súng (gunmetal) được đánh bóng, các đường năng lượng màu nghệ tây rực rỡ, các biểu tượng Hindu tinh xảo, các bản khắc tiếng Phạn, các họa tiết hình học thiêng liêng, những điểm nhấn vàng tinh tế và các chi tiết cơ khí.
-
-Bàn tay nhẹ nhàng đặt chiếc gada thẳng đứng trên một chiếc bàn gỗ.
-
-Trong một khoảnh khắc, không có gì xảy ra.
-
-Chiếc gada tự cân bằng hoàn hảo mà không cần điểm tựa.
-
-Một tiếng vo ve kim loại khẽ vang lên. Các biểu tượng năng lượng giống như tiếng Phạn cổ bắt đầu phát sáng trên bề mặt. Các phân đoạn cơ khí bắt đầu dịch chuyển. Các tấm kim loại xoay, mở ra và trượt tách rời nhau với âm thanh biến hình chân thực. Năng lượng vàng bên trong bắt đầu tỏa sáng.
-
-Camera từ từ tiến lại gần.
-
-Quá trình biến hình tăng tốc. Phần cán tách ra thành các chi tiết giống như tay chân. Phần đầu chùy mở ra thành các tấm giáp. Hàng trăm thành phần kim loại tự sắp xếp lại với độ chính xác cao.
-
-Chỉ trong vài giây, chiếc gada đã hoàn toàn biến hình thành một Thần Hanuman kim loại oai vệ đang đứng trên bàn. Bộ giáp thiêng liêng tương lai, đôi mắt rực sáng, thiết kế cơ khí lấy cảm hứng từ Hindu tinh xảo, năng lượng vàng thần thánh chảy qua các biểu tượng được khắc.
-
-Thần Hanuman từ từ mở mắt và nhìn về phía camera. Căn phòng tràn ngập ánh sáng vàng ấm áp trong giây lát. Vật lý biến hình chân thực, hiệu ứng hình ảnh (VFX) cao cấp, chuyển động cơ khí kiểu transformer, thẩm mỹ khoa học viễn tưởng thần thoại, màn xuất hiện đầy kinh ngạc, không có vẻ hoạt hình.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="Biến hình Gada của Thần Hanuman">
-
-**[🎬 Xem video →](https://x.com/rahulnanda86/status/2067639367225737714)**
-
-**Tác giả:** [Rahul Nanda](https://x.com/rahulnanda86) | **Nguồn:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Đã xuất bản:** Jun 18, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 68 prompt khác không hiển thị ở đây
+### 🎯 73 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3018,6 +2850,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-17T08:40:48.319Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-17T12:39:57.526Z</sub>
 
 </div>

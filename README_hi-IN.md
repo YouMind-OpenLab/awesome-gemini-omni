@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **168** |
+| 📝 कुल प्रॉम्पट्स | **173** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-08-17** |
 
@@ -56,6 +56,101 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Bolivian Salt Flats Mirror Sunrise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+
+#### 📝 प्रॉम्पट
+
+```
+Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+
+**[🎬 वीडियो देखें →](https://x.com/genevieve__h/status/2089068330225221876)**
+
+**लेखक:** [genevieveh@](https://x.com/genevieve__h) | **स्रोत:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **प्रकाशित:** Aug 16, 2026
+
+---
+### Ghibli Style Koi Pond Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+
+#### 📝 प्रॉम्पट
+
+```
+Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+
+**[🎬 वीडियो देखें →](https://x.com/genevieve__h/status/2089068327691862357)**
+
+**लेखक:** [genevieveh@](https://x.com/genevieve__h) | **स्रोत:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **प्रकाशित:** Aug 16, 2026
+
+---
+### Zero Gravity Glass Ribbon Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+
+#### 📝 प्रॉम्पट
+
+```
+Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+
+**[🎬 वीडियो देखें →](https://x.com/genevieve__h/status/2089068325493944435)**
+
+**लेखक:** [genevieveh@](https://x.com/genevieve__h) | **स्रोत:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **प्रकाशित:** Aug 16, 2026
+
+---
+### Double-Exposure Silhouette Forest Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+
+#### 📝 प्रॉम्पट
+
+```
+Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+
+**[🎬 वीडियो देखें →](https://x.com/genevieve__h/status/2089068323132649758)**
+
+**लेखक:** [genevieveh@](https://x.com/genevieve__h) | **स्रोत:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **प्रकाशित:** Aug 16, 2026
+
+---
+### Underwater Kelp Forest Video Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+
+#### 📝 प्रॉम्पट
+
+```
+Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+
+**[🎬 वीडियो देखें →](https://x.com/genevieve__h/status/2089068314764997056)**
+
+**लेखक:** [genevieveh@](https://x.com/genevieve__h) | **स्रोत:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **प्रकाशित:** Aug 16, 2026
+
+---
 ### Cinematic Miniature Disaster Scene VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2756,276 +2851,13 @@ FPV ड्रोन चेज़ पहले से गति में → स
 **लेखक:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **स्रोत:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **प्रकाशित:** Jun 24, 2026
 
 ---
-### ड्रोन डिलीवरी रॉबरी चेज़
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni के लिए एक हाई-एक्शन सिनेमैटिक वीडियो प्रॉम्प्ट, जिसमें एक घने शहर के बीच हवा में डकैती और ड्रोन्स के बीच हाई-स्पीड पीछा दिखाया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-पैकेज ले जा रहा डिलीवरी ड्रोन, चोर ड्रोन द्वारा हवा में डकैती का प्रयास, घने शहर के बीच हाई-स्पीड पीछा, टक्कर के करीब की स्थिति, तीखे मोड़, सफल डिलीवरी।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="ड्रोन डिलीवरी रॉबरी चेज़">
-
-**[🎬 वीडियो देखें →](https://x.com/vireonixx/status/2069696802794954891)**
-
-**लेखक:** [Virena](https://x.com/vireonixx) | **स्रोत:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **प्रकाशित:** Jun 24, 2026
-
----
-### वाइल्डलाइफ डॉक्यूमेंट्री: नन्हे हाथी ने लिखा 'हेलो'
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> एक यथार्थवादी नेचर डॉक्यूमेंट्री दृश्य के लिए सिनेमैटिक वीडियो जनरेशन प्रॉम्प्ट, जिसमें एक नन्हा हाथी कैमरा देखता है और कीचड़ में एक संदेश लिखता है।
-
-#### 📝 प्रॉम्पट
-
-```
-अल्ट्रा-रियलिस्टिक वाइल्डलाइफ डॉक्यूमेंट्री फुटेज। एक नेचर फोटोग्राफर हाथियों के एक झुंड को नदी पार करते हुए फिल्मा रहा है। सब कुछ बिल्कुल सामान्य लग रहा है। अचानक एक नन्हे हाथी की नज़र कैमरे पर पड़ती है। वह एक लकड़ी उठाता है। नदी के किनारे कीचड़ में वह लिखता है: HELLO।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="वाइल्डलाइफ डॉक्यूमेंट्री: नन्हे हाथी ने लिखा 'हेलो'">
-
-**[🎬 वीडियो देखें →](https://x.com/vireonixx/status/2069347975986311341)**
-
-**लेखक:** [Virena](https://x.com/vireonixx) | **स्रोत:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **प्रकाशित:** Jun 23, 2026
-
----
-### काइनेटिक टाइपोग्राफी मोशन ग्राफिक्स
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> सटीक टाइमिंग और ग्लिच इफेक्ट्स के साथ हाई-एनर्जी काइनेटिक टाइपोग्राफी जेनरेट करने के लिए एक प्रोफेशनल-ग्रेड स्ट्रक्चरल प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-केवल टाइपोग्राफी वाला मोशन वीडियो।
-कोई इमेज नहीं। केवल टेक्स्ट।
-
-स्टाइल:
-ब्लैक बैकग्राउंड
-अल्ट्रा बोल्ड गोथिक + स्क्वायर टेक्नो फॉन्ट
-हार्ड एग्रेसिव मोशन
-मॉडर्न ब्रॉडकास्ट मोशन ग्राफिक्स
-हाइपर काइनेटिक टाइपोग्राफी
-फास्ट-पेस्ड एडिटिंग
-
-रंग:
-बेस = सफेद
-एक्सेंट = विविड रेड
-RGB स्प्लिट = सियान + मैजेंटा
-बीच-बीच में पीली फ्लैश
-
-कुल लंबाई: 6 सेकंड
-────────────────
-0.0–0.35s
-हिंसक RGB ग्लिच विस्फोट।
-भारी डिजिटल टियरिंग।
-कैमरा रश।
-माइक्रो स्पिन।
-फ्रैगमेंट तुरंत फिर से जुड़ते हैं।
-
-"FRIDAY"
-────────────────
-0.35–0.70s
-स्क्वायर मास्क प्रभाव के साथ खुलता है।
-ज़ूम पंच।
-अक्षर अपनी जगह बदलते हैं।
-लाल पल्स फ्लैश।
-
-"ON"
-────────────────
-0.70–1.05s
-फुल-स्क्रीन डिजिटल नॉइज़।
-स्कैनलाइन वाइप।
-पिक्सेल डिस्ट्रक्शन।
-सफेद फ्लैश।
-
-"WEEKEND"
-────────────────
-1.05–1.45s
-चार-तरफा स्प्लिट।
-वर्टिकल इनवर्जन।
-इलास्टिक स्नैप बैक।
-कैमरा शेक।
-
-"START"
-────────────────
-1.45–1.90s
-एक्सट्रीम स्क्वैश और स्ट्रेच।
-RGB घोस्ट ट्रेल्स।
-हॉरिजॉन्टल व्हिप।
-इम्पैक्ट स्टॉप।
-
-"WORK END"
-────────────────
-1.90–2.25s
-इंस्टेंट ब्लैकआउट।
-लाल स्कैन लाइन्स।
-बास हिट।
-नॉइज़ बर्स्ट।
-
-"LIBERATED."
-────────────────
-2.25–2.80s
-90° रोटेशन।
-स्क्वायर फ्रेम लॉक।
-फ्रेम टूटता है।
-अक्षर बाहर की ओर फटते हैं और फिर चुंबकीय रूप से फिर से जुड़ जाते हैं।
-
-"LET'S GO!!"
-
-────────────────
-2.80–3.30s
-हाई-स्पीड स्कैन वाइप।
-डायगोनल ग्लिच स्ट्रीक्स।
-क्रोमैटिक स्प्लिट।
-पार्टिकल स्पार्क्स।
-
-"TONIGHT"
-────────────────
-3.30–3.85s
-अक्षर अलग होकर फटते हैं।
-चुंबकीय आकर्षण।
-भारी इम्पैक्ट लैंडिंग।
-शॉकवेव रिपल।
-
-"EVERYTHING YOU LOVE"
-────────────────
-3.85–4.45s
-इम्पैक्ट ज़ूम।
-नियॉन आउटलाइन।
-बैकग्राउंड बीट पल्स।
-माइक्रो ऑर्बिट कैमरा।
-
-"LET'S DO IT ALL."
-────────────────
-4.45–5.10s
-तेज़ RGB फ्लिकर।
-फास्ट ज़ूम इन/आउट।
-डिजिटल डिस्टॉर्शन।
-एग्रेसिव शेक।
-
-"NO LIMIT"
-────────────────
-5.10–6.00s
-अधिकतम स्केल।
-नॉइज़ धीरे-धीरे कम होती है।
-सफेद + लाल लॉक।
-हल्का कंपन।
-अंतिम चिंगारी।
-ब्लैक में फेड।
-
-"HAPPY FRIDAY!!"
-────────────────
-स्टाइल टैग्स:
-एग्रेसिव टाइपोग्राफी,
-हाइपर काइनेटिक टाइपोग्राफी,
-ब्रॉडकास्ट मोशन ग्राफिक्स,
-रैपिड कट,
-RGB ग्लिच,
-इम्पैक्ट ज़ूम,
-स्पिन स्नैप,
-स्क्वायर मास्क,
-डिजिटल डिस्ट्रक्शन,
-मैग्नेटिक असेंबली,
-स्कैनलाइन,
-क्रोमैटिक एबरेशन,
-कैमरा शेक,
-स्पीड लाइन्स,
-Friday हाइप,
-टेक्स्ट MV,
-हाई एनर्जी,
-साइबरपंक,
-मॉडर्न एनीमे एडिटिंग
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="काइनेटिक टाइपोग्राफी मोशन ग्राफिक्स">
-
-**[🎬 वीडियो देखें →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
-
-**लेखक:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **स्रोत:** [Link](https://x.com/YaReYaRu30Life/status/2067814602612830374) | **प्रकाशित:** Jun 19, 2026
-
----
-### भगवान कृष्ण स्फीयर ट्रांसफॉर्मेशन
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni के लिए एक आध्यात्मिक सिनेमैटिक प्रॉम्प्ट, जिसमें सूर्योदय के समय गंगा नदी के तट पर एक रहस्यमय धात्विक गोले को भविष्यवादी कवचधारी भगवान कृष्ण में बदलते हुए दिखाया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-सूर्योदय के समय पवित्र गंगा नदी के पथरीले तट पर सेट किया गया एक अल्ट्रा-रियलिस्टिक सिनेमैटिक वीडियो। सुनहरी सुबह की रोशनी बहते पानी पर प्रतिबिंबित हो रही है। दूर कहीं मंदिर की घंटियों की धीमी आवाज सुनाई दे रही है। हवा में अगरबत्ती का धुआं तैर रहा है। नदी के किनारे पृष्ठभूमि में घाट, छोटे मंदिर और श्रद्धालु दिखाई दे रहे हैं। वातावरण प्राचीन, आध्यात्मिक और शांतिपूर्ण है। गंगा को हिंदू धर्म की सबसे पवित्र नदी माना जाता है और यह पूरे उत्तर भारत में प्रसिद्ध घाटों और मंदिरों से घिरी हुई है।
-
-एक व्यक्ति का हाथ फ्रेम में आता है, जो नदी के किनारे एक बड़े पत्थर पर रखे एक रहस्यमय धात्विक गोले को पकड़े हुए है। यह गोला भविष्य की तकनीक के साथ जुड़े एक प्राचीन दिव्य अवशेष जैसा दिखता है: पॉलिश की हुई काली धातु, चमकती नीली और सुनहरी ऊर्जा की नसें, जटिल संस्कृत नक्काशी, पवित्र ज्यामितीय पैटर्न, मोर पंख से प्रेरित रूपांकन, बांसुरी के आकार के प्रतीक और अलंकृत आकाशीय विवरण।
-
-गोले को धीरे से बहती नदी के किनारे पत्थर पर रखा जाता है।
-
-एक पल के लिए, कुछ नहीं होता।
-
-फिर नक्काशी चमकने लगती है। धात्विक सतह के नीचे सुनहरी-नीली ऊर्जा स्पंदित होती है। एक गहरी यांत्रिक गूंज सुनाई देती है। पैनल ट्रांसफॉर्मर जैसी सटीकता के साथ खुलते हैं। सैकड़ों धात्विक खंड घूमते हैं, अलग होते हैं और फिर से जुड़ जाते हैं। ऊर्जा की धाराएं गतिशील घटकों के माध्यम से प्रवाहित होती हैं।
-
-गोला धीरे-धीरे एक भव्य भविष्यवादी धात्विक भगवान कृष्ण में बदल जाता है। उनके चारों ओर पवित्र कवच बनता है। बदलते घटकों से एक खूबसूरती से तैयार की गई धात्विक बांसुरी बनती है। नीली-सुनहरी दिव्य ऊर्जा उनके शरीर पर उकेरे गए पैटर्न के माध्यम से निकलती है।
-
-भगवान कृष्ण धीरे से बांसुरी उठाते हैं और क्षितिज की ओर देखते हैं। उगता हुआ सूरज उनके पीछे नदी को रोशन करता है। रूपांतरण पूरा होते ही मंदिर की घंटियां तेज हो जाती हैं। अल्ट्रा-रियलिस्टिक मैकेनिकल ट्रांसफॉर्मेशन, पवित्र साइंस-फिक्शन सौंदर्य, प्रीमियम विजुअल इफेक्ट्स, विस्मयकारी दिव्य अनावरण, कोई कार्टून शैली नहीं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="भगवान कृष्ण स्फीयर ट्रांसफॉर्मेशन">
-
-**[🎬 वीडियो देखें →](https://x.com/rahulnanda86/status/2067640397183230410)**
-
-**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **प्रकाशित:** Jun 18, 2026
-
----
-### भगवान हनुमान गदा रूपांतरण
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni के लिए एक सिनेमैटिक प्रॉम्प्ट, जो एक आधुनिक भारतीय लिविंग रूम में भविष्यवादी धात्विक गदा को दिव्य भगवान हनुमान के रूप में बदलते हुए एक अल्ट्रा-रियलिस्टिक वीडियो बनाने के लिए है।
-
-#### 📝 प्रॉम्पट
-
-```
-दिन के समय एक आधुनिक भारतीय लिविंग रूम में स्मार्टफोन से फिल्माया गया अल्ट्रा-रियलिस्टिक सिनेमैटिक घरेलू वीडियो। प्राकृतिक खिड़की की रोशनी, यथार्थवादी कमरे का माहौल, हल्की हैंडहेल्ड मूवमेंट, प्रामाणिक मोबाइल-फोन कैमरा क्वालिटी। किसी भी बिंदु पर चेहरा दिखाई नहीं दे रहा है।
-
-एक व्यक्ति का हाथ फ्रेम में प्रवेश करता है, जिसमें भगवान हनुमान की गदा से प्रेरित एक भविष्यवादी धात्विक गदा है। गदा एक प्राचीन अवशेष जैसी दिखती है जिसे उन्नत तकनीक के साथ फिर से तैयार किया गया है: ब्रश किया हुआ गनमेटल, चमकती हुई केसरिया ऊर्जा रेखाएं, जटिल हिंदू प्रतीक, संस्कृत नक्काशी, पवित्र ज्यामितीय पैटर्न, सूक्ष्म सुनहरे हाइलाइट्स और यांत्रिक विवरण।
-
-हाथ धीरे से गदा को एक लकड़ी की मेज पर सीधा रखता है।
-
-एक पल के लिए कुछ नहीं होता है।
-
-गदा बिना किसी सहारे के पूरी तरह से संतुलित हो जाती है।
-
-एक हल्की धात्विक गूंज शुरू होती है। प्राचीन संस्कृत जैसे ऊर्जा प्रतीक इसकी सतह पर चमकते हैं। यांत्रिक खंड शिफ्ट होने लगते हैं। पैनल घूमते हैं, खुलते हैं और यथार्थवादी ट्रांसफॉर्मर-शैली की आवाजों के साथ अलग हो जाते हैं। आंतरिक सुनहरी ऊर्जा की धड़कनें दिखाई देने लगती हैं।
-
-कैमरा धीरे-धीरे करीब आता है।
-
-रूपांतरण तेज हो जाता है। शाफ्ट स्पष्ट अंगों में अलग हो जाता है। गदा का सिर कवच प्लेटों में खुल जाता है। सैकड़ों धात्विक घटक सटीकता के साथ खुद को पुनर्व्यवस्थित करते हैं।
-
-कुछ ही सेकंड में, गदा पूरी तरह से मेज पर खड़े एक राजसी धात्विक भगवान हनुमान में बदल जाती है। भविष्यवादी पवित्र कवच, चमकती आंखें, जटिल हिंदू-प्रेरित यांत्रिक डिजाइन, नक्काशीदार प्रतीकों के माध्यम से बहती दिव्य सुनहरी ऊर्जा।
-
-भगवान हनुमान धीरे से अपनी आंखें खोलते हैं और कैमरे की ओर देखते हैं। कमरा संक्षेप में एक गर्म सुनहरी चमक से भर जाता है। प्रामाणिक रूपांतरण भौतिकी, प्रीमियम VFX यथार्थवाद, ट्रांसफॉर्मर-शैली की यांत्रिक गति, पौराणिक विज्ञान-फाई सौंदर्य, विस्मयकारी खुलासा, कोई कार्टून उपस्थिति नहीं।
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="भगवान हनुमान गदा रूपांतरण">
-
-**[🎬 वीडियो देखें →](https://x.com/rahulnanda86/status/2067639367225737714)**
-
-**लेखक:** [Rahul Nanda](https://x.com/rahulnanda86) | **स्रोत:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **प्रकाशित:** Jun 18, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 68 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 73 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3071,6 +2903,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-17T08:40:49.549Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-17T12:39:58.585Z</sub>
 
 </div>

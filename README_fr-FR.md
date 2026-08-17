@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **168** |
+| 📝 Total des prompts | **173** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-08-17** |
 
@@ -56,6 +56,101 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Bolivian Salt Flats Mirror Sunrise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+
+#### 📝 Prompt
+
+```
+Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+
+**[🎬 Voir la vidéo →](https://x.com/genevieve__h/status/2089068330225221876)**
+
+**Auteur:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Publié:** Aug 16, 2026
+
+---
+### Ghibli Style Koi Pond Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+
+#### 📝 Prompt
+
+```
+Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+
+**[🎬 Voir la vidéo →](https://x.com/genevieve__h/status/2089068327691862357)**
+
+**Auteur:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Publié:** Aug 16, 2026
+
+---
+### Zero Gravity Glass Ribbon Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+
+#### 📝 Prompt
+
+```
+Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+
+**[🎬 Voir la vidéo →](https://x.com/genevieve__h/status/2089068325493944435)**
+
+**Auteur:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Publié:** Aug 16, 2026
+
+---
+### Double-Exposure Silhouette Forest Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+
+#### 📝 Prompt
+
+```
+Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+
+**[🎬 Voir la vidéo →](https://x.com/genevieve__h/status/2089068323132649758)**
+
+**Auteur:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Publié:** Aug 16, 2026
+
+---
+### Underwater Kelp Forest Video Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+
+#### 📝 Prompt
+
+```
+Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+
+**[🎬 Voir la vidéo →](https://x.com/genevieve__h/status/2089068314764997056)**
+
+**Auteur:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Publié:** Aug 16, 2026
+
+---
 ### Cinematic Miniature Disaster Scene VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2753,276 +2848,13 @@ Une animation de texte dynamique où les caractères dispersés « G », « e »
 **Auteur:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **Source:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **Publié:** Jun 24, 2026
 
 ---
-### Course-poursuite et vol de drone de livraison
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique riche en action pour Gemini Omni, illustrant un vol en plein vol et une course-poursuite à grande vitesse entre des drones dans une ville dense.
-
-#### 📝 Prompt
-
-```
-drone de livraison transportant un colis, drone voleur tentant un braquage en plein vol, course-poursuite à grande vitesse à travers une ville dense, quasi-collisions, virages serrés, livraison réussie.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="Course-poursuite et vol de drone de livraison">
-
-**[🎬 Voir la vidéo →](https://x.com/vireonixx/status/2069696802794954891)**
-
-**Auteur:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **Publié:** Jun 24, 2026
-
----
-### Documentaire animalier : un éléphanteau écrit « Bonjour »
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo cinématographique pour une scène de documentaire animalier réaliste mettant en scène un éléphanteau qui découvre une caméra et écrit un message dans la boue.
-
-#### 📝 Prompt
-
-```
-Images de documentaire animalier ultra-réalistes. Un photographe animalier filme une famille d'éléphants traversant une rivière. Tout semble tout à fait normal. Soudain, un éléphanteau remarque la caméra. Il ramasse un bâton. Dans la boue au bord de la rivière, il écrit : HELLO.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="Documentaire animalier : un éléphanteau écrit « Bonjour »">
-
-**[🎬 Voir la vidéo →](https://x.com/vireonixx/status/2069347975986311341)**
-
-**Auteur:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **Publié:** Jun 23, 2026
-
----
-### Motion Graphics de typographie cinétique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt structurel de qualité professionnelle pour générer une typographie cinétique à haute énergie avec un timing précis et des effets de glitch.
-
-#### 📝 Prompt
-
-```
-Vidéo animée basée uniquement sur la typographie.
-Pas d'images. Texte uniquement.
-
-STYLE :
-Fond noir
-Police gothique ultra grasse + techno carrée
-Mouvement agressif et percutant
-Motion design broadcast moderne
-Typographie hyper cinétique
-Montage au rythme effréné
-
-COULEUR :
-Base = Blanc
-Accent = Rouge vif
-Split RVB = Cyan + Magenta
-Flash jaune occasionnel
-
-DURÉE TOTALE : 6 secondes
-────────────────
-0,0–0,35s
-Explosion de glitch RVB violente.
-Fort déchirement numérique.
-Accélération de caméra.
-Micro-rotation.
-Les fragments se reconstruisent instantanément.
-
-"FRIDAY"
-────────────────
-0,35–0,70s
-Masque carré s'ouvrant avec impact.
-Zoom percutant.
-Les tranches de lettres échangent leurs positions.
-Flashs d'impulsion rouge.
-
-"ON"
-────────────────
-0,70–1,05s
-Bruit numérique plein écran.
-Balayage de lignes de balayage.
-Destruction de pixels.
-Flash blanc.
-
-"WEEKEND"
-────────────────
-1,05–1,45s
-Division en quatre.
-Inversion verticale.
-Retour élastique.
-Secousse de caméra.
-
-"START"
-────────────────
-1,45–1,90s
-Squash & stretch extrême.
-Traînées fantômes RVB.
-Coup de fouet horizontal.
-Arrêt sur impact.
-
-"WORK END"
-────────────────
-1,90–2,25s
-Black-out instantané.
-Lignes de balayage rouges.
-Impact de basse.
-Rafale de bruit.
-
-"LIBERATED."
-────────────────
-2,25–2,80s
-Rotation à 90°.
-Verrouillage du cadre carré.
-Le cadre vole en éclats.
-Les lettres explosent vers l'extérieur puis se réassemblent magnétiquement.
-
-"LET'S GO!!"
-
-────────────────
-2,80–3,30s
-Balayage haute vitesse.
-Traînées de glitch diagonales.
-Split chromatique.
-Étincelles de particules.
-
-"TONIGHT"
-────────────────
-3,30–3,85s
-Les caractères explosent.
-Attraction magnétique.
-Atterrissage à fort impact.
-Onde de choc.
-
-"EVERYTHING YOU LOVE"
-────────────────
-3,85–4,45s
-Zoom d'impact.
-Contour néon.
-Battement de fond pulsé.
-Micro-orbite de caméra.
-
-"LET'S DO IT ALL."
-────────────────
-4,45–5,10s
-Flicker RVB rapide.
-Zoom avant/arrière rapide.
-Distorsion numérique.
-Secousse agressive.
-
-"NO LIMIT"
-────────────────
-5,10–6,00s
-Échelle maximale.
-Le bruit s'estompe progressivement.
-Verrouillage Blanc + Rouge.
-Vibration subtile.
-Étincelle finale.
-Fondu au noir.
-
-"HAPPY FRIDAY!!"
-────────────────
-TAGS DE STYLE :
-typographie agressive,
-typographie hyper cinétique,
-motion design broadcast,
-coupe rapide,
-glitch rvb,
-zoom d'impact,
-rotation snap,
-masque carré,
-destruction numérique,
-assemblage magnétique,
-ligne de balayage,
-aberration chromatique,
-secousse de caméra,
-lignes de vitesse,
-Friday hype,
-clip texte,
-haute énergie,
-cyberpunk,
-montage anime moderne
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Motion Graphics de typographie cinétique">
-
-**[🎬 Voir la vidéo →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
-
-**Auteur:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Source:** [Link](https://x.com/YaReYaRu30Life/status/2067814602612830374) | **Publié:** Jun 19, 2026
-
----
-### Transformation de la sphère du Seigneur Krishna
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique spirituel pour Gemini Omni représentant une sphère métallique mystique sur les rives du Gange se transformant en un Seigneur Krishna futuriste en armure au lever du soleil.
-
-#### 📝 Prompt
-
-```
-Vidéo cinématographique ultra-réaliste située sur les rives rocheuses du fleuve sacré du Gange au lever du soleil. La lumière dorée du matin se reflète sur l'eau qui coule. Les cloches des temples résonnent faiblement au loin. La fumée d'encens flotte dans l'air. Des ghats, de petits temples et des fidèles sont visibles au loin sur la rive. L'atmosphère est ancienne, spirituelle et paisible. Le Gange est vénéré comme le fleuve le plus sacré de l'hindouisme et est bordé de célèbres ghats et temples à travers le nord de l'Inde.
-
-La main d'une personne entre dans le cadre, tenant une mystérieuse sphère métallique posée sur un gros rocher au bord de la rivière. La sphère ressemble à une ancienne relique divine fusionnée avec une technologie futuriste : métal sombre poli, veines d'énergie bleu et or, gravures sanskrites complexes, motifs géométriques sacrés, motifs inspirés des plumes de paon, symboles en forme de flûte et détails célestes ornés.
-
-La sphère est délicatement posée sur le rocher à côté de la rivière.
-
-Pendant un instant, rien ne se passe.
-
-Puis, les gravures commencent à briller. Une énergie bleu doré pulse sous la surface métallique. Un bourdonnement mécanique profond émerge. Des panneaux se déploient avec une précision digne d'un transformer. Des centaines de segments métalliques tournent, se séparent et se réassemblent. Des flux d'énergie circulent à travers les composants en mouvement.
-
-La sphère se transforme progressivement en un majestueux Seigneur Krishna métallique futuriste. Une armure sacrée se forme autour de lui. Une flûte métallique magnifiquement conçue se matérialise à partir des composants en mouvement. Une énergie divine bleu-or rayonne à travers les motifs gravés sur tout son corps.
-
-Le Seigneur Krishna lève lentement la flûte et regarde vers l'horizon. Le soleil levant illumine la rivière derrière lui. Les cloches des temples deviennent plus fortes à mesure que la transformation s'achève. Transformation mécanique ultra-réaliste, esthétique sacrée de science-fiction, effets visuels haut de gamme, révélation divine impressionnante, pas de style dessin animé.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="Transformation de la sphère du Seigneur Krishna">
-
-**[🎬 Voir la vidéo →](https://x.com/rahulnanda86/status/2067640397183230410)**
-
-**Auteur:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **Publié:** Jun 18, 2026
-
----
-### Transformation de la Gada du Seigneur Hanuman
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique pour Gemini Omni afin de générer une vidéo ultra-réaliste d'une gada métallique futuriste se transformant en un Seigneur Hanuman divin dans un salon indien moderne.
-
-#### 📝 Prompt
-
-```
-Vidéo domestique cinématographique ultra-réaliste filmée sur smartphone dans un salon indien moderne en plein jour. Lumière naturelle provenant d'une fenêtre, ambiance réaliste, léger mouvement de caméra à l'épaule, qualité authentique de caméra de téléphone portable. Aucun visage n'est visible à aucun moment.
-
-La main d'une personne entre dans le champ, tenant une gada métallique futuriste inspirée de la masse du Seigneur Hanuman. La gada ressemble à une relique ancienne réimaginée avec une technologie avancée : métal gris acier brossé, lignes d'énergie safran lumineuses, symboles hindous complexes, gravures en sanskrit, motifs géométriques sacrés, reflets dorés subtils et détails mécaniques.
-
-La main pose délicatement la gada à la verticale sur une table en bois.
-
-Pendant un instant, il ne se passe rien.
-
-La gada s'équilibre parfaitement sans aucun support.
-
-Un léger bourdonnement métallique commence. Des symboles d'énergie anciens ressemblant à du sanskrit brillent à sa surface. Des segments mécaniques commencent à bouger. Des panneaux pivotent, se déploient et coulissent avec des sons réalistes de type « transformer ». Des pulsations d'énergie dorée interne deviennent visibles.
-
-La caméra se rapproche lentement.
-
-La transformation s'accélère. Le manche se sépare en membres articulés. La tête de la masse se déploie en plaques d'armure. Des centaines de composants métalliques se réorganisent avec précision.
-
-En quelques secondes, la gada s'est complètement transformée en un majestueux Seigneur Hanuman métallique debout sur la table. Armure sacrée futuriste, yeux brillants, design mécanique complexe d'inspiration hindoue, énergie dorée divine circulant à travers les symboles gravés.
-
-Le Seigneur Hanuman ouvre lentement les yeux et regarde vers la caméra. La pièce s'emplit brièvement d'une chaude lueur dorée. Physique de transformation authentique, réalisme VFX premium, mouvement mécanique de type « transformer », esthétique de science-fiction mythologique, révélation impressionnante, aucun aspect cartoon.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="Transformation de la Gada du Seigneur Hanuman">
-
-**[🎬 Voir la vidéo →](https://x.com/rahulnanda86/status/2067639367225737714)**
-
-**Auteur:** [Rahul Nanda](https://x.com/rahulnanda86) | **Source:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Publié:** Jun 18, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 68 prompts supplémentaires non affichés ici
+### 🎯 73 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3068,6 +2900,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-17T08:40:52.631Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-17T12:40:02.969Z</sub>
 
 </div>

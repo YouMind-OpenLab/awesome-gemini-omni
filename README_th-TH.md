@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **168** |
+| 📝 พรอมต์ทั้งหมด | **173** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-08-17** |
 
@@ -56,6 +56,101 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### Bolivian Salt Flats Mirror Sunrise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+
+#### 📝 พรอมต์
+
+```
+Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+
+**[🎬 ดูวิดีโอ →](https://x.com/genevieve__h/status/2089068330225221876)**
+
+**ผู้เขียน:** [genevieveh@](https://x.com/genevieve__h) | **แหล่งที่มา:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **เผยแพร่เมื่อ:** Aug 16, 2026
+
+---
+### Ghibli Style Koi Pond Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+
+#### 📝 พรอมต์
+
+```
+Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+
+**[🎬 ดูวิดีโอ →](https://x.com/genevieve__h/status/2089068327691862357)**
+
+**ผู้เขียน:** [genevieveh@](https://x.com/genevieve__h) | **แหล่งที่มา:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **เผยแพร่เมื่อ:** Aug 16, 2026
+
+---
+### Zero Gravity Glass Ribbon Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+
+#### 📝 พรอมต์
+
+```
+Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+
+**[🎬 ดูวิดีโอ →](https://x.com/genevieve__h/status/2089068325493944435)**
+
+**ผู้เขียน:** [genevieveh@](https://x.com/genevieve__h) | **แหล่งที่มา:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **เผยแพร่เมื่อ:** Aug 16, 2026
+
+---
+### Double-Exposure Silhouette Forest Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+
+#### 📝 พรอมต์
+
+```
+Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+
+**[🎬 ดูวิดีโอ →](https://x.com/genevieve__h/status/2089068323132649758)**
+
+**ผู้เขียน:** [genevieveh@](https://x.com/genevieve__h) | **แหล่งที่มา:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **เผยแพร่เมื่อ:** Aug 16, 2026
+
+---
+### Underwater Kelp Forest Video Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+
+#### 📝 พรอมต์
+
+```
+Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+
+**[🎬 ดูวิดีโอ →](https://x.com/genevieve__h/status/2089068314764997056)**
+
+**ผู้เขียน:** [genevieveh@](https://x.com/genevieve__h) | **แหล่งที่มา:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **เผยแพร่เมื่อ:** Aug 16, 2026
+
+---
 ### Cinematic Miniature Disaster Scene VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2727,258 +2822,13 @@ ARRI ALEXA 65
 **ผู้เขียน:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **แหล่งที่มา:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **เผยแพร่เมื่อ:** Jun 24, 2026
 
 ---
-### การไล่ล่าปล้นโดรนส่งของ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอแนวภาพยนตร์สุดระทึกสำหรับ Gemini Omni ที่แสดงเหตุการณ์การปล้นกลางอากาศและการไล่ล่าด้วยความเร็วสูงระหว่างโดรนในเมืองที่มีตึกหนาแน่น
-
-#### 📝 พรอมต์
-
-```
-โดรนส่งของกำลังขนส่งพัสดุ, โดรนโจรพยายามปล้นกลางอากาศ, การไล่ล่าด้วยความเร็วสูงผ่านเมืองที่มีตึกหนาแน่น, เกือบชนกัน, การเลี้ยวหักศอก, การส่งของสำเร็จ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="การไล่ล่าปล้นโดรนส่งของ">
-
-**[🎬 ดูวิดีโอ →](https://x.com/vireonixx/status/2069696802794954891)**
-
-**ผู้เขียน:** [Virena](https://x.com/vireonixx) | **แหล่งที่มา:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **เผยแพร่เมื่อ:** Jun 24, 2026
-
----
-### สารคดีสัตว์ป่า ลูกช้างเขียนคำทักทาย
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์สำหรับสร้างวิดีโอแนวภาพยนตร์ในรูปแบบสารคดีธรรมชาติที่สมจริง โดยมีลูกช้างตัวหนึ่งพบกล้องและเขียนข้อความลงบนพื้นโคลน
-
-#### 📝 พรอมต์
-
-```
-ฟุตเทจสารคดีสัตว์ป่าที่สมจริงเป็นพิเศษ ช่างภาพธรรมชาติกำลังถ่ายทำครอบครัวช้างที่กำลังข้ามแม่น้ำ ทุกอย่างดูเป็นปกติจนกระทั่งลูกช้างตัวหนึ่งสังเกตเห็นกล้อง มันจึงหยิบกิ่งไม้ขึ้นมาแล้วเขียนคำว่า HELLO ลงบนพื้นโคลนข้างแม่น้ำ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="สารคดีสัตว์ป่า ลูกช้างเขียนคำทักทาย">
-
-**[🎬 ดูวิดีโอ →](https://x.com/vireonixx/status/2069347975986311341)**
-
-**ผู้เขียน:** [Virena](https://x.com/vireonixx) | **แหล่งที่มา:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **เผยแพร่เมื่อ:** Jun 23, 2026
-
----
-### โมชันกราฟิกแบบ Kinetic Typography
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> โครงสร้าง Prompt ระดับมืออาชีพสำหรับการสร้างสรรค์ Kinetic Typography ที่เปี่ยมไปด้วยพลัง พร้อมการกำหนดจังหวะที่แม่นยำและเอฟเฟกต์ Glitch
-
-#### 📝 พรอมต์
-
-```
-วิดีโอโมชันกราฟิกแบบเน้นตัวอักษรเท่านั้น
-ไม่มีรูปภาพ ใช้เฉพาะข้อความ
-
-สไตล์:
-พื้นหลังสีดำ
-ฟอนต์ Gothic หนาพิเศษ + ฟอนต์ Techno ทรงเหลี่ยม
-การเคลื่อนไหวที่ดุดันและรุนแรง
-โมชันกราฟิกสไตล์รายการโทรทัศน์สมัยใหม่
-Kinetic Typography ที่มีความเคลื่อนไหวสูง
-การตัดต่อที่รวดเร็วฉับไว
-
-สี:
-สีหลัก = สีขาว
-สีเน้น = สีแดงสด
-RGB Split = สีฟ้า Cyan + สีม่วง Magenta
-มีสีเหลืองกะพริบเป็นระยะ
-
-ความยาวรวม: 6 วินาที
-────────────────
-0.0–0.35 วินาที
-ระเบิดเอฟเฟกต์ RGB Glitch อย่างรุนแรง
-ภาพดิจิทัลแตกกระจาย
-กล้องพุ่งเข้าหาวัตถุ
-หมุนแบบรวดเร็ว (Micro spin)
-ชิ้นส่วนตัวอักษรประกอบร่างกลับมาทันที
-
-"FRIDAY"
-────────────────
-0.35–0.70 วินาที
-มาสก์ทรงสี่เหลี่ยมเปิดออกพร้อมแรงกระแทก
-ซูมแบบกระชาก
-ตัวอักษรสลับตำแหน่งกัน
-ไฟสีแดงกะพริบเป็นจังหวะ
-
-"ON"
-────────────────
-0.70–1.05 วินาที
-สัญญาณรบกวนดิจิทัลเต็มหน้าจอ
-กวาดภาพด้วยเส้น Scanline
-พิกเซลแตกกระจาย
-แสงสีขาววาบ
-
-"WEEKEND"
-────────────────
-1.05–1.45 วินาที
-แยกหน้าจอ 4 ส่วน
-พลิกแนวตั้ง
-เด้งกลับแบบยืดหยุ่น
-กล้องสั่นไหว
-
-"START"
-────────────────
-1.45–1.90 วินาที
-ยืดและหดตัวแบบสุดขีด
-มีเงา RGB ตามหลัง
-สะบัดแนวนอน
-หยุดกะทันหันเมื่อเกิดแรงกระแทก
-
-"WORK END"
-────────────────
-1.90–2.25 วินาที
-ตัดภาพมืดทันที
-เส้น Scanline สีแดง
-เสียงเบสหนักๆ
-เสียงรบกวนระเบิดออกมา
-
-"LIBERATED."
-────────────────
-2.25–2.80 วินาที
-หมุน 90 องศา
-ล็อกกรอบสี่เหลี่ยม
-กรอบแตกกระจาย
-ตัวอักษรระเบิดออกแล้วประกอบกลับเข้าที่ด้วยแรงดึงดูดแม่เหล็ก
-
-"LET'S GO!!"
-
-────────────────
-2.80–3.30 วินาที
-กวาดภาพด้วยความเร็วสูง
-เส้น Glitch แนวทแยง
-แยกสี Chromatic
-ประกายอนุภาค
-
-"TONIGHT"
-────────────────
-3.30–3.85 วินาที
-ตัวอักษรระเบิดแยกออกจากกัน
-แรงดึงดูดแม่เหล็ก
-ลงจอดด้วยแรงกระแทกหนักๆ
-คลื่นกระแทกกระจายตัว
-
-"EVERYTHING YOU LOVE"
-────────────────
-3.85–4.45 วินาที
-ซูมเข้าตามแรงกระแทก
-ขอบนีออน
-พื้นหลังเต้นตามจังหวะ
-กล้องหมุนรอบวัตถุในระยะใกล้
-
-"LET'S DO IT ALL."
-────────────────
-4.45–5.10 วินาที
-RGB กะพริบถี่ๆ
-ซูมเข้า/ออกอย่างรวดเร็ว
-ภาพบิดเบี้ยวดิจิทัล
-สั่นไหวอย่างรุนแรง
-
-"NO LIMIT"
-────────────────
-5.10–6.00 วินาที
-ขยายขนาดสูงสุด
-สัญญาณรบกวนค่อยๆ จางหาย
-ล็อกสีขาว + แดง
-สั่นไหวเล็กน้อย
-ประกายไฟสุดท้าย
-เฟดเข้าสู่ความมืด
-
-"HAPPY FRIDAY!!"
-────────────────
-แท็กสไตล์:
-aggressive typography, hyper kinetic typography, broadcast motion graphics, rapid cut, rgb glitch, impact zoom, spin snap, square mask, digital destruction, magnetic assembly, scanline, chromatic aberration, camera shake, speed lines, Friday hype, text MV, high energy, cyberpunk, modern anime editing
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="โมชันกราฟิกแบบ Kinetic Typography">
-
-**[🎬 ดูวิดีโอ →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
-
-**ผู้เขียน:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **แหล่งที่มา:** [Link](https://x.com/YaReYaRu30Life/status/2067814602612830374) | **เผยแพร่เมื่อ:** Jun 19, 2026
-
----
-### การเปลี่ยนร่างของพระกฤษณะในรูปแบบทรงกลม
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์วิดีโอเชิงจิตวิญญาณสำหรับ Gemini Omni ที่ถ่ายทอดภาพทรงกลมโลหะลึกลับริมฝั่งแม่น้ำคงคาที่กำลังเปลี่ยนร่างเป็นพระกฤษณะในชุดเกราะแห่งอนาคตท่ามกลางแสงอาทิตย์ยามเช้า
-
-#### 📝 พรอมต์
-
-```
-วิดีโอภาพยนตร์สมจริงพิเศษ (Ultra-realistic) บนโขดหินริมฝั่งแม่น้ำคงคาอันศักดิ์สิทธิ์ในช่วงพระอาทิตย์ขึ้น แสงสีทองยามเช้าสะท้อนบนผิวน้ำที่ไหลเอื่อย เสียงระฆังวัดดังแว่วมาแต่ไกล ควันธูปลอยละล่องในอากาศ เห็นท่าน้ำ (Ghats) วัดขนาดเล็ก และผู้ศรัทธาอยู่ไกลๆ บริเวณริมฝั่งแม่น้ำ บรรยากาศให้ความรู้สึกเก่าแก่ มีจิตวิญญาณ และสงบสุข แม่น้ำคงคาได้รับการยกย่องว่าเป็นแม่น้ำที่ศักดิ์สิทธิ์ที่สุดของศาสนาฮินดู และเต็มไปด้วยท่าน้ำและวัดที่มีชื่อเสียงตลอดแนวทางตอนเหนือของอินเดีย
-
-มือของคนคนหนึ่งยื่นเข้ามาในเฟรม ถือทรงกลมโลหะลึกลับวางลงบนโขดหินขนาดใหญ่ริมแม่น้ำ ทรงกลมนี้ดูคล้ายวัตถุโบราณศักดิ์สิทธิ์ที่ผสมผสานกับเทคโนโลยีแห่งอนาคต: โลหะสีเข้มขัดเงา มีเส้นพลังงานสีฟ้าและสีทองเรืองรอง มีการสลักอักษรสันสกฤตที่ซับซ้อน ลวดลายเรขาคณิตศักดิ์สิทธิ์ ลวดลายที่ได้รับแรงบันดาลใจจากขนนกยูง สัญลักษณ์รูปขลุ่ย และรายละเอียดอันวิจิตรบรรจงแบบสวรรค์
-
-ทรงกลมถูกวางลงบนโขดหินข้างแม่น้ำที่ไหลผ่านอย่างแผ่วเบา
-
-ชั่วขณะหนึ่งไม่มีอะไรเกิดขึ้น
-
-จากนั้นรอยสลักเริ่มเรืองแสง พลังงานสีทองอมฟ้าเต้นตุบๆ อยู่ใต้พื้นผิวโลหะ เสียงฮัมเชิงกลดังขึ้น แผงต่างๆ คลี่ออกด้วยความแม่นยำราวกับหุ่นยนต์ ชิ้นส่วนโลหะนับร้อยหมุน แยกตัว และประกอบร่างใหม่ กระแสพลังงานไหลผ่านส่วนประกอบที่กำลังเคลื่อนไหว
-
-ทรงกลมค่อยๆ เปลี่ยนร่างเป็นพระกฤษณะในชุดเกราะโลหะแห่งอนาคตอันสง่างาม ชุดเกราะศักดิ์สิทธิ์ก่อตัวขึ้นรอบพระองค์ ขลุ่ยโลหะที่สร้างขึ้นอย่างประณีตปรากฏขึ้นจากชิ้นส่วนที่เคลื่อนย้าย พลังงานศักดิ์สิทธิ์สีฟ้าทองแผ่ซ่านผ่านลวดลายที่สลักไว้ทั่วพระวรกาย
-
-พระกฤษณะค่อยๆ ยกขลุ่ยขึ้นและทอดพระเนตรไปยังขอบฟ้า ดวงอาทิตย์ที่กำลังขึ้นส่องสว่างเหนือแม่น้ำเบื้องหลังพระองค์ เสียงระฆังวัดดังขึ้นเมื่อการเปลี่ยนร่างเสร็จสมบูรณ์ การเปลี่ยนร่างเชิงกลที่สมจริงเป็นพิเศษ สุนทรียศาสตร์ไซไฟศักดิ์สิทธิ์ เอฟเฟกต์ภาพระดับพรีเมียม การเปิดเผยรูปลักษณ์อันน่าเกรงขาม ไม่ใช่สไตล์การ์ตูน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนร่างของพระกฤษณะในรูปแบบทรงกลม">
-
-**[🎬 ดูวิดีโอ →](https://x.com/rahulnanda86/status/2067640397183230410)**
-
-**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **เผยแพร่เมื่อ:** Jun 18, 2026
-
----
-### การเปลี่ยนร่างของกระบองหนุมาน
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์ระดับภาพยนตร์สำหรับ Gemini Omni เพื่อสร้างวิดีโอสมจริงขั้นสุดของกระบองโลหะแห่งอนาคตที่เปลี่ยนร่างเป็นองค์หนุมานในห้องนั่งเล่นสไตล์อินเดียสมัยใหม่
-
-#### 📝 พรอมต์
-
-```
-วิดีโอในบ้านระดับภาพยนตร์ที่สมจริงสุดๆ ถ่ายทำด้วยสมาร์ทโฟนในห้องนั่งเล่นสไตล์อินเดียสมัยใหม่ช่วงกลางวัน แสงธรรมชาติจากหน้าต่าง บรรยากาศห้องที่สมจริง มีการสั่นไหวเล็กน้อยแบบถือกล้องด้วยมือ คุณภาพกล้องมือถือที่ดูเป็นธรรมชาติ ไม่เห็นใบหน้าในจุดใดเลย
-
-มือของคนคนหนึ่งยื่นเข้ามาในเฟรมโดยถือกระบองโลหะแห่งอนาคตที่ได้รับแรงบันดาลใจจากกระบองของหนุมาน ตัวกระบองดูเหมือนโบราณวัตถุที่ถูกตีความใหม่ด้วยเทคโนโลยีขั้นสูง: โลหะสีกันเมทัลขัดเงา เส้นพลังงานสีหญ้าฝรั่นที่เปล่งแสง สัญลักษณ์ฮินดูที่ซับซ้อน การสลักอักษรสันสกฤต ลวดลายเรขาคณิตศักดิ์สิทธิ์ ไฮไลท์สีทองที่ละเอียดอ่อน และรายละเอียดทางกลไก
-
-มือค่อยๆ วางกระบองตั้งตรงบนโต๊ะไม้
-
-ช่วงเวลาหนึ่งไม่มีอะไรเกิดขึ้น
-
-กระบองตั้งสมดุลได้เองอย่างสมบูรณ์แบบโดยไม่ต้องมีที่พยุง
-
-เสียงฮัมของโลหะเบาๆ เริ่มดังขึ้น สัญลักษณ์พลังงานคล้ายอักษรสันสกฤตโบราณเปล่งแสงทั่วพื้นผิว ชิ้นส่วนกลไกเริ่มขยับ แผงต่างๆ หมุน คลี่ออก และเลื่อนออกจากกันพร้อมเสียงแบบทรานส์ฟอร์เมอร์ที่สมจริง พลังงานสีทองภายในเริ่มเต้นเป็นจังหวะ
-
-กล้องค่อยๆ เคลื่อนเข้าไปใกล้
-
-การเปลี่ยนร่างเร่งความเร็วขึ้น ด้ามกระบองแยกออกเป็นแขนขาที่ขยับได้ ส่วนหัวของกระบองคลี่ออกเป็นแผ่นเกราะ ชิ้นส่วนโลหะหลายร้อยชิ้นจัดเรียงตัวใหม่ด้วยความแม่นยำ
-
-ภายในเวลาไม่กี่วินาที กระบองได้เปลี่ยนร่างเป็นองค์หนุมานโลหะอันสง่างามที่ยืนอยู่บนโต๊ะอย่างสมบูรณ์ เกราะศักดิ์สิทธิ์แห่งอนาคต ดวงตาที่เปล่งแสง การออกแบบเชิงกลที่ได้รับแรงบันดาลใจจากฮินดูที่ซับซ้อน พลังงานสีทองศักดิ์สิทธิ์ไหลผ่านสัญลักษณ์ที่สลักไว้
-
-องค์หนุมานค่อยๆ ลืมตาและมองมาที่กล้อง ห้องสว่างไสวด้วยแสงสีทองอบอุ่นชั่วขณะ ฟิสิกส์การเปลี่ยนร่างที่สมจริง ความสมจริงของ VFX ระดับพรีเมียม การเคลื่อนไหวเชิงกลแบบทรานส์ฟอร์เมอร์ สุนทรียศาสตร์ไซไฟเชิงตำนาน การเปิดตัวที่น่าเกรงขาม ไม่มีความเป็นภาพการ์ตูน
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="การเปลี่ยนร่างของกระบองหนุมาน">
-
-**[🎬 ดูวิดีโอ →](https://x.com/rahulnanda86/status/2067639367225737714)**
-
-**ผู้เขียน:** [Rahul Nanda](https://x.com/rahulnanda86) | **แหล่งที่มา:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **เผยแพร่เมื่อ:** Jun 18, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 68 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 73 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3024,6 +2874,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-17T08:40:47.606Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-17T12:39:56.602Z</sub>
 
 </div>

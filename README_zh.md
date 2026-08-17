@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **168** |
+| 📝 提示词总数 | **173** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-08-17** |
 
@@ -56,6 +56,101 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Bolivian Salt Flats Mirror Sunrise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+
+#### 📝 提示词
+
+```
+Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+
+**[🎬 观看视频 →](https://x.com/genevieve__h/status/2089068330225221876)**
+
+**作者:** [genevieveh@](https://x.com/genevieve__h) | **来源:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **发布时间:** Aug 16, 2026
+
+---
+### Ghibli Style Koi Pond Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+
+#### 📝 提示词
+
+```
+Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+
+**[🎬 观看视频 →](https://x.com/genevieve__h/status/2089068327691862357)**
+
+**作者:** [genevieveh@](https://x.com/genevieve__h) | **来源:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **发布时间:** Aug 16, 2026
+
+---
+### Zero Gravity Glass Ribbon Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+
+#### 📝 提示词
+
+```
+Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+
+**[🎬 观看视频 →](https://x.com/genevieve__h/status/2089068325493944435)**
+
+**作者:** [genevieveh@](https://x.com/genevieve__h) | **来源:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **发布时间:** Aug 16, 2026
+
+---
+### Double-Exposure Silhouette Forest Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+
+#### 📝 提示词
+
+```
+Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+
+**[🎬 观看视频 →](https://x.com/genevieve__h/status/2089068323132649758)**
+
+**作者:** [genevieveh@](https://x.com/genevieve__h) | **来源:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **发布时间:** Aug 16, 2026
+
+---
+### Underwater Kelp Forest Video Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+
+#### 📝 提示词
+
+```
+Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+
+**[🎬 观看视频 →](https://x.com/genevieve__h/status/2089068314764997056)**
+
+**作者:** [genevieveh@](https://x.com/genevieve__h) | **来源:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **发布时间:** Aug 16, 2026
+
+---
 ### Cinematic Miniature Disaster Scene VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2757,276 +2852,13 @@ FPV 无人机追拍（已在运动中）→ 侧向跟拍 → 车轮安装摄像�
 **作者:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **来源:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **发布时间:** Jun 24, 2026
 
 ---
-### 无人机送货劫案追逐
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Gemini Omni 设计的高动作电影感视频提示词，描绘了在人口稠密的城市中，无人机之间发生的空中劫案及高速追逐场景。
-
-#### 📝 提示词
-
-```
-运送包裹的送货无人机，劫匪无人机试图进行空中抢劫，在人口稠密的城市中展开高速追逐，险些发生碰撞，急转弯，成功送达。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="无人机送货劫案追逐">
-
-**[🎬 观看视频 →](https://x.com/vireonixx/status/2069696802794954891)**
-
-**作者:** [Virena](https://x.com/vireonixx) | **来源:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **发布时间:** Jun 24, 2026
-
----
-### 野生动物纪录片：小象写下“你好”
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个用于生成电影级视频的提示词，描绘了一个逼真的自然纪录片场景：一只小象发现了摄像机，并用泥土写下了一条信息。
-
-#### 📝 提示词
-
-```
-超逼真的野生动物纪录片镜头。一位自然摄影师正在拍摄一群大象过河。一切看起来都非常正常。突然，一只小象注意到了摄像机。它捡起一根树枝，在河边的泥地上写下了：HELLO。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="野生动物纪录片：小象写下“你好”">
-
-**[🎬 观看视频 →](https://x.com/vireonixx/status/2069347975986311341)**
-
-**作者:** [Virena](https://x.com/vireonixx) | **来源:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **发布时间:** Jun 23, 2026
-
----
-### 动态排版动态图形
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个专业级的结构化提示词，用于生成具有精确时序和故障效果的高能动态排版。
-
-#### 📝 提示词
-
-```
-纯排版动态视频。
-无图像。仅文本。
-
-风格：
-黑色背景
-超粗哥特体 + 方形科技字体
-强烈的激进运动感
-现代广播级动态图形
-超动态排版
-快节奏剪辑
-
-色彩：
-基色 = 白色
-强调色 = 鲜红色
-RGB 分离 = 青色 + 洋红色
-偶尔出现的黄色闪光
-
-总时长：6 秒
-────────────────
-0.0–0.35 秒
-剧烈的 RGB 故障爆炸。
-沉重的数字撕裂感。
-镜头快速推进。
-微旋转。
-碎片瞬间重组。
-
-“FRIDAY”
-────────────────
-0.35–0.70 秒
-方形遮罩伴随冲击打开。
-缩放冲击。
-字母切片交换位置。
-红色脉冲闪烁。
-
-“ON”
-────────────────
-0.70–1.05 秒
-全屏数字噪点。
-扫描线擦除。
-像素破坏。
-白色闪光。
-
-“WEEKEND”
-────────────────
-1.05–1.45 秒
-四向分割。
-垂直翻转。
-弹性回弹。
-镜头抖动。
-
-“START”
-────────────────
-1.45–1.90 秒
-极端的挤压与拉伸。
-RGB 鬼影拖尾。
-水平挥动。
-冲击停顿。
-
-“WORK END”
-────────────────
-1.90–2.25 秒
-瞬间黑屏。
-红色扫描线。
-低音重击。
-噪点爆发。
-
-“LIBERATED.”
-────────────────
-2.25–2.80 秒
-90° 旋转。
-方形边框锁定。
-边框破碎。
-字母向外爆发后磁性重组。
-
-“LET'S GO!!”
-
-────────────────
-2.80–3.30 秒
-高速扫描擦除。
-对角线故障条纹。
-色差分离。
-粒子火花。
-
-“TONIGHT”
-────────────────
-3.30–3.85 秒
-字符炸裂散开。
-磁性吸引。
-重击着陆。
-冲击波涟漪。
-
-“EVERYTHING YOU LOVE”
-────────────────
-3.85–4.45 秒
-冲击缩放。
-霓虹轮廓。
-背景节拍脉冲。
-微轨道摄像机。
-
-“LET'S DO IT ALL.”
-────────────────
-4.45–5.10 秒
-快速 RGB 闪烁。
-快速缩放进/出。
-数字失真。
-激进抖动。
-
-“NO LIMIT”
-────────────────
-5.10–6.00 秒
-最大缩放。
-噪点逐渐淡出。
-白色 + 红色锁定。
-细微震动。
-最终火花。
-淡出至黑色。
-
-“HAPPY FRIDAY!!”
-────────────────
-风格标签：
-激进排版，
-超动态排版，
-广播级动态图形，
-快速剪辑，
-RGB 故障，
-冲击缩放，
-旋转快照，
-方形遮罩，
-数字破坏，
-磁性重组，
-扫描线，
-色差，
-镜头抖动，
-速度线，
-周五狂欢，
-文字 MV，
-高能量，
-赛博朋克，
-现代动漫剪辑
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="动态排版动态图形">
-
-**[🎬 观看视频 →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
-
-**作者:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **来源:** [Link](https://x.com/YaReYaRu30Life/status/2067814602612830374) | **发布时间:** Jun 19, 2026
-
----
-### 克里希纳神球体变形
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Gemini Omni 设计的灵性电影感提示词，描绘了一个神秘的金属球体在恒河岸边日出时分，变身为未来感十足的装甲克里希纳神的场景。
-
-#### 📝 提示词
-
-```
-超写实电影感视频，背景设定在日出时分神圣的恒河岩石岸边。金色的晨光映照在流动的河水上。远处隐约传来寺庙的钟声。空气中弥漫着香火烟雾。背景深处可以看到河岸边的河坛、小型寺庙和信徒。氛围古老、灵性且宁静。恒河被尊为印度教最神圣的河流，沿岸遍布印度北部著名的河坛和寺庙。
-
-一只手进入画面，手中拿着一个神秘的金属球体，将其放在河边的一块大岩石上。球体看起来像是一个融合了未来科技的古代神圣遗物：抛光的深色金属、闪烁着蓝金色的能量脉络、复杂的梵文雕刻、神圣的几何图案、孔雀羽毛灵感纹饰、笛子形状的符号以及华丽的天体细节。
-
-球体被轻轻放置在流动的河水旁的岩石上。
-
-片刻间，一切静止。
-
-随后，雕刻开始发光。金属表面下涌动着金蓝色的能量脉冲。发出低沉的机械嗡嗡声。面板以类似变形金刚的精度展开。数百个金属部件旋转、分离并重新组装。能量流穿过移动的组件。
-
-球体逐渐变形为宏伟的未来感金属克里希纳神。神圣的盔甲在他周围形成。一把精美的金属笛子由移动的组件汇聚而成。蓝金色的神圣能量通过他身上雕刻的图案向外辐射。
-
-克里希纳神缓缓举起笛子，望向地平线。初升的太阳照亮了他身后的河流。随着变形完成，寺庙的钟声变得更加响亮。超写实机械变形，神圣科幻美学，顶级视觉特效，令人惊叹的神性展现，非卡通风格。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="克里希纳神球体变形">
-
-**[🎬 观看视频 →](https://x.com/rahulnanda86/status/2067640397183230410)**
-
-**作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **来源:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **发布时间:** Jun 18, 2026
-
----
-### 哈努曼神锤（Gada）变形
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Gemini Omni 准备的电影级提示词，旨在生成一段超写实的视频：一把充满未来感的金属 Gada 在现代印度客厅中变形为神圣的哈努曼神（Lord Hanuman）角色。
-
-#### 📝 提示词
-
-```
-由智能手机在白天拍摄的超写实电影级家庭视频，场景位于现代印度客厅。自然窗光，真实的房间氛围，轻微的手持晃动感，呈现真实的手机拍摄画质。全程不露人脸。
-
-一只手进入画面，手中拿着一把灵感源自哈努曼神（Lord Hanuman）的未来感金属 Gada。这把 Gada 看起来像是一件经过先进技术重构的古代遗物：磨砂枪金属质感，发光的藏红花色能量线，复杂的印度教符号，梵文雕刻，神圣的几何图案，微妙的金色高光以及机械细节。
-
-手轻轻地将 Gada 直立放在木桌上。
-
-片刻后，没有任何动静。
-
-Gada 在没有支撑的情况下完美保持平衡。
-
-一阵微弱的金属嗡嗡声响起。古老的梵文能量符号在其表面闪烁。机械部件开始移动。面板旋转、展开并滑动分离，伴随着逼真的变形金刚式音效。内部的金色能量脉冲清晰可见。
-
-摄像机缓慢靠近。
-
-变形加速。锤柄分离成关节肢体。锤头展开成盔甲板。数百个金属组件精准地重新排列组合。
-
-几秒钟内，Gada 完全变形为站在桌上的威严金属哈努曼神。充满未来感的神圣盔甲，发光的双眼，复杂的印度教风格机械设计，神圣的金色能量在雕刻的符号中流淌。
-
-哈努曼神缓缓睁开双眼，看向镜头。房间瞬间充盈着温暖的金色光芒。真实的变形物理效果，顶级 VFX 写实感，变形金刚式的机械运动，神话科幻美学，令人惊叹的揭示过程，拒绝卡通感。
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="哈努曼神锤（Gada）变形">
-
-**[🎬 观看视频 →](https://x.com/rahulnanda86/status/2067639367225737714)**
-
-**作者:** [Rahul Nanda](https://x.com/rahulnanda86) | **来源:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **发布时间:** Jun 18, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 68 更多提示词未在此显示
+### 🎯 73 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3072,6 +2904,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-17T08:40:44.200Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-17T12:39:52.540Z</sub>
 
 </div>

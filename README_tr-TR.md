@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **168** |
+| 📝 Toplam İstem | **173** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-17** |
 
@@ -56,6 +56,101 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Bolivian Salt Flats Mirror Sunrise
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+
+#### 📝 İstem
+
+```
+Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+
+**[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068330225221876)**
+
+**Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Yayınlandı:** Aug 16, 2026
+
+---
+### Ghibli Style Koi Pond Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+
+#### 📝 İstem
+
+```
+Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+
+**[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068327691862357)**
+
+**Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Yayınlandı:** Aug 16, 2026
+
+---
+### Zero Gravity Glass Ribbon Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+
+#### 📝 İstem
+
+```
+Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+
+**[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068325493944435)**
+
+**Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Yayınlandı:** Aug 16, 2026
+
+---
+### Double-Exposure Silhouette Forest Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+
+#### 📝 İstem
+
+```
+Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+
+**[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068323132649758)**
+
+**Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Yayınlandı:** Aug 16, 2026
+
+---
+### Underwater Kelp Forest Video Loop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+
+#### 📝 İstem
+
+```
+Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+
+**[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068314764997056)**
+
+**Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Yayınlandı:** Aug 16, 2026
+
+---
 ### Cinematic Miniature Disaster Scene VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2727,276 +2822,13 @@ Ekrana rastgele yerleştirilmiş ve süzülen 'G', 'e', 'm', 'i', 'n', 'i', 'O',
 **Yazar:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **Kaynak:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **Yayınlandı:** Jun 24, 2026
 
 ---
-### Drone ile Teslimat Soygunu Takibi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için, yoğun bir şehirde dronlar arasında geçen havada soygunu ve yüksek hızlı takibi konu alan, yüksek aksiyonlu sinematik video istemi.
-
-#### 📝 İstem
-
-```
-paket taşıyan teslimat dronu, hırsız dronun havada soygun girişimi, yoğun bir şehirde yüksek hızlı takip, kıl payı çarpışmalar, keskin dönüşler, başarılı teslimat.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069696735887470592/img/wkZcIrbB44-nKGz0.jpg" width="600" alt="Drone ile Teslimat Soygunu Takibi">
-
-**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2069696802794954891)**
-
-**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2069696802794954891) | **Yayınlandı:** Jun 24, 2026
-
----
-### Vahşi Yaşam Belgeseli: Yavru Fil Merhaba Yazıyor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir yavru filin kamerayı keşfedip çamurun üzerine mesaj yazdığı, gerçekçi bir doğa belgeseli sahnesi için sinematik video oluşturma istemi.
-
-#### 📝 İstem
-
-```
-Ultra gerçekçi vahşi yaşam belgeseli görüntüleri. Bir doğa fotoğrafçısı, nehri geçen bir fil ailesini görüntülüyor. Her şey tamamen normal görünüyor. Bir yavru fil aniden kamerayı fark ediyor. Bir dal parçası alıyor. Nehrin kenarındaki çamurun üzerine şunu yazıyor: MERHABA.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069347503993237505/img/HmiUC-zmIuG_CPke.jpg" width="600" alt="Vahşi Yaşam Belgeseli: Yavru Fil Merhaba Yazıyor">
-
-**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2069347975986311341)**
-
-**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2069347975986311341) | **Yayınlandı:** Jun 23, 2026
-
----
-### Kinetik Tipografi Hareketli Grafikleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hassas zamanlama ve glitch efektleriyle yüksek enerjili kinetik tipografi oluşturmak için profesyonel düzeyde yapısal bir komut.
-
-#### 📝 İstem
-
-```
-Sadece tipografi içeren hareketli video.
-Görsel yok. Sadece metin.
-
-STİL:
-Siyah arka plan
-Ultra kalın gotik + kare tekno yazı tipi
-Sert ve agresif hareket
-Modern yayın hareketli grafikleri
-Hiper kinetik tipografi
-Hızlı kurgu
-
-RENK:
-Taban = Beyaz
-Vurgu = Canlı Kırmızı
-RGB Ayrımı = Camgöbeği + Macenta
-Ara sıra Sarı Flaş
-
-TOPLAM UZUNLUK: 6 saniye
-────────────────
-0.0–0.35sn
-Şiddetli RGB glitch patlaması.
-Ağır dijital bozulma.
-Kamera hücumu.
-Mikro dönüş.
-Parçalar anında yeniden birleşir.
-
-"FRIDAY"
-────────────────
-0.35–0.70sn
-Kare maske darbeyle açılır.
-Zoom vuruşu.
-Harf dilimleri yer değiştirir.
-Kırmızı nabız flaşları.
-
-"ON"
-────────────────
-0.70–1.05sn
-Tam ekran dijital gürültü.
-Tarama çizgisi silinmesi.
-Piksel yıkımı.
-Beyaz flaş.
-
-"WEEKEND"
-────────────────
-1.05–1.45sn
-Dört yönlü bölünme.
-Dikey ters çevirme.
-Elastik geri sıçrama.
-Kamera sarsıntısı.
-
-"START"
-────────────────
-1.45–1.90sn
-Ekstrem ezilme ve esneme.
-RGB hayalet izleri.
-Yatay kırbaç hareketi.
-Darbe duruşu.
-
-"WORK END"
-────────────────
-1.90–2.25sn
-Anlık kararma.
-Kırmızı tarama çizgileri.
-Bas vuruşu.
-Gürültü patlaması.
-
-"LIBERATED."
-────────────────
-2.25–2.80sn
-90° döndürme.
-Kare çerçeve kilidi.
-Çerçeve parçalanır.
-Harfler dışa doğru patlar ve ardından manyetik olarak yeniden birleşir.
-
-"LET'S GO!!"
-
-────────────────
-2.80–3.30sn
-Yüksek hızlı tarama silinmesi.
-Çapraz glitch çizgileri.
-Kromatik ayrım.
-Parçacık kıvılcımları.
-
-"TONIGHT"
-────────────────
-3.30–3.85sn
-Karakterler patlayarak dağılır.
-Manyetik çekim.
-Ağır darbe inişi.
-Şok dalgası dalgalanması.
-
-"EVERYTHING YOU LOVE"
-────────────────
-3.85–4.45sn
-Darbe zoomu.
-Neon ana hat.
-Arka plan ritim nabzı.
-Mikro yörünge kamerası.
-
-"LET'S DO IT ALL."
-────────────────
-4.45–5.10sn
-Hızlı RGB titremesi.
-Hızlı yakınlaştırma/uzaklaştırma.
-Dijital bozulma.
-Agresif sarsıntı.
-
-"NO LIMIT"
-────────────────
-5.10–6.00sn
-Maksimum ölçek.
-Gürültü kademeli olarak azalır.
-Beyaz + Kırmızı kilit.
-Hafif titreşim.
-Son kıvılcım.
-Siyaha kararma.
-
-"HAPPY FRIDAY!!"
-────────────────
-STİL ETİKETLERİ:
-agresif tipografi,
-hiper kinetik tipografi,
-yayın hareketli grafikleri,
-hızlı kesim,
-rgb glitch,
-darbe zoomu,
-dönüş ve sıçrama,
-kare maske,
-dijital yıkım,
-manyetik birleşme,
-tarama çizgisi,
-kromatik sapma,
-kamera sarsıntısı,
-hız çizgileri,
-Cuma heyecanı,
-metin MV,
-yüksek enerji,
-siberpunk,
-modern anime kurgusu
-```
-
-<img src="https://pbs.twimg.com/ext_tw_video_thumb/2067814577656741889/pu/img/yFMSgPqK0gtpwybY.jpg" width="600" alt="Kinetik Tipografi Hareketli Grafikleri">
-
-**[🎬 Videoyu izle →](https://x.com/YaReYaRu30Life/status/2067814602612830374)**
-
-**Yazar:** [ヤレヤル](https://x.com/YaReYaRu30Life) | **Kaynak:** [Link](https://x.com/YaReYaRu30Life/status/2067814602612830374) | **Yayınlandı:** Jun 19, 2026
-
----
-### Lord Krishna Küre Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ganj Nehri kıyısında, gün doğumunda fütüristik ve zırhlı bir Lord Krishna'ya dönüşen mistik metalik bir küreyi betimleyen, Gemini Omni için ruhani sinematik bir komut.
-
-#### 📝 İstem
-
-```
-Ganj Nehri'nin kayalık kıyısında, gün doğumu sırasında geçen ultra gerçekçi sinematik video. Altın rengi sabah ışığı, akan suyun üzerinde yansıyor. Uzaktan hafifçe tapınak çanlarının sesi duyuluyor. Havada tütsü dumanı süzülüyor. Nehir kıyısı boyunca arka planda ghatlar, küçük tapınaklar ve ibadet eden insanlar görülebiliyor. Atmosfer kadim, ruhani ve huzurlu hissettiriyor. Ganj, Hinduizm'in en kutsal nehri olarak kabul edilir ve kuzey Hindistan boyunca ünlü ghatlar ve tapınaklarla çevrilidir.
-
-Bir kişinin eli, nehir kenarındaki büyük bir kayanın üzerinde duran gizemli metalik bir küreyi tutarak kadraja giriyor. Küre, fütüristik teknolojiyle birleşmiş kadim bir ilahi emaneti andırıyor: cilalı koyu metal, parlayan mavi ve altın rengi enerji damarları, karmaşık Sanskritçe oymalar, kutsal geometrik desenler, tavus kuşu tüyünden esinlenilmiş motifler, flüt şeklindeki semboller ve süslü göksel detaylar.
-
-Küre, akan nehrin yanındaki kayanın üzerine nazikçe bırakılıyor.
-
-Bir an için hiçbir şey olmuyor.
-
-Ardından oymalar parlamaya başlıyor. Metalik yüzeyin altında altın-mavi enerji nabız gibi atıyor. Derinden gelen mekanik bir uğultu yükseliyor. Paneller, transformer benzeri bir hassasiyetle açılıyor. Yüzlerce metalik parça dönüyor, ayrılıyor ve yeniden birleşiyor. Hareket eden bileşenlerin arasından enerji akışları geçiyor.
-
-Küre yavaş yavaş görkemli, fütüristik ve metalik bir Lord Krishna'ya dönüşüyor. Kutsal zırh etrafında şekilleniyor. Hareket eden parçalardan ustalıkla işlenmiş metalik bir flüt oluşuyor. Mavi-altın rengi ilahi enerji, vücudundaki oyma desenlerin arasından yayılıyor.
-
-Lord Krishna yavaşça flütü kaldırıyor ve ufka bakıyor. Yükselen güneş, arkasındaki nehri aydınlatıyor. Dönüşüm tamamlandığında tapınak çanlarının sesi yükseliyor. Ultra gerçekçi mekanik dönüşüm, kutsal bilimkurgu estetiği, üst düzey görsel efektler, hayranlık uyandırıcı ilahi açığa çıkış, çizgi film tarzı değil.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/eea23c5ac3a9fcb170a6e8d3f2c4df26/thumbnails/thumbnail.jpg" width="600" alt="Lord Krishna Küre Dönüşümü">
-
-**[🎬 Videoyu izle →](https://x.com/rahulnanda86/status/2067640397183230410)**
-
-**Yazar:** [Rahul Nanda](https://x.com/rahulnanda86) | **Kaynak:** [Link](https://x.com/rahulnanda86/status/2067640397183230410) | **Yayınlandı:** Jun 18, 2026
-
----
-### Lord Hanuman Gada Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni'nin, modern bir Hint oturma odasında fütüristik metalik bir gada'nın ilahi Lord Hanuman karakterine dönüşümünü içeren ultra gerçekçi bir video oluşturması için sinematik bir komut.
-
-#### 📝 İstem
-
-```
-Gündüz vakti modern bir Hint oturma odasında akıllı telefonla çekilmiş ultra gerçekçi sinematik ev videosu. Doğal pencere ışığı, gerçekçi oda ambiyansı, hafif el kamerası hareketi, otantik cep telefonu kamera kalitesi. Hiçbir noktada yüz görünmüyor.
-
-Bir kişinin eli, Lord Hanuman'ın gürzünden esinlenen fütüristik metalik bir gada tutarak kadraja giriyor. Gada, ileri teknolojiyle yeniden tasarlanmış antik bir kalıntı gibi görünüyor: fırçalanmış tunç metali, parlayan safran rengi enerji hatları, karmaşık Hindu sembolleri, Sanskritçe oymalar, kutsal geometrik desenler, ince altın vurgular ve mekanik detaylar.
-
-El, gada'yı nazikçe ahşap bir masanın üzerine dik bir şekilde yerleştiriyor.
-
-Bir anlığına hiçbir şey olmuyor.
-
-Gada, destek almadan mükemmel bir şekilde dengede duruyor.
-
-Hafif bir metalik uğultu başlıyor. Yüzeyinde antik Sanskritçe benzeri enerji sembolleri parlıyor. Mekanik bölümler hareket etmeye başlıyor. Paneller dönüyor, açılıyor ve gerçekçi transformer tarzı seslerle birbirinden ayrılıyor. İç kısımdaki altın enerji darbeleri görünür hale geliyor.
-
-Kamera yavaşça yaklaşıyor.
-
-Dönüşüm hızlanıyor. Gövde, eklemli uzuvlara ayrılıyor. Gürzün baş kısmı zırh plakalarına dönüşüyor. Yüzlerce metalik bileşen hassasiyetle yeniden düzenleniyor.
-
-Saniyeler içinde gada, masanın üzerinde duran görkemli ve metalik bir Lord Hanuman'a tamamen dönüşüyor. Fütüristik kutsal zırh, parlayan gözler, karmaşık Hindu esintili mekanik tasarım, kazınmış sembollerden akan ilahi altın enerji.
-
-Lord Hanuman yavaşça gözlerini açıyor ve kameraya bakıyor. Oda kısa bir süreliğine sıcak bir altın ışıltıyla doluyor. Otantik dönüşüm fiziği, üst düzey VFX gerçekçiliği, transformer tarzı mekanik hareket, mitolojik bilim kurgu estetiği, hayranlık uyandırıcı bir açılış, çizgi film görünümü yok.
-```
-
-<img src="https://customer-qs6wnyfuv0gcybzj.cloudflarestream.com/aa09f0363a367c01cb19223202a9a3cb/thumbnails/thumbnail.jpg" width="600" alt="Lord Hanuman Gada Dönüşümü">
-
-**[🎬 Videoyu izle →](https://x.com/rahulnanda86/status/2067639367225737714)**
-
-**Yazar:** [Rahul Nanda](https://x.com/rahulnanda86) | **Kaynak:** [Link](https://x.com/rahulnanda86/status/2067639367225737714) | **Yayınlandı:** Jun 18, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 68 burada gösterilmeyen daha fazla istem
+### 🎯 73 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3042,6 +2874,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-17T08:40:56.479Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-17T12:40:06.974Z</sub>
 
 </div>
