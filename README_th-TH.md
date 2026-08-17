@@ -48,7 +48,7 @@
 |--------|-------|
 | 📝 พรอมต์ทั้งหมด | **168** |
 | ⭐ พรอมต์แนะนำ | **0** |
-| 🔄 อัปเดตล่าสุด | **2026-08-16** |
+| 🔄 อัปเดตล่าสุด | **2026-08-17** |
 
 ---
 
@@ -3024,6 +3024,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-16T20:19:35.098Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-17T01:09:26.206Z</sub>
 
 </div>
