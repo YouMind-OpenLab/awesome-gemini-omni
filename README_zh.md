@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **173** |
+| 📝 提示词总数 | **174** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-08-18** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### Forbidden City Hall Transformation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+
+#### 📝 提示词
+
+```
+@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+
+**[🎬 观看视频 →](https://x.com/CrazyKaomei/status/2089279848741261762)**
+
+**作者:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **来源:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **发布时间:** Aug 17, 2026
+
+---
 ### Bolivian Salt Flats Mirror Sunrise
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2833,32 +2852,13 @@ FPV 无人机追拍（已在运动中）→ 侧向跟拍 → 车轮安装摄像�
 **作者:** [Pan](https://x.com/sebatheepan) | **来源:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **发布时间:** Jun 25, 2026
 
 ---
-### Gemini Omni 动态文字动画
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 一个用于创建动态文字动画的视频提示词，通过分散的字符汇聚形成带有发光和粒子效果的标题。
-
-#### 📝 提示词
-
-```
-一个动态文字动画，屏幕上随机散布并漂浮着“G”、“e”、“m”、“i”、“n”、“i”、“O”、“m”、“n”、“i”、“T”、“e”、“x”、“t”、“A”、“n”、“i”、“m”、“e”（日语）等字符。它们依次飞向屏幕中心，并排列成一行，最终显示为“Gemini Omni Text Anime”。采用白色粗体无衬线字体，每个字符带有独立的旋转、发光和粒子效果，背景为纯绿色，包含动态模糊，呈现完美的对齐效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Gemini Omni 动态文字动画">
-
-**[🎬 观看视频 →](https://x.com/applete77191758/status/2069735742902022592)**
-
-**作者:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **来源:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **发布时间:** Jun 24, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 73 更多提示词未在此显示
+### 🎯 74 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2904,6 +2904,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-18T04:33:11.760Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-18T08:34:15.374Z</sub>
 
 </div>

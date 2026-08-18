@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **173** |
+| 📝 कुल प्रॉम्पट्स | **174** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-08-18** |
 
@@ -56,6 +56,25 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Forbidden City Hall Transformation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+
+#### 📝 प्रॉम्पट
+
+```
+@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+
+**[🎬 वीडियो देखें →](https://x.com/CrazyKaomei/status/2089279848741261762)**
+
+**लेखक:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **स्रोत:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **प्रकाशित:** Aug 17, 2026
+
+---
 ### Bolivian Salt Flats Mirror Sunrise
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2832,32 +2851,13 @@ FPV ड्रोन चेज़ पहले से गति में → स
 **लेखक:** [Pan](https://x.com/sebatheepan) | **स्रोत:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **प्रकाशित:** Jun 25, 2026
 
 ---
-### Gemini Omni डायनामिक टेक्स्ट एनिमेशन
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> मोशन टेक्स्ट एनिमेशन बनाने के लिए एक डायनामिक वीडियो प्रॉम्प्ट, जहाँ बिखरे हुए अक्षर एक साथ आकर ग्लो और पार्टिकल इफेक्ट्स के साथ एक टाइटल बनाते हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-एक डायनामिक टेक्स्ट एनिमेशन जहाँ बिखरे हुए अक्षर 'G', 'e', 'm', 'i', 'n', 'i', 'O', 'm', 'n', 'i', 'T', 'e', 'x', 't', 'A', 'n', 'i', 'm', 'e' (जापानी में) स्क्रीन पर बेतरतीब ढंग से रखे गए हैं और तैर रहे हैं। वे एक-एक करके केंद्र की ओर उड़ते हैं और 'Gemini Omni Text Anime' के रूप में एक पंक्ति में संरेखित हो जाते हैं। सफेद बोल्ड सन्स-सेरिफ़ फॉन्ट, प्रत्येक अक्षर के लिए व्यक्तिगत रोटेशन, ग्लो और पार्टिकल इफेक्ट्स, सॉलिड ग्रीन बैकग्राउंड, मोशन ब्लर, और सटीक अलाइनमेंट रिवील।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Gemini Omni डायनामिक टेक्स्ट एनिमेशन">
-
-**[🎬 वीडियो देखें →](https://x.com/applete77191758/status/2069735742902022592)**
-
-**लेखक:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **स्रोत:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **प्रकाशित:** Jun 24, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 73 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 74 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2903,6 +2903,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-18T04:33:18.730Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-18T08:34:24.541Z</sub>
 
 </div>

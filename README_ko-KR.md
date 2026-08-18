@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **173** |
+| 📝 총 프롬프트 수 | **174** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-08-18** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Forbidden City Hall Transformation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+
+#### 📝 프롬프트
+
+```
+@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+
+**[🎬 비디오 보기 →](https://x.com/CrazyKaomei/status/2089279848741261762)**
+
+**작성자:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **출처:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **게시일:** Aug 17, 2026
+
+---
 ### Bolivian Salt Flats Mirror Sunrise
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2827,32 +2846,13 @@ FPV 드론 추격(이미 이동 중) → 측면 트래킹 → 휠 장착 카메�
 **작성자:** [Pan](https://x.com/sebatheepan) | **출처:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **게시일:** Jun 25, 2026
 
 ---
-### Gemini Omni 동적 텍스트 애니메이션
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 흩어진 글자들이 모여 빛과 입자 효과가 적용된 제목을 형성하는 모션 텍스트 애니메이션을 위한 동적 비디오 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-'G', 'e', 'm', 'i', 'n', 'i', 'O', 'm', 'n', 'i', 'T', 'e', 'x', 't', 'A', 'n', 'i', 'm', 'e'(일본어) 문자들이 화면에 무작위로 배치되어 떠다니는 동적 텍스트 애니메이션입니다. 각 문자가 차례대로 중앙을 향해 날아가 'Gemini Omni Text Anime'라는 한 줄로 정렬됩니다. 흰색 볼드 산세리프 서체, 각 문자별 개별 회전, 빛 및 입자 효과, 단색 녹색 배경, 모션 블러, 완벽한 정렬로 나타나는 효과를 포함합니다.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Gemini Omni 동적 텍스트 애니메이션">
-
-**[🎬 비디오 보기 →](https://x.com/applete77191758/status/2069735742902022592)**
-
-**작성자:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **출처:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **게시일:** Jun 24, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 73 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 74 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2898,6 +2898,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-18T04:33:15.294Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-18T08:34:20.423Z</sub>
 
 </div>

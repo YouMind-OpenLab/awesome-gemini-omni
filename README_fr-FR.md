@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **173** |
+| 📝 Total des prompts | **174** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-08-18** |
 
@@ -56,6 +56,25 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Forbidden City Hall Transformation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+
+#### 📝 Prompt
+
+```
+@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+
+**[🎬 Voir la vidéo →](https://x.com/CrazyKaomei/status/2089279848741261762)**
+
+**Auteur:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Source:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Publié:** Aug 17, 2026
+
+---
 ### Bolivian Salt Flats Mirror Sunrise
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2829,32 +2848,13 @@ Une piscine cristalline entièrement faite de gelée bleu saphir translucide sur
 **Auteur:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **Publié:** Jun 25, 2026
 
 ---
-### Animation de texte dynamique Gemini Omni
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt vidéo dynamique pour créer des animations de texte en mouvement où des caractères dispersés convergent pour former un titre avec des effets de lueur et de particules.
-
-#### 📝 Prompt
-
-```
-Une animation de texte dynamique où les caractères dispersés « G », « e », « m », « i », « n », « i », « O », « m », « n », « i », « T », « e », « x », « t », « A », « n », « i », « m », « e » (en japonais) sont placés de manière aléatoire sur l'écran et flottent. Ils volent les uns après les autres vers le centre et s'alignent sur une seule ligne pour former « Gemini Omni Text Anime ». Police sans-serif grasse blanche, rotation individuelle, effets de lueur et de particules pour chaque caractère, fond vert uni, flou de mouvement, révélation par alignement parfait.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Animation de texte dynamique Gemini Omni">
-
-**[🎬 Voir la vidéo →](https://x.com/applete77191758/status/2069735742902022592)**
-
-**Auteur:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **Source:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **Publié:** Jun 24, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 73 prompts supplémentaires non affichés ici
+### 🎯 74 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2900,6 +2900,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-18T04:33:24.782Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-18T08:34:30.028Z</sub>
 
 </div>

@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **173** |
+| 📝 พรอมต์ทั้งหมด | **174** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-08-18** |
 
@@ -56,6 +56,25 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### Forbidden City Hall Transformation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+
+#### 📝 พรอมต์
+
+```
+@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+
+**[🎬 ดูวิดีโอ →](https://x.com/CrazyKaomei/status/2089279848741261762)**
+
+**ผู้เขียน:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **แหล่งที่มา:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **เผยแพร่เมื่อ:** Aug 17, 2026
+
+---
 ### Bolivian Salt Flats Mirror Sunrise
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2803,32 +2822,13 @@ ARRI ALEXA 65
 **ผู้เขียน:** [Pan](https://x.com/sebatheepan) | **แหล่งที่มา:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **เผยแพร่เมื่อ:** Jun 25, 2026
 
 ---
-### แอนิเมชันข้อความแบบไดนามิก Gemini Omni
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> พรอมต์วิดีโอแบบไดนามิกสำหรับการสร้างแอนิเมชันข้อความเคลื่อนไหว โดยที่ตัวอักษรที่กระจัดกระจายจะมารวมตัวกันเพื่อสร้างเป็นชื่อเรื่องพร้อมเอฟเฟกต์แสงเรืองรองและอนุภาค
-
-#### 📝 พรอมต์
-
-```
-แอนิเมชันข้อความแบบไดนามิกที่ตัวอักษร 'G', 'e', 'm', 'i', 'n', 'i', 'O', 'm', 'n', 'i', 'T', 'e', 'x', 't', 'A', 'n', 'i', 'm', 'e' (ในภาษาญี่ปุ่น) ถูกวางแบบสุ่มบนหน้าจอและลอยไปมา ตัวอักษรเหล่านี้จะบินตามกันเข้ามาที่จุดกึ่งกลางและเรียงตัวเป็นแถวเดียวว่า 'Gemini Omni Text Anime' ใช้ฟอนต์แบบไม่มีหัว (sans-serif) ตัวหนาสีขาว มีการหมุนของแต่ละตัวอักษร เอฟเฟกต์แสงเรืองรองและอนุภาคสำหรับตัวอักษรแต่ละตัว พื้นหลังสีเขียวทึบ พร้อมเอฟเฟกต์ motion blur และการเผยข้อความที่จัดเรียงอย่างสมบูรณ์แบบ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="แอนิเมชันข้อความแบบไดนามิก Gemini Omni">
-
-**[🎬 ดูวิดีโอ →](https://x.com/applete77191758/status/2069735742902022592)**
-
-**ผู้เขียน:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **แหล่งที่มา:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **เผยแพร่เมื่อ:** Jun 24, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
 
 <div align="center">
 
-### 🎯 73 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 74 พรอมต์เพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2874,6 +2874,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-18T04:33:16.902Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-18T08:34:21.527Z</sub>
 
 </div>

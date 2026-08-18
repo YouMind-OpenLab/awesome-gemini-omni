@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **173** |
+| 📝 Toplam İstem | **174** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-18** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Forbidden City Hall Transformation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+
+#### 📝 İstem
+
+```
+@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+
+**[🎬 Videoyu izle →](https://x.com/CrazyKaomei/status/2089279848741261762)**
+
+**Yazar:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Kaynak:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Yayınlandı:** Aug 17, 2026
+
+---
 ### Bolivian Salt Flats Mirror Sunrise
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2803,32 +2822,13 @@ Temiz beyaz bir gradyan arka plan üzerinde tamamen yarı saydam safir mavisi j�
 **Yazar:** [Pan](https://x.com/sebatheepan) | **Kaynak:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **Yayınlandı:** Jun 25, 2026
 
 ---
-### Gemini Omni Dinamik Metin Animasyonu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Dağınık karakterlerin bir araya gelerek parlama ve parçacık efektleriyle bir başlık oluşturduğu hareketli metin animasyonları oluşturmaya yönelik dinamik bir video istemi.
-
-#### 📝 İstem
-
-```
-Ekrana rastgele yerleştirilmiş ve süzülen 'G', 'e', 'm', 'i', 'n', 'i', 'O', 'm', 'n', 'i', 'T', 'e', 'x', 't', 'A', 'n', 'i', 'm', 'e' (Japonca) karakterlerinin yer aldığı dinamik bir metin animasyonu. Karakterler birbiri ardına merkeze doğru uçar ve 'Gemini Omni Text Anime' şeklinde tek bir satırda hizalanır. Beyaz, kalın, sans-serif yazı tipi; her karakter için ayrı dönüş, parlama ve parçacık efektleri; düz yeşil arka plan, hareket bulanıklığı ve mükemmel hizalama ile ortaya çıkış.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Gemini Omni Dinamik Metin Animasyonu">
-
-**[🎬 Videoyu izle →](https://x.com/applete77191758/status/2069735742902022592)**
-
-**Yazar:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **Kaynak:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **Yayınlandı:** Jun 24, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 73 burada gösterilmeyen daha fazla istem
+### 🎯 74 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2874,6 +2874,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-18T04:33:29.938Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-18T08:34:35.235Z</sub>
 
 </div>

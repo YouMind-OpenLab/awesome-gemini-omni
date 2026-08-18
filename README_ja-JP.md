@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **173** |
+| 📝 プロンプト総数 | **174** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-08-18** |
 
@@ -56,6 +56,25 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### Forbidden City Hall Transformation
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+
+#### 📝 プロンプト
+
+```
+@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+
+**[🎬 動画を見る →](https://x.com/CrazyKaomei/status/2089279848741261762)**
+
+**作者:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **ソース:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **公開日:** Aug 17, 2026
+
+---
 ### Bolivian Salt Flats Mirror Sunrise
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2828,32 +2847,13 @@ FPV ドローンによる追走（開始時点）→ サイドトラッキング
 **作者:** [Pan](https://x.com/sebatheepan) | **ソース:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **公開日:** Jun 25, 2026
 
 ---
-### Gemini Omni ダイナミックテキストアニメーション
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> 散らばった文字が収束してタイトルを形成し、発光やパーティクルエフェクトを伴うモーショングラフィックスを作成するためのダイナミックなビデオプロンプトです。
-
-#### 📝 プロンプト
-
-```
-画面上にランダムに配置され浮遊する「G」「e」「m」「i」「n」「i」「O」「m」「n」「i」「T」「e」「x」「t」「A」「n」「i」「m」「e」の各文字が、次々と中央へ飛来し、「Gemini Omni Text Anime」という1行の文字列に整列するダイナミックなテキストアニメーション。白の太字サンセリフ体を使用し、各文字に個別の回転、発光、パーティクルエフェクトを適用。背景はソリッドグリーン、モーションブラーをかけ、完璧な整列でタイトルを表示する。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2069734811158077440/img/oFg1qE0-SEmUFd68.jpg" width="600" alt="Gemini Omni ダイナミックテキストアニメーション">
-
-**[🎬 動画を見る →](https://x.com/applete77191758/status/2069735742902022592)**
-
-**作者:** [appletea 🍎アップルティ☕丨AI動画制作](https://x.com/applete77191758) | **ソース:** [Link](https://x.com/applete77191758/status/2069735742902022592) | **公開日:** Jun 24, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 73 さらに多くのプロンプトがあります
+### 🎯 74 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2899,6 +2899,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-18T04:33:14.029Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-18T08:34:18.923Z</sub>
 
 </div>
