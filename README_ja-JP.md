@@ -56,330 +56,340 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
-### Forbidden City Hall Transformation
+### 故宮の龍への変身
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+> Gemini Omni Flash 用の多段階変身プロンプトです。参照画像を使用して、太和殿を中国の皇帝龍へと変化させます。
 
 #### 📝 プロンプト
 
 ```
-@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+@Image1 は太和殿のオリジナルの姿です。@Image2 は変身途中の承認済み状態を定義しています。@Image3 は最終形態である中国の皇帝龍（宮殿の守護者）を定義しています。これを作成してください
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="故宮の龍への変身">
 
 **[🎬 動画を見る →](https://x.com/CrazyKaomei/status/2089279848741261762)**
 
 **作者:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **ソース:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **公開日:** Aug 17, 2026
 
 ---
-### Bolivian Salt Flats Mirror Sunrise
+### ボリビアの塩原に映る日の出
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+> 水が張ったボリビアの塩原に映る日の出をテーマにした、余白を活かしたミニマルな動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+シームレスループ、水が張ったボリビアの塩原を捉えた静止画のようなワイドショット。薄く張った静かな水面が、空をゆっくりと流れるパステルピンクとラベンダー色の朝焼けの雲を完璧に映し出す。広大な余白が際立つ、幻想的でミニマルな映像。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="ボリビアの塩原に映る日の出">
 
 **[🎬 動画を見る →](https://x.com/genevieve__h/status/2089068330225221876)**
 
 **作者:** [genevieveh@](https://x.com/genevieve__h) | **ソース:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **公開日:** Aug 16, 2026
 
 ---
-### Ghibli Style Koi Pond Loop
+### ジブリ風の鯉の池ループ動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+> 水彩画のような池で泳ぐ鯉と、木漏れ日が美しい、スタジオジブリに着想を得た動画プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+シームレスループ、スタジオジブリ風の水彩アニメスタイルで描かれた庭の池の俯瞰（ふかん）固定ショット。浮かぶ睡蓮の葉の下を、色鮮やかな鯉がゆっくりと泳いでいる。穏やかな水面の波紋、カエデの葉から差し込む木漏れ日、柔らかなパステルカラー、静かで落ち着いた動き。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="ジブリ風の鯉の池ループ動画">
 
 **[🎬 動画を見る →](https://x.com/genevieve__h/status/2089068327691862357)**
 
 **作者:** [genevieveh@](https://x.com/genevieve__h) | **ソース:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **公開日:** Aug 16, 2026
 
 ---
-### Zero Gravity Glass Ribbon Loop
+### 無重力ガラスリボンのループ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+> 暗い背景の中で無重力状態に浮かぶ、屈折するガラスリボンを描いた抽象的で催眠的なビデオプロンプト。
 
 #### 📝 プロンプト
 
 ```
-Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+シームレスなループ映像。黒曜石のような背景の中、無重力状態でゆっくりと波打つ透明で屈折したガラスリボンを固定カメラで捉えた様子。エッジに繊細な色収差、柔らかなコースティクス（光の屈折）、ゆっくりとした催眠的な動き、UI 配置に適した広いネガティブスペース。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="無重力ガラスリボンのループ">
 
 **[🎬 動画を見る →](https://x.com/genevieve__h/status/2089068325493944435)**
 
 **作者:** [genevieveh@](https://x.com/genevieve__h) | **ソース:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **公開日:** Aug 16, 2026
 
 ---
-### Double-Exposure Silhouette Forest Loop
+### 二重露光シルエット：森のループ動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+> 人物の黒いシルエットの中に霧深い松林が浮かび上がる、シュールな二重露光の動画プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+シームレスなループ動画。柔らかく霧がかったオフホワイトの背景を背にした、人物の横顔のシルエット。二重露光エフェクトにより、黒いシルエットの内側に太平洋岸北西部の鬱蒼とした松林が映し出され、層状になった白い山の霧がゆっくりと漂っています。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="二重露光シルエット：森のループ動画">
 
 **[🎬 動画を見る →](https://x.com/genevieve__h/status/2089068323132649758)**
 
 **作者:** [genevieveh@](https://x.com/genevieve__h) | **ソース:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **公開日:** Aug 16, 2026
 
 ---
-### Underwater Kelp Forest Video Loop
+### 海中ケルプの森のビデオループ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+> ターコイズブルーの海に太陽光が差し込む、海中ケルプの森のシームレスループ動画用プロンプト。
 
 #### 📝 プロンプト
 
 ```
-Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+シームレスループ、温帯のケルプの森を捉えた静止広角の海中映像。背の高い琥珀色のケルプの葉が、ゆっくりと催眠的な海流に揺らぎ、黄金色の太陽光がドラマチックな光の筋となって水面から透明なターコイズブルーの海へと差し込んでいる。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="海中ケルプの森のビデオループ">
 
 **[🎬 動画を見る →](https://x.com/genevieve__h/status/2089068314764997056)**
 
 **作者:** [genevieveh@](https://x.com/genevieve__h) | **ソース:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **公開日:** Aug 16, 2026
 
 ---
-### Cinematic Miniature Disaster Scene VFX
+### 映画のようなミニチュア災害シーンの VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+> VFX スタジオを舞台に、リアルな水の物理演算とプロ仕様のライティングを駆使した、映画のようなミニチュア災害シーンを生成するための詳細なプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+巨大なプロ仕様のハリウッド VFX スタジオ内で、超リアルな映画のようなミニチュア災害シーンを作成してください。
+
+高精細なミニチュアの現代的な沿岸メガシティを描写してください。超高層ビル、道路、橋、ウォーターフロントの建物、車両、ボートを含めます。巨大でリアルな大波が都市に向かって押し寄せ、物理的に説得力のある洪水、泡、飛沫、霧、水面の反射、そして瓦礫を生み出します。
+
+ミニチュアセットの周囲には、プロの VFX クルー、シネマカメラ、照明リグ、スタジオ機材を配置し、本格的な特撮の舞台裏のような雰囲気を演出してください。
+
+フォトリアル、リアルなミニチュアスケール、映画のようなライティング、自然な影、詳細なテクスチャ、リアルな水の物理演算、浅い被写界深度、プロ用シネマカメラ、滑らかなカメラワーク、ドラマチックな雰囲気、ハリウッドの災害映画級の VFX クオリティ、9:16 の縦長フォーマット。
+
+動画全体を通して、建物、環境、スケールの一貫性を維持してください。
+
+避けるべき要素：漫画風、CGI っぽさ、歪んだ人物、余分な手足、歪んだ建物、ちらつき、非現実的な水、ランダムなオブジェクト、テキスト、ロゴ、ウォーターマーク。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="映画のようなミニチュア災害シーンの VFX">
 
 **[🎬 動画を見る →](https://x.com/AiwithBloodline/status/2088473623694921736)**
 
 **作者:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **ソース:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **公開日:** Aug 15, 2026
 
 ---
-### Professional Boxer Daily Routine Sequence
+### プロボクサーの日常ルーティン映像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy cinematic prompt for Gemini Omni that creates a 15-second day-in-the-life sequence of a Japanese boxer.
+> Gemini Omni 向けのハイエナジーなシネマティックプロンプト。日本人プロボクサーの「ある 1 日」を 15 秒の映像で生成します。
 
 #### 📝 プロンプト
 
 ```
-Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a  young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his  hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+参照画像をそのまま使用してください。若き日本人プロボクサーの「ある 1 日」を追う、15 秒間のハイエナジーな映像シーケンスを作成してください。0～3 秒：夜明け前の東京。午前 5 時に起床し、髪を洗い、ボクシングシューズの紐を締め、正確な動作でバンテージを巻く。3～6 秒：静まり返った通りを力強く走り始める。冷たい朝の空気の中で白い息を吐き、決意に満ちた表情を見せる。6～9 秒：無骨なボクシングジムの内部。素早いシャドーボクシングとサンドバッグ打ち。力強いコンビネーション、リアルなフットワーク、ほとばしる汗。9～12 秒：サンドバッグを打つグローブの極端なクローズアップ。飛び散る汗の雫、パンチのたびに自然に収縮する筋肉。12～15 秒：高速の縄跳びで締めくくり、荒い息をつきながら、自信に満ちた表情でカメラを見つめる。肌、汗、髪の動き、衣服の物理演算は超リアルに。本格的なボクシング技術、ダイナミックな手持ちカメラ、素早いトラッキングショット、自然なモーションブラー、ドラマチックなジムの照明、リアルな影、シネマティックな被写界深度、4K 画質。物理的に説得力のある動きで、CGI 感のない仕上がりにしてください。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Professional Boxer Daily Routine Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="プロボクサーの日常ルーティン映像">
 
 **[🎬 動画を見る →](https://x.com/AiwithBloodline/status/2087843492257243460)**
 
 **作者:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **ソース:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **公開日:** Aug 13, 2026
 
 ---
-### Continuous Shot Anime Mask Overlay
+### 連続ショット・アニメマスク・オーバーレイ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic video prompt for Gemini Omni that creates a single continuous shot of a subject using hand gestures to trigger dynamic anime-style facial overlays and masks with synchronized audio descriptions.
+> Gemini Omni 用の複雑なシネマティック動画プロンプト。被写体がハンドジェスチャーを使って、同期された音声解説と共にダイナミックなアニメスタイルの顔用オーバーレイやマスクを呼び出す、単一の連続ショットを作成します。
 
 #### 📝 プロンプト
 
 ```
-Generate a single continuous shot.\n\n{ "setting": "Cozy minimalist indoor studio room with off-white walls and dark wood accents", \n  "lighting": "Soft diffused warm cove lighting with subtle side fill", \n  "weather": "Indoor ambient", \n  "color_grade": "Warm natural tones with high-contrast digital overlay pops" }\n\n[SUBJECT ANCHOR — reiterate character visual descriptors]:\nThe young East Asian man with long straight black hair wearing a dark grey hooded windbreaker jacket with visible drawstrings.\n\n[00:00-00:02]: The young East Asian man in the dark grey hooded jacket holds her hood drawstrings near her chin, then smoothly raises both hands, expanding her fingers to form a crisp rectangular geometric frame in front of her eyes. Inside the hand frame, a dynamic 2D cel-shaded anime eye graphic instantly pops into view overlaying her real eyes.\n[00:02-00:04]: She shifts her hand frame downward across her cheek, changing the framing angle to reveal a sharp, manga-style eye and eyebrow graphic overlay that tracks locked between her fingers.\n[00:04-00:06]: Moving her hands upward in a rhythmic motion, a stylized 2D anime smiling mouth graphic appears inside a new lower-face hand cutout frame, matching her head angle.\n[00:06-00:08]: She restructures her gesture, using index fingers to point diagonally across her eyes and nose region, creating a triangular hand frame that displays a vivid triangular vector anime mask filter over her upper face.\n[00:08-00:10]: She flips the triangular hand frame smoothly to the opposite angle over her lower face, holding a horizontal anime artwork banner overlay between her fingertips as the clip holds.\n\n🎤 VOICE PERFORMANCE:\nNo spoken dialogue in this opening segment. The audio performance is anchored by the rhythmic atmosphere of the musical build-up, synced to snappy, clean UI movement sounds.\n\nAmbient: Quiet residential room acoustics with soft low-end air resonance.\nFoley: Sharp digital swoosh and UI snap effects frame-locked precisely to each hand expansion and overlay state shift at 01s, 03s, 05s, 07s, and 09s.\nMusic: High-energy electro-pop/cyberpunk synth melody building in rhythm and intensity.
+単一の連続ショットを生成してください。\n\n{ "setting": "オフホワイトの壁とダークウッドのアクセントが効いた、居心地の良いミニマリストな室内スタジオ", \n  "lighting": "柔らかく拡散した温かみのあるコーブ照明と、繊細なサイドフィル", \n  "weather": "室内環境", \n  "color_grade": "温かみのあるナチュラルな色調と、コントラストの強いデジタルオーバーレイ" }\n\n[被写体のアンカー — キャラクターの視覚的特徴を再定義]:\nダークグレーのフード付きウィンドブレーカーを着用し、ドローストリングが見える、黒のストレートロングヘアの若い東アジア系の男性。\n\n[00:00-00:02]: ダークグレーのフード付きジャケットを着た若い東アジア系の男性が、あごの近くでフードのドローストリングを持ち、両手をスムーズに上げて指を広げ、目の前に鮮明な長方形の幾何学フレームを作ります。手で作ったフレームの中に、ダイナミックな 2D セルルックのアニメ風の目が瞬時に現れ、本人の目に重なります。\n[00:02-00:04]: 彼は手で作ったフレームを頬に沿って下に動かし、フレームの角度を変えることで、指の間に固定されたシャープなマンガスタイルの目と眉のグラフィックオーバーレイを出現させます。\n[00:04-00:06]: リズミカルな動きで手を上に動かすと、下顔面を囲む新しい手フレームの中に、頭の角度に合わせたスタイリッシュな 2D アニメ風の笑顔のグラフィックが現れます。\n[00:06-00:08]: 彼はジェスチャーを変え、人差し指で目と鼻の領域を斜めに指し示すことで三角形のハンドフレームを作り、顔の上半分に鮮やかな三角形のベクターアニメマスクフィルターを表示させます。\n[00:08-00:10]: 彼は三角形のハンドフレームをスムーズに反対の角度へ反転させ、下顔面に重ねます。クリップの最後では、指先の間で水平なアニメアートワークのバナーオーバーレイを保持します。\n\n🎤 音声パフォーマンス:\nこのオープニングセグメントにセリフはありません。音声パフォーマンスは、リズミカルな音楽の盛り上がりに基づいており、キレのあるクリーンな UI の動作音と同期しています。\n\n環境音: 静かな住宅の部屋の音響と、柔らかい低域の空気感。\nフォーリー: 01秒、03秒、05秒、07秒、09秒の各ハンドジェスチャーの拡大とオーバーレイの状態変化に正確に同期した、鋭いデジタルのスウィッシュ音と UI のスナップ音。\n音楽: リズムと強度が徐々に高まる、ハイエナジーなエレクトロポップ／サイバーパンク調のシンセメロディ。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Continuous Shot Anime Mask Overlay">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="連続ショット・アニメマスク・オーバーレイ">
 
 **[🎬 動画を見る →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
 
 **作者:** [Aryan](https://x.com/Aryan_Ali_Pro) | **ソース:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **公開日:** Aug 12, 2026
 
 ---
-### Garden Squirrel Yard Sale
+### 庭のリスのガレージセール
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A whimsical prompt for Gemini Omni depicting a squirrel hosting a sale in a garden.
+> 庭でセールを開催するリスを描いた、Gemini Omni 用のウィットに富んだプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+お金が足りなくなったリスが庭でセールを開催し、貴重な品々を販売する
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Garden Squirrel Yard Sale">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="庭のリスのガレージセール">
 
 **[🎬 動画を見る →](https://x.com/SilverAIProject/status/2087298245747683578)**
 
 **作者:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **ソース:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **公開日:** Aug 11, 2026
 
 ---
-### Sneaky Cat Food Theft
+### こっそり食べ物を盗む猫
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous narrative prompt for Gemini Omni featuring a cat stealing food and charming its owner.
+> 猫が食べ物を盗み、飼い主を魅了する様子を描いた、Gemini Omni 向けのユーモラスな物語プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+ずる賢い白黒の猫が、飼い主の女性を愛らしい喉鳴らしで誘惑しながら、サビ猫の食べ物をこっそりと盗み出す様子
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Sneaky Cat Food Theft">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="こっそり食べ物を盗む猫">
 
 **[🎬 動画を見る →](https://x.com/SilverAIProject/status/2087295479335751880)**
 
 **作者:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **ソース:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **公開日:** Aug 11, 2026
 
 ---
-### Business Dashboard Review
+### ビジネスダッシュボードのレビュー
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+> Gemini Omni 向けのリアルなオフィスプロンプト。ビジネスオーナーが AI ダッシュボードを確認している様子。
 
 #### 📝 プロンプト
 
 ```
-A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+明るくモダンなオフィスで AI ダッシュボードを確認するビジネスオーナー。ミディアムショット。スローズーム。温かみのある自然光。集中した雰囲気。リアルなスタイル。高品質なビデオ。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="ビジネスダッシュボードのレビュー">
 
 **[🎬 動画を見る →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
 
 **作者:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **ソース:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **公開日:** Aug 11, 2026
 
 ---
-### Crystalline Frozen Water Droplet World
+### 結晶化した凍てつく水滴の世界
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+> Gemini Omni 向けの精緻な動画プロンプト。水滴が複雑な氷の風景へと変化し、結晶の森や氷の崖がスローモーションで描かれる様子を視覚化します。
 
 #### 📝 プロンプト
 
 ```
-A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+純粋な黒の背景がフレームを満たす。透明なひとしずくの水滴がスローモーションで上空から落下し、見えない表面に衝突して、完璧な円形の波紋と結晶のような飛沫となって四方へ広がる。カメラは完全に固定され、流動的なダンスを捉え続ける。次々と水滴が加わるにつれ、広がる水は徐々に形を変え、そびえ立つ氷の崖、流れ落ちる滝、そして霜の結晶でできた森へと姿を変えていく。柔らかなターコイズブルーとシルバーの光が液体を透過し、シーン全体が光り輝く凍てついた滝の王国へと変貌する。最後の 1 秒で完成した結晶の世界が静止し、完璧な静寂に包まれる。スタイル：抽象的な美しさ | 流動的な動き | 結晶への変容 カメラ：静止マクロ → スローな展開 長さ：10 秒 ライティング：クールなリムライト、高精細、幻想的な輝き
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="結晶化した凍てつく水滴の世界">
 
 **[🎬 動画を見る →](https://x.com/MrDasOnX/status/2087219303926124787)**
 
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **公開日:** Aug 11, 2026
 
 ---
-### Hand Plucking Star from Night Sky Prompt
+### 夜空から星を摘み取るプロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
+> 夜空に手を伸ばして輝く星を摘み取る、シュールな一人称視点の画像生成プロンプトです。
 
 #### 📝 プロンプト
 
 ```
-First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
+一人称視点、深い夜空に向かって伸びる人間の手、暗闇から果実を摘み取るように繊細に一つの輝く星を摘み取っている。深い紺色の空、きらめく星々、シュールな強制遠近法のスケール感、
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="夜空から星を摘み取るプロンプト">
 
 **[🎬 動画を見る →](https://x.com/TheChuksAi/status/2087042640453738616)**
 
 **作者:** [ChuksAi](https://x.com/TheChuksAi) | **ソース:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **公開日:** Aug 11, 2026
 
 ---
-### Ember and the Firefly Storyboard Shot 1
+### Ember and the Firefly ストーリーボード ショット 1
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
+> 「Ember and the Firefly」シネマティックデモのオープニングショット。光るホタルを見つけて立ち止まるキャラクターをワイドショットで捉え、ゆっくりとズームインします。
 
 #### 📝 プロンプト
 
 ```
-EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
+EMBER AND THE FIREFLY ストーリーボード — 8 秒間のショットリスト
 
-SHOT 1 | THE SPARK (0:00–1:3s)
-Cam: Static wide, slow push-in.
-Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
-Sound: Forest hush, soft chime on the glow.
+ショット 1 | THE SPARK (0:00–1:3s)
+カメラ：静止ワイド、ゆっくりとしたズームイン
+アクション：Ember が歩行を止め、光るホタルの方へ耳を向ける
+サウンド：森の静寂、光に合わせて柔らかなチャイム音
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
+<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly ストーリーボード ショット 1">
 
 **[🎬 動画を見る →](https://x.com/Gre8tDan/status/2086787909399572802)**
 
 **作者:** [Great Dan 🥥](https://x.com/Gre8tDan) | **ソース:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **公開日:** Aug 10, 2026
 
 ---
-### Bouncing Strawberry Jello Pool
+### 弾むストロベリーゼリーのプール
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
+> 半透明のルビーレッドのストロベリーゼリーのプールで、ゼリーでできたイチゴが弾む様子を描いた、質感と物理演算を強調した高精細なシネマティック動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
+白から淡いピンクへのシームレスなグラデーション背景に浮かぶ、すべて半透明のルビーレッドのストロベリーゼリーでできた豪華なスイミングプール。同じ光沢のあるゼリーで精巧に作られた巨大でリアルなイチゴが、プールの中央からゆっくりと浮かび上がり、跳ねてから再び表面に落ちることで、美しく同心円状のゼリーの波と柔らかな飛沫を作り出します。小さな半透明のゼリーの雫が空中に伸び、スタジオの光を反射します。カメラは光沢のあるゼリーの質感のマクロクローズアップから始まり、イチゴが上昇するにつれてスムーズに引き、着地に合わせて優しく寄っていきます。リアルなゼラチンの変形、揺れ、伸び、柔らかな弾み、液体のような表面の波紋、説得力のある半透明感と表面下散乱。プレミアムなアートディレクションによるフードフォトグラフィー、ミニマルなスタジオ構成、魅惑的な ASMR 的美学、シネマティックで滑らかな動き、ワンカットの連続撮影、正確に 10 秒間、テキストなし、ロゴなし。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="弾むストロベリーゼリーのプール">
 
 **[🎬 動画を見る →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **公開日:** Aug 10, 2026
 
 ---
-### Treehouse Interior Detailing Motion Prompt
+### ツリーハウスのインテリア詳細モーションプロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+> ミニチュアツリーハウス制作のタイムラプスにおける、塗装およびインテリア詳細工程のためのモーションプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+「Motion Prompt 4」で完成したツリーハウスの外観を、そのまま開始フレームとして使用してください。建築構造、屋根、窓、バルコニー、樹木、周囲の環境、およびプロポーションを正確に維持してください。
 
-Create an ultra fast timelapse
+超高速のタイムラプスを作成してください
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="ツリーハウスのインテリア詳細モーションプロンプト">
 
 **[🎬 動画を見る →](https://x.com/Strength04_X/status/2086644591089041676)**
 
@@ -390,14 +400,14 @@ Create an ultra fast timelapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+> Gemini Omni のモーションプロンプトを使用して、高床式ツリーハウスの基礎工事を、視覚的な一貫性を保ちながら超高速タイムラプス効果でアニメーション化します。
 
 #### 📝 プロンプト
 
 ```
-Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+First Frame Image を正確な開始フレームとして使用し、同じ木、枝、環境、ミニチュアスケール、素材、照明、カメラスタイル、およびビジュアルアイデンティティを維持してください。
 
-Create an ultra fast timelapse speed construction
+超高速タイムラプス速度で建設の様子を作成してください。
 ```
 
 <img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
@@ -407,264 +417,264 @@ Create an ultra fast timelapse speed construction
 **作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **公開日:** Aug 10, 2026
 
 ---
-### Anime Style Pandan Flour Pressing
+### アニメ調のパンダン粉押し出し
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+> Gemini Omni 向けの 2D アニメ調プロンプト。パンダン粉の生地を液体窒素の中に押し出し、幻想的な視覚効果を生み出す様子を描写しています。
 
 #### 📝 プロンプト
 
 ```
-A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+日本のアニメ調の 2D アニメーションによるクローズアップ映像。手描きアニメ風の手が、鮮やかな緑色のパンダン米粉生地を伝統的な押し出し器に入れ、液体窒素の入ったボウルへと押し出す。その瞬間、幻想的な冷たい蒸気の雲とキラキラとした霧が立ち上る。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="アニメ調のパンダン粉押し出し">
 
 **[🎬 動画を見る →](https://x.com/playinbey/status/2085826420287418413)**
 
 **作者:** [PLAY!](https://x.com/playinbey) | **ソース:** [Link](https://x.com/playinbey/status/2085826420287418413) | **公開日:** Aug 7, 2026
 
 ---
-### Dread and Foreboding Image-to-Video
+### 恐怖と予感を醸し出す Image-to-Video プロンプト
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+> 静止画を、複数のカメラアングルを用いて恐怖と予感に満ちたダイナミックな動画シーンへと変換するために設計されたプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+この画像を基に、複数のカメラショットとダイナミックなフレーミングを駆使して、恐怖と予感を醸し出す魅力的なシーンを作成してください。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="恐怖と予感を醸し出す Image-to-Video プロンプト">
 
 **[🎬 動画を見る →](https://x.com/pzf_ai/status/2085736211625230529)**
 
 **作者:** [PZF](https://x.com/pzf_ai) | **ソース:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **公開日:** Aug 7, 2026
 
 ---
-### Cherry Blossom Tree Gel Sculpture
+### 桜の木のジェル彫刻
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+> Gemini Omni 向けのシネマティックなマクロ撮影プロンプト。チューブから絞り出された光るジェルが、精巧なミニチュアの桜の木へと変化していく様子を視覚化します。
 
 #### 📝 プロンプト
 
 ```
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
-Style:
-Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+リアルな手が、磨き上げられたノズルを持つ洗練された金属製チューブをゆっくりと絞り出します。中から出てくるのは普通のペーストではなく、透明感のある柔らかな光を放つジェルです。素材が押し出されるにつれ、それは有機的に変化し、美しい「桜の木」のミニチュアへと形を変えていきます。層を重ねるように一連の動作で、繊細な幹が立ち上がり、そこから優雅に枝分かれして、何百もの小さな半透明の桜の花が咲き誇ります。すべてが途切れることなく、流れるような変化の中で形作られます。
+完成したミニチュアは光沢があり、わずかに半透明で、柔らかく弾力のある質感です。自然に落ち着く前にわずかに揺れ、花びらも静止するまで優しく震えます。滑らかなジェルの表面には小さなハイライトが走り、枝や花びら全体に柔らかな内側の光が拡散し、高級感のあるガラスのような外観を演出します。
+被写体は、リアルさと反射を強調する繊細な水滴が散りばめられた、暗いマットな石の表面に置かれています。
+スタイル：
+ウルトラマクロ撮影
+ハイパーリアルな CGI
+シネマティックなスタジオ照明
+極めて浅い被写界深度
+豊かな反射
+プレミアムな製品コマーシャルの美学
+滑らかで連続的な変化
+鮮明なテクスチャ
+フォトリアルな素材感
+8K 画質
+縦型 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
-Negative Prompt:
-Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+テキストなし
+カメラの動きなし
+背景のノイズなし
+ネガティブプロンプト：
+低品質、漫画、アニメ、低ディテール、プラスチックのような質感、粒子、ノイズ、ちらつき、壊れたジオメトリ、変形した形状、余計なオブジェクト、テキスト、ウォーターマーク、ロゴ、彩度が高すぎる色、非現実的な照明、カメラの揺れ、モーションブラー、散らかった背景。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="桜の木のジェル彫刻">
 
 **[🎬 動画を見る →](https://x.com/Strength04_X/status/2085703642037018819)**
 
 **作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **公開日:** Aug 7, 2026
 
 ---
-### Jelly Octopus Macro Transformation
+### ゼリーオクトパスのマクロ変身
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
+> Gemini Omni 向けの非常に詳細なマクロ撮影用プロンプト。光り輝くジェルが弾力のあるゼリー状のタコへと変身する様子を描写します。
 
 #### 📝 プロンプト
 
 ```
-Extreme close-up macro cinematography. 
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+極端なクローズアップのマクロ撮影。 
+リアルな手が、磨き上げられたノズルの付いた滑らかな金属製のチューブをゆっくりと絞り出します。中から出てくるのは普通のペーストではなく、透明で柔らかく光るジェルです。素材が出てくると同時に、それは有機的に変形し、美しく造形された小さな「Jelly Octopus」へと、一連の動作で層状に形作られていきます。
+完成したミニチュアは光沢があり、わずかに半透明で、柔らかく弾力があります。落ち着く前にわずかに揺れ、丸い頭部が優しく弾み、小さな触手が柔らかく波打って、生き生きとした弾力性を見せます。滑らかな表面を小さなハイライトが走り、内部の光がジェルを通して柔らかく拡散し、エレガントで高級感のある外観を作り出します。
+被写体は、リアリティと反射を高める繊細な水滴で飾られた、暗いマットな石の表面に置かれています。
 
-Style: Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+スタイル：ウルトラマクロ撮影
+ハイパーリアルな CGI
+映画のようなスタジオ照明
+極端に浅い被写界深度
+豊かな反射
+高級製品のコマーシャル美学
+滑らかで連続的な変身
+鮮明な質感
+フォトリアルな素材
+8K 画質
+縦型 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
+テキストなし
+カメラの動きなし
+背景のノイズなし
 
-Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+ネガティブプロンプト：低品質、漫画、アニメ、低精細、プラスチックのような外観、粒子、ノイズ、ちらつき、壊れたジオメトリ、変形した形状、余計なオブジェクト、テキスト、透かし、ロゴ、彩度が高すぎる色、非現実的な照明、手ブレ、モーションブラー、散らかった背景。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="ゼリーオクトパスのマクロ変身">
 
 **[🎬 動画を見る →](https://x.com/Strength04_X/status/2085559452481261606)**
 
 **作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **公開日:** Aug 7, 2026
 
 ---
-### Prehistoric Caveman Rock Concert
+### 先史時代の原始人によるロックコンサート
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+> 恐竜に囲まれたステージで、先史時代の人間がコンサートを行う様子を描いたドキュメンタリー風の動画プロンプト。
 
 #### 📝 プロンプト
 
 ```
-A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+先史時代を舞台にしたコンサートシーン。ステージ上では原始人たちが、理解不能な言語で歌を歌っています。周囲には恐竜たちが歩き回っており、大勢のコミュニティがそのコンサートを見守っています。撮影はマルチショットで行い、ドキュメンタリーのような自然なカメラワークを意識してください。ビジュアルスタイルは超リアルな質感で表現してください。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="先史時代の原始人によるロックコンサート">
 
 **[🎬 動画を見る →](https://x.com/ozansihay/status/2085420070952649179)**
 
 **作者:** [Ozan Sihay](https://x.com/ozansihay) | **ソース:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **公開日:** Aug 6, 2026
 
 ---
-### Ink Splash to Landscape Painting
+### 墨滴から山水画へ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+> Gemini Omni 用の記述的プロンプト。白い背景に落ちる黒いインクの滴が、映画のようなスローモーションで色鮮やかなミニチュア山水画へと変化する様子を視覚化します。
 
 #### 📝 プロンプト
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
-Style: abstract beauty | fluid motion | artistic transformation
-Camera: static macro → slow reveal
-Length: 10 seconds
-Lighting: soft studio light, high clarity
+真っ白な背景がフレームを満たす。濃厚な黒いインクの滴がスローモーションで落下し、まるで花が咲くように外側へとはじけ飛ぶ。カメラは完全に固定され、流動的な動きに焦点を合わせる。インクが広がるにつれて、その形状は徐々に山、川、木々へと変化していく。深い青や緑の色が染み込み、インクは完全にミニチュアの山水画へと姿を変える。最後の 1 秒間は完成した世界を映し出し、完全に静止する。
+スタイル：抽象的な美しさ | 流動的な動き | 芸術的な変容
+カメラ：静止マクロ → ゆっくりとした展開
+長さ：10 秒
+照明：柔らかなスタジオライト、高い透明感
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="墨滴から山水画へ">
 
 **[🎬 動画を見る →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **公開日:** Aug 6, 2026
 
 ---
-### High-Energy Match Cut Video
+### ハイエナジーなマッチカット動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+> 1 秒間に 2 回のマッチカットを挿入し、16:9 のシネマティックなアスペクト比で 10 秒間のハイエナジーな動画を生成するためのテクニカルプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+10 秒間のクリップを生成。マッチカットを 20 回挿入（1 秒間に 2 回）。シネマティックかつハイエナジーな仕上がり。アスペクト比は 16:9。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="ハイエナジーなマッチカット動画">
 
 **[🎬 動画を見る →](https://x.com/ViralOps_/status/2085069575700246678)**
 
 **作者:** [ViralOps](https://x.com/ViralOps_) | **ソース:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **公開日:** Aug 5, 2026
 
 ---
-### Traditional Sumo Rikishi Scene
+### 伝統的な相撲の力士の情景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+> まわしを締め、ちょんまげを結った力士による、伝統的な相撲の取組前の儀式を描いたプロンプト。
 
 #### 📝 プロンプト
 
 ```
-Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+はっけよい！力士たちは立派なまわしを締め、頭には粋なちょんまげを結っている。しかし、一つ奇妙なことがある。力士は取組の前に、土俵上で決して前腕を仕切りにつけることはない。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="伝統的な相撲の力士の情景">
 
 **[🎬 動画を見る →](https://x.com/222TT222/status/2085036219894026485)**
 
 **作者:** [TakTempest](https://x.com/222TT222) | **ソース:** [Link](https://x.com/222TT222/status/2085036219894026485) | **公開日:** Aug 5, 2026
 
 ---
-### Mechanical Pepper Grinder Mantis Kitchen Duel
+### 機械仕掛けのペッパーミル・カマキリ：キッチンでの決闘
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A cinematic macro video prompt for Gemini Omni that depicts a mechanical mantis made of a pepper grinder battling a cockroach on a kitchen counter, complete with a detailed multi-shot timeline.
+> Gemini Omni 向けのシネマティックなマクロ動画プロンプト。キッチンカウンターの上で、ペッパーミルで作られた機械仕掛けのカマキリがゴキブリと戦う様子を、詳細なマルチショットのタイムラインで描写します。
 
 #### 📝 プロンプト
 
 ```
-Macro cinematic lens, the night kitchen countertop is filmed like a vast metal wasteland. Crumbs, salt grains, and herb fragments are scattered like rocks and bushes on the surface. The protagonist is a peculiar 'Pepper Grinder Mantis': the body is a small silver stainless steel pepper grinder, tilted slightly forward vertically, with long real mantis legs growing from the bottom and sides, and two iconic scythe-like predatory forelimbs in front. It has no normal insect head; the main body is the pepper grinder itself, moving cautiously and mechanically.
+マクロ・シネマティック・レンズ。夜のキッチンカウンターが、広大な金属の荒野のように撮影されています。パンくずや塩の粒、ハーブの破片が、岩や茂みのように表面に散らばっています。主人公は奇妙な「ペッパーミル・カマキリ」です。体は小型の銀色のステンレス製ペッパーミルで、垂直に少し前傾しており、底部と側面からは本物のカマキリの長い脚が生え、前方には象徴的な鎌のような捕食肢が2本ついています。昆虫特有の頭部はなく、本体であるペッパーミルそのものが、機械的かつ慎重に動きます。
 
-A shiny brown cockroach slowly crawls out from behind the shadow of a napkin on the left, quickly approaching the pepper grinder mantis. The air is tense, like a late-night kitchen duel. The pepper grinder mantis suddenly stops, its body rising slightly as if locking onto a target. Then it snaps the top grinding head, emitting a crisp mechanical sound, and a large amount of black pepper fragments spray out from the top and front like a smoke grenade, hitting the cockroach directly.
+左側のナプキンの影から、光沢のある茶色のゴキブリがゆっくりと這い出し、ペッパーミル・カマキリに素早く接近します。深夜のキッチンでの決闘のような、張り詰めた空気。ペッパーミル・カマキリは突然停止し、ターゲットをロックオンしたかのように体をわずかに持ち上げます。そして、上部のグラインダーヘッドをカチッと鳴らすと、頂部と前方から大量の黒胡椒の破片が煙幕のように噴出し、ゴキブリを直撃します。
 
-The cockroach is choked by the pepper, retreating in panic, antennae swinging wildly, feet slipping, and quickly retreats back into the shadow on the left. Fine black pepper particles and a slight powder mist float in the air. The pepper grinder mantis remains in place, forelimbs held high, like a calmly winning night warrior.
+胡椒にむせたゴキブリはパニック状態で後退し、触角を激しく振り回し、足を滑らせながら、左側の影の中へと慌ただしく逃げ帰ります。細かい黒胡椒の粒子とわずかな粉塵が空中に漂います。ペッパーミル・カマキリはその場に留まり、前肢を高く掲げ、勝利を収めた夜の戦士のように静かに佇んでいます。
 
-Timeline Storyboard:
-0–3s: Ultra close-up macro shot. The silver pepper grinder mantis walks slowly on the kitchen counter, surrounded by crumbs, salt, and herbs. Soft reflections on the metal surface, mantis legs move realistically.
-3–6s: In the shadows on the left, a brown cockroach suddenly appears, quickly approaching the mantis. Slight camera follow, creating tension. The two face off briefly in a small open area.
-6–7s: The top of the pepper grinder suddenly rotates quickly, making a mechanical grinding sound. A large amount of black pepper powder bursts out, forming a dense granular black spray, hitting the cockroach head-on.
-7–10s: The cockroach retreats in chaos after being stimulated by the pepper, quickly fleeing into the shadow on the left and disappearing. Black pepper dust floats in the air. The pepper grinder mantis remains still, forelimbs raised, standing guard like a victor.
+タイムライン・ストーリーボード：
+0～3秒：超クローズアップのマクロショット。銀色のペッパーミル・カマキリがキッチンカウンターの上をゆっくりと歩き、周囲にはパンくず、塩、ハーブが散らばっている。金属表面に柔らかな反射があり、カマキリの脚がリアルに動く。
+3～6秒：左側の影から茶色のゴキブリが突然現れ、カマキリに素早く接近する。わずかにカメラが追従し、緊張感を演出。2匹は小さな開けた場所で一瞬対峙する。
+6～7秒：ペッパーミルの上部が突然高速回転し、機械的な粉砕音が響く。大量の黒胡椒の粉が噴出し、濃密な粒状の黒いスプレーとなってゴキブリを正面から襲う。
+7～10秒：胡椒の刺激を受けたゴキブリが混乱して後退し、左側の影へと素早く逃げ込んで姿を消す。黒胡椒の粉塵が空中に漂う。ペッパーミル・カマキリは動かず、前肢を掲げたまま、勝者のように見張り続けている。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mechanical Pepper Grinder Mantis Kitchen Duel">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="機械仕掛けのペッパーミル・カマキリ：キッチンでの決闘">
 
 **[🎬 動画を見る →](https://x.com/jesselaunz/status/2084153849326309450)**
 
 **作者:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **ソース:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **公開日:** Aug 3, 2026
 
 ---
-### Shark Rock Band Dive Bar Footage
+### サメのロックバンドによるダイブバーでのライブ映像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a gritty, bootleg-style video of a fictional shark rock band performing live in a crowded dive bar atmosphere.
+> 架空のサメのロックバンドが、混雑したダイブバーの雰囲気の中で演奏する、ザラついたブートレグ風のビデオを生成します。
 
 #### 📝 プロンプト
 
 ```
-Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," real sharks somehow balanced on boards and shredding guitars with their fins, hisses a brief hello before tearing into their thrashing single, "Chum Bucket."
+混雑したダイブバーでのブートレグ映像：サーフ・ノイズバンド「Sharks on Surfboards」が登場。なんと本物のサメがサーフボードの上に乗り、ヒレでギターをかき鳴らしている。彼らは短く挨拶をした後、激しいシングル曲「Chum Bucket」を演奏し始める。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Shark Rock Band Dive Bar Footage">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="サメのロックバンドによるダイブバーでのライブ映像">
 
 **[🎬 動画を見る →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
 
 **作者:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **ソース:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **公開日:** Aug 3, 2026
 
 ---
-### Luxury Toddler Fashion Commercial
+### 高級幼児向けファッション CM
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+> 「野生味」と「止められないエネルギー」をテーマにした、高級感あふれる幼児向けファッション CM のプロンプトです。
 
 #### 📝 プロンプト
 
 ```
-a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+幼児向けのハイエンドなファッション CM。ラグジュアリーでありながら野生味があり、愛らしいけれど誰にも止められない。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="高級幼児向けファッション CM">
 
 **[🎬 動画を見る →](https://x.com/ritesh_ai/status/2083525213309042711)**
 
@@ -2899,6 +2909,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-18T08:34:18.923Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-18T12:41:30.188Z</sub>
 
 </div>

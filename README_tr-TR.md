@@ -56,330 +56,340 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### Forbidden City Hall Transformation
+### Yasak Şehir Ejderha Dönüşümü
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+> Referans görseller kullanarak Yüce Uyum Sarayı'nı bir Çin İmparatorluk Ejderhasına dönüştüren, Gemini Omni Flash için çok aşamalı bir dönüşüm istemi.
 
 #### 📝 İstem
 
 ```
-@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+@Image1, Yüce Uyum Sarayı'nın tam orijinal halidir. @Image2, onaylanmış ara dönüşüm aşamasını tanımlar. @Image3, nihai Çin İmparatorluk Ejderhası-Saray Muhafızı'nı tanımlar. Bir tane oluştur
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Yasak Şehir Ejderha Dönüşümü">
 
 **[🎬 Videoyu izle →](https://x.com/CrazyKaomei/status/2089279848741261762)**
 
 **Yazar:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Kaynak:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Yayınlandı:** Aug 17, 2026
 
 ---
-### Bolivian Salt Flats Mirror Sunrise
+### Bolivya Tuz Gölü'nde Gün Doğumu Yansıması
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+> Sular altındaki Bolivya tuz gölü üzerinde, geniş negatif alan kullanımıyla oluşturulmuş, yansımalı bir gün doğumu için minimalist video istemi.
 
 #### 📝 İstem
 
 ```
-Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+Kesintisiz döngü, sular altındaki Bolivya tuz gölü üzerinde sabit geniş açılı ufuk çekimi. İnce bir durgun su tabakası, gökyüzünde fark edilmeyecek kadar yavaş süzülen pastel pembe ve lavanta rengi gün doğumu bulutlarını kusursuz bir şekilde yansıtıyor. Geniş negatif alan, ruhani minimalizm.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivya Tuz Gölü'nde Gün Doğumu Yansıması">
 
 **[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068330225221876)**
 
 **Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Yayınlandı:** Aug 16, 2026
 
 ---
-### Ghibli Style Koi Pond Loop
+### Ghibli Tarzı Koi Havuzu Döngüsü
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+> Suluboya bir havuzda yüzen koi balıkları ve üzerine vuran güneş ışıklarıyla, Studio Ghibli'den ilham alan büyüleyici bir video istemi.
 
 #### 📝 İstem
 
 ```
-Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+Kusursuz döngü, Studio Ghibli suluboya anime tarzında berrak bir bahçe havuzunun yukarıdan sabit görünümü. Yüzen nilüfer yapraklarının altında yavaşça dönen renkli koi balıkları. Hafif su dalgaları, akçaağaç yapraklarının arasından süzülen güneş ışığı, yumuşak pastel renkler, sakin ortam hareketi.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Tarzı Koi Havuzu Döngüsü">
 
 **[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068327691862357)**
 
 **Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Yayınlandı:** Aug 16, 2026
 
 ---
-### Zero Gravity Glass Ribbon Loop
+### Yerçekimsiz Cam Şerit Döngüsü
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+> Karanlık bir arka plan üzerinde yerçekimsiz ortamda süzülen, kırılmalı cam şeridin yer aldığı soyut ve hipnotik bir video istemi.
 
 #### 📝 İstem
 
 ```
-Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+Obsidyen arka plan üzerinde yerçekimsiz ortamda yavaşça dalgalanan, şeffaf ve kırılmalı bir cam şeridin kesintisiz döngüsü, sabit kamera açısı. Kenarlarda hafif renk sapması, yumuşak ışık kırılmaları, yavaş ve hipnotik hareket, arayüz için geniş negatif alan.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Yerçekimsiz Cam Şerit Döngüsü">
 
 **[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068325493944435)**
 
 **Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Yayınlandı:** Aug 16, 2026
 
 ---
-### Double-Exposure Silhouette Forest Loop
+### Çift Pozlama Silüet Orman Döngüsü
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+> Bir kişinin karanlık silüeti içinde sisli bir çam ormanını gösteren sürreal bir çift pozlama video istemi.
 
 #### 📝 İstem
 
 ```
-Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+Kusursuz döngü. Yumuşak, sisli, kemik beyazı bir arka plana karşı bir kişinin sabit profilli silüeti. Çift pozlama efekti: karanlık silüetin içinde, katmanlar halinde yavaşça süzülen beyaz dağ sisleriyle birlikte yoğun bir Pasifik Kuzeybatı çam ormanı görünür
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Çift Pozlama Silüet Orman Döngüsü">
 
 **[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068323132649758)**
 
 **Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Yayınlandı:** Aug 16, 2026
 
 ---
-### Underwater Kelp Forest Video Loop
+### Sualtı Yosun Ormanı Video Döngüsü
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+> Turkuaz suların arasından süzülen güneş ışıklarıyla aydınlanan, kesintisiz bir sualtı yosun ormanı döngüsü için huzur verici bir video istemi.
 
 #### 📝 İstem
 
 ```
-Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+Kesintisiz döngü, ılıman bir yosun ormanında sabit geniş açılı sualtı görünümü. Uzun kehribar rengi yosun yaprakları yavaş, hipnotik okyanus akıntılarıyla sallanırken, altın rengi güneş ışınları yüzeyden berrak turkuaz sulara doğru dramatik bir şekilde süzülüyor.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Sualtı Yosun Ormanı Video Döngüsü">
 
 **[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068314764997056)**
 
 **Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Yayınlandı:** Aug 16, 2026
 
 ---
-### Cinematic Miniature Disaster Scene VFX
+### Sinematik Minyatür Felaket Sahnesi VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+> Gerçekçi su fiziği ve profesyonel aydınlatma özelliklerine sahip, bir VFX stüdyosu ortamında sinematik minyatür felaket sahnesi oluşturmak için detaylı bir komut.
 
 #### 📝 İstem
 
 ```
-Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+Devasa ve profesyonel bir Hollywood VFX stüdyosunun içinde ultra gerçekçi, sinematik bir minyatür felaket sahnesi oluşturun.
+
+Gökdelenler, yollar, köprüler, sahil binaları, araçlar ve teknelerle dolu, son derece detaylı minyatür bir modern sahil megakenti gösterin. Devasa ve gerçekçi bir okyanus dalgası şehre doğru çarparak fiziksel olarak inandırıcı bir sel, köpük, serpinti, sis, su yansımaları ve enkaz oluşturuyor.
+
+Otantik bir kamera arkası pratik efekt görünümü yaratmak için minyatür setin etrafında profesyonel VFX ekibi üyeleri, sinema kameraları, aydınlatma donanımları ve stüdyo ekipmanları bulundurun.
+
+Fotogerçekçi, gerçekçi minyatür ölçeği, sinematik aydınlatma, doğal gölgeler, detaylı dokular, gerçekçi su fiziği, sığ alan derinliği, profesyonel sinema kamerası, akıcı kamera hareketi, dramatik atmosfer, Hollywood felaket filmi VFX kalitesi, 9:16 dikey format.
+
+Video boyunca binaların, çevrenin ve ölçeğin tutarlı kalmasını sağlayın.
+
+Kaçınılması gerekenler: çizgi film, CGI görünümlü görseller, bozuk insanlar, fazladan uzuvlar, çarpık binalar, titreme, gerçekçi olmayan su, rastgele nesneler, metin, logolar, filigranlar.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Sinematik Minyatür Felaket Sahnesi VFX">
 
 **[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2088473623694921736)**
 
 **Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Yayınlandı:** Aug 15, 2026
 
 ---
-### Professional Boxer Daily Routine Sequence
+### Profesyonel Boksör Günlük Rutin Sekansı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy cinematic prompt for Gemini Omni that creates a 15-second day-in-the-life sequence of a Japanese boxer.
+> Gemini Omni için, Japon bir boksörün 15 saniyelik bir gününü anlatan yüksek enerjili ve sinematik bir istem.
 
 #### 📝 İstem
 
 ```
-Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a  young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his  hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+Referans görseli olduğu gibi kullanın. Genç, Japon, profesyonel bir erkek boksörün yer aldığı 15 saniyelik yüksek enerjili bir “hayatımdan bir gün” sekansı oluşturun. 0–3. saniye: şafak öncesi Tokyo, sabah 5:00'te uyanıyor, saçını yıkıyor, boks ayakkabılarını bağlıyor ve ellerini hassasiyetle sarıyor. 3–6. saniye: sessiz sokaklarda yoğun bir açık hava koşusuna başlıyor, soğuk sabah havasında görünür nefesi ve kararlı ifadesiyle. 6–9. saniye: tozlu bir boks salonunun içinde, hızla gölge boksu yapıyor ve kum torbasıyla çalışıyor; güçlü kombinasyonlar, gerçekçi ayak hareketleri ve ter. 9–12. saniye: eldivenlerin kum torbasına vurduğu anların aşırı yakın çekimleri, uçuşan ter damlaları, her yumrukta doğal bir şekilde gerilen kaslar. 12–15. saniye: hızlı ip atlama egzersizleriyle bitiriyor, ağır nefes alıyor ve ardından kameraya güvenle bakıyor. Hiper gerçekçi cilt, ter, saç hareketi ve kumaş fiziği, otantik boks tekniği, dinamik el kamerası, hızlı takip çekimleri, doğal hareket bulanıklığı, dramatik spor salonu ışıklandırması, gerçekçi gölgeler, sinematik alan derinliği, 4K, fiziksel olarak inandırıcı hareketler, CGI görünümü yok
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Professional Boxer Daily Routine Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Profesyonel Boksör Günlük Rutin Sekansı">
 
 **[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2087843492257243460)**
 
 **Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Yayınlandı:** Aug 13, 2026
 
 ---
-### Continuous Shot Anime Mask Overlay
+### Kesintisiz Çekim Anime Maskesi Katmanı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic video prompt for Gemini Omni that creates a single continuous shot of a subject using hand gestures to trigger dynamic anime-style facial overlays and masks with synchronized audio descriptions.
+> Gemini Omni için, kullanıcının el hareketlerini kullanarak dinamik anime tarzı yüz katmanlarını ve senkronize ses betimlemeleriyle maskeleri tetiklediği, tek bir kesintisiz çekim oluşturan karmaşık bir sinematik video istemi.
 
 #### 📝 İstem
 
 ```
-Generate a single continuous shot.\n\n{ "setting": "Cozy minimalist indoor studio room with off-white walls and dark wood accents", \n  "lighting": "Soft diffused warm cove lighting with subtle side fill", \n  "weather": "Indoor ambient", \n  "color_grade": "Warm natural tones with high-contrast digital overlay pops" }\n\n[SUBJECT ANCHOR — reiterate character visual descriptors]:\nThe young East Asian man with long straight black hair wearing a dark grey hooded windbreaker jacket with visible drawstrings.\n\n[00:00-00:02]: The young East Asian man in the dark grey hooded jacket holds her hood drawstrings near her chin, then smoothly raises both hands, expanding her fingers to form a crisp rectangular geometric frame in front of her eyes. Inside the hand frame, a dynamic 2D cel-shaded anime eye graphic instantly pops into view overlaying her real eyes.\n[00:02-00:04]: She shifts her hand frame downward across her cheek, changing the framing angle to reveal a sharp, manga-style eye and eyebrow graphic overlay that tracks locked between her fingers.\n[00:04-00:06]: Moving her hands upward in a rhythmic motion, a stylized 2D anime smiling mouth graphic appears inside a new lower-face hand cutout frame, matching her head angle.\n[00:06-00:08]: She restructures her gesture, using index fingers to point diagonally across her eyes and nose region, creating a triangular hand frame that displays a vivid triangular vector anime mask filter over her upper face.\n[00:08-00:10]: She flips the triangular hand frame smoothly to the opposite angle over her lower face, holding a horizontal anime artwork banner overlay between her fingertips as the clip holds.\n\n🎤 VOICE PERFORMANCE:\nNo spoken dialogue in this opening segment. The audio performance is anchored by the rhythmic atmosphere of the musical build-up, synced to snappy, clean UI movement sounds.\n\nAmbient: Quiet residential room acoustics with soft low-end air resonance.\nFoley: Sharp digital swoosh and UI snap effects frame-locked precisely to each hand expansion and overlay state shift at 01s, 03s, 05s, 07s, and 09s.\nMusic: High-energy electro-pop/cyberpunk synth melody building in rhythm and intensity.
+Tek bir kesintisiz çekim oluştur.\n\n{ "mekan": "Kırık beyaz duvarlara ve koyu ahşap detaylara sahip, rahat ve minimalist bir iç mekan stüdyosu", \n  "ışıklandırma": "Hafif, yumuşak ve sıcak gizli aydınlatma ile ince yan dolgu ışığı", \n  "hava_durumu": "İç mekan ortamı", \n  "renk_derecelendirmesi": "Yüksek kontrastlı dijital katman patlamalarıyla sıcak doğal tonlar" }\n\n[ÖZNE ÇAPASI — karakter görsel betimlemelerini yineleyin]:\nKoyu gri, kapüşonlu ve görünür büzgü ipleri olan bir rüzgarlık giyen, uzun düz siyah saçlı genç Doğu Asyalı erkek.\n\n[00:00-00:02]: Koyu gri kapüşonlu ceket içindeki genç Doğu Asyalı erkek, kapüşon büzgü iplerini çenesinin yakınında tutar, ardından ellerini pürüzsüzce kaldırarak parmaklarını gözlerinin önünde net, dikdörtgen geometrik bir çerçeve oluşturacak şekilde açar. El çerçevesinin içinde, dinamik bir 2D cel-shaded anime göz grafiği anında belirerek gerçek gözlerinin üzerine biner.\n[00:02-00:04]: El çerçevesini yanağı boyunca aşağı doğru kaydırarak, parmakları arasında kilitli kalan keskin, manga tarzı bir göz ve kaş grafiği katmanını ortaya çıkarmak için çerçeveleme açısını değiştirir.\n[00:04-00:06]: Ellerini ritmik bir hareketle yukarı doğru hareket ettirdiğinde, baş açısıyla eşleşen yeni bir alt yüz el kesme çerçevesi içinde stilize edilmiş 2D anime gülümseyen ağız grafiği belirir.\n[00:06-00:08]: Hareketini yeniden yapılandırarak, işaret parmaklarını göz ve burun bölgesinde çapraz olarak tutar ve üst yüzünde canlı, üçgen bir vektör anime maskesi filtresi görüntüleyen üçgen bir el çerçevesi oluşturur.\n[00:08-00:10]: Üçgen el çerçevesini pürüzsüzce alt yüzünün üzerine, zıt açıya çevirir ve klip devam ederken parmak uçları arasında yatay bir anime çizim şeridi katmanı tutar.\n\n🎤 SES PERFORMANSI:\nBu açılış bölümünde konuşma diyaloğu yoktur. Ses performansı, net ve keskin kullanıcı arayüzü hareket sesleriyle senkronize edilmiş, ritmik müzikal yükselişin atmosferiyle desteklenmiştir.\n\nOrtam: Hafif düşük frekanslı hava rezonansına sahip sessiz konut odası akustiği.\nFoley: 01., 03., 05., 07. ve 09. saniyelerdeki her el açılımına ve katman durumu değişimine tam olarak kilitlenmiş keskin dijital vınlama ve kullanıcı arayüzü tıklama efektleri.\nMüzik: Ritim ve yoğunluk açısından yükselen, yüksek enerjili elektro-pop/siberpunk synth melodisi.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Continuous Shot Anime Mask Overlay">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Kesintisiz Çekim Anime Maskesi Katmanı">
 
 **[🎬 Videoyu izle →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
 
 **Yazar:** [Aryan](https://x.com/Aryan_Ali_Pro) | **Kaynak:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **Yayınlandı:** Aug 12, 2026
 
 ---
-### Garden Squirrel Yard Sale
+### Bahçede Sincap Garaj Satışı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A whimsical prompt for Gemini Omni depicting a squirrel hosting a sale in a garden.
+> Gemini Omni için, bir bahçede satış yapan sincabı konu alan eğlenceli bir istem.
 
 #### 📝 İstem
 
 ```
-Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+Parası biten sincap, bahçesinde birçok değerli eşyayı satışa çıkarıyor
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Garden Squirrel Yard Sale">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Bahçede Sincap Garaj Satışı">
 
 **[🎬 Videoyu izle →](https://x.com/SilverAIProject/status/2087298245747683578)**
 
 **Yazar:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Kaynak:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **Yayınlandı:** Aug 11, 2026
 
 ---
-### Sneaky Cat Food Theft
+### Sinsi Kedi Mama Hırsızlığı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous narrative prompt for Gemini Omni featuring a cat stealing food and charming its owner.
+> Yemek çalan ve sahibini büyüleyen bir kediyi konu alan, Gemini Omni için eğlenceli bir anlatım istemi.
 
 #### 📝 İstem
 
 ```
-Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+Sinsi siyah beyaz kedi, tekir kedinin mamasını gizlice çalarken bir yandan da kazanan mırıltılarıyla evin hanımını baştan çıkarıyor
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Sneaky Cat Food Theft">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Sinsi Kedi Mama Hırsızlığı">
 
 **[🎬 Videoyu izle →](https://x.com/SilverAIProject/status/2087295479335751880)**
 
 **Yazar:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Kaynak:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **Yayınlandı:** Aug 11, 2026
 
 ---
-### Business Dashboard Review
+### İş Paneli İncelemesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+> Bir işletme sahibinin YouMind yapay zeka panelini incelediğini gösteren, Gemini Omni için gerçekçi bir ofis istemi.
 
 #### 📝 İstem
 
 ```
-A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+Aydınlık ve modern bir ofiste yapay zeka panelini inceleyen bir işletme sahibi. Orta ölçekli çekim. Yavaş yakınlaştırma. Sıcak doğal ışık. Odaklanmış bir atmosfer. Gerçekçi tarz. Yüksek kaliteli video.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="İş Paneli İncelemesi">
 
 **[🎬 Videoyu izle →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
 
 **Yazar:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Kaynak:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Yayınlandı:** Aug 11, 2026
 
 ---
-### Crystalline Frozen Water Droplet World
+### Kristalize Donmuş Su Damlası Dünyası
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+> Gemini Omni için, bir su damlasının ağır çekimde kristal ormanlar ve buz uçurumlarıyla dolu karmaşık, donmuş bir manzaraya dönüşümünü görselleştiren detaylı bir video istemi.
 
 #### 📝 İstem
 
 ```
-A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+Kareyi tamamen saf siyah bir arka plan kaplıyor. Tek bir berrak su damlası yukarıdan ağır çekimde düşüyor, görünmez bir yüzeye çarparak mükemmel dairesel dalgalar ve kristal sıçramalarla dışarı doğru patlıyor. Kamera tamamen sabit kalıyor, akışkan dansa kilitleniyor. Ardışık damlalar eklendikçe, yayılan su incelikle yükselen buz uçurumlarına, çağlayan şelalelere ve donmuş kristal ormanlara dönüşüyor. Yumuşak turkuaz ve gümüş rengi ışık sıvının içinden sızarak tüm sahneyi ışıldayan, donmuş bir şelale krallığına çeviriyor. Son saniyede görüntü, tamamlanmış kristal dünyada mükemmel bir hareketsizlikle donuyor. Stil: soyut güzellik | akışkan hareket | kristal dönüşüm Kamera: sabit makro → yavaş ortaya çıkış Süre: 10 saniye Aydınlatma: soğuk kenar ışığı, yüksek netlik, ruhani ışıltı
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Kristalize Donmuş Su Damlası Dünyası">
 
 **[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2087219303926124787)**
 
 **Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **Yayınlandı:** Aug 11, 2026
 
 ---
-### Hand Plucking Star from Night Sky Prompt
+### Gece Gökyüzünden Yıldız Koparan El İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
+> Bir elin gece gökyüzüne uzanıp parlayan bir yıldızı koparmasını konu alan, sürreal birinci şahıs bakış açılı bir görsel istemi.
 
 #### 📝 İstem
 
 ```
-First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
+Birinci şahıs bakış açısı, derin bir gece gökyüzüne uzanan bir insan eli, karanlığın içinden parlayan tek bir yıldızı meyve koparır gibi nazikçe alıyor. Koyu lacivert gökyüzü, parıldayan yıldız ışığı, sürreal zorlamalı perspektif ölçeği,
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Gece Gökyüzünden Yıldız Koparan El İstemi">
 
 **[🎬 Videoyu izle →](https://x.com/TheChuksAi/status/2087042640453738616)**
 
 **Yazar:** [ChuksAi](https://x.com/TheChuksAi) | **Kaynak:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **Yayınlandı:** Aug 11, 2026
 
 ---
-### Ember and the Firefly Storyboard Shot 1
+### Ember and the Firefly Storyboard Çekimi 1
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
+> 'Ember and the Firefly' sinematik demosu için açılış çekimi; parlayan bir ateş böceği fark eden karakterin donup kaldığı geniş bir yakınlaşma (push-in) sahnesini içerir.
 
 #### 📝 İstem
 
 ```
-EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
+EMBER AND THE FIREFLY STORYBOARD — 8 SANİYELİK ÇEKİM LİSTESİ
 
-SHOT 1 | THE SPARK (0:00–1:3s)
-Cam: Static wide, slow push-in.
-Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
-Sound: Forest hush, soft chime on the glow.
+ÇEKİM 1 | KIVILCIM (0:00–1:3 sn)
+Kamera: Sabit geniş açı, yavaş yakınlaşma (push-in).
+Eylem: Ember adımının ortasında donar, kulakları parlayan tek bir ateş böceğine kilitlenir.
+Ses: Orman sessizliği, parıltıyla birlikte hafif bir çan sesi.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
+<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Çekimi 1">
 
 **[🎬 Videoyu izle →](https://x.com/Gre8tDan/status/2086787909399572802)**
 
 **Yazar:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Kaynak:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Yayınlandı:** Aug 10, 2026
 
 ---
-### Bouncing Strawberry Jello Pool
+### Zıplayan Çilekli Jöle Havuzu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
+> Doku ve fizik kurallarına vurgu yapan, zıplayan jöle çilekli, yarı saydam yakut kırmızısı bir çilekli jöle havuzunun son derece detaylı sinematik video istemi.
 
 #### 📝 İstem
 
 ```
-A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
+Tamamı yarı saydam yakut kırmızısı çilekli jöleden yapılmış, kusursuz beyazdan açık pembeye geçişli bir arka plan üzerinde lüks bir yüzme havuzu. Aynı parlak jöleden şekillendirilmiş dev, gerçekçi bir çilek havuzun merkezinden yükseliyor ve yavaşça yukarı doğru zıplayıp tekrar yüzeye düşerek güzel, eş merkezli jöle dalgaları ve yumuşak sıçramalar yaratıyor. Küçük yarı saydam jöle damlacıkları havada süzülüyor ve stüdyo ışığını yakalıyor. Kamera, parlak jöle dokusunun makro yakın çekimiyle başlıyor, çilek yükselirken akıcı bir şekilde geri çekiliyor ve ardından çilek yere inerken yavaşça yaklaşıyor. Gerçekçi jelatin deformasyonu, titreme, esneme, yumuşak zıplama, sıvı benzeri yüzey dalgalanmaları, ikna edici yarı saydamlık ve yüzey altı saçılımı. Birinci sınıf sanat yönetmenliği ile yapılmış yemek fotoğrafçılığı, minimalist stüdyo kompozisyonu, büyüleyici ASMR estetiği, sinematik akıcı hareket, tek kesintisiz çekim, tam 10 saniye, metin yok, logo yok.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Zıplayan Çilekli Jöle Havuzu">
 
 **[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
 **Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Yayınlandı:** Aug 10, 2026
 
 ---
-### Treehouse Interior Detailing Motion Prompt
+### Ağaç Ev İç Mekan Detaylandırma Hareket İstemi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+> Minyatür bir ağaç ev inşaatı hızlandırılmış çekiminin boyama ve iç mekan detaylandırma aşaması için bir hareket istemi.
 
 #### 📝 İstem
 
 ```
-Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+Hareket İstemi 4'teki tamamen bitmiş dış mekan ağaç evini tam başlangıç karesi olarak kullanın. Mimariyi, çatıyı, pencereleri, balkonu, ağacı, çevreyi ve oranları birebir koruyun.
 
-Create an ultra fast timelapse
+Ultra hızlı bir hızlandırılmış çekim oluşturun
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Ağaç Ev İç Mekan Detaylandırma Hareket İstemi">
 
 **[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2086644591089041676)**
 
@@ -390,14 +400,14 @@ Create an ultra fast timelapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+> Yüksek bir ağaç ev temelinin inşaatını, görsel tutarlılığı koruyarak ultra hızlı bir hızlandırılmış çekim (timelapse) efektiyle canlandırmak için kullanılan bir Gemini Omni hareket istemi.
 
 #### 📝 İstem
 
 ```
-Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+İlk Kare Görselini (First Frame Image) tam başlangıç karesi olarak kullanın; aynı ağacı, dalları, çevreyi, minyatür ölçeği, malzemeleri, ışıklandırmayı, kamera stilini ve görsel kimliği koruyun.
 
-Create an ultra fast timelapse speed construction
+Ultra hızlı bir hızlandırılmış inşaat çekimi oluşturun.
 ```
 
 <img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
@@ -407,264 +417,264 @@ Create an ultra fast timelapse speed construction
 **Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Yayınlandı:** Aug 10, 2026
 
 ---
-### Anime Style Pandan Flour Pressing
+### Anime Tarzı Pandan Unu Presleme
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+> Gemini Omni için, ellerin pirinç unu hamurunu sıvı nitrojen içine bastırarak oluşturduğu fantastik görsel efekti betimleyen 2D anime tarzı bir istem.
 
 #### 📝 İstem
 
 ```
-A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+Japon anime tarzında 2D animasyonlu yakın çekim bir video. Elle çizilmiş anime elleri, canlı yeşil pandan pirinç unu hamurunu geleneksel bir presle sıvı nitrojen dolu bir kaseye bastırıyor; bu işlem, fantastik bir soğuk buhar bulutu ve parıldayan bir sis oluşturuyor.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Tarzı Pandan Unu Presleme">
 
 **[🎬 Videoyu izle →](https://x.com/playinbey/status/2085826420287418413)**
 
 **Yazar:** [PLAY!](https://x.com/playinbey) | **Kaynak:** [Link](https://x.com/playinbey/status/2085826420287418413) | **Yayınlandı:** Aug 7, 2026
 
 ---
-### Dread and Foreboding Image-to-Video
+### Korku ve Endişe Dolu Görselden Videoya
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+> Statik bir görseli, birden fazla kamera açısı kullanarak korku ve endişe dolu dinamik bir video sahnesine dönüştürmek için tasarlanmış bir komut.
 
 #### 📝 İstem
 
 ```
-Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+Bu görseli temel alarak, korku ve endişe hissi yaratmak için birden fazla kamera açısı ve dinamik kadraj kullanımıyla ilgi çekici bir sahne oluşturun.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Korku ve Endişe Dolu Görselden Videoya">
 
 **[🎬 Videoyu izle →](https://x.com/pzf_ai/status/2085736211625230529)**
 
 **Yazar:** [PZF](https://x.com/pzf_ai) | **Kaynak:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Yayınlandı:** Aug 7, 2026
 
 ---
-### Cherry Blossom Tree Gel Sculpture
+### Kiraz Çiçeği Ağacı Jel Heykel
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+> Gemini Omni için, parlayan bir jelin tüpten çıkarken detaylı bir minyatür kiraz çiçeği ağacına dönüştüğü anı görselleştiren sinematik bir makro istemi.
 
 #### 📝 İstem
 
 ```
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
-Style:
-Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+Gerçekçi bir el, cilalı bir başlığa sahip şık metalik bir tüpü yavaşça sıkıyor. Sıradan bir macun yerine, kristal netliğinde ve hafifçe parlayan bir jel pürüzsüzce dışarı akıyor. Malzeme dışarı çıktıkça, tek bir sürekli hareketle katman katman şekillenerek organik bir şekilde minik, güzelce yontulmuş bir "Kiraz Çiçeği Ağacı"na dönüşüyor. Önce narin gövde yükseliyor, ardından zarifçe dallanan kollar yüzlerce minik yarı saydam kiraz çiçeğine dönüşüyor; hepsi tek bir akışkan dönüşümle kusursuzca oluşuyor.
+Tamamlanmış minyatür parlak, hafif yarı saydam, yumuşak ve esnek görünüyor; doğal bir şekilde yerleşmeden önce hafifçe titriyor. Çiçekler sabitlenmeden önce nazikçe sallanırken, pürüzsüz jel yüzeyinde minik parıltılar hareket ediyor. Her dal ve taç yaprağın içinden yayılan yumuşak bir ışık, zarif ve birinci sınıf, cam benzeri bir görünüm yaratıyor.
+Nesne, gerçekçiliği ve yansımaları artıran narin su damlalarıyla süslenmiş koyu mat bir taş yüzey üzerinde duruyor.
+Stil:
+Ultra makro fotoğrafçılık
+Hiper gerçekçi CGI
+Sinematik stüdyo aydınlatması
+Son derece sığ alan derinliği
+Zengin yansımalar
+Premium ürün reklam estetiği
+Pürüzsüz sürekli dönüşüm
+Keskin dokular
+Fotogerçekçi malzemeler
+8K kalite
+Dikey 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
-Negative Prompt:
-Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+Metin yok
+Kamera hareketi yok
+Arka plan dikkat dağıtıcıları yok
+Negatif İstem:
+Düşük kalite, çizgi film, anime, düşük detay, plastik görünüm, gren, gürültü, titreme, bozuk geometri, deforme olmuş şekil, fazladan nesneler, metin, filigran, logo, aşırı doygun renkler, gerçekçi olmayan aydınlatma, titrek kamera, hareket bulanıklığı, karmaşık arka plan.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Kiraz Çiçeği Ağacı Jel Heykel">
 
 **[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2085703642037018819)**
 
 **Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Yayınlandı:** Aug 7, 2026
 
 ---
-### Jelly Octopus Macro Transformation
+### Jöle Ahtapot Makro Dönüşümü
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
+> Gemini Omni için, parlayan bir jelin elastik bir jöle ahtapota dönüşmesini betimleyen, oldukça detaylı bir makro sinematografi istemi.
 
 #### 📝 İstem
 
 ```
-Extreme close-up macro cinematography. 
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+Aşırı yakın çekim makro sinematografi.
+Gerçekçi bir el, cilalı bir ağza sahip şık metalik bir tüpü yavaşça sıkıyor. Sıradan bir macun yerine, kristal berraklığında ve hafifçe parlayan bir jel pürüzsüzce dışarı akıyor. Malzeme çıktıkça, organik bir şekilde minik, güzelce şekillendirilmiş bir "Jelly Octopus"a dönüşüyor ve tek bir sürekli hareketle katman katman biçim alıyor.
+Tamamlanan minyatür; parlak, hafif yarı saydam, yumuşak ve elastik görünüyor; doğal bir şekilde yerleşmeden önce hafifçe sallanıyor. Yuvarlak kafası nazikçe zıplarken, minik dokunaçları gerçekçi bir esneklikle hafifçe dalgalanıp duruluyor. Pürüzsüz yüzeyinde minik parlamalar hareket ederken, iç ışık jel boyunca yumuşak bir şekilde dağılarak zarif ve premium bir görünüm yaratıyor.
+Nesne, gerçekçiliği ve yansımaları artıran narin su damlalarıyla süslenmiş koyu mat bir taş yüzey üzerinde duruyor.
 
-Style: Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+Stil: Ultra makro fotoğrafçılık
+Hiper gerçekçi CGI
+Sinematik stüdyo aydınlatması
+Son derece sığ alan derinliği
+Zengin yansımalar
+Premium ürün reklam estetiği
+Pürüzsüz sürekli dönüşüm
+Keskin dokular
+Fotogerçekçi malzemeler
+8K kalite
+Dikey 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
+Metin yok
+Kamera hareketi yok
+Arka plan dikkat dağıtıcıları yok
 
-Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+Negatif İstem: Düşük kalite, çizgi film, anime, düşük detay, plastik görünüm, gren, gürültü, titreme, bozuk geometri, deforme olmuş şekil, fazladan nesneler, metin, filigran, logo, aşırı doygun renkler, gerçekçi olmayan aydınlatma, titrek kamera, hareket bulanıklığı, karmaşık arka plan.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jöle Ahtapot Makro Dönüşümü">
 
 **[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2085559452481261606)**
 
 **Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **Yayınlandı:** Aug 7, 2026
 
 ---
-### Prehistoric Caveman Rock Concert
+### Tarih Öncesi Mağara Adamı Rock Konseri
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+> Dinozorlarla çevrili bir sahnede konser veren tarih öncesi insanları konu alan belgesel tarzında bir video istemi.
 
 #### 📝 İstem
 
 ```
-A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+Tarih öncesi dönemde geçen bir konser sahnesi. Sahnede anlaşılmaz bir dilde şarkı söyleyen mağara adamları ve tarih öncesi insanlar var. Etrafta dinozorlar da dolaşıyor. Konseri izleyen kalabalık bir topluluk bulunuyor. Çekim çoklu plan olacak, doğal ve belgesel tadında bir kamera hissiyatı vermeli. Görsel tarz ultra gerçekçi olmalı.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Tarih Öncesi Mağara Adamı Rock Konseri">
 
 **[🎬 Videoyu izle →](https://x.com/ozansihay/status/2085420070952649179)**
 
 **Yazar:** [Ozan Sihay](https://x.com/ozansihay) | **Kaynak:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **Yayınlandı:** Aug 6, 2026
 
 ---
-### Ink Splash to Landscape Painting
+### Mürekkep Sıçramasından Manzara Resmine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+> Beyaz bir arka plan üzerindeki siyah mürekkep damlalarının, sinematik ve ağır çekim hissi veren renkli bir minyatür manzara resmine dönüşümünü görselleştiren, Gemini Omni için betimleyici bir komut.
 
 #### 📝 İstem
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
-Style: abstract beauty | fluid motion | artistic transformation
-Camera: static macro → slow reveal
-Length: 10 seconds
-Lighting: soft studio light, high clarity
+Kareyi tamamen saf beyaz bir arka plan dolduruyor. Koyu siyah mürekkep damlaları ağır çekimde düşüyor ve açan çiçekler gibi dışa doğru sıçrıyor. Kamera tamamen sabit bir şekilde akışkan harekete odaklanıyor. Mürekkep yayıldıkça şekiller incelikle dağlara, nehirlere ve ağaçlara dönüşüyor. Mürekkep tamamen minyatür bir manzara resmine dönüşene kadar derin maviler ve yeşiller içeri sızıyor. Son saniyede tamamlanmış dünya üzerinde duruluyor, tamamen hareketsiz.
+Stil: soyut güzellik | akışkan hareket | sanatsal dönüşüm
+Kamera: sabit makro → yavaş ortaya çıkış
+Uzunluk: 10 saniye
+Aydınlatma: yumuşak stüdyo ışığı, yüksek netlik
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Mürekkep Sıçramasından Manzara Resmine">
 
 **[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
 **Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **Yayınlandı:** Aug 6, 2026
 
 ---
-### High-Energy Match Cut Video
+### Yüksek Enerjili Match Cut Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+> Saniyede iki adet olacak şekilde yüksek enerjili match cut geçişlerine sahip, sinematik 16:9 en boy oranında, 10 saniyelik hızlı tempolu bir video oluşturmak için teknik bir komut.
 
 #### 📝 İstem
 
 ```
-generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+20 adet match cut içeren, saniyede 2 kesimlik, 10 saniyelik bir klip oluştur. Sinematik ve yüksek enerjili. 16:9 oranında.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="Yüksek Enerjili Match Cut Video">
 
 **[🎬 Videoyu izle →](https://x.com/ViralOps_/status/2085069575700246678)**
 
 **Yazar:** [ViralOps](https://x.com/ViralOps_) | **Kaynak:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **Yayınlandı:** Aug 5, 2026
 
 ---
-### Traditional Sumo Rikishi Scene
+### Geleneksel Sumo Rikishi Sahnesi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+> Mawashi giymiş ve chonmage saç stiline sahip rikishilerin yer aldığı, maç öncesi ritüele odaklanan geleneksel bir Japon sumo güreşi sahnesini betimleyen bir komut.
 
 #### 📝 İstem
 
 ```
-Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+Hakke-yoi! Her biri şık bir mawashi giymiş, başında ise havalı bir chonmage var. Yine de garip bir durum var: Bir rikishi, maçtan önce dohyo üzerinde shikiri yaparken ön kolunu asla yere koymaz.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Geleneksel Sumo Rikishi Sahnesi">
 
 **[🎬 Videoyu izle →](https://x.com/222TT222/status/2085036219894026485)**
 
 **Yazar:** [TakTempest](https://x.com/222TT222) | **Kaynak:** [Link](https://x.com/222TT222/status/2085036219894026485) | **Yayınlandı:** Aug 5, 2026
 
 ---
-### Mechanical Pepper Grinder Mantis Kitchen Duel
+### Mekanik Karabiber Değirmeni Mantis Mutfak Düellosu
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A cinematic macro video prompt for Gemini Omni that depicts a mechanical mantis made of a pepper grinder battling a cockroach on a kitchen counter, complete with a detailed multi-shot timeline.
+> Gemini Omni için, bir mutfak tezgahında hamam böceğiyle savaşan karabiber değirmeninden yapılmış mekanik bir mantisi betimleyen, ayrıntılı çoklu çekim zaman çizelgesi içeren sinematik bir makro video istemi.
 
 #### 📝 İstem
 
 ```
-Macro cinematic lens, the night kitchen countertop is filmed like a vast metal wasteland. Crumbs, salt grains, and herb fragments are scattered like rocks and bushes on the surface. The protagonist is a peculiar 'Pepper Grinder Mantis': the body is a small silver stainless steel pepper grinder, tilted slightly forward vertically, with long real mantis legs growing from the bottom and sides, and two iconic scythe-like predatory forelimbs in front. It has no normal insect head; the main body is the pepper grinder itself, moving cautiously and mechanically.
+Makro sinematik lens; gece mutfak tezgahı, uçsuz bucaksız bir metal çorak arazi gibi çekiliyor. Kırıntılar, tuz taneleri ve ot parçaları yüzeyde kayalar ve çalılar gibi dağılmış durumda. Başrolde tuhaf bir 'Karabiber Değirmeni Mantis' var: gövdesi, hafifçe öne doğru eğilmiş küçük gümüş paslanmaz çelik bir karabiber değirmeni; altından ve yanlarından uzanan uzun gerçek mantis bacakları ve önünde iki ikonik tırpan benzeri avcı ön uzuvları bulunuyor. Normal bir böcek kafası yok; ana gövde, dikkatli ve mekanik bir şekilde hareket eden karabiber değirmeninin kendisi.
 
-A shiny brown cockroach slowly crawls out from behind the shadow of a napkin on the left, quickly approaching the pepper grinder mantis. The air is tense, like a late-night kitchen duel. The pepper grinder mantis suddenly stops, its body rising slightly as if locking onto a target. Then it snaps the top grinding head, emitting a crisp mechanical sound, and a large amount of black pepper fragments spray out from the top and front like a smoke grenade, hitting the cockroach directly.
+Parlak kahverengi bir hamam böceği, soldaki peçetenin gölgesinden yavaşça sürünerek çıkıyor ve hızla karabiber değirmeni mantise yaklaşıyor. Hava, gece yarısı mutfak düellosu gibi gergin. Karabiber değirmeni mantis aniden duruyor, gövdesi bir hedefi kilitliyormuş gibi hafifçe yükseliyor. Ardından üst öğütme başlığını çıtlatıyor, net bir mekanik ses çıkarıyor ve büyük miktarda karabiber parçası, bir sis bombası gibi üstten ve önden püskürerek doğrudan hamam böceğine isabet ediyor.
 
-The cockroach is choked by the pepper, retreating in panic, antennae swinging wildly, feet slipping, and quickly retreats back into the shadow on the left. Fine black pepper particles and a slight powder mist float in the air. The pepper grinder mantis remains in place, forelimbs held high, like a calmly winning night warrior.
+Karabiber yüzünden boğulan hamam böceği panik içinde geri çekiliyor, antenleri çılgınca sallanıyor, ayakları kayıyor ve hızla soldaki gölgeye geri kaçıyor. İnce karabiber parçacıkları ve hafif bir toz bulutu havada süzülüyor. Karabiber değirmeni mantis, ön uzuvları havada, sakin bir şekilde kazanan bir gece savaşçısı gibi yerinde kalıyor.
 
-Timeline Storyboard:
-0–3s: Ultra close-up macro shot. The silver pepper grinder mantis walks slowly on the kitchen counter, surrounded by crumbs, salt, and herbs. Soft reflections on the metal surface, mantis legs move realistically.
-3–6s: In the shadows on the left, a brown cockroach suddenly appears, quickly approaching the mantis. Slight camera follow, creating tension. The two face off briefly in a small open area.
-6–7s: The top of the pepper grinder suddenly rotates quickly, making a mechanical grinding sound. A large amount of black pepper powder bursts out, forming a dense granular black spray, hitting the cockroach head-on.
-7–10s: The cockroach retreats in chaos after being stimulated by the pepper, quickly fleeing into the shadow on the left and disappearing. Black pepper dust floats in the air. The pepper grinder mantis remains still, forelimbs raised, standing guard like a victor.
+Zaman Çizelgesi Hikaye Panosu:
+0–3 sn: Ultra yakın çekim makro görüntüsü. Gümüş karabiber değirmeni mantis, kırıntılar, tuz ve otlarla çevrili mutfak tezgahında yavaşça yürüyor. Metal yüzeyde yumuşak yansımalar, mantis bacakları gerçekçi bir şekilde hareket ediyor.
+3–6 sn: Soldaki gölgelerin içinden aniden kahverengi bir hamam böceği beliriyor ve hızla mantise yaklaşıyor. Hafif kamera takibi gerilimi artırıyor. İkili, küçük bir açık alanda kısa bir süre karşı karşıya geliyor.
+6–7 sn: Karabiber değirmeninin üst kısmı aniden hızla dönüyor ve mekanik bir öğütme sesi çıkarıyor. Büyük miktarda karabiber tozu, yoğun taneli siyah bir sprey oluşturarak patlıyor ve doğrudan hamam böceğine çarpıyor.
+7–10 sn: Karabiberin etkisiyle kaosa sürüklenen hamam böceği, hızla soldaki gölgeye kaçıp gözden kayboluyor. Karabiber tozu havada süzülüyor. Karabiber değirmeni mantis, ön uzuvları havada, bir galip gibi nöbet tutarak hareketsiz kalıyor.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mechanical Pepper Grinder Mantis Kitchen Duel">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mekanik Karabiber Değirmeni Mantis Mutfak Düellosu">
 
 **[🎬 Videoyu izle →](https://x.com/jesselaunz/status/2084153849326309450)**
 
 **Yazar:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Kaynak:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Yayınlandı:** Aug 3, 2026
 
 ---
-### Shark Rock Band Dive Bar Footage
+### Shark Rock Grubu Dalış Barı Görüntüleri
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a gritty, bootleg-style video of a fictional shark rock band performing live in a crowded dive bar atmosphere.
+> Kalabalık bir dalış barı atmosferinde canlı performans sergileyen kurgusal bir köpek balığı rock grubunun, ham ve bootleg tarzı videosunu oluşturur.
 
 #### 📝 İstem
 
 ```
-Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," real sharks somehow balanced on boards and shredding guitars with their fins, hisses a brief hello before tearing into their thrashing single, "Chum Bucket."
+Kalabalık bir bardan bootleg görüntüler: sörf-gürültü grubu "Sharks on Surfboards", sörf tahtaları üzerinde dengede duran ve yüzgeçleriyle gitar çalan gerçek köpek balıkları, kısa bir merhaba dedikten sonra sert parçaları "Chum Bucket" ile ortalığı birbirine katıyor.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Shark Rock Band Dive Bar Footage">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Shark Rock Grubu Dalış Barı Görüntüleri">
 
 **[🎬 Videoyu izle →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
 
 **Yazar:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Kaynak:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **Yayınlandı:** Aug 3, 2026
 
 ---
-### Luxury Toddler Fashion Commercial
+### Lüks Çocuk Modası Reklamı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+> Vahşi ve durdurulamaz olarak tanımlanan lüks bir estetiğe sahip, çocukların yer aldığı üst düzey bir moda reklamı istemi.
 
 #### 📝 İstem
 
 ```
-a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+çocuklar için üst düzey bir moda reklamı, vahşileşen lüks, sevimli ama durdurulamaz.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Lüks Çocuk Modası Reklamı">
 
 **[🎬 Videoyu izle →](https://x.com/ritesh_ai/status/2083525213309042711)**
 
@@ -2874,6 +2884,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-18T08:34:35.235Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-18T12:41:53.025Z</sub>
 
 </div>

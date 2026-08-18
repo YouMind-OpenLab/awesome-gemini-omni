@@ -56,11 +56,11 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Forbidden City Hall Transformation
+### Forbidden City Dragon Transformation
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+> A multi-stage transformation prompt for Gemini Omni Flash that turns the Hall of Supreme Harmony into a Chinese Imperial Dragon using reference images.
 
 #### 📝 Prompt
 
@@ -68,7 +68,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 @Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Dragon Transformation">
 
 **[🎬 Watch Video →](https://x.com/CrazyKaomei/status/2089279848741261762)**
 
@@ -3040,6 +3040,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-18T08:34:13.836Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-18T12:41:25.526Z</sub>
 
 </div>

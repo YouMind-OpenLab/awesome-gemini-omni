@@ -56,330 +56,340 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
-### Forbidden City Hall Transformation
+### 故宫太和殿化龙
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+> 这是一个为 Gemini Omni Flash 设计的多阶段转换提示词，通过参考图像将太和殿转化为中国皇家龙。
 
 #### 📝 提示词
 
 ```
-@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+@Image1 是太和殿的原始图像。 @Image2 定义了批准的中间转换状态。 @Image3 定义了最终的中国皇家龙——宫殿守护者。请创建一个
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="故宫太和殿化龙">
 
 **[🎬 观看视频 →](https://x.com/CrazyKaomei/status/2089279848741261762)**
 
 **作者:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **来源:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **发布时间:** Aug 17, 2026
 
 ---
-### Bolivian Salt Flats Mirror Sunrise
+### 玻利维亚盐沼日出倒影
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+> 一个极简主义视频提示词，描绘了玻利维亚盐沼被水淹没后的日出倒影，留有大量负空间。
 
 #### 📝 提示词
 
 ```
-Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+无缝循环，玻利维亚盐沼被水淹没后的广角静态地平线镜头。一层薄薄的静水完美倒映出天空中缓缓飘动的淡粉色和薰衣草色日出云彩。广阔的负空间，空灵的极简主义。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="玻利维亚盐沼日出倒影">
 
 **[🎬 观看视频 →](https://x.com/genevieve__h/status/2089068330225221876)**
 
 **作者:** [genevieveh@](https://x.com/genevieve__h) | **来源:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **发布时间:** Aug 16, 2026
 
 ---
-### Ghibli Style Koi Pond Loop
+### 吉卜力风格锦鲤池循环动画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+> 一个受吉卜力工作室启发的精美视频提示词，描绘了锦鲤在水彩风格池塘中游动，阳光斑驳洒下的场景。
 
 #### 📝 提示词
 
 ```
-Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+无缝循环，吉卜力工作室水彩动画风格，清澈花园池塘的静态俯视图。色彩斑斓的锦鲤在漂浮的睡莲叶下缓慢游动。柔和的水波纹，阳光透过枫叶洒下斑驳光影，柔和的淡雅色调，宁静的动态氛围。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="吉卜力风格锦鲤池循环动画">
 
 **[🎬 观看视频 →](https://x.com/genevieve__h/status/2089068327691862357)**
 
 **作者:** [genevieveh@](https://x.com/genevieve__h) | **来源:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **发布时间:** Aug 16, 2026
 
 ---
-### Zero Gravity Glass Ribbon Loop
+### 零重力玻璃丝带循环
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+> 一个抽象且具有催眠效果的视频提示词，展示了在黑暗背景下，一条折射光线的玻璃丝带在零重力环境中漂浮。
 
 #### 📝 提示词
 
 ```
-Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+无缝循环，固定机位视角，一条透明且具有折射效果的玻璃丝带在黑曜石般的背景中于零重力下缓慢起伏。边缘带有微妙的色差，柔和的焦散效果，动作缓慢而催眠，留有大量负空间以供 UI 使用。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="零重力玻璃丝带循环">
 
 **[🎬 观看视频 →](https://x.com/genevieve__h/status/2089068325493944435)**
 
 **作者:** [genevieveh@](https://x.com/genevieve__h) | **来源:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **发布时间:** Aug 16, 2026
 
 ---
-### Double-Exposure Silhouette Forest Loop
+### 双重曝光剪影森林循环视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+> 一个超现实的双重曝光视频提示词，展示了人物深色剪影中若隐若现的雾气松林。
 
 #### 📝 提示词
 
 ```
-Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+无缝循环。画面为人物侧面剪影的静态固定镜头，背景为柔和、朦胧的骨白色。双重曝光效果：在深色剪影内部，可见茂密的太平洋西北地区松林，层层白色的山间雾气在其中缓慢飘动。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="双重曝光剪影森林循环视频">
 
 **[🎬 观看视频 →](https://x.com/genevieve__h/status/2089068323132649758)**
 
 **作者:** [genevieveh@](https://x.com/genevieve__h) | **来源:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **发布时间:** Aug 16, 2026
 
 ---
-### Underwater Kelp Forest Video Loop
+### 水下海带森林循环视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+> 一段宁静的视频提示词，用于制作水下海带森林的无缝循环画面，阳光透过绿松石色的海水倾泻而下。
 
 #### 📝 提示词
 
 ```
-Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+无缝循环，温带海带森林的静态广角水下视角。高大的琥珀色海带叶片在缓慢而催眠的洋流中摇曳，戏剧性的金色阳光如神圣光束般穿透水面，射入清澈的绿松石色海水中。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="水下海带森林循环视频">
 
 **[🎬 观看视频 →](https://x.com/genevieve__h/status/2089068314764997056)**
 
 **作者:** [genevieveh@](https://x.com/genevieve__h) | **来源:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **发布时间:** Aug 16, 2026
 
 ---
-### Cinematic Miniature Disaster Scene VFX
+### 电影级微缩灾难场景 VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+> 一份用于在 VFX 工作室环境中生成电影级微缩灾难场景的详细提示词，包含逼真的水体物理效果和专业灯光。
 
 #### 📝 提示词
 
 ```
-Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+在大型专业好莱坞 VFX 工作室内创建一个超逼真的电影级微缩灾难场景。
+
+展示一个高度精细的微缩现代沿海大都市，包含摩天大楼、道路、桥梁、滨水建筑、车辆和船只。一股巨大的逼真海浪向城市袭来，产生符合物理规律的洪水、泡沫、水雾、水面反射和碎片效果。
+
+在微缩模型周围加入专业的 VFX 工作人员、电影摄像机、灯光设备和工作室器材，营造出真实的幕后实拍特效感。
+
+照片级真实感、逼真的微缩比例、电影级灯光、自然阴影、精细纹理、逼真的水体物理效果、浅景深、专业电影摄像机、平滑的运镜、戏剧性的氛围、好莱坞灾难片 VFX 质量，9:16 竖屏格式。
+
+确保视频中建筑、环境和比例的一致性。
+
+避免：卡通、CGI 感视觉效果、扭曲的人物、多余的肢体、变形的建筑、闪烁、不真实的水体、随机物体、文字、Logo、水印。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="电影级微缩灾难场景 VFX">
 
 **[🎬 观看视频 →](https://x.com/AiwithBloodline/status/2088473623694921736)**
 
 **作者:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **来源:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **发布时间:** Aug 15, 2026
 
 ---
-### Professional Boxer Daily Routine Sequence
+### 职业拳击手日常训练序列
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy cinematic prompt for Gemini Omni that creates a 15-second day-in-the-life sequence of a Japanese boxer.
+> 一个为 Gemini Omni 设计的高能电影感提示词，用于创作一段 15 秒的日本拳击手生活片段。
 
 #### 📝 提示词
 
 ```
-Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a  young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his  hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+请使用参考图像。创作一段 15 秒的高能“我的生活一天”序列，主角是一位年轻的日本男性职业拳击手。0–3 秒：黎明前的东京，他在凌晨 5:00 起床，洗头，系好拳击鞋，并精准地缠好手带。3–6 秒：他开始在安静的街道上进行高强度户外跑步，寒冷的晨气中可见呼出的白气，神情坚定。6–9 秒：在粗犷的拳击馆内，他快速进行空击练习并击打沙袋，动作组合强劲，步法和汗水表现真实。9–12 秒：拳套击打沙袋的极度特写，汗珠飞溅，肌肉随着每一次出拳自然紧绷。12–15 秒：他以快速跳绳训练结束，呼吸沉重，随后自信地看向镜头。超写实皮肤、汗水、头发运动和织物物理效果，地道的拳击技术，动态手持摄像，快速追踪镜头，自然的运动模糊，戏剧性的拳击馆灯光，逼真的阴影，电影级景深，4K 画质，物理上可信的动作，无 CGI 感。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Professional Boxer Daily Routine Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="职业拳击手日常训练序列">
 
 **[🎬 观看视频 →](https://x.com/AiwithBloodline/status/2087843492257243460)**
 
 **作者:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **来源:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **发布时间:** Aug 13, 2026
 
 ---
-### Continuous Shot Anime Mask Overlay
+### 连续镜头动漫面具叠加效果
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic video prompt for Gemini Omni that creates a single continuous shot of a subject using hand gestures to trigger dynamic anime-style facial overlays and masks with synchronized audio descriptions.
+> 这是一个为 Gemini Omni 设计的复杂电影级视频提示词，旨在通过手势触发动态动漫风格的面部叠加和面具，并配合同步音频描述，创作出单一的连续镜头。
 
 #### 📝 提示词
 
 ```
-Generate a single continuous shot.\n\n{ "setting": "Cozy minimalist indoor studio room with off-white walls and dark wood accents", \n  "lighting": "Soft diffused warm cove lighting with subtle side fill", \n  "weather": "Indoor ambient", \n  "color_grade": "Warm natural tones with high-contrast digital overlay pops" }\n\n[SUBJECT ANCHOR — reiterate character visual descriptors]:\nThe young East Asian man with long straight black hair wearing a dark grey hooded windbreaker jacket with visible drawstrings.\n\n[00:00-00:02]: The young East Asian man in the dark grey hooded jacket holds her hood drawstrings near her chin, then smoothly raises both hands, expanding her fingers to form a crisp rectangular geometric frame in front of her eyes. Inside the hand frame, a dynamic 2D cel-shaded anime eye graphic instantly pops into view overlaying her real eyes.\n[00:02-00:04]: She shifts her hand frame downward across her cheek, changing the framing angle to reveal a sharp, manga-style eye and eyebrow graphic overlay that tracks locked between her fingers.\n[00:04-00:06]: Moving her hands upward in a rhythmic motion, a stylized 2D anime smiling mouth graphic appears inside a new lower-face hand cutout frame, matching her head angle.\n[00:06-00:08]: She restructures her gesture, using index fingers to point diagonally across her eyes and nose region, creating a triangular hand frame that displays a vivid triangular vector anime mask filter over her upper face.\n[00:08-00:10]: She flips the triangular hand frame smoothly to the opposite angle over her lower face, holding a horizontal anime artwork banner overlay between her fingertips as the clip holds.\n\n🎤 VOICE PERFORMANCE:\nNo spoken dialogue in this opening segment. The audio performance is anchored by the rhythmic atmosphere of the musical build-up, synced to snappy, clean UI movement sounds.\n\nAmbient: Quiet residential room acoustics with soft low-end air resonance.\nFoley: Sharp digital swoosh and UI snap effects frame-locked precisely to each hand expansion and overlay state shift at 01s, 03s, 05s, 07s, and 09s.\nMusic: High-energy electro-pop/cyberpunk synth melody building in rhythm and intensity.
+生成一个单一的连续镜头。\n\n{ "场景": "温馨简约的室内工作室，配有灰白色墙壁和深色木质装饰", \n  "光效": "柔和的漫射暖色暗槽灯光，带有微妙的侧面补光", \n  "天气": "室内环境", \n  "调色": "温暖的自然色调，带有高对比度的数字叠加效果" }\n\n[主体锚点 — 重申角色视觉描述]：\n一位留着黑色长直发的年轻东亚男性，身穿深灰色连帽防风外套，带有明显的抽绳。\n\n[00:00-00:02]：身穿深灰色连帽外套的年轻东亚男性将连帽抽绳拉至下巴附近，随后平滑地抬起双手，手指张开，在眼前形成一个清晰的矩形几何框架。在手部框架内，一个动态的 2D 赛璐珞风格动漫眼睛图形瞬间弹出，叠加在她的真实眼睛上。\n[00:02-00:04]：她将手部框架向下移动至脸颊，改变框架角度，显现出一个锐利的漫画风格眼睛和眉毛图形叠加层，并锁定在手指之间。\n[00:04-00:06]：随着手部有节奏地向上移动，一个风格化的 2D 动漫微笑嘴部图形出现在新的下脸部手部剪影框内，并与她的头部角度保持一致。\n[00:06-00:08]：她调整手势，用食指斜向指向眼睛和鼻子区域，形成一个三角形手部框架，在她的上半脸显示出一个生动的三角形矢量动漫面具滤镜。\n[00:08-00:10]：她将三角形手部框架平滑地翻转到相反的角度，覆盖在下半脸，指尖之间夹着一个水平的动漫艺术横幅叠加层，画面保持静止。\n\n🎤 配音表现：\n此开场片段无口头对话。音频表现以音乐节奏的递进为核心，与清脆利落的 UI 移动音效同步。\n\n环境音：安静的住宅房间声学效果，带有柔和的低频空气共鸣。\n拟音：尖锐的数字呼啸声和 UI 咔哒声，与 01 秒、03 秒、05 秒、07 秒和 09 秒时的每次手部扩张及叠加状态切换精确同步。\n音乐：高能量的电子流行/赛博朋克合成器旋律，节奏与强度不断增强。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Continuous Shot Anime Mask Overlay">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="连续镜头动漫面具叠加效果">
 
 **[🎬 观看视频 →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
 
 **作者:** [Aryan](https://x.com/Aryan_Ali_Pro) | **来源:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **发布时间:** Aug 12, 2026
 
 ---
-### Garden Squirrel Yard Sale
+### 花园松鼠庭院旧货甩卖
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A whimsical prompt for Gemini Omni depicting a squirrel hosting a sale in a garden.
+> 一个为 Gemini Omni 准备的奇思妙想提示词，描绘了一只在花园里举办旧货甩卖的松鼠。
 
 #### 📝 提示词
 
 ```
-Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+松鼠因缺钱而在花园里举办了一场旧货甩卖，出售许多珍贵的物品
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Garden Squirrel Yard Sale">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="花园松鼠庭院旧货甩卖">
 
 **[🎬 观看视频 →](https://x.com/SilverAIProject/status/2087298245747683578)**
 
 **作者:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **来源:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **发布时间:** Aug 11, 2026
 
 ---
-### Sneaky Cat Food Theft
+### 调皮猫咪偷食记
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous narrative prompt for Gemini Omni featuring a cat stealing food and charming its owner.
+> 一个为 Gemini Omni 准备的幽默叙事提示词，讲述了一只猫偷吃食物并向主人撒娇的故事。
 
 #### 📝 提示词
 
 ```
-Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+一只狡黠的黑白花猫偷偷溜去偷吃玳瑁猫的食物，同时用迷人的呼噜声讨好家里的女主人
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Sneaky Cat Food Theft">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="调皮猫咪偷食记">
 
 **[🎬 观看视频 →](https://x.com/SilverAIProject/status/2087295479335751880)**
 
 **作者:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **来源:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **发布时间:** Aug 11, 2026
 
 ---
-### Business Dashboard Review
+### 业务仪表盘回顾
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+> 一个为 Gemini Omni 设计的写实办公场景提示词，展示了一位企业主正在查看 AI 仪表盘。
 
 #### 📝 提示词
 
 ```
-A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+一位企业主正在明亮的现代办公室中查看 AI 仪表盘。中景镜头。缓慢变焦。温暖的自然光。专注的氛围。写实风格。高质量视频。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="业务仪表盘回顾">
 
 **[🎬 观看视频 →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
 
 **作者:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **来源:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **发布时间:** Aug 11, 2026
 
 ---
-### Crystalline Frozen Water Droplet World
+### 晶莹剔透的冰封水滴世界
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+> 这是一个为 Gemini Omni 准备的详细视频提示词，旨在通过慢动作视觉化呈现一颗水滴转化为包含晶体森林和冰崖的复杂冰封景观的过程。
 
 #### 📝 提示词
 
 ```
-A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+画面背景为纯黑色。一颗清澈的水滴从上方缓慢落下，撞击在隐形的表面上，向外扩散出完美的圆形涟漪和晶莹的飞溅水花。摄像机保持完全静止，锁定在这一流体之舞上。随着后续水滴的汇入，扩散的水流微妙地重塑为高耸的冰崖、层叠的瀑布以及由霜雪构成的晶体森林。柔和的绿松石色与银色光芒穿透液体，将整个场景转化为一个发光的冰封瀑布王国。最后一秒定格在完成的晶体世界，画面完全静止。风格：抽象美学 | 流体运动 | 晶体转化 摄像机：静态微距 → 缓慢呈现 时长：10 秒 灯光：冷色调轮廓光，高清晰度，空灵光晕
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="晶莹剔透的冰封水滴世界">
 
 **[🎬 观看视频 →](https://x.com/MrDasOnX/status/2087219303926124787)**
 
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **发布时间:** Aug 11, 2026
 
 ---
-### Hand Plucking Star from Night Sky Prompt
+### “摘星”提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
+> 一个超现实的第一人称视角图像提示词，描绘了一只手伸向夜空摘取一颗发光星星的场景。
 
 #### 📝 提示词
 
 ```
-First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
+第一人称视角，一只人手伸向深邃的夜空，像摘水果一样从黑暗中轻巧地摘下一颗发光的星星。深海军蓝色的天空，闪烁的星光，超现实的强制透视比例，
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="“摘星”提示词">
 
 **[🎬 观看视频 →](https://x.com/TheChuksAi/status/2087042640453738616)**
 
 **作者:** [ChuksAi](https://x.com/TheChuksAi) | **来源:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **发布时间:** Aug 11, 2026
 
 ---
-### Ember and the Firefly Storyboard Shot 1
+### Ember and the Firefly 分镜脚本镜头 1
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
+> “Ember and the Firefly” 电影级演示的开场镜头，展示了一个广角推镜头，捕捉角色在发现一只发光的萤火虫时瞬间静止的画面。
 
 #### 📝 提示词
 
 ```
-EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
+EMBER AND THE FIREFLY 分镜脚本 — 8 秒镜头列表
 
-SHOT 1 | THE SPARK (0:00–1:3s)
-Cam: Static wide, slow push-in.
-Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
-Sound: Forest hush, soft chime on the glow.
+镜头 1 | 火花 (0:00–1:3s)
+摄像机：固定广角，缓慢推入。
+动作：Ember 迈步中途突然静止，双耳转向一只发光的萤火虫。
+音效：森林寂静，萤火虫发光时伴有柔和的铃音。
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
+<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly 分镜脚本镜头 1">
 
 **[🎬 观看视频 →](https://x.com/Gre8tDan/status/2086787909399572802)**
 
 **作者:** [Great Dan 🥥](https://x.com/Gre8tDan) | **来源:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **发布时间:** Aug 10, 2026
 
 ---
-### Bouncing Strawberry Jello Pool
+### Q 弹草莓果冻池
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
+> 一段高度精细的电影级视频提示词，描述了一个半透明红宝石色草莓果冻池，其中包含一个弹跳的果冻草莓，强调质感与物理效果。
 
 #### 📝 提示词
 
 ```
-A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
+一个由半透明红宝石色草莓果冻构成的奢华游泳池，背景为从白色到淡粉色的无缝渐变。一个由同样光泽果冻雕刻而成的巨型写实草莓从池中心升起，缓慢向上弹跳，随后落回表面，激起优美的同心果冻波纹和柔和的飞溅效果。细小的半透明果冻液滴在空中拉伸，捕捉着摄影棚的灯光。镜头从光泽果冻质感的微距特写开始，随着草莓升起平滑拉远，随后在草莓落下时轻柔推近。呈现逼真的明胶变形、晃动、拉伸、柔和弹跳、液体般的表面涟漪，以及令人信服的半透明感和次表面散射效果。高端艺术指导下的美食摄影，极简摄影棚构图，令人着迷的 ASMR 美学，电影级平滑运镜，单次连续拍摄，时长精确 10 秒，无文字，无 Logo。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Q 弹草莓果冻池">
 
 **[🎬 观看视频 →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **发布时间:** Aug 10, 2026
 
 ---
-### Treehouse Interior Detailing Motion Prompt
+### 树屋室内细节动态提示词
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+> 用于微型树屋建造延时摄影中，绘画与室内细节处理阶段的动态提示词。
 
 #### 📝 提示词
 
 ```
-Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+以“动态提示词 4”中完全完工的树屋外观作为起始帧。必须保持建筑、屋顶、窗户、阳台、树木、环境及比例完全一致。
 
-Create an ultra fast timelapse
+制作一个超快速的延时摄影
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="树屋室内细节动态提示词">
 
 **[🎬 观看视频 →](https://x.com/Strength04_X/status/2086644591089041676)**
 
@@ -390,14 +400,14 @@ Create an ultra fast timelapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+> 一个 Gemini Omni 动态提示词，用于以超快延时摄影效果呈现树屋地基的建造过程，同时保持视觉一致性。
 
 #### 📝 提示词
 
 ```
-Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+使用“First Frame Image”作为确切的起始帧，并保持相同的树木、树枝、环境、微缩比例、材质、光照、摄像机风格和视觉特征。
 
-Create an ultra fast timelapse speed construction
+创建超快延时摄影速度的建造过程
 ```
 
 <img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
@@ -407,264 +417,264 @@ Create an ultra fast timelapse speed construction
 **作者:** [𝐌](https://x.com/Strength04_X) | **来源:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **发布时间:** Aug 10, 2026
 
 ---
-### Anime Style Pandan Flour Pressing
+### 动漫风格斑斓粉压制
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+> 一个用于 Gemini Omni 的 2D 动漫风格提示词，描述了将斑斓米粉团压入液氮中以产生奇幻视觉效果的手部动作。
 
 #### 📝 提示词
 
 ```
-A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+日式动漫风格 2D 动画特写视频。手绘动漫风格的手将鲜艳的绿色斑斓米粉团通过传统压制工具挤入一碗液氮中，营造出奇幻的冷蒸汽云雾和闪烁的蒸汽效果。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="动漫风格斑斓粉压制">
 
 **[🎬 观看视频 →](https://x.com/playinbey/status/2085826420287418413)**
 
 **作者:** [PLAY!](https://x.com/playinbey) | **来源:** [Link](https://x.com/playinbey/status/2085826420287418413) | **发布时间:** Aug 7, 2026
 
 ---
-### Dread and Foreboding Image-to-Video
+### 恐惧与不祥之感的图生视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+> 一个旨在将静态图像转化为充满恐惧与不祥氛围的动态视频场景的提示词，并运用了多种镜头语言。
 
 #### 📝 提示词
 
 ```
-Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+基于此图像创建一个有趣的场景，通过多种镜头切换和动态构图，营造出一种恐惧与不祥的氛围。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="恐惧与不祥之感的图生视频">
 
 **[🎬 观看视频 →](https://x.com/pzf_ai/status/2085736211625230529)**
 
 **作者:** [PZF](https://x.com/pzf_ai) | **来源:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **发布时间:** Aug 7, 2026
 
 ---
-### Cherry Blossom Tree Gel Sculpture
+### 樱花树凝胶雕塑
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+> 一个为 Gemini Omni 设计的电影级微距提示词，旨在呈现发光凝胶从管中挤出并转化为精致微型樱花树的视觉效果。
 
 #### 📝 提示词
 
 ```
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
-Style:
-Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+一只写实的手缓慢挤压着一支带有抛光喷嘴的时尚金属管。流出的不是普通膏体，而是一种晶莹剔透、散发着柔和光芒的凝胶。随着材料涌出，它以连贯的动作层层演变，有机地转化为一棵精雕细琢的微型“樱花树”。纤细的树干首先升起，随后是优雅的分支，绽放出数百朵微小的半透明樱花，整个过程浑然一体，流畅自然。
+成品微缩模型呈现出光泽感，略带半透明，质地柔软且富有弹性，在稳定前有轻微的晃动感。花朵在静止前微微颤动，细小的光点在光滑的凝胶表面游走。柔和的内光透过每一根枝条和花瓣弥漫开来，营造出优雅的高级玻璃质感。
+物体放置在深色哑光石面上，装饰着精致的水珠，增强了真实感和反射效果。
+风格：
+超微距摄影
+超写实 CGI
+电影级摄影棚灯光
+极浅景深
+丰富的反射效果
+高端产品商业美学
+平滑的连续变形
+清晰的纹理
+照片级真实材质
+8K 画质
+竖屏 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
-Negative Prompt:
-Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+无文字
+无镜头移动
+无背景干扰
+负面提示词：
+低画质、卡通、动漫、细节缺失、塑料感、颗粒感、噪点、闪烁、几何结构破损、形状变形、多余物体、文字、水印、Logo、色彩过饱和、不真实灯光、镜头抖动、运动模糊、背景杂乱。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="樱花树凝胶雕塑">
 
 **[🎬 观看视频 →](https://x.com/Strength04_X/status/2085703642037018819)**
 
 **作者:** [𝐌](https://x.com/Strength04_X) | **来源:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **发布时间:** Aug 7, 2026
 
 ---
-### Jelly Octopus Macro Transformation
+### 果冻章鱼微距变形
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
+> 一个为 Gemini Omni 设计的高细节微距摄影提示词，描绘了发光凝胶变形为弹性果冻章鱼的过程。
 
 #### 📝 提示词
 
 ```
-Extreme close-up macro cinematography. 
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+极致特写微距摄影。
+一只写实的真手缓慢挤压着一个带有抛光喷嘴的金属管。流出的不是普通膏体，而是一种晶莹剔透、散发柔和光芒的凝胶。随着材料涌出，它有机地变形为一个精致的“Jelly Octopus”，在连续的动作中逐层成型。
+成品微缩模型外观光亮、半透明、柔软且富有弹性，在自然静止前有轻微的晃动感。其圆润的头部轻轻弹跳，细小的触须柔和地起伏并展现出栩栩如生的弹性。微小的光点在其光滑表面游走，内部光线在凝胶中柔和漫射，营造出优雅的高级质感。
+物体放置在深色哑光石面上，表面装饰着精致的水珠，增强了真实感和反射效果。
 
-Style: Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+风格：超微距摄影
+超写实 CGI
+电影级影棚灯光
+极浅景深
+丰富的反射效果
+高端商业广告美学
+平滑的连续变形
+清晰的纹理
+照片级材质
+8K 画质
+竖屏 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
+无文字
+无镜头移动
+无背景干扰
 
-Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+负面提示词：低质量、卡通、动漫、细节不足、塑料感、颗粒感、噪点、闪烁、几何结构破损、形状畸变、多余物体、文字、水印、Logo、色彩过饱和、灯光不真实、镜头抖动、运动模糊、背景杂乱。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="果冻章鱼微距变形">
 
 **[🎬 观看视频 →](https://x.com/Strength04_X/status/2085559452481261606)**
 
 **作者:** [𝐌](https://x.com/Strength04_X) | **来源:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **发布时间:** Aug 7, 2026
 
 ---
-### Prehistoric Caveman Rock Concert
+### 史前穴居人摇滚音乐会
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+> 一段纪录片风格的视频提示词，展示了史前人类在恐龙环绕的舞台上举办音乐会。
 
 #### 📝 提示词
 
 ```
-A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+以史前时代为背景的音乐会场景。舞台上有穴居人和史前人类，他们用听不懂的语言歌唱。恐龙也在周围漫步。拥挤的人群正在观看这场音乐会。拍摄将采用多镜头，应具有自然且类似纪录片的摄像感。视觉风格应为超写实主义。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="史前穴居人摇滚音乐会">
 
 **[🎬 观看视频 →](https://x.com/ozansihay/status/2085420070952649179)**
 
 **作者:** [Ozan Sihay](https://x.com/ozansihay) | **来源:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **发布时间:** Aug 6, 2026
 
 ---
-### Ink Splash to Landscape Painting
+### 水墨飞溅化作山水画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+> 这是一个为 Gemini Omni 设计的描述性提示词，旨在呈现黑色墨滴在白色背景上转化为彩色微缩山水画的视觉效果，并带有电影级的慢动作质感。
 
 #### 📝 提示词
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
-Style: abstract beauty | fluid motion | artistic transformation
-Camera: static macro → slow reveal
-Length: 10 seconds
-Lighting: soft studio light, high clarity
+纯白背景铺满画面。浓稠的黑色墨滴以慢动作落下，如花朵绽放般向外飞溅。镜头保持绝对静止，聚焦于流动的形态。随着墨迹扩散，形状微妙地转化为山峦、河流与树木。色彩随之渗入——深邃的蓝与绿——直至墨迹完全化作一幅微缩山水画。最后一秒定格在完成后的世界，画面静止不动。
+风格：抽象之美 | 流体运动 | 艺术化蜕变
+镜头：静态微距 → 缓慢呈现
+时长：10 秒
+光效：柔和摄影棚光，高清晰度
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="水墨飞溅化作山水画">
 
 **[🎬 观看视频 →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **发布时间:** Aug 6, 2026
 
 ---
-### High-Energy Match Cut Video
+### 高能匹配剪辑视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+> 一个用于生成快节奏 10 秒视频的技术提示词，要求以每秒两次的频率进行高能匹配剪辑，并采用 16:9 的电影级画幅比例。
 
 #### 📝 提示词
 
 ```
-generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+生成一个 10 秒的视频片段，包含 20 次匹配剪辑，即每秒 2 次剪辑。要求具有电影感和高能量，比例为 16:9。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="高能匹配剪辑视频">
 
 **[🎬 观看视频 →](https://x.com/ViralOps_/status/2085069575700246678)**
 
 **作者:** [ViralOps](https://x.com/ViralOps_) | **来源:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **发布时间:** Aug 5, 2026
 
 ---
-### Traditional Sumo Rikishi Scene
+### 传统相扑力士场景
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+> 一个描绘传统日本相扑比赛场景的提示词，展示了身着兜裆布（mawashi）并留着丁髷（chonmage）发型的力士，重点刻画赛前的仪式感。
 
 #### 📝 提示词
 
 ```
-Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+Hakke-yoi！每位力士都穿着精致的兜裆布（mawashi），头上梳着帅气的丁髷（chonmage）。然而，有一件奇怪的事：力士在比赛前绝不会将前臂放在土俵（dohyo）的蹲踞线（shikiri）上。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="传统相扑力士场景">
 
 **[🎬 观看视频 →](https://x.com/222TT222/status/2085036219894026485)**
 
 **作者:** [TakTempest](https://x.com/222TT222) | **来源:** [Link](https://x.com/222TT222/status/2085036219894026485) | **发布时间:** Aug 5, 2026
 
 ---
-### Mechanical Pepper Grinder Mantis Kitchen Duel
+### 机械胡椒研磨器螳螂：厨房对决
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A cinematic macro video prompt for Gemini Omni that depicts a mechanical mantis made of a pepper grinder battling a cockroach on a kitchen counter, complete with a detailed multi-shot timeline.
+> 这是一个为 Gemini Omni 设计的电影级微距视频提示词，描绘了一只由胡椒研磨器制成的机械螳螂在厨房台面上与蟑螂对决的场景，并附带详细的多镜头时间轴。
 
 #### 📝 提示词
 
 ```
-Macro cinematic lens, the night kitchen countertop is filmed like a vast metal wasteland. Crumbs, salt grains, and herb fragments are scattered like rocks and bushes on the surface. The protagonist is a peculiar 'Pepper Grinder Mantis': the body is a small silver stainless steel pepper grinder, tilted slightly forward vertically, with long real mantis legs growing from the bottom and sides, and two iconic scythe-like predatory forelimbs in front. It has no normal insect head; the main body is the pepper grinder itself, moving cautiously and mechanically.
+微距电影镜头，深夜的厨房台面被拍摄得如同广阔的金属荒原。面包屑、盐粒和香草碎片散落在表面，宛如岩石和灌木。主角是一只奇特的“胡椒研磨器螳螂”：身体是一个小型银色不锈钢胡椒研磨器，垂直略微前倾，底部和侧面长着真实的螳螂长腿，前方则有两只标志性的镰刀状捕食前肢。它没有正常的昆虫头部；主体就是研磨器本身，动作谨慎而机械。
 
-A shiny brown cockroach slowly crawls out from behind the shadow of a napkin on the left, quickly approaching the pepper grinder mantis. The air is tense, like a late-night kitchen duel. The pepper grinder mantis suddenly stops, its body rising slightly as if locking onto a target. Then it snaps the top grinding head, emitting a crisp mechanical sound, and a large amount of black pepper fragments spray out from the top and front like a smoke grenade, hitting the cockroach directly.
+一只油亮的棕色蟑螂从左侧餐巾纸的阴影后缓缓爬出，迅速靠近胡椒研磨器螳螂。空气中弥漫着紧张的气氛，仿佛一场深夜的厨房对决。胡椒研磨器螳螂突然停下，身体微微抬起，仿佛锁定了目标。随后，它猛地转动顶部的研磨头，发出清脆的机械声，大量的黑胡椒碎屑从顶部和前方喷涌而出，如同烟雾弹一般直接击中蟑螂。
 
-The cockroach is choked by the pepper, retreating in panic, antennae swinging wildly, feet slipping, and quickly retreats back into the shadow on the left. Fine black pepper particles and a slight powder mist float in the air. The pepper grinder mantis remains in place, forelimbs held high, like a calmly winning night warrior.
+蟑螂被胡椒呛到，惊慌失措地后退，触角疯狂摆动，脚下打滑，迅速退回左侧的阴影中。细小的黑胡椒颗粒和轻微的粉尘雾气在空气中飘浮。胡椒研磨器螳螂保持原位，前肢高举，宛如一位冷静获胜的暗夜战士。
 
-Timeline Storyboard:
-0–3s: Ultra close-up macro shot. The silver pepper grinder mantis walks slowly on the kitchen counter, surrounded by crumbs, salt, and herbs. Soft reflections on the metal surface, mantis legs move realistically.
-3–6s: In the shadows on the left, a brown cockroach suddenly appears, quickly approaching the mantis. Slight camera follow, creating tension. The two face off briefly in a small open area.
-6–7s: The top of the pepper grinder suddenly rotates quickly, making a mechanical grinding sound. A large amount of black pepper powder bursts out, forming a dense granular black spray, hitting the cockroach head-on.
-7–10s: The cockroach retreats in chaos after being stimulated by the pepper, quickly fleeing into the shadow on the left and disappearing. Black pepper dust floats in the air. The pepper grinder mantis remains still, forelimbs raised, standing guard like a victor.
+时间轴分镜：
+0–3 秒：超近景微距镜头。银色胡椒研磨器螳螂在厨房台面上缓慢行走，周围环绕着面包屑、盐粒和香草。金属表面有柔和的反光，螳螂腿移动得非常真实。
+3–6 秒：左侧阴影中，一只棕色蟑螂突然出现，迅速靠近螳螂。镜头轻微跟随，营造紧张感。两者在小片空地上短暂对峙。
+6–7 秒：胡椒研磨器顶部突然快速旋转，发出机械研磨声。大量黑胡椒粉喷涌而出，形成浓密的颗粒状黑色喷雾，正面击中蟑螂。
+7–10 秒：蟑螂受胡椒刺激后陷入混乱，迅速逃回左侧阴影中消失不见。黑胡椒粉尘在空气中飘浮。胡椒研磨器螳螂保持静止，前肢高举，像胜利者一样守卫着阵地。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mechanical Pepper Grinder Mantis Kitchen Duel">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="机械胡椒研磨器螳螂：厨房对决">
 
 **[🎬 观看视频 →](https://x.com/jesselaunz/status/2084153849326309450)**
 
 **作者:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **来源:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **发布时间:** Aug 3, 2026
 
 ---
-### Shark Rock Band Dive Bar Footage
+### 鲨鱼摇滚乐队在潜水酒吧的演出录像
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a gritty, bootleg-style video of a fictional shark rock band performing live in a crowded dive bar atmosphere.
+> 生成一段充满颗粒感的盗录风格视频，展现一支虚构的鲨鱼摇滚乐队在拥挤的潜水酒吧中进行现场表演。
 
 #### 📝 提示词
 
 ```
-Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," real sharks somehow balanced on boards and shredding guitars with their fins, hisses a brief hello before tearing into their thrashing single, "Chum Bucket."
+来自拥挤酒吧的盗录画面：冲浪噪音乐队“Sharks on Surfboards”，真正的鲨鱼以某种方式平衡在冲浪板上，用鳍弹奏着吉他。它们简短地打了个招呼，随即开始演奏那首狂野的单曲《Chum Bucket》。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Shark Rock Band Dive Bar Footage">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="鲨鱼摇滚乐队在潜水酒吧的演出录像">
 
 **[🎬 观看视频 →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
 
 **作者:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **来源:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **发布时间:** Aug 3, 2026
 
 ---
-### Luxury Toddler Fashion Commercial
+### 高端幼儿时尚广告
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+> 一个高端时尚广告提示词，展现幼儿在奢华美学下的野性与不可阻挡的魅力。
 
 #### 📝 提示词
 
 ```
-a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+一个高端幼儿时尚广告，奢华而狂野，可爱却势不可挡。
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="高端幼儿时尚广告">
 
 **[🎬 观看视频 →](https://x.com/ritesh_ai/status/2083525213309042711)**
 
@@ -2904,6 +2914,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-18T08:34:15.374Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-18T12:41:26.831Z</sub>
 
 </div>

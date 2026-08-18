@@ -56,615 +56,625 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### Forbidden City Hall Transformation
+### Biến hình Rồng tại Tử Cấm Thành
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+> Một câu lệnh (prompt) biến hình đa giai đoạn dành cho Gemini Omni Flash, giúp chuyển đổi Điện Thái Hòa thành một con Rồng Hoàng gia Trung Hoa dựa trên các hình ảnh tham chiếu.
 
 #### 📝 Prompt
 
 ```
-@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+@Image1 là hình ảnh gốc chính xác của Điện Thái Hòa. @Image2 xác định giai đoạn biến hình trung gian đã được phê duyệt. @Image3 xác định hình ảnh cuối cùng là Rồng Hoàng gia Trung Hoa - Người bảo vệ Cung điện. Hãy tạo một
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Biến hình Rồng tại Tử Cấm Thành">
 
 **[🎬 Xem video →](https://x.com/CrazyKaomei/status/2089279848741261762)**
 
 **Tác giả:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Nguồn:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Đã xuất bản:** Aug 17, 2026
 
 ---
-### Bolivian Salt Flats Mirror Sunrise
+### Bình minh phản chiếu trên cánh đồng muối Bolivia
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+> Một gợi ý video tối giản về cảnh bình minh phản chiếu trên cánh đồng muối ngập nước tại Bolivia với không gian âm rộng lớn.
 
 #### 📝 Prompt
 
 ```
-Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+Vòng lặp liền mạch, cảnh quay góc rộng tĩnh lặng trên cánh đồng muối ngập nước tại Bolivia. Một lớp nước mỏng phẳng lặng phản chiếu hoàn hảo những đám mây bình minh màu hồng phấn và tím nhạt trôi nhẹ nhàng trên bầu trời. Không gian âm rộng lớn, phong cách tối giản đầy chất thơ.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bình minh phản chiếu trên cánh đồng muối Bolivia">
 
 **[🎬 Xem video →](https://x.com/genevieve__h/status/2089068330225221876)**
 
 **Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Đã xuất bản:** Aug 16, 2026
 
 ---
-### Ghibli Style Koi Pond Loop
+### Vòng lặp hồ cá Koi phong cách Ghibli
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+> Một video prompt tuyệt đẹp lấy cảm hứng từ Studio Ghibli, mô tả những chú cá Koi đang bơi trong hồ nước màu nước với ánh nắng lốm đốm.
 
 #### 📝 Prompt
 
 ```
-Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+Vòng lặp liền mạch, góc nhìn từ trên xuống tĩnh lặng của một hồ nước trong vườn theo phong cách anime màu nước của Studio Ghibli. Những chú cá Koi đầy màu sắc đang chậm rãi bơi vòng quanh dưới những lá súng trôi nổi. Gợn nước nhẹ nhàng, ánh nắng lốm đốm xuyên qua tán lá phong, tông màu pastel dịu nhẹ, chuyển động tĩnh lặng đầy thư thái.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Vòng lặp hồ cá Koi phong cách Ghibli">
 
 **[🎬 Xem video →](https://x.com/genevieve__h/status/2089068327691862357)**
 
 **Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Đã xuất bản:** Aug 16, 2026
 
 ---
-### Zero Gravity Glass Ribbon Loop
+### Dải ruy băng thủy tinh không trọng lực
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+> Một video prompt trừu tượng đầy mê hoặc về dải ruy băng thủy tinh khúc xạ trôi nổi trong môi trường không trọng lực trên nền tối.
 
 #### 📝 Prompt
 
 ```
-Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+Vòng lặp liền mạch, góc máy cố định quay cảnh dải ruy băng thủy tinh trong suốt, khúc xạ đang uốn lượn chậm rãi trong môi trường không trọng lực trên nền đen huyền bí. Hiệu ứng quang sai màu tinh tế dọc theo các cạnh, ánh sáng khúc xạ nhẹ nhàng, chuyển động chậm rãi đầy mê hoặc, khoảng trống lớn phù hợp để chèn giao diện người dùng (UI).
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Dải ruy băng thủy tinh không trọng lực">
 
 **[🎬 Xem video →](https://x.com/genevieve__h/status/2089068325493944435)**
 
 **Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Đã xuất bản:** Aug 16, 2026
 
 ---
-### Double-Exposure Silhouette Forest Loop
+### Vòng lặp video bóng người với hiệu ứng phơi sáng kép trong rừng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+> Một gợi ý video phơi sáng kép siêu thực mô tả khu rừng thông đầy sương mù nằm gọn trong bóng đen của một người.
 
 #### 📝 Prompt
 
 ```
-Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+Vòng lặp liền mạch. Hình bóng hồ sơ tĩnh của một người trên nền trắng xương mềm mại, đầy sương mù. Hiệu ứng phơi sáng kép: bên trong bóng đen, một khu rừng thông rậm rạp vùng Tây Bắc Thái Bình Dương hiện ra, với những lớp sương mù núi màu trắng trôi chậm rãi.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Vòng lặp video bóng người với hiệu ứng phơi sáng kép trong rừng">
 
 **[🎬 Xem video →](https://x.com/genevieve__h/status/2089068323132649758)**
 
 **Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Đã xuất bản:** Aug 16, 2026
 
 ---
-### Underwater Kelp Forest Video Loop
+### Video vòng lặp rừng tảo bẹ dưới nước
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+> Một gợi ý video tĩnh lặng cho vòng lặp liền mạch của rừng tảo bẹ dưới nước với ánh nắng mặt trời xuyên qua làn nước màu ngọc lam.
 
 #### 📝 Prompt
 
 ```
-Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+Vòng lặp liền mạch, góc quay rộng tĩnh dưới nước trong một khu rừng tảo bẹ ôn đới. Những tán tảo bẹ màu hổ phách cao lớn đung đưa theo dòng hải lưu chậm rãi, đầy mê hoặc khi những tia nắng vàng rực rỡ xuyên qua bề mặt nước vào làn nước màu ngọc lam trong vắt.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Video vòng lặp rừng tảo bẹ dưới nước">
 
 **[🎬 Xem video →](https://x.com/genevieve__h/status/2089068314764997056)**
 
 **Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Đã xuất bản:** Aug 16, 2026
 
 ---
-### Cinematic Miniature Disaster Scene VFX
+### Hiệu ứng hình ảnh (VFX) cảnh thảm họa mô hình thu nhỏ đậm chất điện ảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+> Một câu lệnh chi tiết để tạo ra cảnh thảm họa mô hình thu nhỏ đậm chất điện ảnh trong bối cảnh studio VFX, với hiệu ứng vật lý nước chân thực và hệ thống ánh sáng chuyên nghiệp.
 
 #### 📝 Prompt
 
 ```
-Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+Tạo một cảnh thảm họa mô hình thu nhỏ đậm chất điện ảnh siêu thực bên trong một studio VFX chuyên nghiệp quy mô lớn tại Hollywood.
+
+Hiển thị một mô hình thu nhỏ chi tiết về siêu đô thị ven biển hiện đại với các tòa nhà chọc trời, đường sá, cầu cống, công trình ven biển, phương tiện giao thông và tàu thuyền. Một con sóng đại dương khổng lồ, chân thực ập vào thành phố, tạo ra cảnh ngập lụt, bọt nước, màn sương, sự phản chiếu của nước và các mảnh vỡ có tính vật lý đáng tin cậy.
+
+Bao gồm các thành viên trong đội ngũ VFX chuyên nghiệp, máy quay phim, giàn đèn và thiết bị studio xung quanh bối cảnh mô hình để tạo ra vẻ ngoài chân thực của các hiệu ứng thực tế phía sau hậu trường.
+
+Ảnh chân thực, tỷ lệ mô hình thu nhỏ thực tế, ánh sáng điện ảnh, bóng đổ tự nhiên, kết cấu chi tiết, hiệu ứng vật lý nước chân thực, độ sâu trường ảnh nông, máy quay phim chuyên nghiệp, chuyển động máy quay mượt mà, bầu không khí kịch tính, chất lượng VFX phim thảm họa Hollywood, định dạng dọc 9:16.
+
+Duy trì sự nhất quán về các tòa nhà, môi trường và tỷ lệ trong suốt video.
+
+Tránh: hoạt hình, hình ảnh trông giống CGI, người bị biến dạng, thừa chi tiết cơ thể, tòa nhà bị méo mó, nhấp nháy, nước không thực tế, vật thể ngẫu nhiên, văn bản, logo, hình mờ.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Hiệu ứng hình ảnh (VFX) cảnh thảm họa mô hình thu nhỏ đậm chất điện ảnh">
 
 **[🎬 Xem video →](https://x.com/AiwithBloodline/status/2088473623694921736)**
 
 **Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Đã xuất bản:** Aug 15, 2026
 
 ---
-### Professional Boxer Daily Routine Sequence
+### Chuỗi hoạt động thường ngày của võ sĩ quyền anh chuyên nghiệp
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy cinematic prompt for Gemini Omni that creates a 15-second day-in-the-life sequence of a Japanese boxer.
+> Một câu lệnh (prompt) điện ảnh đầy năng lượng dành cho Gemini Omni để tạo ra chuỗi video 15 giây về một ngày trong đời của một võ sĩ quyền anh người Nhật.
 
 #### 📝 Prompt
 
 ```
-Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a  young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his  hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+Sử dụng hình ảnh tham chiếu như hiện trạng. Tạo một chuỗi video 15 giây đầy năng lượng theo phong cách “một ngày của tôi” với nhân vật chính là một võ sĩ quyền anh nam chuyên nghiệp người Nhật Bản trẻ tuổi. 0–3 giây: Tokyo trước bình minh, anh thức dậy lúc 5:00 sáng, gội đầu, buộc dây giày đấm bốc và quấn băng tay một cách tỉ mỉ. 3–6 giây: anh bắt đầu bài chạy bộ cường độ cao ngoài trời qua những con phố yên tĩnh, hơi thở hiện rõ trong không khí lạnh buổi sáng, biểu cảm đầy quyết tâm. 6–9 giây: bên trong một phòng tập quyền anh bụi bặm, anh tập đánh bóng (shadowbox) nhanh và tập với bao cát, tung ra những đòn phối hợp mạnh mẽ, kỹ thuật di chuyển chân thực tế và mồ hôi nhễ nhại. 9–12 giây: cận cảnh cực độ những chiếc găng tay đập vào bao cát, những giọt mồ hôi văng ra, cơ bắp căng lên tự nhiên theo từng cú đấm. 12–15 giây: anh kết thúc bằng bài tập nhảy dây tốc độ, thở dốc, sau đó nhìn thẳng vào camera đầy tự tin. Da, mồ hôi, chuyển động tóc và vật lý vải siêu thực, kỹ thuật quyền anh chuẩn xác, camera cầm tay năng động, các cú máy tracking nhanh, hiệu ứng nhòe chuyển động tự nhiên, ánh sáng phòng tập kịch tính, đổ bóng chân thực, độ sâu trường ảnh điện ảnh, 4K, chuyển động vật lý đáng tin cậy, không có cảm giác kỹ xảo CGI.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Professional Boxer Daily Routine Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Chuỗi hoạt động thường ngày của võ sĩ quyền anh chuyên nghiệp">
 
 **[🎬 Xem video →](https://x.com/AiwithBloodline/status/2087843492257243460)**
 
 **Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Đã xuất bản:** Aug 13, 2026
 
 ---
-### Continuous Shot Anime Mask Overlay
+### Lớp phủ mặt nạ Anime quay liên tục
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic video prompt for Gemini Omni that creates a single continuous shot of a subject using hand gestures to trigger dynamic anime-style facial overlays and masks with synchronized audio descriptions.
+> Một câu lệnh video điện ảnh phức tạp dành cho Gemini Omni, tạo ra một cảnh quay liên tục duy nhất về một chủ thể sử dụng cử chỉ tay để kích hoạt các lớp phủ khuôn mặt và mặt nạ theo phong cách anime sống động, đi kèm với các mô tả âm thanh đồng bộ.
 
 #### 📝 Prompt
 
 ```
-Generate a single continuous shot.\n\n{ "setting": "Cozy minimalist indoor studio room with off-white walls and dark wood accents", \n  "lighting": "Soft diffused warm cove lighting with subtle side fill", \n  "weather": "Indoor ambient", \n  "color_grade": "Warm natural tones with high-contrast digital overlay pops" }\n\n[SUBJECT ANCHOR — reiterate character visual descriptors]:\nThe young East Asian man with long straight black hair wearing a dark grey hooded windbreaker jacket with visible drawstrings.\n\n[00:00-00:02]: The young East Asian man in the dark grey hooded jacket holds her hood drawstrings near her chin, then smoothly raises both hands, expanding her fingers to form a crisp rectangular geometric frame in front of her eyes. Inside the hand frame, a dynamic 2D cel-shaded anime eye graphic instantly pops into view overlaying her real eyes.\n[00:02-00:04]: She shifts her hand frame downward across her cheek, changing the framing angle to reveal a sharp, manga-style eye and eyebrow graphic overlay that tracks locked between her fingers.\n[00:04-00:06]: Moving her hands upward in a rhythmic motion, a stylized 2D anime smiling mouth graphic appears inside a new lower-face hand cutout frame, matching her head angle.\n[00:06-00:08]: She restructures her gesture, using index fingers to point diagonally across her eyes and nose region, creating a triangular hand frame that displays a vivid triangular vector anime mask filter over her upper face.\n[00:08-00:10]: She flips the triangular hand frame smoothly to the opposite angle over her lower face, holding a horizontal anime artwork banner overlay between her fingertips as the clip holds.\n\n🎤 VOICE PERFORMANCE:\nNo spoken dialogue in this opening segment. The audio performance is anchored by the rhythmic atmosphere of the musical build-up, synced to snappy, clean UI movement sounds.\n\nAmbient: Quiet residential room acoustics with soft low-end air resonance.\nFoley: Sharp digital swoosh and UI snap effects frame-locked precisely to each hand expansion and overlay state shift at 01s, 03s, 05s, 07s, and 09s.\nMusic: High-energy electro-pop/cyberpunk synth melody building in rhythm and intensity.
+Tạo một cảnh quay liên tục duy nhất.\n\n{ "bối cảnh": "Phòng studio tối giản ấm cúng với tường màu trắng nhạt và điểm nhấn gỗ tối màu", \n  "ánh sáng": "Ánh sáng hắt ấm áp, khuếch tán nhẹ với ánh sáng phụ từ bên cạnh", \n  "thời tiết": "Trong nhà", \n  "chỉnh màu": "Tông màu tự nhiên ấm áp với các lớp phủ kỹ thuật số có độ tương phản cao" }\n\n[NEO CHỦ THỂ — nhắc lại các mô tả hình ảnh nhân vật]:\nNgười đàn ông trẻ Đông Á với mái tóc đen dài thẳng, mặc áo khoác gió có mũ màu xám đậm với dây rút có thể nhìn thấy rõ.\n\n[00:00-00:02]: Người đàn ông trẻ Đông Á trong chiếc áo khoác có mũ màu xám đậm giữ dây rút mũ gần cằm, sau đó nhẹ nhàng nâng cả hai tay lên, xòe các ngón tay để tạo thành một khung hình học hình chữ nhật sắc nét trước mắt. Bên trong khung tay, một đồ họa mắt anime 2D cel-shaded sống động ngay lập tức xuất hiện, phủ lên đôi mắt thật của cô ấy.\n[00:02-00:04]: Cô ấy di chuyển khung tay xuống dưới qua má, thay đổi góc khung hình để lộ ra lớp phủ đồ họa mắt và lông mày sắc nét theo phong cách manga, được khóa theo chuyển động giữa các ngón tay.\n[00:04-00:06]: Di chuyển tay lên trên theo nhịp điệu, một đồ họa miệng cười anime 2D cách điệu xuất hiện bên trong một khung tay mới ở phần dưới khuôn mặt, khớp với góc đầu của cô ấy.\n[00:06-00:08]: Cô ấy điều chỉnh lại cử chỉ, sử dụng các ngón trỏ để chỉ chéo qua vùng mắt và mũi, tạo ra một khung tay hình tam giác hiển thị bộ lọc mặt nạ anime vector hình tam giác sống động trên phần trên khuôn mặt.\n[00:08-00:10]: Cô ấy lật khung tay hình tam giác một cách mượt mà sang góc đối diện trên phần dưới khuôn mặt, giữ một lớp phủ biểu ngữ tác phẩm nghệ thuật anime nằm ngang giữa các đầu ngón tay khi cảnh quay kết thúc.\n\n🎤 MÀN TRÌNH DIỄN GIỌNG NÓI:\nKhông có lời thoại trong phân đoạn mở đầu này. Màn trình diễn âm thanh được neo giữ bởi bầu không khí nhịp nhàng của phần nhạc nền tăng dần, đồng bộ với các âm thanh chuyển động giao diện người dùng (UI) sắc nét và sạch sẽ.\n\nÂm thanh môi trường: Âm học phòng ở yên tĩnh với độ cộng hưởng không khí trầm thấp nhẹ.\nFoley: Các hiệu ứng âm thanh kỹ thuật số sắc nét (swoosh) và âm thanh UI (snap) được khóa chính xác theo từng lần mở rộng tay và thay đổi trạng thái lớp phủ tại giây thứ 01, 03, 05, 07 và 09.\nÂm nhạc: Giai điệu synth electro-pop/cyberpunk tràn đầy năng lượng, tăng dần về nhịp điệu và cường độ.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Continuous Shot Anime Mask Overlay">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Lớp phủ mặt nạ Anime quay liên tục">
 
 **[🎬 Xem video →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
 
 **Tác giả:** [Aryan](https://x.com/Aryan_Ali_Pro) | **Nguồn:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **Đã xuất bản:** Aug 12, 2026
 
 ---
-### Garden Squirrel Yard Sale
+### Sự kiện bán hàng sân vườn của chú sóc
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A whimsical prompt for Gemini Omni depicting a squirrel hosting a sale in a garden.
+> Một gợi ý đầy thú vị dành cho Gemini Omni, mô tả cảnh một chú sóc đang tổ chức sự kiện bán hàng trong vườn.
 
 #### 📝 Prompt
 
 ```
-Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+Chú sóc bị thiếu tiền nên đã tổ chức một buổi bán hàng trong vườn, bày bán nhiều món đồ giá trị
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Garden Squirrel Yard Sale">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Sự kiện bán hàng sân vườn của chú sóc">
 
 **[🎬 Xem video →](https://x.com/SilverAIProject/status/2087298245747683578)**
 
 **Tác giả:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Nguồn:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **Đã xuất bản:** Aug 11, 2026
 
 ---
-### Sneaky Cat Food Theft
+### Vụ trộm thức ăn tinh quái của chú mèo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous narrative prompt for Gemini Omni featuring a cat stealing food and charming its owner.
+> Một gợi ý kể chuyện hài hước dành cho Gemini Omni về một chú mèo lén ăn vụng và làm nũng với chủ nhân.
 
 #### 📝 Prompt
 
 ```
-Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+Chú mèo đen trắng tinh quái lén lút trộm thức ăn của mèo đồi mồi, đồng thời dùng tiếng gừ gừ đầy mê hoặc để lấy lòng cô chủ
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Sneaky Cat Food Theft">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Vụ trộm thức ăn tinh quái của chú mèo">
 
 **[🎬 Xem video →](https://x.com/SilverAIProject/status/2087295479335751880)**
 
 **Tác giả:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Nguồn:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **Đã xuất bản:** Aug 11, 2026
 
 ---
-### Business Dashboard Review
+### Đánh giá Bảng điều khiển Doanh nghiệp
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+> Một gợi ý (prompt) văn phòng chân thực dành cho Gemini Omni, mô tả một chủ doanh nghiệp đang xem xét bảng điều khiển AI.
 
 #### 📝 Prompt
 
 ```
-A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+Một chủ doanh nghiệp đang xem xét bảng điều khiển AI trong một văn phòng hiện đại, sáng sủa. Cảnh quay trung. Thu phóng chậm. Ánh sáng tự nhiên ấm áp. Tâm trạng tập trung. Phong cách chân thực. Video chất lượng cao.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Đánh giá Bảng điều khiển Doanh nghiệp">
 
 **[🎬 Xem video →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
 
 **Tác giả:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Nguồn:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Đã xuất bản:** Aug 11, 2026
 
 ---
-### Crystalline Frozen Water Droplet World
+### Thế giới giọt nước đóng băng pha lê
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+> Một video prompt chi tiết dành cho Gemini Omni, mô phỏng quá trình một giọt nước biến đổi thành khung cảnh băng giá phức tạp với những cánh rừng pha lê và vách đá băng trong hiệu ứng chuyển động chậm.
 
 #### 📝 Prompt
 
 ```
-A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+Nền đen thuần khiết lấp đầy khung hình. Một giọt nước trong suốt rơi xuống ở chế độ chuyển động chậm từ phía trên, chạm vào một bề mặt vô hình và bắn tung ra ngoài thành những gợn sóng tròn hoàn hảo cùng các tia nước pha lê. Máy quay giữ nguyên vị trí, tập trung vào điệu nhảy của chất lỏng. Khi các giọt nước tiếp theo rơi xuống, dòng nước lan tỏa dần biến đổi thành những vách đá băng cao chót vót, các thác nước đổ xuống và những cánh rừng sương giá pha lê. Ánh sáng màu xanh ngọc và bạc dịu nhẹ xuyên qua chất lỏng, biến toàn bộ khung cảnh thành một vương quốc thác nước đóng băng rực rỡ. Giây cuối cùng dừng lại ở thế giới pha lê đã hoàn thiện, tĩnh lặng tuyệt đối. Phong cách: vẻ đẹp trừu tượng | chuyển động linh hoạt | biến đổi pha lê Máy quay: macro tĩnh → tiết lộ chậm Độ dài: 10 giây Ánh sáng: ánh sáng viền mát mẻ, độ rõ nét cao, ánh sáng huyền ảo
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Thế giới giọt nước đóng băng pha lê">
 
 **[🎬 Xem video →](https://x.com/MrDasOnX/status/2087219303926124787)**
 
 **Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **Đã xuất bản:** Aug 11, 2026
 
 ---
-### Hand Plucking Star from Night Sky Prompt
+### Câu lệnh tạo ảnh bàn tay hái sao từ bầu trời đêm
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
+> Một câu lệnh tạo ảnh theo góc nhìn thứ nhất đầy siêu thực về một bàn tay vươn lên bầu trời đêm để hái một ngôi sao đang tỏa sáng.
 
 #### 📝 Prompt
 
 ```
-First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
+Góc nhìn thứ nhất, một bàn tay người vươn lên bầu trời đêm sâu thẳm, nhẹ nhàng hái một ngôi sao đang tỏa sáng từ bóng tối như đang hái một loại trái cây. Bầu trời xanh navy thẫm, ánh sao lấp lánh, tỷ lệ phối cảnh cưỡng bức đầy siêu thực,
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Câu lệnh tạo ảnh bàn tay hái sao từ bầu trời đêm">
 
 **[🎬 Xem video →](https://x.com/TheChuksAi/status/2087042640453738616)**
 
 **Tác giả:** [ChuksAi](https://x.com/TheChuksAi) | **Nguồn:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **Đã xuất bản:** Aug 11, 2026
 
 ---
-### Ember and the Firefly Storyboard Shot 1
+### Cảnh quay bảng phân cảnh Ember and the Firefly 1
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
+> Cảnh mở đầu cho bản demo điện ảnh 'Ember and the Firefly', với góc quay rộng đẩy dần vào nhân vật đang khựng lại khi phát hiện ra một chú đom đóm phát sáng.
 
 #### 📝 Prompt
 
 ```
-EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
+BẢNG PHÂN CẢNH EMBER AND THE FIREFLY — DANH SÁCH CẢNH QUAY 8 GIÂY
 
-SHOT 1 | THE SPARK (0:00–1:3s)
-Cam: Static wide, slow push-in.
-Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
-Sound: Forest hush, soft chime on the glow.
+CẢNH 1 | TIA SÁNG (0:00–1:3s)
+Máy quay: Góc rộng tĩnh, đẩy dần vào.
+Hành động: Ember khựng lại giữa bước đi, đôi tai hướng về phía một chú đom đóm đang phát sáng.
+Âm thanh: Tiếng rừng tĩnh lặng, tiếng chuông gió nhẹ nhàng khi đom đóm phát sáng.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
+<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Cảnh quay bảng phân cảnh Ember and the Firefly 1">
 
 **[🎬 Xem video →](https://x.com/Gre8tDan/status/2086787909399572802)**
 
 **Tác giả:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Nguồn:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Đã xuất bản:** Aug 10, 2026
 
 ---
-### Bouncing Strawberry Jello Pool
+### Hồ bơi thạch dâu tây nảy
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
+> Một câu lệnh tạo video điện ảnh chi tiết cao về hồ bơi thạch dâu tây màu đỏ ruby trong suốt với quả dâu tây bằng thạch đang nảy, nhấn mạnh vào kết cấu và vật lý.
 
 #### 📝 Prompt
 
 ```
-A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
+Một hồ bơi sang trọng được làm hoàn toàn từ thạch dâu tây màu đỏ ruby trong suốt trên nền gradient chuyển từ trắng sang hồng nhạt. Một quả dâu tây khổng lồ chân thực được tạo hình từ cùng loại thạch bóng bẩy trồi lên từ giữa hồ bơi và từ từ nảy lên trên, sau đó rơi trở lại bề mặt, tạo ra những gợn sóng thạch đồng tâm tuyệt đẹp và những tia bắn nhẹ nhàng. Những giọt thạch nhỏ trong suốt bay trong không trung và bắt trọn ánh sáng studio. Máy quay bắt đầu bằng một cảnh quay cận cảnh macro về kết cấu thạch bóng bẩy, lùi lại mượt mà khi quả dâu tây trồi lên, sau đó tiến nhẹ vào khi nó tiếp đất. Sự biến dạng của gelatin chân thực, độ rung, độ co giãn, độ nảy mềm mại, những gợn sóng bề mặt giống như chất lỏng, độ trong suốt và tán xạ dưới bề mặt đầy thuyết phục. Nhiếp ảnh ẩm thực cao cấp được chỉ đạo nghệ thuật, bố cục studio tối giản, thẩm mỹ ASMR đầy mê hoặc, chuyển động điện ảnh mượt mà, cảnh quay liên tục, chính xác 10 giây, không có văn bản, không có logo.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Hồ bơi thạch dâu tây nảy">
 
 **[🎬 Xem video →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
 **Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Đã xuất bản:** Aug 10, 2026
 
 ---
-### Treehouse Interior Detailing Motion Prompt
+### Gợi ý chuyển động chi tiết nội thất nhà trên cây
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+> Một gợi ý chuyển động cho giai đoạn sơn và hoàn thiện chi tiết nội thất trong video tua nhanh quá trình xây dựng mô hình nhà trên cây.
 
 #### 📝 Prompt
 
 ```
-Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+Sử dụng phần ngoại thất nhà trên cây đã hoàn thiện từ Gợi ý chuyển động 4 làm khung hình bắt đầu chính xác. Giữ nguyên kiến trúc, mái nhà, cửa sổ, ban công, cây cối, môi trường và tỷ lệ.
 
-Create an ultra fast timelapse
+Tạo một video tua nhanh siêu tốc
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Gợi ý chuyển động chi tiết nội thất nhà trên cây">
 
 **[🎬 Xem video →](https://x.com/Strength04_X/status/2086644591089041676)**
 
 **Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **Đã xuất bản:** Aug 10, 2026
 
 ---
-### Treehouse Foundation Motion Timelapse
+### Video tua nhanh quá trình xây dựng nền móng nhà trên cây
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+> Một câu lệnh chuyển động Gemini Omni để tạo hiệu ứng tua nhanh siêu tốc quá trình xây dựng nền móng nhà trên cây, đồng thời đảm bảo tính nhất quán về mặt hình ảnh.
 
 #### 📝 Prompt
 
 ```
-Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+Sử dụng Hình ảnh Khung hình Đầu tiên làm khung hình bắt đầu chính xác và giữ nguyên cái cây, các cành cây, môi trường, quy mô thu nhỏ, vật liệu, ánh sáng, phong cách máy quay và nhận diện hình ảnh.
 
-Create an ultra fast timelapse speed construction
+Tạo hiệu ứng xây dựng với tốc độ tua nhanh siêu tốc
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Video tua nhanh quá trình xây dựng nền móng nhà trên cây">
 
 **[🎬 Xem video →](https://x.com/Strength04_X/status/2086644027420815501)**
 
 **Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Đã xuất bản:** Aug 10, 2026
 
 ---
-### Anime Style Pandan Flour Pressing
+### Ép bột lá dứa phong cách Anime
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+> Một câu lệnh (prompt) phong cách anime 2D dành cho Gemini Omni, mô tả đôi bàn tay đang ép bột gạo lá dứa vào nitơ lỏng để tạo hiệu ứng hình ảnh kỳ ảo.
 
 #### 📝 Prompt
 
 ```
-A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+Một video cận cảnh hoạt hình 2D theo phong cách anime Nhật Bản. Đôi bàn tay vẽ theo phong cách anime đang ép khối bột gạo lá dứa màu xanh rực rỡ qua một chiếc khuôn truyền thống vào bát nitơ lỏng, tạo nên một làn khói lạnh kỳ ảo cùng những tia hơi nước lấp lánh.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Ép bột lá dứa phong cách Anime">
 
 **[🎬 Xem video →](https://x.com/playinbey/status/2085826420287418413)**
 
 **Tác giả:** [PLAY!](https://x.com/playinbey) | **Nguồn:** [Link](https://x.com/playinbey/status/2085826420287418413) | **Đã xuất bản:** Aug 7, 2026
 
 ---
-### Dread and Foreboding Image-to-Video
+### Chuyển đổi hình ảnh sang video mang cảm giác lo âu và điềm báo
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+> Một câu lệnh (prompt) được thiết kế để biến hình ảnh tĩnh thành một cảnh video động với đặc trưng là cảm giác lo âu và điềm báo, sử dụng nhiều góc quay khác nhau.
 
 #### 📝 Prompt
 
 ```
-Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+Hãy tạo ra một cảnh quay thú vị dựa trên hình ảnh này, sử dụng nhiều góc máy và khung hình linh hoạt để tạo nên cảm giác lo âu và điềm báo.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Chuyển đổi hình ảnh sang video mang cảm giác lo âu và điềm báo">
 
 **[🎬 Xem video →](https://x.com/pzf_ai/status/2085736211625230529)**
 
 **Tác giả:** [PZF](https://x.com/pzf_ai) | **Nguồn:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Đã xuất bản:** Aug 7, 2026
 
 ---
-### Cherry Blossom Tree Gel Sculpture
+### Tác phẩm điêu khắc gel hình cây hoa anh đào
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+> Một câu lệnh (prompt) macro đậm chất điện ảnh dành cho Gemini Omni, mô phỏng quá trình một loại gel phát sáng biến đổi thành mô hình cây hoa anh đào thu nhỏ đầy chi tiết khi được nặn ra từ tuýp.
 
 #### 📝 Prompt
 
 ```
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
-Style:
-Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+Một bàn tay chân thực đang từ từ bóp một tuýp kim loại bóng bẩy với đầu vòi được đánh bóng. Thay vì chất kem thông thường, một loại gel trong suốt, phát sáng dịu nhẹ chảy ra một cách mượt mà. Khi chất liệu này xuất hiện, nó tự biến đổi một cách tự nhiên thành một "Cây hoa anh đào" thu nhỏ được điêu khắc tinh xảo, hình thành từng lớp một trong một chuyển động liên tục. Phần thân cây mảnh mai nhô lên trước, theo sau là những cành cây duyên dáng nở rộ thành hàng trăm bông hoa anh đào nhỏ trong suốt, tất cả tạo hình liền mạch trong một quá trình biến đổi trôi chảy.
+Sản phẩm thu nhỏ hoàn thiện trông bóng bẩy, hơi trong suốt, mềm mại và có độ đàn hồi, với những rung động nhẹ trước khi ổn định một cách tự nhiên. Những bông hoa khẽ lay động trước khi đứng yên, trong khi những điểm sáng nhỏ lướt trên bề mặt gel mịn màng. Ánh sáng dịu nhẹ từ bên trong lan tỏa qua từng cành và cánh hoa, tạo nên vẻ ngoài sang trọng như thủy tinh cao cấp.
+Vật thể nằm trên bề mặt đá nhám tối màu, được trang trí bằng những giọt nước tinh tế giúp tăng cường độ chân thực và phản chiếu.
+Phong cách:
+Nhiếp ảnh siêu macro
+CGI siêu thực
+Ánh sáng studio điện ảnh
+Độ sâu trường ảnh cực nông
+Độ phản chiếu phong phú
+Thẩm mỹ quảng cáo sản phẩm cao cấp
+Biến đổi liên tục mượt mà
+Kết cấu sắc nét
+Chất liệu chân thực như ảnh chụp
+Chất lượng 8K
+Dọc 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
-Negative Prompt:
-Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+Không văn bản
+Không chuyển động máy quay
+Không gây xao nhãng ở hậu cảnh
+Câu lệnh phủ định (Negative Prompt):
+Chất lượng thấp, hoạt hình, anime, chi tiết kém, vẻ ngoài nhựa, hạt, nhiễu, nhấp nháy, hình học bị vỡ, hình dạng biến dạng, vật thể thừa, văn bản, hình mờ, logo, màu sắc quá bão hòa, ánh sáng phi thực tế, máy quay rung, nhòe chuyển động, hậu cảnh lộn xộn.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Tác phẩm điêu khắc gel hình cây hoa anh đào">
 
 **[🎬 Xem video →](https://x.com/Strength04_X/status/2085703642037018819)**
 
 **Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Đã xuất bản:** Aug 7, 2026
 
 ---
-### Jelly Octopus Macro Transformation
+### Biến hình Macro Bạch tuộc Thạch
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
+> Một câu lệnh (prompt) quay phim macro cực kỳ chi tiết dành cho Gemini Omni, mô tả cảnh một loại gel phát sáng biến hình thành một chú bạch tuộc thạch đàn hồi.
 
 #### 📝 Prompt
 
 ```
-Extreme close-up macro cinematography. 
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+Quay phim macro cận cảnh cực độ.
+Một bàn tay chân thực đang từ từ bóp một ống kim loại bóng bẩy với đầu vòi được đánh bóng. Thay vì loại kem thông thường, một lớp gel trong suốt như pha lê, phát sáng dịu nhẹ chảy ra một cách mượt mà. Khi chất liệu này xuất hiện, nó biến đổi một cách hữu cơ thành một chú "Jelly Octopus" (Bạch tuộc Thạch) nhỏ nhắn, được điêu khắc tinh xảo, hình thành từng lớp một trong một chuyển động liên tục.
+Sản phẩm thu nhỏ hoàn thiện trông bóng bẩy, hơi trong suốt, mềm mại và đàn hồi, với độ rung nhẹ trước khi ổn định một cách tự nhiên. Phần đầu tròn trịa nảy nhẹ trong khi các xúc tu nhỏ bé gợn sóng mềm mại và ổn định với độ đàn hồi như thật. Những điểm sáng li ti di chuyển trên bề mặt nhẵn mịn trong khi ánh sáng bên trong khuếch tán nhẹ nhàng qua lớp gel, tạo nên vẻ ngoài sang trọng và cao cấp.
+Vật thể nằm trên bề mặt đá mờ tối màu, được trang trí bằng những giọt nước tinh tế giúp tăng cường độ chân thực và phản chiếu.
 
-Style: Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+Phong cách: Nhiếp ảnh siêu macro
+CGI siêu thực
+Ánh sáng studio điện ảnh
+Độ sâu trường ảnh cực nông
+Phản chiếu phong phú
+Thẩm mỹ quảng cáo sản phẩm cao cấp
+Biến hình liên tục mượt mà
+Kết cấu sắc nét
+Chất liệu chân thực như ảnh chụp
+Chất lượng 8K
+Dọc 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
+Không văn bản
+Không chuyển động máy quay
+Không gây xao nhãng ở hậu cảnh
 
-Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+Negative Prompt: Chất lượng thấp, hoạt hình, anime, chi tiết thấp, vẻ ngoài giống nhựa, hạt, nhiễu, nhấp nháy, hình học bị hỏng, hình dạng biến dạng, vật thể thừa, văn bản, hình mờ, logo, màu sắc quá bão hòa, ánh sáng không thực tế, máy quay rung lắc, nhòe chuyển động, hậu cảnh lộn xộn.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Biến hình Macro Bạch tuộc Thạch">
 
 **[🎬 Xem video →](https://x.com/Strength04_X/status/2085559452481261606)**
 
 **Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **Đã xuất bản:** Aug 7, 2026
 
 ---
-### Prehistoric Caveman Rock Concert
+### Buổi hòa nhạc thời tiền sử của người hang động
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+> Một video prompt theo phong cách phim tài liệu mô tả cảnh người tiền sử biểu diễn hòa nhạc trên sân khấu với sự bao quanh của các loài khủng long.
 
 #### 📝 Prompt
 
 ```
-A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+Một cảnh hòa nhạc diễn ra vào thời tiền sử. Có những người hang động trên sân khấu, những người tiền sử đang hát bằng một ngôn ngữ không thể hiểu được. Khủng long cũng đang đi lang thang xung quanh. Có một cộng đồng đông đúc đang xem buổi hòa nhạc. Video sẽ được quay với nhiều góc máy, mang lại cảm giác chân thực và tự nhiên như phim tài liệu. Phong cách hình ảnh cần đạt độ siêu thực.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Buổi hòa nhạc thời tiền sử của người hang động">
 
 **[🎬 Xem video →](https://x.com/ozansihay/status/2085420070952649179)**
 
 **Tác giả:** [Ozan Sihay](https://x.com/ozansihay) | **Nguồn:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **Đã xuất bản:** Aug 6, 2026
 
 ---
-### Ink Splash to Landscape Painting
+### Từ Vệt Mực Đen đến Tranh Phong Cảnh
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+> Một câu lệnh mô tả dành cho Gemini Omni giúp hình dung các giọt mực đen trên nền trắng chuyển hóa thành một bức tranh phong cảnh thu nhỏ đầy màu sắc với cảm giác chuyển động chậm đậm chất điện ảnh.
 
 #### 📝 Prompt
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
-Style: abstract beauty | fluid motion | artistic transformation
-Camera: static macro → slow reveal
-Length: 10 seconds
-Lighting: soft studio light, high clarity
+Một nền trắng tinh khiết lấp đầy khung hình. Những giọt mực đen đặc rơi xuống trong chuyển động chậm, bắn tung ra như những đóa hoa đang nở rộ. Máy quay giữ nguyên vị trí, tập trung vào chuyển động của chất lỏng. Khi mực lan tỏa, các hình khối dần biến đổi một cách tinh tế thành núi non, sông ngòi và cây cối. Màu sắc bắt đầu thấm vào—những sắc xanh dương và xanh lục đậm—cho đến khi mực hoàn toàn trở thành một bức tranh phong cảnh thu nhỏ. Giây cuối cùng dừng lại ở thế giới đã hoàn thiện, tĩnh lặng tuyệt đối.
+Phong cách: vẻ đẹp trừu tượng | chuyển động linh hoạt | biến đổi nghệ thuật
+Máy quay: macro tĩnh → hé lộ chậm
+Thời lượng: 10 giây
+Ánh sáng: ánh sáng studio dịu nhẹ, độ rõ nét cao
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Từ Vệt Mực Đen đến Tranh Phong Cảnh">
 
 **[🎬 Xem video →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
 **Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **Đã xuất bản:** Aug 6, 2026
 
 ---
-### High-Energy Match Cut Video
+### Video Match Cut tràn đầy năng lượng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+> Một câu lệnh kỹ thuật để tạo video 10 giây nhịp độ nhanh với các đoạn match cut tràn đầy năng lượng, tốc độ hai lần mỗi giây ở tỷ lệ khung hình 16:9 đậm chất điện ảnh.
 
 #### 📝 Prompt
 
 ```
-generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+tạo một clip 10 giây với 20 đoạn match cut, 2 lần cắt mỗi giây. đậm chất điện ảnh và tràn đầy năng lượng. tỷ lệ 16:9.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="Video Match Cut tràn đầy năng lượng">
 
 **[🎬 Xem video →](https://x.com/ViralOps_/status/2085069575700246678)**
 
 **Tác giả:** [ViralOps](https://x.com/ViralOps_) | **Nguồn:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **Đã xuất bản:** Aug 5, 2026
 
 ---
-### Traditional Sumo Rikishi Scene
+### Khung cảnh võ sĩ Sumo truyền thống
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+> Một câu lệnh mô tả khung cảnh đấu vật sumo truyền thống của Nhật Bản với các rikishi mặc mawashi và kiểu tóc chonmage, tập trung vào nghi thức trước trận đấu.
 
 #### 📝 Prompt
 
 ```
-Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+Hakke-yoi! Mỗi võ sĩ đều mặc một chiếc mawashi tinh tế, với kiểu tóc chonmage bảnh bao trên đầu. Tuy nhiên, vẫn còn một điều kỳ lạ: một rikishi không bao giờ đặt cẳng tay của mình vào tư thế shikiri trên võ đài dohyo trước khi trận đấu bắt đầu.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Khung cảnh võ sĩ Sumo truyền thống">
 
 **[🎬 Xem video →](https://x.com/222TT222/status/2085036219894026485)**
 
 **Tác giả:** [TakTempest](https://x.com/222TT222) | **Nguồn:** [Link](https://x.com/222TT222/status/2085036219894026485) | **Đã xuất bản:** Aug 5, 2026
 
 ---
-### Mechanical Pepper Grinder Mantis Kitchen Duel
+### Cuộc chiến trong bếp: Bọ ngựa cối xay tiêu cơ khí
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A cinematic macro video prompt for Gemini Omni that depicts a mechanical mantis made of a pepper grinder battling a cockroach on a kitchen counter, complete with a detailed multi-shot timeline.
+> Một câu lệnh (prompt) video macro đậm chất điện ảnh dành cho Gemini Omni, mô tả một chú bọ ngựa cơ khí làm từ cối xay tiêu đang chiến đấu với một con gián trên mặt bàn bếp, kèm theo dòng thời gian đa cảnh quay chi tiết.
 
 #### 📝 Prompt
 
 ```
-Macro cinematic lens, the night kitchen countertop is filmed like a vast metal wasteland. Crumbs, salt grains, and herb fragments are scattered like rocks and bushes on the surface. The protagonist is a peculiar 'Pepper Grinder Mantis': the body is a small silver stainless steel pepper grinder, tilted slightly forward vertically, with long real mantis legs growing from the bottom and sides, and two iconic scythe-like predatory forelimbs in front. It has no normal insect head; the main body is the pepper grinder itself, moving cautiously and mechanically.
+Ống kính macro điện ảnh, mặt bàn bếp vào ban đêm được quay như một vùng đất hoang kim loại rộng lớn. Vụn bánh, hạt muối và mảnh thảo mộc vương vãi như những tảng đá và bụi cây trên bề mặt. Nhân vật chính là một 'Bọ ngựa cối xay tiêu' kỳ lạ: cơ thể là một chiếc cối xay tiêu bằng thép không gỉ màu bạc, hơi nghiêng về phía trước theo chiều dọc, với những chiếc chân bọ ngựa thật dài mọc ra từ đáy và hai bên, cùng hai chi trước săn mồi hình lưỡi hái đặc trưng ở phía trước. Nó không có đầu côn trùng bình thường; thân chính là chiếc cối xay tiêu, di chuyển một cách thận trọng và đầy tính cơ khí.
 
-A shiny brown cockroach slowly crawls out from behind the shadow of a napkin on the left, quickly approaching the pepper grinder mantis. The air is tense, like a late-night kitchen duel. The pepper grinder mantis suddenly stops, its body rising slightly as if locking onto a target. Then it snaps the top grinding head, emitting a crisp mechanical sound, and a large amount of black pepper fragments spray out from the top and front like a smoke grenade, hitting the cockroach directly.
+Một con gián nâu bóng loáng chậm rãi bò ra từ sau bóng tối của chiếc khăn ăn bên trái, nhanh chóng tiến về phía bọ ngựa cối xay tiêu. Không khí trở nên căng thẳng như một cuộc đấu trong bếp lúc đêm khuya. Bọ ngựa cối xay tiêu đột ngột dừng lại, cơ thể hơi nhô lên như thể đang khóa mục tiêu. Sau đó, nó xoay phần đầu xay phía trên, phát ra âm thanh cơ khí giòn giã, và một lượng lớn mảnh tiêu đen phun ra từ đỉnh và phía trước như một quả lựu đạn khói, bắn thẳng vào con gián.
 
-The cockroach is choked by the pepper, retreating in panic, antennae swinging wildly, feet slipping, and quickly retreats back into the shadow on the left. Fine black pepper particles and a slight powder mist float in the air. The pepper grinder mantis remains in place, forelimbs held high, like a calmly winning night warrior.
+Con gián bị sặc tiêu, hoảng loạn rút lui, râu quẫy mạnh, chân trượt đi và nhanh chóng lùi lại vào bóng tối bên trái. Những hạt tiêu đen mịn và một làn bụi mỏng lơ lửng trong không trung. Bọ ngựa cối xay tiêu vẫn đứng yên tại chỗ, hai chi trước giơ cao, như một chiến binh đêm đầy bản lĩnh giành chiến thắng.
 
-Timeline Storyboard:
-0–3s: Ultra close-up macro shot. The silver pepper grinder mantis walks slowly on the kitchen counter, surrounded by crumbs, salt, and herbs. Soft reflections on the metal surface, mantis legs move realistically.
-3–6s: In the shadows on the left, a brown cockroach suddenly appears, quickly approaching the mantis. Slight camera follow, creating tension. The two face off briefly in a small open area.
-6–7s: The top of the pepper grinder suddenly rotates quickly, making a mechanical grinding sound. A large amount of black pepper powder bursts out, forming a dense granular black spray, hitting the cockroach head-on.
-7–10s: The cockroach retreats in chaos after being stimulated by the pepper, quickly fleeing into the shadow on the left and disappearing. Black pepper dust floats in the air. The pepper grinder mantis remains still, forelimbs raised, standing guard like a victor.
+Kịch bản dòng thời gian:
+0–3 giây: Cận cảnh macro siêu nét. Bọ ngựa cối xay tiêu màu bạc đi chậm rãi trên mặt bàn bếp, xung quanh là vụn bánh, muối và thảo mộc. Những hình ảnh phản chiếu nhẹ nhàng trên bề mặt kim loại, chân bọ ngựa di chuyển chân thực.
+3–6 giây: Trong bóng tối bên trái, một con gián nâu đột ngột xuất hiện, nhanh chóng tiến về phía bọ ngựa. Camera di chuyển nhẹ theo hướng, tạo sự căng thẳng. Cả hai đối đầu trong giây lát tại một khoảng trống nhỏ.
+6–7 giây: Phần đỉnh của cối xay tiêu đột ngột xoay nhanh, tạo ra âm thanh xay cơ khí. Một lượng lớn bột tiêu đen phun ra, tạo thành luồng hạt đen dày đặc, bắn trực diện vào con gián.
+7–10 giây: Con gián hoảng loạn rút lui sau khi bị tiêu kích thích, nhanh chóng chạy trốn vào bóng tối bên trái và biến mất. Bụi tiêu đen lơ lửng trong không khí. Bọ ngựa cối xay tiêu vẫn đứng yên, chi trước giơ cao, đứng canh gác như một kẻ chiến thắng.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mechanical Pepper Grinder Mantis Kitchen Duel">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Cuộc chiến trong bếp: Bọ ngựa cối xay tiêu cơ khí">
 
 **[🎬 Xem video →](https://x.com/jesselaunz/status/2084153849326309450)**
 
 **Tác giả:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Nguồn:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Đã xuất bản:** Aug 3, 2026
 
 ---
-### Shark Rock Band Dive Bar Footage
+### Cảnh quay ban nhạc rock cá mập tại quán bar bình dân
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a gritty, bootleg-style video of a fictional shark rock band performing live in a crowded dive bar atmosphere.
+> Tạo video phong cách quay lén, gai góc về một ban nhạc rock cá mập hư cấu đang biểu diễn trực tiếp trong bầu không khí đông đúc của một quán bar bình dân.
 
 #### 📝 Prompt
 
 ```
-Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," real sharks somehow balanced on boards and shredding guitars with their fins, hisses a brief hello before tearing into their thrashing single, "Chum Bucket."
+Cảnh quay phong cách quay lén từ một quán bar đông đúc: ban nhạc surf-noise "Sharks on Surfboards", những chú cá mập thực thụ bằng cách nào đó giữ thăng bằng trên ván lướt và chơi guitar bằng vây, rít lên một lời chào ngắn ngủi trước khi bùng nổ với đĩa đơn đầy cuồng nhiệt, "Chum Bucket."
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Shark Rock Band Dive Bar Footage">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Cảnh quay ban nhạc rock cá mập tại quán bar bình dân">
 
 **[🎬 Xem video →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
 
 **Tác giả:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Nguồn:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **Đã xuất bản:** Aug 3, 2026
 
 ---
-### Luxury Toddler Fashion Commercial
+### Quảng cáo thời trang cao cấp cho trẻ mới biết đi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+> Một gợi ý quảng cáo thời trang cao cấp với hình ảnh trẻ mới biết đi trong phong cách thẩm mỹ sang trọng, được mô tả là hoang dã và không thể ngăn cản.
 
 #### 📝 Prompt
 
 ```
-a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+một quảng cáo thời trang cao cấp dành cho trẻ mới biết đi, sự sang trọng đầy hoang dã, đáng yêu nhưng không thể ngăn cản.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Quảng cáo thời trang cao cấp cho trẻ mới biết đi">
 
 **[🎬 Xem video →](https://x.com/ritesh_ai/status/2083525213309042711)**
 
@@ -2850,6 +2860,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-18T08:34:22.934Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-18T12:41:35.476Z</sub>
 
 </div>

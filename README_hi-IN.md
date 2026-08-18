@@ -56,330 +56,340 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### Forbidden City Hall Transformation
+### Forbidden City Dragon Transformation
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+> Gemini Omni Flash के लिए एक मल्टी-स्टेज ट्रांसफॉर्मेशन प्रॉम्प्ट, जो संदर्भ छवियों (reference images) का उपयोग करके Hall of Supreme Harmony को एक चीनी शाही ड्रैगन में बदल देता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+@Image1 सटीक मूल Hall of Supreme Harmony है। @Image2 स्वीकृत मध्य-चरण के ट्रांसफॉर्मेशन को परिभाषित करता है। @Image3 अंतिम चीनी शाही ड्रैगन-पैलेस गार्जियन को परिभाषित करता है। एक बनाएँ
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Dragon Transformation">
 
 **[🎬 वीडियो देखें →](https://x.com/CrazyKaomei/status/2089279848741261762)**
 
 **लेखक:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **स्रोत:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **प्रकाशित:** Aug 17, 2026
 
 ---
-### Bolivian Salt Flats Mirror Sunrise
+### बोलिवियाई साल्ट फ्लैट्स में सूर्योदय का प्रतिबिंब
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+> बाढ़ग्रस्त बोलिवियाई साल्ट फ्लैट्स पर सूर्योदय के प्रतिबिंब और विशाल नेगेटिव स्पेस के लिए एक मिनिमलिस्ट वीडियो प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+सीमलेस लूप, बाढ़ग्रस्त बोलिवियाई साल्ट फ्लैट्स का स्थिर वाइड होराइजन शॉट। स्थिर पानी की एक पतली परत आकाश में धीरे-धीरे तैरते पेस्टल गुलाबी और लैवेंडर रंग के सूर्योदय के बादलों को पूरी तरह से प्रतिबिंबित करती है। विशाल नेगेटिव स्पेस, ईथरियल मिनिमलिज्म।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="बोलिवियाई साल्ट फ्लैट्स में सूर्योदय का प्रतिबिंब">
 
 **[🎬 वीडियो देखें →](https://x.com/genevieve__h/status/2089068330225221876)**
 
 **लेखक:** [genevieveh@](https://x.com/genevieve__h) | **स्रोत:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **प्रकाशित:** Aug 16, 2026
 
 ---
-### Ghibli Style Koi Pond Loop
+### Ghibli स्टाइल कोइ पॉन्ड लूप
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+> स्टूडियो Ghibli से प्रेरित एक सुंदर वीडियो प्रॉम्प्ट, जिसमें कोइ मछलियाँ वॉटरकलर तालाब में तैर रही हैं और उन पर छनकर आती धूप पड़ रही है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+सीमलेस लूप, स्टूडियो Ghibli वॉटरकलर एनीमे स्टाइल में एक साफ बगीचे के तालाब का स्थिर टॉप-डाउन दृश्य। तैरते हुए लिली पैड्स के नीचे धीरे-धीरे चक्कर लगाती रंगीन कोइ मछलियाँ। पानी की हल्की लहरें, मेपल के पत्तों से छनकर आती धूप, हल्के पेस्टल रंग, शांत और सहज गति।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli स्टाइल कोइ पॉन्ड लूप">
 
 **[🎬 वीडियो देखें →](https://x.com/genevieve__h/status/2089068327691862357)**
 
 **लेखक:** [genevieveh@](https://x.com/genevieve__h) | **स्रोत:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **प्रकाशित:** Aug 16, 2026
 
 ---
-### Zero Gravity Glass Ribbon Loop
+### जीरो ग्रेविटी ग्लास रिबन लूप
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+> अंधेरे बैकग्राउंड के खिलाफ जीरो ग्रेविटी में तैरते हुए एक अपवर्तक (refractive) ग्लास रिबन का एक अमूर्त सम्मोहक वीडियो प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+सीमलैस लूप, एक पारदर्शी, अपवर्तक ग्लास रिबन का लॉक-ऑफ कैमरा व्यू जो ऑब्सीडियन बैकग्राउंड पर जीरो ग्रेविटी में धीरे-धीरे लहरा रहा है। किनारों पर सूक्ष्म क्रोमैटिक एबरेशन, हल्की कॉस्टिक्स, धीमी और सम्मोहक गति, UI के लिए अधिक नेगेटिव स्पेस।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="जीरो ग्रेविटी ग्लास रिबन लूप">
 
 **[🎬 वीडियो देखें →](https://x.com/genevieve__h/status/2089068325493944435)**
 
 **लेखक:** [genevieveh@](https://x.com/genevieve__h) | **स्रोत:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **प्रकाशित:** Aug 16, 2026
 
 ---
-### Double-Exposure Silhouette Forest Loop
+### डबल-एक्सपोज़र सिल्हूट फ़ॉरेस्ट लूप
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+> एक असली (surreal) डबल-एक्सपोज़र वीडियो प्रॉम्प्ट, जिसमें एक व्यक्ति की गहरी छाया (silhouette) के भीतर धुंधला चीड़ का जंगल दिखाई देता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+सीमलेस लूप। एक हल्के, धुंधले हड्डी जैसे सफ़ेद बैकग्राउंड के सामने एक व्यक्ति की स्थिर प्रोफ़ाइल सिल्हूट। डबल-एक्सपोज़र प्रभाव: गहरी सिल्हूट के अंदर, पैसिफ़िक नॉर्थवेस्ट का एक घना चीड़ का जंगल दिखाई देता है, जिसमें सफ़ेद पहाड़ी कोहरे की परतें धीरे-धीरे तैर रही हैं।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="डबल-एक्सपोज़र सिल्हूट फ़ॉरेस्ट लूप">
 
 **[🎬 वीडियो देखें →](https://x.com/genevieve__h/status/2089068323132649758)**
 
 **लेखक:** [genevieveh@](https://x.com/genevieve__h) | **स्रोत:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **प्रकाशित:** Aug 16, 2026
 
 ---
-### Underwater Kelp Forest Video Loop
+### पानी के नीचे के केल्प फॉरेस्ट का वीडियो लूप
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+> पानी के नीचे के केल्प फॉरेस्ट के सीमलेस लूप के लिए एक शांत वीडियो प्रॉम्प्ट, जिसमें फ़िरोज़ी पानी के बीच से सूरज की रोशनी छनकर आ रही है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+सीमलेस लूप, समशीतोष्ण केल्प फॉरेस्ट का स्थिर वाइड-एंगल अंडरवाटर दृश्य। लंबी एम्बर केल्प की पत्तियां धीमी, सम्मोहक समुद्री धाराओं में झूम रही हैं, जबकि सुनहरी धूप की किरणें सतह से नीचे साफ फ़िरोज़ी पानी में प्रवेश कर रही हैं।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="पानी के नीचे के केल्प फॉरेस्ट का वीडियो लूप">
 
 **[🎬 वीडियो देखें →](https://x.com/genevieve__h/status/2089068314764997056)**
 
 **लेखक:** [genevieveh@](https://x.com/genevieve__h) | **स्रोत:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **प्रकाशित:** Aug 16, 2026
 
 ---
-### Cinematic Miniature Disaster Scene VFX
+### सिनेमैटिक मिनिएचर डिज़ास्टर सीन VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+> VFX स्टूडियो सेटिंग में सिनेमैटिक मिनिएचर डिज़ास्टर सीन जनरेट करने के लिए एक विस्तृत प्रॉम्प्ट, जिसमें यथार्थवादी वॉटर फिजिक्स और प्रोफेशनल लाइटिंग शामिल है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+एक विशाल प्रोफेशनल हॉलीवुड VFX स्टूडियो के अंदर एक अल्ट्रा-रियलिस्टिक सिनेमैटिक मिनिएचर डिज़ास्टर सीन बनाएं।
+
+गगनचुंबी इमारतों, सड़कों, पुलों, तटवर्ती इमारतों, वाहनों और नावों के साथ एक अत्यधिक विस्तृत मिनिएचर आधुनिक तटीय मेगासिटी दिखाएं। एक विशाल यथार्थवादी समुद्री लहर शहर की ओर टकराती है, जिससे भौतिक रूप से विश्वसनीय बाढ़, झाग, फुहार, धुंध, पानी का प्रतिबिंब और मलबा बनता है।
+
+मिनिएचर सेट के चारों ओर प्रोफेशनल VFX क्रू मेंबर्स, सिनेमा कैमरे, लाइटिंग रिग्स और स्टूडियो उपकरण शामिल करें ताकि एक प्रामाणिक बिहाइंड-द-सीन्स प्रैक्टिकल-इफेक्ट्स लुक तैयार हो सके।
+
+फोटो रियलिस्टिक, यथार्थवादी मिनिएचर स्केल, सिनेमैटिक लाइटिंग, प्राकृतिक छाया, विस्तृत बनावट, यथार्थवादी वॉटर फिजिक्स, शैलो डेप्थ ऑफ फील्ड, प्रोफेशनल सिनेमा कैमरा, स्मूथ कैमरा मूवमेंट, नाटकीय वातावरण, हॉलीवुड डिज़ास्टर-मूवी VFX क्वालिटी, 9:16 वर्टिकल फॉर्मेट।
+
+पूरे वीडियो में इमारतों, वातावरण और स्केल को एक समान बनाए रखें।
+
+बचें: कार्टून, CGI-दिखने वाले विजुअल्स, विकृत लोग, अतिरिक्त अंग, मुड़ी हुई इमारतें, झिलमिलाहट, अवास्तविक पानी, यादृच्छिक वस्तुएं, टेक्स्ट, लोगो, वॉटरमार्क।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="सिनेमैटिक मिनिएचर डिज़ास्टर सीन VFX">
 
 **[🎬 वीडियो देखें →](https://x.com/AiwithBloodline/status/2088473623694921736)**
 
 **लेखक:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **स्रोत:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **प्रकाशित:** Aug 15, 2026
 
 ---
-### Professional Boxer Daily Routine Sequence
+### प्रोफेशनल बॉक्सर की दैनिक दिनचर्या का क्रम
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy cinematic prompt for Gemini Omni that creates a 15-second day-in-the-life sequence of a Japanese boxer.
+> Gemini Omni के लिए एक हाई-एनर्जी सिनेमैटिक प्रॉम्प्ट, जो एक जापानी बॉक्सर के जीवन के एक दिन का 15-सेकंड का सीक्वेंस तैयार करता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a  young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his  hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+रेफरेंस इमेज का वैसे ही उपयोग करें। एक युवा जापानी प्रोफेशनल पुरुष बॉक्सर के जीवन के एक दिन का 15-सेकंड का हाई-एनर्जी सीक्वेंस बनाएं। 0–3 सेकंड: भोर से पहले का टोक्यो, वह सुबह 5:00 बजे उठता है, अपने बाल धोता है, अपने बॉक्सिंग जूते के फीते बांधता है और सटीकता के साथ अपने हाथों पर रैप लपेटता है। 3–6 सेकंड: वह शांत सड़कों पर दौड़ना शुरू करता है, ठंडी सुबह की हवा में उसकी सांसें दिखाई दे रही हैं, चेहरे पर दृढ़ संकल्प है। 6–9 सेकंड: एक पुराने बॉक्सिंग जिम के अंदर, वह तेजी से शैडोबॉक्सिंग करता है और हैवी बैग पर काम करता है, शक्तिशाली कॉम्बिनेशन, यथार्थवादी फुटवर्क और पसीना। 9–12 सेकंड: हैवी बैग पर दस्तानों के प्रहार का एक्सट्रीम क्लोज-अप, पसीने की बूंदें उड़ रही हैं, हर घूंसे के साथ मांसपेशियां स्वाभाविक रूप से तन रही हैं। 12–15 सेकंड: वह तेजी से जंप-रोप ड्रिल के साथ समाप्त करता है, भारी सांस ले रहा है, फिर आत्मविश्वास के साथ कैमरे की ओर देखता है। हाइपर-रियलिस्टिक स्किन, पसीना, बालों की हलचल और फैब्रिक फिजिक्स, प्रामाणिक बॉक्सिंग तकनीक, डायनामिक हैंडहेल्ड कैमरा, रैपिड ट्रैकिंग शॉट्स, नेचुरल मोशन ब्लर, नाटकीय जिम लाइटिंग, यथार्थवादी छाया, सिनेमैटिक डेप्थ ऑफ फील्ड, 4K, शारीरिक रूप से विश्वसनीय मूवमेंट, कोई CGI अपीयरेंस नहीं।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Professional Boxer Daily Routine Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="प्रोफेशनल बॉक्सर की दैनिक दिनचर्या का क्रम">
 
 **[🎬 वीडियो देखें →](https://x.com/AiwithBloodline/status/2087843492257243460)**
 
 **लेखक:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **स्रोत:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **प्रकाशित:** Aug 13, 2026
 
 ---
-### Continuous Shot Anime Mask Overlay
+### कंटीन्यूअस शॉट एनिमे मास्क ओवरले
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic video prompt for Gemini Omni that creates a single continuous shot of a subject using hand gestures to trigger dynamic anime-style facial overlays and masks with synchronized audio descriptions.
+> Gemini Omni के लिए एक जटिल सिनेमैटिक वीडियो प्रॉम्प्ट, जो एक विषय का सिंगल कंटीन्यूअस शॉट बनाता है। इसमें विषय हाथ के इशारों का उपयोग करके डायनामिक एनिमे-स्टाइल फेशियल ओवरले और मास्क को सिंक्रोनाइज़्ड ऑडियो विवरण के साथ ट्रिगर करता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Generate a single continuous shot.\n\n{ "setting": "Cozy minimalist indoor studio room with off-white walls and dark wood accents", \n  "lighting": "Soft diffused warm cove lighting with subtle side fill", \n  "weather": "Indoor ambient", \n  "color_grade": "Warm natural tones with high-contrast digital overlay pops" }\n\n[SUBJECT ANCHOR — reiterate character visual descriptors]:\nThe young East Asian man with long straight black hair wearing a dark grey hooded windbreaker jacket with visible drawstrings.\n\n[00:00-00:02]: The young East Asian man in the dark grey hooded jacket holds her hood drawstrings near her chin, then smoothly raises both hands, expanding her fingers to form a crisp rectangular geometric frame in front of her eyes. Inside the hand frame, a dynamic 2D cel-shaded anime eye graphic instantly pops into view overlaying her real eyes.\n[00:02-00:04]: She shifts her hand frame downward across her cheek, changing the framing angle to reveal a sharp, manga-style eye and eyebrow graphic overlay that tracks locked between her fingers.\n[00:04-00:06]: Moving her hands upward in a rhythmic motion, a stylized 2D anime smiling mouth graphic appears inside a new lower-face hand cutout frame, matching her head angle.\n[00:06-00:08]: She restructures her gesture, using index fingers to point diagonally across her eyes and nose region, creating a triangular hand frame that displays a vivid triangular vector anime mask filter over her upper face.\n[00:08-00:10]: She flips the triangular hand frame smoothly to the opposite angle over her lower face, holding a horizontal anime artwork banner overlay between her fingertips as the clip holds.\n\n🎤 VOICE PERFORMANCE:\nNo spoken dialogue in this opening segment. The audio performance is anchored by the rhythmic atmosphere of the musical build-up, synced to snappy, clean UI movement sounds.\n\nAmbient: Quiet residential room acoustics with soft low-end air resonance.\nFoley: Sharp digital swoosh and UI snap effects frame-locked precisely to each hand expansion and overlay state shift at 01s, 03s, 05s, 07s, and 09s.\nMusic: High-energy electro-pop/cyberpunk synth melody building in rhythm and intensity.
+एक सिंगल कंटीन्यूअस शॉट जनरेट करें।\n\n{ "setting": "ऑफ-व्हाइट दीवारों और गहरे लकड़ी के एक्सेंट के साथ आरामदायक मिनिमलिस्ट इनडोर स्टूडियो रूम", \n  "lighting": "हल्की डिफ्यूज्ड वार्म कोव लाइटिंग और सूक्ष्म साइड फिल", \n  "weather": "इनडोर एम्बिएंट", \n  "color_grade": "हाई-कॉन्ट्रास्ट डिजिटल ओवरले पॉप्स के साथ वार्म नेचुरल टोन" }\n\n[SUBJECT ANCHOR — कैरेक्टर विजुअल डिस्क्रिप्टर को दोहराएं]:\nलंबे सीधे काले बालों वाला युवा पूर्वी एशियाई पुरुष, जिसने गहरे भूरे रंग की हुडेड विंडब्रेकर जैकेट पहनी है, जिसमें ड्रॉस्ट्रिंग दिखाई दे रही है।\n\n[00:00-00:02]: गहरे भूरे रंग की हुडेड जैकेट पहने युवा पूर्वी एशियाई पुरुष अपनी हुड की ड्रॉस्ट्रिंग को ठुड्डी के पास पकड़ता है, फिर धीरे से दोनों हाथ ऊपर उठाता है, और अपनी उंगलियों को फैलाकर अपनी आंखों के सामने एक स्पष्ट आयताकार ज्यामितीय फ्रेम बनाता है। हाथों के फ्रेम के अंदर, एक डायनामिक 2D सेल-शेडेड एनिमे आई ग्राफिक तुरंत दिखाई देता है जो उसकी वास्तविक आंखों पर ओवरले हो जाता है।\n[00:02-00:04]: वह अपने हाथ के फ्रेम को गालों के नीचे की ओर ले जाता है, जिससे फ्रेमिंग एंगल बदल जाता है और एक शार्प, मंगा-स्टाइल आई और आइब्रो ग्राफिक ओवरले दिखाई देता है जो उसकी उंगलियों के बीच लॉक रहता है।\n[00:04-00:06]: अपने हाथों को लयबद्ध गति में ऊपर की ओर ले जाने पर, निचले चेहरे के नए हैंड कटआउट फ्रेम के अंदर एक स्टाइलिश 2D एनिमे स्माइलिंग माउथ ग्राफिक दिखाई देता है, जो उसके सिर के एंगल से मेल खाता है।\n[00:06-00:08]: वह अपने इशारे को फिर से व्यवस्थित करता है, अपनी तर्जनी उंगलियों का उपयोग करके आंखों और नाक के क्षेत्र में तिरछा इशारा करता है, जिससे एक त्रिकोणीय हैंड फ्रेम बनता है जो उसके ऊपरी चेहरे पर एक ज्वलंत त्रिकोणीय वेक्टर एनिमे मास्क फिल्टर प्रदर्शित करता है।\n[00:08-00:10]: वह त्रिकोणीय हैंड फ्रेम को धीरे से विपरीत कोण पर निचले चेहरे के ऊपर पलटता है, और क्लिप के दौरान अपनी उंगलियों के बीच एक क्षैतिज एनिमे आर्टवर्क बैनर ओवरले को पकड़े रखता है।\n\n🎤 वॉयस परफॉरमेंस:\nइस शुरुआती सेगमेंट में कोई संवाद नहीं है। ऑडियो परफॉरमेंस म्यूजिकल बिल्ड-अप के लयबद्ध माहौल पर आधारित है, जो स्नैपी, क्लीन UI मूवमेंट साउंड्स के साथ सिंक्ड है।\n\nएम्बिएंट: सॉफ्ट लो-एंड एयर रेजोनेंस के साथ शांत आवासीय कमरे की ध्वनिकी।\nफोले: शार्प डिजिटल स्वूश और UI स्नैप इफेक्ट्स, जो 01s, 03s, 05s, 07s और 09s पर प्रत्येक हाथ के विस्तार और ओवरले स्टेट शिफ्ट के साथ सटीक रूप से लॉक हैं।\nम्यूजिक: हाई-एनर्जी इलेक्ट्रो-पॉप/साइबरपंक सिंथ मेलोडी जो लय और तीव्रता में बढ़ती है।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Continuous Shot Anime Mask Overlay">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="कंटीन्यूअस शॉट एनिमे मास्क ओवरले">
 
 **[🎬 वीडियो देखें →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
 
 **लेखक:** [Aryan](https://x.com/Aryan_Ali_Pro) | **स्रोत:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **प्रकाशित:** Aug 12, 2026
 
 ---
-### Garden Squirrel Yard Sale
+### गार्डन स्क्विरल यार्ड सेल
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A whimsical prompt for Gemini Omni depicting a squirrel hosting a sale in a garden.
+> Gemini Omni के लिए एक मनमौजी प्रॉम्प्ट, जिसमें एक गिलहरी को बगीचे में सेल आयोजित करते हुए दिखाया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+गिलहरी के पास पैसों की कमी हो जाती है, इसलिए वह बगीचे में एक सेल लगाती है और कई कीमती चीजें पेश करती है
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Garden Squirrel Yard Sale">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="गार्डन स्क्विरल यार्ड सेल">
 
 **[🎬 वीडियो देखें →](https://x.com/SilverAIProject/status/2087298245747683578)**
 
 **लेखक:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **स्रोत:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **प्रकाशित:** Aug 11, 2026
 
 ---
-### Sneaky Cat Food Theft
+### बिल्ली की चालाकी: खाने की चोरी
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous narrative prompt for Gemini Omni featuring a cat stealing food and charming its owner.
+> Gemini Omni के लिए एक हास्यपूर्ण नैरेटिव प्रॉम्प्ट, जिसमें एक बिल्ली खाना चुराती है और अपनी मालकिन को लुभाती है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+एक चालाक काली और सफेद बिल्ली, जो चुपके से टॉर्टोइसेल बिल्ली का खाना चुरा रही है और अपनी प्यारी गुर्राहट से घर की मालकिन का दिल जीत रही है
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Sneaky Cat Food Theft">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="बिल्ली की चालाकी: खाने की चोरी">
 
 **[🎬 वीडियो देखें →](https://x.com/SilverAIProject/status/2087295479335751880)**
 
 **लेखक:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **स्रोत:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **प्रकाशित:** Aug 11, 2026
 
 ---
-### Business Dashboard Review
+### बिज़नेस डैशबोर्ड रिव्यू
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+> Gemini Omni के लिए एक यथार्थवादी ऑफिस प्रॉम्प्ट, जिसमें एक बिज़नेस ओनर AI डैशबोर्ड को रिव्यू कर रहा है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+एक चमकदार आधुनिक ऑफिस में एक बिज़नेस ओनर AI डैशबोर्ड को रिव्यू कर रहा है। मीडियम शॉट। धीमा ज़ूम। गर्म प्राकृतिक रोशनी। केंद्रित मूड। यथार्थवादी शैली। उच्च गुणवत्ता वाला वीडियो।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="बिज़नेस डैशबोर्ड रिव्यू">
 
 **[🎬 वीडियो देखें →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
 
 **लेखक:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **स्रोत:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **प्रकाशित:** Aug 11, 2026
 
 ---
-### Crystalline Frozen Water Droplet World
+### क्रिस्टलीय जमी हुई पानी की बूंदों की दुनिया
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+> Gemini Omni के लिए एक विस्तृत वीडियो प्रॉम्प्ट, जो पानी की एक बूंद को धीमी गति में क्रिस्टलीय जंगलों और बर्फ की चट्टानों वाले एक जटिल जमे हुए परिदृश्य में बदलते हुए दर्शाता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+फ्रेम में पूरी तरह से काला बैकग्राउंड है। पानी की एक साफ बूंद धीमी गति में ऊपर से गिरती है, एक अदृश्य सतह से टकराती है और पूरी तरह से गोलाकार लहरों और क्रिस्टलीय छींटों के साथ बाहर की ओर फैलती है। कैमरा पूरी तरह से स्थिर रहता है, जो इस तरल नृत्य पर केंद्रित है। जैसे-जैसे और बूंदें जुड़ती हैं, फैलता हुआ पानी धीरे-धीरे ऊंची बर्फ की चट्टानों, गिरते हुए झरनों और पाले के क्रिस्टलीय जंगलों का रूप ले लेता है। हल्का फ़िरोज़ी और चांदी जैसा प्रकाश तरल के माध्यम से रिसता है, जो पूरे दृश्य को एक चमकदार जमे हुए झरने के साम्राज्य में बदल देता है। अंतिम सेकंड में यह पूरी तरह से स्थिर, पूर्ण क्रिस्टलीय दुनिया पर रुक जाता है। शैली: अमूर्त सुंदरता | तरल गति | क्रिस्टलीय परिवर्तन कैमरा: स्थिर मैक्रो → धीमी गति में खुलासा अवधि: 10 सेकंड लाइटिंग: कूल रिम लाइट, उच्च स्पष्टता, अलौकिक चमक
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="क्रिस्टलीय जमी हुई पानी की बूंदों की दुनिया">
 
 **[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2087219303926124787)**
 
 **लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **प्रकाशित:** Aug 11, 2026
 
 ---
-### Hand Plucking Star from Night Sky Prompt
+### रात के आकाश से तारा तोड़ने वाला प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
+> एक हाथ के रात के आकाश में पहुँचकर चमकते हुए तारे को तोड़ने का असली जैसा फर्स्ट-पर्सन पर्सपेक्टिव इमेज प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
+फर्स्ट-पर्सन व्यू, एक इंसान का हाथ गहरे रात के आकाश की ओर पहुँच रहा है, अंधेरे से एक चमकते हुए तारे को फल की तरह नाजुक ढंग से तोड़ रहा है। गहरा नीला आकाश, टिमटिमाते तारे, असली जैसा फोर्स-पर्सपेक्टिव स्केल,
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="रात के आकाश से तारा तोड़ने वाला प्रॉम्प्ट">
 
 **[🎬 वीडियो देखें →](https://x.com/TheChuksAi/status/2087042640453738616)**
 
 **लेखक:** [ChuksAi](https://x.com/TheChuksAi) | **स्रोत:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **प्रकाशित:** Aug 11, 2026
 
 ---
-### Ember and the Firefly Storyboard Shot 1
+### Ember and the Firefly स्टोरीबोर्ड शॉट 1
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
+> 'Ember and the Firefly' सिनेमैटिक डेमो का शुरुआती शॉट, जिसमें एक कैरेक्टर को एक चमकते हुए जुगनू को देखकर ठिठकते हुए एक वाइड पुश-इन शॉट में दिखाया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
+EMBER AND THE FIREFLY स्टोरीबोर्ड — 8-सेकंड शॉट लिस्ट
 
-SHOT 1 | THE SPARK (0:00–1:3s)
-Cam: Static wide, slow push-in.
-Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
-Sound: Forest hush, soft chime on the glow.
+शॉट 1 | द स्पार्क (0:00–1:3s)
+कैमरा: स्टैटिक वाइड, धीमा पुश-इन।
+एक्शन: Ember कदम बढ़ाते हुए रुक जाती है, उसके कान एक चमकते हुए जुगनू की ओर मुड़ जाते हैं।
+साउंड: जंगल की शांति, चमक के साथ हल्की झनकार।
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
+<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly स्टोरीबोर्ड शॉट 1">
 
 **[🎬 वीडियो देखें →](https://x.com/Gre8tDan/status/2086787909399572802)**
 
 **लेखक:** [Great Dan 🥥](https://x.com/Gre8tDan) | **स्रोत:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **प्रकाशित:** Aug 10, 2026
 
 ---
-### Bouncing Strawberry Jello Pool
+### उछलता हुआ स्ट्रॉबेरी जेली पूल
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
+> पारभासी रूबी-लाल स्ट्रॉबेरी जेली पूल और उछलती हुई जेली स्ट्रॉबेरी का एक अत्यधिक विस्तृत सिनेमैटिक वीडियो प्रॉम्प्ट, जो बनावट और भौतिकी पर जोर देता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
+सफेद से हल्के गुलाबी रंग के सीमलेस ग्रेडिएंट बैकग्राउंड पर पूरी तरह से पारभासी रूबी-लाल स्ट्रॉबेरी जेली से बना एक शानदार स्विमिंग पूल। उसी चमकदार जेली से बनी एक विशाल यथार्थवादी स्ट्रॉबेरी पूल के केंद्र से ऊपर उठती है और धीरे-धीरे ऊपर की ओर उछलती है, फिर वापस सतह पर गिरती है, जिससे सुंदर संकेंद्रित जेली लहरें और हल्की छींटें बनती हैं। जेली की छोटी-छोटी पारभासी बूंदें हवा में फैलती हैं और स्टूडियो की रोशनी को पकड़ती हैं। कैमरा चमकदार जेली बनावट के मैक्रो क्लोज-अप के साथ शुरू होता है, स्ट्रॉबेरी के ऊपर उठने पर धीरे-धीरे पीछे हटता है, और फिर उसके गिरने पर धीरे से आगे बढ़ता है। यथार्थवादी जिलेटिन विरूपण, डगमगाहट, खिंचाव, हल्का उछाल, तरल जैसी सतह की लहरें, विश्वसनीय पारभासी और सब-सरफेस स्कैटरिंग। प्रीमियम आर्ट-डायरेक्टेड फूड फोटोग्राफी, मिनिमलिस्ट स्टूडियो कंपोजिशन, मंत्रमुग्ध कर देने वाला ASMR एस्थेटिक, सिनेमैटिक स्मूथ मोशन, सिंगल कंटीन्यूअस शॉट, ठीक 10 सेकंड, कोई टेक्स्ट नहीं, कोई लोगो नहीं।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="उछलता हुआ स्ट्रॉबेरी जेली पूल">
 
 **[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
 **लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **प्रकाशित:** Aug 10, 2026
 
 ---
-### Treehouse Interior Detailing Motion Prompt
+### ट्रीहाउस इंटीरियर डिटेलिंग मोशन प्रॉम्प्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+> एक लघु ट्रीहाउस निर्माण टाइमलैप्स के पेंटिंग और इंटीरियर डिटेलिंग चरण के लिए एक मोशन प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+मोशन प्रॉम्प्ट 4 से पूरी तरह तैयार बाहरी ट्रीहाउस का उपयोग सटीक शुरुआती फ्रेम के रूप में करें। सटीक वास्तुकला, छत, खिड़कियां, बालकनी, पेड़, वातावरण और अनुपात को बनाए रखें।
 
-Create an ultra fast timelapse
+एक अल्ट्रा फास्ट टाइमलैप्स बनाएं
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="ट्रीहाउस इंटीरियर डिटेलिंग मोशन प्रॉम्प्ट">
 
 **[🎬 वीडियो देखें →](https://x.com/Strength04_X/status/2086644591089041676)**
 
@@ -390,14 +400,14 @@ Create an ultra fast timelapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+> एक Gemini Omni मोशन प्रॉम्प्ट, जो विज़ुअल कंसिस्टेंसी बनाए रखते हुए अल्ट्रा-फास्ट टाइमलैप्स इफेक्ट के साथ एक ऊंचे ट्रीहाउस फाउंडेशन के निर्माण को एनिमेट करता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+First Frame Image का उपयोग सटीक शुरुआती फ्रेम के रूप में करें और उसी पेड़, शाखाओं, वातावरण, मिनिएचर स्केल, सामग्री, लाइटिंग, कैमरा स्टाइल और विज़ुअल आइडेंटिटी को बनाए रखें।
 
-Create an ultra fast timelapse speed construction
+अल्ट्रा फास्ट टाइमलैप्स स्पीड कंस्ट्रक्शन बनाएं
 ```
 
 <img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
@@ -407,264 +417,264 @@ Create an ultra fast timelapse speed construction
 **लेखक:** [𝐌](https://x.com/Strength04_X) | **स्रोत:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **प्रकाशित:** Aug 10, 2026
 
 ---
-### Anime Style Pandan Flour Pressing
+### एनीमे स्टाइल में पंदन आटा प्रेसिंग
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+> Gemini Omni के लिए एक 2D एनीमे-स्टाइल प्रॉम्प्ट, जिसमें हाथों द्वारा चावल के आटे के डो (dough) को लिक्विड नाइट्रोजन में प्रेस करने का एक मनमोहक दृश्य दर्शाया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+जापानी एनीमे-स्टाइल का एक 2D एनिमेटेड क्लोज-अप वीडियो। हाथ से बने एनीमे हाथ, चमकीले हरे पंदन चावल के आटे के डो को एक पारंपरिक प्रेस के जरिए लिक्विड नाइट्रोजन के कटोरे में डालते हैं, जिससे ठंडी भाप और चमकती हुई वाष्प का एक मनमोहक बादल बनता है।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="एनीमे स्टाइल में पंदन आटा प्रेसिंग">
 
 **[🎬 वीडियो देखें →](https://x.com/playinbey/status/2085826420287418413)**
 
 **लेखक:** [PLAY!](https://x.com/playinbey) | **स्रोत:** [Link](https://x.com/playinbey/status/2085826420287418413) | **प्रकाशित:** Aug 7, 2026
 
 ---
-### Dread and Foreboding Image-to-Video
+### भय और आशंका पैदा करने वाला इमेज-टू-वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+> एक स्थिर छवि को कई कैमरा शॉट्स का उपयोग करके भय और आशंका से भरे गतिशील वीडियो दृश्य में बदलने के लिए डिज़ाइन किया गया प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+इस छवि के आधार पर एक दिलचस्प दृश्य बनाएं, जिसमें भय और आशंका की भावना पैदा करने के लिए कई कैमरा शॉट्स और डायनामिक फ्रेमिंग का उपयोग किया गया हो।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="भय और आशंका पैदा करने वाला इमेज-टू-वीडियो">
 
 **[🎬 वीडियो देखें →](https://x.com/pzf_ai/status/2085736211625230529)**
 
 **लेखक:** [PZF](https://x.com/pzf_ai) | **स्रोत:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **प्रकाशित:** Aug 7, 2026
 
 ---
-### Cherry Blossom Tree Gel Sculpture
+### चेरी ब्लॉसम ट्री जेल स्कल्पचर
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+> Gemini Omni के लिए एक सिनेमैटिक मैक्रो प्रॉम्प्ट, जो एक चमकते हुए जेल को ट्यूब से बाहर निकलते समय एक विस्तृत लघु चेरी ब्लॉसम ट्री में बदलते हुए दर्शाता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
-Style:
-Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+एक यथार्थवादी हाथ धीरे-धीरे एक चिकनी धात्विक ट्यूब को पॉलिश किए हुए नोजल के साथ दबाता है। साधारण पेस्ट के बजाय, एक क्रिस्टल-क्लियर, हल्की चमक वाला जेल आसानी से बाहर निकलता है। जैसे-जैसे सामग्री बाहर आती है, यह जैविक रूप से एक छोटे, खूबसूरती से गढ़े हुए "चेरी ब्लॉसम ट्री" में बदल जाती है, जो एक निरंतर गति में परत-दर-परत आकार लेती है। नाजुक तना पहले ऊपर उठता है, जिसके बाद सुंदर शाखाएं आती हैं जो सैकड़ों छोटे पारभासी चेरी ब्लॉसम में खिलती हैं, जो सभी एक एकल तरल परिवर्तन में निर्बाध रूप से बनती हैं।
+तैयार लघु वस्तु चमकदार, थोड़ी पारभासी, नरम और लचीली दिखाई देती है, जो स्वाभाविक रूप से स्थिर होने से पहले हल्का सा हिलती है। फूल स्थिर होने से पहले धीरे-धीरे कांपते हैं, जबकि चिकनी जेल सतह पर छोटे हाइलाइट्स चलते हैं। एक नरम आंतरिक चमक हर शाखा और पंखुड़ी के माध्यम से फैलती है, जो एक सुरुचिपूर्ण प्रीमियम ग्लास जैसा रूप बनाती है।
+यह वस्तु एक गहरे मैट पत्थर की सतह पर टिकी है जिसे नाजुक पानी की बूंदों से सजाया गया है जो यथार्थवाद और प्रतिबिंबों को बढ़ाते हैं।
+शैली:
+अल्ट्रा मैक्रो फोटोग्राफी
+हाइपर-यथार्थवादी CGI
+सिनेमैटिक स्टूडियो लाइटिंग
+अत्यंत उथली डेप्थ ऑफ फील्ड
+समृद्ध प्रतिबिंब
+प्रीमियम उत्पाद कमर्शियल एस्थेटिक
+चिकना निरंतर परिवर्तन
+कुरकुरी बनावट
+फोटोयथार्थवादी सामग्री
+8K गुणवत्ता
+वर्टिकल 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
-Negative Prompt:
-Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+कोई टेक्स्ट नहीं
+कोई कैमरा मूवमेंट नहीं
+कोई बैकग्राउंड डिस्ट्रेक्शन नहीं
+नेगेटिव प्रॉम्प्ट:
+कम गुणवत्ता, कार्टून, एनीमे, कम विवरण, प्लास्टिक जैसा रूप, ग्रेन, शोर, झिलमिलाहट, टूटी हुई ज्यामिति, विकृत आकार, अतिरिक्त वस्तुएं, टेक्स्ट, वॉटरमार्क, लोगो, अत्यधिक संतृप्त रंग, अवास्तविक प्रकाश व्यवस्था, हिलता हुआ कैमरा, मोशन ब्लर, अव्यवस्थित पृष्ठभूमि।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="चेरी ब्लॉसम ट्री जेल स्कल्पचर">
 
 **[🎬 वीडियो देखें →](https://x.com/Strength04_X/status/2085703642037018819)**
 
 **लेखक:** [𝐌](https://x.com/Strength04_X) | **स्रोत:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **प्रकाशित:** Aug 7, 2026
 
 ---
-### Jelly Octopus Macro Transformation
+### जेली ऑक्टोपस मैक्रो ट्रांसफॉर्मेशन
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
+> Gemini Omni के लिए एक अत्यधिक विस्तृत मैक्रो सिनेमैटोग्राफी प्रॉम्प्ट, जो एक चमकते हुए जेल को एक लचीले जेली ऑक्टोपस में बदलते हुए दर्शाता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Extreme close-up macro cinematography. 
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+अत्यधिक क्लोज-अप मैक्रो सिनेमैटोग्राफी।
+एक यथार्थवादी हाथ धीरे-धीरे एक पॉलिश किए हुए नोजल वाली चिकनी धात्विक ट्यूब को दबाता है। साधारण पेस्ट के बजाय, एक क्रिस्टल-क्लियर, हल्की चमक वाला जेल सुचारू रूप से बाहर निकलता है। जैसे ही सामग्री बाहर आती है, यह जैविक रूप से एक छोटे, खूबसूरती से गढ़े गए "Jelly Octopus" में बदल जाती है, जो एक निरंतर गति में परत-दर-परत आकार लेती है।
+तैयार लघु आकृति चमकदार, थोड़ी पारभासी, नरम और लचीली दिखाई देती है, जो स्वाभाविक रूप से स्थिर होने से पहले हल्का सा हिलती है। इसका गोल सिर धीरे से उछलता है जबकि छोटी टेंटेकल्स (tentacles) जीवन जैसी लोच के साथ धीरे से लहरती हैं और स्थिर हो जाती हैं। इसकी चिकनी सतह पर छोटे-छोटे हाइलाइट्स घूमते हैं जबकि आंतरिक प्रकाश जेल के माध्यम से धीरे से फैलता है, जो एक सुंदर प्रीमियम लुक बनाता है।
+यह वस्तु एक गहरे मैट पत्थर की सतह पर टिकी है, जो नाजुक पानी की बूंदों से सजी है जो यथार्थवाद और प्रतिबिंबों को बढ़ाती है।
 
-Style: Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+शैली: अल्ट्रा मैक्रो फोटोग्राफी
+हाइपर-यथार्थवादी CGI
+सिनेमैटिक स्टूडियो लाइटिंग
+अत्यधिक उथली डेप्थ ऑफ फील्ड
+समृद्ध प्रतिबिंब
+प्रीमियम उत्पाद कमर्शियल एस्थेटिक
+सुचारू निरंतर परिवर्तन
+स्पष्ट बनावट (textures)
+फोटो-यथार्थवादी सामग्री
+8K गुणवत्ता
+वर्टिकल 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
+कोई टेक्स्ट नहीं
+कोई कैमरा मूवमेंट नहीं
+पृष्ठभूमि में कोई विकर्षण नहीं
 
-Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+नेगेटिव प्रॉम्प्ट: कम गुणवत्ता, कार्टून, एनीमे, कम विवरण, प्लास्टिक जैसा दिखना, ग्रेन, नॉइज़, झिलमिलाहट, टूटी हुई ज्यामिति, विकृत आकार, अतिरिक्त वस्तुएं, टेक्स्ट, वॉटरमार्क, लोगो, अत्यधिक संतृप्त रंग, अवास्तविक लाइटिंग, हिलता हुआ कैमरा, मोशन ब्लर, अव्यवस्थित पृष्ठभूमि।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="जेली ऑक्टोपस मैक्रो ट्रांसफॉर्मेशन">
 
 **[🎬 वीडियो देखें →](https://x.com/Strength04_X/status/2085559452481261606)**
 
 **लेखक:** [𝐌](https://x.com/Strength04_X) | **स्रोत:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **प्रकाशित:** Aug 7, 2026
 
 ---
-### Prehistoric Caveman Rock Concert
+### प्रागैतिहासिक गुफा मानव रॉक कॉन्सर्ट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+> एक डॉक्यूमेंट्री-शैली का वीडियो प्रॉम्प्ट जिसमें प्रागैतिहासिक मानव डायनासोर से घिरे मंच पर कॉन्सर्ट कर रहे हैं।
 
 #### 📝 प्रॉम्पट
 
 ```
-A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+प्रागैतिहासिक काल में सेट किया गया एक कॉन्सर्ट दृश्य। मंच पर गुफा मानव और प्रागैतिहासिक लोग हैं, जो एक अस्पष्ट भाषा में गा रहे हैं। डायनासोर भी इधर-उधर घूम रहे हैं। कॉन्सर्ट देखने के लिए भीड़भाड़ वाला समुदाय मौजूद है। शूटिंग मल्टी-शॉट होगी, जिसमें कैमरे का अहसास प्राकृतिक और डॉक्यूमेंट्री जैसा होना चाहिए। दृश्य शैली अल्ट्रा-रियलिस्टिक होनी चाहिए।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="प्रागैतिहासिक गुफा मानव रॉक कॉन्सर्ट">
 
 **[🎬 वीडियो देखें →](https://x.com/ozansihay/status/2085420070952649179)**
 
 **लेखक:** [Ozan Sihay](https://x.com/ozansihay) | **स्रोत:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **प्रकाशित:** Aug 6, 2026
 
 ---
-### Ink Splash to Landscape Painting
+### स्याही के छींटों से लैंडस्केप पेंटिंग
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+> Gemini Omni के लिए एक वर्णनात्मक प्रॉम्प्ट, जो सफेद बैकग्राउंड पर काली स्याही की बूंदों को एक रंगीन लघु लैंडस्केप पेंटिंग में बदलते हुए दिखाता है, जिसमें सिनेमैटिक स्लो-मोशन का अनुभव मिलता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
-Style: abstract beauty | fluid motion | artistic transformation
-Camera: static macro → slow reveal
-Length: 10 seconds
-Lighting: soft studio light, high clarity
+फ्रेम पूरी तरह से सफेद बैकग्राउंड से भरा हुआ है। गाढ़ी काली स्याही की बूंदें स्लो-मोशन में गिरती हैं और खिलते हुए फूलों की तरह बाहर की ओर फैलती हैं। कैमरा पूरी तरह स्थिर है और तरल गति पर केंद्रित है। जैसे-जैसे स्याही फैलती है, आकृतियाँ धीरे-धीरे पहाड़ों, नदियों और पेड़ों में बदल जाती हैं। गहरे नीले और हरे रंग उभरने लगते हैं—जब तक कि स्याही पूरी तरह से एक लघु लैंडस्केप पेंटिंग में नहीं बदल जाती। अंतिम सेकंड में पूरी तरह तैयार दुनिया स्थिर रहती है।
+स्टाइल: एब्सट्रैक्ट ब्यूटी | फ्लूइड मोशन | आर्टिस्टिक ट्रांसफॉर्मेशन
+कैमरा: स्टैटिक मैक्रो → स्लो रिवील
+अवधि: 10 सेकंड
+लाइटिंग: सॉफ्ट स्टूडियो लाइट, हाई क्लैरिटी
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="स्याही के छींटों से लैंडस्केप पेंटिंग">
 
 **[🎬 वीडियो देखें →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
 **लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **प्रकाशित:** Aug 6, 2026
 
 ---
-### High-Energy Match Cut Video
+### हाई-एनर्जी मैच कट वीडियो
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+> 16:9 के सिनेमाई आस्पेक्ट रेशियो में, प्रति सेकंड दो की दर से हाई-एनर्जी मैच कट्स वाले 10-सेकंड के तेज़-तर्रार वीडियो को जनरेट करने के लिए एक तकनीकी प्रॉम्प्ट।
 
 #### 📝 प्रॉम्पट
 
 ```
-generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+20 मैच कट्स वाला 10 सेकंड का क्लिप जनरेट करें, जिसमें प्रति सेकंड 2 कट्स हों। सिनेमाई और हाई एनर्जी। 16:9 रेशियो।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="हाई-एनर्जी मैच कट वीडियो">
 
 **[🎬 वीडियो देखें →](https://x.com/ViralOps_/status/2085069575700246678)**
 
 **लेखक:** [ViralOps](https://x.com/ViralOps_) | **स्रोत:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **प्रकाशित:** Aug 5, 2026
 
 ---
-### Traditional Sumo Rikishi Scene
+### पारंपरिक सुमो रिक्शी दृश्य
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+> एक प्रॉम्प्ट जो पारंपरिक जापानी सुमो कुश्ती के दृश्य को दर्शाता है, जिसमें रिक्शी मावाशी और चोनमागे हेयरस्टाइल में हैं, जो लड़ाई से पहले के अनुष्ठान पर केंद्रित है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+हक्के-योई! हर कोई एक बेहतरीन मावाशी पहने हुए है, और सिर पर एक शानदार चोनमागे है। फिर भी, एक अजीब बात बाकी है: एक रिक्शी लड़ाई से पहले दोह्यो पर शिकिरी में अपनी अग्रबाहु (forearm) कभी नहीं रखता।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="पारंपरिक सुमो रिक्शी दृश्य">
 
 **[🎬 वीडियो देखें →](https://x.com/222TT222/status/2085036219894026485)**
 
 **लेखक:** [TakTempest](https://x.com/222TT222) | **स्रोत:** [Link](https://x.com/222TT222/status/2085036219894026485) | **प्रकाशित:** Aug 5, 2026
 
 ---
-### Mechanical Pepper Grinder Mantis Kitchen Duel
+### मैकेनिकल पेपर ग्राइंडर मैंटिस किचन डुल
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A cinematic macro video prompt for Gemini Omni that depicts a mechanical mantis made of a pepper grinder battling a cockroach on a kitchen counter, complete with a detailed multi-shot timeline.
+> Gemini Omni के लिए एक सिनेमैटिक मैक्रो वीडियो प्रॉम्प्ट, जिसमें किचन काउंटर पर एक कॉकरोच से लड़ते हुए पेपर ग्राइंडर से बने मैकेनिकल मैंटिस को दर्शाया गया है, साथ ही एक विस्तृत मल्टी-शॉट टाइमलाइन भी शामिल है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Macro cinematic lens, the night kitchen countertop is filmed like a vast metal wasteland. Crumbs, salt grains, and herb fragments are scattered like rocks and bushes on the surface. The protagonist is a peculiar 'Pepper Grinder Mantis': the body is a small silver stainless steel pepper grinder, tilted slightly forward vertically, with long real mantis legs growing from the bottom and sides, and two iconic scythe-like predatory forelimbs in front. It has no normal insect head; the main body is the pepper grinder itself, moving cautiously and mechanically.
+मैक्रो सिनेमैटिक लेंस, रात के किचन काउंटरटॉप को एक विशाल धातु के बंजर भूमि की तरह फिल्माया गया है। ब्रेड के टुकड़े, नमक के दाने और जड़ी-बूटियों के अंश सतह पर चट्टानों और झाड़ियों की तरह बिखरे हुए हैं। मुख्य पात्र एक अजीब 'पेपर ग्राइंडर मैंटिस' है: शरीर एक छोटा चांदी का स्टेनलेस स्टील पेपर ग्राइंडर है, जो लंबवत रूप से थोड़ा आगे की ओर झुका हुआ है, जिसके नीचे और किनारों से लंबे असली मैंटिस के पैर निकले हुए हैं, और सामने दो प्रतिष्ठित दरांती जैसे शिकारी अग्रपाद (forelimbs) हैं। इसका कोई सामान्य कीट सिर नहीं है; मुख्य शरीर स्वयं पेपर ग्राइंडर है, जो सावधानी से और यांत्रिक रूप से चल रहा है।
 
-A shiny brown cockroach slowly crawls out from behind the shadow of a napkin on the left, quickly approaching the pepper grinder mantis. The air is tense, like a late-night kitchen duel. The pepper grinder mantis suddenly stops, its body rising slightly as if locking onto a target. Then it snaps the top grinding head, emitting a crisp mechanical sound, and a large amount of black pepper fragments spray out from the top and front like a smoke grenade, hitting the cockroach directly.
+एक चमकदार भूरा कॉकरोच धीरे-धीरे बाईं ओर नैपकिन की छाया के पीछे से बाहर निकलता है, और तेजी से पेपर ग्राइंडर मैंटिस की ओर बढ़ता है। हवा में तनाव है, जैसे देर रात का किचन डुल। पेपर ग्राइंडर मैंटिस अचानक रुक जाता है, उसका शरीर थोड़ा ऊपर उठता है जैसे किसी लक्ष्य पर निशाना साध रहा हो। फिर वह ऊपरी ग्राइंडिंग हेड को घुमाता है, जिससे एक स्पष्ट यांत्रिक ध्वनि निकलती है, और काली मिर्च के टुकड़ों की एक बड़ी मात्रा ऊपर और सामने से स्मोक ग्रेनेड की तरह बाहर निकलती है, जो सीधे कॉकरोच पर लगती है।
 
-The cockroach is choked by the pepper, retreating in panic, antennae swinging wildly, feet slipping, and quickly retreats back into the shadow on the left. Fine black pepper particles and a slight powder mist float in the air. The pepper grinder mantis remains in place, forelimbs held high, like a calmly winning night warrior.
+कॉकरोच काली मिर्च के कारण घुटने लगता है, घबराहट में पीछे हटता है, एंटीना तेजी से हिल रहे हैं, पैर फिसल रहे हैं, और वह जल्दी से बाईं ओर छाया में वापस चला जाता है। काली मिर्च के बारीक कण और हल्की पाउडर की धुंध हवा में तैर रही है। पेपर ग्राइंडर मैंटिस अपनी जगह पर बना रहता है, अग्रपाद ऊपर उठाए हुए, एक शांत विजयी रात के योद्धा की तरह।
 
-Timeline Storyboard:
-0–3s: Ultra close-up macro shot. The silver pepper grinder mantis walks slowly on the kitchen counter, surrounded by crumbs, salt, and herbs. Soft reflections on the metal surface, mantis legs move realistically.
-3–6s: In the shadows on the left, a brown cockroach suddenly appears, quickly approaching the mantis. Slight camera follow, creating tension. The two face off briefly in a small open area.
-6–7s: The top of the pepper grinder suddenly rotates quickly, making a mechanical grinding sound. A large amount of black pepper powder bursts out, forming a dense granular black spray, hitting the cockroach head-on.
-7–10s: The cockroach retreats in chaos after being stimulated by the pepper, quickly fleeing into the shadow on the left and disappearing. Black pepper dust floats in the air. The pepper grinder mantis remains still, forelimbs raised, standing guard like a victor.
+टाइमलाइन स्टोरीबोर्ड:
+0–3 सेकंड: अल्ट्रा क्लोज-अप मैक्रो शॉट। चांदी का पेपर ग्राइंडर मैंटिस किचन काउंटर पर धीरे-धीरे चलता है, जिसके चारों ओर ब्रेड के टुकड़े, नमक और जड़ी-बूटियाँ हैं। धातु की सतह पर नरम प्रतिबिंब, मैंटिस के पैर यथार्थवादी तरीके से हिलते हैं।
+3–6 सेकंड: बाईं ओर की छाया में, एक भूरा कॉकरोच अचानक दिखाई देता है, तेजी से मैंटिस की ओर बढ़ता है। हल्का कैमरा फॉलो, तनाव पैदा करता है। दोनों एक छोटे खुले क्षेत्र में संक्षेप में आमने-सामने होते हैं।
+6–7 सेकंड: पेपर ग्राइंडर का ऊपरी हिस्सा अचानक तेजी से घूमता है, जिससे एक यांत्रिक पीसने की आवाज आती है। काली मिर्च के पाउडर की एक बड़ी मात्रा बाहर निकलती है, जो एक घने दानेदार काले स्प्रे का निर्माण करती है, जो सीधे कॉकरोच पर लगती है।
+7–10 सेकंड: काली मिर्च से उत्तेजित होने के बाद कॉकरोच अराजकता में पीछे हटता है, तेजी से बाईं ओर छाया में भाग जाता है और गायब हो जाता है। काली मिर्च की धूल हवा में तैरती है। पेपर ग्राइंडर मैंटिस स्थिर रहता है, अग्रपाद ऊपर उठाए हुए, एक विजेता की तरह पहरा देता है।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mechanical Pepper Grinder Mantis Kitchen Duel">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="मैकेनिकल पेपर ग्राइंडर मैंटिस किचन डुल">
 
 **[🎬 वीडियो देखें →](https://x.com/jesselaunz/status/2084153849326309450)**
 
 **लेखक:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **स्रोत:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **प्रकाशित:** Aug 3, 2026
 
 ---
-### Shark Rock Band Dive Bar Footage
+### शार्क रॉक बैंड डाइव बार फुटेज
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a gritty, bootleg-style video of a fictional shark rock band performing live in a crowded dive bar atmosphere.
+> एक भीड़-भाड़ वाले डाइव बार के माहौल में लाइव परफॉर्म कर रहे एक काल्पनिक शार्क रॉक बैंड का ग्रिटी, बूटलेग-शैली का वीडियो जेनरेट करता है।
 
 #### 📝 प्रॉम्पट
 
 ```
-Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," real sharks somehow balanced on boards and shredding guitars with their fins, hisses a brief hello before tearing into their thrashing single, "Chum Bucket."
+एक भीड़-भाड़ वाले डाइव बार से बूटलेग फुटेज: सर्फ-नॉइज़ बैंड "Sharks on Surfboards", असली शार्क जो किसी तरह बोर्ड पर संतुलित हैं और अपने पंखों से गिटार बजा रही हैं, अपने थ्रैशिंग सिंगल "Chum Bucket" को शुरू करने से पहले एक संक्षिप्त हैलो बोलती हैं।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Shark Rock Band Dive Bar Footage">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="शार्क रॉक बैंड डाइव बार फुटेज">
 
 **[🎬 वीडियो देखें →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
 
 **लेखक:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **स्रोत:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **प्रकाशित:** Aug 3, 2026
 
 ---
-### Luxury Toddler Fashion Commercial
+### लक्जरी टॉडलर फैशन कमर्शियल
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+> टॉडलर्स के लिए एक हाई-एंड फैशन कमर्शियल प्रॉम्प्ट, जिसमें लक्जरी एस्थेटिक को 'फेरल' (जंगली) और 'अनस्टॉपेबल' (अजेय) के रूप में दर्शाया गया है।
 
 #### 📝 प्रॉम्पट
 
 ```
-a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+टॉडलर्स के लिए एक हाई-एंड फैशन कमर्शियल, लक्जरी का जंगली रूप, प्यारे लेकिन अजेय।
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="लक्जरी टॉडलर फैशन कमर्शियल">
 
 **[🎬 वीडियो देखें →](https://x.com/ritesh_ai/status/2083525213309042711)**
 
@@ -2903,6 +2913,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-18T08:34:24.541Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-18T12:41:37.047Z</sub>
 
 </div>

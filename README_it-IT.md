@@ -56,615 +56,625 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
-### Forbidden City Hall Transformation
+### Trasformazione del Drago nella Città Proibita
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+> Un prompt di trasformazione multi-fase per Gemini Omni Flash che trasforma la Sala dell'Armonia Suprema in un Drago Imperiale Cinese utilizzando immagini di riferimento.
 
 #### 📝 Prompt
 
 ```
-@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+@Image1 è l'originale esatto della Sala dell'Armonia Suprema. @Image2 definisce la trasformazione intermedia approvata. @Image3 definisce il Drago Imperiale Cinese finale, guardiano del palazzo. Creane uno
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Trasformazione del Drago nella Città Proibita">
 
 **[🎬 Guarda il video →](https://x.com/CrazyKaomei/status/2089279848741261762)**
 
 **Autore:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Fonte:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Pubblicato:** Aug 17, 2026
 
 ---
-### Bolivian Salt Flats Mirror Sunrise
+### Alba specchiata sulle saline boliviane
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+> Un prompt video minimalista per un'alba specchiata sulle saline boliviane allagate, caratterizzato da un ampio spazio negativo.
 
 #### 📝 Prompt
 
 ```
-Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+Loop continuo, inquadratura statica a campo lungo sulle saline boliviane allagate. Un sottile strato d'acqua immobile riflette perfettamente le nuvole color rosa pastello e lavanda dell'alba, che si spostano impercettibilmente nel cielo. Ampio spazio negativo, minimalismo etereo.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Alba specchiata sulle saline boliviane">
 
 **[🎬 Guarda il video →](https://x.com/genevieve__h/status/2089068330225221876)**
 
 **Autore:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Pubblicato:** Aug 16, 2026
 
 ---
-### Ghibli Style Koi Pond Loop
+### Loop di laghetto di koi in stile Ghibli
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+> Un bellissimo prompt video ispirato allo Studio Ghibli che mostra pesci koi che nuotano in uno stagno ad acquerello con luce solare filtrata.
 
 #### 📝 Prompt
 
 ```
-Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+Loop continuo, vista statica dall'alto di un limpido laghetto da giardino in stile anime acquerello dello Studio Ghibli. Pesci koi colorati che nuotano lentamente sotto ninfee galleggianti. Increspature delicate dell'acqua, luce solare filtrata attraverso le foglie d'acero, colori pastello tenui, movimento ambientale calmo.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Loop di laghetto di koi in stile Ghibli">
 
 **[🎬 Guarda il video →](https://x.com/genevieve__h/status/2089068327691862357)**
 
 **Autore:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Pubblicato:** Aug 16, 2026
 
 ---
-### Zero Gravity Glass Ribbon Loop
+### Nastro di vetro a gravità zero in loop
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+> Un prompt video ipnotico e astratto di un nastro di vetro rifrangente che fluttua in assenza di gravità su uno sfondo scuro.
 
 #### 📝 Prompt
 
 ```
-Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+Loop continuo, inquadratura fissa di un nastro di vetro trasparente e rifrangente che ondeggia lentamente in assenza di gravità su uno sfondo color ossidiana. Sottile aberrazione cromatica lungo i bordi, caustiche delicate, movimento lento e ipnotico, ampio spazio negativo per l'interfaccia utente.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Nastro di vetro a gravità zero in loop">
 
 **[🎬 Guarda il video →](https://x.com/genevieve__h/status/2089068325493944435)**
 
 **Autore:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Pubblicato:** Aug 16, 2026
 
 ---
-### Double-Exposure Silhouette Forest Loop
+### Loop di foresta con silhouette a doppia esposizione
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+> Un prompt video surrealista a doppia esposizione che mostra una nebbiosa foresta di pini all'interno della silhouette scura di una persona.
 
 #### 📝 Prompt
 
 ```
-Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+Loop continuo. Silhouette di profilo statica e fissa di una persona su uno sfondo bianco osso morbido e nebbioso. Effetto a doppia esposizione: all'interno della silhouette scura è visibile una fitta foresta di pini del Pacifico nord-occidentale, con strati di nebbia montana bianca che scorrono lentamente.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Loop di foresta con silhouette a doppia esposizione">
 
 **[🎬 Guarda il video →](https://x.com/genevieve__h/status/2089068323132649758)**
 
 **Autore:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Pubblicato:** Aug 16, 2026
 
 ---
-### Underwater Kelp Forest Video Loop
+### Video loop di una foresta di kelp sottomarina
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+> Un prompt video tranquillo per un loop continuo di una foresta di kelp sottomarina con la luce del sole che filtra attraverso l'acqua turchese.
 
 #### 📝 Prompt
 
 ```
-Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+Loop continuo, vista sottomarina statica a grandangolo in una foresta di kelp temperata. Alte fronde di kelp color ambra ondeggiano in correnti oceaniche lente e ipnotiche, mentre spettacolari raggi di luce solare dorata penetrano dalla superficie nell'acqua turchese cristallina.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Video loop di una foresta di kelp sottomarina">
 
 **[🎬 Guarda il video →](https://x.com/genevieve__h/status/2089068314764997056)**
 
 **Autore:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Pubblicato:** Aug 16, 2026
 
 ---
-### Cinematic Miniature Disaster Scene VFX
+### Scena di disastro in miniatura cinematografica VFX
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+> Un prompt dettagliato per generare una scena di disastro in miniatura cinematografica all'interno di uno studio VFX, caratterizzato da una fisica dell'acqua realistica e un'illuminazione professionale.
 
 #### 📝 Prompt
 
 ```
-Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+Crea una scena di disastro in miniatura cinematografica ultra-realistica all'interno di un enorme studio VFX professionale di Hollywood.
+
+Mostra una megacittà costiera moderna in miniatura altamente dettagliata con grattacieli, strade, ponti, edifici sul lungomare, veicoli e barche. Un'onda oceanica realistica e gigantesca si infrange verso la città, creando inondazioni fisicamente credibili, schiuma, spruzzi, nebbia, riflessi sull'acqua e detriti.
+
+Includi membri della troupe VFX professionale, cineprese, set di luci e attrezzature da studio attorno al set in miniatura per creare un autentico look da effetti pratici dietro le quinte.
+
+Fotorealistico, scala in miniatura realistica, illuminazione cinematografica, ombre naturali, texture dettagliate, fisica dell'acqua realistica, profondità di campo ridotta, cinepresa professionale, movimento fluido della telecamera, atmosfera drammatica, qualità VFX da film catastrofico di Hollywood, formato verticale 9:16.
+
+Mantieni edifici, ambiente e scala coerenti in tutto il video.
+
+Evita: cartoni animati, immagini dall'aspetto CGI, persone distorte, arti extra, edifici deformati, sfarfallio, acqua irrealistica, oggetti casuali, testo, loghi, filigrane.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Scena di disastro in miniatura cinematografica VFX">
 
 **[🎬 Guarda il video →](https://x.com/AiwithBloodline/status/2088473623694921736)**
 
 **Autore:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Pubblicato:** Aug 15, 2026
 
 ---
-### Professional Boxer Daily Routine Sequence
+### Sequenza della routine quotidiana di un pugile professionista
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy cinematic prompt for Gemini Omni that creates a 15-second day-in-the-life sequence of a Japanese boxer.
+> Un prompt cinematografico ad alta energia per Gemini Omni che crea una sequenza di 15 secondi sulla giornata tipo di un pugile giapponese.
 
 #### 📝 Prompt
 
 ```
-Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a  young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his  hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+Utilizza l'immagine di riferimento così com'è. Crea una sequenza ad alta energia di 15 secondi "una giornata nella mia vita" con protagonista un giovane pugile professionista giapponese. 0–3s: Tokyo prima dell'alba, si sveglia alle 5:00, si lava i capelli, allaccia le scarpe da boxe e si fascia le mani con precisione. 3–6s: inizia un'intensa corsa all'aperto attraverso strade silenziose, il respiro visibile nell'aria fredda del mattino, espressione determinata. 6–9s: all'interno di una palestra di boxe spartana, tira rapidamente di boxe a vuoto e lavora al sacco pesante, combinazioni potenti, gioco di gambe realistico e sudore. 9–12s: primi piani estremi dei guantoni che colpiscono il sacco, gocce di sudore che volano, muscoli che si tendono naturalmente a ogni pugno. 12–15s: termina con veloci esercizi con la corda, respirando affannosamente, poi guarda con sicurezza verso la telecamera. Pelle iper-realistica, sudore, movimento dei capelli e fisica dei tessuti, tecnica di pugilato autentica, telecamera a mano dinamica, riprese in rapido inseguimento, motion blur naturale, illuminazione drammatica da palestra, ombre realistiche, profondità di campo cinematografica, 4K, movimento fisicamente credibile, nessun aspetto CGI
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Professional Boxer Daily Routine Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Sequenza della routine quotidiana di un pugile professionista">
 
 **[🎬 Guarda il video →](https://x.com/AiwithBloodline/status/2087843492257243460)**
 
 **Autore:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Pubblicato:** Aug 13, 2026
 
 ---
-### Continuous Shot Anime Mask Overlay
+### Overlay Maschera Anime in Ripresa Continua
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic video prompt for Gemini Omni that creates a single continuous shot of a subject using hand gestures to trigger dynamic anime-style facial overlays and masks with synchronized audio descriptions.
+> Un complesso prompt video cinematografico per Gemini Omni che crea una singola ripresa continua di un soggetto che utilizza gesti delle mani per attivare overlay facciali e maschere in stile anime dinamici con descrizioni audio sincronizzate.
 
 #### 📝 Prompt
 
 ```
-Generate a single continuous shot.\n\n{ "setting": "Cozy minimalist indoor studio room with off-white walls and dark wood accents", \n  "lighting": "Soft diffused warm cove lighting with subtle side fill", \n  "weather": "Indoor ambient", \n  "color_grade": "Warm natural tones with high-contrast digital overlay pops" }\n\n[SUBJECT ANCHOR — reiterate character visual descriptors]:\nThe young East Asian man with long straight black hair wearing a dark grey hooded windbreaker jacket with visible drawstrings.\n\n[00:00-00:02]: The young East Asian man in the dark grey hooded jacket holds her hood drawstrings near her chin, then smoothly raises both hands, expanding her fingers to form a crisp rectangular geometric frame in front of her eyes. Inside the hand frame, a dynamic 2D cel-shaded anime eye graphic instantly pops into view overlaying her real eyes.\n[00:02-00:04]: She shifts her hand frame downward across her cheek, changing the framing angle to reveal a sharp, manga-style eye and eyebrow graphic overlay that tracks locked between her fingers.\n[00:04-00:06]: Moving her hands upward in a rhythmic motion, a stylized 2D anime smiling mouth graphic appears inside a new lower-face hand cutout frame, matching her head angle.\n[00:06-00:08]: She restructures her gesture, using index fingers to point diagonally across her eyes and nose region, creating a triangular hand frame that displays a vivid triangular vector anime mask filter over her upper face.\n[00:08-00:10]: She flips the triangular hand frame smoothly to the opposite angle over her lower face, holding a horizontal anime artwork banner overlay between her fingertips as the clip holds.\n\n🎤 VOICE PERFORMANCE:\nNo spoken dialogue in this opening segment. The audio performance is anchored by the rhythmic atmosphere of the musical build-up, synced to snappy, clean UI movement sounds.\n\nAmbient: Quiet residential room acoustics with soft low-end air resonance.\nFoley: Sharp digital swoosh and UI snap effects frame-locked precisely to each hand expansion and overlay state shift at 01s, 03s, 05s, 07s, and 09s.\nMusic: High-energy electro-pop/cyberpunk synth melody building in rhythm and intensity.
+Genera una singola ripresa continua.\n\n{ "setting": "Accogliente studio interno minimalista con pareti color bianco sporco e dettagli in legno scuro", \n  "lighting": "Illuminazione calda e diffusa con sottile riempimento laterale", \n  "weather": "Ambiente interno", \n  "color_grade": "Toni caldi naturali con contrasti elevati dati dagli overlay digitali" }\n\n[ANCORA SOGGETTO — reiterare i descrittori visivi del personaggio]:\nIl giovane uomo dell'Asia orientale con lunghi capelli neri lisci che indossa una giacca a vento con cappuccio grigio scuro con coulisse visibili.\n\n[00:00-00:02]: Il giovane uomo dell'Asia orientale con la giacca con cappuccio grigio scuro tiene le coulisse del cappuccio vicino al mento, poi solleva fluidamente entrambe le mani, allargando le dita per formare una nitida cornice geometrica rettangolare davanti ai suoi occhi. All'interno della cornice formata dalle mani, un grafico dinamico di un occhio anime in cel-shading 2D appare istantaneamente in sovrimpressione sui suoi occhi reali.\n[00:02-00:04]: Sposta la cornice delle mani verso il basso lungo la guancia, cambiando l'angolazione dell'inquadratura per rivelare un grafico nitido di occhio e sopracciglio in stile manga che rimane bloccato tra le sue dita.\n[00:04-00:06]: Muovendo le mani verso l'alto con un movimento ritmico, un grafico stilizzato 2D di una bocca anime sorridente appare all'interno di una nuova cornice formata dalle mani sulla parte inferiore del viso, seguendo l'angolazione della testa.\n[00:06-00:08]: Ristruttura il suo gesto, usando gli indici per puntare diagonalmente attraverso la regione degli occhi e del naso, creando una cornice triangolare con le mani che mostra un vivido filtro maschera anime vettoriale triangolare sulla parte superiore del viso.\n[00:08-00:10]: Ruota fluidamente la cornice triangolare verso l'angolazione opposta sulla parte inferiore del viso, tenendo un banner orizzontale con grafica anime tra la punta delle dita mentre la clip si conclude.\n\n🎤 PERFORMANCE VOCALE:\nNessun dialogo parlato in questo segmento iniziale. La performance audio è ancorata all'atmosfera ritmica del crescendo musicale, sincronizzata con suoni di movimento dell'interfaccia utente nitidi e puliti.\n\nAmbiente: Acustica silenziosa di una stanza residenziale con una morbida risonanza d'aria sulle basse frequenze.\nFoley: Effetti digitali di swoosh e snap dell'interfaccia utente bloccati con precisione su ogni espansione della mano e cambio di stato dell'overlay ai secondi 01, 03, 05, 07 e 09.\nMusica: Melodia synth electro-pop/cyberpunk ad alta energia che cresce in ritmo e intensità.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Continuous Shot Anime Mask Overlay">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Overlay Maschera Anime in Ripresa Continua">
 
 **[🎬 Guarda il video →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
 
 **Autore:** [Aryan](https://x.com/Aryan_Ali_Pro) | **Fonte:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **Pubblicato:** Aug 12, 2026
 
 ---
-### Garden Squirrel Yard Sale
+### Mercatino dello scoiattolo in giardino
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A whimsical prompt for Gemini Omni depicting a squirrel hosting a sale in a garden.
+> Un prompt stravagante per Gemini Omni che ritrae uno scoiattolo mentre organizza un mercatino in giardino.
 
 #### 📝 Prompt
 
 ```
-Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+Lo scoiattolo è a corto di soldi, così organizza un mercatino in giardino offrendo molti oggetti di valore
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Garden Squirrel Yard Sale">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Mercatino dello scoiattolo in giardino">
 
 **[🎬 Guarda il video →](https://x.com/SilverAIProject/status/2087298245747683578)**
 
 **Autore:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Fonte:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **Pubblicato:** Aug 11, 2026
 
 ---
-### Sneaky Cat Food Theft
+### Il furto di cibo del gatto astuto
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous narrative prompt for Gemini Omni featuring a cat stealing food and charming its owner.
+> Un divertente prompt narrativo per Gemini Omni che vede protagonista un gatto intento a rubare cibo e a conquistare la sua padrona.
 
 #### 📝 Prompt
 
 ```
-Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+Un astuto gatto bianco e nero che ruba di soppiatto il cibo a una gatta tartarugata, mentre seduce la padrona di casa con fusa irresistibili
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Sneaky Cat Food Theft">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Il furto di cibo del gatto astuto">
 
 **[🎬 Guarda il video →](https://x.com/SilverAIProject/status/2087295479335751880)**
 
 **Autore:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Fonte:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **Pubblicato:** Aug 11, 2026
 
 ---
-### Business Dashboard Review
+### Revisione della Business Dashboard
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+> Un prompt realistico ambientato in ufficio per Gemini Omni, che mostra un imprenditore mentre esamina una dashboard basata su AI.
 
 #### 📝 Prompt
 
 ```
-A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+Un imprenditore che esamina una dashboard basata su AI in un ufficio moderno e luminoso. Inquadratura media. Zoom lento. Illuminazione naturale calda. Atmosfera concentrata. Stile realistico. Video di alta qualità.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Revisione della Business Dashboard">
 
 **[🎬 Guarda il video →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
 
 **Autore:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Fonte:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Pubblicato:** Aug 11, 2026
 
 ---
-### Crystalline Frozen Water Droplet World
+### Mondo di gocce d'acqua congelate cristalline
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+> Un prompt video dettagliato per Gemini Omni che visualizza una goccia d'acqua che si trasforma in un complesso paesaggio ghiacciato con foreste cristalline e scogliere di ghiaccio al rallentatore.
 
 #### 📝 Prompt
 
 ```
-A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+Uno sfondo nero puro riempie l'inquadratura. Una singola goccia d'acqua limpida cade al rallentatore dall'alto, colpendo una superficie invisibile ed esplodendo verso l'esterno in increspature circolari perfette e schizzi cristallini. La telecamera rimane completamente statica, bloccata sulla danza dei fluidi. Man mano che le gocce successive si uniscono, l'acqua che si espande si rimodella sottilmente in imponenti scogliere di ghiaccio, cascate scroscianti e foreste cristalline di brina. Una morbida luce turchese e argento filtra attraverso il liquido, trasformando l'intera scena in un luminoso regno di cascate ghiacciate. L'ultimo secondo si blocca sul mondo cristallino completato, perfettamente immobile. Stile: bellezza astratta | movimento fluido | trasformazione cristallina Telecamera: macro statica → rivelazione lenta Durata: 10 secondi Illuminazione: luce fredda di contorno, alta nitidezza, bagliore etereo
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Mondo di gocce d'acqua congelate cristalline">
 
 **[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2087219303926124787)**
 
 **Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **Pubblicato:** Aug 11, 2026
 
 ---
-### Hand Plucking Star from Night Sky Prompt
+### Prompt per l'immagine di una mano che coglie una stella dal cielo notturno
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
+> Un prompt per un'immagine surreale in prima persona che ritrae una mano che si protende verso il cielo notturno per cogliere una stella luminosa.
 
 #### 📝 Prompt
 
 ```
-First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
+Vista in prima persona, una mano umana che si protende verso un cielo notturno profondo, intenta a cogliere delicatamente una singola stella luminosa dall'oscurità come se fosse un frutto. Cielo blu notte profondo, luce stellare scintillante, scala a prospettiva forzata surreale,
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Prompt per l'immagine di una mano che coglie una stella dal cielo notturno">
 
 **[🎬 Guarda il video →](https://x.com/TheChuksAi/status/2087042640453738616)**
 
 **Autore:** [ChuksAi](https://x.com/TheChuksAi) | **Fonte:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **Pubblicato:** Aug 11, 2026
 
 ---
-### Ember and the Firefly Storyboard Shot 1
+### Storyboard di Ember and the Firefly - Inquadratura 1
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
+> L'inquadratura iniziale della demo cinematografica di 'Ember and the Firefly', caratterizzata da un ampio push-in su un personaggio che si blocca quando nota una lucciola luminosa.
 
 #### 📝 Prompt
 
 ```
-EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
+STORYBOARD DI EMBER AND THE FIREFLY — ELENCO INQUADRATURE 8 SECONDI
 
-SHOT 1 | THE SPARK (0:00–1:3s)
-Cam: Static wide, slow push-in.
-Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
-Sound: Forest hush, soft chime on the glow.
+INQUADRATURA 1 | LA SCINTILLA (0:00–1:3s)
+Cam: Campo lungo statico, lento push-in.
+Azione: Ember si blocca a metà passo, le orecchie si tendono verso una singola lucciola luminosa.
+Audio: Silenzio della foresta, leggero tintinnio in corrispondenza del bagliore.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
+<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Storyboard di Ember and the Firefly - Inquadratura 1">
 
 **[🎬 Guarda il video →](https://x.com/Gre8tDan/status/2086787909399572802)**
 
 **Autore:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Fonte:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Pubblicato:** Aug 10, 2026
 
 ---
-### Bouncing Strawberry Jello Pool
+### Piscina di gelatina alla fragola che rimbalza
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
+> Un prompt video cinematografico altamente dettagliato di una piscina di gelatina alla fragola rosso rubino traslucida con una fragola di gelatina che rimbalza, enfatizzando texture e fisica.
 
 #### 📝 Prompt
 
 ```
-A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
+Una lussuosa piscina realizzata interamente in gelatina alla fragola rosso rubino traslucida su uno sfondo sfumato senza giunture dal bianco al rosa pallido. Una gigantesca fragola realistica, scolpita nella stessa gelatina lucida, emerge dal centro della piscina e rimbalza lentamente verso l'alto, per poi ricadere sulla superficie, creando bellissime onde concentriche di gelatina e delicati schizzi. Minuscole goccioline di gelatina traslucida si allungano nell'aria catturando la luce dello studio. La telecamera inizia con un macro primo piano della texture lucida della gelatina, si allontana fluidamente mentre la fragola sale, per poi avvicinarsi delicatamente mentre atterra. Deformazione realistica della gelatina, oscillazioni, allungamenti, rimbalzi morbidi, increspature superficiali simili a liquidi, traslucenza convincente e scattering sottosuperficiale. Fotografia gastronomica premium con direzione artistica, composizione da studio minimalista, estetica ASMR ipnotica, movimento cinematografico fluido, ripresa singola continua, esattamente 10 secondi, nessun testo, nessun logo.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Piscina di gelatina alla fragola che rimbalza">
 
 **[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
 **Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Pubblicato:** Aug 10, 2026
 
 ---
-### Treehouse Interior Detailing Motion Prompt
+### Prompt di movimento per i dettagli interni della casa sull'albero
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+> Un prompt di movimento per la fase di pittura e rifinitura degli interni di un timelapse di costruzione di una casa sull'albero in miniatura.
 
 #### 📝 Prompt
 
 ```
-Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+Utilizza la casa sull'albero con esterni completamente rifiniti dal Motion Prompt 4 come fotogramma di partenza esatto. Mantieni l'architettura, il tetto, le finestre, il balcone, l'albero, l'ambiente e le proporzioni originali.
 
-Create an ultra fast timelapse
+Crea un timelapse ultra rapido
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Prompt di movimento per i dettagli interni della casa sull'albero">
 
 **[🎬 Guarda il video →](https://x.com/Strength04_X/status/2086644591089041676)**
 
 **Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **Pubblicato:** Aug 10, 2026
 
 ---
-### Treehouse Foundation Motion Timelapse
+### Timelapse del movimento delle fondamenta di una casa sull'albero
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+> Un prompt di movimento Gemini Omni per animare la costruzione delle fondamenta di una casa sull'albero rialzata con un effetto timelapse ultra-veloce, mantenendo la coerenza visiva.
 
 #### 📝 Prompt
 
 ```
-Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+Utilizza l'immagine del primo fotogramma come punto di partenza esatto e preserva lo stesso albero, i rami, l'ambiente, la scala in miniatura, i materiali, l'illuminazione, lo stile della fotocamera e l'identità visiva.
 
-Create an ultra fast timelapse speed construction
+Crea una costruzione a velocità timelapse ultra-rapida
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Timelapse del movimento delle fondamenta di una casa sull'albero">
 
 **[🎬 Guarda il video →](https://x.com/Strength04_X/status/2086644027420815501)**
 
 **Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Pubblicato:** Aug 10, 2026
 
 ---
-### Anime Style Pandan Flour Pressing
+### Pressa per farina di pandan in stile anime
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+> Un prompt in stile anime 2D per Gemini Omni che descrive mani che premono impasto di farina di riso nell'azoto liquido per un effetto visivo stravagante.
 
 #### 📝 Prompt
 
 ```
-A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+Un video in primo piano in stile anime giapponese 2D. Mani disegnate in stile anime premono un vibrante impasto di farina di riso al pandan verde attraverso una pressa tradizionale in una ciotola di azoto liquido, creando una stravagante nuvola di vapore freddo e vapori scintillanti
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Pressa per farina di pandan in stile anime">
 
 **[🎬 Guarda il video →](https://x.com/playinbey/status/2085826420287418413)**
 
 **Autore:** [PLAY!](https://x.com/playinbey) | **Fonte:** [Link](https://x.com/playinbey/status/2085826420287418413) | **Pubblicato:** Aug 7, 2026
 
 ---
-### Dread and Foreboding Image-to-Video
+### Da immagine a video: angoscia e presagio
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+> Un prompt progettato per trasformare un'immagine statica in una scena video dinamica caratterizzata da angoscia e presagio, utilizzando molteplici inquadrature.
 
 #### 📝 Prompt
 
 ```
-Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+Crea una scena interessante basata su questa immagine, utilizzando molteplici inquadrature e un'inquadratura dinamica, per trasmettere un senso di angoscia e presagio.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Da immagine a video: angoscia e presagio">
 
 **[🎬 Guarda il video →](https://x.com/pzf_ai/status/2085736211625230529)**
 
 **Autore:** [PZF](https://x.com/pzf_ai) | **Fonte:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Pubblicato:** Aug 7, 2026
 
 ---
-### Cherry Blossom Tree Gel Sculpture
+### Scultura in gel a forma di ciliegio in fiore
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+> Un prompt macro cinematografico per Gemini Omni che visualizza un gel luminoso che si trasforma in un dettagliato albero di ciliegio in miniatura mentre fuoriesce da un tubetto.
 
 #### 📝 Prompt
 
 ```
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
-Style:
-Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+Una mano realistica preme lentamente un elegante tubetto metallico con un beccuccio lucido. Invece della solita pasta, fuoriesce fluidamente un gel cristallino che emana una luce soffusa. Mentre il materiale emerge, si trasforma organicamente in un minuscolo e magnifico "albero di ciliegio", prendendo forma strato dopo strato in un unico movimento continuo. Il tronco delicato si solleva per primo, seguito da rami aggraziati che sbocciano in centinaia di minuscoli fiori di ciliegio traslucidi, il tutto formandosi senza interruzioni in un'unica trasformazione fluida.
+La miniatura finita appare lucida, leggermente traslucida, morbida ed elastica, con un leggero ondeggiamento prima di stabilizzarsi naturalmente. I fiori tremano delicatamente prima di fermarsi, mentre minuscoli riflessi attraversano la superficie liscia del gel. Un soffice bagliore interno si diffonde attraverso ogni ramo e petalo, creando un elegante aspetto simile al vetro di alta qualità.
+L'oggetto poggia su una superficie in pietra scura opaca decorata con delicate gocce d'acqua che esaltano il realismo e i riflessi.
+Stile:
+Fotografia ultra macro
+CGI iper-realistica
+Illuminazione da studio cinematografica
+Profondità di campo estremamente ridotta
+Ricchi riflessi
+Estetica da spot pubblicitario premium
+Trasformazione fluida e continua
+Texture nitide
+Materiali fotorealistici
+Qualità 8K
+Verticale 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
+Nessun testo
+Nessun movimento di camera
+Nessuna distrazione sullo sfondo
 Negative Prompt:
-Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+Bassa qualità, cartone animato, anime, pochi dettagli, aspetto plastico, grana, rumore, sfarfallio, geometria rotta, forma deformata, oggetti extra, testo, filigrana, logo, colori sovrasaturi, illuminazione irrealistica, camera tremolante, motion blur, sfondo disordinato.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Scultura in gel a forma di ciliegio in fiore">
 
 **[🎬 Guarda il video →](https://x.com/Strength04_X/status/2085703642037018819)**
 
 **Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Pubblicato:** Aug 7, 2026
 
 ---
-### Jelly Octopus Macro Transformation
+### Trasformazione macro di un polpo di gelatina
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
+> Un prompt di cinematografia macro altamente dettagliato per Gemini Omni che descrive un gel luminescente che si trasforma in un polpo di gelatina elastico.
 
 #### 📝 Prompt
 
 ```
-Extreme close-up macro cinematography. 
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+Cinematografia macro in primissimo piano.
+Una mano realistica preme lentamente un elegante tubetto metallico con un beccuccio lucido. Invece di una normale pasta, fuoriesce un gel cristallino che emana una luce soffusa. Mentre il materiale emerge, si trasforma organicamente in un minuscolo e magnificamente scolpito "Jelly Octopus", prendendo forma strato dopo strato in un unico movimento continuo.
+La miniatura finita appare lucida, leggermente traslucida, morbida ed elastica, con un leggero ondeggiamento prima di stabilizzarsi naturalmente. La sua testa arrotondata rimbalza delicatamente mentre i minuscoli tentacoli si increspano dolcemente e si assestano con un'elasticità realistica. Piccoli riflessi attraversano la sua superficie liscia mentre la luce interna si diffonde dolcemente attraverso il gel, creando un aspetto elegante e premium.
+L'oggetto poggia su una superficie in pietra opaca scura decorata con delicate gocce d'acqua che esaltano il realismo e i riflessi.
 
-Style: Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+Stile: Fotografia ultra macro
+CGI iperrealistica
+Illuminazione da studio cinematografico
+Profondità di campo estremamente ridotta
+Ricchi riflessi
+Estetica pubblicitaria di prodotto premium
+Trasformazione fluida e continua
+Texture nitide
+Materiali fotorealistici
+Qualità 8K
+Verticale 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
+Nessun testo
+Nessun movimento di camera
+Nessuna distrazione sullo sfondo
 
-Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+Prompt negativo: Bassa qualità, cartone animato, anime, pochi dettagli, aspetto plastico, grana, rumore, sfarfallio, geometria rotta, forma deformata, oggetti extra, testo, filigrana, logo, colori sovrasaturi, illuminazione irrealistica, camera tremolante, motion blur, sfondo disordinato.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Trasformazione macro di un polpo di gelatina">
 
 **[🎬 Guarda il video →](https://x.com/Strength04_X/status/2085559452481261606)**
 
 **Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **Pubblicato:** Aug 7, 2026
 
 ---
-### Prehistoric Caveman Rock Concert
+### Concerto rock dell'uomo preistorico
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+> Un prompt video in stile documentario che mostra esseri umani preistorici che tengono un concerto sul palco circondati da dinosauri.
 
 #### 📝 Prompt
 
 ```
-A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+Una scena di concerto ambientata nella preistoria. Ci sono uomini delle caverne sul palco, persone preistoriche, che cantano in una lingua incomprensibile. Anche i dinosauri si aggirano nei dintorni. C'è una folla che assiste al concerto. Le riprese saranno multi-inquadratura, con uno stile di ripresa naturale e simile a un documentario. Lo stile visivo deve essere ultra-realistico.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Concerto rock dell'uomo preistorico">
 
 **[🎬 Guarda il video →](https://x.com/ozansihay/status/2085420070952649179)**
 
 **Autore:** [Ozan Sihay](https://x.com/ozansihay) | **Fonte:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **Pubblicato:** Aug 6, 2026
 
 ---
-### Ink Splash to Landscape Painting
+### Da schizzi d'inchiostro a paesaggio dipinto
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+> Un prompt descrittivo per Gemini Omni che visualizza gocce d'inchiostro nero su sfondo bianco che si trasformano in un colorato paesaggio in miniatura con un effetto cinematografico al rallentatore.
 
 #### 📝 Prompt
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
-Style: abstract beauty | fluid motion | artistic transformation
-Camera: static macro → slow reveal
-Length: 10 seconds
-Lighting: soft studio light, high clarity
+Uno sfondo bianco puro riempie l'inquadratura. Gocce d'inchiostro nero denso cadono al rallentatore, schizzando verso l'esterno come fiori che sbocciano. La telecamera è perfettamente statica, concentrata sul movimento fluido. Man mano che l'inchiostro si diffonde, le forme si trasformano sottilmente in montagne, fiumi e alberi. Il colore filtra — blu profondi e verdi — finché l'inchiostro non diventa completamente un dipinto paesaggistico in miniatura. L'ultimo secondo si sofferma sul mondo completato, perfettamente immobile.
+Stile: bellezza astratta | movimento fluido | trasformazione artistica
+Telecamera: macro statica → rivelazione lenta
+Durata: 10 secondi
+Illuminazione: luce da studio soffusa, alta nitidezza
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Da schizzi d'inchiostro a paesaggio dipinto">
 
 **[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
 **Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **Pubblicato:** Aug 6, 2026
 
 ---
-### High-Energy Match Cut Video
+### Video con match cut ad alta energia
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+> Un prompt tecnico per generare un video dinamico di 10 secondi caratterizzato da match cut ad alta energia con una frequenza di due al secondo, in formato cinematografico 16:9.
 
 #### 📝 Prompt
 
 ```
-generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+genera una clip di 10 secondi con 20 match cut, 2 tagli al secondo. cinematografico e ad alta energia. formato 16:9.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="Video con match cut ad alta energia">
 
 **[🎬 Guarda il video →](https://x.com/ViralOps_/status/2085069575700246678)**
 
 **Autore:** [ViralOps](https://x.com/ViralOps_) | **Fonte:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **Pubblicato:** Aug 5, 2026
 
 ---
-### Traditional Sumo Rikishi Scene
+### Scena tradizionale di sumo rikishi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+> Un prompt che raffigura una tradizionale scena di lotta sumo giapponese con rikishi in mawashi e acconciature chonmage, concentrandosi sul rituale pre-combattimento.
 
 #### 📝 Prompt
 
 ```
-Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+Hakke-yoi! Ognuno indossa un pregiato mawashi, con un elegante chonmage sulla testa. Eppure, rimane una stranezza: un rikishi non appoggia mai l'avambraccio nello shikiri sul dohyo prima del combattimento.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Scena tradizionale di sumo rikishi">
 
 **[🎬 Guarda il video →](https://x.com/222TT222/status/2085036219894026485)**
 
 **Autore:** [TakTempest](https://x.com/222TT222) | **Fonte:** [Link](https://x.com/222TT222/status/2085036219894026485) | **Pubblicato:** Aug 5, 2026
 
 ---
-### Mechanical Pepper Grinder Mantis Kitchen Duel
+### Macinapepe meccanico: duello in cucina
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A cinematic macro video prompt for Gemini Omni that depicts a mechanical mantis made of a pepper grinder battling a cockroach on a kitchen counter, complete with a detailed multi-shot timeline.
+> Un prompt video macro cinematografico per Gemini Omni che raffigura una mantide meccanica fatta di un macinapepe che combatte contro uno scarafaggio su un bancone da cucina, completo di una dettagliata timeline multi-inquadratura.
 
 #### 📝 Prompt
 
 ```
-Macro cinematic lens, the night kitchen countertop is filmed like a vast metal wasteland. Crumbs, salt grains, and herb fragments are scattered like rocks and bushes on the surface. The protagonist is a peculiar 'Pepper Grinder Mantis': the body is a small silver stainless steel pepper grinder, tilted slightly forward vertically, with long real mantis legs growing from the bottom and sides, and two iconic scythe-like predatory forelimbs in front. It has no normal insect head; the main body is the pepper grinder itself, moving cautiously and mechanically.
+Obiettivo macro cinematografico, il bancone della cucina notturna è ripreso come una vasta distesa metallica. Briciole, granelli di sale e frammenti di erbe sono sparsi come rocce e cespugli sulla superficie. Il protagonista è una peculiare 'Mantide Macinapepe': il corpo è un piccolo macinapepe in acciaio inossidabile argentato, inclinato leggermente in avanti in verticale, con lunghe zampe da mantide reale che crescono dal fondo e dai lati, e due iconici arti anteriori predatori a forma di falce nella parte anteriore. Non ha una normale testa da insetto; il corpo principale è il macinapepe stesso, che si muove con cautela e meccanicamente.
 
-A shiny brown cockroach slowly crawls out from behind the shadow of a napkin on the left, quickly approaching the pepper grinder mantis. The air is tense, like a late-night kitchen duel. The pepper grinder mantis suddenly stops, its body rising slightly as if locking onto a target. Then it snaps the top grinding head, emitting a crisp mechanical sound, and a large amount of black pepper fragments spray out from the top and front like a smoke grenade, hitting the cockroach directly.
+Uno scarafaggio marrone lucido striscia lentamente fuori da dietro l'ombra di un tovagliolo sulla sinistra, avvicinandosi rapidamente alla mantide macinapepe. L'aria è tesa, come in un duello notturno in cucina. La mantide macinapepe si ferma improvvisamente, il corpo si solleva leggermente come se stesse inquadrando un bersaglio. Poi scatta la testa superiore, emettendo un nitido suono meccanico, e una grande quantità di frammenti di pepe nero viene spruzzata dall'alto e dal davanti come una granata fumogena, colpendo direttamente lo scarafaggio.
 
-The cockroach is choked by the pepper, retreating in panic, antennae swinging wildly, feet slipping, and quickly retreats back into the shadow on the left. Fine black pepper particles and a slight powder mist float in the air. The pepper grinder mantis remains in place, forelimbs held high, like a calmly winning night warrior.
+Lo scarafaggio è soffocato dal pepe, si ritira nel panico, le antenne oscillano selvaggiamente, le zampe scivolano e torna rapidamente nell'ombra a sinistra. Sottili particelle di pepe nero e una leggera nuvola di polvere fluttuano nell'aria. La mantide macinapepe rimane al suo posto, con gli arti anteriori sollevati, come un guerriero notturno che ha vinto con calma.
 
-Timeline Storyboard:
-0–3s: Ultra close-up macro shot. The silver pepper grinder mantis walks slowly on the kitchen counter, surrounded by crumbs, salt, and herbs. Soft reflections on the metal surface, mantis legs move realistically.
-3–6s: In the shadows on the left, a brown cockroach suddenly appears, quickly approaching the mantis. Slight camera follow, creating tension. The two face off briefly in a small open area.
-6–7s: The top of the pepper grinder suddenly rotates quickly, making a mechanical grinding sound. A large amount of black pepper powder bursts out, forming a dense granular black spray, hitting the cockroach head-on.
-7–10s: The cockroach retreats in chaos after being stimulated by the pepper, quickly fleeing into the shadow on the left and disappearing. Black pepper dust floats in the air. The pepper grinder mantis remains still, forelimbs raised, standing guard like a victor.
+Storyboard della timeline:
+0–3s: Ripresa macro in ultra primo piano. La mantide macinapepe argentata cammina lentamente sul bancone della cucina, circondata da briciole, sale ed erbe. Riflessi morbidi sulla superficie metallica, le zampe della mantide si muovono in modo realistico.
+3–6s: Nell'ombra a sinistra, appare improvvisamente uno scarafaggio marrone che si avvicina rapidamente alla mantide. Leggero movimento di camera a seguire, creando tensione. I due si affrontano brevemente in un piccolo spazio aperto.
+6–7s: La parte superiore del macinapepe ruota improvvisamente in modo rapido, emettendo un suono meccanico di macinatura. Una grande quantità di pepe nero in polvere esplode, formando un denso spruzzo granulare nero che colpisce frontalmente lo scarafaggio.
+7–10s: Lo scarafaggio si ritira nel caos dopo essere stato colpito dal pepe, fuggendo rapidamente nell'ombra a sinistra e scomparendo. La polvere di pepe nero fluttua nell'aria. La mantide macinapepe rimane immobile, con gli arti anteriori sollevati, a fare la guardia come un vincitore.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mechanical Pepper Grinder Mantis Kitchen Duel">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Macinapepe meccanico: duello in cucina">
 
 **[🎬 Guarda il video →](https://x.com/jesselaunz/status/2084153849326309450)**
 
 **Autore:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Fonte:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Pubblicato:** Aug 3, 2026
 
 ---
-### Shark Rock Band Dive Bar Footage
+### Filmati della rock band di squali in un dive bar
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a gritty, bootleg-style video of a fictional shark rock band performing live in a crowded dive bar atmosphere.
+> Genera un video in stile bootleg dal tono crudo che ritrae una rock band di squali immaginaria mentre si esibisce dal vivo nell'atmosfera affollata di un dive bar.
 
 #### 📝 Prompt
 
 ```
-Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," real sharks somehow balanced on boards and shredding guitars with their fins, hisses a brief hello before tearing into their thrashing single, "Chum Bucket."
+Filmati bootleg da un locale affollato: la band surf-noise "Sharks on Surfboards", veri squali in equilibrio su tavole da surf che suonano chitarre con le pinne, sussurra un breve saluto prima di lanciarsi nel loro travolgente singolo, "Chum Bucket".
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Shark Rock Band Dive Bar Footage">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Filmati della rock band di squali in un dive bar">
 
 **[🎬 Guarda il video →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
 
 **Autore:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Fonte:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **Pubblicato:** Aug 3, 2026
 
 ---
-### Luxury Toddler Fashion Commercial
+### Spot pubblicitario di moda di lusso per bambini
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+> Un prompt per uno spot di moda di alta gamma che vede protagonisti dei bambini in un'estetica di lusso descritta come selvaggia e inarrestabile.
 
 #### 📝 Prompt
 
 ```
-a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+uno spot di moda di alta gamma per bambini, lusso allo stato brado, adorabili ma inarrestabili.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Spot pubblicitario di moda di lusso per bambini">
 
 **[🎬 Guarda il video →](https://x.com/ritesh_ai/status/2083525213309042711)**
 
@@ -2872,6 +2882,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-18T08:34:31.265Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-18T12:41:47.419Z</sub>
 
 </div>

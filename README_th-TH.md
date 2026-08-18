@@ -56,57 +56,57 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### Forbidden City Hall Transformation
+### การแปลงร่างมังกรแห่งพระราชวังต้องห้าม
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A multi-stage prompt for Gemini Omni Flash that transforms the Hall of Supreme Harmony into a Chinese Imperial Dragon-Palace Guardian using specific image references for key stages.
+> ชุดคำสั่ง (Prompt) การแปลงร่างหลายขั้นตอนสำหรับ Gemini Omni Flash ที่จะเปลี่ยนพระที่นั่งไท่เหอให้กลายเป็นมังกรจีนโดยใช้ภาพอ้างอิง
 
 #### 📝 พรอมต์
 
 ```
-@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
+@Image1 คือภาพต้นฉบับของพระที่นั่งไท่เหอ @Image2 คือภาพกำหนดการแปลงร่างในขั้นตอนกลางที่ผ่านการอนุมัติแล้ว @Image3 คือภาพกำหนดผลลัพธ์สุดท้ายเป็นมังกรจีนผู้พิทักษ์พระราชวัง จงสร้างหนึ่ง
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Hall Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="การแปลงร่างมังกรแห่งพระราชวังต้องห้าม">
 
 **[🎬 ดูวิดีโอ →](https://x.com/CrazyKaomei/status/2089279848741261762)**
 
 **ผู้เขียน:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **แหล่งที่มา:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **เผยแพร่เมื่อ:** Aug 17, 2026
 
 ---
-### Bolivian Salt Flats Mirror Sunrise
+### พระอาทิตย์ขึ้นสะท้อนเงาบนทุ่งเกลือโบลิเวีย
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
+> พรอมต์วิดีโอสไตล์มินิมอลสำหรับภาพพระอาทิตย์ขึ้นที่สะท้อนบนผืนน้ำเหนือทุ่งเกลือโบลิเวีย พร้อมพื้นที่ว่างอันกว้างใหญ่
 
 #### 📝 พรอมต์
 
 ```
-Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
+วิดีโอวนลูปไร้รอยต่อ ภาพมุมกว้างแบบนิ่งของทุ่งเกลือโบลิเวียที่มีน้ำท่วมขัง ผืนน้ำนิ่งสนิทสะท้อนภาพก้อนเมฆยามเช้าสีชมพูพาสเทลและสีลาเวนเดอร์ที่เคลื่อนตัวอย่างช้าๆ บนท้องฟ้า พื้นที่ว่างอันกว้างใหญ่ ให้ความรู้สึกมินิมอลที่ดูราวกับหลุดมาจากอีกโลกหนึ่ง
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="พระอาทิตย์ขึ้นสะท้อนเงาบนทุ่งเกลือโบลิเวีย">
 
 **[🎬 ดูวิดีโอ →](https://x.com/genevieve__h/status/2089068330225221876)**
 
 **ผู้เขียน:** [genevieveh@](https://x.com/genevieve__h) | **แหล่งที่มา:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **เผยแพร่เมื่อ:** Aug 16, 2026
 
 ---
-### Ghibli Style Koi Pond Loop
+### วิดีโอวนลูปบ่อปลาคาร์ฟสไตล์จิบลิ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
+> พรอมต์วิดีโอที่ได้รับแรงบันดาลใจจาก Studio Ghibli อันสวยงาม แสดงภาพปลาคาร์ฟว่ายน้ำในบ่อน้ำสไตล์สีน้ำพร้อมแสงแดดรำไร
 
 #### 📝 พรอมต์
 
 ```
-Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
+วิดีโอวนลูปแบบไร้รอยต่อ มุมมองจากด้านบนของบ่อน้ำในสวนสไตล์อนิเมะสีน้ำแบบ Studio Ghibli ปลาคาร์ฟหลากสีว่ายวนช้าๆ อยู่ใต้ใบบัวที่ลอยอยู่บนผิวน้ำ มีระลอกน้ำเบาๆ แสงแดดส่องผ่านใบเมเปิลลงมาเป็นจุดๆ โทนสีพาสเทลนุ่มนวล ให้ความรู้สึกสงบและมีการเคลื่อนไหวที่นุ่มนวล
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="วิดีโอวนลูปบ่อปลาคาร์ฟสไตล์จิบลิ">
 
 **[🎬 ดูวิดีโอ →](https://x.com/genevieve__h/status/2089068327691862357)**
 
@@ -117,12 +117,12 @@ Seamless loop, static top-down view of a clear garden pond in Studio Ghibli wate
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
+> วิดีโอพรอมต์แนวแอบสแตรกสุดสะกดสายตาของริบบิ้นแก้วหักเหแสงที่ลอยอยู่ในสภาวะไร้น้ำหนักบนพื้นหลังสีเข้ม
 
 #### 📝 พรอมต์
 
 ```
-Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
+วิดีโอวนลูปแบบไร้รอยต่อ ถ่ายด้วยมุมกล้องนิ่ง เผยให้เห็นริบบิ้นแก้วโปร่งใสที่หักเหแสงกำลังเคลื่อนไหวพลิ้วไหวอย่างช้าๆ ในสภาวะไร้น้ำหนักบนพื้นหลังสีดำสนิท มีความคลาดสีเล็กน้อยบริเวณขอบ พร้อมแสงสะท้อนที่นุ่มนวล การเคลื่อนไหวที่เชื่องช้าและชวนให้เคลิบเคลิ้ม มีพื้นที่ว่าง (Negative space) มาก เหมาะสำหรับการวาง UI
 ```
 
 <img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
@@ -132,539 +132,553 @@ Seamless loop, locked-off camera view of a transparent, refractive glass ribbon 
 **ผู้เขียน:** [genevieveh@](https://x.com/genevieve__h) | **แหล่งที่มา:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **เผยแพร่เมื่อ:** Aug 16, 2026
 
 ---
-### Double-Exposure Silhouette Forest Loop
+### วิดีโอวนลูปภาพเงาซ้อนทับป่าไม้ (Double-Exposure)
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
+> พรอมต์วิดีโอแนวเซอร์เรียลแบบ Double-exposure เผยให้เห็นป่าสนท่ามกลางสายหมอกที่ซ้อนทับอยู่ภายในภาพเงาสีเข้มของคน
 
 #### 📝 พรอมต์
 
 ```
-Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
+วิดีโอวนลูปแบบไร้รอยต่อ ภาพเงาด้านข้างของบุคคลในมุมนิ่งบนพื้นหลังสีขาวนวลท่ามกลางสายหมอกจางๆ เอฟเฟกต์ Double-exposure: ภายในภาพเงาสีเข้มจะเผยให้เห็นป่าสนหนาทึบแบบแปซิฟิกตะวันตกเฉียงเหนือ โดยมีชั้นของหมอกบนภูเขาสีขาวค่อยๆ เคลื่อนผ่านอย่างช้าๆ
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="วิดีโอวนลูปภาพเงาซ้อนทับป่าไม้ (Double-Exposure)">
 
 **[🎬 ดูวิดีโอ →](https://x.com/genevieve__h/status/2089068323132649758)**
 
 **ผู้เขียน:** [genevieveh@](https://x.com/genevieve__h) | **แหล่งที่มา:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **เผยแพร่เมื่อ:** Aug 16, 2026
 
 ---
-### Underwater Kelp Forest Video Loop
+### วิดีโอวนลูปป่าสาหร่ายเคลป์ใต้ทะเล
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
+> พรอมต์วิดีโอแนวสงบสำหรับสร้างวิดีโอวนลูปแบบไร้รอยต่อของป่าสาหร่ายเคลป์ใต้ทะเล พร้อมแสงอาทิตย์ที่ส่องผ่านผืนน้ำสีเทอร์ควอยซ์
 
 #### 📝 พรอมต์
 
 ```
-Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
+วิดีโอวนลูปแบบไร้รอยต่อ มุมมองใต้น้ำแบบมุมกว้างคงที่ในป่าสาหร่ายเคลป์เขตอบอุ่น ใบสาหร่ายเคลป์สีเหลืองอำพันทอดยาวไหวไปตามกระแสน้ำที่ช้าและชวนให้เคลิบเคลิ้ม โดยมีลำแสงสีทองจากดวงอาทิตย์ส่องทะลุผ่านผิวน้ำลงมายังผืนน้ำสีเทอร์ควอยซ์ที่ใสสะอาด
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="วิดีโอวนลูปป่าสาหร่ายเคลป์ใต้ทะเล">
 
 **[🎬 ดูวิดีโอ →](https://x.com/genevieve__h/status/2089068314764997056)**
 
 **ผู้เขียน:** [genevieveh@](https://x.com/genevieve__h) | **แหล่งที่มา:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **เผยแพร่เมื่อ:** Aug 16, 2026
 
 ---
-### Cinematic Miniature Disaster Scene VFX
+### VFX ฉากภัยพิบัติจำลองแบบภาพยนตร์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
+> คำสั่งแบบละเอียดสำหรับการสร้างฉากภัยพิบัติจำลองในสตูดิโอ VFX พร้อมฟิสิกส์ของน้ำที่สมจริงและแสงระดับมืออาชีพ
 
 #### 📝 พรอมต์
 
 ```
-Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
+สร้างฉากภัยพิบัติจำลองแบบภาพยนตร์ที่สมจริงสุด ๆ ภายในสตูดิโอ VFX ระดับมืออาชีพของฮอลลีวูด
+
+แสดงภาพเมืองชายฝั่งขนาดใหญ่ที่ทันสมัยในรูปแบบจำลองที่มีรายละเอียดสูง ประกอบด้วยตึกระฟ้า ถนน สะพาน อาคารริมน้ำ ยานพาหนะ และเรือ คลื่นยักษ์ที่สมจริงซัดเข้าหาตัวเมือง ทำให้เกิดน้ำท่วม ฟองคลื่น ละอองน้ำ หมอก การสะท้อนของน้ำ และเศษซากที่ดูสมจริงตามหลักฟิสิกส์
+
+รวมถึงทีมงาน VFX มืออาชีพ กล้องถ่ายภาพยนตร์ อุปกรณ์จัดแสง และอุปกรณ์สตูดิโอรอบ ๆ ฉากจำลอง เพื่อสร้างบรรยากาศเบื้องหลังการถ่ายทำเอฟเฟกต์จริงที่สมจริง
+
+ภาพถ่ายสมจริง สเกลแบบจำลองที่สมจริง แสงแบบภาพยนตร์ เงาที่เป็นธรรมชาติ พื้นผิวที่มีรายละเอียด ฟิสิกส์ของน้ำที่สมจริง ระยะชัดลึกตื้น กล้องถ่ายภาพยนตร์ระดับมืออาชีพ การเคลื่อนไหวกล้องที่นุ่มนวล บรรยากาศที่น่าตื่นเต้น คุณภาพ VFX ระดับภาพยนตร์ภัยพิบัติฮอลลีวูด รูปแบบแนวตั้ง 9:16
+
+รักษาความสม่ำเสมอของอาคาร สภาพแวดล้อม และสเกลตลอดทั้งวิดีโอ
+
+สิ่งที่ควรหลีกเลี่ยง: การ์ตูน ภาพที่ดูเป็น CGI คนที่บิดเบี้ยว อวัยวะเกิน อาคารที่บิดเบี้ยว ภาพสั่นไหว น้ำที่ไม่สมจริง วัตถุแปลกปลอม ข้อความ โลโก้ ลายน้ำ
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="VFX ฉากภัยพิบัติจำลองแบบภาพยนตร์">
 
 **[🎬 ดูวิดีโอ →](https://x.com/AiwithBloodline/status/2088473623694921736)**
 
 **ผู้เขียน:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **แหล่งที่มา:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **เผยแพร่เมื่อ:** Aug 15, 2026
 
 ---
-### Professional Boxer Daily Routine Sequence
+### ลำดับกิจวัตรประจำวันของนักมวยอาชีพ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-energy cinematic prompt for Gemini Omni that creates a 15-second day-in-the-life sequence of a Japanese boxer.
+> พรอมต์แนวภาพยนตร์พลังงานสูงสำหรับ Gemini Omni เพื่อสร้างวิดีโอความยาว 15 วินาทีในรูปแบบ “หนึ่งวันในชีวิต” ของนักมวยชาวญี่ปุ่น
 
 #### 📝 พรอมต์
 
 ```
-Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a  young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his  hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
+ใช้ภาพอ้างอิงตามที่เป็นอยู่ สร้างลำดับวิดีโอ “หนึ่งวันในชีวิต” พลังงานสูงความยาว 15 วินาที โดยมีนักมวยชายอาชีพชาวญี่ปุ่นรุ่นใหม่เป็นตัวเอก 0–3 วินาที: กรุงโตเกียวก่อนรุ่งสาง เขาตื่นนอนตอน 05:00 น. สระผม ผูกเชือกรองเท้าชกมวย และพันมือด้วยความแม่นยำ 3–6 วินาที: เขาเริ่มวิ่งออกกำลังกายกลางแจ้งอย่างหนักหน่วงไปตามถนนที่เงียบสงบ เห็นลมหายใจในอากาศยามเช้าที่หนาวเย็น สีหน้าเต็มไปด้วยความมุ่งมั่น 6–9 วินาที: ภายในค่ายมวยที่ดูสมจริง เขาซ้อมชกลมและออกหมัดใส่กระสอบทรายอย่างรวดเร็ว ด้วยคอมโบที่ทรงพลัง ฟุตเวิร์กที่สมจริง และเหงื่อที่ไหลซึม 9–12 วินาที: ภาพโคลสอัพสุดขีดของนวมที่กระทบกระสอบทราย หยดเหงื่อที่กระเด็นออกมา กล้ามเนื้อที่เกร็งตัวอย่างเป็นธรรมชาติในทุกหมัดที่ออกไป 12–15 วินาที: เขาปิดท้ายด้วยการกระโดดเชือกอย่างรวดเร็ว หายใจหอบเหนื่อย จากนั้นมองมาที่กล้องด้วยความมั่นใจ ผิวหนัง เหงื่อ การเคลื่อนไหวของเส้นผม และฟิสิกส์ของเนื้อผ้าที่สมจริงขั้นสูง เทคนิคการชกมวยที่ถูกต้อง กล้องแบบถือถ่ายที่ดูมีพลัง ภาพแพนกล้องที่รวดเร็ว โมชั่นเบลอที่เป็นธรรมชาติ แสงในยิมที่ดูดราม่า เงาที่สมจริง ระยะชัดลึกแบบภาพยนตร์ ความละเอียด 4K การเคลื่อนไหวที่สมจริงตามหลักฟิสิกส์ ไม่ดูเป็น CGI
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Professional Boxer Daily Routine Sequence">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="ลำดับกิจวัตรประจำวันของนักมวยอาชีพ">
 
 **[🎬 ดูวิดีโอ →](https://x.com/AiwithBloodline/status/2087843492257243460)**
 
 **ผู้เขียน:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **แหล่งที่มา:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **เผยแพร่เมื่อ:** Aug 13, 2026
 
 ---
-### Continuous Shot Anime Mask Overlay
+### ภาพซ้อนทับอนิเมะแบบต่อเนื่องในช็อตเดียว
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A complex cinematic video prompt for Gemini Omni that creates a single continuous shot of a subject using hand gestures to trigger dynamic anime-style facial overlays and masks with synchronized audio descriptions.
+> พรอมต์วิดีโอระดับภาพยนตร์ที่ซับซ้อนสำหรับ Gemini Omni เพื่อสร้างวิดีโอแบบช็อตเดียวต่อเนื่อง โดยให้ตัวละครใช้ท่าทางมือเพื่อเรียกใช้งานภาพซ้อนทับและหน้ากากสไตล์อนิเมะแบบไดนามิก พร้อมเสียงบรรยายที่ซิงค์กัน
 
 #### 📝 พรอมต์
 
 ```
-Generate a single continuous shot.\n\n{ "setting": "Cozy minimalist indoor studio room with off-white walls and dark wood accents", \n  "lighting": "Soft diffused warm cove lighting with subtle side fill", \n  "weather": "Indoor ambient", \n  "color_grade": "Warm natural tones with high-contrast digital overlay pops" }\n\n[SUBJECT ANCHOR — reiterate character visual descriptors]:\nThe young East Asian man with long straight black hair wearing a dark grey hooded windbreaker jacket with visible drawstrings.\n\n[00:00-00:02]: The young East Asian man in the dark grey hooded jacket holds her hood drawstrings near her chin, then smoothly raises both hands, expanding her fingers to form a crisp rectangular geometric frame in front of her eyes. Inside the hand frame, a dynamic 2D cel-shaded anime eye graphic instantly pops into view overlaying her real eyes.\n[00:02-00:04]: She shifts her hand frame downward across her cheek, changing the framing angle to reveal a sharp, manga-style eye and eyebrow graphic overlay that tracks locked between her fingers.\n[00:04-00:06]: Moving her hands upward in a rhythmic motion, a stylized 2D anime smiling mouth graphic appears inside a new lower-face hand cutout frame, matching her head angle.\n[00:06-00:08]: She restructures her gesture, using index fingers to point diagonally across her eyes and nose region, creating a triangular hand frame that displays a vivid triangular vector anime mask filter over her upper face.\n[00:08-00:10]: She flips the triangular hand frame smoothly to the opposite angle over her lower face, holding a horizontal anime artwork banner overlay between her fingertips as the clip holds.\n\n🎤 VOICE PERFORMANCE:\nNo spoken dialogue in this opening segment. The audio performance is anchored by the rhythmic atmosphere of the musical build-up, synced to snappy, clean UI movement sounds.\n\nAmbient: Quiet residential room acoustics with soft low-end air resonance.\nFoley: Sharp digital swoosh and UI snap effects frame-locked precisely to each hand expansion and overlay state shift at 01s, 03s, 05s, 07s, and 09s.\nMusic: High-energy electro-pop/cyberpunk synth melody building in rhythm and intensity.
+สร้างวิดีโอแบบช็อตเดียวต่อเนื่อง\n\n{ "setting": "สตูดิโอในร่มสไตล์มินิมอลที่อบอุ่น ผนังสีขาวนวลและตกแต่งด้วยไม้สีเข้ม", \n  "lighting": "แสงไฟวอร์มไลท์แบบซ่อนฝ้าที่นุ่มนวลพร้อมแสงเสริมด้านข้าง", \n  "weather": "บรรยากาศภายในอาคาร", \n  "color_grade": "โทนสีธรรมชาติที่อบอุ่นพร้อมการตัดกันของสีภาพซ้อนทับดิจิทัลที่โดดเด่น" }\n\n[จุดยึดตัวละคร — ย้ำรายละเอียดภาพลักษณ์ของตัวละคร]:\nชายหนุ่มชาวเอเชียตะวันออก ผมยาวตรงสีดำ สวมแจ็คเก็ตกันลมมีฮู้ดสีเทาเข้มพร้อมเชือกดึงที่เห็นได้ชัดเจน\n\n[00:00-00:02]: ชายหนุ่มชาวเอเชียตะวันออกในแจ็คเก็ตฮู้ดสีเทาเข้มถือเชือกดึงฮู้ดไว้ใกล้คาง จากนั้นยกมือทั้งสองข้างขึ้นอย่างนุ่มนวล กางนิ้วออกเพื่อสร้างกรอบสี่เหลี่ยมเรขาคณิตที่คมชัดไว้หน้าดวงตา ภายในกรอบมือที่สร้างขึ้น กราฟิกดวงตาอนิเมะแบบ 2D เซลเฉด (cel-shaded) ปรากฏขึ้นทันทีซ้อนทับบนดวงตาจริงของเขา\n[00:02-00:04]: เขาเลื่อนกรอบมือลงมาที่แก้ม เปลี่ยนมุมของกรอบเพื่อเผยให้เห็นกราฟิกดวงตาและคิ้วสไตล์มังงะที่คมชัด ซึ่งติดตามตำแหน่งล็อกไว้ระหว่างนิ้วมือของเขา\n[00:04-00:06]: เมื่อขยับมือขึ้นเป็นจังหวะ กราฟิกปากอนิเมะแบบ 2D ที่กำลังยิ้มจะปรากฏขึ้นภายในกรอบมือที่ทำเป็นช่องว่างบริเวณใบหน้าส่วนล่าง โดยสอดคล้องกับมุมศีรษะของเขา\n[00:06-00:08]: เขาปรับเปลี่ยนท่าทางโดยใช้นิ้วชี้ชี้ทแยงมุมผ่านบริเวณดวงตาและจมูก สร้างกรอบมือรูปสามเหลี่ยมที่แสดงฟิลเตอร์หน้ากากอนิเมะแบบเวกเตอร์สามเหลี่ยมที่สดใสซ้อนทับบนใบหน้าส่วนบน\n[00:08-00:10]: เขาพลิกกรอบมือรูปสามเหลี่ยมไปยังมุมตรงข้ามเหนือใบหน้าส่วนล่างอย่างนุ่มนวล โดยถือแบนเนอร์งานศิลปะอนิเมะแนวนอนไว้ระหว่างปลายนิ้วขณะที่คลิปดำเนินไป\n\n🎤 การแสดงเสียง:\nไม่มีบทพูดในส่วนเปิดนี้ การแสดงเสียงจะยึดตามบรรยากาศที่เป็นจังหวะของการสร้างดนตรี โดยซิงค์กับเสียงเอฟเฟกต์การเคลื่อนไหวของ UI ที่คมชัดและสะอาดตา\n\nAmbient: เสียงอะคูสติกในห้องพักอาศัยที่เงียบสงบพร้อมเสียงสะท้อนความถี่ต่ำที่นุ่มนวล\nFoley: เสียงดิจิทัลสวูช (swoosh) และเสียงสแนปของ UI ที่ล็อกตำแหน่งไว้อย่างแม่นยำกับทุกจังหวะการกางมือและการเปลี่ยนสถานะภาพซ้อนทับที่วินาทีที่ 01, 03, 05, 07 และ 09\nMusic: เมโลดี้ซินธ์แนวอิเล็กโทรป๊อป/ไซเบอร์พังค์ที่มีพลังสูง ซึ่งสร้างจังหวะและความเข้มข้นขึ้นเรื่อยๆ
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Continuous Shot Anime Mask Overlay">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="ภาพซ้อนทับอนิเมะแบบต่อเนื่องในช็อตเดียว">
 
 **[🎬 ดูวิดีโอ →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
 
 **ผู้เขียน:** [Aryan](https://x.com/Aryan_Ali_Pro) | **แหล่งที่มา:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **เผยแพร่เมื่อ:** Aug 12, 2026
 
 ---
-### Garden Squirrel Yard Sale
+### งานเซลล์ของเจ้ากระรอกน้อยในสวน
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A whimsical prompt for Gemini Omni depicting a squirrel hosting a sale in a garden.
+> พรอมต์สุดสร้างสรรค์สำหรับ Gemini Omni ที่ถ่ายทอดเรื่องราวของกระรอกที่เปิดร้านขายของในสวน
 
 #### 📝 พรอมต์
 
 ```
-Squirrel runs short of money so holds a sale in the garden, offering many valuable things
+กระรอกน้อยเงินหมดเลยจัดงานเซลล์ในสวน โดยนำของมีค่ามากมายออกมาวางขาย
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Garden Squirrel Yard Sale">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="งานเซลล์ของเจ้ากระรอกน้อยในสวน">
 
 **[🎬 ดูวิดีโอ →](https://x.com/SilverAIProject/status/2087298245747683578)**
 
 **ผู้เขียน:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **แหล่งที่มา:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **เผยแพร่เมื่อ:** Aug 11, 2026
 
 ---
-### Sneaky Cat Food Theft
+### แผนขโมยอาหารสุดเนียนของเจ้าเหมียว
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A humorous narrative prompt for Gemini Omni featuring a cat stealing food and charming its owner.
+> พรอมต์เล่าเรื่องแนวขบขันสำหรับ Gemini Omni ที่มีเนื้อหาเกี่ยวกับแมวแอบขโมยอาหารและอ้อนเจ้าของอย่างน่าเอ็นดู
 
 #### 📝 พรอมต์
 
 ```
-Sly black and white cat sneakily stealing tortoiseshell cats food while seducing the lady of the house with winning purrs
+เจ้าเหมียวสีขาวดำจอมแสบที่แอบย่องไปขโมยอาหารของแมวลายกระ พร้อมกับใช้เสียงครางอ้อนเจ้าของบ้านให้หลงใหล
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Sneaky Cat Food Theft">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="แผนขโมยอาหารสุดเนียนของเจ้าเหมียว">
 
 **[🎬 ดูวิดีโอ →](https://x.com/SilverAIProject/status/2087295479335751880)**
 
 **ผู้เขียน:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **แหล่งที่มา:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **เผยแพร่เมื่อ:** Aug 11, 2026
 
 ---
-### Business Dashboard Review
+### รีวิวแดชบอร์ดธุรกิจ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A realistic office prompt for Gemini Omni showing a business owner reviewing an AI dashboard.
+> พรอมต์สำหรับ Gemini Omni ในบรรยากาศสำนักงานที่สมจริง แสดงภาพเจ้าของธุรกิจกำลังตรวจสอบแดชบอร์ด AI
 
 #### 📝 พรอมต์
 
 ```
-A business owner reviewing an AI dashboard in a bright modern office. Medium shot. Slow zoom. Warm natural lighting. Focused mood. Realistic style. High-quality video.
+เจ้าของธุรกิจกำลังตรวจสอบแดชบอร์ด AI ในสำนักงานที่ทันสมัยและสว่างสดใส ภาพมุมปานกลาง (Medium shot) ซูมเข้าช้าๆ แสงธรรมชาติโทนอุ่น บรรยากาศเน้นความจดจ่อ สไตล์สมจริง วิดีโอคุณภาพสูง
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business Dashboard Review">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="รีวิวแดชบอร์ดธุรกิจ">
 
 **[🎬 ดูวิดีโอ →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
 
 **ผู้เขียน:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **แหล่งที่มา:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **เผยแพร่เมื่อ:** Aug 11, 2026
 
 ---
-### Crystalline Frozen Water Droplet World
+### โลกหยดน้ำแข็งผลึก
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
+> วิดีโอพรอมต์แบบละเอียดสำหรับ Gemini Omni ที่ถ่ายทอดภาพหยดน้ำที่เปลี่ยนสภาพเป็นภูมิทัศน์น้ำแข็งอันซับซ้อน พร้อมด้วยป่าผลึกและหน้าผาน้ำแข็งในรูปแบบสโลว์โมชัน
 
 #### 📝 พรอมต์
 
 ```
-A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
+พื้นหลังสีดำสนิทเต็มเฟรม หยดน้ำใสหนึ่งหยดตกลงมาแบบสโลว์โมชันจากด้านบน กระทบกับพื้นผิวที่มองไม่เห็นและแตกกระจายออกเป็นระลอกคลื่นวงกลมที่สมบูรณ์แบบและละอองผลึก กล้องยังคงนิ่งสนิทโดยจับจ้องไปที่การเคลื่อนไหวของของเหลว เมื่อมีหยดน้ำตกลงมาสมทบเรื่อยๆ น้ำที่กระจายตัวจะค่อยๆ ก่อตัวเป็นหน้าผาน้ำแข็งสูงตระหง่าน น้ำตกที่ไหลลดหลั่น และป่าผลึกน้ำแข็ง แสงสีฟ้าเทอร์ควอยซ์และสีเงินอ่อนๆ แทรกซึมผ่านของเหลว เปลี่ยนฉากทั้งหมดให้กลายเป็นอาณาจักรน้ำตกน้ำแข็งที่ส่องสว่าง วินาทีสุดท้ายหยุดนิ่งที่โลกผลึกที่สมบูรณ์แบบและสงบนิ่ง สไตล์: ความงามเชิงนามธรรม | การเคลื่อนไหวที่ลื่นไหล | การเปลี่ยนสภาพเป็นผลึก กล้อง: มาโครแบบคงที่ → ค่อยๆ เผยภาพ ความยาว: 10 วินาที แสง: แสงขอบโทนเย็น, ความคมชัดสูง, แสงเรืองรองราวกับอยู่ในฝัน
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="โลกหยดน้ำแข็งผลึก">
 
 **[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2087219303926124787)**
 
 **ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **เผยแพร่เมื่อ:** Aug 11, 2026
 
 ---
-### Hand Plucking Star from Night Sky Prompt
+### พร้อมท์ภาพมือเอื้อมเด็ดดาวจากท้องฟ้ายามค่ำคืน
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
+> พร้อมท์ภาพในมุมมองบุคคลที่หนึ่งแนวเหนือจริง เป็นภาพมือที่กำลังเอื้อมขึ้นไปบนท้องฟ้ายามค่ำคืนเพื่อเด็ดดาวที่ส่องประกาย
 
 #### 📝 พรอมต์
 
 ```
-First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
+มุมมองบุคคลที่หนึ่ง มือมนุษย์กำลังเอื้อมขึ้นไปบนท้องฟ้ายามค่ำคืนที่มืดมิด ค่อย ๆ เด็ดดาวที่ส่องประกายดวงหนึ่งออกมาเหมือนกับการเด็ดผลไม้ ท้องฟ้าสีน้ำเงินเข้ม แสงดาวระยิบระยับ สเกลภาพแบบบังคับมุมมองแนวเหนือจริง
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="พร้อมท์ภาพมือเอื้อมเด็ดดาวจากท้องฟ้ายามค่ำคืน">
 
 **[🎬 ดูวิดีโอ →](https://x.com/TheChuksAi/status/2087042640453738616)**
 
 **ผู้เขียน:** [ChuksAi](https://x.com/TheChuksAi) | **แหล่งที่มา:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **เผยแพร่เมื่อ:** Aug 11, 2026
 
 ---
-### Ember and the Firefly Storyboard Shot 1
+### สตอรีบอร์ด Ember and the Firefly ช็อตที่ 1
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
+> ช็อตเปิดสำหรับเดโมภาพยนตร์ 'Ember and the Firefly' โดยเป็นภาพมุมกว้างที่ค่อย ๆ ซูมเข้าไปหาตัวละครที่หยุดชะงักเมื่อเห็นหิ่งห้อยเรืองแสง
 
 #### 📝 พรอมต์
 
 ```
-EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
+สตอรีบอร์ด EMBER AND THE FIREFLY — รายการช็อตความยาว 8 วินาที
 
-SHOT 1 | THE SPARK (0:00–1:3s)
-Cam: Static wide, slow push-in.
-Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
-Sound: Forest hush, soft chime on the glow.
+ช็อตที่ 1 | ประกายไฟ (0:00–1:3 วินาที)
+กล้อง: มุมกว้างแบบคงที่ ค่อย ๆ ซูมเข้าไป
+การกระทำ: Ember หยุดเดินกะทันหัน หูตั้งขึ้นเมื่อพบกับหิ่งห้อยเรืองแสงตัวหนึ่ง
+เสียง: เสียงป่าเงียบสงัด มีเสียงกริ๊งเบา ๆ เมื่อแสงสว่างขึ้น
 ```
 
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
+<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="สตอรีบอร์ด Ember and the Firefly ช็อตที่ 1">
 
 **[🎬 ดูวิดีโอ →](https://x.com/Gre8tDan/status/2086787909399572802)**
 
 **ผู้เขียน:** [Great Dan 🥥](https://x.com/Gre8tDan) | **แหล่งที่มา:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **เผยแพร่เมื่อ:** Aug 10, 2026
 
 ---
-### Bouncing Strawberry Jello Pool
+### สระว่ายน้ำเยลลี่สตรอว์เบอร์รีเด้งดึ๋ง
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
+> วิดีโอพรอมต์เชิงภาพยนตร์ที่มีรายละเอียดสูง แสดงภาพสระเยลลี่สตรอว์เบอร์รีสีแดงทับทิมโปร่งแสง พร้อมลูกสตรอว์เบอร์รีเยลลี่ที่กำลังเด้งไปมา เน้นความสมจริงของพื้นผิวและฟิสิกส์
 
 #### 📝 พรอมต์
 
 ```
-A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
+สระว่ายน้ำสุดหรูที่ทำจากเยลลี่สตรอว์เบอร์รีสีแดงทับทิมโปร่งแสงทั้งหมด บนพื้นหลังไล่เฉดสีขาวไปจนถึงชมพูอ่อนแบบไร้รอยต่อ ลูกสตรอว์เบอร์รีสมจริงขนาดใหญ่ที่ปั้นจากเยลลี่มันวาวชนิดเดียวกันโผล่ขึ้นมาจากกลางสระและเด้งขึ้นด้านบนอย่างช้าๆ ก่อนจะตกลงสู่พื้นผิวอีกครั้ง ทำให้เกิดคลื่นเยลลี่เป็นวงกลมที่สวยงามและการกระเซ็นที่นุ่มนวล หยดเยลลี่โปร่งแสงขนาดเล็กยืดตัวกลางอากาศและสะท้อนแสงไฟในสตูดิโอ กล้องเริ่มจากภาพมาโครระยะใกล้ของพื้นผิวเยลลี่มันวาว ถอยออกมาอย่างนุ่มนวลขณะที่สตรอว์เบอร์รีลอยขึ้น แล้วค่อยๆ ขยับเข้าไปใกล้ขณะที่มันตกลงมา การเปลี่ยนรูปของเจลาตินที่สมจริง การสั่นไหว การยืดตัว การเด้งที่นุ่มนวล ระลอกคลื่นบนพื้นผิวที่เหมือนของเหลว ความโปร่งแสงและการกระเจิงแสงใต้พื้นผิวที่ดูน่าเชื่อถือ การถ่ายภาพอาหารระดับพรีเมียมที่กำกับศิลป์มาอย่างดี องค์ประกอบภาพแบบสตูดิโอมินิมอล สุนทรียศาสตร์แบบ ASMR ที่ชวนหลงใหล การเคลื่อนไหวที่นุ่มนวลแบบภาพยนตร์ ถ่ายต่อเนื่องช็อตเดียว ความยาว 10 วินาทีพอดี ไม่มีข้อความ ไม่มีโลโก้
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="สระว่ายน้ำเยลลี่สตรอว์เบอร์รีเด้งดึ๋ง">
 
 **[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2086771369673699476)**
 
 **ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **เผยแพร่เมื่อ:** Aug 10, 2026
 
 ---
-### Treehouse Interior Detailing Motion Prompt
+### พรอมต์ภาพเคลื่อนไหวสำหรับรายละเอียดภายในบ้านต้นไม้
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
+> พรอมต์ภาพเคลื่อนไหวสำหรับขั้นตอนการลงสีและเก็บรายละเอียดภายในของวิดีโอไทม์แลปส์การสร้างบ้านต้นไม้จำลอง
 
 #### 📝 พรอมต์
 
 ```
-Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
+ใช้ภาพภายนอกของบ้านต้นไม้ที่เสร็จสมบูรณ์จาก Motion Prompt 4 เป็นเฟรมเริ่มต้นแบบเป๊ะๆ โดยต้องคงสถาปัตยกรรม หลังคา หน้าต่าง ระเบียง ต้นไม้ สภาพแวดล้อม และสัดส่วนต่างๆ ไว้ให้เหมือนเดิมทุกประการ
 
-Create an ultra fast timelapse
+สร้างวิดีโอไทม์แลปส์แบบความเร็วสูงพิเศษ
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="พรอมต์ภาพเคลื่อนไหวสำหรับรายละเอียดภายในบ้านต้นไม้">
 
 **[🎬 ดูวิดีโอ →](https://x.com/Strength04_X/status/2086644591089041676)**
 
 **ผู้เขียน:** [𝐌](https://x.com/Strength04_X) | **แหล่งที่มา:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **เผยแพร่เมื่อ:** Aug 10, 2026
 
 ---
-### Treehouse Foundation Motion Timelapse
+### วิดีโอไทม์แลปส์การสร้างฐานรากบ้านต้นไม้
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
+> คำสั่ง Motion Prompt สำหรับ Gemini Omni เพื่อสร้างแอนิเมชันการก่อสร้างฐานรากบ้านต้นไม้แบบยกระดับด้วยเอฟเฟกต์ไทม์แลปส์ความเร็วสูง โดยยังคงความต่อเนื่องทางภาพไว้ได้อย่างสมบูรณ์
 
 #### 📝 พรอมต์
 
 ```
-Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
+ใช้ภาพเฟรมแรก (First Frame Image) เป็นจุดเริ่มต้นที่แม่นยำ และรักษาองค์ประกอบเดิมไว้ทั้งหมด ไม่ว่าจะเป็นต้นไม้ กิ่งไม้ สภาพแวดล้อม สเกลแบบจำลอง วัสดุ แสง สไตล์กล้อง และอัตลักษณ์ทางภาพ
 
-Create an ultra fast timelapse speed construction
+สร้างวิดีโอไทม์แลปส์การก่อสร้างด้วยความเร็วสูง
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="วิดีโอไทม์แลปส์การสร้างฐานรากบ้านต้นไม้">
 
 **[🎬 ดูวิดีโอ →](https://x.com/Strength04_X/status/2086644027420815501)**
 
 **ผู้เขียน:** [𝐌](https://x.com/Strength04_X) | **แหล่งที่มา:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **เผยแพร่เมื่อ:** Aug 10, 2026
 
 ---
-### Anime Style Pandan Flour Pressing
+### การกดแป้งใบเตยสไตล์อนิเมะ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
+> พรอมต์สไตล์อนิเมะ 2D สำหรับ Gemini Omni ที่อธิบายภาพมือที่กำลังกดแป้งข้าวเจ้าผสมใบเตยลงในไนโตรเจนเหลว เพื่อสร้างเอฟเฟกต์ภาพที่ดูแปลกตาและน่าหลงใหล
 
 #### 📝 พรอมต์
 
 ```
-A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
+วิดีโอแอนิเมชัน 2D สไตล์อนิเมะญี่ปุ่นแบบโคลสอัพ มือสไตล์อนิเมะที่วาดด้วยลายเส้นกำลังกดแป้งข้าวเจ้าผสมใบเตยสีเขียวสดผ่านเครื่องกดแบบดั้งเดิมลงในชามไนโตรเจนเหลว ทำให้เกิดกลุ่มควันเย็นและละอองไอน้ำที่ดูสวยงามราวกับเวทมนตร์
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="การกดแป้งใบเตยสไตล์อนิเมะ">
 
 **[🎬 ดูวิดีโอ →](https://x.com/playinbey/status/2085826420287418413)**
 
 **ผู้เขียน:** [PLAY!](https://x.com/playinbey) | **แหล่งที่มา:** [Link](https://x.com/playinbey/status/2085826420287418413) | **เผยแพร่เมื่อ:** Aug 7, 2026
 
 ---
-### Dread and Foreboding Image-to-Video
+### เปลี่ยนภาพนิ่งให้เป็นวิดีโอแนวสยองขวัญและน่าสะพรึงกลัว
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
+> คำสั่ง (Prompt) ที่ออกแบบมาเพื่อเปลี่ยนภาพนิ่งให้กลายเป็นฉากวิดีโอที่มีความเคลื่อนไหว โดยเน้นบรรยากาศความหวาดกลัวและน่าสะพรึงกลัวผ่านการใช้มุมกล้องที่หลากหลาย
 
 #### 📝 พรอมต์
 
 ```
-Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
+สร้างฉากที่น่าสนใจจากภาพนี้ โดยใช้มุมกล้องที่หลากหลายและการจัดเฟรมแบบไดนามิก เพื่อสร้างบรรยากาศแห่งความหวาดกลัวและน่าสะพรึงกลัว
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="เปลี่ยนภาพนิ่งให้เป็นวิดีโอแนวสยองขวัญและน่าสะพรึงกลัว">
 
 **[🎬 ดูวิดีโอ →](https://x.com/pzf_ai/status/2085736211625230529)**
 
 **ผู้เขียน:** [PZF](https://x.com/pzf_ai) | **แหล่งที่มา:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **เผยแพร่เมื่อ:** Aug 7, 2026
 
 ---
-### Cherry Blossom Tree Gel Sculpture
+### ประติมากรรมเจลต้นซากุระ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
+> พรอมต์แนวภาพยนตร์แบบมาโครสำหรับ Gemini Omni ที่ถ่ายทอดภาพเจลเรืองแสงซึ่งเปลี่ยนรูปเป็นต้นซากุระจิ๋วที่มีรายละเอียดสมจริงขณะไหลออกมาจากหลอด
 
 #### 📝 พรอมต์
 
 ```
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
-Style:
-Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+ภาพมือที่ดูสมจริงค่อยๆ บีบหลอดโลหะเงางามที่มีหัวฉีดขัดเงา แทนที่จะเป็นเนื้อครีมทั่วไป กลับมีเจลใสที่เรืองแสงอ่อนๆ ไหลออกมาอย่างนุ่มนวล ขณะที่เนื้อเจลไหลออกมา มันจะเปลี่ยนรูปอย่างเป็นธรรมชาติกลายเป็น "ต้นซากุระ" ขนาดจิ๋วที่ถูกปั้นแต่งอย่างสวยงาม โดยค่อยๆ ก่อตัวขึ้นทีละชั้นในการเคลื่อนไหวที่ต่อเนื่องเพียงครั้งเดียว ลำต้นที่ละเอียดอ่อนค่อยๆ งอกขึ้นมาก่อน ตามด้วยกิ่งก้านที่แตกแขนงอย่างสง่างามและผลิบานเป็นดอกซากุระโปร่งแสงขนาดเล็กหลายร้อยดอก ทั้งหมดนี้ก่อตัวขึ้นอย่างไร้รอยต่อในการเปลี่ยนผ่านที่ลื่นไหลเพียงครั้งเดียว
+
+ผลงานชิ้นจิ๋วที่เสร็จสมบูรณ์ดูมีความเงางาม โปร่งแสงเล็กน้อย นุ่มนวล และยืดหยุ่น มีอาการสั่นไหวเล็กน้อยก่อนจะคงตัวอย่างเป็นธรรมชาติ ดอกไม้สั่นไหวเบาๆ ก่อนจะหยุดนิ่ง ในขณะที่แสงสะท้อนขนาดเล็กวิ่งผ่านพื้นผิวเจลที่เรียบเนียน แสงเรืองรองจากภายในที่นุ่มนวลกระจายผ่านกิ่งก้านและกลีบดอกทุกส่วน สร้างรูปลักษณ์ที่ดูหรูหราคล้ายแก้วระดับพรีเมียม
+
+วัตถุวางอยู่บนพื้นผิวหินสีเข้มแบบด้านที่ประดับด้วยหยดน้ำละเอียด ซึ่งช่วยเพิ่มความสมจริงและการสะท้อนของแสง
+
+สไตล์:
+การถ่ายภาพมาโครระยะใกล้พิเศษ
+CGI ที่สมจริงเกินจริง
+แสงสตูดิโอแบบภาพยนตร์
+ระยะชัดลึกที่ตื้นมาก
+การสะท้อนของแสงที่คมชัด
+ความสวยงามระดับโฆษณาสินค้าพรีเมียม
+การเปลี่ยนผ่านที่ราบรื่นและต่อเนื่อง
+พื้นผิวที่คมชัด
+วัสดุที่สมจริงเหมือนภาพถ่าย
+คุณภาพ 8K
+แนวตั้ง 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
-Negative Prompt:
-Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+ไม่มีข้อความ
+ไม่มีการเคลื่อนไหวของกล้อง
+ไม่มีสิ่งรบกวนในพื้นหลัง
+
+คำสั่งเชิงลบ (Negative Prompt):
+คุณภาพต่ำ, การ์ตูน, อะนิเมะ, รายละเอียดต่ำ, รูปลักษณ์เหมือนพลาสติก, เม็ดสี, สัญญาณรบกวน, การสั่นไหว, เรขาคณิตที่แตกหัก, รูปร่างผิดเพี้ยน, วัตถุส่วนเกิน, ข้อความ, ลายน้ำ, โลโก้, สีที่อิ่มตัวเกินไป, แสงที่ไม่สมจริง, กล้องสั่น, ภาพเบลอจากการเคลื่อนไหว, พื้นหลังที่รก
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="ประติมากรรมเจลต้นซากุระ">
 
 **[🎬 ดูวิดีโอ →](https://x.com/Strength04_X/status/2085703642037018819)**
 
 **ผู้เขียน:** [𝐌](https://x.com/Strength04_X) | **แหล่งที่มา:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **เผยแพร่เมื่อ:** Aug 7, 2026
 
 ---
-### Jelly Octopus Macro Transformation
+### การเปลี่ยนร่างแบบมาโครของ Jelly Octopus
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
+> พรอมต์สำหรับการถ่ายทำภาพยนตร์แบบมาโครที่มีรายละเอียดสูงสำหรับ Gemini Omni ซึ่งแสดงภาพเจลเรืองแสงที่กำลังเปลี่ยนร่างเป็น Jelly Octopus เนื้อเยลลี่ที่มีความยืดหยุ่น
 
 #### 📝 พรอมต์
 
 ```
-Extreme close-up macro cinematography. 
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
+การถ่ายทำภาพยนตร์แบบมาโครระยะใกล้พิเศษ (Extreme close-up)
+มือที่ดูสมจริงกำลังค่อย ๆ บีบหลอดโลหะเงางามที่มีหัวฉีดขัดเงา แทนที่จะเป็นเนื้อครีมธรรมดา กลับมีเจลใสที่เรืองแสงอ่อน ๆ ไหลออกมาอย่างนุ่มนวล เมื่อวัสดุไหลออกมา มันจะเปลี่ยนร่างอย่างเป็นธรรมชาติกลายเป็น "Jelly Octopus" ขนาดจิ๋วที่ถูกปั้นแต่งขึ้นมาอย่างสวยงาม โดยค่อย ๆ ก่อตัวขึ้นทีละชั้นในการเคลื่อนไหวที่ต่อเนื่องเพียงครั้งเดียว
+ชิ้นงานขนาดจิ๋วที่เสร็จสมบูรณ์ดูมีความมันวาว กึ่งโปร่งแสงเล็กน้อย นุ่มนิ่ม และยืดหยุ่น พร้อมการสั่นไหวเบา ๆ ก่อนที่จะคงตัวอย่างเป็นธรรมชาติ ส่วนหัวที่กลมมนเด้งดึ๋งอย่างนุ่มนวล ในขณะที่หนวดเล็ก ๆ พลิ้วไหวและคงตัวด้วยความยืดหยุ่นที่ดูสมจริง มีแสงไฮไลท์เล็ก ๆ วิ่งผ่านพื้นผิวที่เรียบเนียน ในขณะที่แสงภายในกระจายตัวผ่านเนื้อเจลอย่างนุ่มนวล สร้างรูปลักษณ์ที่ดูหรูหราและพรีเมียม
+วัตถุวางอยู่บนพื้นหินผิวด้านสีเข้มที่ประดับด้วยหยดน้ำเล็ก ๆ ซึ่งช่วยเพิ่มความสมจริงและการสะท้อนแสง
 
-Style: Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
+สไตล์: การถ่ายภาพแบบอัลตร้ามาโคร
+CGI ที่สมจริงขั้นสูง
+การจัดแสงสตูดิโอแบบภาพยนตร์
+ระยะชัดลึกที่ตื้นมาก
+การสะท้อนแสงที่สมบูรณ์
+สุนทรียภาพแบบโฆษณาสินค้าพรีเมียม
+การเปลี่ยนร่างที่ต่อเนื่องและราบรื่น
+พื้นผิวที่คมชัด
+วัสดุที่ดูสมจริงเหมือนภาพถ่าย
+คุณภาพ 8K
+แนวตั้ง 16:9
 30 FPS
-No text
-No camera movement
-No background distractions
+ไม่มีข้อความ
+ไม่มีการเคลื่อนไหวของกล้อง
+ไม่มีสิ่งรบกวนในพื้นหลัง
 
-Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
+Negative Prompt: คุณภาพต่ำ, การ์ตูน, อนิเมะ, รายละเอียดต่ำ, รูปลักษณ์เหมือนพลาสติก, เกรน, สัญญาณรบกวน, การกะพริบ, เรขาคณิตที่ผิดเพี้ยน, รูปร่างที่บิดเบี้ยว, วัตถุแปลกปลอม, ข้อความ, ลายน้ำ, โลโก้, สีที่อิ่มตัวเกินไป, แสงที่ไม่สมจริง, กล้องสั่น, ภาพเบลอจากการเคลื่อนไหว, พื้นหลังที่รก
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="การเปลี่ยนร่างแบบมาโครของ Jelly Octopus">
 
 **[🎬 ดูวิดีโอ →](https://x.com/Strength04_X/status/2085559452481261606)**
 
 **ผู้เขียน:** [𝐌](https://x.com/Strength04_X) | **แหล่งที่มา:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **เผยแพร่เมื่อ:** Aug 7, 2026
 
 ---
-### Prehistoric Caveman Rock Concert
+### คอนเสิร์ตร็อกของมนุษย์ถ้ำยุคก่อนประวัติศาสตร์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
+> วิดีโอพรอมต์สไตล์สารคดีที่ถ่ายทอดภาพมนุษย์ยุคก่อนประวัติศาสตร์กำลังแสดงคอนเสิร์ตบนเวทีท่ามกลางเหล่าไดโนเสาร์
 
 #### 📝 พรอมต์
 
 ```
-A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
+ฉากคอนเสิร์ตในยุคก่อนประวัติศาสตร์ มีมนุษย์ถ้ำและผู้คนในยุคนั้นอยู่บนเวที กำลังร้องเพลงด้วยภาษาที่ไม่สามารถเข้าใจได้ มีไดโนเสาร์เดินไปมาอยู่รอบๆ และมีกลุ่มคนจำนวนมากกำลังรับชมคอนเสิร์ตอยู่ การถ่ายทำจะเป็นแบบหลายมุมกล้อง โดยให้ความรู้สึกเหมือนการถ่ายทำสารคดีที่เป็นธรรมชาติ สไตล์ของภาพควรมีความสมจริงขั้นสูง
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="คอนเสิร์ตร็อกของมนุษย์ถ้ำยุคก่อนประวัติศาสตร์">
 
 **[🎬 ดูวิดีโอ →](https://x.com/ozansihay/status/2085420070952649179)**
 
 **ผู้เขียน:** [Ozan Sihay](https://x.com/ozansihay) | **แหล่งที่มา:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **เผยแพร่เมื่อ:** Aug 6, 2026
 
 ---
-### Ink Splash to Landscape Painting
+### จากหยดหมึกสู่ภาพวาดทิวทัศน์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
+> คำสั่ง (Prompt) เชิงบรรยายสำหรับ Gemini Omni เพื่อสร้างภาพหยดหมึกสีดำบนพื้นหลังสีขาวที่ค่อยๆ เปลี่ยนรูปเป็นภาพวาดทิวทัศน์ขนาดจิ๋วที่มีสีสัน ในสไตล์ภาพยนตร์แบบสโลว์โมชัน
 
 #### 📝 พรอมต์
 
 ```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
-Style: abstract beauty | fluid motion | artistic transformation
-Camera: static macro → slow reveal
-Length: 10 seconds
-Lighting: soft studio light, high clarity
+พื้นหลังสีขาวบริสุทธิ์เต็มเฟรม หยดหมึกสีดำข้นค่อยๆ หยดลงมาในแบบสโลว์โมชัน กระจายตัวออกราวกับดอกไม้ที่กำลังผลิบาน กล้องตั้งนิ่งสนิทโดยโฟกัสไปที่การเคลื่อนไหวของของเหลว เมื่อหมึกกระจายตัวมากขึ้น รูปทรงต่างๆ จะค่อยๆ เปลี่ยนเป็นภูเขา แม่น้ำ และต้นไม้ สีสันต่างๆ เริ่มซึมเข้ามา ทั้งสีน้ำเงินเข้มและสีเขียว จนกระทั่งหมึกกลายเป็นภาพวาดทิวทัศน์ขนาดจิ๋วอย่างสมบูรณ์ วินาทีสุดท้ายภาพจะหยุดนิ่งอยู่ที่โลกที่สร้างเสร็จสมบูรณ์
+สไตล์: ความงามเชิงนามธรรม | การเคลื่อนไหวที่ลื่นไหล | การเปลี่ยนผ่านเชิงศิลปะ
+กล้อง: มาโครแบบนิ่ง → ค่อยๆ เผยให้เห็น
+ความยาว: 10 วินาที
+แสง: แสงสตูดิโอแบบนุ่มนวล ความคมชัดสูง
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="จากหยดหมึกสู่ภาพวาดทิวทัศน์">
 
 **[🎬 ดูวิดีโอ →](https://x.com/MrDasOnX/status/2085178634067923397)**
 
 **ผู้เขียน:** [Mr Das](https://x.com/MrDasOnX) | **แหล่งที่มา:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **เผยแพร่เมื่อ:** Aug 6, 2026
 
 ---
-### High-Energy Match Cut Video
+### วิดีโอแบบ Match Cut ที่เปี่ยมไปด้วยพลัง
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
+> คำสั่งเชิงเทคนิคสำหรับการสร้างวิดีโอความยาว 10 วินาทีที่ดำเนินเรื่องอย่างรวดเร็ว โดยมีการตัดต่อแบบ match cut ที่มีความเร็ว 2 ครั้งต่อวินาที ในอัตราส่วนภาพแบบ cinematic 16:9
 
 #### 📝 พรอมต์
 
 ```
-generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
+สร้างคลิปวิดีโอความยาว 10 วินาทีที่มีการตัดต่อแบบ match cut จำนวน 20 ครั้ง โดยตัดต่อ 2 ครั้งต่อวินาที ให้ได้อารมณ์แบบ cinematic และเปี่ยมไปด้วยพลัง ในอัตราส่วน 16:9
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="วิดีโอแบบ Match Cut ที่เปี่ยมไปด้วยพลัง">
 
 **[🎬 ดูวิดีโอ →](https://x.com/ViralOps_/status/2085069575700246678)**
 
 **ผู้เขียน:** [ViralOps](https://x.com/ViralOps_) | **แหล่งที่มา:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **เผยแพร่เมื่อ:** Aug 5, 2026
 
 ---
-### Traditional Sumo Rikishi Scene
+### ภาพฉากนักซูโม่แบบดั้งเดิม
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
+> พรอมต์ที่แสดงภาพฉากการต่อสู้ซูโม่แบบญี่ปุ่นดั้งเดิม โดยมีนักซูโม่สวมมาวาชิและทำผมทรงจอนมาเกะ เน้นไปที่พิธีกรรมก่อนการต่อสู้
 
 #### 📝 พรอมต์
 
 ```
-Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
+ฮักเคะ-โยอิ! แต่ละคนสวมมาวาชิอย่างประณีต พร้อมทรงผมจอนมาเกะสุดเท่บนศีรษะ แต่ยังมีสิ่งหนึ่งที่แปลกตา คือนักซูโม่จะไม่วางแขนท่อนล่างในท่าชิคิริบนโดเฮียวเด็ดขาดก่อนเริ่มการต่อสู้
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="ภาพฉากนักซูโม่แบบดั้งเดิม">
 
 **[🎬 ดูวิดีโอ →](https://x.com/222TT222/status/2085036219894026485)**
 
 **ผู้เขียน:** [TakTempest](https://x.com/222TT222) | **แหล่งที่มา:** [Link](https://x.com/222TT222/status/2085036219894026485) | **เผยแพร่เมื่อ:** Aug 5, 2026
 
 ---
-### Mechanical Pepper Grinder Mantis Kitchen Duel
+### ศึกดวลเดือดในครัว: ตั๊กแตนตำข้าวจากที่บดพริกไทย
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A cinematic macro video prompt for Gemini Omni that depicts a mechanical mantis made of a pepper grinder battling a cockroach on a kitchen counter, complete with a detailed multi-shot timeline.
+> พรอมต์วิดีโอมาโครแบบภาพยนตร์สำหรับ Gemini Omni ที่ถ่ายทอดเรื่องราวของตั๊กแตนจักรกลที่ทำจากที่บดพริกไทยกำลังต่อสู้กับแมลงสาบบนเคาน์เตอร์ครัว พร้อมไทม์ไลน์การถ่ายทำแบบหลายช็อตอย่างละเอียด
 
 #### 📝 พรอมต์
 
 ```
-Macro cinematic lens, the night kitchen countertop is filmed like a vast metal wasteland. Crumbs, salt grains, and herb fragments are scattered like rocks and bushes on the surface. The protagonist is a peculiar 'Pepper Grinder Mantis': the body is a small silver stainless steel pepper grinder, tilted slightly forward vertically, with long real mantis legs growing from the bottom and sides, and two iconic scythe-like predatory forelimbs in front. It has no normal insect head; the main body is the pepper grinder itself, moving cautiously and mechanically.
+เลนส์มาโครแบบภาพยนตร์ เคาน์เตอร์ครัวยามค่ำคืนถูกถ่ายทอดให้ดูราวกับดินแดนรกร้างที่เป็นโลหะกว้างใหญ่ เศษขนมปัง เกล็ดเกลือ และเศษสมุนไพรกระจัดกระจายอยู่บนพื้นผิวราวกับโขดหินและพุ่มไม้ ตัวเอกคือ 'ตั๊กแตนที่บดพริกไทย' อันแปลกตา ลำตัวเป็นที่บดพริกไทยสแตนเลสสีเงินขนาดเล็ก เอียงไปข้างหน้าเล็กน้อยในแนวตั้ง มีขาตั๊กแตนของจริงยาวงอกออกมาจากด้านล่างและด้านข้าง และมีขาหน้าคู่หน้าอันเป็นเอกลักษณ์ที่ดูเหมือนเคียว มันไม่มีหัวแมลงแบบปกติ ลำตัวหลักคือตัวที่บดพริกไทยเอง ซึ่งเคลื่อนไหวอย่างระมัดระวังและเป็นกลไก
 
-A shiny brown cockroach slowly crawls out from behind the shadow of a napkin on the left, quickly approaching the pepper grinder mantis. The air is tense, like a late-night kitchen duel. The pepper grinder mantis suddenly stops, its body rising slightly as if locking onto a target. Then it snaps the top grinding head, emitting a crisp mechanical sound, and a large amount of black pepper fragments spray out from the top and front like a smoke grenade, hitting the cockroach directly.
+แมลงสาบสีน้ำตาลเป็นมันวาวค่อยๆ คลานออกมาจากหลังเงาของผ้าเช็ดปากทางด้านซ้าย แล้วพุ่งเข้าหาตั๊กแตนที่บดพริกไทยอย่างรวดเร็ว บรรยากาศตึงเครียดราวกับการดวลกันในครัวยามดึก ตั๊กแตนที่บดพริกไทยหยุดกะทันหัน ลำตัวยกสูงขึ้นเล็กน้อยราวกับกำลังล็อกเป้าหมาย จากนั้นมันก็สะบัดหัวบดด้านบน ทำให้เกิดเสียงกลไกที่คมชัด และเศษพริกไทยดำจำนวนมากพุ่งกระจายออกมาจากด้านบนและด้านหน้าเหมือนระเบิดควัน พุ่งเข้าใส่แมลงสาบโดยตรง
 
-The cockroach is choked by the pepper, retreating in panic, antennae swinging wildly, feet slipping, and quickly retreats back into the shadow on the left. Fine black pepper particles and a slight powder mist float in the air. The pepper grinder mantis remains in place, forelimbs held high, like a calmly winning night warrior.
+แมลงสาบสำลักพริกไทย ถอยหนีอย่างตื่นตระหนก หนวดแกว่งไปมาอย่างบ้าคลั่ง ขาไถล และรีบถอยกลับเข้าไปในเงาทางด้านซ้าย ละอองพริกไทยดำละเอียดและฝุ่นผงเล็กน้อยลอยอยู่ในอากาศ ตั๊กแตนที่บดพริกไทยยังคงยืนอยู่ที่เดิม ขาหน้าชูสูงขึ้น ราวกับนักรบยามค่ำคืนที่ได้รับชัยชนะอย่างสงบนิ่ง
 
-Timeline Storyboard:
-0–3s: Ultra close-up macro shot. The silver pepper grinder mantis walks slowly on the kitchen counter, surrounded by crumbs, salt, and herbs. Soft reflections on the metal surface, mantis legs move realistically.
-3–6s: In the shadows on the left, a brown cockroach suddenly appears, quickly approaching the mantis. Slight camera follow, creating tension. The two face off briefly in a small open area.
-6–7s: The top of the pepper grinder suddenly rotates quickly, making a mechanical grinding sound. A large amount of black pepper powder bursts out, forming a dense granular black spray, hitting the cockroach head-on.
-7–10s: The cockroach retreats in chaos after being stimulated by the pepper, quickly fleeing into the shadow on the left and disappearing. Black pepper dust floats in the air. The pepper grinder mantis remains still, forelimbs raised, standing guard like a victor.
+ไทม์ไลน์สตอรี่บอร์ด:
+0–3 วินาที: ช็อตมาโครระยะใกล้พิเศษ ตั๊กแตนที่บดพริกไทยสีเงินเดินช้าๆ บนเคาน์เตอร์ครัว รายล้อมไปด้วยเศษขนมปัง เกลือ และสมุนไพร มีแสงสะท้อนนุ่มนวลบนพื้นผิวโลหะ ขาตั๊กแตนเคลื่อนไหวอย่างสมจริง
+3–6 วินาที: ในเงามืดทางด้านซ้าย แมลงสาบสีน้ำตาลปรากฏตัวขึ้นกะทันหันและพุ่งเข้าหาตั๊กแตนอย่างรวดเร็ว กล้องแพนตามเล็กน้อยเพื่อสร้างความตึงเครียด ทั้งสองเผชิญหน้ากันชั่วครู่ในพื้นที่เปิดโล่งเล็กๆ
+6–7 วินาที: ส่วนบนของที่บดพริกไทยหมุนอย่างรวดเร็วทันที ทำให้เกิดเสียงบดแบบกลไก ผงพริกไทยดำจำนวนมากพุ่งออกมา ก่อตัวเป็นละอองสีดำหนาแน่นพุ่งเข้าใส่แมลงสาบเต็มๆ
+7–10 วินาที: แมลงสาบถอยหนีอย่างโกลาหลหลังจากโดนพริกไทยเล่นงาน มันรีบวิ่งหนีเข้าไปในเงาทางด้านซ้ายแล้วหายไป ฝุ่นพริกไทยดำลอยอยู่ในอากาศ ตั๊กแตนที่บดพริกไทยยังคงยืนนิ่ง ขาหน้าชูขึ้น ยืนเฝ้ายามราวกับผู้ชนะ
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mechanical Pepper Grinder Mantis Kitchen Duel">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="ศึกดวลเดือดในครัว: ตั๊กแตนตำข้าวจากที่บดพริกไทย">
 
 **[🎬 ดูวิดีโอ →](https://x.com/jesselaunz/status/2084153849326309450)**
 
 **ผู้เขียน:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **แหล่งที่มา:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **เผยแพร่เมื่อ:** Aug 3, 2026
 
 ---
-### Shark Rock Band Dive Bar Footage
+### ฟุตเทจวงดนตรีร็อกฉลามในบาร์ลับ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> Generates a gritty, bootleg-style video of a fictional shark rock band performing live in a crowded dive bar atmosphere.
+> สร้างวิดีโอสไตล์บูทเลกสุดดิบของวงดนตรีร็อกฉลามสมมติที่กำลังแสดงสดในบรรยากาศบาร์ลับที่เนืองแน่นไปด้วยผู้คน
 
 #### 📝 พรอมต์
 
 ```
-Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," real sharks somehow balanced on boards and shredding guitars with their fins, hisses a brief hello before tearing into their thrashing single, "Chum Bucket."
+ฟุตเทจสไตล์บูทเลกจากบาร์ลับที่เต็มไปด้วยผู้คน: วงดนตรีแนวเซิร์ฟนอยส์ "Sharks on Surfboards" ที่มีฉลามตัวจริงทรงตัวอยู่บนเซิร์ฟบอร์ดและกำลังโซโล่กีตาร์ด้วยครีบ พวกมันกล่าวทักทายสั้นๆ ก่อนจะเริ่มบรรเลงเพลงซิงเกิลสุดเดือดอย่าง "Chum Bucket"
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Shark Rock Band Dive Bar Footage">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="ฟุตเทจวงดนตรีร็อกฉลามในบาร์ลับ">
 
 **[🎬 ดูวิดีโอ →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
 
 **ผู้เขียน:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **แหล่งที่มา:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **เผยแพร่เมื่อ:** Aug 3, 2026
 
 ---
-### Luxury Toddler Fashion Commercial
+### โฆษณาแฟชั่นเด็กเล็กสุดหรู
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
+> พรอมต์สำหรับโฆษณาแฟชั่นระดับไฮเอนด์ที่นำเสนอเด็กเล็กในสไตล์หรูหราที่ดูดุดันและหยุดไม่อยู่
 
 #### 📝 พรอมต์
 
 ```
-a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
+โฆษณาแฟชั่นระดับไฮเอนด์สำหรับเด็กเล็ก ความหรูหราที่ดูดุดัน น่ารักแต่หยุดไม่อยู่
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="โฆษณาแฟชั่นเด็กเล็กสุดหรู">
 
 **[🎬 ดูวิดีโอ →](https://x.com/ritesh_ai/status/2083525213309042711)**
 
@@ -2874,6 +2888,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-18T08:34:21.527Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-18T12:41:33.412Z</sub>
 
 </div>
