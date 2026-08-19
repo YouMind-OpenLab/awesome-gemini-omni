@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **174** |
+| 📝 プロンプト総数 | **175** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-08-19** |
 
@@ -56,6 +56,25 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### 氷の惑星を守護する女神
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 氷に覆われた世界に立ち、流星が降り注ぐ中、穏やかな表情で民に語りかける女神を描くためのシネマティックな動画プロンプト。
+
+#### 📝 プロンプト
+
+```
+「たとえ燃え盛る流星の雨が降り注ごうとも、数百万ボルトの雷撃が打ち付けようとも、私がこの星のすべての民を守り抜く」氷の惑星を守護する女神が、穏やかな表情で民に向けてそう語りかける。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089637983368650752/img/GQypPF6_mBJUcTff.jpg" width="600" alt="氷の惑星を守護する女神">
+
+**[🎬 動画を見る →](https://x.com/omomomomo0309/status/2089638641664659879)**
+
+**作者:** [おもも桃](https://x.com/omomomomo0309) | **ソース:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **公開日:** Aug 18, 2026
+
+---
 ### 故宮の龍への変身
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2837,33 +2856,13 @@ FPV ドローンによる追走（開始時点）→ サイドトラッキング
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **ソース:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **公開日:** Jun 28, 2026
 
 ---
-### 3D 瞑想アニメーションシーケンス
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 自然の中で瞑想し、その重要性について語るキャラクターの 3D アニメーションを生成するための、Gemini Omni Flash 向け構造化マルチシーンプロンプトです。
-
-#### 📝 プロンプト
-
-```
-0 ～ 10 秒 - 夕暮れの自然の中で瞑想する @ gex の側面図
-10 ～ 20 秒 - 前の動画の最後のフレームから継続 - 彼が瞑想の重要性について語る
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="3D 瞑想アニメーションシーケンス">
-
-**[🎬 動画を見る →](https://x.com/sebatheepan/status/2070155888912953761)**
-
-**作者:** [Pan](https://x.com/sebatheepan) | **ソース:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **公開日:** Jun 25, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 74 さらに多くのプロンプトがあります
+### 🎯 75 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2909,6 +2908,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-19T08:35:08.802Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-19T12:42:07.293Z</sub>
 
 </div>

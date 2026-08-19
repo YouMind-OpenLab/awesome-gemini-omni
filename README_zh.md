@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **174** |
+| 📝 提示词总数 | **175** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-08-19** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 守护冰雪星球的女神
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个电影级的视频提示词：一位女神站在冰封星球上，神情宁静地向她的子民发表讲话，背景中流星坠落。
+
+#### 📝 提示词
+
+```
+“即使烈火流星如雨落下，或是百万伏特的闪电击中大地，我也将守护我的所有子民，”守护冰雪星球的女神神情宁静地对民众说道。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089637983368650752/img/GQypPF6_mBJUcTff.jpg" width="600" alt="守护冰雪星球的女神">
+
+**[🎬 观看视频 →](https://x.com/omomomomo0309/status/2089638641664659879)**
+
+**作者:** [おもも桃](https://x.com/omomomomo0309) | **来源:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **发布时间:** Aug 18, 2026
+
+---
 ### 故宫太和殿化龙
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2842,33 +2861,13 @@ FPV 无人机追拍（已在运动中）→ 侧向跟拍 → 车轮安装摄像�
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **发布时间:** Jun 28, 2026
 
 ---
-### 3D 冥想动画序列
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Gemini Omni Flash 设计的结构化多场景提示词，用于生成一段 3D 动画，展示一个角色在自然环境中冥想并讲述冥想的重要性。
-
-#### 📝 提示词
-
-```
-0-10 秒 - 侧视图：@ gex 在黄昏的自然环境中练习冥想
-10-20 秒 - 从视频的上一帧继续 - 他讲述冥想的重要性
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="3D 冥想动画序列">
-
-**[🎬 观看视频 →](https://x.com/sebatheepan/status/2070155888912953761)**
-
-**作者:** [Pan](https://x.com/sebatheepan) | **来源:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **发布时间:** Jun 25, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 74 更多提示词未在此显示
+### 🎯 75 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2914,6 +2913,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-19T08:35:05.508Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-19T12:42:04.664Z</sub>
 
 </div>

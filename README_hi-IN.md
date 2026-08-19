@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **174** |
+| 📝 कुल प्रॉम्पट्स | **175** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-08-19** |
 
@@ -56,6 +56,25 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### बर्फ के ग्रह की रक्षा करती देवी
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> एक जमी हुई दुनिया पर खड़ी देवी का सिनेमाई वीडियो प्रॉम्प्ट, जो गिरते उल्कापिंडों के बीच शांत भाव के साथ अपनी प्रजा को संबोधित कर रही है।
+
+#### 📝 प्रॉम्पट
+
+```
+"भले ही जलते हुए उल्कापिंडों की बारिश हो या लाखों वोल्ट की बिजली गिरे, मैं अपनी पूरी प्रजा की रक्षा करूंगी," बर्फ के ग्रह की रक्षा करती देवी ने शांत भाव के साथ अपनी प्रजा से कहा।
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089637983368650752/img/GQypPF6_mBJUcTff.jpg" width="600" alt="बर्फ के ग्रह की रक्षा करती देवी">
+
+**[🎬 वीडियो देखें →](https://x.com/omomomomo0309/status/2089638641664659879)**
+
+**लेखक:** [おもも桃](https://x.com/omomomomo0309) | **स्रोत:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **प्रकाशित:** Aug 18, 2026
+
+---
 ### Forbidden City Dragon Transformation
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2841,33 +2860,13 @@ FPV ड्रोन चेज़ पहले से गति में → स
 **लेखक:** [Mr Das](https://x.com/MrDasOnX) | **स्रोत:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **प्रकाशित:** Jun 28, 2026
 
 ---
-### 3D मेडिटेशन एनिमेशन सीक्वेंस
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni Flash के लिए एक संरचित मल्टी-सीन प्रॉम्प्ट, जो प्रकृति में ध्यान करते हुए और इसके महत्व के बारे में बात करते हुए एक कैरेक्टर का 3D एनिमेशन तैयार करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-0-10 सेकंड - गोधूलि बेला में प्रकृति के बीच @ gex को ध्यान करते हुए साइड व्यू से दिखाएं
-10-20 सेकंड - वीडियो के पिछले फ्रेम से जारी रखें - वह ध्यान के महत्व के बारे में बात करता है
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="3D मेडिटेशन एनिमेशन सीक्वेंस">
-
-**[🎬 वीडियो देखें →](https://x.com/sebatheepan/status/2070155888912953761)**
-
-**लेखक:** [Pan](https://x.com/sebatheepan) | **स्रोत:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **प्रकाशित:** Jun 25, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 74 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 75 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2913,6 +2912,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-19T08:35:14.134Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-19T12:42:12.278Z</sub>
 
 </div>

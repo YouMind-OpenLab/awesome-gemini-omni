@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **174** |
+| 📝 Total Prompts | **175** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-19** |
 
@@ -56,6 +56,25 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Serene Goddess of the Ice Planet
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A narrative video generation prompt describing a protective goddess on a frozen world addressing her people with a serene expression during a meteor shower.
+
+#### 📝 Prompt
+
+```
+"Even if a rain of blazing meteors falls or a lightning bolt of millions of volts strikes, I will protect all my people," the goddess guarding the ice planet says to the populace with a serene expression.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089637983368650752/img/GQypPF6_mBJUcTff.jpg" width="600" alt="Serene Goddess of the Ice Planet">
+
+**[🎬 Watch Video →](https://x.com/omomomomo0309/status/2089638641664659879)**
+
+**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Published:** Aug 18, 2026
+
+---
 ### Forbidden City Dragon Transformation
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2968,33 +2987,13 @@ A crystal-clear swimming pool made entirely of translucent sapphire blue jello o
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Published:** Jun 28, 2026
 
 ---
-### 3D Meditation Animation Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A structured multi-scene prompt for Gemini Omni Flash that generates a 3D animation of a character meditating in nature and speaking about its importance.
-
-#### 📝 Prompt
-
-```
-0-10 seconds - Side view of @ gex practicing meditation in nature at dusk
-10-20 - continue from the last frame of the video - he talks about the importance of meditation
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="3D Meditation Animation Sequence">
-
-**[🎬 Watch Video →](https://x.com/sebatheepan/status/2070155888912953761)**
-
-**Author:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **Published:** Jun 25, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 74 more prompts not shown here
+### 🎯 75 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3040,6 +3039,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-19T08:35:03.575Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-19T12:42:02.661Z</sub>
 
 </div>

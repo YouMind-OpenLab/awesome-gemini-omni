@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **174** |
+| 📝 Toplam İstem | **175** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-19** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Buz Gezegenini Koruyan Tanrıça
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Donmuş bir dünyada duran, göktaşları düşerken sakin bir ifadeyle halkına seslenen bir tanrıça için sinematik video istemi.
+
+#### 📝 İstem
+
+```
+Buz gezegenini koruyan tanrıça, sakin bir ifadeyle halkına hitaben, "Üzerimize alevli göktaşları yağsa ya da milyonlarca voltluk yıldırımlar düşse bile, tüm halkımı koruyacağım," diyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089637983368650752/img/GQypPF6_mBJUcTff.jpg" width="600" alt="Buz Gezegenini Koruyan Tanrıça">
+
+**[🎬 Videoyu izle →](https://x.com/omomomomo0309/status/2089638641664659879)**
+
+**Yazar:** [おもも桃](https://x.com/omomomomo0309) | **Kaynak:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Yayınlandı:** Aug 18, 2026
+
+---
 ### Yasak Şehir Ejderha Dönüşümü
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2812,33 +2831,13 @@ Temiz beyaz bir gradyan arka plan üzerinde tamamen yarı saydam safir mavisi j�
 **Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Yayınlandı:** Jun 28, 2026
 
 ---
-### 3D Meditasyon Animasyon Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Doğada meditasyon yapan ve meditasyonun öneminden bahseden bir karakterin 3D animasyonunu oluşturan, Gemini Omni Flash için yapılandırılmış çok sahneli bir istem.
-
-#### 📝 İstem
-
-```
-0-10 saniye - Alacakaranlıkta doğada meditasyon yapan @ gex'in yandan görünümü
-10-20 saniye - videonun son karesinden devam et - meditasyonun önemi hakkında konuşuyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="3D Meditasyon Animasyon Sekansı">
-
-**[🎬 Videoyu izle →](https://x.com/sebatheepan/status/2070155888912953761)**
-
-**Yazar:** [Pan](https://x.com/sebatheepan) | **Kaynak:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **Yayınlandı:** Jun 25, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 74 burada gösterilmeyen daha fazla istem
+### 🎯 75 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2884,6 +2883,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-19T08:35:25.571Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-19T12:42:21.404Z</sub>
 
 </div>

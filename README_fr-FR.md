@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **174** |
+| 📝 Total des prompts | **175** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-08-19** |
 
@@ -56,6 +56,25 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Déesse protégeant une planète de glace
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt vidéo cinématographique représentant une déesse sur un monde gelé, s'adressant à son peuple avec une expression sereine tandis que des météores s'abattent.
+
+#### 📝 Prompt
+
+```
+« Même si une pluie de météores enflammés s'abat ou qu'un éclair de millions de volts frappe, je protégerai tout mon peuple », déclare la déesse gardienne de la planète de glace à la population avec une expression sereine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089637983368650752/img/GQypPF6_mBJUcTff.jpg" width="600" alt="Déesse protégeant une planète de glace">
+
+**[🎬 Voir la vidéo →](https://x.com/omomomomo0309/status/2089638641664659879)**
+
+**Auteur:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Publié:** Aug 18, 2026
+
+---
 ### Transformation du dragon de la Cité interdite
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2838,33 +2857,13 @@ Une piscine cristalline entièrement faite de gelée bleu saphir translucide sur
 **Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Publié:** Jun 28, 2026
 
 ---
-### Séquence d'animation 3D de méditation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt structuré en plusieurs scènes pour Gemini Omni Flash, conçu pour générer une animation 3D d'un personnage méditant dans la nature et expliquant l'importance de cette pratique.
-
-#### 📝 Prompt
-
-```
-0-10 secondes - Vue latérale de @ gex pratiquant la méditation dans la nature au crépuscule
-10-20 secondes - Continuité à partir de la dernière image de la vidéo - il parle de l'importance de la méditation
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="Séquence d'animation 3D de méditation">
-
-**[🎬 Voir la vidéo →](https://x.com/sebatheepan/status/2070155888912953761)**
-
-**Auteur:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **Publié:** Jun 25, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 74 prompts supplémentaires non affichés ici
+### 🎯 75 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2910,6 +2909,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-19T08:35:19.695Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-19T12:42:16.543Z</sub>
 
 </div>

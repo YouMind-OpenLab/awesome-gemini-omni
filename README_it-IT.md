@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **174** |
+| 📝 Totale prompt | **175** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-08-19** |
 
@@ -56,6 +56,25 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Dea a protezione del pianeta ghiacciato
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt video cinematografico che ritrae una dea su un mondo ghiacciato, intenta a rivolgersi al suo popolo con espressione serena mentre cadono meteore.
+
+#### 📝 Prompt
+
+```
+"Anche se dovesse cadere una pioggia di meteore infuocate o colpire un fulmine da milioni di volt, proteggerò tutto il mio popolo", dice la dea a guardia del pianeta ghiacciato alla popolazione con espressione serena.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089637983368650752/img/GQypPF6_mBJUcTff.jpg" width="600" alt="Dea a protezione del pianeta ghiacciato">
+
+**[🎬 Guarda il video →](https://x.com/omomomomo0309/status/2089638641664659879)**
+
+**Autore:** [おもも桃](https://x.com/omomomomo0309) | **Fonte:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Pubblicato:** Aug 18, 2026
+
+---
 ### Trasformazione del Drago nella Città Proibita
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2810,33 +2829,13 @@ Una piscina cristallina fatta interamente di gelatina blu zaffiro traslucida su 
 **Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Pubblicato:** Jun 28, 2026
 
 ---
-### Sequenza di animazione 3D per la meditazione
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt strutturato in più scene per Gemini Omni Flash che genera un'animazione 3D di un personaggio che medita nella natura e ne spiega l'importanza.
-
-#### 📝 Prompt
-
-```
-0-10 secondi - Vista laterale di @ gex che pratica la meditazione nella natura al crepuscolo
-10-20 secondi - continua dall'ultimo fotogramma del video - parla dell'importanza della meditazione
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="Sequenza di animazione 3D per la meditazione">
-
-**[🎬 Guarda il video →](https://x.com/sebatheepan/status/2070155888912953761)**
-
-**Autore:** [Pan](https://x.com/sebatheepan) | **Fonte:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **Pubblicato:** Jun 25, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 74 altri prompt non mostrati qui
+### 🎯 75 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2882,6 +2881,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-19T08:35:20.708Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-19T12:42:17.438Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **174** |
+| 📝 총 프롬프트 수 | **175** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-08-19** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 얼음 행성을 수호하는 여신
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 얼어붙은 행성에 서서 유성이 떨어지는 가운데 평온한 표정으로 백성들에게 연설하는 여신을 담은 시네마틱 비디오 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+"설령 불타는 유성우가 쏟아지고 수백만 볼트의 번개가 내리꽂힌다 해도, 나는 나의 모든 백성을 지킬 것이다." 얼음 행성을 수호하는 여신이 평온한 표정으로 백성들에게 말합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2089637983368650752/img/GQypPF6_mBJUcTff.jpg" width="600" alt="얼음 행성을 수호하는 여신">
+
+**[🎬 비디오 보기 →](https://x.com/omomomomo0309/status/2089638641664659879)**
+
+**작성자:** [おもも桃](https://x.com/omomomomo0309) | **출처:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **게시일:** Aug 18, 2026
+
+---
 ### 자금성 용 변신
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2836,33 +2855,13 @@ FPV 드론 추격(이미 이동 중) → 측면 트래킹 → 휠 장착 카메�
 **작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **게시일:** Jun 28, 2026
 
 ---
-### 3D 명상 애니메이션 시퀀스
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 자연 속에서 명상하며 그 중요성에 대해 이야기하는 캐릭터의 3D 애니메이션을 생성하기 위한 Gemini Omni Flash용 구조화된 멀티 씬 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-0-10초 - 해 질 녘 자연 속에서 명상하는 @ gex 의 측면 모습
-10-20초 - 이전 영상의 마지막 프레임에서 이어짐 - 그가 명상의 중요성에 대해 이야기함
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2070155018796183552/img/sH2V38k50o6OdxLe.jpg" width="600" alt="3D 명상 애니메이션 시퀀스">
-
-**[🎬 비디오 보기 →](https://x.com/sebatheepan/status/2070155888912953761)**
-
-**작성자:** [Pan](https://x.com/sebatheepan) | **출처:** [Link](https://x.com/sebatheepan/status/2070155888912953761) | **게시일:** Jun 25, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 74 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 75 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2908,6 +2907,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-19T08:35:10.159Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-19T12:42:08.304Z</sub>
 
 </div>
