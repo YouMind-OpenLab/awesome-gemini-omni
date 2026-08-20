@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **175** |
+| 📝 Tổng số prompt | **181** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-20** |
 
@@ -56,6 +56,278 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video Kinetic Typography theo phong cách Bauhaus Swiss
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một kịch bản kinetic typography chính xác dài 12 giây tuân thủ các nguyên tắc thiết kế Bauhaus với hình khối hình học và bố cục lưới nghiêm ngặt.
+
+#### 📝 Prompt
+
+```
+Tạo một video kinetic typography gồm 8 cảnh với tỷ lệ 16:9, 24fps, thời lượng chính xác 12 giây. Phong cách: Bauhaus / Swiss International — sử dụng các màu cơ bản phẳng (đỏ, vàng, xanh dương, đen, trắng ngà), lưới nghiêm ngặt, phông chữ sans-serif hình học.
+Phim này bao gồm 90% là typography và các hình khối hình học chuyển động, 10% là các điểm nhấn kết cấu.
+CẢNH 01 | 0.0-1.5s - Nền trắng ngà. Từ "FORM" rơi xuống từng chữ cái trên một lưới cơ sở, mỗi chữ cái khi chạm vào đều có độ nảy nhẹ.
+CẢNH 02 | 1.5-3.0s - Một hình tròn màu đỏ lăn vào từ bên trái và đẩy chữ "M" ra khỏi khung hình; "FOR—" giữ nguyên một nhịp.
+CẢNH 03 | 3.0-4.5s - Cắt cảnh đột ngột: toàn bộ khung hình màu vàng, chữ "FOLLOWS" xếp chồng theo chiều dọc, các chữ cái trượt theo các hướng xen kẽ.
+CẢNH 04 | 4.5-6.0s - Một đường chéo màu xanh dương quét qua khung hình; "FUNCTION" nằm trên đường chéo; camera xoay cho đến khi chữ nằm ngang.
+CẢNH 05 | 6.0-7.5s - Ba từ hoán đổi vị trí trên lưới 3 cột nghiêm ngặt, khớp theo nhịp.
+CẢNH 06 | 7.5-9.0s - Tất cả chữ thu nhỏ vào kết cấu lưới 8pt; một hình vuông màu đen phóng to qua tâm.
+CẢNH 07 | 9.0-10.5s - Hình vuông tách ra thành bố cục Mondrian; mỗi từ nằm trong một ô màu.
+CẢNH 08 | 10.5-12.0s - Thẻ kết thúc: "FORM FOLLOWS FUNCTION — 1919" căn lề dưới bên trái, hình tròn màu đỏ đóng vai trò là dấu chấm hết, giữ hình.
+Typography phải hoàn toàn dễ đọc trước khi bất kỳ hình khối nào đè lên. Chữ cái không bao giờ bị biến dạng hoặc tan chảy; khoảng cách giữa các chữ cái (kerning) luôn đồng đều về mặt thị giác.
+Biên tập: cắt cảnh dứt khoát và các chuyển động nhanh khớp với nhịp 120bpm.
+Âm thanh: tiếng click điện tử tối giản + nhịp bass ở mỗi lần cắt cảnh.
+KHÔNG ĐƯỢC: sử dụng gradient, đổ bóng (drop shadows), hiệu ứng 3D, phông chữ có chân (serif), chữ bị tan chảy, thêm từ ngữ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Video Kinetic Typography theo phong cách Bauhaus Swiss">
+
+**[🎬 Xem video →](https://x.com/EZheng66099/status/2090185695641968736)**
+
+**Tác giả:** [EZ](https://x.com/EZheng66099) | **Nguồn:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Đã xuất bản:** Aug 19, 2026
+
+---
+### Giới thiệu nhân vật hoạt hình Trung Quốc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Video montage giới thiệu nhân vật hoạt hình 2D Trung Quốc nhịp độ nhanh trong 5 giây, sử dụng ba hình ảnh tham chiếu, nổi bật với các mảng màu thủy mặc đặc trưng và tư thế anh hùng.
+
+#### 📝 Prompt
+
+```
+Tạo một video montage giới thiệu nhân vật hoạt hình 2D Trung Quốc (guoman) nhịp độ nhanh trong 5 giây bằng cách sử dụng ba hình ảnh tham chiếu được cung cấp. QUAN TRỌNG: @Image1, @Image2, @Image3 là ba nhân vật hoàn toàn khác nhau. Giữ nguyên khuôn mặt, kiểu tóc, tông da, trang phục, vóc dáng và phụ kiện của từng nhân vật từ hình ảnh tham chiếu tương ứng. Tuyệt đối không được hợp nhất, biến đổi, pha trộn hoặc hoán đổi danh tính của họ. Chỉ hiển thị một nhân vật tại một thời điểm. Thiết bị nền: mỗi nhân vật có một mảng màu thủy mặc riêng biệt (chàm / đỏ son / xanh thông) với các hạt nét cọ bay bổng và một con dấu tên đóng ở góc. CUT 01 | 0.0-1.6s - @Image1 xuất hiện nhanh từ hiệu ứng whip-pan mờ, tư thế anh hùng, khuôn mặt chiếm 40% chiều cao khung hình, mảng màu chàm, con dấu đóng ở góc trên bên phải. CUT 02 | 1.6-3.2s - Cắt cảnh đột ngột. @Image2 trượt vào trên các đường tốc độ chéo, mảng màu đỏ son, con dấu đóng ở bên trái. CUT 03 | 3.2-5.0s - Cắt cảnh đột ngột. @Image3 đáp xuống từ trên cao với khung hình va chạm và hiệu ứng rung màn hình, mảng màu xanh thông; cả ba con dấu căn chỉnh dọc theo phía dưới; giữ nguyên khung hình cuối. Camera: chỉ sử dụng các cú đẩy cận cảnh nhanh. Không quay toàn thân từ xa; khuôn mặt chiếm 35-50% chiều cao khung hình. Âm thanh: ba tiếng gõ trống kiểu taiko + hiệu ứng âm thanh mực bắn ở mỗi lần cắt cảnh. KHÔNG ĐƯỢC: biến đổi danh tính, hai nhân vật trong một khung hình, thiết kế lại trang phục, phong cách truyện tranh phương Tây, bất kỳ văn bản nào có thể đọc được ngoài các con dấu. Bảng nhân vật phong cách hoạt hình Trung Quốc (guoman), chân dung anh hùng từ ngực trở lên của một kiếm khách trẻ, 19 tuổi, đôi mắt sắc sảo tự tin, tóc đen dài buộc cao với trâm bạc, áo choàng nhiều lớp màu chàm đậm với họa tiết mây thêu mờ, một mặt dây chuyền ngọc ở cổ áo, nụ cười tinh tế, khuôn mặt chiếm khoảng 40% khung hình, cel shading với các điểm nhấn kết cấu thủy mặc tinh tế, nét vẽ sạch sẽ đậm nét, thiết kế nhân vật chất lượng điện ảnh, nền xám nhạt ấm áp đơn giản, ánh sáng dịu đều --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Bảng nhân vật phong cách hoạt hình Trung Quốc (guoman), chân dung anh hùng từ ngực trở lên của một nữ chính trẻ tinh nghịch, 17 tuổi, đôi mắt hổ phách sáng, kiểu tóc búi đôi với ruy băng đỏ son và các lọn tóc mai buông xõa, áo khoác võ thuật ngắn màu đỏ thẫm và trắng với viền vàng, cầm một chiếc quạt xếp mở một nửa gần cằm, nụ cười tinh quái, khuôn mặt chiếm khoảng 40% khung hình, cel shading với các điểm nhấn kết cấu thủy mặc tinh tế, nét vẽ sạch sẽ đậm nét, thiết kế nhân vật chất lượng điện ảnh, nền xám nhạt ấm áp đơn giản, ánh sáng dịu đều --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Bảng nhân vật phong cách hoạt hình Trung Quốc (guoman), chân dung anh hùng từ ngực trở lên của một nhà sư chiến binh khổng lồ hiền lành, 35 tuổi, vai rộng, đầu cạo trọc với râu lún phún, lông mày dày, nụ cười ấm áp chân thành, áo cà sa màu xanh rêu với một bên vai để trần, tràng hạt gỗ quanh cổ, vết sẹo nhỏ trên lông mày trái, khuôn mặt chiếm khoảng 40% khung hình, cel shading với các điểm nhấn kết cấu thủy mặc tinh tế, nét vẽ sạch sẽ đậm nét, thiết kế nhân vật chất lượng điện ảnh, nền xám nhạt ấm áp đơn giản, ánh sáng dịu đều --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090179877815128065/img/T9QKihnEdChkgmZM.jpg" width="600" alt="Giới thiệu nhân vật hoạt hình Trung Quốc">
+
+**[🎬 Xem video →](https://x.com/EZheng66099/status/2090180685902369163)**
+
+**Tác giả:** [EZ](https://x.com/EZheng66099) | **Nguồn:** [Link](https://x.com/EZheng66099/status/2090180685902369163) | **Đã xuất bản:** Aug 19, 2026
+
+---
+### Đồ họa chuyển động về nghi thức trà đạo Trung Hoa hiện đại
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một đoạn phim đồ họa chuyển động dài 15 giây về nghi thức trà đạo Trung Hoa, kết hợp giữa kết cấu tranh thủy mặc và thiết kế tối giản hiện đại.
+
+#### 📝 Prompt
+
+```
+Tạo một đoạn phim đồ họa chuyển động gồm 12 cảnh, định dạng 16:9, 24fps, thời lượng chính xác 15 giây. Chủ đề: Nghi thức trà đạo Trung Hoa, thiết kế phương Đông hiện đại.
+Phim bao gồm 80% thiết kế đồ họa chuyển động đậm nét và 20% hành động của vật thể.
+Bảng màu: đen mực, trắng giấy dó, đỏ son, vàng trầm. Phong cách: tối giản Trung Hoa hiện đại — kết cấu tranh thủy mặc kết hợp với các hình khối phẳng; con dấu đỏ được dùng làm hiệu ứng chuyển cảnh.
+CUT 01 | 0.0-1.2s - Nền trắng. Một chữ Hán lớn 「茶」 (Trà) tự hiện ra qua nét cọ, mực nhòe ở các cạnh.
+CUT 02 | 1.2-2.4s - Cắt cảnh nhanh: một vòng tròn đỏ son mở rộng từ tâm; chữ trắng xuyên qua vòng tròn đó.
+CUT 03 | 2.4-3.6s - Góc nhìn từ trên xuống của tách trà trên nền đen; hơi nước bốc lên và biến đổi thành những dải mực chảy.
+CUT 04 | 3.6-5.0s - Các dải mực biến đổi thành hàng ngang các lá trà hình học trượt sang trái theo nhịp.
+CUT 05 | 5.0-6.2s - Chữ 「静」 (Tĩnh) lớn màu vàng trầm trên nền đen; zoom nhanh vào nét cọ cuối cùng.
+CUT 06 | 6.2-7.6s - Hình bóng ấm trà đang rót; dòng nước trở thành đường chéo màu đỏ son chia cắt khung hình.
+CUT 07 | 7.6-9.0s - Khung hình chia đôi: núi mực bên trái, màu đỏ son phẳng bên phải; một tách trà trắng trượt dọc theo đường chia cắt.
+CUT 08 | 9.0-10.4s - Một con dấu đỏ ĐẬP xuống kèm hiệu ứng rung khung hình, để lộ chữ 「回甘」 (Hồi cam) màu trắng bên trong con dấu.
+CUT 09 | 10.4-11.8s - Chuyển cảnh nhanh: ba lá trà, ba hình khối hình học, theo nhịp.
+CUT 10 | 11.8-13.0s - Tất cả các yếu tố hội tụ thành một vòng tròn mực đang xoay.
+CUT 11 | 13.0-14.0s - Vòng tròn biến đổi thành tách trà; một giọt nước rơi xuống; hiệu ứng gợn sóng chuyển động chậm.
+CUT 12 | 14.0-15.0s - Thẻ kết thúc: chữ 「茶」 lớn, dòng chữ tiếng Anh nhỏ "TEA — est. in stillness" bên dưới, con dấu đỏ ở góc dưới bên phải, giữ hình.
+Quy tắc kiểu chữ: mỗi ký tự phải hiển thị rõ ràng trong ít nhất 12 khung hình trước khi có bất kỳ yếu tố nào đè lên. Sử dụng càng ít chữ Hán càng tốt, chỉ dùng cỡ chữ lớn.
+Biên tập: cắt cảnh dứt khoát theo nhịp, khớp đồ họa, zoom nhanh, chuyển cảnh bằng hiệu ứng mực loang.
+Âm thanh: tiếng đàn tranh + bộ gõ hiện đại; hiệu ứng âm thanh (SFX) khớp với các cảnh cắt (tiếng cọ quét, tiếng đóng dấu, tiếng giọt nước).
+KHÔNG ĐƯỢC: thêm các ký tự lạ, viết sai hoặc biến dạng chữ Hán, sử dụng dải màu cầu vồng, chữ nổi 3D, cảnh quay chân thực, thêm các ký tự không cần thiết.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090160008281415681/img/9P04j3027KBHFiU0.jpg" width="600" alt="Đồ họa chuyển động về nghi thức trà đạo Trung Hoa hiện đại">
+
+**[🎬 Xem video →](https://x.com/EZheng66099/status/2090160829534511425)**
+
+**Tác giả:** [EZ](https://x.com/EZheng66099) | **Nguồn:** [Link](https://x.com/EZheng66099/status/2090160829534511425) | **Đã xuất bản:** Aug 19, 2026
+
+---
+### Storyboard Quảng cáo Mật ong Hữu cơ Cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý storyboard điện ảnh toàn diện cho quảng cáo mật ong hữu cơ sang trọng. Tài liệu này mô tả chi tiết tám cảnh quay riêng biệt, bao gồm chụp ảnh macro kết cấu mật ong, hiệu ứng vật lý chất lỏng chuyển động chậm và các yếu tố thương hiệu tinh tế.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ:
+Storyboard Quảng cáo Sản phẩm Mật ong Hữu cơ Cao cấp
+
+ĐỊNH DẠNG:
+• Storyboard cao cấp một trang
+• Tỷ lệ khung hình dọc 3:4
+• Chiến dịch sản phẩm thực phẩm sang trọng
+• 8 cảnh storyboard điện ảnh
+• Sản phẩm là tâm điểm thị giác
+• Trình bày theo phong cách agency quảng cáo cao cấp
+
+PHẦN ĐẦU:
+• Kiểu chữ serif thanh lịch
+• Thẻ thông tin:
+  - Thời lượng: 20 Giây
+  - Phong cách: Quảng cáo Thực phẩm Tự nhiên Sang trọng
+  - Sản phẩm: Mật ong Hữu cơ
+  - Âm thanh: ASMR thiên nhiên nhẹ nhàng
+• Mục "Tại sao phong cách này hiệu quả"
+• Thẩm mỹ màu kem, hổ phách và vàng kim
+• Chi tiết trang trí tổ ong tối giản
+
+STORYBOARD:
+1. Hũ mật ong cao cấp đặt trên bề mặt gỗ ấm áp
+2. Nắp hũ từ từ mở ra trong góc quay macro cận cảnh
+3. Mật ong vàng óng được nhấc lên bằng que lấy mật bằng gỗ
+4. Mật ong chảy thành dòng mượt mà cực chậm
+5. Cận cảnh macro kết cấu mật ong và các điểm sáng tự nhiên
+6. Mật ong nhỏ giọt trên lát bánh mì nướng ấm nóng
+7. Hũ mật ong bao quanh bởi tổ ong và các nguyên liệu tươi
+8. Cảnh quay sản phẩm cuối cùng sang trọng với hiệu ứng mật ong bắn tung tóe
+
+MỖI KHUNG HÌNH:
+• Số thứ tự cảnh
+• Huy hiệu thời lượng
+• Hướng máy quay
+• Hình ảnh
+• Hành động
+• Chi tiết sản phẩm
+
+CAMERA:
+Macro cực đại, nhiếp ảnh chất lỏng chuyển động chậm, kỹ thuật đẩy máy có kiểm soát, bố cục từ trên xuống, độ sâu trường ảnh nông, cảnh quay điện ảnh làm nổi bật sản phẩm.
+
+PHONG CÁCH:
+Kết cấu mật ong siêu thực, vật lý chất lỏng chân thực, ánh sáng tự nhiên ấm áp, nhiếp ảnh thực phẩm cao cấp, hũ thủy tinh bóng bẩy, phản chiếu thanh lịch, thương hiệu hữu cơ sang trọng, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787217318219_jdlgsg_HQF19kdacAATv1I.jpg" width="600" alt="Storyboard Quảng cáo Mật ong Hữu cơ Cao cấp">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2090081415924982038)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2090081415924982038) | **Đã xuất bản:** Aug 19, 2026
+
+---
+### Storyboard quảng cáo mì ăn liền
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý storyboard quảng cáo thực phẩm đầy năng lượng cho mì ăn liền. Nội dung mô tả tám phân cảnh ấn tượng bao gồm cảnh gắp mì, cận cảnh kết cấu sợi mì và hiệu ứng hơi nước điện ảnh với ánh sáng studio chuyên nghiệp.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ:
+Storyboard quảng cáo sản phẩm mì ăn liền cao cấp
+
+ĐỊNH DẠNG:
+• Storyboard cao cấp một trang
+• Tỷ lệ khung hình dọc 3:4
+• Quảng cáo thực phẩm giàu năng lượng
+• 8 phân cảnh sản phẩm đậm chất điện ảnh
+• Trình bày quảng cáo tập trung vào sản phẩm
+
+TIÊU ĐỀ PHỤ:
+• Kiểu chữ đậm hiện đại
+• Thẻ thông tin:
+  - Thời lượng: 20 giây
+  - Phong cách: Quảng cáo thực phẩm điện ảnh
+  - Sản phẩm: Mì ăn liền
+  - Âm thanh: ASMR nấu ăn + Nhịp điệu sôi động
+• Mục "Tại sao phong cách này hiệu quả"
+• Điểm nhấn màu vàng ấm và đỏ
+
+STORYBOARD:
+1. Gói mì ăn liền đặt đứng với ánh sáng kịch tính
+2. Gói mì mở ra và sợi mì trượt vào bát
+3. Nước sôi đổ lên trên mì
+4. Mì đang nấu với hơi nước bốc lên chân thực
+5. Bột gia vị được thêm vào
+6. Đôi đũa gắp những sợi mì chín hoàn hảo
+7. Cận cảnh cực đại những sợi mì bóng bẩy cùng các loại topping
+8. Bát mì thành phẩm đặt cạnh gói sản phẩm gốc
+
+MỖI KHUNG HÌNH:
+• Số thứ tự cảnh
+• Huy hiệu thời lượng
+• Hình ảnh
+• Hành động
+• Hướng máy quay
+• Chi tiết sản phẩm
+
+CAMERA:
+Nhiếp ảnh thực phẩm macro, bố cục từ trên xuống, cận cảnh hơi nước, cảnh gắp mì, máy quay tiến dần vào sản phẩm đầy kịch tính, khung hình sản phẩm chủ đạo đậm chất điện ảnh.
+
+PHONG CÁCH:
+Quảng cáo thực phẩm siêu thực, hơi nước chân thực, kết cấu sợi mì chi tiết, nước dùng bóng bẩy, nguyên liệu tươi ngon, ánh sáng studio chuyên nghiệp, bao bì cao cấp, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787217318961_wpvccr_HQE90xdaYAA8DRm.jpg" width="600" alt="Storyboard quảng cáo mì ăn liền">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2090019696779387173)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2090019696779387173) | **Đã xuất bản:** Aug 19, 2026
+
+---
+### Storyboard quảng cáo tương cà cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý storyboard chi tiết và đậm chất điện ảnh cho quảng cáo thực phẩm cao cấp, tập trung vào các góc quay macro và thẩm mỹ quảng cáo chuyên nghiệp để làm nổi bật sản phẩm.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ:
+Storyboard quảng cáo sản phẩm tương cà cao cấp
+
+ĐỊNH DẠNG:
+• Storyboard cao cấp một trang
+• Tỷ lệ khung hình 3:4 dọc
+• Quảng cáo thực phẩm sang trọng
+• 8 cảnh storyboard điện ảnh
+• Trình bày sạch sẽ, cao cấp
+
+TIÊU ĐỀ PHỤ:
+• Kiểu chữ biên tập đậm
+• Thẻ thông tin:
+  - Thời lượng: 20 giây
+  - Phong cách: Quảng cáo thực phẩm cao cấp
+  - Sản phẩm: Tương cà
+  - Âm thanh: ASMR thực phẩm tươi sống
+• Phần "Tại sao phong cách này hiệu quả"
+• Thẩm mỹ màu đỏ, trắng và kem
+
+STORYBOARD:
+1. Chai tương cà đặt trên bề mặt trắng sạch
+2. Cận cảnh macro nắp chai đang mở
+3. Tương cà đặc sánh chảy ra từ chai
+4. Tương cà tạo thành hình xoắn ốc bóng bẩy hoàn hảo
+5. Macro cực đại cho thấy kết cấu cà chua đậm đà
+6. Tương cà được rót bên cạnh khoai tây chiên giòn
+7. Chai tương cà được bao quanh bởi cà chua tươi và các nguyên liệu sản phẩm
+8. Hình ảnh chai sản phẩm cuối cùng với độ phản chiếu bóng bẩy và vệt tương cà bắn tung tóe
+
+MỖI KHUNG HÌNH:
+• Số thứ tự cảnh
+• Huy hiệu thời lượng
+• Hướng máy quay
+• Hình ảnh
+• Hành động
+• Chi tiết sản phẩm
+
+CAMERA:
+Macro cực đại, máy quay tiến dần vào sản phẩm chậm, góc quay từ trên xuống, góc nghiêng, nhiếp ảnh bắt trọn khoảnh khắc bắn tung tóe có kiểm soát, hình ảnh sản phẩm cao cấp (packshot).
+
+PHONG CÁCH: Nhiếp ảnh thực phẩm siêu thực, kết cấu tương cà bóng bẩy, vật lý chất lỏng chân thực, cà chua tươi, ánh sáng studio sạch sẽ, quảng cáo thương mại cao cấp, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787217321758_98zrwb_HQAvvJHWUAAx3pk.jpg" width="600" alt="Storyboard quảng cáo tương cà cao cấp">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2089722733156266079)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2089722733156266079) | **Đã xuất bản:** Aug 18, 2026
+
+---
 ### Nữ thần bảo vệ hành tinh băng giá
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2683,137 +2955,13 @@ Tạo một video montage vlog du lịch điện ảnh dài 10 giây. Trong mọ
 **Tác giả:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Nguồn:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### Trận chiến thành phố giữa Sloth khổng lồ và Godzilla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh cực kỳ chi tiết mô tả cảnh một con lười to bằng ngọn núi vô tình đánh bại quái vật voi-Godzilla với hiệu ứng vật lý hài hước.
-
-#### 📝 Prompt
-
-```
-Một con lười khổng lồ chậm chạp cao bằng ngọn núi đang treo mình trên một tòa nhà chọc trời, ngáp một cái thật lớn. Một quái vật voi-Godzilla hung dữ dậm chân tiến về phía nó, phun ra những tia chớp nhỏ xíu. Con lười lười biếng đưa một móng vuốt ra và vô tình hất văng con quái vật đi xa hàng dặm mà không tốn chút sức lực nào. Con lười nhún vai rồi quay lại ngủ tiếp trên tòa nhà. Sự tương phản phi lý về tốc độ, hiệu ứng vật lý hài hước, những cú va chạm chuyển động chậm đầy thú vị, khung cảnh thành phố bị tàn phá sống động.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Trận chiến thành phố giữa Sloth khổng lồ và Godzilla">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2072542482857099759)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Đã xuất bản:** Jul 2, 2026
-
----
-### Video cô gái vùng cao Pahadi trong buổi sáng tại dãy Himalaya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý kịch bản phân cảnh điện ảnh cho video dài 10 giây, mô tả một cô gái trẻ cùng đàn cừu giữa những ngọn núi Himalaya mờ sương, bao gồm nhiều kiểu quay và âm thanh môi trường.
-
-#### 📝 Prompt
-
-```
-Tiêu đề cảnh quay: Cô gái Pahadi và đàn cừu — Buổi sáng tại Himalaya
-[0s–2s]
-Cảnh toàn (Wide shot): Một cô gái trẻ người Ấn Độ, vóc dáng mảnh khảnh, khoảng 22 tuổi, đang nhẹ nhàng bước đi trên con đường mòn hẹp trên núi. Cô mặc trang phục Pahadi truyền thống (khăn choàng len mềm mại, áo kurta đơn giản, khuyên tai bạc jhumka), chiếc khăn dupatta khẽ bay trong gió. Phía sau là những ngọn núi xanh mờ sương và rừng thông. Ánh nắng buổi sáng tự nhiên, tông màu vàng dịu.
-[2s–4s]
-Cảnh trung (Medium shot): Cô đi bên cạnh một đàn cừu nhỏ, tay nhẹ nhàng đặt lên chiếc gậy gỗ. Biểu cảm của cô bình thản, ấm áp và mãn nguyện — một nụ cười nhẹ, đôi mắt ánh lên vẻ ngây thơ yêu thiên nhiên. Gió thổi qua mái tóc cô một cách tự nhiên.
-[4s–6s]
-Cảnh cận (Close-up): Gương mặt cô trong ánh sáng tự nhiên dịu nhẹ — các đường nét thanh tú, xinh xắn, phong cách không trang điểm, làn da rạng rỡ. Cô nhìn đàn cừu đầy trìu mến, khẽ cười khi một chú cừu dụi vào chân mình. Âm thanh môi trường tự nhiên: tiếng chim hót, tiếng chuông cừu (ghungroo) xa xa, tiếng gió xào xạc.
-[6s–8s]
-Cảnh quay theo từ phía sau (Tracking shot): Cô bước tiếp lên một sườn đồi đầy cỏ, đàn cừu theo sau, chiếc khăn dupatta bay trong gió, bóng dáng cô nổi bật trên nền những đỉnh núi Himalaya trùng điệp và những đám mây trôi.
-[8s–10s]
-Cảnh toàn cuối (Final wide shot): Cô dừng lại ở mép vách đá, nhìn ra thung lũng, đàn cừu đang thong dong gặm cỏ xung quanh. Tiếng gió nhẹ, âm thanh tiếng chuông đền hoặc tiếng sáo xa xa dần hiện lên. Dừng lại ở biểu cảm bình yên, thanh thản của cô khi cảnh quay mờ dần vào hiệu ứng tối góc nhẹ nhàng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Video cô gái vùng cao Pahadi trong buổi sáng tại dãy Himalaya">
-
-**[🎬 Xem video →](https://x.com/b275511/status/2072308089056084456)**
-
-**Tác giả:** [TheAIDev](https://x.com/b275511) | **Nguồn:** [Link](https://x.com/b275511/status/2072308089056084456) | **Đã xuất bản:** Jul 1, 2026
-
----
-### Video mèo con Maine Coon trong vườn
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chi tiết để tạo video chân thực về một chú mèo con Maine Coon lông xù đang ngắm sóc trong vườn vào giờ vàng, với chuyển động tự nhiên và âm thanh môi trường sống động.
-
-#### 📝 Prompt
-
-```
-Một chú mèo con Maine Coon lông xù màu cam với đôi mắt xanh lục to tròn và đôi tai có chùm lông đang ngồi trên mép sàn gỗ nhìn ra khu vườn xanh mát vào giờ vàng. Ở tiền cảnh, vài chú sóc xám tinh nghịch đang đuổi bắt nhau, leo trèo trên cây và gặm nhấm những quả sồi rơi. Đôi tai mèo con dựng lên, đuôi vẫy nhẹ đầy phấn khích, đầu nghiêng qua lại đầy tò mò, chú mèo phát ra tiếng kêu chiêm chiếp nhẹ nhàng và vồ nhẹ về phía lan can kính khi ngắm nhìn lũ sóc. Phong cách video quay bằng điện thoại cầm tay chân thực, bộ lông chuyển động tự nhiên trong gió, độ sâu trường ảnh nông với hiệu ứng bokeh tuyệt đẹp trên nền cây cối và hoa lá, ánh hoàng hôn ấm áp, tiếng gió nhẹ xào xạc qua tán lá, tiếng chim hót và tiếng sóc kêu xa xa tạo nên âm thanh môi trường sống động. Độ chi tiết cao, hành vi động vật như thật.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072290295488905217/img/PcxzWxPGGJR2Q8Hk.jpg" width="600" alt="Video mèo con Maine Coon trong vườn">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2072290764441465218)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2072290764441465218) | **Đã xuất bản:** Jul 1, 2026
-
----
-### Video Macro về Ký ức Tuổi thơ Hoài niệm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh chi tiết dành cho Gemini Omni, giúp hình dung những ký ức tuổi thơ dưới dạng các hạt phát sáng màu vàng kim thoát ra từ một chiếc chìa khóa đồ chơi cổ điển đang xoay.
-
-#### 📝 Prompt
-
-```
-Nền đen thuần túy. Cận cảnh điện ảnh tĩnh về một chiếc chìa khóa đồ chơi lên dây cót cũ kỹ, gỉ sét đang tự xoay chậm rãi trên bề mặt bóng loáng. Khi chìa khóa xoay, hàng ngàn hạt nhỏ phát sáng thoát ra, tạo thành những ký ức tuổi thơ thu nhỏ — một chiếc thuyền giấy trôi trên nước mưa, một con quay, một cánh diều bay lượn trên bầu trời, một chiếc bàn học bằng gỗ, một chiếc tivi CRT cũ và một đoàn tàu đồ chơi chạy vòng quanh. Mọi thứ kết hợp lại một cách tự nhiên từ các hạt phát sáng với chuyển động kỳ ảo mượt mà. Ánh sáng vàng ấm áp, hiệu ứng tỏa sáng nhẹ nhàng, bầu không khí hoài niệm mơ màng, vật lý hạt chân thực, độ sâu trường ảnh điện ảnh, chất lượng điện ảnh độ phân giải siêu cao. Khung hình cuối dừng lại ở thế giới tuổi thơ thu nhỏ hoàn chỉnh. 10 giây, 16:9, 24fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071504130334691328/img/jOu7q6raSCE6KcNR.jpg" width="600" alt="Video Macro về Ký ức Tuổi thơ Hoài niệm">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2071504297716822456)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2071504297716822456) | **Đã xuất bản:** Jun 29, 2026
-
----
-### Hoạt hình thêu tay phong cách stop-motion hình rồng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo hoạt hình stop-motion chi tiết mô tả quá trình tự thêu hình rồng lên vải cotton vàng với các chi tiết sợi chỉ chân thực.
-
-#### 📝 Prompt
-
-```
-Hoạt hình stop-motion mô tả quá trình tự thêu lên vải cotton màu vàng. Hình ảnh một con rồng dũng mãnh bị nhốt sau những song sắt nhà tù dày đặc tự thêu chính nó vào vải, sử dụng các mũi thêu satin ngắn tích tụ qua từng khung hình. Các sợi chỉ nổi lên với từng sợi tơ riêng biệt bắt lấy ánh sáng ban ngày dịu nhẹ khi các đường chỉ dần hình thành. Khi hình rồng hiện rõ, những ngọn lửa đỏ rực, những cuộn khói đen và các thiết kế xích sắt nặng nề tự thêu xung quanh để làm khung cho chủ thể. Dòng chữ thêu "Release Claude Fable 5" xuất hiện ở khoảng trống với kiểu chữ đậm, sắc nét. Nhịp điệu stop-motion hơi rung, mỗi mũi thêu thắt chặt và khóa vào kết cấu vải cotton dệt. Không có bàn tay, không kim, không khung thêu, không cuộn chỉ, chỉ có vải và những sợi chỉ tự hình thành. Góc quay macro từ trên xuống. Âm thanh thực tế nhẹ nhàng của tiếng vải sột soạt và tiếng chỉ chạm khẽ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071272244224151552/img/xLsuFaQkWtWvxebs.jpg" width="600" alt="Hoạt hình thêu tay phong cách stop-motion hình rồng">
-
-**[🎬 Xem video →](https://x.com/HarshithLucky3/status/2071272516379943218)**
-
-**Tác giả:** [Harshith](https://x.com/HarshithLucky3) | **Nguồn:** [Link](https://x.com/HarshithLucky3/status/2071272516379943218) | **Đã xuất bản:** Jun 28, 2026
-
----
-### Hoạt hình mèo thạch xanh Sapphire
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh điện ảnh để tạo hoạt hình chất lượng cao về chú mèo được điêu khắc từ thạch đang nhảy qua hồ bơi thạch với hiệu ứng vật lý chân thực và kỹ thuật quay macro.
-
-#### 📝 Prompt
-
-```
-Một hồ bơi trong vắt được làm hoàn toàn từ thạch màu xanh sapphire trong suốt trên nền gradient trắng sạch sẽ. Một chú mèo tinh nghịch được điêu khắc từ cùng loại thạch xanh sapphire chạy duyên dáng trên bề mặt thạch trước khi thực hiện cú nhảy chậm đầy thanh thoát qua hồ. Mỗi bước chân tạo ra những rung động đầy thỏa mãn, những gợn sóng co giãn và những tia thạch bóng bẩy bắn ra. Chú mèo tiếp đất nhẹ nhàng, cơ thể và đuôi nảy lên với hiệu ứng vật lý thạch chân thực. Máy quay bắt đầu bằng cận cảnh macro bề mặt thạch lấp lánh, theo sát chú mèo trong lúc chạy và nhảy, sau đó nhẹ nhàng lùi lại để lộ toàn cảnh hồ bơi. Ánh sáng studio dịu nhẹ làm nổi bật kết cấu trong suốt, những phản chiếu bóng bẩy và hiệu ứng tán xạ dưới bề mặt chân thực. Thẩm mỹ nhiếp ảnh thực phẩm được dàn dựng sạch sẽ, hình ảnh ASMR đầy mê hoặc, vật lý thạch cực kỳ chân thực, cảnh quay điện ảnh liền mạch trong 10 giây.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071247391442001920/img/_JAqcbmD5Z_pM1k0.jpg" width="600" alt="Hoạt hình mèo thạch xanh Sapphire">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2071247539161170223)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Đã xuất bản:** Jun 28, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 75 prompt khác không hiển thị ở đây
+### 🎯 81 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2859,6 +3007,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-20T08:35:59.581Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-20T12:45:04.007Z</sub>
 
 </div>

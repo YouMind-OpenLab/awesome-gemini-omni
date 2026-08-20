@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **175** |
+| 📝 Gesamtanzahl Prompts | **181** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-20** |
 
@@ -56,6 +56,278 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Bauhaus Swiss Kinetic Typography Spot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein präzises 12-sekündiges Kinetic-Typography-Skript nach Bauhaus-Designprinzipien mit geometrischen Formen und strengem Raster-Layout.
+
+#### 📝 Prompt
+
+```
+Erstelle einen 8-Schnitt Kinetic-Typography-Spot in 16:9, 24 fps, exakt 12 s. Stil: Bauhaus / Swiss International — flache Primärfarben (Rot, Gelb, Blau, Schwarz, Cremeweiß), strenges Raster, geometrische serifenlose Schrift.
+Der Film besteht zu 90 % aus Typografie und bewegten geometrischen Formen, zu 10 % aus Textur-Akzenten.
+CUT 01 | 0,0-1,5 s - Cremeweißer Hintergrund. Das Wort „FORM“ fällt Buchstabe für Buchstabe auf ein Grundlinienraster, jeder landet mit einem kleinen Sprung.
+CUT 02 | 1,5-3,0 s - Ein roter Kreis rollt von links herein und stößt das „M“ aus dem Bild; „FOR—“ hält einen Takt lang.
+CUT 03 | 3,0-4,5 s - Harter Schnitt: vollflächig gelber Rahmen, „FOLLOWS“ vertikal gestapelt, Buchstaben gleiten in abwechselnden Richtungen hinein.
+CUT 04 | 4,5-6,0 s - Eine blaue Diagonale wischt über den Rahmen; „FUNCTION“ sitzt auf der Diagonale; die Kamera rotiert, bis es horizontal lesbar ist.
+CUT 05 | 6,0-7,5 s - Die drei Wörter tauschen ihre Positionen auf einem strengen 3-Spalten-Raster, passend zum Takt.
+CUT 06 | 7,5-9,0 s - Die gesamte Schrift schrumpft zu einer 8-pt-Rastertextur; ein schwarzes Quadrat skaliert durch die Mitte nach vorne.
+CUT 07 | 9,0-10,5 s - Das Quadrat teilt sich in eine Mondrian-Komposition; ein Wort pro Farbfeld.
+CUT 08 | 10,5-12,0 s - Endcard: „FORM FOLLOWS FUNCTION — 1919“ unten links ausgerichtet, der rote Kreis als Punkt, halten.
+Die Typografie ist vollständig lesbar, bevor sie von Formen überlagert wird. Buchstaben verzerren oder verschmelzen nicht; das Kerning bleibt optisch gleichmäßig.
+Schnitt: Harte Schnitte und Snap-Bewegungen, synchronisiert auf 120 bpm.
+Audio: Minimalistische elektronische Klicks + Bass-Impuls bei jedem Schnitt.
+NICHT ERLAUBT: Verläufe, Schlagschatten, 3D-Extrusion, Serifenschriften, verschmolzene Buchstaben, zusätzliche Wörter.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Bauhaus Swiss Kinetic Typography Spot">
+
+**[🎬 Video ansehen →](https://x.com/EZheng66099/status/2090185695641968736)**
+
+**Autor:** [EZ](https://x.com/EZheng66099) | **Quelle:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Veröffentlicht:** Aug 19, 2026
+
+---
+### Einführung chinesischer Anime-Charaktere
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine rasante 5-sekündige 2D-Anime-Charakter-Montage im chinesischen Stil unter Verwendung von drei Referenzbildern, mit markanten Tusche-Hintergründen und heroischen Posen.
+
+#### 📝 Prompt
+
+```
+Erstellen Sie eine rasante 5-sekündige 2D-Anime-Montage (Guoman) zur Vorstellung chinesischer Charaktere unter Verwendung der drei bereitgestellten Referenzbilder. WICHTIG: @Image1, @Image2 und @Image3 sind drei völlig unterschiedliche Charaktere. Bewahren Sie das exakte Gesicht, die Frisur, den Hautton, das Outfit, den Körpertyp und die Accessoires jedes Charakters aus dem jeweiligen Referenzbild. Identitäten dürfen niemals verschmolzen, verändert, vermischt oder ausgetauscht werden. Zeigen Sie immer nur einen Charakter gleichzeitig. Hintergrundgestaltung: Jeder Charakter erhält ein eigenes Tusche-Farbfeld (Indigoblau / Zinnoberrot / Tannengrün) mit fliegenden Pinselstrich-Partikeln und einem Namenssiegel, das in die Ecke gestempelt wird. SCHNITT 01 | 0,0-1,6s - @Image1 erscheint durch einen Whip-Pan-Blur, Heldenpose, Gesicht nimmt 40 % der Bildhöhe ein, indigoblaues Tuschefeld, Siegelstempel oben rechts. SCHNITT 02 | 1,6-3,2s - Harter Schnitt. @Image2 gleitet auf diagonalen Speed-Lines ins Bild, zinnoberrotes Feld, Siegelstempel auf der linken Seite. SCHNITT 03 | 3,2-5,0s - Harter Schnitt. @Image3 landet von oben mit einem Impact-Frame und Bildschirmwackeln, tannengrünes Feld; alle drei Siegel richten sich entlang des unteren Randes aus; Endbild halten. Kamera: nur schnelle Push-ins. Keine weiten Ganzkörperaufnahmen; Gesichter bleiben bei 35-50 % der Bildhöhe. Audio: drei Taiko-artige Perkussionsschläge + Tusche-Spritzer-SFX bei jedem Schnitt. NICHT ERLAUBT: Identitätsverschmelzung, zwei Charaktere in einem Bild, neu gestaltete Outfits, westlicher Comic-Stil, lesbarer Text außer den Siegeln. Charakterbogen im chinesischen Donghua-Stil (Guoman), Brustporträt eines jungen Schwertkämpfers, 19 Jahre alt, scharfe, selbstbewusste Augen, langes, tintenschwarzes Haar, hochgebunden mit einer silbernen Haarnadel, tiefblaue, mehrlagige Roben mit dezenter Wolkenmuster-Stickerei, ein Jadeanhänger am Kragen, subtiles Grinsen, Gesicht nimmt etwa 40 % des Bildes ein, Cel-Shading mit subtilen Tusche-Textur-Akzenten, saubere, kräftige Linienführung, filmreifes Charakterdesign, schlichter, warm-hellgrauer Hintergrund, weiche, gleichmäßige Beleuchtung --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Charakterbogen im chinesischen Donghua-Stil (Guoman), Brustporträt einer verspielten jungen Heldin, 17 Jahre alt, leuchtend bernsteinfarbene Augen, Doppel-Dutt-Frisur mit zinnoberroten Bändern und losen Seitensträhnen, purpurrote und weiße kurze Kampfjacke mit Goldbesatz, hält einen halb geöffneten Fächer nahe am Kinn, schelmisches Grinsen, Gesicht nimmt etwa 40 % des Bildes ein, Cel-Shading mit subtilen Tusche-Textur-Akzenten, saubere, kräftige Linienführung, filmreifes Charakterdesign, schlichter, warm-hellgrauer Hintergrund, weiche, gleichmäßige Beleuchtung --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Charakterbogen im chinesischen Donghua-Stil (Guoman), Brustporträt eines sanftmütigen, riesigen Kriegermönchs, 35 Jahre alt, breite Schultern, rasierter Kopf mit leichtem Stoppelbart, dichte Augenbrauen, warmes, ehrliches Lächeln, moosgrüne Mönchsroben mit einer freien Schulter, hölzerne Gebetskette um den Hals, kleine Narbe an der linken Braue, Gesicht nimmt etwa 40 % des Bildes ein, Cel-Shading mit subtilen Tusche-Textur-Akzenten, saubere, kräftige Linienführung, filmreifes Charakterdesign, schlichter, warm-hellgrauer Hintergrund, weiche, gleichmäßige Beleuchtung --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090179877815128065/img/T9QKihnEdChkgmZM.jpg" width="600" alt="Einführung chinesischer Anime-Charaktere">
+
+**[🎬 Video ansehen →](https://x.com/EZheng66099/status/2090180685902369163)**
+
+**Autor:** [EZ](https://x.com/EZheng66099) | **Quelle:** [Link](https://x.com/EZheng66099/status/2090180685902369163) | **Veröffentlicht:** Aug 19, 2026
+
+---
+### Motion Graphics für eine moderne chinesische Teezeremonie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein 15-sekündiger Motion-Graphics-Spot für eine chinesische Teezeremonie, der Tusche-Texturen mit modernem, minimalistischem Design verbindet.
+
+#### 📝 Prompt
+
+```
+Erstellen Sie einen 12-teiligen Motion-Graphics-Spot im 16:9-Format, 24 fps, exakt 15 s lang. Thema: Chinesische Teezeremonie, modernes orientalisches Design.
+Der Film besteht zu 80 % aus animiertem Grafikdesign und zu 20 % aus Objekt-Action.
+Farbpalette: Tuscheschwarz, Reispapierweiß, Zinnoberrot, gedämpftes Gold. Stil: moderner chinesischer Minimalismus – Tusche-Texturen treffen auf flache geometrische Formen; rote Siegelstempel dienen als Übergangselement.
+CUT 01 | 0,0-1,2 s - Weißer Hintergrund. Ein einzelnes, riesiges chinesisches Schriftzeichen 「茶」 entsteht durch Pinselstriche, wobei die Tusche an den Rändern verläuft.
+CUT 02 | 1,2-2,4 s - Harter Schnitt: Ein zinnoberroter Kreis dehnt sich von der Mitte aus; das Schriftzeichen bricht in Weiß hindurch.
+CUT 03 | 2,4-3,6 s - Teetasse von oben auf Schwarz; Dampf steigt auf und verwandelt sich in fließende Tuschebänder.
+CUT 04 | 3,6-5,0 s - Tuschebänder schnellen in eine horizontale Reihe geometrischer Teeblätter, die passend zum Takt nach links gleiten.
+CUT 05 | 5,0-6,2 s - Riesiges 「静」 in gedämpftem Gold auf Schwarz; Snap-Zoom auf den letzten Pinselstrich.
+CUT 06 | 6,2-7,6 s - Teekannen-Silhouette beim Eingießen; der Gussstrahl wird zu einer zinnoberroten Diagonale, die den Rahmen teilt.
+CUT 07 | 7,6-9,0 s - Geteilter Rahmen: Tusche-Berge links, flaches Zinnoberrot rechts; eine weiße Teetasse gleitet entlang der Trennlinie.
+CUT 08 | 9,0-10,4 s - Ein roter Siegelstempel knallt mit einem Frame-Shake auf das Bild und enthüllt 「回甘」 in Weiß innerhalb des Siegels.
+CUT 09 | 10,4-11,8 s - Schneller Wechsel: drei Teeblätter, drei geometrische Formen, passend zum Takt.
+CUT 10 | 11,8-13,0 s - Alle Elemente verschmelzen zu einem rotierenden Tuschekreis.
+CUT 11 | 13,0-14,0 s - Der Kreis formt sich zur Teetasse; ein Tropfen fällt; Zeitlupen-Wellenbildung.
+CUT 12 | 14,0-15,0 s - End-Card: 「茶」 groß, darunter klein auf Englisch "TEA — est. in stillness", rotes Siegel unten rechts, halten.
+Typografie-Regel: Jedes Schriftzeichen ist für mindestens 12 Frames vollständig lesbar, bevor es überlagert wird. Verwenden Sie so wenige chinesische Schriftzeichen wie möglich, nur in großer Darstellung.
+Schnitt: Harte Schnitte passend zum Takt, grafische Übergänge, Snap-Zooms, Tusche-Wischblenden.
+Audio: Guzheng-Zupfen + moderne Percussion; SFX synchron zu den Schnitten (Pinsel-Swoosh, Siegel-Knall, Wassertropfen).
+NICHT ERLAUBT: zusätzliche Glyphen, falsch geschriebene oder verformte Hanzi, Regenbogenverläufe, 3D-abgeschrägter Text, fotorealistisches Material, hinzugefügte Zeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090160008281415681/img/9P04j3027KBHFiU0.jpg" width="600" alt="Motion Graphics für eine moderne chinesische Teezeremonie">
+
+**[🎬 Video ansehen →](https://x.com/EZheng66099/status/2090160829534511425)**
+
+**Autor:** [EZ](https://x.com/EZheng66099) | **Quelle:** [Link](https://x.com/EZheng66099/status/2090160829534511425) | **Veröffentlicht:** Aug 19, 2026
+
+---
+### Storyboard für einen Werbespot für Bio-Honig der Premiumklasse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender filmischer Storyboard-Prompt für einen Werbespot für luxuriösen Bio-Honig. Er beschreibt acht verschiedene Szenen mit Makroaufnahmen von Honigtexturen, Zeitlupen-Flüssigkeitsphysik und eleganten Branding-Elementen.
+
+#### 📝 Prompt
+
+```
+TITEL:
+Storyboard für einen Werbespot für Bio-Honig der Premiumklasse
+
+FORMAT:
+• Einseitiges Premium-Storyboard
+• 3:4 Hochformat
+• Kampagne für Luxus-Lebensmittel
+• 8 filmische Storyboard-Szenen
+• Das Produkt bleibt der visuelle Held
+• Präsentation für Premium-Werbeagenturen
+
+HEADER:
+• Elegante Serifentypografie
+• Informationskarten:
+  - Dauer: 20 Sekunden
+  - Stil: Werbespot für natürliche Luxus-Lebensmittel
+  - Produkt: Bio-Honig
+  - Audio: Sanftes Natur-ASMR
+• Bereich „Warum dieser Stil funktioniert“
+• Ästhetik in Creme, Bernstein und Gold
+• Minimale dekorative Waben-Details
+
+STORYBOARD:
+1. Premium-Honigglas auf einer warmen Holzoberfläche
+2. Glasdeckel öffnet sich langsam in einer Makro-Nahaufnahme
+3. Goldener Honig wird mit einem hölzernen Honiglöffel angehoben
+4. Honig fließt in einem extrem langsamen, seidigen Strom
+5. Makroaufnahme der Honigtextur und natürlicher Glanzlichter
+6. Honig tropft auf warmen Toast
+7. Honigglas umgeben von Waben und frischen Zutaten
+8. Abschließender Luxus-Packshot mit goldenem Honigspritzer
+
+JEDES PANEL:
+• Szenennummer
+• Dauer-Badge
+• Kameraanweisung
+• Visualisierung
+• Aktion
+• Produktdetail
+
+KAMERA:
+Extremes Makro, Zeitlupen-Flüssigkeitsfotografie, kontrollierter Push-in, Top-Down-Komposition, geringe Schärfentiefe, filmische Heldenaufnahme.
+
+STIL:
+Ultrarealistische Honigtextur, realistische Flüssigkeitsphysik, warme natürliche Beleuchtung, Premium-Lebensmittelfotografie, glänzendes Glasgefäß, elegante Reflexionen, luxuriöses Bio-Branding, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787217318219_jdlgsg_HQF19kdacAATv1I.jpg" width="600" alt="Storyboard für einen Werbespot für Bio-Honig der Premiumklasse">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2090081415924982038)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2090081415924982038) | **Veröffentlicht:** Aug 19, 2026
+
+---
+### Storyboard für Instant-Nudel-Werbespot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein energiegeladenes Storyboard-Prompt für eine Instant-Nudel-Werbung. Es beschreibt acht wirkungsvolle Szenen, darunter Nudel-Close-ups, Makro-Texturaufnahmen und filmische Dampfeffekte mit professioneller Studiobeleuchtung.
+
+#### 📝 Prompt
+
+```
+TITEL:
+Storyboard für einen Premium-Werbespot für Instant-Nudeln
+
+FORMAT:
+• Einseitiges Premium-Storyboard
+• 3:4 Hochformat
+• Hochenergetische Lebensmittelwerbung
+• 8 filmische Produktszenen
+• Produktfokussierte Werbepräsentation
+
+HEADER:
+• Moderne, fette Typografie
+• Informationskarten:
+  - Dauer: 20 Sekunden
+  - Stil: Filmische Lebensmittelwerbung
+  - Produkt: Instant-Nudeln
+  - Audio: Koch-ASMR + energiegeladener Beat
+• Bereich „Warum dieser Stil funktioniert“
+• Warme gelbe und rote Akzente
+
+STORYBOARD:
+1. Instant-Nudelpackung steht aufrecht bei dramatischer Beleuchtung
+2. Packung wird geöffnet und Nudeln gleiten in eine Schüssel
+3. Kochendes Wasser wird über die Nudeln gegossen
+4. Nudeln kochen mit realistisch aufsteigendem Dampf
+5. Würzpulver wird hinzugefügt
+6. Stäbchen heben perfekt gegarte Nudeln an
+7. Extremes Makro-Foto der glänzenden Nudeln mit Toppings
+8. Finale Hero-Schüssel neben der ursprünglichen Produktpackung
+
+JEDES PANEL:
+• Szenennummer
+• Dauer-Badge
+• Visuelles
+• Aktion
+• Kameraführung
+• Produktdetails
+
+KAMERA:
+Makro-Food-Fotografie, Overhead-Komposition, Dampf-Nahaufnahme, Nudel-Pull-Shot, dramatischer Produkt-Push-in, filmische Hero-Einstellung.
+
+STIL:
+Ultra-realistische Lebensmittelwerbung, realistischer Dampf, detaillierte Nudeltextur, glänzende Brühe, lebendige Zutaten, professionelle Studiobeleuchtung, Premium-Verpackung, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787217318961_wpvccr_HQE90xdaYAA8DRm.jpg" width="600" alt="Storyboard für Instant-Nudel-Werbespot">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2090019696779387173)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2090019696779387173) | **Veröffentlicht:** Aug 19, 2026
+
+---
+### Storyboard für einen Luxus-Ketchup-Werbespot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmisches und detailliertes Storyboard-Prompt für einen Premium-Lebensmittelwerbespot, mit Fokus auf Makroaufnahmen und professionelle Werbeästhetik für Produktpräsentationen.
+
+#### 📝 Prompt
+
+```
+TITEL:
+Storyboard für einen Premium-Tomatenketchup-Werbespot
+
+FORMAT:
+• Einseitiges Premium-Storyboard
+• 3:4 Hochformat
+• Luxus-Lebensmittelwerbung
+• 8 filmische Storyboard-Szenen
+• Klare Premium-Präsentation
+
+HEADER:
+• Fette redaktionelle Typografie
+• Informationskarten:
+  - Dauer: 20 Sekunden
+  - Stil: Premium-Lebensmittelwerbung
+  - Produkt: Tomatenketchup
+  - Audio: Fresh Food ASMR
+• Bereich „Warum dieser Stil funktioniert“
+• Ästhetik in Rot, Weiß und Creme
+
+STORYBOARD:
+1. Ketchup-Flasche auf einer sauberen weißen Oberfläche
+2. Flaschenverschluss öffnet sich in einer Makro-Nahaufnahme
+3. Dickflüssiger Ketchup fließt aus der Flasche
+4. Ketchup bildet eine perfekte, glänzende Spirale
+5. Extremes Makro zeigt die reichhaltige Tomatenstruktur
+6. Ketchup wird neben knusprigen Pommes frites serviert
+7. Flasche umgeben von frischen Tomaten und Produktzutaten
+8. Abschließender Hero-Shot der Flasche mit glänzender Reflexion und Ketchup-Spritzer
+
+JEDES PANEL:
+• Szenennummer
+• Dauer-Badge
+• Kameraanweisung
+• Visualisierung
+• Aktion
+• Produktdetail
+
+KAMERA:
+Extremes Makro, langsamer Produkt-Push-in, Top-Down-Aufnahme, Seitenprofil, kontrollierte Spritzer-Fotografie, Premium-Packshot.
+
+STIL: Ultrarealistische Food-Fotografie, glänzende Ketchup-Textur, realistische Flüssigkeitsphysik, frische Tomaten, saubere Studiobeleuchtung, Premium-Werbung, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787217321758_98zrwb_HQAvvJHWUAAx3pk.jpg" width="600" alt="Storyboard für einen Luxus-Ketchup-Werbespot">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2089722733156266079)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2089722733156266079) | **Veröffentlicht:** Aug 18, 2026
+
+---
 ### Göttin beschützt Eisplaneten
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2733,137 +3005,13 @@ Erstelle eine 10-sekündige, filmische Reise-Vlog-Montage. Verwende in jeder Ein
 **Autor:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Quelle:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Veröffentlicht:** Jul 2, 2026
 
 ---
-### Riesenfaultier gegen Godzilla: Stadtkampf
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, filmreifer Prompt, in dem ein berg-großes Faultier versehentlich ein Elefanten-Godzilla-Monster mit Slapstick-Physik besiegt.
-
-#### 📝 Prompt
-
-```
-Ein gigantisches, sich langsam bewegendes Faultier von der Größe eines Berges hängt an einem Wolkenkratzer und gähnt herzhaft. Ein wütendes Elefanten-Godzilla-Monster stampft darauf zu und speit winzige Blitze. Das Faultier streckt träge eine Kralle aus und schleudert das Monster mühelos meilenweit weg. Das Faultier zuckt mit den Schultern und schläft auf dem Gebäude weiter. Absurder Geschwindigkeitskontrast, Slapstick-Physik, humorvolle Zeitlupen-Einschläge, lebhafte Zerstörung der Stadt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Riesenfaultier gegen Godzilla: Stadtkampf">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2072542482857099759)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Veröffentlicht:** Jul 2, 2026
-
----
-### Video eines Pahadi-Mädchens am Morgen im Himalaya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmisches Storyboard-Prompt für ein 10-sekündiges Video, das ein junges Mädchen mit Schafen in den nebligen Bergen des Himalaya zeigt, inklusive verschiedener Kameraeinstellungen und Umgebungsgeräusche.
-
-#### 📝 Prompt
-
-```
-Szenentitel: Pahadi-Mädchen mit Schafen — Morgen im Himalaya
-[0s–2s]
-Totale (Establishing Shot): Ein junges indisches Bergmädchen, schlanke Statur, etwa 22 Jahre alt, geht sanft einen schmalen Bergpfad entlang. Sie trägt ein traditionelles Pahadi-Outfit (weicher Wollschal, schlichtes Kurta, silberne Jhumka-Ohrringe), ihr Dupatta flattert leicht im Wind. Neblige grüne Berge und Pinien im Hintergrund. Natürliches Morgenlicht, sanfter Goldton.
-[2s–4s]
-Halbnahe Einstellung: Sie geht neben einer kleinen Schafherde her, ihre Hand ruht sanft auf einem Holzstab. Ihr Ausdruck ist ruhig, warm und zufrieden — ein sanftes Lächeln, ihre Augen spiegeln eine naturverbundene Unschuld wider. Der Wind bewegt ihr Haar auf natürliche Weise.
-[4s–6s]
-Großaufnahme: Ihr Gesicht im sanften natürlichen Licht — niedliche, elegante Gesichtszüge, natürlicher Look ohne Make-up, strahlende Haut. Sie blickt liebevoll zu den Schafen und lacht leise, als eines sie anstupst. Natürliche Umgebungsgeräusche: Vogelgezwitscher, leise Schafsglocken (Ghungroo), Windrauschen.
-[6s–8s]
-Verfolgungseinstellung von hinten: Sie geht weiter einen grasbewachsenen Hang hinauf, die Schafe folgen ihr, das Dupatta weht im Wind, ihre Silhouette vor den gestaffelten Gipfeln des Himalaya und ziehenden Wolken.
-[8s–10s]
-Abschließende Totale: Sie hält an einer Klippe inne und blickt über das Tal, während die Schafe friedlich um sie herum grasen. Sanftes Windgeräusch, eine ferne Tempelglocke oder Flötenmusik im Hintergrund blendet ein. Standbild ihres friedlichen, gelassenen Ausdrucks, während das Bild sanft in eine Vignette übergeht.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Video eines Pahadi-Mädchens am Morgen im Himalaya">
-
-**[🎬 Video ansehen →](https://x.com/b275511/status/2072308089056084456)**
-
-**Autor:** [TheAIDev](https://x.com/b275511) | **Quelle:** [Link](https://x.com/b275511/status/2072308089056084456) | **Veröffentlicht:** Jul 1, 2026
-
----
-### Maine Coon Kätzchen Garten-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Prompt zur Erstellung eines realistischen Videos eines flauschigen Maine Coon Kätzchens, das während der goldenen Stunde Eichhörnchen im Garten beobachtet, inklusive natürlicher Bewegungen und Umgebungsgeräuschen.
-
-#### 📝 Prompt
-
-```
-Ein flauschiges orangefarbenes Maine Coon Kätzchen mit großen grünen Augen und Pinselohren sitzt am Rand einer Holzterrasse mit Blick auf einen üppigen Garten während der goldenen Stunde. Im Vordergrund jagen sich mehrere verspielte graue Eichhörnchen, klettern auf Bäume und knabbern an heruntergefallenen Eicheln. Die Ohren des Kätzchens spitzen sich, der Schwanz zuckt aufgeregt, der Kopf neigt sich neugierig von einer Seite zur anderen, und es gibt leise zwitschernde Miaulaute von sich und macht kleine Sprünge in Richtung des Glasgeländers, während es die Eichhörnchen beobachtet. Realistischer Smartphone-Video-Stil aus der Hand, natürliche Fellbewegung im Wind, geringe Schärfentiefe mit wunderschönem Bokeh bei den Bäumen und Blumen im Hintergrund, warmes Sonnenuntergangslicht, sanftes Rauschen der Blätter im Wind, zwitschernde Vögel und das ferne Geplapper der Eichhörnchen für eine immersive Klangkulisse. Hochdetailliertes, lebensechtes Tierverhalten.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072290295488905217/img/PcxzWxPGGJR2Q8Hk.jpg" width="600" alt="Maine Coon Kätzchen Garten-Video">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2072290764441465218)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2072290764441465218) | **Veröffentlicht:** Jul 1, 2026
-
----
-### Nostalgische Kindheitserinnerungen Makro-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, kinoreifer Prompt für Gemini Omni, der Kindheitserinnerungen als goldene, leuchtende Partikel visualisiert, die aus einem sich drehenden Vintage-Spielzeugschlüssel hervorgehen.
-
-#### 📝 Prompt
-
-```
-Reiner schwarzer Hintergrund. Statische Makro-Filmaufnahme eines alten, rostigen Aufziehschlüssels, der sich langsam von selbst auf einer glänzenden Oberfläche dreht. Während er sich dreht, strömen Tausende winziger leuchtender Partikel aus dem Schlüssel und formen miniaturenhafte Kindheitserinnerungen – ein Papierboot, das im Regenwasser schwimmt, ein Kreisel, ein Drachen, der am Himmel fliegt, ein hölzerner Schultisch, ein alter Röhrenfernseher und eine Spielzeugeisenbahn, die sie umkreist. Alles setzt sich auf natürliche Weise aus den leuchtenden Partikeln mit fließender, magischer Bewegung zusammen. Warmes goldenes Licht, sanftes volumetrisches Leuchten, verträumte nostalgische Atmosphäre, realistische Partikelphysik, filmische Schärfentiefe, ultra-hochauflösende Kinoqualität. Der letzte Frame verharrt auf der vollständigen Miniatur-Kindheitswelt. 10 Sekunden, 16:9, 24 fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071504130334691328/img/jOu7q6raSCE6KcNR.jpg" width="600" alt="Nostalgische Kindheitserinnerungen Makro-Video">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2071504297716822456)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2071504297716822456) | **Veröffentlicht:** Jun 29, 2026
-
----
-### Stop-Motion-Stickanimation eines Drachen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Stop-Motion-Animations-Prompt, der die selbststickende Animation eines Drachen auf gelbem Baumwollstoff mit haptischen Faden-Details zeigt.
-
-#### 📝 Prompt
-
-```
-Stop-Motion-Animation einer selbststickenden Stickerei auf gelbem Baumwollstoff. Eine Illustration eines mächtigen Drachen, der hinter schweren eisernen Gefängnisgittern gefangen ist, stickt sich selbst ins Dasein, wobei kurze Plattstiche Bild für Bild hinzugefügt werden. Das erhabene, haptische Stickgarn mit einzelnen Fadensträngen fängt weiches, diffuses Tageslicht ein, während sich die Fäden nach und nach aufbauen. Während der Drache Gestalt annimmt, sticken sich lebhafte karmesinrote Flammen, dunkle Rauchschwaden und schwere Kettenmuster um ihn herum, um das Motiv einzurahmen. Der gestickte Text „Release Claude Fable 5“ stickt sich in einer kräftigen, scharfen Schrift in den leeren Raum. Leicht ruckelnde Stop-Motion-Kadenz, bei der sich jeder Stich festzieht und in der gewebten Baumwollstruktur verankert. Keine Hände, keine Nadel, kein Stickrahmen, keine Spule, nur der Stoff und die sich selbst formenden Fäden. Makroaufnahme aus der Vogelperspektive. Sanfte diegetische Audiospur mit Stoffrauschen und leisem Klopfen der Fäden.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071272244224151552/img/xLsuFaQkWtWvxebs.jpg" width="600" alt="Stop-Motion-Stickanimation eines Drachen">
-
-**[🎬 Video ansehen →](https://x.com/HarshithLucky3/status/2071272516379943218)**
-
-**Autor:** [Harshith](https://x.com/HarshithLucky3) | **Quelle:** [Link](https://x.com/HarshithLucky3/status/2071272516379943218) | **Veröffentlicht:** Jun 28, 2026
-
----
-### Saphirblaue Wackelpudding-Katzen-Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kinoreifer Prompt zur Erstellung einer hochwertigen Animation einer aus Wackelpudding geformten Katze, die über einen Wackelpudding-Pool springt, mit realistischer Physik und Makro-Kameraverfolgung.
-
-#### 📝 Prompt
-
-```
-Ein kristallklarer Swimmingpool, der vollständig aus durchscheinendem, saphirblauem Wackelpudding besteht, vor einem sauberen, weißen Verlaufs-Hintergrund. Eine verspielte Katze, geformt aus demselben saphirblauen Wackelpudding, rennt anmutig über die Wackelpudding-Oberfläche, bevor sie einen eleganten Zeitlupensprung über den Pool macht. Jeder Pfotenschritt erzeugt befriedigendes Wackeln, dehnbare Wellen und glänzende Wackelpudding-Spritzer. Die Katze landet sanft, wobei ihr Körper und ihr Schwanz mit realistischer Wackelpudding-Physik federn. Die Kamera beginnt mit einer Makro-Nahaufnahme der schimmernden Wackelpudding-Oberfläche, verfolgt die Katze flüssig während des Laufs und Sprungs und zieht sich dann sanft zurück, um den gesamten Pool zu zeigen. Weiches Studio-Licht unterstreicht die durchscheinende Textur, die glänzenden Reflexionen und die realistische unterirdische Lichtstreuung. Ästhetik der ultra-sauberen, art-directed Food-Fotografie, faszinierende ASMR-Visuals, hochrealistische Wackelpudding-Physik, filmische, nahtlose 10-Sekunden-Aufnahme.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071247391442001920/img/_JAqcbmD5Z_pM1k0.jpg" width="600" alt="Saphirblaue Wackelpudding-Katzen-Animation">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2071247539161170223)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Veröffentlicht:** Jun 28, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 75 weitere Prompts hier nicht angezeigt
+### 🎯 81 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2909,6 +3057,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-20T08:36:03.520Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-20T12:45:08.730Z</sub>
 
 </div>

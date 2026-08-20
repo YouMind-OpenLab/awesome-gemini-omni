@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **175** |
+| 📝 Toplam İstem | **181** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-20** |
 
@@ -56,6 +56,278 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Bauhaus İsviçre Tarzı Kinetik Tipografi Spotu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bauhaus tasarım ilkelerini, geometrik şekilleri ve katı ızgara düzenlerini takip eden, 12 saniyelik hassas bir kinetik tipografi senaryosu.
+
+#### 📝 İstem
+
+```
+16:9 formatında, 24fps, tam 12 saniyelik 8 kesimden oluşan bir kinetik tipografi spotu oluşturun. Stil: Bauhaus / İsviçre Uluslararası Tarzı — düz ana renkler (kırmızı, sarı, mavi, siyah, kırık beyaz), katı ızgara, geometrik sans-serif yazı tipi.
+Bu film %90 hareketli tipografi ve geometrik şekillerden, %10 doku vurgularından oluşmaktadır.
+KESİM 01 | 0.0-1.5sn - Kırık beyaz boşluk. "FORM" kelimesi harf harf bir temel ızgara üzerine düşer, her biri küçük bir sıçrama ile yerine oturur.
+KESİM 02 | 1.5-3.0sn - Soldan gelen kırmızı bir daire "M" harfini kadraj dışına iter; "FOR—" bir vuruş boyunca sabit kalır.
+KESİM 03 | 3.0-4.5sn - Sert kesim: tamamen sarı bir kare, "FOLLOWS" dikey olarak istiflenmiş, harfler zıt yönlerde kayarak yerleşir.
+KESİM 04 | 4.5-6.0sn - Mavi bir diyagonal ekranı siler; "FUNCTION" bu diyagonal üzerinde durur; kamera yatay okunana kadar döner.
+KESİM 05 | 6.0-7.5sn - Üç kelime, katı 3 sütunlu bir ızgara üzerinde ritme uygun şekilde yer değiştirir.
+KESİM 06 | 7.5-9.0sn - Tüm yazılar 8pt ızgara dokusuna küçülür; merkezden büyüyen bir siyah kare belirir.
+KESİM 07 | 9.0-10.5sn - Kare, bir Mondrian kompozisyonuna bölünür; her renk alanına bir kelime yerleşir.
+KESİM 08 | 10.5-12.0sn - Bitiş kartı: "FORM FOLLOWS FUNCTION — 1919" sol alt köşeye hizalanmış, kırmızı daire nokta işareti olarak kullanılır ve sabit kalır.
+Tipografi, herhangi bir şekil üzerine gelmeden önce tamamen okunabilir olmalıdır. Harfler asla bozulmamalı veya erimemeli; harf aralıkları (kerning) optik olarak dengeli kalmalıdır.
+Kurgu: 120bpm ritmine kilitlenmiş sert kesimler ve ani hareketler.
+Ses: Minimal elektronik tıklamalar + her kesimde bas vuruşu.
+ASLA YAPILMAMASI GEREKENLER: Gradyanlar, gölgeler, 3D derinlik, serif yazı tipleri, erimiş harfler, ek kelimeler.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Bauhaus İsviçre Tarzı Kinetik Tipografi Spotu">
+
+**[🎬 Videoyu izle →](https://x.com/EZheng66099/status/2090185695641968736)**
+
+**Yazar:** [EZ](https://x.com/EZheng66099) | **Kaynak:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Yayınlandı:** Aug 19, 2026
+
+---
+### Çin Anime Karakter Tanıtımı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Üç referans görseli kullanılarak hazırlanan, belirgin mürekkep yıkama (ink-wash) alanları ve kahramansı pozlar içeren, 5 saniyelik hızlı tempolu 2D Çin anime karakter tanıtım montajı.
+
+#### 📝 İstem
+
+```
+Sağlanan üç referans görselini kullanarak 5 saniyelik, hızlı tempolu bir 2D Çin anime (guoman) karakter tanıtım montajı oluşturun. ÖNEMLİ: @Image1, @Image2 ve @Image3 birbirinden tamamen farklı üç karakterdir. Her karakterin yüzünü, saç stilini, cilt tonunu, kıyafetini, vücut tipini ve aksesuarlarını ilgili referans görselinden tam olarak koruyun. Kimliklerini asla birleştirmeyin, dönüştürmeyin, karıştırmayın veya değiştirmeyin. Her seferinde sadece bir karakter gösterin. Arka plan düzeni: her karakter için belirgin bir mürekkep yıkama renk alanı (çivit mavisi / vermilyon / çam yeşili), uçuşan fırça darbesi parçacıkları ve köşeye damgalanan bir isim mührü kullanın. KESİM 01 | 0.0-1.6sn - @Image1 hızlı bir kaydırma efektiyle (whip-pan) belirir, kahramansı poz, yüz kare yüksekliğinin %40'ı, çivit mavisi mürekkep alanı, sağ üst köşeye mühür damgası. KESİM 02 | 1.6-3.2sn - Sert kesim. @Image2 çapraz hız çizgileri üzerinde Slides ile gelir, vermilyon alanı, sol tarafa mühür damgası. KESİM 03 | 3.2-5.0sn - Sert kesim. @Image3 yukarıdan bir darbe karesi ve ekran sarsıntısıyla iner, çam yeşili alanı; üç mühür de alt kısımda hizalanır; son kareyi sabit tutun. Kamera: sadece hızlı yakınlaştırmalar (push-in). Uzak tam vücut çekimleri yok; yüzler kare yüksekliğinin %35-50'sinde kalmalı. Ses: her kesimde üç taiko tarzı perküsyon vuruşu + mürekkep sıçrama efekti (SFX). ŞUNLARI YAPMAYIN: kimlik dönüşümü, tek karede iki karakter, yeniden tasarlanmış kıyafetler, batı çizgi roman tarzı, mühürler dışında okunabilir herhangi bir metin. Çin donghua (guoman) tarzı karakter sayfası, 19 yaşında genç bir kılıç ustasının göğüs hizasından kahraman portresi, keskin ve özgüvenli gözler, gümüş bir toka ile yukarıdan toplanmış uzun mürekkep siyahı saçlar, hafif bulut desenli işlemeli koyu çivit mavisi katmanlı cübbe, yakada bir yeşim kolye, hafif bir gülümseme, yüz karenin yaklaşık %40'ını kaplar, ince mürekkep yıkama dokusu vurgularıyla cel shading, temiz ve kalın çizgi sanatı, film kalitesinde karakter tasarımı, sade sıcak açık gri arka plan, yumuşak ve dengeli aydınlatma --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Çin donghua (guoman) tarzı karakter sayfası, 17 yaşında oyuncu bir kadın kahramanın göğüs hizasından kahraman portresi, parlak kehribar rengi gözler, vermilyon kurdeleli ve gevşek yan tutamlı ikili topuz saç stili, altın süslemeli kırmızı-beyaz kısa dövüş ceketi, çenesine yakın yarı açık bir yelpaze tutuyor, muzip bir sırıtış, yüz karenin yaklaşık %40'ını kaplar, ince mürekkep yıkama dokusu vurgularıyla cel shading, temiz ve kalın çizgi sanatı, film kalitesinde karakter tasarımı, sade sıcak açık gri arka plan, yumuşak ve dengeli aydınlatma --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Çin donghua (guoman) tarzı karakter sayfası, 35 yaşında nazik dev bir savaşçı keşişin göğüs hizasından kahraman portresi, geniş omuzlar, hafif kirli sakallı tıraşlı baş, kalın kaşlar, sıcak ve dürüst bir gülümseme, tek omzu açık yosun yeşili keşiş cübbesi, boyunda ahşap tespih, sol kaşta küçük bir yara izi, yüz karenin yaklaşık %40'ını kaplar, ince mürekkep yıkama dokusu vurgularıyla cel shading, temiz ve kalın çizgi sanatı, film kalitesinde karakter tasarımı, sade sıcak açık gri arka plan, yumuşak ve dengeli aydınlatma --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090179877815128065/img/T9QKihnEdChkgmZM.jpg" width="600" alt="Çin Anime Karakter Tanıtımı">
+
+**[🎬 Videoyu izle →](https://x.com/EZheng66099/status/2090180685902369163)**
+
+**Yazar:** [EZ](https://x.com/EZheng66099) | **Kaynak:** [Link](https://x.com/EZheng66099/status/2090180685902369163) | **Yayınlandı:** Aug 19, 2026
+
+---
+### Modern Çin Çay Seremonisi Hareketli Grafikleri
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Çin çay seremonisi için mürekkep yıkama dokularını modern minimalist tasarımla harmanlayan 15 saniyelik hareketli grafik reklamı.
+
+#### 📝 İstem
+
+```
+16:9 formatında, 24fps hızında, tam 15 saniyelik, 12 kesimden oluşan bir hareketli grafik reklamı oluşturun. Tema: Çin çay seremonisi, modern oryantal tasarım.
+Bu film %80 hareketli cesur grafik tasarım ve %20 nesne aksiyonundan oluşmaktadır.
+Renk paleti: mürekkep siyahı, pirinç kağıdı beyazı, vermilyon kırmızısı, mat altın. Stil: modern Çin minimalizmi — mürekkep yıkama dokuları düz geometrik şekillerle buluşuyor; kırmızı mühür damgaları geçiş aracı olarak kullanılıyor.
+KESİM 01 | 0.0-1.2sn - Beyaz boşluk. Tek bir devasa Çince 「茶」 karakteri, kenarlarından mürekkep sızarak fırça darbeleriyle belirir.
+KESİM 02 | 1.2-2.4sn - Sert kesim: merkezden genişleyen bir vermilyon daire; karakter beyaz renkte içinden geçer.
+KESİM 03 | 2.4-3.6sn - Siyah zemin üzerinde tepeden çekim çay fincanı; yükselen buhar, akan mürekkep şeritlerine dönüşür.
+KESİM 04 | 3.6-5.0sn - Mürekkep şeritleri, ritimle sola kayan yatay bir geometrik çay yaprağı sırasına dönüşür.
+KESİM 05 | 5.0-6.2sn - Siyah zemin üzerinde mat altın renginde devasa 「静」 karakteri; son fırça darbesine ani yakınlaştırma (snap zoom).
+KESİM 06 | 6.2-7.6sn - Çaydanlık silüeti dökülüyor; dökülme çizgisi, kareyi ikiye bölen vermilyon bir diyagonal haline gelir.
+KESİM 07 | 7.6-9.0sn - Bölünmüş kare: solda mürekkep dağları, sağda düz vermilyon; beyaz bir çay fincanı ayrım boyunca kayar.
+KESİM 08 | 9.0-10.4sn - Kırmızı bir mühür damgası, ekran sarsıntısıyla sertçe iner ve mührün içinde beyaz renkte 「回甘」 yazısını ortaya çıkarır.
+KESİM 09 | 10.4-11.8sn - Hızlı geçişler: ritimle uyumlu üç çay yaprağı, üç geometrik şekil.
+KESİM 10 | 11.8-13.0sn - Tüm öğeler dönen tek bir mürekkep dairesinde birleşir.
+KESİM 11 | 13.0-14.0sn - Daire, çay fincanına dönüşür; bir damla düşer; ağır çekim dalgalanma.
+KESİM 12 | 14.0-15.0sn - Bitiş kartı: büyük 「茶」 karakteri, altında küçük İngilizce "TEA — est. in stillness" yazısı, sağ altta kırmızı mühür, sabit tut.
+Tipografi kuralı: her karakter, üzerine herhangi bir şey gelmeden önce en az 12 kare boyunca tamamen okunabilir olmalıdır. Mümkün olduğunca az Çince karakter kullanın, sadece büyük boyutta olsun.
+Kurgu: ritimle uyumlu sert kesimler, grafik eşleşmeleri, ani yakınlaştırmalar, mürekkep sıçraması geçişleri.
+Ses: guzheng tınısı + modern perküsyon; SFX kesimlerle senkronize (fırça sesi, mühür damgası, su damlası).
+ASLA YAPMAYIN: fazladan glifler, yanlış yazılmış veya bozuk hanzi karakterleri, gökkuşağı gradyanları, 3D eğimli metinler, fotogerçekçi görüntüler, ek karakterler.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090160008281415681/img/9P04j3027KBHFiU0.jpg" width="600" alt="Modern Çin Çay Seremonisi Hareketli Grafikleri">
+
+**[🎬 Videoyu izle →](https://x.com/EZheng66099/status/2090160829534511425)**
+
+**Yazar:** [EZ](https://x.com/EZheng66099) | **Kaynak:** [Link](https://x.com/EZheng66099/status/2090160829534511425) | **Yayınlandı:** Aug 19, 2026
+
+---
+### Premium Organik Bal Reklamı Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lüks organik bal reklamı için kapsamlı ve sinematik bir storyboard istemi. Bal dokularının makro çekimleri, ağır çekim sıvı fiziği ve zarif marka öğelerini içeren sekiz farklı sahneyi detaylandırır.
+
+#### 📝 İstem
+
+```
+BAŞLIK:
+Premium Organik Bal Ürünü Reklamı Storyboard'u
+
+FORMAT:
+• Tek sayfalık premium storyboard
+• 3:4 Dikey oran
+• Lüks gıda ürünü kampanyası
+• 8 sinematik storyboard sahnesi
+• Ürün görselin odak noktasıdır
+• Premium reklam ajansı sunumu
+
+ÜST BİLGİ:
+• Zarif tırnaklı (serif) tipografi
+• Bilgi kartları:
+  - Süre: 20 Saniye
+  - Stil: Doğal Lüks Gıda Reklamı
+  - Ürün: Organik Bal
+  - Ses: Yumuşak Doğa ASMR
+• Bu Stil Neden İşe Yarar bölümü
+• Krem, kehribar ve altın estetiği
+• Minimal petek dekoratif detayları
+
+STORYBOARD:
+1. Sıcak ahşap bir yüzey üzerinde duran premium bal kavanozu
+2. Makro yakın çekimde yavaşça açılan kavanoz kapağı
+3. Ahşap bal kaşığı ile kaldırılan altın rengi bal
+4. İpeksi bir akışla son derece yavaş süzülen bal
+5. Bal dokusunun ve doğal parlamaların makro çekimi
+6. Sıcak kızarmış ekmek üzerine damlayan bal
+7. Petek ve taze malzemelerle çevrili bal kavanozu
+8. Altın bal sıçraması ile final lüks ürün çekimi
+
+HER PANEL:
+• Sahne numarası
+• Süre rozeti
+• Kamera yönü
+• Görsel
+• Eylem
+• Ürün detayı
+
+KAMERA:
+Ekstrem makro, ağır çekim sıvı fotoğrafçılığı, kontrollü yakınlaşma (push-in), yukarıdan aşağıya kompozisyon, sığ alan derinliği, sinematik ana çekim.
+
+STİL:
+Ultra gerçekçi bal dokusu, gerçekçi sıvı fiziği, sıcak doğal aydınlatma, premium gıda fotoğrafçılığı, parlak cam kavanoz, zarif yansımalar, lüks organik markalama, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787217318219_jdlgsg_HQF19kdacAATv1I.jpg" width="600" alt="Premium Organik Bal Reklamı Storyboard'u">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2090081415924982038)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2090081415924982038) | **Yayınlandı:** Aug 19, 2026
+
+---
+### Hazır Noodle Reklamı Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hazır noodle'lar için enerjik bir gıda reklamı storyboard istemi. Noodle çekimleri, makro doku çekimleri ve profesyonel stüdyo aydınlatmalı sinematik buhar efektleri dahil olmak üzere sekiz etkileyici sahneyi tanımlar.
+
+#### 📝 İstem
+
+```
+BAŞLIK:
+Premium Hazır Noodle Ürün Reklamı Storyboard'u
+
+FORMAT:
+• Tek sayfalık premium storyboard
+• 3:4 Dikey oran
+• Yüksek enerjili gıda reklamı
+• 8 sinematik ürün sahnesi
+• Ürün odaklı reklam sunumu
+
+ÜST BİLGİ:
+• Modern kalın tipografi
+• Bilgi kartları:
+  - Süre: 20 Saniye
+  - Stil: Sinematik Gıda Reklamı
+  - Ürün: Hazır Noodle
+  - Ses: Yemek Pişirme ASMR + Enerjik Ritim
+• Bu Stil Neden İşe Yarar bölümü
+• Sıcak sarı ve kırmızı vurgular
+
+STORYBOARD:
+1. Dramatik aydınlatma ile dik duran hazır noodle paketi
+2. Paketin açılması ve noodle'ların kaseye dökülmesi
+3. Noodle'ların üzerine kaynar su dökülmesi
+4. Gerçekçi buhar yükselirken noodle'ların pişmesi
+5. Baharat tozunun eklenmesi
+6. Çubukların mükemmel pişmiş noodle'ları kaldırması
+7. Üzerinde malzemeler bulunan parlak noodle'ların aşırı makro çekimi
+8. Orijinal ürün paketinin yanındaki nihai ana kase
+
+HER PANEL:
+• Sahne numarası
+• Süre rozeti
+• Görsel
+• Eylem
+• Kamera yönü
+• Ürün detayı
+
+KAMERA:
+Makro gıda fotoğrafçılığı, tepe kompozisyonu, buhar yakın planı, noodle kaldırma çekimi, dramatik ürün yakınlaştırma, sinematik ana kareleme.
+
+STİL:
+Ultra gerçekçi gıda reklamı, gerçekçi buhar, detaylı noodle dokusu, parlak et suyu, canlı malzemeler, profesyonel stüdyo aydınlatması, premium ambalaj, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787217318961_wpvccr_HQE90xdaYAA8DRm.jpg" width="600" alt="Hazır Noodle Reklamı Storyboard'u">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2090019696779387173)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2090019696779387173) | **Yayınlandı:** Aug 19, 2026
+
+---
+### Lüks Ketçap Reklamı Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Premium gıda reklamları için makro çekimlere ve profesyonel reklam estetiğine odaklanan, ürün tanıtımlarına yönelik sinematik ve detaylı bir storyboard istemi.
+
+#### 📝 İstem
+
+```
+BAŞLIK:
+Premium Domates Ketçabı Ürün Reklamı Storyboard'u
+
+FORMAT:
+• Tek sayfalık premium storyboard
+• 3:4 Dikey oran
+• Lüks gıda ürünü reklamı
+• 8 sinematik storyboard sahnesi
+• Temiz ve premium sunum
+
+ÜST BİLGİ:
+• Kalın editoryal tipografi
+• Bilgi kartları:
+  - Süre: 20 Saniye
+  - Stil: Premium Gıda Reklamı
+  - Ürün: Domates Ketçabı
+  - Ses: Taze Gıda ASMR
+• Bu Stil Neden İşe Yarar bölümü
+• Kırmızı, beyaz ve krem estetiği
+
+STORYBOARD:
+1. Temiz beyaz bir yüzey üzerinde duran ketçap şişesi
+2. Makro yakın çekimde açılan şişe kapağı
+3. Şişeden akan yoğun ketçap
+4. Mükemmel ve parlak bir spiral oluşturan ketçap
+5. Zengin domates dokusunu gösteren ekstrem makro çekim
+6. Çıtır patates kızartmasının yanına dökülen ketçap
+7. Taze domatesler ve ürün içerikleriyle çevrili şişe
+8. Parlak yansımalı ve ketçap sıçramalı final hero şişe çekimi
+
+HER PANEL:
+• Sahne numarası
+• Süre rozeti
+• Kamera yönü
+• Görsel
+• Aksiyon
+• Ürün detayı
+
+KAMERA:
+Ekstrem makro, yavaş ürün yakınlaştırma (push-in), tepeden çekim, yan profil, kontrollü sıçrama fotoğrafçılığı, premium ürün çekimi (packshot).
+
+STİL: Ultra gerçekçi gıda fotoğrafçılığı, parlak ketçap dokusu, gerçekçi sıvı fiziği, taze domatesler, temiz stüdyo aydınlatması, premium ticari reklam, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787217321758_98zrwb_HQAvvJHWUAAx3pk.jpg" width="600" alt="Lüks Ketçap Reklamı Storyboard'u">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2089722733156266079)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2089722733156266079) | **Yayınlandı:** Aug 18, 2026
+
+---
 ### Buz Gezegenini Koruyan Tanrıça
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2707,137 +2979,13 @@ Güneşli bir yerel parkta, ahşap bir bankta oturan, gri saçlı, nazik yaşlı
 **Yazar:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Kaynak:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Yayınlandı:** Jul 2, 2026
 
 ---
-### Dev Tembel Hayvan ve Godzilla Şehir Savaşı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dağ büyüklüğünde bir tembel hayvanın, komedi fiziğiyle bir fil-Godzilla canavarını kazara alt ettiği, oldukça detaylı sinematik bir istem.
-
-#### 📝 İstem
-
-```
-Dağ yüksekliğinde, yavaş hareket eden devasa bir tembel hayvan bir gökdelene asılmış, kocaman esniyor. Öfkeli bir fil-Godzilla canavarı, küçük şimşekler saçarak ona doğru ilerliyor. Tembel hayvan, üşengeç bir tavırla tek pençesini uzatıyor ve hiç çaba sarf etmeden canavarı kilometrelerce uzağa fırlatıyor. Tembel hayvan omuz silkiyor ve binanın üzerinde uyumaya devam ediyor. Hızdaki absürt tezatlık, komedi fiziği, mizahi ağır çekim darbeler ve canlı şehir yıkımı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Dev Tembel Hayvan ve Godzilla Şehir Savaşı">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2072542482857099759)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Yayınlandı:** Jul 2, 2026
-
----
-### Himalayalar'da Sabah: Pahadi Kız Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sisli Himalayalar'da koyunlarıyla birlikte yürüyen genç bir kızı konu alan, çeşitli çekim türleri ve ortam sesleri içeren 10 saniyelik sinematik bir video hikaye panosu (storyboard) istemi.
-
-#### 📝 İstem
-
-```
-Sahne Başlığı: Koyunlarla Pahadi Kız — Himalayalar'da Sabah
-[0sn–2sn]
-Geniş ölçekli giriş çekimi: Yaklaşık 22 yaşlarında, ince yapılı, genç bir Hintli dağ kızı, dar bir dağ patikasında nazikçe yürüyor. Üzerinde geleneksel pahadi kıyafeti (yumuşak yün şal, sade bir kurta, gümüş jhumka küpeler) var, dupattası rüzgarda hafifçe dalgalanıyor. Arka planda sisli yeşil dağlar ve çam ağaçları. Doğal sabah güneş ışığı, yumuşak altın tonları.
-[2sn–4sn]
-Orta çekim: Küçük bir koyun sürüsünün yanında yürüyor, eli nazikçe ahşap bir asaya dayanmış. İfadesi sakin, sıcak ve huzurlu; hafif bir gülümseme, gözlerinde doğa sevgisi ve masumiyet yansıyor. Rüzgar saçlarını doğal bir şekilde hareket ettiriyor.
-[4sn–6sn]
-Yakın çekim: Yumuşak doğal ışıkta yüzü; sevimli, zarif hatlar, makyajsız bir görünüm, ışıldayan bir cilt. Koyunlara şefkatle bakıyor, biri bacağına dokunduğunda hafifçe gülüyor. Doğal ortam sesleri: kuş cıvıltıları, uzaktan gelen koyun çanları (ghungroo), rüzgarın hışırtısı.
-[6sn–8sn]
-Arkadan takip çekimi: Çimenli bir yamaçta yukarı doğru yürüyor, koyunlar arkasından geliyor, dupattası dalgalanıyor, silüeti katmanlı Himalaya zirveleri ve sürüklenen bulutlar önünde çerçeveleniyor.
-[8sn–10sn]
-Final geniş çekim: Bir uçurumun kenarında duruyor, vadiye bakıyor, koyunlar etrafında sakince otluyor. Yumuşak rüzgar sesi, arka planda yavaşça yükselen uzak bir tapınak çanı veya flüt sesi. Çekim hafif bir vinyet ile kararırken, huzurlu ve dingin ifadesi üzerinde donuyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Himalayalar'da Sabah: Pahadi Kız Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/b275511/status/2072308089056084456)**
-
-**Yazar:** [TheAIDev](https://x.com/b275511) | **Kaynak:** [Link](https://x.com/b275511/status/2072308089056084456) | **Yayınlandı:** Jul 1, 2026
-
----
-### Maine Coon Yavru Kedi Bahçe Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Altın saatlerde bahçede sincapları izleyen tüylü bir Maine Coon yavru kedisinin doğal hareketler ve ortam sesleri içeren gerçekçi bir videosunu oluşturmak için oldukça detaylı bir istem.
-
-#### 📝 İstem
-
-```
-Büyük yeşil gözleri ve püsküllü kulakları olan tüylü turuncu bir Maine Coon yavru kedi, altın saatlerde yemyeşil bir arka bahçeye bakan ahşap bir verandanın kenarında oturuyor. Ön planda, birkaç oyuncu gri sincap birbirini kovalıyor, ağaçlara tırmanıyor ve yere düşen meşe palamutlarını kemiriyor. Yavru kedinin kulakları dikleşiyor, kuyruğu heyecanla seğiriyor, başını merakla iki yana eğiyor ve sincapları izlerken cam korkuluklara doğru yumuşak cıvıltılı miyavlamalar çıkarıp küçük hamleler yapıyor. Gerçekçi el tipi akıllı telefon video tarzı, esintide doğal kürk hareketi, arka plandaki ağaçlar ve çiçeklerde güzel bir bokeh efekti ile sığ alan derinliği, sıcak gün batımı ışığı, yaprakları hışırdatan hafif rüzgar, kuş cıvıltıları ve sürükleyici bir ortam sesi için uzaktan gelen sincap sesleri. Son derece detaylı, gerçekçi hayvan davranışları.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072290295488905217/img/PcxzWxPGGJR2Q8Hk.jpg" width="600" alt="Maine Coon Yavru Kedi Bahçe Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2072290764441465218)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2072290764441465218) | **Yayınlandı:** Jul 1, 2026
-
----
-### Nostaljik Çocukluk Anıları Makro Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için çocukluk anılarını dönen vintage bir oyuncak anahtarından çıkan altın rengi parlayan parçacıklar olarak görselleştiren, son derece detaylı sinematik bir komut.
-
-#### 📝 İstem
-
-```
-Tamamen siyah arka plan. Parlak bir yüzey üzerinde kendi kendine yavaşça dönen eski ve paslı bir kurmalı oyuncak anahtarının sabit makro sinematik çekimi. Anahtar döndükçe, içinden binlerce küçük parlayan parçacık dışarı akar ve minyatür çocukluk anılarını oluşturur: yağmur suyunda yüzen bir kağıttan gemi, bir topaç, gökyüzünde süzülen bir uçurtma, ahşap bir okul sırası, eski bir CRT televizyon ve onların etrafında dönen bir oyuncak tren. Her şey, akıcı ve büyülü bir hareketle parlayan parçacıklardan doğal bir şekilde bir araya gelir. Sıcak altın rengi ışık, yumuşak hacimsel parıltı, rüya gibi nostaljik bir atmosfer, gerçekçi parçacık fiziği, sinematik alan derinliği, ultra yüksek çözünürlüklü sinematik kalite. Son kare, tamamlanmış minyatür çocukluk dünyasında sabit kalır. 10 saniye, 16:9, 24fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071504130334691328/img/jOu7q6raSCE6KcNR.jpg" width="600" alt="Nostaljik Çocukluk Anıları Makro Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2071504297716822456)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2071504297716822456) | **Yayınlandı:** Jun 29, 2026
-
----
-### Stop-Motion Nakış Ejderha Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sarı pamuklu kumaş üzerine kendi kendine işlenen, dokunsal iplik detaylarına sahip bir ejderha nakışını gösteren ayrıntılı stop-motion animasyon istemi.
-
-#### 📝 İstem
-
-```
-Sarı pamuklu kumaş üzerine kendi kendine işlenen nakışın stop-motion animasyonu. Ağır demir parmaklıkların ardına hapsedilmiş güçlü bir ejderha illüstrasyonu, kare kare biriken kısa saten dikişler kullanarak kendi kendini var ediyor. Kabartmalı ve dokunsal iplikler, iplikler giderek belirginleşirken yumuşak ve dağılmış gün ışığını yakalıyor. Ejderha şekillenirken, canlı kızıl alevler, koyu duman kıvrımları ve ağır zincir tasarımları, özneyi çerçevelemek için etrafına işleniyor. "Release Claude Fable 5" nakış metni, boş alana kalın ve keskin bir yazı tipiyle işleniyor. Hafif sarsıntılı stop-motion ritmi, her dikiş dokuma pamuk dokusuna sıkıca oturuyor ve kilitleniyor. El yok, iğne yok, kasnak yok, makara yok; sadece kumaş ve kendi kendine oluşan iplikler var. Yukarıdan aşağıya düz makro çekim. Kumaş hışırtısı ve hafif iplik tıkırtılarından oluşan yumuşak diegetik ses.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071272244224151552/img/xLsuFaQkWtWvxebs.jpg" width="600" alt="Stop-Motion Nakış Ejderha Animasyonu">
-
-**[🎬 Videoyu izle →](https://x.com/HarshithLucky3/status/2071272516379943218)**
-
-**Yazar:** [Harshith](https://x.com/HarshithLucky3) | **Kaynak:** [Link](https://x.com/HarshithLucky3/status/2071272516379943218) | **Yayınlandı:** Jun 28, 2026
-
----
-### Safir Mavisi Jöle Kedi Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gerçekçi fizik kuralları ve makro kamera takibi ile jöleden yapılmış bir kedinin jöle havuzunun üzerinden atladığı yüksek kaliteli bir animasyon oluşturmak için sinematik bir komut.
-
-#### 📝 İstem
-
-```
-Temiz beyaz bir gradyan arka plan üzerinde tamamen yarı saydam safir mavisi jöleden yapılmış kristal netliğinde bir yüzme havuzu. Aynı safir mavisi jöleden şekillendirilmiş oyuncu bir kedi, havuzun üzerinden zarif bir ağır çekim atlayış yapmadan önce jöle yüzeyinde çevik bir şekilde koşuyor. Her pati izi tatmin edici titremeler, esnek dalgalanmalar ve parlak jöle sıçramaları yaratıyor. Kedi yumuşak bir şekilde yere iniyor; vücudu ve kuyruğu gerçekçi jöle fiziğiyle esniyor. Kamera, parıldayan jöle yüzeyinin makro yakın çekimiyle başlıyor, koşu ve atlayış sırasında kediyi pürüzsüzce takip ediyor ve ardından tüm havuzu gösterecek şekilde yavaşça geri çekiliyor. Yumuşak stüdyo aydınlatması, yarı saydam dokuyu, parlak yansımaları ve gerçekçi yüzey altı ışık dağılımını vurguluyor. Ultra temiz, sanat yönetmenliği yapılmış yemek fotoğrafçılığı estetiği, büyüleyici ASMR görselleri, son derece gerçekçi jöle fiziği, sinematik, kesintisiz 10 saniyelik çekim.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071247391442001920/img/_JAqcbmD5Z_pM1k0.jpg" width="600" alt="Safir Mavisi Jöle Kedi Animasyonu">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2071247539161170223)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Yayınlandı:** Jun 28, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 75 burada gösterilmeyen daha fazla istem
+### 🎯 81 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2883,6 +3031,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-20T08:36:08.857Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-20T12:45:13.808Z</sub>
 
 </div>

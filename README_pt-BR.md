@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **175** |
+| 📝 Total de prompts | **181** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-08-20** |
 
@@ -56,6 +56,278 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Spot de Tipografia Cinética Suíça Bauhaus
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um roteiro preciso de tipografia cinética de 12 segundos seguindo os princípios de design da Bauhaus, com formas geométricas e layouts de grade rigorosos.
+
+#### 📝 Prompt
+
+```
+Crie um spot de tipografia cinética de 8 cortes em 16:9, 24fps, com exatamente 12s. Estilo: Bauhaus / Estilo Tipográfico Internacional — cores primárias planas (vermelho, amarelo, azul, preto, off-white), grade rigorosa, tipografia sem serifa geométrica.
+Este filme é composto por 90% de tipografia e formas geométricas em movimento, e 10% de texturas.
+CORTE 01 | 0,0-1,5s - Fundo off-white. A palavra "FORM" cai letra por letra em uma grade de linha de base, cada uma aterrissando com um pequeno salto.
+CORTE 02 | 1,5-3,0s - Um círculo vermelho entra pela esquerda e empurra o "M" para fora do quadro; "FOR—" permanece por um tempo.
+CORTE 03 | 3,0-4,5s - Corte seco: quadro totalmente amarelo, "FOLLOWS" empilhado verticalmente, letras deslizando em direções alternadas.
+CORTE 04 | 4,5-6,0s - Uma diagonal azul varre o quadro; "FUNCTION" posiciona-se na diagonal; a câmera rotaciona até que a leitura fique horizontal.
+CORTE 05 | 6,0-7,5s - As três palavras trocam de posição em uma grade rígida de 3 colunas, encaixando-se no ritmo.
+CORTE 06 | 7,5-9,0s - Todo o texto encolhe para uma textura de grade de 8pt; um quadrado preto aumenta de tamanho pelo centro.
+CORTE 07 | 9,0-10,5s - O quadrado se divide em uma composição Mondrian; uma palavra por campo de cor.
+CORTE 08 | 10,5-12,0s - Cartão final: "FORM FOLLOWS FUNCTION — 1919" alinhado no canto inferior esquerdo, o círculo vermelho como ponto final, manter estático.
+A tipografia deve ser totalmente legível antes que qualquer forma a sobreponha. As letras nunca devem distorcer ou derreter; o espaçamento (kerning) deve permanecer opticamente uniforme.
+Edição: cortes secos e movimentos rápidos sincronizados a 120bpm.
+Áudio: cliques eletrônicos minimalistas + pulso de baixo em cada corte.
+NÃO FAÇA: gradientes, sombras projetadas, extrusão 3D, fontes serifadas, letras derretidas, palavras adicionais.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Spot de Tipografia Cinética Suíça Bauhaus">
+
+**[🎬 Assistir vídeo →](https://x.com/EZheng66099/status/2090185695641968736)**
+
+**Autor:** [EZ](https://x.com/EZheng66099) | **Fonte:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Publicado:** Aug 19, 2026
+
+---
+### Introdução de Personagens de Anime Chinês
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma montagem dinâmica de 5 segundos de introdução de personagens de anime chinês em 2D, usando três imagens de referência, com campos de pintura a nanquim distintos e poses heroicas.
+
+#### 📝 Prompt
+
+```
+Crie uma montagem dinâmica de 5 segundos de introdução de personagens de anime chinês (guoman) em 2D usando as três imagens de referência fornecidas. IMPORTANTE: @Image1, @Image2 e @Image3 são três personagens completamente diferentes. Preserve o rosto, penteado, tom de pele, traje, tipo físico e acessórios exatos de cada personagem a partir de sua respectiva imagem de referência. Nunca mescle, transforme, misture ou troque suas identidades. Mostre apenas um personagem por vez. Recurso de fundo: cada personagem recebe um campo de cor de pintura a nanquim distinto (índigo / vermelhão / verde pinho) com partículas de pinceladas voadoras e um selo de nome carimbado no canto. CORTE 01 | 0,0-1,6s - @Image1 surge de um borrão de movimento rápido (whip-pan), pose heroica, rosto ocupando 40% da altura do quadro, campo de nanquim índigo, selo carimbado no canto superior direito. CORTE 02 | 1,6-3,2s - Corte seco. @Image2 entra deslizando em linhas de velocidade diagonais, campo vermelhão, selo carimbado à esquerda. CORTE 03 | 3,2-5,0s - Corte seco. @Image3 aterrissa vindo de cima com um quadro de impacto e tremor de tela, campo verde pinho; todos os três selos se alinham na parte inferior; segure o quadro final. Câmera: apenas aproximações rápidas (push-ins). Sem planos abertos de corpo inteiro; rostos devem ocupar de 35% a 50% da altura do quadro. Áudio: três batidas de percussão estilo taiko + efeitos sonoros de respingo de tinta em cada corte. NÃO FAÇA: transformação de identidade, dois personagens no mesmo quadro, redesign de trajes, estilo de quadrinhos ocidentais, qualquer texto legível além dos selos. Folha de personagem estilo donghua (guoman) chinês, retrato heroico do peito para cima de um jovem espadachim, 19 anos, olhos afiados e confiantes, longos cabelos pretos como nanquim presos no alto com um grampo de prata, vestes em camadas azul-índigo profundo com bordados sutis de padrão de nuvens, um pingente de jade na gola, sorriso sutil, rosto ocupa cerca de 40% do quadro, cel shading com detalhes sutis de textura de pintura a nanquim, arte de linha limpa e ousada, design de personagem com qualidade cinematográfica, fundo cinza-claro quente e simples, iluminação suave e uniforme --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Folha de personagem estilo donghua (guoman) chinês, retrato heroico do peito para cima de uma jovem heroína brincalhona, 17 anos, olhos âmbar brilhantes, penteado de coque duplo com fitas vermelhas e mechas soltas nas laterais, jaqueta marcial curta carmesim e branca com acabamento dourado, segurando um leque dobrável entreaberto perto do queixo, sorriso travesso, rosto ocupa cerca de 40% do quadro, cel shading com detalhes sutis de textura de pintura a nanquim, arte de linha limpa e ousada, design de personagem com qualidade cinematográfica, fundo cinza-claro quente e simples, iluminação suave e uniforme --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Folha de personagem estilo donghua (guoman) chinês, retrato heroico do peito para cima de um monge guerreiro gigante e gentil, 35 anos, ombros largos, cabeça raspada com barba rala, sobrancelhas grossas, sorriso caloroso e honesto, vestes de monge verde-musgo com um ombro à mostra, contas de oração de madeira ao redor do pescoço, pequena cicatriz na sobrancelha esquerda, rosto ocupa cerca de 40% do quadro, cel shading com detalhes sutis de textura de pintura a nanquim, arte de linha limpa e ousada, design de personagem com qualidade cinematográfica, fundo cinza-claro quente e simples, iluminação suave e uniforme --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090179877815128065/img/T9QKihnEdChkgmZM.jpg" width="600" alt="Introdução de Personagens de Anime Chinês">
+
+**[🎬 Assistir vídeo →](https://x.com/EZheng66099/status/2090180685902369163)**
+
+**Autor:** [EZ](https://x.com/EZheng66099) | **Fonte:** [Link](https://x.com/EZheng66099/status/2090180685902369163) | **Publicado:** Aug 19, 2026
+
+---
+### Motion Graphics para Cerimônia de Chá Chinesa Moderna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um vídeo de motion graphics de 15 segundos para uma cerimônia de chá chinesa, mesclando texturas de pintura a nanquim com design minimalista moderno.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo de motion graphics de 12 cortes em 16:9, 24fps, com exatamente 15s. Tema: cerimônia de chá chinesa, design oriental moderno.
+Este filme consiste em 80% de design gráfico arrojado em movimento e 20% de ação de objetos.
+Paleta: preto nanquim, branco papel de arroz, vermelho vermelhão, dourado suave. Estilo: minimalismo chinês moderno — texturas de pintura a nanquim encontram formas geométricas planas; carimbos de selo vermelho são o dispositivo de transição.
+CORTE 01 | 0.0-1.2s - Vazio branco. Um único caractere chinês gigante 「茶」 é formado por pinceladas, com a tinta sangrando nas bordas.
+CORTE 02 | 1.2-2.4s - Corte seco: um círculo vermelho vermelhão expande-se do centro; o caractere atravessa-o em branco.
+CORTE 03 | 2.4-3.6s - Xícara de chá vista de cima sobre fundo preto; o vapor sobe e se transforma em fitas de tinta fluídas.
+CORTE 04 | 3.6-5.0s - Fitas de tinta se encaixam em uma fileira horizontal de folhas de chá geométricas deslizando para a esquerda no ritmo.
+CORTE 05 | 5.0-6.2s - 「静」 gigante em dourado suave sobre fundo preto; zoom rápido no traço final do pincel.
+CORTE 06 | 6.2-7.6s - Silhueta de bule servindo chá; a linha do líquido torna-se uma diagonal vermelha dividindo o quadro.
+CORTE 07 | 7.6-9.0s - Quadro dividido: montanhas de tinta à esquerda, vermelho plano à direita; uma xícara de chá branca desliza ao longo da divisão.
+CORTE 08 | 9.0-10.4s - Um carimbo de selo vermelho bate com força com tremor de quadro, revelando 「回甘」 em branco dentro do selo.
+CORTE 09 | 10.4-11.8s - Alternância rápida: três folhas de chá, três formas geométricas, no ritmo.
+CORTE 10 | 11.8-13.0s - Todos os elementos colapsam em um círculo de tinta giratório.
+CORTE 11 | 13.0-14.0s - O círculo se resolve na xícara de chá; uma gota cai; ondulação em câmera lenta.
+CORTE 12 | 14.0-15.0s - Cartão final: 「茶」 grande, pequeno texto em inglês "TEA — est. in stillness" abaixo, selo vermelho no canto inferior direito, manter.
+Regra de tipografia: cada caractere deve ser totalmente legível por pelo menos 12 quadros antes que qualquer coisa o sobreponha. Use o mínimo possível de caracteres chineses, apenas em tamanho grande.
+Edição: cortes secos no ritmo, correspondências gráficas, zooms rápidos, transições de respingo de tinta.
+Áudio: dedilhado de guzheng + percussão moderna; efeitos sonoros sincronizados com os cortes (som de pincel, batida de selo, gota de água).
+NÃO FAÇA: glifos extras, hanzi com erros ortográficos ou deformados, gradientes de arco-íris, texto com relevo 3D, filmagens fotorrealistas, caracteres adicionais.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090160008281415681/img/9P04j3027KBHFiU0.jpg" width="600" alt="Motion Graphics para Cerimônia de Chá Chinesa Moderna">
+
+**[🎬 Assistir vídeo →](https://x.com/EZheng66099/status/2090160829534511425)**
+
+**Autor:** [EZ](https://x.com/EZheng66099) | **Fonte:** [Link](https://x.com/EZheng66099/status/2090160829534511425) | **Publicado:** Aug 19, 2026
+
+---
+### Storyboard Comercial de Mel Orgânico Premium
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de storyboard cinematográfico abrangente para um comercial de mel orgânico de luxo. Detalha oito cenas distintas apresentando fotografia macro de texturas de mel, física de líquidos em câmera lenta e elementos de branding elegantes.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Storyboard para Comercial de Produto de Mel Orgânico Premium
+
+FORMATO:
+• Storyboard premium de página única
+• Proporção 3:4 vertical
+• Campanha de produto alimentício de luxo
+• 8 cenas de storyboard cinematográfico
+• O produto permanece como o protagonista visual
+• Apresentação de agência de publicidade premium
+
+CABEÇALHO:
+• Tipografia serifada elegante
+• Cartões de informação:
+  - Duração: 20 Segundos
+  - Estilo: Comercial de Alimentos Naturais de Luxo
+  - Produto: Mel Orgânico
+  - Áudio: ASMR suave da natureza
+• Seção "Por que este estilo funciona"
+• Estética em tons de creme, âmbar e dourado
+• Detalhes decorativos minimalistas de favo de mel
+
+STORYBOARD:
+1. Pote de mel premium sobre uma superfície de madeira quente
+2. Tampa do pote abrindo lentamente em close-up macro
+3. Mel dourado sendo levantado com um pegador de mel de madeira
+4. Mel fluindo em um fluxo sedoso extremamente lento
+5. Tomada macro da textura do mel e reflexos naturais
+6. Mel escorrendo sobre uma torrada quente
+7. Pote de mel cercado por favos e ingredientes frescos
+8. Packshot final de luxo com splash de mel dourado
+
+CADA PAINEL:
+• Número da cena
+• Selo de duração
+• Direção de câmera
+• Visual
+• Ação
+• Detalhe do produto
+
+CÂMERA:
+Macro extremo, fotografia de líquidos em câmera lenta, movimento de aproximação (push-in) controlado, composição de cima para baixo (top-down), profundidade de campo rasa, tomada cinematográfica de destaque.
+
+ESTILO:
+Textura de mel ultra-realista, física de líquidos realista, iluminação natural quente, fotografia de alimentos premium, pote de vidro brilhante, reflexos elegantes, branding orgânico de luxo, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787217318219_jdlgsg_HQF19kdacAATv1I.jpg" width="600" alt="Storyboard Comercial de Mel Orgânico Premium">
+
+**[🎬 Assistir vídeo →](https://x.com/Strength04_X/status/2090081415924982038)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2090081415924982038) | **Publicado:** Aug 19, 2026
+
+---
+### Storyboard para Comercial de Macarrão Instantâneo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de storyboard para um anúncio de comida energético de macarrão instantâneo. Descreve oito cenas de alto impacto, incluindo o puxar do macarrão, closes macro de textura e efeitos de vapor cinematográficos com iluminação de estúdio profissional.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Storyboard para Comercial de Produto de Macarrão Instantâneo Premium
+
+FORMATO:
+• Storyboard premium de página única
+• Proporção 3:4 vertical
+• Anúncio de comida de alta energia
+• 8 cenas cinematográficas do produto
+• Apresentação comercial focada no produto
+
+CABEÇALHO:
+• Tipografia moderna e em negrito
+• Cartões de informação:
+  - Duração: 20 segundos
+  - Estilo: Anúncio de comida cinematográfico
+  - Produto: Macarrão instantâneo
+  - Áudio: ASMR de cozimento + Batida energética
+• Seção "Por que este estilo funciona"
+• Detalhes em amarelo quente e vermelho
+
+STORYBOARD:
+1. Pacote de macarrão instantâneo em pé com iluminação dramática
+2. Pacote sendo aberto e o macarrão deslizando para uma tigela
+3. Água fervente sendo despejada sobre o macarrão
+4. Macarrão cozinhando com vapor realista subindo
+5. Tempero em pó sendo adicionado
+6. Hashis levantando o macarrão perfeitamente cozido
+7. Close macro extremo do macarrão brilhante com acompanhamentos
+8. Tigela final (hero shot) ao lado do pacote original do produto
+
+CADA PAINEL:
+• Número da cena
+• Selo de duração
+• Visual
+• Ação
+• Direção de câmera
+• Detalhe do produto
+
+CÂMERA:
+Fotografia macro de alimentos, composição aérea, close-up de vapor, plano de puxar o macarrão, zoom dramático no produto, enquadramento cinematográfico de destaque.
+
+ESTILO:
+Comercial de comida ultrarrealista, vapor realista, textura detalhada do macarrão, caldo brilhante, ingredientes vibrantes, iluminação de estúdio profissional, embalagem premium, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787217318961_wpvccr_HQE90xdaYAA8DRm.jpg" width="600" alt="Storyboard para Comercial de Macarrão Instantâneo">
+
+**[🎬 Assistir vídeo →](https://x.com/Strength04_X/status/2090019696779387173)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2090019696779387173) | **Publicado:** Aug 19, 2026
+
+---
+### Storyboard para Comercial de Ketchup de Luxo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de storyboard cinematográfico e detalhado para um comercial de alimentos premium, com foco em closes macro e estética publicitária profissional para revelação de produtos.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Storyboard para Comercial de Produto de Ketchup de Tomate Premium
+
+FORMATO:
+• Storyboard premium de página única
+• Proporção retrato 3:4
+• Anúncio de produto alimentício de luxo
+• 8 cenas de storyboard cinematográficas
+• Apresentação premium e clean
+
+CABEÇALHO:
+• Tipografia editorial em negrito
+• Cartões de informações:
+  - Duração: 20 segundos
+  - Estilo: Comercial de Alimentos Premium
+  - Produto: Ketchup de Tomate
+  - Áudio: ASMR de Alimentos Frescos
+• Seção "Por que este estilo funciona"
+• Estética em vermelho, branco e creme
+
+STORYBOARD:
+1. Garrafa de ketchup sobre uma superfície branca limpa
+2. Close macro da tampa da garrafa abrindo
+3. Ketchup espesso escorrendo da garrafa
+4. Ketchup formando uma espiral brilhante perfeita
+5. Macro extremo mostrando a textura rica do tomate
+6. Ketchup sendo servido ao lado de batatas fritas crocantes
+7. Garrafa cercada por tomates frescos e ingredientes do produto
+8. Garrafa hero final com reflexo brilhante e respingo de ketchup
+
+CADA PAINEL:
+• Número da cena
+• Selo de duração
+• Direção de câmera
+• Visual
+• Ação
+• Detalhe do produto
+
+CÂMERA:
+Macro extremo, slow push-in do produto, tomada de cima para baixo (top-down), perfil lateral, fotografia de respingo controlada, packshot premium.
+
+ESTILO: Fotografia de alimentos ultrarrealista, textura de ketchup brilhante, física de líquidos realista, tomates frescos, iluminação de estúdio limpa, publicidade comercial premium, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787217321758_98zrwb_HQAvvJHWUAAx3pk.jpg" width="600" alt="Storyboard para Comercial de Ketchup de Luxo">
+
+**[🎬 Assistir vídeo →](https://x.com/Strength04_X/status/2089722733156266079)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2089722733156266079) | **Publicado:** Aug 18, 2026
+
+---
 ### Deusa protegendo o planeta de gelo
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2737,137 +3009,13 @@ Crie uma montagem de vlog de viagem cinematográfico de 10 segundos. Em todas as
 **Autor:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Fonte:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Publicado:** Jul 2, 2026
 
 ---
-### Batalha na Cidade: Preguiça Gigante vs Godzilla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico altamente detalhado apresentando uma preguiça do tamanho de uma montanha derrotando acidentalmente um monstro elefante-Godzilla com física de comédia pastelão.
-
-#### 📝 Prompt
-
-```
-Uma preguiça gigantesca e lenta, com a altura de uma montanha, está pendurada em um arranha-céu, bocejando de forma massiva. Um furioso monstro elefante-Godzilla caminha em sua direção cuspindo pequenos raios. A preguiça estende preguiçosamente uma garra e, acidentalmente, arremessa o monstro a quilômetros de distância sem nenhum esforço. A preguiça dá de ombros e volta a dormir no prédio. Contraste absurdo de velocidade, física de comédia pastelão, impactos em câmera lenta bem-humorados, destruição urbana vibrante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Batalha na Cidade: Preguiça Gigante vs Godzilla">
-
-**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2072542482857099759)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Publicado:** Jul 2, 2026
-
----
-### Vídeo de Garota Pahadi em uma Manhã no Himalaia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de storyboard cinematográfico para um vídeo de 10 segundos retratando uma jovem com ovelhas nas montanhas nebulosas do Himalaia, apresentando vários tipos de enquadramento e sons ambientes.
-
-#### 📝 Prompt
-
-```
-Título da Cena: Garota Pahadi com Ovelhas — Manhã no Himalaia
-[0s–2s]
-Plano geral de estabelecimento: Uma jovem indiana da região serrana, de porte esguio, com cerca de 22 anos, caminhando suavemente por uma trilha estreita na montanha. Ela veste um traje tradicional pahadi (xale de lã macia, kurta simples, brincos jhumka de prata), com o dupatta esvoaçando levemente ao vento. Montanhas verdes nebulosas e pinheiros ao fundo. Luz solar natural da manhã, tom dourado suave.
-[2s–4s]
-Plano médio: Ela caminha ao lado de um pequeno rebanho de ovelhas, com a mão apoiada suavemente em um cajado de madeira. Sua expressão é calma, calorosa e satisfeita — um sorriso suave, olhos que refletem uma inocência amante da natureza. O vento move seu cabelo naturalmente.
-[4s–6s]
-Close-up: Seu rosto sob luz natural suave — traços bonitos e elegantes, visual sem maquiagem, pele radiante. Ela olha com carinho para as ovelhas, rindo baixinho enquanto uma delas cutuca sua perna. Som ambiente natural: pássaros cantando, sinos de ovelhas distantes (ghungroo), vento farfalhando.
-[6s–8s]
-Plano de acompanhamento (tracking shot) por trás: Ela caminha mais para cima em uma encosta gramada, com as ovelhas atrás dela, o dupatta fluindo, silhueta emoldurada contra os picos do Himalaia em camadas e nuvens à deriva.
-[8s–10s]
-Plano geral final: Ela para na beira de um penhasco, olhando para o vale, com as ovelhas pastando calmamente ao seu redor. Som de vento suave, sino de templo distante ou flauta ao fundo que aumenta gradualmente. Congela em sua expressão pacífica e serena enquanto a cena desaparece em uma vinheta suave.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Vídeo de Garota Pahadi em uma Manhã no Himalaia">
-
-**[🎬 Assistir vídeo →](https://x.com/b275511/status/2072308089056084456)**
-
-**Autor:** [TheAIDev](https://x.com/b275511) | **Fonte:** [Link](https://x.com/b275511/status/2072308089056084456) | **Publicado:** Jul 1, 2026
-
----
-### Vídeo de gatinho Maine Coon no jardim
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt altamente detalhado para gerar um vídeo realista de um gatinho Maine Coon fofo observando esquilos em um jardim durante a hora dourada, apresentando movimento natural e som ambiente.
-
-#### 📝 Prompt
-
-```
-Um gatinho Maine Coon laranja e fofo, com grandes olhos verdes e orelhas com tufos, está sentado na borda de um deck de madeira com vista para um jardim exuberante durante a hora dourada. Em primeiro plano, vários esquilos cinzentos brincalhões perseguem uns aos outros, sobem em árvores e mordiscam bolotas caídas. As orelhas do gatinho se levantam, a cauda balança com entusiasmo, a cabeça inclina-se curiosamente de um lado para o outro, e ele emite miados suaves e pequenos saltos em direção ao parapeito de vidro enquanto observa os esquilos. Estilo de vídeo realista feito com smartphone, movimento natural do pelo na brisa, profundidade de campo rasa com um belo efeito bokeh nas árvores e flores ao fundo, luz quente do pôr do sol, vento suave farfalhando as folhas, pássaros cantando e o som distante dos esquilos para um áudio ambiente imersivo. Altamente detalhado, comportamento animal realista.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072290295488905217/img/PcxzWxPGGJR2Q8Hk.jpg" width="600" alt="Vídeo de gatinho Maine Coon no jardim">
-
-**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2072290764441465218)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2072290764441465218) | **Publicado:** Jul 1, 2026
-
----
-### Vídeo Macro de Memórias Nostálgicas da Infância
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico altamente detalhado para o Gemini Omni que visualiza memórias de infância como partículas douradas brilhantes emergindo de uma chave de brinquedo vintage giratória.
-
-#### 📝 Prompt
-
-```
-Fundo preto puro. Close-up macro cinematográfico estático de uma chave de brinquedo de corda antiga e enferrujada girando lentamente sozinha sobre uma superfície brilhante. À medida que gira, milhares de pequenas partículas brilhantes fluem da chave, formando memórias de infância em miniatura — um barco de papel flutuando na água da chuva, um pião, uma pipa voando no céu, uma carteira escolar de madeira, uma televisão CRT antiga e um trem de brinquedo circulando-os. Tudo se monta naturalmente a partir das partículas brilhantes com um movimento mágico e suave. Luz dourada quente, brilho volumétrico suave, atmosfera nostálgica e sonhadora, física de partículas realista, profundidade de campo cinematográfica, qualidade cinematográfica de ultra-alta definição. O quadro final permanece estático na cena completa do mundo da infância em miniatura. 10 segundos, 16:9, 24fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071504130334691328/img/jOu7q6raSCE6KcNR.jpg" width="600" alt="Vídeo Macro de Memórias Nostálgicas da Infância">
-
-**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2071504297716822456)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2071504297716822456) | **Publicado:** Jun 29, 2026
-
----
-### Animação em Stop-Motion de Bordado de Dragão
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado de animação em stop-motion mostrando um bordado de dragão sendo feito sozinho em um tecido de algodão amarelo, com detalhes táteis de linha.
-
-#### 📝 Prompt
-
-```
-Animação em stop-motion de um bordado sendo feito sozinho em um tecido de algodão amarelo. A ilustração de um dragão poderoso preso atrás de pesadas grades de ferro de uma prisão se costura até ganhar vida, usando pontos de cetim curtos que se acumulam quadro a quadro. O fio tátil em relevo, com fios individuais, captura a luz do dia suave e difusa à medida que as linhas se formam progressivamente. Conforme o dragão toma forma, chamas carmesim vívidas, espirais de fumaça escura e desenhos de correntes pesadas se costuram ao redor dele para emoldurar o objeto. O texto bordado "Release Claude Fable 5" é costurado no espaço vazio em uma fonte ousada e nítida. Cadência de stop-motion levemente trêmula, com cada ponto apertando e travando na textura do algodão tecido. Sem mãos, sem agulha, sem bastidor, sem carretel, apenas o tecido e os fios se formando sozinhos. Plano macro de cima para baixo. Áudio diegético suave de tecido roçando e leves batidas de linha.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071272244224151552/img/xLsuFaQkWtWvxebs.jpg" width="600" alt="Animação em Stop-Motion de Bordado de Dragão">
-
-**[🎬 Assistir vídeo →](https://x.com/HarshithLucky3/status/2071272516379943218)**
-
-**Autor:** [Harshith](https://x.com/HarshithLucky3) | **Fonte:** [Link](https://x.com/HarshithLucky3/status/2071272516379943218) | **Publicado:** Jun 28, 2026
-
----
-### Animação de Gato de Gelatina Azul Safira
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico para gerar uma animação de alta qualidade de um gato esculpido em gelatina saltando sobre uma piscina de gelatina, com física realista e rastreamento de câmera macro.
-
-#### 📝 Prompt
-
-```
-Uma piscina cristalina feita inteiramente de gelatina azul safira translúcida sobre um fundo com degradê branco limpo. Um gato brincalhão esculpido na mesma gelatina azul safira corre graciosamente pela superfície da gelatina antes de dar um elegante salto em câmera lenta sobre a piscina. Cada passo cria oscilações satisfatórias, ondulações elásticas e respingos de gelatina brilhantes. O gato aterrissa suavemente, com seu corpo e cauda balançando com física de gelatina realista. A câmera começa com um close-up macro da superfície cintilante da gelatina, acompanha suavemente o gato durante a corrida e o salto, e então se afasta gentilmente para revelar a piscina inteira. A iluminação suave de estúdio realça a textura translúcida, os reflexos brilhantes e o espalhamento subsuperficial realista. Estética de fotografia de alimentos com direção de arte ultra limpa, visuais ASMR hipnotizantes, física de gelatina altamente realista, cinematográfico, tomada contínua de 10 segundos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2071247391442001920/img/_JAqcbmD5Z_pM1k0.jpg" width="600" alt="Animação de Gato de Gelatina Azul Safira">
-
-**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2071247539161170223)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2071247539161170223) | **Publicado:** Jun 28, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 75 mais prompts não mostrados aqui
+### 🎯 81 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2913,6 +3061,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-20T08:36:06.778Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-20T12:45:11.781Z</sub>
 
 </div>
