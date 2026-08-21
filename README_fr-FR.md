@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **179** |
+| 📝 Total des prompts | **183** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-08-21** |
 
@@ -56,6 +56,111 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Timelapse de la construction d'une plateforme d'observation sur falaise
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt de génération vidéo cinématique pour une séquence en accéléré montrant la construction d'une plateforme d'observation en verre à flanc de falaise, mettant en avant la précision de la structure métallique, le soudage et l'achèvement final.
+
+#### 📝 Prompt
+
+```
+Commencer par le chantier de construction de la structure métallique sur la falaise → des mains humaines réalistes et géantes installent progressivement des ancrages, des poutres en porte-à-faux, des étincelles de soudure et des panneaux de sol en verre → finaliser la plateforme d'observation de luxe → des touristes miniatures marchent sur le sol transparent pour surplomber le canyon et prendre des photos, avec la brume de montagne qui s'écoule lentement. Maintenir le même environnement montagneux tout au long, éclairage chaud d'après-midi, esthétique d'ingénierie miniature cinématique, avec un travelling avant lent de la caméra + un léger panoramique horizontal.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090671965375967232/img/hZUA9IStcund8AZq.jpg" width="600" alt="Timelapse de la construction d'une plateforme d'observation sur falaise">
+
+**[🎬 Voir la vidéo →](https://x.com/XiaoKooeye/status/2090673511899820355)**
+
+**Auteur:** [Xiao Yang](https://x.com/XiaoKooeye) | **Source:** [Link](https://x.com/XiaoKooeye/status/2090673511899820355) | **Publié:** Aug 21, 2026
+
+---
+### Vidéo produit UGC pour ventilateur portable
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complet pour générer une vidéo produit verticale de style UGC pour un ventilateur portable, incluant le déballage, des détails macro et des démonstrations fonctionnelles, avec un accent sur les sons ASMR et les textures réalistes.
+
+#### 📝 Prompt
+
+```
+Film produit vertical de style UGC, mettant en avant le ventilateur portable AERIO. Ventilateur noir compact, corps en plastique mat, grille avant arrondie, poignée de transport aspect cuir, petit panneau de contrôle avec trois boutons. Séquence de déballage et de démonstration, lumière naturelle douce, faible profondeur de champ, détails macro sur les textures et les mécanismes.
+Scènes :
+Gros plan macro, les mains tiennent la boîte AERIO, emballage noir avec un petit logo. La caméra se rapproche. Texture du carton visible, fine et fibreuse. Léger frottement des doigts sur la surface.
+Vue de dessus. Les mains ouvrent la boîte, sortent le ventilateur AERIO de l'emballage. Le plastique de protection se froisse. Le rabat en carton se sépare avec un léger déchirement.
+Vue à plat sur une table en bois. Contenu complet disposé : le ventilateur, le câble USB enroulé, les petits accessoires, le manuel d'instruction. Le bout des doigts tapote chaque élément une fois.
+Gros plan extrême sur la grille avant et le panneau de contrôle. Motif de la maille net. Le bout des doigts tapote chacun des trois boutons à tour de rôle, plastique mat sous le toucher.
+Gros plan sur la poignée de transport, texture aspect cuir, couture visible. La main saisit et soulève légèrement le ventilateur, poids robuste dans le mouvement.
+Gros plan en vue de dessus sur l'ouverture du réservoir d'eau. L'eau coule en un flux régulier, le réservoir se remplit, petite ondulation là où elle rencontre la surface.
+Gros plan macro, le bout du doigt appuie sur le bouton de contrôle. Clic mécanique doux. Les pales commencent à tourner, la vitesse augmente, le son du moteur monte.
+Gros plan, le ventilateur fonctionne en mode brumisation. Une fine brume s'échappe des évents, captant la lumière, les pales tournant régulièrement derrière.
+Angle latéral, réglage de vitesse plus élevé. Un mouchoir fin tenu devant l'évent se soulève et ondule. La vitesse passe par trois niveaux, le mouvement du mouchoir s'intensifiant à chaque fois.
+Plan lifestyle moyen. Le ventilateur posé sur une table à côté d'un canapé, salon moderne, placement naturel au quotidien.
+Plan héroïque. Le ventilateur centré sur une table minimaliste, petite plante légèrement floue en arrière-plan, logo AERIO visible sur le corps. La caméra s'approche doucement, se stabilisant sur un cadre final épuré.
+Matériaux : Boîte — carton noir mat, texture fibre fine. Corps du ventilateur — plastique noir mat, points de préhension texturés. Poignée — aspect cuir, cousue. Eau — claire, petites ondulations et légères éclaboussures. Brume — fine, visible, captant la lumière.
+Audio : Sons de produit ASMR uniquement — texture du carton, froissement du plastique, tapotements du bout des doigts, clic de bouton, flux d'eau, bourdonnement du moteur, flux d'air et brume.
+Cohérence : Même design noir, motif de grille, poignée et emplacement du logo dans chaque scène. Les mains bougent naturellement, de manière délibérée et stable. L'éclairage reste uniforme d'une scène à l'autre.
+Aspect : Lumière du jour naturelle, douce et uniforme. Faible profondeur de champ, détails macro nets. Texture de peau réaliste sur les mains. Arrière-plans minimalistes et propres. Sensation de vidéo UGC filmée à la main fluide. Format vertical 9:16, 10 secondes.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787301553513_y4j1qm_HQMIY6JacAAlIZB.jpg" width="600" alt="Vidéo produit UGC pour ventilateur portable">
+
+**[🎬 Voir la vidéo →](https://x.com/ritesh_ai/status/2090523913583476858)**
+
+**Auteur:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Source:** [Link](https://x.com/ritesh_ai/status/2090523913583476858) | **Publié:** Aug 20, 2026
+
+---
+### Scène de rue dans une ville steampunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo détaillé pour une ville steampunk victorienne animée, mettant en scène des dirigeables, des rues pavées et une lumière chaude d'heure dorée.
+
+#### 📝 Prompt
+
+```
+Une scène de rue animée dans une ville steampunk. Architecture victorienne ornée avec des tuyaux en laiton et des engrenages. Des dirigeables aux designs complexes flottent au-dessus. Des personnes en tenues steampunk élaborées marchent sur les rues pavées. Des bouches d'aération laissent échapper des panaches de vapeur blanche. Lumière chaude d'heure dorée, très détaillé, photoréaliste.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090467779656957952/img/DGTiXxoy0wFih11p.jpg" width="600" alt="Scène de rue dans une ville steampunk">
+
+**[🎬 Voir la vidéo →](https://x.com/RiaZumu39304591/status/2090468195065045026)**
+
+**Auteur:** [愛かM‌uμ](https://x.com/RiaZumu39304591) | **Source:** [Link](https://x.com/RiaZumu39304591/status/2090468195065045026) | **Publié:** Aug 20, 2026
+
+---
+### Spot de typographie cinétique style Bauhaus suisse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un script de typographie cinétique précis de 12 secondes suivant les principes du design Bauhaus avec des formes géométriques et des mises en page sur grille stricte.
+
+#### 📝 Prompt
+
+```
+Créez un spot de typographie cinétique en 8 plans, format 16:9, 24 fps, durée exacte de 12 s. Style : Bauhaus / Style typographique international — couleurs primaires plates (rouge, jaune, bleu, noir, blanc cassé), grille stricte, police sans-serif géométrique.
+Ce film est composé à 90 % de typographie et de formes géométriques en mouvement, et à 10 % d'accents texturés.
+PLAN 01 | 0,0-1,5 s - Fond blanc cassé. Le mot « FORM » tombe lettre par lettre sur une grille de base, chaque lettre atterrissant avec un léger rebond.
+PLAN 02 | 1,5-3,0 s - Un cercle rouge entre par la gauche et éjecte le « M » du cadre ; « FOR— » reste affiché pendant un temps.
+PLAN 03 | 3,0-4,5 s - Coupe franche : cadre entièrement jaune, « FOLLOWS » empilé verticalement, les lettres glissant dans des directions alternées.
+PLAN 04 | 4,5-6,0 s - Une diagonale bleue balaie le cadre ; « FUNCTION » se place sur la diagonale ; la caméra pivote jusqu'à ce que le texte soit horizontal.
+PLAN 05 | 6,0-7,5 s - Les trois mots échangent leurs positions sur une grille stricte à 3 colonnes, en s'alignant sur le rythme.
+PLAN 06 | 7,5-9,0 s - Tout le texte rétrécit pour former une texture de grille 8pt ; un carré noir s'agrandit au centre.
+PLAN 07 | 9,0-10,5 s - Le carré se divise en une composition façon Mondrian ; un mot par champ de couleur.
+PLAN 08 | 10,5-12,0 s - Carton de fin : « FORM FOLLOWS FUNCTION — 1919 » aligné en bas à gauche, le cercle rouge servant de point final, maintien de l'image.
+La typographie doit être parfaitement lisible avant que toute forme ne la recouvre. Les lettres ne doivent jamais être déformées ou fondues ; le crénage doit rester optiquement uniforme.
+Montage : coupes franches et mouvements secs calés sur 120 bpm.
+Audio : clics électroniques minimalistes + pulsation de basse à chaque coupe.
+À NE PAS FAIRE : dégradés, ombres portées, extrusion 3D, polices serif, lettres fondues, ajout de mots.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Spot de typographie cinétique style Bauhaus suisse">
+
+**[🎬 Voir la vidéo →](https://x.com/EZheng66099/status/2090185695641968736)**
+
+**Auteur:** [EZ](https://x.com/EZheng66099) | **Source:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Publié:** Aug 19, 2026
+
+---
 ### Motion design pour une cérémonie du thé chinoise moderne
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2916,99 +3021,13 @@ Une vue de dessus de mains tapant sur un clavier mécanique. De fines vignes ver
 **Auteur:** [Neurain](https://x.com/NeurainX) | **Source:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Publié:** Jul 2, 2026
 
 ---
-### Scène de parc avec un pigeon qui parle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo surréaliste et cinématographique mettant en scène une femme âgée dans un parc dont le pigeon se met soudainement à lui parler.
-
-#### 📝 Prompt
-
-```
-Une vidéo réaliste et cinématographique de 10 secondes montrant une douce femme âgée aux cheveux gris assise sur un banc en bois dans un parc local ensoleillé, émiettant du pain sec et le jetant à une petite volée de pigeons à ses pieds. La caméra descend en panoramique vers un gros plan sur un pigeon gris spécifique. Le pigeon regarde directement la femme, son bec bougeant de manière réaliste alors qu'il s'exprime d'une voix polie : « Auriez-vous l'amabilité de nous apporter quelques beignets demain, s'il vous plaît ? » La caméra revient sur le visage de la femme, montrant son expression de choc total et de stupéfaction. Éclairage naturel, faible profondeur de champ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072681494816976896/img/THpOjpflO5_b9BE-.jpg" width="600" alt="Scène de parc avec un pigeon qui parle">
-
-**[🎬 Voir la vidéo →](https://x.com/michaelrabone/status/2072681730423521364)**
-
-**Auteur:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2072681730423521364) | **Publié:** Jul 2, 2026
-
----
-### Montage de vlog de voyage à Tokyo filmé au smartphone
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de génération vidéo complet pour un vlog de voyage de 10 secondes à Tokyo, mettant en scène une créatrice constante, des artefacts de caméra réalistes et des interactions naturelles dans des lieux emblématiques.
-
-#### 📝 Prompt
-
-```
-Créez un montage de vlog de voyage cinématographique de 10 secondes. Dans chaque plan, utilisez systématiquement le visage féminin téléchargé. Il s'agit d'une superbe jeune créatrice de voyage aux longs cheveux bruns ondulés et à la frange bouclée, portant un streetwear japonais oversize élégant (longue veste en cuir bordeaux, sac à bandoulière), avec un maquillage naturel et une personnalité vive et enjouée. L'ensemble de la vidéo doit donner l'impression d'avoir été filmé avec un smartphone, incluant des mouvements de caméra à la main, un cadrage imparfait, des reflets d'objectif accidentels, un léger flou de mouvement, un effet de rolling shutter, un bruit ISO élevé la nuit, une mise au point automatique hésitante, des hautes lumières surexposées, une légère distorsion en barillet typique de l'objectif grand angle d'un téléphone, de minuscules traces sur l'objectif et un tremblement naturel de la caméra. Évitez un style commercial trop léché. Déroulement de l'histoire (10 secondes) 0,0–0,8s Selfie en contre-plongée devant la Tokyo Tower. Elle sourit naturellement en ajustant le téléphone. L'horizon est légèrement incliné. Ciel nuageux très lumineux et surexposé. Minuscule trace de doigt sur l'objectif. 0,8–1,6s Marche à travers le carrefour de Shibuya la nuit. Elle regarde vers la caméra en marchant. Reflets des néons sur les routes mouillées. Fort flou de mouvement. Transition rapide par coup de fouet (whip pan). 1,6–2,4s À l'intérieur d'un konbini japonais. Elle tient un onigiri près de la caméra. Hausse les sourcils de manière mignonne et joueuse. Éclairage fluorescent cru. Étagères en arrière-plan légèrement floutées. 2,4–3,2s Assise seule dans le parc Yoyogi. Un moment calme et authentique. Elle détourne le regard de la caméra. Douce lumière du soleil filtrant à travers les arbres. Léger défaut de mise au point. 3,2–4,0s Dégustation de takoyaki fraîchement préparés. Réaction immédiate après la première bouchée. Éclairage chaud des lanternes. Visage légèrement flou dû au mouvement. Rire naturel. 4,0–4,8s Debout devant un distributeur automatique lumineux. Reflets bleus et roses sur son visage. Elle appuie nonchalamment sur un bouton pour choisir une boisson. Bruit de grain nocturne visible. 4,8–5,6s Reflet dans la vitre d'un train à Tokyo. Superposition des lumières de la ville sur le verre. Elle regarde pensivement par la fenêtre. Le mouvement du train crée des traînées lumineuses. 5,6–6,4s Marche sous les portiques Torii. Plan de suivi en contre-plongée par derrière. Bref coup d'œil en arrière. Flou de mouvement. Halo lumineux provenant du ciel. 6,4–7,2s Exposition d'art numérique immersive. Lumières bleues, violettes et dorées se déplaçant sur son visage. Elle regarde vers le haut avec émerveillement. Bruit naturel de basse lumière. 7,2–8,0s Plan grand angle en contre-plongée à côté d'une sculpture géante en forme de balle argentée. Elle semble petite sous la sculpture. Distorsion de l'objectif du téléphone. Ciel légèrement surexposé. 8,0–8,8s Marche dans une ruelle éclairée par des lanternes. La caméra suit par derrière. Elle se retourne et sourit. Lueur chaude des lanternes. Bruit de grain nocturne naturel. 8,8–10,0s Selfie sur un toit surplombant les gratte-ciel de Tokyo. Le vent souffle ses cheveux sur l'objectif. Horizon légèrement incliné. Lumières de la ville surexposées. Elle rit naturellement en tendant le bras vers l'horizon. Style de montage * Transitions rapides par coup de fouet (whip pan) * Speed ramping * Match cuts * Jump cuts naturels * Mouvements de caméra à la main * Léger effet de rolling shutter * Exposition HDR typique des smartphones * Énergie authentique de vlog de voyage * Pas de ralenti * Pas d'étalonnage cinématographique * Esthétique authentique de créateur TikTok * Tons de peau chauds * Réalisme élevé * Identité faciale constante dans chaque scène * 16:9 paysage, 16:9
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072614460746080256/img/H_BX2Tgbu6m2vVFV.jpg" width="600" alt="Montage de vlog de voyage à Tokyo filmé au smartphone">
-
-**[🎬 Voir la vidéo →](https://x.com/xzjken/status/2072615060632228239)**
-
-**Auteur:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Source:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Publié:** Jul 2, 2026
-
----
-### Bataille urbaine : Paresseux géant contre Godzilla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique ultra-détaillé mettant en scène un paresseux de la taille d'une montagne qui terrasse accidentellement un monstre éléphant-Godzilla grâce à une physique burlesque.
-
-#### 📝 Prompt
-
-```
-Un paresseux gigantesque et lent, haut comme une montagne, est suspendu à un gratte-ciel et bâille bruyamment. Un monstre éléphant-Godzilla furieux piétine en direction de l'immeuble en crachant de minuscules éclairs. Le paresseux tend paresseusement une griffe et propulse accidentellement le monstre à des kilomètres sans le moindre effort. Le paresseux hausse les épaules et se rendort sur le bâtiment. Contraste absurde de vitesse, physique burlesque, impacts humoristiques au ralenti, destruction urbaine vibrante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Bataille urbaine : Paresseux géant contre Godzilla">
-
-**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2072542482857099759)**
-
-**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Publié:** Jul 2, 2026
-
----
-### Vidéo d'une jeune fille Pahadi dans la matinée himalayenne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de storyboard cinématographique pour une vidéo de 10 secondes représentant une jeune fille avec des moutons dans les montagnes brumeuses de l'Himalaya, incluant divers types de plans et des sons d'ambiance.
-
-#### 📝 Prompt
-
-```
-Titre de la scène : Jeune fille Pahadi avec ses moutons — Matinée himalayenne
-[0s–2s]
-Plan large d'ensemble : Une jeune fille indienne des montagnes, silhouette fine, âgée d'environ 22 ans, marchant doucement le long d'un sentier étroit. Elle porte une tenue traditionnelle pahadi (châle en laine douce, kurta simple, boucles d'oreilles jhumka en argent), son dupatta flottant légèrement dans la brise. Montagnes vertes brumeuses et pins en arrière-plan. Lumière naturelle du matin, ton doré doux.
-[2s–4s]
-Plan moyen : Elle marche aux côtés d'un petit troupeau de moutons, sa main reposant doucement sur un bâton en bois. Son expression est calme, chaleureuse et sereine — un léger sourire, les yeux reflétant une innocence amoureuse de la nature. Le vent agite ses cheveux naturellement.
-[4s–6s]
-Gros plan : Son visage sous une lumière naturelle douce — traits mignons et élégants, look sans maquillage, peau éclatante. Elle jette un regard affectueux vers les moutons, riant doucement alors que l'un d'eux lui donne un coup de museau. Son ambiant naturel : chants d'oiseaux, légers grelots de moutons (ghungroo), bruissement du vent.
-[6s–8s]
-Plan en travelling arrière : Elle monte plus haut sur une pente herbeuse, les moutons la suivant, son dupatta flottant, sa silhouette encadrée par les sommets himalayens en couches et les nuages dérivants.
-[8s–10s]
-Plan large final : Elle s'arrête au bord d'une falaise, contemplant la vallée, les moutons paissant calmement autour d'elle. Son de vent doux, une cloche de temple lointaine ou une flûte en arrière-plan s'intensifie progressivement. Arrêt sur image sur son expression paisible et sereine alors que le plan s'estompe en une douce vignette.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Vidéo d'une jeune fille Pahadi dans la matinée himalayenne">
-
-**[🎬 Voir la vidéo →](https://x.com/b275511/status/2072308089056084456)**
-
-**Auteur:** [TheAIDev](https://x.com/b275511) | **Source:** [Link](https://x.com/b275511/status/2072308089056084456) | **Publié:** Jul 1, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 79 prompts supplémentaires non affichés ici
+### 🎯 83 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3054,6 +3073,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-21T08:38:17.541Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-21T12:42:45.227Z</sub>
 
 </div>

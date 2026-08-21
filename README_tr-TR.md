@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **179** |
+| 📝 Toplam İstem | **183** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-21** |
 
@@ -56,6 +56,111 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Uçurum Gözlem Güvertesi İnşaatı Hızlandırılmış Çekim
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Uçurum kenarındaki cam bir gözlem güvertesinin inşaatını gösteren, detaylı çelik işçiliği, kaynak işlemleri ve nihai tamamlanma sürecini içeren hızlandırılmış bir sekans için sinematik video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Orijinal uçurum çelik yapı inşaat alanından başla → devasa gerçekçi insan elleri kademeli olarak ankrajları, konsol çelik kirişleri, kaynak kıvılcımlarını ve cam zemin panellerini yerleştiriyor → lüks gözlem güvertesini tamamla → minyatür turistler kanyonu izlemek ve fotoğraf çekmek için şeffaf zemine yürüyor, dağ sisi yavaşça akıyor. Süreç boyunca aynı dağ ortamını, sıcak öğleden sonra ışığını, sinematik minyatür mühendislik estetiğini koru; kamera yavaşça ileri doğru hareket ederken hafif yatay kaydırma yap.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090671965375967232/img/hZUA9IStcund8AZq.jpg" width="600" alt="Uçurum Gözlem Güvertesi İnşaatı Hızlandırılmış Çekim">
+
+**[🎬 Videoyu izle →](https://x.com/XiaoKooeye/status/2090673511899820355)**
+
+**Yazar:** [Xiao Yang](https://x.com/XiaoKooeye) | **Kaynak:** [Link](https://x.com/XiaoKooeye/status/2090673511899820355) | **Yayınlandı:** Aug 21, 2026
+
+---
+### Taşınabilir Fan UGC Ürün Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Taşınabilir bir fan için kutu açılımı, makro detaylar ve ASMR sesleri ile gerçekçi dokulara odaklanan fonksiyonel gösterimleri içeren, dikey UGC tarzı bir ürün videosu oluşturmaya yönelik kapsamlı bir komut.
+
+#### 📝 İstem
+
+```
+Dikey UGC tarzı ürün filmi, baştan sona AERIO taşınabilir fan. Kompakt siyah fan, mat plastik gövde, yuvarlatılmış ön ızgara, deri görünümlü taşıma sapı, üç düğmeli küçük kontrol paneli. Kutu açılımı ve demo sekansı, yumuşak doğal ışık, sığ alan derinliği, dokular ve mekanizmalar üzerinde makro detaylar.
+Sahneler:
+Makro yakın çekim, eller AERIO kutusunu tutuyor, küçük logolu siyah ambalaj. Kamera yaklaşıyor. Karton dokusu görünür, ince ve lifli. Yüzeye karşı hafif parmak sürtünmesi.
+Yukarıdan aşağıya. Eller kutuyu açıyor, AERIO fanı ambalajdan çıkarıyor. Plastik astar hışırdıyor. Karton kapak yumuşak bir yırtılma sesiyle ayrılıyor.
+Ahşap masa üzerinde düz yerleşim. Tüm içerik serilmiş: fan, sarılı USB kablosu, küçük aksesuarlar, kullanım kılavuzu. Parmak ucu her bir öğeye bir kez dokunuyor.
+Ön ızgara ve kontrol paneli üzerinde aşırı yakın çekim. Ağ deseni keskin. Parmak ucu, dokunuş altındaki mat plastiğin üzerindeki üç düğmeye sırayla dokunuyor.
+Taşıma sapı üzerinde yakın çekim, deri görünümlü doku, dikişli kenar görünür. El, fanı kavrayıp hafifçe kaldırıyor, harekette sağlam bir ağırlık hissi.
+Su tankı açıklığı üzerinde yukarıdan aşağıya yakın çekim. Su sabit bir akışla dökülüyor, tank doluyor, yüzeye ulaştığı yerde küçük dalgalanmalar.
+Makro yakın çekim, parmak ucu kontrol düğmesine basıyor. Yumuşak mekanik tık sesi. Kanatlar dönmeye başlıyor, hız artıyor, motor sesi yükseliyor.
+Yakın çekim, fan sis modunda çalışıyor. İnce sis havalandırma deliklerinden dışarı süzülüyor, ışığı yakalıyor, kanatlar arkasında sabit bir şekilde dönüyor.
+Yan açı, daha yüksek hız ayarı. Havalandırma deliğinin önünde tutulan ince bir kağıt mendil kalkıyor ve dalgalanıyor. Hız üç seviyede artıyor, mendilin hareketi her seviyede güçleniyor.
+Orta ölçekli yaşam tarzı çekimi. Fan bir kanepenin yanındaki masada duruyor, modern oturma odası, doğal günlük yerleşim.
+Hero çekimi. Fan minimalist bir masanın merkezinde, arkasında hafifçe odak dışı bırakılmış küçük bir bitki, gövdede AERIO logosu görünür. Kamera yavaşça yaklaşıyor ve temiz bir final karesinde sabitleniyor.
+Malzemeler: Kutu — mat siyah karton, ince lif dokusu. Fan gövdesi — mat siyah plastik, dokulu tutuş noktaları. Sap — deri görünümlü, dikişli. Su — berrak, küçük dalgalanmalar ve hafif sıçrama. Sis — ince, görünür, ışığı yakalıyor.
+Ses: Sadece ASMR ürün sesleri — karton dokusu, plastik hışırtısı, parmak ucu dokunuşları, düğme tıkırtısı, su akışı, motor uğultusu, hava akışı ve sis.
+Tutarlılık: Her sahnede aynı siyah tasarım, ızgara deseni, sap ve logo yerleşimi. Eller doğal, bilinçli ve sabit hareket ediyor. Işıklandırma sahneler arasında dengeli kalıyor.
+Görünüm: Doğal gün ışığı, yumuşak ve dengeli. Sığ alan derinliği, keskin makro detaylar. Eller üzerinde gerçekçi cilt dokusu. Temiz minimalist arka planlar. Pürüzsüz elde tutulan UGC hissi. 9:16 dikey, 10 saniye.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787301553513_y4j1qm_HQMIY6JacAAlIZB.jpg" width="600" alt="Taşınabilir Fan UGC Ürün Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/ritesh_ai/status/2090523913583476858)**
+
+**Yazar:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Kaynak:** [Link](https://x.com/ritesh_ai/status/2090523913583476858) | **Yayınlandı:** Aug 20, 2026
+
+---
+### Steampunk Şehir Sokak Manzarası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hava gemileri, Arnavut kaldırımlı sokaklar ve sıcak gün batımı ışığıyla dolu, hareketli bir Viktorya dönemi steampunk şehri için detaylı bir video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Hareketli bir steampunk şehir sokak manzarası. Pirinç borular ve dişlilerle süslenmiş, detaylı Viktorya dönemi mimarisi. Karmaşık tasarımlara sahip hava gemileri gökyüzünde süzülüyor. Ayrıntılı steampunk kıyafetleri içindeki insanlar Arnavut kaldırımlı sokaklarda yürüyor. Buhar bacalarından beyaz buhar bulutları yükseliyor. Sıcak, gün batımı ışığı, yüksek detaylı, fotogerçekçi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090467779656957952/img/DGTiXxoy0wFih11p.jpg" width="600" alt="Steampunk Şehir Sokak Manzarası">
+
+**[🎬 Videoyu izle →](https://x.com/RiaZumu39304591/status/2090468195065045026)**
+
+**Yazar:** [愛かM‌uμ](https://x.com/RiaZumu39304591) | **Kaynak:** [Link](https://x.com/RiaZumu39304591/status/2090468195065045026) | **Yayınlandı:** Aug 20, 2026
+
+---
+### Bauhaus İsviçre Tarzı Kinetik Tipografi Spotu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bauhaus tasarım ilkelerini, geometrik şekilleri ve katı ızgara düzenlerini takip eden, 12 saniyelik hassas bir kinetik tipografi senaryosu.
+
+#### 📝 İstem
+
+```
+16:9 formatında, 24fps, tam 12 saniyelik 8 kesimden oluşan bir kinetik tipografi spotu oluşturun. Stil: Bauhaus / İsviçre Uluslararası Tarzı — düz ana renkler (kırmızı, sarı, mavi, siyah, kırık beyaz), katı ızgara, geometrik sans-serif yazı tipi.
+Bu film %90 hareketli tipografi ve geometrik şekillerden, %10 doku vurgularından oluşmaktadır.
+KESİM 01 | 0.0-1.5sn - Kırık beyaz boşluk. "FORM" kelimesi harf harf bir temel ızgara üzerine düşer, her biri küçük bir sıçrama ile yerine oturur.
+KESİM 02 | 1.5-3.0sn - Soldan gelen kırmızı bir daire "M" harfini kadraj dışına iter; "FOR—" bir vuruş boyunca sabit kalır.
+KESİM 03 | 3.0-4.5sn - Sert kesim: tamamen sarı bir kare, "FOLLOWS" dikey olarak istiflenmiş, harfler zıt yönlerde kayarak yerleşir.
+KESİM 04 | 4.5-6.0sn - Mavi bir diyagonal ekranı siler; "FUNCTION" bu diyagonal üzerinde durur; kamera yatay okunana kadar döner.
+KESİM 05 | 6.0-7.5sn - Üç kelime, katı 3 sütunlu bir ızgara üzerinde ritme uygun şekilde yer değiştirir.
+KESİM 06 | 7.5-9.0sn - Tüm yazılar 8pt ızgara dokusuna küçülür; merkezden büyüyen bir siyah kare belirir.
+KESİM 07 | 9.0-10.5sn - Kare, bir Mondrian kompozisyonuna bölünür; her renk alanına bir kelime yerleşir.
+KESİM 08 | 10.5-12.0sn - Bitiş kartı: "FORM FOLLOWS FUNCTION — 1919" sol alt köşeye hizalanmış, kırmızı daire nokta işareti olarak kullanılır ve sabit kalır.
+Tipografi, herhangi bir şekil üzerine gelmeden önce tamamen okunabilir olmalıdır. Harfler asla bozulmamalı veya erimemeli; harf aralıkları (kerning) optik olarak dengeli kalmalıdır.
+Kurgu: 120bpm ritmine kilitlenmiş sert kesimler ve ani hareketler.
+Ses: Minimal elektronik tıklamalar + her kesimde bas vuruşu.
+ASLA YAPILMAMASI GEREKENLER: Gradyanlar, gölgeler, 3D derinlik, serif yazı tipleri, erimiş harfler, ek kelimeler.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Bauhaus İsviçre Tarzı Kinetik Tipografi Spotu">
+
+**[🎬 Videoyu izle →](https://x.com/EZheng66099/status/2090185695641968736)**
+
+**Yazar:** [EZ](https://x.com/EZheng66099) | **Kaynak:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Yayınlandı:** Aug 19, 2026
+
+---
 ### Modern Çin Çay Seremonisi Hareketli Grafikleri
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2890,99 +2995,13 @@ Mekanik bir klavyede yazı yazan ellerin yukarıdan görünümü. İnce yeşil y
 **Yazar:** [Neurain](https://x.com/NeurainX) | **Kaynak:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Yayınlandı:** Jul 2, 2026
 
 ---
-### Konuşan Güvercin Park Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Parkta oturan yaşlı bir kadının, güvercininin beklenmedik bir şekilde onunla konuştuğu sürreal ve sinematik bir video istemi.
-
-#### 📝 İstem
-
-```
-Güneşli bir yerel parkta, ahşap bir bankta oturan, gri saçlı, nazik yaşlı bir kadının ayaklarının dibindeki küçük bir güvercin sürüsüne kuru ekmek kırıntıları attığı, 10 saniyelik gerçekçi ve sinematik bir video. Kamera, gri bir güvercine odaklanarak yakın çekime geçer. Güvercin doğrudan kadına bakar, gagası gerçekçi bir şekilde hareket ederek kibar bir ses tonuyla şöyle der: "Yarın bize biraz çörek getirmeniz mümkün mü acaba?" Kamera tekrar kadının yüzüne döner ve kadının yaşadığı şaşkınlık ile hayret ifadesini gösterir. Doğal ışıklandırma, sığ alan derinliği.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072681494816976896/img/THpOjpflO5_b9BE-.jpg" width="600" alt="Konuşan Güvercin Park Sahnesi">
-
-**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2072681730423521364)**
-
-**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2072681730423521364) | **Yayınlandı:** Jul 2, 2026
-
----
-### Tokyo Akıllı Telefon Seyahat Vlog'u Montajı
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Tutarlı bir kadın içerik üreticisi, gerçekçi kamera kusurları ve ikonik mekanlarda doğal etkileşimler içeren 10 saniyelik bir Tokyo seyahat vlog'u için kapsamlı video oluşturma istemi.
-
-#### 📝 İstem
-
-```
-10 saniyelik sinematik bir seyahat vlog'u montajı oluşturun. Her çekim boyunca yüklenen kadın yüzünü tutarlı bir şekilde kullanın. Uzun, dalgalı koyu saçları ve kıvırcık perçemleri olan, şık ve büyük beden Japon sokak modası (bordo uzun deri ceket, omuz çantası) giyen, doğal makyajlı ve neşeli, canlı bir kişiliğe sahip çarpıcı genç bir kadın seyahat içerik üreticisi. Videonun tamamı, elde taşınan kamera hareketi, kusurlu kadraj, kazara oluşan lens parlamaları, hafif hareket bulanıklığı, rolling shutter etkisi, gece yüksek ISO gürültüsü, otomatik odaklama arayışı, patlamış parlak alanlar, telefonun geniş açılı lensinden kaynaklanan hafif fıçı bozulması, küçük lens lekeleri ve doğal kamera sarsıntısı dahil olmak üzere gerçek bir akıllı telefon çekimi hissi vermelidir. Cilalı ticari tarzdan kaçının. Hikaye Akışı (10 saniye) 0.0–0.8 sn Tokyo Kulesi önünde düşük açılı selfie. Telefonu ayarlarken doğal bir şekilde gülümsüyor. Ufuk çizgisi hafif eğik. Parlak, aşırı pozlanmış bulutlu gökyüzü. Lenste minik bir parmak izi. 0.8–1.6 sn Gece Shibuya Geçidi'nde yürüyor. Yürürken kameraya geri bakıyor. Islak yollara yansıyan neon ışıklar. Güçlü hareket bulanıklığı. Hızlı whip pan geçişi. 1.6–2.4 sn Bir Japon marketinin içi. Kameraya yakın bir onigiri tutuyor. Sevimli ve oyuncu bir şekilde kaşlarını kaldırıyor. Sert floresan aydınlatma. Arka plandaki raflar hafifçe bulanık. 2.4–3.2 sn Yoyogi Parkı'nda tek başına oturuyor. Sessiz ve otantik bir an. Kameradan başka yöne bakıyor. Ağaçların arasından süzülen yumuşak güneş ışığı. Hafif odak kaçırma. 3.2–4.0 sn Taze yapılmış takoyaki yiyor. İlk ısırıktan sonra anlık tepki. Sıcak fener aydınlatması. Hareket nedeniyle yüz hafif bulanık. Doğal bir şekilde gülüyor. 4.0–4.8 sn Işıklı bir otomatın önünde duruyor. Yüzünde mavi ve pembe ışıklar. Gelişigüzel bir şekilde içecek düğmesine basıyor. Görünür gece gren gürültüsü. 4.8–5.6 sn Tokyo treni penceresindeki yansıma. Camda yansıyan katmanlı şehir ışıkları. Düşünceli bir şekilde pencereden dışarı bakıyor. Tren hareketi ışık çizgileri oluşturuyor. 5.6–6.4 sn Torii kapılarının altından yürüyor. Arkadan düşük açılı takip çekimi. Kısa bir baş dönüşü. Hareket bulanıklığı. Gökyüzünden gelen parlak hale. 6.4–7.2 sn Sürükleyici dijital sanat sergisi. Yüzünde hareket eden mavi, mor ve altın rengi ışıklar. Hayranlıkla yukarı bakıyor. Doğal düşük ışık gürültüsü. 7.2–8.0 sn Dev gümüş mermi heykelinin yanında geniş açılı, düşük açılı çekim. Heykelin altında küçük görünüyor. Telefon lensi bozulması. Gökyüzü hafif aşırı pozlanmış. 8.0–8.8 sn Fenerlerle aydınlatılmış bir ara sokakta yürüyor. Kamera arkadan takip ediyor. Dönüp gülümsüyor. Sıcak fener parıltısı. Doğal gece gren gürültüsü. 8.8–10.0 sn Tokyo silüetine bakan çatı katı selfie'si. Rüzgar saçları kamera lensine doğru savuruyor. Ufuk çizgisi hafif eğik. Aşırı pozlanmış şehir ışıkları. Kolunu silüete doğru uzatırken doğal bir şekilde gülüyor. Düzenleme Tarzı * Hızlı whip pan geçişleri * Hız rampalama (speed ramping) * Match cut (eşleşen kesmeler) * Doğal jump cut (sıçramalı kesmeler) * Elde taşınan kamera hareketi * Hafif rolling shutter * Akıllı telefon HDR pozlaması * Otantik seyahat vlog'u enerjisi * Ağır çekim yok * Sinematik renk düzenlemesi yok * Otantik TikTok içerik üreticisi estetiği * Sıcak cilt tonları * Yüksek gerçekçilik * Her sahnede tutarlı yüz kimliği * 16:9 yatay, 16:9
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072614460746080256/img/H_BX2Tgbu6m2vVFV.jpg" width="600" alt="Tokyo Akıllı Telefon Seyahat Vlog'u Montajı">
-
-**[🎬 Videoyu izle →](https://x.com/xzjken/status/2072615060632228239)**
-
-**Yazar:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Kaynak:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Yayınlandı:** Jul 2, 2026
-
----
-### Dev Tembel Hayvan ve Godzilla Şehir Savaşı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dağ büyüklüğünde bir tembel hayvanın, komedi fiziğiyle bir fil-Godzilla canavarını kazara alt ettiği, oldukça detaylı sinematik bir istem.
-
-#### 📝 İstem
-
-```
-Dağ yüksekliğinde, yavaş hareket eden devasa bir tembel hayvan bir gökdelene asılmış, kocaman esniyor. Öfkeli bir fil-Godzilla canavarı, küçük şimşekler saçarak ona doğru ilerliyor. Tembel hayvan, üşengeç bir tavırla tek pençesini uzatıyor ve hiç çaba sarf etmeden canavarı kilometrelerce uzağa fırlatıyor. Tembel hayvan omuz silkiyor ve binanın üzerinde uyumaya devam ediyor. Hızdaki absürt tezatlık, komedi fiziği, mizahi ağır çekim darbeler ve canlı şehir yıkımı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Dev Tembel Hayvan ve Godzilla Şehir Savaşı">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2072542482857099759)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Yayınlandı:** Jul 2, 2026
-
----
-### Himalayalar'da Sabah: Pahadi Kız Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sisli Himalayalar'da koyunlarıyla birlikte yürüyen genç bir kızı konu alan, çeşitli çekim türleri ve ortam sesleri içeren 10 saniyelik sinematik bir video hikaye panosu (storyboard) istemi.
-
-#### 📝 İstem
-
-```
-Sahne Başlığı: Koyunlarla Pahadi Kız — Himalayalar'da Sabah
-[0sn–2sn]
-Geniş ölçekli giriş çekimi: Yaklaşık 22 yaşlarında, ince yapılı, genç bir Hintli dağ kızı, dar bir dağ patikasında nazikçe yürüyor. Üzerinde geleneksel pahadi kıyafeti (yumuşak yün şal, sade bir kurta, gümüş jhumka küpeler) var, dupattası rüzgarda hafifçe dalgalanıyor. Arka planda sisli yeşil dağlar ve çam ağaçları. Doğal sabah güneş ışığı, yumuşak altın tonları.
-[2sn–4sn]
-Orta çekim: Küçük bir koyun sürüsünün yanında yürüyor, eli nazikçe ahşap bir asaya dayanmış. İfadesi sakin, sıcak ve huzurlu; hafif bir gülümseme, gözlerinde doğa sevgisi ve masumiyet yansıyor. Rüzgar saçlarını doğal bir şekilde hareket ettiriyor.
-[4sn–6sn]
-Yakın çekim: Yumuşak doğal ışıkta yüzü; sevimli, zarif hatlar, makyajsız bir görünüm, ışıldayan bir cilt. Koyunlara şefkatle bakıyor, biri bacağına dokunduğunda hafifçe gülüyor. Doğal ortam sesleri: kuş cıvıltıları, uzaktan gelen koyun çanları (ghungroo), rüzgarın hışırtısı.
-[6sn–8sn]
-Arkadan takip çekimi: Çimenli bir yamaçta yukarı doğru yürüyor, koyunlar arkasından geliyor, dupattası dalgalanıyor, silüeti katmanlı Himalaya zirveleri ve sürüklenen bulutlar önünde çerçeveleniyor.
-[8sn–10sn]
-Final geniş çekim: Bir uçurumun kenarında duruyor, vadiye bakıyor, koyunlar etrafında sakince otluyor. Yumuşak rüzgar sesi, arka planda yavaşça yükselen uzak bir tapınak çanı veya flüt sesi. Çekim hafif bir vinyet ile kararırken, huzurlu ve dingin ifadesi üzerinde donuyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Himalayalar'da Sabah: Pahadi Kız Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/b275511/status/2072308089056084456)**
-
-**Yazar:** [TheAIDev](https://x.com/b275511) | **Kaynak:** [Link](https://x.com/b275511/status/2072308089056084456) | **Yayınlandı:** Jul 1, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 79 burada gösterilmeyen daha fazla istem
+### 🎯 83 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3028,6 +3047,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-21T08:38:22.807Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-21T12:42:50.977Z</sub>
 
 </div>

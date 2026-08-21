@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **179** |
+| 📝 Total Prompts | **183** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-21** |
 
@@ -56,6 +56,111 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Cliff Observation Deck Construction Timelapse
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A cinematic video generation prompt for a time-lapse sequence showing the construction of a cliffside glass observation deck, featuring detailed steelwork, welding, and final completion.
+
+#### 📝 Prompt
+
+```
+Start from the original cliff steel structure construction site → giant realistic human hands gradually installing anchors, cantilever steel beams, welding sparks, and glass floor panels → complete the luxury observation deck → miniature tourists walk onto the transparent floor to overlook the canyon and take photos, with mountain mist flowing slowly. Maintain the same mountain environment throughout, warm afternoon lighting, cinematic miniature engineering aesthetics, with the camera slowly pushing in + slight horizontal panning.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090671965375967232/img/hZUA9IStcund8AZq.jpg" width="600" alt="Cliff Observation Deck Construction Timelapse">
+
+**[🎬 Watch Video →](https://x.com/XiaoKooeye/status/2090673511899820355)**
+
+**Author:** [Xiao Yang](https://x.com/XiaoKooeye) | **Source:** [Link](https://x.com/XiaoKooeye/status/2090673511899820355) | **Published:** Aug 21, 2026
+
+---
+### Portable Fan UGC Product Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive prompt for generating a vertical UGC-style product video for a portable fan, including unboxing, macro details, and functional demonstrations with a focus on ASMR sounds and realistic textures.
+
+#### 📝 Prompt
+
+```
+Vertical UGC-style product film, the AERIO portable fan throughout. Compact black fan, matte plastic body, rounded front grille, leather-style carrying handle, small control panel with three buttons. Unboxing and demo sequence, soft natural light, shallow depth of field, macro detail on textures and mechanisms.
+Scenes:
+Macro close-up, hands hold the AERIO box, black packaging with a small logo. Camera drifts closer. Cardboard texture visible, fine and fibrous. Faint finger friction against the surface.
+Top-down. Hands open the box, lift the AERIO fan out of the packaging. Plastic liner crinkles. Cardboard flap separates with a soft tear.
+Flat-lay on a wooden table. Full contents laid out: the fan, coiled USB cable, small accessories, instruction booklet. Fingertip taps each item once.
+Extreme close-up on the front grille and control panel. Mesh pattern sharp. Fingertip taps each of the three buttons in turn, matte plastic under the touch.
+Close-up on the carrying handle, leather-style texture, stitched seam visible. Hand grips and lifts the fan slightly, sturdy weight in the motion.
+Top-down close-up on the water tank opening. Water pours in a steady stream, tank filling, small ripple where it meets the surface.
+Macro close-up, fingertip presses the control button. Soft mechanical click. Blades begin turning, speed stepping up, motor tone rising.
+Close-up, the fan running in mist mode. Fine mist drifts from the vents, catching the light, blades turning steadily behind it.
+Side angle, higher speed setting. Thin tissue held in front of the vent lifts and flutters. Speed steps through three levels, tissue motion building with each one.
+Medium lifestyle shot. The fan resting on a table beside a sofa, modern living room, natural everyday placement.
+Hero shot. The fan centered on a minimalist table, small plant softly out of focus behind it, AERIO logo visible on the body. Camera eases in, settling on a clean final frame.
+Materials: Box — matte black cardboard, fine fiber texture. Fan body — matte black plastic, textured grip points. Handle — leather-style, stitched. Water — clear, small ripples and light splash. Mist — fine, visible, catching light.
+Audio: ASMR product sounds only — cardboard texture, plastic crinkle, fingertip taps, button click, water stream, motor hum, airflow and mist.
+Consistency: Same black design, grille pattern, handle, and logo placement in every scene. Hands move naturally, deliberate and steady. Lighting stays even scene to scene.
+Look: Natural daylight, soft and even. Shallow depth of field, sharp macro detail. Realistic skin texture on hands. Clean minimalist backgrounds. Smooth handheld UGC feel. 9:16 vertical, 10 seconds.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787301553513_y4j1qm_HQMIY6JacAAlIZB.jpg" width="600" alt="Portable Fan UGC Product Video">
+
+**[🎬 Watch Video →](https://x.com/ritesh_ai/status/2090523913583476858)**
+
+**Author:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Source:** [Link](https://x.com/ritesh_ai/status/2090523913583476858) | **Published:** Aug 20, 2026
+
+---
+### Steampunk City Street Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt for a bustling Victorian steampunk city, featuring airships, cobblestone streets, and warm golden hour lighting.
+
+#### 📝 Prompt
+
+```
+A bustling steampunk city street scene. Ornate Victorian architecture with brass pipes and gears. Airships with intricate designs float above. People in elaborate steampunk attire walk the cobblestone streets. Steam vents release plumes of white vapor. Warm, golden hour lighting, highly detailed, photorealistic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090467779656957952/img/DGTiXxoy0wFih11p.jpg" width="600" alt="Steampunk City Street Scene">
+
+**[🎬 Watch Video →](https://x.com/RiaZumu39304591/status/2090468195065045026)**
+
+**Author:** [愛かM‌uμ](https://x.com/RiaZumu39304591) | **Source:** [Link](https://x.com/RiaZumu39304591/status/2090468195065045026) | **Published:** Aug 20, 2026
+
+---
+### Bauhaus Kinetic Typography Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video generation prompt for creating a 12-second Bauhaus-style kinetic typography animation, featuring precise timing for eight distinct cuts, geometric motion, and a primary color palette.
+
+#### 📝 Prompt
+
+```
+Create an 8-cut kinetic-typography spot in 16:9, 24fps, exactly 12s. Style: Bauhaus / Swiss International — flat primary colors (red, yellow, blue, black, off-white), strict grid, geometric sans-serif type.
+This film is 90% typography and geometric shapes in motion, 10% texture accents.
+CUT 01 | 0.0-1.5s - Off-white void. The word "FORM" drops letter by letter onto a baseline grid, each landing with a small bounce.
+CUT 02 | 1.5-3.0s - A red circle rolls in from the left and knocks the "M" out of frame; "FOR—" holds one beat.
+CUT 03 | 3.0-4.5s - Hard cut: full yellow frame, "FOLLOWS" stacked vertically, letters sliding in alternating directions.
+CUT 04 | 4.5-6.0s - A blue diagonal wipes the frame; "FUNCTION" sits on the diagonal; the camera rotates until it reads horizontal.
+CUT 05 | 6.0-7.5s - The three words swap positions on a strict 3-column grid, snapping on beat.
+CUT 06 | 7.5-9.0s - All type shrinks into an 8pt grid texture; one black square scales up through center.
+CUT 07 | 9.0-10.5s - The square splits into a Mondrian composition; one word per color field.
+CUT 08 | 10.5-12.0s - End card: "FORM FOLLOWS FUNCTION — 1919" aligned bottom-left, the red circle as the full stop, hold.
+Typography is fully readable before any shape overlaps it. Letters never distort or melt; kerning stays optically even.
+Editing: hard cuts and snap moves locked to 120bpm.
+Audio: minimal electronic clicks + bass pulse on every cut.
+DO NOT: gradients, drop shadows, 3D extrusion, serif fonts, melted letters, added words.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Bauhaus Kinetic Typography Animation">
+
+**[🎬 Watch Video →](https://x.com/EZheng66099/status/2090185695641968736)**
+
+**Author:** [EZ](https://x.com/EZheng66099) | **Source:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Published:** Aug 19, 2026
+
+---
 ### Minimalist Chinese Tea Ceremony Motion Graphics
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3005,99 +3110,13 @@ A top-down view of hands typing on a mechanical keyboard. Slender green leafy vi
 **Author:** [Neurain](https://x.com/NeurainX) | **Source:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Published:** Jul 2, 2026
 
 ---
-### Talking Pigeon Cinematic Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic and humorous video prompt depicting an elderly woman shocked by a talking pigeon in a sunlit park.
-
-#### 📝 Prompt
-
-```
-A realistic, cinematic 10-second video of a gentle elderly woman with gray hair sitting on a wooden bench in a sunlit local park, crumbling dry bread and tossing it to a small flock of pigeons at her feet. The camera pans down to a close-up of one specific grey pigeon. The pigeon looks directly up at the woman, its beak moving realistically as it speaks in a polite voice: "Would you mind bringing us some doughnuts tomorrow please?" The camera cuts back to the woman's face, showing her expression of utter shock and bewilderment. Natural lighting, shallow depth of field.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072681494816976896/img/THpOjpflO5_b9BE-.jpg" width="600" alt="Talking Pigeon Cinematic Scene">
-
-**[🎬 Watch Video →](https://x.com/michaelrabone/status/2072681730423521364)**
-
-**Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2072681730423521364) | **Published:** Jul 2, 2026
-
----
-### Tokyo Smartphone Travel Vlog Montage
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A comprehensive video generation prompt for a 10-second Tokyo travel vlog featuring a consistent female creator, realistic camera artifacts, and natural interactions in iconic locations.
-
-#### 📝 Prompt
-
-```
-Create a 10-second cinematic travel vlog montage. Throughout every shot, consistently use the uploaded female face. She is a stunning young female travel creator with long dark wavy hair and curly bangs, wearing stylish oversized Japanese streetwear (burgundy long leather jacket, shoulder bag), with natural makeup and an upbeat, lively personality. The entire video should feel like real smartphone footage, including handheld camera movement, imperfect framing, accidental lens flares, slight motion blur, rolling shutter, high ISO noise at night, autofocus hunting, blown-out highlights, slight barrel distortion from a phone's wide-angle lens, tiny lens smudges, and natural camera shake. Avoid a polished commercial style. Story Flow (10 seconds) 0.0–0.8s Low-angle selfie in front of Tokyo Tower. She smiles naturally while adjusting the phone. Horizon is slightly tilted. Bright overexposed cloudy sky. Tiny fingerprint on the lens. 0.8–1.6s Walking through Shibuya Crossing at night. Looking back at the camera while walking. Neon lights reflecting on wet roads. Strong motion blur. Quick whip pan transition. 1.6–2.4s Inside a Japanese convenience store. Holding an onigiri close to the camera. Cutely and playfully raising eyebrows. Harsh fluorescent lighting. Background shelves softly blurred. 2.4–3.2s Sitting alone in Yoyogi Park. A quiet authentic moment. Looking away from the camera. Soft sunlight filtering through trees. Slight focus miss. 3.2–4.0s Eating freshly made takoyaki. Instant reaction after the first bite. Warm lantern lighting. Face slightly blurred due to movement. Laughing naturally. 4.0–4.8s Standing in front of a glowing vending machine. Blue and pink lights on her face. Casually pressing a drink button. Visible nighttime grain noise. 4.8–5.6s Reflection in a Tokyo train window. Layered city lights reflecting on the glass. She looks thoughtfully out the window. Train movement creates light streaks. 5.6–6.4s Walking under Torii gates. Low-angle tracking shot from behind. Brief head turn. Motion blur. Bright halo from the sky. 6.4–7.2s Immersive digital art exhibition. Blue, purple, and gold lights moving across her face. Looking up in wonder. Natural low-light noise. 7.2–8.0s Wide-angle low-angle shot next to a giant silver bullet sculpture. She appears small under the sculpture. Phone lens distortion. Sky slightly overexposed. 8.0–8.8s Walking through a lantern-lit alleyway. Camera follows from behind. She turns and smiles. Warm lantern glow. Natural nighttime grain noise. 8.8–10.0s Rooftop selfie overlooking the Tokyo skyline. Wind blowing hair across the camera lens. Horizon slightly tilted. Overexposed city lights. She laughs naturally while reaching an arm out towards the skyline. Editing Style * Quick whip pan transitions * Speed ramping * Match cuts * Natural jump cuts * Handheld camera movement * Slight rolling shutter * Smartphone HDR exposure * Authentic travel vlog energy * No slow motion * No cinematic color grading * Authentic TikTok creator aesthetic * Warm skin tones * High realism * Consistent facial identity in every scene * 16:9 landscape, 16:9
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072614460746080256/img/H_BX2Tgbu6m2vVFV.jpg" width="600" alt="Tokyo Smartphone Travel Vlog Montage">
-
-**[🎬 Watch Video →](https://x.com/xzjken/status/2072615060632228239)**
-
-**Author:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Source:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Published:** Jul 2, 2026
-
----
-### Giant Sloth vs Godzilla City Battle
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt featuring a mountain-sized sloth accidentally defeating an elephant-Godzilla monster with slapstick physics.
-
-#### 📝 Prompt
-
-```
-A gigantic slow-moving sloth the height of a mountain hangs from a skyscraper, yawning massively. A furious elephant-Godzilla monster stomps toward it breathing tiny lightning. The sloth lazily reaches out one claw and accidentally yeets the monster miles away with zero effort. Sloth shrugs, goes back to sleep on the building. Absurd contrast in speed, slapstick physics, humorous slow-motion impacts, vibrant city destruction.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Giant Sloth vs Godzilla City Battle">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2072542482857099759)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Published:** Jul 2, 2026
-
----
-### Himalayan Morning Pahadi Girl Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic storyboard prompt for a 10-second video depicting a young girl with sheep in the misty Himalayan mountains, featuring various shot types and ambient sounds.
-
-#### 📝 Prompt
-
-```
-Scene Title: Pahadi Girl with Sheep — Himalayan Morning
-[0s–2s]
-Wide establishing shot: A young Indian hill girl, slim build, around 22 years old, walking gently along a narrow mountain trail. She wears a traditional pahadi outfit (soft wool shawl, simple kurta, silver jhumka earrings), dupatta lightly fluttering in the breeze. Misty green mountains and pine trees in the background. Natural morning sunlight, soft golden tone.
-[2s–4s]
-Medium shot: She walks alongside a small flock of sheep, her hand gently resting on a wooden staff. Her expression is calm, warm, and content — a soft smile, eyes reflecting nature-loving innocence. Wind moves through her hair naturally.
-[4s–6s]
-Close-up shot: Her face in soft natural light — cute, elegant features, no makeup look, glowing skin. She glances affectionately toward the sheep, laughing softly as one nudges her leg. Natural ambient sound: birds chirping, faint sheep bells (ghungroo), wind rustling.
-[6s–8s]
-Tracking shot from behind: She walks further up a grassy slope, sheep trailing behind her, dupatta flowing, silhouette framed against layered Himalayan peaks and drifting clouds.
-[8s–10s]
-Final wide shot: She pauses at a cliff edge, looking out over the valley, sheep grazing calmly around her. Soft wind sound, distant temple bell or flute in the background fades in. Freeze on her peaceful, serene expression as the shot fades to a gentle vignette.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Himalayan Morning Pahadi Girl Video">
-
-**[🎬 Watch Video →](https://x.com/b275511/status/2072308089056084456)**
-
-**Author:** [TheAIDev](https://x.com/b275511) | **Source:** [Link](https://x.com/b275511/status/2072308089056084456) | **Published:** Jul 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 79 more prompts not shown here
+### 🎯 83 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3143,6 +3162,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-21T08:38:02.912Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-21T12:42:31.592Z</sub>
 
 </div>

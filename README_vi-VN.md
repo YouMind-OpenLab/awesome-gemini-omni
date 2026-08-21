@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **179** |
+| 📝 Tổng số prompt | **183** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-21** |
 
@@ -56,6 +56,111 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video tua nhanh quá trình xây dựng đài quan sát trên vách đá
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một câu lệnh tạo video điện ảnh về chuỗi cảnh tua nhanh quá trình xây dựng đài quan sát bằng kính trên vách đá, bao gồm các chi tiết về kết cấu thép, công đoạn hàn và hoàn thiện.
+
+#### 📝 Prompt
+
+```
+Bắt đầu từ công trường xây dựng kết cấu thép trên vách đá → đôi bàn tay người khổng lồ chân thực dần dần lắp đặt các mỏ neo, dầm thép công xôn, tia lửa hàn và các tấm sàn kính → hoàn thiện đài quan sát sang trọng → các du khách tí hon bước lên sàn trong suốt để ngắm nhìn hẻm núi và chụp ảnh, với sương mù trên núi trôi chậm rãi. Duy trì cùng một môi trường núi non xuyên suốt, ánh sáng buổi chiều ấm áp, thẩm mỹ kỹ thuật thu nhỏ đậm chất điện ảnh, với camera từ từ đẩy vào + lia ngang nhẹ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090671965375967232/img/hZUA9IStcund8AZq.jpg" width="600" alt="Video tua nhanh quá trình xây dựng đài quan sát trên vách đá">
+
+**[🎬 Xem video →](https://x.com/XiaoKooeye/status/2090673511899820355)**
+
+**Tác giả:** [Xiao Yang](https://x.com/XiaoKooeye) | **Nguồn:** [Link](https://x.com/XiaoKooeye/status/2090673511899820355) | **Đã xuất bản:** Aug 21, 2026
+
+---
+### Video sản phẩm UGC về quạt cầm tay
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh toàn diện để tạo video sản phẩm theo phong cách UGC dọc cho quạt cầm tay, bao gồm mở hộp, chi tiết macro và trình diễn chức năng, tập trung vào âm thanh ASMR và kết cấu chân thực.
+
+#### 📝 Prompt
+
+```
+Phim sản phẩm theo phong cách UGC dọc, xuyên suốt là quạt cầm tay AERIO. Quạt màu đen nhỏ gọn, thân nhựa nhám, lưới tản nhiệt phía trước bo tròn, quai xách giả da, bảng điều khiển nhỏ với ba nút bấm. Chuỗi cảnh mở hộp và trình diễn, ánh sáng tự nhiên dịu nhẹ, độ sâu trường ảnh nông, chi tiết macro về kết cấu và cơ chế.
+Các cảnh:
+Cận cảnh macro, đôi tay cầm hộp AERIO, bao bì màu đen với logo nhỏ. Camera tiến lại gần. Có thể thấy rõ kết cấu bìa cứng, mịn và có sợi. Tiếng ma sát nhẹ của ngón tay lên bề mặt.
+Góc nhìn từ trên xuống. Đôi tay mở hộp, nhấc quạt AERIO ra khỏi bao bì. Lớp lót nhựa kêu sột soạt. Nắp bìa cứng tách ra với tiếng xé nhẹ.
+Đặt phẳng trên bàn gỗ. Toàn bộ các món đồ được bày ra: quạt, cáp USB cuộn tròn, phụ kiện nhỏ, sách hướng dẫn. Đầu ngón tay gõ nhẹ vào từng món một.
+Cận cảnh cực đại vào lưới tản nhiệt phía trước và bảng điều khiển. Họa tiết lưới sắc nét. Đầu ngón tay lần lượt nhấn vào ba nút, cảm nhận lớp nhựa nhám dưới đầu ngón tay.
+Cận cảnh quai xách, kết cấu giả da, lộ rõ đường chỉ khâu. Tay cầm và nhấc quạt lên nhẹ nhàng, cảm giác chắc chắn trong chuyển động.
+Cận cảnh từ trên xuống vào miệng bình chứa nước. Nước đổ vào thành dòng ổn định, bình đầy dần, những gợn sóng nhỏ xuất hiện nơi nước chạm bề mặt.
+Cận cảnh macro, đầu ngón tay nhấn nút điều khiển. Tiếng click cơ học nhẹ nhàng. Cánh quạt bắt đầu quay, tốc độ tăng dần, âm thanh động cơ lớn dần.
+Cận cảnh, quạt đang chạy ở chế độ phun sương. Làn sương mịn bay ra từ các khe thông gió, bắt sáng, cánh quạt quay đều đặn phía sau.
+Góc nghiêng, cài đặt tốc độ cao hơn. Tờ giấy mỏng đặt trước khe gió bị nhấc lên và bay phấp phới. Tốc độ tăng qua ba mức, chuyển động của tờ giấy mạnh dần theo từng mức.
+Cảnh đời thường tầm trung. Quạt đặt trên bàn cạnh ghế sofa, phòng khách hiện đại, vị trí đặt tự nhiên hàng ngày.
+Cảnh chủ đạo. Quạt đặt chính giữa trên chiếc bàn tối giản, một cái cây nhỏ mờ ảo phía sau, logo AERIO hiển thị rõ trên thân máy. Camera tiến lại gần, dừng lại ở khung hình cuối cùng sạch sẽ.
+Chất liệu: Hộp — bìa cứng đen nhám, kết cấu sợi mịn. Thân quạt — nhựa đen nhám, các điểm cầm nắm có kết cấu. Quai xách — giả da, có đường khâu. Nước — trong suốt, gợn sóng nhỏ và bắn nước nhẹ. Sương — mịn, có thể nhìn thấy, bắt sáng.
+Âm thanh: Chỉ bao gồm âm thanh sản phẩm ASMR — kết cấu bìa cứng, tiếng nhựa sột soạt, tiếng gõ đầu ngón tay, tiếng click nút, dòng nước, tiếng động cơ, luồng khí và sương.
+Tính nhất quán: Thiết kế màu đen, họa tiết lưới, quai xách và vị trí logo giống hệt nhau trong mọi cảnh. Đôi tay di chuyển tự nhiên, có chủ đích và ổn định. Ánh sáng đồng đều giữa các cảnh.
+Hình ảnh: Ánh sáng ban ngày tự nhiên, dịu và đều. Độ sâu trường ảnh nông, chi tiết macro sắc nét. Kết cấu da chân thực trên đôi tay. Nền tối giản, sạch sẽ. Cảm giác quay cầm tay UGC mượt mà. Khung hình dọc 9:16, 10 giây.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787301553513_y4j1qm_HQMIY6JacAAlIZB.jpg" width="600" alt="Video sản phẩm UGC về quạt cầm tay">
+
+**[🎬 Xem video →](https://x.com/ritesh_ai/status/2090523913583476858)**
+
+**Tác giả:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Nguồn:** [Link](https://x.com/ritesh_ai/status/2090523913583476858) | **Đã xuất bản:** Aug 20, 2026
+
+---
+### Khung cảnh đường phố thành phố Steampunk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video chi tiết về khung cảnh đường phố thành phố steampunk thời Victoria nhộn nhịp, với các khí cầu, đường phố lát đá cuội và ánh sáng giờ vàng ấm áp.
+
+#### 📝 Prompt
+
+```
+Khung cảnh đường phố thành phố steampunk nhộn nhịp. Kiến trúc thời Victoria tinh xảo với các đường ống và bánh răng bằng đồng. Những chiếc khí cầu với thiết kế phức tạp bay lơ lửng phía trên. Người dân trong trang phục steampunk cầu kỳ đi bộ trên những con đường lát đá cuội. Các lỗ thông hơi tỏa ra những làn hơi nước trắng. Ánh sáng giờ vàng ấm áp, độ chi tiết cao, chân thực như ảnh chụp.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090467779656957952/img/DGTiXxoy0wFih11p.jpg" width="600" alt="Khung cảnh đường phố thành phố Steampunk">
+
+**[🎬 Xem video →](https://x.com/RiaZumu39304591/status/2090468195065045026)**
+
+**Tác giả:** [愛かM‌uμ](https://x.com/RiaZumu39304591) | **Nguồn:** [Link](https://x.com/RiaZumu39304591/status/2090468195065045026) | **Đã xuất bản:** Aug 20, 2026
+
+---
+### Video Kinetic Typography theo phong cách Bauhaus Swiss
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một kịch bản kinetic typography chính xác dài 12 giây tuân thủ các nguyên tắc thiết kế Bauhaus với hình khối hình học và bố cục lưới nghiêm ngặt.
+
+#### 📝 Prompt
+
+```
+Tạo một video kinetic typography gồm 8 cảnh với tỷ lệ 16:9, 24fps, thời lượng chính xác 12 giây. Phong cách: Bauhaus / Swiss International — sử dụng các màu cơ bản phẳng (đỏ, vàng, xanh dương, đen, trắng ngà), lưới nghiêm ngặt, phông chữ sans-serif hình học.
+Phim này bao gồm 90% là typography và các hình khối hình học chuyển động, 10% là các điểm nhấn kết cấu.
+CẢNH 01 | 0.0-1.5s - Nền trắng ngà. Từ "FORM" rơi xuống từng chữ cái trên một lưới cơ sở, mỗi chữ cái khi chạm vào đều có độ nảy nhẹ.
+CẢNH 02 | 1.5-3.0s - Một hình tròn màu đỏ lăn vào từ bên trái và đẩy chữ "M" ra khỏi khung hình; "FOR—" giữ nguyên một nhịp.
+CẢNH 03 | 3.0-4.5s - Cắt cảnh đột ngột: toàn bộ khung hình màu vàng, chữ "FOLLOWS" xếp chồng theo chiều dọc, các chữ cái trượt theo các hướng xen kẽ.
+CẢNH 04 | 4.5-6.0s - Một đường chéo màu xanh dương quét qua khung hình; "FUNCTION" nằm trên đường chéo; camera xoay cho đến khi chữ nằm ngang.
+CẢNH 05 | 6.0-7.5s - Ba từ hoán đổi vị trí trên lưới 3 cột nghiêm ngặt, khớp theo nhịp.
+CẢNH 06 | 7.5-9.0s - Tất cả chữ thu nhỏ vào kết cấu lưới 8pt; một hình vuông màu đen phóng to qua tâm.
+CẢNH 07 | 9.0-10.5s - Hình vuông tách ra thành bố cục Mondrian; mỗi từ nằm trong một ô màu.
+CẢNH 08 | 10.5-12.0s - Thẻ kết thúc: "FORM FOLLOWS FUNCTION — 1919" căn lề dưới bên trái, hình tròn màu đỏ đóng vai trò là dấu chấm hết, giữ hình.
+Typography phải hoàn toàn dễ đọc trước khi bất kỳ hình khối nào đè lên. Chữ cái không bao giờ bị biến dạng hoặc tan chảy; khoảng cách giữa các chữ cái (kerning) luôn đồng đều về mặt thị giác.
+Biên tập: cắt cảnh dứt khoát và các chuyển động nhanh khớp với nhịp 120bpm.
+Âm thanh: tiếng click điện tử tối giản + nhịp bass ở mỗi lần cắt cảnh.
+KHÔNG ĐƯỢC: sử dụng gradient, đổ bóng (drop shadows), hiệu ứng 3D, phông chữ có chân (serif), chữ bị tan chảy, thêm từ ngữ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Video Kinetic Typography theo phong cách Bauhaus Swiss">
+
+**[🎬 Xem video →](https://x.com/EZheng66099/status/2090185695641968736)**
+
+**Tác giả:** [EZ](https://x.com/EZheng66099) | **Nguồn:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Đã xuất bản:** Aug 19, 2026
+
+---
 ### Đồ họa chuyển động về nghi thức trà đạo Trung Hoa hiện đại
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2866,99 +2971,13 @@ Góc nhìn từ trên xuống của đôi tay đang gõ trên bàn phím cơ. Nh
 **Tác giả:** [Neurain](https://x.com/NeurainX) | **Nguồn:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### Cảnh công viên với chú chim bồ câu biết nói
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video siêu thực và đậm chất điện ảnh về một người phụ nữ lớn tuổi trong công viên, nơi chú chim bồ câu bất ngờ cất tiếng nói với bà.
-
-#### 📝 Prompt
-
-```
-Một video chân thực, đậm chất điện ảnh dài 10 giây quay cảnh một người phụ nữ lớn tuổi hiền hậu với mái tóc bạc đang ngồi trên băng ghế gỗ trong một công viên địa phương ngập tràn ánh nắng, bà đang bóp vụn mẩu bánh mì khô và ném cho đàn chim bồ câu nhỏ dưới chân. Máy quay lia xuống cận cảnh một chú chim bồ câu xám cụ thể. Chú chim bồ câu nhìn thẳng lên người phụ nữ, mỏ của nó chuyển động một cách chân thực khi cất tiếng nói bằng giọng điệu lịch sự: "Ngày mai bà có thể mang cho chúng cháu ít bánh vòng được không ạ?" Máy quay chuyển cảnh trở lại khuôn mặt của người phụ nữ, ghi lại biểu cảm vô cùng kinh ngạc và bối rối của bà. Ánh sáng tự nhiên, độ sâu trường ảnh nông.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072681494816976896/img/THpOjpflO5_b9BE-.jpg" width="600" alt="Cảnh công viên với chú chim bồ câu biết nói">
-
-**[🎬 Xem video →](https://x.com/michaelrabone/status/2072681730423521364)**
-
-**Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2072681730423521364) | **Đã xuất bản:** Jul 2, 2026
-
----
-### Video Montage Vlog du lịch Tokyo bằng điện thoại
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một prompt tạo video toàn diện cho vlog du lịch Tokyo dài 10 giây, với nhân vật nữ nhất quán, các hiệu ứng camera chân thực và những tương tác tự nhiên tại các địa điểm mang tính biểu tượng.
-
-#### 📝 Prompt
-
-```
-Tạo một video montage vlog du lịch điện ảnh dài 10 giây. Trong mọi cảnh quay, hãy sử dụng nhất quán khuôn mặt của nữ nhân vật đã tải lên. Cô ấy là một nữ sáng tạo nội dung du lịch trẻ trung, xinh đẹp với mái tóc dài gợn sóng màu tối và tóc mái xoăn, mặc trang phục đường phố Nhật Bản oversized sành điệu (áo khoác da dài màu đỏ tía, túi đeo vai), trang điểm tự nhiên và có tính cách vui vẻ, hoạt bát. Toàn bộ video cần mang lại cảm giác như thước phim quay bằng điện thoại thực tế, bao gồm chuyển động camera cầm tay, khung hình không hoàn hảo, hiệu ứng lóe sáng (lens flare) ngẫu nhiên, nhòe chuyển động nhẹ, hiệu ứng rolling shutter, nhiễu hạt ISO cao vào ban đêm, lấy nét tự động không ổn định, vùng sáng bị cháy (blown-out highlights), méo hình nhẹ do ống kính góc rộng của điện thoại, vết bẩn nhỏ trên ống kính và độ rung lắc tự nhiên của camera. Tránh phong cách thương mại bóng bẩy. Cấu trúc câu chuyện (10 giây) 0,0–0,8s Selfie góc thấp trước tháp Tokyo. Cô ấy cười tự nhiên trong khi chỉnh điện thoại. Đường chân trời hơi nghiêng. Bầu trời nhiều mây sáng quá mức. Có dấu vân tay nhỏ trên ống kính. 0,8–1,6s Đi bộ qua giao lộ Shibuya vào ban đêm. Nhìn lại camera khi đang đi bộ. Đèn neon phản chiếu trên mặt đường ướt. Nhòe chuyển động mạnh. Chuyển cảnh bằng cú lia máy nhanh (whip pan). 1,6–2,4s Bên trong một cửa hàng tiện lợi Nhật Bản. Cầm onigiri sát vào camera. Nhướn mày một cách dễ thương và tinh nghịch. Ánh sáng đèn huỳnh quang gay gắt. Các kệ hàng phía sau bị làm mờ nhẹ. 2,4–3,2s Ngồi một mình trong công viên Yoyogi. Một khoảnh khắc chân thực, yên tĩnh. Nhìn ra xa camera. Ánh nắng dịu nhẹ xuyên qua các tán cây. Lấy nét hơi lệch. 3,2–4,0s Ăn takoyaki mới làm. Phản ứng tức thì sau miếng đầu tiên. Ánh sáng đèn lồng ấm áp. Khuôn mặt hơi mờ do chuyển động. Cười tự nhiên. 4,0–4,8s Đứng trước máy bán hàng tự động đang phát sáng. Ánh sáng xanh và hồng trên khuôn mặt. Thản nhiên nhấn nút chọn đồ uống. Có thể thấy nhiễu hạt vào ban đêm. 4,8–5,6s Hình ảnh phản chiếu trên cửa sổ tàu điện Tokyo. Ánh đèn thành phố xếp lớp phản chiếu trên kính. Cô ấy nhìn ra ngoài cửa sổ đầy suy tư. Chuyển động của tàu tạo ra các vệt sáng. 5,6–6,4s Đi bộ dưới cổng Torii. Cảnh quay theo dõi góc thấp từ phía sau. Quay đầu nhanh. Nhòe chuyển động. Quầng sáng rực rỡ từ bầu trời. 6,4–7,2s Triển lãm nghệ thuật kỹ thuật số sống động. Ánh sáng xanh, tím và vàng di chuyển trên khuôn mặt. Ngước nhìn đầy kinh ngạc. Nhiễu hạt tự nhiên trong điều kiện thiếu sáng. 7,2–8,0s Cảnh quay góc rộng, góc thấp bên cạnh một tác phẩm điêu khắc hình viên đạn bạc khổng lồ. Cô ấy trông nhỏ bé dưới tác phẩm điêu khắc. Méo hình do ống kính điện thoại. Bầu trời hơi sáng quá mức. 8,0–8,8s Đi bộ qua con hẻm thắp đèn lồng. Camera theo sau từ phía sau. Cô ấy quay lại và mỉm cười. Ánh sáng đèn lồng ấm áp. Nhiễu hạt tự nhiên vào ban đêm. 8,8–10,0s Selfie trên sân thượng nhìn ra đường chân trời Tokyo. Gió thổi tóc bay ngang ống kính camera. Đường chân trời hơi nghiêng. Ánh đèn thành phố sáng quá mức. Cô ấy cười tự nhiên trong khi vươn tay về phía đường chân trời. Phong cách biên tập * Chuyển cảnh bằng cú lia máy nhanh (whip pan) * Tăng tốc độ (speed ramping) * Cắt nối khớp (match cuts) * Cắt nhảy tự nhiên (jump cuts) * Chuyển động camera cầm tay * Hiệu ứng rolling shutter nhẹ * Phơi sáng HDR của điện thoại * Năng lượng vlog du lịch chân thực * Không quay chậm (slow motion) * Không chỉnh màu điện ảnh * Thẩm mỹ của nhà sáng tạo TikTok chân thực * Tông màu da ấm áp * Độ chân thực cao * Nhất quán về khuôn mặt trong mọi cảnh quay * Tỷ lệ khung hình 16:9 ngang, 16:9
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072614460746080256/img/H_BX2Tgbu6m2vVFV.jpg" width="600" alt="Video Montage Vlog du lịch Tokyo bằng điện thoại">
-
-**[🎬 Xem video →](https://x.com/xzjken/status/2072615060632228239)**
-
-**Tác giả:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Nguồn:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Đã xuất bản:** Jul 2, 2026
-
----
-### Trận chiến thành phố giữa Sloth khổng lồ và Godzilla
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh cực kỳ chi tiết mô tả cảnh một con lười to bằng ngọn núi vô tình đánh bại quái vật voi-Godzilla với hiệu ứng vật lý hài hước.
-
-#### 📝 Prompt
-
-```
-Một con lười khổng lồ chậm chạp cao bằng ngọn núi đang treo mình trên một tòa nhà chọc trời, ngáp một cái thật lớn. Một quái vật voi-Godzilla hung dữ dậm chân tiến về phía nó, phun ra những tia chớp nhỏ xíu. Con lười lười biếng đưa một móng vuốt ra và vô tình hất văng con quái vật đi xa hàng dặm mà không tốn chút sức lực nào. Con lười nhún vai rồi quay lại ngủ tiếp trên tòa nhà. Sự tương phản phi lý về tốc độ, hiệu ứng vật lý hài hước, những cú va chạm chuyển động chậm đầy thú vị, khung cảnh thành phố bị tàn phá sống động.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Trận chiến thành phố giữa Sloth khổng lồ và Godzilla">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2072542482857099759)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Đã xuất bản:** Jul 2, 2026
-
----
-### Video cô gái vùng cao Pahadi trong buổi sáng tại dãy Himalaya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý kịch bản phân cảnh điện ảnh cho video dài 10 giây, mô tả một cô gái trẻ cùng đàn cừu giữa những ngọn núi Himalaya mờ sương, bao gồm nhiều kiểu quay và âm thanh môi trường.
-
-#### 📝 Prompt
-
-```
-Tiêu đề cảnh quay: Cô gái Pahadi và đàn cừu — Buổi sáng tại Himalaya
-[0s–2s]
-Cảnh toàn (Wide shot): Một cô gái trẻ người Ấn Độ, vóc dáng mảnh khảnh, khoảng 22 tuổi, đang nhẹ nhàng bước đi trên con đường mòn hẹp trên núi. Cô mặc trang phục Pahadi truyền thống (khăn choàng len mềm mại, áo kurta đơn giản, khuyên tai bạc jhumka), chiếc khăn dupatta khẽ bay trong gió. Phía sau là những ngọn núi xanh mờ sương và rừng thông. Ánh nắng buổi sáng tự nhiên, tông màu vàng dịu.
-[2s–4s]
-Cảnh trung (Medium shot): Cô đi bên cạnh một đàn cừu nhỏ, tay nhẹ nhàng đặt lên chiếc gậy gỗ. Biểu cảm của cô bình thản, ấm áp và mãn nguyện — một nụ cười nhẹ, đôi mắt ánh lên vẻ ngây thơ yêu thiên nhiên. Gió thổi qua mái tóc cô một cách tự nhiên.
-[4s–6s]
-Cảnh cận (Close-up): Gương mặt cô trong ánh sáng tự nhiên dịu nhẹ — các đường nét thanh tú, xinh xắn, phong cách không trang điểm, làn da rạng rỡ. Cô nhìn đàn cừu đầy trìu mến, khẽ cười khi một chú cừu dụi vào chân mình. Âm thanh môi trường tự nhiên: tiếng chim hót, tiếng chuông cừu (ghungroo) xa xa, tiếng gió xào xạc.
-[6s–8s]
-Cảnh quay theo từ phía sau (Tracking shot): Cô bước tiếp lên một sườn đồi đầy cỏ, đàn cừu theo sau, chiếc khăn dupatta bay trong gió, bóng dáng cô nổi bật trên nền những đỉnh núi Himalaya trùng điệp và những đám mây trôi.
-[8s–10s]
-Cảnh toàn cuối (Final wide shot): Cô dừng lại ở mép vách đá, nhìn ra thung lũng, đàn cừu đang thong dong gặm cỏ xung quanh. Tiếng gió nhẹ, âm thanh tiếng chuông đền hoặc tiếng sáo xa xa dần hiện lên. Dừng lại ở biểu cảm bình yên, thanh thản của cô khi cảnh quay mờ dần vào hiệu ứng tối góc nhẹ nhàng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Video cô gái vùng cao Pahadi trong buổi sáng tại dãy Himalaya">
-
-**[🎬 Xem video →](https://x.com/b275511/status/2072308089056084456)**
-
-**Tác giả:** [TheAIDev](https://x.com/b275511) | **Nguồn:** [Link](https://x.com/b275511/status/2072308089056084456) | **Đã xuất bản:** Jul 1, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 79 prompt khác không hiển thị ở đây
+### 🎯 83 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3004,6 +3023,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-21T08:38:11.382Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-21T12:42:39.184Z</sub>
 
 </div>

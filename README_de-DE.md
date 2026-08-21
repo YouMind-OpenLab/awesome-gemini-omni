@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **179** |
+| 📝 Gesamtanzahl Prompts | **183** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-21** |
 
@@ -56,6 +56,111 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Zeitraffer vom Bau einer Aussichtsplattform an einer Klippe
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein cineastischer Video-Generierungs-Prompt für eine Zeitraffersequenz, die den Bau einer gläsernen Aussichtsplattform an einer Klippe zeigt, inklusive detaillierter Stahlbauarbeiten, Schweißvorgängen und der endgültigen Fertigstellung.
+
+#### 📝 Prompt
+
+```
+Beginnend an der ursprünglichen Baustelle der Stahlkonstruktion an der Klippe → riesige, realistische menschliche Hände installieren nach und nach Anker, freitragende Stahlträger, Schweißfunken und Glasbodenplatten → Fertigstellung der luxuriösen Aussichtsplattform → Miniatur-Touristen betreten den transparenten Boden, um über den Canyon zu blicken und Fotos zu machen, während Bergnebel langsam vorbeizieht. Behalten Sie die gleiche Bergumgebung durchgehend bei, warme Nachmittagsbeleuchtung, cineastische Miniatur-Ingenieur-Ästhetik, mit einer langsamen Kamerafahrt nach vorne + leichtem horizontalen Schwenk.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090671965375967232/img/hZUA9IStcund8AZq.jpg" width="600" alt="Zeitraffer vom Bau einer Aussichtsplattform an einer Klippe">
+
+**[🎬 Video ansehen →](https://x.com/XiaoKooeye/status/2090673511899820355)**
+
+**Autor:** [Xiao Yang](https://x.com/XiaoKooeye) | **Quelle:** [Link](https://x.com/XiaoKooeye/status/2090673511899820355) | **Veröffentlicht:** Aug 21, 2026
+
+---
+### UGC-Produktvideo für tragbaren Ventilator
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender Prompt zur Erstellung eines vertikalen UGC-Produktvideos für einen tragbaren Ventilator, inklusive Unboxing, Makro-Details und Funktionsvorführungen mit Fokus auf ASMR-Sounds und realistischen Texturen.
+
+#### 📝 Prompt
+
+```
+Vertikaler Produktfilm im UGC-Stil, durchgehend mit dem tragbaren AERIO Ventilator. Kompakter schwarzer Ventilator, mattes Kunststoffgehäuse, abgerundetes Frontgitter, Tragegriff in Lederoptik, kleines Bedienfeld mit drei Tasten. Unboxing- und Demo-Sequenz, weiches natürliches Licht, geringe Schärfentiefe, Makro-Details von Texturen und Mechanismen.
+Szenen:
+Makro-Nahaufnahme, Hände halten die AERIO Box, schwarze Verpackung mit kleinem Logo. Die Kamera fährt näher heran. Kartontextur sichtbar, fein und faserig. Leichte Reibung der Finger auf der Oberfläche.
+Top-Down-Perspektive. Hände öffnen die Box, heben den AERIO Ventilator aus der Verpackung. Kunststofffolie knistert. Kartonlasche löst sich mit einem leisen Reißen.
+Flat-Lay auf einem Holztisch. Vollständiger Inhalt ausgebreitet: Ventilator, aufgewickeltes USB-Kabel, kleines Zubehör, Bedienungsanleitung. Fingerspitzen tippen jeden Gegenstand einmal an.
+Extreme Nahaufnahme des Frontgitters und des Bedienfelds. Gittermuster scharf. Fingerspitze tippt nacheinander auf jede der drei Tasten, mattes Kunststoffgefühl unter dem Finger.
+Nahaufnahme des Tragegriffs, Textur in Lederoptik, genähte Naht sichtbar. Hand greift und hebt den Ventilator leicht an, spürbares Gewicht bei der Bewegung.
+Top-Down-Nahaufnahme der Wassertanköffnung. Wasser fließt in einem stetigen Strahl hinein, Tank füllt sich, kleine Kräuselungen an der Oberfläche.
+Makro-Nahaufnahme, Fingerspitze drückt die Steuertaste. Sanftes mechanisches Klicken. Rotorblätter beginnen sich zu drehen, Geschwindigkeit nimmt zu, Motorgeräusch steigt an.
+Nahaufnahme, Ventilator im Nebelmodus. Feiner Nebel strömt aus den Öffnungen, fängt das Licht ein, Rotorblätter drehen sich stetig dahinter.
+Seitenansicht, höhere Geschwindigkeitsstufe. Ein dünnes Papiertuch wird vor die Öffnung gehalten und flattert. Geschwindigkeit durchläuft drei Stufen, die Bewegung des Tuchs verstärkt sich mit jeder Stufe.
+Medium Lifestyle-Aufnahme. Der Ventilator steht auf einem Tisch neben einem Sofa, modernes Wohnzimmer, natürliche Platzierung im Alltag.
+Hero-Shot. Der Ventilator zentriert auf einem minimalistischen Tisch, eine kleine Pflanze leicht unscharf im Hintergrund, AERIO Logo auf dem Gehäuse sichtbar. Kamera fährt sanft heran und endet in einem sauberen finalen Bild.
+Materialien: Box — matter schwarzer Karton, feine Fasertextur. Ventilatorgehäuse — matter schwarzer Kunststoff, texturierte Griffpunkte. Griff — Lederoptik, genäht. Wasser — klar, kleine Kräuselungen und leichte Spritzer. Nebel — fein, sichtbar, fängt das Licht ein.
+Audio: Nur ASMR-Produktgeräusche — Kartontextur, Kunststoffknistern, Fingerspitzentippen, Tastenklicken, Wasserstrahl, Motorbrummen, Luftstrom und Nebel.
+Konsistenz: Gleiches schwarzes Design, Gittermuster, Griff und Logoplatzierung in jeder Szene. Hände bewegen sich natürlich, bewusst und ruhig. Beleuchtung bleibt von Szene zu Szene gleichmäßig.
+Look: Natürliches Tageslicht, weich und gleichmäßig. Geringe Schärfentiefe, scharfe Makro-Details. Realistische Hauttextur an den Händen. Saubere, minimalistische Hintergründe. Fließender, handgeführter UGC-Look. 9:16 vertikal, 10 Sekunden.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787301553513_y4j1qm_HQMIY6JacAAlIZB.jpg" width="600" alt="UGC-Produktvideo für tragbaren Ventilator">
+
+**[🎬 Video ansehen →](https://x.com/ritesh_ai/status/2090523913583476858)**
+
+**Autor:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Quelle:** [Link](https://x.com/ritesh_ai/status/2090523913583476858) | **Veröffentlicht:** Aug 20, 2026
+
+---
+### Steampunk-Stadtstraßenszene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Videogenerierungs-Prompt für eine belebte viktorianische Steampunk-Stadt mit Luftschiffen, Kopfsteinpflasterstraßen und warmem Licht zur goldenen Stunde.
+
+#### 📝 Prompt
+
+```
+Eine belebte Straßenszene in einer Steampunk-Stadt. Verzierte viktorianische Architektur mit Messingrohren und Zahnrädern. Luftschiffe mit komplexen Designs schweben darüber. Menschen in aufwendiger Steampunk-Kleidung gehen über die Kopfsteinpflasterstraßen. Dampfschächte stoßen weiße Dampfwolken aus. Warmes Licht zur goldenen Stunde, hochdetailliert, fotorealistisch.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090467779656957952/img/DGTiXxoy0wFih11p.jpg" width="600" alt="Steampunk-Stadtstraßenszene">
+
+**[🎬 Video ansehen →](https://x.com/RiaZumu39304591/status/2090468195065045026)**
+
+**Autor:** [愛かM‌uμ](https://x.com/RiaZumu39304591) | **Quelle:** [Link](https://x.com/RiaZumu39304591/status/2090468195065045026) | **Veröffentlicht:** Aug 20, 2026
+
+---
+### Bauhaus Swiss Kinetic Typography Spot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein präzises 12-sekündiges Kinetic-Typography-Skript nach Bauhaus-Designprinzipien mit geometrischen Formen und strengem Raster-Layout.
+
+#### 📝 Prompt
+
+```
+Erstelle einen 8-Schnitt Kinetic-Typography-Spot in 16:9, 24 fps, exakt 12 s. Stil: Bauhaus / Swiss International — flache Primärfarben (Rot, Gelb, Blau, Schwarz, Cremeweiß), strenges Raster, geometrische serifenlose Schrift.
+Der Film besteht zu 90 % aus Typografie und bewegten geometrischen Formen, zu 10 % aus Textur-Akzenten.
+CUT 01 | 0,0-1,5 s - Cremeweißer Hintergrund. Das Wort „FORM“ fällt Buchstabe für Buchstabe auf ein Grundlinienraster, jeder landet mit einem kleinen Sprung.
+CUT 02 | 1,5-3,0 s - Ein roter Kreis rollt von links herein und stößt das „M“ aus dem Bild; „FOR—“ hält einen Takt lang.
+CUT 03 | 3,0-4,5 s - Harter Schnitt: vollflächig gelber Rahmen, „FOLLOWS“ vertikal gestapelt, Buchstaben gleiten in abwechselnden Richtungen hinein.
+CUT 04 | 4,5-6,0 s - Eine blaue Diagonale wischt über den Rahmen; „FUNCTION“ sitzt auf der Diagonale; die Kamera rotiert, bis es horizontal lesbar ist.
+CUT 05 | 6,0-7,5 s - Die drei Wörter tauschen ihre Positionen auf einem strengen 3-Spalten-Raster, passend zum Takt.
+CUT 06 | 7,5-9,0 s - Die gesamte Schrift schrumpft zu einer 8-pt-Rastertextur; ein schwarzes Quadrat skaliert durch die Mitte nach vorne.
+CUT 07 | 9,0-10,5 s - Das Quadrat teilt sich in eine Mondrian-Komposition; ein Wort pro Farbfeld.
+CUT 08 | 10,5-12,0 s - Endcard: „FORM FOLLOWS FUNCTION — 1919“ unten links ausgerichtet, der rote Kreis als Punkt, halten.
+Die Typografie ist vollständig lesbar, bevor sie von Formen überlagert wird. Buchstaben verzerren oder verschmelzen nicht; das Kerning bleibt optisch gleichmäßig.
+Schnitt: Harte Schnitte und Snap-Bewegungen, synchronisiert auf 120 bpm.
+Audio: Minimalistische elektronische Klicks + Bass-Impuls bei jedem Schnitt.
+NICHT ERLAUBT: Verläufe, Schlagschatten, 3D-Extrusion, Serifenschriften, verschmolzene Buchstaben, zusätzliche Wörter.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Bauhaus Swiss Kinetic Typography Spot">
+
+**[🎬 Video ansehen →](https://x.com/EZheng66099/status/2090185695641968736)**
+
+**Autor:** [EZ](https://x.com/EZheng66099) | **Quelle:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Veröffentlicht:** Aug 19, 2026
+
+---
 ### Motion Graphics für eine moderne chinesische Teezeremonie
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2916,99 +3021,13 @@ Eine Draufsicht auf Hände, die auf einer mechanischen Tastatur tippen. Schlanke
 **Autor:** [Neurain](https://x.com/NeurainX) | **Quelle:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Veröffentlicht:** Jul 2, 2026
 
 ---
-### Sprechende Taube im Park
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer und filmischer Video-Prompt, in dem eine ältere Frau in einem Park von ihrer Taube unerwartet angesprochen wird.
-
-#### 📝 Prompt
-
-```
-Ein realistisches, filmisches 10-sekündiges Video einer sanften älteren Frau mit grauem Haar, die auf einer Holzbank in einem sonnendurchfluteten Park sitzt, trockenes Brot zerbröckelt und es einer kleinen Schar Tauben zu ihren Füßen zuwirft. Die Kamera schwenkt nach unten auf eine Nahaufnahme einer bestimmten grauen Taube. Die Taube schaut direkt zu der Frau auf, ihr Schnabel bewegt sich realistisch, während sie mit höflicher Stimme spricht: „Würdest du uns morgen bitte ein paar Krapfen mitbringen?“ Die Kamera schneidet zurück auf das Gesicht der Frau, das ihren Ausdruck völliger Überraschung und Fassungslosigkeit zeigt. Natürliche Beleuchtung, geringe Schärfentiefe.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072681494816976896/img/THpOjpflO5_b9BE-.jpg" width="600" alt="Sprechende Taube im Park">
-
-**[🎬 Video ansehen →](https://x.com/michaelrabone/status/2072681730423521364)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Quelle:** [Link](https://x.com/michaelrabone/status/2072681730423521364) | **Veröffentlicht:** Jul 2, 2026
-
----
-### Tokyo Smartphone-Reise-Vlog-Montage
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein umfassender Video-Generierungs-Prompt für einen 10-sekündigen Tokyo-Reise-Vlog mit einer konsistenten Creatorin, realistischen Kamera-Artefakten und natürlichen Interaktionen an ikonischen Orten.
-
-#### 📝 Prompt
-
-```
-Erstelle eine 10-sekündige, filmische Reise-Vlog-Montage. Verwende in jeder Einstellung durchgehend das hochgeladene Gesicht der Frau. Sie ist eine atemberaubende junge Reise-Creatorin mit langem, dunklem, welligem Haar und lockigem Pony, die stylische, übergroße japanische Streetwear trägt (burgunderrote lange Lederjacke, Umhängetasche), mit natürlichem Make-up und einer fröhlichen, lebhaften Persönlichkeit. Das gesamte Video sollte sich wie echtes Smartphone-Material anfühlen, einschließlich handgeführter Kamerabewegungen, unperfekter Bildausschnitte, zufälliger Lens Flares, leichter Bewegungsunschärfe, Rolling-Shutter-Effekt, hohem ISO-Rauschen bei Nacht, Autofokus-Pumpen, überbelichteten Highlights, leichter tonnenförmiger Verzeichnung durch das Weitwinkelobjektiv eines Smartphones, winzigen Fingerabdrücken auf der Linse und natürlichem Kamerawackeln. Vermeide einen polierten kommerziellen Stil. Story-Ablauf (10 Sekunden) 0,0–0,8s Low-Angle-Selfie vor dem Tokyo Tower. Sie lächelt natürlich, während sie das Handy ausrichtet. Der Horizont ist leicht geneigt. Heller, überbelichteter bewölkter Himmel. Winziger Fingerabdruck auf der Linse. 0,8–1,6s Gang über die Shibuya-Kreuzung bei Nacht. Blick zurück zur Kamera während des Gehens. Neonlichter spiegeln sich auf nassen Straßen. Starke Bewegungsunschärfe. Schneller Whip-Pan-Übergang. 1,6–2,4s In einem japanischen Convenience Store. Hält ein Onigiri nah an die Kamera. Zieht niedlich und verspielt die Augenbrauen hoch. Hartes Neonlicht. Hintergrundregale weich verschwommen. 2,4–3,2s Alleine im Yoyogi-Park sitzend. Ein ruhiger, authentischer Moment. Blick weg von der Kamera. Weiches Sonnenlicht fällt durch die Bäume. Leichter Fokusfehler. 3,2–4,0s Essen von frisch zubereitetem Takoyaki. Spontane Reaktion nach dem ersten Bissen. Warmes Laternenlicht. Gesicht durch Bewegung leicht verschwommen. Natürliches Lachen. 4,0–4,8s Stehend vor einem leuchtenden Verkaufsautomaten. Blaues und rosa Licht auf ihrem Gesicht. Drückt beiläufig einen Getränkeknopf. Sichtbares nächtliches Bildrauschen. 4,8–5,6s Spiegelung in einem Fenster eines Tokyoter Zuges. Überlagerte Stadtlichter spiegeln sich im Glas. Sie schaut nachdenklich aus dem Fenster. Die Zugbewegung erzeugt Lichtstreifen. 5,6–6,4s Gehen unter Torii-Toren. Low-Angle-Tracking-Shot von hinten. Kurzes Umdrehen des Kopfes. Bewegungsunschärfe. Heller Lichtschein vom Himmel. 6,4–7,2s Immersive digitale Kunstausstellung. Blaue, violette und goldene Lichter bewegen sich über ihr Gesicht. Schaut staunend nach oben. Natürliches Rauschen bei wenig Licht. 7,2–8,0s Weitwinkel-Low-Angle-Aufnahme neben einer riesigen silbernen Kugel-Skulptur. Sie wirkt klein unter der Skulptur. Handy-Linsenverzerrung. Himmel leicht überbelichtet. 8,0–8,8s Gehen durch eine laternenbeleuchtete Gasse. Die Kamera folgt von hinten. Sie dreht sich um und lächelt. Warmes Laternenleuchten. Natürliches nächtliches Bildrauschen. 8,8–10,0s Rooftop-Selfie mit Blick auf die Skyline von Tokyo. Wind weht ihr Haar über die Kameralinse. Horizont leicht geneigt. Überbelichtete Stadtlichter. Sie lacht natürlich, während sie einen Arm in Richtung Skyline ausstreckt. Bearbeitungsstil * Schnelle Whip-Pan-Übergänge * Speed Ramping * Match Cuts * Natürliche Jump Cuts * Handgeführte Kamerabewegungen * Leichter Rolling-Shutter-Effekt * Smartphone-HDR-Belichtung * Authentische Reise-Vlog-Energie * Keine Zeitlupe * Kein filmisches Color Grading * Authentische TikTok-Creator-Ästhetik * Warme Hauttöne * Hoher Realismus * Konsistente Gesichtsidentität in jeder Szene * 16:9 Landscape, 16:9
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072614460746080256/img/H_BX2Tgbu6m2vVFV.jpg" width="600" alt="Tokyo Smartphone-Reise-Vlog-Montage">
-
-**[🎬 Video ansehen →](https://x.com/xzjken/status/2072615060632228239)**
-
-**Autor:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Quelle:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Veröffentlicht:** Jul 2, 2026
-
----
-### Riesenfaultier gegen Godzilla: Stadtkampf
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, filmreifer Prompt, in dem ein berg-großes Faultier versehentlich ein Elefanten-Godzilla-Monster mit Slapstick-Physik besiegt.
-
-#### 📝 Prompt
-
-```
-Ein gigantisches, sich langsam bewegendes Faultier von der Größe eines Berges hängt an einem Wolkenkratzer und gähnt herzhaft. Ein wütendes Elefanten-Godzilla-Monster stampft darauf zu und speit winzige Blitze. Das Faultier streckt träge eine Kralle aus und schleudert das Monster mühelos meilenweit weg. Das Faultier zuckt mit den Schultern und schläft auf dem Gebäude weiter. Absurder Geschwindigkeitskontrast, Slapstick-Physik, humorvolle Zeitlupen-Einschläge, lebhafte Zerstörung der Stadt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Riesenfaultier gegen Godzilla: Stadtkampf">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2072542482857099759)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Veröffentlicht:** Jul 2, 2026
-
----
-### Video eines Pahadi-Mädchens am Morgen im Himalaya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmisches Storyboard-Prompt für ein 10-sekündiges Video, das ein junges Mädchen mit Schafen in den nebligen Bergen des Himalaya zeigt, inklusive verschiedener Kameraeinstellungen und Umgebungsgeräusche.
-
-#### 📝 Prompt
-
-```
-Szenentitel: Pahadi-Mädchen mit Schafen — Morgen im Himalaya
-[0s–2s]
-Totale (Establishing Shot): Ein junges indisches Bergmädchen, schlanke Statur, etwa 22 Jahre alt, geht sanft einen schmalen Bergpfad entlang. Sie trägt ein traditionelles Pahadi-Outfit (weicher Wollschal, schlichtes Kurta, silberne Jhumka-Ohrringe), ihr Dupatta flattert leicht im Wind. Neblige grüne Berge und Pinien im Hintergrund. Natürliches Morgenlicht, sanfter Goldton.
-[2s–4s]
-Halbnahe Einstellung: Sie geht neben einer kleinen Schafherde her, ihre Hand ruht sanft auf einem Holzstab. Ihr Ausdruck ist ruhig, warm und zufrieden — ein sanftes Lächeln, ihre Augen spiegeln eine naturverbundene Unschuld wider. Der Wind bewegt ihr Haar auf natürliche Weise.
-[4s–6s]
-Großaufnahme: Ihr Gesicht im sanften natürlichen Licht — niedliche, elegante Gesichtszüge, natürlicher Look ohne Make-up, strahlende Haut. Sie blickt liebevoll zu den Schafen und lacht leise, als eines sie anstupst. Natürliche Umgebungsgeräusche: Vogelgezwitscher, leise Schafsglocken (Ghungroo), Windrauschen.
-[6s–8s]
-Verfolgungseinstellung von hinten: Sie geht weiter einen grasbewachsenen Hang hinauf, die Schafe folgen ihr, das Dupatta weht im Wind, ihre Silhouette vor den gestaffelten Gipfeln des Himalaya und ziehenden Wolken.
-[8s–10s]
-Abschließende Totale: Sie hält an einer Klippe inne und blickt über das Tal, während die Schafe friedlich um sie herum grasen. Sanftes Windgeräusch, eine ferne Tempelglocke oder Flötenmusik im Hintergrund blendet ein. Standbild ihres friedlichen, gelassenen Ausdrucks, während das Bild sanft in eine Vignette übergeht.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Video eines Pahadi-Mädchens am Morgen im Himalaya">
-
-**[🎬 Video ansehen →](https://x.com/b275511/status/2072308089056084456)**
-
-**Autor:** [TheAIDev](https://x.com/b275511) | **Quelle:** [Link](https://x.com/b275511/status/2072308089056084456) | **Veröffentlicht:** Jul 1, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 79 weitere Prompts hier nicht angezeigt
+### 🎯 83 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3054,6 +3073,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-21T08:38:16.296Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-21T12:42:43.519Z</sub>
 
 </div>
