@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **181** |
+| 📝 Gesamtanzahl Prompts | **179** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-21** |
 
@@ -56,57 +56,6 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
-### Bauhaus Swiss Kinetic Typography Spot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein präzises 12-sekündiges Kinetic-Typography-Skript nach Bauhaus-Designprinzipien mit geometrischen Formen und strengem Raster-Layout.
-
-#### 📝 Prompt
-
-```
-Erstelle einen 8-Schnitt Kinetic-Typography-Spot in 16:9, 24 fps, exakt 12 s. Stil: Bauhaus / Swiss International — flache Primärfarben (Rot, Gelb, Blau, Schwarz, Cremeweiß), strenges Raster, geometrische serifenlose Schrift.
-Der Film besteht zu 90 % aus Typografie und bewegten geometrischen Formen, zu 10 % aus Textur-Akzenten.
-CUT 01 | 0,0-1,5 s - Cremeweißer Hintergrund. Das Wort „FORM“ fällt Buchstabe für Buchstabe auf ein Grundlinienraster, jeder landet mit einem kleinen Sprung.
-CUT 02 | 1,5-3,0 s - Ein roter Kreis rollt von links herein und stößt das „M“ aus dem Bild; „FOR—“ hält einen Takt lang.
-CUT 03 | 3,0-4,5 s - Harter Schnitt: vollflächig gelber Rahmen, „FOLLOWS“ vertikal gestapelt, Buchstaben gleiten in abwechselnden Richtungen hinein.
-CUT 04 | 4,5-6,0 s - Eine blaue Diagonale wischt über den Rahmen; „FUNCTION“ sitzt auf der Diagonale; die Kamera rotiert, bis es horizontal lesbar ist.
-CUT 05 | 6,0-7,5 s - Die drei Wörter tauschen ihre Positionen auf einem strengen 3-Spalten-Raster, passend zum Takt.
-CUT 06 | 7,5-9,0 s - Die gesamte Schrift schrumpft zu einer 8-pt-Rastertextur; ein schwarzes Quadrat skaliert durch die Mitte nach vorne.
-CUT 07 | 9,0-10,5 s - Das Quadrat teilt sich in eine Mondrian-Komposition; ein Wort pro Farbfeld.
-CUT 08 | 10,5-12,0 s - Endcard: „FORM FOLLOWS FUNCTION — 1919“ unten links ausgerichtet, der rote Kreis als Punkt, halten.
-Die Typografie ist vollständig lesbar, bevor sie von Formen überlagert wird. Buchstaben verzerren oder verschmelzen nicht; das Kerning bleibt optisch gleichmäßig.
-Schnitt: Harte Schnitte und Snap-Bewegungen, synchronisiert auf 120 bpm.
-Audio: Minimalistische elektronische Klicks + Bass-Impuls bei jedem Schnitt.
-NICHT ERLAUBT: Verläufe, Schlagschatten, 3D-Extrusion, Serifenschriften, verschmolzene Buchstaben, zusätzliche Wörter.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Bauhaus Swiss Kinetic Typography Spot">
-
-**[🎬 Video ansehen →](https://x.com/EZheng66099/status/2090185695641968736)**
-
-**Autor:** [EZ](https://x.com/EZheng66099) | **Quelle:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Veröffentlicht:** Aug 19, 2026
-
----
-### Einführung chinesischer Anime-Charaktere
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine rasante 5-sekündige 2D-Anime-Charakter-Montage im chinesischen Stil unter Verwendung von drei Referenzbildern, mit markanten Tusche-Hintergründen und heroischen Posen.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie eine rasante 5-sekündige 2D-Anime-Montage (Guoman) zur Vorstellung chinesischer Charaktere unter Verwendung der drei bereitgestellten Referenzbilder. WICHTIG: @Image1, @Image2 und @Image3 sind drei völlig unterschiedliche Charaktere. Bewahren Sie das exakte Gesicht, die Frisur, den Hautton, das Outfit, den Körpertyp und die Accessoires jedes Charakters aus dem jeweiligen Referenzbild. Identitäten dürfen niemals verschmolzen, verändert, vermischt oder ausgetauscht werden. Zeigen Sie immer nur einen Charakter gleichzeitig. Hintergrundgestaltung: Jeder Charakter erhält ein eigenes Tusche-Farbfeld (Indigoblau / Zinnoberrot / Tannengrün) mit fliegenden Pinselstrich-Partikeln und einem Namenssiegel, das in die Ecke gestempelt wird. SCHNITT 01 | 0,0-1,6s - @Image1 erscheint durch einen Whip-Pan-Blur, Heldenpose, Gesicht nimmt 40 % der Bildhöhe ein, indigoblaues Tuschefeld, Siegelstempel oben rechts. SCHNITT 02 | 1,6-3,2s - Harter Schnitt. @Image2 gleitet auf diagonalen Speed-Lines ins Bild, zinnoberrotes Feld, Siegelstempel auf der linken Seite. SCHNITT 03 | 3,2-5,0s - Harter Schnitt. @Image3 landet von oben mit einem Impact-Frame und Bildschirmwackeln, tannengrünes Feld; alle drei Siegel richten sich entlang des unteren Randes aus; Endbild halten. Kamera: nur schnelle Push-ins. Keine weiten Ganzkörperaufnahmen; Gesichter bleiben bei 35-50 % der Bildhöhe. Audio: drei Taiko-artige Perkussionsschläge + Tusche-Spritzer-SFX bei jedem Schnitt. NICHT ERLAUBT: Identitätsverschmelzung, zwei Charaktere in einem Bild, neu gestaltete Outfits, westlicher Comic-Stil, lesbarer Text außer den Siegeln. Charakterbogen im chinesischen Donghua-Stil (Guoman), Brustporträt eines jungen Schwertkämpfers, 19 Jahre alt, scharfe, selbstbewusste Augen, langes, tintenschwarzes Haar, hochgebunden mit einer silbernen Haarnadel, tiefblaue, mehrlagige Roben mit dezenter Wolkenmuster-Stickerei, ein Jadeanhänger am Kragen, subtiles Grinsen, Gesicht nimmt etwa 40 % des Bildes ein, Cel-Shading mit subtilen Tusche-Textur-Akzenten, saubere, kräftige Linienführung, filmreifes Charakterdesign, schlichter, warm-hellgrauer Hintergrund, weiche, gleichmäßige Beleuchtung --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Charakterbogen im chinesischen Donghua-Stil (Guoman), Brustporträt einer verspielten jungen Heldin, 17 Jahre alt, leuchtend bernsteinfarbene Augen, Doppel-Dutt-Frisur mit zinnoberroten Bändern und losen Seitensträhnen, purpurrote und weiße kurze Kampfjacke mit Goldbesatz, hält einen halb geöffneten Fächer nahe am Kinn, schelmisches Grinsen, Gesicht nimmt etwa 40 % des Bildes ein, Cel-Shading mit subtilen Tusche-Textur-Akzenten, saubere, kräftige Linienführung, filmreifes Charakterdesign, schlichter, warm-hellgrauer Hintergrund, weiche, gleichmäßige Beleuchtung --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Charakterbogen im chinesischen Donghua-Stil (Guoman), Brustporträt eines sanftmütigen, riesigen Kriegermönchs, 35 Jahre alt, breite Schultern, rasierter Kopf mit leichtem Stoppelbart, dichte Augenbrauen, warmes, ehrliches Lächeln, moosgrüne Mönchsroben mit einer freien Schulter, hölzerne Gebetskette um den Hals, kleine Narbe an der linken Braue, Gesicht nimmt etwa 40 % des Bildes ein, Cel-Shading mit subtilen Tusche-Textur-Akzenten, saubere, kräftige Linienführung, filmreifes Charakterdesign, schlichter, warm-hellgrauer Hintergrund, weiche, gleichmäßige Beleuchtung --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090179877815128065/img/T9QKihnEdChkgmZM.jpg" width="600" alt="Einführung chinesischer Anime-Charaktere">
-
-**[🎬 Video ansehen →](https://x.com/EZheng66099/status/2090180685902369163)**
-
-**Autor:** [EZ](https://x.com/EZheng66099) | **Quelle:** [Link](https://x.com/EZheng66099/status/2090180685902369163) | **Veröffentlicht:** Aug 19, 2026
-
----
 ### Motion Graphics für eine moderne chinesische Teezeremonie
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3005,13 +2954,61 @@ Erstelle eine 10-sekündige, filmische Reise-Vlog-Montage. Verwende in jeder Ein
 **Autor:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Quelle:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Veröffentlicht:** Jul 2, 2026
 
 ---
+### Riesenfaultier gegen Godzilla: Stadtkampf
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, filmreifer Prompt, in dem ein berg-großes Faultier versehentlich ein Elefanten-Godzilla-Monster mit Slapstick-Physik besiegt.
+
+#### 📝 Prompt
+
+```
+Ein gigantisches, sich langsam bewegendes Faultier von der Größe eines Berges hängt an einem Wolkenkratzer und gähnt herzhaft. Ein wütendes Elefanten-Godzilla-Monster stampft darauf zu und speit winzige Blitze. Das Faultier streckt träge eine Kralle aus und schleudert das Monster mühelos meilenweit weg. Das Faultier zuckt mit den Schultern und schläft auf dem Gebäude weiter. Absurder Geschwindigkeitskontrast, Slapstick-Physik, humorvolle Zeitlupen-Einschläge, lebhafte Zerstörung der Stadt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Riesenfaultier gegen Godzilla: Stadtkampf">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2072542482857099759)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Veröffentlicht:** Jul 2, 2026
+
+---
+### Video eines Pahadi-Mädchens am Morgen im Himalaya
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmisches Storyboard-Prompt für ein 10-sekündiges Video, das ein junges Mädchen mit Schafen in den nebligen Bergen des Himalaya zeigt, inklusive verschiedener Kameraeinstellungen und Umgebungsgeräusche.
+
+#### 📝 Prompt
+
+```
+Szenentitel: Pahadi-Mädchen mit Schafen — Morgen im Himalaya
+[0s–2s]
+Totale (Establishing Shot): Ein junges indisches Bergmädchen, schlanke Statur, etwa 22 Jahre alt, geht sanft einen schmalen Bergpfad entlang. Sie trägt ein traditionelles Pahadi-Outfit (weicher Wollschal, schlichtes Kurta, silberne Jhumka-Ohrringe), ihr Dupatta flattert leicht im Wind. Neblige grüne Berge und Pinien im Hintergrund. Natürliches Morgenlicht, sanfter Goldton.
+[2s–4s]
+Halbnahe Einstellung: Sie geht neben einer kleinen Schafherde her, ihre Hand ruht sanft auf einem Holzstab. Ihr Ausdruck ist ruhig, warm und zufrieden — ein sanftes Lächeln, ihre Augen spiegeln eine naturverbundene Unschuld wider. Der Wind bewegt ihr Haar auf natürliche Weise.
+[4s–6s]
+Großaufnahme: Ihr Gesicht im sanften natürlichen Licht — niedliche, elegante Gesichtszüge, natürlicher Look ohne Make-up, strahlende Haut. Sie blickt liebevoll zu den Schafen und lacht leise, als eines sie anstupst. Natürliche Umgebungsgeräusche: Vogelgezwitscher, leise Schafsglocken (Ghungroo), Windrauschen.
+[6s–8s]
+Verfolgungseinstellung von hinten: Sie geht weiter einen grasbewachsenen Hang hinauf, die Schafe folgen ihr, das Dupatta weht im Wind, ihre Silhouette vor den gestaffelten Gipfeln des Himalaya und ziehenden Wolken.
+[8s–10s]
+Abschließende Totale: Sie hält an einer Klippe inne und blickt über das Tal, während die Schafe friedlich um sie herum grasen. Sanftes Windgeräusch, eine ferne Tempelglocke oder Flötenmusik im Hintergrund blendet ein. Standbild ihres friedlichen, gelassenen Ausdrucks, während das Bild sanft in eine Vignette übergeht.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Video eines Pahadi-Mädchens am Morgen im Himalaya">
+
+**[🎬 Video ansehen →](https://x.com/b275511/status/2072308089056084456)**
+
+**Autor:** [TheAIDev](https://x.com/b275511) | **Quelle:** [Link](https://x.com/b275511/status/2072308089056084456) | **Veröffentlicht:** Jul 1, 2026
+
+---
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 81 weitere Prompts hier nicht angezeigt
+### 🎯 79 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3057,6 +3054,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-21T04:36:20.691Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-21T08:38:16.296Z</sub>
 
 </div>

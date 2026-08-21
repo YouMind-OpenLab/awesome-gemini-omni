@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **181** |
+| 📝 Tổng số prompt | **179** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-21** |
 
@@ -56,57 +56,6 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### Video Kinetic Typography theo phong cách Bauhaus Swiss
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một kịch bản kinetic typography chính xác dài 12 giây tuân thủ các nguyên tắc thiết kế Bauhaus với hình khối hình học và bố cục lưới nghiêm ngặt.
-
-#### 📝 Prompt
-
-```
-Tạo một video kinetic typography gồm 8 cảnh với tỷ lệ 16:9, 24fps, thời lượng chính xác 12 giây. Phong cách: Bauhaus / Swiss International — sử dụng các màu cơ bản phẳng (đỏ, vàng, xanh dương, đen, trắng ngà), lưới nghiêm ngặt, phông chữ sans-serif hình học.
-Phim này bao gồm 90% là typography và các hình khối hình học chuyển động, 10% là các điểm nhấn kết cấu.
-CẢNH 01 | 0.0-1.5s - Nền trắng ngà. Từ "FORM" rơi xuống từng chữ cái trên một lưới cơ sở, mỗi chữ cái khi chạm vào đều có độ nảy nhẹ.
-CẢNH 02 | 1.5-3.0s - Một hình tròn màu đỏ lăn vào từ bên trái và đẩy chữ "M" ra khỏi khung hình; "FOR—" giữ nguyên một nhịp.
-CẢNH 03 | 3.0-4.5s - Cắt cảnh đột ngột: toàn bộ khung hình màu vàng, chữ "FOLLOWS" xếp chồng theo chiều dọc, các chữ cái trượt theo các hướng xen kẽ.
-CẢNH 04 | 4.5-6.0s - Một đường chéo màu xanh dương quét qua khung hình; "FUNCTION" nằm trên đường chéo; camera xoay cho đến khi chữ nằm ngang.
-CẢNH 05 | 6.0-7.5s - Ba từ hoán đổi vị trí trên lưới 3 cột nghiêm ngặt, khớp theo nhịp.
-CẢNH 06 | 7.5-9.0s - Tất cả chữ thu nhỏ vào kết cấu lưới 8pt; một hình vuông màu đen phóng to qua tâm.
-CẢNH 07 | 9.0-10.5s - Hình vuông tách ra thành bố cục Mondrian; mỗi từ nằm trong một ô màu.
-CẢNH 08 | 10.5-12.0s - Thẻ kết thúc: "FORM FOLLOWS FUNCTION — 1919" căn lề dưới bên trái, hình tròn màu đỏ đóng vai trò là dấu chấm hết, giữ hình.
-Typography phải hoàn toàn dễ đọc trước khi bất kỳ hình khối nào đè lên. Chữ cái không bao giờ bị biến dạng hoặc tan chảy; khoảng cách giữa các chữ cái (kerning) luôn đồng đều về mặt thị giác.
-Biên tập: cắt cảnh dứt khoát và các chuyển động nhanh khớp với nhịp 120bpm.
-Âm thanh: tiếng click điện tử tối giản + nhịp bass ở mỗi lần cắt cảnh.
-KHÔNG ĐƯỢC: sử dụng gradient, đổ bóng (drop shadows), hiệu ứng 3D, phông chữ có chân (serif), chữ bị tan chảy, thêm từ ngữ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Video Kinetic Typography theo phong cách Bauhaus Swiss">
-
-**[🎬 Xem video →](https://x.com/EZheng66099/status/2090185695641968736)**
-
-**Tác giả:** [EZ](https://x.com/EZheng66099) | **Nguồn:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Đã xuất bản:** Aug 19, 2026
-
----
-### Giới thiệu nhân vật hoạt hình Trung Quốc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Video montage giới thiệu nhân vật hoạt hình 2D Trung Quốc nhịp độ nhanh trong 5 giây, sử dụng ba hình ảnh tham chiếu, nổi bật với các mảng màu thủy mặc đặc trưng và tư thế anh hùng.
-
-#### 📝 Prompt
-
-```
-Tạo một video montage giới thiệu nhân vật hoạt hình 2D Trung Quốc (guoman) nhịp độ nhanh trong 5 giây bằng cách sử dụng ba hình ảnh tham chiếu được cung cấp. QUAN TRỌNG: @Image1, @Image2, @Image3 là ba nhân vật hoàn toàn khác nhau. Giữ nguyên khuôn mặt, kiểu tóc, tông da, trang phục, vóc dáng và phụ kiện của từng nhân vật từ hình ảnh tham chiếu tương ứng. Tuyệt đối không được hợp nhất, biến đổi, pha trộn hoặc hoán đổi danh tính của họ. Chỉ hiển thị một nhân vật tại một thời điểm. Thiết bị nền: mỗi nhân vật có một mảng màu thủy mặc riêng biệt (chàm / đỏ son / xanh thông) với các hạt nét cọ bay bổng và một con dấu tên đóng ở góc. CUT 01 | 0.0-1.6s - @Image1 xuất hiện nhanh từ hiệu ứng whip-pan mờ, tư thế anh hùng, khuôn mặt chiếm 40% chiều cao khung hình, mảng màu chàm, con dấu đóng ở góc trên bên phải. CUT 02 | 1.6-3.2s - Cắt cảnh đột ngột. @Image2 trượt vào trên các đường tốc độ chéo, mảng màu đỏ son, con dấu đóng ở bên trái. CUT 03 | 3.2-5.0s - Cắt cảnh đột ngột. @Image3 đáp xuống từ trên cao với khung hình va chạm và hiệu ứng rung màn hình, mảng màu xanh thông; cả ba con dấu căn chỉnh dọc theo phía dưới; giữ nguyên khung hình cuối. Camera: chỉ sử dụng các cú đẩy cận cảnh nhanh. Không quay toàn thân từ xa; khuôn mặt chiếm 35-50% chiều cao khung hình. Âm thanh: ba tiếng gõ trống kiểu taiko + hiệu ứng âm thanh mực bắn ở mỗi lần cắt cảnh. KHÔNG ĐƯỢC: biến đổi danh tính, hai nhân vật trong một khung hình, thiết kế lại trang phục, phong cách truyện tranh phương Tây, bất kỳ văn bản nào có thể đọc được ngoài các con dấu. Bảng nhân vật phong cách hoạt hình Trung Quốc (guoman), chân dung anh hùng từ ngực trở lên của một kiếm khách trẻ, 19 tuổi, đôi mắt sắc sảo tự tin, tóc đen dài buộc cao với trâm bạc, áo choàng nhiều lớp màu chàm đậm với họa tiết mây thêu mờ, một mặt dây chuyền ngọc ở cổ áo, nụ cười tinh tế, khuôn mặt chiếm khoảng 40% khung hình, cel shading với các điểm nhấn kết cấu thủy mặc tinh tế, nét vẽ sạch sẽ đậm nét, thiết kế nhân vật chất lượng điện ảnh, nền xám nhạt ấm áp đơn giản, ánh sáng dịu đều --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Bảng nhân vật phong cách hoạt hình Trung Quốc (guoman), chân dung anh hùng từ ngực trở lên của một nữ chính trẻ tinh nghịch, 17 tuổi, đôi mắt hổ phách sáng, kiểu tóc búi đôi với ruy băng đỏ son và các lọn tóc mai buông xõa, áo khoác võ thuật ngắn màu đỏ thẫm và trắng với viền vàng, cầm một chiếc quạt xếp mở một nửa gần cằm, nụ cười tinh quái, khuôn mặt chiếm khoảng 40% khung hình, cel shading với các điểm nhấn kết cấu thủy mặc tinh tế, nét vẽ sạch sẽ đậm nét, thiết kế nhân vật chất lượng điện ảnh, nền xám nhạt ấm áp đơn giản, ánh sáng dịu đều --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Bảng nhân vật phong cách hoạt hình Trung Quốc (guoman), chân dung anh hùng từ ngực trở lên của một nhà sư chiến binh khổng lồ hiền lành, 35 tuổi, vai rộng, đầu cạo trọc với râu lún phún, lông mày dày, nụ cười ấm áp chân thành, áo cà sa màu xanh rêu với một bên vai để trần, tràng hạt gỗ quanh cổ, vết sẹo nhỏ trên lông mày trái, khuôn mặt chiếm khoảng 40% khung hình, cel shading với các điểm nhấn kết cấu thủy mặc tinh tế, nét vẽ sạch sẽ đậm nét, thiết kế nhân vật chất lượng điện ảnh, nền xám nhạt ấm áp đơn giản, ánh sáng dịu đều --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090179877815128065/img/T9QKihnEdChkgmZM.jpg" width="600" alt="Giới thiệu nhân vật hoạt hình Trung Quốc">
-
-**[🎬 Xem video →](https://x.com/EZheng66099/status/2090180685902369163)**
-
-**Tác giả:** [EZ](https://x.com/EZheng66099) | **Nguồn:** [Link](https://x.com/EZheng66099/status/2090180685902369163) | **Đã xuất bản:** Aug 19, 2026
-
----
 ### Đồ họa chuyển động về nghi thức trà đạo Trung Hoa hiện đại
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2955,13 +2904,61 @@ Tạo một video montage vlog du lịch điện ảnh dài 10 giây. Trong mọ
 **Tác giả:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Nguồn:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Đã xuất bản:** Jul 2, 2026
 
 ---
+### Trận chiến thành phố giữa Sloth khổng lồ và Godzilla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh cực kỳ chi tiết mô tả cảnh một con lười to bằng ngọn núi vô tình đánh bại quái vật voi-Godzilla với hiệu ứng vật lý hài hước.
+
+#### 📝 Prompt
+
+```
+Một con lười khổng lồ chậm chạp cao bằng ngọn núi đang treo mình trên một tòa nhà chọc trời, ngáp một cái thật lớn. Một quái vật voi-Godzilla hung dữ dậm chân tiến về phía nó, phun ra những tia chớp nhỏ xíu. Con lười lười biếng đưa một móng vuốt ra và vô tình hất văng con quái vật đi xa hàng dặm mà không tốn chút sức lực nào. Con lười nhún vai rồi quay lại ngủ tiếp trên tòa nhà. Sự tương phản phi lý về tốc độ, hiệu ứng vật lý hài hước, những cú va chạm chuyển động chậm đầy thú vị, khung cảnh thành phố bị tàn phá sống động.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Trận chiến thành phố giữa Sloth khổng lồ và Godzilla">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2072542482857099759)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Đã xuất bản:** Jul 2, 2026
+
+---
+### Video cô gái vùng cao Pahadi trong buổi sáng tại dãy Himalaya
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý kịch bản phân cảnh điện ảnh cho video dài 10 giây, mô tả một cô gái trẻ cùng đàn cừu giữa những ngọn núi Himalaya mờ sương, bao gồm nhiều kiểu quay và âm thanh môi trường.
+
+#### 📝 Prompt
+
+```
+Tiêu đề cảnh quay: Cô gái Pahadi và đàn cừu — Buổi sáng tại Himalaya
+[0s–2s]
+Cảnh toàn (Wide shot): Một cô gái trẻ người Ấn Độ, vóc dáng mảnh khảnh, khoảng 22 tuổi, đang nhẹ nhàng bước đi trên con đường mòn hẹp trên núi. Cô mặc trang phục Pahadi truyền thống (khăn choàng len mềm mại, áo kurta đơn giản, khuyên tai bạc jhumka), chiếc khăn dupatta khẽ bay trong gió. Phía sau là những ngọn núi xanh mờ sương và rừng thông. Ánh nắng buổi sáng tự nhiên, tông màu vàng dịu.
+[2s–4s]
+Cảnh trung (Medium shot): Cô đi bên cạnh một đàn cừu nhỏ, tay nhẹ nhàng đặt lên chiếc gậy gỗ. Biểu cảm của cô bình thản, ấm áp và mãn nguyện — một nụ cười nhẹ, đôi mắt ánh lên vẻ ngây thơ yêu thiên nhiên. Gió thổi qua mái tóc cô một cách tự nhiên.
+[4s–6s]
+Cảnh cận (Close-up): Gương mặt cô trong ánh sáng tự nhiên dịu nhẹ — các đường nét thanh tú, xinh xắn, phong cách không trang điểm, làn da rạng rỡ. Cô nhìn đàn cừu đầy trìu mến, khẽ cười khi một chú cừu dụi vào chân mình. Âm thanh môi trường tự nhiên: tiếng chim hót, tiếng chuông cừu (ghungroo) xa xa, tiếng gió xào xạc.
+[6s–8s]
+Cảnh quay theo từ phía sau (Tracking shot): Cô bước tiếp lên một sườn đồi đầy cỏ, đàn cừu theo sau, chiếc khăn dupatta bay trong gió, bóng dáng cô nổi bật trên nền những đỉnh núi Himalaya trùng điệp và những đám mây trôi.
+[8s–10s]
+Cảnh toàn cuối (Final wide shot): Cô dừng lại ở mép vách đá, nhìn ra thung lũng, đàn cừu đang thong dong gặm cỏ xung quanh. Tiếng gió nhẹ, âm thanh tiếng chuông đền hoặc tiếng sáo xa xa dần hiện lên. Dừng lại ở biểu cảm bình yên, thanh thản của cô khi cảnh quay mờ dần vào hiệu ứng tối góc nhẹ nhàng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Video cô gái vùng cao Pahadi trong buổi sáng tại dãy Himalaya">
+
+**[🎬 Xem video →](https://x.com/b275511/status/2072308089056084456)**
+
+**Tác giả:** [TheAIDev](https://x.com/b275511) | **Nguồn:** [Link](https://x.com/b275511/status/2072308089056084456) | **Đã xuất bản:** Jul 1, 2026
+
+---
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 81 prompt khác không hiển thị ở đây
+### 🎯 79 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3007,6 +3004,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-21T04:36:16.359Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-21T08:38:11.382Z</sub>
 
 </div>

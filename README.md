@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **181** |
+| 📝 Total Prompts | **179** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-21** |
 
@@ -56,44 +56,6 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Bauhaus Kinetic Typography Video Spot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Detailed prompt for a 12-second kinetic typography video in a Bauhaus style, featuring geometric shapes, primary colors, and synchronized motion cuts.
-
-#### 📝 Prompt
-
-```
-Create an 8-cut kinetic-typography spot in 16:9, 24fps, exactly 12s. Style: Bauhaus / Swiss International — flat primary colors (red, yellow, blue, black, off-white), strict grid, geometric sans-serif type.\nThis film is 90% typography and geometric shapes in motion, 10% texture accents.\nCUT 01 | 0.0-1.5s - Off-white void. The word \"FORM\" drops letter by letter onto a baseline grid, each landing with a small bounce.\nCUT 02 | 1.5-3.0s - A red circle rolls in from the left and knocks the \"M\" out of frame; \"FOR—\" holds one beat.\nCUT 03 | 3.0-4.5s - Hard cut: full yellow frame, \"FOLLOWS\" stacked vertically, letters sliding in alternating directions.\nCUT 04 | 4.5-6.0s - A blue diagonal wipes the frame; \"FUNCTION\" sits on the diagonal; the camera rotates until it reads horizontal.\nCUT 05 | 6.0-7.5s - The three words swap positions on a strict 3-column grid, snapping on beat.\nCUT 06 | 7.5-9.0s - All type shrinks into an 8pt grid texture; one black square scales up through center.\nCUT 07 | 9.0-10.5s - The square splits into a Mondrian composition; one word per color field.\nCUT 08 | 10.5-12.0s - End card: \"FORM FOLLOWS FUNCTION — 1919\" aligned bottom-left, the red circle as the full stop, hold.\nTypography is fully readable before any shape overlaps it. Letters never distort or melt; kerning stays optically even.\nEditing: hard cuts and snap moves locked to 120bpm.\nAudio: minimal electronic clicks + bass pulse on every cut.\nDO NOT: gradients, drop shadows, 3D extrusion, serif fonts, melted letters, added words.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Bauhaus Kinetic Typography Video Spot">
-
-**[🎬 Watch Video →](https://x.com/EZheng66099/status/2090185695641968736)**
-
-**Author:** [EZ](https://x.com/EZheng66099) | **Source:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Published:** Aug 19, 2026
-
----
-### 2D Chinese Anime Character Introduction
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for creating a fast-paced 5-second 2D Chinese anime-style character introduction video, maintaining consistency across multiple characters with specific ink-wash visual cues and transitions.
-
-#### 📝 Prompt
-
-```
-Create a fast-paced 5-second 2D Chinese anime (guoman) character introduction montage using the three supplied reference images. IMPORTANT: @Image1, @Image2, @Image3 are three completely different characters. Preserve each character's exact face, hairstyle, skin tone, outfit, body type, and accessories from their corresponding reference image. Never merge, morph, blend, or exchange their identities. Show only one character at a time. Background device: each character gets a distinct ink-wash color field (indigo / vermilion / pine green) with flying brush-stroke particles, and a name-seal stamping into the corner. CUT 01 | 0.0-1.6s - @Image1 snaps in from a whip-pan blur, hero pose, face 40% of frame height, indigo ink field, seal stamps top-right. CUT 02 | 1.6-3.2s - Hard cut. @Image2 slides in on diagonal speed-lines, vermilion field, seal stamps on the left. CUT 03 | 3.2-5.0s - Hard cut. @Image3 lands from above with an impact frame and screen shake, pine-green field; all three seals align along the bottom; hold the end frame. Camera: fast push-ins only. No wide full-body distant shots; faces stay 35-50% of frame height. Audio: three taiko-style percussion hits + ink-splash SFX on each cut. DO NOT: identity morph, two characters in one frame, redesigned outfits, western comic style, any readable text other than the seals. Chinese donghua (guoman) style character sheet, chest-up hero portrait of a young swordsman, age 19, sharp confident eyes, long ink-black hair tied high with a silver hairpin, deep indigo layered robes with faint cloud-pattern embroidery, one jade pendant at the collar, subtle smirk, face occupies about 40% of the frame, cel shading with subtle ink-wash texture accents, clean bold lineart, film-quality character design, plain warm light-grey background, soft even lighting --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Chinese donghua (guoman) style character sheet, chest-up hero portrait of a playful young heroine, age 17, bright amber eyes, double bun hairstyle with vermilion ribbons and loose side strands, crimson-and-white short martial jacket with gold trim, holding a half-open folding fan near her chin, mischievous grin, face occupies about 40% of the frame, cel shading with subtle ink-wash texture accents, clean bold lineart, film-quality character design, plain warm light-grey background, soft even lighting --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Chinese donghua (guoman) style character sheet, chest-up hero portrait of a gentle giant warrior monk, age 35, broad shoulders, shaved head with faint stubble, thick eyebrows, warm honest smile, moss-green monk robes with one shoulder bare, wooden prayer beads around the neck, small scar on the left brow, face occupies about 40% of the frame, cel shading with subtle ink-wash texture accents, clean bold lineart, film-quality character design, plain warm light-grey background, soft even lighting --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090179877815128065/img/T9QKihnEdChkgmZM.jpg" width="600" alt="2D Chinese Anime Character Introduction">
-
-**[🎬 Watch Video →](https://x.com/EZheng66099/status/2090180685902369163)**
-
-**Author:** [EZ](https://x.com/EZheng66099) | **Source:** [Link](https://x.com/EZheng66099/status/2090180685902369163) | **Published:** Aug 19, 2026
-
----
 ### Minimalist Chinese Tea Ceremony Motion Graphics
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3081,13 +3043,61 @@ Create a 10-second cinematic travel vlog montage. Throughout every shot, consist
 **Author:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Source:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Published:** Jul 2, 2026
 
 ---
+### Giant Sloth vs Godzilla City Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt featuring a mountain-sized sloth accidentally defeating an elephant-Godzilla monster with slapstick physics.
+
+#### 📝 Prompt
+
+```
+A gigantic slow-moving sloth the height of a mountain hangs from a skyscraper, yawning massively. A furious elephant-Godzilla monster stomps toward it breathing tiny lightning. The sloth lazily reaches out one claw and accidentally yeets the monster miles away with zero effort. Sloth shrugs, goes back to sleep on the building. Absurd contrast in speed, slapstick physics, humorous slow-motion impacts, vibrant city destruction.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Giant Sloth vs Godzilla City Battle">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2072542482857099759)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Published:** Jul 2, 2026
+
+---
+### Himalayan Morning Pahadi Girl Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic storyboard prompt for a 10-second video depicting a young girl with sheep in the misty Himalayan mountains, featuring various shot types and ambient sounds.
+
+#### 📝 Prompt
+
+```
+Scene Title: Pahadi Girl with Sheep — Himalayan Morning
+[0s–2s]
+Wide establishing shot: A young Indian hill girl, slim build, around 22 years old, walking gently along a narrow mountain trail. She wears a traditional pahadi outfit (soft wool shawl, simple kurta, silver jhumka earrings), dupatta lightly fluttering in the breeze. Misty green mountains and pine trees in the background. Natural morning sunlight, soft golden tone.
+[2s–4s]
+Medium shot: She walks alongside a small flock of sheep, her hand gently resting on a wooden staff. Her expression is calm, warm, and content — a soft smile, eyes reflecting nature-loving innocence. Wind moves through her hair naturally.
+[4s–6s]
+Close-up shot: Her face in soft natural light — cute, elegant features, no makeup look, glowing skin. She glances affectionately toward the sheep, laughing softly as one nudges her leg. Natural ambient sound: birds chirping, faint sheep bells (ghungroo), wind rustling.
+[6s–8s]
+Tracking shot from behind: She walks further up a grassy slope, sheep trailing behind her, dupatta flowing, silhouette framed against layered Himalayan peaks and drifting clouds.
+[8s–10s]
+Final wide shot: She pauses at a cliff edge, looking out over the valley, sheep grazing calmly around her. Soft wind sound, distant temple bell or flute in the background fades in. Freeze on her peaceful, serene expression as the shot fades to a gentle vignette.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Himalayan Morning Pahadi Girl Video">
+
+**[🎬 Watch Video →](https://x.com/b275511/status/2072308089056084456)**
+
+**Author:** [TheAIDev](https://x.com/b275511) | **Source:** [Link](https://x.com/b275511/status/2072308089056084456) | **Published:** Jul 1, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 81 more prompts not shown here
+### 🎯 79 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3133,6 +3143,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-21T04:36:08.962Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-21T08:38:02.912Z</sub>
 
 </div>

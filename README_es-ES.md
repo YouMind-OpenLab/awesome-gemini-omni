@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **181** |
+| 📝 Total de prompts | **179** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-08-21** |
 
@@ -56,57 +56,6 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
-### Spot de tipografía cinética estilo Bauhaus suizo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un guion preciso de tipografía cinética de 12 segundos que sigue los principios de diseño Bauhaus con formas geométricas y diseños de cuadrícula estrictos.
-
-#### 📝 Prompt
-
-```
-Crea un spot de tipografía cinética de 8 cortes en 16:9, 24 fps, exactamente 12 s. Estilo: Bauhaus / Estilo tipográfico internacional (suizo) — colores primarios planos (rojo, amarillo, azul, negro, blanco roto), cuadrícula estricta, tipografía sans-serif geométrica.
-Este filme es 90 % tipografía y formas geométricas en movimiento, 10 % acentos de textura.
-CORTE 01 | 0.0-1.5 s - Vacío en blanco roto. La palabra "FORM" cae letra por letra sobre una cuadrícula base, cada una aterrizando con un pequeño rebote.
-CORTE 02 | 1.5-3.0 s - Un círculo rojo entra rodando desde la izquierda y saca la "M" del encuadre; "FOR—" se mantiene un tiempo.
-CORTE 03 | 3.0-4.5 s - Corte directo: encuadre totalmente amarillo, "FOLLOWS" apilado verticalmente, las letras se deslizan en direcciones alternas.
-CORTE 04 | 4.5-6.0 s - Una diagonal azul barre el encuadre; "FUNCTION" se sitúa sobre la diagonal; la cámara rota hasta que se lee horizontalmente.
-CORTE 05 | 6.0-7.5 s - Las tres palabras intercambian posiciones en una cuadrícula estricta de 3 columnas, ajustándose al ritmo.
-CORTE 06 | 7.5-9.0 s - Todo el texto se reduce a una textura de cuadrícula de 8 pt; un cuadrado negro aumenta de escala a través del centro.
-CORTE 07 | 9.0-10.5 s - El cuadrado se divide en una composición Mondrian; una palabra por campo de color.
-CORTE 08 | 10.5-12.0 s - Tarjeta final: "FORM FOLLOWS FUNCTION — 1919" alineado abajo a la izquierda, el círculo rojo como punto final, mantener.
-La tipografía es totalmente legible antes de que cualquier forma se superponga. Las letras nunca se distorsionan ni se funden; el interletraje (kerning) se mantiene ópticamente uniforme.
-Edición: cortes directos y movimientos rápidos sincronizados a 120 bpm.
-Audio: clics electrónicos minimalistas + pulso de bajo en cada corte.
-NO HACER: degradados, sombras paralelas, extrusión 3D, fuentes serif, letras fundidas, palabras añadidas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Spot de tipografía cinética estilo Bauhaus suizo">
-
-**[🎬 Ver video →](https://x.com/EZheng66099/status/2090185695641968736)**
-
-**Autor:** [EZ](https://x.com/EZheng66099) | **Fuente:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Publicado:** Aug 19, 2026
-
----
-### Introducción de personajes de anime chino
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un montaje de introducción de personajes de anime chino en 2D de 5 segundos de ritmo rápido, utilizando tres imágenes de referencia, con campos de tinta lavada distintivos y poses heroicas.
-
-#### 📝 Prompt
-
-```
-Crea un montaje de introducción de personajes de anime chino (guoman) en 2D de 5 segundos de ritmo rápido utilizando las tres imágenes de referencia proporcionadas. IMPORTANTE: @Image1, @Image2 y @Image3 son tres personajes completamente diferentes. Conserva el rostro, el peinado, el tono de piel, el atuendo, el tipo de cuerpo y los accesorios exactos de cada personaje de su imagen de referencia correspondiente. Nunca fusiones, transformes, mezcles ni intercambies sus identidades. Muestra solo un personaje a la vez. Dispositivo de fondo: cada personaje recibe un campo de color de tinta lavada distinto (índigo / bermellón / verde pino) con partículas de pinceladas voladoras y un sello con el nombre estampado en la esquina. CORTE 01 | 0.0-1.6s - @Image1 aparece con un desenfoque de barrido rápido, pose heroica, rostro al 40% de la altura del encuadre, campo de tinta índigo, sello estampado en la parte superior derecha. CORTE 02 | 1.6-3.2s - Corte directo. @Image2 entra deslizándose sobre líneas de velocidad diagonales, campo bermellón, sello estampado a la izquierda. CORTE 03 | 3.2-5.0s - Corte directo. @Image3 aterriza desde arriba con un fotograma de impacto y sacudida de pantalla, campo verde pino; los tres sellos se alinean a lo largo de la parte inferior; mantén el fotograma final. Cámara: solo acercamientos rápidos (push-ins). No se permiten planos generales de cuerpo completo; los rostros deben ocupar entre el 35% y el 50% de la altura del encuadre. Audio: tres golpes de percusión estilo taiko + efectos de sonido de salpicadura de tinta en cada corte. NO: transformar identidades, dos personajes en un mismo encuadre, rediseñar atuendos, estilo de cómic occidental, cualquier texto legible que no sean los sellos. Hoja de personaje estilo donghua (guoman) chino, retrato heroico de pecho hacia arriba de un joven espadachín, 19 años, ojos agudos y confiados, largo cabello negro tinta atado en alto con una horquilla plateada, túnicas en capas de color índigo profundo con sutil bordado de patrón de nubes, un colgante de jade en el cuello, sonrisa sutil, rostro ocupa aproximadamente el 40% del encuadre, sombreado cel con sutiles acentos de textura de tinta lavada, arte lineal limpio y audaz, diseño de personaje con calidad cinematográfica, fondo gris claro cálido y liso, iluminación suave y uniforme --ar 3:4 --v 7 --s 150 --no texto, marca de agua, logotipo, firma, borde Hoja de personaje estilo donghua (guoman) chino, retrato heroico de pecho hacia arriba de una joven heroína juguetona, 17 años, ojos color ámbar brillante, peinado de doble moño con cintas bermellón y mechones laterales sueltos, chaqueta marcial corta carmesí y blanca con ribete dorado, sosteniendo un abanico plegable medio abierto cerca de la barbilla, sonrisa pícara, rostro ocupa aproximadamente el 40% del encuadre, sombreado cel con sutiles acentos de textura de tinta lavada, arte lineal limpio y audaz, diseño de personaje con calidad cinematográfica, fondo gris claro cálido y liso, iluminación suave y uniforme --ar 3:4 --v 7 --s 150 --no texto, marca de agua, logotipo, firma, borde Hoja de personaje estilo donghua (guoman) chino, retrato heroico de pecho hacia arriba de un monje guerrero gigante y gentil, 35 años, hombros anchos, cabeza afeitada con rastrojo tenue, cejas gruesas, sonrisa cálida y honesta, túnicas de monje color verde musgo con un hombro descubierto, cuentas de oración de madera alrededor del cuello, pequeña cicatriz en la ceja izquierda, rostro ocupa aproximadamente el 40% del encuadre, sombreado cel con sutiles acentos de textura de tinta lavada, arte lineal limpio y audaz, diseño de personaje con calidad cinematográfica, fondo gris claro cálido y liso, iluminación suave y uniforme --ar 3:4 --v 7 --s 150 --no texto, marca de agua, logotipo, firma, borde
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090179877815128065/img/T9QKihnEdChkgmZM.jpg" width="600" alt="Introducción de personajes de anime chino">
-
-**[🎬 Ver video →](https://x.com/EZheng66099/status/2090180685902369163)**
-
-**Autor:** [EZ](https://x.com/EZheng66099) | **Fuente:** [Link](https://x.com/EZheng66099/status/2090180685902369163) | **Publicado:** Aug 19, 2026
-
----
 ### Gráficos en movimiento para una ceremonia del té china moderna
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3009,13 +2958,61 @@ Crea un montaje de videoblog de viajes cinematográfico de 10 segundos. A lo lar
 **Autor:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Fuente:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Publicado:** Jul 2, 2026
 
 ---
+### Batalla urbana: Perezoso gigante contra Godzilla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico altamente detallado que presenta a un perezoso del tamaño de una montaña derrotando accidentalmente a un monstruo elefante-Godzilla con físicas de comedia slapstick.
+
+#### 📝 Prompt
+
+```
+Un perezoso gigantesco y de movimiento lento, del tamaño de una montaña, cuelga de un rascacielos mientras bosteza estrepitosamente. Un furioso monstruo elefante-Godzilla avanza hacia él pisoteando todo a su paso y lanzando pequeños rayos. El perezoso extiende perezosamente una garra y, sin esfuerzo alguno, lanza al monstruo a kilómetros de distancia por accidente. El perezoso se encoge de hombros y vuelve a dormirse sobre el edificio. Contraste absurdo de velocidad, físicas de comedia slapstick, impactos humorísticos en cámara lenta y destrucción urbana vibrante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Batalla urbana: Perezoso gigante contra Godzilla">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2072542482857099759)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Publicado:** Jul 2, 2026
+
+---
+### Video de una chica Pahadi en una mañana en el Himalaya
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de storyboard cinematográfico para un video de 10 segundos que muestra a una joven con ovejas en las brumosas montañas del Himalaya, incluyendo varios tipos de planos y sonidos ambientales.
+
+#### 📝 Prompt
+
+```
+Título de la escena: Chica Pahadi con ovejas — Mañana en el Himalaya
+[0s–2s]
+Plano general de establecimiento: Una joven india de la montaña, de complexión delgada, de unos 22 años, caminando suavemente por un sendero estrecho de montaña. Viste un atuendo tradicional pahadi (chal de lana suave, kurta sencilla, pendientes jhumka de plata), con el dupatta ondeando ligeramente con la brisa. Montañas verdes brumosas y pinos de fondo. Luz solar natural de la mañana, tono dorado suave.
+[2s–4s]
+Plano medio: Camina junto a un pequeño rebaño de ovejas, con la mano apoyada suavemente en un bastón de madera. Su expresión es tranquila, cálida y satisfecha: una sonrisa suave, ojos que reflejan una inocencia amante de la naturaleza. El viento mueve su cabello de forma natural.
+[4s–6s]
+Primer plano: Su rostro bajo una luz natural suave: rasgos lindos y elegantes, aspecto sin maquillaje, piel radiante. Mira con afecto a las ovejas, riendo suavemente mientras una le da un empujoncito en la pierna. Sonido ambiental natural: canto de pájaros, cencerros de ovejas (ghungroo), susurro del viento.
+[6s–8s]
+Plano de seguimiento desde atrás: Camina hacia arriba por una ladera cubierta de hierba, con las ovejas siguiéndola, el dupatta fluyendo, su silueta enmarcada contra los picos del Himalaya y las nubes a la deriva.
+[8s–10s]
+Plano general final: Se detiene al borde de un acantilado, mirando hacia el valle, con las ovejas pastando tranquilamente a su alrededor. Sonido de viento suave, una campana de templo lejana o una flauta de fondo que se desvanece. Congelación en su expresión pacífica y serena mientras la toma se desvanece hacia una viñeta suave.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Video de una chica Pahadi en una mañana en el Himalaya">
+
+**[🎬 Ver video →](https://x.com/b275511/status/2072308089056084456)**
+
+**Autor:** [TheAIDev](https://x.com/b275511) | **Fuente:** [Link](https://x.com/b275511/status/2072308089056084456) | **Publicado:** Jul 1, 2026
+
+---
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 81 más prompts no mostrados aquí
+### 🎯 79 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3061,6 +3058,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-21T04:36:18.754Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-21T08:38:13.381Z</sub>
 
 </div>

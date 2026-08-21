@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **181** |
+| 📝 Total de prompts | **179** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-08-21** |
 
@@ -56,57 +56,6 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
-### Spot de Tipografia Cinética estilo Bauhaus Suíço
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um roteiro preciso de tipografia cinética de 12 segundos seguindo os princípios de design Bauhaus com formas geométricas e layouts de grade rígidos.
-
-#### 📝 Prompt
-
-```
-Crie um spot de tipografia cinética de 8 cortes em 16:9, 24fps, com exatamente 12s. Estilo: Bauhaus / Suíço Internacional — cores primárias planas (vermelho, amarelo, azul, preto, off-white), grade rígida, fonte sem serifa geométrica.
-Este filme é 90% tipografia e formas geométricas em movimento, 10% detalhes de textura.
-CORTE 01 | 0.0-1.5s - Fundo off-white. A palavra "FORM" cai letra por letra em uma grade de linha de base, cada uma aterrissando com um pequeno salto.
-CORTE 02 | 1.5-3.0s - Um círculo vermelho entra rolando pela esquerda e empurra o "M" para fora do quadro; "FOR—" mantém-se por um tempo.
-CORTE 03 | 3.0-4.5s - Corte seco: quadro totalmente amarelo, "FOLLOWS" empilhado verticalmente, letras deslizando em direções alternadas.
-CORTE 04 | 4.5-6.0s - Uma diagonal azul varre o quadro; "FUNCTION" posiciona-se sobre a diagonal; a câmera rotaciona até que a leitura fique horizontal.
-CORTE 05 | 6.0-7.5s - As três palavras trocam de posição em uma grade rígida de 3 colunas, encaixando-se no ritmo.
-CORTE 06 | 7.5-9.0s - Todo o texto encolhe para uma textura de grade de 8pt; um quadrado preto aumenta de escala pelo centro.
-CORTE 07 | 9.0-10.5s - O quadrado se divide em uma composição Mondrian; uma palavra por campo de cor.
-CORTE 08 | 10.5-12.0s - Cartão final: "FORM FOLLOWS FUNCTION — 1919" alinhado no canto inferior esquerdo, o círculo vermelho como ponto final, manter.
-A tipografia é totalmente legível antes que qualquer forma a sobreponha. As letras nunca distorcem ou derretem; o espaçamento (kerning) permanece opticamente uniforme.
-Edição: cortes secos e movimentos rápidos sincronizados a 120bpm.
-Áudio: cliques eletrônicos minimalistas + pulso de baixo em cada corte.
-NÃO FAÇA: gradientes, sombras projetadas, extrusão 3D, fontes serifadas, letras derretidas, palavras adicionais.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Spot de Tipografia Cinética estilo Bauhaus Suíço">
-
-**[🎬 Assistir vídeo →](https://x.com/EZheng66099/status/2090185695641968736)**
-
-**Autor:** [EZ](https://x.com/EZheng66099) | **Fonte:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Publicado:** Aug 19, 2026
-
----
-### Introdução de Personagem de Anime Chinês
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma montagem dinâmica de 5 segundos de introdução de personagem de anime chinês 2D, utilizando três imagens de referência, com campos de pintura a nanquim distintos e poses heroicas.
-
-#### 📝 Prompt
-
-```
-Crie uma montagem dinâmica de 5 segundos de introdução de personagem de anime chinês (guoman) usando as três imagens de referência fornecidas. IMPORTANTE: @Image1, @Image2 e @Image3 são três personagens completamente diferentes. Preserve o rosto, penteado, tom de pele, traje, tipo físico e acessórios exatos de cada personagem a partir de sua respectiva imagem de referência. Nunca mescle, transforme, misture ou troque suas identidades. Mostre apenas um personagem por vez. Recurso de fundo: cada personagem recebe um campo de cor de pintura a nanquim distinto (índigo / vermelhão / verde pinho) com partículas de pinceladas voadoras e um selo de nome carimbado no canto. CORTE 01 | 0,0-1,6s - @Image1 surge de um borrão de movimento rápido, pose heroica, rosto ocupando 40% da altura do quadro, campo de nanquim índigo, selo carimbado no canto superior direito. CORTE 02 | 1,6-3,2s - Corte seco. @Image2 entra deslizando em linhas de velocidade diagonais, campo vermelhão, selo carimbado à esquerda. CORTE 03 | 3,2-5,0s - Corte seco. @Image3 aterra vindo de cima com um quadro de impacto e tremor de tela, campo verde pinho; todos os três selos se alinham na parte inferior; segure o quadro final. Câmera: apenas aproximações rápidas (push-ins). Sem planos abertos de corpo inteiro; rostos devem ocupar 35-50% da altura do quadro. Áudio: três batidas de percussão estilo taiko + efeitos sonoros de respingo de nanquim em cada corte. NÃO FAÇA: transformação de identidade, dois personagens no mesmo quadro, redesign de trajes, estilo de quadrinhos ocidentais, qualquer texto legível além dos selos. Folha de personagem estilo donghua (guoman) chinês, retrato de herói do peito para cima de um jovem espadachim, 19 anos, olhos afiados e confiantes, longos cabelos pretos como nanquim presos no alto com um grampo de prata, vestes em camadas azul-índigo profundo com bordado sutil de padrão de nuvens, um pingente de jade na gola, sorriso sutil, rosto ocupa cerca de 40% do quadro, cel shading com detalhes sutis de textura de nanquim, lineart limpo e ousado, design de personagem com qualidade cinematográfica, fundo cinza-claro quente e simples, iluminação suave e uniforme --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Folha de personagem estilo donghua (guoman) chinês, retrato de heroína jovem e brincalhona do peito para cima, 17 anos, olhos âmbar brilhantes, penteado de coque duplo com fitas vermelhas e mechas soltas nas laterais, jaqueta marcial curta carmesim e branca com acabamento dourado, segurando um leque dobrável entreaberto perto do queixo, sorriso travesso, rosto ocupa cerca de 40% do quadro, cel shading com detalhes sutis de textura de nanquim, lineart limpo e ousado, design de personagem com qualidade cinematográfica, fundo cinza-claro quente e simples, iluminação suave e uniforme --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Folha de personagem estilo donghua (guoman) chinês, retrato de herói monge guerreiro gigante e gentil do peito para cima, 35 anos, ombros largos, cabeça raspada com barba rala, sobrancelhas grossas, sorriso caloroso e honesto, vestes de monge verde-musgo com um ombro descoberto, contas de oração de madeira ao redor do pescoço, pequena cicatriz na sobrancelha esquerda, rosto ocupa cerca de 40% do quadro, cel shading com detalhes sutis de textura de nanquim, lineart limpo e ousado, design de personagem com qualidade cinematográfica, fundo cinza-claro quente e simples, iluminação suave e uniforme --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090179877815128065/img/T9QKihnEdChkgmZM.jpg" width="600" alt="Introdução de Personagem de Anime Chinês">
-
-**[🎬 Assistir vídeo →](https://x.com/EZheng66099/status/2090180685902369163)**
-
-**Autor:** [EZ](https://x.com/EZheng66099) | **Fonte:** [Link](https://x.com/EZheng66099/status/2090180685902369163) | **Publicado:** Aug 19, 2026
-
----
 ### Motion Graphics para Cerimônia de Chá Chinesa Moderna
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3009,13 +2958,61 @@ Crie uma montagem de vlog de viagem cinematográfica de 10 segundos. Em todas as
 **Autor:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Fonte:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Publicado:** Jul 2, 2026
 
 ---
+### Batalha na Cidade: Preguiça Gigante vs Godzilla
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico altamente detalhado apresentando uma preguiça do tamanho de uma montanha derrotando acidentalmente um monstro elefante-Godzilla com física de comédia pastelão.
+
+#### 📝 Prompt
+
+```
+Uma preguiça gigantesca e de movimentos lentos, com a altura de uma montanha, está pendurada em um arranha-céu, bocejando profundamente. Um furioso monstro elefante-Godzilla caminha em sua direção cuspindo pequenos raios. A preguiça estende preguiçosamente uma garra e, sem esforço algum, arremessa o monstro a quilômetros de distância. A preguiça dá de ombros e volta a dormir no prédio. Contraste absurdo de velocidade, física de comédia pastelão, impactos cômicos em câmera lenta e destruição urbana vibrante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Batalha na Cidade: Preguiça Gigante vs Godzilla">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2072542482857099759)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Publicado:** Jul 2, 2026
+
+---
+### Vídeo de Garota Pahadi em uma Manhã no Himalaia
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de storyboard cinematográfico para um vídeo de 10 segundos retratando uma jovem com ovelhas nas montanhas enevoadas do Himalaia, apresentando vários tipos de planos e sons ambientes.
+
+#### 📝 Prompt
+
+```
+Título da Cena: Garota Pahadi com Ovelhas — Manhã no Himalaia
+[0s–2s]
+Plano geral de estabelecimento: Uma jovem indiana da região serrana, porte esguio, cerca de 22 anos, caminhando suavemente por uma trilha estreita na montanha. Ela veste um traje tradicional pahadi (xale de lã macio, kurta simples, brincos jhumka de prata), com o dupatta esvoaçando levemente ao vento. Montanhas verdes enevoadas e pinheiros ao fundo. Luz natural da manhã, tom dourado suave.
+[2s–4s]
+Plano médio: Ela caminha ao lado de um pequeno rebanho de ovelhas, com a mão apoiada suavemente em um cajado de madeira. Sua expressão é calma, calorosa e satisfeita — um sorriso suave, olhos que refletem uma inocência amante da natureza. O vento move seu cabelo naturalmente.
+[4s–6s]
+Close-up: Seu rosto sob luz natural suave — traços bonitos e elegantes, visual sem maquiagem, pele radiante. Ela olha carinhosamente para as ovelhas, rindo baixinho enquanto uma delas cutuca sua perna. Som ambiente natural: pássaros cantando, sons suaves de sinos de ovelhas (ghungroo), vento farfalhando.
+[6s–8s]
+Plano de acompanhamento por trás: Ela caminha mais para cima em uma encosta gramada, com as ovelhas seguindo atrás, o dupatta esvoaçando, silhueta emoldurada contra os picos do Himalaia em camadas e nuvens à deriva.
+[8s–10s]
+Plano geral final: Ela para na beira de um penhasco, olhando para o vale, com as ovelhas pastando calmamente ao seu redor. Som de vento suave, sino de templo distante ou flauta ao fundo que aumenta gradualmente. Congela em sua expressão pacífica e serena enquanto a cena desaparece em uma vinheta suave.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Vídeo de Garota Pahadi em uma Manhã no Himalaia">
+
+**[🎬 Assistir vídeo →](https://x.com/b275511/status/2072308089056084456)**
+
+**Autor:** [TheAIDev](https://x.com/b275511) | **Fonte:** [Link](https://x.com/b275511/status/2072308089056084456) | **Publicado:** Jul 1, 2026
+
+---
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 81 mais prompts não mostrados aqui
+### 🎯 79 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3061,6 +3058,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-21T04:36:24.886Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-21T08:38:21.415Z</sub>
 
 </div>

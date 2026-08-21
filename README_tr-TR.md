@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **181** |
+| 📝 Toplam İstem | **179** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-21** |
 
@@ -56,57 +56,6 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### Bauhaus İsviçre Tarzı Kinetik Tipografi Spotu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bauhaus tasarım ilkelerini, geometrik şekilleri ve katı ızgara düzenlerini takip eden, 12 saniyelik hassas bir kinetik tipografi senaryosu.
-
-#### 📝 İstem
-
-```
-16:9 formatında, 24fps, tam 12 saniyelik 8 kesimden oluşan bir kinetik tipografi spotu oluşturun. Stil: Bauhaus / İsviçre Uluslararası Tarzı — düz ana renkler (kırmızı, sarı, mavi, siyah, kırık beyaz), katı ızgara, geometrik sans-serif yazı tipi.
-Bu film %90 hareketli tipografi ve geometrik şekillerden, %10 doku vurgularından oluşmaktadır.
-KESİM 01 | 0.0-1.5sn - Kırık beyaz boşluk. "FORM" kelimesi harf harf bir temel ızgara üzerine düşer, her biri küçük bir sıçrama ile yerine oturur.
-KESİM 02 | 1.5-3.0sn - Soldan gelen kırmızı bir daire "M" harfini kadraj dışına iter; "FOR—" bir vuruş boyunca sabit kalır.
-KESİM 03 | 3.0-4.5sn - Sert kesim: tamamen sarı bir kare, "FOLLOWS" dikey olarak istiflenmiş, harfler zıt yönlerde kayarak yerleşir.
-KESİM 04 | 4.5-6.0sn - Mavi bir diyagonal ekranı siler; "FUNCTION" bu diyagonal üzerinde durur; kamera yatay okunana kadar döner.
-KESİM 05 | 6.0-7.5sn - Üç kelime, katı 3 sütunlu bir ızgara üzerinde ritme uygun şekilde yer değiştirir.
-KESİM 06 | 7.5-9.0sn - Tüm yazılar 8pt ızgara dokusuna küçülür; merkezden büyüyen bir siyah kare belirir.
-KESİM 07 | 9.0-10.5sn - Kare, bir Mondrian kompozisyonuna bölünür; her renk alanına bir kelime yerleşir.
-KESİM 08 | 10.5-12.0sn - Bitiş kartı: "FORM FOLLOWS FUNCTION — 1919" sol alt köşeye hizalanmış, kırmızı daire nokta işareti olarak kullanılır ve sabit kalır.
-Tipografi, herhangi bir şekil üzerine gelmeden önce tamamen okunabilir olmalıdır. Harfler asla bozulmamalı veya erimemeli; harf aralıkları (kerning) optik olarak dengeli kalmalıdır.
-Kurgu: 120bpm ritmine kilitlenmiş sert kesimler ve ani hareketler.
-Ses: Minimal elektronik tıklamalar + her kesimde bas vuruşu.
-ASLA YAPILMAMASI GEREKENLER: Gradyanlar, gölgeler, 3D derinlik, serif yazı tipleri, erimiş harfler, ek kelimeler.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090184293972619264/img/c2hqorKnP29e6Tm6.jpg" width="600" alt="Bauhaus İsviçre Tarzı Kinetik Tipografi Spotu">
-
-**[🎬 Videoyu izle →](https://x.com/EZheng66099/status/2090185695641968736)**
-
-**Yazar:** [EZ](https://x.com/EZheng66099) | **Kaynak:** [Link](https://x.com/EZheng66099/status/2090185695641968736) | **Yayınlandı:** Aug 19, 2026
-
----
-### Çin Anime Karakter Tanıtımı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Üç referans görseli kullanılarak hazırlanan, belirgin mürekkep yıkama (ink-wash) alanları ve kahramansı pozlar içeren, 5 saniyelik hızlı tempolu 2D Çin anime karakter tanıtım montajı.
-
-#### 📝 İstem
-
-```
-Sağlanan üç referans görselini kullanarak 5 saniyelik, hızlı tempolu bir 2D Çin anime (guoman) karakter tanıtım montajı oluşturun. ÖNEMLİ: @Image1, @Image2 ve @Image3 birbirinden tamamen farklı üç karakterdir. Her karakterin yüzünü, saç stilini, cilt tonunu, kıyafetini, vücut tipini ve aksesuarlarını ilgili referans görselinden tam olarak koruyun. Kimliklerini asla birleştirmeyin, dönüştürmeyin, karıştırmayın veya değiştirmeyin. Her seferinde sadece bir karakter gösterin. Arka plan düzeni: her karakter için belirgin bir mürekkep yıkama renk alanı (çivit mavisi / vermilyon / çam yeşili), uçuşan fırça darbesi parçacıkları ve köşeye damgalanan bir isim mührü kullanın. KESİM 01 | 0.0-1.6sn - @Image1 hızlı bir kaydırma efektiyle (whip-pan) belirir, kahramansı poz, yüz kare yüksekliğinin %40'ı, çivit mavisi mürekkep alanı, sağ üst köşeye mühür damgası. KESİM 02 | 1.6-3.2sn - Sert kesim. @Image2 çapraz hız çizgileri üzerinde Slides ile gelir, vermilyon alanı, sol tarafa mühür damgası. KESİM 03 | 3.2-5.0sn - Sert kesim. @Image3 yukarıdan bir darbe karesi ve ekran sarsıntısıyla iner, çam yeşili alanı; üç mühür de alt kısımda hizalanır; son kareyi sabit tutun. Kamera: sadece hızlı yakınlaştırmalar (push-in). Uzak tam vücut çekimleri yok; yüzler kare yüksekliğinin %35-50'sinde kalmalı. Ses: her kesimde üç taiko tarzı perküsyon vuruşu + mürekkep sıçrama efekti (SFX). ŞUNLARI YAPMAYIN: kimlik dönüşümü, tek karede iki karakter, yeniden tasarlanmış kıyafetler, batı çizgi roman tarzı, mühürler dışında okunabilir herhangi bir metin. Çin donghua (guoman) tarzı karakter sayfası, 19 yaşında genç bir kılıç ustasının göğüs hizasından kahraman portresi, keskin ve özgüvenli gözler, gümüş bir toka ile yukarıdan toplanmış uzun mürekkep siyahı saçlar, hafif bulut desenli işlemeli koyu çivit mavisi katmanlı cübbe, yakada bir yeşim kolye, hafif bir gülümseme, yüz karenin yaklaşık %40'ını kaplar, ince mürekkep yıkama dokusu vurgularıyla cel shading, temiz ve kalın çizgi sanatı, film kalitesinde karakter tasarımı, sade sıcak açık gri arka plan, yumuşak ve dengeli aydınlatma --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Çin donghua (guoman) tarzı karakter sayfası, 17 yaşında oyuncu bir kadın kahramanın göğüs hizasından kahraman portresi, parlak kehribar rengi gözler, vermilyon kurdeleli ve gevşek yan tutamlı ikili topuz saç stili, altın süslemeli kırmızı-beyaz kısa dövüş ceketi, çenesine yakın yarı açık bir yelpaze tutuyor, muzip bir sırıtış, yüz karenin yaklaşık %40'ını kaplar, ince mürekkep yıkama dokusu vurgularıyla cel shading, temiz ve kalın çizgi sanatı, film kalitesinde karakter tasarımı, sade sıcak açık gri arka plan, yumuşak ve dengeli aydınlatma --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border Çin donghua (guoman) tarzı karakter sayfası, 35 yaşında nazik dev bir savaşçı keşişin göğüs hizasından kahraman portresi, geniş omuzlar, hafif kirli sakallı tıraşlı baş, kalın kaşlar, sıcak ve dürüst bir gülümseme, tek omzu açık yosun yeşili keşiş cübbesi, boyunda ahşap tespih, sol kaşta küçük bir yara izi, yüz karenin yaklaşık %40'ını kaplar, ince mürekkep yıkama dokusu vurgularıyla cel shading, temiz ve kalın çizgi sanatı, film kalitesinde karakter tasarımı, sade sıcak açık gri arka plan, yumuşak ve dengeli aydınlatma --ar 3:4 --v 7 --s 150 --no text, watermark, logo, signature, border
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090179877815128065/img/T9QKihnEdChkgmZM.jpg" width="600" alt="Çin Anime Karakter Tanıtımı">
-
-**[🎬 Videoyu izle →](https://x.com/EZheng66099/status/2090180685902369163)**
-
-**Yazar:** [EZ](https://x.com/EZheng66099) | **Kaynak:** [Link](https://x.com/EZheng66099/status/2090180685902369163) | **Yayınlandı:** Aug 19, 2026
-
----
 ### Modern Çin Çay Seremonisi Hareketli Grafikleri
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2979,13 +2928,61 @@ Güneşli bir yerel parkta, ahşap bir bankta oturan, gri saçlı, nazik yaşlı
 **Yazar:** [渣猫看世界🦭/acc](https://x.com/xzjken) | **Kaynak:** [Link](https://x.com/xzjken/status/2072615060632228239) | **Yayınlandı:** Jul 2, 2026
 
 ---
+### Dev Tembel Hayvan ve Godzilla Şehir Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dağ büyüklüğünde bir tembel hayvanın, komedi fiziğiyle bir fil-Godzilla canavarını kazara alt ettiği, oldukça detaylı sinematik bir istem.
+
+#### 📝 İstem
+
+```
+Dağ yüksekliğinde, yavaş hareket eden devasa bir tembel hayvan bir gökdelene asılmış, kocaman esniyor. Öfkeli bir fil-Godzilla canavarı, küçük şimşekler saçarak ona doğru ilerliyor. Tembel hayvan, üşengeç bir tavırla tek pençesini uzatıyor ve hiç çaba sarf etmeden canavarı kilometrelerce uzağa fırlatıyor. Tembel hayvan omuz silkiyor ve binanın üzerinde uyumaya devam ediyor. Hızdaki absürt tezatlık, komedi fiziği, mizahi ağır çekim darbeler ve canlı şehir yıkımı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072542400120246273/img/7xiIeRJstZghJx6m.jpg" width="600" alt="Dev Tembel Hayvan ve Godzilla Şehir Savaşı">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2072542482857099759)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2072542482857099759) | **Yayınlandı:** Jul 2, 2026
+
+---
+### Himalayalar'da Sabah: Pahadi Kız Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sisli Himalayalar'da koyunlarıyla birlikte yürüyen genç bir kızı konu alan, çeşitli çekim türleri ve ortam sesleri içeren 10 saniyelik sinematik bir video hikaye panosu (storyboard) istemi.
+
+#### 📝 İstem
+
+```
+Sahne Başlığı: Koyunlarla Pahadi Kız — Himalayalar'da Sabah
+[0sn–2sn]
+Geniş ölçekli giriş çekimi: Yaklaşık 22 yaşlarında, ince yapılı, genç bir Hintli dağ kızı, dar bir dağ patikasında nazikçe yürüyor. Üzerinde geleneksel pahadi kıyafeti (yumuşak yün şal, sade bir kurta, gümüş jhumka küpeler) var, dupattası rüzgarda hafifçe dalgalanıyor. Arka planda sisli yeşil dağlar ve çam ağaçları. Doğal sabah güneş ışığı, yumuşak altın tonları.
+[2sn–4sn]
+Orta çekim: Küçük bir koyun sürüsünün yanında yürüyor, eli nazikçe ahşap bir asaya dayanmış. İfadesi sakin, sıcak ve huzurlu; hafif bir gülümseme, gözlerinde doğa sevgisi ve masumiyet yansıyor. Rüzgar saçlarını doğal bir şekilde hareket ettiriyor.
+[4sn–6sn]
+Yakın çekim: Yumuşak doğal ışıkta yüzü; sevimli, zarif hatlar, makyajsız bir görünüm, ışıldayan bir cilt. Koyunlara şefkatle bakıyor, biri bacağına dokunduğunda hafifçe gülüyor. Doğal ortam sesleri: kuş cıvıltıları, uzaktan gelen koyun çanları (ghungroo), rüzgarın hışırtısı.
+[6sn–8sn]
+Arkadan takip çekimi: Çimenli bir yamaçta yukarı doğru yürüyor, koyunlar arkasından geliyor, dupattası dalgalanıyor, silüeti katmanlı Himalaya zirveleri ve sürüklenen bulutlar önünde çerçeveleniyor.
+[8sn–10sn]
+Final geniş çekim: Bir uçurumun kenarında duruyor, vadiye bakıyor, koyunlar etrafında sakince otluyor. Yumuşak rüzgar sesi, arka planda yavaşça yükselen uzak bir tapınak çanı veya flüt sesi. Çekim hafif bir vinyet ile kararırken, huzurlu ve dingin ifadesi üzerinde donuyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2072308030470049792/img/1eKGRutDZ_ieiSpI.jpg" width="600" alt="Himalayalar'da Sabah: Pahadi Kız Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/b275511/status/2072308089056084456)**
+
+**Yazar:** [TheAIDev](https://x.com/b275511) | **Kaynak:** [Link](https://x.com/b275511/status/2072308089056084456) | **Yayınlandı:** Jul 1, 2026
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 81 burada gösterilmeyen daha fazla istem
+### 🎯 79 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3031,6 +3028,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-21T04:36:25.933Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-21T08:38:22.807Z</sub>
 
 </div>
