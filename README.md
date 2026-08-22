@@ -56,19 +56,19 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Cliff Observation Deck Construction Timelapse
+### Cliffside Observation Deck Time-lapse
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A cinematic video generation prompt for a time-lapse sequence showing the construction of a cliffside glass observation deck, featuring detailed steelwork, welding, and final completion.
+> A detailed cinematic prompt for a video showing the step-by-step construction of a glass observation deck on a cliffside by giant hands.
 
 #### 📝 Prompt
 
 ```
-Start from the original cliff steel structure construction site → giant realistic human hands gradually installing anchors, cantilever steel beams, welding sparks, and glass floor panels → complete the luxury observation deck → miniature tourists walk onto the transparent floor to overlook the canyon and take photos, with mountain mist flowing slowly. Maintain the same mountain environment throughout, warm afternoon lighting, cinematic miniature engineering aesthetics, with the camera slowly pushing in + slight horizontal panning.
+Starting from the original cliff steel structure construction site → giant realistic human hands gradually installing anchors, cantilever steel beams, welding sparks, and glass floor panels → completing the luxury observation deck → miniature tourists walking onto the transparent floor to overlook the canyon and take photos, with mountain mist flowing slowly. Maintain the same mountain environment throughout, warm afternoon lighting, cinematic miniature engineering aesthetics, slow camera zoom-in + slight horizontal panning.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2090671965375967232/img/hZUA9IStcund8AZq.jpg" width="600" alt="Cliff Observation Deck Construction Timelapse">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2090671965375967232/img/hZUA9IStcund8AZq.jpg" width="600" alt="Cliffside Observation Deck Time-lapse">
 
 **[🎬 Watch Video →](https://x.com/XiaoKooeye/status/2090673511899820355)**
 
@@ -3162,6 +3162,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-22T08:27:03.790Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-22T12:35:13.174Z</sub>
 
 </div>
