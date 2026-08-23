@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **183** |
+| 📝 Total Prompts | **184** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-23** |
 
@@ -56,6 +56,37 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Construction Timelapse Dream Home
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed cinematic prompt for a continuous construction timelapse, showing a home build from excavation to completion with dynamic lighting.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic cinematic construction timelapse of a modern two-story suburban family home rising from an empty lot, one continuous elevated shot with natural daylight progression from soft dawn mist through bright midday sun to warm golden-hour sunset. Dynamic high wide establishing camera that slowly orbits 90–120 degrees while gently pushing in, maintaining full visibility of the growing structure with smooth parallax, realistic perspective shifts, material physics (dust, reflections, settling concrete), and organic accelerated worker/machine movements. No abrupt cuts.
+[0–2s]
+Wide elevated view of a bare empty suburban lot at dawn with light mist: cleared dirt, survey stakes, basic excavation. Small crew in safety vests and hard hats plus heavy machinery (excavator, bulldozer) arrive and mark foundation lines. Soft cool morning light with long shadows. Native audio: distant truck engines, doors slamming, light wind, early birds, faint worker calls.
+[2–4s]
+Rapid foundation and framing: excavator digs footings, concrete pours and sets in fast-forward, wooden/steel framing skeleton rises floor by floor as workers climb and hammer. Walls, roof trusses, and sheathing go up. Sun climbs higher, shadows shorten dramatically. Audio: heavy machinery rumble, concrete pouring, rapid nail guns, wood creaking, accelerated worker shouts.
+[4–6s]
+Exterior enclosure and roofing: windows and doors install, roofing materials laid with precision, brick or siding facade appears. Brief glimpse of electrical/plumbing rough-ins. Bright midday sunlight reveals clean structural lines and material textures. Audio: sawing, drilling, cladding placement, scaffolding adjustments, ambient site noise.
+[6–8s]
+Finishing and landscaping: exterior paint/cladding completed, gutters and trim added, driveway and walkways poured, front landscaping (grass, shrubs, young trees) materializes, deck or patio forms. Late-afternoon golden light creates warm reflections on glass and fresh surfaces. Audio: paint sprayers, landscaping tools, lighter finishing sounds, testing sprinklers.
+[8–10s]
+Final reveal and settle of the completed modern two-story home at sunset: clean minimalist design with large windows, sleek rooflines, welcoming front porch lights on, mature-looking landscaping, warm inviting glow. Camera holds the orbiting push-in as activity winds down. Calm aspirational atmosphere with gentle evening breeze. Audio: soft wind, distant birds, subtle completion ambience with a light natural background swell (no heavy music).
+Camera: continuous dynamic elevated timelapse — starts high and wide, slowly orbits while gently pushing in for intimacy, full structure always visible, natural parallax on growing form, realistic dust/shadows/reflections, smooth accelerated motion.
+Mood & aesthetics: Hyper-realistic satisfying transformation from empty dirt plot into a bright contemporary suburban dream home.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091406268867256320/img/b17yWZ3IgxbGts7v.jpg" width="600" alt="Construction Timelapse Dream Home">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2091406362668638422)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Published:** Aug 23, 2026
+
+---
 ### Cliffside Observation Deck Time-lapse
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -3083,40 +3114,13 @@ Goal: Authentic Lisbon residential life captured like a forgotten early-2000s ho
 **Author:** [Pesh](https://x.com/PeshCreates) | **Source:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Published:** Jul 2, 2026
 
 ---
-### Hyper-realistic VFX Video Editing Prompts
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A collection of cinematic prompts for Gemini Omni Flash demonstrating realistic texture overlays and object tracking, such as peeling off tattoos and honey-covered keyboards.
-
-#### 📝 Prompt
-
-```
-A close-up shot of a person's forearm with a black ink tattoo. A hand enters the frame and peels off the tattoo as if it were a clear plastic sticker, revealing clean, un-tattooed skin underneath. Seamless lighting and natural skin texture.
-
-A top-down view of hands typing on a mechanical keyboard. The keyboard and the fingers are covered in thick, sticky, translucent honey. Strands of gooey honey stretch and pull between the fingertips and the yellow and black keycaps with realistic physics as the keys are pressed.
-
-A top-down view of hands typing on a mechanical keyboard. The entire keyboard housing and keycaps are transformed into a single piece of translucent green gelatin mold. The jelly wobbles naturally with each keystroke.
-
-A top-down view of hands typing on a mechanical keyboard. The keyboard is made of glowing, molten lava rock, and small flame bursts and embers ignite around the keys as the fingers type. The hands remain unaffected by the fire, casting dynamic orange light reflections.
-
-A top-down view of hands typing on a mechanical keyboard. Slender green leafy vines are overgrown and wrapped tightly around the keyboard and keycaps. The fingers type effortlessly between the crawling foliage, casting soft shadows.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072723774974087168/img/zJBeX548eeRyd39V.jpg" width="600" alt="Hyper-realistic VFX Video Editing Prompts">
-
-**[🎬 Watch Video →](https://x.com/NeurainX/status/2072723878195929405)**
-
-**Author:** [Neurain](https://x.com/NeurainX) | **Source:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Published:** Jul 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 83 more prompts not shown here
+### 🎯 84 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3162,6 +3166,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-23T08:27:14.311Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-23T12:35:53.480Z</sub>
 
 </div>

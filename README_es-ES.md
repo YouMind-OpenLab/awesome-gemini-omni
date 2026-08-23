@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **183** |
+| 📝 Total de prompts | **184** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-08-23** |
 
@@ -56,6 +56,37 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Timelapse de construcción: la casa de tus sueños
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico altamente detallado para un timelapse de construcción continuo, que muestra la edificación de una casa desde la excavación hasta su finalización con iluminación dinámica.
+
+#### 📝 Prompt
+
+```
+Timelapse cinematográfico ultrarrealista de la construcción de una moderna casa familiar de dos pisos que surge de un terreno vacío, en una toma elevada continua con progresión de luz natural, desde la suave niebla del amanecer hasta el sol brillante del mediodía y la cálida puesta de sol de la hora dorada. Cámara dinámica de gran angular que orbita lentamente entre 90 y 120 grados mientras se acerca suavemente, manteniendo la visibilidad total de la estructura en crecimiento con un paralaje fluido, cambios de perspectiva realistas, física de materiales (polvo, reflejos, asentamiento del concreto) y movimientos orgánicos acelerados de trabajadores y maquinaria. Sin cortes abruptos.
+[0–2s]
+Vista elevada y amplia de un terreno suburbano vacío al amanecer con niebla ligera: tierra despejada, estacas de topografía, excavación básica. Un pequeño equipo con chalecos de seguridad y cascos, además de maquinaria pesada (excavadora, bulldozer), llega y marca las líneas de los cimientos. Luz fresca y suave de la mañana con sombras largas. Audio nativo: motores de camiones a lo lejos, portazos, viento suave, pájaros tempraneros, llamadas tenues de los trabajadores.
+[2–4s]
+Cimientos y estructura rápida: la excavadora cava las zapatas, el concreto se vierte y fragua en cámara rápida, el esqueleto de madera/acero se eleva piso por piso mientras los trabajadores trepan y martillean. Paredes, cerchas de techo y revestimientos se levantan. El sol sube, las sombras se acortan drásticamente. Audio: estruendo de maquinaria pesada, vertido de concreto, pistolas de clavos rápidas, crujido de madera, gritos acelerados de los trabajadores.
+[4–6s]
+Cerramiento exterior y techado: instalación de ventanas y puertas, colocación precisa de materiales de techado, aparece la fachada de ladrillo o revestimiento. Breve vistazo a las instalaciones eléctricas/de plomería. La brillante luz del mediodía revela líneas estructurales limpias y texturas de materiales. Audio: serrado, taladrado, colocación de revestimientos, ajustes de andamios, ruido ambiental de la obra.
+[6–8s]
+Acabados y paisajismo: pintura/revestimiento exterior completado, adición de canaletas y molduras, vertido de entrada y senderos, paisajismo frontal (césped, arbustos, árboles jóvenes) que se materializa, formación de terraza o patio. La luz dorada de la tarde crea reflejos cálidos en el vidrio y las superficies frescas. Audio: pulverizadores de pintura, herramientas de jardinería, sonidos de acabado más ligeros, pruebas de rociadores.
+[8–10s]
+Revelación final y asentamiento de la casa moderna de dos pisos terminada al atardecer: diseño minimalista y limpio con grandes ventanales, líneas de techo elegantes, luces del porche delantero encendidas, paisajismo de aspecto maduro, brillo cálido y acogedor. La cámara mantiene el movimiento orbital de acercamiento mientras la actividad disminuye. Atmósfera aspiracional y tranquila con una suave brisa vespertina. Audio: viento suave, pájaros a lo lejos, ambiente sutil de finalización con un ligero aumento natural de fondo (sin música pesada).
+Cámara: timelapse elevado dinámico y continuo: comienza alto y amplio, orbita lentamente mientras se acerca suavemente para mayor intimidad, estructura completa siempre visible, paralaje natural sobre la forma en crecimiento, polvo/sombras/reflejos realistas, movimiento acelerado fluido.
+Estado de ánimo y estética: transformación hiperrealista y satisfactoria de un terreno de tierra vacío en una brillante casa suburbana contemporánea de ensueño.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091406268867256320/img/b17yWZ3IgxbGts7v.jpg" width="600" alt="Timelapse de construcción: la casa de tus sueños">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2091406362668638422)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Publicado:** Aug 23, 2026
+
+---
 ### Timelapse de la construcción de un mirador en un acantilado
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2998,40 +3029,13 @@ Objetivo: Auténtica vida residencial de Lisboa capturada como un video casero o
 **Autor:** [Pesh](https://x.com/PeshCreates) | **Fuente:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Publicado:** Jul 2, 2026
 
 ---
-### Prompts de edición de video VFX hiperrealistas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una colección de prompts cinematográficos para Gemini Omni Flash que demuestran superposiciones de texturas realistas y seguimiento de objetos, como despegar tatuajes o teclados cubiertos de miel.
-
-#### 📝 Prompt
-
-```
-Un primer plano del antebrazo de una persona con un tatuaje de tinta negra. Una mano entra en el encuadre y despega el tatuaje como si fuera una pegatina de plástico transparente, revelando una piel limpia y sin tatuajes debajo. Iluminación impecable y textura de piel natural.
-
-Una vista cenital de unas manos escribiendo en un teclado mecánico. El teclado y los dedos están cubiertos de una miel espesa, pegajosa y translúcida. Los hilos de miel viscosa se estiran y se tensan entre las yemas de los dedos y las teclas amarillas y negras con una física realista a medida que se presionan las teclas.
-
-Una vista cenital de unas manos escribiendo en un teclado mecánico. Toda la carcasa y las teclas del teclado se transforman en una sola pieza de gelatina verde translúcida. La gelatina se tambalea de forma natural con cada pulsación.
-
-Una vista cenital de unas manos escribiendo en un teclado mecánico. El teclado está hecho de roca de lava fundida brillante, y pequeñas ráfagas de llamas y brasas se encienden alrededor de las teclas mientras los dedos escriben. Las manos permanecen intactas por el fuego, proyectando reflejos de luz naranja dinámicos.
-
-Una vista cenital de unas manos escribiendo en un teclado mecánico. Unas finas enredaderas verdes crecen y se envuelven firmemente alrededor del teclado y las teclas. Los dedos escriben sin esfuerzo entre el follaje trepador, proyectando sombras suaves.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072723774974087168/img/zJBeX548eeRyd39V.jpg" width="600" alt="Prompts de edición de video VFX hiperrealistas">
-
-**[🎬 Ver video →](https://x.com/NeurainX/status/2072723878195929405)**
-
-**Autor:** [Neurain](https://x.com/NeurainX) | **Fuente:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Publicado:** Jul 2, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 83 más prompts no mostrados aquí
+### 🎯 84 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3077,6 +3081,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-23T08:27:24.066Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-23T12:35:59.726Z</sub>
 
 </div>

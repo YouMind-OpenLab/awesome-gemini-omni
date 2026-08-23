@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **183** |
+| 📝 Gesamtanzahl Prompts | **184** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-23** |
 
@@ -56,6 +56,37 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Zeitraffer-Bau eines Traumhauses
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter, filmischer Prompt für einen kontinuierlichen Zeitraffer-Bau, der die Entstehung eines Hauses von der Aushebung bis zur Fertigstellung mit dynamischer Beleuchtung zeigt.
+
+#### 📝 Prompt
+
+```
+Ultrarealistischer, filmischer Zeitraffer-Bau eines modernen zweistöckigen Einfamilienhauses, das auf einem leeren Grundstück entsteht. Eine durchgehende erhöhte Aufnahme mit natürlichem Tageslichtverlauf von sanftem Morgennebel über helles Mittagssonnenlicht bis hin zum warmen Sonnenuntergang in der goldenen Stunde. Dynamische, weitwinklige Kameraführung, die langsam um 90–120 Grad schwenkt und dabei sanft heranzoomt, während die wachsende Struktur mit flüssiger Parallaxe, realistischen Perspektivwechseln, Materialphysik (Staub, Reflexionen, aushärtender Beton) und organisch beschleunigten Bewegungen von Arbeitern und Maschinen stets vollständig sichtbar bleibt. Keine abrupten Schnitte.
+[0–2s]
+Weite erhöhte Ansicht eines leeren Vorstadtgrundstücks bei Morgendämmerung mit leichtem Nebel: geräumter Boden, Vermessungspflöcke, grundlegende Erdarbeiten. Eine kleine Crew in Sicherheitswesten und Helmen sowie schweres Gerät (Bagger, Planierraupe) treffen ein und markieren die Fundamentlinien. Sanftes, kühles Morgenlicht mit langen Schatten. Originalton: entfernte LKW-Motoren, zuschlagende Türen, leichter Wind, frühe Vögel, leise Rufe der Arbeiter.
+[2–4s]
+Schnelle Fundamentlegung und Rohbau: Bagger heben Gräben aus, Beton wird im Zeitraffer gegossen und härtet aus, das Holz-/Stahlgerüst wächst Stockwerk für Stockwerk, während Arbeiter klettern und hämmern. Wände, Dachstühle und Verschalungen entstehen. Die Sonne steigt höher, die Schatten verkürzen sich dramatisch. Ton: Grollen schwerer Maschinen, Beton gießen, schnelles Nageln, Holzknarren, beschleunigte Rufe der Arbeiter.
+[4–6s]
+Außenhülle und Dacheindeckung: Fenster und Türen werden eingebaut, Dachmaterialien präzise verlegt, Ziegel- oder Fassadenverkleidung erscheint. Kurzer Einblick in die Rohinstallation von Elektro/Sanitär. Helles Mittagssonnenlicht enthüllt klare strukturelle Linien und Materialtexturen. Ton: Sägen, Bohren, Anbringen der Verkleidung, Justierung des Gerüsts, Umgebungsgeräusche der Baustelle.
+[6–8s]
+Fertigstellung und Landschaftsbau: Außenanstrich/Verkleidung abgeschlossen, Dachrinnen und Zierleisten angebracht, Einfahrt und Gehwege gegossen, Vorgarten (Gras, Sträucher, junge Bäume) entsteht, Terrasse nimmt Form an. Das goldene Licht des späten Nachmittags erzeugt warme Reflexionen auf Glas und frischen Oberflächen. Ton: Farbsprühgeräte, Landschaftsbauwerkzeuge, leisere Abschlussgeräusche, Testen der Sprinkleranlage.
+[8–10s]
+Finale Enthüllung und Ansicht des fertiggestellten modernen zweistöckigen Hauses bei Sonnenuntergang: klares, minimalistisches Design mit großen Fenstern, eleganten Dachlinien, einladender Veranda-Beleuchtung, ausgereift wirkender Landschaftsgestaltung, warmem, einladendem Glanz. Die Kamera hält den schwenkenden Zoom bei, während die Aktivität abnimmt. Ruhige, aspirative Atmosphäre mit sanfter Abendbrise. Ton: sanfter Wind, entfernte Vögel, dezente Umgebungsgeräusche der Fertigstellung mit einem leichten, natürlichen Hintergrundklang (keine schwere Musik).
+Kamera: kontinuierlicher, dynamischer Zeitraffer aus der Vogelperspektive – beginnt weit und hoch, schwenkt langsam bei sanftem Heranzoomen für mehr Intimität, die gesamte Struktur bleibt immer sichtbar, natürliche Parallaxe bei der wachsenden Form, realistischer Staub/Schatten/Reflexionen, flüssige, beschleunigte Bewegung.
+Stimmung & Ästhetik: Hyperrealistische, befriedigende Transformation von einem leeren Erdgrundstück in ein helles, zeitgenössisches Vorstadt-Traumhaus.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091406268867256320/img/b17yWZ3IgxbGts7v.jpg" width="600" alt="Zeitraffer-Bau eines Traumhauses">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2091406362668638422)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Veröffentlicht:** Aug 23, 2026
+
+---
 ### Zeitraffer vom Bau einer Aussichtsplattform an einer Klippe
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2994,40 +3025,13 @@ Ziel: Authentisches Lissabonner Wohnleben, eingefangen wie ein vergessenes Home-
 **Autor:** [Pesh](https://x.com/PeshCreates) | **Quelle:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Veröffentlicht:** Jul 2, 2026
 
 ---
-### Hyperrealistische VFX-Video-Editing-Prompts
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine Sammlung filmischer Prompts für Gemini Omni Flash, die realistische Textur-Overlays und Objekt-Tracking demonstrieren, wie etwa das Abziehen von Tattoos oder mit Honig bedeckte Tastaturen.
-
-#### 📝 Prompt
-
-```
-Eine Nahaufnahme des Unterarms einer Person mit einem schwarzen Tattoo. Eine Hand kommt ins Bild und zieht das Tattoo ab, als wäre es ein durchsichtiger Plastikaufkleber, wodurch die saubere, nicht tätowierte Haut darunter zum Vorschein kommt. Nahtlose Beleuchtung und natürliche Hauttextur.
-
-Eine Draufsicht auf Hände, die auf einer mechanischen Tastatur tippen. Die Tastatur und die Finger sind mit dickem, klebrigem, durchscheinendem Honig bedeckt. Fäden aus zähem Honig ziehen sich beim Drücken der Tasten zwischen den Fingerspitzen und den gelb-schwarzen Tastenkappen mit realistischer Physik.
-
-Eine Draufsicht auf Hände, die auf einer mechanischen Tastatur tippen. Das gesamte Tastaturgehäuse und die Tastenkappen sind in ein einziges Stück durchscheinenden grünen Wackelpudding verwandelt. Das Gelee wackelt bei jedem Tastenanschlag natürlich mit.
-
-Eine Draufsicht auf Hände, die auf einer mechanischen Tastatur tippen. Die Tastatur besteht aus glühendem, geschmolzenem Lavagestein, und kleine Flammenstöße sowie Glut entzünden sich beim Tippen um die Tasten herum. Die Hände bleiben vom Feuer unbeeinflusst und werfen dynamische orangefarbene Lichtreflexionen.
-
-Eine Draufsicht auf Hände, die auf einer mechanischen Tastatur tippen. Schlanke grüne Ranken sind überwuchert und fest um die Tastatur und die Tastenkappen gewickelt. Die Finger tippen mühelos zwischen dem kriechenden Blattwerk, das weiche Schatten wirft.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072723774974087168/img/zJBeX548eeRyd39V.jpg" width="600" alt="Hyperrealistische VFX-Video-Editing-Prompts">
-
-**[🎬 Video ansehen →](https://x.com/NeurainX/status/2072723878195929405)**
-
-**Autor:** [Neurain](https://x.com/NeurainX) | **Quelle:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Veröffentlicht:** Jul 2, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 83 weitere Prompts hier nicht angezeigt
+### 🎯 84 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3073,6 +3077,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-23T08:27:26.160Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-23T12:36:01.317Z</sub>
 
 </div>

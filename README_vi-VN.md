@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **183** |
+| 📝 Tổng số prompt | **184** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-23** |
 
@@ -56,6 +56,37 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Timelapse quá trình xây dựng ngôi nhà mơ ước
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh cực kỳ chi tiết cho video timelapse quá trình xây dựng liên tục, mô tả việc xây nhà từ khâu đào móng đến khi hoàn thiện với ánh sáng động.
+
+#### 📝 Prompt
+
+```
+Timelapse điện ảnh siêu thực về quá trình xây dựng một ngôi nhà gia đình hiện đại hai tầng mọc lên từ một bãi đất trống, một cú máy nâng cao liên tục với sự chuyển đổi ánh sáng tự nhiên từ sương sớm dịu nhẹ đến nắng trưa rực rỡ và hoàng hôn vàng ấm áp. Camera góc rộng, động, xoay chậm 90–120 độ trong khi tiến dần vào, duy trì tầm nhìn bao quát cấu trúc đang hình thành với hiệu ứng thị sai mượt mà, thay đổi phối cảnh chân thực, vật lý vật liệu (bụi, phản chiếu, bê tông đông kết) và chuyển động nhanh tự nhiên của công nhân/máy móc. Không có các đoạn cắt đột ngột.
+[0–2 giây]
+Góc nhìn cao bao quát bãi đất trống ở ngoại ô vào lúc bình minh với sương nhẹ: đất đã được dọn sạch, cọc khảo sát, đào móng cơ bản. Một nhóm nhỏ công nhân mặc áo phản quang, đội mũ bảo hộ cùng máy móc hạng nặng (máy xúc, máy ủi) đến và đánh dấu đường móng. Ánh sáng buổi sáng mát mẻ với những cái bóng dài. Âm thanh gốc: tiếng động cơ xe tải từ xa, tiếng đóng cửa, gió nhẹ, chim hót sớm, tiếng gọi của công nhân.
+[2–4 giây]
+Đổ móng và dựng khung nhanh: máy xúc đào móng, bê tông đổ và đông kết ở chế độ tua nhanh, khung xương gỗ/thép dựng lên từng tầng khi công nhân leo trèo và đóng đinh. Tường, giàn mái và tấm ốp được lắp đặt. Mặt trời lên cao, bóng đổ ngắn lại đáng kể. Âm thanh: tiếng máy móc hạng nặng, tiếng đổ bê tông, tiếng súng bắn đinh liên hồi, tiếng gỗ kêu, tiếng công nhân hò reo nhanh.
+[4–6 giây]
+Hoàn thiện bao ngoài và mái: lắp đặt cửa sổ và cửa ra vào, vật liệu lợp mái được đặt chính xác, mặt tiền bằng gạch hoặc tấm ốp xuất hiện. Thoáng thấy các đường ống điện/nước. Ánh nắng trưa rực rỡ làm nổi bật các đường nét cấu trúc và kết cấu vật liệu. Âm thanh: tiếng cưa, khoan, lắp tấm ốp, điều chỉnh giàn giáo, tiếng ồn công trường.
+[6–8 giây]
+Hoàn thiện và cảnh quan: sơn ngoại thất/tấm ốp hoàn thành, lắp máng xối và viền, đổ đường lái xe và lối đi, cảnh quan phía trước (cỏ, cây bụi, cây non) hình thành, sàn gỗ hoặc sân hiên được tạo hình. Ánh sáng vàng chiều muộn tạo ra những phản chiếu ấm áp trên kính và các bề mặt mới. Âm thanh: máy phun sơn, dụng cụ làm vườn, âm thanh hoàn thiện nhẹ nhàng, tiếng kiểm tra vòi phun nước.
+[8–10 giây]
+Tiết lộ cuối cùng và sự ổn định của ngôi nhà hai tầng hiện đại hoàn thiện lúc hoàng hôn: thiết kế tối giản sạch sẽ với cửa sổ lớn, đường mái kiểu dáng đẹp, đèn hiên trước chào đón, cảnh quan trông trưởng thành, ánh sáng ấm áp mời gọi. Camera giữ nguyên cú xoay và tiến vào khi hoạt động lắng xuống. Bầu không khí bình yên, đầy khát vọng với làn gió chiều nhẹ nhàng. Âm thanh: gió nhẹ, chim chóc từ xa, không khí hoàn thiện tinh tế với nhạc nền tự nhiên nhẹ nhàng (không có nhạc mạnh).
+Camera: timelapse nâng cao, động, liên tục — bắt đầu ở góc cao và rộng, xoay chậm trong khi tiến dần vào để tạo sự gần gũi, toàn bộ cấu trúc luôn hiển thị, hiệu ứng thị sai tự nhiên trên hình khối đang phát triển, bụi/bóng đổ/phản chiếu chân thực, chuyển động nhanh mượt mà.
+Cảm xúc & thẩm mỹ: Sự biến đổi siêu thực đầy thỏa mãn từ một bãi đất trống thành một ngôi nhà mơ ước hiện đại, rực rỡ ở ngoại ô.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091406268867256320/img/b17yWZ3IgxbGts7v.jpg" width="600" alt="Timelapse quá trình xây dựng ngôi nhà mơ ước">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2091406362668638422)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Đã xuất bản:** Aug 23, 2026
+
+---
 ### Video tua nhanh quá trình xây dựng đài quan sát trên vách đá
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2944,40 +2975,13 @@ Mục tiêu: Cuộc sống khu dân cư Lisbon chân thực được ghi lại n
 **Tác giả:** [Pesh](https://x.com/PeshCreates) | **Nguồn:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Đã xuất bản:** Jul 2, 2026
 
 ---
-### Các câu lệnh (prompt) chỉnh sửa video VFX siêu thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bộ sưu tập các câu lệnh điện ảnh dành cho Gemini Omni Flash, minh họa các lớp phủ kết cấu chân thực và tính năng theo dõi đối tượng, chẳng hạn như bóc hình xăm và bàn phím phủ mật ong.
-
-#### 📝 Prompt
-
-```
-Cận cảnh cẳng tay của một người với hình xăm mực đen. Một bàn tay xuất hiện trong khung hình và bóc hình xăm ra như thể đó là một miếng dán nhựa trong suốt, để lộ làn da sạch sẽ, không có hình xăm bên dưới. Ánh sáng liền mạch và kết cấu da tự nhiên.
-
-Góc nhìn từ trên xuống của đôi tay đang gõ trên bàn phím cơ. Bàn phím và các ngón tay được bao phủ bởi lớp mật ong dày, dính và trong suốt. Những sợi mật ong dẻo kéo dài giữa các đầu ngón tay và các phím màu vàng đen với hiệu ứng vật lý chân thực khi các phím được nhấn.
-
-Góc nhìn từ trên xuống của đôi tay đang gõ trên bàn phím cơ. Toàn bộ vỏ bàn phím và các phím bấm biến thành một khối thạch màu xanh lá cây trong suốt. Khối thạch rung rinh một cách tự nhiên theo từng lần nhấn phím.
-
-Góc nhìn từ trên xuống của đôi tay đang gõ trên bàn phím cơ. Bàn phím được làm từ đá nham thạch nóng chảy rực rỡ, những đốm lửa nhỏ và tàn tro bùng lên xung quanh các phím khi ngón tay gõ. Đôi tay không bị ảnh hưởng bởi lửa, tạo ra những phản chiếu ánh sáng màu cam sống động.
-
-Góc nhìn từ trên xuống của đôi tay đang gõ trên bàn phím cơ. Những dây leo xanh mảnh mai mọc um tùm và quấn chặt quanh bàn phím và các phím bấm. Các ngón tay gõ một cách dễ dàng giữa những tán lá đang bò, tạo ra những bóng đổ mềm mại.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072723774974087168/img/zJBeX548eeRyd39V.jpg" width="600" alt="Các câu lệnh (prompt) chỉnh sửa video VFX siêu thực">
-
-**[🎬 Xem video →](https://x.com/NeurainX/status/2072723878195929405)**
-
-**Tác giả:** [Neurain](https://x.com/NeurainX) | **Nguồn:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Đã xuất bản:** Jul 2, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 83 prompt khác không hiển thị ở đây
+### 🎯 84 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3023,6 +3027,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-23T08:27:21.511Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-23T12:35:58.256Z</sub>
 
 </div>

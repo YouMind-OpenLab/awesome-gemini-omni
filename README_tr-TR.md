@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **183** |
+| 📝 Toplam İstem | **184** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-23** |
 
@@ -56,6 +56,37 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### İnşaat Zaman Atlamalı (Timelapse) Rüya Ev
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kazıdan tamamlanmaya kadar bir evin inşa sürecini dinamik ışıklandırmayla gösteren, kesintisiz bir inşaat zaman atlamalı çekim için son derece detaylı sinematik komut.
+
+#### 📝 İstem
+
+```
+Boş bir arsadan yükselen modern iki katlı banliyö aile evinin ultra gerçekçi sinematik inşaat zaman atlamalı (timelapse) çekimi; hafif şafak sisinden parlak öğle güneşine ve sıcak altın saat gün batımına kadar doğal gün ışığı geçişiyle tek bir kesintisiz yüksek açı çekim. Yavaşça 90–120 derece dönen ve hafifçe yakınlaşan dinamik, geniş açılı kamera; pürüzsüz paralaks, gerçekçi perspektif kaymaları, malzeme fiziği (toz, yansımalar, oturan beton) ve hızlandırılmış organik işçi/makine hareketleriyle büyüyen yapının tam görünürlüğünü korur. Ani kesinti yok.
+[0–2sn]
+Şafak vaktinde hafif sisli, boş bir banliyö arsasının geniş yüksek açılı görünümü: temizlenmiş toprak, ölçüm kazıkları, temel kazısı. Güvenlik yelekli ve baretli küçük bir ekip ile ağır iş makineleri (ekskavatör, buldozer) gelir ve temel hatlarını belirler. Uzun gölgeli, yumuşak serin sabah ışığı. Doğal ses: uzak kamyon motorları, kapanan kapılar, hafif rüzgar, sabah kuşları, uzaktan işçi sesleri.
+[2–4sn]
+Hızlı temel ve iskelet kurulumu: ekskavatör temelleri kazar, beton dökülür ve hızlandırılmış şekilde donar, işçiler tırmanıp çivilerken ahşap/çelik iskelet kat kat yükselir. Duvarlar, çatı makasları ve kaplamalar yerleştirilir. Güneş yükselir, gölgeler dramatik şekilde kısalır. Ses: ağır makine gürültüsü, beton dökme, hızlı çivi tabancaları, ahşap gıcırtıları, hızlandırılmış işçi sesleri.
+[4–6sn]
+Dış cephe kapatma ve çatı kaplama: pencereler ve kapılar takılır, çatı malzemeleri hassasiyetle döşenir, tuğla veya dış cephe kaplaması belirir. Elektrik/tesisat altyapısına kısa bir bakış. Parlak öğle güneşi, temiz yapısal hatları ve malzeme dokularını ortaya çıkarır. Ses: testere, matkap, kaplama yerleştirme, iskele ayarlamaları, ortam şantiye gürültüsü.
+[6–8sn]
+Bitirme ve çevre düzenlemesi: dış cephe boyası/kaplaması tamamlanır, oluklar ve pervazlar eklenir, garaj yolu ve yürüyüş yolları dökülür, ön peyzaj (çim, çalılar, genç ağaçlar) belirir, veranda veya teras şekillenir. Gün sonu altın ışığı, camlarda ve yeni yüzeylerde sıcak yansımalar oluşturur. Ses: boya tabancaları, peyzaj araçları, hafif bitirme sesleri, fıskiye testleri.
+[8–10sn]
+Gün batımında tamamlanmış modern iki katlı evin son görünümü ve yerleşimi: büyük pencerelere, şık çatı hatlarına, yanan davetkar ön sundurma ışıklarına, olgun görünümlü peyzaja ve sıcak, davetkar bir parıltıya sahip temiz minimalist tasarım. Kamera, aktivite azalırken dönen yakınlaşma hareketini korur. Hafif akşam esintisiyle sakin, ilham verici bir atmosfer. Ses: hafif rüzgar, uzak kuş sesleri, hafif doğal bir arka plan yükselişiyle ince bir tamamlanma ambiyansı (ağır müzik yok).
+Kamera: kesintisiz dinamik yüksek açılı zaman atlamalı çekim — yüksek ve geniş başlar, yakınlık hissi için yavaşça dönerken hafifçe yakınlaşır, yapı her zaman tam görünür, büyüyen form üzerinde doğal paralaks, gerçekçi toz/gölge/yansımalar, pürüzsüz hızlandırılmış hareket.
+Mod ve estetik: Boş bir toprak parçasından parlak, çağdaş bir banliyö rüya evine hiper gerçekçi ve tatmin edici dönüşüm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091406268867256320/img/b17yWZ3IgxbGts7v.jpg" width="600" alt="İnşaat Zaman Atlamalı (Timelapse) Rüya Ev">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2091406362668638422)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Yayınlandı:** Aug 23, 2026
+
+---
 ### Uçurum Gözlem Güvertesi İnşaatı Hızlandırılmış Çekim
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2968,40 +2999,13 @@ Amaç: 2000'lerin başından kalma unutulmuş bir ev videosu gibi yakalanmış, 
 **Yazar:** [Pesh](https://x.com/PeshCreates) | **Kaynak:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Yayınlandı:** Jul 2, 2026
 
 ---
-### Hiper Gerçekçi VFX Video Düzenleme İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni Flash için dövme soyma ve balla kaplı klavyeler gibi gerçekçi doku katmanlarını ve nesne takibini gösteren sinematik istem koleksiyonu.
-
-#### 📝 İstem
-
-```
-Siyah mürekkepli dövmeye sahip bir kişinin ön kolunun yakın çekimi. Bir el kadraja girer ve dövmeyi şeffaf bir plastik etiketmiş gibi soyarak altındaki temiz, dövmesiz cildi ortaya çıkarır. Kusursuz ışıklandırma ve doğal cilt dokusu.
-
-Mekanik bir klavyede yazı yazan ellerin yukarıdan görünümü. Klavye ve parmaklar kalın, yapışkan, yarı saydam balla kaplıdır. Tuşlara basıldığında, yapışkan bal şeritleri parmak uçları ile sarı ve siyah tuş başlıkları arasında gerçekçi fizik kurallarıyla esner ve uzar.
-
-Mekanik bir klavyede yazı yazan ellerin yukarıdan görünümü. Klavye kasasının tamamı ve tuş başlıkları, tek parça yarı saydam yeşil jöle kalıbına dönüşmüştür. Jöle, her tuş vuruşunda doğal bir şekilde titrer.
-
-Mekanik bir klavyede yazı yazan ellerin yukarıdan görünümü. Klavye parlayan, erimiş lav taşından yapılmıştır ve parmaklar yazı yazarken tuşların etrafında küçük alev patlamaları ve közler oluşur. Eller ateşten etkilenmez ve dinamik turuncu ışık yansımaları oluşturur.
-
-Mekanik bir klavyede yazı yazan ellerin yukarıdan görünümü. İnce yeşil yapraklı sarmaşıklar klavyeyi ve tuş başlıklarını sıkıca sarmıştır. Parmaklar, sürünen bitki örtüsünün arasında zahmetsizce yazı yazar ve yumuşak gölgeler oluşturur.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072723774974087168/img/zJBeX548eeRyd39V.jpg" width="600" alt="Hiper Gerçekçi VFX Video Düzenleme İstemi">
-
-**[🎬 Videoyu izle →](https://x.com/NeurainX/status/2072723878195929405)**
-
-**Yazar:** [Neurain](https://x.com/NeurainX) | **Kaynak:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Yayınlandı:** Jul 2, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 83 burada gösterilmeyen daha fazla istem
+### 🎯 84 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3047,6 +3051,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-23T08:27:30.988Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-23T12:36:05.213Z</sub>
 
 </div>

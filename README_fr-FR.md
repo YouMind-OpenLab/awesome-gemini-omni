@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **183** |
+| 📝 Total des prompts | **184** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-08-23** |
 
@@ -56,6 +56,37 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Timelapse de la construction d'une maison de rêve
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinématographique ultra-détaillé pour un timelapse de construction en continu, montrant l'édification d'une maison, de l'excavation aux finitions, avec un éclairage dynamique.
+
+#### 📝 Prompt
+
+```
+Timelapse cinématographique ultra-réaliste de la construction d'une maison familiale moderne à deux étages sortant de terre sur un terrain vide, plan fixe en élévation avec une progression naturelle de la lumière du jour, de la brume douce de l'aube au soleil éclatant de midi jusqu'au coucher du soleil doré. Caméra dynamique en plan large qui orbite lentement de 90 à 120 degrés tout en effectuant un léger zoom avant, maintenant une visibilité totale de la structure en pleine croissance avec une parallaxe fluide, des changements de perspective réalistes, une physique des matériaux (poussière, reflets, béton qui se stabilise) et des mouvements organiques accélérés des ouvriers et des machines. Pas de coupes abruptes.
+[0–2s]
+Vue large en élévation d'un terrain suburbain vide à l'aube avec une légère brume : terre déblayée, piquets d'arpentage, excavation de base. Une petite équipe avec gilets de sécurité et casques, accompagnée d'engins lourds (pelle mécanique, bulldozer), arrive et trace les lignes de fondation. Lumière matinale fraîche et douce avec de longues ombres. Audio natif : moteurs de camions au loin, portes qui claquent, vent léger, oiseaux matinaux, appels lointains des ouvriers.
+[2–4s]
+Fondations et ossature rapides : la pelle mécanique creuse les semelles, le béton est coulé et prend en accéléré, l'ossature en bois/acier s'élève étage par étage tandis que les ouvriers grimpent et martèlent. Les murs, les fermes de toit et le revêtement sont installés. Le soleil monte, les ombres raccourcissent de façon spectaculaire. Audio : grondement des engins lourds, coulage du béton, cloueuses pneumatiques rapides, craquements du bois, cris accélérés des ouvriers.
+[4–6s]
+Fermeture extérieure et toiture : installation des fenêtres et des portes, pose précise des matériaux de toiture, apparition de la façade en briques ou en bardage. Bref aperçu des installations électriques et de plomberie. La lumière vive du soleil de midi révèle des lignes structurelles nettes et des textures de matériaux. Audio : sciage, perçage, pose de bardage, ajustements d'échafaudages, bruit ambiant du chantier.
+[6–8s]
+Finitions et aménagement paysager : peinture extérieure/bardage terminés, ajout des gouttières et des finitions, allées et trottoirs coulés, aménagement paysager (gazon, arbustes, jeunes arbres) qui se matérialise, formation de la terrasse ou du patio. La lumière dorée de fin d'après-midi crée des reflets chauds sur le verre et les surfaces neuves. Audio : pulvérisateurs de peinture, outils de jardinage, sons de finition plus légers, tests des arroseurs.
+[8–10s]
+Révélation finale et stabilisation de la maison moderne à deux étages terminée au coucher du soleil : design minimaliste épuré avec de grandes fenêtres, lignes de toit élégantes, lumières de porche accueillantes allumées, aménagement paysager mature, lueur chaleureuse et invitante. La caméra maintient l'orbite et le zoom avant alors que l'activité ralentit. Atmosphère calme et aspirationnelle avec une douce brise du soir. Audio : vent léger, oiseaux au loin, ambiance subtile de fin de chantier avec une légère montée sonore naturelle (pas de musique forte).
+Caméra : timelapse dynamique continu en élévation — commence en plan large et haut, orbite lentement tout en effectuant un léger zoom avant pour plus d'intimité, structure entière toujours visible, parallaxe naturelle sur la forme en croissance, poussière/ombres/reflets réalistes, mouvement accéléré fluide.
+Ambiance et esthétique : transformation hyper-réaliste et satisfaisante d'un terrain vide en une maison de rêve contemporaine et lumineuse.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091406268867256320/img/b17yWZ3IgxbGts7v.jpg" width="600" alt="Timelapse de la construction d'une maison de rêve">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2091406362668638422)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Publié:** Aug 23, 2026
+
+---
 ### Timelapse de la construction d'une plateforme d'observation sur falaise
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2994,40 +3025,13 @@ Objectif : Vie résidentielle authentique de Lisbonne capturée comme une vidéo
 **Auteur:** [Pesh](https://x.com/PeshCreates) | **Source:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Publié:** Jul 2, 2026
 
 ---
-### Prompts de montage vidéo VFX hyper-réalistes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Une collection de prompts cinématographiques pour Gemini Omni Flash illustrant des superpositions de textures réalistes et le suivi d'objets, comme le décollage de tatouages ou des claviers recouverts de miel.
-
-#### 📝 Prompt
-
-```
-Un plan rapproché de l'avant-bras d'une personne avec un tatouage à l'encre noire. Une main entre dans le cadre et décolle le tatouage comme s'il s'agissait d'un autocollant en plastique transparent, révélant une peau propre et sans tatouage en dessous. Éclairage homogène et texture de peau naturelle.
-
-Une vue de dessus de mains tapant sur un clavier mécanique. Le clavier et les doigts sont recouverts d'un miel épais, collant et translucide. Des filets de miel visqueux s'étirent entre le bout des doigts et les touches jaunes et noires avec une physique réaliste à chaque pression.
-
-Une vue de dessus de mains tapant sur un clavier mécanique. Le boîtier et les touches du clavier sont transformés en un seul bloc de gelée verte translucide. La gelée oscille naturellement à chaque frappe.
-
-Une vue de dessus de mains tapant sur un clavier mécanique. Le clavier est fait de roche volcanique en fusion, et de petites flammes et braises s'allument autour des touches au rythme de la frappe. Les mains restent intactes malgré le feu, projetant des reflets orangés dynamiques.
-
-Une vue de dessus de mains tapant sur un clavier mécanique. De fines vignes vertes envahissent et s'enroulent étroitement autour du clavier et des touches. Les doigts tapent sans effort à travers le feuillage rampant, projetant des ombres douces.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072723774974087168/img/zJBeX548eeRyd39V.jpg" width="600" alt="Prompts de montage vidéo VFX hyper-réalistes">
-
-**[🎬 Voir la vidéo →](https://x.com/NeurainX/status/2072723878195929405)**
-
-**Auteur:** [Neurain](https://x.com/NeurainX) | **Source:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Publié:** Jul 2, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 83 prompts supplémentaires non affichés ici
+### 🎯 84 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3073,6 +3077,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-23T08:27:27.076Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-23T12:36:02.291Z</sub>
 
 </div>

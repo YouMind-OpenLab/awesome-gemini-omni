@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **183** |
+| 📝 Total de prompts | **184** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-08-23** |
 
@@ -56,6 +56,37 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Timelapse de Construção: A Casa dos Sonhos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico altamente detalhado para um timelapse contínuo de construção, mostrando a edificação de uma casa desde a escavação até a conclusão com iluminação dinâmica.
+
+#### 📝 Prompt
+
+```
+Timelapse cinematográfico ultrarrealista de uma construção de uma casa suburbana moderna de dois andares surgindo de um terreno vazio, em um único plano elevado contínuo com progressão natural da luz do dia, desde a névoa suave do amanhecer até o sol brilhante do meio-dia e o pôr do sol dourado. Câmera dinâmica de plano aberto que orbita lentamente de 90 a 120 graus enquanto se aproxima suavemente, mantendo total visibilidade da estrutura em crescimento com paralaxe suave, mudanças de perspectiva realistas, física de materiais (poeira, reflexos, concreto assentando) e movimentos orgânicos acelerados de trabalhadores e máquinas. Sem cortes abruptos.
+[0–2s]
+Vista elevada e ampla de um terreno suburbano vazio ao amanhecer com névoa leve: terra limpa, estacas de marcação, escavação básica. Pequena equipe com coletes de segurança e capacetes, além de maquinário pesado (escavadeira, trator), chega e marca as linhas da fundação. Luz fria e suave da manhã com sombras longas. Áudio nativo: motores de caminhão distantes, portas batendo, vento leve, pássaros matinais, chamados distantes dos trabalhadores.
+[2–4s]
+Fundação e estrutura rápidas: a escavadeira cava as bases, o concreto é despejado e assenta em avanço rápido, o esqueleto de madeira/aço sobe andar por andar enquanto os trabalhadores sobem e martelam. Paredes, treliças de telhado e revestimentos são instalados. O sol sobe, as sombras encurtam drasticamente. Áudio: estrondo de maquinário pesado, concreto sendo despejado, pistolas de pregos rápidas, madeira rangendo, gritos acelerados dos trabalhadores.
+[4–6s]
+Fechamento externo e telhado: janelas e portas instaladas, materiais de cobertura aplicados com precisão, fachada de tijolos ou revestimento aparece. Breve vislumbre das instalações elétricas/hidráulicas. A luz brilhante do meio-dia revela linhas estruturais limpas e texturas de materiais. Áudio: serrar, furar, colocação de revestimento, ajustes de andaimes, ruído ambiente do canteiro.
+[6–8s]
+Acabamento e paisagismo: pintura externa/revestimento concluídos, calhas e acabamentos adicionados, entrada e caminhos concretados, paisagismo frontal (grama, arbustos, árvores jovens) materializado, deck ou pátio formados. A luz dourada do fim da tarde cria reflexos quentes no vidro e nas superfícies novas. Áudio: pulverizadores de tinta, ferramentas de paisagismo, sons de acabamento mais leves, teste de irrigadores.
+[8–10s]
+Revelação final e assentamento da casa moderna de dois andares concluída ao pôr do sol: design minimalista limpo com grandes janelas, linhas de telhado elegantes, luzes da varanda frontal acesas, paisagismo com aparência madura, brilho quente e convidativo. A câmera mantém a órbita com aproximação enquanto a atividade diminui. Atmosfera calma e aspiracional com uma brisa suave de fim de tarde. Áudio: vento suave, pássaros distantes, ambiente sutil de conclusão com um leve aumento natural de fundo (sem música pesada).
+Câmera: timelapse elevado dinâmico contínuo — começa alto e aberto, orbita lentamente enquanto se aproxima suavemente para maior intimidade, estrutura completa sempre visível, paralaxe natural na forma em crescimento, poeira/sombras/reflexos realistas, movimento acelerado suave.
+Humor e estética: Transformação hiper-realista e satisfatória de um terreno vazio em uma casa suburbana contemporânea brilhante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091406268867256320/img/b17yWZ3IgxbGts7v.jpg" width="600" alt="Timelapse de Construção: A Casa dos Sonhos">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2091406362668638422)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Publicado:** Aug 23, 2026
+
+---
 ### Timelapse da Construção de um Mirante em Penhasco
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2998,40 +3029,13 @@ Objetivo: Vida residencial autêntica de Lisboa capturada como um vídeo caseiro
 **Autor:** [Pesh](https://x.com/PeshCreates) | **Fonte:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Publicado:** Jul 2, 2026
 
 ---
-### Prompts de Edição de Vídeo VFX Hiper-realistas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma coleção de prompts cinematográficos para o Gemini Omni Flash demonstrando sobreposições de textura realistas e rastreamento de objetos, como remover tatuagens e teclados cobertos de mel.
-
-#### 📝 Prompt
-
-```
-Um close-up do antebraço de uma pessoa com uma tatuagem de tinta preta. Uma mão entra no quadro e remove a tatuagem como se fosse um adesivo plástico transparente, revelando uma pele limpa e sem tatuagem por baixo. Iluminação perfeita e textura de pele natural.
-
-Uma visão de cima de mãos digitando em um teclado mecânico. O teclado e os dedos estão cobertos por mel espesso, pegajoso e translúcido. Fios de mel viscoso se esticam e puxam entre as pontas dos dedos e as teclas amarelas e pretas com física realista à medida que as teclas são pressionadas.
-
-Uma visão de cima de mãos digitando em um teclado mecânico. Toda a estrutura e as teclas do teclado são transformadas em uma peça única de gelatina verde translúcida. A gelatina balança naturalmente a cada toque.
-
-Uma visão de cima de mãos digitando em um teclado mecânico. O teclado é feito de rocha de lava derretida brilhante, e pequenas rajadas de chamas e brasas se inflamam ao redor das teclas conforme os dedos digitam. As mãos permanecem inalteradas pelo fogo, projetando reflexos de luz laranja dinâmicos.
-
-Uma visão de cima de mãos digitando em um teclado mecânico. Trepadeiras verdes finas estão crescidas e enroladas firmemente ao redor do teclado e das teclas. Os dedos digitam sem esforço entre a folhagem rastejante, projetando sombras suaves.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072723774974087168/img/zJBeX548eeRyd39V.jpg" width="600" alt="Prompts de Edição de Vídeo VFX Hiper-realistas">
-
-**[🎬 Assistir vídeo →](https://x.com/NeurainX/status/2072723878195929405)**
-
-**Autor:** [Neurain](https://x.com/NeurainX) | **Fonte:** [Link](https://x.com/NeurainX/status/2072723878195929405) | **Publicado:** Jul 2, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 83 mais prompts não mostrados aqui
+### 🎯 84 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3077,6 +3081,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-23T08:27:29.822Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-23T12:36:04.388Z</sub>
 
 </div>
