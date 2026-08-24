@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **184** |
+| 📝 Total de prompts | **187** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-08-24** |
 
@@ -56,6 +56,93 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vídeo de Unboxing e Instalação de Aquecedor de Parede
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo detalhado de 10 segundos mostrando o unboxing e a instalação de um aquecedor de parede compacto, enfatizando a cinematografia macro e texturas realistas.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo de produto cinematográfico ultra-realista na vertical 9:16 de 10 segundos, mostrando um pequeno dispositivo eletrônico compacto de aquecimento/controle de temperatura montado na parede sendo retirado da caixa e instalado.
+
+Cena 1 (0–2s): Close-up de mãos humanas realistas abrindo uma pequena embalagem de papelão contendo um aquecedor de parede eletrônico branco em miniatura. Ambiente interno aconchegante, mesa de madeira, iluminação ambiente suave, profundidade de campo rasa.
+
+Cena 2 (2–4s): As mãos removem cuidadosamente o pequeno dispositivo branco de sua embalagem de plástico moldado. Cinematografia macro de produto, texturas de plástico realistas, detalhes nítidos, movimentos naturais das mãos.
+
+Cena 3 (4–5,5s): Close-up da parte traseira enquanto uma pequena chave de fenda é usada para ajustar/instalar um componente na parte de trás do dispositivo. Movimentos precisos das mãos, detalhes mecânicos satisfatórios.
+
+Cena 4 (5,5–7,5s): O dispositivo é montado em uma parede com um papel de parede floral sutil. Um pequeno conector/cabo de energia preto é conectado na lateral.
+
+Cena 5 (7,5–10s): Close-up extremo de um dedo pressionando o botão de controle. O visor digital acende mostrando a temperatura, então a câmera se afasta lentamente para revelar o aquecedor compacto funcionando na parede.
+
+Estilo: fotorrealista, cinematografia macro, mundo de produtos em miniatura, interior de casa aconchegante, iluminação natural quente, sombras realistas, profundidade de campo rasa, movimento de câmera suave na mão, texturas altamente detalhadas, unboxing e instalação satisfatórios estilo ASMR, transições de foco cinematográficas sutis, qualidade de anúncio comercial premium.
+
+Importante: Preserve proporções realistas, dedos humanos naturais, física e interação mecânica verossímeis. Sem objetos extras, sem mãos distorcidas, sem sobreposições de texto, sem marca d'água. Composição vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091726747259850752/img/VjrE2LBiqevBkxJk.jpg" width="600" alt="Vídeo de Unboxing e Instalação de Aquecedor de Parede">
+
+**[🎬 Assistir vídeo →](https://x.com/AiwithBloodline/status/2091726827501019507)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2091726827501019507) | **Publicado:** Aug 24, 2026
+
+---
+### Storyboard da Transformação de Batatas Chips
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de storyboard de 8 quadros para um comercial de fast-food que captura a transformação cinematográfica de uma batata crua em chips dourados, crocantes e temperados.
+
+#### 📝 Prompt
+
+```
+Crie um comercial de TV de fast-food premium vertical 9:16 de 10s, ultra-realista em 8K, fotografia de alimentos cinematográfica, sem pessoas visíveis, apenas mãos quando necessário. A mesma batata acompanhada durante toda a transformação.
+
+CONCEITO: “DA BATATA → À CROCÂNCIA DOURADA”
+CRUA → FATIA → TEMPERO → FRITURA → DOURADO → CROCANTE → HERO
+
+01 | 0–1.2s — CRUA
+Batata inteira fresca rola sobre uma superfície de pedra escura, textura natural da casca e umidade visíveis. Macro de 100mm, zoom rápido.
+
+02 | 1.2–2.4s — FATIA
+A batata se transforma rapidamente em fatias perfeitamente finas, faca cortando com textura realista. Macro de 85mm, acompanhamento dinâmico.
+
+03 | 2.4–3.6s — TEMPERO
+Tempero fino cai sobre as fatias de batata, partículas suspensas dramaticamente sob luz quente. Macro de 100mm, câmera lenta.
+
+04 | 3.6–5s — FRITURA
+Fatias temperadas caem em óleo quente, bolhas explosivas as cercam, vapor e gotículas capturados em câmera lenta de alta velocidade. Macro de 50mm.
+
+05 | 5–6.3s — DOURADO
+Fatias de batata pálidas se transformam em chips dourados e crocantes, bordas borbulhantes e pequenas texturas de bolhas visíveis. Macro de 100mm, corte de correspondência rotativo.
+
+06 | 6.3–7.5s — CROCANTE
+Chip fresco retirado da fritadeira, gotas de óleo caindo, uma borda racha naturalmente revelando camadas finas e crocantes. Macro de 100mm, movimento de subida em câmera lenta.
+
+07 | 7.5–9s — HERO
+Pilha de chips dourados e crocantes cai em uma tigela premium, migalhas caindo naturalmente ao redor. Dolly-in suave, profundidade de campo rasa.
+
+08 | 9–10s — PACKSHOT
+Tigela de chips de marca premium centralizada contra um fundo cinematográfico escuro, luz de contorno dourada quente, textura crocante dominando o quadro. Texto: “DA BATATA → À CROCÂNCIA.”
+
+CÂMERA: Macro, alta velocidade, zoom, acompanhamento, foco seletivo, câmera lenta, cortes de correspondência, dolly suave.
+
+ESTILO: Comercial de snack-food global premium, iluminação dourada quente, sombras ricas, textura realista da batata, partículas de tempero, bolhas de óleo, vapor, superfície ultra-crocante.
+
+NEGATIVO: Sem rostos, restaurante, comida com aspecto de CGI, chips queimados, óleo excessivo, física impossível, comida flutuante, batatas distorcidas, objetos duplicados, embalagem deformada, marca errada, comida borrada.
+
+SAÍDA: Uma folha de storyboard profissional de 8 quadros 9:16 mostrando uma transformação perfeita da batata crua para chips crocantes irresistíveis.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561511577_lu2pmh_HQZngPQaQAA6fZT.jpg" width="600" alt="Storyboard da Transformação de Batatas Chips">
+
+**[🎬 Assistir vídeo →](https://x.com/Strength04_X/status/2091472894727712866)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2091472894727712866) | **Publicado:** Aug 23, 2026
+
+---
 ### Timelapse de Construção: A Casa dos Sonhos
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -85,6 +172,69 @@ Humor e estética: Transformação hiper-realista e satisfatória de um terreno 
 **[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2091406362668638422)**
 
 **Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Publicado:** Aug 23, 2026
+
+---
+### Storyboard para Comercial de Comida: Batatas Rústicas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado de storyboard para um comercial de comida de alto padrão, apresentando batatas rústicas crocantes, movimentos de câmera cinematográficos e iluminação gourmet.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Storyboard para Comercial de Produto: Batatas Rústicas Crocantes Premium
+
+FORMATO:
+• Storyboard premium de página única
+• Proporção retrato 3:4
+• Campanha de produto alimentício gourmet
+• 8 cenas de storyboard cinematográficas
+• O produto permanece como o foco visual principal
+• Apresentação de agência de publicidade premium
+
+CABEÇALHO:
+• Tipografia de luxo em negrito
+• Cartões de informação:
+  - Duração: 20 Segundos
+  - Estilo: Comercial de Comida Cinematográfico
+  - Produto: Batatas Rústicas Crocantes
+  - Áudio: Fritura + ASMR de crocância
+• Seção "Por que este estilo funciona"
+• Estética em tons de creme quente, amarelo dourado e marrom escuro
+• Elementos decorativos minimalistas com temática gastronômica
+
+STORYBOARD:
+1. Embalagem premium de batatas rústicas congeladas sobre uma superfície escura e limpa
+2. Abertura da embalagem revelando as batatas douradas
+3. Batatas rústicas caindo em óleo quente em câmera lenta
+4. Close macro extremo da crosta crocante borbulhando
+5. Batatas douradas saindo da fritadeira com vapor
+6. Uma batata sendo aberta para revelar o interior macio e fofinho
+7. Batatas crocantes dispostas ao lado da embalagem original do produto
+8. Packshot final do produto com um splash dourado dramático de comida
+
+CADA PAINEL:
+• Número da cena
+• Selo de duração
+• Direção de câmera
+• Visual
+• Ação
+• Detalhe do produto
+
+CÂMERA:
+Macro extremo, fotografia de comida em alta velocidade, fritura em câmera lenta, movimento de aproximação (push-in) controlado, composição aérea, enquadramento cinematográfico de destaque.
+
+ESTILO:
+Comercial de comida ultrarrealista, textura dourada crocante, bolhas de óleo realistas, partículas de vapor, superfície da batata detalhada, iluminação de estúdio dramática, embalagem premium, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561512848_5nclkc_HQTgrJUaIAAqZAA.jpg" width="600" alt="Storyboard para Comercial de Comida: Batatas Rústicas">
+
+**[🎬 Assistir vídeo →](https://x.com/Strength04_X/status/2091043191755878628)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2091043191755878628) | **Publicado:** Aug 22, 2026
 
 ---
 ### Timelapse da Construção de um Mirante em Penhasco
@@ -2911,131 +3061,13 @@ Trilha sonora: Orquestra híbrida inspiradora com percussão rítmica, sons real
 **Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Publicado:** Jul 4, 2026
 
 ---
-### Observação Silenciosa no Museu de Arte Contemporânea
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico que descreve uma mulher caminhando por um museu de arte contemporânea vazio, focando na atmosfera e em uma pintura abstrata específica.
-
-#### 📝 Prompt
-
-```
-Um museu de arte contemporânea vazio após o horário de fechamento. A mulher caminha lentamente pela galeria admirando pinturas enormes. Ela para diante de uma obra de arte abstrata.
-
-A câmera se move ao redor do ombro dela para revelar a pintura. Ela simplesmente permanece ali, apreciando-a. Nada mais acontece. O silêncio torna-se a história.
-
-Trilha sonora: Piano minimalista, orquestra ambiente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073240590406635520/img/FMVlUeG8cRzaJMaD.jpg" width="600" alt="Observação Silenciosa no Museu de Arte Contemporânea">
-
-**[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2073240652268323043)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2073240652268323043) | **Publicado:** Jul 4, 2026
-
----
-### Estética de Filmadora DV Vintage de Tóquio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt altamente detalhado e baseado em sequência, projetado para replicar filmagens de câmeras DV de consumo do início dos anos 2000 em uma rua secundária de Tóquio.
-
-#### 📝 Prompt
-
-```
-Assunto principal: jovem japonesa, na casa dos 20 anos, aparência natural do dia a dia, cardigã de tricô creme oversized, camiseta azul-marinho desbotada, calça cargo bege larga, tênis de lona branco, colar de prata fino, cabelo preto liso preso de forma despojada com um pequeno prendedor de casco de tartaruga. Textura de pele realista, maquiagem mínima, sorriso calmo e tímido, personalidade suave, mas curiosa. Mantenha a identidade, as roupas, o penteado e a aparência consistentes durante todo o vídeo.
-
-Localização: Rua residencial tranquila e autêntica de Tóquio durante uma chuva leve no final da manhã. Ruas estreitas de asfalto, casas compactas, pequenas varandas, calhas, bicicletas com capas de plástico, vasos de plantas, guarda-chuvas perto das portas, postes de luz, fios aéreos, máquinas de venda automática apenas ao fundo, sem anúncios legíveis, reflexos no pavimento molhado, atmosfera de bairro pacífico. Sem multidões, sem atividade comercial, sem foco em sinalização moderna.
-
-Estilo Visual: Realismo documental ultra-realista. Comportamento genuinamente espontâneo. Movimento natural. Sensação de fatia da vida em um dia chuvoso, sem roteiro. Forte autenticidade ambiental. Detalhes ricos do mundo real e movimento humano verossímil.
-
-Estilo de Câmera: Estética de filmadora DV de consumo do início dos anos 2000. Um amigo gravando momentos cotidianos casualmente. Tremido intenso de mão, enquadramento imperfeito, busca frequente de foco automático, respiração da lente, oscilação de exposição devido aos reflexos do céu cinzento, leve desfoque de movimento, efeito rolling shutter sutil, artefatos leves de compressão digital, cores desbotadas, contraste suave, leve ruído de sensor. Sem estabilização. Sem movimentos de câmera cinematográficos. Sem correção de cor moderna.
-
-00:00–00:02
-Fora da entrada de um pequeno apartamento. Ela sai segurando um guarda-chuva transparente, verifica a chuva com a palma da mão e depois sorri para a câmera. O foco desvia brevemente para as gotas de chuva no guarda-chuva.
-
-00:02–00:04
-A câmera a segue pela rua molhada. Ela para para afastar um pequeno vaso de plantas da água que pinga. O enquadramento inclina-se ligeiramente enquanto o operador da câmera desvia de uma poça.
-
-00:04–00:06
-Ela nota um tsuru de papel preso perto de um ralo, pega-o e ri baixinho. O foco automático alterna entre suas mãos e o pavimento molhado.
-
-00:06–00:08
-Ao lado de uma varanda estreita, ela sacode a chuva do guarda-chuva e ajuda a ajeitar a capa de uma bicicleta. A água respinga suavemente no chão.
-
-00:08–00:10
-Ela fica sob um pequeno toldo com um café enlatado quente. O vapor é tênue na chuva fria. A câmera desvia muito para baixo e depois corrige com atraso.
-
-00:10–00:12
-Ângulo lateral próximo. Alguém fora da câmera diz bom dia. Ela se vira, levanta levemente o guarda-chuva, sorri e diz casualmente: “Ohayou”. A câmera captura o sorriso com um leve atraso.
-
-00:12–00:15
-Ela caminha lentamente pela rua chuvosa. O pavimento molhado reflete sua silhueta. Ela olha para trás uma vez, dá um pequeno sorriso e vira a esquina. A gravação corta abruptamente para o preto no meio do passo.
-
-Áudio: Apenas som ambiente natural, chuva leve, sino de bicicleta distante, pneus macios em estrada molhada, pássaros sob os beirais, batidas do tecido do guarda-chuva, passos em poças
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072754525077692416/img/KwonLLl5-X6lSWYR.jpg" width="600" alt="Estética de Filmadora DV Vintage de Tóquio">
-
-**[🎬 Assistir vídeo →](https://x.com/PeshCreates/status/2072754584922005671)**
-
-**Autor:** [Pesh](https://x.com/PeshCreates) | **Fonte:** [Link](https://x.com/PeshCreates/status/2072754584922005671) | **Publicado:** Jul 2, 2026
-
----
-### Vídeo autêntico de Lisboa estilo filmadora documental
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt estruturado e altamente detalhado para gerar uma cena estilo vídeo caseiro do início dos anos 2000 em Lisboa, usando o Gemini Omni Flash.
-
-#### 📝 Prompt
-
-```
-Assunto principal: jovem portuguesa, na casa dos 20 anos, aparência natural e cotidiana, regata amarela clara ajustada, calça jeans azul de cintura alta, sandálias de couro marrom gastas, pequenos brincos de argola dourados, cabelo castanho ondulado preso em um coque baixo despojado com mechas soltas. Textura de pele realista, sardas leves, maquiagem mínima, personalidade viva e descontraída. Mantenha a identidade, as roupas, o penteado e a aparência consistentes durante todo o vídeo.
-
-Localização: Rua residencial autêntica em uma colina de Lisboa durante o final de uma manhã quente. Ruas estreitas de paralelepípedos, fachadas de apartamentos com azulejos, pequenas varandas de ferro, roupas estendidas entre as janelas, portas desbotadas, vasos de manjericão e flores, escadarias íngremes, scooters antigas, paredes iluminadas pelo sol, atmosfera de bairro tranquilo. Sem multidões de turistas, sem lojas, sem anúncios, sem cafés.
-
-Estilo Visual: Realismo documental ultra-realista. Comportamento genuinamente espontâneo. Linguagem corporal natural. Sensação de fatia da vida não roteirizada. Forte autenticidade ambiental. Detalhes ricos do mundo real e movimento humano verossímil.
-
-Estilo de Câmera: Estética de filmadora DV de consumo do início dos anos 2000. Um amigo gravando momentos cotidianos casualmente. Trepidação intensa de câmera na mão, enquadramento imperfeito, busca frequente de foco automático, respiração da lente, oscilação de exposição entre azulejos iluminados pelo sol e degraus sombreados, desfoque de movimento ocasional, leve efeito rolling shutter, artefatos de compressão digital suaves, cores desbotadas, contraste suave, leve ruído de sensor. Sem estabilização. Sem movimentos de câmera cinematográficos. Sem correção de cor moderna.
-
-00:00–00:02
-Ela se inclina sobre uma pequena varanda regando vasos de manjericão. Algumas gotas caem na rua abaixo. Ela percebe a câmera e faz uma expressão brincalhona de vergonha.
-
-00:02–00:04
-A câmera a segue enquanto ela desce as escadas para a rua de paralelepípedos. Ela carrega uma pequena cesta de vime e verifica as roupas estendidas do lado de fora de uma janela.
-
-00:04–00:06
-Ela encontra uma meia caída nos degraus, ri e a prende de volta no varal. O foco automático alterna entre o rosto dela e os prendedores de roupa.
-
-00:06–00:08
-Em uma escadaria residencial íngreme, ela para para cumprimentar um vizinho idoso fora da câmera. Sua linguagem corporal é casual e familiar. A câmera a enquadra um pouco deslocada para a esquerda.
-
-00:08–00:10
-Ela senta em um degrau baixo de pedra com uma pequena xícara de café expresso. A luz do sol tremeluz sobre os azulejos estampados atrás dela. A exposição pulsa conforme a câmera inclina para cima.
-
-00:10–00:12
-Ângulo lateral próximo. Alguém fora da câmera a provoca gentilmente. Ela se vira, sorri abertamente e diz casualmente: “Bom dia”. A câmera captura uma risada suave após as palavras.
-
-Áudio: Apenas som ambiente natural, scooters distantes, pombos, passos no paralelepípedo, tecido se movendo nos varais, vozes suaves do bairro, água pingando das plantas, vento leve. Sem música. Sem design de som. Sem narração.
-
-Objetivo: Vida residencial autêntica de Lisboa capturada como um vídeo caseiro esquecido do início dos anos 2000, espontâneo, imperfeito, caloroso e profundamente verossímil.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072753893600038912/img/BngLHIuefeWAWkk_.jpg" width="600" alt="Vídeo autêntico de Lisboa estilo filmadora documental">
-
-**[🎬 Assistir vídeo →](https://x.com/PeshCreates/status/2072754211847078137)**
-
-**Autor:** [Pesh](https://x.com/PeshCreates) | **Fonte:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Publicado:** Jul 2, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 84 mais prompts não mostrados aqui
+### 🎯 87 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3081,6 +3113,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-24T08:45:33.633Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-24T12:46:09.620Z</sub>
 
 </div>

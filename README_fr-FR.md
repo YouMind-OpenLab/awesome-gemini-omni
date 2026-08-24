@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **184** |
+| 📝 Total des prompts | **187** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-08-24** |
 
@@ -56,6 +56,93 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Vidéo de déballage et d'installation d'un radiateur mural
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo détaillé de 10 secondes montrant le déballage et l'installation d'un radiateur mural compact, mettant l'accent sur la cinématographie macro et les textures réalistes.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo produit cinématographique ultra-réaliste au format vertical 9:16 de 10 secondes montrant le déballage et l'installation d'un petit radiateur électronique mural compact / appareil de contrôle de la température.
+
+Scène 1 (0–2s) : Gros plan sur des mains humaines réalistes ouvrant un petit emballage en carton contenant un radiateur mural électronique miniature blanc. Intérieur chaleureux et confortable, table en bois, éclairage ambiant doux, faible profondeur de champ.
+
+Scène 2 (2–4s) : Les mains retirent délicatement le petit appareil blanc de son emballage en plastique moulé. Cinématographie produit macro, textures plastiques réalistes, détails nets, mouvements de main naturels.
+
+Scène 3 (4–5,5s) : Gros plan par l'arrière alors qu'un petit tournevis est utilisé pour ajuster/installer un composant au dos de l'appareil. Mouvements de main précis, détails mécaniques satisfaisants.
+
+Scène 4 (5,5–7,5s) : L'appareil est fixé sur un mur avec un papier peint floral discret. Un petit connecteur/câble d'alimentation noir est branché sur le côté.
+
+Scène 5 (7,5–10s) : Très gros plan sur un doigt appuyant sur le bouton de commande. L'affichage numérique s'allume pour indiquer la température, puis la caméra recule lentement pour révéler le radiateur compact en fonctionnement sur le mur.
+
+Style : photoréaliste, cinématographie macro, univers de produits miniatures, intérieur de maison confortable, éclairage naturel chaleureux, ombres réalistes, faible profondeur de champ, mouvement de caméra fluide à la main, textures hautement détaillées, déballage et installation satisfaisants de type ASMR, transitions de mise au point cinématographiques subtiles, qualité publicitaire premium.
+
+Important : Préservez des proportions réalistes, des doigts humains naturels, une physique et des interactions mécaniques crédibles. Aucun objet supplémentaire, aucune main déformée, aucune superposition de texte, aucun filigrane. Composition verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091726747259850752/img/VjrE2LBiqevBkxJk.jpg" width="600" alt="Vidéo de déballage et d'installation d'un radiateur mural">
+
+**[🎬 Voir la vidéo →](https://x.com/AiwithBloodline/status/2091726827501019507)**
+
+**Auteur:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2091726827501019507) | **Publié:** Aug 24, 2026
+
+---
+### Storyboard de la transformation d'une chips de pomme de terre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de storyboard en 8 panneaux pour une publicité de fast-food capturant la transformation cinématographique d'une pomme de terre crue en chips dorées et croustillantes.
+
+#### 📝 Prompt
+
+```
+Créez un spot publicitaire vertical 9:16 de 10 secondes pour une marque de fast-food premium, ultra-réaliste 8K, photographie culinaire cinématographique, aucune personne visible, mains uniquement si nécessaire. Suivi de la même pomme de terre tout au long de sa transformation.
+
+CONCEPT : « DE LA POMME DE TERRE → AU CROQUANT DORÉ »
+CRU → TRANCHE → ASSAISONNEMENT → FRITURE → DORÉ → CROUSTILLANT → HERO
+
+01 | 0–1,2s — CRU
+Une pomme de terre entière fraîche roule sur une surface en pierre sombre, texture de peau naturelle et humidité visibles. Macro 100mm, zoom avant rapide.
+
+02 | 1,2–2,4s — TRANCHE
+La pomme de terre se transforme rapidement en tranches parfaitement fines, un couteau les coupe avec une texture réaliste. Macro 85mm, suivi dynamique.
+
+03 | 2,4–3,6s — ASSAISONNEMENT
+Un fin assaisonnement pleut sur les tranches de pomme de terre, particules en suspension spectaculaires dans une lumière chaude. Macro 100mm, ralenti.
+
+04 | 3,6–5s — FRITURE
+Les tranches assaisonnées tombent dans l'huile chaude, bulles explosives les entourant, vapeur et gouttelettes capturées en ralenti haute vitesse. Macro 50mm.
+
+05 | 5–6,3s — DORÉ
+Les tranches de pomme de terre pâles se transforment en chips dorées et croustillantes, bords bouillonnants et minuscules textures boursouflées visibles. Macro 100mm, raccord dans l'axe rotatif.
+
+06 | 6,3–7,5s — CROUSTILLANT
+Une chips fraîche est sortie de la friteuse, gouttelettes d'huile tombant, un bord se fissure naturellement révélant des couches fines et croquantes. Macro 100mm, mouvement ascendant au ralenti.
+
+07 | 7,5–9s — HERO
+Un tas de chips dorées et croustillantes tombe dans un bol premium, miettes tombant naturellement autour. Travelling avant fluide, faible profondeur de champ.
+
+08 | 9–10s — PACKSHOT
+Bol de chips de marque premium centré sur un fond cinématographique sombre, lumière dorée chaude sur les contours, texture croustillante dominant le cadre. Texte : « DE LA POMME DE TERRE → AU CROQUANT. »
+
+CAMÉRA : Macro, haute vitesse, zoom avant, suivi, mise au point sélective, ralenti, raccords dans l'axe, travelling fluide.
+
+STYLE : Publicité de snack-food internationale premium, éclairage doré chaud, ombres riches, texture de pomme de terre réaliste, particules d'assaisonnement, bulles d'huile, vapeur, surface ultra-croustillante.
+
+NÉGATIF : Pas de visages, pas de restaurant, nourriture à l'aspect CGI, chips brûlées, huile excessive, physique impossible, nourriture flottante, pommes de terre déformées, objets en double, emballage déformé, mauvaise image de marque, nourriture floue.
+
+SORTIE : Une planche de storyboard professionnelle en 8 panneaux au format 9:16 montrant une transformation fluide de la pomme de terre crue aux irrésistibles chips croustillantes.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561511577_lu2pmh_HQZngPQaQAA6fZT.jpg" width="600" alt="Storyboard de la transformation d'une chips de pomme de terre">
+
+**[🎬 Voir la vidéo →](https://x.com/Strength04_X/status/2091472894727712866)**
+
+**Auteur:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2091472894727712866) | **Publié:** Aug 23, 2026
+
+---
 ### Timelapse de la construction d'une maison de rêve
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -85,6 +172,69 @@ Ambiance et esthétique : transformation hyper-réaliste et satisfaisante d'un t
 **[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2091406362668638422)**
 
 **Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Publié:** Aug 23, 2026
+
+---
+### Storyboard pour publicité alimentaire : Quartiers de pommes de terre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de storyboard détaillé pour une publicité alimentaire haut de gamme mettant en scène des quartiers de pommes de terre croustillants, avec des mouvements de caméra cinématographiques et un éclairage gastronomique.
+
+#### 📝 Prompt
+
+```
+TITRE :
+Storyboard pour publicité de produit : Quartiers de pommes de terre croustillants premium
+
+FORMAT :
+• Storyboard premium sur une seule page
+• Format portrait 3:4
+• Campagne pour produit alimentaire gastronomique
+• 8 scènes de storyboard cinématographiques
+• Le produit reste l'élément visuel central
+• Présentation d'agence de publicité premium
+
+EN-TÊTE :
+• Typographie de luxe en gras
+• Cartes d'information :
+  - Durée : 20 secondes
+  - Style : Publicité alimentaire cinématographique
+  - Produit : Quartiers de pommes de terre croustillants
+  - Audio : Friture + ASMR croustillant
+• Section « Pourquoi ce style fonctionne »
+• Esthétique crème chaude, jaune doré et brun foncé
+• Éléments décoratifs minimalistes sur le thème de la nourriture
+
+STORYBOARD :
+1. Paquet premium de quartiers de pommes de terre surgelés posé sur une surface sombre et propre
+2. Ouverture du paquet révélant les quartiers de pommes de terre dorés
+3. Quartiers de pommes de terre tombant dans l'huile chaude au ralenti
+4. Plan macro extrême sur le croustillant de la panure qui bouillonne
+5. Quartiers dorés sortant de la friteuse avec de la vapeur
+6. Un quartier que l'on ouvre pour révéler un intérieur tendre et moelleux
+7. Quartiers croustillants disposés à côté du paquet de produit original
+8. Packshot final avec un effet d'éclaboussure alimentaire doré spectaculaire
+
+CHAQUE PANNEAU :
+• Numéro de scène
+• Badge de durée
+• Direction de caméra
+• Visuel
+• Action
+• Détail du produit
+
+CAMÉRA :
+Macro extrême, photographie culinaire haute vitesse, friture au ralenti, travelling avant contrôlé, composition en plongée, cadrage cinématographique héroïque.
+
+STYLE :
+Publicité alimentaire ultra-réaliste, texture dorée croustillante, bulles d'huile réalistes, particules de vapeur, surface de pomme de terre détaillée, éclairage de studio dramatique, emballage premium, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561512848_5nclkc_HQTgrJUaIAAqZAA.jpg" width="600" alt="Storyboard pour publicité alimentaire : Quartiers de pommes de terre">
+
+**[🎬 Voir la vidéo →](https://x.com/Strength04_X/status/2091043191755878628)**
+
+**Auteur:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2091043191755878628) | **Publié:** Aug 22, 2026
 
 ---
 ### Timelapse de la construction d'une plateforme d'observation sur falaise
@@ -2907,131 +3057,13 @@ Musique de fond : Orchestre hybride inspirant avec percussions rythmiques, sons 
 **Auteur:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Publié:** Jul 4, 2026
 
 ---
-### Observation silencieuse au musée d'art contemporain
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique décrivant une femme marchant dans un musée d'art contemporain vide, en mettant l'accent sur l'atmosphère et une peinture abstraite spécifique.
-
-#### 📝 Prompt
-
-```
-Un musée d'art contemporain vide après la fermeture. La femme marche lentement à travers la galerie en admirant d'immenses peintures. Elle s'arrête devant une œuvre abstraite.
-
-La caméra se déplace autour de son épaule pour révéler la peinture. Elle reste simplement là à l'admirer. Il ne se passe rien d'autre. Le silence devient l'histoire.
-
-Musique de fond : Piano minimaliste, orchestre ambiant.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073240590406635520/img/FMVlUeG8cRzaJMaD.jpg" width="600" alt="Observation silencieuse au musée d'art contemporain">
-
-**[🎬 Voir la vidéo →](https://x.com/vireonixx/status/2073240652268323043)**
-
-**Auteur:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2073240652268323043) | **Publié:** Jul 4, 2026
-
----
-### Esthétique caméscope DV vintage de Tokyo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt séquentiel ultra-détaillé conçu pour reproduire le rendu des caméscopes DV grand public du début des années 2000 dans une ruelle de Tokyo.
-
-#### 📝 Prompt
-
-```
-Sujet principal : jeune femme japonaise, début de la vingtaine, apparence naturelle et quotidienne, cardigan en maille crème oversize, t-shirt bleu marine délavé, pantalon cargo beige ample, baskets en toile blanches, collier argenté fin, cheveux noirs raides attachés négligemment avec une petite pince en écaille. Texture de peau réaliste, maquillage minimal, sourire calme et timide, personnalité douce mais curieuse. Maintenir une identité, une tenue, une coiffure et une apparence constantes tout au long de la vidéo.
-
-Lieu : Ruelle résidentielle calme et authentique de Tokyo sous une légère pluie de fin de matinée. Rues étroites en asphalte, maisons compactes, petits balcons, gouttières, vélos sous housses en plastique, plantes en pot, parapluies près des portes, poteaux électriques, câbles aériens, distributeurs automatiques uniquement en arrière-plan sans publicités lisibles, reflets sur le pavé mouillé, atmosphère de quartier paisible. Pas de foule, pas d'activité commerciale, pas de mise en avant de signalétique moderne.
-
-Style visuel : Réalisme documentaire ultra-réaliste. Comportement authentique et spontané. Mouvement naturel. Sensation de tranche de vie un jour de pluie, sans mise en scène. Forte authenticité environnementale. Détails réels riches et mouvements humains crédibles.
-
-Style de caméra : Esthétique caméscope DV grand public du début des années 2000. Un ami filme des moments du quotidien de manière informelle. Fort tremblement à la main, cadrage imparfait, recherche fréquente de l'autofocus, pompage de l'exposition dû aux reflets du ciel gris, léger flou de mouvement, léger rolling shutter, artefacts de compression numérique subtils, couleurs délavées, contraste doux, léger bruit de capteur. Pas de stabilisation. Pas de mouvements de caméra cinématographiques. Pas d'étalonnage moderne.
-
-00:00–00:02
-Devant l'entrée d'un petit appartement. Elle sort avec un parapluie transparent, vérifie la pluie avec sa main, puis sourit à la caméra. La mise au point dérive brièvement sur les gouttes de pluie sur le parapluie.
-
-00:02–00:04
-La caméra la suit dans la ruelle mouillée. Elle s'arrête pour déplacer une petite plante en pot afin de l'éloigner de l'eau qui goutte. Le cadre s'incline légèrement lorsque l'opérateur contourne une flaque.
-
-00:04–00:06
-Elle remarque une grue en papier coincée près d'une bouche d'évacuation, la ramasse et rit doucement. L'autofocus oscille entre ses mains et le pavé mouillé.
-
-00:06–00:08
-À côté d'un balcon étroit, elle secoue son parapluie pour enlever la pluie et aide à redresser une housse de vélo. L'eau éclabousse doucement le sol.
-
-00:08–00:10
-Elle se tient sous un petit auvent avec un café en conserve chaud. La vapeur est légère dans la pluie fraîche. La caméra descend trop bas, puis se corrige tardivement.
-
-00:10–00:12
-Angle latéral rapproché. Quelqu'un hors champ dit bonjour. Elle se tourne, lève légèrement son parapluie, sourit et dit naturellement : « Ohayou ». La caméra capture le sourire avec un léger retard.
-
-00:12–00:15
-Elle s'éloigne lentement le long de la ruelle pluvieuse. Le pavé mouillé reflète sa silhouette. Elle jette un coup d'œil en arrière, esquisse un petit sourire, puis tourne au coin de la rue. L'enregistrement coupe brusquement au noir en plein pas.
-
-Audio : Ambiance sonore naturelle uniquement, pluie légère, sonnette de vélo au loin, pneus doux sur route mouillée, oiseaux sous les avant-toits, bruit du tissu du parapluie, pas dans les flaques d'eau.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072754525077692416/img/KwonLLl5-X6lSWYR.jpg" width="600" alt="Esthétique caméscope DV vintage de Tokyo">
-
-**[🎬 Voir la vidéo →](https://x.com/PeshCreates/status/2072754584922005671)**
-
-**Auteur:** [Pesh](https://x.com/PeshCreates) | **Source:** [Link](https://x.com/PeshCreates/status/2072754584922005671) | **Publié:** Jul 2, 2026
-
----
-### Vidéo authentique de Lisbonne façon caméscope documentaire
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt structuré et très détaillé pour générer une scène de style vidéo amateur du début des années 2000 à Lisbonne avec Gemini Omni Flash.
-
-#### 📝 Prompt
-
-```
-Sujet principal : jeune femme portugaise, milieu de la vingtaine, apparence naturelle et quotidienne, débardeur ajusté jaune pâle, jean bleu taille haute décontracté, sandales en cuir marron usées, petites créoles dorées, cheveux châtains ondulés attachés en un chignon bas négligé avec quelques mèches rebelles. Texture de peau réaliste, légères taches de rousseur, maquillage minimal, personnalité vive et détendue. Maintenir une identité, une tenue, une coiffure et une apparence cohérentes tout au long de la vidéo.
-
-Lieu : Rue résidentielle authentique sur une colline de Lisbonne par une chaude fin de matinée. Ruelle étroite pavée, façades d'appartements carrelées, petits balcons en fer, linge suspendu entre les fenêtres, portes délavées, pots de basilic et fleurs, marches abruptes, vieux scooters, murs ensoleillés, atmosphère de quartier calme. Pas de foules de touristes, pas de boutiques, pas de publicités, pas de cafés.
-
-Style visuel : Réalisme documentaire ultra-réaliste. Comportement authentique et spontané. Langage corporel naturel. Sensation de tranche de vie non scénarisée. Forte authenticité environnementale. Détails réels riches et mouvements humains crédibles.
-
-Style de caméra : Esthétique de caméscope DV grand public du début des années 2000. Un ami filme des moments du quotidien de manière décontractée. Tremblements de caméra à l'épaule prononcés, cadrage imparfait, autofocus qui cherche fréquemment sa mise au point, pompage de l'exposition entre les carreaux ensoleillés et les marches à l'ombre, flou de mouvement occasionnel, léger rolling shutter, légers artefacts de compression numérique, couleurs délavées, contraste doux, léger bruit de capteur. Pas de stabilisation. Pas de mouvements de caméra cinématographiques. Pas d'étalonnage moderne.
-
-00:00–00:02
-Elle se penche sur un petit balcon pour arroser des plants de basilic. Quelques gouttes tombent sur la rue en contrebas. Elle remarque la caméra et fait une grimace gênée et amusée.
-
-00:02–00:04
-La caméra la suit alors qu'elle descend dans la ruelle pavée. Elle porte un petit panier en osier et vérifie le linge épinglé à l'extérieur d'une fenêtre.
-
-00:04–00:06
-Elle trouve une chaussette tombée sur les marches, rit et la raccroche sur la corde à linge. L'autofocus oscille entre son visage et les pinces à linge.
-
-00:06–00:08
-Sur un escalier résidentiel escarpé, elle s'arrête pour saluer un voisin âgé hors champ. Son langage corporel est décontracté et familier. La caméra la cadre un peu trop sur la gauche.
-
-00:08–00:10
-Elle s'assoit sur une marche en pierre avec une petite tasse d'espresso. La lumière du soleil scintille sur les carreaux à motifs derrière elle. L'exposition pulse lorsque la caméra s'incline vers le haut.
-
-00:10–00:12
-Angle latéral rapproché. Quelqu'un hors champ la taquine doucement. Elle se tourne, sourit largement et dit avec désinvolture : « Bom dia ». La caméra capte un rire doux après ses mots.
-
-Audio : Ambiance sonore naturelle uniquement, scooters au loin, pigeons, pas sur les pavés, tissu qui bouge sur les cordes, voix douces du quartier, eau qui goutte des plantes, vent léger. Pas de musique. Pas de conception sonore. Pas de narration.
-
-Objectif : Vie résidentielle authentique de Lisbonne capturée comme une vidéo amateur oubliée du début des années 2000, spontanée, imparfaite, chaleureuse et profondément crédible.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072753893600038912/img/BngLHIuefeWAWkk_.jpg" width="600" alt="Vidéo authentique de Lisbonne façon caméscope documentaire">
-
-**[🎬 Voir la vidéo →](https://x.com/PeshCreates/status/2072754211847078137)**
-
-**Auteur:** [Pesh](https://x.com/PeshCreates) | **Source:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Publié:** Jul 2, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 84 prompts supplémentaires non affichés ici
+### 🎯 87 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3077,6 +3109,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-24T08:45:27.304Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-24T12:46:05.695Z</sub>
 
 </div>

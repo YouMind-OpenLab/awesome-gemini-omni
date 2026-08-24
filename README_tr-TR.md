@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **184** |
+| 📝 Toplam İstem | **187** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-24** |
 
@@ -56,6 +56,93 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Duvar Tipi Isıtıcı Kutu Açılışı ve Kurulum Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kompakt bir duvar tipi ısıtıcının kutu açılışını ve kurulumunu gösteren, makro sinematografi ve gerçekçi dokulara odaklanan 10 saniyelik detaylı bir video istemi.
+
+#### 📝 İstem
+
+```
+Küçük, kompakt, duvara monte edilebilir elektronik bir ısıtıcının/sıcaklık kontrol cihazının kutudan çıkarılıp kurulduğunu gösteren 10 saniyelik, 9:16 dikey formatta, ultra gerçekçi sinematik bir ürün videosu oluşturun.
+
+Sahne 1 (0–2 sn): Minyatür beyaz bir elektronik duvar ısıtıcısının bulunduğu küçük perakende karton ambalajını açan gerçekçi insan ellerinin yakın çekimi. Sıcak ve konforlu bir iç mekan, ahşap masa, yumuşak ortam aydınlatması, sığ alan derinliği.
+
+Sahne 2 (2–4 sn): Eller, minik beyaz cihazı kalıplanmış plastik ambalajından dikkatlice çıkarır. Makro ürün sinematografisi, gerçekçi plastik dokular, net detaylar, doğal el hareketleri.
+
+Sahne 3 (4–5,5 sn): Cihazın arkasındaki bir bileşeni ayarlamak/takmak için küçük bir tornavidanın kullanıldığı arka taraftan yakın çekim. Hassas el hareketleri, tatmin edici mekanik detaylar.
+
+Sahne 4 (5,5–7,5 sn): Cihaz, hafif çiçek desenli duvar kağıdı olan bir duvara monte edilir. Küçük siyah bir güç konnektörü/kablosu yan tarafa takılır.
+
+Sahne 5 (7,5–10 sn): Kontrol düğmesine basan bir parmağın aşırı yakın çekimi. Dijital ekran sıcaklığı göstererek yanar, ardından kamera yavaşça geri çekilerek duvarda çalışan kompakt ısıtıcıyı gösterir.
+
+Stil: fotogerçekçi, makro sinematografi, minyatür ürün dünyası, konforlu ev iç mekanı, sıcak doğal aydınlatma, gerçekçi gölgeler, sığ alan derinliği, pürüzsüz el kamerası hareketi, yüksek detaylı dokular, tatmin edici ASMR tarzı kutu açılışı ve kurulum, ince sinematik odak geçişleri, üst düzey ticari reklam kalitesi.
+
+Önemli: Gerçekçi oranları, doğal insan parmaklarını, inandırıcı fizik kurallarını ve mekanik etkileşimi koruyun. Fazladan nesne, bozuk el görüntüleri, metin bindirmeleri veya filigran olmasın. 9:16 dikey kompozisyon.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091726747259850752/img/VjrE2LBiqevBkxJk.jpg" width="600" alt="Duvar Tipi Isıtıcı Kutu Açılışı ve Kurulum Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2091726827501019507)**
+
+**Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2091726827501019507) | **Yayınlandı:** Aug 24, 2026
+
+---
+### Patates Cipsi Dönüşüm Hikaye Panosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ham bir patatesin baharatlı, altın sarısı ve çıtır cipsler haline gelişinin sinematik dönüşümünü yakalayan, fast-food reklamına yönelik 8 panelli bir hikaye panosu (storyboard) istemi.
+
+#### 📝 İstem
+
+```
+10 saniyelik, dikey 9:16 formatında, ultra gerçekçi 8K, sinematik yemek fotoğrafçılığı içeren, insan yüzü görünmeyen, yalnızca gerektiğinde ellerin kullanıldığı birinci sınıf bir fast-food TV reklamı oluşturun. Aynı patatesin dönüşüm sürecini takip edin.
+
+KONSEPT: “PATATESTEN → ALTIN SARISI ÇITIRLIĞA”
+HAM → DİLİM → BAHARATLA → KIZART → ALTIN → ÇITIR → HERO (ANA GÖRÜNTÜ)
+
+01 | 0–1.2 sn — HAM
+Taze bütün patates koyu renkli taş bir yüzey üzerinde yuvarlanır, doğal kabuk dokusu ve nemi görünür. 100mm makro, hızlı yakın çekim.
+
+02 | 1.2–2.4 sn — DİLİM
+Patates hızla mükemmel incelikte dilimlere dönüşür, bıçak gerçekçi bir dokuyla içinden geçer. 85mm makro, dinamik takip çekimi.
+
+03 | 2.4–3.6 sn — BAHARATLA
+İnce baharatlar patates dilimlerinin üzerine yağar, parçacıklar sıcak ışıkta dramatik bir şekilde havada asılı kalır. 100mm makro, ağır çekim.
+
+04 | 3.6–5 sn — KIZART
+Baharatlı dilimler kızgın yağa düşer, patlayıcı kabarcıklar etraflarını sarar, buhar ve yağ damlacıkları yüksek hızlı ağır çekimde yakalanır. 50mm makro.
+
+05 | 5–6.3 sn — ALTIN
+Soluk patates dilimleri zengin, altın sarısı çıtır cipsler haline gelir; kabaran kenarlar ve küçük kabarcıklı dokular görünür. 100mm makro, dönen match cut (eşleşen kesme) geçişi.
+
+06 | 6.3–7.5 sn — ÇITIR
+Taze cips fritözden çıkarılır, yağ damlaları düşer, bir kenarı doğal bir şekilde çatlar ve ince, çıtır katmanları ortaya çıkarır. 100mm makro, ağır çekim yukarı çekim.
+
+07 | 7.5–9 sn — HERO (ANA GÖRÜNTÜ)
+Bir yığın altın sarısı çıtır cips birinci sınıf bir kaseye düşer, kırıntılar doğal bir şekilde etrafa saçılır. Pürüzsüz dolly-in (yaklaşma), sığ alan derinliği.
+
+08 | 9–10 sn — PACKSHOT (ÜRÜN ÇEKİMİ)
+Birinci sınıf markalı cips kasesi, koyu sinematik arka planın merkezinde, sıcak altın sarısı kenar ışığıyla, çıtır doku kareye hakim. Metin: “PATATESTEN → ÇITIRLIĞA.”
+
+KAMERA: Makro, yüksek hız, yakın çekim (push-in), takip çekimi, odak kaydırma (rack focus), ağır çekim, match cut, pürüzsüz dolly.
+
+STİL: Birinci sınıf global atıştırmalık reklamı, sıcak altın sarısı aydınlatma, zengin gölgeler, gerçekçi patates dokusu, baharat parçacıkları, yağ kabarcıkları, buhar, ultra çıtır yüzey.
+
+NEGATİF: Yüzler, restoran, CGI görünümlü yemek, yanmış cipsler, aşırı yağ, imkansız fizik kuralları, havada uçuşan yemekler, bozuk patatesler, kopya nesneler, deforme olmuş ambalaj, yanlış marka kullanımı, bulanık yemek.
+
+ÇIKTI: Ham patatesin karşı konulmaz çıtır cipsler haline gelişini kusursuz bir şekilde gösteren, profesyonel 8 panelli 9:16 hikaye panosu sayfası.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561511577_lu2pmh_HQZngPQaQAA6fZT.jpg" width="600" alt="Patates Cipsi Dönüşüm Hikaye Panosu">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2091472894727712866)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2091472894727712866) | **Yayınlandı:** Aug 23, 2026
+
+---
 ### İnşaat Zaman Atlamalı (Timelapse) Rüya Ev
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -85,6 +172,69 @@ Mod ve estetik: Boş bir toprak parçasından parlak, çağdaş bir banliyö rü
 **[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2091406362668638422)**
 
 **Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Yayınlandı:** Aug 23, 2026
+
+---
+### Elma Dilim Patates Gıda Reklamı Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Çıtır elma dilim patatesleri, sinematik kamera hareketlerini ve gurme aydınlatmayı içeren üst düzey bir gıda reklamı için detaylı storyboard istemi.
+
+#### 📝 İstem
+
+```
+BAŞLIK:
+Premium Çıtır Elma Dilim Patates Ürün Reklamı Storyboard'u
+
+FORMAT:
+• Tek sayfalık premium storyboard
+• 3:4 Dikey oran
+• Gurme gıda ürün kampanyası
+• 8 sinematik storyboard sahnesi
+• Ürün ana görsel kahraman olarak kalır
+• Premium reklam ajansı sunumu
+
+ÜST BİLGİ:
+• Kalın lüks tipografi
+• Bilgi kartları:
+  - Süre: 20 Saniye
+  - Stil: Sinematik Gıda Reklamı
+  - Ürün: Çıtır Elma Dilim Patates
+  - Ses: Kızartma + Çıtır ASMR
+• Bu Stil Neden İşe Yarar bölümü
+• Sıcak krem, altın sarısı ve koyu kahverengi estetiği
+• Minimal gıda temalı dekoratif öğeler
+
+STORYBOARD:
+1. Temiz ve koyu bir yüzey üzerinde duran premium dondurulmuş elma dilim patates paketi
+2. Altın sarısı elma dilim patateslerin göründüğü paket açılışı
+3. Elma dilim patateslerin ağır çekimde kızgın yağa düşüşü
+4. Köpüren çıtır kaplamanın ekstrem makro çekimi
+5. Kızartıcıdan buharla çıkan altın sarısı dilimler
+6. Yumuşak ve pofuduk iç kısmını göstermek için ikiye ayrılan bir dilim
+7. Orijinal ürün paketinin yanında dizilmiş çıtır dilimler
+8. Dramatik altın sarısı gıda sıçraması ile final kahraman paket çekimi
+
+HER PANEL:
+• Sahne numarası
+• Süre rozeti
+• Kamera yönü
+• Görsel
+• Aksiyon
+• Ürün detayı
+
+KAMERA:
+Ekstrem makro, yüksek hızlı gıda fotoğrafçılığı, ağır çekim kızartma, kontrollü yakınlaşma (push-in), tepe açısı kompozisyon, sinematik kahraman çerçeveleme.
+
+STİL:
+Ultra gerçekçi gıda reklamı, çıtır altın sarısı doku, gerçekçi yağ kabarcıkları, buhar parçacıkları, detaylı patates yüzeyi, dramatik stüdyo aydınlatması, premium ambalaj, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561512848_5nclkc_HQTgrJUaIAAqZAA.jpg" width="600" alt="Elma Dilim Patates Gıda Reklamı Storyboard'u">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2091043191755878628)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2091043191755878628) | **Yayınlandı:** Aug 22, 2026
 
 ---
 ### Uçurum Gözlem Güvertesi İnşaatı Hızlandırılmış Çekim
@@ -2881,131 +3031,13 @@ Arka plan müziği: Ritmik perküsyonlu ilham verici hibrit orkestra; gerçekçi
 **Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Yayınlandı:** Jul 4, 2026
 
 ---
-### Çağdaş Sanat Müzesi Sessiz Gözlem
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Boş bir çağdaş sanat müzesinde yürüyen bir kadını, atmosferine ve belirli bir soyut tabloya odaklanarak betimleyen sinematik bir video istemi.
-
-#### 📝 İstem
-
-```
-Kapanış saatinden sonra boş bir çağdaş sanat müzesi. Kadın, galeride yavaşça yürüyerek devasa tabloları hayranlıkla inceliyor. Bir soyut sanat eserinin önünde duruyor.
-
-Kamera, tabloyu göstermek için omzunun etrafından hareket ediyor. Kadın sadece orada durup eseri takdir ediyor. Başka hiçbir şey olmuyor. Sessizlik hikayenin kendisi haline geliyor.
-
-Arka plan müziği: Minimal piyano, ambient orkestra.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073240590406635520/img/FMVlUeG8cRzaJMaD.jpg" width="600" alt="Çağdaş Sanat Müzesi Sessiz Gözlem">
-
-**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2073240652268323043)**
-
-**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2073240652268323043) | **Yayınlandı:** Jul 4, 2026
-
----
-### Vintage Tokyo DV Kamera Estetiği
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 2000'lerin başındaki tüketici tipi DV kamera görüntülerini bir Tokyo arka sokağında yeniden oluşturmak için tasarlanmış, son derece detaylı, sekans tabanlı bir istem.
-
-#### 📝 İstem
-
-```
-Ana karakter: Genç Japon kadın, 20'li yaşların başı, doğal günlük görünüm, oversize krem rengi örgü hırka, soluk lacivert tişört, bol bej kargo pantolon, beyaz kanvas spor ayakkabılar, ince gümüş kolye, küçük bir kaplumbağa kabuğu desenli toka ile gevşekçe tutturulmuş düz siyah saçlar. Gerçekçi cilt dokusu, minimal makyaj, sakin ve utangaç bir gülümseme, yumuşak ama meraklı bir kişilik. Video boyunca kimliği, kıyafeti, saç stilini ve görünümü tutarlı tutun.
-
-Konum: Hafif yağmurlu bir sabah geç saatlerinde, Tokyo'nun otantik ve sessiz bir yerleşim arka sokağı. Dar asfalt yollar, kompakt evler, küçük balkonlar, yağmur olukları, plastik örtülü bisikletler, saksı bitkileri, kapı önlerinde şemsiyeler, elektrik direkleri, havai hatlar, sadece uzak arka planda okunaklı reklam içermeyen otomatlar, ıslak kaldırım yansımaları, huzurlu bir mahalle hissi. Kalabalık yok, ticari faaliyet yok, modern tabelalara odaklanma yok.
-
-Görsel Stil: Ultra gerçekçi belgesel gerçekçiliği. Samimi ve doğal davranışlar. Doğal hareketler. Senaryosuz, yağmurlu bir günün içinden kesit hissi. Güçlü çevresel otantiklik. Zengin gerçek dünya detayları ve inandırıcı insan hareketleri.
-
-Kamera Stili: 2000'lerin başı tüketici tipi DV kamera estetiği. Bir arkadaşın günlük anları gelişigüzel kaydetmesi. Yoğun el titremesi, kusurlu kadraj, sık sık odak arayışı, lens nefes alması (lens breathing), gri gökyüzü yansımalarından kaynaklanan pozlama dalgalanmaları, ara sıra hareket bulanıklığı, hafif rolling shutter etkisi, hafif dijital sıkıştırma bozulmaları, soluk renkler, yumuşak kontrast, hafif sensör gürültüsü. Sabitleme yok. Sinematik kamera hareketleri yok. Modern renk düzenlemesi yok.
-
-00:00–00:02
-Küçük bir apartman girişinin dışı. Şeffaf bir şemsiye ile dışarı çıkıyor, avucuyla yağmuru kontrol ediyor ve ardından kameraya gülümsüyor. Odak kısa süreliğine şemsiyenin üzerindeki yağmur damlalarına kayıyor.
-
-00:02–00:04
-Kamera, ıslak sokakta onu takip ediyor. Damlayan sudan korumak için küçük bir saksıyı kenara çekmek üzere duruyor. Kamera operatörü bir su birikintisinin etrafından dolaşırken kadraj hafifçe eğiliyor.
-
-00:04–00:06
-Bir giderin yakınında takılmış kağıttan bir turna kuşu fark ediyor, onu alıyor ve sessizce gülüyor. Otomatik odak, elleri ile ıslak kaldırım arasında gidip geliyor.
-
-00:06–00:08
-Dar bir balkonun yanında, şemsiyesindeki yağmuru silkeliyor ve bir bisiklet örtüsünü düzeltmeye yardım ediyor. Su, zemine hafifçe sıçrıyor.
-
-00:08–00:10
-Küçük bir tentenin altında elinde sıcak bir kutu kahve ile duruyor. Serin yağmurda buhar hafifçe tütüyor. Kamera çok aşağı kayıyor, sonra geç bir düzeltme yapıyor.
-
-00:10–00:12
-Yandan yakın açı. Kamera dışından biri günaydın diyor. Dönüyor, şemsiyesini hafifçe kaldırıyor, gülümsüyor ve doğal bir şekilde "Ohayou" diyor. Kamera gülümsemeyi biraz geç yakalıyor.
-
-00:12–00:15
-Yağmurlu sokak boyunca yavaşça uzaklaşıyor. Islak kaldırım silüetini yansıtıyor. Bir kez arkasına bakıyor, hafifçe sırıtıyor ve köşeyi dönüyor. Kayıt, adımın ortasında aniden kararıyor.
-
-Ses: Sadece doğal ortam sesleri, hafif yağmur, uzaktan gelen bisiklet zili, ıslak yolda yumuşak lastik sesleri, saçak altındaki kuşlar, şemsiye kumaşının tıkırtısı, su birikintilerinde yürüyüş sesleri
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072754525077692416/img/KwonLLl5-X6lSWYR.jpg" width="600" alt="Vintage Tokyo DV Kamera Estetiği">
-
-**[🎬 Videoyu izle →](https://x.com/PeshCreates/status/2072754584922005671)**
-
-**Yazar:** [Pesh](https://x.com/PeshCreates) | **Kaynak:** [Link](https://x.com/PeshCreates/status/2072754584922005671) | **Yayınlandı:** Jul 2, 2026
-
----
-### Otantik Lizbon Belgesel Tarzı Video Kamera Kaydı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni Flash kullanarak 2000'lerin başındaki samimi ev videosu tarzında bir Lizbon sahnesi oluşturmak için oldukça detaylı ve yapılandırılmış bir komut.
-
-#### 📝 İstem
-
-```
-Ana özne: 20'li yaşlarının ortasında genç bir Portekizli kadın, doğal günlük görünüm, soluk sarı dar askılı bluz, bol yüksek belli mavi kot pantolon, eski kahverengi deri sandaletler, küçük altın halka küpeler, dağınık düşük bir topuz yapılmış dalgalı kestane rengi saçlar. Gerçekçi cilt dokusu, hafif çiller, minimal makyaj, canlı ve rahat bir kişilik. Video boyunca kimliği, kıyafeti, saç stilini ve görünümü tutarlı tutun.
-
-Konum: Sıcak bir sabah sonrasında otantik Lizbon'un yerleşim yeri olan yokuşlu bir sokak. Dar Arnavut kaldırımlı yollar, fayans kaplı apartman cepheleri, küçük demir balkonlar, pencereler arasında asılı çamaşırlar, solmuş kapılar, saksıda fesleğen ve çiçekler, dik merdivenler, eski scooterlar, güneşli duvarlar, sessiz mahalle atmosferi. Turist kalabalığı, dükkanlar, reklamlar veya kafeler yok.
-
-Görsel Stil: Ultra gerçekçi belgesel gerçekçiliği. Samimi ve doğal davranışlar. Doğal vücut dili. Senaryosuz, hayattan bir kesit hissi. Güçlü çevresel özgünlük. Zengin gerçek dünya detayları ve inandırıcı insan hareketleri.
-
-Kamera Stili: 2000'lerin başındaki tüketici tipi DV video kamera estetiği. Bir arkadaşın günlük anları gelişigüzel kaydetmesi. Belirgin el titremesi, kusurlu kadraj, sık sık odak arama, lens nefes alması, güneşli fayanslar ve gölgeli basamaklar arasında pozlama dalgalanması, ara sıra hareket bulanıklığı, hafif rolling shutter etkisi, hafif dijital sıkıştırma bozulmaları, soluk renkler, yumuşak kontrast, hafif sensör gürültüsü. Sabitleme yok. Sinematik kamera hareketleri yok. Modern renk düzenlemesi yok.
-
-00:00–00:02
-Küçük bir balkona eğilip fesleğenleri suluyor. Birkaç damla aşağıdaki sokağa düşüyor. Kamerayı fark edip şakacı bir utangaçlıkla yüzünü buruşturuyor.
-
-00:02–00:04
-Kamera, Arnavut kaldırımlı yola inen kadını takip ediyor. Elinde küçük hasır bir sepet taşıyor ve pencerenin dışına asılmış çamaşırları kontrol ediyor.
-
-00:04–00:06
-Basamaklarda düşmüş bir çorap buluyor, gülüyor ve tekrar çamaşır ipine asıyor. Otomatik odaklama, yüzü ile çamaşır mandalları arasında gidip geliyor.
-
-00:06–00:08
-Dik bir merdivende, kamera dışındaki yaşlı bir komşusunu selamlamak için duraksıyor. Vücut dili rahat ve samimi. Kamera onu kadrajın biraz fazla solunda tutuyor.
-
-00:08–00:10
-Küçük bir espresso fincanıyla alçak bir taş basamağa oturuyor. Arkasındaki desenli fayansların üzerinde güneş ışığı titriyor. Kamera yukarı doğru eğilirken pozlama dalgalanıyor.
-
-00:10–00:12
-Yandan yakın açı. Kamera dışından biri ona hafifçe takılıyor. Dönüp genişçe gülümsüyor ve rahat bir şekilde “Bom dia” diyor. Kamera, sözlerin ardından gelen hafif bir kahkahayı yakalıyor.
-
-Ses: Sadece doğal ortam sesleri; uzaktan gelen scooterlar, güvercinler, Arnavut kaldırımındaki ayak sesleri, iplerde hareket eden kumaşlar, hafif mahalle sesleri, bitkilerden damlayan su, hafif rüzgar. Müzik yok. Ses tasarımı yok. Dış ses yok.
-
-Amaç: 2000'lerin başından kalma unutulmuş bir ev videosu gibi yakalanmış, samimi, kusurlu, sıcak ve son derece inandırıcı otantik Lizbon mahalle yaşamı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072753893600038912/img/BngLHIuefeWAWkk_.jpg" width="600" alt="Otantik Lizbon Belgesel Tarzı Video Kamera Kaydı">
-
-**[🎬 Videoyu izle →](https://x.com/PeshCreates/status/2072754211847078137)**
-
-**Yazar:** [Pesh](https://x.com/PeshCreates) | **Kaynak:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Yayınlandı:** Jul 2, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 84 burada gösterilmeyen daha fazla istem
+### 🎯 87 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3051,6 +3083,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-24T08:45:34.992Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-24T12:46:10.799Z</sub>
 
 </div>

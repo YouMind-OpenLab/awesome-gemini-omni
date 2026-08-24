@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **184** |
+| 📝 Totale prompt | **187** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-08-24** |
 
@@ -56,6 +56,93 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Video di unboxing e installazione di una stufa da parete
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un video prompt dettagliato di 10 secondi che mostra l'unboxing e l'installazione di una stufa da parete compatta, con enfasi sulla cinematografia macro e sulle texture realistiche.
+
+#### 📝 Prompt
+
+```
+Crea un video prodotto cinematografico ultra-realistico in formato verticale 9:16 di 10 secondi che mostri l'unboxing e l'installazione di un piccolo dispositivo elettronico compatto da parete per il riscaldamento/controllo della temperatura.
+
+Scena 1 (0–2s): Primo piano di mani umane realistiche che aprono una piccola confezione di cartone contenente una stufa elettrica da parete in miniatura. Stanza interna calda e accogliente, tavolo in legno, illuminazione ambientale soffusa, profondità di campo ridotta.
+
+Scena 2 (2–4s): Le mani estraggono con cura il minuscolo dispositivo bianco dal suo imballaggio in plastica sagomata. Cinematografia macro del prodotto, texture plastiche realistiche, dettagli nitidi, movimenti naturali delle mani.
+
+Scena 3 (4–5.5s): Primo piano dal retro mentre un piccolo cacciavite viene utilizzato per regolare/installare un componente sul retro del dispositivo. Movimenti precisi delle mani, dettagli meccanici soddisfacenti.
+
+Scena 4 (5.5–7.5s): Il dispositivo viene montato su una parete con una sottile carta da parati floreale. Un piccolo connettore/cavo di alimentazione nero viene inserito lateralmente.
+
+Scena 5 (7.5–10s): Primissimo piano di un dito che preme il pulsante di controllo. Il display digitale si illumina mostrando la temperatura, poi la telecamera si allontana lentamente per rivelare la stufa compatta in funzione sulla parete.
+
+Stile: fotorealistico, cinematografia macro, mondo dei prodotti in miniatura, interni domestici accoglienti, illuminazione naturale calda, ombre realistiche, profondità di campo ridotta, movimento fluido della telecamera a mano, texture altamente dettagliate, unboxing e installazione in stile ASMR soddisfacente, sottili transizioni di messa a fuoco cinematografica, qualità pubblicitaria premium.
+
+Importante: preservare proporzioni realistiche, dita umane naturali, fisica e interazioni meccaniche credibili. Nessun oggetto extra, nessuna mano distorta, nessuna sovrapposizione di testo, nessuna filigrana. Composizione verticale 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091726747259850752/img/VjrE2LBiqevBkxJk.jpg" width="600" alt="Video di unboxing e installazione di una stufa da parete">
+
+**[🎬 Guarda il video →](https://x.com/AiwithBloodline/status/2091726827501019507)**
+
+**Autore:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2091726827501019507) | **Pubblicato:** Aug 24, 2026
+
+---
+### Storyboard della trasformazione delle patatine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per uno storyboard a 8 pannelli per uno spot pubblicitario di fast food che cattura la trasformazione cinematografica di una patata cruda in patatine dorate e croccanti.
+
+#### 📝 Prompt
+
+```
+Crea uno spot TV premium per fast food di 10 secondi in formato verticale 9:16, ultra-realistico 8K, fotografia gastronomica cinematografica, nessuna persona visibile, solo mani se necessario. Segui la stessa patata durante la trasformazione.
+
+CONCETTO: “DALLA PATATA → ALLA CROCCANTEZZA DORATA”
+CRUDA → AFFETTATA → CONDIRE → FRITTA → DORATA → CROCCANTE → HERO
+
+01 | 0–1,2s — CRUDA
+Una patata intera fresca rotola su una superficie di pietra scura, texture naturale della buccia e umidità visibili. Macro 100mm, push-in veloce.
+
+02 | 1,2–2,4s — AFFETTATA
+La patata si trasforma rapidamente in fette sottili perfette, il coltello taglia con una texture realistica. Macro 85mm, tracking dinamico.
+
+03 | 2,4–3,6s — CONDIRE
+Un fine condimento pioggia sulle fette di patata, particelle sospese drammaticamente in una luce calda. Macro 100mm, slow motion.
+
+04 | 3,6–5s — FRITTA
+Le fette condite cadono nell'olio bollente, bolle esplosive le circondano, vapore e goccioline catturati in slow motion ad alta velocità. Macro 50mm.
+
+05 | 5–6,3s — DORATA
+Le fette di patata pallide si trasformano in ricche patatine dorate e croccanti, bordi gorgoglianti e minuscole texture vescicolari visibili. Macro 100mm, match cut rotante.
+
+06 | 6,3–7,5s — CROCCANTE
+Una patatina fresca viene sollevata dalla friggitrice, gocce d'olio che cadono, un bordo si incrina naturalmente rivelando sottili strati croccanti. Macro 100mm, pull-up in slow motion.
+
+07 | 7,5–9s — HERO
+Una pila di patatine dorate e croccanti cade in una ciotola premium, briciole che cadono naturalmente attorno. Dolly-in fluido, profondità di campo ridotta.
+
+08 | 9–10s — PACKSHOT
+Ciotola di patatine premium centrata su uno sfondo cinematografico scuro, luce calda dorata sul bordo, texture croccante che domina l'inquadratura. Testo: “DALLA PATATA → ALLA CROCCANTEZZA.”
+
+CAMERA: Macro, alta velocità, push-in, tracking, rack focus, slow motion, match cut, dolly fluido.
+
+STILE: Spot pubblicitario premium per snack globali, illuminazione dorata calda, ombre ricche, texture realistica della patata, particelle di condimento, bolle d'olio, vapore, superficie ultra-croccante.
+
+NEGATIVE: Niente volti, ristorante, cibo dall'aspetto CGI, patatine bruciate, olio eccessivo, fisica impossibile, cibo fluttuante, patate distorte, oggetti duplicati, packaging deformato, branding errato, cibo sfocato.
+
+OUTPUT: Un foglio storyboard professionale a 8 pannelli in formato 9:16 che mostra la trasformazione senza interruzioni dalla patata cruda alle irresistibili patatine croccanti.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561511577_lu2pmh_HQZngPQaQAA6fZT.jpg" width="600" alt="Storyboard della trasformazione delle patatine">
+
+**[🎬 Guarda il video →](https://x.com/Strength04_X/status/2091472894727712866)**
+
+**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2091472894727712866) | **Pubblicato:** Aug 23, 2026
+
+---
 ### Timelapse di costruzione: la casa dei sogni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -85,6 +172,69 @@ Mood ed estetica: trasformazione iper-realistica e soddisfacente da un lotto di 
 **[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2091406362668638422)**
 
 **Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Pubblicato:** Aug 23, 2026
+
+---
+### Storyboard per spot pubblicitario di spicchi di patate
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per uno storyboard di uno spot pubblicitario di alta gamma dedicato a croccanti spicchi di patate, con movimenti di camera cinematografici e illuminazione gourmet.
+
+#### 📝 Prompt
+
+```
+TITOLO:
+Storyboard per spot pubblicitario di spicchi di patate croccanti premium
+
+FORMATO:
+• Storyboard premium a pagina singola
+• Rapporto 3:4 verticale
+• Campagna per prodotto alimentare gourmet
+• 8 scene cinematografiche
+• Il prodotto rimane il protagonista visivo
+• Presentazione per agenzia pubblicitaria di alto livello
+
+INTESTAZIONE:
+• Tipografia audace e di lusso
+• Schede informative:
+  - Durata: 20 secondi
+  - Stile: Spot pubblicitario cinematografico
+  - Prodotto: Spicchi di patate croccanti
+  - Audio: Frittura + ASMR croccante
+• Sezione "Perché questo stile funziona"
+• Estetica color crema caldo, giallo dorato e marrone scuro
+• Elementi decorativi minimalisti a tema culinario
+
+STORYBOARD:
+1. Confezione premium di spicchi di patate surgelati su una superficie scura e pulita
+2. Apertura della confezione con spicchi di patate dorati in vista
+3. Spicchi di patate che cadono nell'olio bollente al rallentatore
+4. Ripresa macro estrema della panatura croccante che frigge
+5. Spicchi dorati che emergono dalla friggitrice con vapore
+6. Uno spicchio che si apre rivelando un interno soffice
+7. Spicchi croccanti disposti accanto alla confezione originale del prodotto
+8. Packshot finale del protagonista con un drammatico splash dorato di cibo
+
+OGNI RIQUADRO:
+• Numero della scena
+• Badge della durata
+• Direzione della camera
+• Elemento visivo
+• Azione
+• Dettaglio del prodotto
+
+CAMERA:
+Macro estrema, fotografia di cibo ad alta velocità, frittura al rallentatore, push-in controllato, composizione dall'alto, inquadratura cinematografica del protagonista.
+
+STILE:
+Spot pubblicitario ultra-realistico, consistenza dorata e croccante, bolle d'olio realistiche, particelle di vapore, superficie della patata dettagliata, illuminazione da studio drammatica, packaging premium, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561512848_5nclkc_HQTgrJUaIAAqZAA.jpg" width="600" alt="Storyboard per spot pubblicitario di spicchi di patate">
+
+**[🎬 Guarda il video →](https://x.com/Strength04_X/status/2091043191755878628)**
+
+**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2091043191755878628) | **Pubblicato:** Aug 22, 2026
 
 ---
 ### Timelapse della costruzione di una piattaforma panoramica su una scogliera
@@ -2879,131 +3029,13 @@ Musica di sottofondo: Orchestra ibrida ispiratrice con percussioni ritmiche, suo
 **Autore:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Pubblicato:** Jul 4, 2026
 
 ---
-### Osservazione silenziosa al museo d'arte contemporanea
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico che descrive una donna che cammina attraverso un museo d'arte contemporanea vuoto, concentrandosi sull'atmosfera e su uno specifico dipinto astratto.
-
-#### 📝 Prompt
-
-```
-Un museo d'arte contemporanea vuoto dopo l'orario di chiusura. La donna cammina lentamente attraverso la galleria ammirando enormi dipinti. Si ferma davanti a un'opera d'arte astratta.
-
-La telecamera si muove attorno alla sua spalla per rivelare il dipinto. Lei rimane semplicemente lì ad apprezzarlo. Non succede nient'altro. Il silenzio diventa la storia.
-
-Musica di sottofondo: pianoforte minimalista, orchestra ambient.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073240590406635520/img/FMVlUeG8cRzaJMaD.jpg" width="600" alt="Osservazione silenziosa al museo d'arte contemporanea">
-
-**[🎬 Guarda il video →](https://x.com/vireonixx/status/2073240652268323043)**
-
-**Autore:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2073240652268323043) | **Pubblicato:** Jul 4, 2026
-
----
-### Estetica videocamera DV vintage di Tokyo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente dettagliato basato su sequenze, progettato per replicare il filmato di una videocamera DV consumer dei primi anni 2000 in un vicolo di Tokyo.
-
-#### 📝 Prompt
-
-```
-Soggetto principale: giovane donna giapponese, vent'anni circa, aspetto naturale e quotidiano, cardigan in maglia color crema oversize, t-shirt blu navy sbiadita, pantaloni cargo beige larghi, sneakers di tela bianche, sottile collana d'argento, capelli neri lisci raccolti in modo disordinato con una piccola molletta tartarugata. Texture della pelle realistica, trucco minimo, sorriso calmo e timido, personalità dolce ma curiosa. Mantieni l'identità, l'abbigliamento, l'acconciatura e l'aspetto coerenti per tutto il video.
-
-Luogo: Autentico e tranquillo vicolo residenziale di Tokyo durante una leggera pioggia in tarda mattinata. Strette strade asfaltate, case compatte, piccoli balconi, grondaie, biciclette con coperture in plastica, piante in vaso, ombrelli vicino agli ingressi, pali della luce, cavi aerei, distributori automatici solo sullo sfondo lontano senza pubblicità leggibili, riflessi sul marciapiede bagnato, atmosfera di quartiere tranquillo. Niente folla, niente attività commerciale, nessuna attenzione alla segnaletica moderna.
-
-Stile visivo: Realismo documentaristico ultra-realistico. Comportamento genuino e spontaneo. Movimento naturale. Sensazione di vita quotidiana in una giornata di pioggia, senza copione. Forte autenticità ambientale. Ricchi dettagli del mondo reale e movimenti umani credibili.
-
-Stile della telecamera: Estetica da videocamera DV consumer dei primi anni 2000. Un amico che riprende casualmente momenti quotidiani. Forte tremolio a mano, inquadrature imperfette, frequente ricerca dell'autofocus, lens breathing, variazioni di esposizione dovute ai riflessi del cielo grigio, occasionale motion blur, leggero rolling shutter, lievi artefatti di compressione digitale, colori sbiaditi, contrasto morbido, leggero rumore del sensore. Nessuna stabilizzazione. Nessun movimento di macchina cinematografico. Nessuna color grading moderna.
-
-00:00–00:02
-Fuori dall'ingresso di un piccolo appartamento. Lei esce tenendo un ombrello trasparente, controlla la pioggia con il palmo della mano, poi sorride alla telecamera. La messa a fuoco si sposta brevemente sulle gocce di pioggia sull'ombrello.
-
-00:02–00:04
-La telecamera la segue lungo la strada bagnata. Si ferma per spostare un piccolo vaso di fiori lontano dall'acqua che gocciola. L'inquadratura si inclina leggermente mentre l'operatore evita una pozzanghera.
-
-00:04–00:06
-Nota una gru di carta incastrata vicino a uno scarico, la raccoglie e ride sommessamente. L'autofocus oscilla tra le sue mani e il marciapiede bagnato.
-
-00:06–00:08
-Accanto a uno stretto balcone, scuote l'ombrello per togliere la pioggia e aiuta a sistemare il telo di una bicicletta. L'acqua schizza dolcemente a terra.
-
-00:08–00:10
-Sta sotto una piccola tettoia con un caffè in lattina caldo. Il vapore è appena visibile nella pioggia fresca. La telecamera scende troppo in basso, poi corregge in ritardo.
-
-00:10–00:12
-Angolazione laterale ravvicinata. Qualcuno fuori campo dice buongiorno. Lei si gira, alza leggermente l'ombrello, sorride e dice casualmente: "Ohayou". La telecamera cattura il sorriso con un leggero ritardo.
-
-00:12–00:15
-Si allontana lentamente lungo la strada piovosa. Il marciapiede bagnato riflette la sua silhouette. Si guarda indietro una volta, fa un piccolo sorriso, poi gira l'angolo. La registrazione si interrompe bruscamente su nero a metà passo.
-
-Audio: Solo suoni ambientali naturali, pioggia leggera, campanello di una bicicletta in lontananza, pneumatici morbidi sull'asfalto bagnato, uccelli sotto le grondaie, il ticchettio del tessuto dell'ombrello, passi nelle pozzanghere
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072754525077692416/img/KwonLLl5-X6lSWYR.jpg" width="600" alt="Estetica videocamera DV vintage di Tokyo">
-
-**[🎬 Guarda il video →](https://x.com/PeshCreates/status/2072754584922005671)**
-
-**Autore:** [Pesh](https://x.com/PeshCreates) | **Fonte:** [Link](https://x.com/PeshCreates/status/2072754584922005671) | **Pubblicato:** Jul 2, 2026
-
----
-### Video documentario autentico in stile camcorder a Lisbona
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente dettagliato e strutturato per generare una scena in stile video amatoriale dei primi anni 2000 a Lisbona, utilizzando Gemini Omni Flash.
-
-#### 📝 Prompt
-
-```
-Soggetto principale: giovane donna portoghese, venticinque anni circa, aspetto naturale e quotidiano, canotta attillata giallo pallido, jeans blu a vita alta, sandali in pelle marrone usurati, piccoli orecchini a cerchio dorati, capelli castani mossi raccolti in uno chignon basso spettinato con ciocche libere. Texture della pelle realistica, leggere lentiggini, trucco minimo, personalità vivace e rilassata. Mantenere identità, abbigliamento, acconciatura e aspetto coerenti per l'intero video.
-
-Luogo: Autentica strada collinare residenziale di Lisbona durante una calda tarda mattinata. Stretti vicoli acciottolati, facciate di appartamenti piastrellate, piccoli balconi in ferro, panni stesi tra le finestre, porte sbiadite, vasi di basilico e fiori, gradini ripidi, vecchi scooter, muri illuminati dal sole, atmosfera di quartiere tranquilla. Niente folle di turisti, niente negozi, niente pubblicità, niente bar.
-
-Stile visivo: Realismo documentaristico ultra-realistico. Comportamento spontaneo e genuino. Linguaggio del corpo naturale. Sensazione di vita vissuta non sceneggiata. Forte autenticità ambientale. Ricchi dettagli del mondo reale e movimenti umani credibili.
-
-Stile della telecamera: Estetica da videocamera DV consumer dei primi anni 2000. Un amico che riprende casualmente momenti quotidiani. Forte tremolio a mano, inquadrature imperfette, frequenti ricerche dell'autofocus, lens breathing, variazioni di esposizione tra le piastrelle soleggiate e i gradini in ombra, occasionale motion blur, leggero effetto rolling shutter, lievi artefatti di compressione digitale, colori sbiaditi, contrasto morbido, leggero rumore del sensore. Nessuna stabilizzazione. Nessun movimento di macchina cinematografico. Nessuna color grading moderna.
-
-00:00–00:02
-Si sporge da un piccolo balcone per annaffiare le piante di basilico. Qualche goccia cade sulla strada sottostante. Si accorge della telecamera e fa una faccia imbarazzata e giocosa.
-
-00:02–00:04
-La telecamera la segue mentre scende le scale verso il vicolo acciottolato. Porta un piccolo cesto di vimini e controlla il bucato steso fuori da una finestra.
-
-00:04–00:06
-Trova un calzino caduto sui gradini, ride e lo riattacca al filo del bucato. L'autofocus passa dal suo viso alle mollette del bucato.
-
-00:06–00:08
-Su una ripida scalinata residenziale, si ferma per salutare un vicino anziano fuori campo. Il suo linguaggio del corpo è casuale e familiare. La telecamera la inquadra leggermente troppo a sinistra.
-
-00:08–00:10
-Si siede su un gradino di pietra basso con una piccola tazzina di espresso. La luce del sole filtra sulle piastrelle decorate dietro di lei. L'esposizione pulsa mentre la telecamera si inclina verso l'alto.
-
-00:10–00:12
-Angolazione laterale ravvicinata. Qualcuno fuori campo la prende in giro gentilmente. Lei si gira, sorride apertamente e dice con naturalezza: “Bom dia”. La telecamera cattura una risata sommessa dopo le parole.
-
-Audio: Solo suono ambientale naturale, scooter in lontananza, piccioni, passi sul ciottolato, tessuto che si muove sui fili, voci soffuse del quartiere, acqua che gocciola dalle piante, vento leggero. Niente musica. Nessun sound design. Nessuna narrazione.
-
-Obiettivo: Autentica vita residenziale di Lisbona catturata come un video amatoriale dimenticato dei primi anni 2000, spontaneo, imperfetto, caldo e profondamente credibile.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072753893600038912/img/BngLHIuefeWAWkk_.jpg" width="600" alt="Video documentario autentico in stile camcorder a Lisbona">
-
-**[🎬 Guarda il video →](https://x.com/PeshCreates/status/2072754211847078137)**
-
-**Autore:** [Pesh](https://x.com/PeshCreates) | **Fonte:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Pubblicato:** Jul 2, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 84 altri prompt non mostrati qui
+### 🎯 87 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3049,6 +3081,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-24T08:45:29.768Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-24T12:46:07.199Z</sub>
 
 </div>

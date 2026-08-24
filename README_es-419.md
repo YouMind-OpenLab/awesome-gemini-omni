@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **184** |
+| 📝 Total de prompts | **187** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-08-24** |
 
@@ -56,6 +56,93 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Video de unboxing e instalación de calentador de pared
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video detallado de 10 segundos que muestra el unboxing y la instalación de un calentador de pared compacto, enfatizando la cinematografía macro y las texturas realistas.
+
+#### 📝 Prompt
+
+```
+Crea un video de producto cinematográfico ultra realista en formato vertical 9:16 de 10 segundos que muestre el unboxing y la instalación de un pequeño dispositivo electrónico compacto de pared para calefacción/control de temperatura.
+
+Escena 1 (0–2s): Primer plano de manos humanas realistas abriendo un pequeño paquete de cartón que contiene un calentador de pared electrónico en miniatura. Habitación interior cálida y acogedora, mesa de madera, iluminación ambiental suave, profundidad de campo reducida.
+
+Escena 2 (2–4s): Las manos retiran cuidadosamente el pequeño dispositivo blanco de su empaque de plástico moldeado. Cinematografía macro de producto, texturas de plástico realistas, detalles nítidos, movimientos de mano naturales.
+
+Escena 3 (4–5.5s): Primer plano desde la parte posterior mientras se utiliza un destornillador pequeño para ajustar/instalar un componente en la parte trasera del dispositivo. Movimientos de mano precisos, detalle mecánico satisfactorio.
+
+Escena 4 (5.5–7.5s): El dispositivo se monta en una pared con un sutil papel tapiz floral. Un pequeño conector/cable de alimentación negro se enchufa en el lateral.
+
+Escena 5 (7.5–10s): Primer plano extremo de un dedo presionando el botón de control. La pantalla digital se ilumina mostrando la temperatura, luego la cámara se aleja lentamente para revelar el calentador compacto funcionando en la pared.
+
+Estilo: fotorrealista, cinematografía macro, mundo de productos en miniatura, interior de hogar acogedor, iluminación natural cálida, sombras realistas, profundidad de campo reducida, movimiento de cámara en mano fluido, texturas altamente detalladas, unboxing e instalación satisfactorios estilo ASMR, transiciones de enfoque cinematográficas sutiles, calidad de anuncio comercial premium.
+
+Importante: Preserva proporciones realistas, dedos humanos naturales, física creíble e interacción mecánica. Sin objetos adicionales, sin manos distorsionadas, sin superposiciones de texto, sin marcas de agua. Composición vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091726747259850752/img/VjrE2LBiqevBkxJk.jpg" width="600" alt="Video de unboxing e instalación de calentador de pared">
+
+**[🎬 Ver video →](https://x.com/AiwithBloodline/status/2091726827501019507)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fuente:** [Link](https://x.com/AiwithBloodline/status/2091726827501019507) | **Publicado:** Aug 24, 2026
+
+---
+### Storyboard de transformación de papas fritas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de storyboard de 8 paneles para un comercial de comida rápida que captura la transformación cinematográfica de una papa cruda en papas fritas doradas y crujientes.
+
+#### 📝 Prompt
+
+```
+Crea un TVC de comida rápida premium vertical de 10s en 9:16, ultra realista en 8K, fotografía de alimentos cinematográfica, sin personas visibles, solo manos cuando sea necesario. La misma papa seguida a través de la transformación.
+
+CONCEPTO: “DE LA PAPA → AL CRUJIDO DORADO”
+CRUDO → REBANADA → SAZONAR → FREÍR → DORADO → CRUJIENTE → HERO
+
+01 | 0–1.2s — CRUDO
+Una papa entera fresca rueda sobre una superficie de piedra oscura, con textura de piel natural y humedad visible. Macro de 100mm, acercamiento rápido.
+
+02 | 1.2–2.4s — REBANADA
+La papa se transforma rápidamente en rebanadas perfectamente delgadas, un cuchillo corta a través con una textura realista. Macro de 85mm, seguimiento dinámico.
+
+03 | 2.4–3.6s — SAZONAR
+Sazonador fino cae sobre las rebanadas de papa, partículas suspendidas dramáticamente bajo una luz cálida. Macro de 100mm, cámara lenta.
+
+04 | 3.6–5s — FREÍR
+Las rebanadas sazonadas caen en aceite caliente, burbujas explosivas las rodean, vapor y gotas capturadas en cámara lenta de alta velocidad. Macro de 50mm.
+
+05 | 5–6.3s — DORADO
+Las rebanadas de papa pálidas se transforman en papas fritas doradas y crujientes, con bordes burbujeantes y texturas diminutas y ampolladas visibles. Macro de 100mm, corte de coincidencia rotativo.
+
+06 | 6.3–7.5s — CRUJIENTE
+Una papa frita fresca se levanta de la freidora, gotas de aceite caen, un borde se agrieta naturalmente revelando capas delgadas y crujientes. Macro de 100mm, movimiento ascendente en cámara lenta.
+
+07 | 7.5–9s — HERO
+Una pila de papas fritas doradas cae en un tazón premium, migajas cayendo naturalmente a su alrededor. Dolly-in suave, profundidad de campo reducida.
+
+08 | 9–10s — PACKSHOT
+Tazón de papas fritas de marca premium centrado contra un fondo cinematográfico oscuro, luz de borde dorada cálida, textura crujiente dominando el encuadre. Texto: “DE LA PAPA → AL CRUJIDO.”
+
+CÁMARA: Macro, alta velocidad, acercamiento (push-in), seguimiento, enfoque selectivo (rack focus), cámara lenta, cortes de coincidencia, dolly suave.
+
+ESTILO: Comercial de snacks premium global, iluminación dorada cálida, sombras ricas, textura de papa realista, partículas de sazonador, burbujas de aceite, vapor, superficie ultra crujiente.
+
+NEGATIVO: Sin rostros, restaurante, comida con apariencia de CGI, papas quemadas, exceso de aceite, física imposible, comida flotante, papas distorsionadas, objetos duplicados, empaque deformado, marca incorrecta, comida borrosa.
+
+SALIDA: Una hoja de storyboard profesional de 8 paneles en 9:16 que muestra una transformación fluida desde la papa cruda hasta unas irresistibles papas fritas crujientes.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561511577_lu2pmh_HQZngPQaQAA6fZT.jpg" width="600" alt="Storyboard de transformación de papas fritas">
+
+**[🎬 Ver video →](https://x.com/Strength04_X/status/2091472894727712866)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2091472894727712866) | **Publicado:** Aug 23, 2026
+
+---
 ### Timelapse de construcción: la casa de tus sueños
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -85,6 +172,69 @@ Estado de ánimo y estética: transformación hiperrealista y satisfactoria de u
 **[🎬 Ver video →](https://x.com/MrDasOnX/status/2091406362668638422)**
 
 **Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Publicado:** Aug 23, 2026
+
+---
+### Storyboard para comercial de comida: Papas en gajos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado de storyboard para un comercial de comida de alta gama que presenta papas en gajos crujientes, movimientos de cámara cinematográficos e iluminación gourmet.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Storyboard para comercial de producto: Papas en gajos crujientes premium
+
+FORMATO:
+• Storyboard premium de una sola página
+• Relación de aspecto vertical 3:4
+• Campaña de producto alimenticio gourmet
+• 8 escenas de storyboard cinematográfico
+• El producto se mantiene como el protagonista visual
+• Presentación de agencia de publicidad premium
+
+ENCABEZADO:
+• Tipografía de lujo en negrita
+• Tarjetas de información:
+  - Duración: 20 segundos
+  - Estilo: Comercial de comida cinematográfico
+  - Producto: Papas en gajos crujientes
+  - Audio: Sonido de fritura + ASMR crujiente
+• Sección de por qué funciona este estilo
+• Estética en tonos crema cálido, amarillo dorado y marrón oscuro
+• Elementos decorativos minimalistas con temática gastronómica
+
+STORYBOARD:
+1. Empaque de papas en gajos congeladas premium sobre una superficie oscura y limpia
+2. Apertura del empaque con las papas en gajos doradas a la vista
+3. Papas en gajos cayendo en aceite caliente en cámara lenta
+4. Toma macro extrema de la capa crujiente burbujeante
+5. Gajos dorados saliendo de la freidora con vapor
+6. Un gajo abriéndose para revelar un centro suave y esponjoso
+7. Gajos crujientes dispuestos junto al empaque original del producto
+8. Toma final del producto con un espectacular efecto de salpicadura dorada
+
+CADA PANEL:
+• Número de escena
+• Insignia de duración
+• Dirección de cámara
+• Visual
+• Acción
+• Detalle del producto
+
+CÁMARA:
+Macro extremo, fotografía de alimentos de alta velocidad, fritura en cámara lenta, acercamiento controlado (push-in), composición cenital, encuadre cinematográfico del producto estrella.
+
+ESTILO:
+Comercial de comida ultrarrealista, textura dorada crujiente, burbujas de aceite realistas, partículas de vapor, superficie de papa detallada, iluminación de estudio dramática, empaque premium, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561512848_5nclkc_HQTgrJUaIAAqZAA.jpg" width="600" alt="Storyboard para comercial de comida: Papas en gajos">
+
+**[🎬 Ver video →](https://x.com/Strength04_X/status/2091043191755878628)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2091043191755878628) | **Publicado:** Aug 22, 2026
 
 ---
 ### Timelapse de la construcción de un mirador en un acantilado
@@ -2882,131 +3032,13 @@ Música de fondo: Orquesta híbrida inspiradora con percusión rítmica, sonidos
 **Autor:** [Virena](https://x.com/vireonixx) | **Fuente:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Publicado:** Jul 4, 2026
 
 ---
-### Observación silenciosa en el museo de arte contemporáneo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico que describe a una mujer caminando por un museo de arte contemporáneo vacío, centrándose en la atmósfera y en una pintura abstracta específica.
-
-#### 📝 Prompt
-
-```
-Un museo de arte contemporáneo vacío después del horario de cierre. La mujer camina lentamente por la galería admirando pinturas enormes. Se detiene frente a una obra de arte abstracta.
-
-La cámara se mueve alrededor de su hombro para revelar la pintura. Ella simplemente se queda ahí apreciándola. No sucede nada más. El silencio se convierte en la historia.
-
-Música de fondo: Piano minimalista, orquesta ambiental.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073240590406635520/img/FMVlUeG8cRzaJMaD.jpg" width="600" alt="Observación silenciosa en el museo de arte contemporáneo">
-
-**[🎬 Ver video →](https://x.com/vireonixx/status/2073240652268323043)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Fuente:** [Link](https://x.com/vireonixx/status/2073240652268323043) | **Publicado:** Jul 4, 2026
-
----
-### Estética de videocámara DV vintage de Tokio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente detallado basado en secuencias, diseñado para replicar las grabaciones de videocámaras DV de consumo de principios de los 2000 en una callejuela de Tokio.
-
-#### 📝 Prompt
-
-```
-Sujeto principal: mujer japonesa joven, de unos 20 años, apariencia natural y cotidiana, cárdigan de punto color crema oversize, camiseta azul marino desteñida, pantalones cargo beige holgados, zapatillas de lona blancas, collar de plata fino, cabello negro lacio recogido de forma casual con una pequeña pinza de carey. Textura de piel realista, maquillaje mínimo, sonrisa tranquila y tímida, personalidad suave pero curiosa. Mantener la identidad, la ropa, el peinado y la apariencia consistentes durante todo el video.
-
-Ubicación: Una auténtica y tranquila callejuela residencial de Tokio durante una lluvia ligera a media mañana. Carriles estrechos de asfalto, casas compactas, balcones pequeños, canaletas de lluvia, bicicletas con fundas de plástico, plantas en macetas, paraguas cerca de las puertas, postes de luz, cables aéreos, máquinas expendedoras solo en el fondo lejano sin anuncios legibles, reflejos en el pavimento mojado, ambiente de vecindario pacífico. Sin multitudes, sin actividad comercial, sin enfoque en señalización moderna.
-
-Estilo visual: Realismo documental ultra realista. Comportamiento genuino y espontáneo. Movimiento natural. Sensación de vida cotidiana en un día lluvioso sin guion. Fuerte autenticidad ambiental. Ricos detalles del mundo real y movimiento humano creíble.
-
-Estilo de cámara: Estética de videocámara DV de consumo de principios de los 2000. Un amigo grabando casualmente momentos cotidianos. Mucho movimiento de mano, encuadre imperfecto, enfoque automático que busca constantemente, respiración de lente, fluctuaciones de exposición por los reflejos del cielo gris, desenfoque de movimiento ocasional, sutil efecto de rolling shutter, artefactos de compresión digital leves, colores desteñidos, contraste suave, ligero ruido de sensor. Sin estabilización. Sin movimientos de cámara cinematográficos. Sin corrección de color moderna.
-
-00:00–00:02
-Fuera de la entrada de un pequeño apartamento. Ella sale sosteniendo un paraguas transparente, comprueba la lluvia con la palma de la mano y luego sonríe a la cámara. El enfoque se desplaza brevemente hacia las gotas de lluvia en el paraguas.
-
-00:02–00:04
-La cámara la sigue por el carril mojado. Ella se detiene para mover una pequeña planta en maceta lejos del agua que gotea. El encuadre se inclina ligeramente mientras el operador de cámara esquiva un charco.
-
-00:04–00:06
-Ella nota una grulla de papel atrapada cerca de un desagüe, la recoge y se ríe suavemente. El enfoque automático cambia entre sus manos y el pavimento mojado.
-
-00:06–00:08
-Junto a un balcón estrecho, sacude la lluvia del paraguas y ayuda a enderezar la funda de una bicicleta. El agua salpica suavemente el suelo.
-
-00:08–00:10
-Ella se para bajo un pequeño toldo con un café en lata caliente. El vapor es tenue bajo la lluvia fría. La cámara se desvía demasiado hacia abajo y luego corrige tarde.
-
-00:10–00:12
-Ángulo lateral cerrado. Alguien fuera de cámara dice buenos días. Ella se gira, levanta el paraguas ligeramente, sonríe y dice casualmente: “Ohayou”. La cámara captura la sonrisa un poco tarde.
-
-00:12–00:15
-Ella camina lentamente por el carril lluvioso. El pavimento mojado refleja su silueta. Mira hacia atrás una vez, esboza una pequeña sonrisa y luego dobla la esquina. La grabación se corta abruptamente a negro a mitad del paso.
-
-Audio: Solo sonido ambiental natural, lluvia ligera, timbre de bicicleta a lo lejos, neumáticos suaves sobre carretera mojada, pájaros bajo los aleros, golpeteo de la tela del paraguas, pasos a través de charcos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072754525077692416/img/KwonLLl5-X6lSWYR.jpg" width="600" alt="Estética de videocámara DV vintage de Tokio">
-
-**[🎬 Ver video →](https://x.com/PeshCreates/status/2072754584922005671)**
-
-**Autor:** [Pesh](https://x.com/PeshCreates) | **Fuente:** [Link](https://x.com/PeshCreates/status/2072754584922005671) | **Publicado:** Jul 2, 2026
-
----
-### Video auténtico de estilo cámara de video documental en Lisboa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente detallado y estructurado para generar una escena al estilo de video casero de principios de los 2000 en Lisboa usando Gemini Omni Flash.
-
-#### 📝 Prompt
-
-```
-Sujeto principal: mujer portuguesa joven, de unos 20 y tantos años, apariencia natural y cotidiana, camiseta sin mangas ajustada de color amarillo pálido, jeans azules holgados de tiro alto, sandalias de cuero marrón desgastadas, pequeños aretes de aro dorados, cabello castaño ondulado recogido en un moño bajo despeinado con mechones sueltos. Textura de piel realista, pecas ligeras, maquillaje mínimo, personalidad alegre y relajada. Mantener la identidad, la ropa, el peinado y la apariencia consistentes durante todo el video.
-
-Ubicación: Una auténtica calle residencial en una colina de Lisboa durante una cálida mañana. Carriles estrechos de adoquines, fachadas de apartamentos con azulejos, pequeños balcones de hierro, ropa tendida entre las ventanas, puertas desgastadas, macetas con albahaca y flores, escalones empinados, scooters viejos, paredes iluminadas por el sol, atmósfera de vecindario tranquilo. Sin multitudes de turistas, sin tiendas, sin publicidad, sin cafés.
-
-Estilo visual: Realismo documental ultra realista. Comportamiento genuino y espontáneo. Lenguaje corporal natural. Sensación de vida cotidiana sin guion. Fuerte autenticidad ambiental. Ricos detalles del mundo real y movimiento humano creíble.
-
-Estilo de cámara: Estética de videocámara DV de consumo de principios de los 2000. Un amigo grabando casualmente momentos cotidianos. Mucho movimiento de cámara en mano, encuadre imperfecto, enfoque automático que busca constantemente, respiración de lente, cambios de exposición entre los azulejos iluminados por el sol y los escalones sombreados, desenfoque de movimiento ocasional, sutil efecto de rolling shutter, leves artefactos de compresión digital, colores desvanecidos, contraste suave, ligero ruido de sensor. Sin estabilización. Sin movimientos de cámara cinematográficos. Sin corrección de color moderna.
-
-00:00–00:02
-Ella se inclina sobre un pequeño balcón para regar plantas de albahaca. Unas pocas gotas caen a la calle. Nota la cámara y pone una cara de vergüenza juguetona.
-
-00:02–00:04
-La cámara la sigue mientras baja las escaleras hacia el carril de adoquines. Lleva una pequeña cesta tejida y revisa la ropa tendida fuera de una ventana.
-
-00:04–00:06
-Encuentra un calcetín que se cayó en los escalones, se ríe y lo vuelve a colgar en el tendedero. El enfoque automático cambia entre su rostro y los ganchos de la ropa.
-
-00:06–00:08
-En una escalera residencial empinada, se detiene para saludar a un vecino anciano que está fuera de cámara. Su lenguaje corporal es casual y familiar. La cámara la encuadra un poco demasiado a la izquierda.
-
-00:08–00:10
-Se sienta en un escalón de piedra bajo con una pequeña taza de espresso. La luz del sol parpadea sobre los azulejos estampados detrás de ella. La exposición pulsa mientras la cámara se inclina hacia arriba.
-
-00:10–00:12
-Ángulo lateral cerrado. Alguien fuera de cámara la molesta suavemente. Ella se gira, sonríe ampliamente y dice casualmente: “Bom dia”. La cámara captura una risa suave después de las palabras.
-
-Audio: Solo sonido ambiental natural, scooters a lo lejos, palomas, pasos sobre adoquines, tela moviéndose en las cuerdas, voces suaves del vecindario, agua goteando de las plantas, viento ligero. Sin música. Sin diseño de sonido. Sin narración.
-
-Objetivo: La vida residencial auténtica de Lisboa capturada como un video casero olvidado de principios de los 2000, espontáneo, imperfecto, cálido y profundamente creíble.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072753893600038912/img/BngLHIuefeWAWkk_.jpg" width="600" alt="Video auténtico de estilo cámara de video documental en Lisboa">
-
-**[🎬 Ver video →](https://x.com/PeshCreates/status/2072754211847078137)**
-
-**Autor:** [Pesh](https://x.com/PeshCreates) | **Fuente:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Publicado:** Jul 2, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 84 más prompts no mostrados aquí
+### 🎯 87 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3052,6 +3084,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-24T08:45:23.365Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-24T12:46:03.258Z</sub>
 
 </div>

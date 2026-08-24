@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **184** |
+| 📝 Tổng số prompt | **187** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-24** |
 
@@ -56,6 +56,93 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video mở hộp và lắp đặt máy sưởi treo tường
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt chi tiết dài 10 giây mô tả quá trình mở hộp và lắp đặt máy sưởi treo tường nhỏ gọn, chú trọng vào kỹ thuật quay phim macro và kết cấu chân thực.
+
+#### 📝 Prompt
+
+```
+Tạo một video sản phẩm điện ảnh siêu thực, định dạng dọc 9:16, dài 10 giây, mô tả quá trình mở hộp và lắp đặt một thiết bị sưởi/điều khiển nhiệt độ điện tử treo tường nhỏ gọn.
+
+Cảnh 1 (0–2 giây): Cận cảnh đôi bàn tay người chân thực đang mở hộp các tông bán lẻ nhỏ chứa một chiếc máy sưởi điện treo tường mini màu trắng. Bối cảnh phòng trong nhà ấm cúng, bàn gỗ, ánh sáng dịu nhẹ, độ sâu trường ảnh nông.
+
+Cảnh 2 (2–4 giây): Đôi bàn tay cẩn thận lấy thiết bị nhỏ màu trắng ra khỏi bao bì nhựa định hình. Kỹ thuật quay phim sản phẩm macro, kết cấu nhựa chân thực, chi tiết sắc nét, chuyển động tay tự nhiên.
+
+Cảnh 3 (4–5,5 giây): Cận cảnh từ phía sau khi một chiếc tua vít nhỏ được sử dụng để điều chỉnh/lắp đặt một linh kiện ở mặt sau của thiết bị. Chuyển động tay chính xác, chi tiết cơ khí đầy thỏa mãn.
+
+Cảnh 4 (5,5–7,5 giây): Thiết bị được gắn lên tường có giấy dán tường hoa văn tinh tế. Một đầu nối/dây cáp điện nhỏ màu đen được cắm vào bên cạnh.
+
+Cảnh 5 (7,5–10 giây): Cận cảnh cực đại một ngón tay đang nhấn nút điều khiển. Màn hình kỹ thuật số sáng lên hiển thị nhiệt độ, sau đó máy quay từ từ lùi lại để lộ ra chiếc máy sưởi nhỏ gọn đang hoạt động trên tường.
+
+Phong cách: chân thực như ảnh chụp, quay phim macro, thế giới sản phẩm thu nhỏ, nội thất gia đình ấm cúng, ánh sáng tự nhiên ấm áp, đổ bóng chân thực, độ sâu trường ảnh nông, chuyển động máy quay cầm tay mượt mà, kết cấu chi tiết cao, mở hộp và lắp đặt theo phong cách ASMR đầy thỏa mãn, chuyển đổi tiêu điểm điện ảnh tinh tế, chất lượng quảng cáo thương mại cao cấp.
+
+Quan trọng: Duy trì tỷ lệ thực tế, ngón tay người tự nhiên, vật lý và tương tác cơ học đáng tin cậy. Không thêm vật thể lạ, không làm biến dạng bàn tay, không chèn chữ, không có hình mờ. Bố cục dọc 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091726747259850752/img/VjrE2LBiqevBkxJk.jpg" width="600" alt="Video mở hộp và lắp đặt máy sưởi treo tường">
+
+**[🎬 Xem video →](https://x.com/AiwithBloodline/status/2091726827501019507)**
+
+**Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2091726827501019507) | **Đã xuất bản:** Aug 24, 2026
+
+---
+### Bảng phân cảnh biến hóa khoai tây chiên
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gợi ý bảng phân cảnh 8 khung hình cho quảng cáo đồ ăn nhanh, ghi lại quá trình biến hóa đầy tính điện ảnh từ củ khoai tây tươi thành những lát khoai tây chiên giòn rụm, vàng óng.
+
+#### 📝 Prompt
+
+```
+Tạo một video quảng cáo (TVC) đồ ăn nhanh cao cấp dọc 9:16 dài 10 giây, độ phân giải 8K siêu thực, phong cách nhiếp ảnh ẩm thực điện ảnh, không thấy người, chỉ xuất hiện bàn tay khi cần thiết. Theo sát một củ khoai tây duy nhất qua quá trình biến hóa.
+
+Ý TƯỞNG: “TỪ KHOAI TÂY → THÀNH ĐỘ GIÒN VÀNG ÓNG”
+THÔ → THÁI LÁT → TẨM GIA VỊ → CHIÊN → VÀNG → GIÒN → SẢN PHẨM CHÍNH
+
+01 | 0–1.2s — NGUYÊN LIỆU THÔ
+Củ khoai tây tươi lăn trên bề mặt đá tối màu, nhìn rõ kết cấu vỏ tự nhiên và độ ẩm. Ống kính macro 100mm, hiệu ứng đẩy nhanh vào chủ thể.
+
+02 | 1.2–2.4s — THÁI LÁT
+Khoai tây nhanh chóng biến thành những lát mỏng hoàn hảo, dao cắt qua với kết cấu chân thực. Ống kính macro 85mm, hiệu ứng theo dõi chuyển động linh hoạt.
+
+03 | 2.4–3.6s — TẨM GIA VỊ
+Gia vị mịn rơi xuống các lát khoai tây, các hạt gia vị lơ lửng đầy ấn tượng trong ánh sáng ấm áp. Ống kính macro 100mm, hiệu ứng quay chậm (slow motion).
+
+04 | 3.6–5s — CHIÊN
+Các lát khoai đã tẩm gia vị rơi vào dầu nóng, những bong bóng nổ tung bao quanh, hơi nước và giọt dầu được ghi lại ở tốc độ quay chậm cao. Ống kính macro 50mm.
+
+05 | 5–6.3s — VÀNG ÓNG
+Những lát khoai tây nhạt màu biến thành khoai tây chiên vàng giòn đậm đà, nhìn rõ các cạnh đang sủi bọt và kết cấu phồng rộp li ti. Ống kính macro 100mm, hiệu ứng cắt cảnh khớp (match cut) xoay.
+
+06 | 6.3–7.5s — GIÒN RỤM
+Lát khoai tươi được nhấc ra khỏi chảo chiên, giọt dầu rơi xuống, một cạnh nứt tự nhiên để lộ các lớp giòn mỏng. Ống kính macro 100mm, hiệu ứng quay chậm kéo lên.
+
+07 | 7.5–9s — SẢN PHẨM CHÍNH
+Một đống khoai tây chiên vàng giòn rơi vào chiếc bát cao cấp, vụn khoai rơi tự nhiên xung quanh. Hiệu ứng dolly-in mượt mà, độ sâu trường ảnh nông.
+
+08 | 9–10s — CẢNH KẾT (PACKSHOT)
+Bát khoai tây chiên thương hiệu cao cấp đặt chính giữa trên nền tối đậm chất điện ảnh, ánh sáng viền vàng ấm áp, kết cấu giòn rụm chiếm ưu thế trong khung hình. Văn bản: “TỪ KHOAI TÂY → THÀNH ĐỘ GIÒN.”
+
+CAMERA: Macro, tốc độ cao, đẩy vào, theo dõi, lấy nét rack focus, quay chậm, cắt cảnh khớp, dolly mượt mà.
+
+PHONG CÁCH: Quảng cáo đồ ăn nhẹ đẳng cấp toàn cầu, ánh sáng vàng ấm áp, bóng đổ đậm, kết cấu khoai tây chân thực, hạt gia vị, bong bóng dầu, hơi nước, bề mặt siêu giòn.
+
+LOẠI TRỪ: Không có khuôn mặt, nhà hàng, thực phẩm trông như CGI, khoai tây bị cháy, quá nhiều dầu, vật lý không tưởng, thực phẩm bay lơ lửng, khoai tây bị biến dạng, vật thể trùng lặp, bao bì bị lỗi, sai thương hiệu, thực phẩm bị mờ.
+
+ĐẦU RA: Một bảng phân cảnh chuyên nghiệp gồm 8 khung hình tỷ lệ 9:16, thể hiện quá trình biến hóa liền mạch từ củ khoai tây thô thành những lát khoai tây chiên giòn tan đầy hấp dẫn.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561511577_lu2pmh_HQZngPQaQAA6fZT.jpg" width="600" alt="Bảng phân cảnh biến hóa khoai tây chiên">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2091472894727712866)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2091472894727712866) | **Đã xuất bản:** Aug 23, 2026
+
+---
 ### Timelapse quá trình xây dựng ngôi nhà mơ ước
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -85,6 +172,69 @@ Cảm xúc & thẩm mỹ: Sự biến đổi siêu thực đầy thỏa mãn t�
 **[🎬 Xem video →](https://x.com/MrDasOnX/status/2091406362668638422)**
 
 **Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Đã xuất bản:** Aug 23, 2026
+
+---
+### Storyboard quảng cáo thực phẩm khoai tây múi cau
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý storyboard chi tiết cho quảng cáo thực phẩm cao cấp với hình ảnh khoai tây múi cau giòn rụm, chuyển động máy quay điện ảnh và ánh sáng chuẩn gourmet.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ:
+Storyboard quảng cáo sản phẩm khoai tây múi cau giòn rụm cao cấp
+
+ĐỊNH DẠNG:
+• Storyboard cao cấp một trang
+• Tỷ lệ khung hình dọc 3:4
+• Chiến dịch quảng cáo thực phẩm gourmet
+• 8 cảnh storyboard điện ảnh
+• Sản phẩm là tâm điểm hình ảnh chính
+• Trình bày theo phong cách agency quảng cáo cao cấp
+
+TIÊU ĐỀ PHỤ:
+• Kiểu chữ sang trọng, đậm nét
+• Thẻ thông tin:
+  - Thời lượng: 20 giây
+  - Phong cách: Quảng cáo thực phẩm điện ảnh
+  - Sản phẩm: Khoai tây múi cau giòn rụm
+  - Âm thanh: Tiếng chiên rán + ASMR giòn tan
+• Phần "Tại sao phong cách này hiệu quả"
+• Thẩm mỹ màu kem ấm, vàng kim và nâu sẫm
+• Các yếu tố trang trí tối giản theo chủ đề thực phẩm
+
+STORYBOARD:
+1. Gói khoai tây múi cau đông lạnh cao cấp đặt trên bề mặt tối màu sạch sẽ
+2. Mở gói sản phẩm để lộ những miếng khoai tây vàng ươm
+3. Khoai tây múi cau rơi vào chảo dầu nóng ở chế độ quay chậm (slow motion)
+4. Cận cảnh cực đại (extreme macro) lớp vỏ giòn đang sủi bọt
+5. Khoai tây vàng ươm được vớt ra từ chảo chiên với làn khói bốc lên
+6. Một miếng khoai tây được bẻ đôi để lộ phần ruột mềm mịn bên trong
+7. Khoai tây giòn rụm được sắp xếp bên cạnh bao bì sản phẩm gốc
+8. Hình ảnh sản phẩm cuối cùng (hero packshot) với hiệu ứng bắn tung thực phẩm vàng óng đầy kịch tính
+
+MỖI KHUNG HÌNH:
+• Số thứ tự cảnh
+• Huy hiệu thời lượng
+• Hướng máy quay
+• Hình ảnh
+• Hành động
+• Chi tiết sản phẩm
+
+CAMERA:
+Cận cảnh cực đại, nhiếp ảnh thực phẩm tốc độ cao, quay chậm cảnh chiên rán, chuyển động đẩy vào (push-in) có kiểm soát, bố cục từ trên cao, khung hình điện ảnh tập trung vào sản phẩm.
+
+PHONG CÁCH:
+Quảng cáo thực phẩm siêu thực, kết cấu vàng giòn, bong bóng dầu chân thực, hạt hơi nước, bề mặt khoai tây chi tiết, ánh sáng studio kịch tính, bao bì cao cấp, độ phân giải 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561512848_5nclkc_HQTgrJUaIAAqZAA.jpg" width="600" alt="Storyboard quảng cáo thực phẩm khoai tây múi cau">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2091043191755878628)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2091043191755878628) | **Đã xuất bản:** Aug 22, 2026
 
 ---
 ### Video tua nhanh quá trình xây dựng đài quan sát trên vách đá
@@ -2857,131 +3007,13 @@ Nhạc nền: Dàn nhạc hybrid truyền cảm hứng với bộ gõ nhịp nh�
 **Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Đã xuất bản:** Jul 4, 2026
 
 ---
-### Quan sát tĩnh lặng tại Bảo tàng Nghệ thuật Đương đại
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh mô tả một người phụ nữ đang đi dạo trong bảo tàng nghệ thuật đương đại vắng vẻ, tập trung vào bầu không khí và một bức tranh trừu tượng cụ thể.
-
-#### 📝 Prompt
-
-```
-Một bảo tàng nghệ thuật đương đại vắng vẻ sau giờ đóng cửa. Người phụ nữ chậm rãi bước đi qua phòng trưng bày, chiêm ngưỡng những bức tranh khổng lồ. Cô dừng lại trước một tác phẩm nghệ thuật trừu tượng.
-
-Máy quay di chuyển quanh vai cô để lộ ra bức tranh. Cô chỉ đơn giản đứng đó thưởng thức tác phẩm. Không có gì khác xảy ra. Sự tĩnh lặng trở thành câu chuyện.
-
-Nhạc nền: Piano tối giản, dàn nhạc ambient.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073240590406635520/img/FMVlUeG8cRzaJMaD.jpg" width="600" alt="Quan sát tĩnh lặng tại Bảo tàng Nghệ thuật Đương đại">
-
-**[🎬 Xem video →](https://x.com/vireonixx/status/2073240652268323043)**
-
-**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2073240652268323043) | **Đã xuất bản:** Jul 4, 2026
-
----
-### Thẩm mỹ máy quay DV cổ điển tại Tokyo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chi tiết theo trình tự, được thiết kế để tái hiện thước phim từ máy quay DV gia đình đầu những năm 2000 tại một con hẻm ở Tokyo.
-
-#### 📝 Prompt
-
-```
-Chủ thể chính: một phụ nữ trẻ người Nhật, khoảng ngoài 20 tuổi, vẻ ngoài tự nhiên thường ngày, mặc áo cardigan len màu kem dáng rộng, áo phông màu xanh navy bạc màu, quần túi hộp màu be ống rộng, giày sneaker vải trắng, đeo vòng cổ bạc mảnh, tóc đen thẳng được kẹp lỏng bằng một chiếc kẹp tóc đồi mồi nhỏ. Kết cấu da chân thực, trang điểm tối giản, nụ cười dịu dàng e ấp, tính cách nhẹ nhàng nhưng tò mò. Duy trì sự nhất quán về danh tính, trang phục, kiểu tóc và ngoại hình trong suốt toàn bộ video.
-
-Địa điểm: Một con hẻm dân cư yên tĩnh, chân thực tại Tokyo vào một buổi sáng muộn có mưa nhẹ. Những con đường nhựa hẹp, những ngôi nhà san sát, ban công nhỏ, máng xối, xe đạp có bọc nhựa, chậu cây, ô dù để gần cửa ra vào, cột điện, dây điện chằng chịt, máy bán hàng tự động chỉ xuất hiện ở phía xa với các biển quảng cáo không rõ chữ, mặt đường ướt phản chiếu ánh sáng, cảm giác khu phố yên bình. Không có đám đông, không có hoạt động thương mại, không tập trung vào các biển hiệu hiện đại.
-
-Phong cách hình ảnh: Chủ nghĩa hiện thực tài liệu siêu thực. Hành động tự nhiên, chân thật. Chuyển động tự nhiên. Cảm giác về một lát cắt cuộc sống ngày mưa không kịch bản. Tính xác thực của môi trường mạnh mẽ. Chi tiết thực tế phong phú và chuyển động của con người đáng tin cậy.
-
-Phong cách máy quay: Thẩm mỹ máy quay DV gia đình đầu những năm 2000. Một người bạn đang quay lại những khoảnh khắc đời thường một cách ngẫu hứng. Rung lắc mạnh do cầm tay, khung hình không hoàn hảo, lấy nét tự động liên tục thay đổi, hiện tượng thở ống kính (lens breathing), độ phơi sáng thay đổi do phản chiếu từ bầu trời xám, thỉnh thoảng bị nhòe chuyển động, hiện tượng rolling shutter nhẹ, các lỗi nén kỹ thuật số tinh tế, màu sắc phai nhạt, độ tương phản mềm, nhiễu cảm biến nhẹ. Không có chống rung. Không có các chuyển động máy quay điện ảnh. Không có chỉnh màu hiện đại.
-
-00:00–00:02
-Bên ngoài lối vào một căn hộ nhỏ. Cô ấy bước ra, cầm một chiếc ô trong suốt, đưa tay kiểm tra mưa, rồi mỉm cười với máy quay. Tiêu điểm chuyển dịch nhẹ sang những giọt mưa trên ô.
-
-00:02–00:04
-Máy quay theo chân cô ấy dọc con hẻm ướt át. Cô ấy dừng lại để di chuyển một chậu cây nhỏ tránh xa chỗ nước nhỏ giọt. Khung hình nghiêng nhẹ khi người quay phim bước vòng qua vũng nước.
-
-00:04–00:06
-Cô ấy phát hiện một con hạc giấy bị mắc kẹt gần cống, nhặt nó lên và khẽ cười. Lấy nét tự động chuyển đổi giữa đôi bàn tay cô ấy và mặt đường ướt.
-
-00:06–00:08
-Bên cạnh một ban công hẹp, cô ấy giũ nước mưa trên ô và giúp chỉnh lại tấm bạt phủ xe đạp. Nước bắn nhẹ xuống mặt đất.
-
-00:08–00:10
-Cô ấy đứng dưới một mái hiên nhỏ với một lon cà phê nóng. Hơi nước mờ ảo trong không khí mưa lạnh. Máy quay bị hạ thấp quá mức, sau đó mới điều chỉnh lại.
-
-00:10–00:12
-Góc quay cận cảnh từ bên hông. Một người ngoài khung hình nói chào buổi sáng. Cô ấy quay lại, nâng nhẹ chiếc ô, mỉm cười và nói một cách tự nhiên: “Ohayou”. Máy quay bắt được nụ cười hơi muộn một chút.
-
-00:12–00:15
-Cô ấy chậm rãi bước đi dọc con hẻm mưa. Mặt đường ướt phản chiếu bóng dáng cô ấy. Cô ấy ngoái nhìn lại một lần, nở nụ cười nhẹ, rồi rẽ vào góc phố. Bản ghi đột ngột cắt sang màu đen khi cô ấy đang bước đi.
-
-Âm thanh: Chỉ có âm thanh môi trường tự nhiên, mưa nhẹ, tiếng chuông xe đạp từ xa, tiếng lốp xe lăn êm trên đường ướt, tiếng chim dưới mái hiên, tiếng vải ô chạm vào nhau, tiếng bước chân qua vũng nước.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072754525077692416/img/KwonLLl5-X6lSWYR.jpg" width="600" alt="Thẩm mỹ máy quay DV cổ điển tại Tokyo">
-
-**[🎬 Xem video →](https://x.com/PeshCreates/status/2072754584922005671)**
-
-**Tác giả:** [Pesh](https://x.com/PeshCreates) | **Nguồn:** [Link](https://x.com/PeshCreates/status/2072754584922005671) | **Đã xuất bản:** Jul 2, 2026
-
----
-### Video quay bằng máy quay phim tài liệu chân thực tại Lisbon
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết và có cấu trúc để tạo ra cảnh quay theo phong cách video gia đình đầu những năm 2000 đầy tự nhiên tại Lisbon bằng cách sử dụng Gemini Omni Flash.
-
-#### 📝 Prompt
-
-```
-Chủ thể chính: một phụ nữ trẻ người Bồ Đào Nha, độ tuổi đôi mươi, ngoại hình tự nhiên, đời thường, mặc áo ba lỗ ôm sát màu vàng nhạt, quần jean xanh cạp cao ống rộng, dép da nâu đã cũ, đeo khuyên tai vòng nhỏ bằng vàng, tóc màu hạt dẻ uốn lượn được búi thấp lộn xộn với vài lọn tóc xõa tự nhiên. Kết cấu da chân thực, có vài nốt tàn nhang, trang điểm tối giản, tính cách hoạt bát và thoải mái. Duy trì sự nhất quán về danh tính, trang phục, kiểu tóc và ngoại hình trong suốt toàn bộ video.
-
-Địa điểm: Một con phố trên đồi ở khu dân cư Lisbon đầy chân thực vào một buổi sáng muộn ấm áp. Những con hẻm lát đá cuội hẹp, mặt tiền căn hộ ốp gạch, ban công sắt nhỏ, quần áo phơi giữa các cửa sổ, những cánh cửa đã phai màu, chậu húng quế và hoa, những bậc thang dốc, xe tay ga cũ, những bức tường tràn ngập ánh nắng, không khí khu phố yên tĩnh. Không có đám đông du khách, không có cửa hàng, không có quảng cáo, không có quán cà phê.
-
-Phong cách hình ảnh: Chủ nghĩa hiện thực tài liệu siêu thực. Hành vi tự nhiên, chân thực. Ngôn ngữ cơ thể tự nhiên. Cảm giác về cuộc sống thường nhật không kịch bản. Tính chân thực của môi trường mạnh mẽ. Chi tiết thực tế phong phú và chuyển động của con người đáng tin cậy.
-
-Phong cách máy quay: Thẩm mỹ của máy quay phim DV tiêu dùng đầu những năm 2000. Một người bạn quay lại những khoảnh khắc đời thường một cách ngẫu hứng. Rung lắc mạnh do cầm tay, khung hình không hoàn hảo, lấy nét tự động liên tục thay đổi, ống kính thở, độ phơi sáng thay đổi giữa các mảng gạch nắng và bậc thang râm mát, thỉnh thoảng có nhòe chuyển động, hiệu ứng màn trập lăn tinh tế, nhiễu nén kỹ thuật số nhẹ, màu sắc phai nhạt, độ tương phản mềm mại, nhiễu cảm biến nhẹ. Không chống rung. Không có các chuyển động máy quay điện ảnh. Không chỉnh màu hiện đại.
-
-00:00–00:02
-Cô ấy nghiêng người qua ban công nhỏ để tưới cây húng quế. Vài giọt nước rơi xuống con phố bên dưới. Cô ấy nhận ra máy quay và làm vẻ mặt ngượng ngùng đầy tinh nghịch.
-
-00:02–00:04
-Máy quay theo chân cô ấy khi cô ấy đi xuống cầu thang ra con đường lát đá cuội. Cô ấy xách một chiếc giỏ đan nhỏ và kiểm tra quần áo đang phơi bên ngoài cửa sổ.
-
-00:04–00:06
-Cô ấy thấy một chiếc tất rơi trên bậc thang, cười lớn và kẹp nó trở lại dây phơi. Lấy nét tự động chuyển đổi giữa khuôn mặt cô ấy và kẹp quần áo.
-
-00:06–00:08
-Trên một cầu thang dốc trong khu dân cư, cô ấy dừng lại để chào một người hàng xóm lớn tuổi không xuất hiện trong khung hình. Ngôn ngữ cơ thể của cô ấy rất tự nhiên và thân thuộc. Máy quay đặt cô ấy hơi lệch về phía bên trái quá mức.
-
-00:08–00:10
-Cô ấy ngồi trên một bậc đá thấp với một tách espresso nhỏ. Ánh nắng lung linh trên những viên gạch có hoa văn phía sau cô ấy. Độ phơi sáng nhấp nháy khi máy quay hướng lên trên.
-
-00:10–00:12
-Góc quay cận cảnh từ bên cạnh. Một người ngoài khung hình trêu chọc cô ấy một cách nhẹ nhàng. Cô ấy quay lại, cười tươi và nói một cách tự nhiên: “Bom dia.” Máy quay bắt được tiếng cười nhẹ sau khi cô ấy nói xong.
-
-Âm thanh: Chỉ có âm thanh môi trường tự nhiên, tiếng xe tay ga từ xa, tiếng chim bồ câu, tiếng bước chân trên đá cuội, tiếng vải chuyển động trên dây, tiếng trò chuyện nhẹ nhàng trong khu phố, tiếng nước nhỏ giọt từ cây, gió nhẹ. Không có âm nhạc. Không có thiết kế âm thanh. Không có lời dẫn.
-
-Mục tiêu: Cuộc sống khu dân cư Lisbon chân thực được ghi lại như một video gia đình từ đầu những năm 2000 đã bị lãng quên, tự nhiên, không hoàn hảo, ấm áp và vô cùng đáng tin cậy.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072753893600038912/img/BngLHIuefeWAWkk_.jpg" width="600" alt="Video quay bằng máy quay phim tài liệu chân thực tại Lisbon">
-
-**[🎬 Xem video →](https://x.com/PeshCreates/status/2072754211847078137)**
-
-**Tác giả:** [Pesh](https://x.com/PeshCreates) | **Nguồn:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Đã xuất bản:** Jul 2, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 84 prompt khác không hiển thị ở đây
+### 🎯 87 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3027,6 +3059,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-24T08:45:20.613Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-24T12:45:59.053Z</sub>
 
 </div>

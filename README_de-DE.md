@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **184** |
+| 📝 Gesamtanzahl Prompts | **187** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-24** |
 
@@ -56,6 +56,93 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Unboxing- und Installationsvideo eines Wandheizgeräts
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter 10-sekündiger Video-Prompt, der das Auspacken und die Installation eines kompakten Wandheizgeräts zeigt, mit Fokus auf Makro-Cinematografie und realistischen Texturen.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 10-sekündiges vertikales 9:16 ultra-realistisches cineastisches Produktvideo, das das Auspacken und die Installation eines kleinen, kompakten elektronischen Wandheizgeräts bzw. Temperaturregelgeräts zeigt.
+
+Szene 1 (0–2s): Nahaufnahme realistischer menschlicher Hände, die eine kleine Verkaufsverpackung aus Pappe öffnen, in der sich ein Miniatur-Wandheizgerät in Weiß befindet. Warmer, gemütlicher Innenraum, Holztisch, sanfte Umgebungsbeleuchtung, geringe Schärfentiefe.
+
+Szene 2 (2–4s): Die Hände nehmen das winzige weiße Gerät vorsichtig aus der geformten Kunststoffverpackung. Makro-Produkt-Cinematografie, realistische Kunststofftexturen, gestochen scharfe Details, natürliche Handbewegungen.
+
+Szene 3 (4–5,5s): Nahaufnahme von hinten, während ein kleiner Schraubendreher verwendet wird, um eine Komponente auf der Rückseite des Geräts anzupassen/zu installieren. Präzise Handbewegungen, befriedigende mechanische Details.
+
+Szene 4 (5,5–7,5s): Das Gerät wird an einer Wand mit dezenter Blumentapete montiert. Ein kleiner schwarzer Stromanschluss/Kabel wird seitlich eingesteckt.
+
+Szene 5 (7,5–10s): Extreme Nahaufnahme eines Fingers, der die Steuertaste drückt. Das digitale Display leuchtet auf und zeigt die Temperatur an, dann fährt die Kamera langsam zurück, um das kompakte Heizgerät im Betrieb an der Wand zu zeigen.
+
+Stil: fotorealistisch, Makro-Cinematografie, Miniatur-Produktwelt, gemütliches Wohninterieur, warmes natürliches Licht, realistische Schatten, geringe Schärfentiefe, flüssige Handkameraführung, hochdetaillierte Texturen, befriedigendes ASMR-artiges Auspacken und Installieren, subtile cineastische Fokusübergänge, erstklassige Werbequalität.
+
+Wichtig: Bewahre realistische Proportionen, natürliche menschliche Finger, glaubwürdige Physik und mechanische Interaktion. Keine zusätzlichen Objekte, keine verzerrten Hände, keine Texteinblendungen, kein Wasserzeichen. Vertikale 9:16-Komposition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091726747259850752/img/VjrE2LBiqevBkxJk.jpg" width="600" alt="Unboxing- und Installationsvideo eines Wandheizgeräts">
+
+**[🎬 Video ansehen →](https://x.com/AiwithBloodline/status/2091726827501019507)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Quelle:** [Link](https://x.com/AiwithBloodline/status/2091726827501019507) | **Veröffentlicht:** Aug 24, 2026
+
+---
+### Storyboard für die Verwandlung einer Kartoffel in Chips
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein 8-teiliger Storyboard-Prompt für einen Fast-Food-Werbespot, der die filmische Verwandlung einer rohen Kartoffel in gewürzte, goldgelbe und knusprige Chips einfängt.
+
+#### 📝 Prompt
+
+```
+Erstelle einen 10-sekündigen vertikalen 9:16 Premium-Fast-Food-TV-Spot, ultra-realistisch in 8K, filmische Food-Fotografie, keine sichtbaren Personen, Hände nur wenn nötig. Dieselbe Kartoffel wird durch den gesamten Transformationsprozess begleitet.
+
+KONZEPT: „VON DER KARTOFFEL → ZUM GOLDENEN CRUNCH“
+ROH → SCHNITT → WÜRZEN → FRITTIEREN → GOLDEN → KNUSPRIG → HERO
+
+01 | 0–1,2s — ROH
+Eine frische ganze Kartoffel rollt auf eine dunkle Steinoberfläche, natürliche Schalenstruktur und Feuchtigkeit sind sichtbar. 100mm Makro, schneller Push-in.
+
+02 | 1,2–2,4s — SCHNITT
+Die Kartoffel verwandelt sich rasant in perfekt dünne Scheiben, ein Messer schneidet mit realistischer Textur hindurch. 85mm Makro, dynamisches Tracking.
+
+03 | 2,4–3,6s — WÜRZEN
+Feines Gewürz regnet über die Kartoffelscheiben, Partikel schweben dramatisch im warmen Licht. 100mm Makro, Zeitlupe.
+
+04 | 3,6–5s — FRITTIEREN
+Gewürzte Scheiben fallen in heißes Öl, explosive Blasen umgeben sie, Dampf und Tropfen in High-Speed-Zeitlupe eingefangen. 50mm Makro.
+
+05 | 5–6,3s — GOLDEN
+Blasse Kartoffelscheiben verwandeln sich in satte, goldene, knusprige Chips, sprudelnde Ränder und winzige Blasenstrukturen sind sichtbar. 100mm Makro, rotierender Match-Cut.
+
+06 | 6,3–7,5s — KNUSPRIG
+Ein frischer Chip wird aus der Fritteuse gehoben, Öltropfen fallen herab, eine Kante bricht natürlich auf und enthüllt dünne, knusprige Schichten. 100mm Makro, Zeitlupen-Pull-up.
+
+07 | 7,5–9s — HERO
+Ein Haufen goldener, knuspriger Chips landet in einer Premium-Schale, Krümel fallen natürlich darum herum. Sanfter Dolly-in, geringe Schärfentiefe.
+
+08 | 9–10s — PACKSHOT
+Premium-Chips-Schale zentriert vor dunklem, filmischem Hintergrund, warmes goldenes Kantenlicht, knusprige Textur dominiert den Bildausschnitt. Text: „VON DER KARTOFFEL → ZUM CRUNCH.“
+
+KAMERA: Makro, High-Speed, Push-in, Tracking, Rack-Fokus, Zeitlupe, Match-Cuts, sanfter Dolly.
+
+STIL: Premium-Werbespot für globale Snacks, warme goldene Beleuchtung, satte Schatten, realistische Kartoffeltextur, Gewürzpartikel, Ölblasen, Dampf, ultra-knusprige Oberfläche.
+
+NEGATIV: Keine Gesichter, Restaurant, CGI-aussehendes Essen, verbrannte Chips, übermäßiges Öl, unmögliche Physik, schwebendes Essen, verzerrte Kartoffeln, doppelte Objekte, deformierte Verpackung, falsches Branding, unscharfes Essen.
+
+OUTPUT: Ein professionelles 8-teiliges 9:16 Storyboard-Blatt, das die nahtlose Verwandlung von der rohen Kartoffel zu unwiderstehlich knusprigen Chips zeigt.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561511577_lu2pmh_HQZngPQaQAA6fZT.jpg" width="600" alt="Storyboard für die Verwandlung einer Kartoffel in Chips">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2091472894727712866)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2091472894727712866) | **Veröffentlicht:** Aug 23, 2026
+
+---
 ### Zeitraffer-Bau eines Traumhauses
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -85,6 +172,69 @@ Stimmung & Ästhetik: Hyperrealistische, befriedigende Transformation von einem 
 **[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2091406362668638422)**
 
 **Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Veröffentlicht:** Aug 23, 2026
+
+---
+### Storyboard für einen Werbespot für Kartoffelspalten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Storyboard-Prompt für einen hochwertigen Lebensmittel-Werbespot mit knusprigen Kartoffelspalten, filmischen Kamerabewegungen und Gourmet-Beleuchtung.
+
+#### 📝 Prompt
+
+```
+TITEL:
+Storyboard für einen Premium-Werbespot für knusprige Kartoffelspalten
+
+FORMAT:
+• Einseitiges Premium-Storyboard
+• 3:4 Hochformat
+• Gourmet-Lebensmittelkampagne
+• 8 filmische Storyboard-Szenen
+• Das Produkt bleibt der visuelle Hauptdarsteller
+• Präsentation für Premium-Werbeagenturen
+
+HEADER:
+• Fette, luxuriöse Typografie
+• Informationskarten:
+  - Dauer: 20 Sekunden
+  - Stil: Filmischer Lebensmittel-Werbespot
+  - Produkt: Knusprige Kartoffelspalten
+  - Audio: Brutzeln + knuspriges ASMR
+• Bereich „Warum dieser Stil funktioniert“
+• Ästhetik in warmem Creme, Goldgelb und Dunkelbraun
+• Minimale dekorative Elemente zum Thema Lebensmittel
+
+STORYBOARD:
+1. Premium-Verpackung für gefrorene Kartoffelspalten auf einer sauberen, dunklen Oberfläche
+2. Öffnen der Verpackung, wobei die goldenen Kartoffelspalten sichtbar werden
+3. Kartoffelspalten fallen in Zeitlupe in heißes Öl
+4. Extreme Makroaufnahme der sprudelnden, knusprigen Kruste
+5. Goldene Spalten kommen dampfend aus der Fritteuse
+6. Eine Spalte wird aufgebrochen und offenbart ein weiches, fluffiges Inneres
+7. Knusprige Spalten neben der Original-Produktverpackung angerichtet
+8. Abschließendes Helden-Packshot mit dramatischem goldenen Food-Splash
+
+JEDES PANEL:
+• Szenennummer
+• Dauer-Badge
+• Kameraanweisung
+• Visualisierung
+• Aktion
+• Produktdetail
+
+KAMERA:
+Extreme Makroaufnahme, High-Speed-Food-Fotografie, Zeitlupen-Frittieren, kontrollierter Push-in, Overhead-Komposition, filmische Helden-Einstellung.
+
+STIL:
+Ultrarealistischer Lebensmittel-Werbespot, knusprige goldene Textur, realistische Ölblasen, Dampfpartikel, detaillierte Kartoffeloberfläche, dramatische Studiobeleuchtung, Premium-Verpackung, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561512848_5nclkc_HQTgrJUaIAAqZAA.jpg" width="600" alt="Storyboard für einen Werbespot für Kartoffelspalten">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2091043191755878628)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2091043191755878628) | **Veröffentlicht:** Aug 22, 2026
 
 ---
 ### Zeitraffer vom Bau einer Aussichtsplattform an einer Klippe
@@ -2907,131 +3057,13 @@ Hintergrundmusik: Inspirierendes Hybrid-Orchester mit rhythmischer Perkussion, r
 **Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Veröffentlicht:** Jul 4, 2026
 
 ---
-### Stille Beobachtung im Museum für zeitgenössische Kunst
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmischer Video-Prompt, der eine Frau beschreibt, die durch ein leeres Museum für zeitgenössische Kunst geht, mit Fokus auf die Atmosphäre und ein spezifisches abstraktes Gemälde.
-
-#### 📝 Prompt
-
-```
-Ein leeres Museum für zeitgenössische Kunst nach den Öffnungszeiten. Die Frau geht langsam durch die Galerie und bewundert die riesigen Gemälde. Sie bleibt vor einem abstrakten Kunstwerk stehen.
-
-Die Kamera bewegt sich um ihre Schulter, um das Gemälde zu enthüllen. Sie steht einfach nur da und betrachtet es. Nichts weiter geschieht. Die Stille wird zur Geschichte.
-
-Hintergrundmusik: Minimalistisches Klavier, Ambient-Orchester.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073240590406635520/img/FMVlUeG8cRzaJMaD.jpg" width="600" alt="Stille Beobachtung im Museum für zeitgenössische Kunst">
-
-**[🎬 Video ansehen →](https://x.com/vireonixx/status/2073240652268323043)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2073240652268323043) | **Veröffentlicht:** Jul 4, 2026
-
----
-### Vintage Tokyo DV-Camcorder-Ästhetik
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, sequenzbasierter Prompt, der entwickelt wurde, um die Aufnahmen einer DV-Camcorder-Kamera aus den frühen 2000er Jahren in einer Seitenstraße von Tokio zu replizieren.
-
-#### 📝 Prompt
-
-```
-Hauptmotiv: junge Japanerin, Anfang 20, natürliches Alltagserscheinungsbild, übergroße cremefarbene Strickjacke, verwaschenes marineblaues T-Shirt, lockere beige Cargohose, weiße Canvas-Sneaker, dünne Silberkette, glattes schwarzes Haar, das locker mit einer kleinen Schildpatt-Haarklammer hochgesteckt ist. Realistische Hauttextur, minimales Make-up, ruhiges, schüchternes Lächeln, sanfte, aber neugierige Persönlichkeit. Behalten Sie Identität, Kleidung, Frisur und Aussehen während des gesamten Videos konsistent bei.
-
-Ort: Authentische, ruhige Wohnstraße in Tokio während eines leichten Vormittagsregens. Enge Asphaltgassen, kompakte Häuser, kleine Balkone, Regenrinnen, Fahrräder mit Kunststoffabdeckungen, Topfpflanzen, Regenschirme an Hauseingängen, Strommasten, Oberleitungen, Verkaufsautomaten nur weit im Hintergrund ohne lesbare Werbung, Reflexionen auf nassem Asphalt, friedliche Nachbarschaftsatmosphäre. Keine Menschenmengen, keine kommerziellen Aktivitäten, kein Fokus auf moderne Beschilderung.
-
-Visueller Stil: Ultra-realistischer Dokumentarfilm-Stil. Echtes, ungezwungenes Verhalten. Natürliche Bewegungen. Ungeplantes „Slice-of-Life“-Gefühl an einem Regentag. Starke atmosphärische Authentizität. Reiche, reale Details und glaubwürdige menschliche Bewegungen.
-
-Kamerastil: Ästhetik eines DV-Camcorders für Endverbraucher aus den frühen 2000er Jahren. Ein Freund nimmt beiläufig alltägliche Momente auf. Starkes Handkamera-Wackeln, unperfekte Bildkomposition, häufiges Nachjustieren des Autofokus, Lens Breathing, Belichtungsschwankungen durch Reflexionen des grauen Himmels, gelegentliche Bewegungsunschärfe, subtiler Rolling-Shutter-Effekt, leichte digitale Kompressionsartefakte, verblasste Farben, weicher Kontrast, leichtes Sensorrauschen. Keine Stabilisierung. Keine filmischen Kamerabewegungen. Kein modernes Color Grading.
-
-00:00–00:02
-Vor einem kleinen Wohnungseingang. Sie tritt mit einem transparenten Regenschirm heraus, prüft den Regen mit ihrer Handfläche und lächelt dann in die Kamera. Der Fokus wandert kurz zu den Regentropfen auf dem Schirm.
-
-00:02–00:04
-Die Kamera folgt ihr die nasse Gasse entlang. Sie hält an, um eine kleine Topfpflanze vor dem herabtropfenden Wasser wegzustellen. Der Bildausschnitt neigt sich leicht, während der Kameramann um eine Pfütze herumgeht.
-
-00:04–00:06
-Sie bemerkt einen Papierkranich, der in der Nähe eines Abflusses hängengeblieben ist, hebt ihn auf und lacht leise. Der Autofokus wechselt zwischen ihren Händen und dem nassen Asphalt.
-
-00:06–00:08
-Neben einem schmalen Balkon schüttelt sie den Regen vom Schirm und hilft, eine Fahrradabdeckung gerade zu rücken. Wasser spritzt sanft auf den Boden.
-
-00:08–00:10
-Sie steht unter einem kleinen Vordach mit einem Dosenkaffee. Im kühlen Regen ist der Dampf nur schwach zu sehen. Die Kamera wandert zu tief und korrigiert dies erst spät.
-
-00:10–00:12
-Nahe Seitenansicht. Jemand außerhalb des Bildes sagt guten Morgen. Sie dreht sich um, hebt leicht ihren Regenschirm, lächelt und sagt beiläufig: „Ohayou.“ Die Kamera fängt das Lächeln etwas verzögert ein.
-
-00:12–00:15
-Sie geht langsam die regnerische Gasse entlang. Der nasse Asphalt spiegelt ihre Silhouette wider. Sie blickt einmal zurück, grinst kurz und biegt dann um die Ecke. Die Aufnahme bricht mitten im Schritt abrupt ab und wird schwarz.
-
-Audio: Nur natürliche Umgebungsgeräusche, leichter Regen, eine entfernte Fahrradklingel, leise Reifengeräusche auf nasser Straße, Vögel unter Dachvorsprüngen, das Klopfen auf dem Schirmstoff, Schritte durch Pfützen
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072754525077692416/img/KwonLLl5-X6lSWYR.jpg" width="600" alt="Vintage Tokyo DV-Camcorder-Ästhetik">
-
-**[🎬 Video ansehen →](https://x.com/PeshCreates/status/2072754584922005671)**
-
-**Autor:** [Pesh](https://x.com/PeshCreates) | **Quelle:** [Link](https://x.com/PeshCreates/status/2072754584922005671) | **Veröffentlicht:** Jul 2, 2026
-
----
-### Authentisches Lissabon-Dokumentarvideo im Camcorder-Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, strukturierter Prompt zur Erstellung einer authentischen Szene im Stil eines Home-Videos der frühen 2000er Jahre in Lissabon mit Gemini Omni Flash.
-
-#### 📝 Prompt
-
-```
-Hauptmotiv: junge Portugiesin, Mitte 20, natürliches Alltagserscheinungsbild, blassgelbes, eng anliegendes Tanktop, lockere blaue Jeans mit hoher Taille, abgenutzte braune Ledersandalen, kleine goldene Creolen, welliges kastanienbraunes Haar, das zu einem unordentlichen, tiefen Dutt mit losen Strähnen gebunden ist. Realistische Hautstruktur, leichte Sommersprossen, minimales Make-up, lebhafte und entspannte Persönlichkeit. Behalten Sie Identität, Kleidung, Frisur und Aussehen während des gesamten Videos konsistent bei.
-
-Ort: Authentische Wohnstraße am Hang in Lissabon an einem warmen Vormittag. Enge Kopfsteinpflastergassen, geflieste Häuserfronten, kleine eiserne Balkone, zwischen den Fenstern hängende Wäsche, verblasste Türen, Basilikumtöpfe und Blumen, steile Stufen, alte Motorroller, sonnenbeschienene Mauern, ruhige Nachbarschaftsatmosphäre. Keine Touristenmassen, keine Geschäfte, keine Werbung, keine Cafés.
-
-Visueller Stil: Ultra-realistischer Dokumentarfilm-Stil. Echtes, ungezwungenes Verhalten. Natürliche Körpersprache. Uninszeniertes „Slice-of-Life“-Gefühl. Starke atmosphärische Authentizität. Reiche, reale Details und glaubwürdige menschliche Bewegungen.
-
-Kamerastil: Ästhetik eines DV-Camcorders für Endverbraucher aus den frühen 2000ern. Ein Freund filmt beiläufig alltägliche Momente. Starke Handkamera-Verwacklungen, unperfekte Bildkomposition, häufiges Nachjustieren des Autofokus, Lens Breathing, Belichtungsschwankungen zwischen sonnenbeschienenen Fliesen und schattigen Stufen, gelegentliche Bewegungsunschärfe, subtiler Rolling-Shutter-Effekt, leichte digitale Kompressionsartefakte, verblasste Farben, weicher Kontrast, leichtes Sensorrauschen. Keine Stabilisierung. Keine filmischen Kamerabewegungen. Kein modernes Color Grading.
-
-00:00–00:02
-Sie lehnt sich über einen kleinen Balkon und gießt Basilikumpflanzen. Ein paar Tropfen fallen auf die Straße darunter. Sie bemerkt die Kamera und zieht ein verspieltes, verlegenes Gesicht.
-
-00:02–00:04
-Die Kamera folgt ihr, als sie die Treppe hinunter auf die Kopfsteinpflastergasse geht. Sie trägt einen kleinen geflochtenen Korb und kontrolliert die Wäsche, die vor einem Fenster aufgehängt ist.
-
-00:04–00:06
-Sie findet eine Socke, die auf die Stufen gefallen ist, lacht und steckt sie wieder an die Wäscheleine. Der Autofokus wechselt zwischen ihrem Gesicht und den Wäscheklammern.
-
-00:06–00:08
-Auf einer steilen Treppe im Wohnviertel hält sie inne, um einen älteren Nachbarn außerhalb des Bildes zu grüßen. Ihre Körpersprache ist lässig und vertraut. Die Kamera rahmt sie etwas zu weit links ein.
-
-00:08–00:10
-Sie sitzt mit einer kleinen Espressotasse auf einer niedrigen Steinstufe. Sonnenlicht flackert über die gemusterten Fliesen hinter ihr. Die Belichtung pulsiert, während die Kamera nach oben schwenkt.
-
-00:10–00:12
-Nahe Seitenansicht. Jemand außerhalb des Bildes neckt sie sanft. Sie dreht sich um, lächelt breit und sagt beiläufig: „Bom dia.“ Die Kamera fängt ein leises Lachen nach den Worten ein.
-
-Audio: Nur natürliche Umgebungsgeräusche, entfernte Motorroller, Tauben, Schritte auf Kopfsteinpflaster, sich bewegende Wäsche auf Leinen, leise Stimmen aus der Nachbarschaft, von Pflanzen tropfendes Wasser, leichter Wind. Keine Musik. Kein Sounddesign. Kein Kommentar.
-
-Ziel: Authentisches Lissabonner Wohnleben, eingefangen wie ein vergessenes Home-Video aus den frühen 2000ern – ungezwungen, unperfekt, warm und zutiefst glaubwürdig.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072753893600038912/img/BngLHIuefeWAWkk_.jpg" width="600" alt="Authentisches Lissabon-Dokumentarvideo im Camcorder-Stil">
-
-**[🎬 Video ansehen →](https://x.com/PeshCreates/status/2072754211847078137)**
-
-**Autor:** [Pesh](https://x.com/PeshCreates) | **Quelle:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Veröffentlicht:** Jul 2, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 84 weitere Prompts hier nicht angezeigt
+### 🎯 87 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3077,6 +3109,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-24T08:45:24.497Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-24T12:46:04.405Z</sub>
 
 </div>

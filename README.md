@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **184** |
+| 📝 Total Prompts | **187** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-24** |
 
@@ -56,11 +56,98 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Construction Timelapse Dream Home
+### Wall Heater Unboxing and Installation Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed cinematic prompt for a continuous construction timelapse, showing a home build from excavation to completion with dynamic lighting.
+> A detailed 10-second video prompt showing the unboxing and installation of a compact wall heater, emphasizing macro cinematography and realistic textures.
+
+#### 📝 Prompt
+
+```
+Create a 10-second vertical 9:16 ultra-realistic cinematic product video showing a tiny compact wall-mounted electronic heater/temperature-control device being unboxed and installed.
+
+Scene 1 (0–2s): Close-up of realistic human hands opening a small retail cardboard package containing a miniature white electronic wall heater. Warm cozy indoor room, wooden table, soft ambient lighting, shallow depth of field.
+
+Scene 2 (2–4s): The hands carefully remove the tiny white device from its molded plastic packaging. Macro product cinematography, realistic plastic textures, crisp details, natural hand movements.
+
+Scene 3 (4–5.5s): Close-up from the rear as a small screwdriver is used to adjust/install a component on the back of the device. Precise hand movements, satisfying mechanical detail.
+
+Scene 4 (5.5–7.5s): The device is mounted onto a wall with subtle floral wallpaper. A small black power connector/cable is plugged into the side.
+
+Scene 5 (7.5–10s): Extreme close-up of a finger pressing the control button. The digital display lights up showing the temperature, then the camera slowly pulls back to reveal the compact heater operating on the wall.
+
+Style: photorealistic, macro cinematography, miniature product world, cozy home interior, warm natural lighting, realistic shadows, shallow depth of field, smooth handheld camera movement, highly detailed textures, satisfying ASMR-style unboxing and installation, subtle cinematic focus transitions, premium commercial advertisement quality.
+
+Important: Preserve realistic proportions, natural human fingers, believable physics and mechanical interaction. No extra objects, no distorted hands, no text overlays, no watermark. Vertical 9:16 composition.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091726747259850752/img/VjrE2LBiqevBkxJk.jpg" width="600" alt="Wall Heater Unboxing and Installation Video">
+
+**[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2091726827501019507)**
+
+**Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2091726827501019507) | **Published:** Aug 24, 2026
+
+---
+### Potato Chip Transformation Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An 8-panel storyboard prompt for a fast-food commercial that captures the cinematic transformation of a raw potato into seasoned golden crispy chips.
+
+#### 📝 Prompt
+
+```
+Create a 10s vertical 9:16 premium fast-food TVC, ultra-realistic 8K, cinematic food photography, no visible people, hands only when necessary. Same potato followed through transformation.
+
+CONCEPT: “FROM POTATO → TO GOLDEN CRUNCH”
+RAW → SLICE → SEASON → FRY → GOLDEN → CRISP → HERO
+
+01 | 0–1.2s — RAW
+Fresh whole potato rolls onto dark stone surface, natural skin texture and moisture visible. 100mm macro, fast push-in.
+
+02 | 1.2–2.4s — SLICE
+Potato rapidly transforms into perfectly thin slices, knife cutting through with realistic texture. 85mm macro, dynamic tracking.
+
+03 | 2.4–3.6s — SEASON
+Fine seasoning rains over potato slices, particles suspended dramatically in warm light. 100mm macro, slow motion.
+
+04 | 3.6–5s — FRY
+Seasoned slices drop into hot oil, explosive bubbles surround them, steam and droplets captured in high-speed slow motion. 50mm macro.
+
+05 | 5–6.3s — GOLDEN
+Pale potato slices transform into rich golden crispy chips, bubbling edges and tiny blistered textures visible. 100mm macro, rotating match cut.
+
+06 | 6.3–7.5s — CRISP
+Fresh chip lifted from fryer, oil droplets falling, one edge cracks naturally revealing thin crunchy layers. 100mm macro, slow-motion pull-up.
+
+07 | 7.5–9s — HERO
+Pile of golden crispy chips lands into a premium bowl, crumbs falling naturally around it. Smooth dolly-in, shallow depth of field.
+
+08 | 9–10s — PACKSHOT
+Premium branded chips bowl centered against dark cinematic background, warm golden rim light, crisp texture dominating frame. Text: “FROM POTATO → TO CRUNCH.”
+
+CAMERA: Macro, high-speed, push-in, tracking, rack focus, slow motion, match cuts, smooth dolly.
+
+STYLE: Premium global snack-food commercial, warm golden lighting, rich shadows, realistic potato texture, seasoning particles, oil bubbles, steam, ultra-crispy surface.
+
+NEGATIVE: No faces, restaurant, CGI-looking food, burnt chips, excessive oil, impossible physics, floating food, distorted potatoes, duplicate objects, deformed packaging, wrong branding, blurry food.
+
+OUTPUT: One professional 8-panel 9:16 storyboard sheet showing seamless transformation from raw potato to irresistible crispy chips.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561511577_lu2pmh_HQZngPQaQAA6fZT.jpg" width="600" alt="Potato Chip Transformation Storyboard">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2091472894727712866)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2091472894727712866) | **Published:** Aug 23, 2026
+
+---
+### Suburban House Construction Timelapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A construction timelapse prompt for a modern suburban home, using a continuous orbiting camera shot to capture the build from foundation to completion.
 
 #### 📝 Prompt
 
@@ -80,11 +167,74 @@ Camera: continuous dynamic elevated timelapse — starts high and wide, slowly o
 Mood & aesthetics: Hyper-realistic satisfying transformation from empty dirt plot into a bright contemporary suburban dream home.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091406268867256320/img/b17yWZ3IgxbGts7v.jpg" width="600" alt="Construction Timelapse Dream Home">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091406268867256320/img/b17yWZ3IgxbGts7v.jpg" width="600" alt="Suburban House Construction Timelapse">
 
 **[🎬 Watch Video →](https://x.com/MrDasOnX/status/2091406362668638422)**
 
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091406362668638422) | **Published:** Aug 23, 2026
+
+---
+### Potato Wedges Food Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed storyboard prompt for a high-end food commercial featuring crispy potato wedges, cinematic camera movements, and gourmet lighting.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Premium Crispy Potato Wedges Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Gourmet food product campaign
+• 8 cinematic storyboard scenes
+• Product remains the main visual hero
+• Premium advertising agency presentation
+
+HEADER:
+• Bold luxury typography
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: Cinematic Food Commercial
+  - Product: Crispy Potato Wedges
+  - Audio: Frying + Crispy ASMR
+• Why This Style Works section
+• Warm cream, golden yellow and dark brown aesthetic
+• Minimal food-themed decorative elements
+
+STORYBOARD:
+1. Premium frozen potato wedges package standing on a clean dark surface
+2. Package opening with golden potato wedges visible
+3. Potato wedges dropping into hot oil in slow motion
+4. Extreme macro shot of bubbling crispy coating
+5. Golden wedges emerging from the fryer with steam
+6. One wedge breaking open to reveal a soft fluffy center
+7. Crispy wedges arranged beside the original product package
+8. Final hero packshot with dramatic golden food splash
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, high-speed food photography, slow-motion frying, controlled push-in, overhead composition, cinematic hero framing.
+
+STYLE:
+Ultra-realistic food commercial, crispy golden texture, realistic oil bubbles, steam particles, detailed potato surface, dramatic studio lighting, premium packaging, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787561512848_5nclkc_HQTgrJUaIAAqZAA.jpg" width="600" alt="Potato Wedges Food Commercial Storyboard">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2091043191755878628)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2091043191755878628) | **Published:** Aug 22, 2026
 
 ---
 ### Cliffside Observation Deck Time-lapse
@@ -2996,131 +3146,13 @@ Background music: Inspiring hybrid orchestra with rhythmic percussion, realistic
 **Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Published:** Jul 4, 2026
 
 ---
-### Contemporary Art Museum Silent Observation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing a woman walking through an empty contemporary art museum, focusing on the atmosphere and a specific abstract painting.
-
-#### 📝 Prompt
-
-```
-An empty contemporary art museum after closing hours.The woman walks slowly through the gallery admiring enormous paintings. She stops before one abstract artwork.
-
-The camera moves around her shoulder to reveal the painting. She simply stands there appreciating it. Nothing else happens. The silence becomes the story.
-
-Background music: Minimal piano, ambient orchestra.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073240590406635520/img/FMVlUeG8cRzaJMaD.jpg" width="600" alt="Contemporary Art Museum Silent Observation">
-
-**[🎬 Watch Video →](https://x.com/vireonixx/status/2073240652268323043)**
-
-**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2073240652268323043) | **Published:** Jul 4, 2026
-
----
-### Vintage Tokyo DV Camcorder Aesthetic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed, sequence-based prompt designed to replicate early-2000s consumer DV camcorder footage in a Tokyo backstreet.
-
-#### 📝 Prompt
-
-```
-Main subject: young Japanese woman, early 20s, natural everyday appearance, oversized cream knit cardigan, faded navy T-shirt, loose beige cargo pants, white canvas sneakers, thin silver necklace, straight black hair clipped loosely with a small tortoiseshell hair clip. Realistic skin texture, minimal makeup, calm shy smile, soft but curious personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
-
-Location: Authentic quiet Tokyo residential backstreet during a light late-morning rain. Narrow asphalt lanes, compact homes, small balconies, rain gutters, bicycles with plastic covers, potted plants, umbrellas near doorways, utility poles, overhead wires, vending machines only in the far background with no readable ads, wet pavement reflections, peaceful neighborhood feel. No crowds, no commercial activity, no modern signage focus.
-
-Visual Style: Ultra-realistic documentary realism. Genuine candid behavior. Natural movement. Unscripted rainy-day slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
-
-Camera Style: Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping from grey sky reflections, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
-
-00:00–00:02
-Outside a small apartment entrance. She steps out holding a clear umbrella, checks the rain with her palm, then smiles at the camera. Focus drifts briefly to raindrops on the umbrella.
-
-00:02–00:04
-The camera follows her down the wet lane. She stops to move a small potted plant away from dripping water. The frame tilts slightly as the camera operator steps around a puddle.
-
-00:04–00:06
-She notices a paper crane caught near a drain, picks it up, and laughs quietly. Autofocus shifts between her hands and the wet pavement.
-
-00:06–00:08
-Beside a narrow balcony, she shakes rain off the umbrella and helps straighten a bicycle cover. Water splashes softly onto the ground.
-
-00:08–00:10
-She stands under a small awning with a warm canned coffee. Steam is faint in the cool rain. The camera drifts too low, then corrects late.
-
-00:10–00:12
-Close side angle. Someone off-camera says good morning. She turns, raises her umbrella slightly, smiles, and casually says, “Ohayou.” The camera catches the smile slightly late.
-
-00:12–00:15
-She walks slowly away along the rainy lane. Wet pavement reflects her silhouette. She glances back once, gives a small grin, then turns the corner. Recording cuts abruptly to black mid-step.
-
-Audio: Natural ambient sound only, light rain, distant bicycle bell, soft tires on wet road, birds under eaves, umbrella fabric tapping, footsteps through puddles
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072754525077692416/img/KwonLLl5-X6lSWYR.jpg" width="600" alt="Vintage Tokyo DV Camcorder Aesthetic">
-
-**[🎬 Watch Video →](https://x.com/PeshCreates/status/2072754584922005671)**
-
-**Author:** [Pesh](https://x.com/PeshCreates) | **Source:** [Link](https://x.com/PeshCreates/status/2072754584922005671) | **Published:** Jul 2, 2026
-
----
-### Authentic Lisbon Documentary Camcorder Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed, structured prompt for generating a candid, early-2000s home video style scene in Lisbon using Gemini Omni Flash.
-
-#### 📝 Prompt
-
-```
-Main subject: young Portuguese woman, mid 20s, natural everyday appearance, pale yellow fitted tank top, loose high-waisted blue jeans, worn brown leather sandals, small gold hoop earrings, wavy chestnut hair tied in a messy low bun with loose strands. Realistic skin texture, light freckles, minimal makeup, lively and relaxed personality. Maintain consistent identity, clothing, hairstyle, and appearance throughout the entire video.
-
-Location: Authentic Lisbon residential hill street during warm late morning. Narrow cobblestone lanes, tiled apartment fronts, small iron balconies, laundry hanging between windows, faded doors, potted basil and flowers, steep steps, old scooters, sunlit walls, quiet neighborhood atmosphere. No tourist crowds, no shops, no advertisements, no cafés.
-
-Visual Style: Ultra-realistic documentary realism. Genuine candid behavior. Natural body language. Unscripted slice-of-life feeling. Strong environmental authenticity. Rich real-world details and believable human motion.
-
-Camera Style: Early-2000s consumer DV camcorder aesthetic. Friend casually recording everyday moments. Heavy handheld shake, imperfect framing, frequent autofocus hunting, lens breathing, exposure pumping between sunlit tile and shaded steps, occasional motion blur, subtle rolling shutter, mild digital compression artifacts, faded colors, soft contrast, slight sensor noise. No stabilization. No cinematic camera moves. No modern color grading.
-
-00:00–00:02
-She leans over a small balcony watering basil plants. A few drops fall onto the street below. She notices the camera and makes a playful embarrassed face.
-
-00:02–00:04
-The camera follows her as she comes downstairs onto the cobblestone lane. She carries a small woven basket and checks laundry pinned outside a window.
-
-00:04–00:06
-She finds a sock dropped on the steps, laughs, and pins it back to the clothesline. Autofocus shifts between her face and the laundry clips.
-
-00:06–00:08
-On a steep residential staircase, she pauses to greet an elderly neighbor off-camera. Her body language is casual and familiar. The camera frames her slightly too far left.
-
-00:08–00:10
-She sits on a low stone step with a small espresso cup. Sunlight flickers over patterned tiles behind her. Exposure pulses as the camera tilts upward.
-
-00:10–00:12
-Close side angle. Someone off-camera teases her gently. She turns, smiles wide, and casually says, “Bom dia.” The camera catches a soft laugh after the words.
-
-Audio: Natural ambient sound only, distant scooters, pigeons, footsteps on cobblestone, fabric moving on lines, soft neighborhood voices, water dripping from plants, light wind. No music. No sound design. No narration.
-
-Goal: Authentic Lisbon residential life captured like a forgotten early-2000s home video, candid, imperfect, warm, and deeply believable.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072753893600038912/img/BngLHIuefeWAWkk_.jpg" width="600" alt="Authentic Lisbon Documentary Camcorder Video">
-
-**[🎬 Watch Video →](https://x.com/PeshCreates/status/2072754211847078137)**
-
-**Author:** [Pesh](https://x.com/PeshCreates) | **Source:** [Link](https://x.com/PeshCreates/status/2072754211847078137) | **Published:** Jul 2, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 84 more prompts not shown here
+### 🎯 87 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3166,6 +3198,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T08:45:14.143Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-24T12:45:50.588Z</sub>
 
 </div>
