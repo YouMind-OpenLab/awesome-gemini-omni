@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **187** |
+| 📝 Toplam İstem | **190** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-25** |
 
@@ -56,6 +56,67 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Zanaatkar Ahşap İşçiliği Makro Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir zanaatkarın minyatür bir ahşap spor arabayı gerçekçi talaşlar ve dokularla oyduğu, hiper gerçekçi bir video oluşturan makro sinematografi istemi.
+
+#### 📝 İstem
+
+```
+Ahşap bir çalışma tezgahı üzerinde açık renkli ahşaptan detaylı bir lüks spor araba modeli el işçiliğiyle üreten yetenekli bir zanaatkarın hiper gerçekçi, sinematik makro videosunu oluşturun. Keskin bir hassas oyma aleti kullanarak ön kaputu ve ızgarayı dikkatlice oyan zanaatkarın aşırı yakın çekimiyle başlayın; karmaşık BMW esintili böbrek ızgara detaylarını ve gerçekçi LED farları ortaya çıkarın. Oyma işlemi ilerledikçe ince ahşap talaşlarının doğal bir şekilde döküldüğünü gösterin.
+
+Zanaatkarın koyu renkli karbon fiber tarzı arka spoyleri hassas bir şekilde takıp şekillendirdiği arka bölümün yakın çekimlerine geçiş yapın. Gerçekçi parmakları, doğal el hareketlerini, detaylı ahşap dokusunu, küçük kusurları ve otantik el yapımı dokuları gösterin.
+
+Sığ alan derinliği, sıcak atölye aydınlatması, yumuşak sinematik bokeh, gerçekçi gölgeler, makro fotoğrafçılık, pürüzsüz yavaş kamera hareketleri, yüksek detaylı malzemeler ve fotogerçekçi dokular kullanın. Minyatür arabanın video boyunca mükemmel bir şekilde tutarlı kalmasını sağlayın. Dikey 9:16 kompozisyon, birinci sınıf sinematik işçilik estetiği, 4K ultra gerçekçi kalite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100608182583296/img/rYkh9gFanEX3-YCV.jpg" width="600" alt="Zanaatkar Ahşap İşçiliği Makro Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2092100706618720656)**
+
+**Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2092100706618720656) | **Yayınlandı:** Aug 25, 2026
+
+---
+### Çiçek Bahçesinde Sinematik Kadın
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Çiçekli elbiseli bir kadının 10 saniyelik sinematik klibini oluşturmak için gerçekçi dokulara ve altın saat ışığına vurgu yapan, oldukça detaylı bir video istemi.
+
+#### 📝 İstem
+
+```
+Rüya gibi bir çiçek bahçesinde, güzel ve uçuşan pembe çiçekli bir elbise giymiş zarif bir yetişkin kadının 10 saniyelik sinematik estetik videosunu oluşturun. Yumuşak altın saat ışığı, elbisesini ve saçını hareket ettiren hafif bir esinti, etrafında sallanan narin çiçekler. Yavaşça kameraya doğru yürüyor, ardından çiçek yaprakları havada süzülürken zarif bir şekilde dönüyor. Pürüzsüz ağır çekim hareketi, sığ alan derinliği, yumuşak rüya gibi bokeh, romantik pastel atmosfer, gerçekçi cilt dokusu, sinematik kompozisyon, hafif lens parlaması, yüksek moda editoryal görünüm, ultra detaylı, doğal hareket, 4K, dikey 9:16. Video boyunca yüzünü ve kimliğini tutarlı tutun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092056158601371648/img/50t_niyRTjPbw8hB.jpg" width="600" alt="Çiçek Bahçesinde Sinematik Kadın">
+
+**[🎬 Videoyu izle →](https://x.com/HaniaAi12/status/2092056184757055583)**
+
+**Yazar:** [Hania Ai](https://x.com/HaniaAi12) | **Kaynak:** [Link](https://x.com/HaniaAi12/status/2092056184757055583) | **Yayınlandı:** Aug 25, 2026
+
+---
+### Anime Savaşçıları Çatışması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Savaşçılar, enerji izleri ve gerçekçi fizik efektleriyle dinamik sinematografiye sahip, aksiyon dolu bir anime tarzı istem.
+
+#### 📝 İstem
+
+```
+İki güçlü anime savaşçısı, karanlık fırtına bulutlarının altındaki parçalanmış bir savaş alanında karşı karşıya geliyor. İnanılmaz bir hızla ileri atılıyorlar, arkalarında parlayan enerji izleri ve sonik patlamalar bırakıyorlar. Yumrukları çarpışarak zemini çatlatan devasa şok dalgaları yaratıyor ve gerçekçi fizik kurallarıyla taşların havaya uçmasına neden oluyor. Gökyüzüne sıçrayıp şimşek hızında saldırılar gerçekleştiriyorlar; ardından her ikisi de göz kamaştırıcı bir patlamayla çarpışan devasa mavi ve kızıl enerji ışınlarını serbest bırakıyor. Dinamik anime sinematografisi, dramatik kamera sarsıntısı, hareket bulanıklığı, parlayan aura, sinematik ışıklandırma, hacimsel toz, gerçekçi enkaz fiziği, gişe rekorları kıran anime görsel efektleri, metin yok, filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091859349895585792/img/F9yFDJLY5zvSHEhx.jpg" width="600" alt="Anime Savaşçıları Çatışması">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2091859393969283294)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2091859393969283294) | **Yayınlandı:** Aug 24, 2026
+
+---
 ### Duvar Tipi Isıtıcı Kutu Açılışı ve Kurulum Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2936,108 +2997,13 @@ Sinematik orta format film portresi (Pentax 67, 90mm f/2.8, Kodak Portra 400). �
 **Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Yayınlandı:** Jul 5, 2026
 
 ---
-### Referans Görsel ile Profesyonel Hareketli Grafikler
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Sofistike, ticari kalitede hareketli grafikler oluşturmak için oldukça detaylı bir video üretim komutu. Modeli, referans görseli değiştirmeden kullanmaya yönlendirir; bir gelir dönüm noktasını görselleştirmek için 3D döndürme, bölme ve senkronize tipografi gibi karmaşık animasyonlar uygular.
-
-#### 📝 İstem
-
-```
-Ekli görseli tek referans olarak kullanın. Referans görselin illüstrasyonunu, karakterini, tasarımını, renklerini, şekillerini, oranlarını veya detaylarını değiştirmeyin. Her zaman aynı görseli kullanın; sadece konumunu, ölçeğini, rotasyonunu, 3D rotasyonunu ve çoğaltma işlemlerini hareketlendirin. Yeni illüstrasyonlar oluşturmayın veya yeniden çizmeyin. 16:9, 10 saniye, yüksek kaliteli hareketli grafikler. Sade ve temiz arka plan. After Effects'te üretilmiş gibi sofistike, ticari kalitede hareket tasarımı.
-
-Videounun başında, ekli görsel ekranın merkezinde belirir. Görsel hızla büyür ve ardından ritmik bir şekilde yakınlaşıp uzaklaşarak tekrarlar. Ölçek animasyonu, müzik ritmiyle uyumlu bir tempoda güçlü bir şekilde seker.
-
-Ardından, görsel merkez etrafında yüksek hızda 360 derece dönerken hafifçe ölçeklenmeye devam eder. Daha sonra, derinlik yaratmak için kameranın hafifçe ileri geri hareket etmesiyle, Y ekseninde 3D rotasyona (kart çevirme) yumuşak bir şekilde geçiş yapar.
-
-3D rotasyon bittiği anda, görsel anında 1'den 4'e bölünür ve dört köşeye doğru dağılır. Dört görselin her biri dönerken ve ölçeklenirken hareket etmeye devam eder.
-
-Hemen ardından, 4 görsel hızla 16'ya bölünerek ekrana eşit şekilde yayılır. 16 görsel, farklı zamanlamalarla rotasyon, 3D rotasyon ve ölçekleme hareketlerini tekrarlayarak yüksek hızlı hareketli grafikler oluşturur.
-
-Finalde, 16 görselin tamamı yüksek hızla merkeze çekilir ve birleşir. Kamera, birleşen görsele doğru güçlü bir şekilde yakınlaşır ve videoyu etkileyici bir finalle bitirir.
-
-Video boyunca duraksamadan enerjik ve iyi tempolu bir akış sürdürün. Animasyon pürüzsüz ve keskin olmalı; reklamlar, müzik videoları veya YouTube reklamları için uygun, yüksek kaliteli hareketli grafikler elde edilmelidir.
-
-Tipografi Efektleri (Ek Komut)
-
-Tipografiyi görsel hareketiyle mükemmel bir şekilde senkronize edin. Metni, ekstra kalın, modern, sans-serif yazı tipleri kullanarak görselin önündeki bir katmana yerleştirin. Görselle bütünleşmiş hareketli grafikler oluşturmak için hareket bulanıklığı (motion blur), ölçek ve rotasyonu aktif olarak kullanın.
-
-0-2 saniye: 'X' devasa bir şekilde ölçeklenerek girer ve görselin ölçeklenmesiyle birlikte nabız gibi atar.
-2-4 saniye: 'Girigiri' (Ucu ucuna), hareket bulanıklığı ile yüksek hızda sola ve sağa kayar.
-4-6 saniye: 3D rotasyonla senkronize olarak, 'Shueki' (Gelir) arka plandan fırlar ve önemli ölçüde büyür.
-6-8 saniye: Görsel 4'e ve 16'ya bölündüğünde, birden fazla 'X' simgesi belirir ve ekrana ritmik bir şekilde dağılır.
-8-10 saniye: Tüm görseller ve metinler merkezde toplanır; 'X', 'Girigiri' ve 'Shueki' güçlü bir şekilde üst üste binerek, kamera yakınlaştırmasıyla etkileyici, logo benzeri bir final oluşturur.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073354982523609088/img/98Ey2dRo4vfvov5v.jpg" width="600" alt="Referans Görsel ile Profesyonel Hareketli Grafikler">
-
-**[🎬 Videoyu izle →](https://x.com/Naonekozamurai/status/2073355820704907627)**
-
-**Yazar:** [なお](https://x.com/Naonekozamurai) | **Kaynak:** [Link](https://x.com/Naonekozamurai/status/2073355820704907627) | **Yayınlandı:** Jul 4, 2026
-
----
-### Hız Treninde Kedi Selfie Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir adam ve kedisinin hız trenine bindiği, 10 saniyelik detaylı tepki zaman çizelgesiyle tamamlanan mizahi bir POV tarzı istem.
-
-#### 📝 İstem
-
-```
-Hızlı bir hız treninde birlikte yolculuk eden, sakallı bir adamın kucağındaki turuncu tekir kedisiyle çektiği eğlenceli selfie tarzı video. Her ikisinin de gözleri fal taşı gibi açılmış ve ağızları senkronize bir dehşet ifadesiyle açık. Hızlı rüzgar efektleri, kıvrılan mavi raylar ve yüksek hızla bulanıklaşan bulutlu gökyüzü arka planı.
-
-10 Saniyelik Zaman Çizelgesi:
-
-0:00 - 0:02: Hız treni zirveye ulaşıyor. Adam ve kedi aşağıya bakıyor, gözleri beklentiyle büyüyor.
-
-0:02 - 0:05: Düşüş başlıyor. Rüzgar anında yüzlerine çarpıyor. Adam bağırmaya başlıyor.
-
-0:05 - 0:08: Maksimum hız. Hem adam hem de kedi ağızları sonuna kadar açık bir şekilde çığlık atıyor. Bıyıklar ve saçlar şiddetle savruluyor. Arka plan bulanıklaşıyor.
-
-0:08 - 0:10: Hız treni düz bir bölüme giriyor. Rüzgar yavaşlıyor ve her ikisi de ağızlarını kapatarak kameraya tamamen şaşkın bir ifadeyle bakıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073315699271901184/img/3cJpEwkEHfbEhKHQ.jpg" width="600" alt="Hız Treninde Kedi Selfie Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2073316066931966159)**
-
-**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2073316066931966159) | **Yayınlandı:** Jul 4, 2026
-
----
-### Alp Ormanlarında Dağ Bisikleti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Alp ormanlarında geçen 10 saniyelik bir dağ bisikleti sekansı için karmaşık çevresel efektler ve çoklu kamera açıları içeren detaylı bir video istemi.
-
-#### 📝 İstem
-
-```
-Süre: 10 saniye. Ekli erkek referans görselini birebir kullanın.
-
-Yağmur sonrası bir Alp ormanı. Adam, teknik bir orman patikasında üst düzey bir dağ bisikleti sürüyor. Su birikintilerinden sular sıçrıyor, güneş ışığı ağaçların arasından süzülüyor, lastiklerin altında yapraklar savruluyor ve süspansiyon kayaların üzerinde gerçekçi bir şekilde esniyor. Adam ormandan çıkıp dağların üzerindeki nefes kesici bir manzaraya ulaşıyor ve hafifçe gülümsüyor.
-
-Kamera; FPV takip çekimleri, düşük açılı yan takip ve vadi üzerinde dramatik bir drone geri çekilme çekimi arasında geçiş yapıyor.
-
-Arka plan müziği: Ritmik perküsyonlu ilham verici hibrit orkestra; gerçekçi bisiklet sesleri, zincir hareketi, kuş sesleri ve orman ambiyansı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073291490567372800/img/QeFefZQKKxyiSSgm.jpg" width="600" alt="Alp Ormanlarında Dağ Bisikleti">
-
-**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2073291551653208142)**
-
-**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Yayınlandı:** Jul 4, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 87 burada gösterilmeyen daha fazla istem
+### 🎯 90 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3083,6 +3049,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-25T04:37:07.520Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-25T08:39:49.069Z</sub>
 
 </div>

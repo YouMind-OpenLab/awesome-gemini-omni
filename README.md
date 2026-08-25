@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **187** |
+| 📝 Total Prompts | **190** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-25** |
 
@@ -56,11 +56,72 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Wall Heater Unboxing and Installation Video
+### Artisan Woodworking Macro Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed 10-second video prompt showing the unboxing and installation of a compact wall heater, emphasizing macro cinematography and realistic textures.
+> A macro cinematography prompt that generates a hyper-realistic video of a craftsman carving a miniature wooden sports car with realistic shavings and textures.
+
+#### 📝 Prompt
+
+```
+Create a hyper-realistic cinematic macro video of a skilled artisan handcrafting a detailed luxury sports car model from light-colored wood on a wooden workbench. Start with an extreme close-up of the artisan carefully carving the front hood and grille using a sharp precision carving tool, revealing intricate BMW-inspired kidney grille details and realistic LED headlights. Show fine wood shavings falling naturally as the carving progresses.
+
+Transition into close-up shots of the rear section as the artisan precisely attaches and shapes a dark carbon-fiber-style rear spoiler. Show realistic fingers, natural hand movements, detailed wood grain, tiny imperfections, and authentic handcrafted textures.
+
+Use shallow depth of field, warm workshop lighting, soft cinematic bokeh, realistic shadows, macro photography, smooth slow camera movements, highly detailed materials, and photorealistic textures. Keep the miniature car perfectly consistent throughout the video. Vertical 9:16 composition, premium cinematic craftsmanship aesthetic, 4K ultra-realistic quality.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100608182583296/img/rYkh9gFanEX3-YCV.jpg" width="600" alt="Artisan Woodworking Macro Video">
+
+**[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2092100706618720656)**
+
+**Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2092100706618720656) | **Published:** Aug 25, 2026
+
+---
+### Cinematic Woman in Floral Garden
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed video prompt for generating a cinematic 10-second clip of a woman in a floral dress, emphasizing realistic textures and golden-hour lighting.
+
+#### 📝 Prompt
+
+```
+Create a 10-second cinematic aesthetic video of an elegant adult woman wearing a beautiful flowing pink floral dress in a dreamy flower garden. Soft golden-hour lighting, gentle breeze moving her dress and hair, delicate flowers swaying around her. She slowly walks toward the camera, then turns gracefully as flower petals float through the air. Smooth slow-motion movement, shallow depth of field, soft dreamy bokeh, romantic pastel atmosphere, realistic skin texture, cinematic composition, subtle lens flare, high-fashion editorial look, ultra-detailed, natural motion, 4K, vertical 9:16. Keep her face and identity consistent throughout the entire video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092056158601371648/img/50t_niyRTjPbw8hB.jpg" width="600" alt="Cinematic Woman in Floral Garden">
+
+**[🎬 Watch Video →](https://x.com/HaniaAi12/status/2092056184757055583)**
+
+**Author:** [Hania Ai](https://x.com/HaniaAi12) | **Source:** [Link](https://x.com/HaniaAi12/status/2092056184757055583) | **Published:** Aug 25, 2026
+
+---
+### Anime Warrior Battle Clash
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An action-packed anime style prompt for a battle scene featuring warriors, energy trails, and dynamic cinematography with realistic physics effects.
+
+#### 📝 Prompt
+
+```
+Two powerful anime warriors face each other on a shattered battlefield beneath dark storm clouds. They instantly dash forward at impossible speed, leaving glowing energy trails and sonic booms. Their punches collide, creating massive shockwaves that crack the ground and send rocks flying with realistic physics. They leap into the sky, exchanging lightning-fast attacks before both unleash enormous blue and crimson energy beams that collide in a blinding explosion. Dynamic anime cinematography, dramatic camera shake, motion blur, glowing aura, cinematic lighting, volumetric dust, realistic debris physics, blockbuster anime VFX, no text, no watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091859349895585792/img/F9yFDJLY5zvSHEhx.jpg" width="600" alt="Anime Warrior Battle Clash">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2091859393969283294)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2091859393969283294) | **Published:** Aug 24, 2026
+
+---
+### Miniature Heater Unboxing ASMR
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex multi-scene prompt for a photorealistic product video showing the unboxing and installation of a miniature wall-mounted electronic heater.
 
 #### 📝 Prompt
 
@@ -82,7 +143,7 @@ Style: photorealistic, macro cinematography, miniature product world, cozy home 
 Important: Preserve realistic proportions, natural human fingers, believable physics and mechanical interaction. No extra objects, no distorted hands, no text overlays, no watermark. Vertical 9:16 composition.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2091726747259850752/img/VjrE2LBiqevBkxJk.jpg" width="600" alt="Wall Heater Unboxing and Installation Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091726747259850752/img/VjrE2LBiqevBkxJk.jpg" width="600" alt="Miniature Heater Unboxing ASMR">
 
 **[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2091726827501019507)**
 
@@ -3051,108 +3112,13 @@ Cinematic medium format film portrait (Pentax 67, 90mm f/2.8, Kodak Portra 400).
 **Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Published:** Jul 5, 2026
 
 ---
-### Professional Motion Graphics with Reference Image
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed video generation prompt for creating sophisticated, commercial-quality motion graphics. It directs the model to use a reference image without modification, applying complex animations like 3D rotations, splitting, and synchronized typography to visualize a revenue milestone.
-
-#### 📝 Prompt
-
-```
-Use the attached image as the sole reference. Do not change the illustration, character, design, colors, shapes, proportions, or details of the reference image. Always use the same image, animating only its position, scale, rotation, 3D rotation, and duplication. Do not generate or redraw new illustrations. 16:9, 10 seconds, high-quality motion graphics. Simple and clean background. Sophisticated commercial-quality motion design as if produced in After Effects.
-
-At the start of the video, the attached image appears in the center of the screen. The image scales up quickly and then rhythmically repeats zooming in and out. The scale animation bounces vigorously with a tempo matching a musical beat.
-
-Next, the image continues to scale slightly while rotating 360 degrees at high speed around its center. It then smoothly transitions to a 3D rotation on the Y-axis (card flip), with the camera moving slightly forward and backward to create depth.
-
-At the moment the 3D rotation ends, the image instantly splits from 1 to 4 and bursts towards the four corners. Each of the four images continues to move while rotating and scaling.
-
-Immediately after, the 4 images split rapidly into 16, spreading evenly across the screen. The 16 images repeat rotation, 3D rotation, and scaling at different timings, forming high-speed motion graphics.
-
-In the finale, all 16 images are sucked into the center at high speed and merged into one. The camera zooms in powerfully toward the merged image, ending the video with an impactful finish.
-
-Maintain energetic and well-paced development without stopping throughout the video. The animation should be smooth and sharp, achieving high-quality motion graphics suitable for commercials, music videos, or YouTube ads.
-
-Typography Effects (Additional Prompt)
-
-Synchronize typography perfectly with the image motion. Place text in a layer in front of the image using extra-bold, modern, sans-serif fonts. Actively use motion blur, scale, and rotation to create motion graphics integrated with the image.
-
-0-2 seconds: 'X' scales in hugely, pulsating with the image scaling.
-2-4 seconds: 'Girigiri' (Barely) slides left and right at high speed with motion blur.
-4-6 seconds: Synchronized with the 3D rotation, 'Shueki' (Revenue) pops out from the background and scales up significantly.
-6-8 seconds: When the image splits into 4 and 16, multiple 'X' icons appear and scatter rhythmically across the screen.
-8-10 seconds: All images and text gather at the center, with 'X', 'Girigiri', and 'Shueki' overlapping powerfully for the finish, creating an impressive logo-like ending with a camera zoom-in.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073354982523609088/img/98Ey2dRo4vfvov5v.jpg" width="600" alt="Professional Motion Graphics with Reference Image">
-
-**[🎬 Watch Video →](https://x.com/Naonekozamurai/status/2073355820704907627)**
-
-**Author:** [なお](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2073355820704907627) | **Published:** Jul 4, 2026
-
----
-### Rollercoaster Cat Selfie Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A humorous POV-style prompt depicting a man and his cat riding a rollercoaster, complete with a detailed 10-second timeline of their reactions.
-
-#### 📝 Prompt
-
-```
-Selfie-view fun video of a screaming bearded man holding his orange tabby cat riding a fast rollercoaster together. Both have wide eyes and open mouths in synchronized terror. Fast wind effects, twisting blue tracks, and cloudy sky background blurring by at high speed.
-
-10-Second Timeline:
-
-0:00 - 0:02: The coaster crests the top. The man and cat look down, eyes widening in anticipation.
-
-0:02 - 0:05: The drop begins. Wind hits them instantly. The man starts yelling.
-
-0:05 - 0:08: Maximum speed. Both the man and the cat are screaming with mouths wide open. Whiskers and hair blow violently. Background blurs.
-
-0:08 - 0:10: The coaster hits a flat stretch. The wind slows, and both close their mouths, looking completely dazed into the camera.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073315699271901184/img/3cJpEwkEHfbEhKHQ.jpg" width="600" alt="Rollercoaster Cat Selfie Video">
-
-**[🎬 Watch Video →](https://x.com/michaelrabone/status/2073316066931966159)**
-
-**Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2073316066931966159) | **Published:** Jul 4, 2026
-
----
-### Alpine Forest Mountain Biking
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt for a 10-second mountain bike sequence through an alpine forest, featuring complex environmental effects and multiple camera angles.
-
-#### 📝 Prompt
-
-```
-Duration: 10 seconds. Use the attached male reference image exactly.
-
-An alpine forest after rainfall. The man rides a premium mountain bike down a technical forest trail. Water splashes from puddles, sunlight breaks through the trees, leaves scatter beneath the tires, and suspension compresses realistically over rocks. He exits the forest onto a breathtaking overlook above the mountains and smiles quietly.
-
-The camera alternates between FPV following shots, low side tracking, and one dramatic drone pullback over the valley.
-
-Background music: Inspiring hybrid orchestra with rhythmic percussion, realistic bike sounds, chain movement, birds, forest ambience.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073291490567372800/img/QeFefZQKKxyiSSgm.jpg" width="600" alt="Alpine Forest Mountain Biking">
-
-**[🎬 Watch Video →](https://x.com/vireonixx/status/2073291551653208142)**
-
-**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Published:** Jul 4, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 87 more prompts not shown here
+### 🎯 90 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3198,6 +3164,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-25T04:36:48.822Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-25T08:39:36.656Z</sub>
 
 </div>

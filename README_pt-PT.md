@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **187** |
+| 📝 Total de prompts | **190** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-08-25** |
 
@@ -56,6 +56,67 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Vídeo Macro de Marcenaria Artesanal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de cinematografia macro que gera um vídeo hiper-realista de um artesão esculpindo um carro esportivo de madeira em miniatura com texturas e aparas realistas.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo macro cinematográfico hiper-realista de um artesão habilidoso esculpindo manualmente um modelo detalhado de carro esportivo de luxo em madeira clara sobre uma bancada de trabalho. Comece com um close-up extremo do artesão esculpindo cuidadosamente o capô dianteiro e a grade usando uma ferramenta de precisão afiada, revelando detalhes intrincados da grade em formato de rim inspirada na BMW e faróis de LED realistas. Mostre finas aparas de madeira caindo naturalmente conforme o entalhe progride.
+
+Faça a transição para closes da parte traseira enquanto o artesão fixa e molda com precisão um aerofólio traseiro estilo fibra de carbono escuro. Mostre dedos realistas, movimentos naturais das mãos, veios detalhados da madeira, pequenas imperfeições e texturas artesanais autênticas.
+
+Use profundidade de campo rasa, iluminação quente de oficina, bokeh cinematográfico suave, sombras realistas, fotografia macro, movimentos de câmera lentos e fluidos, materiais altamente detalhados e texturas fotorrealistas. Mantenha o carro em miniatura perfeitamente consistente durante todo o vídeo. Composição vertical 9:16, estética de artesanato cinematográfico premium, qualidade 4K ultra-realista.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100608182583296/img/rYkh9gFanEX3-YCV.jpg" width="600" alt="Vídeo Macro de Marcenaria Artesanal">
+
+**[🎬 Assistir vídeo →](https://x.com/AiwithBloodline/status/2092100706618720656)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2092100706618720656) | **Publicado:** Aug 25, 2026
+
+---
+### Mulher cinematográfica em jardim floral
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo altamente detalhado para gerar um clipe cinematográfico de 10 segundos de uma mulher em um vestido floral, enfatizando texturas realistas e iluminação de hora dourada.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo estético cinematográfico de 10 segundos de uma mulher adulta elegante vestindo um lindo vestido floral rosa fluido em um jardim de flores dos sonhos. Iluminação suave de hora dourada, brisa leve movendo seu vestido e cabelo, flores delicadas balançando ao redor dela. Ela caminha lentamente em direção à câmera e, em seguida, vira-se graciosamente enquanto pétalas de flores flutuam pelo ar. Movimento suave em câmera lenta, profundidade de campo rasa, bokeh suave e sonhador, atmosfera romântica em tons pastéis, textura de pele realista, composição cinematográfica, reflexo de lente sutil, visual editorial de alta moda, ultra detalhado, movimento natural, 4K, vertical 9:16. Mantenha o rosto e a identidade dela consistentes durante todo o vídeo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092056158601371648/img/50t_niyRTjPbw8hB.jpg" width="600" alt="Mulher cinematográfica em jardim floral">
+
+**[🎬 Assistir vídeo →](https://x.com/HaniaAi12/status/2092056184757055583)**
+
+**Autor:** [Hania Ai](https://x.com/HaniaAi12) | **Fonte:** [Link](https://x.com/HaniaAi12/status/2092056184757055583) | **Publicado:** Aug 25, 2026
+
+---
+### Anime Warrior Battle Clash
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de estilo anime repleto de ação para uma cena de batalha com guerreiros, rastros de energia e cinematografia dinâmica com efeitos de física realistas.
+
+#### 📝 Prompt
+
+```
+Dois poderosos guerreiros de anime se enfrentam em um campo de batalha destruído sob nuvens de tempestade escuras. Eles avançam instantaneamente em uma velocidade impossível, deixando rastros de energia brilhantes e estrondos sônicos. Seus socos colidem, criando ondas de choque massivas que racham o solo e fazem pedras voarem com física realista. Eles saltam para o céu, trocando ataques rápidos como um raio antes que ambos disparem enormes feixes de energia azul e carmesim que colidem em uma explosão ofuscante. Cinematografia dinâmica de anime, trepidação dramática da câmera, desfoque de movimento, aura brilhante, iluminação cinematográfica, poeira volumétrica, física de detritos realista, efeitos visuais de anime de grande sucesso, sem texto, sem marca d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091859349895585792/img/F9yFDJLY5zvSHEhx.jpg" width="600" alt="Anime Warrior Battle Clash">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2091859393969283294)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2091859393969283294) | **Publicado:** Aug 24, 2026
+
+---
 ### Vídeo de Unboxing e Instalação de Aquecedor de Parede
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2966,108 +3027,13 @@ Prompt de Linha do Tempo de 10 Segundos:
 **Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Publicado:** Jul 5, 2026
 
 ---
-### Motion Graphics Profissionais com Imagem de Referência
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de geração de vídeo altamente detalhado para criar motion graphics sofisticados com qualidade comercial. Ele orienta o modelo a usar uma imagem de referência sem modificações, aplicando animações complexas como rotações 3D, divisões e tipografia sincronizada para visualizar um marco de receita.
-
-#### 📝 Prompt
-
-```
-Use a imagem anexada como única referência. Não altere a ilustração, personagem, design, cores, formas, proporções ou detalhes da imagem de referência. Use sempre a mesma imagem, animando apenas sua posição, escala, rotação, rotação 3D e duplicação. Não gere ou redesenhe novas ilustrações. 16:9, 10 segundos, motion graphics de alta qualidade. Fundo simples e limpo. Design de movimento sofisticado com qualidade comercial, como se produzido no After Effects.
-
-No início do vídeo, a imagem anexada aparece no centro da tela. A imagem aumenta de escala rapidamente e, em seguida, repete ritmicamente o zoom in e zoom out. A animação de escala salta vigorosamente com um ritmo que acompanha uma batida musical.
-
-Em seguida, a imagem continua a escalar levemente enquanto gira 360 graus em alta velocidade ao redor do seu centro. Depois, transita suavemente para uma rotação 3D no eixo Y (giro de cartão), com a câmera movendo-se levemente para frente e para trás para criar profundidade.
-
-No momento em que a rotação 3D termina, a imagem se divide instantaneamente de 1 para 4 e explode em direção aos quatro cantos. Cada uma das quatro imagens continua a se mover enquanto rotaciona e escala.
-
-Imediatamente após, as 4 imagens se dividem rapidamente em 16, espalhando-se uniformemente pela tela. As 16 imagens repetem a rotação, rotação 3D e escala em tempos diferentes, formando motion graphics de alta velocidade.
-
-No final, todas as 16 imagens são sugadas para o centro em alta velocidade e fundidas em uma só. A câmera dá um zoom potente em direção à imagem fundida, terminando o vídeo com um desfecho impactante.
-
-Mantenha um desenvolvimento energético e bem ritmado, sem pausas ao longo do vídeo. A animação deve ser suave e nítida, alcançando motion graphics de alta qualidade adequados para comerciais, videoclipes ou anúncios no YouTube.
-
-Efeitos de Tipografia (Prompt Adicional)
-
-Sincronize a tipografia perfeitamente com o movimento da imagem. Coloque o texto em uma camada à frente da imagem usando fontes sem serifa, modernas e extra-bold. Use ativamente desfoque de movimento (motion blur), escala e rotação para criar motion graphics integrados à imagem.
-
-0-2 segundos: 'X' aumenta drasticamente, pulsando com a escala da imagem.
-2-4 segundos: 'Girigiri' (Por pouco) desliza para a esquerda e para a direita em alta velocidade com desfoque de movimento.
-4-6 segundos: Sincronizado com a rotação 3D, 'Shueki' (Receita) salta do fundo e aumenta significativamente de escala.
-6-8 segundos: Quando a imagem se divide em 4 e 16, múltiplos ícones 'X' aparecem e se espalham ritmicamente pela tela.
-8-10 segundos: Todas as imagens e textos se reúnem no centro, com 'X', 'Girigiri' e 'Shueki' sobrepondo-se poderosamente para o final, criando um encerramento impressionante tipo logotipo com um zoom da câmera.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073354982523609088/img/98Ey2dRo4vfvov5v.jpg" width="600" alt="Motion Graphics Profissionais com Imagem de Referência">
-
-**[🎬 Assistir vídeo →](https://x.com/Naonekozamurai/status/2073355820704907627)**
-
-**Autor:** [なお](https://x.com/Naonekozamurai) | **Fonte:** [Link](https://x.com/Naonekozamurai/status/2073355820704907627) | **Publicado:** Jul 4, 2026
-
----
-### Vídeo de selfie de gato na montanha-russa
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt bem-humorado em estilo POV que retrata um homem e seu gato andando em uma montanha-russa, completo com uma linha do tempo detalhada de 10 segundos de suas reações.
-
-#### 📝 Prompt
-
-```
-Vídeo divertido em estilo selfie de um homem barbudo gritando enquanto segura seu gato malhado laranja em uma montanha-russa veloz. Ambos estão com os olhos arregalados e bocas abertas em um terror sincronizado. Efeitos de vento forte, trilhos azuis retorcidos e um céu nublado passando rapidamente ao fundo em alta velocidade.
-
-Linha do tempo de 10 segundos:
-
-0:00 - 0:02: A montanha-russa atinge o topo. O homem e o gato olham para baixo, com os olhos arregalados em antecipação.
-
-0:02 - 0:05: A queda começa. O vento os atinge instantaneamente. O homem começa a gritar.
-
-0:05 - 0:08: Velocidade máxima. Tanto o homem quanto o gato estão gritando com as bocas bem abertas. Bigodes e cabelos balançam violentamente. O fundo fica borrado.
-
-0:08 - 0:10: A montanha-russa atinge um trecho plano. O vento diminui e ambos fecham a boca, olhando completamente atordoados para a câmera.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073315699271901184/img/3cJpEwkEHfbEhKHQ.jpg" width="600" alt="Vídeo de selfie de gato na montanha-russa">
-
-**[🎬 Assistir vídeo →](https://x.com/michaelrabone/status/2073316066931966159)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2073316066931966159) | **Publicado:** Jul 4, 2026
-
----
-### Mountain Bike em Floresta Alpina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo detalhado para uma sequência de 10 segundos de mountain bike através de uma floresta alpina, apresentando efeitos ambientais complexos e múltiplos ângulos de câmera.
-
-#### 📝 Prompt
-
-```
-Duração: 10 segundos. Use a imagem de referência masculina anexada exatamente como está.
-
-Uma floresta alpina após a chuva. O homem pedala uma mountain bike premium por uma trilha técnica na floresta. Água espirra das poças, a luz do sol atravessa as árvores, folhas se espalham sob os pneus e a suspensão comprime realisticamente sobre as rochas. Ele sai da floresta em direção a um mirante deslumbrante acima das montanhas e sorri discretamente.
-
-A câmera alterna entre tomadas em FPV seguindo o ciclista, acompanhamento lateral baixo e um dramático afastamento de drone sobre o vale.
-
-Trilha sonora: Orquestra híbrida inspiradora com percussão rítmica, sons realistas de bicicleta, movimento da corrente, pássaros e ambiente de floresta.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073291490567372800/img/QeFefZQKKxyiSSgm.jpg" width="600" alt="Mountain Bike em Floresta Alpina">
-
-**[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2073291551653208142)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Publicado:** Jul 4, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 87 mais prompts não mostrados aqui
+### 🎯 90 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3113,6 +3079,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-25T04:37:06.449Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-25T08:39:48.117Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **187** |
+| 📝 Gesamtanzahl Prompts | **190** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-25** |
 
@@ -56,6 +56,67 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Makro-Video von handwerklicher Holzarbeit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Makro-Cinematografie-Prompt, der ein hyperrealistisches Video eines Handwerkers generiert, der einen Miniatur-Sportwagen aus Holz schnitzt, inklusive realistischer Späne und Texturen.
+
+#### 📝 Prompt
+
+```
+Erstelle ein hyperrealistisches, filmisches Makro-Video eines erfahrenen Handwerkers, der ein detailliertes Luxus-Sportwagenmodell aus hellem Holz auf einer Werkbank anfertigt. Beginne mit einer extremen Nahaufnahme, in der der Handwerker sorgfältig die Motorhaube und den Kühlergrill mit einem scharfen Präzisionsschnitzwerkzeug bearbeitet, wobei die komplexen, von BMW inspirierten Nieren-Kühlergrill-Details und realistische LED-Scheinwerfer zum Vorschein kommen. Zeige, wie feine Holzspäne während des Schnitzvorgangs natürlich herabfallen.
+
+Gehe über zu Nahaufnahmen des Heckbereichs, während der Handwerker präzise einen Heckspoiler im Carbon-Stil anbringt und formt. Zeige realistische Finger, natürliche Handbewegungen, detaillierte Holzmaserung, winzige Unvollkommenheiten und authentische handgefertigte Texturen.
+
+Verwende eine geringe Schärfentiefe, warme Werkstattbeleuchtung, weiches filmisches Bokeh, realistische Schatten, Makrofotografie, sanfte, langsame Kamerabewegungen, hochdetaillierte Materialien und fotorealistische Texturen. Sorge dafür, dass das Miniaturauto im gesamten Video absolut konsistent bleibt. Vertikale 9:16-Komposition, erstklassige filmische Handwerksästhetik, 4K ultra-realistische Qualität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100608182583296/img/rYkh9gFanEX3-YCV.jpg" width="600" alt="Makro-Video von handwerklicher Holzarbeit">
+
+**[🎬 Video ansehen →](https://x.com/AiwithBloodline/status/2092100706618720656)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Quelle:** [Link](https://x.com/AiwithBloodline/status/2092100706618720656) | **Veröffentlicht:** Aug 25, 2026
+
+---
+### Filmische Aufnahme einer Frau im Blumengarten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter Video-Prompt zur Erstellung eines filmischen 10-Sekunden-Clips einer Frau in einem Blumenkleid, mit Fokus auf realistischen Texturen und der Beleuchtung zur goldenen Stunde.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 10-sekündiges, filmisch-ästhetisches Video einer eleganten erwachsenen Frau in einem wunderschönen, fließenden rosa Blumenkleid in einem verträumten Blumengarten. Sanfte Beleuchtung zur goldenen Stunde, eine leichte Brise bewegt ihr Kleid und ihr Haar, zarte Blumen wiegen sich um sie herum. Sie geht langsam auf die Kamera zu und dreht sich dann anmutig, während Blütenblätter durch die Luft schweben. Flüssige Zeitlupenbewegung, geringe Schärfentiefe, sanftes, verträumtes Bokeh, romantische Pastellatmosphäre, realistische Hauttextur, filmische Komposition, dezente Lichtreflexe, High-Fashion-Editorial-Look, hochdetailliert, natürliche Bewegung, 4K, vertikal 9:16. Achte darauf, dass ihr Gesicht und ihre Identität während des gesamten Videos konsistent bleiben.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092056158601371648/img/50t_niyRTjPbw8hB.jpg" width="600" alt="Filmische Aufnahme einer Frau im Blumengarten">
+
+**[🎬 Video ansehen →](https://x.com/HaniaAi12/status/2092056184757055583)**
+
+**Autor:** [Hania Ai](https://x.com/HaniaAi12) | **Quelle:** [Link](https://x.com/HaniaAi12/status/2092056184757055583) | **Veröffentlicht:** Aug 25, 2026
+
+---
+### Anime Warrior Battle Clash
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein actiongeladener Anime-Style-Prompt für eine Kampfszene mit Kriegern, Energiespuren und dynamischer Kinematografie mit realistischen Physikeffekten.
+
+#### 📝 Prompt
+
+```
+Zwei mächtige Anime-Krieger stehen sich auf einem zerstörten Schlachtfeld unter dunklen Gewitterwolken gegenüber. Sie stürmen augenblicklich mit unmöglicher Geschwindigkeit vorwärts und hinterlassen leuchtende Energiespuren und Überschallknalle. Ihre Schläge prallen aufeinander und erzeugen massive Schockwellen, die den Boden aufreißen und Gesteinsbrocken mit realistischer Physik durch die Luft schleudern. Sie springen in den Himmel und tauschen blitzschnelle Angriffe aus, bevor beide gewaltige blaue und purpurne Energiestrahlen entfesseln, die in einer blendenden Explosion kollidieren. Dynamische Anime-Kinematografie, dramatisches Kamera-Wackeln, Bewegungsunschärfe, leuchtende Aura, filmische Beleuchtung, volumetrischer Staub, realistische Trümmerphysik, Blockbuster-Anime-VFX, kein Text, kein Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091859349895585792/img/F9yFDJLY5zvSHEhx.jpg" width="600" alt="Anime Warrior Battle Clash">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2091859393969283294)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2091859393969283294) | **Veröffentlicht:** Aug 24, 2026
+
+---
 ### Unboxing- und Installationsvideo eines Wandheizgeräts
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2962,108 +3023,13 @@ Cinematisches Mittelformat-Filmporträt (Pentax 67, 90mm f/2.8, Kodak Portra 400
 **Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Quelle:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Veröffentlicht:** Jul 5, 2026
 
 ---
-### Professionelle Motion Graphics mit Referenzbild
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein hochdetaillierter Video-Generierungs-Prompt zur Erstellung anspruchsvoller Motion Graphics in kommerzieller Qualität. Er weist das Modell an, ein Referenzbild unverändert zu verwenden und komplexe Animationen wie 3D-Rotationen, Splitting und synchronisierte Typografie anzuwenden, um einen Umsatzmeilenstein zu visualisieren.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie das angehängte Bild als einzige Referenz. Ändern Sie weder die Illustration, den Charakter, das Design, die Farben, die Formen, die Proportionen noch die Details des Referenzbildes. Verwenden Sie immer dasselbe Bild und animieren Sie nur dessen Position, Skalierung, Rotation, 3D-Rotation und Duplizierung. Generieren oder zeichnen Sie keine neuen Illustrationen. 16:9, 10 Sekunden, hochwertige Motion Graphics. Einfacher und sauberer Hintergrund. Anspruchsvolles Motion Design in kommerzieller Qualität, als wäre es in After Effects produziert worden.
-
-Zu Beginn des Videos erscheint das angehängte Bild in der Mitte des Bildschirms. Das Bild skaliert schnell nach oben und wiederholt rhythmisch das Hinein- und Herauszoomen. Die Skalierungsanimation federt schwungvoll im Takt eines musikalischen Beats.
-
-Anschließend skaliert das Bild weiter, während es sich mit hoher Geschwindigkeit um 360 Grad um seine Mitte dreht. Danach geht es fließend in eine 3D-Rotation auf der Y-Achse über (Card Flip), wobei sich die Kamera leicht vor und zurück bewegt, um Tiefe zu erzeugen.
-
-In dem Moment, in dem die 3D-Rotation endet, teilt sich das Bild sofort von 1 auf 4 und schnellt in die vier Ecken. Jedes der vier Bilder bewegt sich weiter, während es rotiert und skaliert.
-
-Unmittelbar danach teilen sich die 4 Bilder schnell in 16 auf und verteilen sich gleichmäßig über den Bildschirm. Die 16 Bilder wiederholen Rotation, 3D-Rotation und Skalierung in unterschiedlichen Timings und bilden so High-Speed-Motion-Graphics.
-
-Im Finale werden alle 16 Bilder mit hoher Geschwindigkeit in die Mitte gesogen und zu einem zusammengeführt. Die Kamera zoomt kraftvoll auf das zusammengeführte Bild zu und beendet das Video mit einem wirkungsvollen Abschluss.
-
-Behalten Sie eine energiegeladene und gut getaktete Entwicklung bei, ohne das Video zu unterbrechen. Die Animation sollte flüssig und scharf sein und hochwertige Motion Graphics erzielen, die für Werbespots, Musikvideos oder YouTube-Anzeigen geeignet sind.
-
-Typografie-Effekte (Zusätzlicher Prompt)
-
-Synchronisieren Sie die Typografie perfekt mit der Bildbewegung. Platzieren Sie den Text in einer Ebene vor dem Bild unter Verwendung von extra fetten, modernen serifenlosen Schriftarten. Nutzen Sie aktiv Bewegungsunschärfe, Skalierung und Rotation, um in das Bild integrierte Motion Graphics zu erstellen.
-
-0-2 Sekunden: 'X' skaliert riesig hinein und pulsiert mit der Bildskalierung.
-2-4 Sekunden: 'Girigiri' (Knapp) gleitet mit hoher Geschwindigkeit und Bewegungsunschärfe nach links und rechts.
-4-6 Sekunden: Synchronisiert mit der 3D-Rotation erscheint 'Shueki' (Umsatz) aus dem Hintergrund und skaliert deutlich nach oben.
-6-8 Sekunden: Wenn sich das Bild in 4 und 16 Teile aufspaltet, erscheinen mehrere 'X'-Symbole und verteilen sich rhythmisch über den Bildschirm.
-8-10 Sekunden: Alle Bilder und Texte sammeln sich in der Mitte, wobei 'X', 'Girigiri' und 'Shueki' für das Finale kraftvoll überlagert werden, was ein beeindruckendes, logoartiges Ende mit einem Kamera-Zoom erzeugt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073354982523609088/img/98Ey2dRo4vfvov5v.jpg" width="600" alt="Professionelle Motion Graphics mit Referenzbild">
-
-**[🎬 Video ansehen →](https://x.com/Naonekozamurai/status/2073355820704907627)**
-
-**Autor:** [なお](https://x.com/Naonekozamurai) | **Quelle:** [Link](https://x.com/Naonekozamurai/status/2073355820704907627) | **Veröffentlicht:** Jul 4, 2026
-
----
-### Achterbahn-Selfie-Video mit Katze
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein humorvoller Prompt im POV-Stil, der einen Mann und seine Katze bei einer Achterbahnfahrt zeigt, inklusive einer detaillierten 10-sekündigen Zeitleiste ihrer Reaktionen.
-
-#### 📝 Prompt
-
-```
-Unterhaltsames Selfie-Video aus der Ich-Perspektive eines schreienden bärtigen Mannes, der seine getigerte Katze hält, während sie gemeinsam eine schnelle Achterbahn fahren. Beide haben weit aufgerissene Augen und offene Münder vor synchronem Entsetzen. Schnelle Windeffekte, sich windende blaue Schienen und ein bewölkter Himmel ziehen in hoher Geschwindigkeit vorbei.
-
-10-Sekunden-Zeitleiste:
-
-0:00 - 0:02: Die Achterbahn erreicht den höchsten Punkt. Der Mann und die Katze schauen nach unten, die Augen weiten sich vor Erwartung.
-
-0:02 - 0:05: Der Sturz beginnt. Der Wind trifft sie sofort. Der Mann fängt an zu schreien.
-
-0:05 - 0:08: Höchstgeschwindigkeit. Sowohl der Mann als auch die Katze schreien mit weit geöffneten Mündern. Schnurrhaare und Haare wehen heftig im Wind. Der Hintergrund verschwimmt.
-
-0:08 - 0:10: Die Achterbahn erreicht ein flaches Stück. Der Wind lässt nach und beide schließen die Münder, während sie völlig benommen in die Kamera schauen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073315699271901184/img/3cJpEwkEHfbEhKHQ.jpg" width="600" alt="Achterbahn-Selfie-Video mit Katze">
-
-**[🎬 Video ansehen →](https://x.com/michaelrabone/status/2073316066931966159)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Quelle:** [Link](https://x.com/michaelrabone/status/2073316066931966159) | **Veröffentlicht:** Jul 4, 2026
-
----
-### Mountainbiken im alpinen Wald
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt für eine 10-sekündige Mountainbike-Sequenz durch einen alpinen Wald, mit komplexen Umgebungseffekten und verschiedenen Kamerawinkeln.
-
-#### 📝 Prompt
-
-```
-Dauer: 10 Sekunden. Verwenden Sie das beigefügte Referenzbild des Mannes exakt so wie vorgegeben.
-
-Ein alpiner Wald nach einem Regenschauer. Der Mann fährt mit einem Premium-Mountainbike einen technisch anspruchsvollen Waldweg hinunter. Wasser spritzt aus Pfützen, Sonnenlicht bricht durch die Bäume, Blätter wirbeln unter den Reifen auf und die Federung federt realistisch über Felsen ein. Er verlässt den Wald und erreicht einen atemberaubenden Aussichtspunkt über den Bergen, wo er leise lächelt.
-
-Die Kamera wechselt zwischen FPV-Verfolgungsaufnahmen, einer seitlichen Low-Angle-Tracking-Aufnahme und einer dramatischen Drohnen-Rückwärtsfahrt über das Tal.
-
-Hintergrundmusik: Inspirierendes Hybrid-Orchester mit rhythmischer Perkussion, realistischen Fahrradgeräuschen, Kettengeräuschen, Vogelgezwitscher und Waldatmosphäre.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073291490567372800/img/QeFefZQKKxyiSSgm.jpg" width="600" alt="Mountainbiken im alpinen Wald">
-
-**[🎬 Video ansehen →](https://x.com/vireonixx/status/2073291551653208142)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Veröffentlicht:** Jul 4, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 87 weitere Prompts hier nicht angezeigt
+### 🎯 90 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3109,6 +3075,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-25T04:37:01.661Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-25T08:39:45.156Z</sub>
 
 </div>

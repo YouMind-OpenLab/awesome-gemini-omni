@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **187** |
+| 📝 Tổng số prompt | **190** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-25** |
 
@@ -56,6 +56,67 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video Macro Nghệ thuật Chế tác Gỗ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video macro điện ảnh, tạo ra video siêu thực về một nghệ nhân đang chạm khắc mô hình xe thể thao thu nhỏ bằng gỗ với các chi tiết phoi bào và kết cấu chân thực.
+
+#### 📝 Prompt
+
+```
+Tạo một video macro điện ảnh siêu thực về một nghệ nhân lành nghề đang thủ công chế tác mô hình xe thể thao sang trọng chi tiết từ gỗ sáng màu trên bàn làm việc. Bắt đầu với cảnh quay cận cảnh cực đại khi nghệ nhân cẩn thận chạm khắc nắp capo và lưới tản nhiệt bằng dụng cụ chạm khắc chính xác sắc bén, làm nổi bật các chi tiết lưới tản nhiệt hình quả thận lấy cảm hứng từ BMW và đèn pha LED chân thực. Hiển thị các phoi gỗ mịn rơi xuống một cách tự nhiên khi quá trình chạm khắc diễn ra.
+
+Chuyển sang các cảnh quay cận cảnh phần đuôi xe khi nghệ nhân gắn và tạo hình chính xác một cánh gió sau theo phong cách sợi carbon tối màu. Hiển thị ngón tay chân thực, chuyển động tay tự nhiên, vân gỗ chi tiết, các khiếm khuyết nhỏ và kết cấu thủ công xác thực.
+
+Sử dụng độ sâu trường ảnh nông, ánh sáng xưởng ấm áp, hiệu ứng bokeh điện ảnh mềm mại, bóng đổ chân thực, nhiếp ảnh macro, chuyển động camera chậm mượt mà, vật liệu chi tiết cao và kết cấu ảnh thực. Giữ cho chiếc xe thu nhỏ nhất quán hoàn hảo trong suốt video. Bố cục dọc 9:16, thẩm mỹ thủ công điện ảnh cao cấp, chất lượng siêu thực 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100608182583296/img/rYkh9gFanEX3-YCV.jpg" width="600" alt="Video Macro Nghệ thuật Chế tác Gỗ">
+
+**[🎬 Xem video →](https://x.com/AiwithBloodline/status/2092100706618720656)**
+
+**Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2092100706618720656) | **Đã xuất bản:** Aug 25, 2026
+
+---
+### Người phụ nữ đậm chất điện ảnh trong khu vườn hoa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video chi tiết để tạo đoạn clip điện ảnh dài 10 giây về một người phụ nữ mặc váy hoa, chú trọng vào kết cấu chân thực và ánh sáng giờ vàng.
+
+#### 📝 Prompt
+
+```
+Tạo một video thẩm mỹ đậm chất điện ảnh dài 10 giây về một người phụ nữ trưởng thành thanh lịch trong chiếc váy hoa màu hồng thướt tha tại một khu vườn hoa đầy mộng mơ. Ánh sáng giờ vàng dịu nhẹ, làn gió thoảng làm lay động váy và mái tóc của cô, những bông hoa tinh tế đung đưa xung quanh. Cô chậm rãi bước về phía máy quay, sau đó xoay người duyên dáng khi những cánh hoa bay trong không trung. Chuyển động chậm mượt mà, độ sâu trường ảnh nông, hiệu ứng bokeh mềm mại mơ màng, không khí lãng mạn với tông màu pastel, kết cấu da chân thực, bố cục điện ảnh, hiệu ứng lóe sáng tinh tế, phong cách biên tập thời trang cao cấp, siêu chi tiết, chuyển động tự nhiên, 4K, khung hình dọc 9:16. Giữ cho khuôn mặt và danh tính của cô nhất quán trong suốt toàn bộ video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092056158601371648/img/50t_niyRTjPbw8hB.jpg" width="600" alt="Người phụ nữ đậm chất điện ảnh trong khu vườn hoa">
+
+**[🎬 Xem video →](https://x.com/HaniaAi12/status/2092056184757055583)**
+
+**Tác giả:** [Hania Ai](https://x.com/HaniaAi12) | **Nguồn:** [Link](https://x.com/HaniaAi12/status/2092056184757055583) | **Đã xuất bản:** Aug 25, 2026
+
+---
+### Anime Warrior Battle Clash
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) theo phong cách anime đầy hành động về cảnh chiến đấu giữa các chiến binh, với những vệt năng lượng và kỹ thuật quay phim năng động cùng hiệu ứng vật lý chân thực.
+
+#### 📝 Prompt
+
+```
+Hai chiến binh anime hùng mạnh đối mặt với nhau trên chiến trường đổ nát dưới những đám mây giông đen kịt. Họ lao về phía trước với tốc độ không tưởng, để lại những vệt năng lượng rực rỡ và những tiếng nổ siêu thanh. Những cú đấm của họ va chạm, tạo ra các làn sóng xung kích khổng lồ làm nứt mặt đất và khiến đá vụn bay tung tóe với hiệu ứng vật lý chân thực. Họ nhảy vọt lên bầu trời, trao đổi những đòn tấn công nhanh như chớp trước khi cả hai tung ra những tia năng lượng màu xanh và đỏ khổng lồ va chạm vào nhau trong một vụ nổ chói mắt. Kỹ thuật quay phim anime năng động, hiệu ứng rung máy kịch tính, nhòe chuyển động (motion blur), hào quang rực rỡ, ánh sáng điện ảnh, bụi thể tích, vật lý mảnh vỡ chân thực, hiệu ứng hình ảnh (VFX) anime bom tấn, không văn bản, không hình mờ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2091859349895585792/img/F9yFDJLY5zvSHEhx.jpg" width="600" alt="Anime Warrior Battle Clash">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2091859393969283294)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2091859393969283294) | **Đã xuất bản:** Aug 24, 2026
+
+---
 ### Video mở hộp và lắp đặt máy sưởi treo tường
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2912,108 +2973,13 @@ Câu lệnh dòng thời gian 10 giây:
 **Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Đã xuất bản:** Jul 5, 2026
 
 ---
-### Đồ họa chuyển động chuyên nghiệp với hình ảnh tham chiếu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh tạo video chi tiết giúp tạo ra các đồ họa chuyển động chất lượng thương mại tinh tế. Câu lệnh hướng dẫn mô hình sử dụng hình ảnh tham chiếu mà không thay đổi, đồng thời áp dụng các hiệu ứng hoạt ảnh phức tạp như xoay 3D, phân tách và đồng bộ hóa kiểu chữ để trực quan hóa cột mốc doanh thu.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh đính kèm làm tham chiếu duy nhất. Không thay đổi hình minh họa, nhân vật, thiết kế, màu sắc, hình dạng, tỷ lệ hoặc các chi tiết của hình ảnh tham chiếu. Luôn sử dụng cùng một hình ảnh, chỉ tạo hoạt ảnh cho vị trí, tỷ lệ, xoay, xoay 3D và nhân bản của nó. Không tạo mới hoặc vẽ lại hình minh họa. Tỷ lệ 16:9, thời lượng 10 giây, đồ họa chuyển động chất lượng cao. Nền đơn giản và sạch sẽ. Thiết kế chuyển động thương mại tinh tế như được sản xuất trong After Effects.
-
-Khi bắt đầu video, hình ảnh đính kèm xuất hiện ở giữa màn hình. Hình ảnh phóng to nhanh chóng và sau đó lặp lại nhịp nhàng hiệu ứng thu phóng. Hoạt ảnh tỷ lệ nảy mạnh mẽ với nhịp điệu khớp với nhịp nhạc.
-
-Tiếp theo, hình ảnh tiếp tục thay đổi tỷ lệ nhẹ trong khi xoay 360 độ ở tốc độ cao quanh tâm. Sau đó, nó chuyển đổi mượt mà sang xoay 3D trên trục Y (lật thẻ), với camera di chuyển nhẹ về phía trước và phía sau để tạo chiều sâu.
-
-Tại thời điểm kết thúc xoay 3D, hình ảnh ngay lập tức tách từ 1 thành 4 và bung ra bốn góc. Mỗi hình trong bốn hình tiếp tục di chuyển trong khi xoay và thay đổi tỷ lệ.
-
-Ngay sau đó, 4 hình ảnh tách nhanh thành 16, lan tỏa đều khắp màn hình. 16 hình ảnh lặp lại việc xoay, xoay 3D và thay đổi tỷ lệ ở các thời điểm khác nhau, tạo thành đồ họa chuyển động tốc độ cao.
-
-Ở phần kết, tất cả 16 hình ảnh được hút vào trung tâm ở tốc độ cao và hợp nhất thành một. Camera phóng to mạnh mẽ về phía hình ảnh đã hợp nhất, kết thúc video với một cái kết đầy ấn tượng.
-
-Duy trì sự phát triển tràn đầy năng lượng và nhịp độ tốt mà không dừng lại trong suốt video. Hoạt ảnh phải mượt mà và sắc nét, đạt được đồ họa chuyển động chất lượng cao phù hợp cho quảng cáo, video âm nhạc hoặc quảng cáo trên YouTube.
-
-Hiệu ứng kiểu chữ (Câu lệnh bổ sung)
-
-Đồng bộ hóa kiểu chữ hoàn hảo với chuyển động của hình ảnh. Đặt văn bản vào một lớp phía trước hình ảnh bằng cách sử dụng phông chữ không chân, hiện đại và cực đậm. Tích cực sử dụng hiệu ứng nhòe chuyển động (motion blur), tỷ lệ và xoay để tạo ra đồ họa chuyển động tích hợp với hình ảnh.
-
-0-2 giây: 'X' phóng to cực đại, rung động theo nhịp phóng to của hình ảnh.
-2-4 giây: 'Girigiri' (Vừa vặn) trượt sang trái và phải ở tốc độ cao với hiệu ứng nhòe chuyển động.
-4-6 giây: Đồng bộ với xoay 3D, 'Shueki' (Doanh thu) bật ra từ nền và phóng to đáng kể.
-6-8 giây: Khi hình ảnh tách thành 4 và 16, nhiều biểu tượng 'X' xuất hiện và phân tán nhịp nhàng khắp màn hình.
-8-10 giây: Tất cả hình ảnh và văn bản tập trung tại trung tâm, với 'X', 'Girigiri' và 'Shueki' chồng lên nhau một cách mạnh mẽ cho phần kết, tạo ra một cái kết giống như logo đầy ấn tượng với hiệu ứng camera phóng to.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073354982523609088/img/98Ey2dRo4vfvov5v.jpg" width="600" alt="Đồ họa chuyển động chuyên nghiệp với hình ảnh tham chiếu">
-
-**[🎬 Xem video →](https://x.com/Naonekozamurai/status/2073355820704907627)**
-
-**Tác giả:** [なお](https://x.com/Naonekozamurai) | **Nguồn:** [Link](https://x.com/Naonekozamurai/status/2073355820704907627) | **Đã xuất bản:** Jul 4, 2026
-
----
-### Video selfie mèo trên tàu lượn siêu tốc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một lời nhắc (prompt) hài hước theo phong cách POV mô tả một người đàn ông và chú mèo của anh ấy đang đi tàu lượn siêu tốc, kèm theo dòng thời gian chi tiết 10 giây về phản ứng của họ.
-
-#### 📝 Prompt
-
-```
-Video vui nhộn góc nhìn selfie về một người đàn ông có râu đang hét lớn, ôm chú mèo mướp màu cam cùng đi trên tàu lượn siêu tốc với tốc độ cao. Cả hai đều mở to mắt và há hốc miệng trong sự kinh hãi đồng bộ. Hiệu ứng gió thổi mạnh, đường ray màu xanh uốn lượn và bầu trời đầy mây mờ ảo lướt qua ở tốc độ cao.
-
-Dòng thời gian 10 giây:
-
-0:00 - 0:02: Tàu lượn lên đến đỉnh. Người đàn ông và chú mèo nhìn xuống, mắt mở to đầy hồi hộp.
-
-0:02 - 0:05: Cú rơi bắt đầu. Gió ập đến ngay lập tức. Người đàn ông bắt đầu hét lên.
-
-0:05 - 0:08: Tốc độ tối đa. Cả người đàn ông và chú mèo đều đang hét với khuôn miệng mở rộng. Râu và tóc bay dữ dội. Phông nền mờ đi.
-
-0:08 - 0:10: Tàu lượn đi vào đoạn đường bằng phẳng. Gió chậm lại, cả hai khép miệng, nhìn vào camera với vẻ mặt hoàn toàn choáng váng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073315699271901184/img/3cJpEwkEHfbEhKHQ.jpg" width="600" alt="Video selfie mèo trên tàu lượn siêu tốc">
-
-**[🎬 Xem video →](https://x.com/michaelrabone/status/2073316066931966159)**
-
-**Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2073316066931966159) | **Đã xuất bản:** Jul 4, 2026
-
----
-### Đạp xe địa hình trong rừng núi cao
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt chi tiết cho phân cảnh đạp xe địa hình dài 10 giây băng qua rừng núi cao, với các hiệu ứng môi trường phức tạp và nhiều góc máy khác nhau.
-
-#### 📝 Prompt
-
-```
-Thời lượng: 10 giây. Sử dụng chính xác hình ảnh tham chiếu nam giới được đính kèm.
-
-Một khu rừng núi cao sau cơn mưa. Người đàn ông lái chiếc xe đạp địa hình cao cấp xuống một con đường mòn kỹ thuật trong rừng. Nước bắn lên từ các vũng bùn, ánh nắng xuyên qua tán cây, lá cây bay tán loạn dưới bánh xe, và hệ thống giảm xóc nén lại một cách chân thực khi đi qua các tảng đá. Anh ấy rời khỏi khu rừng để đến một điểm quan sát tuyệt đẹp trên núi và mỉm cười nhẹ nhàng.
-
-Góc máy luân phiên giữa góc nhìn FPV theo sau, góc quay ngang tầm thấp và một cú máy drone lùi ra xa đầy ấn tượng bao quát cả thung lũng.
-
-Nhạc nền: Dàn nhạc hybrid truyền cảm hứng với bộ gõ nhịp nhàng, âm thanh xe đạp chân thực, tiếng xích chuyển động, tiếng chim hót và âm thanh môi trường rừng núi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073291490567372800/img/QeFefZQKKxyiSSgm.jpg" width="600" alt="Đạp xe địa hình trong rừng núi cao">
-
-**[🎬 Xem video →](https://x.com/vireonixx/status/2073291551653208142)**
-
-**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2073291551653208142) | **Đã xuất bản:** Jul 4, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 87 prompt khác không hiển thị ở đây
+### 🎯 90 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3059,6 +3025,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-25T04:36:57.014Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-25T08:39:41.745Z</sub>
 
 </div>
