@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **190** |
+| 📝 Total Prompts | **191** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-26** |
 
@@ -56,11 +56,30 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Artisan Woodworking Macro Video
+### Furry Monster Gemini Omni Celebration Animation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A macro cinematography prompt that generates a hyper-realistic video of a craftsman carving a miniature wooden sports car with realistic shavings and textures.
+> A video generation prompt for a furry monster dancing and jumping in celebration, featuring smooth character animation and dynamic fur physics.
+
+#### 📝 Prompt
+
+```
+The cute random furry monster from the image happily dances and jumps in celebration against a clean white background. Floating 3D text above clearly reads "Gemini Omni 1.1". Smooth character animation, dynamic fur physics, celebratory confetti burst.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092314936617893888/img/VZxzIBEGF3Xr8GFO.jpg" width="600" alt="Furry Monster Gemini Omni Celebration Animation">
+
+**[🎬 Watch Video →](https://x.com/alwayspriyesh/status/2092315357856067593)**
+
+**Author:** [Priy](https://x.com/alwayspriyesh) | **Source:** [Link](https://x.com/alwayspriyesh/status/2092315357856067593) | **Published:** Aug 25, 2026
+
+---
+### Artisan Crafting Luxury Wood Car
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A hyper-realistic macro video prompt of an artisan carving a detailed miniature sports car from wood, focusing on textures and workshop lighting.
 
 #### 📝 Prompt
 
@@ -72,18 +91,18 @@ Transition into close-up shots of the rear section as the artisan precisely atta
 Use shallow depth of field, warm workshop lighting, soft cinematic bokeh, realistic shadows, macro photography, smooth slow camera movements, highly detailed materials, and photorealistic textures. Keep the miniature car perfectly consistent throughout the video. Vertical 9:16 composition, premium cinematic craftsmanship aesthetic, 4K ultra-realistic quality.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092100608182583296/img/rYkh9gFanEX3-YCV.jpg" width="600" alt="Artisan Woodworking Macro Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092100608182583296/img/rYkh9gFanEX3-YCV.jpg" width="600" alt="Artisan Crafting Luxury Wood Car">
 
 **[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2092100706618720656)**
 
 **Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2092100706618720656) | **Published:** Aug 25, 2026
 
 ---
-### Cinematic Woman in Floral Garden
+### Elegant Woman in Floral Garden
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A highly detailed video prompt for generating a cinematic 10-second clip of a woman in a floral dress, emphasizing realistic textures and golden-hour lighting.
+> A cinematic video prompt of a woman in a pink floral dress walking through a dreamy garden during golden hour with floating petals.
 
 #### 📝 Prompt
 
@@ -91,7 +110,7 @@ Use shallow depth of field, warm workshop lighting, soft cinematic bokeh, realis
 Create a 10-second cinematic aesthetic video of an elegant adult woman wearing a beautiful flowing pink floral dress in a dreamy flower garden. Soft golden-hour lighting, gentle breeze moving her dress and hair, delicate flowers swaying around her. She slowly walks toward the camera, then turns gracefully as flower petals float through the air. Smooth slow-motion movement, shallow depth of field, soft dreamy bokeh, romantic pastel atmosphere, realistic skin texture, cinematic composition, subtle lens flare, high-fashion editorial look, ultra-detailed, natural motion, 4K, vertical 9:16. Keep her face and identity consistent throughout the entire video.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092056158601371648/img/50t_niyRTjPbw8hB.jpg" width="600" alt="Cinematic Woman in Floral Garden">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092056158601371648/img/50t_niyRTjPbw8hB.jpg" width="600" alt="Elegant Woman in Floral Garden">
 
 **[🎬 Watch Video →](https://x.com/HaniaAi12/status/2092056184757055583)**
 
@@ -3083,42 +3102,13 @@ No dialogue.
 **Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Published:** Jul 6, 2026
 
 ---
-### Cinematic Red Hair Film Portrait
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A precise timeline-based prompt for a 10-second cinematic video featuring a woman with red hair, using specific medium format film aesthetics and lighting transitions.
-
-#### 📝 Prompt
-
-```
-Cinematic medium format film portrait (Pentax 67, 90mm f/2.8, Kodak Portra 400). Ginger woman with freckles, eyes closed, long red hair blowing in the wind on a Barcelona rooftop. Golden hour sunset, bright light leaks, analog film grain.
-
-10-Second Timeline Prompt:
-
-0-2s: Close-up portrait. Gentle breeze begins to lift her red hair. Warm sun flares cross the lens.
-
-3-5s: Wind intensifies. Hair dynamically whips across her face. Analog film grain and light leaks pulse.
-
-6-8s: Slow cinematic pan around her profile. The golden hour sunset highlights her freckles and hair texture.
-
-8-10s: Wind settles slightly. A final warm light leak fades as she remains still and peaceful.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Cinematic Red Hair Film Portrait">
-
-**[🎬 Watch Video →](https://x.com/michaelrabone/status/2073723756191637777)**
-
-**Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Published:** Jul 5, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 90 more prompts not shown here
+### 🎯 91 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3164,6 +3154,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T08:40:38.023Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-26T12:48:28.533Z</sub>
 
 </div>

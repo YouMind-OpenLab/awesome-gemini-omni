@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **190** |
+| 📝 Gesamtanzahl Prompts | **191** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-26** |
 
@@ -56,6 +56,25 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Animation zur Feier des pelzigen Monsters für Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt für ein pelziges Monster, das vor Freude tanzt und springt, mit flüssiger Charakteranimation und dynamischer Fellphysik.
+
+#### 📝 Prompt
+
+```
+Das niedliche, zufällige pelzige Monster aus dem Bild tanzt und springt fröhlich vor einem sauberen weißen Hintergrund. Der schwebende 3D-Text darüber lautet deutlich „Gemini Omni 1.1“. Flüssige Charakteranimation, dynamische Fellphysik, feierlicher Konfettiregen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092314936617893888/img/VZxzIBEGF3Xr8GFO.jpg" width="600" alt="Animation zur Feier des pelzigen Monsters für Gemini Omni">
+
+**[🎬 Video ansehen →](https://x.com/alwayspriyesh/status/2092315357856067593)**
+
+**Autor:** [Priy](https://x.com/alwayspriyesh) | **Quelle:** [Link](https://x.com/alwayspriyesh/status/2092315357856067593) | **Veröffentlicht:** Aug 25, 2026
+
+---
 ### Makro-Video von handwerklicher Holzarbeit
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2994,42 +3013,13 @@ Kein Dialog.
 **Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Veröffentlicht:** Jul 6, 2026
 
 ---
-### Cinematisches Filmporträt mit rotem Haar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein präziser, zeitlinienbasierter Prompt für ein 10-sekündiges kinoreifes Video einer Frau mit rotem Haar, unter Verwendung spezifischer Mittelformat-Filmästhetik und Lichtübergänge.
-
-#### 📝 Prompt
-
-```
-Cinematisches Mittelformat-Filmporträt (Pentax 67, 90mm f/2.8, Kodak Portra 400). Rothaarige Frau mit Sommersprossen, geschlossene Augen, langes rotes Haar weht im Wind auf einem Dach in Barcelona. Goldene Stunde bei Sonnenuntergang, helle Lichtreflexe (Light Leaks), analoge Filmkörnung.
-
-10-Sekunden-Zeitlinien-Prompt:
-
-0-2s: Nahaufnahme-Porträt. Eine sanfte Brise beginnt, ihr rotes Haar anzuheben. Warme Sonnenstrahlen ziehen über das Objektiv.
-
-3-5s: Der Wind nimmt zu. Das Haar peitscht dynamisch über ihr Gesicht. Analoge Filmkörnung und Lichtreflexe pulsieren.
-
-6-8s: Langsamer kinoreifer Kameraschwenk um ihr Profil. Der Sonnenuntergang der goldenen Stunde betont ihre Sommersprossen und die Haarstruktur.
-
-8-10s: Der Wind lässt leicht nach. Ein letzter warmer Lichtreflex blendet aus, während sie ruhig und friedlich verharrt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Cinematisches Filmporträt mit rotem Haar">
-
-**[🎬 Video ansehen →](https://x.com/michaelrabone/status/2073723756191637777)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Quelle:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Veröffentlicht:** Jul 5, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 90 weitere Prompts hier nicht angezeigt
+### 🎯 91 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3075,6 +3065,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-26T08:40:49.386Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-26T12:48:36.894Z</sub>
 
 </div>

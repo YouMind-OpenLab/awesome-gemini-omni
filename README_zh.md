@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **190** |
+| 📝 提示词总数 | **191** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-08-26** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 毛茸茸怪兽庆祝 Gemini Omni 动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个关于毛茸茸怪兽欢快跳舞庆祝的视频生成提示词，包含流畅的角色动画和动态毛发物理效果。
+
+#### 📝 提示词
+
+```
+图片中可爱的随机毛茸茸怪兽在干净的白色背景前欢快地跳舞和跳跃庆祝。上方悬浮的 3D 文字清晰地显示着“Gemini Omni 1.1”。流畅的角色动画，动态的毛发物理效果，以及庆祝用的五彩纸屑喷发。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092314936617893888/img/VZxzIBEGF3Xr8GFO.jpg" width="600" alt="毛茸茸怪兽庆祝 Gemini Omni 动画">
+
+**[🎬 观看视频 →](https://x.com/alwayspriyesh/status/2092315357856067593)**
+
+**作者:** [Priy](https://x.com/alwayspriyesh) | **来源:** [Link](https://x.com/alwayspriyesh/status/2092315357856067593) | **发布时间:** Aug 25, 2026
+
+---
 ### 工匠木工微距视频
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2998,42 +3017,13 @@ FPV 无人机追拍（已在运动中）→ 侧向跟拍 → 车轮安装摄像�
 **作者:** [Virena](https://x.com/vireonixx) | **来源:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **发布时间:** Jul 6, 2026
 
 ---
-### 电影感红发人像摄影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份基于精确时间轴的 10 秒电影感视频提示词，展示了一位红发女性，并运用了特定的中画幅胶片美学与光影过渡。
-
-#### 📝 提示词
-
-```
-电影感中画幅胶片人像（Pentax 67, 90mm f/2.8, Kodak Portra 400）。一位长着雀斑的姜黄色头发女性，闭着双眼，一头红发在巴塞罗那的屋顶上随风飘动。黄金时刻的日落，明亮的光晕，模拟胶片颗粒感。
-
-10 秒时间轴提示词：
-
-0-2 秒：特写人像。微风开始吹起她的红发。温暖的太阳光晕掠过镜头。
-
-3-5 秒：风力增强。头发在她的脸上动态拂动。模拟胶片颗粒感和光晕闪烁。
-
-6-8 秒：围绕她的侧脸进行缓慢的电影感平移拍摄。黄金时刻的日落突显了她的雀斑和发丝质感。
-
-8-10 秒：风力稍减。随着她保持静止与平和，最后一道温暖的光晕逐渐淡出。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="电影感红发人像摄影">
-
-**[🎬 观看视频 →](https://x.com/michaelrabone/status/2073723756191637777)**
-
-**作者:** [Michael Rabone](https://x.com/michaelrabone) | **来源:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **发布时间:** Jul 5, 2026
-
----
 ---
 
 ## 📚 更多提示词
 
 <div align="center">
 
-### 🎯 90 更多提示词未在此显示
+### 🎯 91 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3079,6 +3069,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-26T08:40:39.375Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-26T12:48:29.388Z</sub>
 
 </div>

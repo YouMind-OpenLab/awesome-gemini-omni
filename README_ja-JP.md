@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **190** |
+| 📝 プロンプト総数 | **191** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-08-26** |
 
@@ -56,6 +56,25 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### ふわふわモンスターの Gemini Omni 祝賀アニメーション
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> お祝いのためにダンスをして飛び跳ねる、ふわふわしたモンスターの動画生成用プロンプト。滑らかなキャラクターアニメーションとダイナミックな毛並みの物理演算が特徴です。
+
+#### 📝 プロンプト
+
+```
+画像に登場するキュートでユニークなふわふわモンスターが、真っ白な背景の前で楽しそうにダンスをしたり飛び跳ねたりしてお祝いしています。頭上には「Gemini Omni 1.1」と書かれた 3D テキストが浮かんでいます。滑らかなキャラクターアニメーション、ダイナミックな毛並みの物理演算、そして紙吹雪が舞う祝祭感あふれる映像です。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092314936617893888/img/VZxzIBEGF3Xr8GFO.jpg" width="600" alt="ふわふわモンスターの Gemini Omni 祝賀アニメーション">
+
+**[🎬 動画を見る →](https://x.com/alwayspriyesh/status/2092315357856067593)**
+
+**作者:** [Priy](https://x.com/alwayspriyesh) | **ソース:** [Link](https://x.com/alwayspriyesh/status/2092315357856067593) | **公開日:** Aug 25, 2026
+
+---
 ### 職人による木工マクロ動画
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2993,42 +3012,13 @@ FPV ドローンによる追走（開始時点）→ サイドトラッキング
 **作者:** [Virena](https://x.com/vireonixx) | **ソース:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **公開日:** Jul 6, 2026
 
 ---
-### シネマティックな赤髪のフィルムポートレート
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 赤髪の女性をフィーチャーした 10 秒間のシネマティック動画向け、中判フィルムの質感とライティングの移り変わりを詳細に指定したタイムラインプロンプトです。
-
-#### 📝 プロンプト
-
-```
-シネマティックな中判フィルムポートレート（Pentax 67、90mm f/2.8、Kodak Portra 400）。そばかすのある赤髪の女性、目を閉じ、バルセロナの屋上で風になびく長い赤髪。ゴールデンアワーの夕日、鮮やかなライトリーク、アナログフィルムの粒子感。
-
-10 秒間のタイムラインプロンプト：
-
-0-2 秒：クローズアップポートレート。穏やかな風が彼女の赤髪をなびかせ始める。暖かいレンズフレアがレンズを横切る。
-
-3-5 秒：風が強まる。髪が顔にかかるようにダイナミックになびく。アナログフィルムの粒子感とライトリークが明滅する。
-
-6-8 秒：彼女の横顔を捉えるスローなシネマティックパン。ゴールデンアワーの夕日が、そばかすと髪の質感を強調する。
-
-8-10 秒：風が少し収まる。彼女が静かで穏やかな表情を保つ中、最後の暖かいライトリークがフェードアウトする。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="シネマティックな赤髪のフィルムポートレート">
-
-**[🎬 動画を見る →](https://x.com/michaelrabone/status/2073723756191637777)**
-
-**作者:** [Michael Rabone](https://x.com/michaelrabone) | **ソース:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **公開日:** Jul 5, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 90 さらに多くのプロンプトがあります
+### 🎯 91 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3074,6 +3064,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-26T08:40:41.675Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-26T12:48:31.778Z</sub>
 
 </div>

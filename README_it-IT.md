@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **190** |
+| 📝 Totale prompt | **191** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-08-26** |
 
@@ -56,6 +56,25 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Animazione celebrativa di un mostriciattolo peloso per Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt di generazione video per un mostriciattolo peloso che balla e salta per festeggiare, caratterizzato da un'animazione fluida del personaggio e una fisica dinamica del pelo.
+
+#### 📝 Prompt
+
+```
+Il simpatico mostriciattolo peloso dell'immagine balla e salta felicemente per festeggiare su un pulito sfondo bianco. Il testo 3D fluttuante in alto recita chiaramente "Gemini Omni 1.1". Animazione fluida del personaggio, fisica dinamica del pelo, esplosione di coriandoli festosi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092314936617893888/img/VZxzIBEGF3Xr8GFO.jpg" width="600" alt="Animazione celebrativa di un mostriciattolo peloso per Gemini Omni">
+
+**[🎬 Guarda il video →](https://x.com/alwayspriyesh/status/2092315357856067593)**
+
+**Autore:** [Priy](https://x.com/alwayspriyesh) | **Fonte:** [Link](https://x.com/alwayspriyesh/status/2092315357856067593) | **Pubblicato:** Aug 25, 2026
+
+---
 ### Video macro di artigianato del legno
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2966,42 +2985,13 @@ Nessun dialogo.
 **Autore:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Pubblicato:** Jul 6, 2026
 
 ---
-### Ritratto cinematografico su pellicola di una donna dai capelli rossi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt preciso basato su timeline per un video cinematografico di 10 secondi con protagonista una donna dai capelli rossi, che utilizza specifiche estetiche da pellicola medio formato e transizioni di luce.
-
-#### 📝 Prompt
-
-```
-Ritratto cinematografico su pellicola medio formato (Pentax 67, 90mm f/2.8, Kodak Portra 400). Donna dai capelli rossi con lentiggini, occhi chiusi, lunghi capelli rossi mossi dal vento su un tetto di Barcellona. Tramonto durante la golden hour, intensi light leak, grana della pellicola analogica.
-
-Prompt per timeline di 10 secondi:
-
-0-2s: Primo piano. Una brezza leggera inizia a sollevare i suoi capelli rossi. Caldi bagliori solari attraversano l'obiettivo.
-
-3-5s: Il vento si intensifica. I capelli sferzano il viso in modo dinamico. La grana della pellicola analogica e i light leak pulsano.
-
-6-8s: Lenta panoramica cinematografica attorno al suo profilo. Il tramonto della golden hour mette in risalto le sue lentiggini e la texture dei capelli.
-
-8-10s: Il vento cala leggermente. Un ultimo caldo light leak sfuma mentre lei rimane immobile e serena.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Ritratto cinematografico su pellicola di una donna dai capelli rossi">
-
-**[🎬 Guarda il video →](https://x.com/michaelrabone/status/2073723756191637777)**
-
-**Autore:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Pubblicato:** Jul 5, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
 
 <div align="center">
 
-### 🎯 90 altri prompt non mostrati qui
+### 🎯 91 altri prompt non mostrati qui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3047,6 +3037,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-26T08:40:51.867Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-26T12:48:39.335Z</sub>
 
 </div>

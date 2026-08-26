@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **190** |
+| 📝 Toplam İstem | **191** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-26** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Tüylü Canavar Gemini Omni Kutlama Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Kutlama yapmak için dans eden ve zıplayan tüylü bir canavar için akıcı karakter animasyonu ve dinamik tüy fiziği içeren bir video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Görseldeki sevimli ve rastgele tüylü canavar, temiz beyaz bir arka plan önünde neşeyle dans ediyor ve kutlama yapmak için zıplıyor. Üzerinde süzülen 3D metin net bir şekilde "Gemini Omni 1.1" yazıyor. Akıcı karakter animasyonu, dinamik tüy fiziği ve kutlama konfetisi patlaması.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092314936617893888/img/VZxzIBEGF3Xr8GFO.jpg" width="600" alt="Tüylü Canavar Gemini Omni Kutlama Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/alwayspriyesh/status/2092315357856067593)**
+
+**Yazar:** [Priy](https://x.com/alwayspriyesh) | **Kaynak:** [Link](https://x.com/alwayspriyesh/status/2092315357856067593) | **Yayınlandı:** Aug 25, 2026
+
+---
 ### Zanaatkar Ahşap İşçiliği Makro Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2968,42 +2987,13 @@ Diyalog yok.
 **Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Yayınlandı:** Jul 6, 2026
 
 ---
-### Sinematik Kızıl Saçlı Film Portresi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kızıl saçlı bir kadının yer aldığı, belirli orta format film estetiği ve ışık geçişleri kullanan 10 saniyelik sinematik bir video için hassas, zaman çizelgesi tabanlı bir istem.
-
-#### 📝 İstem
-
-```
-Sinematik orta format film portresi (Pentax 67, 90mm f/2.8, Kodak Portra 400). Çilli, gözleri kapalı, Barselona'da bir çatı katında rüzgarda uçuşan uzun kızıl saçlı kızıl saçlı kadın. Altın saat gün batımı, parlak ışık sızıntıları, analog film greni.
-
-10 Saniyelik Zaman Çizelgesi İstemi:
-
-0-2. saniye: Yakın plan portre. Hafif bir esinti kızıl saçlarını kaldırmaya başlar. Sıcak güneş parlamaları lensi geçer.
-
-3-5. saniye: Rüzgar şiddetlenir. Saçlar dinamik bir şekilde yüzünde savrulur. Analog film greni ve ışık sızıntıları titreşir.
-
-6-8. saniye: Profili etrafında yavaş sinematik bir kaydırma. Altın saat gün batımı, çillerini ve saç dokusunu vurgular.
-
-8-10. saniye: Rüzgar hafifçe diner. O, hareketsiz ve huzurlu bir şekilde dururken son bir sıcak ışık sızıntısı solar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Sinematik Kızıl Saçlı Film Portresi">
-
-**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2073723756191637777)**
-
-**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Yayınlandı:** Jul 5, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 90 burada gösterilmeyen daha fazla istem
+### 🎯 91 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3049,6 +3039,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-26T08:40:57.463Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-26T12:48:42.530Z</sub>
 
 </div>

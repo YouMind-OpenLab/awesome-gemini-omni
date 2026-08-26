@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **190** |
+| 📝 Tổng số prompt | **191** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-26** |
 
@@ -56,6 +56,25 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hoạt ảnh ăn mừng của quái vật lông xù Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video về quái vật lông xù đang nhảy múa và bật nhảy để ăn mừng, với chuyển động nhân vật mượt mà và hiệu ứng vật lý lông thú sống động.
+
+#### 📝 Prompt
+
+```
+Quái vật lông xù ngẫu nhiên đáng yêu từ hình ảnh đang vui vẻ nhảy múa và bật nhảy ăn mừng trên nền trắng sạch sẽ. Văn bản 3D nổi phía trên hiển thị rõ dòng chữ "Gemini Omni 1.1". Chuyển động nhân vật mượt mà, hiệu ứng vật lý lông thú sống động, pháo giấy ăn mừng tung bay.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092314936617893888/img/VZxzIBEGF3Xr8GFO.jpg" width="600" alt="Hoạt ảnh ăn mừng của quái vật lông xù Gemini Omni">
+
+**[🎬 Xem video →](https://x.com/alwayspriyesh/status/2092315357856067593)**
+
+**Tác giả:** [Priy](https://x.com/alwayspriyesh) | **Nguồn:** [Link](https://x.com/alwayspriyesh/status/2092315357856067593) | **Đã xuất bản:** Aug 25, 2026
+
+---
 ### Video Macro Nghệ thuật Chế tác Gỗ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2944,42 +2963,13 @@ Không có lời thoại.
 **Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Đã xuất bản:** Jul 6, 2026
 
 ---
-### Chân dung điện ảnh cô gái tóc đỏ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) dựa trên dòng thời gian chính xác cho video điện ảnh dài 10 giây, mô tả một người phụ nữ tóc đỏ với tính thẩm mỹ của phim nhựa khổ trung và các hiệu ứng chuyển đổi ánh sáng đặc trưng.
-
-#### 📝 Prompt
-
-```
-Chân dung điện ảnh phim nhựa khổ trung (Pentax 67, 90mm f/2.8, Kodak Portra 400). Người phụ nữ tóc đỏ hung với những nốt tàn nhang, nhắm mắt, mái tóc đỏ dài bay trong gió trên sân thượng ở Barcelona. Hoàng hôn giờ vàng, hiệu ứng hở sáng (light leaks) rực rỡ, hạt phim analog.
-
-Câu lệnh dòng thời gian 10 giây:
-
-0-2s: Chân dung cận cảnh. Làn gió nhẹ bắt đầu làm mái tóc đỏ của cô bay lên. Những tia nắng ấm áp lướt qua ống kính.
-
-3-5s: Gió mạnh dần. Mái tóc chuyển động mạnh che ngang mặt cô. Hạt phim analog và hiệu ứng hở sáng nhấp nháy.
-
-6-8s: Cảnh quay lia máy chậm theo kiểu điện ảnh quanh góc nghiêng của cô. Ánh hoàng hôn giờ vàng làm nổi bật những nốt tàn nhang và kết cấu mái tóc.
-
-8-10s: Gió dịu dần. Một vệt sáng ấm cuối cùng mờ dần khi cô vẫn giữ vẻ tĩnh lặng và bình yên.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Chân dung điện ảnh cô gái tóc đỏ">
-
-**[🎬 Xem video →](https://x.com/michaelrabone/status/2073723756191637777)**
-
-**Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Đã xuất bản:** Jul 5, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 90 prompt khác không hiển thị ở đây
+### 🎯 91 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3025,6 +3015,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-26T08:40:45.108Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-26T12:48:33.972Z</sub>
 
 </div>

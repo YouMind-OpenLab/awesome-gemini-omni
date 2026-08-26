@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **190** |
+| 📝 총 프롬프트 수 | **191** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-08-26** |
 
@@ -56,6 +56,25 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 털북숭이 괴물의 Gemini Omni 축하 애니메이션
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 축하하며 춤추고 점프하는 털북숭이 괴물을 위한 비디오 생성 프롬프트로, 부드러운 캐릭터 애니메이션과 역동적인 털 물리 효과가 특징입니다.
+
+#### 📝 프롬프트
+
+```
+이미지 속 귀엽고 엉뚱한 털북숭이 괴물이 깔끔한 흰색 배경을 뒤로하고 기쁘게 춤을 추며 점프합니다. 머리 위로 떠 있는 3D 텍스트에는 "Gemini Omni 1.1"이라는 문구가 선명하게 적혀 있습니다. 부드러운 캐릭터 애니메이션, 역동적인 털 물리 효과, 축하의 의미를 담은 꽃가루가 터지는 장면을 포함합니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092314936617893888/img/VZxzIBEGF3Xr8GFO.jpg" width="600" alt="털북숭이 괴물의 Gemini Omni 축하 애니메이션">
+
+**[🎬 비디오 보기 →](https://x.com/alwayspriyesh/status/2092315357856067593)**
+
+**작성자:** [Priy](https://x.com/alwayspriyesh) | **출처:** [Link](https://x.com/alwayspriyesh/status/2092315357856067593) | **게시일:** Aug 25, 2026
+
+---
 ### 장인 목공 매크로 영상
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2992,42 +3011,13 @@ FPV 드론 추격(이미 이동 중) → 측면 트래킹 → 휠 장착 카메�
 **작성자:** [Virena](https://x.com/vireonixx) | **출처:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **게시일:** Jul 6, 2026
 
 ---
-### 영화 같은 붉은 머리 인물 사진
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 특정 중형 필름 미학 및 조명 전환을 활용하여 붉은 머리 여성을 담아낸 10초 분량의 시네마틱 영상용 타임라인 기반 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-영화 같은 중형 필름 인물 사진 (Pentax 67, 90mm f/2.8, Kodak Portra 400). 주근깨가 있는 붉은 머리 여성, 눈을 감고 있으며 바르셀로나 옥상에서 바람에 긴 붉은 머리카락이 휘날리는 모습. 골든 아워의 노을, 밝은 빛 번짐(light leaks), 아날로그 필름 그레인.
-
-10초 타임라인 프롬프트:
-
-0-2초: 클로즈업 인물 사진. 부드러운 산들바람이 그녀의 붉은 머리카락을 들어 올리기 시작함. 따뜻한 햇살이 렌즈를 가로지름.
-
-3-5초: 바람이 거세짐. 머리카락이 얼굴 위로 역동적으로 휘날림. 아날로그 필름 그레인과 빛 번짐이 일렁임.
-
-6-8초: 그녀의 옆모습을 따라 천천히 이어지는 시네마틱 팬. 골든 아워의 노을이 그녀의 주근깨와 머릿결을 강조함.
-
-8-10초: 바람이 약간 잦아듦. 그녀가 평온하게 가만히 있는 동안 마지막 따뜻한 빛 번짐이 서서히 사라짐.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="영화 같은 붉은 머리 인물 사진">
-
-**[🎬 비디오 보기 →](https://x.com/michaelrabone/status/2073723756191637777)**
-
-**작성자:** [Michael Rabone](https://x.com/michaelrabone) | **출처:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **게시일:** Jul 5, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 90 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 91 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3073,6 +3063,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-26T08:40:42.915Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-26T12:48:32.554Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **190** |
+| 📝 Total des prompts | **191** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-08-26** |
 
@@ -56,6 +56,25 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Animation de célébration d'un monstre à fourrure pour Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de génération vidéo pour un monstre à fourrure dansant et sautant pour célébrer, avec une animation de personnage fluide et une physique de fourrure dynamique.
+
+#### 📝 Prompt
+
+```
+Le mignon monstre à fourrure aléatoire de l'image danse et saute joyeusement pour célébrer sur un fond blanc épuré. Un texte 3D flottant au-dessus indique clairement « Gemini Omni 1.1 ». Animation de personnage fluide, physique de fourrure dynamique, explosion de confettis de célébration.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092314936617893888/img/VZxzIBEGF3Xr8GFO.jpg" width="600" alt="Animation de célébration d'un monstre à fourrure pour Gemini Omni">
+
+**[🎬 Voir la vidéo →](https://x.com/alwayspriyesh/status/2092315357856067593)**
+
+**Auteur:** [Priy](https://x.com/alwayspriyesh) | **Source:** [Link](https://x.com/alwayspriyesh/status/2092315357856067593) | **Publié:** Aug 25, 2026
+
+---
 ### Vidéo macro d'ébénisterie artisanale
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2994,42 +3013,13 @@ Aucun dialogue.
 **Auteur:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Publié:** Jul 6, 2026
 
 ---
-### Portrait cinématographique d'une femme aux cheveux roux
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt précis basé sur une chronologie pour une vidéo cinématographique de 10 secondes mettant en scène une femme aux cheveux roux, utilisant une esthétique de film moyen format et des transitions de lumière spécifiques.
-
-#### 📝 Prompt
-
-```
-Portrait cinématographique en film moyen format (Pentax 67, 90mm f/2.8, Kodak Portra 400). Femme rousse avec des taches de rousseur, yeux fermés, longs cheveux roux flottant au vent sur un toit à Barcelone. Coucher de soleil à l'heure dorée, fuites de lumière vives, grain de film analogique.
-
-Prompt chronologique de 10 secondes :
-
-0-2s : Portrait en gros plan. Une brise légère commence à soulever ses cheveux roux. Des reflets solaires chauds traversent l'objectif.
-
-3-5s : Le vent s'intensifie. Les cheveux fouettent dynamiquement son visage. Le grain de film analogique et les fuites de lumière pulsent.
-
-6-8s : Travelling cinématographique lent autour de son profil. Le coucher de soleil de l'heure dorée souligne ses taches de rousseur et la texture de ses cheveux.
-
-8-10s : Le vent se calme légèrement. Une dernière fuite de lumière chaude s'estompe alors qu'elle reste immobile et paisible.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Portrait cinématographique d'une femme aux cheveux roux">
-
-**[🎬 Voir la vidéo →](https://x.com/michaelrabone/status/2073723756191637777)**
-
-**Auteur:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Publié:** Jul 5, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
 
 <div align="center">
 
-### 🎯 90 prompts supplémentaires non affichés ici
+### 🎯 91 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3075,6 +3065,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-26T08:40:50.394Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-26T12:48:38.011Z</sub>
 
 </div>

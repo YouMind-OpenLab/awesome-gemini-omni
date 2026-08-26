@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **190** |
+| 📝 Total de prompts | **191** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-08-26** |
 
@@ -56,6 +56,25 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Animación de celebración de monstruo peludo con Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de generación de video de un monstruo peludo bailando y saltando en celebración, con animación de personaje fluida y física de pelaje dinámica.
+
+#### 📝 Prompt
+
+```
+El lindo y aleatorio monstruo peludo de la imagen baila y salta alegremente en celebración sobre un fondo blanco limpio. El texto flotante en 3D arriba dice claramente "Gemini Omni 1.1". Animación de personaje fluida, física de pelaje dinámica y una explosión de confeti festivo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092314936617893888/img/VZxzIBEGF3Xr8GFO.jpg" width="600" alt="Animación de celebración de monstruo peludo con Gemini Omni">
+
+**[🎬 Ver video →](https://x.com/alwayspriyesh/status/2092315357856067593)**
+
+**Autor:** [Priy](https://x.com/alwayspriyesh) | **Fuente:** [Link](https://x.com/alwayspriyesh/status/2092315357856067593) | **Publicado:** Aug 25, 2026
+
+---
 ### Video macro de carpintería artesanal
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2969,42 +2988,13 @@ Sin diálogos.
 **Autor:** [Virena](https://x.com/vireonixx) | **Fuente:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Publicado:** Jul 6, 2026
 
 ---
-### Retrato cinematográfico de mujer pelirroja en película
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt preciso basado en una línea de tiempo para un video cinematográfico de 10 segundos que presenta a una mujer pelirroja, utilizando estética de película de formato medio y transiciones de iluminación específicas.
-
-#### 📝 Prompt
-
-```
-Retrato cinematográfico en película de formato medio (Pentax 67, 90mm f/2.8, Kodak Portra 400). Mujer pelirroja con pecas, ojos cerrados, cabello largo rojo ondeando con el viento en una azotea de Barcelona. Atardecer de hora dorada, destellos de luz brillantes, grano de película analógica.
-
-Prompt de línea de tiempo de 10 segundos:
-
-0-2s: Retrato en primer plano. Una brisa suave comienza a levantar su cabello rojo. Destellos de sol cálido cruzan la lente.
-
-3-5s: El viento se intensifica. El cabello se agita dinámicamente sobre su rostro. El grano de película analógica y las fugas de luz palpitan.
-
-6-8s: Paneo cinematográfico lento alrededor de su perfil. El atardecer de la hora dorada resalta sus pecas y la textura de su cabello.
-
-8-10s: El viento disminuye ligeramente. Una última fuga de luz cálida se desvanece mientras ella permanece quieta y tranquila.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Retrato cinematográfico de mujer pelirroja en película">
-
-**[🎬 Ver video →](https://x.com/michaelrabone/status/2073723756191637777)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fuente:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Publicado:** Jul 5, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 90 más prompts no mostrados aquí
+### 🎯 91 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3050,6 +3040,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-26T08:40:48.420Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-26T12:48:36.221Z</sub>
 
 </div>

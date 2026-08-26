@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **190** |
+| 📝 Total de prompts | **191** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-08-26** |
 
@@ -56,6 +56,25 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Animação de celebração com monstro peludo Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo de um monstro peludo dançando e pulando em celebração, apresentando animação de personagem fluida e física de pelos dinâmica.
+
+#### 📝 Prompt
+
+```
+O fofo monstro peludo aleatório da imagem dança e pula alegremente em celebração contra um fundo branco limpo. O texto 3D flutuante acima diz claramente "Gemini Omni 1.1". Animação de personagem fluida, física de pelos dinâmica, explosão de confetes comemorativos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092314936617893888/img/VZxzIBEGF3Xr8GFO.jpg" width="600" alt="Animação de celebração com monstro peludo Gemini Omni">
+
+**[🎬 Assistir vídeo →](https://x.com/alwayspriyesh/status/2092315357856067593)**
+
+**Autor:** [Priy](https://x.com/alwayspriyesh) | **Fonte:** [Link](https://x.com/alwayspriyesh/status/2092315357856067593) | **Publicado:** Aug 25, 2026
+
+---
 ### Vídeo Macro de Marcenaria Artesanal
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2998,42 +3017,13 @@ Sem diálogo.
 **Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Publicado:** Jul 6, 2026
 
 ---
-### Retrato Cinematográfico em Filme de Cabelo Ruivo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt preciso baseado em linha do tempo para um vídeo cinematográfico de 10 segundos apresentando uma mulher de cabelos ruivos, utilizando estética de filme de médio formato e transições de iluminação específicas.
-
-#### 📝 Prompt
-
-```
-Retrato cinematográfico em filme de médio formato (Pentax 67, 90mm f/2.8, Kodak Portra 400). Mulher ruiva com sardas, olhos fechados, longos cabelos vermelhos soprando ao vento em um terraço em Barcelona. Pôr do sol na hora dourada, vazamentos de luz brilhantes, granulação de filme analógico.
-
-Prompt de Linha do Tempo de 10 Segundos:
-
-0-2s: Retrato em close-up. Uma brisa suave começa a levantar seu cabelo ruivo. Reflexos solares quentes cruzam a lente.
-
-3-5s: O vento intensifica. O cabelo chicoteia dinamicamente pelo rosto. Granulação de filme analógico e vazamentos de luz pulsam.
-
-6-8s: Panorâmica cinematográfica lenta ao redor do seu perfil. O pôr do sol da hora dourada destaca suas sardas e a textura do cabelo.
-
-8-10s: O vento diminui levemente. Um último vazamento de luz quente desaparece enquanto ela permanece imóvel e serena.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073723425554620416/img/5mw8vqRT0YwDv71P.jpg" width="600" alt="Retrato Cinematográfico em Filme de Cabelo Ruivo">
-
-**[🎬 Assistir vídeo →](https://x.com/michaelrabone/status/2073723756191637777)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2073723756191637777) | **Publicado:** Jul 5, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 90 mais prompts não mostrados aqui
+### 🎯 91 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3079,6 +3069,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-26T08:40:54.509Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-26T12:48:41.742Z</sub>
 
 </div>
