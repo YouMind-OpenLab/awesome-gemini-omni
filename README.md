@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **191** |
+| 📝 Total Prompts | **194** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-27** |
 
@@ -56,11 +56,68 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Furry Monster Gemini Omni Celebration Animation
+### Social Media Studio Dance Routine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A video generation prompt for a furry monster dancing and jumping in celebration, featuring smooth character animation and dynamic fur physics.
+> A detailed video generation prompt for a woman performing a rhythmic dance routine in a studio while maintaining high visual consistency with a reference image.
+
+#### 📝 Prompt
+
+```
+Use the uploaded image as the exact visual reference. The woman performs a stylish, energetic and smooth social-media dance routine in the same studio, wearing the same black outfit. She starts with graceful hand movements, then transitions into coordinated side steps, gentle turns, rhythmic arm movements and confident dance poses, perfectly synchronized to an upbeat pop beat. Keep her face, hairstyle, outfit, body proportions, studio background and overall appearance consistent with the reference image. The camera smoothly follows her movements with subtle cinematic tracking, occasional gentle zoom-in and zoom-out, while keeping her centered in the frame. Natural hair and clothing movement, realistic footwork, smooth transitions, expressive but natural performance. Vertical 9:16, TikTok/Reels style, high-energy choreography, photorealistic, cinematic studio lighting, sharp details, smooth motion, 4K quality, stable camera, no flickering, no body distortion, no extra people, no changes to the background or outfit.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787835143240_37hkbt_HQuD-UTaEAIdG4T.jpg" width="600" alt="Social Media Studio Dance Routine">
+
+**[🎬 Watch Video →](https://x.com/Soaima_Ai/status/2092911609471815890)**
+
+**Author:** [Soaima](https://x.com/Soaima_Ai) | **Source:** [Link](https://x.com/Soaima_Ai/status/2092911609471815890) | **Published:** Aug 27, 2026
+
+---
+### Cinematic Alpine Miniature Railway Construction
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt for generating a high-quality macro scene of human hands building a miniature railway viaduct in an alpine setting.
+
+#### 📝 Prompt
+
+```
+Create a cinematic ultra-realistic miniature railway construction scene on a massive stone viaduct in a breathtaking alpine mountain landscape. Start with a wide establishing shot of an elegant stone railway bridge spanning a deep rocky valley with a beautiful waterfall, pine forests, and snow-capped mountains in the background. Show giant human hands carefully constructing a tiny railway bridge, placing individual dark-gray stone blocks one by one into a detailed stone arch. Transition into close-up macro shots of the hands arranging miniature cobblestones and using small tools to refine the railway track and bridge surface. Show a hand brushing dust and debris away from the miniature railway tracks with a small brush, revealing highly detailed metal rails, wooden sleepers, and realistic stonework. Finally, reveal a small vintage steam locomotive smoothly traveling across the completed stone viaduct, releasing soft white steam as it passes through the spectacular mountain scenery. Style: photorealistic miniature diorama, macro cinematography, extreme detail, realistic hands, natural textures, cinematic depth of field, soft morning sunlight, atmospheric mountains, realistic steam, smooth camera movements, shallow depth of field, 4K, highly detailed, satisfying craftsmanship, seamless transitions, vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092821205900480512/img/6q52WU-FMeGjTQC_.jpg" width="600" alt="Cinematic Alpine Miniature Railway Construction">
+
+**[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2092821267154080235)**
+
+**Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2092821267154080235) | **Published:** Aug 27, 2026
+
+---
+### Office Worker Typing Realistic Video
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A concise video prompt for Gemini Omni Flash that depicts a Japanese office worker focused on their laptop in a sunset office with realistic film textures.
+
+#### 📝 Prompt
+
+```
+A Japanese male office worker in his early 30s with short black hair, wearing a charcoal gray jacket, is creating meeting materials while looking at a laptop in a slightly cluttered office with evening natural light streaming in. A wooden desk with documents scattered casually is in front of the person, and a tall houseplant is placed by the window in the far right of the screen. Photorealistic live-action expression. The person's skin naturally shows pores, slight color unevenness, age-appropriate eye area, light dark circles, and shaving stubble. The charcoal gray jacket shows fine weave patterns and natural wrinkles from wear. The wooden desk shows grain, fine scratches, and a dry matte surface. An everyday, realistic material expression that is not overly polished. Fine 35mm film grain throughout the image. A Japanese male office worker in his 30s is in an office in the evening; in the first half, he types intensely on a laptop. In the second half, he stops, leans forward slightly, stares at the screen, and exhales briefly. Warm window light, live-action film texture. Ambient sound only. No additional people, no text, no shape distortion.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787835146653_sv0ygw_HQpiNVIbMAAfYeg.jpg" width="600" alt="Office Worker Typing Realistic Video">
+
+**[🎬 Watch Video →](https://x.com/Immersion_cy/status/2092597319246258332)**
+
+**Author:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Source:** [Link](https://x.com/Immersion_cy/status/2092597319246258332) | **Published:** Aug 26, 2026
+
+---
+### Furry Monster Celebration Dance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video prompt for animating a furry creature with dynamic physics, confetti effects, and specific 3D branding text.
 
 #### 📝 Prompt
 
@@ -68,7 +125,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 The cute random furry monster from the image happily dances and jumps in celebration against a clean white background. Floating 3D text above clearly reads "Gemini Omni 1.1". Smooth character animation, dynamic fur physics, celebratory confetti burst.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2092314936617893888/img/VZxzIBEGF3Xr8GFO.jpg" width="600" alt="Furry Monster Gemini Omni Celebration Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092314936617893888/img/VZxzIBEGF3Xr8GFO.jpg" width="600" alt="Furry Monster Celebration Dance">
 
 **[🎬 Watch Video →](https://x.com/alwayspriyesh/status/2092315357856067593)**
 
@@ -3026,89 +3083,13 @@ Timeline (10 seconds):
 **Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Published:** Jul 7, 2026
 
 ---
-### Anime Cooking Montage Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a fast-paced anime-style cooking sequence, covering everything from fridge prep to the final meal.
-
-#### 📝 Prompt
-
-```
-A fast-paced, silent 10-second anime cooking montage with NO dialogue. Sequence: POV opening a fridge stocked for [noodles ] → pouring glossy sauce → slicing veggies → igniting a gas stove → feminine woman tossing ingredients in a sizzling wok → macro shot of steaming, bubbling [noodles ] → overhead flat-lay of the final feast → close-up of the man silently eating a big bite → final aesthetic shot of the steaming dish on a sunlit kitchen counter
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="Anime Cooking Montage Sequence">
-
-**[🎬 Watch Video →](https://x.com/Just_sharon7/status/2074360713766981924)**
-
-**Author:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **Published:** Jul 7, 2026
-
----
-### E-commerce Clothing Video Motion Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed video-to-video prompt for transferring precise character movements and postures from a source video to a targeted clothing item from a reference image.
-
-#### 📝 Prompt
-
-```
-Use the uploaded video as the sole motion reference, extracting only the motion rhythm, hand paths, palm opening and closing, sitting posture changes, and clothing-change logic of the lady in the center, while ignoring other characters and background movements. Use the uploaded image of the grey cat-print T-shirt as the sole target clothing reference. The target clothing must strictly replicate this grey short-sleeved round-neck T-shirt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="E-commerce Clothing Video Motion Prompt">
-
-**[🎬 Watch Video →](https://x.com/Chengzilhy/status/2074066431835000960)**
-
-**Author:** [小宇Chengzi](https://x.com/Chengzilhy) | **Source:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **Published:** Jul 6, 2026
-
----
-### Cinematic Boxing Training Character Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-fidelity prompt for generating a boxing training video that maintains strict character consistency using a reference image, featuring IMAX-style realism and detailed physical effects.
-
-#### 📝 Prompt
-
-```
-Use the attached male reference image as the ONLY identity reference for the main character.
-
-Maintain complete facial consistency throughout every frame. Preserve identical facial features, hairstyle, skin tone, beard, body proportions, and expressions from the attached reference image.
-
-Duration: 10 seconds.
-
-The first frame opens with the character already delivering rapid combinations to a heavy boxing bag inside a premium old-school boxing gym before sunrise. Sweat flies naturally through shafts of golden light. He slips an imaginary punch, throws a powerful hook, finishes with a clean uppercut, then quietly catches his breath while the heavy bag swings dramatically.
-
-Hollywood IMAX realism. Ultra-detailed skin textures. Cinematic sweat simulation. Realistic muscle movement. Volumetric lighting. Premium HDR grading.
-
-Camera:
-Extreme close-up beside the swinging bag → circular Steadicam orbit → slow-motion punch impact → dramatic wide reveal.
-
-Background Music:
-Dark hybrid trailer music featuring deep percussion, heartbeat bass, aggressive strings, cinematic brass.
-
-Environmental Sound:
-Heavy bag impacts, gloves striking leather, breathing, shoes sliding, chain movement, subtle gym reverb.
-
-No dialogue.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="Cinematic Boxing Training Character Prompt">
-
-**[🎬 Watch Video →](https://x.com/vireonixx/status/2073994774357655911)**
-
-**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Published:** Jul 6, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 91 more prompts not shown here
+### 🎯 94 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3154,6 +3135,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T07:24:19.290Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-27T18:50:46.647Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **191** |
+| 📝 Total de prompts | **194** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-08-27** |
 
@@ -56,6 +56,63 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Coreografia de Dança para Redes Sociais em Estúdio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado de geração de vídeo para uma mulher realizando uma coreografia de dança rítmica em um estúdio, mantendo alta consistência visual com uma imagem de referência.
+
+#### 📝 Prompt
+
+```
+Use a imagem enviada como referência visual exata. A mulher realiza uma coreografia de dança para redes sociais estilosa, energética e fluida no mesmo estúdio, vestindo o mesmo traje preto. Ela começa com movimentos graciosos das mãos, depois transita para passos laterais coordenados, giros suaves, movimentos rítmicos de braço e poses de dança confiantes, perfeitamente sincronizados com uma batida pop animada. Mantenha o rosto, penteado, traje, proporções corporais, fundo do estúdio e aparência geral consistentes com a imagem de referência. A câmera segue suavemente seus movimentos com um rastreamento cinematográfico sutil, ocasionais zooms suaves de aproximação e afastamento, mantendo-a centralizada no quadro. Movimento natural de cabelo e roupas, trabalho de pés realista, transições suaves, performance expressiva, porém natural. Vertical 9:16, estilo TikTok/Reels, coreografia de alta energia, fotorrealista, iluminação de estúdio cinematográfica, detalhes nítidos, movimento fluido, qualidade 4K, câmera estável, sem cintilação, sem distorção corporal, sem pessoas extras, sem alterações no fundo ou no traje.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787835143240_37hkbt_HQuD-UTaEAIdG4T.jpg" width="600" alt="Coreografia de Dança para Redes Sociais em Estúdio">
+
+**[🎬 Assistir vídeo →](https://x.com/Soaima_Ai/status/2092911609471815890)**
+
+**Autor:** [Soaima](https://x.com/Soaima_Ai) | **Fonte:** [Link](https://x.com/Soaima_Ai/status/2092911609471815890) | **Publicado:** Aug 27, 2026
+
+---
+### Construção Cinematográfica de Ferrovia Alpina em Miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico detalhado para gerar uma cena macro de alta qualidade de mãos humanas construindo um viaduto ferroviário em miniatura em um cenário alpino.
+
+#### 📝 Prompt
+
+```
+Crie uma cena cinematográfica ultrarrealista de construção de uma ferrovia em miniatura em um enorme viaduto de pedra em uma paisagem montanhosa alpina de tirar o fôlego. Comece com uma tomada ampla de estabelecimento de uma elegante ponte ferroviária de pedra atravessando um vale rochoso profundo com uma bela cachoeira, florestas de pinheiros e montanhas cobertas de neve ao fundo. Mostre mãos humanas gigantes construindo cuidadosamente uma pequena ponte ferroviária, colocando blocos de pedra cinza-escuros individuais, um por um, em um arco de pedra detalhado. Faça a transição para closes macro das mãos organizando paralelepípedos em miniatura e usando pequenas ferramentas para refinar a via férrea e a superfície da ponte. Mostre uma mão removendo poeira e detritos dos trilhos da ferrovia em miniatura com uma pequena escova, revelando trilhos de metal altamente detalhados, dormentes de madeira e alvenaria realista. Por fim, revele uma pequena locomotiva a vapor vintage viajando suavemente pelo viaduto de pedra concluído, liberando um vapor branco suave enquanto passa pela espetacular paisagem montanhosa. Estilo: diorama em miniatura fotorrealista, cinematografia macro, detalhes extremos, mãos realistas, texturas naturais, profundidade de campo cinematográfica, luz suave da manhã, montanhas atmosféricas, vapor realista, movimentos de câmera suaves, profundidade de campo rasa, 4K, altamente detalhado, artesanato satisfatório, transições perfeitas, vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092821205900480512/img/6q52WU-FMeGjTQC_.jpg" width="600" alt="Construção Cinematográfica de Ferrovia Alpina em Miniatura">
+
+**[🎬 Assistir vídeo →](https://x.com/AiwithBloodline/status/2092821267154080235)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2092821267154080235) | **Publicado:** Aug 27, 2026
+
+---
+### Vídeo realista de funcionário de escritório digitando
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt de vídeo conciso para o Gemini Omni Flash que retrata um funcionário de escritório japonês concentrado em seu laptop em um escritório ao pôr do sol, com texturas de filme realistas.
+
+#### 📝 Prompt
+
+```
+Um funcionário de escritório japonês na casa dos 30 anos, com cabelo curto e preto, vestindo um paletó cinza-carvão, está criando materiais de reunião enquanto olha para um laptop em um escritório levemente bagunçado com a luz natural do entardecer entrando. Uma mesa de madeira com documentos espalhados casualmente está à frente da pessoa, e uma planta alta está posicionada perto da janela no canto direito da tela. Expressão em live-action fotorrealista. A pele da pessoa mostra naturalmente poros, leve irregularidade de tom, área dos olhos condizente com a idade, leves olheiras e barba por fazer. O paletó cinza-carvão exibe padrões de tecido finos e rugas naturais de uso. A mesa de madeira mostra veios, pequenos arranhões e uma superfície fosca seca. Uma expressão de material realista e cotidiana, sem polimento excessivo. Granulação fina de filme 35mm por toda a imagem. Um funcionário de escritório japonês na casa dos 30 anos está em um escritório à noite; na primeira metade, ele digita intensamente em um laptop. Na segunda metade, ele para, inclina-se levemente para frente, encara a tela e solta um breve suspiro. Luz quente da janela, textura de filme live-action. Apenas som ambiente. Sem pessoas adicionais, sem texto, sem distorção de formas.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787835146653_sv0ygw_HQpiNVIbMAAfYeg.jpg" width="600" alt="Vídeo realista de funcionário de escritório digitando">
+
+**[🎬 Assistir vídeo →](https://x.com/Immersion_cy/status/2092597319246258332)**
+
+**Autor:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Fonte:** [Link](https://x.com/Immersion_cy/status/2092597319246258332) | **Publicado:** Aug 26, 2026
+
+---
 ### Animação de celebração de monstro peludo com Gemini Omni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2941,89 +2998,13 @@ Linha do tempo (10 segundos):
 **Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Publicado:** Jul 7, 2026
 
 ---
-### Sequência de Montagem de Culinária em Anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar uma sequência de culinária em estilo anime de ritmo acelerado, cobrindo desde a preparação na geladeira até a refeição final.
-
-#### 📝 Prompt
-
-```
-Uma montagem de culinária em anime de 10 segundos, silenciosa e de ritmo acelerado, SEM diálogos. Sequência: POV abrindo uma geladeira abastecida para [noodles] → despejando molho brilhante → cortando vegetais → acendendo um fogão a gás → mulher feminina jogando ingredientes em uma wok chiando → close macro de [noodles] fumegantes e borbulhantes → visão aérea do banquete final → close do homem comendo silenciosamente uma grande garfada → cena estética final do prato fumegante em uma bancada de cozinha iluminada pelo sol
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="Sequência de Montagem de Culinária em Anime">
-
-**[🎬 Assistir vídeo →](https://x.com/Just_sharon7/status/2074360713766981924)**
-
-**Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Fonte:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **Publicado:** Jul 7, 2026
-
----
-### Prompt de Movimento de Vídeo para E-commerce de Vestuário
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt detalhado de vídeo para vídeo para transferir movimentos e posturas precisas de personagens de um vídeo de origem para um item de vestuário alvo a partir de uma imagem de referência.
-
-#### 📝 Prompt
-
-```
-Use o vídeo enviado como a única referência de movimento, extraindo apenas o ritmo do movimento, trajetórias das mãos, abertura e fechamento das palmas, mudanças de postura ao sentar e a lógica de troca de roupa da mulher no centro, ignorando outros personagens e movimentos de fundo. Use a imagem enviada da camiseta cinza com estampa de gato como a única referência de vestuário alvo. A roupa alvo deve replicar rigorosamente esta camiseta cinza de manga curta e gola redonda.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="Prompt de Movimento de Vídeo para E-commerce de Vestuário">
-
-**[🎬 Assistir vídeo →](https://x.com/Chengzilhy/status/2074066431835000960)**
-
-**Autor:** [小宇Chengzi](https://x.com/Chengzilhy) | **Fonte:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **Publicado:** Jul 6, 2026
-
----
-### Prompt de Personagem para Treino de Boxe Cinematográfico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de alta fidelidade para gerar um vídeo de treino de boxe que mantém uma consistência rigorosa do personagem usando uma imagem de referência, apresentando realismo estilo IMAX e efeitos físicos detalhados.
-
-#### 📝 Prompt
-
-```
-Use a imagem de referência masculina anexada como a ÚNICA referência de identidade para o personagem principal.
-
-Mantenha consistência facial completa em todos os quadros. Preserve traços faciais, penteado, tom de pele, barba, proporções corporais e expressões idênticas aos da imagem de referência anexada.
-
-Duração: 10 segundos.
-
-O primeiro quadro abre com o personagem já desferindo combinações rápidas em um saco de pancadas pesado dentro de uma academia de boxe premium à moda antiga antes do nascer do sol. O suor voa naturalmente através de feixes de luz dourada. Ele esquiva de um soco imaginário, desfere um gancho potente, termina com um uppercut preciso e, em seguida, recupera o fôlego silenciosamente enquanto o saco de pancadas balança dramaticamente.
-
-Realismo Hollywood IMAX. Texturas de pele ultra detalhadas. Simulação de suor cinematográfica. Movimento muscular realista. Iluminação volumétrica. Gradação HDR premium.
-
-Câmera:
-Close-up extremo ao lado do saco em movimento → órbita circular de Steadicam → impacto de soco em câmera lenta → revelação ampla dramática.
-
-Trilha Sonora:
-Trilha sonora de trailer híbrida e sombria com percussão profunda, graves de batimento cardíaco, cordas agressivas e metais cinematográficos.
-
-Som Ambiente:
-Impactos no saco pesado, luvas atingindo o couro, respiração, sapatos deslizando, movimento de correntes, reverberação sutil de academia.
-
-Sem diálogos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="Prompt de Personagem para Treino de Boxe Cinematográfico">
-
-**[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2073994774357655911)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Publicado:** Jul 6, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 91 mais prompts não mostrados aqui
+### 🎯 94 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3069,6 +3050,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-27T07:24:38.219Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-27T18:51:03.297Z</sub>
 
 </div>

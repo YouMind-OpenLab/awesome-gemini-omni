@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **191** |
+| 📝 Tổng số prompt | **194** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-27** |
 
@@ -56,6 +56,63 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Vũ đạo nhảy cho video mạng xã hội
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video chi tiết dành cho người phụ nữ thực hiện bài nhảy nhịp điệu trong studio, đảm bảo tính nhất quán về hình ảnh so với ảnh tham chiếu.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh đã tải lên làm tham chiếu hình ảnh chính xác. Người phụ nữ thực hiện một bài nhảy phong cách, tràn đầy năng lượng và mượt mà dành cho mạng xã hội trong cùng một studio, mặc cùng bộ trang phục màu đen. Cô ấy bắt đầu với những chuyển động tay duyên dáng, sau đó chuyển sang các bước nhảy ngang phối hợp, những vòng xoay nhẹ nhàng, các động tác tay theo nhịp điệu và những tư thế nhảy đầy tự tin, được đồng bộ hoàn hảo với một bản nhạc pop sôi động. Giữ cho khuôn mặt, kiểu tóc, trang phục, tỷ lệ cơ thể, bối cảnh studio và ngoại hình tổng thể nhất quán với hình ảnh tham chiếu. Máy quay di chuyển mượt mà theo các động tác của cô ấy với kỹ thuật tracking điện ảnh tinh tế, thỉnh thoảng zoom vào và zoom ra nhẹ nhàng, đồng thời giữ cô ấy ở vị trí trung tâm khung hình. Chuyển động tóc và quần áo tự nhiên, bước chân thực tế, chuyển cảnh mượt mà, biểu cảm nhưng vẫn tự nhiên. Định dạng dọc 9:16, phong cách TikTok/Reels, biên đạo năng lượng cao, chân thực như ảnh chụp, ánh sáng studio điện ảnh, chi tiết sắc nét, chuyển động mượt mà, chất lượng 4K, máy quay ổn định, không nhấp nháy, không biến dạng cơ thể, không có người lạ, không thay đổi bối cảnh hoặc trang phục.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787835143240_37hkbt_HQuD-UTaEAIdG4T.jpg" width="600" alt="Vũ đạo nhảy cho video mạng xã hội">
+
+**[🎬 Xem video →](https://x.com/Soaima_Ai/status/2092911609471815890)**
+
+**Tác giả:** [Soaima](https://x.com/Soaima_Ai) | **Nguồn:** [Link](https://x.com/Soaima_Ai/status/2092911609471815890) | **Đã xuất bản:** Aug 27, 2026
+
+---
+### Xây dựng mô hình đường sắt vùng núi Alpine theo phong cách điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) chi tiết theo phong cách điện ảnh để tạo ra cảnh quay macro chất lượng cao về đôi bàn tay con người đang xây dựng một cây cầu cạn đường sắt thu nhỏ trong khung cảnh vùng núi Alpine.
+
+#### 📝 Prompt
+
+```
+Tạo một cảnh quay xây dựng đường sắt thu nhỏ siêu thực theo phong cách điện ảnh trên một cây cầu cạn bằng đá đồ sộ giữa khung cảnh núi non Alpine hùng vĩ. Bắt đầu bằng một cú máy toàn cảnh về cây cầu đường sắt bằng đá thanh lịch bắc qua thung lũng đá sâu với thác nước tuyệt đẹp, rừng thông và những ngọn núi phủ tuyết ở phía xa. Hiển thị đôi bàn tay khổng lồ của con người đang cẩn thận xây dựng cây cầu đường sắt tí hon, đặt từng khối đá màu xám sẫm vào vòm đá chi tiết. Chuyển sang các cảnh quay macro cận cảnh đôi bàn tay đang sắp xếp những viên đá cuội thu nhỏ và sử dụng các công cụ nhỏ để tinh chỉnh đường ray và bề mặt cầu. Hiển thị một bàn tay đang dùng chổi nhỏ quét bụi và mảnh vụn khỏi đường ray thu nhỏ, để lộ ra các thanh ray kim loại, tà vẹt gỗ và công trình đá vô cùng chi tiết. Cuối cùng, để lộ một đầu máy hơi nước cổ điển nhỏ đang di chuyển êm ái trên cây cầu đá đã hoàn thiện, tỏa ra làn khói trắng nhẹ nhàng khi đi qua khung cảnh núi non ngoạn mục. Phong cách: mô hình thu nhỏ chân thực, quay phim macro, chi tiết cực cao, bàn tay chân thực, kết cấu tự nhiên, độ sâu trường ảnh điện ảnh, ánh sáng mặt trời buổi sáng dịu nhẹ, không khí vùng núi, hơi nước chân thực, chuyển động máy ảnh mượt mà, độ sâu trường ảnh nông, 4K, chi tiết cao, sự khéo léo đầy mãn nhãn, chuyển cảnh mượt mà, dọc 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092821205900480512/img/6q52WU-FMeGjTQC_.jpg" width="600" alt="Xây dựng mô hình đường sắt vùng núi Alpine theo phong cách điện ảnh">
+
+**[🎬 Xem video →](https://x.com/AiwithBloodline/status/2092821267154080235)**
+
+**Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2092821267154080235) | **Đã xuất bản:** Aug 27, 2026
+
+---
+### Video chân thực về nhân viên văn phòng đang gõ máy tính
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh video ngắn gọn dành cho Gemini Omni Flash, mô tả một nhân viên văn phòng người Nhật đang tập trung làm việc trên máy tính xách tay trong văn phòng lúc hoàng hôn với kết cấu phim chân thực.
+
+#### 📝 Prompt
+
+```
+Một nam nhân viên văn phòng người Nhật khoảng ngoài 30 tuổi, tóc đen ngắn, mặc áo khoác màu xám than, đang soạn tài liệu cuộc họp trên máy tính xách tay trong một văn phòng hơi bừa bộn với ánh sáng tự nhiên buổi chiều chiếu vào. Một chiếc bàn gỗ với các tài liệu nằm rải rác một cách tự nhiên ở phía trước, và một chậu cây cao được đặt cạnh cửa sổ ở phía xa bên phải màn hình. Biểu cảm chân thực như người thật. Làn da của nhân vật thể hiện rõ lỗ chân lông, màu da không đều nhẹ, vùng mắt phù hợp với độ tuổi, quầng thâm nhẹ và râu mới cạo. Chiếc áo khoác màu xám than cho thấy các đường dệt tinh tế và những nếp nhăn tự nhiên do mặc. Bàn gỗ có vân, các vết xước nhỏ và bề mặt mờ khô. Một cách thể hiện chất liệu thực tế, đời thường, không quá bóng bẩy. Hạt phim 35mm tinh tế bao phủ toàn bộ hình ảnh. Một nam nhân viên văn phòng người Nhật ở độ tuổi 30 đang ở trong văn phòng vào buổi tối; trong nửa đầu, anh ấy gõ máy tính một cách tập trung. Trong nửa sau, anh ấy dừng lại, hơi nghiêng người về phía trước, nhìn chằm chằm vào màn hình và thở hắt ra một chút. Ánh sáng cửa sổ ấm áp, kết cấu phim người đóng. Chỉ có âm thanh môi trường. Không có người khác, không có văn bản, không bị biến dạng hình dạng.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787835146653_sv0ygw_HQpiNVIbMAAfYeg.jpg" width="600" alt="Video chân thực về nhân viên văn phòng đang gõ máy tính">
+
+**[🎬 Xem video →](https://x.com/Immersion_cy/status/2092597319246258332)**
+
+**Tác giả:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Nguồn:** [Link](https://x.com/Immersion_cy/status/2092597319246258332) | **Đã xuất bản:** Aug 26, 2026
+
+---
 ### Hoạt ảnh ăn mừng của quái vật lông xù Gemini Omni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2887,89 +2944,13 @@ Dòng thời gian (10 giây):
 **Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Đã xuất bản:** Jul 7, 2026
 
 ---
-### Chuỗi phân cảnh nấu ăn phong cách Anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết để tạo chuỗi phân cảnh nấu ăn phong cách anime với nhịp độ nhanh, bao gồm mọi công đoạn từ chuẩn bị nguyên liệu trong tủ lạnh đến thành phẩm cuối cùng.
-
-#### 📝 Prompt
-
-```
-Một đoạn phim montage nấu ăn phong cách anime nhịp độ nhanh, không lời thoại, thời lượng 10 giây. Trình tự: Góc nhìn thứ nhất (POV) mở tủ lạnh đầy ắp [noodles ] → rót nước sốt bóng bẩy → thái rau củ → bật bếp ga → một người phụ nữ nữ tính đang đảo nguyên liệu trong chảo wok nóng hổi → cận cảnh macro [noodles ] đang bốc khói nghi ngút → góc quay từ trên xuống (flat-lay) toàn bộ bàn tiệc cuối cùng → cận cảnh người đàn ông lặng lẽ thưởng thức một miếng lớn → cảnh quay thẩm mỹ cuối cùng của món ăn đang bốc khói trên mặt bàn bếp ngập tràn ánh nắng
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="Chuỗi phân cảnh nấu ăn phong cách Anime">
-
-**[🎬 Xem video →](https://x.com/Just_sharon7/status/2074360713766981924)**
-
-**Tác giả:** [Sharon Riley](https://x.com/Just_sharon7) | **Nguồn:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **Đã xuất bản:** Jul 7, 2026
-
----
-### Prompt chuyển động video cho thời trang thương mại điện tử
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một prompt video-to-video chi tiết giúp chuyển đổi chính xác các chuyển động và tư thế của nhân vật từ video nguồn sang sản phẩm quần áo mục tiêu từ hình ảnh tham chiếu.
-
-#### 📝 Prompt
-
-```
-Sử dụng video đã tải lên làm tài liệu tham chiếu chuyển động duy nhất, chỉ trích xuất nhịp điệu chuyển động, quỹ đạo tay, cử động đóng mở lòng bàn tay, thay đổi tư thế ngồi và logic thay đổi trang phục của người phụ nữ ở trung tâm, đồng thời bỏ qua các nhân vật khác và chuyển động của hậu cảnh. Sử dụng hình ảnh chiếc áo thun in hình mèo màu xám đã tải lên làm tài liệu tham chiếu trang phục mục tiêu duy nhất. Trang phục mục tiêu phải tái tạo chính xác chiếc áo thun cổ tròn tay ngắn màu xám này.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="Prompt chuyển động video cho thời trang thương mại điện tử">
-
-**[🎬 Xem video →](https://x.com/Chengzilhy/status/2074066431835000960)**
-
-**Tác giả:** [小宇Chengzi](https://x.com/Chengzilhy) | **Nguồn:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **Đã xuất bản:** Jul 6, 2026
-
----
-### Prompt Nhân vật Tập luyện Quyền anh Điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt độ trung thực cao để tạo video tập luyện quyền anh, duy trì tính nhất quán nghiêm ngặt của nhân vật bằng hình ảnh tham chiếu, mang phong cách chân thực kiểu IMAX và các hiệu ứng vật lý chi tiết.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh tham chiếu nam giới đính kèm làm tài liệu tham khảo nhận dạng DUY NHẤT cho nhân vật chính.
-
-Duy trì sự nhất quán hoàn toàn trên khuôn mặt trong mọi khung hình. Bảo toàn các đặc điểm khuôn mặt, kiểu tóc, tông màu da, râu, tỷ lệ cơ thể và biểu cảm giống hệt như trong hình ảnh tham chiếu đính kèm.
-
-Thời lượng: 10 giây.
-
-Khung hình đầu tiên mở ra với cảnh nhân vật đang thực hiện các đòn phối hợp nhanh vào bao cát nặng bên trong một phòng tập quyền anh cổ điển cao cấp trước bình minh. Mồ hôi bay tự nhiên qua những tia sáng vàng. Anh né một cú đấm tưởng tượng, tung một cú móc uy lực, kết thúc bằng một cú đấm móc ngược gọn gàng, sau đó lặng lẽ lấy lại hơi thở trong khi bao cát đung đưa đầy kịch tính.
-
-Chân thực kiểu Hollywood IMAX. Kết cấu da siêu chi tiết. Mô phỏng mồ hôi đậm chất điện ảnh. Chuyển động cơ bắp chân thực. Ánh sáng thể tích. Phân loại màu HDR cao cấp.
-
-Camera:
-Cận cảnh cực đại bên cạnh bao cát đang đung đưa → quỹ đạo Steadicam hình tròn → tác động cú đấm chuyển động chậm → góc rộng đầy kịch tính.
-
-Nhạc nền:
-Nhạc trailer lai tối tăm với bộ gõ trầm, âm bass nhịp tim, đàn dây mạnh mẽ, kèn đồng điện ảnh.
-
-Âm thanh môi trường:
-Tiếng va chạm bao cát, găng tay đập vào da, tiếng thở, tiếng giày trượt trên sàn, tiếng xích chuyển động, tiếng vang tinh tế của phòng tập.
-
-Không có lời thoại.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="Prompt Nhân vật Tập luyện Quyền anh Điện ảnh">
-
-**[🎬 Xem video →](https://x.com/vireonixx/status/2073994774357655911)**
-
-**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Đã xuất bản:** Jul 6, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 91 prompt khác không hiển thị ở đây
+### 🎯 94 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3015,6 +2996,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-27T07:24:26.518Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-27T18:50:53.558Z</sub>
 
 </div>

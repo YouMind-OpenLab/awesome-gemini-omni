@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **191** |
+| 📝 Total de prompts | **194** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-08-27** |
 
@@ -56,6 +56,63 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Rutina de baile para redes sociales en estudio
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado de generación de video para una mujer realizando una rutina de baile rítmica en un estudio, manteniendo una alta consistencia visual con una imagen de referencia.
+
+#### 📝 Prompt
+
+```
+Utiliza la imagen cargada como referencia visual exacta. La mujer realiza una rutina de baile para redes sociales elegante, enérgica y fluida en el mismo estudio, vistiendo el mismo atuendo negro. Comienza con movimientos de manos elegantes, luego pasa a pasos laterales coordinados, giros suaves, movimientos rítmicos de brazos y poses de baile seguras, perfectamente sincronizadas con un ritmo pop animado. Mantén su rostro, peinado, atuendo, proporciones corporales, fondo del estudio y apariencia general consistentes con la imagen de referencia. La cámara sigue sus movimientos suavemente con un seguimiento cinemático sutil, acercamientos y alejamientos suaves ocasionales, mientras la mantiene centrada en el encuadre. Movimiento natural del cabello y la ropa, juego de pies realista, transiciones suaves, interpretación expresiva pero natural. Vertical 9:16, estilo TikTok/Reels, coreografía de alta energía, fotorrealista, iluminación de estudio cinemática, detalles nítidos, movimiento fluido, calidad 4K, cámara estable, sin parpadeos, sin distorsión corporal, sin personas adicionales, sin cambios en el fondo ni en el atuendo.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787835143240_37hkbt_HQuD-UTaEAIdG4T.jpg" width="600" alt="Rutina de baile para redes sociales en estudio">
+
+**[🎬 Ver video →](https://x.com/Soaima_Ai/status/2092911609471815890)**
+
+**Autor:** [Soaima](https://x.com/Soaima_Ai) | **Fuente:** [Link](https://x.com/Soaima_Ai/status/2092911609471815890) | **Publicado:** Aug 27, 2026
+
+---
+### Construcción cinematográfica de un ferrocarril en miniatura alpino
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematográfico detallado para generar una escena macro de alta calidad de manos humanas construyendo un viaducto ferroviario en miniatura en un entorno alpino.
+
+#### 📝 Prompt
+
+```
+Crea una escena cinematográfica ultrarrealista de la construcción de un ferrocarril en miniatura sobre un enorme viaducto de piedra en un impresionante paisaje de montaña alpino. Comienza con una toma panorámica de un elegante puente ferroviario de piedra que atraviesa un profundo valle rocoso con una hermosa cascada, bosques de pinos y montañas nevadas al fondo. Muestra manos humanas gigantes construyendo cuidadosamente un pequeño puente ferroviario, colocando bloques de piedra gris oscuro uno por uno en un arco de piedra detallado. Transiciona a tomas macro en primer plano de las manos organizando adoquines en miniatura y usando herramientas pequeñas para perfeccionar la vía férrea y la superficie del puente. Muestra una mano quitando el polvo y los escombros de las vías del tren en miniatura con un cepillo pequeño, revelando rieles de metal altamente detallados, durmientes de madera y mampostería realista. Finalmente, muestra una pequeña locomotora de vapor antigua viajando suavemente a través del viaducto de piedra terminado, liberando un suave vapor blanco mientras atraviesa el espectacular paisaje montañoso. Estilo: diorama en miniatura fotorrealista, cinematografía macro, detalle extremo, manos realistas, texturas naturales, profundidad de campo cinematográfica, luz solar suave de la mañana, montañas atmosféricas, vapor realista, movimientos de cámara suaves, profundidad de campo reducida, 4K, altamente detallado, artesanía satisfactoria, transiciones fluidas, vertical 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092821205900480512/img/6q52WU-FMeGjTQC_.jpg" width="600" alt="Construcción cinematográfica de un ferrocarril en miniatura alpino">
+
+**[🎬 Ver video →](https://x.com/AiwithBloodline/status/2092821267154080235)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fuente:** [Link](https://x.com/AiwithBloodline/status/2092821267154080235) | **Publicado:** Aug 27, 2026
+
+---
+### Video realista de oficinista escribiendo
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de video conciso para Gemini Omni Flash que representa a un oficinista japonés concentrado en su laptop en una oficina al atardecer, con texturas de película realistas.
+
+#### 📝 Prompt
+
+```
+Un oficinista japonés de unos 30 años, de cabello negro corto y vistiendo una chaqueta gris carbón, crea materiales para una reunión mientras mira una laptop en una oficina ligeramente desordenada, con la luz natural del atardecer entrando por la ventana. Frente a él hay un escritorio de madera con documentos dispersos de forma casual, y una planta alta está situada junto a la ventana en el extremo derecho de la pantalla. Expresión de acción real fotorrealista. La piel de la persona muestra poros naturales, ligeras irregularidades de tono, un área de los ojos acorde a su edad, ojeras leves y restos de barba. La chaqueta gris carbón muestra patrones de tejido fino y arrugas naturales por el uso. El escritorio de madera muestra vetas, rasguños finos y una superficie mate seca. Una expresión de material cotidiana y realista, sin un acabado excesivamente pulido. Grano de película de 35mm fino en toda la imagen. Un oficinista japonés de 30 años se encuentra en una oficina durante el atardecer; en la primera mitad, escribe intensamente en una laptop. En la segunda mitad, se detiene, se inclina ligeramente hacia adelante, mira fijamente la pantalla y exhala brevemente. Luz cálida de ventana, textura de película de acción real. Solo sonido ambiental. Sin personas adicionales, sin texto, sin distorsión de formas.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787835146653_sv0ygw_HQpiNVIbMAAfYeg.jpg" width="600" alt="Video realista de oficinista escribiendo">
+
+**[🎬 Ver video →](https://x.com/Immersion_cy/status/2092597319246258332)**
+
+**Autor:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Fuente:** [Link](https://x.com/Immersion_cy/status/2092597319246258332) | **Publicado:** Aug 26, 2026
+
+---
 ### Animación de celebración de monstruo peludo con Gemini Omni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2912,89 +2969,13 @@ Línea de tiempo (10 segundos):
 **Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fuente:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Publicado:** Jul 7, 2026
 
 ---
-### Secuencia de montaje de cocina estilo anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para generar una secuencia de cocina estilo anime de ritmo rápido, que abarca desde la preparación en el refrigerador hasta el plato final.
-
-#### 📝 Prompt
-
-```
-Un montaje de cocina estilo anime de 10 segundos, de ritmo rápido y sin diálogos. Secuencia: POV abriendo un refrigerador lleno de [noodles ] → vertiendo una salsa brillante → cortando verduras → encendiendo una estufa de gas → una mujer lanzando ingredientes en un wok chisporroteante → toma macro de [noodles ] humeantes y burbujeantes → toma cenital del banquete final → primer plano del hombre comiendo un bocado grande en silencio → toma estética final del plato humeante sobre una encimera de cocina iluminada por el sol
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="Secuencia de montaje de cocina estilo anime">
-
-**[🎬 Ver video →](https://x.com/Just_sharon7/status/2074360713766981924)**
-
-**Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Fuente:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **Publicado:** Jul 7, 2026
-
----
-### Prompt de movimiento de video para ropa de comercio electrónico
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado de video a video para transferir movimientos y posturas precisas de un personaje desde un video de origen a una prenda de vestir específica a partir de una imagen de referencia.
-
-#### 📝 Prompt
-
-```
-Utilice el video cargado como la única referencia de movimiento, extrayendo únicamente el ritmo del movimiento, las trayectorias de las manos, la apertura y cierre de las palmas, los cambios de postura al sentarse y la lógica de cambio de ropa de la mujer en el centro, mientras ignora a otros personajes y los movimientos del fondo. Utilice la imagen cargada de la camiseta gris con estampado de gato como la única referencia de la prenda objetivo. La prenda objetivo debe replicar estrictamente esta camiseta gris de manga corta y cuello redondo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="Prompt de movimiento de video para ropa de comercio electrónico">
-
-**[🎬 Ver video →](https://x.com/Chengzilhy/status/2074066431835000960)**
-
-**Autor:** [小宇Chengzi](https://x.com/Chengzilhy) | **Fuente:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **Publicado:** Jul 6, 2026
-
----
-### Prompt de personaje para entrenamiento de boxeo cinematográfico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de alta fidelidad para generar un video de entrenamiento de boxeo que mantiene una estricta consistencia del personaje usando una imagen de referencia, con realismo estilo IMAX y efectos físicos detallados.
-
-#### 📝 Prompt
-
-```
-Utiliza la imagen de referencia masculina adjunta como la ÚNICA referencia de identidad para el personaje principal.
-
-Mantén una consistencia facial completa en cada fotograma. Preserva los rasgos faciales, el peinado, el tono de piel, la barba, las proporciones corporales y las expresiones idénticas a las de la imagen de referencia adjunta.
-
-Duración: 10 segundos.
-
-El primer fotograma comienza con el personaje lanzando combinaciones rápidas a un saco de boxeo pesado dentro de un gimnasio de boxeo premium de la vieja escuela antes del amanecer. El sudor vuela de forma natural a través de rayos de luz dorada. Esquiva un golpe imaginario, lanza un gancho potente, termina con un uppercut limpio y luego recupera el aliento tranquilamente mientras el saco pesado se balancea dramáticamente.
-
-Realismo estilo Hollywood IMAX. Texturas de piel ultra detalladas. Simulación de sudor cinematográfica. Movimiento muscular realista. Iluminación volumétrica. Graduación de color HDR premium.
-
-Cámara:
-Primer plano extremo junto al saco que se balancea → órbita circular con Steadicam → impacto de golpe en cámara lenta → revelación panorámica dramática.
-
-Música de fondo:
-Música de tráiler híbrida y oscura con percusión profunda, bajos tipo latido, cuerdas agresivas y metales cinematográficos.
-
-Sonido ambiental:
-Impactos en el saco pesado, guantes golpeando el cuero, respiración, deslizamiento de zapatos, movimiento de cadenas, reverberación sutil de gimnasio.
-
-Sin diálogos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="Prompt de personaje para entrenamiento de boxeo cinematográfico">
-
-**[🎬 Ver video →](https://x.com/vireonixx/status/2073994774357655911)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Fuente:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Publicado:** Jul 6, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
 
 <div align="center">
 
-### 🎯 91 más prompts no mostrados aquí
+### 🎯 94 más prompts no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3040,6 +3021,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-27T07:24:31.415Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-08-27T18:50:57.046Z</sub>
 
 </div>

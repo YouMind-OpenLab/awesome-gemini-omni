@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **191** |
+| 📝 Toplam İstem | **194** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-27** |
 
@@ -56,6 +56,63 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sosyal Medya Stüdyo Dans Koreografisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir referans görselle yüksek görsel tutarlılığı koruyarak, stüdyoda ritmik bir dans rutini sergileyen bir kadın için detaylı video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Yüklenen görseli tam görsel referans olarak kullanın. Kadın, aynı stüdyoda ve aynı siyah kıyafetle şık, enerjik ve akıcı bir sosyal medya dans rutini sergiliyor. Zarif el hareketleriyle başlıyor, ardından koordineli yan adımlara, hafif dönüşlere, ritmik kol hareketlerine ve kendinden emin dans pozlarına geçiş yapıyor; tüm bunlar hareketli bir pop ritmiyle mükemmel bir uyum içinde. Yüzünü, saç stilini, kıyafetini, vücut oranlarını, stüdyo arka planını ve genel görünümünü referans görselle tutarlı tutun. Kamera, onu kadrajın merkezinde tutarak hafif sinematik takip, ara sıra yumuşak yakınlaştırma ve uzaklaştırma ile hareketlerini akıcı bir şekilde izliyor. Doğal saç ve kıyafet hareketi, gerçekçi ayak hareketleri, pürüzsüz geçişler, etkileyici ama doğal bir performans. Dikey 9:16, TikTok/Reels tarzı, yüksek enerjili koreografi, fotogerçekçi, sinematik stüdyo aydınlatması, keskin detaylar, akıcı hareket, 4K kalite, sabit kamera, titreme yok, vücut bozulması yok, başka insan yok, arka planda veya kıyafette değişiklik yok.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787835143240_37hkbt_HQuD-UTaEAIdG4T.jpg" width="600" alt="Sosyal Medya Stüdyo Dans Koreografisi">
+
+**[🎬 Videoyu izle →](https://x.com/Soaima_Ai/status/2092911609471815890)**
+
+**Yazar:** [Soaima](https://x.com/Soaima_Ai) | **Kaynak:** [Link](https://x.com/Soaima_Ai/status/2092911609471815890) | **Yayınlandı:** Aug 27, 2026
+
+---
+### Sinematik Alp Minyatür Demiryolu İnşası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İnsan ellerinin Alp ortamında minyatür bir demiryolu viyadüğü inşa ettiği yüksek kaliteli bir makro sahne oluşturmak için ayrıntılı sinematik komut.
+
+#### 📝 İstem
+
+```
+Nefes kesici bir Alp dağ manzarasındaki devasa bir taş viyadük üzerinde sinematik, ultra gerçekçi bir minyatür demiryolu inşa sahnesi oluşturun. Arka planda güzel bir şelale, çam ormanları ve karla kaplı dağların bulunduğu derin ve kayalık bir vadiyi kapsayan zarif bir taş demiryolu köprüsünün geniş bir genel çekimiyle başlayın. Dev insan ellerinin, tek tek koyu gri taş bloklarını ayrıntılı bir taş kemere yerleştirerek minik bir demiryolu köprüsünü dikkatlice inşa ettiğini gösterin. Ellerinin minyatür parke taşlarını düzenlediği ve demiryolu hattı ile köprü yüzeyini iyileştirmek için küçük aletler kullandığı yakın çekim makro görüntülere geçiş yapın. Bir elin, küçük bir fırça ile minyatür demiryolu raylarındaki toz ve kalıntıları temizlediğini, böylece son derece ayrıntılı metal rayların, ahşap traverslerin ve gerçekçi taş işçiliğinin ortaya çıktığını gösterin. Son olarak, tamamlanmış taş viyadüğün üzerinden sorunsuz bir şekilde geçen, muhteşem dağ manzarasında ilerlerken yumuşak beyaz buhar çıkaran küçük bir nostaljik buharlı lokomotifi gösterin. Stil: fotogerçekçi minyatür diorama, makro sinematografi, aşırı detay, gerçekçi eller, doğal dokular, sinematik alan derinliği, yumuşak sabah gün ışığı, atmosferik dağlar, gerçekçi buhar, akıcı kamera hareketleri, sığ alan derinliği, 4K, yüksek detay, tatmin edici işçilik, kusursuz geçişler, dikey 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2092821205900480512/img/6q52WU-FMeGjTQC_.jpg" width="600" alt="Sinematik Alp Minyatür Demiryolu İnşası">
+
+**[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2092821267154080235)**
+
+**Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2092821267154080235) | **Yayınlandı:** Aug 27, 2026
+
+---
+### Ofis Çalışanı Yazı Yazma Gerçekçi Video
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Gemini Omni Flash için, gün batımında bir ofiste dizüstü bilgisayarına odaklanmış, gerçekçi film dokularına sahip bir Japon ofis çalışanını betimleyen kısa bir video istemi.
+
+#### 📝 İstem
+
+```
+30'lu yaşlarının başında, kısa siyah saçlı, antrasit gri ceket giyen Japon bir erkek ofis çalışanı, akşam gün ışığının içeri süzüldüğü hafif dağınık bir ofiste dizüstü bilgisayarına bakarak toplantı materyalleri hazırlıyor. Kişinin önünde belgelerin gelişigüzel dağıldığı ahşap bir masa ve ekranın en sağında, pencerenin yanında uzun bir ev bitkisi bulunuyor. Fotogerçekçi canlı çekim ifadesi. Kişinin cildi doğal bir şekilde gözenekleri, hafif renk eşitsizliklerini, yaşına uygun göz çevresini, hafif göz altı morluklarını ve tıraş gölgelerini gösteriyor. Antrasit gri ceket, ince dokuma desenlerini ve kullanımdan kaynaklanan doğal kırışıklıkları yansıtıyor. Ahşap masa; damarları, ince çizikleri ve kuru mat yüzeyi ile dikkat çekiyor. Aşırı parlatılmamış, gündelik ve gerçekçi bir materyal ifadesi. Görüntünün tamamında ince 35mm film greni mevcut. 30'lu yaşlarında Japon bir erkek ofis çalışanı akşam saatlerinde bir ofiste; ilk yarıda dizüstü bilgisayarda yoğun bir şekilde yazı yazıyor. İkinci yarıda duruyor, hafifçe öne eğiliyor, ekrana bakıyor ve kısa bir süre nefes veriyor. Sıcak pencere ışığı, canlı çekim film dokusu. Sadece ortam sesi. Başka insan yok, metin yok, şekil bozulması yok.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787835146653_sv0ygw_HQpiNVIbMAAfYeg.jpg" width="600" alt="Ofis Çalışanı Yazı Yazma Gerçekçi Video">
+
+**[🎬 Videoyu izle →](https://x.com/Immersion_cy/status/2092597319246258332)**
+
+**Yazar:** [TOMOZO｜AI](https://x.com/Immersion_cy) | **Kaynak:** [Link](https://x.com/Immersion_cy/status/2092597319246258332) | **Yayınlandı:** Aug 26, 2026
+
+---
 ### Tüylü Canavar Gemini Omni Kutlama Animasyonu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2911,89 +2968,13 @@ Zaman Çizelgesi (10 saniye):
 **Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Yayınlandı:** Jul 7, 2026
 
 ---
-### Anime Tarzı Yemek Hazırlama Montajı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Buzdolabı hazırlığından son yemeğe kadar her aşamayı kapsayan, hızlı tempolu anime tarzı bir yemek hazırlama sekansı oluşturmak için detaylı bir istem.
-
-#### 📝 İstem
-
-```
-Diyalog içermeyen, 10 saniyelik, hızlı tempolu ve sessiz bir anime yemek hazırlama montajı. Sekans: [noodles ] ile dolu bir buzdolabının açıldığı POV çekimi → parlak sosun dökülmesi → sebzelerin doğranması → gazlı ocağın yakılması → kadın karakterin cızırdayan wok tavada malzemeleri karıştırması → dumanı tüten, fokurdayan [noodles ] makro çekimi → final ziyafetinin tepeden düz çekimi → erkeğin sessizce büyük bir lokma yediği yakın çekim → güneş alan bir mutfak tezgahında dumanı tüten yemeğin estetik final çekimi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074360013620219904/img/LyybcGxdR3CGblti.jpg" width="600" alt="Anime Tarzı Yemek Hazırlama Montajı">
-
-**[🎬 Videoyu izle →](https://x.com/Just_sharon7/status/2074360713766981924)**
-
-**Yazar:** [Sharon Riley](https://x.com/Just_sharon7) | **Kaynak:** [Link](https://x.com/Just_sharon7/status/2074360713766981924) | **Yayınlandı:** Jul 7, 2026
-
----
-### E-ticaret Giyim Video Hareket İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Kaynak bir videodaki hassas karakter hareketlerini ve duruşlarını, referans bir görseldeki hedef giyim ürününe aktarmak için kullanılan detaylı bir video-videoya dönüştürme istemi.
-
-#### 📝 İstem
-
-```
-Yüklenen videoyu tek hareket referansı olarak kullanın; yalnızca merkezdeki kadının hareket ritmini, el yollarını, avuç içi açılıp kapanma hareketlerini, oturma duruşu değişikliklerini ve kıyafet değiştirme mantığını çıkarın, diğer karakterleri ve arka plan hareketlerini görmezden gelin. Yüklenen gri kedi baskılı tişört görselini tek hedef kıyafet referansı olarak kullanın. Hedef kıyafet, bu gri kısa kollu bisiklet yaka tişörtü birebir kopyalamalıdır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2072982828665733120/img/d41DgGhUj6xcArLK.jpg" width="600" alt="E-ticaret Giyim Video Hareket İstemi">
-
-**[🎬 Videoyu izle →](https://x.com/Chengzilhy/status/2074066431835000960)**
-
-**Yazar:** [小宇Chengzi](https://x.com/Chengzilhy) | **Kaynak:** [Link](https://x.com/Chengzilhy/status/2074066431835000960) | **Yayınlandı:** Jul 6, 2026
-
----
-### Sinematik Boks Antrenmanı Karakter İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Referans görsel kullanarak katı karakter tutarlılığını koruyan, IMAX tarzı gerçekçilik ve detaylı fiziksel efektler içeren, yüksek sadakatli bir boks antrenmanı videosu oluşturma istemi.
-
-#### 📝 İstem
-
-```
-Ana karakter için TEK kimlik referansı olarak ekteki erkek referans görselini kullanın.
-
-Her karede tam yüz tutarlılığını koruyun. Ekteki referans görselindeki yüz hatlarını, saç stilini, cilt tonunu, sakalı, vücut oranlarını ve ifadeleri birebir muhafaza edin.
-
-Süre: 10 saniye.
-
-İlk kare, karakterin gün doğumundan önce birinci sınıf, eski tarz bir boks salonunda ağır bir boks torbasına hızlı kombinasyonlar vurmasıyla başlar. Ter, altın rengi ışık huzmeleri arasında doğal bir şekilde havaya saçılır. Hayali bir yumruktan sıyrılır, güçlü bir kroşe atar, temiz bir aparkat ile bitirir ve ardından ağır torba dramatik bir şekilde sallanırken sessizce nefesini toplar.
-
-Hollywood IMAX gerçekçiliği. Ultra detaylı cilt dokuları. Sinematik ter simülasyonu. Gerçekçi kas hareketi. Volumetrik aydınlatma. Premium HDR derecelendirme.
-
-Kamera:
-Sallanan torbanın yanında aşırı yakın çekim → dairesel Steadicam yörüngesi → ağır çekim yumruk darbesi → dramatik geniş açı geçişi.
-
-Arka Plan Müziği:
-Derin perküsyon, kalp atışı bas, agresif yaylılar ve sinematik nefesli çalgılar içeren karanlık hibrit fragman müziği.
-
-Çevresel Ses:
-Ağır torba darbeleri, deriye çarpan eldivenler, nefes alışverişi, ayakkabı sürtünmesi, zincir hareketi, hafif spor salonu yankısı.
-
-Diyalog yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2073994711053074432/img/C6tdsOM2__24ElcP.jpg" width="600" alt="Sinematik Boks Antrenmanı Karakter İstemi">
-
-**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2073994774357655911)**
-
-**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2073994774357655911) | **Yayınlandı:** Jul 6, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 91 burada gösterilmeyen daha fazla istem
+### 🎯 94 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3039,6 +3020,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-27T07:24:41.117Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-27T18:51:08.178Z</sub>
 
 </div>
