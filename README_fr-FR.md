@@ -46,9 +46,9 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **194** |
+| 📝 Total des prompts | **196** |
 | ⭐ Prompts en vedette | **0** |
-| 🔄 Dernière mise à jour | **2026-08-27** |
+| 🔄 Dernière mise à jour | **2026-08-28** |
 
 ---
 
@@ -3000,7 +3000,7 @@ Chronologie (10 secondes) :
 
 <div align="center">
 
-### 🎯 94 prompts supplémentaires non affichés ici
+### 🎯 96 prompts supplémentaires non affichés ici
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3046,6 +3046,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-27T18:51:00.911Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-08-28T04:02:38.464Z</sub>
 
 </div>

@@ -46,9 +46,9 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **194** |
+| 📝 총 프롬프트 수 | **196** |
 | ⭐ 추천 프롬프트 | **0** |
-| 🔄 마지막 업데이트 | **2026-08-27** |
+| 🔄 마지막 업데이트 | **2026-08-28** |
 
 ---
 
@@ -2998,7 +2998,7 @@ FPV 드론 추격(이미 이동 중) → 측면 트래킹 → 휠 장착 카메�
 
 <div align="center">
 
-### 🎯 94 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 96 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3044,6 +3044,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-27T18:50:51.366Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-08-28T04:02:28.825Z</sub>
 
 </div>

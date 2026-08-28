@@ -46,9 +46,9 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **194** |
+| 📝 提示词总数 | **196** |
 | ⭐ 精选提示词 | **0** |
-| 🔄 最后更新 | **2026-08-27** |
+| 🔄 最后更新 | **2026-08-28** |
 
 ---
 
@@ -3004,7 +3004,7 @@ FPV 无人机追拍（已在运动中）→ 侧向跟拍 → 车轮安装摄像�
 
 <div align="center">
 
-### 🎯 94 更多提示词未在此显示
+### 🎯 96 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3050,6 +3050,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-27T18:50:47.823Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-28T04:02:24.301Z</sub>
 
 </div>

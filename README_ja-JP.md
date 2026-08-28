@@ -46,9 +46,9 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **194** |
+| 📝 プロンプト総数 | **196** |
 | ⭐ おすすめプロンプト | **0** |
-| 🔄 最終更新 | **2026-08-27** |
+| 🔄 最終更新 | **2026-08-28** |
 
 ---
 
@@ -2999,7 +2999,7 @@ FPV ドローンによる追走（開始時点）→ サイドトラッキング
 
 <div align="center">
 
-### 🎯 94 さらに多くのプロンプトがあります
+### 🎯 96 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3045,6 +3045,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-27T18:50:50.147Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-28T04:02:27.471Z</sub>
 
 </div>

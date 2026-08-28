@@ -46,9 +46,9 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **194** |
+| 📝 कुल प्रॉम्पट्स | **196** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
-| 🔄 अंतिम अपडेट | **2026-08-27** |
+| 🔄 अंतिम अपडेट | **2026-08-28** |
 
 ---
 
@@ -3003,7 +3003,7 @@ FPV ड्रोन चेज़ पहले से गति में → स
 
 <div align="center">
 
-### 🎯 94 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 96 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3049,6 +3049,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-27T18:50:54.862Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-28T04:02:32.776Z</sub>
 
 </div>
