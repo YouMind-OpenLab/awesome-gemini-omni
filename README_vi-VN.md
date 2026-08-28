@@ -2996,6 +2996,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-28T04:02:31.525Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-28T19:53:59.390Z</sub>
 
 </div>
