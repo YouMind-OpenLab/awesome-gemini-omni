@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **196** |
+| 📝 Gesamtanzahl Prompts | **208** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-08-29** |
 
@@ -56,6 +56,322 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Chrome-Roboter Werbeskript
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexes, mehrszeniges Skript für einen Roboter-Charakter im Stil der 1990er Jahre, inklusive Titelkarten, Bewegungsvorgaben und synchronisiertem Dialog.
+
+#### 📝 Prompt
+
+```
+Während des gesamten Spots: ein praktischer Roboter-Anzug im Stil der 1990er Jahre, Chrom und Gummi, auf der Brustplatte steht „OMNI 1.1“.
+Derselbe Roboter. In jeder einzelnen Einstellung. Daran darf nichts geändert werden.
+
+[0-1s] Fette, dringliche Titelkarte:
+„GERADE VON GOOGLE REINGEKOMMEN!“
+
+[1-5s] Der Roboter steht still vor einem sauberen, dunklen Hintergrund. 
+Premium-Chrom-Titelkarten erscheinen nacheinander:
+
+„BIS ZU 4K.“
+„AUF 10 SEKUNDEN ERWEITERN.“
+„2 FOTOS → 1 VIDEO.“
+„3 CLIPS. BLEIBT KONSISTENT.“
+
+Derselbe Roboter. Er bewegt sich nicht. Er verändert sich nicht.
+
+[5-10s] SCHNITT AUF: Matrix-Dojo. Derselbe Roboter. Kein Kostümwechsel.
+Ein Kind steht ihm ernst gegenüber.
+
+Kind: „Kannst du Kung Fu?“
+Omni schlägt zu. Omni zieht seine Hand zurück.
+Omni sagt: „Autsch.“
+Pause.
+Omni sagt: „Ich arbeite daran, Kleiner.“
+
+Abschlusskarte: „GEMINI OMNI 1.1“
+
+Audio: Nachrichten-Jingle beim Opener. Stille während der Feature-Karten.
+Anschwellende Matrix-Musik beim Schnitt ins Dojo. Schlag. Stille. „Autsch.“
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093563402916667392/img/JzOGeTSe5sUvg5s1.jpg" width="600" alt="Chrome-Roboter Werbeskript">
+
+**[🎬 Video ansehen →](https://x.com/BrentLynch/status/2093563415730258318)**
+
+**Autor:** [Brent Lynch](https://x.com/BrentLynch) | **Quelle:** [Link](https://x.com/BrentLynch/status/2093563415730258318) | **Veröffentlicht:** Aug 29, 2026
+
+---
+### Werbespot für eine Miniatur-Schokoladenfabrik
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochdetaillierter 10-sekündiger Video-Prompt für eine fotorealistische Miniatur-Schokoladenfabrik mit winzigen Arbeitern und schrittweiser Produktion.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 10-sekündiges, ultrarealistisches, filmisches Video einer Miniatur-Schokoladenfabrik. Zeige eine winzige, geschäftige Schokoladenproduktionsstätte, die von entzückenden Miniatur-Arbeitern in professionellen weißen Uniformen, Haarnetzen und winzigen Schürzen betrieben wird.
+
+0–2 Sek.: Mini-Arbeiter gießen vorsichtig geschmolzene Schokolade aus einem großen Edelstahltank in kleine Formen auf einem sich bewegenden Förderband, mit realistischem Dampf und glänzender Schokoladentextur.
+
+2–4 Sek.: Die Schokoladenformen bewegen sich durch einen Miniatur-Kühltunnel. Arbeiter inspizieren jedes Stück mit winzigen Werkzeugen und Lupen.
+
+4–6 Sek.: Arbeiter dekorieren die fertigen Pralinen mit Nüssen, Karamellstreifen, Schokoladenguss und winzigen bunten Streuseln unter Verwendung von Miniaturmaschinen und Präzisionswerkzeugen.
+
+6–8 Sek.: Ein schnell laufendes Förderband transportiert perfekt geformte Pralinen zur Verpackungsstation. Winzige Arbeiter legen jede Praline in elegante Premium-Verpackungen und kleine Schachteln.
+
+8–10 Sek.: Letzte Hero-Einstellung — Dutzende wunderschön verpackter Pralinen bewegen sich über das Förderband, während die Miniatur-Arbeiter stolz die Produktionslinie inspizieren. Die Kamera fährt langsam auf eine perfekt fertiggestellte Pralinenschachtel zu.
+
+Stil: fotorealistische Miniaturwelt, filmische Makrofotografie, realistisches Schmelzen und Gießen von Schokolade, hochdetaillierte Miniaturmaschinen, natürliche Bewegungen der Arbeiter, geringe Schärfentiefe, warme Luxus-Schokoladenfabrik-Beleuchtung, realistische Reflexionen, dezenter Dampf, flüssige Kamerabewegung, befriedigende ASMR-Produktionsatmosphäre, erstklassige Werbequalität, 4K, physikalisch korrekte Texturen, kein Cartoon-Look.
+
+Kamera: Makro-Nahaufnahmen, flüssige Tracking-Shots, winzige Low-Angle-Perspektiven, nahtlose Übergänge, filmische Schärfentiefe.
+
+Wichtig: Behalte die gleichen Miniatur-Arbeiter, das Fabriklayout, das Aussehen der Schokolade und den visuellen Stil während der gesamten 10-sekündigen Sequenz bei. Kein Text, keine Logos, keine verzerrten Hände, keine zusätzlichen Gliedmaßen, kein Flimmern, keine abrupten Schnitte.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093541345403224065/img/MdHVgd5_LknOet9K.jpg" width="600" alt="Werbespot für eine Miniatur-Schokoladenfabrik">
+
+**[🎬 Video ansehen →](https://x.com/AiwithBloodline/status/2093541403796353389)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Quelle:** [Link](https://x.com/AiwithBloodline/status/2093541403796353389) | **Veröffentlicht:** Aug 29, 2026
+
+---
+### Showdown des Wüsten-Ninjas bei Sonnenuntergang
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer 10-sekündiger Showdown in der Wüste zwischen einem maskierten Ninja und drei Kriegern bei Sonnenuntergang, basierend auf Referenzbildern für das Charakterdesign.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie die hochgeladenen Bilder als visuelle Referenz für die Charaktere. Erstellen Sie eine 10-sekündige cineastische Live-Action-Szene in einer Wüste bei Sonnenuntergang. Ein maskierter Ninja steht allein drei dunklen Kriegern gegenüber, die einige Meter entfernt sind. Verwenden Sie Bild 2 als visuelle Referenz für den maskierten Ninja. Nutzen Sie Bild 1 als Inspiration für die drei gegnerischen Krieger und gestalten Sie diese als drei unterschiedliche Charaktere derselben Fraktion. Alle Personen verharren unbeweglich und konzentrieren sich aufeinander. Wind weht sanft Staub über die Wüste. Subtile Stoffbewegungen. Starke cineastische Spannung. Der Anführer der Krieger sieht den Ninja an und sagt: „Du bist allein gekommen.“ Der Ninja blickt ruhig zurück und antwortet: „Ich bin wegen dir gekommen.“ Halten Sie die Stille nach der Antwort für einen Moment. Kein Kampf. Kein Angriff. Keine Schwertbewegungen. Kein physischer Kontakt. Keine Verletzungen. Keine Gewalt. Cineastischer Live-Action-Realismus, natürliche Körpersprache, realistisches Lip-Sync, subtile Kamerabewegungen, dramatisches Licht des Sonnenuntergangs, authentische Wüstenatmosphäre.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093385776910221312/img/UaTv2dFJc0O_n79Y.jpg" width="600" alt="Showdown des Wüsten-Ninjas bei Sonnenuntergang">
+
+**[🎬 Video ansehen →](https://x.com/shikoba_86/status/2093446020499943538)**
+
+**Autor:** [Marco "Shikoba" Riccetti](https://x.com/shikoba_86) | **Quelle:** [Link](https://x.com/shikoba_86/status/2093446020499943538) | **Veröffentlicht:** Aug 28, 2026
+
+---
+### K-Pop MV One-Take-Tanz
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein High-Velocity-Kamera-Prompt für eine durchgehende One-Take-Tanzaufnahme im Stil eines K-Pop-Musikvideos, mit Fokus auf die Ausstrahlung der Tänzer.
+
+#### 📝 Prompt
+
+```
+[# Referenzen <IMAGE_REF_0>@Image1 <IMAGE_REF_1>@Image2 <IMAGE_REF_2>@Image3] Streng eine einzige, durchgehende und ununterbrochene Aufnahme (keine Schnitte). Dynamische K-Pop-MV-Kamerabewegung mit Fokus auf den Oberkörper und die tänzerische Ausstrahlung, kombiniert mit dynamischen Ganzkörperaufnahmen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093441543726133248/img/SbUC1IZDPZuNWs_n.jpg" width="600" alt="K-Pop MV One-Take-Tanz">
+
+**[🎬 Video ansehen →](https://x.com/Tomw852/status/2093441641571131816)**
+
+**Autor:** [Tom𝕎](https://x.com/Tomw852) | **Quelle:** [Link](https://x.com/Tomw852/status/2093441641571131816) | **Veröffentlicht:** Aug 28, 2026
+
+---
+### Magier gegen Feuerdämon: Fantasy-Schlacht
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein epischer, filmreifer Fantasy-Video-Prompt, der einen Magier zeigt, der auf einer zerfallenden Steinbrücke einem riesigen Feuerdämon gegenübersteht, mit dramatischer 8K-Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Episches, filmreifes Fantasy-Video eines mächtigen grauen Magiers, der auf einer zerfallenden Steinbrücke steht, einem gigantischen Feuerdämon gegenübertritt, seinen Stab erhebt und „Du kommst nicht vorbei!“ ruft, dramatische Beleuchtung, weitläufige Kamerawinkel, fotorealistisch, 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093419822549757952/img/L5SAmpbdC8ruEuPY.jpg" width="600" alt="Magier gegen Feuerdämon: Fantasy-Schlacht">
+
+**[🎬 Video ansehen →](https://x.com/Conor_D_Dart/status/2093419950522118605)**
+
+**Autor:** [Conor Dart](https://x.com/Conor_D_Dart) | **Quelle:** [Link](https://x.com/Conor_D_Dart/status/2093419950522118605) | **Veröffentlicht:** Aug 28, 2026
+
+---
+### Cinematic Rock Climber Training
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein hochwertiger, kinoreifer Prompt für Videos im Sportfotografie-Stil, der einen Kletterer in einer modernen Halle mit dramatischer Beleuchtung zeigt.
+
+#### 📝 Prompt
+
+```
+Wunderschönes, kinoreifes Video eines Sportkletterers beim Training in einer modernen Kletterhalle, professionelle Sportfotografie, dynamische Kamerawinkel, realistische Bewegungen, dramatische Beleuchtung, 8K, virale Twitter-Ästhetik.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093387864948011008/img/iNmD5O3-vLLPrTeE.jpg" width="600" alt="Cinematic Rock Climber Training">
+
+**[🎬 Video ansehen →](https://x.com/Conor_D_Dart/status/2093388008061804767)**
+
+**Autor:** [Conor Dart](https://x.com/Conor_D_Dart) | **Quelle:** [Link](https://x.com/Conor_D_Dart/status/2093388008061804767) | **Veröffentlicht:** Aug 28, 2026
+
+---
+### Storyboard für luxuriöse Erdbeerkonfitüre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender Storyboard-Entwurf für einen Werbespot für Gourmet-Erdbeerkonfitüre, mit Makro-Texturen, Zeitlupen-Aufnahmen beim Eintauchen des Löffels und einer erstklassigen Frühstücksästhetik.
+
+#### 📝 Prompt
+
+```
+TITEL:
+Produkt-Storyboard für Premium-Erdbeerkonfitüre
+
+FORMAT:
+• Einseitiges Premium-Storyboard
+• 3:4 Hochformat
+• Luxuriöse Frühstücks-Kampagne
+• 8 filmische, produktfokussierte Szenen
+• Das Produkt bleibt der visuelle Held
+• Hochwertige Werbepräsentation
+
+HEADER:
+• Elegante Serifentypografie
+• Informationskarten:
+  - Dauer: 20 Sekunden
+  - Stil: Gourmet-Frühstückswerbung
+  - Produkt: Erdbeerkonfitüre
+  - Audio: Sanftes Food-ASMR
+• Bereich „Warum dieser Stil funktioniert“
+• Ästhetik in Erdbeerrot, Creme und sanftem Rosa
+• Minimale, von Früchten inspirierte dekorative Details
+
+STORYBOARD:
+1. Premium-Konfitüreglas, umgeben von frischen Erdbeeren
+2. Öffnen des Glasdeckels in einer extremen Makroaufnahme
+3. Löffel taucht langsam in die dickflüssige Erdbeerkonfitüre ein
+4. Glänzende Konfitüre zieht sich in Zeitlupe vom Löffel
+5. Frische Erdbeerstückchen fallen in die Konfitüre
+6. Konfitüre wird geschmeidig auf warmem Toastbrot verstrichen
+7. Extremes Makro zeigt Erdbeersamen und reichhaltige Textur
+8. Abschließendes Hero-Shot des Glases mit Toast, Erdbeeren und glänzendem Konfitüren-Spritzer
+
+JEDES PANEL:
+• Szenennummer
+• Dauer-Badge
+• Kameraanweisung
+• Visualisierung
+• Aktion
+• Produktdetail
+
+KAMERA:
+Extremes Makro, Zeitlupen-Aufstrich, Food-Komposition aus der Vogelperspektive, sanfter Kamera-Zoom, geringe Schärfentiefe, Premium-Packshot.
+
+STIL:
+Ultra-realistische Food-Fotografie, glänzende Fruchttextur, realistische Konfitürenkonsistenz, frische Erdbeeren, warme natürliche Beleuchtung, hochwertige Glasverpackung, Luxus-Frühstückswerbung, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787993736055_vz04eo_HQ0vDf8akAAXOp1.jpg" width="600" alt="Storyboard für luxuriöse Erdbeerkonfitüre">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2093381158356815935)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2093381158356815935) | **Veröffentlicht:** Aug 28, 2026
+
+---
+### Streamer-Zombie-Spiel: Kampf mit der Spritze
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Video-Generierungs-Prompt, der eine Streamerin zeigt, die ein Horrorspiel spielt, in dem eine Krankenschwester mit einer Spritze gegen Zombies kämpft.
+
+#### 📝 Prompt
+
+```
+Eine Streamerin spielt ein Spiel, in dem die Hauptfigur eine Krankenschwester ist, die mit einer Spritze gegen Zombies kämpft.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093361666260160512/img/DZmjmoHLaqVaRj87.jpg" width="600" alt="Streamer-Zombie-Spiel: Kampf mit der Spritze">
+
+**[🎬 Video ansehen →](https://x.com/DrstaOne/status/2093364188781703596)**
+
+**Autor:** [DrstaOne](https://x.com/DrstaOne) | **Quelle:** [Link](https://x.com/DrstaOne/status/2093364188781703596) | **Veröffentlicht:** Aug 28, 2026
+
+---
+### Mountainbike First-Person POV
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein High-Speed-Mountainbike-Abfahrts-Prompt für Action-Kameras, der Physik, felsiges Gelände und Umgebungsrealismus über verschiedene Modelle hinweg testet.
+
+#### 📝 Prompt
+
+```
+Ultrarealistische First-Person-POV-Fahrt mit dem Mountainbike einen steilen, felsigen Pfad hoch in den Bergen hinunter. Der Fahrer rast bergab durch scharfe Kurven, über Felsen und kleine Sprünge, umgeben von riesigen Klippen und Berglandschaften. Ausschließlich strikte First-Person-POV-Perspektive, hohe Geschwindigkeit, realistische Kamerabewegungen und Bodenhaftung, echtes Action-Kamera-Filmmaterial.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093328534945120256/img/eqNWd7v_zlAgy7uM.jpg" width="600" alt="Mountainbike First-Person POV">
+
+**[🎬 Video ansehen →](https://x.com/YourAlphaMom/status/2093333326635405357)**
+
+**Autor:** [Alpha Mom](https://x.com/YourAlphaMom) | **Quelle:** [Link](https://x.com/YourAlphaMom/status/2093333326635405357) | **Veröffentlicht:** Aug 28, 2026
+
+---
+### Bergsteiger am Mount Everest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt zur Erstellung von hochwertigem Filmmaterial eines Bergsteigers am Mount Everest mit professioneller 8k-Fotoästhetik.
+
+#### 📝 Prompt
+
+```
+wunderschönes Video eines Bergsteigers am Mount Everest, professionelle Fotografie, 8k, im Trend auf Twitter
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093234584049647617/img/vP2tzlpiCT3zr7sd.jpg" width="600" alt="Bergsteiger am Mount Everest">
+
+**[🎬 Video ansehen →](https://x.com/Conor_D_Dart/status/2093234779890102730)**
+
+**Autor:** [Conor Dart](https://x.com/Conor_D_Dart) | **Quelle:** [Link](https://x.com/Conor_D_Dart/status/2093234779890102730) | **Veröffentlicht:** Aug 28, 2026
+
+---
+### Kommentar einer Streamerin zu einem Zombiegame
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Video-Prompt zur Erstellung einer Szene, in der eine Streamerin ein Zombiegame spielt und kommentiert, in dem eine Krankenschwester als Charakter vorkommt.
+
+#### 📝 Prompt
+
+```
+Eine Streamerin kommentiert und spielt ein Spiel, in dem die Hauptfigur eine Krankenschwester ist, die mit einer Spritze gegen Zombies kämpft.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093215829534146560/img/Tl3KL8c5NyN2Ivev.jpg" width="600" alt="Kommentar einer Streamerin zu einem Zombiegame">
+
+**[🎬 Video ansehen →](https://x.com/rovvmut_/status/2093215928863650296)**
+
+**Autor:** [Heisenberg](https://x.com/rovvmut_) | **Quelle:** [Link](https://x.com/rovvmut_/status/2093215928863650296) | **Veröffentlicht:** Aug 28, 2026
+
+---
+### Makro-Video: Unboxing einer Miniatur-Drohne
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer Makro-Video-Prompt, der das realistische Auspacken und Zusammenbauen einer winzigen faltbaren Drohne auf einem Holztisch zeigt.
+
+#### 📝 Prompt
+
+```
+Erstelle ein hochrealistisches, kinoreifes Makro-Video, das zeigt, wie eine winzige Drohne im Stil der DJI Mini 5 Pro auf einem Holztisch ausgepackt und zusammengebaut wird. Beginne mit einer kleinen weißen Verkaufsverpackung der Drohne und zeige dann, wie menschliche Hände die Verpackung vorsichtig öffnen und die faltbare Miniatur-Drohne herausheben. Fange detaillierte Nahaufnahmen ein, wie die Drohne auseinandergefaltet und ihre Komponenten auf der Verpackung platziert werden. Schließe mit einer extremen Makroaufnahme der kompakten grauen Drohne ab, während die hintere Batterieanzeige grün leuchtet. Warme Innenbeleuchtung, geringe Schärfentiefe, realistische Haut- und Kunststofftexturen, flüssige Handbewegungen, erstklassige Produktwerbungs-Ästhetik, filmische Kamerabewegung, scharfer Fokus auf die Drohne, natürliche Schatten, 4K-Fotorealismus, vertikale 9:16-Komposition, kein Text oder Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093197036824965121/img/tqzfGB18jYkI11KI.jpg" width="600" alt="Makro-Video: Unboxing einer Miniatur-Drohne">
+
+**[🎬 Video ansehen →](https://x.com/AiwithBloodline/status/2093197063421108689)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Quelle:** [Link](https://x.com/AiwithBloodline/status/2093197063421108689) | **Veröffentlicht:** Aug 28, 2026
+
+---
 ### Social Media Studio-Tanzroutine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2358,649 +2674,13 @@ Kamera umkreist das Produkt langsam, Reflexionen bewegen sich über die Oberflä
 **Autor:** [getimg.ai](https://x.com/getimg_ai) | **Quelle:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **Veröffentlicht:** Jul 10, 2026
 
 ---
-### Filmreife Martial-Arts-Kampfszene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender Video-Prompt für eine 10-sekündige Martial-Arts-Sequenz mit technischen Kameradetails, Sounddesign und Wahrung der Charakteridentität.
-
-#### 📝 Prompt
-
-```
-Erstelle eine 10-sekündige, ultra-fotorealistische, filmreife Martial-Arts-Sequenz, inspiriert vom klassischen Hongkong-Actionkino, moderner Stunt-Choreografie und erstklassiger Hollywood-Filmkunst.
-
-Verwende das bereitgestellte Referenzbild des Mannes als Protagonisten.
-
-Bewahre die absolute Identitätskonsistenz in jedem Frame.
-
-Behalte exakt bei:
-
-* Gesichtsstruktur
-* Frisur
-* Augenform
-* Hautton
-* Körperproportionen
-* Gesichtsbehaarung (falls vorhanden)
-* Kleidungskontinuität
-* Mimik
-* Accessoires
-
-Der Protagonist muss während jeder Bewegung, jeder Nahaufnahme, jeder Zeitlupensequenz und jedem Kameraübergang perfekt erkennbar bleiben.
-
----
-
-# STIL
-
-Ultra-fotorealistisch.
-
-Bodenständige Kampfkunst.
-
-Keine übernatürlichen Kräfte.
-
-Authentische Kampfchoreografie.
-
-Spielfilmqualität.
-
-Praktische Stuntarbeit.
-
-Unsichtbares CGI.
-
-Erstklassiges filmisches Color Grading.
-
-Großformatige IMAX-Kinematografie.
-
----
-
-# KAMERA-EQUIPMENT
-
-ARRI ALEXA 65
-
-Panavision Ultra Vista anamorphotische Objektive
-
-Steadicam
-
-High-Speed Phantom Flex
-
-Technocrane
-
-Langsamer kreisförmiger Dolly
-
-Makro-Einsätze
-
-Natürliche Handkamera bei Aufprallen
-
----
-
-# MUSIK
-
-Der Soundtrack beginnt sofort.
-
-Hartes Hard-Rock-Gitarrenriff.
-
-Schnelle Double-Kick-Drums.
-
-Treibende Bassgitarre.
-
-Hybride orchestrale Percussion.
-
-Massive filmische Trailer-Hits.
-
-Beim entscheidenden Schlag verstummt jedes Instrument sofort.
-
-Nur Atemgeräusche und Stoffbewegungen bleiben übrig.
-
-Die Gitarren setzen mit maximaler Kraft wieder ein.
-
----
-
-# SOUNDDESIGN
-
-Barfüßige Schritte.
-
-Stoffbewegungen.
-
-Kontrollierte Atmung.
-
-Präzise Schläge.
-
-Körpertreffer, die durch Mark und Bein gehen.
-
-Splitterndes Holz.
-
-Natürliche Raumakustik.
-
-Perfekte Synchronisation zwischen jedem Schlag und jedem Trommelschlag.
-
----
-
-# BELEUCHTUNG
-
-Morgendliches Sonnenlicht durch Dojo-Fenster.
-
-Warme Highlights.
-
-Natürliche Schatten.
-
-Schwebende Staubpartikel.
-
-Hoher Dynamikumfang.
-
----
-
-# FORMAT
-
-10 Sekunden
-
-5 filmische Einstellungen.
-
----
-
-## EINSTELLUNG 1 (0:00–0:02) — DIE HERAUSFORDERUNG
-
-Ein riesiges, traditionelles Dojo.
-
-Der Protagonist steht sechs Elite-Kampfkünstlern gegenüber.
-
-Niemand spricht.
-
-Das Hard-Rock-Riff beginnt sofort.
-
----
-
-## EINSTELLUNG 2 (0:02–0:04) — STILLE
-
-Extreme Nahaufnahme.
-
-Der Protagonist schließt ruhig die Augen.
-
-Alle anderen bereiten sich auf den Angriff vor.
-
-Die Drums bauen sich auf.
-
----
-
-## EINSTELLUNG 3 (0:04–0:06) — EINE BEWEGUNG
-
-Die Angreifer stürmen gleichzeitig vor.
-
-Der Protagonist macht eine einzige, präzise Bewegung.
-
-Der Soundtrack verstummt.
-
-Nur Schritte und Atemgeräusche bleiben übrig.
-
----
-
-## EINSTELLUNG 4 (0:06–0:08) — ENTHÜLLUNG
-
-Die Angreifer erstarren.
-
-Einer nach dem anderen verlieren sie das Gleichgewicht und brechen zusammen.
-
-Der Protagonist zeigt keine Regung.
-
-Die Gitarren setzen explosiv wieder ein.
-
----
-
-## EINSTELLUNG 5 (0:08–0:10) — RESPEKT
-
-Der Dojo-Meister, der von oben zuschaut, verbeugt sich langsam.
-
-Der Protagonist erwidert die Verbeugung.
-
-Die Kamera steigt durch die Holzdecke in den Morgenhimmel auf.
-
-Der letzte Gitarrenakkord klingt aus.
-
-Schnitt auf Schwarz.
-
----
-
-# EMOTIONALES ZIEL
-
-Das Publikum sollte sofort denken:
-
-**„Wahre Meisterschaft sieht nicht schnell aus... sie sieht mühelos aus.“**
-
----
-
-# TECHNISCHE ANFORDERUNGEN
-
-Spielfilmrealismus
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Filmreife Martial-Arts-Kampfszene">
-
-**[🎬 Video ansehen →](https://x.com/vireonixx/status/2075533217193742739)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **Veröffentlicht:** Jul 10, 2026
-
----
-### Makro-Comedy mit Kakerlaken im Kino-Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, mehrstufiger Video-Prompt zur Erstellung einer fotorealistischen Comedy-Szene mit Kakerlaken, die mit einem Pizzastück interagieren, inklusive eines 10-sekündigen Zeitplans.
-
-#### 📝 Prompt
-
-```
-Subjekt: Eine fotorealistische Comedy-Szene im Makro-Stil mit zwei Kakerlaken auf einem schmutzigen, leicht feuchten Gehweg bei Nacht, die mit einem weggeworfenen Pizzastück interagieren.
-
-Kamera & Ästhetik: Aufgenommen mit einer Leica SL2 und einem 100-mm-Makroobjektiv. Emulation des Kodak Portra 400-Filmmaterials mit organischem Filmkorn, sattem Farbkontrast und geringer Schärfentiefe. Die Beleuchtung ist filmische Straßenbeleuchtung mit weichen Neonreflexionen, die vom fettigen Pizzakäse und dem nassen Beton abprallen.
-
-Audio: Düstere Umgebungsgeräusche der Straße, matschige Soundeffekte beim Essen und ein markanter Voiceover-Charakter am Ende.
-
-10-sekündiger Zeitplan:
-
-0-3s: Extreme Makro-Nahaufnahme. Zwei hochdetaillierte, ausdrucksstarke Kakerlaken stehen auf einem fettigen, übergroßen Pizzastück. Sie haben ihre Vorderbeine um einen leuchtend gelben, glänzenden Ananasring geschlungen, der im Käse steckt. Sie strengen sich an und ziehen gemeinsam nach hinten.
-
-3-5s: Der Mozzarella-Käse dehnt sich dramatisch wie ein Gummiband. Mit einem plötzlichen, viszeralen Schnalzen löst sich der Ananasring vom Teig.
-
-5-7s: Die Kamera zieht nach, während der Ananasring auf der Kante auf dem Beton landet, schnell den strukturierten Gehweg entlangrollt und im weichen, unscharfen Hintergrund-Bokeh verschwindet.
-
-7-10s: Schneller Schnitt zurück zu den beiden Kakerlaken. Sie wischen sich die Vorderbeine in einer Geste der Erleichterung ab. Die Kamera zoomt leicht auf die rechte Kakerlake, die direkt in die Kamera schaut, ihre Vorderbeine frustriert in die Luft wirft und mit perfekter Lippen- bzw. Mandibel-Synchronisation deutlich ruft: „Das ist ja ekelhaft!“
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Makro-Comedy mit Kakerlaken im Kino-Stil">
-
-**[🎬 Video ansehen →](https://x.com/michaelrabone/status/2075490289062400195)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Quelle:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **Veröffentlicht:** Jul 10, 2026
-
----
-### Fotorealistische Horrorfilm-Sequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein strukturierter 10-sekündiger filmischer Horror-Prompt, der ein Referenzbild verwendet, um eine spannungsgeladene Szene in einem viktorianischen Haus zu erstellen.
-
-#### 📝 Prompt
-
-```
-Erstelle eine 10-sekündige, ultra-fotorealistische filmische Horror-Sequenz, inspiriert von *The Conjuring*, *Smile* und *Hereditary*.
-
-Verwende das bereitgestellte Referenzbild als Protagonisten.
-
-## STIL
-
-Realistischer Horror.
-Minimale visuelle Effekte.
-Natürliche Dunkelheit.
-Praktische Beleuchtung.
-Langsam aufbauende Spannung.
-Kein Splatter.
-
-## FORMAT
-
-10 Sekunden
-5 Einstellungen
-
-### EINSTELLUNG 1 (0:00–0:02)
-
-Der Protagonist erkundet ein verlassenes viktorianisches Haus nur mit einer Taschenlampe.
-
-### EINSTELLUNG 2 (0:02–0:04)
-
-Er macht ein Foto einen dunklen Flur entlang.
-Nichts Ungewöhnliches ist zu sehen.
-
-### EINSTELLUNG 3 (0:04–0:06)
-
-Beim Betrachten des Fotos erscheint eine lächelnde Gestalt am Ende des Flurs.
-Der echte Flur ist leer.
-
-### EINSTELLUNG 4 (0:06–0:08)
-
-Er senkt langsam das Telefon und schaut nach vorne.
-Immer noch nichts.
-
-### EINSTELLUNG 5 (0:08–0:10)
-
-Er prüft erneut den Bildschirm.
-Die lächelnde Gestalt steht nun auf dem Foto direkt hinter ihm.
-Schnitt auf Schwarz, bevor er sich umdreht.
-
-Musik
-Tiefe Drohnenklänge.
-Knarrendes Holz.
-Ein scharfer orchestraler Akzent im letzten Frame.
-
-Emotionales Ziel
-
-*„Die Kamera sah, was die Augen nicht sehen konnten.“*
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Fotorealistische Horrorfilm-Sequenz">
-
-**[🎬 Video ansehen →](https://x.com/vireonixx/status/2075377636420059580)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2075377636420059580) | **Veröffentlicht:** Jul 10, 2026
-
----
-### Kinematischer Image-to-Video Push-in
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein eleganter Motion-Prompt, der entwickelt wurde, um statischen vertikalen Bildern eine subtile filmische Tiefe und Bewegung zu verleihen.
-
-#### 📝 Prompt
-
-```
-langsamer kinematischer Push-in, sanfte Lichtbewegung, subtile Hintergrundbewegung, realistische Atmosphäre, 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075153215952162816/img/SXIdMfPuasbXTp8X.jpg" width="600" alt="Kinematischer Image-to-Video Push-in">
-
-**[🎬 Video ansehen →](https://x.com/getimg_ai/status/2075303977692836130)**
-
-**Autor:** [getimg.ai](https://x.com/getimg_ai) | **Quelle:** [Link](https://x.com/getimg_ai/status/2075303977692836130) | **Veröffentlicht:** Jul 9, 2026
-
----
-### Sci-Fi-Roboter-Kampfsequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochwertiges filmisches Storyboard für eine 10-sekündige Sci-Fi-Sequenz mit einem Protagonisten und einem riesigen autonomen Roboter in einer verlassenen Stadt.
-
-#### 📝 Prompt
-
-```
-Erstelle eine 10-sekündige, ultra-fotorealistische filmische Sci-Fi-Actionsequenz, inspiriert von *The Creator*, *Oblivion*, *District 9* und *Elysium*.
-
-Verwende das **bereitgestellte männliche Referenzbild** als Protagonisten. Bewahre in jeder Einstellung die perfekte Identität, Gesichtskonsistenz, Frisur, Körperproportionen, Kleidungskontinuität und realistische Mimik.
-
-## STIL
-
-Hollywood-Blockbuster.
-
-Geerdete Technologie der nahen Zukunft.
-
-Fotorealistisch.
-
-Großformatiges IMAX.
-
-Unsichtbare VFX.
-
-Praktische Explosionen.
-
-Industrieller Realismus.
-
-## KAMERA
-
-ARRI ALEXA 65.
-
-Panavision Ultra Vista anamorphotische Objektive.
-
-Handkamera-Action gemischt mit stabilisierten Tracking-Aufnahmen.
-
-Natürliche Bewegungsunschärfe.
-
-## FORMAT
-
-9:16
-
-10 Sekunden
-
-5 Einstellungen.
-
----
-
-### EINSTELLUNG 1 (0:00–0:02) — COUNTDOWN
-
-Ein gigantischer autonomer Kampfroboter steht inmitten einer verlassenen Stadt.
-
-Auf seiner beschädigten Brust erscheint ein Countdown.
-
-**00:10**
-
-Der Protagonist nähert sich langsam.
-
----
-
-### EINSTELLUNG 2 (0:02–0:04) — ENTSCHEIDUNG
-
-Der Roboter schaltet sich plötzlich wieder ein.
-
-Seine Waffen beginnen auszufahren.
-
-Der Protagonist beginnt, direkt auf ihn zuzurennen.
-
----
-
-### EINSTELLUNG 3 (0:04–0:06) — AUFPRALL
-
-Er macht einen Slides unter den Beinen des Roboters hindurch, während Raketen die Straße hinter ihm zerstören.
-
-Beton bricht auf.
-
-Autos überschlagen sich.
-
-Staub erfüllt die Luft.
-
----
-
-### EINSTELLUNG 4 (0:06–0:08) — ABSCHALTUNG
-
-Der Protagonist erreicht den freigelegten Reaktor.
-
-Er rammt einen mechanischen Abschalt-Schlüssel in den Kern.
-
-Der Countdown friert sofort bei **00:01** ein.
-
----
-
-### EINSTELLUNG 5 (0:08–0:10) — STILLE
-
-Der Roboter geht langsam in die Knie.
-
-Alle Lichter erlöschen.
-
-Die Stadt wird vollkommen still.
-
-Der Protagonist geht davon, ohne zurückzublicken.
-
-**Musik:** Industrieller Bass → Hybrid-Orchester → absolute Stille.
-
----
-
-## EMOTIONALES ZIEL
-
-„Die Welt war nur eine Sekunde vor dem Untergang.“
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075176434931560448/img/r1khnveDSRsyTFKa.jpg" width="600" alt="Sci-Fi-Roboter-Kampfsequenz">
-
-**[🎬 Video ansehen →](https://x.com/vireonixx/status/2075176503265137135)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2075176503265137135) | **Veröffentlicht:** Jul 9, 2026
-
----
-### Vom Mops zum Wolf: Eine Spiegelbild-Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kreativer Transformations-Prompt, bei dem ein niedlicher Mops im Spiegelbild einen majestätischen, wilden Wolf sieht.
-
-#### 📝 Prompt
-
-```
-Ein niedlicher Mops sitzt in einem Studio und blickt unter dramatischem, kontrastreichem Tageslicht in einen großen Spiegel. Im Spiegelbild starrt anstelle des Mopses ein wilder und majestätischer Wolf mit einem kraftvollen, selbstbewussten Ausdruck zurück. Die Kamera zoomt langsam heran und kontrastiert den stolzen Mops mit seinem wilden, uralten Spiegelbild. Humorvolle und zugleich inspirierende Stimmung, filmischer Stil, hyperdetailliert.
-
-10-Sekunden-Storyboard-Zeitplan
-
-0-3s | Das Setting: Eine Halbtotale eines entzückenden Mopses, der stolz vor einem großen Standspiegel sitzt. Die Beleuchtung ist hell und dramatisch, wie in einem professionellen Studio. Der Mops legt den Kopf schief und wirkt neugierig.
-
-3-7s | Die Enthüllung: Die Kamera schwenkt langsam und bewegt sich auf den Spiegel zu. Sobald das Spiegelbild klar wird, geht es fließend in einen massiven, majestätischen Grauwolf über, der mit wilden, selbstbewussten Augen zurückstarrt.
-
-7-10s | Kontrast & Höhepunkt: Ein Split-Screen oder eine Schulterperspektive unterstreicht den Kontrast: der niedliche Mops in der Realität wirkt stolz, gegenübergestellt dem kraftvollen, uralten Wolf im Spiegelbild. Die filmische Beleuchtung intensiviert sich, bevor das Bild schwarz ausblendet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075172932792254464/img/-JF8X4hZDCSe2lKd.jpg" width="600" alt="Vom Mops zum Wolf: Eine Spiegelbild-Transformation">
-
-**[🎬 Video ansehen →](https://x.com/michaelrabone/status/2075173227651887525)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Quelle:** [Link](https://x.com/michaelrabone/status/2075173227651887525) | **Veröffentlicht:** Jul 9, 2026
-
----
-### Animierte Reiseplakat-Postkarte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kurzer und effektiver Prompt, um ein statisches Reiseplakat in eine bewegte Postkarte mit ziehenden Wolken und glitzerndem Ozean zu verwandeln.
-
-#### 📝 Prompt
-
-```
-verwandle dieses Reiseplakat in eine bewegte Postkarte: Wolken ziehen vorbei, Möwen fliegen durch das Bild, glitzerndes Meer, entspanntes Kamera-Schwenken, 10s
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074873385452978176/img/cndIiE_44XHPMYim.jpg" width="600" alt="Animierte Reiseplakat-Postkarte">
-
-**[🎬 Video ansehen →](https://x.com/getimg_ai/status/2074948887698096374)**
-
-**Autor:** [getimg.ai](https://x.com/getimg_ai) | **Quelle:** [Link](https://x.com/getimg_ai/status/2074948887698096374) | **Veröffentlicht:** Jul 8, 2026
-
----
-### Wildwest-Dinosaurier-Abenteuersequenz
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Eine filmische Reihe von Video-Prompts, die einen prähistorischen Wilden Westen beschreiben, in dem Cowboys auf Dinosauriern durch Schluchten und Ebenen reiten, inklusive Beleuchtung bei Sonnenaufgang und Sonnenuntergang.
-
-#### 📝 Prompt
-
-```
-Filmische Kamerafahrt, Sonnenaufgang über einer majestätischen roten Felsenschlucht im Wilden Westen. Ein Cowboy in traditioneller Frontier-Kleidung reitet auf dem Rücken eines großen Pterosauriers und gleitet sanft durch die Luft über das raue Gelände. Fotorealistisch, 4k, volumetrische Beleuchtung.
-
-Weite Einstellungsgröße in der Abenddämmerung. Ein Cowboy ruht an einem warmen Lagerfeuer in einer Grasebene. Im direkten Hintergrund ruht friedlich ein massiver, realistischer Triceratops, der vor einen hölzernen Wagen gespannt ist. Weiches, filmisches Dämmerungslicht.
-
-Froschperspektive-Kamerafahrt in einer staubigen Wüste bei Tag. Ein kolossaler Brachiosaurus, ausgestattet mit einem Reitsattel und Fracht, schreitet majestätisch über den Bildschirm, umgeben von einer geschäftigen Herde kleinerer Dinosaurier und Cowboys, die auf ihnen reiten. Lens Flares und atmosphärischer Staub.
-
-Dramatische Silhouettenaufnahme bei Nacht. Ein Cowboy steht in der Mitte und zielt mit einem Revolver, flankiert von zwei aggressiven, gefiederten Raptoren. Die Szene wird brillant von einem massiven, lodernden Feuer eines brennenden Gebäudes hinter ihnen im Gegenlicht beleuchtet. Hoher Kontrast, actionorientiert.
-
-Epische, weite Silhouettenaufnahme während des Sonnenuntergangs zur goldenen Stunde. Ein Cowboy reitet auf einem massiven Tyrannosaurus Rex, der langsam über die flache Wüstenebene schreitet. Die riesige Sonne steht tief am Horizont und erzeugt ein beeindruckendes und wunderschönes Schlussbild.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074810577088557056/img/WEj2e5ODrGlSwDyN.jpg" width="600" alt="Wildwest-Dinosaurier-Abenteuersequenz">
-
-**[🎬 Video ansehen →](https://x.com/michaelrabone/status/2074810751898841468)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Quelle:** [Link](https://x.com/michaelrabone/status/2074810751898841468) | **Veröffentlicht:** Jul 8, 2026
-
----
-### Pastell-Tinte Fantasy-Paartanz MV
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein umfassender Prompt zur Erstellung eines hochwertigen, stilisierten Musikvideos mit zwei Charakteren, die sich durch individuelle VFX, Pastell-Tinte-Ästhetik und synchronisierte handgezeichnete Effekte auszeichnen.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie 2 Referenzbilder. Behandeln Sie Bild 1 als Person A und Bild 2 als Person B. Stellen Sie Person A und Person B als Charaktere in einem Live-Action-Musikvideo (MV) dar, während Sie Gesichtszüge, Frisur, Körperbau, Ausdruck, Kostüm, Atmosphäre und Charakteridentität der Referenzbilder beibehalten. Vermischen Sie die beiden Personen nicht. Tauschen Sie keine Gesichter, Frisuren, Kostüme, Körperbau, Vibes, VFX oder Charaktereigenschaften aus. Bewahren Sie die individuelle Persönlichkeit jedes Referenzbildes und stellen Sie sie klar als eigenständige Individuen dar. Integrieren Sie charakteristische Dekorationen oder Silhouetten aus den Referenzbildern natürlich als Fantasy-Kostüme für ein Live-Action-MV. Zeigen Sie realistische Texturen, schwingendes Haar, Stoffbewegungen, Reflexionen auf Accessoires, Hauttextur sowie Licht und Schatten. Der Gesamtstil sollte ein süßes, elegantes und transparentes Live-Action-Fantasy-MV sein. Der Hintergrund ist kein realer Ort, sondern eine 'Pastell-Tinte-Traumbühne' für ein Live-Action-MV. Gestalten Sie einen weichen, weißen Studioraum mit blasser Tinte, Aquarelllicht, durchscheinendem Glas, schwingendem Seidenstoff, transparenten Ringen, einem leicht reflektierenden Boden, schwebenden Papierfragmenten, seifenblasenartigen Kreisen und Sternenstaubpartikeln. Konzentrieren Sie sich auf weiche Pastellfarben wie Milchweiß, Babyblau, Lavendel, Blassrosa, Cremegelb, Minzgrün und zartes Cyan. Die Farben sollten kein starkes Licht ausstrahlen, sondern sanft ineinander verlaufen. Der Hintergrund ist von Anfang an nicht statisch; synchron zu 118 BPM dehnen sich blasse Tintenwolken, Aquarelllicht, transparente Ringe, Glasreflexionen, Stoffe und Lichtpartikel langsam aus, fließen, schwingen und verschmelzen. Fügen Sie sowohl süße Tinte-VFX als auch feine handgezeichnete Effekte hinzu. Tinte wird als transparentes Aquarell, blasse Pinselstriche, milchige Spritzer, kleine Tintenkörner und in der Luft verlaufende Unschärfen dargestellt. Handgezeichnete Effekte erscheinen kurzzeitig als dünne weiße Linien, blasse Pastellkonturen, kleine Sterne, dünne Blitze, handgezeichnete Speedlines, Wellenlinien und funkelnde Spuren. Lassen Sie die Linien leicht zittern, um eine handgezeichnete Wärme zu bewahren. Die VFX von Person A sollten scharf und transparent sein, mit dünnen Linien, transparenten Ringen, flüssigen Glaswellen und scharfen handgezeichneten Spuren, die auf Schultern, Handgelenke, Füße und Drehungen reagieren. Die VFX von Person B sollten weich und süß sein, mit blassen Tintenunschärfen, Sternenstaub, kleinen Lichtblumen, weichen, bandartigen Pinseln und handgezeichneten Glitzereffekten, die auf Fingerspitzen, Haare, Kostüme und Drehungen reagieren. In dem Moment, in dem sie sich nähern, überlagern sich die Ring-VFX von Person A und die Sternenstaub-VFX von Person B kurzzeitig als blasse Lichtwellen, bevor sie sich sofort wieder trennen. VFX dürfen Gesichter, Augen, Körperlinien, Gliedmaßen, Kostümdetails oder Tanzbewegungen nicht verdecken. Die Kostüme sind für ein Live-Action-MV glamourös neu gestaltet, wobei die Welt der Referenzbilder beibehalten wird, ergänzt durch glänzende Materialien, Schichten, kurze Jacken, schwingende Stoffe, Ketten, Gürtel, Bänder, Accessoires, Stiefel, Handschuhe, metallische Teile, Transparenz und Akzentfarben. Person A und Person B zeigen ein Gefühl der Zusammengehörigkeit, aber ihre Kostüm- und VFX-Persönlichkeiten sind klar voneinander unterschieden. Haare, Stoffe, Bänder, Accessoires und charakteristische Dekorationen schwingen natürlich mit dem Tanz mit. Die Ausdrücke sind süß und gefasst und zeigen eine paartypische Distanz. Wenn eine Person in die Kamera schaut, schaut die andere zum Partner oder leicht weg; sie machen nicht gleichzeitig denselben Ausdruck. Der Gesamteindruck ist eine Live-Action-Charakterisierung von Bild 1 und Bild 2 in einem blassen Pastell-Tinte-Paartanz-MV. Person A ist cool und scharf; Person B ist weich und glamourös. Der Hintergrund ist süß, wirkt aber nicht billig und bewegt sich wunderschön mit transparentem Aquarell-Tinte-Stil und handgezeichneten VFX. Priorisieren Sie Gesichter, Frisuren, Körperbau, Ausdrücke und Silhouetten. Keine Texteinblendungen, Untertitel, Logos oder lesbare Schriftzeichen. Keine Graffiti, Sprühkunst, starkes Neon, Cyber-Stil oder normale Landschaftshintergründe. Keine Duplizierung von Personen, keine neuen Personen, keine perfekte Synchronisation, kein symmetrisches Kopieren, kein Stillstehen und kein bloßes Gehen. Verwenden Sie ein oder mehrere Referenzbilder. Behandeln Sie alle Personen/Charaktere in den Referenzbildern als Protagonisten. Wenn es 1 Bild gibt, zeigen Sie 1 Person; bei 2 Bildern 2 Personen; bei 3 Bildern 3 Personen, sodass alle gleichzeitig im selben Video erscheinen. 15 Sekunden, 60 fps. Ein hochwertiges Tanzvideo im Stil eines Idol-Konzept-MV. Sorgen Sie für ein Tempo, das für ein kurzes MV geeignet ist, süße Choreografie und synchronisierte handgezeichnete 2D-Effekte. Beschreiben Sie flüssige Bewegungen für Haare, Kleidung, Accessoires, Hände, Schritte, Drehungen, Blick und Effekte. Platzieren Sie alle gleichzeitig im selben Hintergrund, Aufnahmeraum und MV-Szenario. Ändern Sie den Hintergrund nicht für jedes Referenzbild. Teilen Sie das Video nicht in verschiedene Szenen pro Person auf. Tauschen Sie die Charaktere nicht mitten im Video aus. Führen Sie sie nicht nacheinander ein. Behandeln Sie bei mehreren Referenzbildern jede als eigenständige Person. Vermischen Sie keine Gesichter, Frisuren, Haarfarben, Körperbau, Kostüme, Accessoires, Geschlechter, Altersgruppen oder Vibes. Machen Sie sie nicht zu einem Paar mit demselben Gesicht, Haar oder Outfit. Wenn Sie männliche und weibliche Referenzen verwenden, behalten Sie diese klar als männlich und weiblich bei. Priorisieren Sie die Beibehaltung der Charakterisierung aus den Referenzbildern, einschließlich Textur, Kunststil, Atmosphäre und Persönlichkeit. Auch wenn die Texturen zwischen den Referenzen variieren, behalten Sie sie für jeden Charakter individuell bei. Erzwingen Sie keinen einheitlichen Kunststil für alle. Wenn Ganzkörperansichten oder Kostüme nicht sichtbar sind, ergänzen Sie diese natürlich basierend auf Farben, Materialien, Silhouetten und Charaktereigenschaften aus jedem Bild. Ergänzende Teile müssen derselben Richtung wie ihr jeweiliges Referenzbild folgen. Leihen Sie keine Merkmale von anderen Charakteren. Legen Sie den Hintergrund als einen einzigen gemeinsamen MV-Aufnahmeraum fest: entweder ein Innenstudio, ein Raum am Fenster oder ein einfacher Aufnahmeraum. Verwenden Sie weiches natürliches Licht und einen organisierten Hintergrund, in dem jeder wie ein Hauptdarsteller aussieht. Ändern Sie den Standort nicht pro Einstellung; ändern Sie nur die Kamerawinkel innerhalb desselben Raums. Analysieren Sie Gemeinsamkeiten der Referenzbilder, um einen einzigen Idol-Konzept-MV-Raum zu schaffen, und passen Sie die Atmosphäre an (hell, blass, ruhig, feucht, kühl, süß usw.). Die Musik ist ein japanisches Lied; verwenden Sie keine real existierenden Lieder. Das Videokonzept ist ein kurzes Konzept-MV, in dem alle Charaktere gemeinsam süß und eindrucksvoll im selben Raum tanzen. Priorität: Alle existieren gleichzeitig, alle sehen süß aus, das MV ist einprägsam und der Tanz integriert sich mit handgezeichneten 2D-Effekten. Verwenden Sie nebeneinander liegende, dreieckige, diagonale oder Vorder-zu-Hinter-Anordnungen, damit jeder sichtbar ist. Alle tanzen gleichzeitig; keine reinen Soloparts, kein Stillstehen oder Regieanweisungen für getrennte Orte. Verwenden Sie keine Vorlagen-Niedlichkeit; analysieren Sie die Referenzen, um eine zusammenhängende Idol-Konzept-Niedlichkeit zu schaffen. Helle Charaktere: lebhafte Niedlichkeit. Ruhige Charaktere: elegante Niedlichkeit. Coole Charaktere: schüchterne oder gefasste Niedlichkeit. Ephemere Charaktere: weiche Niedlichkeit. Street-Style-Charaktere: raue und verspielte Niedlichkeit. Choreografie: Solotanz bei 1 Person, Gruppentanz bei 2+. Fügen Sie synchronisierte Momente und Momente ein, die Individualität zeigen. Nutzen Sie Hände, Schultern, Nacken, Taille, Füße, Blick, Drehungen und Posen natürlich. Die Bewegungen sollten süß, leicht nachzuahmen und einprägsam sein. Keine übermäßig kindischen, übermäßig sexy, übermäßig intensiven, unnatürlichen Sprünge oder zufälligen Bewegungen. Handgezeichnete 2D-Effekte werden automatisch basierend auf der Charakteranalyse generiert. Stellen Sie sicher, dass Formen, Linien, Texturen, Farben, Dichte und Timing für alle passen. Vereinheitlichen Sie den Bildschirm mit einem MV-Design, während Sie den Charakteren bei Bedarf leichte Variationen in Farbe/Linienstil geben. Effekte sind handgezeichnete Motion Graphics, die über das Video gelegt werden und an raue, süße 2D-Animationen wie Wachsmalstift, Bleistift, Ölpastell oder blasse Tinte erinnern. Synchronisieren Sie sie mit Händen, Gesichtern, Füßen, Körperbewegungen, Drehungen, Blick und Posen. Balancieren Sie sie über den Bildschirm, ohne eine Person zu bevorzugen. Verdecken Sie Gesichter oder Körper nicht zu stark. Konfigurieren Sie es so, als ob mit 5 Kameras gedreht wurde, die alle 2 Sekunden wechseln: Vorne, Oben, Links, Rechts, Hinten. Behalten Sie denselben Hintergrundraum bei, ändern Sie nur die Winkel. Priorisieren Sie Kompositionen, in denen jeder sichtbar ist, einschließlich Ganzkörper- oder Knie-aufwärts-Gruppenaufnahmen. Keine Nahaufnahmen, die Personen abschneiden. Fixieren Sie die Kamera nicht vollständig; lassen Sie sie leicht im Takt wackeln (kleine Sprünge, Punch-ins, leichtes Schwanken). Verwenden Sie kein unruhiges Handkamera-Wackeln. 0,0-2,0s: Frontkamera. Jeder erscheint im selben Hintergrund. Ganzkörper oder Knie aufwärts. Ordnen Sie sie nebeneinander oder in Formation an. Jeder führt rhythmisch eine süße Intro-Pose und kleine Schritte aus, die zu seiner Persönlichkeit passen. Handgezeichnete 2D-Effekte, die zur Atmosphäre passen, erscheinen in der Nähe von Händen und Gesichtern. 2,0-4,0s: Top-Kamera (von oben). Jeder betritt den Rahmen und erkennt die Kamera an. Koordinieren Sie Gesichtsausdrücke und Handakzente unter Beibehaltung individueller Charaktereigenschaften. 4,0-6,0s: Linke Kamera. Kurze Choreografie unter Verwendung von Körperausrichtung, Taille, Schultern und Händen. Halten Sie den Abstand von Knie aufwärts bis Ganzkörper. Handgezeichnete Effekte fließen über alle, den Bewegungsspuren folgend. 6,0-8,0s: Rechte Kamera. Jeder schaut in die entgegengesetzte Richtung, während er die Kamera anerkennt. Süße, takt-synchronisierte Choreografie mit Schultern, Händen und Füßen. Zeigen Sie klare Schritte mit einer natürlichen Komposition. Effekte, die von Referenzfarben/-formen abgeleitet sind, erscheinen an Schultern und Füßen. 8,0-10,0s: Rückkamera. Haare und Kostüme schwingen sanft. Natürliche Silhouettenkomposition. Jeder schaut über die Schulter zurück zur Kamera, synchronisiert oder leicht versetzt. Beinhaltet Drehungen und Handposen mit Effektspuren. 10,0-12,0s: Frontkamera (Höhepunkt). Knie aufwärts bis Ganzkörper. Einprägsame Gruppenchoreografie unter Verwendung des ganzen Körpers. Erhöhen Sie die Effektdichte. Verteilen Sie Formen/Linien über den Bildschirm. Fügen Sie kurze Kamerawackler bei 'Hits' hinzu. 12,0-14,0s: Top-Kamera. Jeder schaut mit süßen Gesichts-/Handgesten nach oben. Handgezeichnete Effekte verbreiten sich sanft von den Händen. Behalten Sie die gesamte Gesichts-/Haarkonsistenz bei. 14,0-15,0s: Abschlussszene. Frontal oder leicht diagonal. Letzte Gruppenpose, die aus dem Tanz fließt. Nicht unbedingt eine Gesichtsnahaufnahme; wählen Sie die attraktivste Gruppenkomposition (Ganzkörper bis Brustbild). Keine plötzlichen Zooms, Jump Cuts oder abrupten Gesichtsnahaufnahmen am Ende. Verwenden Sie eine sanfte Kameraannäherung oder einen leichten Stopp. Betonen Sie die Pose durch Körperruhe, Handformen, Blick und nachklingende Bewegung von Haaren/Stoffen sowie einen kurzen Ausbruch von 2D-Effekten. Einschränkungen: Keine anderen Charaktere als die Protagonisten. Führen Sie nicht mehrere Referenzen zu einer Person zusammen. Vermischen Sie keine männlichen und weiblichen Gesichter. Tauschen Sie keine Frisuren/Kostüme. Keine 'Zwillingisierung'. Teilen Sie keine Charaktereigenschaften, nur weil sie sich einen Hintergrund teilen. Keine Kostüme, die den Referenzen widersprechen. Keine Posen/Ausdrücke/Symbole/Farben, die nicht mit den Charakteren übereinstimmen. Verwenden Sie nicht dieselbe Vorlage für jeden Effekt/jede Geste. Stellen Sie sicher, dass Tanz und Effekte perfekt synchronisiert sind. Effekte sollten Teil der Choreografie sein, nicht zu schwach. Keine Explosionen, Feuer, Rauch, übermäßiger Glitch oder auffällige Magie. Keine Texte, Untertitel, Logos oder Wasserzeichen. Rendern Sie die gesamten 15 Sekunden flüssig mit 60 fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074800449652424704/img/XC2gobNaI_RucnzU.jpg" width="600" alt="Pastell-Tinte Fantasy-Paartanz MV">
-
-**[🎬 Video ansehen →](https://x.com/sailorv321/status/2074805393294004436)**
-
-**Autor:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Quelle:** [Link](https://x.com/sailorv321/status/2074805393294004436) | **Veröffentlicht:** Jul 8, 2026
-
----
-### Anime-Kochsequenz für Idli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Schritt-für-Schritt-Anime-Montage-Prompt für die Zubereitung traditioneller südindischer Idlis, inklusive POV-Aufnahmen und Food-Fotografie in Nahaufnahme.
-
-#### 📝 Prompt
-
-```
-Eine rasante, stumme 10-sekündige Anime-Kochmontage OHNE Dialoge. 
-Sequenz: POV beim Öffnen eines Behälters mit Reis und Urad Dal → Mahlen zu einem glatten, fermentierten Teig → Einfetten der Idli-Formen → Einfüllen des Teigs in die Formen → Platzieren der Formen in einem traditionellen Dampfgarer → Dämpfen bis zur perfekten Fluffigkeit → Ein wunderschönes südindisches Mädchen nimmt die heißen Idlis heraus → Makroaufnahme der weichen, schwammigen, dampfenden Idlis → Overhead-Flat-Lay der Idlis, serviert mit Sambar und Kokos-Chutney → Nahaufnahme des Mädchens, wie sie schweigend einen köstlichen Bissen nimmt → Abschließende ästhetische Aufnahme der dampfenden Idli-Platte auf einer sonnendurchfluteten, traditionellen Küchentheke.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074761774155616256/img/G_dRnuUbfQkF44fs.jpg" width="600" alt="Anime-Kochsequenz für Idli">
-
-**[🎬 Video ansehen →](https://x.com/snskritinaruka/status/2074761846444503180)**
-
-**Autor:** [Sanskriti Naruka](https://x.com/snskritinaruka) | **Quelle:** [Link](https://x.com/snskritinaruka/status/2074761846444503180) | **Veröffentlicht:** Jul 8, 2026
-
----
-### Filmische Sequenz: Radfahren in den Alpen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter filmischer Prompt für eine Hochgeschwindigkeits-Abfahrt mit dem Fahrrad auf einer Alpenstraße unter Beibehaltung der Gesichtskonsistenz anhand eines Referenzbildes.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie das beigefügte Referenzbild der Frau als EINZIGE Identitätsreferenz für die Hauptfigur.
-
-Stellen Sie eine durchgehende Gesichtskonsistenz in jedem Frame sicher.
-
-Dauer: 10 Sekunden.
-
-Der erste Frame beginnt damit, dass die Figur bereits mit hoher Geschwindigkeit auf einem hochwertigen Carbon-Rennrad eine Alpenstraße hinunterfährt. Sie legt sich selbstbewusst in die weiten Kurven, während sich der Morgennebel unter ihr langsam lichtet. Das Sonnenlicht erreicht die Berggipfel, als sie eine letzte Kurve mit Blick auf ein endloses Tal verlässt.
-
-IMAX 65mm Realismus. Premium HDR-Grading. Filmische Luftaufnahmen.
-
-Kamera:
-FPV-Drohnenverfolgung bereits in Bewegung → seitliches Tracking → am Rad montierte Kamera → gewaltige Luftaufnahme als Enthüllung.
-
-Hintergrundmusik:
-Aufbauendes filmisches Orchester, rhythmische Percussion, akustische Gitarre, emotionale Streicher.
-
-Umgebungsgeräusche:
-Klicken des Freilaufs, Gangschaltung, Reifengeräusche, Bergwind, Vögel.
-
-Kein Dialog.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074666143852445696/img/oikKJLTsOxHizW6r.jpg" width="600" alt="Filmische Sequenz: Radfahren in den Alpen">
-
-**[🎬 Video ansehen →](https://x.com/vireonixx/status/2074666384051904670)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Quelle:** [Link](https://x.com/vireonixx/status/2074666384051904670) | **Veröffentlicht:** Jul 8, 2026
-
----
-### Surreale Riesenauge-Landschaft als Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt für Gemini zur Erstellung einer surrealen Landschaft mit einem riesigen, blinzelnden Auge und kleinen menschlichen Entdeckern, inklusive eines detaillierten 10-sekündigen Bewegungs-Timelines.
-
-#### 📝 Prompt
-
-```
-Fotorealistische, surreale Landschaft. Ein riesiges, hochdetailliertes menschliches Auge mit blauer Iris und geröteter Sklera blinzelt langsam in der Mitte. Es ist umgeben von pulsierenden, roten, fleischigen, sternförmigen Strukturen, die jeweils ein blinzelndes blaues Auge enthalten. Winzige, realistische menschliche Figuren in Anzügen gehen durch das fleischige Gelände und untersuchen die Augen.
-
-Timeline (10 Sekunden):
-
-0-3s: Extreme Nahaufnahme des riesigen zentralen Auges, das langsam blinzelt. Fokus auf fotorealistische Iris-Texturen und Blutgefäße.
-
-3-6s: Die Kamera fährt langsam zurück. Die umgebenden roten, fleischigen Sternstrukturen beginnen zu pulsieren. Die kleineren Augen huschen hektisch umher.
-
-6-10s: Totale, die den Maßstab verdeutlicht. Winzige menschliche Figuren laufen über das fleischige Gelände und untersuchen die Strukturen, während sich alle Augen auf die Kamera fokussieren.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074493433201221632/img/OO2qM-98wUw2rXi4.jpg" width="600" alt="Surreale Riesenauge-Landschaft als Video">
-
-**[🎬 Video ansehen →](https://x.com/michaelrabone/status/2074493655843258788)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Quelle:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Veröffentlicht:** Jul 7, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
 
 <div align="center">
 
-### 🎯 96 weitere Prompts hier nicht angezeigt
+### 🎯 100 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3046,6 +2726,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-29T02:42:47.580Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-08-29T10:48:39.346Z</sub>
 
 </div>

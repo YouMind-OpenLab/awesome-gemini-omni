@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **196** |
+| 📝 Tổng số prompt | **208** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-29** |
 
@@ -56,6 +56,322 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Kịch bản quảng cáo Chrome Robot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một kịch bản đa cảnh phức tạp cho nhân vật robot theo phong cách thập niên 1990, bao gồm các thẻ tiêu đề, hạn chế chuyển động và lời thoại đồng bộ.
+
+#### 📝 Prompt
+
+```
+Trong suốt toàn bộ đoạn quảng cáo: một robot mặc bộ đồ thực tế kiểu thập niên 1990, làm bằng crôm và cao su, trên tấm ốp ngực có ghi "OMNI 1.1",
+Cùng một robot đó. Trong mọi cảnh quay. Không được thay đổi điều này.
+
+[0-1 giây] Thẻ tiêu đề đậm, khẩn cấp:
+"MỚI NHẤT TỪ GOOGLE!"
+
+[1-5 giây] Robot đứng yên trên nền tối sạch sẽ. 
+Các thẻ tiêu đề bằng crôm cao cấp lần lượt xuất hiện:
+
+"LÊN ĐẾN 4K."
+"KÉO DÀI ĐẾN 10 GIÂY."
+"2 ẢNH → 1 VIDEO."
+"3 CLIP. DUY TRÌ SỰ NHẤT QUÁN."
+
+Cùng một robot đó. Nó không di chuyển. Nó không thay đổi.
+
+[5-10 giây] CẮT CẢNH SANG: Võ đường Matrix. Cùng một robot đó. Không thay đổi trang phục.
+Một đứa trẻ đứng đối diện, vẻ mặt nghiêm túc.
+
+Đứa trẻ: "Ông có biết kung fu không?"
+Omni tung một cú đấm. Omni rút tay lại.
+Omni nói "Á."
+Tạm dừng.
+Omni nói "Tôi đang tập luyện đây nhóc."
+
+Thẻ cuối cùng: "GEMINI OMNI 1.1"
+
+Âm thanh: tiếng nhạc tin tức ở phần mở đầu. Im lặng khi các thẻ tính năng xuất hiện.
+Nhạc Matrix nổi lên khi cắt sang cảnh võ đường. Tiếng đấm. Im lặng. "Á."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093563402916667392/img/JzOGeTSe5sUvg5s1.jpg" width="600" alt="Kịch bản quảng cáo Chrome Robot">
+
+**[🎬 Xem video →](https://x.com/BrentLynch/status/2093563415730258318)**
+
+**Tác giả:** [Brent Lynch](https://x.com/BrentLynch) | **Nguồn:** [Link](https://x.com/BrentLynch/status/2093563415730258318) | **Đã xuất bản:** Aug 29, 2026
+
+---
+### Quảng cáo nhà máy sô-cô-la thu nhỏ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt dài 10 giây cực kỳ chi tiết về nhà máy sô-cô-la thu nhỏ chân thực, với các công nhân tí hon và quy trình sản xuất từng bước.
+
+#### 📝 Prompt
+
+```
+Tạo một video điện ảnh siêu thực dài 10 giây về nhà máy sô-cô-la thu nhỏ. Hiển thị một cơ sở sản xuất sô-cô-la bận rộn, được vận hành bởi những công nhân tí hon đáng yêu mặc đồng phục trắng chuyên nghiệp, đội mũ trùm tóc và đeo tạp dề nhỏ xíu.
+
+0–2 giây: Các công nhân tí hon cẩn thận rót sô-cô-la nóng chảy đậm đặc từ một bể thép không gỉ lớn vào các khuôn nhỏ trên băng chuyền đang di chuyển, với hơi nước chân thực và kết cấu sô-cô-la bóng bẩy.
+
+2–4 giây: Các khuôn sô-cô-la di chuyển qua một đường hầm làm mát thu nhỏ. Công nhân kiểm tra từng miếng bằng các dụng cụ nhỏ và kính lúp.
+
+4–6 giây: Công nhân trang trí các viên sô-cô-la đã hoàn thiện bằng các loại hạt, đường caramel, sốt sô-cô-la và những hạt cốm màu tí hon bằng máy móc và dụng cụ chính xác.
+
+6–8 giây: Băng chuyền di chuyển nhanh đưa những viên sô-cô-la có hình dáng hoàn hảo về phía trạm đóng gói. Các công nhân tí hon đặt từng viên sô-cô-la vào những bao bì cao cấp sang trọng và các hộp nhỏ.
+
+8–10 giây: Cảnh quay chính cuối cùng — hàng chục hộp sô-cô-la được đóng gói đẹp mắt di chuyển dọc theo băng chuyền trong khi các công nhân tí hon tự hào kiểm tra dây chuyền sản xuất. Máy quay từ từ tiến lại gần một hộp sô-cô-la đã hoàn thiện hoàn hảo.
+
+Phong cách: thế giới thu nhỏ chân thực, nhiếp ảnh macro điện ảnh, sô-cô-la tan chảy và rót chân thực, máy móc tí hon chi tiết cao, chuyển động của công nhân tự nhiên, độ sâu trường ảnh nông, ánh sáng nhà máy sô-cô-la sang trọng ấm áp, phản chiếu chân thực, hơi nước tinh tế, chuyển động máy quay mượt mà, bầu không khí sản xuất kiểu ASMR thỏa mãn, chất lượng quảng cáo thương mại cao cấp, 4K, kết cấu chính xác về mặt vật lý, không có vẻ hoạt hình.
+
+Máy quay: cận cảnh macro, các cảnh quay theo dõi mượt mà, góc nhìn thấp tí hon, chuyển cảnh liền mạch, độ sâu trường ảnh điện ảnh.
+
+Quan trọng: Giữ nguyên các công nhân tí hon, bố cục nhà máy, hình dáng sô-cô-la và phong cách hình ảnh trong suốt toàn bộ chuỗi 10 giây. Không văn bản, không logo, không bàn tay bị biến dạng, không thừa chi tiết, không nhấp nháy, không cắt cảnh đột ngột.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093541345403224065/img/MdHVgd5_LknOet9K.jpg" width="600" alt="Quảng cáo nhà máy sô-cô-la thu nhỏ">
+
+**[🎬 Xem video →](https://x.com/AiwithBloodline/status/2093541403796353389)**
+
+**Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2093541403796353389) | **Đã xuất bản:** Aug 29, 2026
+
+---
+### Cuộc đối đầu của Ninja trên sa mạc lúc hoàng hôn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một phân cảnh điện ảnh dài 10 giây về cuộc đối đầu trên sa mạc giữa một ninja đeo mặt nạ và ba chiến binh lúc hoàng hôn, sử dụng hình ảnh tham khảo để thiết kế nhân vật.
+
+#### 📝 Prompt
+
+```
+Sử dụng các hình ảnh đã tải lên làm tài liệu tham khảo trực quan cho các nhân vật. Tạo một phân cảnh điện ảnh live-action dài 10 giây trên sa mạc vào lúc hoàng hôn. Một ninja đeo mặt nạ đứng một mình đối diện với ba chiến binh hắc ám cách đó vài mét. Sử dụng Hình ảnh 2 làm tham chiếu trực quan cho ninja đeo mặt nạ. Sử dụng Hình ảnh 1 làm nguồn cảm hứng cho ba chiến binh đối phương, biến họ thành ba nhân vật riêng biệt cùng thuộc một phe. Giữ cho tất cả nhân vật đứng yên và tập trung vào nhau. Gió thổi bụi nhẹ nhàng trên sa mạc. Chuyển động vải tinh tế. Căng thẳng điện ảnh mạnh mẽ. Chiến binh dẫn đầu nhìn ninja và nói: “Ngươi đến đây một mình sao.” Ninja bình tĩnh nhìn lại và đáp: “Ta đến vì ngươi.” Giữ khoảng lặng sau câu trả lời trong giây lát. Không chiến đấu. Không tấn công. Không rút kiếm. Không tiếp xúc vật lý. Không gây thương tích. Không bạo lực. Chân thực theo phong cách điện ảnh live-action, ngôn ngữ cơ thể tự nhiên, khớp môi thực tế, chuyển động camera tinh tế, ánh sáng hoàng hôn kịch tính, không khí sa mạc chân thực.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093385776910221312/img/UaTv2dFJc0O_n79Y.jpg" width="600" alt="Cuộc đối đầu của Ninja trên sa mạc lúc hoàng hôn">
+
+**[🎬 Xem video →](https://x.com/shikoba_86/status/2093446020499943538)**
+
+**Tác giả:** [Marco "Shikoba" Riccetti](https://x.com/shikoba_86) | **Nguồn:** [Link](https://x.com/shikoba_86/status/2093446020499943538) | **Đã xuất bản:** Aug 28, 2026
+
+---
+### Vũ đạo K-Pop MV quay một lần (One-Take)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) camera tốc độ cao để tạo cảnh quay vũ đạo liên tục trong phong cách MV K-pop, tập trung vào thần thái của vũ công.
+
+#### 📝 Prompt
+
+```
+[# Tài liệu tham khảo <IMAGE_REF_0>@Image1 <IMAGE_REF_1>@Image2 <IMAGE_REF_2>@Image3] Tuyệt đối là một cảnh quay liên tục không ngắt quãng (không cắt cảnh). Chuyển động camera tốc độ cao kiểu MV K-pop tập trung vào phần thân trên và thần thái khuôn mặt của vũ công cùng với các cảnh toàn thân đầy năng động
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093441543726133248/img/SbUC1IZDPZuNWs_n.jpg" width="600" alt="Vũ đạo K-Pop MV quay một lần (One-Take)">
+
+**[🎬 Xem video →](https://x.com/Tomw852/status/2093441641571131816)**
+
+**Tác giả:** [Tom𝕎](https://x.com/Tomw852) | **Nguồn:** [Link](https://x.com/Tomw852/status/2093441641571131816) | **Đã xuất bản:** Aug 28, 2026
+
+---
+### Trận chiến giả tưởng giữa Pháp sư và Quỷ lửa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một video prompt giả tưởng đậm chất điện ảnh, mô tả cảnh pháp sư đối đầu với quỷ lửa khổng lồ trên cây cầu đá đang sụp đổ, với hiệu ứng ánh sáng 8K đầy kịch tính.
+
+#### 📝 Prompt
+
+```
+Video giả tưởng đậm chất điện ảnh về một pháp sư xám đầy quyền năng đang đứng trên cây cầu đá đang sụp đổ, đối mặt với một con quỷ lửa khổng lồ, giơ cao cây gậy và tuyên bố “Ngươi không được phép đi qua!”, ánh sáng kịch tính, góc máy quét rộng, chân thực như ảnh chụp, 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093419822549757952/img/L5SAmpbdC8ruEuPY.jpg" width="600" alt="Trận chiến giả tưởng giữa Pháp sư và Quỷ lửa">
+
+**[🎬 Xem video →](https://x.com/Conor_D_Dart/status/2093419950522118605)**
+
+**Tác giả:** [Conor Dart](https://x.com/Conor_D_Dart) | **Nguồn:** [Link](https://x.com/Conor_D_Dart/status/2093419950522118605) | **Đã xuất bản:** Aug 28, 2026
+
+---
+### Video điện ảnh về vận động viên leo núi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chất lượng cao dành cho video phong cách nhiếp ảnh thể thao, ghi lại hình ảnh vận động viên leo núi trong phòng tập hiện đại với ánh sáng đầy kịch tính.
+
+#### 📝 Prompt
+
+```
+Video điện ảnh tuyệt đẹp về vận động viên leo núi đang tập luyện trong phòng tập hiện đại, nhiếp ảnh thể thao chuyên nghiệp, góc máy linh hoạt, chuyển động chân thực, ánh sáng kịch tính, 8K, phong cách viral trên Twitter.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093387864948011008/img/iNmD5O3-vLLPrTeE.jpg" width="600" alt="Video điện ảnh về vận động viên leo núi">
+
+**[🎬 Xem video →](https://x.com/Conor_D_Dart/status/2093388008061804767)**
+
+**Tác giả:** [Conor Dart](https://x.com/Conor_D_Dart) | **Nguồn:** [Link](https://x.com/Conor_D_Dart/status/2093388008061804767) | **Đã xuất bản:** Aug 28, 2026
+
+---
+### Storyboard cho Mứt Dâu Tây Cao Cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý storyboard toàn diện cho quảng cáo mứt dâu tây hảo hạng, bao gồm các kết cấu macro, cảnh thìa múc chậm và phong cách bữa sáng sang trọng.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ:
+Storyboard Quảng cáo Sản phẩm Mứt Dâu Tây Cao Cấp
+
+ĐỊNH DẠNG:
+• Storyboard cao cấp một trang
+• Tỷ lệ khung hình dọc 3:4
+• Chiến dịch thực phẩm bữa sáng sang trọng
+• 8 cảnh quay điện ảnh tập trung vào sản phẩm
+• Sản phẩm luôn là tâm điểm thị giác
+• Trình bày quảng cáo phân khúc cao cấp
+
+PHẦN ĐẦU:
+• Kiểu chữ serif thanh lịch
+• Thẻ thông tin:
+  - Thời lượng: 20 Giây
+  - Phong cách: Quảng cáo Bữa sáng Hảo hạng
+  - Sản phẩm: Mứt Dâu Tây
+  - Âm thanh: ASMR thực phẩm nhẹ nhàng
+• Mục "Tại sao phong cách này hiệu quả"
+• Thẩm mỹ màu đỏ dâu tây, màu kem và hồng phấn
+• Các chi tiết trang trí tối giản lấy cảm hứng từ trái cây
+
+STORYBOARD:
+1. Hũ mứt cao cấp được bao quanh bởi những quả dâu tây tươi
+2. Nắp hũ mở ra trong một cảnh quay macro cực cận
+3. Thìa múc chậm rãi vào lớp mứt dâu tây đặc sánh
+4. Mứt bóng bẩy kéo sợi từ thìa trong hiệu ứng chuyển động chậm
+5. Những miếng dâu tây tươi rơi vào trong mứt
+6. Mứt được phết mượt mà lên lát bánh mì nướng ấm nóng
+7. Macro cực cận cho thấy hạt dâu tây và kết cấu đậm đà
+8. Hũ mứt chủ đạo cuối cùng cùng với bánh mì nướng, dâu tây và vệt mứt bóng bẩy
+
+MỖI KHUNG HÌNH:
+• Số thứ tự cảnh
+• Huy hiệu thời lượng
+• Hướng máy quay
+• Hình ảnh
+• Hành động
+• Chi tiết sản phẩm
+
+CAMERA:
+Macro cực cận, hiệu ứng phết chậm, bố cục thực phẩm từ trên cao, máy quay đẩy vào mượt mà, độ sâu trường ảnh nông, hình ảnh đóng gói cao cấp.
+
+PHONG CÁCH:
+Nhiếp ảnh thực phẩm siêu thực, kết cấu trái cây bóng bẩy, độ đặc của mứt chân thực, dâu tây tươi, ánh sáng tự nhiên ấm áp, bao bì thủy tinh cao cấp, quảng cáo bữa sáng sang trọng, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787993736055_vz04eo_HQ0vDf8akAAXOp1.jpg" width="600" alt="Storyboard cho Mứt Dâu Tây Cao Cấp">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2093381158356815935)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2093381158356815935) | **Đã xuất bản:** Aug 28, 2026
+
+---
+### Streamer chơi game kinh dị diệt zombie bằng ống tiêm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video mô tả một nữ streamer đang chơi game kinh dị, trong đó nhân vật y tá chiến đấu với lũ zombie bằng ống tiêm.
+
+#### 📝 Prompt
+
+```
+Một nữ streamer đang tập trung chơi game, trong đó nhân vật chính là một nữ y tá đang chiến đấu với lũ zombie bằng ống tiêm
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093361666260160512/img/DZmjmoHLaqVaRj87.jpg" width="600" alt="Streamer chơi game kinh dị diệt zombie bằng ống tiêm">
+
+**[🎬 Xem video →](https://x.com/DrstaOne/status/2093364188781703596)**
+
+**Tác giả:** [DrstaOne](https://x.com/DrstaOne) | **Nguồn:** [Link](https://x.com/DrstaOne/status/2093364188781703596) | **Đã xuất bản:** Aug 28, 2026
+
+---
+### Góc nhìn thứ nhất khi đạp xe địa hình
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) mô phỏng chuyến xuống dốc bằng xe đạp địa hình tốc độ cao dành cho camera hành trình, giúp kiểm tra vật lý, địa hình đá và độ chân thực của môi trường trên nhiều mô hình khác nhau.
+
+#### 📝 Prompt
+
+```
+Góc nhìn thứ nhất siêu chân thực về chuyến đạp xe địa hình xuống con đường mòn đầy đá dốc đứng trên núi cao. Người lái lao xuống dốc qua những khúc cua gắt, đá tảng và các đoạn nhảy nhỏ, xung quanh là những vách đá hùng vĩ và phong cảnh núi non. Chỉ sử dụng góc nhìn thứ nhất nghiêm ngặt, tốc độ cao, chuyển động camera và vật lý thực tế, giống như thước phim từ camera hành trình.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093328534945120256/img/eqNWd7v_zlAgy7uM.jpg" width="600" alt="Góc nhìn thứ nhất khi đạp xe địa hình">
+
+**[🎬 Xem video →](https://x.com/YourAlphaMom/status/2093333326635405357)**
+
+**Tác giả:** [Alpha Mom](https://x.com/YourAlphaMom) | **Nguồn:** [Link](https://x.com/YourAlphaMom/status/2093333326635405357) | **Đã xuất bản:** Aug 28, 2026
+
+---
+### Người leo núi Everest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video điện ảnh để tạo thước phim chất lượng cao về một người leo núi trên đỉnh Everest với tính thẩm mỹ nhiếp ảnh chuyên nghiệp 8k.
+
+#### 📝 Prompt
+
+```
+video tuyệt đẹp về một người leo núi trên đỉnh Everest, nhiếp ảnh chuyên nghiệp, 8k, thịnh hành trên Twitter
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093234584049647617/img/vP2tzlpiCT3zr7sd.jpg" width="600" alt="Người leo núi Everest">
+
+**[🎬 Xem video →](https://x.com/Conor_D_Dart/status/2093234779890102730)**
+
+**Tác giả:** [Conor Dart](https://x.com/Conor_D_Dart) | **Nguồn:** [Link](https://x.com/Conor_D_Dart/status/2093234779890102730) | **Đã xuất bản:** Aug 28, 2026
+
+---
+### Nữ streamer bình luận game zombie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) video điện ảnh để tạo cảnh một nữ streamer đang chơi và bình luận về một tựa game zombie có nhân vật y tá.
+
+#### 📝 Prompt
+
+```
+Một nữ streamer đang bình luận và chơi một trò chơi, trong đó nhân vật chính là một nữ y tá đang chiến đấu với lũ zombie bằng ống tiêm.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093215829534146560/img/Tl3KL8c5NyN2Ivev.jpg" width="600" alt="Nữ streamer bình luận game zombie">
+
+**[🎬 Xem video →](https://x.com/rovvmut_/status/2093215928863650296)**
+
+**Tác giả:** [Heisenberg](https://x.com/rovvmut_) | **Nguồn:** [Link](https://x.com/rovvmut_/status/2093215928863650296) | **Đã xuất bản:** Aug 28, 2026
+
+---
+### Video macro mở hộp máy bay không người lái mini
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý (prompt) tạo video macro điện ảnh mô tả chân thực quá trình mở hộp và lắp ráp một chiếc drone mini có thể gập lại trên mặt bàn gỗ.
+
+#### 📝 Prompt
+
+```
+Tạo một video macro điện ảnh cực kỳ chân thực về quá trình mở hộp và lắp ráp một chiếc drone mini kiểu DJI Mini 5 Pro trên mặt bàn gỗ. Bắt đầu với một hộp bán lẻ drone nhỏ màu trắng, sau đó quay cảnh bàn tay người cẩn thận mở bao bì và nhấc chiếc drone mini có thể gập lại ra ngoài. Quay các cảnh cận cảnh chi tiết khi drone được mở ra và các bộ phận của nó được đặt trên hộp. Kết thúc bằng một cảnh macro cực đại của chiếc drone màu xám nhỏ gọn khi đèn báo pin phía sau phát sáng màu xanh lục. Ánh sáng trong nhà ấm áp, độ sâu trường ảnh nông, kết cấu da và nhựa chân thực, chuyển động tay mượt mà, thẩm mỹ thương mại sản phẩm cao cấp, chuyển động máy quay điện ảnh, lấy nét sắc nét vào drone, bóng đổ tự nhiên, độ phân giải 4K chân thực, bố cục dọc 9:16, không có văn bản hoặc hình mờ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093197036824965121/img/tqzfGB18jYkI11KI.jpg" width="600" alt="Video macro mở hộp máy bay không người lái mini">
+
+**[🎬 Xem video →](https://x.com/AiwithBloodline/status/2093197063421108689)**
+
+**Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2093197063421108689) | **Đã xuất bản:** Aug 28, 2026
+
+---
 ### Vũ đạo nhảy cho video mạng xã hội
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2308,649 +2624,13 @@ camera từ từ xoay quanh sản phẩm, các tia phản chiếu di chuyển tr
 **Tác giả:** [getimg.ai](https://x.com/getimg_ai) | **Nguồn:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **Đã xuất bản:** Jul 10, 2026
 
 ---
-### Cảnh quay võ thuật điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt toàn diện cho phân cảnh võ thuật dài 10 giây, bao gồm các chi tiết kỹ thuật camera, thiết kế âm thanh và bảo toàn danh tính nhân vật.
-
-#### 📝 Prompt
-
-```
-Tạo một phân cảnh võ thuật điện ảnh siêu thực dài 10 giây, lấy cảm hứng từ phim hành động Hồng Kông cổ điển, vũ đạo đóng thế hiện đại và phong cách làm phim Hollywood cao cấp.
-
-Sử dụng hình ảnh tham chiếu nam giới được cung cấp làm nhân vật chính.
-
-Duy trì sự nhất quán tuyệt đối về danh tính trong mọi khung hình.
-
-Bảo toàn chính xác:
-
-* Cấu trúc khuôn mặt
-* Kiểu tóc
-* Hình dáng mắt
-* Tông màu da
-* Tỷ lệ cơ thể
-* Râu (nếu có)
-* Sự liên tục của trang phục
-* Biểu cảm
-* Phụ kiện
-
-Nhân vật chính phải luôn dễ nhận diện trong mọi chuyển động, cảnh quay cận cảnh, cảnh quay chậm và chuyển cảnh camera.
-
----
-
-# PHONG CÁCH
-
-Siêu thực tế.
-
-Võ thuật thực chiến.
-
-Không có năng lực siêu nhiên.
-
-Vũ đạo chiến đấu chân thực.
-
-Chất lượng phim điện ảnh.
-
-Đóng thế thực tế.
-
-CGI ẩn.
-
-Chỉnh màu điện ảnh cao cấp.
-
-Quay phim định dạng lớn IMAX.
-
----
-
-# THIẾT BỊ CAMERA
-
-ARRI ALEXA 65
-
-Ống kính anamorphic Panavision Ultra Vista
-
-Steadicam
-
-Phantom Flex tốc độ cao
-
-Technocrane
-
-Dolly xoay tròn chậm
-
-Chèn cảnh macro
-
-Cầm tay tự nhiên trong các cảnh va chạm
-
----
-
-# ÂM NHẠC
-
-Nhạc nền bắt đầu ngay lập tức.
-
-Riff guitar hard rock mạnh mẽ.
-
-Trống double-kick nhanh.
-
-Guitar bass dồn dập.
-
-Bộ gõ dàn nhạc lai.
-
-Tiếng hiệu ứng trailer điện ảnh hoành tráng.
-
-Tại cú đánh quyết định, mọi nhạc cụ dừng đột ngột.
-
-Chỉ còn tiếng thở và tiếng vải chuyển động.
-
-Tiếng guitar quay trở lại với cường độ tối đa.
-
----
-
-# THIẾT KẾ ÂM THANH
-
-Tiếng bước chân trần.
-
-Tiếng vải chuyển động.
-
-Tiếng thở có kiểm soát.
-
-Tiếng đấm chính xác.
-
-Tiếng va chạm cơ thể sâu vào xương.
-
-Tiếng gỗ nứt.
-
-Âm thanh môi trường tự nhiên.
-
-Đồng bộ hoàn hảo giữa mỗi cú đánh và mỗi nhịp trống.
-
----
-
-# ÁNH SÁNG
-
-Ánh nắng buổi sáng xuyên qua cửa sổ võ đường.
-
-Điểm sáng ấm áp.
-
-Bóng đổ tự nhiên.
-
-Các hạt bụi lơ lửng.
-
-Dải tương phản động cao.
-
----
-
-# ĐỊNH DẠNG
-
-10 giây
-
-5 cảnh quay điện ảnh.
-
----
-
-## CẢNH 1 (0:00–0:02) — THÁCH THỨC
-
-Một võ đường truyền thống rộng lớn.
-
-Nhân vật chính đứng đối diện với sáu võ sĩ tinh nhuệ.
-
-Không ai nói lời nào.
-
-Riff hard rock bắt đầu ngay lập tức.
-
----
-
-## CẢNH 2 (0:02–0:04) — TĨNH LẶNG
-
-Cận cảnh cực độ.
-
-Nhân vật chính bình tĩnh nhắm mắt lại.
-
-Tất cả những người khác chuẩn bị tấn công.
-
-Tiếng trống bắt đầu dồn dập.
-
----
-
-## CẢNH 3 (0:04–0:06) — MỘT CHUYỂN ĐỘNG
-
-Những kẻ tấn công lao tới cùng lúc.
-
-Nhân vật chính thực hiện một chuyển động chính xác.
-
-Nhạc nền im bặt.
-
-Chỉ còn tiếng bước chân và tiếng thở.
-
----
-
-## CẢNH 4 (0:06–0:08) — TIẾT LỘ
-
-Những kẻ tấn công khựng lại.
-
-Lần lượt từng người mất thăng bằng và gục xuống.
-
-Nhân vật chính không hề thay đổi biểu cảm.
-
-Tiếng guitar bùng nổ trở lại.
-
----
-
-## CẢNH 5 (0:08–0:10) — TÔN TRỌNG
-
-Sư phụ võ đường, quan sát từ trên cao, chậm rãi cúi chào.
-
-Nhân vật chính cúi chào đáp lễ.
-
-Camera bay lên qua trần gỗ hướng về bầu trời buổi sáng.
-
-Nốt guitar cuối cùng ngân dài.
-
-Chuyển sang màu đen.
-
----
-
-# MỤC TIÊU CẢM XÚC
-
-Khán giả nên nghĩ ngay đến:
-
-**"Bậc thầy thực sự không cần phải nhanh... mà là sự nhẹ nhàng."**
-
----
-
-# YÊU CẦU KỸ THUẬT
-
-Độ chân thực của phim điện ảnh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cảnh quay võ thuật điện ảnh">
-
-**[🎬 Xem video →](https://x.com/vireonixx/status/2075533217193742739)**
-
-**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **Đã xuất bản:** Jul 10, 2026
-
----
-### Phim hài cận cảnh về gián
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt đa giai đoạn cực kỳ chi tiết để tạo ra cảnh quay hài hước chân thực về những chú gián đang tương tác với một miếng pizza, bao gồm mốc thời gian 10 giây.
-
-#### 📝 Prompt
-
-```
-Chủ đề: Một cảnh quay hài hước theo phong cách điện ảnh cận cảnh (macro) về hai chú gián trên vỉa hè thành phố đầy bụi bặm, hơi ẩm ướt vào ban đêm, đang tương tác với một miếng pizza bị bỏ đi.
-
-Camera & Thẩm mỹ: Quay bằng máy Leica SL2 với ống kính macro 100mm. Mô phỏng phim Kodak Portra 400 với hạt phim tự nhiên, độ tương phản màu sắc phong phú và độ sâu trường ảnh nông. Ánh sáng mang phong cách điện ảnh đường phố, với những tia phản chiếu neon mềm mại trên lớp phô mai béo ngậy của miếng pizza và mặt bê tông ướt.
-
-Âm thanh: Tiếng ồn đường phố chân thực, hiệu ứng âm thanh thức ăn nhầy nhụa và một giọng lồng tiếng nhân vật đặc trưng ở cuối.
-
-Mốc thời gian 10 giây:
-
-0-3 giây: Cận cảnh macro cực đại. Hai chú gián biểu cảm, chi tiết cao đang đứng trên một miếng pizza quá khổ đầy dầu mỡ. Chân trước của chúng ôm lấy một vòng dứa màu vàng tươi, lấp lánh cắm trong lớp phô mai. Chúng đang gồng mình và kéo ngược ra sau một cách đồng bộ.
-
-3-5 giây: Lớp phô mai mozzarella kéo giãn ra một cách ấn tượng như dây thun. Với một tiếng "bộp" đột ngột và sống động, vòng dứa tách rời khỏi lớp vỏ bánh.
-
-5-7 giây: Camera lấy nét chuyển tiếp khi vòng dứa rơi xuống cạnh trên mặt bê tông và lăn nhanh dọc theo vỉa hè đầy kết cấu, biến mất vào vùng nền bokeh mờ ảo.
-
-7-10 giây: Cắt cảnh nhanh quay lại hai chú gián. Chúng phủi chân trước như một cử chỉ nhẹ nhõm. Camera zoom nhẹ vào chú gián bên phải khi nó nhìn thẳng vào ống kính, vung hai chân trước lên đầy bực bội và hét lên rõ ràng với chuyển động môi/hàm khớp hoàn hảo: "Thật là kinh tởm!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Phim hài cận cảnh về gián">
-
-**[🎬 Xem video →](https://x.com/michaelrabone/status/2075490289062400195)**
-
-**Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **Đã xuất bản:** Jul 10, 2026
-
----
-### Chuỗi cảnh phim kinh dị chân thực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt cấu trúc cho chuỗi cảnh phim kinh dị dài 10 giây, sử dụng hình ảnh tham chiếu để tạo ra một phân cảnh đầy căng thẳng trong ngôi nhà kiểu Victoria.
-
-#### 📝 Prompt
-
-```
-Tạo một chuỗi cảnh phim kinh dị dài 10 giây với độ chân thực cao, lấy cảm hứng từ *The Conjuring*, *Smile* và *Hereditary*.
-
-Sử dụng hình ảnh tham chiếu được cung cấp làm nhân vật chính.
-
-## PHONG CÁCH
-
-Kinh dị thực tế.
-Tối giản hiệu ứng hình ảnh.
-Ánh sáng tối tự nhiên.
-Ánh sáng thực tế.
-Căng thẳng tăng dần.
-Không máu me.
-
-## ĐỊNH DẠNG
-
-10 giây
-5 cảnh quay
-
-### CẢNH 1 (0:00–0:02)
-
-Nhân vật chính khám phá một ngôi nhà kiểu Victoria bị bỏ hoang chỉ với một chiếc đèn pin.
-
-### CẢNH 2 (0:02–0:04)
-
-Họ chụp một bức ảnh xuống hành lang tối.
-Không có gì bất thường xuất hiện.
-
-### CẢNH 3 (0:04–0:06)
-
-Khi nhìn vào bức ảnh, một bóng người đang cười xuất hiện ở cuối hành lang.
-Hành lang thực tế vẫn trống rỗng.
-
-### CẢNH 4 (0:06–0:08)
-
-Họ từ từ hạ điện thoại xuống và nhìn về phía trước.
-Vẫn không có gì cả.
-
-### CẢNH 5 (0:08–0:10)
-
-Họ kiểm tra lại màn hình.
-Bóng người đang cười giờ đã đứng ngay phía sau họ trong bức ảnh.
-Chuyển sang màn hình đen trước khi họ kịp quay đầu lại.
-
-Âm nhạc
-Tiếng trầm kéo dài.
-Tiếng gỗ kêu cót két.
-Một âm thanh dàn nhạc sắc lẹm ở khung hình cuối cùng.
-
-Mục tiêu cảm xúc
-
-*"Máy ảnh đã nhìn thấy những gì đôi mắt không thể."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Chuỗi cảnh phim kinh dị chân thực">
-
-**[🎬 Xem video →](https://x.com/vireonixx/status/2075377636420059580)**
-
-**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2075377636420059580) | **Đã xuất bản:** Jul 10, 2026
-
----
-### Hiệu ứng Cinematic Image-to-Video Push-In
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chuyển động tinh tế được thiết kế để tạo thêm chiều sâu điện ảnh và sự chuyển động nhẹ nhàng cho hình ảnh dọc tĩnh.
-
-#### 📝 Prompt
-
-```
-slow cinematic push-in, soft light movement, subtle background motion, realistic atmosphere, 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075153215952162816/img/SXIdMfPuasbXTp8X.jpg" width="600" alt="Hiệu ứng Cinematic Image-to-Video Push-In">
-
-**[🎬 Xem video →](https://x.com/getimg_ai/status/2075303977692836130)**
-
-**Tác giả:** [getimg.ai](https://x.com/getimg_ai) | **Nguồn:** [Link](https://x.com/getimg_ai/status/2075303977692836130) | **Đã xuất bản:** Jul 9, 2026
-
----
-### Chuỗi cảnh chiến đấu robot khoa học viễn tưởng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một kịch bản phân cảnh điện ảnh cao cấp cho phân đoạn khoa học viễn tưởng dài 10 giây, với sự tham gia của nhân vật chính và một robot tự hành khổng lồ trong một thành phố bỏ hoang.
-
-#### 📝 Prompt
-
-```
-Tạo một phân đoạn hành động khoa học viễn tưởng điện ảnh siêu thực dài 10 giây, lấy cảm hứng từ *The Creator*, *Oblivion*, *District 9* và *Elysium*.
-
-Sử dụng **hình ảnh tham chiếu nam được cung cấp** làm nhân vật chính. Duy trì sự đồng nhất tuyệt đối về danh tính, khuôn mặt, kiểu tóc, tỷ lệ cơ thể, trang phục và biểu cảm chân thực trong suốt mọi cảnh quay.
-
-## PHONG CÁCH
-
-Bom tấn Hollywood.
-
-Công nghệ tương lai gần thực tế.
-
-Siêu thực (Photorealistic).
-
-Định dạng lớn IMAX.
-
-VFX vô hình.
-
-Hiệu ứng cháy nổ thực tế.
-
-Chủ nghĩa hiện thực công nghiệp.
-
-## MÁY QUAY
-
-ARRI ALEXA 65.
-
-Ống kính anamorphic Panavision Ultra Vista.
-
-Hành động cầm tay kết hợp với tracking ổn định.
-
-Chuyển động mờ tự nhiên.
-
-## ĐỊNH DẠNG
-
-9:16
-
-10 giây
-
-5 cảnh quay.
-
----
-
-### CẢNH 1 (0:00–0:02) — ĐẾM NGƯỢC
-
-Một robot chiến đấu tự hành khổng lồ đứng giữa một thành phố bỏ hoang.
-
-Một bộ đếm ngược xuất hiện trên phần ngực bị hư hại của nó.
-
-**00:10**
-
-Nhân vật chính chậm rãi tiến lại gần.
-
----
-
-### CẢNH 2 (0:02–0:04) — QUYẾT ĐỊNH
-
-Robot đột ngột khởi động lại.
-
-Các loại vũ khí bắt đầu được triển khai.
-
-Nhân vật chính bắt đầu chạy nước rút thẳng về phía nó.
-
----
-
-### CẢNH 3 (0:04–0:06) — VA CHẠM
-
-Anh ấy Slides bên dưới chân robot trong khi tên lửa phá hủy con đường phía sau.
-
-Bê tông vỡ vụn.
-
-Xe cộ lật nhào.
-
-Bụi mù mịt không trung.
-
----
-
-### CẢNH 4 (0:06–0:08) — TẮT MÁY
-
-Nhân vật chính tiếp cận lò phản ứng lộ ra ngoài.
-
-Anh ấy cắm chìa khóa tắt máy cơ học vào lõi.
-
-Bộ đếm ngược lập tức dừng lại ở **00:01**.
-
----
-
-### CẢNH 5 (0:08–0:10) — TĨNH LẶNG
-
-Robot từ từ quỳ xuống.
-
-Tất cả đèn vụt tắt.
-
-Thành phố trở nên hoàn toàn tĩnh lặng.
-
-Nhân vật chính bước đi mà không ngoảnh lại.
-
-**Âm nhạc:** Industrial bass → dàn nhạc hybrid → im lặng hoàn toàn.
-
----
-
-## MỤC TIÊU CẢM XÚC
-
-"Thế giới chỉ còn cách sự diệt vong đúng một giây."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075176434931560448/img/r1khnveDSRsyTFKa.jpg" width="600" alt="Chuỗi cảnh chiến đấu robot khoa học viễn tưởng">
-
-**[🎬 Xem video →](https://x.com/vireonixx/status/2075176503265137135)**
-
-**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2075176503265137135) | **Đã xuất bản:** Jul 9, 2026
-
----
-### Biến hình phản chiếu: Từ chó Pug thành sói
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh sáng tạo về sự biến hình, nơi một chú chó Pug đáng yêu nhìn thấy hình ảnh phản chiếu của một con sói dũng mãnh, oai vệ trong gương.
-
-#### 📝 Prompt
-
-```
-Một chú chó Pug đáng yêu đang ngồi trong studio, nhìn vào một chiếc gương lớn dưới ánh sáng ban ngày đầy kịch tính và có độ tương phản cao. Trong hình ảnh phản chiếu ở gương, thay vì là chú chó Pug, một con sói dũng mãnh và uy nghi đang nhìn lại với vẻ mặt đầy quyền lực và tự tin. Máy quay từ từ phóng to, tạo sự tương phản giữa chú chó Pug kiêu hãnh và hình ảnh phản chiếu hoang dã, cổ xưa của nó. Tâm trạng vừa hài hước vừa truyền cảm hứng, phong cách điện ảnh, chi tiết đến từng milimet.
-
-Dòng thời gian phân cảnh 10 giây
-
-0-3s | Thiết lập: Cảnh quay trung bình một chú chó Pug đáng yêu đang ngồi đầy kiêu hãnh trước một chiếc gương lớn đặt trên sàn. Ánh sáng rực rỡ và đầy kịch tính như trong một studio chuyên nghiệp. Chú chó Pug nghiêng đầu, vẻ mặt đầy tò mò.
-
-3-7s | Tiết lộ: Máy quay từ từ lia và tiến dần về phía chiếc gương. Khi hình ảnh phản chiếu trở nên rõ nét, nó chuyển đổi mượt mà để lộ ra một con sói xám to lớn, uy nghi đang nhìn lại với đôi mắt sắc sảo, đầy tự tin.
-
-7-10s | Tương phản & Cao trào: Góc quay chia đôi màn hình hoặc quay qua vai làm nổi bật sự tương phản: chú chó Pug đáng yêu ngoài đời thực trông đầy kiêu hãnh, đặt cạnh hình ảnh con sói mạnh mẽ, cổ xưa trong gương. Ánh sáng điện ảnh tăng dần trước khi mờ dần thành màu đen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075172932792254464/img/-JF8X4hZDCSe2lKd.jpg" width="600" alt="Biến hình phản chiếu: Từ chó Pug thành sói">
-
-**[🎬 Xem video →](https://x.com/michaelrabone/status/2075173227651887525)**
-
-**Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2075173227651887525) | **Đã xuất bản:** Jul 9, 2026
-
----
-### Bưu thiếp áp phích du lịch chuyển động
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh ngắn gọn và hiệu quả để biến áp phích du lịch tĩnh thành bưu thiếp chuyển động với những đám mây trôi và mặt biển lấp lánh.
-
-#### 📝 Prompt
-
-```
-biến áp phích du lịch này thành bưu thiếp chuyển động: mây trôi, hải âu bay ngang khung hình, mặt biển lấp lánh, camera đung đưa nhẹ nhàng, 10 giây
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074873385452978176/img/cndIiE_44XHPMYim.jpg" width="600" alt="Bưu thiếp áp phích du lịch chuyển động">
-
-**[🎬 Xem video →](https://x.com/getimg_ai/status/2074948887698096374)**
-
-**Tác giả:** [getimg.ai](https://x.com/getimg_ai) | **Nguồn:** [Link](https://x.com/getimg_ai/status/2074948887698096374) | **Đã xuất bản:** Jul 8, 2026
-
----
-### Chuỗi phiêu lưu khủng long miền Tây hoang dã
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một loạt các gợi ý video mang tính điện ảnh mô tả một miền Tây hoang dã thời tiền sử, nơi các chàng cao bồi cưỡi khủng long băng qua các hẻm núi và đồng bằng, với hiệu ứng ánh sáng bình minh và hoàng hôn.
-
-#### 📝 Prompt
-
-```
-Cú máy tracking điện ảnh, bình minh trên hẻm núi đá đỏ hùng vĩ ở miền Tây hoang dã. Một chàng cao bồi trong trang phục biên giới truyền thống đang cưỡi trên lưng một con Pterosaur lớn, bay lượn mượt mà trên không trung qua địa hình gồ ghề. Ảnh chân thực, 4k, ánh sáng thể tích.
-
-Cú máy toàn cảnh lúc hoàng hôn. Một chàng cao bồi đang ngồi nghỉ bên đống lửa ấm áp trên đồng cỏ. Ở hậu cảnh ngay phía sau, một con Triceratops khổng lồ, chân thực được buộc vào một chiếc xe gỗ đang nghỉ ngơi yên bình. Ánh sáng chạng vạng điện ảnh dịu nhẹ.
-
-Cú máy tracking góc thấp trên sa mạc đầy bụi vào ban ngày. Một con Brachiosaurus khổng lồ được trang bị yên cưỡi và hàng hóa đang bước đi đầy uy nghi trên màn hình, bao quanh là một đàn khủng long nhỏ hơn và các chàng cao bồi đang cưỡi chúng. Hiệu ứng lóe sáng ống kính và bụi khí quyển.
-
-Cú máy silhouette đầy kịch tính vào ban đêm. Một chàng cao bồi đứng ở trung tâm đang nhắm khẩu súng lục, hai bên là hai con raptor có lông vũ hung dữ. Khung cảnh được chiếu sáng ngược rực rỡ bởi ngọn lửa lớn, dữ dội từ một cấu trúc đang cháy phía sau họ. Độ tương phản cao, tập trung vào hành động.
-
-Cú máy silhouette toàn cảnh hoành tráng trong giờ vàng hoàng hôn. Một chàng cao bồi cưỡi trên lưng một con Tyrannosaurus Rex khổng lồ đang bước đi chậm rãi trên đồng bằng sa mạc bằng phẳng. Mặt trời khổng lồ nằm thấp trên đường chân trời, tạo nên một hình ảnh cuối cùng đầy ấn tượng và tuyệt đẹp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074810577088557056/img/WEj2e5ODrGlSwDyN.jpg" width="600" alt="Chuỗi phiêu lưu khủng long miền Tây hoang dã">
-
-**[🎬 Xem video →](https://x.com/michaelrabone/status/2074810751898841468)**
-
-**Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2074810751898841468) | **Đã xuất bản:** Jul 8, 2026
-
----
-### MV Nhảy Cặp Đôi Phong Cách Mực Pastel
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh toàn diện để tạo video âm nhạc chất lượng cao với phong cách cách điệu, bao gồm hai nhân vật với hiệu ứng hình ảnh (VFX) đặc trưng, thẩm mỹ mực pastel và các hiệu ứng vẽ tay đồng bộ.
-
-#### 📝 Prompt
-
-```
-Sử dụng 2 hình ảnh tham chiếu. Coi image1 là Nhân vật A và image2 là Nhân vật B. Thể hiện Nhân vật A và Nhân vật B như các nhân vật xuất hiện trong video âm nhạc (MV) live-action, đồng thời giữ nguyên các đặc điểm khuôn mặt, kiểu tóc, vóc dáng, biểu cảm, trang phục, bầu không khí và danh tính nhân vật từ hình ảnh tham chiếu. Không trộn lẫn hai người. Không hoán đổi khuôn mặt, kiểu tóc, trang phục, vóc dáng, phong cách, VFX hoặc đặc điểm nhân vật. Duy trì cá tính riêng của từng hình ảnh tham chiếu và mô tả họ rõ ràng như những cá nhân riêng biệt. Tích hợp các chi tiết trang trí hoặc hình bóng đặc trưng từ hình ảnh tham chiếu một cách tự nhiên như trang phục giả tưởng cho MV live-action. Hiển thị kết cấu chân thực, tóc đung đưa, chuyển động vải, phản chiếu phụ kiện, kết cấu da, cùng ánh sáng và bóng đổ. Phong cách tổng thể nên là một MV giả tưởng live-action dễ thương, thanh lịch và trong trẻo. Bối cảnh không phải là địa điểm thực tế mà là một 'Sân khấu Giấc mơ Mực Pastel' dành cho MV live-action. Sắp xếp không gian studio màu trắng mềm mại với mực nhạt, ánh sáng màu nước, thủy tinh trong suốt, vải lụa đung đưa, vòng tròn trong suốt, sàn phản chiếu mờ ảo, mảnh giấy trôi nổi, các vòng tròn như bong bóng xà phòng và các hạt bụi sao. Tập trung vào các tông màu pastel nhẹ nhàng như trắng sữa, xanh baby, tím oải hương, hồng nhạt, vàng kem, xanh bạc hà và màu lục lam nhạt. Màu sắc không nên phát ra ánh sáng mạnh mà xuất hiện như đang nhòe đi một cách tinh tế. Bối cảnh không tĩnh tại ngay từ đầu; đồng bộ với nhịp 118 BPM, các đám mây mực nhạt, ánh sáng màu nước, vòng tròn trong suốt, phản chiếu thủy tinh, vải và các hạt ánh sáng từ từ mở rộng, trôi chảy, đung đưa và tan chảy. Thêm cả VFX phong cách mực dễ thương và các hiệu ứng vẽ tay tinh tế. Mực được trình bày dưới dạng màu nước trong suốt, các nét cọ nhạt, vệt loang sữa, hạt mực nhỏ và các vết mờ lan tỏa trong không khí. Các hiệu ứng vẽ tay xuất hiện thoáng qua như những đường kẻ trắng mảnh, đường viền pastel nhạt, ngôi sao nhỏ, tia chớp mảnh, đường tốc độ vẽ tay, đường lượn sóng và vệt sáng lấp lánh. Làm rung nhẹ các đường nét để giữ lại sự ấm áp của nét vẽ tay. VFX của Nhân vật A nên sắc nét và trong suốt, với các đường mảnh, vòng tròn trong suốt, gợn sóng thủy tinh lỏng và các vệt vẽ tay sắc nét phản ứng theo vai, cổ tay, bàn chân và các cú xoay. VFX của Nhân vật B nên mềm mại và ngọt ngào, với các vệt mực mờ nhạt, bụi sao, hoa sáng nhỏ, cọ vẽ mềm như dải ruy băng và các tia sáng vẽ tay phản ứng theo đầu ngón tay, tóc, trang phục và các cú xoay. Tại thời điểm họ đến gần nhau, VFX vòng tròn của Nhân vật A và VFX bụi sao của Nhân vật B tạm thời chồng lên nhau như những gợn sáng nhạt trước khi tách ra ngay lập tức. VFX không được che khuất khuôn mặt, đôi mắt, đường nét cơ thể, tay chân, chi tiết trang phục hoặc điệu nhảy. Trang phục được thiết kế lại đầy quyến rũ cho MV live-action trong khi vẫn giữ thế giới quan của hình ảnh tham chiếu, thêm các vật liệu bóng bẩy, các lớp, áo khoác ngắn, vải đung đưa, dây xích, thắt lưng, ruy băng, phụ kiện, bốt, găng tay, các bộ phận kim loại, độ trong suốt và màu sắc tạo điểm nhấn. Nhân vật A và Nhân vật B thể hiện cảm giác là một cặp đôi, nhưng cá tính về trang phục và VFX của họ được phân biệt rõ ràng. Tóc, vải, ruy băng, phụ kiện và các chi tiết trang trí đặc trưng đung đưa tự nhiên theo điệu nhảy. Biểu cảm dễ thương và đĩnh đạc, thể hiện khoảng cách như một cặp đôi. Khi một người nhìn vào máy quay, người kia nhìn vào đối phương hoặc nhìn hơi lệch đi; họ không thực hiện cùng một biểu cảm cùng lúc. Ấn tượng tổng thể là sự nhân cách hóa live-action của image1 và image2 trong một MV nhảy cặp đôi thế giới mực pastel nhạt. Nhân vật A lạnh lùng và sắc sảo; Nhân vật B mềm mại và quyến rũ. Bối cảnh dễ thương nhưng không tạo cảm giác rẻ tiền, chuyển động đẹp mắt với mực màu nước trong suốt và VFX vẽ tay. Ưu tiên khuôn mặt, kiểu tóc, vóc dáng, biểu cảm và hình bóng. Không có lớp phủ văn bản, phụ đề, logo hoặc ký tự dễ đọc. Không có graffiti, nghệ thuật phun sơn, đèn neon mạnh, phong cách cyber hoặc bối cảnh phong cảnh bình thường. Không nhân bản người, không có người mới, không đồng bộ hoàn hảo, không sao chép đối xứng, không đứng yên và không chỉ đi bộ. Sử dụng một hoặc nhiều hình ảnh tham chiếu. Coi tất cả những người/nhân vật trong hình ảnh tham chiếu là nhân vật chính. Nếu có 1 hình ảnh, hãy làm nổi bật 1 người; nếu 2 hình ảnh, 2 người; nếu 3 hình ảnh, 3 người, làm cho tất cả xuất hiện đồng thời trong cùng một video. 15 giây, 60fps. Một video nhảy chất lượng cao theo phong cách MV concept thần tượng. Đảm bảo nhịp độ phù hợp cho một MV ngắn, vũ đạo dễ thương và các hiệu ứng 2D vẽ tay đồng bộ. Mô tả các chuyển động mượt mà cho tóc, quần áo, phụ kiện, bàn tay, bước chân, cú xoay, ánh nhìn và hiệu ứng. Đặt mọi người vào cùng một bối cảnh, không gian quay và cảnh MV cùng một lúc. Không thay đổi bối cảnh cho mỗi hình ảnh tham chiếu. Không chia thành các cảnh khác nhau cho mỗi người. Không hoán đổi nhân vật giữa chừng. Không giới thiệu họ từng người một. Đối với nhiều hình ảnh tham chiếu, hãy coi mỗi hình ảnh là một người độc lập. Không trộn lẫn khuôn mặt, kiểu tóc, màu tóc, vóc dáng, trang phục, phụ kiện, giới tính, độ tuổi hoặc phong cách. Không biến họ thành một cặp với cùng khuôn mặt, kiểu tóc hoặc trang phục. Nếu sử dụng tham chiếu nam và nữ, hãy duy trì rõ ràng họ là nam và nữ. Ưu tiên giữ lại đặc điểm nhân vật từ các hình ảnh tham chiếu, bao gồm kết cấu, phong cách nghệ thuật, bầu không khí và cá tính. Ngay cả khi kết cấu khác nhau giữa các tham chiếu, hãy giữ chúng riêng biệt cho từng nhân vật. Không ép buộc một phong cách nghệ thuật đồng nhất cho tất cả. Nếu toàn thân hoặc trang phục không hiển thị, hãy bổ sung chúng một cách tự nhiên dựa trên màu sắc, vật liệu, hình bóng và đặc điểm nhân vật từ mỗi hình ảnh. Các phần bổ sung phải tuân theo cùng hướng với hình ảnh tham chiếu tương ứng của họ. Không mượn các đặc điểm từ các nhân vật khác. Cố định bối cảnh thành một không gian quay MV chung duy nhất: studio trong nhà, phòng cạnh cửa sổ hoặc không gian quay đơn giản. Sử dụng ánh sáng tự nhiên mềm mại và bối cảnh có tổ chức nơi mọi người đều trông như nhân vật chính. Không thay đổi địa điểm theo từng cảnh quay; chỉ thay đổi góc máy trong cùng một không gian. Phân tích những điểm chung giữa các hình ảnh tham chiếu để tạo ra một không gian MV concept thần tượng duy nhất, điều chỉnh theo bầu không khí (sáng, nhạt, bình tĩnh, ẩm ướt, mát mẻ, dễ thương, v.v.). Âm nhạc là một bài hát tiếng Nhật; không sử dụng các bài hát thực tế hiện có. Concept video là một MV concept ngắn nơi tất cả các nhân vật nhảy cùng nhau một cách dễ thương và ấn tượng trong cùng một không gian. Ưu tiên: mọi người tồn tại đồng thời, mọi người trông dễ thương, MV đáng nhớ và điệu nhảy tích hợp với các hiệu ứng 2D vẽ tay. Sử dụng cách sắp xếp cạnh nhau, hình tam giác, đường chéo hoặc trước-sau để mọi người đều có thể nhìn thấy. Mọi người nhảy cùng lúc; không có phần chỉ solo, đứng yên hoặc chỉ đạo ở các địa điểm riêng biệt. Không sử dụng sự 'dễ thương' theo mẫu; hãy phân tích các tham chiếu để tạo ra sự dễ thương theo concept thần tượng gắn kết. Nhân vật tươi sáng: sự dễ thương năng động. Nhân vật bình tĩnh: sự dễ thương thanh lịch. Nhân vật lạnh lùng: sự dễ thương e thẹn hoặc đĩnh đạc. Nhân vật phù du: sự dễ thương mềm mại. Nhân vật phong cách đường phố: sự dễ thương thô ráp và tinh nghịch. Vũ đạo: nhảy solo nếu có 1 người, nhảy nhóm nếu có 2 người trở lên. Bao gồm các khoảnh khắc đồng bộ và các khoảnh khắc thể hiện cá tính. Sử dụng bàn tay, vai, cổ, eo, bàn chân, ánh nhìn, cú xoay và tư thế một cách tự nhiên. Các chuyển động nên dễ thương, dễ bắt chước và đáng nhớ. Không có các chuyển động quá trẻ con, quá gợi cảm, quá dữ dội, nhảy không tự nhiên hoặc các chuyển động ngẫu nhiên. Các hiệu ứng 2D vẽ tay được tự động tạo dựa trên phân tích nhân vật. Đảm bảo hình dạng, đường nét, kết cấu, màu sắc, mật độ và thời gian phù hợp với tất cả mọi người. Thống nhất màn hình với một thiết kế MV trong khi vẫn tạo cho các nhân vật những biến thể nhỏ về màu sắc/phong cách đường nét khi cần thiết. Các hiệu ứng là đồ họa chuyển động vẽ tay được tổng hợp trên video, giống như các hoạt hình 2D thô, dễ thương như bút sáp màu, bút chì, màu dầu pastel hoặc mực nhạt. Đồng bộ chúng với bàn tay, khuôn mặt, bàn chân, chuyển động cơ thể, cú xoay, ánh nhìn và tư thế. Cân bằng chúng trên màn hình mà không ưu tiên một người nào. Không che khuất khuôn mặt hoặc cơ thể quá nhiều. Cấu hình như thể được quay bằng 5 máy quay, chuyển đổi mỗi 2 giây: Trước, Trên, Trái, Phải, Sau. Duy trì cùng một không gian bối cảnh, chỉ thay đổi góc quay. Ưu tiên các bố cục nơi mọi người đều có thể nhìn thấy, bao gồm các cảnh quay nhóm toàn thân hoặc từ đầu gối trở lên. Không có cảnh quay cận cảnh cắt mất người. Không cố định máy quay hoàn toàn; rung nhẹ theo nhịp (nảy nhẹ, phóng to, đung đưa nhẹ). Không sử dụng rung lắc cầm tay lộn xộn. 0.0-2.0s: Máy quay phía trước. Mọi người xuất hiện trong cùng một bối cảnh. Toàn thân hoặc từ đầu gối trở lên. Sắp xếp cạnh nhau hoặc theo đội hình. Mọi người thực hiện nhịp nhàng một tư thế giới thiệu dễ thương và các bước nhỏ phù hợp với cá tính của họ. Các hiệu ứng 2D vẽ tay phù hợp với bầu không khí xuất hiện gần bàn tay và khuôn mặt. 2.0-4.0s: Máy quay phía trên (từ trên cao xuống). Mọi người bước vào khung hình và hướng về máy quay. Phối hợp các cử chỉ khuôn mặt và điểm nhấn bàn tay trong khi vẫn duy trì các đặc điểm nhân vật riêng biệt. 4.0-6.0s: Máy quay bên trái. Vũ đạo ngắn sử dụng hướng cơ thể, eo, vai và bàn tay. Giữ khoảng cách từ đầu gối đến toàn thân. Các hiệu ứng vẽ tay chảy qua mọi người theo các vệt chuyển động. 6.0-8.0s: Máy quay bên phải. Mọi người quay mặt theo hướng ngược lại trong khi vẫn hướng về máy quay. Vũ đạo dễ thương đồng bộ theo nhịp với vai, bàn tay và bàn chân. Hiển thị các bước chân rõ ràng với bố cục tự nhiên. Các hiệu ứng bắt nguồn từ màu sắc/hình dạng tham chiếu xuất hiện ở vai và bàn chân. 8.0-10.0s: Máy quay phía sau. Tóc và trang phục đung đưa nhẹ nhàng. Bố cục hình bóng tự nhiên. Mọi người nhìn lại qua vai về phía máy quay, đồng bộ hoặc hơi so le. Bao gồm các cú xoay và tư thế tay với các vệt hiệu ứng. 10.0-12.0s: Máy quay phía trước (Cao trào). Từ đầu gối đến toàn thân. Vũ đạo nhóm đáng nhớ sử dụng toàn bộ cơ thể. Tăng mật độ hiệu ứng. Lan tỏa các hình dạng/đường nét trên màn hình. Thêm các cú rung máy quay ngắn vào các 'nhịp nhấn'. 12.0-14.0s: Máy quay phía trên. Mọi người nhìn lên với các cử chỉ khuôn mặt/bàn tay dễ thương. Các hiệu ứng vẽ tay lan tỏa nhẹ nhàng từ bàn tay. Duy trì sự nhất quán về khuôn mặt/tóc. 14.0-15.0s: Cảnh kết thúc. Hướng về phía trước hoặc hơi chéo. Tư thế nhóm cuối cùng chảy ra từ điệu nhảy. Không nhất thiết phải cận cảnh khuôn mặt; chọn bố cục nhóm hấp dẫn nhất (toàn thân đến ngang ngực). Không có zoom đột ngột, cắt cảnh nhảy vọt hoặc cận cảnh khuôn mặt đột ngột ở cuối. Sử dụng cách tiếp cận máy quay mượt mà hoặc dừng nhẹ. Nhấn mạnh tư thế thông qua sự tĩnh lặng của cơ thể, hình dáng bàn tay, ánh nhìn và chuyển động kéo dài của tóc/vải cùng một đợt hiệu ứng 2D ngắn. Ràng buộc: Không có nhân vật nào khác ngoài các nhân vật chính. Không hợp nhất nhiều tham chiếu thành một người. Không trộn lẫn khuôn mặt nam và nữ. Không hoán đổi kiểu tóc/trang phục. Không tạo cặp song sinh. Không chia sẻ đặc điểm nhân vật chỉ vì họ chia sẻ bối cảnh. Không có trang phục trái ngược với tham chiếu. Không có tư thế/biểu cảm/biểu tượng/màu sắc không nhất quán với nhân vật. Không sử dụng cùng một mẫu cho mọi hiệu ứng/cử chỉ. Đảm bảo điệu nhảy và hiệu ứng được đồng bộ hoàn hảo. Hiệu ứng phải là một phần của vũ đạo, không quá yếu. Không có vụ nổ, lửa, khói, lỗi kỹ thuật quá mức hoặc phép thuật hào nhoáng. Không có văn bản, phụ đề, logo hoặc hình mờ. Kết xuất toàn bộ 15 giây một cách mượt mà ở 60fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074800449652424704/img/XC2gobNaI_RucnzU.jpg" width="600" alt="MV Nhảy Cặp Đôi Phong Cách Mực Pastel">
-
-**[🎬 Xem video →](https://x.com/sailorv321/status/2074805393294004436)**
-
-**Tác giả:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Nguồn:** [Link](https://x.com/sailorv321/status/2074805393294004436) | **Đã xuất bản:** Jul 8, 2026
-
----
-### Chuỗi hình ảnh Anime nấu món Idli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt chi tiết từng bước theo phong cách anime để chuẩn bị món idli truyền thống của Nam Ấn, bao gồm các góc quay POV và chụp ảnh cận cảnh món ăn.
-
-#### 📝 Prompt
-
-```
-Một đoạn phim anime nấu ăn nhịp độ nhanh, không lời thoại, dài 10 giây. 
-Trình tự: Góc nhìn POV mở hộp đựng gạo và đậu urad dal → xay thành hỗn hợp bột lên men mịn → phết dầu vào khuôn idli → đổ bột vào khuôn → đặt khuôn vào nồi hấp truyền thống → hấp cho đến khi bánh nở xốp hoàn hảo → cô gái Nam Ấn xinh đẹp lấy những chiếc bánh idli nóng hổi ra → cận cảnh những chiếc bánh idli mềm, xốp, bốc khói → góc quay từ trên cao xuống đĩa idli được phục vụ cùng sambar và tương ớt dừa → cận cảnh cô gái lặng lẽ thưởng thức miếng bánh ngon lành → cảnh quay thẩm mỹ cuối cùng của đĩa idli bốc khói trên mặt bàn bếp truyền thống ngập tràn ánh nắng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074761774155616256/img/G_dRnuUbfQkF44fs.jpg" width="600" alt="Chuỗi hình ảnh Anime nấu món Idli">
-
-**[🎬 Xem video →](https://x.com/snskritinaruka/status/2074761846444503180)**
-
-**Tác giả:** [Sanskriti Naruka](https://x.com/snskritinaruka) | **Nguồn:** [Link](https://x.com/snskritinaruka/status/2074761846444503180) | **Đã xuất bản:** Jul 8, 2026
-
----
-### Chuỗi hình ảnh điện ảnh về đạp xe trên núi Alpine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chi tiết cho cảnh đổ đèo tốc độ cao trên đường núi Alpine, đảm bảo tính nhất quán của khuôn mặt từ hình ảnh tham chiếu.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh tham chiếu nữ được đính kèm làm tài liệu tham khảo nhận dạng DUY NHẤT cho nhân vật chính.
-
-Duy trì sự nhất quán hoàn toàn về khuôn mặt trong mọi khung hình.
-
-Thời lượng: 10 giây.
-
-Khung hình đầu tiên mở ra với cảnh nhân vật đang đổ đèo trên con đường núi Alpine bằng xe đạp đua carbon cao cấp ở tốc độ cao. Cô tự tin nghiêng người vào những khúc cua rộng trong khi sương mù buổi sáng dần tan phía dưới. Ánh nắng mặt trời chiếu rọi các đỉnh núi khi cô thoát ra khỏi khúc cua cuối cùng nhìn xuống thung lũng trải dài vô tận.
-
-Độ chân thực IMAX 65mm. Phân loại màu HDR cao cấp. Quay phim điện ảnh từ trên không.
-
-Máy quay:
-Drone FPV đuổi theo đang chuyển động → quay ngang (side tracking) → máy quay gắn trên bánh xe → cảnh quay từ trên không bao quát.
-
-Nhạc nền:
-Nhạc giao hưởng điện ảnh đầy cảm hứng, bộ gõ nhịp nhàng, guitar acoustic, đàn dây giàu cảm xúc.
-
-Âm thanh môi trường:
-Tiếng líp xe, tiếng sang số, tiếng lốp xe, tiếng gió núi, tiếng chim hót.
-
-Không có lời thoại.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074666143852445696/img/oikKJLTsOxHizW6r.jpg" width="600" alt="Chuỗi hình ảnh điện ảnh về đạp xe trên núi Alpine">
-
-**[🎬 Xem video →](https://x.com/vireonixx/status/2074666384051904670)**
-
-**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2074666384051904670) | **Đã xuất bản:** Jul 8, 2026
-
----
-### Video phong cảnh siêu thực với con mắt khổng lồ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video điện ảnh dành cho Gemini để tạo ra phong cảnh siêu thực với con mắt khổng lồ đang chớp và những nhà thám hiểm tí hon, kèm theo dòng thời gian chuyển động chi tiết trong 10 giây.
-
-#### 📝 Prompt
-
-```
-Phong cảnh siêu thực chân thực như ảnh chụp. Một con mắt người khổng lồ, cực kỳ chi tiết với mống mắt màu xanh lam và lòng trắng có tia máu đang chớp chậm rãi ở trung tâm. Xung quanh là các cấu trúc hình ngôi sao màu đỏ, thịt, đang đập, mỗi cấu trúc đều chứa một con mắt màu xanh lam đang chớp. Những nhân vật người tí hon chân thực trong bộ vest đi bộ giữa địa hình đầy thịt, quan sát những con mắt.
-
-Dòng thời gian (10 giây):
-
-0-3 giây: Cận cảnh cực đại con mắt trung tâm khổng lồ đang chớp chậm rãi. Tập trung vào kết cấu mống mắt và các mạch máu chân thực như ảnh chụp.
-
-3-6 giây: Máy quay lùi lại chậm rãi. Các cấu trúc hình ngôi sao màu đỏ, thịt xung quanh bắt đầu đập. Những con mắt nhỏ hơn đảo quanh một cách điên cuồng.
-
-6-10 giây: Cảnh quay rộng thể hiện quy mô. Những nhân vật người tí hon đi bộ trên địa hình đầy thịt, quan sát các cấu trúc khi tất cả các con mắt đều tập trung nhìn vào máy quay.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074493433201221632/img/OO2qM-98wUw2rXi4.jpg" width="600" alt="Video phong cảnh siêu thực với con mắt khổng lồ">
-
-**[🎬 Xem video →](https://x.com/michaelrabone/status/2074493655843258788)**
-
-**Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Đã xuất bản:** Jul 7, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
 
 <div align="center">
 
-### 🎯 96 prompt khác không hiển thị ở đây
+### 🎯 100 prompt khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -2996,6 +2676,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-29T02:42:39.605Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-29T10:48:33.847Z</sub>
 
 </div>

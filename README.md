@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **196** |
+| 📝 Total Prompts | **208** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-29** |
 
@@ -56,6 +56,323 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Chrome Robot Commercial Script
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex multi-scene script for a 1990s style robot character, including title cards, movement constraints, and synchronized dialogue.
+
+#### 📝 Prompt
+
+```
+Throughout the entire spot: a 1990s practical suit robot, chrome and 
+rubber, chest plate reads "OMNI 1.1",
+Same robot.  Every single shot. Do not change this.
+
+[0-1s] Bold urgent title card:
+"JUST IN FROM GOOGLE!"
+
+[1-5s] The robot stands still against a clean dark background. 
+Premium chrome title cards appear one at a time:
+
+"UP TO 4K."
+"EXTEND TO 10 SECONDS."
+"2 PHOTOS → 1 VIDEO."
+"3 CLIPS. STAYS CONSISTENT."
+
+Same robot. He does not move. He does not change.
+
+[5-10s] CUT TO: Matrix dojo. Same robot. No costume change.
+Kid stands across from him, serious.
+
+Kid: "Do you know kung fu?"
+Omni throws a punch. Omni pulls his hand back.
+Omni says "Ow."
+Pause.
+Omni says "I'm working on it kid."
+
+Final card: "GEMINI OMNI 1.1"
+
+Audio: news sting on opener. Silence under feature cards.
+Matrix music swell on dojo cut. Punch. Silence. "Ow."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093563402916667392/img/JzOGeTSe5sUvg5s1.jpg" width="600" alt="Chrome Robot Commercial Script">
+
+**[🎬 Watch Video →](https://x.com/BrentLynch/status/2093563415730258318)**
+
+**Author:** [Brent Lynch](https://x.com/BrentLynch) | **Source:** [Link](https://x.com/BrentLynch/status/2093563415730258318) | **Published:** Aug 29, 2026
+
+---
+### Miniature Chocolate Factory Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A highly detailed 10-second video prompt for a photorealistic miniature chocolate factory featuring tiny workers and step-by-step production.
+
+#### 📝 Prompt
+
+```
+Create a 10-second ultra-realistic cinematic miniature chocolate factory video. Show a tiny, busy chocolate production facility operated by adorable miniature workers wearing professional white uniforms, hairnets, and tiny aprons.
+
+0–2 sec: Mini workers carefully pour rich melted chocolate from a large stainless-steel tank into small molds on a moving conveyor belt, with realistic steam and glossy chocolate texture.
+
+2–4 sec: The chocolate molds move through a miniature cooling tunnel. Workers inspect each piece with tiny tools and magnifying glasses.
+
+4–6 sec: Workers decorate the finished chocolates with nuts, caramel lines, chocolate drizzle, and tiny colorful sprinkles using miniature machines and precision tools.
+
+6–8 sec: A fast-moving conveyor carries perfectly shaped chocolates toward the packaging station. Tiny workers place each chocolate into elegant premium wrappers and small boxes.
+
+8–10 sec: Final hero shot — dozens of beautifully packaged chocolates move along the conveyor while miniature workers proudly inspect the production line. Camera slowly pushes in toward one perfectly finished chocolate box.
+
+Style: photorealistic miniature world, cinematic macro photography, realistic chocolate melting and pouring, highly detailed tiny machinery, natural worker movements, shallow depth of field, warm luxury chocolate-factory lighting, realistic reflections, subtle steam, smooth camera movement, satisfying ASMR-style production atmosphere, premium commercial advertisement quality, 4K, physically accurate textures, no cartoon look.
+
+Camera: macro close-ups, smooth tracking shots, tiny low-angle perspectives, seamless transitions, cinematic depth of field.
+
+Important: Keep the same miniature workers, factory layout, chocolate appearance, and visual style throughout the entire 10-second sequence. No text, no logos, no distorted hands, no extra limbs, no flickering, no abrupt cuts.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093541345403224065/img/MdHVgd5_LknOet9K.jpg" width="600" alt="Miniature Chocolate Factory Commercial">
+
+**[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2093541403796353389)**
+
+**Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2093541403796353389) | **Published:** Aug 29, 2026
+
+---
+### Desert Ninja Sunset Standoff
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic 10-second desert standoff between a masked ninja and three warriors at sunset, using reference images for character design.
+
+#### 📝 Prompt
+
+```
+Use the uploaded images as visual references for the characters. Create a 10-second cinematic live-action scene in a desert at sunset. One masked ninja stands alone facing three dark warriors several meters away. Use Image 2 as the visual reference for the masked ninja. Use Image 1 as inspiration for the three opposing warriors, making them three distinct characters from the same faction. Keep everyone still and focused on each other. Wind moves dust gently across the desert. Subtle fabric movement. Strong cinematic tension. The lead warrior looks at the ninja and says: “You came here alone.” The ninja looks back calmly and replies: “I came for you.” Hold on the silence after the reply for a moment. No combat. No attack. No sword movement. No physical contact. No injury. No violence. Cinematic live-action realism, natural body language, realistic lip sync, subtle camera movement, dramatic sunset light, grounded desert atmosphere.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093385776910221312/img/UaTv2dFJc0O_n79Y.jpg" width="600" alt="Desert Ninja Sunset Standoff">
+
+**[🎬 Watch Video →](https://x.com/shikoba_86/status/2093446020499943538)**
+
+**Author:** [Marco "Shikoba" Riccetti](https://x.com/shikoba_86) | **Source:** [Link](https://x.com/shikoba_86/status/2093446020499943538) | **Published:** Aug 28, 2026
+
+---
+### K-Pop MV One-Take Dance
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-velocity camera prompt for creating a single continuous dance shot in a K-pop music video style, focusing on dancer charisma.
+
+#### 📝 Prompt
+
+```
+[# References <IMAGE_REF_0>@Image1 <IMAGE_REF_1>@Image2 <IMAGE_REF_2>@Image3] Strictly one single continuous unbroken oner take (zero cuts). High-velocity K-pop MV camera movement centered on the dancer's upper body and facial charisma with dynamic full-figure
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093441543726133248/img/SbUC1IZDPZuNWs_n.jpg" width="600" alt="K-Pop MV One-Take Dance">
+
+**[🎬 Watch Video →](https://x.com/Tomw852/status/2093441641571131816)**
+
+**Author:** [Tom𝕎](https://x.com/Tomw852) | **Source:** [Link](https://x.com/Tomw852/status/2093441641571131816) | **Published:** Aug 28, 2026
+
+---
+### Wizard vs Fire Demon Fantasy Battle
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An epic cinematic fantasy video prompt featuring a wizard facing a giant fire demon on a crumbling stone bridge with dramatic 8K lighting.
+
+#### 📝 Prompt
+
+```
+Epic cinematic fantasy video of a powerful grey wizard standing on a crumbling stone bridge, facing a gigantic fire demon, raising his staff and declaring “You shall not pass!”, dramatic lighting, sweeping camera angles, photorealistic, 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093419822549757952/img/L5SAmpbdC8ruEuPY.jpg" width="600" alt="Wizard vs Fire Demon Fantasy Battle">
+
+**[🎬 Watch Video →](https://x.com/Conor_D_Dart/status/2093419950522118605)**
+
+**Author:** [Conor Dart](https://x.com/Conor_D_Dart) | **Source:** [Link](https://x.com/Conor_D_Dart/status/2093419950522118605) | **Published:** Aug 28, 2026
+
+---
+### Cinematic Rock Climber Training
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-quality cinematic prompt for sports photography style video featuring a climber in a modern gym with dramatic lighting.
+
+#### 📝 Prompt
+
+```
+Beautiful cinematic video of a rock climber training in a modern climbing gym, professional sports photography, dynamic camera angles, realistic movement, dramatic lighting, 8K, viral Twitter aesthetic.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093387864948011008/img/iNmD5O3-vLLPrTeE.jpg" width="600" alt="Cinematic Rock Climber Training">
+
+**[🎬 Watch Video →](https://x.com/Conor_D_Dart/status/2093388008061804767)**
+
+**Author:** [Conor Dart](https://x.com/Conor_D_Dart) | **Source:** [Link](https://x.com/Conor_D_Dart/status/2093388008061804767) | **Published:** Aug 28, 2026
+
+---
+### Luxury Strawberry Jam Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive storyboard prompt for a gourmet strawberry jam commercial, featuring macro textures, slow-motion spoon dips, and premium breakfast aesthetics.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Premium Strawberry Jam Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury breakfast food campaign
+• 8 cinematic product-focused scenes
+• Product remains the visual hero
+• High-end advertising presentation
+
+HEADER:
+• Elegant serif typography
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: Gourmet Breakfast Commercial
+  - Product: Strawberry Jam
+  - Audio: Soft Food ASMR
+• Why This Style Works section
+• Strawberry red, cream and soft pink aesthetic
+• Minimal fruit-inspired decorative details
+
+STORYBOARD:
+1. Premium jam jar surrounded by fresh strawberries
+2. Jar lid opening in an extreme macro shot
+3. Spoon dipping slowly into thick strawberry jam
+4. Glossy jam stretching from spoon in slow motion
+5. Fresh strawberry pieces dropping into the jam
+6. Jam spreading smoothly across warm toasted bread
+7. Extreme macro showing strawberry seeds and rich texture
+8. Final hero jar with toast, strawberries and glossy jam splash
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow-motion spread, overhead food composition, smooth camera push-in, shallow depth of field, premium packshot.
+
+STYLE:
+Ultra-realistic food photography, glossy fruit texture, realistic jam consistency, fresh strawberries, warm natural lighting, premium glass packaging, luxury breakfast advertising, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787993736055_vz04eo_HQ0vDf8akAAXOp1.jpg" width="600" alt="Luxury Strawberry Jam Storyboard">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2093381158356815935)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2093381158356815935) | **Published:** Aug 28, 2026
+
+---
+### Streamer Zombie Game Syringe Combat
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt depicting a female streamer playing a horror game where a nurse character battles zombies with a syringe.
+
+#### 📝 Prompt
+
+```
+A female streamer committing and playing  a game where a main character is a female nurse at fighting zombies with syringe
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093361666260160512/img/DZmjmoHLaqVaRj87.jpg" width="600" alt="Streamer Zombie Game Syringe Combat">
+
+**[🎬 Watch Video →](https://x.com/DrstaOne/status/2093364188781703596)**
+
+**Author:** [DrstaOne](https://x.com/DrstaOne) | **Source:** [Link](https://x.com/DrstaOne/status/2093364188781703596) | **Published:** Aug 28, 2026
+
+---
+### FPV Mountain Bike Downhill Ride
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-speed, first-person perspective video prompt of a mountain bike racing down a steep, rocky trail with realistic action-camera physics.
+
+#### 📝 Prompt
+
+```
+Ultra-realistic first-person POV mountain bike ride down a steep rocky trail high in the mountains. The rider races downhill through sharp turns, rocks and small jumps with huge cliffs and mountain scenery around them. Strict first-person POV only, high speed, camera movement and grounded physics, real action-camera footage.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093328534945120256/img/eqNWd7v_zlAgy7uM.jpg" width="600" alt="FPV Mountain Bike Downhill Ride">
+
+**[🎬 Watch Video →](https://x.com/YourAlphaMom/status/2093333326635405357)**
+
+**Author:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2093333326635405357) | **Published:** Aug 28, 2026
+
+---
+### Mount Everest Climber
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for generating high-quality footage of a climber on Mount Everest with professional 8k photography aesthetics.
+
+#### 📝 Prompt
+
+```
+beautiful video of a climber climbing mount everest, professional photography, 8k, trending on Twitter
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093234584049647617/img/vP2tzlpiCT3zr7sd.jpg" width="600" alt="Mount Everest Climber">
+
+**[🎬 Watch Video →](https://x.com/Conor_D_Dart/status/2093234779890102730)**
+
+**Author:** [Conor Dart](https://x.com/Conor_D_Dart) | **Source:** [Link](https://x.com/Conor_D_Dart/status/2093234779890102730) | **Published:** Aug 28, 2026
+
+---
+### Female Streamer Zombie Game Commentary
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for generating a scene of a female streamer playing and commentating on a zombie game featuring a nurse character.
+
+#### 📝 Prompt
+
+```
+A female streamer commenting and playing a game where the main character is a female nurse at fighting zombies with syringe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093215829534146560/img/Tl3KL8c5NyN2Ivev.jpg" width="600" alt="Female Streamer Zombie Game Commentary">
+
+**[🎬 Watch Video →](https://x.com/rovvmut_/status/2093215928863650296)**
+
+**Author:** [Heisenberg](https://x.com/rovvmut_) | **Source:** [Link](https://x.com/rovvmut_/status/2093215928863650296) | **Published:** Aug 28, 2026
+
+---
+### Miniature Drone Unboxing Macro Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic macro video prompt showing the realistic unboxing and assembly of a tiny foldable drone on a wooden tabletop.
+
+#### 📝 Prompt
+
+```
+Create a highly realistic cinematic macro video of a tiny DJI Mini 5 Pro-style drone being unboxed and assembled on a wooden tabletop. Start with a small white drone retail box, then show human hands carefully opening the packaging and lifting out the miniature foldable drone. Capture detailed close-up shots of the drone being unfolded and its components being positioned on the box. End with an extreme macro shot of the compact gray drone as its rear battery indicator lights glow green. Warm indoor lighting, shallow depth of field, realistic skin and plastic textures, smooth hand movements, premium product-commercial aesthetic, cinematic camera movement, sharp focus on the drone, natural shadows, 4K photorealism, vertical 9:16 composition, no text or watermark.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093197036824965121/img/tqzfGB18jYkI11KI.jpg" width="600" alt="Miniature Drone Unboxing Macro Video">
+
+**[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2093197063421108689)**
+
+**Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2093197063421108689) | **Published:** Aug 28, 2026
+
+---
 ### Social Media Studio Dance Routine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2447,649 +2764,13 @@ camera slowly orbits the product, reflections move across the surface, soft part
 **Author:** [getimg.ai](https://x.com/getimg_ai) | **Source:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **Published:** Jul 10, 2026
 
 ---
-### Cinematic Martial Arts Fight Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive video prompt for a 10-second martial arts sequence featuring technical camera details, audio design, and character identity preservation.
-
-#### 📝 Prompt
-
-```
-Create a 10-second ultra-photorealistic cinematic martial arts sequence inspired by classic Hong Kong action cinema, modern stunt choreography, and premium Hollywood filmmaking.
-
-Use the provided male reference image as the protagonist.
-
-Maintain absolute identity consistency throughout every frame.
-
-Preserve exactly:
-
-* Facial structure
-* Hairstyle
-* Eye shape
-* Skin tone
-* Body proportions
-* Facial hair (if present)
-* Clothing continuity
-* Expressions
-* Accessories
-
-The protagonist must remain perfectly recognizable during every movement, close-up, slow-motion sequence, and camera transition.
-
----
-
-# STYLE
-
-Ultra-photorealistic.
-
-Grounded martial arts.
-
-No supernatural powers.
-
-Authentic fight choreography.
-
-Feature-film quality.
-
-Practical stunt work.
-
-Invisible CGI.
-
-Premium cinematic color grading.
-
-Large-format IMAX cinematography.
-
----
-
-# CAMERA PACKAGE
-
-ARRI ALEXA 65
-
-Panavision Ultra Vista anamorphic lenses
-
-Steadicam
-
-High-speed Phantom Flex
-
-Technocrane
-
-Slow circular dolly
-
-Macro inserts
-
-Natural handheld during impacts
-
----
-
-# MUSIC
-
-The soundtrack begins immediately.
-
-Heavy hard rock guitar riff.
-
-Fast double-kick drums.
-
-Driving bass guitar.
-
-Hybrid orchestral percussion.
-
-Massive cinematic trailer hits.
-
-At the decisive strike, every instrument cuts instantly.
-
-Only breathing and cloth movement remain.
-
-The guitars return with maximum force.
-
----
-
-# SOUND DESIGN
-
-Bare footsteps.
-
-Fabric movement.
-
-Controlled breathing.
-
-Precise punches.
-
-Bone-deep body impacts.
-
-Wood splintering.
-
-Natural room ambience.
-
-Perfect synchronization between every strike and every drum beat.
-
----
-
-# LIGHTING
-
-Morning sunlight through dojo windows.
-
-Warm highlights.
-
-Natural shadows.
-
-Floating dust particles.
-
-High dynamic range.
-
----
-
-# FORMAT
-
-10 seconds
-
-5 cinematic shots.
-
----
-
-## SHOT 1 (0:00–0:02) — THE CHALLENGE
-
-An enormous traditional dojo.
-
-The protagonist stands opposite six elite martial artists.
-
-Nobody speaks.
-
-The hard rock riff begins immediately.
-
----
-
-## SHOT 2 (0:02–0:04) — STILLNESS
-
-Extreme close-up.
-
-The protagonist calmly closes his eyes.
-
-Everyone else prepares to attack.
-
-The drums begin building.
-
----
-
-## SHOT 3 (0:04–0:06) — ONE MOVEMENT
-
-The attackers rush simultaneously.
-
-The protagonist makes one precise movement.
-
-The soundtrack drops to silence.
-
-Only footsteps and breathing remain.
-
----
-
-## SHOT 4 (0:06–0:08) — REVEAL
-
-The attackers freeze.
-
-One after another, they lose balance and collapse.
-
-The protagonist never changes expression.
-
-The guitars explode back in.
-
----
-
-## SHOT 5 (0:08–0:10) — RESPECT
-
-The dojo master, watching from above, slowly bows.
-
-The protagonist returns the bow.
-
-The camera rises through the wooden ceiling into the morning sky.
-
-The final guitar chord sustains.
-
-Cut to black.
-
----
-
-# EMOTIONAL TARGET
-
-The audience should immediately think:
-
-**"Real mastery doesn't look fast... it looks effortless."**
-
----
-
-# TECHNICAL REQUIREMENTS
-
-Feature-film reali
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cinematic Martial Arts Fight Scene">
-
-**[🎬 Watch Video →](https://x.com/vireonixx/status/2075533217193742739)**
-
-**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **Published:** Jul 10, 2026
-
----
-### Macro Cinematic Cockroach Comedy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed multi-stage video prompt for creating a photorealistic comedic scene of cockroaches interacting with a pizza slice, including a 10-second timeline.
-
-#### 📝 Prompt
-
-```
-Subject: A photorealistic, macro-cinematography comedic scene of two cockroaches on a gritty, slightly wet city sidewalk at night, interacting with a discarded slice of pizza.
-
-Camera & Aesthetic: Shot on a Leica SL2 with a 100mm macro lens. Emulate Kodak Portra 400 film stock with organic film grain, rich color contrast, and a shallow depth of field. The lighting is cinematic street lighting, with soft neon reflections bouncing off the greasy pizza cheese and wet concrete.
-
-Audio: Gritty ambient street noise, squishy food sound effects, and a distinct character voiceover at the end.
-
-10 Second Timeline:
-
-0-3s: Extreme macro close-up. Two highly detailed, expressive cockroaches are standing on top of a greasy, oversized slice of pizza. They have their front legs wrapped around a bright yellow, glistening pineapple ring embedded in the cheese. They are straining and pulling backward in unison.
-
-3-5s: The mozzarella cheese stretches dramatically like elastic. With a sudden, visceral snap, the pineapple ring breaks free from the crust.
-
-5-7s: The camera rack focuses as the pineapple ring lands on its edge on the concrete and rolls rapidly away down the textured sidewalk, disappearing into the smooth, out-of-focus background bokeh.
-
-7-10s: Quick cut back to the two cockroaches. They brush off their front legs in a gesture of relief. The camera zooms in slightly on the cockroach on the right as it looks directly at the camera, throwing its front legs up in exasperation, and distinctly shouts with perfect lip-sync/mandible-sync, "That is disgusting!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Macro Cinematic Cockroach Comedy">
-
-**[🎬 Watch Video →](https://x.com/michaelrabone/status/2075490289062400195)**
-
-**Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **Published:** Jul 10, 2026
-
----
-### Photorealistic Horror Film Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A structured 10-second cinematic horror sequence prompt that uses a reference image to create a tension-filled scene in a Victorian house.
-
-#### 📝 Prompt
-
-```
-Create a 10-second ultra-photorealistic cinematic horror sequence inspired by *The Conjuring*, *Smile*, and *Hereditary*.
-
-Use the provided reference image as the protagonist.
-
-## STYLE
-
-Grounded horror.
-Minimal visual effects.
-Natural darkness.
-Practical lighting.
-Slow-building tension.
-No gore.
-
-## FORMAT
-
-10 seconds
-5 shots
-
-### SHOT 1 (0:00–0:02)
-
-The protagonist explores an abandoned Victorian house using only a flashlight.
-
-### SHOT 2 (0:02–0:04)
-
-They take a photo down a dark hallway.
-Nothing unusual is visible.
-
-### SHOT 3 (0:04–0:06)
-
-Looking at the photo, a smiling figure appears at the end of the hallway.
-The real hallway is empty.
-
-### SHOT 4 (0:06–0:08)
-
-They slowly lower the phone and look ahead.
-Still nothing.
-
-### SHOT 5 (0:08–0:10)
-
-They check the screen again.
-The smiling figure is now standing directly behind them in the photo.
-Cut to black before they turn around.
-
-Music
-Low drones.
-Wood creaks.
-One sharp orchestral sting at the final frame.
-
-Emotional Target
-
-*"The camera saw what the eyes couldn't."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Photorealistic Horror Film Sequence">
-
-**[🎬 Watch Video →](https://x.com/vireonixx/status/2075377636420059580)**
-
-**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2075377636420059580) | **Published:** Jul 10, 2026
-
----
-### Cinematic Image-to-Video Push-In
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A sleek motion prompt designed to add subtle cinematic depth and movement to a static vertical image.
-
-#### 📝 Prompt
-
-```
-slow cinematic push-in, soft light movement, subtle background motion, realistic atmosphere, 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075153215952162816/img/SXIdMfPuasbXTp8X.jpg" width="600" alt="Cinematic Image-to-Video Push-In">
-
-**[🎬 Watch Video →](https://x.com/getimg_ai/status/2075303977692836130)**
-
-**Author:** [getimg.ai](https://x.com/getimg_ai) | **Source:** [Link](https://x.com/getimg_ai/status/2075303977692836130) | **Published:** Jul 9, 2026
-
----
-### Sci-Fi Robot Combat Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-end cinematic storyboard for a 10-second sci-fi sequence involving a protagonist and a giant autonomous robot in an abandoned city.
-
-#### 📝 Prompt
-
-```
-Create a 10-second ultra-photorealistic cinematic sci-fi action sequence inspired by *The Creator*, *Oblivion*, *District 9*, and *Elysium*.
-
-Use the **provided male reference image** as the protagonist. Maintain perfect identity, facial consistency, hairstyle, body proportions, clothing continuity, and realistic expressions throughout every shot.
-
-## STYLE
-
-Hollywood blockbuster.
-
-Grounded near-future technology.
-
-Photorealistic.
-
-Large-format IMAX.
-
-Invisible VFX.
-
-Practical explosions.
-
-Industrial realism.
-
-## CAMERA
-
-ARRI ALEXA 65.
-
-Panavision Ultra Vista anamorphic lenses.
-
-Handheld action mixed with stabilized tracking.
-
-Natural motion blur.
-
-## FORMAT
-
-9:16
-
-10 seconds
-
-5 shots.
-
----
-
-### SHOT 1 (0:00–0:02) — COUNTDOWN
-
-A gigantic autonomous combat robot stands in the middle of an abandoned city.
-
-A countdown appears on its damaged chest.
-
-**00:10**
-
-The protagonist slowly approaches.
-
----
-
-### SHOT 2 (0:02–0:04) — DECISION
-
-The robot suddenly powers back on.
-
-Its weapons begin deploying.
-
-The protagonist starts sprinting directly toward it.
-
----
-
-### SHOT 3 (0:04–0:06) — IMPACT
-
-He slides beneath the robot's legs while missiles destroy the street behind him.
-
-Concrete erupts.
-
-Cars flip.
-
-Dust fills the air.
-
----
-
-### SHOT 4 (0:06–0:08) — SHUTDOWN
-
-The protagonist reaches the exposed reactor.
-
-He slams a mechanical shutdown key into the core.
-
-The countdown instantly freezes at **00:01**.
-
----
-
-### SHOT 5 (0:08–0:10) — SILENCE
-
-The robot slowly kneels.
-
-All lights fade.
-
-The city becomes completely silent.
-
-The protagonist walks away without looking back.
-
-**Music:** Industrial bass → hybrid orchestra → complete silence.
-
----
-
-## EMOTIONAL TARGET
-
-"The world was one second away from ending."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075176434931560448/img/r1khnveDSRsyTFKa.jpg" width="600" alt="Sci-Fi Robot Combat Sequence">
-
-**[🎬 Watch Video →](https://x.com/vireonixx/status/2075176503265137135)**
-
-**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2075176503265137135) | **Published:** Jul 9, 2026
-
----
-### Pug Wolf Mirror Reflection
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> This cinematic video prompt creates a symbolic transformation where a cute pug sees a majestic, powerful wolf in its studio mirror reflection.
-
-#### 📝 Prompt
-
-```
-A cute pug sits in a studio looking into a large mirror under dramatic, high-contrast daytime lighting. Inside the mirror reflection, instead of the pug, a fierce and majestic wolf stares back with a powerful, confident expression. The camera slowly zooms in, contrasting the proud pug with its wild, ancient reflection. Humorous yet inspirational mood, cinematic style, hyper-detailed.
-
-10-Second Storyboard Timeline
-
-0-3s | The Setup: A medium shot of an adorable pug sitting proudly in front of a large floor mirror. The lighting is bright and dramatic, like a professional studio. The pug tilts its head, looking curious.
-
-3-7s | The Reveal: The camera slowly pans and tracks forward towards the mirror. As the reflection becomes clear, it smoothly transitions to show a massive, majestic grey wolf staring back with fierce, confident eyes.
-
-7-10s | The Contrast & Climax: A split-screen or over-the-shoulder angle highlighting the contrast: the real-life cute pug looking proud, juxtaposed against the powerful, ancient wolf in the reflection. The cinematic lighting intensifies before fading to black.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075172932792254464/img/-JF8X4hZDCSe2lKd.jpg" width="600" alt="Pug Wolf Mirror Reflection">
-
-**[🎬 Watch Video →](https://x.com/michaelrabone/status/2075173227651887525)**
-
-**Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2075173227651887525) | **Published:** Jul 9, 2026
-
----
-### Animated Travel Poster Postcard
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A short and effective prompt to animate a static travel poster into a moving postcard with drifting clouds and ocean shimmers.
-
-#### 📝 Prompt
-
-```
-turn this travel poster into a moving postcard: clouds drift, gulls cross frame, ocean shimmer, relaxed camera sway, 10s
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074873385452978176/img/cndIiE_44XHPMYim.jpg" width="600" alt="Animated Travel Poster Postcard">
-
-**[🎬 Watch Video →](https://x.com/getimg_ai/status/2074948887698096374)**
-
-**Author:** [getimg.ai](https://x.com/getimg_ai) | **Source:** [Link](https://x.com/getimg_ai/status/2074948887698096374) | **Published:** Jul 8, 2026
-
----
-### Cowboy and Dinosaurs Cinematic Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive cinematic video prompt for Gemini Omni featuring a cowboy interacting with various dinosaurs across different times of day.
-
-#### 📝 Prompt
-
-```
-Cinematic tracking shot, sunrise over a majestic red rock canyon in the Wild West. A cowboy in traditional frontier clothing is riding on the back of a large Pterosaur, soaring smoothly through the air over the rugged terrain. Photorealistic, 4k, volumetric lighting.
-
-Wide establishing shot at dusk. A cowboy sits resting by a warm campfire in a grassy plain. In the immediate background, a massive, realistic Triceratops harnessed to a wooden wagon rests peacefully. Soft, cinematic twilight lighting.
-
-Low angle tracking shot in a dusty desert during the day. A colossal Brachiosaurus outfitted with a riding saddle and cargo walks majestically across the screen, surrounded by a bustling herd of smaller dinosaurs and cowboys riding them. Lens flares and atmospheric dust.
-
-Dramatic silhouette shot at night. A cowboy stands in the center aiming a revolver, flanked by two aggressive, feathered raptors. The scene is brilliantly backlit by a massive, roaring fire from a burning structure behind them. High contrast, action-oriented.
-
-Epic wide silhouette shot during a golden hour sunset. A cowboy rides atop a massive Tyrannosaurus Rex that is walking slowly across the flat desert plain. The massive sun sits low on the horizon, creating a striking and beautiful final image.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074810577088557056/img/WEj2e5ODrGlSwDyN.jpg" width="600" alt="Cowboy and Dinosaurs Cinematic Sequence">
-
-**[🎬 Watch Video →](https://x.com/michaelrabone/status/2074810751898841468)**
-
-**Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2074810751898841468) | **Published:** Jul 8, 2026
-
----
-### Pastel Ink Fantasy Couple Dance MV
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A comprehensive prompt for generating a high-quality stylized music video featuring two characters with distinct VFX, pastel ink aesthetics, and synchronized hand-drawn effects.
-
-#### 📝 Prompt
-
-```
-Use 2 reference images. Treat image1 as Person A and image2 as Person B. Represent Person A and Person B as characters appearing in a live-action music video (MV) while maintaining the facial features, hairstyle, body type, expression, costume impression, atmosphere, and character identity from the reference images. Do not mix the two people. Do not swap faces, hairstyles, costumes, physiques, vibes, VFX, or character traits. Maintain the individual personality of each reference image and depict them clearly as separate individuals. Integrate characteristic decorations or silhouettes from the reference images naturally as fantasy costumes for a live-action MV. Show realistic textures, hair swaying, fabric movement, accessory reflections, skin texture, and light and shadow. The overall style should be a cute, elegant, and transparent live-action fantasy MV. The background is not a real-world location, but a 'Pastel Ink Dream Stage' for a live-action MV. Arrange a soft white studio space with pale ink, watercolor light, translucent glass, swaying silk fabric, transparent rings, a faintly reflective floor, floating paper fragments, soap-bubble-like circles, and stardust particles. Focus on soft pastel colors such as milky white, baby blue, lavender, pale pink, cream yellow, mint green, and thin cyan. Colors should not emit strong light but appear to bleed faintly. The background is not static from the start; synchronized with 118 BPM, pale ink clouds, watercolor light, transparent rings, glass reflections, fabric, and light particles slowly expand, flow, sway, and melt. Add both cute ink-style VFX and delicate hand-drawn effects. Ink is presented as transparent watercolor, pale brush marks, milky splashes, small ink grains, and blurs spreading in the air. Hand-drawn effects appear momentarily as thin white lines, pale pastel outlines, small stars, thin lightning, hand-drawn speed lines, wavy lines, and sparkling trails. Shake the lines slightly to retain a hand-drawn warmth. Person A's VFX should be sharp and transparent, with thin lines, transparent rings, liquid glass ripples, and sharp hand-drawn trails reacting to the shoulders, wrists, feet, and turns. Person B's VFX should be soft and sweet, with pale ink blurs, stardust, small light flowers, soft ribbon-like brushes, and hand-drawn sparkles reacting to fingertips, hair, costumes, and turns. At the moment they approach, Person A's ring VFX and Person B's stardust VFX momentarily overlap as pale ripples of light before separating immediately. VFX must not hide faces, eyes, body lines, limbs, costume details, or dancing. Costumes are glamorously redesigned for a live-action MV while keeping the reference image worldview, adding glossy materials, layers, short jackets, swaying fabric, chains, belts, ribbons, accessories, boots, gloves, metallic parts, transparency, and accent colors. Person A and Person B show a sense of being a couple, but their costume and VFX personalities are clearly distinguished. Hair, fabric, ribbons, accessories, and characteristic decorations sway naturally with the dance. Expressions are cute and poised, showing a couple-like distance. When one looks at the camera, the other looks at the partner or slightly away; they do not make the same expression simultaneously. The overall impression is a live-action characterization of image1 and image2 in a pale pastel ink world couple dance MV. Person A is cool and sharp; Person B is soft and glamorous. The background is cute but not cheap-looking, moving beautifully with transparent watercolor ink and hand-drawn VFX. Prioritize faces, hairstyles, body types, expressions, and silhouettes. No text overlays, subtitles, logos, or readable characters. No graffiti, spray art, strong neon, cyber-style, or normal landscape backgrounds. No duplication of people, no new people, no perfect synchronization, no symmetrical copying, no standing still, and no just walking. Use one or more reference images. Treat all persons/characters in the reference images as protagonists. If there is 1 image, feature 1 person; if 2 images, 2 people; if 3 images, 3 people, making them all appear simultaneously in the same video. 15 seconds, 60fps. A high-quality dance video in the style of an idol concept MV. Ensure a tempo suitable for a short MV, cute choreography, and synchronized hand-drawn 2D effects. Describe smooth movements for hair, clothes, accessories, hands, steps, turns, gaze, and effects. Place everyone in the same background, shooting space, and MV scene at once. Do not change the background for each reference image. Do not split into different scenes per person. Do not swap characters mid-way. Do not introduce them one by one. For multiple reference images, treat each as an independent person. Do not mix faces, hairstyles, hair colors, builds, costumes, accessories, genders, age ranges, or vibes. Do not make them a pair with the same face, hair, or outfit. If using male and female references, maintain them clearly as male and female. Prioritize retaining the characterization from the reference images, including texture, art style, atmosphere, and personality. Even if textures differ between references, keep them individual for each character. Do not force a uniform art style on everyone. If full bodies or costumes are not visible, naturally complement them based on colors, materials, silhouettes, and character traits from each image. Complementary parts must follow the same direction as their respective reference image. Do not borrow features from other characters. Fix the background as a single common MV shooting space: either an indoor studio, a room by a window, or a simple shooting space. Use soft natural light and an organized background where everyone looks like a lead. Do not change the location per shot; only change camera angles within the same space. Analyze commonalities across the reference images to create a single idol concept MV space, adjusting for atmosphere (bright, pale, calm, humid, cool, cute, etc.). The music is a Japanese song; do not use real existing songs. The video concept is a short concept MV where all characters dance together cutely and impressively in the same space. Priority: everyone exists simultaneously, everyone looks cute, the MV is memorable, and dance integrates with hand-drawn 2D effects. Use side-by-side, triangular, diagonal, or front-to-back arrangements so everyone is visible. Everyone dances at once; no solo-only parts, standing still, or separate-location direction. Do not use template 'cuteness'; analyze the references to create a cohesive idol concept cuteness. Bright characters: bouncy cuteness. Calm characters: elegant cuteness. Cool characters: shy or poised cuteness. Ephemeral characters: soft cuteness. Street-style characters: rough and playful cuteness. Choreography: solo dance if 1 person, group dance if 2+. Include synchronized moments and moments showing individuality. Use hands, shoulders, neck, waist, feet, gaze, turns, and poses naturally. Movements should be cute, easy to mimic, and memorable. No overly childish, overly sexy, excessively intense, unnatural jumping, or random movements. Hand-drawn 2D effects are auto-generated based on character analysis. Ensure shapes, lines, textures, colors, density, and timing suit everyone. Unify the screen with one MV design while giving characters slight variations in color/line style as needed. Effects are hand-drawn motion graphics composited over the video, resembling rough, cute 2D animations like crayon, pencil, oil pastel, or pale ink. Sync them with hands, faces, feet, body movements, turns, gaze, and poses. Balance them across the screen without favoring one person. Do not hide faces or bodies too much. Configure as if shot with 5 cameras, switching every 2 seconds: Front, Top, Left, Right, Back. Maintain the same background space, only changing angles. Prioritize compositions where everyone is visible, including full-body or knee-up group shots. No close-ups that cut people out. Do not fix the camera completely; shake it lightly to the beat (small bounces, punch-ins, slight sways). Do not use messy handheld shaking. 0.0-2.0s: Front camera. Everyone appears in the same background. Full-body or knee-up. Arrange side-by-side or in formation. Everyone rhythmically performs a cute intro pose and small steps fitting their personality. Hand-drawn 2D effects matching the atmosphere appear near hands and faces. 2.0-4.0s: Top camera (overhead). Everyone enters the frame and acknowledges the camera. Coordinate facial gestures and hand accents while maintaining individual character traits. 4.0-6.0s: Left camera. Short choreography using body orientation, waist, shoulders, and hands. Keep knee-up to full-body distance. Hand-drawn effects flow across everyone following movement trails. 6.0-8.0s: Right camera. Everyone faces the opposite way while acknowledging the camera. Cute beat-synced choreography with shoulders, hands, and feet. Show clear steps with a natural composition. Effects derived from reference colors/shapes appear at shoulders and feet. 8.0-10.0s: Back camera. Hair and costumes sway softly. Natural silhouette composition. Everyone looks back over their shoulder at the camera, synchronized or slightly staggered. Includes turns and hand poses with effect trails. 10.0-12.0s: Front camera (Climax). Knee-up to full-body. Memorable group choreography using full body. Increase effect density. Spread shapes/lines across the screen. Add short camera shakes on 'hits'. 12.0-14.0s: Top camera. Everyone looks up with cute facial/hand gestures. Hand-drawn effects spread softly from hands. Maintain all facial/hair consistency. 14.0-15.0s: Ending scene. Front-facing or slight diagonal. Final group pose flowing from the dance. Not necessarily a face close-up; choose the most attractive group composition (full-body to bust-up). No sudden zooms, jump cuts, or abrupt face close-ups at the end. Use a smooth camera approach or slight stop. Emphasize the pose through body stillness, hand shapes, gaze, and lingering movement of hair/fabric and a short burst of 2D effects. Constraints: No characters other than the protagonists. Do not merge multiple references into one person. Do not mix male and female faces. Do not swap hairstyles/costumes. No twin-ification. Do not share character traits just because they share a background. No costumes contradicting references. No poses/expressions/icons/colors inconsistent with characters. Do not use the same template for every effect/gesture. Ensure dance and effects are perfectly synced. Effects should be part of the choreography, not too weak. No explosions, fire, smoke, excessive glitch, or flashy magic. No text, subtitles, logos, or watermarks. Render the entire 15 seconds smoothly at 60fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074800449652424704/img/XC2gobNaI_RucnzU.jpg" width="600" alt="Pastel Ink Fantasy Couple Dance MV">
-
-**[🎬 Watch Video →](https://x.com/sailorv321/status/2074805393294004436)**
-
-**Author:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Source:** [Link](https://x.com/sailorv321/status/2074805393294004436) | **Published:** Jul 8, 2026
-
----
-### Anime Idli Cooking Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed step-by-step anime montage prompt for preparing traditional South Indian idlis, featuring POV shots and close-up food photography.
-
-#### 📝 Prompt
-
-```
-A fast-paced, silent 10-second anime cooking montage with NO dialogue. 
-Sequence: POV opening a container with rice and urad dal → grinding into smooth fermented batter → greasing idli molds → pouring batter into the molds → placing molds in a traditional steamer → steaming until perfectly fluffy → beautiful South Indian girl removing the hot idlis → macro shot of soft, spongy, steaming idlis → overhead flat-lay of idlis served with sambar and coconut chutney → close-up of the girl silently taking a delicious bite → final aesthetic shot of the steaming idli platter on a sunlit traditional kitchen counter.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074761774155616256/img/G_dRnuUbfQkF44fs.jpg" width="600" alt="Anime Idli Cooking Sequence">
-
-**[🎬 Watch Video →](https://x.com/snskritinaruka/status/2074761846444503180)**
-
-**Author:** [Sanskriti Naruka](https://x.com/snskritinaruka) | **Source:** [Link](https://x.com/snskritinaruka/status/2074761846444503180) | **Published:** Jul 8, 2026
-
----
-### Alpine Cycling Cinematic Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed cinematic prompt for a high-speed cycling descent on an alpine road, maintaining facial consistency from a reference image.
-
-#### 📝 Prompt
-
-```
-Use the attached female reference image as the ONLY identity reference for the main character.
-
-Maintain complete facial consistency throughout every frame.
-
-Duration: 10 seconds.
-
-The first frame opens with the character already descending an alpine mountain road on a premium carbon road bicycle at high speed. She leans confidently into sweeping corners while morning fog slowly clears below. Sunlight reaches the mountain peaks as she exits a final curve overlooking an endless valley.
-
-IMAX 65mm realism. Premium HDR grading. Cinematic aerial photography.
-
-Camera:
-FPV drone chase already in motion → side tracking → wheel-mounted camera → massive aerial reveal.
-
-Background Music:
-Uplifting cinematic orchestra, rhythmic percussion, acoustic guitar, emotional strings.
-
-Environmental Sound:
-Freehub clicking, gear shifts, tire noise, mountain wind, birds.
-
-No dialogue.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074666143852445696/img/oikKJLTsOxHizW6r.jpg" width="600" alt="Alpine Cycling Cinematic Sequence">
-
-**[🎬 Watch Video →](https://x.com/vireonixx/status/2074666384051904670)**
-
-**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2074666384051904670) | **Published:** Jul 8, 2026
-
----
-### Surreal Blinking Eye Landscape
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed 10-second video generation prompt for a surreal landscape with a giant eye, featuring specific movement instructions and shot sequences.
-
-#### 📝 Prompt
-
-```
-Photorealistic surreal landscape. A giant, highly detailed human eye with a blue iris and bloodshot sclera blinks slowly in the center. It is surrounded by pulsating, red, fleshy, star-shaped structures, each containing a blinking blue eye. Tiny, realistic human figures in suits walk among the fleshy terrain, examining the eyes.
-
-Timeline (10 seconds):
-
-0-3s: Extreme close-up of the giant central eye blinking slowly. Focus on photorealistic iris textures and blood vessels.
-
-3-6s: Camera pulls back slowly. The surrounding red, fleshy star-structures begin to pulsate. The smaller eyes dart around frantically.
-
-6-10s: Wide shot establishing the scale. Tiny human figures walk across the fleshy terrain, examining the structures as all the eyes focus on the camera.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074493433201221632/img/OO2qM-98wUw2rXi4.jpg" width="600" alt="Surreal Blinking Eye Landscape">
-
-**[🎬 Watch Video →](https://x.com/michaelrabone/status/2074493655843258788)**
-
-**Author:** [Michael Rabone](https://x.com/michaelrabone) | **Source:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Published:** Jul 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
 
 <div align="center">
 
-### 🎯 96 more prompts not shown here
+### 🎯 100 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3135,6 +2816,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T02:42:33.193Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-29T10:48:25.977Z</sub>
 
 </div>

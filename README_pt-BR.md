@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **196** |
+| 📝 Total de prompts | **208** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-08-29** |
 
@@ -56,6 +56,322 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Roteiro Comercial do Robô Cromado
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um roteiro complexo de várias cenas para um personagem robô no estilo dos anos 90, incluindo cartões de título, restrições de movimento e diálogos sincronizados.
+
+#### 📝 Prompt
+
+```
+Durante todo o comercial: um robô de traje prático dos anos 90, cromado e de borracha, com a placa no peito escrito "OMNI 1.1",
+O mesmo robô. Em cada cena. Não mude isso.
+
+[0-1s] Cartão de título ousado e urgente:
+"ACABOU DE CHEGAR DO GOOGLE!"
+
+[1-5s] O robô permanece imóvel contra um fundo escuro e limpo. 
+Cartões de título cromados premium aparecem um de cada vez:
+
+"ATÉ 4K."
+"EXTENDA PARA 10 SEGUNDOS."
+"2 FOTOS → 1 VÍDEO."
+"3 CLIPES. MANTÉM A CONSISTÊNCIA."
+
+O mesmo robô. Ele não se move. Ele não muda.
+
+[5-10s] CORTE PARA: Dojo estilo Matrix. O mesmo robô. Sem mudança de figurino.
+Uma criança está parada à frente dele, séria.
+
+Criança: "Você sabe kung fu?"
+Omni desfere um soco. Omni puxa a mão de volta.
+Omni diz "Ai."
+Pausa.
+Omni diz "Estou trabalhando nisso, garoto."
+
+Cartão final: "GEMINI OMNI 1.1"
+
+Áudio: vinheta de jornal na abertura. Silêncio durante os cartões de recursos.
+Crescendo de música estilo Matrix no corte para o dojo. Soco. Silêncio. "Ai."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093563402916667392/img/JzOGeTSe5sUvg5s1.jpg" width="600" alt="Roteiro Comercial do Robô Cromado">
+
+**[🎬 Assistir vídeo →](https://x.com/BrentLynch/status/2093563415730258318)**
+
+**Autor:** [Brent Lynch](https://x.com/BrentLynch) | **Fonte:** [Link](https://x.com/BrentLynch/status/2093563415730258318) | **Publicado:** Aug 29, 2026
+
+---
+### Comercial de Fábrica de Chocolate em Miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de 10 segundos altamente detalhado para uma fábrica de chocolate em miniatura fotorrealista, apresentando trabalhadores minúsculos e produção passo a passo.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo cinematográfico ultrarrealista de 10 segundos de uma fábrica de chocolate em miniatura. Mostre uma pequena e movimentada instalação de produção de chocolate operada por adoráveis trabalhadores em miniatura vestindo uniformes brancos profissionais, redes de cabelo e aventais minúsculos.
+
+0–2 seg: Trabalhadores em miniatura despejam cuidadosamente chocolate derretido rico de um grande tanque de aço inoxidável em pequenas formas em uma esteira rolante, com vapor realista e textura de chocolate brilhante.
+
+2–4 seg: As formas de chocolate passam por um túnel de resfriamento em miniatura. Os trabalhadores inspecionam cada peça com ferramentas minúsculas e lupas.
+
+4–6 seg: Os trabalhadores decoram os chocolates finalizados com nozes, linhas de caramelo, calda de chocolate e confeitos coloridos minúsculos usando máquinas em miniatura e ferramentas de precisão.
+
+6–8 seg: Uma esteira em movimento rápido leva chocolates perfeitamente moldados em direção à estação de embalagem. Trabalhadores minúsculos colocam cada chocolate em embalagens premium elegantes e caixas pequenas.
+
+8–10 seg: Tomada final (hero shot) — dezenas de chocolates lindamente embalados se movem ao longo da esteira enquanto os trabalhadores em miniatura inspecionam orgulhosamente a linha de produção. A câmera se aproxima lentamente de uma caixa de chocolate perfeitamente finalizada.
+
+Estilo: mundo em miniatura fotorrealista, fotografia macro cinematográfica, derretimento e despejo de chocolate realistas, maquinário minúsculo altamente detalhado, movimentos naturais dos trabalhadores, profundidade de campo rasa, iluminação quente de fábrica de chocolate de luxo, reflexos realistas, vapor sutil, movimento de câmera suave, atmosfera de produção satisfatória estilo ASMR, qualidade de anúncio comercial premium, 4K, texturas fisicamente precisas, sem aparência de desenho animado.
+
+Câmera: closes macro, planos de acompanhamento suaves, perspectivas minúsculas de ângulo baixo, transições perfeitas, profundidade de campo cinematográfica.
+
+Importante: Mantenha os mesmos trabalhadores em miniatura, layout da fábrica, aparência do chocolate e estilo visual durante toda a sequência de 10 segundos. Sem texto, sem logotipos, sem mãos distorcidas, sem membros extras, sem cintilação, sem cortes abruptos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093541345403224065/img/MdHVgd5_LknOet9K.jpg" width="600" alt="Comercial de Fábrica de Chocolate em Miniatura">
+
+**[🎬 Assistir vídeo →](https://x.com/AiwithBloodline/status/2093541403796353389)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2093541403796353389) | **Publicado:** Aug 29, 2026
+
+---
+### Confronto do Ninja no Deserto ao Pôr do Sol
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um confronto cinematográfico de 10 segundos no deserto entre um ninja mascarado e três guerreiros ao pôr do sol, utilizando imagens de referência para o design dos personagens.
+
+#### 📝 Prompt
+
+```
+Use as imagens enviadas como referências visuais para os personagens. Crie uma cena cinematográfica de live-action de 10 segundos em um deserto ao pôr do sol. Um ninja mascarado está sozinho, enfrentando três guerreiros sombrios a alguns metros de distância. Use a Imagem 2 como referência visual para o ninja mascarado. Use a Imagem 1 como inspiração para os três guerreiros oponentes, tornando-os três personagens distintos da mesma facção. Mantenha todos imóveis e focados uns nos outros. O vento move a poeira suavemente pelo deserto. Movimento sutil nos tecidos. Forte tensão cinematográfica. O guerreiro líder olha para o ninja e diz: “Você veio sozinho.” O ninja olha de volta calmamente e responde: “Eu vim por você.” Mantenha o silêncio após a resposta por um momento. Sem combate. Sem ataques. Sem movimento de espadas. Sem contato físico. Sem ferimentos. Sem violência. Realismo cinematográfico de live-action, linguagem corporal natural, sincronia labial realista, movimento sutil de câmera, luz dramática de pôr do sol, atmosfera realista de deserto.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093385776910221312/img/UaTv2dFJc0O_n79Y.jpg" width="600" alt="Confronto do Ninja no Deserto ao Pôr do Sol">
+
+**[🎬 Assistir vídeo →](https://x.com/shikoba_86/status/2093446020499943538)**
+
+**Autor:** [Marco "Shikoba" Riccetti](https://x.com/shikoba_86) | **Fonte:** [Link](https://x.com/shikoba_86/status/2093446020499943538) | **Publicado:** Aug 28, 2026
+
+---
+### Dança em Plano-Sequência de MV de K-Pop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de câmera de alta velocidade para criar uma tomada de dança contínua no estilo de videoclipe de K-pop, focando no carisma do dançarino.
+
+#### 📝 Prompt
+
+```
+[# Referências <IMAGE_REF_0>@Image1 <IMAGE_REF_1>@Image2 <IMAGE_REF_2>@Image3] Estritamente uma tomada única, contínua e ininterrupta (zero cortes). Movimento de câmera de alta velocidade estilo MV de K-pop, centralizado na parte superior do corpo e no carisma facial do dançarino, com enquadramento dinâmico de corpo inteiro.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093441543726133248/img/SbUC1IZDPZuNWs_n.jpg" width="600" alt="Dança em Plano-Sequência de MV de K-Pop">
+
+**[🎬 Assistir vídeo →](https://x.com/Tomw852/status/2093441641571131816)**
+
+**Autor:** [Tom𝕎](https://x.com/Tomw852) | **Fonte:** [Link](https://x.com/Tomw852/status/2093441641571131816) | **Publicado:** Aug 28, 2026
+
+---
+### Batalha de Fantasia: Mago vs. Demônio de Fogo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo de fantasia cinematográfica épica apresentando um mago enfrentando um demônio de fogo gigante em uma ponte de pedra em ruínas com iluminação dramática em 8K.
+
+#### 📝 Prompt
+
+```
+Vídeo de fantasia cinematográfica épica de um poderoso mago cinzento em pé sobre uma ponte de pedra em ruínas, enfrentando um gigantesco demônio de fogo, erguendo seu cajado e declarando “Você não passará!”, iluminação dramática, ângulos de câmera amplos, fotorrealista, 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093419822549757952/img/L5SAmpbdC8ruEuPY.jpg" width="600" alt="Batalha de Fantasia: Mago vs. Demônio de Fogo">
+
+**[🎬 Assistir vídeo →](https://x.com/Conor_D_Dart/status/2093419950522118605)**
+
+**Autor:** [Conor Dart](https://x.com/Conor_D_Dart) | **Fonte:** [Link](https://x.com/Conor_D_Dart/status/2093419950522118605) | **Publicado:** Aug 28, 2026
+
+---
+### Treino de Escalada Cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico de alta qualidade para vídeos no estilo de fotografia esportiva, apresentando um escalador em uma academia moderna com iluminação dramática.
+
+#### 📝 Prompt
+
+```
+Vídeo cinematográfico belíssimo de um escalador treinando em uma academia de escalada moderna, fotografia esportiva profissional, ângulos de câmera dinâmicos, movimento realista, iluminação dramática, 8K, estética viral do Twitter.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093387864948011008/img/iNmD5O3-vLLPrTeE.jpg" width="600" alt="Treino de Escalada Cinematográfico">
+
+**[🎬 Assistir vídeo →](https://x.com/Conor_D_Dart/status/2093388008061804767)**
+
+**Autor:** [Conor Dart](https://x.com/Conor_D_Dart) | **Fonte:** [Link](https://x.com/Conor_D_Dart/status/2093388008061804767) | **Publicado:** Aug 28, 2026
+
+---
+### Storyboard para Geleia de Morango de Luxo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de storyboard abrangente para um comercial de geleia de morango gourmet, apresentando texturas macro, colheradas em câmera lenta e estética de café da manhã premium.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Storyboard de Comercial de Produto para Geleia de Morango Premium
+
+FORMATO:
+• Storyboard premium de página única
+• Proporção 3:4 (Retrato)
+• Campanha de alimentos para café da manhã de luxo
+• 8 cenas cinematográficas focadas no produto
+• O produto permanece como o protagonista visual
+• Apresentação publicitária de alto padrão
+
+CABEÇALHO:
+• Tipografia serifada elegante
+• Cartões de informação:
+  - Duração: 20 segundos
+  - Estilo: Comercial de café da manhã gourmet
+  - Produto: Geleia de Morango
+  - Áudio: ASMR suave de alimentos
+• Seção "Por que este estilo funciona"
+• Estética em tons de vermelho morango, creme e rosa suave
+• Detalhes decorativos minimalistas inspirados em frutas
+
+STORYBOARD:
+1. Pote de geleia premium cercado por morangos frescos
+2. Tampa do pote abrindo em um plano macro extremo
+3. Colher mergulhando lentamente na geleia de morango espessa
+4. Geleia brilhante esticando-se da colher em câmera lenta
+5. Pedaços de morango fresco caindo na geleia
+6. Geleia sendo espalhada suavemente sobre pão torrado quente
+7. Macro extremo mostrando sementes de morango e textura rica
+8. Pote protagonista final com torrada, morangos e respingo de geleia brilhante
+
+CADA PAINEL:
+• Número da cena
+• Selo de duração
+• Direção de câmera
+• Visual
+• Ação
+• Detalhe do produto
+
+CÂMERA:
+Macro extremo, espalhamento em câmera lenta, composição de alimentos vista de cima, movimento de câmera suave (push-in), profundidade de campo rasa, packshot premium.
+
+ESTILO:
+Fotografia de alimentos ultrarrealista, textura de fruta brilhante, consistência de geleia realista, morangos frescos, iluminação natural quente, embalagem de vidro premium, publicidade de café da manhã de luxo, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787993736055_vz04eo_HQ0vDf8akAAXOp1.jpg" width="600" alt="Storyboard para Geleia de Morango de Luxo">
+
+**[🎬 Assistir vídeo →](https://x.com/Strength04_X/status/2093381158356815935)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2093381158356815935) | **Publicado:** Aug 28, 2026
+
+---
+### Streamer jogando jogo de zumbi com combate de seringa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo que retrata uma streamer jogando um jogo de terror onde uma personagem enfermeira luta contra zumbis usando uma seringa.
+
+#### 📝 Prompt
+
+```
+Uma streamer jogando um jogo onde a personagem principal é uma enfermeira lutando contra zumbis com uma seringa
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093361666260160512/img/DZmjmoHLaqVaRj87.jpg" width="600" alt="Streamer jogando jogo de zumbi com combate de seringa">
+
+**[🎬 Assistir vídeo →](https://x.com/DrstaOne/status/2093364188781703596)**
+
+**Autor:** [DrstaOne](https://x.com/DrstaOne) | **Fonte:** [Link](https://x.com/DrstaOne/status/2093364188781703596) | **Publicado:** Aug 28, 2026
+
+---
+### Mountain Bike em POV de Primeira Pessoa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de descida de mountain bike em alta velocidade projetado para câmeras de ação, testando física, terreno rochoso e realismo ambiental em vários modelos.
+
+#### 📝 Prompt
+
+```
+Passeio de mountain bike em POV de primeira pessoa ultrarrealista descendo uma trilha rochosa íngreme no alto das montanhas. O ciclista corre ladeira abaixo através de curvas fechadas, rochas e pequenos saltos, com enormes penhascos e paisagens montanhosas ao redor. Apenas POV de primeira pessoa estrito, alta velocidade, movimento de câmera e física realista, filmagem real de câmera de ação.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093328534945120256/img/eqNWd7v_zlAgy7uM.jpg" width="600" alt="Mountain Bike em POV de Primeira Pessoa">
+
+**[🎬 Assistir vídeo →](https://x.com/YourAlphaMom/status/2093333326635405357)**
+
+**Autor:** [Alpha Mom](https://x.com/YourAlphaMom) | **Fonte:** [Link](https://x.com/YourAlphaMom/status/2093333326635405357) | **Publicado:** Aug 28, 2026
+
+---
+### Alpinista no Monte Everest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico para gerar filmagens de alta qualidade de um alpinista no Monte Everest com estética de fotografia profissional em 8k.
+
+#### 📝 Prompt
+
+```
+vídeo lindo de um alpinista escalando o monte everest, fotografia profissional, 8k, em alta no Twitter
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093234584049647617/img/vP2tzlpiCT3zr7sd.jpg" width="600" alt="Alpinista no Monte Everest">
+
+**[🎬 Assistir vídeo →](https://x.com/Conor_D_Dart/status/2093234779890102730)**
+
+**Autor:** [Conor Dart](https://x.com/Conor_D_Dart) | **Fonte:** [Link](https://x.com/Conor_D_Dart/status/2093234779890102730) | **Publicado:** Aug 28, 2026
+
+---
+### Comentário de streamer feminina em jogo de zumbi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico para gerar uma cena de uma streamer feminina jogando e comentando um jogo de zumbis com uma personagem enfermeira.
+
+#### 📝 Prompt
+
+```
+Uma streamer feminina comentando e jogando um jogo onde a personagem principal é uma enfermeira lutando contra zumbis com uma seringa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093215829534146560/img/Tl3KL8c5NyN2Ivev.jpg" width="600" alt="Comentário de streamer feminina em jogo de zumbi">
+
+**[🎬 Assistir vídeo →](https://x.com/rovvmut_/status/2093215928863650296)**
+
+**Autor:** [Heisenberg](https://x.com/rovvmut_) | **Fonte:** [Link](https://x.com/rovvmut_/status/2093215928863650296) | **Publicado:** Aug 28, 2026
+
+---
+### Vídeo macro de unboxing de drone em miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo macro cinematográfico que mostra o unboxing e a montagem realistas de um pequeno drone dobrável em uma mesa de madeira.
+
+#### 📝 Prompt
+
+```
+Crie um vídeo macro cinematográfico altamente realista de um pequeno drone estilo DJI Mini 5 Pro sendo retirado da caixa e montado em uma mesa de madeira. Comece com uma pequena caixa branca de varejo do drone, depois mostre mãos humanas abrindo cuidadosamente a embalagem e retirando o drone dobrável em miniatura. Capture closes detalhados do drone sendo desdobrado e seus componentes sendo posicionados sobre a caixa. Termine com um plano macro extremo do drone cinza compacto enquanto as luzes indicadoras da bateria traseira brilham em verde. Iluminação interna quente, profundidade de campo rasa, texturas realistas de pele e plástico, movimentos suaves das mãos, estética comercial de produto premium, movimento de câmera cinematográfico, foco nítido no drone, sombras naturais, fotorrealismo 4K, composição vertical 9:16, sem texto ou marca d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093197036824965121/img/tqzfGB18jYkI11KI.jpg" width="600" alt="Vídeo macro de unboxing de drone em miniatura">
+
+**[🎬 Assistir vídeo →](https://x.com/AiwithBloodline/status/2093197063421108689)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2093197063421108689) | **Publicado:** Aug 28, 2026
+
+---
 ### Coreografia de Dança para Redes Sociais em Estúdio
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2362,649 +2678,13 @@ a câmera orbita lentamente o produto, reflexos se movem pela superfície, part�
 **Autor:** [getimg.ai](https://x.com/getimg_ai) | **Fonte:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **Publicado:** Jul 10, 2026
 
 ---
-### Cena de Luta de Artes Marciais Cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo abrangente para uma sequência de artes marciais de 10 segundos, apresentando detalhes técnicos de câmera, design de áudio e preservação da identidade do personagem.
-
-#### 📝 Prompt
-
-```
-Crie uma sequência de artes marciais cinematográfica ultra-fotorrealista de 10 segundos, inspirada no cinema de ação clássico de Hong Kong, na coreografia de dublês moderna e na produção cinematográfica premium de Hollywood.
-
-Use a imagem de referência masculina fornecida como o protagonista.
-
-Mantenha a consistência absoluta da identidade em cada quadro.
-
-Preserve exatamente:
-
-* Estrutura facial
-* Penteado
-* Formato dos olhos
-* Tom de pele
-* Proporções corporais
-* Pelos faciais (se presentes)
-* Continuidade do vestuário
-* Expressões
-* Acessórios
-
-O protagonista deve permanecer perfeitamente reconhecível durante cada movimento, close-up, sequência em câmera lenta e transição de câmera.
-
----
-
-# ESTILO
-
-Ultra-fotorrealista.
-
-Artes marciais fundamentadas.
-
-Sem poderes sobrenaturais.
-
-Coreografia de luta autêntica.
-
-Qualidade de longa-metragem.
-
-Trabalho prático de dublês.
-
-CGI invisível.
-
-Color grading cinematográfico premium.
-
-Cinematografia IMAX de grande formato.
-
----
-
-# EQUIPAMENTO DE CÂMERA
-
-ARRI ALEXA 65
-
-Lentes anamórficas Panavision Ultra Vista
-
-Steadicam
-
-Phantom Flex de alta velocidade
-
-Technocrane
-
-Dolly circular lento
-
-Inserções macro
-
-Câmera na mão natural durante impactos
-
----
-
-# MÚSICA
-
-A trilha sonora começa imediatamente.
-
-Riff de guitarra de hard rock pesado.
-
-Bateria com bumbo duplo rápido.
-
-Baixo marcante.
-
-Percussão orquestral híbrida.
-
-Impactos massivos de trailer cinematográfico.
-
-No golpe decisivo, todos os instrumentos param instantaneamente.
-
-Apenas a respiração e o movimento do tecido permanecem.
-
-As guitarras retornam com força máxima.
-
----
-
-# DESIGN DE SOM
-
-Passos descalços.
-
-Movimento de tecido.
-
-Respiração controlada.
-
-Socos precisos.
-
-Impactos corporais profundos.
-
-Madeira estilhaçando.
-
-Ambiente natural da sala.
-
-Sincronização perfeita entre cada golpe e cada batida da bateria.
-
----
-
-# ILUMINAÇÃO
-
-Luz solar da manhã através das janelas do dojo.
-
-Destaques quentes.
-
-Sombras naturais.
-
-Partículas de poeira flutuantes.
-
-Alta faixa dinâmica (HDR).
-
----
-
-# FORMATO
-
-10 segundos
-
-5 planos cinematográficos.
-
----
-
-## PLANO 1 (0:00–0:02) — O DESAFIO
-
-Um dojo tradicional enorme.
-
-O protagonista está em frente a seis artistas marciais de elite.
-
-Ninguém fala.
-
-O riff de hard rock começa imediatamente.
-
----
-
-## PLANO 2 (0:02–0:04) — IMOBILIDADE
-
-Close-up extremo.
-
-O protagonista fecha os olhos calmamente.
-
-Todos os outros se preparam para atacar.
-
-A bateria começa a crescer.
-
----
-
-## PLANO 3 (0:04–0:06) — UM MOVIMENTO
-
-Os atacantes avançam simultaneamente.
-
-O protagonista faz um movimento preciso.
-
-A trilha sonora cai em silêncio.
-
-Apenas passos e respiração permanecem.
-
----
-
-## PLANO 4 (0:06–0:08) — REVELAÇÃO
-
-Os atacantes congelam.
-
-Um após o outro, eles perdem o equilíbrio e caem.
-
-O protagonista nunca muda a expressão.
-
-As guitarras explodem de volta.
-
----
-
-## PLANO 5 (0:08–0:10) — RESPEITO
-
-O mestre do dojo, observando de cima, faz uma reverência lentamente.
-
-O protagonista retribui a reverência.
-
-A câmera sobe pelo teto de madeira em direção ao céu da manhã.
-
-O acorde final da guitarra se sustenta.
-
-Corte para o preto.
-
----
-
-# ALVO EMOCIONAL
-
-O público deve pensar imediatamente:
-
-**"O verdadeiro domínio não parece rápido... parece sem esforço."**
-
----
-
-# REQUISITOS TÉCNICOS
-
-Realismo de longa-metragem
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Cena de Luta de Artes Marciais Cinematográfica">
-
-**[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2075533217193742739)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **Publicado:** Jul 10, 2026
-
----
-### Comédia Macro Cinematográfica de Baratas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo de vários estágios altamente detalhado para criar uma cena cômica fotorrealista de baratas interagindo com uma fatia de pizza, incluindo uma linha do tempo de 10 segundos.
-
-#### 📝 Prompt
-
-```
-Assunto: Uma cena cômica fotorrealista em macrocinematografia de duas baratas em uma calçada urbana suja e levemente úmida à noite, interagindo com uma fatia de pizza descartada.
-
-Câmera e Estética: Filmado com uma Leica SL2 com lente macro de 100mm. Emule o filme Kodak Portra 400 com granulação orgânica, rico contraste de cores e uma profundidade de campo rasa. A iluminação é de rua cinematográfica, com reflexos neon suaves refletindo no queijo gorduroso da pizza e no concreto molhado.
-
-Áudio: Ruído ambiente urbano, efeitos sonoros de comida pastosa e uma narração de personagem distinta no final.
-
-Linha do Tempo de 10 Segundos:
-
-0-3s: Close-up macro extremo. Duas baratas altamente detalhadas e expressivas estão em cima de uma fatia de pizza gordurosa e grande. Elas estão com as patas dianteiras envoltas em uma rodela de abacaxi amarela e brilhante incrustada no queijo. Elas estão fazendo força e puxando para trás em uníssono.
-
-3-5s: O queijo mussarela estica dramaticamente como elástico. Com um estalo visceral e repentino, a rodela de abacaxi se solta da massa.
-
-5-7s: A câmera ajusta o foco enquanto a rodela de abacaxi cai de lado no concreto e rola rapidamente pela calçada texturizada, desaparecendo no bokeh suave e desfocado do fundo.
-
-7-10s: Corte rápido de volta para as duas baratas. Elas limpam as patas dianteiras em um gesto de alívio. A câmera dá um leve zoom na barata à direita enquanto ela olha diretamente para a câmera, jogando as patas dianteiras para cima em exasperação e grita distintamente com sincronia labial/mandibular perfeita: "Isso é nojento!"
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Comédia Macro Cinematográfica de Baratas">
-
-**[🎬 Assistir vídeo →](https://x.com/michaelrabone/status/2075490289062400195)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **Publicado:** Jul 10, 2026
-
----
-### Sequência de Filme de Terror Fotorrealista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt estruturado para uma sequência cinematográfica de terror de 10 segundos que utiliza uma imagem de referência para criar uma cena cheia de tensão em uma casa vitoriana.
-
-#### 📝 Prompt
-
-```
-Crie uma sequência cinematográfica de terror ultra-fotorrealista de 10 segundos inspirada em *Invocação do Mal*, *Sorria* e *Hereditário*.
-
-Use a imagem de referência fornecida como o protagonista.
-
-## ESTILO
-
-Terror realista.
-Efeitos visuais mínimos.
-Escuridão natural.
-Iluminação prática.
-Tensão de construção lenta.
-Sem sangue.
-
-## FORMATO
-
-10 segundos
-5 planos
-
-### PLANO 1 (0:00–0:02)
-
-O protagonista explora uma casa vitoriana abandonada usando apenas uma lanterna.
-
-### PLANO 2 (0:02–0:04)
-
-Eles tiram uma foto de um corredor escuro.
-Nada de incomum é visível.
-
-### PLANO 3 (0:04–0:06)
-
-Ao olhar para a foto, uma figura sorridente aparece no final do corredor.
-O corredor real está vazio.
-
-### PLANO 4 (0:06–0:08)
-
-Eles abaixam o telefone lentamente e olham para frente.
-Ainda não há nada.
-
-### PLANO 5 (0:08–0:10)
-
-Eles verificam a tela novamente.
-A figura sorridente agora está parada diretamente atrás deles na foto.
-Corte para o preto antes que eles se virem.
-
-Música
-Sons graves contínuos.
-Madeira rangendo.
-Um acorde orquestral agudo no quadro final.
-
-Objetivo Emocional
-
-*"A câmera viu o que os olhos não puderam."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Sequência de Filme de Terror Fotorrealista">
-
-**[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2075377636420059580)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2075377636420059580) | **Publicado:** Jul 10, 2026
-
----
-### Zoom Cinematico de Imagem para Vídeo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de movimento elegante projetado para adicionar profundidade cinematográfica sutil e movimento a uma imagem vertical estática.
-
-#### 📝 Prompt
-
-```
-zoom cinematográfico lento, movimento de luz suave, movimento de fundo sutil, atmosfera realista, 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075153215952162816/img/SXIdMfPuasbXTp8X.jpg" width="600" alt="Zoom Cinematico de Imagem para Vídeo">
-
-**[🎬 Assistir vídeo →](https://x.com/getimg_ai/status/2075303977692836130)**
-
-**Autor:** [getimg.ai](https://x.com/getimg_ai) | **Fonte:** [Link](https://x.com/getimg_ai/status/2075303977692836130) | **Publicado:** Jul 9, 2026
-
----
-### Sequência de Combate Robô Sci-Fi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um storyboard cinematográfico de alta qualidade para uma sequência de ficção científica de 10 segundos envolvendo um protagonista e um robô autônomo gigante em uma cidade abandonada.
-
-#### 📝 Prompt
-
-```
-Crie uma sequência de ação cinematográfica de ficção científica ultra-fotorrealista de 10 segundos inspirada em *The Creator*, *Oblivion*, *District 9* e *Elysium*.
-
-Use a **imagem de referência masculina fornecida** como o protagonista. Mantenha a identidade perfeita, consistência facial, penteado, proporções corporais, continuidade das roupas e expressões realistas em todas as cenas.
-
-## ESTILO
-
-Blockbuster de Hollywood.
-
-Tecnologia de futuro próximo fundamentada.
-
-Fotorrealista.
-
-Formato grande IMAX.
-
-VFX invisível.
-
-Explosões práticas.
-
-Realismo industrial.
-
-## CÂMERA
-
-ARRI ALEXA 65.
-
-Lentes anamórficas Panavision Ultra Vista.
-
-Ação com câmera na mão misturada com rastreamento estabilizado.
-
-Desfoque de movimento natural.
-
-## FORMATO
-
-9:16
-
-10 segundos
-
-5 cenas.
-
----
-
-### CENA 1 (0:00–0:02) — CONTAGEM REGRESSIVA
-
-Um gigantesco robô de combate autônomo está parado no meio de uma cidade abandonada.
-
-Uma contagem regressiva aparece em seu peito danificado.
-
-**00:10**
-
-O protagonista se aproxima lentamente.
-
----
-
-### CENA 2 (0:02–0:04) — DECISÃO
-
-O robô subitamente liga novamente.
-
-Suas armas começam a ser implantadas.
-
-O protagonista começa a correr diretamente em direção a ele.
-
----
-
-### CENA 3 (0:04–0:06) — IMPACTO
-
-Ele desliza por baixo das pernas do robô enquanto mísseis destroem a rua atrás dele.
-
-O concreto explode.
-
-Carros capotam.
-
-Poeira preenche o ar.
-
----
-
-### CENA 4 (0:06–0:08) — DESLIGAMENTO
-
-O protagonista alcança o reator exposto.
-
-Ele insere uma chave de desligamento mecânica no núcleo.
-
-A contagem regressiva congela instantaneamente em **00:01**.
-
----
-
-### CENA 5 (0:08–0:10) — SILÊNCIO
-
-O robô se ajoelha lentamente.
-
-Todas as luzes se apagam.
-
-A cidade fica completamente silenciosa.
-
-O protagonista se afasta sem olhar para trás.
-
-**Música:** Baixo industrial → orquestra híbrida → silêncio total.
-
----
-
-## ALVO EMOCIONAL
-
-"O mundo estava a um segundo de acabar."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075176434931560448/img/r1khnveDSRsyTFKa.jpg" width="600" alt="Sequência de Combate Robô Sci-Fi">
-
-**[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2075176503265137135)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2075176503265137135) | **Publicado:** Jul 9, 2026
-
----
-### Transformação de Pug para Lobo no Reflexo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de transformação criativa onde um pug fofo vê um lobo majestoso e feroz em seu reflexo no espelho.
-
-#### 📝 Prompt
-
-```
-Um pug fofo sentado em um estúdio, olhando para um espelho grande sob uma iluminação diurna dramática e de alto contraste. Dentro do reflexo do espelho, em vez do pug, um lobo feroz e majestoso encara de volta com uma expressão poderosa e confiante. A câmera dá zoom lentamente, contrastando o pug orgulhoso com seu reflexo selvagem e ancestral. Clima humorístico, porém inspirador, estilo cinematográfico, hiperdetalhado.
-
-Linha do Tempo do Storyboard de 10 Segundos
-
-0-3s | A Configuração: Um plano médio de um pug adorável sentado orgulhosamente em frente a um espelho de chão grande. A iluminação é brilhante e dramática, como em um estúdio profissional. O pug inclina a cabeça, parecendo curioso.
-
-3-7s | A Revelação: A câmera faz um movimento lento de pan e tracking em direção ao espelho. À medida que o reflexo se torna nítido, ele transita suavemente para mostrar um enorme e majestoso lobo cinzento encarando de volta com olhos ferozes e confiantes.
-
-7-10s | O Contraste e Clímax: Uma tela dividida ou um ângulo por cima do ombro destacando o contraste: o pug fofo da vida real parecendo orgulhoso, justaposto ao poderoso e ancestral lobo no reflexo. A iluminação cinematográfica se intensifica antes de escurecer para o preto.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075172932792254464/img/-JF8X4hZDCSe2lKd.jpg" width="600" alt="Transformação de Pug para Lobo no Reflexo">
-
-**[🎬 Assistir vídeo →](https://x.com/michaelrabone/status/2075173227651887525)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2075173227651887525) | **Publicado:** Jul 9, 2026
-
----
-### Cartão-postal de Pôster de Viagem Animado
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt curto e eficaz para animar um pôster de viagem estático em um cartão-postal em movimento com nuvens à deriva e brilhos no oceano.
-
-#### 📝 Prompt
-
-```
-transforme este pôster de viagem em um cartão-postal em movimento: nuvens à deriva, gaivotas cruzando o quadro, brilho do oceano, balanço suave da câmera, 10s
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074873385452978176/img/cndIiE_44XHPMYim.jpg" width="600" alt="Cartão-postal de Pôster de Viagem Animado">
-
-**[🎬 Assistir vídeo →](https://x.com/getimg_ai/status/2074948887698096374)**
-
-**Autor:** [getimg.ai](https://x.com/getimg_ai) | **Fonte:** [Link](https://x.com/getimg_ai/status/2074948887698096374) | **Publicado:** Jul 8, 2026
-
----
-### Sequência de Aventura de Dinossauros no Velho Oeste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Uma série cinematográfica de prompts de vídeo descrevendo um Velho Oeste pré-histórico onde cowboys montam dinossauros por cânions e planícies, apresentando iluminação de nascer e pôr do sol.
-
-#### 📝 Prompt
-
-```
-Tomada cinematográfica de acompanhamento, nascer do sol sobre um majestoso cânion de rocha vermelha no Velho Oeste. Um cowboy em trajes tradicionais da fronteira está montado nas costas de um grande Pterossauro, planando suavemente pelo ar sobre o terreno acidentado. Fotorrealista, 4k, iluminação volumétrica.
-
-Plano de estabelecimento amplo ao anoitecer. Um cowboy descansa ao lado de uma fogueira quente em uma planície gramada. No plano de fundo imediato, um Triceratops massivo e realista atrelado a uma carroça de madeira descansa pacificamente. Iluminação suave e cinematográfica de crepúsculo.
-
-Tomada de acompanhamento em ângulo baixo em um deserto poeirento durante o dia. Um Brachiosaurus colossal equipado com uma sela de montaria e carga caminha majestosamente pela tela, cercado por um rebanho agitado de dinossauros menores e cowboys montados neles. Reflexos de lente e poeira atmosférica.
-
-Tomada dramática em silhueta à noite. Um cowboy está no centro apontando um revólver, ladeado por dois raptores emplumados e agressivos. A cena é brilhantemente retroiluminada por um fogo massivo e intenso vindo de uma estrutura em chamas atrás deles. Alto contraste, voltado para ação.
-
-Tomada épica em silhueta ampla durante o pôr do sol na hora dourada. Um cowboy cavalga sobre um massivo Tyrannosaurus Rex que caminha lentamente pela planície desértica plana. O sol imenso está baixo no horizonte, criando uma imagem final marcante e bela.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074810577088557056/img/WEj2e5ODrGlSwDyN.jpg" width="600" alt="Sequência de Aventura de Dinossauros no Velho Oeste">
-
-**[🎬 Assistir vídeo →](https://x.com/michaelrabone/status/2074810751898841468)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2074810751898841468) | **Publicado:** Jul 8, 2026
-
----
-### MV de Dança de Casal em Tinta Pastel Fantástica
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt abrangente para gerar um videoclipe estilizado de alta qualidade, apresentando dois personagens com VFX distintos, estética de tinta pastel e efeitos desenhados à mão sincronizados.
-
-#### 📝 Prompt
-
-```
-Use 2 imagens de referência. Trate a imagem1 como Pessoa A e a imagem2 como Pessoa B. Represente a Pessoa A e a Pessoa B como personagens que aparecem em um videoclipe (MV) live-action, mantendo as características faciais, penteado, tipo físico, expressão, impressão do figurino, atmosfera e identidade de cada personagem das imagens de referência. Não misture as duas pessoas. Não troque rostos, penteados, figurinos, físicos, vibrações, VFX ou traços de personalidade. Mantenha a personalidade individual de cada imagem de referência e retrate-as claramente como indivíduos separados. Integre decorações ou silhuetas características das imagens de referência naturalmente como figurinos de fantasia para um MV live-action. Mostre texturas realistas, balanço de cabelo, movimento de tecido, reflexos em acessórios, textura de pele e luz e sombra. O estilo geral deve ser um MV de fantasia live-action fofo, elegante e transparente. O fundo não é um local do mundo real, mas um 'Palco de Sonhos em Tinta Pastel' para um MV live-action. Organize um espaço de estúdio branco suave com tinta pálida, luz de aquarela, vidro translúcido, tecido de seda balançando, anéis transparentes, um piso levemente reflexivo, fragmentos de papel flutuantes, círculos semelhantes a bolhas de sabão e partículas de poeira estelar. Foque em cores pastel suaves como branco leitoso, azul bebê, lavanda, rosa pálido, amarelo creme, verde menta e ciano claro. As cores não devem emitir luz forte, mas parecer sangrar levemente. O fundo não é estático desde o início; sincronizado com 118 BPM, nuvens de tinta pálida, luz de aquarela, anéis transparentes, reflexos de vidro, tecido e partículas de luz expandem-se lentamente, fluem, balançam e derretem. Adicione VFX fofos estilo tinta e efeitos delicados desenhados à mão. A tinta é apresentada como aquarela transparente, marcas de pincel pálidas, respingos leitosos, pequenos grãos de tinta e borrões espalhando-se no ar. Efeitos desenhados à mão aparecem momentaneamente como linhas brancas finas, contornos pastel pálidos, pequenas estrelas, raios finos, linhas de velocidade desenhadas à mão, linhas onduladas e rastros brilhantes. Balance as linhas levemente para manter um calor artesanal. O VFX da Pessoa A deve ser nítido e transparente, com linhas finas, anéis transparentes, ondulações de vidro líquido e rastros desenhados à mão que reagem aos ombros, pulsos, pés e giros. O VFX da Pessoa B deve ser suave e doce, com borrões de tinta pálida, poeira estelar, pequenas flores de luz, pincéis macios semelhantes a fitas e brilhos desenhados à mão que reagem às pontas dos dedos, cabelo, figurinos e giros. No momento em que se aproximam, o VFX de anel da Pessoa A e o VFX de poeira estelar da Pessoa B se sobrepõem momentaneamente como ondulações de luz pálida antes de se separarem imediatamente. O VFX não deve esconder rostos, olhos, linhas corporais, membros, detalhes do figurino ou a dança. Os figurinos são redesenhados de forma glamorosa para um MV live-action, mantendo a visão de mundo da imagem de referência, adicionando materiais brilhantes, camadas, jaquetas curtas, tecidos que balançam, correntes, cintos, fitas, acessórios, botas, luvas, peças metálicas, transparência e cores de destaque. A Pessoa A e a Pessoa B mostram uma sensação de serem um casal, mas suas personalidades de figurino e VFX são claramente distintas. Cabelo, tecido, fitas, acessórios e decorações características balançam naturalmente com a dança. As expressões são fofas e equilibradas, mostrando uma distância típica de um casal. Quando um olha para a câmera, o outro olha para o parceiro ou levemente para o lado; eles não fazem a mesma expressão simultaneamente. A impressão geral é uma caracterização live-action da imagem1 e imagem2 em um MV de dança de casal em um mundo de tinta pastel pálida. A Pessoa A é legal e nítida; a Pessoa B é suave e glamorosa. O fundo é fofo, mas não parece barato, movendo-se lindamente com tinta aquarela transparente e VFX desenhados à mão. Priorize rostos, penteados, tipos físicos, expressões e silhuetas. Sem sobreposições de texto, legendas, logotipos ou caracteres legíveis. Sem grafite, arte em spray, neon forte, estilo cibernético ou fundos de paisagem normais. Sem duplicação de pessoas, sem novas pessoas, sem sincronização perfeita, sem cópia simétrica, sem ficar parado e sem apenas caminhar. Use uma ou mais imagens de referência. Trate todas as pessoas/personagens nas imagens de referência como protagonistas. Se houver 1 imagem, apresente 1 pessoa; se 2 imagens, 2 pessoas; se 3 imagens, 3 pessoas, fazendo com que todas apareçam simultaneamente no mesmo vídeo. 15 segundos, 60fps. Um vídeo de dança de alta qualidade no estilo de um MV de conceito de ídolo. Garanta um ritmo adequado para um MV curto, coreografia fofa e efeitos 2D desenhados à mão sincronizados. Descreva movimentos suaves para cabelo, roupas, acessórios, mãos, passos, giros, olhar e efeitos. Coloque todos no mesmo fundo, espaço de filmagem e cena de MV ao mesmo tempo. Não altere o fundo para cada imagem de referência. Não divida em cenas diferentes por pessoa. Não troque personagens no meio do caminho. Não os apresente um por um. Para múltiplas imagens de referência, trate cada uma como uma pessoa independente. Não misture rostos, penteados, cores de cabelo, biotipos, figurinos, acessórios, gêneros, faixas etárias ou vibrações. Não os torne um par com o mesmo rosto, cabelo ou roupa. Se usar referências masculinas e femininas, mantenha-as claramente como masculinas e femininas. Priorize a retenção da caracterização das imagens de referência, incluindo textura, estilo artístico, atmosfera e personalidade. Mesmo que as texturas difiram entre as referências, mantenha-as individuais para cada personagem. Não force um estilo artístico uniforme em todos. Se corpos inteiros ou figurinos não estiverem visíveis, complemente-os naturalmente com base nas cores, materiais, silhuetas e traços de personalidade de cada imagem. As partes complementares devem seguir a mesma direção da respectiva imagem de referência. Não pegue emprestado características de outros personagens. Fixe o fundo como um único espaço comum de filmagem de MV: um estúdio interno, um quarto perto de uma janela ou um espaço de filmagem simples. Use luz natural suave e um fundo organizado onde todos pareçam protagonistas. Não mude o local por tomada; apenas mude os ângulos da câmera dentro do mesmo espaço. Analise as semelhanças entre as imagens de referência para criar um único espaço de MV de conceito de ídolo, ajustando a atmosfera (brilhante, pálida, calma, úmida, fresca, fofa, etc.). A música é uma canção japonesa; não use músicas reais existentes. O conceito do vídeo é um MV de conceito curto onde todos os personagens dançam juntos de forma fofa e impressionante no mesmo espaço. Prioridade: todos existem simultaneamente, todos parecem fofos, o MV é memorável e a dança se integra com efeitos 2D desenhados à mão. Use arranjos lado a lado, triangulares, diagonais ou de frente para trás para que todos fiquem visíveis. Todos dançam ao mesmo tempo; sem partes apenas solo, ficar parado ou direção de local separado. Não use 'fofura' de modelo; analise as referências para criar uma fofura de conceito de ídolo coesa. Personagens brilhantes: fofura saltitante. Personagens calmos: fofura elegante. Personagens legais: fofura tímida ou equilibrada. Personagens efêmeros: fofura suave. Personagens de estilo urbano: fofura rude e brincalhona. Coreografia: dança solo se 1 pessoa, dança em grupo se 2+. Inclua momentos sincronizados e momentos que mostram individualidade. Use mãos, ombros, pescoço, cintura, pés, olhar, giros e poses naturalmente. Os movimentos devem ser fofos, fáceis de imitar e memoráveis. Nada excessivamente infantil, excessivamente sexy, intensamente não natural, saltos não naturais ou movimentos aleatórios. Efeitos 2D desenhados à mão são gerados automaticamente com base na análise do personagem. Garanta que formas, linhas, texturas, cores, densidade e tempo sejam adequados para todos. Unifique a tela com um design de MV enquanto dá aos personagens pequenas variações no estilo de cor/linha conforme necessário. Os efeitos são gráficos em movimento desenhados à mão compostos sobre o vídeo, assemelhando-se a animações 2D rudes e fofas como giz de cera, lápis, pastel a óleo ou tinta pálida. Sincronize-os com mãos, rostos, pés, movimentos corporais, giros, olhar e poses. Equilibre-os pela tela sem favorecer uma pessoa. Não esconda rostos ou corpos demais. Configure como se filmado com 5 câmeras, alternando a cada 2 segundos: Frente, Topo, Esquerda, Direita, Trás. Mantenha o mesmo espaço de fundo, mudando apenas os ângulos. Priorize composições onde todos estejam visíveis, incluindo planos de corpo inteiro ou de grupo do joelho para cima. Sem closes que cortem as pessoas. Não fixe a câmera completamente; balance-a levemente no ritmo (pequenos saltos, zoom, balanços leves). Não use tremores de mão bagunçados. 0.0-2.0s: Câmera frontal. Todos aparecem no mesmo fundo. Corpo inteiro ou joelho para cima. Organize lado a lado ou em formação. Todos realizam ritmicamente uma pose de introdução fofa e pequenos passos que se encaixam em sua personalidade. Efeitos 2D desenhados à mão combinando com a atmosfera aparecem perto das mãos e rostos. 2.0-4.0s: Câmera de topo (vista aérea). Todos entram no quadro e reconhecem a câmera. Coordene gestos faciais e acentos manuais enquanto mantém os traços individuais do personagem. 4.0-6.0s: Câmera esquerda. Coreografia curta usando orientação corporal, cintura, ombros e mãos. Mantenha a distância do joelho para cima até o corpo inteiro. Efeitos desenhados à mão fluem por todos seguindo rastros de movimento. 6.0-8.0s: Câmera direita. Todos ficam de costas enquanto reconhecem a câmera. Coreografia fofa sincronizada com a batida usando ombros, mãos e pés. Mostre passos claros com uma composição natural. Efeitos derivados das cores/formas de referência aparecem nos ombros e pés. 8.0-10.0s: Câmera traseira. Cabelo e figurinos balançam suavemente. Composição de silhueta natural. Todos olham para trás por cima do ombro para a câmera, sincronizados ou levemente escalonados. Inclui giros e poses de mão com rastros de efeito. 10.0-12.0s: Câmera frontal (Clímax). Joelho para cima até corpo inteiro. Coreografia de grupo memorável usando o corpo inteiro. Aumente a densidade do efeito. Espalhe formas/linhas pela tela. Adicione pequenos tremores de câmera nas 'batidas'. 12.0-14.0s: Câmera de topo. Todos olham para cima com gestos fofos de rosto/mão. Efeitos desenhados à mão espalham-se suavemente das mãos. Mantenha toda a consistência de rosto/cabelo. 14.0-15.0s: Cena final. Voltado para a frente ou levemente diagonal. Pose final do grupo fluindo da dança. Não necessariamente um close no rosto; escolha a composição de grupo mais atraente (corpo inteiro até o busto). Sem zooms repentinos, cortes secos ou closes de rosto abruptos no final. Use uma abordagem de câmera suave ou parada leve. Enfatize a pose através da imobilidade corporal, formas das mãos, olhar e movimento persistente de cabelo/tecido e uma curta explosão de efeitos 2D. Restrições: Nenhum personagem além dos protagonistas. Não mescle múltiplas referências em uma pessoa. Não misture rostos masculinos e femininos. Não troque penteados/figurinos. Sem 'gêmeos'. Não compartilhe traços de personagem apenas porque compartilham um fundo. Sem figurinos que contradigam as referências. Sem poses/expressões/ícones/cores inconsistentes com os personagens. Não use o mesmo modelo para cada efeito/gesto. Garanta que a dança e os efeitos estejam perfeitamente sincronizados. Os efeitos devem fazer parte da coreografia, não muito fracos. Sem explosões, fogo, fumaça, falhas excessivas ou magia chamativa. Sem texto, legendas, logotipos ou marcas d'água. Renderize todos os 15 segundos suavemente a 60fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074800449652424704/img/XC2gobNaI_RucnzU.jpg" width="600" alt="MV de Dança de Casal em Tinta Pastel Fantástica">
-
-**[🎬 Assistir vídeo →](https://x.com/sailorv321/status/2074805393294004436)**
-
-**Autor:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Fonte:** [Link](https://x.com/sailorv321/status/2074805393294004436) | **Publicado:** Jul 8, 2026
-
----
-### Sequência de Preparo de Idli em Estilo Anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado de montagem em estilo anime, passo a passo, para o preparo de idlis tradicionais do sul da Índia, apresentando tomadas em POV e fotografia gastronômica em close-up.
-
-#### 📝 Prompt
-
-```
-Uma montagem de culinária em estilo anime, rápida e silenciosa, com 10 segundos de duração e SEM diálogos. 
-Sequência: POV abrindo um recipiente com arroz e urad dal → triturando até obter uma massa fermentada lisa → untando as formas de idli → despejando a massa nas formas → colocando as formas em uma vaporeira tradicional → cozinhando no vapor até ficarem perfeitamente fofas → uma bela garota do sul da Índia removendo os idlis quentes → macro shot de idlis macios, esponjosos e fumegantes → vista aérea (flat-lay) dos idlis servidos com sambar e chutney de coco → close-up da garota dando uma mordida deliciosa em silêncio → tomada estética final da travessa de idli fumegante em uma bancada de cozinha tradicional iluminada pelo sol.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074761774155616256/img/G_dRnuUbfQkF44fs.jpg" width="600" alt="Sequência de Preparo de Idli em Estilo Anime">
-
-**[🎬 Assistir vídeo →](https://x.com/snskritinaruka/status/2074761846444503180)**
-
-**Autor:** [Sanskriti Naruka](https://x.com/snskritinaruka) | **Fonte:** [Link](https://x.com/snskritinaruka/status/2074761846444503180) | **Publicado:** Jul 8, 2026
-
----
-### Sequência Cinematográfica de Ciclismo Alpino
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico detalhado para uma descida de ciclismo em alta velocidade em uma estrada alpina, mantendo a consistência facial a partir de uma imagem de referência.
-
-#### 📝 Prompt
-
-```
-Use a imagem de referência feminina anexada como a ÚNICA referência de identidade para a personagem principal.
-
-Mantenha total consistência facial em todos os quadros.
-
-Duração: 10 segundos.
-
-O primeiro quadro abre com a personagem já descendo uma estrada de montanha alpina em uma bicicleta de estrada de carbono premium em alta velocidade. Ela se inclina com confiança em curvas amplas enquanto a neblina da manhã se dissipa lentamente abaixo. A luz do sol atinge os picos das montanhas enquanto ela sai de uma curva final com vista para um vale infinito.
-
-Realismo IMAX 65mm. Gradação HDR premium. Fotografia aérea cinematográfica.
-
-Câmera:
-Drone FPV em perseguição já em movimento → acompanhamento lateral → câmera montada na roda → revelação aérea massiva.
-
-Trilha Sonora:
-Orquestra cinematográfica inspiradora, percussão rítmica, violão acústico, cordas emocionantes.
-
-Som Ambiental:
-Clique do cubo traseiro (freehub), trocas de marcha, ruído dos pneus, vento da montanha, pássaros.
-
-Sem diálogo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074666143852445696/img/oikKJLTsOxHizW6r.jpg" width="600" alt="Sequência Cinematográfica de Ciclismo Alpino">
-
-**[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2074666384051904670)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2074666384051904670) | **Publicado:** Jul 8, 2026
-
----
-### Vídeo de paisagem surreal com olho gigante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico para o Gemini gerar uma paisagem surreal com um olho gigante piscando e pequenos exploradores humanos, completo com uma linha do tempo detalhada de movimento de 10 segundos.
-
-#### 📝 Prompt
-
-```
-Paisagem surreal fotorrealista. Um olho humano gigante e altamente detalhado, com íris azul e esclera avermelhada, pisca lentamente no centro. Ele é cercado por estruturas pulsantes, vermelhas, carnudas e em forma de estrela, cada uma contendo um olho azul que pisca. Pequenas figuras humanas realistas vestindo ternos caminham pelo terreno carnudo, examinando os olhos.
-
-Linha do tempo (10 segundos):
-
-0-3s: Close extremo do olho central gigante piscando lentamente. Foco nas texturas fotorrealistas da íris e nos vasos sanguíneos.
-
-3-6s: A câmera se afasta lentamente. As estruturas estelares vermelhas e carnudas ao redor começam a pulsar. Os olhos menores se movem freneticamente.
-
-6-10s: Plano aberto estabelecendo a escala. Pequenas figuras humanas caminham pelo terreno carnudo, examinando as estruturas enquanto todos os olhos se concentram na câmera.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074493433201221632/img/OO2qM-98wUw2rXi4.jpg" width="600" alt="Vídeo de paisagem surreal com olho gigante">
-
-**[🎬 Assistir vídeo →](https://x.com/michaelrabone/status/2074493655843258788)**
-
-**Autor:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Publicado:** Jul 7, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
 
 <div align="center">
 
-### 🎯 96 mais prompts não mostrados aqui
+### 🎯 100 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3050,6 +2730,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-29T02:42:50.465Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-29T10:48:46.828Z</sub>
 
 </div>

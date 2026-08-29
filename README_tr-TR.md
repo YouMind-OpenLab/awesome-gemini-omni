@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **196** |
+| 📝 Toplam İstem | **208** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-29** |
 
@@ -56,6 +56,322 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Chrome Robot Reklam Metni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 1990'lar tarzı bir robot karakter için başlık kartları, hareket kısıtlamaları ve senkronize diyaloglar içeren karmaşık, çok sahneli bir senaryo.
+
+#### 📝 İstem
+
+```
+Tüm reklam boyunca: 1990'lardan kalma, krom ve kauçuktan yapılmış, göğüs plakasında "OMNI 1.1" yazan pratik bir kostüm robot.
+Aynı robot. Her çekimde. Bunu değiştirmeyin.
+
+[0-1 sn] Kalın ve acil durum başlık kartı:
+"GOOGLE'DAN YENİ GELDİ!"
+
+[1-5 sn] Robot, temiz ve karanlık bir arka plan önünde hareketsiz durur. 
+Premium krom başlık kartları sırayla belirir:
+
+"4K'YA KADAR."
+"10 SANIYEYE KADAR UZAT."
+"2 FOTOĞRAF → 1 VİDEO."
+"3 KLİP. TUTARLILIĞI KORUR."
+
+Aynı robot. Hareket etmiyor. Değişmiyor.
+
+[5-10 sn] KESME: Matrix dojosu. Aynı robot. Kostüm değişikliği yok.
+Çocuk karşısında ciddi bir şekilde duruyor.
+
+Çocuk: "Kung fu biliyor musun?"
+Omni bir yumruk atar. Omni elini geri çeker.
+Omni "Ah" der.
+Duraksama.
+Omni "Üzerinde çalışıyorum evlat" der.
+
+Final kartı: "GEMINI OMNI 1.1"
+
+Ses: Açılışta haber jeneriği müziği. Özellik kartları sırasında sessizlik.
+Dojo sahnesine geçişte Matrix müziği yükselir. Yumruk. Sessizlik. "Ah."
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093563402916667392/img/JzOGeTSe5sUvg5s1.jpg" width="600" alt="Chrome Robot Reklam Metni">
+
+**[🎬 Videoyu izle →](https://x.com/BrentLynch/status/2093563415730258318)**
+
+**Yazar:** [Brent Lynch](https://x.com/BrentLynch) | **Kaynak:** [Link](https://x.com/BrentLynch/status/2093563415730258318) | **Yayınlandı:** Aug 29, 2026
+
+---
+### Minyatür Çikolata Fabrikası Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Küçük işçileri ve adım adım üretimi içeren, fotogerçekçi bir minyatür çikolata fabrikası için 10 saniyelik son derece detaylı video istemi.
+
+#### 📝 İstem
+
+```
+10 saniyelik, ultra gerçekçi ve sinematik bir minyatür çikolata fabrikası videosu oluşturun. Profesyonel beyaz üniformalar, saç fileleri ve minik önlükler giyen sevimli minyatür işçiler tarafından işletilen, hareketli ve küçük bir çikolata üretim tesisi gösterin.
+
+0–2 sn: Minik işçiler, büyük bir paslanmaz çelik tanktan erimiş zengin çikolatayı, hareketli bir konveyör bandı üzerindeki küçük kalıplara dikkatlice döküyor; gerçekçi buhar ve parlak çikolata dokusu mevcut.
+
+2–4 sn: Çikolata kalıpları minyatür bir soğutma tünelinden geçiyor. İşçiler her bir parçayı minik aletler ve büyüteçlerle inceliyor.
+
+4–6 sn: İşçiler, minyatür makineler ve hassas aletler kullanarak bitmiş çikolataları fındık, karamel çizgileri, çikolata sosu ve minik renkli şekerlemelerle süslüyor.
+
+6–8 sn: Hızlı hareket eden bir konveyör, mükemmel şekilli çikolataları paketleme istasyonuna taşıyor. Minik işçiler her bir çikolatayı zarif, premium ambalajlara ve küçük kutulara yerleştiriyor.
+
+8–10 sn: Final ana çekim — güzelce paketlenmiş düzinelerce çikolata konveyör boyunca ilerlerken, minyatür işçiler üretim hattını gururla inceliyor. Kamera yavaşça mükemmel bir şekilde tamamlanmış bir çikolata kutusuna doğru yaklaşıyor.
+
+Stil: fotogerçekçi minyatür dünya, sinematik makro fotoğrafçılık, gerçekçi çikolata erimesi ve dökülmesi, son derece detaylı minik makineler, doğal işçi hareketleri, sığ alan derinliği, sıcak ve lüks çikolata fabrikası aydınlatması, gerçekçi yansımalar, hafif buhar, akıcı kamera hareketi, tatmin edici ASMR tarzı üretim atmosferi, premium reklam kalitesi, 4K, fiziksel olarak doğru dokular, çizgi film görünümü yok.
+
+Kamera: makro yakın çekimler, akıcı takip çekimleri, minik düşük açılı perspektifler, kusursuz geçişler, sinematik alan derinliği.
+
+Önemli: 10 saniyelik sekans boyunca aynı minyatür işçileri, fabrika düzenini, çikolata görünümünü ve görsel stili koruyun. Metin yok, logo yok, bozuk eller yok, fazladan uzuv yok, titreme yok, ani kesmeler yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093541345403224065/img/MdHVgd5_LknOet9K.jpg" width="600" alt="Minyatür Çikolata Fabrikası Reklamı">
+
+**[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2093541403796353389)**
+
+**Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2093541403796353389) | **Yayınlandı:** Aug 29, 2026
+
+---
+### Çöl Ninjası Gün Batımı Hesaplaşması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Maskeli bir ninja ile üç savaşçı arasında gün batımında geçen, karakter tasarımı için referans görsellerin kullanıldığı 10 saniyelik sinematik bir çöl hesaplaşması.
+
+#### 📝 İstem
+
+```
+Yüklenen görselleri karakterler için görsel referans olarak kullanın. Gün batımında, çölde geçen 10 saniyelik sinematik bir canlı aksiyon sahnesi oluşturun. Maskeli bir ninja, birkaç metre ötedeki üç karanlık savaşçıya karşı tek başına duruyor. Maskeli ninja için görsel referans olarak Görsel 2'yi kullanın. Üç rakip savaşçı için Görsel 1'den ilham alın ve onları aynı gruptan üç farklı karakter olarak tasarlayın. Herkesi hareketsiz tutun ve birbirlerine odaklanmalarını sağlayın. Rüzgar, çöl boyunca tozu hafifçe hareket ettiriyor. Kumaşlarda hafif hareketlilik. Güçlü sinematik gerilim. Lider savaşçı ninjaya bakarak şöyle diyor: "Buraya tek başına geldin." Ninja sakince geri bakıyor ve cevap veriyor: "Senin için geldim." Cevaptan sonra sessizliği bir anlığına koruyun. Dövüş yok. Saldırı yok. Kılıç hareketi yok. Fiziksel temas yok. Yaralanma yok. Şiddet yok. Sinematik canlı aksiyon gerçekçiliği, doğal vücut dili, gerçekçi dudak senkronizasyonu, hafif kamera hareketi, dramatik gün batımı ışığı, gerçekçi çöl atmosferi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093385776910221312/img/UaTv2dFJc0O_n79Y.jpg" width="600" alt="Çöl Ninjası Gün Batımı Hesaplaşması">
+
+**[🎬 Videoyu izle →](https://x.com/shikoba_86/status/2093446020499943538)**
+
+**Yazar:** [Marco "Shikoba" Riccetti](https://x.com/shikoba_86) | **Kaynak:** [Link](https://x.com/shikoba_86/status/2093446020499943538) | **Yayınlandı:** Aug 28, 2026
+
+---
+### K-Pop MV Tek Plan Dans
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dansçının karizmasına odaklanan, K-pop müzik videosu tarzında kesintisiz tek bir dans çekimi oluşturmak için yüksek hızlı kamera istemi.
+
+#### 📝 İstem
+
+```
+[# Referanslar <IMAGE_REF_0>@Image1 <IMAGE_REF_1>@Image2 <IMAGE_REF_2>@Image3] Kesinlikle tek bir sürekli ve kesintisiz çekim (sıfır kesme). Dansçının üst vücuduna ve yüz karizmasına odaklanan, dinamik tam figürlü, yüksek hızlı K-pop MV kamera hareketi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093441543726133248/img/SbUC1IZDPZuNWs_n.jpg" width="600" alt="K-Pop MV Tek Plan Dans">
+
+**[🎬 Videoyu izle →](https://x.com/Tomw852/status/2093441641571131816)**
+
+**Yazar:** [Tom𝕎](https://x.com/Tomw852) | **Kaynak:** [Link](https://x.com/Tomw852/status/2093441641571131816) | **Yayınlandı:** Aug 28, 2026
+
+---
+### Büyücü ve Ateş İblisi Fantastik Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yıkılmakta olan bir taş köprü üzerinde dev bir ateş iblisiyle yüzleşen büyücüyü konu alan, dramatik 8K aydınlatmalı epik ve sinematik bir fantastik video istemi.
+
+#### 📝 İstem
+
+```
+Yıkılmakta olan bir taş köprü üzerinde duran, devasa bir ateş iblisine karşı asasını kaldıran ve "Buradan geçemezsin!" diye haykıran güçlü gri büyücünün epik sinematik fantastik videosu; dramatik aydınlatma, geniş kamera açıları, fotogerçekçi, 8K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093419822549757952/img/L5SAmpbdC8ruEuPY.jpg" width="600" alt="Büyücü ve Ateş İblisi Fantastik Savaşı">
+
+**[🎬 Videoyu izle →](https://x.com/Conor_D_Dart/status/2093419950522118605)**
+
+**Yazar:** [Conor Dart](https://x.com/Conor_D_Dart) | **Kaynak:** [Link](https://x.com/Conor_D_Dart/status/2093419950522118605) | **Yayınlandı:** Aug 28, 2026
+
+---
+### Sinematik Kaya Tırmanışı Antrenmanı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Modern bir spor salonunda dramatik ışıklandırmayla tırmanan bir sporcuyu konu alan, spor fotoğrafçılığı tarzında yüksek kaliteli sinematik video istemi.
+
+#### 📝 İstem
+
+```
+Modern bir tırmanış salonunda antrenman yapan bir kaya tırmanışçısının güzel sinematik videosu, profesyonel spor fotoğrafçılığı, dinamik kamera açıları, gerçekçi hareketler, dramatik ışıklandırma, 8K, viral Twitter estetiği.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093387864948011008/img/iNmD5O3-vLLPrTeE.jpg" width="600" alt="Sinematik Kaya Tırmanışı Antrenmanı">
+
+**[🎬 Videoyu izle →](https://x.com/Conor_D_Dart/status/2093388008061804767)**
+
+**Yazar:** [Conor Dart](https://x.com/Conor_D_Dart) | **Kaynak:** [Link](https://x.com/Conor_D_Dart/status/2093388008061804767) | **Yayınlandı:** Aug 28, 2026
+
+---
+### Lüks Çilek Reçeli Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Makro dokular, ağır çekim kaşık daldırma sahneleri ve premium kahvaltı estetiği içeren, gurme çilek reçeli reklamı için kapsamlı bir storyboard istemi.
+
+#### 📝 İstem
+
+```
+BAŞLIK:
+Premium Çilek Reçeli Ürün Reklamı Storyboard'u
+
+FORMAT:
+• Tek sayfalık premium storyboard
+• 3:4 Dikey oran
+• Lüks kahvaltı gıda kampanyası
+• 8 adet sinematik, ürün odaklı sahne
+• Ürün görselin ana kahramanıdır
+• Üst düzey reklam sunumu
+
+ÜST BİLGİ:
+• Zarif tırnaklı (serif) tipografi
+• Bilgi kartları:
+  - Süre: 20 Saniye
+  - Stil: Gurme Kahvaltı Reklamı
+  - Ürün: Çilek Reçeli
+  - Ses: Yumuşak Gıda ASMR
+• Bu Stil Neden İşe Yarar bölümü
+• Çilek kırmızısı, krem ve yumuşak pembe estetiği
+• Minimalist, meyve esintili dekoratif detaylar
+
+STORYBOARD:
+1. Taze çileklerle çevrili premium reçel kavanozu
+2. Aşırı makro çekimde kavanoz kapağının açılması
+3. Kaşığın yoğun çilek reçeline yavaşça daldırılması
+4. Parlak reçelin kaşıktan ağır çekimde uzaması
+5. Taze çilek parçalarının reçelin içine düşmesi
+6. Reçelin sıcak kızarmış ekmek üzerinde pürüzsüzce yayılması
+7. Çilek çekirdeklerini ve zengin dokuyu gösteren aşırı makro çekim
+8. Kızarmış ekmek, çilekler ve parlak reçel sıçraması ile final ana ürün çekimi
+
+HER PANEL:
+• Sahne numarası
+• Süre rozeti
+• Kamera yönü
+• Görsel
+• Aksiyon
+• Ürün detayı
+
+KAMERA:
+Aşırı makro, ağır çekim yayılma, kuş bakışı yemek kompozisyonu, pürüzsüz kamera yakınlaşması, sığ alan derinliği, premium ürün çekimi.
+
+STİL:
+Ultra gerçekçi yemek fotoğrafçılığı, parlak meyve dokusu, gerçekçi reçel kıvamı, taze çilekler, sıcak doğal aydınlatma, premium cam ambalaj, lüks kahvaltı reklamı, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1787993736055_vz04eo_HQ0vDf8akAAXOp1.jpg" width="600" alt="Lüks Çilek Reçeli Storyboard'u">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2093381158356815935)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2093381158356815935) | **Yayınlandı:** Aug 28, 2026
+
+---
+### Yayıncı Zombi Oyunu Şırınga Savaşı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kadın yayıncının, bir hemşire karakterin zombilerle şırıngayla savaştığı bir korku oyununu oynadığı anları betimleyen bir video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Bir kadın yayıncının, ana karakterin zombilerle şırıngayla savaştığı bir hemşire olduğu bir oyunu oynadığı ve deneyimlediği bir video oluşturma istemi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093361666260160512/img/DZmjmoHLaqVaRj87.jpg" width="600" alt="Yayıncı Zombi Oyunu Şırınga Savaşı">
+
+**[🎬 Videoyu izle →](https://x.com/DrstaOne/status/2093364188781703596)**
+
+**Yazar:** [DrstaOne](https://x.com/DrstaOne) | **Kaynak:** [Link](https://x.com/DrstaOne/status/2093364188781703596) | **Yayınlandı:** Aug 28, 2026
+
+---
+### Dağ Bisikleti Birinci Şahıs (POV) Bakış Açısı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Aksiyon kameraları için tasarlanmış, fizik kurallarını, kayalık araziyi ve çevresel gerçekçiliği birden fazla model üzerinde test eden yüksek hızlı bir dağ bisikleti inişi istemi.
+
+#### 📝 İstem
+
+```
+Dağların yükseklerinde, sarp ve kayalık bir patikadan aşağı inen ultra gerçekçi birinci şahıs (POV) dağ bisikleti sürüşü. Sürücü; keskin virajlar, kayalar ve küçük atlayışlar arasından, çevresinde devasa uçurumlar ve dağ manzarası eşliğinde hızla aşağı iniyor. Sadece katı birinci şahıs (POV) bakış açısı, yüksek hız, kamera hareketi ve yere sağlam basan fizik kuralları, gerçek aksiyon kamerası görüntüleri.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093328534945120256/img/eqNWd7v_zlAgy7uM.jpg" width="600" alt="Dağ Bisikleti Birinci Şahıs (POV) Bakış Açısı">
+
+**[🎬 Videoyu izle →](https://x.com/YourAlphaMom/status/2093333326635405357)**
+
+**Yazar:** [Alpha Mom](https://x.com/YourAlphaMom) | **Kaynak:** [Link](https://x.com/YourAlphaMom/status/2093333326635405357) | **Yayınlandı:** Aug 28, 2026
+
+---
+### Everest Dağı Dağcısı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Profesyonel 8k fotoğraf estetiğiyle Everest Dağı'ndaki bir dağcının yüksek kaliteli görüntülerini oluşturmak için sinematik bir video istemi.
+
+#### 📝 İstem
+
+```
+Everest Dağı'na tırmanan bir dağcının güzel videosu, profesyonel fotoğrafçılık, 8k, Twitter'da trend
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093234584049647617/img/vP2tzlpiCT3zr7sd.jpg" width="600" alt="Everest Dağı Dağcısı">
+
+**[🎬 Videoyu izle →](https://x.com/Conor_D_Dart/status/2093234779890102730)**
+
+**Yazar:** [Conor Dart](https://x.com/Conor_D_Dart) | **Kaynak:** [Link](https://x.com/Conor_D_Dart/status/2093234779890102730) | **Yayınlandı:** Aug 28, 2026
+
+---
+### Kadın Yayıncı Zombi Oyunu Yorumu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hemşire karakterin yer aldığı bir zombi oyununu oynayan ve yorumlayan kadın bir yayıncının sahnesini oluşturmak için sinematik bir video istemi.
+
+#### 📝 İstem
+
+```
+Ana karakteri zombilerle şırınga kullanarak savaşan bir kadın hemşire olan oyunu oynayan ve yorumlayan kadın bir yayıncı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093215829534146560/img/Tl3KL8c5NyN2Ivev.jpg" width="600" alt="Kadın Yayıncı Zombi Oyunu Yorumu">
+
+**[🎬 Videoyu izle →](https://x.com/rovvmut_/status/2093215928863650296)**
+
+**Yazar:** [Heisenberg](https://x.com/rovvmut_) | **Kaynak:** [Link](https://x.com/rovvmut_/status/2093215928863650296) | **Yayınlandı:** Aug 28, 2026
+
+---
+### Mini Drone Kutu Açılışı Makro Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ahşap bir masa üzerinde küçük, katlanabilir bir drone'un gerçekçi kutu açılışını ve montajını gösteren sinematik bir makro video istemi.
+
+#### 📝 İstem
+
+```
+Ahşap bir masa üzerinde kutusu açılan ve monte edilen, DJI Mini 5 Pro tarzında küçük, son derece gerçekçi ve sinematik bir makro video oluşturun. Küçük beyaz bir drone perakende kutusuyla başlayın, ardından insan ellerinin ambalajı dikkatlice açtığını ve minyatür katlanabilir drone'u çıkardığını gösterin. Drone'un açılma anının ve parçalarının kutu üzerine yerleştirilmesinin detaylı yakın çekimlerini yapın. Arka batarya gösterge ışıkları yeşil yanan kompakt gri drone'un aşırı makro çekimiyle bitirin. Sıcak iç mekan aydınlatması, sığ alan derinliği, gerçekçi cilt ve plastik dokuları, yumuşak el hareketleri, premium ürün reklamı estetiği, sinematik kamera hareketi, drone üzerinde keskin odak, doğal gölgeler, 4K fotorealizm, dikey 9:16 kompozisyon, metin veya filigran yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093197036824965121/img/tqzfGB18jYkI11KI.jpg" width="600" alt="Mini Drone Kutu Açılışı Makro Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2093197063421108689)**
+
+**Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2093197063421108689) | **Yayınlandı:** Aug 28, 2026
+
+---
 ### Sosyal Medya Stüdyo Dans Koreografisi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2332,649 +2648,13 @@ kamera ürünün etrafında yavaşça döner, yansımalar yüzey boyunca hareket
 **Yazar:** [getimg.ai](https://x.com/getimg_ai) | **Kaynak:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **Yayınlandı:** Jul 10, 2026
 
 ---
-### Sinematik Dövüş Sanatları Aksiyon Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Teknik kamera detayları, ses tasarımı ve karakter kimliği koruması içeren 10 saniyelik bir dövüş sanatları sekansı için kapsamlı video istemi.
-
-#### 📝 İstem
-
-```
-Klasik Hong Kong aksiyon sinemasından, modern dublör koreografisinden ve birinci sınıf Hollywood film yapımcılığından ilham alan 10 saniyelik ultra fotogerçekçi sinematik dövüş sanatları sekansı oluşturun.
-
-Başrol oyuncusu olarak sağlanan erkek referans görselini kullanın.
-
-Her karede mutlak kimlik tutarlılığını koruyun.
-
-Şunları tam olarak muhafaza edin:
-
-* Yüz yapısı
-* Saç modeli
-* Göz şekli
-* Cilt tonu
-* Vücut oranları
-* Yüz kılları (varsa)
-* Kıyafet sürekliliği
-* İfadeler
-* Aksesuarlar
-
-Başrol oyuncusu; her hareket, yakın çekim, ağır çekim sekansı ve kamera geçişi sırasında mükemmel bir şekilde tanınabilir kalmalıdır.
-
----
-
-# STİL
-
-Ultra fotogerçekçi.
-
-Gerçekçi dövüş sanatları.
-
-Doğaüstü güçler yok.
-
-Otantik dövüş koreografisi.
-
-Uzun metrajlı film kalitesi.
-
-Pratik dublör çalışması.
-
-Görünmez CGI.
-
-Birinci sınıf sinematik renk derecelendirmesi.
-
-Büyük format IMAX sinematografisi.
-
----
-
-# KAMERA PAKETİ
-
-ARRI ALEXA 65
-
-Panavision Ultra Vista anamorfik lensler
-
-Steadicam
-
-Yüksek hızlı Phantom Flex
-
-Technocrane
-
-Yavaş dairesel dolly
-
-Makro detay çekimleri
-
-Darbe anlarında doğal el kamerası
-
----
-
-# MÜZİK
-
-Film müziği hemen başlar.
-
-Ağır hard rock gitar riffleri.
-
-Hızlı çift vuruşlu davullar.
-
-Sürükleyici bas gitar.
-
-Hibrit orkestral perküsyon.
-
-Devasa sinematik fragman vuruşları.
-
-Belirleyici vuruş anında tüm enstrümanlar aniden kesilir.
-
-Sadece nefes alışverişi ve kumaş sesi kalır.
-
-Gitarlar maksimum güçle geri döner.
-
----
-
-# SES TASARIMI
-
-Çıplak ayak sesleri.
-
-Kumaş hareketi.
-
-Kontrollü nefes alışverişi.
-
-Hassas yumruklar.
-
-Derin vücut darbeleri.
-
-Tahta kırılma sesleri.
-
-Doğal ortam ambiyansı.
-
-Her vuruş ile her davul ritmi arasında mükemmel senkronizasyon.
-
----
-
-# AYDINLATMA
-
-Dojo pencerelerinden süzülen sabah güneş ışığı.
-
-Sıcak vurgular.
-
-Doğal gölgeler.
-
-Havada uçuşan toz parçacıkları.
-
-Yüksek dinamik aralık.
-
----
-
-# FORMAT
-
-10 saniye
-
-5 sinematik çekim.
-
----
-
-## ÇEKİM 1 (0:00–0:02) — MEYDAN OKUMA
-
-Devasa, geleneksel bir dojo.
-
-Başrol oyuncusu, altı seçkin dövüş sanatçısının karşısında duruyor.
-
-Kimse konuşmuyor.
-
-Hard rock riffleri hemen başlıyor.
-
----
-
-## ÇEKİM 2 (0:02–0:04) — SESSİZLİK
-
-Ekstrem yakın çekim.
-
-Başrol oyuncusu sakince gözlerini kapatıyor.
-
-Diğer herkes saldırıya hazırlanıyor.
-
-Davullar yükselmeye başlıyor.
-
----
-
-## ÇEKİM 3 (0:04–0:06) — TEK BİR HAREKET
-
-Saldırganlar aynı anda ileri atılıyor.
-
-Başrol oyuncusu tek bir hassas hareket yapıyor.
-
-Film müziği sessizliğe gömülüyor.
-
-Sadece ayak sesleri ve nefesler kalıyor.
-
----
-
-## ÇEKİM 4 (0:06–0:08) — ORTAYA ÇIKIŞ
-
-Saldırganlar donup kalıyor.
-
-Birbiri ardına dengelerini kaybedip yere yığılıyorlar.
-
-Başrol oyuncusunun ifadesi hiç değişmiyor.
-
-Gitarlar patlayarak geri giriyor.
-
----
-
-## ÇEKİM 5 (0:08–0:10) — SAYGI
-
-Yukarıdan izleyen dojo ustası yavaşça selam veriyor.
-
-Başrol oyuncusu selamına karşılık veriyor.
-
-Kamera ahşap tavandan yükselerek sabah gökyüzüne çıkıyor.
-
-Son gitar akoru uzuyor.
-
-Siyaha geçiş.
-
----
-
-# DUYGUSAL HEDEF
-
-İzleyici anında şunu düşünmeli:
-
-**"Gerçek ustalık hızlı görünmez... zahmetsiz görünür."**
-
----
-
-# TEKNİK GEREKSİNİMLER
-
-Uzun metrajlı film gerçekçiliği
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075533151745744896/img/2VbDE7dNu7ZKvw_t.jpg" width="600" alt="Sinematik Dövüş Sanatları Aksiyon Sahnesi">
-
-**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2075533217193742739)**
-
-**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2075533217193742739) | **Yayınlandı:** Jul 10, 2026
-
----
-### Makro Sinematik Hamam Böceği Komedisi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hamam böceklerinin bir pizza dilimiyle etkileşimini konu alan, fotorealistik ve komik bir sahne oluşturmaya yönelik, 10 saniyelik zaman çizelgesini de içeren çok aşamalı ve son derece detaylı bir video istemi.
-
-#### 📝 İstem
-
-```
-Konu: Gece vakti, kirli ve hafif ıslak bir şehir kaldırımında, atılmış bir pizza dilimiyle etkileşime giren iki hamam böceğinin yer aldığı, makro sinematografi tarzında fotorealistik ve komik bir sahne.
-
-Kamera ve Estetik: 100mm makro lensli Leica SL2 ile çekilmiştir. Organik film greni, zengin renk kontrastı ve sığ alan derinliği ile Kodak Portra 400 film stoğunu taklit eder. Aydınlatma, yağlı pizza peyniri ve ıslak beton üzerinde yansıyan yumuşak neon ışıklarıyla sinematik bir sokak aydınlatmasıdır.
-
-Ses: Sert sokak ortam sesleri, vıcık vıcık yiyecek ses efektleri ve sonunda belirgin bir karakter seslendirmesi.
-
-10 Saniyelik Zaman Çizelgesi:
-
-0-3 sn: Aşırı makro yakın çekim. Son derece detaylı ve ifadeli iki hamam böceği, yağlı ve büyük bir pizza diliminin üzerinde duruyor. Ön bacaklarını, peynirin içine gömülü parlak sarı, parlayan bir ananas halkasına dolamışlar. Birlikte zorlanarak geriye doğru çekiliyorlar.
-
-3-5 sn: Mozzarella peyniri elastik bir şekilde dramatik olarak uzuyor. Ani ve içgüdüsel bir kopuşla, ananas halkası hamurdan kurtuluyor.
-
-5-7 sn: Kamera odağı kaydırıyor; ananas halkası kenarı üzerine betonun üzerine düşüyor ve dokulu kaldırım boyunca hızla yuvarlanarak odak dışı kalmış pürüzsüz arka plan bokeh efektinin içinde kayboluyor.
-
-7-10 sn: İki hamam böceğine hızlı bir kesme. Rahatlamış bir jestle ön bacaklarını temizliyorlar. Kamera, sağdaki hamam böceğine hafifçe yakınlaşıyor; böcek doğrudan kameraya bakıyor, ön bacaklarını bıkkınlıkla havaya kaldırıyor ve mükemmel bir dudak/çene senkronizasyonuyla net bir şekilde "Bu iğrenç!" diye bağırıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075490072145588224/img/lBnLRqAh1Gormprn.jpg" width="600" alt="Makro Sinematik Hamam Böceği Komedisi">
-
-**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2075490289062400195)**
-
-**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2075490289062400195) | **Yayınlandı:** Jul 10, 2026
-
----
-### Fotogerçekçi Korku Filmi Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Victorian tarzı bir evde gerilim dolu bir sahne oluşturmak için referans görsel kullanan, 10 saniyelik yapılandırılmış sinematik korku sekansı istemi.
-
-#### 📝 İstem
-
-```
-The Conjuring, Smile ve Hereditary filmlerinden esinlenen, 10 saniyelik ultra fotogerçekçi sinematik bir korku sekansı oluşturun.
-
-Sağlanan referans görseli başrol karakteri olarak kullanın.
-
-## STİL
-
-Gerçekçi korku.
-Minimal görsel efektler.
-Doğal karanlık.
-Doğal ışıklandırma.
-Yavaş yavaş artan gerilim.
-Kan ve şiddet içermez.
-
-## FORMAT
-
-10 saniye
-5 çekim
-
-### 1. ÇEKİM (0:00–0:02)
-
-Başrol karakteri, sadece bir el feneri kullanarak terk edilmiş bir Victorian evini keşfediyor.
-
-### 2. ÇEKİM (0:02–0:04)
-
-Karanlık bir koridorun fotoğrafını çekiyor.
-Görünürde sıra dışı hiçbir şey yok.
-
-### 3. ÇEKİM (0:04–0:06)
-
-Fotoğrafa baktığında, koridorun sonunda gülümseyen bir figür beliriyor.
-Gerçek koridor ise boş.
-
-### 4. ÇEKİM (0:06–0:08)
-
-Yavaşça telefonu indirip ileriye bakıyor.
-Hala hiçbir şey yok.
-
-### 5. ÇEKİM (0:08–0:10)
-
-Ekrana tekrar bakıyor.
-Gülümseyen figür artık fotoğrafta tam arkasında duruyor.
-Karakter arkasını dönmeden ekran kararır.
-
-Müzik
-Derinden gelen uğultular.
-Ahşap gıcırtıları.
-Son karede keskin bir orkestral vurgu.
-
-Duygusal Hedef
-
-*"Kamera, gözlerin göremediğini gördü."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075377572721156096/img/A3VK5-0ZvNqYdHye.jpg" width="600" alt="Fotogerçekçi Korku Filmi Sekansı">
-
-**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2075377636420059580)**
-
-**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2075377636420059580) | **Yayınlandı:** Jul 10, 2026
-
----
-### Sinematik Görselden Videoya Yakınlaştırma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sabit dikey görsellere incelikli bir sinematik derinlik ve hareket katmak için tasarlanmış şık bir hareket komutu.
-
-#### 📝 İstem
-
-```
-yavaş sinematik yakınlaştırma, yumuşak ışık hareketi, hafif arka plan hareketi, gerçekçi atmosfer, 9:16
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075153215952162816/img/SXIdMfPuasbXTp8X.jpg" width="600" alt="Sinematik Görselden Videoya Yakınlaştırma">
-
-**[🎬 Videoyu izle →](https://x.com/getimg_ai/status/2075303977692836130)**
-
-**Yazar:** [getimg.ai](https://x.com/getimg_ai) | **Kaynak:** [Link](https://x.com/getimg_ai/status/2075303977692836130) | **Yayınlandı:** Jul 9, 2026
-
----
-### Bilim Kurgu Robot Savaş Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Terk edilmiş bir şehirde geçen, bir ana karakter ve devasa otonom bir robotun yer aldığı 10 saniyelik bilim kurgu sekansı için üst düzey sinematik storyboard.
-
-#### 📝 İstem
-
-```
-The Creator, Oblivion, District 9 ve Elysium'dan esinlenen 10 saniyelik, ultra fotogerçekçi sinematik bilim kurgu aksiyon sekansı oluşturun.
-
-Ana karakter olarak **sağlanan erkek referans görselini** kullanın. Her çekim boyunca mükemmel kimlik, yüz tutarlılığı, saç stili, vücut oranları, kıyafet devamlılığı ve gerçekçi ifadeleri koruyun.
-
-## STİL
-
-Hollywood gişe filmi.
-
-Gerçekçi yakın gelecek teknolojisi.
-
-Fotogerçekçi.
-
-Büyük format IMAX.
-
-Görünmez görsel efektler (VFX).
-
-Gerçekçi patlamalar.
-
-Endüstriyel gerçekçilik.
-
-## KAMERA
-
-ARRI ALEXA 65.
-
-Panavision Ultra Vista anamorfik lensler.
-
-Elde çekim aksiyon ve stabilize takip çekimleri karışımı.
-
-Doğal hareket bulanıklığı.
-
-## FORMAT
-
-9:16
-
-10 saniye
-
-5 çekim.
-
----
-
-### ÇEKİM 1 (0:00–0:02) — GERİ SAYIM
-
-Devasa bir otonom savaş robotu, terk edilmiş bir şehrin ortasında duruyor.
-
-Hasarlı göğsünde bir geri sayım beliriyor.
-
-**00:10**
-
-Ana karakter yavaşça yaklaşıyor.
-
----
-
-### ÇEKİM 2 (0:02–0:04) — KARAR
-
-Robot aniden tekrar çalışmaya başlıyor.
-
-Silahları konuşlanmaya başlıyor.
-
-Ana karakter doğrudan ona doğru koşmaya başlıyor.
-
----
-
-### ÇEKİM 3 (0:04–0:06) — ETKİ
-
-O, robotun bacaklarının altından kayarken füzeler arkasındaki caddeyi yok ediyor.
-
-Beton parçaları havaya uçuyor.
-
-Arabalar takla atıyor.
-
-Toz havayı kaplıyor.
-
----
-
-### ÇEKİM 4 (0:06–0:08) — KAPANIŞ
-
-Ana karakter açıkta kalan reaktöre ulaşıyor.
-
-Mekanik bir kapatma anahtarını çekirdeğe saplıyor.
-
-Geri sayım anında **00:01**'de donuyor.
-
----
-
-### ÇEKİM 5 (0:08–0:10) — SESSİZLİK
-
-Robot yavaşça diz çöküyor.
-
-Tüm ışıklar sönüyor.
-
-Şehir tamamen sessizliğe bürünüyor.
-
-Ana karakter arkasına bakmadan yürüyüp gidiyor.
-
-**Müzik:** Endüstriyel bas → hibrit orkestra → tam sessizlik.
-
----
-
-## DUYGUSAL HEDEF
-
-"Dünya sona ermeye bir saniye uzaklıktaydı."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075176434931560448/img/r1khnveDSRsyTFKa.jpg" width="600" alt="Bilim Kurgu Robot Savaş Sekansı">
-
-**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2075176503265137135)**
-
-**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2075176503265137135) | **Yayınlandı:** Jul 9, 2026
-
----
-### Pug'dan Kurda Yansıma Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sevimli bir pug'ın aynadaki yansımasında görkemli ve vahşi bir kurt gördüğü yaratıcı bir dönüşüm istemi.
-
-#### 📝 İstem
-
-```
-Sevimli bir pug, stüdyo ortamında, dramatik ve yüksek kontrastlı gün ışığı altında büyük bir aynaya bakıyor. Aynadaki yansımada ise pug yerine, güçlü ve kendinden emin bir ifadeyle geri bakan vahşi ve görkemli bir kurt yer alıyor. Kamera yavaşça yakınlaşarak, gururlu pug ile onun vahşi ve kadim yansıması arasındaki tezatlığı vurguluyor. Mizahi ama ilham verici bir atmosfer, sinematik tarz, hiper detaylı.
-
-10 Saniyelik Storyboard Zaman Çizelgesi
-
-0-3 sn | Kurulum: Büyük bir boy aynasının önünde gururla oturan sevimli bir pug'ın orta ölçekli çekimi. Aydınlatma, profesyonel bir stüdyo gibi parlak ve dramatik. Pug, meraklı bir şekilde başını yana eğiyor.
-
-3-7 sn | Ortaya Çıkış: Kamera yavaşça aynaya doğru kayıyor ve ilerliyor. Yansıma netleştikçe, görüntü akıcı bir geçişle, vahşi ve kendinden emin gözlerle geri bakan devasa, görkemli bir gri kurda dönüşüyor.
-
-7-10 sn | Tezatlık ve Doruk Noktası: Gerçek hayattaki sevimli pug'ın gururlu duruşu ile yansımadaki güçlü, kadim kurt arasındaki tezatlığı vurgulayan bölünmüş ekran veya omuz üstü çekim açısı. Sinematik aydınlatma yoğunlaşıyor ve ardından ekran karararak sona eriyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075172932792254464/img/-JF8X4hZDCSe2lKd.jpg" width="600" alt="Pug'dan Kurda Yansıma Dönüşümü">
-
-**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2075173227651887525)**
-
-**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2075173227651887525) | **Yayınlandı:** Jul 9, 2026
-
----
-### Animasyonlu Seyahat Posteri Kartpostalı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sabit bir seyahat posterini; sürüklenen bulutlar ve parıldayan okyanus efektleriyle hareketli bir kartpostala dönüştürmek için kısa ve etkili bir komut.
-
-#### 📝 İstem
-
-```
-bu seyahat posterini hareketli bir kartpostala dönüştür: bulutlar sürüklensin, martılar kadrajdan geçsin, okyanus parıldasın, rahat bir kamera salınımı olsun, 10 sn
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074873385452978176/img/cndIiE_44XHPMYim.jpg" width="600" alt="Animasyonlu Seyahat Posteri Kartpostalı">
-
-**[🎬 Videoyu izle →](https://x.com/getimg_ai/status/2074948887698096374)**
-
-**Yazar:** [getimg.ai](https://x.com/getimg_ai) | **Kaynak:** [Link](https://x.com/getimg_ai/status/2074948887698096374) | **Yayınlandı:** Jul 8, 2026
-
----
-### Vahşi Batı Dinozor Macerası Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kovboyların kanyonlar ve ovalarda dinozorlara bindiği, gün doğumu ve gün batımı ışıklandırmasına sahip tarih öncesi bir Vahşi Batı'yı betimleyen sinematik video istemleri serisi.
-
-#### 📝 İstem
-
-```
-Sinematik takip çekimi, Vahşi Batı'daki görkemli kızıl kaya kanyonu üzerinde gün doğumu. Geleneksel sınır bölgesi kıyafetleri içindeki bir kovboy, büyük bir Pterosaur'un sırtında, engebeli arazinin üzerinde süzülerek ilerliyor. Fotogerçekçi, 4k, hacimsel ışıklandırma.
-
-Alacakaranlıkta geniş genel çekim. Bir kovboy, çimenli bir ovada sıcak bir kamp ateşinin yanında oturmuş dinleniyor. Hemen arka planda, ahşap bir vagona koşulmuş devasa ve gerçekçi bir Triceratops huzur içinde dinleniyor. Yumuşak, sinematik alacakaranlık ışıklandırması.
-
-Gündüz vakti tozlu bir çölde düşük açılı takip çekimi. Eyer ve yük ile donatılmış devasa bir Brachiosaurus, daha küçük dinozorlardan oluşan hareketli bir sürü ve onlara binen kovboylar eşliğinde ekran boyunca görkemli bir şekilde yürüyor. Lens parlamaları ve atmosferik toz.
-
-Gece vakti dramatik silüet çekimi. Bir kovboy, iki saldırgan ve tüylü raptorun arasında, elinde revolver ile nişan almış şekilde duruyor. Sahne, arkalarındaki yanan bir yapıdan yükselen devasa ve gürleyen ateşle parlak bir şekilde arkadan aydınlatılıyor. Yüksek kontrast, aksiyon odaklı.
-
-Altın saat gün batımı sırasında epik geniş silüet çekimi. Bir kovboy, düz çöl ovasında yavaşça yürüyen devasa bir Tyrannosaurus Rex'in üzerinde ilerliyor. Devasa güneş ufukta alçalarak çarpıcı ve güzel bir final görüntüsü oluşturuyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074810577088557056/img/WEj2e5ODrGlSwDyN.jpg" width="600" alt="Vahşi Batı Dinozor Macerası Sekansı">
-
-**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2074810751898841468)**
-
-**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2074810751898841468) | **Yayınlandı:** Jul 8, 2026
-
----
-### Pastel Mürekkep Fantezi Çift Dansı MV
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Belirgin görsel efektlere (VFX), pastel mürekkep estetiğine ve senkronize el çizimi efektlere sahip iki karakterin yer aldığı, yüksek kaliteli ve stilize bir müzik videosu oluşturmak için kapsamlı bir komut.
-
-#### 📝 İstem
-
-```
-2 adet referans görseli kullanın. 1. görseli Kişi A, 2. görseli Kişi B olarak kabul edin. Kişi A ve Kişi B'yi, referans görsellerindeki yüz hatlarını, saç stilini, vücut tipini, ifadeyi, kostüm izlenimini, atmosferi ve karakter kimliğini koruyarak canlı çekim bir müzik videosunda (MV) yer alan karakterler olarak temsil edin. İki kişiyi birbirine karıştırmayın. Yüzleri, saç stillerini, kostümleri, fiziksel yapıları, enerjileri, görsel efektleri veya karakter özelliklerini değiştirmeyin. Her bir referans görselinin bireysel kişiliğini koruyun ve onları net bir şekilde ayrı bireyler olarak betimleyin. Referans görsellerindeki karakteristik süslemeleri veya silüetleri, canlı çekim bir MV için fantezi kostümleri olarak doğal bir şekilde entegre edin. Gerçekçi dokuları, saç sallanmasını, kumaş hareketini, aksesuar yansımalarını, cilt dokusunu ve ışık-gölge oyunlarını gösterin. Genel tarz, sevimli, zarif ve şeffaf bir canlı çekim fantezi MV'si olmalıdır. Arka plan gerçek bir dünya mekanı değil, canlı çekim MV için bir 'Pastel Mürekkep Rüya Sahnesi'dir. Yumuşak beyaz bir stüdyo alanını; soluk mürekkep, sulu boya ışığı, yarı saydam cam, sallanan ipek kumaş, şeffaf halkalar, hafif yansıtıcı bir zemin, uçuşan kağıt parçaları, sabun köpüğü benzeri daireler ve yıldız tozu parçacıkları ile düzenleyin. Süt beyazı, bebek mavisi, lavanta, soluk pembe, krem sarısı, nane yeşili ve ince camgöbeği gibi yumuşak pastel renklere odaklanın. Renkler güçlü ışık yaymamalı, hafifçe birbirine karışıyormuş gibi görünmelidir. Arka plan en baştan itibaren statik değildir; 118 BPM ile senkronize bir şekilde soluk mürekkep bulutları, sulu boya ışığı, şeffaf halkalar, cam yansımaları, kumaş ve ışık parçacıkları yavaşça genişler, akar, sallanır ve erir. Hem sevimli mürekkep tarzı görsel efektler hem de narin el çizimi efektler ekleyin. Mürekkep; şeffaf sulu boya, soluk fırça izleri, sütlü sıçramalar, küçük mürekkep taneleri ve havada yayılan bulanıklıklar olarak sunulur. El çizimi efektler; ince beyaz çizgiler, soluk pastel ana hatlar, küçük yıldızlar, ince şimşekler, el çizimi hız çizgileri, dalgalı çizgiler ve ışıltılı izler olarak anlık belirir. El çizimi sıcaklığını korumak için çizgileri hafifçe titretin. Kişi A'nın görsel efektleri; omuzlar, bilekler, ayaklar ve dönüşlerle tepkimeye giren ince çizgiler, şeffaf halkalar, sıvı cam dalgalanmaları ve keskin el çizimi izlerle keskin ve şeffaf olmalıdır. Kişi B'nin görsel efektleri; parmak uçları, saç, kostümler ve dönüşlerle tepkimeye giren soluk mürekkep bulanıklıkları, yıldız tozu, küçük ışık çiçekleri, yumuşak kurdele benzeri fırça darbeleri ve el çizimi ışıltılarla yumuşak ve tatlı olmalıdır. Yaklaştıkları anda, Kişi A'nın halka görsel efektleri ile Kişi B'nin yıldız tozu görsel efektleri, ayrılmadan hemen önce soluk ışık dalgalanmaları olarak anlık bir şekilde örtüşür. Görsel efektler; yüzleri, gözleri, vücut hatlarını, uzuvları, kostüm detaylarını veya dansı gizlememelidir. Kostümler, referans görselinin dünya görüşünü koruyarak; parlak malzemeler, katmanlar, kısa ceketler, sallanan kumaşlar, zincirler, kemerler, kurdeleler, aksesuarlar, botlar, eldivenler, metalik parçalar, şeffaflık ve vurgu renkleri eklenerek canlı çekim bir MV için göz alıcı bir şekilde yeniden tasarlanmıştır. Kişi A ve Kişi B bir çift olma hissini verir ancak kostüm ve görsel efekt kişilikleri net bir şekilde ayırt edilir. Saç, kumaş, kurdeleler, aksesuarlar ve karakteristik süslemeler dansla birlikte doğal bir şekilde sallanır. İfadeler sevimli ve dengelidir, çift benzeri bir mesafe gösterir. Biri kameraya baktığında diğeri partnerine veya hafifçe uzağa bakar; aynı anda aynı ifadeyi yapmazlar. Genel izlenim, soluk pastel mürekkep dünyasında bir çift dansı MV'sinde 1. ve 2. görselin canlı çekim karakterizasyonudur. Kişi A havalı ve keskindir; Kişi B yumuşak ve göz alıcıdır. Arka plan sevimlidir ancak ucuz görünmez, şeffaf sulu boya mürekkebi ve el çizimi görsel efektlerle güzel bir şekilde hareket eder. Yüzlere, saç stillerine, vücut tiplerine, ifadelere ve silüetlere öncelik verin. Metin bindirmeleri, altyazılar, logolar veya okunabilir karakterler olmasın. Grafiti, sprey sanatı, güçlü neon, siber tarz veya normal manzara arka planları olmasın. İnsanların çoğaltılması, yeni insanlar, mükemmel senkronizasyon, simetrik kopyalama, sabit durma veya sadece yürüme olmasın. Bir veya daha fazla referans görseli kullanın. Referans görsellerindeki tüm kişi/karakterleri başrol olarak kabul edin. 1 görsel varsa 1 kişiyi, 2 görsel varsa 2 kişiyi, 3 görsel varsa 3 kişiyi aynı videoda aynı anda görünecek şekilde işleyin. 15 saniye, 60fps. İdol konseptli MV tarzında yüksek kaliteli bir dans videosu. Kısa bir MV için uygun bir tempo, sevimli koreografi ve senkronize el çizimi 2D efektler sağlayın. Saç, kıyafet, aksesuar, el, adım, dönüş, bakış ve efektler için akıcı hareketleri tanımlayın. Herkesi aynı arka plana, çekim alanına ve MV sahnesine yerleştirin. Her referans görseli için arka planı değiştirmeyin. Kişi başına farklı sahnelere bölmeyin. Karakterleri yarı yolda değiştirmeyin. Onları tek tek tanıtmayın. Birden fazla referans görseli için her birini bağımsız bir kişi olarak kabul edin. Yüzleri, saç stillerini, saç renklerini, yapıları, kostümleri, aksesuarları, cinsiyetleri, yaş aralıklarını veya enerjileri karıştırmayın. Onları aynı yüz, saç veya kıyafetle bir çift yapmayın. Erkek ve kadın referansları kullanıyorsanız, onları net bir şekilde erkek ve kadın olarak koruyun. Doku, sanat tarzı, atmosfer ve kişilik dahil olmak üzere referans görsellerindeki karakterizasyonu korumaya öncelik verin. Referanslar arasında dokular farklı olsa bile, her karakter için bireysel tutun. Herkese tek tip bir sanat tarzı dayatmayın. Tam vücut veya kostümler görünmüyorsa, bunları her görseldeki renkler, malzemeler, silüetler ve karakter özelliklerine göre doğal bir şekilde tamamlayın. Tamamlayıcı parçalar, ilgili referans görseliyle aynı yönde olmalıdır. Diğer karakterlerden özellik ödünç almayın. Arka planı tek bir ortak MV çekim alanı olarak sabitleyin: kapalı bir stüdyo, pencere kenarında bir oda veya basit bir çekim alanı. Yumuşak doğal ışık ve herkesin başrol gibi göründüğü düzenli bir arka plan kullanın. Konumu çekim başına değiştirmeyin; sadece aynı alan içindeki kamera açılarını değiştirin. Atmosfere (parlak, soluk, sakin, nemli, serin, sevimli vb.) göre ayarlayarak tek bir idol konseptli MV alanı oluşturmak için referans görsellerindeki ortak noktaları analiz edin. Müzik Japonca bir şarkıdır; gerçek mevcut şarkıları kullanmayın. Video konsepti, tüm karakterlerin aynı alanda birlikte sevimli ve etkileyici bir şekilde dans ettiği kısa bir konsept MV'dir. Öncelik: herkesin aynı anda var olması, herkesin sevimli görünmesi, MV'nin akılda kalıcı olması ve dansın el çizimi 2D efektlerle bütünleşmesidir. Herkesin görünür olması için yan yana, üçgen, çapraz veya ön-arka düzenlemeleri kullanın. Herkes aynı anda dans eder; solo kısımlar, sabit durma veya ayrı konum yönetimi yoktur. Şablon 'sevimlilik' kullanmayın; tutarlı bir idol konsepti sevimliliği oluşturmak için referansları analiz edin. Parlak karakterler: enerjik sevimlilik. Sakin karakterler: zarif sevimlilik. Havalı karakterler: utangaç veya dengeli sevimlilik. Eterik karakterler: yumuşak sevimlilik. Sokak tarzı karakterler: sert ve oyuncu sevimlilik. Koreografi: 1 kişi ise solo dans, 2+ kişi ise grup dansı. Senkronize anları ve bireyselliği gösteren anları dahil edin. Elleri, omuzları, boynu, beli, ayakları, bakışları, dönüşleri ve pozları doğal bir şekilde kullanın. Hareketler sevimli, taklit etmesi kolay ve akılda kalıcı olmalıdır. Aşırı çocuksu, aşırı seksi, aşırı yoğun, doğal olmayan zıplamalar veya rastgele hareketler olmasın. El çizimi 2D efektler, karakter analizine göre otomatik olarak oluşturulur. Şekillerin, çizgilerin, dokuların, renklerin, yoğunluğun ve zamanlamanın herkese uygun olduğundan emin olun. Karakterlere gerektiğinde renk/çizgi stilinde hafif varyasyonlar vererek ekranı tek bir MV tasarımıyla birleştirin. Efektler, video üzerine kompoze edilmiş, pastel boya, kurşun kalem, yağlı pastel veya soluk mürekkep gibi kaba, sevimli 2D animasyonlara benzeyen el çizimi hareketli grafiklerdir. Bunları eller, yüzler, ayaklar, vücut hareketleri, dönüşler, bakışlar ve pozlarla senkronize edin. Bir kişiyi kayırmadan ekran genelinde dengeleyin. Yüzleri veya vücutları çok fazla gizlemeyin. 5 kamera ile çekilmiş gibi yapılandırın ve her 2 saniyede bir geçiş yapın: Ön, Üst, Sol, Sağ, Arka. Aynı arka plan alanını koruyun, sadece açıları değiştirin. Tam vücut veya diz üstü grup çekimleri dahil olmak üzere herkesin görünür olduğu kompozisyonlara öncelik verin. İnsanları kadraj dışı bırakan yakın çekimler olmasın. Kamerayı tamamen sabitlemeyin; ritme göre hafifçe sallayın (küçük sıçramalar, punch-in'ler, hafif sallanmalar). Dağınık el kamerası sarsıntısı kullanmayın. 0.0-2.0s: Ön kamera. Herkes aynı arka planda görünür. Tam vücut veya diz üstü. Yan yana veya formasyonda düzenleyin. Herkes ritmik olarak sevimli bir giriş pozu ve kişiliğine uygun küçük adımlar atar. Eller ve yüzler yakınında atmosfere uygun el çizimi 2D efektler belirir. 2.0-4.0s: Üst kamera (tepeden). Herkes kadraja girer ve kamerayı selamlar. Bireysel karakter özelliklerini korurken yüz jestlerini ve el vurgularını koordine edin. 4.0-6.0s: Sol kamera. Vücut yönü, bel, omuzlar ve elleri kullanan kısa koreografi. Diz üstü ile tam vücut mesafesini koruyun. El çizimi efektler, hareket izlerini takip ederek herkesin üzerinde akar. 6.0-8.0s: Sağ kamera. Herkes kamerayı selamlarken ters yöne bakar. Omuzlar, eller ve ayaklarla sevimli, ritimle senkronize koreografi. Doğal bir kompozisyonla net adımlar gösterin. Referans renklerinden/şekillerinden türetilen efektler omuzlarda ve ayaklarda belirir. 8.0-10.0s: Arka kamera. Saç ve kostümler yumuşak bir şekilde sallanır. Doğal silüet kompozisyonu. Herkes omzunun üzerinden kameraya bakar, senkronize veya hafif şaşırtmalı. Efekt izleri ile dönüşler ve el pozları içerir. 10.0-12.0s: Ön kamera (Doruk noktası). Diz üstü ile tam vücut. Tüm vücudu kullanan akılda kalıcı grup koreografisi. Efekt yoğunluğunu artırın. Şekilleri/çizgileri ekrana yayın. 'Vuruşlarda' kısa kamera sarsıntıları ekleyin. 12.0-14.0s: Üst kamera. Herkes sevimli yüz/el jestleriyle yukarı bakar. El çizimi efektler ellerden yumuşak bir şekilde yayılır. Tüm yüz/saç tutarlılığını koruyun. 14.0-15.0s: Bitiş sahnesi. Öne dönük veya hafif çapraz. Danstan akan son grup pozu. İlla yüz yakın çekimi olması gerekmez; en çekici grup kompozisyonunu seçin (tam vücuttan göğüs hizasına kadar). Sonda ani yakınlaştırmalar, atlama kesmeleri veya ani yüz yakın çekimleri olmasın. Akıcı bir kamera yaklaşımı veya hafif bir duruş kullanın. Vücut hareketsizliği, el şekilleri, bakışlar ve saç/kumaşın süregelen hareketi ve kısa bir 2D efekt patlaması ile pozu vurgulayın. Kısıtlamalar: Başroller dışında karakter olmasın. Birden fazla referansı tek bir kişide birleştirmeyin. Erkek ve kadın yüzlerini karıştırmayın. Saç stillerini/kostümleri değiştirmeyin. İkizleştirme yapmayın. Sadece aynı arka planı paylaşıyorlar diye karakter özelliklerini ortaklaştırmayın. Referanslarla çelişen kostümler olmasın. Karakterlerle tutarsız pozlar/ifadeler/ikonlar/renkler olmasın. Her efekt/jest için aynı şablonu kullanmayın. Dansın ve efektlerin mükemmel şekilde senkronize olduğundan emin olun. Efektler koreografinin bir parçası olmalı, çok zayıf olmamalıdır. Patlama, ateş, duman, aşırı hata (glitch) veya gösterişli büyü olmasın. Metin, altyazı, logo veya filigran olmasın. 15 saniyenin tamamını 60fps'de akıcı bir şekilde oluşturun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074800449652424704/img/XC2gobNaI_RucnzU.jpg" width="600" alt="Pastel Mürekkep Fantezi Çift Dansı MV">
-
-**[🎬 Videoyu izle →](https://x.com/sailorv321/status/2074805393294004436)**
-
-**Yazar:** [C’est La Vie | AI Director](https://x.com/sailorv321) | **Kaynak:** [Link](https://x.com/sailorv321/status/2074805393294004436) | **Yayınlandı:** Jul 8, 2026
-
----
-### Anime Tarzı İdli Hazırlama Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Geleneksel Güney Hindistan idlisi hazırlamak için POV çekimler ve yakın plan yemek fotoğrafçılığı içeren, adım adım detaylandırılmış bir anime montaj istemi.
-
-#### 📝 İstem
-
-```
-Diyalog içermeyen, 10 saniyelik, hızlı tempolu ve sessiz bir anime yemek hazırlama montajı. 
-Sekans: Pirinç ve urad dal (siyah mercimek) dolu bir kabın POV açısıyla açılması → pürüzsüz fermente hamur haline gelene kadar öğütülmesi → idli kalıplarının yağlanması → hamurun kalıplara dökülmesi → kalıpların geleneksel bir buharlı pişiriciye yerleştirilmesi → mükemmel şekilde kabarana kadar buharda pişirilmesi → güzel bir Güney Hintli kızın sıcak idlileri kalıptan çıkarması → yumuşak, süngerimsi ve dumanı tüten idlilerin makro çekimi → sambar ve hindistan cevizi chutney ile servis edilen idlilerin tepeden çekimi → kızın sessizce lezzetli bir lokma alırken yakın plan çekimi → güneş alan geleneksel bir mutfak tezgahında dumanı tüten idli tabağının estetik final çekimi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074761774155616256/img/G_dRnuUbfQkF44fs.jpg" width="600" alt="Anime Tarzı İdli Hazırlama Sekansı">
-
-**[🎬 Videoyu izle →](https://x.com/snskritinaruka/status/2074761846444503180)**
-
-**Yazar:** [Sanskriti Naruka](https://x.com/snskritinaruka) | **Kaynak:** [Link](https://x.com/snskritinaruka/status/2074761846444503180) | **Yayınlandı:** Jul 8, 2026
-
----
-### Alp Dağları Bisiklet Sinematik Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir referans görselinden yüz tutarlılığını koruyarak, Alp dağları yolunda yüksek hızlı bir bisiklet inişi için detaylı sinematik komut dosyası.
-
-#### 📝 İstem
-
-```
-Ana karakter için TEK kimlik referansı olarak ekteki kadın referans görselini kullanın.
-
-Her kare boyunca tam yüz tutarlılığını koruyun.
-
-Süre: 10 saniye.
-
-İlk kare, karakterin yüksek hızda birinci sınıf bir karbon yol bisikletiyle Alp dağ yolundan aşağı indiği anla başlar. Sabah sisi aşağıda yavaşça dağılırken, karakter kendine güvenen bir şekilde geniş virajlara yatar. Son virajdan çıkıp sonsuz vadiye tepeden baktığında güneş dağ zirvelerine ulaşır.
-
-IMAX 65mm gerçekçiliği. Premium HDR derecelendirme. Sinematik hava çekimi.
-
-Kamera:
-Halihazırda hareket halinde olan FPV drone takibi → yandan takip → tekerlek montajlı kamera → geniş hava çekimi ile ortaya çıkış.
-
-Arka Plan Müziği:
-Canlandırıcı sinematik orkestra, ritmik perküsyon, akustik gitar, duygusal yaylılar.
-
-Çevresel Ses:
-Arka göbek tıkırtısı, vites değişimleri, lastik sesi, dağ rüzgarı, kuşlar.
-
-Diyalog yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074666143852445696/img/oikKJLTsOxHizW6r.jpg" width="600" alt="Alp Dağları Bisiklet Sinematik Sekansı">
-
-**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2074666384051904670)**
-
-**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2074666384051904670) | **Yayınlandı:** Jul 8, 2026
-
----
-### Sürreal Dev Göz Manzarası Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dev bir göz kırpan göz ve küçük insan kaşiflerin yer aldığı sürreal bir manzara oluşturan Gemini için sinematik bir video istemi; 10 saniyelik detaylı hareket zaman çizelgesi ile birlikte.
-
-#### 📝 İstem
-
-```
-Fotogerçekçi sürreal manzara. Mavi irisli ve kan çanağına dönmüş sklera yapısına sahip, son derece detaylı dev bir insan gözü merkezde yavaşça kırpılıyor. Göz, her birinin içinde kırpan mavi bir göz bulunan, nabız gibi atan, kırmızı, etli, yıldız şeklindeki yapılarla çevrili. Takım elbiseli minik, gerçekçi insan figürleri etli arazide yürüyerek gözleri inceliyor.
-
-Zaman Çizelgesi (10 saniye):
-
-0-3 sn: Yavaşça kırpan dev merkezi gözün ekstrem yakın çekimi. Fotogerçekçi iris dokularına ve kan damarlarına odaklanın.
-
-3-6 sn: Kamera yavaşça geri çekiliyor. Çevredeki kırmızı, etli yıldız yapıları nabız gibi atmaya başlıyor. Daha küçük gözler telaşla etrafa bakınıyor.
-
-6-10 sn: Ölçeği belirleyen geniş çekim. Minik insan figürleri etli arazide yürüyor ve tüm gözler kameraya odaklanırken yapıları inceliyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2074493433201221632/img/OO2qM-98wUw2rXi4.jpg" width="600" alt="Sürreal Dev Göz Manzarası Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2074493655843258788)**
-
-**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2074493655843258788) | **Yayınlandı:** Jul 7, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
 
 <div align="center">
 
-### 🎯 96 burada gösterilmeyen daha fazla istem
+### 🎯 100 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 100 prompts in this README.
 
@@ -3020,6 +2700,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-29T02:42:52.478Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-29T10:48:50.589Z</sub>
 
 </div>
