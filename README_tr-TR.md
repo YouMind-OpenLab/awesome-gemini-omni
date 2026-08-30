@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **208** |
+| 📝 Toplam İstem | **216** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-30** |
 
@@ -56,6 +56,186 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Agresif Çöl Drift Sineması
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Altın kum tepelerinde yüksek hızlı drift, dramatik kamera takibi ve POV çekimlerine odaklanan sinematik bir otomotiv istemi.
+
+#### 📝 İstem
+
+```
+agresif drift, altın kum tepeleri, kum fırtınaları ve premium otomotiv sineması, POV'lar, dramatik takip
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093957432380940288/img/gaSPtVaytRj2YWif.jpg" width="600" alt="Agresif Çöl Drift Sineması">
+
+**[🎬 Videoyu izle →](https://x.com/itsSSS1510/status/2093957642444292264)**
+
+**Yazar:** [Sheetal Shinde](https://x.com/itsSSS1510) | **Kaynak:** [Link](https://x.com/itsSSS1510/status/2093957642444292264) | **Yayınlandı:** Aug 30, 2026
+
+---
+### Fütüristik Zombi Motosiklet Takibi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Neon detaylı bir motosiklet üzerinde zombi sürüsünden kaçan bir ana karakterin yer aldığı, aksiyon dolu 3D animasyon sinematik sekansı.
+
+#### 📝 İstem
+
+```
+Yüksek tempolu 3D animasyon sinematik aksiyon sahnesi. Kısa gümüş-beyaz saçlı, alnında havacı gözlüğü olan, üzerinde parlayan mavi neon detaylı şık siyah deri bir kıyafet ve arkasında dalgalanan uzun koyu renkli bir palto bulunan genç bir kadın ana karakter. Karakter, parlayan macenta-pembe neon tekerleklere ve camgöbeği şasi detaylarına sahip, yüksek hızlı fütüristik bir bilim kurgu motosikleti kullanıyor. Terk edilmiş arabalarla dolu, yağışlı ve kapalı havalı bir otoyolda hızla ilerlerken, agresif zombilerden oluşan devasa bir sürü tarafından kovalanıyor. Dinamik kamera açıları, virajları dönerken etrafa saçılan parlak kıvılcımları, ağır çekim mermi zamanı efektleriyle zıplayan zombilere tabancayla ateş etmesini ve kalabalığın üzerinden yaptığı devasa havada akrobatik atlayışı yakalıyor. Karamsar sinematik aydınlatma, canlı pembe ve camgöbeği neon kontrastıyla koyu renk derecelendirme, kapalı havalı gün ışığı, fotogerçekçi dokular, aksiyon filmi estetiği, 8k çözünürlük, hiper detaylı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093925475324510208/img/v_VZ8mF6rGkOv_5Y.jpg" width="600" alt="Fütüristik Zombi Motosiklet Takibi">
+
+**[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2093925571311051143)**
+
+**Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2093925571311051143) | **Yayınlandı:** Aug 30, 2026
+
+---
+### Chisato Nishikigi Anime Animasyonu
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Lycoris Recoil'den Chisato Nishikigi'nin okul ortamında motivasyon verici cümleler haykırdığı, Gemini Omni 1.1 Flash için bir animasyon istemi.
+
+#### 📝 İstem
+
+```
+Okulun içinde, ciddi bir yüz ifadesiyle "Kontrol edemeyeceğin şeyler için endişelenmenin bir anlamı yok!", "Kabul et, elinden gelenin en iyisini yap!" ve "Genellikle, iyi şeyler o zaman olur" diye bağıran Lycoris Recoil'den Chisato Nishikigi'nin bir animasyon videosunu oluştur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093832991349039104/img/P3M3vM1hpfhHcF_-.jpg" width="600" alt="Chisato Nishikigi Anime Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/secondenalist/status/2093833007178436988)**
+
+**Yazar:** [兼業エナリスト](https://x.com/secondenalist) | **Kaynak:** [Link](https://x.com/secondenalist/status/2093833007178436988) | **Yayınlandı:** Aug 29, 2026
+
+---
+### Doğu Asya Cilt Bakımı Reklam Videosu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Makro cilt detayları, zarif organik hareketler ve minimalist estetik içeren, üst düzey bir cilt bakımı reklamı için sinematik video istemi.
+
+#### 📝 İstem
+
+```
+Doğu Asyalı bir kadının gözlerinin aşırı makro yakın çekimi, nemli cilt, yüzünde keskin gölgeler oluşturan dramatik doğal güneş ışığı. Parlak mavi bir gökyüzü altında, dış mekanda çekilmiş düşük açılı orta çekime doğrudan geçiş; kadın, uçuşan yarı saydam beyaz kumaş perdelerin arasında duruyor ve minimalist bej renkli bir Kore güneş kremi tüpünü doğrudan lense doğru uzatıyor. Beyaz kremi elmacık kemiklerine pürüzsüzce uyguladığı süper yakın makro çekime geçiş. Yumuşak organik hareketler, esintide dalgalanan ince beyaz perdeler, cam gibi nemli cildi üzerinde dans eden sanatsal pencere gölgeleri. Minimalist Kore cilt bakımı reklam estetiği, ultra detaylı cilt dokusu, zarif, dingin, lüks stüdyo aydınlatması, yüksek kontrastlı doğal ışık, sinematik sıcak tonlar, 8K çözünürlük, gerçekçi ve canlı, 24fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093726929086214144/img/CvDq4auc7HWLhePT.jpg" width="600" alt="Doğu Asya Cilt Bakımı Reklam Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/GeekCatX/status/2093727235262075091)**
+
+**Yazar:** [知识猫AI实验室](https://x.com/GeekCatX) | **Kaynak:** [Link](https://x.com/GeekCatX/status/2093727235262075091) | **Yayınlandı:** Aug 29, 2026
+
+---
+### Makro Logo Nakış Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Marka logosunun kumaş üzerine işlenmesini gerçekçi dokular ve ışıklandırmayla canlandıran özel bir makro hızlandırılmış çekim (timelapse) istemi.
+
+#### 📝 İstem
+
+```
+“Dokuma pamuklu gömlek kumaşının aşırı makro çekimi, başlangıçta boş. Renkli nakış iplikleri yüzeyden yükseliyor ve kendiliğinden yerlerine dokunarak, yüklenen logoyu takip edecek şekilde sıra sıra sıkı saten dikişler oluşturuyor. İşlenmiş alan kare boyunca istikrarlı bir şekilde büyüyor, iplik geriliyor ve tam logo tamamlanana kadar üç boyutlu nakış dokusuna dönüşüyor. Kamera sabit, yavaş ve tatmin edici bir hızlandırılmış çekim temposunda. Yumuşak doğal yan ışık, sığ alan derinliği, görünür kumaş lifleri ve gerçekçi iplik parlaklığı. El yok, iplikler kendi kendine hareket ediyor. Tek çekim, sahne değişimi yok.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093672520440246272/img/4hzIWVYpdKZg9p_D.jpg" width="600" alt="Makro Logo Nakış Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/codecloude/status/2093672581907742963)**
+
+**Yazar:** [Code cloud E.commerce | کد کلاد](https://x.com/codecloude) | **Kaynak:** [Link](https://x.com/codecloude/status/2093672581907742963) | **Yayınlandı:** Aug 29, 2026
+
+---
+### Yapılandırılmış Nescafé Ürün Tanıtımı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir kahve tarlasının ürün kavanozuna dönüştüğü profesyonel bir kahve reklamı için teknik JSON formatında istem.
+
+#### 📝 İstem
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "tek, kesintisiz ve sürekli çekim, sahne geçişi yok",
+    "composition": "güneşli bir kahve tarlasında ultra geniş açıyla başlar, havada süzülerek yükselen çekirdekleri takip eder, merkezde havada asılı duran Nescafé kavanozunun yakın planıyla biter",
+    "lens": "kahve tarlası sıraları için telefoto, ürün tanıtımı için 35mm",
+    "frame_rate": "24fps sinematik",
+    "camera_movement": "dönen çekirdekleri takip eden yavaş bir yükseliş, ardından kavanoz şeklini alırken yumuşak bir ileri dolly hareketi, havada asılı duran ürün üzerinde sabit kalış"
+  },
+  "timeline": {
+    "0-3s": "Altın saatte ultra geniş açılı yamaç kahve tarlası. Bitki sıraları arasındaki toprakta dağılmış kavrulmuş kahve çekirdekleri. Sıcak gün sonu güneşi, uzun yumuşak gölgeler, yapraklarda hafif bir esinti.",
+    "3-7s": "Çekirdekler yerden yükselir ve yavaş, zarif, düzenli spiraller halinde döner. Havada birleşerek premium bir kahve kavanozunun tam silüetini oluştururlar. Hafif parçacık türbülansı ve parlayan çekirdek kenarları.",
+    "7-10s": "Çekirdek formu bir kez titreşir ve merkezde ağırlıksız bir şekilde asılı duran gerçek bir Nescafé kahve kavanozuna dönüşür. Ürün üzerinde sabit kalır. Altın rengi kenar ışığı."
+  },
+  "subject": {
+    "description": "premium bir kahve kavanozu silüeti oluşturmak için zarif spiraller halinde yükselen ve dönen yüzlerce kavrulmuş kahve çekirdeği",
+    "props": "dönen çekirdeklerden oluşan nihai Nescafé kahve kavanozu, ardından havada asılıyken gerçek markalı ambalaja dönüşüm"
+  },
+  "scene": {
+    "location": "açık yamaç kahve tarlası",
+    "time_of_day": "gün sonu altın saati, alçak güneş, uzun gölgeler",
+    "environment": "ılık esinti, tarla sıralarında yumuşak gölgeler, havada serbest çekirdekler"
+  },
+  "visual_details": {
+    "action": "çekirdeklerin yükselmesi, düzenli spiraller halinde dönmesi, kavanoz ana hatlarına kilitlenmesi, titreşmesi ve ardından boşlukta asılı duran bitmiş Nescafé ambalajına dönüşmesi",
+    "special_effects": "çekirdek parçacık animasyonu, ağır çekim türbülansı, havada malzeme dönüşümü, hafif havada süzülme ışıltısı"
+  },
+  "cinematography": {
+    "lighting": "sıcak yönlü güneş ışığı, parlayan çekirdek kenarları, havada asılı kavanoz üzerinde altın rengi kenar ışığı",
+    "color_palette": "zengin kahverengiler, derin siyahlar, kehribar altın tonları, doğal yeşiller",
+    "tone": "doğal, sofistike, premium şıklık"
+  },
+  "audio": {
+    "music": "yumuşak perküsyon ve ortam piyano tınılarıyla desteklenen hafif akustik gitar",
+    "ambient": "hışırdayan yapraklar, uzaktan gelen kuş sesleri, kahve sıraları arasından esen rüzgar",
+    "sound_effects": "çekirdek girdabı yükselişi, form tamamlandığında kilitlenme sesi, havada süzülme altında hafif bir uğultu",
+    "mix": "havadar, açık, doğa odaklı ve sıcak bir müzikal merkez"
+  },
+  "constraints": {
+    "dialogue": "yok",
+    "voiceover": "yok",
+    "on_screen_text": "yok",
+    "captions": "yok",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093639810439364608/img/xIwz_L8uOYOcvixG.jpg" width="600" alt="Yapılandırılmış Nescafé Ürün Tanıtımı">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2093639917226311970)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2093639917226311970) | **Yayınlandı:** Aug 29, 2026
+
+---
+### Patlayan Kahve Makinesi Aksiyon Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Neon ışıklı bir ortamda patlama, enkaz fiziği ve karakter etkileşimini içeren aksiyon dolu bir istem.
+
+#### 📝 İstem
+
+```
+kahve makinesi patlıyor, enkaz dedektiflerin takım elbiselerine saçılıyor ve neon "AÇIK" tabelası ışık yansıtıyor. Ardından, bomba imha ekibine geçiş yapın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093577406409793536/img/DAV6eWZiwc3SnNIs.jpg" width="600" alt="Patlayan Kahve Makinesi Aksiyon Sahnesi">
+
+**[🎬 Videoyu izle →](https://x.com/machina9000/status/2093577478941929615)**
+
+**Yazar:** [Daniił Vołkaū](https://x.com/machina9000) | **Kaynak:** [Link](https://x.com/machina9000/status/2093577478941929615) | **Yayınlandı:** Aug 29, 2026
+
+---
 ### Chrome Robot Reklam Metni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -136,6 +316,25 @@ Kamera: makro yakın çekimler, akıcı takip çekimleri, minik düşük açıl�
 **[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2093541403796353389)**
 
 **Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2093541403796353389) | **Yayınlandı:** Aug 29, 2026
+
+---
+### 4 Yaşındaki Çocuk Zombi Oyunu Yayıncısı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 4 yaşındaki bir çocuğun oyun yayını yaptığı bir videoyu oluşturmaya yönelik komut. Oyunda şırıngalarla zombilerle savaşan bir hemşire karakteri yer alıyor ve modelin Portekizce konuşması talimatı veriliyor.
+
+#### 📝 İstem
+
+```
+Ana karakterin şırıngayla zombilerle savaşan bir kadın hemşire olduğu bir oyunu oynayan ve yorumlayan 4 yaşındaki çocuk yayıncı. Çocuk referans olması için eklenmiştir. Portekizce konuş.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093506685738336256/img/bizbnu_Y4olNg2jx.jpg" width="600" alt="4 Yaşındaki Çocuk Zombi Oyunu Yayıncısı">
+
+**[🎬 Videoyu izle →](https://x.com/gudesouzalima/status/2093506705996796413)**
+
+**Yazar:** [Gustavo de Souza](https://x.com/gudesouzalima) | **Kaynak:** [Link](https://x.com/gudesouzalima/status/2093506705996796413) | **Yayınlandı:** Aug 29, 2026
 
 ---
 ### Çöl Ninjası Gün Batımı Hesaplaşması
@@ -2390,264 +2589,6 @@ Diyalog yok.
 **Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **Yayınlandı:** Jul 16, 2026
 
 ---
-### Huzurlu Kitaplık Düzenleme Vlog'u
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genç bir kadının kitaplarını düzenlediği, tatmin edici ASMR sesleri ve doğal ışık içeren, el tipi mini DV kamera estetiğinde bir vlog için detaylı video istemi.
-
-#### 📝 İstem
-
-```
-KAMERA / GÖRÜNÜM: Öznenin bizzat kendisi tarafından çekilen el tipi mini DV kamera görüntüleri. Hafif el titremesi, ara sıra odak arayışı, kusurlu kadraj, doğal yakınlaştırma ayarları, yumuşak kaset benzeri görüntü kalitesi, hafif gren, sıcak öğleden sonra ışığından kaynaklanan gerçekçi otomatik pozlama değişimleri. Doğal cilt tonları, hafif hareket bulanıklığı, otantik tüketici tipi kamera estetiği.
-STİL: Nazik ASMR öğeleri içeren huzurlu kitaplık düzenleme vlog'u. Rahat bir tempo, minimal diyalog, doğal anlar. Tatmin edici seslere odaklanma: sayfaların çevrilmesi, kitap sırtlarının tıkırtısı, toz bezinin silme sesi, rafın hafif gıcırtısı.
-ÖZNE: 20'li yaşlarının başında, uzun dalgalı saçlı, büyük beden flanel gömlekli, okuma gözlüğü kafasında olan genç bir kadın. Düzenleme yaparken sakin ve düşünceli bir enerji.
-MEKAN: Sessiz bir hafta sonu öğleden sonrasında küçük bir okuma köşesi. Perdelerden süzülen sıcak ışık, yarı boş bir kitaplık, yerde kitap yığınları.
-SENARYO TASLAĞI:
-→ (2sn, sabit orta çekim) Kamerayı yan sehpaya yerleştirir, kitaplığın yakınına oturur. "Sonunda kitaplarımı renge göre düzenliyorum."
-→ (2sn, tepeden çekim) Kitapları raftan indirir, yığınlar halinde sıralar.
-→ (2sn, yakın çekim) Boş rafın tozunu bir bezle siler.
-→ (2sn, el tipi çekim) Eski bir kitabın sayfalarını çevirir, bir sayfada duraksar. "Buna sahip olduğumu bile unutmuşum."
-→ (2sn, detay çekim) Kitapları renge göre düzenler, yerlerine kaydırır. Diyalog yok.
-→ (2sn, orta çekim) Rafa küçük bir bitki ve mum ekler. "Sadece biraz dekorasyona ihtiyacı var."
-→ (2sn, makro çekim) Kitap sırtlarını düzeltir, hizalamak için tıklar.
-→ (2sn, sabit çekim) Düzenlemeyi uzaktan kontrol etmek için geri çekilir.
-→ (2sn, sıcak kapanış çekimi) Bitmiş rafı hayranlıkla izler, mutlu bir gülümseme. "Çok daha iyi oldu."
-→ (1.5sn, final çekimi) Kameraya doğru uzanır. "Yakında görüşürüz." Kayıt biterken el lensi kapatır.
-SES NOTLARI: Sayfa çevirme, toz silme ve kitap kaydırma gibi doğal ortam sesleri net bir şekilde duyulmalıdır. Diyaloglar kısık sesli ve gündelik olmalıdır.
-GERÇEKÇİLİK NOTLARI: Otantik vücut dili, doğal göz kırpma, samimi gülümsemeler, ara sıra düşünme duraksamaları, kusurlu kadraj, odak nefes alıp verişleri, sıcak öğleden sonra ışığı değişimleri. Ticari bir prodüksiyon gibi değil, tüketici tipi bir kamerayla çekilmiş gerçek bir kişisel düzenleme vlog'u gibi görünmelidir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077761124582543360/img/NROUVc0jpf1UZ9LZ.jpg" width="600" alt="Huzurlu Kitaplık Düzenleme Vlog'u">
-
-**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2077761335585280363)**
-
-**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2077761335585280363) | **Yayınlandı:** Jul 16, 2026
-
----
-### Çöl Kanyonu FPV Drone Tanıtımı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Engebeli çöl kanyonlarında geçen yüksek hızlı sinematik FPV drone sekansı ve güneşli bir platoda gerçekleşen çarpıcı ürün tanıtımı.
-
-#### 📝 İstem
-
-```
-{
-  "description": "Şafak vaktinde dramatik çöl kayalıklarının çok üzerinde başlayan yüksek hızlı sinematik FPV drone çekimi. Drone, engebeli kayalık kanyonlara dik bir dalış yaparak kum tepelerinin üzerinden süzülüyor ve devasa kırmızı taş duvarların arasından hızla geçiyor. Drone hızlandıkça rüzgar toz bulutlarını havalandırıyor; doğal kaya kemiklerinin ve güneşli sırtların arasından kıl payı geçiyor. Orta kısımda, drone geniş ve açık bir çöl platosuna çıktıkça hareket yavaşlıyor ve engebeli bir taş levha üzerinde duran, sabah ışığında yoğunlaşmış damlacıkları parlayan buz gibi bir Red Bull kutusu ortaya çıkıyor. Metin yok.",
-  "style": "sinematik, hiper gerçekçi ekstrem spor reklamı",
-  "camera": "agresif yüksek hızlı kanyon geçişli birinci şahıs FPV drone perspektifi, yumuşak ve kontrollü yavaş sinematik tanıtıma geçiş",
-  "lighting": "sıcak vurgulara sahip erken gün doğumu ışığı, kaya oluşumları üzerinde güçlü kenar aydınlatması, yüksek kontrastlı gölgeler; Red Bull kutusu üzerinde keskin yansımalar ve yoğunlaşma vurguları",
-  "environment": "kırmızı kaya uçurumları, dar kanyonlar, kum tepeleri, rüzgarla savrulan tozlar ve açık bir plato düzlüğü içeren geniş çöl manzarası",
-  "motion": "keskin dalışlar, yakın kanyon geçişleri ve sert dönüşlerle çok hızlı hava hareketi; final tanıtımı için yavaş çekime ve pürüzsüz stabilizasyona kademeli geçiş",
-  "ending": "açık çöl platosunda güçlü ve sessiz bir an; kamera yavaşça yörüngesinde dönüp yakınlaşırken taş levhanın merkezinde duran Red Bull kutusu; enerji, tazelik ve etki vurgulanıyor",
-  "aspect_ratio": "16:9",
-  "duration": "10 saniye",
-  "text": "yok",
-  "keywords": [
-    "FPV drone",
-    "ultra hızlı sinematik hareket",
-    "çöl kanyonu geçişi",
-    "hiper gerçekçi ürün tanıtımı",
-    "enerji içeceği reklamı",
-    "yavaş çekim final",
-    "metin yok"
-  ]
-}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077736758104723456/img/Czy7V5pZUnqzGTlz.jpg" width="600" alt="Çöl Kanyonu FPV Drone Tanıtımı">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2077736805416505855)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2077736805416505855) | **Yayınlandı:** Jul 16, 2026
-
----
-### Chanel Lüks Otel Video Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için, öznenin görünümünü korurken sahneyi Chanel ürünlerini ve şık bir otel süitini içerecek şekilde değiştiren bir video-video düzenleme komutu.
-
-#### 📝 İstem
-
-```
-Gemini Omni'yi kullanarak, açtığım bu kutuyu Chanel kutusuna dönüştür; kutuyu açtığımda içinde Chanel parfümleri ve birkaç ruj olsun.
-
-Arka planı referans görselinde gösterilen şık ve lüks otel süitiyle değiştir. Benim görünümümü değiştirmeden koru.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="Chanel Lüks Otel Video Dönüşümü">
-
-**[🎬 Videoyu izle →](https://x.com/ytjessie_/status/2077522462494085236)**
-
-**Yazar:** [Jessie_Ma](https://x.com/ytjessie_) | **Kaynak:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **Yayınlandı:** Jul 15, 2026
-
----
-### Sinematik Penguen Hazine Keşfi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için, bir hazine sandığının içinde bulunan yavru penguenin yer aldığı, ses ve kamera talimatlarını içeren 10 saniyelik gerilim dolu sinematik bir istem.
-
-#### 📝 İstem
-
-```
-10 saniyelik sinematik POV video. Gece vakti, sessiz bir orman. Bir el fenerinin ışığı, yosunlarla kaplı eski, ahşap bir hazine sandığını keşfedene kadar zeminde yavaşça dolaşır. Kamera, gerilimi artırmak için hafif el kamerası hareketleriyle dikkatlice yaklaşır. Bir insan eli aşağı uzanır, sandığın kilidini açar ve kapağı yavaşça kaldırır. Hazine yerine, içinde parlayan buz kristallerinin üzerinde oturan, minyatür siyah güneş gözlüğü takmış minik, tüylü bir yavru penguen vardır. Penguen doğrudan kameraya bakar, gülümser ve net bir 👍 başparmak işareti yapmak için bir yüzgecini yavaşça kaldırır. Kamera, sevimli ifadeyi yakalamak için yakın çekime girer.
-
-Ses: Yaklaşma anında uzaktan gelen cırcır böcekleri ve hafif, gerilim dolu bir müzikle sessiz orman ambiyansı. Sandık açıldığı anda müzik, neşeli ve moral verici bir tona dönüşür. Doğal bir yetişkin erkek sesi, penguenin başparmak işaretiyle mükemmel bir şekilde senkronize olarak coşkuyla "Vay canına, harika!" der. Penguen hemen sevimli bir cıvıltıyla yanıt verir.
-
-Ultra gerçekçi, sinematik aydınlatma, son derece detaylı tüyler, etkileyici gözler, gerçekçi fizik, doğal animasyon, pürüzsüz el kamerası hareketi, sığ alan derinliği, fotogerçekçi, altyazı yok, metin yok, filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="Sinematik Penguen Hazine Keşfi">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2077310416615780646)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2077310416615780646) | **Yayınlandı:** Jul 15, 2026
-
----
-### Stop-motion Ruh Sağlığı Uygulaması Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni kullanarak 10 saniyelik stop-motion animasyon oluşturmaya yönelik kapsamlı bir video üretim istemi. Zihinsel bunalma ve bir yapay zeka destek uygulaması hakkındaki bir storyboard dizisini takip eder ve el yapımı karton estetiğine sahiptir.
-
-#### 📝 İstem
-
-```
-Sağlanan storyboard ızgara referans görselinde gösterilen olay dizisini canlandıran, tek parça ve kesintisiz 10 saniyelik bir video oluşturun. Video; Kare 1 (zihinsel bunalma), Kare 2 (tek dokunuşla kontrol), Kare 3 (yapay zeka desteği) ve Kare 4 (marka kimliği) boyunca ilerlemeli ve her sahne arasında canlı bir stop-motion zamanlamasıyla yumuşak geçişler yapmalıdır. STİL VE HAREKET YÖNERGELERİ: 12 FPS hızında, hareket bulanıklığı olmayan, el yapımı stop-motion estetiği. Kasıtlı kağıt titremesi ve görünür katman yer değiştirmeleriyle kare kare canlı hareket. Malzemeler: Katmanlı karton, yırtık gazete kenarları, maskeleme bandı ve Polaroid çerçeveler. Renkler: Kırık beyaz arka plan, kömür siyahı, elektrik sarısı vurgular ve mat adaçayı yeşili. SAHNE SIRALAMASI (0-2.5s) Isla'nın kağıttan kesilmiş kafasının kaotik kağıt yığınına düştüğü makro bir yakın çekim. "MIND WON'T SLOW DOWN?" tipografisi kelime kelime belirir. (2.5-5s) Temiz bir pano Slides şeklinde içeri girer. Isla, bir Polaroid çerçevesinden gülümser. Kağıttan bir parmak, kağıttan bir telefona dokunur ve karmaşayı kağıttan çiçekler ve güneş ışığıyla değiştirir. (5-8s) Eklemli Isla kuklası, basamak taşları üzerinde yürür. Yapay zeka kartları akordeon tarzında açılır: "Breathe", "Reflect", "Reset". (8-10s) Kağıttan bir akıllı telefon, Feel Fresh arayüzünü göstererek merkeze çarpar. "FEEL FRESH" logosu, son bir yakın çekimle damgalanır. SES "Zihninizin hiç yavaşlamadığını hissettiğiniz oldu mu? Feel Fresh ile tek dokunuşla durumunuzu kontrol edin. Yapay zekanın nefes almanıza, düşünmenize ve sıfırlanmanıza yardımcı olmasına izin verin. Feel Fresh ile her gün daha hafif hissedin."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076895874266046464/img/NksVtycvOSTSh2hj.jpg" width="600" alt="Stop-motion Ruh Sağlığı Uygulaması Animasyonu">
-
-**[🎬 Videoyu izle →](https://x.com/AItheoryx/status/2076898752347144434)**
-
-**Yazar:** [AI Theory](https://x.com/AItheoryx) | **Kaynak:** [Link](https://x.com/AItheoryx/status/2076898752347144434) | **Yayınlandı:** Jul 14, 2026
-
----
-### Holografik Siberpunk Samuray Aksiyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Holografik maskeli bir siberpunk samurayı için katana savurmaları ve neon ışık efektleri içeren çok aşamalı bir aksiyon zaman çizelgesine sahip, son derece detaylı bir video istemi.
-
-#### 📝 İstem
-
-```
-Oniks tenli, gösterişli kıyafetleri ve LED rünlü parlayan holografik Oni maskesiyle fütüristik samuray. Sinematik aksiyon, siberpunk estetiği, parlayan neon bokeh arka plan, 8k çözünürlük, fotogerçekçi.
-
-10 Saniyelik Aksiyon Zaman Çizelgesi:
-
-0-2. saniye: LED maske ve holografik rünler güçlenerek yanıp sönmeye başlar.
-
-2-4. saniye: Hızlı uzaklaşma. Samuray, parlak neon enerjisiyle çatırdayan katanasını hızla çeker.
-
-4-7. saniye: İleriye doğru hızlı aksiyon atılımı. Samuray, kameraya doğru ışıklı ve süpürücü bir darbe indirir.
-
-7-10. saniye: Ağır çekim final. Samuray, neon yağmuru başlarken katanasını kınına sokar ve vakur bir poz verir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076667811745742848/img/BPV02scF6Vf1sJ26.jpg" width="600" alt="Holografik Siberpunk Samuray Aksiyonu">
-
-**[🎬 Videoyu izle →](https://x.com/michaelrabone/status/2076668007007338683)**
-
-**Yazar:** [Michael Rabone](https://x.com/michaelrabone) | **Kaynak:** [Link](https://x.com/michaelrabone/status/2076668007007338683) | **Yayınlandı:** Jul 13, 2026
-
----
-### Nomadland'den İlham Alan Sinematik Yol Filmi Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için altın saat ışıklandırması ve tutarlı karakter detaylarıyla beş çekimlik bir yol filmi sekansı oluşturan, oldukça detaylı sinematik video istemi.
-
-#### 📝 İstem
-
-```
-Nomadland, The Secret Life of Walter Mitty ve Into the Wild'dan ilham alan 10 saniyelik, ultra gerçekçi sinematik bir yol filmi sekansı oluşturun.
-
-Protagonist olarak sağlanan kadın referans görselini kullanın. Tüm çekimler boyunca yüz kimliğini, saç stilini, cilt tonunu, vücut oranlarını, kıyafet sürekliliğini ve ifadeleri tam olarak koruyun.
-
-## STİL
-
-Altın saat sinematografisi.
-
-Doğal manzaralar.
-
-Otantik performanslar.
-
-ARRI ALEXA 65.
-
-Sıcak filmik renk derecelendirmesi.
-
-## FORMAT
-
-10 saniye
-
-5 çekim
-
-### 1. ÇEKİM (0:00–0:02)
-
-Protagonist, gün batımında boş bir sahil otoyolunda tek başına araba sürüyor.
-
-### 2. ÇEKİM (0:02–0:04)
-
-Üzerinde **"Scenic Route"** (Manzaralı Yol) yazan küçük ahşap bir tabela fark ediyor.
-
-Gülümsüyor ve direksiyonu kırıyor.
-
-### 3. ÇEKİM (0:04–0:06)
-
-Yol sahil şeridinin yukarısına tırmanıyor ve nefes kesici panoramik bir okyanus manzarası ortaya çıkıyor.
-
-### 4. ÇEKİM (0:06–0:08)
-
-Arabayı durduruyor, dışarı çıkıyor ve okyanus esintisini hissediyor.
-
-### 5. ÇEKİM (0:08–0:10)
-
-Geniş bir drone çekimi, aşağıda dalgalar çarparken onun uçurumda tek başına durduğunu gösteriyor.
-
-**Müzik**
-
-Akustik gitar.
-
-Sıcak yaylılar.
-
-Yumuşak piyano.
-
-**Duygusal Hedef**
-
-*"Her yanlış sapak bir hata değildir."*
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075765489247383552/img/cFbChjHjOg7W09WZ.jpg" width="600" alt="Nomadland'den İlham Alan Sinematik Yol Filmi Sekansı">
-
-**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2075765549796340071)**
-
-**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2075765549796340071) | **Yayınlandı:** Jul 11, 2026
-
----
-### Sinematik Ürün Orbit Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Akıcı kamera hareketleri ve profesyonel ışık efektleriyle premium bir ürün reklamı oluşturmak için basit ama etkili bir komut.
-
-#### 📝 İstem
-
-```
-kamera ürünün etrafında yavaşça döner, yansımalar yüzey boyunca hareket eder, havada yumuşak parçacıklar, premium reklam hissi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Sinematik Ürün Orbit Reklamı">
-
-**[🎬 Videoyu izle →](https://x.com/getimg_ai/status/2075683226681831794)**
-
-**Yazar:** [getimg.ai](https://x.com/getimg_ai) | **Kaynak:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **Yayınlandı:** Jul 10, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -2700,6 +2641,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-30T09:45:16.395Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-30T16:05:04.303Z</sub>
 
 </div>

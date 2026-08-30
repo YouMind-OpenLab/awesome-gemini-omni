@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **208** |
+| 📝 提示词总数 | **216** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-08-30** |
 
@@ -56,6 +56,186 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 狂野沙漠漂移电影感大片
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一款电影级汽车提示词，专注于金色沙丘上的高速漂移，包含极具张力的摄像机追踪和 POV 视角。
+
+#### 📝 提示词
+
+```
+狂野漂移，金色沙丘，沙尘暴，高级汽车电影感，POV 视角，戏剧性追踪
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093957432380940288/img/gaSPtVaytRj2YWif.jpg" width="600" alt="狂野沙漠漂移电影感大片">
+
+**[🎬 观看视频 →](https://x.com/itsSSS1510/status/2093957642444292264)**
+
+**作者:** [Sheetal Shinde](https://x.com/itsSSS1510) | **来源:** [Link](https://x.com/itsSSS1510/status/2093957642444292264) | **发布时间:** Aug 30, 2026
+
+---
+### 未来感丧尸摩托追逐战
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段充满动作感的 3D 动画电影片段，讲述了一位主角骑着霓虹装饰的摩托车逃离丧尸群的故事。
+
+#### 📝 提示词
+
+```
+高能 3D 动画电影动作场景。一位留着银白色短发、额头戴着飞行员护目镜的年轻女主角，身穿带有蓝色霓虹光效的黑色流线型皮衣，身后披着一件飘逸的长风衣。她驾驶着一辆高速未来科幻摩托车，车轮闪烁着洋红色霓虹光芒，车身点缀着青色光效。她在布满废弃车辆、阴云密布的湿滑公路上疾驰，身后紧跟着一大群凶猛的丧尸。动态镜头捕捉了她漂移过弯时溅起的明亮火花、使用手枪射击扑向她的丧尸时的慢动作子弹时间效果，以及在空中飞跃丧尸群的惊人特技。电影级氛围光影，深色调与鲜艳的粉色和青色霓虹形成强烈对比，阴天日光，照片级真实质感，动作电影美学，8k 分辨率，超高细节。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093925475324510208/img/v_VZ8mF6rGkOv_5Y.jpg" width="600" alt="未来感丧尸摩托追逐战">
+
+**[🎬 观看视频 →](https://x.com/AiwithBloodline/status/2093925571311051143)**
+
+**作者:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **来源:** [Link](https://x.com/AiwithBloodline/status/2093925571311051143) | **发布时间:** Aug 30, 2026
+
+---
+### 锦木千束动漫动画
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 一个为 Gemini Omni 1.1 Flash 设计的动画提示词，内容是《莉可丽丝》中的锦木千束在校园场景中大声喊出励志台词。
+
+#### 📝 提示词
+
+```
+制作一段动画视频，内容是《莉可丽丝》中的锦木千束在校园内表情严肃地大声喊出：“对于无法掌控的事情，烦恼也没有用！”、“接受它，全力以赴吧！”以及“通常，这种时候好事就会发生”。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093832991349039104/img/P3M3vM1hpfhHcF_-.jpg" width="600" alt="锦木千束动漫动画">
+
+**[🎬 观看视频 →](https://x.com/secondenalist/status/2093833007178436988)**
+
+**作者:** [兼業エナリスト](https://x.com/secondenalist) | **来源:** [Link](https://x.com/secondenalist/status/2093833007178436988) | **发布时间:** Aug 29, 2026
+
+---
+### 东亚护肤品商业广告视频
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 一段用于高端护肤品广告的电影级视频提示词，包含微距皮肤细节、优雅的有机运动感以及极简主义美学。
+
+#### 📝 提示词
+
+```
+东亚女性眼睛的极致微距特写，水润的皮肤，戏剧性的自然阳光在脸上投下锐利的阴影。直接剪辑至低角度中景镜头，在明亮的蓝天下户外拍摄，女子站在飘逸的半透明白色布帘之间，将一支极简主义风格的米色韩式防晒霜直接伸向镜头。剪辑至她将白色乳霜平滑涂抹在颧骨上的超近距离微距镜头。柔和的有机运动，轻薄的白色帷幔在微风中飘动，艺术化的窗影在她如玻璃般水润的皮肤上舞动。极简主义韩式护肤广告美学，超精细皮肤纹理，优雅、宁静、奢华的影棚灯光，高对比度自然光，电影级暖色调，8K 分辨率，写实逼真，24fps。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093726929086214144/img/CvDq4auc7HWLhePT.jpg" width="600" alt="东亚护肤品商业广告视频">
+
+**[🎬 观看视频 →](https://x.com/GeekCatX/status/2093727235262075091)**
+
+**作者:** [知识猫AI实验室](https://x.com/GeekCatX) | **来源:** [Link](https://x.com/GeekCatX/status/2093727235262075091) | **发布时间:** Aug 29, 2026
+
+---
+### 微距 Logo 刺绣动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个专业的微距延时摄影提示词，用于制作线迹在织物上编织出品牌 Logo 的动画，呈现逼真的纹理与光影效果。
+
+#### 📝 提示词
+
+```
+“极具质感的棉质衬衫面料微距镜头，起初为空白。彩色绣线从表面浮现并自动编织，逐行铺设紧密的缎面针脚，勾勒出上传的 Logo。刺绣区域在画面中稳步扩展，线迹拉紧并呈现出立体的刺绣纹理，直至完整 Logo 成型。相机保持稳定，呈现缓慢而治愈的延时摄影节奏。柔和的自然侧光，浅景深，清晰可见的织物纤维和逼真的丝线光泽。无真人出镜，线迹自动移动。一镜到底，无场景切换。”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093672520440246272/img/4hzIWVYpdKZg9p_D.jpg" width="600" alt="微距 Logo 刺绣动画">
+
+**[🎬 观看视频 →](https://x.com/codecloude/status/2093672581907742963)**
+
+**作者:** [Code cloud E.commerce | کد کلاد](https://x.com/codecloude) | **来源:** [Link](https://x.com/codecloude/status/2093672581907742963) | **发布时间:** Aug 29, 2026
+
+---
+### 结构化 Nescafé 产品展示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于专业咖啡广告的技术性 JSON 格式提示词，展示从咖啡种植园到产品罐的形态转换。
+
+#### 📝 提示词
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "单次连续不间断镜头，无场景切换",
+    "composition": "从阳光明媚的咖啡种植园超广角镜头开始，跟随咖啡豆升起并汇聚成空中漩涡，最后以居中悬浮的 Nescafé 咖啡罐特写结束",
+    "lens": "种植园行使用长焦镜头，产品展示使用 35mm 镜头",
+    "frame_rate": "24fps 电影感",
+    "camera_movement": "缓慢上升跟随旋转的咖啡豆，随后平滑推近至咖啡豆锁定为罐体形状，最后稳定悬停在产品上"
+  },
+  "timeline": {
+    "0-3s": "黄金时刻的超广角山坡咖啡种植园。烘焙过的咖啡豆散落在植物行间的土地上。温暖的午后阳光，长而柔和的阴影，叶间微风拂动。",
+    "3-7s": "咖啡豆从地面升起，以优雅、有序的螺旋状缓慢旋转。它们在半空中交织成 Nescafé 咖啡罐的精确轮廓。伴随细微的颗粒扰动和咖啡豆边缘的微光。",
+    "7-10s": "咖啡豆形态脉动一次，随即转化为真实的 Nescafé 咖啡罐，在画面中央无重力悬浮。定格在产品上。金色轮廓光。"
+  },
+  "subject": {
+    "description": "数百颗烘焙咖啡豆升起并以优雅的螺旋状旋转，形成高端咖啡罐的轮廓",
+    "props": "由旋转咖啡豆形成的最终 Nescafé 咖啡罐，随后在半空悬浮时转化为真实的品牌包装"
+  },
+  "scene": {
+    "location": "开阔的山坡咖啡种植园",
+    "time_of_day": "午后黄金时刻，低角度阳光，长阴影",
+    "environment": "温暖微风，种植园行间的柔和阴影，空中散落的咖啡豆"
+  },
+  "visual_details": {
+    "action": "咖啡豆升起、有序螺旋旋转、锁定为罐体轮廓、脉动，随后转化为悬浮在空间中的成品 Nescafé 包装",
+    "special_effects": "咖啡豆颗粒动画、慢动作扰动、半空材质变形、细微的悬浮闪烁"
+  },
+  "cinematography": {
+    "lighting": "温暖的定向阳光，咖啡豆边缘发光，悬浮罐体上的金色轮廓光",
+    "color_palette": "浓郁的棕色、深黑色、琥珀金色、大地绿色",
+    "tone": "自然、精致、高端优雅"
+  },
+  "audio": {
+    "music": "柔和的木吉他伴随轻柔打击乐和环境钢琴点缀",
+    "ambient": "沙沙的叶片声、远处的鸟鸣、穿过咖啡行的微风",
+    "sound_effects": "咖啡豆旋转的积聚声、形态完成时的锁定咔哒声、悬浮下的细微嗡嗡声",
+    "mix": "空灵、开阔、以自然为导向，配以温暖的音乐中心"
+  },
+  "constraints": {
+    "dialogue": "无",
+    "voiceover": "无",
+    "on_screen_text": "无",
+    "captions": "无",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093639810439364608/img/xIwz_L8uOYOcvixG.jpg" width="600" alt="结构化 Nescafé 产品展示">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2093639917226311970)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2093639917226311970) | **发布时间:** Aug 29, 2026
+
+---
+### 咖啡壶爆炸动作场景
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个充满动作感的提示词，包含爆炸效果、碎片物理模拟以及霓虹灯环境下的人物互动。
+
+#### 📝 提示词
+
+```
+咖啡壶发生爆炸，碎片落在侦探们的西装上，霓虹灯“OPEN”招牌投射出光影。随后，镜头切换至拆弹小组。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093577406409793536/img/DAV6eWZiwc3SnNIs.jpg" width="600" alt="咖啡壶爆炸动作场景">
+
+**[🎬 观看视频 →](https://x.com/machina9000/status/2093577478941929615)**
+
+**作者:** [Daniił Vołkaū](https://x.com/machina9000) | **来源:** [Link](https://x.com/machina9000/status/2093577478941929615) | **发布时间:** Aug 29, 2026
+
+---
 ### Chrome Robot 商业脚本
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -136,6 +316,25 @@ Omni 说：“我正在练习，孩子。”
 **[🎬 观看视频 →](https://x.com/AiwithBloodline/status/2093541403796353389)**
 
 **作者:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **来源:** [Link](https://x.com/AiwithBloodline/status/2093541403796353389) | **发布时间:** Aug 29, 2026
+
+---
+### 4 岁小男孩丧尸游戏主播
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 用于生成一段 4 岁小男孩进行游戏直播视频的提示词。游戏内容为一名护士使用注射器对抗丧尸，并要求模型使用葡萄牙语进行解说。
+
+#### 📝 提示词
+
+```
+一位 4 岁的小男孩主播正在解说并玩一款游戏，游戏主角是一名使用注射器对抗丧尸的女护士。附上小男孩的参考素材。请使用葡萄牙语进行解说。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093506685738336256/img/bizbnu_Y4olNg2jx.jpg" width="600" alt="4 岁小男孩丧尸游戏主播">
+
+**[🎬 观看视频 →](https://x.com/gudesouzalima/status/2093506705996796413)**
+
+**作者:** [Gustavo de Souza](https://x.com/gudesouzalima) | **来源:** [Link](https://x.com/gudesouzalima/status/2093506705996796413) | **发布时间:** Aug 29, 2026
 
 ---
 ### 沙漠忍者日落对峙
@@ -2418,266 +2617,6 @@ IMAX 65mm 级照片级真实感制作。顶级电影质感光效。超写实马�
 **作者:** [Virena](https://x.com/vireonixx) | **来源:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **发布时间:** Jul 16, 2026
 
 ---
-### 温馨书架整理 Vlog
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份详细的视频提示词，旨在打造手持迷你 DV 摄像机风格的 Vlog，记录一位年轻女性整理书籍的过程，包含治愈的 ASMR 音效和自然光影。
-
-#### 📝 提示词
-
-```
-镜头 / 视觉：由拍摄对象本人手持迷你 DV 摄像机拍摄。带有轻微的手持抖动、偶尔的对焦调整、不完美的构图、自然的变焦、柔和的磁带质感、细腻的噪点，以及随午后暖阳变化的真实自动曝光。肤色自然，带有轻微的运动模糊，呈现出真实的消费级摄像机美学。
-风格：温馨的书架整理 Vlog，融入轻柔的 ASMR 元素。节奏舒缓，对话极简，记录真实瞬间。重点在于治愈的声音：翻书声、书脊轻叩声、抹布擦拭声、书架移动的细微声响。
-主体：20 出头的年轻女性，留着波浪长发，穿着宽松的法兰绒衬衫，头上架着阅读眼镜。整理时神情平静、专注。
-场景：安静周末午后的一个小阅读角。透过窗帘的暖光，半空的书架，地板上堆放的书籍。
-分镜脚本：
-→ (2 秒，固定中景) 将摄像机放在边桌上，坐在书架旁。“终于要把我的书按颜色整理一下了。”
-→ (2 秒，俯拍镜头) 从书架上取下书籍，分类堆放。
-→ (2 秒，特写镜头) 用抹布擦去空书架上的灰尘。
-→ (2 秒，手持镜头) 翻阅一本旧书，停在一页上。“我都忘了自己还有这本书。”
-→ (2 秒，细节镜头) 按颜色排列书籍，将其滑入位置。无对话。
-→ (2 秒，中景镜头) 在书架上摆放一株小植物和一支蜡烛。“稍微装饰一下更好看。”
-→ (2 秒，微距镜头) 整理书脊，将其对齐。
-→ (2 秒，固定镜头) 退后几步，从远处审视整理效果。
-→ (2 秒，温暖的结尾镜头) 欣赏整理好的书架，露出开心的笑容。“好多了。”
-→ (1.5 秒，最终镜头) 向摄像机伸手。“回见。”手遮住镜头，录制结束。
-音频备注：翻书、擦灰、推书等自然环境音应清晰可闻。对话声音轻柔随意。
-真实感备注：真实的肢体语言、自然的眨眼、真诚的微笑、偶尔的思考停顿、不完美的构图、对焦呼吸效应以及午后暖阳的光影变化。应呈现出真实的个人整理 Vlog 质感，而非商业广告片。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077761124582543360/img/NROUVc0jpf1UZ9LZ.jpg" width="600" alt="温馨书架整理 Vlog">
-
-**[🎬 观看视频 →](https://x.com/Strength04_X/status/2077761335585280363)**
-
-**作者:** [𝐌](https://x.com/Strength04_X) | **来源:** [Link](https://x.com/Strength04_X/status/2077761335585280363) | **发布时间:** Jul 16, 2026
-
----
-### 沙漠峡谷 FPV 无人机产品展示
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一段在崎岖沙漠峡谷中高速穿行的电影级 FPV 无人机镜头，最终在阳光明媚的高原上定格于产品展示。
-
-#### 📝 提示词
-
-```
-{
-  "description": "清晨，一段电影级 FPV 无人机高速镜头从壮观的沙漠悬崖上方开始。无人机陡峭地俯冲进崎岖的岩石峡谷，掠过沙丘，在巨大的红石墙之间疾驰。随着无人机加速，风卷起阵阵尘土，它惊险地穿过天然岩拱和阳光照耀的山脊。中途，镜头逐渐放慢，无人机冲向开阔的沙漠高原，展示出一罐冰镇 Red Bull 矗立在粗糙的石板上，清晨的阳光下，罐身上的冷凝水珠清晰可见，闪烁着光芒。无文字。",
-  "style": "电影级、超写实极限运动广告",
-  "camera": "第一人称 FPV 无人机视角，包含激进的高速峡谷穿行，随后过渡到平滑、受控的慢速电影级展示",
-  "lighting": "清晨日出光线，带有暖色高光，岩层边缘有强烈的轮廓光，高对比度阴影；Red Bull 罐身上有清晰的反射和冷凝水珠高光",
-  "environment": "广阔的沙漠峡谷景观，包括红岩悬崖、狭窄峡谷、沙丘、风吹尘土以及开阔的高原空地",
-  "motion": "极快的空中运动，包含急剧俯冲、近距离峡谷穿行和急转弯；最终过渡为慢动作和平稳的稳定镜头，用于最后的展示",
-  "ending": "开阔沙漠高原上一个充满力量且宁静的瞬间；Red Bull 罐身位于石板中央，摄像机轻柔地环绕并推进，强调能量、新鲜感和视觉冲击力",
-  "aspect_ratio": "16:9",
-  "duration": "10 秒",
-  "text": "无",
-  "keywords": [
-    "FPV 无人机",
-    "超高速电影级运动",
-    "沙漠峡谷穿行",
-    "超写实产品展示",
-    "能量饮料广告",
-    "慢动作结尾",
-    "无文字"
-  ]
-}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077736758104723456/img/Czy7V5pZUnqzGTlz.jpg" width="600" alt="沙漠峡谷 FPV 无人机产品展示">
-
-**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2077736805416505855)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2077736805416505855) | **发布时间:** Jul 16, 2026
-
----
-### Chanel 奢华酒店视频转换
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Gemini Omni 设计的视频转视频编辑提示词，旨在将场景修改为包含 Chanel 产品和优雅的酒店套房，同时保持主体外观不变。
-
-#### 📝 提示词
-
-```
-使用 Gemini Omni，将我正在打开的这个盒子变成 Chanel 的盒子。当我打开它时，里面会出现 Chanel 香水和一些口红。
-
-将背景更改为参考图片中展示的优雅、奢华的酒店套房。保持我的外观不变。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="Chanel 奢华酒店视频转换">
-
-**[🎬 观看视频 →](https://x.com/ytjessie_/status/2077522462494085236)**
-
-**作者:** [Jessie_Ma](https://x.com/ytjessie_) | **来源:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **发布时间:** Jul 15, 2026
-
----
-### 电影级企鹅宝藏发现
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Gemini Omni 设计的详细电影级提示词，旨在创作一段 10 秒钟的悬疑视频，内容为在宝箱中发现一只小企鹅，包含音频和摄像机指令。
-
-#### 📝 提示词
-
-```
-10 秒电影级 POV 视频。夜晚，安静的森林。手电筒的光束缓慢扫过地面，直到发现一个覆盖着苔藓的古老木制宝箱。摄像机伴随着细微的手持晃动小心翼翼地靠近，营造出悬疑感。一只人手伸下，打开锁扣，缓慢掀开箱盖。箱子里没有宝藏，而是一只戴着迷你黑色墨镜、毛茸茸的小企鹅，坐在发光的冰晶上。企鹅直视镜头，微笑并缓慢抬起一只鳍状肢，做出一个清晰的 👍 点赞手势。摄像机推进，特写它可爱的表情。
-
-音频：安静的森林环境音，伴随着远处的蟋蟀声和靠近时轻柔的悬疑音乐。箱子打开的瞬间，音乐转变为欢快、振奋的旋律。一个自然的成年男性声音充满热情地说：“哇，太棒了！”，并与企鹅的点赞动作完美同步。企鹅随即发出可爱的鸣叫声。
-
-超写实，电影级光影，高度精细的羽毛，富有表现力的眼睛，真实的物理效果，自然的动画，平滑的手持摄像机运动，浅景深，照片级真实感，无字幕，无文字，无水印。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="电影级企鹅宝藏发现">
-
-**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2077310416615780646)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2077310416615780646) | **发布时间:** Jul 15, 2026
-
----
-### 定格动画风格心理健康应用宣传片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一份使用 Gemini Omni 创建 10 秒定格动画的综合视频生成提示词。该提示词遵循关于心理压力与 AI 助手应用的脚本序列，并采用手工卡纸艺术风格。
-
-#### 📝 提示词
-
-```
-生成一段 10 秒的无缝视频，将所提供的脚本网格参考图中的事件序列进行动画化处理。视频应依次呈现第 1 帧（心理压力）、第 2 帧（一键签到）、第 3 帧（AI 助手）和第 4 帧（品牌展示），并在各场景之间实现流畅且具有定格动画节奏感的过渡。风格与运动指令：采用 12 FPS 的手工定格动画美学，无运动模糊。动作需逐帧呈现，带有刻意的纸张抖动和可见的图层重置效果。材质：分层卡纸、撕裂的报纸边缘、美纹纸胶带和拍立得相框。配色：米白色背景、炭黑色、电光黄高光以及柔和的鼠尾草绿。场景序列：（0-2.5 秒）微距镜头快速推向 Isla 的纸质剪影头像，头像落入混乱的纸堆中。文字“MIND WON'T SLOW DOWN?”逐词出现。（2.5-5 秒）一个干净的“项目”滑入。Isla 在拍立得相框中微笑。一只纸质手指点击纸质手机，将混乱的场景替换为纸花和阳光。（5-8 秒）关节灵活的 Isla 木偶走过踏脚石。AI 卡片以手风琴方式展开：“Breathe”（呼吸）、“Reflect”（反思）、“Reset”（重置）。（8-10 秒）一部纸质智能手机拍入画面中心，显示 Feel Fresh 的 UI 界面。“FEEL FRESH”标志以最终的快速推镜头盖章式落下。音频：“Ever feel like your mind just won't slow down? With Feel Fresh, check in with one tap. Let AI help you breathe, reflect, and reset. Feel Fresh feel lighter, every day.”
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076895874266046464/img/NksVtycvOSTSh2hj.jpg" width="600" alt="定格动画风格心理健康应用宣传片">
-
-**[🎬 观看视频 →](https://x.com/AItheoryx/status/2076898752347144434)**
-
-**作者:** [AI Theory](https://x.com/AItheoryx) | **来源:** [Link](https://x.com/AItheoryx/status/2076898752347144434) | **发布时间:** Jul 14, 2026
-
----
-### 全息赛博朋克武士动作
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个关于佩戴全息面具的赛博朋克武士的高细节视频提示词，包含武士刀劈砍和霓虹灯光效果的多阶段动作时间轴。
-
-#### 📝 提示词
-
-```
-未来派武士，拥有黑玛瑙般的皮肤、华丽的长袍，以及带有 LED 符文的发光全息鬼面具。电影级动作，赛博朋克美学，发光的霓虹虚化背景，8k 分辨率，照片级真实感。
-
-10 秒动作时间轴：
-
-0-2 秒：LED 面具和全息符文启动并闪烁亮起。
-
-2-4 秒：快速拉远镜头。武士迅速拔出闪烁着明亮霓虹能量的武士刀。
-
-4-7 秒：快速向前冲刺。武士向镜头方向执行一次大范围的发光劈砍。
-
-7-10 秒：慢动作收尾。武士收刀入鞘，霓虹雨开始落下，摆出冷峻的姿势。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076667811745742848/img/BPV02scF6Vf1sJ26.jpg" width="600" alt="全息赛博朋克武士动作">
-
-**[🎬 观看视频 →](https://x.com/michaelrabone/status/2076668007007338683)**
-
-**作者:** [Michael Rabone](https://x.com/michaelrabone) | **来源:** [Link](https://x.com/michaelrabone/status/2076668007007338683) | **发布时间:** Jul 13, 2026
-
----
-### 电影感《无依之地》风格公路电影片段
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Gemini Omni 设计的高细节电影感视频提示词，用于创作包含黄金时刻光影和角色一致性的五镜头公路电影片段。
-
-#### 📝 提示词
-
-```
-创作一段 10 秒钟超写实电影感公路电影片段，灵感源自《无依之地》(Nomadland)、《白日梦想家》(The Secret Life of Walter Mitty) 和《荒野生存》(Into the Wild)。
-
-使用提供的女性参考图像作为主角。在整个过程中保持精确的面部特征、发型、肤色、身体比例、服装连贯性和表情。
-
-## 风格
-
-黄金时刻电影摄影。
-
-自然景观。
-
-真实的表演。
-
-ARRI ALEXA 65 拍摄。
-
-温暖的胶片色调。
-
-## 格式
-
-10 秒
-
-5 个镜头
-
-### 镜头 1 (0:00–0:02)
-
-主角在日落时分独自驾车行驶在空旷的沿海公路上。
-
-### 镜头 2 (0:02–0:04)
-
-她注意到一个写着以下内容的小木牌：
-
-**“Scenic Route”（景观路线）。**
-
-她微笑着转动方向盘。
-
-### 镜头 3 (0:04–0:06)
-
-道路攀升至海岸线上方，展现出令人惊叹的广阔海景。
-
-### 镜头 4 (0:06–0:08)
-
-她停下车，走出来，感受着海风。
-
-### 镜头 5 (0:08–0:10)
-
-广角无人机镜头展示她独自站在悬崖上，下方海浪拍打着岩石。
-
-**音乐**
-
-原声吉他。
-
-温暖的弦乐。
-
-柔和的钢琴。
-
-**情感目标**
-
-*“并非每一次错误的转弯都是失误。”*
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075765489247383552/img/cFbChjHjOg7W09WZ.jpg" width="600" alt="电影感《无依之地》风格公路电影片段">
-
-**[🎬 观看视频 →](https://x.com/vireonixx/status/2075765549796340071)**
-
-**作者:** [Virena](https://x.com/vireonixx) | **来源:** [Link](https://x.com/vireonixx/status/2075765549796340071) | **发布时间:** Jul 11, 2026
-
----
-### 电影级产品环绕广告
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个简单但高效的提示词，用于生成具有平滑运镜和专业灯光效果的高端产品广告。
-
-#### 📝 提示词
-
-```
-摄像机缓慢环绕产品，光影在表面流转，空气中漂浮着柔和微粒，呈现高端广告质感
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="电影级产品环绕广告">
-
-**[🎬 观看视频 →](https://x.com/getimg_ai/status/2075683226681831794)**
-
-**作者:** [getimg.ai](https://x.com/getimg_ai) | **来源:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **发布时间:** Jul 10, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2730,6 +2669,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-30T09:44:56.447Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-30T16:04:46.830Z</sub>
 
 </div>

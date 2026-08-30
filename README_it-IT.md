@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **208** |
+| 📝 Totale prompt | **216** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-08-30** |
 
@@ -56,6 +56,186 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Cinema di drifting aggressivo nel deserto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico automobilistico incentrato sul drifting ad alta velocità tra dune dorate, con riprese dinamiche in tracking e inquadrature in soggettiva (POV).
+
+#### 📝 Prompt
+
+```
+drifting aggressivo, dune dorate, tempeste di sabbia, cinema automobilistico premium, POV, riprese dinamiche in tracking
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093957432380940288/img/gaSPtVaytRj2YWif.jpg" width="600" alt="Cinema di drifting aggressivo nel deserto">
+
+**[🎬 Guarda il video →](https://x.com/itsSSS1510/status/2093957642444292264)**
+
+**Autore:** [Sheetal Shinde](https://x.com/itsSSS1510) | **Fonte:** [Link](https://x.com/itsSSS1510/status/2093957642444292264) | **Pubblicato:** Aug 30, 2026
+
+---
+### Inseguimento futuristico in moto tra gli zombie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una sequenza cinematografica d'animazione 3D ricca di azione con una protagonista su una moto dai dettagli al neon che fugge da un'orda di zombie.
+
+#### 📝 Prompt
+
+```
+Scena d'azione cinematografica in 3D ad alto numero di ottani. Una giovane protagonista dai capelli corti bianco-argento e occhiali da aviatore sulla fronte, indossa un'elegante tuta in pelle nera con accenti neon blu luminosi e un lungo cappotto scuro che fluttua dietro di lei. Guida una moto fantascientifica futuristica ad alta velocità con ruote al neon magenta-rosa e dettagli del telaio color ciano. Sfreccia lungo un'autostrada bagnata e coperta di nubi, disseminata di auto abbandonate, inseguita da un'enorme orda di zombie aggressivi. Inquadrature dinamiche catturano la protagonista mentre derapa in curva emettendo scintille luminose, spara con una pistola agli zombie che saltano con effetti bullet-time al rallentatore ed esegue un enorme salto acrobatico a mezz'aria sopra la folla. Illuminazione cinematografica suggestiva, color grading scuro con contrasto vibrante tra neon rosa e ciano, luce diurna nuvolosa, texture fotorealistiche, estetica da film d'azione, risoluzione 8k, iper-dettagliato.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093925475324510208/img/v_VZ8mF6rGkOv_5Y.jpg" width="600" alt="Inseguimento futuristico in moto tra gli zombie">
+
+**[🎬 Guarda il video →](https://x.com/AiwithBloodline/status/2093925571311051143)**
+
+**Autore:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2093925571311051143) | **Pubblicato:** Aug 30, 2026
+
+---
+### Animazione anime di Chisato Nishikigi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt di animazione per Gemini Omni 1.1 Flash con protagonista Chisato Nishikigi di Lycoris Recoil mentre pronuncia frasi motivazionali in un ambiente scolastico.
+
+#### 📝 Prompt
+
+```
+Crea un video animato di Chisato Nishikigi di Lycoris Recoil che, con espressione seria all'interno della scuola, esclama: "Non ha senso preoccuparsi di cose che non puoi controllare!", "Accettalo, dai il massimo!" e "Di solito, è proprio in quei momenti che accadono le cose belle".
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093832991349039104/img/P3M3vM1hpfhHcF_-.jpg" width="600" alt="Animazione anime di Chisato Nishikigi">
+
+**[🎬 Guarda il video →](https://x.com/secondenalist/status/2093833007178436988)**
+
+**Autore:** [兼業エナリスト](https://x.com/secondenalist) | **Fonte:** [Link](https://x.com/secondenalist/status/2093833007178436988) | **Pubblicato:** Aug 29, 2026
+
+---
+### Video pubblicitario per skincare dell'Asia orientale
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt video cinematografico per una pubblicità di skincare di fascia alta, caratterizzato da dettagli macro della pelle, eleganti movimenti organici ed estetica minimalista.
+
+#### 📝 Prompt
+
+```
+Primo piano macro estremo degli occhi di una donna dell'Asia orientale, pelle idratata, luce solare naturale drammatica che proietta ombre nette sul viso. Taglio diretto su un'inquadratura media dal basso, girata all'aperto sotto un cielo azzurro brillante, la donna si trova tra tende di tessuto bianco traslucido che fluttuano, porgendo un tubetto di crema solare coreana beige minimalista direttamente verso l'obiettivo. Taglio su un macro super ravvicinato di lei che applica delicatamente la crema bianca sugli zigomi. Movimento organico fluido, drappeggi bianchi sottili che sventolano nella brezza, ombre artistiche delle finestre che danzano sulla sua pelle idratata simile al vetro. Estetica pubblicitaria skincare coreana minimalista, texture della pelle ultra-dettagliata, elegante, serena, illuminazione da studio lussuosa, luce naturale ad alto contrasto, toni caldi cinematografici, risoluzione 8K, realistico e naturale, 24fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093726929086214144/img/CvDq4auc7HWLhePT.jpg" width="600" alt="Video pubblicitario per skincare dell'Asia orientale">
+
+**[🎬 Guarda il video →](https://x.com/GeekCatX/status/2093727235262075091)**
+
+**Autore:** [知识猫AI实验室](https://x.com/GeekCatX) | **Fonte:** [Link](https://x.com/GeekCatX/status/2093727235262075091) | **Pubblicato:** Aug 29, 2026
+
+---
+### Animazione ricamo logo in macro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt specializzato per timelapse macro che anima la tessitura di un filo per creare un logo su tessuto, con texture e illuminazione realistiche.
+
+#### 📝 Prompt
+
+```
+“Ripresa macro estrema di un tessuto di cotone, inizialmente vuoto. Fili da ricamo colorati emergono dalla superficie e si intrecciano, creando punti raso fitti, riga dopo riga, delineando il logo caricato. L'area ricamata si espande gradualmente nell'inquadratura, con il filo che si tende e crea una texture tridimensionale fino al completamento del logo. Camera fissa, ritmo timelapse lento e soddisfacente. Luce laterale naturale e morbida, profondità di campo ridotta, fibre del tessuto visibili e lucentezza realistica del filo. Senza mani, il filo si muove da solo. Ripresa singola, nessun cambio di scena.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093672520440246272/img/4hzIWVYpdKZg9p_D.jpg" width="600" alt="Animazione ricamo logo in macro">
+
+**[🎬 Guarda il video →](https://x.com/codecloude/status/2093672581907742963)**
+
+**Autore:** [Code cloud E.commerce | کد کلاد](https://x.com/codecloude) | **Fonte:** [Link](https://x.com/codecloude/status/2093672581907742963) | **Pubblicato:** Aug 29, 2026
+
+---
+### Presentazione strutturata del prodotto Nescafé
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt tecnico in formato JSON per una pubblicità professionale di caffè che mostra una piantagione che si trasforma in un barattolo di prodotto.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "singola ripresa continua senza interruzioni, nessun taglio di scena",
+    "composition": "inizia con un campo ultra-largo su una piantagione di caffè illuminata dal sole, segue i chicchi che si sollevano in un vortice a mezz'aria, termina con un primo piano centrato di un barattolo Nescafé fluttuante",
+    "lens": "teleobiettivo per i filari della piantagione, poi 35mm per la presentazione del prodotto",
+    "frame_rate": "24fps cinematico",
+    "camera_movement": "lenta ascesa che segue i chicchi vorticanti, poi un fluido dolly in avanti mentre si incastrano nella forma del barattolo, mantenendo l'inquadratura fissa sul prodotto sospeso"
+  },
+  "timeline": {
+    "0-3s": "Piantagione di caffè in collina durante l'ora d'oro. Chicchi di caffè tostati sparsi sul terreno tra i filari delle piante. Caldo sole del tardo pomeriggio, lunghe ombre morbide, brezza leggera tra le foglie.",
+    "3-7s": "I chicchi si sollevano da terra e ruotano in spirali lente, eleganti e organizzate. Si incastrano a mezz'aria formando l'esatta silhouette di un barattolo di caffè premium. Sottile turbolenza di particelle e bordi dei chicchi luminosi.",
+    "7-10s": "La forma composta dai chicchi pulsa una volta e si trasforma in un vero barattolo di caffè Nescafé che fluttua senza peso, centrato nell'inquadratura. Mantenere l'inquadratura sul prodotto. Luce dorata sul bordo."
+  },
+  "subject": {
+    "description": "centinaia di chicchi di caffè tostati che si sollevano e ruotano in eleganti spirali per formare la silhouette di un barattolo di caffè premium",
+    "props": "barattolo di caffè Nescafé finale formato dai chicchi vorticanti, che poi transita nel vero packaging del marchio mentre fluttua a mezz'aria"
+  },
+  "scene": {
+    "location": "piantagione di caffè su una collina aperta",
+    "time_of_day": "tardo pomeriggio, ora d'oro, sole basso, ombre lunghe",
+    "environment": "brezza calda, ombre morbide sui filari della piantagione, chicchi sparsi nell'aria"
+  },
+  "visual_details": {
+    "action": "i chicchi si sollevano, ruotano in spirali organizzate, si bloccano nel contorno del barattolo, pulsano, poi si trasformano nel packaging Nescafé finito sospeso nello spazio",
+    "special_effects": "animazione di particelle di chicchi, turbolenza al rallentatore, trasformazione materica a mezz'aria, sottile luccichio di levitazione"
+  },
+  "cinematography": {
+    "lighting": "luce solare calda e direzionale, bordi dei chicchi luminosi, luce dorata sul bordo del barattolo fluttuante",
+    "color_palette": "marroni ricchi, neri profondi, ori ambrati, verdi naturali",
+    "tone": "naturale, sofisticato, eleganza premium"
+  },
+  "audio": {
+    "music": "chitarra acustica delicata con percussioni morbide e fioriture di pianoforte ambient",
+    "ambient": "fruscio di foglie, uccelli in lontananza, brezza tra i filari di caffè",
+    "sound_effects": "accumulo del vortice di chicchi, scatto di blocco quando la forma si completa, ronzio sottile sotto la levitazione",
+    "mix": "arioso, aperto, incentrato sulla natura con un nucleo musicale caldo"
+  },
+  "constraints": {
+    "dialogue": "nessuno",
+    "voiceover": "nessuno",
+    "on_screen_text": "nessuno",
+    "captions": "nessuno",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093639810439364608/img/xIwz_L8uOYOcvixG.jpg" width="600" alt="Presentazione strutturata del prodotto Nescafé">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2093639917226311970)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2093639917226311970) | **Pubblicato:** Aug 29, 2026
+
+---
+### Scena d'azione: caffettiera che esplode
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt ricco di azione che include un'esplosione, la fisica dei detriti e l'interazione tra i personaggi in un ambiente illuminato al neon.
+
+#### 📝 Prompt
+
+```
+la caffettiera esplode, i detriti si posano sui completi dei detective e l'insegna al neon "OPEN" proietta la sua luce. Poi, passaggio alla squadra artificieri.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093577406409793536/img/DAV6eWZiwc3SnNIs.jpg" width="600" alt="Scena d'azione: caffettiera che esplode">
+
+**[🎬 Guarda il video →](https://x.com/machina9000/status/2093577478941929615)**
+
+**Autore:** [Daniił Vołkaū](https://x.com/machina9000) | **Fonte:** [Link](https://x.com/machina9000/status/2093577478941929615) | **Pubblicato:** Aug 29, 2026
+
+---
 ### Script pubblicitario per il robot Chrome
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -136,6 +316,25 @@ Importante: mantieni gli stessi lavoratori in miniatura, il layout della fabbric
 **[🎬 Guarda il video →](https://x.com/AiwithBloodline/status/2093541403796353389)**
 
 **Autore:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2093541403796353389) | **Pubblicato:** Aug 29, 2026
+
+---
+### Bambino di 4 anni streamer di un gioco sugli zombie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per generare il video di un bambino di 4 anni che trasmette una sessione di gioco. Il gioco vede protagonista un'infermiera che combatte contro gli zombie usando siringhe, e al modello viene dato l'ordine di parlare in portoghese.
+
+#### 📝 Prompt
+
+```
+Un bambino streamer di 4 anni che commenta e gioca a un videogioco in cui il personaggio principale è un'infermiera che combatte contro gli zombie con una siringa. Il bambino è allegato come riferimento. Parla in portoghese.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093506685738336256/img/bizbnu_Y4olNg2jx.jpg" width="600" alt="Bambino di 4 anni streamer di un gioco sugli zombie">
+
+**[🎬 Guarda il video →](https://x.com/gudesouzalima/status/2093506705996796413)**
+
+**Autore:** [Gustavo de Souza](https://x.com/gudesouzalima) | **Fonte:** [Link](https://x.com/gudesouzalima/status/2093506705996796413) | **Pubblicato:** Aug 29, 2026
 
 ---
 ### Scontro al tramonto del ninja nel deserto
@@ -2386,266 +2585,6 @@ Nessun dialogo.
 **Autore:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **Pubblicato:** Jul 16, 2026
 
 ---
-### Vlog accogliente: riordiniamo la libreria
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video dettagliato per un vlog con estetica da mini videocamera DV, che ritrae una giovane donna intenta a riordinare i libri con suoni ASMR soddisfacenti e luce naturale.
-
-#### 📝 Prompt
-
-```
-CAMERA / LOOK: Riprese effettuate con una mini videocamera DV tenuta in mano dalla protagonista stessa. Leggeri tremolii, occasionali incertezze nella messa a fuoco, inquadrature imperfette, zoomate naturali, qualità dell'immagine morbida tipica delle vecchie cassette, grana sottile, variazioni realistiche dell'esposizione automatica dovute alla calda luce pomeridiana. Toni della pelle naturali, leggero motion blur, autentica estetica da videocamera consumer.
-STILE: Vlog accogliente sul riordino della libreria con delicati elementi ASMR. Ritmo rilassato, dialoghi minimi, momenti spontanei. Focus sui suoni soddisfacenti: pagine che sfogliano, dorsi dei libri che battono, panno che spolvera, scaffali che si muovono leggermente.
-SOGGETTO: Giovane donna sui 20 anni, capelli lunghi e mossi, camicia di flanella oversize, occhiali da lettura portati sopra la testa. Energia calma e riflessiva mentre riorganizza.
-AMBIENTAZIONE: Piccolo angolo lettura in un tranquillo pomeriggio di fine settimana. Luce calda che filtra dalle tende, una libreria a metà, pile di libri sul pavimento.
-STORYBOARD:
-→ (2s, ripresa media su supporto) Posiziona la videocamera su un tavolino, si siede vicino alla libreria. "Finalmente metto in ordine i miei libri per colore."
-→ (2s, ripresa dall'alto) Toglie i libri dallo scaffale, li divide in pile.
-→ (2s, primo piano) Spolvera lo scaffale vuoto con un panno.
-→ (2s, ripresa a mano) Sfoglia un vecchio libro, soffermandosi su una pagina. "Mi ero dimenticata di avere anche questo."
-→ (2s, dettaglio) Dispone i libri per colore, facendoli scivolare al loro posto. Nessun dialogo.
-→ (2s, ripresa media) Aggiunge una piccola pianta e una candela sullo scaffale. "Mancava solo un tocco decorativo."
-→ (2s, macro) Allinea i dorsi dei libri, picchiettandoli per uniformarli.
-→ (2s, ripresa su supporto) Fa un passo indietro per controllare la disposizione a distanza.
-→ (2s, ripresa finale calda) Ammira lo scaffale finito, sorriso felice. "Molto meglio."
-→ (1.5s, ripresa finale) Si avvicina alla videocamera. "A presto." La mano copre l'obiettivo mentre la registrazione termina.
-NOTE AUDIO: L'ambiente naturale, lo sfogliare delle pagine, lo spolverare e lo scivolare dei libri devono essere chiaramente udibili. Dialoghi bassi e informali.
-NOTE SUL REALISMO: Linguaggio del corpo autentico, battito di ciglia naturale, sorrisi genuini, pause di riflessione occasionali, inquadrature imperfette, focus breathing, variazioni della calda luce pomeridiana. Dovrebbe assomigliare a un vero vlog personale di riordino girato con una videocamera consumer, non a una produzione commerciale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077761124582543360/img/NROUVc0jpf1UZ9LZ.jpg" width="600" alt="Vlog accogliente: riordiniamo la libreria">
-
-**[🎬 Guarda il video →](https://x.com/Strength04_X/status/2077761335585280363)**
-
-**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2077761335585280363) | **Pubblicato:** Jul 16, 2026
-
----
-### Presentazione prodotto con drone FPV in un canyon desertico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Una sequenza cinematografica ad alta velocità con drone FPV attraverso aspri canyon desertici, che culmina in una nitida presentazione del prodotto su un altopiano soleggiato.
-
-#### 📝 Prompt
-
-```
-{
-  "description": "Una ripresa cinematografica ad alta velocità con drone FPV inizia molto al di sopra di spettacolari scogliere desertiche all'alba. Il drone si tuffa ripidamente in aspri canyon rocciosi, sfiorando dune di sabbia e sfrecciando tra imponenti pareti di pietra rossa. Il vento solleva scie di polvere mentre il drone accelera, passando a pelo attraverso archi naturali di roccia e creste illuminate dal sole. A metà percorso, il movimento rallenta gradualmente mentre il drone sbuca su un ampio altopiano desertico, rivelando una singola lattina di Red Bull ghiacciata posata su una lastra di pietra grezza, con la condensa visibile e scintillante alla luce del mattino. Nessun testo.",
-  "style": "cinematografico, spot pubblicitario di sport estremi iperrealistico",
-  "camera": "prospettiva in prima persona con drone FPV, con un volo ad alta velocità aggressivo attraverso il canyon, che transita in una presentazione cinematografica lenta, fluida e controllata",
-  "lighting": "luce del primo mattino con riflessi caldi, forte illuminazione di contorno sulle formazioni rocciose, ombre ad alto contrasto; riflessi nitidi e dettagli della condensa sulla lattina di Red Bull",
-  "environment": "vasto paesaggio di canyon desertico con scogliere di roccia rossa, canyon stretti, dune di sabbia, polvere sollevata dal vento e una radura su un altopiano aperto",
-  "motion": "movimento aereo molto veloce con picchiate nette, passaggi ravvicinati nel canyon e curve strette; transizione graduale verso il rallentatore e una stabilizzazione fluida per la presentazione finale",
-  "ending": "un momento potente e silenzioso sull'altopiano desertico aperto; la lattina di Red Bull centrata sulla lastra di pietra mentre la telecamera orbita delicatamente e si avvicina, enfatizzando energia, freschezza e impatto",
-  "aspect_ratio": "16:9",
-  "duration": "10 secondi",
-  "text": "nessuno",
-  "keywords": [
-    "drone FPV",
-    "movimento cinematografico ultra veloce",
-    "volo attraverso canyon desertico",
-    "presentazione prodotto iperrealistica",
-    "pubblicità energy drink",
-    "finale al rallentatore",
-    "nessun testo"
-  ]
-}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077736758104723456/img/Czy7V5pZUnqzGTlz.jpg" width="600" alt="Presentazione prodotto con drone FPV in un canyon desertico">
-
-**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2077736805416505855)**
-
-**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2077736805416505855) | **Pubblicato:** Jul 16, 2026
-
----
-### Trasformazione video di un hotel di lusso Chanel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di editing video-to-video per Gemini Omni che modifica una scena per includere prodotti Chanel e un'elegante suite d'albergo, mantenendo inalterato l'aspetto del soggetto.
-
-#### 📝 Prompt
-
-```
-Utilizza Gemini Omni, fai in modo che questa scatola che sto aprendo sia di Chanel; una volta aperta, all'interno ci sono profumi Chanel e alcuni rossetti.
-
-Cambia lo sfondo con l'elegante e lussuosa suite d'albergo mostrata nell'immagine di riferimento. Mantieni il mio aspetto inalterato.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="Trasformazione video di un hotel di lusso Chanel">
-
-**[🎬 Guarda il video →](https://x.com/ytjessie_/status/2077522462494085236)**
-
-**Autore:** [Jessie_Ma](https://x.com/ytjessie_) | **Fonte:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **Pubblicato:** Jul 15, 2026
-
----
-### Scoperta cinematografica del tesoro del pinguino
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico dettagliato per Gemini Omni che crea un video di suspense di 10 secondi con un cucciolo di pinguino trovato all'interno di uno scrigno del tesoro, incluse istruzioni per l'audio e la telecamera.
-
-#### 📝 Prompt
-
-```
-Video POV cinematografico di 10 secondi. Notte in una foresta silenziosa. Il fascio di una torcia scansiona lentamente il terreno finché non scopre un vecchio scrigno del tesoro in legno coperto di muschio. La telecamera si avvicina con cautela con un leggero movimento a mano libera, creando suspense. Una mano umana si abbassa, sblocca lo scrigno e solleva lentamente il coperchio. Invece di un tesoro, un minuscolo e soffice cucciolo di pinguino che indossa occhiali da sole neri in miniatura è seduto all'interno su cristalli di ghiaccio luminosi. Il pinguino guarda dritto verso la telecamera, sorride e solleva lentamente una pinna per fare un chiaro gesto di pollice in su 👍. La telecamera effettua uno zoom in avanti per un primo piano dell'espressione adorabile.
-
-Audio: Atmosfera forestale silenziosa con grilli in lontananza e una musica di suspense soffusa durante l'avvicinamento. Nel momento in cui lo scrigno si apre, la musica cambia in una melodia allegra e stimolante. Una voce maschile adulta naturale dice con entusiasmo: "Wow, meraviglioso!", perfettamente sincronizzata con il pollice in su del pinguino. Il pinguino risponde immediatamente con un simpatico cinguettio.
-
-Ultra-realistico, illuminazione cinematografica, piume altamente dettagliate, occhi espressivi, fisica realistica, animazione naturale, movimento fluido della telecamera a mano libera, profondità di campo ridotta, fotorealistico, senza sottotitoli, senza testo, senza filigrana.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="Scoperta cinematografica del tesoro del pinguino">
-
-**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2077310416615780646)**
-
-**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2077310416615780646) | **Pubblicato:** Jul 15, 2026
-
----
-### Animazione in stop-motion per app di salute mentale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt completo per la generazione video per creare un'animazione in stop-motion di 10 secondi utilizzando Gemini Omni. Segue una sequenza di storyboard sul sovraccarico mentale e un'app di supporto basata su AI, caratterizzata da un'estetica in cartoncino lavorato a mano.
-
-#### 📝 Prompt
-
-```
-Genera un video singolo e fluido di 10 secondi che animi la sequenza di eventi mostrata nell'immagine di riferimento della griglia dello storyboard. Il video deve procedere attraverso il Frame 1 (sovraccarico mentale), il Frame 2 (check-in con un tocco), il Frame 3 (assistente AI) e il Frame 4 (branding), passando fluidamente tra ogni scena con un ritmo stop-motion rapido. DIRETTIVE DI STILE E MOVIMENTO Estetica stop-motion artigianale a 12 FPS senza motion blur. Movimento rapido frame-by-frame con tremolio intenzionale della carta e riposizionamento visibile dei livelli. Materiali: cartoncino a strati, bordi di giornale strappati, nastro adesivo e cornici Polaroid. Colori: sfondo bianco sporco, nero carbone, accenti giallo elettrico e verde salvia tenue. SEQUENZA DELLE SCENE (0-2,5s) Macro zoom rapido sulla testa in carta ritagliata di Isla che cade in un caotico ammasso di carta. La tipografia "MIND WON'T SLOW DOWN?" appare parola per parola. (2,5-5s) Un cartoncino pulito entra in scena. Isla sorride da una cornice Polaroid. Un dito di carta tocca un telefono di carta, sostituendo il disordine con fiori di carta e sole. (5-8s) Il pupazzo articolato di Isla cammina su pietre miliari. Le schede AI si aprono a fisarmonica: "Breathe", "Reflect", "Reset". (8-10s) Uno smartphone di carta appare al centro mostrando l'interfaccia di Feel Fresh. Il logo "FEEL FRESH" viene impresso con un ultimo zoom rapido. AUDIO "Ti senti mai come se la tua mente non volesse rallentare? Con Feel Fresh, fai il check-in con un solo tocco. Lascia che l'AI ti aiuti a respirare, riflettere e resettare. Feel Fresh, sentiti più leggero, ogni giorno."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076895874266046464/img/NksVtycvOSTSh2hj.jpg" width="600" alt="Animazione in stop-motion per app di salute mentale">
-
-**[🎬 Guarda il video →](https://x.com/AItheoryx/status/2076898752347144434)**
-
-**Autore:** [AI Theory](https://x.com/AItheoryx) | **Fonte:** [Link](https://x.com/AItheoryx/status/2076898752347144434) | **Pubblicato:** Jul 14, 2026
-
----
-### Azione Samurai Cyberpunk Olografico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video altamente dettagliato per un samurai cyberpunk con maschera olografica, caratterizzato da una timeline d'azione a più fasi che include fendenti di katana ed effetti di illuminazione al neon.
-
-#### 📝 Prompt
-
-```
-Samurai futuristico con pelle color onice, abiti opulenti e una maschera Oni olografica luminosa con rune a LED. Azione cinematografica, estetica cyberpunk, sfondo bokeh al neon brillante, risoluzione 8k, fotorealistico.
-
-Timeline d'azione di 10 secondi:
-
-0-2s: La maschera a LED e le rune olografiche si accendono e iniziano a lampeggiare.
-
-2-4s: Zoom indietro rapido. Il samurai estrae velocemente una katana che crepita di luminosa energia al neon.
-
-4-7s: Scatto d'azione rapido in avanti. Il samurai esegue un fendente ampio e luminoso verso la telecamera.
-
-7-10s: Conclusione al rallentatore. Il samurai rinfodera la katana mentre inizia a cadere una pioggia al neon, assumendo una posa stoica.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076667811745742848/img/BPV02scF6Vf1sJ26.jpg" width="600" alt="Azione Samurai Cyberpunk Olografico">
-
-**[🎬 Guarda il video →](https://x.com/michaelrabone/status/2076668007007338683)**
-
-**Autore:** [Michael Rabone](https://x.com/michaelrabone) | **Fonte:** [Link](https://x.com/michaelrabone/status/2076668007007338683) | **Pubblicato:** Jul 13, 2026
-
----
-### Sequenza cinematografica di un road movie ispirata a Nomadland
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico altamente dettagliato per Gemini Omni, per creare una sequenza di road movie in cinque inquadrature con illuminazione durante la golden hour e dettagli coerenti del personaggio.
-
-#### 📝 Prompt
-
-```
-Crea una sequenza cinematografica di 10 secondi ultra-fotorealistica in stile road movie, ispirata a *Nomadland*, *I sogni segreti di Walter Mitty* e *Into the Wild - Nelle terre selvagge*.
-
-Utilizza l'immagine di riferimento femminile fornita come protagonista. Mantieni l'identità facciale esatta, l'acconciatura, il tono della pelle, le proporzioni corporee, la continuità dell'abbigliamento e le espressioni per tutta la durata.
-
-## STILE
-
-Cinematografia durante la golden hour.
-
-Paesaggi naturali.
-
-Interpretazioni autentiche.
-
-ARRI ALEXA 65.
-
-Color grading cinematografico caldo.
-
-## FORMATO
-
-10 secondi
-
-5 inquadrature
-
-### INQUADRATURA 1 (0:00–0:02)
-
-La protagonista guida da sola lungo una strada costiera deserta al tramonto.
-
-### INQUADRATURA 2 (0:02–0:04)
-
-Nota un piccolo cartello in legno con la scritta:
-
-**"Scenic Route."**
-
-Sorride e svolta.
-
-### INQUADRATURA 3 (0:04–0:06)
-
-La strada sale sopra la costa, rivelando una vista panoramica mozzafiato sull'oceano.
-
-### INQUADRATURA 4 (0:06–0:08)
-
-Ferma l'auto, scende e sente la brezza marina.
-
-### INQUADRATURA 5 (0:08–0:10)
-
-Un'ampia ripresa con drone mostra la protagonista in piedi da sola sulla scogliera mentre le onde si infrangono sotto di lei.
-
-**Musica**
-
-Chitarra acustica.
-
-Archi caldi.
-
-Piano delicato.
-
-**Obiettivo emozionale**
-
-*"Non ogni svolta sbagliata è un errore."*
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075765489247383552/img/cFbChjHjOg7W09WZ.jpg" width="600" alt="Sequenza cinematografica di un road movie ispirata a Nomadland">
-
-**[🎬 Guarda il video →](https://x.com/vireonixx/status/2075765549796340071)**
-
-**Autore:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2075765549796340071) | **Pubblicato:** Jul 11, 2026
-
----
-### Pubblicità cinematografica orbitale per prodotti
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt semplice ma efficace per generare una pubblicità di prodotto premium con movimenti di camera fluidi ed effetti di illuminazione professionali.
-
-#### 📝 Prompt
-
-```
-la camera orbita lentamente attorno al prodotto, i riflessi si muovono sulla superficie, particelle soffici nell'aria, atmosfera da pubblicità premium
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Pubblicità cinematografica orbitale per prodotti">
-
-**[🎬 Guarda il video →](https://x.com/getimg_ai/status/2075683226681831794)**
-
-**Autore:** [getimg.ai](https://x.com/getimg_ai) | **Fonte:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **Pubblicato:** Jul 10, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -2698,6 +2637,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-30T09:45:10.824Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-08-30T16:05:00.761Z</sub>
 
 </div>

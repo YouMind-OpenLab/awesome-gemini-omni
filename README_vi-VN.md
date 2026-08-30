@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **208** |
+| 📝 Tổng số prompt | **216** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-30** |
 
@@ -56,6 +56,186 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Điện ảnh Drift Sa mạc Ấn tượng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) tạo video điện ảnh về ô tô, tập trung vào kỹ thuật drift tốc độ cao trên những cồn cát vàng với các góc quay theo dõi đầy kịch tính và góc nhìn thứ nhất (POV).
+
+#### 📝 Prompt
+
+```
+drift quyết liệt, cồn cát vàng, bão cát, điện ảnh ô tô cao cấp, góc nhìn POV, quay theo dõi kịch tính
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093957432380940288/img/gaSPtVaytRj2YWif.jpg" width="600" alt="Điện ảnh Drift Sa mạc Ấn tượng">
+
+**[🎬 Xem video →](https://x.com/itsSSS1510/status/2093957642444292264)**
+
+**Tác giả:** [Sheetal Shinde](https://x.com/itsSSS1510) | **Nguồn:** [Link](https://x.com/itsSSS1510/status/2093957642444292264) | **Đã xuất bản:** Aug 30, 2026
+
+---
+### Cuộc rượt đuổi bằng mô tô tương lai giữa bầy zombie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một phân cảnh điện ảnh hoạt hình 3D đầy hành động với nhân vật chính trên chiếc mô tô điểm xuyết đèn neon đang chạy trốn khỏi một bầy zombie.
+
+#### 📝 Prompt
+
+```
+Phân cảnh hành động điện ảnh hoạt hình 3D đầy kịch tính. Nhân vật chính là một cô gái trẻ với mái tóc ngắn màu bạc trắng, đeo kính phi công trên trán, mặc bộ đồ da đen bóng bẩy với các chi tiết neon màu xanh dương rực rỡ cùng chiếc áo khoác dài bay phấp phới phía sau. Cô lái một chiếc mô tô khoa học viễn tưởng tốc độ cao với bánh xe neon màu hồng cánh sen và khung xe điểm xuyết màu xanh lơ. Cô phóng nhanh trên đường cao tốc ẩm ướt, u ám đầy những chiếc xe bỏ hoang, bị truy đuổi bởi một bầy zombie hung hãn khổng lồ. Các góc máy linh hoạt ghi lại cảnh cô drift qua các khúc cua tạo ra những tia lửa sáng rực, bắn súng lục vào những con zombie đang lao tới với hiệu ứng bullet-time quay chậm, và thực hiện cú nhảy mạo hiểm giữa không trung vượt qua đám đông. Ánh sáng điện ảnh đầy tâm trạng, tông màu tối với sự tương phản giữa màu hồng neon rực rỡ và màu xanh lơ, ánh sáng ban ngày u ám, kết cấu chân thực, thẩm mỹ phim hành động, độ phân giải 8k, siêu chi tiết.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093925475324510208/img/v_VZ8mF6rGkOv_5Y.jpg" width="600" alt="Cuộc rượt đuổi bằng mô tô tương lai giữa bầy zombie">
+
+**[🎬 Xem video →](https://x.com/AiwithBloodline/status/2093925571311051143)**
+
+**Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2093925571311051143) | **Đã xuất bản:** Aug 30, 2026
+
+---
+### Hoạt hình Anime Chisato Nishikigi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh tạo hoạt hình cho Gemini Omni 1.1 Flash với nhân vật Chisato Nishikigi từ Lycoris Recoil đang hô vang những câu nói truyền cảm hứng trong bối cảnh trường học.
+
+#### 📝 Prompt
+
+```
+Tạo một video hoạt hình về Chisato Nishikigi từ Lycoris Recoil với khuôn mặt nghiêm túc bên trong trường học, đang hô vang các câu: "Đừng lo lắng về những điều mà bản thân không thể kiểm soát!", "Chấp nhận nó, hãy nỗ lực hết mình!", và "Thông thường, đó là lúc những điều tốt đẹp sẽ đến".
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093832991349039104/img/P3M3vM1hpfhHcF_-.jpg" width="600" alt="Hoạt hình Anime Chisato Nishikigi">
+
+**[🎬 Xem video →](https://x.com/secondenalist/status/2093833007178436988)**
+
+**Tác giả:** [兼業エナリスト](https://x.com/secondenalist) | **Nguồn:** [Link](https://x.com/secondenalist/status/2093833007178436988) | **Đã xuất bản:** Aug 29, 2026
+
+---
+### Video quảng cáo chăm sóc da Đông Á
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một gợi ý video điện ảnh cho quảng cáo chăm sóc da cao cấp, làm nổi bật các chi tiết da ở chế độ macro, chuyển động hữu cơ thanh lịch và thẩm mỹ tối giản.
+
+#### 📝 Prompt
+
+```
+Cận cảnh macro cực đại đôi mắt của người phụ nữ Đông Á, làn da ngậm nước, ánh sáng tự nhiên ấn tượng đổ bóng sắc nét trên khuôn mặt cô. Chuyển cảnh trực tiếp sang góc quay trung bình từ dưới lên, quay ngoài trời dưới bầu trời xanh trong, người phụ nữ đứng giữa những tấm rèm vải trắng mờ ảo đang bay trong gió, đưa tuýp kem chống nắng Hàn Quốc màu be tối giản trực tiếp về phía ống kính. Chuyển sang cận cảnh macro siêu nét khi cô nhẹ nhàng thoa lớp kem trắng lên gò má. Chuyển động hữu cơ mềm mại, rèm trắng mỏng bay phấp phới trong gió, bóng đổ nghệ thuật từ cửa sổ nhảy múa trên làn da căng mọng như thủy tinh của cô. Thẩm mỹ quảng cáo chăm sóc da Hàn Quốc tối giản, kết cấu da siêu chi tiết, thanh lịch, thanh bình, ánh sáng studio sang trọng, ánh sáng tự nhiên có độ tương phản cao, tông màu ấm áp đậm chất điện ảnh, độ phân giải 8K, chân thực và sống động, 24fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093726929086214144/img/CvDq4auc7HWLhePT.jpg" width="600" alt="Video quảng cáo chăm sóc da Đông Á">
+
+**[🎬 Xem video →](https://x.com/GeekCatX/status/2093727235262075091)**
+
+**Tác giả:** [知识猫AI实验室](https://x.com/GeekCatX) | **Nguồn:** [Link](https://x.com/GeekCatX/status/2093727235262075091) | **Đã xuất bản:** Aug 29, 2026
+
+---
+### Hoạt ảnh thêu logo cận cảnh (Macro)
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) timelapse macro chuyên dụng giúp tạo hoạt ảnh các sợi chỉ dệt nên logo thương hiệu trên vải với kết cấu và ánh sáng chân thực.
+
+#### 📝 Prompt
+
+```
+“Cận cảnh cực đại (extreme macro) bề mặt vải cotton, ban đầu trống trơn. Các sợi chỉ thêu đầy màu sắc nổi lên từ bề mặt và tự đan vào nhau, tạo thành những đường chỉ satin khít khao từng hàng một, phác họa theo logo đã tải lên. Khu vực thêu dần dần mở rộng khắp khung hình, sợi chỉ căng ra và nổi lên tạo thành kết cấu thêu 3D cho đến khi hoàn thiện toàn bộ logo. Máy quay giữ cố định, tốc độ timelapse chậm rãi đầy mãn nhãn. Ánh sáng tự nhiên dịu nhẹ từ một phía, độ sâu trường ảnh nông, có thể nhìn rõ các sợi vải và độ bóng chân thực của chỉ thêu. Không có bàn tay, sợi chỉ tự di chuyển. Một cảnh quay duy nhất, không chuyển cảnh.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093672520440246272/img/4hzIWVYpdKZg9p_D.jpg" width="600" alt="Hoạt ảnh thêu logo cận cảnh (Macro)">
+
+**[🎬 Xem video →](https://x.com/codecloude/status/2093672581907742963)**
+
+**Tác giả:** [Code cloud E.commerce | کد کلاد](https://x.com/codecloude) | **Nguồn:** [Link](https://x.com/codecloude/status/2093672581907742963) | **Đã xuất bản:** Aug 29, 2026
+
+---
+### Giới thiệu sản phẩm Nescafé theo cấu trúc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt định dạng JSON kỹ thuật dành cho quảng cáo cà phê chuyên nghiệp, mô tả cảnh đồn điền biến đổi thành hũ sản phẩm.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "một cú máy liên tục không cắt cảnh",
+    "composition": "bắt đầu bằng góc siêu rộng tại đồn điền cà phê dưới ánh nắng, theo dõi các hạt cà phê bay lên tạo thành vòng xoáy giữa không trung, kết thúc bằng cận cảnh hũ Nescafé lơ lửng ở chính giữa khung hình",
+    "lens": "ống kính tele cho các hàng cây cà phê, sau đó chuyển sang 35mm để làm nổi bật sản phẩm",
+    "frame_rate": "24fps chuẩn điện ảnh",
+    "camera_movement": "di chuyển chậm theo các hạt cà phê đang xoáy, sau đó dolly tiến vào mượt mà khi chúng kết nối thành hình dáng hũ, giữ cố định vào sản phẩm đang lơ lửng"
+  },
+  "timeline": {
+    "0-3s": "Đồn điền cà phê trên sườn đồi vào giờ vàng siêu rộng. Hạt cà phê rang rải rác trên mặt đất giữa các hàng cây. Ánh nắng chiều ấm áp, bóng đổ dài mềm mại, gió nhẹ thổi qua tán lá.",
+    "3-7s": "Các hạt cà phê bay lên từ mặt đất và xoay theo những vòng xoáy chậm rãi, thanh thoát và có tổ chức. Chúng kết nối giữa không trung tạo thành hình bóng chính xác của một hũ cà phê cao cấp. Hiệu ứng nhiễu hạt tinh tế và các cạnh hạt cà phê phát sáng.",
+    "7-10s": "Hình khối từ các hạt cà phê rung động một nhịp rồi biến đổi thành hũ cà phê Nescafé thật lơ lửng không trọng lượng, đặt ở chính giữa khung hình. Giữ hình ảnh sản phẩm. Ánh sáng vàng viền quanh."
+  },
+  "subject": {
+    "description": "hàng trăm hạt cà phê rang bay lên và xoay trong những vòng xoáy thanh thoát để tạo thành hình bóng hũ cà phê cao cấp",
+    "props": "hũ cà phê Nescafé hoàn thiện được tạo thành từ các hạt cà phê đang xoáy, sau đó chuyển đổi thành bao bì thương hiệu thực tế trong khi đang lơ lửng giữa không trung"
+  },
+  "scene": {
+    "location": "đồn điền cà phê trên sườn đồi thoáng đãng",
+    "time_of_day": "giờ vàng buổi chiều muộn, nắng thấp, bóng đổ dài",
+    "environment": "gió ấm, bóng đổ mềm mại trên các hàng cây, hạt cà phê bay lơ lửng trong không trung"
+  },
+  "visual_details": {
+    "action": "các hạt cà phê bay lên, xoay theo vòng xoáy có tổ chức, khóa vào hình dạng hũ, rung động, rồi biến đổi thành bao bì Nescafé hoàn chỉnh lơ lửng trong không gian",
+    "special_effects": "hiệu ứng hoạt họa hạt cà phê, chuyển động chậm, biến đổi chất liệu giữa không trung, hiệu ứng lơ lửng tinh tế"
+  },
+  "cinematography": {
+    "lighting": "ánh nắng mặt trời ấm áp có hướng, các cạnh hạt cà phê phát sáng, ánh sáng vàng viền quanh hũ cà phê lơ lửng",
+    "color_palette": "nâu đậm, đen sâu, vàng hổ phách, xanh lá tự nhiên",
+    "tone": "tự nhiên, tinh tế, sang trọng cao cấp"
+  },
+  "audio": {
+    "music": "guitar acoustic nhẹ nhàng với bộ gõ êm dịu và tiếng piano đệm",
+    "ambient": "tiếng lá xào xạc, tiếng chim xa xa, tiếng gió thổi qua các hàng cà phê",
+    "sound_effects": "âm thanh vòng xoáy hạt cà phê, tiếng khóa khớp khi hình dạng hoàn thiện, tiếng vo nhẹ dưới hiệu ứng lơ lửng",
+    "mix": "thoáng đãng, cởi mở, hướng về thiên nhiên với phần nhạc nền ấm áp ở trung tâm"
+  },
+  "constraints": {
+    "dialogue": "không có",
+    "voiceover": "không có",
+    "on_screen_text": "không có",
+    "captions": "không có",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093639810439364608/img/xIwz_L8uOYOcvixG.jpg" width="600" alt="Giới thiệu sản phẩm Nescafé theo cấu trúc">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2093639917226311970)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2093639917226311970) | **Đã xuất bản:** Aug 29, 2026
+
+---
+### Cảnh hành động bình cà phê phát nổ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đầy hành động với cảnh cháy nổ, hiệu ứng vật lý của mảnh vỡ và sự tương tác giữa các nhân vật trong bối cảnh ánh đèn neon.
+
+#### 📝 Prompt
+
+```
+bình cà phê phát nổ, các mảnh vỡ rơi trên bộ vest của các thám tử và ánh sáng từ biển hiệu "OPEN" neon hắt xuống. Sau đó, chuyển cảnh sang đội xử lý bom.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093577406409793536/img/DAV6eWZiwc3SnNIs.jpg" width="600" alt="Cảnh hành động bình cà phê phát nổ">
+
+**[🎬 Xem video →](https://x.com/machina9000/status/2093577478941929615)**
+
+**Tác giả:** [Daniił Vołkaū](https://x.com/machina9000) | **Nguồn:** [Link](https://x.com/machina9000/status/2093577478941929615) | **Đã xuất bản:** Aug 29, 2026
+
+---
 ### Kịch bản quảng cáo Chrome Robot
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -136,6 +316,25 @@ Quan trọng: Giữ nguyên các công nhân tí hon, bố cục nhà máy, hìn
 **[🎬 Xem video →](https://x.com/AiwithBloodline/status/2093541403796353389)**
 
 **Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2093541403796353389) | **Đã xuất bản:** Aug 29, 2026
+
+---
+### Cậu bé 4 tuổi làm streamer game zombie
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) để tạo video về một cậu bé 4 tuổi đang livestream chơi game. Trò chơi có nhân vật y tá chiến đấu với zombie bằng ống tiêm, và mô hình được yêu cầu nói bằng tiếng Bồ Đào Nha.
+
+#### 📝 Prompt
+
+```
+Một cậu bé 4 tuổi làm streamer đang bình luận và chơi một trò chơi mà nhân vật chính là một nữ y tá chiến đấu với zombie bằng ống tiêm. Cậu bé được đính kèm để làm tài liệu tham khảo. Nói bằng tiếng Bồ Đào Nha.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093506685738336256/img/bizbnu_Y4olNg2jx.jpg" width="600" alt="Cậu bé 4 tuổi làm streamer game zombie">
+
+**[🎬 Xem video →](https://x.com/gudesouzalima/status/2093506705996796413)**
+
+**Tác giả:** [Gustavo de Souza](https://x.com/gudesouzalima) | **Nguồn:** [Link](https://x.com/gudesouzalima/status/2093506705996796413) | **Đã xuất bản:** Aug 29, 2026
 
 ---
 ### Cuộc đối đầu của Ninja trên sa mạc lúc hoàng hôn
@@ -2364,266 +2563,6 @@ Không có lời thoại.
 **Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **Đã xuất bản:** Jul 16, 2026
 
 ---
-### Vlog sắp xếp kệ sách ấm cúng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video chi tiết cho vlog mang phong cách máy quay mini DV cầm tay, ghi lại cảnh một cô gái trẻ sắp xếp sách với âm thanh ASMR thỏa mãn và ánh sáng tự nhiên.
-
-#### 📝 Prompt
-
-```
-GÓC MÁY / HÌNH ẢNH: Cảnh quay từ máy quay mini DV cầm tay do chính nhân vật tự quay. Có độ rung nhẹ, thỉnh thoảng lấy nét lại, khung hình không hoàn hảo, thao tác zoom tự nhiên, chất lượng hình ảnh mềm mại như băng từ, hạt nhiễu tinh tế, độ phơi sáng tự động thay đổi chân thực theo ánh sáng chiều ấm áp. Tông màu da tự nhiên, nhòe chuyển động nhẹ, mang đậm chất thẩm mỹ của máy quay gia đình.
-PHONG CÁCH: Vlog sắp xếp kệ sách ấm cúng với các yếu tố ASMR nhẹ nhàng. Nhịp độ thư thái, tối giản lời thoại, các khoảnh khắc tự nhiên. Tập trung vào những âm thanh thỏa mãn: tiếng lật trang, tiếng gáy sách chạm vào nhau, tiếng lau bụi, tiếng kệ gỗ dịch chuyển khẽ.
-NHÂN VẬT: Cô gái trẻ khoảng ngoài 20 tuổi, tóc dài gợn sóng, mặc áo sơ mi flannel rộng, đeo kính đọc sách trên đầu. Năng lượng bình tĩnh, trầm tư khi đang sắp xếp lại đồ đạc.
-BỐI CẢNH: Góc đọc sách nhỏ vào một buổi chiều cuối tuần yên tĩnh. Ánh sáng ấm áp xuyên qua rèm cửa, kệ sách còn trống một nửa, những chồng sách đặt trên sàn nhà.
-KỊCH BẢN PHÂN CẢNH:
-→ (2 giây, góc trung đặt máy) Đặt máy quay lên bàn bên cạnh, ngồi gần kệ sách. "Cuối cùng cũng sắp xếp sách theo màu sắc."
-→ (2 giây, góc từ trên xuống) Lấy sách ra khỏi kệ, phân loại thành từng chồng.
-→ (2 giây, cận cảnh) Lau bụi trên kệ trống bằng khăn.
-→ (2 giây, góc cầm tay) Lật xem một cuốn sách cũ, dừng lại ở một trang. "Mình quên mất là mình có cuốn này luôn đấy."
-→ (2 giây, góc chi tiết) Sắp xếp sách theo màu sắc, đẩy chúng vào vị trí. Không có lời thoại.
-→ (2 giây, góc trung) Thêm một chậu cây nhỏ và nến lên kệ. "Chỉ cần trang trí một chút thôi."
-→ (2 giây, góc macro) Chỉnh lại gáy sách cho thẳng hàng, vỗ nhẹ cho đều.
-→ (2 giây, góc đặt máy) Lùi lại để kiểm tra cách sắp xếp từ xa.
-→ (2 giây, cảnh kết ấm áp) Ngắm nhìn kệ sách đã hoàn thiện, mỉm cười hạnh phúc. "Tốt hơn nhiều rồi."
-→ (1,5 giây, cảnh cuối) Đưa tay về phía máy quay. "Hẹn gặp lại nhé." Bàn tay che ống kính khi kết thúc ghi hình.
-LƯU Ý ÂM THANH: Âm thanh tự nhiên của tiếng lật trang, lau bụi, tiếng sách trượt cần phải nghe rõ ràng. Lời thoại nhỏ nhẹ và tự nhiên.
-LƯU Ý VỀ TÍNH CHÂN THỰC: Ngôn ngữ cơ thể chân thực, chớp mắt tự nhiên, nụ cười thật lòng, những khoảng lặng suy nghĩ, khung hình không hoàn hảo, hiệu ứng lấy nét hơi thở, sự thay đổi ánh sáng chiều ấm áp. Video cần giống như một vlog cá nhân chân thực trên máy quay gia đình, không phải sản xuất thương mại.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077761124582543360/img/NROUVc0jpf1UZ9LZ.jpg" width="600" alt="Vlog sắp xếp kệ sách ấm cúng">
-
-**[🎬 Xem video →](https://x.com/Strength04_X/status/2077761335585280363)**
-
-**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2077761335585280363) | **Đã xuất bản:** Jul 16, 2026
-
----
-### Ra mắt sản phẩm bằng drone FPV tại hẻm núi sa mạc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một phân cảnh drone FPV điện ảnh tốc độ cao băng qua các hẻm núi sa mạc gồ ghề, kết thúc bằng màn ra mắt sản phẩm ấn tượng trên cao nguyên đầy nắng.
-
-#### 📝 Prompt
-
-```
-{
-  "description": "Một cú máy drone FPV điện ảnh tốc độ cao bắt đầu từ trên cao phía trên những vách đá sa mạc hùng vĩ vào lúc bình minh. Drone lao dốc mạnh vào các hẻm núi đá gồ ghề, lướt qua những đụn cát và băng nhanh giữa các bức tường đá đỏ khổng lồ. Gió cuốn theo những dải bụi khi drone tăng tốc, bay sát qua các vòm đá tự nhiên và những đường sườn núi đầy nắng. Ở giữa chặng, chuyển động chậm dần khi drone bay vút ra một cao nguyên sa mạc rộng mở, để lộ một lon Red Bull lạnh giá đang đặt trên phiến đá gồ ghề, những giọt nước đọng trên lon hiện rõ và lấp lánh dưới ánh sáng buổi sáng. Không có văn bản.",
-  "style": "điện ảnh, quảng cáo thể thao mạo hiểm siêu thực",
-  "camera": "góc nhìn drone FPV thứ nhất với cảnh bay xuyên hẻm núi tốc độ cao đầy kịch tính, chuyển tiếp sang cảnh quay chậm mượt mà, có kiểm soát để làm nổi bật sản phẩm",
-  "lighting": "ánh sáng bình minh sớm với các điểm nhấn ấm áp, ánh sáng viền mạnh trên các khối đá, độ tương phản bóng đổ cao; phản chiếu sắc nét và điểm nhấn từ hơi nước đọng trên lon Red Bull",
-  "environment": "phong cảnh hẻm núi sa mạc rộng lớn với các vách đá đỏ, hẻm núi hẹp, đụn cát, bụi bay trong gió và một khoảng cao nguyên trống trải",
-  "motion": "chuyển động trên không rất nhanh với những cú lao dốc sắc nét, bay sát hẻm núi và những khúc cua gấp; chuyển dần sang chuyển động chậm và ổn định mượt mà cho cảnh kết thúc",
-  "ending": "một khoảnh khắc mạnh mẽ, tĩnh lặng trên cao nguyên sa mạc; lon Red Bull nằm chính giữa phiến đá khi camera nhẹ nhàng xoay quanh và tiến lại gần, nhấn mạnh vào năng lượng, sự tươi mát và tác động mạnh mẽ",
-  "aspect_ratio": "16:9",
-  "duration": "10 giây",
-  "text": "không có",
-  "keywords": [
-    "drone FPV",
-    "chuyển động điện ảnh siêu tốc",
-    "bay xuyên hẻm núi sa mạc",
-    "ra mắt sản phẩm siêu thực",
-    "quảng cáo nước tăng lực",
-    "kết thúc bằng chuyển động chậm",
-    "không có văn bản"
-  ]
-}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077736758104723456/img/Czy7V5pZUnqzGTlz.jpg" width="600" alt="Ra mắt sản phẩm bằng drone FPV tại hẻm núi sa mạc">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2077736805416505855)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2077736805416505855) | **Đã xuất bản:** Jul 16, 2026
-
----
-### Chuyển đổi video khách sạn sang trọng của Chanel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chỉnh sửa video-to-video dành cho Gemini Omni giúp thay đổi cảnh quay để thêm các sản phẩm của Chanel và một phòng khách sạn sang trọng, đồng thời giữ nguyên diện mạo của chủ thể.
-
-#### 📝 Prompt
-
-```
-Sử dụng Gemini Omni, hãy biến chiếc hộp tôi đang mở thành sản phẩm của Chanel. Sau khi tôi mở hộp, bên trong sẽ xuất hiện nước hoa và một vài thỏi son của Chanel. 
-
-Thay đổi phông nền thành phòng khách sạn sang trọng, đẳng cấp như trong hình ảnh tham chiếu. Giữ nguyên diện mạo của tôi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077520324271493120/img/ybKOGlvhrVCW3myS.jpg" width="600" alt="Chuyển đổi video khách sạn sang trọng của Chanel">
-
-**[🎬 Xem video →](https://x.com/ytjessie_/status/2077522462494085236)**
-
-**Tác giả:** [Jessie_Ma](https://x.com/ytjessie_) | **Nguồn:** [Link](https://x.com/ytjessie_/status/2077522462494085236) | **Đã xuất bản:** Jul 15, 2026
-
----
-### Khám phá kho báu chim cánh cụt đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chi tiết dành cho Gemini Omni giúp tạo ra video 10 giây đầy kịch tính về một chú chim cánh cụt con được tìm thấy bên trong rương kho báu, bao gồm cả hướng dẫn về âm thanh và góc máy.
-
-#### 📝 Prompt
-
-```
-Video POV đậm chất điện ảnh dài 10 giây. Ban đêm trong một khu rừng yên tĩnh. Chùm đèn pin quét chậm trên mặt đất cho đến khi phát hiện ra một chiếc rương kho báu bằng gỗ cũ kỹ phủ đầy rêu. Máy quay cẩn thận tiến lại gần với chuyển động cầm tay tinh tế, tạo cảm giác hồi hộp. Một bàn tay người vươn xuống, mở khóa rương và từ từ nhấc nắp lên. Thay vì kho báu, một chú chim cánh cụt con nhỏ nhắn, bông xù, đeo kính râm đen tí hon đang ngồi bên trong trên những tinh thể băng phát sáng. Chú chim cánh cụt nhìn thẳng vào máy quay, mỉm cười và từ từ giơ một chiếc vây lên để thực hiện cử chỉ giơ ngón tay cái 👍 rõ ràng. Máy quay tiến sát vào để cận cảnh biểu cảm đáng yêu đó.
-
-Âm thanh: Không gian rừng yên tĩnh với tiếng dế kêu xa xa và nhạc nền hồi hộp nhẹ nhàng trong lúc tiến lại gần. Ngay khoảnh khắc chiếc rương mở ra, âm nhạc chuyển sang giai điệu vui tươi, phấn khởi. Giọng nam trưởng thành tự nhiên hào hứng nói: "Wow, tuyệt vời!" đồng bộ hoàn hảo với cử chỉ giơ ngón tay cái của chú chim cánh cụt. Chú chim cánh cụt ngay lập tức đáp lại bằng một tiếng kêu chiêm chiếp dễ thương.
-
-Siêu thực, ánh sáng điện ảnh, lông vũ chi tiết cao, đôi mắt biểu cảm, vật lý chân thực, hoạt ảnh tự nhiên, chuyển động máy quay cầm tay mượt mà, độ sâu trường ảnh nông, chân thực như ảnh chụp, không phụ đề, không văn bản, không hình mờ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077310337683161088/img/IzuLGqRdEwEJN9fB.jpg" width="600" alt="Khám phá kho báu chim cánh cụt đậm chất điện ảnh">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2077310416615780646)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2077310416615780646) | **Đã xuất bản:** Jul 15, 2026
-
----
-### Hoạt hình Stop-motion về ứng dụng sức khỏe tinh thần
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video toàn diện để tạo hoạt hình stop-motion dài 10 giây bằng Gemini Omni. Nội dung tuân theo trình tự kịch bản phân cảnh về tình trạng quá tải tinh thần và một ứng dụng hỗ trợ AI, với phong cách thẩm mỹ từ giấy bìa thủ công.
-
-#### 📝 Prompt
-
-```
-Tạo một video liền mạch dài 10 giây mô phỏng trình tự các sự kiện được hiển thị trong hình ảnh tham chiếu lưới phân cảnh được cung cấp. Video cần đi qua Khung 1 (quá tải tinh thần), Khung 2 (kiểm tra nhanh chỉ với một lần chạm), Khung 3 (trợ lý AI) và Khung 4 (thương hiệu), chuyển cảnh mượt mà giữa các phân đoạn với nhịp điệu stop-motion dứt khoát. CHỈ DẪN PHONG CÁCH & CHUYỂN ĐỘNG Thẩm mỹ stop-motion thủ công ở tốc độ 12 FPS, không bị nhòe chuyển động. Chuyển động từng khung hình dứt khoát với độ rung của giấy có chủ đích và các lớp giấy được định vị rõ ràng. Chất liệu: Giấy bìa nhiều lớp, mép báo xé, băng dính giấy và khung ảnh Polaroid. Màu sắc: Nền trắng ngà, đen than, điểm nhấn vàng điện và xanh lá xám dịu. TRÌNH TỰ CẢNH (0-2,5 giây) Zoom cận cảnh vào đầu nhân vật Isla cắt từ giấy rơi vào đống giấy hỗn độn. Dòng chữ "MIND WON'T SLOW DOWN?" xuất hiện từng từ một. (2,5-5 giây) Một tấm bảng sạch sẽ trượt vào. Isla mỉm cười từ khung ảnh Polaroid. Một ngón tay bằng giấy chạm vào điện thoại giấy, thay thế sự hỗn độn bằng hoa giấy và ánh nắng. (5-8 giây) Con rối Isla có khớp nối bước đi trên những viên đá. Các thẻ AI mở ra theo kiểu đàn xếp: "Breathe", "Reflect", "Reset". (8-10 giây) Một chiếc điện thoại thông minh bằng giấy đập vào trung tâm hiển thị giao diện người dùng Feel Fresh. Logo "FEEL FRESH" đóng dấu xuống với cú zoom cận cảnh cuối cùng. ÂM THANH "Bạn đã bao giờ cảm thấy tâm trí mình không thể chậm lại? Với Feel Fresh, hãy kiểm tra trạng thái chỉ với một lần chạm. Hãy để AI giúp bạn hít thở, suy ngẫm và thiết lập lại. Feel Fresh để cảm thấy nhẹ nhàng hơn mỗi ngày."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076895874266046464/img/NksVtycvOSTSh2hj.jpg" width="600" alt="Hoạt hình Stop-motion về ứng dụng sức khỏe tinh thần">
-
-**[🎬 Xem video →](https://x.com/AItheoryx/status/2076898752347144434)**
-
-**Tác giả:** [AI Theory](https://x.com/AItheoryx) | **Nguồn:** [Link](https://x.com/AItheoryx/status/2076898752347144434) | **Đã xuất bản:** Jul 14, 2026
-
----
-### Hành động Samurai Cyberpunk toàn ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video chi tiết về samurai cyberpunk với mặt nạ toàn ảnh, bao gồm dòng thời gian hành động đa giai đoạn với các cú chém katana và hiệu ứng ánh sáng neon.
-
-#### 📝 Prompt
-
-```
-Samurai tương lai với làn da đen tuyền, trang phục lộng lẫy và mặt nạ Oni toàn ảnh phát sáng với các ký tự rune LED. Hành động đậm chất điện ảnh, thẩm mỹ cyberpunk, nền bokeh neon rực rỡ, độ phân giải 8k, chân thực như ảnh chụp.
-
-Dòng thời gian hành động 10 giây:
-
-0-2 giây: Mặt nạ LED và các ký tự rune toàn ảnh khởi động và nhấp nháy.
-
-2-4 giây: Thu phóng nhanh ra xa. Samurai rút nhanh thanh katana đang nứt vỡ với năng lượng neon rực rỡ.
-
-4-7 giây: Hành động lao tới nhanh chóng. Samurai thực hiện một cú chém quét sáng rực về phía máy quay.
-
-7-10 giây: Kết thúc bằng chuyển động chậm. Samurai tra kiếm vào vỏ khi mưa neon bắt đầu rơi, tạo dáng vẻ điềm tĩnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2076667811745742848/img/BPV02scF6Vf1sJ26.jpg" width="600" alt="Hành động Samurai Cyberpunk toàn ảnh">
-
-**[🎬 Xem video →](https://x.com/michaelrabone/status/2076668007007338683)**
-
-**Tác giả:** [Michael Rabone](https://x.com/michaelrabone) | **Nguồn:** [Link](https://x.com/michaelrabone/status/2076668007007338683) | **Đã xuất bản:** Jul 13, 2026
-
----
-### Chuỗi cảnh phim điện ảnh về hành trình truyền cảm hứng từ Nomadland
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh cực kỳ chi tiết dành cho Gemini Omni để tạo chuỗi 5 cảnh phim về hành trình với ánh sáng giờ vàng và các chi tiết nhân vật nhất quán.
-
-#### 📝 Prompt
-
-```
-Tạo một chuỗi cảnh phim điện ảnh siêu thực dài 10 giây lấy cảm hứng từ *Nomadland*, *The Secret Life of Walter Mitty* và *Into the Wild*.
-
-Sử dụng hình ảnh tham chiếu nữ được cung cấp làm nhân vật chính. Duy trì chính xác nhận dạng khuôn mặt, kiểu tóc, tông màu da, tỷ lệ cơ thể, sự nhất quán về trang phục và biểu cảm trong suốt video.
-
-## PHONG CÁCH
-
-Quay phim giờ vàng (golden-hour).
-
-Phong cảnh tự nhiên.
-
-Diễn xuất chân thực.
-
-Máy quay ARRI ALEXA 65.
-
-Chỉnh màu phim ấm áp.
-
-## ĐỊNH DẠNG
-
-10 giây
-
-5 cảnh quay
-
-### CẢNH 1 (0:00–0:02)
-
-Nhân vật chính lái xe một mình dọc theo đường cao tốc ven biển vắng vẻ lúc hoàng hôn.
-
-### CẢNH 2 (0:02–0:04)
-
-Cô ấy chú ý đến một tấm biển gỗ nhỏ có ghi:
-
-**"Scenic Route."** (Tuyến đường ngắm cảnh)
-
-Cô ấy mỉm cười và rẽ vào.
-
-### CẢNH 3 (0:04–0:06)
-
-Con đường leo lên phía trên đường bờ biển, để lộ tầm nhìn toàn cảnh đại dương ngoạn mục.
-
-### CẢNH 4 (0:06–0:08)
-
-Cô ấy dừng xe, bước ra ngoài và cảm nhận làn gió biển.
-
-### CẢNH 5 (0:08–0:10)
-
-Cảnh quay flycam góc rộng cho thấy cô ấy đứng một mình trên vách đá khi những con sóng vỗ bên dưới.
-
-**Âm nhạc**
-
-Guitar acoustic.
-
-Nhạc dây ấm áp.
-
-Piano nhẹ nhàng.
-
-**Mục tiêu cảm xúc**
-
-*"Không phải ngã rẽ sai lầm nào cũng là một sai lầm."*
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075765489247383552/img/cFbChjHjOg7W09WZ.jpg" width="600" alt="Chuỗi cảnh phim điện ảnh về hành trình truyền cảm hứng từ Nomadland">
-
-**[🎬 Xem video →](https://x.com/vireonixx/status/2075765549796340071)**
-
-**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2075765549796340071) | **Đã xuất bản:** Jul 11, 2026
-
----
-### Quảng cáo sản phẩm với hiệu ứng xoay điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh đơn giản nhưng hiệu quả để tạo ra quảng cáo sản phẩm cao cấp với chuyển động camera mượt mà và hiệu ứng ánh sáng chuyên nghiệp.
-
-#### 📝 Prompt
-
-```
-camera từ từ xoay quanh sản phẩm, các tia phản chiếu di chuyển trên bề mặt, các hạt bụi mềm trong không khí, mang lại cảm giác quảng cáo cao cấp
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2075154901160574976/img/jY0zy3ilqeK3GBe9.jpg" width="600" alt="Quảng cáo sản phẩm với hiệu ứng xoay điện ảnh">
-
-**[🎬 Xem video →](https://x.com/getimg_ai/status/2075683226681831794)**
-
-**Tác giả:** [getimg.ai](https://x.com/getimg_ai) | **Nguồn:** [Link](https://x.com/getimg_ai/status/2075683226681831794) | **Đã xuất bản:** Jul 10, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -2676,6 +2615,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-30T09:45:02.569Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-30T16:04:53.748Z</sub>
 
 </div>
