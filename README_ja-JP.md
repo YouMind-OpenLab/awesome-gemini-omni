@@ -48,7 +48,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 |--------|-------|
 | 📝 プロンプト総数 | **208** |
 | ⭐ おすすめプロンプト | **0** |
-| 🔄 最終更新 | **2026-08-29** |
+| 🔄 最終更新 | **2026-08-30** |
 
 ---
 
@@ -2727,6 +2727,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-29T22:21:59.231Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-08-30T03:45:25.243Z</sub>
 
 </div>
