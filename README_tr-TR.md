@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **216** |
+| 📝 Toplam İstem | **224** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-08-31** |
 
@@ -56,6 +56,158 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Çin'in Önemli Yerlerinde Selfie Hyperlapse
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Karakterin yüz tutarlılığını koruyarak birden fazla Çin simgesini ziyaret ettiği sinematik bir hyperlapse oluşturan, Gemini Omni için bir video üretim istemi.
+
+#### 📝 İstem
+
+```
+Yüklenen karakteri kullanarak, her vuruşta sert bir kesişle 20 farklı Çin simgesini ziyaret eden 10 saniyelik bir selfie hyperlapse oluşturun. Süreç boyunca yüzü tamamen aynı tutun. Geniş açılı selfie çubuğu perspektifiyle, her konum için farklı yerel tarzda kıyafetler kullanın. Zengin sinematik renk düzenlemesiyle yüksek çözünürlüklü bir video olsun.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094290992283140096/img/MaogORzgUA2lkwi6.jpg" width="600" alt="Çin'in Önemli Yerlerinde Selfie Hyperlapse">
+
+**[🎬 Videoyu izle →](https://x.com/johnAGI168/status/2094291245879160940)**
+
+**Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2094291245879160940) | **Yayınlandı:** Aug 31, 2026
+
+---
+### Sinematik Kahveli Çikolata Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dramatik sıçramalar ve dinamik ürün sunumları içeren, hızlı tempolu ve yüksek enerjili bir kahveli çikolata reklamı istemi.
+
+#### 📝 İstem
+
+```
+Dramatik çikolata sıçramaları, uçuşan kavrulmuş kahve çekirdekleri ve dinamik yakın çekimler içeren, hızlı tempolu ve sinematik bir Bloodline Kahveli Çikolata reklamı oluşturun. Şık siyah-altın ambalajı gösterin, ardından çikolatanın kırılarak içindeki akışkan karameli ve yoğun çikolata dolgusunu ortaya çıkardığı anı sergileyin. Ürünü sıcak ışıklandırma altında yansıtıcı bir platform üzerinde sunun, ardından bir gencin çikolatadan bir ısırık alırken etrafında uçuşan kahve çekirdeklerini gösterin. Reklamı, çikolatanın girdap gibi dönen çikolata ve kahve içinde uçtuğu bir sahneyle bitirin; ardından marka logosuna ve şu son slogana geçiş yapın: “ENERJİNİ SERBEST BIRAK.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094217152052310016/img/ualHsMCVJmD521b7.jpg" width="600" alt="Sinematik Kahveli Çikolata Reklamı">
+
+**[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2094217190321123331)**
+
+**Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2094217190321123331) | **Yayınlandı:** Aug 31, 2026
+
+---
+### Minyatür Pizza İnşaat Dünyası
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yükleyiciler, vinçler ve konveyör bantlarıyla pizza inşa eden minik işçileri betimleyen, Pixar esintili eğlenceli bir animasyon istemi.
+
+#### 📝 İstem
+
+```
+{  "video_duration": "10 saniye",  "aspect_ratio": "16:9",  "sequence": [    {      "time": "0-2 sn",      "scene": "Büyük Kurulum",      "camera": "Geniş sinematik hava çekimi ve yakınlaşma",      "action": "Devasa, yeni pişmiş bir pizza, ahşap bir masa üzerinde dev bir şantiye gibi duruyor. Düzinelerce minik işçi; minyatür yükleyiciler, vinçler, teslimat kamyonları ve ekipmanlarla mükemmel pizzayı inşa etmeye hazırlanıyor.",      "sound_design": "Neşeli ve eğlenceli müzik, minik motor sesleri, dönen tekerlekler, hafif inşaat hareketliliği."    },    {      "time": "2-4 sn",      "scene": "Sos ve Peynir Katmanı",      "camera": "Orta ölçekli yan takip çekimi",      "action": "Minyatür bir gıda kamyonu, pizzanın üzerine zengin kırmızı domates sosu pompalarken, minik işçiler küçük spatulalarla sosu pürüzsüzce yayıyor. Başka bir ekip ise yüzeyi kalın bir rendelenmiş mozzarella tabakasıyla kaplıyor.",      "sound_design": "Hafif sos dökülme sesi, spatula kazıma sesi, peynir hışırtısı, neşeli ritmik müzik."    },    {      "time": "4-6 sn",      "scene": "Hareket Halindeki Malzemeler",      "camera": "Hafif ağır çekimle makro yakın plan",      "action": "Minyatür konveyör bantları; pepperoni, mantar, dolmalık biber, zeytin ve taze fesleğen gibi renkli malzemeleri taşıyor. Minik işçiler her bir malzemeyi peynirli yüzeyin üzerine büyük bir hassasiyetle yerleştiriyor.",      "sound_design": "Konveyör bandı hareketi, minik malzeme düşme sesleri, zarif sihirli çan sesleri, hareketli müzikal vurgular."    },    {      "time": "6-8 sn",      "scene": "Son Malzeme Kaldırma",      "camera": "Düşük açılı dramatik sinematik çekim",      "action": "Minyatür bir vinç, devasa bir pepperoni dilimini pizzanın merkezine doğru kaldırıyor. Aşağıdaki işçiler kılavuz halatları çekiyor ve malzeme yerine yerleştirilirken birbirlerine işaret veriyor.",      "sound_design": "Küçük vinç motoru, halat gerilme sesleri, mekanik tıkırtılar, yükselen sinematik orkestral müzik."    },    {      "time": "8-10 sn",      "scene": "Pizza Büyük Finali",      "camera": "Pürüzsüz 360 derece yörünge yakın çekimi",      "action": "Son malzeme mükemmel bir şekilde yerine düşüyor. Minik işçiler tezahürat yapıp kutlama yaparken minyatür dünyayı renkli konfetiler kaplıyor. Kamera, bitmiş pizzanın etrafında dönerek parlak erimiş peyniri, renkli malzemeleri ve altın sarısı kenarları gösteriyor ve tatmin edici bir final karesiyle sona eriyor.",      "sound_design": "Kutlama patlaması, neşeli tezahüratlar, minik ıslıklar, coşkulu orkestral final."    }  ],  "visual_style": {    "animation_quality": "Pixar esintili premium 3D animasyon",    "world_design": "Devasa bir pizza etrafında inşa edilmiş büyüleyici minyatür inşaat dünyası",    "color_palette": "Sıcak kırmızılar, altın kahverengiler, kremsi peynir tonları ve parlak renkli malzemeler",    "lighting": "Hafif sinematik vurgularla yumuşak, sıcak ve altın rengi aydınlatma",    "detail": "Yüksek detaylı gıda dokuları, minyatür makineler, gerçekçi erimiş peynir, canlı malzemeler ve ifade dolu minik karakterler",    "camera": "Akıcı sinematik hareket, makro fotoğrafçılık hissi, pürüzsüz geçişler, sığ alan derinliği",    "overall_feel": "Sevimli, eğlenceli, görsel olarak tatmin edici, cilalı, premium ve fantastik",    "resolution": "720p"  }}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094160586024325120/img/J_HWGth3nosxOM4L.jpg" width="600" alt="Minyatür Pizza İnşaat Dünyası">
+
+**[🎬 Videoyu izle →](https://x.com/SaasJunctionHQ/status/2094160643138154730)**
+
+**Yazar:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Kaynak:** [Link](https://x.com/SaasJunctionHQ/status/2094160643138154730) | **Yayınlandı:** Aug 30, 2026
+
+---
+### Görselden Videoya Spor Salonu Esneme Hareketi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Karakter tutarlılığını korurken, bir referans fotoğraf kullanarak bir kişinin başını çevirmesini ve kolunu esnetmesini sağlayan bir komut.
+
+#### 📝 İstem
+
+```
+Referans alınan görseli kullanarak, başını yavaşça kameraya doğru çevirmesini sağlayın. Dağınık siyah saçları hareket etsin; göz kırpsın ve ardından pozunu koruyarak bir kolunu esnetsin. Yüzünü ve spor kıyafetlerini birebir aynı tutun. Yavaş sinematik kamera yakınlaştırması.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788170323705_xefihp_HQ-avR2XsAAURe8.jpg" width="600" alt="Görselden Videoya Spor Salonu Esneme Hareketi">
+
+**[🎬 Videoyu izle →](https://x.com/amynys/status/2094107886008107062)**
+
+**Yazar:** [Amy G](https://x.com/amynys) | **Kaynak:** [Link](https://x.com/amynys/status/2094107886008107062) | **Yayınlandı:** Aug 30, 2026
+
+---
+### Sinematik İç Mekan Kurulum Sekansı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Modern bir daire iç mekanının, mobilyaların ve ses ekipmanlarının gün ışığında belirmesiyle kurulumunu canlandıran detaylı bir sinematik komut.
+
+#### 📝 İstem
+
+```
+Kesintisiz 10 saniyelik tek bir sinematik çekim, sabit geniş açılı kilitli kamera, kesme yok, kamera hareketi yok. Temiz beyaz duvarlara, tavandan tabana büyük pencerelere, cilalı parke zeminlere ve yüksek tavana sahip hiper gerçekçi modern boş daire. Sıcak altın rengi öğleden sonra güneş ışığı pencerelerden içeri süzülüyor ve yumuşak, hareketli gölgeler oluşturuyor. Ses ekipmanları üzerindeki orijinal Bose markası dışında görünür bir metin yok. 0-1,5 saniyede, boş odanın merkezinde şık, mat siyah bir kutu duruyor, hafifçe titriyor ve ardından pürüzsüzce açılıyor. 1,5-3,5 saniyede bir Bose SoundBar sol duvara monte oluyor ve yumuşak bir ortam müziği çalmaya başlıyor; bir çift uyumlu Bose kablosuz hoparlör karşı köşelere süzülüyor ve senkronize oluyor. 3,5-5,5 saniyede, nötr tonlarda peluş bir koltuk merkezde açılırken, altında el dokuması toprak tonlarında bir alan halısı seriliyor. 5,5-7,5 saniyede, minimalist ahşap kitaplıklar sağ duvar boyunca yükseliyor ve seçilmiş kitaplar ve objelerle doluyor; köşelerde seramik vazolar ve gür iç mekan bitkileri beliriyor; modern sarkıt lambalar tavandan aşağı iniyor ve sıcak bir şekilde parlıyor. 7,5-9 saniyede, koltuğun önünde şık, mermer tablalı bir orta sehpa beliriyor, arka duvarda soyut yumuşak renkli duvar sanatı belirginleşiyor ve küçük bir akıllı termostat ortaya çıkıyor. Son 1 saniye, sıcak güneş ışığıyla yıkanan, Bose sisteminin huzur verici bir melodi çaldığı, tamamlanmış, şık bir şekilde dekore edilmiş rahat dairede sabit kalıyor. Fotogerçekçi fizik, hassas kurulum, zarif modern sıcaklık.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094046860726169602/img/fR9t1C1DTQ9ymg5M.jpg" width="600" alt="Sinematik İç Mekan Kurulum Sekansı">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2094046957270684064)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2094046957270684064) | **Yayınlandı:** Aug 30, 2026
+
+---
+### LLM Bilgi Akışı Galaksisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Büyük dil modellerinin iç mantığının ve veri akışının, yıldızlar arasında hareket eden bir kuyruklu yıldızla göksel bir galaksi olarak temsil edildiği kavramsal bir görselleştirme.
+
+#### 📝 İstem
+
+```
+LLM akışının bir galaksi olarak temsil edildiği 10 saniyelik bir video oluşturun. Galaksinin çok boyutlu uzayı temsil ettiği, yıldızların ise ağırlıklarınızı/bilginizi/gömülü vektörlerinizi simgelediği bir ortam düşünün; bu yıldızların arasından geçen bir kuyruklu yıldız tek bir geçişi temsil etsin. Kuyruklu yıldızı küçük ve yıldızların arasında rastgele yönlerde ilerleyen bir ışık huzmesi gibi yapın. Kuyruklu yıldız, videoyu izleyen kişinin bakış açısına göre yıldız grubunun solundan başlamalı ve sağ tarafında sona ermelidir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093993625344499712/img/dN2u8XS4s8amSPTW.jpg" width="600" alt="LLM Bilgi Akışı Galaksisi">
+
+**[🎬 Videoyu izle →](https://x.com/TunducR/status/2093993994439033148)**
+
+**Yazar:** [Tunduc Raul](https://x.com/TunducR) | **Kaynak:** [Link](https://x.com/TunducR/status/2093993994439033148) | **Yayınlandı:** Aug 30, 2026
+
+---
+### Gemini Omni Logo Nakış Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni 1.1 için, pamuklu kumaş üzerine işlenen renkli ipliklerin bir logoyu oluşturduğu animasyonu yaratan detaylı ve sinematik bir makro istemi.
+
+#### 📝 İstem
+
+```
+Dokuma pamuklu gömlek kumaşının aşırı makro çekimi, başlangıçta boş. Renkli nakış iplikleri yüzeyden yükselerek kendiliğinden yerlerine örülüyor, sıra sıra sık saten dikişler atarak logoyu ortaya çıkarıyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093992072185581568/img/RCUiHx5O1oeKNf6s.jpg" width="600" alt="Gemini Omni Logo Nakış Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/SJinn_Agent/status/2093993109361426766)**
+
+**Yazar:** [SJinn Agent](https://x.com/SJinn_Agent) | **Kaynak:** [Link](https://x.com/SJinn_Agent/status/2093993109361426766) | **Yayınlandı:** Aug 30, 2026
+
+---
+### Kawaii Sticker Bomb Sosyal Medya Kurgusu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Zafer işareti yapan bir kadının yer aldığı, animasyonlu çıkartmalar ve kawaii metin bindirmeleriyle zenginleştirilmiş, viral sosyal medya tarzı bir klip oluşturmak için video üretim komutu.
+
+#### 📝 İstem
+
+```
+Ultra sevimli ve viral sosyal medya kurgusu. Zafer işareti yapan kadın, kamera hafifçe yakınlaşırken gülümsüyor. Video, 'sticker bomb' efektiyle katmanlandırılmış; animasyonlu parlayan yıldızlar, zıplayan kalpler ve ritimle birlikte atan 'KAWAII' metin bindirmeleri içeriyor.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788170325072_1r4e7y_HQ9OAh7aAAAJ-Cl.jpg" width="600" alt="Kawaii Sticker Bomb Sosyal Medya Kurgusu">
+
+**[🎬 Videoyu izle →](https://x.com/CrazyKaomei/status/2093992934358286350)**
+
+**Yazar:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Kaynak:** [Link](https://x.com/CrazyKaomei/status/2093992934358286350) | **Yayınlandı:** Aug 30, 2026
+
+---
 ### Agresif Çöl Drift Sineması
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2417,178 +2569,6 @@ Diğer her şeyi aynı tut. Kesintisiz çekim, sahne geçişi yok.
 **Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Yayınlandı:** Jul 21, 2026
 
 ---
-### Sinematik Suluboya Racastanlı Dul Kadın
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir dul kadın ve kızlarının kerpiç bir evin avlusundaki hikayesini anlatan, sinematik suluboya tarzında bir anlatı video istemi.
-
-#### 📝 İstem
-
-```
-Dul Kalmanın Ağırlığı. Sinematik orta ölçekli çekim, önceki sahneden aşağıya doğru devam eden kamera hareketi. Kamera, gelin takılarından arındırılmış, kerpiç evinin tozlu avlusunda oturan genç bir Racastanlı dul kadına odaklanır. Yüzünde derin bir hüzün, yalnızlık ve düşünceli bir ifade vardır. Etrafında, hepsi 14-15 yaşlarında olan ve ondan rehberlik bekleyen, küçük bir umut kırıntısıyla ona bakan 3 genç kız oturmaktadır. Hayatta kalma mücadeleleri duruşlarından belli olmaktadır. Sanat Tarzı: Sinematik suluboya resim tarzı. Yumuşak, etkileyici fırça darbeleri, akışkan renk tonları ve toprak renkleri. Yüksek kaliteli, animasyonlu suluboya resim. Fotogerçekçi, canlı çekim veya 3D render tarzlarını kullanmayın. Ses: Enstrümantal müzik veya ortam sesleri, vokal veya dış ses olmamalıdır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="Sinematik Suluboya Racastanlı Dul Kadın">
-
-**[🎬 Videoyu izle →](https://x.com/GargeyaS/status/2079207922006114649)**
-
-**Yazar:** [Gargeya](https://x.com/GargeyaS) | **Kaynak:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **Yayınlandı:** Jul 20, 2026
-
----
-### iPhone 16 Tarzı Tatil Öne Çıkanları
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli iPhone 16 kamera hareketi ve ışıklandırma özelliklerini içeren, gerçekçi el tipi tatil görüntüleri oluşturmaya yönelik bir video üretim istemi.
-
-#### 📝 İstem
-
-```
-Tatil Öne Çıkanlar Videosu, Kadın Karakter, Sesli Anlatım. 
-KAMERA: iPhone 16. Dahili sensör kaydırmalı OIS ve gyro EIS, titremelerin en kötüsünü yumuşatır ancak gerçek bir kişinin kendini çekerken oluşturacağı doğal el tipi mikro hareketleri ve ara sıra oluşan küçük kadraj düzeltmelerini tamamen yok etmez. Bir el veya ürün yakın mesafeden kadraja girdiğinde ya da odak yüzden nesneye kaydığında otomatik odaklama kısa süreliğine arama yapar ve yeniden netleme yapar. Pozlama, özne veya ürün pencere ışığına göre hareket ettikçe doğal bir geçişle canlı olarak ayarlanır.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="iPhone 16 Tarzı Tatil Öne Çıkanları">
-
-**[🎬 Videoyu izle →](https://x.com/VisuraCode/status/2079047884759011439)**
-
-**Yazar:** [Visura](https://x.com/VisuraCode) | **Kaynak:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **Yayınlandı:** Jul 20, 2026
-
----
-### Sinematik Mie Ayam Yemek Zaman Atlamalı Çekimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini'nin Endonezya usulü Tavuklu Erişte (Mie Ayam) için profesyonel aydınlatma ve makro detaylar içeren üst düzey bir yemek zaman atlamalı (timelapse) videosu oluşturması için tasarlanmış sinematik bir video istemi.
-
-#### 📝 İstem
-
-```
-'Mutfak Zarafeti' temalı, lüks bir kase Mie Ayam (Endonezya usulü Tavuklu Erişte) yapımını konu alan sinematik bir zaman atlamalı çekim oluşturun. Sıcak altın rengi aydınlatmayı, makro yemek fotoğrafçılığını ve zarif bokeh efektlerini harmanlayın. Karıştırılan esnek altın rengi eriştelere, parlak karamelize tavuk parçalarına ve ağır çekimde dökülen zengin, dumanı tüten et suyuna odaklanın. Üzerine gezdirilen aromatik acı yağ, serpilen taze yeşil soğanlar ve şık, koyu renkli seramik bir kaseyi dahil edin. Yükselen buhar parçacıkları ve hafif bir yakınlaştırma ile dinamik makro kamera hareketleri ekleyin. Mutfak sanatını üst düzey estetikle birleştiren, ağız sulandıran, sıcak ve lüks bir atmosfer yaratın.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="Sinematik Mie Ayam Yemek Zaman Atlamalı Çekimi">
-
-**[🎬 Videoyu izle →](https://x.com/aikonect_/status/2078803644867383767)**
-
-**Yazar:** [aiko](https://x.com/aikonect_) | **Kaynak:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **Yayınlandı:** Jul 19, 2026
-
----
-### Ekrandan Dışarı Atlayan Futbolcu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir futbolcunun ekrandan dışarı topa vurduğu ve ardından dışarı atlayıp bir kişinin avucunda top sektirdiği yaratıcı bir video oluşturma istemi.
-
-#### 📝 İstem
-
-```
-Futbolcu topa vurarak ekranın dışına çıkarıyor... Topu elimle yakalıyorum... Ardından futbolcu ekrandan dışarı atlıyor ve avucumun üzerinde top sektirmeye başlıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="Ekrandan Dışarı Atlayan Futbolcu">
-
-**[🎬 Videoyu izle →](https://x.com/nicegen_ai/status/2078656532955439254)**
-
-**Yazar:** [NiceGen.ai](https://x.com/nicegen_ai) | **Kaynak:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **Yayınlandı:** Jul 19, 2026
-
----
-### Sims Tarzı Karakter Oluşturma Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hafif dans hareketleri, dönen bir Plumbob ve sabit bir arayüz içeren, Sims karakter oluşturma ekranını andıran bir video çıktısı oluşturmak için yaratıcı bir komut.
-
-#### 📝 İstem
-
-```
-Fotoğrafımı temel alarak, The Sims oyununun karakter oluşturma ekranı tarzında bir görsel oluştur. [Siyah kot pantolon, siyah tişört ve siyah şapka] giymiş [erkek] Sim. Karakterin sağ tarafında beyaz kareler olsun. Bu karelerin içinde yukarıdan aşağıya doğru: [MacBook, iPhone, AirPods Max] yer alsın. Sim'in başının üzerinde yeşil bir Plumbob ve onun da üzerinde The Sims oyunu tarzında yazılmış [ALEX PROMPTS] yazısı bulunsun. The Sims karakter düzenleyicisinde olduğu gibi Sim'in sağına ve soluna oklar ekle. 9:16 The Sims video oyunundan stilize edilmiş bir karakter oluşturma ekranı. [Siyah tişört, siyah pantolon, siyah şapka] giymiş bir [erkek] merkezde duruyor. Olduğu yerde hafifçe dans ediyor, kalçasını ve kollarını nazikçe sallıyor. Başının üzerinde yeşil bir Plumbob süzülüyor ve yavaşça dönüyor. Kıyafet seçeneklerinin, okların ve [ALEX PROMPTS] etiketinin bulunduğu kullanıcı arayüzü tamamen sabit kalıyor. Arka plan hareket etmiyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="Sims Tarzı Karakter Oluşturma Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
-
-**Yazar:** [Alex Prompts](https://x.com/AlexPromptsAI) | **Kaynak:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **Yayınlandı:** Jul 17, 2026
-
----
-### Oturma Odası Yenileme Hızlandırılmış Çekimi (Timelapse)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Değişen ışık ve gerçekçi hareketlerle, 10 saniyelik detaylı bir iç mekan oturma odası yenileme hızlandırılmış çekimi oluşturmak için oldukça açıklayıcı, sinematik bir komut.
-
-#### 📝 İstem
-
-```
-Ultra gerçekçi sinematik hızlandırılmış çekim; yumuşak şafak ışığından canlı öğle güneşine ve sıcak gün batımı parıltısına kadar doğal gün ışığı ilerlemesi. Oturma odasının yüksek bir köşesine sabitlenmiş, alanın tamamını gösteren ve derinlik ile paralaks için ince odak ayarlamaları yapan uyarlanabilir statik kamera. İşçilerin, aletlerin, mobilya taşıyıcıların ve malzemelerin gerçekçi hareketleri. İç mekan oturma odası yenileme dönüşümü. [00:00–00:01] 2000'li yıllardan kalma eski bir oturma odasının soğuk şafak ışığındaki geniş statik çekimi: yıpranmış bej halı, hantal koyu ahşap eğlence ünitesi, solmuş çiçekli duvar kağıdı, eski köşe koltuk, modası geçmiş dekorasyon ve loş ışıkla dolu. İşçiler aletler ve kutularla gelir. SFX: sabah kuşları, kapı gıcırtıları, hafif ortam sesleri. [00:01–00:03] Hızlı yıkım ve hazırlık: işçiler eski halıyı, duvar kağıdını, mobilyaları ve armatürleri hızlandırılmış bir şekilde kaldırır. Duvarlar düzleştirilir ve boyanır, elektrik güncellemeleri gizlenir, yeni alt zemin hazırlanır. Güneş yükselir, gölgeler değişir. SFX: halı sökme, duvar kağıdı kazıma, çekiçleme, enkaz temizleme. [00:03–00:06] Temel kurulum: modern açık meşe veya gri yüzer raflar ve medya konsolu monte edilir, nötr tonlarda büyük köşe koltuk yerleştirilir, şık TV monte edilir, balıksırtı veya lüks vinil plank zemin döşenir, dekoratif halı serilir. Öğle vakti parlak doğal ışık içeri dolar. SFX: matkap sesi, mobilya yerleştirme, süpürme, alet tıkırtıları. [00:06–00:08] Son dokunuşlar: modern aydınlatma (lambaderler, gömme ışıklar, LED şeritler), kırlentler, bitkiler, sanat eserleri ve perdeler eklenir. Dekoratif sehpa belirir. Gün sonu altın rengi ışık, sıcak yansımalar yaratır. SFX: daha yumuşak yerleştirme sesleri, kumaş hışırtısı, ışık düğmeleri. [00:08–00:10] Gün batımı sıcaklığında tamamlanmış çağdaş minimalist oturma odasının final gösterimi: temiz hatlar, katmanlı dokular, düzenli açık raflar, yumuşak ortam aydınlatması ve taze bitkilerle parlak, rahat ve davetkar. İlham verici sakin bir atmosfer. Kamera davranışı: Uyarlanabilir statik hızlandırılmış kamera — tam görünümü ve sinematik derinliği korumak için akıllı küçük yeniden çerçeveleme ve paralaks ile sabitlenmiş yüksek köşe. Doğal perspektif değişimleri, pürüzsüz malzeme geçişleri. Ruh hali ve estetik: Hiper gerçekçi yenileme hızlandırılmış çekimi, eskimiş ve dağınık halden parlak modern bir sığınağa tatmin edici hızlandırılmış değişim. Dokulara (ahşap dokusu, kumaş örgüleri, boya cilaları), dinamik doğal aydınlatmaya, temiz ilerlemeye ve başarıya vurgu. Yüksek detaylı yüzeyler, gerçekçi fizik, organik hareketler. Sinematik renk derecelendirme, toplam 10 saniye süre.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="Oturma Odası Yenileme Hızlandırılmış Çekimi (Timelapse)">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2078102401446490554)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **Yayınlandı:** Jul 17, 2026
-
----
-### 3D Logo Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni'nin yeşil ekran arka plan üzerinde 3D pop-in (belirme) efektiyle bir logo oluşturması için hazırlanan animasyon istemi.
-
-#### 📝 İstem
-
-```
-Yeşil ekran arka plan üzerinde (Referans) logonun havalı bir şekilde belirmesini sağla. Kare merkezinde olsun. Hiç yoktan aniden belirecek, bir araya gelecek ve olduğu yerde havada asılı kalacak. Havalı bir 3D efekti olsun.
-```
-
-<img src="https://pbs.twimg.com/media/HNYa_xmWgAAoWAE.jpg" width="600" alt="3D Logo Animasyonu">
-
-**[🎬 Videoyu izle →](https://x.com/chrisfirst/status/2077877168730706019)**
-
-**Yazar:** [CHRIS FIRST](https://x.com/chrisfirst) | **Kaynak:** [Link](https://x.com/chrisfirst/status/2077877168730706019) | **Yayınlandı:** Jul 16, 2026
-
----
-### İzlanda Atı Dörtnal Kimlik Koruma
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> İzlanda'daki bir at binme sekansı için, karmaşık kamera hareketleri boyunca referans görselin kimliğini korumaya odaklanan yüksek prodüksiyonlu sinematik bir komut.
-
-#### 📝 İstem
-
-```
-Ana karakter için TEK kimlik referansı olarak ekteki erkek referans görselini kullanın.
-
-Hızlı dörtnal, drone çekimleri, yan açılar ve geniş sinematik kompozisyonlar sırasında bile yüz kimliğini kusursuz bir şekilde koruyun.
-
-Süre: 10 saniye.
-
-Açılış karesinde karakter, devasa bir İzlanda vadisinde güçlü siyah bir atın üzerinde tam hızla dörtnal koşarken görülür. At sığ bir nehirden geçer, yavaşlamadan çimenli bir sırta tırmanır, ardından şelalelere ve uçsuz bucaksız dağlara bakan uçurumun kenarı boyunca yarışır.
-
-Fotogerçekçi IMAX 65mm prodüksiyon. Birinci sınıf sinematik aydınlatma. Hiper gerçekçi at animasyonu. Hollywood kalitesinde çevresel detaylar.
-
-Kamera:
-At üstü takip çekimi → yan takip → FPV drone takibi → epik hava çekimi ile açılış.
-
-Arka Plan Müziği:
-Epik Kelt orkestrası, Fransız kornoları, koro, taiko davulları, duygusal yaylılar.
-
-Çevresel Ses:
-Dörtnal koşan toynak sesleri, nehir sıçramaları, deri eyer hareketi, rüzgar, uzaktaki şelaleler, kuşlar.
-
-Diyalog yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077790013799206912/img/JiItvZPzotkWNxrm.jpg" width="600" alt="İzlanda Atı Dörtnal Kimlik Koruma">
-
-**[🎬 Videoyu izle →](https://x.com/vireonixx/status/2077790049618547067)**
-
-**Yazar:** [Virena](https://x.com/vireonixx) | **Kaynak:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **Yayınlandı:** Jul 16, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -2641,6 +2621,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-31T03:47:02.301Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-08-31T10:33:35.200Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **216** |
+| 📝 提示詞總數 | **224** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-08-31** |
 
@@ -56,6 +56,158 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 中國地標自拍縮時攝影
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 這是一個為 Gemini Omni 設計的影片生成提示詞，旨在創作一段電影級的縮時攝影，展示角色造訪多個中國地標，並同時保持臉部的一致性。
+
+#### 📝 提示詞
+
+```
+使用上傳的角色製作一段 10 秒的自拍縮時攝影，造訪 20 個中國地標，並在每個節拍處進行硬切。在整個過程中保持完全相同的臉部特徵。採用廣角自拍棒視角，且每個地點皆需更換符合當地風格的服裝。高畫質呈現，並具備豐富的電影級調色。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094290992283140096/img/MaogORzgUA2lkwi6.jpg" width="600" alt="中國地標自拍縮時攝影">
+
+**[🎬 觀看視頻 →](https://x.com/johnAGI168/status/2094291245879160940)**
+
+**作者:** [John](https://x.com/johnAGI168) | **來源:** [Link](https://x.com/johnAGI168/status/2094291245879160940) | **發布時間:** Aug 31, 2026
+
+---
+### 電影級咖啡巧克力廣告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個節奏明快、充滿活力的咖啡巧克力棒廣告提示詞，包含戲劇性的飛濺效果與動態產品展示。
+
+#### 📝 提示詞
+
+```
+製作一支節奏明快、具電影感的 Bloodline 咖啡巧克力棒廣告，呈現戲劇性的巧克力飛濺效果、飛舞的烘焙咖啡豆以及動態特寫鏡頭。展示其精緻的黑金包裝，接著呈現巧克力棒折斷時流出焦糖與濃郁巧克力內餡的畫面。在溫暖的燈光下，將產品置於反光舞台上展示，隨後畫面切換至一名年輕男子享受巧克力的瞬間，周圍環繞著漂浮的咖啡豆。最後，巧克力棒穿過巧克力與咖啡交織的漩渦，過渡至品牌標誌與最終標語：「UNLEASH YOUR ENERGY。」
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094217152052310016/img/ualHsMCVJmD521b7.jpg" width="600" alt="電影級咖啡巧克力廣告">
+
+**[🎬 觀看視頻 →](https://x.com/AiwithBloodline/status/2094217190321123331)**
+
+**作者:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **來源:** [Link](https://x.com/AiwithBloodline/status/2094217190321123331) | **發布時間:** Aug 31, 2026
+
+---
+### 迷你披薩施工現場
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個受 Pixar 風格啟發的趣味動畫提示詞，描繪了微型工人們使用裝載機、起重機和輸送帶建造披薩的場景。
+
+#### 📝 提示詞
+
+```
+{ "video_duration": "10 秒", "aspect_ratio": "16:9", "sequence": [ { "time": "0-2 秒", "scene": "宏大佈局", "camera": "寬鏡頭電影感空中推軌鏡頭", "action": "一張巨大的現烤披薩放置在木桌上，宛如一個大型施工現場。數十名微型工人帶著迷你裝載機、起重機、運送車和設備湧入，準備建造完美的披薩。", "sound_design": "明亮俏皮的音樂、細小的引擎聲、滾動的輪子聲、細微的施工活動聲。" }, { "time": "2-4 秒", "scene": "醬料與起司層", "camera": "中景側向跟拍", "action": "一輛迷你食品車將濃郁的紅番茄醬噴灑在披薩上，同時微型工人們用小抹刀將其抹平。另一組團隊緊隨其後，在表面覆蓋上一層厚厚的莫札瑞拉起司絲。", "sound_design": "柔和的醬料傾倒聲、抹刀刮擦聲、起司摩擦聲、輕快且有節奏的音樂。" }, { "time": "4-6 秒", "scene": "配料輸送中", "camera": "微距特寫，帶有柔和的慢動作", "action": "迷你輸送帶運送著色彩繽紛的食材，包括義式臘腸、蘑菇、甜椒、橄欖和新鮮羅勒。微型工人們精確地將每種配料仔細排列在起司表面上。", "sound_design": "輸送帶運轉聲、細小的食材掉落聲、精緻的魔法鈴聲、輕快的音樂節奏。" }, { "time": "6-8 秒", "scene": "最終配料吊裝", "camera": "低角度戲劇性電影鏡頭", "action": "一台迷你起重機將一片超大的義式臘腸吊向披薩中心。下方的工人們拉著導向繩並互相打信號，將配料緩慢地定位到位。", "sound_design": "小型起重機馬達聲、繩索拉緊聲、機械卡嗒聲、漸強的電影管弦樂。" }, { "time": "8-10 秒", "scene": "披薩大結局", "camera": "流暢的 360 度環繞特寫", "action": "最後的配料完美落位。當微型工人們歡呼慶祝時，五彩紙屑灑滿了這個微型世界。攝影機環繞著完成的披薩，展現其光澤的融化起司、色彩豐富的配料和金黃色的餅皮，最後定格在令人滿意的英雄鏡頭上。", "sound_design": "慶祝的爆裂聲、歡樂的歡呼聲、細小的哨聲、振奮人心的管弦樂結尾。" } ], "visual_style": { "animation_quality": "Pixar 風格的高級 3D 動畫", "world_design": "圍繞超大披薩構建的迷人微型施工世界", "color_palette": "溫暖的紅色、金棕色、奶油起司色調以及明亮多彩的配料", "lighting": "柔和溫暖的金色光照，帶有細膩的電影感高光", "detail": "高度細緻的食物紋理、微型機械、逼真的起司融化效果、鮮脆的配料以及表情生動的微型角色", "camera": "流暢的電影感運鏡、微距攝影質感、平滑的轉場、淺景深", "overall_feel": "可愛、俏皮、視覺滿足、精緻、高級且充滿奇趣", "resolution": "720p" }}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094160586024325120/img/J_HWGth3nosxOM4L.jpg" width="600" alt="迷你披薩施工現場">
+
+**[🎬 觀看視頻 →](https://x.com/SaasJunctionHQ/status/2094160643138154730)**
+
+**作者:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **來源:** [Link](https://x.com/SaasJunctionHQ/status/2094160643138154730) | **發布時間:** Aug 30, 2026
+
+---
+### Image-to-Video 健身房秀肌肉
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個利用參考照片，讓人物轉頭並秀出肌肉，同時保持角色一致性的提示詞。
+
+#### 📝 提示詞
+
+```
+使用參考圖片，讓她緩緩將頭轉向鏡頭。她凌亂的黑髮隨之擺動；她眨了眨眼，接著在保持姿勢的同時秀出單臂肌肉。請維持她原本的面容與健身服裝。緩慢的電影感鏡頭推近。
+```
+
+<img src="https://cms-assets.youmind.com/media/1788170323705_xefihp_HQ-avR2XsAAURe8.jpg" width="600" alt="Image-to-Video 健身房秀肌肉">
+
+**[🎬 觀看視頻 →](https://x.com/amynys/status/2094107886008107062)**
+
+**作者:** [Amy G](https://x.com/amynys) | **來源:** [Link](https://x.com/amynys/status/2094107886008107062) | **發布時間:** Aug 30, 2026
+
+---
+### 電影級室內組裝序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個詳細的電影級提示詞，用於製作現代公寓室內組裝的動畫，展示家具與音響設備在陽光下逐漸成形的過程。
+
+#### 📝 提示詞
+
+```
+一個 10 秒不間斷的電影級長鏡頭，固定廣角機位，無剪輯，無鏡頭移動。超寫實的現代空公寓，擁有乾淨的白色牆面、大型落地窗、拋光硬木地板和挑高天花板。溫暖的金色午後陽光透過窗戶灑入，投射出柔和且移動的陰影。除了音響設備上真實的 Bose 品牌標誌外，畫面中無任何可見文字。0-1.5 秒時，一個時尚的霧面黑色盒子放置在空房間中央，輕微震動後平穩打開。1.5-3.5 秒時，一台 Bose SoundBar 自動安裝在左側牆面上並開始播放柔和的環境音樂；一對配套的 Bose 無線揚聲器漂浮至對角並同步連接。3.5-5.5 秒時，一張中性色調的舒適沙發在中央展開，同時下方鋪開一塊大地色系的編織地毯。5.5-7.5 秒時，極簡風格的木質書架沿著右側牆面升起，並自動擺放上精選書籍與裝飾品；陶瓷花瓶與茂盛的室內植栽出現在角落；現代吊燈從天花板垂下並散發溫暖光芒。7.5-9 秒時，一張時尚的大理石面咖啡桌在沙發前成形，抽象柔和色調的牆面藝術品浮現在後牆上，一個小型智慧恆溫器隨之出現。最後 1 秒定格在已完成且裝飾優雅、沐浴在溫暖陽光下的舒適公寓，Bose 系統播放著舒緩的旋律。照片級物理效果，精準組裝，優雅的現代溫馨感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094046860726169602/img/fR9t1C1DTQ9ymg5M.jpg" width="600" alt="電影級室內組裝序列">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2094046957270684064)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2094046957270684064) | **發布時間:** Aug 30, 2026
+
+---
+### LLM 知識流星系
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一種大型語言模型的概念視覺化，將其內部邏輯與數據流呈現為一個星系，並由一顆彗星穿梭於群星之間。
+
+#### 📝 提示詞
+
+```
+生成一段 10 秒的影片，以星系來呈現 LLM 的數據流。星系代表多維空間，星星代表權重、知識與嵌入向量（embedded vectors），而單次傳遞過程則由一顆穿梭於部分星星之間的彗星來表示。請將彗星設計得小巧，像一道穿梭於群星間、方向隨機的光束。從觀眾的視角來看，彗星應從星群的左側開始，並在右側結束。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093993625344499712/img/dN2u8XS4s8amSPTW.jpg" width="600" alt="LLM 知識流星系">
+
+**[🎬 觀看視頻 →](https://x.com/TunducR/status/2093993994439033148)**
+
+**作者:** [Tunduc Raul](https://x.com/TunducR) | **來源:** [Link](https://x.com/TunducR/status/2093993994439033148) | **發布時間:** Aug 30, 2026
+
+---
+### Gemini Omni 標誌刺繡動畫
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 為 Gemini Omni 1.1 設計的精細電影級微距提示詞，用於創作彩色絲線在棉質布料上自動編織成標誌的動畫。
+
+#### 📝 提示詞
+
+```
+極致微距鏡頭拍攝編織棉質襯衫布料，起初為空白。彩色刺繡線從表面升起並自動編織到位，逐行縫製緊密的緞面針腳，勾勒出標誌。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093992072185581568/img/RCUiHx5O1oeKNf6s.jpg" width="600" alt="Gemini Omni 標誌刺繡動畫">
+
+**[🎬 觀看視頻 →](https://x.com/SJinn_Agent/status/2093993109361426766)**
+
+**作者:** [SJinn Agent](https://x.com/SJinn_Agent) | **來源:** [Link](https://x.com/SJinn_Agent/status/2093993109361426766) | **發布時間:** Aug 30, 2026
+
+---
+### 可愛風貼紙轟炸社群媒體剪輯
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個影片生成提示詞，旨在創作一支病毒式傳播的社群媒體風格短片，內容為一位女性比出勝利手勢，並透過動態貼紙與可愛風格的文字疊加效果進行增強。
+
+#### 📝 提示詞
+
+```
+超可愛且具病毒式傳播力的社群媒體剪輯。畫面中，比出勝利手勢的女性面帶微笑，鏡頭緩緩推進。影片疊加了「貼紙轟炸」效果，包含閃爍的星星動畫、跳動的愛心，以及隨節奏律動的「KAWAII」文字疊加。
+```
+
+<img src="https://cms-assets.youmind.com/media/1788170325072_1r4e7y_HQ9OAh7aAAAJ-Cl.jpg" width="600" alt="可愛風貼紙轟炸社群媒體剪輯">
+
+**[🎬 觀看視頻 →](https://x.com/CrazyKaomei/status/2093992934358286350)**
+
+**作者:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **來源:** [Link](https://x.com/CrazyKaomei/status/2093992934358286350) | **發布時間:** Aug 30, 2026
+
+---
 ### 狂野沙漠漂移電影感
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2472,178 +2624,6 @@ FIZZI Sparkling Tonic — Grapefruit 的電影感夏季飲料廣告，採用高�
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **發布時間:** Jul 21, 2026
 
 ---
-### 電影感水彩風格：拉賈斯坦邦的寡婦
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個敘事性影片提示詞，運用電影感水彩風格，講述了一位寡婦與女兒們在泥屋庭院中的故事。
-
-#### 📝 提示詞
-
-```
-寡婦的沉重。電影感中景鏡頭，延續上一幕的向下平移鏡頭。攝影機聚焦於一位年輕的拉賈斯坦邦寡婦，她卸下了婚禮首飾，坐在泥屋塵土飛揚的庭院中。她的臉上流露出深沉的悲傷、孤獨與沉重的思緒。身旁圍坐著 3 個年輕女孩，年齡約在 14 至 15 歲之間，她們望著她尋求指引，眼中帶著一絲微弱的希望。她們的姿態顯露出生活的艱辛。藝術風格：電影感水彩畫風格。筆觸柔和且富有表現力，色彩渲染流暢，色調呈現大地色系。高品質動畫水彩畫。請勿使用寫實、真人實拍或 3D 渲染風格。音訊：器樂或環境音效，無人聲或旁白。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="電影感水彩風格：拉賈斯坦邦的寡婦">
-
-**[🎬 觀看視頻 →](https://x.com/GargeyaS/status/2079207922006114649)**
-
-**作者:** [Gargeya](https://x.com/GargeyaS) | **來源:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **發布時間:** Jul 20, 2026
-
----
-### iPhone 16 風格度假精華
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個影片生成提示詞，用於創作具有 iPhone 16 相機運動與光影特徵的真實手持度假影片。
-
-#### 📝 提示詞
-
-```
-度假精華影片，女性主角，語音旁白。
-相機：iPhone 16。內建的感光元件位移式光學影像穩定功能（OIS）與陀螺儀電子影像穩定功能（EIS）可平滑處理大部分晃動，但不會完全消除真實手持拍攝時產生的自然微震，以及偶爾出現的小幅重新構圖。當手部或產品近距離進入畫面，或焦點從臉部轉移至物體時，自動對焦會出現短暫的搜尋與重新對焦過程。曝光會隨著主角或產品相對於窗光的移動而進行自然的即時調整。
-```
-
-<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="iPhone 16 風格度假精華">
-
-**[🎬 觀看視頻 →](https://x.com/VisuraCode/status/2079047884759011439)**
-
-**作者:** [Visura](https://x.com/VisuraCode) | **來源:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **發布時間:** Jul 20, 2026
-
----
-### 電影級 Mie Ayam 美食縮時攝影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個專為 Gemini 設計的電影級影片提示詞，旨在生成印尼雞肉麵（Mie Ayam）的高端美食縮時攝影，呈現專業燈光與微距細節。
-
-#### 📝 提示詞
-
-```
-創作一段電影級縮時攝影，展示製作一碗奢華 Mie Ayam（印尼雞肉麵）的過程，主題為「烹飪優雅」。融合溫暖的金色燈光、微距美食攝影以及優雅的散景效果。焦點在於彈牙的金黃麵條被翻動的瞬間、油亮焦糖色的雞肉塊，以及濃郁的高湯緩緩倒入的慢動作。加入淋上香氣四溢的辣油、灑落的新鮮青蔥，以及精緻的深色陶瓷碗。添加漂浮的蒸氣粒子，並配合柔和的放大效果進行動態微距運鏡。營造出一種令人垂涎、溫暖且奢華的氛圍，將烹飪藝術與高端美學完美結合。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="電影級 Mie Ayam 美食縮時攝影">
-
-**[🎬 觀看視頻 →](https://x.com/aikonect_/status/2078803644867383767)**
-
-**作者:** [aiko](https://x.com/aikonect_) | **來源:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **發布時間:** Jul 19, 2026
-
----
-### 足球員從螢幕中跳出
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個充滿創意的影片生成提示詞：足球員將球踢出螢幕，隨後跳出螢幕並在人的手掌上進行顛球表演。
-
-#### 📝 提示詞
-
-```
-足球員將球踢出螢幕……我用手接住球……接著該球員從螢幕中跳出，並開始在我的手掌上進行顛球。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="足球員從螢幕中跳出">
-
-**[🎬 觀看視頻 →](https://x.com/nicegen_ai/status/2078656532955439254)**
-
-**作者:** [NiceGen.ai](https://x.com/nicegen_ai) | **來源:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **發布時間:** Jul 19, 2026
-
----
-### 模擬市民 (The Sims) 風格角色創建影片
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個創意提示詞，旨在製作出類似模擬市民角色創建畫面的影片，包含輕微的舞蹈動作、旋轉的綠色晶鑽 (Plumbob) 以及靜態的 UI 介面。
-
-#### 📝 提示詞
-
-```
-根據我的照片，創建一張模擬市民 (The Sims) 遊戲風格的角色創建畫面照片。[男性] 模擬市民穿著 [黑色牛仔褲、黑色 T 恤和黑色鴨舌帽]。角色右側有白色方格，這些方格中由上至下分別為：[MacBook、iPhone、AirPods Max]。模擬市民頭頂上方有一個綠色晶鑽 (Plumbob)，上方並以模擬市民遊戲風格標註 [ALEX PROMPTS] 字樣。在模擬市民左右兩側添加箭頭，如同模擬市民的角色編輯器。9:16 比例。一個模擬市民遊戲風格的角色創建畫面。一名 [男性] 穿著 [黑色 T 恤、黑色長褲、黑色鴨舌帽] 站在中心。他正在原地輕微舞動，輕輕擺動臀部和手臂。他頭頂上方，一個綠色晶鑽 (Plumbob) 緩慢地漂浮並旋轉。包含服裝選擇、箭頭和 [ALEX PROMPTS] 標籤的使用者介面保持完全靜態。背景不會移動。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="模擬市民 (The Sims) 風格角色創建影片">
-
-**[🎬 觀看視頻 →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
-
-**作者:** [Alex Prompts](https://x.com/AlexPromptsAI) | **來源:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **發布時間:** Jul 17, 2026
-
----
-### 客廳翻新縮時攝影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個極具描述性的電影級提示詞，用於生成一段 10 秒的詳細室內客廳翻新縮時攝影，呈現光影變化與寫實的施工過程。
-
-#### 📝 提示詞
-
-```
-超寫實電影級縮時攝影，自然日光從柔和的晨光轉變為明亮的中午陽光，再到溫暖的日落餘暉。採用適應性固定攝影機，架設於客廳高處角落，完整呈現空間全貌，並透過細微的焦距調整展現深度與視差，記錄空間蛻變過程。包含工人、工具、家具搬運與建材的寫實動作。室內客廳翻新改造。 [00:00–00:01] 晨光中 2000 年代風格客廳的寬鏡頭靜態畫面：磨損的米色地毯、笨重的深色木質電視櫃、褪色的花卉壁紙、老舊的組合式沙發，以及堆滿過時裝飾與昏暗燈光的空間。工人攜帶工具與箱子進場。音效：晨鳥鳴叫、門軸聲、輕微環境音。 [00:01–00:03] 快速拆除與準備：工人以加速動作拆除舊地毯、壁紙、家具與固定裝置。牆面整平並粉刷，隱藏式電路更新，鋪設新底板。太陽升起，陰影移動。音效：撕開地毯聲、刮除壁紙聲、敲擊聲、清理碎屑聲。 [00:03–00:06] 核心安裝：安裝現代淺橡木或灰色懸浮層架與媒體櫃，擺放中性色調的大型組合式沙發，安裝流線型電視，鋪設人字紋或豪華塑膠地板，鋪開質感地毯。正午明亮的自然光灑入室內。音效：電鑽聲、家具定位聲、吸塵聲、工具碰撞聲。 [00:06–00:08] 裝飾細節：加入現代燈具（落地燈、崁燈、LED 燈條）、抱枕、植栽、藝術品與窗簾。咖啡桌與裝飾品逐漸成形。午後黃昏的金色光線營造出溫暖的反射效果。音效：輕柔的擺放聲、布料摩擦聲、開關聲。 [00:08–00:10] 最終呈現：在日落餘暉下完成的現代極簡風客廳，明亮、舒適、誘人，線條俐落，層次豐富，開放式層架井然有序，柔和的環境光與新鮮植栽。營造出令人嚮往的寧靜氛圍。攝影機行為：適應性固定縮時攝影機——固定於高處角落，透過智慧型微調取景與視差，維持全景視野與電影級深度。自然的視角轉換，流暢的材質過渡。氛圍與美學：超寫實翻新縮時攝影，呈現從老舊雜亂到明亮現代避風港的療癒加速變化。強調質感（木紋、布料編織、漆面）、動態自然光、清晰的進度與成就感。高度細節的表面、寫實的物理效果、有機的動作。電影級調色，總長 10 秒。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="客廳翻新縮時攝影">
-
-**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2078102401446490554)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **發布時間:** Jul 17, 2026
-
----
-### 3D Logo 動畫
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於 Gemini Omni 的動畫提示詞，旨在為綠幕背景上的 Logo 製作 3D 彈出效果。
-
-#### 📝 提示詞
-
-```
-讓（參考）Logo 在綠幕背景上以酷炫的方式彈出。置於畫面中央。它從虛空中彈出並組合在一起，然後懸浮在原地。呈現酷炫的 3D 效果。
-```
-
-<img src="https://pbs.twimg.com/media/HNYa_xmWgAAoWAE.jpg" width="600" alt="3D Logo 動畫">
-
-**[🎬 觀看視頻 →](https://x.com/chrisfirst/status/2077877168730706019)**
-
-**作者:** [CHRIS FIRST](https://x.com/chrisfirst) | **來源:** [Link](https://x.com/chrisfirst/status/2077877168730706019) | **發布時間:** Jul 16, 2026
-
----
-### 冰島馬奔馳的身分特徵保持
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個用於冰島騎馬場景的高品質電影級提示詞，重點在於在複雜的攝影機運動中保持參考圖像的身分特徵。
-
-#### 📝 提示詞
-
-```
-請使用隨附的男性參考圖像作為主角的唯一身分參考。
-
-即使在快速奔馳、無人機拍攝、側面角度和寬銀幕電影構圖中，也要保持完美的面部身分特徵。
-
-時長：10 秒。
-
-開場畫面直接呈現主角騎著一匹強壯的黑馬，在廣闊的冰島山谷中全速奔馳。馬匹濺起淺河的水花，毫不減速地爬上草坡，隨後沿著俯瞰瀑布與無盡群山的懸崖邊緣疾馳。
-
-照片級真實感 IMAX 65mm 製作。頂級電影燈光。超逼真的馬匹動畫。好萊塢等級的環境細節。
-
-攝影機：
-馬背追蹤拍攝 → 側面追蹤 → FPV 無人機追逐 → 史詩級空拍揭幕。
-
-背景音樂：
-史詩級凱爾特管弦樂、法國號、合唱團、太鼓、情感豐富的弦樂。
-
-環境音效：
-馬蹄奔馳聲、河水濺起聲、皮革馬鞍摩擦聲、風聲、遠處的瀑布聲、鳥鳴聲。
-
-無對話。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077790013799206912/img/JiItvZPzotkWNxrm.jpg" width="600" alt="冰島馬奔馳的身分特徵保持">
-
-**[🎬 觀看視頻 →](https://x.com/vireonixx/status/2077790049618547067)**
-
-**作者:** [Virena](https://x.com/vireonixx) | **來源:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **發布時間:** Jul 16, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -2696,6 +2676,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-31T03:46:46.031Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-31T10:33:17.473Z</sub>
 
 </div>

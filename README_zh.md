@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **216** |
+| 📝 提示词总数 | **224** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-08-31** |
 
@@ -56,6 +56,158 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 中国地标自拍延时摄影
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> 这是一个为 Gemini Omni 设计的视频生成提示词，旨在创作一段电影感十足的延时摄影，展示角色在游览多个中国地标的同时保持面部特征的一致性。
+
+#### 📝 提示词
+
+```
+使用上传的角色创作一段 10 秒的自拍延时摄影，游览 20 个中国地标，并在每一拍进行硬切。在整个过程中保持面部完全一致。采用广角自拍杆视角，每个地点搭配不同的当地特色服饰。高清画质，呈现丰富的电影级调色。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094290992283140096/img/MaogORzgUA2lkwi6.jpg" width="600" alt="中国地标自拍延时摄影">
+
+**[🎬 观看视频 →](https://x.com/johnAGI168/status/2094291245879160940)**
+
+**作者:** [John](https://x.com/johnAGI168) | **来源:** [Link](https://x.com/johnAGI168/status/2094291245879160940) | **发布时间:** Aug 31, 2026
+
+---
+### 电影级咖啡巧克力广告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个节奏明快、充满活力的咖啡巧克力棒广告提示词，包含戏剧性的飞溅效果和动态的产品展示。
+
+#### 📝 提示词
+
+```
+为 Bloodline 咖啡巧克力棒制作一个节奏明快、具有电影质感的广告。画面需包含戏剧性的巧克力飞溅效果、飞舞的烘焙咖啡豆以及动态的特写镜头。展示其时尚的黑金包装，随后呈现巧克力棒掰开时流心焦糖与浓郁巧克力内馅的诱人质感。在温暖的灯光下，将产品置于反光舞台上进行展示，接着切换到一位年轻人享受美味的画面，周围咖啡豆漂浮环绕。结尾处，巧克力棒穿过旋转的巧克力与咖啡漩涡，过渡到品牌 Logo 和最终标语：“UNLEASH YOUR ENERGY。”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094217152052310016/img/ualHsMCVJmD521b7.jpg" width="600" alt="电影级咖啡巧克力广告">
+
+**[🎬 观看视频 →](https://x.com/AiwithBloodline/status/2094217190321123331)**
+
+**作者:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **来源:** [Link](https://x.com/AiwithBloodline/status/2094217190321123331) | **发布时间:** Aug 31, 2026
+
+---
+### 迷你披萨施工现场
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个受 Pixar 启发、充满趣味的动画提示词，描绘了微型工人们利用装载机、起重机和传送带建造披萨的场景。
+
+#### 📝 提示词
+
+```
+{  "video_duration": "10 秒",  "aspect_ratio": "16:9",  "sequence": [    {      "time": "0-2 秒",      "scene": "宏大布局",      "camera": "广角电影级航拍推进",      "action": "一张巨大的新鲜出炉的披萨平铺在木桌上，宛如一个大型施工现场。数十名微型工人带着迷你装载机、起重机、运输车和设备蜂拥而至，准备建造完美的披萨。",      "sound_design": "明快俏皮的音乐，微小的引擎声，滚动的轮子声，细微的施工活动声。"    },    {      "time": "2-4 秒",      "scene": "酱料与芝士层",      "camera": "中景侧向移动镜头",      "action": "一辆迷你食品车在披萨上喷洒浓郁的红番茄酱，微型工人们用小抹刀将其平整地涂抹开。另一组人紧随其后，在表面覆盖上一层厚厚的马苏里拉芝士碎。",      "sound_design": "柔和的酱料浇注声，抹刀刮擦声，芝士摩擦声，欢快的节奏音乐。"    },    {      "time": "4-6 秒",      "scene": "配料传送",      "camera": "微距特写，轻微慢动作",      "action": "微型传送带运送着五颜六色的配料，包括意大利辣香肠、蘑菇、青椒、橄榄和新鲜罗勒。微型工人们精准地将每一种配料摆放在芝士表面。",      "sound_design": "传送带运转声，微小的配料掉落声，精致的魔法风铃声，轻快的音乐重音。"    },    {      "time": "6-8 秒",      "scene": "最后配料吊装",      "camera": "低角度戏剧性电影镜头",      "action": "一台迷你起重机将一片超大的意大利辣香肠吊向披萨中心。下方的工人们拉动导向绳并互相打手势，将配料缓慢地放置到位。",      "sound_design": "小型起重机马达声，绳索拉紧声，机械咔哒声，渐强的电影管弦乐。"    },    {      "time": "8-10 秒",      "scene": "披萨大结局",      "camera": "平滑的 360 度环绕特写",      "action": "最后一片配料完美落位。五彩缤纷的纸屑洒满这个微型世界，微型工人们欢呼庆祝。镜头环绕成品披萨，展现其光泽融化的芝士、色彩鲜艳的配料和金黄的饼边，最后定格在令人满意的特写镜头上。",      "sound_design": "庆祝的礼花声，欢快的欢呼声，微小的哨声，振奋人心的管弦乐结尾。"    }  ],  "visual_style": {    "animation_quality": "受 Pixar 启发的高级 3D 动画",    "world_design": "围绕超大披萨构建的迷人微型施工世界",    "color_palette": "温暖的红色、金棕色、奶油芝士色调以及明亮鲜艳的配料色彩",    "lighting": "柔和温暖的金色照明，带有细腻的电影级高光",    "detail": "高度精细的食物纹理、微型机械、逼真的芝士融化效果、清脆的配料以及表情丰富的微型角色",    "camera": "流畅的电影级运镜、微距摄影感、平滑的转场、浅景深",    "overall_feel": "可爱、俏皮、视觉满足、精致、高级且充满奇思妙想",    "resolution": "720p"  }}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094160586024325120/img/J_HWGth3nosxOM4L.jpg" width="600" alt="迷你披萨施工现场">
+
+**[🎬 观看视频 →](https://x.com/SaasJunctionHQ/status/2094160643138154730)**
+
+**作者:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **来源:** [Link](https://x.com/SaasJunctionHQ/status/2094160643138154730) | **发布时间:** Aug 30, 2026
+
+---
+### Image-to-Video 健身房展示
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个利用参考照片使人物转头并展示手臂肌肉，同时保持角色一致性的提示词。
+
+#### 📝 提示词
+
+```
+使用参考图像，让她缓慢地将头转向镜头。她凌乱的黑发随之摆动；她眨了眨眼，然后在保持姿势的同时展示一只手臂的肌肉。保持她原本的面部特征和健身服不变。缓慢的电影级镜头推近。
+```
+
+<img src="https://cms-assets.youmind.com/media/1788170323705_xefihp_HQ-avR2XsAAURe8.jpg" width="600" alt="Image-to-Video 健身房展示">
+
+**[🎬 观看视频 →](https://x.com/amynys/status/2094107886008107062)**
+
+**作者:** [Amy G](https://x.com/amynys) | **来源:** [Link](https://x.com/amynys/status/2094107886008107062) | **发布时间:** Aug 30, 2026
+
+---
+### 电影级室内组装序列
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个详尽的电影级提示词，用于动画展示现代公寓内部的组装过程，家具和音频设备在阳光下逐渐显现。
+
+#### 📝 提示词
+
+```
+一个 10 秒钟不间断的电影级长镜头，固定广角机位，无剪辑，无镜头移动。超写实的现代空公寓，拥有干净的白色墙壁、巨大的落地窗、抛光的硬木地板和高挑的天花板。温暖的午后金色阳光透过窗户射入，投下柔和的移动阴影。除音频设备上真实的 Bose 品牌标识外，无任何可见文字。0-1.5 秒时，一个时尚的哑光黑色盒子位于空房间中央，轻轻颤动后平稳打开。1.5-3.5 秒时，一个 Bose SoundBar 安装在左侧墙壁上并开始播放柔和的环境音乐；一对配套的 Bose 无线扬声器浮动至对角并同步。3.5-5.5 秒时，一张中性色调的豪华沙发在中央展开，同时一张大地色调的手工编织地毯在下方铺开。5.5-7.5 秒时，极简主义木质书架沿右侧墙壁升起，并自动摆放好精选书籍和物品；陶瓷花瓶和茂盛的室内植物出现在角落；现代吊灯从天花板垂下并发出温暖的光芒。7.5-9 秒时，一张时尚的大理石台面咖啡桌在沙发前显现，抽象的柔和色调墙面艺术品淡入后墙，一个小巧的智能恒温器出现。最后 1 秒定格在布置精美、温馨舒适的公寓全景，沐浴在温暖的阳光中，Bose 系统播放着舒缓的旋律。照片级物理效果，精准组装，优雅的现代温馨感。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094046860726169602/img/fR9t1C1DTQ9ymg5M.jpg" width="600" alt="电影级室内组装序列">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2094046957270684064)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2094046957270684064) | **发布时间:** Aug 30, 2026
+
+---
+### LLM 知识流星系
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 大语言模型的概念化可视化，将内部逻辑和数据流呈现为一个天体星系，并有一颗彗星穿梭于群星之间。
+
+#### 📝 提示词
+
+```
+生成一段 10 秒的视频，展示以星系形式呈现的 LLM 数据流。星系代表多维空间，星星代表你的权重/知识/嵌入向量，彗星则代表一次穿梭于部分星星之间的单次传递。彗星要小，像一道穿梭于群星间且方向随机的光。从视频观看者的视角来看，彗星应从星群的左侧开始，并在右侧结束。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093993625344499712/img/dN2u8XS4s8amSPTW.jpg" width="600" alt="LLM 知识流星系">
+
+**[🎬 观看视频 →](https://x.com/TunducR/status/2093993994439033148)**
+
+**作者:** [Tunduc Raul](https://x.com/TunducR) | **来源:** [Link](https://x.com/TunducR/status/2093993994439033148) | **发布时间:** Aug 30, 2026
+
+---
+### Gemini Omni Logo 刺绣动画
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 为 Gemini Omni 1.1 设计的电影级微距提示词，用于创作彩色丝线在棉布上自动编织成 Logo 的动画。
+
+#### 📝 提示词
+
+```
+棉质衬衫面料的极致微距镜头，起初为空白。彩色刺绣线从表面升起并自动编织到位，逐行铺设紧密的缎纹针脚，勾勒出 Logo 的轮廓。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093992072185581568/img/RCUiHx5O1oeKNf6s.jpg" width="600" alt="Gemini Omni Logo 刺绣动画">
+
+**[🎬 观看视频 →](https://x.com/SJinn_Agent/status/2093993109361426766)**
+
+**作者:** [SJinn Agent](https://x.com/SJinn_Agent) | **来源:** [Link](https://x.com/SJinn_Agent/status/2093993109361426766) | **发布时间:** Aug 30, 2026
+
+---
+### 可爱风贴纸轰炸社交媒体剪辑
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个用于创作病毒式社交媒体风格短片的视频生成提示词，画面包含一位比出剪刀手的女性，并辅以动态贴纸和可爱风文字叠加效果。
+
+#### 📝 提示词
+
+```
+超萌且具病毒传播力的社交媒体剪辑。画面中，比出剪刀手的女性面带微笑，镜头轻柔推近。视频叠加了“贴纸轰炸”效果——闪烁的动态星星、跳动的心形图案，以及随节奏律动的“KAWAII”文字叠加。
+```
+
+<img src="https://cms-assets.youmind.com/media/1788170325072_1r4e7y_HQ9OAh7aAAAJ-Cl.jpg" width="600" alt="可爱风贴纸轰炸社交媒体剪辑">
+
+**[🎬 观看视频 →](https://x.com/CrazyKaomei/status/2093992934358286350)**
+
+**作者:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **来源:** [Link](https://x.com/CrazyKaomei/status/2093992934358286350) | **发布时间:** Aug 30, 2026
+
+---
 ### 狂野沙漠漂移电影感大片
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2445,178 +2597,6 @@ FIZZI Sparkling Tonic —— 西柚味夏季电影级饮料广告，采用高端
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **发布时间:** Jul 21, 2026
 
 ---
-### 电影感水彩画：拉贾斯坦邦的寡妇
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个叙事性视频提示词，采用电影感水彩画风格，讲述了一位寡妇和她的女儿们在泥屋庭院中的故事。
-
-#### 📝 提示词
-
-```
-寡妇的重担。电影感中景镜头，延续上一场景的向下平移。镜头聚焦于一位年轻的拉贾斯坦邦寡妇，她已摘下婚嫁首饰，坐在泥屋尘土飞扬的庭院中。她的脸上流露出深沉的悲伤、孤独和沉重的思绪。她身边坐着 3 个年轻女孩，都是 14 到 15 岁左右的青少年，她们带着一丝希望注视着她，寻求指引。她们的姿态中显露出生存的挣扎。艺术风格：电影感水彩画风格。柔和且富有表现力的笔触，流动的色彩渲染，以及大地色调。高质量的动画水彩画。请勿使用照片级真实感、真人实拍或 3D 渲染风格。音频：器乐或环境音，无需人声或旁白。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="电影感水彩画：拉贾斯坦邦的寡妇">
-
-**[🎬 观看视频 →](https://x.com/GargeyaS/status/2079207922006114649)**
-
-**作者:** [Gargeya](https://x.com/GargeyaS) | **来源:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **发布时间:** Jul 20, 2026
-
----
-### iPhone 16 风格度假精彩瞬间
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个视频生成提示词，用于创作具有 iPhone 16 摄像机运动和光影特征的逼真手持度假视频。
-
-#### 📝 提示词
-
-```
-度假精彩瞬间视频，女性主角，配音解说。
-摄像机：iPhone 16。内置传感器位移式光学图像防抖（OIS）和陀螺仪电子防抖（EIS）可平滑掉大部分剧烈抖动，但不会消除真实手持拍摄时产生的自然微小晃动，以及偶尔出现的构图微调。当手部或产品近距离进入画面，或焦点从人脸切换到物体时，自动对焦会产生短暂的搜索和重新对焦过程。曝光会随着主角或产品相对于窗户光线的移动而进行自然、实时的调整。
-```
-
-<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="iPhone 16 风格度假精彩瞬间">
-
-**[🎬 观看视频 →](https://x.com/VisuraCode/status/2079047884759011439)**
-
-**作者:** [Visura](https://x.com/VisuraCode) | **来源:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **发布时间:** Jul 20, 2026
-
----
-### 电影级印尼鸡肉面（Mie Ayam）延时摄影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个专为 Gemini 设计的电影级视频提示词，旨在生成高端的印尼鸡肉面（Mie Ayam）美食延时摄影，呈现专业灯光效果与微距细节。
-
-#### 📝 提示词
-
-```
-创作一段以“烹饪优雅”为主题的电影级延时摄影，展示制作一碗奢华印尼鸡肉面（Mie Ayam）的过程。融合温暖的金色灯光、微距美食摄影和优雅的焦外成像效果。重点捕捉劲道的金黄色面条被翻拌的瞬间、色泽诱人的焦糖色鸡肉块，以及浓郁热汤缓缓倒入的慢动作镜头。画面中应包含淋入香辣油、撒下新鲜葱花的过程，并使用精致的深色陶瓷碗作为容器。加入漂浮的蒸汽颗粒，配合动态的微距平移和柔和的推镜头。营造出一种令人垂涎欲滴、温暖且奢华的氛围，将烹饪艺术与高端美学完美融合。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="电影级印尼鸡肉面（Mie Ayam）延时摄影">
-
-**[🎬 观看视频 →](https://x.com/aikonect_/status/2078803644867383767)**
-
-**作者:** [aiko](https://x.com/aikonect_) | **来源:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **发布时间:** Jul 19, 2026
-
----
-### 足球运动员跳出屏幕
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个极具创意的视频生成提示词：足球运动员将球踢出屏幕，随后跳出屏幕并在人的手掌上表演颠球。
-
-#### 📝 提示词
-
-```
-足球运动员把球踢出了屏幕……我用手接住了球……接着，运动员跳出屏幕，开始在我的手掌上颠球。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="足球运动员跳出屏幕">
-
-**[🎬 观看视频 →](https://x.com/nicegen_ai/status/2078656532955439254)**
-
-**作者:** [NiceGen.ai](https://x.com/nicegen_ai) | **来源:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **发布时间:** Jul 19, 2026
-
----
-### 模拟人生风格角色创建视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个创意提示词，用于制作类似于《模拟人生》角色创建界面的视频，包含轻微的舞蹈动作、旋转的晶体（Plumbob）以及静态 UI。
-
-#### 📝 提示词
-
-```
-根据我的照片，创建一个《模拟人生》游戏风格的角色创建界面图片。[男性] 模拟市民穿着 [黑色牛仔裤、黑色 T 恤和黑色鸭舌帽]。角色右侧有白色方块。在这些方块中，从上到下依次为：[MacBook、iPhone、AirPods Max]。模拟市民头顶上方有一个绿色的晶体（Plumbob），晶体上方是用《模拟人生》游戏风格书写的 [ALEX PROMPTS] 字样。在模拟市民的左右两侧添加箭头，如同《模拟人生》角色编辑器中那样。9:16 比例。一个《模拟人生》电子游戏风格的角色创建界面。一名 [男性] 穿着 [黑色 T 恤、黑色长裤、黑色鸭舌帽] 站在中心。他正在原地轻微地跳舞，轻轻摆动臀部和手臂。他头顶上方，一个绿色的晶体（Plumbob）在缓慢旋转。包含服装选择、箭头和 [ALEX PROMPTS] 标签的用户界面保持完全静止。背景不移动。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="模拟人生风格角色创建视频">
-
-**[🎬 观看视频 →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
-
-**作者:** [Alex Prompts](https://x.com/AlexPromptsAI) | **来源:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **发布时间:** Jul 17, 2026
-
----
-### 客厅翻新延时摄影
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个极具描述性的电影级提示词，用于生成 10 秒钟的室内客厅翻新延时视频，呈现光影变化与逼真的施工过程。
-
-#### 📝 提示词
-
-```
-超逼真电影级延时摄影，自然日光从柔和的晨曦到明亮的午后阳光，再到温暖的日落余晖。采用自适应固定机位，设置在客厅高处角落，展示全景空间，并伴有细微的焦距调整以增强深度和视差效果，呈现空间蜕变过程。包含工人、工具、家具搬运和材料的逼真动态。室内客厅翻新改造。 [00:00–00:01] 晨曦中 2000 年代风格客厅的广角固定镜头：磨损的米色地毯、笨重的深色木质电视柜、褪色的碎花壁纸、老式组合沙发，室内杂乱且光线昏暗。工人们带着工具和箱子进场。音效：清晨鸟鸣、门轴声、轻微环境音。 [00:01–00:03] 快速拆除与准备：工人们以加速节奏拆除旧地毯、壁纸、家具和固定装置。墙面抹平并粉刷，隐藏式电路更新，铺设新底板。太阳升起，阴影移动。音效：撕扯地毯声、刮除壁纸声、锤击声、清理碎屑声。 [00:03–00:06] 核心安装：安装现代浅橡木或灰色悬浮搁板和媒体控制台，摆放中性色调的大型组合沙发，挂上时尚电视，铺设人字纹或豪华乙烯基板材地板，铺开装饰性地毯。午后明亮的自然光洒入室内。音效：电钻声、家具摆放声、吸尘声、工具碰撞声。 [00:06–00:08] 细节装饰：添加现代灯具（落地灯、嵌入式灯、LED 灯带）、抱枕、绿植、艺术品和窗帘。咖啡桌及装饰品显现。午后金色的阳光营造出温暖的反射效果。音效：轻柔的摆放声、布料摩擦声、开关灯声。 [00:08–00:10] 最终呈现：日落余晖下完成的现代极简主义客厅，明亮、舒适、温馨，线条简洁，层次丰富的纹理，整洁的开放式搁架，柔和的环境照明，生机勃勃的绿植。营造出令人向往的宁静氛围。摄像机表现：自适应固定延时摄影——固定在角落高处，通过智能微调和视差保持全景视野与电影级深度。自然的视角转换，平滑的材质过渡。氛围与美学：超逼真翻新延时摄影，呈现从陈旧杂乱到明亮现代避风港的满足感加速变化。强调纹理（木纹、织物编织、漆面）、动态自然光、清晰的进度感和成就感。高度细节化的表面，逼真的物理效果，有机的运动感。电影级调色，总时长 10 秒。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="客厅翻新延时摄影">
-
-**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2078102401446490554)**
-
-**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **发布时间:** Jul 17, 2026
-
----
-### 3D Logo 动画
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Gemini Omni 编写的动画提示词，用于在绿幕背景上创建 Logo 的 3D 弹出效果。
-
-#### 📝 提示词
-
-```
-让（参考）Logo 在绿幕背景上以酷炫的方式弹出。位于画面中心。它从虚空中弹出并组合在一起，然后悬浮在原地。呈现出酷炫的 3D 效果。
-```
-
-<img src="https://pbs.twimg.com/media/HNYa_xmWgAAoWAE.jpg" width="600" alt="3D Logo 动画">
-
-**[🎬 观看视频 →](https://x.com/chrisfirst/status/2077877168730706019)**
-
-**作者:** [CHRIS FIRST](https://x.com/chrisfirst) | **来源:** [Link](https://x.com/chrisfirst/status/2077877168730706019) | **发布时间:** Jul 16, 2026
-
----
-### 冰岛马疾驰中的身份保持
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于冰岛骑马场景的高规格电影级提示词，专注于在复杂的镜头运动中保持参考图像的人物身份一致性。
-
-#### 📝 提示词
-
-```
-请使用随附的男性参考图像作为主角的唯一身份参考。
-
-即使在快速疾驰、无人机拍摄、侧面角度和宽幅电影构图中，也要保持完美的面部身份一致性。
-
-时长：10 秒。
-
-开场画面直接展示主角骑着一匹强壮的黑马，在巨大的冰岛山谷中全速疾驰。马匹溅起浅河的水花，毫不减速地爬上草坡，随后沿着俯瞰瀑布和无尽群山的悬崖边缘飞奔。
-
-IMAX 65mm 级照片级真实感制作。顶级电影质感光效。超写实马匹动画。好莱坞级环境细节。
-
-镜头：
-马背跟随拍摄 → 侧向跟随 → FPV 无人机追拍 → 史诗级航拍展现。
-
-背景音乐：
-史诗级凯尔特管弦乐、圆号、合唱团、太鼓、情感丰富的弦乐。
-
-环境音效：
-马蹄疾驰声、河流溅水声、皮革马鞍摩擦声、风声、远处的瀑布声、鸟鸣声。
-
-无对白。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077790013799206912/img/JiItvZPzotkWNxrm.jpg" width="600" alt="冰岛马疾驰中的身份保持">
-
-**[🎬 观看视频 →](https://x.com/vireonixx/status/2077790049618547067)**
-
-**作者:** [Virena](https://x.com/vireonixx) | **来源:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **发布时间:** Jul 16, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -2669,6 +2649,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-31T03:46:44.925Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-31T10:33:16.037Z</sub>
 
 </div>

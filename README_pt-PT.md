@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **216** |
+| 📝 Total de prompts | **224** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-08-31** |
 
@@ -56,6 +56,158 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Hyperlapse de Selfie em Pontos Turísticos Chineses
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt de geração de vídeo para o Gemini Omni que cria um hyperlapse cinematográfico de um personagem visitando vários pontos turísticos chineses, mantendo a consistência facial.
+
+#### 📝 Prompt
+
+```
+Crie um hyperlapse de selfie de 10 segundos usando o personagem enviado, visitando 20 pontos turísticos chineses com um corte seco em cada batida. Mantenha exatamente o mesmo rosto durante todo o vídeo. Perspectiva de selfie stick grande-angular, com um traje de estilo local diferente para cada local. Alta definição com gradação de cor cinematográfica rica.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094290992283140096/img/MaogORzgUA2lkwi6.jpg" width="600" alt="Hyperlapse de Selfie em Pontos Turísticos Chineses">
+
+**[🎬 Assistir vídeo →](https://x.com/johnAGI168/status/2094291245879160940)**
+
+**Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2094291245879160940) | **Publicado:** Aug 31, 2026
+
+---
+### Comercial Cinematográfico de Chocolate com Café
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para comercial de ritmo acelerado e alta energia para uma barra de chocolate com café, apresentando respingos dramáticos e revelações dinâmicas do produto.
+
+#### 📝 Prompt
+
+```
+Crie um comercial cinematográfico de ritmo acelerado para a Bloodline Coffee Chocolate Bar, apresentando respingos dramáticos de chocolate, grãos de café torrados voando e closes dinâmicos. Revele a elegante embalagem preta e dourada, depois mostre a barra sendo quebrada para expor um caramelo cremoso e um interior rico de chocolate. Exiba o produto em um palco reflexivo sob iluminação quente, seguido por um jovem aproveitando uma mordida enquanto grãos de café flutuam ao seu redor. Termine com a barra de chocolate voando através de um vórtice giratório de chocolate e café, fazendo a transição para o logotipo da marca e o slogan final: “LIBERE SUA ENERGIA.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094217152052310016/img/ualHsMCVJmD521b7.jpg" width="600" alt="Comercial Cinematográfico de Chocolate com Café">
+
+**[🎬 Assistir vídeo →](https://x.com/AiwithBloodline/status/2094217190321123331)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2094217190321123331) | **Publicado:** Aug 31, 2026
+
+---
+### Mundo de Construção de Pizza em Miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de animação lúdico inspirado na Pixar, retratando trabalhadores minúsculos construindo uma pizza com carregadeiras, guindastes e esteiras transportadoras.
+
+#### 📝 Prompt
+
+```
+{  "video_duration": "10 segundos",  "aspect_ratio": "16:9",  "sequence": [    {      "time": "0-2 seg",      "scene": "Cenário Grandioso",      "camera": "Plano aéreo cinematográfico amplo com zoom in",      "action": "Uma enorme pizza recém-assada repousa sobre uma mesa de madeira como um gigantesco canteiro de obras. Dezenas de trabalhadores minúsculos chegam correndo com carregadeiras, guindastes, caminhões de entrega e equipamentos em miniatura, preparando-se para construir a pizza perfeita.",      "sound_design": "Música alegre e lúdica, sons de motores minúsculos, rodas girando, atividade de construção sutil."    },    {      "time": "2-4 seg",      "scene": "Camada de Molho e Queijo",      "camera": "Plano médio com acompanhamento lateral",      "action": "Um caminhão de comida em miniatura despeja um rico molho de tomate vermelho sobre a pizza, enquanto trabalhadores minúsculos o espalham suavemente com pequenas espátulas. Outra equipe segue atrás, cobrindo a superfície com uma camada espessa de muçarela ralada.",      "sound_design": "Som suave de molho sendo despejado, raspagem de espátula, som de queijo, música rítmica alegre."    },    {      "time": "4-6 seg",      "scene": "Coberturas em Movimento",      "camera": "Close-up macro com câmera lenta suave",      "action": "Esteiras transportadoras minúsculas levam ingredientes coloridos, incluindo pepperoni, cogumelos, pimentões, azeitonas e manjericão fresco. Os trabalhadores em miniatura organizam cuidadosamente cada cobertura sobre a superfície de queijo com precisão.",      "sound_design": "Movimento de esteira, sons de ingredientes caindo, sinos mágicos delicados, acentos musicais animados."    },    {      "time": "6-8 seg",      "scene": "Içamento do Ingrediente Final",      "camera": "Plano cinematográfico dramático em ângulo baixo",      "action": "Um guindaste em miniatura levanta uma fatia de pepperoni grande em direção ao centro da pizza. Os trabalhadores abaixo puxam cordas-guia e sinalizam uns aos outros enquanto a cobertura é lentamente posicionada no lugar.",      "sound_design": "Motor de guindaste pequeno, sons de tensão de corda, cliques mecânicos, música orquestral cinematográfica crescente."    },    {      "time": "8-10 seg",      "scene": "Grande Final da Pizza",      "camera": "Close-up com órbita suave de 360 graus",      "action": "A última cobertura cai perfeitamente na posição. Uma explosão de confetes coloridos preenche o mundo em miniatura enquanto os trabalhadores minúsculos comemoram. A câmera gira em torno da pizza finalizada, revelando seu queijo derretido brilhante, coberturas coloridas e borda dourada antes de terminar em um plano heroico satisfatório.",      "sound_design": "Estouro comemorativo, aplausos alegres, assobios minúsculos, final orquestral inspirador."    }  ],  "visual_style": {    "animation_quality": "Animação 3D premium inspirada na Pixar",    "world_design": "Mundo de construção em miniatura encantador construído ao redor de uma pizza gigante",    "color_palette": "Vermelhos quentes, marrons dourados, tons cremosos de queijo e coberturas coloridas vibrantes",    "lighting": "Iluminação dourada quente e suave com destaques cinematográficos delicados",    "detail": "Texturas de alimentos altamente detalhadas, maquinário em miniatura, queijo derretido realista, coberturas nítidas e personagens minúsculos expressivos",    "camera": "Movimento cinematográfico fluido, sensação de fotografia macro, transições suaves, profundidade de campo curta",    "overall_feel": "Fofo, lúdico, visualmente satisfatório, polido, premium e extravagante",    "resolution": "720p"  }}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094160586024325120/img/J_HWGth3nosxOM4L.jpg" width="600" alt="Mundo de Construção de Pizza em Miniatura">
+
+**[🎬 Assistir vídeo →](https://x.com/SaasJunctionHQ/status/2094160643138154730)**
+
+**Autor:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Fonte:** [Link](https://x.com/SaasJunctionHQ/status/2094160643138154730) | **Publicado:** Aug 30, 2026
+
+---
+### Image-to-Video Gym Flex
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt que utiliza uma foto de referência para animar uma pessoa virando a cabeça e flexionando o braço, mantendo a consistência do personagem.
+
+#### 📝 Prompt
+
+```
+Usando a imagem de referência, faça com que ela vire lentamente a cabeça em direção à câmera. Seu cabelo preto bagunçado se move; ela pisca e, em seguida, flexiona um braço enquanto mantém sua pose. Mantenha exatamente o mesmo rosto e a roupa de academia. Movimento lento de câmera cinematográfica aproximando-se (push-in).
+```
+
+<img src="https://cms-assets.youmind.com/media/1788170323705_xefihp_HQ-avR2XsAAURe8.jpg" width="600" alt="Image-to-Video Gym Flex">
+
+**[🎬 Assistir vídeo →](https://x.com/amynys/status/2094107886008107062)**
+
+**Autor:** [Amy G](https://x.com/amynys) | **Fonte:** [Link](https://x.com/amynys/status/2094107886008107062) | **Publicado:** Aug 30, 2026
+
+---
+### Sequência de Montagem de Interior Cinematográfico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico detalhado que anima a montagem do interior de um apartamento moderno, com móveis e equipamentos de áudio materializando-se sob a luz do sol.
+
+#### 📝 Prompt
+
+```
+Um plano cinematográfico contínuo de 10 segundos, sem cortes, com câmera fixa em ângulo aberto e sem movimento. Apartamento moderno hiper-realista e vazio, com paredes brancas limpas, janelas amplas do chão ao teto, piso de madeira polida e pé-direito alto. A luz dourada e quente da tarde entra pelas janelas, projetando sombras suaves em movimento. Nenhum texto visível, exceto a marca Bose autêntica nos equipamentos de áudio. De 0 a 1,5s, uma caixa elegante preto fosco repousa no centro da sala vazia, treme suavemente e abre de forma fluida. De 1,5 a 3,5s, uma Bose SoundBar é montada na parede esquerda e começa a reproduzir uma música ambiente suave; um par de alto-falantes sem fio Bose correspondentes flutua para os cantos opostos e sincroniza. De 3,5 a 5,5s, um sofá de tons neutros e aconchegantes se desdobra no centro, enquanto um tapete de tons terrosos e tecido à mão se desenrola abaixo dele. De 5,5 a 7,5s, estantes de madeira minimalistas surgem ao longo da parede direita e são preenchidas com livros e objetos selecionados; vasos de cerâmica e plantas exuberantes aparecem nos cantos; luminárias pendentes modernas descem do teto e brilham suavemente. De 7,5 a 9s, uma mesa de centro elegante com tampo de mármore se materializa em frente ao sofá, arte de parede abstrata em cores suaves surge na parede ao fundo e um pequeno termostato inteligente aparece. O segundo final mantém a imagem do apartamento completo, aconchegante e elegantemente decorado, banhado pela luz quente do sol, com o sistema Bose reproduzindo uma melodia relaxante. Física fotorrealista, montagem precisa, calor moderno e elegante.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094046860726169602/img/fR9t1C1DTQ9ymg5M.jpg" width="600" alt="Sequência de Montagem de Interior Cinematográfico">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2094046957270684064)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2094046957270684064) | **Publicado:** Aug 30, 2026
+
+---
+### Galáxia de Fluxo de Conhecimento de LLMs
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma visualização conceitual de grandes modelos de linguagem onde a lógica interna e o fluxo de dados são representados como uma galáxia celestial com um cometa atravessando as estrelas.
+
+#### 📝 Prompt
+
+```
+Gere um vídeo de 10 segundos sobre o fluxo de LLMs representado como uma galáxia. Onde a galáxia é o espaço multidimensional, as estrelas representam seus pesos/conhecimento/vetores incorporados e uma única passagem é representada por um cometa que atravessa algumas dessas estrelas. Faça o cometa pequeno e como uma luz que atravessa as estrelas em direções aleatórias. O cometa deve começar da esquerda do grupo de estrelas e terminar na parte direita, do ponto de vista do usuário no vídeo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093993625344499712/img/dN2u8XS4s8amSPTW.jpg" width="600" alt="Galáxia de Fluxo de Conhecimento de LLMs">
+
+**[🎬 Assistir vídeo →](https://x.com/TunducR/status/2093993994439033148)**
+
+**Autor:** [Tunduc Raul](https://x.com/TunducR) | **Fonte:** [Link](https://x.com/TunducR/status/2093993994439033148) | **Publicado:** Aug 30, 2026
+
+---
+### Animação de Bordado do Logotipo Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt cinematográfico macro detalhado para o Gemini Omni 1.1 que cria uma animação de fios coloridos entrelaçando-se para formar um logotipo em tecido de algodão.
+
+#### 📝 Prompt
+
+```
+Close-up extremo de tecido de camisa de algodão, inicialmente vazio. Fios de bordado coloridos emergem da superfície e entrelaçam-se, criando pontos de cetim firmes, linha por linha, para delinear o logotipo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093992072185581568/img/RCUiHx5O1oeKNf6s.jpg" width="600" alt="Animação de Bordado do Logotipo Gemini Omni">
+
+**[🎬 Assistir vídeo →](https://x.com/SJinn_Agent/status/2093993109361426766)**
+
+**Autor:** [SJinn Agent](https://x.com/SJinn_Agent) | **Fonte:** [Link](https://x.com/SJinn_Agent/status/2093993109361426766) | **Publicado:** Aug 30, 2026
+
+---
+### Edição de Redes Sociais com Sticker Bomb Kawaii
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de geração de vídeo para criar um clipe viral no estilo de redes sociais, apresentando uma mulher fazendo o sinal de paz, aprimorado com adesivos animados e sobreposições de texto kawaii.
+
+#### 📝 Prompt
+
+```
+Edição de redes sociais ultra fofa e viral. A mulher fazendo o sinal de paz sorri enquanto a câmera dá um zoom suave. O vídeo é composto por um efeito de 'sticker bomb'—estrelas brilhantes animadas, corações saltitantes e sobreposições de texto 'KAWAII' que pulsam no ritmo da música.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788170325072_1r4e7y_HQ9OAh7aAAAJ-Cl.jpg" width="600" alt="Edição de Redes Sociais com Sticker Bomb Kawaii">
+
+**[🎬 Assistir vídeo →](https://x.com/CrazyKaomei/status/2093992934358286350)**
+
+**Autor:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Fonte:** [Link](https://x.com/CrazyKaomei/status/2093992934358286350) | **Publicado:** Aug 30, 2026
+
+---
 ### Cinema de Drift Agressivo no Deserto
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2445,178 +2597,6 @@ Mantenha todo o restante igual. Tomada contínua, sem cortes de cena.
 **Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Publicado:** Jul 21, 2026
 
 ---
-### Viúva Rajasthani em Aquarela Cinematográfica
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo narrativo usando um estilo de aquarela cinematográfica para contar a história de uma viúva e suas filhas no pátio de uma casa de barro.
-
-#### 📝 Prompt
-
-```
-O Peso da Viuvez. Plano médio cinematográfico, continuando o movimento de câmera descendente da cena anterior. A câmera foca em uma jovem viúva Rajasthani, despojada de suas joias de casamento, sentada no pátio empoeirado de sua casa de barro. Um olhar profundo de tristeza, solidão e reflexão pesada está em seu rosto. Há 3 meninas mais novas sentadas ao redor dela, todas adolescentes com cerca de 14 a 15 anos, olhando para ela em busca de orientação com um pequeno vislumbre de esperança. A luta pela sobrevivência delas é visível em sua postura. Estilo de Arte: Estilo de pintura em aquarela cinematográfica. Pinceladas suaves e expressivas, lavagens de cores fluidas e tons terrosos. Pintura em aquarela animada de alta qualidade. Não use estilos fotorrealistas, live-action ou renderizações 3D. Áudio: Música instrumental ou sons ambientais, sem vocais ou narrações.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="Viúva Rajasthani em Aquarela Cinematográfica">
-
-**[🎬 Assistir vídeo →](https://x.com/GargeyaS/status/2079207922006114649)**
-
-**Autor:** [Gargeya](https://x.com/GargeyaS) | **Fonte:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **Publicado:** Jul 20, 2026
-
----
-### Destaques de Férias no Estilo iPhone 16
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo para criar filmagens realistas de férias feitas à mão, apresentando características específicas de movimento de câmera e iluminação do iPhone 16.
-
-#### 📝 Prompt
-
-```
-Vídeo de Destaques de Férias, Sujeito Feminino, Narração em Voz. 
-CÂMERA: iPhone 16. O sensor-shift OIS e o gyro EIS integrados suavizam a maior parte da trepidação, mas não eliminam os micro-movimentos naturais de quem segura a câmera e os ocasionais reenquadramentos que uma pessoa real filmando a si mesma produziria. O foco automático busca e reajusta brevemente quando uma mão ou produto entra no quadro em curta distância ou quando o foco muda do rosto para o objeto. A exposição se ajusta ao vivo com uma transição natural conforme o sujeito ou o produto se move em relação à luz da janela.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="Destaques de Férias no Estilo iPhone 16">
-
-**[🎬 Assistir vídeo →](https://x.com/VisuraCode/status/2079047884759011439)**
-
-**Autor:** [Visura](https://x.com/VisuraCode) | **Fonte:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **Publicado:** Jul 20, 2026
-
----
-### Timelapse Cinematográfico de Mie Ayam
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo cinematográfico projetado para o Gemini gerar um timelapse gastronômico de alta qualidade de Macarrão com Frango Indonésio (Mie Ayam), apresentando iluminação profissional e detalhes em macro.
-
-#### 📝 Prompt
-
-```
-Crie um timelapse cinematográfico do preparo de uma luxuosa tigela de Mie Ayam (Macarrão com Frango Indonésio), com o tema 'Elegância Culinária'. Combine iluminação dourada quente, fotografia gastronômica macro e efeitos bokeh elegantes. Foque no macarrão dourado sendo misturado, pedaços de frango caramelizados e brilhantes, e um caldo rico e fumegante sendo servido em câmera lenta. Inclua gotas de óleo de pimenta aromático, cebolinhas frescas caindo e uma elegante tigela de cerâmica escura. Adicione partículas de vapor flutuantes e movimentos de câmera macro dinâmicos com um zoom suave. Crie uma atmosfera luxuosa, quente e de dar água na boca, misturando arte culinária com estética de alto padrão.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="Timelapse Cinematográfico de Mie Ayam">
-
-**[🎬 Assistir vídeo →](https://x.com/aikonect_/status/2078803644867383767)**
-
-**Autor:** [aiko](https://x.com/aikonect_) | **Fonte:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **Publicado:** Jul 19, 2026
-
----
-### Jogador de futebol saltando para fora da tela
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt criativo de geração de vídeo onde um jogador de futebol chuta uma bola para fora de uma tela e, em seguida, salta para fora para fazer embaixadinhas na palma da mão de uma pessoa.
-
-#### 📝 Prompt
-
-```
-O jogador de futebol chuta a bola para fora da tela... Eu a pego com a mão... Então, o jogador salta para fora da tela e começa a fazer embaixadinhas com a bola na palma da minha mão.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="Jogador de futebol saltando para fora da tela">
-
-**[🎬 Assistir vídeo →](https://x.com/nicegen_ai/status/2078656532955439254)**
-
-**Autor:** [NiceGen.ai](https://x.com/nicegen_ai) | **Fonte:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **Publicado:** Jul 19, 2026
-
----
-### Vídeo de criação de personagem estilo The Sims
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt criativo para criar um vídeo que lembra a tela de criação de personagens do The Sims, apresentando uma dança sutil, um Plumbob giratório e uma interface de usuário estática.
-
-#### 📝 Prompt
-
-```
-Com base na minha foto, crie uma imagem no estilo do jogo The Sims, no bloco de criação de personagem. [Homem] Sim vestindo [calça jeans preta, camiseta preta e boné preto]. À direita do personagem, há quadrados brancos. Nesses quadrados, de cima para baixo: [MacBook, iPhone, AirPods Max]. Acima da cabeça do Sim, há um plumbob verde e, acima dele, a inscrição [ALEX PROMPTS], feita no estilo do jogo The Sims. Adicione setas à direita e à esquerda do Sim, como no editor de personagens do The Sims. 9:16 Uma tela estilizada de criação de personagem do videogame The Sims. Um [homem] vestindo [camiseta preta, calça preta, boné preto] está no centro. Ele dança sutilmente no lugar, balançando os quadris e os braços suavemente. Acima de sua cabeça, um Plumbob verde flutua e gira lentamente. A interface do usuário com opções de roupas, setas e o rótulo [ALEX PROMPTS] permanece completamente estática. O fundo não se move.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="Vídeo de criação de personagem estilo The Sims">
-
-**[🎬 Assistir vídeo →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
-
-**Autor:** [Alex Prompts](https://x.com/AlexPromptsAI) | **Fonte:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **Publicado:** Jul 17, 2026
-
----
-### Timelapse de Reforma de Sala de Estar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico altamente descritivo para gerar um timelapse detalhado de 10 segundos de uma reforma de sala de estar, apresentando mudanças de iluminação e movimentos realistas.
-
-#### 📝 Prompt
-
-```
-Timelapse cinematográfico ultrarrealista, progressão de luz natural desde a luz suave do amanhecer até o sol vibrante do meio-dia e o brilho quente do pôr do sol, câmera estática adaptativa fixada em um canto elevado da sala de estar mostrando todo o espaço com ajustes focais sutis para profundidade e paralaxe conforme a área se transforma. Movimentos realistas de trabalhadores, ferramentas, transportadores de móveis e materiais. Transformação de reforma de sala de estar. [00:00–00:01] Plano estático amplo de uma sala de estar datada dos anos 2000 sob a luz fria do amanhecer: carpete bege gasto, centro de entretenimento de madeira escura volumoso, papel de parede floral desbotado, sofá de canto antigo, bagunçado com decoração ultrapassada e iluminação fraca. Trabalhadores chegam com ferramentas e caixas. Efeitos sonoros: pássaros matinais, rangidos de porta, ambiente leve. [00:01–00:03] Demolição e preparação rápidas: trabalhadores removem o carpete antigo, papel de parede, móveis e acessórios em velocidade acelerada. Paredes são alisadas e pintadas, atualizações elétricas ocultas, novo contrapiso preparado. O sol nasce, as sombras mudam. Efeitos sonoros: rasgar carpete, raspar papel de parede, martelar, limpeza de detritos. [00:03–00:06] Instalação principal: prateleiras flutuantes e console de mídia em carvalho claro ou cinza modernos instalados, sofá de canto grande em tons neutros posicionado, TV elegante montada, piso espinha de peixe ou vinílico de luxo colocado, tapete de destaque desenrolado. Luz natural brilhante do meio-dia inunda o ambiente. Efeitos sonoros: furadeira, posicionamento de móveis, aspirador de pó, cliques de ferramentas. [00:06–00:08] Detalhes de acabamento: iluminação moderna (luminárias de chão, embutidas, fitas de LED), almofadas, plantas, obras de arte e cortinas adicionadas. Mesa de centro com decoração se materializa. A luz dourada do final da tarde cria reflexos quentes. Efeitos sonoros: sons de posicionamento mais suaves, tecido farfalhando, interruptores de luz. [00:08–00:10] Revelação final da sala de estar minimalista contemporânea concluída no calor do pôr do sol: brilhante, aconchegante, convidativa com linhas limpas, texturas em camadas, prateleiras abertas organizadas, iluminação ambiente suave, plantas frescas. Atmosfera calma e aspiracional. Comportamento da câmera: Câmera de timelapse estática adaptativa — canto elevado fixo com reenquadramento inteligente menor e paralaxe para manter a visão completa e profundidade cinematográfica. Mudanças de perspectiva naturais, transições de material suaves. Humor e estética: Timelapse de reforma hiper-realista, mudança acelerada satisfatória de um ambiente datado e bagunçado para um santuário moderno e brilhante. Ênfase em texturas (veios da madeira, tramas de tecido, acabamentos de pintura), iluminação natural dinâmica, progresso limpo e conquista. Superfícies altamente detalhadas, física realista, movimentos orgânicos. Tratamento de cor cinematográfico, 10 segundos de duração total.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="Timelapse de Reforma de Sala de Estar">
-
-**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2078102401446490554)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **Publicado:** Jul 17, 2026
-
----
-### Animação de Logotipo 3D
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de animação para o Gemini Omni criar um efeito de surgimento 3D para um logotipo em um fundo de tela verde.
-
-#### 📝 Prompt
-
-```
-Faça o logotipo (de referência) surgir de forma legal em um fundo de tela verde. Centralizado no quadro. Ele aparece do nada, monta-se e depois flutua no lugar. Efeito 3D legal.
-```
-
-<img src="https://pbs.twimg.com/media/HNYa_xmWgAAoWAE.jpg" width="600" alt="Animação de Logotipo 3D">
-
-**[🎬 Assistir vídeo →](https://x.com/chrisfirst/status/2077877168730706019)**
-
-**Autor:** [CHRIS FIRST](https://x.com/chrisfirst) | **Fonte:** [Link](https://x.com/chrisfirst/status/2077877168730706019) | **Publicado:** Jul 16, 2026
-
----
-### Preservação da Identidade em Galope de Cavalo Islandês
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico de alta produção para uma sequência de equitação na Islândia, com foco na preservação da identidade de uma imagem de referência durante movimentos de câmera complexos.
-
-#### 📝 Prompt
-
-```
-Use a imagem de referência masculina em anexo como a ÚNICA referência de identidade para o personagem principal.
-
-Mantenha a identidade facial perfeita mesmo durante galopes rápidos, tomadas de drone, ângulos laterais e composições cinematográficas amplas.
-
-Duração: 10 segundos.
-
-O quadro inicial mostra imediatamente o personagem já galopando em velocidade máxima por um enorme vale islandês em um poderoso cavalo preto. O cavalo atravessa um rio raso, sobe uma colina gramada sem diminuir a velocidade e, em seguida, corre ao longo da borda de um penhasco com vista para cachoeiras e montanhas infinitas.
-
-Produção fotorrealista em IMAX 65mm. Iluminação cinematográfica premium. Animação de cavalo hiper-realista. Detalhes ambientais de nível hollywoodiano.
-
-Câmera:
-Tracking montado no cavalo → tracking lateral → perseguição de drone FPV → revelação aérea épica.
-
-Trilha Sonora:
-Orquestra celta épica, trompas, coral, tambores taiko, cordas emocionantes.
-
-Som Ambiente:
-Cascos galopando, respingos de rio, movimento de sela de couro, vento, cachoeiras distantes, pássaros.
-
-Sem diálogo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077790013799206912/img/JiItvZPzotkWNxrm.jpg" width="600" alt="Preservação da Identidade em Galope de Cavalo Islandês">
-
-**[🎬 Assistir vídeo →](https://x.com/vireonixx/status/2077790049618547067)**
-
-**Autor:** [Virena](https://x.com/vireonixx) | **Fonte:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **Publicado:** Jul 16, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -2669,6 +2649,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-31T03:47:01.104Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-08-31T10:33:33.795Z</sub>
 
 </div>

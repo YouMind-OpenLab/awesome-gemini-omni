@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **216** |
+| 📝 Tổng số prompt | **224** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-08-31** |
 
@@ -56,6 +56,158 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Hyperlapse selfie tại các địa danh Trung Quốc
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một câu lệnh tạo video cho Gemini Omni giúp tạo ra video hyperlapse đậm chất điện ảnh về một nhân vật đang tham quan nhiều địa danh nổi tiếng tại Trung Quốc trong khi vẫn giữ được sự nhất quán về khuôn mặt.
+
+#### 📝 Prompt
+
+```
+Tạo một video hyperlapse selfie dài 10 giây sử dụng nhân vật đã tải lên, ghé thăm 20 địa danh của Trung Quốc với các đoạn cắt cảnh dứt khoát theo nhịp. Giữ nguyên khuôn mặt trong suốt video. Sử dụng góc quay selfie góc rộng, với trang phục mang phong cách địa phương khác nhau tại mỗi địa điểm. Video độ phân giải cao với khả năng chỉnh màu đậm chất điện ảnh.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094290992283140096/img/MaogORzgUA2lkwi6.jpg" width="600" alt="Hyperlapse selfie tại các địa danh Trung Quốc">
+
+**[🎬 Xem video →](https://x.com/johnAGI168/status/2094291245879160940)**
+
+**Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2094291245879160940) | **Đã xuất bản:** Aug 31, 2026
+
+---
+### Quảng cáo cà phê sô-cô-la đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý (prompt) quảng cáo nhịp độ nhanh, tràn đầy năng lượng cho thanh sô-cô-la cà phê, với các hiệu ứng bắn tung tóe đầy ấn tượng và màn giới thiệu sản phẩm sống động.
+
+#### 📝 Prompt
+
+```
+Hãy tạo một đoạn quảng cáo đậm chất điện ảnh với nhịp độ nhanh cho thanh sô-cô-la cà phê Bloodline, bao gồm các hiệu ứng sô-cô-la bắn tung tóe đầy ấn tượng, hạt cà phê rang bay lượn và các góc quay cận cảnh sống động. Giới thiệu bao bì màu đen-vàng sang trọng, sau đó là cảnh thanh sô-cô-la bẻ đôi để lộ lớp nhân caramel dẻo cùng phần sô-cô-la đậm đà bên trong. Trưng bày sản phẩm trên sân khấu phản chiếu dưới ánh sáng ấm áp, tiếp nối là hình ảnh một chàng trai trẻ đang thưởng thức sản phẩm trong khi các hạt cà phê bay bổng xung quanh. Kết thúc bằng cảnh thanh sô-cô-la bay xuyên qua vòng xoáy sô-cô-la và cà phê, chuyển tiếp sang logo thương hiệu cùng câu khẩu hiệu cuối cùng: “UNLEASH YOUR ENERGY.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094217152052310016/img/ualHsMCVJmD521b7.jpg" width="600" alt="Quảng cáo cà phê sô-cô-la đậm chất điện ảnh">
+
+**[🎬 Xem video →](https://x.com/AiwithBloodline/status/2094217190321123331)**
+
+**Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2094217190321123331) | **Đã xuất bản:** Aug 31, 2026
+
+---
+### Thế giới xây dựng bánh Pizza tí hon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý hoạt hình lấy cảm hứng từ Pixar đầy vui nhộn, mô tả những công nhân tí hon đang xây dựng một chiếc bánh pizza với máy xúc, cần cẩu và băng chuyền.
+
+#### 📝 Prompt
+
+```
+{  "video_duration": "10 giây",  "aspect_ratio": "16:9",  "sequence": [    {      "time": "0-2 giây",      "scene": "Bối cảnh hoành tráng",      "camera": "Góc quay rộng từ trên cao tiến dần vào",      "action": "Một chiếc bánh pizza khổng lồ mới nướng nằm trên bàn gỗ như một công trường xây dựng đồ sộ. Hàng chục công nhân tí hon ùa vào với máy xúc, cần cẩu, xe tải và thiết bị thu nhỏ, chuẩn bị xây dựng chiếc bánh pizza hoàn hảo.",      "sound_design": "Nhạc nền vui tươi, tiếng động cơ nhỏ, tiếng bánh xe lăn, âm thanh hoạt động xây dựng tinh tế."    },    {      "time": "2-4 giây",      "scene": "Lớp sốt và phô mai",      "camera": "Góc quay trung bình di chuyển ngang",      "action": "Một chiếc xe tải thực phẩm thu nhỏ bơm sốt cà chua đỏ tươi lên bánh pizza trong khi các công nhân tí hon dùng xẻng nhỏ phết đều. Một đội khác theo sau, phủ lên bề mặt một lớp phô mai mozzarella bào sợi dày.",      "sound_design": "Tiếng sốt chảy nhẹ, tiếng cạo xẻng, tiếng phô mai sột soạt, nhạc nhịp điệu vui vẻ."    },    {      "time": "4-6 giây",      "scene": "Nguyên liệu chuyển động",      "camera": "Góc quay cận cảnh macro với hiệu ứng quay chậm nhẹ nhàng",      "action": "Các băng chuyền tí hon vận chuyển những nguyên liệu đầy màu sắc bao gồm pepperoni, nấm, ớt chuông, ô liu và húng quế tươi. Các công nhân tí hon cẩn thận sắp xếp từng loại nguyên liệu lên bề mặt phô mai một cách chính xác.",      "sound_design": "Tiếng băng chuyền, tiếng nguyên liệu rơi tí tách, tiếng chuông ma thuật tinh tế, điểm nhấn âm nhạc sôi động."    },    {      "time": "6-8 giây",      "scene": "Nâng nguyên liệu cuối cùng",      "camera": "Góc quay thấp đầy kịch tính",      "action": "Một chiếc cần cẩu tí hon nâng một lát pepperoni quá khổ về phía trung tâm chiếc bánh pizza. Các công nhân bên dưới kéo dây dẫn và ra hiệu cho nhau khi nguyên liệu được đặt vào vị trí.",      "sound_design": "Tiếng động cơ cần cẩu nhỏ, tiếng dây căng, tiếng lách cách cơ khí, nhạc giao hưởng điện ảnh cao trào."    },    {      "time": "8-10 giây",      "scene": "Đại tiệc Pizza",      "camera": "Góc quay cận cảnh xoay 360 độ mượt mà",      "action": "Nguyên liệu cuối cùng rơi vào vị trí hoàn hảo. Một loạt pháo giấy đầy màu sắc bao phủ thế giới tí hon khi các công nhân reo hò ăn mừng. Camera quét quanh chiếc bánh pizza đã hoàn thiện, làm nổi bật lớp phô mai tan chảy bóng bẩy, các loại topping đầy màu sắc và lớp vỏ vàng ươm trước khi kết thúc bằng một cú máy ấn tượng.",      "sound_design": "Tiếng pháo nổ, tiếng reo hò vui vẻ, tiếng còi tí hon, âm nhạc giao hưởng kết thúc đầy hứng khởi."    }  ],  "visual_style": {    "animation_quality": "Hoạt hình 3D cao cấp lấy cảm hứng từ Pixar",    "world_design": "Thế giới xây dựng tí hon đầy quyến rũ được xây dựng xung quanh một chiếc bánh pizza khổng lồ",    "color_palette": "Các tông màu đỏ ấm, nâu vàng, màu kem của phô mai và các loại topping rực rỡ",    "lighting": "Ánh sáng vàng ấm áp dịu nhẹ với các điểm nhấn điện ảnh tinh tế",    "detail": "Kết cấu thực phẩm chi tiết cao, máy móc thu nhỏ, phô mai tan chảy chân thực, topping sắc nét và các nhân vật tí hon biểu cảm",    "camera": "Chuyển động điện ảnh mượt mà, cảm giác nhiếp ảnh macro, chuyển cảnh mượt mà, độ sâu trường ảnh nông",    "overall_feel": "Dễ thương, vui nhộn, mãn nhãn, chỉn chu, cao cấp và đầy chất thơ",    "resolution": "720p"  }}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094160586024325120/img/J_HWGth3nosxOM4L.jpg" width="600" alt="Thế giới xây dựng bánh Pizza tí hon">
+
+**[🎬 Xem video →](https://x.com/SaasJunctionHQ/status/2094160643138154730)**
+
+**Tác giả:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Nguồn:** [Link](https://x.com/SaasJunctionHQ/status/2094160643138154730) | **Đã xuất bản:** Aug 30, 2026
+
+---
+### Image-to-Video Gym Flex
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) sử dụng ảnh tham chiếu để tạo hiệu ứng chuyển động cho nhân vật đang quay đầu và gồng tay, đồng thời duy trì tính nhất quán của nhân vật.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh tham chiếu, hãy để cô ấy từ từ quay đầu về phía máy quay. Mái tóc đen rối của cô ấy chuyển động; cô ấy chớp mắt, sau đó gồng một cánh tay trong khi vẫn giữ nguyên tư thế. Giữ nguyên khuôn mặt và trang phục tập gym của cô ấy. Máy quay chuyển động chậm kiểu điện ảnh tiến dần vào.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788170323705_xefihp_HQ-avR2XsAAURe8.jpg" width="600" alt="Image-to-Video Gym Flex">
+
+**[🎬 Xem video →](https://x.com/amynys/status/2094107886008107062)**
+
+**Tác giả:** [Amy G](https://x.com/amynys) | **Nguồn:** [Link](https://x.com/amynys/status/2094107886008107062) | **Đã xuất bản:** Aug 30, 2026
+
+---
+### Chuỗi cảnh lắp ráp nội thất đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) điện ảnh chi tiết mô phỏng quá trình lắp ráp nội thất căn hộ hiện đại, với đồ nội thất và thiết bị âm thanh xuất hiện dần dưới ánh nắng.
+
+#### 📝 Prompt
+
+```
+Một cảnh quay điện ảnh liên tục dài 10 giây, góc rộng cố định, không cắt cảnh, không di chuyển máy quay. Căn hộ hiện đại trống trải, siêu thực với những bức tường trắng sạch sẽ, cửa sổ lớn sát trần, sàn gỗ bóng loáng và trần nhà cao. Ánh nắng chiều vàng ấm áp xuyên qua cửa sổ, tạo ra những bóng đổ mềm mại chuyển động. Không có văn bản nào hiển thị ngoại trừ thương hiệu Bose trên các thiết bị âm thanh. Từ 0-1,5 giây: một chiếc hộp màu đen nhám kiểu dáng đẹp nằm ở trung tâm căn phòng trống, rung nhẹ rồi mở ra mượt mà. Từ 1,5-3,5 giây: một chiếc Bose SoundBar tự gắn lên tường bên trái và bắt đầu phát nhạc nền nhẹ nhàng; một cặp loa không dây Bose tương ứng bay đến các góc đối diện và đồng bộ hóa. Từ 3,5-5,5 giây: một chiếc ghế sofa tông màu trung tính sang trọng mở ra ở trung tâm trong khi một tấm thảm dệt tay tông màu đất trải ra bên dưới. Từ 5,5-7,5 giây: các kệ sách bằng gỗ tối giản nổi lên dọc theo bức tường bên phải và lấp đầy bởi những cuốn sách và đồ vật được chọn lọc; các bình gốm và cây cảnh tươi tốt xuất hiện ở các góc; đèn treo hiện đại hạ xuống từ trần nhà và tỏa sáng ấm áp. Từ 7,5-9 giây: một chiếc bàn cà phê mặt đá cẩm thạch kiểu dáng đẹp xuất hiện trước ghế sofa, các tác phẩm nghệ thuật treo tường màu sắc nhẹ nhàng trừu tượng hiện lên trên bức tường phía sau, và một bộ điều nhiệt thông minh nhỏ xuất hiện. 1 giây cuối cùng giữ nguyên khung hình căn hộ ấm cúng, được trang trí thanh lịch, ngập tràn trong ánh nắng ấm áp, hệ thống Bose phát một giai điệu êm dịu. Vật lý chân thực, lắp ráp chính xác, sự ấm áp hiện đại đầy tinh tế.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094046860726169602/img/fR9t1C1DTQ9ymg5M.jpg" width="600" alt="Chuỗi cảnh lắp ráp nội thất đậm chất điện ảnh">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2094046957270684064)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2094046957270684064) | **Đã xuất bản:** Aug 30, 2026
+
+---
+### Dải Ngân hà Tri thức LLM
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hình ảnh trực quan hóa mang tính khái niệm về các mô hình ngôn ngữ lớn, nơi logic nội bộ và luồng dữ liệu được thể hiện như một dải ngân hà với sao chổi băng qua các vì sao.
+
+#### 📝 Prompt
+
+```
+Tạo một video dài 10 giây về luồng LLM được thể hiện dưới dạng một dải ngân hà. Trong đó, dải ngân hà là không gian đa chiều, các ngôi sao đại diện cho trọng số/tri thức/vector nhúng của bạn và một đường đi duy nhất được thể hiện bằng một sao chổi băng qua một số ngôi sao này. Hãy làm cho sao chổi nhỏ và giống như một luồng sáng di chuyển qua các ngôi sao theo những hướng ngẫu nhiên. Sao chổi nên bắt đầu từ phía bên trái của nhóm sao và kết thúc ở phần bên phải theo góc nhìn của người xem video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093993625344499712/img/dN2u8XS4s8amSPTW.jpg" width="600" alt="Dải Ngân hà Tri thức LLM">
+
+**[🎬 Xem video →](https://x.com/TunducR/status/2093993994439033148)**
+
+**Tác giả:** [Tunduc Raul](https://x.com/TunducR) | **Nguồn:** [Link](https://x.com/TunducR/status/2093993994439033148) | **Đã xuất bản:** Aug 30, 2026
+
+---
+### Hoạt ảnh thêu logo Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) quay cận cảnh đậm chất điện ảnh dành cho Gemini Omni 1.1, giúp tạo ra hoạt ảnh các sợi chỉ màu tự đan dệt thành logo trên bề mặt vải cotton.
+
+#### 📝 Prompt
+
+```
+Cận cảnh cực đại bề mặt vải áo cotton, ban đầu để trống. Các sợi chỉ thêu màu sắc nổi lên từ bề mặt và tự đan dệt vào vị trí, tạo nên những đường khâu satin chặt chẽ từng hàng một, dần dần phác họa nên logo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093992072185581568/img/RCUiHx5O1oeKNf6s.jpg" width="600" alt="Hoạt ảnh thêu logo Gemini Omni">
+
+**[🎬 Xem video →](https://x.com/SJinn_Agent/status/2093993109361426766)**
+
+**Tác giả:** [SJinn Agent](https://x.com/SJinn_Agent) | **Nguồn:** [Link](https://x.com/SJinn_Agent/status/2093993109361426766) | **Đã xuất bản:** Aug 30, 2026
+
+---
+### Chỉnh sửa video phong cách Kawaii Sticker Bomb cho mạng xã hội
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video để tạo các đoạn clip theo phong cách mạng xã hội viral, với hình ảnh một người phụ nữ tạo dáng tay chữ V, được tăng cường bằng các nhãn dán hoạt hình và lớp phủ văn bản phong cách kawaii.
+
+#### 📝 Prompt
+
+```
+Video chỉnh sửa theo phong cách mạng xã hội cực kỳ dễ thương và bắt trend. Người phụ nữ tạo dáng tay chữ V và mỉm cười khi máy quay zoom nhẹ. Video được lồng ghép hiệu ứng 'sticker bomb' với các ngôi sao lấp lánh chuyển động, trái tim nhảy múa và lớp phủ văn bản 'KAWAII' nhấp nháy theo nhịp điệu.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788170325072_1r4e7y_HQ9OAh7aAAAJ-Cl.jpg" width="600" alt="Chỉnh sửa video phong cách Kawaii Sticker Bomb cho mạng xã hội">
+
+**[🎬 Xem video →](https://x.com/CrazyKaomei/status/2093992934358286350)**
+
+**Tác giả:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Nguồn:** [Link](https://x.com/CrazyKaomei/status/2093992934358286350) | **Đã xuất bản:** Aug 30, 2026
+
+---
 ### Điện ảnh Drift Sa mạc Ấn tượng
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2391,178 +2543,6 @@ Giữ mọi thứ khác không đổi. Cảnh quay liên tục, không cắt c�
 **Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Đã xuất bản:** Jul 21, 2026
 
 ---
-### Tranh màu nước điện ảnh về góa phụ vùng Rajasthan
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu chuyện bằng video sử dụng phong cách tranh màu nước điện ảnh để kể về cuộc đời của một góa phụ và các con gái trong sân nhà đất.
-
-#### 📝 Prompt
-
-```
-Gánh nặng của kiếp góa phụ. Cảnh quay trung (medium shot) đậm chất điện ảnh, tiếp nối chuyển động lia máy từ trên xuống của cảnh trước. Máy quay dừng lại ở một góa phụ trẻ người Rajasthan, người đã trút bỏ trang sức cưới, đang ngồi trong khoảng sân đầy bụi bặm của ngôi nhà đất. Gương mặt cô lộ rõ vẻ buồn bã, cô đơn và đầy suy tư. Xung quanh cô là 3 cô con gái, tất cả đều đang ở độ tuổi thiếu niên từ 14 đến 15, đang nhìn mẹ tìm kiếm sự dẫn dắt với một chút hy vọng mong manh. Sự chật vật để sinh tồn hiện rõ qua dáng vẻ của họ. Phong cách nghệ thuật: Phong cách tranh màu nước điện ảnh. Những nét cọ mềm mại, biểu cảm, các mảng màu loang tự nhiên và tông màu đất. Tranh màu nước hoạt họa chất lượng cao. Không sử dụng phong cách chân thực (photorealistic), người đóng (live-action) hoặc kết xuất 3D. Âm thanh: Nhạc không lời hoặc âm thanh môi trường xung quanh, không có giọng hát hay lời dẫn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="Tranh màu nước điện ảnh về góa phụ vùng Rajasthan">
-
-**[🎬 Xem video →](https://x.com/GargeyaS/status/2079207922006114649)**
-
-**Tác giả:** [Gargeya](https://x.com/GargeyaS) | **Nguồn:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **Đã xuất bản:** Jul 20, 2026
-
----
-### Điểm nhấn kỳ nghỉ phong cách iPhone 16
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video để tạo thước phim kỳ nghỉ cầm tay chân thực, thể hiện các đặc điểm về chuyển động camera và ánh sáng đặc trưng của iPhone 16.
-
-#### 📝 Prompt
-
-```
-Video điểm nhấn kỳ nghỉ, nhân vật nữ, lời dẫn chuyện. 
-CAMERA: iPhone 16. Công nghệ chống rung cảm biến OIS và chống rung điện tử gyro tích hợp giúp làm mượt các rung lắc mạnh nhưng vẫn giữ lại những chuyển động nhỏ tự nhiên khi cầm tay và các thao tác điều chỉnh khung hình thỉnh thoảng xuất hiện như cách một người thực sự tự quay phim. Tính năng lấy nét tự động sẽ tìm và lấy nét lại trong giây lát khi có bàn tay hoặc sản phẩm xuất hiện trong khung hình ở cự ly gần, hoặc khi chuyển tiêu điểm từ khuôn mặt sang vật thể. Độ phơi sáng được điều chỉnh trực tiếp với hiệu ứng thay đổi tự nhiên khi nhân vật hoặc sản phẩm di chuyển so với nguồn sáng từ cửa sổ.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="Điểm nhấn kỳ nghỉ phong cách iPhone 16">
-
-**[🎬 Xem video →](https://x.com/VisuraCode/status/2079047884759011439)**
-
-**Tác giả:** [Visura](https://x.com/VisuraCode) | **Nguồn:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **Đã xuất bản:** Jul 20, 2026
-
----
-### Video Timelapse Điện ảnh về Món Mì Gà (Mie Ayam)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video điện ảnh được thiết kế cho Gemini để tạo video timelapse ẩm thực cao cấp về món Mì Gà Indonesia (Mie Ayam), với ánh sáng chuyên nghiệp và các chi tiết macro sắc nét.
-
-#### 📝 Prompt
-
-```
-Hãy tạo một video timelapse điện ảnh về quá trình chế biến một tô Mie Ayam (Mì Gà Indonesia) sang trọng với chủ đề 'Nghệ thuật Ẩm thực'. Kết hợp ánh sáng vàng ấm áp, kỹ thuật chụp ảnh thực phẩm macro và hiệu ứng bokeh tinh tế. Tập trung vào những sợi mì vàng óng đang được trộn đều, những miếng gà kho caramen bóng bẩy và nước dùng đậm đà đang được rót vào theo hiệu ứng chuyển động chậm (slow-motion). Thêm cảnh rưới dầu ớt thơm lừng, hành lá tươi xanh rơi xuống và chiếc bát gốm đen bóng bẩy. Kết hợp các hạt hơi nước bay bổng và các cảnh quay macro động với hiệu ứng zoom nhẹ. Tạo ra một bầu không khí ấm áp, sang trọng và đầy kích thích vị giác, kết hợp giữa nghệ thuật ẩm thực và tính thẩm mỹ cao cấp.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="Video Timelapse Điện ảnh về Món Mì Gà (Mie Ayam)">
-
-**[🎬 Xem video →](https://x.com/aikonect_/status/2078803644867383767)**
-
-**Tác giả:** [aiko](https://x.com/aikonect_) | **Nguồn:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **Đã xuất bản:** Jul 19, 2026
-
----
-### Cầu thủ bóng đá nhảy ra khỏi màn hình
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video sáng tạo, trong đó một cầu thủ bóng đá sút quả bóng ra khỏi màn hình, sau đó nhảy ra ngoài để tâng bóng trên lòng bàn tay của một người.
-
-#### 📝 Prompt
-
-```
-Cầu thủ bóng đá sút quả bóng ra khỏi màn hình... Tôi bắt lấy nó trong lòng bàn tay... Sau đó, cầu thủ nhảy ra khỏi màn hình và bắt đầu tâng bóng trên lòng bàn tay của tôi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="Cầu thủ bóng đá nhảy ra khỏi màn hình">
-
-**[🎬 Xem video →](https://x.com/nicegen_ai/status/2078656532955439254)**
-
-**Tác giả:** [NiceGen.ai](https://x.com/nicegen_ai) | **Nguồn:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **Đã xuất bản:** Jul 19, 2026
-
----
-### Video tạo nhân vật theo phong cách The Sims
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh sáng tạo để tạo ra video mô phỏng màn hình tạo nhân vật trong The Sims, với các chuyển động nhảy nhẹ nhàng, biểu tượng Plumbob xoay và giao diện người dùng tĩnh.
-
-#### 📝 Prompt
-
-```
-Dựa trên ảnh của tôi, hãy tạo một bức ảnh theo phong cách trò chơi The Sims, trong khung tạo nhân vật. [Nam] Sim mặc [quần jeans đen, áo phông đen và mũ lưỡi trai đen]. Bên phải nhân vật là các ô vuông màu trắng. Trong các ô này, từ trên xuống dưới: [MacBook, iPhone, AirPods Max]. Phía trên đầu Sim là một biểu tượng Plumbob màu xanh lá cây, và phía trên đó là dòng chữ [ALEX PROMPTS], được thiết kế theo phong cách trò chơi The Sims. Thêm các mũi tên ở bên phải và bên trái của Sim, giống như trong trình chỉnh sửa nhân vật của The Sims. Tỷ lệ 9:16. Một màn hình tạo nhân vật cách điệu từ trò chơi điện tử The Sims. Một [người đàn ông] mặc [áo phông đen, quần dài đen, mũ lưỡi trai đen] đứng ở trung tâm. Anh ấy đang nhảy nhẹ tại chỗ, lắc hông và tay một cách uyển chuyển. Phía trên đầu anh ấy, một biểu tượng Plumbob màu xanh lá cây lơ lửng và xoay chậm. Giao diện người dùng với các lựa chọn trang phục, mũi tên và nhãn [ALEX PROMPTS] hoàn toàn tĩnh. Nền không di chuyển.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="Video tạo nhân vật theo phong cách The Sims">
-
-**[🎬 Xem video →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
-
-**Tác giả:** [Alex Prompts](https://x.com/AlexPromptsAI) | **Nguồn:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **Đã xuất bản:** Jul 17, 2026
-
----
-### Timelapse cải tạo phòng khách
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh đầy đủ chi tiết để tạo video timelapse 10 giây về quá trình cải tạo nội thất phòng khách, với hiệu ứng thay đổi ánh sáng và chuyển động chân thực.
-
-#### 📝 Prompt
-
-```
-Timelapse điện ảnh siêu thực, sự chuyển đổi ánh sáng tự nhiên từ ánh bình minh dịu nhẹ sang nắng trưa rực rỡ rồi đến ánh hoàng hôn ấm áp, camera tĩnh thích ứng đặt cố định tại một góc cao của phòng khách, bao quát toàn bộ không gian với các điều chỉnh tiêu cự tinh tế tạo chiều sâu và hiệu ứng thị sai khi căn phòng biến đổi. Chuyển động chân thực của thợ thi công, dụng cụ, người di chuyển đồ đạc và vật liệu. Quá trình cải tạo nội thất phòng khách. [00:00–00:01] Cảnh tĩnh góc rộng về một phòng khách cũ kỹ từ những năm 2000 trong ánh bình minh: thảm màu be sờn cũ, kệ giải trí bằng gỗ tối màu cồng kềnh, giấy dán tường hoa văn phai màu, ghế sofa cũ, bừa bộn với đồ trang trí lỗi thời và ánh sáng mờ nhạt. Thợ thi công đến cùng dụng cụ và thùng hàng. SFX: tiếng chim hót buổi sáng, tiếng cửa kẽo kẹt, âm thanh môi trường nhẹ nhàng. [00:01–00:03] Phá dỡ và chuẩn bị nhanh: thợ thi công tháo dỡ thảm cũ, giấy dán tường, đồ nội thất và các thiết bị với tốc độ nhanh. Tường được làm phẳng và sơn lại, hệ thống điện được cập nhật, sàn phụ mới được chuẩn bị. Mặt trời mọc, bóng đổ thay đổi. SFX: tiếng xé thảm, cạo giấy dán tường, tiếng búa, tiếng dọn dẹp mảnh vụn. [00:03–00:06] Lắp đặt chính: kệ treo tường và tủ kệ tivi bằng gỗ sồi sáng màu hoặc màu xám hiện đại được lắp đặt, ghế sofa lớn tông màu trung tính được đặt vào vị trí, tivi kiểu dáng đẹp được gắn lên tường, sàn gỗ xương cá hoặc sàn nhựa giả gỗ cao cấp được lát, thảm trải sàn được trải ra. Ánh sáng tự nhiên ban trưa tràn ngập căn phòng. SFX: tiếng khoan, tiếng sắp xếp đồ đạc, tiếng máy hút bụi, tiếng dụng cụ. [00:06–00:08] Hoàn thiện chi tiết: thêm đèn hiện đại (đèn sàn, đèn âm trần, dải đèn LED), gối tựa, cây cảnh, tranh nghệ thuật và rèm cửa. Bàn cà phê với đồ trang trí xuất hiện. Ánh sáng vàng cuối chiều tạo nên những phản chiếu ấm áp. SFX: tiếng đặt đồ nhẹ nhàng, tiếng vải sột soạt, tiếng công tắc đèn. [00:08–00:10] Cảnh cuối cùng hé lộ phòng khách tối giản hiện đại đã hoàn thiện trong ánh hoàng hôn ấm áp: tươi sáng, ấm cúng, đầy mời gọi với những đường nét sạch sẽ, kết cấu phân lớp, kệ mở ngăn nắp, ánh sáng dịu nhẹ, cây xanh tươi tốt. Bầu không khí bình yên đầy cảm hứng. Chuyển động camera: Camera timelapse tĩnh thích ứng — cố định ở góc cao với khả năng tái khung hình thông minh và hiệu ứng thị sai để duy trì tầm nhìn bao quát và chiều sâu điện ảnh. Góc nhìn thay đổi tự nhiên, chuyển đổi vật liệu mượt mà. Tâm trạng và thẩm mỹ: Timelapse cải tạo siêu thực, sự thay đổi nhanh chóng đầy thỏa mãn từ không gian cũ kỹ, bừa bộn thành một nơi trú ẩn hiện đại, tươi sáng. Nhấn mạnh vào kết cấu (vân gỗ, sợi vải, lớp sơn), ánh sáng tự nhiên động, tiến trình sạch sẽ và thành quả đạt được. Bề mặt chi tiết cao, vật lý chân thực, chuyển động hữu cơ. Chỉnh màu điện ảnh, tổng thời lượng 10 giây.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="Timelapse cải tạo phòng khách">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2078102401446490554)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **Đã xuất bản:** Jul 17, 2026
-
----
-### Hoạt ảnh Logo 3D
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo hoạt ảnh cho Gemini Omni để tạo hiệu ứng 3D pop-in cho logo trên nền màn hình xanh.
-
-#### 📝 Prompt
-
-```
-Tạo hiệu ứng logo (tham chiếu) xuất hiện ấn tượng trên nền màn hình xanh. Đặt ở chính giữa khung hình. Logo xuất hiện bất ngờ, các thành phần ghép lại với nhau rồi lơ lửng tại chỗ. Hiệu ứng 3D cực chất.
-```
-
-<img src="https://pbs.twimg.com/media/HNYa_xmWgAAoWAE.jpg" width="600" alt="Hoạt ảnh Logo 3D">
-
-**[🎬 Xem video →](https://x.com/chrisfirst/status/2077877168730706019)**
-
-**Tác giả:** [CHRIS FIRST](https://x.com/chrisfirst) | **Nguồn:** [Link](https://x.com/chrisfirst/status/2077877168730706019) | **Đã xuất bản:** Jul 16, 2026
-
----
-### Bảo tồn danh tính trong cảnh phi nước đại của ngựa Iceland
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chất lượng cao cho phân cảnh cưỡi ngựa tại Iceland, tập trung vào việc bảo tồn danh tính của hình ảnh tham chiếu xuyên suốt các chuyển động máy quay phức tạp.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh tham chiếu nam giới được đính kèm làm tham chiếu danh tính DUY NHẤT cho nhân vật chính.
-
-Duy trì danh tính khuôn mặt hoàn hảo ngay cả trong các cảnh phi nước đại tốc độ cao, cảnh quay bằng drone, góc quay nghiêng và các bố cục điện ảnh góc rộng.
-
-Thời lượng: 10 giây.
-
-Khung hình mở đầu ngay lập tức cho thấy nhân vật đang phi nước đại với tốc độ tối đa băng qua một thung lũng rộng lớn tại Iceland trên một chú ngựa đen dũng mãnh. Chú ngựa tung vó qua một con sông nông, leo lên sườn đồi đầy cỏ mà không hề giảm tốc độ, sau đó chạy dọc theo mép vách đá nhìn xuống những thác nước và những dãy núi bất tận.
-
-Sản xuất theo phong cách điện ảnh IMAX 65mm chân thực. Ánh sáng điện ảnh cao cấp. Hoạt ảnh ngựa siêu thực. Chi tiết môi trường đạt chuẩn Hollywood.
-
-Máy quay:
-Tracking gắn trên ngựa → tracking ngang → FPV drone đuổi theo → cảnh quay từ trên không đầy ấn tượng.
-
-Nhạc nền:
-Dàn nhạc Celtic hùng tráng, kèn Pháp, hợp xướng, trống taiko, tiếng đàn dây đầy cảm xúc.
-
-Âm thanh môi trường:
-Tiếng vó ngựa phi, tiếng nước sông bắn tung tóe, tiếng chuyển động của yên da, tiếng gió, tiếng thác nước từ xa, tiếng chim hót.
-
-Không có lời thoại.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077790013799206912/img/JiItvZPzotkWNxrm.jpg" width="600" alt="Bảo tồn danh tính trong cảnh phi nước đại của ngựa Iceland">
-
-**[🎬 Xem video →](https://x.com/vireonixx/status/2077790049618547067)**
-
-**Tác giả:** [Virena](https://x.com/vireonixx) | **Nguồn:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **Đã xuất bản:** Jul 16, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -2615,6 +2595,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-31T03:46:50.590Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-31T10:33:23.101Z</sub>
 
 </div>

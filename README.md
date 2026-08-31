@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **216** |
+| 📝 Total Prompts | **224** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-08-31** |
 
@@ -56,6 +56,158 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Chinese Landmark Selfie Hyperlapse
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A video generation prompt for Gemini Omni that creates a cinematic hyperlapse of a character visiting multiple Chinese landmarks while maintaining facial consistency.
+
+#### 📝 Prompt
+
+```
+Create a 10-second selfie hyperlapse using the uploaded character, visiting 20 Chinese landmarks with a hard cut on each beat. Maintain exactly the same face throughout. Wide-angle selfie stick perspective, with a different local-style outfit for each location. High-definition with rich cinematic color grading.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094290992283140096/img/MaogORzgUA2lkwi6.jpg" width="600" alt="Chinese Landmark Selfie Hyperlapse">
+
+**[🎬 Watch Video →](https://x.com/johnAGI168/status/2094291245879160940)**
+
+**Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2094291245879160940) | **Published:** Aug 31, 2026
+
+---
+### Cinematic Coffee Chocolate Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A fast-paced, high-energy commercial prompt for a coffee chocolate bar featuring dramatic splashes and dynamic product reveals.
+
+#### 📝 Prompt
+
+```
+Create a fast-paced, cinematic commercial for Bloodline Coffee Chocolate Bar featuring dramatic chocolate splashes, flying roasted coffee beans, and dynamic close-ups. Reveal the sleek black-and-gold package, then show the bar breaking apart to expose gooey caramel and a rich chocolate interior. Showcase the product on a reflective stage under warm lighting, followed by a young man enjoying a bite as coffee beans float around him. End with the chocolate bar flying through a swirling chocolate-and-coffee vortex, transitioning to the brand logo and final tagline: “UNLEASH YOUR ENERGY.”
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094217152052310016/img/ualHsMCVJmD521b7.jpg" width="600" alt="Cinematic Coffee Chocolate Commercial">
+
+**[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2094217190321123331)**
+
+**Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2094217190321123331) | **Published:** Aug 31, 2026
+
+---
+### Miniature Pizza Construction World
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A playful Pixar-inspired animation prompt depicting tiny workers building a pizza with loaders, cranes, and conveyor belts.
+
+#### 📝 Prompt
+
+```
+{  "video_duration": "10 seconds",  "aspect_ratio": "16:9",  "sequence": [    {      "time": "0-2 sec",      "scene": "Grand Setup",      "camera": "Wide cinematic aerial push-in",      "action": "A huge freshly baked pizza rests on a wooden table like a massive construction site. Dozens of tiny workers rush in with miniature loaders, cranes, delivery trucks, and equipment, preparing to build the perfect pizza.",      "sound_design": "Bright playful music, tiny engine noises, rolling wheels, subtle construction activity."    },    {      "time": "2-4 sec",      "scene": "Sauce and Cheese Layer",      "camera": "Medium side-tracking shot",      "action": "A miniature food truck pumps rich red tomato sauce across the pizza while tiny workers spread it smoothly with small spatulas. Another team follows behind, covering the surface with a thick layer of shredded mozzarella.",      "sound_design": "Soft sauce pouring, spatula scraping, cheese rustling, cheerful rhythmic music."    },    {      "time": "4-6 sec",      "scene": "Toppings in Motion",      "camera": "Macro close-up with gentle slow motion",      "action": "Tiny conveyor belts transport colorful ingredients including pepperoni, mushrooms, bell peppers, olives, and fresh basil. The miniature workers carefully arrange each topping across the cheesy surface with precision.",      "sound_design": "Conveyor belt movement, tiny ingredient drops, delicate magical chimes, upbeat musical accents."    },    {      "time": "6-8 sec",      "scene": "Final Ingredient Lift",      "camera": "Low-angle dramatic cinematic shot",      "action": "A miniature crane raises an oversized pepperoni slice toward the center of the pizza. Workers below pull guide ropes and signal to one another as the topping is slowly positioned into place.",      "sound_design": "Small crane motor, rope tension sounds, mechanical clicks, rising cinematic orchestral music."    },    {      "time": "8-10 sec",      "scene": "Pizza Grand Finale",      "camera": "Smooth 360-degree orbit close-up",      "action": "The final topping drops perfectly into position. A burst of colorful confetti fills the miniature world as the tiny workers cheer and celebrate. The camera sweeps around the finished pizza, revealing its glossy melted cheese, colorful toppings, and golden crust before ending on a satisfying hero shot.",      "sound_design": "Celebratory pop, joyful cheering, tiny whistles, uplifting orchestral finish."    }  ],  "visual_style": {    "animation_quality": "Pixar-inspired premium 3D animation",    "world_design": "Charming miniature construction world built around an oversized pizza",    "color_palette": "Warm reds, golden browns, creamy cheese tones, and bright colorful toppings",    "lighting": "Soft warm golden illumination with gentle cinematic highlights",    "detail": "Highly detailed food textures, miniature machinery, realistic cheese melt, crisp toppings, and expressive tiny characters",    "camera": "Fluid cinematic motion, macro photography feel, smooth transitions, shallow depth of field",    "overall_feel": "Cute, playful, visually satisfying, polished, premium, and whimsical",    "resolution": "720p"  }}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094160586024325120/img/J_HWGth3nosxOM4L.jpg" width="600" alt="Miniature Pizza Construction World">
+
+**[🎬 Watch Video →](https://x.com/SaasJunctionHQ/status/2094160643138154730)**
+
+**Author:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Source:** [Link](https://x.com/SaasJunctionHQ/status/2094160643138154730) | **Published:** Aug 30, 2026
+
+---
+### Image-to-Video Gym Flex
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt that uses a reference photo to animate a person turning their head and flexing their arm while maintaining character consistency.
+
+#### 📝 Prompt
+
+```
+Using the referenced image, have her slowly turn her head toward the camera. Her messy black hair shifts; she blinks, then flexes one arm while keeping her pose. Keep her exact face and gym outfit. Slow cinematic camera push-in.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788170323705_xefihp_HQ-avR2XsAAURe8.jpg" width="600" alt="Image-to-Video Gym Flex">
+
+**[🎬 Watch Video →](https://x.com/amynys/status/2094107886008107062)**
+
+**Author:** [Amy G](https://x.com/amynys) | **Source:** [Link](https://x.com/amynys/status/2094107886008107062) | **Published:** Aug 30, 2026
+
+---
+### Cinematic Interior Assembly Sequence
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic prompt that animates the assembly of a modern apartment interior with furniture and audio gear materializing in sunlight.
+
+#### 📝 Prompt
+
+```
+One continuous unbroken 10-second cinematic shot, fixed wide-angle locked-off camera, no cuts, no camera movement. Hyper-realistic modern empty apartment with clean white walls, large floor-to-ceiling windows, polished hardwood floors and high ceiling. Warm golden afternoon sunlight streams through the windows, casting soft moving shadows. No visible text except authentic Bose branding on audio gear. At 0-1.5s a sleek matte-black box sits in the center of the empty room, trembles gently, then opens smoothly. From 1.5-3.5s a Bose SoundBar mounts itself on the left wall and begins playing soft ambient music; a pair of matching Bose wireless speakers float to opposite corners and sync. From 3.5-5.5s a plush neutral-toned sofa unfolds in the center while a handwoven earthy-toned area rug rolls out beneath it. From 5.5-7.5s minimalist wooden bookshelves rise along the right wall and populate with curated books and objects; ceramic vases and lush indoor plants appear in the corners; modern pendant lights descend from the ceiling and glow warmly. From 7.5-9s a sleek marble-top coffee table materializes in front of the sofa, abstract soft-color wall art fades onto the back wall, and a small smart thermostat appears. Final 1s holds on the completed cozy, elegantly decorated apartment bathed in warm sunlight, Bose system playing a soothing melody. Photoreal physics, precise assembly, elegant modern warmth.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094046860726169602/img/fR9t1C1DTQ9ymg5M.jpg" width="600" alt="Cinematic Interior Assembly Sequence">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2094046957270684064)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2094046957270684064) | **Published:** Aug 30, 2026
+
+---
+### LLM Knowledge Stream Galaxy
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A conceptual visualization of large language models where the internal logic and data flow are represented as a celestial galaxy with a comet traversing the stars.
+
+#### 📝 Prompt
+
+```
+Generate a 10 seconds video about the LLMs stream represented as a galaxy. Where the galaxy is the multi-dimensional space, the stars represent your weights/knowledge/embedded vectors and a single pass that is represented by a comet that traverses some of these stars. Make the comet small and like a light that traverses the stars in random directions. The comet should start from the left of the group of stars and end on the right part from the user's point of view of the video.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093993625344499712/img/dN2u8XS4s8amSPTW.jpg" width="600" alt="LLM Knowledge Stream Galaxy">
+
+**[🎬 Watch Video →](https://x.com/TunducR/status/2093993994439033148)**
+
+**Author:** [Tunduc Raul](https://x.com/TunducR) | **Source:** [Link](https://x.com/TunducR/status/2093993994439033148) | **Published:** Aug 30, 2026
+
+---
+### Gemini Omni Logo Embroidery Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed cinematic macro prompt for Gemini Omni 1.1 that creates an animation of colored threads weaving themselves into a logo on cotton fabric.
+
+#### 📝 Prompt
+
+```
+Extreme macro shot of woven cotton shirt fabric, empty at first. Colored embroidery threads rise from the surface and weave themselves into place, laying down tight satin stitches row by row, tracing out the logo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093992072185581568/img/RCUiHx5O1oeKNf6s.jpg" width="600" alt="Gemini Omni Logo Embroidery Animation">
+
+**[🎬 Watch Video →](https://x.com/SJinn_Agent/status/2093993109361426766)**
+
+**Author:** [SJinn Agent](https://x.com/SJinn_Agent) | **Source:** [Link](https://x.com/SJinn_Agent/status/2093993109361426766) | **Published:** Aug 30, 2026
+
+---
+### Kawaii Sticker Bomb Social Media Edit
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A video generation prompt for creating a viral social media style clip featuring a woman making a peace sign, enhanced with animated stickers and kawaii text overlays.
+
+#### 📝 Prompt
+
+```
+Ultra-cute and viral social media edit. The woman making the peace sign smiles as the camera gently zooms. The video is layered with a 'sticker bomb' effect—animated sparkly stars, bouncing hearts, and 'KAWAII' text overlays that pulse to the beat.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788170325072_1r4e7y_HQ9OAh7aAAAJ-Cl.jpg" width="600" alt="Kawaii Sticker Bomb Social Media Edit">
+
+**[🎬 Watch Video →](https://x.com/CrazyKaomei/status/2093992934358286350)**
+
+**Author:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Source:** [Link](https://x.com/CrazyKaomei/status/2093992934358286350) | **Published:** Aug 30, 2026
+
+---
 ### Aggressive Desert Drift Cinema
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -75,11 +227,11 @@ aggressive drifting, golden dunes, sandstorms, and premium automotive cinema, PO
 **Author:** [Sheetal Shinde](https://x.com/itsSSS1510) | **Source:** [Link](https://x.com/itsSSS1510/status/2093957642444292264) | **Published:** Aug 30, 2026
 
 ---
-### Futuristic Zombie Motorcycle Chase
+### Futuristic Motorcycle Zombie Chase
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> An action-packed 3D animated cinematic sequence featuring a protagonist on a neon-accented motorcycle escaping a zombie horde.
+> A high-octane 3D animation prompt featuring a cyberpunk female protagonist on a neon motorcycle fleeing a zombie horde.
 
 #### 📝 Prompt
 
@@ -87,26 +239,26 @@ aggressive drifting, golden dunes, sandstorms, and premium automotive cinema, PO
 High-octane 3D animated cinematic action scene. A young female protagonist with short silver-white hair and aviator goggles on her forehead, wearing a sleek black leather suit with glowing blue neon accents and a long dark coat flowing behind her. She rides a high-speed futuristic sci-fi motorcycle featuring glowing magenta-pink neon wheels and cyan chassis accents. She speeds down a wet, overcast highway littered with abandoned cars, pursued by a massive horde of aggressive zombies. Dynamic camera angles capture her drifting around corners emitting bright sparks, shooting a handgun at leaping zombies with slow-motion bullet-time effects, and performing a massive mid-air stunt jump over the crowd. Moody cinematic lighting, dark color grading with vibrant pink and cyan neon contrast, overcast daylight, photorealistic textures, action movie aesthetic, 8k resolution, hyper-detailed.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093925475324510208/img/v_VZ8mF6rGkOv_5Y.jpg" width="600" alt="Futuristic Zombie Motorcycle Chase">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093925475324510208/img/v_VZ8mF6rGkOv_5Y.jpg" width="600" alt="Futuristic Motorcycle Zombie Chase">
 
 **[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2093925571311051143)**
 
 **Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2093925571311051143) | **Published:** Aug 30, 2026
 
 ---
-### Chisato Nishikigi Anime Animation
+### Chisato Nishikigi Anime Quote Animation
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
 
-> An animation prompt for Gemini Omni 1.1 Flash featuring Chisato Nishikigi from Lycoris Recoil shouting motivational lines in a school environment.
+> A video generation prompt to create an animated sequence of Chisato Nishikigi from Lycoris Recoil shouting motivational lines with a serious expression inside a school building.
 
 #### 📝 Prompt
 
 ```
-Create an animation video of Chisato Nishikigi from Lycoris Recoil shouting "There's no point in worrying about things you can't control yourself!", "Accept it, give it your all!", and "Usually, that's when good things happen" with a serious face inside the school.
+Create an animated video of Chisato Nishikigi from Lycoris Recoil shouting 'There's no point in worrying about things you can't control yourself!', 'Accept it, give it your all!', 'Usually, good things happen that way' with a serious face inside the school grounds.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093832991349039104/img/P3M3vM1hpfhHcF_-.jpg" width="600" alt="Chisato Nishikigi Anime Animation">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2093832991349039104/img/P3M3vM1hpfhHcF_-.jpg" width="600" alt="Chisato Nishikigi Anime Quote Animation">
 
 **[🎬 Watch Video →](https://x.com/secondenalist/status/2093833007178436988)**
 
@@ -2531,178 +2683,6 @@ Keep everything else the same. Continuous shot, no scene cuts.
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Published:** Jul 21, 2026
 
 ---
-### Cinematic Watercolor Rajasthani Widow
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A narrative video prompt using a cinematic watercolor style to tell a story of a widow and her daughters in a clay house courtyard.
-
-#### 📝 Prompt
-
-```
-The Weight of Widowhood. Cinematic medium shot, continuing the downward pan from the previous scene. The camera settles on a young Rajasthani widow, stripped of her bridal jewelry, sitting in the dusty courtyard of her clay house. A profound look of sadness, loneliness, and heavy thought is on her face. There are 3 younger girls are sitting around her, all teenagers around 14 to 15 years old, looking at her for guidance with little sliver of hope. The struggle of their survival is visible in their posture. Art Style: Cinematic watercolor painting style. Soft, expressive brush strokes, flowing washes of color, and earthy tones. High-quality, animated watercolor painting. Do not use photorealistic, live-action, or 3D render styles. Audio: Instrumental music or ambient environmental sounds, no vocals or voiceovers.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079206189125296130/img/6i4fen7Sqm0e5jK-.jpg" width="600" alt="Cinematic Watercolor Rajasthani Widow">
-
-**[🎬 Watch Video →](https://x.com/GargeyaS/status/2079207922006114649)**
-
-**Author:** [Gargeya](https://x.com/GargeyaS) | **Source:** [Link](https://x.com/GargeyaS/status/2079207922006114649) | **Published:** Jul 20, 2026
-
----
-### iPhone 16 Style Vacation Highlights
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt for creating realistic handheld vacation footage featuring specific iPhone 16 camera movement and lighting characteristics.
-
-#### 📝 Prompt
-
-```
-Vacation Highlight Video, Female Subject, Voice Narration. 
-CAMERA: iPhone 16. Built-in sensor-shift OIS and gyro EIS smooth the worst of the shake but do not eliminate natural handheld micro-movement and occasional small reframes as a real person filming themselves would produce. Autofocus briefly hunts and resettles when a hand or product enters frame at close range or when focus pulls from face to object. Exposure adjusts live with natural pull as subject or product moves relative to window light.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784626535981_stehbb_HNo-eFJXkAAgQ8M.jpg" width="600" alt="iPhone 16 Style Vacation Highlights">
-
-**[🎬 Watch Video →](https://x.com/VisuraCode/status/2079047884759011439)**
-
-**Author:** [Visura](https://x.com/VisuraCode) | **Source:** [Link](https://x.com/VisuraCode/status/2079047884759011439) | **Published:** Jul 20, 2026
-
----
-### Cinematic Mie Ayam Food Timelapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt designed for Gemini to generate a high-end food timelapse of Indonesian Chicken Noodles (Mie Ayam), featuring professional lighting and macro details.
-
-#### 📝 Prompt
-
-```
-Create a cinematic timelapse of crafting a luxurious bowl of Mie Ayam (Indonesian Chicken Noodles), themed 'Culinary Elegance.' Blend warm golden lighting, macro food photography, and elegant bokeh effects. Focus on bouncy golden noodles being tossed, glossy caramelized chicken chunks, and rich steaming broth pouring in slow-motion. Include drizzling aromatic chili oil, falling fresh green scallions, and a sleek dark ceramic bowl. Add floating steam particles and dynamic macro pans with a gentle zoom-in. Create a mouth-watering, warm, luxurious atmosphere blending culinary art with high-end aesthetics.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078803077155438592/img/KL--iLNZ41PBq63B.jpg" width="600" alt="Cinematic Mie Ayam Food Timelapse">
-
-**[🎬 Watch Video →](https://x.com/aikonect_/status/2078803644867383767)**
-
-**Author:** [aiko](https://x.com/aikonect_) | **Source:** [Link](https://x.com/aikonect_/status/2078803644867383767) | **Published:** Jul 19, 2026
-
----
-### Soccer Player Jumping Out of Screen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative video generation prompt where a soccer player kicks a ball out of a screen and then jumps out to juggle it on a person's palm.
-
-#### 📝 Prompt
-
-```
-The soccer player kicks the ball out of the screen... I catch it in my hand... Then the player jumps out of the screen and starts juggling the ball on my palm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078656170622160896/img/ZGmtRID8oexSv1tL.jpg" width="600" alt="Soccer Player Jumping Out of Screen">
-
-**[🎬 Watch Video →](https://x.com/nicegen_ai/status/2078656532955439254)**
-
-**Author:** [NiceGen.ai](https://x.com/nicegen_ai) | **Source:** [Link](https://x.com/nicegen_ai/status/2078656532955439254) | **Published:** Jul 19, 2026
-
----
-### Sims Style Character Creation Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative prompt to build a video output resembling the Sims character creation screen, featuring subtle dancing, a rotating Plumbob, and a static UI.
-
-#### 📝 Prompt
-
-```
-Based on my photo, create a photo in the style of The Sims game, character creation block. [Guy] Sim in [black jeans, black T-shirt, and black cap]. To the right of the character are white squares. In these squares, from top to bottom: [MacBook, iPhone, AirPods max]. Above the Sim's head is a green plumbob, and above it is the inscription [ALEX PROMPTS], made in the style of The Sims game. Add arrows to the right and left of the Sim, as in The Sims character editor. 9:16 A stylized character creation screen from The Sims video game. A [men] wearing a [black t-shirt, black trousers, black cap] stands in the center. He is subtly dancing in place, swaying her hips and arms gently. Above his head, a green Plumbob floats and rotates slowly. The user interface with clothing choices, arrows, and the [ALEX PROMPTS] label stays completely static. The background does not move.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078161603602579456/img/qzASW1zDSSx-7D_i.jpg" width="600" alt="Sims Style Character Creation Video">
-
-**[🎬 Watch Video →](https://x.com/AlexPromptsAI/status/2078162243158446242)**
-
-**Author:** [Alex Prompts](https://x.com/AlexPromptsAI) | **Source:** [Link](https://x.com/AlexPromptsAI/status/2078162243158446242) | **Published:** Jul 17, 2026
-
----
-### Living Room Renovation Timelapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly descriptive cinematic prompt for generating a detailed 10-second timelapse of an interior living room renovation featuring changing light and realistic movements.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic cinematic timelapse, natural daylight progression from soft dawn light to vibrant midday sun to warm sunset glow, adaptive static camera fixed in one elevated corner of the living room showing the full space with subtle focal adjustments for depth and parallax as the area transforms. Realistic movements of workers, tools, furniture movers, and materials. Interior living room renovation transformation. [00:00–00:01] Wide static shot of a dated 2000s living room in cool dawn light: worn beige carpet, bulky dark wood entertainment center, faded floral wallpaper, old sectional sofa, cluttered with outdated decor and dim lighting. Workers arrive with tools and boxes. SFX: morning birds, door creaks, light ambience. [00:01–00:03] Rapid demolition and prep: workers remove old carpet, wallpaper, furniture, and fixtures at accelerated speed. Walls are smoothed and painted, electrical updates hidden, new subfloor prepped. Sun rises, shadows shift. SFX: ripping carpet, scraping wallpaper, hammering, debris clearing. [00:03–00:06] Core installation: modern light oak or gray floating shelves and media console installed, large sectional sofa in neutral tones placed, sleek TV mounted, herringbone or luxury vinyl plank flooring laid, statement area rug unrolled. Midday bright natural light floods in. SFX: drilling, furniture positioning, vacuuming, tool clicks. [00:06–00:08] Finishing details: modern lighting (floor lamps, recessed, LED strips), throw pillows, plants, artwork, and curtains added. Coffee table with decor materializes. Late afternoon golden light creates warm reflections. SFX: softer placement sounds, fabric rustling, light switches. [00:08–00:10] Final reveal of the completed contemporary minimalist living room in sunset warmth: bright, cozy, inviting with clean lines, layered textures, organized open shelving, soft ambient lighting, fresh plants. Aspirational calm atmosphere. Camera behavior: Adaptive static timelapse camera — fixed elevated corner with intelligent minor reframing and parallax to maintain full view and cinematic depth. Natural perspective shifts, smooth material transitions. Mood and aesthetics: Hyper-realistic renovation timelapse, satisfying accelerated change from dated and cluttered to bright modern sanctuary. Emphasis on textures (wood grain, fabric weaves, paint finishes), dynamic natural lighting, clean progress, and achievement. Highly detailed surfaces, realistic physics, organic movements. Cinematic color grading, 10 seconds total duration.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2078102358668742656/img/gOKph1hyPq5HtDdt.jpg" width="600" alt="Living Room Renovation Timelapse">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2078102401446490554)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2078102401446490554) | **Published:** Jul 17, 2026
-
----
-### 3D Logo Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An animation prompt for Gemini Omni to create a 3D pop-in effect for a logo on a green screen background.
-
-#### 📝 Prompt
-
-```
-Have (Reference) logo pop in cool on a green screen background. Center of frame. It pops in from nowhere and comes together then hovers in place. Cool 3D effect.
-```
-
-<img src="https://pbs.twimg.com/media/HNYa_xmWgAAoWAE.jpg" width="600" alt="3D Logo Animation">
-
-**[🎬 Watch Video →](https://x.com/chrisfirst/status/2077877168730706019)**
-
-**Author:** [CHRIS FIRST](https://x.com/chrisfirst) | **Source:** [Link](https://x.com/chrisfirst/status/2077877168730706019) | **Published:** Jul 16, 2026
-
----
-### Icelandic Horse Gallop Identity Preservation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-production cinematic prompt for a horse-riding sequence in Iceland, focusing on preserving the identity of a reference image across complex camera movements.
-
-#### 📝 Prompt
-
-```
-Use the attached male reference image as the ONLY identity reference for the main character.
-
-Maintain perfect facial identity even during fast galloping, drone shots, side angles, and wide cinematic compositions.
-
-Duration: 10 seconds.
-
-The opening frame immediately shows the character already galloping at full speed across an enormous Icelandic valley on a powerful black horse. The horse splashes through a shallow river, climbs a grassy ridge without slowing, then races along the cliff edge overlooking waterfalls and endless mountains.
-
-Photorealistic IMAX 65mm production. Premium cinematic lighting. Hyper-realistic horse animation. Hollywood-grade environmental detail.
-
-Camera:
-Horse-mounted tracking → side tracking → FPV drone chase → epic aerial reveal.
-
-Background Music:
-Epic Celtic orchestra, French horns, choir, taiko drums, emotional strings.
-
-Environmental Sound:
-Galloping hooves, river splashes, leather saddle movement, wind, distant waterfalls, birds.
-
-No dialogue.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2077790013799206912/img/JiItvZPzotkWNxrm.jpg" width="600" alt="Icelandic Horse Gallop Identity Preservation">
-
-**[🎬 Watch Video →](https://x.com/vireonixx/status/2077790049618547067)**
-
-**Author:** [Virena](https://x.com/vireonixx) | **Source:** [Link](https://x.com/vireonixx/status/2077790049618547067) | **Published:** Jul 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2755,6 +2735,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-08-31T03:46:43.506Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-08-31T10:33:14.674Z</sub>
 
 </div>
