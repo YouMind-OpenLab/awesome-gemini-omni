@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **224** |
+| 📝 Total de prompts | **228** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-09-01** |
 
@@ -56,6 +56,110 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompts de Anúncio em Vídeo de Peixe ao Vapor à Beira do Rio
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um conjunto completo de prompts de vídeo multissegmentados para gerar um anúncio culinário profissional e realista de 40 segundos sobre peixe ao vapor usando o Gemini Omni.
+
+#### 📝 Prompt
+
+```
+Requisitos Gerais: O mesmo peixe de rio de água doce fresco do Lago Wanlu, aproximadamente 600-750g. O corpo do peixe é lateralmente comprimido, com formato naturalmente oval, escamas cinza-prateadas finas, cabeça, cauda e barbatanas completas e um formato corporal realista. A cabeça sempre voltada para o lado esquerdo do quadro e a cauda para a direita; o mesmo prato oval branco para peixe ao vapor é usado durante todo o vídeo. O comprimento do peixe, a largura da barriga, o formato da cabeça, as posições das incisões e o tamanho do prato não devem mudar. Estado cru: escamas cinza-prateadas, carne firme. Estado cozido: pele intacta, carne mudando de translúcida para um branco quente natural, carne das costas mostrando uma textura clara em forma de pétala. Produto final: carne macia, sucos claros, superfície com apenas uma quantidade moderada de brilho de óleo quente, não encharcado em molho oleoso pesado. Sem texto, legendas, marcas, marcas d'água, interfaces, arroz, outros pratos ou talheres irrelevantes. Segmento 1 (0-10s) | Preparação: Gere uma filmagem comercial de comida realista, vertical 9:16, de 10 segundos, de peixe de rio ao vapor. Cenário: cozinha chinesa limpa, iluminação lateral natural quente sobre uma tábua de corte de madeira. Assunto: peixe de rio de água doce fresco, escamado, eviscerado, limpo, 600-750g. Cabeça voltada para a esquerda, cauda para a direita. 0-3s: A câmera se move lentamente da cauda para a cabeça, closes macro das escamas, superfície úmida e corpo firme. Apenas pequenas gotas de água, sem sangue/órgãos. 3-5s: O chef usa papel toalha para secar. A mão fornece referência de escala. 5-8s: Uma mão segura o peixe, a outra faz 2-3 incisões diagonais rasas. A lâmina faz contato real. 8-10s: Polvilhe levemente com sal, espalhe uniformemente. Coloque no prato oval branco. Fotografia culinária cinematográfica, lente macro, profundidade de campo rasa. Evite: Peixe de mar, robalo, salmão, atum; mudanças no tamanho do corpo; sangue/órgãos; cabeças/caudas cortadas; cortes (clipping); texto/marcas d'água. Segmento 2 (10-20s) | Aromáticos: Filmagem vertical 9:16 de 10 segundos, continuando do Segmento 1. Mantenha a direção da cabeça, escamas, incisões e escala do prato. 0-3s: O chef levanta o peixe para colocar gengibre e cebolinha por baixo. 3-6s: Adicione gengibre na barriga e nas incisões. Quantidade contida de guarnição. 6-8s: Close macro dos detalhes crus. 8-10s: Prato colocado em um vaporizador de aço inoxidável. Movimento real e silencioso. Evite: Especiarias excessivas, pimenta, alho, ervas; ingredientes voando; virar o peixe; cozimento prematuro; dedos cortando (clipping). Segmento 3 (20-30s) | Cozimento no Vapor: Filmagem vertical 9:16 de 10 segundos, continuando do Segmento 2. 0-2s: Água fervendo, tampa fechada. Vapor realista. 2-5s: Representação em time-lapse do cozimento através de mudanças na iluminação. 5-7s: Tampa aberta, o vapor se dissipa para revelar o peixe cozido. Carne tornou-se branco quente, incisões levemente abertas mostrando textura em forma de pétala. 7-10s: Prato removido com luvas resistentes ao calor, água drenada, guarnição murcha removida. Evite: Pele quebrada; encolhimento/expansão; carne crua; marcas de fritura; sopa leitosa; vapor bloqueando a comida; mãos nuas em pratos quentes. Segmento 4 (30-40s) | Hero Shot: Filmagem comercial de alta qualidade vertical 9:16 de 10 segundos, continuando do Segmento 3. O produto final mantém o formato completo, textura de carne em forma de pétala branca quente. 0-2s: Cebolinha fresca fatiada colocada nas costas. 2-5s: Óleo de amendoim quente derramado sobre a cebolinha com um leve chiado e vapor. Brilho fino, sem fumaça pesada. 5-7s: Molho de soja adicionado à borda do prato. 7-10s: Hashis separam uma pétala de carne. Estrutura de pétala macia, úmida. Textura culinária de alta qualidade, luz lateral quente, destaques delicados, fundo suavemente desfocado. Evite: Fritura/assar; pele escurecida; óleo de pimenta; molho pesado; textura tipo tofu; hashis cortando (clipping); pratos laterais extras ou marcas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094595644879142913/img/mt9DvBLaeLJ2WDNz.jpg" width="600" alt="Prompts de Anúncio em Vídeo de Peixe ao Vapor à Beira do Rio">
+
+**[🎬 Assistir vídeo →](https://x.com/7998l201/status/2094595920692478091)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2094595920692478091) | **Publicado:** Sep 1, 2026
+
+---
+### Animação cinematográfica de metamorfose de garrafa Evian
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt complexo e estruturado para uma tomada cinematográfica contínua de 10 segundos, mostrando gotas de água se transformando em uma garrafa de vidro Evian em um vale alpino enevoado.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "tomada única contínua e ininterrupta, sem cortes de cena",
+    "composition": "começa em plano ultra-aberto de uma cachoeira alpina enevoada e um riacho, segue gotas de água subindo em um redemoinho organizado no ar, termina em um close-up centralizado de uma garrafa Evian flutuante",
+    "lens": "teleobjetiva para a paisagem montanhosa, depois 35mm para a revelação do produto",
+    "frame_rate": "24fps cinematográfico",
+    "camera_movement": "inclinação lenta para cima seguindo as gotas ascendentes, depois um dolly suave para dentro enquanto elas se encaixam no formato da garrafa, mantendo a estabilidade no produto em levitação"
+  },
+  "timeline": {
+    "0-3s": "Vale alpino enevoado ao amanhecer em plano ultra-aberto. Cachoeira cristalina caindo sobre rochas cobertas de musgo em um riacho raso. Luz suave da hora azul, neblina baixa, gotas de água nas samambaias.",
+    "3-7s": "Centenas de gotas de água se elevam da superfície do riacho e giram em espirais lentas, elegantes e organizadas. Elas se entrelaçam no ar formando a silhueta exata de uma garrafa de água de vidro premium. Refração sutil de partículas e bordas das gotas brilhantes.",
+    "7-10s": "A forma de água pulsa uma vez e se transforma em uma garrafa de vidro Evian real flutuando sem peso, centralizada no quadro. Foco no produto. Luz de contorno fria e névoa leve."
+  },
+  "subject": {
+    "description": "centenas de gotas de água cristalinas subindo e girando em espirais elegantes para formar a silhueta de uma garrafa de vidro premium",
+    "props": "garrafa de vidro Evian final formada a partir de gotas rodopiantes, depois fazendo a transição para a embalagem real da marca enquanto flutua no ar"
+  },
+  "scene": {
+    "location": "vale alpino elevado com cachoeira e riacho",
+    "time_of_day": "início da manhã, hora azul, luz suave e fria, névoa persistente",
+    "environment": "ar fresco da montanha, fluxo suave de água, rochas cobertas de musgo, samambaias espalhadas"
+  },
+  "visual_details": {
+    "action": "gotas se elevam, giram em espirais organizadas, travam no contorno da garrafa, pulsam e então se transformam na embalagem final da Evian suspensa no espaço",
+    "special_effects": "animação de partículas de água, refração em câmera lenta, metamorfose de material no ar, brilho sutil de levitação e rastros de névoa"
+  },
+  "cinematography": {
+    "lighting": "luz fria e direcional do amanhecer, bordas das gotas brilhantes, luz de contorno prata-azulada na garrafa flutuante",
+    "color_palette": "azuis cristalinos, brancos prateados, verdes musgo, cinzas suaves",
+    "tone": "puro, refrescante, elegância premium"
+  },
+  "audio": {
+    "music": "piano ambiente suave com pads de cordas delicados e sons sutis de sinos inspirados na água",
+    "ambient": "cachoeira distante, fluxo suave do riacho, pássaros da manhã",
+    "sound_effects": "acúmulo do redemoinho de gotas, estalo de encaixe quando a forma se completa, zumbido cristalino suave sob a levitação",
+    "mix": "arejado, aberto, focado na natureza com um centro musical limpo"
+  },
+  "constraints": {
+    "dialogue": "nenhum",
+    "voiceover": "nenhum",
+    "on_screen_text": "nenhum",
+    "captions": "nenhum",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094395253038149632/img/O70UkRndlbm0U6mU.jpg" width="600" alt="Animação cinematográfica de metamorfose de garrafa Evian">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2094395474048643382)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2094395474048643382) | **Publicado:** Aug 31, 2026
+
+---
+### Prompts de Anúncio de Comida para Melão-de-São-Caetano Recheado Estilo Hakka
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Uma sequência de prompts de vídeo profissionais para o Gemini Omni criar um anúncio de culinária realista de 37 segundos de melão-de-são-caetano recheado estilo Hakka.
+
+#### 📝 Prompt
+
+```
+[Requisitos de Consistência Visual e Continuidade] Produza um comercial de comida realista de alta qualidade para 'Melão-de-São-Caetano Recheado Estilo Hakka', vertical 9:16, iluminação de cozinha natural e quente, closes macro de ingredientes reais, detalhes nítidos, vapor contido e brilho de óleo. Use o mesmo conjunto de 8 rodelas de melão-de-são-caetano durante todo o filme, cada uma com aproximadamente 2,5–3 cm de espessura, com diâmetro e espessura de parede consistentes. A casca do melão deve manter sua textura rugosa natural e não deve se transformar em rodelas de pimentão, pepino ou abobrinha. O recheio de carne consiste em 30% de gordura e 70% de carne suína magra com cogumelos shiitake picados, mantendo pequenas partículas cortadas à mão. O recheio cru é naturalmente rosado, enquanto o recheio cozido é marrom-claro com uma superfície selada dourada; as mudanças de cor entre as etapas devem corresponder ao processo real de cozimento. Cada rodela de melão é preenchida com carne, levemente estufada nas duas extremidades, com o melão e o recheio firmemente unidos. Ao virar, empratar ou pegar, os dois se movem como uma unidade única; o recheio não deve cair nem atravessar as paredes do melão. Use consistentemente a mesma tábua de corte de madeira, a mesma tigela de mistura de aço inoxidável, a mesma frigideira preta de fundo chato e o mesmo prato raso redondo branco. O tamanho dos ingredientes, as cores das ferramentas e a direção da luz devem permanecer contínuos. Não gere texto, legendas, logotipos, marcas d'água, UIs ou narrações. Se o áudio for gerado, mantenha apenas sons naturais de corte, selagem e fervura; a narração e a música serão adicionadas na pós-produção. Segmento 1: Fatiar e Remover Sementes Gere 10 segundos de filmagem comercial de comida realista, vertical 9:16, para 'Melão-de-São-Caetano Recheado Estilo Hakka'. 0-3s: Dois melões-de-são-caetano frescos lavados sobre uma tábua de madeira, verde-esmeralda natural com saliências claras. Carne fresca, cogumelos shiitake e pequenas quantidades de cebolinha, gengibre e alho são colocados por perto; o fundo está organizado. 3-6s: Um chef usa um cutelo chinês para cortar o melão em rodelas de cerca de 2,5–3 cm de espessura. A lâmina faz contato real com o ingrediente; os cortes são suaves e as rodelas são grossas, não fatiadas finamente. 6-9s: Uma colher pequena gira ao longo da parede interna das rodelas, retirando as sementes e a polpa branca, raspando suavemente a membrana residual. A parede do melão permanece intacta e não deve ser quebrada ou se tornar oca automaticamente. 9-10s: Mostre o conjunto selecionado de 8 rodelas de melão ocas dispostas ordenadamente em uma bandeja de preparação. A câmera dá um zoom em uma delas, mostrando claramente a casca, a parede e a estrutura oca. Use iluminação lateral quente, movimentos lentos de câmera e alternância macro. Foque onde a faca e a colher tocam os ingredientes; evite desfoque de movimento e superexposição. [Evitar] Formatos de pimentão, formatos de pepino, fatias finas, rodelas quebradas, sementes residuais, esvaziamento automático, ingredientes aparecendo do nada, dedos cortados, legendas, marcas d'água. Segmento 2: Misturar e Rechear à Mão Gere 10 segundos de filmagem de produção contínua, vertical 9:16, usando as mesmas 8 rodelas do segmento anterior. 0-2s: As rodelas ocas na bandeja de preparação entram no primeiro plano, a câmera faz um movimento lento para uma tigela de aço inoxidável próxima. A tigela contém recheio de carne suína picada à mão, pedaços de shiitake e temperos; a carne tem partículas naturais, não uma pasta lisa. 2-4s: Use cortes rápidos naturais para mostrar a adição de molho de soja, molho de ostra, pimenta, clara de ovo e amido, mexendo em uma direção. O recheio gradualmente se une, mas pequenas partículas de carne suína e pedaços escuros de shiitake ainda são visíveis. 4-8s: Uma mão segura uma rodela de melão enquanto a outra usa uma colher pequena para recheá-la com carne em etapas. Preencha o fundo primeiro, depois pressione contra as paredes internas e, finalmente, complete o topo. O recheio se ajusta firmemente contra a parede sem grandes lacunas; ambas as extremidades ficam levemente estufadas, mas não empilhadas em formatos de almôndega alta. 8-10s: Edição natural para o conjunto de 8 rodelas de melão já recheadas. O volume do recheio é consistente e as rodelas mantêm sua espessura e diâmetro originais. Termine movendo a bandeja em direção ao fogão. Alterne entre closes e planos aéreos, focando na colher pressionando a carne. Luz suave e quente, movimentos de mão realistas, superfícies dos ingredientes não excessivamente brilhantes. [Evitar] Carne atravessando paredes, almôndegas independentes, recheio oco, transbordamento, rodelas deformadas, pasta uniforme, molho manchando tudo de preto, rodelas extras repentinas, dedos deformados, legendas, marcas d'água. Segmento 3: Selar e Refogar Gere 10 segundos de filmagem de selagem e refoga, vertical 9:16. 0-3s: A mesma frigideira preta de fundo chato aquece com uma camada fina de óleo de amendoim. Coloque os melões recheados do segmento anterior planos na frigideira, com o lado da carne para baixo, em uma única camada sem sobrepor. Pequenas bolhas de óleo e sons naturais de selagem aparecem nos pontos de contato. 3-5s: O chef usa uma espátula fina para apoiar totalmente uma rodela de melão pela base, virando-a lentamente para revelar uma superfície de carne selada dourada, depois sela o outro lado. A rodela e a carne devem virar juntas; a carne não pode ser deixada na frigideira enquanto apenas a rodela se move. 5-7s: Adicione uma pequena quantidade de água ou caldo ao longo da borda da frigideira, formando uma camada rasa que não submerge o melão. Cubra com a mesma tampa. 7-10s: Use saltos de tempo naturais para representar o processo de refoga em vez de cozimento instantâneo. Ao revelar, o melão mudou para um verde-amarelado suave, a parede está macia, mas não pastosa, e a carne está totalmente cozida, permanecendo estufada com uma selagem dourada. Luz lateral quente, planos médios transicionando para macro, enfatizando bolhas, a superfície selada e vapor natural. O vapor não deve obscurecer todos os ingredientes. [Evitar] Fervura em panela grande, fritura por imersão, superfícies carbonizadas, melão pastoso, rodelas afinando, carne caindo, carne crua rosada, aparência de cru após refogar, mudança de cor da frigideira, mudança de quantidade, legendas, marcas d'água. Segmento 4: Glacear e Empratar (Close) Gere 10 segundos de filmagem comercial finalizada para uma edição final de 7 segundos. 0-3s: Adicione tempero e amido dissolvido em água ao caldo restante na frigideira, girando suavemente a frigideira para criar um glacê fino, claro e marrom-claro. O glacê cobre levemente os ingredientes sem se tornar um gel espesso. 3-6s: Use uma espátula para apoiar os melões recheados pela base, completando o empratamento via edições naturais. Use o mesmo prato raso redondo branco; 8 rodelas dispostas em uma única camada, lado da carne selada para cima, não empilhadas em torre. 6-8s: Uma colher pequena rega uniformemente uma pequena quantidade de glacê fino sobre o melão e a carne, criando um brilho sutil. A textura da casca, as partículas de carne cozida e os pedaços de shiitake permanecem claramente visíveis e não cobertos por molho espesso. 8-10s: Um par de hashis de madeira pega suavemente um melão recheado inteiro pelas laterais. A rodela e a carne permanecem unidas; o ingrediente tem peso real e uma pequena quantidade de glacê escorre naturalmente de volta para o prato. Um espaço vazio permanece no prato e não se preenche automaticamente. A câmera dá um zoom lento, focando na parede verde-amarelada macia, carne dourada e glacê claro. Fundo suavemente desfocado, permanecendo no produto final levantado. [Evitar] Carne caindo, rodelas quebradas, carne esmagada, textura de tofu, glacê de gel espesso, excesso de óleo, molho escuro, ingredientes que se preenchem automaticamente, guarnições extras, arroz, legendas, marcas d'água. Estilo de Narração: Narração de comercial de comida em mandarim chinês, voz natural e quente, expressão clara, toque caseiro e amigável. Ritmo constante, pequenas pausas no final das frases. Enfatize 'primeiro fresco, depois doce', 'cada um estufado', 'macio e suculento' e 'gosto de casa'. Sem discurso de vendas exagerado, sem leitura mecânica palavra por palavra. Correções de Problemas Comuns: Carne caindo: A rodela de melão e o recheio interno de carne estão firmemente unidos, movendo-se como uma unidade alimentar única. A espátula apoia toda a base ao virar; o recheio não deve deslizar, cair ou atravessar a parede do melão ao ser pego. Melão parece cozido demais: O melão está macio e cozido, mas a parede mantém sua espessura total e estrutura de rodela. A superfície é macia e úmida, não colapsada, estilhaçada ou derretida. Carne parece tofu: A carne cozida deve ter pequenas partículas cortadas à mão, pedaços de shiitake e uma superfície irregular natural; o lado selado é marrom-dourado, não um bloco ou pasta branca, lisa e sem textura. Glacê muito espesso: O glacê é um molho fino, claro e marrom-claro com fluidez, aderindo apenas levemente à superfície; a textura da casca do melão e da carne ainda deve ser visível, sem parecer uma pasta gelatinosa espessa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094363615294038016/img/dRoj3oTNX64C-cnZ.jpg" width="600" alt="Prompts de Anúncio de Comida para Melão-de-São-Caetano Recheado Estilo Hakka">
+
+**[🎬 Assistir vídeo →](https://x.com/7998l201/status/2094363707988164831)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2094363707988164831) | **Publicado:** Aug 31, 2026
+
+---
 ### Hyperlapse de Selfie em Pontos Turísticos Chineses
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -73,6 +177,25 @@ Crie um hyperlapse de selfie de 10 segundos usando o personagem enviado, visitan
 **[🎬 Assistir vídeo →](https://x.com/johnAGI168/status/2094291245879160940)**
 
 **Autor:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2094291245879160940) | **Publicado:** Aug 31, 2026
+
+---
+### Prompts de Vídeo Publicitário para Pato ao Estilo Hakka de Três Xícaras
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompts sequenciais detalhados para gerar um anúncio de alta qualidade de 40 segundos de Pato ao Estilo Hakka de Três Xícaras, otimizados para a geração de vídeo do Gemini Omni.
+
+#### 📝 Prompt
+
+```
+[Configuração Geral da Cena] 10 segundos, vertical 9:16. Comercial de alimentos realista de alto padrão, mesma cozinha Hakka com tons quentes, mesma bancada de madeira antiga, mesma panela de ferro preta, mesmo pato inteiro com tamanho e aparência estáveis. Luz de janela lateral, profundidade de campo rasa, textura de alimento realista, vapor contido e brilho natural de óleo. Movimento de câmera lento e estável, principalmente tomadas contínuas dentro dos segmentos. Apenas som ambiente natural de cozinha, sem narração ou música gerada. [Restrições Negativas Gerais] Sem texto, legendas, logotipos, embalagens, utensílios irrelevantes ou acompanhamentos adicionados repentinamente; sem membros redundantes, deformidades nos dedos, duplicação de ingredientes, deformação de utensílios, comida derretendo ou cozimento instantâneo. Mantenha ações de cozimento normais e sensação de peso. Segmento 1: Estabelecimento dos Ingredientes Um pato inteiro limpo é colocado na mesma bancada de madeira, com três pequenas tigelas de vinho de arroz, molho de soja e água com açúcar mascavo, além de fatias de gengibre e pedaços de cebolinha. Começando com um close-up, uma mão seca suavemente a superfície da pele do pato com papel toalha limpo. A câmera avança lentamente, mostrando a textura da pele do pato e a qualidade do molho. Finalmente, o corpo do pato é levantado de forma estável e movido em direção à panela de ferro próxima para facilitar a transição de ação para o próximo segmento. Mantenha o estado fresco/cru, sem coloração prematura ou textura de carne cozida. Segmento 2: Selagem e Adição de Molho Na mesma panela de ferro preta, o pato inteiro é selado até ficar com um dourado uniforme, cercado por fatias de gengibre, pedaços de cebolinha e uma pequena quantidade de gordura de pato. Uma espátula apoia o corpo do pato de forma estável, mostrando pequenas bolhas da selagem contra a panela, então despeje lentamente o molho preparado de vinho de arroz, molho de soja e água com açúcar mascavo. A câmera se move de um close-up da borda da panela para um close-up da pele do pato; o molho ferve naturalmente ao entrar em contato com a panela quente. Termina no corpo dourado do pato e no molho fervendo. Não deixe o corpo do pato ficar vermelho escuro instantaneamente e não deixe o líquido desaparecer no ar. Segmento 3: Cozimento Lento e Rega Continuando com os mesmos utensílios e cena. O pato inteiro cozinha no molho em fogo baixo, a pele gradualmente mostrando uma cor úmida de molho de soja. Uma mão usa uma colher de cabo longo para pegar o suco original da panela e regar lentamente sobre as costas do pato; o molho escorre pela pele e cai de volta na panela. Acompanhe a ação de regar com uma tomada macro lateral, destacando o vapor realista, a fervura suave e o brilho da pele do pato. Termina com o corpo do pato inteiro intacto para fornecer uma referência para a tomada final de empratamento. Sem fervura violenta, sem carne de pato caindo ou deformando. Segmento 4: Demonstração do Produto Na mesma bancada de cozinha, o Pato de Três Xícaras picado é bem empratado, a pele está vermelha e brilhante, e os pedaços de carne mantêm cortes transversais e camadas realistas. Primeiro, mostre a superfície da pele a partir de um close-up de ângulo baixo, depois regue lentamente o suco original concentrado com uma colher, com o molho aderindo naturalmente. Finalmente, um par de hashis pega um pedaço de carne de pato com pele, a câmera se aproxima lentamente, focando nos detalhes da pele do pato, qualidade da carne e cobertura de molho, com um desfoque suave no fundo. Não adicione novas decorações, arroz ou um segundo prato; sem puxões exagerados tipo queijo. [Roteiro de Locução] O autêntico Pato ao Estilo Hakka de Três Xícaras começa com um bom pato. Lave e seque o pato fresco; não o escalde para preservar a fragrância mais autêntica do pato. Refogue o gengibre e os pedaços de cebolinha até perfumar, sele o pato inteiro contra a panela para liberar o excesso de gordura. Sele até dourar dos dois lados, depois adicione vinho de arroz, molho de soja e água com açúcar mascavo. Deixe o molho ferver e cozinhe em fogo baixo por 45 minutos. Vire e regue continuamente no meio do processo, deixando os aromas do vinho de arroz, molho de soja e doçura permearem a carne uniformemente. Finalmente, aumente o fogo para engrossar o suco original até que a pele do pato esteja vermelha e brilhante e o molho adira ao corpo. Deixe esfriar um pouco antes de picar, depois regue com o suco original — este é o suave e saboroso Pato ao Estilo Hakka de Três Xícaras. [Comando de Síntese] 'Use a Habilidade de Produção de Comercial de Alimentos, mescle os vídeos na ordem 1, 2, 3, 4. Use o texto original confirmado para a locução, gere uma locução contínua do Doubao de uma só vez. Alvo de 40 segundos, 1080x1920, 24fps, mantenha o som ambiente do vídeo original em baixo volume, saída MP4, imagens de verificação de keyframe e relatório de verificação.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094273910191878144/img/aWZXSJOTgY7v85_q.jpg" width="600" alt="Prompts de Vídeo Publicitário para Pato ao Estilo Hakka de Três Xícaras">
+
+**[🎬 Assistir vídeo →](https://x.com/7998l201/status/2094274092757385382)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2094274092757385382) | **Publicado:** Aug 31, 2026
 
 ---
 ### Comercial Cinematográfico de Chocolate com Café
@@ -2479,124 +2602,6 @@ Cinematic summer beverage commercial for FIZZI Sparkling Tonic — Grapefruit, h
 **Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Fonte:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Publicado:** Jul 23, 2026
 
 ---
-### Drama Escolar Japonês Cinematográfico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de geração de vídeo abrangente para o Gemini Omni que cria uma cena detalhada de drama escolar com movimentos de câmera, diálogos e efeitos atmosféricos específicos.
-
-#### 📝 Prompt
-
-```
-[CENA E MOVIMENTO DE CÂMERA] Cena de drama escolar japonês cinematográfico. A câmera começa com um plano geral em ângulo zenital (bird's-eye view) olhando para um corredor iluminado pela luz dourada da tarde. A câmera então faz um zoom suave e abaixa o ângulo, transicionando para um perfil lateral dinâmico e, finalmente, estabiliza em um plano médio fechado nos rostos e na parte superior do corpo das personagens. [AÇÃO E PERSONAGENS] Uma estudante confiante com mechas loiras e esmalte preto dá um passo à frente e coloca suavemente a mão na parede ao lado de uma presidente de classe organizada e tímida, que usa óculos redondos. A presidente de classe segura seus livros com força, corando levemente de surpresa. Pétalas de sakura cor-de-rosa e cabelos flutuam suavemente pelo quadro com o vento quente que entra pelas janelas abertas. [SFX E EFEITOS DE ÁUDIO] Vento ambiente suave e o farfalhar leve das pétalas de sakura → Som suave de toque na parede → Suspiro leve de surpresa → Efeito sonoro de batimento cardíaco calmo e sutil. [DIÁLOGO EM JAPONÊS] - Garota Confiante (tom provocador, mas gentil): "Ei, Presidente... o que houve? Seu rosto está um pouco vermelho?" (Nee, Iinchou... doushita no? Kao ga sukoshi akai yo?) - Presidente de Classe (tom confuso, mas suave): "Eh...! Ah, você está muito perto... espere..." (Ehh...! A, chikai desu... chotto...) [ESTILO E ESTÉTICA] Estilo de filme live-action juvenil japonês fotorrealista, iluminação cinematográfica, partículas de poeira atmosféricas, profundidade de campo rasa, alto foco, resolução 8k, 60fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080151806152482816/img/DzNNE11EyiPsrErK.jpg" width="600" alt="Drama Escolar Japonês Cinematográfico">
-
-**[🎬 Assistir vídeo →](https://x.com/ngoctramtp/status/2080152132133474497)**
-
-**Autor:** [Ciara | Yuri Cinematic](https://x.com/ngoctramtp) | **Fonte:** [Link](https://x.com/ngoctramtp/status/2080152132133474497) | **Publicado:** Jul 23, 2026
-
----
-### Restrições de Movimento para o Trem e a Figura
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um conjunto preciso de instruções para o Gemini Omni animar uma figura observando um trem de modelo com restrições rígidas de direção e câmera.
-
-#### 📝 Prompt
-
-```
-Mova a pessoa e o trem de modelo.
-- O trem deve se mover apenas para frente; o movimento para trás é proibido.
-- A pessoa deve se mover para frente enquanto olha para o trem; o movimento para trás é proibido.
-- Não alterne as câmeras.
-- Não inclua trens ou formações que não estejam presentes na imagem original.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="Restrições de Movimento para o Trem e a Figura">
-
-**[🎬 Assistir vídeo →](https://x.com/uso800railway/status/2079923166248644727)**
-
-**Autor:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **Fonte:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **Publicado:** Jul 22, 2026
-
----
-### Prompt para Substituição de Objeto em Vídeo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt específico para o Gemini Omni Flash, projetado para substituir um objeto em um vídeo por um gato a partir de uma imagem de referência, mantendo a consistência da cena.
-
-#### 📝 Prompt
-
-```
-Edite o vídeo de entrada. Substitua o hamster pelo gato da <IMAGE_REF_0>, correspondendo à aparência e identidade do gato. Aplique o estilo visual da <IMAGE_REF_1> ao visual do gato (pelagem, cores, estilo de renderização). Mantenha o movimento, o tempo, a câmera e o fundo originais. 
-Mantenha todo o resto igual. Tomada contínua, sem cortes de cena.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Prompt para Substituição de Objeto em Vídeo">
-
-**[🎬 Assistir vídeo →](https://x.com/nicegen_ai/status/2079554954638033066)**
-
-**Autor:** [NiceGen.ai](https://x.com/nicegen_ai) | **Fonte:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Publicado:** Jul 21, 2026
-
----
-### Anúncio Cinematográfico de Drone para Mel do Himalaia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt abrangente em formato JSON para um comercial cinematográfico de drone em alta velocidade, apresentando a embalagem de mel em meio às montanhas do Himalaia.
-
-#### 📝 Prompt
-
-```
-{
-  "description": "Uma tomada de drone cinematográfica ultrarrápida começa no alto das majestosas montanhas nevadas do Himalaia ao nascer do sol dourado. A câmera mergulha rapidamente por vales verdes exuberantes, rios cristalinos e florestas de pinheiros cobertas por névoa, acelerando enquanto corre entre árvores imponentes e desliza sobre cachoeiras. O ritmo diminui gradualmente, transicionando para uma clareira tranquila na floresta banhada pela luz quente da manhã. A câmera desliza em direção a uma pedra coberta de musgo onde um pote de vidro de mel Dabur, lacrado e impecável, com sua embalagem autêntica de varejo, está elegantemente posicionado como o produto principal. A tomada termina com um close-up cinematográfico premium destacando o rico mel dourado dentro do pote transparente, preservando o rótulo real e o design da embalagem. Sem elementos de marca adicionais, gráficos flutuantes ou texto extra.",
-  "style": "comercial de natureza premium, cinematográfico e hiper-realista com fotografia de produto de luxo",
-  "camera": "voo de drone estilo FPV de alta velocidade transicionando para dolly cinematográfico estabilizado e revelação macro orbital lenta do produto",
-  "lighting": "iluminação quente de nascer do sol dourado com reflexos naturais de lente, raios solares volumétricos através da copa da floresta, terminando com luz principal suave e difusa acentuando o pote de vidro e o mel dourado",
-  "environment": "majestosas montanhas do Himalaia, vales florestais indianos exuberantes, rios cristalinos, cachoeiras, densas florestas de pinheiros e uma tranquila clareira na floresta coberta de musgo, rica em texturas naturais",
-  "elements": [
-    "montanhas nevadas do Himalaia",
-    "vales verdes exuberantes",
-    "rios cristalinos",
-    "florestas de pinheiros cobertas por névoa",
-    "cachoeiras",
-    "pedra coberta de musgo como pedestal",
-    "pote de vidro de mel Dabur autêntico e lacrado com embalagem original de varejo",
-    "abelhas e borboletas sutis",
-    "orvalho da manhã",
-    "névoa suave à deriva"
-  ],
-  "motion": "descida aérea extremamente rápida e voo FPV pela floresta durante os primeiros 6 segundos, seguidos por um deslize gracioso em câmera lenta, órbita sutil e aproximação suave em direção ao produto nos 4 segundos finais",
-  "duration": "10 segundos",
-  "ending": "O pote de mel Dabur autêntico permanece perfeitamente centralizado na pedra coberta de musgo enquanto a câmera orbita lentamente e termina com um close-up macro premium do rótulo e do mel dourado brilhante dentro do pote de vidro.",
-  "text": "nenhum",
-  "keywords": [
-    "16:9",
-    "comercial premium",
-    "voo cinematográfico de drone",
-    "FPV",
-    "hiper-realista",
-    "revelação de produto de luxo",
-    "embalagem autêntica de mel Dabur",
-    "pote de mel de vidro",
-    "nascer do sol dourado",
-    "paisagem natural indiana",
-    "tomada macro de produto",
-    "sem texto",
-    "sem logotipos adicionais"
-  ]
-}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Anúncio Cinematográfico de Drone para Mel do Himalaia">
-
-**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2079454972098609447)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Publicado:** Jul 21, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -2649,6 +2654,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-01T03:40:54.684Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-01T09:10:58.612Z</sub>
 
 </div>

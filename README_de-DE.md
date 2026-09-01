@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **224** |
+| 📝 Gesamtanzahl Prompts | **228** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-01** |
 
@@ -56,6 +56,110 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Video-Ad-Prompts für gedämpften Flussfisch
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein vollständiges Set an mehrteiligen Video-Prompts zur Erstellung einer professionellen, realistischen 40-sekündigen kulinarischen Werbeanzeige für gedämpften Fisch mit Gemini Omni.
+
+#### 📝 Prompt
+
+```
+Allgemeine Anforderungen: Derselbe frische Wanlu-See-Süßwasserfisch, ca. 600-750 g. Der Fischkörper ist seitlich abgeflacht, natürlich oval geformt, mit feinen silbergrauen Schuppen, vollständigem Kopf, Schwanz und Flossen sowie einer realistischen Körperform. Der Kopf zeigt immer nach links, der Schwanz nach rechts; durchgehend wird derselbe weiße, ovale Fischdämpfteller verwendet. Fischlänge, Bauchbreite, Kopfform, Schnittpositionen und Tellergröße dürfen sich nicht ändern. Rohzustand: silbergraue Schuppen, festes Fleisch. Gekochter Zustand: Haut intakt, Fleisch verändert sich von durchscheinend zu einem natürlichen warmen Weiß, das Rückenmuskelfleisch zeigt eine klare blütenblattartige Textur. Endergebnis: zartes Fleisch, klarer Saft, Oberfläche nur mit mäßigem Glanz durch heißes Öl, nicht in schwerer öliger Soße getränkt. Kein Text, keine Untertitel, Marken, Wasserzeichen, Benutzeroberflächen, Reis, andere Gerichte oder irrelevantes Geschirr. Segment 1 (0-10s) | Vorbereitung: Erzeuge ein 10-sekündiges, vertikales 9:16 realistisches Food-Werbevideo von gedämpftem Flussfisch. Szene: saubere chinesische Küche, warmes natürliches Seitenlicht auf einem Holzschneidebrett. Subjekt: frischer Süßwasser-Flussfisch, geschuppt, ausgenommen, gereinigt, 600-750 g. Kopf zeigt nach links, Schwanz nach rechts. 0-3s: Kamera bewegt sich langsam vom Schwanz zum Kopf, Makroaufnahmen der Schuppen, feuchte Oberfläche und fester Körper. Nur kleine Wassertropfen, kein Blut/Innereien. 3-5s: Koch tupft den Fisch mit einem Papiertuch trocken. Hand dient als Größenreferenz. 5-8s: Eine Hand hält den Fisch, die andere setzt 2-3 flache diagonale Schnitte. Die Klinge hat echten Kontakt. 8-10s: Leicht salzen, gleichmäßig einreiben. Auf den weißen ovalen Teller legen. Kinoreife Food-Fotografie, Makroobjektiv, geringe Schärfentiefe. Vermeiden: Seefisch, Barsch, Lachs, Thunfisch; Veränderungen der Körpergröße; Blut/Innereien; abgeschnittene Köpfe/Schwänze; Clipping; Text/Wasserzeichen. Segment 2 (10-20s) | Aromen: 10s vertikales 9:16-Material, Fortsetzung von Segment 1. Kopfrichtung, Schuppen, Schnitte und Tellermaß beibehalten. 0-3s: Koch hebt den Fisch an, um Ingwer und Frühlingszwiebeln darunter zu legen. 3-6s: Ingwer in den Bauch und die Schnitte geben. Zurückhaltende Menge an Garnitur. 6-8s: Makroaufnahme der rohen Details. 8-10s: Teller in einen Edelstahldämpfer stellen. Echte, ruhige Bewegung. Vermeiden: Übermäßige Gewürze, Chili, Knoblauch, Kräuter; fliegende Zutaten; Fisch wenden; vorzeitiges Garen; Finger-Clipping. Segment 3 (20-30s) | Dämpfen: 10s vertikales 9:16-Material, Fortsetzung von Segment 2. 0-2s: Wasser kocht, Deckel geschlossen. Realistischer Dampf. 2-5s: Zeitraffer-Darstellung des Dämpfens durch Lichtveränderungen. 5-7s: Deckel wird geöffnet, Dampf entweicht und enthüllt den gegarten Fisch. Fleisch ist warmweiß geworden, Schnitte leicht geöffnet, zeigen blütenblattartige Textur. 7-10s: Teller mit hitzebeständigen Handschuhen entnommen, Wasser abgegossen, verwelkte Garnitur entfernt. Vermeiden: Gebrochene Haut; Schrumpfen/Ausdehnen; rohes Fleisch; Bratspuren; milchige Suppe; Dampf verdeckt das Essen; bloße Hände auf heißen Tellern. Segment 4 (30-40s) | Hero Shot: 10s vertikales 9:16 High-End-Werbematerial, Fortsetzung von Segment 3. Endergebnis behält volle Form, warmweißes blütenblattartiges Fleisch. 0-2s: Frische Frühlingszwiebelstreifen auf den Rücken legen. 2-5s: Heißes Erdnussöl über die Frühlingszwiebeln gießen, mit leichtem Zischen und Dampf. Dünner Glanz, kein starker Rauch. 5-7s: Sojasoße an den Tellerrand geben. 7-10s: Stäbchen trennen ein Fleischblatt ab. Zart, feucht, blütenblattartige Struktur. High-End-kulinarische Textur, warmes Seitenlicht, zarte Highlights, weicher unscharfer Hintergrund. Vermeiden: Braten/Backen; geschwärzte Haut; Chiliöl; schwere Soße; tofuartige Textur; Stäbchen-Clipping; zusätzliche Beilagen oder Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094595644879142913/img/mt9DvBLaeLJ2WDNz.jpg" width="600" alt="Video-Ad-Prompts für gedämpften Flussfisch">
+
+**[🎬 Video ansehen →](https://x.com/7998l201/status/2094595920692478091)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Quelle:** [Link](https://x.com/7998l201/status/2094595920692478091) | **Veröffentlicht:** Sep 1, 2026
+
+---
+### Filmreife Evian-Flaschen-Morph-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein komplexer, strukturierter Prompt für eine nahtlose, 10-sekündige filmreife Aufnahme, die zeigt, wie Wassertropfen in einem nebligen Alpental zu einer gläsernen Evian-Flasche verschmelzen.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "einzelne, durchgehende Aufnahme ohne Szenenschnitte",
+    "composition": "beginnt in einer Ultra-Weitwinkel-Einstellung auf einen nebligen Wasserfall und Bachlauf in den Alpen, folgt aufsteigenden Wassertropfen in einem organisierten Wirbel in der Luft und endet mit einer zentrierten Nahaufnahme der schwebenden Evian-Flasche",
+    "lens": "Teleobjektiv für die Berglandschaft, dann 35mm für die Produktpräsentation",
+    "frame_rate": "24fps filmisch",
+    "camera_movement": "langsamer Tilt nach oben, der den aufsteigenden Tropfen folgt, gefolgt von einem sanften Dolly-In, während sie sich zur Flaschenform zusammenfügen, dann ruhig auf dem schwebenden Produkt halten"
+  },
+  "timeline": {
+    "0-3s": "Ultra-weites, nebliges Alpental im Morgengrauen. Kristallklarer Wasserfall, der über moosige Felsen in einen flachen Bach stürzt. Sanftes Licht der blauen Stunde, tief hängender Nebel, Wassertropfen auf Farnen.",
+    "3-7s": "Hunderte Wassertropfen heben sich von der Wasseroberfläche und wirbeln in langsamen, eleganten, organisierten Spiralen. Sie verbinden sich in der Luft zur exakten Silhouette einer Premium-Glaswasserflasche. Subtile Partikelbrechung und leuchtende Tropfenränder.",
+    "7-10s": "Die Wasserform pulsiert einmal und verwandelt sich in eine echte Evian-Glasflasche, die schwerelos und zentriert im Bild schwebt. Fokus auf das Produkt. Kühles Kantenlicht und leichter Nebel."
+  },
+  "subject": {
+    "description": "Hunderte kristallklarer Wassertropfen, die aufsteigen und in eleganten Spiralen rotieren, um die Silhouette einer Premium-Glasflasche zu bilden",
+    "props": "die finale Evian-Glasflasche, die aus wirbelnden Tropfen geformt wird und während des Schwebens in der Luft in die echte Markenverpackung übergeht"
+  },
+  "scene": {
+    "location": "Hochalpines Tal mit Wasserfall und Bach",
+    "time_of_day": "frühe blaue Stunde im Morgengrauen, weiches kühles Licht, anhaltender Nebel",
+    "environment": "frische Bergluft, sanfter Wasserfluss, moosbedeckte Felsen, verstreute Farne"
+  },
+  "visual_details": {
+    "action": "Tropfen steigen auf, rotieren in organisierten Spiralen, rasten in der Flaschenkontur ein, pulsieren und morphen dann in die fertige Evian-Verpackung, die im Raum schwebt",
+    "special_effects": "Wasserpartikel-Animation, Zeitlupen-Lichtbrechung, Material-Morphing in der Luft, subtiles Schimmern bei der Levitation und Nebelschleier"
+  },
+  "cinematography": {
+    "lighting": "kühles, gerichtetes Morgenlicht, leuchtende Tropfenränder, silberblaues Kantenlicht auf der schwebenden Flasche",
+    "color_palette": "kristalline Blautöne, silberne Weißtöne, Moosgrün, sanfte Grautöne",
+    "tone": "rein, erfrischend, Premium-Eleganz"
+  },
+  "audio": {
+    "music": "sanftes Ambient-Piano mit feinen Streicher-Pads und subtilen, wasserinspirierten Klängen",
+    "ambient": "entfernter Wasserfall, sanftes Bachrauschen, Vögel am Morgen",
+    "sound_effects": "Aufbau des Tropfenwirbels, einrastendes Geräusch bei Vollendung der Form, leises kristallines Summen während der Levitation",
+    "mix": "luftig, offen, naturverbunden mit einem klaren musikalischen Zentrum"
+  },
+  "constraints": {
+    "dialogue": "keine",
+    "voiceover": "keine",
+    "on_screen_text": "keiner",
+    "captions": "keine",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094395253038149632/img/O70UkRndlbm0U6mU.jpg" width="600" alt="Filmreife Evian-Flaschen-Morph-Animation">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2094395474048643382)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2094395474048643382) | **Veröffentlicht:** Aug 31, 2026
+
+---
+### Food-Ad-Prompts für gefüllte Bittermelone nach Hakka-Art
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Eine Abfolge professioneller Video-Prompts für Gemini Omni zur Erstellung eines realistischen, 37-sekündigen Werbespots für gefüllte Bittermelone nach Hakka-Art.
+
+#### 📝 Prompt
+
+```
+[Anforderungen an visuelle Konsistenz & Kontinuität] Erstellen Sie einen hochwertigen, realistischen Werbespot für „Gefüllte Bittermelone nach Hakka-Art“, vertikal 9:16, warme natürliche Küchenbeleuchtung, Makroaufnahmen echter Zutaten, klare Details, dezenter Dampf und Ölglanz. Verwenden Sie durchgehend dasselbe Set aus 8 Bittermelonenringen, jeder ca. 2,5–3 cm dick mit einheitlichem Durchmesser und Wandstärke. Die Haut der Bittermelone sollte ihre natürliche, unebene Textur behalten und darf nicht zu Paprika-, Gurken- oder Zucchini-Ringen werden. Die Fleischfüllung besteht aus 30 % Fett und 70 % magerem Schweinefleisch mit gehackten Shiitake-Pilzen, wobei kleine, handgehackte Stücke erkennbar bleiben. Die rohe Füllung ist natürlich rosa, während die gegarte Füllung hellbraun mit einer goldbraun angebratenen Oberfläche ist; die Farbveränderungen müssen dem tatsächlichen Kochprozess entsprechen. Jeder Bittermelonenring ist mit Fleisch gefüllt, an beiden Enden leicht prall, wobei Melone und Füllung fest miteinander verbunden sind. Beim Wenden, Anrichten oder Anheben bewegen sich beide als eine Einheit; die Füllung darf nicht herausfallen oder die Melonenwände durchdringen. Verwenden Sie durchgehend dasselbe hölzerne Schneidebrett, dieselbe Edelstahlschüssel, dieselbe flache schwarze Pfanne und denselben flachen weißen runden Teller. Zutatengröße, Werkzeugfarben und Lichtrichtung müssen konsistent bleiben. Generieren Sie keinen Text, keine Untertitel, Logos, Wasserzeichen, UIs oder Voiceovers. Falls Audio generiert wird, behalten Sie nur natürliche Geräusche wie Hacken, Anbraten und Kochen bei; Sprechertext und Musik werden in der Postproduktion hinzugefügt. Segment 1: Schneiden und Entkernen Generieren Sie 10 Sekunden vertikales 9:16-Footage für einen realistischen Werbespot für „Gefüllte Bittermelone nach Hakka-Art“. 0-3s: Zwei gewaschene frische Bittermelonen auf einem Holzbrett, natürliches Smaragdgrün mit deutlichen Unebenheiten. Frisches Schweinefleisch, Shiitake-Pilze sowie kleine Mengen Frühlingszwiebeln, Ingwer und Knoblauch liegen daneben; der Hintergrund ist aufgeräumt. 3-6s: Ein Koch schneidet die Bittermelone mit einem chinesischen Hackmesser in ca. 2,5–3 cm dicke Ringe. Die Klinge hat echten Kontakt mit der Zutat; die Schnitte sind sauber, die Ringe dick und nicht dünn geschnitten. 6-9s: Ein kleiner Löffel rotiert entlang der Innenwand der Ringe, schabt die Samen und das weiße Mark heraus und entfernt vorsichtig die restliche Membran. Die Melonenwand bleibt intakt und darf nicht zerbrechen oder automatisch hohl werden. 9-10s: Zeigen Sie das ausgewählte Set aus 8 hohlen Bittermelonenringen, ordentlich auf einem Vorbereitungstablett angeordnet. Die Kamera zoomt auf einen Ring und zeigt deutlich Haut, Wand und Hohlstruktur. Nutzen Sie warmes Seitenlicht, langsame Kamerafahrten und Makro-Wechsel. Fokus auf den Kontaktpunkt von Messer/Löffel und Zutat; vermeiden Sie Bewegungsunschärfe und Überbelichtung. [Vermeiden] Paprikaformen, Gurkenformen, dünne Scheiben, zerbrochene Ringe, Samenreste, automatisches Aushöhlen, Zutaten, die aus dem Nichts erscheinen, Finger-Clipping, Untertitel, Wasserzeichen. Segment 2: Mischen und Füllen Generieren Sie 10 Sekunden vertikales 9:16-Footage mit den gleichen 8 Ringen aus dem vorherigen Segment. 0-2s: Die hohlen Ringe auf dem Tablett kommen in den Vordergrund, die Kamera schwenkt langsam zu einer Edelstahlschüssel. Die Schüssel enthält handgehackte Schweinefleischfüllung, Shiitake-Stückchen und Gewürze; das Fleisch hat eine natürliche Textur, keine glatte Paste. 2-4s: Nutzen Sie natürliche schnelle Schnitte, um die Zugabe von Sojasauce, Austernsauce, Pfeffer, Eiweiß und Stärke zu zeigen, während in eine Richtung gerührt wird. Die Füllung bindet allmählich, aber kleine Schweinefleischpartikel und dunkle Shiitake-Stückchen sind noch sichtbar. 4-8s: Eine Hand hält einen Bittermelonenring, während die andere mit einem kleinen Löffel das Fleisch schrittweise einfüllt. Zuerst den Boden füllen, dann gegen die Innenwände drücken und schließlich oben abschließen. Die Füllung sitzt fest an der Wand ohne große Lücken; beide Enden sind leicht prall, aber nicht zu hohen Fleischbällchen aufgetürmt. 8-10s: Natürlicher Schnitt zum Set der 8 bereits gefüllten Bittermelonenringe. Das Füllvolumen ist konsistent, die Ringe behalten ihre ursprüngliche Dicke und ihren Durchmesser. Zum Schluss das Tablett in Richtung Herd bewegen. Wechseln Sie zwischen Nahaufnahmen und Aufsichten, Fokus auf den Löffel, der das Fleisch festdrückt. Warmes weiches Licht, realistische Handbewegungen, Zutatenoberflächen sind nicht übermäßig glänzend. [Vermeiden] Fleisch, das Wände durchdringt, eigenständige Fleischbällchen, hohle Füllung, Überlaufen, verformte Ringe, einheitliche Paste, Saucenflecken, plötzlich zusätzliche Ringe, verformte Finger, Untertitel, Wasserzeichen. Segment 3: Anbraten und Schmoren Generieren Sie 10 Sekunden vertikales 9:16-Footage zum Anbraten und Schmoren. 0-3s: Die gleiche flache schwarze Pfanne erhitzt sich mit einer dünnen Schicht Erdnussöl. Die gefüllten Bittermelonen aus dem vorherigen Segment flach in die Pfanne legen, Fleischseite nach unten, in einer Schicht ohne Überlappung. Kleine Ölblasen und natürliche Bratgeräusche an den Kontaktpunkten. 3-5s: Der Koch verwendet einen dünnen Pfannenwender, um einen Bittermelonenring vollständig von unten zu stützen und langsam zu wenden, um die goldbraun gebratene Fleischseite zu zeigen, dann die andere Seite anbraten. Ring und Fleisch müssen zusammen wenden; das Fleisch darf nicht in der Pfanne bleiben, während sich nur der Ring bewegt. 5-7s: Eine kleine Menge Wasser oder Brühe am Pfannenrand hinzufügen, sodass eine flache Schicht entsteht, die die Bittermelone nicht vollständig bedeckt. Mit dem gleichen Deckel abdecken. 7-10s: Nutzen Sie natürliche Zeitsprünge, um den Schmorprozess darzustellen, statt sofortiges Kochen. Beim Aufdecken ist die Bittermelone weich gelb-grün, die Wand ist weich, aber nicht matschig, und das Fleisch ist vollständig gegart, prall und goldbraun gebraten. Warmes Seitenlicht, Übergang von Halbnah- zu Makroaufnahmen, Fokus auf Blasen, die gebratene Oberfläche und natürlichen Dampf. Dampf sollte nicht alle Zutaten verdecken. [Vermeiden] Kochen in einem großen Topf, Frittieren, verkohlte Oberflächen, matschige Melone, dünner werdende Ringe, herausfallendes Fleisch, rohes rosa Fleisch, rohes Aussehen nach dem Schmoren, Farbveränderungen der Pfanne, Mengenänderungen, Untertitel, Wasserzeichen. Segment 4: Glasieren und Anrichten Nahaufnahme Generieren Sie 10 Sekunden vertikales 9:16-Footage für den finalen 7-sekündigen Werbespot. 0-3s: Gewürze und Stärkewasser zum restlichen Pfannensaft geben, die Pfanne sanft schwenken, um eine klare, hellbraune dünne Glasur zu erzeugen. Die Glasur überzieht die Zutaten leicht, ohne ein dickes Gel zu bilden. 3-6s: Mit einem Pfannenwender die gefüllten Melonen von unten stützen und durch natürliche Schnitte anrichten. Den gleichen flachen weißen runden Teller verwenden; 8 Ringe in einer Schicht angeordnet, gebratene Fleischseite nach oben, nicht turmartig gestapelt. 6-8s: Mit einem kleinen Löffel eine kleine Menge dünne Glasur gleichmäßig über Melone und Fleisch träufeln, um einen leichten Glanz zu erzeugen. Hauttextur, gegarte Fleischpartikel und Shiitake-Stückchen bleiben klar sichtbar und werden nicht von dicker Sauce bedeckt. 8-10s: Ein Paar Holzstäbchen hebt vorsichtig eine ganze gefüllte Bittermelone von der Seite an. Ring und Fleisch bleiben verbunden; die Zutat hat echtes Gewicht, eine kleine Menge Glasur tropft natürlich zurück auf den Teller. Ein leerer Platz bleibt auf dem Teller und füllt sich nicht automatisch auf. Die Kamera zoomt langsam heran, Fokus auf die weiche gelb-grüne Wand, das goldene Fleisch und die klare Glasur. Weicher, unscharfer Hintergrund, Verweilen auf dem angehobenen Endprodukt. [Vermeiden] Herausfallendes Fleisch, zerbrochene Ringe, zerdrücktes Fleisch, Tofu-Textur, dickes Gel-Glanzmittel, übermäßiges Öl, dunkle Sauce, sich automatisch auffüllende Zutaten, zusätzliche Garnituren, Reis, Untertitel, Wasserzeichen. Voiceover-Stil-Prompt: Chinesisch-mandarinische Werbesprecher-Stimme, natürlich und warm, klare Aussprache, freundlich-häusliches Gefühl. Gleichmäßiges Tempo, leichte Pausen am Satzende. Betonen Sie „erst frisch, dann süß“, „jeder einzelne prall“, „zart und saftig“ und „Geschmack von Zuhause“. Keine übertriebene Verkaufsmasche, kein mechanisches Vorlesen. Korrekturen häufiger Probleme: Fleisch fällt heraus: Der Bittermelonenring und die innere Fleischfüllung sind fest verbunden und bewegen sich als eine Einheit. Der Pfannenwender stützt beim Wenden den gesamten Boden; die Füllung darf beim Anheben nicht herausrutschen, fallen oder durch die Melonenwand dringen. Bittermelone sieht verkocht aus: Die Bittermelone ist weich und gar, aber die Wand behält ihre volle Dicke und Ringstruktur. Die Oberfläche ist weich und feucht, nicht kollabiert, zerbrochen oder geschmolzen. Fleisch sieht aus wie Tofu: Gegartes Fleisch muss kleine handgehackte Partikel, Shiitake-Stückchen und eine natürlich unebene Oberfläche haben; die gebratene Seite ist goldbraun, kein einheitlich weißer, glatter, texturloser Block oder Paste. Glasur ist zu dick: Die Glasur ist eine klare, hellbraune dünne Sauce mit Fließfähigkeit, die nur leicht an der Oberfläche haftet; Melonen-Haut und Fleischtextur sollten sichtbar bleiben, ohne wie eine gelatineartige dicke Paste zu wirken.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094363615294038016/img/dRoj3oTNX64C-cnZ.jpg" width="600" alt="Food-Ad-Prompts für gefüllte Bittermelone nach Hakka-Art">
+
+**[🎬 Video ansehen →](https://x.com/7998l201/status/2094363707988164831)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Quelle:** [Link](https://x.com/7998l201/status/2094363707988164831) | **Veröffentlicht:** Aug 31, 2026
+
+---
 ### Hyperlapse-Selfie an chinesischen Sehenswürdigkeiten
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -73,6 +177,25 @@ Erstelle ein 10-sekündiges Selfie-Hyperlapse mit der hochgeladenen Figur, die 2
 **[🎬 Video ansehen →](https://x.com/johnAGI168/status/2094291245879160940)**
 
 **Autor:** [John](https://x.com/johnAGI168) | **Quelle:** [Link](https://x.com/johnAGI168/status/2094291245879160940) | **Veröffentlicht:** Aug 31, 2026
+
+---
+### Video-Ad-Prompts für Hakka-Drei-Tassen-Ente
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Detaillierte sequentielle Prompts zur Erstellung eines hochwertigen 40-sekündigen Werbespots für Hakka-Drei-Tassen-Ente, optimiert für die Videogenerierung mit Gemini Omni.
+
+#### 📝 Prompt
+
+```
+[Allgemeine Szeneneinstellung] 10 Sekunden, vertikal 9:16. Realistischer High-End-Food-Werbespot, dieselbe warm getönte Hakka-Küche, derselbe alte hölzerne Arbeitstisch, derselbe schwarze Eisentopf, dieselbe ganze Ente mit gleichbleibender Größe und Erscheinung. Licht von links durch das Fenster, geringe Schärfentiefe, realistische Lebensmitteltextur, dezenter Dampf und natürlicher Ölglanz. Langsame und stetige Kamerabewegung, primär kontinuierliche Aufnahmen innerhalb der Segmente. Nur natürliches Umgebungsgeräusch beim Kochen, keine generierte Erzählung oder Musik. [Allgemeine negative Einschränkungen] Kein Text, keine Untertitel, Logos, Verpackungen, irrelevanten Utensilien oder plötzlich hinzugefügte Beilagen; keine redundanten Gliedmaßen, Fingerdeformitäten, Zutatenverdopplung, Verformung des Kochgeschirrs, schmelzende Lebensmittel oder sofortiges Garen. Behalten Sie normale Kochvorgänge und ein Gefühl für Gewicht bei. Segment 1: Vorstellung der Zutaten Eine gesäuberte ganze Ente wird auf denselben hölzernen Arbeitstisch gelegt, zusammen mit drei kleinen Schalen mit Reiswein, Sojasauce und Kandiszuckerwasser sowie Ingwerscheiben und Frühlingszwiebelstücken. Beginnend mit einer Nahaufnahme trocknet eine Hand die Entenhaut sanft mit Küchenpapier ab. Die Kamera fährt langsam vor und zeigt die Textur der Entenhaut und die Qualität der Sauce. Schließlich wird der Entenkörper stetig angehoben und in Richtung des nahegelegenen Eisentopfs bewegt, um den Aktionsübergang für das nächste Segment zu erleichtern. Behalten Sie den frischen/rohen Zustand bei, keine vorzeitige Färbung oder Textur von gekochtem Fleisch. Segment 2: Anbraten und Hinzufügen der Sauce Im selben schwarzen Eisentopf wird die ganze Ente gleichmäßig goldbraun angebraten, umgeben von Ingwerscheiben, Frühlingszwiebelstücken und einer kleinen Menge Entenfett. Ein Pfannenwender stützt den Entenkörper stetig ab und zeigt winzige Blasen vom Anbraten am Topfboden, dann langsam den vorbereiteten Reiswein, die Sojasauce und das Kandiszuckerwasser hinzufügen. Die Kamera bewegt sich von einer Nahaufnahme des Topfrands zu einer Nahaufnahme der Entenhaut; die Sauce kocht beim Kontakt mit dem heißen Topf natürlich auf. Endet mit dem goldenen Entenkörper und der frisch kochenden Sauce. Lassen Sie den Entenkörper nicht sofort tiefrot werden und lassen Sie die Flüssigkeit nicht in Luft auflösen. Segment 3: Schmoren und Übergießen Fortsetzung mit demselben Kochgeschirr und derselben Szene. Die ganze Ente schmort bei schwacher Hitze in der Sauce, die Haut zeigt allmählich eine feuchte Sojasaucenfarbe. Eine Hand verwendet einen langstieligen Löffel, um den ursprünglichen Saft aus dem Topf zu schöpfen und ihn langsam über den Rücken der Ente zu träufeln; die Sauce fließt an der Haut entlang und tropft zurück in den Topf. Folgen Sie der Übergießaktion mit einer seitlichen Makroaufnahme, die realistischen Dampf, sanftes Köcheln und den Glanz der Entenhaut hervorhebt. Endet mit dem intakten Entenkörper, um eine Referenz für die finale Anrichte-Aufnahme zu bieten. Kein heftiges Kochen, kein Entenfleisch, das abfällt oder sich verformt. Segment 4: Produktpräsentation Auf demselben Küchen-Arbeitstisch wird die gehackte Drei-Tassen-Ente ordentlich angerichtet, die Haut ist rot und glänzend, und die Fleischstücke behalten realistische Querschnitte und Schichten bei. Zeigen Sie zuerst die Hautoberfläche aus einer Nahaufnahme in niedriger Perspektive, dann träufeln Sie langsam den konzentrierten ursprünglichen Saft mit einem Löffel darüber, wobei die Sauce natürlich haftet. Schließlich nimmt ein Paar Stäbchen ein Stück Entenfleisch mit Haut auf, die Kamera nähert sich langsam und fokussiert auf die Details der Entenhaut, die Fleischqualität und die Saucenbeschichtung, mit einer weichen Hintergrundunschärfe. Fügen Sie keine neuen Dekorationen, Reis oder ein zweites Gericht hinzu; kein übertriebenes käseartiges Ziehen. [Voiceover-Skript] Authentische Hakka-Drei-Tassen-Ente beginnt mit einer guten Ente. Waschen und trocknen Sie die frische Ente; blanchieren Sie sie nicht, um den authentischsten Entenduft zu bewahren. Dünsten Sie Ingwer- und Frühlingszwiebelstücke an, bis sie duften, braten Sie die ganze Ente im Topf an, um überschüssiges Fett auszulassen. Von beiden Seiten goldbraun anbraten, dann Reiswein, Sojasauce und Kandiszuckerwasser hinzufügen. Die Sauce zum Kochen bringen, dann 45 Minuten bei schwacher Hitze schmoren. Zwischendurch wenden und kontinuierlich übergießen, damit die Aromen von Reiswein, Sojasauce und Süße gleichmäßig in das Fleisch eindringen. Zum Schluss die Hitze erhöhen, um den ursprünglichen Saft einzudicken, bis die Entenhaut rot und glänzend ist und die Sauce am Körper haftet. Vor dem Hacken leicht abkühlen lassen, dann den ursprünglichen Saft darüber träufeln – das ist die milde und geschmackvolle Hakka-Drei-Tassen-Ente. [Synthese-Befehl] 'Verwenden Sie die Food-Commercial-Production-Skill, führen Sie die Videos in der Reihenfolge 1, 2, 3, 4 zusammen. Verwenden Sie den bestätigten Originaltext für das Voiceover, generieren Sie ein kontinuierliches Doubao-Voiceover in einem Durchgang. Ziel: 40 Sekunden, 1080x1920, 24fps, behalten Sie das originale Video-Umgebungsgeräusch in geringer Lautstärke bei, Ausgabe als MP4, Keyframe-Prüfbilder und Verifizierungsbericht.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094273910191878144/img/aWZXSJOTgY7v85_q.jpg" width="600" alt="Video-Ad-Prompts für Hakka-Drei-Tassen-Ente">
+
+**[🎬 Video ansehen →](https://x.com/7998l201/status/2094274092757385382)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Quelle:** [Link](https://x.com/7998l201/status/2094274092757385382) | **Veröffentlicht:** Aug 31, 2026
 
 ---
 ### Filmischer Werbespot für Kaffee-Schokolade
@@ -2475,124 +2598,6 @@ Filmischer Sommergetränke-Werbespot für FIZZI Sparkling Tonic — Grapefruit, 
 **Autor:** [Sharon Riley](https://x.com/Just_sharon7) | **Quelle:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Veröffentlicht:** Jul 23, 2026
 
 ---
-### Cinematisches japanisches Schul-Drama
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender Video-Generierungs-Prompt für Gemini Omni, der eine detaillierte Highschool-Drama-Szene mit spezifischen Kamerabewegungen, Dialogen und atmosphärischen Effekten erstellt.
-
-#### 📝 Prompt
-
-```
-[SZENE & KAMERABEWEGUNG] Cinematisches japanisches Highschool-Drama. Die Kamera beginnt mit einer weiten Vogelperspektive von oben auf einen hellen Flur, der in goldenes Nachmittagslicht getaucht ist. Die Kamera zoomt dann sanft heran, senkt den Winkel, geht in ein dynamisches Seitenprofil über und endet schließlich in einer mittleren Nahaufnahme der Gesichter und Oberkörper der Charaktere. [AKTION & CHARAKTERE] Eine selbstbewusste Schülerin mit blonden Strähnen und schwarzem Nagellack tritt vor und legt sanft ihre Hand auf die Wand neben einer ordentlichen, schüchternen Klassensprecherin mit runder Brille. Die Klassensprecherin hält ihre Bücher fest umklammert und errötet leicht vor Überraschung. Rosa Sakura-Blütenblätter und Haare wehen sanft durch den Rahmen, getragen vom warmen Wind, der durch die offenen Fenster weht. [SFX & AUDIO-EFFEKTE] Sanfter Umgebungswind und leises Rascheln der Sakura-Blütenblätter → Leises Geräusch einer Hand an der Wand → Sanftes, überraschtes Keuchen → Ruhiger, subtiler Herzschlag-Soundeffekt. [JAPANISCHER DIALOG] - Selbstbewusstes Mädchen (neckender, aber sanfter Tonfall): „Hey, Klassensprecherin... was ist los? Dein Gesicht ist ein bisschen rot?“ (Nee, Iinchou... doushita no? Kao ga sukoshi akai yo?) - Klassensprecherin (verlegen, aber sanfter Tonfall): „Eh...! Ah, du bist zu nah... warte...“ (Ehh...! A, chikai desu... chotto...) [STIL & ÄSTHETIK] Fotorealistischer japanischer Jugend-Spielfilm-Stil, cinematische Beleuchtung, atmosphärische Staubpartikel, geringe Schärfentiefe, hoher Fokus, 8k-Auflösung, 60fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080151806152482816/img/DzNNE11EyiPsrErK.jpg" width="600" alt="Cinematisches japanisches Schul-Drama">
-
-**[🎬 Video ansehen →](https://x.com/ngoctramtp/status/2080152132133474497)**
-
-**Autor:** [Ciara | Yuri Cinematic](https://x.com/ngoctramtp) | **Quelle:** [Link](https://x.com/ngoctramtp/status/2080152132133474497) | **Veröffentlicht:** Jul 23, 2026
-
----
-### Bewegungseinschränkungen für Zug und Figur trainieren
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Eine präzise Anweisung für Gemini Omni, um eine Figur zu animieren, die eine Modelleisenbahn beobachtet, unter Einhaltung strenger Richtungs- und Kameravorgaben.
-
-#### 📝 Prompt
-
-```
-Bewege die Person und die Modelleisenbahn.
-- Der Zug darf sich nur vorwärts bewegen; eine Rückwärtsbewegung ist untersagt.
-- Die Person soll sich vorwärts bewegen, während sie den Zug betrachtet; eine Rückwärtsbewegung ist untersagt.
-- Wechsle nicht die Kameraeinstellung.
-- Füge keine Züge oder Formationen hinzu, die nicht im Originalbild enthalten sind.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="Bewegungseinschränkungen für Zug und Figur trainieren">
-
-**[🎬 Video ansehen →](https://x.com/uso800railway/status/2079923166248644727)**
-
-**Autor:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **Quelle:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **Veröffentlicht:** Jul 22, 2026
-
----
-### Prompt zum Ersetzen von Videoobjekten
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein spezifischer Prompt für Gemini Omni Flash, der darauf ausgelegt ist, ein Objekt in einem Video durch eine Katze aus einem Referenzbild zu ersetzen und dabei die Szenenkonsistenz zu wahren.
-
-#### 📝 Prompt
-
-```
-Bearbeite das Eingabevideo. Ersetze den Hamster durch die Katze aus <IMAGE_REF_0> und stimme das Aussehen sowie die Identität der Katze ab. Wende den visuellen Stil von <IMAGE_REF_1> auf das Erscheinungsbild der Katze an (Fell, Farben, Rendering-Stil). Behalte die ursprüngliche Bewegung, das Timing, die Kameraführung und den Hintergrund bei. 
-Lasse alles andere unverändert. Durchgehende Aufnahme, keine Szenenschnitte.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Prompt zum Ersetzen von Videoobjekten">
-
-**[🎬 Video ansehen →](https://x.com/nicegen_ai/status/2079554954638033066)**
-
-**Autor:** [NiceGen.ai](https://x.com/nicegen_ai) | **Quelle:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Veröffentlicht:** Jul 21, 2026
-
----
-### Himalayan Honey Kinematische Drohnenwerbung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender, im JSON-Format gehaltener Prompt für einen rasanten, kinematischen Drohnen-Werbespot, der Honigverpackungen vor der Kulisse des Himalayas in Szene setzt.
-
-#### 📝 Prompt
-
-```
-{
-  "description": "Eine ultraschnelle, kinematische Drohnenaufnahme beginnt hoch über den majestätischen, schneebedeckten Gipfeln des Himalayas bei goldenem Sonnenaufgang. Die Kamera stürzt rasant durch üppig grüne Täler, kristallklare Flüsse und nebelverhangene Kiefernwälder, beschleunigt, während sie zwischen hoch aufragenden Bäumen hindurchrast und über kaskadierende Wasserfälle hinweggleitet. Das Tempo verlangsamt sich allmählich und geht in eine friedliche Waldlichtung über, die in warmes Morgenlicht getaucht ist. Die Kamera gleitet auf einen moosbewachsenen Stein zu, auf dem ein makelloses, versiegeltes Dabur Honey Glas mit seiner authentischen Verkaufsverpackung elegant als Hauptprodukt platziert ist. Die Aufnahme endet mit einer erstklassigen kinematischen Nahaufnahme, die den satten, goldenen Honig im Inneren des transparenten Glases hervorhebt, während das echte Produktetikett und das Verpackungsdesign beibehalten werden. Keine zusätzlichen Branding-Elemente, schwebenden Grafiken oder zusätzlicher Text.",
-  "style": "hochwertiger, kinematischer, hyperrealistischer Natur-Werbespot mit luxuriöser Produktfotografie",
-  "camera": "schneller FPV-Drohnenflug mit Übergang zu einer stabilisierten kinematischen Dolly-Fahrt und langsamer, orbitaler Makro-Produktpräsentation",
-  "lighting": "warmes, goldenes Sonnenaufgangslicht mit natürlichen Lens Flares, volumetrischen Sonnenstrahlen durch das Blätterdach des Waldes, endend mit weichem, diffusem Hauptlicht, das das Glas und den goldenen Honig betont",
-  "environment": "majestätische Himalaya-Berge, üppige indische Waldtäler, unberührte Flüsse, kaskadierende Wasserfälle, dichte Kiefernwälder und eine ruhige, moosbewachsene Waldlichtung mit reichhaltigen natürlichen Texturen",
-  "elements": [
-    "schneebedeckte Himalaya-Gipfel",
-    "üppig grüne Täler",
-    "kristallklare Flüsse",
-    "nebelverhangene Kiefernwälder",
-    "kaskadierende Wasserfälle",
-    "moosbewachsener Steinsockel",
-    "authentisches, versiegeltes Dabur Honey Glas mit originaler Verkaufsverpackung",
-    "subtile Bienen und Schmetterlinge",
-    "Morgentau",
-    "sanft ziehender Nebel"
-  ],
-  "motion": "extrem schneller Luftabstieg und FPV-Waldflug während der ersten 6 Sekunden, gefolgt von einem eleganten Zeitlupengleiten, einer subtilen Umlaufbahn und einem sanften Heranzoomen auf das Produkt für die letzten 4 Sekunden",
-  "duration": "10 Sekunden",
-  "ending": "Das authentische Dabur Honey Glas bleibt perfekt zentriert auf dem moosbewachsenen Stein, während die Kamera langsam kreist und mit einer erstklassigen Makro-Nahaufnahme des Etiketts und des leuchtend goldenen Honigs im Inneren des Glases endet.",
-  "text": "kein",
-  "keywords": [
-    "16:9",
-    "Premium-Werbespot",
-    "kinematischer Drohnenflug",
-    "FPV",
-    "hyperrealistisch",
-    "luxuriöse Produktpräsentation",
-    "authentische Dabur Honey Verpackung",
-    "Honigglas",
-    "goldener Sonnenaufgang",
-    "indische Naturlandschaft",
-    "Makro-Produktaufnahme",
-    "kein Text",
-    "keine zusätzlichen Logos"
-  ]
-}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Himalayan Honey Kinematische Drohnenwerbung">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2079454972098609447)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Veröffentlicht:** Jul 21, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -2645,6 +2650,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-01T03:40:51.870Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-01T09:10:55.830Z</sub>
 
 </div>

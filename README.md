@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **224** |
+| 📝 Total Prompts | **228** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-01** |
 
@@ -56,30 +56,153 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Chinese Landmark Selfie Hyperlapse
+### Steamed Riverside Fish Video Ad Prompts
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
 
-> A video generation prompt for Gemini Omni that creates a cinematic hyperlapse of a character visiting multiple Chinese landmarks while maintaining facial consistency.
+> A complete set of multi-segment video prompts for generating a professional, realistic 40-second culinary advertisement for steamed fish using Gemini Omni.
 
 #### 📝 Prompt
 
 ```
-Create a 10-second selfie hyperlapse using the uploaded character, visiting 20 Chinese landmarks with a hard cut on each beat. Maintain exactly the same face throughout. Wide-angle selfie stick perspective, with a different local-style outfit for each location. High-definition with rich cinematic color grading.
+General Requirements: The same fresh Wanlu Lake freshwater river fish, approximately 600-750g. The fish body is laterally compressed, naturally oval-shaped, with fine silver-gray scales, complete head, tail, and fins, and a realistic body shape. The head always faces the left side of the frame, and the tail faces the right; the same white oval steamed fish plate is used throughout. The fish's length, belly width, head shape, incision positions, and plate size must not change. Raw state: silver-gray scales, firm meat. Cooked state: skin intact, meat changes from translucent to natural warm white, back meat shows clear petal-like texture. Final product: tender meat, clear juices, surface with only a moderate amount of hot oil luster, not soaked in heavy oily sauce. No text, subtitles, brands, watermarks, interfaces, rice, other dishes, or irrelevant tableware. Segment 1 (0-10s) | Preparation: Generate a 10s, vertical 9:16 realistic food commercial footage of steamed river fish. Scene: clean Chinese kitchen, warm natural side lighting on a log cutting board. Subject: fresh freshwater river fish, descaled, gutted, cleaned, 600-750g. Head faces left, tail right. 0-3s: Camera moves slowly from tail to head, macro shots of scales, moist surface and firm body. Only small water droplets, no blood/organs. 3-5s: Chef uses paper towel to pat dry. Hand provides scale reference. 5-8s: One hand holds the fish, the other makes 2-3 shallow diagonal incisions. Blade makes real contact. 8-10s: Lightly sprinkle salt, rub evenly. Place in white oval plate. Cinematic food photography, macro lens, shallow depth of field. Avoid: Sea fish, bass, salmon, tuna; body size changes; blood/organs; cut-off heads/tails; clipping; text/watermarks. Segment 2 (10-20s) | Aromatics: 10s vertical 9:16 footage, continuing from Segment 1. Maintain head direction, scales, incisions, and plate scale. 0-3s: Chef lifts fish to place ginger and scallion underneath. 3-6s: Add ginger to belly and incisions. Restrained amount of garnish. 6-8s: Macro shot of raw details. 8-10s: Plate placed into stainless steel steamer. Real, quiet movement. Avoid: Excessive spices, chili, garlic, herbs; flying ingredients; flipping fish; premature cooking; fingers clipping. Segment 3 (20-30s) | Steaming: 10s vertical 9:16 footage, continuing from Segment 2. 0-2s: Water boiling, lid closed. Realistic steam. 2-5s: Time-lapse representation of steaming through lighting changes. 5-7s: Lid opened, steam dissipates to reveal cooked fish. Meat turned warm white, incisions slightly open showing petal-like texture. 7-10s: Plate removed with heat-resistant gloves, water drained, wilted garnish removed. Avoid: Broken skin; shrinkage/expansion; raw meat; frying marks; milky soup; steam blocking food; bare hands on hot plates. Segment 4 (30-40s) | Hero Shot: 10s vertical 9:16 high-end commercial footage, continuing from Segment 3. Final product maintains full shape, warm white petal-like meat texture. 0-2s: Fresh shredded scallions placed on back. 2-5s: Hot peanut oil poured over scallions with slight sizzle and steam. Thin luster, no heavy smoke. 5-7s: Soy sauce added to the edge of the plate. 7-10s: Chopsticks separate a petal of meat. Tender, moist, petal structure. High-end culinary texture, warm side light, delicate highlights, soft blurred background. Avoid: Frying/baking; blackened skin; chili oil; heavy sauce; tofu-like texture; chopsticks clipping; extra side dishes or watermarks.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094290992283140096/img/MaogORzgUA2lkwi6.jpg" width="600" alt="Chinese Landmark Selfie Hyperlapse">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094595644879142913/img/mt9DvBLaeLJ2WDNz.jpg" width="600" alt="Steamed Riverside Fish Video Ad Prompts">
+
+**[🎬 Watch Video →](https://x.com/7998l201/status/2094595920692478091)**
+
+**Author:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2094595920692478091) | **Published:** Sep 1, 2026
+
+---
+### Cinematic Evian Bottle Morph Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A complex, structured prompt for a seamless 10-second cinematic shot showing water droplets morphing into a glass Evian bottle in a misty alpine valley.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "single continuous unbroken shot, no scene cuts",
+    "composition": "starts ultra-wide on a misty alpine waterfall and stream, follows water droplets rising into an organized mid-air swirl, ends on a centered floating Evian bottle close-up",
+    "lens": "telephoto for the mountain landscape, then 35mm for the product reveal",
+    "frame_rate": "24fps cinematic",
+    "camera_movement": "slow upward tilt following the rising droplets, then a smooth inward dolly as they lock into bottle shape, hold steady on the hovering product"
+  },
+  "timeline": {
+    "0-3s": "Ultra-wide misty alpine valley at dawn. Crystal-clear waterfall cascading over mossy rocks into a shallow stream. Soft blue-hour light, low-hanging fog, water droplets on ferns.",
+    "3-7s": "Hundreds of water droplets lift from the stream surface and spin in slow, elegant, organized spirals. They interlock mid-air into the exact silhouette of a premium glass water bottle. Subtle particle refraction and glowing droplet edges.",
+    "7-10s": "The water form pulses once and morphs into a real Evian glass bottle hovering weightlessly, centered in frame. Hold on the product. Cool rim light and faint mist."
+  },
+  "subject": {
+    "description": "hundreds of crystal-clear water droplets rising and spinning in elegant spirals to form a premium glass-bottle silhouette",
+    "props": "final Evian glass bottle formed from swirling droplets, then transitioning into real branded packaging while hovering mid-air"
+  },
+  "scene": {
+    "location": "high-alpine valley with waterfall and stream",
+    "time_of_day": "early dawn blue hour, soft cool light, lingering mist",
+    "environment": "fresh mountain air, gentle water flow, moss-covered rocks, scattered ferns"
+  },
+  "visual_details": {
+    "action": "droplets lift, rotate in organized spirals, lock into bottle outline, pulse, then morph into finished Evian packaging suspended in space",
+    "special_effects": "water-particle animation, slow-motion refraction, mid-air material morph, subtle levitation shimmer and mist trails"
+  },
+  "cinematography": {
+    "lighting": "cool directional dawn light, glowing droplet edges, silver-blue rim light on the floating bottle",
+    "color_palette": "crystal blues, silver whites, moss greens, soft greys",
+    "tone": "pure, refreshing, premium elegance"
+  },
+  "audio": {
+    "music": "soft ambient piano with delicate string pads and subtle water-inspired chimes",
+    "ambient": "distant waterfall, gentle stream flow, morning birds",
+    "sound_effects": "droplet-swirl build-up, locking snap when the form completes, faint crystalline hum under levitation",
+    "mix": "airy, open, nature-forward with a clean musical center"
+  },
+  "constraints": {
+    "dialogue": "none",
+    "voiceover": "none",
+    "on_screen_text": "none",
+    "captions": "none",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094395253038149632/img/O70UkRndlbm0U6mU.jpg" width="600" alt="Cinematic Evian Bottle Morph Animation">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2094395474048643382)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2094395474048643382) | **Published:** Aug 31, 2026
+
+---
+### Hakka Stuffed Bitter Melon Food Ad Prompts
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A sequence of professional video prompts for Gemini Omni to create a realistic 37-second Hakka-style stuffed bitter melon cooking advertisement.
+
+#### 📝 Prompt
+
+```
+[Visual Consistency & Continuity Requirements] Produce a high-end realistic food commercial for 'Hakka Stuffed Bitter Melon', vertical 9:16, warm natural kitchen lighting, macro shots of real ingredients, clear details, restrained steam and oil sheen. Use the same set of 8 bitter melon rings throughout the film, each approximately 2.5–3 cm thick with consistent diameter and wall thickness. The bitter melon skin should maintain its natural bumpy texture and must not turn into bell pepper, cucumber, or zucchini rings. The meat filling consists of 30% fat and 70% lean pork with minced shiitake mushrooms, retaining small hand-chopped particles. The raw filling is naturally pink, while the cooked filling is light brown with a golden-seared surface; color changes across stages should match the real cooking process. Each bitter melon ring is filled with meat, slightly plump at both ends, with the melon and filling tightly bonded. When flipping, plating, or picking up, the two move as a single unit; the filling must not fall out or penetrate the melon walls. Consistently use the same wooden cutting board, the same stainless steel mixing bowl, the same black flat-bottom pan, and the same white shallow round plate. Ingredient size, tool colors, and light direction must remain continuous. Do not generate text, subtitles, logos, watermarks, UIs, or voiceovers. If audio is generated, keep only natural sounds of chopping, searing, and boiling; narration and music will be added in post-production. Segment 1: Slicing and Coring Generate 10 seconds, vertical 9:16 realistic food commercial footage for 'Hakka Stuffed Bitter Melon'. 0-3s: Two washed fresh bitter melons on a wooden board, natural emerald green with clear bumps. Fresh pork, shiitake mushrooms, and small amounts of green onion, ginger, and garlic are placed nearby; background is tidy. 3-6s: A chef uses a Chinese cleaver to cut the bitter melon into rounds about 2.5–3 cm thick. The blade makes real contact with the ingredient; cuts are smooth, and rings are thick, not sliced thin. 6-9s: A small spoon rotates along the inner wall of the rings, scooping out the seeds and white pith, gently scraping away residual membrane. The melon wall remains intact and must not be broken or automatically become hollow. 9-10s: Show the selected set of 8 hollow bitter melon rings arranged neatly on a prep tray. The camera zooms in on one, clearly showing the skin, wall, and hollow structure. Use warm side lighting, slow camera pushes, and macro switching. Focus on where the knife and spoon touch the ingredients; avoid motion blur and overexposure. [Avoid] Pepper shapes, cucumber shapes, thin slices, broken rings, residual seeds, auto-hollowing, ingredients appearing out of thin air, finger clipping, subtitles, watermarks. Segment 2: Mixing and Hand-Stuffing Generate 10 seconds, vertical 9:16 continuous production footage using the same 8 rings from the previous segment. 0-2s: The hollow rings on the prep tray enter the foreground, camera slowly pans to a nearby stainless steel bowl. The bowl contains hand-chopped pork filling, shiitake bits, and aromatics; the meat has natural particles, not a smooth paste. 2-4s: Use natural quick cuts to show the addition of soy sauce, oyster sauce, pepper, egg white, and starch, stirring in one direction. The filling gradually binds but small pork particles and dark shiitake bits are still visible. 4-8s: One hand holds a bitter melon ring while the other uses a small spoon to fill it with meat in stages. Fill the bottom first, then press against the inner walls, and finally top off the top. The filling fits tightly against the wall with no large gaps; both ends are slightly plump but not piled into high meatball shapes. 8-10s: Natural edit to the set of 8 already stuffed bitter melon rings. The filling volume is consistent, and the rings maintain their original thickness and diameter. End by moving the tray toward the stove. Alternate between close-ups and overhead shots, focusing on the spoon pressing the meat. Warm soft light, realistic hand movements, ingredient surfaces are not overly glossy. [Avoid] Meat penetrating walls, independent meatballs, hollow filling, overflow, deformed rings, uniform paste, sauce staining everything black, sudden extra rings, deformed fingers, subtitles, watermarks. Segment 3: Searing and Braising Generate 10 seconds, vertical 9:16 searing and braising footage. 0-3s: The same black flat-bottom pan heats up with a thin layer of peanut oil. Place the stuffed bitter melons from the previous segment flat in the pan, meat side down, in a single layer without overlapping. Small oil bubbles and natural searing sounds appear at the contact points. 3-5s: The chef uses a thin spatula to support a bitter melon ring fully from the bottom, slowly flipping it to reveal a golden-brown seared meat surface, then sears the other side. The ring and meat must flip together; the meat cannot be left in the pan while only the ring moves. 5-7s: Add a small amount of water or broth along the edge of the pan, forming a shallow layer that does not submerge the bitter melon. Cover with the same lid. 7-10s: Use natural time jumps to represent the braising process rather than instant cooking. Upon revealing, the bitter melon has turned a soft yellow-green, the wall is soft but not mushy, and the meat is fully cooked, remaining plump with a golden sear. Warm side light, mid-shots transitioning to macro, emphasizing bubbles, the seared surface, and natural steam. Steam should not obscure all ingredients. [Avoid] Boiling in a large pot, deep frying, charred surfaces, mushy melon, thinning rings, meat falling out, raw pink meat, looking raw after braising, pan color changes, quantity changes, subtitles, watermarks. Segment 4: Glazing and Plating Close-up Generate 10 seconds, vertical 9:16 finished commercial shots for a 7-second final edit. 0-3s: Add seasoning and starch water to the remaining pan juices, gently swirling the pan to create a clear, light-brown thin glaze. The glaze lightly coats the ingredients without becoming a thick gel. 3-6s: Use a spatula to support the stuffed melons from the bottom, completing the plating via natural edits. Use the same white shallow round plate; 8 rings arranged in a single layer, seared meat side up, not stacked in a tower. 6-8s: A small spoon evenly drizzles a small amount of thin glaze over the melon and meat, creating a thin luster. Skin texture, cooked meat particles, and shiitake bits remain clearly visible and not covered by thick sauce. 8-10s: A pair of wooden chopsticks gently picks up one whole stuffed bitter melon from the sides. The ring and meat remain bonded; the ingredient has real weight, and a small amount of glaze naturally drips back into the plate. An empty spot remains on the plate and does not auto-refill. The camera slowly zooms in, focusing on the soft yellow-green wall, golden meat, and clear glaze. Soft blurred background, lingering on the lifted final product. [Avoid] Meat falling off, broken rings, crushed meat, tofu texture, thick gel glaze, excessive oil, dark sauce, auto-refilling ingredients, extra garnishes, rice, subtitles, watermarks. Voiceover Style Prompt: Chinese Mandarin food commercial narration, natural and warm voice, clear expression, friendly homey feel. Steady pace, slight pauses at the end of sentences. Emphasize 'first fresh then sweet', 'each one plump', 'tender and juicy', and 'taste of home'. No exaggerated sales pitch, no mechanical word-by-word reading. Common Problem Corrections: Meat falling out: The bitter melon ring and the internal meat filling are tightly bonded, moving as a single food unit. The spatula supports the entire bottom when flipping; the filling must not slide out, fall, or pass through the melon wall when picked up. Bitter melon looks overcooked: The bitter melon is soft and cooked but the wall maintains its full thickness and ring structure. The surface is soft and moist, not collapsed, shattered, or melted. Meat looks like tofu: Cooked meat must have small hand-chopped particles, shiitake bits, and a natural uneven surface; the seared side is golden-brown, not a uniform white, smooth, textureless block or paste. Glaze is too thick: The glaze is a clear, light-brown thin sauce with fluidity, only lightly adhering to the surface; melon skin and meat texture should still be visible, without appearing as a gelatinous thick paste.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094363615294038016/img/dRoj3oTNX64C-cnZ.jpg" width="600" alt="Hakka Stuffed Bitter Melon Food Ad Prompts">
+
+**[🎬 Watch Video →](https://x.com/7998l201/status/2094363707988164831)**
+
+**Author:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2094363707988164831) | **Published:** Aug 31, 2026
+
+---
+### Cinematic Selfie Hyperlapse Across China Landmarks
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed video generation prompt for Gemini Omni to create a cinematic 10-second hyperlapse featuring a consistent character visiting various Chinese landmarks with outfit changes.
+
+#### 📝 Prompt
+
+```
+Create a 10-second selfie hyperlapse using the uploaded character, visiting 20 Chinese landmarks with a hard cut at every beat. Strictly maintain the same face throughout. Use a wide-angle selfie stick perspective and change into local-style clothing at each location. High-definition with rich cinematic color grading.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094290992283140096/img/MaogORzgUA2lkwi6.jpg" width="600" alt="Cinematic Selfie Hyperlapse Across China Landmarks">
 
 **[🎬 Watch Video →](https://x.com/johnAGI168/status/2094291245879160940)**
 
 **Author:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2094291245879160940) | **Published:** Aug 31, 2026
 
 ---
-### Cinematic Coffee Chocolate Commercial
+### Hakka Three-Cup Duck Video Ad Prompts
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Detailed sequential prompts for generating a high-end 40-second Hakka Three-Cup Duck advertisement, optimized for Gemini Omni video generation.
+
+#### 📝 Prompt
+
+```
+[General Scene Setting] 10 seconds, vertical 9:16. Realistic high-end food commercial, same warm-toned Hakka kitchen, same old wooden workstation, same black iron pot, same whole duck with stable size and appearance. Left-side window light, shallow depth of field, realistic food texture, restrained steam and natural oil sheen. Slow and steady camera movement, primarily continuous shots within segments. Only natural cooking ambient sound, no narration or music generated. [General Negative Constraints] No text, subtitles, logos, packaging, irrelevant utensils, or suddenly added side dishes; no redundant limbs, finger deformities, ingredient duplication, cookware deformation, food melting, or instant cooking. Maintain normal cooking actions and sense of weight. Segment 1: Ingredient Establishment A cleaned whole duck is placed on the same wooden workstation, with three small bowls of rice wine, soy sauce, and slab sugar water, along with ginger slices and scallion segments. Starting with a close-up, a hand gently dries the duck skin surface with clean kitchen paper. The camera slowly advances, showing the duck skin texture and sauce quality. Finally, the duck body is steadily lifted and moved towards the nearby iron pot to facilitate action transition for the next segment. Maintain fresh/raw state, no premature coloring or cooked meat texture. Segment 2: Searing and Adding Sauce In the same black iron pot, the whole duck is seared to an even golden brown, surrounded by ginger slices, scallion segments, and a small amount of duck fat. A spatula steadily supports the duck body, showing tiny bubbles from searing against the pot, then slowly pour in the prepared rice wine, soy sauce, and slab sugar water sauce. The camera moves from a close-up of the pot edge to a close-up of the duck skin; the sauce boils naturally upon contact with the hot pot. Ends on the golden duck body and the freshly boiling sauce. Do not let the duck body turn deep red instantly, and do not let the liquid disappear into thin air. Segment 3: Simmering and Basting Continuing with the same cookware and scene. The whole duck is simmering in the sauce over low heat, the skin gradually showing a moist soy-sauce color. A hand uses a long-handled spoon to scoop up the original juice from the pot and slowly drizzles it over the back of the duck; the sauce flows along the skin and drops back into the pot. Follow the basting action with a side macro shot, highlighting realistic steam, gentle boiling, and the luster of the duck skin. Ends with the whole duck body intact to provide a reference for the final plating shot. No violent boiling, no duck meat falling off or deforming. Segment 4: Product Showcase On the same kitchen workstation, the chopped Three-Cup Duck is neatly plated, the skin is red and bright, and the meat pieces retain realistic cross-sections and layers. First, show the skin surface from a low-angle close-up, then slowly drizzle the concentrated original juice with a spoon, the sauce adhering naturally. Finally, a pair of chopsticks picks up a piece of duck meat with skin, the camera slowly approaches, focusing on the details of the duck skin, meat quality, and sauce coating, with a soft background blur. Do not add new decorations, rice, or a second dish; no exaggerated cheese-like pulling. [Voiceover Script] Authentic Hakka Three-Cup Duck starts with a good duck. Wash and dry the fresh duck; do not blanch it to preserve the most authentic duck fragrance. Sauté ginger and scallion segments until fragrant, sear the whole duck against the pot to render excess fat. Sear until golden on both sides, then add rice wine, soy sauce, and slab sugar water. Bring the sauce to a boil, then simmer on low heat for 45 minutes. Turn and baste continuously midway, letting the aromas of rice wine, soy sauce, and sweetness permeate the meat evenly. Finally, turn up the heat to thicken the original juice until the duck skin is red and bright and the sauce clings to the body. Allow to cool slightly before chopping, then drizzle back the original juice—this is the mellow and flavorful Hakka Three-Cup Duck. [Synthesis Command] 'Use the Food Commercial Production Skill, merge videos in the order of 1, 2, 3, 4. Use the confirmed original text for the voiceover, generate a continuous Doubao voiceover in one go. Target 40 seconds, 1080x1920, 24fps, retain low-volume original video ambient sound, output MP4, keyframe check images, and verification report.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094273910191878144/img/aWZXSJOTgY7v85_q.jpg" width="600" alt="Hakka Three-Cup Duck Video Ad Prompts">
+
+**[🎬 Watch Video →](https://x.com/7998l201/status/2094274092757385382)**
+
+**Author:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2094274092757385382) | **Published:** Aug 31, 2026
+
+---
+### Cinematic Coffee Chocolate Bar Commercial
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A fast-paced, high-energy commercial prompt for a coffee chocolate bar featuring dramatic splashes and dynamic product reveals.
+> A high-energy cinematic commercial prompt for a coffee chocolate bar featuring dramatic splashes, macro shots, and premium gold-and-black branding.
 
 #### 📝 Prompt
 
@@ -87,7 +210,7 @@ Create a 10-second selfie hyperlapse using the uploaded character, visiting 20 C
 Create a fast-paced, cinematic commercial for Bloodline Coffee Chocolate Bar featuring dramatic chocolate splashes, flying roasted coffee beans, and dynamic close-ups. Reveal the sleek black-and-gold package, then show the bar breaking apart to expose gooey caramel and a rich chocolate interior. Showcase the product on a reflective stage under warm lighting, followed by a young man enjoying a bite as coffee beans float around him. End with the chocolate bar flying through a swirling chocolate-and-coffee vortex, transitioning to the brand logo and final tagline: “UNLEASH YOUR ENERGY.”
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2094217152052310016/img/ualHsMCVJmD521b7.jpg" width="600" alt="Cinematic Coffee Chocolate Commercial">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094217152052310016/img/ualHsMCVJmD521b7.jpg" width="600" alt="Cinematic Coffee Chocolate Bar Commercial">
 
 **[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2094217190321123331)**
 
@@ -2565,124 +2688,6 @@ Cinematic summer beverage commercial for FIZZI Sparkling Tonic — Grapefruit, h
 **Author:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Published:** Jul 23, 2026
 
 ---
-### Cinematic Japanese School Drama
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive video generation prompt for Gemini Omni that creates a detailed high school drama scene with specific camera movements, dialogue, and atmospheric effects.
-
-#### 📝 Prompt
-
-```
-[SCENE & CAMERA MOVEMENT] Cinematic Japanese high school drama scene. The camera begins with a high-angle bird's-eye wide shot looking down at a bright hallway filled with golden afternoon sunlight. The camera then smoothly zooms in and lowers its angle, transitioning into a dynamic side profile, and finally settles into a medium close-up on the characters' faces and upper bodies.  [ACTION & CHARACTERS] A confident blonde-streaked schoolgirl with black nail polish steps forward and gently places her hand on the wall beside a neat, shy class president wearing round glasses. The class president holds her books tightly, blushing slightly with surprise. Pink sakura petals and hair flutter softly across the frame in the warm wind from open windows.  [SFX & AUDIO EFFECTS] Gentle ambient wind and soft rustling sakura petals → Light wall touch sound → Soft surprised gasp → Calm, subtle heartbeat sound effect.  [JAPANESE DIALOGUE] - Confident Girl (Teasing but gentle tone): "Hey, President... what's wrong? Your face is a bit red?" (Nee, Iinchou... doushita no? Kao ga sukoshi akai yo?) - Class President (Flustered but soft tone): "Eh...! Ah, you're too close... wait..." (Ehh...! A, chikai desu... chotto...) [STYLE & AESTHETIC] Photorealistic Japanese youth live-action film style, cinematic lighting, atmospheric dust particles, shallow depth of field, high focus, 8k resolution, 60fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080151806152482816/img/DzNNE11EyiPsrErK.jpg" width="600" alt="Cinematic Japanese School Drama">
-
-**[🎬 Watch Video →](https://x.com/ngoctramtp/status/2080152132133474497)**
-
-**Author:** [Ciara | Yuri Cinematic](https://x.com/ngoctramtp) | **Source:** [Link](https://x.com/ngoctramtp/status/2080152132133474497) | **Published:** Jul 23, 2026
-
----
-### Train and Figure Motion Constraints
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A precise set of instructions for Gemini Omni to animate a figure watching a model train with strict directional and camera constraints.
-
-#### 📝 Prompt
-
-```
-Move the person and the model train.
-- The train should only move forward; backward movement is prohibited.
-- The person should move forward while looking at the train; backward movement is prohibited.
-- Do not switch cameras.
-- Do not include any trains or formations not present in the original image.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="Train and Figure Motion Constraints">
-
-**[🎬 Watch Video →](https://x.com/uso800railway/status/2079923166248644727)**
-
-**Author:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **Source:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **Published:** Jul 22, 2026
-
----
-### Video Object Replacement Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A specific prompt for Gemini Omni Flash designed to replace an object in a video with a cat from a reference image while maintaining scene consistency.
-
-#### 📝 Prompt
-
-```
-Edit the input video. Replace the hamster with the cat from <IMAGE_REF_0>,  matching the cat's appearance and identity. Apply the visual style of <IMAGE_REF_1> to the cat's look (fur, colors, rendering style).  Keep the original motion, timing, camera, and background. 
-Keep everything else the same. Continuous shot, no scene cuts.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Video Object Replacement Prompt">
-
-**[🎬 Watch Video →](https://x.com/nicegen_ai/status/2079554954638033066)**
-
-**Author:** [NiceGen.ai](https://x.com/nicegen_ai) | **Source:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Published:** Jul 21, 2026
-
----
-### Himalayan Honey Cinematic Drone Ad
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive JSON-formatted prompt for a high-speed cinematic drone commercial featuring honey packaging set against the Himalayan mountains.
-
-#### 📝 Prompt
-
-```
-{
-  "description": "An ultra-fast cinematic drone shot begins high above majestic Himalayan snow-capped mountains at golden sunrise. The camera dives rapidly through lush green valleys, crystal-clear rivers, and mist-covered pine forests, accelerating as it races between towering trees and skims above cascading waterfalls. The pace gradually slows, transitioning into a peaceful forest clearing bathed in warm morning light. The camera glides toward a moss-covered stone where a pristine, sealed Dabur Honey glass jar with its authentic retail packaging is elegantly placed as the hero product. The shot ends with a premium cinematic close-up highlighting the rich golden honey inside the transparent jar while preserving the real product label and packaging design. No additional branding elements, floating graphics, or extra text.",
-  "style": "premium cinematic hyper-realistic nature commercial with luxury product photography",
-  "camera": "high-speed FPV-style drone flythrough transitioning into stabilized cinematic dolly and slow orbital macro product reveal",
-  "lighting": "warm golden sunrise lighting with natural lens flares, volumetric sun rays through the forest canopy, ending with soft diffused key light accentuating the glass jar and golden honey",
-  "environment": "majestic Himalayan mountains, lush Indian forest valleys, pristine rivers, cascading waterfalls, dense pine forests, and a tranquil moss-covered forest clearing rich in natural textures",
-  "elements": [
-    "Himalayan snow-capped mountains",
-    "lush green valleys",
-    "crystal-clear rivers",
-    "mist-covered pine forests",
-    "cascading waterfalls",
-    "moss-covered stone pedestal",
-    "authentic sealed Dabur Honey glass jar with original retail packaging",
-    "subtle bees and butterflies",
-    "morning dew",
-    "gentle drifting mist"
-  ],
-  "motion": "extremely fast aerial descent and FPV forest flythrough during the first 6 seconds, followed by a graceful slow-motion glide, subtle orbit, and gentle push-in toward the product for the final 4 seconds",
-  "duration": "10 seconds",
-  "ending": "The authentic Dabur Honey jar remains perfectly centered on the moss-covered stone as the camera slowly orbits and finishes with a premium macro close-up of the label and glowing golden honey inside the glass jar.",
-  "text": "none",
-  "keywords": [
-    "16:9",
-    "premium commercial",
-    "cinematic drone flythrough",
-    "FPV",
-    "hyper-realistic",
-    "luxury product reveal",
-    "authentic Dabur Honey packaging",
-    "glass honey jar",
-    "golden sunrise",
-    "indian natural landscape",
-    "macro product shot",
-    "no text",
-    "no additional logos"
-  ]
-}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Himalayan Honey Cinematic Drone Ad">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2079454972098609447)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Published:** Jul 21, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2735,6 +2740,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-01T03:40:41.953Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-01T09:10:47.460Z</sub>
 
 </div>

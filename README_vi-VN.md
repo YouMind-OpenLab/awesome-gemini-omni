@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **224** |
+| 📝 Tổng số prompt | **228** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-01** |
 
@@ -56,6 +56,110 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Gợi ý video quảng cáo cá hấp ven sông
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Bộ gợi ý video đa phân đoạn hoàn chỉnh để tạo quảng cáo ẩm thực chuyên nghiệp, chân thực dài 40 giây về món cá hấp bằng cách sử dụng Gemini Omni.
+
+#### 📝 Prompt
+
+```
+Yêu cầu chung: Sử dụng cùng một loại cá sông nước ngọt hồ Vạn Lục tươi sống, trọng lượng khoảng 600-750g. Thân cá dẹt, hình bầu dục tự nhiên, vảy màu xám bạc mịn, đầu, đuôi và vây còn nguyên vẹn, hình dáng cơ thể chân thực. Đầu cá luôn hướng về phía bên trái khung hình, đuôi hướng về phía bên phải; sử dụng cùng một chiếc đĩa trắng hình bầu dục cho toàn bộ quá trình. Chiều dài, độ rộng bụng, hình dáng đầu, vị trí khứa và kích thước đĩa của cá không được thay đổi. Trạng thái sống: vảy xám bạc, thịt chắc. Trạng thái chín: da nguyên vẹn, thịt chuyển từ trong mờ sang màu trắng ấm tự nhiên, thịt phần lưng lộ rõ kết cấu như cánh hoa. Thành phẩm: thịt mềm, nước dùng trong, bề mặt chỉ có độ bóng nhẹ của dầu nóng, không bị ngập trong nước sốt dầu mỡ. Không có văn bản, phụ đề, thương hiệu, hình mờ, giao diện, cơm, các món ăn khác hoặc bộ đồ ăn không liên quan. Phân đoạn 1 (0-10s) | Chuẩn bị: Tạo đoạn phim quảng cáo ẩm thực chân thực 10 giây, dọc 9:16 về món cá sông hấp. Bối cảnh: nhà bếp kiểu Trung Quốc sạch sẽ, ánh sáng tự nhiên ấm áp từ bên cạnh chiếu lên thớt gỗ. Chủ thể: cá sông nước ngọt tươi, đã đánh vảy, bỏ nội tạng, làm sạch, 600-750g. Đầu hướng trái, đuôi hướng phải. 0-3s: Camera di chuyển chậm từ đuôi lên đầu, quay cận cảnh vảy, bề mặt ẩm và thân cá chắc. Chỉ có những giọt nước nhỏ, không có máu/nội tạng. 3-5s: Đầu bếp dùng khăn giấy thấm khô. Bàn tay làm vật tham chiếu tỷ lệ. 5-8s: Một tay giữ cá, tay kia khứa 2-3 đường chéo nông. Lưỡi dao tiếp xúc thực tế. 8-10s: Rắc nhẹ muối, xoa đều. Đặt vào đĩa trắng hình bầu dục. Quay phim ẩm thực điện ảnh, ống kính macro, độ sâu trường ảnh nông. Tránh: Cá biển, cá vược, cá hồi, cá ngừ; thay đổi kích thước cơ thể; máu/nội tạng; mất đầu/đuôi; lỗi cắt hình; văn bản/hình mờ. Phân đoạn 2 (10-20s) | Gia vị: Đoạn phim dọc 9:16 dài 10 giây, tiếp nối Phân đoạn 1. Duy trì hướng đầu, vảy, vết khứa và tỷ lệ đĩa. 0-3s: Đầu bếp nhấc cá lên để đặt gừng và hành lá bên dưới. 3-6s: Thêm gừng vào bụng và các vết khứa. Lượng gia vị vừa phải. 6-8s: Cận cảnh chi tiết nguyên liệu sống. 8-10s: Đặt đĩa vào xửng hấp inox. Chuyển động thực tế, nhẹ nhàng. Tránh: Quá nhiều gia vị, ớt, tỏi, thảo mộc; nguyên liệu bay tung tóe; lật cá; nấu chín sớm; ngón tay bị cắt hình. Phân đoạn 3 (20-30s) | Hấp: Đoạn phim dọc 9:16 dài 10 giây, tiếp nối Phân đoạn 2. 0-2s: Nước sôi, đậy nắp. Hơi nước chân thực. 2-5s: Tua nhanh quá trình hấp thông qua thay đổi ánh sáng. 5-7s: Mở nắp, hơi nước tan dần để lộ cá đã chín. Thịt chuyển sang màu trắng ấm, các vết khứa hơi mở ra lộ kết cấu như cánh hoa. 7-10s: Lấy đĩa ra bằng găng tay chịu nhiệt, chắt nước, loại bỏ hành gừng đã héo. Tránh: Da bị rách; co rút/phồng rộp; thịt sống; vết cháy xém; nước dùng đục; hơi nước che khuất món ăn; dùng tay trần chạm vào đĩa nóng. Phân đoạn 4 (30-40s) | Cảnh quay chủ đạo: Đoạn phim quảng cáo cao cấp dọc 9:16 dài 10 giây, tiếp nối Phân đoạn 3. Thành phẩm giữ nguyên hình dáng, kết cấu thịt màu trắng ấm như cánh hoa. 0-2s: Đặt hành lá thái sợi tươi lên lưng cá. 2-5s: Rưới dầu lạc nóng lên hành lá, tạo tiếng xèo nhẹ và hơi nước. Độ bóng mỏng, không có khói dày. 5-7s: Thêm nước tương vào mép đĩa. 7-10s: Đũa tách một miếng thịt. Mềm, ẩm, cấu trúc cánh hoa. Kết cấu ẩm thực cao cấp, ánh sáng bên ấm áp, điểm nhấn tinh tế, hậu cảnh mờ nhẹ. Tránh: Chiên/nướng; da bị đen; dầu ớt; nước sốt nặng; kết cấu như đậu phụ; đũa bị cắt hình; thêm món ăn kèm hoặc hình mờ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094595644879142913/img/mt9DvBLaeLJ2WDNz.jpg" width="600" alt="Gợi ý video quảng cáo cá hấp ven sông">
+
+**[🎬 Xem video →](https://x.com/7998l201/status/2094595920692478091)**
+
+**Tác giả:** [Ryan](https://x.com/7998l201) | **Nguồn:** [Link](https://x.com/7998l201/status/2094595920692478091) | **Đã xuất bản:** Sep 1, 2026
+
+---
+### Hoạt ảnh biến hình chai nước Evian đậm chất điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) phức tạp và có cấu trúc dành cho cảnh quay điện ảnh 10 giây liền mạch, mô tả các giọt nước biến hình thành chai thủy tinh Evian trong một thung lũng núi cao đầy sương mù.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10 giây",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "cảnh quay đơn liền mạch, không cắt cảnh",
+    "composition": "bắt đầu bằng góc siêu rộng tại thác nước và dòng suối trên núi cao đầy sương mù, theo chân các giọt nước bay lên tạo thành vòng xoáy giữa không trung, kết thúc bằng cận cảnh chai Evian lơ lửng ở chính giữa khung hình",
+    "lens": "ống kính tele cho phong cảnh núi non, sau đó chuyển sang 35mm để làm nổi bật sản phẩm",
+    "frame_rate": "24fps chuẩn điện ảnh",
+    "camera_movement": "lia máy chậm hướng lên trên theo các giọt nước đang bay, sau đó dolly vào trong một cách mượt mà khi chúng định hình thành chai, giữ cố định vào sản phẩm đang lơ lửng"
+  },
+  "timeline": {
+    "0-3s": "Thung lũng núi cao đầy sương mù lúc bình minh. Thác nước trong vắt đổ xuống những tảng đá phủ đầy rêu vào dòng suối nông. Ánh sáng xanh dịu nhẹ của giờ xanh (blue hour), sương mù giăng thấp, các giọt nước đọng trên lá dương xỉ.",
+    "3-7s": "Hàng trăm giọt nước bay lên từ mặt suối và xoay tròn trong những vòng xoáy chậm rãi, thanh thoát và có tổ chức. Chúng đan xen giữa không trung tạo thành hình dáng chính xác của một chai nước thủy tinh cao cấp. Hiệu ứng khúc xạ hạt tinh tế và các cạnh giọt nước phát sáng.",
+    "7-10s": "Khối nước rung động một lần rồi biến hình thành chai thủy tinh Evian thật đang lơ lửng không trọng lượng, nằm chính giữa khung hình. Giữ hình ảnh sản phẩm. Ánh sáng viền mát mẻ và làn sương mờ ảo."
+  },
+  "subject": {
+    "description": "hàng trăm giọt nước trong vắt bay lên và xoay tròn trong những vòng xoáy thanh thoát để tạo thành hình dáng chai thủy tinh cao cấp",
+    "props": "chai thủy tinh Evian hoàn thiện được tạo ra từ các giọt nước xoáy, sau đó chuyển đổi thành bao bì thương hiệu thực tế trong khi đang lơ lửng giữa không trung"
+  },
+  "scene": {
+    "location": "thung lũng núi cao với thác nước và dòng suối",
+    "time_of_day": "bình minh giờ xanh, ánh sáng dịu nhẹ mát mẻ, sương mù bao phủ",
+    "environment": "không khí núi trong lành, dòng nước chảy nhẹ nhàng, đá phủ rêu, dương xỉ mọc rải rác"
+  },
+  "visual_details": {
+    "action": "các giọt nước bay lên, xoay tròn theo vòng xoáy có tổ chức, khóa vào đường nét của chai, rung động, rồi biến hình thành bao bì Evian hoàn thiện lơ lửng trong không gian",
+    "special_effects": "hoạt ảnh hạt nước, khúc xạ chuyển động chậm, biến hình vật chất giữa không trung, hiệu ứng lấp lánh khi lơ lửng và các vệt sương mờ"
+  },
+  "cinematography": {
+    "lighting": "ánh sáng bình minh định hướng mát mẻ, các cạnh giọt nước phát sáng, ánh sáng viền xanh bạc trên chai nước đang lơ lửng",
+    "color_palette": "xanh pha lê, trắng bạc, xanh rêu, xám dịu",
+    "tone": "thuần khiết, sảng khoái, sang trọng cao cấp"
+  },
+  "audio": {
+    "music": "piano ambient nhẹ nhàng với các lớp đệm dây tinh tế và tiếng chuông lấy cảm hứng từ nước",
+    "ambient": "tiếng thác nước xa xa, tiếng dòng suối chảy nhẹ nhàng, tiếng chim hót buổi sáng",
+    "sound_effects": "tiếng tích tụ của vòng xoáy giọt nước, tiếng khóa khớp khi hình dáng hoàn thiện, tiếng ngân tinh thể mờ nhạt khi lơ lửng",
+    "mix": "thoáng đãng, cởi mở, hướng về thiên nhiên với trọng tâm là âm nhạc trong trẻo"
+  },
+  "constraints": {
+    "dialogue": "không",
+    "voiceover": "không",
+    "on_screen_text": "không",
+    "captions": "không",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094395253038149632/img/O70UkRndlbm0U6mU.jpg" width="600" alt="Hoạt ảnh biến hình chai nước Evian đậm chất điện ảnh">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2094395474048643382)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2094395474048643382) | **Đã xuất bản:** Aug 31, 2026
+
+---
+### Gợi ý quảng cáo món Khổ qua nhồi thịt kiểu Khách Gia
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Chuỗi gợi ý video chuyên nghiệp dành cho Gemini Omni để tạo quảng cáo nấu ăn chân thực dài 37 giây về món khổ qua nhồi thịt kiểu Khách Gia.
+
+#### 📝 Prompt
+
+```
+[Yêu cầu về tính nhất quán và liên tục của hình ảnh] Tạo một video quảng cáo ẩm thực chân thực, cao cấp cho món 'Khổ qua nhồi thịt kiểu Khách Gia', định dạng dọc 9:16, ánh sáng bếp tự nhiên, ấm áp, các cảnh quay cận cảnh (macro) nguyên liệu thật, chi tiết sắc nét, hơi nước và độ bóng của dầu ở mức vừa phải. Sử dụng cùng một bộ 8 khoanh khổ qua trong suốt video, mỗi khoanh dày khoảng 2,5–3 cm với đường kính và độ dày thành đồng nhất. Vỏ khổ qua phải giữ được kết cấu sần sùi tự nhiên và không được biến thành khoanh ớt chuông, dưa chuột hay bí ngòi. Phần nhân thịt gồm 30% mỡ và 70% thịt nạc heo cùng nấm hương băm nhỏ, giữ được các hạt thịt băm thủ công. Nhân sống có màu hồng tự nhiên, trong khi nhân chín có màu nâu nhạt với bề mặt áp chảo vàng óng; sự thay đổi màu sắc qua các giai đoạn phải khớp với quy trình nấu ăn thực tế. Mỗi khoanh khổ qua được nhồi thịt, hơi đầy ở cả hai đầu, với phần khổ qua và nhân liên kết chặt chẽ. Khi lật, bày biện hoặc gắp lên, cả hai di chuyển như một khối thống nhất; nhân không được rơi ra hoặc xuyên qua thành khổ qua. Sử dụng nhất quán cùng một chiếc thớt gỗ, cùng một chiếc tô inox, cùng một chiếc chảo đáy phẳng màu đen và cùng một chiếc đĩa tròn nông màu trắng. Kích thước nguyên liệu, màu sắc dụng cụ và hướng ánh sáng phải duy trì sự liên tục. Không tạo văn bản, phụ đề, logo, hình mờ (watermark), giao diện người dùng (UI) hoặc giọng đọc. Nếu có âm thanh, chỉ giữ lại âm thanh tự nhiên của tiếng thái, tiếng áp chảo và tiếng sôi; lời bình và âm nhạc sẽ được thêm vào trong quá trình hậu kỳ. Phân đoạn 1: Thái và bỏ ruột Tạo 10 giây cảnh quay quảng cáo ẩm thực chân thực, định dạng dọc 9:16 cho món 'Khổ qua nhồi thịt kiểu Khách Gia'. 0-3s: Hai quả khổ qua tươi đã rửa sạch đặt trên thớt gỗ, màu xanh lục bảo tự nhiên với các nốt sần rõ nét. Thịt heo tươi, nấm hương và một ít hành lá, gừng, tỏi đặt gần đó; hậu cảnh gọn gàng. 3-6s: Đầu bếp dùng dao phay Trung Hoa thái khổ qua thành các khoanh dày khoảng 2,5–3 cm. Lưỡi dao tiếp xúc thực tế với nguyên liệu; các nhát cắt mượt mà, khoanh dày, không bị mỏng. 6-9s: Một chiếc thìa nhỏ xoay dọc theo thành trong của khoanh khổ qua, nạo bỏ hạt và phần cùi trắng, nhẹ nhàng cạo sạch màng dư thừa. Thành khổ qua vẫn nguyên vẹn và không được bị vỡ hoặc tự động trở nên rỗng. 9-10s: Hiển thị bộ 8 khoanh khổ qua rỗng đã chọn được xếp gọn gàng trên khay chuẩn bị. Camera zoom vào một khoanh, hiển thị rõ vỏ, thành và cấu trúc rỗng. Sử dụng ánh sáng bên ấm áp, camera đẩy chậm và chuyển cảnh macro. Tập trung vào nơi dao và thìa chạm vào nguyên liệu; tránh nhòe chuyển động và cháy sáng. [Tránh] Hình dạng ớt, hình dạng dưa chuột, lát mỏng, khoanh bị vỡ, hạt còn sót lại, tự động làm rỗng, nguyên liệu xuất hiện từ hư không, ngón tay bị cắt, phụ đề, hình mờ. Phân đoạn 2: Trộn nhân và nhồi thủ công Tạo 10 giây cảnh quay sản xuất liên tục, định dạng dọc 9:16, sử dụng cùng 8 khoanh khổ qua từ phân đoạn trước. 0-2s: Các khoanh rỗng trên khay chuẩn bị tiến vào tiền cảnh, camera lia chậm sang chiếc tô inox gần đó. Tô chứa nhân thịt heo băm thủ công, vụn nấm hương và gia vị; thịt có các hạt tự nhiên, không phải dạng nhuyễn mịn. 2-4s: Sử dụng các nhát cắt nhanh tự nhiên để hiển thị việc thêm nước tương, dầu hào, tiêu, lòng trắng trứng và tinh bột, khuấy theo một chiều. Nhân dần kết dính nhưng vẫn nhìn thấy rõ các hạt thịt heo và vụn nấm hương sẫm màu. 4-8s: Một tay giữ khoanh khổ qua trong khi tay kia dùng thìa nhỏ nhồi thịt vào từng giai đoạn. Nhồi đáy trước, sau đó ấn vào thành trong và cuối cùng là làm đầy phần trên. Nhân bám chặt vào thành mà không có khoảng trống lớn; cả hai đầu hơi đầy nhưng không vun cao thành hình viên thịt. 8-10s: Chuyển cảnh tự nhiên sang bộ 8 khoanh khổ qua đã nhồi thịt. Lượng nhân đồng nhất và các khoanh giữ nguyên độ dày và đường kính ban đầu. Kết thúc bằng việc di chuyển khay về phía bếp. Xen kẽ giữa cận cảnh và góc quay từ trên xuống, tập trung vào thìa ấn thịt. Ánh sáng mềm ấm, cử động tay chân thực, bề mặt nguyên liệu không quá bóng. [Tránh] Thịt xuyên qua thành, viên thịt tách rời, nhân rỗng, tràn ra ngoài, khoanh bị biến dạng, hỗn hợp nhuyễn mịn, nước sốt làm đen mọi thứ, đột nhiên xuất hiện thêm khoanh, ngón tay biến dạng, phụ đề, hình mờ. Phân đoạn 3: Áp chảo và om Tạo 10 giây cảnh quay áp chảo và om, định dạng dọc 9:16. 0-3s: Chiếc chảo đáy phẳng màu đen nóng lên với một lớp dầu đậu phộng mỏng. Đặt khổ qua nhồi thịt từ phân đoạn trước nằm phẳng trong chảo, mặt thịt hướng xuống, xếp một lớp không chồng lên nhau. Các bong bóng dầu nhỏ và âm thanh áp chảo tự nhiên xuất hiện tại các điểm tiếp xúc. 3-5s: Đầu bếp dùng xẻng mỏng đỡ toàn bộ khoanh khổ qua từ phía dưới, lật chậm để lộ bề mặt thịt áp chảo màu nâu vàng, sau đó áp chảo mặt còn lại. Khoanh khổ qua và thịt phải lật cùng nhau; thịt không được để lại trong chảo trong khi chỉ có khoanh khổ qua di chuyển. 5-7s: Thêm một ít nước hoặc nước dùng dọc theo mép chảo, tạo thành một lớp nông không làm ngập khổ qua. Đậy nắp cùng loại. 7-10s: Sử dụng các bước nhảy thời gian tự nhiên để thể hiện quá trình om thay vì nấu chín tức thì. Khi mở nắp, khổ qua đã chuyển sang màu xanh vàng mềm mại, thành khổ qua mềm nhưng không nhũn, thịt chín hoàn toàn, vẫn đầy đặn với vết áp chảo vàng óng. Ánh sáng bên ấm áp, chuyển từ trung cảnh sang macro, nhấn mạnh vào bong bóng, bề mặt áp chảo và hơi nước tự nhiên. Hơi nước không được che khuất nguyên liệu. [Tránh] Luộc trong nồi lớn, chiên ngập dầu, bề mặt cháy sém, khổ qua nhũn, khoanh bị mỏng đi, thịt rơi ra, thịt hồng sống, trông như chưa chín sau khi om, màu chảo thay đổi, số lượng thay đổi, phụ đề, hình mờ. Phân đoạn 4: Rưới sốt và bày đĩa cận cảnh Tạo 10 giây cảnh quay thương mại hoàn thiện, định dạng dọc 9:16 cho bản dựng cuối 7 giây. 0-3s: Thêm gia vị và nước bột năng vào phần nước cốt còn lại trong chảo, nhẹ nhàng lắc chảo để tạo lớp sốt mỏng, trong, màu nâu nhạt. Sốt bao phủ nhẹ nguyên liệu mà không trở thành dạng gel đặc. 3-6s: Dùng xẻng đỡ khổ qua nhồi thịt từ phía dưới, hoàn thành việc bày đĩa thông qua các nhát cắt tự nhiên. Sử dụng cùng chiếc đĩa tròn nông màu trắng; 8 khoanh xếp một lớp, mặt thịt áp chảo hướng lên, không xếp chồng lên nhau. 6-8s: Một chiếc thìa nhỏ rưới đều một lượng nhỏ sốt mỏng lên khổ qua và thịt, tạo độ bóng nhẹ. Kết cấu vỏ, hạt thịt chín và vụn nấm hương vẫn nhìn thấy rõ và không bị che khuất bởi nước sốt đặc. 8-10s: Một đôi đũa gỗ nhẹ nhàng gắp một miếng khổ qua nhồi thịt từ hai bên. Khoanh khổ qua và thịt vẫn liên kết; nguyên liệu có trọng lượng thực tế và một ít sốt tự nhiên nhỏ giọt trở lại đĩa. Một chỗ trống còn lại trên đĩa và không tự động lấp đầy. Camera từ từ zoom vào, tập trung vào thành màu xanh vàng mềm mại, thịt vàng óng và lớp sốt trong suốt. Hậu cảnh mờ nhẹ, dừng lại ở sản phẩm cuối cùng được nhấc lên. [Tránh] Thịt rơi ra, khoanh bị vỡ, thịt bị nát, kết cấu như đậu phụ, sốt gel đặc, quá nhiều dầu, nước sốt sẫm màu, nguyên liệu tự động lấp đầy, trang trí thêm, cơm, phụ đề, hình mờ. Phong cách lời bình: Lời bình quảng cáo ẩm thực bằng tiếng Quan Thoại, giọng tự nhiên và ấm áp, diễn đạt rõ ràng, cảm giác gần gũi như ở nhà. Nhịp độ ổn định, tạm dừng nhẹ ở cuối câu. Nhấn mạnh vào 'đầu tiên là tươi sau đó là ngọt', 'mỗi miếng đều đầy đặn', 'mềm mại và mọng nước', và 'hương vị của gia đình'. Không có lời chào hàng cường điệu, không đọc máy móc từng chữ một. Khắc phục các vấn đề thường gặp: Thịt rơi ra: Khoanh khổ qua và phần nhân thịt bên trong liên kết chặt chẽ, di chuyển như một khối thực phẩm thống nhất. Xẻng đỡ toàn bộ đáy khi lật; nhân không được trượt ra, rơi hoặc xuyên qua thành khổ qua khi gắp lên. Khổ qua trông như bị nấu quá chín: Khổ qua mềm và chín nhưng thành vẫn giữ được độ dày và cấu trúc khoanh. Bề mặt mềm và ẩm, không bị xẹp, vỡ hoặc tan chảy. Thịt trông như đậu phụ: Thịt chín phải có các hạt băm thủ công nhỏ, vụn nấm hương và bề mặt không bằng phẳng tự nhiên; mặt áp chảo có màu nâu vàng, không phải là khối hoặc hỗn hợp trắng, mịn, không có kết cấu. Sốt quá đặc: Sốt là loại nước sốt mỏng, trong, màu nâu nhạt có độ lỏng, chỉ bám nhẹ vào bề mặt; kết cấu vỏ khổ qua và thịt vẫn phải nhìn thấy được, không xuất hiện như một lớp hồ đặc dạng gel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094363615294038016/img/dRoj3oTNX64C-cnZ.jpg" width="600" alt="Gợi ý quảng cáo món Khổ qua nhồi thịt kiểu Khách Gia">
+
+**[🎬 Xem video →](https://x.com/7998l201/status/2094363707988164831)**
+
+**Tác giả:** [Ryan](https://x.com/7998l201) | **Nguồn:** [Link](https://x.com/7998l201/status/2094363707988164831) | **Đã xuất bản:** Aug 31, 2026
+
+---
 ### Hyperlapse selfie tại các địa danh Trung Quốc
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -73,6 +177,25 @@ Tạo một video hyperlapse selfie dài 10 giây sử dụng nhân vật đã t
 **[🎬 Xem video →](https://x.com/johnAGI168/status/2094291245879160940)**
 
 **Tác giả:** [John](https://x.com/johnAGI168) | **Nguồn:** [Link](https://x.com/johnAGI168/status/2094291245879160940) | **Đã xuất bản:** Aug 31, 2026
+
+---
+### Gợi ý (Prompt) video quảng cáo Vịt ba chén kiểu Khách Gia
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Các gợi ý chi tiết theo trình tự để tạo video quảng cáo Vịt ba chén kiểu Khách Gia cao cấp dài 40 giây, được tối ưu hóa cho công cụ tạo video Gemini Omni.
+
+#### 📝 Prompt
+
+```
+[Thiết lập bối cảnh chung] 10 giây, dọc 9:16. Quảng cáo ẩm thực cao cấp chân thực, cùng một căn bếp kiểu Khách Gia tông màu ấm, cùng một bàn làm việc bằng gỗ cũ, cùng một chiếc nồi sắt đen, cùng một con vịt nguyên con với kích thước và ngoại hình ổn định. Ánh sáng cửa sổ bên trái, độ sâu trường ảnh nông, kết cấu thực phẩm chân thực, hơi nước vừa phải và độ bóng tự nhiên của dầu. Chuyển động máy quay chậm và ổn định, chủ yếu là các cảnh quay liên tục trong từng phân đoạn. Chỉ có âm thanh môi trường nấu nướng tự nhiên, không tạo lời dẫn hay âm nhạc. [Ràng buộc phủ định chung] Không văn bản, phụ đề, logo, bao bì, dụng cụ không liên quan hoặc các món ăn phụ được thêm vào đột ngột; không có chi thừa, ngón tay biến dạng, trùng lặp nguyên liệu, dụng cụ nấu nướng bị biến dạng, thực phẩm tan chảy hoặc nấu chín tức thì. Duy trì các thao tác nấu nướng bình thường và cảm giác về trọng lượng. Phân đoạn 1: Giới thiệu nguyên liệu Một con vịt nguyên con đã làm sạch được đặt trên cùng bàn làm việc bằng gỗ, cùng với ba bát nhỏ đựng rượu gạo, nước tương và nước đường phèn, cùng với vài lát gừng và hành lá. Bắt đầu bằng cảnh cận cảnh, một bàn tay nhẹ nhàng lau khô bề mặt da vịt bằng giấy bếp sạch. Máy quay tiến dần lại gần, cho thấy kết cấu da vịt và chất lượng nước sốt. Cuối cùng, thân vịt được nhấc lên một cách ổn định và di chuyển về phía chiếc nồi sắt gần đó để tạo sự chuyển tiếp hành động cho phân đoạn tiếp theo. Duy trì trạng thái tươi/sống, không làm đổi màu sớm hoặc tạo kết cấu thịt chín. Phân đoạn 2: Áp chảo và thêm sốt Trong cùng chiếc nồi sắt đen, con vịt nguyên con được áp chảo đến khi vàng đều, xung quanh là các lát gừng, hành lá và một ít mỡ vịt. Một chiếc xẻng hỗ trợ thân vịt ổn định, cho thấy những bong bóng nhỏ từ quá trình áp chảo trên nồi, sau đó từ từ đổ rượu gạo, nước tương và nước đường phèn đã chuẩn bị vào. Máy quay di chuyển từ cận cảnh mép nồi sang cận cảnh da vịt; nước sốt sôi tự nhiên khi tiếp xúc với nồi nóng. Kết thúc ở thân vịt vàng óng và phần nước sốt đang sôi. Không để thân vịt chuyển sang màu đỏ sẫm ngay lập tức và không để chất lỏng biến mất vào không trung. Phân đoạn 3: Om và rưới sốt Tiếp tục với cùng dụng cụ nấu nướng và bối cảnh. Con vịt nguyên con được om trong nước sốt trên lửa nhỏ, da dần chuyển sang màu nâu nước tương ẩm mượt. Một bàn tay dùng thìa cán dài múc nước cốt từ trong nồi và từ từ rưới lên lưng vịt; nước sốt chảy dọc theo da và nhỏ giọt trở lại nồi. Theo dõi hành động rưới sốt bằng một cảnh quay macro từ bên cạnh, làm nổi bật hơi nước chân thực, quá trình sôi nhẹ và độ bóng của da vịt. Kết thúc với thân vịt nguyên vẹn để làm tham chiếu cho cảnh trình bày món ăn cuối cùng. Không sôi mạnh, không để thịt vịt bị rơi ra hoặc biến dạng. Phân đoạn 4: Trưng bày sản phẩm Trên cùng bàn làm việc trong bếp, món Vịt ba chén đã chặt được bày biện gọn gàng, da đỏ và sáng bóng, các miếng thịt giữ được mặt cắt và lớp thịt chân thực. Đầu tiên, quay bề mặt da từ góc thấp cận cảnh, sau đó từ từ rưới nước cốt đậm đặc bằng thìa, nước sốt bám tự nhiên. Cuối cùng, một đôi đũa gắp một miếng thịt vịt kèm da, máy quay từ từ tiến lại gần, tập trung vào các chi tiết da vịt, chất lượng thịt và lớp sốt bao phủ, với hậu cảnh được làm mờ nhẹ. Không thêm đồ trang trí mới, cơm hoặc món ăn thứ hai; không có hiệu ứng kéo sợi như phô mai. [Kịch bản lời dẫn] Vịt ba chén kiểu Khách Gia chính gốc bắt đầu từ một con vịt ngon. Rửa sạch và lau khô vịt tươi; không chần qua nước sôi để giữ lại hương vị vịt chân thực nhất. Xào gừng và hành lá cho thơm, áp chảo cả con vịt để tiết ra mỡ thừa. Áp chảo đến khi vàng đều hai mặt, sau đó thêm rượu gạo, nước tương và nước đường phèn. Đun sôi nước sốt, sau đó om trên lửa nhỏ trong 45 phút. Lật và rưới sốt liên tục ở giữa quá trình, để hương vị của rượu gạo, nước tương và vị ngọt thấm đều vào thịt. Cuối cùng, vặn lửa lớn để làm đặc nước cốt cho đến khi da vịt đỏ và sáng bóng, nước sốt bám chặt vào thân vịt. Để nguội một chút trước khi chặt, sau đó rưới nước cốt trở lại—đây chính là món Vịt ba chén kiểu Khách Gia đậm đà và đầy hương vị. [Lệnh tổng hợp] 'Sử dụng Kỹ năng Sản xuất Quảng cáo Thực phẩm, hợp nhất các video theo thứ tự 1, 2, 3, 4. Sử dụng văn bản gốc đã xác nhận cho lời dẫn, tạo lời dẫn Doubao liên tục trong một lần. Mục tiêu 40 giây, 1080x1920, 24fps, giữ lại âm thanh môi trường video gốc với âm lượng thấp, xuất tệp MP4, hình ảnh kiểm tra khung hình chính và báo cáo xác minh.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094273910191878144/img/aWZXSJOTgY7v85_q.jpg" width="600" alt="Gợi ý (Prompt) video quảng cáo Vịt ba chén kiểu Khách Gia">
+
+**[🎬 Xem video →](https://x.com/7998l201/status/2094274092757385382)**
+
+**Tác giả:** [Ryan](https://x.com/7998l201) | **Nguồn:** [Link](https://x.com/7998l201/status/2094274092757385382) | **Đã xuất bản:** Aug 31, 2026
 
 ---
 ### Quảng cáo cà phê sô-cô-la đậm chất điện ảnh
@@ -2425,124 +2548,6 @@ Quảng cáo đồ uống mùa hè đậm chất điện ảnh cho FIZZI Sparkli
 **Tác giả:** [Sharon Riley](https://x.com/Just_sharon7) | **Nguồn:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Đã xuất bản:** Jul 23, 2026
 
 ---
-### Phim học đường Nhật Bản đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video toàn diện cho Gemini Omni, giúp tạo ra cảnh quay phim học đường chi tiết với các chuyển động máy quay, lời thoại và hiệu ứng không gian cụ thể.
-
-#### 📝 Prompt
-
-```
-[BỐI CẢNH & CHUYỂN ĐỘNG MÁY QUAY] Cảnh phim học đường Nhật Bản đậm chất điện ảnh. Máy quay bắt đầu bằng góc nhìn toàn cảnh từ trên cao (bird's-eye view), nhìn xuống hành lang sáng sủa ngập tràn ánh nắng vàng buổi chiều. Sau đó, máy quay zoom vào mượt mà và hạ thấp góc độ, chuyển sang góc nghiêng năng động, và cuối cùng dừng lại ở góc quay cận cảnh trung bình (medium close-up) vào khuôn mặt và phần thân trên của các nhân vật. [HÀNH ĐỘNG & NHÂN VẬT] Một nữ sinh tự tin với mái tóc nhuộm highlight vàng và sơn móng tay đen bước tới, nhẹ nhàng đặt tay lên bức tường bên cạnh một nữ lớp trưởng chỉn chu, nhút nhát đang đeo kính tròn. Lớp trưởng ôm chặt sách, hơi đỏ mặt vì ngạc nhiên. Những cánh hoa anh đào hồng và mái tóc khẽ bay trong làn gió ấm thổi qua khung cửa sổ mở. [HIỆU ỨNG ÂM THANH & SFX] Tiếng gió thổi nhẹ và tiếng cánh hoa anh đào xào xạc → Tiếng chạm nhẹ vào tường → Tiếng thở hổn hển đầy ngạc nhiên → Hiệu ứng âm thanh nhịp tim bình tĩnh, tinh tế. [LỜI THOẠI TIẾNG NHẬT] - Nữ sinh tự tin (Giọng trêu chọc nhưng dịu dàng): "Này, Lớp trưởng... sao vậy? Mặt cậu hơi đỏ kìa?" (Nee, Iinchou... doushita no? Kao ga sukoshi akai yo?) - Lớp trưởng (Bối rối nhưng giọng nhẹ nhàng): "Eh...! A, cậu gần quá... chờ đã..." (Ehh...! A, chikai desu... chotto...) [PHONG CÁCH & THẨM MỸ] Phong cách phim người đóng (live-action) về thanh xuân Nhật Bản chân thực, ánh sáng điện ảnh, các hạt bụi trong không khí, độ sâu trường ảnh nông, độ nét cao, độ phân giải 8k, 60fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080151806152482816/img/DzNNE11EyiPsrErK.jpg" width="600" alt="Phim học đường Nhật Bản đậm chất điện ảnh">
-
-**[🎬 Xem video →](https://x.com/ngoctramtp/status/2080152132133474497)**
-
-**Tác giả:** [Ciara | Yuri Cinematic](https://x.com/ngoctramtp) | **Nguồn:** [Link](https://x.com/ngoctramtp/status/2080152132133474497) | **Đã xuất bản:** Jul 23, 2026
-
----
-### Huấn luyện và Thiết lập các Ràng buộc Chuyển động cho Hình mẫu
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một bộ hướng dẫn chính xác dành cho Gemini Omni để tạo hoạt ảnh cho một hình mẫu đang quan sát mô hình tàu hỏa với các ràng buộc nghiêm ngặt về hướng di chuyển và góc máy quay.
-
-#### 📝 Prompt
-
-```
-Di chuyển người và mô hình tàu hỏa.
-- Tàu hỏa chỉ được phép di chuyển về phía trước; nghiêm cấm di chuyển lùi.
-- Người phải di chuyển về phía trước trong khi nhìn vào tàu hỏa; nghiêm cấm di chuyển lùi.
-- Không được chuyển đổi góc máy quay.
-- Không được thêm bất kỳ tàu hỏa hoặc đội hình nào không có trong hình ảnh gốc.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="Huấn luyện và Thiết lập các Ràng buộc Chuyển động cho Hình mẫu">
-
-**[🎬 Xem video →](https://x.com/uso800railway/status/2079923166248644727)**
-
-**Tác giả:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **Nguồn:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **Đã xuất bản:** Jul 22, 2026
-
----
-### Câu lệnh thay thế đối tượng trong video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh cụ thể dành cho Gemini Omni Flash được thiết kế để thay thế đối tượng trong video bằng một chú mèo từ hình ảnh tham chiếu, đồng thời đảm bảo tính nhất quán của cảnh quay.
-
-#### 📝 Prompt
-
-```
-Chỉnh sửa video đầu vào. Thay thế chú chuột hamster bằng chú mèo từ <IMAGE_REF_0>, đảm bảo khớp với ngoại hình và đặc điểm của chú mèo đó. Áp dụng phong cách hình ảnh của <IMAGE_REF_1> cho diện mạo của chú mèo (bộ lông, màu sắc, phong cách kết xuất). Giữ nguyên chuyển động, thời gian, góc máy và bối cảnh ban đầu. 
-Giữ mọi thứ khác không đổi. Cảnh quay liên tục, không cắt cảnh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Câu lệnh thay thế đối tượng trong video">
-
-**[🎬 Xem video →](https://x.com/nicegen_ai/status/2079554954638033066)**
-
-**Tác giả:** [NiceGen.ai](https://x.com/nicegen_ai) | **Nguồn:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Đã xuất bản:** Jul 21, 2026
-
----
-### Quảng cáo bằng drone điện ảnh cho mật ong Himalaya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một prompt định dạng JSON toàn diện cho video quảng cáo thương mại bằng drone tốc độ cao, giới thiệu bao bì sản phẩm mật ong trên nền dãy núi Himalaya hùng vĩ.
-
-#### 📝 Prompt
-
-```
-{
-  "description": "Một cú máy drone điện ảnh siêu nhanh bắt đầu từ trên cao dãy núi Himalaya phủ tuyết trắng xóa vào lúc bình minh vàng rực. Camera lao nhanh qua những thung lũng xanh mướt, những dòng sông trong vắt và những cánh rừng thông bao phủ trong sương mù, tăng tốc khi lướt giữa những hàng cây cao vút và bay sát trên những thác nước đổ. Nhịp độ chậm dần, chuyển sang một khoảng rừng yên bình được tắm trong ánh sáng ban mai ấm áp. Camera lướt về phía một tảng đá phủ đầy rêu, nơi một hũ thủy tinh mật ong Dabur Honey nguyên bản, còn nguyên niêm phong với bao bì bán lẻ chính hãng được đặt một cách tinh tế làm sản phẩm chủ đạo. Cú máy kết thúc bằng một cảnh quay cận cảnh điện ảnh cao cấp, làm nổi bật lớp mật ong vàng óng bên trong hũ thủy tinh trong suốt, đồng thời giữ nguyên nhãn sản phẩm và thiết kế bao bì thực tế. Không thêm các yếu tố thương hiệu, đồ họa nổi hoặc văn bản bổ sung.",
-  "style": "quảng cáo thiên nhiên siêu thực, điện ảnh cao cấp kết hợp nhiếp ảnh sản phẩm sang trọng",
-  "camera": "drone FPV tốc độ cao bay xuyên qua, chuyển tiếp sang chế độ dolly điện ảnh ổn định và quay cận cảnh sản phẩm theo quỹ đạo chậm",
-  "lighting": "ánh sáng bình minh vàng ấm áp với hiệu ứng lóe sáng tự nhiên, tia nắng thể tích xuyên qua tán rừng, kết thúc bằng ánh sáng chính dịu nhẹ làm nổi bật hũ thủy tinh và mật ong vàng",
-  "environment": "dãy núi Himalaya hùng vĩ, thung lũng rừng Ấn Độ tươi tốt, những dòng sông nguyên sơ, thác nước đổ, rừng thông rậm rạp và một khoảng rừng phủ rêu yên tĩnh với kết cấu tự nhiên phong phú",
-  "elements": [
-    "dãy núi Himalaya phủ tuyết",
-    "thung lũng xanh mướt",
-    "những dòng sông trong vắt",
-    "rừng thông phủ sương mù",
-    "thác nước đổ",
-    "bệ đá phủ rêu",
-    "hũ thủy tinh Dabur Honey nguyên bản với bao bì bán lẻ chính hãng",
-    "ong và bướm tinh tế",
-    "sương sớm",
-    "làn sương nhẹ trôi"
-  ],
-  "motion": "cú hạ độ cao cực nhanh và bay xuyên rừng kiểu FPV trong 6 giây đầu tiên, theo sau là chuyển động lướt chậm rãi duyên dáng, quỹ đạo tinh tế và tiến dần về phía sản phẩm trong 4 giây cuối",
-  "duration": "10 giây",
-  "ending": "Hũ Dabur Honey chính hãng vẫn nằm hoàn hảo ở trung tâm trên tảng đá phủ rêu khi camera từ từ quay quanh và kết thúc bằng một cú cận cảnh macro cao cấp vào nhãn sản phẩm và lớp mật ong vàng óng bên trong hũ thủy tinh.",
-  "text": "không có",
-  "keywords": [
-    "16:9",
-    "quảng cáo cao cấp",
-    "bay drone điện ảnh",
-    "FPV",
-    "siêu thực",
-    "giới thiệu sản phẩm sang trọng",
-    "bao bì Dabur Honey chính hãng",
-    "hũ mật ong thủy tinh",
-    "bình minh vàng",
-    "phong cảnh thiên nhiên Ấn Độ",
-    "cận cảnh sản phẩm",
-    "không văn bản",
-    "không thêm logo"
-  ]
-}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Quảng cáo bằng drone điện ảnh cho mật ong Himalaya">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2079454972098609447)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Đã xuất bản:** Jul 21, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -2595,6 +2600,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-01T03:40:48.076Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-01T09:10:52.258Z</sub>
 
 </div>

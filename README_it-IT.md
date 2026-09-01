@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **224** |
+| 📝 Totale prompt | **228** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-09-01** |
 
@@ -56,6 +56,110 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt per video pubblicitario di pesce al vapore in stile fluviale
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un set completo di prompt video multi-segmento per generare una pubblicità culinaria professionale e realistica di 40 secondi sul pesce al vapore utilizzando Gemini Omni.
+
+#### 📝 Prompt
+
+```
+Requisiti generali: Lo stesso pesce di fiume d'acqua dolce del lago Wanlu, circa 600-750g. Il corpo del pesce è compresso lateralmente, di forma naturalmente ovale, con squame fini grigio-argento, testa, coda e pinne complete e una forma del corpo realistica. La testa è sempre rivolta verso il lato sinistro dell'inquadratura e la coda verso destra; viene utilizzato lo stesso piatto ovale bianco per pesce al vapore per tutta la durata. La lunghezza del pesce, la larghezza del ventre, la forma della testa, le posizioni delle incisioni e le dimensioni del piatto non devono cambiare. Stato crudo: squame grigio-argento, carne soda. Stato cotto: pelle intatta, la carne passa da traslucida a un bianco caldo naturale, la carne sul dorso mostra una chiara consistenza a petalo. Prodotto finale: carne tenera, succhi limpidi, superficie con solo una moderata lucentezza di olio caldo, non immerso in una salsa densa e oleosa. Niente testo, sottotitoli, marchi, filigrane, interfacce, riso, altri piatti o stoviglie irrilevanti. Segmento 1 (0-10s) | Preparazione: Genera un filmato pubblicitario di cibo realistico di 10s, verticale 9:16, di pesce di fiume al vapore. Scena: cucina cinese pulita, illuminazione naturale calda laterale su un tagliere in legno. Soggetto: pesce di fiume d'acqua dolce fresco, squamato, eviscerato, pulito, 600-750g. Testa rivolta a sinistra, coda a destra. 0-3s: La telecamera si muove lentamente dalla coda alla testa, riprese macro delle squame, superficie umida e corpo sodo. Solo piccole gocce d'acqua, niente sangue/organi. 3-5s: Lo chef usa un tovagliolo di carta per asciugare. La mano fornisce un riferimento di scala. 5-8s: Una mano tiene il pesce, l'altra pratica 2-3 incisioni diagonali poco profonde. La lama entra in contatto reale. 8-10s: Cospargere leggermente di sale, strofinare uniformemente. Posizionare nel piatto ovale bianco. Fotografia culinaria cinematografica, obiettivo macro, profondità di campo ridotta. Evitare: Pesce di mare, branzino, salmone, tonno; cambiamenti nelle dimensioni del corpo; sangue/organi; teste/code tagliate; clipping; testo/filigrane. Segmento 2 (10-20s) | Aromi: Filmato verticale 9:16 di 10s, in continuità con il Segmento 1. Mantenere la direzione della testa, le squame, le incisioni e la scala del piatto. 0-3s: Lo chef solleva il pesce per posizionare zenzero e scalogno sotto di esso. 3-6s: Aggiungere zenzero al ventre e nelle incisioni. Quantità moderata di guarnizione. 6-8s: Ripresa macro dei dettagli a crudo. 8-10s: Piatto inserito in una vaporiera in acciaio inossidabile. Movimento reale e silenzioso. Evitare: Spezie eccessive, peperoncino, aglio, erbe aromatiche; ingredienti che volano; girare il pesce; cottura prematura; dita che si sovrappongono. Segmento 3 (20-30s) | Cottura al vapore: Filmato verticale 9:16 di 10s, in continuità con il Segmento 2. 0-2s: Acqua che bolle, coperchio chiuso. Vapore realistico. 2-5s: Rappresentazione in time-lapse della cottura al vapore attraverso cambiamenti di illuminazione. 5-7s: Coperchio aperto, il vapore si dissipa per rivelare il pesce cotto. Carne virata al bianco caldo, incisioni leggermente aperte che mostrano la consistenza a petalo. 7-10s: Piatto rimosso con guanti resistenti al calore, acqua drenata, guarnizione appassita rimossa. Evitare: Pelle rotta; restringimento/espansione; carne cruda; segni di frittura; brodo lattiginoso; vapore che blocca il cibo; mani nude su piatti caldi. Segmento 4 (30-40s) | Hero Shot: Filmato commerciale di alta qualità verticale 9:16 di 10s, in continuità con il Segmento 3. Il prodotto finale mantiene la forma completa, consistenza della carne a petalo bianco caldo. 0-2s: Scalogno fresco sminuzzato posizionato sul dorso. 2-5s: Olio di arachidi caldo versato sullo scalogno con un leggero sfrigolio e vapore. Lucentezza sottile, niente fumo denso. 5-7s: Salsa di soia aggiunta sul bordo del piatto. 7-10s: Le bacchette separano un petalo di carne. Tenera, umida, struttura a petalo. Consistenza culinaria di alto livello, luce laterale calda, riflessi delicati, sfondo sfocato morbido. Evitare: Frittura/cottura al forno; pelle annerita; olio al peperoncino; salsa pesante; consistenza simile al tofu; bacchette che si sovrappongono; piatti di contorno extra o filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094595644879142913/img/mt9DvBLaeLJ2WDNz.jpg" width="600" alt="Prompt per video pubblicitario di pesce al vapore in stile fluviale">
+
+**[🎬 Guarda il video →](https://x.com/7998l201/status/2094595920692478091)**
+
+**Autore:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2094595920692478091) | **Pubblicato:** Sep 1, 2026
+
+---
+### Animazione cinematografica morphing bottiglia Evian
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complesso e strutturato per una ripresa cinematografica fluida di 10 secondi che mostra gocce d'acqua che si trasformano in una bottiglia di vetro Evian in una nebbiosa valle alpina.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "ripresa singola continua senza interruzioni, nessun taglio di scena",
+    "composition": "inizia con un'inquadratura ultra-grandangolare su una cascata e un ruscello alpino nebbiosi, segue le gocce d'acqua che si sollevano in un vortice organizzato a mezz'aria, termina con un primo piano centrato di una bottiglia Evian fluttuante",
+    "lens": "teleobiettivo per il paesaggio montano, poi 35mm per la presentazione del prodotto",
+    "frame_rate": "24fps cinematografico",
+    "camera_movement": "lento tilt verso l'alto che segue le gocce in ascesa, poi un fluido dolly in avanti mentre si bloccano nella forma della bottiglia, mantenendo l'inquadratura fissa sul prodotto sospeso"
+  },
+  "timeline": {
+    "0-3s": "Valle alpina nebbiosa all'alba in campo ultra-largo. Cascata cristallina che scende su rocce coperte di muschio in un ruscello poco profondo. Luce soffusa dell'ora blu, nebbia bassa, gocce d'acqua sulle felci.",
+    "3-7s": "Centinaia di gocce d'acqua si sollevano dalla superficie del ruscello e ruotano in spirali lente, eleganti e organizzate. Si incastrano a mezz'aria nell'esatta sagoma di una bottiglia d'acqua in vetro di alta qualità. Sottile rifrazione delle particelle e bordi delle gocce luminosi.",
+    "7-10s": "La forma d'acqua pulsa una volta e si trasforma in una vera bottiglia di vetro Evian che fluttua senza peso, centrata nell'inquadratura. Mantenere l'inquadratura sul prodotto. Luce fredda sul bordo e nebbia leggera."
+  },
+  "subject": {
+    "description": "centinaia di gocce d'acqua cristalline che si sollevano e ruotano in eleganti spirali per formare la sagoma di una bottiglia di vetro di alta qualità",
+    "props": "bottiglia di vetro Evian finale formata dalle gocce vorticose, che poi transita nel packaging reale del brand mentre fluttua a mezz'aria"
+  },
+  "scene": {
+    "location": "valle d'alta montagna con cascata e ruscello",
+    "time_of_day": "alba, ora blu, luce fredda e soffusa, nebbia persistente",
+    "environment": "aria fresca di montagna, flusso d'acqua delicato, rocce coperte di muschio, felci sparse"
+  },
+  "visual_details": {
+    "action": "le gocce si sollevano, ruotano in spirali organizzate, si bloccano nel contorno della bottiglia, pulsano, quindi si trasformano nel packaging finito Evian sospeso nello spazio",
+    "special_effects": "animazione di particelle d'acqua, rifrazione al rallentatore, morphing di materiale a mezz'aria, sottile luccichio di levitazione e scie di nebbia"
+  },
+  "cinematography": {
+    "lighting": "luce fredda direzionale dell'alba, bordi delle gocce luminosi, luce blu-argento sul bordo della bottiglia fluttuante",
+    "color_palette": "blu cristallo, bianchi argento, verdi muschio, grigi tenui",
+    "tone": "puro, rinfrescante, eleganza premium"
+  },
+  "audio": {
+    "music": "pianoforte ambient soffice con delicati pad di archi e sottili rintocchi ispirati all'acqua",
+    "ambient": "cascata in lontananza, dolce scorrere del ruscello, uccelli del mattino",
+    "sound_effects": "accumulo del vortice di gocce, scatto di blocco quando la forma si completa, leggero ronzio cristallino durante la levitazione",
+    "mix": "arioso, aperto, incentrato sulla natura con un centro musicale pulito"
+  },
+  "constraints": {
+    "dialogue": "nessuno",
+    "voiceover": "nessuno",
+    "on_screen_text": "nessuno",
+    "captions": "nessuno",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094395253038149632/img/O70UkRndlbm0U6mU.jpg" width="600" alt="Animazione cinematografica morphing bottiglia Evian">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2094395474048643382)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2094395474048643382) | **Pubblicato:** Aug 31, 2026
+
+---
+### Prompt per spot pubblicitario sul melone amaro ripieno in stile Hakka
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Una sequenza di prompt video professionali per Gemini Omni per creare un realistico spot pubblicitario di 37 secondi sulla preparazione del melone amaro ripieno in stile Hakka.
+
+#### 📝 Prompt
+
+```
+[Requisiti di coerenza visiva e continuità] Produci uno spot gastronomico realistico di alta qualità per il 'melone amaro ripieno in stile Hakka', formato verticale 9:16, illuminazione calda da cucina naturale, riprese macro di ingredienti reali, dettagli nitidi, vapore e lucentezza dell'olio contenuti. Utilizza lo stesso set di 8 rondelle di melone amaro per tutto il filmato, ciascuna spessa circa 2,5–3 cm con diametro e spessore della parete costanti. La buccia del melone amaro deve mantenere la sua naturale consistenza bitorzoluta e non deve trasformarsi in anelli di peperone, cetriolo o zucchina. Il ripieno di carne è composto per il 30% da grasso e per il 70% da maiale magro con funghi shiitake tritati, mantenendo piccoli frammenti tagliati a mano. Il ripieno crudo è naturalmente rosa, mentre quello cotto è marrone chiaro con una superficie dorata; i cambiamenti di colore tra le fasi devono corrispondere al reale processo di cottura. Ogni rondella di melone amaro è riempita di carne, leggermente bombata alle estremità, con il melone e il ripieno saldamente uniti. Quando vengono girati, impiattati o sollevati, i due elementi si muovono come un'unica unità; il ripieno non deve fuoriuscire né penetrare le pareti del melone. Utilizza costantemente lo stesso tagliere in legno, la stessa ciotola in acciaio inox, la stessa padella nera a fondo piatto e lo stesso piatto piano rotondo bianco. Le dimensioni degli ingredienti, i colori degli utensili e la direzione della luce devono rimanere costanti. Non generare testo, sottotitoli, loghi, watermark, interfacce utente o voci fuori campo. Se viene generato l'audio, mantieni solo i suoni naturali di taglio, rosolatura ed ebollizione; la narrazione e la musica verranno aggiunte in post-produzione. Segmento 1: Taglio e rimozione dei semi Genera 10 secondi di riprese realistiche in formato verticale 9:16 per lo spot del 'melone amaro ripieno in stile Hakka'. 0-3s: Due meloni amari freschi lavati su un tagliere di legno, verde smeraldo naturale con protuberanze ben visibili. Carne di maiale fresca, funghi shiitake e piccole quantità di cipollotto, zenzero e aglio sono posizionati nelle vicinanze; lo sfondo è ordinato. 3-6s: Uno chef usa una mannaia cinese per tagliare il melone amaro in rondelle spesse circa 2,5–3 cm. La lama entra in contatto reale con l'ingrediente; i tagli sono netti e le rondelle sono spesse, non affettate sottilmente. 6-9s: Un cucchiaino ruota lungo la parete interna delle rondelle, scavando i semi e la parte bianca spugnosa, raschiando delicatamente via la membrana residua. La parete del melone rimane intatta e non deve rompersi né diventare automaticamente cava. 9-10s: Mostra il set selezionato di 8 rondelle di melone amaro vuote disposte ordinatamente su un vassoio. La fotocamera zooma su una di esse, mostrando chiaramente la buccia, la parete e la struttura cava. Usa un'illuminazione laterale calda, lenti movimenti di zoom e passaggi macro. Concentrati sul punto in cui il coltello e il cucchiaio toccano gli ingredienti; evita il motion blur e la sovraesposizione. [Da evitare] Forme di peperone, forme di cetriolo, fette sottili, rondelle rotte, semi residui, svuotamento automatico, ingredienti che appaiono dal nulla, dita tagliate, sottotitoli, watermark. Segmento 2: Miscelazione e farcitura a mano Genera 10 secondi di riprese di produzione continua in formato verticale 9:16 utilizzando le stesse 8 rondelle del segmento precedente. 0-2s: Le rondelle vuote sul vassoio entrano in primo piano, la fotocamera inquadra lentamente una ciotola in acciaio inox vicina. La ciotola contiene il ripieno di maiale tritato a mano, pezzetti di shiitake e aromi; la carne presenta frammenti naturali, non una pasta liscia. 2-4s: Usa tagli rapidi naturali per mostrare l'aggiunta di salsa di soia, salsa di ostriche, pepe, albume e amido, mescolando in una sola direzione. Il ripieno si lega gradualmente ma i piccoli frammenti di maiale e i pezzi scuri di shiitake rimangono visibili. 4-8s: Una mano tiene una rondella di melone amaro mentre l'altra usa un cucchiaino per riempirla di carne a fasi. Riempi prima il fondo, poi premi contro le pareti interne e infine completa la parte superiore. Il ripieno aderisce perfettamente alla parete senza grandi spazi vuoti; entrambe le estremità sono leggermente bombate ma non ammassate in forme di polpette alte. 8-10s: Montaggio naturale sul set delle 8 rondelle di melone amaro già farcite. Il volume del ripieno è coerente e le rondelle mantengono lo spessore e il diametro originali. Termina spostando il vassoio verso il fornello. Alterna primi piani e riprese dall'alto, concentrandoti sul cucchiaio che preme la carne. Luce calda e soffusa, movimenti delle mani realistici, superfici degli ingredienti non eccessivamente lucide. [Da evitare] Carne che penetra le pareti, polpette indipendenti, ripieno vuoto, fuoriuscite, rondelle deformate, pasta uniforme, salsa che macchia tutto di nero, rondelle extra improvvise, dita deformate, sottotitoli, watermark. Segmento 3: Rosolatura e brasatura Genera 10 secondi di riprese di rosolatura e brasatura in formato verticale 9:16. 0-3s: La stessa padella nera a fondo piatto si scalda con un sottile strato di olio di arachidi. Posiziona i meloni amari ripieni del segmento precedente piatti nella padella, con il lato della carne rivolto verso il basso, in un unico strato senza sovrapposizioni. Piccole bolle d'olio e suoni naturali di rosolatura appaiono nei punti di contatto. 3-5s: Lo chef usa una spatola sottile per sostenere completamente una rondella di melone amaro dal fondo, girandola lentamente per rivelare una superficie di carne rosolata dorata, quindi rosola l'altro lato. La rondella e la carne devono girarsi insieme; la carne non può rimanere nella padella mentre si muove solo la rondella. 5-7s: Aggiungi una piccola quantità di acqua o brodo lungo il bordo della padella, formando uno strato basso che non sommerga il melone amaro. Copri con lo stesso coperchio. 7-10s: Usa salti temporali naturali per rappresentare il processo di brasatura piuttosto che una cottura istantanea. Una volta scoperto, il melone amaro è diventato di un giallo-verde tenue, la parete è morbida ma non molliccia e la carne è completamente cotta, rimanendo soda con una rosolatura dorata. Luce laterale calda, inquadrature medie che passano al macro, enfatizzando le bolle, la superficie rosolata e il vapore naturale. Il vapore non deve oscurare tutti gli ingredienti. [Da evitare] Bollitura in pentola grande, frittura profonda, superfici bruciate, melone molliccio, rondelle che si assottigliano, carne che cade, carne rosa cruda, aspetto crudo dopo la brasatura, cambiamenti di colore della padella, cambiamenti di quantità, sottotitoli, watermark. Segmento 4: Glassatura e impiattamento (primo piano) Genera 10 secondi di riprese commerciali finite per un montaggio finale di 7 secondi. 0-3s: Aggiungi condimento e acqua con amido ai succhi rimasti nella padella, facendo roteare delicatamente la padella per creare una glassa chiara e sottile color marrone chiaro. La glassa riveste leggermente gli ingredienti senza diventare un gel denso. 3-6s: Usa una spatola per sostenere i meloni ripieni dal fondo, completando l'impiattamento tramite montaggi naturali. Usa lo stesso piatto piano rotondo bianco; 8 rondelle disposte in un unico strato, lato carne rosolato verso l'alto, non impilate a torre. 6-8s: Un cucchiaino versa uniformemente una piccola quantità di glassa sottile sopra il melone e la carne, creando una leggera lucentezza. La consistenza della buccia, i frammenti di carne cotta e i pezzi di shiitake rimangono chiaramente visibili e non coperti da salsa densa. 8-10s: Un paio di bacchette di legno solleva delicatamente un intero melone amaro ripieno dai lati. La rondella e la carne rimangono unite; l'ingrediente ha un peso reale e una piccola quantità di glassa gocciola naturalmente nel piatto. Un punto vuoto rimane sul piatto e non si riempie automaticamente. La fotocamera zooma lentamente, concentrandosi sulla parete giallo-verde morbida, la carne dorata e la glassa trasparente. Sfondo sfocato, indugiando sul prodotto finale sollevato. [Da evitare] Carne che cade, rondelle rotte, carne schiacciata, consistenza del tofu, glassa in gel denso, olio eccessivo, salsa scura, ingredienti che si riempiono da soli, guarnizioni extra, riso, sottotitoli, watermark. Stile della voce fuori campo: Narrazione di uno spot gastronomico in cinese mandarino, voce naturale e calda, espressione chiara, sensazione amichevole e casalinga. Ritmo costante, leggere pause alla fine delle frasi. Enfatizzare 'prima fresco poi dolce', 'ognuno ben pieno', 'tenero e succoso' e 'sapore di casa'. Nessuna vendita aggressiva, nessuna lettura meccanica parola per parola. Correzioni problemi comuni: Carne che cade: La rondella di melone amaro e il ripieno interno di carne sono saldamente uniti, muovendosi come un'unica unità alimentare. La spatola sostiene l'intero fondo quando si gira; il ripieno non deve scivolare fuori, cadere o passare attraverso la parete del melone quando viene sollevato. Melone amaro che sembra stracotto: Il melone amaro è morbido e cotto ma la parete mantiene il suo spessore completo e la struttura ad anello. La superficie è morbida e umida, non collassata, frantumata o sciolta. Carne che sembra tofu: La carne cotta deve avere piccoli frammenti tagliati a mano, pezzi di shiitake e una superficie irregolare naturale; il lato rosolato è marrone dorato, non un blocco o una pasta uniforme, bianca, liscia e senza consistenza. Glassa troppo densa: La glassa è una salsa chiara, marrone chiaro e sottile con fluidità, che aderisce solo leggermente alla superficie; la consistenza della buccia del melone e della carne dovrebbe rimanere visibile, senza apparire come una pasta gelatinosa densa.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094363615294038016/img/dRoj3oTNX64C-cnZ.jpg" width="600" alt="Prompt per spot pubblicitario sul melone amaro ripieno in stile Hakka">
+
+**[🎬 Guarda il video →](https://x.com/7998l201/status/2094363707988164831)**
+
+**Autore:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2094363707988164831) | **Pubblicato:** Aug 31, 2026
+
+---
 ### Hyperlapse selfie presso monumenti cinesi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -73,6 +177,25 @@ Crea un hyperlapse selfie di 10 secondi utilizzando il personaggio caricato, in 
 **[🎬 Guarda il video →](https://x.com/johnAGI168/status/2094291245879160940)**
 
 **Autore:** [John](https://x.com/johnAGI168) | **Fonte:** [Link](https://x.com/johnAGI168/status/2094291245879160940) | **Pubblicato:** Aug 31, 2026
+
+---
+### Prompt per video pubblicitario dell'Anatra ai Tre Bicchieri in stile Hakka
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt sequenziali dettagliati per la generazione di un video pubblicitario di alta qualità di 40 secondi sull'Anatra ai Tre Bicchieri in stile Hakka, ottimizzati per la generazione video di Gemini Omni.
+
+#### 📝 Prompt
+
+```
+[Impostazione generale della scena] 10 secondi, verticale 9:16. Pubblicità gastronomica realistica di alta qualità, stessa cucina Hakka dai toni caldi, stesso vecchio piano di lavoro in legno, stessa pentola in ferro nero, stessa anatra intera con dimensioni e aspetto stabili. Luce dalla finestra sul lato sinistro, profondità di campo ridotta, consistenza del cibo realistica, vapore contenuto e naturale lucentezza dell'olio. Movimento di camera lento e costante, principalmente riprese continue all'interno dei segmenti. Solo suono ambientale naturale di cottura, nessuna narrazione o musica generata. [Vincoli negativi generali] Niente testo, sottotitoli, loghi, confezioni, utensili irrilevanti o contorni aggiunti improvvisamente; niente arti ridondanti, deformità delle dita, duplicazione di ingredienti, deformazione delle pentole, cibo che si scioglie o cottura istantanea. Mantenere azioni di cottura normali e senso di peso. Segmento 1: Presentazione degli ingredienti Un'anatra intera pulita viene posizionata sullo stesso piano di lavoro in legno, con tre piccole ciotole di vino di riso, salsa di soia e acqua con zucchero in panetto, insieme a fette di zenzero e segmenti di scalogno. Iniziando con un primo piano, una mano asciuga delicatamente la superficie della pelle dell'anatra con carta da cucina pulita. La telecamera avanza lentamente, mostrando la consistenza della pelle dell'anatra e la qualità della salsa. Infine, il corpo dell'anatra viene sollevato costantemente e spostato verso la vicina pentola di ferro per facilitare la transizione dell'azione per il segmento successivo. Mantenere lo stato fresco/crudo, nessuna colorazione prematura o consistenza di carne cotta. Segmento 2: Rosolatura e aggiunta della salsa Nella stessa pentola di ferro nero, l'anatra intera viene rosolata fino a ottenere un colore dorato uniforme, circondata da fette di zenzero, segmenti di scalogno e una piccola quantità di grasso d'anatra. Una spatola sostiene costantemente il corpo dell'anatra, mostrando piccole bolle dovute alla rosolatura contro la pentola, quindi versare lentamente il vino di riso, la salsa di soia e la salsa di zucchero in panetto preparate. La telecamera si sposta da un primo piano del bordo della pentola a un primo piano della pelle dell'anatra; la salsa bolle naturalmente al contatto con la pentola calda. Termina sul corpo dell'anatra dorato e sulla salsa appena bollente. Non lasciare che il corpo dell'anatra diventi rosso intenso istantaneamente e non lasciare che il liquido svanisca nel nulla. Segmento 3: Sobbollire e irrorare Continuando con le stesse pentole e la stessa scena. L'anatra intera sobbolle nella salsa a fuoco basso, la pelle mostra gradualmente un umido colore di salsa di soia. Una mano usa un cucchiaio a manico lungo per raccogliere il succo originale dalla pentola e irrorarlo lentamente sul dorso dell'anatra; la salsa scorre lungo la pelle e ricade nella pentola. Seguire l'azione di irrorazione con una ripresa macro laterale, evidenziando il vapore realistico, il leggero bollore e la lucentezza della pelle dell'anatra. Termina con il corpo dell'anatra intero e intatto per fornire un riferimento per la ripresa finale dell'impiattamento. Niente bollore violento, nessuna carne d'anatra che si stacca o si deforma. Segmento 4: Presentazione del prodotto Sullo stesso piano di lavoro della cucina, l'Anatra ai Tre Bicchieri tagliata è impiattata in modo ordinato, la pelle è rossa e brillante, e i pezzi di carne mantengono sezioni trasversali e strati realistici. Per prima cosa, mostrare la superficie della pelle da un primo piano dal basso, quindi versare lentamente il succo originale concentrato con un cucchiaio, facendo aderire la salsa in modo naturale. Infine, un paio di bacchette solleva un pezzo di carne d'anatra con la pelle, la telecamera si avvicina lentamente, concentrandosi sui dettagli della pelle dell'anatra, sulla qualità della carne e sul rivestimento di salsa, con una sfocatura dello sfondo morbida. Non aggiungere nuove decorazioni, riso o un secondo piatto; niente effetti di formaggio filante esagerati. [Script della voce fuori campo] L'autentica Anatra ai Tre Bicchieri Hakka inizia con una buona anatra. Lavare e asciugare l'anatra fresca; non sbollentarla per preservare la fragranza più autentica dell'anatra. Saltare lo zenzero e i segmenti di scalogno finché non diventano fragranti, rosolare l'anatra intera contro la pentola per sciogliere il grasso in eccesso. Rosolare fino a doratura su entrambi i lati, quindi aggiungere vino di riso, salsa di soia e acqua con zucchero in panetto. Portare la salsa a ebollizione, quindi cuocere a fuoco lento per 45 minuti. Girare e irrorare continuamente a metà cottura, lasciando che gli aromi del vino di riso, della salsa di soia e della dolcezza permeino la carne in modo uniforme. Infine, alzare la fiamma per addensare il succo originale finché la pelle dell'anatra non diventa rossa e brillante e la salsa non aderisce al corpo. Lasciar raffreddare leggermente prima di tagliare, quindi versare sopra il succo originale: questa è la morbida e saporita Anatra ai Tre Bicchieri Hakka. [Comando di sintesi] 'Usa la competenza di produzione di spot gastronomici, unisci i video nell'ordine 1, 2, 3, 4. Usa il testo originale confermato per la voce fuori campo, genera una voce fuori campo Doubao continua in un'unica soluzione. Obiettivo 40 secondi, 1080x1920, 24fps, mantieni il suono ambientale del video originale a basso volume, output MP4, immagini di controllo dei fotogrammi chiave e rapporto di verifica.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094273910191878144/img/aWZXSJOTgY7v85_q.jpg" width="600" alt="Prompt per video pubblicitario dell'Anatra ai Tre Bicchieri in stile Hakka">
+
+**[🎬 Guarda il video →](https://x.com/7998l201/status/2094274092757385382)**
+
+**Autore:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2094274092757385382) | **Pubblicato:** Aug 31, 2026
 
 ---
 ### Spot pubblicitario cinematografico per cioccolato al caffè
@@ -2447,124 +2570,6 @@ Spot pubblicitario estivo cinematografico per FIZZI Sparkling Tonic — Pompelmo
 **Autore:** [Sharon Riley](https://x.com/Just_sharon7) | **Fonte:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Pubblicato:** Jul 23, 2026
 
 ---
-### Dramma scolastico giapponese in stile cinematografico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt completo per la generazione video con Gemini Omni, progettato per creare una scena dettagliata di un dramma scolastico con movimenti di camera specifici, dialoghi ed effetti atmosferici.
-
-#### 📝 Prompt
-
-```
-[SCENA E MOVIMENTI DI CAMERA] Scena di un dramma scolastico giapponese in stile cinematografico. La camera inizia con un'inquadratura dall'alto (bird's-eye view) che mostra un corridoio luminoso inondato dalla luce dorata del pomeriggio. La camera esegue poi uno zoom fluido abbassando l'angolazione, passando a un profilo laterale dinamico e stabilizzandosi infine in un piano medio sui volti e sul busto dei personaggi. [AZIONE E PERSONAGGI] Una studentessa sicura di sé, con ciocche bionde e smalto nero, si fa avanti e appoggia delicatamente la mano sulla parete accanto a una timida e composta rappresentante di classe con occhiali rotondi. La rappresentante di classe stringe i libri al petto, arrossendo leggermente per la sorpresa. Petali di sakura rosa e ciocche di capelli ondeggiano dolcemente nell'inquadratura, mossi dal vento che entra dalle finestre aperte. [SFX ED EFFETTI AUDIO] Vento ambientale leggero e fruscio soffuso dei petali di sakura → Suono leggero di tocco sulla parete → Sospiro di sorpresa sommesso → Effetto sonoro calmo e sottile di battito cardiaco. [DIALOGHI IN GIAPPONESE] - Ragazza sicura di sé (tono scherzoso ma gentile): "Ehi, rappresentante... che succede? Hai la faccia un po' rossa?" (Nee, Iinchou... doushita no? Kao ga sukoshi akai yo?) - Rappresentante di classe (tono agitato ma dolce): "Eh...! Ah, sei troppo vicina... aspetta..." (Ehh...! A, chikai desu... chotto...) [STILE ED ESTETICA] Stile film live-action giapponese fotorealistico, illuminazione cinematografica, particelle di polvere atmosferica, profondità di campo ridotta, alta messa a fuoco, risoluzione 8k, 60fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080151806152482816/img/DzNNE11EyiPsrErK.jpg" width="600" alt="Dramma scolastico giapponese in stile cinematografico">
-
-**[🎬 Guarda il video →](https://x.com/ngoctramtp/status/2080152132133474497)**
-
-**Autore:** [Ciara | Yuri Cinematic](https://x.com/ngoctramtp) | **Fonte:** [Link](https://x.com/ngoctramtp/status/2080152132133474497) | **Pubblicato:** Jul 23, 2026
-
----
-### Addestramento e vincoli di movimento della figura
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Una serie precisa di istruzioni per Gemini Omni per animare una figura che osserva un trenino elettrico con rigidi vincoli direzionali e di ripresa.
-
-#### 📝 Prompt
-
-```
-Muovi la persona e il trenino.
-- Il treno deve muoversi solo in avanti; il movimento all'indietro è vietato.
-- La persona deve muoversi in avanti guardando il treno; il movimento all'indietro è vietato.
-- Non cambiare inquadratura.
-- Non includere treni o formazioni non presenti nell'immagine originale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="Addestramento e vincoli di movimento della figura">
-
-**[🎬 Guarda il video →](https://x.com/uso800railway/status/2079923166248644727)**
-
-**Autore:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **Fonte:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **Pubblicato:** Jul 22, 2026
-
----
-### Prompt per la sostituzione di oggetti nei video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt specifico per Gemini Omni Flash progettato per sostituire un oggetto in un video con un gatto proveniente da un'immagine di riferimento, mantenendo la coerenza della scena.
-
-#### 📝 Prompt
-
-```
-Modifica il video in input. Sostituisci il criceto con il gatto presente in <IMAGE_REF_0>, facendo corrispondere l'aspetto e l'identità del gatto. Applica lo stile visivo di <IMAGE_REF_1> all'aspetto del gatto (pelo, colori, stile di rendering). Mantieni il movimento, il timing, l'inquadratura e lo sfondo originali. 
-Lascia tutto il resto invariato. Ripresa continua, senza tagli di scena.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Prompt per la sostituzione di oggetti nei video">
-
-**[🎬 Guarda il video →](https://x.com/nicegen_ai/status/2079554954638033066)**
-
-**Autore:** [NiceGen.ai](https://x.com/nicegen_ai) | **Fonte:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Pubblicato:** Jul 21, 2026
-
----
-### Pubblicità cinematografica con drone per il miele dell'Himalaya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt completo in formato JSON per uno spot pubblicitario cinematografico ad alta velocità con drone, incentrato sul packaging del miele ambientato tra le montagne dell'Himalaya.
-
-#### 📝 Prompt
-
-```
-{
-  "description": "Un'inquadratura cinematografica ultra-rapida con drone inizia in alto sopra le maestose montagne innevate dell'Himalaya durante un'alba dorata. La telecamera scende rapidamente attraverso rigogliose valli verdi, fiumi cristallini e foreste di pini avvolte dalla nebbia, accelerando mentre sfreccia tra alberi imponenti e sfiora cascate scroscianti. Il ritmo rallenta gradualmente, passando a una tranquilla radura nella foresta baciata dalla calda luce del mattino. La telecamera scivola verso una pietra coperta di muschio dove un vasetto di vetro di Dabur Honey, sigillato e con il suo autentico packaging originale, è elegantemente posizionato come prodotto protagonista. L'inquadratura termina con un primo piano cinematografico premium che mette in risalto il ricco miele dorato all'interno del barattolo trasparente, preservando l'etichetta reale e il design del packaging. Nessun elemento di branding aggiuntivo, grafica fluttuante o testo extra.",
-  "style": "pubblicità naturalistica premium, cinematografica e iperrealistica con fotografia di prodotto di lusso",
-  "camera": "volo con drone in stile FPV ad alta velocità che transita in una ripresa cinematografica stabilizzata con dolly e una lenta rotazione macro per la presentazione del prodotto",
-  "lighting": "calda luce dell'alba dorata con bagliori naturali dell'obiettivo, raggi solari volumetrici attraverso la chioma della foresta, terminando con una luce chiave morbida e diffusa che accentua il barattolo di vetro e il miele dorato",
-  "environment": "maestose montagne dell'Himalaya, rigogliose valli forestali indiane, fiumi incontaminati, cascate scroscianti, fitte foreste di pini e una tranquilla radura forestale coperta di muschio ricca di texture naturali",
-  "elements": [
-    "montagne innevate dell'Himalaya",
-    "rigogliose valli verdi",
-    "fiumi cristallini",
-    "foreste di pini avvolte dalla nebbia",
-    "cascate scroscianti",
-    "piedistallo di pietra coperto di muschio",
-    "autentico vasetto di vetro Dabur Honey sigillato con packaging originale",
-    "api e farfalle sottili",
-    "rugiada del mattino",
-    "nebbia leggera che si dirada"
-  ],
-  "motion": "discesa aerea estremamente veloce e volo attraverso la foresta in stile FPV durante i primi 6 secondi, seguiti da una graziosa planata al rallentatore, un'orbita sottile e un leggero avvicinamento verso il prodotto per i 4 secondi finali",
-  "duration": "10 secondi",
-  "ending": "Il vasetto di Dabur Honey rimane perfettamente centrato sulla pietra coperta di muschio mentre la telecamera orbita lentamente e termina con un macro primo piano premium dell'etichetta e del miele dorato brillante all'interno del vasetto di vetro.",
-  "text": "nessuno",
-  "keywords": [
-    "16:9",
-    "pubblicità premium",
-    "volo cinematografico con drone",
-    "FPV",
-    "iperrealistico",
-    "presentazione prodotto di lusso",
-    "packaging autentico Dabur Honey",
-    "barattolo di miele in vetro",
-    "alba dorata",
-    "paesaggio naturale indiano",
-    "macro shot di prodotto",
-    "senza testo",
-    "senza loghi aggiuntivi"
-  ]
-}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Pubblicità cinematografica con drone per il miele dell'Himalaya">
-
-**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2079454972098609447)**
-
-**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Pubblicato:** Jul 21, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -2617,6 +2622,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-01T03:40:53.807Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-01T09:10:57.962Z</sub>
 
 </div>

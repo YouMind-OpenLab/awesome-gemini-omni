@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **224** |
+| 📝 Toplam İstem | **228** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-01** |
 
@@ -56,6 +56,110 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Buharda Nehir Balığı Video Reklam İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Gemini Omni kullanarak buharda pişmiş balık için profesyonel ve gerçekçi 40 saniyelik bir mutfak reklamı oluşturmaya yönelik çok bölümlü eksiksiz video istemi seti.
+
+#### 📝 İstem
+
+```
+Genel Gereksinimler: Yaklaşık 600-750g ağırlığında, aynı taze Wanlu Gölü tatlı su nehir balığı. Balık gövdesi yanal olarak basık, doğal oval şekilli, ince gümüş-gri pullu, tam kafa, kuyruk ve yüzgeçlere sahip ve gerçekçi bir vücut yapısındadır. Kafa her zaman karenin soluna, kuyruk ise sağına bakar; çekim boyunca aynı beyaz oval buharda balık tabağı kullanılır. Balığın uzunluğu, karın genişliği, kafa şekli, kesik pozisyonları ve tabak boyutu değişmemelidir. Çiğ hali: gümüş-gri pullar, sıkı et. Pişmiş hali: deri sağlam, et yarı saydamdan doğal sıcak beyaza döner, sırt eti belirgin taç yaprağı benzeri doku gösterir. Nihai ürün: yumuşak et, berrak sular, yüzeyde sadece orta miktarda sıcak yağ parlaklığı, ağır yağlı sosa batırılmamış. Metin, altyazı, marka, filigran, arayüz, pilav, diğer yemekler veya alakasız sofra takımları içermez. Bölüm 1 (0-10sn) | Hazırlık: 10 saniyelik, dikey 9:16 gerçekçi buharda nehir balığı yemek reklamı görüntüsü oluşturun. Sahne: temiz Çin mutfağı, kütük kesme tahtası üzerinde sıcak doğal yan aydınlatma. Konu: taze tatlı su nehir balığı, pulları temizlenmiş, içi boşaltılmış, temizlenmiş, 600-750g. Kafa sola, kuyruk sağa bakar. 0-3sn: Kamera kuyruktan kafaya doğru yavaşça hareket eder, pulların, nemli yüzeyin ve sıkı gövdenin makro çekimleri. Sadece küçük su damlacıkları, kan/organ yok. 3-5sn: Şef kağıt havluyla kurular. El, ölçek referansı sağlar. 5-8sn: Bir el balığı tutar, diğeri 2-3 sığ çapraz kesik atar. Bıçak gerçek temas sağlar. 8-10sn: Hafifçe tuz serpin, eşit şekilde yayın. Beyaz oval tabağa yerleştirin. Sinematik yemek fotoğrafçılığı, makro lens, sığ alan derinliği. Kaçının: Deniz balığı, levrek, somon, ton balığı; vücut boyutu değişiklikleri; kan/organlar; kesik başlar/kuyruklar; kırpılma; metin/filigranlar. Bölüm 2 (10-20sn) | Aromatikler: 10 saniyelik dikey 9:16 görüntü, Bölüm 1'in devamı. Kafa yönünü, pulları, kesikleri ve tabak ölçeğini koruyun. 0-3sn: Şef, altına zencefil ve taze soğan yerleştirmek için balığı kaldırır. 3-6sn: Karın kısmına ve kesiklere zencefil ekleyin. Sınırlı miktarda garnitür. 6-8sn: Çiğ detayların makro çekimi. 8-10sn: Tabak paslanmaz çelik buharlı pişiriciye yerleştirilir. Gerçek, sessiz hareket. Kaçının: Aşırı baharat, acı biber, sarımsak, otlar; uçuşan malzemeler; balığı çevirme; erken pişirme; parmak kırpılması. Bölüm 3 (20-30sn) | Buharda Pişirme: 10 saniyelik dikey 9:16 görüntü, Bölüm 2'nin devamı. 0-2sn: Su kaynıyor, kapak kapalı. Gerçekçi buhar. 2-5sn: Aydınlatma değişiklikleriyle buharda pişmenin hızlandırılmış gösterimi. 5-7sn: Kapak açılır, buhar dağılarak pişmiş balığı ortaya çıkarır. Et sıcak beyaza döner, kesikler hafifçe açılarak taç yaprağı benzeri dokuyu gösterir. 7-10sn: Tabak ısıya dayanıklı eldivenlerle çıkarılır, suyu süzülür, solmuş garnitürler alınır. Kaçının: Kırık deri; büzülme/genleşme; çiğ et; kızartma izleri; sütlü çorba; yemeği engelleyen buhar; sıcak tabaklarda çıplak eller. Bölüm 4 (30-40sn) | Kahraman Çekimi: 10 saniyelik dikey 9:16 üst düzey ticari görüntü, Bölüm 3'ün devamı. Nihai ürün tam şeklini, sıcak beyaz taç yaprağı benzeri et dokusunu korur. 0-2sn: Sırtına taze kıyılmış taze soğan yerleştirilir. 2-5sn: Hafif bir cızırtı ve buharla taze soğanların üzerine sıcak fıstık yağı dökülür. İnce parlaklık, yoğun duman yok. 5-7sn: Tabağın kenarına soya sosu eklenir. 7-10sn: Yemek çubukları bir parça eti ayırır. Yumuşak, nemli, taç yaprağı yapısı. Üst düzey mutfak dokusu, sıcak yan ışık, zarif vurgular, yumuşak bulanık arka plan. Kaçının: Kızartma/fırınlama; kararmış deri; acı biber yağı; ağır sos; tofu benzeri doku; yemek çubuğu kırpılması; ekstra yan yemekler veya filigranlar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094595644879142913/img/mt9DvBLaeLJ2WDNz.jpg" width="600" alt="Buharda Nehir Balığı Video Reklam İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/7998l201/status/2094595920692478091)**
+
+**Yazar:** [Ryan](https://x.com/7998l201) | **Kaynak:** [Link](https://x.com/7998l201/status/2094595920692478091) | **Yayınlandı:** Sep 1, 2026
+
+---
+### Sinematik Evian Şişesi Dönüşüm Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sisli bir alp vadisinde su damlacıklarının cam bir Evian şişesine dönüştüğü, 10 saniyelik kesintisiz ve sinematik bir çekim için hazırlanmış karmaşık, yapılandırılmış bir istem.
+
+#### 📝 İstem
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "tek, kesintisiz ve sürekli çekim, sahne geçişi yok",
+    "composition": "sisli bir alp şelalesi ve dere üzerinde ultra geniş açıyla başlar, havada organize bir girdap halinde yükselen su damlacıklarını takip eder, merkezde havada asılı duran Evian şişesinin yakın planıyla biter",
+    "lens": "dağ manzarası için telefoto, ürünün ortaya çıkışı için 35mm",
+    "frame_rate": "24fps sinematik",
+    "camera_movement": "yükselen damlacıkları takip eden yavaş bir yukarı eğim (tilt), ardından şişe şeklini aldıklarında içeriye doğru yumuşak bir dolly hareketi, havada asılı duran ürün üzerinde sabit kalma"
+  },
+  "timeline": {
+    "0-3s": "Şafak vaktinde ultra geniş sisli alp vadisi. Yosunlu kayaların üzerinden sığ bir dereye dökülen kristal berraklığında şelale. Yumuşak mavi saat ışığı, alçak sis, eğrelti otları üzerinde su damlacıkları.",
+    "3-7s": "Yüzlerce su damlacığı dere yüzeyinden yükselir ve yavaş, zarif, organize spiraller halinde döner. Havada birleşerek birinci sınıf bir cam su şişesinin tam silüetini oluştururlar. İnce parçacık kırılması ve parlayan damlacık kenarları.",
+    "7-10s": "Su formu bir kez nabız gibi atar ve havada ağırlıksız bir şekilde asılı duran, kadrajın merkezindeki gerçek bir Evian cam şişesine dönüşür. Ürün üzerinde sabit kal. Soğuk kenar ışığı ve hafif sis."
+  },
+  "subject": {
+    "description": "birinci sınıf bir cam şişe silüeti oluşturmak için zarif spiraller halinde yükselen ve dönen yüzlerce kristal berraklığında su damlacığı",
+    "props": "dönen damlacıklardan oluşan nihai Evian cam şişesi, ardından havada asılıyken gerçek markalı ambalaja geçiş"
+  },
+  "scene": {
+    "location": "şelale ve deresi olan yüksek alp vadisi",
+    "time_of_day": "şafak vakti mavi saat, yumuşak soğuk ışık, dağılmayan sis",
+    "environment": "taze dağ havası, nazik su akışı, yosun kaplı kayalar, dağınık eğrelti otları"
+  },
+  "visual_details": {
+    "action": "damlacıkların yükselmesi, organize spiraller halinde dönmesi, şişe ana hattına kilitlenmesi, nabız atışı ve ardından boşlukta asılı duran bitmiş Evian ambalajına dönüşmesi",
+    "special_effects": "su parçacığı animasyonu, ağır çekim kırılma, havada malzeme dönüşümü, hafif havada süzülme ışıltısı ve sis izleri"
+  },
+  "cinematography": {
+    "lighting": "soğuk yönlü şafak ışığı, parlayan damlacık kenarları, havada asılı şişe üzerinde gümüş-mavi kenar ışığı",
+    "color_palette": "kristal maviler, gümüş beyazlar, yosun yeşilleri, yumuşak griler",
+    "tone": "saf, ferahlatıcı, birinci sınıf zarafet"
+  },
+  "audio": {
+    "music": "narin yaylı pedler ve su esintili ince çan sesleri içeren yumuşak ambient piyano",
+    "ambient": "uzaktan gelen şelale sesi, nazik dere akışı, sabah kuşları",
+    "sound_effects": "damlacık girdabı birikimi, form tamamlandığında kilitlenme sesi, havada süzülme sırasında hafif kristal bir uğultu",
+    "mix": "havadar, açık, doğa odaklı ve temiz bir müzikal merkez"
+  },
+  "constraints": {
+    "dialogue": "yok",
+    "voiceover": "yok",
+    "on_screen_text": "yok",
+    "captions": "yok",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094395253038149632/img/O70UkRndlbm0U6mU.jpg" width="600" alt="Sinematik Evian Şişesi Dönüşüm Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2094395474048643382)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2094395474048643382) | **Yayınlandı:** Aug 31, 2026
+
+---
+### Hakka Usulü Doldurulmuş Acı Kavun Yemek Reklamı İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Gemini Omni için, 37 saniyelik gerçekçi bir Hakka usulü doldurulmuş acı kavun yemek reklamı oluşturmaya yönelik profesyonel video istemleri dizisi.
+
+#### 📝 İstem
+
+```
+[Görsel Tutarlılık ve Süreklilik Gereksinimleri] 'Hakka Usulü Doldurulmuş Acı Kavun' için 9:16 dikey formatta, üst düzey gerçekçi bir yemek reklamı üretin; sıcak doğal mutfak ışığı, gerçek malzemelerin makro çekimleri, net detaylar, ölçülü buhar ve yağ parıltısı kullanın. Film boyunca, her biri yaklaşık 2,5–3 cm kalınlığında, çapı ve duvar kalınlığı tutarlı olan aynı 8 adet acı kavun halkasını kullanın. Acı kavun kabuğu doğal pütürlü dokusunu korumalı; dolmalık biber, salatalık veya kabak halkasına dönüşmemelidir. Et harcı, %30 yağlı ve %70 yağsız domuz etinden oluşmalı, küçük el kıyması parçalar halinde doğranmış shiitake mantarları içermeli ve dokusunu korumalıdır. Çiğ harç doğal olarak pembe, pişmiş harç ise altın sarısı mühürlenmiş yüzeyiyle açık kahverengi olmalıdır; aşamalar arasındaki renk değişimleri gerçek pişirme süreciyle eşleşmelidir. Her bir acı kavun halkası etle doldurulmuş, her iki ucu hafif dolgun ve kavun ile harç birbirine sıkıca yapışık olmalıdır. Çevirme, tabağa alma veya kaldırma sırasında ikisi tek bir bütün olarak hareket etmeli; harç dışarı düşmemeli veya kavun duvarlarını delmemelidir. Tutarlı bir şekilde aynı ahşap kesme tahtasını, aynı paslanmaz çelik karıştırma kabını, aynı siyah düz tabanlı tavayı ve aynı beyaz sığ yuvarlak tabağı kullanın. Malzeme boyutu, araç renkleri ve ışık yönü sürekli kalmalıdır. Metin, altyazı, logo, filigran, kullanıcı arayüzü veya seslendirme oluşturmayın. Ses üretilirse, yalnızca doğrama, mühürleme ve kaynatma gibi doğal sesleri koruyun; anlatım ve müzik post prodüksiyonda eklenecektir. Bölüm 1: Dilimleme ve İçini Oyma 'Hakka Usulü Doldurulmuş Acı Kavun' için 10 saniyelik, 9:16 dikey formatta gerçekçi yemek reklamı görüntüleri oluşturun. 0-3. saniye: Ahşap bir tahta üzerinde yıkanmış iki taze acı kavun, net pütürlü yüzeyleriyle doğal zümrüt yeşili. Yakınlarda taze domuz eti, shiitake mantarları ve az miktarda yeşil soğan, zencefil ve sarımsak; arka plan düzenli. 3-6. saniye: Bir şef, Çin satırı kullanarak acı kavunu yaklaşık 2,5–3 cm kalınlığında halkalar halinde keser. Bıçak malzemeyle gerçek temas kurar; kesimler pürüzsüzdür ve halkalar ince değil, kalındır. 6-9. saniye: Küçük bir kaşık, halkaların iç duvarı boyunca dönerek çekirdekleri ve beyaz lifli kısmı çıkarır, kalan zarı nazikçe kazır. Kavun duvarı sağlam kalmalı, kırılmamalı veya kendiliğinden oyulmamalıdır. 9-10. saniye: Hazırlık tepsisine düzgünce yerleştirilmiş 8 adet içi boş acı kavun halkasını gösterin. Kamera birine odaklanarak kabuğu, duvarı ve boş yapıyı net bir şekilde gösterir. Sıcak yan aydınlatma, yavaş kamera hareketleri ve makro geçişler kullanın. Bıçağın ve kaşığın malzemelere temas ettiği yere odaklanın; hareket bulanıklığından ve aşırı pozlamadan kaçının. [Kaçınılması Gerekenler] Biber şekilleri, salatalık şekilleri, ince dilimler, kırık halkalar, kalan çekirdekler, otomatik oyulma, yoktan var olan malzemeler, parmak kesilmesi, altyazılar, filigranlar. Bölüm 2: Karıştırma ve Elle Doldurma Önceki bölümdeki aynı 8 halkayı kullanarak 10 saniyelik, 9:16 dikey formatta sürekli üretim görüntüleri oluşturun. 0-2. saniye: Hazırlık tepsisindeki boş halkalar ön plana gelir, kamera yavaşça yakındaki paslanmaz çelik bir kaba kayar. Kapta el kıyması domuz eti harcı, shiitake parçaları ve aromatikler bulunur; et, pürüzsüz bir macun değil, doğal parçacıklı bir yapıdadır. 2-4. saniye: Soya sosu, istiridye sosu, karabiber, yumurta akı ve nişasta eklenip tek yönde karıştırıldığını göstermek için doğal hızlı kesimler kullanın. Harç yavaş yavaş bütünleşir ancak küçük domuz eti parçaları ve koyu renkli shiitake parçaları hala görünür durumdadır. 4-8. saniye: Bir el acı kavun halkasını tutarken diğeri küçük bir kaşıkla eti aşamalı olarak doldurur. Önce tabanı doldurun, ardından iç duvarlara bastırın ve son olarak üst kısmı tamamlayın. Harç, duvarla sıkıca birleşir, büyük boşluklar yoktur; her iki uç hafif dolgundur ancak yüksek köfte şekillerinde yığılmamıştır. 8-10. saniye: Zaten doldurulmuş 8 acı kavun halkasına doğal geçiş. Harç hacmi tutarlıdır ve halkalar orijinal kalınlıklarını ve çaplarını korur. Tepsiyi ocağa doğru hareket ettirerek bitirin. Yakın çekimler ve tepeden çekimler arasında geçiş yapın, kaşığın eti bastırmasına odaklanın. Sıcak yumuşak ışık, gerçekçi el hareketleri, malzeme yüzeyleri aşırı parlak değil. [Kaçınılması Gerekenler] Duvarları delen et, bağımsız köfteler, boş dolgular, taşma, deforme olmuş halkalar, homojen macun, her yeri siyaha boyayan sos, aniden ortaya çıkan ekstra halkalar, deforme olmuş parmaklar, altyazılar, filigranlar. Bölüm 3: Mühürleme ve Braising (Kısık Ateşte Pişirme) 10 saniyelik, 9:16 dikey formatta mühürleme ve braising görüntüleri oluşturun. 0-3. saniye: Aynı siyah düz tabanlı tava ince bir kat fıstık yağı ile ısınır. Önceki bölümdeki doldurulmuş acı kavunları, etli tarafı aşağı gelecek şekilde, üst üste binmeden tek bir katman halinde tavaya yerleştirin. Temas noktalarında küçük yağ kabarcıkları ve doğal mühürleme sesleri oluşur. 3-5. saniye: Şef, acı kavun halkasını alttan tamamen desteklemek için ince bir spatula kullanır, altın kahverengi mühürlenmiş et yüzeyini ortaya çıkarmak için yavaşça çevirir ve diğer tarafı mühürler. Halka ve et birlikte dönmelidir; sadece halka hareket ederken et tavada kalamaz. 5-7. saniye: Tavanın kenarından az miktarda su veya et suyu ekleyin, acı kavunu tamamen batırmayan sığ bir katman oluşturun. Aynı kapakla kapatın. 7-10. saniye: Anlık pişirme yerine braising sürecini temsil etmek için doğal zaman atlamaları kullanın. Kapak açıldığında, acı kavun yumuşak bir sarı-yeşil renge dönmüş, duvarı yumuşamış ancak püre haline gelmemiş ve et tamamen pişmiş, altın rengi bir mühürle dolgun kalmıştır. Sıcak yan ışık, makroya geçiş yapan orta çekimler, kabarcıkları, mühürlenmiş yüzeyi ve doğal buharı vurgulayın. Buhar tüm malzemeleri gizlememelidir. [Kaçınılması Gerekenler] Büyük tencerede haşlama, derin yağda kızartma, yanmış yüzeyler, püre olmuş kavun, incelen halkalar, dışarı düşen et, çiğ pembe et, piştikten sonra çiğ görünen et, tava renginin değişmesi, miktar değişiklikleri, altyazılar, filigranlar. Bölüm 4: Sırlama ve Tabağa Alma Yakın Çekim 7 saniyelik final kurgusu için 10 saniyelik, 9:16 dikey formatta bitmiş reklam çekimleri oluşturun. 0-3. saniye: Kalan tava suyuna baharat ve nişastalı su ekleyin, berrak, açık kahverengi ince bir sır oluşturmak için tavayı nazikçe döndürün. Sır, kalın bir jel haline gelmeden malzemeleri hafifçe kaplar. 3-6. saniye: Doldurulmuş kavunları alttan desteklemek için bir spatula kullanın, doğal kurgularla tabağa yerleştirme işlemini tamamlayın. Aynı beyaz sığ yuvarlak tabağı kullanın; 8 halka tek bir katman halinde, mühürlenmiş etli taraf yukarı bakacak şekilde dizilmiş, kule gibi üst üste yığılmamış. 6-8. saniye: Küçük bir kaşık, kavun ve etin üzerine az miktarda ince sır gezdirerek hafif bir parlaklık oluşturur. Kabuk dokusu, pişmiş et parçacıkları ve shiitake parçaları net bir şekilde görünür kalmalı ve kalın sosla örtülmemelidir. 8-10. saniye: Bir çift ahşap çubuk, doldurulmuş bir acı kavunu yanlardan nazikçe kaldırır. Halka ve et birbirine bağlı kalır; malzemenin gerçek bir ağırlığı vardır ve az miktarda sır doğal olarak tabağa damlar. Tabakta boş bir nokta kalır ve otomatik olarak dolmaz. Kamera yavaşça yakınlaşarak yumuşak sarı-yeşil duvara, altın rengi ete ve berrak sırra odaklanır. Hafif bulanık arka plan, kaldırılan nihai üründe bekleyin. [Kaçınılması Gerekenler] Düşen et, kırık halkalar, ezilmiş et, tofu dokusu, kalın jel sır, aşırı yağ, koyu sos, otomatik dolan malzemeler, ekstra garnitürler, pilav, altyazılar, filigranlar. Seslendirme Stili İstemi: Çince Mandarin yemek reklamı anlatımı, doğal ve sıcak bir ses, net ifade, samimi ev ortamı hissi. Sabit tempo, cümle sonlarında hafif duraksamalar. 'Önce taze sonra tatlı', 'her biri dolgun', 'yumuşak ve sulu' ve 'ev tadında' ifadelerini vurgulayın. Abartılı satış konuşması yok, mekanik kelime kelime okuma yok. Yaygın Sorun Düzeltmeleri: Etin düşmesi: Acı kavun halkası ve içindeki et harcı sıkıca birbirine bağlıdır, tek bir gıda birimi olarak hareket eder. Çevirirken spatula tüm tabanı destekler; kaldırıldığında harç kaymamalı, düşmemeli veya kavun duvarından geçmemelidir. Acı kavunun fazla pişmiş görünmesi: Acı kavun yumuşak ve pişmiştir ancak duvar tam kalınlığını ve halka yapısını korur. Yüzey yumuşak ve nemlidir, çökmemiş, parçalanmamış veya erimemiştir. Etin tofu gibi görünmesi: Pişmiş et, küçük el kıyması parçacıklara, shiitake parçalarına ve doğal düzensiz bir yüzeye sahip olmalıdır; mühürlenmiş taraf altın kahverengidir, tekdüze beyaz, pürüzsüz, dokusuz bir blok veya macun değildir. Sırın çok kalın olması: Sır, akışkanlığı olan berrak, açık kahverengi ince bir sostur, yüzeye sadece hafifçe yapışır; kavun kabuğu ve et dokusu, jelatinimsi kalın bir macun gibi görünmeden hala görünür olmalıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094363615294038016/img/dRoj3oTNX64C-cnZ.jpg" width="600" alt="Hakka Usulü Doldurulmuş Acı Kavun Yemek Reklamı İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/7998l201/status/2094363707988164831)**
+
+**Yazar:** [Ryan](https://x.com/7998l201) | **Kaynak:** [Link](https://x.com/7998l201/status/2094363707988164831) | **Yayınlandı:** Aug 31, 2026
+
+---
 ### Çin'in Önemli Yerlerinde Selfie Hyperlapse
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -73,6 +177,25 @@ Yüklenen karakteri kullanarak, her vuruşta sert bir kesişle 20 farklı Çin s
 **[🎬 Videoyu izle →](https://x.com/johnAGI168/status/2094291245879160940)**
 
 **Yazar:** [John](https://x.com/johnAGI168) | **Kaynak:** [Link](https://x.com/johnAGI168/status/2094291245879160940) | **Yayınlandı:** Aug 31, 2026
+
+---
+### Hakka Usulü Üç Fincan Ördek Video Reklam İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Gemini Omni video oluşturma aracı için optimize edilmiş, 40 saniyelik üst düzey bir Hakka Usulü Üç Fincan Ördek reklamı oluşturmaya yönelik detaylı ve sıralı istemler.
+
+#### 📝 İstem
+
+```
+[Genel Sahne Ayarı] 10 saniye, dikey 9:16. Gerçekçi, üst düzey yemek reklamı; aynı sıcak tonlu Hakka mutfağı, aynı eski ahşap tezgah, aynı siyah demir tencere, aynı boyutta ve görünümde bütün ördek. Sol taraftan gelen pencere ışığı, sığ alan derinliği, gerçekçi yemek dokusu, kontrollü buhar ve doğal yağ parıltısı. Yavaş ve sabit kamera hareketi, bölümler içinde ağırlıklı olarak kesintisiz çekimler. Sadece doğal pişirme ortam sesleri, seslendirme veya müzik oluşturulmayacak. [Genel Negatif Kısıtlamalar] Metin, altyazı, logo, ambalaj, ilgisiz mutfak gereçleri veya aniden eklenen yan yemekler yok; fazla uzuv, parmak deformasyonu, malzeme tekrarı, pişirme kabı deformasyonu, yemeğin erimesi veya anında pişme yok. Normal pişirme eylemlerini ve ağırlık hissini koruyun. Bölüm 1: Malzeme Tanıtımı Temizlenmiş bütün bir ördek aynı ahşap tezgahın üzerine yerleştirilir; yanında üç küçük kasede pirinç şarabı, soya sosu ve kaya şekeri suyu ile zencefil dilimleri ve taze soğan parçaları bulunur. Yakın çekimle başlayarak, bir el temiz kağıt havluyla ördek derisinin yüzeyini nazikçe kurular. Kamera yavaşça ilerleyerek ördek derisinin dokusunu ve sosun kalitesini gösterir. Son olarak, ördek gövdesi sabit bir şekilde kaldırılır ve bir sonraki bölümdeki eylem geçişini kolaylaştırmak için yakındaki demir tencereye doğru taşınır. Taze/çiğ durumu koruyun, erken renk değişimi veya pişmiş et dokusu olmasın. Bölüm 2: Mühürleme ve Sos Ekleme Aynı siyah demir tencerede, bütün ördek zencefil dilimleri, taze soğan parçaları ve az miktarda ördek yağı eşliğinde eşit şekilde altın rengi alana kadar mühürlenir. Bir spatula ördek gövdesini sabit bir şekilde destekler, tencereye karşı mühürlenmeden kaynaklanan küçük kabarcıklar gösterilir, ardından hazırlanan pirinç şarabı, soya sosu ve kaya şekeri suyu sosu yavaşça dökülür. Kamera, tencere kenarının yakın çekiminden ördek derisinin yakın çekimine geçer; sos sıcak tencereyle temas ettiğinde doğal bir şekilde kaynar. Altın rengi ördek gövdesi ve yeni kaynamaya başlayan sos ile biter. Ördek gövdesinin anında koyu kırmızıya dönmesine ve sıvının havaya karışıp yok olmasına izin vermeyin. Bölüm 3: Kısık Ateşte Pişirme ve Soslama Aynı pişirme kabı ve sahne ile devam edilir. Bütün ördek kısık ateşte sosun içinde pişerken, deri yavaş yavaş nemli bir soya sosu rengi alır. Bir el, uzun saplı bir kaşık kullanarak tenceredeki orijinal suyu alır ve yavaşça ördeğin sırtına gezdirir; sos deri boyunca akar ve tekrar tencereye damlar. Soslama eylemini yan makro çekimle takip edin; gerçekçi buharı, hafif kaynamayı ve ördek derisinin parlaklığını vurgulayın. Son tabaklama çekimi için referans olması amacıyla bütün ördek gövdesi bozulmadan biter. Şiddetli kaynama yok, ördek etinin parçalanması veya deforme olması yok. Bölüm 4: Ürün Vitrini Aynı mutfak tezgahında, parçalanmış Üç Fincan Ördek düzgün bir şekilde tabağa yerleştirilir; deri kırmızı ve parlaktır, et parçaları gerçekçi kesitlerini ve katmanlarını korur. İlk olarak, düşük açılı bir yakın çekimle deri yüzeyini gösterin, ardından yoğunlaştırılmış orijinal suyu bir kaşıkla yavaşça gezdirin, sos doğal bir şekilde yapışsın. Son olarak, bir çift yemek çubuğu derili bir ördek eti parçasını alır, kamera yavaşça yaklaşır, ördek derisinin detaylarına, et kalitesine ve sos kaplamasına odaklanır, arka plan yumuşak bir şekilde bulanıktır. Yeni süslemeler, pirinç veya ikinci bir yemek eklemeyin; abartılı peynir benzeri uzamalar olmasın. [Seslendirme Metni] Hakiki Hakka Usulü Üç Fincan Ördek, iyi bir ördekle başlar. Taze ördeği yıkayıp kurulayın; en otantik ördek kokusunu korumak için haşlamayın. Zencefil ve taze soğan parçalarını kokusu çıkana kadar soteleyin, fazla yağı çıkarmak için bütün ördeği tencereye bastırarak mühürleyin. Her iki tarafı da altın rengi olana kadar mühürleyin, ardından pirinç şarabı, soya sosu ve kaya şekeri suyunu ekleyin. Sosu kaynatın, ardından kısık ateşte 45 dakika pişirin. Pirinç şarabı, soya sosu ve tatlılık aromalarının ete eşit şekilde işlemesi için ara sıra çevirin ve sürekli soslayın. Son olarak, ördek derisi kırmızı ve parlak hale gelene ve sos gövdeye yapışana kadar orijinal suyu yoğunlaştırmak için ateşi açın. Parçalamadan önce hafifçe soğumasını bekleyin, ardından orijinal suyu üzerine gezdirin; işte yumuşak ve lezzetli Hakka Usulü Üç Fincan Ördek. [Sentez Komutu] 'Yemek Reklamı Prodüksiyonu Yeteneğini kullan, videoları 1, 2, 3, 4 sırasıyla birleştir. Seslendirme için onaylanmış orijinal metni kullan, tek seferde kesintisiz bir Doubao seslendirmesi oluştur. Hedef 40 saniye, 1080x1920, 24fps, düşük ses seviyesinde orijinal video ortam sesini koru, MP4 çıktısı al, ana kare kontrol görsellerini ve doğrulama raporunu hazırla.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094273910191878144/img/aWZXSJOTgY7v85_q.jpg" width="600" alt="Hakka Usulü Üç Fincan Ördek Video Reklam İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/7998l201/status/2094274092757385382)**
+
+**Yazar:** [Ryan](https://x.com/7998l201) | **Kaynak:** [Link](https://x.com/7998l201/status/2094274092757385382) | **Yayınlandı:** Aug 31, 2026
 
 ---
 ### Sinematik Kahveli Çikolata Reklamı
@@ -2451,124 +2574,6 @@ FIZZI Sparkling Tonic — Grapefruit için sinematik yaz içeceği reklamı; sı
 **Yazar:** [Sharon Riley](https://x.com/Just_sharon7) | **Kaynak:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Yayınlandı:** Jul 23, 2026
 
 ---
-### Sinematik Japon Lise Draması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için özel kamera hareketleri, diyaloglar ve atmosferik efektlerle detaylı bir lise draması sahnesi oluşturan kapsamlı bir video üretim istemi.
-
-#### 📝 İstem
-
-```
-[SAHNE & KAMERA HAREKETİ] Sinematik Japon lise draması sahnesi. Kamera, altın rengi öğleden sonra güneş ışığıyla dolu aydınlık bir koridora yukarıdan bakan, yüksek açılı kuş bakışı geniş bir çekimle başlar. Kamera daha sonra yumuşak bir şekilde yakınlaşır ve açısını düşürerek dinamik bir yan profile geçer, son olarak karakterlerin yüzlerine ve üst gövdelerine odaklanan orta yakın çekime yerleşir. [AKSİYON & KARAKTERLER] Siyah ojeli, sarı saç tutamları olan özgüvenli bir kız öğrenci öne çıkar ve elini nazikçe, yuvarlak gözlüklü, düzenli ve utangaç sınıf başkanının yanındaki duvara koyar. Sınıf başkanı kitaplarını sıkıca tutar, şaşkınlıkla hafifçe kızarır. Açık pencerelerden gelen ılık rüzgarla birlikte pembe sakura yaprakları ve saçlar kare boyunca yumuşakça dalgalanır. [SFX & SES EFEKTLERİ] Hafif ortam rüzgarı ve yumuşak hışırdayan sakura yaprakları → Hafif duvara dokunma sesi → Yumuşak şaşkınlık nefesi → Sakin, hafif kalp atışı ses efekti. [JAPONCA DİYALOG] - Özgüvenli Kız (Alaycı ama nazik bir tonla): "Hey, Başkan... ne oldu? Yüzün biraz kızarmış mı?" (Nee, Iinchou... doushita no? Kao ga sukoshi akai yo?) - Sınıf Başkanı (Telaşlı ama yumuşak bir tonla): "Eh...! Ah, çok yakındasın... bekle..." (Ehh...! A, chikai desu... chotto...) [STİL & ESTETİK] Fotogerçekçi Japon gençlik canlı çekim film stili, sinematik aydınlatma, atmosferik toz parçacıkları, sığ alan derinliği, yüksek odak, 8k çözünürlük, 60fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080151806152482816/img/DzNNE11EyiPsrErK.jpg" width="600" alt="Sinematik Japon Lise Draması">
-
-**[🎬 Videoyu izle →](https://x.com/ngoctramtp/status/2080152132133474497)**
-
-**Yazar:** [Ciara | Yuri Cinematic](https://x.com/ngoctramtp) | **Kaynak:** [Link](https://x.com/ngoctramtp/status/2080152132133474497) | **Yayınlandı:** Jul 23, 2026
-
----
-### Tren ve Figür Hareket Kısıtlamaları
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Gemini Omni'nin, bir model treni izleyen figürü katı yön ve kamera kısıtlamalarıyla canlandırması için hazırlanmış hassas talimatlar seti.
-
-#### 📝 İstem
-
-```
-Kişiyi ve model treni hareket ettirin.
-- Tren sadece ileri doğru hareket etmelidir; geri hareket yasaktır.
-- Kişi, trene bakarken ileri doğru hareket etmelidir; geri hareket yasaktır.
-- Kamera açısını değiştirmeyin.
-- Orijinal görselde bulunmayan hiçbir treni veya oluşumu dahil etmeyin.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="Tren ve Figür Hareket Kısıtlamaları">
-
-**[🎬 Videoyu izle →](https://x.com/uso800railway/status/2079923166248644727)**
-
-**Yazar:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **Kaynak:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **Yayınlandı:** Jul 22, 2026
-
----
-### Video Nesne Değiştirme İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni Flash için tasarlanmış, sahne tutarlılığını koruyarak videodaki bir nesneyi referans görseldeki bir kediyle değiştirmeye yönelik özel bir istem.
-
-#### 📝 İstem
-
-```
-Girdi videosunu düzenle. Hamster'ı <IMAGE_REF_0> içindeki kediyle değiştir; kedinin görünüşünü ve kimliğini eşleştir. <IMAGE_REF_1> görsel stilini kedinin görünümüne (tüy, renkler, işleme stili) uygula. Orijinal hareketi, zamanlamayı, kamerayı ve arka planı koru. 
-Diğer her şeyi aynı tut. Kesintisiz çekim, sahne geçişi yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Video Nesne Değiştirme İstemi">
-
-**[🎬 Videoyu izle →](https://x.com/nicegen_ai/status/2079554954638033066)**
-
-**Yazar:** [NiceGen.ai](https://x.com/nicegen_ai) | **Kaynak:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Yayınlandı:** Jul 21, 2026
-
----
-### Himalaya Balı Sinematik Drone Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Himalaya dağları fonunda bal ambalajını öne çıkaran, yüksek hızlı sinematik drone reklamı için kapsamlı JSON formatında bir komut.
-
-#### 📝 İstem
-
-```
-{
-  "description": "Ultra hızlı sinematik drone çekimi, altın rengi gün doğumunda görkemli, karla kaplı Himalaya dağlarının üzerinde başlar. Kamera; yemyeşil vadiler, kristal berraklığında nehirler ve sisle kaplı çam ormanlarının içinden hızla dalarak, devasa ağaçların arasında yarışıp çağlayan şelalelerin üzerinden süzülerek hızlanır. Tempo kademeli olarak yavaşlar ve sıcak sabah ışığıyla yıkanan huzurlu bir orman açıklığına geçiş yapar. Kamera, yosun kaplı bir taşın üzerinde, otantik perakende ambalajıyla zarif bir şekilde yerleştirilmiş, ağzı kapalı saf Dabur Honey cam kavanozuna doğru süzülür. Çekim, gerçek ürün etiketini ve ambalaj tasarımını korurken, şeffaf kavanozun içindeki zengin altın rengi balı vurgulayan birinci sınıf bir sinematik yakın çekimle sona erer. Ek marka öğeleri, yüzen grafikler veya fazladan metin yoktur.",
-  "style": "premium sinematik hiper-gerçekçi doğa reklamı ve lüks ürün fotoğrafçılığı",
-  "camera": "yüksek hızlı FPV tarzı drone geçişi, ardından stabilize sinematik dolly ve yavaş orbital makro ürün sunumu",
-  "lighting": "doğal lens parlamaları ve orman gölgeliğinden süzülen hacimsel güneş ışınları ile sıcak altın rengi gün doğumu aydınlatması; cam kavanozu ve altın rengi balı vurgulayan yumuşak difüzörlü ana ışıkla sona erer",
-  "environment": "görkemli Himalaya dağları, yemyeşil Hint orman vadileri, kristal berraklığında nehirler, çağlayan şelaleler, sık çam ormanları ve doğal dokular açısından zengin, huzurlu, yosun kaplı orman açıklığı",
-  "elements": [
-    "karla kaplı Himalaya dağları",
-    "yemyeşil vadiler",
-    "kristal berraklığında nehirler",
-    "sisle kaplı çam ormanları",
-    "çağlayan şelaleler",
-    "yosun kaplı taş kaide",
-    "orijinal perakende ambalajıyla ağzı kapalı otantik Dabur Honey cam kavanozu",
-    "ince arılar ve kelebekler",
-    "sabah çiyi",
-    "hafif sürüklenen sis"
-  ],
-  "motion": "ilk 6 saniye boyunca son derece hızlı hava inişi ve FPV orman geçişi, ardından zarif bir ağır çekim süzülüş, hafif yörünge hareketi ve son 4 saniyede ürüne doğru nazik bir yakınlaşma",
-  "duration": "10 saniye",
-  "ending": "Kamera yavaşça yörüngede dönerken otantik Dabur Honey kavanozu yosun kaplı taşın üzerinde mükemmel bir şekilde merkezde kalır ve etiket ile cam kavanozun içindeki parlayan altın rengi balın premium makro yakın çekimiyle sona erer.",
-  "text": "yok",
-  "keywords": [
-    "16:9",
-    "premium reklam",
-    "sinematik drone geçişi",
-    "FPV",
-    "hiper-gerçekçi",
-    "lüks ürün sunumu",
-    "otantik Dabur Honey ambalajı",
-    "cam bal kavanozu",
-    "altın rengi gün doğumu",
-    "Hint doğal manzarası",
-    "makro ürün çekimi",
-    "metin yok",
-    "ek logo yok"
-  ]
-}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Himalaya Balı Sinematik Drone Reklamı">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2079454972098609447)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Yayınlandı:** Jul 21, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -2621,6 +2626,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-01T03:40:56.773Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-01T09:11:00.545Z</sub>
 
 </div>

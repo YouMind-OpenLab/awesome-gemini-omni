@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **224** |
+| 📝 Total des prompts | **228** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-09-01** |
 
@@ -56,6 +56,110 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompts de publicité vidéo pour poisson de rivière à la vapeur
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un ensemble complet de prompts vidéo multi-segments pour générer une publicité culinaire professionnelle et réaliste de 40 secondes pour du poisson à la vapeur en utilisant Gemini Omni.
+
+#### 📝 Prompt
+
+```
+Exigences générales : Le même poisson de rivière d'eau douce frais du lac Wanlu, d'environ 600 à 750 g. Le corps du poisson est comprimé latéralement, de forme naturellement ovale, avec des écailles gris argenté fines, une tête, une queue et des nageoires complètes, et une forme corporelle réaliste. La tête est toujours orientée vers la gauche du cadre et la queue vers la droite ; la même assiette ovale blanche pour poisson à la vapeur est utilisée tout au long. La longueur du poisson, la largeur du ventre, la forme de la tête, la position des incisions et la taille de l'assiette ne doivent pas changer. État cru : écailles gris argenté, chair ferme. État cuit : peau intacte, la chair passe d'un aspect translucide à un blanc chaud naturel, la chair du dos présente une texture claire en pétales. Produit fini : chair tendre, jus clairs, surface avec seulement une quantité modérée de lustre d'huile chaude, non trempé dans une sauce huileuse épaisse. Aucun texte, sous-titre, marque, filigrane, interface, riz, autres plats ou vaisselle non pertinente. Segment 1 (0-10s) | Préparation : Générez une séquence publicitaire culinaire réaliste de 10s, format vertical 9:16, de poisson de rivière à la vapeur. Scène : cuisine chinoise propre, éclairage latéral naturel et chaleureux sur une planche à découper en bois. Sujet : poisson de rivière d'eau douce frais, écaillé, vidé, nettoyé, 600-750g. La tête est orientée vers la gauche, la queue vers la droite. 0-3s : La caméra se déplace lentement de la queue vers la tête, plans macro des écailles, surface humide et corps ferme. Uniquement de petites gouttelettes d'eau, pas de sang ni d'organes. 3-5s : Le chef utilise un essuie-tout pour éponger. La main sert de référence d'échelle. 5-8s : Une main tient le poisson, l'autre effectue 2-3 incisions diagonales peu profondes. La lame entre en contact réel. 8-10s : Saupoudrer légèrement de sel, frotter uniformément. Placer dans une assiette ovale blanche. Photographie culinaire cinématographique, objectif macro, faible profondeur de champ. À éviter : Poisson de mer, bar, saumon, thon ; changement de taille du corps ; sang/organes ; têtes/queues coupées ; clipping ; texte/filigranes. Segment 2 (10-20s) | Aromates : Séquence verticale 9:16 de 10s, dans la continuité du Segment 1. Maintenir la direction de la tête, les écailles, les incisions et l'échelle de l'assiette. 0-3s : Le chef soulève le poisson pour placer du gingembre et de la ciboule en dessous. 3-6s : Ajouter du gingembre sur le ventre et dans les incisions. Quantité de garniture modérée. 6-8s : Plan macro des détails crus. 8-10s : L'assiette est placée dans un cuiseur vapeur en acier inoxydable. Mouvement réel et calme. À éviter : Épices excessives, piment, ail, herbes ; ingrédients qui volent ; retourner le poisson ; cuisson prématurée ; doigts qui coupent l'image. Segment 3 (20-30s) | Cuisson vapeur : Séquence verticale 9:16 de 10s, dans la continuité du Segment 2. 0-2s : Eau bouillante, couvercle fermé. Vapeur réaliste. 2-5s : Représentation en accéléré de la cuisson vapeur par des changements d'éclairage. 5-7s : Couvercle ouvert, la vapeur se dissipe pour révéler le poisson cuit. La chair est devenue blanc chaud, les incisions sont légèrement ouvertes montrant une texture en pétales. 7-10s : L'assiette est retirée avec des gants résistants à la chaleur, l'eau est égouttée, la garniture flétrie est retirée. À éviter : Peau déchirée ; rétrécissement/gonflement ; chair crue ; marques de friture ; soupe laiteuse ; vapeur bloquant la nourriture ; mains nues sur des assiettes chaudes. Segment 4 (30-40s) | Plan héroïque : Séquence publicitaire haut de gamme verticale 9:16 de 10s, dans la continuité du Segment 3. Le produit fini conserve sa forme complète, texture de chair en pétales blanc chaud. 0-2s : Ciboule fraîche ciselée placée sur le dos. 2-5s : Huile d'arachide chaude versée sur la ciboule avec un léger grésillement et de la vapeur. Lustre fin, pas de fumée épaisse. 5-7s : Sauce soja ajoutée sur le bord de l'assiette. 7-10s : Des baguettes séparent un pétale de chair. Tendre, humide, structure en pétales. Texture culinaire haut de gamme, lumière latérale chaude, reflets délicats, arrière-plan doucement flouté. À éviter : Friture/cuisson au four ; peau noircie ; huile pimentée ; sauce épaisse ; texture type tofu ; baguettes qui coupent l'image ; plats d'accompagnement supplémentaires ou filigranes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094595644879142913/img/mt9DvBLaeLJ2WDNz.jpg" width="600" alt="Prompts de publicité vidéo pour poisson de rivière à la vapeur">
+
+**[🎬 Voir la vidéo →](https://x.com/7998l201/status/2094595920692478091)**
+
+**Auteur:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2094595920692478091) | **Publié:** Sep 1, 2026
+
+---
+### Animation cinématographique de morphing d'une bouteille Evian
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt complexe et structuré pour un plan cinématographique fluide de 10 secondes montrant des gouttelettes d'eau se transformant en une bouteille en verre Evian dans une vallée alpine brumeuse.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "plan séquence continu et ininterrompu, sans coupure",
+    "composition": "commence par un plan ultra-large sur une cascade et un ruisseau alpins brumeux, suit des gouttelettes d'eau s'élevant en un tourbillon organisé dans les airs, se termine sur un gros plan centré d'une bouteille Evian flottante",
+    "lens": "téléobjectif pour le paysage montagneux, puis 35 mm pour la révélation du produit",
+    "frame_rate": "24fps cinématographique",
+    "camera_movement": "inclinaison lente vers le haut suivant les gouttelettes ascendantes, puis un travelling avant fluide alors qu'elles se verrouillent en forme de bouteille, maintien fixe sur le produit en lévitation"
+  },
+  "timeline": {
+    "0-3s": "Vallée alpine brumeuse à l'aube en plan ultra-large. Cascade cristalline se déversant sur des rochers moussus dans un ruisseau peu profond. Lumière douce de l'heure bleue, brouillard bas, gouttelettes d'eau sur les fougères.",
+    "3-7s": "Des centaines de gouttelettes d'eau s'élèvent de la surface du ruisseau et tournoient en spirales lentes, élégantes et organisées. Elles s'assemblent en plein air pour former la silhouette exacte d'une bouteille d'eau en verre premium. Réfraction subtile des particules et bords des gouttelettes lumineux.",
+    "7-10s": "La forme d'eau pulse une fois et se transforme en une véritable bouteille en verre Evian flottant en apesanteur, centrée dans le cadre. Maintien sur le produit. Éclairage de contour froid et brume légère."
+  },
+  "subject": {
+    "description": "centaines de gouttelettes d'eau cristallines s'élevant et tournoyant en spirales élégantes pour former la silhouette d'une bouteille en verre premium",
+    "props": "bouteille en verre Evian finale formée à partir de gouttelettes tourbillonnantes, puis transition vers un emballage de marque réel tout en flottant dans les airs"
+  },
+  "scene": {
+    "location": "vallée de haute montagne avec cascade et ruisseau",
+    "time_of_day": "aube, heure bleue, lumière douce et froide, brume persistante",
+    "environment": "air frais de la montagne, écoulement doux de l'eau, rochers couverts de mousse, fougères éparses"
+  },
+  "visual_details": {
+    "action": "les gouttelettes s'élèvent, tournent en spirales organisées, se verrouillent en contour de bouteille, pulsent, puis se transforment en emballage Evian fini suspendu dans l'espace",
+    "special_effects": "animation de particules d'eau, réfraction au ralenti, morphing de matière en plein air, scintillement subtil de lévitation et traînées de brume"
+  },
+  "cinematography": {
+    "lighting": "lumière froide et directionnelle de l'aube, bords des gouttelettes lumineux, éclairage de contour argenté-bleuté sur la bouteille flottante",
+    "color_palette": "bleus cristallins, blancs argentés, verts mousse, gris doux",
+    "tone": "pur, rafraîchissant, élégance premium"
+  },
+  "audio": {
+    "music": "piano ambiant doux avec des nappes de cordes délicates et des carillons subtils inspirés par l'eau",
+    "ambient": "cascade lointaine, écoulement doux du ruisseau, oiseaux du matin",
+    "sound_effects": "montée en puissance du tourbillon de gouttelettes, clic de verrouillage lorsque la forme est complète, bourdonnement cristallin subtil sous la lévitation",
+    "mix": "aérien, ouvert, axé sur la nature avec un centre musical épuré"
+  },
+  "constraints": {
+    "dialogue": "aucun",
+    "voiceover": "aucun",
+    "on_screen_text": "aucun",
+    "captions": "aucun",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094395253038149632/img/O70UkRndlbm0U6mU.jpg" width="600" alt="Animation cinématographique de morphing d'une bouteille Evian">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2094395474048643382)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2094395474048643382) | **Publié:** Aug 31, 2026
+
+---
+### Prompts publicitaires pour le melon amer farci à la hakka
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Une séquence de prompts vidéo professionnels pour Gemini Omni afin de créer une publicité culinaire réaliste de 37 secondes sur le melon amer farci à la hakka.
+
+#### 📝 Prompt
+
+```
+[Exigences de cohérence visuelle et de continuité] Produisez une publicité culinaire réaliste haut de gamme pour le « melon amer farci à la hakka », format vertical 9:16, éclairage de cuisine naturel et chaleureux, plans macro d'ingrédients réels, détails nets, vapeur et reflet d'huile modérés. Utilisez le même ensemble de 8 rondelles de melon amer tout au long du film, chacune mesurant environ 2,5 à 3 cm d'épaisseur avec un diamètre et une épaisseur de paroi constants. La peau du melon amer doit conserver sa texture naturellement bosselée et ne doit pas se transformer en rondelles de poivron, de concombre ou de courgette. La farce à la viande se compose de 30 % de gras et 70 % de porc maigre avec des champignons shiitake hachés, conservant de petites particules coupées à la main. La farce crue est naturellement rosée, tandis que la farce cuite est brun clair avec une surface saisie dorée ; les changements de couleur entre les étapes doivent correspondre au processus de cuisson réel. Chaque rondelle de melon amer est farcie de viande, légèrement bombée aux deux extrémités, le melon et la farce étant étroitement liés. Lors du retournement, du dressage ou de la saisie, les deux se déplacent comme une unité unique ; la farce ne doit pas tomber ni traverser les parois du melon. Utilisez systématiquement la même planche à découper en bois, le même bol mélangeur en acier inoxydable, la même poêle noire à fond plat et la même assiette ronde et peu profonde. La taille des ingrédients, les couleurs des ustensiles et la direction de la lumière doivent rester constantes. Ne générez pas de texte, de sous-titres, de logos, de filigranes, d'interfaces utilisateur ou de voix off. Si de l'audio est généré, ne conservez que les sons naturels de découpe, de saisie et d'ébullition ; la narration et la musique seront ajoutées en post-production. Segment 1 : Découpe et évidage Générez 10 secondes de séquences publicitaires culinaires réalistes au format vertical 9:16 pour le « melon amer farci à la hakka ». 0-3s : Deux melons amers frais lavés sur une planche en bois, vert émeraude naturel avec des bosses nettes. Du porc frais, des champignons shiitake et de petites quantités d'oignon vert, de gingembre et d'ail sont placés à proximité ; l'arrière-plan est ordonné. 3-6s : Un chef utilise un couperet chinois pour découper le melon amer en rondelles d'environ 2,5 à 3 cm d'épaisseur. La lame entre en contact réel avec l'ingrédient ; les coupes sont nettes et les rondelles sont épaisses, non tranchées finement. 6-9s : Une petite cuillère tourne le long de la paroi interne des rondelles, évidant les graines et la moelle blanche, grattant doucement la membrane résiduelle. La paroi du melon reste intacte et ne doit pas être brisée ni devenir automatiquement creuse. 9-10s : Montrez l'ensemble sélectionné de 8 rondelles de melon amer creuses disposées proprement sur un plateau de préparation. La caméra zoome sur l'une d'elles, montrant clairement la peau, la paroi et la structure creuse. Utilisez un éclairage latéral chaud, des mouvements de caméra lents et des changements de macro. Concentrez-vous sur l'endroit où le couteau et la cuillère touchent les ingrédients ; évitez le flou de mouvement et la surexposition. [À éviter] Formes de poivron, formes de concombre, tranches fines, rondelles brisées, graines résiduelles, évidage automatique, ingrédients apparaissant de nulle part, doigts coupés, sous-titres, filigranes. Segment 2 : Mélange et farcissage à la main Générez 10 secondes de séquences de production continues au format vertical 9:16 en utilisant les 8 mêmes rondelles du segment précédent. 0-2s : Les rondelles creuses sur le plateau de préparation entrent au premier plan, la caméra effectue un panoramique lent vers un bol en acier inoxydable à proximité. Le bol contient la farce de porc hachée à la main, des morceaux de shiitake et des aromates ; la viande présente des particules naturelles, pas une pâte lisse. 2-4s : Utilisez des coupes rapides naturelles pour montrer l'ajout de sauce soja, sauce huître, poivre, blanc d'œuf et fécule, en remuant dans une seule direction. La farce se lie progressivement mais de petites particules de porc et des morceaux de shiitake foncés restent visibles. 4-8s : Une main tient une rondelle de melon amer tandis que l'autre utilise une petite cuillère pour la farcir avec la viande par étapes. Remplissez d'abord le fond, puis pressez contre les parois internes, et enfin remplissez le dessus. La farce s'ajuste étroitement contre la paroi sans grands espaces ; les deux extrémités sont légèrement bombées mais pas empilées en formes de boulettes de viande hautes. 8-10s : Montage naturel vers l'ensemble des 8 rondelles de melon amer déjà farcies. Le volume de la farce est cohérent et les rondelles conservent leur épaisseur et leur diamètre d'origine. Terminez en déplaçant le plateau vers la cuisinière. Alternez entre des gros plans et des prises de vue en plongée, en vous concentrant sur la cuillère qui presse la viande. Lumière douce et chaude, mouvements de main réalistes, les surfaces des ingrédients ne sont pas trop brillantes. [À éviter] Viande traversant les parois, boulettes de viande indépendantes, farce creuse, débordement, rondelles déformées, pâte uniforme, sauce tachant tout en noir, rondelles supplémentaires soudaines, doigts déformés, sous-titres, filigranes. Segment 3 : Saisie et braisage Générez 10 secondes de séquences de saisie et de braisage au format vertical 9:16. 0-3s : La même poêle noire à fond plat chauffe avec une fine couche d'huile d'arachide. Placez les melons amers farcis du segment précédent à plat dans la poêle, côté viande vers le bas, en une seule couche sans chevauchement. De petites bulles d'huile et des sons de saisie naturels apparaissent aux points de contact. 3-5s : Le chef utilise une spatule fine pour soutenir entièrement une rondelle de melon amer par le dessous, la retournant lentement pour révéler une surface de viande saisie dorée, puis saisit l'autre côté. La rondelle et la viande doivent se retourner ensemble ; la viande ne peut pas rester dans la poêle pendant que seule la rondelle bouge. 5-7s : Ajoutez une petite quantité d'eau ou de bouillon le long du bord de la poêle, formant une couche peu profonde qui ne submerge pas le melon amer. Couvrez avec le même couvercle. 7-10s : Utilisez des sauts temporels naturels pour représenter le processus de braisage plutôt qu'une cuisson instantanée. Lors de la révélation, le melon amer est devenu jaune-vert tendre, la paroi est souple mais pas pâteuse, et la viande est entièrement cuite, restant bombée avec une saisie dorée. Lumière latérale chaude, plans moyens passant à la macro, mettant l'accent sur les bulles, la surface saisie et la vapeur naturelle. La vapeur ne doit pas masquer tous les ingrédients. [À éviter] Ébullition dans une grande marmite, friture, surfaces carbonisées, melon pâteux, rondelles qui s'amincissent, viande qui tombe, viande crue rose, aspect cru après braisage, changement de couleur de la poêle, changement de quantité, sous-titres, filigranes. Segment 4 : Glaçage et dressage en gros plan Générez 10 secondes de plans publicitaires finaux pour un montage final de 7 secondes. 0-3s : Ajoutez l'assaisonnement et l'eau féculée aux jus de cuisson restants, en faisant tourner doucement la poêle pour créer un glaçage fin, clair et brun clair. Le glaçage enrobe légèrement les ingrédients sans devenir un gel épais. 3-6s : Utilisez une spatule pour soutenir les melons farcis par le dessous, en terminant le dressage via des montages naturels. Utilisez la même assiette ronde blanche et peu profonde ; 8 rondelles disposées en une seule couche, côté viande saisie vers le haut, non empilées en tour. 6-8s : Une petite cuillère arrose uniformément une petite quantité de glaçage fin sur le melon et la viande, créant un léger lustre. La texture de la peau, les particules de viande cuite et les morceaux de shiitake restent clairement visibles et ne sont pas recouverts par une sauce épaisse. 8-10s : Une paire de baguettes en bois saisit délicatement un melon amer farci entier par les côtés. La rondelle et la viande restent liées ; l'ingrédient a un poids réel, et une petite quantité de glaçage goutte naturellement dans l'assiette. Un espace vide reste dans l'assiette et ne se remplit pas automatiquement. La caméra zoome lentement, se concentrant sur la paroi jaune-vert tendre, la viande dorée et le glaçage clair. Arrière-plan flou doux, s'attardant sur le produit final soulevé. [À éviter] Viande qui tombe, rondelles brisées, viande écrasée, texture de tofu, glaçage en gel épais, huile excessive, sauce foncée, ingrédients qui se remplissent automatiquement, garnitures supplémentaires, riz, sous-titres, filigranes. Style de voix off : Narration publicitaire culinaire en mandarin, voix naturelle et chaleureuse, expression claire, sensation familiale et conviviale. Rythme régulier, légères pauses à la fin des phrases. Insistez sur « d'abord frais puis sucré », « chacun bien dodu », « tendre et juteux » et « le goût de la maison ». Pas d'argumentaire de vente exagéré, pas de lecture mécanique mot à mot. Corrections des problèmes courants : Viande qui tombe : La rondelle de melon amer et la farce de viande interne sont étroitement liées, se déplaçant comme une unité alimentaire unique. La spatule soutient tout le fond lors du retournement ; la farce ne doit pas glisser, tomber ou traverser la paroi du melon lorsqu'elle est saisie. Le melon amer semble trop cuit : Le melon amer est tendre et cuit, mais la paroi conserve toute son épaisseur et sa structure en rondelle. La surface est souple et humide, non affaissée, brisée ou fondue. La viande ressemble à du tofu : La viande cuite doit avoir de petites particules hachées à la main, des morceaux de shiitake et une surface naturellement inégale ; le côté saisi est brun doré, pas un bloc ou une pâte uniforme, blanche, lisse et sans texture. Le glaçage est trop épais : Le glaçage est une sauce fine, claire et brun clair avec de la fluidité, n'adhérant que légèrement à la surface ; la texture de la peau du melon et de la viande doit rester visible, sans apparaître comme une pâte gélatineuse épaisse.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094363615294038016/img/dRoj3oTNX64C-cnZ.jpg" width="600" alt="Prompts publicitaires pour le melon amer farci à la hakka">
+
+**[🎬 Voir la vidéo →](https://x.com/7998l201/status/2094363707988164831)**
+
+**Auteur:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2094363707988164831) | **Publié:** Aug 31, 2026
+
+---
 ### Hyperlapse selfie devant des monuments chinois
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -73,6 +177,25 @@ Créez un hyperlapse selfie de 10 secondes en utilisant le personnage téléchar
 **[🎬 Voir la vidéo →](https://x.com/johnAGI168/status/2094291245879160940)**
 
 **Auteur:** [John](https://x.com/johnAGI168) | **Source:** [Link](https://x.com/johnAGI168/status/2094291245879160940) | **Publié:** Aug 31, 2026
+
+---
+### Prompts de publicité vidéo pour le canard aux trois tasses Hakka
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompts séquentiels détaillés pour générer une publicité culinaire haut de gamme de 40 secondes pour le canard aux trois tasses Hakka, optimisés pour la génération vidéo Gemini Omni.
+
+#### 📝 Prompt
+
+```
+[Configuration générale de la scène] 10 secondes, format vertical 9:16. Publicité culinaire réaliste haut de gamme, même cuisine Hakka aux tons chauds, même vieux plan de travail en bois, même marmite en fonte noire, même canard entier avec une taille et une apparence stables. Lumière de fenêtre sur le côté, faible profondeur de champ, texture alimentaire réaliste, vapeur contenue et éclat naturel de l'huile. Mouvement de caméra lent et régulier, principalement des plans continus au sein des segments. Uniquement son ambiant naturel de cuisine, aucune narration ou musique générée. [Contraintes négatives générales] Pas de texte, sous-titres, logos, emballages, ustensiles non pertinents ou plats d'accompagnement ajoutés soudainement ; pas de membres redondants, de déformations des doigts, de duplication d'ingrédients, de déformation des ustensiles, de nourriture qui fond ou de cuisson instantanée. Maintenir des actions de cuisson normales et une sensation de poids. Segment 1 : Mise en place des ingrédients Un canard entier nettoyé est placé sur le même plan de travail en bois, avec trois petits bols contenant du vin de riz, de la sauce soja et de l'eau de sucre en morceaux, ainsi que des tranches de gingembre et des segments d'oignons nouveaux. En commençant par un gros plan, une main essuie délicatement la surface de la peau du canard avec du papier absorbant propre. La caméra avance lentement, montrant la texture de la peau du canard et la qualité de la sauce. Enfin, le corps du canard est soulevé de manière stable et déplacé vers la marmite à proximité pour faciliter la transition vers le segment suivant. Maintenir l'état frais/cru, sans coloration prématurée ni texture de viande cuite. Segment 2 : Saisir et ajouter la sauce Dans la même marmite en fonte noire, le canard entier est saisi jusqu'à obtenir une couleur dorée uniforme, entouré de tranches de gingembre, de segments d'oignons nouveaux et d'une petite quantité de graisse de canard. Une spatule soutient fermement le corps du canard, montrant de minuscules bulles dues à la saisie contre la paroi de la marmite, puis versez lentement le mélange préparé de vin de riz, de sauce soja et d'eau de sucre en morceaux. La caméra se déplace d'un gros plan du bord de la marmite vers un gros plan de la peau du canard ; la sauce bout naturellement au contact de la marmite chaude. Se termine sur le corps du canard doré et la sauce qui bout fraîchement. Ne pas laisser le corps du canard devenir rouge foncé instantanément, et ne pas laisser le liquide s'évaporer. Segment 3 : Mijoter et arroser Continuer avec les mêmes ustensiles et la même scène. Le canard entier mijote dans la sauce à feu doux, la peau prenant progressivement une couleur sauce soja humide. Une main utilise une cuillère à long manche pour prélever le jus original de la marmite et l'arroser lentement sur le dos du canard ; la sauce coule le long de la peau et retombe dans la marmite. Suivre l'action d'arrosage avec un plan macro latéral, mettant en évidence la vapeur réaliste, l'ébullition douce et l'éclat de la peau du canard. Se termine avec le corps du canard entier intact pour fournir une référence pour le plan final de dressage. Pas d'ébullition violente, pas de viande de canard qui se détache ou se déforme. Segment 4 : Présentation du produit Sur le même plan de travail de cuisine, le canard aux trois tasses découpé est soigneusement dressé, la peau est rouge et brillante, et les morceaux de viande conservent des coupes transversales et des couches réalistes. Montrez d'abord la surface de la peau en gros plan en contre-plongée, puis arrosez lentement avec le jus concentré original à l'aide d'une cuillère, la sauce adhérant naturellement. Enfin, une paire de baguettes saisit un morceau de viande de canard avec la peau, la caméra s'approche lentement, se concentrant sur les détails de la peau du canard, la qualité de la viande et l'enrobage de la sauce, avec un flou d'arrière-plan doux. Ne pas ajouter de nouvelles décorations, de riz ou un deuxième plat ; pas d'effet de fil de fromage exagéré. [Script de voix off] Le véritable canard aux trois tasses Hakka commence par un bon canard. Lavez et séchez le canard frais ; ne le blanchissez pas pour préserver le parfum le plus authentique du canard. Faites sauter le gingembre et les segments d'oignons nouveaux jusqu'à ce qu'ils soient parfumés, saisissez le canard entier contre la marmite pour faire fondre l'excès de graisse. Saisissez jusqu'à ce qu'il soit doré des deux côtés, puis ajoutez le vin de riz, la sauce soja et l'eau de sucre en morceaux. Portez la sauce à ébullition, puis laissez mijoter à feu doux pendant 45 minutes. Retournez et arrosez continuellement à mi-cuisson, en laissant les arômes du vin de riz, de la sauce soja et du sucre imprégner uniformément la viande. Enfin, augmentez le feu pour épaissir le jus original jusqu'à ce que la peau du canard soit rouge et brillante et que la sauce adhère au corps. Laissez refroidir légèrement avant de découper, puis arrosez à nouveau avec le jus original — voici le savoureux et onctueux canard aux trois tasses Hakka. [Commande de synthèse] 'Utilisez la compétence de production de publicité culinaire, fusionnez les vidéos dans l'ordre 1, 2, 3, 4. Utilisez le texte original confirmé pour la voix off, générez une voix off Doubao continue en une seule fois. Cible 40 secondes, 1080x1920, 24fps, conservez le son ambiant de la vidéo originale à faible volume, sortie MP4, images de vérification des images clés et rapport de vérification.'
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094273910191878144/img/aWZXSJOTgY7v85_q.jpg" width="600" alt="Prompts de publicité vidéo pour le canard aux trois tasses Hakka">
+
+**[🎬 Voir la vidéo →](https://x.com/7998l201/status/2094274092757385382)**
+
+**Auteur:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2094274092757385382) | **Publié:** Aug 31, 2026
 
 ---
 ### Publicité cinématographique pour chocolat au café
@@ -2475,124 +2598,6 @@ Publicité cinématographique estivale pour le tonique pétillant FIZZI — Pamp
 **Auteur:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Publié:** Jul 23, 2026
 
 ---
-### Drame scolaire japonais cinématographique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de génération vidéo complet pour Gemini Omni permettant de créer une scène de drame lycéen détaillée avec des mouvements de caméra, des dialogues et des effets atmosphériques spécifiques.
-
-#### 📝 Prompt
-
-```
-[SCÈNE ET MOUVEMENT DE CAMÉRA] Scène de drame lycéen japonais cinématographique. La caméra commence par un plan large en plongée, vue du ciel, surplombant un couloir lumineux baigné par la lumière dorée de l'après-midi. La caméra zoome ensuite en douceur et abaisse son angle, effectuant une transition vers un profil dynamique, pour finalement se stabiliser sur un plan rapproché poitrine des visages et du buste des personnages. [ACTION ET PERSONNAGES] Une lycéenne assurée aux mèches blondes et au vernis à ongles noir s'avance et pose délicatement sa main sur le mur à côté d'une déléguée de classe timide et soignée portant des lunettes rondes. La déléguée de classe serre ses livres contre elle, rougissant légèrement de surprise. Des pétales de sakura roses et des mèches de cheveux flottent doucement à travers le cadre sous l'effet d'une brise chaude provenant des fenêtres ouvertes. [EFFETS SONORES ET AUDIO] Vent ambiant léger et bruissement doux des pétales de sakura → Bruit léger de contact avec le mur → Soupir de surprise doux → Effet sonore de battement de cœur calme et subtil. [DIALOGUE JAPONAIS] - Fille assurée (Ton taquin mais doux) : "Hey, Iinchou... doushita no? Kao ga sukoshi akai yo ?" (Hé, déléguée... qu'est-ce qui ne va pas ? Ton visage est un peu rouge ?) - Déléguée de classe (Ton troublé mais doux) : "Ehh...! A, chikai desu... chotto..." (Euh...! Ah, tu es trop près... attends...) [STYLE ET ESTHÉTIQUE] Style film live-action japonais photoréaliste, éclairage cinématographique, particules de poussière atmosphériques, faible profondeur de champ, mise au point élevée, résolution 8k, 60fps.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080151806152482816/img/DzNNE11EyiPsrErK.jpg" width="600" alt="Drame scolaire japonais cinématographique">
-
-**[🎬 Voir la vidéo →](https://x.com/ngoctramtp/status/2080152132133474497)**
-
-**Auteur:** [Ciara | Yuri Cinematic](https://x.com/ngoctramtp) | **Source:** [Link](https://x.com/ngoctramtp/status/2080152132133474497) | **Publié:** Jul 23, 2026
-
----
-### Entraînement et contraintes de mouvement du personnage
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un ensemble d'instructions précises pour Gemini Omni afin d'animer un personnage observant un train miniature, avec des contraintes strictes de direction et de caméra.
-
-#### 📝 Prompt
-
-```
-Déplacez la personne et le train miniature.
-- Le train doit uniquement avancer ; tout mouvement vers l'arrière est interdit.
-- La personne doit avancer tout en regardant le train ; tout mouvement vers l'arrière est interdit.
-- Ne changez pas de caméra.
-- N'incluez aucun train ou formation qui n'est pas présent dans l'image originale.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079922533642674176/img/wNIjQMPf2lQccWa7.jpg" width="600" alt="Entraînement et contraintes de mouvement du personnage">
-
-**[🎬 Voir la vidéo →](https://x.com/uso800railway/status/2079923166248644727)**
-
-**Auteur:** [ＵＳＯ８００鉄道総裁](https://x.com/uso800railway) | **Source:** [Link](https://x.com/uso800railway/status/2079923166248644727) | **Publié:** Jul 22, 2026
-
----
-### Prompt de remplacement d'objet vidéo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt spécifique pour Gemini Omni Flash conçu pour remplacer un objet dans une vidéo par un chat provenant d'une image de référence, tout en maintenant la cohérence de la scène.
-
-#### 📝 Prompt
-
-```
-Modifie la vidéo source. Remplace le hamster par le chat de <IMAGE_REF_0>, en respectant l'apparence et l'identité du chat. Applique le style visuel de <IMAGE_REF_1> à l'aspect du chat (fourrure, couleurs, style de rendu). Conserve le mouvement, le timing, la caméra et l'arrière-plan d'origine. 
-Ne change rien d'autre. Plan continu, sans coupes de scène.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079554059313541121/img/1Zq5lylQ3mKo2bTz.jpg" width="600" alt="Prompt de remplacement d'objet vidéo">
-
-**[🎬 Voir la vidéo →](https://x.com/nicegen_ai/status/2079554954638033066)**
-
-**Auteur:** [NiceGen.ai](https://x.com/nicegen_ai) | **Source:** [Link](https://x.com/nicegen_ai/status/2079554954638033066) | **Publié:** Jul 21, 2026
-
----
-### Publicité cinématographique par drone pour le miel de l'Himalaya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt complet au format JSON pour une publicité cinématographique par drone à haute vitesse mettant en vedette un emballage de miel dans le décor des montagnes de l'Himalaya.
-
-#### 📝 Prompt
-
-```
-{
-  "description": "Un plan de drone cinématographique ultra-rapide commence au-dessus des majestueuses montagnes enneigées de l'Himalaya lors d'un lever de soleil doré. La caméra plonge rapidement à travers des vallées verdoyantes, des rivières cristallines et des forêts de pins couvertes de brume, accélérant alors qu'elle file entre les arbres imposants et survole des cascades. Le rythme ralentit progressivement pour laisser place à une clairière paisible baignée par la lumière chaude du matin. La caméra glisse vers une pierre recouverte de mousse où un pot en verre de miel Dabur, scellé et authentique avec son emballage de vente au détail, est élégamment placé en tant que produit phare. Le plan se termine par un gros plan cinématographique premium mettant en valeur le miel doré riche à l'intérieur du pot transparent, tout en préservant l'étiquette réelle et le design de l'emballage. Aucun élément de marque supplémentaire, graphique flottant ou texte additionnel.",
-  "style": "publicité nature hyper-réaliste cinématographique premium avec photographie de produit de luxe",
-  "camera": "survol de drone de type FPV à haute vitesse transitionnant vers un travelling cinématographique stabilisé et une révélation macro orbitale lente du produit",
-  "lighting": "éclairage chaud de lever de soleil doré avec reflets naturels, rayons de soleil volumétriques à travers la canopée, se terminant par une lumière douce et diffuse accentuant le pot en verre et le miel doré",
-  "environment": "montagnes majestueuses de l'Himalaya, vallées forestières indiennes luxuriantes, rivières cristallines, cascades, forêts de pins denses et clairière tranquille recouverte de mousse riche en textures naturelles",
-  "elements": [
-    "montagnes enneigées de l'Himalaya",
-    "vallées verdoyantes",
-    "rivières cristallines",
-    "forêts de pins couvertes de brume",
-    "cascades",
-    "socle en pierre recouvert de mousse",
-    "pot en verre de miel Dabur authentique et scellé avec emballage de vente original",
-    "abeilles et papillons subtils",
-    "rosée du matin",
-    "brume légère"
-  ],
-  "motion": "descente aérienne extrêmement rapide et survol de forêt en FPV pendant les 6 premières secondes, suivis d'un glissement gracieux au ralenti, d'une orbite subtile et d'un zoom lent vers le produit pour les 4 dernières secondes",
-  "duration": "10 secondes",
-  "ending": "Le pot de miel Dabur authentique reste parfaitement centré sur la pierre recouverte de mousse tandis que la caméra orbite lentement et termine sur un gros plan macro premium de l'étiquette et du miel doré brillant à l'intérieur du pot en verre.",
-  "text": "aucun",
-  "keywords": [
-    "16:9",
-    "publicité premium",
-    "survol cinématographique par drone",
-    "FPV",
-    "hyper-réaliste",
-    "révélation de produit de luxe",
-    "emballage authentique de miel Dabur",
-    "pot de miel en verre",
-    "lever de soleil doré",
-    "paysage naturel indien",
-    "plan macro produit",
-    "sans texte",
-    "sans logos supplémentaires"
-  ]
-}
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2079454918382120961/img/CfqYAH7lpNw4wjAC.jpg" width="600" alt="Publicité cinématographique par drone pour le miel de l'Himalaya">
-
-**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2079454972098609447)**
-
-**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2079454972098609447) | **Publié:** Jul 21, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -2645,6 +2650,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-01T03:40:52.766Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-01T09:10:56.887Z</sub>
 
 </div>
