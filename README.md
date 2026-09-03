@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **228** |
+| 📝 Total Prompts | **235** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-03** |
 
@@ -56,6 +56,273 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Premium Italian Spaghetti Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive storyboard prompt for an Italian food commercial, outlining cinematic product shots including pasta boiling, fork twirling, and macro texture details.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Premium Italian Spaghetti Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Premium packaged food campaign
+• 8 cinematic product-focused scenes
+• Product remains the central visual hero
+• Luxury advertising presentation
+
+HEADER:
+• Refined serif typography
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: Authentic Italian Food Commercial
+  - Product: Premium Spaghetti Pasta
+  - Audio: Pasta Cooking + Italian Kitchen ASMR
+• Why This Style Works section
+• Cream, wheat gold and deep green aesthetic
+• Minimal Italian-inspired decorative elements
+
+STORYBOARD:
+1. Premium spaghetti package standing vertically beside uncooked pasta strands
+2. Package opening with long spaghetti strands being pulled out
+3. Spaghetti dropping into a pot of boiling water
+4. Pasta swirling underwater with bubbles and realistic movement
+5. Cooked spaghetti lifted from the pot with steam rising
+6. Long strands being twirled elegantly around a fork
+7. Extreme macro showing silky pasta texture coated with sauce
+8. Final hero product shot with pasta package beside a beautifully plated spaghetti dish
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Top-down composition, underwater macro, steam close-up, slow-motion pasta lift, fork rotation shot, extreme texture detail, cinematic packshot.
+
+STYLE:
+Ultra-realistic Italian food advertising, authentic pasta texture, realistic steam and water, detailed packaging, warm cinematic lighting, premium gourmet presentation, natural ingredients, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788426358015_1tgujv_HRRlezKbQAAQ8BS.jpg" width="600" alt="Premium Italian Spaghetti Commercial Storyboard">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2095411329461100949)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2095411329461100949) | **Published:** Sep 3, 2026
+
+---
+### Luxury Perfume Cinematic JSON Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical JSON-structured prompt for creating a luxury perfume commercial with macro glass details, swirling silk, and gold dust in a continuous shot.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "single continuous unbroken shot, no scene cuts",
+    "composition": "starts extreme macro on a tall faceted crystal perfume bottle, follows silk and gold dust swirling around it, ends on a centered floating hero shot",
+    "lens": "100mm macro for glass detail, then 50mm for the product reveal",
+    "frame_rate": "24fps cinematic",
+    "camera_movement": "slow push-in across the bottle, gentle orbital drift as petals and silk rise, hold steady on the final hero frame"
+  },
+  "timeline": {
+    "0-2s": "Dim luxury studio on black marble. Tall faceted crystal perfume bottle with deep amber-gold liquid. Warm candlelight gliding across sharp glass edges, ultra-realistic reflections and caustics.",
+    "2-4s": "Sheer champagne silk and fine gold dust swirl around the bottle in slow motion. Soft warm mist rises. Particles catch the light beams.",
+    "4-6s": "Liquid inside the bottle gently swirls as if alive. Golden particles rise. The gold cap lifts slightly with a subtle magical realism glow.",
+    "6-8s": "Perfume spray bursts in slow motion and transforms into flowing silk ribbons and night-blooming jasmine and tuberose petals that dissolve into golden vapor.",
+    "8-10s": "Final hero shot. Bottle centered on black marble, surrounded by glowing mist, silk folds and scattered petals. Warm spotlight and candlelight. Luxury brand focus."
+  },
+  "subject": {
+    "description": "a tall faceted crystal perfume bottle with amber-gold liquid, silk fabric, gold dust, and night-blooming flowers assembling around it",
+    "props": "crystal bottle, gold cap, champagne silk, jasmine and tuberose petals, warm mist"
+  },
+  "scene": {
+    "location": "dark elegant studio with glossy black marble",
+    "time_of_day": "timeless night, warm candlelight",
+    "environment": "quiet luxury set, reflective surface, soft haze, no people"
+  },
+  "visual_details": {
+    "action": "light glides across glass, silk and petals swirl, can lifts, spray becomes vapor and floral forms, bottle settles into a floating hero pose",
+    "special_effects": "slow-motion gold dust, liquid caustics, mid-air silk morph, subtle levitation shimmer"
+  },
+  "cinematography": {
+    "lighting": "warm candlelight key, dramatic spotlight beams, glossy marble reflections, soft gold rim light",
+    "color_palette": "deep black, champagne gold, amber, ivory petals",
+    "tone": "intimate, heritage luxury, quiet sensuality"
+  },
+  "audio": {
+    "music": "subtle warm ambient drone with a faint crystal chime",
+    "ambient": "soft silk rustle, candle flicker, still studio air",
+    "sound_effects": "delicate spray burst, petals settling, quiet glass resonance",
+    "mix": "intimate, refined, product-forward, no voice"
+  },
+  "constraints": {
+    "dialogue": "none",
+    "voiceover": "non"
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095135814024089600/img/fC7nzZ1tr6CBZkao.jpg" width="600" alt="Luxury Perfume Cinematic JSON Prompt">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2095135918432632856)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2095135918432632856) | **Published:** Sep 2, 2026
+
+---
+### Gourmet Peanut Butter Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A luxury food commercial storyboard prompt for peanut butter, detailing macro shots of smooth textures, spoon scraping, and slow-motion ingredient drops.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Premium Peanut Butter Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Gourmet breakfast product campaign
+• 8 cinematic product-focused scenes
+• Product remains the main hero
+• Luxury advertising presentation
+
+HEADER:
+• Elegant serif typography
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: Gourmet Food Commercial
+  - Product: Creamy Peanut Butter
+  - Audio: Spoon Scrape + Soft ASMR
+• Why This Style Works section
+• Warm beige, caramel and brown aesthetic
+• Minimal peanut-inspired decorative elements
+
+STORYBOARD:
+1. Peanut butter jar positioned on a premium stone surface with whole peanuts around it
+2. Jar lid being removed, revealing perfectly smooth peanut butter
+3. Spoon entering the jar in an extreme macro shot
+4. Thick peanut butter slowly lifting from the spoon in a long creamy ribbon
+5. Peanut butter spreading smoothly across warm toasted bread
+6. Roasted peanuts falling around the jar in slow motion
+7. Extreme macro showing creamy texture with tiny peanut particles
+8. Final hero jar beside toast and scattered roasted peanuts
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow-motion spread, overhead composition, creamy texture close-up, controlled ingredient drop, smooth product push-in.
+
+STYLE:
+Ultra-realistic food photography, rich creamy texture, realistic viscosity, roasted peanut details, warm natural lighting, premium glass packaging, sophisticated breakfast advertising, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788426360165_e2mvlq_HRNN_7uakAAOsdV.jpg" width="600" alt="Gourmet Peanut Butter Commercial Storyboard">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2095104027667177825)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2095104027667177825) | **Published:** Sep 2, 2026
+
+---
+### Ghibli-Inspired Miniature Cherry Workshop
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A whimsical, cinematic prompt for a Ghibli-style animation featuring tiny characters harvesting and processing a giant red cherry into jam.
+
+#### 📝 Prompt
+
+```
+Create a whimsical, cinematic Ghibli-inspired miniature workshop where tiny cheerful characters work together to harvest, cut, crush, and process a giant glossy red cherry into fresh cherry juice and jam. Show the cherry crashing onto a wooden table, workers building scaffolds and bridges with everyday objects, slicing the fruit with oversized tools, collecting flowing juice, pulling carts of cherry pieces, and cheering as the workshop becomes bustling with activity. End with a wide, magical view of the tiny workers celebrating around a large metal tin filled with vibrant red cherry jam, warm lighting, detailed textures, playful teamwork, and charming handcrafted animation.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095084187367907328/img/qYAwALF9EVgltrYP.jpg" width="600" alt="Ghibli-Inspired Miniature Cherry Workshop">
+
+**[🎬 Watch Video →](https://x.com/noorwithwifi/status/2095084419296182741)**
+
+**Author:** [NoorAI](https://x.com/noorwithwifi) | **Source:** [Link](https://x.com/noorwithwifi/status/2095084419296182741) | **Published:** Sep 2, 2026
+
+---
+### ASMR Jelly Creature Growth Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A comprehensive prompt for generating high-quality ASMR videos featuring a gel-like substance growing into a cute creature, including detailed animation stages and sound design.
+
+#### 📝 Prompt
+
+```
+Generate a complete and independent 10-second vertical ASMR video, 9:16, 30fps, ultra-realistic macro studio shot fused with high-end cute CG soft body rendering. Fixed close-up shot, slightly high-angle three-quarter view, no movement throughout. Deep charcoal blue matte tabletop, same-color blurred background, shallow depth of field. Strong top-left studio main light creates clear shadows, bright rectangular highlights, and warm contact reflections. A hand with exquisite long oval nails holds a soft squeeze tube of [tube color] from the top of the frame, revealing a threaded nozzle. The hand slowly squeezes out a thick, high-viscosity, glossy [material color] jelly gel. The gel must remain continuously connected to the nozzle and gradually grow into a complete [seal]. Generate only one animal. The body structure forms continuously according to the real growth sequence, and cannot appear instantly: 0.0–1.0s: The nozzle enters the frame, a small amount of gel gathers below the nozzle. 1.0–3.5s: The gel extends downward, forming the head and main torso of the animal. 3.5–6.0s: Limbs, ears, wings, fins, tails or other species characteristics grow in sequence, surface color and texture gradually become clear. 6.0–7.0s: The animal form is fully completed, the gel connecting the nozzle is pulled into an increasingly thin elastic filament. 7.0–7.5s: The filament breaks naturally, the hand and hose exit the frame upwards. 7.5–8.5s: The animal lands on the tabletop, undergoing soft crushing, rebounding and slight jelly shaking. 8.5–9.6s: The animal performs a small movement characteristic of the species: [signature movement]. 9.6–10.0s: The animal stabilizes in the center of the frame, maintaining a complete, cute, clear heroic final state, convenient for hard-cutting to the next segment. Keep the animal anatomy coherent, the material stable, and the quantity always one. Highlights and shadows must move naturally with the change of form. The entire deformation is a continuous physical growth process, without using dissolving, flashing or occlusion replacement. Close-mic ASMR sound design: slow thick gel squeezing, subtle sticky stretching, a delicate elastic filament release, muted soft-body landing, gentle jelly wobble and tiny surface-contact sounds. Clean and intimate stereo sound, no dialogue, no narration, no loud music.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095070639887638528/img/BeW3NqKCNP7G-YSm.jpg" width="600" alt="ASMR Jelly Creature Growth Video">
+
+**[🎬 Watch Video →](https://x.com/GeekCatX/status/2095072409141629082)**
+
+**Author:** [知识猫AI实验室](https://x.com/GeekCatX) | **Source:** [Link](https://x.com/GeekCatX/status/2095072409141629082) | **Published:** Sep 2, 2026
+
+---
+### Hakka Braised Pork Video Production Prompts
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Incomplete sequence of culinary video prompts for Hakka Braised Pork, covering ingredient preparation and the initial stir-frying stages with cinematic detail.
+
+#### 📝 Prompt
+
+```
+Uniform Consistency Locks: Pork Belly Lock: Always use the same batch of fresh pork belly with skin. Cubes should be approximately 2.5-3cm thick short squares. Each piece must clearly show layers of skin, fat, and lean meat. Must not turn into chicken, ribs, pig's feet, pure lean meat, or thin slices. Only natural shrinkage after searing and simmering is allowed; no sudden changes in size or shape. Once cooked, it should be tender and gelatinous but remain intact. Hakka Preserved Vegetable Lock: Vegetables are pale golden, mustard yellow, and slightly olive yellow. Retain short thick stems, wide leaves, and realistic pickling fibers. Must not turn into black dried plum vegetables, sour beans, minced potherb mustard, or fresh green vegetables. Wood Ear Lock: Add only a small amount of dark brown soaked wood ear mushrooms. They are a secondary ingredient and must not overshadow the pork or vegetables. Must not turn into shiitake mushrooms, kelp, or seaweed. Cookware Lock: The first three segments always use the same black round Chinese wok with two silver metal ear handles. Use the same dark brown wide wooden spatula. Use the same transparent glass lid for simmering. Only plate into the black clay pot from the reference image in the fourth segment. Environment Lock: The same warm and clean Chinese kitchen. The same pair of chef's hands; hands are natural and clean, no faces shown. Camera angles are primarily top-down and 45-degree close-ups. Finished shot uses low-angle 3/4 macro. No subtitles, text, packaging, branding, or watermarks throughout. Segment 1: Generate a 10s, vertical 9:16 high-end realistic Hakka food commercial showing the ingredient preparation. Reference the pork belly and vegetable shapes and cutting actions from the uploaded video, re-composing into a cinematic vertical frame. 0-2s: Macro shot of a whole fresh pork belly strip on a deep reddish-brown solid wood cutting board. Clearly present the light skin, creamy fat, and pink lean layers. Slow zoom-in, meat looks moist and fresh, not gray or plastic. 2-5s: Chef uses a Chinese cleaver to cut the pork into 2.5-3cm thick squares. Cutting the skin should show realistic resistance. 5-7s: Show Hakka preserved vegetables being washed and squeezed in a stainless steel basin. Colors are pale golden/mustard yellow with natural wrinkles. 7-9s: Cut vegetables into short thick strips and irregular pieces. 9-10s: Top-down shot of prep. Left: stainless steel bowl of pork; Right: golden vegetables; Rear: wood ear mushrooms; Bottom: black wok. Use warm natural side lighting, macro lens, shallow depth of field. Negative Prompts: No cooked meat, skinless pork, pure lean meat, ribs, pig feet, chicken, beef, minced meat, or thin slices. No black dried plum vegetables, sour beans, fresh greens, tofu, taro, potatoes, red chili. No deformed knives, extra fingers, floating ingredients, text, logos, or watermarks. Segment 2: Generate a 10s, vertical 9:16 high-end realistic cooking commercial continuing from the same environment. 0-1s: Start from the previous end frame, chef pours raw pork into the preheated black wok. No water added, no blanching. 1-4s: Stir-fry with the wooden spatula. Pork turns from pink to pale cream with natural golden charred edges and rendered lard. Layers remain clear. 4-5.2s: Remove seared pork to a stainless steel bowl. Keep only a thin layer of lard in the wok. 5.2-7s: Pour in preserved vegetables. Sauté until moisture is gone and stems are slightly glossy, keeping golden yellow color. Remove and set aside. 7-8.2s: Sauté ginger, garlic, and shallots in the lard. 8.2-10s: Add fermented bean curd sauce, soybean paste, and douchi. Stir-fry into a uniform chestnut reddish-brown base. Freeze on the fragrant sauce base with seared pork and vegetables on the side. Negative Prompts: No blanching, no deep frying, no excessive oil splashes, flames surrounding the wok, thick smoke, or charred meat. Meat should not be fully cooked or lose skin. No early addition of vegetables, no red yeast powder, star anise, cinnamon, or chili. Segment 3: Generate a 10s, vertical 9:16 high-end realistic Hakka cooking commercial. 0-2s: Return pork to the sauce base with wood ear mushrooms. Stir-fry until each piece is thinly coated in reddish-brown sauce. Meat shape must not change. 2-3.3s: Pour Shaoxing wine along the inner wall. Brief natural steam, no flames. 3.3-5s: Add hot water until it covers 2/3 to 4/5 of the meat. Stir once to dissolve sauce into the broth. 5-6.5s: Liquid reaches a steady simmer with small bubbles. No violent boiling or overflowing. 6.5-7.5s: Cover with the matching transparent glass lid. Glass inner side forms natural condensation. 7.5-10s: Use smooth time compression to show simmering for 40 mins. Cookware and stove remain still. Meat is faintly visible through steam. Negative Prompts: Do not add vegetables, do not change cookware, do not use a pressure cooker. No violent boiling, gray water, or thick floating oil. Pork must not disappear, break, or turn into chicken. Segment 4: Generate a 10s, vertical 9:16 high-end realistic Hakka food commercial. Use the last frame of Segment 3 for continuity and the reference photo for the final black clay pot, plating, color, and hero shot. Do not copy borders, text, or graphics from the reference. 0-1.2s: Chef removes the glass lid. Steam rises and disperses, revealing chestnut-brown intact pork. 1.2-2.8s: Pour in the sautéed vegetables. 2.8-4.5s: Stir-fry to reduce sauce. The sauce becomes a red-orange glaze coating the meat and vegetables. 4.5-5.8s: Transfer to a matte charcoal-black round clay pot with a thick rim. 5.8-6.8s: Place vegetables at the bottom, then pile 12-16 pork cubes in the center. One clear, glossy piece in the front center. 6.8-7.3s: Drizzle concentrated red-orange sauce and sprinkle 10-15 green scallions. 7.3-10s: Transition to a low-angle 3/4 hero shot. Clay pot occupies bottom 2/3 of frame. Sauce is high-saturation red-orange/caramel/golden red with chestnut shadows. Warm main light from top-left, background is dark gray and softly blurred. Minimal zoom-in, food remains stable for last 3s. Pork must look realistic with skin, fat, and fiber. Negative Prompts: No borders, red labels, Chinese characters, or watermarks. No white plates, stainless steel, or light-colored pots. No chicken, ribs, meat slices, or minced meat. No black plum vegetables, sour beans, greens, tofu, taro, potatoes, chili, cilantro, or sesame. No black or purple sauce, watery soup, or syrup-like strands. No meat being poked or moved in the final 3s.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094974143213051904/img/iDFO8PNXfCcmDA-T.jpg" width="600" alt="Hakka Braised Pork Video Production Prompts">
+
+**[🎬 Watch Video →](https://x.com/7998l201/status/2094975000763584583)**
+
+**Author:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2094975000763584583) | **Published:** Sep 2, 2026
+
+---
+### Coconut Water Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive storyboard prompt for a premium coconut water commercial, detailing cinematic scenes, camera movements, and product styling.
+
+#### 📝 Prompt
+
+```
+TITLE: Premium Coconut Water Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Premium natural beverage campaign\n• 8 cinematic product-focused scenes\n• Product remains the central hero\n• High-end advertising agency presentation\n\nHEADER:\n• Clean modern typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Fresh Natural Beverage Commercial\n  - Product: Coconut Water\n  - Audio: Tropical Water + Refreshing ASMR\n• Why This Style Works section\n• White, coconut green and natural beige aesthetic\n• Minimal tropical decorative accents\n\nSTORYBOARD:\n1. Chilled coconut water bottle standing on wet natural stone, covered in condensation\n2. Bottle cap opening with a crisp close-up of the seal\n3. Coconut water pouring into a transparent glass\n4. Clear liquid swirling inside the glass with tiny bubbles\n5. Fresh coconut pieces dropping beside the bottle in slow motion\n6. Ice cubes falling into the drink and creating a controlled splash\n7. Extreme macro of condensation droplets running down the bottle\n8. Final hero bottle and glass surrounded by fresh coconut pieces and a frozen water splash\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nHigh-speed liquid photography, extreme macro, condensation close-up, slow-motion ice drop, transparent liquid swirl, low-angle product shot, cinematic hero framing.\n\nSTYLE:\nUltra-realistic beverage advertising, crystal-clear liquid, realistic condensation, detailed coconut texture, dynamic water splash, natural premium lighting, clean packaging, luxury commercial photography, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788426362099_jpy8ok_HRIV2OMWEAAdkxS.jpg" width="600" alt="Coconut Water Commercial Storyboard">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2094760813794111843)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2094760813794111843) | **Published:** Sep 1, 2026
+
+---
 ### Steamed Riverside Fish Video Ad Prompts
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2373,321 +2640,6 @@ a locked top-down hero shot to close
 **Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Published:** Jul 26, 2026
 
 ---
-### High-Energy Fitness Soda Commercial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-quality video prompt for a fitness soda commercial, using the AIDA framework to describe a post-workout recovery scene with macro product shots and electric blue visual effects.
-
-#### 📝 Prompt
-
-```
-Black woman, late 20s, coily high-puff bun, charcoal tank, black leggings, towel, smartwatch — sits post-workout on gym bench (Attention). Cracks open condensation-beaded can, fizz visible (Interest). Drinks; eyes close, shoulders drop, electric-blue glow washes over her in relief (Desire/peak). Smiles to camera, then hero shot + macro beauty pass on navy/silver "Mayor's Soda" can, crown icon, logo lockup, tagline "Mayor's Soda. Refresh the win" VO (Action). Same character/can design every frame, no drift. Crisp 5200-5800K gym light, cool reflections, blue bloom on relief beat. Camera: push-ins → orbit → macro. Sound: synth pad, crack/fizz, warm swell, VO on lockup. Octane-quality render, subsurface scattering, 8K textures.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="High-Energy Fitness Soda Commercial">
-
-**[🎬 Watch Video →](https://x.com/iam_damayor/status/2081379499262746808)**
-
-**Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **Published:** Jul 26, 2026
-
----
-### Slapstick Cat and Mouse Animation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic prompt for a 3D animated chase scene inspired by classic American silent comedy, featuring complex physics and character interactions.
-
-#### 📝 Prompt
-
-```
-Generate a 10-second high-quality horizontal 3D cartoon cat and mouse chase animation. The overall style is original classic American silent comedy, with exaggerated movements, tight rhythm, and rich expressions, but it does not imitate any existing animated characters. A round, chubby, and impatient orange cat chases a clever and agile grey-brown mouse. The entire animation uses continuous single-camera side tracking shots, with characters always moving from left to right. All movements depend on speed, inertia, and collisions to connect naturally, without jump cuts, teleportation, or sudden pauses. In a warm and bright retro kitchen, the little mouse, carrying cheese, swiftly passes table legs, jumps onto a spinning pot lid, and uses it as a skateboard to glide forward. The pot lid hits a slanted roller, and the little mouse uses the momentum to jump onto the dining table. The orange cat follows the same path, stepping on the roller, its legs staggering rapidly, its body swaying from side to side, finally jumping onto the dining table using its momentum. After landing, it crashes into a sack of flour, releasing a spray of white dust. The orange cat emerges unhindered from the flour cloud, its whole body white except for its angry eyes. The little mouse rushes through a hollow baguette, sliding out from the other end. The orange cat follows closely but gets stuck briefly. The baguette stretches and then snaps back, propelling the cat forward and closing the distance with the mouse again. Both characters jump from the dining table simultaneously. The little mouse lands on a robot vacuum cleaner, using its rotation to change direction, then grabs a hanging towel and swings it across the sink. The orange cat lands on the same robot, spinning half a circle smoothly, then uses its momentum to grab the chandelier, swinging forward, its paws almost touching the mouse's tail. The little mouse lands in front of the refrigerator, sliding to the side. The orange cat rushes at high speed, its limbs repeatedly braking hard, but still manages to break the refrigerator door due to inertia. A cream cake slides down, completely covering the cat's face. The little mouse runs behind the cat along its tail, jumps onto the cat's nose, grabs the cherry from the cream, and waves triumphantly. The orange cat twitches its nose twice, then suddenly sneezes loudly,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080925522910236672/img/Qq7W2rnPrk1LYpTJ.jpg" width="600" alt="Slapstick Cat and Mouse Animation">
-
-**[🎬 Watch Video →](https://x.com/Cencencahya12/status/2080925688811720835)**
-
-**Author:** [Cencen](https://x.com/Cencencahya12) | **Source:** [Link](https://x.com/Cencencahya12/status/2080925688811720835) | **Published:** Jul 25, 2026
-
----
-### Florist Arranging Roses in Sunlight
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt featuring a florist carefully preparing red roses in a sunlit room, focusing on hand movements and natural lighting.
-
-#### 📝 Prompt
-
-```
-A black woman florist carefully trims and arranges fresh red roses into a white ceramic vase on a dark wooden table. The hands adjust the stems and leaves to create a balanced bouquet, with the finished floral centerpiece displayed beautifully in warm sunlight near windows overlooking a lush green garden.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080919216220200961/img/sdh1PmxEUtazD262.jpg" width="600" alt="Florist Arranging Roses in Sunlight">
-
-**[🎬 Watch Video →](https://x.com/iam_damayor/status/2080919280535609480)**
-
-**Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2080919280535609480) | **Published:** Jul 25, 2026
-
----
-### Watercolor and Digital Dual Reality
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A creative split-screen video prompt for Gemini Omni that contrasts a serene watercolor lake at sunrise with a futuristic digital cityscape at dusk.
-
-#### 📝 Prompt
-
-```
-Top half in watercolor style showing a serene lake at sunrise, bottom half in digital art style showing a futuristic cityscape at dusk, split screen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080625015096254464/img/-o_9Bp8yhlGBMl0B.jpg" width="600" alt="Watercolor and Digital Dual Reality">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2080625058268258343)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2080625058268258343) | **Published:** Jul 24, 2026
-
----
-### ASMR LEGO Technic Storyboard
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive multi-scene storyboard prompt for creating a hyperrealistic ASMR video of a LEGO Lamborghini assembly, including camera directions and sound effects.
-
-#### 📝 Prompt
-
-```
-Create a professional film production storyboard for a 10 second ASMR video showing the assembly of a LEGO Technic Lamborghini Aventador.\n\nLayout should look like a real movie storyboard with 8 sequential panels arranged in two columns.\n\nEach panel must contain: • Large cinematic preview image • Scene number • Timecode • Camera direction • Visual description • Action • Dialogue / Voice Over • Sound Effects (SFX) • Music • Camera movement • Emotion • Transition\n\nUse a premium black technical storyboard design with white typography, clean borders, production notes, timing labels, and a cinematic planning style.\n\nHeader: STORYBOARD ASMR MERAKIT LEGO LAMBORGHINI AVENTADOR Duration: 10 Seconds Ratio: 9:16 Vertical Style: Hyperrealistic Cinematic ASMR\n\nScene 1 (0.00 to 1.20) Overhead macro shot of neatly organized LEGO Technic pieces on a black work mat. Hands pick up the chassis. Soft plastic clicking sounds. Slow overhead dolly.\n\nScene 2 (1.20 to 2.40) Extreme macro close up of hands connecting the front suspension axle. Focus rack from fingers to connector. Loud satisfying click.\n\nScene 3 (2.40 to 3.60) Blue body panels are installed as the Lamborghini shape begins to form. Macro three quarter angle with a smooth orbit camera.\n\nScene 4 (3.60 to 4.80) Windshield is installed with the cockpit visible beneath. Camera pushes from the windshield into the interior. Crisp plastic snap sound.\n\nScene 5 (4.80 to 6.00) Front wheel is attached. Macro shot of the wheel spinning. Short tracking shot follows the rotation with subtle mechanical sounds.\n\nScene 6 (6.00 to 7.20) Rear body panels, diffuser, and tail lights are installed. Slow push in as the final pieces lock into place.\n\nScene 7 (7.20 to 8.50) The completed Lamborghini is gently rolled across the table. Low angle tracking shot creates a premium reveal.\n\nScene 8 (8.50 to 10.00) Hero beauty shot of the completed blue LEGO Lamborghini Aventador on a glossy black surface under dramatic blue studio lighting. Slow cinematic orbit ends on a front three quarter angle before fading to black.\n\nAdd professional production notes at the bottom including: • Character consistency • Props • Lighting • Camera style • Tone • Visual style\n\nMake the storyboard look exactly like a real Hollywood production planning sheet with ultra realistic preview frames, cinematic photography, technical annotations, premium typography, and high end film previsualization quality.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784970669504_y82rm8_HN9sdvtbEAEtMhQ.jpg" width="600" alt="ASMR LEGO Technic Storyboard">
-
-**[🎬 Watch Video →](https://x.com/Shorelyn_/status/2080500909076107595)**
-
-**Author:** [Shore Lyn](https://x.com/Shorelyn_) | **Source:** [Link](https://x.com/Shorelyn_/status/2080500909076107595) | **Published:** Jul 24, 2026
-
----
-### Gemini Omni vs Gemini Omni Birthday Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A comparison between Gemini Omni and Gemini Omni for a complex birthday-themed video generation, featuring the prompt used for the Gemini Omni output.
-
-#### 📝 Prompt
-
-```
-以当前上传图片作为唯一女主身份、脸部、发型、身材比例、服装与配饰参考，生成一段 10秒、9:16竖屏 的真实生日反转短视频。
-参考图左侧近景用于锁定脸部身份与妆容，中间正面全身用于锁定正面比例和服装轮廓，右侧背面用于锁定背面结构、头发长度和裙摆拖尾。中间人物脸部的灰色圆形只是遮挡标记，成片中禁止出现灰色圆形、面具、无脸或面部遮挡。
-
-【风格与镜头规则】
-
-真实智能手机竖屏短视频质感，夜晚户外公园。
-
-全片只使用：
-
-一个固定主镜头；
-
-一次脸部特写插入；
-
-两次镜头硬切：进入特写、返回主镜头。
-
-除此之外摄影机始终固定，禁止推拉、横摇、俯仰、跟拍、环绕、甩镜和数字变焦。
-
-返回主镜头后，镜头4至镜头6在同一个构图中连续完成，不再切换角度。黑白变化只是同一画面瞬间去除颜色，不算第三次镜头剪辑。
-
-镜头1至镜头5为自然真实速度，只有镜头6使用慢动作。
-【场景】
-夜晚户外公园，画面中央是一张长椅，后方有草地、树木和少量路灯，背景简洁，有自然夜景纵深。
-
-开场长椅为空。固定主镜头的机位、高度、焦距和构图在全片保持一致。
-
-【女主】
-
-严格依据上传图片保持同一人物、同一妆容、同一发型和同一套服装，不重新设计造型。
-
-人物行动时，长发、披纱和裙摆按照真实布料物理自然摆动，但服装结构、长度和配饰位置不能改变。
-
-前半段状态自然温和。反转核心是：女主原本只是准备吹灭生日蜡烛，普通吹气瞬间变成巨大的橙色火焰喷流。
-
-【核心道具与左右关系】
-
-女主右手始终握着同一瓶绿色香槟，左手始终托着同一个点燃蜡烛的生日蛋糕。
-
-从摄影机视角看：
-
-香槟瓶位于画面左侧；
-
-蛋糕位于画面右侧。
-
-香槟瓶口从开场起已经打开，但完成向下重甩动作之前不得漏液、冒泡或提前喷射。
-
-瓶口只能喷出真实浅金色香槟酒液、白色泡沫和液体飞沫，绝对不能出现火焰、烟花、火星、冷焰火、银色光柱或魔法粒子。
-
-蛋糕始终保持水平，蜡烛持续点燃。蛋糕不能倾斜、掉落、融化、烧焦或变形。
-
-【镜头1：空长椅建立、入场并坐下】
-固定主镜头短暂展示夜晚公园中的空长椅。
-
-随后女主从画面右侧进入。她右手握绿色香槟瓶，左手平稳托着点燃蜡烛的生日蛋糕，走到长椅中央并自然坐下。
-
-坐下后身体位于画面中央，香槟瓶位于画面左侧，蛋糕稳定保持在胸前附近。摄影机不能跟随人物移动。
-
-【镜头2：连续晃动香槟】
-
-女主右手握紧瓶颈，连续上下晃动香槟瓶约三次：
-
-抬至肩膀附近
-→ 快速降至腰部附近
-→ 再次抬高
-→ 再次向下甩动
-→ 完成最后一次清楚的上下晃动。
-
-动作由手臂和前臂主导，节奏明确，像在增加瓶内压力。身体和左手蛋糕保持稳定，香槟不能提前喷射。
-
-【镜头3：硬切脸部特写，坏笑并深吸气】
-
-第一次硬切进入女主脸部特写。
-
-女主脸部占据竖屏主要区域，路灯暖光勾勒面部轮廓，夜晚公园背景自然虚化。脸部必须与主镜头和参考图完全一致。
-
-女主停止晃瓶，直视摄影机。表情从温和逐渐变成单侧嘴角抬起的克制坏笑，眼睛略微眯起，眼神带有狡黠感。
-不要露齿大笑，不要挤眉弄眼或面部扭曲。
-最后，她像准备吹灭蜡烛一样明显深吸一口气。香槟瓶和蛋糕仍由双手持有，并在画面下方保持原有位置。
-【镜头4：返回原构图，抬蛋糕并向下重甩香槟】
-第二次硬切返回与开场完全相同的固定主镜头。
-
-女主仍坐在长椅中央。她左手将蛋糕抬到脸前，蛋糕略低于嘴部，位于画面右侧。
-
-同时，右手将香槟瓶高高举起，随后快速、利落地向下挥动：
-
-抬高瓶子
-→ 手臂快速下挥
-→ 瓶子猛地甩向身体右下方
-→ 从摄影机视角看停在画面左下方。
-
-她始终牢牢握住瓶颈。瓶子不能脱手、落地、撞击长椅或破碎。
-
-就在重甩动作完成的同一瞬间，不得停顿，两个效果立即同步启动：
-
-画面左侧香槟瓶口垂直向上喷出真实香槟酒液、大量白色泡沫和飞沫；
-
-女主同时朝蜡烛用力吹气，普通气流瞬间转化为巨大的橙色火焰，从蜡烛正上方掠过并水平喷向画面右侧。
-
-【镜头5：彩色高潮持续喷射】
-
-女主保持坐姿和吹蜡烛的动作，嘴部持续向画面右侧喷出橙色火焰。
-
-火焰必须明确来自嘴部吹气，从蜡烛上方经过，水平向右延伸并略微翻卷，不能从鼻子、脸颊、蜡烛或蛋糕中产生。
-
-左手蛋糕保持在脸前并维持水平。蜡烛持续点燃，蛋糕不融化、不烧焦、不冒烟。
-
-画面左侧香槟瓶口持续垂直向上喷出：
-透明浅金色酒液；
-大量白色泡沫；
-向四周飞散的细密飞沫；
-
-受重力影响自然回落的液体。
-
-瓶口和瓶身表面出现真实湿润反光。香槟必须呈现液体物理，不能形成僵硬白柱、烟雾、烟花或火焰。
-
-画面形成清楚的三个区域：
-左侧：香槟酒液和泡沫；
-
-中间：女主；
-
-右侧：生日蛋糕及从蜡烛上方经过的橙色火焰。
-
-香槟垂直向上，火焰水平向右，两者朝相反方向延伸，不能交叉、接触或重叠。
-
-火焰真实照亮女主脸部、服装、蛋糕、长椅和附近环境；香槟液体反射暖色火光。
-
-【镜头6：黑白慢动作生日海报结尾】
-
-当火焰和香槟喷射达到最夸张的高潮时，配合音乐强拍，整个画面在同一帧内瞬间转换为完全去饱和的纯黑白画面，同时进入慢动作。
-这是同一个主镜头内的色彩变化，不是新的镜头剪辑。
-女主保持完全相同的姿势继续喷火。香槟泡沫和飞沫在黑白慢动作中缓慢飘散、翻滚和坠落，火焰缓慢翻卷。
-黑白转换的同一瞬间，画面上方出现白色手写英文：
-
-Happy Birthday
-
-该文字只能出现在黑白段落，彩色画面中不能提前出现。
-
-慢动作持续至视频结束，最后一帧停留在最高潮姿势。禁止重新摆姿势、切换角度、淡入淡出、白色闪光、溶解或渐变黑白。
-【声音与节奏】
-背景音乐全程连续，节奏清楚。入场、坐下、晃动香槟和向下重甩动作跟随音乐节拍。
-
-脸部特写坏笑时，音乐短暂降低，清楚保留深吸气声。
-
-向下重甩时加入短促挥动风声和低频冲击声，禁止玻璃破碎声。
-
-重甩完成的瞬间立即同步叠加：
-
-吹蜡烛的“呼——”气流声；
-
-气流瞬间转化为火焰爆燃声；
-
-香槟高压喷射声；
-
-酒液与泡沫持续喷射的嘶响声；
-
-短促低频冲击声。
-
-香槟声音必须像高压液体和泡沫喷射，不能像烟花燃烧声。
-
-进入黑白慢动作时，火焰与喷射声同步被拉长为低沉持续的回响，背景音乐继续播放，不能突然停止。
-
-【强制约束】
-
-总时长必须为 10秒、9:16竖屏。
-
-动作顺序必须是：
-
-空长椅
-→ 入场并坐下
-→ 晃动香槟
-→ 硬切脸部特写
-→ 单侧坏笑并深吸气
-→ 硬切返回原构图
-→ 抬起蛋糕并向下重甩香槟
-→ 重甩完成瞬间同步喷出香槟与嘴部火焰
-→ 彩色高潮持续喷射
-→ 音乐强拍瞬间转为黑白慢动作并出现 Happy Birthday
-→ 海报式结尾。
-
-香槟瓶始终握在右手中，不能脱手、落地或破碎。火焰只能来自吹向蜡烛的嘴部气流；香槟瓶口只能喷出酒液、泡沫和飞沫。
-
-香槟喷泉位于画面左侧并垂直向上，嘴部火焰从蜡烛上方掠过并水平向画面右侧，两者必须同时开始且不能交叉。
-女主、蛋糕和香槟瓶全程保持一致。禁止人物复制、额外手臂、额外瓶子、第二个蛋糕、道具变形或服装漂移。
-除黑白段落中的白色手写体 Happy Birthday 外，禁止出现其他字幕、Logo、边框或水印。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080255348896915456/img/ytFQLE_PKdA3JJ5L.jpg" width="600" alt="Gemini Omni vs Gemini Omni Birthday Prompt">
-
-**[🎬 Watch Video →](https://x.com/Chengzilhy/status/2080257001268125733)**
-
-**Author:** [小宇Chengzi](https://x.com/Chengzilhy) | **Source:** [Link](https://x.com/Chengzilhy/status/2080257001268125733) | **Published:** Jul 23, 2026
-
----
-### Cinematic Beverage Commercial for Fizzi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed prompt for a high-end summer beverage commercial, featuring macro product shots, golden hour lighting, and lifestyle scenes by a pool.
-
-#### 📝 Prompt
-
-```
-Cinematic summer beverage commercial for FIZZI Sparkling Tonic — Grapefruit, high-end style in a warm golden-hour color grade with teal-turquoise pool contrast and coral-pink accents, mixing lifestyle wide shots with hyper-detailed macro product close-ups, slow-motion moments, fun youthful carefree energy, upbeat tropical pop and sound design of can hiss, carbonation fizz, pool splashes and laughter. The product is a tall slim coral-pink aluminum can with condensation droplets — bold retro-rounded lowercase magenta "fizzi" at the top, "sparkling tonic" below, a 4x4 pop-art grid of illustrated grapefruit circles in pink, coral, hot pink and pale yellow, with "0% Alcohol" and "GRAPEFRUIT" at the bottom. At golden hour on a stylish rooftop pool, a young woman in a coral-pink swimsuit sits at the pool edge with her feet in turquoise water, lifting an ice-cold FIZZI can to her lips and closing her eyes in pleasure, friends mingling and string lights twinkling in a dreamy soft-focus blur behind her, condensation catching the golden light. A slightly wider shot shows her floating on a clear inflatable beside a friend in a pale yellow swimsuit, both laughing as they clink their coral-pink cans with a small splash, shot at water level with sparkling reflections dancing across the frame. An extreme macro slowly pans across the coral-pink can surface in hyper-detail — beads of condensation catching prismatic light, the glistening magenta "fizzi" logo filling the frame, then down to the crisp pop-art grapefruit grid with shimmering turquoise bokeh behind. Another dreamy slow-motion macro shows tiny carbonation bubbles racing up through pale-pink sparkling liquid in a glass with a glowing grapefruit slice floating, the can softly out of focus behind, with ASMR fizzing crackle. Finally the camera pulls back to a wide golden-hour shot of the full party — both women floating with cans, friends dancing and lounging on coral towels, grabbing FIZZI from an ice bucket of grapefruit halves — then slowly pushes in as they raise their cans toward camera and clean white text fades in: "Grab an ice cold fizzi," with "© 2026 FIZZI Beverages Co." below, holding then fading out.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080249467647721473/img/W2AOX-wwqvfZtqbA.jpg" width="600" alt="Cinematic Beverage Commercial for Fizzi">
-
-**[🎬 Watch Video →](https://x.com/Just_sharon7/status/2080250591675101490)**
-
-**Author:** [Sharon Riley](https://x.com/Just_sharon7) | **Source:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Published:** Jul 23, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2740,6 +2692,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T08:33:11.489Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-03T15:48:50.937Z</sub>
 
 </div>

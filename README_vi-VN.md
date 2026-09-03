@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **228** |
+| 📝 Tổng số prompt | **235** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-03** |
 
@@ -56,6 +56,316 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Storyboard quảng cáo mì Ý cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý storyboard toàn diện cho quảng cáo thực phẩm Ý, phác thảo các cảnh quay sản phẩm đậm chất điện ảnh bao gồm cảnh luộc mì, cuộn mì bằng nĩa và các chi tiết kết cấu macro.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ:
+Storyboard quảng cáo sản phẩm mì Ý cao cấp
+
+ĐỊNH DẠNG:
+• Storyboard cao cấp một trang
+• Tỷ lệ khung hình dọc 3:4
+• Chiến dịch thực phẩm đóng gói cao cấp
+• 8 cảnh quay tập trung vào sản phẩm đậm chất điện ảnh
+• Sản phẩm luôn là tâm điểm hình ảnh
+• Trình bày theo phong cách quảng cáo sang trọng
+
+PHẦN ĐẦU:
+• Kiểu chữ có chân tinh tế
+• Thẻ thông tin:
+  - Thời lượng: 20 giây
+  - Phong cách: Quảng cáo thực phẩm Ý đích thực
+  - Sản phẩm: Mì Spaghetti cao cấp
+  - Âm thanh: Tiếng nấu mì + ASMR nhà bếp kiểu Ý
+• Mục "Tại sao phong cách này hiệu quả"
+• Thẩm mỹ màu kem, vàng lúa mì và xanh đậm
+• Các yếu tố trang trí tối giản lấy cảm hứng từ Ý
+
+STORYBOARD:
+1. Gói mì spaghetti cao cấp đặt thẳng đứng bên cạnh những sợi mì chưa nấu
+2. Cảnh mở gói mì với những sợi mì dài được rút ra
+3. Mì rơi vào nồi nước đang sôi
+4. Mì cuộn dưới nước với bong bóng và chuyển động chân thực
+5. Mì đã nấu chín được nhấc lên khỏi nồi với làn hơi bốc lên
+6. Những sợi mì dài được cuộn một cách thanh lịch quanh chiếc nĩa
+7. Cận cảnh macro cực đại cho thấy kết cấu mì mượt mà phủ đầy sốt
+8. Cảnh quay sản phẩm cuối cùng với gói mì đặt cạnh đĩa mì spaghetti được trình bày đẹp mắt
+
+MỖI KHUNG HÌNH:
+• Số thứ tự cảnh
+• Huy hiệu thời lượng
+• Hướng máy quay
+• Hình ảnh
+• Hành động
+• Chi tiết sản phẩm
+
+CAMERA:
+Bố cục từ trên xuống, macro dưới nước, cận cảnh hơi nước, cảnh nhấc mì chuyển động chậm, cảnh xoay nĩa, chi tiết kết cấu cực đại, cảnh quay sản phẩm đậm chất điện ảnh.
+
+PHONG CÁCH:
+Quảng cáo thực phẩm Ý siêu thực, kết cấu mì chân thực, hơi nước và nước sống động, bao bì chi tiết, ánh sáng điện ảnh ấm áp, trình bày theo phong cách ẩm thực cao cấp, nguyên liệu tự nhiên, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788426358015_1tgujv_HRRlezKbQAAQ8BS.jpg" width="600" alt="Storyboard quảng cáo mì Ý cao cấp">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2095411329461100949)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2095411329461100949) | **Đã xuất bản:** Sep 3, 2026
+
+---
+### Prompt JSON cho video quảng cáo nước hoa sang trọng
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt cấu trúc JSON kỹ thuật để tạo video quảng cáo nước hoa sang trọng với các chi tiết macro trên thủy tinh, lụa cuộn và bụi vàng trong một cảnh quay liên tục.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "một cảnh quay liên tục không cắt cảnh",
+    "composition": "bắt đầu bằng góc quay macro cực cận vào chai nước hoa pha lê nhiều mặt, theo sau là lụa và bụi vàng cuộn quanh, kết thúc bằng cảnh quay chính diện sản phẩm lơ lửng",
+    "lens": "ống kính macro 100mm cho chi tiết thủy tinh, sau đó chuyển sang 50mm để làm nổi bật sản phẩm",
+    "frame_rate": "24fps chuẩn điện ảnh",
+    "camera_movement": "chậm rãi tiến vào chai, di chuyển quỹ đạo nhẹ nhàng khi cánh hoa và lụa bay lên, giữ cố định ở khung hình chính cuối cùng"
+  },
+  "timeline": {
+    "0-2s": "Studio sang trọng mờ ảo trên nền đá cẩm thạch đen. Chai nước hoa pha lê cao cấp với chất lỏng màu hổ phách vàng óng. Ánh nến ấm áp lướt qua các cạnh thủy tinh sắc nét, phản chiếu và khúc xạ ánh sáng siêu thực.",
+    "2-4s": "Lụa màu sâm panh mỏng manh và bụi vàng mịn cuộn quanh chai trong chuyển động chậm. Làn sương ấm áp nhẹ nhàng bốc lên. Các hạt bụi bắt lấy những tia sáng.",
+    "4-6s": "Chất lỏng bên trong chai cuộn nhẹ như thể đang sống. Các hạt vàng bay lên. Nắp chai bằng vàng hơi nhấc lên với ánh sáng huyền ảo tinh tế.",
+    "6-8s": "Nước hoa phun ra trong chuyển động chậm và biến thành những dải lụa mềm mại cùng cánh hoa nhài và hoa huệ nở về đêm, tan biến thành làn hơi vàng.",
+    "8-10s": "Cảnh quay chính diện. Chai nước hoa đặt giữa nền đá cẩm thạch đen, bao quanh bởi làn sương rực rỡ, các nếp gấp lụa và cánh hoa rải rác. Đèn spotlight ấm áp và ánh nến. Tập trung vào thương hiệu sang trọng."
+  },
+  "subject": {
+    "description": "một chai nước hoa pha lê cao cấp với chất lỏng màu hổ phách vàng, vải lụa, bụi vàng và các loài hoa nở về đêm đang bao quanh",
+    "props": "chai pha lê, nắp vàng, lụa màu sâm panh, cánh hoa nhài và hoa huệ, sương mù ấm áp"
+  },
+  "scene": {
+    "location": "studio tối giản thanh lịch với đá cẩm thạch đen bóng",
+    "time_of_day": "đêm vĩnh cửu, ánh nến ấm áp",
+    "environment": "không gian sang trọng tĩnh lặng, bề mặt phản chiếu, sương mờ dịu nhẹ, không có người"
+  },
+  "visual_details": {
+    "action": "ánh sáng lướt trên thủy tinh, lụa và cánh hoa cuộn xoáy, nắp chai nâng lên, tia phun trở thành làn hơi và hình dáng hoa, chai nước hoa ổn định ở tư thế lơ lửng",
+    "special_effects": "bụi vàng chuyển động chậm, khúc xạ chất lỏng, hiệu ứng lụa biến hình giữa không trung, hiệu ứng lơ lửng tinh tế"
+  },
+  "cinematography": {
+    "lighting": "ánh nến ấm áp làm chủ đạo, tia sáng spotlight kịch tính, phản chiếu trên đá cẩm thạch bóng, ánh sáng viền vàng dịu nhẹ",
+    "color_palette": "đen sâu, vàng sâm panh, hổ phách, cánh hoa màu ngà",
+    "tone": "gần gũi, sang trọng đẳng cấp, sự gợi cảm tĩnh lặng"
+  },
+  "audio": {
+    "music": "nhạc nền ambient ấm áp tinh tế với tiếng chuông pha lê thoang thoảng",
+    "ambient": "tiếng lụa sột soạt nhẹ, tiếng nến bập bùng, không gian studio tĩnh lặng",
+    "sound_effects": "tiếng phun sương tinh tế, tiếng cánh hoa rơi, tiếng vang nhẹ của thủy tinh",
+    "mix": "gần gũi, tinh tế, tập trung vào sản phẩm, không có giọng nói"
+  },
+  "constraints": {
+    "dialogue": "không có",
+    "voiceover": "không có"
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095135814024089600/img/fC7nzZ1tr6CBZkao.jpg" width="600" alt="Prompt JSON cho video quảng cáo nước hoa sang trọng">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2095135918432632856)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2095135918432632856) | **Đã xuất bản:** Sep 2, 2026
+
+---
+### Kịch bản phân cảnh quảng cáo bơ đậu phộng cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gợi ý kịch bản phân cảnh quảng cáo thực phẩm cao cấp cho bơ đậu phộng, mô tả chi tiết các góc quay cận cảnh kết cấu mịn màng, thìa quết và các nguyên liệu rơi chậm.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ:
+Kịch bản phân cảnh quảng cáo sản phẩm bơ đậu phộng cao cấp
+
+ĐỊNH DẠNG:
+• Kịch bản phân cảnh cao cấp một trang
+• Tỷ lệ khung hình dọc 3:4
+• Chiến dịch sản phẩm bữa sáng thượng hạng
+• 8 cảnh quay điện ảnh tập trung vào sản phẩm
+• Sản phẩm là tâm điểm chính
+• Trình bày theo phong cách quảng cáo sang trọng
+
+TIÊU ĐỀ PHỤ:
+• Phông chữ có chân thanh lịch
+• Thẻ thông tin:
+  - Thời lượng: 20 giây
+  - Phong cách: Quảng cáo thực phẩm cao cấp
+  - Sản phẩm: Bơ đậu phộng mịn
+  - Âm thanh: Tiếng thìa quết + ASMR nhẹ nhàng
+• Mục "Tại sao phong cách này hiệu quả"
+• Thẩm mỹ tông màu be ấm, caramel và nâu
+• Các yếu tố trang trí tối giản lấy cảm hứng từ đậu phộng
+
+KỊCH BẢN PHÂN CẢNH:
+1. Hũ bơ đậu phộng đặt trên bề mặt đá cao cấp với những hạt đậu phộng nguyên vỏ xung quanh
+2. Nắp hũ được mở ra, để lộ lớp bơ đậu phộng mịn màng hoàn hảo
+3. Thìa đi vào hũ trong một góc quay cận cảnh cực đại
+4. Bơ đậu phộng đặc sánh từ từ nhấc lên khỏi thìa thành một dải kem dài
+5. Bơ đậu phộng được phết mịn màng lên lát bánh mì nướng ấm nóng
+6. Đậu phộng rang rơi xung quanh hũ theo hiệu ứng chuyển động chậm
+7. Cận cảnh cực đại cho thấy kết cấu kem mịn với những hạt đậu phộng nhỏ
+8. Hũ sản phẩm chính cuối cùng bên cạnh bánh mì nướng và đậu phộng rang rải rác
+
+MỖI KHUNG HÌNH:
+• Số thứ tự cảnh
+• Huy hiệu thời lượng
+• Hướng máy quay
+• Hình ảnh
+• Hành động
+• Chi tiết sản phẩm
+
+MÁY QUAY:
+Cận cảnh cực đại, phết bơ chuyển động chậm, bố cục từ trên xuống, cận cảnh kết cấu kem, thả nguyên liệu có kiểm soát, máy quay tiến dần vào sản phẩm mượt mà.
+
+PHONG CÁCH:
+Nhiếp ảnh thực phẩm siêu thực, kết cấu kem đậm đà, độ nhớt chân thực, chi tiết đậu phộng rang, ánh sáng tự nhiên ấm áp, bao bì thủy tinh cao cấp, quảng cáo bữa sáng tinh tế, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788426360165_e2mvlq_HRNN_7uakAAOsdV.jpg" width="600" alt="Kịch bản phân cảnh quảng cáo bơ đậu phộng cao cấp">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2095104027667177825)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2095104027667177825) | **Đã xuất bản:** Sep 2, 2026
+
+---
+### Xưởng làm mứt anh đào tí hon phong cách Ghibli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) đầy chất điện ảnh và kỳ ảo, lấy cảm hứng từ phong cách hoạt hình Ghibli, mô tả những nhân vật tí hon đang thu hoạch và chế biến một quả anh đào đỏ khổng lồ thành mứt.
+
+#### 📝 Prompt
+
+```
+Hãy tạo ra một xưởng làm việc tí hon đầy kỳ ảo và đậm chất điện ảnh lấy cảm hứng từ Ghibli, nơi những nhân vật nhỏ bé vui vẻ cùng nhau thu hoạch, cắt, nghiền và chế biến một quả anh đào đỏ bóng bẩy thành nước ép và mứt anh đào tươi. Hãy mô tả cảnh quả anh đào rơi xuống bàn gỗ, các nhân vật xây dựng giàn giáo và cầu bằng những vật dụng hàng ngày, cắt trái cây bằng các công cụ quá khổ, thu thập nước ép đang chảy, kéo những chiếc xe chở đầy mảnh anh đào và reo hò khi xưởng trở nên nhộn nhịp. Kết thúc bằng một góc nhìn rộng, đầy phép thuật về những nhân vật tí hon đang ăn mừng xung quanh một chiếc hộp kim loại lớn chứa đầy mứt anh đào đỏ rực, với ánh sáng ấm áp, kết cấu chi tiết, tinh thần đồng đội vui tươi và phong cách hoạt hình thủ công đầy quyến rũ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095084187367907328/img/qYAwALF9EVgltrYP.jpg" width="600" alt="Xưởng làm mứt anh đào tí hon phong cách Ghibli">
+
+**[🎬 Xem video →](https://x.com/noorwithwifi/status/2095084419296182741)**
+
+**Tác giả:** [NoorAI](https://x.com/noorwithwifi) | **Nguồn:** [Link](https://x.com/noorwithwifi/status/2095084419296182741) | **Đã xuất bản:** Sep 2, 2026
+
+---
+### Video ASMR về sự phát triển của sinh vật thạch
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một câu lệnh (prompt) toàn diện để tạo video ASMR chất lượng cao với hình ảnh một chất liệu giống thạch phát triển thành sinh vật dễ thương, bao gồm các giai đoạn hoạt ảnh chi tiết và thiết kế âm thanh.
+
+#### 📝 Prompt
+
+```
+Tạo một video ASMR dọc hoàn chỉnh và độc lập dài 10 giây, tỷ lệ 9:16, 30fps, quay cận cảnh studio siêu thực kết hợp với kỹ thuật render CG vật thể mềm cao cấp. Cố định góc quay cận cảnh, góc nhìn từ trên cao xuống ba phần tư, không có chuyển động trong suốt video. Mặt bàn màu xanh than mờ, nền mờ cùng tông màu, độ sâu trường ảnh nông. Ánh sáng chính từ phía trên bên trái tạo ra bóng đổ rõ nét, các điểm sáng hình chữ nhật rực rỡ và phản chiếu tiếp xúc ấm áp. Một bàn tay với bộ móng dài hình oval tinh tế cầm một tuýp bóp mềm màu [tube color] từ phía trên khung hình, để lộ đầu vòi có ren. Bàn tay từ từ bóp ra một loại gel thạch [material color] đặc, có độ nhớt cao và bóng bẩy. Gel phải luôn được kết nối liên tục với vòi và dần dần phát triển thành một [seal] hoàn chỉnh. Chỉ tạo ra một con vật duy nhất. Cấu trúc cơ thể hình thành liên tục theo trình tự tăng trưởng thực tế, không được xuất hiện tức thì: 0.0–1.0s: Vòi đi vào khung hình, một lượng gel nhỏ tụ lại dưới vòi. 1.0–3.5s: Gel kéo dài xuống dưới, hình thành đầu và thân chính của con vật. 3.5–6.0s: Các chi, tai, cánh, vây, đuôi hoặc các đặc điểm loài khác mọc ra theo trình tự, màu sắc và kết cấu bề mặt dần trở nên rõ nét. 6.0–7.0s: Hình dạng con vật hoàn thiện hoàn toàn, phần gel kết nối với vòi bị kéo thành một sợi đàn hồi ngày càng mỏng. 7.0–7.5s: Sợi gel đứt tự nhiên, bàn tay và tuýp gel thoát ra khỏi khung hình phía trên. 7.5–8.5s: Con vật rơi xuống mặt bàn, trải qua quá trình nén mềm, nảy lên và rung nhẹ như thạch. 8.5–9.6s: Con vật thực hiện một chuyển động nhỏ đặc trưng của loài: [signature movement]. 9.6–10.0s: Con vật ổn định ở trung tâm khung hình, duy trì trạng thái cuối cùng hoàn chỉnh, dễ thương, rõ nét, thuận tiện cho việc cắt cảnh sang phân đoạn tiếp theo. Giữ cho giải phẫu con vật nhất quán, chất liệu ổn định và số lượng luôn là một. Các điểm sáng và bóng đổ phải di chuyển tự nhiên theo sự thay đổi của hình dạng. Toàn bộ quá trình biến đổi là một quá trình tăng trưởng vật lý liên tục, không sử dụng hiệu ứng hòa tan, nhấp nháy hoặc thay thế bằng cách che khuất. Thiết kế âm thanh ASMR thu âm gần: tiếng bóp gel đặc chậm rãi, tiếng kéo dính tinh tế, tiếng đứt sợi đàn hồi nhẹ nhàng, tiếng rơi của vật thể mềm, tiếng rung của thạch và âm thanh tiếp xúc bề mặt nhỏ. Âm thanh stereo trong trẻo và gần gũi, không có lời thoại, không có lời dẫn, không có nhạc lớn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095070639887638528/img/BeW3NqKCNP7G-YSm.jpg" width="600" alt="Video ASMR về sự phát triển của sinh vật thạch">
+
+**[🎬 Xem video →](https://x.com/GeekCatX/status/2095072409141629082)**
+
+**Tác giả:** [知识猫AI实验室](https://x.com/GeekCatX) | **Nguồn:** [Link](https://x.com/GeekCatX/status/2095072409141629082) | **Đã xuất bản:** Sep 2, 2026
+
+---
+### Gợi ý sản xuất video món Thịt kho Khách Gia
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Chuỗi gợi ý video ẩm thực hoàn chỉnh cho món Thịt kho Khách Gia, bao gồm khâu chuẩn bị nguyên liệu và các giai đoạn xào nấu ban đầu với chi tiết đậm chất điện ảnh.
+
+#### 📝 Prompt
+
+```
+Khóa nhất quán đồng bộ: Khóa thịt ba chỉ: Luôn sử dụng cùng một mẻ thịt ba chỉ tươi có da. Các khối thịt nên là hình vuông ngắn, dày khoảng 2,5-3 cm. Mỗi miếng phải thể hiện rõ các lớp da, mỡ và thịt nạc. Không được biến đổi thành thịt gà, sườn, chân giò, thịt nạc nguyên chất hoặc thịt thái lát mỏng. Chỉ cho phép co lại tự nhiên sau khi áp chảo và ninh; không được thay đổi kích thước hoặc hình dạng đột ngột. Sau khi nấu, thịt phải mềm, dẻo nhưng vẫn giữ nguyên hình khối. Khóa cải thảo Khách Gia: Rau có màu vàng nhạt, vàng mù tạt và hơi vàng ô liu. Giữ nguyên phần thân dày ngắn, lá rộng và các sợi rau muối thực tế. Không được biến đổi thành cải khô đen, đậu chua, cải bẹ muối băm nhỏ hoặc rau xanh tươi. Khóa mộc nhĩ: Chỉ thêm một lượng nhỏ mộc nhĩ ngâm màu nâu sẫm. Đây là nguyên liệu phụ và không được làm lu mờ thịt hay rau. Không được biến đổi thành nấm hương, tảo bẹ hoặc rong biển. Khóa dụng cụ nấu ăn: Ba phân đoạn đầu luôn sử dụng cùng một chiếc chảo sắt Trung Hoa màu đen có hai quai kim loại bạc. Sử dụng cùng một chiếc xẻng gỗ rộng màu nâu sẫm. Sử dụng cùng một nắp kính trong suốt để ninh. Chỉ bày món vào nồi đất đen từ hình ảnh tham chiếu ở phân đoạn thứ tư. Khóa môi trường: Cùng một căn bếp Trung Hoa ấm cúng và sạch sẽ. Cùng một đôi tay đầu bếp; tay tự nhiên và sạch sẽ, không lộ mặt. Các góc máy chủ yếu là góc nhìn từ trên xuống và cận cảnh 45 độ. Cảnh quay hoàn thiện sử dụng góc thấp 3/4 macro. Không phụ đề, văn bản, bao bì, thương hiệu hoặc hình mờ trong suốt quá trình. Phân đoạn 1: Tạo video quảng cáo ẩm thực Khách Gia cao cấp, chân thực, định dạng dọc 9:16, thời lượng 10 giây, thể hiện khâu chuẩn bị nguyên liệu. Tham chiếu hình dạng thịt ba chỉ, rau và các thao tác cắt từ video đã tải lên, bố cục lại thành khung hình dọc đậm chất điện ảnh. 0-2s: Cận cảnh một dải thịt ba chỉ tươi nguyên miếng trên thớt gỗ đặc màu nâu đỏ sẫm. Thể hiện rõ lớp da sáng, mỡ kem và các lớp thịt nạc hồng. Zoom chậm, thịt trông ẩm và tươi, không bị xám hay trông như nhựa. 2-5s: Đầu bếp dùng dao phay Trung Hoa cắt thịt thành các khối vuông dày 2,5-3 cm. Khi cắt qua lớp da phải cho thấy độ đàn hồi chân thực. 5-7s: Cho thấy cải thảo Khách Gia đang được rửa và vắt trong chậu inox. Màu sắc vàng nhạt/vàng mù tạt với các nếp nhăn tự nhiên. 7-9s: Cắt rau thành các dải dày ngắn và các miếng không đều. 9-10s: Góc nhìn từ trên xuống của khâu chuẩn bị. Trái: bát inox đựng thịt; Phải: rau màu vàng; Phía sau: mộc nhĩ; Dưới: chảo đen. Sử dụng ánh sáng tự nhiên ấm áp từ bên cạnh, ống kính macro, độ sâu trường ảnh nông. Gợi ý phủ định: Không thịt chín, thịt không da, thịt nạc nguyên chất, sườn, chân giò, gà, bò, thịt băm hoặc thịt thái lát mỏng. Không cải khô đen, đậu chua, rau xanh tươi, đậu phụ, khoai môn, khoai tây, ớt đỏ. Không dao biến dạng, thừa ngón tay, nguyên liệu lơ lửng, văn bản, logo hoặc hình mờ. Phân đoạn 2: Tạo video quảng cáo nấu ăn cao cấp, chân thực, định dạng dọc 9:16, thời lượng 10 giây, tiếp nối từ cùng môi trường. 0-1s: Bắt đầu từ khung hình cuối trước đó, đầu bếp đổ thịt sống vào chảo đen đã làm nóng trước. Không thêm nước, không chần. 1-4s: Xào với xẻng gỗ. Thịt chuyển từ màu hồng sang kem nhạt với các cạnh cháy xém vàng tự nhiên và mỡ được tiết ra. Các lớp thịt vẫn rõ ràng. 4-5,2s: Lấy thịt đã áp chảo ra bát inox. Chỉ giữ lại một lớp mỡ mỏng trong chảo. 5,2-7s: Đổ cải thảo vào. Xào cho đến khi hết hơi ẩm và thân rau hơi bóng, giữ màu vàng tươi. Lấy ra và để riêng. 7-8,2s: Xào gừng, tỏi và hành tím trong mỡ. 8,2-10s: Thêm sốt đậu phụ lên men, tương đậu nành và đậu đen (douchi). Xào thành hỗn hợp nền màu nâu đỏ hạt dẻ đồng nhất. Dừng hình ở nền sốt thơm với thịt áp chảo và rau ở bên cạnh. Gợi ý phủ định: Không chần, không chiên ngập dầu, không bắn dầu quá mức, không lửa bao quanh chảo, khói dày hoặc thịt cháy đen. Thịt không được chín hoàn toàn hoặc mất da. Không cho rau vào sớm, không bột gạo đỏ, hoa hồi, quế hoặc ớt. Phân đoạn 3: Tạo video quảng cáo nấu ăn Khách Gia cao cấp, chân thực, định dạng dọc 9:16, thời lượng 10 giây. 0-2s: Cho thịt trở lại nền sốt cùng với mộc nhĩ. Xào cho đến khi mỗi miếng thịt được phủ một lớp sốt màu nâu đỏ mỏng. Hình dạng thịt không được thay đổi. 2-3,3s: Đổ rượu Thiệu Hưng dọc theo thành trong của chảo. Hơi nước tự nhiên bốc lên, không có lửa. 3,3-5s: Thêm nước nóng cho đến khi ngập 2/3 đến 4/5 miếng thịt. Khuấy một lần để hòa tan sốt vào nước dùng. 5-6,5s: Chất lỏng đạt đến độ sôi ổn định với các bong bóng nhỏ. Không sôi sùng sục hoặc trào ra ngoài. 6,5-7,5s: Đậy nắp kính trong suốt đi kèm. Mặt trong kính hình thành hơi nước ngưng tụ tự nhiên. 7,5-10s: Sử dụng kỹ thuật nén thời gian mượt mà để thể hiện quá trình ninh trong 40 phút. Dụng cụ nấu và bếp vẫn đứng yên. Thịt thấp thoáng ẩn hiện qua làn hơi. Gợi ý phủ định: Không thêm rau, không thay đổi dụng cụ nấu, không dùng nồi áp suất. Không sôi sùng sục, nước xám hoặc dầu nổi váng dày. Thịt không được biến mất, vỡ nát hoặc biến thành thịt gà. Phân đoạn 4: Tạo video quảng cáo ẩm thực Khách Gia cao cấp, chân thực, định dạng dọc 9:16, thời lượng 10 giây. Sử dụng khung hình cuối của Phân đoạn 3 để đảm bảo tính liên tục và ảnh tham chiếu cho nồi đất đen cuối cùng, cách bày trí, màu sắc và cảnh quay chính. Không sao chép đường viền, văn bản hoặc đồ họa từ ảnh tham chiếu. 0-1,2s: Đầu bếp mở nắp kính. Hơi nước bốc lên và tan dần, để lộ miếng thịt màu nâu hạt dẻ còn nguyên vẹn. 1,2-2,8s: Đổ rau đã xào vào. 2,8-4,5s: Xào để cô đặc sốt. Sốt trở thành lớp men màu đỏ cam bao phủ thịt và rau. 4,5-5,8s: Chuyển sang nồi đất tròn màu đen than mờ với vành dày. 5,8-6,8s: Xếp rau ở dưới đáy, sau đó xếp 12-16 khối thịt ở giữa. Một miếng thịt bóng bẩy, rõ nét ở phía trước trung tâm. 6,8-7,3s: Rưới sốt đỏ cam đậm đặc và rắc 10-15 cọng hành lá xanh. 7,3-10s: Chuyển sang cảnh quay chính góc thấp 3/4. Nồi đất chiếm 2/3 khung hình phía dưới. Sốt có màu đỏ cam/caramel/đỏ vàng bão hòa cao với các bóng màu hạt dẻ. Ánh sáng chính ấm áp từ phía trên bên trái, nền màu xám tối và được làm mờ nhẹ. Zoom nhẹ, món ăn giữ nguyên vị trí trong 3 giây cuối. Thịt phải trông chân thực với da, mỡ và thớ thịt. Gợi ý phủ định: Không đường viền, nhãn đỏ, chữ Hán hoặc hình mờ. Không đĩa trắng, inox hoặc nồi màu sáng. Không gà, sườn, thịt thái lát hoặc thịt băm. Không cải khô đen, đậu chua, rau xanh, đậu phụ, khoai môn, khoai tây, ớt, rau mùi hoặc vừng. Không sốt đen hoặc tím, nước dùng loãng hoặc dạng sợi siro. Không chọc hoặc di chuyển thịt trong 3 giây cuối.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094974143213051904/img/iDFO8PNXfCcmDA-T.jpg" width="600" alt="Gợi ý sản xuất video món Thịt kho Khách Gia">
+
+**[🎬 Xem video →](https://x.com/7998l201/status/2094975000763584583)**
+
+**Tác giả:** [Ryan](https://x.com/7998l201) | **Nguồn:** [Link](https://x.com/7998l201/status/2094975000763584583) | **Đã xuất bản:** Sep 2, 2026
+
+---
+### Kịch bản phân cảnh quảng cáo nước dừa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một kịch bản phân cảnh toàn diện dành cho quảng cáo nước dừa cao cấp, mô tả chi tiết các cảnh quay điện ảnh, chuyển động máy quay và phong cách trình bày sản phẩm.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ: Kịch bản phân cảnh quảng cáo sản phẩm nước dừa cao cấp
+
+ĐỊNH DẠNG:
+• Kịch bản phân cảnh cao cấp một trang
+• Tỷ lệ khung hình dọc 3:4
+• Chiến dịch đồ uống tự nhiên cao cấp
+• 8 cảnh quay điện ảnh tập trung vào sản phẩm
+• Sản phẩm luôn là tâm điểm chính
+• Trình bày theo phong cách quảng cáo chuyên nghiệp
+
+PHẦN ĐẦU:
+• Kiểu chữ hiện đại, tinh tế
+• Thẻ thông tin:
+  - Thời lượng: 20 giây
+  - Phong cách: Quảng cáo đồ uống tự nhiên tươi mát
+  - Sản phẩm: Nước dừa
+  - Âm thanh: Tiếng nước nhiệt đới + ASMR sảng khoái
+• Mục "Tại sao phong cách này hiệu quả"
+• Thẩm mỹ màu trắng, xanh lá dừa và màu be tự nhiên
+• Các chi tiết trang trí nhiệt đới tối giản
+
+KỊCH BẢN PHÂN CẢNH:
+1. Chai nước dừa ướp lạnh đặt trên đá tự nhiên ẩm ướt, phủ đầy hơi nước
+2. Nắp chai mở ra với cận cảnh sắc nét của phần niêm phong
+3. Nước dừa rót vào ly thủy tinh trong suốt
+4. Chất lỏng trong vắt xoáy bên trong ly với những bọt khí nhỏ
+5. Những miếng dừa tươi rơi xuống bên cạnh chai theo hiệu ứng quay chậm (slow motion)
+6. Những viên đá rơi vào đồ uống tạo ra hiệu ứng bắn tung tóe có kiểm soát
+7. Cận cảnh cực đại các giọt nước ngưng tụ chảy dọc thân chai
+8. Hình ảnh cuối cùng với chai và ly nước đặt giữa những miếng dừa tươi và hiệu ứng nước bắn tung tóe đóng băng
+
+MỖI KHUNG HÌNH:
+• Số thứ tự cảnh
+• Huy hiệu thời lượng
+• Hướng máy quay
+• Hình ảnh trực quan
+• Hành động
+• Chi tiết sản phẩm
+
+MÁY QUAY:
+Chụp ảnh chất lỏng tốc độ cao, cận cảnh cực đại (macro), cận cảnh hơi nước ngưng tụ, đá rơi quay chậm, chất lỏng trong suốt xoáy, góc quay thấp tập trung vào sản phẩm, khung hình điện ảnh.
+
+PHONG CÁCH:
+Quảng cáo đồ uống siêu thực, chất lỏng trong vắt, hơi nước ngưng tụ chân thực, kết cấu dừa chi tiết, hiệu ứng nước bắn tung tóe sống động, ánh sáng tự nhiên cao cấp, bao bì sạch sẽ, nhiếp ảnh quảng cáo sang trọng, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788426362099_jpy8ok_HRIV2OMWEAAdkxS.jpg" width="600" alt="Kịch bản phân cảnh quảng cáo nước dừa">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2094760813794111843)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2094760813794111843) | **Đã xuất bản:** Sep 1, 2026
+
+---
 ### Gợi ý video quảng cáo cá hấp ven sông
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2396,158 +2706,6 @@ góc quay chính diện từ trên xuống để kết thúc video
 **Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Đã xuất bản:** Jul 26, 2026
 
 ---
-### Quảng cáo nước giải khát thể thao tràn đầy năng lượng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt chất lượng cao cho quảng cáo nước giải khát thể thao, sử dụng mô hình AIDA để mô tả cảnh phục hồi sau khi tập luyện với các cảnh quay cận cảnh sản phẩm và hiệu ứng hình ảnh màu xanh điện tử.
-
-#### 📝 Prompt
-
-```
-Người phụ nữ da đen, tầm 20 tuổi, tóc búi cao xoăn tít, mặc áo ba lỗ màu than, quần legging đen, khăn tắm, đồng hồ thông minh — ngồi trên ghế tập gym sau khi tập luyện (Attention - Thu hút). Mở lon nước có đọng sương, thấy rõ bọt sủi (Interest - Thích thú). Uống nước; nhắm mắt, thả lỏng vai, ánh sáng xanh điện tử bao phủ lấy cô ấy đầy thư thái (Desire - Khao khát). Mỉm cười với ống kính, sau đó là cảnh quay cận cảnh sản phẩm (hero shot) + quay cận cảnh vẻ đẹp của lon "Mayor's Soda" màu xanh navy/bạc, biểu tượng vương miện, logo xuất hiện, câu khẩu hiệu "Mayor's Soda. Refresh the win" cùng lời bình (Action - Hành động). Giữ nguyên thiết kế nhân vật/lon nước trong mọi khung hình, không bị biến dạng. Ánh sáng phòng gym sắc nét 5200-5800K, phản chiếu tông lạnh, hiệu ứng tỏa sáng màu xanh lam ở nhịp thư giãn. Camera: đẩy vào → xoay quanh → cận cảnh. Âm thanh: nhạc synth pad, tiếng mở lon/tiếng sủi bọt, nhạc nền dâng trào ấm áp, lời bình khi logo xuất hiện. Kết xuất chất lượng Octane, tán xạ dưới bề mặt, kết cấu 8K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="Quảng cáo nước giải khát thể thao tràn đầy năng lượng">
-
-**[🎬 Xem video →](https://x.com/iam_damayor/status/2081379499262746808)**
-
-**Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **Đã xuất bản:** Jul 26, 2026
-
----
-### Hoạt hình mèo và chuột phong cách hài hước
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh chi tiết cho cảnh rượt đuổi hoạt hình 3D lấy cảm hứng từ phim hài câm kinh điển của Mỹ, với các tương tác nhân vật và vật lý phức tạp.
-
-#### 📝 Prompt
-
-```
-Tạo một đoạn hoạt hình 3D chất lượng cao dài 10 giây theo chiều ngang về cảnh mèo đuổi chuột. Phong cách tổng thể là phim hài câm kinh điển của Mỹ, với các chuyển động cường điệu, nhịp điệu dồn dập và biểu cảm phong phú, nhưng không bắt chước bất kỳ nhân vật hoạt hình nào hiện có. Một chú mèo cam tròn trịa, mũm mĩm và thiếu kiên nhẫn đuổi theo một chú chuột màu nâu xám thông minh và nhanh nhẹn. Toàn bộ hoạt hình sử dụng các cú máy quay ngang liên tục, với các nhân vật luôn di chuyển từ trái sang phải. Tất cả các chuyển động phụ thuộc vào tốc độ, quán tính và va chạm để kết nối một cách tự nhiên, không có cắt cảnh, dịch chuyển tức thời hay tạm dừng đột ngột. Trong một căn bếp cổ điển ấm áp và tươi sáng, chú chuột nhỏ mang theo miếng phô mai, nhanh nhẹn lách qua chân bàn, nhảy lên nắp nồi đang xoay và dùng nó như ván trượt để lướt về phía trước. Nắp nồi va vào một con lăn nghiêng, và chú chuột nhỏ tận dụng đà đó để nhảy lên bàn ăn. Chú mèo cam đi theo cùng một lộ trình, bước lên con lăn, đôi chân loạng choạng nhanh chóng, cơ thể lắc lư từ bên này sang bên kia, cuối cùng nhảy lên bàn ăn nhờ vào quán tính. Sau khi tiếp đất, nó đâm sầm vào một bao bột mì, làm tung lên một đám bụi trắng. Chú mèo cam thoát ra khỏi đám mây bột mì mà không hề hấn gì, toàn thân trắng xóa chỉ trừ đôi mắt giận dữ. Chú chuột nhỏ lao qua một chiếc bánh mì baguette rỗng ruột, trượt ra từ đầu bên kia. Chú mèo cam bám sát theo sau nhưng bị kẹt lại trong chốc lát. Chiếc bánh mì co giãn rồi bật lại, đẩy chú mèo về phía trước và thu hẹp khoảng cách với chú chuột một lần nữa. Cả hai nhân vật cùng nhảy khỏi bàn ăn. Chú chuột nhỏ đáp xuống một chiếc máy hút bụi robot, tận dụng vòng quay của nó để đổi hướng, sau đó chộp lấy một chiếc khăn treo và đu người qua bồn rửa. Chú mèo cam đáp xuống cùng chiếc robot đó, xoay nửa vòng một cách mượt mà, sau đó tận dụng đà để chộp lấy chiếc đèn chùm, đu người về phía trước, đôi chân gần như chạm vào đuôi của chú chuột. Chú chuột nhỏ đáp xuống trước tủ lạnh, trượt sang một bên. Chú mèo cam lao tới với tốc độ cao, các chi liên tục phanh gấp nhưng vẫn làm vỡ cửa tủ lạnh do quán tính. Một chiếc bánh kem trượt xuống, che kín mặt chú mèo. Chú chuột nhỏ chạy dọc theo đuôi chú mèo, nhảy lên mũi nó, chộp lấy quả anh đào trên bánh kem và vẫy tay đắc thắng. Chú mèo cam giật giật mũi hai lần, rồi bất ngờ hắt hơi thật lớn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080925522910236672/img/Qq7W2rnPrk1LYpTJ.jpg" width="600" alt="Hoạt hình mèo và chuột phong cách hài hước">
-
-**[🎬 Xem video →](https://x.com/Cencencahya12/status/2080925688811720835)**
-
-**Tác giả:** [Cencen](https://x.com/Cencencahya12) | **Nguồn:** [Link](https://x.com/Cencencahya12/status/2080925688811720835) | **Đã xuất bản:** Jul 25, 2026
-
----
-### Video người bán hoa cắm hoa hồng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả chi tiết để tạo video chân thực về người bán hoa đang cắm hoa hồng vào bình dưới ánh sáng tự nhiên.
-
-#### 📝 Prompt
-
-```
-Một nữ nhân viên bán hoa da đen đang cẩn thận tỉa và cắm những bông hoa hồng đỏ tươi vào một chiếc bình gốm trắng trên bàn gỗ tối màu. Đôi bàn tay điều chỉnh cành và lá để tạo nên một bó hoa cân đối, với tác phẩm hoa hoàn thiện được trưng bày đẹp mắt dưới ánh nắng ấm áp gần cửa sổ nhìn ra khu vườn xanh tươi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080919216220200961/img/sdh1PmxEUtazD262.jpg" width="600" alt="Video người bán hoa cắm hoa hồng">
-
-**[🎬 Xem video →](https://x.com/iam_damayor/status/2080919280535609480)**
-
-**Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2080919280535609480) | **Đã xuất bản:** Jul 25, 2026
-
----
-### Thực tại kép: Màu nước và Kỹ thuật số
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video chia đôi màn hình đầy sáng tạo dành cho Gemini Omni, tạo sự tương phản giữa hồ nước vẽ màu nước thanh bình lúc bình minh và cảnh quan thành phố kỹ thuật số tương lai lúc hoàng hôn.
-
-#### 📝 Prompt
-
-```
-Nửa trên theo phong cách màu nước hiển thị một hồ nước thanh bình lúc bình minh, nửa dưới theo phong cách nghệ thuật kỹ thuật số hiển thị cảnh quan thành phố tương lai lúc hoàng hôn, màn hình chia đôi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080625015096254464/img/-o_9Bp8yhlGBMl0B.jpg" width="600" alt="Thực tại kép: Màu nước và Kỹ thuật số">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2080625058268258343)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2080625058268258343) | **Đã xuất bản:** Jul 24, 2026
-
----
-### Storyboard ASMR LEGO Technic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một bảng phân cảnh (storyboard) đa cảnh toàn diện để tạo video ASMR siêu thực về quá trình lắp ráp LEGO Lamborghini, bao gồm hướng dẫn góc máy và hiệu ứng âm thanh.
-
-#### 📝 Prompt
-
-```
-Hãy tạo một bảng phân cảnh sản xuất phim chuyên nghiệp cho video ASMR dài 10 giây mô tả quá trình lắp ráp LEGO Technic Lamborghini Aventador.\n\nBố cục cần giống như một bảng phân cảnh phim thực thụ với 8 khung hình tuần tự được sắp xếp thành hai cột.\n\nMỗi khung hình phải bao gồm: • Hình ảnh xem trước điện ảnh khổ lớn • Số cảnh • Mã thời gian (Timecode) • Hướng góc máy • Mô tả hình ảnh • Hành động • Lời thoại / Lồng tiếng • Hiệu ứng âm thanh (SFX) • Âm nhạc • Chuyển động máy quay • Cảm xúc • Chuyển cảnh\n\nSử dụng thiết kế bảng phân cảnh kỹ thuật màu đen cao cấp với phông chữ trắng, đường viền gọn gàng, ghi chú sản xuất, nhãn thời gian và phong cách lập kế hoạch điện ảnh.\n\nTiêu đề: STORYBOARD ASMR LẮP RÁP LEGO LAMBORGHINI AVENTADOR Thời lượng: 10 Giây Tỷ lệ: 9:16 Dọc Phong cách: ASMR Điện ảnh Siêu thực\n\nCảnh 1 (0.00 đến 1.20) Góc quay từ trên cao (overhead macro) các mảnh LEGO Technic được sắp xếp gọn gàng trên tấm thảm làm việc màu đen. Đôi tay nhấc khung gầm lên. Âm thanh nhựa va chạm nhẹ nhàng. Chuyển động dolly chậm từ trên cao.\n\nCảnh 2 (1.20 đến 2.40) Cận cảnh macro cực đại đôi tay đang kết nối trục treo trước. Lấy nét từ ngón tay sang khớp nối. Tiếng click thỏa mãn, rõ nét.\n\nCảnh 3 (2.40 đến 3.60) Các tấm ốp thân xe màu xanh được lắp vào khi hình dáng chiếc Lamborghini bắt đầu hình thành. Góc quay macro ba phần tư với chuyển động orbit mượt mà.\n\nCảnh 4 (3.60 đến 4.80) Kính chắn gió được lắp vào, lộ ra phần buồng lái bên dưới. Máy quay đẩy từ kính chắn gió vào nội thất. Tiếng nhựa khớp vào nhau giòn giã.\n\nCảnh 5 (4.80 đến 6.00) Bánh trước được gắn vào. Cảnh quay macro bánh xe đang quay. Cảnh quay tracking ngắn theo vòng quay với âm thanh cơ khí tinh tế.\n\nCảnh 6 (6.00 đến 7.20) Các tấm ốp thân sau, bộ khuếch tán và đèn hậu được lắp vào. Đẩy máy chậm khi các mảnh cuối cùng khớp vào vị trí.\n\nCảnh 7 (7.20 đến 8.50) Chiếc Lamborghini hoàn thiện được lăn nhẹ nhàng trên bàn. Cảnh quay tracking góc thấp tạo nên màn lộ diện cao cấp.\n\nCảnh 8 (8.50 đến 10.00) Cảnh quay đẹp nhất (hero shot) chiếc LEGO Lamborghini Aventador màu xanh hoàn thiện trên bề mặt đen bóng dưới ánh sáng studio màu xanh đầy kịch tính. Chuyển động orbit điện ảnh chậm kết thúc ở góc ba phần tư phía trước trước khi mờ dần sang màu đen.\n\nThêm các ghi chú sản xuất chuyên nghiệp ở phía dưới bao gồm: • Tính nhất quán của nhân vật • Đạo cụ • Ánh sáng • Phong cách máy quay • Tông màu • Phong cách hình ảnh\n\nHãy làm cho bảng phân cảnh trông giống hệt như một tờ kế hoạch sản xuất phim Hollywood thực thụ với các khung hình xem trước siêu thực, nhiếp ảnh điện ảnh, chú thích kỹ thuật, phông chữ cao cấp và chất lượng tiền hình ảnh hóa phim đỉnh cao.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784970669504_y82rm8_HN9sdvtbEAEtMhQ.jpg" width="600" alt="Storyboard ASMR LEGO Technic">
-
-**[🎬 Xem video →](https://x.com/Shorelyn_/status/2080500909076107595)**
-
-**Tác giả:** [Shore Lyn](https://x.com/Shorelyn_) | **Nguồn:** [Link](https://x.com/Shorelyn_/status/2080500909076107595) | **Đã xuất bản:** Jul 24, 2026
-
----
-### Biến hình phun lửa siêu thực trong ngày sinh nhật
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh (prompt) image-to-video cực kỳ chi tiết cho cảnh quay sinh nhật, nơi một người phụ nữ phun ra ngọn lửa lớn thay vì thổi nến, kết thúc bằng hiệu ứng poster chuyển động chậm đen trắng.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh đã tải lên làm tham chiếu duy nhất cho danh tính, khuôn mặt, kiểu tóc, tỷ lệ cơ thể, trang phục và phụ kiện, hãy tạo một video ngắn 10 giây, khung hình dọc 9:16 theo phong cách sinh nhật thực tế.
-[Quy tắc về Phong cách & Camera]
-Kết cấu video dọc quay bằng điện thoại thông minh chân thực, bối cảnh công viên ngoài trời vào ban đêm. Chỉ sử dụng một góc máy chính cố định, một cảnh quay cận mặt và hai lần cắt cảnh đột ngột (hard cut). Không zoom hoặc lia máy. Tốc độ tự nhiên cho các cảnh 1-5, chuyển động chậm cho cảnh 6. Chuyển sang đen trắng ở cuối video.
-[Bối cảnh]
-Công viên ngoài trời vào ban đêm với ghế đá, bãi cỏ và cây cối. Độ sâu trường ảnh tự nhiên vào ban đêm.
-[Nhân vật]
-Cùng một người như trong ảnh tải lên. Sự biến hình: cô gái chuẩn bị thổi nến, nhưng ngọn nến lại biến thành một luồng lửa cam khổng lồ.
-[Đạo cụ chính]
-Tay phải cầm chai sâm panh màu xanh lá cây, tay trái cầm bánh sinh nhật đã thắp nến. Sâm panh ở bên trái, bánh ở bên phải.
-[Cảnh 1-6]
-1. Xuất hiện và ngồi xuống ghế đá.
-2. Lắc chai sâm panh.
-3. Cắt cảnh đột ngột sang cận mặt, cô gái nhếch mép cười và hít một hơi thật sâu.
-4. Quay lại cảnh chính, giơ bánh lên và đặt mạnh chai sâm panh xuống. Sâm panh phun lên (hướng lên trên) và miệng phun lửa (hướng ngang sang phải) đồng bộ ngay lập tức.
-5. Cao trào màu sắc với luồng phun và lửa kéo dài thắp sáng cả khung cảnh.
-6. Chuyển ngay sang hiệu ứng đen trắng chuyển động chậm với lớp phủ chữ 'Happy Birthday'.
-[Âm thanh]
-Nhạc nền liên tục. Tiếng hít thở, tiếng lắc, tiếng lửa bùng lên và tiếng sâm panh phun áp lực cao.
-[Ràng buộc]
-Tổng cộng 10 giây. Không được nhân bản nhân vật hoặc làm biến dạng đạo cụ. Sâm panh và lửa không được chồng chéo lên nhau.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080255348896915456/img/ytFQLE_PKdA3JJ5L.jpg" width="600" alt="Biến hình phun lửa siêu thực trong ngày sinh nhật">
-
-**[🎬 Xem video →](https://x.com/Chengzilhy/status/2080257001268125733)**
-
-**Tác giả:** [小宇Chengzi](https://x.com/Chengzilhy) | **Nguồn:** [Link](https://x.com/Chengzilhy/status/2080257001268125733) | **Đã xuất bản:** Jul 23, 2026
-
----
-### Quảng cáo đồ uống đậm chất điện ảnh cho Fizzi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) chi tiết cho quảng cáo đồ uống mùa hè cao cấp, bao gồm các cảnh quay cận cảnh sản phẩm, ánh sáng giờ vàng và các cảnh sinh hoạt bên hồ bơi.
-
-#### 📝 Prompt
-
-```
-Quảng cáo đồ uống mùa hè đậm chất điện ảnh cho FIZZI Sparkling Tonic — vị bưởi, phong cách cao cấp với tông màu giờ vàng ấm áp, tương phản với màu xanh ngọc của hồ bơi và các điểm nhấn màu hồng san hô. Kết hợp giữa các cảnh quay toàn cảnh đời thường và các cảnh quay cận cảnh sản phẩm siêu chi tiết, những khoảnh khắc chuyển động chậm, năng lượng trẻ trung vui vẻ, nhạc pop nhiệt đới sôi động cùng thiết kế âm thanh tiếng mở lon, tiếng sủi bọt ga, tiếng nước hồ bơi và tiếng cười đùa. Sản phẩm là một lon nhôm cao, thon, màu hồng san hô với những giọt nước đọng — logo "fizzi" viết thường, bo tròn phong cách retro màu đỏ tươi nổi bật ở phía trên, dòng chữ "sparkling tonic" bên dưới, lưới pop-art 4x4 gồm các hình minh họa bưởi màu hồng, san hô, hồng đậm và vàng nhạt, với dòng chữ "0% Alcohol" và "GRAPEFRUIT" ở phía dưới. Vào giờ vàng tại một hồ bơi trên sân thượng sành điệu, một cô gái trẻ mặc đồ bơi màu hồng san hô ngồi bên mép hồ với đôi chân thả trong làn nước xanh ngọc, đưa lon FIZZI lạnh buốt lên môi và nhắm mắt tận hưởng, bạn bè trò chuyện và ánh đèn dây lung linh mờ ảo phía sau, những giọt nước đọng bắt trọn ánh sáng vàng. Một cảnh quay rộng hơn cho thấy cô đang thả mình trên chiếc phao trong suốt bên cạnh một người bạn mặc đồ bơi màu vàng nhạt, cả hai cùng cười đùa khi chạm lon màu hồng san hô vào nhau tạo nên những tia nước nhỏ, quay ở tầm mặt nước với những phản chiếu lấp lánh nhảy múa khắp khung hình. Một cảnh quay cận cảnh cực đại lia chậm qua bề mặt lon màu hồng san hô với độ chi tiết cực cao — những hạt nước đọng bắt lấy ánh sáng lăng kính, logo "fizzi" màu đỏ tươi lấp lánh lấp đầy khung hình, sau đó lia xuống lưới bưởi pop-art sắc nét với hiệu ứng bokeh màu xanh ngọc lung linh phía sau. Một cảnh quay macro chuyển động chậm đầy mơ màng khác cho thấy những bong bóng ga nhỏ li ti đang đua nhau nổi lên qua làn nước màu hồng nhạt trong ly với lát bưởi phát sáng trôi nổi, lon nước mờ ảo phía sau, cùng âm thanh ASMR tiếng sủi bọt. Cuối cùng, máy quay lùi lại thành cảnh toàn cảnh giờ vàng của cả bữa tiệc — cả hai cô gái đang thả mình trên phao với lon nước trên tay, bạn bè nhảy múa và thư giãn trên những chiếc khăn màu san hô, lấy FIZZI từ xô đá đầy những miếng bưởi — sau đó máy quay từ từ tiến lại gần khi họ giơ lon nước về phía ống kính và dòng chữ trắng hiện lên: "Grab an ice cold fizzi," với dòng chữ "© 2026 FIZZI Beverages Co." bên dưới, giữ nguyên rồi mờ dần.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080249467647721473/img/W2AOX-wwqvfZtqbA.jpg" width="600" alt="Quảng cáo đồ uống đậm chất điện ảnh cho Fizzi">
-
-**[🎬 Xem video →](https://x.com/Just_sharon7/status/2080250591675101490)**
-
-**Tác giả:** [Sharon Riley](https://x.com/Just_sharon7) | **Nguồn:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Đã xuất bản:** Jul 23, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -2600,6 +2758,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-03T08:33:19.965Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-03T15:48:56.227Z</sub>
 
 </div>

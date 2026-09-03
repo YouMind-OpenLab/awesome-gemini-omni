@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **228** |
+| 📝 Toplam İstem | **235** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-03** |
 
@@ -56,6 +56,316 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Premium İtalyan Spagetti Reklamı Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Makarna haşlama, çatalda döndürme ve makro doku detayları dahil olmak üzere sinematik ürün çekimlerini içeren, İtalyan yemek reklamları için kapsamlı bir storyboard istemi.
+
+#### 📝 İstem
+
+```
+BAŞLIK:
+Premium İtalyan Spagetti Ürün Reklamı Storyboard'u
+
+FORMAT:
+• Tek sayfalık premium storyboard
+• 3:4 Dikey oran
+• Premium paketli gıda kampanyası
+• 8 adet sinematik ürün odaklı sahne
+• Ürün, görselin ana kahramanı olarak kalır
+• Lüks reklam sunumu
+
+ÜST BİLGİ:
+• Zarif serif tipografi
+• Bilgi kartları:
+  - Süre: 20 Saniye
+  - Stil: Otantik İtalyan Yemek Reklamı
+  - Ürün: Premium Spagetti Makarna
+  - Ses: Makarna Pişirme + İtalyan Mutfağı ASMR
+• Bu Stil Neden İşe Yarar bölümü
+• Krem, buğday sarısı ve koyu yeşil estetiği
+• Minimal İtalyan esintili dekoratif öğeler
+
+STORYBOARD:
+1. Pişmemiş makarna telleriyle yan yana dikey duran premium spagetti paketi
+2. Paketin açılması ve uzun spagetti tellerinin dışarı çıkarılması
+3. Spagettilerin kaynayan bir tencere suya bırakılması
+4. Makarnanın su altında baloncuklar ve gerçekçi hareketlerle dönmesi
+5. Pişmiş spagettinin tencereden yükselen buharla kaldırılması
+6. Uzun tellerin bir çatal etrafında zarifçe döndürülmesi
+7. Sosla kaplanmış ipeksi makarna dokusunu gösteren ekstrem makro çekim
+8. Makarna paketinin güzelce hazırlanmış bir spagetti tabağının yanında olduğu final ürün çekimi
+
+HER PANEL:
+• Sahne numarası
+• Süre rozeti
+• Kamera yönü
+• Görsel
+• Aksiyon
+• Ürün detayı
+
+KAMERA:
+Üstten çekim kompozisyonu, su altı makro, buhar yakın plan, ağır çekim makarna kaldırma, çatal rotasyon çekimi, ekstrem doku detayı, sinematik paket çekimi.
+
+STİL:
+Ultra gerçekçi İtalyan yemek reklamı, otantik makarna dokusu, gerçekçi buhar ve su, detaylı ambalaj, sıcak sinematik aydınlatma, premium gurme sunum, doğal malzemeler, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788426358015_1tgujv_HRRlezKbQAAQ8BS.jpg" width="600" alt="Premium İtalyan Spagetti Reklamı Storyboard'u">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2095411329461100949)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2095411329461100949) | **Yayınlandı:** Sep 3, 2026
+
+---
+### Lüks Parfüm Sinematik JSON İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Makro cam detayları, süzülen ipek ve altın tozu içeren, kesintisiz çekimle hazırlanmış bir lüks parfüm reklamı oluşturmak için teknik JSON yapılı bir istem.
+
+#### 📝 İstem
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "tek kesintisiz çekim, sahne geçişi yok",
+    "composition": "uzun, fasetli kristal bir parfüm şişesine aşırı makro odakla başlar, etrafında dönen ipek ve altın tozunu takip eder, merkezlenmiş havada asılı bir ana ürün çekimiyle biter",
+    "lens": "cam detayları için 100mm makro, ardından ürün sunumu için 50mm",
+    "frame_rate": "24fps sinematik",
+    "camera_movement": "şişeye doğru yavaşça yaklaşma, yapraklar ve ipek yükselirken hafif yörüngesel kayma, son ana karede sabit duruş"
+  },
+  "timeline": {
+    "0-2s": "Siyah mermer üzerinde loş lüks stüdyo. Koyu kehribar-altın rengi sıvıyla dolu uzun, fasetli kristal parfüm şişesi. Keskin cam kenarlarında süzülen sıcak mum ışığı, ultra gerçekçi yansımalar ve ışık kırılmaları.",
+    "2-4s": "Şampanya rengi ince ipek ve ince altın tozu, ağır çekimde şişenin etrafında dönüyor. Hafif sıcak sis yükseliyor. Parçacıklar ışık huzmelerini yakalıyor.",
+    "4-6s": "Şişenin içindeki sıvı sanki canlıymış gibi hafifçe çalkalanıyor. Altın parçacıklar yükseliyor. Altın kapak, hafif ve büyülü bir gerçekçilik ışıltısıyla hafifçe yukarı kalkıyor.",
+    "6-8s": "Parfüm spreyi ağır çekimde patlıyor ve akan ipek kurdelelere, gece açan yasemin ve sümbülteber yapraklarına dönüşerek altın rengi bir buhara karışıyor.",
+    "8-10s": "Final ana çekim. Siyah mermer üzerinde merkezlenmiş şişe; parlayan sis, ipek kıvrımları ve dağılmış yapraklarla çevrili. Sıcak spot ışığı ve mum ışığı. Lüks marka odaklı."
+  },
+  "subject": {
+    "description": "kehribar-altın rengi sıvıyla dolu uzun fasetli kristal parfüm şişesi, ipek kumaş, altın tozu ve etrafında birleşen gece açan çiçekler",
+    "props": "kristal şişe, altın kapak, şampanya rengi ipek, yasemin ve sümbülteber yaprakları, sıcak sis"
+  },
+  "scene": {
+    "location": "parlak siyah mermerli karanlık ve zarif stüdyo",
+    "time_of_day": "zamansız gece, sıcak mum ışığı",
+    "environment": "sakin lüks set, yansıtıcı yüzey, hafif pus, insan yok"
+  },
+  "visual_details": {
+    "action": "ışık cam üzerinde süzülüyor, ipek ve yapraklar dönüyor, kapak kalkıyor, sprey buhara ve çiçek formlarına dönüşüyor, şişe havada asılı ana ürün pozuna yerleşiyor",
+    "special_effects": "ağır çekim altın tozu, sıvı ışık kırılmaları, havada ipek dönüşümü, hafif havada asılı kalma ışıltısı"
+  },
+  "cinematography": {
+    "lighting": "sıcak mum ışığı ana ışık, dramatik spot ışığı huzmeleri, parlak mermer yansımaları, yumuşak altın rengi kenar ışığı",
+    "color_palette": "koyu siyah, şampanya altını, kehribar, fildişi yapraklar",
+    "tone": "samimi, köklü lüks, dingin şehvet"
+  },
+  "audio": {
+    "music": "hafif kristal çınlamasıyla desteklenen sıcak ortam drone sesi",
+    "ambient": "yumuşak ipek hışırtısı, mum titremesi, durgun stüdyo havası",
+    "sound_effects": "zarif sprey patlaması, yaprakların yerleşme sesi, sessiz cam rezonansı",
+    "mix": "samimi, rafine, ürün odaklı, seslendirme yok"
+  },
+  "constraints": {
+    "dialogue": "yok",
+    "voiceover": "yok"
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095135814024089600/img/fC7nzZ1tr6CBZkao.jpg" width="600" alt="Lüks Parfüm Sinematik JSON İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2095135918432632856)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2095135918432632856) | **Yayınlandı:** Sep 2, 2026
+
+---
+### Gurme Fıstık Ezmesi Reklamı Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Fıstık ezmesi için lüks bir gıda reklamı storyboard taslağı; pürüzsüz dokuların makro çekimleri, kaşıkla kazıma ve ağır çekim malzeme düşüşleri gibi detayları içerir.
+
+#### 📝 İstem
+
+```
+BAŞLIK:
+Premium Fıstık Ezmesi Ürün Reklamı Storyboard'u
+
+FORMAT:
+• Tek sayfalık premium storyboard
+• 3:4 Dikey oran
+• Gurme kahvaltılık ürün kampanyası
+• 8 adet sinematik, ürün odaklı sahne
+• Ürün ana kahraman olarak kalır
+• Lüks reklam sunumu
+
+ÜST BİLGİ:
+• Zarif serif tipografi
+• Bilgi kartları:
+  - Süre: 20 Saniye
+  - Stil: Gurme Gıda Reklamı
+  - Ürün: Krem Fıstık Ezmesi
+  - Ses: Kaşık Sıyırma Sesi + Hafif ASMR
+• Bu Stil Neden İşe Yarar bölümü
+• Sıcak bej, karamel ve kahverengi estetiği
+• Minimalist, fıstık esintili dekoratif öğeler
+
+STORYBOARD:
+1. Premium taş bir yüzey üzerinde, çevresinde bütün fıstıklarla konumlandırılmış fıstık ezmesi kavanozu
+2. Kavanoz kapağının açılması ve mükemmel pürüzsüzlükteki fıstık ezmesinin ortaya çıkışı
+3. Aşırı makro çekimde kaşığın kavanoza girişi
+4. Yoğun fıstık ezmesinin kaşıktan uzun, kremsi bir şerit halinde yavaşça yükselişi
+5. Fıstık ezmesinin sıcak kızarmış ekmek üzerine pürüzsüzce sürülmesi
+6. Kavanozun etrafına ağır çekimde düşen kavrulmuş fıstıklar
+7. Küçük fıstık parçacıklarıyla kremsi dokuyu gösteren aşırı makro çekim
+8. Kızarmış ekmek ve etrafa saçılmış kavrulmuş fıstıkların yanındaki final ana kavanoz çekimi
+
+HER PANEL:
+• Sahne numarası
+• Süre rozeti
+• Kamera yönü
+• Görsel
+• Aksiyon
+• Ürün detayı
+
+KAMERA:
+Aşırı makro, ağır çekim sürme, tepe açısı kompozisyon, kremsi doku yakın planı, kontrollü malzeme düşüşü, pürüzsüz ürün yakınlaştırma (push-in).
+
+STİL:
+Ultra gerçekçi gıda fotoğrafçılığı, zengin kremsi doku, gerçekçi kıvam, kavrulmuş fıstık detayları, sıcak doğal aydınlatma, premium cam ambalaj, sofistike kahvaltı reklamı, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788426360165_e2mvlq_HRNN_7uakAAOsdV.jpg" width="600" alt="Gurme Fıstık Ezmesi Reklamı Storyboard'u">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2095104027667177825)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2095104027667177825) | **Yayınlandı:** Sep 2, 2026
+
+---
+### Ghibli Esintili Minyatür Kiraz Atölyesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Küçük karakterlerin dev bir kırmızı kirazı hasat edip reçele dönüştürdüğü, Ghibli tarzı animasyon için büyüleyici ve sinematik bir istem.
+
+#### 📝 İstem
+
+```
+Küçük ve neşeli karakterlerin devasa, parlak kırmızı bir kirazı hasat etmek, kesmek, ezmek ve işleyerek taze kiraz suyuna ve reçele dönüştürmek için birlikte çalıştığı, Ghibli esintili, büyüleyici ve sinematik bir minyatür atölye sahnesi oluşturun. Kirazın ahşap bir masanın üzerine düşüşünü, işçilerin günlük nesnelerden iskeleler ve köprüler kuruşunu, meyveyi dev aletlerle dilimleyişini, akan meyve suyunu toplayışını, kiraz parçalarıyla dolu arabaları çekişini ve atölye hareketlendikçe sevinçle bağırışlarını gösterin. Sahneyi, canlı kırmızı kiraz reçeliyle dolu büyük bir metal kutunun etrafında kutlama yapan minik işçilerin geniş ve büyülü bir görüntüsüyle; sıcak aydınlatma, detaylı dokular, eğlenceli bir ekip çalışması ve büyüleyici el yapımı animasyon tarzıyla sonlandırın.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095084187367907328/img/qYAwALF9EVgltrYP.jpg" width="600" alt="Ghibli Esintili Minyatür Kiraz Atölyesi">
+
+**[🎬 Videoyu izle →](https://x.com/noorwithwifi/status/2095084419296182741)**
+
+**Yazar:** [NoorAI](https://x.com/noorwithwifi) | **Kaynak:** [Link](https://x.com/noorwithwifi/status/2095084419296182741) | **Yayınlandı:** Sep 2, 2026
+
+---
+### ASMR Jöle Yaratık Büyüme Videosu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Jöle benzeri bir maddenin sevimli bir yaratığa dönüşmesini konu alan, detaylı animasyon aşamaları ve ses tasarımı içeren yüksek kaliteli ASMR videoları oluşturmaya yönelik kapsamlı bir komut.
+
+#### 📝 İstem
+
+```
+9:16 formatında, 30fps, ultra gerçekçi makro stüdyo çekimi ile üst düzey sevimli CG yumuşak gövde render'ının birleştiği, 10 saniyelik eksiksiz ve bağımsız bir dikey ASMR videosu oluşturun. Sabit yakın çekim, hafif yüksek açılı üç çeyrek görünüm, çekim boyunca hareket yok. Koyu kömür mavisi mat masa üstü, aynı renkte bulanık arka plan, sığ alan derinliği. Sol üstten gelen güçlü stüdyo ana ışığı, net gölgeler, parlak dikdörtgen yansımalar ve sıcak temas yansımaları oluşturur. Zarif, uzun oval tırnaklara sahip bir el, çerçevenin üst kısmından [tüp rengi] yumuşak bir sıkma tüpünü tutar ve dişli bir ağızlığı ortaya çıkarır. El, yavaşça kalın, yüksek viskoziteli, parlak [malzeme rengi] bir jöle jelini sıkar. Jel, ağızlığa sürekli bağlı kalmalı ve kademeli olarak tam bir [yaratık] haline gelmelidir. Sadece bir hayvan oluşturun. Vücut yapısı gerçek büyüme sırasına göre sürekli olarak oluşmalı ve aniden ortaya çıkmamalıdır: 0.0–1.0 sn: Ağızlık çerçeveye girer, ağızlığın altında az miktarda jel toplanır. 1.0–3.5 sn: Jel aşağı doğru uzanarak hayvanın başını ve ana gövdesini oluşturur. 3.5–6.0 sn: Uzuvlar, kulaklar, kanatlar, yüzgeçler veya diğer tür özellikleri sırayla büyür, yüzey rengi ve dokusu giderek netleşir. 6.0–7.0 sn: Hayvan formu tamamen tamamlanır, ağızlığa bağlanan jel giderek incelen elastik bir filamente dönüşür. 7.0–7.5 sn: Filament doğal bir şekilde kopar, el ve hortum çerçeveden yukarı doğru çıkar. 7.5–8.5 sn: Hayvan masa üstüne iner, hafif bir ezilme, geri tepme ve jöle titremesi yaşar. 8.5–9.6 sn: Hayvan, türe özgü küçük bir hareket gerçekleştirir: [imza hareket]. 9.6–10.0 sn: Hayvan çerçevenin merkezinde sabitlenir, bir sonraki segmente keskin bir geçiş yapmaya uygun, eksiksiz, sevimli, net ve kahramanca bir final duruşu sergiler. Hayvan anatomisini tutarlı, malzemeyi sabit ve sayıyı her zaman bir tutun. Vurgular ve gölgeler, form değiştikçe doğal bir şekilde hareket etmelidir. Tüm deformasyon, çözünme, parlama veya gizleme yoluyla yer değiştirme kullanılmadan, sürekli bir fiziksel büyüme sürecidir. Yakın mikrofon ASMR ses tasarımı: yavaş ve kalın jel sıkma sesi, hafif yapışkan esneme sesi, hassas bir elastik filament kopma sesi, yumuşak gövde iniş sesi, nazik jöle titremesi ve küçük yüzey temas sesleri. Temiz ve samimi stereo ses, diyalog yok, anlatım yok, yüksek sesli müzik yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095070639887638528/img/BeW3NqKCNP7G-YSm.jpg" width="600" alt="ASMR Jöle Yaratık Büyüme Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/GeekCatX/status/2095072409141629082)**
+
+**Yazar:** [知识猫AI实验室](https://x.com/GeekCatX) | **Kaynak:** [Link](https://x.com/GeekCatX/status/2095072409141629082) | **Yayınlandı:** Sep 2, 2026
+
+---
+### Hakka Usulü Kuru Etli Yemek (Hakka Braised Pork) Video Prodüksiyon İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Hakka Usulü Kuru Etli Yemek için malzeme hazırlığı ve ilk soteleme aşamalarını kapsayan, sinematik detaylara sahip eksiksiz bir mutfak videosu istemi dizisi.
+
+#### 📝 İstem
+
+```
+Tekdüze Tutarlılık Kilitleri: Domuz Eti Kilidi: Her zaman aynı taze, derili domuz göbeği partisini kullanın. Küpler yaklaşık 2,5-3 cm kalınlığında kısa kareler olmalıdır. Her parça deri, yağ ve yağsız et katmanlarını net bir şekilde göstermelidir. Tavuk, kaburga, domuz ayağı, tamamen yağsız et veya ince dilimlere dönüşmemelidir. Mühürleme ve ağır ateşte pişirme sonrası sadece doğal çekme payına izin verilir; boyut veya şekilde ani değişimler olmamalıdır. Piştiğinde yumuşak ve jelatinimsi olmalı ancak bütünlüğünü korumalıdır. Hakka Kuru Sebze Kilidi: Sebzeler soluk altın, hardal sarısı ve hafif zeytin sarısı rengindedir. Kısa kalın sapları, geniş yaprakları ve gerçekçi turşu liflerini koruyun. Siyah kuru erik sebzesi, ekşi fasulye, kıyılmış hardal otu veya taze yeşil sebzelere dönüşmemelidir. Kulak Mantarı Kilidi: Sadece az miktarda koyu kahverengi ıslatılmış kulak mantarı ekleyin. İkincil bir malzemedir ve eti veya sebzeleri gölgede bırakmamalıdır. Shiitake mantarı, kelp veya deniz yosununa dönüşmemelidir. Pişirme Gereçleri Kilidi: İlk üç segmentte her zaman aynı, iki metal kulplu siyah yuvarlak Çin wok tavasını kullanın. Aynı koyu kahverengi geniş ahşap spatulayı kullanın. Ağır ateşte pişirme için aynı şeffaf cam kapağı kullanın. Sadece dördüncü segmentte referans görseldeki siyah toprak güvece servis yapın. Ortam Kilidi: Aynı sıcak ve temiz Çin mutfağı. Aynı şefin elleri; eller doğal ve temizdir, yüzler görünmez. Kamera açıları ağırlıklı olarak yukarıdan aşağıya ve 45 derecelik yakın çekimlerdir. Final çekimi 3/4 düşük açılı makro çekimdir. Genelinde altyazı, metin, paketleme, marka veya filigran yoktur. Segment 1: Malzeme hazırlığını gösteren, 10 saniyelik, dikey 9:16 formatında, üst düzey gerçekçi bir Hakka yemek reklamı oluşturun. Yüklenen videodaki domuz göbeği ve sebze şekilleri ile kesim hareketlerini referans alarak sinematik bir dikey çerçeveye yeniden düzenleyin. 0-2 sn: Koyu kırmızımsı kahverengi masif ahşap kesme tahtası üzerinde bütün taze domuz göbeği şeridinin makro çekimi. Açık renkli deri, kremsi yağ ve pembe yağsız katmanları net bir şekilde sunun. Yavaşça yakınlaşın, et nemli ve taze görünmeli, gri veya plastik gibi durmamalıdır. 2-5 sn: Şef, domuz etini 2,5-3 cm'lik kareler halinde kesmek için bir Çin satırı kullanır. Deriyi keserken gerçekçi bir direnç göstermelidir. 5-7 sn: Hakka kuru sebzelerinin paslanmaz çelik bir kapta yıkanıp sıkıldığını gösterin. Renkler doğal kırışıklıklarıyla soluk altın/hardal sarısıdır. 7-9 sn: Sebzeleri kısa kalın şeritler ve düzensiz parçalar halinde kesin. 9-10 sn: Hazırlık aşamasının yukarıdan aşağıya çekimi. Sol: paslanmaz çelik domuz eti kasesi; Sağ: altın sarısı sebzeler; Arka: kulak mantarı; Alt: siyah wok tava. Sıcak doğal yan aydınlatma, makro lens, sığ alan derinliği kullanın. Negatif İstemler: Pişmiş et, derisiz domuz eti, tamamen yağsız et, kaburga, domuz ayağı, tavuk, sığır eti, kıyma veya ince dilimler yok. Siyah kuru erik sebzesi, ekşi fasulye, taze yeşillikler, tofu, taro, patates, kırmızı biber yok. Deforme olmuş bıçaklar, fazladan parmaklar, havada uçuşan malzemeler, metin, logo veya filigran yok. Segment 2: Aynı ortamın devamında, 10 saniyelik, dikey 9:16 formatında, üst düzey gerçekçi bir yemek pişirme reklamı oluşturun. 0-1 sn: Önceki son kareden başlayın, şef çiğ domuz etini önceden ısıtılmış siyah wok tavaya döker. Su eklenmez, haşlama yapılmaz. 1-4 sn: Ahşap spatula ile soteleyin. Domuz eti pembeden, doğal altın sarısı yanık kenarları ve erimiş yağıyla soluk kreme döner. Katmanlar net kalır. 4-5,2 sn: Mühürlenmiş eti paslanmaz çelik bir kaseye alın. Wok tavada sadece ince bir tabaka domuz yağı bırakın. 5,2-7 sn: Kuru sebzeleri dökün. Nem gidene ve saplar hafifçe parlayana kadar soteleyin, altın sarısı rengi koruyun. Çıkarın ve kenara alın. 7-8,2 sn: Zencefil, sarımsak ve arpacık soğanını domuz yağında soteleyin. 8,2-10 sn: Fermente fasulye lor sosu, soya fasulyesi ezmesi ve douchi ekleyin. Tekdüze kestane rengi kırmızımsı kahverengi bir baz oluşturacak şekilde soteleyin. Yanında mühürlenmiş et ve sebzelerle birlikte kokulu sos bazı üzerinde dondurun. Negatif İstemler: Haşlama, derin yağda kızartma, aşırı yağ sıçraması, wok etrafında alevler, yoğun duman veya yanmış et yok. Et tamamen pişmemeli veya derisini kaybetmemelidir. Sebzelerin erken eklenmesi, kırmızı maya tozu, yıldız anason, tarçın veya biber yok. Segment 3: 10 saniyelik, dikey 9:16 formatında, üst düzey gerçekçi bir Hakka yemek pişirme reklamı oluşturun. 0-2 sn: Domuz etini kulak mantarlarıyla birlikte sos bazına geri ekleyin. Her parça kırmızımsı kahverengi sosla ince bir şekilde kaplanana kadar soteleyin. Etin şekli değişmemelidir. 2-3,3 sn: İç duvardan Shaoxing şarabı dökün. Kısa doğal buhar, alev yok. 3,3-5 sn: Etin 2/3'ünü ila 4/5'ini kaplayana kadar sıcak su ekleyin. Sosu et suyunda çözmek için bir kez karıştırın. 5-6,5 sn: Sıvı, küçük kabarcıklarla sabit bir kaynama noktasına ulaşır. Şiddetli kaynama veya taşma yok. 6,5-7,5 sn: Uyumlu şeffaf cam kapakla kapatın. Camın iç tarafında doğal yoğuşma oluşur. 7,5-10 sn: 40 dakikalık pişirme süresini göstermek için pürüzsüz zaman sıkıştırması kullanın. Pişirme gereçleri ve ocak sabit kalır. Et buharın içinden hafifçe görünür. Negatif İstemler: Sebze eklemeyin, pişirme gereçlerini değiştirmeyin, düdüklü tencere kullanmayın. Şiddetli kaynama, gri su veya yoğun yüzen yağ yok. Domuz eti kaybolmamalı, parçalanmamalı veya tavuğa dönüşmemelidir. Segment 4: 10 saniyelik, dikey 9:16 formatında, üst düzey gerçekçi bir Hakka yemek reklamı oluşturun. Süreklilik için Segment 3'ün son karesini ve nihai siyah toprak güveç, servis, renk ve ana çekim için referans fotoğrafı kullanın. Referanstaki kenarlıkları, metni veya grafikleri kopyalamayın. 0-1,2 sn: Şef cam kapağı kaldırır. Buhar yükselip dağılır, kestane rengi bütün haldeki domuz etini ortaya çıkarır. 1,2-2,8 sn: Sote sebzeleri dökün. 2,8-4,5 sn: Sosu çektirmek için soteleyin. Sos, et ve sebzeleri kaplayan kırmızı-turuncu bir glazeye dönüşür. 4,5-5,8 sn: Kalın kenarlı mat kömür siyahı yuvarlak toprak güvece aktarın. 5,8-6,8 sn: Sebzeleri alta yerleştirin, ardından 12-16 domuz eti küpünü merkeze yığın. Ön merkezde bir adet parlak, net parça olsun. 6,8-7,3 sn: Yoğun kırmızı-turuncu sos gezdirin ve 10-15 adet yeşil taze soğan serpin. 7,3-10 sn: 3/4 düşük açılı ana çekime geçiş yapın. Toprak güveç çerçevenin alt 2/3'ünü kaplar. Sos, kestane rengi gölgelerle yüksek doygunlukta kırmızı-turuncu/karamel/altın kırmızısıdır. Sol üstten sıcak ana ışık, arka plan koyu gri ve hafif bulanıktır. Minimal yakınlaşma, yemek son 3 saniyede sabit kalır. Domuz eti deri, yağ ve lif yapısıyla gerçekçi görünmelidir. Negatif İstemler: Kenarlıklar, kırmızı etiketler, Çince karakterler veya filigran yok. Beyaz tabaklar, paslanmaz çelik veya açık renkli tencereler yok. Tavuk, kaburga, et dilimleri veya kıyma yok. Siyah erik sebzesi, ekşi fasulye, yeşillikler, tofu, taro, patates, biber, kişniş veya susam yok. Siyah veya mor sos, sulu çorba veya şurup benzeri iplikler yok. Son 3 saniyede etin dürtülmesi veya hareket ettirilmesi yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094974143213051904/img/iDFO8PNXfCcmDA-T.jpg" width="600" alt="Hakka Usulü Kuru Etli Yemek (Hakka Braised Pork) Video Prodüksiyon İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/7998l201/status/2094975000763584583)**
+
+**Yazar:** [Ryan](https://x.com/7998l201) | **Kaynak:** [Link](https://x.com/7998l201/status/2094975000763584583) | **Yayınlandı:** Sep 2, 2026
+
+---
+### Hindistan Cevizi Suyu Reklamı Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sinematik sahneleri, kamera hareketlerini ve ürün stilini detaylandıran, premium bir hindistan cevizi suyu reklamı için kapsamlı bir storyboard istemi.
+
+#### 📝 İstem
+
+```
+BAŞLIK: Premium Hindistan Cevizi Suyu Ürün Reklamı Storyboard'u
+
+FORMAT:
+• Tek sayfalık premium storyboard
+• 3:4 Dikey oran
+• Premium doğal içecek kampanyası
+• Ürün odaklı 8 sinematik sahne
+• Ürün ana kahraman olarak kalır
+• Üst düzey reklam ajansı sunumu
+
+ÜST BİLGİ:
+• Temiz ve modern tipografi
+• Bilgi kartları:
+  - Süre: 20 Saniye
+  - Stil: Taze Doğal İçecek Reklamı
+  - Ürün: Hindistan Cevizi Suyu
+  - Ses: Tropikal Su + Ferahlatıcı ASMR
+• Bu Stil Neden İşe Yarar bölümü
+• Beyaz, hindistan cevizi yeşili ve doğal bej estetiği
+• Minimal tropikal dekoratif vurgular
+
+STORYBOARD:
+1. Islak doğal taş üzerinde duran, yoğuşma damlalarıyla kaplı soğuk hindistan cevizi suyu şişesi
+2. Şişe kapağının açılışı ve mührün net yakın çekimi
+3. Şeffaf bir bardağa dökülen hindistan cevizi suyu
+4. Bardağın içinde küçük kabarcıklarla dönen berrak sıvı
+5. Şişenin yanına ağır çekimde düşen taze hindistan cevizi parçaları
+6. İçeceğin içine düşen ve kontrollü bir sıçrama yaratan buz küpleri
+7. Şişeden aşağı süzülen yoğuşma damlalarının aşırı makro çekimi
+8. Taze hindistan cevizi parçaları ve donmuş su sıçramasıyla çevrili nihai kahraman şişe ve bardak
+
+HER PANEL:
+• Sahne numarası
+• Süre rozeti
+• Kamera yönü
+• Görsel
+• Aksiyon
+• Ürün detayı
+
+KAMERA:
+Yüksek hızlı sıvı fotoğrafçılığı, aşırı makro, yoğuşma yakın çekimi, ağır çekim buz düşüşü, şeffaf sıvı girdabı, düşük açılı ürün çekimi, sinematik kahraman kadrajı.
+
+STİL:
+Ultra gerçekçi içecek reklamcılığı, kristal berraklığında sıvı, gerçekçi yoğuşma, detaylı hindistan cevizi dokusu, dinamik su sıçraması, doğal premium aydınlatma, temiz ambalaj, lüks ticari fotoğrafçılık, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788426362099_jpy8ok_HRIV2OMWEAAdkxS.jpg" width="600" alt="Hindistan Cevizi Suyu Reklamı Storyboard'u">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2094760813794111843)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2094760813794111843) | **Yayınlandı:** Sep 1, 2026
+
+---
 ### Buharda Nehir Balığı Video Reklam İstemi
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2422,158 +2732,6 @@ kapanış için sabitlenmiş, yukarıdan aşağıya doğru bir ana ürün çekim
 **Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Yayınlandı:** Jul 26, 2026
 
 ---
-### Yüksek Enerjili Fitness Gazozu Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Fitness gazozu reklamı için AIDA çerçevesi kullanılarak hazırlanan; makro ürün çekimleri ve elektrik mavisi görsel efektlerle desteklenmiş, antrenman sonrası toparlanma sahnesini betimleyen yüksek kaliteli bir video istemi.
-
-#### 📝 İstem
-
-```
-Siyah tenli kadın, 20'li yaşların sonu, kıvırcık yüksek topuz, antrasit atlet, siyah tayt, havlu, akıllı saat — spor salonu bankında antrenman sonrası oturuyor (Dikkat). Üzerinde yoğuşma damlaları olan kutuyu açıyor, gazın çıkışı görünür (İlgi). İçiyor; gözlerini kapatıyor, omuzları gevşiyor, rahatlamayla birlikte üzerine elektrik mavisi bir ışık yayılıyor (Arzu/zirve). Kameraya gülümsüyor, ardından lacivert/gümüş renkli "Mayor's Soda" kutusuna odaklanan kahraman çekimi + makro güzellik geçişi, taç ikonu, logo yerleşimi, "Mayor's Soda. Zaferi tazele" sloganı ve dış ses (Eylem). Her karede aynı karakter/kutu tasarımı, kayma yok. Net 5200-5800K spor salonu ışığı, soğuk yansımalar, rahatlama anında mavi parlama. Kamera: yakınlaştırma → yörünge → makro. Ses: synth pad, açılma/gaz sesi, sıcak yükseliş, kapanışta dış ses. Octane kalitesinde render, yüzey altı saçılma, 8K dokular.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="Yüksek Enerjili Fitness Gazozu Reklamı">
-
-**[🎬 Videoyu izle →](https://x.com/iam_damayor/status/2081379499262746808)**
-
-**Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **Yayınlandı:** Jul 26, 2026
-
----
-### Slapstick Kedi ve Fare Animasyonu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Klasik Amerikan sessiz komedisinden esinlenen, karmaşık fizik ve karakter etkileşimleri içeren 3D animasyonlu bir kovalamaca sahnesi için oldukça detaylı sinematik bir komut.
-
-#### 📝 İstem
-
-```
-10 saniyelik, yüksek kaliteli, yatay formatta 3D çizgi film tarzı kedi ve fare kovalamaca animasyonu oluşturun. Genel tarz, abartılı hareketler, sıkı bir ritim ve zengin ifadelerle orijinal klasik Amerikan sessiz komedisidir; ancak mevcut hiçbir animasyon karakterini taklit etmemelidir. Tombul, yuvarlak hatlı ve sabırsız bir turuncu kedi, zeki ve çevik gri-kahverengi bir fareyi kovalar. Animasyonun tamamında sürekli tek kameralı yan takip çekimleri kullanılır ve karakterler her zaman soldan sağa doğru hareket eder. Tüm hareketler; atlama kesmeleri, ışınlanma veya ani duraksamalar olmadan, doğal bir şekilde bağlanmak için hız, eylemsizlik ve çarpışmalara dayanır. Sıcak ve aydınlık retro bir mutfakta, peynir taşıyan küçük fare hızla masa ayaklarının arasından geçer, dönen bir tencere kapağının üzerine atlar ve onu kaykay gibi kullanarak ileri doğru süzülür. Tencere kapağı eğimli bir silindire çarpar ve küçük fare, kazandığı ivmeyi kullanarak yemek masasının üzerine zıplar. Turuncu kedi aynı yolu izler, silindire basar, bacakları hızla sendeler, vücudu bir o yana bir bu yana sallanır ve sonunda ivmesini kullanarak yemek masasına atlar. Yere indikten sonra bir un çuvalına çarparak etrafa beyaz bir toz bulutu saçar. Turuncu kedi, un bulutunun içinden, kızgın gözleri dışında tamamen bembeyaz olmuş bir şekilde çıkar. Küçük fare içi boş bir baget ekmeğin içinden hızla geçer ve diğer ucundan kayarak çıkar. Turuncu kedi onu yakından takip eder ancak kısa bir süreliğine sıkışır. Baget esner ve ardından eski haline dönerek kediyi ileri doğru fırlatır ve fareyle arasındaki mesafeyi tekrar kapatır. Her iki karakter de aynı anda yemek masasından atlar. Küçük fare bir robot süpürgenin üzerine iner, dönüşünü yön değiştirmek için kullanır, ardından asılı bir havluyu yakalayıp lavabonun üzerinden sallanır. Turuncu kedi aynı robotun üzerine iner, pürüzsüz bir şekilde yarım tur döner, ardından ivmesini kullanarak avizeyi yakalar ve ileri doğru sallanır; patileri neredeyse farenin kuyruğuna değmektedir. Küçük fare buzdolabının önünde yere iner ve yana doğru kayar. Turuncu kedi yüksek hızla üzerine atılır, uzuvlarıyla defalarca sert fren yapar ancak eylemsizlik nedeniyle buzdolabının kapısını kırmayı başarır. Bir kremalı pasta aşağı kayarak kedinin yüzünü tamamen kaplar. Küçük fare, kedinin kuyruğu boyunca arkasından koşar, kedinin burnunun üzerine zıplar, kremanın üzerindeki kirazı kapar ve zaferle sallar. Turuncu kedi burnunu iki kez seğirtir ve ardından aniden yüksek sesle hapşırır.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080925522910236672/img/Qq7W2rnPrk1LYpTJ.jpg" width="600" alt="Slapstick Kedi ve Fare Animasyonu">
-
-**[🎬 Videoyu izle →](https://x.com/Cencencahya12/status/2080925688811720835)**
-
-**Yazar:** [Cencen](https://x.com/Cencencahya12) | **Kaynak:** [Link](https://x.com/Cencencahya12/status/2080925688811720835) | **Yayınlandı:** Jul 25, 2026
-
----
-### Gül Düzenleyen Çiçekçi Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Doğal güneş ışığı altında bir vazoya güller yerleştiren bir çiçekçinin gerçekçi videosunu oluşturmak için oldukça açıklayıcı bir komut.
-
-#### 📝 İstem
-
-```
-Siyahi bir kadın çiçekçi, koyu renkli ahşap bir masa üzerindeki beyaz seramik vazoya taze kırmızı gülleri dikkatlice budayıp yerleştiriyor. Eller, dengeli bir buket oluşturmak için sapları ve yaprakları düzeltiyor; tamamlanan çiçek aranjmanı, yemyeşil bir bahçeye bakan pencerelerin yakınında, sıcak güneş ışığı altında güzel bir şekilde sergileniyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080919216220200961/img/sdh1PmxEUtazD262.jpg" width="600" alt="Gül Düzenleyen Çiçekçi Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/iam_damayor/status/2080919280535609480)**
-
-**Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2080919280535609480) | **Yayınlandı:** Jul 25, 2026
-
----
-### Suluboya ve Dijital İkili Gerçeklik
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için gün doğumunda huzurlu bir suluboya göl manzarası ile gün batımında fütüristik bir dijital şehir manzarasını karşılaştıran yaratıcı bir bölünmüş ekran video istemi.
-
-#### 📝 İstem
-
-```
-Üst yarıda gün doğumunda huzurlu bir gölü gösteren suluboya tarzı, alt yarıda gün batımında fütüristik bir şehir manzarasını gösteren dijital sanat tarzı, bölünmüş ekran.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080625015096254464/img/-o_9Bp8yhlGBMl0B.jpg" width="600" alt="Suluboya ve Dijital İkili Gerçeklik">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2080625058268258343)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2080625058268258343) | **Yayınlandı:** Jul 24, 2026
-
----
-### ASMR LEGO Technic Storyboard
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> LEGO Lamborghini montajının hiper gerçekçi ASMR videosunu oluşturmak için kamera yönlendirmeleri ve ses efektlerini içeren kapsamlı, çok sahneli bir storyboard istemi.
-
-#### 📝 İstem
-
-```
-LEGO Technic Lamborghini Aventador montajını gösteren 10 saniyelik bir ASMR videosu için profesyonel bir film prodüksiyon storyboard'u oluşturun.\n\nDüzen, iki sütun halinde sıralanmış 8 ardışık panelden oluşan gerçek bir film storyboard'u gibi görünmelidir.\n\nHer panel şunları içermelidir: • Büyük sinematik önizleme görseli • Sahne numarası • Zaman kodu • Kamera yönü • Görsel açıklama • Eylem • Diyalog / Dış ses • Ses Efektleri (SFX) • Müzik • Kamera hareketi • Duygu • Geçiş\n\nBeyaz tipografi, temiz kenarlıklar, prodüksiyon notları, zamanlama etiketleri ve sinematik planlama stili ile birinci sınıf siyah teknik storyboard tasarımı kullanın.\n\nBaşlık: STORYBOARD ASMR LEGO LAMBORGHINI AVENTADOR MONTAJI Süre: 10 Saniye Oran: 9:16 Dikey Stil: Hiper Gerçekçi Sinematik ASMR\n\nSahne 1 (0.00 - 1.20) Siyah bir çalışma matı üzerinde düzenli bir şekilde organize edilmiş LEGO Technic parçalarının yukarıdan makro çekimi. Eller şasiyi alır. Yumuşak plastik tıklama sesleri. Yavaş yukarıdan dolly hareketi.\n\nSahne 2 (1.20 - 2.40) Ön süspansiyon aksını birleştiren ellerin aşırı makro yakın çekimi. Parmaklardan konektöre odak kaydırma (focus rack). Yüksek ve tatmin edici bir tıklama sesi.\n\nSahne 3 (2.40 - 3.60) Lamborghini şekli oluşmaya başlarken mavi gövde panelleri takılır. Pürüzsüz bir yörünge kamerası ile makro üç çeyrek açı.\n\nSahne 4 (3.60 - 4.80) Ön cam, altındaki kokpit görünecek şekilde takılır. Kamera ön camdan içeriye doğru ilerler. Net plastik çıt sesi.\n\nSahne 5 (4.80 - 6.00) Ön tekerlek takılır. Tekerleğin döndüğü makro çekim. Kısa takip çekimi, hafif mekanik seslerle dönüşü izler.\n\nSahne 6 (6.00 - 7.20) Arka gövde panelleri, difüzör ve arka lambalar takılır. Son parçalar yerine otururken yavaşça içeri doğru itme (push in).\n\nSahne 7 (7.20 - 8.50) Tamamlanmış Lamborghini masanın üzerinde nazikçe yuvarlanır. Düşük açılı takip çekimi, premium bir sunum yaratır.\n\nSahne 8 (8.50 - 10.00) Dramatik mavi stüdyo ışığı altında parlak siyah bir yüzey üzerinde tamamlanmış mavi LEGO Lamborghini Aventador'un kahraman (hero) güzellik çekimi. Yavaş sinematik yörünge hareketi, kararmadan önce ön üç çeyrek açıda sona erer.\n\nAlt kısma şu profesyonel prodüksiyon notlarını ekleyin: • Karakter tutarlılığı • Dekorlar • Aydınlatma • Kamera stili • Ton • Görsel stil\n\nStoryboard'un ultra gerçekçi önizleme kareleri, sinematik fotoğrafçılık, teknik açıklamalar, premium tipografi ve üst düzey film ön görselleştirme kalitesiyle gerçek bir Hollywood prodüksiyon planlama sayfası gibi görünmesini sağlayın.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784970669504_y82rm8_HN9sdvtbEAEtMhQ.jpg" width="600" alt="ASMR LEGO Technic Storyboard">
-
-**[🎬 Videoyu izle →](https://x.com/Shorelyn_/status/2080500909076107595)**
-
-**Yazar:** [Shore Lyn](https://x.com/Shorelyn_) | **Kaynak:** [Link](https://x.com/Shorelyn_/status/2080500909076107595) | **Yayınlandı:** Jul 24, 2026
-
----
-### Sürreal Doğum Günü Ateş Püskürtme Dönüşümü
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Bir kadının mum üflemek yerine devasa bir alev püskürttüğü, siyah-beyaz ağır çekim poster efektiyle sona eren, doğum günü sahnesi için oldukça detaylı bir görselden videoya dönüştürme komutu.
-
-#### 📝 İstem
-
-```
-Kimlik, yüz, saç modeli, vücut oranları, kıyafet ve aksesuarlar için referans olarak yalnızca yüklenen görseli kullanarak 10 saniyelik, 9:16 dikey gerçekçi bir doğum günü tersine çevirme kısa videosu oluşturun.
-[Stil ve Kamera Kuralları]
-Gerçekçi akıllı telefon dikey video dokusu, gece dış mekan parkı. Sadece bir sabit ana çekim, bir yüz yakın plan geçişi ve iki sert kesim. Yakınlaştırma veya kaydırma yok. 1-5 arası çekimler doğal hızda, 6. çekim ağır çekimde. Sonunda siyah-beyaz geçiş.
-[Sahne]
-Bank, çimenler ve ağaçların olduğu gece dış mekan parkı. Doğal gece derinliği.
-[Karakter]
-Yüklenen görseldeki kişiyle aynı. Dönüşüm: Kız mumu üflemeye hazırlanır ancak mum devasa bir turuncu alev püskürmesine dönüşür.
-[Temel Aksesuarlar]
-Sağ elinde yeşil bir şampanya şişesi, sol elinde yanan bir doğum günü pastası var. Şampanya solda, pasta sağda.
-[Çekimler 1-6]
-1. Giriş ve banka oturma.
-2. Şampanya şişesini çalkalama.
-3. Yüz yakın planına sert kesim, sırıtma ve derin nefes alma.
-4. Ana çekime dönüş, pastayı kaldırma ve şampanya şişesini yere vurma. Anlık senkronize şampanya püskürmesi (yukarı doğru) ve ağızdan ateş (yatay olarak sağa).
-5. Sürekli püskürme ve sahneyi aydınlatan ateş ile renkli doruk noktası.
-6. 'Happy Birthday' metin bindirmesi ile siyah-beyaz ağır çekime anlık geçiş.
-[Ses]
-Sürekli arka plan müziği. Nefes sesi, sallanma sesi, alevin yanma sesi ve yüksek basınçlı şampanya püskürme sesi.
-[Kısıtlamalar]
-Toplam 10 saniye. Karakter çoğalması veya aksesuar bozulması yok. Şampanya ve ateş birbirine karışmamalı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080255348896915456/img/ytFQLE_PKdA3JJ5L.jpg" width="600" alt="Sürreal Doğum Günü Ateş Püskürtme Dönüşümü">
-
-**[🎬 Videoyu izle →](https://x.com/Chengzilhy/status/2080257001268125733)**
-
-**Yazar:** [小宇Chengzi](https://x.com/Chengzilhy) | **Kaynak:** [Link](https://x.com/Chengzilhy/status/2080257001268125733) | **Yayınlandı:** Jul 23, 2026
-
----
-### Fizzi için Sinematik İçecek Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Makro ürün çekimleri, altın saat ışıklandırması ve havuz kenarı yaşam tarzı sahnelerini içeren, üst düzey bir yaz içeceği reklamı için oldukça detaylı bir istem.
-
-#### 📝 İstem
-
-```
-FIZZI Sparkling Tonic — Grapefruit için sinematik yaz içeceği reklamı; sıcak altın saat renk tonu, turkuaz havuz kontrastı ve mercan pembesi vurgularla üst düzey bir tarz. Yaşam tarzı geniş çekimler ile hiper detaylı makro ürün yakın planlarının, ağır çekim anların, eğlenceli ve kaygısız gençlik enerjisinin, hareketli tropikal pop müziğin ve kutu açılma sesi, gazoz köpürmesi, havuz sıçramaları ve kahkahalardan oluşan ses tasarımının harmanlandığı bir çalışma. Ürün, üzerinde yoğuşma damlaları bulunan uzun ve ince mercan pembesi bir alüminyum kutu; üst kısımda kalın, retro-yuvarlak hatlı, küçük harflerle yazılmış macenta renkli "fizzi" logosu, altında "sparkling tonic" yazısı, 4x4'lük pop-art ızgarasında pembe, mercan, canlı pembe ve soluk sarı renkli greyfurt illüstrasyonları, en altta ise "0% Alcohol" ve "GRAPEFRUIT" ibareleri yer alıyor. Şık bir çatı katı havuzunda, altın saat vaktinde, mercan pembesi mayolu genç bir kadın ayakları turkuaz suyun içinde havuz kenarında oturuyor, buz gibi bir FIZZI kutusunu dudaklarına götürüp keyifle gözlerini kapatıyor; arkasında arkadaşları sosyalleşiyor ve ışık zincirleri rüya gibi bir yumuşak odakla parlıyor, kutunun üzerindeki yoğuşma damlaları altın ışığı yakalıyor. Biraz daha geniş bir çekimde, soluk sarı mayolu bir arkadaşının yanında şeffaf bir deniz yatağında yüzerken, ikisi de gülerek mercan pembesi kutularını küçük bir su sıçramasıyla tokuşturuyor; çekim su seviyesinden, kadraj boyunca dans eden ışıltılı yansımalarla yapılıyor. Aşırı makro bir çekim, mercan pembesi kutunun yüzeyinde hiper detayla yavaşça geziniyor; yoğuşma damlaları prizmatik ışığı yakalıyor, parıldayan macenta renkli "fizzi" logosu kadrajı dolduruyor, ardından arkada parıldayan turkuaz bokeh efektiyle net pop-art greyfurt ızgarasına odaklanıyor. Bir başka rüya gibi ağır çekim makro, içinde yüzen parlak bir greyfurt dilimi olan bardaktaki soluk pembe gazlı içeceğin içinde hızla yükselen minik karbonasyon kabarcıklarını gösteriyor; kutu arkada hafifçe odak dışı kalırken ASMR tarzı köpürme sesi duyuluyor. Son olarak kamera, tüm partiyi gösteren geniş bir altın saat çekimine geri dönüyor; her iki kadın da kutularıyla yüzüyor, arkadaşları dans ediyor ve mercan rengi havlular üzerinde uzanıyor, greyfurt dilimleriyle dolu bir buz kovasından FIZZI alıyorlar. Kamera yavaşça yaklaşırken kutularını kameraya doğru kaldırıyorlar ve temiz beyaz bir metin ekrana geliyor: "Grab an ice cold fizzi," altında ise "© 2026 FIZZI Beverages Co." yazısı belirip bir süre kaldıktan sonra kararıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080249467647721473/img/W2AOX-wwqvfZtqbA.jpg" width="600" alt="Fizzi için Sinematik İçecek Reklamı">
-
-**[🎬 Videoyu izle →](https://x.com/Just_sharon7/status/2080250591675101490)**
-
-**Yazar:** [Sharon Riley](https://x.com/Just_sharon7) | **Kaynak:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Yayınlandı:** Jul 23, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -2626,6 +2784,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-03T08:33:32.342Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-03T15:49:04.024Z</sub>
 
 </div>

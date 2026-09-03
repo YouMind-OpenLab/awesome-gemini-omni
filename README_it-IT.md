@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **228** |
+| 📝 Totale prompt | **235** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-09-03** |
 
@@ -56,6 +56,316 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Storyboard per spot pubblicitario di spaghetti italiani premium
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt completo per lo storyboard di uno spot pubblicitario di prodotti alimentari italiani, che delinea riprese cinematografiche del prodotto, tra cui la pasta che bolle, l'avvolgimento sulla forchetta e i dettagli macro della consistenza.
+
+#### 📝 Prompt
+
+```
+TITOLO:
+Storyboard per spot pubblicitario di spaghetti italiani premium
+
+FORMATO:
+• Storyboard premium a pagina singola
+• Rapporto 3:4 verticale
+• Campagna per prodotti alimentari premium
+• 8 scene cinematografiche incentrate sul prodotto
+• Il prodotto rimane il protagonista visivo centrale
+• Presentazione pubblicitaria di lusso
+
+INTESTAZIONE:
+• Tipografia serif raffinata
+• Schede informative:
+  - Durata: 20 secondi
+  - Stile: Autentico spot pubblicitario di cucina italiana
+  - Prodotto: Spaghetti premium
+  - Audio: Cottura della pasta + ASMR cucina italiana
+• Sezione "Perché questo stile funziona"
+• Estetica color crema, oro grano e verde intenso
+• Elementi decorativi minimali di ispirazione italiana
+
+STORYBOARD:
+1. Confezione di spaghetti premium posizionata verticalmente accanto a fili di pasta cruda
+2. Apertura della confezione con lunghi spaghetti estratti
+3. Spaghetti che cadono in una pentola di acqua bollente
+4. Pasta che vortica sott'acqua con bolle e movimento realistico
+5. Spaghetti cotti sollevati dalla pentola con vapore che sale
+6. Lunghi fili avvolti elegantemente attorno a una forchetta
+7. Macro estrema che mostra la consistenza setosa della pasta ricoperta di sugo
+8. Ripresa finale del prodotto protagonista con la confezione di pasta accanto a un piatto di spaghetti impiattato magnificamente
+
+OGNI RIQUADRO:
+• Numero della scena
+• Badge della durata
+• Direzione della cinepresa
+• Visual
+• Azione
+• Dettaglio prodotto
+
+CINEPRESA:
+Composizione dall'alto, macro subacquea, primo piano del vapore, sollevamento della pasta al rallentatore, ripresa della rotazione della forchetta, dettaglio estremo della consistenza, packshot cinematografico.
+
+STILE:
+Pubblicità alimentare italiana ultra-realistica, consistenza autentica della pasta, vapore e acqua realistici, packaging dettagliato, illuminazione cinematografica calda, presentazione gourmet premium, ingredienti naturali, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788426358015_1tgujv_HRRlezKbQAAQ8BS.jpg" width="600" alt="Storyboard per spot pubblicitario di spaghetti italiani premium">
+
+**[🎬 Guarda il video →](https://x.com/Strength04_X/status/2095411329461100949)**
+
+**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2095411329461100949) | **Pubblicato:** Sep 3, 2026
+
+---
+### Prompt JSON Cinematico per Profumo di Lusso
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt tecnico strutturato in JSON per la creazione di uno spot pubblicitario di un profumo di lusso con dettagli macro del vetro, seta fluttuante e polvere d'oro in un'unica ripresa continua.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "singola ripresa continua senza interruzioni, nessun taglio di scena",
+    "composition": "inizia con un macro estremo su un alto flacone di profumo in cristallo sfaccettato, segue il movimento di seta e polvere d'oro che vorticano attorno ad esso, termina con un'inquadratura hero centrata e fluttuante",
+    "lens": "macro 100mm per i dettagli del vetro, poi 50mm per la presentazione del prodotto",
+    "frame_rate": "24fps cinematico",
+    "camera_movement": "lento push-in sul flacone, delicata deriva orbitale mentre petali e seta si sollevano, inquadratura fissa finale sull'hero shot"
+  },
+  "timeline": {
+    "0-2s": "Studio di lusso in penombra su marmo nero. Alto flacone di profumo in cristallo sfaccettato con liquido color ambra dorata. Luce calda di candela che scivola sugli spigoli vivi del vetro, riflessi ultra-realistici e caustiche.",
+    "2-4s": "Seta color champagne trasparente e polvere d'oro fine vorticano attorno al flacone al rallentatore. Si solleva una nebbia calda e soffusa. Le particelle catturano i fasci di luce.",
+    "4-6s": "Il liquido all'interno del flacone vortica delicatamente come se fosse vivo. Le particelle dorate si alzano. Il tappo dorato si solleva leggermente con un sottile bagliore di realismo magico.",
+    "6-8s": "Lo spruzzo del profumo esplode al rallentatore e si trasforma in nastri di seta fluenti, gelsomini notturni e petali di tuberosa che si dissolvono in vapore dorato.",
+    "8-10s": "Inquadratura hero finale. Flacone centrato su marmo nero, circondato da nebbia luminosa, pieghe di seta e petali sparsi. Riflettore caldo e luce di candela. Focus sul brand di lusso."
+  },
+  "subject": {
+    "description": "un alto flacone di profumo in cristallo sfaccettato con liquido ambra dorata, tessuto di seta, polvere d'oro e fiori notturni che si assemblano attorno ad esso",
+    "props": "flacone di cristallo, tappo dorato, seta color champagne, petali di gelsomino e tuberosa, nebbia calda"
+  },
+  "scene": {
+    "location": "studio elegante e scuro con marmo nero lucido",
+    "time_of_day": "notte senza tempo, luce calda di candela",
+    "environment": "set di lusso silenzioso, superficie riflettente, foschia soffusa, nessuna presenza umana"
+  },
+  "visual_details": {
+    "action": "la luce scivola sul vetro, seta e petali vorticano, il tappo si solleva, lo spruzzo diventa vapore e forme floreali, il flacone si assesta in una posa hero fluttuante",
+    "special_effects": "polvere d'oro al rallentatore, caustiche del liquido, metamorfosi della seta a mezz'aria, sottile luccichio di levitazione"
+  },
+  "cinematography": {
+    "lighting": "luce chiave calda di candela, fasci di riflettori drammatici, riflessi sul marmo lucido, luce di contorno dorata soffusa",
+    "color_palette": "nero profondo, oro champagne, ambra, petali color avorio",
+    "tone": "intimo, lusso heritage, sensualità silenziosa"
+  },
+  "audio": {
+    "music": "drone ambientale caldo e sottile con un leggero tintinnio di cristallo",
+    "ambient": "fruscio soffuso di seta, tremolio di candela, aria ferma dello studio",
+    "sound_effects": "delicato scoppio dello spruzzo, petali che si posano, silenziosa risonanza del vetro",
+    "mix": "intimo, raffinato, orientato al prodotto, senza voce"
+  },
+  "constraints": {
+    "dialogue": "nessuno",
+    "voiceover": "nessuno"
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095135814024089600/img/fC7nzZ1tr6CBZkao.jpg" width="600" alt="Prompt JSON Cinematico per Profumo di Lusso">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2095135918432632856)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2095135918432632856) | **Pubblicato:** Sep 2, 2026
+
+---
+### Storyboard per spot pubblicitario di burro d'arachidi gourmet
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per lo storyboard di uno spot pubblicitario di lusso per burro d'arachidi, che descrive riprese macro di texture vellutate, il passaggio del cucchiaio e ingredienti che cadono al rallentatore.
+
+#### 📝 Prompt
+
+```
+TITOLO:
+Storyboard per spot pubblicitario di burro d'arachidi premium
+
+FORMATO:
+• Storyboard premium a pagina singola
+• Rapporto verticale 3:4
+• Campagna per prodotto da colazione gourmet
+• 8 scene cinematografiche incentrate sul prodotto
+• Il prodotto rimane il protagonista assoluto
+• Presentazione pubblicitaria di lusso
+
+INTESTAZIONE:
+• Elegante tipografia serif
+• Schede informative:
+  - Durata: 20 secondi
+  - Stile: Spot pubblicitario food gourmet
+  - Prodotto: Burro d'arachidi cremoso
+  - Audio: Rumore del cucchiaio + ASMR soffuso
+• Sezione "Perché questo stile funziona"
+• Estetica nei toni del beige caldo, caramello e marrone
+• Elementi decorativi minimali ispirati alle arachidi
+
+STORYBOARD:
+1. Barattolo di burro d'arachidi posizionato su una superficie in pietra pregiata con arachidi intere attorno
+2. Apertura del coperchio del barattolo, che rivela un burro d'arachidi perfettamente liscio
+3. Il cucchiaio entra nel barattolo in una ripresa macro estrema
+4. Il burro d'arachidi denso si solleva lentamente dal cucchiaio in un lungo nastro cremoso
+5. Il burro d'arachidi viene spalmato uniformemente su una fetta di pane caldo tostato
+6. Arachidi tostate che cadono attorno al barattolo al rallentatore
+7. Macro estrema che mostra la consistenza cremosa con minuscole particelle di arachidi
+8. Barattolo protagonista finale accanto al toast e arachidi tostate sparse
+
+OGNI RIQUADRO:
+• Numero della scena
+• Badge della durata
+• Direzione della cinepresa
+• Elemento visivo
+• Azione
+• Dettaglio prodotto
+
+CINEPRESA:
+Macro estrema, spalmatura al rallentatore, composizione dall'alto, primo piano della consistenza cremosa, caduta controllata degli ingredienti, zoom fluido sul prodotto.
+
+STILE:
+Fotografia food ultra-realistica, ricca consistenza cremosa, viscosità realistica, dettagli delle arachidi tostate, illuminazione naturale calda, packaging in vetro premium, pubblicità sofisticata per la colazione, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788426360165_e2mvlq_HRNN_7uakAAOsdV.jpg" width="600" alt="Storyboard per spot pubblicitario di burro d'arachidi gourmet">
+
+**[🎬 Guarda il video →](https://x.com/Strength04_X/status/2095104027667177825)**
+
+**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2095104027667177825) | **Pubblicato:** Sep 2, 2026
+
+---
+### Laboratorio di ciliegie in miniatura ispirato allo stile Ghibli
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinematografico e stravagante per un'animazione in stile Ghibli che vede protagonisti minuscoli personaggi intenti a raccogliere e trasformare una ciliegia gigante in marmellata.
+
+#### 📝 Prompt
+
+```
+Crea un laboratorio in miniatura stravagante e cinematografico ispirato allo stile Ghibli, dove minuscoli personaggi allegri lavorano insieme per raccogliere, tagliare, schiacciare e trasformare una ciliegia rossa lucida gigante in succo di ciliegia fresco e marmellata. Mostra la ciliegia che cade su un tavolo di legno, gli operai che costruiscono impalcature e ponti con oggetti di uso quotidiano, affettano il frutto con strumenti sovradimensionati, raccolgono il succo che scorre, trainano carretti pieni di pezzi di ciliegia ed esultano mentre il laboratorio si anima di attività. Concludi con una panoramica magica dei minuscoli lavoratori che festeggiano attorno a una grande latta piena di vibrante marmellata di ciliegie rossa, con illuminazione calda, texture dettagliate, lavoro di squadra giocoso e un'affascinante animazione artigianale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095084187367907328/img/qYAwALF9EVgltrYP.jpg" width="600" alt="Laboratorio di ciliegie in miniatura ispirato allo stile Ghibli">
+
+**[🎬 Guarda il video →](https://x.com/noorwithwifi/status/2095084419296182741)**
+
+**Autore:** [NoorAI](https://x.com/noorwithwifi) | **Fonte:** [Link](https://x.com/noorwithwifi/status/2095084419296182741) | **Pubblicato:** Sep 2, 2026
+
+---
+### Video ASMR: Crescita di una creatura di gelatina
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt completo per generare video ASMR di alta qualità che mostrano una sostanza gelatinosa che si trasforma in una creatura adorabile, incluse le fasi dettagliate dell'animazione e il sound design.
+
+#### 📝 Prompt
+
+```
+Genera un video ASMR verticale completo e indipendente di 10 secondi, 9:16, 30fps, ripresa macro in studio ultra-realistica unita a un rendering CG di alta qualità per corpi morbidi e graziosi. Inquadratura fissa in primo piano, vista a tre quarti leggermente dall'alto, nessun movimento durante l'intera clip. Piano d'appoggio opaco blu carbone scuro, sfondo sfocato dello stesso colore, profondità di campo ridotta. Una forte luce principale da studio in alto a sinistra crea ombre nette, riflessi rettangolari luminosi e caldi riflessi di contatto. Una mano con unghie lunghe e ovali curate tiene un tubetto morbido di [colore tubetto] dalla parte superiore dell'inquadratura, rivelando un beccuccio filettato. La mano preme lentamente facendo uscire un gelatina densa, ad alta viscosità e lucida di colore [colore materiale]. Il gel deve rimanere continuamente collegato al beccuccio e crescere gradualmente fino a formare un [animale] completo. Genera un solo animale. La struttura corporea si forma in modo continuo seguendo la sequenza di crescita reale, senza apparire istantaneamente: 0.0–1.0s: Il beccuccio entra nell'inquadratura, una piccola quantità di gel si accumula sotto di esso. 1.0–3.5s: Il gel si estende verso il basso, formando la testa e il busto principale dell'animale. 3.5–6.0s: Arti, orecchie, ali, pinne, code o altre caratteristiche della specie crescono in sequenza, il colore e la consistenza della superficie diventano gradualmente chiari. 6.0–7.0s: La forma dell'animale è completamente definita, il gel che collega il beccuccio viene tirato in un filamento elastico sempre più sottile. 7.0–7.5s: Il filamento si spezza naturalmente, la mano e il tubetto escono dall'inquadratura verso l'alto. 7.5–8.5s: L'animale atterra sul piano d'appoggio, subendo un leggero schiacciamento, rimbalzando e oscillando come gelatina. 8.5–9.6s: L'animale esegue un piccolo movimento caratteristico della specie: [movimento distintivo]. 9.6–10.0s: L'animale si stabilizza al centro dell'inquadratura, mantenendo uno stato finale eroico, completo, adorabile e nitido, ideale per un taglio netto verso il segmento successivo. Mantieni l'anatomia dell'animale coerente, il materiale stabile e la quantità sempre pari a uno. Luci e ombre devono muoversi naturalmente con il cambiamento della forma. L'intera deformazione è un processo di crescita fisica continua, senza utilizzare dissolvenze, flash o sostituzioni per occlusione. Sound design ASMR con microfono ravvicinato: lento schiacciamento di gel denso, sottile stiramento appiccicoso, un delicato rilascio di filamento elastico, atterraggio morbido e attutito, leggero oscillare della gelatina e minuscoli suoni di contatto superficiale. Audio stereo pulito e intimo, senza dialoghi, senza narrazione, senza musica ad alto volume.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095070639887638528/img/BeW3NqKCNP7G-YSm.jpg" width="600" alt="Video ASMR: Crescita di una creatura di gelatina">
+
+**[🎬 Guarda il video →](https://x.com/GeekCatX/status/2095072409141629082)**
+
+**Autore:** [知识猫AI实验室](https://x.com/GeekCatX) | **Fonte:** [Link](https://x.com/GeekCatX/status/2095072409141629082) | **Pubblicato:** Sep 2, 2026
+
+---
+### Prompt per la produzione video del Maiale brasato in stile Hakka
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Sequenza incompleta di prompt per video culinari sul Maiale brasato in stile Hakka, che copre la preparazione degli ingredienti e le fasi iniziali di rosolatura con dettagli cinematografici.
+
+#### 📝 Prompt
+
+```
+Blocco coerenza uniforme: Blocco pancetta di maiale: utilizzare sempre lo stesso lotto di pancetta fresca con cotenna. I cubetti devono essere quadrati spessi circa 2,5-3 cm. Ogni pezzo deve mostrare chiaramente gli strati di cotenna, grasso e carne magra. Non deve trasformarsi in pollo, costine, piedini di maiale, carne puramente magra o fette sottili. È consentito solo il naturale restringimento dopo la rosolatura e la cottura a fuoco lento; nessun cambiamento improvviso di dimensioni o forma. Una volta cotto, deve risultare tenero e gelatinoso ma rimanere intatto. Blocco verdure conservate Hakka: le verdure sono di colore giallo oro pallido, giallo senape e leggermente giallo oliva. Mantenere gambi corti e spessi, foglie larghe e fibre di salamoia realistiche. Non devono trasformarsi in verdure essiccate nere (mei cai), fagioli acidi, senape tritata o verdure fresche. Blocco orecchie di legno (funghi mu err): aggiungere solo una piccola quantità di funghi mu err scuri ammollati. Sono un ingrediente secondario e non devono sovrastare la carne di maiale o le verdure. Non devono trasformarsi in funghi shiitake, kelp o alghe. Blocco pentole: i primi tre segmenti utilizzano sempre lo stesso wok cinese rotondo nero con due manici in metallo argentato. Utilizzare la stessa spatola in legno larga color marrone scuro. Utilizzare lo stesso coperchio in vetro trasparente per la cottura a fuoco lento. Impiattare solo nel tegame di terracotta nero dell'immagine di riferimento nel quarto segmento. Blocco ambiente: la stessa cucina cinese calda e pulita. Lo stesso paio di mani dello chef; le mani sono naturali e pulite, nessun volto mostrato. Le angolazioni della telecamera sono principalmente dall'alto e primi piani a 45 gradi. L'inquadratura finale utilizza una macro a 3/4 dal basso. Nessun sottotitolo, testo, packaging, branding o filigrana in tutto il video. Segmento 1: Genera uno spot commerciale di 10 secondi, verticale 9:16, realistico e di alta qualità sul cibo Hakka che mostri la preparazione degli ingredienti. Fai riferimento alle forme della pancetta e delle verdure e alle azioni di taglio dal video caricato, ricomponendo in un frame verticale cinematografico. 0-2s: Macro di un intero pezzo di pancetta fresca su un tagliere in legno massello color bruno-rossastro. Presentare chiaramente la cotenna chiara, il grasso cremoso e gli strati magri rosa. Zoom lento, la carne appare umida e fresca, non grigia o plastica. 2-5s: Lo chef usa una mannaia cinese per tagliare il maiale in cubetti di 2,5-3 cm. Il taglio della cotenna deve mostrare una resistenza realistica. 5-7s: Mostrare le verdure Hakka conservate mentre vengono lavate e strizzate in una bacinella di acciaio inossidabile. I colori sono giallo oro pallido/senape con rughe naturali. 7-9s: Tagliare le verdure in strisce corte e spesse e pezzi irregolari. 9-10s: Ripresa dall'alto della preparazione. Sinistra: ciotola in acciaio con maiale; Destra: verdure dorate; Dietro: funghi mu err; Sotto: wok nero. Usare un'illuminazione laterale naturale calda, obiettivo macro, profondità di campo ridotta. Prompt negativi: Niente carne cotta, maiale senza cotenna, carne puramente magra, costine, piedini di maiale, pollo, manzo, carne macinata o fette sottili. Niente verdure essiccate nere, fagioli acidi, verdure fresche, tofu, taro, patate, peperoncino rosso. Niente coltelli deformati, dita extra, ingredienti fluttuanti, testo, loghi o filigrane. Segmento 2: Genera uno spot di 10 secondi, verticale 9:16, realistico e di alta qualità che continui dallo stesso ambiente. 0-1s: Partire dall'ultimo frame precedente, lo chef versa il maiale crudo nel wok nero preriscaldato. Niente acqua aggiunta, niente sbollentatura. 1-4s: Saltare con la spatola di legno. Il maiale passa dal rosa al crema pallido con bordi dorati naturalmente bruciacchiati e strutto sciolto. Gli strati rimangono chiari. 4-5.2s: Rimuovere il maiale rosolato in una ciotola di acciaio. Mantenere solo un sottile strato di strutto nel wok. 5.2-7s: Versare le verdure conservate. Saltare finché l'umidità non scompare e i gambi sono leggermente lucidi, mantenendo il colore giallo oro. Rimuovere e mettere da parte. 7-8.2s: Saltare zenzero, aglio e scalogno nello strutto. 8.2-10s: Aggiungere salsa di tofu fermentato, pasta di soia e douchi. Saltare fino a ottenere una base uniforme color marrone rossastro castano. Fermare l'immagine sulla base di salsa profumata con il maiale rosolato e le verdure a lato. Prompt negativi: Niente sbollentatura, niente frittura profonda, niente schizzi d'olio eccessivi, fiamme che circondano il wok, fumo denso o carne bruciata. La carne non deve essere completamente cotta o perdere la cotenna. Niente aggiunta precoce di verdure, niente polvere di riso rosso, anice stellato, cannella o peperoncino. Segmento 3: Genera uno spot di 10 secondi, verticale 9:16, realistico e di alta qualità sulla cucina Hakka. 0-2s: Rimettere il maiale nella base di salsa con i funghi mu err. Saltare finché ogni pezzo non è leggermente ricoperto di salsa marrone rossastra. La forma della carne non deve cambiare. 2-3.3s: Versare il vino Shaoxing lungo la parete interna. Breve vapore naturale, niente fiamme. 3.3-5s: Aggiungere acqua calda fino a coprire 2/3 o 4/5 della carne. Mescolare una volta per sciogliere la salsa nel brodo. 5-6.5s: Il liquido raggiunge un sobbollire costante con piccole bolle. Niente bollore violento o traboccamento. 6.5-7.5s: Coprire con il coperchio in vetro trasparente abbinato. Il lato interno del vetro forma una condensa naturale. 7.5-10s: Usare una compressione temporale fluida per mostrare la cottura a fuoco lento per 40 minuti. Pentole e fornelli rimangono fermi. La carne è debolmente visibile attraverso il vapore. Prompt negativi: Non aggiungere verdure, non cambiare pentole, non usare una pentola a pressione. Niente bollore violento, acqua grigia o olio denso galleggiante. Il maiale non deve sparire, rompersi o trasformarsi in pollo. Segmento 4: Genera uno spot di 10 secondi, verticale 9:16, realistico e di alta qualità sul cibo Hakka. Usa l'ultimo frame del Segmento 3 per la continuità e la foto di riferimento per il tegame di terracotta nero finale, l'impiattamento, il colore e l'inquadratura principale. Non copiare bordi, testo o grafiche dal riferimento. 0-1.2s: Lo chef rimuove il coperchio di vetro. Il vapore sale e si disperde, rivelando il maiale intatto color marrone castano. 1.2-2.8s: Versare le verdure saltate. 2.8-4.5s: Saltare per ridurre la salsa. La salsa diventa una glassa rosso-arancio che ricopre carne e verdure. 4.5-5.8s: Trasferire in un tegame di terracotta rotondo nero opaco con un bordo spesso. 5.8-6.8s: Disporre le verdure sul fondo, poi impilare 12-16 cubetti di maiale al centro. Un pezzo chiaro e lucido al centro davanti. 6.8-7.3s: Versare a filo la salsa rosso-arancio concentrata e cospargere 10-15 cipollotti verdi. 7.3-10s: Transizione a un'inquadratura principale a 3/4 dal basso. Il tegame occupa i 2/3 inferiori del frame. La salsa è rosso-arancio/caramello/rosso dorato ad alta saturazione con ombre castane. Luce principale calda dall'alto a sinistra, lo sfondo è grigio scuro e leggermente sfocato. Zoom minimo, il cibo rimane stabile per gli ultimi 3 secondi. Il maiale deve sembrare realistico con cotenna, grasso e fibre. Prompt negativi: Niente bordi, etichette rosse, caratteri cinesi o filigrane. Niente piatti bianchi, acciaio inossidabile o pentole di colore chiaro. Niente pollo, costine, fette di carne o carne macinata. Niente verdure nere, fagioli acidi, verdure verdi, tofu, taro, patate, peperoncino, coriandolo o sesamo. Niente salsa nera o viola, zuppa acquosa o fili simili a sciroppo. Nessuna carne che viene punta o spostata negli ultimi 3 secondi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2094974143213051904/img/iDFO8PNXfCcmDA-T.jpg" width="600" alt="Prompt per la produzione video del Maiale brasato in stile Hakka">
+
+**[🎬 Guarda il video →](https://x.com/7998l201/status/2094975000763584583)**
+
+**Autore:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2094975000763584583) | **Pubblicato:** Sep 2, 2026
+
+---
+### Storyboard per spot pubblicitario di acqua di cocco
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt completo per lo storyboard di uno spot pubblicitario di acqua di cocco premium, che descrive scene cinematografiche, movimenti di camera e styling del prodotto.
+
+#### 📝 Prompt
+
+```
+TITOLO: Storyboard per spot pubblicitario di acqua di cocco premium
+
+FORMATO:
+• Storyboard premium a pagina singola
+• Rapporto d'aspetto verticale 3:4
+• Campagna per bevanda naturale premium
+• 8 scene cinematografiche incentrate sul prodotto
+• Il prodotto rimane l'eroe centrale
+• Presentazione per agenzia pubblicitaria di alto livello
+
+INTESTAZIONE:
+• Tipografia moderna e pulita
+• Schede informative:
+  - Durata: 20 secondi
+  - Stile: Spot pubblicitario per bevanda fresca e naturale
+  - Prodotto: Acqua di cocco
+  - Audio: Acqua tropicale + ASMR rinfrescante
+• Sezione "Perché questo stile funziona"
+• Estetica nei toni del bianco, verde cocco e beige naturale
+• Accenti decorativi tropicali minimali
+
+STORYBOARD:
+1. Bottiglia di acqua di cocco ghiacciata su pietra naturale bagnata, coperta di condensa
+2. Apertura del tappo della bottiglia con un primo piano nitido del sigillo
+3. Acqua di cocco versata in un bicchiere trasparente
+4. Liquido limpido che vortica nel bicchiere con minuscole bollicine
+5. Pezzi di cocco fresco che cadono accanto alla bottiglia al rallentatore
+6. Cubetti di ghiaccio che cadono nella bevanda creando uno splash controllato
+7. Macro estrema di gocce di condensa che scivolano lungo la bottiglia
+8. Bottiglia e bicchiere finali circondati da pezzi di cocco fresco e uno splash d'acqua ghiacciata
+
+OGNI RIQUADRO:
+• Numero della scena
+• Badge della durata
+• Direzione della camera
+• Elemento visivo
+• Azione
+• Dettaglio del prodotto
+
+CAMERA:
+Fotografia di liquidi ad alta velocità, macro estrema, primo piano della condensa, caduta di ghiaccio al rallentatore, vortice di liquido trasparente, ripresa del prodotto dal basso, inquadratura cinematografica dell'eroe.
+
+STILE:
+Pubblicità di bevande ultra-realistica, liquido cristallino, condensa realistica, texture del cocco dettagliata, splash d'acqua dinamico, illuminazione naturale premium, packaging pulito, fotografia pubblicitaria di lusso, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788426362099_jpy8ok_HRIV2OMWEAAdkxS.jpg" width="600" alt="Storyboard per spot pubblicitario di acqua di cocco">
+
+**[🎬 Guarda il video →](https://x.com/Strength04_X/status/2094760813794111843)**
+
+**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2094760813794111843) | **Pubblicato:** Sep 1, 2026
+
+---
 ### Prompt per video pubblicitario di pesce al vapore in stile fluviale
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2418,158 +2728,6 @@ un'inquadratura hero fissa dall'alto per la chiusura
 **Autore:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Pubblicato:** Jul 26, 2026
 
 ---
-### Spot pubblicitario per bevanda fitness ad alta energia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video di alta qualità per uno spot pubblicitario di una bevanda fitness, che utilizza il framework AIDA per descrivere una scena di recupero post-allenamento con riprese macro del prodotto ed effetti visivi blu elettrico.
-
-#### 📝 Prompt
-
-```
-Donna di colore, fine vent'anni, chignon alto e riccio, canotta color antracite, leggings neri, asciugamano, smartwatch — seduta su una panca in palestra dopo l'allenamento (Attenzione). Apre una lattina con goccioline di condensa, effervescenza visibile (Interesse). Beve; chiude gli occhi, le spalle si rilassano, un bagliore blu elettrico la avvolge in un momento di sollievo (Desiderio/apice). Sorride alla telecamera, poi inquadratura principale + ripresa macro di bellezza sulla lattina blu navy/argento "Mayor's Soda", icona della corona, logo, tagline "Mayor's Soda. Refresh the win" fuori campo (Azione). Stesso personaggio/design della lattina in ogni fotogramma, nessuna variazione. Luce da palestra nitida 5200-5800K, riflessi freddi, bagliore blu sul momento di sollievo. Telecamera: push-in → orbita → macro. Suono: synth pad, crepitio/effervescenza, crescendo caldo, voce fuori campo sul logo. Render di qualità Octane, subsurface scattering, texture 8K.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081379446200614912/img/lWmm94RUwY9ffQdU.jpg" width="600" alt="Spot pubblicitario per bevanda fitness ad alta energia">
-
-**[🎬 Guarda il video →](https://x.com/iam_damayor/status/2081379499262746808)**
-
-**Autore:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2081379499262746808) | **Pubblicato:** Jul 26, 2026
-
----
-### Animazione slapstick di gatto e topo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico altamente dettagliato per una scena di inseguimento in animazione 3D ispirata alla classica commedia muta americana, caratterizzato da fisica complessa e interazioni tra i personaggi.
-
-#### 📝 Prompt
-
-```
-Genera un'animazione 3D di alta qualità di 10 secondi, in formato orizzontale, che ritrae l'inseguimento tra un gatto e un topo. Lo stile generale è quello della classica commedia muta americana originale, con movimenti esagerati, un ritmo serrato ed espressioni ricche, senza imitare alcun personaggio animato esistente. Un gatto arancione, rotondo, paffuto e impaziente, insegue un topo grigio-marrone, astuto e agile. L'intera animazione utilizza riprese in movimento laterale continuo con un'unica telecamera, con i personaggi che si muovono sempre da sinistra verso destra. Tutti i movimenti dipendono dalla velocità, dall'inerzia e dalle collisioni per collegarsi in modo naturale, senza tagli netti, teletrasporti o pause improvvise. In una cucina rétro calda e luminosa, il topolino, che trasporta del formaggio, passa rapidamente tra le gambe di un tavolo, salta sul coperchio rotante di una pentola e lo usa come uno skateboard per scivolare in avanti. Il coperchio della pentola colpisce un rullo inclinato e il topolino sfrutta lo slancio per saltare sul tavolo da pranzo. Il gatto arancione segue lo stesso percorso, calpesta il rullo, le sue zampe barcollano rapidamente, il corpo oscilla da un lato all'altro e infine salta sul tavolo da pranzo sfruttando lo slancio. Dopo l'atterraggio, si scontra con un sacco di farina, sollevando una nuvola di polvere bianca. Il gatto arancione emerge indenne dalla nuvola di farina, con tutto il corpo bianco ad eccezione degli occhi arrabbiati. Il topolino corre attraverso una baguette vuota, scivolando fuori dall'altra estremità. Il gatto arancione lo segue da vicino ma rimane incastrato per un breve istante. La baguette si allunga e poi scatta all'indietro, spingendo il gatto in avanti e riducendo nuovamente la distanza dal topo. Entrambi i personaggi saltano dal tavolo da pranzo contemporaneamente. Il topolino atterra su un robot aspirapolvere, sfruttandone la rotazione per cambiare direzione, poi afferra un asciugamano appeso e oscilla attraverso il lavandino. Il gatto arancione atterra sullo stesso robot, compiendo un mezzo giro fluido, quindi usa lo slancio per afferrare il lampadario, oscillando in avanti, con le zampe che sfiorano quasi la coda del topo. Il topolino atterra davanti al frigorifero, scivolando di lato. Il gatto arancione corre ad alta velocità, le sue zampe frenano ripetutamente con forza, ma riesce comunque a rompere lo sportello del frigorifero a causa dell'inerzia. Una torta alla panna scivola giù, coprendo completamente il muso del gatto. Il topolino corre dietro al gatto lungo la sua coda, salta sul naso del gatto, afferra la ciliegia dalla panna e saluta trionfante. Il gatto arancione contrae il naso due volte, poi starnutisce improvvisamente ad alta voce.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080925522910236672/img/Qq7W2rnPrk1LYpTJ.jpg" width="600" alt="Animazione slapstick di gatto e topo">
-
-**[🎬 Guarda il video →](https://x.com/Cencencahya12/status/2080925688811720835)**
-
-**Autore:** [Cencen](https://x.com/Cencencahya12) | **Fonte:** [Link](https://x.com/Cencencahya12/status/2080925688811720835) | **Pubblicato:** Jul 25, 2026
-
----
-### Video di un fiorista che compone rose
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente descrittivo per generare un video realistico di un fiorista che compone rose in un vaso sotto la luce naturale del sole.
-
-#### 📝 Prompt
-
-```
-Una fiorista di colore rifinisce e dispone con cura rose rosse fresche in un vaso di ceramica bianca su un tavolo di legno scuro. Le mani sistemano gli steli e le foglie per creare un bouquet equilibrato; il centrotavola floreale finito viene mostrato magnificamente sotto la calda luce del sole, vicino a finestre che si affacciano su un rigoglioso giardino verde.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080919216220200961/img/sdh1PmxEUtazD262.jpg" width="600" alt="Video di un fiorista che compone rose">
-
-**[🎬 Guarda il video →](https://x.com/iam_damayor/status/2080919280535609480)**
-
-**Autore:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2080919280535609480) | **Pubblicato:** Jul 25, 2026
-
----
-### Dualità tra acquerello e realtà digitale
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video creativo a schermo diviso per Gemini Omni che mette a contrasto un sereno lago ad acquerello all'alba con un futuristico paesaggio urbano digitale al tramonto.
-
-#### 📝 Prompt
-
-```
-Metà superiore in stile acquerello che mostra un lago sereno all'alba, metà inferiore in stile arte digitale che mostra un paesaggio urbano futuristico al tramonto, schermo diviso.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080625015096254464/img/-o_9Bp8yhlGBMl0B.jpg" width="600" alt="Dualità tra acquerello e realtà digitale">
-
-**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2080625058268258343)**
-
-**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2080625058268258343) | **Pubblicato:** Jul 24, 2026
-
----
-### Storyboard ASMR per LEGO Technic
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt completo per storyboard multi-scena per creare un video ASMR iperrealistico dell'assemblaggio di una Lamborghini LEGO, incluse indicazioni di regia ed effetti sonori.
-
-#### 📝 Prompt
-
-```
-Crea uno storyboard di produzione cinematografica professionale per un video ASMR di 10 secondi che mostra l'assemblaggio di una Lamborghini Aventador LEGO Technic.\n\nIl layout deve apparire come un vero storyboard cinematografico con 8 pannelli sequenziali disposti su due colonne.\n\nOgni pannello deve contenere: • Ampia immagine di anteprima cinematografica • Numero della scena • Timecode • Direzione della cinepresa • Descrizione visiva • Azione • Dialogo / Voice Over • Effetti sonori (SFX) • Musica • Movimento della cinepresa • Emozione • Transizione\n\nUtilizza un design tecnico per storyboard nero premium con tipografia bianca, bordi puliti, note di produzione, etichette temporali e uno stile di pianificazione cinematografica.\n\nIntestazione: STORYBOARD ASMR ASSEMBLAGGIO LEGO LAMBORGHINI AVENTADOR Durata: 10 Secondi Rapporto: 9:16 Verticale Stile: ASMR cinematografico iperrealistico\n\nScena 1 (da 0.00 a 1.20) Ripresa macro dall'alto di pezzi LEGO Technic ordinatamente disposti su un tappetino da lavoro nero. Le mani raccolgono il telaio. Suoni morbidi di plastica che si incastra. Lenta carrellata dall'alto.\n\nScena 2 (da 1.20 a 2.40) Primo piano macro estremo delle mani che collegano l'asse della sospensione anteriore. Messa a fuoco che passa dalle dita al connettore. Un clic forte e soddisfacente.\n\nScena 3 (da 2.40 a 3.60) Vengono installati i pannelli blu della carrozzeria mentre la forma della Lamborghini inizia a delinearsi. Angolazione macro a tre quarti con una fluida rotazione della cinepresa.\n\nScena 4 (da 3.60 a 4.80) Il parabrezza viene installato con l'abitacolo visibile sotto. La cinepresa spinge dal parabrezza verso l'interno. Suono nitido di plastica che scatta.\n\nScena 5 (da 4.80 a 6.00) Viene fissata la ruota anteriore. Ripresa macro della ruota che gira. Breve carrellata che segue la rotazione con sottili suoni meccanici.\n\nScena 6 (da 6.00 a 7.20) Vengono installati i pannelli posteriori della carrozzeria, il diffusore e i fanali posteriori. Lento zoom in mentre i pezzi finali si bloccano in posizione.\n\nScena 7 (da 7.20 a 8.50) La Lamborghini completata viene fatta scorrere delicatamente sul tavolo. La ripresa dal basso crea una presentazione di alta qualità.\n\nScena 8 (da 8.50 a 10.00) Inquadratura eroica della Lamborghini Aventador LEGO blu completata su una superficie nera lucida sotto una drammatica illuminazione da studio blu. Lenta rotazione cinematografica che termina con un'angolazione frontale a tre quarti prima di sfumare a nero.\n\nAggiungi note di produzione professionali in fondo che includano: • Coerenza del personaggio • Oggetti di scena • Illuminazione • Stile della cinepresa • Tono • Stile visivo\n\nFai in modo che lo storyboard sembri esattamente un vero foglio di pianificazione di produzione di Hollywood con fotogrammi di anteprima ultra realistici, fotografia cinematografica, annotazioni tecniche, tipografia premium e una qualità di previsualizzazione cinematografica di alto livello.
-```
-
-<img src="https://cms-assets.youmind.com/media/1784970669504_y82rm8_HN9sdvtbEAEtMhQ.jpg" width="600" alt="Storyboard ASMR per LEGO Technic">
-
-**[🎬 Guarda il video →](https://x.com/Shorelyn_/status/2080500909076107595)**
-
-**Autore:** [Shore Lyn](https://x.com/Shorelyn_) | **Fonte:** [Link](https://x.com/Shorelyn_/status/2080500909076107595) | **Pubblicato:** Jul 24, 2026
-
----
-### Trasformazione surreale di compleanno con sputafuoco
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt image-to-video altamente dettagliato per una scena di compleanno in cui una donna sputa una fiamma massiccia invece di spegnere una candela, terminando con un effetto poster in bianco e nero al rallentatore.
-
-#### 📝 Prompt
-
-```
-Utilizzando l'immagine attualmente caricata come unico riferimento per identità, volto, acconciatura, proporzioni corporee, abbigliamento e accessori, genera un video breve realistico di 10 secondi, in formato verticale 9:16, a tema compleanno.
-[Regole di stile e fotocamera]
-Texture realistica da video per smartphone in verticale, parco notturno all'aperto. Solo un'inquadratura principale fissa, un inserimento in primo piano del volto e due tagli netti. Nessuno zoom o panoramica. Velocità naturale per le inquadrature 1-5, rallentatore per l'inquadratura 6. Transizione in bianco e nero alla fine.
-[Scena]
-Parco notturno all'aperto con una panchina, erba e alberi. Profondità notturna naturale.
-[Personaggio]
-La stessa persona dell'immagine caricata. La trasformazione: la ragazza si prepara a spegnere una candela, ma questa si trasforma in un massiccio getto di fiamma arancione.
-[Oggetti di scena principali]
-La mano destra tiene una bottiglia di champagne verde, la mano sinistra tiene una torta di compleanno accesa. Lo champagne è a sinistra, la torta a destra.
-[Inquadrature 1-6]
-1. Ingresso e seduta sulla panchina.
-2. Agitare la bottiglia di champagne.
-3. Taglio netto sul primo piano del volto, sorrisetto e respiro profondo.
-4. Ritorno all'inquadratura principale, sollevamento della torta e colpo secco della bottiglia di champagne. Spruzzo di champagne sincronizzato istantaneo (verso l'alto) e fuoco dalla bocca (orizzontalmente verso destra).
-5. Climax a colori con spruzzo prolungato e fuoco che illumina la scena.
-6. Transizione istantanea al rallentatore in bianco e nero con sovrimpressione del testo 'Happy Birthday'.
-[Audio]
-Musica di sottofondo continua. Suono del respiro, suono dell'oscillazione, suono dell'accensione della fiamma e suono dello spruzzo di champagne ad alta pressione.
-[Vincoli]
-10 secondi totali. Nessuna duplicazione del personaggio o deformazione degli oggetti di scena. Lo champagne e il fuoco non devono incrociarsi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080255348896915456/img/ytFQLE_PKdA3JJ5L.jpg" width="600" alt="Trasformazione surreale di compleanno con sputafuoco">
-
-**[🎬 Guarda il video →](https://x.com/Chengzilhy/status/2080257001268125733)**
-
-**Autore:** [小宇Chengzi](https://x.com/Chengzilhy) | **Fonte:** [Link](https://x.com/Chengzilhy/status/2080257001268125733) | **Pubblicato:** Jul 23, 2026
-
----
-### Spot pubblicitario cinematografico per la bevanda Fizzi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt altamente dettagliato per uno spot pubblicitario di una bevanda estiva di alta gamma, con riprese macro del prodotto, illuminazione durante l'ora d'oro e scene di lifestyle a bordo piscina.
-
-#### 📝 Prompt
-
-```
-Spot pubblicitario estivo cinematografico per FIZZI Sparkling Tonic — Pompelmo, stile di alta gamma con color grading caldo da ora d'oro, contrasto tra il turchese della piscina e accenti rosa corallo, che alterna riprese lifestyle a campo largo a primi piani macro iper-dettagliati del prodotto, momenti in slow-motion, energia giovane, spensierata e divertente, pop tropicale ritmato e sound design con il sibilo della lattina, l'effervescenza delle bollicine, schizzi in piscina e risate. Il prodotto è una lattina in alluminio alta e sottile color rosa corallo con goccioline di condensa — logo "fizzi" in minuscolo, arrotondato e rétro in magenta in alto, "sparkling tonic" sotto, una griglia pop-art 4x4 di cerchi di pompelmo illustrati in rosa, corallo, rosa acceso e giallo pallido, con "0% Alcohol" e "GRAPEFRUIT" in basso. Durante l'ora d'oro su una piscina panoramica elegante, una giovane donna in costume da bagno rosa corallo siede a bordo piscina con i piedi nell'acqua turchese, solleva una lattina ghiacciata di FIZZI alle labbra e chiude gli occhi per il piacere, amici che chiacchierano e luci a festone che brillano in uno sfocato da sogno sullo sfondo, la condensa che cattura la luce dorata. Un'inquadratura leggermente più ampia la mostra mentre galleggia su un gonfiabile trasparente accanto a un'amica in costume giallo pallido, entrambe ridono mentre fanno tintinnare le loro lattine rosa corallo con un piccolo schizzo, riprese a livello dell'acqua con riflessi scintillanti che danzano nell'inquadratura. Una macro estrema scorre lentamente sulla superficie della lattina rosa corallo in iper-dettaglio — gocce di condensa che catturano la luce prismatica, il logo magenta "fizzi" scintillante che riempie l'inquadratura, poi giù verso la nitida griglia pop-art di pompelmi con un bokeh turchese scintillante sullo sfondo. Un'altra macro in slow-motion da sogno mostra minuscole bollicine di anidride carbonica che risalgono attraverso il liquido frizzante rosa pallido in un bicchiere con una fetta di pompelmo luminosa che galleggia, la lattina leggermente fuori fuoco dietro, con il crepitio ASMR dell'effervescenza. Infine, la telecamera si allontana verso un'inquadratura ampia dell'ora d'oro dell'intera festa — entrambe le donne che galleggiano con le lattine, amici che ballano e si rilassano su asciugamani color corallo, prendendo FIZZI da un secchiello del ghiaccio pieno di metà pompelmo — poi si avvicina lentamente mentre sollevano le lattine verso la telecamera e appare un testo bianco pulito: "Grab an ice cold fizzi," con sotto "© 2026 FIZZI Beverages Co.", che rimane impresso per poi sfumare.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2080249467647721473/img/W2AOX-wwqvfZtqbA.jpg" width="600" alt="Spot pubblicitario cinematografico per la bevanda Fizzi">
-
-**[🎬 Guarda il video →](https://x.com/Just_sharon7/status/2080250591675101490)**
-
-**Autore:** [Sharon Riley](https://x.com/Just_sharon7) | **Fonte:** [Link](https://x.com/Just_sharon7/status/2080250591675101490) | **Pubblicato:** Jul 23, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -2622,6 +2780,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-03T08:33:27.767Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-03T15:49:00.910Z</sub>
 
 </div>
