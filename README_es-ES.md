@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **235** |
+| 📝 Total de prompts | **239** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-09-05** |
 
@@ -56,6 +56,88 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Video de intercambio de rostros con IA realista
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de flujo de trabajo para realizar intercambios de rostros fluidos en videos, manteniendo el movimiento y el fondo originales mientras se ajusta la iluminación para lograr realismo.
+
+#### 📝 Prompt
+
+```
+Reemplaza a la persona en este video con la persona de la imagen de referencia. Mantén el mismo movimiento, movimiento de cabeza, habla, cámara y fondo. Intercambio de rostros realista y fluido. Ajusta la iluminación. Alto nivel de detalle.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095908418649231360/img/Scv3L_bJM4K8xwxD.jpg" width="600" alt="Video de intercambio de rostros con IA realista">
+
+**[🎬 Ver video →](https://x.com/___craig2x/status/2096164337400312189)**
+
+**Autor:** [That Arsenal Guy](https://x.com/___craig2x) | **Fuente:** [Link](https://x.com/___craig2x/status/2096164337400312189) | **Publicado:** Sep 5, 2026
+
+---
+### Escena de drenaje de inundación en una aldea en miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video macro cinematográfico que describe una mano gigante colocando una bomba de agua en una aldea europea en miniatura inundada, creando físicas de agua realistas y reacciones detalladas de trabajadores diminutos.
+
+#### 📝 Prompt
+
+```
+Crea una escena cinematográfica hiperrealista en miniatura de una calle estrecha de una aldea de estilo europeo antiguo completamente inundada. Docenas de trabajadores de construcción diminutos con cascos de seguridad amarillos y ropa de trabajo están de pie y sentados a ambos lados de la calle inundada, luciendo preocupados y esperando ayuda.
+
+Una mano humana gigante entra desde arriba sosteniendo una pequeña y potente bomba de agua de color naranja y negro. La mano coloca cuidadosamente la bomba en la calle inundada. La bomba comienza a funcionar y drena el agua rápidamente, creando ondas realistas, corrientes arremolinadas y salpicaduras. A medida que el nivel del agua desciende, el camino de adoquines mojados se vuelve visible gradualmente.
+
+Los trabajadores diminutos reaccionan con entusiasmo y alivio mientras la calle se transforma de una vía inundada a una calle de adoquines seca. Mantén un fuerte contraste de escala entre la mano gigante, la máquina y las personas en miniatura.
+
+Composición vertical 9:16, fotografía macro, profundidad de campo reducida, física del agua realista, personajes en miniatura detallados, iluminación cinematográfica, texturas realistas, movimiento de cámara fluido, altamente detallado, fotorrealista, transformación satisfactoria, 4K, sin texto, sin subtítulos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096141092152619008/img/-0EP6u5EztZ-R0zC.jpg" width="600" alt="Escena de drenaje de inundación en una aldea en miniatura">
+
+**[🎬 Ver video →](https://x.com/AiwithBloodline/status/2096141138986185150)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fuente:** [Link](https://x.com/AiwithBloodline/status/2096141138986185150) | **Publicado:** Sep 5, 2026
+
+---
+### Prompt para video culinario de Tofu Estofado Hakka
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt comercial profesional integral para un anuncio de comida de alta gama de 40 segundos que muestra el proceso tradicional de elaboración del Tofu Estofado Hakka.
+
+#### 📝 Prompt
+
+```
+Requisitos unificados para toda la película: cuatro segmentos generados por separado, 10 segundos cada uno, formato vertical 9:16, calidad comercial de cocina Hakka de alta gama ultra realista en 4K, sensación cinematográfica de 24 fotogramas. Utilice de manera consistente un entorno de cocina tradicional Hakka cálido y natural, encimera de madera oscura, retroiluminación lateral cálida y fotografía macro con profundidad de campo reducida. El tofu en los cuatro segmentos debe permanecer unificado: tofu Hakka tradicional antiguo, de color blanco lechoso con tonos cálidos, textura fina con poros de soja naturales y ligeros, cortado en bloques rectangulares gruesos y uniformes; no debe convertirse en tofu blando, tofu sedoso, tofu japonés, tofu de huevo, queso o pan. El relleno de carne siempre utiliza la misma carne de cerdo fresca, con una proporción natural de grasa y magro, preservando granos de carne claros y un color realista. Todo el tamaño, la forma, la cantidad de relleno de carne y el color de sellado del tofu relleno deben ser continuos y unificados. Las imágenes solo muestran ingredientes, las manos del chef y utensilios de cocina, sin rostros. Se prohíben subtítulos, texto, logotipos de marca, marcas de agua, bolsas de embalaje e interfaces de plataforma. Segmento 1 (0—10s): Soja seleccionada y leche de soja tradicional molida en piedra. Prompt: Genere un video comercial de cocina Hakka de alta gama, ultra realista, 4K, vertical 9:16 de 10 segundos. Muestre el primer paso para hacer Tofu Relleno Hakka: seleccionar la soja y usar un molino de piedra de granito tradicional para moler leche de soja fina. 0—2s: Luz cálida de la mañana en una cocina Hakka tradicional. Un tamiz de bambú de color claro está lleno de soja de color amarillo dorado pálido, rellena y uniforme. La cámara se acerca a los granos, mostrando textura y brillo fresco. 2—4s: Una mano limpia y natural remueve y recoge suavemente la soja. La soja no debe volverse negra, mohosa, agrietarse ni convertirse en maíz, cacahuetes o granos de café. 4—6s: Transición al molino de piedra de granito circular tradicional. Se añade soja remojada y agua a la entrada, el chef empuja la piedra de molino. 6—8s: La leche de soja blanca lechosa fluye desde la abertura. La textura es fina y suave. 8—10s: Macro de 85mm sigue la leche hacia un cubo. Retroiluminación lateral cálida, vapor natural. Conexión: El último fotograma muestra un primer plano de la leche de soja. El segmento 2 utiliza el mismo lote de tofu. Segmento 2 (10—20s): Picado de carne a mano y relleno. Prompt: Genere un video comercial de cocina Hakka de alta gama, ultra realista, 4K, vertical 9:16 de 10 segundos. Muestre el picado de carne de cerdo fresca a mano, el corte del tofu y el relleno de la carne. 0—2s: Paleta de cerdo fresca sobre una tabla de madera oscura. 2—4s: Picado rítmico a mano, preservando granos claros. 4—5s: Recogiendo carne con un cuchillo, trozos de cebolleta visibles. 5—7s: Tofu cortado en bloques de 4x3x2.5cm. Cavando una ranura en el centro. 7—9s: Rellenando carne con palillos. 9-10s: Barrido a través del tofu relleno cuidadosamente dispuesto. Use macro de 50mm y 85mm. Evite estrictamente: picadoras de carne, carne que se convierte en otros productos, excavación automática, formas diferentes, tofu gelatinoso. Conexión: El último fotograma muestra el tofu dispuesto. Segmento 3 (20—30s): Sellado y estofado. Prompt: Genere un video comercial de cocina Hakka de alta gama, ultra realista, 4K, vertical 9:16 de 10 segundos. Muestre el sellado del lado de la carne, ambos lados del tofu y el estofado en su jugo original usando una olla de hierro negro. 0—2s: Calentar la olla con aceite, colocar el tofu con el lado de la carne hacia abajo. 2—4s: Lado de la carne sellado hasta quedar dorado. 4—6s: Sellado de ambos lados. 6—8s: Vertiendo salsa ámbar. 8—9s: Cocinando a fuego lento en su jugo. 9—10s: Espátula levantando una pieza. Evite estrictamente: fritura profunda, quemaduras, carne que se cae, colores de salsa incorrectos. Conexión: Transferencia a una olla de barro de color marrón negruzco oscuro. Segmento 4 (30—40s): Cocción en olla de barro y toma principal. Prompt: Genere un video comercial de cocina Hakka de alta gama, ultra realista, 4K, vertical 9:16 de 10 segundos. Muestre la transferencia a la olla de barro, la cocción a fuego lento, la adición de cebolletas y una toma principal con una cuchara. 0—2s: Tofu cocinándose a fuego lento en jugo ámbar, vapor subiendo. 2—4s: Ajustando el tofu con palillos. 4—5s: Espolvoreando cebolletas verdes. 5—7s: Cuchara de plata levantando una pieza. 7—9s: Toma principal macro de 85mm mostrando texturas y jugo. 9—10s: La cámara se aleja para la toma final. Evite estrictamente: cambiar de olla, cambios de forma, diferentes alimentos, carne que se cae, demasiada salsa, tofu carbonizado, dedos extra, elementos de interfaz de usuario.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096067905817628672/img/tKXsWCbLMzQrwJkm.jpg" width="600" alt="Prompt para video culinario de Tofu Estofado Hakka">
+
+**[🎬 Ver video →](https://x.com/7998l201/status/2096067992702566499)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Fuente:** [Link](https://x.com/7998l201/status/2096067992702566499) | **Publicado:** Sep 5, 2026
+
+---
+### Prompt para video timelapse de dibujo digital
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado para crear un timelapse de dibujo digital de alta velocidad de 15 segundos, que muestra el proceso desde un lienzo en blanco hasta un personaje completamente renderizado con interacciones de interfaz visibles.
+
+#### 📝 Prompt
+
+```
+En una interfaz profesional de dibujo digital y diseño de personajes, crea un timelapse de creación de personajes de ritmo rápido de 15 segundos. Utiliza la referencia del personaje proporcionada solo como el objetivo final para la apariencia, las proporciones y el peinado. El proceso debe comenzar desde un lienzo en blanco y reconstruir el personaje desde cero. Muestra un cursor de ratón visible controlando activamente el proceso. 0:00-0:02 Comienza con un lienzo en blanco; el cursor crea una estructura suelta y una pose básica. 0:02-0:05 Etapa de boceto detallado acelerado. 0:05-0:08 Transición a line art limpio. 0:08-0:11 Etapa de coloreado rápido con sombreado y luces. 0:11-0:13 Renderizado y pulido con zooms. 0:13-0:15 La interfaz se limpia para mostrar al personaje completamente renderizado que coincide con la referencia. Estilo: Timelapse de arte digital de alta velocidad, interfaz de flujo de trabajo profesional, movimientos de cursor fluidos. Movimiento: Continuo y eficiente. Cámara: Estilo grabación de pantalla con zooms sutiles. Importante: El personaje no debe aparecer instantáneamente; cada etapa debe construirse visiblemente sobre la anterior.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095770843024670720/img/zuMlz3_pPRGYAL7U.jpg" width="600" alt="Prompt para video timelapse de dibujo digital">
+
+**[🎬 Ver video →](https://x.com/mushengziyue/status/2095770916068164050)**
+
+**Autor:** [ailth](https://x.com/mushengziyue) | **Fuente:** [Link](https://x.com/mushengziyue/status/2095770916068164050) | **Publicado:** Sep 4, 2026
+
+---
 ### Storyboard publicitario para espaguetis italianos premium
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2646,92 +2728,6 @@ La cámara vuela rápido y a baja altura a través de una capa de nubes, luego i
 **Autor:** [麻酱AI实验室](https://x.com/zhongying14) | **Fuente:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Publicado:** Jul 27, 2026
 
 ---
-### Video de lanzamiento de ramo de rosas mágicas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Este prompt detallado transforma una imagen de referencia en una escena mágica donde un sujeto lanza un ramo de rosas que estalla en partículas brillantes y caligrafía.
-
-#### 📝 Prompt
-
-```
-Utiliza la imagen de referencia como base exacta. No cambies su rostro, rasgos faciales, tono de piel, cabello ni expresión de ninguna manera.
-
-Transforma la escena para que ella lance dinámicamente el ramo de rosas rojas brillantes hacia el espectador. Las rosas estallan en partículas mágicas brillantes, pétalos flotantes y estelas de luz rojo dorado que llenan el aire.
-
-Un suave texto mágico que dice “Believe in Magic” se materializa en una elegante caligrafía brillante justo en el centro de las rosas voladoras y la luz. Mantén el fondo del jardín de rosas encantado, añade más luces brillantes y pétalos de rosa flotantes para lograr una atmósfera cinematográfica, llamativa y mágica. Fotorrealista, alto nivel de detalle, rojos vibrantes y un suave resplandor dorado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="Video de lanzamiento de ramo de rosas mágicas">
-
-**[🎬 Ver video →](https://x.com/amynys/status/2081681005073825820)**
-
-**Autor:** [Amy G](https://x.com/amynys) | **Fuente:** [Link](https://x.com/amynys/status/2081681005073825820) | **Publicado:** Jul 27, 2026
-
----
-### Video ASMR de miel iridiscente en macro
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico en macro de 10 segundos para crear una toma ASMR de miel goteando sobre vidrio con reflejos realistas.
-
-#### 📝 Prompt
-
-```
-Video ASMR cinematográfico en ultra-macro, 10 segundos. Un panal de cristal transparente deja gotear lentamente miel iridiscente sobre una placa de vidrio. Pequeños reflejos de arcoíris bailan sobre la superficie. Primer plano extremo, profundidad de campo reducida, realismo en 4K. Sonidos ASMR: miel espesa estirándose, gotas delicadas al caer, sutil resonancia del vidrio, suave silencio ambiental. Movimiento de cámara en cámara lenta fluido, hipnótico y relajante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Video ASMR de miel iridiscente en macro">
-
-**[🎬 Ver video →](https://x.com/MrDasOnX/status/2081634357060726896)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **Publicado:** Jul 27, 2026
-
----
-### Lista de tomas para comercial de relojes de lujo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado, toma por toma, para crear anuncios profesionales de productos de lujo, que incluye ángulos macro, rotaciones de cámara fluidas y descripciones de iluminación precisas.
-
-#### 📝 Prompt
-
-```
-macro extremo en la esfera mientras el segundero se desplaza
-
-una rotación lenta a través de la caja pulida con iluminación de contorno
-
-una toma lateral con iluminación intensa en la corona y los pulsadores
-
-una toma principal fija desde arriba para cerrar
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="Lista de tomas para comercial de relojes de lujo">
-
-**[🎬 Ver video →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
-
-**Autor:** [Hex Horizon](https://x.com/Noderunner_Hex) | **Fuente:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **Publicado:** Jul 26, 2026
-
----
-### Comercial de café en 3D al estilo Pixar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video integral para un comercial de café en 3D estilizado con estética tipo Pixar, que detalla transiciones específicas desde la iluminación de la hora azul hasta la hora dorada y señales de consistencia de los personajes.
-
-#### 📝 Prompt
-
-```
-10s, 9:16 comercial en 3D estilizado al estilo Pixar para Da Mayor Coffee. Mujer joven, piel bronceada, cabello oscuro ondulado hasta los hombros, suéter de punto color crema extragrande, anillo de oro — camina hacia una azotea al amanecer durante la hora azul con un vaso de café para llevar, vapor elevándose sobre un horizonte brillante (Atención). Bebe, ojos cerrados (Interés). El cielo ondula hacia constelaciones cian brillantes, ojos abiertos con asombro — revelación/clímax (Deseo). Las estrellas se disuelven en un amanecer dorado, sonrisa confiada a la cámara; toma principal + toma de belleza del vaso (funda de papel kraft, icono de explosión plateada de Da Mayor, logotipo "Da Mayor", tapa blanca), cierre con logotipo, eslogan "Da Mayor Coffee. Wake up to something bigger" VO (Acción). Mismo diseño de personaje/vaso en cada fotograma, sin variaciones; expresión cambia de somnolienta → asombro → calidez. Iluminación: hora azul índigo → resplandor cian → hora dorada de 3200K, brillo volumétrico. Cámara: acercamiento (push-in) → órbita → inclinación hacia arriba desde ángulo bajo → órbita principal/toma de belleza, sin cámara en mano ni cambios de velocidad. Sonido: tono ambiental que aumenta hasta un crescendo orquestal en la revelación, resolución cálida, efectos de sonido de vapor/respiración/sorbo, voz en off en el cierre. Calidad Octane, sub-surface scattering, texturas 8K, profundidad de campo cinematográfica, grano de película — maravilloso, premium, totalmente animado
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="Comercial de café en 3D al estilo Pixar">
-
-**[🎬 Ver video →](https://x.com/iam_damayor/status/2081448072706723933)**
-
-**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fuente:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Publicado:** Jul 26, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -2784,6 +2780,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-05T08:03:25.797Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-05T14:37:40.054Z</sub>
 
 </div>

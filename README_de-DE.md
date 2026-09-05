@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **235** |
+| 📝 Gesamtanzahl Prompts | **239** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-05** |
 
@@ -56,6 +56,88 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Realistischer KI-Gesichtstausch in Videos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Workflow-Prompt für nahtlose Gesichtstausche in Videos, bei dem die ursprüngliche Bewegung und der Hintergrund beibehalten werden, während die Beleuchtung für maximalen Realismus angepasst wird.
+
+#### 📝 Prompt
+
+```
+Ersetze die Person in diesem Video durch die Person auf dem Referenzbild. Behalte die gleichen Bewegungen, Kopfbewegungen, Sprechweise, Kameraeinstellungen und den Hintergrund bei. Nahtloser, realistischer Gesichtstausch. Beleuchtung anpassen. Hoher Detailgrad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095908418649231360/img/Scv3L_bJM4K8xwxD.jpg" width="600" alt="Realistischer KI-Gesichtstausch in Videos">
+
+**[🎬 Video ansehen →](https://x.com/___craig2x/status/2096164337400312189)**
+
+**Autor:** [That Arsenal Guy](https://x.com/___craig2x) | **Quelle:** [Link](https://x.com/___craig2x/status/2096164337400312189) | **Veröffentlicht:** Sep 5, 2026
+
+---
+### Miniatur-Dorf bei Hochwasser
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kinoreifer Makro-Video-Prompt, der eine riesige Hand beschreibt, die eine Wasserpumpe in ein überflutetes europäisches Miniaturdorf einsetzt, mit realistischer Wasserphysik und detaillierten Reaktionen der winzigen Arbeiter.
+
+#### 📝 Prompt
+
+```
+Erstelle eine kinoreife, hyperrealistische Miniaturszene einer engen, europäischen Dorfstraße, die komplett mit Wasser überflutet ist. Dutzende winzige Bauarbeiter in gelben Schutzhelmen und Arbeitskleidung stehen und sitzen an beiden Seiten der überfluteten Straße, sehen besorgt aus und warten auf Hilfe.
+
+Eine riesige menschliche Hand kommt von oben ins Bild und hält eine kleine, leistungsstarke orange-schwarze Wasserpumpe. Die Hand platziert die Pumpe vorsichtig in der überfluteten Straße. Die Pumpe beginnt zu arbeiten und pumpt das Wasser schnell ab, wobei realistische Wellen, wirbelnde Strömungen und spritzendes Wasser entstehen. Während der Wasserspiegel sinkt, wird die nasse Kopfsteinpflasterstraße nach und nach sichtbar.
+
+Die winzigen Arbeiter reagieren mit Begeisterung und Erleichterung, als sich die Straße von einer überfluteten Fahrbahn in eine trockene Kopfsteinpflasterstraße verwandelt. Achte auf einen starken Größenkontrast zwischen der riesigen Hand, der Maschine und den Miniaturfiguren.
+
+Vertikale 9:16-Komposition, Makrofotografie, geringe Schärfentiefe, realistische Wasserphysik, detaillierte Miniaturfiguren, cineastische Beleuchtung, realistische Texturen, flüssige Kamerabewegung, hochdetailliert, fotorealistisch, befriedigende Verwandlung, 4K, kein Text, keine Untertitel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096141092152619008/img/-0EP6u5EztZ-R0zC.jpg" width="600" alt="Miniatur-Dorf bei Hochwasser">
+
+**[🎬 Video ansehen →](https://x.com/AiwithBloodline/status/2096141138986185150)**
+
+**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Quelle:** [Link](https://x.com/AiwithBloodline/status/2096141138986185150) | **Veröffentlicht:** Sep 5, 2026
+
+---
+### Prompt für ein kulinarisches Video über Hakka-geschmorten Tofu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein umfassender, professioneller Werbe-Prompt für einen 40-sekündigen High-End-Food-Spot, der den traditionellen Herstellungsprozess von Hakka-geschmortem Tofu zeigt.
+
+#### 📝 Prompt
+
+```
+Einheitliche Anforderungen für den gesamten Film: Vier Segmente werden separat generiert, jeweils 10 Sekunden, 9:16 Hochformat, 4K ultra-realistische High-End-Qualität für Hakka-Küche, 24-Bilder-Kino-Look. Durchgehend eine warme und natürliche traditionelle Hakka-Küchenumgebung verwenden, dunkle Holzarbeitsplatte, warmes Seiten-Gegenlicht und Makroaufnahmen mit geringer Schärfentiefe. Der Tofu muss in allen vier Segmenten einheitlich bleiben: traditioneller alter Hakka-Tofu, milchig weiß mit warmen Tönen, feine Textur mit leichten natürlichen Bohnenporen, in gleichmäßige, dicke rechteckige Blöcke geschnitten; darf nicht zu weichem Tofu, Seidentofu, japanischem Tofu, Eiertofu, Käse oder Brot werden. Die Fleischfüllung verwendet immer dasselbe frische Schweinefleisch mit einem natürlichen Fett-zu-Mager-Verhältnis, wobei klare Fleischkörner und eine realistische Farbe erhalten bleiben. Größe, Form, Menge der Fleischfüllung und Anbratfarbe des gefüllten Tofus müssen durchgehend einheitlich sein. Die Visuals zeigen nur Zutaten, die Hände des Kochs und Kochutensilien, kein Gesicht. Untertitel, Text, Markenlogos, Wasserzeichen, Verpackungstüten und Plattform-Interfaces sind untersagt. Segment 1 (0—10s): Ausgewählte Sojabohnen und traditionell steinvermahlene Sojamilch. Prompt: Generiere ein 10-sekündiges, 9:16 vertikales, 4K ultra-realistisches High-End-Werbevideo für Hakka-Küche. Zeige den ersten Schritt der Herstellung von Hakka-gefülltem Tofu: Auswahl der Sojabohnen und Verwendung einer traditionellen Granit-Steinmühle zur Herstellung von feiner Sojamilch. 0—2s: Warmes Morgenlicht in einer traditionellen Hakka-Küche. Ein helles Bambussieb ist gefüllt mit prallen, gleichmäßigen, blass goldgelben Sojabohnen. Die Kamera bewegt sich nah an die Bohnen heran und zeigt Textur und frischen Glanz. 2—4s: Eine saubere, natürliche Hand rührt und sortiert die Sojabohnen vorsichtig. Die Sojabohnen dürfen nicht schwarz, schimmelig oder rissig werden oder sich in Mais, Erdnüsse oder Kaffeebohnen verwandeln. 4—6s: Übergang zur traditionellen runden Granit-Steinmühle. Eingeweichte Sojabohnen und Wasser werden in den Einlass gegeben, der Koch dreht den Mühlstein. 6—8s: Milchig weiße Sojamilch fließt aus dem Spalt. Die Textur ist fein und glatt. 8—10s: 85mm-Makro folgt der Milch in einen Eimer. Warmes Seiten-Gegenlicht, natürlicher Dampf. Verbindung: Der letzte Frame zeigt die Sojamilch im Nahbereich. Segment 2 verwendet dieselbe Tofu-Charge. Segment 2 (10—20s): Fleischfüllung von Hand hacken und füllen. Prompt: Generiere ein 10-sekündiges, 9:16 vertikales, 4K ultra-realistisches High-End-Werbevideo für Hakka-Küche. Zeige das Hacken von frischem Schweinefleisch von Hand, das Schneiden von Tofu und das Einfüllen der Fleischfüllung. 0—2s: Frisches Schweineschulterfleisch auf einem dunklen Holzbrett. 2—4s: Rhythmische Hackbewegungen von Hand, wobei klare Körner erhalten bleiben. 4—5s: Fleisch mit einem Messer zusammenführen, sichtbare Frühlingszwiebelstückchen. 5—7s: Tofu in 4x3x2,5 cm große Blöcke schneiden. Eine Vertiefung in die Mitte graben. 7—9s: Fleisch mit Stäbchen einfüllen. 9—10s: Schwenk über sauber angeordneten gefüllten Tofu. 50mm- und 85mm-Makro verwenden. Streng vermeiden: Fleischwölfe, Fleisch, das sich in andere Produkte verwandelt, automatisches Graben, verschiedene Formen, geleeartiger Tofu. Verbindung: Der letzte Frame zeigt den angeordneten Tofu. Segment 3 (20—30s): Anbraten und Schmoren. Prompt: Generiere ein 10-sekündiges, 9:16 vertikales, 4K ultra-realistisches High-End-Werbevideo für Hakka-Küche. Zeige das Anbraten der Fleischseite, beider Seiten des Tofus und das Schmoren im eigenen Saft unter Verwendung eines schwarzen Eisentopfes. 0—2s: Topf mit Öl erhitzen, Tofu mit der Fleischseite nach unten hineinlegen. 2—4s: Fleischseite goldbraun anbraten. 4—6s: Beide Seiten anbraten. 6—8s: Bernsteinfarbene Soße darübergießen. 8—9s: Im Saft köcheln lassen. 9—10s: Ein Stück mit dem Pfannenwender anheben. Streng vermeiden: Frittieren, Verbrennen, Herausfallen des Fleisches, falsche Soßenfarben. Verbindung: Transfer in einen dunkel bräunlich-schwarzen Tontopf. Segment 4 (30—40s): Schmoren im Tontopf und Hero-Shot. Prompt: Generiere ein 10-sekündiges, 9:16 vertikales, 4K ultra-realistisches High-End-Werbevideo für Hakka-Küche. Zeige den Transfer in den Tontopf, das Köcheln, das Hinzufügen von Frühlingszwiebeln und einen Hero-Shot mit einem Löffel. 0—2s: Tofu köchelt in bernsteinfarbenem Saft, Dampf steigt auf. 2—4s: Tofu mit Stäbchen zurechtrücken. 4—5s: Grüne Frühlingszwiebeln darüberstreuen. 5—7s: Ein silberner Löffel hebt ein Stück an. 7—9s: 85mm-Makro-Hero-Shot, der Texturen und Saft zeigt. 9—10s: Kamera fährt für die letzte Aufnahme zurück. Streng vermeiden: Topfwechsel, Formveränderungen, andere Lebensmittel, herausfallendes Fleisch, zu viel Soße, verbrannter Tofu, zusätzliche Finger, UI-Elemente.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096067905817628672/img/tKXsWCbLMzQrwJkm.jpg" width="600" alt="Prompt für ein kulinarisches Video über Hakka-geschmorten Tofu">
+
+**[🎬 Video ansehen →](https://x.com/7998l201/status/2096067992702566499)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Quelle:** [Link](https://x.com/7998l201/status/2096067992702566499) | **Veröffentlicht:** Sep 5, 2026
+
+---
+### Prompt für ein digitales Zeichen-Zeitraffer-Video
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Prompt zur Erstellung eines 15-sekündigen digitalen Zeitraffer-Zeichenvideos, das den Prozess von der leeren Leinwand bis zum vollständig gerenderten Charakter mit sichtbaren UI-Interaktionen zeigt.
+
+#### 📝 Prompt
+
+```
+Erstellen Sie in einer professionellen Benutzeroberfläche für digitales Zeichnen und Charakterdesign einen 15-sekündigen, rasanten Zeitraffer der Charaktererstellung. Verwenden Sie die bereitgestellte Charakterreferenz ausschließlich als Zielvorgabe für das Aussehen, die Proportionen und die Frisur. Der Prozess muss auf einer leeren Leinwand beginnen und den Charakter von Grund auf neu aufbauen. Zeigen Sie einen sichtbaren Mauszeiger, der den Prozess aktiv steuert. 0:00-0:02 Start mit einer leeren Leinwand; der Cursor erstellt eine grobe Struktur und die Grundpose. 0:02-0:05 Beschleunigte Phase der detaillierten Skizze. 0:05-0:08 Übergang zum sauberen Lineart. 0:08-0:11 Schnelle Kolorierungsphase mit Schattierungen und Highlights. 0:11-0:13 Rendering und Polishing mit Zooms. 0:13-0:15 Die Benutzeroberfläche blendet aus, um den vollständig gerenderten Charakter passend zur Referenz zu zeigen. Stil: High-Speed-Zeitraffer digitaler Kunst, professionelle Workflow-UI, flüssige Cursorbewegungen. Bewegung: Kontinuierlich und effizient. Kamera: Bildschirmaufnahme-Stil mit subtilen Zooms. Wichtig: Der Charakter darf nicht sofort erscheinen; jede Phase muss sichtbar auf der vorherigen aufbauen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095770843024670720/img/zuMlz3_pPRGYAL7U.jpg" width="600" alt="Prompt für ein digitales Zeichen-Zeitraffer-Video">
+
+**[🎬 Video ansehen →](https://x.com/mushengziyue/status/2095770916068164050)**
+
+**Autor:** [ailth](https://x.com/mushengziyue) | **Quelle:** [Link](https://x.com/mushengziyue/status/2095770916068164050) | **Veröffentlicht:** Sep 4, 2026
+
+---
 ### Premium-Storyboard für italienische Spaghetti-Werbung
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2646,88 +2728,6 @@ Die Kamera fliegt schnell und tief durch eine Wolkenschicht und bricht dann in e
 **Autor:** [麻酱AI实验室](https://x.com/zhongying14) | **Quelle:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Veröffentlicht:** Jul 27, 2026
 
 ---
-### Magisches Video: Rosenstrauß-Wurf
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dieser detaillierte Prompt verwandelt ein Referenzbild in eine magische Szene, in der eine Person einen Rosenstrauß wirft, der in leuchtende Partikel und Kalligrafie explodiert.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie das referenzierte Bild als exakte Grundlage. Verändern Sie auf keinen Fall ihr Gesicht, ihre Gesichtszüge, ihren Hautton, ihr Haar oder ihren Ausdruck.\n\nTransformieren Sie die Szene so, dass sie den Strauß aus funkelnden roten Rosen dynamisch in Richtung des Betrachters wirft. Die Rosen explodieren in leuchtende magische Partikel, schwebende Blütenblätter und Spuren aus gold-rotem Licht, die die Luft erfüllen.\n\nEin sanfter, magischer Schriftzug „Believe in Magic“ materialisiert sich in eleganter, leuchtender Kalligrafie direkt inmitten der fliegenden Rosen und des Lichts. Behalten Sie den verzauberten Rosengarten als Hintergrund bei und fügen Sie weitere funkelnde Lichter sowie schwebende Rosenblätter hinzu, um eine filmreife, auffällige und magische Atmosphäre zu schaffen. Fotorealistisch, detailreich, leuchtende Rottöne und ein sanfter goldener Glanz.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="Magisches Video: Rosenstrauß-Wurf">
-
-**[🎬 Video ansehen →](https://x.com/amynys/status/2081681005073825820)**
-
-**Autor:** [Amy G](https://x.com/amynys) | **Quelle:** [Link](https://x.com/amynys/status/2081681005073825820) | **Veröffentlicht:** Jul 27, 2026
-
----
-### Makro-Video von irisierendem Honig (ASMR)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter 10-sekündiger Video-Prompt zur Erstellung einer filmischen Makro-ASMR-Aufnahme von Honig, der auf Glas tropft, mit realistischen Reflexionen.
-
-#### 📝 Prompt
-
-```
-Ultra-Makro filmisches ASMR-Video, 10 Sekunden. Eine transparente Kristallwabe lässt langsam irisierenden Honig auf eine Glasplatte tropfen. Winzige Regenbogenreflexionen tanzen auf der Oberfläche. Extreme Nahaufnahme, geringe Schärfentiefe, 4K-Realismus. ASMR-Sounds: zäher Honig, der sich dehnt, feine Tropfen, die aufschlagen, subtile Glasresonanz, sanfte Umgebungsstille. Sanfte Zeitlupen-Kamerabewegung, faszinierend und entspannend.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Makro-Video von irisierendem Honig (ASMR)">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2081634357060726896)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **Veröffentlicht:** Jul 27, 2026
-
----
-### Aufnahmeliste für Luxusuhren-Werbespots
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter, schrittweiser Prompt für die Erstellung professioneller Luxusproduktwerbung, einschließlich Makroaufnahmen, sanfter Kamerarotationen und präziser Lichtbeschreibungen.
-
-#### 📝 Prompt
-
-```
-Extreme Makroaufnahme des Zifferblatts, während der Sekundenzeiger vorbeiläuft
-
-eine langsame Rotation über das polierte Gehäuse mit Kantenlicht
-
-eine hart beleuchtete Seitenaufnahme der Krone und der Drücker
-
-eine statische Hero-Aufnahme von oben als Abschluss
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="Aufnahmeliste für Luxusuhren-Werbespots">
-
-**[🎬 Video ansehen →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
-
-**Autor:** [Hex Horizon](https://x.com/Noderunner_Hex) | **Quelle:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **Veröffentlicht:** Jul 26, 2026
-
----
-### 3D-Kaffeewerbespot im Pixar-Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein umfassender Video-Prompt für einen stilisierten 3D-Kaffeewerbespot mit Pixar-ähnlicher Ästhetik, der spezifische Übergänge von der blauen Stunde zur goldenen Stunde sowie Hinweise zur Charakterkonsistenz detailliert beschreibt.
-
-#### 📝 Prompt
-
-```
-10s, 9:16 stilisierter 3D-Werbespot im Pixar-Stil für Da Mayor Coffee. Junge Frau, gebräunte Haut, dunkle schulterlange Wellen, übergroßer cremefarbener Strickpullover, Goldring — betritt bei Anbruch der blauen Stunde das Dach mit einem Coffee-to-go-Becher, Dampf kräuselt sich über der leuchtenden Skyline (Attention). Sie nimmt einen Schluck, Augen geschlossen (Interest). Der Himmel verwandelt sich in leuchtende cyanfarbene Sternbilder, Augen weit vor Staunen — Enthüllung/Höhepunkt (Desire). Sterne lösen sich in goldenen Sonnenaufgang auf, selbstbewusstes Lächeln in die Kamera; Hero-Shot + Beauty-Pass auf den Becher (Kraftpapier-Manschette, silbernes Da Mayor-Burst-Icon, "Da Mayor"-Schriftzug, weißer gewölbter Deckel), Logo-Einblendung, Slogan "Da Mayor Coffee. Wake up to something bigger" VO (Action). Gleiches Charakter-/Becherdesign in jedem Frame, kein Drift; Ausdruck wechselt von schläfrig zu staunend zu warm. Beleuchtung: indigo blaue Stunde → cyanfarbenes Leuchten → 3200K goldene Stunde, volumetrischer Glanz. Kamera: Push-in → Orbit → Low-Angle Tilt-up Enthüllung → Hero-Orbit/Beauty-Pass, kein Handheld/keine Geschwindigkeitsrampen. Sound: Ambient-Ton, der bei der Enthüllung in ein orchestrales Anschwellen übergeht, warmer Ausklang, Foley für Dampf/Atem/Schlucken, VO bei Logo-Einblendung. Octane-Qualität, Subsurface Scattering, 8K-Texturen, filmische Tiefenschärfe, Filmkorn — wundervoll, hochwertig, vollständig animiert
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="3D-Kaffeewerbespot im Pixar-Stil">
-
-**[🎬 Video ansehen →](https://x.com/iam_damayor/status/2081448072706723933)**
-
-**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Quelle:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Veröffentlicht:** Jul 26, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -2780,6 +2780,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-05T08:03:27.998Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-05T14:37:42.313Z</sub>
 
 </div>

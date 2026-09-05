@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **235** |
+| 📝 Toplam İstem | **239** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-05** |
 
@@ -56,6 +56,88 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Gerçekçi AI Yüz Değiştirme Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Videolarda kusursuz yüz değiştirme işlemleri gerçekleştirmek için kullanılan, orijinal hareketi ve arka planı korurken gerçekçilik için ışıklandırmayı eşleştiren bir iş akışı istemi.
+
+#### 📝 İstem
+
+```
+Bu videodaki kişiyi referans görseldeki kişiyle değiştirin. Aynı hareketi, kafa hareketini, konuşmayı, kamera açısını ve arka planı koruyun. Kusursuz ve gerçekçi yüz değiştirme. Işıklandırmayı eşleştirin. Yüksek detay.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095908418649231360/img/Scv3L_bJM4K8xwxD.jpg" width="600" alt="Gerçekçi AI Yüz Değiştirme Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/___craig2x/status/2096164337400312189)**
+
+**Yazar:** [That Arsenal Guy](https://x.com/___craig2x) | **Kaynak:** [Link](https://x.com/___craig2x/status/2096164337400312189) | **Yayınlandı:** Sep 5, 2026
+
+---
+### Minyatür Köy Sel Tahliye Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Dev bir elin su basmış minyatür bir Avrupa köyüne su pompası yerleştirdiği, gerçekçi su fiziği ve minik işçilerin detaylı tepkilerini içeren sinematik bir makro video istemi.
+
+#### 📝 İstem
+
+```
+Tamamen sular altında kalmış dar ve eski bir Avrupa tarzı köy sokağının yer aldığı, sinematik ve hiper gerçekçi bir minyatür sahne oluşturun. Sarı güvenlik kaskları ve iş kıyafetleri giymiş düzinelerce minik inşaat işçisi, sular altındaki sokağın her iki yanında endişeli bir şekilde bekliyor.
+
+Yukarıdan gelen dev bir insan eli, küçük ve güçlü, turuncu-siyah bir su pompası tutuyor. El, pompayı dikkatlice sular altındaki sokağa yerleştiriyor. Pompa çalışmaya başlıyor ve suyu hızla tahliye ederek gerçekçi dalgalanmalar, girdaplar ve su sıçramaları yaratıyor. Su seviyesi düştükçe, ıslak kaldırım taşları yavaş yavaş görünür hale geliyor.
+
+Sokak sular altındaki bir yoldan kuru bir kaldırım yoluna dönüşürken minik işçiler heyecan ve rahatlama tepkileri veriyor. Dev el, makine ve minyatür insanlar arasındaki ölçek farkını güçlü bir şekilde koruyun.
+
+Dikey 9:16 kompozisyon, makro fotoğrafçılık, sığ alan derinliği, gerçekçi su fiziği, detaylı minyatür karakterler, sinematik aydınlatma, gerçekçi dokular, akıcı kamera hareketi, yüksek detay, fotogerçekçi, tatmin edici dönüşüm, 4K, metin yok, altyazı yok.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096141092152619008/img/-0EP6u5EztZ-R0zC.jpg" width="600" alt="Minyatür Köy Sel Tahliye Sahnesi">
+
+**[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2096141138986185150)**
+
+**Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2096141138986185150) | **Yayınlandı:** Sep 5, 2026
+
+---
+### Hakka Usulü Kızarmış Tofu Yemek Videosu İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Geleneksel Hakka Usulü Kızarmış Tofu yapım sürecini konu alan, 40 saniyelik üst düzey bir yemek reklamı için kapsamlı ve profesyonel bir ticari istem.
+
+#### 📝 İstem
+
+```
+Filmin tamamı için birleşik gereksinimler: Her biri 10 saniyelik dört ayrı bölüm, 9:16 dikey ekran, 4K ultra gerçekçi üst düzey Hakka mutfağı reklam kalitesi, 24 kare sinematik his. Tutarlı bir şekilde sıcak ve doğal geleneksel Hakka eski mutfak ortamı, koyu renkli ahşap tezgah, sıcak yan-arka aydınlatma ve sığ alan derinlikli makro çekim kullanın. Dört bölümdeki tüm tofu parçaları tutarlı kalmalıdır: Geleneksel Hakka eski usul tofu, sıcak tonlu süt beyazı, hafif doğal fasulye gözeneklerine sahip ince dokulu, düzgün kalın dikdörtgen bloklar halinde kesilmiş; yumuşak tofu, ipeksi tofu, Japon tofusu, yumurta tofusu, peynir veya ekmeğe dönüşmemelidir. Et dolgusu her zaman aynı taze domuz etini kullanmalı, doğal yağ-yağsız oranına sahip olmalı, belirgin et tanelerini ve gerçekçi rengi korumalıdır. Tüm doldurulmuş tofuların boyutu, şekli, et dolgusu miktarı ve kızarma rengi sürekli ve birleşik olmalıdır. Görseller sadece malzemeleri, şefin ellerini ve pişirme gereçlerini göstermeli, yüz görünmemelidir. Altyazı, metin, marka logoları, filigranlar, ambalaj poşetleri ve platform arayüzleri yasaktır. Bölüm 1 (0—10 sn): Seçilmiş Soya Fasulyesi ve Geleneksel Taş Değirmen Soya Sütü. İstemi: 10 saniyelik, 9:16 dikey, 4K ultra gerçekçi üst düzey Hakka mutfağı reklam videosu oluşturun. Hakka Usulü Doldurulmuş Tofu yapımının ilk adımını gösterin: soya fasulyesi seçimi ve ince soya sütünü öğütmek için geleneksel granit taş değirmen kullanımı. 0—2 sn: Geleneksel bir Hakka mutfağında sıcak sabah ışığı. Açık renkli bir bambu elek, dolgun, düzgün soluk altın sarısı soya fasulyesi ile dolu. Kamera, dokuyu ve taze parlaklığı göstermek için fasulyelere yaklaşır. 2—4 sn: Temiz, doğal bir el nazikçe soya fasulyelerini karıştırır ve seçer. Soya fasulyeleri siyahlaşmamalı, küflenmemeli, çatlamamalı veya mısır, fıstık ya da kahve çekirdeğine dönüşmemelidir. 4—6 sn: Geleneksel dairesel granit taş değirmene geçiş. Islatılmış soya fasulyeleri ve su girişe eklenir, şef değirmen taşını iter. 6—8 sn: Boşluktan süt beyazı soya sütü akar. Doku ince ve pürüzsüzdür. 8—10 sn: 85 mm makro lens sütü bir kovaya kadar takip eder. Sıcak yan-arka aydınlatma, doğal buhar. Bağlantı: Son kare soya sütünün yakın çekimini gösterir. Bölüm 2 aynı tofu partisini kullanır. Bölüm 2 (10—20 sn): Elle Et Dolgusu Doğrama ve Doldurma. İstemi: 10 saniyelik, 9:16 dikey, 4K ultra gerçekçi üst düzey Hakka mutfağı reklam videosu oluşturun. Taze domuz etinin elle doğranmasını, tofuların kesilmesini ve et dolgusunun doldurulmasını gösterin. 0—2 sn: Koyu renkli ahşap tahta üzerinde taze domuz omzu. 2—4 sn: Belirgin taneleri koruyarak ritmik elle doğrama. 4—5 sn: Eti bıçakla toplama, görünür taze soğan parçaları. 5—7 sn: Tofuların 4x3x2.5 cm bloklar halinde kesilmesi. Merkezde bir oluk açılması. 7—9 sn: Çubuk kullanarak etin doldurulması. 9-10 sn: Düzgünce dizilmiş doldurulmuş tofuların üzerinden geçiş. 50 mm ve 85 mm makro lens kullanın. Kesinlikle Kaçının: Et kıyma makineleri, etin başka ürünlere dönüşmesi, otomatik oyma, farklı şekiller, jöle benzeri tofu. Bağlantı: Son kare dizilmiş tofuları gösterir. Bölüm 3 (20—30 sn): Kızartma ve Soslama. İstemi: 10 saniyelik, 9:16 dikey, 4K ultra gerçekçi üst düzey Hakka mutfağı reklam videosu oluşturun. Et tarafının kızartılmasını, tofuların her iki tarafının mühürlenmesini ve siyah demir bir tavada kendi suyunda soslanmasını gösterin. 0—2 sn: Tavayı yağla ısıtın, tofuları etli tarafı aşağı gelecek şekilde yerleştirin. 2—4 sn: Et tarafı altın kahverengi olana kadar kızartın. 4—6 sn: Her iki tarafı da kızartın. 6—8 sn: Kehribar rengi sosu dökün. 8—9 sn: Sosun içinde ağır ağır pişirin. 9—10 sn: Spatula ile bir parçayı kaldırın. Kesinlikle Kaçının: Derin yağda kızartma, yakma, etin düşmesi, yanlış sos renkleri. Bağlantı: Koyu kahverengimsi siyah bir güvece aktarın. Bölüm 4 (30—40 sn): Güveçte Pişirme ve Hero Shot. İstemi: 10 saniyelik, 9:16 dikey, 4K ultra gerçekçi üst düzey Hakka mutfağı reklam videosu oluşturun. Güvece aktarımı, ağır ağır pişmeyi, taze soğan eklemeyi ve kaşıkla bir hero shot çekimini gösterin. 0—2 sn: Kehribar rengi sos içinde ağır ağır pişen tofu, yükselen buhar. 2—4 sn: Tofuları çubukla düzeltme. 4—5 sn: Yeşil taze soğan serpme. 5—7 sn: Gümüş kaşıkla bir parçayı kaldırma. 7—9 sn: Dokuları ve sosu gösteren 85 mm makro hero shot. 9—10 sn: Kamera son çekim için geri çekilir. Kesinlikle Kaçının: Tencere değişimi, şekil değişiklikleri, farklı yiyecekler, etin düşmesi, çok fazla sos, kömürleşmiş tofu, fazladan parmaklar, kullanıcı arayüzü öğeleri.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096067905817628672/img/tKXsWCbLMzQrwJkm.jpg" width="600" alt="Hakka Usulü Kızarmış Tofu Yemek Videosu İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/7998l201/status/2096067992702566499)**
+
+**Yazar:** [Ryan](https://x.com/7998l201) | **Kaynak:** [Link](https://x.com/7998l201/status/2096067992702566499) | **Yayınlandı:** Sep 5, 2026
+
+---
+### Dijital Çizim Hızlandırılmış Video İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Boş bir tuvalden tamamen işlenmiş bir karaktere kadar olan süreci ve görünür kullanıcı arayüzü etkileşimlerini gösteren, 15 saniyelik yüksek hızlı dijital çizim hızlandırılmış video oluşturmaya yönelik ayrıntılı bir istem.
+
+#### 📝 İstem
+
+```
+Profesyonel bir dijital çizim ve karakter tasarımı arayüzünde, 15 saniyelik hızlı bir karakter oluşturma hızlandırılmış videosu oluşturun. Sağlanan karakter referansını yalnızca görünüm, oranlar ve saç stili için nihai hedef olarak kullanın. Süreç boş bir tuvalden başlamalı ve karakteri sıfırdan yeniden oluşturmalıdır. Süreci aktif olarak kontrol eden görünür bir fare imleci gösterin. 0:00-0:02 Boş bir tuvalle başlayın; imleç gevşek bir yapı ve temel poz oluşturur. 0:02-0:05 Hızlandırılmış detaylı eskiz aşaması. 0:05-0:08 Temiz çizgi sanatına geçiş. 0:08-0:11 Gölgelendirme ve vurgularla hızlı renklendirme aşaması. 0:11-0:13 Yakınlaştırmalarla işleme ve parlatma. 0:13-0:15 Kullanıcı arayüzü temizlenerek referansla eşleşen tamamen işlenmiş karakteri gösterir. Stil: Yüksek hızlı dijital sanat hızlandırılmış çekimi, profesyonel iş akışı arayüzü, akıcı imleç hareketleri. Hareket: Sürekli ve verimli. Kamera: Hafif yakınlaştırmalı ekran kaydı stili. Önemli: Karakter anında belirmemeli; her aşama bir öncekinin üzerinde görünür bir şekilde inşa edilmelidir.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095770843024670720/img/zuMlz3_pPRGYAL7U.jpg" width="600" alt="Dijital Çizim Hızlandırılmış Video İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/mushengziyue/status/2095770916068164050)**
+
+**Yazar:** [ailth](https://x.com/mushengziyue) | **Kaynak:** [Link](https://x.com/mushengziyue/status/2095770916068164050) | **Yayınlandı:** Sep 4, 2026
+
+---
 ### Premium İtalyan Spagetti Reklamı Storyboard'u
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2646,92 +2728,6 @@ Kamera bulut tabakasının içinden hızla ve alçaktan uçuyor, ardından yüze
 **Yazar:** [麻酱AI实验室](https://x.com/zhongying14) | **Kaynak:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Yayınlandı:** Jul 27, 2026
 
 ---
-### Büyülü Gül Buketi Fırlatma Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bu detaylı komut, referans görselinizi, bir öznenin gül buketini fırlattığı ve buketin parlayan parçacıklar ile kaligrafiye dönüştüğü büyülü bir sahneye dönüştürür.
-
-#### 📝 İstem
-
-```
-Referans görseli tam olarak temel alın. Yüzünü, yüz hatlarını, cilt tonunu, saçını veya ifadesini hiçbir şekilde değiştirmeyin.
-
-Sahneyi, özne dinamik bir şekilde parıldayan kırmızı gül buketini izleyiciye doğru fırlatacak şekilde dönüştürün. Güller, havayı dolduran parlayan büyülü parçacıklara, uçuşan taç yapraklara ve altın-kırmızı ışık izlerine dönüşsün.
-
-Uçuşan güllerin ve ışığın tam merkezinde, zarif ve parlayan bir kaligrafiyle “Believe in Magic” (Büyüye İnan) yazan yumuşak, büyülü bir metin belirmesini sağlayın. Büyülü gül bahçesi arka planını koruyun; sinematik, dikkat çekici ve büyülü bir atmosfer için daha fazla parlayan ışık ve uçuşan gül yaprağı ekleyin. Fotogerçekçi, yüksek detaylı, canlı kırmızılar ve yumuşak altın rengi ışıltı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="Büyülü Gül Buketi Fırlatma Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/amynys/status/2081681005073825820)**
-
-**Yazar:** [Amy G](https://x.com/amynys) | **Kaynak:** [Link](https://x.com/amynys/status/2081681005073825820) | **Yayınlandı:** Jul 27, 2026
-
----
-### Makro Yanardöner Bal ASMR Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Cam üzerine damlayan balın gerçekçi yansımalarla makro sinematik ASMR çekimini oluşturmak için 10 saniyelik detaylı video istemi.
-
-#### 📝 İstem
-
-```
-Ultra makro sinematik ASMR videosu, 10 saniye. Şeffaf kristal bir petekten cam tabağa yavaşça damlayan yanardöner bal. Yüzeyde dans eden minik gökkuşağı yansımaları. Aşırı yakın çekim, sığ alan derinliği, 4K gerçekçilik. ASMR sesleri: yoğun balın uzaması, narin damlaların düşüşü, hafif cam rezonansı, yumuşak ortam sessizliği. Pürüzsüz ağır çekim kamera hareketi, büyüleyici ve rahatlatıcı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Makro Yanardöner Bal ASMR Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2081634357060726896)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **Yayınlandı:** Jul 27, 2026
-
----
-### Lüks Saat Reklamı Çekim Listesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Makro açılar, akıcı kamera rotasyonları ve hassas ışıklandırma tanımları içeren, profesyonel lüks ürün reklamları oluşturmaya yönelik detaylı, çekim çekim bir istem.
-
-#### 📝 İstem
-
-```
-saniye kolu ilerlerken kadran üzerinde ekstrem makro çekim
-
-kenar ışıklandırmasıyla parlatılmış kasa üzerinde yavaş bir rotasyon
-
-tepe ve butonlar üzerinde sert ışıklandırılmış yan çekim
-
-kapanış için sabitlenmiş, yukarıdan aşağıya doğru bir ana ürün çekimi
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="Lüks Saat Reklamı Çekim Listesi">
-
-**[🎬 Videoyu izle →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
-
-**Yazar:** [Hex Horizon](https://x.com/Noderunner_Hex) | **Kaynak:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **Yayınlandı:** Jul 26, 2026
-
----
-### Pixar Tarzı 3D Kahve Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Pixar benzeri estetiğe sahip, stilize edilmiş bir 3D kahve reklamı için; mavi saat ışığından altın saate geçişleri ve karakter tutarlılığı ipuçlarını detaylandıran kapsamlı bir video istemi.
-
-#### 📝 İstem
-
-```
-10 saniye, 9:16, Da Mayor Coffee için stilize Pixar tarzı 3D reklam. Genç kadın, buğday tenli, omuz hizasında dalgalı koyu saçlar, büyük beden krem rengi örgü kazak, altın yüzük — şafak öncesi mavi saatte elinde karton kahve bardağıyla çatıya çıkar, parlayan şehir silüeti üzerinde yükselen buhar (Dikkat). Bir yudum alır, gözleri kapalı (İlgi). Gökyüzü parlayan camgöbeği takımyıldızlara dönüşür, gözleri hayranlıkla açılır — ortaya çıkış/zirve (Arzu). Yıldızlar altın sarısı gün doğumuna dönüşür, kameraya kendinden emin bir gülümseme; kahraman çekimi + bardak için güzellik odaklı çekim (kraft kılıf, gümüş Da Mayor patlama ikonu, "Da Mayor" yazı logosu, beyaz kubbe kapak), logo kapanışı, "Da Mayor Coffee. Güne daha büyük bir şeyle uyan" sloganı ile dış ses (Eylem). Her karede aynı karakter/bardak tasarımı, kayma yok; ifade uykulu→hayranlık→sıcak şeklinde değişir. Işık: çivit mavisi saat → camgöbeği parıltı → 3200K altın saat, hacimsel ışık. Kamera: ileri itme → yörünge → düşük açılı yukarı eğimle ortaya çıkarma → kahraman yörüngesi/güzellik çekimi, el kamerası/hız rampası yok. Ses: ortaya çıkış anında orkestral bir yükselişe geçen ortam tonu, sıcak bir bitiş, buhar/nefes/yudum efektleri, kapanışta dış ses. Octane kalitesi, yüzey altı saçılma, 8K dokular, sinematik alan derinliği, film greni — büyüleyici, premium, tamamen animasyonlu
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="Pixar Tarzı 3D Kahve Reklamı">
-
-**[🎬 Videoyu izle →](https://x.com/iam_damayor/status/2081448072706723933)**
-
-**Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Yayınlandı:** Jul 26, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -2784,6 +2780,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-05T08:03:32.365Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-05T14:37:47.913Z</sub>
 
 </div>

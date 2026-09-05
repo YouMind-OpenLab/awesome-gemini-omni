@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **235** |
+| 📝 Total Prompts | **239** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-05** |
 
@@ -56,6 +56,88 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Realistic AI Face Swap Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A workflow prompt for performing seamless face swaps in videos, maintaining original motion and background while matching lighting for realism.
+
+#### 📝 Prompt
+
+```
+Replace the person in this video with the person in the reference image. Keep the same motion, head movement, talking, camera, and background. Seamless realistic face swap. Match lighting. High detail.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095908418649231360/img/Scv3L_bJM4K8xwxD.jpg" width="600" alt="Realistic AI Face Swap Video">
+
+**[🎬 Watch Video →](https://x.com/___craig2x/status/2096164337400312189)**
+
+**Author:** [That Arsenal Guy](https://x.com/___craig2x) | **Source:** [Link](https://x.com/___craig2x/status/2096164337400312189) | **Published:** Sep 5, 2026
+
+---
+### Miniature Village Flood Drainage Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic macro video prompt describing a giant hand placing a water pump into a flooded miniature European village, creating realistic water physics and detailed reactions from tiny workers.
+
+#### 📝 Prompt
+
+```
+Create a cinematic hyper-realistic miniature scene of a narrow old European-style village street completely flooded with water. Dozens of tiny construction workers wearing yellow safety helmets and work clothes are standing and sitting along both sides of the flooded street, looking worried and waiting for help.
+
+A giant human hand enters from above holding a small powerful orange-and-black water pump machine. The hand carefully places the pump into the flooded street. The pump starts working and rapidly drains the water, creating realistic ripples, swirling currents and splashing water. As the water level drops, the wet cobblestone road gradually becomes visible.
+
+The tiny workers react with excitement and relief as the street transforms from a flooded road into a dry cobblestone street. Maintain a strong scale contrast between the giant hand, machine, and miniature people.
+
+Vertical 9:16 composition, macro photography, shallow depth of field, realistic water physics, detailed miniature characters, cinematic lighting, realistic textures, smooth camera movement, highly detailed, photorealistic, satisfying transformation, 4K, no text, no subtitles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096141092152619008/img/-0EP6u5EztZ-R0zC.jpg" width="600" alt="Miniature Village Flood Drainage Scene">
+
+**[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2096141138986185150)**
+
+**Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2096141138986185150) | **Published:** Sep 5, 2026
+
+---
+### Hakka Braised Tofu Culinary Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A comprehensive professional commercial prompt for a 40-second high-end food advertisement featuring the traditional process of making Hakka Braised Tofu.
+
+#### 📝 Prompt
+
+```
+Unified requirements for the entire film: Four segments are generated separately, 10 seconds each, 9:16 vertical screen, 4K ultra-realistic high-end Hakka cuisine commercial quality, 24-frame cinematic feel. Consistently use a warm and natural traditional Hakka old kitchen environment, dark wooden countertop, warm side-backlighting, and shallow depth-of-field macro photography. Tofu in all four segments must remain unified: traditional Hakka old tofu, milky white with warm tones, fine texture with slight natural bean pores, cut into uniform thick rectangular blocks; must not turn into soft tofu, silken tofu, Japanese tofu, egg tofu, cheese, or bread. Meat filling always uses the same fresh pork, with a natural fat-to-lean ratio, preserving clear meat grains and realistic color. All stuffed tofu size, shape, meat filling quantity, and searing color must be continuous and unified. The visuals only show ingredients, chef's hands, and cooking utensils, no face. Prohibit subtitles, text, brand logos, watermarks, packaging bags, and platform interfaces. Segment 1 (0—10s): Selected Soybeans and Traditional Stone-ground Soy Milk. Prompt: Generate a 10-second, 9:16 vertical, 4K ultra-realistic high-end Hakka cuisine commercial video. Show the first step of making Hakka Stuffed Tofu: selecting soybeans and using a traditional granite stone mill to grind fine soy milk. 0—2s: Warm morning light in a traditional Hakka kitchen. A light-colored bamboo sieve is filled with plump, uniform pale golden-yellow soybeans. Camera moves close to the beans, showing texture and fresh luster. 2—4s: A clean, natural hand gently stirs and picks soybeans. Soybeans must not turn black, moldy, crack, or become corn, peanuts, or coffee beans. 4—6s: Transition to traditional circular granite stone mill. Soaked soybeans and water added to the inlet, chef pushes the millstone. 6—8s: Milky white soy milk flows from the gap. Texture is fine and smooth. 8—10s: 85mm macro follows the milk into a bucket. Warm side-backlighting, natural steam. Connection: Last frame shows soy milk close-up. Segment 2 uses the same batch of tofu. Segment 2 (10—20s): Hand-chopping Meat Filling and Stuffing. Prompt: Generate a 10-second, 9:16 vertical, 4K ultra-realistic high-end Hakka cuisine commercial video. Show hand-chopping fresh pork, cutting tofu, and stuffing meat filling. 0—2s: Fresh pork shoulder on a dark wood board. 2—4s: Rhythmic hand-chopping, preserving clear grains. 4—5s: Gathering meat with a knife, visible scallion bits. 5—7s: Tofu cut into 4x3x2.5cm blocks. Digging a groove in the center. 7—9s: Filling meat using chopsticks. 9-10s: Panning across neatly arranged stuffed tofu. Use 50mm and 85mm macro. Strictly Avoid: Meat grinders, meat turning into other products, auto-digging, different shapes, jelly-like tofu. Connection: Last frame shows arranged tofu. Segment 3 (20—30s): Searing and Braising. Prompt: Generate a 10-second, 9:16 vertical, 4K ultra-realistic high-end Hakka cuisine commercial video. Show searing meat side, both sides of tofu, and braising in original juice using a black iron pot. 0—2s: Heat pot with oil, place tofu meat-side down. 2—4s: Meat side seared to golden-brown. 4—6s: Searing both sides. 6—8s: Pouring amber sauce. 8—9s: Simmering in juice. 9—10s: Spatula lifting one piece. Strictly Avoid: Deep frying, burning, meat falling out, wrong sauce colors. Connection: Transfer to a dark brownish-black clay pot. Segment 4 (30—40s): Clay Pot Simmering and Hero Shot. Prompt: Generate a 10-second, 9:16 vertical, 4K ultra-realistic high-end Hakka cuisine commercial video. Show transfer to clay pot, simmering, adding scallions, and a hero shot with a spoon. 0—2s: Tofu simmering in amber juice, steam rising. 2—4s: Adjusting tofu with chopsticks. 4—5s: Sprinkling green scallions. 5—7s: Silver spoon lifting a piece. 7—9s: 85mm macro hero shot showing textures and juice. 9—10s: Camera pulls back for final shot. Strictly Avoid: Changing pot, shape changes, different food items, meat falling, too much sauce, charcoal tofu, extra fingers, UI elements.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096067905817628672/img/tKXsWCbLMzQrwJkm.jpg" width="600" alt="Hakka Braised Tofu Culinary Video Prompt">
+
+**[🎬 Watch Video →](https://x.com/7998l201/status/2096067992702566499)**
+
+**Author:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2096067992702566499) | **Published:** Sep 5, 2026
+
+---
+### Digital Drawing Timelapse Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed prompt for creating a 15-second high-speed digital drawing timelapse, showing the process from a blank canvas to a fully rendered character with visible UI interactions.
+
+#### 📝 Prompt
+
+```
+In a professional digital drawing and character design interface, create a 15-second fast-paced character creation timelapse. Use the provided character reference only as the final goal for appearance, proportions, and hairstyle. The process must start from a blank canvas and rebuild the character from scratch. Show a visible mouse cursor actively controlling the process. 0:00-0:02 Start with a blank canvas; cursor creates loose structure and basic pose. 0:02-0:05 Accelerated detailed sketch stage. 0:05-0:08 Transition to clean line art. 0:08-0:11 Rapid coloring stage with shading and highlights. 0:11-0:13 Rendering and polishing with zooms. 0:13-0:15 UI clears to show fully rendered character matching the reference. Style: High-speed digital art timelapse, professional workflow UI, smooth cursor movements. Motion: Continuous and efficient. Camera: Screen recording style with subtle zooms. Important: Character must not appear instantly; each stage must build visibly on the previous one.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095770843024670720/img/zuMlz3_pPRGYAL7U.jpg" width="600" alt="Digital Drawing Timelapse Video Prompt">
+
+**[🎬 Watch Video →](https://x.com/mushengziyue/status/2095770916068164050)**
+
+**Author:** [ailth](https://x.com/mushengziyue) | **Source:** [Link](https://x.com/mushengziyue/status/2095770916068164050) | **Published:** Sep 4, 2026
+
+---
 ### Premium Italian Spaghetti Commercial Storyboard
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2558,88 +2640,6 @@ Camera flying fast and low through cloud layer, then bursts through into a float
 **Author:** [麻酱AI实验室](https://x.com/zhongying14) | **Source:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Published:** Jul 27, 2026
 
 ---
-### Magical Rose Bouquet Throw Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> This detailed prompt transforms a reference image into a magical scene where a subject throws a bouquet of roses that burst into glowing particles and calligraphy.
-
-#### 📝 Prompt
-
-```
-Use the referenced image as the exact base. Do not change her face, facial features, skin tone, hair, or expression in any way.\n\nTransform the scene so she is dynamically throwing the bouquet of sparkling red roses toward the viewer. The roses burst into glowing magical particles, floating petals, and trails of golden-red light that fill the air. \n\nSoft magical text “Believe in Magic” materializes in elegant glowing calligraphy right in the center of the flying roses and light. Keep the enchanted rose-garden background, add more sparkling lights and floating rose petals for a cinematic, eye-catching, magical atmosphere. Photorealistic, high detail, vibrant reds and soft golden glow.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="Magical Rose Bouquet Throw Video">
-
-**[🎬 Watch Video →](https://x.com/amynys/status/2081681005073825820)**
-
-**Author:** [Amy G](https://x.com/amynys) | **Source:** [Link](https://x.com/amynys/status/2081681005073825820) | **Published:** Jul 27, 2026
-
----
-### Cinematic ASMR Liquid Honey Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An immersive ASMR video prompt that creates a high-quality 4K macro shot of iridescent honey dripping onto a glass plate, complete with detailed sound descriptions for a relaxing effect.
-
-#### 📝 Prompt
-
-```
-Ultra-macro cinematic ASMR video, 10 seconds. A transparent crystal honeycomb slowly drips iridescent honey onto a glass plate. Tiny rainbow reflections dance across the surface. Extreme close-up, shallow depth of field, 4K realism. ASMR sounds: thick honey stretching, delicate droplets landing, subtle glass resonance, soft ambient silence. Smooth slow-motion camera movement, mesmerizing and relaxing.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Cinematic ASMR Liquid Honey Video">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2081634357060726896)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **Published:** Jul 27, 2026
-
----
-### Luxury Watch Commercial Shot List
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed shot-by-shot prompt for creating professional luxury product advertisements, featuring macro angles, smooth camera rotations, and precise lighting descriptions.
-
-#### 📝 Prompt
-
-```
-extreme macro on the dial as the second hand sweeps in
-
-a slow rotation across the polished case with rim lighting
-
-a hard-lit side shot on the crown and pushers
-
-a locked top-down hero shot to close
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="Luxury Watch Commercial Shot List">
-
-**[🎬 Watch Video →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
-
-**Author:** [Hex Horizon](https://x.com/Noderunner_Hex) | **Source:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **Published:** Jul 26, 2026
-
----
-### Pixar-Style 3D Coffee Commercial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A comprehensive video prompt for a stylized 3D coffee commercial with Pixar-like aesthetics, detailing specific transitions from blue-hour lighting to golden hour and character consistency cues.
-
-#### 📝 Prompt
-
-```
-10s, 9:16 stylized Pixar-style 3D commercial for Da Mayor Coffee. Young woman, tan skin, dark shoulder-length waves, oversized cream knit sweater, gold ring — steps onto rooftop at pre-dawn blue hour with charcoal to-go cup, steam curling over glowing skyline (Attention). Sips, eyes closed (Interest). Sky ripples into glowing cyan constellations, eyes wide with wonder — reveal/peak (Desire). Stars dissolve into golden sunrise, confident smile to camera; hero shot + beauty pass on cup (kraft sleeve, silver Da Mayor-burst icon, "Da Mayor" wordmark, white dome lid), logo lockup, tagline "Da Mayor Coffee. Wake up to something bigger" VO (Action). Same character/cup design every frame, no drift; expression shifts sleepy→awe→warm. Lighting: indigo blue-hour → cyan bloom → 3200K golden hour, volumetric glow. Camera: push-in → orbit → low-angle tilt-up reveal → hero orbit/beauty pass, no handheld/speed ramps. Sound: ambient tone rising into orchestral swell at reveal, warm resolve, steam/breath/sip foley, VO on lockup. Octane-quality, subsurface scattering, 8K textures, cinematic DOF, film grain — wondrous, premium, fully animated
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="Pixar-Style 3D Coffee Commercial">
-
-**[🎬 Watch Video →](https://x.com/iam_damayor/status/2081448072706723933)**
-
-**Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Published:** Jul 26, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2692,6 +2692,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T08:03:16.801Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-05T14:37:30.647Z</sub>
 
 </div>

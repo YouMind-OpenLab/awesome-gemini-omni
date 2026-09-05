@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **235** |
+| 📝 Tổng số prompt | **239** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-05** |
 
@@ -56,6 +56,88 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video hoán đổi khuôn mặt bằng AI chân thực
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một workflow prompt để thực hiện hoán đổi khuôn mặt liền mạch trong video, duy trì chuyển động và hậu cảnh gốc đồng thời khớp ánh sáng để đạt độ chân thực cao.
+
+#### 📝 Prompt
+
+```
+Thay thế nhân vật trong video này bằng người trong ảnh tham chiếu. Giữ nguyên chuyển động, cử động đầu, lời nói, góc máy và hậu cảnh. Hoán đổi khuôn mặt chân thực, liền mạch. Khớp ánh sáng. Chi tiết cao.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095908418649231360/img/Scv3L_bJM4K8xwxD.jpg" width="600" alt="Video hoán đổi khuôn mặt bằng AI chân thực">
+
+**[🎬 Xem video →](https://x.com/___craig2x/status/2096164337400312189)**
+
+**Tác giả:** [That Arsenal Guy](https://x.com/___craig2x) | **Nguồn:** [Link](https://x.com/___craig2x/status/2096164337400312189) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Cảnh thoát nước lũ tại ngôi làng mô hình
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video macro đậm chất điện ảnh mô tả một bàn tay khổng lồ đang đặt máy bơm nước vào một ngôi làng châu Âu mô hình bị ngập lụt, tạo ra hiệu ứng vật lý nước chân thực và phản ứng chi tiết từ những công nhân tí hon.
+
+#### 📝 Prompt
+
+```
+Tạo một cảnh quay mô hình siêu thực đậm chất điện ảnh về một con phố nhỏ trong ngôi làng kiểu châu Âu cổ kính đang bị ngập lụt hoàn toàn. Hàng chục công nhân xây dựng tí hon đội mũ bảo hộ màu vàng và mặc quần áo bảo hộ đang đứng và ngồi dọc hai bên con phố bị ngập, vẻ mặt lo lắng và chờ đợi sự giúp đỡ.
+
+Một bàn tay người khổng lồ xuất hiện từ phía trên, cầm một chiếc máy bơm nước nhỏ màu cam đen đầy uy lực. Bàn tay cẩn thận đặt máy bơm xuống con phố đang ngập nước. Máy bơm bắt đầu hoạt động và nhanh chóng hút cạn nước, tạo ra những gợn sóng, dòng xoáy và tia nước bắn tung tóe đầy chân thực. Khi mực nước rút dần, con đường lát đá cuội ướt át bắt đầu lộ diện.
+
+Các công nhân tí hon phản ứng đầy phấn khích và nhẹ nhõm khi con phố chuyển từ cảnh ngập lụt sang con đường lát đá khô ráo. Duy trì sự tương phản quy mô rõ rệt giữa bàn tay khổng lồ, cỗ máy và những nhân vật tí hon.
+
+Bố cục dọc 9:16, nhiếp ảnh macro, độ sâu trường ảnh nông, vật lý nước chân thực, nhân vật mô hình chi tiết, ánh sáng điện ảnh, kết cấu chân thực, chuyển động camera mượt mà, độ chi tiết cao, ảnh thực tế, sự biến đổi mãn nhãn, 4K, không văn bản, không phụ đề.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096141092152619008/img/-0EP6u5EztZ-R0zC.jpg" width="600" alt="Cảnh thoát nước lũ tại ngôi làng mô hình">
+
+**[🎬 Xem video →](https://x.com/AiwithBloodline/status/2096141138986185150)**
+
+**Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2096141138986185150) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Prompt video ẩm thực Đậu phụ nhồi thịt kiểu Khách Gia
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một bản prompt thương mại chuyên nghiệp toàn diện cho video quảng cáo ẩm thực cao cấp dài 40 giây, mô tả quy trình chế biến món Đậu phụ nhồi thịt kiểu Khách Gia truyền thống.
+
+#### 📝 Prompt
+
+```
+Yêu cầu thống nhất cho toàn bộ phim: Chia làm 4 phân đoạn, mỗi đoạn 10 giây, khung hình dọc 9:16, chất lượng quảng cáo ẩm thực Khách Gia cao cấp siêu thực 4K, cảm giác điện ảnh 24 khung hình/giây. Duy trì nhất quán bối cảnh bếp cũ kiểu Khách Gia ấm áp và tự nhiên, mặt bàn gỗ tối màu, ánh sáng ngược từ bên cạnh ấm áp, và kỹ thuật chụp macro với độ sâu trường ảnh nông. Đậu phụ trong cả 4 phân đoạn phải đồng nhất: đậu phụ cũ kiểu Khách Gia truyền thống, màu trắng sữa với tông ấm, kết cấu mịn với lỗ đậu tự nhiên, cắt thành các khối hình chữ nhật dày đều nhau; tuyệt đối không biến thành đậu phụ mềm, đậu phụ non, đậu phụ Nhật, đậu phụ trứng, phô mai hoặc bánh mì. Nhân thịt luôn sử dụng cùng loại thịt heo tươi, tỷ lệ nạc mỡ tự nhiên, giữ được thớ thịt rõ ràng và màu sắc chân thực. Kích thước, hình dáng, lượng nhân thịt và màu sắc áp chảo của tất cả đậu phụ nhồi phải liên tục và đồng nhất. Hình ảnh chỉ hiển thị nguyên liệu, bàn tay đầu bếp và dụng cụ nấu nướng, không lộ mặt. Nghiêm cấm phụ đề, văn bản, logo thương hiệu, hình mờ, túi bao bì và giao diện nền tảng. Phân đoạn 1 (0—10 giây): Chọn đậu nành và sữa đậu nành xay đá truyền thống. Prompt: Tạo video quảng cáo ẩm thực Khách Gia cao cấp siêu thực 4K, khung hình dọc 9:16, dài 10 giây. Hiển thị bước đầu tiên của việc làm Đậu phụ nhồi thịt kiểu Khách Gia: chọn đậu nành và sử dụng cối xay đá granite truyền thống để xay sữa đậu nành mịn. 0—2 giây: Ánh sáng buổi sáng ấm áp trong căn bếp Khách Gia truyền thống. Một chiếc sàng tre màu sáng chứa đầy đậu nành vàng nhạt, mẩy và đều. Camera di chuyển sát vào hạt đậu, cho thấy kết cấu và độ bóng tươi mới. 2—4 giây: Một bàn tay sạch sẽ, tự nhiên nhẹ nhàng đảo và chọn đậu nành. Đậu nành không được chuyển sang màu đen, mốc, nứt, hoặc biến thành ngô, đậu phộng hay hạt cà phê. 4—6 giây: Chuyển sang cối xay đá granite tròn truyền thống. Đậu nành đã ngâm và nước được thêm vào miệng cối, đầu bếp đẩy cối xay. 6—8 giây: Sữa đậu nành trắng sữa chảy ra từ khe cối. Kết cấu mịn và mượt. 8—10 giây: Macro 85mm theo dòng sữa chảy vào xô. Ánh sáng ngược bên cạnh ấm áp, hơi nước tự nhiên. Kết nối: Khung hình cuối hiển thị cận cảnh sữa đậu nành. Phân đoạn 2 sử dụng cùng mẻ đậu phụ. Phân đoạn 2 (10—20 giây): Băm nhân thịt bằng tay và nhồi đậu. Prompt: Tạo video quảng cáo ẩm thực Khách Gia cao cấp siêu thực 4K, khung hình dọc 9:16, dài 10 giây. Hiển thị cảnh băm thịt heo tươi bằng tay, cắt đậu phụ và nhồi nhân thịt. 0—2 giây: Thịt vai heo tươi trên thớt gỗ tối màu. 2—4 giây: Băm thịt nhịp nhàng bằng tay, giữ được thớ thịt rõ ràng. 4—5 giây: Gom thịt bằng dao, nhìn thấy những mẩu hành lá. 5—7 giây: Đậu phụ cắt thành khối 4x3x2,5cm. Khoét một rãnh ở giữa. 7—9 giây: Nhồi thịt bằng đũa. 9—10 giây: Lia máy qua các miếng đậu phụ nhồi được xếp gọn gàng. Sử dụng macro 50mm và 85mm. Nghiêm cấm: Máy xay thịt, thịt biến thành sản phẩm khác, tự động khoét rãnh, hình dạng khác biệt, đậu phụ giống thạch. Kết nối: Khung hình cuối hiển thị đậu phụ đã xếp. Phân đoạn 3 (20—30 giây): Áp chảo và om. Prompt: Tạo video quảng cáo ẩm thực Khách Gia cao cấp siêu thực 4K, khung hình dọc 9:16, dài 10 giây. Hiển thị cảnh áp chảo mặt thịt, cả hai mặt đậu phụ và om trong nước sốt nguyên bản bằng chảo sắt đen. 0—2 giây: Làm nóng chảo với dầu, đặt mặt thịt đậu phụ xuống dưới. 2—4 giây: Mặt thịt được áp chảo vàng nâu. 4—6 giây: Áp chảo cả hai mặt. 6—8 giây: Đổ nước sốt màu hổ phách. 8—9 giây: Om trong nước sốt. 9—10 giây: Xẻng nhấc một miếng lên. Nghiêm cấm: Chiên ngập dầu, cháy khét, thịt rơi ra ngoài, màu nước sốt sai lệch. Kết nối: Chuyển sang nồi đất nung màu nâu đen. Phân đoạn 4 (30—40 giây): Om nồi đất và cảnh quay chính. Prompt: Tạo video quảng cáo ẩm thực Khách Gia cao cấp siêu thực 4K, khung hình dọc 9:16, dài 10 giây. Hiển thị cảnh chuyển sang nồi đất, om, thêm hành lá và cảnh quay chính với thìa. 0—2 giây: Đậu phụ om trong nước sốt hổ phách, hơi nước bốc lên. 2—4 giây: Điều chỉnh đậu phụ bằng đũa. 4—5 giây: Rắc hành lá xanh. 5—7 giây: Thìa bạc nhấc một miếng lên. 7—9 giây: Cảnh quay chính macro 85mm cho thấy kết cấu và nước sốt. 9—10 giây: Camera lùi lại cho cảnh quay cuối. Nghiêm cấm: Thay đổi nồi, thay đổi hình dạng, thực phẩm khác, thịt rơi, quá nhiều nước sốt, đậu phụ cháy đen, thừa ngón tay, các yếu tố giao diện người dùng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096067905817628672/img/tKXsWCbLMzQrwJkm.jpg" width="600" alt="Prompt video ẩm thực Đậu phụ nhồi thịt kiểu Khách Gia">
+
+**[🎬 Xem video →](https://x.com/7998l201/status/2096067992702566499)**
+
+**Tác giả:** [Ryan](https://x.com/7998l201) | **Nguồn:** [Link](https://x.com/7998l201/status/2096067992702566499) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Prompt video timelapse vẽ kỹ thuật số
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một prompt chi tiết để tạo video timelapse vẽ kỹ thuật số tốc độ cao dài 15 giây, thể hiện quá trình từ khung vẽ trống đến nhân vật hoàn thiện với các tương tác giao diện người dùng (UI) hiển thị rõ ràng.
+
+#### 📝 Prompt
+
+```
+Trong giao diện thiết kế nhân vật và vẽ kỹ thuật số chuyên nghiệp, hãy tạo một video timelapse 15 giây về quá trình sáng tạo nhân vật với nhịp độ nhanh. Chỉ sử dụng hình ảnh tham chiếu nhân vật được cung cấp làm mục tiêu cuối cùng về ngoại hình, tỷ lệ và kiểu tóc. Quá trình phải bắt đầu từ một khung vẽ trống và xây dựng nhân vật từ đầu. Hiển thị con trỏ chuột đang hoạt động để điều khiển quá trình. 0:00-0:02 Bắt đầu với khung vẽ trống; con trỏ tạo cấu trúc phác thảo và tư thế cơ bản. 0:02-0:05 Giai đoạn phác thảo chi tiết được tăng tốc. 0:05-0:08 Chuyển sang giai đoạn đi nét (line art) sạch sẽ. 0:08-0:11 Giai đoạn tô màu nhanh với đổ bóng và tạo điểm sáng. 0:11-0:13 Hoàn thiện và đánh bóng với các hiệu ứng thu phóng. 0:13-0:15 Giao diện UI biến mất để hiển thị nhân vật đã hoàn thiện khớp với hình tham chiếu. Phong cách: Timelapse vẽ kỹ thuật số tốc độ cao, giao diện quy trình làm việc chuyên nghiệp, chuyển động con trỏ mượt mà. Chuyển động: Liên tục và hiệu quả. Camera: Kiểu quay màn hình với các hiệu ứng thu phóng tinh tế. Quan trọng: Nhân vật không được xuất hiện ngay lập tức; mỗi giai đoạn phải được xây dựng một cách rõ ràng dựa trên giai đoạn trước đó.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2095770843024670720/img/zuMlz3_pPRGYAL7U.jpg" width="600" alt="Prompt video timelapse vẽ kỹ thuật số">
+
+**[🎬 Xem video →](https://x.com/mushengziyue/status/2095770916068164050)**
+
+**Tác giả:** [ailth](https://x.com/mushengziyue) | **Nguồn:** [Link](https://x.com/mushengziyue/status/2095770916068164050) | **Đã xuất bản:** Sep 4, 2026
+
+---
 ### Storyboard quảng cáo mì Ý cao cấp
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2620,92 +2702,6 @@ Camera bay nhanh và thấp xuyên qua lớp mây, sau đó lao vút vào một 
 **Tác giả:** [麻酱AI实验室](https://x.com/zhongying14) | **Nguồn:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Đã xuất bản:** Jul 27, 2026
 
 ---
-### Video tung bó hoa hồng kỳ ảo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Câu lệnh chi tiết này biến hình ảnh tham chiếu thành một khung cảnh kỳ ảo, nơi nhân vật tung bó hoa hồng và chúng vỡ tan thành những hạt sáng cùng các nét chữ thư pháp.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh tham chiếu làm cơ sở chính xác. Không được thay đổi khuôn mặt, các đặc điểm trên khuôn mặt, tông da, mái tóc hoặc biểu cảm của nhân vật dưới bất kỳ hình thức nào.
-
-Chuyển đổi khung cảnh để nhân vật đang tung bó hoa hồng đỏ lấp lánh về phía người xem một cách đầy sống động. Những bông hoa hồng vỡ tan thành các hạt sáng kỳ ảo, những cánh hoa bay bổng và những vệt sáng đỏ vàng lấp đầy không gian.
-
-Dòng chữ kỳ ảo “Believe in Magic” hiện lên bằng nét chữ thư pháp thanh tao, rực rỡ ngay giữa những bông hoa hồng đang bay và ánh sáng. Giữ nguyên bối cảnh khu vườn hoa hồng đầy mê hoặc, thêm nhiều ánh sáng lấp lánh và những cánh hoa hồng bay trong gió để tạo nên bầu không khí điện ảnh, bắt mắt và đầy ma thuật. Ảnh chân thực, độ chi tiết cao, màu đỏ rực rỡ và ánh sáng vàng dịu nhẹ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081485549773234177/img/RBlHmsrlNiur1umS.jpg" width="600" alt="Video tung bó hoa hồng kỳ ảo">
-
-**[🎬 Xem video →](https://x.com/amynys/status/2081681005073825820)**
-
-**Tác giả:** [Amy G](https://x.com/amynys) | **Nguồn:** [Link](https://x.com/amynys/status/2081681005073825820) | **Đã xuất bản:** Jul 27, 2026
-
----
-### Video ASMR quay cận cảnh mật ong óng ánh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một đoạn gợi ý video ASMR điện ảnh quay cận cảnh dài 10 giây, mô tả cảnh mật ong nhỏ giọt lên mặt kính với hiệu ứng phản chiếu chân thực.
-
-#### 📝 Prompt
-
-```
-Video ASMR điện ảnh siêu cận cảnh, dài 10 giây. Một tổ ong pha lê trong suốt đang nhỏ từng giọt mật óng ánh xuống đĩa thủy tinh. Những tia phản chiếu cầu vồng li ti nhảy múa trên bề mặt. Quay cận cảnh cực đại, độ sâu trường ảnh nông, độ phân giải 4K chân thực. Âm thanh ASMR: tiếng mật ong đặc quánh kéo dài, tiếng những giọt mật rơi tinh tế, tiếng vang nhẹ trên mặt kính, không gian tĩnh lặng êm dịu. Chuyển động camera quay chậm mượt mà, đầy mê hoặc và thư giãn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081634254468083712/img/qgCIK9Mgnzaia8rm.jpg" width="600" alt="Video ASMR quay cận cảnh mật ong óng ánh">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2081634357060726896)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2081634357060726896) | **Đã xuất bản:** Jul 27, 2026
-
----
-### Danh sách cảnh quay quảng cáo đồng hồ cao cấp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một danh sách gợi ý chi tiết từng cảnh quay để tạo ra các quảng cáo sản phẩm cao cấp chuyên nghiệp, bao gồm các góc quay macro, chuyển động xoay camera mượt mà và mô tả ánh sáng chính xác.
-
-#### 📝 Prompt
-
-```
-cận cảnh cực đại vào mặt số khi kim giây lướt qua
-
-chuyển động xoay chậm trên phần vỏ được đánh bóng với ánh sáng viền
-
-góc quay nghiêng với ánh sáng mạnh tập trung vào núm vặn và các nút bấm
-
-góc quay chính diện từ trên xuống để kết thúc video
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081456734564986880/img/vSkU-lHFFCN0ZY_4.jpg" width="600" alt="Danh sách cảnh quay quảng cáo đồng hồ cao cấp">
-
-**[🎬 Xem video →](https://x.com/Noderunner_Hex/status/2081456901569577069)**
-
-**Tác giả:** [Hex Horizon](https://x.com/Noderunner_Hex) | **Nguồn:** [Link](https://x.com/Noderunner_Hex/status/2081456901569577069) | **Đã xuất bản:** Jul 26, 2026
-
----
-### Quảng cáo cà phê 3D phong cách Pixar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt toàn diện cho quảng cáo cà phê 3D cách điệu với thẩm mỹ giống Pixar, mô tả chi tiết các chuyển cảnh từ ánh sáng giờ xanh (blue hour) sang giờ vàng (golden hour) và các gợi ý về tính nhất quán của nhân vật.
-
-#### 📝 Prompt
-
-```
-10 giây, 9:16 quảng cáo 3D cách điệu phong cách Pixar cho Da Mayor Coffee. Một phụ nữ trẻ, da rám nắng, tóc xoăn ngang vai màu tối, mặc áo len dệt kim màu kem quá khổ, đeo nhẫn vàng — bước lên sân thượng vào lúc bình minh giờ xanh với chiếc cốc giấy màu than, hơi nước bốc lên trên đường chân trời rực rỡ (Attention). Nhấp một ngụm, nhắm mắt lại (Interest). Bầu trời gợn sóng thành những chòm sao màu lục lam rực rỡ, mắt mở to đầy kinh ngạc — tiết lộ/cao trào (Desire). Những ngôi sao tan biến thành ánh bình minh vàng, nụ cười tự tin hướng về phía máy quay; cảnh quay chính + cảnh quay cận sản phẩm (tay cầm bằng giấy kraft, biểu tượng tia sáng Da Mayor màu bạc, chữ "Da Mayor", nắp trắng), logo hiện ra, tagline "Da Mayor Coffee. Wake up to something bigger" VO (Action). Thiết kế nhân vật/cốc nhất quán trong mọi khung hình, không bị lệch; biểu cảm chuyển từ buồn ngủ → kinh ngạc → ấm áp. Ánh sáng: giờ xanh chàm → hiệu ứng lục lam → giờ vàng 3200K, ánh sáng thể tích. Camera: đẩy vào → xoay quanh → góc thấp hất lên để tiết lộ → xoay quanh nhân vật chính/cận sản phẩm, không rung lắc/không tăng tốc độ. Âm thanh: âm nền tăng dần thành dàn nhạc giao hưởng khi tiết lộ, kết thúc ấm áp, hiệu ứng âm thanh hơi nước/hơi thở/tiếng nhấp, VO khi hiện logo. Chất lượng Octane, tán xạ dưới bề mặt, kết cấu 8K, độ sâu trường ảnh điện ảnh, hạt phim — kỳ diệu, cao cấp, hoạt hình hoàn chỉnh
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081438807786651648/img/U62sw1Jx7r6sI3x7.jpg" width="600" alt="Quảng cáo cà phê 3D phong cách Pixar">
-
-**[🎬 Xem video →](https://x.com/iam_damayor/status/2081448072706723933)**
-
-**Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2081448072706723933) | **Đã xuất bản:** Jul 26, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -2758,6 +2754,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-05T08:03:22.126Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-05T14:37:37.866Z</sub>
 
 </div>
