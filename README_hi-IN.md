@@ -48,7 +48,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 |--------|-------|
 | 📝 कुल प्रॉम्पट्स | **235** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
-| 🔄 अंतिम अपडेट | **2026-09-04** |
+| 🔄 अंतिम अपडेट | **2026-09-05** |
 
 ---
 
@@ -2784,6 +2784,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-09-04T22:07:29.535Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-09-05T03:02:20.285Z</sub>
 
 </div>

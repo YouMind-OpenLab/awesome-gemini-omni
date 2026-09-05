@@ -48,7 +48,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 |--------|-------|
 | 📝 Tổng số prompt | **235** |
 | ⭐ Prompt nổi bật | **0** |
-| 🔄 Cập nhật lần cuối | **2026-09-04** |
+| 🔄 Cập nhật lần cuối | **2026-09-05** |
 
 ---
 
@@ -2758,6 +2758,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-04T22:07:28.370Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-05T03:02:19.049Z</sub>
 
 </div>
