@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **239** |
+| 📝 Total Prompts | **243** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-06** |
 
@@ -56,6 +56,132 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Pixar Style 'Quiet Night Thought' Comedy Video
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multimodal video prompt that reimagines Li Bai's classic Chinese poem 'Quiet Night Thought' in a 3D Pixar comedy animation style, featuring specific shot descriptions and soundscapes.
+
+#### 📝 Prompt
+
+```
+integrated_multimodal_description:
+[Shot 1] 3D CG animation, Pixar-style, a medium-wide shot frames a plump cartoon scholar with a tiny topknot in a loose Tang-style robe, sitting up on a wooden bed in a cozy ancient bedroom. Bright moonlight paints a glowing square on the floor. He rubs his eyes, points at the patch, and says: [Chinese] 床前明月光……
+
+[Shot 2] At 00:06.000, cut to a closer shot. He kneels, pokes the moonlight, tries to roll it into a snowball but his palms close on nothing. He mutters: [Chinese] 疑是地上霜…… then licks the floor, winces, and shrugs.
+
+[Shot 3] At 00:12.000, low-angle shot looking up. His neck cracks as he looks at the window. The camera tilts up to reveal a warm-golden full moon with a sleepy cartoon face yawning. His jaw drops, pointing in awe: [Chinese] 举头望明月……
+
+[Shot 4] At 00:18.500, side view. A fluffy thought bubble shows his hometown: steaming noodles and a wagging dog. He murmurs: [Chinese] 低头思故乡…… Suddenly his stomach growls loudly. He grabs a bundle, sprints, trips over the doorstep, and tumbles onto his back. The moon chuckles silently. End at 25.00s.
+
+overall_soundscape: Night crickets, rustling bamboo, comical neck cracks, a heavy tumble thud, and a loud stomach growl.
+non_diegetic_music: Bouncy pipa melody, slowing into a tender guzheng phrase, then snapping back to a fast comedic flurry with a cymbal-sting.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096466125425090560/img/gATyGN81v1LPxYIo.jpg" width="600" alt="Pixar Style 'Quiet Night Thought' Comedy Video">
+
+**[🎬 Watch Video →](https://x.com/7998l201/status/2096469551882121293)**
+
+**Author:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2096469551882121293) | **Published:** Sep 6, 2026
+
+---
+### Wildflower Seasonal Transformation Macro Time-lapse
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic macro time-lapse prompt for Gemini Omni that captures a wildflower's journey through spring, summer, autumn, and winter, concluding with a poetic text overlay.
+
+#### 📝 Prompt
+
+```
+{
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "fps": 24,
+  "style": "Cinematic realism, time-lapse macro cinematography, National Geographic visual fidelity, shallow depth of field",
+  "prompt": "A continuous 10-second macro time-lapse centered on a solitary, radiant wild flower growing from dark mossy soil, capturing the passage of four seasons to evoke impermanence. At 0:00–0:03, golden morning spring sunlight illuminates vivid petals unfurling in lush bloom with glistening dewdrops. At 0:03–0:06, the sunlight intensifies into high summer warmth before rapidly shifting into autumn amber; the petals dry, curl, and develop rich burgundy-ochre hues. At 0:06–0:08, delicate crystalline frost and light snow creep over the wilting blossom under cold twilight. At 0:08–0:10, a winter gust scatters the dried petals and snow dust into the air, revealing empty, quiet soil. In the final scene (0:08–0:10), elegant, minimalist serif typography fades smoothly into center frame reading: 'Everything is temporary…' in warm, translucent off-white with subtle blur and gentle light bleed before fading to black.",
+  "lighting": "Dynamic lighting shifting fluidly from golden dawn rim lighting to crisp midsummer daylight, moody autumnal overcast, and cold crystalline winter twilight.",
+  "camera": "Macro 85mm lens, f/2.8, slow circular orbit with subtle push-in, keeping focus centered through the bloom to the final text fade.",
+  "text_overlay": {
+    "text": "Everything is temporary…",
+    "timestamp": "0:08 - 0:10",
+    "font_style": "Minimalist, elegant serif, soft glowing off-white, subtle film-grain texture, smooth fade-in and fade-out",
+    "placement": "Center screen"
+  },
+  "audio_cues": "Gentle ambient birdsong transitioning into the rustle of dry leaves, howling soft winter wind, and a deep, fading ambient piano chord beneath the final text."
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096453926442950656/img/sz0h96hWwb2tWa7R.jpg" width="600" alt="Wildflower Seasonal Transformation Macro Time-lapse">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2096453993371422748)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2096453993371422748) | **Published:** Sep 6, 2026
+
+---
+### Greek Yogurt Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive multi-scene storyboard prompt for a premium Greek yogurt advertisement, focusing on macro food photography and ASMR elements.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Premium Greek Yogurt Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Premium dairy food campaign
+• 8 cinematic product-focused scenes
+• Product remains the visual hero
+• Luxury advertising agency presentation
+
+HEADER:
+• Elegant clean typography
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: Fresh Gourmet Food Commercial
+  - Product: Greek Fruit Yogurt
+  - Audio: Spoon + Creamy ASMR
+• Why This Style Works section
+• White, soft pink and berry-red aesthetic
+• Minimal fruit-inspired decorative elements
+
+STORYBOARD:
+1. Premium yogurt cup standing on chilled marble with fresh berries
+2. Yogurt lid peeling back in an extreme macro shot
+3. Spoon entering the thick creamy yogurt
+4. Spoon lifting a smooth glossy portion
+5. Fresh strawberry pieces dropping into the yogurt
+6. Berry puree swirling through the creamy yogurt
+7. Extreme macro showing thick yogurt texture and fruit pieces
+8. Final hero product shot with yogurt cup, berries and elegant spoon composition
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow-motion fruit drop, creamy texture close-up, overhead composition, smooth spoon movement, shallow depth of field, cinematic hero framing.
+
+STYLE:
+Ultra-realistic dairy food photography, thick creamy texture, realistic fruit pieces, glossy berry swirl, chilled condensation, soft premium lighting, clean packaging, luxury food advertising, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788684290650_ymi1pv_HRc2tm_aQAEZ3wO.jpg" width="600" alt="Greek Yogurt Commercial Storyboard">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2096204332895261103)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2096204332895261103) | **Published:** Sep 5, 2026
+
+---
 ### Realistic AI Face Swap Video
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -75,11 +201,30 @@ Replace the person in this video with the person in the reference image. Keep th
 **Author:** [That Arsenal Guy](https://x.com/___craig2x) | **Source:** [Link](https://x.com/___craig2x/status/2096164337400312189) | **Published:** Sep 5, 2026
 
 ---
+### Miniature City Bus Assembly Macro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A macro video prompt for Gemini Omni showing human hands assembling a tiny city bus, complete with functional folding doors and lights.
+
+#### 📝 Prompt
+
+```
+Create a hyper-realistic macro video of a tiny city bus being assembled on a workshop table. Human hands install the chassis, wheels, seats, steering system, windows, doors and engine components. Show the miniature folding doors opening and interior lights turning on. End with the finished bus moving along a miniature road. Cinematic macro photography, realistic materials, 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096154538961211393/img/3S-nXU65MlZ7_8hN.jpg" width="600" alt="Miniature City Bus Assembly Macro">
+
+**[🎬 Watch Video →](https://x.com/abs_uiux/status/2096154692430467299)**
+
+**Author:** [Abkr Sadiq](https://x.com/abs_uiux) | **Source:** [Link](https://x.com/abs_uiux/status/2096154692430467299) | **Published:** Sep 5, 2026
+
+---
 ### Miniature Village Flood Drainage Scene
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic macro video prompt describing a giant hand placing a water pump into a flooded miniature European village, creating realistic water physics and detailed reactions from tiny workers.
+> A cinematic video prompt involving a scale-contrast scene where a giant hand uses a pump to drain a flooded miniature European village.
 
 #### 📝 Prompt
 
@@ -2560,86 +2705,6 @@ Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal
 **Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Published:** Jul 30, 2026
 
 ---
-### Ink Wash Shrimp in Future City
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed prompt for creating a surreal video blending traditional ink wash aesthetics with a neon-lit futuristic cityscape.
-
-#### 📝 Prompt
-
-```
-Ink wash shrimp leaping into a future city—a sheet of rice paper unfolds between moonlit skyscrapers. Eight black-and-white ink wash shrimp leap from the paper, their bodies retaining traditional ink strokes and washes. Their whiskers transform into glowing urban transit tracks, and ink droplets turn into neon rain. The scene features massive scale contrast, intense depth, cinematic lighting, and a breathtaking visual spectacle. No text, no watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Ink Wash Shrimp in Future City">
-
-**[🎬 Watch Video →](https://x.com/nicekate8888/status/2082746108493848857)**
-
-**Author:** [nicekate](https://x.com/nicekate8888) | **Source:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Published:** Jul 30, 2026
-
----
-### Suburban Void Space Tear
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic video prompt describing a quiet suburban street where the sky splits into a purple void, pulling debris and transitioning to an alien horizon.
-
-#### 📝 Prompt
-
-```
-Quiet suburban street, evening, sprinklers running. Sky splits with a silent lightning-like tear, widening into a churning purple void. Camera pushes toward it from ground level as debris starts lifting off the street; ends with the camera crossing the threshold, the suburb replaced instantly by an alien horizon.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Suburban Void Space Tear">
-
-**[🎬 Watch Video →](https://x.com/iam_damayor/status/2082402289126432866)**
-
-**Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Published:** Jul 29, 2026
-
----
-### Floating City Drone Flythrough
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A dynamic cinematic drone-shot prompt capturing a high-speed flight through a futuristic floating city with hanging gardens and glowing transit rails.
-
-#### 📝 Prompt
-
-```
-Camera flying fast and low through cloud layer, then bursts through into a floating city — spires, hanging gardens, glowing transit rails looping between towers. Drone-style continuous forward push, banking hard around a tower, market stalls and citizens glancing up, ending as camera dives off the city's edge into open sky below, revealing the ocean thousands of feet down.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="Floating City Drone Flythrough">
-
-**[🎬 Watch Video →](https://x.com/iam_damayor/status/2082129581838938522)**
-
-**Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **Published:** Jul 28, 2026
-
----
-### Orange Tabby Cat Barista Video Prompt
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A detailed multi-scene prompt for a video generation model featuring an orange American Shorthair cat acting as a serious barista in a coffee shop setting.
-
-#### 📝 Prompt
-
-```
-[00:00-00:03] The camera zooms in from the coffee shop entrance toward the counter. An orange American Shorthair cat is sitting on a cushion behind the counter, wearing a small apron. It has a serious and solemn expression, looking like a dedicated barista. It gently touches the coffee beans with its paw and bows its head to smell the coffee aroma.
-
-[00:03-00:07] The camera moves closer. The cat carefully observes a freshly made latte. It reaches out its paw to gently touch the rim of the cup, then bows its head to smell the milk foam. It can't help but take a quick lick of the foam. Immediately after, it looks up at the camera, pretending nothing happened.
-
-[00:07-00:10] A small coffee cup is pushed in front of the cat. The cat sits up straight, resuming its serious expression. It looks toward the camera and blinks slowly. Finally, it stealthily reaches out a paw and pulls the cup toward itself.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="Orange Tabby Cat Barista Video Prompt">
-
-**[🎬 Watch Video →](https://x.com/zhongying14/status/2081818532786974777)**
-
-**Author:** [麻酱AI实验室](https://x.com/zhongying14) | **Source:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Published:** Jul 27, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2692,6 +2757,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T08:22:15.858Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-06T14:57:43.979Z</sub>
 
 </div>

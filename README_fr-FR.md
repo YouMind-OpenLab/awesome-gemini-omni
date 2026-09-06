@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **239** |
+| 📝 Total des prompts | **243** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-09-06** |
 
@@ -56,6 +56,132 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Vidéo humoristique « Pensée par une nuit tranquille » style Pixar
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo multimodal qui réinvente le poème classique chinois de Li Bai « Pensée par une nuit tranquille » dans un style d'animation comique 3D façon Pixar, incluant des descriptions de plans précises et des paysages sonores.
+
+#### 📝 Prompt
+
+```
+integrated_multimodal_description:
+[Plan 1] Animation 3D CG, style Pixar, un plan moyen-large cadre un érudit de dessin animé potelé avec un minuscule chignon et une robe ample de style Tang, assis sur un lit en bois dans une chambre ancienne et chaleureuse. Un clair de lune brillant dessine un carré lumineux sur le sol. Il se frotte les yeux, pointe le carré et dit : [Chinois] 床前明月光……
+
+[Plan 2] À 00:06.000, coupe vers un plan plus rapproché. Il s'agenouille, touche le clair de lune, essaie de le rouler en boule de neige mais ses mains se referment sur le vide. Il marmonne : [Chinois] 疑是地上霜…… puis lèche le sol, grimace et hausse les épaules.
+
+[Plan 3] À 00:12.000, plan en contre-plongée. Son cou craque alors qu'il regarde vers la fenêtre. La caméra s'incline vers le haut pour révéler une pleine lune dorée et chaleureuse avec un visage de dessin animé endormi qui bâille. Sa mâchoire tombe, il pointe du doigt avec admiration : [Chinois] 举头望明月……
+
+[Plan 4] À 00:18.500, vue latérale. Une bulle de pensée duveteuse montre sa ville natale : des nouilles fumantes et un chien qui remue la queue. Il murmure : [Chinois] 低头思故乡…… Soudain, son estomac gargouille bruyamment. Il attrape un baluchon, sprinte, trébuche sur le seuil et tombe sur le dos. La lune glousse silencieusement. Fin à 25,00 s.
+
+overall_soundscape: Grillons nocturnes, bruissement de bambous, craquements de cou comiques, un bruit sourd de chute et un gargouillement d'estomac sonore.
+non_diegetic_music: Mélodie bondissante au pipa, ralentissant vers une phrase tendre au guzheng, puis revenant brusquement à un tourbillon comique rapide avec un coup de cymbale.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096466125425090560/img/gATyGN81v1LPxYIo.jpg" width="600" alt="Vidéo humoristique « Pensée par une nuit tranquille » style Pixar">
+
+**[🎬 Voir la vidéo →](https://x.com/7998l201/status/2096469551882121293)**
+
+**Auteur:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2096469551882121293) | **Publié:** Sep 6, 2026
+
+---
+### Time-lapse macro de la transformation saisonnière d'une fleur sauvage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de time-lapse macro cinématographique pour Gemini Omni qui capture le voyage d'une fleur sauvage à travers le printemps, l'été, l'automne et l'hiver, se terminant par une superposition de texte poétique.
+
+#### 📝 Prompt
+
+```
+{
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "fps": 24,
+  "style": "Réalisme cinématographique, cinématographie macro en time-lapse, fidélité visuelle type National Geographic, faible profondeur de champ",
+  "prompt": "Un time-lapse macro continu de 10 secondes centré sur une fleur sauvage solitaire et rayonnante poussant dans un sol moussu sombre, capturant le passage des quatre saisons pour évoquer l'impermanence. De 0:00 à 0:03, la lumière dorée du matin printanier illumine des pétales éclatants qui s'épanouissent avec des gouttes de rosée scintillantes. De 0:03 à 0:06, la lumière du soleil s'intensifie pour atteindre la chaleur du plein été avant de passer rapidement à l'ambre automnal ; les pétales sèchent, se recroquevillent et développent de riches teintes bordeaux et ocre. De 0:06 à 0:08, un givre cristallin délicat et une légère neige recouvrent la fleur qui se fane sous un crépuscule froid. De 0:08 à 0:10, une rafale hivernale disperse les pétales séchés et la poussière de neige dans l'air, révélant un sol vide et silencieux. Dans la scène finale (0:08–0:10), une typographie serif élégante et minimaliste apparaît en fondu au centre de l'image, affichant : 'Tout est temporaire…' dans un blanc cassé chaud et translucide avec un léger flou et une douce diffusion de lumière avant de passer au noir.",
+  "lighting": "Éclairage dynamique passant de manière fluide d'une lumière dorée à l'aube à une lumière de plein été nette, un ciel automnal maussade et un crépuscule hivernal cristallin et froid.",
+  "camera": "Objectif macro 85mm, f/2.8, orbite circulaire lente avec un léger zoom avant, maintenant la mise au point centrée sur la fleur jusqu'au fondu final du texte.",
+  "text_overlay": {
+    "text": "Tout est temporaire…",
+    "timestamp": "0:08 - 0:10",
+    "font_style": "Minimaliste, serif élégant, blanc cassé avec une lueur douce, texture de grain de film subtile, fondu en ouverture et en fermeture fluide",
+    "placement": "Centre de l'écran"
+  },
+  "audio_cues": "Doux chant d'oiseaux ambiant se transformant en bruissement de feuilles sèches, vent d'hiver doux et sifflant, et un accord de piano ambiant profond qui s'estompe sous le texte final."
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096453926442950656/img/sz0h96hWwb2tWa7R.jpg" width="600" alt="Time-lapse macro de la transformation saisonnière d'une fleur sauvage">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2096453993371422748)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2096453993371422748) | **Publié:** Sep 6, 2026
+
+---
+### Storyboard pour publicité de yaourt grec
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un storyboard complet multi-scènes pour une publicité de yaourt grec premium, axé sur la photographie culinaire macro et les éléments ASMR.
+
+#### 📝 Prompt
+
+```
+TITRE :
+Storyboard pour publicité de yaourt grec premium
+
+FORMAT :
+• Storyboard premium sur une page
+• Format portrait 3:4
+• Campagne de produits laitiers haut de gamme
+• 8 scènes cinématographiques centrées sur le produit
+• Le produit reste l'élément visuel principal
+• Présentation d'agence publicitaire de luxe
+
+EN-TÊTE :
+• Typographie élégante et épurée
+• Fiches d'information :
+  - Durée : 20 secondes
+  - Style : Publicité culinaire gastronomique fraîche
+  - Produit : Yaourt grec aux fruits
+  - Audio : ASMR cuillère + texture crémeuse
+• Section « Pourquoi ce style fonctionne »
+• Esthétique blanc, rose tendre et rouge baie
+• Éléments décoratifs minimalistes inspirés des fruits
+
+STORYBOARD :
+1. Pot de yaourt premium posé sur du marbre frais avec des baies fraîches
+2. Opercule du yaourt se décollant en plan macro extrême
+3. Cuillère plongeant dans le yaourt épais et crémeux
+4. Cuillère soulevant une portion lisse et brillante
+5. Morceaux de fraises fraîches tombant dans le yaourt
+6. Coulis de baies tourbillonnant dans le yaourt crémeux
+7. Macro extrême montrant la texture épaisse du yaourt et les morceaux de fruits
+8. Plan final du produit avec le pot de yaourt, les baies et une composition élégante avec la cuillère
+
+CHAQUE PANNEAU :
+• Numéro de scène
+• Indicateur de durée
+• Direction de caméra
+• Visuel
+• Action
+• Détail du produit
+
+CAMÉRA :
+Macro extrême, chute de fruits au ralenti, gros plan sur la texture crémeuse, composition en plongée, mouvement fluide de la cuillère, faible profondeur de champ, cadrage cinématographique.
+
+STYLE :
+Photographie culinaire laitière ultra-réaliste, texture crémeuse épaisse, morceaux de fruits réalistes, tourbillon de baies brillant, condensation fraîche, éclairage premium doux, emballage épuré, publicité alimentaire de luxe, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788684290650_ymi1pv_HRc2tm_aQAEZ3wO.jpg" width="600" alt="Storyboard pour publicité de yaourt grec">
+
+**[🎬 Voir la vidéo →](https://x.com/Strength04_X/status/2096204332895261103)**
+
+**Auteur:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2096204332895261103) | **Publié:** Sep 5, 2026
+
+---
 ### Vidéo d'échange de visage par IA réaliste
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -73,6 +199,25 @@ Remplacez la personne dans cette vidéo par la personne présente sur l'image de
 **[🎬 Voir la vidéo →](https://x.com/___craig2x/status/2096164337400312189)**
 
 **Auteur:** [That Arsenal Guy](https://x.com/___craig2x) | **Source:** [Link](https://x.com/___craig2x/status/2096164337400312189) | **Publié:** Sep 5, 2026
+
+---
+### Macro de l'assemblage d'un autobus miniature
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo macro pour Gemini Omni montrant des mains humaines assemblant un autobus miniature, avec des portes pliantes fonctionnelles et des lumières.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo macro hyperréaliste d'un autobus miniature en cours d'assemblage sur une table d'atelier. Des mains humaines installent le châssis, les roues, les sièges, le système de direction, les fenêtres, les portes et les composants du moteur. Montrez les portes pliantes miniatures s'ouvrant et les lumières intérieures s'allumant. Terminez avec l'autobus terminé se déplaçant le long d'une route miniature. Photographie macro cinématographique, matériaux réalistes, 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096154538961211393/img/3S-nXU65MlZ7_8hN.jpg" width="600" alt="Macro de l'assemblage d'un autobus miniature">
+
+**[🎬 Voir la vidéo →](https://x.com/abs_uiux/status/2096154692430467299)**
+
+**Auteur:** [Abkr Sadiq](https://x.com/abs_uiux) | **Source:** [Link](https://x.com/abs_uiux/status/2096154692430467299) | **Publié:** Sep 5, 2026
 
 ---
 ### Scène de drainage d'inondation dans un village miniature
@@ -2648,86 +2793,6 @@ Anime 3D cinématographique en cel-shading, CGI semi-réaliste, textures peintes
 **Auteur:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Publié:** Jul 30, 2026
 
 ---
-### Vidéo d'une ville futuriste avec des crevettes à l'encre de Chine
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de génération vidéo créatif représentant des crevettes à l'encre de Chine noire et blanche bondissant d'une feuille de papier de riz vers une ville futuriste au néon, avec des moustaches orbitales lumineuses.
-
-#### 📝 Prompt
-
-```
-Des crevettes à l'encre de Chine bondissant dans une ville futuriste : une feuille de papier de riz se déploie au milieu de gratte-ciel nocturnes, huit crevettes à l'encre noire et blanche jaillissent de la surface du papier, leurs corps conservant le style « blanc volant » du pinceau et les dégradés d'encre. Les moustaches des crevettes se transforment en voies urbaines lumineuses et les gouttes d'encre deviennent une pluie de néons ; la scène présente un contraste d'échelle saisissant, une grande profondeur, un éclairage cinématographique et un spectacle qui attire immédiatement le regard. Pas de texte, pas de filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Vidéo d'une ville futuriste avec des crevettes à l'encre de Chine">
-
-**[🎬 Voir la vidéo →](https://x.com/nicekate8888/status/2082746108493848857)**
-
-**Auteur:** [nicekate](https://x.com/nicekate8888) | **Source:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Publié:** Jul 30, 2026
-
----
-### Déchirure du vide dans une banlieue
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique décrivant une rue de banlieue calme où le ciel se fend pour révéler un vide violet, aspirant les débris et laissant place à un horizon extraterrestre.
-
-#### 📝 Prompt
-
-```
-Rue de banlieue calme, en soirée, arroseurs automatiques en marche. Le ciel se fend dans une déchirure silencieuse semblable à un éclair, s'élargissant en un vide violet tourbillonnant. La caméra avance au niveau du sol alors que des débris commencent à s'élever de la rue ; la séquence se termine par le passage de la caméra à travers la brèche, la banlieue étant instantanément remplacée par un horizon extraterrestre.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Déchirure du vide dans une banlieue">
-
-**[🎬 Voir la vidéo →](https://x.com/iam_damayor/status/2082402289126432866)**
-
-**Auteur:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Publié:** Jul 29, 2026
-
----
-### Survol en drone d'une cité flottante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dynamique pour une prise de vue cinématographique au drone, capturant un vol à haute vitesse à travers une cité flottante futuriste dotée de jardins suspendus et de rails de transport lumineux.
-
-#### 📝 Prompt
-
-```
-La caméra vole rapidement à basse altitude à travers une couche nuageuse, puis surgit dans une cité flottante — flèches, jardins suspendus, rails de transport lumineux serpentant entre les tours. Mouvement continu de drone vers l'avant, virage serré autour d'une tour, étals de marché et citoyens levant les yeux, se terminant par une plongée de la caméra depuis le bord de la ville vers le ciel ouvert, révélant l'océan des milliers de mètres plus bas.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="Survol en drone d'une cité flottante">
-
-**[🎬 Voir la vidéo →](https://x.com/iam_damayor/status/2082129581838938522)**
-
-**Auteur:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **Publié:** Jul 28, 2026
-
----
-### Prompt vidéo : Chat tabby orange barista
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt détaillé en plusieurs scènes pour un modèle de génération vidéo mettant en scène un chat American Shorthair orange jouant le rôle d'un barista sérieux dans un café.
-
-#### 📝 Prompt
-
-```
-[00:00-00:03] La caméra zoome depuis l'entrée du café vers le comptoir. Un chat American Shorthair orange est assis sur un coussin derrière le comptoir, portant un petit tablier. Il a une expression sérieuse et solennelle, tel un barista dévoué. Il touche délicatement les grains de café avec sa patte et incline la tête pour humer l'arôme du café.
-
-[00:03-00:07] La caméra se rapproche. Le chat observe attentivement un latte fraîchement préparé. Il tend sa patte pour effleurer le bord de la tasse, puis incline la tête pour sentir la mousse de lait. Il ne peut s'empêcher de donner un petit coup de langue dans la mousse. Immédiatement après, il regarde la caméra, faisant comme si de rien n'était.
-
-[00:07-00:10] Une petite tasse de café est poussée devant le chat. Le chat se redresse, reprenant son expression sérieuse. Il regarde vers la caméra et cligne lentement des yeux. Finalement, il tend furtivement une patte et tire la tasse vers lui.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="Prompt vidéo : Chat tabby orange barista">
-
-**[🎬 Voir la vidéo →](https://x.com/zhongying14/status/2081818532786974777)**
-
-**Auteur:** [麻酱AI实验室](https://x.com/zhongying14) | **Source:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Publié:** Jul 27, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -2780,6 +2845,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-06T08:22:26.120Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-06T14:57:59.867Z</sub>
 
 </div>

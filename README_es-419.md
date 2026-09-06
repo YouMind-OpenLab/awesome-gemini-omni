@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **239** |
+| 📝 Total de prompts | **243** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-09-06** |
 
@@ -56,6 +56,132 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Video de comedia estilo Pixar sobre 'Pensamiento en una noche tranquila'
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video multimodal que reimagina el clásico poema chino de Li Bai 'Pensamiento en una noche tranquila' en un estilo de animación de comedia 3D de Pixar, incluyendo descripciones detalladas de las tomas y paisajes sonoros.
+
+#### 📝 Prompt
+
+```
+integrated_multimodal_description:
+[Toma 1] Animación 3D CG, estilo Pixar, un plano medio-ancho encuadra a un erudito de dibujos animados regordete con un pequeño moño en el cabello y una túnica holgada al estilo Tang, sentado en una cama de madera dentro de una acogedora habitación antigua. La luz brillante de la luna pinta un cuadrado resplandeciente en el suelo. Se frota los ojos, señala la mancha y dice: [Chino] 床前明月光……
+
+[Toma 2] En 00:06.000, corte a un plano más cerrado. Se arrodilla, toca la luz de la luna, intenta convertirla en una bola de nieve, pero sus palmas se cierran sobre la nada. Murmura: [Chino] 疑是地上霜…… luego lame el suelo, hace una mueca y se encoge de hombros.
+
+[Toma 3] En 00:12.000, toma en ángulo bajo mirando hacia arriba. Su cuello cruje mientras mira hacia la ventana. La cámara se inclina hacia arriba para revelar una luna llena de color dorado cálido con una cara de dibujos animados somnolienta que bosteza. Su mandíbula cae, señalando con asombro: [Chino] 举头望明月……
+
+[Toma 4] En 00:18.500, vista lateral. Una burbuja de pensamiento esponjosa muestra su ciudad natal: fideos humeantes y un perro moviendo la cola. Murmura: [Chino] 低头思故乡…… De repente, su estómago ruge fuertemente. Agarra un bulto, sale corriendo, tropieza con el umbral y cae de espaldas. La luna se ríe en silencio. Finaliza en 25.00s.
+
+overall_soundscape: Grillos nocturnos, bambú crujiendo, crujidos cómicos de cuello, el golpe seco de una caída fuerte y un fuerte rugido de estómago.
+non_diegetic_music: Melodía animada de pipa, que se ralentiza hacia una frase tierna de guzheng, para luego volver a un rápido estallido cómico con un remate de platillos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096466125425090560/img/gATyGN81v1LPxYIo.jpg" width="600" alt="Video de comedia estilo Pixar sobre 'Pensamiento en una noche tranquila'">
+
+**[🎬 Ver video →](https://x.com/7998l201/status/2096469551882121293)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Fuente:** [Link](https://x.com/7998l201/status/2096469551882121293) | **Publicado:** Sep 6, 2026
+
+---
+### Time-lapse macro de la transformación estacional de una flor silvestre
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt cinemático de time-lapse macro para Gemini Omni que captura el viaje de una flor silvestre a través de la primavera, el verano, el otoño y el invierno, concluyendo con una superposición de texto poético.
+
+#### 📝 Prompt
+
+```
+{
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "fps": 24,
+  "style": "Realismo cinemático, cinematografía macro de time-lapse, fidelidad visual al estilo National Geographic, profundidad de campo reducida",
+  "prompt": "Un time-lapse macro continuo de 10 segundos centrado en una solitaria y radiante flor silvestre que crece desde un suelo cubierto de musgo oscuro, capturando el paso de las cuatro estaciones para evocar la impermanencia. De 0:00 a 0:03, la luz dorada del sol de la mañana de primavera ilumina pétalos vívidos que se despliegan en una floración exuberante con gotas de rocío brillantes. De 0:03 a 0:06, la luz solar se intensifica hasta alcanzar el calor pleno del verano antes de cambiar rápidamente al ámbar del otoño; los pétalos se secan, se curvan y desarrollan ricos tonos borgoña y ocre. De 0:06 a 0:08, una delicada escarcha cristalina y nieve ligera se arrastran sobre la flor marchita bajo el frío crepúsculo. De 0:08 a 0:10, una ráfaga invernal dispersa los pétalos secos y el polvo de nieve en el aire, revelando el suelo vacío y silencioso. En la escena final (0:08–0:10), una tipografía serif elegante y minimalista se desvanece suavemente hacia el centro del encuadre con el texto: 'Todo es temporal…' en un tono blanco hueso cálido y translúcido, con un desenfoque sutil y una suave fuga de luz antes de fundirse a negro.",
+  "lighting": "Iluminación dinámica que cambia fluidamente desde la luz de contorno del amanecer dorado hasta la luz diurna nítida del pleno verano, un cielo otoñal nublado y melancólico, y el frío crepúsculo invernal cristalino.",
+  "camera": "Lente macro de 85mm, f/2.8, órbita circular lenta con un sutil acercamiento (push-in), manteniendo el enfoque centrado durante la floración hasta el desvanecimiento final del texto.",
+  "text_overlay": {
+    "text": "Todo es temporal…",
+    "timestamp": "0:08 - 0:10",
+    "font_style": "Minimalista, serif elegante, blanco hueso con brillo suave, textura sutil de grano de película, desvanecimiento de entrada y salida suave",
+    "placement": "Centro de la pantalla"
+  },
+  "audio_cues": "Canto suave de aves ambientales que transiciona hacia el crujido de hojas secas, el aullido suave del viento invernal y un acorde de piano ambiental profundo que se desvanece bajo el texto final."
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096453926442950656/img/sz0h96hWwb2tWa7R.jpg" width="600" alt="Time-lapse macro de la transformación estacional de una flor silvestre">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2096453993371422748)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2096453993371422748) | **Publicado:** Sep 6, 2026
+
+---
+### Storyboard para comercial de yogur griego
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt completo de storyboard de múltiples escenas para un anuncio de yogur griego premium, enfocado en fotografía macro de alimentos y elementos ASMR.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Storyboard para comercial de producto de yogur griego premium
+
+FORMATO:
+• Storyboard premium de una sola página
+• Relación de aspecto vertical 3:4
+• Campaña de productos lácteos premium
+• 8 escenas cinematográficas centradas en el producto
+• El producto se mantiene como el protagonista visual
+• Presentación de agencia de publicidad de lujo
+
+ENCABEZADO:
+• Tipografía elegante y limpia
+• Tarjetas de información:
+  - Duración: 20 segundos
+  - Estilo: Comercial de alimentos gourmet frescos
+  - Producto: Yogur griego con frutas
+  - Audio: ASMR de cuchara y textura cremosa
+• Sección de por qué funciona este estilo
+• Estética en blanco, rosa suave y rojo baya
+• Elementos decorativos minimalistas inspirados en frutas
+
+STORYBOARD:
+1. Envase de yogur premium sobre mármol frío con bayas frescas
+2. Tapa del yogur despegándose en una toma macro extrema
+3. Cuchara entrando en el yogur espeso y cremoso
+4. Cuchara levantando una porción suave y brillante
+5. Trozos de fresa fresca cayendo en el yogur
+6. Puré de bayas mezclándose a través del yogur cremoso
+7. Macro extremo que muestra la textura espesa del yogur y los trozos de fruta
+8. Toma final del producto estrella con el envase de yogur, bayas y una elegante composición de cuchara
+
+CADA PANEL:
+• Número de escena
+• Insignia de duración
+• Dirección de cámara
+• Visual
+• Acción
+• Detalle del producto
+
+CÁMARA:
+Macro extremo, caída de fruta en cámara lenta, primer plano de textura cremosa, composición cenital, movimiento suave de cuchara, profundidad de campo reducida, encuadre cinematográfico del producto estrella.
+
+ESTILO:
+Fotografía de alimentos lácteos ultra realista, textura cremosa y espesa, trozos de fruta realistas, remolino de bayas brillante, condensación fría, iluminación premium suave, empaque limpio, publicidad de alimentos de lujo, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788684290650_ymi1pv_HRc2tm_aQAEZ3wO.jpg" width="600" alt="Storyboard para comercial de yogur griego">
+
+**[🎬 Ver video →](https://x.com/Strength04_X/status/2096204332895261103)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2096204332895261103) | **Publicado:** Sep 5, 2026
+
+---
 ### Video de intercambio de rostros con IA realista
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -73,6 +199,25 @@ Reemplaza a la persona en este video con la persona de la imagen de referencia. 
 **[🎬 Ver video →](https://x.com/___craig2x/status/2096164337400312189)**
 
 **Autor:** [That Arsenal Guy](https://x.com/___craig2x) | **Fuente:** [Link](https://x.com/___craig2x/status/2096164337400312189) | **Publicado:** Sep 5, 2026
+
+---
+### Macro de ensamblaje de autobús urbano en miniatura
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video macro para Gemini Omni que muestra manos humanas ensamblando un pequeño autobús urbano, con puertas plegables funcionales y luces.
+
+#### 📝 Prompt
+
+```
+Crea un video macro hiperrealista de un pequeño autobús urbano siendo ensamblado en una mesa de taller. Manos humanas instalan el chasis, las ruedas, los asientos, el sistema de dirección, las ventanas, las puertas y los componentes del motor. Muestra las puertas plegables en miniatura abriéndose y las luces interiores encendiéndose. Termina con el autobús terminado moviéndose a lo largo de una carretera en miniatura. Fotografía macro cinematográfica, materiales realistas, 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096154538961211393/img/3S-nXU65MlZ7_8hN.jpg" width="600" alt="Macro de ensamblaje de autobús urbano en miniatura">
+
+**[🎬 Ver video →](https://x.com/abs_uiux/status/2096154692430467299)**
+
+**Autor:** [Abkr Sadiq](https://x.com/abs_uiux) | **Fuente:** [Link](https://x.com/abs_uiux/status/2096154692430467299) | **Publicado:** Sep 5, 2026
 
 ---
 ### Escena de drenaje de inundación en una villa en miniatura
@@ -2605,86 +2750,6 @@ Anime 3D con sombreado cel cinematográfico, CGI semirrealista, texturas pintada
 **Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fuente:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Publicado:** Jul 30, 2026
 
 ---
-### Video de camarones en estilo aguada en una ciudad futurista
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt creativo de generación de video que muestra camarones en estilo aguada (ink wash) saltando desde papel de arroz hacia una ciudad futurista de neón con bigotes orbitales brillantes.
-
-#### 📝 Prompt
-
-```
-Camarones en estilo aguada saltando hacia una ciudad futurista: un trozo de papel de arroz se despliega entre rascacielos nocturnos, ocho camarones en tinta blanca y negra saltan de la superficie del papel, sus cuerpos aún conservan el trazo de pincel 'blanco volador' y los degradados de tinta. Los bigotes de los camarones se convierten en pistas brillantes de la ciudad y las gotas de tinta se transforman en lluvia de neón; la escena presenta un contraste de gran escala, una profundidad marcada, iluminación cinematográfica y un espectáculo que captura la vista al instante. Sin texto, sin marcas de agua.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Video de camarones en estilo aguada en una ciudad futurista">
-
-**[🎬 Ver video →](https://x.com/nicekate8888/status/2082746108493848857)**
-
-**Autor:** [nicekate](https://x.com/nicekate8888) | **Fuente:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Publicado:** Jul 30, 2026
-
----
-### Desgarro en el vacío suburbano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinemático que describe una calle suburbana tranquila donde el cielo se abre hacia un vacío púrpura, succionando escombros y haciendo la transición hacia un horizonte alienígena.
-
-#### 📝 Prompt
-
-```
-Calle suburbana tranquila al atardecer, con los aspersores funcionando. El cielo se abre con un desgarro silencioso similar a un rayo, ensanchándose hasta convertirse en un vacío púrpura agitado. La cámara se acerca desde el nivel del suelo mientras los escombros comienzan a elevarse de la calle; termina con la cámara cruzando el umbral, donde el suburbio es reemplazado instantáneamente por un horizonte alienígena.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Desgarro en el vacío suburbano">
-
-**[🎬 Ver video →](https://x.com/iam_damayor/status/2082402289126432866)**
-
-**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fuente:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Publicado:** Jul 29, 2026
-
----
-### Recorrido con dron por una ciudad flotante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dinámico de toma cinematográfica con dron que captura un vuelo a alta velocidad a través de una ciudad flotante futurista con jardines colgantes y rieles de tránsito brillantes.
-
-#### 📝 Prompt
-
-```
-La cámara vuela rápido y a baja altura a través de una capa de nubes, luego irrumpe en una ciudad flotante: agujas, jardines colgantes y rieles de tránsito brillantes que se entrelazan entre las torres. Empuje continuo hacia adelante al estilo de un dron, inclinándose bruscamente alrededor de una torre, puestos de mercado y ciudadanos mirando hacia arriba, terminando cuando la cámara se lanza desde el borde de la ciudad hacia el cielo abierto, revelando el océano a miles de pies de profundidad.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="Recorrido con dron por una ciudad flotante">
-
-**[🎬 Ver video →](https://x.com/iam_damayor/status/2082129581838938522)**
-
-**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fuente:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **Publicado:** Jul 28, 2026
-
----
-### Prompt de video: Gato atigrado naranja barista
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt detallado de múltiples escenas para un modelo de generación de video que presenta a un gato American Shorthair naranja actuando como un barista serio en una cafetería.
-
-#### 📝 Prompt
-
-```
-[00:00-00:03] La cámara hace un acercamiento desde la entrada de la cafetería hacia el mostrador. Un gato American Shorthair naranja está sentado sobre un cojín detrás del mostrador, usando un pequeño delantal. Tiene una expresión seria y solemne, luciendo como un barista dedicado. Toca suavemente los granos de café con su pata e inclina la cabeza para oler el aroma del café.
-
-[00:03-00:07] La cámara se acerca más. El gato observa cuidadosamente un latte recién preparado. Extiende su pata para tocar suavemente el borde de la taza, luego inclina la cabeza para oler la espuma de leche. No puede evitar darle un rápido lengüetazo a la espuma. Inmediatamente después, mira a la cámara, fingiendo que no pasó nada.
-
-[00:07-00:10] Una pequeña taza de café es empujada frente al gato. El gato se sienta derecho, retomando su expresión seria. Mira hacia la cámara y parpadea lentamente. Finalmente, extiende sigilosamente una pata y atrae la taza hacia sí.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="Prompt de video: Gato atigrado naranja barista">
-
-**[🎬 Ver video →](https://x.com/zhongying14/status/2081818532786974777)**
-
-**Autor:** [麻酱AI实验室](https://x.com/zhongying14) | **Fuente:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Publicado:** Jul 27, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -2737,6 +2802,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-06T08:22:24.573Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-06T14:57:57.230Z</sub>
 
 </div>

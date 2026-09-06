@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **239** |
+| 📝 Toplam İstem | **243** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-06** |
 
@@ -56,6 +56,132 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Pixar Tarzı 'Sessiz Gece Düşüncesi' Komedi Videosu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Li Bai'nin klasik Çin şiiri 'Sessiz Gece Düşüncesi'ni 3D Pixar komedi animasyon tarzında yeniden hayal eden, belirli çekim açıklamaları ve ses manzaraları içeren çok modlu bir video istemi.
+
+#### 📝 İstem
+
+```
+integrated_multimodal_description:
+[Çekim 1] 3D CG animasyon, Pixar tarzı, orta genişlikte bir çekim; küçük topuzlu, bol Tang tarzı elbiseli tombul bir çizgi film bilgini, rahat ve antik bir yatak odasında ahşap bir yatakta oturuyor. Parlak ay ışığı, zeminde parlayan bir kare oluşturuyor. Gözlerini ovuşturuyor, ışık yamasına işaret ediyor ve şöyle diyor: [Çince] 床前明月光……
+
+[Çekim 2] 00:06.000'de, daha yakın bir çekime geçiş. Diz çöküyor, ay ışığını dürtüyor, onu kar topu haline getirmeye çalışıyor ancak avuçları boşluğa kapanıyor. Kendi kendine mırıldanıyor: [Çince] 疑是地上霜…… ardından zemini yalıyor, yüzünü buruşturuyor ve omuz silkiyor.
+
+[Çekim 3] 00:12.000'de, aşağıdan yukarıya doğru düşük açılı çekim. Pencereye bakarken boynu kütlüyor. Kamera, esneyen uykulu bir çizgi film yüzüne sahip sıcak altın rengi dolunayı göstermek için yukarı doğru eğiliyor. Çenesi düşüyor, hayranlıkla işaret ediyor: [Çince] 举头望明月……
+
+[Çekim 4] 00:18.500'de, yan görünüm. Kabarık bir düşünce balonu memleketini gösteriyor: tüten erişteler ve kuyruğunu sallayan bir köpek. Mırıldanıyor: [Çince] 低头思故乡…… Aniden karnı yüksek sesle gurulduyor. Bir bohçayı kapıyor, koşmaya başlıyor, kapı eşiğine takılıyor ve sırtüstü yuvarlanıyor. Ay sessizce kıkırdıyor. 25.00. saniyede bitiş.
+
+overall_soundscape: Gece cırcır böcekleri, hışırdayan bambular, komik boyun kütleme sesleri, ağır bir düşme sesi ve yüksek bir mide gurultusu.
+non_diegetic_music: Hareketli pipa melodisi, yavaşlayarak yumuşak bir guzheng cümlesine dönüşüyor, ardından zilli bir vurguyla hızlı ve komik bir tempoya geri dönüyor.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096466125425090560/img/gATyGN81v1LPxYIo.jpg" width="600" alt="Pixar Tarzı 'Sessiz Gece Düşüncesi' Komedi Videosu">
+
+**[🎬 Videoyu izle →](https://x.com/7998l201/status/2096469551882121293)**
+
+**Yazar:** [Ryan](https://x.com/7998l201) | **Kaynak:** [Link](https://x.com/7998l201/status/2096469551882121293) | **Yayınlandı:** Sep 6, 2026
+
+---
+### Yabani Çiçeklerin Mevsimsel Dönüşümü Makro Zaman Atlamalı Çekim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir yabani çiçeğin ilkbahar, yaz, sonbahar ve kış boyunca süren yolculuğunu yakalayan ve şiirsel bir metin katmanıyla sona eren, Gemini Omni için sinematik bir makro zaman atlamalı (time-lapse) çekim istemi.
+
+#### 📝 İstem
+
+```
+{
+  "duration": "10sn",
+  "aspect_ratio": "16:9",
+  "fps": 24,
+  "style": "Sinematik gerçekçilik, makro zaman atlamalı sinematografi, National Geographic görsel sadakati, sığ alan derinliği",
+  "prompt": "Karanlık ve yosunlu bir toprakta yetişen tek bir parlak yabani çiçeğe odaklanan, geçicilik hissini uyandırmak için dört mevsimin geçişini yakalayan 10 saniyelik kesintisiz bir makro zaman atlamalı çekim. 0:00–0:03 arası, altın rengi sabah ilkbahar güneş ışığı, parıldayan çiy damlalarıyla gür bir şekilde açan canlı taç yaprakları aydınlatır. 0:03–0:06 arası, güneş ışığı yoğun bir yaz sıcaklığına dönüşür ve ardından hızla sonbahar kehribarına evrilir; taç yapraklar kurur, kıvrılır ve zengin bordo-aşı boyası tonlarına bürünür. 0:06–0:08 arası, soğuk alacakaranlıkta solan çiçeğin üzerinde narin kristalize don ve hafif kar birikir. 0:08–0:10 arası, kış rüzgarı kurumuş yaprakları ve kar tozunu havaya savurarak boş ve sessiz toprağı ortaya çıkarır. Son sahnede (0:08–0:10), zarif ve minimalist serif tipografi, ekranın ortasında yumuşak bir şekilde belirir: 'Her şey geçici...' yazısı, hafif bir bulanıklık ve nazik ışık süzülmesiyle sıcak, yarı saydam kirli beyaz renkte görünür ve ardından karararak sona erer.",
+  "lighting": "Altın rengi şafak vakti kenar ışığından net yaz gün ışığına, karamsar sonbahar bulutluluğuna ve soğuk kristalize kış alacakaranlığına akıcı bir şekilde değişen dinamik aydınlatma.",
+  "camera": "Makro 85mm lens, f/2.8, çiçek açtığı andan son metin kararmasına kadar odağı merkezde tutan, hafif yakınlaştırmalı yavaş dairesel yörünge hareketi.",
+  "text_overlay": {
+    "text": "Her şey geçici…",
+    "timestamp": "0:08 - 0:10",
+    "font_style": "Minimalist, zarif serif, yumuşak parlayan kirli beyaz, hafif film greni dokusu, yumuşak giriş ve çıkış efektleri",
+    "placement": "Ekranın ortası"
+  },
+  "audio_cues": "Hafif ortam kuş sesleri, kuru yaprak hışırtısına, yumuşak kış rüzgarı uğultusuna ve son metnin altında derin, sönümlenen bir ortam piyano akoruna geçiş yapar."
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096453926442950656/img/sz0h96hWwb2tWa7R.jpg" width="600" alt="Yabani Çiçeklerin Mevsimsel Dönüşümü Makro Zaman Atlamalı Çekim">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2096453993371422748)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2096453993371422748) | **Yayınlandı:** Sep 6, 2026
+
+---
+### Yunan Yoğurdu Reklamı Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Makro yemek fotoğrafçılığı ve ASMR öğelerine odaklanan, premium bir Yunan yoğurdu reklamı için kapsamlı, çok sahneli bir storyboard istemi.
+
+#### 📝 İstem
+
+```
+BAŞLIK:
+Premium Yunan Yoğurdu Ürün Reklamı Storyboard'u
+
+FORMAT:
+• Tek sayfalık premium storyboard
+• 3:4 Dikey oran
+• Premium süt ürünleri kampanyası
+• 8 adet sinematik ürün odaklı sahne
+• Ürün görselin merkezinde kalır
+• Lüks reklam ajansı sunumu
+
+ÜST BİLGİ:
+• Zarif ve temiz tipografi
+• Bilgi kartları:
+  - Süre: 20 Saniye
+  - Stil: Taze Gurme Yemek Reklamı
+  - Ürün: Meyveli Yunan Yoğurdu
+  - Ses: Kaşık + Kremsi ASMR
+• Bu Stil Neden İşe Yarar bölümü
+• Beyaz, yumuşak pembe ve orman meyvesi kırmızısı estetiği
+• Minimalist, meyve esintili dekoratif öğeler
+
+STORYBOARD:
+1. Soğutulmuş mermer üzerinde taze meyvelerle duran premium yoğurt kabı
+2. Aşırı makro çekimde yoğurt kapağının açılması
+3. Kaşığın yoğun ve kremsi yoğurda girişi
+4. Kaşığın pürüzsüz ve parlak bir porsiyonu kaldırması
+5. Taze çilek parçalarının yoğurdun içine düşmesi
+6. Meyve püresinin kremsi yoğurdun içinde dönmesi
+7. Yoğun yoğurt dokusunu ve meyve parçalarını gösteren aşırı makro çekim
+8. Yoğurt kabı, meyveler ve zarif kaşık kompozisyonu ile final ürün çekimi
+
+HER PANEL:
+• Sahne numarası
+• Süre rozeti
+• Kamera yönü
+• Görsel
+• Aksiyon
+• Ürün detayı
+
+KAMERA:
+Aşırı makro, ağır çekim meyve düşüşü, kremsi doku yakın planı, tepe açısı kompozisyon, pürüzsüz kaşık hareketi, sığ alan derinliği, sinematik ana ürün çerçevelemesi.
+
+STİL:
+Ultra gerçekçi süt ürünleri fotoğrafçılığı, yoğun kremsi doku, gerçekçi meyve parçaları, parlak meyve sosu girdabı, soğuk yoğuşma, yumuşak premium aydınlatma, temiz ambalaj, lüks yemek reklamcılığı, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788684290650_ymi1pv_HRc2tm_aQAEZ3wO.jpg" width="600" alt="Yunan Yoğurdu Reklamı Storyboard'u">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2096204332895261103)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2096204332895261103) | **Yayınlandı:** Sep 5, 2026
+
+---
 ### Gerçekçi AI Yüz Değiştirme Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -73,6 +199,25 @@ Bu videodaki kişiyi referans görseldeki kişiyle değiştirin. Aynı hareketi,
 **[🎬 Videoyu izle →](https://x.com/___craig2x/status/2096164337400312189)**
 
 **Yazar:** [That Arsenal Guy](https://x.com/___craig2x) | **Kaynak:** [Link](https://x.com/___craig2x/status/2096164337400312189) | **Yayınlandı:** Sep 5, 2026
+
+---
+### Minyatür Şehir Otobüsü Montajı Makro
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni için, insan ellerinin minik bir şehir otobüsünü; işlevsel katlanır kapıları ve ışıklarıyla birlikte monte edişini gösteren bir makro video istemi.
+
+#### 📝 İstem
+
+```
+Bir atölye masasında monte edilen minik bir şehir otobüsünün hiper-gerçekçi makro videosunu oluşturun. İnsan elleri şasiyi, tekerlekleri, koltukları, direksiyon sistemini, pencereleri, kapıları ve motor bileşenlerini takıyor. Minyatür katlanır kapıların açıldığını ve iç ışıkların yandığını gösterin. Videoyu, bitmiş otobüsün minyatür bir yolda ilerlemesiyle sonlandırın. Sinematik makro fotoğrafçılık, gerçekçi malzemeler, 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096154538961211393/img/3S-nXU65MlZ7_8hN.jpg" width="600" alt="Minyatür Şehir Otobüsü Montajı Makro">
+
+**[🎬 Videoyu izle →](https://x.com/abs_uiux/status/2096154692430467299)**
+
+**Yazar:** [Abkr Sadiq](https://x.com/abs_uiux) | **Kaynak:** [Link](https://x.com/abs_uiux/status/2096154692430467299) | **Yayınlandı:** Sep 5, 2026
 
 ---
 ### Minyatür Köy Sel Tahliye Sahnesi
@@ -2648,86 +2793,6 @@ Sinematik cel-shaded 3D anime, yarı gerçekçi CGI, el boyaması dokular, Unrea
 **Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Yayınlandı:** Jul 30, 2026
 
 ---
-### Mürekkep Yıkama Tarzı Karides ve Fütüristik Şehir Videosu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Pirinç kağıdından fırlayıp parlayan yörüngesel bıyıklarıyla fütüristik bir neon şehre dalan siyah beyaz mürekkep yıkama tarzı karidesleri betimleyen yaratıcı bir video oluşturma istemi.
-
-#### 📝 İstem
-
-```
-Fütüristik bir şehre sıçrayan mürekkep yıkama tarzı karidesler; gece gökdelenlerinin arasında açılan bir pirinç kağıdı, kağıdın yüzeyinden fırlayan sekiz adet siyah beyaz mürekkep yıkama tarzı karides; vücutları hala 'uçan beyaz' fırça darbelerini ve mürekkep gradyanlarını koruyor. Karides bıyıkları parlayan şehir raylarına, mürekkep damlaları ise neon yağmura dönüşüyor; sahne devasa ölçek kontrastı, güçlü derinlik, sinematik aydınlatma ve göz alıcı bir görsel şölen sunuyor. Metin yok, filigran yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Mürekkep Yıkama Tarzı Karides ve Fütüristik Şehir Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/nicekate8888/status/2082746108493848857)**
-
-**Yazar:** [nicekate](https://x.com/nicekate8888) | **Kaynak:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Yayınlandı:** Jul 30, 2026
-
----
-### Banliyö Boşluk Yırtılması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gökyüzünün mor bir boşluğa dönüştüğü, enkazı içine çektiği ve uzaylı bir ufka geçiş yaptığı sessiz bir banliyö sokağını betimleyen sinematik bir video istemi.
-
-#### 📝 İstem
-
-```
-Sessiz banliyö sokağı, akşam vakti, fıskiyeler çalışıyor. Gökyüzü sessiz, şimşek benzeri bir yırtıkla ikiye ayrılıyor ve çalkantılı mor bir boşluğa dönüşerek genişliyor. Kamera yer seviyesinden ona doğru ilerlerken sokaktaki enkazlar havalanmaya başlıyor; kamera eşiği geçtiği anda banliyö yerini anında uzaylı bir ufka bırakıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Banliyö Boşluk Yırtılması">
-
-**[🎬 Videoyu izle →](https://x.com/iam_damayor/status/2082402289126432866)**
-
-**Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Yayınlandı:** Jul 29, 2026
-
----
-### Yüzen Şehir Drone Çekimi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Asılı bahçeler ve parlayan ulaşım raylarıyla dolu fütüristik bir yüzen şehirde yüksek hızlı bir uçuşu yakalayan dinamik ve sinematik bir drone çekimi istemi.
-
-#### 📝 İstem
-
-```
-Kamera bulut tabakasının içinden hızla ve alçaktan uçuyor, ardından yüzen bir şehre giriş yapıyor; kuleler arasında dolanan kuleler, asılı bahçeler ve parlayan ulaşım rayları. Drone tarzı sürekli ileri hareket, bir kulenin etrafında keskin bir dönüş, pazar tezgahları ve yukarı bakan vatandaşlar; kamera şehrin kenarından aşağıdaki açık gökyüzüne dalarak binlerce fit aşağıdaki okyanusu gözler önüne seriyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="Yüzen Şehir Drone Çekimi">
-
-**[🎬 Videoyu izle →](https://x.com/iam_damayor/status/2082129581838938522)**
-
-**Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **Yayınlandı:** Jul 28, 2026
-
----
-### Turuncu Tekir Kedi Barista Video İstemi
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Bir kahve dükkanı ortamında ciddi bir barista rolü üstlenen turuncu bir American Shorthair kedinin yer aldığı, video üretim modeline yönelik detaylı çok sahneli bir istem.
-
-#### 📝 İstem
-
-```
-[00:00-00:03] Kamera, kahve dükkanının girişinden tezgaha doğru yakınlaşır. Tezgahın arkasındaki bir minder üzerinde oturan, küçük bir önlük takmış turuncu bir American Shorthair kedi görülür. Kendini işine adamış bir barista gibi görünen ciddi ve ağırbaşlı bir ifadesi vardır. Patisiyle nazikçe kahve çekirdeklerine dokunur ve kahve aromasını koklamak için başını eğer.
-
-[00:03-00:07] Kamera daha da yaklaşır. Kedi, yeni yapılmış bir latteyi dikkatle inceler. Patisini uzatıp fincanın kenarına hafifçe dokunur, ardından süt köpüğünü koklamak için başını eğer. Köpükten hızlıca bir yalama almaktan kendini alamaz. Hemen ardından, hiçbir şey olmamış gibi kameraya bakar.
-
-[00:07-00:10] Kedinin önüne küçük bir kahve fincanı itilir. Kedi dikleşir ve ciddi ifadesine geri döner. Kameraya doğru bakar ve yavaşça göz kırpar. Sonunda, gizlice patisini uzatır ve fincanı kendine doğru çeker.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="Turuncu Tekir Kedi Barista Video İstemi">
-
-**[🎬 Videoyu izle →](https://x.com/zhongying14/status/2081818532786974777)**
-
-**Yazar:** [麻酱AI实验室](https://x.com/zhongying14) | **Kaynak:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Yayınlandı:** Jul 27, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -2780,6 +2845,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-06T08:22:28.717Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-06T14:58:06.975Z</sub>
 
 </div>

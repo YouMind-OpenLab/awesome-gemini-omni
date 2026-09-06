@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **239** |
+| 📝 Tổng số prompt | **243** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-06** |
 
@@ -56,6 +56,132 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video hài hước phong cách Pixar về bài thơ 'Tĩnh Dạ Tư'
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt video đa phương thức tái hiện bài thơ cổ điển 'Tĩnh Dạ Tư' của Lý Bạch theo phong cách hoạt hình hài hước 3D của Pixar, bao gồm mô tả chi tiết về các cảnh quay và âm thanh.
+
+#### 📝 Prompt
+
+```
+integrated_multimodal_description:
+[Cảnh 1] Hoạt hình 3D CG, phong cách Pixar, cảnh quay trung bình rộng lấy hình ảnh một học giả hoạt hình mũm mĩm với búi tóc nhỏ, mặc bộ đồ thời Đường rộng rãi, đang ngồi dậy trên chiếc giường gỗ trong một căn phòng cổ ấm cúng. Ánh trăng sáng rực rỡ tạo thành một hình vuông phát sáng trên sàn nhà. Anh dụi mắt, chỉ vào vệt sáng và nói: [Tiếng Trung] 床前明月光……
+
+[Cảnh 2] Tại 00:06.000, chuyển sang cảnh quay cận hơn. Anh quỳ xuống, chọc vào ánh trăng, cố gắng vo nó thành một quả cầu tuyết nhưng lòng bàn tay anh lại nắm vào hư không. Anh lẩm bẩm: [Tiếng Trung] 疑是地上霜…… sau đó liếm sàn nhà, nhăn mặt và nhún vai.
+
+[Cảnh 3] Tại 00:12.000, góc quay thấp nhìn lên. Cổ anh kêu răng rắc khi nhìn về phía cửa sổ. Máy quay nghiêng lên để lộ vầng trăng tròn vàng ấm áp với khuôn mặt hoạt hình buồn ngủ đang ngáp. Anh há hốc mồm, chỉ tay đầy kinh ngạc: [Tiếng Trung] 举头望明月……
+
+[Cảnh 4] Tại 00:18.500, góc nhìn từ bên cạnh. Một bong bóng suy nghĩ bồng bềnh hiện ra quê hương của anh: những bát mì bốc khói và một chú chó đang vẫy đuôi. Anh lầm bầm: [Tiếng Trung] 低头思故乡…… Đột nhiên bụng anh kêu lên một tiếng lớn. Anh vơ lấy một bọc đồ, chạy nước rút, vấp phải ngưỡng cửa và ngã ngửa ra sau. Mặt trăng lặng lẽ cười khúc khích. Kết thúc ở giây thứ 25.00.
+
+overall_soundscape: Tiếng dế kêu ban đêm, tiếng tre xào xạc, tiếng cổ kêu răng rắc đầy hài hước, tiếng ngã bịch một cái thật mạnh và tiếng bụng kêu lớn.
+non_diegetic_music: Giai điệu đàn tỳ bà vui nhộn, chậm dần thành một đoạn đàn tranh dịu dàng, sau đó bất ngờ quay trở lại nhịp điệu hài hước nhanh với tiếng chũm chọe vang lên.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096466125425090560/img/gATyGN81v1LPxYIo.jpg" width="600" alt="Video hài hước phong cách Pixar về bài thơ 'Tĩnh Dạ Tư'">
+
+**[🎬 Xem video →](https://x.com/7998l201/status/2096469551882121293)**
+
+**Tác giả:** [Ryan](https://x.com/7998l201) | **Nguồn:** [Link](https://x.com/7998l201/status/2096469551882121293) | **Đã xuất bản:** Sep 6, 2026
+
+---
+### Video tua nhanh macro về sự biến đổi theo mùa của hoa dại
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh (prompt) tạo video tua nhanh macro đậm chất điện ảnh cho Gemini Omni, ghi lại hành trình của một bông hoa dại qua bốn mùa xuân, hạ, thu, đông, kết thúc bằng một lớp phủ văn bản đầy chất thơ.
+
+#### 📝 Prompt
+
+```
+{
+  "duration": "10 giây",
+  "aspect_ratio": "16:9",
+  "fps": 24,
+  "style": "Chân thực đậm chất điện ảnh, kỹ thuật quay tua nhanh macro, độ trung thực hình ảnh chuẩn National Geographic, độ sâu trường ảnh nông",
+  "prompt": "Một video tua nhanh macro liên tục trong 10 giây tập trung vào một bông hoa dại rạng rỡ, đơn độc mọc lên từ lớp đất rêu tối, ghi lại sự trôi qua của bốn mùa để gợi lên tính vô thường. Từ 0:00–0:03, ánh nắng vàng buổi sáng mùa xuân chiếu rọi những cánh hoa rực rỡ đang nở rộ cùng những giọt sương long lanh. Từ 0:03–0:06, ánh nắng trở nên gay gắt của mùa hè trước khi chuyển nhanh sang sắc hổ phách của mùa thu; cánh hoa khô héo, cuộn lại và chuyển sang tông màu đỏ tía - đất nung đậm. Từ 0:06–0:08, lớp sương giá tinh thể mỏng manh và tuyết nhẹ bao phủ bông hoa đang tàn dưới ánh hoàng hôn lạnh lẽo. Từ 0:08–0:10, một cơn gió mùa đông thổi bay những cánh hoa khô và bụi tuyết vào không trung, để lộ ra lớp đất trống trải, tĩnh lặng. Trong cảnh cuối (0:08–0:10), kiểu chữ serif tối giản, thanh lịch mờ dần vào giữa khung hình với nội dung: 'Everything is temporary…' (Mọi thứ đều là tạm thời...) bằng tông màu trắng đục ấm áp, trong suốt với hiệu ứng nhòe nhẹ và ánh sáng dịu trước khi chuyển sang màu đen.",
+  "lighting": "Ánh sáng động chuyển đổi mượt mà từ ánh sáng viền bình minh vàng rực sang ánh sáng ban ngày mùa hè sắc nét, ánh sáng âm u của mùa thu và ánh hoàng hôn mùa đông lạnh lẽo, tinh khiết.",
+  "camera": "Ống kính macro 85mm, f/2.8, quỹ đạo xoay tròn chậm với chuyển động tiến gần tinh tế, giữ tiêu điểm ở trung tâm từ lúc hoa nở cho đến khi văn bản xuất hiện cuối cùng.",
+  "text_overlay": {
+    "text": "Everything is temporary…",
+    "timestamp": "0:08 - 0:10",
+    "font_style": "Tối giản, serif thanh lịch, màu trắng đục phát sáng nhẹ, kết cấu hạt phim tinh tế, hiệu ứng mờ dần vào và mờ dần ra mượt mà",
+    "placement": "Giữa màn hình"
+  },
+  "audio_cues": "Tiếng chim hót nhẹ nhàng chuyển sang tiếng lá khô xào xạc, tiếng gió mùa đông thổi nhẹ và một hợp âm piano trầm lắng, mờ dần bên dưới dòng văn bản cuối cùng."
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096453926442950656/img/sz0h96hWwb2tWa7R.jpg" width="600" alt="Video tua nhanh macro về sự biến đổi theo mùa của hoa dại">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2096453993371422748)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2096453993371422748) | **Đã xuất bản:** Sep 6, 2026
+
+---
+### Bảng phân cảnh quảng cáo sữa chua Hy Lạp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý bảng phân cảnh đa cảnh toàn diện cho quảng cáo sữa chua Hy Lạp cao cấp, tập trung vào nhiếp ảnh thực phẩm macro và các yếu tố ASMR.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ:
+Bảng phân cảnh quảng cáo sản phẩm sữa chua Hy Lạp cao cấp
+
+ĐỊNH DẠNG:
+• Bảng phân cảnh cao cấp một trang
+• Tỷ lệ khung hình dọc 3:4
+• Chiến dịch thực phẩm từ sữa cao cấp
+• 8 cảnh quay điện ảnh tập trung vào sản phẩm
+• Sản phẩm luôn là tâm điểm thị giác
+• Trình bày theo phong cách công ty quảng cáo sang trọng
+
+TIÊU ĐỀ PHỤ:
+• Kiểu chữ thanh lịch, tinh tế
+• Thẻ thông tin:
+  - Thời lượng: 20 giây
+  - Phong cách: Quảng cáo thực phẩm tươi ngon
+  - Sản phẩm: Sữa chua trái cây Hy Lạp
+  - Âm thanh: Tiếng thìa + ASMR kem mịn
+• Mục "Tại sao phong cách này hiệu quả"
+• Thẩm mỹ màu trắng, hồng nhạt và đỏ mọng
+• Các yếu tố trang trí tối giản lấy cảm hứng từ trái cây
+
+BẢNG PHÂN CẢNH:
+1. Hộp sữa chua cao cấp đặt trên đá cẩm thạch lạnh cùng quả mọng tươi
+2. Nắp hộp sữa chua được bóc ra trong một cú máy macro cực cận
+3. Thìa đi vào lớp sữa chua đặc mịn
+4. Thìa nhấc một phần sữa chua bóng mượt lên
+5. Những miếng dâu tây tươi rơi vào sữa chua
+6. Sốt quả mọng hòa quyện vào lớp sữa chua kem mịn
+7. Macro cực cận cho thấy kết cấu sữa chua đặc và những miếng trái cây
+8. Cảnh quay sản phẩm cuối cùng với hộp sữa chua, quả mọng và bố cục thìa thanh lịch
+
+MỖI KHUNG HÌNH:
+• Số thứ tự cảnh
+• Huy hiệu thời lượng
+• Hướng máy quay
+• Hình ảnh
+• Hành động
+• Chi tiết sản phẩm
+
+MÁY QUAY:
+Macro cực cận, chuyển động chậm khi trái cây rơi, cận cảnh kết cấu kem mịn, bố cục từ trên xuống, chuyển động thìa mượt mà, độ sâu trường ảnh nông, khung hình điện ảnh tập trung vào sản phẩm.
+
+PHONG CÁCH:
+Nhiếp ảnh thực phẩm từ sữa siêu thực, kết cấu kem đặc mịn, miếng trái cây chân thực, vệt sốt quả mọng bóng bẩy, hơi lạnh ngưng tụ, ánh sáng cao cấp dịu nhẹ, bao bì sạch sẽ, quảng cáo thực phẩm sang trọng, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788684290650_ymi1pv_HRc2tm_aQAEZ3wO.jpg" width="600" alt="Bảng phân cảnh quảng cáo sữa chua Hy Lạp">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2096204332895261103)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2096204332895261103) | **Đã xuất bản:** Sep 5, 2026
+
+---
 ### Video hoán đổi khuôn mặt bằng AI chân thực
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -73,6 +199,25 @@ Thay thế nhân vật trong video này bằng người trong ảnh tham chiếu
 **[🎬 Xem video →](https://x.com/___craig2x/status/2096164337400312189)**
 
 **Tác giả:** [That Arsenal Guy](https://x.com/___craig2x) | **Nguồn:** [Link](https://x.com/___craig2x/status/2096164337400312189) | **Đã xuất bản:** Sep 5, 2026
+
+---
+### Macro lắp ráp xe buýt thành phố mini
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video macro dành cho Gemini Omni mô tả bàn tay con người đang lắp ráp một chiếc xe buýt thành phố tí hon, hoàn thiện với cửa gập và đèn hoạt động được.
+
+#### 📝 Prompt
+
+```
+Tạo một video macro siêu thực về một chiếc xe buýt thành phố tí hon đang được lắp ráp trên bàn làm việc. Bàn tay con người lắp đặt khung gầm, bánh xe, ghế ngồi, hệ thống lái, cửa sổ, cửa ra vào và các bộ phận động cơ. Hiển thị cảnh cửa gập mini mở ra và đèn nội thất bật sáng. Kết thúc bằng cảnh chiếc xe buýt hoàn thiện di chuyển dọc theo con đường mô hình. Quay phim macro điện ảnh, chất liệu chân thực, tỷ lệ 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096154538961211393/img/3S-nXU65MlZ7_8hN.jpg" width="600" alt="Macro lắp ráp xe buýt thành phố mini">
+
+**[🎬 Xem video →](https://x.com/abs_uiux/status/2096154692430467299)**
+
+**Tác giả:** [Abkr Sadiq](https://x.com/abs_uiux) | **Nguồn:** [Link](https://x.com/abs_uiux/status/2096154692430467299) | **Đã xuất bản:** Sep 5, 2026
 
 ---
 ### Cảnh thoát nước lũ tại ngôi làng mô hình
@@ -2622,86 +2767,6 @@ Anime 3D cel-shaded điện ảnh, CGI bán thực tế, kết cấu vẽ tay, c
 **Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Đã xuất bản:** Jul 30, 2026
 
 ---
-### Video thành phố tương lai với tôm thủy mặc
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh tạo video sáng tạo mô tả những chú tôm thủy mặc đen trắng nhảy ra từ giấy xuyến chỉ vào một thành phố neon tương lai với những chiếc râu phát sáng như quỹ đạo.
-
-#### 📝 Prompt
-
-```
-Tôm thủy mặc nhảy vào thành phố tương lai—một tờ giấy xuyến chỉ mở ra giữa những tòa nhà chọc trời về đêm, tám chú tôm thủy mặc đen trắng nhảy ra từ bề mặt giấy, cơ thể chúng vẫn giữ được kỹ thuật vẽ "phi bạch" và các sắc độ mực. Râu tôm biến thành những đường ray thành phố rực rỡ, còn những giọt mực trở thành cơn mưa neon; khung cảnh có sự tương phản quy mô lớn, chiều sâu ấn tượng, ánh sáng đậm chất điện ảnh và một cảnh tượng thu hút mọi ánh nhìn ngay lập tức. Không văn bản, không hình mờ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Video thành phố tương lai với tôm thủy mặc">
-
-**[🎬 Xem video →](https://x.com/nicekate8888/status/2082746108493848857)**
-
-**Tác giả:** [nicekate](https://x.com/nicekate8888) | **Nguồn:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Đã xuất bản:** Jul 30, 2026
-
----
-### Vết nứt không gian tại vùng ngoại ô
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh mô tả con phố ngoại ô yên tĩnh, nơi bầu trời tách ra thành một khoảng không màu tím, hút các mảnh vỡ và chuyển cảnh sang một đường chân trời ngoài hành tinh.
-
-#### 📝 Prompt
-
-```
-Con phố ngoại ô yên tĩnh vào buổi tối, vòi phun nước đang hoạt động. Bầu trời tách ra với một vết nứt im lặng như tia chớp, mở rộng thành một khoảng không màu tím cuộn trào. Máy quay đẩy dần về phía đó từ mặt đất khi các mảnh vỡ bắt đầu bay lên khỏi mặt đường; kết thúc bằng cảnh máy quay băng qua ngưỡng cửa, khung cảnh ngoại ô ngay lập tức được thay thế bằng một đường chân trời ngoài hành tinh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Vết nứt không gian tại vùng ngoại ô">
-
-**[🎬 Xem video →](https://x.com/iam_damayor/status/2082402289126432866)**
-
-**Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Đã xuất bản:** Jul 29, 2026
-
----
-### Video quay flycam về thành phố nổi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) tạo video điện ảnh năng động, ghi lại cảnh bay tốc độ cao xuyên qua một thành phố nổi tương lai với các khu vườn treo và đường ray vận chuyển phát sáng.
-
-#### 📝 Prompt
-
-```
-Camera bay nhanh và thấp xuyên qua lớp mây, sau đó lao vút vào một thành phố nổi — các tòa tháp cao vút, khu vườn treo, đường ray vận chuyển phát sáng uốn lượn giữa các tòa nhà. Cảnh quay theo phong cách flycam di chuyển liên tục về phía trước, nghiêng mình lách qua một tòa tháp, các quầy hàng trên thị trường và người dân ngước nhìn lên, kết thúc bằng cảnh camera lao xuống từ rìa thành phố vào bầu trời rộng mở bên dưới, để lộ đại dương cách đó hàng ngàn feet.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="Video quay flycam về thành phố nổi">
-
-**[🎬 Xem video →](https://x.com/iam_damayor/status/2082129581838938522)**
-
-**Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **Đã xuất bản:** Jul 28, 2026
-
----
-### Prompt video chú mèo mướp cam làm barista
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một prompt chi tiết gồm nhiều cảnh dành cho mô hình tạo video, với nhân vật chính là một chú mèo American Shorthair màu cam đang làm barista chuyên nghiệp trong một quán cà phê.
-
-#### 📝 Prompt
-
-```
-[00:00-00:03] Camera zoom từ cửa quán cà phê vào phía quầy pha chế. Một chú mèo American Shorthair màu cam đang ngồi trên đệm sau quầy, đeo một chiếc tạp dề nhỏ. Chú mèo có biểu cảm nghiêm túc và trang trọng, trông như một barista tận tâm. Nó nhẹ nhàng chạm vào những hạt cà phê bằng chân và cúi đầu ngửi hương thơm của cà phê.
-
-[00:03-00:07] Camera di chuyển lại gần hơn. Chú mèo chăm chú quan sát một tách latte vừa mới pha xong. Nó đưa chân ra chạm nhẹ vào miệng tách, sau đó cúi đầu ngửi lớp bọt sữa. Nó không kìm được mà liếm nhanh một chút bọt. Ngay sau đó, nó ngước nhìn vào camera, giả vờ như không có chuyện gì xảy ra.
-
-[00:07-00:10] Một tách cà phê nhỏ được đẩy đến trước mặt chú mèo. Chú mèo ngồi thẳng dậy, lấy lại vẻ mặt nghiêm túc. Nó nhìn về phía camera và chớp mắt chậm rãi. Cuối cùng, nó lén lút đưa chân ra và kéo tách cà phê về phía mình.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="Prompt video chú mèo mướp cam làm barista">
-
-**[🎬 Xem video →](https://x.com/zhongying14/status/2081818532786974777)**
-
-**Tác giả:** [麻酱AI实验室](https://x.com/zhongying14) | **Nguồn:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Đã xuất bản:** Jul 27, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -2754,6 +2819,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-06T08:22:22.180Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-06T14:57:53.140Z</sub>
 
 </div>

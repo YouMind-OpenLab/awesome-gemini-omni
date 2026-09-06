@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **239** |
+| 📝 Gesamtanzahl Prompts | **243** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-06** |
 
@@ -56,6 +56,132 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Pixar-Stil Comedy-Video zu „Gedanken in einer stillen Nacht“
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein multimodaler Video-Prompt, der Li Bais klassisches chinesisches Gedicht „Gedanken in einer stillen Nacht“ im 3D-Pixar-Comedy-Animationsstil neu interpretiert, inklusive spezifischer Kameraeinstellungen und Soundscapes.
+
+#### 📝 Prompt
+
+```
+integrated_multimodal_description:
+[Einstellung 1] 3D-CG-Animation, Pixar-Stil, eine halbnahe Einstellung zeigt einen pummeligen Cartoon-Gelehrten mit winzigem Haarknoten in einem lockeren Gewand im Tang-Stil, der auf einem Holzbett in einem gemütlichen antiken Schlafzimmer sitzt. Helles Mondlicht zeichnet ein leuchtendes Quadrat auf den Boden. Er reibt sich die Augen, zeigt auf den Lichtfleck und sagt: [Chinesisch] 床前明月光……
+
+[Einstellung 2] Bei 00:06.000, Schnitt auf eine nähere Einstellung. Er kniet nieder, stupst das Mondlicht an, versucht es zu einem Schneeball zu formen, aber seine Handflächen greifen ins Leere. Er murmelt: [Chinesisch] 疑是地上霜…… leckt dann über den Boden, verzieht das Gesicht und zuckt mit den Schultern.
+
+[Einstellung 3] Bei 00:12.000, Froschperspektive von unten. Sein Nacken knackt, als er zum Fenster schaut. Die Kamera schwenkt nach oben und enthüllt einen warm-goldenen Vollmond mit einem schläfrigen Cartoon-Gesicht, das gähnt. Sein Kiefer klappt herunter, er zeigt ehrfürchtig darauf: [Chinesisch] 举头望明月……
+
+[Einstellung 4] Bei 00:18.500, Seitenansicht. Eine flauschige Gedankenblase zeigt seine Heimat: dampfende Nudeln und einen wedelnden Hund. Er murmelt: [Chinesisch] 低头思故乡…… Plötzlich knurrt sein Magen laut. Er schnappt sich ein Bündel, rennt los, stolpert über die Türschwelle und fällt rücklings hin. Der Mond kichert lautlos. Ende bei 25.00s.
+
+overall_soundscape: Nachtgrillen, raschelnder Bambus, komisches Nackenknacken, ein schweres Aufprallgeräusch und ein lautes Magenknurren.
+non_diegetic_music: Schwungvolle Pipa-Melodie, die in eine zarte Guzheng-Phrase übergeht und dann abrupt in ein schnelles, komödiantisches Wirbeln mit einem Beckenschlag zurückkehrt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096466125425090560/img/gATyGN81v1LPxYIo.jpg" width="600" alt="Pixar-Stil Comedy-Video zu „Gedanken in einer stillen Nacht“">
+
+**[🎬 Video ansehen →](https://x.com/7998l201/status/2096469551882121293)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Quelle:** [Link](https://x.com/7998l201/status/2096469551882121293) | **Veröffentlicht:** Sep 6, 2026
+
+---
+### Makro-Zeitraffer der saisonalen Verwandlung einer Wildblume
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Makro-Zeitraffer-Prompt für Gemini Omni, der die Reise einer Wildblume durch Frühling, Sommer, Herbst und Winter einfängt und mit einer poetischen Texteinblendung endet.
+
+#### 📝 Prompt
+
+```
+{
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "fps": 24,
+  "style": "Cineastischer Realismus, Makro-Zeitraffer-Kinematografie, visuelle Qualität im Stil von National Geographic, geringe Schärfentiefe",
+  "prompt": "Ein durchgehender 10-sekündiger Makro-Zeitraffer, der sich auf eine einzelne, strahlende Wildblume konzentriert, die aus dunklem, moosigem Boden wächst und den Wechsel der vier Jahreszeiten einfängt, um die Vergänglichkeit zu verdeutlichen. Von 0:00 bis 0:03 Uhr beleuchtet goldenes Frühlingsmorgenlicht die lebendigen Blütenblätter, die sich in voller Pracht mit glitzernden Tautropfen entfalten. Von 0:03 bis 0:06 Uhr intensiviert sich das Sonnenlicht zur sommerlichen Wärme, bevor es schnell in herbstliches Bernstein übergeht; die Blütenblätter trocknen, kräuseln sich und nehmen satte burgunder-ockerfarbene Töne an. Von 0:06 bis 0:08 Uhr kriechen zarter kristalliner Frost und leichter Schnee bei kaltem Dämmerlicht über die welkende Blüte. Von 0:08 bis 0:10 Uhr verweht eine Winterböe die getrockneten Blütenblätter und den Schnee in der Luft und gibt den leeren, stillen Boden frei. In der letzten Szene (0:08–0:10) blendet elegante, minimalistische Serifentypografie sanft in die Bildmitte ein: 'Alles ist vergänglich…' in warmem, durchscheinendem Off-White mit subtiler Unschärfe und sanftem Lichtschein, bevor das Bild schwarz abblendet.",
+  "lighting": "Dynamische Beleuchtung, die fließend von goldenem Morgenlicht über klares Hochsommer-Tageslicht und stimmungsvolle herbstliche Bewölkung bis hin zu kaltem, kristallinem Winterdämmerlicht wechselt.",
+  "camera": "Makro-85mm-Objektiv, f/2.8, langsamer kreisförmiger Orbit mit subtilem Zoom, wobei der Fokus von der Blüte bis zur finalen Texteinblendung zentriert bleibt.",
+  "text_overlay": {
+    "text": "Alles ist vergänglich…",
+    "timestamp": "0:08 - 0:10",
+    "font_style": "Minimalistisch, elegante Serifenschrift, sanft leuchtendes Off-White, subtile Filmkorn-Textur, weiches Ein- und Ausblenden",
+    "placement": "Bildmitte"
+  },
+  "audio_cues": "Sanfter, atmosphärischer Vogelgesang, der in das Rascheln trockener Blätter übergeht, gefolgt von heulendem, leisem Winterwind und einem tiefen, verklingenden atmosphärischen Klavierakkord unter dem finalen Text."
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096453926442950656/img/sz0h96hWwb2tWa7R.jpg" width="600" alt="Makro-Zeitraffer der saisonalen Verwandlung einer Wildblume">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2096453993371422748)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2096453993371422748) | **Veröffentlicht:** Sep 6, 2026
+
+---
+### Storyboard für griechischen Joghurt-Werbespot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassender, mehrszeniger Storyboard-Prompt für eine Premium-Werbung für griechischen Joghurt, mit Fokus auf Makro-Lebensmittelfotografie und ASMR-Elementen.
+
+#### 📝 Prompt
+
+```
+TITEL:
+Storyboard für Premium-Werbespot für griechischen Joghurt
+
+FORMAT:
+• Einseitiges Premium-Storyboard
+• 3:4 Hochformat
+• Kampagne für Premium-Molkereiprodukte
+• 8 filmische, produktzentrierte Szenen
+• Das Produkt bleibt der visuelle Held
+• Präsentation für Luxus-Werbeagenturen
+
+HEADER:
+• Elegante, klare Typografie
+• Informationskarten:
+  - Dauer: 20 Sekunden
+  - Stil: Frischer Gourmet-Werbespot
+  - Produkt: Griechischer Fruchtjoghurt
+  - Audio: Löffel + cremiges ASMR
+• Bereich „Warum dieser Stil funktioniert“
+• Ästhetik in Weiß, sanftem Rosa und Beerenrot
+• Minimale, von Früchten inspirierte Dekorationselemente
+
+STORYBOARD:
+1. Premium-Joghurtbecher auf gekühltem Marmor mit frischen Beeren
+2. Joghurtdeckel wird in einer extremen Makroaufnahme abgezogen
+3. Löffel taucht in den dicken, cremigen Joghurt ein
+4. Löffel hebt eine glatte, glänzende Portion an
+5. Frische Erdbeerstücke fallen in den Joghurt
+6. Beerenpüree wirbelt durch den cremigen Joghurt
+7. Extremes Makro zeigt die dicke Joghurttextur und Fruchtstücke
+8. Abschließende Hero-Produktaufnahme mit Joghurtbecher, Beeren und eleganter Löffelkomposition
+
+JEDES PANEL:
+• Szenennummer
+• Dauer-Badge
+• Kameraanweisung
+• Visualisierung
+• Aktion
+• Produktdetail
+
+KAMERA:
+Extremes Makro, Zeitlupen-Fruchtfall, Nahaufnahme der cremigen Textur, Overhead-Komposition, sanfte Löffelbewegung, geringe Schärfentiefe, filmische Hero-Einstellung.
+
+STIL:
+Ultrarealistische Molkerei-Lebensmittelfotografie, dicke cremige Textur, realistische Fruchtstücke, glänzender Beerenwirbel, gekühlte Kondensation, weiche Premium-Beleuchtung, saubere Verpackung, Luxus-Lebensmittelwerbung, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788684290650_ymi1pv_HRc2tm_aQAEZ3wO.jpg" width="600" alt="Storyboard für griechischen Joghurt-Werbespot">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2096204332895261103)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2096204332895261103) | **Veröffentlicht:** Sep 5, 2026
+
+---
 ### Realistischer KI-Gesichtstausch in Videos
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -73,6 +199,25 @@ Ersetze die Person in diesem Video durch die Person auf dem Referenzbild. Behalt
 **[🎬 Video ansehen →](https://x.com/___craig2x/status/2096164337400312189)**
 
 **Autor:** [That Arsenal Guy](https://x.com/___craig2x) | **Quelle:** [Link](https://x.com/___craig2x/status/2096164337400312189) | **Veröffentlicht:** Sep 5, 2026
+
+---
+### Makro-Video: Zusammenbau eines Miniatur-Stadtbusses
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Makro-Video-Prompt für Gemini Omni, der menschliche Hände beim Zusammenbau eines winzigen Stadtbusses zeigt, inklusive funktionsfähiger Falttüren und Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Erstelle ein hyperrealistisches Makro-Video, das den Zusammenbau eines winzigen Stadtbusses auf einem Werkstatttisch zeigt. Menschliche Hände montieren das Fahrgestell, die Räder, Sitze, das Lenksystem, Fenster, Türen und Motorkomponenten. Zeige, wie sich die Miniatur-Falttüren öffnen und die Innenbeleuchtung eingeschaltet wird. Ende mit dem fertigen Bus, der über eine Miniaturstraße fährt. Kinoreife Makrofotografie, realistische Materialien, 9:16.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096154538961211393/img/3S-nXU65MlZ7_8hN.jpg" width="600" alt="Makro-Video: Zusammenbau eines Miniatur-Stadtbusses">
+
+**[🎬 Video ansehen →](https://x.com/abs_uiux/status/2096154692430467299)**
+
+**Autor:** [Abkr Sadiq](https://x.com/abs_uiux) | **Quelle:** [Link](https://x.com/abs_uiux/status/2096154692430467299) | **Veröffentlicht:** Sep 5, 2026
 
 ---
 ### Miniatur-Dorf bei Hochwasser
@@ -2648,86 +2793,6 @@ Cinematischer Cel-Shaded 3D-Anime, semi-realistisches CGI, handgemalte Texturen,
 **Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Quelle:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Veröffentlicht:** Jul 30, 2026
 
 ---
-### Tuschmalerei-Garnelen in einer futuristischen Stadt – Video
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein kreativer Prompt zur Videogenerierung, der schwarz-weiße Tuschmalerei-Garnelen zeigt, die von Reispapier in eine futuristische Neonstadt mit leuchtenden orbitalen Fühlern springen.
-
-#### 📝 Prompt
-
-```
-Tuschmalerei-Garnelen springen in eine futuristische Stadt – ein Stück Reispapier entfaltet sich inmitten nächtlicher Wolkenkratzer, acht schwarz-weiße Tuschmalerei-Garnelen springen von der Oberfläche des Papiers, wobei ihre Körper die „fliegenden weißen“ Pinselstriche und Tuscheverläufe beibehalten. Die Fühler der Garnelen verwandeln sich in leuchtende Stadtbahnen und Tintentropfen werden zu Neonregen; die Szene zeichnet sich durch einen enormen Maßstabs-Kontrast, starke Tiefenwirkung, filmische Beleuchtung und ein Spektakel aus, das sofort ins Auge fällt. Kein Text, keine Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082744444730945538/img/9DczSjaAZaPOqECB.jpg" width="600" alt="Tuschmalerei-Garnelen in einer futuristischen Stadt – Video">
-
-**[🎬 Video ansehen →](https://x.com/nicekate8888/status/2082746108493848857)**
-
-**Autor:** [nicekate](https://x.com/nicekate8888) | **Quelle:** [Link](https://x.com/nicekate8888/status/2082746108493848857) | **Veröffentlicht:** Jul 30, 2026
-
----
-### Suburbaner Leerraum-Riss
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein cineastischer Video-Prompt, der eine ruhige Vorstadtstraße beschreibt, in der sich der Himmel in einen violetten Leerraum spaltet, Trümmer anzieht und in einen außerirdischen Horizont übergeht.
-
-#### 📝 Prompt
-
-```
-Ruhige Vorstadtstraße, Abend, Rasensprenger laufen. Der Himmel spaltet sich mit einem lautlosen, blitzartigen Riss, der sich zu einem wirbelnden violetten Leerraum weitet. Die Kamera bewegt sich auf Bodenhöhe darauf zu, während Trümmer von der Straße aufsteigen; endet damit, dass die Kamera die Schwelle überschreitet und die Vorstadt augenblicklich durch einen außerirdischen Horizont ersetzt wird.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082402247921553408/img/AOtzmxJs6EOIfEYq.jpg" width="600" alt="Suburbaner Leerraum-Riss">
-
-**[🎬 Video ansehen →](https://x.com/iam_damayor/status/2082402289126432866)**
-
-**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Quelle:** [Link](https://x.com/iam_damayor/status/2082402289126432866) | **Veröffentlicht:** Jul 29, 2026
-
----
-### Drohnenflug durch eine schwebende Stadt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein dynamischer, filmischer Drohnen-Prompt, der einen Hochgeschwindigkeitsflug durch eine futuristische schwebende Stadt mit hängenden Gärten und leuchtenden Transitschienen einfängt.
-
-#### 📝 Prompt
-
-```
-Die Kamera fliegt schnell und tief durch eine Wolkenschicht und bricht dann in eine schwebende Stadt hervor – mit Türmen, hängenden Gärten und leuchtenden Transitschienen, die sich zwischen den Gebäuden winden. Kontinuierliche Vorwärtsbewegung im Drohnen-Stil, mit einer engen Kurve um einen Turm, Marktständen und Bürgern, die nach oben blicken. Das Video endet, als die Kamera vom Rand der Stadt in den offenen Himmel darunter eintaucht und den tausende Meter tiefer liegenden Ozean enthüllt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082129493578153984/img/v8Amc4yotlqkCAOq.jpg" width="600" alt="Drohnenflug durch eine schwebende Stadt">
-
-**[🎬 Video ansehen →](https://x.com/iam_damayor/status/2082129581838938522)**
-
-**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Quelle:** [Link](https://x.com/iam_damayor/status/2082129581838938522) | **Veröffentlicht:** Jul 28, 2026
-
----
-### Video-Prompt für einen orangefarbenen getigerten Katzen-Barista
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein detaillierter Multi-Scene-Prompt für ein Videogenerierungsmodell, in dem eine orangefarbene American Shorthair Katze als seriöser Barista in einem Café agiert.
-
-#### 📝 Prompt
-
-```
-[00:00-00:03] Die Kamera zoomt vom Eingang des Cafés in Richtung Theke. Eine orangefarbene American Shorthair Katze sitzt auf einem Kissen hinter der Theke und trägt eine kleine Schürze. Sie hat einen ernsten und feierlichen Gesichtsausdruck und wirkt wie ein engagierter Barista. Sie berührt sanft die Kaffeebohnen mit ihrer Pfote und neigt den Kopf, um am Kaffeearoma zu riechen.
-
-[00:03-00:07] Die Kamera bewegt sich näher heran. Die Katze beobachtet aufmerksam einen frisch zubereiteten Latte. Sie streckt ihre Pfote aus, um den Rand der Tasse sanft zu berühren, und neigt dann den Kopf, um am Milchschaum zu riechen. Sie kann nicht anders, als kurz den Schaum abzulecken. Sofort danach schaut sie zur Kamera hoch und tut so, als wäre nichts passiert.
-
-[00:07-00:10] Eine kleine Kaffeetasse wird vor die Katze geschoben. Die Katze setzt sich aufrecht hin und nimmt wieder ihren ernsten Gesichtsausdruck an. Sie schaut in Richtung Kamera und blinzelt langsam. Schließlich streckt sie verstohlen eine Pfote aus und zieht die Tasse zu sich heran.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2081818083929280512/img/ucRVy27CF137R6mT.jpg" width="600" alt="Video-Prompt für einen orangefarbenen getigerten Katzen-Barista">
-
-**[🎬 Video ansehen →](https://x.com/zhongying14/status/2081818532786974777)**
-
-**Autor:** [麻酱AI实验室](https://x.com/zhongying14) | **Quelle:** [Link](https://x.com/zhongying14/status/2081818532786974777) | **Veröffentlicht:** Jul 27, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -2780,6 +2845,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-06T08:22:25.426Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-06T14:57:58.572Z</sub>
 
 </div>
