@@ -48,7 +48,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 |--------|-------|
 | 📝 Total de prompts | **243** |
 | ⭐ Prompts destacados | **0** |
-| 🔄 Última actualización | **2026-09-06** |
+| 🔄 Última actualización | **2026-09-07** |
 
 ---
 
@@ -2802,6 +2802,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-06T21:57:39.258Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-07T02:59:59.956Z</sub>
 
 </div>
