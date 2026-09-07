@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **243** |
+| 📝 Gesamtanzahl Prompts | **247** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-07** |
 
@@ -56,6 +56,154 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Zeitraffer der blühenden Blumen durch die vier Jahreszeiten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer narrativer Prompt für Gemini Omni, der den Lauf eines Jahres in zehn Sekunden visualisiert und eine Blume durch Sonne, Regen, Herbst und Winterfrost zeigt.
+
+#### 📝 Prompt
+
+```
+Eine Blume blüht im warmen Sonnenlicht, Regen setzt ein, der Herbst übernimmt, und schließlich hüllt der Winter alles in Frost und Schnee.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096834081900351488/img/JJSWuWqW1DRFcBQj.jpg" width="600" alt="Zeitraffer der blühenden Blumen durch die vier Jahreszeiten">
+
+**[🎬 Video ansehen →](https://x.com/AI_VideoLab/status/2096834109402497110)**
+
+**Autor:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Quelle:** [Link](https://x.com/AI_VideoLab/status/2096834109402497110) | **Veröffentlicht:** Sep 7, 2026
+
+---
+### Storyboard für Premium-Ahornsirup-Werbespot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein professioneller, filmischer Storyboard-Prompt für eine Luxus-Ahornsirup-Werbung, mit detaillierten Makroaufnahmen von fließendem Sirup und der Präsentation von Gourmet-Pfannkuchen.
+
+#### 📝 Prompt
+
+```
+TITEL:
+Storyboard für Premium-Ahornsirup-Produktwerbung
+
+FORMAT:
+• Einseitiges Premium-Storyboard
+• 3:4 Hochformat
+• Luxus-Lebensmittelwerbung
+• 8 filmische, produktfokussierte Szenen
+• Das Produkt bleibt der Hauptdarsteller
+• Präsentation für High-End-Werbeagenturen
+
+HEADER:
+• Elegante Serifentypografie
+• Informationskarten:
+  - Dauer: 20 Sekunden
+  - Stil: Filmischer Gourmet-Lebensmittelwerbespot
+  - Produkt: Reiner Ahornsirup
+  - Audio: Langsames Eingießen + sanftes Food-ASMR
+• Bereich: Warum dieser Stil funktioniert
+• Ästhetik in warmem Bernstein, Creme und Dunkelbraun
+• Minimale dekorative Ahornblatt-Akzente
+
+STORYBOARD:
+1. Premium-Ahornsirupflasche auf poliertem dunklem Holz
+2. Öffnen des Flaschenverschlusses in extremer Makroaufnahme
+3. Goldener Sirup fließt langsam aus der Flasche
+4. Sirup bildet ein glänzendes Band in der Luft
+5. Sirup ergießt sich über fluffige Pfannkuchen
+6. Extremes Makro zeigt die reichhaltige Siruptextur und kleine Reflexionen
+7. Pfannkuchenstapel, umgeben von der Hauptflasche und Ahornblättern
+8. Finaler Luxus-Produkt-Packshot mit dramatischem Sirup-Guss
+
+JEDES PANEL:
+• Szenennummer
+• Dauer-Badge
+• Kameraanweisung
+• Visual
+• Aktion
+• Produktdetail
+
+KAMERA:
+Extremes Makro, Zeitlupen-Flüssigkeitsfotografie, Food-Shot von oben, kontrollierter Push-in, geringe Schärfentiefe, filmische Helden-Einstellung.
+
+STIL:
+Ultrarealistische Lebensmittelwerbung, realistische Sirupviskosität, glänzende goldene Textur, warmes Studiolicht, Premium-Glasverpackung, anspruchsvolle Gourmet-Präsentation, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788771031949_276axy_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard für Premium-Ahornsirup-Werbespot">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2096833097740493050)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2096833097740493050) | **Veröffentlicht:** Sep 7, 2026
+
+---
+### Kinoreifer Werbespot mit interaktivem 3D-Text
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Video-Generierungs-Prompt zur Erstellung eines rhythmischen Werbespots, in dem eine Figur in einer kontinuierlichen horizontalen Kamerafahrt mit dynamischen Textelementen interagiert.
+
+#### 📝 Prompt
+
+```
+Werbefilm.
+
+Behalten Sie die ursprüngliche Hintergrundfarbe während der gesamten Sequenz bei.
+
+Die Kamera folgt der Figur in einer flüssigen, kontinuierlichen horizontalen Kamerafahrt und bewegt sich parallel zu ihr, während sie geht.
+
+Text und Verbindungslinien erscheinen nach und nach auf dem Bildschirm und bilden einen durchgehenden visuellen Pfad.
+
+Während die Figur geht, erkennt sie die um sie herum erscheinenden Text- und Grafikelemente als physische Objekte, die tatsächlich im selben Raum existieren. Sie interagiert auf natürliche Weise mit diesen Elementen, während sie vorwärts geht: Sie tippt gelegentlich mit der Fingerspitze auf nahegelegenen Text, blickt zu Wörtern über ihr auf, wirft einen Seitenblick auf Grafiken, weicht leicht aus, um einem Element auszuweichen, duckt sich darunter hindurch oder hält kurz inne, um etwas zu betrachten.
+
+Eine durchgehende Linie, die an ein Bahngleis oder eine visuelle Route erinnert, verbindet ein Textelement mit dem nächsten. Der Text aus dem Referenzbild erscheint nacheinander entlang dieses verbundenen Pfads und folgt der ursprünglichen Reihenfolge.
+
+Die Text- und Grafikelemente dürfen sich nicht wie flache Hintergrunddekorationen anfühlen. Sie sollten sich physisch präsent im selben dreidimensionalen Raum wie die Figur anfühlen, mit überzeugenden räumlichen Beziehungen und Interaktionen.
+
+Wiederholen oder duplizieren Sie keinen Text.
+
+Halten Sie das Gesamttempo schnell, rhythmisch und flüssig. Die horizontale Kamerabewegung sollte während der gesamten Sequenz kontinuierlich und ununterbrochen bleiben.
+
+Geben Sie den gesamten Text aus dem Referenzbild originalgetreu wieder, ohne fehlerhafte Zeichen, beschädigte Typografie, Rechtschreibfehler oder geänderte Formulierungen.
+
+Für den finalen Übergang passiert ein großes Objekt oder Grafikelement im Vordergrund sehr nah die Kamera, verdeckt das gesamte Bild vollständig und erzeugt einen natürlichen Wischübergang durch eine Vordergrundunschärfe.
+
+Sobald das Vordergrundobjekt das Bild freigibt, wird nahtlos der finale Logo-Bildschirm eingeblendet.
+
+Die Kamerabewegung sollte flüssig, dynamisch und kinoreif sein.
+
+Priorisieren Sie die Interaktion zwischen der Figur und den Text-/Grafikelementen über alles andere.
+
+Hintergrundmusik: Schnelle, rhythmische Musik mit einem starken Beat.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096611422797283328/img/C8LAesMcDr9ILny6.jpg" width="600" alt="Kinoreifer Werbespot mit interaktivem 3D-Text">
+
+**[🎬 Video ansehen →](https://x.com/taya_mama_AI/status/2096612096003965254)**
+
+**Autor:** [た〜や｜スキマ時間×AI副業ママ](https://x.com/taya_mama_AI) | **Quelle:** [Link](https://x.com/taya_mama_AI/status/2096612096003965254) | **Veröffentlicht:** Sep 6, 2026
+
+---
+### Realistischer Video-Prompt: Interaktion mit einem Fisch mit Katzengesicht
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein hochkomplexer Video-Prompt für Gemini Omni, der eine realistische Interaktion zwischen einer menschlichen Hand und einem surrealen Fisch mit Katzengesicht erzeugt, inklusive physikbasiertem Streicheln und Expansionseffekten.
+
+#### 📝 Prompt
+
+```
+Erzeuge ein 10-sekündiges, fotorealistisches Video im 9:16-Hochformat. Der gesamte Film ist eine einzige, kontinuierliche Einstellung ohne Schnitte oder versteckte Übergänge. Drei winzige ‚Fische mit Katzengesicht‘ befinden sich in klarem, flachem Wasser. Das Hauptmotiv ist ein schwarz-weißes Gesicht eines Napoleon-/Minuet-Kätzchens, das natürlich mit einem kleinen, tropfenförmigen Fischkörper verschmilzt, inklusive echter dreieckiger Ohren, leuchtender, feuchter Augen und feiner Schnurrhaare. Eine menschliche Hand hebt den Fisch aus dem Wasser, wobei klare Hauttexturen und Wassertropfen zu sehen sind. Der Fisch wird gestreichelt und dehnt sich dann wie ein Kugelfisch zu einer pelzigen Kugel aus, während er seine Kätzchen-Merkmale und das schwarz-weiße Muster beibehält. Er wird sanft gedrückt, wobei eine realistische physikalische Verformung zu sehen ist, und spritzt schließlich Wasser auf das Kameraobjektiv, was realistische Wassertropfen und eine vorübergehende Unschärfe verursacht. Die Umgebungsgeräusche umfassen fließendes Wasser, ein winziges Miauen beim Streicheln und das Geräusch von Wasser, das auf das Objektiv trifft. Keine Hintergrundmusik, keine UI-Elemente und keine Sprungübergänge.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096476920863186944/img/GShVIT8GBnBuTH9Q.jpg" width="600" alt="Realistischer Video-Prompt: Interaktion mit einem Fisch mit Katzengesicht">
+
+**[🎬 Video ansehen →](https://x.com/acupofai/status/2096481317936648685)**
+
+**Autor:** [Lc造片实验室](https://x.com/acupofai) | **Quelle:** [Link](https://x.com/acupofai/status/2096481317936648685) | **Veröffentlicht:** Sep 6, 2026
+
+---
 ### Pixar-Stil Comedy-Video zu „Gedanken in einer stillen Nacht“
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2671,128 +2819,6 @@ Ein High-End-Werbespot für Kleinkindermode, Luxus wird wild, bezaubernd aber un
 **Autor:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Quelle:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Veröffentlicht:** Aug 1, 2026
 
 ---
-### X Earnings Celebration Motion Graphics
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein hochdetaillierter Motion-Graphics-Prompt für Gemini Omni zur Erstellung feierlicher Animationen für X-Earnings-Meilensteine, mit komplexen 3D-Rotationen, Partikeleffekten und synchronisierter Typografie.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie das angehängte Bild als einzige Referenz. Nutzen Sie immer dasselbe Bild; animieren Sie ausschließlich Position, Skalierung, Rotation, 3D-Rotation und Duplizierung. Generieren oder zeichnen Sie keine neuen Illustrationen. Hochwertige Motion Graphics. Video in kommerzieller Qualität, als wäre es in After Effects erstellt worden. Die allgemeine Atmosphäre ist geprägt von 'Erfolg', 'Verdopplung', 'Feier' und 'Freude'. Der Hintergrund ist hell und prachtvoll, mit goldenem Licht, Konfetti, Glitzereffekten, Partikeln und festlichen Effekten, die wunderschön tanzen. Das gesamte Video vermittelt eine positive und aufbauende Stimmung.
-
-Zeitgleich mit dem Start des Videos erscheint das angehängte Bild in der Mitte des Bildschirms. Das Bild skaliert schwungvoll und wiederholt rhythmisch die Bewegung: Vergrößern -> Verkleinern -> Vergrößern. Begleitet von der dynamischen Animation verbreiten sich goldenes Licht und Glitzereffekte in der Umgebung.
-
-Als Nächstes rotiert das Bild schnell um 360 Grad um seine Mitte und geht fließend in eine 3D-Rotation (Karten-Flip) entlang der Y-Achse über. Die Kamera bewegt sich zudem leicht vor und zurück, um Tiefe zu erzeugen. Goldene, bandartige Lichtstreifen und Partikel wirbeln synchron zur Rotation und unterstreichen das festliche Gefühl.
-
-In dem Moment, in dem die 3D-Rotation endet, teilt sich das Bild augenblicklich von einem in vier Teile. Die vier Stücke fliegen in die Ecken, wobei jedes weiterhin rotiert, skaliert und wunderschöne Lichtspuren hinterlässt.
-
-Unmittelbar danach teilen sich die vier Stücke weiter in 16 Teile auf, die sich gleichmäßig über den Bildschirm verteilen. Diese 16 Stücke wiederholen Rotation, 3D-Rotation und Skalierung zu unterschiedlichen Zeitpunkten und vermehren sich, bis sie den Bildschirm füllen. Im Hintergrund tanzen Konfetti, goldene Partikel, sternförmige Lichter und festliche Effekte großartig und unterstreichen visuell das Bild der 'Verdopplung'.
-
-Am Ende laufen alle 16 Teile mit hoher Geschwindigkeit in der Mitte zusammen und werden in einem Augenblick zu einem einzigen Bild vereint. Während die Kamera scharf auf das zusammengeführte Bild zoomt, bricht goldenes Licht hervor und Konfetti füllt den Bildschirm. Das Video endet mit einem überwältigend prachtvollen Abschluss, der den Erfolg feiert.
-
-Stellen Sie sicher, dass es keine Momente des Stillstands im Video gibt, um ein helles und energiegeladenes Tempo beizubehalten. Die Bewegungen sollten flüssig und scharf sein, mit dem Ziel, hochwertige Motion Graphics auf dem Niveau von Werbespots, kommerziellen Videos oder Musikvideos zu erreichen.
-
-Typografie-Präsentation (Feier/Verdopplungs-Version)
-
-Die Typografie sollte perfekt mit der Bewegung des Bildes synchronisiert sein. Der Text wird vor dem Bild platziert und verwendet eine fettgedruckte, moderne und luxuriöse serifenlose Schriftart. Fügen Sie den Zeichen goldenen Glanz, Leuchtkraft, Lichtschimmer und Bewegungsunschärfe hinzu, um einen feierlichen und hochwertigen Look zu erzielen.
-
-0–2 Sekunden: Ein riesiges 'X' skaliert schwungvoll hinein und pulsiert synchron zur Skalierung des Bildes. Goldenes Licht und Glitzereffekte verbreiten sich.
-
-2–4 Sekunden: Synchron zur 3D-Rotation des Bildes springt das Wort 'Earnings' aus dem Hintergrund hervor und skaliert kräftig. Begleitet von goldenen Lichtspuren wird ein Effekt erzeugt, der Erfolg und Gewinn symbolisiert.
-
-4–6 Sekunden: Das Wort 'Doubled' springt kraftvoll in die Mitte des Bildschirms und skaliert deutlich. Nach einem leichten Sprung breitet sich goldene Strahlkraft über den Bildschirm aus und unterstreicht die Wirkung von 'Earnings have doubled'.
-
-6–8 Sekunden: Während sich das Bild in 4 und 16 Teile aufteilt, erscheinen mehrere 'X'-Symbole und vermehren sich rhythmisch auf dem Bildschirm. Konfetti, goldene Partikel und sternförmige Lichter tanzen im Hintergrund und steigern die feierliche Stimmung auf ihren Höhepunkt.
-
-8–10 Sekunden: Alle Bilder und Zeichen versammeln sich in der Mitte, wobei 'X', 'Earnings' und 'Doubled' sich überlagern, um einen kraftvollen Titel zu bilden. Während die Kamera zoomt, bricht goldenes Licht hervor und Konfetti regnet über den Bildschirm. Das Video endet mit einem luxuriösen und erfrischenden Abschluss, der 'Earnings Doubled!' feiert.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="X Earnings Celebration Motion Graphics">
-
-**[🎬 Video ansehen →](https://x.com/Naonekozamurai/status/2083364119928049908)**
-
-**Autor:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Quelle:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Veröffentlicht:** Aug 1, 2026
-
----
-### Animation im Vox-Stil zu den Wahrzeichen Hongkongs
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein Animations-Prompt im Dokumentarstil zur Erklärung der Wahrzeichen Hongkongs, mit stilisierten Grafiken und japanischer Erzählstimme.
-
-#### 📝 Prompt
-
-```
-Eine 10-sekündige Animation, die die Wahrzeichen Hongkongs im Stil eines Vox-Erklärvideos erläutert. Der Hintergrund zeigt stilisierte 3D-Kartengrafiken von Hongkong (Längen-/Breitengrade, Küstenlinie des Hafens, Straßennetz und leuchtende Neontexturen). Beinhaltet eine japanische Erzählstimme (Ansage).
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="Animation im Vox-Stil zu den Wahrzeichen Hongkongs">
-
-**[🎬 Video ansehen →](https://x.com/cantonese_slang/status/2083065827671060963)**
-
-**Autor:** [広東語スラング先生](https://x.com/cantonese_slang) | **Quelle:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Veröffentlicht:** Jul 31, 2026
-
----
-### Video einer Katze mit Blasenhelm unter Wasser
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein fantasievoller Prompt für Gemini Omni, der ein Video einer Katze mit einem Blasenhelm erstellt, umgeben von schwimmenden Fischen in einer realistischen und zugleich märchenhaften Umgebung.
-
-#### 📝 Prompt
-
-```
-Erstelle ein Video mit dem Foto meiner Katze, die einen Blasenhelm trägt und von schwimmenden Fischen umgeben ist. Realistische und fantastische Szene
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Video einer Katze mit Blasenhelm unter Wasser">
-
-**[🎬 Video ansehen →](https://x.com/googleespanol/status/2082964458100433212)**
-
-**Autor:** [Google en español](https://x.com/googleespanol) | **Quelle:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **Veröffentlicht:** Jul 30, 2026
-
----
-### Cinematischer Fußball-Anime-Clip
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Video-Prompt für einen Kurzfilm im Anime-Stil, der eine Fußballsequenz auf einem Dach mit spezifischen zeitgesteuerten Aktionen und Audioanweisungen enthält.
-
-#### 📝 Prompt
-
-```
-Cinematischer Anime-Kurzfilm-Clip, 10 Sekunden. Flaches Betondach, klarer, strahlend blauer Himmel überall, Stadt weit unter ihm sichtbar, nur er und der Ball.
-
-CHARAKTER: Verwende das hochgeladene Charakterblatt.
-
-AUDIO: Hochenergetischer Hip-Hop-Beat, ab dem ersten Frame laut und durchgehend, jeder Schnitt auf den Beat abgestimmt, knackiges und befriedigendes Ballkontaktgeräusch bei jeder Berührung stets hörbar.
-
-[0:00-0:01] Flach auf dem Rücken auf dem Beton liegend, beide Füße zeigen nach oben, jongliert den Ball über sich mit abwechselnden Füßen, blauer Himmel darüber. Seitenprofil-Aufnahme auf Bodenhöhe. Schnitt von unten, Blick auf Füße und Ball vor dem Himmel. Schnitt von oben, direkter Blick nach unten auf ihn in horizontaler Position.
-
-[0:01-0:02] Springt mitten im Jonglieren auf die Füße, geht sofort in einen doppelten „Around the World“ über – der Fuß umkreist den Ball zweimal in einem Sprung, verschwimmt zu einem Kreis. Niedriger Winkel mit Blick nach oben gegen den blauen Himmel. Seitenprofil-Aufnahme des gesamten Sprungs. Extreme Nahaufnahme des Fußes, der um den Ball verschwimmt.
-
-[0:02-0:03] Ball landet perfekt und ruhig im Nacken. Nahaufnahme des Balls auf dem Nacken. Totale vor dem Himmel. Geht sofort vom Nacken-Stall in einen ATW über – der Ball schnellt vom Nacken hoch, der Fuß umkreist ihn sofort. Niedriger Winkel, der die gesamte Kombination vor dem Himmel zeigt.
-
-[0:03-0:04] Beugt sich nach vorne, der Ball rollt langsam den gesamten Rücken vom Nacken bis zum unteren Rücken hinunter, ohne herunterzufallen. Seitenprofil, das das gesamte Rollen zeigt. Nahaufnahme des Balls auf der Wirbelsäule. Wölbt den Rücken explosiv nach oben und schnippt den Ball vom unteren Rücken zurück in die Luft.
-
-[0:04-0:06] Sitzt im Schneidersitz auf dem Beton mitten im Jonglieren, beide Fersen jonglieren abwechselnd im Sitzen. Blick von oben nach unten. Nahaufnahme der Fersen von der Seite. Steht mitten im Jonglieren wieder auf, ohne dass die Hände den Boden berühren.
-
-[0:06-0:08] Handstand – Körper vollständig vertikal, der Ball balanciert auf einem Fuß, der gerade nach oben zeigt. Totale vor blauem Himmel. Nahaufnahme des Fußes, der den Ball kopfüber balanciert. Niedriger Winkel mit Blick nach oben auf ihn, invertiert vor dem Himmel.
-
-[0:08-0:10] Schießt den Ball mit dem Oberschenkel hoch – die Kamera folgt dem Ball nach oben gegen den rein blauen Himmel – Scheitelpunkt – fällt zurück – Rainbow-Flick über seinen Kopf – dreht sich – Volley mit voller Kraft – der Ball schießt direkt auf die Kamera zu und füllt den gesamten Bildausschnitt – SCHNITT AUF SCHWARZ. Ein letzter Beat-Schlag in der Dunkelheit.
-
-Cinematischer Cel-Shaded 3D-Anime, semi-realistisches CGI, handgemalte Texturen, Unreal Engine-Qualität, helles natürliches Tageslicht, durchgehend klarer blauer Himmel, Digital-Painting-Look, hartkantige Pinselstriche, starke Schatten, kein Cartoon, nicht Disney, nicht Pixar, Filmkörnung, Premium-Anime-Qualität, Hip-Hop-Beat und Ballkontaktgeräusche durchgehend dominant
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Cinematischer Fußball-Anime-Clip">
-
-**[🎬 Video ansehen →](https://x.com/iam_damayor/status/2082752702056956014)**
-
-**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Quelle:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Veröffentlicht:** Jul 30, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -2845,6 +2871,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-07T03:00:01.143Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-07T08:56:06.752Z</sub>
 
 </div>

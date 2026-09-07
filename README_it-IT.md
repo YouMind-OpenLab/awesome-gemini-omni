@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **243** |
+| 📝 Totale prompt | **247** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-09-07** |
 
@@ -56,6 +56,126 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Time-lapse della fioritura nelle quattro stagioni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narrativo cinematografico per Gemini Omni che visualizza il passare di un anno in dieci secondi, mostrando un fiore attraverso il sole, la pioggia, l'autunno e il gelo invernale.
+
+#### 📝 Prompt
+
+```
+Un fiore sboccia sotto il sole caldo, arriva la pioggia, subentra l'autunno, poi l'inverno copre tutto di brina e neve.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096834081900351488/img/JJSWuWqW1DRFcBQj.jpg" width="600" alt="Time-lapse della fioritura nelle quattro stagioni">
+
+**[🎬 Guarda il video →](https://x.com/AI_VideoLab/status/2096834109402497110)**
+
+**Autore:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Fonte:** [Link](https://x.com/AI_VideoLab/status/2096834109402497110) | **Pubblicato:** Sep 7, 2026
+
+---
+### Storyboard per spot pubblicitario di sciroppo d'acero premium
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per storyboard cinematografico professionale per una pubblicità di sciroppo d'acero di lusso, con dettagliati scatti macro dello sciroppo che cola e una presentazione gourmet di pancake.
+
+#### 📝 Prompt
+
+```
+TITOLO:
+Storyboard per spot pubblicitario di prodotto: sciroppo d'acero premium
+
+FORMATO:
+• Storyboard premium a pagina singola
+• Rapporto 3:4 verticale
+• Pubblicità di prodotti alimentari di lusso
+• 8 scene cinematografiche incentrate sul prodotto
+• Il prodotto rimane il protagonista principale
+• Presentazione per agenzia pubblicitaria di alto livello
+
+INTESTAZIONE:
+• Elegante tipografia serif
+• Schede informative:
+  - Durata: 20 secondi
+  - Stile: Spot cinematografico di cucina gourmet
+  - Prodotto: Sciroppo d'acero puro
+  - Audio: Versamento lento + ASMR gastronomico soft
+• Sezione "Perché questo stile funziona"
+• Estetica color ambra caldo, crema e marrone scuro
+• Accenti decorativi minimali a forma di foglia d'acero
+
+STORYBOARD:
+1. Bottiglia di sciroppo d'acero premium su legno scuro lucido
+2. Apertura del tappo della bottiglia in macro estrema
+3. Sciroppo dorato che cola lentamente dalla bottiglia
+4. Lo sciroppo forma un nastro lucido a mezz'aria
+5. Lo sciroppo che scende a cascata su soffici pancake
+6. Macro estrema che mostra la ricca consistenza dello sciroppo e i minuscoli riflessi
+7. Pila di pancake circondata dalla bottiglia protagonista e foglie d'acero
+8. Packshot finale del prodotto di lusso con versamento drammatico dello sciroppo
+
+OGNI RIQUADRO:
+• Numero della scena
+• Badge della durata
+• Direzione della camera
+• Visual
+• Azione
+• Dettaglio prodotto
+
+CAMERA:
+Macro estrema, fotografia di liquidi in slow-motion, ripresa dall'alto (overhead), push-in controllato, profondità di campo ridotta, inquadratura cinematografica del protagonista.
+
+STILE:
+Pubblicità gastronomica ultra-realistica, viscosità dello sciroppo realistica, texture dorata lucida, illuminazione da studio calda, packaging in vetro premium, presentazione gourmet sofisticata, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788771031949_276axy_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard per spot pubblicitario di sciroppo d'acero premium">
+
+**[🎬 Guarda il video →](https://x.com/Strength04_X/status/2096833097740493050)**
+
+**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2096833097740493050) | **Pubblicato:** Sep 7, 2026
+
+---
+### Spot pubblicitario cinematografico con testo 3D interattivo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per la generazione di video, pensato per creare uno spot ritmato in cui un personaggio interagisce con elementi testuali dinamici durante una ripresa in carrellata orizzontale continua.
+
+#### 📝 Prompt
+
+```
+Spot pubblicitario.\n\nMantenere il colore di sfondo iniziale per tutta la sequenza.\n\nLa telecamera segue fluidamente il personaggio con un movimento di scorrimento orizzontale continuo, muovendosi al suo fianco mentre cammina.\n\nIl testo e le linee di collegamento appaiono progressivamente sullo schermo, formando un percorso visivo continuo.\n\nMentre cammina, il personaggio riconosce il testo e gli elementi grafici che appaiono intorno a lui come oggetti fisici che esistono realmente nello stesso spazio. Interagisce naturalmente con questi elementi mentre avanza: toccando occasionalmente il testo vicino con la punta delle dita, guardando le parole sopra di sé, dando un'occhiata di lato alla grafica, spostandosi leggermente per evitare un elemento, abbassandosi sotto uno di essi o fermandosi brevemente per osservare qualcosa.\n\nUna linea continua, simile a un binario o a un percorso visivo, collega un elemento testuale all'altro. Il testo dell'immagine di riferimento appare in sequenza lungo questo percorso collegato, seguendo l'ordine originale.\n\nIl testo e gli elementi grafici non devono sembrare decorazioni piatte sullo sfondo. Devono apparire fisicamente presenti nello stesso spazio tridimensionale del personaggio, con relazioni spaziali e interazioni convincenti.\n\nNon ripetere o duplicare alcun testo.\n\nMantenere il ritmo generale veloce, ritmato e fluido. Il movimento di scorrimento orizzontale deve rimanere continuo e ininterrotto per tutta la sequenza.\n\nRiprodurre fedelmente tutto il testo dell'immagine di riferimento senza caratteri confusi, tipografia corrotta, errori di ortografia o alterazioni nelle parole.\n\nPer la transizione finale, un grande oggetto in primo piano o un elemento grafico passa molto vicino davanti alla telecamera, coprendo completamente l'intera inquadratura e creando una transizione naturale con sfocatura in primo piano.\n\nNon appena l'oggetto in primo piano lascia l'inquadratura, rivelare senza interruzioni la schermata finale con il logo.\n\nIl movimento della telecamera deve essere fluido, dinamico e cinematografico.\n\nDare priorità assoluta all'interazione tra il personaggio e il testo/elementi grafici.\n\nBGM: Musica ritmata e veloce con un beat deciso.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096611422797283328/img/C8LAesMcDr9ILny6.jpg" width="600" alt="Spot pubblicitario cinematografico con testo 3D interattivo">
+
+**[🎬 Guarda il video →](https://x.com/taya_mama_AI/status/2096612096003965254)**
+
+**Autore:** [た〜や｜スキマ時間×AI副業ママ](https://x.com/taya_mama_AI) | **Fonte:** [Link](https://x.com/taya_mama_AI/status/2096612096003965254) | **Pubblicato:** Sep 6, 2026
+
+---
+### Prompt video per un'interazione realistica con un pesce dal volto di gatto
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt video altamente complesso per Gemini Omni che crea un'interazione realistica tra una mano umana e un surreale pesce dal volto di gatto, includendo effetti di accarezzamento basati sulla fisica ed effetti di espansione.
+
+#### 📝 Prompt
+
+```
+Genera un video fotorealistico verticale 9:16 della durata di 10 secondi. L'intero filmato è un'unica ripresa continua senza tagli o transizioni nascoste. Tre minuscoli 'pesci dal volto di gatto' si trovano in acque basse e limpide. Il soggetto principale è il muso di un gattino Napoleon/Minuet bianco e nero fuso naturalmente con il corpo di un piccolo pesce a forma di goccia, caratterizzato da vere orecchie triangolari, occhi luminosi e umidi e baffi sottili. Una mano umana solleva il pesce dall'acqua, mostrando texture cutanee nitide e gocce d'acqua. Il pesce viene accarezzato, poi si espande come un pesce palla diventando una sfera pelosa, mantenendo i tratti del gattino e il motivo bianco e nero. Viene premuto delicatamente, mostrando una deformazione fisica realistica, e infine spruzza acqua sull'obiettivo della fotocamera, causando gocce d'acqua realistiche e un appannamento temporaneo. I suoni ambientali includono lo scorrere dell'acqua, un piccolo miagolio quando viene accarezzato e il suono dell'acqua che colpisce l'obiettivo. Nessuna musica di sottofondo, nessun elemento dell'interfaccia utente e nessuna transizione a scatti.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096476920863186944/img/GShVIT8GBnBuTH9Q.jpg" width="600" alt="Prompt video per un'interazione realistica con un pesce dal volto di gatto">
+
+**[🎬 Guarda il video →](https://x.com/acupofai/status/2096481317936648685)**
+
+**Autore:** [Lc造片实验室](https://x.com/acupofai) | **Fonte:** [Link](https://x.com/acupofai/status/2096481317936648685) | **Pubblicato:** Sep 6, 2026
+
+---
 ### Video comico in stile Pixar su 'Pensiero in una notte tranquilla'
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2671,128 +2791,6 @@ uno spot di moda di alta gamma per bambini, lusso allo stato brado, adorabili ma
 **Autore:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Fonte:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Pubblicato:** Aug 1, 2026
 
 ---
-### Motion Graphics per la celebrazione degli utili di X
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt di motion graphics altamente dettagliato per Gemini Omni, pensato per creare animazioni celebrative per i traguardi raggiunti da X, caratterizzato da complesse rotazioni 3D, effetti particellari e tipografia sincronizzata.
-
-#### 📝 Prompt
-
-```
-Utilizza l'immagine allegata come unico riferimento visivo. Usa sempre la stessa immagine; anima solo posizione, scala, rotazione, rotazione 3D e duplicazione. Non generare o ridisegnare nuove illustrazioni. Motion graphics di alta qualità. Video di qualità commerciale, come se fosse realizzato in After Effects. L'atmosfera generale deve trasmettere 'successo', 'raddoppio', 'celebrazione' e 'gioia'. Lo sfondo è luminoso e sfarzoso, con luci dorate, coriandoli, scintille, particelle ed effetti celebrativi che danzano magnificamente. L'intero video trasmette un'energia positiva e stimolante.
-
-All'inizio del video, l'immagine allegata appare al centro dello schermo. L'immagine si ingrandisce con vigore e ripete ritmicamente il movimento espansione -> contrazione -> espansione. Accompagnati dall'animazione dinamica, luci dorate e scintille si diffondono tutt'intorno.
-
-Successivamente, l'immagine ruota rapidamente di 360 gradi attorno al proprio centro, passando fluidamente a una rotazione 3D (effetto card flip) lungo l'asse Y. Anche la telecamera si muove leggermente avanti e indietro per creare profondità. Luci dorate simili a nastri e particelle vorticano in sincronia con la rotazione, enfatizzando l'atmosfera festosa.
-
-Nel momento in cui termina la rotazione 3D, l'immagine si divide istantaneamente da una a quattro. I quattro pezzi volano verso gli angoli, continuando ciascuno a ruotare, scalare e lasciare scie luminose spettacolari.
-
-Subito dopo, i quattro pezzi si dividono ulteriormente in 16, distribuendosi uniformemente sullo schermo. Questi 16 pezzi ripetono rotazione, rotazione 3D e ridimensionamento con tempistiche diverse, moltiplicandosi fino a riempire lo schermo. Sullo sfondo, coriandoli, particelle dorate, luci a forma di stella ed effetti celebrativi danzano grandiosamente, enfatizzando visivamente il concetto di 'raddoppio'.
-
-Alla fine, tutti i 16 pezzi convergono al centro ad alta velocità e si integrano in un unico elemento in un istante. Mentre la telecamera esegue uno zoom rapido verso l'immagine integrata, esplode una luce dorata e i coriandoli riempiono lo schermo. Il video si conclude con un finale straordinariamente sfarzoso che celebra il successo.
-
-Assicurati che non ci siano momenti di staticità durante il video, mantenendo un ritmo brillante ed energico. Il movimento deve essere fluido e netto, puntando a una qualità di motion graphics pari a quella di pubblicità, spot commerciali o video musicali.
-
-Presentazione della tipografia (Versione Celebrazione/Raddoppio)
-
-La tipografia deve essere perfettamente sincronizzata con il movimento dell'immagine. Il testo è posizionato davanti all'immagine, utilizzando un font sans-serif audace, moderno e lussuoso. Aggiungi brillantezza dorata, luminescenza, bagliore luminoso e motion blur ai caratteri per creare un look celebrativo e di alta classe.
-
-0–2 secondi: Una 'X' gigante entra in scena ingrandendosi vigorosamente, pulsando in sincronia con il ridimensionamento dell'immagine. Luci dorate e scintille si diffondono intorno.
-
-2–4 secondi: In sincronia con la rotazione 3D dell'immagine, la parola 'Earnings' emerge dallo sfondo, ingrandendosi con decisione. Accompagnata da scie di luce dorata, crea un effetto che simboleggia successo e profitto.
-
-4–6 secondi: La parola 'Doubled' balza con forza al centro dello schermo, ingrandendosi notevolmente. Dopo un leggero rimbalzo, una radiosità dorata si diffonde sullo schermo, enfatizzando l'impatto del 'raddoppio degli utili'.
-
-6–8 secondi: Mentre l'immagine si divide in 4 e 16 pezzi, molteplici simboli 'X' appaiono e si moltiplicano ritmicamente sullo schermo. Coriandoli, particelle dorate e luci a forma di stella danzano sullo sfondo, portando l'atmosfera celebrativa al culmine.
-
-8–10 secondi: Tutte le immagini e i caratteri si riuniscono al centro, con 'X', 'Earnings' e 'Doubled' che si sovrappongono per formare un titolo potente. Mentre la telecamera zooma, la luce dorata esplode e i coriandoli inondano lo schermo. Il video termina con un finale lussuoso e rinfrescante, celebrando 'Earnings Doubled!'.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Motion Graphics per la celebrazione degli utili di X">
-
-**[🎬 Guarda il video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
-
-**Autore:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Fonte:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Pubblicato:** Aug 1, 2026
-
----
-### Animazione in stile Vox sui punti di riferimento di Hong Kong
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt per un'animazione in stile documentaristico per spiegare i punti di riferimento di Hong Kong, con grafica stilizzata e narrazione in giapponese.
-
-#### 📝 Prompt
-
-```
-Un'animazione di 10 secondi che spiega i punti di riferimento di Hong Kong nello stile dei video esplicativi di Vox. Lo sfondo presenta una stilizzata grafica 3D della mappa di Hong Kong (linee di longitudine/latitudine, costa del porto, rete stradale e texture al neon luminose). Include l'audio della narrazione (annuncio) in giapponese.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="Animazione in stile Vox sui punti di riferimento di Hong Kong">
-
-**[🎬 Guarda il video →](https://x.com/cantonese_slang/status/2083065827671060963)**
-
-**Autore:** [広東語スラング先生](https://x.com/cantonese_slang) | **Fonte:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Pubblicato:** Jul 31, 2026
-
----
-### Video di un gatto con casco a bolla sott'acqua
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt stravagante per Gemini Omni che crea un video di un gatto che indossa un casco a bolla circondato da pesci che nuotano, in un'ambientazione realistica ma fantastica.
-
-#### 📝 Prompt
-
-```
-Crea un video con la foto del mio gatto che indossa un casco a bolla con dei pesci che gli nuotano intorno. Scena realistica e fantastica
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Video di un gatto con casco a bolla sott'acqua">
-
-**[🎬 Guarda il video →](https://x.com/googleespanol/status/2082964458100433212)**
-
-**Autore:** [Google en español](https://x.com/googleespanol) | **Fonte:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **Pubblicato:** Jul 30, 2026
-
----
-### Clip di anime calcistico cinematografico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video altamente dettagliato per un cortometraggio in stile anime che presenta una sequenza di calcio su un tetto, con azioni scandite da timestamp specifici e indicazioni audio.
-
-#### 📝 Prompt
-
-```
-Clip di cortometraggio anime cinematografico, 10 secondi. Tetto in cemento piatto, cielo azzurro limpido ovunque, città visibile in lontananza, solo lui e il pallone.
-
-PERSONAGGIO: utilizzare la scheda personaggio caricata.
-
-AUDIO: Beat hip hop ad alta energia, forte fin dal primo fotogramma e costante, ogni taglio sincronizzato con il ritmo, suono del contatto con il pallone nitido e soddisfacente a ogni tocco, sempre udibile.
-
-[0:00-0:01] Sdraiato sulla schiena sul cemento, entrambi i piedi rivolti verso l'alto, palleggia con il pallone sopra di sé alternando i piedi. Ripresa di profilo a livello del suolo. Taglio dal basso verso l'alto sui piedi e sul pallone contro il cielo. Taglio dall'alto con inquadratura zenitale.
-
-[0:01-0:02] Salta in piedi a metà palleggio, lancia immediatamente un doppio "around the world" (ATW) — il piede circonda il pallone due volte in un solo salto, sfocando in un cerchio. Angolazione dal basso verso l'alto contro il cielo azzurro. Profilo laterale del salto completo. Primissimo piano del piede che sfoca attorno al pallone.
-
-[0:02-0:03] Il pallone atterra perfettamente immobile sulla nuca. Primo piano del pallone sul collo. Campo lungo contro il cielo. Transizione immediata in un ATW dallo stallo sul collo — il pallone viene lanciato dal collo, il piede circonda istantaneamente. Angolazione dal basso che mostra la combinazione completa contro il cielo.
-
-[0:03-0:04] Si piega in avanti, il pallone rotola lentamente lungo tutta la colonna vertebrale, dal collo alla parte bassa della schiena, senza cadere. Profilo laterale che mostra il rotolamento completo. Primo piano del pallone sulla schiena. Inarca la schiena esplosivamente, lanciando il pallone in aria dalla parte bassa della schiena.
-
-[0:04-0:06] Si siede a gambe incrociate sul cemento continuando a palleggiare, entrambi i talloni alternano il palleggio mentre è seduto. Ripresa dall'alto. Primo piano dei talloni di lato. Si rialza a metà palleggio senza usare le mani per toccare terra.
-
-[0:06-0:08] Verticale sulle mani — corpo completamente verticale, pallone in equilibrio su un piede rivolto verso l'alto. Campo lungo contro il cielo azzurro. Primo piano del piede che bilancia il pallone capovolto. Angolazione dal basso verso l'alto su di lui rovesciato contro il cielo.
-
-[0:08-0:10] Lancia il pallone in alto con la coscia — la telecamera segue il pallone verso l'alto contro il cielo azzurro puro — apice — ricaduta — rainbow flick sopra la testa — si gira — tiro al volo a piena potenza — il pallone sfreccia direttamente verso la telecamera riempiendo l'intera inquadratura — TAGLIO AL NERO. Un ultimo colpo di beat nel buio.
-
-Anime 3D in cel-shading cinematografico, CGI semi-realistica, texture dipinte a mano, qualità Unreal Engine, luce diurna naturale e brillante, cielo azzurro limpido per tutta la durata, sensazione di pittura digitale, pennellate dai bordi netti, ombre marcate, non cartone animato, non Disney, non Pixar, grana della pellicola, qualità anime premium, beat hip hop e suoni del contatto con il pallone dominanti per tutta la durata
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Clip di anime calcistico cinematografico">
-
-**[🎬 Guarda il video →](https://x.com/iam_damayor/status/2082752702056956014)**
-
-**Autore:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Pubblicato:** Jul 30, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -2845,6 +2843,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-07T03:00:03.685Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-07T08:56:09.392Z</sub>
 
 </div>

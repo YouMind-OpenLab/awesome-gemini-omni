@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **243** |
+| 📝 Tổng số prompt | **247** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-07** |
 
@@ -56,6 +56,126 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Video tua nhanh cảnh hoa nở bốn mùa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh mô tả mang tính điện ảnh dành cho Gemini Omni, giúp hình dung sự chuyển giao của một năm chỉ trong mười giây, thể hiện một bông hoa qua các giai đoạn nắng, mưa, mùa thu và sương giá mùa đông.
+
+#### 📝 Prompt
+
+```
+Một bông hoa nở rộ dưới ánh nắng ấm áp, những cơn mưa ập đến, mùa thu bao trùm, rồi mùa đông phủ lên vạn vật lớp sương giá và tuyết trắng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096834081900351488/img/JJSWuWqW1DRFcBQj.jpg" width="600" alt="Video tua nhanh cảnh hoa nở bốn mùa">
+
+**[🎬 Xem video →](https://x.com/AI_VideoLab/status/2096834109402497110)**
+
+**Tác giả:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Nguồn:** [Link](https://x.com/AI_VideoLab/status/2096834109402497110) | **Đã xuất bản:** Sep 7, 2026
+
+---
+### Storyboard quảng cáo siro phong cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt storyboard điện ảnh chuyên nghiệp cho quảng cáo siro phong sang trọng, bao gồm các cảnh quay macro chi tiết về dòng siro đang chảy và cách trình bày món bánh pancake thượng hạng.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ:
+Storyboard quảng cáo sản phẩm siro phong cao cấp
+
+ĐỊNH DẠNG:
+• Storyboard cao cấp một trang
+• Tỷ lệ khung hình dọc 3:4
+• Quảng cáo sản phẩm thực phẩm sang trọng
+• 8 cảnh quay điện ảnh tập trung vào sản phẩm
+• Sản phẩm luôn là tâm điểm chính
+• Trình bày theo phong cách agency quảng cáo cao cấp
+
+PHẦN ĐẦU:
+• Phông chữ có chân thanh lịch
+• Thẻ thông tin:
+  - Thời lượng: 20 giây
+  - Phong cách: Quảng cáo thực phẩm gourmet điện ảnh
+  - Sản phẩm: Siro phong nguyên chất
+  - Âm thanh: Tiếng rót chậm + ASMR thực phẩm nhẹ nhàng
+• Mục "Tại sao phong cách này hiệu quả"
+• Thẩm mỹ màu hổ phách ấm áp, màu kem và nâu sẫm
+• Các điểm nhấn trang trí hình lá phong tối giản
+
+STORYBOARD:
+1. Chai siro phong cao cấp đặt trên nền gỗ tối màu được đánh bóng
+2. Cận cảnh cực đại (extreme macro) cảnh mở nắp chai
+3. Siro vàng óng chảy chậm từ chai
+4. Siro tạo thành dải bóng mượt giữa không trung
+5. Siro đổ xuống những chiếc bánh pancake mềm xốp
+6. Cận cảnh cực đại cho thấy kết cấu siro đậm đà và những phản chiếu nhỏ
+7. Chồng bánh pancake được bao quanh bởi chai sản phẩm chính và lá phong
+8. Hình ảnh sản phẩm cuối cùng sang trọng với cảnh rót siro đầy ấn tượng
+
+MỖI KHUNG HÌNH:
+• Số thứ tự cảnh
+• Huy hiệu thời lượng
+• Hướng máy quay
+• Hình ảnh
+• Hành động
+• Chi tiết sản phẩm
+
+MÁY QUAY:
+Cận cảnh cực đại, nhiếp ảnh chất lỏng chuyển động chậm, góc quay thực phẩm từ trên cao, kỹ thuật đẩy máy (push-in) có kiểm soát, độ sâu trường ảnh nông, bố cục khung hình điện ảnh tập trung vào sản phẩm.
+
+PHONG CÁCH:
+Quảng cáo thực phẩm siêu thực, độ nhớt của siro chân thực, kết cấu vàng bóng, ánh sáng studio ấm áp, bao bì thủy tinh cao cấp, trình bày theo phong cách gourmet tinh tế, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788771031949_276axy_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard quảng cáo siro phong cao cấp">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2096833097740493050)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2096833097740493050) | **Đã xuất bản:** Sep 7, 2026
+
+---
+### Quảng cáo điện ảnh với văn bản 3D tương tác
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt tạo video chi tiết để tạo ra video quảng cáo nhịp nhàng, nơi nhân vật tương tác với các yếu tố văn bản động trong một cú máy quay lia ngang liên tục.
+
+#### 📝 Prompt
+
+```
+Phim quảng cáo.\n\nGiữ nguyên màu nền ban đầu trong suốt chuỗi cảnh.\n\nCamera lia mượt mà theo nhân vật với chuyển động cuộn ngang liên tục, di chuyển song song khi họ bước đi.\n\nVăn bản và các đường nối xuất hiện dần dần trên màn hình, tạo thành một lộ trình hình ảnh liên tục.\n\nKhi nhân vật bước đi, họ nhận diện các văn bản và yếu tố đồ họa xuất hiện xung quanh mình như những vật thể vật lý thực sự tồn tại trong cùng một không gian. Họ tương tác một cách tự nhiên với các yếu tố này khi di chuyển về phía trước: thỉnh thoảng chạm nhẹ vào văn bản gần đó bằng đầu ngón tay, nhìn lên các từ phía trên, liếc nhìn sang các hình đồ họa, hơi bước sang một bên để tránh một yếu tố, cúi người xuống dưới hoặc dừng lại một chút để quan sát.\n\nMột đường kẻ liên tục, giống như đường ray hoặc lộ trình hình ảnh, kết nối các yếu tố văn bản với nhau. Văn bản từ hình ảnh tham chiếu xuất hiện tuần tự dọc theo con đường được kết nối này, tuân theo thứ tự gốc.\n\nVăn bản và các yếu tố đồ họa không được tạo cảm giác như vật trang trí nền phẳng. Chúng cần mang lại cảm giác hiện diện vật lý trong cùng một không gian ba chiều với nhân vật, với mối quan hệ không gian và sự tương tác đầy thuyết phục.\n\nKhông lặp lại hoặc sao chép bất kỳ văn bản nào.\n\nGiữ nhịp độ tổng thể nhanh, nhịp nhàng và trôi chảy. Chuyển động cuộn ngang phải liên tục và không bị gián đoạn trong suốt chuỗi cảnh.\n\nSao chép chính xác tất cả văn bản từ hình ảnh tham chiếu mà không bị lỗi ký tự, lỗi phông chữ, sai chính tả hoặc thay đổi từ ngữ.\n\nĐối với chuyển cảnh cuối, một vật thể lớn ở tiền cảnh hoặc yếu tố đồ họa sẽ lướt qua rất gần trước camera, che khuất hoàn toàn khung hình và tạo ra một hiệu ứng chuyển cảnh mờ tiền cảnh tự nhiên.\n\nKhi vật thể tiền cảnh rời khỏi khung hình, màn hình logo cuối cùng sẽ xuất hiện một cách mượt mà.\n\nChuyển động của camera phải mượt mà, năng động và mang tính điện ảnh.\n\nƯu tiên sự tương tác giữa nhân vật và các yếu tố văn bản / đồ họa trên hết mọi thứ khác.\n\nNhạc nền: Nhạc tiết tấu nhanh, nhịp điệu mạnh mẽ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096611422797283328/img/C8LAesMcDr9ILny6.jpg" width="600" alt="Quảng cáo điện ảnh với văn bản 3D tương tác">
+
+**[🎬 Xem video →](https://x.com/taya_mama_AI/status/2096612096003965254)**
+
+**Tác giả:** [た〜や｜スキマ時間×AI副業ママ](https://x.com/taya_mama_AI) | **Nguồn:** [Link](https://x.com/taya_mama_AI/status/2096612096003965254) | **Đã xuất bản:** Sep 6, 2026
+
+---
+### Prompt video tương tác với cá mặt mèo chân thực
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một prompt video phức tạp dành cho Gemini Omni giúp tạo ra sự tương tác chân thực giữa bàn tay người và một chú cá mặt mèo siêu thực, bao gồm hiệu ứng vuốt ve dựa trên vật lý và hiệu ứng phồng to.
+
+#### 📝 Prompt
+
+```
+Tạo một video dọc tỉ lệ 9:16, độ dài 10 giây với chất lượng chân thực như ảnh chụp. Toàn bộ video là một cú máy liên tục không cắt ghép hoặc chuyển cảnh ẩn. Ba chú 'cá mặt mèo' nhỏ đang bơi trong làn nước nông trong vắt. Chủ thể chính là một chú cá có khuôn mặt mèo Napoleon/Minuet trắng đen hòa quyện tự nhiên với thân hình cá nhỏ hình giọt nước, nổi bật với đôi tai tam giác thật, đôi mắt ướt sáng và bộ ria mép mảnh. Một bàn tay người nhấc chú cá ra khỏi mặt nước, làm lộ rõ kết cấu da và các giọt nước. Chú cá được vuốt ve, sau đó phồng to như cá nóc thành một khối cầu đầy lông trong khi vẫn giữ nguyên các đặc điểm mèo và hoa văn trắng đen. Chú cá được bóp nhẹ, thể hiện sự biến dạng vật lý chân thực, và cuối cùng phun nước vào ống kính máy quay, tạo ra các giọt nước thực tế và làm mờ tạm thời. Âm thanh môi trường bao gồm tiếng nước chảy, tiếng kêu 'meo' nhỏ khi được vuốt ve và tiếng nước bắn vào ống kính. Không có nhạc nền, không có yếu tố giao diện người dùng và không có chuyển cảnh nhảy cóc.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096476920863186944/img/GShVIT8GBnBuTH9Q.jpg" width="600" alt="Prompt video tương tác với cá mặt mèo chân thực">
+
+**[🎬 Xem video →](https://x.com/acupofai/status/2096481317936648685)**
+
+**Tác giả:** [Lc造片实验室](https://x.com/acupofai) | **Nguồn:** [Link](https://x.com/acupofai/status/2096481317936648685) | **Đã xuất bản:** Sep 6, 2026
+
+---
 ### Video hài hước phong cách Pixar về bài thơ 'Tĩnh Dạ Tư'
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2671,102 +2791,6 @@ một quảng cáo thời trang cao cấp dành cho trẻ mới biết đi, sự
 **Tác giả:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Nguồn:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Đã xuất bản:** Aug 1, 2026
 
 ---
-### Đồ họa chuyển động kỷ niệm thu nhập của X
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh đồ họa chuyển động chi tiết dành cho Gemini Omni để tạo các hoạt ảnh kỷ niệm cho các cột mốc thu nhập của X, bao gồm các vòng xoay 3D phức tạp, hiệu ứng hạt và kiểu chữ đồng bộ.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh đính kèm làm hình ảnh tham chiếu duy nhất. Luôn sử dụng cùng một hình ảnh; chỉ tạo hoạt ảnh cho vị trí, tỷ lệ, xoay, xoay 3D và nhân bản. Không tạo hoặc vẽ lại các hình minh họa mới. Đồ họa chuyển động chất lượng cao. Video chất lượng thương mại như được thực hiện trong After Effects. Bầu không khí tổng thể là 'thành công', 'nhân đôi', 'kỷ niệm' và 'niềm vui'. Nền sáng và lộng lẫy, với ánh sáng vàng, pháo giấy, tia sáng, các hạt và hiệu ứng kỷ niệm nhảy múa đẹp mắt. Toàn bộ video mang lại cảm giác tích cực và phấn chấn.\n\nNgay khi video bắt đầu, hình ảnh đính kèm xuất hiện ở giữa màn hình. Hình ảnh phóng to mạnh mẽ và lặp lại nhịp nhàng theo kiểu mở rộng -> thu nhỏ -> mở rộng. Đi kèm với hoạt ảnh nảy, ánh sáng vàng và các tia sáng lan tỏa xung quanh.\n\nTiếp theo, hình ảnh xoay nhanh 360 độ quanh tâm, chuyển đổi mượt mà sang xoay 3D (lật thẻ) dọc theo trục Y. Camera cũng di chuyển nhẹ qua lại để tạo chiều sâu. Ánh sáng giống như dải ruy băng vàng và các hạt xoáy đồng bộ với chuyển động xoay, làm nổi bật cảm giác lễ hội.\n\nTại thời điểm kết thúc xoay 3D, hình ảnh ngay lập tức tách từ một thành bốn. Bốn mảnh bay ra các góc, mỗi mảnh tiếp tục xoay, thay đổi tỷ lệ và để lại những vệt sáng đẹp mắt.\n\nNgay sau đó, bốn mảnh tiếp tục tách thành 16 mảnh, lan tỏa đều khắp màn hình. 16 mảnh này lặp lại chuyển động xoay, xoay 3D và thay đổi tỷ lệ ở các thời điểm khác nhau, nhân lên để lấp đầy màn hình. Ở hậu cảnh, pháo giấy, hạt vàng, đèn hình ngôi sao và các hiệu ứng kỷ niệm nhảy múa hoành tráng, nhấn mạnh trực quan hình ảnh 'nhân đôi'.\n\nCuối cùng, tất cả 16 mảnh hội tụ về trung tâm với tốc độ cao và được tích hợp thành một mảnh trong tích tắc. Khi camera phóng to mạnh vào hình ảnh đã hợp nhất, ánh sáng vàng bùng nổ và pháo giấy lấp đầy màn hình. Video kết thúc với một cái kết lộng lẫy, ăn mừng thành công.\n\nĐảm bảo không có khoảnh khắc tĩnh lặng nào trong suốt video, duy trì nhịp độ tươi sáng và tràn đầy năng lượng. Chuyển động phải mượt mà và sắc nét, hướng tới đồ họa chuyển động chất lượng cao ở cấp độ quảng cáo, thương mại hoặc video âm nhạc.\n\nTrình bày kiểu chữ (Phiên bản Kỷ niệm/Nhân đôi)\n\nKiểu chữ phải được đồng bộ hoàn hảo với chuyển động của hình ảnh. Văn bản được đặt phía trước hình ảnh, sử dụng phông chữ không chân đậm, hiện đại và sang trọng. Thêm độ sáng vàng, phát quang, hiệu ứng ánh sáng và nhòe chuyển động cho các ký tự để tạo vẻ ngoài kỷ niệm và cao cấp.\n\n0–2 giây: Chữ 'X' khổng lồ phóng to mạnh mẽ, nhấp nháy đồng bộ với tỷ lệ của hình ảnh. Ánh sáng vàng và các tia sáng lan tỏa xung quanh.\n\n2–4 giây: Đồng bộ với chuyển động xoay 3D của hình ảnh, từ 'Earnings' nhảy ra từ hậu cảnh, phóng to đậm nét. Đi kèm với những vệt sáng vàng, tạo hiệu ứng tượng trưng cho thành công và lợi nhuận.\n\n4–6 giây: Từ 'Doubled' nhảy mạnh mẽ vào giữa màn hình, phóng to đáng kể. Sau một cú nảy nhẹ, ánh sáng vàng lan tỏa khắp màn hình, nhấn mạnh tác động của 'Thu nhập đã tăng gấp đôi'.\n\n6–8 giây: Khi hình ảnh tách thành 4 và 16 mảnh, nhiều biểu tượng 'X' xuất hiện và nhân lên nhịp nhàng khắp màn hình. Pháo giấy, hạt vàng và đèn hình ngôi sao nhảy múa ở hậu cảnh, đẩy tâm trạng kỷ niệm lên cao trào.\n\n8–10 giây: Tất cả hình ảnh và ký tự tập trung ở trung tâm, với 'X', 'Earnings' và 'Doubled' chồng lên nhau tạo thành một tiêu đề mạnh mẽ. Khi camera phóng to, ánh sáng vàng bùng nổ và pháo giấy đổ xuống màn hình. Video kết thúc với một cái kết sang trọng và sảng khoái, kỷ niệm 'Earnings Doubled!'.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Đồ họa chuyển động kỷ niệm thu nhập của X">
-
-**[🎬 Xem video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
-
-**Tác giả:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Nguồn:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Hoạt hình phong cách Vox về các địa danh tại Hồng Kông
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một gợi ý (prompt) tạo hoạt hình theo phong cách phim tài liệu để giải thích về các địa danh tại Hồng Kông, sử dụng đồ họa cách điệu và lời dẫn bằng tiếng Nhật.
-
-#### 📝 Prompt
-
-```
-Một đoạn hoạt hình dài 10 giây giải thích về các địa danh tại Hồng Kông theo phong cách video giải thích của Vox. Nền video sử dụng đồ họa bản đồ 3D đầy phong cách về Hồng Kông (các đường kinh độ/vĩ độ, đường bờ biển của cảng, lưới đường phố và các kết cấu đèn neon rực rỡ). Bao gồm âm thanh dẫn chuyện (thông báo) bằng tiếng Nhật.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="Hoạt hình phong cách Vox về các địa danh tại Hồng Kông">
-
-**[🎬 Xem video →](https://x.com/cantonese_slang/status/2083065827671060963)**
-
-**Tác giả:** [広東語スラング先生](https://x.com/cantonese_slang) | **Nguồn:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Đã xuất bản:** Jul 31, 2026
-
----
-### Video chú mèo đội mũ bong bóng dưới nước
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh đầy sáng tạo dành cho Gemini Omni để tạo video về một chú mèo đội mũ bong bóng, xung quanh là những chú cá đang bơi trong một khung cảnh vừa chân thực vừa huyền ảo.
-
-#### 📝 Prompt
-
-```
-Tạo một video từ ảnh chú mèo của tôi đang đội mũ bong bóng với những chú cá bơi xung quanh. Khung cảnh chân thực và đầy chất huyền ảo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Video chú mèo đội mũ bong bóng dưới nước">
-
-**[🎬 Xem video →](https://x.com/googleespanol/status/2082964458100433212)**
-
-**Tác giả:** [Google en español](https://x.com/googleespanol) | **Nguồn:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **Đã xuất bản:** Jul 30, 2026
-
----
-### Đoạn phim anime bóng đá đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) video chi tiết cho phim ngắn phong cách anime, mô tả cảnh đá bóng trên sân thượng với các hành động theo mốc thời gian cụ thể và chỉ dẫn âm thanh.
-
-#### 📝 Prompt
-
-```
-Đoạn phim ngắn anime đậm chất điện ảnh, thời lượng 10 giây. Sân thượng bê tông phẳng, bầu trời xanh trong vắt, nhìn thấy thành phố phía xa bên dưới, chỉ có cậu ấy và quả bóng.
-
-NHÂN VẬT: sử dụng bảng nhân vật đã tải lên.
-
-ÂM THANH: Nhạc hip hop sôi động bắt đầu từ khung hình đầu tiên và không dừng lại, mỗi nhịp cắt đều khớp với nhịp nhạc, âm thanh tiếp xúc bóng sắc nét và thỏa mãn luôn nghe rõ trong mỗi lần chạm.
-
-[0:00-0:01] Nằm ngửa trên nền bê tông, hai chân hướng lên trên, tâng bóng phía trên bằng hai chân luân phiên, bầu trời xanh phía trên. Góc quay ngang tầm mặt đất. Cắt sang góc nhìn từ dưới lên vào đôi chân và quả bóng trên nền trời. Cắt sang góc nhìn từ trên cao xuống thẳng người cậu ấy.
-
-[0:01-0:02] Bật dậy khi đang tâng bóng, ngay lập tức thực hiện cú double around the world — chân xoay quanh bóng hai lần trong một cú nhảy, tạo thành vòng tròn mờ ảo. Góc thấp nhìn lên nền trời xanh. Góc quay ngang toàn cảnh cú nhảy. Cận cảnh cực đại đôi chân mờ đi quanh quả bóng.
-
-[0:02-0:03] Bóng rơi xuống và đứng yên hoàn hảo trên gáy. Cận cảnh quả bóng trên gáy. Góc quay rộng trên nền trời. Ngay lập tức chuyển sang kỹ thuật ATW từ tư thế giữ bóng trên gáy — bóng bật khỏi gáy, chân xoay tức thì. Góc thấp cho thấy toàn bộ tổ hợp kỹ thuật trên nền trời.
-
-[0:03-0:04] Cúi người về phía trước, bóng lăn chậm dọc theo toàn bộ cột sống từ gáy xuống thắt lưng mà không rơi. Góc quay ngang cho thấy toàn bộ đường lăn. Cận cảnh quả bóng trên cột sống. Ưỡn lưng bật mạnh, hất quả bóng ngược lên không trung từ thắt lưng.
-
-[0:04-0:06] Ngồi khoanh chân trên bê tông khi đang tâng bóng, hai gót chân luân phiên tâng bóng trong khi ngồi. Góc nhìn từ trên xuống. Cận cảnh gót chân từ góc ngang. Đứng dậy khi đang tâng bóng mà không dùng tay chạm đất.
-
-[0:06-0:08] Trồng cây chuối — cơ thể thẳng đứng hoàn toàn, bóng thăng bằng trên một bàn chân hướng thẳng lên trời. Góc quay rộng trên nền trời xanh. Cận cảnh bàn chân giữ thăng bằng quả bóng khi đang lộn ngược. Góc thấp nhìn lên cậu ấy trong tư thế lộn ngược trên nền trời.
-
-[0:08-0:10] Hất bóng lên cao bằng đùi — máy quay theo bóng hướng lên trên nền trời xanh thuần khiết — đạt đỉnh — rơi xuống — cú rainbow flick qua đầu — xoay người — cú vô lê toàn lực — bóng lao thẳng vào máy quay lấp đầy khung hình — CẮT ĐEN. Một nhịp nhạc cuối cùng vang lên trong bóng tối.
-
-Anime 3D cel-shaded điện ảnh, CGI bán thực tế, kết cấu vẽ tay, chất lượng Unreal Engine, ánh sáng ban ngày tự nhiên rực rỡ, bầu trời xanh trong suốt, cảm giác tranh kỹ thuật số, nét vẽ sắc sảo, đổ bóng đậm, không phải hoạt hình, không phải Disney, không phải Pixar, có hạt phim (film grain), chất lượng anime cao cấp, nhịp hip hop và âm thanh tiếp xúc bóng chiếm ưu thế xuyên suốt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Đoạn phim anime bóng đá đậm chất điện ảnh">
-
-**[🎬 Xem video →](https://x.com/iam_damayor/status/2082752702056956014)**
-
-**Tác giả:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Nguồn:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Đã xuất bản:** Jul 30, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -2819,6 +2843,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-07T02:59:55.389Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-07T08:56:01.388Z</sub>
 
 </div>

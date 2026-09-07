@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **243** |
+| 📝 Total de prompts | **247** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-09-07** |
 
@@ -56,6 +56,154 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Time-lapse da Floração das Quatro Estações
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt narrativo cinematográfico para o Gemini Omni que visualiza a passagem de um ano em dez segundos, mostrando uma flor através do sol, da chuva, do outono e da geada de inverno.
+
+#### 📝 Prompt
+
+```
+Uma flor desabrocha sob a luz quente do sol, a chuva chega, o outono assume o controle e, então, o inverno cobre tudo com geada e neve.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096834081900351488/img/JJSWuWqW1DRFcBQj.jpg" width="600" alt="Time-lapse da Floração das Quatro Estações">
+
+**[🎬 Assistir vídeo →](https://x.com/AI_VideoLab/status/2096834109402497110)**
+
+**Autor:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Fonte:** [Link](https://x.com/AI_VideoLab/status/2096834109402497110) | **Publicado:** Sep 7, 2026
+
+---
+### Storyboard Comercial para Xarope de Bordo Premium
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de storyboard cinematográfico profissional para um anúncio de xarope de bordo de luxo, apresentando closes macro detalhados de xarope escorrendo e apresentação de panquecas gourmet.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Storyboard para Comercial de Produto de Xarope de Bordo Premium
+
+FORMATO:
+• Storyboard premium de página única
+• Proporção retrato 3:4
+• Publicidade de produto alimentício de luxo
+• 8 cenas cinematográficas focadas no produto
+• O produto permanece como o protagonista principal
+• Apresentação de agência de publicidade de alto padrão
+
+CABEÇALHO:
+• Tipografia serifada elegante
+• Cartões de informações:
+  - Duração: 20 segundos
+  - Estilo: Comercial Cinematográfico de Alimentos Gourmet
+  - Produto: Xarope de Bordo Puro
+  - Áudio: Som de despejo lento + ASMR suave de alimentos
+• Seção "Por que este estilo funciona"
+• Estética em tons de âmbar quente, creme e marrom escuro
+• Detalhes decorativos minimalistas de folha de bordo
+
+STORYBOARD:
+1. Garrafa de xarope de bordo premium sobre madeira escura polida
+2. Abertura da tampa da garrafa em macro extremo
+3. Xarope dourado escorrendo lentamente da garrafa
+4. Xarope formando uma fita brilhante no ar
+5. Xarope caindo em cascata sobre panquecas fofas
+6. Macro extremo mostrando a textura rica do xarope e pequenos reflexos
+7. Pilha de panquecas cercada pela garrafa protagonista e folhas de bordo
+8. Packshot final do produto de luxo com despejo dramático de xarope
+
+CADA PAINEL:
+• Número da cena
+• Distintivo de duração
+• Direção de câmera
+• Visual
+• Ação
+• Detalhe do produto
+
+CÂMERA:
+Macro extremo, fotografia de líquidos em câmera lenta, plano de comida zenital, movimento de aproximação controlado, profundidade de campo rasa, enquadramento cinematográfico de protagonista.
+
+ESTILO:
+Publicidade de alimentos ultrarrealista, viscosidade de xarope realista, textura dourada brilhante, iluminação de estúdio quente, embalagem de vidro premium, apresentação gourmet sofisticada, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788771031949_276axy_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard Comercial para Xarope de Bordo Premium">
+
+**[🎬 Assistir vídeo →](https://x.com/Strength04_X/status/2096833097740493050)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2096833097740493050) | **Publicado:** Sep 7, 2026
+
+---
+### Comercial Cinematográfico com Texto 3D Interativo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado de geração de vídeo para criar um comercial rítmico onde um personagem interage com elementos de texto dinâmicos em um plano de acompanhamento horizontal contínuo.
+
+#### 📝 Prompt
+
+```
+Filme publicitário.
+
+Mantenha a cor de fundo inicial durante toda a sequência.
+
+A câmera acompanha suavemente o personagem com um movimento de rolagem horizontal contínuo, movendo-se ao lado dele enquanto caminha.
+
+Texto e linhas de conexão aparecem progressivamente na tela, formando um caminho visual contínuo.
+
+À medida que o personagem caminha, ele reconhece o texto e os elementos gráficos que aparecem ao seu redor como objetos físicos que realmente existem no mesmo espaço. Ele interage naturalmente com esses elementos enquanto avança: ocasionalmente tocando no texto próximo com a ponta dos dedos, olhando para as palavras acima dele, olhando de lado para os gráficos, desviando ligeiramente para evitar um elemento, abaixando-se sob um deles ou parando brevemente para observar algo.
+
+Uma linha contínua, semelhante a um trilho de trem ou rota visual, conecta um elemento de texto ao próximo. O texto da imagem de referência aparece sequencialmente ao longo deste caminho conectado, seguindo a ordem original.
+
+O texto e os elementos gráficos não devem parecer decorações de fundo planas. Eles devem parecer fisicamente presentes no mesmo espaço tridimensional que o personagem, com relações espaciais e interações convincentes.
+
+Não repita ou duplique nenhum texto.
+
+Mantenha o ritmo geral rápido, rítmico e fluido. O movimento de rolagem horizontal deve permanecer contínuo e ininterrupto durante toda a sequência.
+
+Reproduza fielmente todo o texto da imagem de referência sem caracteres distorcidos, tipografia corrompida, erros ortográficos ou alterações na redação.
+
+Para a transição final, um grande objeto em primeiro plano ou elemento gráfico passa muito perto da câmera, cobrindo completamente todo o quadro e criando uma transição natural de limpeza com desfoque em primeiro plano.
+
+À medida que o objeto em primeiro plano sai do quadro, revele perfeitamente a tela final com o logotipo.
+
+O movimento da câmera deve ser suave, dinâmico e cinematográfico.
+
+Priorize a interação entre o personagem e o texto/elementos gráficos acima de tudo.
+
+BGM: Música rítmica e acelerada com uma batida forte.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096611422797283328/img/C8LAesMcDr9ILny6.jpg" width="600" alt="Comercial Cinematográfico com Texto 3D Interativo">
+
+**[🎬 Assistir vídeo →](https://x.com/taya_mama_AI/status/2096612096003965254)**
+
+**Autor:** [た〜や｜スキマ時間×AI副業ママ](https://x.com/taya_mama_AI) | **Fonte:** [Link](https://x.com/taya_mama_AI/status/2096612096003965254) | **Publicado:** Sep 6, 2026
+
+---
+### Prompt de vídeo realista de interação com peixe com rosto de gato
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt de vídeo altamente complexo para o Gemini Omni que cria uma interação realista entre uma mão humana e um peixe surreal com rosto de gato, incluindo carícias baseadas em física e efeitos de expansão.
+
+#### 📝 Prompt
+
+```
+Gere um vídeo fotorrealista vertical de 10 segundos em 9:16. Todo o filme é uma tomada contínua, sem cortes ou transições ocultas. Três pequenos 'peixes com rosto de gato' estão em águas rasas e claras. O sujeito principal é um rosto de gatinho Napoleon/Minuet preto e branco naturalmente fundido com um pequeno corpo de peixe em forma de gota, apresentando orelhas triangulares reais, olhos brilhantes e úmidos e bigodes finos. Uma mão humana levanta o peixe da água, mostrando texturas de pele nítidas e gotas d'água. O peixe é acariciado e, em seguida, expande-se como um baiacu em uma esfera peluda, mantendo suas características de gatinho e seu padrão preto e branco. Ele é apertado suavemente, mostrando uma deformação física realista, e finalmente espirra água na lente da câmera, causando gotas d'água realistas e um embaçamento temporário. Os sons ambientais incluem fluxo de água, um miado minúsculo ao ser acariciado e o som da água atingindo a lente. Sem música de fundo, sem elementos de interface e sem transições bruscas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096476920863186944/img/GShVIT8GBnBuTH9Q.jpg" width="600" alt="Prompt de vídeo realista de interação com peixe com rosto de gato">
+
+**[🎬 Assistir vídeo →](https://x.com/acupofai/status/2096481317936648685)**
+
+**Autor:** [Lc造片实验室](https://x.com/acupofai) | **Fonte:** [Link](https://x.com/acupofai/status/2096481317936648685) | **Publicado:** Sep 6, 2026
+
+---
 ### Vídeo de comédia no estilo Pixar de 'Pensamento em uma Noite Silenciosa'
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2671,128 +2819,6 @@ um comercial de moda de alto padrão para crianças pequenas, luxo que se tornou
 **Autor:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Fonte:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Publicado:** Aug 1, 2026
 
 ---
-### Motion Graphics para Celebração de Resultados do X
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de motion graphics altamente detalhado para o Gemini Omni criar animações comemorativas para marcos de resultados do X, apresentando rotações 3D complexas, efeitos de partículas e tipografia sincronizada.
-
-#### 📝 Prompt
-
-```
-Use a imagem em anexo como a única referência visual. Utilize sempre a mesma imagem; anime apenas a posição, escala, rotação, rotação 3D e duplicação. Não gere nem redesenhe novas ilustrações. Motion graphics de alta qualidade. Vídeo com qualidade comercial, como se tivesse sido feito no After Effects. A atmosfera geral é de 'sucesso', 'duplicação', 'celebração' e 'alegria'. O fundo é brilhante e deslumbrante, com luz dourada, confetes, brilhos, partículas e efeitos comemorativos dançando de forma bela. Todo o vídeo transmite uma vibração positiva e inspiradora.
-
-Simultaneamente ao início do vídeo, a imagem em anexo aparece no centro da tela. A imagem aumenta de escala vigorosamente e repete ritmicamente o movimento de expandir -> encolher -> expandir. Acompanhando a animação saltitante, luz dourada e brilhos se espalham ao redor.
-
-Em seguida, a imagem gira 360 graus rapidamente em torno do seu centro, transicionando suavemente para uma rotação 3D (giro de cartão) ao longo do eixo Y. A câmera também se move levemente para frente e para trás para criar profundidade. Luzes em forma de fita dourada e partículas giram em sincronia com a rotação, enfatizando a sensação festiva.
-
-No momento em que a rotação 3D termina, a imagem se divide instantaneamente de uma para quatro. As quatro peças voam para os cantos, cada uma continuando a girar, mudar de escala e deixar belos rastros de luz.
-
-Imediatamente após, as quatro peças se dividem ainda mais em 16, espalhando-se uniformemente pela tela. Essas 16 peças repetem a rotação, rotação 3D e mudança de escala em tempos diferentes, proliferando para preencher a tela. Ao fundo, confetes, partículas douradas, luzes em formato de estrela e efeitos comemorativos dançam grandiosamente, enfatizando visualmente a ideia de 'duplicação'.
-
-Ao final, todas as 16 peças convergem para o centro em alta velocidade e são integradas em uma única peça instantaneamente. À medida que a câmera dá um zoom rápido em direção à imagem integrada, uma luz dourada explode e confetes preenchem a tela. O vídeo termina com um desfecho extremamente luxuoso celebrando o sucesso.
-
-Certifique-se de que não haja momentos de estática durante todo o vídeo, mantendo um ritmo brilhante e energético. O movimento deve ser suave e nítido, visando motion graphics de alta qualidade no nível de anúncios, comerciais ou videoclipes.
-
-Apresentação da Tipografia (Versão Celebração/Duplicação)
-
-A tipografia deve estar perfeitamente sincronizada com o movimento da imagem. O texto é colocado à frente da imagem, usando uma fonte sem serifa ousada, moderna e luxuosa. Adicione brilho dourado, luminescência, efeito de luz e desfoque de movimento aos caracteres para criar um visual comemorativo e sofisticado.
-
-0–2 segundos: Um 'X' gigante aumenta de escala vigorosamente, pulsando em sincronia com a escala da imagem. Luz dourada e brilhos se espalham ao redor.
-
-2–4 segundos: Sincronizando com a rotação 3D da imagem, a palavra 'Earnings' salta do fundo, aumentando de escala de forma ousada. Acompanhada por rastros de luz dourada, execute um efeito que simbolize sucesso e lucro.
-
-4–6 segundos: A palavra 'Doubled' salta poderosamente para o centro da tela, aumentando significativamente de escala. Após um leve salto, uma radiância dourada se espalha pela tela, enfatizando o impacto de que 'os resultados dobraram'.
-
-6–8 segundos: À medida que a imagem se divide em 4 e 16 peças, múltiplos símbolos 'X' aparecem e proliferam ritmicamente pela tela. Confetes, partículas douradas e luzes em formato de estrela dançam ao fundo, elevando o clima de celebração ao seu ápice.
-
-8–10 segundos: Todas as imagens e caracteres se reúnem no centro, com 'X', 'Earnings' e 'Doubled' sobrepondo-se para formar um título poderoso. À medida que a câmera dá zoom, a luz dourada explode e confetes chovem pela tela. O vídeo termina com um desfecho luxuoso e revigorante, celebrando que 'os resultados dobraram!'.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Motion Graphics para Celebração de Resultados do X">
-
-**[🎬 Assistir vídeo →](https://x.com/Naonekozamurai/status/2083364119928049908)**
-
-**Autor:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Fonte:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Publicado:** Aug 1, 2026
-
----
-### Animação estilo Vox de pontos turísticos de Hong Kong
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de animação em estilo documentário para explicar pontos turísticos de Hong Kong, apresentando gráficos estilizados e narração em japonês.
-
-#### 📝 Prompt
-
-```
-Uma animação de 10 segundos explicando pontos turísticos de Hong Kong no estilo de um vídeo explicativo da Vox. O fundo apresenta gráficos de mapa 3D elegantes de Hong Kong (linhas de longitude/latitude, costa do porto, malha viária e texturas de neon brilhantes). Inclui áudio de narração (anúncio) em japonês.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="Animação estilo Vox de pontos turísticos de Hong Kong">
-
-**[🎬 Assistir vídeo →](https://x.com/cantonese_slang/status/2083065827671060963)**
-
-**Autor:** [広東語スラング先生](https://x.com/cantonese_slang) | **Fonte:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Publicado:** Jul 31, 2026
-
----
-### Vídeo de gato com capacete de bolha debaixo d'água
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt criativo para o Gemini Omni que gera um vídeo de um gato usando um capacete de bolha, cercado por peixes em um cenário realista, porém fantástico.
-
-#### 📝 Prompt
-
-```
-Crie um vídeo com a foto do meu gato usando um capacete de bolha e com peixes nadando ao redor dele. Cena realista e fantástica
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Vídeo de gato com capacete de bolha debaixo d'água">
-
-**[🎬 Assistir vídeo →](https://x.com/googleespanol/status/2082964458100433212)**
-
-**Autor:** [Google en español](https://x.com/googleespanol) | **Fonte:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **Publicado:** Jul 30, 2026
-
----
-### Clipe de Anime de Futebol Cinematográfico
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo altamente detalhado para um curta-metragem em estilo anime, apresentando uma sequência de futebol em um terraço com ações cronometradas específicas e direções de áudio.
-
-#### 📝 Prompt
-
-```
-Clipe de curta-metragem de anime cinematográfico, 10 segundos. Terraço de concreto plano, céu azul claro e brilhante por toda parte, cidade visível lá embaixo, apenas ele e a bola.
-
-PERSONAGEM: use a folha de personagem enviada.
-
-ÁUDIO: Batida de hip hop de alta energia, alta desde o primeiro quadro e sem parar, cada corte sincronizado com a batida, som de contato nítido e satisfatório da bola em cada toque, sempre audível.
-
-[0:00-0:01] Deitado de costas no concreto, ambos os pés apontando para cima, fazendo embaixadinhas com a bola acima dele, alternando os pés, céu azul acima. Ângulo de perfil ao nível do solo. Corte para baixo, olhando para os pés e a bola contra o céu. Corte para cima, olhando diretamente para baixo, na horizontal.
-
-[0:01-0:02] Pula para os pés no meio da embaixadinha, lança imediatamente um "double around the world" — pé circulando a bola duas vezes em um salto, borrando em um círculo. Ângulo baixo olhando para cima contra o céu azul. Perfil lateral do salto completo. Close-up extremo do pé borrando ao redor da bola.
-
-[0:02-0:03] A bola aterrissa perfeitamente imóvel na nuca. Close-up da bola na nuca. Plano aberto contra o céu. Flui imediatamente para um ATW a partir da parada na nuca — a bola é lançada da nuca, o pé circula instantaneamente. Ângulo baixo mostrando a combinação completa contra o céu.
-
-[0:03-0:04] Inclina-se para frente, a bola rola lentamente por toda a coluna, do pescoço à lombar, sem cair. Perfil lateral mostrando o rolamento completo. Close-up da bola na coluna. Arqueia as costas explosivamente, lançando a bola de volta para o ar a partir da lombar.
-
-[0:04-0:06] Senta-se de pernas cruzadas no concreto no meio da embaixadinha, ambos os calcanhares alternando os toques enquanto sentado. Ângulo superior olhando para baixo. Close-up dos calcanhares de lado. Levanta-se novamente no meio da embaixadinha sem que as mãos toquem o chão.
-
-[0:06-0:08] Parada de mão — corpo totalmente vertical, bola equilibrada em um pé apontando diretamente para cima. Plano aberto contra o céu azul. Close-up do pé equilibrando a bola de cabeça para baixo. Ângulo baixo olhando para ele invertido contra o céu.
-
-[0:08-0:10] Lança a bola alto com a coxa — a câmera segue a bola para cima contra o céu puramente azul — pico — cai de volta — "rainbow flick" sobre sua cabeça — vira-se — voleio com força total — a bola dispara diretamente para a câmera, preenchendo todo o quadro — CORTE PARA O PRETO. Uma última batida no escuro.
-
-Anime 3D com sombreamento cel cinematográfico, CGI semirrealista, texturas pintadas à mão, qualidade Unreal Engine, luz do dia natural e brilhante, céu azul claro durante todo o vídeo, sensação de pintura digital, pinceladas de bordas rígidas, sombras pesadas, não é desenho animado, não é Disney, não é Pixar, granulação de filme, qualidade de anime premium, batida de hip hop e sons de contato da bola dominantes durante todo o tempo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Clipe de Anime de Futebol Cinematográfico">
-
-**[🎬 Assistir vídeo →](https://x.com/iam_damayor/status/2082752702056956014)**
-
-**Autor:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Fonte:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Publicado:** Jul 30, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -2845,6 +2871,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-07T03:00:06.047Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-07T08:56:12.797Z</sub>
 
 </div>

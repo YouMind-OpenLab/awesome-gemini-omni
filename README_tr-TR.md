@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **243** |
+| 📝 Toplam İstem | **247** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-07** |
 
@@ -56,6 +56,154 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Dört Mevsim Çiçek Açma Zaman Atlamalı Çekimi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir çiçeğin güneş, yağmur, sonbahar ve kış donu altındaki değişimini göstererek bir yılı on saniyeye sığdıran, Gemini Omni için sinematik bir anlatım istemi.
+
+#### 📝 İstem
+
+```
+Bir çiçek ılık güneş ışığında açar, yağmur yağar, sonbahar gelir ve ardından kış her yeri don ve karla kaplar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096834081900351488/img/JJSWuWqW1DRFcBQj.jpg" width="600" alt="Dört Mevsim Çiçek Açma Zaman Atlamalı Çekimi">
+
+**[🎬 Videoyu izle →](https://x.com/AI_VideoLab/status/2096834109402497110)**
+
+**Yazar:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Kaynak:** [Link](https://x.com/AI_VideoLab/status/2096834109402497110) | **Yayınlandı:** Sep 7, 2026
+
+---
+### Premium Akçaağaç Şurubu Reklamı Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Lüks bir akçaağaç şurubu reklamı için profesyonel sinematik storyboard istemi; akan şurubun detaylı makro çekimlerini ve gurme krep sunumunu içerir.
+
+#### 📝 İstem
+
+```
+BAŞLIK:
+Premium Akçaağaç Şurubu Ürün Reklamı Storyboard'u
+
+FORMAT:
+• Tek sayfalık premium storyboard
+• 3:4 Dikey oran
+• Lüks gıda ürünü reklamcılığı
+• 8 adet sinematik ürün odaklı sahne
+• Ürün ana kahraman olarak kalır
+• Üst düzey reklam ajansı sunumu
+
+ÜST BİLGİ:
+• Zarif tırnaklı (serif) tipografi
+• Bilgi kartları:
+  - Süre: 20 Saniye
+  - Stil: Sinematik Gurme Gıda Reklamı
+  - Ürün: Saf Akçaağaç Şurubu
+  - Ses: Yavaş Dökülme + Yumuşak Gıda ASMR
+• Bu Stil Neden İşe Yarar bölümü
+• Sıcak kehribar, krem ve koyu kahverengi estetiği
+• Minimal akçaağaç yaprağı dekoratif detaylar
+
+STORYBOARD:
+1. Cilalı koyu ahşap üzerinde duran premium akçaağaç şurubu şişesi
+2. Aşırı makro çekimde şişe kapağının açılması
+3. Şişeden yavaşça akan altın rengi şurup
+4. Şurubun havada parlak bir şerit oluşturması
+5. Şurubun kabarık kreplerin üzerine dökülmesi
+6. Zengin şurup dokusunu ve küçük yansımaları gösteren aşırı makro çekim
+7. Kahraman şişe ve akçaağaç yapraklarıyla çevrili krep yığını
+8. Dramatik şurup dökülüşü ile nihai lüks ürün paket çekimi
+
+HER PANEL:
+• Sahne numarası
+• Süre rozeti
+• Kamera yönü
+• Görsel
+• Eylem
+• Ürün detayı
+
+KAMERA:
+Aşırı makro, ağır çekim sıvı fotoğrafçılığı, yukarıdan gıda çekimi, kontrollü yakınlaştırma (push-in), sığ alan derinliği, sinematik kahraman kadrajı.
+
+STİL:
+Ultra gerçekçi gıda reklamcılığı, gerçekçi şurup viskozitesi, parlak altın doku, sıcak stüdyo aydınlatması, premium cam ambalaj, sofistike gurme sunum, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788771031949_276axy_HRlyjBWaIAER5_L.jpg" width="600" alt="Premium Akçaağaç Şurubu Reklamı Storyboard'u">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2096833097740493050)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2096833097740493050) | **Yayınlandı:** Sep 7, 2026
+
+---
+### İnteraktif 3D Metinli Sinematik Reklam
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir karakterin kesintisiz yatay takip çekiminde dinamik metin öğeleriyle etkileşime girdiği ritmik bir reklam oluşturmak için ayrıntılı video üretim istemi.
+
+#### 📝 İstem
+
+```
+Reklam filmi.
+
+Sekans boyunca başlangıçtaki arka plan rengini koruyun.
+
+Kamera, karakter yürürken onunla birlikte hareket ederek kesintisiz bir yatay kaydırma hareketiyle karakteri pürüzsüz bir şekilde takip eder.
+
+Metinler ve birleştirici çizgiler ekran boyunca kademeli olarak belirerek sürekli bir görsel yol oluşturur.
+
+Karakter yürürken, etrafında beliren metinleri ve grafik öğelerini aynı mekanda gerçekten var olan fiziksel nesneler olarak algılar. İlerlerken bu öğelerle doğal bir şekilde etkileşime girer: ara sıra parmak ucuyla yakındaki metne dokunur, yukarıdaki kelimelere bakar, grafiklere yan gözle bakar, bir öğeden kaçınmak için hafifçe yana adım atar, birinin altından eğilir veya bir şeyi gözlemlemek için kısa süreliğine durur.
+
+Demiryolu hattını veya görsel bir rotayı andıran kesintisiz bir çizgi, bir metin öğesini diğerine bağlar. Referans görseldeki metinler, orijinal sırayı takip ederek bu bağlantılı yol boyunca sırayla görünür.
+
+Metin ve grafik öğeleri düz arka plan süslemeleri gibi hissettirmemelidir. Karakterle aynı üç boyutlu alanda fiziksel olarak mevcut olduklarını hissettirmeli, inandırıcı mekansal ilişkilere ve etkileşime sahip olmalıdırlar.
+
+Hiçbir metni tekrarlamayın veya kopyalamayın.
+
+Genel tempoyu hızlı, ritmik ve akıcı tutun. Yatay kaydırma hareketi sekans boyunca kesintisiz ve sürekli olmalıdır.
+
+Referans görseldeki tüm metinleri; bozuk karakterler, hatalı tipografi, yazım yanlışları veya değiştirilmiş ifadeler olmadan sadık bir şekilde yeniden oluşturun.
+
+Final geçişi için, büyük bir ön plan nesnesi veya grafik öğesi kameranın çok yakınından geçerek tüm kadrajı tamamen kaplar ve doğal bir ön plan bulanıklığı ile silinme geçişi oluşturur.
+
+Ön plan nesnesi kadrajdan çıktığında, final logo ekranını kusursuz bir şekilde ortaya çıkarın.
+
+Kamera hareketi pürüzsüz, dinamik ve sinematik olmalıdır.
+
+Karakter ile metin/grafik öğeleri arasındaki etkileşime her şeyden daha fazla öncelik verin.
+
+BGM: Güçlü bir ritme sahip, tempolu ve ritmik müzik.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096611422797283328/img/C8LAesMcDr9ILny6.jpg" width="600" alt="İnteraktif 3D Metinli Sinematik Reklam">
+
+**[🎬 Videoyu izle →](https://x.com/taya_mama_AI/status/2096612096003965254)**
+
+**Yazar:** [た〜や｜スキマ時間×AI副業ママ](https://x.com/taya_mama_AI) | **Kaynak:** [Link](https://x.com/taya_mama_AI/status/2096612096003965254) | **Yayınlandı:** Sep 6, 2026
+
+---
+### Gerçekçi Kedi Yüzlü Balık Etkileşimi Video İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Gemini Omni için, insan eli ile sürreal kedi yüzlü bir balık arasında fizik tabanlı okşama ve genişleme efektlerini içeren gerçekçi bir etkileşim yaratan oldukça karmaşık bir video istemi.
+
+#### 📝 İstem
+
+```
+10 saniyelik, 9:16 dikey fotogerçekçi bir video oluşturun. Filmin tamamı kesintisiz veya gizli geçişler içermeyen tek bir çekimdir. Berrak sığ suda üç küçük 'kedi yüzlü balık' bulunmaktadır. Ana konu, küçük damla şeklindeki bir balık gövdesiyle doğal bir şekilde birleşmiş, gerçek üçgen kulaklara, parlak ıslak gözlere ve ince bıyıklara sahip siyah beyaz bir Napoleon/Minuet kedi yüzüdür. İnsan eli, balığı sudan kaldırır; net cilt dokuları ve su damlaları görünür. Balık okşanır, ardından kedi özelliklerini ve siyah beyaz desenini koruyarak bir balon balığı gibi tüylü bir küreye dönüşür. Nazikçe sıkıldığında gerçekçi fiziksel deformasyon gösterir ve son olarak kameranın lensine su püskürterek gerçekçi su damlalarına ve geçici bir bulanıklığa neden olur. Çevresel sesler arasında su akışı, okşandığında çıkan minik bir miyavlama sesi ve suyun lense çarpma sesi yer alır. Arka plan müziği, kullanıcı arayüzü öğeleri ve atlamalı geçişler olmamalıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096476920863186944/img/GShVIT8GBnBuTH9Q.jpg" width="600" alt="Gerçekçi Kedi Yüzlü Balık Etkileşimi Video İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/acupofai/status/2096481317936648685)**
+
+**Yazar:** [Lc造片实验室](https://x.com/acupofai) | **Kaynak:** [Link](https://x.com/acupofai/status/2096481317936648685) | **Yayınlandı:** Sep 6, 2026
+
+---
 ### Pixar Tarzı 'Sessiz Gece Düşüncesi' Komedi Videosu
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2671,128 +2819,6 @@ Kalabalık bir bardan bootleg görüntüler: sörf-gürültü grubu "Sharks on S
 **Yazar:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Kaynak:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Yayınlandı:** Aug 1, 2026
 
 ---
-### X Kazanç Kutlaması Hareketli Grafikleri
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> X kazanç dönüm noktalarını kutlayan animasyonlar oluşturmak için Gemini Omni'ye yönelik, karmaşık 3D rotasyonlar, parçacık efektleri ve senkronize tipografi içeren son derece detaylı bir hareketli grafik istemi.
-
-#### 📝 İstem
-
-```
-Ekli görseli tek referans görseli olarak kullanın. Her zaman aynı görseli kullanın; yalnızca konum, ölçek, rotasyon, 3D rotasyon ve çoğaltma animasyonları uygulayın. Yeni illüstrasyonlar oluşturmayın veya yeniden çizmeyin. Yüksek kaliteli hareketli grafikler. After Effects ile yapılmış gibi ticari kalitede video. Genel atmosfer 'başarı', 'ikiye katlanma', 'kutlama' ve 'neşe' temalıdır. Arka plan parlak ve görkemlidir; altın rengi ışıklar, konfetiler, parıltılar, parçacıklar ve kutlama efektleri güzel bir şekilde dans eder. Videonun tamamı pozitif ve moral verici bir hava taşır.
-
-Video başladığı anda, ekli görsel ekranın merkezinde belirir. Görsel hızla büyür ve ritmik olarak genişleme -> küçülme -> genişleme şeklinde tekrarlar. Hareketli animasyona eşlik eden altın rengi ışıklar ve parıltılar etrafa yayılır.
-
-Ardından görsel, merkezi etrafında hızla 360 derece döner ve Y ekseni boyunca 3D rotasyona (kart çevirme) yumuşak bir geçiş yapar. Kamera ayrıca derinlik yaratmak için hafifçe ileri geri hareket eder. Altın rengi şerit benzeri ışıklar ve parçacıklar, rotasyonla senkronize bir şekilde dönerek şenlik havasını vurgular.
-
-3D rotasyon bittiği anda, görsel anında birden dörde bölünür. Dört parça köşelere doğru uçar; her biri dönmeye, ölçeklenmeye ve arkasında güzel ışık izleri bırakmaya devam eder.
-
-Hemen ardından, dört parça daha bölünerek 16 parçaya ayrılır ve ekrana eşit şekilde yayılır. Bu 16 parça, farklı zamanlamalarla rotasyon, 3D rotasyon ve ölçekleme hareketlerini tekrarlayarak ekranı dolduracak şekilde çoğalır. Arka planda konfetiler, altın rengi parçacıklar, yıldız şeklindeki ışıklar ve kutlama efektleri görkemli bir şekilde dans ederek 'ikiye katlanma' imajını görsel olarak vurgular.
-
-Sonda, 16 parçanın tamamı yüksek hızla merkezde birleşir ve anında tek bir parçaya dönüşür. Kamera birleşen görsele doğru keskin bir şekilde yakınlaşırken altın rengi ışıklar patlar ve ekranı konfetiler doldurur. Video, başarıyı kutlayan son derece görkemli bir finalle sona erer.
-
-Video boyunca hiçbir durgun an olmadığından emin olun, parlak ve enerjik bir tempo koruyun. Hareketler akıcı ve keskin olmalı; reklamlar veya müzik videoları seviyesinde yüksek kaliteli hareketli grafikler hedeflenmelidir.
-
-Tipografi Sunumu (Kutlama/İkiye Katlanma Versiyonu)
-
-Tipografi, görselin hareketiyle mükemmel bir şekilde senkronize olmalıdır. Metin, görselin önüne yerleştirilmeli; cesur, modern ve lüks bir sans-serif yazı tipi kullanılmalıdır. Kutlama ve üst düzey bir görünüm yaratmak için karakterlere altın rengi parlaklık, ışıldama, ışık huzmesi ve hareket bulanıklığı (motion blur) ekleyin.
-
-0–2 saniye: Dev bir 'X' harfi, görselin ölçeklenmesiyle senkronize bir şekilde nabız gibi atarak hızla büyür. Altın rengi ışıklar ve parıltılar etrafa yayılır.
-
-2–4 saniye: Görselin 3D rotasyonuyla senkronize olarak, 'Earnings' kelimesi arka plandan fırlar ve cesurca büyür. Altın rengi ışık izleri eşliğinde başarıyı ve kazancı simgeleyen bir efekt gerçekleştirin.
-
-4–6 saniye: 'Doubled' kelimesi ekranın merkezine güçlü bir şekilde atlar ve önemli ölçüde büyür. Hafif bir sıçramanın ardından, 'Kazançlar ikiye katlandı' etkisini vurgulayarak ekranın geneline altın rengi bir ışıltı yayılır.
-
-6–8 saniye: Görsel 4 ve 16 parçaya bölünürken, birden fazla 'X' sembolü belirir ve ekran boyunca ritmik olarak çoğalır. Konfetiler, altın rengi parçacıklar ve yıldız şeklindeki ışıklar arka planda dans ederek kutlama havasını zirveye taşır.
-
-8–10 saniye: Tüm görseller ve karakterler merkezde toplanır; 'X', 'Earnings' ve 'Doubled' üst üste gelerek güçlü bir başlık oluşturur. Kamera yakınlaşırken altın rengi ışıklar patlar ve ekranı konfetiler kaplar. Video, 'Earnings Doubled!' (Kazançlar İkiye Katlandı!) başarısını kutlayan lüks ve ferahlatıcı bir finalle sona erer.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="X Kazanç Kutlaması Hareketli Grafikleri">
-
-**[🎬 Videoyu izle →](https://x.com/Naonekozamurai/status/2083364119928049908)**
-
-**Yazar:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Kaynak:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Yayınlandı:** Aug 1, 2026
-
----
-### Hong Kong Landmark Vox Tarzı Animasyon
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Hong Kong'daki simge yapıları açıklayan, stilize grafikler ve Japonca anlatım içeren belgesel tarzında bir animasyon istemi.
-
-#### 📝 İstem
-
-```
-Vox açıklayıcı video tarzında Hong Kong simge yapılarını anlatan 10 saniyelik bir animasyon. Arka planda Hong Kong'un şık 3D harita grafikleri (boylam/enlem çizgileri, liman kıyı şeridi, sokak ızgarası ve parlayan neon dokular) yer alıyor. Japonca anlatım (duyuru) sesi içerir.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="Hong Kong Landmark Vox Tarzı Animasyon">
-
-**[🎬 Videoyu izle →](https://x.com/cantonese_slang/status/2083065827671060963)**
-
-**Yazar:** [広東語スラング先生](https://x.com/cantonese_slang) | **Kaynak:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Yayınlandı:** Jul 31, 2026
-
----
-### Sualtında Balon Kasklı Kedi Videosu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için, gerçekçi ama fantastik bir ortamda yüzen balıklarla çevrili balon kask takan bir kedinin videosunu oluşturan eğlenceli bir komut.
-
-#### 📝 İstem
-
-```
-Kedimin balon kask taktığı ve etrafında balıkların yüzdüğü fotoğrafıyla bir video oluştur. Gerçekçi ve fantastik bir sahne
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Sualtında Balon Kasklı Kedi Videosu">
-
-**[🎬 Videoyu izle →](https://x.com/googleespanol/status/2082964458100433212)**
-
-**Yazar:** [Google en español](https://x.com/googleespanol) | **Kaynak:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **Yayınlandı:** Jul 30, 2026
-
----
-### Sinematik Futbol Anime Klibi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Belirli zaman damgalı aksiyonlar ve ses yönergeleri içeren, çatı katında geçen bir futbol sekansına sahip anime tarzı kısa film için oldukça detaylı bir video istemi.
-
-#### 📝 İstem
-
-```
-Sinematik anime kısa film klibi, 10 saniye. Düz beton çatı, her yerde açık parlak mavi gökyüzü, uzakta görünen şehir, sadece o ve top.
-
-KARAKTER: yüklenen karakter sayfasını kullanın.
-
-SES: İlk kareden itibaren hiç durmayan yüksek enerjili hip hop ritmi, her kesme ritimle senkronize, her dokunuşta net ve tatmin edici top teması sesi her zaman duyulabilir.
-
-[0:00-0:01] Betonda sırt üstü yatıyor, her iki ayak yukarı bakıyor, ayaklarını değiştirerek üzerindeki topu sektiriyor, yukarıda mavi gökyüzü. Yer seviyesinden yan profil çekimi. Ayaklara ve gökyüzüne karşı topa bakan aşağıdan yukarıya doğru kesme. Tam tepeden ona yatay olarak bakan yukarıdan aşağıya kesme.
-
-[0:01-0:02] Sektirme sırasında ayağa fırlar, hemen çift 'around the world' hareketine başlar — ayak topun etrafında bir zıplamada iki kez döner, bulanıklaşarak bir daire oluşturur. Mavi gökyüzüne karşı aşağıdan yukarıya düşük açı. Yan profil tam zıplama. Topun etrafında bulanıklaşan ayağın aşırı yakın çekimi.
-
-[0:02-0:03] Top mükemmel bir şekilde ensede sabit durur. Ensedeki topun yakın çekimi. Gökyüzüne karşı geniş çekim. Hemen ense duruşundan ATW hareketine geçer — top enseden fırlar, ayak anında daire çizer. Gökyüzüne karşı tam kombinasyonu gösteren düşük açı.
-
-[0:03-0:04] Öne eğilir, top enseden bele kadar tüm omurga boyunca düşmeden yavaşça yuvarlanır. Tam yuvarlanmayı gösteren yan profil. Omurgadaki topun yakın çekimi. Belden topu havaya doğru patlayıcı bir şekilde fırlatarak sırtını yay gibi gerer.
-
-[0:04-0:06] Sektirme sırasında betonda bağdaş kurarak oturur, otururken her iki topukla sektirmeye devam eder. Tepeden aşağıya bakış. Yandan topukların yakın çekimi. Elleri yere değmeden sektirmeye devam ederek tekrar ayağa kalkar.
-
-[0:06-0:08] Amuda kalkış — vücut tamamen dikey, top doğrudan yukarıyı gösteren bir ayağın üzerinde dengeleniyor. Mavi gökyüzüne karşı geniş çekim. Topu ters şekilde dengeleyen ayağın yakın çekimi. Gökyüzüne karşı ters duran karaktere aşağıdan yukarıya düşük açı.
-
-[0:08-0:10] Topu uyluğuyla yükseğe fırlatır — kamera masmavi gökyüzüne karşı topu yukarı doğru takip eder — zirve — geri düşer — başının üzerinden gökkuşağı hareketi — döner — tam güç vole — top doğrudan kameraya doğru fırlar ve tüm ekranı kaplar — SİYAH EKRANA GEÇİŞ. Karanlıkta son bir ritim vuruşu.
-
-Sinematik cel-shaded 3D anime, yarı gerçekçi CGI, el boyaması dokular, Unreal Engine kalitesi, parlak doğal gün ışığı, baştan sona açık mavi gökyüzü, dijital boyama hissi, keskin fırça darbeleri, yoğun gölgeler, çizgi film değil, Disney değil, Pixar değil, film greni, premium anime kalitesi, baştan sona baskın hip hop ritmi ve top temas sesleri
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Sinematik Futbol Anime Klibi">
-
-**[🎬 Videoyu izle →](https://x.com/iam_damayor/status/2082752702056956014)**
-
-**Yazar:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Kaynak:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Yayınlandı:** Jul 30, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -2845,6 +2871,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-07T03:00:07.521Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-07T08:56:14.109Z</sub>
 
 </div>

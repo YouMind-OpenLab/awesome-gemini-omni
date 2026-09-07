@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **243** |
+| 📝 Total Prompts | **247** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-07** |
 
@@ -56,11 +56,131 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Pixar Style 'Quiet Night Thought' Comedy Video
+### Four Seasons Flower Bloom Time-Lapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A multimodal video prompt that reimagines Li Bai's classic Chinese poem 'Quiet Night Thought' in a 3D Pixar comedy animation style, featuring specific shot descriptions and soundscapes.
+> A cinematic narrative prompt for Gemini Omni that visualizes the passage of a year in ten seconds, showing a flower through sun, rain, autumn, and winter frost.
+
+#### 📝 Prompt
+
+```
+A flower blooms in warm sunlight, rain arrives, autumn takes over, then winter covers everything in frost and snow.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096834081900351488/img/JJSWuWqW1DRFcBQj.jpg" width="600" alt="Four Seasons Flower Bloom Time-Lapse">
+
+**[🎬 Watch Video →](https://x.com/AI_VideoLab/status/2096834109402497110)**
+
+**Author:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Source:** [Link](https://x.com/AI_VideoLab/status/2096834109402497110) | **Published:** Sep 7, 2026
+
+---
+### Premium Maple Syrup Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A professional cinematic storyboard prompt for a luxury maple syrup advertisement, featuring detailed macro shots of flowing syrup and gourmet pancake presentation.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Premium Maple Syrup Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury food product advertising
+• 8 cinematic product-focused scenes
+• Product remains the main hero
+• High-end advertising agency presentation
+
+HEADER:
+• Elegant serif typography
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: Cinematic Gourmet Food Commercial
+  - Product: Pure Maple Syrup
+  - Audio: Slow Pour + Soft Food ASMR
+• Why This Style Works section
+• Warm amber, cream and dark brown aesthetic
+• Minimal maple leaf decorative accents
+
+STORYBOARD:
+1. Premium maple syrup bottle standing on polished dark wood
+2. Bottle cap opening in extreme macro
+3. Golden syrup slowly flowing from the bottle
+4. Syrup forming a glossy ribbon in mid-air
+5. Syrup cascading over fluffy pancakes
+6. Extreme macro showing rich syrup texture and tiny reflections
+7. Pancake stack surrounded by the hero bottle and maple leaves
+8. Final luxury product packshot with dramatic syrup pour
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow-motion liquid photography, overhead food shot, controlled push-in, shallow depth of field, cinematic hero framing.
+
+STYLE:
+Ultra-realistic food advertising, realistic syrup viscosity, glossy golden texture, warm studio lighting, premium glass packaging, sophisticated gourmet presentation, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788771031949_276axy_HRlyjBWaIAER5_L.jpg" width="600" alt="Premium Maple Syrup Commercial Storyboard">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2096833097740493050)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2096833097740493050) | **Published:** Sep 7, 2026
+
+---
+### Cinematic Commercial with Interactive 3D Text
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed video generation prompt for creating a rhythmic commercial where a character interacts with dynamic text elements in a continuous horizontal tracking shot.
+
+#### 📝 Prompt
+
+```
+Commercial film.\n\nMaintain the initial background color throughout the sequence.\n\nThe camera smoothly tracks the character with a continuous horizontal scrolling movement, moving alongside them as they walk.\n\nText and connecting lines progressively appear across the screen, forming a continuous visual pathway.\n\nAs the character walks, they recognize the text and graphic elements appearing around them as physical objects that actually exist within the same space. They naturally interact with these elements as they move forward: occasionally tapping nearby text with a fingertip, looking up at words above them, glancing sideways at graphics, slightly stepping aside to avoid an element, ducking underneath one, or briefly stopping to observe something.\n\nA continuous line, resembling a railway track or visual route, connects one text element to the next. The text from the reference image appears sequentially along this connected path, following the original order.\n\nThe text and graphic elements must not feel like flat background decorations. They should feel physically present in the same three-dimensional space as the character, with convincing spatial relationships and interaction.\n\nDo not repeat or duplicate any text.\n\nKeep the overall pacing fast, rhythmic, and fluid. The horizontal scrolling movement should remain continuous and uninterrupted throughout the sequence.\n\nFaithfully reproduce all text from the reference image without garbled characters, corrupted typography, misspellings, or altered wording.\n\nFor the final transition, a large foreground object or graphic element passes very close in front of the camera, completely covering the entire frame and creating a natural foreground-blur wipe transition.\n\nAs the foreground object clears the frame, seamlessly reveal the final logo screen.\n\nCamera movement should be smooth, dynamic, and cinematic.\n\nPrioritize the interaction between the character and the text / graphic elements above everything else.\n\nBGM: Up-tempo, rhythmic music with a strong beat.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096611422797283328/img/C8LAesMcDr9ILny6.jpg" width="600" alt="Cinematic Commercial with Interactive 3D Text">
+
+**[🎬 Watch Video →](https://x.com/taya_mama_AI/status/2096612096003965254)**
+
+**Author:** [た〜や｜スキマ時間×AI副業ママ](https://x.com/taya_mama_AI) | **Source:** [Link](https://x.com/taya_mama_AI/status/2096612096003965254) | **Published:** Sep 6, 2026
+
+---
+### Realistic Cat-Faced Fish Interaction Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A highly complex video prompt for Gemini Omni that creates a realistic interaction between a human hand and a surreal cat-faced fish, including physics-based petting and expansion effects.
+
+#### 📝 Prompt
+
+```
+Generate a 10-second, 9:16 vertical photorealistic video. The entire film is one continuous shot without cuts or hidden transitions. Three tiny 'cat-faced fish' are in clear shallow water. The main subject is a black-and-white Napoleon/Minuet kitten face naturally merged with a small teardrop-shaped fish body, featuring real triangular ears, bright wet eyes, and fine whiskers. A human hand lifts the fish from the water, showing clear skin textures and water droplets. The fish is petted, then expands like a pufferfish into a furry sphere while maintaining its kitten features and black-and-white pattern. It is gently squeezed, showing realistic physical deformation, and finally squirts water at the camera lens, causing realistic water drops and temporary blurring. Environmental sounds include water flow, a tiny meow when petted, and the sound of water hitting the lens. No background music, no UI elements, and no jumping transitions.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096476920863186944/img/GShVIT8GBnBuTH9Q.jpg" width="600" alt="Realistic Cat-Faced Fish Interaction Video Prompt">
+
+**[🎬 Watch Video →](https://x.com/acupofai/status/2096481317936648685)**
+
+**Author:** [Lc造片实验室](https://x.com/acupofai) | **Source:** [Link](https://x.com/acupofai/status/2096481317936648685) | **Published:** Sep 6, 2026
+
+---
+### Pixar Style Li Bai Comedy Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A multimodal video prompt that reimagines a classic Chinese poem as a Pixar-style 3D comedy animation, featuring a clumsy scholar and a yawning moon.
 
 #### 📝 Prompt
 
@@ -78,18 +198,18 @@ overall_soundscape: Night crickets, rustling bamboo, comical neck cracks, a heav
 non_diegetic_music: Bouncy pipa melody, slowing into a tender guzheng phrase, then snapping back to a fast comedic flurry with a cymbal-sting.
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096466125425090560/img/gATyGN81v1LPxYIo.jpg" width="600" alt="Pixar Style 'Quiet Night Thought' Comedy Video">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096466125425090560/img/gATyGN81v1LPxYIo.jpg" width="600" alt="Pixar Style Li Bai Comedy Video Prompt">
 
 **[🎬 Watch Video →](https://x.com/7998l201/status/2096469551882121293)**
 
 **Author:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2096469551882121293) | **Published:** Sep 6, 2026
 
 ---
-### Wildflower Seasonal Transformation Macro Time-lapse
+### Passage of Four Seasons Time-lapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A cinematic macro time-lapse prompt for Gemini Omni that captures a wildflower's journey through spring, summer, autumn, and winter, concluding with a poetic text overlay.
+> A cinematic macro time-lapse prompt for Gemini Omni that captures a wildflower transitioning through all four seasons, ending with elegant typography.
 
 #### 📝 Prompt
 
@@ -112,7 +232,7 @@ non_diegetic_music: Bouncy pipa melody, slowing into a tender guzheng phrase, th
 }
 ```
 
-<img src="https://pbs.twimg.com/amplify_video_thumb/2096453926442950656/img/sz0h96hWwb2tWa7R.jpg" width="600" alt="Wildflower Seasonal Transformation Macro Time-lapse">
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096453926442950656/img/sz0h96hWwb2tWa7R.jpg" width="600" alt="Passage of Four Seasons Time-lapse">
 
 **[🎬 Watch Video →](https://x.com/MrDasOnX/status/2096453993371422748)**
 
@@ -2578,133 +2698,6 @@ a high end fashion commercial for toddlers, luxury gone feral, adorable but unst
 **Author:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Source:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Published:** Aug 1, 2026
 
 ---
-### Celebratory Revenue Milestone Motion Graphics
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed motion graphics prompt for Gemini Omni designed to animate a reference image for marketing success. It features complex instructions for 3D card flips, multi-image splitting, and synchronized typography with celebratory visual effects like gold particles and confetti.
-
-#### 📝 Prompt
-
-```
-Use the attached image as the sole reference image. Always use the same image; only animate position, scale, rotation, 3D rotation, and duplication. Do not generate or redraw new illustrations. High-quality motion graphics. Commercial-quality video as if produced in After Effects. The overall atmosphere is 'success', 'doubled', 'celebration', and 'joy'. The background is bright and gorgeous, with golden light, confetti, sparkles, particles, and celebratory effects dancing beautifully. The entire video exudes a positive and uplifting atmosphere.
-
-At the start of the video, the attached image appears in the center. The image scales up vigorously and repeats a rhythmic expansion -> contraction -> expansion cycle. Golden light and sparkles spread around in sync with the bouncy animation.
-
-Next, the image rotates 360 degrees rapidly on its axis and smoothly transitions into a 3D rotation along the Y-axis (card flip). The camera moves slightly back and forth to create depth. Golden ribbon-like light and particles swirl in sync with the rotation, emphasizing the festive feeling.
-
-The moment the 3D rotation ends, the image instantly splits from one to four. The four images fly to the corners, continuing to rotate and scale while leaving beautiful light trails.
-
-Immediately after, the four split into 16 at high speed, spreading evenly across the screen. The 16 images repeat rotation, 3D rotation, expansion, and contraction at different timings, proliferating throughout the screen. In the background, confetti, golden particles, star-shaped lights, and celebratory effects dance grandly, visually emphasizing the 'doubled' image.
-
-In the finale, all 16 images gather at the center at high speed and integrate into one instantly. As the camera zooms in vigorously toward the integrated image, golden light bursts significantly and confetti dances across the screen. Conclude with an overwhelmingly gorgeous finish celebrating success.
-
-Maintain a bright and energetic tempo throughout the video without any still moments. The motion should be smooth and sharp, ensuring high-quality motion graphics on an advertisement, commercial, or music video level.
-
-Typography Presentation (Celebration/Doubling Version)
-
-Synchronize the typography perfectly with the motion of the images. Place text in front of the image using an ultra-bold, modern, and high-end sans-serif font. Add golden brilliance, luminescence, a light glow, and motion blur to the text for a premium festive feel.
-
-0–2 seconds
-A giant 'X' scales in vigorously, pulsing in sync with the image's expansion and contraction. Golden light and sparkles spread around.
-
-2–4 seconds
-In sync with the image's 3D rotation, 'Revenue' (収益) flies out from the back, scaling up boldly. Create a presentation symbolizing success and profit with trails of golden light.
-
-4–6 seconds
-The word 'Doubled' (倍増) forcefully jumps to the center, scaling up significantly. After a slight bounce, golden brilliance spreads, emphasizing the impact of 'doubled revenue'.
-
-6–8 seconds
-As the images split into 4 and 16, multiple 'X's also appear, proliferating rhythmically. Background confetti, golden particles, and star-shaped lights bring the celebration to its peak.
-
-8–10 seconds
-All images and text gather at the center, with 'X', 'Revenue', and 'Doubled' overlapping to form a powerful title. As the camera zooms in, golden light bursts and confetti pours down. Conclude with a refreshing finish celebrating 'Revenue Doubled!'.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Celebratory Revenue Milestone Motion Graphics">
-
-**[🎬 Watch Video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
-
-**Author:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Published:** Aug 1, 2026
-
----
-### Hong Kong Landmark Vox Style Animation
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A documentary-style animation prompt for explaining Hong Kong landmarks, featuring stylized graphics and Japanese narration.
-
-#### 📝 Prompt
-
-```
-A 10-second animation explaining Hong Kong landmarks in the style of a Vox explanatory video. The background features stylish 3D map graphics of Hong Kong (longitude/latitude lines, harbor coastline, street grid, and glowing neon textures). Includes Japanese narration (announcement) audio.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083065192259469312/img/ppgWrUOHe7qhYo5-.jpg" width="600" alt="Hong Kong Landmark Vox Style Animation">
-
-**[🎬 Watch Video →](https://x.com/cantonese_slang/status/2083065827671060963)**
-
-**Author:** [広東語スラング先生](https://x.com/cantonese_slang) | **Source:** [Link](https://x.com/cantonese_slang/status/2083065827671060963) | **Published:** Jul 31, 2026
-
----
-### Cat Bubble Helmet Fantasy Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A video generation prompt that transforms a photo of a cat into a realistic fantasy scene where the cat wears a bubble helmet surrounded by fish.
-
-#### 📝 Prompt
-
-```
-Create a video with the photo of my cat where it has a bubble helmet and there are fish swimming around it. Realistic and fantasy scene
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082956451824222208/img/OV0zGFsTjsJzyFQl.jpg" width="600" alt="Cat Bubble Helmet Fantasy Video">
-
-**[🎬 Watch Video →](https://x.com/googleespanol/status/2082964458100433212)**
-
-**Author:** [Google en español](https://x.com/googleespanol) | **Source:** [Link](https://x.com/googleespanol/status/2082964458100433212) | **Published:** Jul 30, 2026
-
----
-### Cinematic Anime Soccer Juggling Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed scene-by-scene cinematic anime prompt for a soccer juggling sequence on a rooftop, featuring specific camera angles, beat-synced cuts, and audio design instructions.
-
-#### 📝 Prompt
-
-```
-Cinematic anime short film clip, 10 seconds. Flat concrete rooftop, clear bright blue sky everywhere, city visible far below, just him and the ball.
-
-CHARACTER: use uploaded character sheet.
-
-AUDIO: High energy hip hop beat loud from frame one never stopping, every cut synced to the beat, crisp satisfying ball contact sound on every touch always audible.
-
-[0:00-0:01] Lying flat on his back on the concrete, both feet pointing up, juggling ball above him with alternating feet, blue sky above. Side profile ground level shot. Cut to below looking up at feet and ball against sky. Cut to overhead looking straight down at him horizontal.
-
-[0:01-0:02] Jumps to feet mid-juggle, immediately launches into double around the world — foot circling ball twice in one jump, blurring into a circle. Low angle looking up against blue sky. Side profile full jump. Extreme close up foot blurring around ball.
-
-[0:02-0:03] Ball lands perfectly still on back of neck. Close up of ball on neck. Wide shot against sky. Immediately flows into ATW from the neck stall — ball launches off neck, foot circles instantly. Low angle showing full combination against sky.
-
-[0:03-0:04] Bends forward, ball rolls slowly down entire spine from neck to lower back without falling. Side profile showing full roll. Close up of ball on spine. Arches back up explosively flicking ball back into air from lower back.
-
-[0:04-0:06] Sits cross legged on concrete mid-juggle, both heels alternating juggling while sitting. Overhead looking down. Close up heels from side. Stands back up mid-juggle without hands touching ground.
-
-[0:06-0:08] Handstand — body fully vertical, ball balanced on one foot pointing straight up. Wide shot against blue sky. Close up foot balancing ball upside down. Low angle looking up at him inverted against the sky.
-
-[0:08-0:10] Launches ball high with thigh — camera follows ball upward against pure blue sky — peak — drops back — rainbow flick over his head — turns — full power volley — ball rockets directly at camera filling entire frame — CUT TO BLACK. One final beat hit in darkness.
-
-Cinematic cel-shaded 3D anime, semi-realistic CGI, hand-painted textures, Unreal Engine quality, bright natural daylight, clear blue sky throughout, digital painting feel, hard-edge brushwork, heavy shadows, not cartoon not Disney not Pixar, film grain, premium anime quality, hip hop beat and ball contact sounds dominant throughout
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2082752624940441600/img/pYwzQ9WynLxFB0Cq.jpg" width="600" alt="Cinematic Anime Soccer Juggling Sequence">
-
-**[🎬 Watch Video →](https://x.com/iam_damayor/status/2082752702056956014)**
-
-**Author:** [Da Mayor - AI Creative Director 🎨💻](https://x.com/iam_damayor) | **Source:** [Link](https://x.com/iam_damayor/status/2082752702056956014) | **Published:** Jul 30, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2757,6 +2750,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-07T02:59:48.066Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-07T08:55:52.843Z</sub>
 
 </div>
