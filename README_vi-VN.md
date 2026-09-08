@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **247** |
+| 📝 Tổng số prompt | **246** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-08** |
 
@@ -1427,25 +1427,6 @@ Một nữ streamer đang tập trung chơi game, trong đó nhân vật chính 
 **Tác giả:** [DrstaOne](https://x.com/DrstaOne) | **Nguồn:** [Link](https://x.com/DrstaOne/status/2093364188781703596) | **Đã xuất bản:** Aug 28, 2026
 
 ---
-### Góc nhìn thứ nhất khi đạp xe địa hình
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) mô phỏng chuyến xuống dốc bằng xe đạp địa hình tốc độ cao dành cho camera hành trình, giúp kiểm tra vật lý, địa hình đá và độ chân thực của môi trường trên nhiều mô hình khác nhau.
-
-#### 📝 Prompt
-
-```
-Góc nhìn thứ nhất siêu chân thực về chuyến đạp xe địa hình xuống con đường mòn đầy đá dốc đứng trên núi cao. Người lái lao xuống dốc qua những khúc cua gắt, đá tảng và các đoạn nhảy nhỏ, xung quanh là những vách đá hùng vĩ và phong cảnh núi non. Chỉ sử dụng góc nhìn thứ nhất nghiêm ngặt, tốc độ cao, chuyển động camera và vật lý thực tế, giống như thước phim từ camera hành trình.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093328534945120256/img/eqNWd7v_zlAgy7uM.jpg" width="600" alt="Góc nhìn thứ nhất khi đạp xe địa hình">
-
-**[🎬 Xem video →](https://x.com/YourAlphaMom/status/2093333326635405357)**
-
-**Tác giả:** [Alpha Mom](https://x.com/YourAlphaMom) | **Nguồn:** [Link](https://x.com/YourAlphaMom/status/2093333326635405357) | **Đã xuất bản:** Aug 28, 2026
-
----
 ### Người leo núi Everest
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2791,6 +2772,25 @@ một quảng cáo thời trang cao cấp dành cho trẻ mới biết đi, sự
 **Tác giả:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Nguồn:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Đã xuất bản:** Aug 1, 2026
 
 ---
+### Đồ họa chuyển động kỷ niệm thu nhập của X
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh đồ họa chuyển động chi tiết dành cho Gemini Omni để tạo các hoạt ảnh kỷ niệm cho các cột mốc thu nhập của X, bao gồm các vòng xoay 3D phức tạp, hiệu ứng hạt và kiểu chữ đồng bộ.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh đính kèm làm hình ảnh tham chiếu duy nhất. Luôn sử dụng cùng một hình ảnh; chỉ tạo hoạt ảnh cho vị trí, tỷ lệ, xoay, xoay 3D và nhân bản. Không tạo hoặc vẽ lại các hình minh họa mới. Đồ họa chuyển động chất lượng cao. Video chất lượng thương mại như được thực hiện trong After Effects. Bầu không khí tổng thể là 'thành công', 'nhân đôi', 'kỷ niệm' và 'niềm vui'. Nền sáng và lộng lẫy, với ánh sáng vàng, pháo giấy, tia sáng, các hạt và hiệu ứng kỷ niệm nhảy múa đẹp mắt. Toàn bộ video mang lại cảm giác tích cực và phấn chấn.\n\nNgay khi video bắt đầu, hình ảnh đính kèm xuất hiện ở giữa màn hình. Hình ảnh phóng to mạnh mẽ và lặp lại nhịp nhàng theo kiểu mở rộng -> thu nhỏ -> mở rộng. Đi kèm với hoạt ảnh nảy, ánh sáng vàng và các tia sáng lan tỏa xung quanh.\n\nTiếp theo, hình ảnh xoay nhanh 360 độ quanh tâm, chuyển đổi mượt mà sang xoay 3D (lật thẻ) dọc theo trục Y. Camera cũng di chuyển nhẹ qua lại để tạo chiều sâu. Ánh sáng giống như dải ruy băng vàng và các hạt xoáy đồng bộ với chuyển động xoay, làm nổi bật cảm giác lễ hội.\n\nTại thời điểm kết thúc xoay 3D, hình ảnh ngay lập tức tách từ một thành bốn. Bốn mảnh bay ra các góc, mỗi mảnh tiếp tục xoay, thay đổi tỷ lệ và để lại những vệt sáng đẹp mắt.\n\nNgay sau đó, bốn mảnh tiếp tục tách thành 16 mảnh, lan tỏa đều khắp màn hình. 16 mảnh này lặp lại chuyển động xoay, xoay 3D và thay đổi tỷ lệ ở các thời điểm khác nhau, nhân lên để lấp đầy màn hình. Ở hậu cảnh, pháo giấy, hạt vàng, đèn hình ngôi sao và các hiệu ứng kỷ niệm nhảy múa hoành tráng, nhấn mạnh trực quan hình ảnh 'nhân đôi'.\n\nCuối cùng, tất cả 16 mảnh hội tụ về trung tâm với tốc độ cao và được tích hợp thành một mảnh trong tích tắc. Khi camera phóng to mạnh vào hình ảnh đã hợp nhất, ánh sáng vàng bùng nổ và pháo giấy lấp đầy màn hình. Video kết thúc với một cái kết lộng lẫy, ăn mừng thành công.\n\nĐảm bảo không có khoảnh khắc tĩnh lặng nào trong suốt video, duy trì nhịp độ tươi sáng và tràn đầy năng lượng. Chuyển động phải mượt mà và sắc nét, hướng tới đồ họa chuyển động chất lượng cao ở cấp độ quảng cáo, thương mại hoặc video âm nhạc.\n\nTrình bày kiểu chữ (Phiên bản Kỷ niệm/Nhân đôi)\n\nKiểu chữ phải được đồng bộ hoàn hảo với chuyển động của hình ảnh. Văn bản được đặt phía trước hình ảnh, sử dụng phông chữ không chân đậm, hiện đại và sang trọng. Thêm độ sáng vàng, phát quang, hiệu ứng ánh sáng và nhòe chuyển động cho các ký tự để tạo vẻ ngoài kỷ niệm và cao cấp.\n\n0–2 giây: Chữ 'X' khổng lồ phóng to mạnh mẽ, nhấp nháy đồng bộ với tỷ lệ của hình ảnh. Ánh sáng vàng và các tia sáng lan tỏa xung quanh.\n\n2–4 giây: Đồng bộ với chuyển động xoay 3D của hình ảnh, từ 'Earnings' nhảy ra từ hậu cảnh, phóng to đậm nét. Đi kèm với những vệt sáng vàng, tạo hiệu ứng tượng trưng cho thành công và lợi nhuận.\n\n4–6 giây: Từ 'Doubled' nhảy mạnh mẽ vào giữa màn hình, phóng to đáng kể. Sau một cú nảy nhẹ, ánh sáng vàng lan tỏa khắp màn hình, nhấn mạnh tác động của 'Thu nhập đã tăng gấp đôi'.\n\n6–8 giây: Khi hình ảnh tách thành 4 và 16 mảnh, nhiều biểu tượng 'X' xuất hiện và nhân lên nhịp nhàng khắp màn hình. Pháo giấy, hạt vàng và đèn hình ngôi sao nhảy múa ở hậu cảnh, đẩy tâm trạng kỷ niệm lên cao trào.\n\n8–10 giây: Tất cả hình ảnh và ký tự tập trung ở trung tâm, với 'X', 'Earnings' và 'Doubled' chồng lên nhau tạo thành một tiêu đề mạnh mẽ. Khi camera phóng to, ánh sáng vàng bùng nổ và pháo giấy đổ xuống màn hình. Video kết thúc với một cái kết sang trọng và sảng khoái, kỷ niệm 'Earnings Doubled!'.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Đồ họa chuyển động kỷ niệm thu nhập của X">
+
+**[🎬 Xem video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
+
+**Tác giả:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Nguồn:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Đã xuất bản:** Aug 1, 2026
+
+---
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -2843,6 +2843,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-08T03:10:27.323Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-08T08:36:52.391Z</sub>
 
 </div>

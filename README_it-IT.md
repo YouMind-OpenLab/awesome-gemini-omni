@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **247** |
+| 📝 Totale prompt | **246** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-09-08** |
 
@@ -1427,25 +1427,6 @@ Una streamer donna che gioca a un videogioco in cui il personaggio principale è
 **Autore:** [DrstaOne](https://x.com/DrstaOne) | **Fonte:** [Link](https://x.com/DrstaOne/status/2093364188781703596) | **Pubblicato:** Aug 28, 2026
 
 ---
-### POV in prima persona di mountain bike
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per una discesa in mountain bike ad alta velocità pensato per action cam, che mette alla prova la fisica, i terreni rocciosi e il realismo ambientale su diversi modelli.
-
-#### 📝 Prompt
-
-```
-Ripresa in prima persona ultra-realistica di una discesa in mountain bike lungo un ripido sentiero roccioso in alta montagna. Il ciclista sfreccia in discesa affrontando curve strette, rocce e piccoli salti, circondato da imponenti scogliere e paesaggi montani. Solo visuale in prima persona rigorosa, alta velocità, movimento della telecamera e fisica realistica, filmato in stile action-camera.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093328534945120256/img/eqNWd7v_zlAgy7uM.jpg" width="600" alt="POV in prima persona di mountain bike">
-
-**[🎬 Guarda il video →](https://x.com/YourAlphaMom/status/2093333326635405357)**
-
-**Autore:** [Alpha Mom](https://x.com/YourAlphaMom) | **Fonte:** [Link](https://x.com/YourAlphaMom/status/2093333326635405357) | **Pubblicato:** Aug 28, 2026
-
----
 ### Alpinista sul Monte Everest
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2791,6 +2772,51 @@ uno spot di moda di alta gamma per bambini, lusso allo stato brado, adorabili ma
 **Autore:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Fonte:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Pubblicato:** Aug 1, 2026
 
 ---
+### Motion Graphics per la celebrazione degli utili di X
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt di motion graphics altamente dettagliato per Gemini Omni, pensato per creare animazioni celebrative per i traguardi raggiunti da X, caratterizzato da complesse rotazioni 3D, effetti particellari e tipografia sincronizzata.
+
+#### 📝 Prompt
+
+```
+Utilizza l'immagine allegata come unico riferimento visivo. Usa sempre la stessa immagine; anima solo posizione, scala, rotazione, rotazione 3D e duplicazione. Non generare o ridisegnare nuove illustrazioni. Motion graphics di alta qualità. Video di qualità commerciale, come se fosse realizzato in After Effects. L'atmosfera generale deve trasmettere 'successo', 'raddoppio', 'celebrazione' e 'gioia'. Lo sfondo è luminoso e sfarzoso, con luci dorate, coriandoli, scintille, particelle ed effetti celebrativi che danzano magnificamente. L'intero video trasmette un'energia positiva e stimolante.
+
+All'inizio del video, l'immagine allegata appare al centro dello schermo. L'immagine si ingrandisce con vigore e ripete ritmicamente il movimento espansione -> contrazione -> espansione. Accompagnati dall'animazione dinamica, luci dorate e scintille si diffondono tutt'intorno.
+
+Successivamente, l'immagine ruota rapidamente di 360 gradi attorno al proprio centro, passando fluidamente a una rotazione 3D (effetto card flip) lungo l'asse Y. Anche la telecamera si muove leggermente avanti e indietro per creare profondità. Luci dorate simili a nastri e particelle vorticano in sincronia con la rotazione, enfatizzando l'atmosfera festosa.
+
+Nel momento in cui termina la rotazione 3D, l'immagine si divide istantaneamente da una a quattro. I quattro pezzi volano verso gli angoli, continuando ciascuno a ruotare, scalare e lasciare scie luminose spettacolari.
+
+Subito dopo, i quattro pezzi si dividono ulteriormente in 16, distribuendosi uniformemente sullo schermo. Questi 16 pezzi ripetono rotazione, rotazione 3D e ridimensionamento con tempistiche diverse, moltiplicandosi fino a riempire lo schermo. Sullo sfondo, coriandoli, particelle dorate, luci a forma di stella ed effetti celebrativi danzano grandiosamente, enfatizzando visivamente il concetto di 'raddoppio'.
+
+Alla fine, tutti i 16 pezzi convergono al centro ad alta velocità e si integrano in un unico elemento in un istante. Mentre la telecamera esegue uno zoom rapido verso l'immagine integrata, esplode una luce dorata e i coriandoli riempiono lo schermo. Il video si conclude con un finale straordinariamente sfarzoso che celebra il successo.
+
+Assicurati che non ci siano momenti di staticità durante il video, mantenendo un ritmo brillante ed energico. Il movimento deve essere fluido e netto, puntando a una qualità di motion graphics pari a quella di pubblicità, spot commerciali o video musicali.
+
+Presentazione della tipografia (Versione Celebrazione/Raddoppio)
+
+La tipografia deve essere perfettamente sincronizzata con il movimento dell'immagine. Il testo è posizionato davanti all'immagine, utilizzando un font sans-serif audace, moderno e lussuoso. Aggiungi brillantezza dorata, luminescenza, bagliore luminoso e motion blur ai caratteri per creare un look celebrativo e di alta classe.
+
+0–2 secondi: Una 'X' gigante entra in scena ingrandendosi vigorosamente, pulsando in sincronia con il ridimensionamento dell'immagine. Luci dorate e scintille si diffondono intorno.
+
+2–4 secondi: In sincronia con la rotazione 3D dell'immagine, la parola 'Earnings' emerge dallo sfondo, ingrandendosi con decisione. Accompagnata da scie di luce dorata, crea un effetto che simboleggia successo e profitto.
+
+4–6 secondi: La parola 'Doubled' balza con forza al centro dello schermo, ingrandendosi notevolmente. Dopo un leggero rimbalzo, una radiosità dorata si diffonde sullo schermo, enfatizzando l'impatto del 'raddoppio degli utili'.
+
+6–8 secondi: Mentre l'immagine si divide in 4 e 16 pezzi, molteplici simboli 'X' appaiono e si moltiplicano ritmicamente sullo schermo. Coriandoli, particelle dorate e luci a forma di stella danzano sullo sfondo, portando l'atmosfera celebrativa al culmine.
+
+8–10 secondi: Tutte le immagini e i caratteri si riuniscono al centro, con 'X', 'Earnings' e 'Doubled' che si sovrappongono per formare un titolo potente. Mentre la telecamera zooma, la luce dorata esplode e i coriandoli inondano lo schermo. Il video termina con un finale lussuoso e rinfrescante, celebrando 'Earnings Doubled!'.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Motion Graphics per la celebrazione degli utili di X">
+
+**[🎬 Guarda il video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
+
+**Autore:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Fonte:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Pubblicato:** Aug 1, 2026
+
+---
 ---
 
 ## 📚 Altri prompt disponibili
@@ -2843,6 +2869,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-08T03:10:35.111Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-08T08:36:59.998Z</sub>
 
 </div>

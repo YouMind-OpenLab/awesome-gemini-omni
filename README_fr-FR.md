@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **247** |
+| 📝 Total des prompts | **246** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-09-08** |
 
@@ -1455,25 +1455,6 @@ Une streameuse en pleine session de jeu où le personnage principal est une infi
 **Auteur:** [DrstaOne](https://x.com/DrstaOne) | **Source:** [Link](https://x.com/DrstaOne/status/2093364188781703596) | **Publié:** Aug 28, 2026
 
 ---
-### VTT en vue subjective (POV)
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de descente en VTT à haute vitesse conçu pour les caméras d'action, testant la physique, les terrains rocheux et le réalisme environnemental sur plusieurs modèles.
-
-#### 📝 Prompt
-
-```
-Descente en VTT ultra-réaliste en vue subjective (POV) sur un sentier escarpé et rocheux en haute montagne. Le pilote dévale la pente à toute vitesse à travers des virages serrés, des rochers et de petits sauts, entouré de falaises imposantes et de paysages montagneux. Vue subjective stricte uniquement, haute vitesse, mouvements de caméra et physique réaliste, rendu type caméra d'action.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093328534945120256/img/eqNWd7v_zlAgy7uM.jpg" width="600" alt="VTT en vue subjective (POV)">
-
-**[🎬 Voir la vidéo →](https://x.com/YourAlphaMom/status/2093333326635405357)**
-
-**Auteur:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2093333326635405357) | **Publié:** Aug 28, 2026
-
----
 ### Alpiniste au mont Everest
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2819,6 +2800,51 @@ une publicité de mode haut de gamme pour les tout-petits, le luxe à l'état sa
 **Auteur:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Source:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Publié:** Aug 1, 2026
 
 ---
+### Graphismes animés pour la célébration des résultats financiers de X
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de graphisme animé très détaillé pour Gemini Omni, conçu pour créer des animations de célébration pour les jalons financiers de X, intégrant des rotations 3D complexes, des effets de particules et une typographie synchronisée.
+
+#### 📝 Prompt
+
+```
+Utilisez l'image jointe comme seule référence. Utilisez toujours la même image ; animez uniquement la position, l'échelle, la rotation, la rotation 3D et la duplication. Ne générez pas et ne redessinez pas de nouvelles illustrations. Graphismes animés de haute qualité. Vidéo de qualité commerciale, comme si elle avait été réalisée dans After Effects. L'atmosphère générale est celle du « succès », du « doublement », de la « célébration » et de la « joie ». L'arrière-plan est lumineux et somptueux, avec une lumière dorée, des confettis, des étincelles, des particules et des effets de célébration dansant magnifiquement. L'ensemble de la vidéo dégage une ambiance positive et inspirante.
+
+Dès le début de la vidéo, l'image jointe apparaît au centre de l'écran. L'image s'agrandit vigoureusement et répète rythmiquement un mouvement d'expansion -> réduction -> expansion. Accompagnée par cette animation dynamique, une lumière dorée et des étincelles se propagent tout autour.
+
+Ensuite, l'image effectue une rotation rapide de 360 degrés autour de son centre, passant en douceur à une rotation 3D (effet de retournement de carte) le long de l'axe Y. La caméra effectue également de légers mouvements de va-et-vient pour créer de la profondeur. Une lumière semblable à un ruban doré et des particules tourbillonnent en synchronisation avec la rotation, accentuant l'aspect festif.
+
+Au moment où la rotation 3D se termine, l'image se divise instantanément pour passer d'une à quatre unités. Les quatre pièces s'envolent vers les coins, chacune continuant à pivoter, à changer d'échelle et à laisser de magnifiques traînées lumineuses.
+
+Immédiatement après, les quatre pièces se divisent à nouveau pour atteindre 16 unités, se répartissant uniformément sur l'écran. Ces 16 pièces répètent des rotations, des rotations 3D et des changements d'échelle à des moments différents, se multipliant pour remplir l'écran. En arrière-plan, des confettis, des particules dorées, des lumières en forme d'étoiles et des effets de célébration dansent majestueusement, soulignant visuellement l'idée de « doublement ».
+
+À la fin, les 16 pièces convergent toutes vers le centre à grande vitesse et s'intègrent en une seule pièce en un instant. Alors que la caméra zoome brusquement vers l'image intégrée, une lumière dorée jaillit et des confettis remplissent l'écran. La vidéo se termine sur une note extrêmement somptueuse célébrant le succès.
+
+Assurez-vous qu'il n'y ait aucun moment d'immobilité tout au long de la vidéo, en maintenant un rythme lumineux et énergique. Le mouvement doit être fluide et précis, visant une qualité de graphisme animé digne de publicités, de spots commerciaux ou de clips musicaux.
+
+Présentation de la typographie (Version Célébration/Doublement)
+
+La typographie doit être parfaitement synchronisée avec le mouvement de l'image. Le texte est placé devant l'image, en utilisant une police sans-serif audacieuse, moderne et luxueuse. Ajoutez de l'éclat doré, de la luminescence, un effet de halo lumineux et un flou de mouvement aux caractères pour créer un aspect festif et haut de gamme.
+
+0–2 secondes : Un « X » géant s'agrandit vigoureusement, pulsant en synchronisation avec l'échelle de l'image. Une lumière dorée et des étincelles se propagent autour.
+
+2–4 secondes : En synchronisation avec la rotation 3D de l'image, le mot « Earnings » surgit de l'arrière-plan, s'agrandissant avec audace. Accompagné de traînées de lumière dorée, il exécute un effet symbolisant le succès et le profit.
+
+4–6 secondes : Le mot « Doubled » bondit puissamment au centre de l'écran, s'agrandissant de manière significative. Après un léger rebond, une radiance dorée se répand sur l'écran, soulignant l'impact du fait que « les revenus ont doublé ».
+
+6–8 secondes : Alors que l'image se divise en 4 puis en 16 pièces, plusieurs symboles « X » apparaissent et se multiplient rythmiquement sur l'écran. Des confettis, des particules dorées et des lumières en forme d'étoiles dansent en arrière-plan, portant l'ambiance de célébration à son apogée.
+
+8–10 secondes : Toutes les images et tous les caractères se rassemblent au centre, avec « X », « Earnings » et « Doubled » se chevauchant pour former un titre puissant. Alors que la caméra zoome, une lumière dorée jaillit et des confettis se déversent sur l'écran. La vidéo se termine sur une note luxueuse et rafraîchissante, célébrant « Earnings Doubled ! ».
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Graphismes animés pour la célébration des résultats financiers de X">
+
+**[🎬 Voir la vidéo →](https://x.com/Naonekozamurai/status/2083364119928049908)**
+
+**Auteur:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Publié:** Aug 1, 2026
+
+---
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -2871,6 +2897,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-08T03:10:33.603Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-08T08:36:58.897Z</sub>
 
 </div>

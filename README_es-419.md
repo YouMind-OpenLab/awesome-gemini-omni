@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **247** |
+| 📝 Total de prompts | **246** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-09-08** |
 
@@ -1412,25 +1412,6 @@ Una streamer jugando un videojuego donde el personaje principal es una enfermera
 **Autor:** [DrstaOne](https://x.com/DrstaOne) | **Fuente:** [Link](https://x.com/DrstaOne/status/2093364188781703596) | **Publicado:** Aug 28, 2026
 
 ---
-### POV de ciclismo de montaña en primera persona
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de descenso en bicicleta de montaña a alta velocidad diseñado para cámaras de acción, que pone a prueba la física, el terreno rocoso y el realismo ambiental en múltiples modelos.
-
-#### 📝 Prompt
-
-```
-POV en primera persona ultrarrealista de un recorrido en bicicleta de montaña por un sendero rocoso y empinado en lo alto de las montañas. El ciclista desciende a toda velocidad a través de curvas cerradas, rocas y pequeños saltos, rodeado de enormes acantilados y paisajes montañosos. Solo POV estricto en primera persona, alta velocidad, movimiento de cámara y física realista, metraje de cámara de acción real.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093328534945120256/img/eqNWd7v_zlAgy7uM.jpg" width="600" alt="POV de ciclismo de montaña en primera persona">
-
-**[🎬 Ver video →](https://x.com/YourAlphaMom/status/2093333326635405357)**
-
-**Autor:** [Alpha Mom](https://x.com/YourAlphaMom) | **Fuente:** [Link](https://x.com/YourAlphaMom/status/2093333326635405357) | **Publicado:** Aug 28, 2026
-
----
 ### Escalador en el Monte Everest
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2776,6 +2757,51 @@ un comercial de moda de alta gama para niños pequeños, lujo que se vuelve salv
 **Autor:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Fuente:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Publicado:** Aug 1, 2026
 
 ---
+### Gráficos en movimiento para la celebración de ganancias de X
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de gráficos en movimiento altamente detallado para Gemini Omni, diseñado para crear animaciones de celebración por los hitos de ganancias de X, con rotaciones 3D complejas, efectos de partículas y tipografía sincronizada.
+
+#### 📝 Prompt
+
+```
+Utilice la imagen adjunta como única referencia. Use siempre la misma imagen; solo anime la posición, escala, rotación, rotación 3D y duplicación. No genere ni redibuje nuevas ilustraciones. Gráficos en movimiento de alta calidad. Video con calidad comercial, como si hubiera sido realizado en After Effects. La atmósfera general es de 'éxito', 'duplicación', 'celebración' y 'alegría'. El fondo es brillante y espléndido, con luz dorada, confeti, destellos, partículas y efectos festivos que danzan hermosamente. Todo el video transmite una vibra positiva y estimulante.
+
+Simultáneamente al inicio del video, la imagen adjunta aparece en el centro de la pantalla. La imagen aumenta de escala vigorosamente y repite rítmicamente el movimiento de expansión -> contracción -> expansión. Acompañando a la animación dinámica, luz dorada y destellos se dispersan alrededor.
+
+Luego, la imagen gira 360 grados rápidamente sobre su centro, realizando una transición fluida a una rotación 3D (giro de tarjeta) a lo largo del eje Y. La cámara también se mueve ligeramente hacia adelante y hacia atrás para crear profundidad. Luz similar a cintas doradas y partículas giran en sincronía con la rotación, enfatizando la sensación festiva.
+
+En el momento en que termina la rotación 3D, la imagen se divide instantáneamente de una a cuatro. Las cuatro piezas salen volando hacia las esquinas, cada una continuando con su rotación, escala y dejando hermosos rastros de luz.
+
+Inmediatamente después, las cuatro piezas se dividen aún más en 16, extendiéndose uniformemente por toda la pantalla. Estas 16 piezas repiten la rotación, rotación 3D y escalado en diferentes tiempos, proliferando hasta llenar la pantalla. En el fondo, confeti, partículas doradas, luces en forma de estrella y efectos de celebración danzan grandiosamente, enfatizando visualmente la imagen de 'duplicación'.
+
+Al final, las 16 piezas convergen en el centro a alta velocidad y se integran en una sola pieza en un instante. A medida que la cámara hace un zoom rápido hacia la imagen integrada, estalla una luz dorada y el confeti llena la pantalla. El video concluye con un final increíblemente espléndido que celebra el éxito.
+
+Asegúrese de que no haya momentos de quietud durante todo el video, manteniendo un ritmo brillante y energético. El movimiento debe ser fluido y nítido, apuntando a gráficos en movimiento de alta calidad al nivel de anuncios, comerciales o videos musicales.
+
+Presentación de tipografía (Versión de celebración/duplicación)
+
+La tipografía debe estar perfectamente sincronizada con el movimiento de la imagen. El texto se coloca frente a la imagen, utilizando una fuente sans-serif audaz, moderna y lujosa. Añada brillo dorado, luminiscencia, resplandor y desenfoque de movimiento a los caracteres para crear un aspecto festivo y de alta gama.
+
+0–2 segundos: Una 'X' gigante aumenta de escala vigorosamente, pulsando en sincronía con el escalado de la imagen. Luz dorada y destellos se dispersan alrededor.
+
+2–4 segundos: Sincronizada con la rotación 3D de la imagen, la palabra 'Earnings' salta desde el fondo, aumentando de escala audazmente. Acompañada por rastros de luz dorada, realice un efecto que simbolice éxito y ganancias.
+
+4–6 segundos: La palabra 'Doubled' salta poderosamente al centro de la pantalla, aumentando significativamente de escala. Tras un ligero rebote, el resplandor dorado se extiende por la pantalla, enfatizando el impacto de que 'las ganancias se han duplicado'.
+
+6–8 segundos: A medida que la imagen se divide en 4 y 16 piezas, múltiples símbolos 'X' aparecen y proliferan rítmicamente por la pantalla. Confeti, partículas doradas y luces en forma de estrella danzan en el fondo, elevando el ambiente festivo a su punto máximo.
+
+8–10 segundos: Todas las imágenes y caracteres se reúnen en el centro, con 'X', 'Earnings' y 'Doubled' superponiéndose para formar un título poderoso. A medida que la cámara hace zoom, estalla luz dorada y el confeti inunda la pantalla. El video termina con un final lujoso y refrescante, celebrando que '¡las ganancias se han duplicado!'.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Gráficos en movimiento para la celebración de ganancias de X">
+
+**[🎬 Ver video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
+
+**Autor:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Fuente:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Publicado:** Aug 1, 2026
+
+---
 ---
 
 ## 📚 Más prompts disponibles
@@ -2828,6 +2854,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-08T03:10:31.202Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-08T08:36:56.331Z</sub>
 
 </div>

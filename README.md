@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **247** |
+| 📝 Total Prompts | **246** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-08** |
 
@@ -1385,25 +1385,6 @@ A female streamer committing and playing  a game where a main character is a fem
 **Author:** [DrstaOne](https://x.com/DrstaOne) | **Source:** [Link](https://x.com/DrstaOne/status/2093364188781703596) | **Published:** Aug 28, 2026
 
 ---
-### FPV Mountain Bike Downhill Ride
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-speed, first-person perspective video prompt of a mountain bike racing down a steep, rocky trail with realistic action-camera physics.
-
-#### 📝 Prompt
-
-```
-Ultra-realistic first-person POV mountain bike ride down a steep rocky trail high in the mountains. The rider races downhill through sharp turns, rocks and small jumps with huge cliffs and mountain scenery around them. Strict first-person POV only, high speed, camera movement and grounded physics, real action-camera footage.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093328534945120256/img/eqNWd7v_zlAgy7uM.jpg" width="600" alt="FPV Mountain Bike Downhill Ride">
-
-**[🎬 Watch Video →](https://x.com/YourAlphaMom/status/2093333326635405357)**
-
-**Author:** [Alpha Mom](https://x.com/YourAlphaMom) | **Source:** [Link](https://x.com/YourAlphaMom/status/2093333326635405357) | **Published:** Aug 28, 2026
-
----
 ### Mount Everest Climber
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2698,6 +2679,56 @@ a high end fashion commercial for toddlers, luxury gone feral, adorable but unst
 **Author:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Source:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Published:** Aug 1, 2026
 
 ---
+### Celebratory Revenue Milestone Motion Graphics
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A highly detailed motion graphics prompt for Gemini Omni designed to animate a reference image for marketing success. It features complex instructions for 3D card flips, multi-image splitting, and synchronized typography with celebratory visual effects like gold particles and confetti.
+
+#### 📝 Prompt
+
+```
+Use the attached image as the sole reference image. Always use the same image; only animate position, scale, rotation, 3D rotation, and duplication. Do not generate or redraw new illustrations. High-quality motion graphics. Commercial-quality video as if produced in After Effects. The overall atmosphere is 'success', 'doubled', 'celebration', and 'joy'. The background is bright and gorgeous, with golden light, confetti, sparkles, particles, and celebratory effects dancing beautifully. The entire video exudes a positive and uplifting atmosphere.
+
+At the start of the video, the attached image appears in the center. The image scales up vigorously and repeats a rhythmic expansion -> contraction -> expansion cycle. Golden light and sparkles spread around in sync with the bouncy animation.
+
+Next, the image rotates 360 degrees rapidly on its axis and smoothly transitions into a 3D rotation along the Y-axis (card flip). The camera moves slightly back and forth to create depth. Golden ribbon-like light and particles swirl in sync with the rotation, emphasizing the festive feeling.
+
+The moment the 3D rotation ends, the image instantly splits from one to four. The four images fly to the corners, continuing to rotate and scale while leaving beautiful light trails.
+
+Immediately after, the four split into 16 at high speed, spreading evenly across the screen. The 16 images repeat rotation, 3D rotation, expansion, and contraction at different timings, proliferating throughout the screen. In the background, confetti, golden particles, star-shaped lights, and celebratory effects dance grandly, visually emphasizing the 'doubled' image.
+
+In the finale, all 16 images gather at the center at high speed and integrate into one instantly. As the camera zooms in vigorously toward the integrated image, golden light bursts significantly and confetti dances across the screen. Conclude with an overwhelmingly gorgeous finish celebrating success.
+
+Maintain a bright and energetic tempo throughout the video without any still moments. The motion should be smooth and sharp, ensuring high-quality motion graphics on an advertisement, commercial, or music video level.
+
+Typography Presentation (Celebration/Doubling Version)
+
+Synchronize the typography perfectly with the motion of the images. Place text in front of the image using an ultra-bold, modern, and high-end sans-serif font. Add golden brilliance, luminescence, a light glow, and motion blur to the text for a premium festive feel.
+
+0–2 seconds
+A giant 'X' scales in vigorously, pulsing in sync with the image's expansion and contraction. Golden light and sparkles spread around.
+
+2–4 seconds
+In sync with the image's 3D rotation, 'Revenue' (収益) flies out from the back, scaling up boldly. Create a presentation symbolizing success and profit with trails of golden light.
+
+4–6 seconds
+The word 'Doubled' (倍増) forcefully jumps to the center, scaling up significantly. After a slight bounce, golden brilliance spreads, emphasizing the impact of 'doubled revenue'.
+
+6–8 seconds
+As the images split into 4 and 16, multiple 'X's also appear, proliferating rhythmically. Background confetti, golden particles, and star-shaped lights bring the celebration to its peak.
+
+8–10 seconds
+All images and text gather at the center, with 'X', 'Revenue', and 'Doubled' overlapping to form a powerful title. As the camera zooms in, golden light bursts and confetti pours down. Conclude with a refreshing finish celebrating 'Revenue Doubled!'.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Celebratory Revenue Milestone Motion Graphics">
+
+**[🎬 Watch Video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
+
+**Author:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Published:** Aug 1, 2026
+
+---
 ---
 
 ## 📚 More Prompts Available
@@ -2750,6 +2781,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-08T03:10:19.532Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-08T08:36:44.185Z</sub>
 
 </div>

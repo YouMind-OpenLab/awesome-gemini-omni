@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **247** |
+| 📝 Toplam İstem | **246** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-08** |
 
@@ -1455,25 +1455,6 @@ Bir kadın yayıncının, ana karakterin zombilerle şırıngayla savaştığı 
 **Yazar:** [DrstaOne](https://x.com/DrstaOne) | **Kaynak:** [Link](https://x.com/DrstaOne/status/2093364188781703596) | **Yayınlandı:** Aug 28, 2026
 
 ---
-### Dağ Bisikleti Birinci Şahıs (POV) Bakış Açısı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Aksiyon kameraları için tasarlanmış, fizik kurallarını, kayalık araziyi ve çevresel gerçekçiliği birden fazla model üzerinde test eden yüksek hızlı bir dağ bisikleti inişi istemi.
-
-#### 📝 İstem
-
-```
-Dağların yükseklerinde, sarp ve kayalık bir patikadan aşağı inen ultra gerçekçi birinci şahıs (POV) dağ bisikleti sürüşü. Sürücü; keskin virajlar, kayalar ve küçük atlayışlar arasından, çevresinde devasa uçurumlar ve dağ manzarası eşliğinde hızla aşağı iniyor. Sadece katı birinci şahıs (POV) bakış açısı, yüksek hız, kamera hareketi ve yere sağlam basan fizik kuralları, gerçek aksiyon kamerası görüntüleri.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093328534945120256/img/eqNWd7v_zlAgy7uM.jpg" width="600" alt="Dağ Bisikleti Birinci Şahıs (POV) Bakış Açısı">
-
-**[🎬 Videoyu izle →](https://x.com/YourAlphaMom/status/2093333326635405357)**
-
-**Yazar:** [Alpha Mom](https://x.com/YourAlphaMom) | **Kaynak:** [Link](https://x.com/YourAlphaMom/status/2093333326635405357) | **Yayınlandı:** Aug 28, 2026
-
----
 ### Everest Dağı Dağcısı
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2819,6 +2800,51 @@ Kalabalık bir bardan bootleg görüntüler: sörf-gürültü grubu "Sharks on S
 **Yazar:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Kaynak:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Yayınlandı:** Aug 1, 2026
 
 ---
+### X Kazanç Kutlaması Hareketli Grafikleri
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> X kazanç dönüm noktalarını kutlayan animasyonlar oluşturmak için Gemini Omni'ye yönelik, karmaşık 3D rotasyonlar, parçacık efektleri ve senkronize tipografi içeren son derece detaylı bir hareketli grafik istemi.
+
+#### 📝 İstem
+
+```
+Ekli görseli tek referans görseli olarak kullanın. Her zaman aynı görseli kullanın; yalnızca konum, ölçek, rotasyon, 3D rotasyon ve çoğaltma animasyonları uygulayın. Yeni illüstrasyonlar oluşturmayın veya yeniden çizmeyin. Yüksek kaliteli hareketli grafikler. After Effects ile yapılmış gibi ticari kalitede video. Genel atmosfer 'başarı', 'ikiye katlanma', 'kutlama' ve 'neşe' temalıdır. Arka plan parlak ve görkemlidir; altın rengi ışıklar, konfetiler, parıltılar, parçacıklar ve kutlama efektleri güzel bir şekilde dans eder. Videonun tamamı pozitif ve moral verici bir hava taşır.
+
+Video başladığı anda, ekli görsel ekranın merkezinde belirir. Görsel hızla büyür ve ritmik olarak genişleme -> küçülme -> genişleme şeklinde tekrarlar. Hareketli animasyona eşlik eden altın rengi ışıklar ve parıltılar etrafa yayılır.
+
+Ardından görsel, merkezi etrafında hızla 360 derece döner ve Y ekseni boyunca 3D rotasyona (kart çevirme) yumuşak bir geçiş yapar. Kamera ayrıca derinlik yaratmak için hafifçe ileri geri hareket eder. Altın rengi şerit benzeri ışıklar ve parçacıklar, rotasyonla senkronize bir şekilde dönerek şenlik havasını vurgular.
+
+3D rotasyon bittiği anda, görsel anında birden dörde bölünür. Dört parça köşelere doğru uçar; her biri dönmeye, ölçeklenmeye ve arkasında güzel ışık izleri bırakmaya devam eder.
+
+Hemen ardından, dört parça daha bölünerek 16 parçaya ayrılır ve ekrana eşit şekilde yayılır. Bu 16 parça, farklı zamanlamalarla rotasyon, 3D rotasyon ve ölçekleme hareketlerini tekrarlayarak ekranı dolduracak şekilde çoğalır. Arka planda konfetiler, altın rengi parçacıklar, yıldız şeklindeki ışıklar ve kutlama efektleri görkemli bir şekilde dans ederek 'ikiye katlanma' imajını görsel olarak vurgular.
+
+Sonda, 16 parçanın tamamı yüksek hızla merkezde birleşir ve anında tek bir parçaya dönüşür. Kamera birleşen görsele doğru keskin bir şekilde yakınlaşırken altın rengi ışıklar patlar ve ekranı konfetiler doldurur. Video, başarıyı kutlayan son derece görkemli bir finalle sona erer.
+
+Video boyunca hiçbir durgun an olmadığından emin olun, parlak ve enerjik bir tempo koruyun. Hareketler akıcı ve keskin olmalı; reklamlar veya müzik videoları seviyesinde yüksek kaliteli hareketli grafikler hedeflenmelidir.
+
+Tipografi Sunumu (Kutlama/İkiye Katlanma Versiyonu)
+
+Tipografi, görselin hareketiyle mükemmel bir şekilde senkronize olmalıdır. Metin, görselin önüne yerleştirilmeli; cesur, modern ve lüks bir sans-serif yazı tipi kullanılmalıdır. Kutlama ve üst düzey bir görünüm yaratmak için karakterlere altın rengi parlaklık, ışıldama, ışık huzmesi ve hareket bulanıklığı (motion blur) ekleyin.
+
+0–2 saniye: Dev bir 'X' harfi, görselin ölçeklenmesiyle senkronize bir şekilde nabız gibi atarak hızla büyür. Altın rengi ışıklar ve parıltılar etrafa yayılır.
+
+2–4 saniye: Görselin 3D rotasyonuyla senkronize olarak, 'Earnings' kelimesi arka plandan fırlar ve cesurca büyür. Altın rengi ışık izleri eşliğinde başarıyı ve kazancı simgeleyen bir efekt gerçekleştirin.
+
+4–6 saniye: 'Doubled' kelimesi ekranın merkezine güçlü bir şekilde atlar ve önemli ölçüde büyür. Hafif bir sıçramanın ardından, 'Kazançlar ikiye katlandı' etkisini vurgulayarak ekranın geneline altın rengi bir ışıltı yayılır.
+
+6–8 saniye: Görsel 4 ve 16 parçaya bölünürken, birden fazla 'X' sembolü belirir ve ekran boyunca ritmik olarak çoğalır. Konfetiler, altın rengi parçacıklar ve yıldız şeklindeki ışıklar arka planda dans ederek kutlama havasını zirveye taşır.
+
+8–10 saniye: Tüm görseller ve karakterler merkezde toplanır; 'X', 'Earnings' ve 'Doubled' üst üste gelerek güçlü bir başlık oluşturur. Kamera yakınlaşırken altın rengi ışıklar patlar ve ekranı konfetiler kaplar. Video, 'Earnings Doubled!' (Kazançlar İkiye Katlandı!) başarısını kutlayan lüks ve ferahlatıcı bir finalle sona erer.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="X Kazanç Kutlaması Hareketli Grafikleri">
+
+**[🎬 Videoyu izle →](https://x.com/Naonekozamurai/status/2083364119928049908)**
+
+**Yazar:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Kaynak:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Yayınlandı:** Aug 1, 2026
+
+---
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -2871,6 +2897,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-08T03:10:38.753Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-08T08:37:04.091Z</sub>
 
 </div>

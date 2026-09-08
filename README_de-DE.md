@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **247** |
+| 📝 Gesamtanzahl Prompts | **246** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-08** |
 
@@ -1455,25 +1455,6 @@ Eine Streamerin spielt ein Spiel, in dem die Hauptfigur eine Krankenschwester is
 **Autor:** [DrstaOne](https://x.com/DrstaOne) | **Quelle:** [Link](https://x.com/DrstaOne/status/2093364188781703596) | **Veröffentlicht:** Aug 28, 2026
 
 ---
-### Mountainbike First-Person POV
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein High-Speed-Mountainbike-Abfahrts-Prompt für Action-Kameras, der Physik, felsiges Gelände und Umgebungsrealismus über verschiedene Modelle hinweg testet.
-
-#### 📝 Prompt
-
-```
-Ultrarealistische First-Person-POV-Fahrt mit dem Mountainbike einen steilen, felsigen Pfad hoch in den Bergen hinunter. Der Fahrer rast bergab durch scharfe Kurven, über Felsen und kleine Sprünge, umgeben von riesigen Klippen und Berglandschaften. Ausschließlich strikte First-Person-POV-Perspektive, hohe Geschwindigkeit, realistische Kamerabewegungen und Bodenhaftung, echtes Action-Kamera-Filmmaterial.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2093328534945120256/img/eqNWd7v_zlAgy7uM.jpg" width="600" alt="Mountainbike First-Person POV">
-
-**[🎬 Video ansehen →](https://x.com/YourAlphaMom/status/2093333326635405357)**
-
-**Autor:** [Alpha Mom](https://x.com/YourAlphaMom) | **Quelle:** [Link](https://x.com/YourAlphaMom/status/2093333326635405357) | **Veröffentlicht:** Aug 28, 2026
-
----
 ### Bergsteiger am Mount Everest
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2819,6 +2800,51 @@ Ein High-End-Werbespot für Kleinkindermode, Luxus wird wild, bezaubernd aber un
 **Autor:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Quelle:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Veröffentlicht:** Aug 1, 2026
 
 ---
+### X Earnings Celebration Motion Graphics
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein hochdetaillierter Motion-Graphics-Prompt für Gemini Omni zur Erstellung feierlicher Animationen für X-Earnings-Meilensteine, mit komplexen 3D-Rotationen, Partikeleffekten und synchronisierter Typografie.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das angehängte Bild als einzige Referenz. Nutzen Sie immer dasselbe Bild; animieren Sie ausschließlich Position, Skalierung, Rotation, 3D-Rotation und Duplizierung. Generieren oder zeichnen Sie keine neuen Illustrationen. Hochwertige Motion Graphics. Video in kommerzieller Qualität, als wäre es in After Effects erstellt worden. Die allgemeine Atmosphäre ist geprägt von 'Erfolg', 'Verdopplung', 'Feier' und 'Freude'. Der Hintergrund ist hell und prachtvoll, mit goldenem Licht, Konfetti, Glitzereffekten, Partikeln und festlichen Effekten, die wunderschön tanzen. Das gesamte Video vermittelt eine positive und aufbauende Stimmung.
+
+Zeitgleich mit dem Start des Videos erscheint das angehängte Bild in der Mitte des Bildschirms. Das Bild skaliert schwungvoll und wiederholt rhythmisch die Bewegung: Vergrößern -> Verkleinern -> Vergrößern. Begleitet von der dynamischen Animation verbreiten sich goldenes Licht und Glitzereffekte in der Umgebung.
+
+Als Nächstes rotiert das Bild schnell um 360 Grad um seine Mitte und geht fließend in eine 3D-Rotation (Karten-Flip) entlang der Y-Achse über. Die Kamera bewegt sich zudem leicht vor und zurück, um Tiefe zu erzeugen. Goldene, bandartige Lichtstreifen und Partikel wirbeln synchron zur Rotation und unterstreichen das festliche Gefühl.
+
+In dem Moment, in dem die 3D-Rotation endet, teilt sich das Bild augenblicklich von einem in vier Teile. Die vier Stücke fliegen in die Ecken, wobei jedes weiterhin rotiert, skaliert und wunderschöne Lichtspuren hinterlässt.
+
+Unmittelbar danach teilen sich die vier Stücke weiter in 16 Teile auf, die sich gleichmäßig über den Bildschirm verteilen. Diese 16 Stücke wiederholen Rotation, 3D-Rotation und Skalierung zu unterschiedlichen Zeitpunkten und vermehren sich, bis sie den Bildschirm füllen. Im Hintergrund tanzen Konfetti, goldene Partikel, sternförmige Lichter und festliche Effekte großartig und unterstreichen visuell das Bild der 'Verdopplung'.
+
+Am Ende laufen alle 16 Teile mit hoher Geschwindigkeit in der Mitte zusammen und werden in einem Augenblick zu einem einzigen Bild vereint. Während die Kamera scharf auf das zusammengeführte Bild zoomt, bricht goldenes Licht hervor und Konfetti füllt den Bildschirm. Das Video endet mit einem überwältigend prachtvollen Abschluss, der den Erfolg feiert.
+
+Stellen Sie sicher, dass es keine Momente des Stillstands im Video gibt, um ein helles und energiegeladenes Tempo beizubehalten. Die Bewegungen sollten flüssig und scharf sein, mit dem Ziel, hochwertige Motion Graphics auf dem Niveau von Werbespots, kommerziellen Videos oder Musikvideos zu erreichen.
+
+Typografie-Präsentation (Feier/Verdopplungs-Version)
+
+Die Typografie sollte perfekt mit der Bewegung des Bildes synchronisiert sein. Der Text wird vor dem Bild platziert und verwendet eine fettgedruckte, moderne und luxuriöse serifenlose Schriftart. Fügen Sie den Zeichen goldenen Glanz, Leuchtkraft, Lichtschimmer und Bewegungsunschärfe hinzu, um einen feierlichen und hochwertigen Look zu erzielen.
+
+0–2 Sekunden: Ein riesiges 'X' skaliert schwungvoll hinein und pulsiert synchron zur Skalierung des Bildes. Goldenes Licht und Glitzereffekte verbreiten sich.
+
+2–4 Sekunden: Synchron zur 3D-Rotation des Bildes springt das Wort 'Earnings' aus dem Hintergrund hervor und skaliert kräftig. Begleitet von goldenen Lichtspuren wird ein Effekt erzeugt, der Erfolg und Gewinn symbolisiert.
+
+4–6 Sekunden: Das Wort 'Doubled' springt kraftvoll in die Mitte des Bildschirms und skaliert deutlich. Nach einem leichten Sprung breitet sich goldene Strahlkraft über den Bildschirm aus und unterstreicht die Wirkung von 'Earnings have doubled'.
+
+6–8 Sekunden: Während sich das Bild in 4 und 16 Teile aufteilt, erscheinen mehrere 'X'-Symbole und vermehren sich rhythmisch auf dem Bildschirm. Konfetti, goldene Partikel und sternförmige Lichter tanzen im Hintergrund und steigern die feierliche Stimmung auf ihren Höhepunkt.
+
+8–10 Sekunden: Alle Bilder und Zeichen versammeln sich in der Mitte, wobei 'X', 'Earnings' und 'Doubled' sich überlagern, um einen kraftvollen Titel zu bilden. Während die Kamera zoomt, bricht goldenes Licht hervor und Konfetti regnet über den Bildschirm. Das Video endet mit einem luxuriösen und erfrischenden Abschluss, der 'Earnings Doubled!' feiert.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="X Earnings Celebration Motion Graphics">
+
+**[🎬 Video ansehen →](https://x.com/Naonekozamurai/status/2083364119928049908)**
+
+**Autor:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Quelle:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Veröffentlicht:** Aug 1, 2026
+
+---
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -2871,6 +2897,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-08T03:10:32.421Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-08T08:36:57.746Z</sub>
 
 </div>
