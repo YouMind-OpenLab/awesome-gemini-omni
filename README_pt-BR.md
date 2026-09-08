@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **246** |
+| 📝 Total de prompts | **249** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-09-08** |
 
@@ -56,6 +56,153 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Storyboard para Comercial de Bebida Premium Sparkling Lemon
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt detalhado de storyboard para um comercial cinematográfico de bebidas em alta velocidade, destacando a gaseificação, splashes em macro e branding de luxo.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Storyboard para Comercial de Produto de Bebida Premium Sparkling Lemon
+
+FORMATO:
+• Storyboard premium de página única
+• Proporção 3:4 (Retrato)
+• Campanha de bebida de luxo
+• 8 cenas cinematográficas focadas no produto
+• O produto permanece como o protagonista visual
+• Apresentação comercial de alto padrão
+
+CABEÇALHO:
+• Tipografia contemporânea em negrito
+• Cartões de informações:
+  - Duração: 20 Segundos
+  - Estilo: Comercial Cinematográfico de Bebida em Alta Velocidade
+  - Produto: Bebida Sparkling Lemon
+  - Áudio: Efervescência + Gelo estalando + ASMR de líquido
+• Seção "Por que este estilo funciona"
+• Estética em branco cristal, amarelo limão e prata
+• Acentos gráficos minimalistas inspirados em frutas cítricas
+
+STORYBOARD:
+1. Garrafa gelada isolada com condensação intensa
+2. Macro extremo de gotas de água escorrendo pela garrafa
+3. Abertura da tampa da garrafa com uma explosão dramática de gaseificação
+4. Bebida gaseificada explodindo para cima em um splash de líquido controlado
+5. Fatias de limão girando através do líquido gaseificado
+6. Cubos de gelo caindo em um copo de cristal em câmera super lenta
+7. Macro extremo mostrando milhares de bolhas de gaseificação subindo pela bebida
+8. Packshot final com a garrafa, copo, fatias de limão e splash congelado envolvendo o produto
+
+CADA PAINEL:
+• Número da cena
+• Selo de duração
+• Direção de câmera
+• Visual
+• Ação
+• Detalhe do produto
+
+CÂMERA:
+Fotografia de líquido em alta velocidade a 120fps, macro extremo, splash congelado, fatias de limão rotativas, luz de fundo dramática, close-up de condensação, movimento de produto em 360° suave.
+
+ESTILO:
+Comercial de bebida premium ultrarrealista, líquido cristalino, gaseificação explosiva, gotas de água fisicamente precisas
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248982_gewimj_HRriVPmaIAASM6y.jpg" width="600" alt="Storyboard para Comercial de Bebida Premium Sparkling Lemon">
+
+**[🎬 Assistir vídeo →](https://x.com/Strength04_X/status/2097237465887338994)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2097237465887338994) | **Publicado:** Sep 8, 2026
+
+---
+### Montagem de Cozinha Gourmet em Take Contínuo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt técnico configurado em JSON para um take contínuo que cria uma cozinha vazia que se constrói dinamicamente peça por peça, estabelecendo um ambiente gourmet acolhedor e iluminado pelo sol.
+
+#### 📝 Prompt
+
+```
+Um take cinematográfico contínuo de 10 segundos, sem cortes, com câmera fixa em ângulo aberto e sem movimento. Cozinha moderna e vazia, hiper-realista, com armários brancos limpos, bancadas de concreto polido, uma janela grande com vista para o horizonte da cidade e pé-direito alto. A luz dourada e quente do fim da tarde entra pela janela, projetando sombras suaves que se movem pelo chão. Nenhum texto visível, exceto a marca autêntica na máquina de café. De 0 a 1,5s, uma caixa elegante em preto fosco repousa no centro da cozinha vazia, treme suavemente e então se abre de forma fluida. De 1,5 a 3,5s, uma máquina de espresso premium embutida desliza para o lugar na bancada traseira e começa a preparar o café; xícaras combinando e um pequeno espumador de leite aparecem ao lado. De 3,5 a 5,5s, prateleiras abertas de nogueira quente surgem ao longo da parede esquerda e são preenchidas com tigelas de cerâmica, livros de culinária e potes de vidro; uma grande ilha de mármore se desdobra no centro. De 5,5 a 7,5s, luzes pendentes descem do teto e brilham suavemente; ervas frescas em vasos e uma tábua de corte de madeira aparecem na ilha; um fogão profissional e um forno se materializam à direita. De 7,5 a 9s, uma pia estilo farmhouse com torneira de latão se instala sob a janela, toalhas de linho são penduradas e um pequeno display inteligente surge suavemente no frontão da pia. O segundo final mantém a imagem da cozinha gourmet completa, aconchegante e iluminada pelo sol, com vapor subindo de um espresso recém-preparado. Física fotorrealista, montagem precisa, calor moderno e elegante. Áudio: sons ambientes suaves de cozinha e o preparo da máquina de espresso começando em 1,5s, com uma melodia relaxante até o final.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096972853468102656/img/CckSt3zqQLFxhq6O.jpg" width="600" alt="Montagem de Cozinha Gourmet em Take Contínuo">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2096972925140365437)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2096972925140365437) | **Publicado:** Sep 7, 2026
+
+---
+### Storyboard para Comercial Premium de Nutella
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um storyboard de publicidade de alimentos de luxo para creme de avelã, com foco em textura, ação de espalhar e iluminação quente.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Storyboard para Comercial de Produto Premium de Nutella
+
+FORMATO:
+• Storyboard premium de página única
+• Proporção retrato 3:4
+• Publicidade de produto alimentício de luxo
+• 8 cenas cinematográficas focadas no produto
+• O produto permanece como o protagonista principal
+• Apresentação de agência de publicidade de alto padrão
+
+CABEÇALHO:
+• Tipografia serifada elegante
+• Cartões de informações:
+
+- Duração: 20 segundos
+- Estilo: Comercial cinematográfico de culinária gourmet
+- Produto: Creme de Avelã Nutella
+- Áudio: Som suave de espalhar + ASMR de comida
+  • Seção "Por que este estilo funciona"
+  • Estética em tons de marrom quente, creme e dourado
+  • Detalhes decorativos minimalistas de avelã
+
+STORYBOARD:
+
+1. Pote de Nutella premium sobre madeira escura polida
+2. Tampa do pote abrindo em macro extremo
+3. Nutella cremosa sendo espalhada lentamente a partir do pote
+4. Creme de chocolate formando uma fita brilhante no ar
+5. Nutella caindo em cascata sobre panquecas fofas
+6. Macro extremo mostrando a textura rica do chocolate e pequenos reflexos
+7. Pilha de panquecas cercada pelo pote protagonista e avelãs
+8. Packshot final do produto de luxo com Nutella espalhada de forma dramática
+
+CADA PAINEL:
+• Número da cena
+• Selo de duração
+• Direção de câmera
+• Visual
+• Ação
+• Detalhe do produto
+
+CÂMERA:
+Macro extremo, fotografia de espalhamento em câmera lenta, plano zenital de comida, movimento de aproximação controlado (push-in), profundidade de campo curta, enquadramento cinematográfico de destaque.
+
+ESTILO:
+Publicidade de alimentos ultrarrealista, viscosidade realista do creme, textura de chocolate brilhante, iluminação de estúdio quente, embalagem de vidro premium, apresentação gourmet sofisticada, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248820_drevcx_HRm94c_aAAET3K6.jpg" width="600" alt="Storyboard para Comercial Premium de Nutella">
+
+**[🎬 Assistir vídeo →](https://x.com/itxabdullaa/status/2096915887504982258)**
+
+**Autor:** [ÀBDŪLLÂH](https://x.com/itxabdullaa) | **Fonte:** [Link](https://x.com/itxabdullaa/status/2096915887504982258) | **Publicado:** Sep 7, 2026
+
+---
 ### Time-lapse do Florescimento das Quatro Estações
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -131,7 +278,7 @@ ESTILO:
 Publicidade de alimentos ultrarrealista, viscosidade de xarope realista, textura dourada brilhante, iluminação de estúdio quente, embalagem de vidro premium, apresentação gourmet sofisticada, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788771031949_276axy_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard Comercial de Xarope de Bordo Premium">
+<img src="https://cms-assets.youmind.com/media/1788857251032_k6cgg4_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard Comercial de Xarope de Bordo Premium">
 
 **[🎬 Assistir vídeo →](https://x.com/Strength04_X/status/2096833097740493050)**
 
@@ -734,7 +881,7 @@ ESTILO:
 Publicidade de bebidas ultrarrealista, líquido cristalino, condensação realista, textura detalhada do coco, splash de água dinâmico, iluminação natural premium, embalagem limpa, fotografia comercial de luxo, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788426362099_jpy8ok_HRIV2OMWEAAdkxS.jpg" width="600" alt="Storyboard para Comercial de Água de Coco">
+<img src="https://cms-assets.youmind.com/media/1788857253380_cr9h8y_HRIV2OMWEAAdkxS.jpg" width="600" alt="Storyboard para Comercial de Água de Coco">
 
 **[🎬 Assistir vídeo →](https://x.com/Strength04_X/status/2094760813794111843)**
 
@@ -2762,89 +2909,6 @@ Storyboard da Linha do Tempo:
 **Autor:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Fonte:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Publicado:** Aug 3, 2026
 
 ---
-### Filmagem de banda de rock de tubarões em um bar pé-sujo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gera um vídeo com estilo amador e rústico de uma banda de rock fictícia de tubarões tocando ao vivo em um ambiente de bar pé-sujo lotado.
-
-#### 📝 Prompt
-
-```
-Filmagem amadora de um bar lotado: a banda de surf-noise "Sharks on Surfboards", tubarões reais equilibrados de alguma forma em pranchas e detonando nas guitarras com suas nadadeiras, sussurra um breve olá antes de começar a tocar seu single frenético, "Chum Bucket".
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Filmagem de banda de rock de tubarões em um bar pé-sujo">
-
-**[🎬 Assistir vídeo →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
-
-**Autor:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Fonte:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **Publicado:** Aug 3, 2026
-
----
-### Comercial de Moda Infantil de Luxo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt para comercial de moda de alto padrão com crianças pequenas em uma estética de luxo descrita como selvagem e imparável.
-
-#### 📝 Prompt
-
-```
-um comercial de moda de alto padrão para crianças pequenas, luxo que se tornou selvagem, adorável, mas imparável.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Comercial de Moda Infantil de Luxo">
-
-**[🎬 Assistir vídeo →](https://x.com/ritesh_ai/status/2083525213309042711)**
-
-**Autor:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Fonte:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Publicado:** Aug 1, 2026
-
----
-### Motion Graphics para Celebração de Resultados do X
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Um prompt de motion graphics altamente detalhado para o Gemini Omni criar animações comemorativas para marcos de resultados do X, apresentando rotações 3D complexas, efeitos de partículas e tipografia sincronizada.
-
-#### 📝 Prompt
-
-```
-Use a imagem em anexo como a única referência visual. Utilize sempre a mesma imagem; anime apenas posição, escala, rotação, rotação 3D e duplicação. Não gere nem redesenhe novas ilustrações. Motion graphics de alta qualidade. Vídeo com qualidade comercial, como se tivesse sido feito no After Effects. A atmosfera geral é de 'sucesso', 'dobro', 'celebração' e 'alegria'. O fundo é brilhante e deslumbrante, com luz dourada, confetes, brilhos, partículas e efeitos comemorativos dançando de forma bela. O vídeo inteiro transmite uma energia positiva e inspiradora.
-
-Simultaneamente ao início do vídeo, a imagem em anexo aparece no centro da tela. A imagem aumenta de escala vigorosamente e repete ritmicamente o movimento de expandir -> encolher -> expandir. Acompanhando a animação dinâmica, luz dourada e brilhos se espalham ao redor.
-
-Em seguida, a imagem gira 360 graus rapidamente em torno do seu centro, transicionando suavemente para uma rotação 3D (giro de cartão) ao longo do eixo Y. A câmera também se move levemente para frente e para trás para criar profundidade. Luzes em formato de fita dourada e partículas giram em sincronia com a rotação, enfatizando a sensação festiva.
-
-No momento em que a rotação 3D termina, a imagem se divide instantaneamente de uma para quatro. As quatro peças voam para os cantos, cada uma continuando a girar, escalar e deixar belos rastros de luz.
-
-Imediatamente após, as quatro peças se dividem ainda mais em 16, espalhando-se uniformemente pela tela. Essas 16 peças repetem a rotação, rotação 3D e escala em tempos diferentes, proliferando-se para preencher a tela. Ao fundo, confetes, partículas douradas, luzes em formato de estrela e efeitos comemorativos dançam grandiosamente, enfatizando visualmente a ideia de 'dobrar'.
-
-Ao final, todas as 16 peças convergem para o centro em alta velocidade e são integradas em uma única peça instantaneamente. À medida que a câmera dá um zoom rápido em direção à imagem integrada, uma explosão de luz dourada ocorre e confetes preenchem a tela. O vídeo termina com um desfecho extremamente luxuoso celebrando o sucesso.
-
-Certifique-se de que não haja momentos de estagnação durante o vídeo, mantendo um ritmo brilhante e energético. O movimento deve ser suave e preciso, visando motion graphics de alta qualidade no nível de anúncios, comerciais ou videoclipes.
-
-Apresentação de Tipografia (Versão Celebração/Dobro)
-
-A tipografia deve estar perfeitamente sincronizada com o movimento da imagem. O texto é colocado à frente da imagem, usando uma fonte sem serifa ousada, moderna e luxuosa. Adicione brilho dourado, luminescência, efeito de luz e motion blur aos caracteres para criar um visual comemorativo e sofisticado.
-
-0–2 segundos: Um 'X' gigante aumenta de escala vigorosamente, pulsando em sincronia com a escala da imagem. Luz dourada e brilhos se espalham ao redor.
-
-2–4 segundos: Sincronizando com a rotação 3D da imagem, a palavra 'Earnings' salta do fundo, aumentando de escala de forma ousada. Acompanhada por rastros de luz dourada, execute um efeito que simbolize sucesso e lucro.
-
-4–6 segundos: A palavra 'Doubled' salta poderosamente para o centro da tela, aumentando significativamente. Após um leve salto, um brilho dourado se espalha pela tela, enfatizando o impacto de que 'os resultados dobraram'.
-
-6–8 segundos: À medida que a imagem se divide em 4 e 16 peças, múltiplos símbolos 'X' aparecem e proliferam ritmicamente pela tela. Confetes, partículas douradas e luzes em formato de estrela dançam ao fundo, elevando o clima de celebração ao seu ápice.
-
-8–10 segundos: Todas as imagens e caracteres se reúnem no centro, com 'X', 'Earnings' e 'Doubled' sobrepondo-se para formar um título poderoso. Conforme a câmera dá zoom, a luz dourada explode e confetes chovem pela tela. O vídeo termina com um desfecho luxuoso e revigorante, celebrando que 'os resultados dobraram!'.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Motion Graphics para Celebração de Resultados do X">
-
-**[🎬 Assistir vídeo →](https://x.com/Naonekozamurai/status/2083364119928049908)**
-
-**Autor:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Fonte:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Publicado:** Aug 1, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -2897,6 +2961,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-08T08:37:01.134Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-08T16:01:24.426Z</sub>
 
 </div>

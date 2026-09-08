@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **246** |
+| 📝 Total Prompts | **249** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-08** |
 
@@ -56,6 +56,153 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Premium Sparkling Lemon Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed storyboard prompt for a high-speed cinematic beverage commercial, highlighting carbonation, macro splashes, and luxury branding.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Premium Sparkling Lemon Drink Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury beverage campaign
+• 8 cinematic product-focused scenes
+• Product remains the visual hero
+• High-end commercial presentation
+
+HEADER:
+• Bold contemporary typography
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: High-Speed Cinematic Beverage Commercial
+  - Product: Sparkling Lemon Drink
+  - Audio: Fizz + Ice Crack + Liquid ASMR
+• Why This Style Works section
+• Crystal white, lemon yellow and silver aesthetic
+• Minimal citrus-inspired graphic accents
+
+STORYBOARD:
+1. Ice-cold bottle standing alone with heavy condensation
+2. Extreme macro of water droplets sliding down the bottle
+3. Bottle cap opening with a dramatic burst of carbonation
+4. Sparkling drink exploding upward in a controlled liquid splash
+5. Lemon slices spinning through the sparkling liquid
+6. Ice cubes falling into a crystal glass in ultra slow motion
+7. Extreme macro showing thousands of carbonation bubbles rising through the drink
+8. Final hero packshot with bottle, glass, lemon slices and frozen splash surrounding the product
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+120fps high-speed liquid photography, extreme macro, frozen splash, rotating lemon slices, dramatic backlight, condensation close-up, smooth 360° product movement.
+
+STYLE:
+Ultra-realistic premium beverage commercial, crystal-clear liquid, explosive carbonation, physically accurate water droplets
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248982_gewimj_HRriVPmaIAASM6y.jpg" width="600" alt="Premium Sparkling Lemon Commercial Storyboard">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2097237465887338994)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2097237465887338994) | **Published:** Sep 8, 2026
+
+---
+### Gourmet Kitchen Assembly Continuous Shot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A technical JSON-configured continuous-shot prompt creating an empty kitchen that dynamically constructs itself piece-by-piece, establishing a warm, sunlit gourmet environment.
+
+#### 📝 Prompt
+
+```
+One continuous unbroken 10-second cinematic shot, fixed wide-angle locked-off camera, no cuts, no camera movement. Hyper-realistic empty modern kitchen with clean white cabinetry, polished concrete countertops, large window overlooking a city skyline, and high ceiling. Warm golden late-afternoon sunlight streams through the window, casting soft moving shadows across the floor. No visible text except authentic branding on the coffee machine. At 0-1.5s a sleek matte-black crate sits in the center of the empty kitchen, trembles gently, then opens smoothly. From 1.5-3.5s a premium built-in espresso machine slides into place on the rear counter and begins brewing; matching cups and a small milk frother appear beside it. From 3.5-5.5s warm walnut open shelves rise along the left wall and populate with ceramic bowls, cookbooks, and glass jars; a large marble island unfolds in the center. From 5.5-7.5s pendant lights descend from the ceiling and glow warmly; lush potted herbs and a wooden cutting board appear on the island; a professional range and oven materialize on the right. From 7.5-9s a farmhouse sink with brass faucet installs itself under the window, linen towels hang, and a small smart display fades onto the backsplash. Final 1s holds on the completed cozy, sunlit gourmet kitchen with steam rising from a freshly pulled espresso. Photoreal physics, precise assembly, elegant modern warmth. Audio: soft ambient kitchen sounds and espresso machine brewing starting at 1.5s, soothing melody through the end.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096972853468102656/img/CckSt3zqQLFxhq6O.jpg" width="600" alt="Gourmet Kitchen Assembly Continuous Shot">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2096972925140365437)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2096972925140365437) | **Published:** Sep 7, 2026
+
+---
+### Premium Nutella Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A luxury food advertising storyboard for hazelnut spread, focusing on texture, spreading action, and warm lighting.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Premium Nutella Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Luxury food product advertising
+• 8 cinematic product-focused scenes
+• Product remains the main hero
+• High-end advertising agency presentation
+
+HEADER:
+• Elegant serif typography
+• Information cards:
+
+- Duration: 20 Seconds
+- Style: Cinematic Gourmet Food Commercial
+- Product: Nutella Hazelnut Spread
+- Audio: Soft Spread + Food ASMR
+  • Why This Style Works section
+  • Warm brown, cream and golden aesthetic
+  • Minimal hazelnut decorative accents
+
+STORYBOARD:
+
+1. Premium Nutella jar standing on polished dark wood
+2. Jar lid opening in extreme macro
+3. Creamy Nutella slowly spreading from the jar
+4. Chocolate spread forming a glossy ribbon in mid-air
+5. Nutella cascading over fluffy pancakes
+6. Extreme macro showing rich chocolate texture and tiny reflections
+7. Pancake stack surrounded by the hero jar and hazelnuts
+8. Final luxury product packshot with dramatic Nutella spread
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+Extreme macro, slow-motion spread photography, overhead food shot, controlled push-in, shallow depth of field, cinematic hero framing.
+
+STYLE:
+Ultra-realistic food advertising, realistic spread viscosity, glossy chocolate texture, warm studio lighting, premium glass packaging, sophisticated gourmet presentation, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248820_drevcx_HRm94c_aAAET3K6.jpg" width="600" alt="Premium Nutella Commercial Storyboard">
+
+**[🎬 Watch Video →](https://x.com/itxabdullaa/status/2096915887504982258)**
+
+**Author:** [ÀBDŪLLÂH](https://x.com/itxabdullaa) | **Source:** [Link](https://x.com/itxabdullaa/status/2096915887504982258) | **Published:** Sep 7, 2026
+
+---
 ### Four Seasons Flower Bloom Time-Lapse
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -79,7 +226,7 @@ A flower blooms in warm sunlight, rain arrives, autumn takes over, then winter c
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A professional cinematic storyboard prompt for a luxury maple syrup advertisement, featuring detailed macro shots of flowing syrup and gourmet pancake presentation.
+> A professional gourmet food storyboard prompt for maple syrup, detailing slow-motion liquid flow and macro texture photography.
 
 #### 📝 Prompt
 
@@ -131,7 +278,7 @@ STYLE:
 Ultra-realistic food advertising, realistic syrup viscosity, glossy golden texture, warm studio lighting, premium glass packaging, sophisticated gourmet presentation, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788771031949_276axy_HRlyjBWaIAER5_L.jpg" width="600" alt="Premium Maple Syrup Commercial Storyboard">
+<img src="https://cms-assets.youmind.com/media/1788857251032_k6cgg4_HRlyjBWaIAER5_L.jpg" width="600" alt="Premium Maple Syrup Commercial Storyboard">
 
 **[🎬 Watch Video →](https://x.com/Strength04_X/status/2096833097740493050)**
 
@@ -651,19 +798,62 @@ Uniform Consistency Locks: Pork Belly Lock: Always use the same batch of fresh p
 **Author:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2094975000763584583) | **Published:** Sep 2, 2026
 
 ---
-### Coconut Water Commercial Storyboard
+### Premium Coconut Water Commercial Storyboard
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A comprehensive storyboard prompt for a premium coconut water commercial, detailing cinematic scenes, camera movements, and product styling.
+> A detailed storyboard prompt for a premium coconut water commercial, featuring cinematic scenes, product-focused visuals, and high-speed liquid photography.
 
 #### 📝 Prompt
 
 ```
-TITLE: Premium Coconut Water Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Premium natural beverage campaign\n• 8 cinematic product-focused scenes\n• Product remains the central hero\n• High-end advertising agency presentation\n\nHEADER:\n• Clean modern typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Fresh Natural Beverage Commercial\n  - Product: Coconut Water\n  - Audio: Tropical Water + Refreshing ASMR\n• Why This Style Works section\n• White, coconut green and natural beige aesthetic\n• Minimal tropical decorative accents\n\nSTORYBOARD:\n1. Chilled coconut water bottle standing on wet natural stone, covered in condensation\n2. Bottle cap opening with a crisp close-up of the seal\n3. Coconut water pouring into a transparent glass\n4. Clear liquid swirling inside the glass with tiny bubbles\n5. Fresh coconut pieces dropping beside the bottle in slow motion\n6. Ice cubes falling into the drink and creating a controlled splash\n7. Extreme macro of condensation droplets running down the bottle\n8. Final hero bottle and glass surrounded by fresh coconut pieces and a frozen water splash\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nHigh-speed liquid photography, extreme macro, condensation close-up, slow-motion ice drop, transparent liquid swirl, low-angle product shot, cinematic hero framing.\n\nSTYLE:\nUltra-realistic beverage advertising, crystal-clear liquid, realistic condensation, detailed coconut texture, dynamic water splash, natural premium lighting, clean packaging, luxury commercial photography, 8K.
+TITLE: Premium Coconut Water Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 Portrait ratio
+• Premium natural beverage campaign
+• 8 cinematic product-focused scenes
+• Product remains the central hero
+• High-end advertising agency presentation
+
+HEADER:
+• Clean modern typography
+• Information cards:
+  - Duration: 20 Seconds
+  - Style: Fresh Natural Beverage Commercial
+  - Product: Coconut Water
+  - Audio: Tropical Water + Refreshing ASMR
+• Why This Style Works section
+• White, coconut green and natural beige aesthetic
+• Minimal tropical decorative accents
+
+STORYBOARD:
+1. Chilled coconut water bottle standing on wet natural stone, covered in condensation
+2. Bottle cap opening with a crisp close-up of the seal
+3. Coconut water pouring into a transparent glass
+4. Clear liquid swirling inside the glass with tiny bubbles
+5. Fresh coconut pieces dropping beside the bottle in slow motion
+6. Ice cubes falling into the drink and creating a controlled splash
+7. Extreme macro of condensation droplets running down the bottle
+8. Final hero bottle and glass surrounded by fresh coconut pieces and a frozen water splash
+
+EVERY PANEL:
+• Scene number
+• Duration badge
+• Camera direction
+• Visual
+• Action
+• Product detail
+
+CAMERA:
+High-speed liquid photography, extreme macro, condensation close-up, slow-motion ice drop, transparent liquid swirl, low-angle product shot, cinematic hero framing.
+
+STYLE:
+Ultra-realistic beverage advertising, crystal-clear liquid, realistic condensation, detailed coconut texture, dynamic water splash, natural premium lighting, clean packaging, luxury commercial photography, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788426362099_jpy8ok_HRIV2OMWEAAdkxS.jpg" width="600" alt="Coconut Water Commercial Storyboard">
+<img src="https://cms-assets.youmind.com/media/1788857253380_cr9h8y_HRIV2OMWEAAdkxS.jpg" width="600" alt="Premium Coconut Water Commercial Storyboard">
 
 **[🎬 Watch Video →](https://x.com/Strength04_X/status/2094760813794111843)**
 
@@ -2641,94 +2831,6 @@ Timeline Storyboard:
 **Author:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Source:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Published:** Aug 3, 2026
 
 ---
-### Shark Rock Band Dive Bar Footage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Generates a gritty, bootleg-style video of a fictional shark rock band performing live in a crowded dive bar atmosphere.
-
-#### 📝 Prompt
-
-```
-Bootleg footage from a crowded dive: surf-noise band "Sharks on Surfboards," real sharks somehow balanced on boards and shredding guitars with their fins, hisses a brief hello before tearing into their thrashing single, "Chum Bucket."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Shark Rock Band Dive Bar Footage">
-
-**[🎬 Watch Video →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
-
-**Author:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Source:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **Published:** Aug 3, 2026
-
----
-### Luxury Toddler Fashion Commercial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-end fashion commercial prompt featuring toddlers in a luxury aesthetic described as feral and unstoppable.
-
-#### 📝 Prompt
-
-```
-a high end fashion commercial for toddlers, luxury gone feral, adorable but unstoppable.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxury Toddler Fashion Commercial">
-
-**[🎬 Watch Video →](https://x.com/ritesh_ai/status/2083525213309042711)**
-
-**Author:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Source:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Published:** Aug 1, 2026
-
----
-### Celebratory Revenue Milestone Motion Graphics
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A highly detailed motion graphics prompt for Gemini Omni designed to animate a reference image for marketing success. It features complex instructions for 3D card flips, multi-image splitting, and synchronized typography with celebratory visual effects like gold particles and confetti.
-
-#### 📝 Prompt
-
-```
-Use the attached image as the sole reference image. Always use the same image; only animate position, scale, rotation, 3D rotation, and duplication. Do not generate or redraw new illustrations. High-quality motion graphics. Commercial-quality video as if produced in After Effects. The overall atmosphere is 'success', 'doubled', 'celebration', and 'joy'. The background is bright and gorgeous, with golden light, confetti, sparkles, particles, and celebratory effects dancing beautifully. The entire video exudes a positive and uplifting atmosphere.
-
-At the start of the video, the attached image appears in the center. The image scales up vigorously and repeats a rhythmic expansion -> contraction -> expansion cycle. Golden light and sparkles spread around in sync with the bouncy animation.
-
-Next, the image rotates 360 degrees rapidly on its axis and smoothly transitions into a 3D rotation along the Y-axis (card flip). The camera moves slightly back and forth to create depth. Golden ribbon-like light and particles swirl in sync with the rotation, emphasizing the festive feeling.
-
-The moment the 3D rotation ends, the image instantly splits from one to four. The four images fly to the corners, continuing to rotate and scale while leaving beautiful light trails.
-
-Immediately after, the four split into 16 at high speed, spreading evenly across the screen. The 16 images repeat rotation, 3D rotation, expansion, and contraction at different timings, proliferating throughout the screen. In the background, confetti, golden particles, star-shaped lights, and celebratory effects dance grandly, visually emphasizing the 'doubled' image.
-
-In the finale, all 16 images gather at the center at high speed and integrate into one instantly. As the camera zooms in vigorously toward the integrated image, golden light bursts significantly and confetti dances across the screen. Conclude with an overwhelmingly gorgeous finish celebrating success.
-
-Maintain a bright and energetic tempo throughout the video without any still moments. The motion should be smooth and sharp, ensuring high-quality motion graphics on an advertisement, commercial, or music video level.
-
-Typography Presentation (Celebration/Doubling Version)
-
-Synchronize the typography perfectly with the motion of the images. Place text in front of the image using an ultra-bold, modern, and high-end sans-serif font. Add golden brilliance, luminescence, a light glow, and motion blur to the text for a premium festive feel.
-
-0–2 seconds
-A giant 'X' scales in vigorously, pulsing in sync with the image's expansion and contraction. Golden light and sparkles spread around.
-
-2–4 seconds
-In sync with the image's 3D rotation, 'Revenue' (収益) flies out from the back, scaling up boldly. Create a presentation symbolizing success and profit with trails of golden light.
-
-4–6 seconds
-The word 'Doubled' (倍増) forcefully jumps to the center, scaling up significantly. After a slight bounce, golden brilliance spreads, emphasizing the impact of 'doubled revenue'.
-
-6–8 seconds
-As the images split into 4 and 16, multiple 'X's also appear, proliferating rhythmically. Background confetti, golden particles, and star-shaped lights bring the celebration to its peak.
-
-8–10 seconds
-All images and text gather at the center, with 'X', 'Revenue', and 'Doubled' overlapping to form a powerful title. As the camera zooms in, golden light bursts and confetti pours down. Conclude with a refreshing finish celebrating 'Revenue Doubled!'.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Celebratory Revenue Milestone Motion Graphics">
-
-**[🎬 Watch Video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
-
-**Author:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Source:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Published:** Aug 1, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2781,6 +2883,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-08T08:36:44.185Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-08T16:01:06.275Z</sub>
 
 </div>

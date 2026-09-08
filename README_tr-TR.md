@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **246** |
+| 📝 Toplam İstem | **249** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-08** |
 
@@ -56,6 +56,153 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Premium Köpüklü Limonata Reklamı Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gazlı içecekler, makro sıçramalar ve lüks marka vurgusu içeren, yüksek hızlı sinematik bir içecek reklamı için detaylı storyboard istemi.
+
+#### 📝 İstem
+
+```
+BAŞLIK:
+Premium Köpüklü Limonata Ürün Reklamı Storyboard'u
+
+FORMAT:
+• Tek sayfalık premium storyboard
+• 3:4 Dikey oran
+• Lüks içecek kampanyası
+• Ürün odaklı 8 sinematik sahne
+• Ürün görselin ana kahramanıdır
+• Üst düzey reklam sunumu
+
+ÜST BİLGİ:
+• Kalın ve modern tipografi
+• Bilgi kartları:
+  - Süre: 20 Saniye
+  - Stil: Yüksek Hızlı Sinematik İçecek Reklamı
+  - Ürün: Köpüklü Limonata
+  - Ses: Gaz sesi + Buz çatırtısı + Sıvı ASMR
+• Bu Stil Neden İşe Yarar bölümü
+• Kristal beyazı, limon sarısı ve gümüş estetiği
+• Minimalist narenciye esintili grafik vurgular
+
+STORYBOARD:
+1. Yoğun yoğuşma ile tek başına duran buz gibi şişe
+2. Şişeden aşağı süzülen su damlacıklarının ekstrem makro çekimi
+3. Dramatik bir gaz patlamasıyla açılan şişe kapağı
+4. Kontrollü bir sıvı sıçramasıyla yukarı doğru patlayan köpüklü içecek
+5. Köpüklü sıvının içinde dönen limon dilimleri
+6. Ultra ağır çekimde kristal bardağa düşen buz küpleri
+7. İçeceğin içinde yükselen binlerce gaz kabarcığını gösteren ekstrem makro çekim
+8. Şişe, bardak, limon dilimleri ve ürünün etrafındaki donmuş sıçrama ile final hero packshot
+
+HER PANEL:
+• Sahne numarası
+• Süre rozeti
+• Kamera yönü
+• Görsel
+• Aksiyon
+• Ürün detayı
+
+KAMERA:
+120fps yüksek hızlı sıvı fotoğrafçılığı, ekstrem makro, donmuş sıçrama, dönen limon dilimleri, dramatik arkadan aydınlatma, yoğuşma yakın planı, akıcı 360° ürün hareketi.
+
+STİL:
+Ultra gerçekçi premium içecek reklamı, kristal netliğinde sıvı, patlayıcı karbonasyon, fiziksel olarak doğru su damlacıkları
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248982_gewimj_HRriVPmaIAASM6y.jpg" width="600" alt="Premium Köpüklü Limonata Reklamı Storyboard'u">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2097237465887338994)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2097237465887338994) | **Yayınlandı:** Sep 8, 2026
+
+---
+### Gurme Mutfak Montajı Kesintisiz Çekim
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Boş bir mutfağın parça parça inşa edilerek sıcak, güneş alan gurme bir ortama dönüştüğü, teknik JSON yapılandırmalı kesintisiz çekim istemi.
+
+#### 📝 İstem
+
+```
+10 saniyelik tek bir kesintisiz sinematik çekim, sabit geniş açılı kilitli kamera, kesme yok, kamera hareketi yok. Temiz beyaz dolaplar, cilalı beton tezgahlar, şehir manzaralı büyük bir pencere ve yüksek tavanlı, hiper gerçekçi boş modern mutfak. Sıcak altın rengi gün sonu güneş ışığı pencereden içeri süzülüyor ve zeminde yumuşak, hareketli gölgeler oluşturuyor. Kahve makinesindeki orijinal marka logosu dışında görünür bir metin yok. 0-1.5 saniyeler arasında boş mutfağın ortasında şık, mat siyah bir sandık duruyor, hafifçe titriyor ve ardından pürüzsüzce açılıyor. 1.5-3.5 saniyeler arasında üst düzey bir ankastre espresso makinesi arka tezgaha yerleşiyor ve kahve demlemeye başlıyor; yanında uyumlu fincanlar ve küçük bir süt köpürtücü beliriyor. 3.5-5.5 saniyeler arasında sol duvar boyunca sıcak ceviz rengi açık raflar yükseliyor ve seramik kaseler, yemek kitapları ve cam kavanozlarla doluyor; ortada büyük bir mermer ada açılıyor. 5.5-7.5 saniyeler arasında tavandan sarkan aydınlatmalar iniyor ve sıcak bir şekilde parlıyor; adanın üzerinde canlı saksı bitkileri ve ahşap bir kesme tahtası beliriyor; sağ tarafta profesyonel bir ocak ve fırın oluşuyor. 7.5-9 saniyeler arasında pirinç musluklu bir çiftlik evi tipi eviye pencerenin altına monte ediliyor, keten havlular asılıyor ve mutfak tezgahı arkasına küçük bir akıllı ekran yavaşça beliriyor. Son 1 saniye, taze demlenmiş espressodan yükselen buharlarla tamamlanmış, sıcak ve güneş alan gurme mutfakta sabit kalıyor. Fotorealistik fizik, hassas montaj, zarif modern sıcaklık. Ses: 1.5. saniyeden itibaren başlayan yumuşak ortam mutfak sesleri ve espresso makinesi demleme sesi, sonuna kadar devam eden huzur verici bir melodi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096972853468102656/img/CckSt3zqQLFxhq6O.jpg" width="600" alt="Gurme Mutfak Montajı Kesintisiz Çekim">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2096972925140365437)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2096972925140365437) | **Yayınlandı:** Sep 7, 2026
+
+---
+### Premium Nutella Reklam Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Doku, sürme eylemi ve sıcak aydınlatmaya odaklanan, fındık ezmesi için lüks bir gıda reklamı storyboard'u.
+
+#### 📝 İstem
+
+```
+BAŞLIK:
+Premium Nutella Ürün Reklamı Storyboard'u
+
+FORMAT:
+• Tek sayfalık premium storyboard
+• 3:4 Dikey oran
+• Lüks gıda ürünü reklamı
+• 8 adet sinematik ürün odaklı sahne
+• Ürün ana kahraman olarak kalır
+• Üst düzey reklam ajansı sunumu
+
+ÜST BİLGİ:
+• Zarif tırnaklı (serif) tipografi
+• Bilgi kartları:
+
+- Süre: 20 Saniye
+- Tarz: Sinematik Gurme Gıda Reklamı
+- Ürün: Nutella Fındık Ezmesi
+- Ses: Yumuşak Sürme Sesi + Gıda ASMR
+  • Bu Tarz Neden İşe Yarar bölümü
+  • Sıcak kahverengi, krem ve altın estetiği
+  • Minimal fındık dekoratif detayları
+
+STORYBOARD:
+
+1. Cilalı koyu ahşap üzerinde duran premium Nutella kavanozu
+2. Aşırı makro çekimde açılan kavanoz kapağı
+3. Kavanozdan yavaşça yayılan kremsi Nutella
+4. Havada parlak bir şerit oluşturan çikolata ezmesi
+5. Yumuşacık pankeklerin üzerine dökülen Nutella
+6. Zengin çikolata dokusunu ve küçük yansımaları gösteren aşırı makro çekim
+7. Kahraman kavanoz ve fındıklarla çevrili pankek kulesi
+8. Dramatik Nutella yayılımı ile final lüks ürün paket çekimi
+
+HER PANEL:
+• Sahne numarası
+• Süre rozeti
+• Kamera yönü
+• Görsel
+• Eylem
+• Ürün detayı
+
+KAMERA:
+Aşırı makro, ağır çekim yayılma fotoğrafçılığı, kuş bakışı gıda çekimi, kontrollü yakınlaştırma (push-in), sığ alan derinliği, sinematik kahraman kadrajı.
+
+TARZ:
+Ultra gerçekçi gıda reklamı, gerçekçi yayılma viskozitesi, parlak çikolata dokusu, sıcak stüdyo aydınlatması, premium cam ambalaj, sofistike gurme sunum, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248820_drevcx_HRm94c_aAAET3K6.jpg" width="600" alt="Premium Nutella Reklam Storyboard'u">
+
+**[🎬 Videoyu izle →](https://x.com/itxabdullaa/status/2096915887504982258)**
+
+**Yazar:** [ÀBDŪLLÂH](https://x.com/itxabdullaa) | **Kaynak:** [Link](https://x.com/itxabdullaa/status/2096915887504982258) | **Yayınlandı:** Sep 7, 2026
+
+---
 ### Dört Mevsim Çiçek Açma Zaman Atlamalı Çekimi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -131,7 +278,7 @@ STİL:
 Ultra gerçekçi gıda reklamcılığı, gerçekçi şurup viskozitesi, parlak altın doku, sıcak stüdyo aydınlatması, premium cam ambalaj, sofistike gurme sunum, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788771031949_276axy_HRlyjBWaIAER5_L.jpg" width="600" alt="Premium Akçaağaç Şurubu Reklamı Storyboard'u">
+<img src="https://cms-assets.youmind.com/media/1788857251032_k6cgg4_HRlyjBWaIAER5_L.jpg" width="600" alt="Premium Akçaağaç Şurubu Reklamı Storyboard'u">
 
 **[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2096833097740493050)**
 
@@ -734,7 +881,7 @@ STİL:
 Ultra gerçekçi içecek reklamcılığı, kristal berraklığında sıvı, gerçekçi yoğuşma, detaylı hindistan cevizi dokusu, dinamik su sıçraması, doğal premium aydınlatma, temiz ambalaj, lüks ticari fotoğrafçılık, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788426362099_jpy8ok_HRIV2OMWEAAdkxS.jpg" width="600" alt="Hindistan Cevizi Suyu Reklamı Storyboard'u">
+<img src="https://cms-assets.youmind.com/media/1788857253380_cr9h8y_HRIV2OMWEAAdkxS.jpg" width="600" alt="Hindistan Cevizi Suyu Reklamı Storyboard'u">
 
 **[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2094760813794111843)**
 
@@ -2762,89 +2909,6 @@ Zaman Çizelgesi Hikaye Panosu:
 **Yazar:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Kaynak:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Yayınlandı:** Aug 3, 2026
 
 ---
-### Shark Rock Grubu Dalış Barı Görüntüleri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Kalabalık bir dalış barı atmosferinde canlı performans sergileyen kurgusal bir köpek balığı rock grubunun, ham ve bootleg tarzı videosunu oluşturur.
-
-#### 📝 İstem
-
-```
-Kalabalık bir bardan bootleg görüntüler: sörf-gürültü grubu "Sharks on Surfboards", sörf tahtaları üzerinde dengede duran ve yüzgeçleriyle gitar çalan gerçek köpek balıkları, kısa bir merhaba dedikten sonra sert parçaları "Chum Bucket" ile ortalığı birbirine katıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Shark Rock Grubu Dalış Barı Görüntüleri">
-
-**[🎬 Videoyu izle →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
-
-**Yazar:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Kaynak:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **Yayınlandı:** Aug 3, 2026
-
----
-### Lüks Çocuk Modası Reklamı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Vahşi ve durdurulamaz olarak tanımlanan lüks bir estetiğe sahip, çocukların yer aldığı üst düzey bir moda reklamı istemi.
-
-#### 📝 İstem
-
-```
-çocuklar için üst düzey bir moda reklamı, vahşileşen lüks, sevimli ama durdurulamaz.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Lüks Çocuk Modası Reklamı">
-
-**[🎬 Videoyu izle →](https://x.com/ritesh_ai/status/2083525213309042711)**
-
-**Yazar:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Kaynak:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Yayınlandı:** Aug 1, 2026
-
----
-### X Kazanç Kutlaması Hareketli Grafikleri
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> X kazanç dönüm noktalarını kutlayan animasyonlar oluşturmak için Gemini Omni'ye yönelik, karmaşık 3D rotasyonlar, parçacık efektleri ve senkronize tipografi içeren son derece detaylı bir hareketli grafik istemi.
-
-#### 📝 İstem
-
-```
-Ekli görseli tek referans görseli olarak kullanın. Her zaman aynı görseli kullanın; yalnızca konum, ölçek, rotasyon, 3D rotasyon ve çoğaltma animasyonları uygulayın. Yeni illüstrasyonlar oluşturmayın veya yeniden çizmeyin. Yüksek kaliteli hareketli grafikler. After Effects ile yapılmış gibi ticari kalitede video. Genel atmosfer 'başarı', 'ikiye katlanma', 'kutlama' ve 'neşe' temalıdır. Arka plan parlak ve görkemlidir; altın rengi ışıklar, konfetiler, parıltılar, parçacıklar ve kutlama efektleri güzel bir şekilde dans eder. Videonun tamamı pozitif ve moral verici bir hava taşır.
-
-Video başladığı anda, ekli görsel ekranın merkezinde belirir. Görsel hızla büyür ve ritmik olarak genişleme -> küçülme -> genişleme şeklinde tekrarlar. Hareketli animasyona eşlik eden altın rengi ışıklar ve parıltılar etrafa yayılır.
-
-Ardından görsel, merkezi etrafında hızla 360 derece döner ve Y ekseni boyunca 3D rotasyona (kart çevirme) yumuşak bir geçiş yapar. Kamera ayrıca derinlik yaratmak için hafifçe ileri geri hareket eder. Altın rengi şerit benzeri ışıklar ve parçacıklar, rotasyonla senkronize bir şekilde dönerek şenlik havasını vurgular.
-
-3D rotasyon bittiği anda, görsel anında birden dörde bölünür. Dört parça köşelere doğru uçar; her biri dönmeye, ölçeklenmeye ve arkasında güzel ışık izleri bırakmaya devam eder.
-
-Hemen ardından, dört parça daha bölünerek 16 parçaya ayrılır ve ekrana eşit şekilde yayılır. Bu 16 parça, farklı zamanlamalarla rotasyon, 3D rotasyon ve ölçekleme hareketlerini tekrarlayarak ekranı dolduracak şekilde çoğalır. Arka planda konfetiler, altın rengi parçacıklar, yıldız şeklindeki ışıklar ve kutlama efektleri görkemli bir şekilde dans ederek 'ikiye katlanma' imajını görsel olarak vurgular.
-
-Sonda, 16 parçanın tamamı yüksek hızla merkezde birleşir ve anında tek bir parçaya dönüşür. Kamera birleşen görsele doğru keskin bir şekilde yakınlaşırken altın rengi ışıklar patlar ve ekranı konfetiler doldurur. Video, başarıyı kutlayan son derece görkemli bir finalle sona erer.
-
-Video boyunca hiçbir durgun an olmadığından emin olun, parlak ve enerjik bir tempo koruyun. Hareketler akıcı ve keskin olmalı; reklamlar veya müzik videoları seviyesinde yüksek kaliteli hareketli grafikler hedeflenmelidir.
-
-Tipografi Sunumu (Kutlama/İkiye Katlanma Versiyonu)
-
-Tipografi, görselin hareketiyle mükemmel bir şekilde senkronize olmalıdır. Metin, görselin önüne yerleştirilmeli; cesur, modern ve lüks bir sans-serif yazı tipi kullanılmalıdır. Kutlama ve üst düzey bir görünüm yaratmak için karakterlere altın rengi parlaklık, ışıldama, ışık huzmesi ve hareket bulanıklığı (motion blur) ekleyin.
-
-0–2 saniye: Dev bir 'X' harfi, görselin ölçeklenmesiyle senkronize bir şekilde nabız gibi atarak hızla büyür. Altın rengi ışıklar ve parıltılar etrafa yayılır.
-
-2–4 saniye: Görselin 3D rotasyonuyla senkronize olarak, 'Earnings' kelimesi arka plandan fırlar ve cesurca büyür. Altın rengi ışık izleri eşliğinde başarıyı ve kazancı simgeleyen bir efekt gerçekleştirin.
-
-4–6 saniye: 'Doubled' kelimesi ekranın merkezine güçlü bir şekilde atlar ve önemli ölçüde büyür. Hafif bir sıçramanın ardından, 'Kazançlar ikiye katlandı' etkisini vurgulayarak ekranın geneline altın rengi bir ışıltı yayılır.
-
-6–8 saniye: Görsel 4 ve 16 parçaya bölünürken, birden fazla 'X' sembolü belirir ve ekran boyunca ritmik olarak çoğalır. Konfetiler, altın rengi parçacıklar ve yıldız şeklindeki ışıklar arka planda dans ederek kutlama havasını zirveye taşır.
-
-8–10 saniye: Tüm görseller ve karakterler merkezde toplanır; 'X', 'Earnings' ve 'Doubled' üst üste gelerek güçlü bir başlık oluşturur. Kamera yakınlaşırken altın rengi ışıklar patlar ve ekranı konfetiler kaplar. Video, 'Earnings Doubled!' (Kazançlar İkiye Katlandı!) başarısını kutlayan lüks ve ferahlatıcı bir finalle sona erer.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="X Kazanç Kutlaması Hareketli Grafikleri">
-
-**[🎬 Videoyu izle →](https://x.com/Naonekozamurai/status/2083364119928049908)**
-
-**Yazar:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Kaynak:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Yayınlandı:** Aug 1, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -2897,6 +2961,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-08T08:37:04.091Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-08T16:01:27.799Z</sub>
 
 </div>

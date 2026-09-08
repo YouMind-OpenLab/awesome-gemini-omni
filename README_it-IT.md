@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **246** |
+| 📝 Totale prompt | **249** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-09-08** |
 
@@ -56,6 +56,153 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Storyboard per spot pubblicitario di bevanda premium al limone frizzante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt dettagliato per uno storyboard destinato a uno spot cinematografico ad alta velocità per bevande, che mette in risalto l'effervescenza, gli schizzi macro e il branding di lusso.
+
+#### 📝 Prompt
+
+```
+TITOLO:
+Storyboard per spot pubblicitario di bevanda premium al limone frizzante
+
+FORMATO:
+• Storyboard premium a pagina singola
+• Rapporto 3:4 verticale
+• Campagna per bevande di lusso
+• 8 scene cinematografiche incentrate sul prodotto
+• Il prodotto rimane il protagonista visivo
+• Presentazione commerciale di alto livello
+
+INTESTAZIONE:
+• Tipografia contemporanea in grassetto
+• Schede informative:
+  - Durata: 20 secondi
+  - Stile: Spot cinematografico per bevande ad alta velocità
+  - Prodotto: Bevanda al limone frizzante
+  - Audio: Effervescenza + scricchiolio del ghiaccio + ASMR di liquidi
+• Sezione "Perché questo stile funziona"
+• Estetica bianco cristallo, giallo limone e argento
+• Accenti grafici minimalisti ispirati agli agrumi
+
+STORYBOARD:
+1. Bottiglia ghiacciata isolata con forte condensa
+2. Macro estrema di gocce d'acqua che scivolano lungo la bottiglia
+3. Apertura del tappo con una drammatica esplosione di effervescenza
+4. La bevanda frizzante esplode verso l'alto in uno schizzo di liquido controllato
+5. Fette di limone che ruotano attraverso il liquido frizzante
+6. Cubetti di ghiaccio che cadono in un bicchiere di cristallo in ultra slow motion
+7. Macro estrema che mostra migliaia di bollicine di effervescenza che risalgono attraverso la bevanda
+8. Packshot finale con bottiglia, bicchiere, fette di limone e schizzi ghiacciati che circondano il prodotto
+
+OGNI RIQUADRO:
+• Numero della scena
+• Badge della durata
+• Direzione della cinepresa
+• Elemento visivo
+• Azione
+• Dettaglio del prodotto
+
+CINEPRESA:
+Fotografia di liquidi ad alta velocità a 120fps, macro estrema, schizzi congelati, fette di limone rotanti, retroilluminazione drammatica, primo piano sulla condensa, movimento fluido del prodotto a 360°.
+
+STILE:
+Spot per bevande premium ultra-realistico, liquido cristallino, effervescenza esplosiva, gocce d'acqua fisicamente accurate
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248982_gewimj_HRriVPmaIAASM6y.jpg" width="600" alt="Storyboard per spot pubblicitario di bevanda premium al limone frizzante">
+
+**[🎬 Guarda il video →](https://x.com/Strength04_X/status/2097237465887338994)**
+
+**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2097237465887338994) | **Pubblicato:** Sep 8, 2026
+
+---
+### Ripresa continua dell'assemblaggio di una cucina gourmet
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt tecnico in formato JSON per una ripresa continua che crea una cucina vuota che si costruisce dinamicamente pezzo dopo pezzo, stabilendo un ambiente gourmet caldo e soleggiato.
+
+#### 📝 Prompt
+
+```
+Un'unica ripresa cinematografica continua di 10 secondi, senza interruzioni, con telecamera fissa a grandangolo, nessun taglio, nessun movimento di macchina. Cucina moderna vuota iper-realistica con mobili bianchi puliti, piani di lavoro in cemento levigato, grande finestra con vista sullo skyline della città e soffitto alto. Una calda luce solare dorata del tardo pomeriggio filtra attraverso la finestra, proiettando ombre morbide e in movimento sul pavimento. Nessun testo visibile, eccetto il marchio autentico sulla macchina da caffè. Da 0 a 1,5 secondi, una cassa nera opaca ed elegante si trova al centro della cucina vuota, trema leggermente e poi si apre dolcemente. Da 1,5 a 3,5 secondi, una macchina per espresso da incasso premium scivola (Slides) al suo posto sul bancone posteriore e inizia a erogare il caffè; tazze abbinate e un piccolo montalatte appaiono accanto ad essa. Da 3,5 a 5,5 secondi, calde mensole a giorno in noce si alzano lungo la parete sinistra e si riempiono di ciotole in ceramica, libri di cucina e barattoli di vetro; una grande isola in marmo si apre al centro. Da 5,5 a 7,5 secondi, lampade a sospensione scendono dal soffitto e si illuminano caldamente; erbe aromatiche in vaso e un tagliere in legno appaiono sull'isola; un piano cottura professionale e un forno si materializzano sulla destra. Da 7,5 a 9 secondi, un lavello in stile rustico con rubinetto in ottone si installa sotto la finestra, vengono appesi asciugamani in lino e un piccolo display intelligente sfuma sul paraschizzi. L'ultimo secondo si sofferma sulla cucina gourmet accogliente e soleggiata completata, con il vapore che sale da un espresso appena fatto. Fisica fotorealistica, assemblaggio preciso, elegante calore moderno. Audio: suoni ambientali soffusi della cucina e rumore della macchina da espresso che inizia a 1,5 secondi, melodia rilassante fino alla fine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096972853468102656/img/CckSt3zqQLFxhq6O.jpg" width="600" alt="Ripresa continua dell'assemblaggio di una cucina gourmet">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2096972925140365437)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2096972925140365437) | **Pubblicato:** Sep 7, 2026
+
+---
+### Storyboard per spot pubblicitario premium di Nutella
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uno storyboard pubblicitario di lusso per crema spalmabile alle nocciole, incentrato sulla consistenza, sull'azione di spalmare e su un'illuminazione calda.
+
+#### 📝 Prompt
+
+```
+TITOLO:
+Storyboard per spot pubblicitario premium di Nutella
+
+FORMATO:
+• Storyboard premium a pagina singola
+• Rapporto verticale 3:4
+• Pubblicità di prodotti alimentari di lusso
+• 8 scene cinematografiche incentrate sul prodotto
+• Il prodotto rimane il protagonista principale
+• Presentazione per agenzia pubblicitaria di alto livello
+
+INTESTAZIONE:
+• Elegante tipografia serif
+• Schede informative:
+
+- Durata: 20 secondi
+- Stile: Spot pubblicitario cinematografico gourmet
+- Prodotto: Crema spalmabile alle nocciole Nutella
+- Audio: Suono di spalmatura delicato + ASMR alimentare
+  • Sezione "Perché questo stile funziona"
+  • Estetica nei toni del marrone caldo, crema e oro
+  • Accenti decorativi minimali con nocciole
+
+STORYBOARD:
+
+1. Barattolo di Nutella premium posizionato su legno scuro lucido
+2. Apertura del coperchio del barattolo in macro estrema
+3. Nutella cremosa che fuoriesce lentamente dal barattolo
+4. La crema al cioccolato forma un nastro lucido a mezz'aria
+5. Nutella che cola su soffici pancake
+6. Macro estrema che mostra la ricca consistenza del cioccolato e minuscoli riflessi
+7. Pila di pancake circondata dal barattolo protagonista e nocciole
+8. Packshot finale del prodotto di lusso con una scenografica colata di Nutella
+
+OGNI RIQUADRO:
+• Numero della scena
+• Badge della durata
+• Direzione della cinepresa
+• Visual
+• Azione
+• Dettaglio prodotto
+
+CINEPRESA:
+Macro estrema, fotografia della spalmatura in slow-motion, ripresa dall'alto, push-in controllato, profondità di campo ridotta, inquadratura cinematografica del protagonista.
+
+STILE:
+Pubblicità alimentare ultra-realistica, viscosità realistica della crema, consistenza del cioccolato lucida, illuminazione da studio calda, packaging in vetro premium, presentazione gourmet sofisticata, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248820_drevcx_HRm94c_aAAET3K6.jpg" width="600" alt="Storyboard per spot pubblicitario premium di Nutella">
+
+**[🎬 Guarda il video →](https://x.com/itxabdullaa/status/2096915887504982258)**
+
+**Autore:** [ÀBDŪLLÂH](https://x.com/itxabdullaa) | **Fonte:** [Link](https://x.com/itxabdullaa/status/2096915887504982258) | **Pubblicato:** Sep 7, 2026
+
+---
 ### Time-lapse della fioritura nelle quattro stagioni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -131,7 +278,7 @@ STILE:
 Pubblicità gastronomica ultra-realistica, viscosità dello sciroppo realistica, texture dorata lucida, illuminazione da studio calda, packaging in vetro premium, presentazione gourmet sofisticata, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788771031949_276axy_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard per spot pubblicitario di sciroppo d'acero premium">
+<img src="https://cms-assets.youmind.com/media/1788857251032_k6cgg4_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard per spot pubblicitario di sciroppo d'acero premium">
 
 **[🎬 Guarda il video →](https://x.com/Strength04_X/status/2096833097740493050)**
 
@@ -706,7 +853,7 @@ STILE:
 Pubblicità di bevande ultra-realistica, liquido cristallino, condensa realistica, texture del cocco dettagliata, splash d'acqua dinamico, illuminazione naturale premium, packaging pulito, fotografia pubblicitaria di lusso, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788426362099_jpy8ok_HRIV2OMWEAAdkxS.jpg" width="600" alt="Storyboard per spot pubblicitario di acqua di cocco">
+<img src="https://cms-assets.youmind.com/media/1788857253380_cr9h8y_HRIV2OMWEAAdkxS.jpg" width="600" alt="Storyboard per spot pubblicitario di acqua di cocco">
 
 **[🎬 Guarda il video →](https://x.com/Strength04_X/status/2094760813794111843)**
 
@@ -2734,89 +2881,6 @@ Storyboard della timeline:
 **Autore:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Fonte:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Pubblicato:** Aug 3, 2026
 
 ---
-### Filmati della rock band di squali in un dive bar
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera un video in stile bootleg dal tono crudo che ritrae una rock band di squali immaginaria mentre si esibisce dal vivo nell'atmosfera affollata di un dive bar.
-
-#### 📝 Prompt
-
-```
-Filmati bootleg da un locale affollato: la band surf-noise "Sharks on Surfboards", veri squali in equilibrio su tavole da surf che suonano chitarre con le pinne, sussurra un breve saluto prima di lanciarsi nel loro travolgente singolo, "Chum Bucket".
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Filmati della rock band di squali in un dive bar">
-
-**[🎬 Guarda il video →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
-
-**Autore:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Fonte:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **Pubblicato:** Aug 3, 2026
-
----
-### Spot pubblicitario di moda di lusso per bambini
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per uno spot di moda di alta gamma che vede protagonisti dei bambini in un'estetica di lusso descritta come selvaggia e inarrestabile.
-
-#### 📝 Prompt
-
-```
-uno spot di moda di alta gamma per bambini, lusso allo stato brado, adorabili ma inarrestabili.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Spot pubblicitario di moda di lusso per bambini">
-
-**[🎬 Guarda il video →](https://x.com/ritesh_ai/status/2083525213309042711)**
-
-**Autore:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Fonte:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Pubblicato:** Aug 1, 2026
-
----
-### Motion Graphics per la celebrazione degli utili di X
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt di motion graphics altamente dettagliato per Gemini Omni, pensato per creare animazioni celebrative per i traguardi raggiunti da X, caratterizzato da complesse rotazioni 3D, effetti particellari e tipografia sincronizzata.
-
-#### 📝 Prompt
-
-```
-Utilizza l'immagine allegata come unico riferimento visivo. Usa sempre la stessa immagine; anima solo posizione, scala, rotazione, rotazione 3D e duplicazione. Non generare o ridisegnare nuove illustrazioni. Motion graphics di alta qualità. Video di qualità commerciale, come se fosse realizzato in After Effects. L'atmosfera generale deve trasmettere 'successo', 'raddoppio', 'celebrazione' e 'gioia'. Lo sfondo è luminoso e sfarzoso, con luci dorate, coriandoli, scintille, particelle ed effetti celebrativi che danzano magnificamente. L'intero video trasmette un'energia positiva e stimolante.
-
-All'inizio del video, l'immagine allegata appare al centro dello schermo. L'immagine si ingrandisce con vigore e ripete ritmicamente il movimento espansione -> contrazione -> espansione. Accompagnati dall'animazione dinamica, luci dorate e scintille si diffondono tutt'intorno.
-
-Successivamente, l'immagine ruota rapidamente di 360 gradi attorno al proprio centro, passando fluidamente a una rotazione 3D (effetto card flip) lungo l'asse Y. Anche la telecamera si muove leggermente avanti e indietro per creare profondità. Luci dorate simili a nastri e particelle vorticano in sincronia con la rotazione, enfatizzando l'atmosfera festosa.
-
-Nel momento in cui termina la rotazione 3D, l'immagine si divide istantaneamente da una a quattro. I quattro pezzi volano verso gli angoli, continuando ciascuno a ruotare, scalare e lasciare scie luminose spettacolari.
-
-Subito dopo, i quattro pezzi si dividono ulteriormente in 16, distribuendosi uniformemente sullo schermo. Questi 16 pezzi ripetono rotazione, rotazione 3D e ridimensionamento con tempistiche diverse, moltiplicandosi fino a riempire lo schermo. Sullo sfondo, coriandoli, particelle dorate, luci a forma di stella ed effetti celebrativi danzano grandiosamente, enfatizzando visivamente il concetto di 'raddoppio'.
-
-Alla fine, tutti i 16 pezzi convergono al centro ad alta velocità e si integrano in un unico elemento in un istante. Mentre la telecamera esegue uno zoom rapido verso l'immagine integrata, esplode una luce dorata e i coriandoli riempiono lo schermo. Il video si conclude con un finale straordinariamente sfarzoso che celebra il successo.
-
-Assicurati che non ci siano momenti di staticità durante il video, mantenendo un ritmo brillante ed energico. Il movimento deve essere fluido e netto, puntando a una qualità di motion graphics pari a quella di pubblicità, spot commerciali o video musicali.
-
-Presentazione della tipografia (Versione Celebrazione/Raddoppio)
-
-La tipografia deve essere perfettamente sincronizzata con il movimento dell'immagine. Il testo è posizionato davanti all'immagine, utilizzando un font sans-serif audace, moderno e lussuoso. Aggiungi brillantezza dorata, luminescenza, bagliore luminoso e motion blur ai caratteri per creare un look celebrativo e di alta classe.
-
-0–2 secondi: Una 'X' gigante entra in scena ingrandendosi vigorosamente, pulsando in sincronia con il ridimensionamento dell'immagine. Luci dorate e scintille si diffondono intorno.
-
-2–4 secondi: In sincronia con la rotazione 3D dell'immagine, la parola 'Earnings' emerge dallo sfondo, ingrandendosi con decisione. Accompagnata da scie di luce dorata, crea un effetto che simboleggia successo e profitto.
-
-4–6 secondi: La parola 'Doubled' balza con forza al centro dello schermo, ingrandendosi notevolmente. Dopo un leggero rimbalzo, una radiosità dorata si diffonde sullo schermo, enfatizzando l'impatto del 'raddoppio degli utili'.
-
-6–8 secondi: Mentre l'immagine si divide in 4 e 16 pezzi, molteplici simboli 'X' appaiono e si moltiplicano ritmicamente sullo schermo. Coriandoli, particelle dorate e luci a forma di stella danzano sullo sfondo, portando l'atmosfera celebrativa al culmine.
-
-8–10 secondi: Tutte le immagini e i caratteri si riuniscono al centro, con 'X', 'Earnings' e 'Doubled' che si sovrappongono per formare un titolo potente. Mentre la telecamera zooma, la luce dorata esplode e i coriandoli inondano lo schermo. Il video termina con un finale lussuoso e rinfrescante, celebrando 'Earnings Doubled!'.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Motion Graphics per la celebrazione degli utili di X">
-
-**[🎬 Guarda il video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
-
-**Autore:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Fonte:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Pubblicato:** Aug 1, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -2869,6 +2933,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-08T08:36:59.998Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-08T16:01:23.332Z</sub>
 
 </div>

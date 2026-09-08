@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **246** |
+| 📝 Tổng số prompt | **249** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-08** |
 
@@ -56,6 +56,153 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Storyboard quảng cáo nước chanh sủi bọt cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý storyboard chi tiết cho quảng cáo đồ uống điện ảnh tốc độ cao, làm nổi bật độ sủi bọt, các tia nước macro và thương hiệu sang trọng.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ:
+Storyboard quảng cáo sản phẩm nước chanh sủi bọt cao cấp
+
+ĐỊNH DẠNG:
+• Storyboard cao cấp một trang
+• Tỷ lệ khung hình dọc 3:4
+• Chiến dịch đồ uống sang trọng
+• 8 cảnh quay điện ảnh tập trung vào sản phẩm
+• Sản phẩm luôn là tâm điểm hình ảnh
+• Trình bày quảng cáo cao cấp
+
+TIÊU ĐỀ PHỤ:
+• Kiểu chữ đương đại đậm nét
+• Thẻ thông tin:
+  - Thời lượng: 20 Giây
+  - Phong cách: Quảng cáo đồ uống điện ảnh tốc độ cao
+  - Sản phẩm: Nước chanh sủi bọt
+  - Âm thanh: Tiếng sủi bọt + Tiếng đá nứt + ASMR chất lỏng
+• Phần Tại sao phong cách này hiệu quả
+• Thẩm mỹ trắng pha lê, vàng chanh và bạc
+• Các điểm nhấn đồ họa tối giản lấy cảm hứng từ cam chanh
+
+STORYBOARD:
+1. Chai nước lạnh buốt đứng một mình với lớp hơi nước ngưng tụ dày đặc
+2. Cận cảnh macro các giọt nước trượt xuống thân chai
+3. Nắp chai mở ra với luồng sủi bọt bùng nổ đầy kịch tính
+4. Đồ uống sủi bọt phun trào lên trên trong một tia nước được kiểm soát
+5. Những lát chanh xoay tròn xuyên qua chất lỏng sủi bọt
+6. Những viên đá rơi vào ly pha lê ở chế độ siêu chậm (ultra slow motion)
+7. Cận cảnh macro hàng ngàn bong bóng sủi bọt đang trồi lên trong đồ uống
+8. Hình ảnh sản phẩm cuối cùng với chai, ly, lát chanh và tia nước đóng băng bao quanh sản phẩm
+
+MỖI KHUNG HÌNH:
+• Số thứ tự cảnh
+• Huy hiệu thời lượng
+• Hướng máy quay
+• Hình ảnh
+• Hành động
+• Chi tiết sản phẩm
+
+MÁY QUAY:
+Chụp ảnh chất lỏng tốc độ cao 120fps, macro cực đại, tia nước đóng băng, lát chanh xoay tròn, đèn nền kịch tính, cận cảnh hơi nước ngưng tụ, chuyển động sản phẩm 360° mượt mà.
+
+PHONG CÁCH:
+Quảng cáo đồ uống cao cấp siêu thực, chất lỏng trong vắt như pha lê, sủi bọt bùng nổ, các giọt nước chính xác về mặt vật lý
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248982_gewimj_HRriVPmaIAASM6y.jpg" width="600" alt="Storyboard quảng cáo nước chanh sủi bọt cao cấp">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2097237465887338994)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2097237465887338994) | **Đã xuất bản:** Sep 8, 2026
+
+---
+### Cảnh quay liên tục lắp ráp nhà bếp cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt cấu hình JSON kỹ thuật cho cảnh quay liên tục, tạo ra một căn bếp trống tự động lắp ráp từng phần, thiết lập nên không gian bếp cao cấp ấm áp tràn ngập ánh nắng.
+
+#### 📝 Prompt
+
+```
+Một cảnh quay điện ảnh liên tục không cắt trong 10 giây, góc rộng cố định, không cắt cảnh, không chuyển động máy quay. Nhà bếp hiện đại trống trải siêu thực với tủ bếp màu trắng sạch sẽ, mặt bàn bê tông mài bóng, cửa sổ lớn nhìn ra đường chân trời thành phố và trần nhà cao. Ánh nắng vàng ấm áp của buổi chiều muộn chiếu qua cửa sổ, tạo ra những bóng đổ mềm mại di chuyển trên sàn nhà. Không có văn bản hiển thị ngoại trừ thương hiệu chân thực trên máy pha cà phê. Từ 0-1,5 giây, một chiếc thùng màu đen nhám kiểu dáng đẹp nằm ở trung tâm căn bếp trống, rung nhẹ rồi mở ra một cách mượt mà. Từ 1,5-3,5 giây, một máy pha espresso âm tường cao cấp Slides vào vị trí trên quầy phía sau và bắt đầu pha chế; các tách cà phê đồng bộ và một máy tạo bọt sữa nhỏ xuất hiện bên cạnh. Từ 3,5-5,5 giây, các kệ mở bằng gỗ óc chó ấm áp nổi lên dọc theo bức tường bên trái và được lấp đầy bằng bát gốm, sách nấu ăn và lọ thủy tinh; một đảo bếp bằng đá cẩm thạch lớn mở ra ở trung tâm. Từ 5,5-7,5 giây, đèn thả trần hạ xuống và tỏa sáng ấm áp; các chậu thảo mộc tươi tốt và thớt gỗ xuất hiện trên đảo bếp; bếp và lò nướng chuyên nghiệp hiện ra ở bên phải. Từ 7,5-9 giây, bồn rửa kiểu nông trại với vòi đồng tự lắp đặt dưới cửa sổ, khăn lanh treo lên và một màn hình thông minh nhỏ mờ dần xuất hiện trên tấm ốp tường bếp. 1 giây cuối cùng giữ nguyên khung hình căn bếp cao cấp ấm cúng, tràn ngập ánh nắng với hơi nước bốc lên từ tách espresso vừa pha. Vật lý chân thực, lắp ráp chính xác, vẻ đẹp hiện đại thanh lịch. Âm thanh: tiếng bếp nhẹ nhàng và tiếng máy pha espresso bắt đầu từ 1,5 giây, giai điệu êm dịu kéo dài đến hết.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096972853468102656/img/CckSt3zqQLFxhq6O.jpg" width="600" alt="Cảnh quay liên tục lắp ráp nhà bếp cao cấp">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2096972925140365437)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2096972925140365437) | **Đã xuất bản:** Sep 7, 2026
+
+---
+### Storyboard quảng cáo Nutella cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Storyboard quảng cáo thực phẩm sang trọng cho sản phẩm bơ hạt phỉ, tập trung vào kết cấu, thao tác phết bơ và ánh sáng ấm áp.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ:
+Storyboard quảng cáo sản phẩm Nutella cao cấp
+
+ĐỊNH DẠNG:
+• Storyboard cao cấp một trang
+• Tỷ lệ khung hình dọc 3:4
+• Quảng cáo sản phẩm thực phẩm sang trọng
+• 8 cảnh quay điện ảnh tập trung vào sản phẩm
+• Sản phẩm luôn là tâm điểm chính
+• Trình bày theo phong cách agency quảng cáo cao cấp
+
+HEADER:
+• Kiểu chữ serif thanh lịch
+• Thẻ thông tin:
+
+- Thời lượng: 20 giây
+- Phong cách: Quảng cáo thực phẩm cao cấp đậm chất điện ảnh
+- Sản phẩm: Bơ hạt phỉ Nutella
+- Âm thanh: Tiếng phết bơ nhẹ nhàng + ASMR thực phẩm
+  • Mục Tại sao phong cách này hiệu quả
+  • Thẩm mỹ tông màu nâu ấm, kem và vàng kim
+  • Điểm nhấn trang trí hạt phỉ tối giản
+
+STORYBOARD:
+
+1. Hũ Nutella cao cấp đặt trên mặt gỗ tối màu được đánh bóng
+2. Cận cảnh cực đại nắp hũ đang mở ra
+3. Nutella sánh mịn từ từ được phết ra từ hũ
+4. Bơ sô-cô-la tạo thành dải lụa bóng bẩy giữa không trung
+5. Nutella chảy tràn trên những chiếc bánh pancake xốp mềm
+6. Cận cảnh cực đại cho thấy kết cấu sô-cô-la đậm đà và những tia phản chiếu nhỏ
+7. Chồng bánh pancake được bao quanh bởi hũ sản phẩm chính và các hạt phỉ
+8. Hình ảnh packshot sản phẩm sang trọng cuối cùng với vệt Nutella đầy ấn tượng
+
+MỖI KHUNG HÌNH:
+• Số thứ tự cảnh
+• Huy hiệu thời lượng
+• Hướng máy quay
+• Hình ảnh
+• Hành động
+• Chi tiết sản phẩm
+
+CAMERA:
+Cận cảnh cực đại, nhiếp ảnh phết bơ chuyển động chậm, góc quay thực phẩm từ trên cao, kỹ thuật đẩy máy quay (push-in) có kiểm soát, độ sâu trường ảnh nông, bố cục khung hình điện ảnh tập trung vào sản phẩm.
+
+PHONG CÁCH:
+Quảng cáo thực phẩm siêu thực, độ nhớt của bơ chân thực, kết cấu sô-cô-la bóng bẩy, ánh sáng studio ấm áp, bao bì thủy tinh cao cấp, trình bày theo phong cách ẩm thực tinh tế, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248820_drevcx_HRm94c_aAAET3K6.jpg" width="600" alt="Storyboard quảng cáo Nutella cao cấp">
+
+**[🎬 Xem video →](https://x.com/itxabdullaa/status/2096915887504982258)**
+
+**Tác giả:** [ÀBDŪLLÂH](https://x.com/itxabdullaa) | **Nguồn:** [Link](https://x.com/itxabdullaa/status/2096915887504982258) | **Đã xuất bản:** Sep 7, 2026
+
+---
 ### Video tua nhanh cảnh hoa nở bốn mùa
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -131,7 +278,7 @@ PHONG CÁCH:
 Quảng cáo thực phẩm siêu thực, độ nhớt của siro chân thực, kết cấu vàng bóng, ánh sáng studio ấm áp, bao bì thủy tinh cao cấp, trình bày theo phong cách gourmet tinh tế, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788771031949_276axy_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard quảng cáo siro phong cao cấp">
+<img src="https://cms-assets.youmind.com/media/1788857251032_k6cgg4_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard quảng cáo siro phong cao cấp">
 
 **[🎬 Xem video →](https://x.com/Strength04_X/status/2096833097740493050)**
 
@@ -706,7 +853,7 @@ PHONG CÁCH:
 Quảng cáo đồ uống siêu thực, chất lỏng trong vắt, hơi nước ngưng tụ chân thực, kết cấu dừa chi tiết, hiệu ứng nước bắn tung tóe sống động, ánh sáng tự nhiên cao cấp, bao bì sạch sẽ, nhiếp ảnh quảng cáo sang trọng, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788426362099_jpy8ok_HRIV2OMWEAAdkxS.jpg" width="600" alt="Kịch bản phân cảnh quảng cáo nước dừa">
+<img src="https://cms-assets.youmind.com/media/1788857253380_cr9h8y_HRIV2OMWEAAdkxS.jpg" width="600" alt="Kịch bản phân cảnh quảng cáo nước dừa">
 
 **[🎬 Xem video →](https://x.com/Strength04_X/status/2094760813794111843)**
 
@@ -2734,63 +2881,6 @@ Kịch bản dòng thời gian:
 **Tác giả:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Nguồn:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Đã xuất bản:** Aug 3, 2026
 
 ---
-### Cảnh quay ban nhạc rock cá mập tại quán bar bình dân
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Tạo video phong cách quay lén, gai góc về một ban nhạc rock cá mập hư cấu đang biểu diễn trực tiếp trong bầu không khí đông đúc của một quán bar bình dân.
-
-#### 📝 Prompt
-
-```
-Cảnh quay phong cách quay lén từ một quán bar đông đúc: ban nhạc surf-noise "Sharks on Surfboards", những chú cá mập thực thụ bằng cách nào đó giữ thăng bằng trên ván lướt và chơi guitar bằng vây, rít lên một lời chào ngắn ngủi trước khi bùng nổ với đĩa đơn đầy cuồng nhiệt, "Chum Bucket."
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Cảnh quay ban nhạc rock cá mập tại quán bar bình dân">
-
-**[🎬 Xem video →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
-
-**Tác giả:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Nguồn:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **Đã xuất bản:** Aug 3, 2026
-
----
-### Quảng cáo thời trang cao cấp cho trẻ mới biết đi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý quảng cáo thời trang cao cấp với hình ảnh trẻ mới biết đi trong phong cách thẩm mỹ sang trọng, được mô tả là hoang dã và không thể ngăn cản.
-
-#### 📝 Prompt
-
-```
-một quảng cáo thời trang cao cấp dành cho trẻ mới biết đi, sự sang trọng đầy hoang dã, đáng yêu nhưng không thể ngăn cản.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Quảng cáo thời trang cao cấp cho trẻ mới biết đi">
-
-**[🎬 Xem video →](https://x.com/ritesh_ai/status/2083525213309042711)**
-
-**Tác giả:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Nguồn:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Đã xuất bản:** Aug 1, 2026
-
----
-### Đồ họa chuyển động kỷ niệm thu nhập của X
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh đồ họa chuyển động chi tiết dành cho Gemini Omni để tạo các hoạt ảnh kỷ niệm cho các cột mốc thu nhập của X, bao gồm các vòng xoay 3D phức tạp, hiệu ứng hạt và kiểu chữ đồng bộ.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh đính kèm làm hình ảnh tham chiếu duy nhất. Luôn sử dụng cùng một hình ảnh; chỉ tạo hoạt ảnh cho vị trí, tỷ lệ, xoay, xoay 3D và nhân bản. Không tạo hoặc vẽ lại các hình minh họa mới. Đồ họa chuyển động chất lượng cao. Video chất lượng thương mại như được thực hiện trong After Effects. Bầu không khí tổng thể là 'thành công', 'nhân đôi', 'kỷ niệm' và 'niềm vui'. Nền sáng và lộng lẫy, với ánh sáng vàng, pháo giấy, tia sáng, các hạt và hiệu ứng kỷ niệm nhảy múa đẹp mắt. Toàn bộ video mang lại cảm giác tích cực và phấn chấn.\n\nNgay khi video bắt đầu, hình ảnh đính kèm xuất hiện ở giữa màn hình. Hình ảnh phóng to mạnh mẽ và lặp lại nhịp nhàng theo kiểu mở rộng -> thu nhỏ -> mở rộng. Đi kèm với hoạt ảnh nảy, ánh sáng vàng và các tia sáng lan tỏa xung quanh.\n\nTiếp theo, hình ảnh xoay nhanh 360 độ quanh tâm, chuyển đổi mượt mà sang xoay 3D (lật thẻ) dọc theo trục Y. Camera cũng di chuyển nhẹ qua lại để tạo chiều sâu. Ánh sáng giống như dải ruy băng vàng và các hạt xoáy đồng bộ với chuyển động xoay, làm nổi bật cảm giác lễ hội.\n\nTại thời điểm kết thúc xoay 3D, hình ảnh ngay lập tức tách từ một thành bốn. Bốn mảnh bay ra các góc, mỗi mảnh tiếp tục xoay, thay đổi tỷ lệ và để lại những vệt sáng đẹp mắt.\n\nNgay sau đó, bốn mảnh tiếp tục tách thành 16 mảnh, lan tỏa đều khắp màn hình. 16 mảnh này lặp lại chuyển động xoay, xoay 3D và thay đổi tỷ lệ ở các thời điểm khác nhau, nhân lên để lấp đầy màn hình. Ở hậu cảnh, pháo giấy, hạt vàng, đèn hình ngôi sao và các hiệu ứng kỷ niệm nhảy múa hoành tráng, nhấn mạnh trực quan hình ảnh 'nhân đôi'.\n\nCuối cùng, tất cả 16 mảnh hội tụ về trung tâm với tốc độ cao và được tích hợp thành một mảnh trong tích tắc. Khi camera phóng to mạnh vào hình ảnh đã hợp nhất, ánh sáng vàng bùng nổ và pháo giấy lấp đầy màn hình. Video kết thúc với một cái kết lộng lẫy, ăn mừng thành công.\n\nĐảm bảo không có khoảnh khắc tĩnh lặng nào trong suốt video, duy trì nhịp độ tươi sáng và tràn đầy năng lượng. Chuyển động phải mượt mà và sắc nét, hướng tới đồ họa chuyển động chất lượng cao ở cấp độ quảng cáo, thương mại hoặc video âm nhạc.\n\nTrình bày kiểu chữ (Phiên bản Kỷ niệm/Nhân đôi)\n\nKiểu chữ phải được đồng bộ hoàn hảo với chuyển động của hình ảnh. Văn bản được đặt phía trước hình ảnh, sử dụng phông chữ không chân đậm, hiện đại và sang trọng. Thêm độ sáng vàng, phát quang, hiệu ứng ánh sáng và nhòe chuyển động cho các ký tự để tạo vẻ ngoài kỷ niệm và cao cấp.\n\n0–2 giây: Chữ 'X' khổng lồ phóng to mạnh mẽ, nhấp nháy đồng bộ với tỷ lệ của hình ảnh. Ánh sáng vàng và các tia sáng lan tỏa xung quanh.\n\n2–4 giây: Đồng bộ với chuyển động xoay 3D của hình ảnh, từ 'Earnings' nhảy ra từ hậu cảnh, phóng to đậm nét. Đi kèm với những vệt sáng vàng, tạo hiệu ứng tượng trưng cho thành công và lợi nhuận.\n\n4–6 giây: Từ 'Doubled' nhảy mạnh mẽ vào giữa màn hình, phóng to đáng kể. Sau một cú nảy nhẹ, ánh sáng vàng lan tỏa khắp màn hình, nhấn mạnh tác động của 'Thu nhập đã tăng gấp đôi'.\n\n6–8 giây: Khi hình ảnh tách thành 4 và 16 mảnh, nhiều biểu tượng 'X' xuất hiện và nhân lên nhịp nhàng khắp màn hình. Pháo giấy, hạt vàng và đèn hình ngôi sao nhảy múa ở hậu cảnh, đẩy tâm trạng kỷ niệm lên cao trào.\n\n8–10 giây: Tất cả hình ảnh và ký tự tập trung ở trung tâm, với 'X', 'Earnings' và 'Doubled' chồng lên nhau tạo thành một tiêu đề mạnh mẽ. Khi camera phóng to, ánh sáng vàng bùng nổ và pháo giấy đổ xuống màn hình. Video kết thúc với một cái kết sang trọng và sảng khoái, kỷ niệm 'Earnings Doubled!'.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Đồ họa chuyển động kỷ niệm thu nhập của X">
-
-**[🎬 Xem video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
-
-**Tác giả:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Nguồn:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Đã xuất bản:** Aug 1, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -2843,6 +2933,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-08T08:36:52.391Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-08T16:01:14.974Z</sub>
 
 </div>

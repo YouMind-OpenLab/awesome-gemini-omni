@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **246** |
+| 📝 Total de prompts | **249** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-09-08** |
 
@@ -56,6 +56,153 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Storyboard para comercial de bebida de limón premium con gas
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado de storyboard para un comercial de bebidas cinematográfico de alta velocidad, destacando la carbonatación, los splashes macro y el branding de lujo.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Storyboard para comercial de producto de bebida de limón premium con gas
+
+FORMATO:
+• Storyboard premium de una sola página
+• Relación de aspecto vertical 3:4
+• Campaña de bebidas de lujo
+• 8 escenas cinematográficas centradas en el producto
+• El producto se mantiene como el protagonista visual
+• Presentación comercial de alta gama
+
+ENCABEZADO:
+• Tipografía contemporánea en negrita
+• Tarjetas de información:
+  - Duración: 20 segundos
+  - Estilo: Comercial de bebidas cinematográfico de alta velocidad
+  - Producto: Bebida de limón con gas
+  - Audio: Efervescencia + crujido de hielo + ASMR de líquido
+• Sección de por qué funciona este estilo
+• Estética en blanco cristalino, amarillo limón y plata
+• Acentos gráficos minimalistas inspirados en cítricos
+
+STORYBOARD:
+1. Botella helada sola con condensación intensa
+2. Macro extremo de gotas de agua deslizándose por la botella
+3. Apertura de la tapa de la botella con una explosión dramática de carbonatación
+4. Bebida con gas explotando hacia arriba en un splash de líquido controlado
+5. Rodajas de limón girando a través del líquido burbujeante
+6. Cubos de hielo cayendo en un vaso de cristal en cámara ultra lenta
+7. Macro extremo que muestra miles de burbujas de carbonatación subiendo a través de la bebida
+8. Packshot final del héroe con la botella, el vaso, rodajas de limón y un splash congelado rodeando el producto
+
+CADA PANEL:
+• Número de escena
+• Insignia de duración
+• Dirección de cámara
+• Visual
+• Acción
+• Detalle del producto
+
+CÁMARA:
+Fotografía de líquidos de alta velocidad a 120 fps, macro extremo, splash congelado, rodajas de limón giratorias, contraluz dramático, primer plano de condensación, movimiento de producto fluido de 360°.
+
+ESTILO:
+Comercial de bebidas premium ultra realista, líquido cristalino, carbonatación explosiva, gotas de agua físicamente precisas
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248982_gewimj_HRriVPmaIAASM6y.jpg" width="600" alt="Storyboard para comercial de bebida de limón premium con gas">
+
+**[🎬 Ver video →](https://x.com/Strength04_X/status/2097237465887338994)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2097237465887338994) | **Publicado:** Sep 8, 2026
+
+---
+### Toma continua de montaje de cocina gourmet
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt técnico configurado en JSON para una toma continua que crea una cocina vacía que se construye dinámicamente pieza por pieza, estableciendo un ambiente gourmet cálido e iluminado por el sol.
+
+#### 📝 Prompt
+
+```
+Una toma cinematográfica continua e ininterrumpida de 10 segundos, cámara fija de gran angular, sin cortes, sin movimiento de cámara. Cocina moderna vacía hiperrealista con gabinetes blancos limpios, encimeras de concreto pulido, una ventana grande con vista al horizonte de la ciudad y techos altos. La cálida luz dorada del final de la tarde entra por la ventana, proyectando sombras suaves y en movimiento sobre el piso. Sin texto visible, excepto la marca auténtica en la cafetera. De 0 a 1.5 segundos, una elegante caja negra mate se sitúa en el centro de la cocina vacía, tiembla suavemente y luego se abre con fluidez. De 1.5 a 3.5 segundos, una cafetera espresso integrada de primera calidad se desliza (slides) en su lugar sobre la encimera trasera y comienza a preparar café; tazas a juego y un pequeño espumador de leche aparecen a su lado. De 3.5 a 5.5 segundos, estantes abiertos de nogal cálido se elevan a lo largo de la pared izquierda y se llenan con tazones de cerámica, libros de cocina y frascos de vidrio; una gran isla de mármol se despliega en el centro. De 5.5 a 7.5 segundos, luces colgantes descienden del techo y brillan cálidamente; hierbas en macetas y una tabla de cortar de madera aparecen en la isla; una estufa y un horno profesionales se materializan a la derecha. De 7.5 a 9 segundos, un fregadero estilo granja con grifo de latón se instala debajo de la ventana, cuelgan toallas de lino y una pequeña pantalla inteligente aparece gradualmente en el protector contra salpicaduras. El segundo final se mantiene en la acogedora cocina gourmet iluminada por el sol, con vapor elevándose de un espresso recién preparado. Física fotorrealista, montaje preciso, calidez moderna y elegante. Audio: sonidos ambientales suaves de cocina y el inicio de la cafetera espresso a los 1.5 segundos, melodía relajante hasta el final.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096972853468102656/img/CckSt3zqQLFxhq6O.jpg" width="600" alt="Toma continua de montaje de cocina gourmet">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2096972925140365437)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2096972925140365437) | **Publicado:** Sep 7, 2026
+
+---
+### Storyboard para comercial premium de Nutella
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un storyboard publicitario de alimentos de lujo para crema de avellanas, enfocado en la textura, la acción de untar y la iluminación cálida.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Storyboard para comercial de producto premium de Nutella
+
+FORMATO:
+• Storyboard premium de una sola página
+• Relación de aspecto vertical 3:4
+• Publicidad de productos alimenticios de lujo
+• 8 escenas cinematográficas enfocadas en el producto
+• El producto permanece como el protagonista principal
+• Presentación de agencia de publicidad de alta gama
+
+ENCABEZADO:
+• Tipografía serif elegante
+• Tarjetas de información:
+
+- Duración: 20 segundos
+- Estilo: Comercial cinematográfico de comida gourmet
+- Producto: Crema de avellanas Nutella
+- Audio: Sonido suave al untar + ASMR de comida
+  • Sección de por qué funciona este estilo
+  • Estética en tonos café cálido, crema y dorado
+  • Acentos decorativos minimalistas de avellanas
+
+STORYBOARD:
+
+1. Frasco premium de Nutella sobre madera oscura pulida
+2. Tapa del frasco abriéndose en macro extremo
+3. Nutella cremosa untándose lentamente desde el frasco
+4. Crema de chocolate formando una cinta brillante en el aire
+5. Nutella cayendo en cascada sobre panqueques esponjosos
+6. Macro extremo que muestra la rica textura del chocolate y pequeños reflejos
+7. Torre de panqueques rodeada por el frasco protagonista y avellanas
+8. Packshot final del producto de lujo con una aplicación dramática de Nutella
+
+CADA PANEL:
+• Número de escena
+• Insignia de duración
+• Dirección de cámara
+• Visual
+• Acción
+• Detalle del producto
+
+CÁMARA:
+Macro extremo, fotografía de untado en cámara lenta, toma cenital de comida, acercamiento controlado (push-in), profundidad de campo reducida, encuadre cinematográfico del protagonista.
+
+ESTILO:
+Publicidad de alimentos ultra realista, viscosidad realista al untar, textura de chocolate brillante, iluminación de estudio cálida, empaque de vidrio premium, presentación gourmet sofisticada, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248820_drevcx_HRm94c_aAAET3K6.jpg" width="600" alt="Storyboard para comercial premium de Nutella">
+
+**[🎬 Ver video →](https://x.com/itxabdullaa/status/2096915887504982258)**
+
+**Autor:** [ÀBDŪLLÂH](https://x.com/itxabdullaa) | **Fuente:** [Link](https://x.com/itxabdullaa/status/2096915887504982258) | **Publicado:** Sep 7, 2026
+
+---
 ### Time-lapse de la floración de las cuatro estaciones
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -131,7 +278,7 @@ ESTILO:
 Publicidad de alimentos ultrarrealista, viscosidad realista del jarabe, textura dorada brillante, iluminación de estudio cálida, empaque de vidrio premium, presentación gourmet sofisticada, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788771031949_276axy_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard comercial para jarabe de arce premium">
+<img src="https://cms-assets.youmind.com/media/1788857251032_k6cgg4_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard comercial para jarabe de arce premium">
 
 **[🎬 Ver video →](https://x.com/Strength04_X/status/2096833097740493050)**
 
@@ -691,7 +838,7 @@ Bloqueo de consistencia uniforme: Bloqueo de panceta de cerdo: Utilice siempre e
 TÍTULO: Storyboard para comercial de producto de agua de coco premium\n\nFORMATO:\n• Storyboard premium de una sola página\n• Relación de aspecto vertical 3:4\n• Campaña de bebida natural premium\n• 8 escenas cinematográficas enfocadas en el producto\n• El producto permanece como el protagonista central\n• Presentación de agencia de publicidad de alto nivel\n\nENCABEZADO:\n• Tipografía moderna y limpia\n• Tarjetas de información:\n  - Duración: 20 segundos\n  - Estilo: Comercial de bebida natural y fresca\n  - Producto: Agua de coco\n  - Audio: Agua tropical + ASMR refrescante\n• Sección de por qué funciona este estilo\n• Estética en blanco, verde coco y beige natural\n• Acentos decorativos tropicales minimalistas\n\nSTORYBOARD:\n1. Botella de agua de coco fría sobre piedra natural húmeda, cubierta de condensación\n2. Apertura de la tapa de la botella con un primer plano nítido del sello\n3. Agua de coco vertiéndose en un vaso transparente\n4. Líquido transparente girando dentro del vaso con pequeñas burbujas\n5. Trozos de coco fresco cayendo junto a la botella en cámara lenta\n6. Cubitos de hielo cayendo en la bebida y creando una salpicadura controlada\n7. Macro extremo de gotas de condensación deslizándose por la botella\n8. Botella y vaso protagonistas finales rodeados de trozos de coco fresco y una salpicadura de agua congelada\n\nCADA PANEL:\n• Número de escena\n• Insignia de duración\n• Dirección de cámara\n• Visual\n• Acción\n• Detalle del producto\n\nCÁMARA:\nFotografía de líquidos de alta velocidad, macro extremo, primer plano de condensación, caída de hielo en cámara lenta, remolino de líquido transparente, toma de producto en ángulo bajo, encuadre cinematográfico de protagonista.\n\nESTILO:\nPublicidad de bebidas ultrarrealista, líquido cristalino, condensación realista, textura detallada de coco, salpicadura de agua dinámica, iluminación natural premium, empaque limpio, fotografía comercial de lujo, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788426362099_jpy8ok_HRIV2OMWEAAdkxS.jpg" width="600" alt="Storyboard para comercial de agua de coco">
+<img src="https://cms-assets.youmind.com/media/1788857253380_cr9h8y_HRIV2OMWEAAdkxS.jpg" width="600" alt="Storyboard para comercial de agua de coco">
 
 **[🎬 Ver video →](https://x.com/Strength04_X/status/2094760813794111843)**
 
@@ -2719,89 +2866,6 @@ Guion gráfico de la línea de tiempo:
 **Autor:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Fuente:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Publicado:** Aug 3, 2026
 
 ---
-### Metraje de banda de rock de tiburones en un bar de mala muerte
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Genera un video con estilo de grabación pirata y cruda de una banda de rock de tiburones ficticia tocando en vivo en el ambiente de un bar concurrido.
-
-#### 📝 Prompt
-
-```
-Metraje pirata de un bar concurrido: la banda de surf-noise "Sharks on Surfboards", tiburones reales equilibrados de alguna manera sobre tablas y destrozando guitarras con sus aletas, susurra un breve saludo antes de lanzarse a tocar su frenético sencillo, "Chum Bucket".
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Metraje de banda de rock de tiburones en un bar de mala muerte">
-
-**[🎬 Ver video →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
-
-**Autor:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Fuente:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **Publicado:** Aug 3, 2026
-
----
-### Comercial de moda de lujo para niños pequeños
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt para un comercial de moda de alta gama que presenta a niños pequeños con una estética de lujo descrita como salvaje e imparable.
-
-#### 📝 Prompt
-
-```
-un comercial de moda de alta gama para niños pequeños, lujo que se vuelve salvaje, adorable pero imparable.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Comercial de moda de lujo para niños pequeños">
-
-**[🎬 Ver video →](https://x.com/ritesh_ai/status/2083525213309042711)**
-
-**Autor:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Fuente:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Publicado:** Aug 1, 2026
-
----
-### Gráficos en movimiento para la celebración de ganancias de X
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt de gráficos en movimiento altamente detallado para Gemini Omni, diseñado para crear animaciones de celebración por los hitos de ganancias de X, con rotaciones 3D complejas, efectos de partículas y tipografía sincronizada.
-
-#### 📝 Prompt
-
-```
-Utilice la imagen adjunta como única referencia. Use siempre la misma imagen; solo anime la posición, escala, rotación, rotación 3D y duplicación. No genere ni redibuje nuevas ilustraciones. Gráficos en movimiento de alta calidad. Video con calidad comercial, como si hubiera sido realizado en After Effects. La atmósfera general es de 'éxito', 'duplicación', 'celebración' y 'alegría'. El fondo es brillante y espléndido, con luz dorada, confeti, destellos, partículas y efectos festivos que danzan hermosamente. Todo el video transmite una vibra positiva y estimulante.
-
-Simultáneamente al inicio del video, la imagen adjunta aparece en el centro de la pantalla. La imagen aumenta de escala vigorosamente y repite rítmicamente el movimiento de expansión -> contracción -> expansión. Acompañando a la animación dinámica, luz dorada y destellos se dispersan alrededor.
-
-Luego, la imagen gira 360 grados rápidamente sobre su centro, realizando una transición fluida a una rotación 3D (giro de tarjeta) a lo largo del eje Y. La cámara también se mueve ligeramente hacia adelante y hacia atrás para crear profundidad. Luz similar a cintas doradas y partículas giran en sincronía con la rotación, enfatizando la sensación festiva.
-
-En el momento en que termina la rotación 3D, la imagen se divide instantáneamente de una a cuatro. Las cuatro piezas salen volando hacia las esquinas, cada una continuando con su rotación, escala y dejando hermosos rastros de luz.
-
-Inmediatamente después, las cuatro piezas se dividen aún más en 16, extendiéndose uniformemente por toda la pantalla. Estas 16 piezas repiten la rotación, rotación 3D y escalado en diferentes tiempos, proliferando hasta llenar la pantalla. En el fondo, confeti, partículas doradas, luces en forma de estrella y efectos de celebración danzan grandiosamente, enfatizando visualmente la imagen de 'duplicación'.
-
-Al final, las 16 piezas convergen en el centro a alta velocidad y se integran en una sola pieza en un instante. A medida que la cámara hace un zoom rápido hacia la imagen integrada, estalla una luz dorada y el confeti llena la pantalla. El video concluye con un final increíblemente espléndido que celebra el éxito.
-
-Asegúrese de que no haya momentos de quietud durante todo el video, manteniendo un ritmo brillante y energético. El movimiento debe ser fluido y nítido, apuntando a gráficos en movimiento de alta calidad al nivel de anuncios, comerciales o videos musicales.
-
-Presentación de tipografía (Versión de celebración/duplicación)
-
-La tipografía debe estar perfectamente sincronizada con el movimiento de la imagen. El texto se coloca frente a la imagen, utilizando una fuente sans-serif audaz, moderna y lujosa. Añada brillo dorado, luminiscencia, resplandor y desenfoque de movimiento a los caracteres para crear un aspecto festivo y de alta gama.
-
-0–2 segundos: Una 'X' gigante aumenta de escala vigorosamente, pulsando en sincronía con el escalado de la imagen. Luz dorada y destellos se dispersan alrededor.
-
-2–4 segundos: Sincronizada con la rotación 3D de la imagen, la palabra 'Earnings' salta desde el fondo, aumentando de escala audazmente. Acompañada por rastros de luz dorada, realice un efecto que simbolice éxito y ganancias.
-
-4–6 segundos: La palabra 'Doubled' salta poderosamente al centro de la pantalla, aumentando significativamente de escala. Tras un ligero rebote, el resplandor dorado se extiende por la pantalla, enfatizando el impacto de que 'las ganancias se han duplicado'.
-
-6–8 segundos: A medida que la imagen se divide en 4 y 16 piezas, múltiples símbolos 'X' aparecen y proliferan rítmicamente por la pantalla. Confeti, partículas doradas y luces en forma de estrella danzan en el fondo, elevando el ambiente festivo a su punto máximo.
-
-8–10 segundos: Todas las imágenes y caracteres se reúnen en el centro, con 'X', 'Earnings' y 'Doubled' superponiéndose para formar un título poderoso. A medida que la cámara hace zoom, estalla luz dorada y el confeti inunda la pantalla. El video termina con un final lujoso y refrescante, celebrando que '¡las ganancias se han duplicado!'.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="Gráficos en movimiento para la celebración de ganancias de X">
-
-**[🎬 Ver video →](https://x.com/Naonekozamurai/status/2083364119928049908)**
-
-**Autor:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Fuente:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Publicado:** Aug 1, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -2854,6 +2918,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-08T08:36:56.331Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-08T16:01:18.884Z</sub>
 
 </div>

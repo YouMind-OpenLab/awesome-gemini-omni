@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **246** |
+| 📝 Gesamtanzahl Prompts | **249** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-08** |
 
@@ -56,6 +56,153 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Storyboard für Premium-Sprudelzitronen-Werbespot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Storyboard-Prompt für einen cineastischen High-Speed-Getränkewerbespot, der Kohlensäure, Makro-Spritzer und luxuriöses Branding hervorhebt.
+
+#### 📝 Prompt
+
+```
+TITEL:
+Storyboard für Premium-Zitronen-Sprudelgetränk-Werbespot
+
+FORMAT:
+• Einseitiges Premium-Storyboard
+• 3:4 Hochformat
+• Luxus-Getränkekampagne
+• 8 cineastische, produktfokussierte Szenen
+• Das Produkt bleibt der visuelle Held
+• Hochwertige Werbepräsentation
+
+HEADER:
+• Fette, moderne Typografie
+• Informationskarten:
+  - Dauer: 20 Sekunden
+  - Stil: Cineastischer High-Speed-Getränkewerbespot
+  - Produkt: Zitronen-Sprudelgetränk
+  - Audio: Zischen + Eisknacken + flüssiges ASMR
+• Bereich „Warum dieser Stil funktioniert“
+• Ästhetik in Kristallweiß, Zitronengelb und Silber
+• Minimale, von Zitrusfrüchten inspirierte grafische Akzente
+
+STORYBOARD:
+1. Eiskalte Flasche, alleinstehend mit starker Kondenswasserbildung
+2. Extremes Makro von Wassertropfen, die an der Flasche herunterlaufen
+3. Öffnen des Flaschenverschlusses mit einem dramatischen Kohlensäureausbruch
+4. Sprudelgetränk explodiert in einem kontrollierten Flüssigkeitsspritzer nach oben
+5. Zitronenscheiben drehen sich durch die sprudelnde Flüssigkeit
+6. Eiswürfel fallen in Zeitlupe in ein Kristallglas
+7. Extremes Makro, das Tausende von Kohlensäurebläschen zeigt, die im Getränk aufsteigen
+8. Abschließender Hero-Packshot mit Flasche, Glas, Zitronenscheiben und gefrorenem Spritzer um das Produkt herum
+
+JEDES PANEL:
+• Szenennummer
+• Dauer-Badge
+• Kameraanweisung
+• Visual
+• Aktion
+• Produktdetail
+
+KAMERA:
+120 fps High-Speed-Flüssigkeitsfotografie, extremes Makro, gefrorener Spritzer, rotierende Zitronenscheiben, dramatisches Gegenlicht, Nahaufnahme der Kondensation, flüssige 360°-Produktbewegung.
+
+STIL:
+Ultrarealistischer Premium-Getränkewerbespot, kristallklare Flüssigkeit, explosive Kohlensäure, physikalisch korrekte Wassertropfen
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248982_gewimj_HRriVPmaIAASM6y.jpg" width="600" alt="Storyboard für Premium-Sprudelzitronen-Werbespot">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2097237465887338994)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2097237465887338994) | **Veröffentlicht:** Sep 8, 2026
+
+---
+### Gourmet-Küche Montage: Kontinuierliche Aufnahme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein technischer, per JSON konfigurierter Prompt für eine kontinuierliche Aufnahme, bei der sich eine leere Küche Stück für Stück dynamisch aufbaut und eine warme, sonnendurchflutete Gourmet-Umgebung erschafft.
+
+#### 📝 Prompt
+
+```
+Eine durchgehende, ununterbrochene 10-sekündige filmische Aufnahme, feste Weitwinkel-Kameraeinstellung, keine Schnitte, keine Kamerabewegung. Hyperrealistische, leere moderne Küche mit sauberen weißen Schränken, polierten Betonarbeitsplatten, einem großen Fenster mit Blick auf die Skyline der Stadt und hohen Decken. Warmes, goldenes Licht am späten Nachmittag strömt durch das Fenster und wirft sanfte, bewegliche Schatten auf den Boden. Kein sichtbarer Text außer authentischem Branding auf der Kaffeemaschine. Von 0–1,5 s: Eine elegante mattschwarze Kiste steht in der Mitte der leeren Küche, bebt leicht und öffnet sich dann sanft. Von 1,5–3,5 s: Eine hochwertige Einbau-Espressomaschine Slides an ihren Platz auf der hinteren Theke und beginnt mit dem Brühvorgang; passende Tassen und ein kleiner Milchaufschäumer erscheinen daneben. Von 3,5–5,5 s: Warme offene Regale aus Walnussholz steigen an der linken Wand empor und füllen sich mit Keramikschalen, Kochbüchern und Gläsern; eine große Marmorinsel entfaltet sich in der Mitte. Von 5,5–7,5 s: Pendelleuchten senken sich von der Decke herab und leuchten warm; üppige Topfkräuter und ein Schneidebrett aus Holz erscheinen auf der Insel; ein professioneller Herd und Backofen materialisieren sich auf der rechten Seite. Von 7,5–9 s: Ein Landhausspülbecken mit Messingarmatur installiert sich unter dem Fenster, Leinentücher hängen sich auf und ein kleines Smart-Display blendet sich am Fliesenspiegel ein. Die letzten 1 s verweilen auf der fertiggestellten, gemütlichen und sonnendurchfluteten Gourmet-Küche, während Dampf von einem frisch gebrühten Espresso aufsteigt. Fotorealistische Physik, präzise Montage, elegante moderne Wärme. Audio: sanfte Umgebungsgeräusche aus der Küche und das Geräusch der Espressomaschine ab 1,5 s, beruhigende Melodie bis zum Ende.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2096972853468102656/img/CckSt3zqQLFxhq6O.jpg" width="600" alt="Gourmet-Küche Montage: Kontinuierliche Aufnahme">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2096972925140365437)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2096972925140365437) | **Veröffentlicht:** Sep 7, 2026
+
+---
+### Premium Nutella Werbe-Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein luxuriöses Food-Werbe-Storyboard für Nuss-Nougat-Creme, das sich auf Textur, Streichbewegung und warme Beleuchtung konzentriert.
+
+#### 📝 Prompt
+
+```
+TITEL:
+Premium Nutella Produkt-Werbe-Storyboard
+
+FORMAT:
+• Einseitiges Premium-Storyboard
+• 3:4 Hochformat
+• Luxuriöse Lebensmittelwerbung
+• 8 filmische, produktfokussierte Szenen
+• Das Produkt bleibt der Hauptdarsteller
+• Präsentation für High-End-Werbeagenturen
+
+HEADER:
+• Elegante Serifentypografie
+• Informationskarten:
+
+- Dauer: 20 Sekunden
+- Stil: Filmischer Gourmet-Food-Werbespot
+- Produkt: Nutella Nuss-Nougat-Creme
+- Audio: Sanftes Streichen + Food-ASMR
+  • Bereich „Warum dieser Stil funktioniert“
+  • Ästhetik in warmem Braun, Creme und Gold
+  • Minimale dekorative Haselnuss-Akzente
+
+STORYBOARD:
+
+1. Premium Nutella-Glas auf poliertem dunklem Holz
+2. Öffnen des Glasdeckels in extremer Makroaufnahme
+3. Cremiges Nutella, das langsam aus dem Glas gestrichen wird
+4. Schokoladencreme, die in der Luft ein glänzendes Band bildet
+5. Nutella, das über fluffige Pfannkuchen fließt
+6. Extreme Makroaufnahme der reichhaltigen Schokoladentextur mit feinen Lichtreflexen
+7. Pfannkuchenstapel, umgeben vom Hauptproduktglas und Haselnüssen
+8. Abschließender luxuriöser Produkt-Packshot mit dramatischem Nutella-Aufstrich
+
+JEDES PANEL:
+• Szenennummer
+• Dauer-Badge
+• Kameraanweisung
+• Visualisierung
+• Aktion
+• Produktdetail
+
+KAMERA:
+Extreme Makroaufnahme, Zeitlupen-Streichfotografie, Food-Shot von oben, kontrollierter Push-in, geringe Schärfentiefe, filmische Hero-Einstellung.
+
+STIL:
+Ultrarealistische Lebensmittelwerbung, realistische Viskosität des Aufstrichs, glänzende Schokoladentextur, warme Studiobeleuchtung, Premium-Glasverpackung, anspruchsvolle Gourmet-Präsentation, 8K.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788857248820_drevcx_HRm94c_aAAET3K6.jpg" width="600" alt="Premium Nutella Werbe-Storyboard">
+
+**[🎬 Video ansehen →](https://x.com/itxabdullaa/status/2096915887504982258)**
+
+**Autor:** [ÀBDŪLLÂH](https://x.com/itxabdullaa) | **Quelle:** [Link](https://x.com/itxabdullaa/status/2096915887504982258) | **Veröffentlicht:** Sep 7, 2026
+
+---
 ### Zeitraffer der blühenden Blumen durch die vier Jahreszeiten
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -131,7 +278,7 @@ STIL:
 Ultrarealistische Lebensmittelwerbung, realistische Sirupviskosität, glänzende goldene Textur, warmes Studiolicht, Premium-Glasverpackung, anspruchsvolle Gourmet-Präsentation, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788771031949_276axy_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard für Premium-Ahornsirup-Werbespot">
+<img src="https://cms-assets.youmind.com/media/1788857251032_k6cgg4_HRlyjBWaIAER5_L.jpg" width="600" alt="Storyboard für Premium-Ahornsirup-Werbespot">
 
 **[🎬 Video ansehen →](https://x.com/Strength04_X/status/2096833097740493050)**
 
@@ -734,7 +881,7 @@ STIL:
 Ultra-realistische Getränkewerbung, kristallklare Flüssigkeit, realistisches Kondenswasser, detaillierte Kokosnuss-Textur, dynamischer Wasserspritzer, natürliche Premium-Beleuchtung, saubere Verpackung, luxuriöse Werbefotografie, 8K.
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788426362099_jpy8ok_HRIV2OMWEAAdkxS.jpg" width="600" alt="Storyboard für einen Kokoswasser-Werbespot">
+<img src="https://cms-assets.youmind.com/media/1788857253380_cr9h8y_HRIV2OMWEAAdkxS.jpg" width="600" alt="Storyboard für einen Kokoswasser-Werbespot">
 
 **[🎬 Video ansehen →](https://x.com/Strength04_X/status/2094760813794111843)**
 
@@ -2762,89 +2909,6 @@ Timeline-Storyboard:
 **Autor:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Quelle:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Veröffentlicht:** Aug 3, 2026
 
 ---
-### Aufnahmen einer Hai-Rockband in einer Kneipe
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Erzeugt ein raues Video im Bootleg-Stil von einer fiktiven Hai-Rockband, die live in einer überfüllten Kneipenatmosphäre auftritt.
-
-#### 📝 Prompt
-
-```
-Bootleg-Aufnahmen aus einer überfüllten Kneipe: Die Surf-Noise-Band „Sharks on Surfboards“, echte Haie, die irgendwie auf Surfbrettern balancieren und mit ihren Flossen Gitarren shreddern, zischt ein kurzes Hallo, bevor sie ihre treibende Single „Chum Bucket“ zum Besten geben.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084098286135459840/img/mJMqw08Jmc1cWOF7.jpg" width="600" alt="Aufnahmen einer Hai-Rockband in einer Kneipe">
-
-**[🎬 Video ansehen →](https://x.com/SaasJunctionHQ/status/2084098628608803040)**
-
-**Autor:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ) | **Quelle:** [Link](https://x.com/SaasJunctionHQ/status/2084098628608803040) | **Veröffentlicht:** Aug 3, 2026
-
----
-### Luxuriöser Werbespot für Kleinkindermode
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein High-End-Werbespot-Prompt für Kleinkindermode mit einer luxuriösen Ästhetik, die als wild und unaufhaltsam beschrieben wird.
-
-#### 📝 Prompt
-
-```
-Ein High-End-Werbespot für Kleinkindermode, Luxus wird wild, bezaubernd aber unaufhaltsam.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083525005653188608/img/9JmkuipMYtNR9c7x.jpg" width="600" alt="Luxuriöser Werbespot für Kleinkindermode">
-
-**[🎬 Video ansehen →](https://x.com/ritesh_ai/status/2083525213309042711)**
-
-**Autor:** [Ritesh | AI Creator](https://x.com/ritesh_ai) | **Quelle:** [Link](https://x.com/ritesh_ai/status/2083525213309042711) | **Veröffentlicht:** Aug 1, 2026
-
----
-### X Earnings Celebration Motion Graphics
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein hochdetaillierter Motion-Graphics-Prompt für Gemini Omni zur Erstellung feierlicher Animationen für X-Earnings-Meilensteine, mit komplexen 3D-Rotationen, Partikeleffekten und synchronisierter Typografie.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie das angehängte Bild als einzige Referenz. Nutzen Sie immer dasselbe Bild; animieren Sie ausschließlich Position, Skalierung, Rotation, 3D-Rotation und Duplizierung. Generieren oder zeichnen Sie keine neuen Illustrationen. Hochwertige Motion Graphics. Video in kommerzieller Qualität, als wäre es in After Effects erstellt worden. Die allgemeine Atmosphäre ist geprägt von 'Erfolg', 'Verdopplung', 'Feier' und 'Freude'. Der Hintergrund ist hell und prachtvoll, mit goldenem Licht, Konfetti, Glitzereffekten, Partikeln und festlichen Effekten, die wunderschön tanzen. Das gesamte Video vermittelt eine positive und aufbauende Stimmung.
-
-Zeitgleich mit dem Start des Videos erscheint das angehängte Bild in der Mitte des Bildschirms. Das Bild skaliert schwungvoll und wiederholt rhythmisch die Bewegung: Vergrößern -> Verkleinern -> Vergrößern. Begleitet von der dynamischen Animation verbreiten sich goldenes Licht und Glitzereffekte in der Umgebung.
-
-Als Nächstes rotiert das Bild schnell um 360 Grad um seine Mitte und geht fließend in eine 3D-Rotation (Karten-Flip) entlang der Y-Achse über. Die Kamera bewegt sich zudem leicht vor und zurück, um Tiefe zu erzeugen. Goldene, bandartige Lichtstreifen und Partikel wirbeln synchron zur Rotation und unterstreichen das festliche Gefühl.
-
-In dem Moment, in dem die 3D-Rotation endet, teilt sich das Bild augenblicklich von einem in vier Teile. Die vier Stücke fliegen in die Ecken, wobei jedes weiterhin rotiert, skaliert und wunderschöne Lichtspuren hinterlässt.
-
-Unmittelbar danach teilen sich die vier Stücke weiter in 16 Teile auf, die sich gleichmäßig über den Bildschirm verteilen. Diese 16 Stücke wiederholen Rotation, 3D-Rotation und Skalierung zu unterschiedlichen Zeitpunkten und vermehren sich, bis sie den Bildschirm füllen. Im Hintergrund tanzen Konfetti, goldene Partikel, sternförmige Lichter und festliche Effekte großartig und unterstreichen visuell das Bild der 'Verdopplung'.
-
-Am Ende laufen alle 16 Teile mit hoher Geschwindigkeit in der Mitte zusammen und werden in einem Augenblick zu einem einzigen Bild vereint. Während die Kamera scharf auf das zusammengeführte Bild zoomt, bricht goldenes Licht hervor und Konfetti füllt den Bildschirm. Das Video endet mit einem überwältigend prachtvollen Abschluss, der den Erfolg feiert.
-
-Stellen Sie sicher, dass es keine Momente des Stillstands im Video gibt, um ein helles und energiegeladenes Tempo beizubehalten. Die Bewegungen sollten flüssig und scharf sein, mit dem Ziel, hochwertige Motion Graphics auf dem Niveau von Werbespots, kommerziellen Videos oder Musikvideos zu erreichen.
-
-Typografie-Präsentation (Feier/Verdopplungs-Version)
-
-Die Typografie sollte perfekt mit der Bewegung des Bildes synchronisiert sein. Der Text wird vor dem Bild platziert und verwendet eine fettgedruckte, moderne und luxuriöse serifenlose Schriftart. Fügen Sie den Zeichen goldenen Glanz, Leuchtkraft, Lichtschimmer und Bewegungsunschärfe hinzu, um einen feierlichen und hochwertigen Look zu erzielen.
-
-0–2 Sekunden: Ein riesiges 'X' skaliert schwungvoll hinein und pulsiert synchron zur Skalierung des Bildes. Goldenes Licht und Glitzereffekte verbreiten sich.
-
-2–4 Sekunden: Synchron zur 3D-Rotation des Bildes springt das Wort 'Earnings' aus dem Hintergrund hervor und skaliert kräftig. Begleitet von goldenen Lichtspuren wird ein Effekt erzeugt, der Erfolg und Gewinn symbolisiert.
-
-4–6 Sekunden: Das Wort 'Doubled' springt kraftvoll in die Mitte des Bildschirms und skaliert deutlich. Nach einem leichten Sprung breitet sich goldene Strahlkraft über den Bildschirm aus und unterstreicht die Wirkung von 'Earnings have doubled'.
-
-6–8 Sekunden: Während sich das Bild in 4 und 16 Teile aufteilt, erscheinen mehrere 'X'-Symbole und vermehren sich rhythmisch auf dem Bildschirm. Konfetti, goldene Partikel und sternförmige Lichter tanzen im Hintergrund und steigern die feierliche Stimmung auf ihren Höhepunkt.
-
-8–10 Sekunden: Alle Bilder und Zeichen versammeln sich in der Mitte, wobei 'X', 'Earnings' und 'Doubled' sich überlagern, um einen kraftvollen Titel zu bilden. Während die Kamera zoomt, bricht goldenes Licht hervor und Konfetti regnet über den Bildschirm. Das Video endet mit einem luxuriösen und erfrischenden Abschluss, der 'Earnings Doubled!' feiert.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2083362737355374592/img/4yPwV1tRwocIc5em.jpg" width="600" alt="X Earnings Celebration Motion Graphics">
-
-**[🎬 Video ansehen →](https://x.com/Naonekozamurai/status/2083364119928049908)**
-
-**Autor:** [なお｜AI動画・AI音楽](https://x.com/Naonekozamurai) | **Quelle:** [Link](https://x.com/Naonekozamurai/status/2083364119928049908) | **Veröffentlicht:** Aug 1, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -2897,6 +2961,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-08T08:36:57.746Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-08T16:01:20.638Z</sub>
 
 </div>
