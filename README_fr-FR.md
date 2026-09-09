@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **249** |
+| 📝 Total des prompts | **255** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-09-09** |
 
@@ -56,6 +56,181 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Domaine Tudor moderne dans les Blue Ridge Mountains
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique d'un domaine Tudor moderne, luxueux et étendu, entouré par le paysage forestier automnal.
+
+#### 📝 Prompt
+
+```
+Le luxe discret dans les Blue Ridge mountains. Un vaste domaine Tudor moderne conçu pour inviter la forêt automnale à l'intérieur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097595917574803457/img/moZ8KJSmhTzY09U8.jpg" width="600" alt="Domaine Tudor moderne dans les Blue Ridge Mountains">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2097595975770755235)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2097595975770755235) | **Publié:** Sep 9, 2026
+
+---
+### Publicité pour boisson pétillante au citron haut de gamme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de publicité cinématographique de 10 secondes pour une boisson pétillante au citron, mettant l'accent sur des plans macro de condensation, des éclats de gazéification et des éclaboussures de liquide à haute vitesse.
+
+#### 📝 Prompt
+
+```
+TITRE :
+Boisson pétillante au citron haut de gamme — Publicité produit cinématographique de 10 secondes
+
+FORMAT :
+• Publicité pour boisson premium de 10 secondes
+• Vidéo cinématographique centrée sur le produit
+• Composition verticale 3:4
+• Esthétique publicitaire de luxe
+• Le produit reste l'élément visuel central
+• Identité de produit cohérente tout au long de la vidéo
+
+RÉFÉRENCE :
+Utilisez l'image du produit ci-jointe comme référence visuelle principale.
+Préservez la forme exacte de la bouteille, les proportions, l'étiquette, la marque et l'identité globale du produit.
+
+SÉQUENCE :
+1. Bouteille glacée avec une forte condensation
+2. Macro extrême de gouttelettes d'eau glissant sur la bouteille
+3. Ouverture de la bouteille avec un éclat de gazéification net
+4. Liquide pétillant explosant dans une éclaboussure contrôlée à haute vitesse
+5. Tranches de citron frais se déplaçant dans la boisson pétillante
+6. Glaçons cristallins tombant dans un verre haut de gamme
+7. Bulles de gazéification macro montant à travers la boisson
+8. Packshot final avec la bouteille, le verre, le citron et le liquide givré
+
+CAMÉRA :
+Esthétique haute vitesse 120 fps, macro extrême, mouvement fluide du produit, mouvement de liquide figé, rétroéclairage dramatique, faible profondeur de champ et photographie de studio premium.
+
+STYLE :
+Publicité pour boisson de luxe ultra-réaliste, liquide cristallin, gouttelettes physiquement précises, gazéification réaliste, reflets cinématographiques et rendu de produit haut de gamme.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788944031666_qac34m_HRtedivbMAA_8jh.jpg" width="600" alt="Publicité pour boisson pétillante au citron haut de gamme">
+
+**[🎬 Voir la vidéo →](https://x.com/AIProductLab18/status/2097373921247191241)**
+
+**Auteur:** [AI Product Lab](https://x.com/AIProductLab18) | **Source:** [Link](https://x.com/AIProductLab18/status/2097373921247191241) | **Publié:** Sep 8, 2026
+
+---
+### Test de permanence de l'objet sur autoroute
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt d'évaluation utilisé pour tester la permanence de l'objet, où une voiture traverse une autoroute désertique et passe sous un pont en béton.
+
+#### 📝 Prompt
+
+```
+Plan fixe de profil d'une autoroute désertique rectiligne à deux voies. Une voiture de sport jaune vif avec deux bandes de course noires roule de gauche à droite à vitesse constante, passe entièrement sous un pont en béton, reste totalement masquée pendant environ 2 secondes, puis réapparaît dans la même direction et poursuit sa route vers la droite. Plan-séquence unique, sans coupes, sans véhicules supplémentaires, 8 à 10 secondes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097373871309754368/img/Nro9DWy3wfI4Nm_4.jpg" width="600" alt="Test de permanence de l'objet sur autoroute">
+
+**[🎬 Voir la vidéo →](https://x.com/FramezeroAI/status/2097373908408442975)**
+
+**Auteur:** [Frame Zero 🎬 | AI Films](https://x.com/FramezeroAI) | **Source:** [Link](https://x.com/FramezeroAI/status/2097373908408442975) | **Publié:** Sep 8, 2026
+
+---
+### Storyboard publicitaire pour nouilles croustillantes à l'ail
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une configuration de prompt pour storyboard cinématographique intense et complète, optimisée pour Gemini Omni Flash, générant une structure publicitaire photoréaliste de 10 panneaux pour un plat de nouilles.
+
+#### 📝 Prompt
+
+```
+TITRE :
+Storyboard publicitaire cinématographique pour nouilles croustillantes à l'ail Premium
+
+FORMAT :
+• Storyboard premium sur une seule page
+• Feuille de storyboard au format portrait 3:4
+• 10 panneaux cinématographiques dans une grille éditoriale équilibrée
+• Bordures fines séparant chaque cadre
+• Séquence connectée issue d'une publicité continue
+• Présentation publicitaire culinaire haut de gamme
+
+EN-TÊTE :
+• Titre contemporain en gras
+• Fiches d'informations de production compactes
+• Durée : 30 secondes
+• Style : Publicité cinématographique de transformation culinaire
+• Produit : Indomie Mi Goreng
+• Audio : Grésillement de l'ail + crépitement de l'huile + versement de la sauce + mélange des nouilles
+• Identité visuelle ambre chaud, brun profond et crème
+
+STORYBOARD :
+1. Le paquet scellé d'Indomie Mi Goreng repose à côté d'un petit bol d'ail frais
+2. Le paquet s'ouvre alors que les nouilles sèches et les sachets d'assaisonnement glissent sur la table
+3. Les nouilles sèches tombent dans une casserole d'eau chaude
+4. Les nouilles cuites sont soulevées de la casserole avec de la vapeur qui s'en échappe
+5. L'ail commence à grésiller dans une poêle noire chaude à côté des nouilles
+6. Les nouilles cuites tombent directement dans l'ail grésillant
+7. L'assaisonnement Mi Goreng et la sauce soja sucrée sont versés sur les nouilles
+8. Les nouilles sont rapidement mélangées dans la sauce à l'ail brillante
+9. L'ail croustillant et les garnitures vertes fraîches sont saupoudrés sur les nouilles terminées
+10. Plan final héroïque premium avec le paquet Indomie, le bol de nouilles et la garniture à l'ail croustillant
+
+COHÉRENCE DES CADRES :
+• Un environnement de cuisine en bois chaleureux et continu
+• Même design de paquet Indomie dans chaque cadre
+• Même poêle noire et bol de service noir mat
+• Même ail, garniture verte et éléments d'assaisonnement
+• Direction d'éclairage et arrière-plan identiques tout au long
+• La progression de la préparation culinaire doit rester physiquement logique
+• Aucun changement d'objet inexpliqué ou erreur de continuité
+
+CAMÉRA :
+Cadrage publicitaire en plongée, plans macro culinaires, mélanges de nouilles rapides et contrôlés, versements de sauce au ralenti, gros plan sur l'ail grésillant, travelling avant fluide vers le plan final héroïque.
+
+STYLE VISUEL :
+Publicité culinaire photoréaliste haut de gamme, nouilles brillantes, texture d'ail croustillant, reflets d'huile réalistes, vapeur naturelle, enrobage de sauce riche, éclairage cinématographique chaud, qualité publicitaire 8K haut de gamme.
+
+CONCEPTION DU STORYBOARD :
+Chaque panneau doit ressembler à une image vidéo consécutive de la même production. Maintenir un environnement, des accessoires, un emballage de produit, des portions alimentaires, un éclairage et un langage visuel identiques sur les 10 panneaux.
+
+NÉGATIF :
+Pas de changement d'emballage, pas de portions alimentaires incohérentes, pas d'ingrédients aléatoires, pas de cuisine différente, pas de produits dupliqués, pas de logo déformé, pas d'aspect cartoon, pas d'erreurs de continuité.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788944025659_qes2sn_HRs408KbYAArgU7.jpg" width="600" alt="Storyboard publicitaire pour nouilles croustillantes à l'ail">
+
+**[🎬 Voir la vidéo →](https://x.com/Strength04_X/status/2097332563799077126)**
+
+**Auteur:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2097332563799077126) | **Publié:** Sep 8, 2026
+
+---
+### Boisson pétillante au citron cinématographique
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique pour générer une publicité de boisson rafraîchissante avec de la condensation, des bulles et des tranches de citron flottantes.
+
+#### 📝 Prompt
+
+```
+Verre froid. Condensation. Tranches de citron flottantes. Des centaines de minuscules bulles captant la lumière.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097295787520868352/img/gmzIUtOV0Ut3jez-.jpg" width="600" alt="Boisson pétillante au citron cinématographique">
+
+**[🎬 Voir la vidéo →](https://x.com/AI_VideoLab/status/2097295811780759996)**
+
+**Auteur:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Source:** [Link](https://x.com/AI_VideoLab/status/2097295811780759996) | **Publié:** Sep 8, 2026
+
+---
 ### Storyboard publicitaire pour boisson pétillante au citron premium
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -112,11 +287,30 @@ STYLE :
 Publicité pour boisson premium ultra-réaliste, liquide cristallin, carbonatation explosive, gouttelettes d'eau physiquement précises
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788857248982_gewimj_HRriVPmaIAASM6y.jpg" width="600" alt="Storyboard publicitaire pour boisson pétillante au citron premium">
+<img src="https://cms-assets.youmind.com/media/1788944028856_d5zoxx_HRriVPmaIAASM6y.jpg" width="600" alt="Storyboard publicitaire pour boisson pétillante au citron premium">
 
 **[🎬 Voir la vidéo →](https://x.com/Strength04_X/status/2097237465887338994)**
 
 **Auteur:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2097237465887338994) | **Publié:** Sep 8, 2026
+
+---
+### Publicité pour sirop d'érable
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt publicitaire cinématographique pour du sirop d'érable, mettant en avant des plans macro de liquide et un éclairage doré chaleureux.
+
+#### 📝 Prompt
+
+```
+plans macro de liquide, éclairage doré chaleureux, sirop qui coule, cadrage produit épuré et un plan final héroïque en extérieur
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097122751761055744/img/B_0BYRpsP7sKzSOv.jpg" width="600" alt="Publicité pour sirop d'érable">
+
+**[🎬 Voir la vidéo →](https://x.com/AI_VideoLab/status/2097122773831500230)**
+
+**Auteur:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Source:** [Link](https://x.com/AI_VideoLab/status/2097122773831500230) | **Publié:** Sep 8, 2026
 
 ---
 ### Plan-séquence de l'assemblage d'une cuisine gastronomique
@@ -2760,155 +2954,6 @@ Basse qualité, dessin animé, anime, faible détail, apparence plastique, grain
 **Auteur:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Publié:** Aug 7, 2026
 
 ---
-### Transformation macro d'une pieuvre en gelée
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de cinématographie macro très détaillé pour Gemini Omni, illustrant un gel lumineux se transformant en une pieuvre en gelée élastique.
-
-#### 📝 Prompt
-
-```
-Cinématographie macro en très gros plan.
-Une main réaliste presse lentement un tube métallique élégant doté d'un embout poli. Au lieu d'une pâte ordinaire, un gel cristallin et légèrement lumineux s'en écoule avec fluidité. À mesure que la matière émerge, elle se transforme organiquement en une minuscule « Jelly Octopus » magnifiquement sculptée, prenant forme couche par couche dans un mouvement continu.
-La miniature finale apparaît brillante, légèrement translucide, douce et élastique, avec un léger vacillement avant de se stabiliser naturellement. Sa tête arrondie rebondit doucement tandis que les minuscules tentacules ondoient délicatement et se stabilisent avec une élasticité réaliste. De minuscules reflets parcourent sa surface lisse tandis que la lumière interne se diffuse doucement à travers le gel, créant une esthétique élégante et haut de gamme.
-L'objet repose sur une surface en pierre mate sombre décorée de délicates gouttelettes d'eau qui renforcent le réalisme et les reflets.
-
-Style : Photographie ultra macro
-CGI hyper-réaliste
-Éclairage de studio cinématographique
-Profondeur de champ extrêmement faible
-Reflets riches
-Esthétique publicitaire haut de gamme
-Transformation fluide et continue
-Textures nettes
-Matériaux photoréalistes
-Qualité 8K
-Vertical 16:9
-30 FPS
-Sans texte
-Sans mouvement de caméra
-Sans distractions en arrière-plan
-
-Negative Prompt : Basse qualité, dessin animé, anime, peu détaillé, aspect plastique, grain, bruit, scintillement, géométrie brisée, forme déformée, objets supplémentaires, texte, filigrane, logo, couleurs sursaturées, éclairage irréaliste, caméra tremblante, flou de mouvement, arrière-plan encombré.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Transformation macro d'une pieuvre en gelée">
-
-**[🎬 Voir la vidéo →](https://x.com/Strength04_X/status/2085559452481261606)**
-
-**Auteur:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **Publié:** Aug 7, 2026
-
----
-### Concert de rock préhistorique
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo de style documentaire mettant en scène des humains préhistoriques donnant un concert sur scène, entourés de dinosaures.
-
-#### 📝 Prompt
-
-```
-Une scène de concert se déroulant à l'époque préhistorique. Des hommes des cavernes sont sur scène, des êtres préhistoriques chantant dans une langue inintelligible. Des dinosaures rôdent également aux alentours. Une foule de membres de la communauté assiste au concert. Le tournage sera multi-plans, avec un rendu de caméra naturel et documentaire. Le style visuel doit être ultra-réaliste.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Concert de rock préhistorique">
-
-**[🎬 Voir la vidéo →](https://x.com/ozansihay/status/2085420070952649179)**
-
-**Auteur:** [Ozan Sihay](https://x.com/ozansihay) | **Source:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **Publié:** Aug 6, 2026
-
----
-### De l'éclaboussure d'encre au paysage peint
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptif pour Gemini Omni qui visualise des gouttes d'encre noire sur fond blanc se transformant en un paysage miniature coloré, avec un effet cinématographique au ralenti.
-
-#### 📝 Prompt
-
-```
-Un fond blanc pur remplit le cadre. D'épaisses gouttes d'encre noire tombent au ralenti, éclaboussant vers l'extérieur comme des fleurs en éclosion. La caméra est parfaitement statique, se concentrant sur le mouvement fluide. À mesure que l'encre se répand, les formes se transforment subtilement en montagnes, rivières et arbres. La couleur s'infiltre — des bleus et des verts profonds — jusqu'à ce que l'encre devienne entièrement une peinture de paysage miniature. La dernière seconde se fige sur le monde achevé, parfaitement immobile.
-Style : beauté abstraite | mouvement fluide | transformation artistique
-Caméra : macro statique → révélation lente
-Durée : 10 secondes
-Éclairage : lumière de studio douce, haute clarté
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="De l'éclaboussure d'encre au paysage peint">
-
-**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2085178634067923397)**
-
-**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **Publié:** Aug 6, 2026
-
----
-### Vidéo à match cuts haute énergie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt technique pour générer une vidéo dynamique de 10 secondes avec des match cuts haute énergie à une fréquence de deux par seconde, dans un format cinématographique 16:9.
-
-#### 📝 Prompt
-
-```
-générer un clip de 10s avec 20 match cuts, soit 2 coupes par seconde. style cinématographique et haute énergie. format 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="Vidéo à match cuts haute énergie">
-
-**[🎬 Voir la vidéo →](https://x.com/ViralOps_/status/2085069575700246678)**
-
-**Auteur:** [ViralOps](https://x.com/ViralOps_) | **Source:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **Publié:** Aug 5, 2026
-
----
-### Scène traditionnelle de sumo rikishi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt illustrant une scène de sumo traditionnelle japonaise avec des rikishi en mawashi et coiffés d'un chonmage, se concentrant sur le rituel d'avant-combat.
-
-#### 📝 Prompt
-
-```
-Hakke-yoi ! Chacun porte un beau mawashi, avec un élégant chonmage sur la tête. Pourtant, une chose étrange demeure : un rikishi ne pose jamais son avant-bras en shikiri sur le dohyo avant le combat.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Scène traditionnelle de sumo rikishi">
-
-**[🎬 Voir la vidéo →](https://x.com/222TT222/status/2085036219894026485)**
-
-**Auteur:** [TakTempest](https://x.com/222TT222) | **Source:** [Link](https://x.com/222TT222/status/2085036219894026485) | **Publié:** Aug 5, 2026
-
----
-### Duel en cuisine : la mante religieuse moulin à poivre mécanique
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt vidéo macro cinématique pour Gemini Omni représentant une mante religieuse mécanique faite d'un moulin à poivre combattant un cafard sur un comptoir de cuisine, avec un scénario détaillé en plusieurs plans.
-
-#### 📝 Prompt
-
-```
-Objectif macro cinématique, le comptoir de cuisine nocturne est filmé comme une vaste terre désolée métallique. Des miettes, des grains de sel et des fragments d'herbes sont éparpillés comme des rochers et des buissons sur la surface. Le protagoniste est une étrange « mante moulin à poivre » : le corps est un petit moulin à poivre en acier inoxydable argenté, légèrement incliné vers l'avant, avec de longues pattes de mante réelle poussant à la base et sur les côtés, et deux membres antérieurs prédateurs emblématiques en forme de faux à l'avant. Elle n'a pas de tête d'insecte normale ; le corps principal est le moulin à poivre lui-même, se déplaçant avec prudence et de manière mécanique.
-
-Un cafard brun brillant rampe lentement de derrière l'ombre d'une serviette sur la gauche, s'approchant rapidement de la mante moulin à poivre. L'air est tendu, comme lors d'un duel dans une cuisine au milieu de la nuit. La mante moulin à poivre s'arrête soudainement, son corps se redressant légèrement comme pour verrouiller une cible. Puis, elle fait pivoter la tête du moulin, émettant un son mécanique net, et une grande quantité de fragments de poivre noir jaillit du haut et de l'avant comme une grenade fumigène, frappant le cafard directement.
-
-Le cafard est étouffé par le poivre, reculant en panique, les antennes s'agitant sauvagement, les pattes glissant, et il bat rapidement en retraite dans l'ombre sur la gauche. De fines particules de poivre noir et un léger nuage de poudre flottent dans l'air. La mante moulin à poivre reste sur place, les membres antérieurs levés, tel un guerrier nocturne victorieux et calme.
-
-Storyboard chronologique :
-0–3s : Plan macro en très gros plan. La mante moulin à poivre argentée marche lentement sur le comptoir de cuisine, entourée de miettes, de sel et d'herbes. Reflets doux sur la surface métallique, les pattes de la mante bougent de manière réaliste.
-3–6s : Dans l'ombre sur la gauche, un cafard brun apparaît soudainement, s'approchant rapidement de la mante. Léger suivi de caméra, créant de la tension. Les deux se font face brièvement dans un petit espace ouvert.
-6–7s : Le haut du moulin à poivre tourne soudainement rapidement, produisant un son de broyage mécanique. Une grande quantité de poudre de poivre noir jaillit, formant une pulvérisation dense de grains noirs, frappant le cafard de plein fouet.
-7–10s : Le cafard bat en retraite dans la confusion après avoir été stimulé par le poivre, fuyant rapidement dans l'ombre sur la gauche et disparaissant. La poussière de poivre noir flotte dans l'air. La mante moulin à poivre reste immobile, les membres antérieurs levés, montant la garde comme un vainqueur.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Duel en cuisine : la mante religieuse moulin à poivre mécanique">
-
-**[🎬 Voir la vidéo →](https://x.com/jesselaunz/status/2084153849326309450)**
-
-**Auteur:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Source:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Publié:** Aug 3, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -2961,6 +3006,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-09T08:38:51.465Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-09T15:57:12.137Z</sub>
 
 </div>

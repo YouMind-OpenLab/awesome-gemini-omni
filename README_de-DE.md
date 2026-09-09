@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **249** |
+| 📝 Gesamtanzahl Prompts | **255** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-09** |
 
@@ -56,6 +56,181 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Tudor-Modern-Anwesen in den Blue Ridge Mountains
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt für ein luxuriöses, weitläufiges Tudor-Modern-Anwesen, umgeben von herbstlicher Waldkulisse.
+
+#### 📝 Prompt
+
+```
+Quiet Luxury in den Blue Ridge Mountains. Ein weitläufiges Tudor-Modern-Anwesen, das so gestaltet ist, dass der herbstliche Wald in den Wohnraum geholt wird.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097595917574803457/img/moZ8KJSmhTzY09U8.jpg" width="600" alt="Tudor-Modern-Anwesen in den Blue Ridge Mountains">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2097595975770755235)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2097595975770755235) | **Veröffentlicht:** Sep 9, 2026
+
+---
+### Werbespot für Premium-Zitronenlimonade mit Kohlensäure
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein anspruchsvoller, 10-sekündiger filmischer Produkt-Werbespot für eine Zitronenlimonade, der sich auf Makroaufnahmen von Kondenswasser, aufsteigende Kohlensäure und hochauflösende Flüssigkeitsspritzer konzentriert.
+
+#### 📝 Prompt
+
+```
+TITEL:
+Premium-Zitronenlimonade — 10-sekündiger filmischer Produkt-Werbespot
+
+FORMAT:
+• 10-sekündiger Premium-Getränkewerbespot
+• Produktorientiertes filmisches Video
+• Vertikale 3:4-Komposition
+• Luxuriöse Werbeästhetik
+• Das Produkt bleibt der visuelle Mittelpunkt
+• Konsistente Produktidentität während des gesamten Spots
+
+REFERENZ:
+Verwenden Sie das beigefügte Produktbild als primäre visuelle Referenz.
+Behalten Sie die exakte Flaschenform, Proportionen, das Etikett, das Branding und die gesamte Produktidentität bei.
+
+SEQUENZ:
+1. Eiskalte Flasche mit starkem Kondenswasser
+2. Extremes Makro von Wassertropfen, die an der Flasche herablaufen
+3. Öffnen der Flasche mit einem knackigen Kohlensäure-Zischen
+4. Sprudelnde Flüssigkeit, die in einem kontrollierten High-Speed-Spritzer explodiert
+5. Frische Zitronenscheiben, die sich durch das sprudelnde Getränk bewegen
+6. Kristallklares Eis, das in ein Premium-Glas fällt
+7. Makro-Aufnahme von Kohlensäurebläschen, die im Getränk aufsteigen
+8. Abschließende Hero-Packshot-Aufnahme mit Flasche, Glas, Zitrone und gefrorener Flüssigkeit
+
+KAMERA:
+High-Speed-120fps-Ästhetik, extremes Makro, flüssige Produktbewegungen, eingefrorene Flüssigkeitsbewegung, dramatisches Gegenlicht, geringe Schärfentiefe und erstklassige Studiofotografie.
+
+STIL:
+Ultra-realistischer Luxus-Getränkewerbespot, kristallklare Flüssigkeit, physikalisch akkurate Tropfen, realistische Kohlensäure, filmische Reflexionen und hochwertiges Produkt-Rendering.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788944031666_qac34m_HRtedivbMAA_8jh.jpg" width="600" alt="Werbespot für Premium-Zitronenlimonade mit Kohlensäure">
+
+**[🎬 Video ansehen →](https://x.com/AIProductLab18/status/2097373921247191241)**
+
+**Autor:** [AI Product Lab](https://x.com/AIProductLab18) | **Quelle:** [Link](https://x.com/AIProductLab18/status/2097373921247191241) | **Veröffentlicht:** Sep 8, 2026
+
+---
+### Objektpermanenz-Test: Highway
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Benchmarking-Prompt zum Testen der Objektpermanenz, bei dem ein Auto über eine Wüstenstraße fährt und unter einer Betonüberführung hindurchfährt.
+
+#### 📝 Prompt
+
+```
+Eine statische Seitenansicht einer geraden zweispurigen Wüstenstraße. Ein leuchtend gelber Sportwagen mit zwei schwarzen Rennstreifen fährt mit konstanter Geschwindigkeit von links nach rechts, fährt vollständig unter einer Betonüberführung hindurch, bleibt für etwa 2 Sekunden komplett verdeckt, taucht dann in derselben Richtung wieder auf und setzt seine Fahrt nach rechts fort. Einzelne durchgehende Aufnahme, keine Schnitte, keine weiteren Autos, 8–10 Sekunden.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097373871309754368/img/Nro9DWy3wfI4Nm_4.jpg" width="600" alt="Objektpermanenz-Test: Highway">
+
+**[🎬 Video ansehen →](https://x.com/FramezeroAI/status/2097373908408442975)**
+
+**Autor:** [Frame Zero 🎬 | AI Films](https://x.com/FramezeroAI) | **Quelle:** [Link](https://x.com/FramezeroAI/status/2097373908408442975) | **Veröffentlicht:** Sep 8, 2026
+
+---
+### Storyboard für einen Werbespot für knusprige Knoblauch-Nudeln
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine intensive, umfassende und filmische Storyboard-Prompt-Konfiguration, optimiert für Gemini Omni Flash, zur Erstellung eines fotorealistischen 10-Panel-Werberahmens für ein Nudelgericht.
+
+#### 📝 Prompt
+
+```
+TITEL:
+Cinematic Food Commercial Storyboard für Premium knusprige Knoblauch-Nudeln
+
+FORMAT:
+• Einseitiges Premium-Storyboard
+• 3:4 Hochformat-Storyboard-Blatt
+• 10 filmische Panels in einem ausgewogenen redaktionellen Raster
+• Dünne Rahmen zur Trennung jedes Bildes
+• Zusammenhängende Sequenz aus einem durchgehenden Werbespot
+• Premium-Präsentation für Lebensmittelwerbung
+
+HEADER:
+• Moderner, fetter Titel
+• Kompakte Produktionsinformationskarten
+• Dauer: 30 Sekunden
+• Stil: Filmischer Food-Transformation-Werbespot
+• Produkt: Indomie Mi Goreng
+• Audio: Knoblauch-Zischen + Öl-Knistern + Saucen-Gießen + Nudel-Schwenken
+• Visuelle Identität in warmem Bernstein, tiefem Braun und Creme
+
+STORYBOARD:
+1. Versiegelte Indomie Mi Goreng Packung liegt neben einer kleinen Schale mit frischem Knoblauch
+2. Packung öffnet sich, während trockene Nudeln und Gewürztütchen auf den Tisch gleiten
+3. Trockene Nudeln fallen in eine Pfanne mit heißem Wasser
+4. Gekochte Nudeln werden aus der Pfanne gehoben, wobei Dampf aufsteigt
+5. Knoblauch beginnt neben den Nudeln in einer heißen schwarzen Pfanne zu zischen
+6. Gekochte Nudeln fallen direkt in den zischenden Knoblauch
+7. Mi Goreng Gewürze und süße Sojasauce werden über die Nudeln gegossen
+8. Nudeln werden schnell durch die glänzende Knoblauchsauce geschwenkt
+9. Knuspriger Knoblauch und frische grüne Garnitur verteilen sich über die fertigen Nudeln
+10. Letzte Premium-Hero-Aufnahme mit Indomie Packung, Nudelschale und knuspriger Knoblauch-Garnitur
+
+RAHMENKONSISTENZ:
+• Eine durchgehend warme Holzküchenumgebung
+• Dasselbe Indomie Packungsdesign in jedem Bild
+• Dieselbe schwarze Pfanne und matte schwarze Servierschale
+• Dieselben Knoblauch-, Grün-Garnitur- und Gewürzelemente
+• Identische Lichtrichtung und Hintergrund durchgehend
+• Der Fortschritt der Speisen muss physikalisch logisch bleiben
+• Keine unerklärlichen Objektänderungen oder Kontinuitätsfehler
+
+KAMERA:
+Überkopf-Werbeframing, Makro-Food-Einsätze, schnelle kontrollierte Nudel-Schwenks, Zeitlupen-Saucengüsse, Nahaufnahme von zischendem Knoblauch, sanfter Push-in zur finalen Hero-Aufnahme.
+
+VISUELLER STIL:
+Fotorealistische Premium-Lebensmittelwerbung, glänzende Nudeln, knusprige Knoblauchtextur, realistische Ölreflexionen, natürlicher Dampf, reichhaltige Saucenbeschichtung, filmische warme Beleuchtung, hochwertige 8K-Werbequalität.
+
+STORYBOARD-DESIGN:
+Jedes Panel muss wie ein aufeinanderfolgender Videorahmen aus derselben Produktion aussehen. Behalten Sie die identische Umgebung, Requisiten, Produktverpackung, Portionsgrößen, Beleuchtung und visuelle Sprache über alle 10 Panels bei.
+
+NEGATIVE:
+Keine Änderung der Verpackung, keine inkonsistenten Portionsgrößen, keine zufälligen Zutaten, keine andere Küche, keine duplizierten Produkte, kein verzerrtes Logo, kein Cartoon-Erscheinungsbild, keine Kontinuitätsfehler.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788944025659_qes2sn_HRs408KbYAArgU7.jpg" width="600" alt="Storyboard für einen Werbespot für knusprige Knoblauch-Nudeln">
+
+**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2097332563799077126)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2097332563799077126) | **Veröffentlicht:** Sep 8, 2026
+
+---
+### Filmreifes Zitronen-Sprudelgetränk
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmreifer Video-Prompt zur Erstellung eines Werbespots für ein erfrischendes Getränk mit Kondenswasser, Bläschen und schwebenden Zitronenscheiben.
+
+#### 📝 Prompt
+
+```
+Kaltes Glas. Kondenswasser. Schwebende Zitronenscheiben. Hunderte winzige Bläschen, die das Licht einfangen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097295787520868352/img/gmzIUtOV0Ut3jez-.jpg" width="600" alt="Filmreifes Zitronen-Sprudelgetränk">
+
+**[🎬 Video ansehen →](https://x.com/AI_VideoLab/status/2097295811780759996)**
+
+**Autor:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Quelle:** [Link](https://x.com/AI_VideoLab/status/2097295811780759996) | **Veröffentlicht:** Sep 8, 2026
+
+---
 ### Storyboard für Premium-Sprudelzitronen-Werbespot
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -112,11 +287,30 @@ STIL:
 Ultrarealistischer Premium-Getränkewerbespot, kristallklare Flüssigkeit, explosive Kohlensäure, physikalisch korrekte Wassertropfen
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788857248982_gewimj_HRriVPmaIAASM6y.jpg" width="600" alt="Storyboard für Premium-Sprudelzitronen-Werbespot">
+<img src="https://cms-assets.youmind.com/media/1788944028856_d5zoxx_HRriVPmaIAASM6y.jpg" width="600" alt="Storyboard für Premium-Sprudelzitronen-Werbespot">
 
 **[🎬 Video ansehen →](https://x.com/Strength04_X/status/2097237465887338994)**
 
 **Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2097237465887338994) | **Veröffentlicht:** Sep 8, 2026
+
+---
+### Werbespot für Ahornsirup
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Werbe-Prompt für Ahornsirup mit Makro-Aufnahmen der Flüssigkeit und warmer, goldener Beleuchtung.
+
+#### 📝 Prompt
+
+```
+Makro-Aufnahmen der Flüssigkeit, warme goldene Beleuchtung, fließender Sirup, klare Produktinszenierung und eine abschließende Hero-Aufnahme im Freien
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097122751761055744/img/B_0BYRpsP7sKzSOv.jpg" width="600" alt="Werbespot für Ahornsirup">
+
+**[🎬 Video ansehen →](https://x.com/AI_VideoLab/status/2097122773831500230)**
+
+**Autor:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Quelle:** [Link](https://x.com/AI_VideoLab/status/2097122773831500230) | **Veröffentlicht:** Sep 8, 2026
 
 ---
 ### Gourmet-Küche Montage: Kontinuierliche Aufnahme
@@ -2760,155 +2954,6 @@ Niedrige Qualität, Cartoon, Anime, wenig Details, plastikartiges Aussehen, Kör
 **Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Veröffentlicht:** Aug 7, 2026
 
 ---
-### Jelly Octopus Makro-Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter Makro-Cinematografie-Prompt für Gemini Omni, der ein leuchtendes Gel zeigt, das sich in einen elastischen Jelly Octopus verwandelt.
-
-#### 📝 Prompt
-
-```
-Extreme Makro-Cinematografie.
-Eine realistische Hand drückt langsam eine glatte Metalltube mit einer polierten Düse aus. Anstelle von gewöhnlicher Paste fließt ein kristallklares, sanft leuchtendes Gel heraus. Während das Material austritt, verwandelt es sich organisch in einen winzigen, wunderschön geformten „Jelly Octopus“, der Schicht für Schicht in einer kontinuierlichen Bewegung Gestalt annimmt.
-Die fertige Miniatur wirkt glänzend, leicht durchscheinend, weich und elastisch, mit einem subtilen Wackeln, bevor sie natürlich zur Ruhe kommt. Sein runder Kopf federt sanft, während die winzigen Tentakel weich wellen und sich mit lebensechter Elastizität ablegen. Winzige Lichtreflexe wandern über die glatte Oberfläche, während sich das interne Licht sanft im Gel verteilt und einen eleganten Premium-Look erzeugt.
-Das Objekt ruht auf einer dunklen, matten Steinoberfläche, die mit feinen Wassertropfen verziert ist, welche den Realismus und die Reflexionen verstärken.
-
-Stil: Ultra-Makrofotografie
-Hyperrealistisches CGI
-Cinematische Studiobeleuchtung
-Extrem geringe Schärfentiefe
-Reiche Reflexionen
-Premium-Produktwerbung-Ästhetik
-Flüssige, kontinuierliche Transformation
-Knackige Texturen
-Fotorealistische Materialien
-8K-Qualität
-Vertikal 16:9
-30 FPS
-Kein Text
-Keine Kamerabewegung
-Keine störenden Hintergründe
-
-Negativer Prompt: Niedrige Qualität, Cartoon, Anime, wenig Details, plastikartiges Aussehen, Körnung, Rauschen, Flimmern, fehlerhafte Geometrie, deformierte Form, zusätzliche Objekte, Text, Wasserzeichen, Logo, übersättigte Farben, unrealistische Beleuchtung, wackelige Kamera, Bewegungsunschärfe, überladener Hintergrund.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Makro-Transformation">
-
-**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2085559452481261606)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **Veröffentlicht:** Aug 7, 2026
-
----
-### Prähistorisches Höhlenmenschen-Rockkonzert
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Video-Prompt im Dokumentarstil, der prähistorische Menschen zeigt, die auf einer Bühne inmitten von Dinosauriern ein Konzert geben.
-
-#### 📝 Prompt
-
-```
-Eine Konzertszenen-Kulisse in der Urzeit. Höhlenmenschen stehen auf der Bühne und singen in einer unverständlichen Sprache. Dinosaurier laufen ebenfalls umher. Eine große Menschenmenge verfolgt das Konzert. Die Aufnahme soll aus mehreren Einstellungen bestehen und eine natürliche, dokumentarische Kameraführung aufweisen. Der visuelle Stil sollte ultra-realistisch sein.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prähistorisches Höhlenmenschen-Rockkonzert">
-
-**[🎬 Video ansehen →](https://x.com/ozansihay/status/2085420070952649179)**
-
-**Autor:** [Ozan Sihay](https://x.com/ozansihay) | **Quelle:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **Veröffentlicht:** Aug 6, 2026
-
----
-### Von Tuschespritzern zur Landschaftsmalerei
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein beschreibender Prompt für Gemini Omni, der schwarze Tintentropfen auf weißem Hintergrund visualisiert, die sich in eine farbenfrohe Miniatur-Landschaftsmalerei mit cineastischem Zeitlupeneffekt verwandeln.
-
-#### 📝 Prompt
-
-```
-Ein rein weißer Hintergrund füllt den Bildausschnitt. Dicke, schwarze Tintentropfen fallen in Zeitlupe und spritzen wie aufblühende Blumen nach außen. Die Kamera bleibt absolut statisch und fokussiert sich auf die fließende Bewegung. Während sich die Tinte weiter ausbreitet, formen sich die Spritzer subtil zu Bergen, Flüssen und Bäumen. Farben sickern ein – tiefes Blau und Grün –, bis die Tinte vollständig zu einer Miniatur-Landschaftsmalerei wird. Die letzte Sekunde verharrt auf der vollendeten Welt, vollkommen still.
-Stil: abstrakte Schönheit | fließende Bewegung | künstlerische Transformation
-Kamera: statische Makroaufnahme → langsame Enthüllung
-Länge: 10 Sekunden
-Beleuchtung: weiches Studiolicht, hohe Klarheit
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Von Tuschespritzern zur Landschaftsmalerei">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2085178634067923397)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **Veröffentlicht:** Aug 6, 2026
-
----
-### Energiereiches Match-Cut-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein technischer Prompt zur Erstellung eines rasanten 10-sekündigen Videos mit energiereichen Match-Cuts im Takt von zwei Schnitten pro Sekunde im cineastischen 16:9-Format.
-
-#### 📝 Prompt
-
-```
-Erstelle einen 10-sekündigen Clip mit 20 Match-Cuts, 2 Schnitte pro Sekunde. Cineastisch und voller Energie. 16:9-Format.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="Energiereiches Match-Cut-Video">
-
-**[🎬 Video ansehen →](https://x.com/ViralOps_/status/2085069575700246678)**
-
-**Autor:** [ViralOps](https://x.com/ViralOps_) | **Quelle:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **Veröffentlicht:** Aug 5, 2026
-
----
-### Traditionelle Sumo-Rikishi-Szene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der eine traditionelle japanische Sumo-Ringer-Szene mit Rikishi in Mawashi und Chonmage-Frisuren darstellt und sich auf das Ritual vor dem Kampf konzentriert.
-
-#### 📝 Prompt
-
-```
-Hakke-yoi! Jeder trägt einen feinen Mawashi und einen eleganten Chonmage auf dem Kopf. Dennoch bleibt eine seltsame Sache: Ein Rikishi legt vor dem Kampf niemals seinen Unterarm beim Shikiri auf das Dohyo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditionelle Sumo-Rikishi-Szene">
-
-**[🎬 Video ansehen →](https://x.com/222TT222/status/2085036219894026485)**
-
-**Autor:** [TakTempest](https://x.com/222TT222) | **Quelle:** [Link](https://x.com/222TT222/status/2085036219894026485) | **Veröffentlicht:** Aug 5, 2026
-
----
-### Mechanische Pfeffermühlen-Mantis: Küchen-Duell
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein cineastischer Makro-Video-Prompt für Gemini Omni, der eine mechanische Gottesanbeterin aus einer Pfeffermühle zeigt, die auf einer Küchentheke gegen eine Kakerlake kämpft, inklusive einer detaillierten Multi-Shot-Timeline.
-
-#### 📝 Prompt
-
-```
-Cineastische Makro-Objektiv-Aufnahme: Die nächtliche Küchentheke wird wie eine riesige metallische Einöde gefilmt. Krümel, Salzkörner und Kräuterfragmente sind wie Felsen und Büsche auf der Oberfläche verstreut. Der Protagonist ist eine eigenartige „Pfeffermühlen-Mantis“: Der Körper besteht aus einer kleinen silbernen Edelstahl-Pfeffermühle, die leicht vertikal nach vorne geneigt ist. Lange, echte Mantis-Beine wachsen aus der Unterseite und den Seiten, und zwei ikonische, sichelartige Raubbeine befinden sich vorne. Sie hat keinen normalen Insektenkopf; der Hauptkörper ist die Pfeffermühle selbst, die sich vorsichtig und mechanisch bewegt.
-
-Eine glänzend braune Kakerlake kriecht langsam hinter dem Schatten einer Serviette auf der linken Seite hervor und nähert sich schnell der Pfeffermühlen-Mantis. Die Atmosphäre ist angespannt, wie bei einem nächtlichen Duell in der Küche. Die Pfeffermühlen-Mantis hält plötzlich inne, ihr Körper richtet sich leicht auf, als würde sie ein Ziel anvisieren. Dann schnappt der obere Mahlkopf zu, gibt ein knackiges mechanisches Geräusch von sich, und eine große Menge schwarzer Pfefferfragmente sprüht wie eine Rauchgranate aus der Ober- und Vorderseite und trifft die Kakerlake direkt.
-
-Die Kakerlake wird vom Pfeffer erstickt, weicht in Panik zurück, die Fühler schwingen wild, die Füße rutschen weg, und sie zieht sich schnell zurück in den Schatten auf der linken Seite. Feine schwarze Pfefferpartikel und ein leichter Pulvernebel schweben in der Luft. Die Pfeffermühlen-Mantis bleibt an Ort und Stelle, die Vorderbeine hoch erhoben, wie ein gelassen siegreicher Krieger der Nacht.
-
-Timeline-Storyboard:
-0–3s: Ultra-Nahaufnahme im Makro-Modus. Die silberne Pfeffermühlen-Mantis läuft langsam über die Küchentheke, umgeben von Krümeln, Salz und Kräutern. Sanfte Reflexionen auf der Metalloberfläche, die Mantis-Beine bewegen sich realistisch.
-3–6s: Im Schatten auf der linken Seite taucht plötzlich eine braune Kakerlake auf und nähert sich schnell der Mantis. Leichte Kameraverfolgung erzeugt Spannung. Die beiden stehen sich kurz in einem kleinen offenen Bereich gegenüber.
-6–7s: Das Oberteil der Pfeffermühle dreht sich plötzlich schnell und erzeugt ein mechanisches Mahlgeräusch. Eine große Menge schwarzes Pfefferpulver bricht hervor, bildet einen dichten, körnigen schwarzen Sprühnebel und trifft die Kakerlake frontal.
-7–10s: Die Kakerlake weicht nach der Reizung durch den Pfeffer im Chaos zurück, flieht schnell in den Schatten auf der linken Seite und verschwindet. Schwarzer Pfefferstaub schwebt in der Luft. Die Pfeffermühlen-Mantis bleibt unbeweglich, die Vorderbeine erhoben, und hält wie ein Sieger Wache.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mechanische Pfeffermühlen-Mantis: Küchen-Duell">
-
-**[🎬 Video ansehen →](https://x.com/jesselaunz/status/2084153849326309450)**
-
-**Autor:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Quelle:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Veröffentlicht:** Aug 3, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -2961,6 +3006,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-09T08:38:50.282Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-09T15:57:11.130Z</sub>
 
 </div>

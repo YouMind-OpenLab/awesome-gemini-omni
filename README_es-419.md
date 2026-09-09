@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **249** |
+| 📝 Total de prompts | **255** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-09-09** |
 
@@ -56,6 +56,181 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Residencia estilo Tudor moderno en las montañas Blue Ridge
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico de una lujosa y extensa residencia estilo Tudor moderno rodeada por el paisaje de un bosque otoñal.
+
+#### 📝 Prompt
+
+```
+Lujo tranquilo en las montañas Blue Ridge. Una extensa residencia estilo Tudor moderno diseñada para integrar el bosque otoñal en el interior.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097595917574803457/img/moZ8KJSmhTzY09U8.jpg" width="600" alt="Residencia estilo Tudor moderno en las montañas Blue Ridge">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2097595975770755235)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2097595975770755235) | **Publicado:** Sep 9, 2026
+
+---
+### Comercial de bebida de limón con gas premium
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un sofisticado prompt para un comercial cinematográfico de 10 segundos de una bebida de limón con gas, enfocado en tomas macro de condensación, estallidos de carbonatación y salpicaduras de líquido a alta velocidad.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Bebida de limón con gas premium — Comercial cinematográfico de producto de 10 segundos
+
+FORMATO:
+• Comercial de bebida premium de 10 segundos
+• Video cinematográfico enfocado en el producto
+• Composición vertical 3:4
+• Estética publicitaria de lujo
+• El producto permanece como el protagonista visual
+• Identidad de producto consistente en todo momento
+
+REFERENCIA:
+Utilice la imagen del producto adjunta como referencia visual principal.
+Conserve la forma exacta de la botella, las proporciones, la etiqueta, la marca y la identidad general del producto.
+
+SECUENCIA:
+1. Botella helada con condensación intensa
+2. Macro extremo de gotas de agua deslizándose por la botella
+3. Apertura de la botella con un estallido nítido de carbonatación
+4. Líquido con gas explotando en una salpicadura controlada a alta velocidad
+5. Rodajas de limón fresco moviéndose a través de la bebida con gas
+6. Hielo cristalino cayendo en un vaso premium
+7. Burbujas de carbonatación macro subiendo a través de la bebida
+8. Toma final del producto con la botella, el vaso, el limón y el líquido congelado
+
+CÁMARA:
+Estética de alta velocidad a 120 fps, macro extremo, movimiento de producto fluido, movimiento de líquido congelado, contraluz dramático, profundidad de campo reducida y fotografía de estudio premium.
+
+ESTILO:
+Comercial de bebida de lujo ultrarrealista, líquido cristalino, gotas físicamente precisas, carbonatación realista, reflejos cinematográficos y renderizado de producto premium.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788944031666_qac34m_HRtedivbMAA_8jh.jpg" width="600" alt="Comercial de bebida de limón con gas premium">
+
+**[🎬 Ver video →](https://x.com/AIProductLab18/status/2097373921247191241)**
+
+**Autor:** [AI Product Lab](https://x.com/AIProductLab18) | **Fuente:** [Link](https://x.com/AIProductLab18/status/2097373921247191241) | **Publicado:** Sep 8, 2026
+
+---
+### Prueba de permanencia de objeto en carretera
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de evaluación utilizado para probar la permanencia de objeto, donde un automóvil conduce a través de una carretera en el desierto y pasa por debajo de un paso elevado de concreto.
+
+#### 📝 Prompt
+
+```
+Una toma lateral fija de una carretera recta de dos carriles en el desierto. Un automóvil deportivo de color amarillo brillante con dos franjas de carreras negras conduce de izquierda a derecha a velocidad constante, pasa completamente por debajo de un paso elevado de concreto, permanece oculto por completo durante unos 2 segundos, luego reaparece en la misma dirección y continúa hacia la derecha. Toma continua única, sin cortes, sin automóviles adicionales, 8–10 segundos
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097373871309754368/img/Nro9DWy3wfI4Nm_4.jpg" width="600" alt="Prueba de permanencia de objeto en carretera">
+
+**[🎬 Ver video →](https://x.com/FramezeroAI/status/2097373908408442975)**
+
+**Autor:** [Frame Zero 🎬 | AI Films](https://x.com/FramezeroAI) | **Fuente:** [Link](https://x.com/FramezeroAI/status/2097373908408442975) | **Publicado:** Sep 8, 2026
+
+---
+### Storyboard para comercial de fideos crujientes al ajo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una configuración de prompt para storyboard cinematográfico intensa y completa, optimizada para Gemini Omni Flash, que genera un marco publicitario fotorrealista de 10 paneles para un plato de fideos.
+
+#### 📝 Prompt
+
+```
+TÍTULO:
+Storyboard cinematográfico para comercial de fideos crujientes al ajo de alta gama
+
+FORMATO:
+• Storyboard premium de una sola página
+• Hoja de storyboard en formato vertical 3:4
+• 10 paneles cinematográficos en una cuadrícula editorial equilibrada
+• Bordes delgados separando cada cuadro
+• Secuencia conectada de un comercial continuo
+• Presentación publicitaria de alimentos de alta calidad
+
+ENCABEZADO:
+• Título contemporáneo en negrita
+• Tarjetas de información de producción compactas
+• Duración: 30 segundos
+• Estilo: Comercial cinematográfico de transformación de alimentos
+• Producto: Indomie Mi Goreng
+• Audio: Chisporroteo de ajo + Crujido de aceite + Vertido de salsa + Salteado de fideos
+• Identidad visual en tonos ámbar cálido, marrón intenso y crema
+
+STORYBOARD:
+1. El paquete sellado de Indomie Mi Goreng descansa junto a un pequeño tazón de ajo fresco
+2. El paquete se abre mientras los fideos secos y los sobres de condimento se deslizan sobre la mesa
+3. Los fideos secos caen en una sartén con agua caliente
+4. Los fideos cocidos se levantan de la sartén con vapor ascendente
+5. El ajo comienza a chisporrotear en una sartén negra caliente junto a los fideos
+6. Los fideos cocidos caen directamente sobre el ajo chisporroteante
+7. El condimento Mi Goreng y la salsa de soja dulce se vierten sobre los fideos
+8. Los fideos se saltean rápidamente a través de la brillante salsa de ajo
+9. Ajo crujiente y aderezos verdes frescos se esparcen sobre los fideos terminados
+10. Toma final de producto estrella con el paquete de Indomie, el tazón de fideos y la guarnición de ajo crujiente
+
+CONSISTENCIA DE CUADRO:
+• Un entorno de cocina de madera cálida y continua
+• El mismo diseño de paquete de Indomie en cada cuadro
+• La misma sartén negra y tazón de servicio negro mate
+• Los mismos elementos de ajo, guarnición verde y condimentos
+• Dirección de iluminación y fondo idénticos en todo momento
+• La progresión de los alimentos debe seguir siendo físicamente lógica
+• Sin cambios de objetos inexplicables ni errores de continuidad
+
+CÁMARA:
+Encuadre comercial cenital, inserciones macro de alimentos, salteados de fideos rápidos y controlados, vertidos de salsa en cámara lenta, primer plano de ajo chisporroteante, suave acercamiento hacia la toma final de producto estrella.
+
+ESTILO VISUAL:
+Publicidad de alimentos fotorrealista de alta calidad, fideos brillantes, textura de ajo crujiente, reflejos de aceite realistas, vapor natural, cobertura de salsa rica, iluminación cálida cinematográfica, calidad comercial 8K de gama alta.
+
+DISEÑO DEL STORYBOARD:
+Cada panel debe parecer un cuadro de video consecutivo de la misma producción. Mantenga el entorno, los accesorios, el empaque del producto, las porciones de comida, la iluminación y el lenguaje visual idénticos en los 10 paneles.
+
+NEGATIVO:
+Sin cambios de empaque, sin porciones de comida inconsistentes, sin ingredientes aleatorios, sin cocinas diferentes, sin productos duplicados, sin logotipos distorsionados, sin apariencia de dibujos animados, sin errores de continuidad.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788944025659_qes2sn_HRs408KbYAArgU7.jpg" width="600" alt="Storyboard para comercial de fideos crujientes al ajo">
+
+**[🎬 Ver video →](https://x.com/Strength04_X/status/2097332563799077126)**
+
+**Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2097332563799077126) | **Publicado:** Sep 8, 2026
+
+---
+### Bebida gaseosa de limón cinematográfica
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video cinematográfico para generar un comercial de una bebida refrescante con condensación, burbujas y rodajas de limón flotantes.
+
+#### 📝 Prompt
+
+```
+Vaso frío. Condensación. Rodajas de limón flotantes. Cientos de pequeñas burbujas capturando la luz.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097295787520868352/img/gmzIUtOV0Ut3jez-.jpg" width="600" alt="Bebida gaseosa de limón cinematográfica">
+
+**[🎬 Ver video →](https://x.com/AI_VideoLab/status/2097295811780759996)**
+
+**Autor:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Fuente:** [Link](https://x.com/AI_VideoLab/status/2097295811780759996) | **Publicado:** Sep 8, 2026
+
+---
 ### Storyboard para comercial de bebida de limón premium con gas
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -112,11 +287,30 @@ ESTILO:
 Comercial de bebidas premium ultra realista, líquido cristalino, carbonatación explosiva, gotas de agua físicamente precisas
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788857248982_gewimj_HRriVPmaIAASM6y.jpg" width="600" alt="Storyboard para comercial de bebida de limón premium con gas">
+<img src="https://cms-assets.youmind.com/media/1788944028856_d5zoxx_HRriVPmaIAASM6y.jpg" width="600" alt="Storyboard para comercial de bebida de limón premium con gas">
 
 **[🎬 Ver video →](https://x.com/Strength04_X/status/2097237465887338994)**
 
 **Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2097237465887338994) | **Publicado:** Sep 8, 2026
+
+---
+### Comercial de producto de jarabe de arce
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt publicitario cinematográfico para jarabe de arce que incluye tomas macro de líquidos e iluminación dorada cálida.
+
+#### 📝 Prompt
+
+```
+tomas macro de líquidos, iluminación dorada cálida, jarabe fluyendo, encuadre limpio del producto y una toma final del producto en exteriores
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097122751761055744/img/B_0BYRpsP7sKzSOv.jpg" width="600" alt="Comercial de producto de jarabe de arce">
+
+**[🎬 Ver video →](https://x.com/AI_VideoLab/status/2097122773831500230)**
+
+**Autor:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Fuente:** [Link](https://x.com/AI_VideoLab/status/2097122773831500230) | **Publicado:** Sep 8, 2026
 
 ---
 ### Toma continua de montaje de cocina gourmet
@@ -2717,155 +2911,6 @@ Baja calidad, caricatura, anime, poco detalle, apariencia de plástico, grano, r
 **Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Publicado:** Aug 7, 2026
 
 ---
-### Transformación macro de pulpo de gelatina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de cinematografía macro altamente detallado para Gemini Omni que representa un gel brillante transformándose en un pulpo de gelatina elástico.
-
-#### 📝 Prompt
-
-```
-Cinematografía macro en primer plano extremo.
-Una mano realista aprieta lentamente un tubo metálico elegante con una boquilla pulida. En lugar de pasta común, un gel cristalino y suavemente brillante fluye con fluidez. A medida que el material emerge, se transforma orgánicamente en un pequeño y bellamente esculpido "Jelly Octopus", tomando forma capa por capa en un movimiento continuo.
-La miniatura terminada se ve brillante, ligeramente translúcida, suave y elástica, con un ligero bamboleo antes de asentarse de forma natural. Su cabeza redondeada rebota suavemente mientras los diminutos tentáculos se ondulan con suavidad y se asientan con una elasticidad realista. Pequeños reflejos recorren su superficie lisa mientras la luz interna se difunde suavemente a través del gel, creando un aspecto elegante y premium.
-El objeto descansa sobre una superficie de piedra mate oscura decorada con delicadas gotas de agua que realzan el realismo y los reflejos.
-
-Estilo: Fotografía ultra macro
-CGI hiperrealista
-Iluminación de estudio cinematográfica
-Profundidad de campo extremadamente reducida
-Reflejos ricos
-Estética comercial de producto premium
-Transformación continua y fluida
-Texturas nítidas
-Materiales fotorrealistas
-Calidad 8K
-Vertical 16:9
-30 FPS
-Sin texto
-Sin movimiento de cámara
-Sin distracciones en el fondo
-
-Prompt negativo: Baja calidad, caricatura, anime, poco detalle, apariencia de plástico, grano, ruido, parpadeo, geometría rota, forma deformada, objetos adicionales, texto, marca de agua, logotipo, colores sobresaturados, iluminación poco realista, cámara temblorosa, desenfoque de movimiento, fondo desordenado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Transformación macro de pulpo de gelatina">
-
-**[🎬 Ver video →](https://x.com/Strength04_X/status/2085559452481261606)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **Publicado:** Aug 7, 2026
-
----
-### Concierto de rock de cavernícolas prehistóricos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video estilo documental que presenta a humanos prehistóricos dando un concierto en un escenario rodeados de dinosaurios.
-
-#### 📝 Prompt
-
-```
-Una escena de concierto ambientada en tiempos prehistóricos. Hay cavernícolas en el escenario, personas prehistóricas, cantando en un idioma ininteligible. También hay dinosaurios deambulando. Hay una comunidad numerosa viendo el concierto. La grabación será con múltiples tomas y debe tener una sensación de cámara natural y documental. El estilo visual debe ser ultra realista.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Concierto de rock de cavernícolas prehistóricos">
-
-**[🎬 Ver video →](https://x.com/ozansihay/status/2085420070952649179)**
-
-**Autor:** [Ozan Sihay](https://x.com/ozansihay) | **Fuente:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **Publicado:** Aug 6, 2026
-
----
-### De salpicadura de tinta a pintura de paisaje
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt descriptivo para Gemini Omni que visualiza gotas de tinta negra sobre un fondo blanco transformándose en una colorida pintura de paisaje en miniatura con una sensación cinematográfica en cámara lenta.
-
-#### 📝 Prompt
-
-```
-Un fondo blanco puro llena el encuadre. Gotas de tinta negra espesa caen en cámara lenta, salpicando hacia afuera como flores que florecen. La cámara está perfectamente estática, enfocándose en el movimiento fluido. A medida que la tinta se extiende, las formas se transforman sutilmente en montañas, ríos y árboles. El color se filtra (azules y verdes profundos) hasta que la tinta se convierte por completo en una pintura de paisaje en miniatura. El último segundo se detiene en el mundo completado, perfectamente inmóvil.
-Estilo: belleza abstracta | movimiento fluido | transformación artística
-Cámara: macro estática → revelación lenta
-Duración: 10 segundos
-Iluminación: luz de estudio suave, alta claridad
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="De salpicadura de tinta a pintura de paisaje">
-
-**[🎬 Ver video →](https://x.com/MrDasOnX/status/2085178634067923397)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **Publicado:** Aug 6, 2026
-
----
-### Video con cortes de montaje dinámicos y de alta energía
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt técnico para generar un video de ritmo rápido de 10 segundos que presenta cortes de montaje de alta energía a una velocidad de dos por segundo en una relación de aspecto cinematográfica de 16:9.
-
-#### 📝 Prompt
-
-```
-genera un clip de 10s con 20 cortes de montaje, 2 cortes por segundo. cinematográfico y de alta energía. relación de aspecto 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="Video con cortes de montaje dinámicos y de alta energía">
-
-**[🎬 Ver video →](https://x.com/ViralOps_/status/2085069575700246678)**
-
-**Autor:** [ViralOps](https://x.com/ViralOps_) | **Fuente:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **Publicado:** Aug 5, 2026
-
----
-### Escena tradicional de un luchador de sumo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt que representa una escena tradicional de lucha de sumo japonesa con rikishi vistiendo mawashi y peinados chonmage, centrándose en el ritual previo al combate.
-
-#### 📝 Prompt
-
-```
-¡Hakke-yoi! Cada uno viste un fino mawashi, con un elegante chonmage sobre la cabeza. Aun así, queda algo extraño: un rikishi nunca coloca su antebrazo en shikiri sobre el dohyo antes de la pelea.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Escena tradicional de un luchador de sumo">
-
-**[🎬 Ver video →](https://x.com/222TT222/status/2085036219894026485)**
-
-**Autor:** [TakTempest](https://x.com/222TT222) | **Fuente:** [Link](https://x.com/222TT222/status/2085036219894026485) | **Publicado:** Aug 5, 2026
-
----
-### Duelo en la cocina: Mantis molinillo de pimienta mecánico
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de video macro cinematográfico para Gemini Omni que representa a una mantis mecánica hecha de un molinillo de pimienta luchando contra una cucaracha en la encimera de una cocina, con una línea de tiempo detallada de múltiples tomas.
-
-#### 📝 Prompt
-
-```
-Lente macro cinematográfica; la encimera de la cocina durante la noche es filmada como un vasto páramo de metal. Migajas, granos de sal y fragmentos de hierbas están esparcidos como rocas y arbustos sobre la superficie. El protagonista es una peculiar 'Mantis Molinillo de Pimienta': el cuerpo es un pequeño molinillo de pimienta de acero inoxidable plateado, inclinado ligeramente hacia adelante en posición vertical, con largas patas de mantis real que brotan de la parte inferior y los lados, y dos icónicas extremidades delanteras depredadoras en forma de guadaña. No tiene una cabeza de insecto normal; el cuerpo principal es el propio molinillo de pimienta, moviéndose con cautela y de forma mecánica.
-
-Una cucaracha marrón brillante sale lentamente de detrás de la sombra de una servilleta a la izquierda, acercándose rápidamente a la mantis molinillo. El aire es tenso, como un duelo en la cocina a altas horas de la noche. La mantis molinillo se detiene de repente, su cuerpo se eleva ligeramente como si fijara un objetivo. Luego, hace girar la parte superior del cabezal de molienda, emitiendo un sonido mecánico nítido, y una gran cantidad de fragmentos de pimienta negra salen disparados desde la parte superior y frontal como una granada de humo, golpeando a la cucaracha directamente.
-
-La cucaracha, ahogada por la pimienta, retrocede en pánico, con las antenas agitándose salvajemente, las patas resbalando, y huye rápidamente de vuelta a la sombra a la izquierda. Finas partículas de pimienta negra y una ligera niebla de polvo flotan en el aire. La mantis molinillo permanece en su lugar, con las extremidades delanteras en alto, como un guerrero nocturno que ha ganado con calma.
-
-Guion gráfico de la línea de tiempo:
-0–3s: Toma macro en ultra primer plano. La mantis molinillo de pimienta plateada camina lentamente sobre la encimera de la cocina, rodeada de migajas, sal y hierbas. Reflejos suaves sobre la superficie metálica, las patas de la mantis se mueven de forma realista.
-3–6s: En las sombras a la izquierda, una cucaracha marrón aparece de repente, acercándose rápidamente a la mantis. Ligero seguimiento de cámara, creando tensión. Ambos se enfrentan brevemente en una pequeña área abierta.
-6–7s: La parte superior del molinillo de pimienta gira repentinamente con rapidez, produciendo un sonido mecánico de molienda. Una gran cantidad de polvo de pimienta negra estalla, formando un denso rocío negro granular que golpea a la cucaracha de frente.
-7–10s: La cucaracha retrocede en medio del caos tras ser afectada por la pimienta, huyendo rápidamente hacia la sombra a la izquierda y desapareciendo. Polvo de pimienta negra flota en el aire. La mantis molinillo permanece inmóvil, con las extremidades delanteras levantadas, montando guardia como un vencedor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Duelo en la cocina: Mantis molinillo de pimienta mecánico">
-
-**[🎬 Ver video →](https://x.com/jesselaunz/status/2084153849326309450)**
-
-**Autor:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Fuente:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Publicado:** Aug 3, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -2918,6 +2963,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-09T08:38:48.997Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-09T15:57:09.942Z</sub>
 
 </div>

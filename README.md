@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **249** |
+| 📝 Total Prompts | **255** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-09** |
 
@@ -56,11 +56,186 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
-### Premium Sparkling Lemon Commercial Storyboard
+### Tudor Modern Estate in Blue Ridge Mountains
 
 ![English](https://img.shields.io/badge/lang-English-blue)
 
-> A detailed storyboard prompt for a high-speed cinematic beverage commercial, highlighting carbonation, macro splashes, and luxury branding.
+> A cinematic video prompt of a luxurious, sprawling Tudor-modern estate surrounded by autumn forest scenery.
+
+#### 📝 Prompt
+
+```
+Quiet luxury in the Blue Ridge mountains. A sprawling Tudor-modern estate designed to bring the autumn forest indoors.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097595917574803457/img/moZ8KJSmhTzY09U8.jpg" width="600" alt="Tudor Modern Estate in Blue Ridge Mountains">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2097595975770755235)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2097595975770755235) | **Published:** Sep 9, 2026
+
+---
+### Premium Sparkling Lemon Drink Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A sophisticated 10-second cinematic product commercial prompt for a sparkling lemon drink, focusing on macro shots of condensation, carbonation bursts, and high-speed liquid splashes.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Premium Sparkling Lemon Drink — 10-Second Cinematic Product Commercial
+
+FORMAT:
+• 10-second premium beverage commercial
+• Product-focused cinematic video
+• Vertical 3:4 composition
+• Luxury advertising aesthetic
+• Product remains the visual hero
+• Consistent product identity throughout
+
+REFERENCE:
+Use the attached product image as the primary visual reference.
+Preserve the exact bottle shape, proportions, label, branding and overall product identity.
+
+SEQUENCE:
+1. Ice-cold bottle with heavy condensation
+2. Extreme macro of water droplets sliding across the bottle
+3. Bottle opening with a crisp carbonation burst
+4. Sparkling liquid exploding in a controlled high-speed splash
+5. Fresh lemon slices moving through the sparkling drink
+6. Crystal-clear ice dropping into a premium glass
+7. Macro carbonation bubbles rising through the drink
+8. Final hero packshot with bottle, glass, lemon and frozen liquid
+
+CAMERA:
+High-speed 120fps aesthetic, extreme macro, smooth product movement, frozen liquid motion, dramatic backlight, shallow depth of field and premium studio photography.
+
+STYLE:
+Ultra-realistic luxury beverage commercial, crystal-clear liquid, physically accurate droplets, realistic carbonation, cinematic reflections and premium product rendering.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788944031666_qac34m_HRtedivbMAA_8jh.jpg" width="600" alt="Premium Sparkling Lemon Drink Commercial">
+
+**[🎬 Watch Video →](https://x.com/AIProductLab18/status/2097373921247191241)**
+
+**Author:** [AI Product Lab](https://x.com/AIProductLab18) | **Source:** [Link](https://x.com/AIProductLab18/status/2097373921247191241) | **Published:** Sep 8, 2026
+
+---
+### Object Permanence Highway Test
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A benchmarking prompt used to test object permanence where a car drives across a desert highway and passes under a concrete overpass.
+
+#### 📝 Prompt
+
+```
+A locked-off side-view shot of a straight two-lane desert highway. A bright yellow sports car with twin black racing stripes drives left to right at constant speed, passes completely under a concrete overpass, stays fully hidden for about 2 seconds, then re-emerges on the same heading and continues right. Single continuous take, no cuts, no extra cars, 8–10 seconds
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097373871309754368/img/Nro9DWy3wfI4Nm_4.jpg" width="600" alt="Object Permanence Highway Test">
+
+**[🎬 Watch Video →](https://x.com/FramezeroAI/status/2097373908408442975)**
+
+**Author:** [Frame Zero 🎬 | AI Films](https://x.com/FramezeroAI) | **Source:** [Link](https://x.com/FramezeroAI/status/2097373908408442975) | **Published:** Sep 8, 2026
+
+---
+### Crispy Garlic Noodles Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> An intense, comprehensive cinematic storyboard prompt configuration optimized for Gemini Omni Flash, generating a 10-panel photorealistic commercial framework for a noodle dish.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Premium Crispy Garlic Noodles Cinematic Food Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic panels in a balanced editorial grid
+• Thin borders separating every frame
+• Connected sequence from one continuous commercial
+• Premium food advertising presentation
+
+HEADER:
+• Bold contemporary title
+• Compact production information cards
+• Duration: 30 Seconds
+• Style: Cinematic Food Transformation Commercial
+• Product: Indomie Mi Goreng
+• Audio: Garlic Sizzle + Oil Crackle + Sauce Pour + Noodle Toss
+• Warm amber, deep brown and cream visual identity
+
+STORYBOARD:
+1. Sealed Indomie Mi Goreng packet rests beside a small bowl of fresh garlic
+2. Packet opens as dry noodles and seasoning sachets slide onto the table
+3. Dry noodles drop into a pan of hot water
+4. Cooked noodles are lifted from the pan with steam rising
+5. Garlic begins sizzling in a hot black skillet beside the noodles
+6. Cooked noodles fall directly into the sizzling garlic
+7. Mi Goreng seasoning and sweet soy sauce pour over the noodles
+8. Noodles are tossed rapidly through the glossy garlic sauce
+9. Crispy garlic and fresh green toppings scatter across the finished noodles
+10. Final premium hero shot with Indomie packet, bowl of noodles and crispy garlic garnish
+
+FRAME CONSISTENCY:
+• One continuous warm wooden kitchen environment
+• Same Indomie packet design in every frame
+• Same black skillet and matte black serving bowl
+• Same garlic, green garnish and seasoning elements
+• Identical lighting direction and background throughout
+• Food progression must remain physically logical
+• No unexplained object changes or continuity errors
+
+CAMERA:
+Overhead commercial framing, macro food inserts, fast controlled noodle tosses, slow-motion sauce pours, close-up sizzling garlic, smooth push-in toward final hero shot.
+
+VISUAL STYLE:
+Photorealistic premium food advertising, glossy noodles, crispy garlic texture, realistic oil reflections, natural steam, rich sauce coating, cinematic warm lighting, high-end 8K commercial quality.
+
+STORYBOARD DESIGN:
+Every panel must look like a consecutive video frame from the same production. Maintain identical environment, props, product packaging, food portions, lighting and visual language across all 10 panels.
+
+NEGATIVE:
+No changing packaging, no inconsistent food portions, no random ingredients, no different kitchen, no duplicated products, no distorted logo, no cartoon appearance, no continuity errors.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788944025659_qes2sn_HRs408KbYAArgU7.jpg" width="600" alt="Crispy Garlic Noodles Commercial Storyboard">
+
+**[🎬 Watch Video →](https://x.com/Strength04_X/status/2097332563799077126)**
+
+**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2097332563799077126) | **Published:** Sep 8, 2026
+
+---
+### Cinematic Lemon Sparkling Drink
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic video prompt for generating a refreshing beverage commercial with condensation, bubbles, and floating lemon slices.
+
+#### 📝 Prompt
+
+```
+Cold glass. Condensation. Floating lemon slices. Hundreds of tiny bubbles catching the light.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097295787520868352/img/gmzIUtOV0Ut3jez-.jpg" width="600" alt="Cinematic Lemon Sparkling Drink">
+
+**[🎬 Watch Video →](https://x.com/AI_VideoLab/status/2097295811780759996)**
+
+**Author:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Source:** [Link](https://x.com/AI_VideoLab/status/2097295811780759996) | **Published:** Sep 8, 2026
+
+---
+### Sparkling Lemon Drink Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed high-speed cinematic beverage commercial storyboard prompt tailored for Gemini Omni Flash, focusing on premium liquid macro photography and precise shot progression.
 
 #### 📝 Prompt
 
@@ -112,11 +287,30 @@ STYLE:
 Ultra-realistic premium beverage commercial, crystal-clear liquid, explosive carbonation, physically accurate water droplets
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788857248982_gewimj_HRriVPmaIAASM6y.jpg" width="600" alt="Premium Sparkling Lemon Commercial Storyboard">
+<img src="https://cms-assets.youmind.com/media/1788944028856_d5zoxx_HRriVPmaIAASM6y.jpg" width="600" alt="Sparkling Lemon Drink Commercial Storyboard">
 
 **[🎬 Watch Video →](https://x.com/Strength04_X/status/2097237465887338994)**
 
 **Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2097237465887338994) | **Published:** Sep 8, 2026
+
+---
+### Maple Syrup Product Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A cinematic ad prompt for maple syrup featuring macro liquid shots and warm golden lighting.
+
+#### 📝 Prompt
+
+```
+macro liquid shots, warm golden lighting, flowing syrup, clean product framing, and a final outdoor hero shot
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097122751761055744/img/B_0BYRpsP7sKzSOv.jpg" width="600" alt="Maple Syrup Product Commercial">
+
+**[🎬 Watch Video →](https://x.com/AI_VideoLab/status/2097122773831500230)**
+
+**Author:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Source:** [Link](https://x.com/AI_VideoLab/status/2097122773831500230) | **Published:** Sep 8, 2026
 
 ---
 ### Gourmet Kitchen Assembly Continuous Shot
@@ -2682,155 +2876,6 @@ Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flick
 **Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Published:** Aug 7, 2026
 
 ---
-### Jelly Octopus Macro Transformation
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed macro cinematography prompt for Gemini Omni that depicts a glowing gel transforming into an elastic jelly octopus.
-
-#### 📝 Prompt
-
-```
-Extreme close-up macro cinematography. 
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Jelly Octopus", taking shape layer by layer in one continuous motion.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. Its rounded head gently bounces while the tiny tentacles softly ripple and settle with lifelike elasticity. Tiny highlights travel across its smooth surface while internal light softly diffuses through the gel, creating an elegant premium look.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
-
-Style: Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
-30 FPS
-No text
-No camera movement
-No background distractions
-
-Negative Prompt: Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jelly Octopus Macro Transformation">
-
-**[🎬 Watch Video →](https://x.com/Strength04_X/status/2085559452481261606)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **Published:** Aug 7, 2026
-
----
-### Prehistoric Caveman Rock Concert
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A documentary-style video prompt featuring prehistoric humans performing a concert on stage surrounded by dinosaurs.
-
-#### 📝 Prompt
-
-```
-A concert scene set in prehistoric times. There are cavemen on stage, prehistoric people, singing in an unintelligible language. Dinosaurs are also roaming around. There is a crowded community watching the concert. The shooting will be multi-shot, it should have a natural and documentary-like camera feel. The visual style should be ultra-realistic.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Prehistoric Caveman Rock Concert">
-
-**[🎬 Watch Video →](https://x.com/ozansihay/status/2085420070952649179)**
-
-**Author:** [Ozan Sihay](https://x.com/ozansihay) | **Source:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **Published:** Aug 6, 2026
-
----
-### Ink Splash to Landscape Painting
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A descriptive prompt for Gemini Omni that visualizes black ink drops on a white background transforming into a colorful miniature landscape painting with a cinematic slow-motion feel.
-
-#### 📝 Prompt
-
-```
-A pure white background fills the frame. Thick black ink drops fall in slow motion, splashing outward like blooming flowers. The camera is perfectly static, focusing on the fluid motion. As more ink spreads, the shapes subtly transform into mountains, rivers, and trees. Color seeps in—deep blues and greens—until the ink fully becomes a miniature landscape painting. The final second holds on the completed world, perfectly still.
-Style: abstract beauty | fluid motion | artistic transformation
-Camera: static macro → slow reveal
-Length: 10 seconds
-Lighting: soft studio light, high clarity
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Ink Splash to Landscape Painting">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2085178634067923397)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **Published:** Aug 6, 2026
-
----
-### High-Energy Match Cut Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A technical prompt for generating a fast-paced 10-second video featuring high-energy match cuts at a rate of two per second in a cinematic 16:9 aspect ratio.
-
-#### 📝 Prompt
-
-```
-generate a 10s clip having 20 match cuts, 2 cuts per second. cinematic and high energy. 16:9 ratio.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="High-Energy Match Cut Video">
-
-**[🎬 Watch Video →](https://x.com/ViralOps_/status/2085069575700246678)**
-
-**Author:** [ViralOps](https://x.com/ViralOps_) | **Source:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **Published:** Aug 5, 2026
-
----
-### Traditional Sumo Rikishi Scene
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt depicting a traditional Japanese sumo wrestling scene with rikishi in mawashi and chonmage hairstyles, focusing on the pre-fight ritual.
-
-#### 📝 Prompt
-
-```
-Hakke-yoi! Each wears a fine mawashi, with a dandy chonmage atop the head. Still, one strange thing remains: a rikishi never places his forearm in shikiri on the dohyo before the fight.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Traditional Sumo Rikishi Scene">
-
-**[🎬 Watch Video →](https://x.com/222TT222/status/2085036219894026485)**
-
-**Author:** [TakTempest](https://x.com/222TT222) | **Source:** [Link](https://x.com/222TT222/status/2085036219894026485) | **Published:** Aug 5, 2026
-
----
-### Mechanical Pepper Grinder Mantis Kitchen Duel
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A cinematic macro video prompt for Gemini Omni that depicts a mechanical mantis made of a pepper grinder battling a cockroach on a kitchen counter, complete with a detailed multi-shot timeline.
-
-#### 📝 Prompt
-
-```
-Macro cinematic lens, the night kitchen countertop is filmed like a vast metal wasteland. Crumbs, salt grains, and herb fragments are scattered like rocks and bushes on the surface. The protagonist is a peculiar 'Pepper Grinder Mantis': the body is a small silver stainless steel pepper grinder, tilted slightly forward vertically, with long real mantis legs growing from the bottom and sides, and two iconic scythe-like predatory forelimbs in front. It has no normal insect head; the main body is the pepper grinder itself, moving cautiously and mechanically.
-
-A shiny brown cockroach slowly crawls out from behind the shadow of a napkin on the left, quickly approaching the pepper grinder mantis. The air is tense, like a late-night kitchen duel. The pepper grinder mantis suddenly stops, its body rising slightly as if locking onto a target. Then it snaps the top grinding head, emitting a crisp mechanical sound, and a large amount of black pepper fragments spray out from the top and front like a smoke grenade, hitting the cockroach directly.
-
-The cockroach is choked by the pepper, retreating in panic, antennae swinging wildly, feet slipping, and quickly retreats back into the shadow on the left. Fine black pepper particles and a slight powder mist float in the air. The pepper grinder mantis remains in place, forelimbs held high, like a calmly winning night warrior.
-
-Timeline Storyboard:
-0–3s: Ultra close-up macro shot. The silver pepper grinder mantis walks slowly on the kitchen counter, surrounded by crumbs, salt, and herbs. Soft reflections on the metal surface, mantis legs move realistically.
-3–6s: In the shadows on the left, a brown cockroach suddenly appears, quickly approaching the mantis. Slight camera follow, creating tension. The two face off briefly in a small open area.
-6–7s: The top of the pepper grinder suddenly rotates quickly, making a mechanical grinding sound. A large amount of black pepper powder bursts out, forming a dense granular black spray, hitting the cockroach head-on.
-7–10s: The cockroach retreats in chaos after being stimulated by the pepper, quickly fleeing into the shadow on the left and disappearing. Black pepper dust floats in the air. The pepper grinder mantis remains still, forelimbs raised, standing guard like a victor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mechanical Pepper Grinder Mantis Kitchen Duel">
-
-**[🎬 Watch Video →](https://x.com/jesselaunz/status/2084153849326309450)**
-
-**Author:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Source:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Published:** Aug 3, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2883,6 +2928,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-09T08:38:37.220Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-09T15:57:00.361Z</sub>
 
 </div>

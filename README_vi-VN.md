@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **249** |
+| 📝 Tổng số prompt | **255** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-09** |
 
@@ -56,6 +56,181 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Biệt thự Tudor hiện đại tại dãy núi Blue Ridge
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh tạo video điện ảnh về một khu biệt thự Tudor hiện đại, sang trọng và rộng lớn, bao quanh bởi khung cảnh rừng thu.
+
+#### 📝 Prompt
+
+```
+Sự sang trọng tĩnh lặng tại dãy núi Blue Ridge. Một khu biệt thự Tudor hiện đại, rộng lớn được thiết kế để mang cả không gian rừng thu vào bên trong ngôi nhà.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097595917574803457/img/moZ8KJSmhTzY09U8.jpg" width="600" alt="Biệt thự Tudor hiện đại tại dãy núi Blue Ridge">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2097595975770755235)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2097595975770755235) | **Đã xuất bản:** Sep 9, 2026
+
+---
+### Quảng cáo đồ uống chanh sủi bọt cao cấp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý (prompt) quảng cáo sản phẩm điện ảnh 10 giây tinh tế cho đồ uống chanh sủi bọt, tập trung vào các cảnh quay cận cảnh (macro) về độ ngưng tụ, sự bùng nổ của bọt ga và những tia nước bắn tung tóe tốc độ cao.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ:
+Đồ uống chanh sủi bọt cao cấp — Quảng cáo sản phẩm điện ảnh 10 giây
+
+ĐỊNH DẠNG:
+• Quảng cáo đồ uống cao cấp 10 giây
+• Video điện ảnh tập trung vào sản phẩm
+• Bố cục dọc 3:4
+• Thẩm mỹ quảng cáo sang trọng
+• Sản phẩm là tâm điểm thị giác
+• Nhận diện sản phẩm nhất quán xuyên suốt
+
+THAM CHIẾU:
+Sử dụng hình ảnh sản phẩm đính kèm làm tham chiếu thị giác chính.
+Giữ nguyên hình dáng chai, tỷ lệ, nhãn mác, thương hiệu và nhận diện sản phẩm tổng thể.
+
+TRÌNH TỰ:
+1. Chai nước lạnh buốt với lớp ngưng tụ dày đặc
+2. Cận cảnh cực đại các giọt nước trượt trên thân chai
+3. Mở nắp chai với tiếng sủi bọt giòn tan
+4. Chất lỏng sủi bọt bắn tung tóe trong kiểm soát ở tốc độ cao
+5. Những lát chanh tươi di chuyển trong đồ uống sủi bọt
+6. Đá viên trong vắt rơi vào ly cao cấp
+7. Cận cảnh bọt ga nổi lên trong đồ uống
+8. Hình ảnh cuối cùng với chai, ly, chanh và chất lỏng đóng băng
+
+CAMERA:
+Thẩm mỹ tốc độ cao 120fps, cận cảnh cực đại, chuyển động sản phẩm mượt mà, chuyển động chất lỏng đóng băng, đèn nền ấn tượng, độ sâu trường ảnh nông và nhiếp ảnh studio cao cấp.
+
+PHONG CÁCH:
+Quảng cáo đồ uống sang trọng siêu thực, chất lỏng trong vắt, các giọt nước chính xác về mặt vật lý, bọt ga chân thực, phản chiếu điện ảnh và kết xuất sản phẩm cao cấp.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788944031666_qac34m_HRtedivbMAA_8jh.jpg" width="600" alt="Quảng cáo đồ uống chanh sủi bọt cao cấp">
+
+**[🎬 Xem video →](https://x.com/AIProductLab18/status/2097373921247191241)**
+
+**Tác giả:** [AI Product Lab](https://x.com/AIProductLab18) | **Nguồn:** [Link](https://x.com/AIProductLab18/status/2097373921247191241) | **Đã xuất bản:** Sep 8, 2026
+
+---
+### Kiểm tra tính bền vững của vật thể trên đường cao tốc
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh đánh giá hiệu năng được sử dụng để kiểm tra tính bền vững của vật thể, trong đó một chiếc xe chạy dọc theo đường cao tốc trên sa mạc và đi qua bên dưới một cầu vượt bê tông.
+
+#### 📝 Prompt
+
+```
+Một cảnh quay góc nhìn ngang cố định về một đoạn đường cao tốc hai làn thẳng tắp trên sa mạc. Một chiếc xe thể thao màu vàng tươi với hai sọc đua màu đen chạy từ trái sang phải với tốc độ không đổi, đi hoàn toàn vào bên dưới một cầu vượt bê tông, bị che khuất hoàn toàn trong khoảng 2 giây, sau đó xuất hiện trở lại theo cùng hướng và tiếp tục đi về phía bên phải. Cảnh quay liên tục, không cắt ghép, không có xe khác, thời lượng 8 – 10 giây
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097373871309754368/img/Nro9DWy3wfI4Nm_4.jpg" width="600" alt="Kiểm tra tính bền vững của vật thể trên đường cao tốc">
+
+**[🎬 Xem video →](https://x.com/FramezeroAI/status/2097373908408442975)**
+
+**Tác giả:** [Frame Zero 🎬 | AI Films](https://x.com/FramezeroAI) | **Nguồn:** [Link](https://x.com/FramezeroAI/status/2097373908408442975) | **Đã xuất bản:** Sep 8, 2026
+
+---
+### Kịch bản phân cảnh quảng cáo Mì tỏi giòn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Cấu hình gợi ý kịch bản phân cảnh điện ảnh toàn diện, chuyên sâu được tối ưu hóa cho Gemini Omni Flash, tạo ra khung quảng cáo chân thực gồm 10 khung hình cho một món mì.
+
+#### 📝 Prompt
+
+```
+TIÊU ĐỀ:
+Kịch bản phân cảnh quảng cáo thực phẩm điện ảnh Mì tỏi giòn cao cấp
+
+ĐỊNH DẠNG:
+• Kịch bản phân cảnh cao cấp một trang
+• Bảng phân cảnh dọc tỷ lệ 3:4
+• 10 khung hình điện ảnh trong lưới biên tập cân đối
+• Đường viền mỏng ngăn cách từng khung hình
+• Chuỗi hình ảnh liên kết từ một quảng cáo liền mạch
+• Trình bày quảng cáo thực phẩm cao cấp
+
+TIÊU ĐỀ PHỤ:
+• Tiêu đề hiện đại, đậm nét
+• Thẻ thông tin sản xuất nhỏ gọn
+• Thời lượng: 30 giây
+• Phong cách: Quảng cáo biến tấu thực phẩm điện ảnh
+• Sản phẩm: Indomie Mi Goreng
+• Âm thanh: Tiếng tỏi xèo xèo + Tiếng dầu sôi + Tiếng rót sốt + Tiếng trộn mì
+• Nhận diện hình ảnh màu hổ phách ấm áp, nâu đậm và kem
+
+KỊCH BẢN PHÂN CẢNH:
+1. Gói Indomie Mi Goreng còn nguyên đặt cạnh một bát tỏi tươi nhỏ
+2. Gói mì mở ra, mì khô và các gói gia vị trượt ra bàn
+3. Mì khô rơi vào chảo nước nóng
+4. Mì đã nấu chín được nhấc ra khỏi chảo với làn khói bốc lên
+5. Tỏi bắt đầu xèo xèo trong chiếc chảo đen nóng bên cạnh mì
+6. Mì đã nấu chín rơi trực tiếp vào phần tỏi đang xèo xèo
+7. Gia vị Mi Goreng và nước tương ngọt rót lên trên mì
+8. Mì được trộn nhanh qua lớp sốt tỏi bóng bẩy
+9. Tỏi giòn và các loại rau thơm tươi rắc lên trên bát mì hoàn thiện
+10. Cảnh quay chính cao cấp cuối cùng với gói Indomie, bát mì và tỏi giòn trang trí
+
+SỰ NHẤT QUÁN CỦA KHUNG HÌNH:
+• Một không gian bếp gỗ ấm áp xuyên suốt
+• Thiết kế gói Indomie giống nhau trong mọi khung hình
+• Cùng một chiếc chảo đen và bát phục vụ màu đen nhám
+• Cùng loại tỏi, rau thơm và các yếu tố gia vị
+• Hướng ánh sáng và hậu cảnh đồng nhất xuyên suốt
+• Quá trình chế biến thực phẩm phải duy trì tính logic vật lý
+• Không có sự thay đổi vật thể không giải thích được hoặc lỗi liên tục
+
+CAMERA:
+Khung hình quảng cáo từ trên cao, các cảnh quay cận cảnh thực phẩm (macro), các cú trộn mì nhanh có kiểm soát, cảnh rót sốt quay chậm, cận cảnh tỏi xèo xèo, chuyển động đẩy máy mượt mà hướng tới cảnh quay chính cuối cùng.
+
+PHONG CÁCH HÌNH ẢNH:
+Quảng cáo thực phẩm cao cấp chân thực, mì bóng bẩy, kết cấu tỏi giòn, phản chiếu dầu chân thực, hơi nước tự nhiên, lớp sốt đậm đà, ánh sáng điện ảnh ấm áp, chất lượng quảng cáo 8K cao cấp.
+
+THIẾT KẾ KỊCH BẢN PHÂN CẢNH:
+Mỗi khung hình phải trông giống như một khung hình video liên tiếp từ cùng một quá trình sản xuất. Duy trì môi trường, đạo cụ, bao bì sản phẩm, khẩu phần ăn, ánh sáng và ngôn ngữ hình ảnh đồng nhất trên tất cả 10 khung hình.
+
+PHỦ ĐỊNH:
+Không thay đổi bao bì, không có khẩu phần ăn không nhất quán, không có nguyên liệu ngẫu nhiên, không có nhà bếp khác, không có sản phẩm trùng lặp, không có logo bị biến dạng, không có hình ảnh hoạt hình, không có lỗi liên tục.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788944025659_qes2sn_HRs408KbYAArgU7.jpg" width="600" alt="Kịch bản phân cảnh quảng cáo Mì tỏi giòn">
+
+**[🎬 Xem video →](https://x.com/Strength04_X/status/2097332563799077126)**
+
+**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2097332563799077126) | **Đã xuất bản:** Sep 8, 2026
+
+---
+### Đồ uống có ga vị chanh chuẩn điện ảnh
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh video chuẩn điện ảnh để tạo quảng cáo đồ uống giải khát với hiệu ứng đọng sương, bọt khí và những lát chanh nổi.
+
+#### 📝 Prompt
+
+```
+Ly thủy tinh lạnh. Những giọt sương đọng. Những lát chanh nổi bồng bềnh. Hàng trăm bọt khí li ti bắt trọn ánh sáng.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097295787520868352/img/gmzIUtOV0Ut3jez-.jpg" width="600" alt="Đồ uống có ga vị chanh chuẩn điện ảnh">
+
+**[🎬 Xem video →](https://x.com/AI_VideoLab/status/2097295811780759996)**
+
+**Tác giả:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Nguồn:** [Link](https://x.com/AI_VideoLab/status/2097295811780759996) | **Đã xuất bản:** Sep 8, 2026
+
+---
 ### Storyboard quảng cáo nước chanh sủi bọt cao cấp
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -112,11 +287,30 @@ PHONG CÁCH:
 Quảng cáo đồ uống cao cấp siêu thực, chất lỏng trong vắt như pha lê, sủi bọt bùng nổ, các giọt nước chính xác về mặt vật lý
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788857248982_gewimj_HRriVPmaIAASM6y.jpg" width="600" alt="Storyboard quảng cáo nước chanh sủi bọt cao cấp">
+<img src="https://cms-assets.youmind.com/media/1788944028856_d5zoxx_HRriVPmaIAASM6y.jpg" width="600" alt="Storyboard quảng cáo nước chanh sủi bọt cao cấp">
 
 **[🎬 Xem video →](https://x.com/Strength04_X/status/2097237465887338994)**
 
 **Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2097237465887338994) | **Đã xuất bản:** Sep 8, 2026
+
+---
+### Quảng cáo sản phẩm siro lá phong
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý quảng cáo đậm chất điện ảnh cho siro lá phong với các cảnh quay cận cảnh chất lỏng và ánh sáng vàng ấm áp.
+
+#### 📝 Prompt
+
+```
+cảnh quay cận cảnh chất lỏng, ánh sáng vàng ấm áp, siro đang chảy, bố cục sản phẩm tinh tế và cảnh quay chính ngoài trời ở cuối
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097122751761055744/img/B_0BYRpsP7sKzSOv.jpg" width="600" alt="Quảng cáo sản phẩm siro lá phong">
+
+**[🎬 Xem video →](https://x.com/AI_VideoLab/status/2097122773831500230)**
+
+**Tác giả:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Nguồn:** [Link](https://x.com/AI_VideoLab/status/2097122773831500230) | **Đã xuất bản:** Sep 8, 2026
 
 ---
 ### Cảnh quay liên tục lắp ráp nhà bếp cao cấp
@@ -2732,155 +2926,6 @@ Chất lượng thấp, hoạt hình, anime, chi tiết kém, vẻ ngoài nhựa
 **Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Đã xuất bản:** Aug 7, 2026
 
 ---
-### Biến hình Macro Bạch tuộc Thạch
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) quay phim macro cực kỳ chi tiết dành cho Gemini Omni, mô tả cảnh một loại gel phát sáng biến hình thành một chú bạch tuộc thạch đàn hồi.
-
-#### 📝 Prompt
-
-```
-Quay phim macro cận cảnh cực độ.
-Một bàn tay chân thực đang từ từ bóp một ống kim loại bóng bẩy với đầu vòi được đánh bóng. Thay vì loại kem thông thường, một lớp gel trong suốt như pha lê, phát sáng dịu nhẹ chảy ra một cách mượt mà. Khi chất liệu này xuất hiện, nó biến đổi một cách hữu cơ thành một chú "Jelly Octopus" (Bạch tuộc Thạch) nhỏ nhắn, được điêu khắc tinh xảo, hình thành từng lớp một trong một chuyển động liên tục.
-Sản phẩm thu nhỏ hoàn thiện trông bóng bẩy, hơi trong suốt, mềm mại và đàn hồi, với độ rung nhẹ trước khi ổn định một cách tự nhiên. Phần đầu tròn trịa nảy nhẹ trong khi các xúc tu nhỏ bé gợn sóng mềm mại và ổn định với độ đàn hồi như thật. Những điểm sáng li ti di chuyển trên bề mặt nhẵn mịn trong khi ánh sáng bên trong khuếch tán nhẹ nhàng qua lớp gel, tạo nên vẻ ngoài sang trọng và cao cấp.
-Vật thể nằm trên bề mặt đá mờ tối màu, được trang trí bằng những giọt nước tinh tế giúp tăng cường độ chân thực và phản chiếu.
-
-Phong cách: Nhiếp ảnh siêu macro
-CGI siêu thực
-Ánh sáng studio điện ảnh
-Độ sâu trường ảnh cực nông
-Phản chiếu phong phú
-Thẩm mỹ quảng cáo sản phẩm cao cấp
-Biến hình liên tục mượt mà
-Kết cấu sắc nét
-Chất liệu chân thực như ảnh chụp
-Chất lượng 8K
-Dọc 16:9
-30 FPS
-Không văn bản
-Không chuyển động máy quay
-Không gây xao nhãng ở hậu cảnh
-
-Negative Prompt: Chất lượng thấp, hoạt hình, anime, chi tiết thấp, vẻ ngoài giống nhựa, hạt, nhiễu, nhấp nháy, hình học bị hỏng, hình dạng biến dạng, vật thể thừa, văn bản, hình mờ, logo, màu sắc quá bão hòa, ánh sáng không thực tế, máy quay rung lắc, nhòe chuyển động, hậu cảnh lộn xộn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Biến hình Macro Bạch tuộc Thạch">
-
-**[🎬 Xem video →](https://x.com/Strength04_X/status/2085559452481261606)**
-
-**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **Đã xuất bản:** Aug 7, 2026
-
----
-### Buổi hòa nhạc thời tiền sử của người hang động
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt theo phong cách phim tài liệu mô tả cảnh người tiền sử biểu diễn hòa nhạc trên sân khấu với sự bao quanh của các loài khủng long.
-
-#### 📝 Prompt
-
-```
-Một cảnh hòa nhạc diễn ra vào thời tiền sử. Có những người hang động trên sân khấu, những người tiền sử đang hát bằng một ngôn ngữ không thể hiểu được. Khủng long cũng đang đi lang thang xung quanh. Có một cộng đồng đông đúc đang xem buổi hòa nhạc. Video sẽ được quay với nhiều góc máy, mang lại cảm giác chân thực và tự nhiên như phim tài liệu. Phong cách hình ảnh cần đạt độ siêu thực.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Buổi hòa nhạc thời tiền sử của người hang động">
-
-**[🎬 Xem video →](https://x.com/ozansihay/status/2085420070952649179)**
-
-**Tác giả:** [Ozan Sihay](https://x.com/ozansihay) | **Nguồn:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **Đã xuất bản:** Aug 6, 2026
-
----
-### Từ Vệt Mực Đen đến Tranh Phong Cảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả dành cho Gemini Omni giúp hình dung các giọt mực đen trên nền trắng chuyển hóa thành một bức tranh phong cảnh thu nhỏ đầy màu sắc với cảm giác chuyển động chậm đậm chất điện ảnh.
-
-#### 📝 Prompt
-
-```
-Một nền trắng tinh khiết lấp đầy khung hình. Những giọt mực đen đặc rơi xuống trong chuyển động chậm, bắn tung ra như những đóa hoa đang nở rộ. Máy quay giữ nguyên vị trí, tập trung vào chuyển động của chất lỏng. Khi mực lan tỏa, các hình khối dần biến đổi một cách tinh tế thành núi non, sông ngòi và cây cối. Màu sắc bắt đầu thấm vào—những sắc xanh dương và xanh lục đậm—cho đến khi mực hoàn toàn trở thành một bức tranh phong cảnh thu nhỏ. Giây cuối cùng dừng lại ở thế giới đã hoàn thiện, tĩnh lặng tuyệt đối.
-Phong cách: vẻ đẹp trừu tượng | chuyển động linh hoạt | biến đổi nghệ thuật
-Máy quay: macro tĩnh → hé lộ chậm
-Thời lượng: 10 giây
-Ánh sáng: ánh sáng studio dịu nhẹ, độ rõ nét cao
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Từ Vệt Mực Đen đến Tranh Phong Cảnh">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2085178634067923397)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **Đã xuất bản:** Aug 6, 2026
-
----
-### Video Match Cut tràn đầy năng lượng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh kỹ thuật để tạo video 10 giây nhịp độ nhanh với các đoạn match cut tràn đầy năng lượng, tốc độ hai lần mỗi giây ở tỷ lệ khung hình 16:9 đậm chất điện ảnh.
-
-#### 📝 Prompt
-
-```
-tạo một clip 10 giây với 20 đoạn match cut, 2 lần cắt mỗi giây. đậm chất điện ảnh và tràn đầy năng lượng. tỷ lệ 16:9.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="Video Match Cut tràn đầy năng lượng">
-
-**[🎬 Xem video →](https://x.com/ViralOps_/status/2085069575700246678)**
-
-**Tác giả:** [ViralOps](https://x.com/ViralOps_) | **Nguồn:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **Đã xuất bản:** Aug 5, 2026
-
----
-### Khung cảnh võ sĩ Sumo truyền thống
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh mô tả khung cảnh đấu vật sumo truyền thống của Nhật Bản với các rikishi mặc mawashi và kiểu tóc chonmage, tập trung vào nghi thức trước trận đấu.
-
-#### 📝 Prompt
-
-```
-Hakke-yoi! Mỗi võ sĩ đều mặc một chiếc mawashi tinh tế, với kiểu tóc chonmage bảnh bao trên đầu. Tuy nhiên, vẫn còn một điều kỳ lạ: một rikishi không bao giờ đặt cẳng tay của mình vào tư thế shikiri trên võ đài dohyo trước khi trận đấu bắt đầu.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Khung cảnh võ sĩ Sumo truyền thống">
-
-**[🎬 Xem video →](https://x.com/222TT222/status/2085036219894026485)**
-
-**Tác giả:** [TakTempest](https://x.com/222TT222) | **Nguồn:** [Link](https://x.com/222TT222/status/2085036219894026485) | **Đã xuất bản:** Aug 5, 2026
-
----
-### Cuộc chiến trong bếp: Bọ ngựa cối xay tiêu cơ khí
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh (prompt) video macro đậm chất điện ảnh dành cho Gemini Omni, mô tả một chú bọ ngựa cơ khí làm từ cối xay tiêu đang chiến đấu với một con gián trên mặt bàn bếp, kèm theo dòng thời gian đa cảnh quay chi tiết.
-
-#### 📝 Prompt
-
-```
-Ống kính macro điện ảnh, mặt bàn bếp vào ban đêm được quay như một vùng đất hoang kim loại rộng lớn. Vụn bánh, hạt muối và mảnh thảo mộc vương vãi như những tảng đá và bụi cây trên bề mặt. Nhân vật chính là một 'Bọ ngựa cối xay tiêu' kỳ lạ: cơ thể là một chiếc cối xay tiêu bằng thép không gỉ màu bạc, hơi nghiêng về phía trước theo chiều dọc, với những chiếc chân bọ ngựa thật dài mọc ra từ đáy và hai bên, cùng hai chi trước săn mồi hình lưỡi hái đặc trưng ở phía trước. Nó không có đầu côn trùng bình thường; thân chính là chiếc cối xay tiêu, di chuyển một cách thận trọng và đầy tính cơ khí.
-
-Một con gián nâu bóng loáng chậm rãi bò ra từ sau bóng tối của chiếc khăn ăn bên trái, nhanh chóng tiến về phía bọ ngựa cối xay tiêu. Không khí trở nên căng thẳng như một cuộc đấu trong bếp lúc đêm khuya. Bọ ngựa cối xay tiêu đột ngột dừng lại, cơ thể hơi nhô lên như thể đang khóa mục tiêu. Sau đó, nó xoay phần đầu xay phía trên, phát ra âm thanh cơ khí giòn giã, và một lượng lớn mảnh tiêu đen phun ra từ đỉnh và phía trước như một quả lựu đạn khói, bắn thẳng vào con gián.
-
-Con gián bị sặc tiêu, hoảng loạn rút lui, râu quẫy mạnh, chân trượt đi và nhanh chóng lùi lại vào bóng tối bên trái. Những hạt tiêu đen mịn và một làn bụi mỏng lơ lửng trong không trung. Bọ ngựa cối xay tiêu vẫn đứng yên tại chỗ, hai chi trước giơ cao, như một chiến binh đêm đầy bản lĩnh giành chiến thắng.
-
-Kịch bản dòng thời gian:
-0–3 giây: Cận cảnh macro siêu nét. Bọ ngựa cối xay tiêu màu bạc đi chậm rãi trên mặt bàn bếp, xung quanh là vụn bánh, muối và thảo mộc. Những hình ảnh phản chiếu nhẹ nhàng trên bề mặt kim loại, chân bọ ngựa di chuyển chân thực.
-3–6 giây: Trong bóng tối bên trái, một con gián nâu đột ngột xuất hiện, nhanh chóng tiến về phía bọ ngựa. Camera di chuyển nhẹ theo hướng, tạo sự căng thẳng. Cả hai đối đầu trong giây lát tại một khoảng trống nhỏ.
-6–7 giây: Phần đỉnh của cối xay tiêu đột ngột xoay nhanh, tạo ra âm thanh xay cơ khí. Một lượng lớn bột tiêu đen phun ra, tạo thành luồng hạt đen dày đặc, bắn trực diện vào con gián.
-7–10 giây: Con gián hoảng loạn rút lui sau khi bị tiêu kích thích, nhanh chóng chạy trốn vào bóng tối bên trái và biến mất. Bụi tiêu đen lơ lửng trong không khí. Bọ ngựa cối xay tiêu vẫn đứng yên, chi trước giơ cao, đứng canh gác như một kẻ chiến thắng.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Cuộc chiến trong bếp: Bọ ngựa cối xay tiêu cơ khí">
-
-**[🎬 Xem video →](https://x.com/jesselaunz/status/2084153849326309450)**
-
-**Tác giả:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Nguồn:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Đã xuất bản:** Aug 3, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -2933,6 +2978,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-09T08:38:45.308Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-09T15:57:06.812Z</sub>
 
 </div>

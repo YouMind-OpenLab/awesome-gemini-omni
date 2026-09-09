@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **249** |
+| 📝 Toplam İstem | **255** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-09** |
 
@@ -56,6 +56,181 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Blue Ridge Dağları'nda Tudor Modern Malikane
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sonbahar orman manzarasıyla çevrili, lüks ve geniş bir Tudor modern malikanenin sinematik video istemi.
+
+#### 📝 İstem
+
+```
+Blue Ridge dağlarında sessiz lüks. Sonbahar ormanını içeriye taşımak için tasarlanmış, geniş bir Tudor modern malikane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097595917574803457/img/moZ8KJSmhTzY09U8.jpg" width="600" alt="Blue Ridge Dağları'nda Tudor Modern Malikane">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2097595975770755235)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2097595975770755235) | **Yayınlandı:** Sep 9, 2026
+
+---
+### Premium Gazlı Limonlu İçecek Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gazlı bir limonlu içecek için yoğunlaşma, karbonasyon patlamaları ve yüksek hızlı sıvı sıçramalarının makro çekimlerine odaklanan, 10 saniyelik sofistike ve sinematik bir ürün reklamı istemi.
+
+#### 📝 İstem
+
+```
+BAŞLIK:
+Premium Gazlı Limonlu İçecek — 10 Saniyelik Sinematik Ürün Reklamı
+
+FORMAT:
+• 10 saniyelik premium içecek reklamı
+• Ürün odaklı sinematik video
+• Dikey 3:4 kompozisyon
+• Lüks reklam estetiği
+• Ürün görselin merkezinde yer alır
+• Baştan sona tutarlı ürün kimliği
+
+REFERANS:
+Birincil görsel referans olarak ekteki ürün görselini kullanın.
+Şişe şeklini, oranlarını, etiketini, markasını ve genel ürün kimliğini tam olarak koruyun.
+
+SIRALAMA:
+1. Yoğun buğulu, buz gibi şişe
+2. Şişe üzerinde kayan su damlacıklarının ekstrem makro çekimi
+3. Keskin bir karbonasyon patlamasıyla şişe açılışı
+4. Kontrollü, yüksek hızlı bir sıçramayla patlayan gazlı sıvı
+5. Gazlı içeceğin içinde hareket eden taze limon dilimleri
+6. Premium bir bardağa düşen kristal netliğinde buzlar
+7. İçeceğin içinde yükselen makro karbonasyon kabarcıkları
+8. Şişe, bardak, limon ve donmuş sıvının yer aldığı final hero packshot (ürün çekimi)
+
+KAMERA:
+120fps yüksek hızlı estetik, ekstrem makro, pürüzsüz ürün hareketi, donmuş sıvı hareketi, dramatik arkadan aydınlatma, sığ alan derinliği ve premium stüdyo fotoğrafçılığı.
+
+STİL:
+Ultra gerçekçi lüks içecek reklamı, kristal netliğinde sıvı, fiziksel olarak doğru damlacıklar, gerçekçi karbonasyon, sinematik yansımalar ve premium ürün renderı.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788944031666_qac34m_HRtedivbMAA_8jh.jpg" width="600" alt="Premium Gazlı Limonlu İçecek Reklamı">
+
+**[🎬 Videoyu izle →](https://x.com/AIProductLab18/status/2097373921247191241)**
+
+**Yazar:** [AI Product Lab](https://x.com/AIProductLab18) | **Kaynak:** [Link](https://x.com/AIProductLab18/status/2097373921247191241) | **Yayınlandı:** Sep 8, 2026
+
+---
+### Nesne Sürekliliği Otoyol Testi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir arabanın çöl otoyolunda ilerleyip beton bir üst geçidin altından geçtiği, nesne sürekliliğini test etmek için kullanılan bir kıyaslama istemi.
+
+#### 📝 İstem
+
+```
+Düz, iki şeritli bir çöl otoyolunun sabit yan çekimi. Üzerinde çift siyah yarış şeridi bulunan parlak sarı bir spor araba, sabit bir hızla soldan sağa doğru ilerler, beton bir üst geçidin tamamen altından geçer, yaklaşık 2 saniye boyunca tamamen gözden kaybolur, ardından aynı yönde tekrar ortaya çıkarak sağa doğru devam eder. Tek ve kesintisiz çekim, kesme yok, başka araba yok, 8–10 saniye
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097373871309754368/img/Nro9DWy3wfI4Nm_4.jpg" width="600" alt="Nesne Sürekliliği Otoyol Testi">
+
+**[🎬 Videoyu izle →](https://x.com/FramezeroAI/status/2097373908408442975)**
+
+**Yazar:** [Frame Zero 🎬 | AI Films](https://x.com/FramezeroAI) | **Kaynak:** [Link](https://x.com/FramezeroAI/status/2097373908408442975) | **Yayınlandı:** Sep 8, 2026
+
+---
+### Çıtır Sarımsaklı Noodle Reklamı Storyboard'u
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni Flash için optimize edilmiş, bir noodle yemeği için 10 panelli fotogerçekçi bir reklam çerçevesi oluşturan, yoğun ve kapsamlı sinematik storyboard istemi yapılandırması.
+
+#### 📝 İstem
+
+```
+BAŞLIK:
+Premium Çıtır Sarımsaklı Noodle Sinematik Gıda Reklamı Storyboard'u
+
+FORMAT:
+• Tek sayfalık premium storyboard
+• 3:4 dikey storyboard sayfası
+• Dengeli bir editoryal ızgara içinde 10 sinematik panel
+• Her kareyi ayıran ince kenarlıklar
+• Tek bir kesintisiz reklamdan bağlantılı sekans
+• Premium gıda reklamı sunumu
+
+ÜST BİLGİ:
+• Kalın ve modern başlık
+• Kompakt prodüksiyon bilgi kartları
+• Süre: 30 Saniye
+• Stil: Sinematik Gıda Dönüşüm Reklamı
+• Ürün: Indomie Mi Goreng
+• Ses: Sarımsak Cızırtısı + Yağ Çatırtısı + Sos Dökülme Sesi + Noodle Karıştırma Sesi
+• Sıcak kehribar, koyu kahverengi ve krem rengi görsel kimlik
+
+STORYBOARD:
+1. Kapalı Indomie Mi Goreng paketi, küçük bir taze sarımsak kasesinin yanında duruyor
+2. Paket açılıyor, kuru noodle'lar ve baharat paketleri masaya kayıyor
+3. Kuru noodle'lar sıcak su dolu bir tavaya düşüyor
+4. Pişmiş noodle'lar, yükselen buhar eşliğinde tavadan kaldırılıyor
+5. Sarımsaklar, noodle'ların yanındaki sıcak siyah tavada cızırdayarak pişmeye başlıyor
+6. Pişmiş noodle'lar doğrudan cızırdayan sarımsakların üzerine düşüyor
+7. Mi Goreng baharatı ve tatlı soya sosu noodle'ların üzerine dökülüyor
+8. Noodle'lar parlak sarımsak sosuyla hızlıca harmanlanıyor
+9. Çıtır sarımsak ve taze yeşil garnitürler, hazır olan noodle'ların üzerine serpiliyor
+10. Indomie paketi, noodle kasesi ve çıtır sarımsak garnitürü ile final premium hero shot
+
+KARE TUTARLILIĞI:
+• Tek ve kesintisiz sıcak ahşap mutfak ortamı
+• Her karede aynı Indomie paket tasarımı
+• Aynı siyah tava ve mat siyah servis kasesi
+• Aynı sarımsak, yeşil garnitür ve baharat öğeleri
+• Baştan sona aynı ışık yönü ve arka plan
+• Gıda ilerlemesi fiziksel olarak mantıklı kalmalı
+• Açıklanamayan nesne değişiklikleri veya devamlılık hataları olmamalı
+
+KAMERA:
+Tepe açısı reklam çekimi, makro gıda detayları, hızlı ve kontrollü noodle harmanlama, ağır çekim sos dökülüşü, yakın çekim cızırdayan sarımsak, final hero shot'a doğru yumuşak yakınlaşma.
+
+GÖRSEL STİL:
+Fotogerçekçi premium gıda reklamı, parlak noodle'lar, çıtır sarımsak dokusu, gerçekçi yağ yansımaları, doğal buhar, yoğun sos kaplaması, sinematik sıcak aydınlatma, üst düzey 8K reklam kalitesi.
+
+STORYBOARD TASARIMI:
+Her panel, aynı prodüksiyona ait ardışık bir video karesi gibi görünmelidir. 10 panelin tamamında aynı ortamı, aksesuarları, ürün ambalajını, porsiyonları, aydınlatmayı ve görsel dili koruyun.
+
+NEGATİF:
+Ambalaj değişikliği yok, tutarsız porsiyonlar yok, rastgele malzemeler yok, farklı mutfak yok, kopyalanmış ürünler yok, bozuk logo yok, çizgi film görünümü yok, devamlılık hatası yok.
+```
+
+<img src="https://cms-assets.youmind.com/media/1788944025659_qes2sn_HRs408KbYAArgU7.jpg" width="600" alt="Çıtır Sarımsaklı Noodle Reklamı Storyboard'u">
+
+**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2097332563799077126)**
+
+**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2097332563799077126) | **Yayınlandı:** Sep 8, 2026
+
+---
+### Sinematik Limonlu Gazlı İçecek
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yoğunlaşma, kabarcıklar ve yüzen limon dilimleriyle ferahlatıcı bir içecek reklamı oluşturmak için sinematik bir video istemi.
+
+#### 📝 İstem
+
+```
+Soğuk bardak. Yoğunlaşma. Yüzen limon dilimleri. Işığı yakalayan yüzlerce küçük kabarcık.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097295787520868352/img/gmzIUtOV0Ut3jez-.jpg" width="600" alt="Sinematik Limonlu Gazlı İçecek">
+
+**[🎬 Videoyu izle →](https://x.com/AI_VideoLab/status/2097295811780759996)**
+
+**Yazar:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Kaynak:** [Link](https://x.com/AI_VideoLab/status/2097295811780759996) | **Yayınlandı:** Sep 8, 2026
+
+---
 ### Premium Köpüklü Limonata Reklamı Storyboard'u
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -112,11 +287,30 @@ STİL:
 Ultra gerçekçi premium içecek reklamı, kristal netliğinde sıvı, patlayıcı karbonasyon, fiziksel olarak doğru su damlacıkları
 ```
 
-<img src="https://cms-assets.youmind.com/media/1788857248982_gewimj_HRriVPmaIAASM6y.jpg" width="600" alt="Premium Köpüklü Limonata Reklamı Storyboard'u">
+<img src="https://cms-assets.youmind.com/media/1788944028856_d5zoxx_HRriVPmaIAASM6y.jpg" width="600" alt="Premium Köpüklü Limonata Reklamı Storyboard'u">
 
 **[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2097237465887338994)**
 
 **Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2097237465887338994) | **Yayınlandı:** Sep 8, 2026
+
+---
+### Akçaağaç Şurubu Ürün Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Makro sıvı çekimleri ve sıcak altın sarısı aydınlatma içeren, akçaağaç şurubu için sinematik bir reklam istemi.
+
+#### 📝 İstem
+
+```
+makro sıvı çekimleri, sıcak altın sarısı aydınlatma, akan şurup, temiz ürün çerçevelemesi ve finalde dış mekanda çekilmiş ana ürün görseli
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2097122751761055744/img/B_0BYRpsP7sKzSOv.jpg" width="600" alt="Akçaağaç Şurubu Ürün Reklamı">
+
+**[🎬 Videoyu izle →](https://x.com/AI_VideoLab/status/2097122773831500230)**
+
+**Yazar:** [AI Video Lab｜AI Filmmaking](https://x.com/AI_VideoLab) | **Kaynak:** [Link](https://x.com/AI_VideoLab/status/2097122773831500230) | **Yayınlandı:** Sep 8, 2026
 
 ---
 ### Gurme Mutfak Montajı Kesintisiz Çekim
@@ -2760,155 +2954,6 @@ Düşük kalite, çizgi film, anime, düşük detay, plastik görünüm, gren, g
 **Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Yayınlandı:** Aug 7, 2026
 
 ---
-### Jöle Ahtapot Makro Dönüşümü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için, parlayan bir jelin elastik bir jöle ahtapota dönüşmesini betimleyen, oldukça detaylı bir makro sinematografi istemi.
-
-#### 📝 İstem
-
-```
-Aşırı yakın çekim makro sinematografi.
-Gerçekçi bir el, cilalı bir ağza sahip şık metalik bir tüpü yavaşça sıkıyor. Sıradan bir macun yerine, kristal berraklığında ve hafifçe parlayan bir jel pürüzsüzce dışarı akıyor. Malzeme çıktıkça, organik bir şekilde minik, güzelce şekillendirilmiş bir "Jelly Octopus"a dönüşüyor ve tek bir sürekli hareketle katman katman biçim alıyor.
-Tamamlanan minyatür; parlak, hafif yarı saydam, yumuşak ve elastik görünüyor; doğal bir şekilde yerleşmeden önce hafifçe sallanıyor. Yuvarlak kafası nazikçe zıplarken, minik dokunaçları gerçekçi bir esneklikle hafifçe dalgalanıp duruluyor. Pürüzsüz yüzeyinde minik parlamalar hareket ederken, iç ışık jel boyunca yumuşak bir şekilde dağılarak zarif ve premium bir görünüm yaratıyor.
-Nesne, gerçekçiliği ve yansımaları artıran narin su damlalarıyla süslenmiş koyu mat bir taş yüzey üzerinde duruyor.
-
-Stil: Ultra makro fotoğrafçılık
-Hiper gerçekçi CGI
-Sinematik stüdyo aydınlatması
-Son derece sığ alan derinliği
-Zengin yansımalar
-Premium ürün reklam estetiği
-Pürüzsüz sürekli dönüşüm
-Keskin dokular
-Fotogerçekçi malzemeler
-8K kalite
-Dikey 16:9
-30 FPS
-Metin yok
-Kamera hareketi yok
-Arka plan dikkat dağıtıcıları yok
-
-Negatif İstem: Düşük kalite, çizgi film, anime, düşük detay, plastik görünüm, gren, gürültü, titreme, bozuk geometri, deforme olmuş şekil, fazladan nesneler, metin, filigran, logo, aşırı doygun renkler, gerçekçi olmayan aydınlatma, titrek kamera, hareket bulanıklığı, karmaşık arka plan.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085559390883692544/img/IfMgvE-gQJWiUYVk.jpg" width="600" alt="Jöle Ahtapot Makro Dönüşümü">
-
-**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2085559452481261606)**
-
-**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2085559452481261606) | **Yayınlandı:** Aug 7, 2026
-
----
-### Tarih Öncesi Mağara Adamı Rock Konseri
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Dinozorlarla çevrili bir sahnede konser veren tarih öncesi insanları konu alan belgesel tarzında bir video istemi.
-
-#### 📝 İstem
-
-```
-Tarih öncesi dönemde geçen bir konser sahnesi. Sahnede anlaşılmaz bir dilde şarkı söyleyen mağara adamları ve tarih öncesi insanlar var. Etrafta dinozorlar da dolaşıyor. Konseri izleyen kalabalık bir topluluk bulunuyor. Çekim çoklu plan olacak, doğal ve belgesel tadında bir kamera hissiyatı vermeli. Görsel tarz ultra gerçekçi olmalı.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085419634270851072/img/AG3fNuGcYtKaTg8F.jpg" width="600" alt="Tarih Öncesi Mağara Adamı Rock Konseri">
-
-**[🎬 Videoyu izle →](https://x.com/ozansihay/status/2085420070952649179)**
-
-**Yazar:** [Ozan Sihay](https://x.com/ozansihay) | **Kaynak:** [Link](https://x.com/ozansihay/status/2085420070952649179) | **Yayınlandı:** Aug 6, 2026
-
----
-### Mürekkep Sıçramasından Manzara Resmine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Beyaz bir arka plan üzerindeki siyah mürekkep damlalarının, sinematik ve ağır çekim hissi veren renkli bir minyatür manzara resmine dönüşümünü görselleştiren, Gemini Omni için betimleyici bir komut.
-
-#### 📝 İstem
-
-```
-Kareyi tamamen saf beyaz bir arka plan dolduruyor. Koyu siyah mürekkep damlaları ağır çekimde düşüyor ve açan çiçekler gibi dışa doğru sıçrıyor. Kamera tamamen sabit bir şekilde akışkan harekete odaklanıyor. Mürekkep yayıldıkça şekiller incelikle dağlara, nehirlere ve ağaçlara dönüşüyor. Mürekkep tamamen minyatür bir manzara resmine dönüşene kadar derin maviler ve yeşiller içeri sızıyor. Son saniyede tamamlanmış dünya üzerinde duruluyor, tamamen hareketsiz.
-Stil: soyut güzellik | akışkan hareket | sanatsal dönüşüm
-Kamera: sabit makro → yavaş ortaya çıkış
-Uzunluk: 10 saniye
-Aydınlatma: yumuşak stüdyo ışığı, yüksek netlik
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085178586789801984/img/gngUMCjZMEIqv832.jpg" width="600" alt="Mürekkep Sıçramasından Manzara Resmine">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2085178634067923397)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2085178634067923397) | **Yayınlandı:** Aug 6, 2026
-
----
-### Yüksek Enerjili Match Cut Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Saniyede iki adet olacak şekilde yüksek enerjili match cut geçişlerine sahip, sinematik 16:9 en boy oranında, 10 saniyelik hızlı tempolu bir video oluşturmak için teknik bir komut.
-
-#### 📝 İstem
-
-```
-20 adet match cut içeren, saniyede 2 kesimlik, 10 saniyelik bir klip oluştur. Sinematik ve yüksek enerjili. 16:9 oranında.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085050849492156416/img/oIdnWKO-TLwgP6vK.jpg" width="600" alt="Yüksek Enerjili Match Cut Video">
-
-**[🎬 Videoyu izle →](https://x.com/ViralOps_/status/2085069575700246678)**
-
-**Yazar:** [ViralOps](https://x.com/ViralOps_) | **Kaynak:** [Link](https://x.com/ViralOps_/status/2085069575700246678) | **Yayınlandı:** Aug 5, 2026
-
----
-### Geleneksel Sumo Rikishi Sahnesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Mawashi giymiş ve chonmage saç stiline sahip rikishilerin yer aldığı, maç öncesi ritüele odaklanan geleneksel bir Japon sumo güreşi sahnesini betimleyen bir komut.
-
-#### 📝 İstem
-
-```
-Hakke-yoi! Her biri şık bir mawashi giymiş, başında ise havalı bir chonmage var. Yine de garip bir durum var: Bir rikishi, maçtan önce dohyo üzerinde shikiri yaparken ön kolunu asla yere koymaz.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085034818094669824/img/1exycOw9MmbUBbGw.jpg" width="600" alt="Geleneksel Sumo Rikishi Sahnesi">
-
-**[🎬 Videoyu izle →](https://x.com/222TT222/status/2085036219894026485)**
-
-**Yazar:** [TakTempest](https://x.com/222TT222) | **Kaynak:** [Link](https://x.com/222TT222/status/2085036219894026485) | **Yayınlandı:** Aug 5, 2026
-
----
-### Mekanik Karabiber Değirmeni Mantis Mutfak Düellosu
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Gemini Omni için, bir mutfak tezgahında hamam böceğiyle savaşan karabiber değirmeninden yapılmış mekanik bir mantisi betimleyen, ayrıntılı çoklu çekim zaman çizelgesi içeren sinematik bir makro video istemi.
-
-#### 📝 İstem
-
-```
-Makro sinematik lens; gece mutfak tezgahı, uçsuz bucaksız bir metal çorak arazi gibi çekiliyor. Kırıntılar, tuz taneleri ve ot parçaları yüzeyde kayalar ve çalılar gibi dağılmış durumda. Başrolde tuhaf bir 'Karabiber Değirmeni Mantis' var: gövdesi, hafifçe öne doğru eğilmiş küçük gümüş paslanmaz çelik bir karabiber değirmeni; altından ve yanlarından uzanan uzun gerçek mantis bacakları ve önünde iki ikonik tırpan benzeri avcı ön uzuvları bulunuyor. Normal bir böcek kafası yok; ana gövde, dikkatli ve mekanik bir şekilde hareket eden karabiber değirmeninin kendisi.
-
-Parlak kahverengi bir hamam böceği, soldaki peçetenin gölgesinden yavaşça sürünerek çıkıyor ve hızla karabiber değirmeni mantise yaklaşıyor. Hava, gece yarısı mutfak düellosu gibi gergin. Karabiber değirmeni mantis aniden duruyor, gövdesi bir hedefi kilitliyormuş gibi hafifçe yükseliyor. Ardından üst öğütme başlığını çıtlatıyor, net bir mekanik ses çıkarıyor ve büyük miktarda karabiber parçası, bir sis bombası gibi üstten ve önden püskürerek doğrudan hamam böceğine isabet ediyor.
-
-Karabiber yüzünden boğulan hamam böceği panik içinde geri çekiliyor, antenleri çılgınca sallanıyor, ayakları kayıyor ve hızla soldaki gölgeye geri kaçıyor. İnce karabiber parçacıkları ve hafif bir toz bulutu havada süzülüyor. Karabiber değirmeni mantis, ön uzuvları havada, sakin bir şekilde kazanan bir gece savaşçısı gibi yerinde kalıyor.
-
-Zaman Çizelgesi Hikaye Panosu:
-0–3 sn: Ultra yakın çekim makro görüntüsü. Gümüş karabiber değirmeni mantis, kırıntılar, tuz ve otlarla çevrili mutfak tezgahında yavaşça yürüyor. Metal yüzeyde yumuşak yansımalar, mantis bacakları gerçekçi bir şekilde hareket ediyor.
-3–6 sn: Soldaki gölgelerin içinden aniden kahverengi bir hamam böceği beliriyor ve hızla mantise yaklaşıyor. Hafif kamera takibi gerilimi artırıyor. İkili, küçük bir açık alanda kısa bir süre karşı karşıya geliyor.
-6–7 sn: Karabiber değirmeninin üst kısmı aniden hızla dönüyor ve mekanik bir öğütme sesi çıkarıyor. Büyük miktarda karabiber tozu, yoğun taneli siyah bir sprey oluşturarak patlıyor ve doğrudan hamam böceğine çarpıyor.
-7–10 sn: Karabiberin etkisiyle kaosa sürüklenen hamam böceği, hızla soldaki gölgeye kaçıp gözden kayboluyor. Karabiber tozu havada süzülüyor. Karabiber değirmeni mantis, ön uzuvları havada, bir galip gibi nöbet tutarak hareketsiz kalıyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2084153784549462017/img/E4nz7_0QtIAxeJ2H.jpg" width="600" alt="Mekanik Karabiber Değirmeni Mantis Mutfak Düellosu">
-
-**[🎬 Videoyu izle →](https://x.com/jesselaunz/status/2084153849326309450)**
-
-**Yazar:** [Jesse Lau 遁一子](https://x.com/jesselaunz) | **Kaynak:** [Link](https://x.com/jesselaunz/status/2084153849326309450) | **Yayınlandı:** Aug 3, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -2961,6 +3006,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-09T08:38:56.278Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-09T15:57:16.482Z</sub>
 
 </div>
