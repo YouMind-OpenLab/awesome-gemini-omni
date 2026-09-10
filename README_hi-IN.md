@@ -46,7 +46,7 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **255** |
+| 📝 कुल प्रॉम्पट्स | **256** |
 | ⭐ विशेष प्रॉम्पट्स | **0** |
 | 🔄 अंतिम अपडेट | **2026-09-10** |
 
@@ -56,6 +56,72 @@ Google के Gemini Omni के लिए उच्च गुणवत्ता
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
+### Luxury Rose Perfume Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive cinematic storyboard prompt for a luxury perfume commercial, detailing sequence shots, camera movements, and visual style for consistent video generation.
+
+#### 📝 प्रॉम्पट
+
+```
+TITLE:
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+<img src="https://cms-assets.youmind.com/media/1789029635589_m81x68_HR11RR_boAA3Bzj.jpg" width="600" alt="Luxury Rose Perfume Commercial Storyboard">
+
+**[🎬 वीडियो देखें →](https://x.com/WanderingC76/status/2097964022293549127)**
+
+**लेखक:** [Wandering Corner](https://x.com/WanderingC76) | **स्रोत:** [Link](https://x.com/WanderingC76/status/2097964022293549127) | **प्रकाशित:** Sep 10, 2026
+
+---
 ### ब्लू रिज माउंटेन्स में ट्यूडर मॉडर्न एस्टेट
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2915,45 +2981,6 @@ First Frame Image का उपयोग सटीक शुरुआती फ�
 **लेखक:** [PZF](https://x.com/pzf_ai) | **स्रोत:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **प्रकाशित:** Aug 7, 2026
 
 ---
-### चेरी ब्लॉसम ट्री जेल स्कल्पचर
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni के लिए एक सिनेमैटिक मैक्रो प्रॉम्प्ट, जो एक चमकते हुए जेल को ट्यूब से बाहर निकलते समय एक विस्तृत लघु चेरी ब्लॉसम ट्री में बदलते हुए दर्शाता है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक यथार्थवादी हाथ धीरे-धीरे एक चिकनी धात्विक ट्यूब को पॉलिश किए हुए नोजल के साथ दबाता है। साधारण पेस्ट के बजाय, एक क्रिस्टल-क्लियर, हल्की चमक वाला जेल आसानी से बाहर निकलता है। जैसे-जैसे सामग्री बाहर आती है, यह जैविक रूप से एक छोटे, खूबसूरती से गढ़े हुए "चेरी ब्लॉसम ट्री" में बदल जाती है, जो एक निरंतर गति में परत-दर-परत आकार लेती है। नाजुक तना पहले ऊपर उठता है, जिसके बाद सुंदर शाखाएं आती हैं जो सैकड़ों छोटे पारभासी चेरी ब्लॉसम में खिलती हैं, जो सभी एक एकल तरल परिवर्तन में निर्बाध रूप से बनती हैं।
-तैयार लघु वस्तु चमकदार, थोड़ी पारभासी, नरम और लचीली दिखाई देती है, जो स्वाभाविक रूप से स्थिर होने से पहले हल्का सा हिलती है। फूल स्थिर होने से पहले धीरे-धीरे कांपते हैं, जबकि चिकनी जेल सतह पर छोटे हाइलाइट्स चलते हैं। एक नरम आंतरिक चमक हर शाखा और पंखुड़ी के माध्यम से फैलती है, जो एक सुरुचिपूर्ण प्रीमियम ग्लास जैसा रूप बनाती है।
-यह वस्तु एक गहरे मैट पत्थर की सतह पर टिकी है जिसे नाजुक पानी की बूंदों से सजाया गया है जो यथार्थवाद और प्रतिबिंबों को बढ़ाते हैं।
-शैली:
-अल्ट्रा मैक्रो फोटोग्राफी
-हाइपर-यथार्थवादी CGI
-सिनेमैटिक स्टूडियो लाइटिंग
-अत्यंत उथली डेप्थ ऑफ फील्ड
-समृद्ध प्रतिबिंब
-प्रीमियम उत्पाद कमर्शियल एस्थेटिक
-चिकना निरंतर परिवर्तन
-कुरकुरी बनावट
-फोटोयथार्थवादी सामग्री
-8K गुणवत्ता
-वर्टिकल 16:9
-30 FPS
-कोई टेक्स्ट नहीं
-कोई कैमरा मूवमेंट नहीं
-कोई बैकग्राउंड डिस्ट्रेक्शन नहीं
-नेगेटिव प्रॉम्प्ट:
-कम गुणवत्ता, कार्टून, एनीमे, कम विवरण, प्लास्टिक जैसा रूप, ग्रेन, शोर, झिलमिलाहट, टूटी हुई ज्यामिति, विकृत आकार, अतिरिक्त वस्तुएं, टेक्स्ट, वॉटरमार्क, लोगो, अत्यधिक संतृप्त रंग, अवास्तविक प्रकाश व्यवस्था, हिलता हुआ कैमरा, मोशन ब्लर, अव्यवस्थित पृष्ठभूमि।
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="चेरी ब्लॉसम ट्री जेल स्कल्पचर">
-
-**[🎬 वीडियो देखें →](https://x.com/Strength04_X/status/2085703642037018819)**
-
-**लेखक:** [𝐌](https://x.com/Strength04_X) | **स्रोत:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **प्रकाशित:** Aug 7, 2026
-
----
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
@@ -3006,6 +3033,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 एक प्रॉम्पट सबमिट करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-09-10T08:39:35.290Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-09-10T15:51:40.318Z</sub>
 
 </div>

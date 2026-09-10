@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **255** |
+| 📝 총 프롬프트 수 | **256** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-09-10** |
 
@@ -56,6 +56,72 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### Luxury Rose Perfume Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive cinematic storyboard prompt for a luxury perfume commercial, detailing sequence shots, camera movements, and visual style for consistent video generation.
+
+#### 📝 프롬프트
+
+```
+TITLE:
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+<img src="https://cms-assets.youmind.com/media/1789029635589_m81x68_HR11RR_boAA3Bzj.jpg" width="600" alt="Luxury Rose Perfume Commercial Storyboard">
+
+**[🎬 비디오 보기 →](https://x.com/WanderingC76/status/2097964022293549127)**
+
+**작성자:** [Wandering Corner](https://x.com/WanderingC76) | **출처:** [Link](https://x.com/WanderingC76/status/2097964022293549127) | **게시일:** Sep 10, 2026
+
+---
 ### 블루 리지 산맥의 튜더 모던 저택
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2887,45 +2953,6 @@ EMBER AND THE FIREFLY 스토리보드 — 8초 샷 리스트
 **작성자:** [PZF](https://x.com/pzf_ai) | **출처:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **게시일:** Aug 7, 2026
 
 ---
-### 벚꽃 나무 젤 조형물
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni를 위한 시네마틱 매크로 프롬프트로, 튜브에서 흘러나온 빛나는 젤이 정교한 미니어처 벚꽃 나무로 변하는 과정을 시각화합니다.
-
-#### 📝 프롬프트
-
-```
-사실적인 손이 광택이 나는 노즐이 달린 매끄러운 금속 튜브를 천천히 짭니다. 평범한 페이스트 대신 투명하고 은은하게 빛나는 젤이 부드럽게 흘러나옵니다. 물질이 나오면서 유기적으로 변형되어, 하나의 연속적인 동작으로 층층이 쌓이며 아름답게 조각된 "벚꽃 나무" 미니어처가 형성됩니다. 섬세한 줄기가 먼저 솟아오르고, 그 뒤를 이어 우아하게 뻗은 가지들이 수백 개의 작은 반투명 벚꽃으로 피어나며, 이 모든 과정이 끊김 없이 유려하게 이어집니다.
-완성된 미니어처는 광택이 나고 약간 반투명하며 부드럽고 탄력 있는 질감을 띠며, 자리를 잡기 전 미세하게 흔들립니다. 꽃잎은 잠시 떨리다가 멈추고, 매끄러운 젤 표면 위로 작은 하이라이트가 흐릅니다. 은은한 내부 광채가 모든 가지와 꽃잎을 통해 퍼져 나가며 우아하고 고급스러운 유리 같은 외관을 완성합니다.
-완성된 오브제는 사실감과 반사 효과를 더해주는 섬세한 물방울이 맺힌 어두운 무광 석재 표면 위에 놓여 있습니다.
-스타일:
-초근접 매크로 촬영
-초현실적 CGI
-시네마틱 스튜디오 조명
-극도로 얕은 피사계 심도
-풍부한 반사
-고급 제품 광고 미학
-부드럽고 연속적인 변형
-선명한 질감
-포토리얼리스틱 소재
-8K 화질
-세로형 16:9
-30 FPS
-텍스트 없음
-카메라 움직임 없음
-배경 방해 요소 없음
-부정 프롬프트:
-저화질, 만화, 애니메이션, 낮은 디테일, 플라스틱 느낌, 입자감, 노이즈, 깜빡임, 깨진 기하학적 구조, 변형된 형태, 추가 오브제, 텍스트, 워터마크, 로고, 과도하게 채도가 높은 색상, 비현실적인 조명, 흔들리는 카메라, 모션 블러, 어수선한 배경.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="벚꽃 나무 젤 조형물">
-
-**[🎬 비디오 보기 →](https://x.com/Strength04_X/status/2085703642037018819)**
-
-**작성자:** [𝐌](https://x.com/Strength04_X) | **출처:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **게시일:** Aug 7, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -2978,6 +3005,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-10T08:39:31.541Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-10T15:51:36.797Z</sub>
 
 </div>

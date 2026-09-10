@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **255** |
+| 📝 Total Prompts | **256** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-10** |
 
@@ -56,6 +56,72 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Luxury Rose Perfume Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive cinematic storyboard prompt for a luxury perfume commercial, detailing sequence shots, camera movements, and visual style for consistent video generation.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+<img src="https://cms-assets.youmind.com/media/1789029635589_m81x68_HR11RR_boAA3Bzj.jpg" width="600" alt="Luxury Rose Perfume Commercial Storyboard">
+
+**[🎬 Watch Video →](https://x.com/WanderingC76/status/2097964022293549127)**
+
+**Author:** [Wandering Corner](https://x.com/WanderingC76) | **Source:** [Link](https://x.com/WanderingC76/status/2097964022293549127) | **Published:** Sep 10, 2026
+
+---
 ### Tudor Modern Estate in Blue Ridge Mountains
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2837,45 +2903,6 @@ Create an interesting scene based on this image, using multiple camera shots and
 **Author:** [PZF](https://x.com/pzf_ai) | **Source:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Published:** Aug 7, 2026
 
 ---
-### Cherry Blossom Tree Gel Sculpture
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic macro prompt for Gemini Omni that visualizes a glowing gel transforming into a detailed miniature cherry blossom tree as it emerges from a tube.
-
-#### 📝 Prompt
-
-```
-A realistic hand slowly squeezes a sleek metallic tube with a polished nozzle. Instead of ordinary paste, a crystal-clear, softly glowing gel smoothly flows out. As the material emerges, it organically transforms into a tiny, beautifully sculpted "Cherry Blossom Tree", taking shape layer by layer in one continuous motion. The delicate trunk rises first, followed by gracefully branching limbs that bloom into hundreds of tiny translucent cherry blossoms, all forming seamlessly in a single fluid transformation.
-The finished miniature appears glossy, slightly translucent, soft, and elastic, with subtle wobbling before settling naturally. The blossoms gently quiver before becoming still, while tiny highlights travel across the smooth gel surface. A soft inner glow diffuses through every branch and petal, creating an elegant premium glass-like appearance.
-The object rests on a dark matte stone surface decorated with delicate water droplets that enhance realism and reflections.
-Style:
-Ultra macro photography
-Hyper-realistic CGI
-Cinematic studio lighting
-Extremely shallow depth of field
-Rich reflections
-Premium product commercial aesthetic
-Smooth continuous transformation
-Crisp textures
-Photorealistic materials
-8K quality
-Vertical 16:9
-30 FPS
-No text
-No camera movement
-No background distractions
-Negative Prompt:
-Low quality, cartoon, anime, low detail, plastic appearance, grain, noise, flicker, broken geometry, deformed shape, extra objects, text, watermark, logo, oversaturated colors, unrealistic lighting, shaky camera, motion blur, cluttered background.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Cherry Blossom Tree Gel Sculpture">
-
-**[🎬 Watch Video →](https://x.com/Strength04_X/status/2085703642037018819)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Published:** Aug 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2928,6 +2955,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-10T08:39:26.501Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-10T15:51:31.870Z</sub>
 
 </div>

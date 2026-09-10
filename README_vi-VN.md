@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **255** |
+| 📝 Tổng số prompt | **256** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-10** |
 
@@ -56,6 +56,72 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Luxury Rose Perfume Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive cinematic storyboard prompt for a luxury perfume commercial, detailing sequence shots, camera movements, and visual style for consistent video generation.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+<img src="https://cms-assets.youmind.com/media/1789029635589_m81x68_HR11RR_boAA3Bzj.jpg" width="600" alt="Luxury Rose Perfume Commercial Storyboard">
+
+**[🎬 Xem video →](https://x.com/WanderingC76/status/2097964022293549127)**
+
+**Tác giả:** [Wandering Corner](https://x.com/WanderingC76) | **Nguồn:** [Link](https://x.com/WanderingC76/status/2097964022293549127) | **Đã xuất bản:** Sep 10, 2026
+
+---
 ### Biệt thự Tudor hiện đại tại dãy núi Blue Ridge
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2887,45 +2953,6 @@ Hãy tạo ra một cảnh quay thú vị dựa trên hình ảnh này, sử d�
 **Tác giả:** [PZF](https://x.com/pzf_ai) | **Nguồn:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Đã xuất bản:** Aug 7, 2026
 
 ---
-### Tác phẩm điêu khắc gel hình cây hoa anh đào
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) macro đậm chất điện ảnh dành cho Gemini Omni, mô phỏng quá trình một loại gel phát sáng biến đổi thành mô hình cây hoa anh đào thu nhỏ đầy chi tiết khi được nặn ra từ tuýp.
-
-#### 📝 Prompt
-
-```
-Một bàn tay chân thực đang từ từ bóp một tuýp kim loại bóng bẩy với đầu vòi được đánh bóng. Thay vì chất kem thông thường, một loại gel trong suốt, phát sáng dịu nhẹ chảy ra một cách mượt mà. Khi chất liệu này xuất hiện, nó tự biến đổi một cách tự nhiên thành một "Cây hoa anh đào" thu nhỏ được điêu khắc tinh xảo, hình thành từng lớp một trong một chuyển động liên tục. Phần thân cây mảnh mai nhô lên trước, theo sau là những cành cây duyên dáng nở rộ thành hàng trăm bông hoa anh đào nhỏ trong suốt, tất cả tạo hình liền mạch trong một quá trình biến đổi trôi chảy.
-Sản phẩm thu nhỏ hoàn thiện trông bóng bẩy, hơi trong suốt, mềm mại và có độ đàn hồi, với những rung động nhẹ trước khi ổn định một cách tự nhiên. Những bông hoa khẽ lay động trước khi đứng yên, trong khi những điểm sáng nhỏ lướt trên bề mặt gel mịn màng. Ánh sáng dịu nhẹ từ bên trong lan tỏa qua từng cành và cánh hoa, tạo nên vẻ ngoài sang trọng như thủy tinh cao cấp.
-Vật thể nằm trên bề mặt đá nhám tối màu, được trang trí bằng những giọt nước tinh tế giúp tăng cường độ chân thực và phản chiếu.
-Phong cách:
-Nhiếp ảnh siêu macro
-CGI siêu thực
-Ánh sáng studio điện ảnh
-Độ sâu trường ảnh cực nông
-Độ phản chiếu phong phú
-Thẩm mỹ quảng cáo sản phẩm cao cấp
-Biến đổi liên tục mượt mà
-Kết cấu sắc nét
-Chất liệu chân thực như ảnh chụp
-Chất lượng 8K
-Dọc 16:9
-30 FPS
-Không văn bản
-Không chuyển động máy quay
-Không gây xao nhãng ở hậu cảnh
-Câu lệnh phủ định (Negative Prompt):
-Chất lượng thấp, hoạt hình, anime, chi tiết kém, vẻ ngoài nhựa, hạt, nhiễu, nhấp nháy, hình học bị vỡ, hình dạng biến dạng, vật thể thừa, văn bản, hình mờ, logo, màu sắc quá bão hòa, ánh sáng phi thực tế, máy quay rung, nhòe chuyển động, hậu cảnh lộn xộn.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Tác phẩm điêu khắc gel hình cây hoa anh đào">
-
-**[🎬 Xem video →](https://x.com/Strength04_X/status/2085703642037018819)**
-
-**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Đã xuất bản:** Aug 7, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -2978,6 +3005,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-10T08:39:33.855Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-10T15:51:39.241Z</sub>
 
 </div>

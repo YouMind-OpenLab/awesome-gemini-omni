@@ -46,7 +46,7 @@
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 พรอมต์ทั้งหมด | **255** |
+| 📝 พรอมต์ทั้งหมด | **256** |
 | ⭐ พรอมต์แนะนำ | **0** |
 | 🔄 อัปเดตล่าสุด | **2026-09-10** |
 
@@ -56,6 +56,72 @@
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
+### Luxury Rose Perfume Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive cinematic storyboard prompt for a luxury perfume commercial, detailing sequence shots, camera movements, and visual style for consistent video generation.
+
+#### 📝 พรอมต์
+
+```
+TITLE:
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+<img src="https://cms-assets.youmind.com/media/1789029635589_m81x68_HR11RR_boAA3Bzj.jpg" width="600" alt="Luxury Rose Perfume Commercial Storyboard">
+
+**[🎬 ดูวิดีโอ →](https://x.com/WanderingC76/status/2097964022293549127)**
+
+**ผู้เขียน:** [Wandering Corner](https://x.com/WanderingC76) | **แหล่งที่มา:** [Link](https://x.com/WanderingC76/status/2097964022293549127) | **เผยแพร่เมื่อ:** Sep 10, 2026
+
+---
 ### คฤหาสน์สไตล์ทิวดอร์โมเดิร์นในเทือกเขาบลูริดจ์
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2954,49 +3020,6 @@ CUT 12 | 14.0-15.0 วินาที - ฉากจบ: ตัวอักษ�
 **ผู้เขียน:** [PZF](https://x.com/pzf_ai) | **แหล่งที่มา:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **เผยแพร่เมื่อ:** Aug 7, 2026
 
 ---
-### ประติมากรรมเจลต้นซากุระ
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> พรอมต์แนวภาพยนตร์แบบมาโครสำหรับ Gemini Omni ที่ถ่ายทอดภาพเจลเรืองแสงซึ่งเปลี่ยนรูปเป็นต้นซากุระจิ๋วที่มีรายละเอียดสมจริงขณะไหลออกมาจากหลอด
-
-#### 📝 พรอมต์
-
-```
-ภาพมือที่ดูสมจริงค่อยๆ บีบหลอดโลหะเงางามที่มีหัวฉีดขัดเงา แทนที่จะเป็นเนื้อครีมทั่วไป กลับมีเจลใสที่เรืองแสงอ่อนๆ ไหลออกมาอย่างนุ่มนวล ขณะที่เนื้อเจลไหลออกมา มันจะเปลี่ยนรูปอย่างเป็นธรรมชาติกลายเป็น "ต้นซากุระ" ขนาดจิ๋วที่ถูกปั้นแต่งอย่างสวยงาม โดยค่อยๆ ก่อตัวขึ้นทีละชั้นในการเคลื่อนไหวที่ต่อเนื่องเพียงครั้งเดียว ลำต้นที่ละเอียดอ่อนค่อยๆ งอกขึ้นมาก่อน ตามด้วยกิ่งก้านที่แตกแขนงอย่างสง่างามและผลิบานเป็นดอกซากุระโปร่งแสงขนาดเล็กหลายร้อยดอก ทั้งหมดนี้ก่อตัวขึ้นอย่างไร้รอยต่อในการเปลี่ยนผ่านที่ลื่นไหลเพียงครั้งเดียว
-
-ผลงานชิ้นจิ๋วที่เสร็จสมบูรณ์ดูมีความเงางาม โปร่งแสงเล็กน้อย นุ่มนวล และยืดหยุ่น มีอาการสั่นไหวเล็กน้อยก่อนจะคงตัวอย่างเป็นธรรมชาติ ดอกไม้สั่นไหวเบาๆ ก่อนจะหยุดนิ่ง ในขณะที่แสงสะท้อนขนาดเล็กวิ่งผ่านพื้นผิวเจลที่เรียบเนียน แสงเรืองรองจากภายในที่นุ่มนวลกระจายผ่านกิ่งก้านและกลีบดอกทุกส่วน สร้างรูปลักษณ์ที่ดูหรูหราคล้ายแก้วระดับพรีเมียม
-
-วัตถุวางอยู่บนพื้นผิวหินสีเข้มแบบด้านที่ประดับด้วยหยดน้ำละเอียด ซึ่งช่วยเพิ่มความสมจริงและการสะท้อนของแสง
-
-สไตล์:
-การถ่ายภาพมาโครระยะใกล้พิเศษ
-CGI ที่สมจริงเกินจริง
-แสงสตูดิโอแบบภาพยนตร์
-ระยะชัดลึกที่ตื้นมาก
-การสะท้อนของแสงที่คมชัด
-ความสวยงามระดับโฆษณาสินค้าพรีเมียม
-การเปลี่ยนผ่านที่ราบรื่นและต่อเนื่อง
-พื้นผิวที่คมชัด
-วัสดุที่สมจริงเหมือนภาพถ่าย
-คุณภาพ 8K
-แนวตั้ง 16:9
-30 FPS
-ไม่มีข้อความ
-ไม่มีการเคลื่อนไหวของกล้อง
-ไม่มีสิ่งรบกวนในพื้นหลัง
-
-คำสั่งเชิงลบ (Negative Prompt):
-คุณภาพต่ำ, การ์ตูน, อะนิเมะ, รายละเอียดต่ำ, รูปลักษณ์เหมือนพลาสติก, เม็ดสี, สัญญาณรบกวน, การสั่นไหว, เรขาคณิตที่แตกหัก, รูปร่างผิดเพี้ยน, วัตถุส่วนเกิน, ข้อความ, ลายน้ำ, โลโก้, สีที่อิ่มตัวเกินไป, แสงที่ไม่สมจริง, กล้องสั่น, ภาพเบลอจากการเคลื่อนไหว, พื้นหลังที่รก
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="ประติมากรรมเจลต้นซากุระ">
-
-**[🎬 ดูวิดีโอ →](https://x.com/Strength04_X/status/2085703642037018819)**
-
-**ผู้เขียน:** [𝐌](https://x.com/Strength04_X) | **แหล่งที่มา:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **เผยแพร่เมื่อ:** Aug 7, 2026
-
----
 ---
 
 ## 📚 มีพรอมต์เพิ่มเติม
@@ -3049,6 +3072,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 ส่งพรอมต์](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-09-10T08:39:32.556Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-09-10T15:51:37.851Z</sub>
 
 </div>

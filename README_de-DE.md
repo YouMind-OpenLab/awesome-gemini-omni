@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **255** |
+| 📝 Gesamtanzahl Prompts | **256** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-10** |
 
@@ -56,6 +56,72 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Luxury Rose Perfume Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive cinematic storyboard prompt for a luxury perfume commercial, detailing sequence shots, camera movements, and visual style for consistent video generation.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+<img src="https://cms-assets.youmind.com/media/1789029635589_m81x68_HR11RR_boAA3Bzj.jpg" width="600" alt="Luxury Rose Perfume Commercial Storyboard">
+
+**[🎬 Video ansehen →](https://x.com/WanderingC76/status/2097964022293549127)**
+
+**Autor:** [Wandering Corner](https://x.com/WanderingC76) | **Quelle:** [Link](https://x.com/WanderingC76/status/2097964022293549127) | **Veröffentlicht:** Sep 10, 2026
+
+---
 ### Tudor-Modern-Anwesen in den Blue Ridge Mountains
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2915,45 +2981,6 @@ Erstelle eine fesselnde Szene auf Basis dieses Bildes. Nutze dabei verschiedene 
 **Autor:** [PZF](https://x.com/pzf_ai) | **Quelle:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Veröffentlicht:** Aug 7, 2026
 
 ---
-### Kirschblütenbaum-Gel-Skulptur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein kinoreifer Makro-Prompt für Gemini Omni, der visualisiert, wie ein leuchtendes Gel beim Austreten aus einer Tube zu einem detaillierten Miniatur-Kirschblütenbaum wird.
-
-#### 📝 Prompt
-
-```
-Eine realistische Hand drückt langsam eine elegante Metalltube mit polierter Düse zusammen. Anstelle von gewöhnlicher Paste fließt ein kristallklares, sanft leuchtendes Gel heraus. Während das Material austritt, verwandelt es sich organisch in einen winzigen, wunderschön geformten „Kirschblütenbaum“, der sich in einer kontinuierlichen Bewegung Schicht für Schicht aufbaut. Zuerst erhebt sich der zarte Stamm, gefolgt von anmutig verzweigten Ästen, die in hunderten winzigen, durchscheinenden Kirschblüten erblühen – alles nahtlos in einer einzigen, fließenden Transformation.
-Die fertige Miniatur wirkt glänzend, leicht transparent, weich und elastisch, mit einem subtilen Wackeln, bevor sie sich natürlich beruhigt. Die Blüten beben sanft, bevor sie zur Ruhe kommen, während winzige Lichtreflexe über die glatte Geloberfläche wandern. Ein sanftes inneres Leuchten durchdringt jeden Ast und jedes Blütenblatt und erzeugt eine elegante, hochwertige, glasartige Optik.
-Das Objekt ruht auf einer dunklen, matten Steinoberfläche, die mit zarten Wassertropfen verziert ist, welche den Realismus und die Reflexionen verstärken.
-Stil:
-Ultra-Makrofotografie
-Hyperrealistisches CGI
-Kinoreife Studiobeleuchtung
-Extrem geringe Schärfentiefe
-Reiche Reflexionen
-Ästhetik eines Premium-Produktwerbespots
-Fließende, kontinuierliche Transformation
-Gestochen scharfe Texturen
-Fotorealistische Materialien
-8K-Qualität
-Vertikal 16:9
-30 FPS
-Kein Text
-Keine Kamerabewegung
-Keine Hintergrundstörungen
-Negativer Prompt:
-Niedrige Qualität, Cartoon, Anime, wenig Details, plastikartiges Aussehen, Körnung, Rauschen, Flimmern, fehlerhafte Geometrie, deformierte Form, zusätzliche Objekte, Text, Wasserzeichen, Logo, übersättigte Farben, unrealistische Beleuchtung, verwackelte Kamera, Bewegungsunschärfe, überladener Hintergrund.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Kirschblütenbaum-Gel-Skulptur">
-
-**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2085703642037018819)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Veröffentlicht:** Aug 7, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3006,6 +3033,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-10T08:39:39.209Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-10T15:51:43.901Z</sub>
 
 </div>

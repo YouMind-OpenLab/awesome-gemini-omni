@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **255** |
+| 📝 Totale prompt | **256** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-09-10** |
 
@@ -56,6 +56,72 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Luxury Rose Perfume Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive cinematic storyboard prompt for a luxury perfume commercial, detailing sequence shots, camera movements, and visual style for consistent video generation.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+<img src="https://cms-assets.youmind.com/media/1789029635589_m81x68_HR11RR_boAA3Bzj.jpg" width="600" alt="Luxury Rose Perfume Commercial Storyboard">
+
+**[🎬 Guarda il video →](https://x.com/WanderingC76/status/2097964022293549127)**
+
+**Autore:** [Wandering Corner](https://x.com/WanderingC76) | **Fonte:** [Link](https://x.com/WanderingC76/status/2097964022293549127) | **Pubblicato:** Sep 10, 2026
+
+---
 ### Tenuta in stile Tudor moderno sulle Blue Ridge Mountains
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2887,45 +2953,6 @@ Crea una scena interessante basata su questa immagine, utilizzando molteplici in
 **Autore:** [PZF](https://x.com/pzf_ai) | **Fonte:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Pubblicato:** Aug 7, 2026
 
 ---
-### Scultura in gel a forma di ciliegio in fiore
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt macro cinematografico per Gemini Omni che visualizza un gel luminoso che si trasforma in un dettagliato albero di ciliegio in miniatura mentre fuoriesce da un tubetto.
-
-#### 📝 Prompt
-
-```
-Una mano realistica preme lentamente un elegante tubetto metallico con un beccuccio lucido. Invece della solita pasta, fuoriesce fluidamente un gel cristallino che emana una luce soffusa. Mentre il materiale emerge, si trasforma organicamente in un minuscolo e magnifico "albero di ciliegio", prendendo forma strato dopo strato in un unico movimento continuo. Il tronco delicato si solleva per primo, seguito da rami aggraziati che sbocciano in centinaia di minuscoli fiori di ciliegio traslucidi, il tutto formandosi senza interruzioni in un'unica trasformazione fluida.
-La miniatura finita appare lucida, leggermente traslucida, morbida ed elastica, con un leggero ondeggiamento prima di stabilizzarsi naturalmente. I fiori tremano delicatamente prima di fermarsi, mentre minuscoli riflessi attraversano la superficie liscia del gel. Un soffice bagliore interno si diffonde attraverso ogni ramo e petalo, creando un elegante aspetto simile al vetro di alta qualità.
-L'oggetto poggia su una superficie in pietra scura opaca decorata con delicate gocce d'acqua che esaltano il realismo e i riflessi.
-Stile:
-Fotografia ultra macro
-CGI iper-realistica
-Illuminazione da studio cinematografica
-Profondità di campo estremamente ridotta
-Ricchi riflessi
-Estetica da spot pubblicitario premium
-Trasformazione fluida e continua
-Texture nitide
-Materiali fotorealistici
-Qualità 8K
-Verticale 16:9
-30 FPS
-Nessun testo
-Nessun movimento di camera
-Nessuna distrazione sullo sfondo
-Negative Prompt:
-Bassa qualità, cartone animato, anime, pochi dettagli, aspetto plastico, grana, rumore, sfarfallio, geometria rotta, forma deformata, oggetti extra, testo, filigrana, logo, colori sovrasaturi, illuminazione irrealistica, camera tremolante, motion blur, sfondo disordinato.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Scultura in gel a forma di ciliegio in fiore">
-
-**[🎬 Guarda il video →](https://x.com/Strength04_X/status/2085703642037018819)**
-
-**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Pubblicato:** Aug 7, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -2978,6 +3005,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-10T08:39:41.424Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-10T15:51:47.976Z</sub>
 
 </div>

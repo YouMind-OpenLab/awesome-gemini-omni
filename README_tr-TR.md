@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **255** |
+| 📝 Toplam İstem | **256** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-10** |
 
@@ -56,6 +56,72 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Luxury Rose Perfume Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive cinematic storyboard prompt for a luxury perfume commercial, detailing sequence shots, camera movements, and visual style for consistent video generation.
+
+#### 📝 İstem
+
+```
+TITLE:
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+<img src="https://cms-assets.youmind.com/media/1789029635589_m81x68_HR11RR_boAA3Bzj.jpg" width="600" alt="Luxury Rose Perfume Commercial Storyboard">
+
+**[🎬 Videoyu izle →](https://x.com/WanderingC76/status/2097964022293549127)**
+
+**Yazar:** [Wandering Corner](https://x.com/WanderingC76) | **Kaynak:** [Link](https://x.com/WanderingC76/status/2097964022293549127) | **Yayınlandı:** Sep 10, 2026
+
+---
 ### Blue Ridge Dağları'nda Tudor Modern Malikane
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2915,45 +2981,6 @@ Bu görseli temel alarak, korku ve endişe hissi yaratmak için birden fazla kam
 **Yazar:** [PZF](https://x.com/pzf_ai) | **Kaynak:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Yayınlandı:** Aug 7, 2026
 
 ---
-### Kiraz Çiçeği Ağacı Jel Heykel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için, parlayan bir jelin tüpten çıkarken detaylı bir minyatür kiraz çiçeği ağacına dönüştüğü anı görselleştiren sinematik bir makro istemi.
-
-#### 📝 İstem
-
-```
-Gerçekçi bir el, cilalı bir başlığa sahip şık metalik bir tüpü yavaşça sıkıyor. Sıradan bir macun yerine, kristal netliğinde ve hafifçe parlayan bir jel pürüzsüzce dışarı akıyor. Malzeme dışarı çıktıkça, tek bir sürekli hareketle katman katman şekillenerek organik bir şekilde minik, güzelce yontulmuş bir "Kiraz Çiçeği Ağacı"na dönüşüyor. Önce narin gövde yükseliyor, ardından zarifçe dallanan kollar yüzlerce minik yarı saydam kiraz çiçeğine dönüşüyor; hepsi tek bir akışkan dönüşümle kusursuzca oluşuyor.
-Tamamlanmış minyatür parlak, hafif yarı saydam, yumuşak ve esnek görünüyor; doğal bir şekilde yerleşmeden önce hafifçe titriyor. Çiçekler sabitlenmeden önce nazikçe sallanırken, pürüzsüz jel yüzeyinde minik parıltılar hareket ediyor. Her dal ve taç yaprağın içinden yayılan yumuşak bir ışık, zarif ve birinci sınıf, cam benzeri bir görünüm yaratıyor.
-Nesne, gerçekçiliği ve yansımaları artıran narin su damlalarıyla süslenmiş koyu mat bir taş yüzey üzerinde duruyor.
-Stil:
-Ultra makro fotoğrafçılık
-Hiper gerçekçi CGI
-Sinematik stüdyo aydınlatması
-Son derece sığ alan derinliği
-Zengin yansımalar
-Premium ürün reklam estetiği
-Pürüzsüz sürekli dönüşüm
-Keskin dokular
-Fotogerçekçi malzemeler
-8K kalite
-Dikey 16:9
-30 FPS
-Metin yok
-Kamera hareketi yok
-Arka plan dikkat dağıtıcıları yok
-Negatif İstem:
-Düşük kalite, çizgi film, anime, düşük detay, plastik görünüm, gren, gürültü, titreme, bozuk geometri, deforme olmuş şekil, fazladan nesneler, metin, filigran, logo, aşırı doygun renkler, gerçekçi olmayan aydınlatma, titrek kamera, hareket bulanıklığı, karmaşık arka plan.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Kiraz Çiçeği Ağacı Jel Heykel">
-
-**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2085703642037018819)**
-
-**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Yayınlandı:** Aug 7, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3006,6 +3033,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-10T08:39:44.616Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-10T15:51:53.595Z</sub>
 
 </div>

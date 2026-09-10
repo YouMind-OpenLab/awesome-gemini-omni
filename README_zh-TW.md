@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **255** |
+| 📝 提示詞總數 | **256** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-09-10** |
 
@@ -56,6 +56,72 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### Luxury Rose Perfume Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive cinematic storyboard prompt for a luxury perfume commercial, detailing sequence shots, camera movements, and visual style for consistent video generation.
+
+#### 📝 提示詞
+
+```
+TITLE:
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+<img src="https://cms-assets.youmind.com/media/1789029635589_m81x68_HR11RR_boAA3Bzj.jpg" width="600" alt="Luxury Rose Perfume Commercial Storyboard">
+
+**[🎬 觀看視頻 →](https://x.com/WanderingC76/status/2097964022293549127)**
+
+**作者:** [Wandering Corner](https://x.com/WanderingC76) | **來源:** [Link](https://x.com/WanderingC76/status/2097964022293549127) | **發布時間:** Sep 10, 2026
+
+---
 ### 藍嶺山脈中的都鐸現代風莊園
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2975,45 +3041,6 @@ EMBER AND THE FIREFLY 分鏡腳本 — 8 秒鏡頭清單
 **作者:** [PZF](https://x.com/pzf_ai) | **來源:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **發布時間:** Aug 7, 2026
 
 ---
-### 櫻花樹凝膠雕塑
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Gemini Omni 設計的電影級微距提示詞，旨在呈現發光的凝膠從管中擠出，並轉化為精緻微型櫻花樹的視覺效果。
-
-#### 📝 提示詞
-
-```
-一隻寫實的手緩慢地擠壓著一支帶有拋光噴嘴的時尚金屬管。流出的不是普通的膏體，而是一種晶瑩剔透、散發柔和光芒的凝膠。隨著材料湧出，它有機地轉化為一棵精緻且雕琢細膩的「櫻花樹」，在連續的動作中一層層成形。纖細的樹幹首先升起，接著是優雅的分枝，綻放出數百朵微小的半透明櫻花，整個過程流暢且渾然一體。
-完成後的微型作品呈現出光澤感，略帶半透明、柔軟且富有彈性，在穩定下來之前有輕微的晃動感。花朵在靜止前輕微顫動，微小的光點在光滑的凝膠表面流動。柔和的內光透過每一根枝條和花瓣擴散，營造出優雅且高級的玻璃質感。
-物體放置在深色霧面石材表面上，並點綴著精緻的水珠，增強了真實感與反射效果。
-風格：
-超微距攝影
-超寫實 CGI
-電影級攝影棚燈光
-極淺景深
-豐富的反射效果
-高級產品商業美學
-流暢的連續變形
-清晰的紋理
-照片級真實材質
-8K 畫質
-垂直 16:9
-30 FPS
-無文字
-無鏡頭移動
-無背景干擾
-負面提示詞：
-低畫質、卡通、動畫、細節不足、塑膠感、顆粒感、雜訊、閃爍、幾何結構破碎、形狀變形、多餘物體、文字、浮水印、標誌、色彩過飽和、不真實的燈光、鏡頭晃動、動態模糊、背景雜亂。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="櫻花樹凝膠雕塑">
-
-**[🎬 觀看視頻 →](https://x.com/Strength04_X/status/2085703642037018819)**
-
-**作者:** [𝐌](https://x.com/Strength04_X) | **來源:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **發布時間:** Aug 7, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -3066,6 +3093,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-10T08:39:28.876Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-10T15:51:34.385Z</sub>
 
 </div>

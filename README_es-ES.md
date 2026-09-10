@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **255** |
+| 📝 Total de prompts | **256** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-09-10** |
 
@@ -56,6 +56,72 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Luxury Rose Perfume Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive cinematic storyboard prompt for a luxury perfume commercial, detailing sequence shots, camera movements, and visual style for consistent video generation.
+
+#### 📝 Prompt
+
+```
+TITLE:
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+<img src="https://cms-assets.youmind.com/media/1789029635589_m81x68_HR11RR_boAA3Bzj.jpg" width="600" alt="Luxury Rose Perfume Commercial Storyboard">
+
+**[🎬 Ver video →](https://x.com/WanderingC76/status/2097964022293549127)**
+
+**Autor:** [Wandering Corner](https://x.com/WanderingC76) | **Fuente:** [Link](https://x.com/WanderingC76/status/2097964022293549127) | **Publicado:** Sep 10, 2026
+
+---
 ### Finca de estilo Tudor moderno en las Blue Ridge Mountains
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2887,45 +2953,6 @@ Crea una escena interesante basada en esta imagen, utilizando múltiples tomas d
 **Autor:** [PZF](https://x.com/pzf_ai) | **Fuente:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Publicado:** Aug 7, 2026
 
 ---
-### Escultura de gel de cerezo en flor
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinemático macro para Gemini Omni que visualiza un gel brillante transformándose en un detallado cerezo en flor en miniatura a medida que emerge de un tubo.
-
-#### 📝 Prompt
-
-```
-Una mano realista aprieta lentamente un elegante tubo metálico con una boquilla pulida. En lugar de pasta común, un gel cristalino y suavemente brillante fluye con fluidez. A medida que el material emerge, se transforma orgánicamente en un pequeño y bellamente esculpido "Cherry Blossom Tree", tomando forma capa por capa en un movimiento continuo. El delicado tronco surge primero, seguido por ramas que se ramifican con gracia y florecen en cientos de diminutas flores de cerezo translúcidas, formándose todo sin interrupciones en una sola transformación fluida.
-La miniatura terminada parece brillante, ligeramente translúcida, suave y elástica, con un leve balanceo antes de asentarse de forma natural. Las flores vibran suavemente antes de quedar inmóviles, mientras pequeños reflejos recorren la superficie lisa del gel. Un suave brillo interior se difunde a través de cada rama y pétalo, creando una apariencia elegante similar al vidrio de alta calidad.
-El objeto descansa sobre una superficie de piedra mate oscura decorada con delicadas gotas de agua que realzan el realismo y los reflejos.
-Estilo:
-Fotografía ultra macro
-CGI hiperrealista
-Iluminación de estudio cinemática
-Profundidad de campo extremadamente reducida
-Reflejos ricos
-Estética comercial de producto premium
-Transformación continua y fluida
-Texturas nítidas
-Materiales fotorrealistas
-Calidad 8K
-Vertical 16:9
-30 FPS
-Sin texto
-Sin movimiento de cámara
-Sin distracciones en el fondo
-Negative Prompt:
-Baja calidad, dibujos animados, anime, poco detalle, apariencia de plástico, grano, ruido, parpadeo, geometría rota, forma deformada, objetos extra, texto, marca de agua, logotipo, colores sobresaturados, iluminación poco realista, cámara temblorosa, desenfoque de movimiento, fondo desordenado.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="Escultura de gel de cerezo en flor">
-
-**[🎬 Ver video →](https://x.com/Strength04_X/status/2085703642037018819)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **Publicado:** Aug 7, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -2978,6 +3005,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-10T08:39:36.526Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-10T15:51:41.808Z</sub>
 
 </div>

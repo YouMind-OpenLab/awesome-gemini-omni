@@ -46,7 +46,7 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **255** |
+| 📝 プロンプト総数 | **256** |
 | ⭐ おすすめプロンプト | **0** |
 | 🔄 最終更新 | **2026-09-10** |
 
@@ -56,6 +56,72 @@ Google の Gemini Omni 向け高品質動画生成プロンプトコレクショ
 
 > 📝 公開日でソート（新しい順）
 
+### Luxury Rose Perfume Commercial Storyboard
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive cinematic storyboard prompt for a luxury perfume commercial, detailing sequence shots, camera movements, and visual style for consistent video generation.
+
+#### 📝 プロンプト
+
+```
+TITLE:
+Luxury Rose Perfume Cinematic Product Commercial Storyboard
+
+FORMAT:
+• Single-page premium storyboard
+• 3:4 portrait storyboard sheet
+• 10 cinematic product-focused panels
+• Clean editorial grid with thin borders
+• Connected sequence from one continuous commercial
+• Luxury beauty campaign aesthetic
+
+HEADER:
+• Bold elegant typography
+• Compact information cards
+• Duration: 20 Seconds
+• Style: Soft Luxury Fragrance Commercial
+• Product: Premium Perfume Bottle
+• Audio: Glass Tap + Soft Spray + Liquid ASMR + Gentle Whoosh
+• White, blush pink and champagne aesthetic
+• Minimal floral graphic accents
+
+STORYBOARD:
+1. Perfume bottle standing alone on a glossy white studio surface
+2. Macro shot revealing crystal glass, cap and delicate reflections
+3. Soft pink light sweeps smoothly across the bottle
+4. Perfume cap lifts elegantly with a subtle sparkle
+5. Fragrance liquid gently swirls inside the bottle
+6. Fine perfume mist sprays into the soft white-pink atmosphere
+7. Floating rose petals slowly move around the bottle
+8. Bottle performs a smooth elegant 360° rotation
+9. Rose petals settle around the base of the bottle
+10. Final hero shot with perfume bottle, soft pink glow and delicate petals
+
+FRAME CONSISTENCY:
+• Same perfume bottle in every scene
+• Identical bottle shape, cap, label and proportions
+• Same white glossy studio environment
+• Soft white-pink gradient background throughout
+• Consistent champagne highlights and reflections
+• Same rose petals from Scene 7 onward
+• Product remains centered and visually dominant
+• Every frame naturally continues from the previous scene
+
+CAMERA:
+Luxury macro photography, smooth 360° product rotation, controlled push-ins, shallow depth of field, soft reflections, slow-motion mist and elegant cinematic movement.
+
+VISUAL STYLE:
+Ultra-realistic premium beauty advertising, crystal glass, realistic perfume liquid, soft pink atmosphere, delicate
+```
+
+<img src="https://cms-assets.youmind.com/media/1789029635589_m81x68_HR11RR_boAA3Bzj.jpg" width="600" alt="Luxury Rose Perfume Commercial Storyboard">
+
+**[🎬 動画を見る →](https://x.com/WanderingC76/status/2097964022293549127)**
+
+**作者:** [Wandering Corner](https://x.com/WanderingC76) | **ソース:** [Link](https://x.com/WanderingC76/status/2097964022293549127) | **公開日:** Sep 10, 2026
+
+---
 ### ブルーリッジ山脈に佇むチューダーモダン様式の邸宅
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2954,45 +3020,6 @@ First Frame Image を正確な開始フレームとして使用し、同じ木�
 **作者:** [PZF](https://x.com/pzf_ai) | **ソース:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **公開日:** Aug 7, 2026
 
 ---
-### 桜の木のジェル彫刻
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni 向けのシネマティックなマクロ撮影プロンプト。チューブから絞り出された光るジェルが、精巧なミニチュアの桜の木へと変化していく様子を視覚化します。
-
-#### 📝 プロンプト
-
-```
-リアルな手が、磨き上げられたノズルを持つ洗練された金属製チューブをゆっくりと絞り出します。中から出てくるのは普通のペーストではなく、透明感のある柔らかな光を放つジェルです。素材が押し出されるにつれ、それは有機的に変化し、美しい「桜の木」のミニチュアへと形を変えていきます。層を重ねるように一連の動作で、繊細な幹が立ち上がり、そこから優雅に枝分かれして、何百もの小さな半透明の桜の花が咲き誇ります。すべてが途切れることなく、流れるような変化の中で形作られます。
-完成したミニチュアは光沢があり、わずかに半透明で、柔らかく弾力のある質感です。自然に落ち着く前にわずかに揺れ、花びらも静止するまで優しく震えます。滑らかなジェルの表面には小さなハイライトが走り、枝や花びら全体に柔らかな内側の光が拡散し、高級感のあるガラスのような外観を演出します。
-被写体は、リアルさと反射を強調する繊細な水滴が散りばめられた、暗いマットな石の表面に置かれています。
-スタイル：
-ウルトラマクロ撮影
-ハイパーリアルな CGI
-シネマティックなスタジオ照明
-極めて浅い被写界深度
-豊かな反射
-プレミアムな製品コマーシャルの美学
-滑らかで連続的な変化
-鮮明なテクスチャ
-フォトリアルな素材感
-8K 画質
-縦型 16:9
-30 FPS
-テキストなし
-カメラの動きなし
-背景のノイズなし
-ネガティブプロンプト：
-低品質、漫画、アニメ、低ディテール、プラスチックのような質感、粒子、ノイズ、ちらつき、壊れたジオメトリ、変形した形状、余計なオブジェクト、テキスト、ウォーターマーク、ロゴ、彩度が高すぎる色、非現実的な照明、カメラの揺れ、モーションブラー、散らかった背景。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085703553629421568/img/uAA3ZcrCvrPpxX72.jpg" width="600" alt="桜の木のジェル彫刻">
-
-**[🎬 動画を見る →](https://x.com/Strength04_X/status/2085703642037018819)**
-
-**作者:** [𝐌](https://x.com/Strength04_X) | **ソース:** [Link](https://x.com/Strength04_X/status/2085703642037018819) | **公開日:** Aug 7, 2026
-
----
 ---
 
 ## 📚 その他のプロンプト
@@ -3045,6 +3072,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-10T08:39:29.915Z</sub>
+<sub>🤖 このREADMEは自動生成されています。最終更新： 2026-09-10T15:51:35.652Z</sub>
 
 </div>
