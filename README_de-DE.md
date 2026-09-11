@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **256** |
+| 📝 Gesamtanzahl Prompts | **260** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-11** |
 
@@ -56,6 +56,127 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Steampunk-Monowheel im viktorianischen Stil mit Pferdeantrieb
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein cineastischer Prompt im Dokumentarstil für ein Steampunk-Einradfahrzeug, das von einem Pferd auf einem internen Laufband angetrieben wird, inklusive realistischer Physik und Beleuchtung zur goldenen Stunde.
+
+#### 📝 Prompt
+
+```
+Fotorealistisch, 9:16 vertikale Kamerafahrt, cineastischer Dokumentarfilm-Realismus. Ein viktorianischer Steampunk-Gentleman in einem braunen Tweed-Gehrock, Weste, weißem Ascot, schwarzem Zylinder und runder Messingbrille fährt auf einem absurden, überdimensionalen motorisierten Monowheel-Fahrzeug über einen Feldweg neben einer offenen, ländlichen grünen Weide. Auf dem riesigen Stahlradrahmen sind ein Vintage-Ledersattel und ein polierter Messinglenker mit zwei Frontlaternen montiert. Im Inneren der rotierenden, gerillten Stahlfelge läuft ein braunes Pferd auf einem internen Laufband und treibt das Rad mechanisch im gleichmäßigen Trab voran. Die Kamera gleitet in mittlerer Weitwinkelperspektive mit passender Geschwindigkeit daneben her und zeigt realistische Abrollphysik, aufgewirbelten Staub, weiches Tageslicht zur goldenen Stunde, subtile mechanische Vibrationen und eine tiefe Schärfentiefe. Hochdetailliert, 4K, 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098082175296143361/img/npjT8LtEI2oQLMPE.jpg" width="600" alt="Steampunk-Monowheel im viktorianischen Stil mit Pferdeantrieb">
+
+**[🎬 Video ansehen →](https://x.com/sebatheepan/status/2098086634344288268)**
+
+**Autor:** [Pan](https://x.com/sebatheepan) | **Quelle:** [Link](https://x.com/sebatheepan/status/2098086634344288268) | **Veröffentlicht:** Sep 10, 2026
+
+---
+### Coca Cola Beach Magic Werbespot
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein umfassendes, als JSON strukturiertes Video-Skript-Prompt zur Erstellung einer magischen Werbeszene, in der sich Wasser an einem sonnigen Strand in eine Coca-Cola-Dose verwandelt.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "einzelne, kontinuierliche Einstellung ohne Schnitte",
+    "composition": "beginnt in einer mittelweiten Einstellung mit einer jungen, selbstbewussten Frau, die barfuß an einem sonnigen Strand steht, folgt ihrem Wurf und der Drehung des Glases, endet in einer engen ASMR-Nahaufnahme, wie sie an der Coca-Cola-Dose nippt",
+    "lens": "35mm für die Strandumgebung, dann 85mm für die Produktpräsentation und das Trinken",
+    "frame_rate": "24fps cineastisch",
+    "camera_movement": "schneller Lock-off für den Satz, sanfter Push-in während sich das Glas dreht, leichter Orbit in eine enge Nahaufnahme beim Öffnen der Dose und dem Schluck"
+  },
+  "timeline": {
+    "0-3s": "Heller, sonniger Strand, weißer Sand und türkisfarbener Ozean. Eine junge Frau in sommerlicher Kleidung steht barfuß da, hält ein klares Glas Wasser, schaut mit einem verspielten Lächeln in die Kamera und sagt: 'Gott verwandelte Wasser in Wein. Ich kann Coca-Cola daraus machen.'",
+    "3-7s": "Sie wirft das Glas leicht in die Luft, fängt es auf und es beginnt in ihrer Hand mit einem schwachen roten Funkeln zu rotieren. In einer nahtlosen Bewegung verwandelt sich das sich drehende Glas in eine eisige, rote Coca-Cola-Dose, an deren Oberfläche Kondenswasser herabläuft.",
+    "7-10s": "Sie öffnet die Dose mit einem knackigen 'Pschht', nimmt einen langsamen ASMR-Schluck mit sichtbarem Sprudeln, senkt die Dose leicht und lächelt zufrieden vor der Meereskulisse. Kein Text-Overlay."
+  },
+  "subject": {
+    "description": "junge, selbstbewusste Frau an einem sonnigen Strand, die eine verspielte magische Verwandlung von einem Glas Wasser in eine Coca-Cola-Dose vollführt",
+    "props": "klares Glas Wasser, das sich in eine klassische rote Coca-Cola-Dose mit Kondenswasser verwandelt"
+  },
+  "scene": {
+    "location": "heller tropischer Strand mit weißem Sand und ruhigem, türkisfarbenem Ozean",
+    "time_of_day": "Mittagssonne, natürliche Strandreflexionen",
+    "environment": "offene Küstenlinie, sanfte Wellen, sauberer Werbe-Look"
+  },
+  "visual_details": {
+    "action": "Sprechen des Satzes, Wurf und Drehung des Glases, nahtlose Verwandlung in die Coca-Cola-Dose, Öffnen der Dose, langsamer Schluck, zufriedenes Lächeln",
+    "special_effects": "rotes Funkeln am rotierenden Glas, fließende Materialverwandlung, Kondenswassertropfen, knackige Sprudelpartikel"
+  },
+  "cinematography": {
+    "lighting": "helles, natürliches Strandlicht mit klaren Highlights und Reflexionen auf der nassen Dose",
+    "color_palette": ["Coca-Cola-Rot", "weißer Sand", "türkisfarbener Ozean", "eisiges Kondenswasser"],
+    "tone": "verspielt, erfrischend, magischer Werbespot"
+  },
+  "audio": {
+    "music": "sanfte, fröhliche Strandmusik unter dem Rauschen der Wellen",
+    "ambient": "sanftes Meeresrauschen",
+    "sound_effects": "klarer Dialog, 'Whoosh'-Geräusch und Schimmern bei der Verwandlung, scharfes 'Pschht' beim Öffnen der Dose, ASMR-Sprudeln und Schluckgeräusch, leises Ausklingen des Sprudelns",
+    "mix": "knackig, werblich, produktfokussiert"
+  },
+  "constraints": {
+    "on_screen_text": "keiner",
+    "captions": "keine",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098042088793489408/img/Mt2cbUt_ExbVgz7Y.jpg" width="600" alt="Coca Cola Beach Magic Werbespot">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2098042175389151556)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2098042175389151556) | **Veröffentlicht:** Sep 10, 2026
+
+---
+### Stunt: Tee einschenken auf einem hohen Einrad
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt im Dokumentarstil, bei dem eine Frau auf einem hohen Einrad balanciert und Tee einschenkt; dient dem Modellvergleich.
+
+#### 📝 Prompt
+
+```
+Fotorealistisches, vertikales 9:16-Dokumentar-Filmmaterial aus der Hand. Auf einer sonnendurchfluteten, ländlichen Lichtung in einem Dorf fährt eine junge asiatische Frau in einem hellblauen Sommerkleid und weißen Turnschuhen auf einem 3 Meter hohen, maßgefertigten Einrad mit Leiterrahmen. Die Kamera beginnt in einer mittelhohen Einstellung, die direkt auf sie gerichtet ist, während sie auf der Stelle balanciert und sanft vor und zurück tritt. Mit einer Edelstahl-Teekanne in der einen und einer kleinen Metallschale in der anderen Hand gießt sie das Wasser in einem sauberen Bogen aus der Kanne in die Schale, während sie das Gleichgewicht perfekt hält. Nach dem Einschenken hebt sie die Schale, um ruhig einen Schluck zu trinken, und lächelt in die Kamera, während sich der Staub am Boden legt. Helles Mittagssonnenlicht, klarer blauer Himmel, realistische Balance-Physik, stabile Kameraführung, gestochen scharfe Details, 4K-Auflösung.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098037800394534912/img/MYQFHQ9rMz5kG9vk.jpg" width="600" alt="Stunt: Tee einschenken auf einem hohen Einrad">
+
+**[🎬 Video ansehen →](https://x.com/sebatheepan/status/2098038455544557838)**
+
+**Autor:** [Pan](https://x.com/sebatheepan) | **Quelle:** [Link](https://x.com/sebatheepan/status/2098038455544557838) | **Veröffentlicht:** Sep 10, 2026
+
+---
+### Akrobatische Balance-Nummer auf Bierflaschen
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein filmischer Video-Prompt im Dokumentarstil, der einen Akrobaten zeigt, wie er auf einem massiven, 4,5 Meter hohen Turm aus Glasbierflaschen balanciert, die auf einem Fahrradsattel gestapelt sind.
+
+#### 📝 Prompt
+
+```
+Handgeführte Kameraaufnahme, dynamische körperliche Aktion, authentischer Dokumentarfilm-Stil. In einem sonnendurchfluteten, ländlichen Innenhof eines Dorfes, umringt von einer energiegeladenen, jubelnden Zuschauermenge, steht ein altes schwarzes Rennrad aufrecht. Direkt auf dem kleinen Fahrradsattel balanciert eine turmhohe vertikale Säule aus grünen Glasbierflaschen, die abwechselnd mit dem Flaschenhals und dem Boden aufeinandergestapelt sind und eine Höhe von 4,5 Metern erreichen. Ganz oben führt ein athletischer Akrobat in einem weißen Oberteil, dunkler Jogginghose und Turnschuhen eine rasante Balance-Nummer auf einem Fuß auf dem Rand der obersten Flasche aus, während er mit einem klassischen Fußball jongliert. Die Kamera schwenkt schnell nach oben und verfolgt kontinuierliche Mikrobewegungen, mit natürlichem Lens Flare durch das Mittagssonnenlicht, scharfen Schatten, staubigem Boden und fotorealistischer Physik. 4K, 60fps, dynamische Bewegungsunschärfe.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098013305608511502/img/IGJmiXEFjFkVqWx9.jpg" width="600" alt="Akrobatische Balance-Nummer auf Bierflaschen">
+
+**[🎬 Video ansehen →](https://x.com/sebatheepan/status/2098013903280099595)**
+
+**Autor:** [Pan](https://x.com/sebatheepan) | **Quelle:** [Link](https://x.com/sebatheepan/status/2098013903280099595) | **Veröffentlicht:** Sep 10, 2026
+
+---
 ### Luxury Rose Perfume Commercial Storyboard
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2901,86 +3022,6 @@ Ein luxuriöser Swimmingpool, der vollständig aus durchscheinender, rubinroter 
 **Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Veröffentlicht:** Aug 10, 2026
 
 ---
-### Motion-Prompt für die Innenausstattung des Baumhauses
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Motion-Prompt für die Phase der Bemalung und Innenausstattung bei einem Zeitraffer-Bau eines Miniatur-Baumhauses.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie das vollständig fertiggestellte Äußere des Baumhauses aus Motion Prompt 4 als exakten Start-Frame. Behalten Sie die Architektur, das Dach, die Fenster, den Balkon, den Baum, die Umgebung und die Proportionen exakt bei.
-
-Erstellen Sie einen ultraschnellen Zeitraffer.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Motion-Prompt für die Innenausstattung des Baumhauses">
-
-**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2086644591089041676)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **Veröffentlicht:** Aug 10, 2026
-
----
-### Treehouse Foundation Motion Timelapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Gemini Omni Motion-Prompt zur Animation des Baus eines Baumhausfundaments im Zeitraffer-Effekt bei gleichzeitiger Wahrung der visuellen Konsistenz.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie das First Frame Image als exakten Start-Frame und bewahren Sie den Baum, die Äste, die Umgebung, den Miniaturmaßstab, die Materialien, die Beleuchtung, den Kamerastil sowie die visuelle Identität bei.
-
-Erstellen Sie eine Konstruktion im extrem schnellen Zeitraffer.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
-
-**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2086644027420815501)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Veröffentlicht:** Aug 10, 2026
-
----
-### Anime-Stil: Pandan-Teig pressen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein 2D-Anime-Prompt für Gemini Omni, der Hände beschreibt, die Reismehlteig in flüssigen Stickstoff pressen, um einen skurrilen visuellen Effekt zu erzielen.
-
-#### 📝 Prompt
-
-```
-Eine Nahaufnahme im japanischen 2D-Anime-Stil. Handgezeichnete Anime-Hände pressen leuchtend grünen Pandan-Reismehlteig durch eine traditionelle Presse in eine Schale mit flüssigem Stickstoff, wodurch eine skurrile Wolke aus kaltem Dampf und funkelndem Nebel entsteht.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime-Stil: Pandan-Teig pressen">
-
-**[🎬 Video ansehen →](https://x.com/playinbey/status/2085826420287418413)**
-
-**Autor:** [PLAY!](https://x.com/playinbey) | **Quelle:** [Link](https://x.com/playinbey/status/2085826420287418413) | **Veröffentlicht:** Aug 7, 2026
-
----
-### Bild-zu-Video mit düsterer und unheilvoller Atmosphäre
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein Prompt, der darauf ausgelegt ist, ein statisches Bild mithilfe verschiedener Kameraeinstellungen in eine dynamische Videoszene voller Düsternis und Unheil zu verwandeln.
-
-#### 📝 Prompt
-
-```
-Erstelle eine fesselnde Szene auf Basis dieses Bildes. Nutze dabei verschiedene Kameraeinstellungen und eine dynamische Bildgestaltung, um ein Gefühl von Düsternis und Unheil zu erzeugen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Bild-zu-Video mit düsterer und unheilvoller Atmosphäre">
-
-**[🎬 Video ansehen →](https://x.com/pzf_ai/status/2085736211625230529)**
-
-**Autor:** [PZF](https://x.com/pzf_ai) | **Quelle:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Veröffentlicht:** Aug 7, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3033,6 +3074,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-11T08:35:11.305Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-11T15:54:06.096Z</sub>
 
 </div>

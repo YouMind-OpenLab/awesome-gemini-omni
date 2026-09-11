@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **256** |
+| 📝 提示词总数 | **260** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-09-11** |
 
@@ -56,6 +56,127 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 蒸汽朋克维多利亚时代马力单轮车
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个电影纪录片风格的提示词，描述了一款由内部跑步机上的马匹驱动的蒸汽朋克单轮车，呈现逼真的物理效果和黄金时刻的灯光。
+
+#### 📝 提示词
+
+```
+照片级真实感，9:16 垂直追踪镜头，电影纪录片写实风格。一位身着棕色粗花呢燕尾服、马甲、白色领巾、黑色高礼帽并佩戴圆形黄铜护目镜的蒸汽朋克维多利亚绅士，正骑着一辆荒诞而巨大的机动单轮车，穿过乡村绿色牧场旁的土路。巨大的钢制轮架上方安装着复古皮革马鞍和带有双前灯的抛光黄铜车把。在旋转的凹槽钢轮毂内，一匹棕马在内部跑步机轨道上奔跑，通过机械传动驱动车轮稳步前行。摄像机以匹配的速度在中广角下并排滑行，展现出逼真的滚动物理效果、车轮扬起的尘土、柔和的黄金时刻日光、细微的机械振动以及深邃的景深。超精细，4K，60fps。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098082175296143361/img/npjT8LtEI2oQLMPE.jpg" width="600" alt="蒸汽朋克维多利亚时代马力单轮车">
+
+**[🎬 观看视频 →](https://x.com/sebatheepan/status/2098086634344288268)**
+
+**作者:** [Pan](https://x.com/sebatheepan) | **来源:** [Link](https://x.com/sebatheepan/status/2098086634344288268) | **发布时间:** Sep 10, 2026
+
+---
+### 可口可乐海滩魔法广告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个综合性的 JSON 结构化视频脚本提示词，用于生成一个充满魔法的广告场景：在阳光明媚的海滩上，水幻化成一罐可口可乐。
+
+#### 📝 提示词
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10 秒",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "单镜头连续拍摄，无场景切换",
+    "composition": "开场为中远景，拍摄一位赤脚站在阳光海滩上的自信年轻女性；跟随她抛接玻璃杯的动作，最后以特写镜头展示她饮用可口可乐的 ASMR 画面",
+    "lens": "海滩环境使用 35mm 镜头，产品展示及饮用特写使用 85mm 镜头",
+    "frame_rate": "24fps 电影感",
+    "camera_movement": "台词部分采用快速定镜，玻璃杯旋转时平滑推近，随后轻柔环绕至罐体开启及饮用的特写"
+  },
+  "timeline": {
+    "0-3s": "明媚的阳光海滩，白沙与碧蓝大海。一位穿着轻便夏装的年轻女性赤脚站立，手持一杯清水，俏皮地看向镜头并说道：'上帝能把水变成酒，我能把它变成可口可乐。'",
+    "3-7s": "她轻轻抛起玻璃杯并接住，杯子在手中旋转并伴有淡淡的红色光芒。在一次无缝衔接的动作中，旋转的玻璃杯幻化成一罐冰镇红色可口可乐，罐身挂着冷凝水珠。",
+    "7-10s": "她清脆地打开罐子，发出 '嘶' 的一声，随后进行慢节奏的 ASMR 式饮用，可以看到气泡，接着她微微放下罐子，背景是海洋，脸上露出满足的微笑。无文字遮罩。"
+  },
+  "subject": {
+    "description": "阳光海滩上自信的年轻女性，表演从水杯到可口可乐罐的俏皮魔法变身",
+    "props": "幻化为经典红色可口可乐罐（带冷凝水珠）的透明水杯"
+  },
+  "scene": {
+    "location": "明亮的度假海滩，白沙与平静的碧蓝大海",
+    "time_of_day": "正午阳光，自然的海滩反射光",
+    "environment": "开阔的海岸线，柔和的波浪，干净的商业广告风格"
+  },
+  "visual_details": {
+    "action": "台词表达、抛接与旋转玻璃杯、无缝幻化为可口可乐罐、开罐、慢饮、满足的微笑",
+    "special_effects": "旋转玻璃杯上的红色光芒、平滑的材质变形、冷凝水珠、清脆的气泡颗粒"
+  },
+  "cinematography": {
+    "lighting": "明亮的自然海滩阳光，带有干净的高光和罐体反射",
+    "color_palette": ["可口可乐红", "白沙", "碧蓝大海", "冰镇冷凝感"],
+    "tone": "俏皮、清爽、充满魔法的商业广告"
+  },
+  "audio": {
+    "music": "海浪声下轻快活泼的海滩音乐",
+    "ambient": "柔和的海浪声",
+    "sound_effects": "清晰的对白、变形时的旋转呼啸声与闪烁声、清脆的开罐声、ASMR 气泡声与饮用声、轻微的气泡余音",
+    "mix": "清脆、商业化、突出产品"
+  },
+  "constraints": {
+    "on_screen_text": "无",
+    "captions": "无",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098042088793489408/img/Mt2cbUt_ExbVgz7Y.jpg" width="600" alt="可口可乐海滩魔法广告">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2098042175389151556)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2098042175389151556) | **发布时间:** Sep 10, 2026
+
+---
+### 高脚独轮车倒茶特技
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个纪录片风格的提示词，展示了一名女性在骑高脚独轮车的同时倒茶，用于模型对比。
+
+#### 📝 提示词
+
+```
+照片级真实感、手持式 9:16 竖屏真实纪录片素材。在阳光明媚的乡村泥土地空地上，一位身穿浅蓝色夏装、脚蹬白色运动鞋的年轻亚裔女性，骑着一辆 10 英尺高的定制梯架独轮车。镜头以中高角度锁定她，她正在原地平稳地前后踩踏。她一手拿着不锈钢茶壶，另一手拿着一个小金属碗，在保持完美平衡的同时，将水从茶壶中平稳地划出一道优美的弧线倒入碗中。倒完水后，她举起碗从容地抿了一口，对着镜头微笑，尘土在地面上缓缓落下。强烈的正午阳光，湛蓝的天空，逼真的平衡物理效果，稳定的镜头追踪，清晰的细节，4K 分辨率。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098037800394534912/img/MYQFHQ9rMz5kG9vk.jpg" width="600" alt="高脚独轮车倒茶特技">
+
+**[🎬 观看视频 →](https://x.com/sebatheepan/status/2098038455544557838)**
+
+**作者:** [Pan](https://x.com/sebatheepan) | **来源:** [Link](https://x.com/sebatheepan/status/2098038455544557838) | **发布时间:** Sep 10, 2026
+
+---
+### 杂技演员啤酒瓶平衡表演
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一段纪录片风格的电影感视频提示词，描绘了一位杂技演员在自行车座上堆叠的 15 英尺高巨型玻璃啤酒瓶塔上保持平衡。
+
+#### 📝 提示词
+
+```
+手持电影感镜头，动态物理动作，真实的纪录片质感。在阳光明媚的乡村泥土院落中，周围挤满了充满活力、欢呼雀跃的观众，一辆复古黑色公路自行车竖立着。在狭小的自行车座上，垂直堆叠着一座高达 15 英尺的绿色玻璃啤酒瓶塔，瓶口对瓶口、瓶底对瓶底。在塔顶，一位身穿白色上衣、深色慢跑裤和运动鞋的运动型杂技演员，正单脚站在最顶端瓶子的瓶口上进行快速平衡表演，同时还在玩转一个经典足球。摄像机快速向上倾斜并追踪细微的动作变化，带有正午阳光的自然镜头光晕、清晰的阴影、尘土飞扬的地面以及照片级的物理效果。4K 分辨率，60fps，动态运动模糊。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098013305608511502/img/IGJmiXEFjFkVqWx9.jpg" width="600" alt="杂技演员啤酒瓶平衡表演">
+
+**[🎬 观看视频 →](https://x.com/sebatheepan/status/2098013903280099595)**
+
+**作者:** [Pan](https://x.com/sebatheepan) | **来源:** [Link](https://x.com/sebatheepan/status/2098013903280099595) | **发布时间:** Sep 10, 2026
+
+---
 ### Luxury Rose Perfume Commercial Storyboard
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2901,86 +3022,6 @@ EMBER AND THE FIREFLY 分镜脚本 — 8 秒镜头列表
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **发布时间:** Aug 10, 2026
 
 ---
-### 树屋室内细节动态提示词
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用于微型树屋建造延时摄影中，绘画与室内细节处理阶段的动态提示词。
-
-#### 📝 提示词
-
-```
-以“动态提示词 4”中完全完工的树屋外观作为起始帧。必须保持建筑、屋顶、窗户、阳台、树木、环境及比例完全一致。
-
-制作一个超快速的延时摄影
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="树屋室内细节动态提示词">
-
-**[🎬 观看视频 →](https://x.com/Strength04_X/status/2086644591089041676)**
-
-**作者:** [𝐌](https://x.com/Strength04_X) | **来源:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **发布时间:** Aug 10, 2026
-
----
-### Treehouse Foundation Motion Timelapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个 Gemini Omni 动态提示词，用于以超快延时摄影效果呈现树屋地基的建造过程，同时保持视觉一致性。
-
-#### 📝 提示词
-
-```
-使用“First Frame Image”作为确切的起始帧，并保持相同的树木、树枝、环境、微缩比例、材质、光照、摄像机风格和视觉特征。
-
-创建超快延时摄影速度的建造过程
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
-
-**[🎬 观看视频 →](https://x.com/Strength04_X/status/2086644027420815501)**
-
-**作者:** [𝐌](https://x.com/Strength04_X) | **来源:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **发布时间:** Aug 10, 2026
-
----
-### 动漫风格斑斓粉压制
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个用于 Gemini Omni 的 2D 动漫风格提示词，描述了将斑斓米粉团压入液氮中以产生奇幻视觉效果的手部动作。
-
-#### 📝 提示词
-
-```
-日式动漫风格 2D 动画特写视频。手绘动漫风格的手将鲜艳的绿色斑斓米粉团通过传统压制工具挤入一碗液氮中，营造出奇幻的冷蒸汽云雾和闪烁的蒸汽效果。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="动漫风格斑斓粉压制">
-
-**[🎬 观看视频 →](https://x.com/playinbey/status/2085826420287418413)**
-
-**作者:** [PLAY!](https://x.com/playinbey) | **来源:** [Link](https://x.com/playinbey/status/2085826420287418413) | **发布时间:** Aug 7, 2026
-
----
-### 恐惧与不祥之感的图生视频
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个旨在将静态图像转化为充满恐惧与不祥氛围的动态视频场景的提示词，并运用了多种镜头语言。
-
-#### 📝 提示词
-
-```
-基于此图像创建一个有趣的场景，通过多种镜头切换和动态构图，营造出一种恐惧与不祥的氛围。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="恐惧与不祥之感的图生视频">
-
-**[🎬 观看视频 →](https://x.com/pzf_ai/status/2085736211625230529)**
-
-**作者:** [PZF](https://x.com/pzf_ai) | **来源:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **发布时间:** Aug 7, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -3033,6 +3074,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-11T08:34:53.535Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-11T15:53:57.131Z</sub>
 
 </div>

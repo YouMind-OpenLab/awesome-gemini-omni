@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **256** |
+| 📝 Tổng số prompt | **260** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-11** |
 
@@ -56,6 +56,127 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Xe một bánh chạy bằng ngựa phong cách Steampunk thời Victoria
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh theo phong cách phim tài liệu điện ảnh về phương tiện một bánh steampunk được vận hành bởi một chú ngựa trên máy chạy bộ bên trong, với vật lý chân thực và ánh sáng giờ vàng.
+
+#### 📝 Prompt
+
+```
+Ảnh chân thực, cảnh quay theo dõi dọc 9:16, phong cách phim tài liệu điện ảnh. Một quý ông thời Victoria theo phong cách steampunk mặc áo khoác đuôi tôm vải tweed màu nâu, áo ghi-lê, khăn ascot trắng, mũ chóp đen và kính bảo hộ bằng đồng tròn đang lái một chiếc xe một bánh cơ giới hóa quá khổ đầy kỳ lạ trên con đường đất cạnh một đồng cỏ xanh rộng lớn. Gắn trên khung bánh xe thép khổng lồ là một chiếc yên da cổ điển và ghi-đông bằng đồng sáng bóng với đèn lồng đôi phía trước. Bên trong vành bánh xe thép có rãnh đang quay, một chú ngựa màu nâu chạy trên đường chạy bộ bên trong, tạo lực cơ học đẩy bánh xe tiến về phía trước với tốc độ nước kiệu ổn định. Máy quay lướt dọc theo với tốc độ tương ứng ở góc máy trung bình rộng, cho thấy vật lý lăn chân thực, bụi tung lên từ bánh xe, ánh sáng ban ngày giờ vàng dịu nhẹ, độ rung cơ học tinh tế và độ sâu trường ảnh sâu. Siêu chi tiết, 4K, 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098082175296143361/img/npjT8LtEI2oQLMPE.jpg" width="600" alt="Xe một bánh chạy bằng ngựa phong cách Steampunk thời Victoria">
+
+**[🎬 Xem video →](https://x.com/sebatheepan/status/2098086634344288268)**
+
+**Tác giả:** [Pan](https://x.com/sebatheepan) | **Nguồn:** [Link](https://x.com/sebatheepan/status/2098086634344288268) | **Đã xuất bản:** Sep 10, 2026
+
+---
+### Quảng cáo Coca Cola Beach Magic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một kịch bản video cấu trúc JSON toàn diện tạo ra một cảnh quay quảng cáo đầy ma thuật, nơi nước biến hình thành lon Coca-Cola trên bãi biển đầy nắng.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10 giây",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "một cảnh quay liên tục không ngắt quãng, không cắt cảnh",
+    "composition": "bắt đầu bằng góc quay trung bình rộng lấy cảnh một cô gái trẻ tự tin đứng chân trần trên bãi biển đầy nắng, theo sát cú tung và xoay ly nước của cô, kết thúc bằng cận cảnh ASMR sắc nét khi cô nhấp ngụm lon Coca-Cola",
+    "lens": "ống kính 35mm cho bối cảnh bãi biển, sau đó là 85mm cho cảnh lộ diện sản phẩm và nhấp ngụm",
+    "frame_rate": "24fps chuẩn điện ảnh",
+    "camera_movement": "cố định nhanh khi thoại, đẩy máy mượt mà khi ly xoay, di chuyển vòng tròn nhẹ nhàng vào cận cảnh khi mở lon và nhấp ngụm"
+  },
+  "timeline": {
+    "0-3s": "Bãi biển đầy nắng rực rỡ, cát trắng và đại dương xanh ngọc. Một cô gái trẻ mặc trang phục mùa hè nhẹ nhàng đứng chân trần, tay cầm ly nước trong suốt, nhìn vào ống kính với nụ cười tinh nghịch và nói: 'Chúa đã biến nước thành rượu. Tôi có thể biến nó thành Coca-Cola.'",
+    "3-7s": "Cô tung nhẹ ly nước, bắt lấy nó, và chiếc ly bắt đầu xoay trong tay cô với những tia sáng đỏ lấp lánh. Trong một chuyển động liền mạch, chiếc ly đang xoay biến hình thành một lon Coca-Cola đỏ lạnh với những giọt nước đọng chảy dài trên bề mặt.",
+    "7-10s": "Cô bật nắp lon với tiếng 'psssht' giòn tan, nhấp một ngụm chậm rãi theo phong cách ASMR với bọt ga có thể nhìn thấy rõ, sau đó hạ lon xuống một chút và mỉm cười hài lòng với khung cảnh đại dương phía sau. Không có văn bản phủ lên màn hình."
+  },
+  "subject": {
+    "description": "cô gái trẻ tự tin trên bãi biển đầy nắng thực hiện màn biến hình ma thuật tinh nghịch từ ly nước thành lon Coca-Cola",
+    "props": "ly nước trong suốt biến hình thành lon Coca-Cola đỏ cổ điển với hơi nước đọng"
+  },
+  "scene": {
+    "location": "bãi biển nhiệt đới rực rỡ với cát trắng và đại dương xanh ngọc êm đềm",
+    "time_of_day": "ánh nắng giữa trưa, phản chiếu tự nhiên trên bãi biển",
+    "environment": "bờ biển thoáng đãng, sóng vỗ nhẹ, phong cách quảng cáo sạch sẽ"
+  },
+  "visual_details": {
+    "action": "đọc thoại, tung và xoay ly, biến hình liền mạch thành lon Coca-Cola, mở lon, nhấp ngụm chậm, nụ cười hài lòng",
+    "special_effects": "tia sáng đỏ trên ly đang xoay, biến hình chất liệu mượt mà, giọt nước đọng, các hạt bọt ga sắc nét"
+  },
+  "cinematography": {
+    "lighting": "ánh nắng bãi biển tự nhiên rực rỡ với các điểm sáng sạch và phản chiếu trên lon nước lạnh",
+    "color_palette": ["đỏ Coca-Cola", "cát trắng", "đại dương xanh ngọc", "hơi nước lạnh"],
+    "tone": "tinh nghịch, sảng khoái, quảng cáo đầy ma thuật"
+  },
+  "audio": {
+    "music": "nhạc bãi biển vui tươi nhẹ nhàng dưới tiếng sóng",
+    "ambient": "tiếng sóng biển êm dịu",
+    "sound_effects": "đối thoại rõ ràng, tiếng vút khi xoay và hiệu ứng lấp lánh khi biến hình, tiếng mở lon 'psssht' sắc nét, tiếng bọt ga và nhấp ngụm kiểu ASMR, tiếng bọt ga nhỏ dần",
+    "mix": "sắc nét, phong cách quảng cáo, làm nổi bật sản phẩm"
+  },
+  "constraints": {
+    "on_screen_text": "không có",
+    "captions": "không có",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098042088793489408/img/Mt2cbUt_ExbVgz7Y.jpg" width="600" alt="Quảng cáo Coca Cola Beach Magic">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2098042175389151556)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2098042175389151556) | **Đã xuất bản:** Sep 10, 2026
+
+---
+### Màn trình diễn rót trà trên xe đạp một bánh cao
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt theo phong cách phim tài liệu mô tả một người phụ nữ giữ thăng bằng trên chiếc xe đạp một bánh cao trong khi rót trà, được sử dụng để so sánh các mô hình.
+
+#### 📝 Prompt
+
+```
+Cảnh quay tài liệu chân thực, định dạng dọc 9:16, quay cầm tay, chất lượng ảnh chân thực. Tại một khoảng sân đất ở vùng nông thôn ngập nắng, một cô gái trẻ người châu Á mặc váy mùa hè màu xanh nhạt và đi giày thể thao trắng đang điều khiển chiếc xe đạp một bánh khung thang tùy chỉnh cao 10 feet (khoảng 3 mét). Máy quay bắt đầu ở góc trung cao, khóa chặt vào cô khi cô đang giữ thăng bằng, đạp xe qua lại nhịp nhàng tại chỗ. Một tay cầm ấm trà bằng thép không gỉ, tay kia cầm một chiếc bát kim loại nhỏ, cô rót nước một cách mượt mà theo đường vòng cung từ ấm vào bát trong khi vẫn giữ thăng bằng hoàn hảo. Sau khi rót xong, cô nâng bát lên nhấp một ngụm đầy bình thản, mỉm cười nhìn vào máy quay khi bụi lắng xuống mặt đất bên dưới. Ánh nắng gay gắt giữa trưa, bầu trời xanh trong, vật lý giữ thăng bằng chân thực, máy quay ổn định, chi tiết sắc nét, độ phân giải 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098037800394534912/img/MYQFHQ9rMz5kG9vk.jpg" width="600" alt="Màn trình diễn rót trà trên xe đạp một bánh cao">
+
+**[🎬 Xem video →](https://x.com/sebatheepan/status/2098038455544557838)**
+
+**Tác giả:** [Pan](https://x.com/sebatheepan) | **Nguồn:** [Link](https://x.com/sebatheepan/status/2098038455544557838) | **Đã xuất bản:** Sep 10, 2026
+
+---
+### Màn trình diễn giữ thăng bằng trên chai bia của nghệ sĩ nhào lộn
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video mang phong cách điện ảnh tài liệu, mô tả cảnh một nghệ sĩ nhào lộn đang giữ thăng bằng trên một tòa tháp chai bia thủy tinh cao 15 foot (khoảng 4,5 mét) được xếp trên yên xe đạp.
+
+#### 📝 Prompt
+
+```
+cảnh quay điện ảnh cầm tay, hành động vật lý năng động, mang đậm chất tài liệu chân thực. Trong một sân làng nông thôn đầy nắng, nơi có đám đông khán giả đang hò reo cổ vũ, một chiếc xe đạp đường phố màu đen cổ điển đang dựng đứng. Cân bằng trực tiếp trên chiếc yên xe nhỏ là một cột dọc cao chót vót gồm các chai bia thủy tinh màu xanh lá cây được xếp chồng miệng-với-miệng và đáy-với-đáy, cao tới 15 foot. Trên đỉnh cao nhất, một nghệ sĩ nhào lộn khỏe khoắn mặc áo trắng, quần jogger tối màu và giày thể thao đang thực hiện bài tập giữ thăng bằng tốc độ cao bằng một chân trên vành của chiếc chai trên cùng, đồng thời tung hứng một quả bóng đá cổ điển. Máy quay lia lên nhanh chóng và theo sát các chuyển động siêu nhỏ liên tục, với hiệu ứng lóa ống kính tự nhiên từ ánh nắng giữa trưa, bóng đổ sắc nét, mặt đất đầy bụi và vật lý chân thực như ảnh chụp. 4K, 60fps, nhòe chuyển động năng động.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098013305608511502/img/IGJmiXEFjFkVqWx9.jpg" width="600" alt="Màn trình diễn giữ thăng bằng trên chai bia của nghệ sĩ nhào lộn">
+
+**[🎬 Xem video →](https://x.com/sebatheepan/status/2098013903280099595)**
+
+**Tác giả:** [Pan](https://x.com/sebatheepan) | **Nguồn:** [Link](https://x.com/sebatheepan/status/2098013903280099595) | **Đã xuất bản:** Sep 10, 2026
+
+---
 ### Luxury Rose Perfume Commercial Storyboard
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2873,86 +2994,6 @@ Một hồ bơi sang trọng được làm hoàn toàn từ thạch dâu tây m�
 **Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Đã xuất bản:** Aug 10, 2026
 
 ---
-### Gợi ý chuyển động chi tiết nội thất nhà trên cây
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý chuyển động cho giai đoạn sơn và hoàn thiện chi tiết nội thất trong video tua nhanh quá trình xây dựng mô hình nhà trên cây.
-
-#### 📝 Prompt
-
-```
-Sử dụng phần ngoại thất nhà trên cây đã hoàn thiện từ Gợi ý chuyển động 4 làm khung hình bắt đầu chính xác. Giữ nguyên kiến trúc, mái nhà, cửa sổ, ban công, cây cối, môi trường và tỷ lệ.
-
-Tạo một video tua nhanh siêu tốc
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Gợi ý chuyển động chi tiết nội thất nhà trên cây">
-
-**[🎬 Xem video →](https://x.com/Strength04_X/status/2086644591089041676)**
-
-**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **Đã xuất bản:** Aug 10, 2026
-
----
-### Video tua nhanh quá trình xây dựng nền móng nhà trên cây
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chuyển động Gemini Omni để tạo hiệu ứng tua nhanh siêu tốc quá trình xây dựng nền móng nhà trên cây, đồng thời đảm bảo tính nhất quán về mặt hình ảnh.
-
-#### 📝 Prompt
-
-```
-Sử dụng Hình ảnh Khung hình Đầu tiên làm khung hình bắt đầu chính xác và giữ nguyên cái cây, các cành cây, môi trường, quy mô thu nhỏ, vật liệu, ánh sáng, phong cách máy quay và nhận diện hình ảnh.
-
-Tạo hiệu ứng xây dựng với tốc độ tua nhanh siêu tốc
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Video tua nhanh quá trình xây dựng nền móng nhà trên cây">
-
-**[🎬 Xem video →](https://x.com/Strength04_X/status/2086644027420815501)**
-
-**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Đã xuất bản:** Aug 10, 2026
-
----
-### Ép bột lá dứa phong cách Anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) phong cách anime 2D dành cho Gemini Omni, mô tả đôi bàn tay đang ép bột gạo lá dứa vào nitơ lỏng để tạo hiệu ứng hình ảnh kỳ ảo.
-
-#### 📝 Prompt
-
-```
-Một video cận cảnh hoạt hình 2D theo phong cách anime Nhật Bản. Đôi bàn tay vẽ theo phong cách anime đang ép khối bột gạo lá dứa màu xanh rực rỡ qua một chiếc khuôn truyền thống vào bát nitơ lỏng, tạo nên một làn khói lạnh kỳ ảo cùng những tia hơi nước lấp lánh.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Ép bột lá dứa phong cách Anime">
-
-**[🎬 Xem video →](https://x.com/playinbey/status/2085826420287418413)**
-
-**Tác giả:** [PLAY!](https://x.com/playinbey) | **Nguồn:** [Link](https://x.com/playinbey/status/2085826420287418413) | **Đã xuất bản:** Aug 7, 2026
-
----
-### Chuyển đổi hình ảnh sang video mang cảm giác lo âu và điềm báo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) được thiết kế để biến hình ảnh tĩnh thành một cảnh video động với đặc trưng là cảm giác lo âu và điềm báo, sử dụng nhiều góc quay khác nhau.
-
-#### 📝 Prompt
-
-```
-Hãy tạo ra một cảnh quay thú vị dựa trên hình ảnh này, sử dụng nhiều góc máy và khung hình linh hoạt để tạo nên cảm giác lo âu và điềm báo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Chuyển đổi hình ảnh sang video mang cảm giác lo âu và điềm báo">
-
-**[🎬 Xem video →](https://x.com/pzf_ai/status/2085736211625230529)**
-
-**Tác giả:** [PZF](https://x.com/pzf_ai) | **Nguồn:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Đã xuất bản:** Aug 7, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3005,6 +3046,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-11T08:35:05.224Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-11T15:54:02.231Z</sub>
 
 </div>

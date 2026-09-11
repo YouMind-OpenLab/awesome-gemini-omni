@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **256** |
+| 📝 Total Prompts | **260** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-11** |
 
@@ -56,6 +56,127 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Steampunk Monowheel Treadmill Ride
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A high-fidelity cinematic video prompt tracking a Victorian gentleman riding an oversized monowheel powered by a horse running on an internal treadmill track.
+
+#### 📝 Prompt
+
+```
+Photorealistic, 9:16 vertical tracking shot, cinematic documentary realism. A steampunk Victorian gentleman in a brown tweed tailcoat, waistcoat, white ascot, black top hat, and round brass goggles rides an absurd, oversized motorized monowheel vehicle across a dirt path beside an open rural green pasture. Mounted atop the giant steel wheel frame sits a vintage leather saddle and polished brass handlebars with twin front lanterns. Inside the rotating, grooved steel wheel rim runs a brown horse on an internal treadmill track, mechanically powering the wheel forward at a steady trot. The camera glides alongside at matching speed at a medium-wide angle, showing realistic rolling physics, dirt kicking up from the wheel, soft golden-hour daylight, subtle mechanical vibration, and deep depth of field. Ultra-detailed, 4K, 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098082175296143361/img/npjT8LtEI2oQLMPE.jpg" width="600" alt="Steampunk Monowheel Treadmill Ride">
+
+**[🎬 Watch Video →](https://x.com/sebatheepan/status/2098086634344288268)**
+
+**Author:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2098086634344288268) | **Published:** Sep 10, 2026
+
+---
+### Coca Cola Beach Magic Commercial
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A comprehensive JSON structured video script prompt generating a magical commercial scene where water morphs into a Coca-Cola can on a sunlit beach.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "single continuous unbroken shot, no scene cuts",
+    "composition": "starts medium-wide on a young confident woman standing barefoot on a sunny beach, follows her glass toss and spin, ends on a tight ASMR close-up of her sipping the Coca-Cola can",
+    "lens": "35mm for the beach environment, then 85mm for the product reveal and sip",
+    "frame_rate": "24fps cinematic",
+    "camera_movement": "snappy lock-off for the line, smooth push-in as the glass spins, gentle orbit into tight close-up on the can opening and sip"
+  },
+  "timeline": {
+    "0-3s": "Bright sunny beach, white sand and aqua ocean. A young woman in a light summer outfit stands barefoot holding a clear glass of water, looks at camera with a playful smirk and says 'God turned water into wine. I can do Coca-Cola.'",
+    "3-7s": "She gives the glass a slight toss, catches it, and it begins spinning in her hand with faint red sparkles. In one seamless motion the spinning glass morphs into an icy red Coca-Cola can with condensation dripping down the surface.",
+    "7-10s": "She pops the can open with a crisp psssht, takes a slow ASMR-style sip with visible fizz, then lowers the can slightly and smiles in satisfaction with the ocean behind her. No text overlay."
+  },
+  "subject": {
+    "description": "young confident woman on a sunny beach performing a playful magic transformation from glass of water to Coca-Cola can",
+    "props": "clear glass of water that morphs into a classic red Coca-Cola can with condensation"
+  },
+  "scene": {
+    "location": "bright tropical beach with white sand and calm aqua ocean",
+    "time_of_day": "midday sunlight, natural beach reflections",
+    "environment": "open shoreline, soft waves, clean commercial look"
+  },
+  "visual_details": {
+    "action": "line delivery, glass toss and spin, seamless morph into Coca-Cola can, can open, slow sip, satisfied smile",
+    "special_effects": "red sparkles on spinning glass, smooth material morph, condensation droplets, crisp fizz particles"
+  },
+  "cinematography": {
+    "lighting": "bright natural beach sunlight with clean highlights and wet-can reflections",
+    "color_palette": ["Coca-Cola red", "white sand", "aqua ocean", "icy condensation"],
+    "tone": "playful, refreshing, magical commercial"
+  },
+  "audio": {
+    "music": "soft upbeat beach music under the waves",
+    "ambient": "gentle ocean waves",
+    "sound_effects": "clear dialogue, spinning whoosh and shimmer on the morph, sharp psssht can open, ASMR fizz and sip, quiet fizz trail-off",
+    "mix": "crisp, commercial, product-forward"
+  },
+  "constraints": {
+    "on_screen_text": "none",
+    "captions": "none",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098042088793489408/img/Mt2cbUt_ExbVgz7Y.jpg" width="600" alt="Coca Cola Beach Magic Commercial">
+
+**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2098042175389151556)**
+
+**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2098042175389151556) | **Published:** Sep 10, 2026
+
+---
+### Tall Ladder Frame Unicycle Stunt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A photorealistic video prompt capturing a woman balancing on a 10-foot tall ladder unicycle while pouring tea in a dusty courtyard field.
+
+#### 📝 Prompt
+
+```
+Photorealistic, handheld vertical 9:16 authentic documentary footage. In a sunlit rural dirt village clearing, a young Asian woman in a light blue summer dress and white sneakers rides a 10-foot tall custom ladder-frame unicycle. The camera begins at a medium-high angle locked directly on her as she idles, smoothly pedaling back and forth in place. Holding a stainless steel tea kettle in one hand and a small metal bowl in the other, she smoothly pours water in a clean arch from the kettle down into the bowl while maintaining perfect balance. After pouring, she lifts the bowl to take a calm sip, smiling toward the camera as dust settles on the ground below. Harsh midday sunlight, clear blue sky, realistic balance physics, stable camera tracking, crisp details, 4K resolution.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098037800394534912/img/MYQFHQ9rMz5kG9vk.jpg" width="600" alt="Tall Ladder Frame Unicycle Stunt">
+
+**[🎬 Watch Video →](https://x.com/sebatheepan/status/2098038455544557838)**
+
+**Author:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2098038455544557838) | **Published:** Sep 10, 2026
+
+---
+### Acrobat Beer Bottle Balancing Act
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A documentary-style cinematic video prompt framing an acrobat balancing on a massive 15-foot tower of glass beer bottles stacked on a bicycle seat.
+
+#### 📝 Prompt
+
+```
+handheld cinematic shot, dynamic physical action, authentic documentary feel. In a sunlit rural dirt village courtyard packed with an energetic, cheering crowd of spectators, a vintage black roadster bicycle stands upright. Balanced directly on the small bicycle saddle is a towering vertical column of green glass beer bottles stacked mouth-to-mouth and base-to-base, reaching 15 feet high. At the very top, an athletic acrobat in a white top, dark joggers, and sneakers performs a fast-paced balancing routine on one foot atop the rim of the uppermost bottle while juggling a classic soccer ball. The camera tilts up quickly and tracks continuous micro-movements, with natural lens flare from midday sunlight, sharp shadows, dusty ground, and photorealistic physics. 4K, 60fps, dynamic motion blur.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098013305608511502/img/IGJmiXEFjFkVqWx9.jpg" width="600" alt="Acrobat Beer Bottle Balancing Act">
+
+**[🎬 Watch Video →](https://x.com/sebatheepan/status/2098013903280099595)**
+
+**Author:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2098013903280099595) | **Published:** Sep 10, 2026
+
+---
 ### Luxury Rose Perfume Commercial Storyboard
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2823,86 +2944,6 @@ A luxurious swimming pool made entirely of translucent ruby-red strawberry jello
 **Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Published:** Aug 10, 2026
 
 ---
-### Treehouse Interior Detailing Motion Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A motion prompt for the painting and interior detailing phase of a miniature treehouse construction timelapse.
-
-#### 📝 Prompt
-
-```
-Use the completely finished exterior treehouse from Motion Prompt 4 as the exact starting frame. Preserve the exact architecture, roof, windows, balcony, tree, environment and proportions.
-
-Create an ultra fast timelapse
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Treehouse Interior Detailing Motion Prompt">
-
-**[🎬 Watch Video →](https://x.com/Strength04_X/status/2086644591089041676)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **Published:** Aug 10, 2026
-
----
-### Treehouse Foundation Motion Timelapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A Gemini Omni motion prompt to animate the construction of an elevated treehouse foundation with an ultra-fast timelapse effect while maintaining visual consistency.
-
-#### 📝 Prompt
-
-```
-Use the First Frame Image as the exact starting frame and preserve the same tree, branches, environment, miniature scale, materials, lighting, camera style and visual identity.
-
-Create an ultra fast timelapse speed construction
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
-
-**[🎬 Watch Video →](https://x.com/Strength04_X/status/2086644027420815501)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Published:** Aug 10, 2026
-
----
-### Anime Style Pandan Flour Pressing
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A 2D anime-style prompt for Gemini Omni describing hands pressing rice flour dough into liquid nitrogen for a whimsical visual effect.
-
-#### 📝 Prompt
-
-```
-A Japanese anime-style 2D animated close-up video. Hand-drawn anime hands press vibrant green pandan rice flour dough through a traditional press into a bowl of liquid nitrogen, creating a whimsical cloud of cold steam and sparkling vapor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Style Pandan Flour Pressing">
-
-**[🎬 Watch Video →](https://x.com/playinbey/status/2085826420287418413)**
-
-**Author:** [PLAY!](https://x.com/playinbey) | **Source:** [Link](https://x.com/playinbey/status/2085826420287418413) | **Published:** Aug 7, 2026
-
----
-### Dread and Foreboding Image-to-Video
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A prompt designed to transform a static image into a dynamic video scene characterized by dread and foreboding using multiple camera shots.
-
-#### 📝 Prompt
-
-```
-Create an interesting scene based on this image, using multiple camera shots and dynamic framing, to create a sense of dread and foreboding.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Dread and Foreboding Image-to-Video">
-
-**[🎬 Watch Video →](https://x.com/pzf_ai/status/2085736211625230529)**
-
-**Author:** [PZF](https://x.com/pzf_ai) | **Source:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Published:** Aug 7, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2955,6 +2996,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T08:34:52.141Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-11T15:53:56.105Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **256** |
+| 📝 Toplam İstem | **260** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-11** |
 
@@ -56,6 +56,127 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Steampunk Viktoryen At Gücüyle Çalışan Tek Tekerlekli Araç
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> İç kısımdaki bir koşu bandında koşan bir at tarafından desteklenen, gerçekçi fizik kurallarına ve altın saat ışıklandırmasına sahip steampunk tarzı tek tekerlekli bir araç için sinematik belgesel tarzında bir istem.
+
+#### 📝 İstem
+
+```
+Fotogerçekçi, 9:16 dikey takip çekimi, sinematik belgesel gerçekçiliği. Kahverengi tüvit kuyruklu ceket, yelek, beyaz fular, siyah silindir şapka ve yuvarlak pirinç gözlük takan steampunk tarzı Viktoryen bir beyefendi, açık kırsal yeşil bir meranın yanındaki toprak yolda, absürt ve devasa motorlu bir tek tekerlekli aracı sürüyor. Dev çelik tekerlek çerçevesinin üzerine monte edilmiş vintage bir deri eyer ve ikiz ön fenerli cilalı pirinç gidonlar bulunuyor. Dönen, oluklu çelik tekerlek jantının içinde, tekerleği sabit bir tırısla ileriye doğru mekanik olarak hareket ettiren kahverengi bir at, iç kısımdaki bir koşu bandında koşuyor. Kamera, orta-geniş açıyla eşleşen bir hızda yan taraftan süzülerek ilerliyor; gerçekçi yuvarlanma fiziğini, tekerlekten sıçrayan toprakları, yumuşak altın saat gün ışığını, hafif mekanik titreşimi ve derin alan derinliğini gösteriyor. Ultra detaylı, 4K, 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098082175296143361/img/npjT8LtEI2oQLMPE.jpg" width="600" alt="Steampunk Viktoryen At Gücüyle Çalışan Tek Tekerlekli Araç">
+
+**[🎬 Videoyu izle →](https://x.com/sebatheepan/status/2098086634344288268)**
+
+**Yazar:** [Pan](https://x.com/sebatheepan) | **Kaynak:** [Link](https://x.com/sebatheepan/status/2098086634344288268) | **Yayınlandı:** Sep 10, 2026
+
+---
+### Coca Cola Sahil Büyüsü Reklamı
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Güneşli bir sahilde suyun bir Coca-Cola kutusuna dönüştüğü büyülü bir reklam sahnesi oluşturan, kapsamlı JSON yapılandırılmış video senaryosu istemi.
+
+#### 📝 İstem
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10sn",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "tek sürekli kesintisiz çekim, sahne geçişi yok",
+    "composition": "güneşli bir sahilde çıplak ayakla duran genç ve özgüvenli bir kadınla orta-geniş açıda başlar, bardağı fırlatıp döndürmesini takip eder, Coca-Cola kutusundan bir yudum aldığı ASMR tarzı yakın çekimle biter",
+    "lens": "sahil ortamı için 35mm, ürünün ortaya çıkışı ve içim anı için 85mm",
+    "frame_rate": "24fps sinematik",
+    "camera_movement": "replik için hızlı sabit çekim, bardak dönerken yumuşak bir yakınlaşma, kutunun açılışı ve yudumlanması için yakın çekime doğru hafif bir yörünge hareketi"
+  },
+  "timeline": {
+    "0-3sn": "Parlak güneşli bir sahil, beyaz kum ve turkuaz rengi okyanus. Hafif yazlık kıyafetler içindeki genç bir kadın çıplak ayakla duruyor, elinde bir bardak su tutuyor, kameraya muzip bir gülümsemeyle bakıyor ve 'Tanrı suyu şaraba dönüştürdü. Ben ise Coca-Cola yapabilirim.' diyor.",
+    "3-7sn": "Bardağı hafifçe havaya atıp tutuyor, bardak elinde hafif kırmızı parıltılarla dönmeye başlıyor. Kesintisiz bir hareketle dönen bardak, yüzeyinden damlalar süzülen buz gibi kırmızı bir Coca-Cola kutusuna dönüşüyor.",
+    "7-10sn": "Kutuyu net bir 'psssht' sesiyle açıyor, belirgin gaz kabarcıklarıyla ASMR tarzında yavaş bir yudum alıyor, ardından kutuyu hafifçe indirip arkasındaki okyanus manzarası eşliğinde memnuniyetle gülümsüyor. Metin bindirmesi yok."
+  },
+  "subject": {
+    "description": "güneşli bir sahilde su bardağını Coca-Cola kutusuna dönüştüren muzip bir büyü yapan, özgüvenli genç kadın",
+    "props": "buzlu damlacıklarıyla klasik kırmızı Coca-Cola kutusuna dönüşen şeffaf su bardağı"
+  },
+  "scene": {
+    "location": "beyaz kumlu ve sakin turkuaz okyanuslu parlak tropikal sahil",
+    "time_of_day": "öğle güneşi, doğal sahil yansımaları",
+    "environment": "açık kıyı şeridi, hafif dalgalar, temiz reklam görünümü"
+  },
+  "visual_details": {
+    "action": "replik teslimi, bardak fırlatma ve döndürme, Coca-Cola kutusuna kesintisiz dönüşüm, kutu açılışı, yavaş yudum, memnun gülümseme",
+    "special_effects": "dönen bardakta kırmızı parıltılar, pürüzsüz malzeme dönüşümü, yoğunlaşma damlacıkları, net gaz kabarcığı parçacıkları"
+  },
+  "cinematography": {
+    "lighting": "net vurgular ve ıslak kutu yansımalarıyla parlak doğal sahil güneş ışığı",
+    "color_palette": ["Coca-Cola kırmızısı", "beyaz kum", "turkuaz okyanus", "buz gibi yoğunlaşma"],
+    "tone": "eğlenceli, ferahlatıcı, büyülü reklam"
+  },
+  "audio": {
+    "music": "dalga seslerinin altında yumuşak ve hareketli sahil müziği",
+    "ambient": "hafif okyanus dalgaları",
+    "sound_effects": "net diyalog, dönüşüm sırasında dönme ve parıltı sesi, keskin kutu açılma sesi (psssht), ASMR gaz ve yudum sesi, yavaşça azalan gaz sesi",
+    "mix": "net, ticari, ürün odaklı"
+  },
+  "constraints": {
+    "on_screen_text": "yok",
+    "captions": "yok",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098042088793489408/img/Mt2cbUt_ExbVgz7Y.jpg" width="600" alt="Coca Cola Sahil Büyüsü Reklamı">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2098042175389151556)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2098042175389151556) | **Yayınlandı:** Sep 10, 2026
+
+---
+### Uzun Tek Tekerlekli Bisikletle Çay Dökme Gösterisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Model karşılaştırmalarında kullanılan, uzun bir tek tekerlekli bisiklet üzerinde dengede durarak çay döken bir kadını konu alan belgesel tarzında bir istem.
+
+#### 📝 İstem
+
+```
+Fotogerçekçi, elde çekilmiş dikey 9:16 formatında otantik belgesel görüntüleri. Güneşli, kırsal bir toprak köy meydanında, açık mavi yazlık elbise ve beyaz spor ayakkabı giyen genç Asyalı bir kadın, 3 metre yüksekliğinde özel yapım merdiven şasili bir tek tekerlekli bisiklet sürüyor. Kamera, kadın olduğu yerde hafifçe ileri geri pedal çevirerek dengede dururken, doğrudan ona odaklanmış orta-yüksek bir açıdan başlıyor. Bir elinde paspaslanmaz çelik bir çaydanlık, diğer elinde küçük bir metal kase tutarken, mükemmel dengesini koruyarak çaydanlıktaki suyu kusursuz bir kavisle kaseye döküyor. Dökme işleminden sonra, kaseyi kaldırıp sakin bir yudum alıyor ve yerdeki tozlar çökerken kameraya gülümseyerek bakıyor. Sert öğle güneşi, açık mavi gökyüzü, gerçekçi denge fiziği, sabit kamera takibi, keskin detaylar, 4K çözünürlük.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098037800394534912/img/MYQFHQ9rMz5kG9vk.jpg" width="600" alt="Uzun Tek Tekerlekli Bisikletle Çay Dökme Gösterisi">
+
+**[🎬 Videoyu izle →](https://x.com/sebatheepan/status/2098038455544557838)**
+
+**Yazar:** [Pan](https://x.com/sebatheepan) | **Kaynak:** [Link](https://x.com/sebatheepan/status/2098038455544557838) | **Yayınlandı:** Sep 10, 2026
+
+---
+### Akrobat Bira Şişesi Denge Gösterisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir bisiklet selesi üzerinde üst üste dizilmiş 15 feet (yaklaşık 4,5 metre) yüksekliğindeki devasa cam bira şişesi kulesinde dengede duran bir akrobatı konu alan belgesel tarzında sinematik bir video istemi.
+
+#### 📝 İstem
+
+```
+el kamerasıyla çekilmiş sinematik görüntü, dinamik fiziksel aksiyon, otantik belgesel hissi. Enerjik ve tezahürat yapan bir kalabalıkla dolu, güneşli, kırsal bir köy avlusunda eski model siyah bir yol bisikleti dik duruyor. Küçük bisiklet selesinin üzerinde, ağız ağıza ve taban tabana dizilmiş, 15 feet yüksekliğe ulaşan dikey bir yeşil cam bira şişesi kulesi dengede duruyor. En tepede, beyaz bir üst, koyu renkli eşofman altı ve spor ayakkabı giymiş atletik bir akrobat, en üstteki şişenin ağzında tek ayağı üzerinde hızlı bir denge rutini sergilerken klasik bir futbol topuyla jonglörlük yapıyor. Kamera hızla yukarı doğru eğiliyor ve mikro hareketleri sürekli olarak takip ediyor; öğle güneşinden gelen doğal lens parlaması, keskin gölgeler, tozlu zemin ve fotogerçekçi fizik kuralları mevcut. 4K, 60fps, dinamik hareket bulanıklığı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098013305608511502/img/IGJmiXEFjFkVqWx9.jpg" width="600" alt="Akrobat Bira Şişesi Denge Gösterisi">
+
+**[🎬 Videoyu izle →](https://x.com/sebatheepan/status/2098013903280099595)**
+
+**Yazar:** [Pan](https://x.com/sebatheepan) | **Kaynak:** [Link](https://x.com/sebatheepan/status/2098013903280099595) | **Yayınlandı:** Sep 10, 2026
+
+---
 ### Luxury Rose Perfume Commercial Storyboard
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2901,86 +3022,6 @@ Tamamı yarı saydam yakut kırmızısı çilekli jöleden yapılmış, kusursuz
 **Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Yayınlandı:** Aug 10, 2026
 
 ---
-### Ağaç Ev İç Mekan Detaylandırma Hareket İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Minyatür bir ağaç ev inşaatı hızlandırılmış çekiminin boyama ve iç mekan detaylandırma aşaması için bir hareket istemi.
-
-#### 📝 İstem
-
-```
-Hareket İstemi 4'teki tamamen bitmiş dış mekan ağaç evini tam başlangıç karesi olarak kullanın. Mimariyi, çatıyı, pencereleri, balkonu, ağacı, çevreyi ve oranları birebir koruyun.
-
-Ultra hızlı bir hızlandırılmış çekim oluşturun
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Ağaç Ev İç Mekan Detaylandırma Hareket İstemi">
-
-**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2086644591089041676)**
-
-**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **Yayınlandı:** Aug 10, 2026
-
----
-### Treehouse Foundation Motion Timelapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yüksek bir ağaç ev temelinin inşaatını, görsel tutarlılığı koruyarak ultra hızlı bir hızlandırılmış çekim (timelapse) efektiyle canlandırmak için kullanılan bir Gemini Omni hareket istemi.
-
-#### 📝 İstem
-
-```
-İlk Kare Görselini (First Frame Image) tam başlangıç karesi olarak kullanın; aynı ağacı, dalları, çevreyi, minyatür ölçeği, malzemeleri, ışıklandırmayı, kamera stilini ve görsel kimliği koruyun.
-
-Ultra hızlı bir hızlandırılmış inşaat çekimi oluşturun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
-
-**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2086644027420815501)**
-
-**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Yayınlandı:** Aug 10, 2026
-
----
-### Anime Tarzı Pandan Unu Presleme
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için, ellerin pirinç unu hamurunu sıvı nitrojen içine bastırarak oluşturduğu fantastik görsel efekti betimleyen 2D anime tarzı bir istem.
-
-#### 📝 İstem
-
-```
-Japon anime tarzında 2D animasyonlu yakın çekim bir video. Elle çizilmiş anime elleri, canlı yeşil pandan pirinç unu hamurunu geleneksel bir presle sıvı nitrojen dolu bir kaseye bastırıyor; bu işlem, fantastik bir soğuk buhar bulutu ve parıldayan bir sis oluşturuyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Anime Tarzı Pandan Unu Presleme">
-
-**[🎬 Videoyu izle →](https://x.com/playinbey/status/2085826420287418413)**
-
-**Yazar:** [PLAY!](https://x.com/playinbey) | **Kaynak:** [Link](https://x.com/playinbey/status/2085826420287418413) | **Yayınlandı:** Aug 7, 2026
-
----
-### Korku ve Endişe Dolu Görselden Videoya
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Statik bir görseli, birden fazla kamera açısı kullanarak korku ve endişe dolu dinamik bir video sahnesine dönüştürmek için tasarlanmış bir komut.
-
-#### 📝 İstem
-
-```
-Bu görseli temel alarak, korku ve endişe hissi yaratmak için birden fazla kamera açısı ve dinamik kadraj kullanımıyla ilgi çekici bir sahne oluşturun.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Korku ve Endişe Dolu Görselden Videoya">
-
-**[🎬 Videoyu izle →](https://x.com/pzf_ai/status/2085736211625230529)**
-
-**Yazar:** [PZF](https://x.com/pzf_ai) | **Kaynak:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Yayınlandı:** Aug 7, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3033,6 +3074,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-11T08:35:21.135Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-11T15:54:10.115Z</sub>
 
 </div>

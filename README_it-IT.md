@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **256** |
+| 📝 Totale prompt | **260** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-09-11** |
 
@@ -56,6 +56,127 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Monoruota steampunk vittoriana a trazione equina
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt in stile documentario cinematografico per un veicolo monoruota steampunk alimentato da un cavallo su un tapis roulant interno, caratterizzato da una fisica realistica e un'illuminazione durante l'ora d'oro.
+
+#### 📝 Prompt
+
+```
+Fotorealistico, ripresa in tracking verticale 9:16, realismo documentaristico cinematografico. Un gentiluomo vittoriano steampunk indossa un frac in tweed marrone, gilet, ascot bianco, cilindro nero e occhialoni in ottone, mentre cavalca un assurdo veicolo monoruota motorizzato di grandi dimensioni lungo un sentiero sterrato accanto a un aperto pascolo rurale. Montata sopra il gigantesco telaio in acciaio della ruota si trova una sella in pelle vintage e manubri in ottone lucido con doppi fanali anteriori. All'interno del cerchio in acciaio scanalato che ruota, un cavallo marrone corre su un tapis roulant interno, azionando meccanicamente la ruota in avanti a un trotto costante. La telecamera scivola a fianco alla stessa velocità con un'inquadratura medio-ampia, mostrando una fisica di rotolamento realistica, polvere sollevata dalla ruota, luce soffusa dell'ora d'oro, sottili vibrazioni meccaniche e una profonda profondità di campo. Ultra-dettagliato, 4K, 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098082175296143361/img/npjT8LtEI2oQLMPE.jpg" width="600" alt="Monoruota steampunk vittoriana a trazione equina">
+
+**[🎬 Guarda il video →](https://x.com/sebatheepan/status/2098086634344288268)**
+
+**Autore:** [Pan](https://x.com/sebatheepan) | **Fonte:** [Link](https://x.com/sebatheepan/status/2098086634344288268) | **Pubblicato:** Sep 10, 2026
+
+---
+### Spot pubblicitario Coca Cola Beach Magic
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt completo in formato JSON per la generazione di uno script video per uno spot magico, in cui l'acqua si trasforma in una lattina di Coca-Cola su una spiaggia soleggiata.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "singola ripresa continua senza interruzioni, nessun taglio di scena",
+    "composition": "inizia con un campo medio su una giovane donna sicura di sé, a piedi nudi su una spiaggia soleggiata; segue il lancio e la rotazione del bicchiere, termina con un primo piano ASMR stretto mentre sorseggia la lattina di Coca-Cola",
+    "lens": "35mm per l'ambiente della spiaggia, poi 85mm per la presentazione del prodotto e il sorso",
+    "frame_rate": "24fps cinematico",
+    "camera_movement": "inquadratura fissa rapida per la battuta, zoom in fluido mentre il bicchiere ruota, orbita delicata verso un primo piano stretto sull'apertura della lattina e sul sorso"
+  },
+  "timeline": {
+    "0-3s": "Spiaggia soleggiata, sabbia bianca e oceano color acqua. Una giovane donna con un leggero abbigliamento estivo sta in piedi a piedi nudi tenendo un bicchiere d'acqua trasparente, guarda in camera con un sorriso malizioso e dice: 'Dio ha trasformato l'acqua in vino. Io posso fare la Coca-Cola.'",
+    "3-7s": "Lancia leggermente il bicchiere, lo riprende e questo inizia a ruotare nella sua mano con lievi scintille rosse. Con un movimento fluido, il bicchiere che ruota si trasforma in una lattina di Coca-Cola rossa ghiacciata con gocce di condensa che scivolano sulla superficie.",
+    "7-10s": "Apre la lattina con un nitido 'psssht', ne beve un sorso lento in stile ASMR con frizzantezza visibile, poi abbassa leggermente la lattina e sorride soddisfatta con l'oceano alle spalle. Nessuna sovrimpressione di testo."
+  },
+  "subject": {
+    "description": "giovane donna sicura di sé su una spiaggia soleggiata che esegue una giocosa trasformazione magica da un bicchiere d'acqua a una lattina di Coca-Cola",
+    "props": "bicchiere d'acqua trasparente che si trasforma in una classica lattina di Coca-Cola rossa con condensa"
+  },
+  "scene": {
+    "location": "luminosa spiaggia tropicale con sabbia bianca e calmo oceano color acqua",
+    "time_of_day": "luce solare di mezzogiorno, riflessi naturali della spiaggia",
+    "environment": "battigia aperta, onde leggere, look pubblicitario pulito"
+  },
+  "visual_details": {
+    "action": "recitazione della battuta, lancio e rotazione del bicchiere, trasformazione fluida in lattina di Coca-Cola, apertura della lattina, sorso lento, sorriso soddisfatto",
+    "special_effects": "scintille rosse sul bicchiere in rotazione, trasformazione fluida del materiale, gocce di condensa, particelle di frizzantezza nitide"
+  },
+  "cinematography": {
+    "lighting": "luce solare naturale brillante da spiaggia con riflessi puliti e bagliori sulla lattina bagnata",
+    "color_palette": ["rosso Coca-Cola", "sabbia bianca", "oceano color acqua", "condensa ghiacciata"],
+    "tone": "giocoso, rinfrescante, spot magico"
+  },
+  "audio": {
+    "music": "musica da spiaggia allegra e soffusa sotto il suono delle onde",
+    "ambient": "onde dell'oceano delicate",
+    "sound_effects": "dialogo chiaro, effetto sonoro di rotazione e scintillio durante la trasformazione, nitido 'psssht' di apertura della lattina, frizzantezza ASMR e sorso, dissolvenza silenziosa della frizzantezza",
+    "mix": "nitido, commerciale, incentrato sul prodotto"
+  },
+  "constraints": {
+    "on_screen_text": "nessuno",
+    "captions": "nessuno",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098042088793489408/img/Mt2cbUt_ExbVgz7Y.jpg" width="600" alt="Spot pubblicitario Coca Cola Beach Magic">
+
+**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2098042175389151556)**
+
+**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2098042175389151556) | **Pubblicato:** Sep 10, 2026
+
+---
+### Stunt di versamento del tè su monociclo alto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt in stile documentaristico che ritrae una donna in equilibrio su un monociclo alto mentre versa il tè, utilizzato per confronti tra modelli.
+
+#### 📝 Prompt
+
+```
+Riprese documentaristiche autentiche, fotorealistiche, verticali 9:16, girate a mano. In una radura soleggiata di un villaggio rurale sterrato, una giovane donna asiatica con un vestito estivo azzurro e scarpe da ginnastica bianche cavalca un monociclo personalizzato con telaio a scala alto 3 metri. La telecamera inizia con un'inquadratura medio-alta fissa direttamente su di lei mentre sta ferma, pedalando dolcemente avanti e indietro sul posto. Tenendo un bollitore per il tè in acciaio inossidabile in una mano e una piccola ciotola di metallo nell'altra, versa con fluidità l'acqua in un arco netto dal bollitore alla ciotola, mantenendo un equilibrio perfetto. Dopo aver versato, solleva la ciotola per sorseggiare con calma, sorridendo verso la telecamera mentre la polvere si deposita sul terreno sottostante. Luce solare intensa di mezzogiorno, cielo azzurro limpido, fisica dell'equilibrio realistica, tracciamento stabile della telecamera, dettagli nitidi, risoluzione 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098037800394534912/img/MYQFHQ9rMz5kG9vk.jpg" width="600" alt="Stunt di versamento del tè su monociclo alto">
+
+**[🎬 Guarda il video →](https://x.com/sebatheepan/status/2098038455544557838)**
+
+**Autore:** [Pan](https://x.com/sebatheepan) | **Fonte:** [Link](https://x.com/sebatheepan/status/2098038455544557838) | **Pubblicato:** Sep 10, 2026
+
+---
+### L'acrobata in equilibrio sulle bottiglie di birra
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video in stile documentaristico che ritrae un acrobata in equilibrio su una colossale torre di bottiglie di birra in vetro alta 4,5 metri, impilate sul sellino di una bicicletta.
+
+#### 📝 Prompt
+
+```
+Ripresa cinematografica a mano, azione fisica dinamica, autentico stile documentaristico. In un cortile di un villaggio rurale soleggiato, gremito di spettatori entusiasti che acclamano, si trova una bicicletta da corsa nera d'epoca. In equilibrio direttamente sul piccolo sellino della bicicletta c'è un'imponente colonna verticale di bottiglie di birra in vetro verde, impilate bocca contro bocca e base contro base, che raggiunge i 4,5 metri di altezza. Proprio in cima, un acrobata atletico con top bianco, pantaloni da jogging scuri e scarpe da ginnastica esegue un rapido esercizio di equilibrio su un piede solo sul bordo della bottiglia più alta, mentre palleggia con un classico pallone da calcio. La telecamera si inclina rapidamente verso l'alto e segue i continui micro-movimenti, con bagliori naturali della luce solare di mezzogiorno, ombre nette, terreno polveroso e fisica fotorealistica. 4K, 60fps, motion blur dinamico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098013305608511502/img/IGJmiXEFjFkVqWx9.jpg" width="600" alt="L'acrobata in equilibrio sulle bottiglie di birra">
+
+**[🎬 Guarda il video →](https://x.com/sebatheepan/status/2098013903280099595)**
+
+**Autore:** [Pan](https://x.com/sebatheepan) | **Fonte:** [Link](https://x.com/sebatheepan/status/2098013903280099595) | **Pubblicato:** Sep 10, 2026
+
+---
 ### Luxury Rose Perfume Commercial Storyboard
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2873,86 +2994,6 @@ Una lussuosa piscina realizzata interamente in gelatina alla fragola rosso rubin
 **Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Pubblicato:** Aug 10, 2026
 
 ---
-### Prompt di movimento per i dettagli interni della casa sull'albero
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di movimento per la fase di pittura e rifinitura degli interni di un timelapse di costruzione di una casa sull'albero in miniatura.
-
-#### 📝 Prompt
-
-```
-Utilizza la casa sull'albero con esterni completamente rifiniti dal Motion Prompt 4 come fotogramma di partenza esatto. Mantieni l'architettura, il tetto, le finestre, il balcone, l'albero, l'ambiente e le proporzioni originali.
-
-Crea un timelapse ultra rapido
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Prompt di movimento per i dettagli interni della casa sull'albero">
-
-**[🎬 Guarda il video →](https://x.com/Strength04_X/status/2086644591089041676)**
-
-**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **Pubblicato:** Aug 10, 2026
-
----
-### Timelapse del movimento delle fondamenta di una casa sull'albero
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt di movimento Gemini Omni per animare la costruzione delle fondamenta di una casa sull'albero rialzata con un effetto timelapse ultra-veloce, mantenendo la coerenza visiva.
-
-#### 📝 Prompt
-
-```
-Utilizza l'immagine del primo fotogramma come punto di partenza esatto e preserva lo stesso albero, i rami, l'ambiente, la scala in miniatura, i materiali, l'illuminazione, lo stile della fotocamera e l'identità visiva.
-
-Crea una costruzione a velocità timelapse ultra-rapida
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Timelapse del movimento delle fondamenta di una casa sull'albero">
-
-**[🎬 Guarda il video →](https://x.com/Strength04_X/status/2086644027420815501)**
-
-**Autore:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Pubblicato:** Aug 10, 2026
-
----
-### Pressa per farina di pandan in stile anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt in stile anime 2D per Gemini Omni che descrive mani che premono impasto di farina di riso nell'azoto liquido per un effetto visivo stravagante.
-
-#### 📝 Prompt
-
-```
-Un video in primo piano in stile anime giapponese 2D. Mani disegnate in stile anime premono un vibrante impasto di farina di riso al pandan verde attraverso una pressa tradizionale in una ciotola di azoto liquido, creando una stravagante nuvola di vapore freddo e vapori scintillanti
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Pressa per farina di pandan in stile anime">
-
-**[🎬 Guarda il video →](https://x.com/playinbey/status/2085826420287418413)**
-
-**Autore:** [PLAY!](https://x.com/playinbey) | **Fonte:** [Link](https://x.com/playinbey/status/2085826420287418413) | **Pubblicato:** Aug 7, 2026
-
----
-### Da immagine a video: angoscia e presagio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt progettato per trasformare un'immagine statica in una scena video dinamica caratterizzata da angoscia e presagio, utilizzando molteplici inquadrature.
-
-#### 📝 Prompt
-
-```
-Crea una scena interessante basata su questa immagine, utilizzando molteplici inquadrature e un'inquadratura dinamica, per trasmettere un senso di angoscia e presagio.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Da immagine a video: angoscia e presagio">
-
-**[🎬 Guarda il video →](https://x.com/pzf_ai/status/2085736211625230529)**
-
-**Autore:** [PZF](https://x.com/pzf_ai) | **Fonte:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Pubblicato:** Aug 7, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -3005,6 +3046,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-11T08:35:15.178Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-11T15:54:07.748Z</sub>
 
 </div>

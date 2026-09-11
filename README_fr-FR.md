@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **256** |
+| 📝 Total des prompts | **260** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-09-11** |
 
@@ -56,6 +56,127 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Monoroue victorienne steampunk propulsée par un cheval
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de style documentaire cinématographique pour un véhicule monoroue steampunk propulsé par un cheval sur un tapis roulant interne, avec une physique réaliste et un éclairage d'heure dorée.
+
+#### 📝 Prompt
+
+```
+Photoréaliste, plan de suivi vertical 9:16, réalisme documentaire cinématographique. Un gentleman victorien steampunk en queue-de-pie en tweed marron, gilet, ascot blanc, haut-de-forme noir et lunettes de protection en laiton rondes chevauche une monoroue motorisée absurde et surdimensionnée sur un chemin de terre longeant un pâturage rural verdoyant. Montée sur le cadre géant de la roue en acier se trouve une selle en cuir vintage et un guidon en laiton poli avec deux lanternes avant. À l'intérieur de la jante en acier rainurée et rotative, un cheval brun court sur un tapis roulant interne, propulsant mécaniquement la roue vers l'avant à un trot régulier. La caméra glisse à côté à une vitesse correspondante avec un angle moyen-large, montrant une physique de roulement réaliste, de la poussière soulevée par la roue, une douce lumière du jour d'heure dorée, une subtile vibration mécanique et une grande profondeur de champ. Ultra-détaillé, 4K, 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098082175296143361/img/npjT8LtEI2oQLMPE.jpg" width="600" alt="Monoroue victorienne steampunk propulsée par un cheval">
+
+**[🎬 Voir la vidéo →](https://x.com/sebatheepan/status/2098086634344288268)**
+
+**Auteur:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2098086634344288268) | **Publié:** Sep 10, 2026
+
+---
+### Publicité magique Coca-Cola à la plage
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un script vidéo complet structuré en JSON générant une scène publicitaire magique où de l'eau se transforme en canette de Coca-Cola sur une plage ensoleillée.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "plan-séquence unique et continu, sans coupure",
+    "composition": "démarre en plan moyen-large sur une jeune femme confiante, pieds nus sur une plage ensoleillée, suit son lancer et sa rotation de verre, se termine sur un gros plan ASMR d'elle dégustant la canette de Coca-Cola",
+    "lens": "35mm pour l'environnement de la plage, puis 85mm pour la révélation du produit et la gorgée",
+    "frame_rate": "24fps cinématographique",
+    "camera_movement": "plan fixe vif pour la réplique, zoom avant fluide pendant la rotation du verre, travelling circulaire léger vers un gros plan serré sur l'ouverture de la canette et la dégustation"
+  },
+  "timeline": {
+    "0-3s": "Plage ensoleillée, sable blanc et océan turquoise. Une jeune femme en tenue d'été légère, pieds nus, tient un verre d'eau, regarde la caméra avec un sourire espiègle et dit : « Dieu a transformé l'eau en vin. Moi, je peux le faire avec du Coca-Cola. »",
+    "3-7s": "Elle lance légèrement le verre, le rattrape, et celui-ci commence à tourner dans sa main avec de légères étincelles rouges. Dans un mouvement fluide, le verre en rotation se transforme en une canette de Coca-Cola rouge glacée, avec de la condensation perlant à la surface.",
+    "7-10s": "Elle ouvre la canette avec un « psssht » net, prend une gorgée lente façon ASMR avec des bulles visibles, puis baisse légèrement la canette en souriant avec satisfaction, l'océan en arrière-plan. Pas de texte à l'écran."
+  },
+  "subject": {
+    "description": "jeune femme confiante sur une plage ensoleillée effectuant une transformation magique ludique d'un verre d'eau en canette de Coca-Cola",
+    "props": "verre d'eau transparent qui se transforme en une canette de Coca-Cola rouge classique avec de la condensation"
+  },
+  "scene": {
+    "location": "plage tropicale lumineuse avec sable blanc et océan turquoise calme",
+    "time_of_day": "lumière du soleil de midi, reflets naturels de la plage",
+    "environment": "bord de mer dégagé, vagues douces, esthétique publicitaire épurée"
+  },
+  "visual_details": {
+    "action": "réplique, lancer et rotation du verre, transformation fluide en canette de Coca-Cola, ouverture de la canette, gorgée lente, sourire satisfait",
+    "special_effects": "étincelles rouges sur le verre en rotation, transformation de matière fluide, gouttelettes de condensation, particules de bulles nettes"
+  },
+  "cinematography": {
+    "lighting": "lumière naturelle vive de plage avec des reflets nets et des reflets sur la canette humide",
+    "color_palette": ["rouge Coca-Cola", "sable blanc", "océan turquoise", "condensation glacée"],
+    "tone": "publicité ludique, rafraîchissante et magique"
+  },
+  "audio": {
+    "music": "musique de plage douce et entraînante sous le bruit des vagues",
+    "ambient": "vagues douces de l'océan",
+    "sound_effects": "dialogue clair, effet de sifflement et scintillement lors de la transformation, « psssht » net à l'ouverture, bulles et gorgée ASMR, pétillement qui s'estompe doucement",
+    "mix": "net, publicitaire, axé sur le produit"
+  },
+  "constraints": {
+    "on_screen_text": "aucun",
+    "captions": "aucun",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098042088793489408/img/Mt2cbUt_ExbVgz7Y.jpg" width="600" alt="Publicité magique Coca-Cola à la plage">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2098042175389151556)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2098042175389151556) | **Publié:** Sep 10, 2026
+
+---
+### Cascade de service de thé sur monocycle géant
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de style documentaire mettant en scène une femme en équilibre sur un monocycle géant tout en versant du thé, utilisé pour des comparaisons de modèles.
+
+#### 📝 Prompt
+
+```
+Images documentaires authentiques, photoréalistes, filmées à la main en format vertical 9:16. Dans une clairière ensoleillée d'un village rural, une jeune femme asiatique vêtue d'une robe d'été bleu clair et de baskets blanches monte un monocycle personnalisé à cadre en échelle de 3 mètres de haut. La caméra commence avec un angle moyen-haut verrouillé directement sur elle alors qu'elle fait du surplace, pédalant doucement d'avant en arrière. Tenant une théière en acier inoxydable dans une main et un petit bol en métal dans l'autre, elle verse l'eau avec fluidité en un arc parfait de la théière vers le bol tout en conservant un équilibre impeccable. Après avoir versé, elle soulève le bol pour prendre une gorgée calme, souriant vers la caméra tandis que la poussière retombe sur le sol en contrebas. Lumière crue du soleil de midi, ciel bleu clair, physique d'équilibre réaliste, suivi de caméra stable, détails nets, résolution 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098037800394534912/img/MYQFHQ9rMz5kG9vk.jpg" width="600" alt="Cascade de service de thé sur monocycle géant">
+
+**[🎬 Voir la vidéo →](https://x.com/sebatheepan/status/2098038455544557838)**
+
+**Auteur:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2098038455544557838) | **Publié:** Sep 10, 2026
+
+---
+### Numéro d'équilibriste sur bouteilles de bière
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo cinématographique de style documentaire mettant en scène un acrobate en équilibre sur une tour impressionnante de 4,5 mètres de bouteilles de bière en verre empilées sur une selle de vélo.
+
+#### 📝 Prompt
+
+```
+plan cinématographique à la main, action physique dynamique, rendu documentaire authentique. Dans la cour d'un village rural ensoleillé, entouré d'une foule de spectateurs enthousiastes, un vélo de route noir vintage est maintenu à la verticale. En équilibre direct sur la petite selle du vélo se trouve une colonne verticale imposante de bouteilles de bière en verre vert, empilées goulot contre goulot et base contre base, atteignant 4,5 mètres de haut. Tout en haut, un acrobate athlétique vêtu d'un haut blanc, d'un pantalon de jogging sombre et de baskets exécute une routine d'équilibre rapide sur un pied au sommet du goulot de la bouteille la plus haute, tout en jonglant avec un ballon de football classique. La caméra effectue un mouvement d'inclinaison rapide vers le haut et suit les micro-mouvements en continu, avec un effet de flare naturel dû au soleil de midi, des ombres nettes, un sol poussiéreux et une physique photoréaliste. 4K, 60fps, flou de mouvement dynamique.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098013305608511502/img/IGJmiXEFjFkVqWx9.jpg" width="600" alt="Numéro d'équilibriste sur bouteilles de bière">
+
+**[🎬 Voir la vidéo →](https://x.com/sebatheepan/status/2098013903280099595)**
+
+**Auteur:** [Pan](https://x.com/sebatheepan) | **Source:** [Link](https://x.com/sebatheepan/status/2098013903280099595) | **Publié:** Sep 10, 2026
+
+---
 ### Luxury Rose Perfume Commercial Storyboard
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2901,86 +3022,6 @@ Une piscine luxueuse entièrement composée de gelée à la fraise rouge rubis t
 **Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Publié:** Aug 10, 2026
 
 ---
-### Prompt de mouvement pour les détails intérieurs de la cabane dans les arbres
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de mouvement pour la phase de peinture et de détails intérieurs d'un timelapse de construction d'une cabane miniature dans les arbres.
-
-#### 📝 Prompt
-
-```
-Utilisez la cabane dans les arbres avec son extérieur entièrement terminé du Prompt de mouvement 4 comme image de départ exacte. Préservez l'architecture, le toit, les fenêtres, le balcon, l'arbre, l'environnement et les proportions à l'identique.
-
-Créez un timelapse ultra rapide
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Prompt de mouvement pour les détails intérieurs de la cabane dans les arbres">
-
-**[🎬 Voir la vidéo →](https://x.com/Strength04_X/status/2086644591089041676)**
-
-**Auteur:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **Publié:** Aug 10, 2026
-
----
-### Timelapse du mouvement de la fondation d'une cabane dans les arbres
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de mouvement Gemini Omni pour animer la construction de la fondation d'une cabane surélevée avec un effet timelapse ultra-rapide, tout en conservant une cohérence visuelle.
-
-#### 📝 Prompt
-
-```
-Utilisez l'image de la première frame comme point de départ exact et préservez l'arbre, les branches, l'environnement, l'échelle miniature, les matériaux, l'éclairage, le style de caméra et l'identité visuelle.
-
-Créez une construction en timelapse à vitesse ultra-rapide
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Timelapse du mouvement de la fondation d'une cabane dans les arbres">
-
-**[🎬 Voir la vidéo →](https://x.com/Strength04_X/status/2086644027420815501)**
-
-**Auteur:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Publié:** Aug 10, 2026
-
----
-### Pressage de pâte de pandan style anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt style anime 2D pour Gemini Omni décrivant des mains pressant de la pâte de farine de riz dans de l'azote liquide pour un effet visuel fantaisiste.
-
-#### 📝 Prompt
-
-```
-Une vidéo en gros plan animée en 2D style anime japonais. Des mains dessinées à la main pressent une pâte de farine de riz au pandan d'un vert éclatant à travers une presse traditionnelle dans un bol d'azote liquide, créant un nuage fantaisiste de vapeur froide et de brume scintillante.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Pressage de pâte de pandan style anime">
-
-**[🎬 Voir la vidéo →](https://x.com/playinbey/status/2085826420287418413)**
-
-**Auteur:** [PLAY!](https://x.com/playinbey) | **Source:** [Link](https://x.com/playinbey/status/2085826420287418413) | **Publié:** Aug 7, 2026
-
----
-### Vidéo à partir d'une image : angoisse et présage
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt conçu pour transformer une image statique en une scène vidéo dynamique empreinte d'angoisse et de présage, utilisant plusieurs angles de caméra.
-
-#### 📝 Prompt
-
-```
-Créez une scène captivante à partir de cette image, en utilisant plusieurs angles de caméra et un cadrage dynamique, afin d'instaurer un sentiment d'angoisse et de présage.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Vidéo à partir d'une image : angoisse et présage">
-
-**[🎬 Voir la vidéo →](https://x.com/pzf_ai/status/2085736211625230529)**
-
-**Auteur:** [PZF](https://x.com/pzf_ai) | **Source:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Publié:** Aug 7, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -3033,6 +3074,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-11T08:35:12.826Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-11T15:54:06.846Z</sub>
 
 </div>

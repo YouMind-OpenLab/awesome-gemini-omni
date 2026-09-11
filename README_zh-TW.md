@@ -46,7 +46,7 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **256** |
+| 📝 提示詞總數 | **260** |
 | ⭐ 精選提示詞 | **0** |
 | 🔄 最後更新 | **2026-09-11** |
 
@@ -56,6 +56,127 @@ Google Gemini Omni 高質量視頻生成提示詞精選集合
 
 > 📝 按發布日期排序（最新優先）
 
+### 蒸汽龐克維多利亞時代馬力單輪車
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個電影紀錄片風格的提示詞，描述了一款由內部跑步機上的馬匹驅動的蒸汽龐克單輪車，具備逼真的物理效果與黃金時刻的燈光。
+
+#### 📝 提示詞
+
+```
+照片級真實感，9:16 垂直追蹤鏡頭，電影紀錄片寫實風格。一位身穿棕色粗花呢燕尾服、背心、白色領巾、黑色高禮帽並戴著圓形黃銅護目鏡的蒸汽龐克維多利亞紳士，騎著一輛荒誕且巨大的機動單輪車，行駛在開闊鄉村草地旁的泥土小徑上。巨大的鋼製輪框上方安裝著復古皮革馬鞍與拋光的黃銅車把，並配有雙前車燈。在旋轉的凹槽鋼製輪框內，一匹棕馬在內部的跑步機軌道上奔跑，以穩定的慢跑速度機械地推動輪子前進。攝影機以相同的速度在旁平穩滑動，採用中廣角鏡頭，呈現出逼真的滾動物理效果、輪子揚起的塵土、柔和的黃金時刻日光、細微的機械震動以及深景深效果。超細節，4K，60fps。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098082175296143361/img/npjT8LtEI2oQLMPE.jpg" width="600" alt="蒸汽龐克維多利亞時代馬力單輪車">
+
+**[🎬 觀看視頻 →](https://x.com/sebatheepan/status/2098086634344288268)**
+
+**作者:** [Pan](https://x.com/sebatheepan) | **來源:** [Link](https://x.com/sebatheepan/status/2098086634344288268) | **發布時間:** Sep 10, 2026
+
+---
+### Coca Cola 海灘魔法廣告
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一個完整的 JSON 結構化影片腳本提示詞，旨在生成一個充滿魔法的廣告場景：在陽光普照的海灘上，水幻化成一罐 Coca-Cola。
+
+#### 📝 提示詞
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10 秒",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "單一連續不間斷鏡頭，無場景切換",
+    "composition": "開場為中遠景，拍攝一位年輕自信的女性赤腳站在陽光海灘上，跟隨她拋接玻璃杯的動作，結尾為她啜飲 Coca-Cola 罐的 ASMR 特寫鏡頭",
+    "lens": "海灘環境使用 35mm 鏡頭，產品展示與啜飲時切換為 85mm 鏡頭",
+    "frame_rate": "24fps 電影感",
+    "camera_movement": "台詞部分使用快速定鏡，玻璃杯旋轉時平滑推近，隨後輕柔環繞至罐身開啟與啜飲的特寫鏡頭"
+  },
+  "timeline": {
+    "0-3s": "明亮陽光的海灘，白色沙灘與湛藍海洋。一位身穿輕便夏裝的年輕女性赤腳站立，手持一杯清水，對著鏡頭俏皮一笑並說道：『上帝將水變成了酒，而我可以將它變成 Coca-Cola。』",
+    "3-7s": "她輕輕拋起玻璃杯並接住，杯子在手中旋轉並伴隨淡淡的紅色閃光。在一個流暢的動作中，旋轉的玻璃杯幻化成一罐冰涼的紅色 Coca-Cola，罐身表面凝結著水珠。",
+    "7-10s": "她清脆地打開罐子發出『嘶』的一聲，緩慢地進行 ASMR 風格的啜飲，可以看到氣泡，隨後將罐子稍微放下，背景映襯著海洋，露出滿足的微笑。無文字疊加。",
+  },
+  "subject": {
+    "description": "陽光海灘上自信的年輕女性，表演將一杯水變為 Coca-Cola 罐的俏皮魔法",
+    "props": "透明水杯，幻化為帶有凝結水珠的經典紅色 Coca-Cola 罐"
+  },
+  "scene": {
+    "location": "明亮的熱帶海灘，擁有白色沙灘與平靜的湛藍海洋",
+    "time_of_day": "正午陽光，自然的沙灘反射",
+    "environment": "開闊海岸線，柔和海浪，乾淨的商業廣告風格"
+  },
+  "visual_details": {
+    "action": "台詞表達、拋接與旋轉玻璃杯、無縫幻化為 Coca-Cola 罐、開罐、緩慢啜飲、滿足的微笑",
+    "special_effects": "旋轉玻璃杯上的紅色閃光、流暢的材質變形、凝結水珠、清脆的氣泡顆粒"
+  },
+  "cinematography": {
+    "lighting": "明亮的自然海灘陽光，具有乾淨的高光與冰罐反射",
+    "color_palette": ["Coca-Cola 紅", "白色沙灘", "湛藍海洋", "冰涼凝結水珠"],
+    "tone": "俏皮、清爽、充滿魔法的商業廣告"
+  },
+  "audio": {
+    "music": "海浪聲下輕快愉悅的海灘音樂",
+    "ambient": "柔和的海浪聲",
+    "sound_effects": "清晰的對話、變形時的旋轉呼嘯聲與閃爍聲、清脆的開罐聲、ASMR 氣泡與啜飲聲、安靜的氣泡餘音",
+    "mix": "清脆、商業化、以產品為核心"
+  },
+  "constraints": {
+    "on_screen_text": "無",
+    "captions": "無",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098042088793489408/img/Mt2cbUt_ExbVgz7Y.jpg" width="600" alt="Coca Cola 海灘魔法廣告">
+
+**[🎬 觀看視頻 →](https://x.com/MrDasOnX/status/2098042175389151556)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2098042175389151556) | **發布時間:** Sep 10, 2026
+
+---
+### 高腳獨輪車倒茶特技
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個紀錄片風格的提示詞，描述一名女子騎在高腳獨輪車上倒茶的畫面，用於模型效果比較。
+
+#### 📝 提示詞
+
+```
+照片級真實感、手持式垂直 9:16 真實紀錄片鏡頭。在陽光普照的鄉村泥地空地上，一名身穿淺藍色夏裝、腳踩白色運動鞋的年輕亞洲女性，騎著一台 10 英尺高的客製化梯架獨輪車。攝影機以中高角度鎖定她，捕捉她原地平衡、平穩地前後踩踏的過程。她一手拿著不鏽鋼茶壺，另一手拿著小金屬碗，在保持完美平衡的同時，將水從茶壺中流暢地倒出，形成一道優美的弧線注入碗中。倒完茶後，她舉起碗平靜地啜飲，並對著鏡頭微笑，地面的塵土隨之落下。強烈的正午陽光、湛藍的天空、逼真的平衡物理效果、穩定的攝影機追蹤、清晰的細節，4K 解析度。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098037800394534912/img/MYQFHQ9rMz5kG9vk.jpg" width="600" alt="高腳獨輪車倒茶特技">
+
+**[🎬 觀看視頻 →](https://x.com/sebatheepan/status/2098038455544557838)**
+
+**作者:** [Pan](https://x.com/sebatheepan) | **來源:** [Link](https://x.com/sebatheepan/status/2098038455544557838) | **發布時間:** Sep 10, 2026
+
+---
+### 雜技演員啤酒瓶平衡表演
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 這是一個紀錄片風格的電影感影片提示詞，描繪了一位雜技演員在自行車座墊上，平衡於一座高達 15 英尺的玻璃啤酒瓶塔上的驚險畫面。
+
+#### 📝 提示詞
+
+```
+手持攝影電影感鏡頭，動態肢體動作，真實紀錄片質感。在陽光普照的鄉村泥土庭院中，周圍擠滿了充滿活力、歡呼雀躍的觀眾，一輛復古黑色公路自行車直立著。在狹小的自行車座墊上，垂直堆疊著一座高達 15 英尺的綠色玻璃啤酒瓶塔，瓶口對瓶口、瓶底對瓶底地連接在一起。在塔頂，一位身穿白色上衣、深色慢跑褲和運動鞋的運動型雜技演員，正單腳站在最頂端瓶口的邊緣進行快節奏的平衡表演，同時還在玩轉一顆經典足球。攝影機快速向上傾斜並追蹤細微的動作變化，呈現出正午陽光下的自然鏡頭光暈、銳利的陰影、塵土飛揚的地面以及照片級真實的物理效果。4K 解析度，60fps，動態運動模糊。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098013305608511502/img/IGJmiXEFjFkVqWx9.jpg" width="600" alt="雜技演員啤酒瓶平衡表演">
+
+**[🎬 觀看視頻 →](https://x.com/sebatheepan/status/2098013903280099595)**
+
+**作者:** [Pan](https://x.com/sebatheepan) | **來源:** [Link](https://x.com/sebatheepan/status/2098013903280099595) | **發布時間:** Sep 10, 2026
+
+---
 ### Luxury Rose Perfume Commercial Storyboard
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2961,86 +3082,6 @@ EMBER AND THE FIREFLY 分鏡腳本 — 8 秒鏡頭清單
 **作者:** [Mr Das](https://x.com/MrDasOnX) | **來源:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **發布時間:** Aug 10, 2026
 
 ---
-### 樹屋室內細節動態提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 用於微型樹屋建造縮時攝影中，繪畫與室內細節處理階段的動態提示詞。
-
-#### 📝 提示詞
-
-```
-請以「動態提示詞 4」中完全完工的樹屋外部作為起始畫面。務必保留原有的建築結構、屋頂、窗戶、陽台、樹木、環境以及比例。
-
-製作一段超高速縮時攝影
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="樹屋室內細節動態提示詞">
-
-**[🎬 觀看視頻 →](https://x.com/Strength04_X/status/2086644591089041676)**
-
-**作者:** [𝐌](https://x.com/Strength04_X) | **來源:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **發布時間:** Aug 10, 2026
-
----
-### Treehouse Foundation Motion Timelapse
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一個使用 Gemini Omni 運動提示詞的專案，旨在以超快縮時攝影效果呈現樹屋地基的建造過程，同時保持視覺一致性。
-
-#### 📝 提示詞
-
-```
-請使用「First Frame Image」作為確切的起始影格，並保留相同的樹木、樹枝、環境、微縮比例、材質、光影、攝影風格及視覺識別。
-
-建立一個超快縮時攝影速度的建造過程
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Treehouse Foundation Motion Timelapse">
-
-**[🎬 觀看視頻 →](https://x.com/Strength04_X/status/2086644027420815501)**
-
-**作者:** [𝐌](https://x.com/Strength04_X) | **來源:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **發布時間:** Aug 10, 2026
-
----
-### 動漫風格斑蘭粉糰壓製
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 這是一個為 Gemini Omni 設計的 2D 動漫風格提示詞，描述雙手將米粉糰壓入液態氮中，營造出奇幻視覺效果的場景。
-
-#### 📝 提示詞
-
-```
-日式動漫風格的 2D 動畫特寫影片。手繪動漫風格的雙手將鮮豔的綠色斑蘭米粉糰透過傳統壓模，壓入一碗液態氮中，產生出奇幻的冷蒸汽雲霧與閃爍的氣體。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="動漫風格斑蘭粉糰壓製">
-
-**[🎬 觀看視頻 →](https://x.com/playinbey/status/2085826420287418413)**
-
-**作者:** [PLAY!](https://x.com/playinbey) | **來源:** [Link](https://x.com/playinbey/status/2085826420287418413) | **發布時間:** Aug 7, 2026
-
----
-### 恐懼與不祥氛圍的「圖片轉影片」提示詞
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 此提示詞旨在將靜態圖片轉換為充滿恐懼與不祥氛圍的動態影片場景，並運用多種鏡頭拍攝手法。
-
-#### 📝 提示詞
-
-```
-根據此圖片創作一個引人入勝的場景，運用多種鏡頭拍攝手法與動態構圖，營造出恐懼與不祥的氛圍。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="恐懼與不祥氛圍的「圖片轉影片」提示詞">
-
-**[🎬 觀看視頻 →](https://x.com/pzf_ai/status/2085736211625230529)**
-
-**作者:** [PZF](https://x.com/pzf_ai) | **來源:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **發布時間:** Aug 7, 2026
-
----
 ---
 
 ## 📚 更多提示詞
@@ -3093,6 +3134,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-09-11T08:34:55.155Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-09-11T15:53:57.892Z</sub>
 
 </div>

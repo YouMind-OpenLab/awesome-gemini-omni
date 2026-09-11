@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **256** |
+| 📝 Total de prompts | **260** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-09-11** |
 
@@ -56,6 +56,127 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Monociclo vitoriano steampunk movido a cavalo
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt em estilo de documentário cinematográfico para um veículo monociclo steampunk movido por um cavalo em uma esteira interna, apresentando física realista e iluminação de hora dourada.
+
+#### 📝 Prompt
+
+```
+Fotorrealista, plano de acompanhamento vertical 9:16, realismo de documentário cinematográfico. Um cavalheiro vitoriano steampunk vestindo casaca de tweed marrom, colete, plastrão branco, cartola preta e óculos de proteção de latão redondos pilota um veículo monociclo motorizado absurdo e grande por um caminho de terra ao lado de um pasto rural aberto. Montado sobre a estrutura da roda de aço gigante, há uma sela de couro vintage e guidão de latão polido com lanternas dianteiras duplas. Dentro do aro da roda de aço ranhurado e giratório, um cavalo marrom corre em uma esteira interna, impulsionando mecanicamente a roda para frente em um trote constante. A câmera desliza ao lado na mesma velocidade em um ângulo médio-aberto, mostrando física de rolagem realista, poeira levantada pela roda, luz suave da hora dourada, vibração mecânica sutil e profundidade de campo profunda. Ultradetalhado, 4K, 60fps.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098082175296143361/img/npjT8LtEI2oQLMPE.jpg" width="600" alt="Monociclo vitoriano steampunk movido a cavalo">
+
+**[🎬 Assistir vídeo →](https://x.com/sebatheepan/status/2098086634344288268)**
+
+**Autor:** [Pan](https://x.com/sebatheepan) | **Fonte:** [Link](https://x.com/sebatheepan/status/2098086634344288268) | **Publicado:** Sep 10, 2026
+
+---
+### Comercial Mágico de Praia da Coca-Cola
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de roteiro de vídeo estruturado em JSON abrangente, gerando uma cena comercial mágica onde a água se transforma em uma lata de Coca-Cola em uma praia ensolarada.
+
+#### 📝 Prompt
+
+```
+{
+  "model": "gemini-omni-1.1-flash",
+  "duration": "10s",
+  "aspect_ratio": "16:9",
+  "shot": {
+    "structure": "plano único contínuo e ininterrupto, sem cortes de cena",
+    "composition": "começa em plano médio-aberto de uma jovem confiante descalça em uma praia ensolarada, acompanha o lançamento e giro do copo, termina em um close-up fechado estilo ASMR dela bebendo a lata de Coca-Cola",
+    "lens": "35mm para o ambiente de praia, depois 85mm para a revelação do produto e o gole",
+    "frame_rate": "24fps cinematográfico",
+    "camera_movement": "câmera fixa rápida para a fala, aproximação suave enquanto o copo gira, órbita leve para um close-up fechado na abertura da lata e no gole"
+  },
+  "timeline": {
+    "0-3s": "Praia ensolarada e brilhante, areia branca e oceano azul-turquesa. Uma jovem com roupas leves de verão está descalça segurando um copo de água transparente, olha para a câmera com um sorriso brincalhão e diz: 'Deus transformou água em vinho. Eu consigo fazer Coca-Cola.'",
+    "3-7s": "Ela lança o copo levemente, o pega, e ele começa a girar em sua mão com faíscas vermelhas sutis. Em um movimento contínuo, o copo giratório se transforma em uma lata de Coca-Cola vermelha e gelada, com gotas de condensação escorrendo pela superfície.",
+    "7-10s": "Ela abre a lata com um 'psssht' nítido, dá um gole lento estilo ASMR com efervescência visível, depois abaixa a lata levemente e sorri com satisfação, com o oceano ao fundo. Sem sobreposição de texto."
+  },
+  "subject": {
+    "description": "jovem confiante em uma praia ensolarada realizando uma transformação mágica brincalhona de um copo de água para uma lata de Coca-Cola",
+    "props": "copo de água transparente que se transforma em uma lata clássica de Coca-Cola vermelha com condensação"
+  },
+  "scene": {
+    "location": "praia tropical brilhante com areia branca e oceano azul-turquesa calmo",
+    "time_of_day": "luz do sol do meio-dia, reflexos naturais da praia",
+    "environment": "costa aberta, ondas suaves, visual comercial limpo"
+  },
+  "visual_details": {
+    "action": "entrega da fala, lançamento e giro do copo, transformação contínua em lata de Coca-Cola, abertura da lata, gole lento, sorriso de satisfação",
+    "special_effects": "faíscas vermelhas no copo giratório, transformação de material suave, gotas de condensação, partículas de efervescência nítidas"
+  },
+  "cinematography": {
+    "lighting": "luz solar natural brilhante de praia com destaques limpos e reflexos na lata molhada",
+    "color_palette": ["vermelho Coca-Cola", "areia branca", "oceano azul-turquesa", "condensação gelada"],
+    "tone": "brincalhão, refrescante, comercial mágico"
+  },
+  "audio": {
+    "music": "música de praia suave e animada sob o som das ondas",
+    "ambient": "ondas suaves do oceano",
+    "sound_effects": "diálogo claro, som de 'whoosh' e brilho no giro durante a transformação, som nítido de 'psssht' ao abrir a lata, efervescência e gole estilo ASMR, efervescência diminuindo suavemente",
+    "mix": "nítido, comercial, focado no produto"
+  },
+  "constraints": {
+    "on_screen_text": "nenhum",
+    "captions": "nenhuma",
+    "subtitles": false
+  }
+}
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098042088793489408/img/Mt2cbUt_ExbVgz7Y.jpg" width="600" alt="Comercial Mágico de Praia da Coca-Cola">
+
+**[🎬 Assistir vídeo →](https://x.com/MrDasOnX/status/2098042175389151556)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2098042175389151556) | **Publicado:** Sep 10, 2026
+
+---
+### Acrobacia de servir chá em monociclo alto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt em estilo documentário apresentando uma mulher equilibrando-se em um monociclo alto enquanto serve chá, usado para comparações de modelos.
+
+#### 📝 Prompt
+
+```
+Filmagem documental autêntica, fotorrealista, vertical 9:16, estilo câmera na mão. Em uma clareira de terra em uma vila rural ensolarada, uma jovem asiática vestindo um vestido de verão azul-claro e tênis brancos anda em um monociclo personalizado de 3 metros de altura com estrutura de escada. A câmera começa em um ângulo médio-alto, travada diretamente nela enquanto ela se mantém parada, pedalando suavemente para frente e para trás. Segurando uma chaleira de chá de aço inoxidável em uma mão e uma pequena tigela de metal na outra, ela despeja a água suavemente em um arco limpo da chaleira para a tigela, mantendo um equilíbrio perfeito. Após servir, ela levanta a tigela para tomar um gole calmamente, sorrindo para a câmera enquanto a poeira assenta no chão. Luz solar forte do meio-dia, céu azul limpo, física de equilíbrio realista, rastreamento de câmera estável, detalhes nítidos, resolução 4K.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098037800394534912/img/MYQFHQ9rMz5kG9vk.jpg" width="600" alt="Acrobacia de servir chá em monociclo alto">
+
+**[🎬 Assistir vídeo →](https://x.com/sebatheepan/status/2098038455544557838)**
+
+**Autor:** [Pan](https://x.com/sebatheepan) | **Fonte:** [Link](https://x.com/sebatheepan/status/2098038455544557838) | **Publicado:** Sep 10, 2026
+
+---
+### Acrobata Equilibrando-se em Garrafas de Cerveja
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt de vídeo cinematográfico em estilo documentário que enquadra um acrobata se equilibrando em uma torre massiva de 4,5 metros de garrafas de vidro de cerveja empilhadas sobre o selim de uma bicicleta.
+
+#### 📝 Prompt
+
+```
+tomada cinematográfica com câmera na mão, ação física dinâmica, sensação autêntica de documentário. Em um pátio de vila rural ensolarado e repleto de uma multidão energética de espectadores torcendo, uma bicicleta roadster preta vintage permanece em pé. Equilibrada diretamente no pequeno selim da bicicleta, há uma coluna vertical imponente de garrafas de cerveja de vidro verde empilhadas boca com boca e base com base, atingindo 4,5 metros de altura. No topo, um acrobata atlético vestindo uma blusa branca, calça jogger escura e tênis realiza uma rotina de equilíbrio acelerada em um pé só sobre a borda da garrafa mais alta, enquanto faz malabarismo com uma bola de futebol clássica. A câmera inclina-se para cima rapidamente e rastreia micro-movimentos contínuos, com reflexo de lente natural da luz solar do meio-dia, sombras nítidas, solo empoeirado e física fotorrealista. 4K, 60fps, desfoque de movimento dinâmico.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098013305608511502/img/IGJmiXEFjFkVqWx9.jpg" width="600" alt="Acrobata Equilibrando-se em Garrafas de Cerveja">
+
+**[🎬 Assistir vídeo →](https://x.com/sebatheepan/status/2098013903280099595)**
+
+**Autor:** [Pan](https://x.com/sebatheepan) | **Fonte:** [Link](https://x.com/sebatheepan/status/2098013903280099595) | **Publicado:** Sep 10, 2026
+
+---
 ### Luxury Rose Perfume Commercial Storyboard
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2901,86 +3022,6 @@ Uma piscina luxuosa feita inteiramente de gelatina de morango vermelho-rubi tran
 **Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Publicado:** Aug 10, 2026
 
 ---
-### Prompt de Movimento para Detalhamento de Interior de Casa na Árvore
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de movimento para a fase de pintura e detalhamento interno de um timelapse da construção de uma casa na árvore em miniatura.
-
-#### 📝 Prompt
-
-```
-Use a casa na árvore com o exterior totalmente finalizado do Prompt de Movimento 4 como o quadro inicial exato. Preserve a arquitetura, o telhado, as janelas, a varanda, a árvore, o ambiente e as proporções exatas.
-
-Crie um timelapse ultra rápido
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086644545664806912/img/F9s4MPaNe29iwlXp.jpg" width="600" alt="Prompt de Movimento para Detalhamento de Interior de Casa na Árvore">
-
-**[🎬 Assistir vídeo →](https://x.com/Strength04_X/status/2086644591089041676)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2086644591089041676) | **Publicado:** Aug 10, 2026
-
----
-### Time-lapse de Movimento da Fundação da Casa na Árvore
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de movimento Gemini Omni para animar a construção de uma fundação de casa na árvore elevada com um efeito de time-lapse ultrarrápido, mantendo a consistência visual.
-
-#### 📝 Prompt
-
-```
-Use a Imagem do Primeiro Quadro como o quadro inicial exato e preserve a mesma árvore, galhos, ambiente, escala em miniatura, materiais, iluminação, estilo de câmera e identidade visual.
-
-Crie uma construção com velocidade de time-lapse ultrarrápida
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086643887951724544/img/jmyxW8dT11FxN4Mw.jpg" width="600" alt="Time-lapse de Movimento da Fundação da Casa na Árvore">
-
-**[🎬 Assistir vídeo →](https://x.com/Strength04_X/status/2086644027420815501)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Fonte:** [Link](https://x.com/Strength04_X/status/2086644027420815501) | **Publicado:** Aug 10, 2026
-
----
-### Prensagem de massa de pandan em estilo anime
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt em estilo anime 2D para o Gemini Omni que descreve mãos pressionando massa de farinha de arroz em nitrogênio líquido para um efeito visual fantasioso.
-
-#### 📝 Prompt
-
-```
-Um vídeo em close-up de animação 2D no estilo anime japonês. Mãos desenhadas em estilo anime pressionam uma massa vibrante de farinha de arroz com pandan verde através de uma prensa tradicional para dentro de uma tigela com nitrogênio líquido, criando uma nuvem fantasiosa de vapor frio e partículas cintilantes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085825891431800832/img/piW_B8Zkmo8OsohB.jpg" width="600" alt="Prensagem de massa de pandan em estilo anime">
-
-**[🎬 Assistir vídeo →](https://x.com/playinbey/status/2085826420287418413)**
-
-**Autor:** [PLAY!](https://x.com/playinbey) | **Fonte:** [Link](https://x.com/playinbey/status/2085826420287418413) | **Publicado:** Aug 7, 2026
-
----
-### Imagem para Vídeo com Temor e Presságio
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt projetado para transformar uma imagem estática em uma cena de vídeo dinâmica caracterizada por temor e presságio, utilizando múltiplos ângulos de câmera.
-
-#### 📝 Prompt
-
-```
-Crie uma cena interessante com base nesta imagem, utilizando múltiplos ângulos de câmera e enquadramento dinâmico, para gerar uma sensação de temor e presságio.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2085734878184603648/img/nnz1Rt0q-VjHeIWF.jpg" width="600" alt="Imagem para Vídeo com Temor e Presságio">
-
-**[🎬 Assistir vídeo →](https://x.com/pzf_ai/status/2085736211625230529)**
-
-**Autor:** [PZF](https://x.com/pzf_ai) | **Fonte:** [Link](https://x.com/pzf_ai/status/2085736211625230529) | **Publicado:** Aug 7, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -3033,6 +3074,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-11T08:35:18.370Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-11T15:54:08.571Z</sub>
 
 </div>
