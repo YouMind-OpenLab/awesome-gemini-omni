@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **260** |
+| 📝 Total de prompts | **264** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-09-12** |
 
@@ -56,6 +56,85 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Cortometraje cinematográfico de una mujer japonesa
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt para un cortometraje cinematográfico destinado a generar un video de 10 segundos de una mujer japonesa de unos 20 años, centrado en mantener la consistencia del personaje a partir de una imagen de referencia.
+
+#### 📝 Prompt
+
+```
+Un video cinematográfico de 10 segundos con una mujer japonesa de unos 20 años como protagonista. Mantén los rasgos de la persona de la imagen de referencia. Cabello negro estilo bob recto, expresión suave y tranquila, y un vestido de encaje blanco.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202572279_9h5dya_HR_v4y0boAA3hhx.jpg" width="600" alt="Cortometraje cinematográfico de una mujer japonesa">
+
+**[🎬 Ver video →](https://x.com/uniyume/status/2098664966631112989)**
+
+**Autor:** [かなまる](https://x.com/uniyume) | **Fuente:** [Link](https://x.com/uniyume/status/2098664966631112989) | **Publicado:** Sep 12, 2026
+
+---
+### Anuncio de televisión de vino espumoso de pera
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt para un anuncio de televisión de 10 segundos para un vino espumoso ficticio, utilizando un guion gráfico de múltiples fotogramas como referencia para la composición y la consistencia de los personajes en un estilo de acción real pastoral.
+
+#### 📝 Prompt
+
+```
+Un anuncio de televisión de 10 segundos para el vino espumoso de pera ficticio "SUITO". Un video de acción real de una mujer adulta con un ambiente relajado, pastoral y eufórico.
+
+[Imagen de referencia y composición de pantalla]
+La imagen de 9 fotogramas adjunta se utiliza como referencia para la composición, los personajes, el producto y la visión del mundo de cada escena. Reproduzca fielmente a la persona.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202573360_g9xl2h_HR_nN-2agAEUAZy.jpg" width="600" alt="Anuncio de televisión de vino espumoso de pera">
+
+**[🎬 Ver video →](https://x.com/uniyume/status/2098654920916521175)**
+
+**Autor:** [かなまる](https://x.com/uniyume) | **Fuente:** [Link](https://x.com/uniyume/status/2098654920916521175) | **Publicado:** Sep 12, 2026
+
+---
+### Escena publicitaria de alta gama: Salteado de camarones
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado para la generación de video de un anuncio gastronómico de alta gama, que muestra el proceso de escurrir camarones de río, cortar cebollino y preparar salsas con iluminación cinematográfica y texturas naturales.
+
+#### 📝 Prompt
+
+```
+Genera un anuncio de comida de alta gama de 10 segundos en formato vertical 9:16 usando Gemini Omni 1.1 Flash. Combina el video de referencia y las cinco imágenes de referencia para comprender la forma de los ingredientes, la secuencia de operación y el ritmo de acción. Uso del material de referencia: El video proporciona el proceso de preparación completo; las cinco imágenes se utilizan para el lavado de camarones, el escurrido, el corte de flores de cebollino, el picado de jengibre y ajo, y la preparación de la salsa. Úsalas como hechos visuales, sin copiar personajes, subtítulos, logotipos, narraciones ni diseños únicos. Ajustes visuales unificados: El ingrediente principal son camarones de río pequeños y enteros con cáscara, con antenas y patas naturales, no langostinos grandes ni camarones pelados. La longitud corporal objetivo es de aproximadamente 1,5 cm y el ancho de 0,2 cm. El tamaño del camarón debe permanecer constante. Las flores de cebollino son tallos delgados de color verde brillante con algunos brotes sin abrir, cortados en segmentos de 3-4 cm; no generes hojas anchas. Usa una encimera de piedra gris oscuro, una tabla de cortar de roble claro y cuencos de condimentos transparentes. Solo muestra las manos del chef; nada de rostro. Luz cálida y suave desde la parte superior izquierda, colores naturales y gotas de agua realistas. Acciones: 0-3s: Escurrir camarones en un colador. 3-5s: Cortar flores de cebollino. 5-7s: Picar jengibre y ajo. 7-10s: Preparar la salsa. Sin barras negras, mantén los sonidos ambientales. Evita: camarones grandes, tamaños inconsistentes, dedos deformes, ingredientes flotantes o texturas plásticas. Segmento 2: Anuncio vertical de 10s, 9:16. Uso: Aceite en wok negro, adición de aromáticos, camarones crudos del colador, camarones tornándose naranja rojizo, adición de cebollino al final. Mantén el procedimiento realista. El tamaño del camarón permanece en 1,5 cm. Wok de acero al carbono negro, espátula de metal, encimera gris oscuro, fondo de ladrillo gris. Luz suave, colores naturales, vapor moderado. Acciones: 0-3s: Chisporroteo de aceite y aromáticos. 3-7s: Adición de camarones y salteado hasta que se tornen naranja rojizo. 7-10s: Saltear camarones, añadir cebollino verde. Aún no emplatar. Salida 10s, 720p, 9:16. Evita: manos deformes, elementos flotantes, llamas exageradas o cambios en el tamaño de los camarones. Segmento 3: Anuncio vertical de 10s, 9:16. Uso: Cebollino sobre camarones, mezcla con espátula, salteado con brillo aceitoso, vertido de salsa marrón. Los camarones permanecen naranja rojizo y pequeños. El cebollino son tallos verdes. Acciones: 0-2s: Mezclar cebollino con camarones. 2-6s: Mezcla con espátula y un ligero salteado. 6-8s: Verter salsa marrón claro en un flujo continuo. 8-10s: Mezclar uniformemente para obtener un brillo húmedo y ligero. Salida 10s, 720p, 9:16. Evita: ingredientes adicionales, manos deformes, llamas enormes o exceso de líquido. Segmento 4: Final vertical de 10s, 9:16. Uso: Salteado final, emplatado en un plato blanco, primer plano del plato terminado. Los camarones permanecen en 1,5 cm. El cebollino son tallos verdes. Usa un plato de cerámica blanco cálido. Luz cálida y suave. Acciones: 0-2,5s: Salteado final suave. 2,5-6s: Inclinar el wok para deslizar los ingredientes sobre el plato formando un montículo ordenado. 6-10s: Las manos salen de cuadro, zoom lento hacia el plato terminado de Camarones de río salteados con flores de cebollino. Texturas naturales y brillo aceitoso. Salida 10s, 720p, 9:16. Evita: copiar el texto fuente, manos deformes, elementos flotantes, llamas enormes o cambios repentinos de luz.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098592507236167680/img/81KVnMF03e2GTdlW.jpg" width="600" alt="Escena publicitaria de alta gama: Salteado de camarones">
+
+**[🎬 Ver video →](https://x.com/7998l201/status/2098592573350944969)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Fuente:** [Link](https://x.com/7998l201/status/2098592573350944969) | **Publicado:** Sep 12, 2026
+
+---
+### Animación de dibujo en cuaderno de bocetos desde arriba
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt de video creativo que describe a una figura de palitos dibujada a mano cobrando vida en un cuaderno de bocetos, con una perspectiva cenital y transiciones de sombreado realistas.
+
+#### 📝 Prompt
+
+```
+POV cenital, vista desde arriba, mirando directamente hacia un cuaderno de bocetos sobre un escritorio de madera. Una mano de piel morena sostiene un marcador negro y dibuja una figura de palitos sencilla y sonriente: cabeza redonda, cuerpo ovalado, extremidades delgadas. La mano se retira. El dibujo adquiere un volumen y sombreado sutiles, cobrando vida
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098358082875125763/img/WldD1N-m55wm05mI.jpg" width="600" alt="Animación de dibujo en cuaderno de bocetos desde arriba">
+
+**[🎬 Ver video →](https://x.com/aibabbler/status/2098358118665072891)**
+
+**Autor:** [Jo Aiba](https://x.com/aibabbler) | **Fuente:** [Link](https://x.com/aibabbler/status/2098358118665072891) | **Publicado:** Sep 11, 2026
+
+---
 ### Monociclo victoriano steampunk impulsado por caballos
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2913,87 +2992,6 @@ Un propietario de negocio revisando un panel de control de IA en una oficina mod
 **Autor:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Fuente:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Publicado:** Aug 11, 2026
 
 ---
-### Mundo de gotas de agua congeladas cristalinas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video detallado para Gemini Omni que visualiza una gota de agua transformándose en un complejo paisaje congelado con bosques cristalinos y acantilados de hielo en cámara lenta.
-
-#### 📝 Prompt
-
-```
-Un fondo negro puro llena el encuadre. Una única gota de agua transparente cae en cámara lenta desde arriba, golpeando una superficie invisible y expandiéndose hacia afuera en ondas circulares perfectas y salpicaduras cristalinas. La cámara permanece completamente estática, enfocada en la danza del fluido. A medida que se añaden gotas sucesivas, el agua que se extiende se transforma sutilmente en imponentes acantilados de hielo, cascadas y bosques cristalinos de escarcha. Una suave luz turquesa y plateada se filtra a través del líquido, convirtiendo toda la escena en un luminoso reino de cascadas congeladas. El último segundo se congela en el mundo cristalino completado, perfectamente inmóvil. Estilo: belleza abstracta | movimiento fluido | transformación cristalina Cámara: macro estática → revelación lenta Duración: 10 segundos Iluminación: luz de contorno fría, alta claridad, brillo etéreo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Mundo de gotas de agua congeladas cristalinas">
-
-**[🎬 Ver video →](https://x.com/MrDasOnX/status/2087219303926124787)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **Publicado:** Aug 11, 2026
-
----
-### Prompt para arrancar una estrella del cielo nocturno con la mano
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de imagen en primera persona de estilo surrealista que muestra una mano alcanzando el cielo nocturno para tomar una estrella brillante.
-
-#### 📝 Prompt
-
-```
-Vista en primera persona, una mano humana extendiéndose hacia un cielo nocturno profundo, arrancando delicadamente una única estrella brillante de la oscuridad como si fuera una fruta. Cielo azul marino profundo, luz de estrellas centelleante, escala de perspectiva forzada surrealista,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Prompt para arrancar una estrella del cielo nocturno con la mano">
-
-**[🎬 Ver video →](https://x.com/TheChuksAi/status/2087042640453738616)**
-
-**Autor:** [ChuksAi](https://x.com/TheChuksAi) | **Fuente:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **Publicado:** Aug 11, 2026
-
----
-### Storyboard de Ember and the Firefly, toma 1
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> La toma inicial de la demostración cinematográfica de 'Ember and the Firefly', que presenta un plano general con un acercamiento lento hacia un personaje que se queda paralizado al ver una luciérnaga brillante.
-
-#### 📝 Prompt
-
-```
-STORYBOARD DE EMBER AND THE FIREFLY — LISTA DE TOMAS DE 8 SEG
-
-TOMA 1 | LA CHISPA (0:00–1:3s)
-Cámara: Plano general estático, acercamiento lento.
-Acción: Ember se detiene en seco, sus orejas se orientan hacia una única luciérnaga brillante.
-Sonido: Silencio del bosque, suave tintineo al aparecer el brillo.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Storyboard de Ember and the Firefly, toma 1">
-
-**[🎬 Ver video →](https://x.com/Gre8tDan/status/2086787909399572802)**
-
-**Autor:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Fuente:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Publicado:** Aug 10, 2026
-
----
-### Piscina de gelatina de fresa saltarina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video cinematográfico altamente detallado de una piscina de gelatina de fresa color rojo rubí translúcido con una fresa de gelatina saltarina, enfatizando texturas y físicas.
-
-#### 📝 Prompt
-
-```
-Una lujosa piscina hecha completamente de gelatina de fresa color rojo rubí translúcido sobre un fondo de degradado continuo de blanco a rosa pálido. Una fresa gigante y realista, esculpida con la misma gelatina brillante, emerge del centro de la piscina y rebota lentamente hacia arriba, para luego volver a caer sobre la superficie, creando hermosas ondas concéntricas y suaves salpicaduras de gelatina. Pequeñas gotas de gelatina translúcida se estiran en el aire y captan la luz del estudio. La cámara comienza con un primer plano macro de la textura brillante de la gelatina, se aleja suavemente a medida que la fresa se eleva y luego se acerca con delicadeza cuando esta aterriza. Deformación realista de la gelatina, balanceo, estiramiento, rebote suave, ondas superficiales similares a un líquido, translucidez convincente y dispersión subsuperficial. Fotografía gastronómica de dirección artística premium, composición de estudio minimalista, estética ASMR fascinante, movimiento cinematográfico fluido, toma continua única, exactamente 10 segundos, sin texto, sin logotipos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Piscina de gelatina de fresa saltarina">
-
-**[🎬 Ver video →](https://x.com/MrDasOnX/status/2086771369673699476)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Publicado:** Aug 10, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -3046,6 +3044,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-12T08:22:44.361Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-12T15:00:51.359Z</sub>
 
 </div>

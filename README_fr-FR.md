@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **260** |
+| 📝 Total des prompts | **264** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-09-12** |
 
@@ -56,6 +56,85 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Court-métrage cinématographique d'une femme japonaise
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt de court-métrage cinématographique pour générer une vidéo de 10 secondes d'une femme japonaise dans la vingtaine, en mettant l'accent sur la cohérence du personnage à partir d'une image de référence.
+
+#### 📝 Prompt
+
+```
+Une vidéo cinématographique de 10 secondes mettant en scène une femme japonaise dans la vingtaine. Maintenez les traits de la personne présente sur l'image de référence. Carré noir droit, expression douce et calme, et robe en dentelle blanche.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202572279_9h5dya_HR_v4y0boAA3hhx.jpg" width="600" alt="Court-métrage cinématographique d'une femme japonaise">
+
+**[🎬 Voir la vidéo →](https://x.com/uniyume/status/2098664966631112989)**
+
+**Auteur:** [かなまる](https://x.com/uniyume) | **Source:** [Link](https://x.com/uniyume/status/2098664966631112989) | **Publié:** Sep 12, 2026
+
+---
+### Publicité télévisée pour vin pétillant à la poire
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt pour une publicité télévisée de 10 secondes pour un vin pétillant fictif, utilisant un storyboard multi-images comme référence pour la composition et la cohérence des personnages dans un style live-action pastoral.
+
+#### 📝 Prompt
+
+```
+Une publicité télévisée de 10 secondes pour le vin pétillant à la poire fictif « SUITO ». Une vidéo en live-action mettant en scène une femme adulte dans une ambiance décontractée, pastorale et euphorique.
+
+[Image de référence et composition d'écran]
+L'image à 9 cadres ci-jointe sert de référence pour la composition, les personnages, le produit et l'univers visuel de chaque scène. Reproduisez fidèlement la personne.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202573360_g9xl2h_HR_nN-2agAEUAZy.jpg" width="600" alt="Publicité télévisée pour vin pétillant à la poire">
+
+**[🎬 Voir la vidéo →](https://x.com/uniyume/status/2098654920916521175)**
+
+**Auteur:** [かなまる](https://x.com/uniyume) | **Source:** [Link](https://x.com/uniyume/status/2098654920916521175) | **Publié:** Sep 12, 2026
+
+---
+### Scène publicitaire haut de gamme pour crevettes sautées
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt de génération vidéo détaillé pour une publicité gastronomique haut de gamme illustrant l'égouttage de crevettes de rivière, la découpe de ciboulette et la préparation de sauces, avec un éclairage cinématographique et des textures naturelles.
+
+#### 📝 Prompt
+
+```
+Générez une publicité culinaire haut de gamme de 10 secondes au format vertical 9:16 en utilisant Gemini Omni 1.1 Flash. Combinez la vidéo de référence et les cinq images de référence pour comprendre la forme des ingrédients, la séquence des opérations et le rythme des actions. Utilisation du matériel de référence : la vidéo fournit le processus de préparation complet ; les cinq images servent pour le lavage et l'égouttage des crevettes, la découpe des fleurs de ciboulette, le hachage de l'ail et du gingembre, et la préparation de la sauce. Utilisez-les comme faits visuels, sans copier les personnages, sous-titres, logos, narrations ou mises en page uniques. Paramètres visuels unifiés : l'ingrédient principal est la petite crevette de rivière entière, avec carapace, antennes et pattes naturelles, et non de grosses crevettes ou des crevettes décortiquées. La longueur cible est d'environ 1,5 cm pour une largeur de 0,2 cm. La taille des crevettes doit rester constante. Les fleurs de ciboulette sont des tiges fines vert vif avec quelques boutons non ouverts, coupées en segments de 3 à 4 cm ; ne générez pas de feuilles larges. Utilisez un plan de travail en pierre gris foncé, une planche à découper en chêne clair et des bols d'assaisonnement transparents. Montrez uniquement les mains du chef ; pas de visage. Lumière douce et chaude venant du haut à gauche, couleurs naturelles et gouttelettes d'eau réalistes. Actions : 0-3s : Égouttage des crevettes dans une passoire. 3-5s : Découpe des fleurs de ciboulette. 5-7s : Hachage du gingembre et de l'ail. 7-10s : Préparation de la sauce. Pas de bandes noires, conservez les sons ambiants. À éviter : grosses crevettes, tailles incohérentes, doigts déformés, ingrédients flottants ou textures plastiques. Segment 2 : Publicité verticale 10s, 9:16. Utilisation : Huile dans un wok noir, ajout des aromates, ajout des crevettes crues égouttées, les crevettes deviennent orange-rouge, ajout de la ciboulette à la fin. Gardez une procédure réaliste. Taille des crevettes : 1,5 cm. Wok en acier au carbone noir, spatule en métal, plan de travail gris foncé, fond en briques grises. Lumière douce, couleurs naturelles, vapeur modérée. Actions : 0-3s : Grésillement de l'huile et des aromates. 3-7s : Ajout des crevettes et sautage jusqu'à ce qu'elles deviennent orange-rouge. 7-10s : Mélange des crevettes, ajout de la ciboulette verte. Pas encore de dressage. Sortie 10s, 720p, 9:16. À éviter : mains déformées, objets flottants, flammes exagérées ou changement de taille des crevettes. Segment 3 : Publicité verticale 10s, 9:16. Utilisation : Ciboulette sur les crevettes, mélange à la spatule, sautage avec un brillant huileux, versement de la sauce brune. Les crevettes restent orange-rouge et petites. La ciboulette est composée de tiges vertes. Actions : 0-2s : Incorporer la ciboulette aux crevettes. 2-6s : Mélange à la spatule et léger sautage. 6-8s : Verser la sauce brun clair en un filet continu. 8-10s : Mélanger uniformément pour obtenir un brillant humide et léger. Sortie 10s, 720p, 9:16. À éviter : ingrédients supplémentaires, mains déformées, flammes immenses ou liquide excessif. Segment 4 : Finale publicitaire verticale 10s, 9:16. Utilisation : Sautage final, dressage sur une assiette blanche, gros plan sur le plat terminé. Les crevettes restent à 1,5 cm. La ciboulette est composée de tiges vertes. Utilisez une assiette en céramique blanc chaud. Lumière douce et chaude. Actions : 0-2,5s : Sautage final délicat. 2,5-6s : Incliner le wok pour faire glisser les ingrédients sur l'assiette en un monticule net. 6-10s : Les mains sortent du cadre, zoom lent sur le plat fini de Crevettes de rivière sautées aux fleurs de ciboulette. Textures naturelles et brillant huileux. Sortie 10s, 720p, 9:16. À éviter : copier le texte source, mains déformées, objets flottants, flammes immenses ou changements de lumière soudains.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098592507236167680/img/81KVnMF03e2GTdlW.jpg" width="600" alt="Scène publicitaire haut de gamme pour crevettes sautées">
+
+**[🎬 Voir la vidéo →](https://x.com/7998l201/status/2098592573350944969)**
+
+**Auteur:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2098592573350944969) | **Publié:** Sep 12, 2026
+
+---
+### Animation de dessin sur carnet de croquis en vue plongeante
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt vidéo créatif décrivant un bonhomme allumette dessiné à la main qui prend vie sur un carnet de croquis, avec une perspective en plongée et des transitions d'ombrage réalistes.
+
+#### 📝 Prompt
+
+```
+Vue plongeante (POV), vue de dessus, regardant directement un carnet de croquis posé sur un bureau en bois. Une main à la peau brune tient un marqueur noir et dessine un bonhomme allumette souriant simple : tête ronde, corps ovale, membres fins. La main se retire. Le dessin gagne en volume et en ombrage subtils, prenant vie.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098358082875125763/img/WldD1N-m55wm05mI.jpg" width="600" alt="Animation de dessin sur carnet de croquis en vue plongeante">
+
+**[🎬 Voir la vidéo →](https://x.com/aibabbler/status/2098358118665072891)**
+
+**Auteur:** [Jo Aiba](https://x.com/aibabbler) | **Source:** [Link](https://x.com/aibabbler/status/2098358118665072891) | **Publié:** Sep 11, 2026
+
+---
 ### Monoroue victorienne steampunk propulsée par un cheval
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2941,87 +3020,6 @@ Un chef d'entreprise examinant un tableau de bord IA dans un bureau moderne et l
 **Auteur:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Source:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Publié:** Aug 11, 2026
 
 ---
-### Monde de gouttelettes d'eau cristallisées
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo détaillé pour Gemini Omni qui visualise une goutte d'eau se transformant en un paysage gelé complexe, composé de forêts cristallines et de falaises de glace au ralenti.
-
-#### 📝 Prompt
-
-```
-Un fond noir pur remplit le cadre. Une goutte d'eau claire tombe au ralenti, frappant une surface invisible et explosant en ondulations circulaires parfaites et en éclaboussures cristallines. La caméra reste totalement fixe, verrouillée sur cette danse fluide. À mesure que des gouttes successives s'ajoutent, l'eau qui s'étend se transforme subtilement en falaises de glace imposantes, en cascades et en forêts de givre cristallines. Une douce lumière turquoise et argentée filtre à travers le liquide, transformant toute la scène en un royaume de cascade gelée lumineuse. La dernière seconde se fige sur le monde cristallin achevé, parfaitement immobile. Style : beauté abstraite | mouvement fluide | transformation cristalline Caméra : macro statique → révélation lente Durée : 10 secondes Éclairage : lumière rasante froide, haute clarté, éclat éthéré
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Monde de gouttelettes d'eau cristallisées">
-
-**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2087219303926124787)**
-
-**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **Publié:** Aug 11, 2026
-
----
-### Prompt pour une main cueillant une étoile dans le ciel nocturne
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt d'image surréaliste en vue subjective montrant une main s'étendant vers le ciel nocturne pour cueillir une étoile brillante.
-
-#### 📝 Prompt
-
-```
-Vue à la première personne, une main humaine s'étirant vers un ciel nocturne profond, cueillant délicatement une étoile brillante dans l'obscurité comme s'il s'agissait d'un fruit. Ciel bleu marine profond, lumière des étoiles scintillante, échelle en perspective forcée surréaliste,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Prompt pour une main cueillant une étoile dans le ciel nocturne">
-
-**[🎬 Voir la vidéo →](https://x.com/TheChuksAi/status/2087042640453738616)**
-
-**Auteur:** [ChuksAi](https://x.com/TheChuksAi) | **Source:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **Publié:** Aug 11, 2026
-
----
-### Storyboard Ember and the Firefly, plan 1
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Le plan d'ouverture de la démo cinématographique « Ember and the Firefly », présentant un travelling avant large sur un personnage qui se fige en apercevant une luciole lumineuse.
-
-#### 📝 Prompt
-
-```
-STORYBOARD EMBER AND THE FIREFLY — LISTE DES PLANS DE 8 SEC
-
-PLAN 1 | L'ÉTINCELLE (0:00–1:3s)
-Cam : Plan large fixe, travelling avant lent.
-Action : Ember se fige en plein pas, les oreilles dressées vers une luciole lumineuse.
-Son : Silence de la forêt, léger carillon sur l'éclat.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Storyboard Ember and the Firefly, plan 1">
-
-**[🎬 Voir la vidéo →](https://x.com/Gre8tDan/status/2086787909399572802)**
-
-**Auteur:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Source:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Publié:** Aug 10, 2026
-
----
-### Piscine de gelée à la fraise rebondissante
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique très détaillé représentant une piscine de gelée à la fraise rouge rubis translucide avec une fraise en gelée qui rebondit, mettant l'accent sur les textures et la physique.
-
-#### 📝 Prompt
-
-```
-Une piscine luxueuse entièrement composée de gelée à la fraise rouge rubis translucide sur un fond dégradé homogène allant du blanc au rose pâle. Une fraise réaliste géante, sculptée dans la même gelée brillante, émerge du centre de la piscine et rebondit lentement vers le haut, puis retombe à la surface, créant de magnifiques ondes concentriques et de légères éclaboussures. De minuscules gouttelettes de gelée translucides s'étirent dans l'air et captent la lumière du studio. La caméra commence par un gros plan macro sur la texture brillante de la gelée, recule en douceur à mesure que la fraise s'élève, puis avance délicatement lorsqu'elle atterrit. Déformation réaliste de la gélatine, vacillements, étirements, rebonds souples, ondulations de surface semblables à du liquide, translucidité convaincante et diffusion sous la surface. Photographie culinaire haut de gamme dirigée artistiquement, composition de studio minimaliste, esthétique ASMR fascinante, mouvement cinématographique fluide, plan séquence unique, exactement 10 secondes, sans texte, sans logos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Piscine de gelée à la fraise rebondissante">
-
-**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2086771369673699476)**
-
-**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Publié:** Aug 10, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -3074,6 +3072,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-12T08:22:48.495Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-12T15:00:57.233Z</sub>
 
 </div>

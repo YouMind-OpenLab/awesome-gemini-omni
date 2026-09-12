@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **260** |
+| 📝 Toplam İstem | **264** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-12** |
 
@@ -56,6 +56,85 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sinematik Japon Kadın Kısa Filmi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Referans görseldeki karakter tutarlılığını korumaya odaklanarak, 20'li yaşlarında bir Japon kadının yer aldığı 10 saniyelik bir video oluşturmaya yönelik sinematik kısa film istemi.
+
+#### 📝 İstem
+
+```
+Başrolde 20'li yaşlarında bir Japon kadının yer aldığı 10 saniyelik sinematik film tarzında bir video. Referans görseldeki kişinin özelliklerini koruyun. Siyah küt saç modeli, yumuşak ve sakin bir ifade ve beyaz dantel bir elbise.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202572279_9h5dya_HR_v4y0boAA3hhx.jpg" width="600" alt="Sinematik Japon Kadın Kısa Filmi">
+
+**[🎬 Videoyu izle →](https://x.com/uniyume/status/2098664966631112989)**
+
+**Yazar:** [かなまる](https://x.com/uniyume) | **Kaynak:** [Link](https://x.com/uniyume/status/2098664966631112989) | **Yayınlandı:** Sep 12, 2026
+
+---
+### Armut Köpüklü Şarabı TV Reklamı
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Pastoral canlı çekim tarzında kompozisyon ve karakter tutarlılığı için çok kareli bir storyboard referansından yararlanan, kurgusal bir köpüklü şarap için 10 saniyelik bir TV reklamı istemi.
+
+#### 📝 İstem
+
+```
+Kurgusal armut köpüklü şarabı "SUITO" için 10 saniyelik bir TV reklamı. Rahat, pastoral ve coşkulu bir hisse sahip yetişkin bir kadının yer aldığı canlı çekim bir video.
+
+[Referans Görsel ve Ekran Kompozisyonu]
+Ekli 9 kareli görsel; her sahnenin kompozisyonu, karakterleri, ürünü ve dünya görüşü için referans olarak kullanılmaktadır. Kişiyi aslına sadık kalarak yeniden oluşturun.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202573360_g9xl2h_HR_nN-2agAEUAZy.jpg" width="600" alt="Armut Köpüklü Şarabı TV Reklamı">
+
+**[🎬 Videoyu izle →](https://x.com/uniyume/status/2098654920916521175)**
+
+**Yazar:** [かなまる](https://x.com/uniyume) | **Kaynak:** [Link](https://x.com/uniyume/status/2098654920916521175) | **Yayınlandı:** Sep 12, 2026
+
+---
+### Üst Düzey Karides Kavurma Reklam Sahnesi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Nehir karideslerinin süzülmesi, frenk soğanlarının doğranması ve sosların hazırlanması süreçlerini içeren, sinematik aydınlatma ve doğal dokularla desteklenmiş üst düzey bir gurme reklamı için detaylı video oluşturma istemi.
+
+#### 📝 İstem
+
+```
+Gemini Omni 1.1 Flash kullanarak 10 saniyelik, 9:16 dikey formatta üst düzey bir yemek reklamı oluşturun. Malzemelerin formunu, işlem sırasını ve aksiyon ritmini anlamak için referans videoyu ve beş referans görseli birleştirin. Referans materyal kullanımı: Video, hazırlık sürecinin tamamını sağlar; beş görsel ise karides yıkama, süzme, frenk soğanı çiçeklerini doğrama, zencefil ve sarımsak kıyma ve sos hazırlama aşamaları için kullanılır. Bunları görsel veriler olarak kullanın; karakterleri, altyazıları, logoları, dış sesleri veya özgün düzenleri kopyalamayın. Birleşik görsel ayarlar: Ana malzeme, büyük karides veya ayıklanmış karides değil, doğal antenleri ve bacakları olan küçük, bütün kabuklu nehir karidesidir. Hedef vücut uzunluğu yaklaşık 1,5 cm, genişliği ise yaklaşık 0,2 cm'dir. Karides boyutu tutarlı kalmalıdır. Frenk soğanı çiçekleri, 3-4 cm'lik parçalar halinde kesilmiş, bazıları açılmamış tomurcuklara sahip parlak yeşil ince saplardır; geniş yapraklar oluşturmayın. Koyu gri taş tezgah, açık renkli meşe kesme tahtası ve şeffaf baharat kaseleri kullanın. Sadece şefin ellerini gösterin; yüz görünmesin. Sol üstten gelen yumuşak sıcak ışık, doğal renkler ve gerçekçi su damlacıkları kullanın. Aksiyonlar: 0-3. saniye: Karideslerin süzgeçte süzülmesi. 3-5. saniye: Frenk soğanı çiçeklerinin doğranması. 5-7. saniye: Zencefil ve sarımsağın kıyılması. 7-10. saniye: Sosun hazırlanması. Siyah çubuklar olmasın, ortam seslerini koruyun. Kaçınılması gerekenler: büyük karides, tutarsız boyutlar, deforme olmuş parmaklar, havada uçuşan malzemeler veya plastik dokular. 2. Bölüm: 10 saniye, 9:16 dikey reklam. Kullanım: Siyah vok tavaya yağ eklenmesi, aromatiklerin ilavesi, süzgeçten gelen çiğ karideslerin eklenmesi, karideslerin turuncu-kırmızıya dönmesi, sonunda frenk soğanlarının eklenmesi. Prosedürü gerçekçi tutun. Karides boyutu 1,5 cm kalmalıdır. Siyah karbon çelik vok tava, metal spatula, koyu gri tezgah, gri tuğla arka plan. Yumuşak ışık, doğal renkler, orta seviyede buhar. Aksiyonlar: 0-3. saniye: Yağ ve aromatiklerin cızırdaması. 3-7. saniye: Karideslerin eklenmesi ve turuncu-kırmızıya dönene kadar kavrulması. 7-10. saniye: Karidesleri harmanlayın, yeşil frenk soğanlarını ekleyin. Henüz tabağa almayın. Çıktı 10 saniye, 720p, 9:16. Kaçınılması gerekenler: deforme olmuş eller, havada uçuşan nesneler, abartılı alevler veya karides boyutu değişiklikleri. 3. Bölüm: 10 saniye, 9:16 dikey reklam. Kullanım: Karideslerin üzerine frenk soğanları, spatula ile karıştırma, yağlı bir parlaklıkla kavurma, kahverengi sosun dökülmesi. Karidesler turuncu-kırmızı ve küçük kalmalıdır. Frenk soğanları yeşil saplardır. Aksiyonlar: 0-2. saniye: Frenk soğanlarını karideslerle karıştırın. 2-6. saniye: Spatula ile karıştırma ve hafifçe harmanlama. 6-8. saniye: Açık kahverengi sosu sürekli bir akış halinde dökün. 8-10. saniye: Hafif nemli ve parlak bir görünüm için eşit şekilde karıştırın. Çıktı 10 saniye, 720p, 9:16. Kaçınılması gerekenler: ekstra malzemeler, deforme olmuş eller, devasa alevler veya aşırı sıvı. 4. Bölüm: 10 saniye, 9:16 dikey final. Kullanım: Son kavurma, beyaz tabağa servis, bitmiş yemeğin yakın çekimi. Karidesler 1,5 cm kalmalıdır. Frenk soğanları yeşil saplardır. Sıcak beyaz seramik tabak kullanın. Yumuşak sıcak ışık. Aksiyonlar: 0-2,5. saniye: Son nazik kavurma. 2,5-6. saniye: Vok tavayı eğerek malzemeleri tabağa düzgün bir yığın halinde kaydırın. 6-10. saniye: Eller çekilir, bitmiş Frenk Soğanlı Nehir Karidesi Kavurma yemeğine yavaş zoom yapın. Doğal dokular ve yağlı parlaklık. Çıktı 10 saniye, 720p, 9:16. Kaçınılması gerekenler: kaynak metni kopyalamak, deforme olmuş eller, havada uçuşan nesneler, devasa alevler veya ani ışık değişimleri.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098592507236167680/img/81KVnMF03e2GTdlW.jpg" width="600" alt="Üst Düzey Karides Kavurma Reklam Sahnesi">
+
+**[🎬 Videoyu izle →](https://x.com/7998l201/status/2098592573350944969)**
+
+**Yazar:** [Ryan](https://x.com/7998l201) | **Kaynak:** [Link](https://x.com/7998l201/status/2098592573350944969) | **Yayınlandı:** Sep 12, 2026
+
+---
+### Tepe Açılı Eskiz Defteri Çizim Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Bir eskiz defteri üzerinde canlanan, elle çizilmiş bir çöp adamı betimleyen; tepe açılı perspektif ve gerçekçi gölgelendirme geçişleri içeren yaratıcı bir video istemi.
+
+#### 📝 İstem
+
+```
+Tepe açılı bakış açısı, yukarıdan aşağıya, ahşap bir masa üzerindeki eskiz defterine doğrudan bakış. Esmer tenli bir el, siyah bir kalem tutuyor ve basit, gülen bir çöp adam çiziyor: yuvarlak kafa, oval gövde, ince uzuvlar. El geri çekiliyor. Çizim hafif bir hacim ve gölgelendirme kazanarak canlanıyor
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098358082875125763/img/WldD1N-m55wm05mI.jpg" width="600" alt="Tepe Açılı Eskiz Defteri Çizim Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/aibabbler/status/2098358118665072891)**
+
+**Yazar:** [Jo Aiba](https://x.com/aibabbler) | **Kaynak:** [Link](https://x.com/aibabbler/status/2098358118665072891) | **Yayınlandı:** Sep 11, 2026
+
+---
 ### Steampunk Viktoryen At Gücüyle Çalışan Tek Tekerlekli Araç
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2941,87 +3020,6 @@ Aydınlık ve modern bir ofiste yapay zeka panelini inceleyen bir işletme sahib
 **Yazar:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Kaynak:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Yayınlandı:** Aug 11, 2026
 
 ---
-### Kristalize Donmuş Su Damlası Dünyası
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için, bir su damlasının ağır çekimde kristal ormanlar ve buz uçurumlarıyla dolu karmaşık, donmuş bir manzaraya dönüşümünü görselleştiren detaylı bir video istemi.
-
-#### 📝 İstem
-
-```
-Kareyi tamamen saf siyah bir arka plan kaplıyor. Tek bir berrak su damlası yukarıdan ağır çekimde düşüyor, görünmez bir yüzeye çarparak mükemmel dairesel dalgalar ve kristal sıçramalarla dışarı doğru patlıyor. Kamera tamamen sabit kalıyor, akışkan dansa kilitleniyor. Ardışık damlalar eklendikçe, yayılan su incelikle yükselen buz uçurumlarına, çağlayan şelalelere ve donmuş kristal ormanlara dönüşüyor. Yumuşak turkuaz ve gümüş rengi ışık sıvının içinden sızarak tüm sahneyi ışıldayan, donmuş bir şelale krallığına çeviriyor. Son saniyede görüntü, tamamlanmış kristal dünyada mükemmel bir hareketsizlikle donuyor. Stil: soyut güzellik | akışkan hareket | kristal dönüşüm Kamera: sabit makro → yavaş ortaya çıkış Süre: 10 saniye Aydınlatma: soğuk kenar ışığı, yüksek netlik, ruhani ışıltı
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Kristalize Donmuş Su Damlası Dünyası">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2087219303926124787)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **Yayınlandı:** Aug 11, 2026
-
----
-### Gece Gökyüzünden Yıldız Koparan El İstemi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir elin gece gökyüzüne uzanıp parlayan bir yıldızı koparmasını konu alan, sürreal birinci şahıs bakış açılı bir görsel istemi.
-
-#### 📝 İstem
-
-```
-Birinci şahıs bakış açısı, derin bir gece gökyüzüne uzanan bir insan eli, karanlığın içinden parlayan tek bir yıldızı meyve koparır gibi nazikçe alıyor. Koyu lacivert gökyüzü, parıldayan yıldız ışığı, sürreal zorlamalı perspektif ölçeği,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Gece Gökyüzünden Yıldız Koparan El İstemi">
-
-**[🎬 Videoyu izle →](https://x.com/TheChuksAi/status/2087042640453738616)**
-
-**Yazar:** [ChuksAi](https://x.com/TheChuksAi) | **Kaynak:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **Yayınlandı:** Aug 11, 2026
-
----
-### Ember and the Firefly Storyboard Çekimi 1
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 'Ember and the Firefly' sinematik demosu için açılış çekimi; parlayan bir ateş böceği fark eden karakterin donup kaldığı geniş bir yakınlaşma (push-in) sahnesini içerir.
-
-#### 📝 İstem
-
-```
-EMBER AND THE FIREFLY STORYBOARD — 8 SANİYELİK ÇEKİM LİSTESİ
-
-ÇEKİM 1 | KIVILCIM (0:00–1:3 sn)
-Kamera: Sabit geniş açı, yavaş yakınlaşma (push-in).
-Eylem: Ember adımının ortasında donar, kulakları parlayan tek bir ateş böceğine kilitlenir.
-Ses: Orman sessizliği, parıltıyla birlikte hafif bir çan sesi.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Çekimi 1">
-
-**[🎬 Videoyu izle →](https://x.com/Gre8tDan/status/2086787909399572802)**
-
-**Yazar:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Kaynak:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Yayınlandı:** Aug 10, 2026
-
----
-### Zıplayan Çilekli Jöle Havuzu
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Doku ve fizik kurallarına vurgu yapan, zıplayan jöle çilekli, yarı saydam yakut kırmızısı bir çilekli jöle havuzunun son derece detaylı sinematik video istemi.
-
-#### 📝 İstem
-
-```
-Tamamı yarı saydam yakut kırmızısı çilekli jöleden yapılmış, kusursuz beyazdan açık pembeye geçişli bir arka plan üzerinde lüks bir yüzme havuzu. Aynı parlak jöleden şekillendirilmiş dev, gerçekçi bir çilek havuzun merkezinden yükseliyor ve yavaşça yukarı doğru zıplayıp tekrar yüzeye düşerek güzel, eş merkezli jöle dalgaları ve yumuşak sıçramalar yaratıyor. Küçük yarı saydam jöle damlacıkları havada süzülüyor ve stüdyo ışığını yakalıyor. Kamera, parlak jöle dokusunun makro yakın çekimiyle başlıyor, çilek yükselirken akıcı bir şekilde geri çekiliyor ve ardından çilek yere inerken yavaşça yaklaşıyor. Gerçekçi jelatin deformasyonu, titreme, esneme, yumuşak zıplama, sıvı benzeri yüzey dalgalanmaları, ikna edici yarı saydamlık ve yüzey altı saçılımı. Birinci sınıf sanat yönetmenliği ile yapılmış yemek fotoğrafçılığı, minimalist stüdyo kompozisyonu, büyüleyici ASMR estetiği, sinematik akıcı hareket, tek kesintisiz çekim, tam 10 saniye, metin yok, logo yok.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Zıplayan Çilekli Jöle Havuzu">
-
-**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2086771369673699476)**
-
-**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Yayınlandı:** Aug 10, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3074,6 +3072,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-12T08:22:53.627Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-12T15:01:02.591Z</sub>
 
 </div>

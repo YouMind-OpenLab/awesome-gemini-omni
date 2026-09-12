@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **260** |
+| 📝 Tổng số prompt | **264** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-12** |
 
@@ -56,6 +56,85 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Phim ngắn điện ảnh về người phụ nữ Nhật Bản
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một câu lệnh (prompt) tạo phim ngắn mang phong cách điện ảnh dài 10 giây về một phụ nữ Nhật Bản ở độ tuổi 20, tập trung vào việc duy trì tính nhất quán của nhân vật từ hình ảnh tham chiếu.
+
+#### 📝 Prompt
+
+```
+Một video dài 10 giây mang phong cách điện ảnh với nhân vật chính là một phụ nữ Nhật Bản ở độ tuổi 20. Duy trì các đặc điểm của nhân vật trong hình ảnh tham chiếu. Tóc bob đen cắt bằng, biểu cảm nhẹ nhàng và trầm tĩnh, mặc váy ren trắng.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202572279_9h5dya_HR_v4y0boAA3hhx.jpg" width="600" alt="Phim ngắn điện ảnh về người phụ nữ Nhật Bản">
+
+**[🎬 Xem video →](https://x.com/uniyume/status/2098664966631112989)**
+
+**Tác giả:** [かなまる](https://x.com/uniyume) | **Nguồn:** [Link](https://x.com/uniyume/status/2098664966631112989) | **Đã xuất bản:** Sep 12, 2026
+
+---
+### Quảng cáo truyền hình rượu vang sủi lê
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Một gợi ý (prompt) cho quảng cáo truyền hình dài 10 giây về một loại rượu vang sủi hư cấu, sử dụng bảng phân cảnh đa khung hình làm tài liệu tham khảo cho bố cục và sự nhất quán của nhân vật theo phong cách live-action đồng quê.
+
+#### 📝 Prompt
+
+```
+Một đoạn quảng cáo truyền hình dài 10 giây cho loại rượu vang sủi lê hư cấu "SUITO". Video live-action về một người phụ nữ trưởng thành với cảm giác thư thái, đồng quê và đầy hân hoan.
+
+[Hình ảnh tham khảo và Bố cục màn hình]
+Hình ảnh 9 khung hình đính kèm được sử dụng làm tài liệu tham khảo cho bố cục, nhân vật, sản phẩm và thế giới quan của từng cảnh quay. Hãy tái tạo nhân vật một cách trung thực.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202573360_g9xl2h_HR_nN-2agAEUAZy.jpg" width="600" alt="Quảng cáo truyền hình rượu vang sủi lê">
+
+**[🎬 Xem video →](https://x.com/uniyume/status/2098654920916521175)**
+
+**Tác giả:** [かなまる](https://x.com/uniyume) | **Nguồn:** [Link](https://x.com/uniyume/status/2098654920916521175) | **Đã xuất bản:** Sep 12, 2026
+
+---
+### Kịch bản quảng cáo món tôm xào cao cấp
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một câu lệnh tạo video chi tiết cho quảng cáo ẩm thực cao cấp, mô tả quy trình để ráo tôm sông, cắt hẹ và chuẩn bị nước sốt với ánh sáng điện ảnh cùng kết cấu tự nhiên.
+
+#### 📝 Prompt
+
+```
+Tạo video quảng cáo ẩm thực cao cấp dọc 9:16, thời lượng 10 giây bằng Gemini Omni 1.1 Flash. Kết hợp video tham chiếu và năm hình ảnh tham chiếu để nắm bắt hình dáng nguyên liệu, trình tự thao tác và nhịp điệu hành động. Sử dụng tài liệu tham khảo: Video cung cấp quy trình chuẩn bị hoàn chỉnh; năm hình ảnh được sử dụng cho các công đoạn rửa tôm, để ráo, cắt hoa hẹ, băm gừng tỏi và pha nước sốt. Sử dụng chúng làm dữ liệu hình ảnh thực tế, không sao chép nhân vật, phụ đề, logo, lời dẫn hoặc bố cục độc bản. Thiết lập hình ảnh thống nhất: Nguyên liệu chính là tôm sông nhỏ, nguyên vỏ, còn nguyên râu và chân tự nhiên, không dùng tôm sú lớn hoặc tôm đã bóc vỏ. Chiều dài thân tôm mục tiêu khoảng 1,5 cm và chiều rộng khoảng 0,2 cm. Kích thước tôm phải nhất quán. Hoa hẹ là những cọng mảnh màu xanh tươi, có một số nụ chưa nở, cắt thành đoạn 3-4 cm; không tạo ra lá rộng. Sử dụng mặt bàn đá màu xám đậm, thớt gỗ sồi sáng màu và bát đựng gia vị trong suốt. Chỉ hiển thị đôi bàn tay của đầu bếp; không lộ mặt. Ánh sáng ấm áp nhẹ từ phía trên bên trái, màu sắc tự nhiên và các giọt nước chân thực. Hành động: 0-3 giây: Để ráo tôm trong rổ. 3-5 giây: Cắt hoa hẹ. 5-7 giây: Băm gừng và tỏi. 7-10 giây: Chuẩn bị nước sốt. Không có thanh đen, giữ âm thanh môi trường. Tránh: tôm lớn, kích thước không đồng nhất, ngón tay biến dạng, nguyên liệu lơ lửng hoặc kết cấu nhựa. Phân đoạn 2: Quảng cáo dọc 9:16, 10 giây. Cách dùng: Cho dầu vào chảo đen, thêm gia vị thơm, cho tôm sống từ rổ vào, tôm chuyển sang màu cam đỏ, thêm hẹ vào cuối. Giữ quy trình thực tế. Kích thước tôm giữ nguyên 1,5 cm. Chảo thép carbon đen, xẻng kim loại, mặt bàn xám đậm, nền gạch xám. Ánh sáng dịu, màu sắc tự nhiên, hơi nước vừa phải. Hành động: 0-3 giây: Dầu và gia vị thơm xèo xèo. 3-7 giây: Thêm tôm và xào cho đến khi chuyển màu cam đỏ. 7-10 giây: Đảo tôm, thêm hẹ xanh. Chưa trình bày ra đĩa. Xuất video 10 giây, 720p, 9:16. Tránh: bàn tay biến dạng, vật thể lơ lửng, ngọn lửa quá lớn hoặc thay đổi kích thước tôm. Phân đoạn 3: Quảng cáo dọc 9:16, 10 giây. Cách dùng: Hẹ trên tôm, dùng xẻng trộn, xào với độ bóng của dầu, đổ nước sốt nâu. Tôm vẫn giữ màu cam đỏ và kích thước nhỏ. Hẹ là các cọng xanh. Hành động: 0-2 giây: Trộn hẹ vào tôm. 2-6 giây: Dùng xẻng trộn và đảo nhẹ. 6-8 giây: Đổ nước sốt màu nâu nhạt thành dòng liên tục. 8-10 giây: Trộn đều để tạo độ bóng ẩm mượt. Xuất video 10 giây, 720p, 9:16. Tránh: thêm nguyên liệu lạ, bàn tay biến dạng, ngọn lửa lớn hoặc quá nhiều chất lỏng. Phân đoạn 4: Kết thúc quảng cáo dọc 9:16, 10 giây. Cách dùng: Xào lần cuối, trình bày ra đĩa trắng, cận cảnh món ăn hoàn thiện. Tôm giữ nguyên 1,5 cm. Hẹ là các cọng xanh. Sử dụng đĩa gốm trắng ấm. Ánh sáng ấm dịu. Hành động: 0-2,5 giây: Xào nhẹ lần cuối. 2,5-6 giây: Nghiêng chảo để trượt nguyên liệu ra đĩa thành một khối gọn gàng. 6-10 giây: Bàn tay rút ra, zoom chậm vào món Tôm sông xào hoa hẹ đã hoàn thành. Kết cấu tự nhiên và độ bóng của dầu. Xuất video 10 giây, 720p, 9:16. Tránh: sao chép văn bản nguồn, bàn tay biến dạng, vật thể lơ lửng, ngọn lửa lớn hoặc thay đổi ánh sáng đột ngột.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098592507236167680/img/81KVnMF03e2GTdlW.jpg" width="600" alt="Kịch bản quảng cáo món tôm xào cao cấp">
+
+**[🎬 Xem video →](https://x.com/7998l201/status/2098592573350944969)**
+
+**Tác giả:** [Ryan](https://x.com/7998l201) | **Nguồn:** [Link](https://x.com/7998l201/status/2098592573350944969) | **Đã xuất bản:** Sep 12, 2026
+
+---
+### Hoạt hình vẽ phác thảo từ góc nhìn trên cao
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một gợi ý video sáng tạo mô tả hình vẽ người que được vẽ tay trở nên sống động trên sổ phác thảo, với góc quay từ trên xuống và các hiệu ứng chuyển đổi đổ bóng chân thực.
+
+#### 📝 Prompt
+
+```
+Góc nhìn từ trên cao (POV), nhìn thẳng xuống một cuốn sổ phác thảo đặt trên bàn gỗ. Một bàn tay da nâu cầm bút lông đen vẽ một hình người que mặt cười đơn giản: đầu tròn, thân hình bầu dục, tay chân mảnh khảnh. Bàn tay rút ra. Hình vẽ dần có thêm độ khối và đổ bóng tinh tế, trở nên sống động
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098358082875125763/img/WldD1N-m55wm05mI.jpg" width="600" alt="Hoạt hình vẽ phác thảo từ góc nhìn trên cao">
+
+**[🎬 Xem video →](https://x.com/aibabbler/status/2098358118665072891)**
+
+**Tác giả:** [Jo Aiba](https://x.com/aibabbler) | **Nguồn:** [Link](https://x.com/aibabbler/status/2098358118665072891) | **Đã xuất bản:** Sep 11, 2026
+
+---
 ### Xe một bánh chạy bằng ngựa phong cách Steampunk thời Victoria
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2913,87 +2992,6 @@ Một chủ doanh nghiệp đang xem xét bảng điều khiển AI trong một 
 **Tác giả:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Nguồn:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Đã xuất bản:** Aug 11, 2026
 
 ---
-### Thế giới giọt nước đóng băng pha lê
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt chi tiết dành cho Gemini Omni, mô phỏng quá trình một giọt nước biến đổi thành khung cảnh băng giá phức tạp với những cánh rừng pha lê và vách đá băng trong hiệu ứng chuyển động chậm.
-
-#### 📝 Prompt
-
-```
-Nền đen thuần khiết lấp đầy khung hình. Một giọt nước trong suốt rơi xuống ở chế độ chuyển động chậm từ phía trên, chạm vào một bề mặt vô hình và bắn tung ra ngoài thành những gợn sóng tròn hoàn hảo cùng các tia nước pha lê. Máy quay giữ nguyên vị trí, tập trung vào điệu nhảy của chất lỏng. Khi các giọt nước tiếp theo rơi xuống, dòng nước lan tỏa dần biến đổi thành những vách đá băng cao chót vót, các thác nước đổ xuống và những cánh rừng sương giá pha lê. Ánh sáng màu xanh ngọc và bạc dịu nhẹ xuyên qua chất lỏng, biến toàn bộ khung cảnh thành một vương quốc thác nước đóng băng rực rỡ. Giây cuối cùng dừng lại ở thế giới pha lê đã hoàn thiện, tĩnh lặng tuyệt đối. Phong cách: vẻ đẹp trừu tượng | chuyển động linh hoạt | biến đổi pha lê Máy quay: macro tĩnh → tiết lộ chậm Độ dài: 10 giây Ánh sáng: ánh sáng viền mát mẻ, độ rõ nét cao, ánh sáng huyền ảo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Thế giới giọt nước đóng băng pha lê">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2087219303926124787)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **Đã xuất bản:** Aug 11, 2026
-
----
-### Câu lệnh tạo ảnh bàn tay hái sao từ bầu trời đêm
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo ảnh theo góc nhìn thứ nhất đầy siêu thực về một bàn tay vươn lên bầu trời đêm để hái một ngôi sao đang tỏa sáng.
-
-#### 📝 Prompt
-
-```
-Góc nhìn thứ nhất, một bàn tay người vươn lên bầu trời đêm sâu thẳm, nhẹ nhàng hái một ngôi sao đang tỏa sáng từ bóng tối như đang hái một loại trái cây. Bầu trời xanh navy thẫm, ánh sao lấp lánh, tỷ lệ phối cảnh cưỡng bức đầy siêu thực,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Câu lệnh tạo ảnh bàn tay hái sao từ bầu trời đêm">
-
-**[🎬 Xem video →](https://x.com/TheChuksAi/status/2087042640453738616)**
-
-**Tác giả:** [ChuksAi](https://x.com/TheChuksAi) | **Nguồn:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **Đã xuất bản:** Aug 11, 2026
-
----
-### Cảnh quay bảng phân cảnh Ember and the Firefly 1
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Cảnh mở đầu cho bản demo điện ảnh 'Ember and the Firefly', với góc quay rộng đẩy dần vào nhân vật đang khựng lại khi phát hiện ra một chú đom đóm phát sáng.
-
-#### 📝 Prompt
-
-```
-BẢNG PHÂN CẢNH EMBER AND THE FIREFLY — DANH SÁCH CẢNH QUAY 8 GIÂY
-
-CẢNH 1 | TIA SÁNG (0:00–1:3s)
-Máy quay: Góc rộng tĩnh, đẩy dần vào.
-Hành động: Ember khựng lại giữa bước đi, đôi tai hướng về phía một chú đom đóm đang phát sáng.
-Âm thanh: Tiếng rừng tĩnh lặng, tiếng chuông gió nhẹ nhàng khi đom đóm phát sáng.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Cảnh quay bảng phân cảnh Ember and the Firefly 1">
-
-**[🎬 Xem video →](https://x.com/Gre8tDan/status/2086787909399572802)**
-
-**Tác giả:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Nguồn:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Đã xuất bản:** Aug 10, 2026
-
----
-### Hồ bơi thạch dâu tây nảy
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh tạo video điện ảnh chi tiết cao về hồ bơi thạch dâu tây màu đỏ ruby trong suốt với quả dâu tây bằng thạch đang nảy, nhấn mạnh vào kết cấu và vật lý.
-
-#### 📝 Prompt
-
-```
-Một hồ bơi sang trọng được làm hoàn toàn từ thạch dâu tây màu đỏ ruby trong suốt trên nền gradient chuyển từ trắng sang hồng nhạt. Một quả dâu tây khổng lồ chân thực được tạo hình từ cùng loại thạch bóng bẩy trồi lên từ giữa hồ bơi và từ từ nảy lên trên, sau đó rơi trở lại bề mặt, tạo ra những gợn sóng thạch đồng tâm tuyệt đẹp và những tia bắn nhẹ nhàng. Những giọt thạch nhỏ trong suốt bay trong không trung và bắt trọn ánh sáng studio. Máy quay bắt đầu bằng một cảnh quay cận cảnh macro về kết cấu thạch bóng bẩy, lùi lại mượt mà khi quả dâu tây trồi lên, sau đó tiến nhẹ vào khi nó tiếp đất. Sự biến dạng của gelatin chân thực, độ rung, độ co giãn, độ nảy mềm mại, những gợn sóng bề mặt giống như chất lỏng, độ trong suốt và tán xạ dưới bề mặt đầy thuyết phục. Nhiếp ảnh ẩm thực cao cấp được chỉ đạo nghệ thuật, bố cục studio tối giản, thẩm mỹ ASMR đầy mê hoặc, chuyển động điện ảnh mượt mà, cảnh quay liên tục, chính xác 10 giây, không có văn bản, không có logo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Hồ bơi thạch dâu tây nảy">
-
-**[🎬 Xem video →](https://x.com/MrDasOnX/status/2086771369673699476)**
-
-**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Đã xuất bản:** Aug 10, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3046,6 +3044,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-12T08:22:41.664Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-12T15:00:46.800Z</sub>
 
 </div>

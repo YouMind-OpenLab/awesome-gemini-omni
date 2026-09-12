@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **260** |
+| 📝 Total Prompts | **264** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-12** |
 
@@ -56,6 +56,85 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Cinematic Japanese Woman Short Film
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A cinematic short film prompt for generating a 10-second video of a Japanese woman in her 20s, focusing on maintaining character consistency from a reference image.
+
+#### 📝 Prompt
+
+```
+A 10-second cinematic film-like video featuring a Japanese woman in her 20s as the protagonist. Maintain the features of the person in the reference image. Black blunt bob hair, a soft and quiet expression, and a white lace dress.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202572279_9h5dya_HR_v4y0boAA3hhx.jpg" width="600" alt="Cinematic Japanese Woman Short Film">
+
+**[🎬 Watch Video →](https://x.com/uniyume/status/2098664966631112989)**
+
+**Author:** [かなまる](https://x.com/uniyume) | **Source:** [Link](https://x.com/uniyume/status/2098664966631112989) | **Published:** Sep 12, 2026
+
+---
+### Pear Sparkling Wine TV Commercial
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A prompt for a 10-second TV commercial for a fictional sparkling wine, utilizing a multi-frame storyboard as a reference for composition and character consistency in a pastoral live-action style.
+
+#### 📝 Prompt
+
+```
+A 10-second TV commercial for the fictional pear sparkling wine "SUITO." A live-action video of an adult woman with a chill, pastoral, and euphoric feel.
+
+[Reference Image and Screen Composition]
+The attached 9-frame image is used as a reference for the composition, characters, product, and worldview of each scene. Faithfully reproduce the person.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202573360_g9xl2h_HR_nN-2agAEUAZy.jpg" width="600" alt="Pear Sparkling Wine TV Commercial">
+
+**[🎬 Watch Video →](https://x.com/uniyume/status/2098654920916521175)**
+
+**Author:** [かなまる](https://x.com/uniyume) | **Source:** [Link](https://x.com/uniyume/status/2098654920916521175) | **Published:** Sep 12, 2026
+
+---
+### High-End Stir-Fried Shrimp Ad Scene
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed video generation prompt for a high-end gourmet advertisement featuring the process of draining river shrimp, cutting chives, and preparing sauces with cinematic lighting and natural textures.
+
+#### 📝 Prompt
+
+```
+Generate a 10-second, 9:16 vertical high-end food advertisement using Gemini Omni 1.1 Flash. Combine the reference video and five reference images to understand the ingredients' form, operation sequence, and action rhythm. Reference material usage: The video provides the complete preparation process; the five images are used for shrimp washing, draining, cutting chive flowers, mincing ginger and garlic, and sauce preparation. Use them as visual facts, without copying characters, subtitles, logos, narrations, or unique layouts. Unified visual settings: The main ingredient is small, whole shell-on river shrimp with natural antennae and legs, not large prawns or peeled shrimp. Target body length is about 1.5 cm and width is about 0.2 cm. Shrimp size must remain consistent. Chive flowers are bright green slender stems with some unopened buds, cut into 3-4 cm segments; do not generate wide leaves. Use a dark gray stone countertop, light oak cutting board, and transparent seasoning bowls. Only show the chef's hands; no face. Soft warm light from top left, natural colors, and realistic water droplets. Actions: 0-3s: Draining shrimp in a strainer. 3-5s: Cutting chive flowers. 5-7s: Mincing ginger and garlic. 7-10s: Preparing sauce. No black bars, keep environmental sounds. Avoid: large shrimp, inconsistent sizes, deformed fingers, floating ingredients, or plastic textures. Segment 2: 10s, 9:16 vertical ad. Usage: Oil into black wok, aromatics added, raw shrimp from strainer added, shrimp turning orange-red, chives added at the end. Keep procedure realistic. Shrimp size remains 1.5cm. Black carbon steel wok, metal spatula, dark gray countertop, gray brick background. Soft light, natural colors, moderate steam. Actions: 0-3s: Oil and aromatics sizzle. 3-7s: Shrimp added and stir-fried until turning orange-red. 7-10s: Toss shrimp, add green chives. No plating yet. Output 10s, 720p, 9:16. Avoid: deformed hands, floating items, exaggerated flames, or shrimp size changes. Segment 3: 10s, 9:16 vertical ad. Usage: Chives on shrimp, spatula mixing, stir-frying with oily gloss, pouring brown sauce. Shrimp remains orange-red and small. Chives are green stems. Actions: 0-2s: Mix chives into shrimp. 2-6s: Spatula mixing and a low-toss. 6-8s: Pour light brown sauce in a continuous stream. 8-10s: Mix evenly for a thin moist gloss. Output 10s, 720p, 9:16. Avoid: extra ingredients, deformed hands, huge flames, or excessive liquid. Segment 4: 10s, 9:16 vertical finale. Usage: Final stir-fry, plating onto a white plate, close-up of finished dish. Shrimp remains 1.5cm. Chives are green stems. Use a warm white ceramic plate. Soft warm light. Actions: 0-2.5s: Final gentle stir-fry. 2.5-6s: Tilt wok to slide ingredients onto plate into a neat mound. 6-10s: Hands exit, slow zoom into the finished Stir-fried River Shrimp with Chive Flowers. Natural textures and oily gloss. Output 10s, 720p, 9:16. Avoid: copying source text, deformed hands, floating items, huge flames, or sudden light changes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098592507236167680/img/81KVnMF03e2GTdlW.jpg" width="600" alt="High-End Stir-Fried Shrimp Ad Scene">
+
+**[🎬 Watch Video →](https://x.com/7998l201/status/2098592573350944969)**
+
+**Author:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2098592573350944969) | **Published:** Sep 12, 2026
+
+---
+### Overhead Sketchbook Drawing Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A creative video prompt that describes a hand-drawn stick figure coming to life on a sketchbook, featuring top-down perspective and realistic shading transitions.
+
+#### 📝 Prompt
+
+```
+Overhead POV, top-down, looking straight down at a sketchbook on a wooden desk. A brown-skinned hand holds a black marker and draws a simple smiley stick figure: round head, oval body, thin limbs. Hand withdraws. The drawing gains subtle volume and shading, coming alive
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098358082875125763/img/WldD1N-m55wm05mI.jpg" width="600" alt="Overhead Sketchbook Drawing Animation">
+
+**[🎬 Watch Video →](https://x.com/aibabbler/status/2098358118665072891)**
+
+**Author:** [Jo Aiba](https://x.com/aibabbler) | **Source:** [Link](https://x.com/aibabbler/status/2098358118665072891) | **Published:** Sep 11, 2026
+
+---
 ### Steampunk Monowheel Treadmill Ride
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2863,87 +2942,6 @@ A business owner reviewing an AI dashboard in a bright modern office. Medium sho
 **Author:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Source:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Published:** Aug 11, 2026
 
 ---
-### Crystalline Frozen Water Droplet World
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed video prompt for Gemini Omni that visualizes a water droplet transforming into a complex frozen landscape with crystalline forests and ice cliffs in slow motion.
-
-#### 📝 Prompt
-
-```
-A pure black background fills the frame. A single clear water droplet falls in slow motion from above, striking an invisible surface and exploding outward in perfect circular ripples and crystalline splashes. The camera remains completely static, locked on the fluid dance. As successive droplets join, the spreading water subtly reshapes into towering ice cliffs, cascading waterfalls, and crystalline forests of frost. Soft turquoise and silver light seeps through the liquid, turning the entire scene into a luminous frozen waterfall kingdom. The final second freezes on the completed crystalline world, perfectly still. Style: abstract beauty | fluid motion | crystalline transformation Camera: static macro → slow reveal Length: 10 seconds Lighting: cool rim light, high clarity, ethereal glow
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Crystalline Frozen Water Droplet World">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2087219303926124787)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **Published:** Aug 11, 2026
-
----
-### Hand Plucking Star from Night Sky Prompt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal first-person perspective image prompt of a hand reaching into the night sky to pick a glowing star.
-
-#### 📝 Prompt
-
-```
-First-person view, a human hand reaching up into a deep night sky, delicately plucking a single glowing star from the darkness like picking a piece of fruit. Deep navy sky, twinkling starlight, surreal forced-perspective scale,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Hand Plucking Star from Night Sky Prompt">
-
-**[🎬 Watch Video →](https://x.com/TheChuksAi/status/2087042640453738616)**
-
-**Author:** [ChuksAi](https://x.com/TheChuksAi) | **Source:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **Published:** Aug 11, 2026
-
----
-### Ember and the Firefly Storyboard Shot 1
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> The opening shot for the 'Ember and the Firefly' cinematic demo, featuring a wide push-in on a character freezing as they spot a glowing firefly.
-
-#### 📝 Prompt
-
-```
-EMBER AND THE FIREFLY STORYBOARD — 8-SEC SHOT LIST
-
-SHOT 1 | THE SPARK (0:00–1:3s)
-Cam: Static wide, slow push-in.
-Action: Ember freezes mid-step, ears lock toward a single glowing firefly.
-Sound: Forest hush, soft chime on the glow.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Shot 1">
-
-**[🎬 Watch Video →](https://x.com/Gre8tDan/status/2086787909399572802)**
-
-**Author:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Source:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Published:** Aug 10, 2026
-
----
-### Bouncing Strawberry Jello Pool
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A highly detailed cinematic video prompt of a translucent ruby-red strawberry jello pool with a bouncing jello strawberry, emphasizing textures and physics.
-
-#### 📝 Prompt
-
-```
-A luxurious swimming pool made entirely of translucent ruby-red strawberry jello on a seamless white-to-pale-pink gradient background. A giant realistic strawberry sculpted from the same glossy jello rises from the center of the pool and slowly bounces upward, then drops back onto the surface, creating beautiful concentric jello waves and soft splashes. Tiny translucent jello droplets stretch through the air and catch the studio light. The camera starts with a macro close-up of the glossy jello texture, smoothly pulls back as the strawberry rises, then gently pushes in as it lands. Realistic gelatin deformation, wobbling, stretching, soft bouncing, liquid-like surface ripples, convincing translucency and subsurface scattering. Premium art-directed food photography, minimalist studio composition, mesmerizing ASMR aesthetic, cinematic smooth motion, single continuous shot, exactly 10 seconds, no text, no logos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Bouncing Strawberry Jello Pool">
-
-**[🎬 Watch Video →](https://x.com/MrDasOnX/status/2086771369673699476)**
-
-**Author:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Published:** Aug 10, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -2996,6 +2994,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T08:22:31.388Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-12T15:00:39.359Z</sub>
 
 </div>

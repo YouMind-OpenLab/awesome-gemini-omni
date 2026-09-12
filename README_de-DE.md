@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **260** |
+| 📝 Gesamtanzahl Prompts | **264** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-12** |
 
@@ -56,6 +56,85 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Filmischer Kurzfilm einer japanischen Frau
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein filmischer Kurzfilm-Prompt zur Erstellung eines 10-sekündigen Videos einer japanischen Frau in ihren 20ern, mit Fokus auf die Wahrung der Charakterkonsistenz anhand eines Referenzbildes.
+
+#### 📝 Prompt
+
+```
+Ein 10-sekündiges, filmisches Video mit einer japanischen Frau in ihren 20ern als Protagonistin. Behalten Sie die Gesichtszüge der Person aus dem Referenzbild bei. Schwarzer, stumpfer Bob-Haarschnitt, ein sanfter und ruhiger Ausdruck sowie ein weißes Spitzenkleid.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202572279_9h5dya_HR_v4y0boAA3hhx.jpg" width="600" alt="Filmischer Kurzfilm einer japanischen Frau">
+
+**[🎬 Video ansehen →](https://x.com/uniyume/status/2098664966631112989)**
+
+**Autor:** [かなまる](https://x.com/uniyume) | **Quelle:** [Link](https://x.com/uniyume/status/2098664966631112989) | **Veröffentlicht:** Sep 12, 2026
+
+---
+### TV-Werbespot für Birnenschaumwein
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Prompt für einen 10-sekündigen TV-Werbespot für einen fiktiven Schaumwein, der ein Multi-Frame-Storyboard als Referenz für die Bildkomposition und die Konsistenz der Charaktere in einem pastoralen Live-Action-Stil verwendet.
+
+#### 📝 Prompt
+
+```
+Ein 10-sekündiger TV-Werbespot für den fiktiven Birnenschaumwein „SUITO“. Ein Live-Action-Video einer erwachsenen Frau mit einer entspannten, pastoralen und euphorischen Ausstrahlung.
+
+[Referenzbild und Bildkomposition]
+Das beigefügte 9-Frame-Bild dient als Referenz für die Komposition, die Charaktere, das Produkt und die Weltanschauung jeder Szene. Die Person ist detailgetreu wiederzugeben.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202573360_g9xl2h_HR_nN-2agAEUAZy.jpg" width="600" alt="TV-Werbespot für Birnenschaumwein">
+
+**[🎬 Video ansehen →](https://x.com/uniyume/status/2098654920916521175)**
+
+**Autor:** [かなまる](https://x.com/uniyume) | **Quelle:** [Link](https://x.com/uniyume/status/2098654920916521175) | **Veröffentlicht:** Sep 12, 2026
+
+---
+### High-End Werbespot für gebratene Garnelen
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter Video-Generierungs-Prompt für eine hochwertige Gourmet-Werbung, die den Prozess des Abtropfens von Flussgarnelen, das Schneiden von Schnittlauch und die Zubereitung von Saucen mit kinoreifer Beleuchtung und natürlichen Texturen zeigt.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 10-sekündiges, vertikales 9:16 High-End-Food-Werbevideo mit Gemini Omni 1.1 Flash. Kombiniere das Referenzvideo und fünf Referenzbilder, um die Form der Zutaten, die Reihenfolge der Arbeitsschritte und den Aktionsrhythmus zu verstehen. Verwendung des Referenzmaterials: Das Video liefert den vollständigen Zubereitungsprozess; die fünf Bilder dienen als visuelle Fakten für das Waschen und Abtropfen der Garnelen, das Schneiden der Schnittlauchblüten, das Hacken von Ingwer und Knoblauch sowie die Saucenzubereitung. Verwende sie als visuelle Vorlage, ohne Zeichen, Untertitel, Logos, Erzählungen oder einzigartige Layouts zu kopieren. Einheitliche visuelle Einstellungen: Die Hauptzutat sind kleine, ganze Flussgarnelen mit Schale, natürlichen Fühlern und Beinen, keine großen Garnelen oder geschälte Exemplare. Die angestrebte Körperlänge beträgt etwa 1,5 cm, die Breite etwa 0,2 cm. Die Garnelengröße muss konsistent bleiben. Schnittlauchblüten sind hellgrüne, schlanke Stängel mit einigen ungeöffneten Knospen, geschnitten in 3-4 cm lange Stücke; keine breiten Blätter generieren. Verwende eine dunkelgraue Steinarbeitsplatte, ein helles Eichenschneidebrett und transparente Gewürzschalen. Zeige nur die Hände des Kochs; kein Gesicht. Weiches, warmes Licht von oben links, natürliche Farben und realistische Wassertropfen. Aktionen: 0-3s: Garnelen im Sieb abtropfen lassen. 3-5s: Schnittlauchblüten schneiden. 5-7s: Ingwer und Knoblauch hacken. 7-10s: Sauce zubereiten. Keine schwarzen Balken, Umgebungsgeräusche beibehalten. Vermeide: große Garnelen, inkonsistente Größen, verformte Finger, schwebende Zutaten oder plastische Texturen. Segment 2: 10s, 9:16 vertikale Werbung. Verwendung: Öl in den schwarzen Wok, Gewürze hinzufügen, rohe Garnelen aus dem Sieb hinzugeben, Garnelen verfärben sich orange-rot, Schnittlauch am Ende hinzufügen. Halte den Ablauf realistisch. Garnelengröße bleibt 1,5 cm. Schwarzer Karbonstahl-Wok, Metallpfannenwender, dunkelgraue Arbeitsplatte, grauer Ziegelhintergrund. Weiches Licht, natürliche Farben, mäßiger Dampf. Aktionen: 0-3s: Öl und Gewürze brutzeln. 3-7s: Garnelen hinzufügen und unter Rühren braten, bis sie orange-rot werden. 7-10s: Garnelen schwenken, grünen Schnittlauch hinzufügen. Noch nicht anrichten. Ausgabe 10s, 720p, 9:16. Vermeide: verformte Hände, schwebende Objekte, übertriebene Flammen oder Größenänderungen der Garnelen. Segment 3: 10s, 9:16 vertikale Werbung. Verwendung: Schnittlauch zu den Garnelen geben, mit dem Pfannenwender mischen, unter Rühren braten mit öligem Glanz, braune Sauce eingießen. Garnelen bleiben orange-rot und klein. Schnittlauch sind grüne Stängel. Aktionen: 0-2s: Schnittlauch unter die Garnelen mischen. 2-6s: Mit dem Pfannenwender mischen und leicht schwenken. 6-8s: Helle braune Sauce in einem kontinuierlichen Strahl eingießen. 8-10s: Gleichmäßig mischen für einen dünnen, feuchten Glanz. Ausgabe 10s, 720p, 9:16. Vermeide: zusätzliche Zutaten, verformte Hände, riesige Flammen oder übermäßige Flüssigkeit. Segment 4: 10s, 9:16 vertikales Finale. Verwendung: Letztes Anbraten, Anrichten auf einem weißen Teller, Nahaufnahme des fertigen Gerichts. Garnelen bleiben 1,5 cm. Schnittlauch sind grüne Stängel. Verwende einen warmweißen Keramikteller. Weiches, warmes Licht. Aktionen: 0-2,5s: Letztes sanftes Anbraten. 2,5-6s: Wok neigen, um die Zutaten auf den Teller zu einem ordentlichen Häufchen gleiten zu lassen. 6-10s: Hände gehen aus dem Bild, langsamer Zoom auf die fertigen gebratenen Flussgarnelen mit Schnittlauchblüten. Natürliche Texturen und öliger Glanz. Ausgabe 10s, 720p, 9:16. Vermeide: Kopieren von Quelltext, verformte Hände, schwebende Objekte, riesige Flammen oder plötzliche Lichtveränderungen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098592507236167680/img/81KVnMF03e2GTdlW.jpg" width="600" alt="High-End Werbespot für gebratene Garnelen">
+
+**[🎬 Video ansehen →](https://x.com/7998l201/status/2098592573350944969)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Quelle:** [Link](https://x.com/7998l201/status/2098592573350944969) | **Veröffentlicht:** Sep 12, 2026
+
+---
+### Overhead-Skizzenbuch-Zeichenanimation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein kreativer Video-Prompt, der eine handgezeichnete Strichmännchen-Figur beschreibt, die in einem Skizzenbuch zum Leben erwacht, inklusive Top-Down-Perspektive und realistischen Schattierungsübergängen.
+
+#### 📝 Prompt
+
+```
+Overhead-POV, Top-Down-Perspektive, direkter Blick von oben auf ein Skizzenbuch auf einem Holzschreibtisch. Eine braunhäutige Hand hält einen schwarzen Marker und zeichnet ein einfaches Strichmännchen mit einem Smiley-Gesicht: runder Kopf, ovaler Körper, dünne Gliedmaßen. Die Hand zieht sich zurück. Die Zeichnung gewinnt subtil an Volumen und Schattierung und erwacht zum Leben.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098358082875125763/img/WldD1N-m55wm05mI.jpg" width="600" alt="Overhead-Skizzenbuch-Zeichenanimation">
+
+**[🎬 Video ansehen →](https://x.com/aibabbler/status/2098358118665072891)**
+
+**Autor:** [Jo Aiba](https://x.com/aibabbler) | **Quelle:** [Link](https://x.com/aibabbler/status/2098358118665072891) | **Veröffentlicht:** Sep 11, 2026
+
+---
 ### Steampunk-Monowheel im viktorianischen Stil mit Pferdeantrieb
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2941,87 +3020,6 @@ Ein Geschäftsinhaber überprüft ein KI-Dashboard in einem hellen, modernen Bü
 **Autor:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Quelle:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Veröffentlicht:** Aug 11, 2026
 
 ---
-### Kristalline Welt aus gefrorenen Wassertropfen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Video-Prompt für Gemini Omni, der visualisiert, wie sich ein Wassertropfen in Zeitlupe in eine komplexe, gefrorene Landschaft mit kristallinen Wäldern und Eisklippen verwandelt.
-
-#### 📝 Prompt
-
-```
-Ein reiner schwarzer Hintergrund füllt das Bild. Ein einzelner, klarer Wassertropfen fällt in Zeitlupe von oben herab, trifft auf eine unsichtbare Oberfläche und explodiert in perfekten kreisförmigen Wellen und kristallinen Spritzern nach außen. Die Kamera bleibt völlig statisch und fixiert auf den flüssigen Tanz. Während weitere Tropfen hinzukommen, formt sich das ausbreitende Wasser subtil zu hoch aufragenden Eisklippen, kaskadierenden Wasserfällen und kristallinen Frostwäldern. Sanftes türkisfarbenes und silbernes Licht dringt durch die Flüssigkeit und verwandelt die gesamte Szene in ein leuchtendes, gefrorenes Wasserfall-Königreich. Die letzte Sekunde friert die vollendete kristalline Welt in perfekter Stille ein. Stil: abstrakte Schönheit | flüssige Bewegung | kristalline Transformation Kamera: statisches Makro → langsame Enthüllung Länge: 10 Sekunden Beleuchtung: kühles Kantenlicht, hohe Klarheit, ätherisches Leuchten
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Kristalline Welt aus gefrorenen Wassertropfen">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2087219303926124787)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **Veröffentlicht:** Aug 11, 2026
-
----
-### Prompt: Hand pflückt Stern vom Nachthimmel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer Bild-Prompt aus der Egoperspektive, bei dem eine Hand in den Nachthimmel greift, um einen leuchtenden Stern zu pflücken.
-
-#### 📝 Prompt
-
-```
-Egoperspektive, eine menschliche Hand greift in einen tiefen Nachthimmel und pflückt behutsam einen einzelnen leuchtenden Stern aus der Dunkelheit, als würde man eine Frucht ernten. Tiefblauer Himmel, funkelndes Sternenlicht, surreale erzwungene Perspektive,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Prompt: Hand pflückt Stern vom Nachthimmel">
-
-**[🎬 Video ansehen →](https://x.com/TheChuksAi/status/2087042640453738616)**
-
-**Autor:** [ChuksAi](https://x.com/TheChuksAi) | **Quelle:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **Veröffentlicht:** Aug 11, 2026
-
----
-### Ember and the Firefly Storyboard Einstellung 1
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Die Eröffnungseinstellung für die „Ember and the Firefly“-Demo, mit einem weiten Push-in auf einen Charakter, der erstarrt, als er ein leuchtendes Glühwürmchen entdeckt.
-
-#### 📝 Prompt
-
-```
-EMBER AND THE FIREFLY STORYBOARD — 8-SEKUNDEN-SHOTLISTE
-
-EINSTELLUNG 1 | DER FUNKE (0:00–1:3s)
-Kamera: Statische Totale, langsamer Push-in.
-Handlung: Ember erstarrt mitten im Schritt, die Ohren richten sich auf ein einzelnes leuchtendes Glühwürmchen aus.
-Ton: Stille im Wald, sanftes Klingen beim Aufleuchten.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Ember and the Firefly Storyboard Einstellung 1">
-
-**[🎬 Video ansehen →](https://x.com/Gre8tDan/status/2086787909399572802)**
-
-**Autor:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Quelle:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Veröffentlicht:** Aug 10, 2026
-
----
-### Hüpfender Erdbeer-Götterspeise-Pool
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein hochdetaillierter, kinoreifer Video-Prompt eines durchscheinenden, rubinroten Erdbeer-Götterspeise-Pools mit einer hüpfenden Götterspeise-Erdbeere, der Texturen und physikalische Eigenschaften betont.
-
-#### 📝 Prompt
-
-```
-Ein luxuriöser Swimmingpool, der vollständig aus durchscheinender, rubinroter Erdbeer-Götterspeise besteht, vor einem nahtlosen Hintergrund mit einem Farbverlauf von Weiß zu zartem Rosa. Eine riesige, realistische Erdbeere, geformt aus derselben glänzenden Götterspeise, erhebt sich aus der Mitte des Pools, hüpft langsam nach oben und fällt dann zurück auf die Oberfläche, wobei sie wunderschöne konzentrische Wellen und sanfte Spritzer erzeugt. Winzige, durchscheinende Götterspeise-Tröpfchen fliegen durch die Luft und fangen das Studiolicht ein. Die Kamera beginnt mit einer Makro-Nahaufnahme der glänzenden Götterspeise-Textur, zoomt sanft heraus, während die Erdbeere aufsteigt, und fährt dann behutsam hinein, während sie landet. Realistische Gelatine-Verformung, Wackeln, Dehnen, sanftes Hüpfen, flüssigkeitsähnliche Oberflächenwellen, überzeugende Transparenz und Subsurface Scattering. Erstklassige, künstlerisch gestaltete Food-Fotografie, minimalistische Studio-Komposition, faszinierende ASMR-Ästhetik, kinoreife, flüssige Bewegungen, eine einzige durchgehende Aufnahme, exakt 10 Sekunden, kein Text, keine Logos.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Hüpfender Erdbeer-Götterspeise-Pool">
-
-**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2086771369673699476)**
-
-**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Veröffentlicht:** Aug 10, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3074,6 +3072,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-12T08:22:47.122Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-12T15:00:55.898Z</sub>
 
 </div>

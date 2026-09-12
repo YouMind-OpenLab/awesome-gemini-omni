@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **260** |
+| 📝 Totale prompt | **264** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-09-12** |
 
@@ -56,6 +56,85 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Cortometraggio cinematografico con donna giapponese
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt per cortometraggi cinematografici per generare un video di 10 secondi di una donna giapponese ventenne, concentrandosi sul mantenimento della coerenza del personaggio a partire da un'immagine di riferimento.
+
+#### 📝 Prompt
+
+```
+Un video cinematografico di 10 secondi con protagonista una donna giapponese ventenne. Mantieni i tratti della persona presente nell'immagine di riferimento. Caschetto nero pari, espressione dolce e tranquilla, abito in pizzo bianco.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202572279_9h5dya_HR_v4y0boAA3hhx.jpg" width="600" alt="Cortometraggio cinematografico con donna giapponese">
+
+**[🎬 Guarda il video →](https://x.com/uniyume/status/2098664966631112989)**
+
+**Autore:** [かなまる](https://x.com/uniyume) | **Fonte:** [Link](https://x.com/uniyume/status/2098664966631112989) | **Pubblicato:** Sep 12, 2026
+
+---
+### Spot TV per spumante alla pera
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt per uno spot TV da 10 secondi per uno spumante fittizio, che utilizza uno storyboard multi-frame come riferimento per la composizione e la coerenza dei personaggi in uno stile live-action pastorale.
+
+#### 📝 Prompt
+
+```
+Uno spot TV da 10 secondi per lo spumante alla pera fittizio "SUITO". Un video live-action con una donna adulta, caratterizzato da un'atmosfera rilassata, pastorale ed euforica.
+
+[Immagine di riferimento e composizione dello schermo]
+L'immagine a 9 fotogrammi allegata viene utilizzata come riferimento per la composizione, i personaggi, il prodotto e l'ambientazione di ogni scena. Riproduci fedelmente la persona.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789202573360_g9xl2h_HR_nN-2agAEUAZy.jpg" width="600" alt="Spot TV per spumante alla pera">
+
+**[🎬 Guarda il video →](https://x.com/uniyume/status/2098654920916521175)**
+
+**Autore:** [かなまる](https://x.com/uniyume) | **Fonte:** [Link](https://x.com/uniyume/status/2098654920916521175) | **Pubblicato:** Sep 12, 2026
+
+---
+### Scena pubblicitaria di alta gamma per gamberi saltati in padella
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt dettagliato per la generazione di video per una pubblicità gastronomica di alta gamma, che mostra il processo di sgocciolatura dei gamberi di fiume, il taglio dell'erba cipollina e la preparazione delle salse con illuminazione cinematografica e texture naturali.
+
+#### 📝 Prompt
+
+```
+Genera una pubblicità alimentare di alta gamma in formato verticale 9:16 della durata di 10 secondi utilizzando Gemini Omni 1.1 Flash. Combina il video di riferimento e le cinque immagini di riferimento per comprendere la forma degli ingredienti, la sequenza operativa e il ritmo dell'azione. Utilizzo del materiale di riferimento: il video fornisce il processo di preparazione completo; le cinque immagini vengono utilizzate per il lavaggio dei gamberi, la sgocciolatura, il taglio dei fiori di erba cipollina, il trito di zenzero e aglio e la preparazione della salsa. Usale come riferimenti visivi, senza copiare caratteri, sottotitoli, loghi, narrazioni o layout unici. Impostazioni visive unificate: l'ingrediente principale è costituito da piccoli gamberi di fiume interi con guscio, con antenne e zampe naturali, non gamberoni o gamberi sgusciati. La lunghezza corporea target è di circa 1,5 cm e la larghezza di circa 0,2 cm. Le dimensioni dei gamberi devono rimanere coerenti. I fiori di erba cipollina sono steli sottili di colore verde brillante con alcuni boccioli non ancora aperti, tagliati in segmenti di 3-4 cm; non generare foglie larghe. Utilizza un piano di lavoro in pietra grigio scuro, un tagliere in rovere chiaro e ciotole trasparenti per i condimenti. Mostra solo le mani dello chef; nessun volto. Luce calda e soffusa proveniente dall'alto a sinistra, colori naturali e goccioline d'acqua realistiche. Azioni: 0-3s: Sgocciolatura dei gamberi in uno scolapasta. 3-5s: Taglio dei fiori di erba cipollina. 5-7s: Tritare zenzero e aglio. 7-10s: Preparazione della salsa. Niente barre nere, mantieni i suoni ambientali. Evita: gamberi grandi, dimensioni incoerenti, dita deformate, ingredienti fluttuanti o texture plastiche. Segmento 2: 10s, pubblicità verticale 9:16. Utilizzo: Olio nel wok nero, aggiunta degli aromi, aggiunta dei gamberi crudi dallo scolapasta, i gamberi diventano rosso-arancio, aggiunta dell'erba cipollina alla fine. Mantieni la procedura realistica. La dimensione dei gamberi rimane di 1,5 cm. Wok in acciaio al carbonio nero, spatola in metallo, piano di lavoro grigio scuro, sfondo in mattoni grigi. Luce soffusa, colori naturali, vapore moderato. Azioni: 0-3s: Sfrigolio di olio e aromi. 3-7s: Aggiunta dei gamberi e cottura finché non diventano rosso-arancio. 7-10s: Salta i gamberi, aggiungi l'erba cipollina. Non impiattare ancora. Output 10s, 720p, 9:16. Evita: mani deformate, oggetti fluttuanti, fiamme esagerate o variazioni nelle dimensioni dei gamberi. Segmento 3: 10s, pubblicità verticale 9:16. Utilizzo: Erba cipollina sui gamberi, mescolata con la spatola, saltati in padella con lucentezza oleosa, versamento della salsa marrone. I gamberi rimangono rosso-arancio e piccoli. L'erba cipollina è composta da steli verdi. Azioni: 0-2s: Incorpora l'erba cipollina nei gamberi. 2-6s: Mescolata con la spatola e un leggero salto. 6-8s: Versa la salsa marrone chiaro in un flusso continuo. 8-10s: Mescola uniformemente per ottenere una lucentezza umida e sottile. Output 10s, 720p, 9:16. Evita: ingredienti extra, mani deformate, fiamme enormi o liquido eccessivo. Segmento 4: 10s, finale verticale 9:16. Utilizzo: Salto finale, impiattamento su un piatto bianco, primo piano del piatto finito. I gamberi rimangono di 1,5 cm. L'erba cipollina è composta da steli verdi. Usa un piatto in ceramica bianco caldo. Luce calda e soffusa. Azioni: 0-2,5s: Salto finale delicato. 2,5-6s: Inclina il wok per far scivolare gli ingredienti sul piatto in un mucchietto ordinato. 6-10s: Le mani escono dall'inquadratura, zoom lento sui Gamberi di fiume saltati con fiori di erba cipollina finiti. Texture naturali e lucentezza oleosa. Output 10s, 720p, 9:16. Evita: copiare il testo sorgente, mani deformate, oggetti fluttuanti, fiamme enormi o improvvisi cambi di luce.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098592507236167680/img/81KVnMF03e2GTdlW.jpg" width="600" alt="Scena pubblicitaria di alta gamma per gamberi saltati in padella">
+
+**[🎬 Guarda il video →](https://x.com/7998l201/status/2098592573350944969)**
+
+**Autore:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2098592573350944969) | **Pubblicato:** Sep 12, 2026
+
+---
+### Animazione di un disegno su sketchbook con ripresa dall'alto
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt video creativo che descrive un omino stilizzato disegnato a mano che prende vita su uno sketchbook, caratterizzato da una prospettiva dall'alto e transizioni di ombreggiatura realistiche.
+
+#### 📝 Prompt
+
+```
+POV dall'alto, inquadratura zenitale, vista perpendicolare su uno sketchbook appoggiato su una scrivania in legno. Una mano dalla pelle scura impugna un pennarello nero e disegna un semplice omino stilizzato sorridente: testa rotonda, corpo ovale, arti sottili. La mano si ritrae. Il disegno acquisisce gradualmente volume e ombreggiatura, prendendo vita.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2098358082875125763/img/WldD1N-m55wm05mI.jpg" width="600" alt="Animazione di un disegno su sketchbook con ripresa dall'alto">
+
+**[🎬 Guarda il video →](https://x.com/aibabbler/status/2098358118665072891)**
+
+**Autore:** [Jo Aiba](https://x.com/aibabbler) | **Fonte:** [Link](https://x.com/aibabbler/status/2098358118665072891) | **Pubblicato:** Sep 11, 2026
+
+---
 ### Monoruota steampunk vittoriana a trazione equina
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -2913,87 +2992,6 @@ Un imprenditore che esamina una dashboard basata su AI in un ufficio moderno e l
 **Autore:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Fonte:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Pubblicato:** Aug 11, 2026
 
 ---
-### Mondo di gocce d'acqua congelate cristalline
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video dettagliato per Gemini Omni che visualizza una goccia d'acqua che si trasforma in un complesso paesaggio ghiacciato con foreste cristalline e scogliere di ghiaccio al rallentatore.
-
-#### 📝 Prompt
-
-```
-Uno sfondo nero puro riempie l'inquadratura. Una singola goccia d'acqua limpida cade al rallentatore dall'alto, colpendo una superficie invisibile ed esplodendo verso l'esterno in increspature circolari perfette e schizzi cristallini. La telecamera rimane completamente statica, bloccata sulla danza dei fluidi. Man mano che le gocce successive si uniscono, l'acqua che si espande si rimodella sottilmente in imponenti scogliere di ghiaccio, cascate scroscianti e foreste cristalline di brina. Una morbida luce turchese e argento filtra attraverso il liquido, trasformando l'intera scena in un luminoso regno di cascate ghiacciate. L'ultimo secondo si blocca sul mondo cristallino completato, perfettamente immobile. Stile: bellezza astratta | movimento fluido | trasformazione cristallina Telecamera: macro statica → rivelazione lenta Durata: 10 secondi Illuminazione: luce fredda di contorno, alta nitidezza, bagliore etereo
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087219233914757120/img/JxizCy4LEbV7kudy.jpg" width="600" alt="Mondo di gocce d'acqua congelate cristalline">
-
-**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2087219303926124787)**
-
-**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2087219303926124787) | **Pubblicato:** Aug 11, 2026
-
----
-### Prompt per l'immagine di una mano che coglie una stella dal cielo notturno
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt per un'immagine surreale in prima persona che ritrae una mano che si protende verso il cielo notturno per cogliere una stella luminosa.
-
-#### 📝 Prompt
-
-```
-Vista in prima persona, una mano umana che si protende verso un cielo notturno profondo, intenta a cogliere delicatamente una singola stella luminosa dall'oscurità come se fosse un frutto. Cielo blu notte profondo, luce stellare scintillante, scala a prospettiva forzata surreale,
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087042372932694016/img/gSI822XdSsp7BNXc.jpg" width="600" alt="Prompt per l'immagine di una mano che coglie una stella dal cielo notturno">
-
-**[🎬 Guarda il video →](https://x.com/TheChuksAi/status/2087042640453738616)**
-
-**Autore:** [ChuksAi](https://x.com/TheChuksAi) | **Fonte:** [Link](https://x.com/TheChuksAi/status/2087042640453738616) | **Pubblicato:** Aug 11, 2026
-
----
-### Storyboard di Ember and the Firefly - Inquadratura 1
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> L'inquadratura iniziale della demo cinematografica di 'Ember and the Firefly', caratterizzata da un ampio push-in su un personaggio che si blocca quando nota una lucciola luminosa.
-
-#### 📝 Prompt
-
-```
-STORYBOARD DI EMBER AND THE FIREFLY — ELENCO INQUADRATURE 8 SECONDI
-
-INQUADRATURA 1 | LA SCINTILLA (0:00–1:3s)
-Cam: Campo lungo statico, lento push-in.
-Azione: Ember si blocca a metà passo, le orecchie si tendono verso una singola lucciola luminosa.
-Audio: Silenzio della foresta, leggero tintinnio in corrispondenza del bagliore.
-```
-
-<img src="https://cms-assets.youmind.com/media/1786439482807_ertr81_HPXCbzdXMAAa4JG.jpg" width="600" alt="Storyboard di Ember and the Firefly - Inquadratura 1">
-
-**[🎬 Guarda il video →](https://x.com/Gre8tDan/status/2086787909399572802)**
-
-**Autore:** [Great Dan 🥥](https://x.com/Gre8tDan) | **Fonte:** [Link](https://x.com/Gre8tDan/status/2086787909399572802) | **Pubblicato:** Aug 10, 2026
-
----
-### Piscina di gelatina alla fragola che rimbalza
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video cinematografico altamente dettagliato di una piscina di gelatina alla fragola rosso rubino traslucida con una fragola di gelatina che rimbalza, enfatizzando texture e fisica.
-
-#### 📝 Prompt
-
-```
-Una lussuosa piscina realizzata interamente in gelatina alla fragola rosso rubino traslucida su uno sfondo sfumato senza giunture dal bianco al rosa pallido. Una gigantesca fragola realistica, scolpita nella stessa gelatina lucida, emerge dal centro della piscina e rimbalza lentamente verso l'alto, per poi ricadere sulla superficie, creando bellissime onde concentriche di gelatina e delicati schizzi. Minuscole goccioline di gelatina traslucida si allungano nell'aria catturando la luce dello studio. La telecamera inizia con un macro primo piano della texture lucida della gelatina, si allontana fluidamente mentre la fragola sale, per poi avvicinarsi delicatamente mentre atterra. Deformazione realistica della gelatina, oscillazioni, allungamenti, rimbalzi morbidi, increspature superficiali simili a liquidi, traslucenza convincente e scattering sottosuperficiale. Fotografia gastronomica premium con direzione artistica, composizione da studio minimalista, estetica ASMR ipnotica, movimento cinematografico fluido, ripresa singola continua, esattamente 10 secondi, nessun testo, nessun logo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2086771282251862016/img/uLju3vWAwzdgjpoF.jpg" width="600" alt="Piscina di gelatina alla fragola che rimbalza">
-
-**[🎬 Guarda il video →](https://x.com/MrDasOnX/status/2086771369673699476)**
-
-**Autore:** [Mr Das](https://x.com/MrDasOnX) | **Fonte:** [Link](https://x.com/MrDasOnX/status/2086771369673699476) | **Pubblicato:** Aug 10, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -3046,6 +3044,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-12T08:22:49.507Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-12T15:00:58.681Z</sub>
 
 </div>
