@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **264** |
+| 📝 Total de prompts | **268** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-09-14** |
 
@@ -56,6 +56,89 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt para video corto de caridad
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt para crear un video corto para la campaña benéfica Heart Action con estética de manualidades en papel.
+
+#### 📝 Prompt
+
+```
+Video corto para redes sociales de menos de 15 segundos.
+* No muestres la imagen adjunta al principio.
+
+Tema: "#HeartAction".
+
+Un video narrativo con desplazamiento horizontal donde un protagonista se mueve de izquierda a derecha por la pantalla.
+
+El entorno visual es un mundo cálido y sencillo hecho de papel, que combina origami, recortes de papel, manualidades en papel y miniaturas.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099322090012938240/img/mjK1l7oc931_cZLB.jpg" width="600" alt="Prompt para video corto de caridad">
+
+**[🎬 Ver video →](https://x.com/taya_mama_AI/status/2099322117233971705)**
+
+**Autor:** [た〜や｜スキマ時間×AI副業ママ](https://x.com/taya_mama_AI) | **Fuente:** [Link](https://x.com/taya_mama_AI/status/2099322117233971705) | **Publicado:** Sep 14, 2026
+
+---
+### Historia animada en tinta y plumilla con Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt narrativo que describe una historia de amor animada en tinta y plumilla, creada con Gemini Omni Flash 1.1, con personajes específicos y un timing cómico preciso.
+
+#### 📝 Prompt
+
+```
+ATRAPADOS POR LA OLA. Una historia de amor en tinta y plumilla dibujada directamente sobre papel cuadriculado: un hombre con bigote rema, una mujer sostiene su sombrilla, una ola dibujada a mano arruina el momento, se ríen de la situación y terminan con corazones. Creado por IA en Gemini Omni Flash 1.1, animación completa estilo boceto, efectos de sonido incluidos y timing cómico integrado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099146429348638720/img/MOgKeTovjnfx4Szr.jpg" width="600" alt="Historia animada en tinta y plumilla con Gemini Omni">
+
+**[🎬 Ver video →](https://x.com/aibabbler/status/2099146464945393794)**
+
+**Autor:** [Jo Aiba](https://x.com/aibabbler) | **Fuente:** [Link](https://x.com/aibabbler/status/2099146464945393794) | **Publicado:** Sep 13, 2026
+
+---
+### Visualización arquitectónica de villa en Santorini
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt que describe una visualización arquitectónica fotorrealista de una villa en un acantilado de Santorini, generada por Gemini Omni 1.1 Flash.
+
+#### 📝 Prompt
+
+```
+Lujo silencioso en los acantilados de Santorini. Una impecable villa en el acantilado diseñada para enmarcar el infinito azul del Egeo.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099145222941020160/img/s9ji-smMVqGNhyC3.jpg" width="600" alt="Visualización arquitectónica de villa en Santorini">
+
+**[🎬 Ver video →](https://x.com/MrDasOnX/status/2099145282219020733)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Fuente:** [Link](https://x.com/MrDasOnX/status/2099145282219020733) | **Publicado:** Sep 13, 2026
+
+---
+### Prompt de Video Cinematográfico de Agua Detox de Rosa
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar un video cinematográfico ultra realista de comida vertical de 10 segundos, que muestra la preparación de agua detox de rosa con tomas macro y diseño de sonido.
+
+#### 📝 Prompt
+
+```
+Crea un video cinematográfico ultra realista de comida vertical de 10 segundos (formato 9:16) basado en el storyboard de referencia. Muestra pétalos de rosa frescos, betabel, granada, zanahorias y frambuesas siendo preparados en hermosos primeros planos macro, con manos realistas y movimientos de corte satisfactorios. Agrega rápidamente los ingredientes coloridos y los delicados pétalos de rosa a una botella de vidrio transparente, colocando naturalmente capas de betabel, granada, zanahorias y frambuesas. Vierte lentamente agua con gas fresca en la botella, capturando hermosas burbujas, salpicaduras e ingredientes girando en el agua. Termina con una toma heroica macro premium del Agua Detox de Rosa completada, llena de vibrantes ingredientes rojo rosados, pétalos flotantes, condensación y burbujas brillantes. Utiliza tonos ricos en rojo rosado, carmesí y rosa suave, luz natural del día, profundidad de campo reducida, texturas de alimentos realistas, movimiento de cámara cinematográfico fluido, slow motion suave, transiciones elegantes y una estética lujosa y fresca. Incluye sonidos satisfactorios de corte, caída de ingredientes, tintineo de hielo y vertido de agua. Añade superposiciones de texto elegantes: ‘Agua Detox de Rosa’ y ‘Brilla Naturalmente · Siéntate Increíble.’
+```
+
+<img src="https://cms-assets.youmind.com/media/1789381245900_jwys99_HSGUc0yagAAOctA.jpg" width="600" alt="Prompt de Video Cinematográfico de Agua Detox de Rosa">
+
+**[🎬 Ver video →](https://x.com/oneonelabs/status/2099143059699380331)**
+
+**Autor:** [OneOneLabs.ai](https://x.com/oneonelabs) | **Fuente:** [Link](https://x.com/oneonelabs/status/2099143059699380331) | **Publicado:** Sep 13, 2026
+
+---
 ### Cortometraje cinematográfico de una mujer japonesa
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2901,82 +2984,6 @@ Usa la imagen de referencia tal cual. Crea una secuencia de alta energía de 15 
 **Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fuente:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Publicado:** Aug 13, 2026
 
 ---
-### Superposición de máscara de anime en toma continua
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un complejo prompt de video cinematográfico para Gemini Omni que crea una toma única y continua de un sujeto utilizando gestos con las manos para activar superposiciones y máscaras dinámicas al estilo anime con descripciones de audio sincronizadas.
-
-#### 📝 Prompt
-
-```
-Genera una toma única y continua.\n\n{ "setting": "Estudio interior minimalista y acogedor con paredes de color blanco hueso y detalles en madera oscura", \n  "lighting": "Iluminación cálida, difusa y envolvente con un sutil relleno lateral", \n  "weather": "Ambiente interior", \n  "color_grade": "Tonos naturales cálidos con toques de superposición digital de alto contraste" }\n\n[ANCLAJE DEL SUJETO — reiterar descriptores visuales del personaje]:\nEl joven asiático de cabello negro, largo y liso, viste una chaqueta cortavientos con capucha de color gris oscuro con cordones visibles.\n\n[00:00-00:02]: El joven asiático con la chaqueta gris oscuro sostiene los cordones de su capucha cerca de la barbilla, luego levanta suavemente ambas manos, extendiendo los dedos para formar un marco geométrico rectangular nítido frente a sus ojos. Dentro del marco formado por las manos, un gráfico dinámico de ojos de anime con sombreado plano (cel-shaded) aparece instantáneamente superpuesto sobre sus ojos reales.\n[00:02-00:04]: Desplaza el marco de sus manos hacia abajo a través de su mejilla, cambiando el ángulo del encuadre para revelar una superposición gráfica de ojos y cejas al estilo manga que se mantiene fija entre sus dedos.\n[00:04-00:06]: Al mover sus manos hacia arriba con un movimiento rítmico, aparece un gráfico estilizado de boca de anime sonriente en 2D dentro de un nuevo marco formado por sus manos en la parte inferior del rostro, coincidiendo con el ángulo de su cabeza.\n[00:06-00:08]: Reestructura su gesto, usando los dedos índices para señalar diagonalmente a través de la región de sus ojos y nariz, creando un marco triangular con las manos que muestra un filtro de máscara de anime vectorial triangular vívido sobre la parte superior de su rostro.\n[00:08-00:10]: Gira el marco triangular de sus manos suavemente hacia el ángulo opuesto sobre la parte inferior de su rostro, sosteniendo una superposición de banner con arte de anime horizontal entre las puntas de sus dedos mientras el clip se mantiene.\n\n🎤 INTERPRETACIÓN DE VOZ:\nNo hay diálogo hablado en este segmento inicial. La interpretación de audio está anclada por la atmósfera rítmica de la acumulación musical, sincronizada con sonidos de movimiento de interfaz de usuario nítidos y limpios.\n\nAmbiente: Acústica de habitación residencial silenciosa con una suave resonancia de aire en las frecuencias bajas.\nFoley: Efectos de sonido digital nítidos y chasquidos de interfaz de usuario bloqueados precisamente en cada expansión de mano y cambio de estado de superposición en los segundos 01, 03, 05, 07 y 09.\nMúsica: Melodía de sintetizador electro-pop/cyberpunk de alta energía que aumenta en ritmo e intensidad.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Superposición de máscara de anime en toma continua">
-
-**[🎬 Ver video →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
-
-**Autor:** [Aryan](https://x.com/Aryan_Ali_Pro) | **Fuente:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **Publicado:** Aug 12, 2026
-
----
-### Venta de garaje de una ardilla en el jardín
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt creativo para Gemini Omni que describe a una ardilla organizando una venta en un jardín.
-
-#### 📝 Prompt
-
-```
-Una ardilla se queda sin dinero, así que organiza una venta en el jardín ofreciendo muchos objetos valiosos
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Venta de garaje de una ardilla en el jardín">
-
-**[🎬 Ver video →](https://x.com/SilverAIProject/status/2087298245747683578)**
-
-**Autor:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Fuente:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **Publicado:** Aug 11, 2026
-
----
-### El astuto robo de comida del gato
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt narrativo y humorístico para Gemini Omni que presenta a un gato robando comida y encantando a su dueña.
-
-#### 📝 Prompt
-
-```
-Un astuto gato blanco y negro robando sigilosamente la comida de un gato carey mientras seduce a la dueña de la casa con ronroneos encantadores
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="El astuto robo de comida del gato">
-
-**[🎬 Ver video →](https://x.com/SilverAIProject/status/2087295479335751880)**
-
-**Autor:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Fuente:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **Publicado:** Aug 11, 2026
-
----
-### Revisión del panel de control empresarial
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de oficina realista para Gemini Omni que muestra a un dueño de negocio revisando un panel de control de IA.
-
-#### 📝 Prompt
-
-```
-Un dueño de negocio revisando un panel de control de IA en una oficina moderna y luminosa. Plano medio. Zoom lento. Iluminación natural cálida. Ambiente concentrado. Estilo realista. Video de alta calidad.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Revisión del panel de control empresarial">
-
-**[🎬 Ver video →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
-
-**Autor:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Fuente:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Publicado:** Aug 11, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -3029,6 +3036,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-14T09:34:40.801Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-14T17:44:25.196Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **264** |
+| 📝 Tổng số prompt | **268** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-14** |
 
@@ -56,6 +56,89 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Prompt Video Ngắn cho Chiến dịch Từ thiện
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Prompt tạo video ngắn cho chiến dịch từ thiện Heart Action với phong cách thẩm mỹ thủ công giấy.
+
+#### 📝 Prompt
+
+```
+Video ngắn trên mạng xã hội dưới 15 giây.
+* Không hiển thị hình ảnh đính kèm ở đầu video.
+
+Chủ đề: "#HeartAction".
+
+Một câu chuyện video cuộn ngang, trong đó nhân vật chính di chuyển từ trái sang phải qua màn hình.
+
+Thế giới quan là một thế giới giấy ấm áp và giản dị, kết hợp nghệ thuật gấp giấy origami, cắt giấy, thủ công giấy và mô hình thu nhỏ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099322090012938240/img/mjK1l7oc931_cZLB.jpg" width="600" alt="Prompt Video Ngắn cho Chiến dịch Từ thiện">
+
+**[🎬 Xem video →](https://x.com/taya_mama_AI/status/2099322117233971705)**
+
+**Tác giả:** [た〜や｜スキマ時間×AI副業ママ](https://x.com/taya_mama_AI) | **Nguồn:** [Link](https://x.com/taya_mama_AI/status/2099322117233971705) | **Đã xuất bản:** Sep 14, 2026
+
+---
+### Truyện hoạt hình vẽ bằng mực trong Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu chuyện được kể qua prompt, mô tả một bộ phim hoạt hình tình yêu phong cách vẽ mực tạo ra bằng Gemini Omni Flash 1.1, với các nhân vật cụ thể và nhịp điệu hài hước.
+
+#### 📝 Prompt
+
+```
+BỊ CUỐN THEO SÓNG. Một câu chuyện tình yêu vẽ bằng mực trên giấy kẻ dòng: một người đàn ông ria mép đang chèo thuyền, một phụ nữ cầm ô, một con sóng vẽ tay phá hỏng khoảnh khắc lãng mạn, họ cùng cười xòa, kết thúc bằng những trái tim. Được tạo bởi AI trong Gemini Omni Flash 1.1, hoạt hình phác thảo đầy đủ, có kèm hiệu ứng âm thanh, nhịp điệu hài hước được tích hợp sẵn.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099146429348638720/img/MOgKeTovjnfx4Szr.jpg" width="600" alt="Truyện hoạt hình vẽ bằng mực trong Gemini Omni">
+
+**[🎬 Xem video →](https://x.com/aibabbler/status/2099146464945393794)**
+
+**Tác giả:** [Jo Aiba](https://x.com/aibabbler) | **Nguồn:** [Link](https://x.com/aibabbler/status/2099146464945393794) | **Đã xuất bản:** Sep 13, 2026
+
+---
+### Hình ảnh hóa kiến trúc biệt thự Santorini
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt mô tả hình ảnh hóa kiến trúc siêu thực của một biệt thự trên vách đá ở Santorini, được tạo bởi Gemini Omni 1.1 Flash.
+
+#### 📝 Prompt
+
+```
+Sự sang trọng tĩnh lặng trên những vách đá Santorini. Một biệt thự nguyên sơ trên vách đá được thiết kế để ôm trọn sắc xanh vô tận của biển Aegean.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099145222941020160/img/s9ji-smMVqGNhyC3.jpg" width="600" alt="Hình ảnh hóa kiến trúc biệt thự Santorini">
+
+**[🎬 Xem video →](https://x.com/MrDasOnX/status/2099145282219020733)**
+
+**Tác giả:** [Mr Das](https://x.com/MrDasOnX) | **Nguồn:** [Link](https://x.com/MrDasOnX/status/2099145282219020733) | **Đã xuất bản:** Sep 13, 2026
+
+---
+### Cinematic Rose Detox Water Food Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a 10-second vertical ultra-realistic cinematic food video featuring rose detox water preparation with macro shots and sound design.
+
+#### 📝 Prompt
+
+```
+Create a 10-second vertical 9:16 ultra-realistic cinematic food video based on the reference storyboard. Show fresh rose petals, beetroot, pomegranate, carrots and raspberries being prepared in beautiful close-up macro shots, with realistic hands and satisfying cutting movements. Quickly add the colorful ingredients and delicate rose petals into a clear glass bottle, layering the beetroot, pomegranate, carrots and raspberries naturally. Slowly pour fresh sparkling water into the bottle, capturing beautiful bubbles, splashes and ingredients swirling through the water. Finish with a premium macro hero shot of the completed Rose Detox Water, filled with vibrant rose-red ingredients, floating petals, condensation and sparkling bubbles. Use rich rose-red, crimson and soft pink tones, natural daylight, shallow depth of field, realistic food textures, smooth cinematic camera movement, gentle slow motion, elegant transitions and a luxurious fresh aesthetic. Include satisfying cutting, ingredient drops, ice-clinking and water-pouring sounds. Add elegant text overlays: ‘Rose Detox Water’ and ‘Glow Naturally · Feel Amazing.’
+```
+
+<img src="https://cms-assets.youmind.com/media/1789381245900_jwys99_HSGUc0yagAAOctA.jpg" width="600" alt="Cinematic Rose Detox Water Food Video Prompt">
+
+**[🎬 Xem video →](https://x.com/oneonelabs/status/2099143059699380331)**
+
+**Tác giả:** [OneOneLabs.ai](https://x.com/oneonelabs) | **Nguồn:** [Link](https://x.com/oneonelabs/status/2099143059699380331) | **Đã xuất bản:** Sep 13, 2026
+
+---
 ### Phim ngắn điện ảnh về người phụ nữ Nhật Bản
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2916,82 +2999,6 @@ Sử dụng hình ảnh tham chiếu như hiện trạng. Tạo một chuỗi vi
 **Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Đã xuất bản:** Aug 13, 2026
 
 ---
-### Lớp phủ mặt nạ Anime quay liên tục
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh video điện ảnh phức tạp dành cho Gemini Omni, tạo ra một cảnh quay liên tục duy nhất về một chủ thể sử dụng cử chỉ tay để kích hoạt các lớp phủ khuôn mặt và mặt nạ theo phong cách anime sống động, đi kèm với các mô tả âm thanh đồng bộ.
-
-#### 📝 Prompt
-
-```
-Tạo một cảnh quay liên tục duy nhất.\n\n{ "bối cảnh": "Phòng studio tối giản ấm cúng với tường màu trắng nhạt và điểm nhấn gỗ tối màu", \n  "ánh sáng": "Ánh sáng hắt ấm áp, khuếch tán nhẹ với ánh sáng phụ từ bên cạnh", \n  "thời tiết": "Trong nhà", \n  "chỉnh màu": "Tông màu tự nhiên ấm áp với các lớp phủ kỹ thuật số có độ tương phản cao" }\n\n[NEO CHỦ THỂ — nhắc lại các mô tả hình ảnh nhân vật]:\nNgười đàn ông trẻ Đông Á với mái tóc đen dài thẳng, mặc áo khoác gió có mũ màu xám đậm với dây rút có thể nhìn thấy rõ.\n\n[00:00-00:02]: Người đàn ông trẻ Đông Á trong chiếc áo khoác có mũ màu xám đậm giữ dây rút mũ gần cằm, sau đó nhẹ nhàng nâng cả hai tay lên, xòe các ngón tay để tạo thành một khung hình học hình chữ nhật sắc nét trước mắt. Bên trong khung tay, một đồ họa mắt anime 2D cel-shaded sống động ngay lập tức xuất hiện, phủ lên đôi mắt thật của cô ấy.\n[00:02-00:04]: Cô ấy di chuyển khung tay xuống dưới qua má, thay đổi góc khung hình để lộ ra lớp phủ đồ họa mắt và lông mày sắc nét theo phong cách manga, được khóa theo chuyển động giữa các ngón tay.\n[00:04-00:06]: Di chuyển tay lên trên theo nhịp điệu, một đồ họa miệng cười anime 2D cách điệu xuất hiện bên trong một khung tay mới ở phần dưới khuôn mặt, khớp với góc đầu của cô ấy.\n[00:06-00:08]: Cô ấy điều chỉnh lại cử chỉ, sử dụng các ngón trỏ để chỉ chéo qua vùng mắt và mũi, tạo ra một khung tay hình tam giác hiển thị bộ lọc mặt nạ anime vector hình tam giác sống động trên phần trên khuôn mặt.\n[00:08-00:10]: Cô ấy lật khung tay hình tam giác một cách mượt mà sang góc đối diện trên phần dưới khuôn mặt, giữ một lớp phủ biểu ngữ tác phẩm nghệ thuật anime nằm ngang giữa các đầu ngón tay khi cảnh quay kết thúc.\n\n🎤 MÀN TRÌNH DIỄN GIỌNG NÓI:\nKhông có lời thoại trong phân đoạn mở đầu này. Màn trình diễn âm thanh được neo giữ bởi bầu không khí nhịp nhàng của phần nhạc nền tăng dần, đồng bộ với các âm thanh chuyển động giao diện người dùng (UI) sắc nét và sạch sẽ.\n\nÂm thanh môi trường: Âm học phòng ở yên tĩnh với độ cộng hưởng không khí trầm thấp nhẹ.\nFoley: Các hiệu ứng âm thanh kỹ thuật số sắc nét (swoosh) và âm thanh UI (snap) được khóa chính xác theo từng lần mở rộng tay và thay đổi trạng thái lớp phủ tại giây thứ 01, 03, 05, 07 và 09.\nÂm nhạc: Giai điệu synth electro-pop/cyberpunk tràn đầy năng lượng, tăng dần về nhịp điệu và cường độ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Lớp phủ mặt nạ Anime quay liên tục">
-
-**[🎬 Xem video →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
-
-**Tác giả:** [Aryan](https://x.com/Aryan_Ali_Pro) | **Nguồn:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **Đã xuất bản:** Aug 12, 2026
-
----
-### Sự kiện bán hàng sân vườn của chú sóc
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý đầy thú vị dành cho Gemini Omni, mô tả cảnh một chú sóc đang tổ chức sự kiện bán hàng trong vườn.
-
-#### 📝 Prompt
-
-```
-Chú sóc bị thiếu tiền nên đã tổ chức một buổi bán hàng trong vườn, bày bán nhiều món đồ giá trị
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Sự kiện bán hàng sân vườn của chú sóc">
-
-**[🎬 Xem video →](https://x.com/SilverAIProject/status/2087298245747683578)**
-
-**Tác giả:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Nguồn:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **Đã xuất bản:** Aug 11, 2026
-
----
-### Vụ trộm thức ăn tinh quái của chú mèo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý kể chuyện hài hước dành cho Gemini Omni về một chú mèo lén ăn vụng và làm nũng với chủ nhân.
-
-#### 📝 Prompt
-
-```
-Chú mèo đen trắng tinh quái lén lút trộm thức ăn của mèo đồi mồi, đồng thời dùng tiếng gừ gừ đầy mê hoặc để lấy lòng cô chủ
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Vụ trộm thức ăn tinh quái của chú mèo">
-
-**[🎬 Xem video →](https://x.com/SilverAIProject/status/2087295479335751880)**
-
-**Tác giả:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Nguồn:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **Đã xuất bản:** Aug 11, 2026
-
----
-### Đánh giá Bảng điều khiển Doanh nghiệp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý (prompt) văn phòng chân thực dành cho Gemini Omni, mô tả một chủ doanh nghiệp đang xem xét bảng điều khiển AI.
-
-#### 📝 Prompt
-
-```
-Một chủ doanh nghiệp đang xem xét bảng điều khiển AI trong một văn phòng hiện đại, sáng sủa. Cảnh quay trung. Thu phóng chậm. Ánh sáng tự nhiên ấm áp. Tâm trạng tập trung. Phong cách chân thực. Video chất lượng cao.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Đánh giá Bảng điều khiển Doanh nghiệp">
-
-**[🎬 Xem video →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
-
-**Tác giả:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Nguồn:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Đã xuất bản:** Aug 11, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3044,6 +3051,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-14T09:34:33.139Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-14T17:44:21.816Z</sub>
 
 </div>

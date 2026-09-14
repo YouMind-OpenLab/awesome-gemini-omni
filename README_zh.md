@@ -46,7 +46,7 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **264** |
+| 📝 提示词总数 | **268** |
 | ⭐ 精选提示词 | **0** |
 | 🔄 最后更新 | **2026-09-14** |
 
@@ -56,6 +56,89 @@ Google Gemini Omni 高质量视频生成提示词精选集合
 
 > 📝 按发布日期排序（最新优先）
 
+### 慈善活动短视频提示词
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 用于制作“爱心行动”慈善活动短视频的提示词，采用纸艺美学风格。
+
+#### 📝 提示词
+
+```
+时长不超过 15 秒的社交媒体短视频。
+* 开头不要显示附图。
+
+主题：“#HeartAction”。
+
+横向滚动的故事视频，主角从左向右穿过屏幕。
+
+世界观是一个温暖简约的纸质世界，融合了折纸、剪纸、纸艺和微缩模型元素。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099322090012938240/img/mjK1l7oc931_cZLB.jpg" width="600" alt="慈善活动短视频提示词">
+
+**[🎬 观看视频 →](https://x.com/taya_mama_AI/status/2099322117233971705)**
+
+**作者:** [た〜や｜スキマ時間×AI副業ママ](https://x.com/taya_mama_AI) | **来源:** [Link](https://x.com/taya_mama_AI/status/2099322117233971705) | **发布时间:** Sep 14, 2026
+
+---
+### Gemini Omni 中的钢笔淡彩动画故事
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一个叙事提示词，描述了使用 Gemini Omni Flash 1.1 创作的钢笔淡彩爱情故事动画，包含特定角色和喜剧节奏。
+
+#### 📝 提示词
+
+```
+被浪卷走。一个直接画在横格笔记本纸上的钢笔淡彩爱情故事：一个留胡子的男人在划船，一个女人撑着阳伞，一只手绘的浪花破坏了这一刻，他们一笑置之，结尾出现爱心。由 AI 在 Gemini Omni Flash 1.1 中构建，完整的素描动画，包含音效，内置喜剧节奏。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099146429348638720/img/MOgKeTovjnfx4Szr.jpg" width="600" alt="Gemini Omni 中的钢笔淡彩动画故事">
+
+**[🎬 观看视频 →](https://x.com/aibabbler/status/2099146464945393794)**
+
+**作者:** [Jo Aiba](https://x.com/aibabbler) | **来源:** [Link](https://x.com/aibabbler/status/2099146464945393794) | **发布时间:** Sep 13, 2026
+
+---
+### 圣托里尼别墅建筑可视化
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 由 Gemini Omni 1.1 Flash 生成的圣托里尼悬崖别墅照片级真实感建筑可视化提示词。
+
+#### 📝 提示词
+
+```
+圣托里尼悬崖上的静谧奢华。一座纯净的悬崖别墅，旨在框住无尽的蔚蓝爱琴海。
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099145222941020160/img/s9ji-smMVqGNhyC3.jpg" width="600" alt="圣托里尼别墅建筑可视化">
+
+**[🎬 观看视频 →](https://x.com/MrDasOnX/status/2099145282219020733)**
+
+**作者:** [Mr Das](https://x.com/MrDasOnX) | **来源:** [Link](https://x.com/MrDasOnX/status/2099145282219020733) | **发布时间:** Sep 13, 2026
+
+---
+### 电影感玫瑰排毒水美食视频提示词
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 一份详细的提示词，用于生成一段 10 秒竖屏超写实电影感美食视频，展示玫瑰排毒水的制作过程，包含微距镜头和音效设计。
+
+#### 📝 提示词
+
+```
+基于参考分镜脚本，创作一段 10 秒竖屏 9:16 超写实电影感美食视频。通过精美的特写微距镜头，展示新鲜玫瑰花瓣、甜菜根、石榴、胡萝卜和树莓的准备过程，画面需呈现逼真的手部动作和令人满足的切割动态。将色彩丰富的食材与精致的玫瑰花瓣快速放入透明玻璃瓶中，自然分层摆放甜菜根、石榴、胡萝卜和树莓。缓缓倒入新鲜气泡水，捕捉美丽的气泡、飞溅的水花以及食材在水中旋转的动态。最后以成品玫瑰排毒水的优质微距主视觉镜头收尾，展现鲜艳的玫瑰红色食材、漂浮的花瓣、瓶身凝结的水珠和闪烁的气泡。采用浓郁的玫瑰红、深红和柔和粉色调，配合自然日光、浅景深、逼真的食物纹理、流畅的电影级运镜、轻柔的慢动作、优雅的转场以及奢华清新的美学风格。加入令人满足的切割声、食材落入声、冰块碰撞声和倒水声。添加优雅的文字叠加层：‘Rose Detox Water’ 和 ‘Glow Naturally · Feel Amazing.’
+```
+
+<img src="https://cms-assets.youmind.com/media/1789381245900_jwys99_HSGUc0yagAAOctA.jpg" width="600" alt="电影感玫瑰排毒水美食视频提示词">
+
+**[🎬 观看视频 →](https://x.com/oneonelabs/status/2099143059699380331)**
+
+**作者:** [OneOneLabs.ai](https://x.com/oneonelabs) | **来源:** [Link](https://x.com/oneonelabs/status/2099143059699380331) | **发布时间:** Sep 13, 2026
+
+---
 ### 电影感日本女性短片
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2944,82 +3027,6 @@ CUT 12 | 14.0-15.0s - 片尾：大号「茶」字，下方配以小号英文 "TE
 **作者:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **来源:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **发布时间:** Aug 13, 2026
 
 ---
-### 连续镜头动漫面具叠加效果
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 这是一个为 Gemini Omni 设计的复杂电影级视频提示词，旨在通过手势触发动态动漫风格的面部叠加和面具，并配合同步音频描述，创作出单一的连续镜头。
-
-#### 📝 提示词
-
-```
-生成一个单一的连续镜头。\n\n{ "场景": "温馨简约的室内工作室，配有灰白色墙壁和深色木质装饰", \n  "光效": "柔和的漫射暖色暗槽灯光，带有微妙的侧面补光", \n  "天气": "室内环境", \n  "调色": "温暖的自然色调，带有高对比度的数字叠加效果" }\n\n[主体锚点 — 重申角色视觉描述]：\n一位留着黑色长直发的年轻东亚男性，身穿深灰色连帽防风外套，带有明显的抽绳。\n\n[00:00-00:02]：身穿深灰色连帽外套的年轻东亚男性将连帽抽绳拉至下巴附近，随后平滑地抬起双手，手指张开，在眼前形成一个清晰的矩形几何框架。在手部框架内，一个动态的 2D 赛璐珞风格动漫眼睛图形瞬间弹出，叠加在她的真实眼睛上。\n[00:02-00:04]：她将手部框架向下移动至脸颊，改变框架角度，显现出一个锐利的漫画风格眼睛和眉毛图形叠加层，并锁定在手指之间。\n[00:04-00:06]：随着手部有节奏地向上移动，一个风格化的 2D 动漫微笑嘴部图形出现在新的下脸部手部剪影框内，并与她的头部角度保持一致。\n[00:06-00:08]：她调整手势，用食指斜向指向眼睛和鼻子区域，形成一个三角形手部框架，在她的上半脸显示出一个生动的三角形矢量动漫面具滤镜。\n[00:08-00:10]：她将三角形手部框架平滑地翻转到相反的角度，覆盖在下半脸，指尖之间夹着一个水平的动漫艺术横幅叠加层，画面保持静止。\n\n🎤 配音表现：\n此开场片段无口头对话。音频表现以音乐节奏的递进为核心，与清脆利落的 UI 移动音效同步。\n\n环境音：安静的住宅房间声学效果，带有柔和的低频空气共鸣。\n拟音：尖锐的数字呼啸声和 UI 咔哒声，与 01 秒、03 秒、05 秒、07 秒和 09 秒时的每次手部扩张及叠加状态切换精确同步。\n音乐：高能量的电子流行/赛博朋克合成器旋律，节奏与强度不断增强。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="连续镜头动漫面具叠加效果">
-
-**[🎬 观看视频 →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
-
-**作者:** [Aryan](https://x.com/Aryan_Ali_Pro) | **来源:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **发布时间:** Aug 12, 2026
-
----
-### 花园松鼠庭院旧货甩卖
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Gemini Omni 准备的奇思妙想提示词，描绘了一只在花园里举办旧货甩卖的松鼠。
-
-#### 📝 提示词
-
-```
-松鼠因缺钱而在花园里举办了一场旧货甩卖，出售许多珍贵的物品
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="花园松鼠庭院旧货甩卖">
-
-**[🎬 观看视频 →](https://x.com/SilverAIProject/status/2087298245747683578)**
-
-**作者:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **来源:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **发布时间:** Aug 11, 2026
-
----
-### 调皮猫咪偷食记
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Gemini Omni 准备的幽默叙事提示词，讲述了一只猫偷吃食物并向主人撒娇的故事。
-
-#### 📝 提示词
-
-```
-一只狡黠的黑白花猫偷偷溜去偷吃玳瑁猫的食物，同时用迷人的呼噜声讨好家里的女主人
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="调皮猫咪偷食记">
-
-**[🎬 观看视频 →](https://x.com/SilverAIProject/status/2087295479335751880)**
-
-**作者:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **来源:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **发布时间:** Aug 11, 2026
-
----
-### 业务仪表盘回顾
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 一个为 Gemini Omni 设计的写实办公场景提示词，展示了一位企业主正在查看 AI 仪表盘。
-
-#### 📝 提示词
-
-```
-一位企业主正在明亮的现代办公室中查看 AI 仪表盘。中景镜头。缓慢变焦。温暖的自然光。专注的氛围。写实风格。高质量视频。
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="业务仪表盘回顾">
-
-**[🎬 观看视频 →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
-
-**作者:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **来源:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **发布时间:** Aug 11, 2026
-
----
 ---
 
 ## 📚 更多提示词
@@ -3072,6 +3079,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-09-14T09:34:27.293Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-09-14T17:44:15.630Z</sub>
 
 </div>

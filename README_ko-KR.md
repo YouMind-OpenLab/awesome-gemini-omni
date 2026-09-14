@@ -46,7 +46,7 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **264** |
+| 📝 총 프롬프트 수 | **268** |
 | ⭐ 추천 프롬프트 | **0** |
 | 🔄 마지막 업데이트 | **2026-09-14** |
 
@@ -56,6 +56,89 @@ Google Gemini Omni을 위한 고품질 비디오 생성 프롬프트 컬렉션
 
 > 📝 게시일 기준 정렬(최신순)
 
+### 자선 단체용 숏폼 영상 프롬프트
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 종이 공예 미학을 활용하여 Heart Action 자선 캠페인을 위한 숏폼 영상을 제작하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+15초 이내의 소셜 미디어 숏폼 영상.
+* 시작 부분에 첨부된 이미지를 표시하지 마세요.
+
+테마: "#HeartAction".
+
+주인공 한 명이 화면을 왼쪽에서 오른쪽으로 가로 스크롤하며 이동하는 스토리 영상.
+
+세계관은 오리가미, 종이 절단, 종이 공예 및 미니어처가 결합된 따뜻하고 단순한 종이 세계입니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099322090012938240/img/mjK1l7oc931_cZLB.jpg" width="600" alt="자선 단체용 숏폼 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://x.com/taya_mama_AI/status/2099322117233971705)**
+
+**작성자:** [た〜や｜スキマ時間×AI副業ママ](https://x.com/taya_mama_AI) | **출처:** [Link](https://x.com/taya_mama_AI/status/2099322117233971705) | **게시일:** Sep 14, 2026
+
+---
+### Gemini Omni로 제작한 펜 앤 잉크 애니메이션 스토리
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 특정 캐릭터와 코미디 타이밍을 담은 Gemini Omni Flash 1.1 기반의 펜 앤 잉크 러브 스토리 애니메이션을 설명하는 내러티브 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+CAUGHT IN THE WAVE. 줄이 그어진 노트 용지에 직접 그린 듯한 펜 앤 잉크 러브 스토리: 콧수염을 기른 남자가 노를 젓고, 여자는 양산을 들고 있으며, 손으로 그린 파도 하나가 순간을 망칩니다. 그들은 웃으며 넘기고, 마지막에는 하트가 등장합니다. Gemini Omni Flash 1.1의 AI로 제작되었으며, 전체 스케치 애니메이션과 효과음(SFX)이 포함되어 있고, 코미디 타이밍이 자연스럽게 녹아 있습니다.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099146429348638720/img/MOgKeTovjnfx4Szr.jpg" width="600" alt="Gemini Omni로 제작한 펜 앤 잉크 애니메이션 스토리">
+
+**[🎬 비디오 보기 →](https://x.com/aibabbler/status/2099146464945393794)**
+
+**작성자:** [Jo Aiba](https://x.com/aibabbler) | **출처:** [Link](https://x.com/aibabbler/status/2099146464945393794) | **게시일:** Sep 13, 2026
+
+---
+### 산토리니 빌라 건축 시각화
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni 1.1 Flash로 생성된 산토리니 절벽 위 빌라의 사실적인 건축 시각화를 설명하는 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+산토리니 절벽 위의 고요한 럭셔리. 끝없는 에게해의 푸르름을 담도록 설계된 깨끗한 절벽 위 빌라.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099145222941020160/img/s9ji-smMVqGNhyC3.jpg" width="600" alt="산토리니 빌라 건축 시각화">
+
+**[🎬 비디오 보기 →](https://x.com/MrDasOnX/status/2099145282219020733)**
+
+**작성자:** [Mr Das](https://x.com/MrDasOnX) | **출처:** [Link](https://x.com/MrDasOnX/status/2099145282219020733) | **게시일:** Sep 13, 2026
+
+---
+### 시네마틱 로즈 디톡스 워터 푸드 영상 프롬프트
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> 매크로 샷과 사운드 디자인을 포함한 장미 디톡스 워터 제조 과정을 담은 10초 세로형 초현실적 시네마틱 푸드 영상 생성용 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+참고 스토리보드에 따라 10초 세로형 9:16 비율의 초현실적 시네마틱 푸드 영상을 제작하세요. 신선한 장미 꽃잎, 비트, 석류, 당근 및 라즈베리가 아름다운 클로즈업 매크로 샷으로 준비되는 모습을 보여주고, 사실적인 손 동작과 만족스러운 칼질 움직임을 포함하세요. 다양한 색상의 재료와 섬세한 장미 꽃잎을 투명한 유리 병에 빠르게 넣고, 비트, 석류, 당근 및 라즈베리를 자연스럽게 층층이 쌓으세요. 신선한 스파클링 워터를 병에 천천히 부으면서 아름다운 기포, 튀김 현상 및 물속에서 회전하는 재료들을 포착하세요. 마지막으로 선명한 장미빛 재료가 가득하고, 떠다니는 꽃잎, 이슬 및 반짝이는 기포가 어우러진 완성된 로즈 디톡스 워터의 프리미엄 매크로 히어로 샷으로 마무리하세요. 풍부한 장미빛 레드, 진홍색 및 부드러운 핑크 톤, 자연광, 얕은 피사계 심도, 사실적인 식감, 매끄러운 시네마틱 카메라 무브먼트, 은은한 슬로우 모션, 우아한 트랜지션 및 고급스럽고 신선한 미학을 사용하세요. 만족스러운 칼질 소리, 재료 떨어지는 소리, 얼음 부딪히는 소리 및 물 따르는 소리를 포함하세요. 'Rose Detox Water' 및 'Glow Naturally · Feel Amazing.'라는 우아한 텍스트 오버레이를 추가하세요.
+```
+
+<img src="https://cms-assets.youmind.com/media/1789381245900_jwys99_HSGUc0yagAAOctA.jpg" width="600" alt="시네마틱 로즈 디톡스 워터 푸드 영상 프롬프트">
+
+**[🎬 비디오 보기 →](https://x.com/oneonelabs/status/2099143059699380331)**
+
+**작성자:** [OneOneLabs.ai](https://x.com/oneonelabs) | **출처:** [Link](https://x.com/oneonelabs/status/2099143059699380331) | **게시일:** Sep 13, 2026
+
+---
 ### 일본 여성 시네마틱 단편 영화
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2916,82 +2999,6 @@ STYLE:
 **작성자:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **출처:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **게시일:** Aug 13, 2026
 
 ---
-### 연속 촬영 애니메이션 마스크 오버레이
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni를 위한 복잡한 시네마틱 비디오 프롬프트로, 피사체가 손동작을 사용하여 동기화된 오디오 설명과 함께 역동적인 애니메이션 스타일의 얼굴 오버레이 및 마스크를 생성하는 단일 연속 샷을 만듭니다.
-
-#### 📝 프롬프트
-
-```
-단일 연속 샷을 생성하세요.\n\n{ "setting": "오프 화이트 벽과 다크 우드 포인트가 있는 아늑하고 미니멀한 실내 스튜디오", \n  "lighting": "부드럽게 확산되는 따뜻한 코브 조명과 은은한 측면 보조광", \n  "weather": "실내 분위기", \n  "color_grade": "대비가 높은 디지털 오버레이가 돋보이는 따뜻한 자연 톤" }\n\n[피사체 앵커 — 캐릭터 시각적 묘사 반복]:\n긴 생머리의 동아시아계 청년이 끈이 달린 다크 그레이 후드 윈드브레이커 재킷을 착용하고 있음.\n\n[00:00-00:02]: 다크 그레이 후드 재킷을 입은 동아시아계 청년이 턱 근처의 후드 끈을 잡고, 양손을 부드럽게 들어 올려 손가락을 펼쳐 눈앞에 선명한 직사각형 기하학적 프레임을 만듭니다. 손 프레임 안에서 역동적인 2D 셀 셰이딩 애니메이션 눈 그래픽이 즉시 나타나 실제 눈 위에 겹쳐집니다.\n[00:02-00:04]: 손 프레임을 뺨 아래로 이동시키며 프레임 각도를 변경하여 손가락 사이에 고정된 날카로운 만화 스타일의 눈과 눈썹 그래픽 오버레이를 드러냅니다.\n[00:04-00:06]: 리듬감 있게 손을 위로 움직이면, 머리 각도에 맞춰 새로운 하관 손 컷아웃 프레임 안에 스타일리시한 2D 애니메이션 웃는 입 그래픽이 나타납니다.\n[00:06-00:08]: 제스처를 재구성하여 검지 손가락으로 눈과 코 영역을 대각선으로 가리키며 삼각형 손 프레임을 만들고, 얼굴 상단에 선명한 삼각형 벡터 애니메이션 마스크 필터를 표시합니다.\n[00:08-00:10]: 삼각형 손 프레임을 부드럽게 반대 각도로 뒤집어 하관 위로 옮기고, 클립이 유지되는 동안 손가락 끝 사이에 가로형 애니메이션 아트워크 배너 오버레이를 고정합니다.\n\n🎤 음성 연기:\n이 오프닝 세그먼트에는 대사가 없습니다. 오디오 연기는 음악적 빌드업의 리드미컬한 분위기를 기반으로 하며, 경쾌하고 깔끔한 UI 움직임 사운드와 동기화됩니다.\n\n앰비언트: 부드러운 저음 공명이 있는 조용한 주거 공간 음향.\n폴리(Foley): 01초, 03초, 05초, 07초, 09초에 각 손 확장 및 오버레이 상태 전환에 정확히 맞춰진 날카로운 디지털 스우시(swoosh) 및 UI 스냅 효과.\n음악: 리듬과 강도가 고조되는 에너지 넘치는 일렉트로 팝/사이버펑크 신스 멜로디.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="연속 촬영 애니메이션 마스크 오버레이">
-
-**[🎬 비디오 보기 →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
-
-**작성자:** [Aryan](https://x.com/Aryan_Ali_Pro) | **출처:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **게시일:** Aug 12, 2026
-
----
-### 정원 다람쥐의 야드 세일
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 정원에서 물건을 판매하는 다람쥐를 묘사한 Gemini Omni용 기발한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-돈이 부족해진 다람쥐가 정원에서 가치 있는 물건들을 내놓고 세일을 엽니다
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="정원 다람쥐의 야드 세일">
-
-**[🎬 비디오 보기 →](https://x.com/SilverAIProject/status/2087298245747683578)**
-
-**작성자:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **출처:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **게시일:** Aug 11, 2026
-
----
-### 교활한 고양이의 음식 도둑질
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 고양이가 음식을 훔치고 주인에게 애교를 부리는 모습을 담은 Gemini Omni용 유머러스한 내러티브 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-교활한 흑백 고양이가 카멜 고양이의 음식을 몰래 훔쳐 먹으면서, 매력적인 골골송으로 여주인을 유혹하는 모습
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="교활한 고양이의 음식 도둑질">
-
-**[🎬 비디오 보기 →](https://x.com/SilverAIProject/status/2087295479335751880)**
-
-**작성자:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **출처:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **게시일:** Aug 11, 2026
-
----
-### 비즈니스 대시보드 검토
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> 비즈니스 오너가 AI 대시보드를 검토하는 모습을 담은 Gemini Omni용 사실적인 오피스 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-밝고 현대적인 사무실에서 AI 대시보드를 검토하고 있는 비즈니스 오너. 미디엄 샷. 느린 줌인. 따뜻한 자연광. 집중하는 분위기. 사실적인 스타일. 고품질 영상.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="비즈니스 대시보드 검토">
-
-**[🎬 비디오 보기 →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
-
-**작성자:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **출처:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **게시일:** Aug 11, 2026
-
----
 ---
 
 ## 📚 더 많은 프롬프트
@@ -3044,6 +3051,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-14T09:34:30.961Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-09-14T17:44:19.301Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **264** |
+| 📝 Gesamtanzahl Prompts | **268** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-14** |
 
@@ -56,6 +56,89 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Kurzvideo-Prompt für Wohltätigkeitskampagne
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein Prompt zur Erstellung eines Kurzvideos für die Heart Action Wohltätigkeitskampagne mit Papierkunst-Ästhetik.
+
+#### 📝 Prompt
+
+```
+Ein Social-Media-Kurzvideo unter 15 Sekunden.
+* Das angehängte Bild darf am Anfang nicht angezeigt werden.
+
+Thema: "#HeartAction".
+
+Ein horizontal scrollendes Story-Video, in dem eine Hauptfigur von links nach rechts über den Bildschirm bewegt wird.
+
+Die Weltansicht ist eine warme und einfache Papierwelt, die Origami, Papierschneiden, Papierhandwerk und Miniaturen kombiniert.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099322090012938240/img/mjK1l7oc931_cZLB.jpg" width="600" alt="Kurzvideo-Prompt für Wohltätigkeitskampagne">
+
+**[🎬 Video ansehen →](https://x.com/taya_mama_AI/status/2099322117233971705)**
+
+**Autor:** [た〜や｜スキマ時間×AI副業ママ](https://x.com/taya_mama_AI) | **Quelle:** [Link](https://x.com/taya_mama_AI/status/2099322117233971705) | **Veröffentlicht:** Sep 14, 2026
+
+---
+### Feder-und-Tinte-Animationsgeschichte in Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein narrativer Prompt, der eine Feder-und-Tinte-Liebesgeschichten-Animation beschreibt, erstellt mit Gemini Omni Flash 1.1, featuring spezifische Charaktere und komödiantisches Timing.
+
+#### 📝 Prompt
+
+```
+VON DER WELLE ERFASST. Eine Feder-und-Tinte-Liebesgeschichte, direkt auf kariertes Notizpapier gezeichnet: Ein Mann mit Schnurrbart rudert, eine Frau hält ihren Sonnenschirm, eine handgezeichnete Welle ruiniert den Moment, sie lachen es weg, Herzen am Ende. Erstellt von KI in Gemini Omni Flash 1.1, vollständige Skizzenanimation, Sound-Effekte inklusive, komödiantisches Timing eingebaut.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099146429348638720/img/MOgKeTovjnfx4Szr.jpg" width="600" alt="Feder-und-Tinte-Animationsgeschichte in Gemini Omni">
+
+**[🎬 Video ansehen →](https://x.com/aibabbler/status/2099146464945393794)**
+
+**Autor:** [Jo Aiba](https://x.com/aibabbler) | **Quelle:** [Link](https://x.com/aibabbler/status/2099146464945393794) | **Veröffentlicht:** Sep 13, 2026
+
+---
+### Architektonische Visualisierung einer Villa in Santorini
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt, der eine fotorealistische architektonische Visualisierung einer Klippenvilla in Santorini beschreibt, generiert von Gemini Omni 1.1 Flash.
+
+#### 📝 Prompt
+
+```
+Stiller Luxus auf den Klippen von Santorini. Eine makellose Klippenvilla, entworfen, um das endlose Blau der Ägäis zu rahmen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099145222941020160/img/s9ji-smMVqGNhyC3.jpg" width="600" alt="Architektonische Visualisierung einer Villa in Santorini">
+
+**[🎬 Video ansehen →](https://x.com/MrDasOnX/status/2099145282219020733)**
+
+**Autor:** [Mr Das](https://x.com/MrDasOnX) | **Quelle:** [Link](https://x.com/MrDasOnX/status/2099145282219020733) | **Veröffentlicht:** Sep 13, 2026
+
+---
+### Cinematic Rose Detox Water Food Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Generierung eines 10-sekündigen vertikalen, ultra-realistischen cineastischen Food-Videos über die Zubereitung von Rosen-Detox-Wasser mit Makroaufnahmen und Sounddesign.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 10-sekündiges vertikales (9:16) ultra-realistisches cineastisches Food-Video basierend auf dem Referenz-Storyboard. Zeige frische Rosenblätter, Rote Bete, Granatapfel, Karotten und Himbeeren in wunderschönen Close-up-Makroaufnahmen, mit realistischen Händen und befriedigenden Schneidebewegungen. Füge die bunten Zutaten und zarten Rosenblätter schnell in eine klare Glasflasche hinzu und schichte Rote Bete, Granatapfel, Karotten und Himbeeren natürlich übereinander. Gieße langsam frisches Sprudelwasser in die Flasche und fange schöne Blasen, Spritzer und die im Wasser wirbelnden Zutaten ein. Abschließen mit einem Premium-Makro-Hero-Shot des fertigen Rosen-Detox-Wassers, gefüllt mit lebhaften rosaroten Zutaten, schwebenden Blütenblättern, Kondenswasser und funkelnden Blasen. Verwende satte Rosarot-, Karmesin- und sanfte Pinktöne, natürliches Tageslicht, geringe Schärfentiefe, realistische Nahrungsmitteltexturen, flüssige cineastische Kamerabewegungen, sanfte Zeitlupen, elegante Übergänge und eine luxuriös-frische Ästhetik. Integriere befriedigende Geräusche wie Schneiden, das Fallenlassen von Zutaten, das Klirren von Eis und das Eingießen von Wasser. Füge elegante Textoverlays hinzu: ‘Rose Detox Water’ und ‘Glow Naturally · Feel Amazing.’
+```
+
+<img src="https://cms-assets.youmind.com/media/1789381245900_jwys99_HSGUc0yagAAOctA.jpg" width="600" alt="Cinematic Rose Detox Water Food Video Prompt">
+
+**[🎬 Video ansehen →](https://x.com/oneonelabs/status/2099143059699380331)**
+
+**Autor:** [OneOneLabs.ai](https://x.com/oneonelabs) | **Quelle:** [Link](https://x.com/oneonelabs/status/2099143059699380331) | **Veröffentlicht:** Sep 13, 2026
+
+---
 ### Filmischer Kurzfilm einer japanischen Frau
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2944,82 +3027,6 @@ Verwenden Sie das Referenzbild wie vorgegeben. Erstellen Sie eine energiegeladen
 **Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Quelle:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Veröffentlicht:** Aug 13, 2026
 
 ---
-### Kontinuierliche Anime-Masken-Überlagerung in einer Einstellung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein komplexer filmischer Video-Prompt für Gemini Omni, der eine einzige, kontinuierliche Aufnahme eines Subjekts erstellt, das durch Handgesten dynamische Anime-Gesichts-Overlays und Masken mit synchronisierten Audiobeschreibungen auslöst.
-
-#### 📝 Prompt
-
-```
-Erzeuge eine einzige, kontinuierliche Aufnahme.\n\n{ "setting": "Gemütliches, minimalistisches Innenstudio mit cremeweißen Wänden und Akzenten aus dunklem Holz", \n  "lighting": "Sanftes, diffuses, warmes Voutenlicht mit subtiler seitlicher Aufhellung", \n  "weather": "Innenraum-Ambiente", \n  "color_grade": "Warme, natürliche Töne mit kontrastreichen digitalen Overlay-Effekten" }\n\n[SUBJEKT-ANKER — visuelle Charakterbeschreibung wiederholen]:\nDer junge ostasiatische Mann mit langem, glattem, schwarzem Haar trägt eine dunkelgraue Kapuzen-Windjacke mit sichtbaren Kordelzügen.\n\n[00:00-00:02]: Der junge ostasiatische Mann in der dunkelgrauen Kapuzenjacke hält die Kordelzüge seiner Kapuze nahe am Kinn, hebt dann fließend beide Hände und spreizt die Finger, um einen scharfen, rechteckigen geometrischen Rahmen vor seinen Augen zu bilden. Innerhalb des Handrahmens erscheint sofort eine dynamische 2D-Cel-Shading-Anime-Augengrafik, die seine echten Augen überlagert.\n[00:02-00:04]: Er bewegt den Handrahmen nach unten über seine Wange und verändert den Winkel, um eine scharfe, im Manga-Stil gehaltene Augen- und Augenbrauengrafik zu enthüllen, die präzise zwischen seinen Fingern mitgeführt wird.\n[00:04-00:06]: Während er seine Hände in einer rhythmischen Bewegung nach oben führt, erscheint eine stilisierte 2D-Anime-Grafik eines lächelnden Mundes innerhalb eines neuen Handrahmens im unteren Gesichtsbereich, der sich an seinen Kopfwinkel anpasst.\n[00:06-00:08]: Er ändert seine Geste und zeigt mit den Zeigefingern diagonal über Augen- und Nasenpartie, wodurch ein dreieckiger Handrahmen entsteht, der einen lebendigen, dreieckigen Vektor-Anime-Maskenfilter über seinem oberen Gesichtsbereich anzeigt.\n[00:08-00:10]: Er dreht den dreieckigen Handrahmen fließend in den entgegengesetzten Winkel über seinen unteren Gesichtsbereich und hält dabei ein horizontales Anime-Banner-Overlay zwischen den Fingerspitzen, während der Clip endet.\n\n🎤 STIMMPERFORMANCE:\nKein gesprochener Dialog in diesem Eröffnungssegment. Die Audioperformance wird durch die rhythmische Atmosphäre des musikalischen Aufbaus bestimmt, synchronisiert mit knackigen, sauberen UI-Bewegungsgeräuschen.\n\nAmbiente: Ruhige Wohnraumakustik mit sanfter, tieffrequenter Luftresonanz.\nFoley: Scharfe digitale Swoosh- und UI-Snap-Effekte, die präzise an jede Handbewegung und jeden Overlay-Zustandswechsel bei 01s, 03s, 05s, 07s und 09s gekoppelt sind.\nMusik: Hochenergetische Electro-Pop/Cyberpunk-Synthie-Melodie, die in Rhythmus und Intensität zunimmt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Kontinuierliche Anime-Masken-Überlagerung in einer Einstellung">
-
-**[🎬 Video ansehen →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
-
-**Autor:** [Aryan](https://x.com/Aryan_Ali_Pro) | **Quelle:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **Veröffentlicht:** Aug 12, 2026
-
----
-### Garten-Flohmarkt der Eichhörnchen
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein skurriler Prompt für Gemini Omni, der ein Eichhörnchen zeigt, das einen Flohmarkt im Garten veranstaltet.
-
-#### 📝 Prompt
-
-```
-Einem Eichhörnchen geht das Geld aus, also veranstaltet es einen Flohmarkt im Garten und bietet viele wertvolle Dinge an
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Garten-Flohmarkt der Eichhörnchen">
-
-**[🎬 Video ansehen →](https://x.com/SilverAIProject/status/2087298245747683578)**
-
-**Autor:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Quelle:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **Veröffentlicht:** Aug 11, 2026
-
----
-### Der hinterlistige Futterdiebstahl der Katze
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein humorvoller narrativer Prompt für Gemini Omni über eine Katze, die Futter stiehlt und ihre Besitzerin um den Finger wickelt.
-
-#### 📝 Prompt
-
-```
-Eine schlaue schwarz-weiße Katze stiehlt heimlich das Futter einer Schildpattkatze, während sie die Hausherrin mit gewinnendem Schnurren umgarnt
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Der hinterlistige Futterdiebstahl der Katze">
-
-**[🎬 Video ansehen →](https://x.com/SilverAIProject/status/2087295479335751880)**
-
-**Autor:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Quelle:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **Veröffentlicht:** Aug 11, 2026
-
----
-### Business-Dashboard-Überprüfung
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein realistischer Office-Prompt für Gemini Omni, der einen Geschäftsinhaber bei der Überprüfung eines YouMind-Dashboards zeigt.
-
-#### 📝 Prompt
-
-```
-Ein Geschäftsinhaber überprüft ein KI-Dashboard in einem hellen, modernen Büro. Halbtotale. Langsamer Zoom. Warmes, natürliches Licht. Fokussierte Stimmung. Realistischer Stil. Hochwertiges Video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Business-Dashboard-Überprüfung">
-
-**[🎬 Video ansehen →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
-
-**Autor:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Quelle:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Veröffentlicht:** Aug 11, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3072,6 +3079,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-14T09:34:42.239Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-14T17:44:26.226Z</sub>
 
 </div>

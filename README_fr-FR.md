@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **264** |
+| 📝 Total des prompts | **268** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-09-14** |
 
@@ -56,6 +56,89 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt vidéo courte pour une association caritative
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt pour créer une vidéo courte destinée à la campagne caritative Heart Action, utilisant une esthétique de papercraft.
+
+#### 📝 Prompt
+
+```
+Une vidéo courte pour les réseaux sociaux de moins de 15 secondes.
+* Ne pas afficher l'image jointe au début.
+
+Thème : "#HeartAction".
+
+Une vidéo narrative défilant horizontalement où un protagoniste se déplace de gauche à droite à travers l'écran.
+
+L'univers visuel est un monde en papier chaleureux et simple, combinant origami, découpe de papier, papercraft et miniatures.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099322090012938240/img/mjK1l7oc931_cZLB.jpg" width="600" alt="Prompt vidéo courte pour une association caritative">
+
+**[🎬 Voir la vidéo →](https://x.com/taya_mama_AI/status/2099322117233971705)**
+
+**Auteur:** [た〜や｜スキマ時間×AI副業ママ](https://x.com/taya_mama_AI) | **Source:** [Link](https://x.com/taya_mama_AI/status/2099322117233971705) | **Publié:** Sep 14, 2026
+
+---
+### Animation à l'encre de Chine dans Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt narratif décrivant une animation d'histoire d'amour à l'encre de Chine créée avec Gemini Omni Flash 1.1, mettant en scène des personnages spécifiques et un timing comique.
+
+#### 📝 Prompt
+
+```
+EMPORTÉS PAR LA VAGUE. Une histoire d'amour à l'encre de Chine dessinée directement sur du papier ligné : un homme moustachu rame, une femme tient son ombrelle, une vague dessinée à la main gâche le moment, ils en rient, des cœurs à la fin. Créé par IA dans Gemini Omni Flash 1.1, animation complète façon croquis, effets sonores inclus, timing comique intégré.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099146429348638720/img/MOgKeTovjnfx4Szr.jpg" width="600" alt="Animation à l'encre de Chine dans Gemini Omni">
+
+**[🎬 Voir la vidéo →](https://x.com/aibabbler/status/2099146464945393794)**
+
+**Auteur:** [Jo Aiba](https://x.com/aibabbler) | **Source:** [Link](https://x.com/aibabbler/status/2099146464945393794) | **Publié:** Sep 13, 2026
+
+---
+### Visualisation architecturale de villa à Santorin
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt décrivant une visualisation architecturale photoréaliste d'une villa surplombant les falaises de Santorin, générée par Gemini Omni 1.1 Flash.
+
+#### 📝 Prompt
+
+```
+Luxe discret sur les falaises de Santorin. Une villa immaculée perchée au bord des falaises, conçue pour encadrer le bleu infini de la mer Égée.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099145222941020160/img/s9ji-smMVqGNhyC3.jpg" width="600" alt="Visualisation architecturale de villa à Santorin">
+
+**[🎬 Voir la vidéo →](https://x.com/MrDasOnX/status/2099145282219020733)**
+
+**Auteur:** [Mr Das](https://x.com/MrDasOnX) | **Source:** [Link](https://x.com/MrDasOnX/status/2099145282219020733) | **Publié:** Sep 13, 2026
+
+---
+### Prompt Vidéo Culinaire Cinématographique : Eau Détox à la Rose
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt détaillé pour générer une vidéo culinaire cinématographique ultra-réaliste de 10 secondes au format vertical, mettant en scène la préparation d'une eau détox à la rose avec des plans macro et un design sonore soigné.
+
+#### 📝 Prompt
+
+```
+Créez une vidéo culinaire cinématographique ultra-réaliste de 10 secondes au format vertical 9:16, basée sur le storyboard de référence. Montrez des pétales de rose frais, de la betterave, de la grenade, des carottes et des framboises préparés dans de superbes gros plans macro, avec des mains réalistes et des mouvements de découpe satisfaisants. Ajoutez rapidement les ingrédients colorés et les délicats pétales de rose dans une bouteille en verre transparent, en disposant naturellement la betterave, la grenade, les carottes et les framboises par couches. Versez lentement de l'eau pétillante fraîche dans la bouteille, en capturant de belles bulles, des éclaboussures et les ingrédients tourbillonnant dans l'eau. Terminez par un plan macro héroïque premium de l'Eau Détox à la Rose terminée, remplie d'ingrédients rouge rose vibrants, de pétales flottants, de condensation et de bulles scintillantes. Utilisez des tons riches rouge rose, cramoisi et rose doux, une lumière naturelle du jour, une faible profondeur de champ, des textures alimentaires réalistes, des mouvements de caméra cinématographiques fluides, un ralenti doux, des transitions élégantes et une esthétique luxueuse et fraîche. Incluez des sons satisfaisants de découpe, de chute d'ingrédients, de tintement de glaçons et de versement d'eau. Ajoutez des superpositions textuelles élégantes : « Eau Détox à la Rose » et « Rayonnez Naturellement · Sensation Extraordinaire ».
+```
+
+<img src="https://cms-assets.youmind.com/media/1789381245900_jwys99_HSGUc0yagAAOctA.jpg" width="600" alt="Prompt Vidéo Culinaire Cinématographique : Eau Détox à la Rose">
+
+**[🎬 Voir la vidéo →](https://x.com/oneonelabs/status/2099143059699380331)**
+
+**Auteur:** [OneOneLabs.ai](https://x.com/oneonelabs) | **Source:** [Link](https://x.com/oneonelabs/status/2099143059699380331) | **Publié:** Sep 13, 2026
+
+---
 ### Court-métrage cinématographique d'une femme japonaise
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2944,82 +3027,6 @@ Utilisez l'image de référence telle quelle. Créez une séquence dynamique de 
 **Auteur:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Publié:** Aug 13, 2026
 
 ---
-### Superposition de masque anime en plan-séquence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo cinématographique complexe pour Gemini Omni, créant un plan-séquence continu où un sujet utilise des gestes de la main pour déclencher des superpositions et des masques dynamiques de style anime, avec des descriptions audio synchronisées.
-
-#### 📝 Prompt
-
-```
-Générez un plan-séquence unique.\n\n{ "setting": "Studio intérieur minimaliste et chaleureux avec murs blanc cassé et accents en bois sombre", \n  "lighting": "Éclairage indirect doux et chaud avec un léger remplissage latéral", \n  "weather": "Ambiance intérieure", \n  "color_grade": "Tons naturels chauds avec des contrastes marqués pour les superpositions numériques" }\n\n[ANCRAGE DU SUJET — réitérer les descripteurs visuels du personnage] :\nLe jeune homme d'Asie de l'Est aux longs cheveux noirs raides, portant un coupe-vent à capuche gris foncé avec des cordons de serrage visibles.\n\n[00:00-00:02] : Le jeune homme d'Asie de l'Est en veste à capuche gris foncé tient les cordons de sa capuche près de son menton, puis lève les deux mains avec fluidité, écartant ses doigts pour former un cadre géométrique rectangulaire net devant ses yeux. À l'intérieur du cadre formé par les mains, un graphique d'œil anime dynamique en cel-shading 2D apparaît instantanément en superposition sur ses vrais yeux.\n[00:02-00:04] : Il déplace le cadre formé par ses mains vers le bas le long de sa joue, modifiant l'angle de cadrage pour révéler une superposition graphique d'œil et de sourcil au style manga tranchant, qui reste verrouillée entre ses doigts.\n[00:04-00:06] : En déplaçant ses mains vers le haut dans un mouvement rythmé, un graphique de bouche souriante anime 2D stylisé apparaît à l'intérieur d'un nouveau cadre formé par les mains au niveau du bas du visage, s'alignant sur l'angle de sa tête.\n[00:06-00:08] : Il restructure son geste, utilisant ses index pour pointer en diagonale à travers la zone de ses yeux et de son nez, créant un cadre triangulaire avec ses mains qui affiche un filtre de masque anime vectoriel triangulaire vif sur la partie supérieure de son visage.\n[00:08-00:10] : Il fait pivoter le cadre triangulaire de ses mains avec fluidité vers l'angle opposé sur le bas de son visage, maintenant une bannière d'illustration anime horizontale entre le bout de ses doigts jusqu'à la fin du clip.\n\n🎤 PERFORMANCE VOCALE :\nAucun dialogue parlé dans ce segment d'ouverture. La performance audio est ancrée par l'atmosphère rythmée de la montée en puissance musicale, synchronisée avec des sons de mouvement d'interface utilisateur nets et précis.\n\nAmbiance : Acoustique calme d'une pièce résidentielle avec une douce résonance d'air dans les basses fréquences.\nFoley : Effets de « swoosh » numérique et de « snap » d'interface verrouillés précisément sur chaque extension de main et changement d'état de superposition à 01s, 03s, 05s, 07s et 09s.\nMusique : Mélodie synthé électro-pop/cyberpunk à haute énergie, montant en rythme et en intensité.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Superposition de masque anime en plan-séquence">
-
-**[🎬 Voir la vidéo →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
-
-**Auteur:** [Aryan](https://x.com/Aryan_Ali_Pro) | **Source:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **Publié:** Aug 12, 2026
-
----
-### Vide-grenier de l'écureuil du jardin
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt fantaisiste pour Gemini Omni représentant un écureuil organisant une vente dans un jardin.
-
-#### 📝 Prompt
-
-```
-À court d'argent, un écureuil organise une vente dans son jardin et propose de nombreux objets de valeur
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Vide-grenier de l'écureuil du jardin">
-
-**[🎬 Voir la vidéo →](https://x.com/SilverAIProject/status/2087298245747683578)**
-
-**Auteur:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Source:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **Publié:** Aug 11, 2026
-
----
-### Le chat chapardeur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt narratif humoristique pour Gemini Omni mettant en scène un chat qui vole de la nourriture tout en charmant sa propriétaire.
-
-#### 📝 Prompt
-
-```
-Un chat noir et blanc rusé qui dérobe discrètement la nourriture d'un chat écaille de tortue tout en séduisant la maîtresse de maison avec ses ronronnements irrésistibles
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Le chat chapardeur">
-
-**[🎬 Voir la vidéo →](https://x.com/SilverAIProject/status/2087295479335751880)**
-
-**Auteur:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Source:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **Publié:** Aug 11, 2026
-
----
-### Examen du tableau de bord professionnel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de bureau réaliste pour Gemini Omni montrant un chef d'entreprise examinant un tableau de bord IA.
-
-#### 📝 Prompt
-
-```
-Un chef d'entreprise examinant un tableau de bord IA dans un bureau moderne et lumineux. Plan moyen. Zoom lent. Éclairage naturel chaleureux. Ambiance concentrée. Style réaliste. Vidéo de haute qualité.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="Examen du tableau de bord professionnel">
-
-**[🎬 Voir la vidéo →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
-
-**Auteur:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Source:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Publié:** Aug 11, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -3072,6 +3079,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-14T09:34:43.542Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-14T17:44:27.447Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **264** |
+| 📝 Toplam İstem | **268** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-14** |
 
@@ -56,6 +56,89 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Hayır Kurumu İçin Kısa Video İstemi
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Heart Action hayır kampanyası için kağıt işçiliği estetiğini kullanarak kısa video oluşturmak amacıyla hazırlanmış bir istem.
+
+#### 📝 İstem
+
+```
+15 saniyenin altında sosyal medya kısa videosu.
+* Başlangıçta ekli görsel gösterilmemeli.
+
+Tema: "#HeartAction".
+
+Bir ana karakterin ekran üzerinde soldan sağa doğru hareket ettiği, yatay kaydırmalı hikaye videosu.
+
+Dünya görünümü; origami, kağıt kesme sanatı, kağıt el işleri ve minyatürlerin birleştiği sıcak ve sade bir kağıt dünyasıdır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099322090012938240/img/mjK1l7oc931_cZLB.jpg" width="600" alt="Hayır Kurumu İçin Kısa Video İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/taya_mama_AI/status/2099322117233971705)**
+
+**Yazar:** [た〜や｜スキマ時間×AI副業ママ](https://x.com/taya_mama_AI) | **Kaynak:** [Link](https://x.com/taya_mama_AI/status/2099322117233971705) | **Yayınlandı:** Sep 14, 2026
+
+---
+### Gemini Omni'de Mürekkep Çizimi Animasyon Hikayesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Belirli karakterleri ve komik zamanlamayı içeren, Gemini Omni Flash 1.1 ile oluşturulmuş bir mürekkep çizimi aşk hikayesi animasyonunu anlatan bir senaryo istemi.
+
+#### 📝 İstem
+
+```
+DALGAYA KAPILMAK. Çizgili defter kağıdı üzerine doğrudan çizilmiş bir mürekkep aşk hikayesi: Bıyıklı bir adam kürek çekiyor, bir kadın şemsiyesini tutuyor, elle çizilmiş tek bir dalga o anı mahvediyor, gülmeye başlıyorlar ve sonunda kalpler beliriyor. Gemini Omni Flash 1.1 tarafından yapay zeka ile oluşturuldu, tam taslak animasyonu, ses efektleri dahil, komik zamanlama entegre edildi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099146429348638720/img/MOgKeTovjnfx4Szr.jpg" width="600" alt="Gemini Omni'de Mürekkep Çizimi Animasyon Hikayesi">
+
+**[🎬 Videoyu izle →](https://x.com/aibabbler/status/2099146464945393794)**
+
+**Yazar:** [Jo Aiba](https://x.com/aibabbler) | **Kaynak:** [Link](https://x.com/aibabbler/status/2099146464945393794) | **Yayınlandı:** Sep 13, 2026
+
+---
+### Santorini Villa Mimari Görselleştirme
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni 1.1 Flash tarafından oluşturulan, Santorini'deki uçurum kenarı villanın fotogerçekçi mimari görselleştirmesini tanımlayan bir istem.
+
+#### 📝 İstem
+
+```
+Santorini'nin uçurumlarında sessiz lüks. Sonsuz Ege maviliğini çerçeveleyen, bakir bir uçurum kenarı villa tasarımı.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099145222941020160/img/s9ji-smMVqGNhyC3.jpg" width="600" alt="Santorini Villa Mimari Görselleştirme">
+
+**[🎬 Videoyu izle →](https://x.com/MrDasOnX/status/2099145282219020733)**
+
+**Yazar:** [Mr Das](https://x.com/MrDasOnX) | **Kaynak:** [Link](https://x.com/MrDasOnX/status/2099145282219020733) | **Yayınlandı:** Sep 13, 2026
+
+---
+### Sinematik Gül Detoks Suyu Gıda Videosu İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Makro çekimler ve ses tasarımı içeren gül detoks suyu hazırlığını gösteren, 10 saniyelik dikey ultra gerçekçi sinematik gıda videosu oluşturmak için ayrıntılı bir istem.
+
+#### 📝 İstem
+
+```
+Referans storyboard'a dayanarak 10 saniyelik, 9:16 dikey, ultra gerçekçi sinematik bir gıda videosu oluşturun. Taze gül yaprakları, pancar, nar, havuç ve ahududunun, gerçekçi eller ve tatmin edici kesim hareketleriyle güzel yakın plan makro çekimlerde hazırlandığını gösterin. Renkli malzemeleri ve zarif gül yapraklarını şeffaf bir cam şişeye hızlıca ekleyin; pancarı, narı, havucu ve ahududuyu doğal katmanlar halinde yerleştirin. Şişeye taze gazlı su yavaşça dökün; güzel kabarcıkları, sıçramaları ve suda dönen malzemeleri yakalayın. Canlı gül kırmızısı tonlardaki malzemelerle dolu, yüzen yapraklar, yoğuşma ve parlayan kabarcıklar içeren tamamlanmış Gül Detoks Suyu'nun premium makro ana çekimiyle bitirin. Zengin gül kırmızısı, bordo ve yumuşak pembe tonları, doğal gün ışığı, sığ alan derinliği, gerçekçi gıda dokuları, akıcı sinematik kamera hareketleri, nazik ağır çekim, zarif geçişler ve lüks, taze bir estetik kullanın. Tatmin edici kesme, malzeme düşme, buz şıngırtısı ve su dökülme seslerini dahil edin. Zarif metin kaplamaları ekleyin: 'Gül Detoks Suyu' ve 'Doğal Işıltı · Harika Hisset.'
+```
+
+<img src="https://cms-assets.youmind.com/media/1789381245900_jwys99_HSGUc0yagAAOctA.jpg" width="600" alt="Sinematik Gül Detoks Suyu Gıda Videosu İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/oneonelabs/status/2099143059699380331)**
+
+**Yazar:** [OneOneLabs.ai](https://x.com/oneonelabs) | **Kaynak:** [Link](https://x.com/oneonelabs/status/2099143059699380331) | **Yayınlandı:** Sep 13, 2026
+
+---
 ### Sinematik Japon Kadın Kısa Filmi
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2944,82 +3027,6 @@ Referans görseli olduğu gibi kullanın. Genç, Japon, profesyonel bir erkek bo
 **Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Yayınlandı:** Aug 13, 2026
 
 ---
-### Kesintisiz Çekim Anime Maskesi Katmanı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için, kullanıcının el hareketlerini kullanarak dinamik anime tarzı yüz katmanlarını ve senkronize ses betimlemeleriyle maskeleri tetiklediği, tek bir kesintisiz çekim oluşturan karmaşık bir sinematik video istemi.
-
-#### 📝 İstem
-
-```
-Tek bir kesintisiz çekim oluştur.\n\n{ "mekan": "Kırık beyaz duvarlara ve koyu ahşap detaylara sahip, rahat ve minimalist bir iç mekan stüdyosu", \n  "ışıklandırma": "Hafif, yumuşak ve sıcak gizli aydınlatma ile ince yan dolgu ışığı", \n  "hava_durumu": "İç mekan ortamı", \n  "renk_derecelendirmesi": "Yüksek kontrastlı dijital katman patlamalarıyla sıcak doğal tonlar" }\n\n[ÖZNE ÇAPASI — karakter görsel betimlemelerini yineleyin]:\nKoyu gri, kapüşonlu ve görünür büzgü ipleri olan bir rüzgarlık giyen, uzun düz siyah saçlı genç Doğu Asyalı erkek.\n\n[00:00-00:02]: Koyu gri kapüşonlu ceket içindeki genç Doğu Asyalı erkek, kapüşon büzgü iplerini çenesinin yakınında tutar, ardından ellerini pürüzsüzce kaldırarak parmaklarını gözlerinin önünde net, dikdörtgen geometrik bir çerçeve oluşturacak şekilde açar. El çerçevesinin içinde, dinamik bir 2D cel-shaded anime göz grafiği anında belirerek gerçek gözlerinin üzerine biner.\n[00:02-00:04]: El çerçevesini yanağı boyunca aşağı doğru kaydırarak, parmakları arasında kilitli kalan keskin, manga tarzı bir göz ve kaş grafiği katmanını ortaya çıkarmak için çerçeveleme açısını değiştirir.\n[00:04-00:06]: Ellerini ritmik bir hareketle yukarı doğru hareket ettirdiğinde, baş açısıyla eşleşen yeni bir alt yüz el kesme çerçevesi içinde stilize edilmiş 2D anime gülümseyen ağız grafiği belirir.\n[00:06-00:08]: Hareketini yeniden yapılandırarak, işaret parmaklarını göz ve burun bölgesinde çapraz olarak tutar ve üst yüzünde canlı, üçgen bir vektör anime maskesi filtresi görüntüleyen üçgen bir el çerçevesi oluşturur.\n[00:08-00:10]: Üçgen el çerçevesini pürüzsüzce alt yüzünün üzerine, zıt açıya çevirir ve klip devam ederken parmak uçları arasında yatay bir anime çizim şeridi katmanı tutar.\n\n🎤 SES PERFORMANSI:\nBu açılış bölümünde konuşma diyaloğu yoktur. Ses performansı, net ve keskin kullanıcı arayüzü hareket sesleriyle senkronize edilmiş, ritmik müzikal yükselişin atmosferiyle desteklenmiştir.\n\nOrtam: Hafif düşük frekanslı hava rezonansına sahip sessiz konut odası akustiği.\nFoley: 01., 03., 05., 07. ve 09. saniyelerdeki her el açılımına ve katman durumu değişimine tam olarak kilitlenmiş keskin dijital vınlama ve kullanıcı arayüzü tıklama efektleri.\nMüzik: Ritim ve yoğunluk açısından yükselen, yüksek enerjili elektro-pop/siberpunk synth melodisi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087537509689589761/img/fjFAKbay1mK1oHFH.jpg" width="600" alt="Kesintisiz Çekim Anime Maskesi Katmanı">
-
-**[🎬 Videoyu izle →](https://x.com/Aryan_Ali_Pro/status/2087538446231359677)**
-
-**Yazar:** [Aryan](https://x.com/Aryan_Ali_Pro) | **Kaynak:** [Link](https://x.com/Aryan_Ali_Pro/status/2087538446231359677) | **Yayınlandı:** Aug 12, 2026
-
----
-### Bahçede Sincap Garaj Satışı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için, bir bahçede satış yapan sincabı konu alan eğlenceli bir istem.
-
-#### 📝 İstem
-
-```
-Parası biten sincap, bahçesinde birçok değerli eşyayı satışa çıkarıyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087298108262658048/img/x2T901oLmndbxqsi.jpg" width="600" alt="Bahçede Sincap Garaj Satışı">
-
-**[🎬 Videoyu izle →](https://x.com/SilverAIProject/status/2087298245747683578)**
-
-**Yazar:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Kaynak:** [Link](https://x.com/SilverAIProject/status/2087298245747683578) | **Yayınlandı:** Aug 11, 2026
-
----
-### Sinsi Kedi Mama Hırsızlığı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Yemek çalan ve sahibini büyüleyen bir kediyi konu alan, Gemini Omni için eğlenceli bir anlatım istemi.
-
-#### 📝 İstem
-
-```
-Sinsi siyah beyaz kedi, tekir kedinin mamasını gizlice çalarken bir yandan da kazanan mırıltılarıyla evin hanımını baştan çıkarıyor
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087295245859872768/img/EdqoX8Mcykv2W6Wz.jpg" width="600" alt="Sinsi Kedi Mama Hırsızlığı">
-
-**[🎬 Videoyu izle →](https://x.com/SilverAIProject/status/2087295479335751880)**
-
-**Yazar:** [The Silver AI Project - free AI training materials](https://x.com/SilverAIProject) | **Kaynak:** [Link](https://x.com/SilverAIProject/status/2087295479335751880) | **Yayınlandı:** Aug 11, 2026
-
----
-### İş Paneli İncelemesi
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir işletme sahibinin YouMind yapay zeka panelini incelediğini gösteren, Gemini Omni için gerçekçi bir ofis istemi.
-
-#### 📝 İstem
-
-```
-Aydınlık ve modern bir ofiste yapay zeka panelini inceleyen bir işletme sahibi. Orta ölçekli çekim. Yavaş yakınlaştırma. Sıcak doğal ışık. Odaklanmış bir atmosfer. Gerçekçi tarz. Yüksek kaliteli video.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087234668206972928/img/q-AVHgzwHB44c0Vu.jpg" width="600" alt="İş Paneli İncelemesi">
-
-**[🎬 Videoyu izle →](https://x.com/JulianGoldieSEO/status/2087235511232635032)**
-
-**Yazar:** [Julian Goldie SEO](https://x.com/JulianGoldieSEO) | **Kaynak:** [Link](https://x.com/JulianGoldieSEO/status/2087235511232635032) | **Yayınlandı:** Aug 11, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3072,6 +3079,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-14T09:34:49.405Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-14T17:44:33.871Z</sub>
 
 </div>
