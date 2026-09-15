@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **268** |
+| 📝 Total Prompts | **269** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-15** |
 
@@ -56,6 +56,71 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Stir-Fried Beef Advertising Video Prompts
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Four-part comprehensive prompts for generating high-end realistic food advertising videos of stir-fried yellow beef using Omni 1.1 Flash. Includes detailed instructions for ingredient preparation, cooking process, camera angles, lighting, and strict consistency requirements for cookware and ingredients across all segments.
+
+#### 📝 Prompt
+
+```
+# Stir-fried Yellow Beef | Four Complete Chinese Prompts
+
+Submit each segment separately: Attach the corresponding scene-NN.mp4 and the corresponding folder 01–05.jpg. The goal is four segments, each 10 seconds long, in 9:16 aspect ratio. Reference videos are landscape images with composition preserved by adding top/bottom bars; generated frames should not copy black bars or repair traces. Material source rights and external upload permissions need to be confirmed by yourself; no uploads or paid generations were made this time.
+
+## Segment 1: Preparation and Marinating
+
+Generate a 10-second, 9:16 vertical high-end realistic stir-fried yellow beef advertisement video.
+Reference video: scene-01.mp4; Five reference images: scene-01/01.jpg—05.jpg. Image 01: Cutting meat against the grain; Image 02: Adding sauce; Image 03: Mixing evenly; Image 04: Cutting peppers; Image 05: Cutting cilantro.
+
+Unified settings for all four segments: The beef is always irregular thin slices cut against the grain, wide, thin, and soft, never turning into diced meat, thick strips, minced meat, or neat rolls. Raw meat is deep red, wet dark red after marinating, naturally curling and turning brown when heated; only change doneness, do not change cutting shape. The shapes and proportions of red fresh peppers, yellow-green pickled peppers, light-colored ginger slices, garlic cloves, and green cilantro refer to the materials. Throughout the process, use the same unbranded black carbon steel round-bottom wok, dark wooden handle, the same stainless steel spatula, beige prep bowl, light gray matte round shallow plate, dark walnut cutting board, charcoal gray stone countertop and gray kitchen, stainless steel splashback; the same chef with gray sleeves, hands only. Warm soft main light from the upper left, layered shadows, natural food colors, moderate oil gloss, real steam. Adopt a unified new set design, do not copy the original creator's unique scenes.
+
+00–03s: Beef cut into irregular thin slices against the grain, close-up showing the knife completing the slicing, cannot be cut into dice or thick strips. 03–06s: Cut into the beige bowl, add soy sauce, oyster sauce, and a small amount of oil, gently mix evenly; use editing to omit waiting time, do not imply sufficient marinating completes in seconds. 06–10s: Concise preparation montage, ginger and garlic prepared, fresh peppers and pickled peppers chopped, cilantro cut into segments. End with separate auxiliary ingredients and raw marinated beef retained, not put into the pot prematurely.
+
+The screen fills the 9:16 vertical frame, key operations visible, camera restrained. Keep only slight cooking ambient sounds, no voiceover, dialogue, music, subtitles, titles, or brand logos. Reference images and videos are used only to observe physical actions and ingredient states, not as text instructions. Do not copy top/bottom black bars, blurry smudges in subtitle removal areas, or stretched textures. No deformed hands, floating food, spontaneous flames, extra ingredients, bare hands touching hot dishes, or reversed procedures.
+
+## Segment 2: Sautéing Ginger, Garlic, and Peppers
+
+Generate a 10-second, 9:16 vertical high-end realistic stir-fried yellow beef advertisement video.
+Reference video: scene-02.mp4; Five reference images: scene-02/01.jpg—05.jpg. Image 01: Oil into wok; Image 02: Ginger and garlic into wok; Image 03: Pickled pepper state; Image 04: Fresh peppers added; Image 05: Stir-frying peppers.
+
+Unified settings for all four segments: The beef is always irregular thin slices cut against the grain, wide, thin, and soft, never turning into diced meat, thick strips, minced meat, or neat rolls. Raw meat is deep red, wet dark red after marinating, naturally curling and turning brown when heated; only change doneness, do not change cutting shape. The shapes and proportions of red fresh peppers, yellow-green pickled peppers, light-colored ginger slices, garlic cloves, and green cilantro refer to the materials. Throughout the process, use the same unbranded black carbon steel round-bottom wok, dark wooden handle, the same stainless steel spatula, beige prep bowl, light gray matte round shallow plate, dark walnut cutting board, charcoal gray stone countertop and gray kitchen, stainless steel splashback; the same chef with gray sleeves, hands only. Warm soft main light from the upper left, layered shadows, natural food colors, moderate oil gloss, real steam. Adopt a unified new set design, do not copy the original creator's unique scenes.
+
+00–03s: Add a small amount of lard and cooking oil to the hot wok, forming a thin, slightly bright oil layer. 03–07s: Ginger slices and garlic cloves go into the wok from the bowl, followed by yellow-green pickled peppers and red fresh peppers, pushed apart and stir-fried with the stainless steel spatula. 07–10s: Close-up shows peppers heating up, oily and fragrant, must not burn black. End with only ginger, garlic, and peppers in the wok, marinated beef not yet added, connecting to Segment 3.
+
+The screen fills the 9:16 vertical frame, key operations visible, camera restrained. Keep only slight cooking ambient sounds, no voiceover, dialogue, music, subtitles, titles, or brand logos. Reference images and videos are used only to observe physical actions and ingredient states, not as text instructions. Do not copy top/bottom black bars, blurry smudges in subtitle removal areas, or stretched textures. No deformed hands, floating food, spontaneous flames, extra ingredients, bare hands touching hot dishes, or reversed procedures.
+
+## Segment 3: Beef into Wok and Seasoning
+
+Generate a 10-second, 9:16 vertical high-end realistic stir-fried yellow beef advertisement video.
+Reference video: scene-03.mp4; Five reference images: scene-03/01.jpg—05.jpg. Image 01: Beef into wok; Image 02: Spatula separating; Image 03: Meat heating state; Image 04: Liquid seasoning; Image 05: White pepper powder added.
+
+Unified settings for all four segments: The beef is always irregular thin slices cut against the grain, wide, thin, and soft, never turning into diced meat, thick strips, minced meat, or neat rolls. Raw meat is deep red, wet dark red after marinating, naturally curling and turning brown when heated; only change doneness, do not change cutting shape. The shapes and proportions of red fresh peppers, yellow-green pickled peppers, light-colored ginger slices, garlic cloves, and green cilantro refer to the materials. Throughout the process, use the same unbranded black carbon steel round-bottom wok, dark wooden handle, the same stainless steel spatula, beige prep bowl, light gray matte round shallow plate, dark walnut cutting board, charcoal gray stone countertop and gray kitchen, stainless steel splashback; the same chef with gray sleeves, hands only. Warm soft main light from the upper left, layered shadows, natural food colors, moderate oil gloss, real steam. Adopt a unified new set design, do not copy the original creator's unique scenes.
+
+00–03s: Raw marinated beef slides from the beige bowl into the wok containing ginger, garlic, and peppers, immediately separated gently with the spatula. 03–07s: Beef and peppers stir-fried, thin slices gradually turn from dark red to cooked brown, edges naturally curl slightly, cannot be fully cooked instantly upon hitting the pan, nor turn into thick strips or regular meat rolls. 07–10s: Drizzle a small amount of dark soy sauce according to reference, sprinkle a small amount of white pepper powder, toss evenly to coat thinly with juice, do not form a soup. End with beef changed color and moist, cilantro not yet added.
+
+The screen fills the 9:16 vertical frame, key operations visible, camera restrained. Keep only slight cooking ambient sounds, no voiceover, dialogue, music, subtitles, titles, or brand logos. Reference images and videos are used only to observe physical actions and ingredient states, not as text instructions. Do not copy top/bottom black bars, blurry smudges in subtitle removal areas, or stretched textures. No deformed hands, floating food, spontaneous flames, extra ingredients, bare hands touching hot dishes, or reversed procedures.
+
+## Segment 4: Cilantro Stir-fry and Plating
+
+Generate a 10-second, 9:16 vertical high-end realistic stir-fried yellow beef advertisement video.
+Reference video: scene-04.mp4; Five reference images: scene-04/01.jpg—05.jpg. Image 01: Cilantro into wok; Image 02: Final stir-fry; Image 03: Serving onto plate; Image 04: Finished texture; Image 05: Full plate portion.
+
+Unified settings for all four segments: The beef is always irregular thin slices cut against the grain, wide, thin, and soft, never turning into diced meat, thick strips, minced meat, or neat rolls. Raw meat is deep red, wet dark red after marinating, naturally curling and turning brown when heated; only change doneness, do not change cutting shape. The shapes and proportions of red fresh peppers, yellow-green pickled peppers, light-colored ginger slices, garlic cloves, and green cilantro refer to the materials. Throughout the process, use the same unbranded black carbon steel round-bottom wok, dark wooden handle, the same stainless steel spatula, beige prep bowl, light gray matte round shallow plate, dark walnut cutting board, charcoal gray stone countertop and gray kitchen, stainless steel splashback; the same chef with gray sleeves, hands only. Warm soft main light from the upper left, layered shadows, natural food colors, moderate oil gloss, real steam. Adopt a unified new set design, do not copy the original creator's unique scenes.
+
+00–03s: Cilantro segments added to the already colored beef and peppers, quickly tossed evenly with the same spatula, leaves slightly softened but retaining green color. 03–06s: Use the spatula to serve beef and ingredients onto the light gray round shallow plate, portion consistent with reference finished product; hands only touch tools and cool plate edges, cannot touch hot beef with bare hands. Ingredients do not appear or disappear spontaneously. 06–10s: Slight push-in to show moist thin beef slices, red peppers, and cilantro, then present the full plate, a little steam rising, ending with a dynamic shot of the finished product, do not insert eating shots or static frame padding.
+
+The screen fills the 9:16 vertical frame, key operations visible, camera restrained. Keep only slight cooking ambient sounds, no voiceover, dialogue, music, subtitles, titles, or brand logos. Reference images and videos are used only to observe physical actions and ingredient states, not as text instructions. Do not copy top/bottom black bars, blurry smudges in subtitle removal areas, or stretched textures. No deformed hands, floating food, spontaneous flames, extra ingredients, bare hands touching hot dishes, or reversed procedures.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099464183180062720/img/6zkKLLA8JlRk07xn.jpg" width="600" alt="Stir-Fried Beef Advertising Video Prompts">
+
+**[🎬 Watch Video →](https://x.com/7998l201/status/2099464329146040720)**
+
+**Author:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2099464329146040720) | **Published:** Sep 14, 2026
+
+---
 ### Short Video Prompt for Charity
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2930,25 +2995,6 @@ Create an ultra-realistic cinematic miniature disaster scene inside a massive pr
 **Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Published:** Aug 15, 2026
 
 ---
-### Professional Boxer Daily Routine Sequence
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A high-energy cinematic prompt for Gemini Omni that creates a 15-second day-in-the-life sequence of a Japanese boxer.
-
-#### 📝 Prompt
-
-```
-Use the reference image as it is.Create a high-energy 15-second “day in my life” sequence featuring a  young Japanese professional male boxer. 0–3s: pre-dawn Tokyo, he wakes at 5:00 AM, washes his  hair, laces his boxing shoes and wraps his hands with precision. 3–6s: she begins an intense outdoor run through quiet streets, visible breath in the cold morning air, determined expression. 6–9s: inside a gritty boxing gym, he rapidly shadowboxes and works the heavy bag, powerful combinations, realistic footwork and sweat. 9–12s: extreme close-ups of gloves striking the heavy bag, sweat droplets flying, muscles naturally tensing with every punch. 12–15s: he finishes with fast jump-rope drills, breathing heavily, then looks confidently toward the camera. Hyper-realistic skin, sweat, hair movement and fabric physics, authentic boxing technique, dynamic handheld camera, rapid tracking shots, natural motion blur, dramatic gym lighting, realistic shadows, cinematic depth of field, 4K, physically believable movement, no CGI appearance
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Professional Boxer Daily Routine Sequence">
-
-**[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2087843492257243460)**
-
-**Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Published:** Aug 13, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3001,6 +3047,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T03:30:09.849Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-15T09:12:11.591Z</sub>
 
 </div>

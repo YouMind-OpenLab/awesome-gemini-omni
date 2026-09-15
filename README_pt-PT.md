@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **268** |
+| 📝 Total de prompts | **269** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-09-15** |
 
@@ -56,6 +56,71 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompts para Vídeo Publicitário de Carne Bovina Salteada
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompts abrangentes em quatro partes para gerar vídeos publicitários realistas e de alta qualidade de carne bovina amarela salteada usando o Omni 1.1 Flash. Inclui instruções detalhadas sobre preparação dos ingredientes, processo de cozimento, ângulos de câmera, iluminação e requisitos rigorosos de consistência para utensílios e ingredientes em todos os segmentos.
+
+#### 📝 Prompt
+
+```
+# Carne Bovina Amarela Salteada | Quatro Prompts Completos
+
+Envie cada segmento separadamente: Anexe o arquivo scene-NN.mp4 correspondente e a pasta com as imagens 01–05.jpg. O objetivo são quatro segmentos, cada um com 10 segundos de duração, na proporção de aspecto 9:16. Os vídeos de referência são imagens paisagísticas cuja composição é preservada adicionando barras superior/inferior; os quadros gerados não devem copiar as barras pretas nem rastros de reparo. Os direitos sobre a fonte do material e as permissões de upload externo precisam ser confirmados por você; nenhum upload ou geração paga foi realizado desta vez.
+
+## Segmento 1: Preparação e Marinada
+
+Gere um vídeo publicitário realista de alta qualidade de carne bovina amarela salteada, vertical 9:16, com 10 segundos de duração.
+Vídeo de referência: scene-01.mp4; Cinco imagens de referência: scene-01/01.jpg—05.jpg. Imagem 01: Cortar a carne contra a fibra; Imagem 02: Adicionar molho; Imagem 03: Misturar uniformemente; Imagem 04: Cortar pimentões; Imagem 05: Cortar coentro.
+
+Configurações unificadas para todos os quatro segmentos: A carne deve ser sempre fatias finas irregulares cortadas contra a fibra, largas, finas e macias, nunca transformando-se em cubos, tiras grossas, carne moída ou rolos organizados. A carne crua é vermelho intenso, torna-se vermelho escuro úmido após a marinada, enrolando-se naturalmente e mudando para marrom ao ser aquecida; altere apenas o ponto de cozimento, não mude a forma do corte. As formas e proporções dos pimentões frescos vermelhos, pimentões em conserva amarelo-esverdeados, fatias de gengibre claras, dentes de alho e coentro verde referem-se aos materiais. Durante todo o processo, use a mesma wok redonda preta de aço carbono sem marca, cabo de madeira escura, a mesma espátula de aço inoxidável, tigela de preparo bege, prato raso redondo fosco cinza claro, tábua de corte de nogueira escura, bancada de pedra cinza carvão e cozinha cinza, painel traseiro de aço inoxidável; o mesmo chef com mangas cinzas, apenas mãos visíveis. Luz principal quente e suave vinda do canto superior esquerdo, sombras em camadas, cores naturais dos alimentos, brilho moderado de óleo, vapor real. Adote um novo design de cenário unificado, não copie as cenas únicas do criador original.
+
+00–03s: A carne é cortada em fatias finas irregulares contra a fibra, close-up mostrando a faca completando o corte, não pode ser cortada em cubos ou tiras grossas. 03–06s: Colocada na tigela bege, adicionar molho de soja, molho de ostra e uma pequena quantidade de óleo, misturar suavemente até ficar uniforme; use edição para omitir o tempo de espera, não implique que a marinada completa seja suficiente em segundos. 06–10s: Montagem concisa de preparação, gengibre e alho preparados, pimentões frescos e em conserva picados, coentro cortado em pedaços. Termine com os ingredientes auxiliares separados e a carne crua marinada retida, não colocada na panela prematuramente.
+
+A tela preenche o quadro vertical 9:16, operações principais visíveis, câmera contida. Mantenha apenas sons ambientes leves de cozimento, sem narração, diálogo, música, legendas, títulos ou logotipos de marcas. As imagens e vídeos de referência são usados apenas para observar ações físicas e estados dos ingredientes, não como instruções textuais. Não copie barras pretas superiores/inferiores, borrões em áreas de remoção de legendas ou texturas esticadas. Sem mãos deformadas, comida flutuante, chamas espontâneas, ingredientes extras, mãos nuas tocando pratos quentes ou procedimentos invertidos.
+
+## Segmento 2: Refogar Gengibre, Alho e Pimentões
+
+Gere um vídeo publicitário realista de alta qualidade de carne bovina amarela salteada, vertical 9:16, com 10 segundos de duração.
+Vídeo de referência: scene-02.mp4; Cinco imagens de referência: scene-02/01.jpg—05.jpg. Imagem 01: Óleo na wok; Imagem 02: Gengibre e alho na wok; Imagem 03: Estado dos pimentões em conserva; Imagem 04: Pimentões frescos adicionados; Imagem 05: Refogando pimentões.
+
+Configurações unificadas para todos os quatro segmentos: A carne deve ser sempre fatias finas irregulares cortadas contra a fibra, largas, finas e macias, nunca transformando-se em cubos, tiras grossas, carne moída ou rolos organizados. A carne crua é vermelho intenso, torna-se vermelho escuro úmido após a marinada, enrolando-se naturalmente e mudando para marrom ao ser aquecida; altere apenas o ponto de cozimento, não mude a forma do corte. As formas e proporções dos pimentões frescos vermelhos, pimentões em conserva amarelo-esverdeados, fatias de gengibre claras, dentes de alho e coentro verde referem-se aos materiais. Durante todo o processo, use a mesma wok redonda preta de aço carbono sem marca, cabo de madeira escura, a mesma espátula de aço inoxidável, tigela de preparo bege, prato raso redondo fosco cinza claro, tábua de corte de nogueira escura, bancada de pedra cinza carvão e cozinha cinza, painel traseiro de aço inoxidável; o mesmo chef com mangas cinzas, apenas mãos visíveis. Luz principal quente e suave vinda do canto superior esquerdo, sombras em camadas, cores naturais dos alimentos, brilho moderado de óleo, vapor real. Adote um novo design de cenário unificado, não copie as cenas únicas do criador original.
+
+00–03s: Adicione uma pequena quantidade de banha e óleo de cozinha à wok quente, formando uma camada fina de óleo ligeiramente brilhante. 03–07s: Fatias de gengibre e dentes de alho entram na wok vindos da tigela, seguidos pelos pimentões em conserva amarelo-esverdeados e pimentões frescos vermelhos, afastados e refogados com a espátula de aço inoxidável. 07–10s: Close-up mostra os pimentões aquecendo, oleosos e aromáticos, não devem queimar preto. Termine com apenas gengibre, alho e pimentões na wok, a carne marinada ainda não adicionada, conectando ao Segmento 3.
+
+A tela preenche o quadro vertical 9:16, operações principais visíveis, câmera contida. Mantenha apenas sons ambientes leves de cozimento, sem narração, diálogo, música, legendas, títulos ou logotipos de marcas. As imagens e vídeos de referência são usados apenas para observar ações físicas e estados dos ingredientes, não como instruções textuais. Não copie barras pretas superiores/inferiores, borrões em áreas de remoção de legendas ou texturas esticadas. Sem mãos deformadas, comida flutuante, chamas espontâneas, ingredientes extras, mãos nuas tocando pratos quentes ou procedimentos invertidos.
+
+## Segmento 3: Carne na Wok e Tempero
+
+Gere um vídeo publicitário realista de alta qualidade de carne bovina amarela salteada, vertical 9:16, com 10 segundos de duração.
+Vídeo de referência: scene-03.mp4; Cinco imagens de referência: scene-03/01.jpg—05.jpg. Imagem 01: Carne na wok; Imagem 02: Espátula separando; Imagem 03: Estado de aquecimento da carne; Imagem 04: Tempero líquido; Imagem 05: Adição de pimenta branca em pó.
+
+Configurações unificadas para todos os quatro segmentos: A carne deve ser sempre fatias finas irregulares cortadas contra a fibra, largas, finas e macias, nunca transformando-se em cubos, tiras grossas, carne moída ou rolos organizados. A carne crua é vermelho intenso, torna-se vermelho escuro úmido após a marinada, enrolando-se naturalmente e mudando para marrom ao ser aquecida; altere apenas o ponto de cozimento, não mude a forma do corte. As formas e proporções dos pimentões frescos vermelhos, pimentões em conserva amarelo-esverdeados, fatias de gengibre claras, dentes de alho e coentro verde referem-se aos materiais. Durante todo o processo, use a mesma wok redonda preta de aço carbono sem marca, cabo de madeira escura, a mesma espátula de aço inoxidável, tigela de preparo bege, prato raso redondo fosco cinza claro, tábua de corte de nogueira escura, bancada de pedra cinza carvão e cozinha cinza, painel traseiro de aço inoxidável; o mesmo chef com mangas cinzas, apenas mãos visíveis. Luz principal quente e suave vinda do canto superior esquerdo, sombras em camadas, cores naturais dos alimentos, brilho moderado de óleo, vapor real. Adote um novo design de cenário unificado, não copie as cenas únicas do criador original.
+
+00–03s: A carne crua marinada desliza da tigela bege para a wok contendo gengibre, alho e pimentões, sendo imediatamente separada suavemente com a espátula. 03–07s: A carne e os pimentões são refogados, as fatias finas gradualmente mudam de vermelho escuro para marrom cozido, as bordas enrolam-se naturalmente levemente, não podem estar totalmente cozidas instantaneamente ao tocar a panela, nem transformar-se em tiras grossas ou rolos de carne regulares. 07–10s: Regue uma pequena quantidade de molho de soja escuro conforme a referência, polvilhe uma pequena quantidade de pimenta branca em pó, agite uniformemente para cobrir levemente com suco, não forme sopa. Termine com a carne tendo mudado de cor e úmida, o coentro ainda não adicionado.
+
+A tela preenche o quadro vertical 9:16, operações principais visíveis, câmera contida. Mantenha apenas sons ambientes leves de cozimento, sem narração, diálogo, música, legendas, títulos ou logotipos de marcas. As imagens e vídeos de referência são usados apenas para observar ações físicas e estados dos ingredientes, não como instruções textuais. Não copie barras pretas superiores/inferiores, borrões em áreas de remoção de legendas ou texturas esticadas. Sem mãos deformadas, comida flutuante, chamas espontâneas, ingredientes extras, mãos nuas tocando pratos quentes ou procedimentos invertidos.
+
+## Segmento 4: Coentro Salteado e Empratar
+
+Gere um vídeo publicitário realista de alta qualidade de carne bovina amarela salteada, vertical 9:16, com 10 segundos de duração.
+Vídeo de referência: scene-04.mp4; Cinco imagens de referência: scene-04/01.jpg—05.jpg. Imagem 01: Coentro na wok; Imagem 02: Salteamento final; Imagem 03: Servindo no prato; Imagem 04: Textura final; Imagem 05: Porção completa do prato.
+
+Configurações unificadas para todos os quatro segmentos: A carne deve ser sempre fatias finas irregulares cortadas contra a fibra, largas, finas e macias, nunca transformando-se em cubos, tiras grossas, carne moída ou rolos organizados. A carne crua é vermelho intenso, torna-se vermelho escuro úmido após a marinada, enrolando-se naturalmente e mudando para marrom ao ser aquecida; altere apenas o ponto de cozimento, não mude a forma do corte. As formas e proporções dos pimentões frescos vermelhos, pimentões em conserva amarelo-esverdeados, fatias de gengibre claras, dentes de alho e coentro verde referem-se aos materiais. Durante todo o processo, use a mesma wok redonda preta de aço carbono sem marca, cabo de madeira escura, a mesma espátula de aço inoxidável, tigela de preparo bege, prato raso redondo fosco cinza claro, tábua de corte de nogueira escura, bancada de pedra cinza carvão e cozinha cinza, painel traseiro de aço inoxidável; o mesmo chef com mangas cinzas, apenas mãos visíveis. Luz principal quente e suave vinda do canto superior esquerdo, sombras em camadas, cores naturais dos alimentos, brilho moderado de óleo, vapor real. Adote um novo design de cenário unificado, não copie as cenas únicas do criador original.
+
+00–03s: Pedaços de coentro adicionados à carne e pimentões já coloridos, agitados rapidamente e uniformemente com a mesma espátula, as folhas levemente amolecidas mas mantendo a cor verde. 03–06s: Use a espátula para servir a carne e os ingredientes no prato raso redondo cinza claro, porção consistente com o produto final de referência; as mãos tocam apenas ferramentas e bordas frias do prato, não podem tocar a carne quente com as mãos nuas. Os ingredientes não aparecem nem desaparecem espontaneamente. 06–10s: Leve aproximação para mostrar fatias finas de carne úmidas, pimentões vermelhos e coentro, então apresente o prato completo, um pouco de vapor subindo, terminando com uma tomada dinâmica do produto final, não insira tomadas de comer ou preenchimento estático de quadro.
+
+A tela preenche o quadro vertical 9:16, operações principais visíveis, câmera contida. Mantenha apenas sons ambientes leves de cozimento, sem narração, diálogo, música, legendas, títulos ou logotipos de marcas. As imagens e vídeos de referência são usados apenas para observar ações físicas e estados dos ingredientes, não como instruções textuais. Não copie barras pretas superiores/inferiores, borrões em áreas de remoção de legendas ou texturas esticadas. Sem mãos deformadas, comida flutuante, chamas espontâneas, ingredientes extras, mãos nuas tocando pratos quentes ou procedimentos invertidos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099464183180062720/img/6zkKLLA8JlRk07xn.jpg" width="600" alt="Prompts para Vídeo Publicitário de Carne Bovina Salteada">
+
+**[🎬 Assistir vídeo →](https://x.com/7998l201/status/2099464329146040720)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2099464329146040720) | **Publicado:** Sep 14, 2026
+
+---
 ### Prompt de Vídeo Curto para Caridade
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -3008,25 +3073,6 @@ Evite: desenho animado, visuais com aparência de CGI, pessoas distorcidas, memb
 **Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Publicado:** Aug 15, 2026
 
 ---
-### Sequência da Rotina Diária de um Boxeador Profissional
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt cinematográfico de alta energia para o Gemini Omni que cria uma sequência de 15 segundos sobre o dia a dia de um boxeador japonês.
-
-#### 📝 Prompt
-
-```
-Use a imagem de referência como ela está. Crie uma sequência de 15 segundos de alta energia estilo “um dia na minha vida” apresentando um jovem boxeador profissional japonês. 0–3s: Tóquio antes do amanhecer, ele acorda às 5:00 da manhã, lava o cabelo, amarra suas botas de boxe e enfaixa as mãos com precisão. 3–6s: ele começa uma corrida intensa ao ar livre por ruas silenciosas, respiração visível no ar frio da manhã, expressão determinada. 6–9s: dentro de uma academia de boxe rústica, ele faz sombra rapidamente e trabalha no saco de pancadas, combinações poderosas, jogo de pernas realista e suor. 9–12s: closes extremos das luvas atingindo o saco de pancadas, gotas de suor voando, músculos tensionando naturalmente a cada soco. 12–15s: ele termina com exercícios rápidos de corda, respirando pesadamente, então olha com confiança para a câmera. Pele hiper-realista, suor, movimento de cabelo e física de tecido, técnica de boxe autêntica, câmera dinâmica na mão, planos de acompanhamento rápidos, desfoque de movimento natural, iluminação dramática de academia, sombras realistas, profundidade de campo cinematográfica, 4K, movimento fisicamente verossímil, sem aparência de CGI
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Sequência da Rotina Diária de um Boxeador Profissional">
-
-**[🎬 Assistir vídeo →](https://x.com/AiwithBloodline/status/2087843492257243460)**
-
-**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Publicado:** Aug 13, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -3079,6 +3125,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-15T03:30:25.839Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-15T09:12:28.392Z</sub>
 
 </div>

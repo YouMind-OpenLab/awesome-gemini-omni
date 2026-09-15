@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **268** |
+| 📝 Toplam İstem | **269** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-15** |
 
@@ -56,6 +56,71 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Sote Edilmiş Dana Eti Reklam Videosu İstemleri
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Omni 1.1 Flash kullanılarak sote edilmiş sarı dana eti için yüksek kaliteli, gerçekçi yiyecek reklam videoları oluşturmak üzere tasarlanmış dört parçalı kapsamlı istemler. Malzeme hazırlığı, pişirme süreci, kamera açıları, aydınlatma ve tüm segmentlerde tencere ve malzemeler için katı tutarlılık gereksinimleri hakkında ayrıntılı talimatlar içerir.
+
+#### 📝 İstem
+
+```
+# Sote Edilmiş Sarı Dana Eti | Dört Tam Türkçe İstem
+
+Her segmenti ayrı olarak gönderin: İlgili scene-NN.mp4 dosyasını ve ilgili 01–05.jpg klasörünü ekleyin. Amaç, her biri 10 saniye uzunluğunda ve 9:16 en-boy oranında olan dört segment oluşturmaktır. Referans videolar, üst/alt bantlar eklenerek kompozisyonu korunan yatay görüntülerdir; üretilen kareler siyah bantları veya onarım izlerini kopyalamamalıdır. Materyal kaynak hakları ve harici yükleme izinleri kendiniz tarafından doğrulanmalıdır; bu sefer herhangi bir yükleme veya ücretli üretim yapılmadı.
+
+## Segment 1: Hazırlık ve Marine Etme
+
+10 saniyelik, 9:16 dikey, yüksek kaliteli, gerçekçi sote edilmiş sarı dana eti reklam videosu oluşturun.
+Referans video: scene-01.mp4; Beş referans görsel: scene-01/01.jpg—05.jpg. Görsel 01: Eti liflerine dik kesme; Görsel 02: Sos ekleme; Görsel 03: Homojen karıştırma; Görsel 04: Biberleri doğrama; Görsel 05: Kişnişi doğrama.
+
+Dört segment için de ortak ayarlar: Dana eti her zaman liflerine dik kesilmiş düzensiz ince dilimler halinde olmalı, geniş, ince ve yumuşak olmalı; asla küp şeklinde, kalın şeritler halinde, kıyma halinde veya düzenli rulolar haline gelmemelidir. Çiğ et koyu kırmızıdır, marine edildikten sonra ıslak koyu kırmızıdır, ısıtıldığında doğal olarak kıvrılır ve kahverengileşir; yalnızca pişme derecesini değiştirin, kesim şeklini değiştirmeyin. Kırmızı taze biberlerin, sarı-yeşil turşu biberlerinin, açık renkli zencefil dilimlerinin, sarımsak dişlerinin ve yeşil kişnişin şekilleri ve oranları materyallere atıfta bulunur. Süreç boyunca aynı markasız siyah karbon çelik yuvarlak dipli wok tavası, koyu ahşap sap, aynı paslanmaz çelik spatula, bej hazırlık kasesi, açık gri mat yuvarlak sığ tabak, koyu ceviz kesme tahtası, kömür grisi taş tezgah ve gri mutfak, paslanmaz çelik sıçrama paneli kullanın; aynı gri kollu aşçı, sadece eller görünecek şekilde. Sol üstten gelen sıcak, yumuşak ana ışık, katmanlı gölgeler, doğal yiyecek renkleri, orta düzeyde yağ parlaklığı, gerçek buhar. Orijinal yaratıcının benzersiz sahnelerini kopyalamadan birleşik yeni bir set tasarımı benimseyin.
+
+00–03s: Dana eti liflerine dik kesilmiş düzensiz ince dilimler halinde kesilir, bıçağın dilimlemeyi tamamladığını gösteren yakın çekim; küp veya kalın şeritler halinde kesilmemelidir. 03–06s: Bej kaseye alınır, soya sosu, istiridye sosu ve az miktarda yağ eklenir, nazikçe homojen karıştırılır; montaj ile bekleme süresi atlanır, marine işleminin saniyeler içinde tamamlandığı ima edilmemelidir. 06–10s: Kısa bir hazırlık kolajı, zencefil ve sarımsak hazırlanır, taze biberler ve turşu biberleri doğranır, kişniş parçalara ayrılır. Sonuçta ayrı auxiliary malzemeler ve çiğ marine edilmiş dana eti korunur, erken aşamada tencereye konulmaz.
+
+Ekran 9:16 dikey çerçeveyi doldurur, temel işlemler görünür, kamera ölçülü tutulur. Yalnızca hafif pişirme ortam sesleri bırakın, seslendirme, diyalog, müzik, altyazı, başlık veya marka logosu olmamalıdır. Referans görseller ve videolar yalnızca fiziksel eylemleri ve malzeme durumlarını gözlemlemek için kullanılır, metin talimatı olarak değil. Üst/alt siyah bantları, altyazı kaldırma alanlarındaki bulanık lekeleri veya uzatılmış dokuları kopyalamayın. Deforme olmuş eller, havada duran yiyecekler, kendiliğinden çıkan alevler, ekstra malzemeler, çıplak elle sıcak yemeklere dokunma veya prosedürlerin tersine çevrilmesi yasaktır.
+
+## Segment 2: Zencefil, Sarımsak ve Biber Kavurma
+
+10 saniyelik, 9:16 dikey, yüksek kaliteli, gerçekçi sote edilmiş sarı dana eti reklam videosu oluşturun.
+Referans video: scene-02.mp4; Beş referans görsel: scene-02/01.jpg—05.jpg. Görsel 01: Yağı woka ekleme; Görsel 02: Zencefil ve sarımsağı woka ekleme; Görsel 03: Turşu biber durumu; Görsel 04: Taze biberlerin eklenmesi; Görsel 05: Biberleri kavurma.
+
+Dört segment için de ortak ayarlar: Dana eti her zaman liflerine dik kesilmiş düzensiz ince dilimler halinde olmalı, geniş, ince ve yumuşak olmalı; asla küp şeklinde, kalın şeritler halinde, kıyma halinde veya düzenli rulolar haline gelmemelidir. Çiğ et koyu kırmızıdır, marine edildikten sonra ıslak koyu kırmızıdır, ısıtıldığında doğal olarak kıvrılır ve kahverengileşir; yalnızca pişme derecesini değiştirin, kesim şeklini değiştirmeyin. Kırmızı taze biberlerin, sarı-yeşil turşu biberlerinin, açık renkli zencefil dilimlerinin, sarımsak dişlerinin ve yeşil kişnişin şekilleri ve oranları materyallere atıfta bulunur. Süreç boyunca aynı markasız siyah karbon çelik yuvarlak dipli wok tavası, koyu ahşap sap, aynı paslanmaz çelik spatula, bej hazırlık kasesi, açık gri mat yuvarlak sığ tabak, koyu ceviz kesme tahtası, kömür grisi taş tezgah ve gri mutfak, paslanmaz çelik sıçrama paneli kullanın; aynı gri kollu aşçı, sadece eller görünecek şekilde. Sol üstten gelen sıcak, yumuşak ana ışık, katmanlı gölgeler, doğal yiyecek renkleri, orta düzeyde yağ parlaklığı, gerçek buhar. Orijinal yaratıcının benzersiz sahnelerini kopyalamadan birleşik yeni bir set tasarımı benimseyin.
+
+00–03s: Isıtılmış woka az miktarda domuz yağı ve yemeklik yağ eklenir, ince, hafif parlak bir yağ tabakası oluşur. 03–07s: Zencefil dilimleri ve sarımsak dişleri kaseden woka girer, ardından sarı-yeşil turşu biberleri ve kırmızı taze biberler eklenir, paslanmaz çelik spatula ile itilip karıştırılır. 07–10s: Yakın çekimde biberlerin ısındığı, yağlı ve kokulu olduğu görülür, kesinlikle yanıp kararmamalıdır. Wokta yalnızca zencefil, sarımsak ve biberlerle bitirin, marine edilmiş dana eti henüz eklenmedi, Segment 3'e bağlanıyor.
+
+Ekran 9:16 dikey çerçeveyi doldurur, temel işlemler görünür, kamera ölçülü tutulur. Yalnızca hafif pişirme ortam sesleri bırakın, seslendirme, diyalog, müzik, altyazı, başlık veya marka logosu olmamalıdır. Referans görseller ve videolar yalnızca fiziksel eylemleri ve malzeme durumlarını gözlemlemek için kullanılır, metin talimatı olarak değil. Üst/alt siyah bantları, altyazı kaldırma alanlarındaki bulanık lekeleri veya uzatılmış dokuları kopyalamayın. Deforme olmuş eller, havada duran yiyecekler, kendiliğinden çıkan alevler, ekstra malzemeler, çıplak elle sıcak yemeklere dokunma veya prosedürlerin tersine çevrilmesi yasaktır.
+
+## Segment 3: Dana Etinin Woka Eklenmesi ve Baharatlandırılması
+
+10 saniyelik, 9:16 dikey, yüksek kaliteli, gerçekçi sote edilmiş sarı dana eti reklam videosu oluşturun.
+Referans video: scene-03.mp4; Beş referans görsel: scene-03/01.jpg—05.jpg. Görsel 01: Dana etinin woka eklenmesi; Görsel 02: Spatula ile ayırma; Görsel 03: Etin ısınma durumu; Görsel 04: Sıvı baharatlandırma; Görsel 05: Beyaz biber tozu eklenmesi.
+
+Dört segment için de ortak ayarlar: Dana eti her zaman liflerine dik kesilmiş düzensiz ince dilimler halinde olmalı, geniş, ince ve yumuşak olmalı; asla küp şeklinde, kalın şeritler halinde, kıyma halinde veya düzenli rulolar haline gelmemelidir. Çiğ et koyu kırmızıdır, marine edildikten sonra ıslak koyu kırmızıdır, ısıtıldığında doğal olarak kıvrılır ve kahverengileşir; yalnızca pişme derecesini değiştirin, kesim şeklini değiştirmeyin. Kırmızı taze biberlerin, sarı-yeşil turşu biberlerinin, açık renkli zencefil dilimlerinin, sarımsak dişlerinin ve yeşil kişnişin şekilleri ve oranları materyallere atıfta bulunur. Süreç boyunca aynı markasız siyah karbon çelik yuvarlak dipli wok tavası, koyu ahşap sap, aynı paslanmaz çelik spatula, bej hazırlık kasesi, açık gri mat yuvarlak sığ tabak, koyu ceviz kesme tahtası, kömür grisi taş tezgah ve gri mutfak, paslanmaz çelik sıçrama paneli kullanın; aynı gri kollu aşçı, sadece eller görünecek şekilde. Sol üstten gelen sıcak, yumuşak ana ışık, katmanlı gölgeler, doğal yiyecek renkleri, orta düzeyde yağ parlaklığı, gerçek buhar. Orijinal yaratıcının benzersiz sahnelerini kopyalamadan birleşik yeni bir set tasarımı benimseyin.
+
+00–03s: Çiğ marine edilmiş dana eti, zencefil, sarımsak ve biber içeren woka bej kaseden kayarak düşer, hemen spatula ile nazikçe ayrılır. 03–07s: Dana eti ve biberler sotelenir, ince dilimler kademeli olarak koyu kırmızıdan pişmiş kahverengiye döner, kenarlar doğal olarak hafifçe kıvrılır, tavaya değdiği anda tamamen pişmemeli veya kalın şeritler/düzenli et rulolarına dönüşmemelidir. 07–10s: Referansa göre az miktarda koyu soya sosu gezdirin, az miktarda beyaz biber tozu serpin, ince bir su kaplaması oluşturacak şekilde eşitce karıştırın, çorba kıvamı oluşmamalıdır. Dana eti rengi değişmiş ve nemli haldeyken, kişniş henüz eklenmeden bitirin.
+
+Ekran 9:16 dikey çerçeveyi doldurur, temel işlemler görünür, kamera ölçülü tutulur. Yalnızca hafif pişirme ortam sesleri bırakın, seslendirme, diyalog, müzik, altyazı, başlık veya marka logosu olmamalıdır. Referans görseller ve videolar yalnızca fiziksel eylemleri ve malzeme durumlarını gözlemlemek için kullanılır, metin talimatı olarak değil. Üst/alt siyah bantları, altyazı kaldırma alanlarındaki bulanık lekeleri veya uzatılmış dokuları kopyalamayın. Deforme olmuş eller, havada duran yiyecekler, kendiliğinden çıkan alevler, ekstra malzemeler, çıplak elle sıcak yemeklere dokunma veya prosedürlerin tersine çevrilmesi yasaktır.
+
+## Segment 4: Kişniş Sotesi ve Tabaklama
+
+10 saniyelik, 9:16 dikey, yüksek kaliteli, gerçekçi sote edilmiş sarı dana eti reklam videosu oluşturun.
+Referans video: scene-04.mp4; Beş referans görsel: scene-04/01.jpg—05.jpg. Görsel 01: Kişnişin woka eklenmesi; Görsel 02: Son kavurma; Görsel 03: Tabaklama; Görsel 04: Bitiş dokusu; Görsel 05: Tam porsiyon.
+
+Dört segment için de ortak ayarlar: Dana eti her zaman liflerine dik kesilmiş düzensiz ince dilimler halinde olmalı, geniş, ince ve yumuşak olmalı; asla küp şeklinde, kalın şeritler halinde, kıyma halinde veya düzenli rulolar haline gelmemelidir. Çiğ et koyu kırmızıdır, marine edildikten sonra ıslak koyu kırmızıdır, ısıtıldığında doğal olarak kıvrılır ve kahverengileşir; yalnızca pişme derecesini değiştirin, kesim şeklini değiştirmeyin. Kırmızı taze biberlerin, sarı-yeşil turşu biberlerinin, açık renkli zencefil dilimlerinin, sarımsak dişlerinin ve yeşil kişnişin şekilleri ve oranları materyallere atıfta bulunur. Süreç boyunca aynı markasız siyah karbon çelik yuvarlak dipli wok tavası, koyu ahşap sap, aynı paslanmaz çelik spatula, bej hazırlık kasesi, açık gri mat yuvarlak sığ tabak, koyu ceviz kesme tahtası, kömür grisi taş tezgah ve gri mutfak, paslanmaz çelik sıçrama paneli kullanın; aynı gri kollu aşçı, sadece eller görünecek şekilde. Sol üstten gelen sıcak, yumuşak ana ışık, katmanlı gölgeler, doğal yiyecek renkleri, orta düzeyde yağ parlaklığı, gerçek buhar. Orijinal yaratıcının benzersiz sahnelerini kopyalamadan birleşik yeni bir set tasarımı benimseyin.
+
+00–03s: Kişniş parçaları, zaten renk değiştirmiş dana eti ve biberlere eklenir, aynı spatula ile hızla eşitce karıştırılır, yapraklar hafifçe yumuşar ancak yeşil rengini korur. 03–06s: Spatula kullanılarak dana eti ve malzemeler açık gri yuvarlak sığ tabağa alınır, porsiyon referans bitiş ürünüyle tutarlı olmalıdır; eller yalnızca araçlara ve soğuk tabak kenarlarına dokunabilir, çıplak elle sıcak dana etine dokunamaz. Malzemeler kendiliğinden belirmez veya kaybolmaz. 06–10s: Nemli ince dana eti dilimlerini, kırmızı biberleri ve kişnişi göstermek için hafif bir zoom-in yapılır, ardından tam tabak sunulur, biraz buhar yükselir, bitiş ürününün dinamik bir çekimiyle sonlandırılır, yeme sahnesi veya statik kare dolgu eklenmez.
+
+Ekran 9:16 dikey çerçeveyi doldurur, temel işlemler görünür, kamera ölçülü tutulur. Yalnızca hafif pişirme ortam sesleri bırakın, seslendirme, diyalog, müzik, altyazı, başlık veya marka logosu olmamalıdır. Referans görseller ve videolar yalnızca fiziksel eylemleri ve malzeme durumlarını gözlemlemek için kullanılır, metin talimatı olarak değil. Üst/alt siyah bantları, altyazı kaldırma alanlarındaki bulanık lekeleri veya uzatılmış dokuları kopyalamayın. Deforme olmuş eller, havada duran yiyecekler, kendiliğinden çıkan alevler, ekstra malzemeler, çıplak elle sıcak yemeklere dokunma veya prosedürlerin tersine çevrilmesi yasaktır.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099464183180062720/img/6zkKLLA8JlRk07xn.jpg" width="600" alt="Sote Edilmiş Dana Eti Reklam Videosu İstemleri">
+
+**[🎬 Videoyu izle →](https://x.com/7998l201/status/2099464329146040720)**
+
+**Yazar:** [Ryan](https://x.com/7998l201) | **Kaynak:** [Link](https://x.com/7998l201/status/2099464329146040720) | **Yayınlandı:** Sep 14, 2026
+
+---
 ### Hayır Kurumu İçin Kısa Video İstemi
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -3008,25 +3073,6 @@ Kaçınılması gerekenler: çizgi film, CGI görünümlü görseller, bozuk ins
 **Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Yayınlandı:** Aug 15, 2026
 
 ---
-### Profesyonel Boksör Günlük Rutin Sekansı
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gemini Omni için, Japon bir boksörün 15 saniyelik bir gününü anlatan yüksek enerjili ve sinematik bir istem.
-
-#### 📝 İstem
-
-```
-Referans görseli olduğu gibi kullanın. Genç, Japon, profesyonel bir erkek boksörün yer aldığı 15 saniyelik yüksek enerjili bir “hayatımdan bir gün” sekansı oluşturun. 0–3. saniye: şafak öncesi Tokyo, sabah 5:00'te uyanıyor, saçını yıkıyor, boks ayakkabılarını bağlıyor ve ellerini hassasiyetle sarıyor. 3–6. saniye: sessiz sokaklarda yoğun bir açık hava koşusuna başlıyor, soğuk sabah havasında görünür nefesi ve kararlı ifadesiyle. 6–9. saniye: tozlu bir boks salonunun içinde, hızla gölge boksu yapıyor ve kum torbasıyla çalışıyor; güçlü kombinasyonlar, gerçekçi ayak hareketleri ve ter. 9–12. saniye: eldivenlerin kum torbasına vurduğu anların aşırı yakın çekimleri, uçuşan ter damlaları, her yumrukta doğal bir şekilde gerilen kaslar. 12–15. saniye: hızlı ip atlama egzersizleriyle bitiriyor, ağır nefes alıyor ve ardından kameraya güvenle bakıyor. Hiper gerçekçi cilt, ter, saç hareketi ve kumaş fiziği, otantik boks tekniği, dinamik el kamerası, hızlı takip çekimleri, doğal hareket bulanıklığı, dramatik spor salonu ışıklandırması, gerçekçi gölgeler, sinematik alan derinliği, 4K, fiziksel olarak inandırıcı hareketler, CGI görünümü yok
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Profesyonel Boksör Günlük Rutin Sekansı">
-
-**[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2087843492257243460)**
-
-**Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Yayınlandı:** Aug 13, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3079,6 +3125,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-15T03:30:26.793Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-15T09:12:29.514Z</sub>
 
 </div>

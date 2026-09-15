@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **268** |
+| 📝 Gesamtanzahl Prompts | **269** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-15** |
 
@@ -56,6 +56,71 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Prompts für Werbevideo: Gebratenes Rindfleisch
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Umfassende vierstufige Prompts zur Generierung hochwertiger, realistischer Werbevideos für gebratenes gelbes Rindfleisch mit Omni 1.1 Flash. Enthält detaillierte Anweisungen zur Zutatenzubereitung, zum Kochvorgang, zu Kameraperspektiven und Beleuchtung sowie strenge Konsistenzanforderungen für Geschirr und Zutaten über alle Segmente hinweg.
+
+#### 📝 Prompt
+
+```
+# Gebratenes gelbes Rindfleisch | Vier vollständige chinesische Prompts
+
+Reichen Sie jedes Segment separat ein: Fügen Sie das entsprechende scene-NN.mp4 und den entsprechenden Ordner 01–05.jpg hinzu. Das Ziel sind vier Segmente, jeweils 10 Sekunden lang, im Seitenverhältnis 9:16. Referenzvideos sind Querformatbilder, deren Komposition durch Hinzufügen von Balken oben/unten beibehalten wird; generierte Bilder sollten keine schwarzen Balken oder Reparaturspuren kopieren. Die Rechte an der Materialquelle und die Berechtigungen für externe Uploads müssen von Ihnen selbst bestätigt werden; es wurden diesmal keine Uploads oder kostenpflichtigen Generierungen durchgeführt.
+
+## Segment 1: Vorbereitung und Marinieren
+
+Generieren Sie ein 10-sekündiges, vertikales (9:16) Hochwertiges, realistisches Werbevideo für gebratenes gelbes Rindfleisch.
+Referenzvideo: scene-01.mp4; Fünf Referenzbilder: scene-01/01.jpg—05.jpg. Bild 01: Fleisch gegen die Faser schneiden; Bild 02: Sauce hinzufügen; Bild 03: Gleichmäßig vermischen; Bild 04: Paprika schneiden; Bild 05: Koriander schneiden.
+
+Einheitliche Einstellungen für alle vier Segmente: Das Rindfleisch ist immer in unregelmäßige dünne Scheiben geschnitten, gegen die Faser, breit, dünn und weich, niemals in Würfel, dicke Streifen, Hackfleisch oder ordentliche Rollen verwandelt. Rohes Fleisch ist tiefrot, nach dem Marinieren feucht dunkelrot, kräuselt sich natürlich und bräunt beim Erhitzen; ändern Sie nur den Gargrad, nicht die Schnittform. Formen und Proportionen von roten frischen Paprikaschoten, gelb-grünen eingelegten Paprikaschoten, hellen Ingwerscheiben, Knoblauchzehen und grünem Koriander richten sich nach den Materialien. Verwenden Sie während des gesamten Prozesses denselben schwarzen Wok aus Kohlenstoffstahl ohne Markenlogo mit rundem Boden, dunklem Holzgriff, denselben Edelstahl-Spatel, dieselbe beige Zubereitungsschüssel, denselben hellgrauen matten runden flachen Teller, dasselbe Schneidebrett aus dunklem Walnussholz, dieselbe arbeitsplatte aus grauem Stein und dieselbe graue Küche, Edelstahl-Spritzschutz; derselbe Koch mit grauen Ärmeln, nur Hände sichtbar. Warmes, weiches Hauptlicht von oben links, geschichtete Schatten, natürliche Lebensmittelfarben, moderater Ölglanz, echter Dampf. Nehmen Sie ein einheitliches neues Set-Design an, kopieren Sie nicht die einzigartigen Szenen des ursprünglichen Erstellers.
+
+00–03s: Rindfleisch gegen die Faser in unregelmäßige dünne Scheiben schneiden, Nahaufnahme zeigt das Messer beim Schneiden, darf nicht in Würfel oder dicke Streifen geschnitten werden. 03–06s: In die beize Schüssel geben, Sojasauce, Austernsauce und eine kleine Menge Öl hinzufügen, vorsichtig gleichmäßig vermischen; verwenden Sie Schnitte, um die Wartezeit zu überspringen, implizieren Sie nicht, dass das Marinieren in Sekunden abgeschlossen ist. 06–10s: Knappes Montage der Vorbereitung, Ingwer und Knoblauch vorbereitet, frische und eingelegte Paprika gehackt, Koriander in Abschnitte geschnitten. Ende mit getrennten Hilfszutaten und rohem mariniertem Rindfleisch, das noch nicht in den Topf gegeben wurde.
+
+Der Bildschirm füllt den vertikalen 9:16-Rahmen, wichtige Handlungen sind sichtbar, Kamera zurückhaltend. Behalten Sie nur leise Kochgeräusche bei, kein Voiceover, Dialog, Musik, Untertitel, Titel oder Markenlogos. Referenzbilder und -videos dienen nur dazu, physische Aktionen und Zustände der Zutaten zu beobachten, nicht als Textanweisungen. Kopieren Sie keine schwarzen Balken oben/unten, keine unscharfen Flecken in Bereichen, in denen Untertitel entfernt wurden, oder gedehnte Texturen. Keine deformierten Hände, schwebendes Essen, spontane Flammen, zusätzliche Zutaten, bloße Hände, die heiße Gerichte berühren, oder umgekehrte Verfahren.
+
+## Segment 2: Braten von Ingwer, Knoblauch und Paprika
+
+Generieren Sie ein 10-sekündiges, vertikales (9:16) Hochwertiges, realistisches Werbevideo für gebratenes gelbes Rindfleisch.
+Referenzvideo: scene-02.mp4; Fünf Referenzbilder: scene-02/01.jpg—05.jpg. Bild 01: Öl in den Wok; Bild 02: Ingwer und Knoblauch in den Wok; Bild 03: Zustand der eingelegten Paprika; Bild 04: Frische Paprika hinzugefügt; Bild 05: Paprika braten.
+
+Einheitliche Einstellungen für alle vier Segmente: Das Rindfleisch ist immer in unregelmäßige dünne Scheiben geschnitten, gegen die Faser, breit, dünn und weich, niemals in Würfel, dicke Streifen, Hackfleisch oder ordentliche Rollen verwandelt. Rohes Fleisch ist tiefrot, nach dem Marinieren feucht dunkelrot, kräuselt sich natürlich und bräunt beim Erhitzen; ändern Sie nur den Gargrad, nicht die Schnittform. Formen und Proportionen von roten frischen Paprikaschoten, gelb-grünen eingelegten Paprikaschoten, hellen Ingwerscheiben, Knoblauchzehen und grünem Koriander richten sich nach den Materialien. Verwenden Sie während des gesamten Prozesses denselben schwarzen Wok aus Kohlenstoffstahl ohne Markenlogo mit rundem Boden, dunklem Holzgriff, denselben Edelstahl-Spatel, dieselbe beige Zubereitungsschüssel, denselben hellgrauen matten runden flachen Teller, dasselbe Schneidebrett aus dunklem Walnussholz, dieselbe arbeitsplatte aus grauem Stein und dieselbe graue Küche, Edelstahl-Spritzschutz; derselbe Koch mit grauen Ärmeln, nur Hände sichtbar. Warmes, weiches Hauptlicht von oben links, geschichtete Schatten, natürliche Lebensmittelfarben, moderater Ölglanz, echter Dampf. Nehmen Sie ein einheitliches neues Set-Design an, kopieren Sie nicht die einzigartigen Szenen des ursprünglichen Erstellers.
+
+00–03s: Eine kleine Menge Schweineschmalz und Speiseöl in den heißen Wok geben, sodass eine dünne, leicht glänzende Ölschicht entsteht. 03–07s: Ingwerscheiben und Knoblauchzehen kommen aus der Schüssel in den Wok, gefolgt von gelb-grünen eingelegten Paprikaschoten und roten frischen Paprikaschoten, die mit dem Edelstahl-Spatel auseinandergeschoben und gebraten werden. 07–10s: Nahaufnahme zeigt, wie sich die Paprika erhitzt, ölig und duftend wird, sie darf nicht schwarz verbrennen. Ende mit nur Ingwer, Knoblauch und Paprika im Wok, mariniertes Rindfleisch noch nicht hinzugefügt, Übergang zu Segment 3.
+
+Der Bildschirm füllt den vertikalen 9:16-Rahmen, wichtige Handlungen sind sichtbar, Kamera zurückhaltend. Behalten Sie nur leise Kochgeräusche bei, kein Voiceover, Dialog, Musik, Untertitel, Titel oder Markenlogos. Referenzbilder und -videos dienen nur dazu, physische Aktionen und Zustände der Zutaten zu beobachten, nicht als Textanweisungen. Kopieren Sie keine schwarzen Balken oben/unten, keine unscharfen Flecken in Bereichen, in denen Untertitel entfernt wurden, oder gedehnte Texturen. Keine deformierten Hände, schwebendes Essen, spontane Flammen, zusätzliche Zutaten, bloße Hände, die heiße Gerichte berühren, oder umgekehrte Verfahren.
+
+## Segment 3: Rindfleisch in den Wok und Würzen
+
+Generieren Sie ein 10-sekündiges, vertikales (9:16) Hochwertiges, realistisches Werbevideo für gebratenes gelbes Rindfleisch.
+Referenzvideo: scene-03.mp4; Fünf Referenzbilder: scene-03/01.jpg—05.jpg. Bild 01: Rindfleisch in den Wok; Bild 02: Spatel trennt; Bild 03: Erhitzungszustand des Fleisches; Bild 04: Flüssige Würzung; Bild 05: Weißer Pfefferpulver hinzugefügt.
+
+Einheitliche Einstellungen für alle vier Segmente: Das Rindfleisch ist immer in unregelmäßige dünne Scheiben geschnitten, gegen die Faser, breit, dünn und weich, niemals in Würfel, dicke Streifen, Hackfleisch oder ordentliche Rollen verwandelt. Rohes Fleisch ist tiefrot, nach dem Marinieren feucht dunkelrot, kräuselt sich natürlich und bräunt beim Erhitzen; ändern Sie nur den Gargrad, nicht die Schnittform. Formen und Proportionen von roten frischen Paprikaschoten, gelb-grünen eingelegten Paprikaschoten, hellen Ingwerscheiben, Knoblauchzehen und grünem Koriander richten sich nach den Materialien. Verwenden Sie während des gesamten Prozesses denselben schwarzen Wok aus Kohlenstoffstahl ohne Markenlogo mit rundem Boden, dunklem Holzgriff, denselben Edelstahl-Spatel, dieselbe beige Zubereitungsschüssel, denselben hellgrauen matten runden flachen Teller, dasselbe Schneidebrett aus dunklem Walnussholz, dieselbe arbeitsplatte aus grauem Stein und dieselbe graue Küche, Edelstahl-Spritzschutz; derselbe Koch mit grauen Ärmeln, nur Hände sichtbar. Warmes, weiches Hauptlicht von oben links, geschichtete Schatten, natürliche Lebensmittelfarben, moderater Ölglanz, echter Dampf. Nehmen Sie ein einheitliches neues Set-Design an, kopieren Sie nicht die einzigartigen Szenen des ursprünglichen Erstellers.
+
+00–03s: Rohes mariniertes Rindfleisch gleitet aus der beigen Schüssel in den Wok, der Ingwer, Knoblauch und Paprika enthält, und wird sofort sanft mit dem Spatel getrennt. 03–07s: Rindfleisch und Paprika werden gebraten, dünne Scheiben verfärben sich allmählich von tiefrot zu gekochtem Braun, die Ränder kräuseln sich natürlich leicht, dürfen nicht sofort beim Kontakt mit der Pfanne vollständig durchgegart sein oder sich in dicke Streifen oder regelmäßige Fleischrollen verwandeln. 07–10s: Eine kleine Menge dunkle Sojasauce gemäß Referenz beträufeln, eine kleine Menge weißes Pfefferpulver streuen, gleichmäßig schwenken, um dünn mit Saft zu überziehen, keine Suppe bilden. Ende mit Rindfleisch, das seine Farbe geändert hat und feucht ist, Koriander noch nicht hinzugefügt.
+
+Der Bildschirm füllt den vertikalen 9:16-Rahmen, wichtige Handlungen sind sichtbar, Kamera zurückhaltend. Behalten Sie nur leise Kochgeräusche bei, kein Voiceover, Dialog, Musik, Untertitel, Titel oder Markenlogos. Referenzbilder und -videos dienen nur dazu, physische Aktionen und Zustände der Zutaten zu beobachten, nicht als Textanweisungen. Kopieren Sie keine schwarzen Balken oben/unten, keine unscharfen Flecken in Bereichen, in denen Untertitel entfernt wurden, oder gedehnte Texturen. Keine deformierten Hände, schwebendes Essen, spontane Flammen, zusätzliche Zutaten, bloße Hände, die heiße Gerichte berühren, oder umgekehrte Verfahren.
+
+## Segment 4: Koriander braten und Anrichten
+
+Generieren Sie ein 10-sekündiges, vertikales (9:16) Hochwertiges, realistisches Werbevideo für gebratenes gelbes Rindfleisch.
+Referenzvideo: scene-04.mp4; Fünf Referenzbilder: scene-04/01.jpg—05.jpg. Bild 01: Koriander in den Wok; Bild 02: Letztes Braten; Bild 03: Auf den Teller servieren; Bild 04: Fertige Textur; Bild 05: Vollständige Portion auf dem Teller.
+
+Einheitliche Einstellungen für alle vier Segmente: Das Rindfleisch ist immer in unregelmäßige dünne Scheiben geschnitten, gegen die Faser, breit, dünn und weich, niemals in Würfel, dicke Streifen, Hackfleisch oder ordentliche Rollen verwandelt. Rohes Fleisch ist tiefrot, nach dem Marinieren feucht dunkelrot, kräuselt sich natürlich und bräunt beim Erhitzen; ändern Sie nur den Gargrad, nicht die Schnittform. Formen und Proportionen von roten frischen Paprikaschoten, gelb-grünen eingelegten Paprikaschoten, hellen Ingwerscheiben, Knoblauchzehen und grünem Koriander richten sich nach den Materialien. Verwenden Sie während des gesamten Prozesses denselben schwarzen Wok aus Kohlenstoffstahl ohne Markenlogo mit rundem Boden, dunklem Holzgriff, denselben Edelstahl-Spatel, dieselbe beige Zubereitungsschüssel, denselben hellgrauen matten runden flachen Teller, dasselbe Schneidebrett aus dunklem Walnussholz, dieselbe arbeitsplatte aus grauem Stein und dieselbe graue Küche, Edelstahl-Spritzschutz; derselbe Koch mit grauen Ärmeln, nur Hände sichtbar. Warmes, weiches Hauptlicht von oben links, geschichtete Schatten, natürliche Lebensmittelfarben, moderater Ölglanz, echter Dampf. Nehmen Sie ein einheitliches neues Set-Design an, kopieren Sie nicht die einzigartigen Szenen des ursprünglichen Erstellers.
+
+00–03s: Korianderabschnitte werden zum bereits farbigen Rindfleisch und den Paprika hinzugefügt, schnell mit demselben Spatel gleichmäßig geschwenkt, die Blätter sind leicht erweicht, behalten aber ihre grüne Farbe. 03–06s: Mit dem Spatel Rindfleisch und Zutaten auf den hellgrauen runden flachen Teller geben, Portion konsistent mit dem Referenzfertiggericht; Hände berühren nur Werkzeuge und kühle Tellerränder, dürfen das heiße Rindfleisch nicht mit bloßen Händen berühren. Zutaten erscheinen oder verschwinden nicht spontan. 06–10s: Leichter Zoom-In zeigt feuchte dünne Rindfleischscheiben, rote Paprika und Koriander, dann Präsentation des vollen Tellers, etwas Dampf steigt auf, Ende mit einer dynamischen Aufnahme des fertigen Produkts, keine Essensaufnahmen oder statische Rahmenfüllung einfügen.
+
+Der Bildschirm füllt den vertikalen 9:16-Rahmen, wichtige Handlungen sind sichtbar, Kamera zurückhaltend. Behalten Sie nur leise Kochgeräusche bei, kein Voiceover, Dialog, Musik, Untertitel, Titel oder Markenlogos. Referenzbilder und -videos dienen nur dazu, physische Aktionen und Zustände der Zutaten zu beobachten, nicht als Textanweisungen. Kopieren Sie keine schwarzen Balken oben/unten, keine unscharfen Flecken in Bereichen, in denen Untertitel entfernt wurden, oder gedehnte Texturen. Keine deformierten Hände, schwebendes Essen, spontane Flammen, zusätzliche Zutaten, bloße Hände, die heiße Gerichte berühren, oder umgekehrte Verfahren.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099464183180062720/img/6zkKLLA8JlRk07xn.jpg" width="600" alt="Prompts für Werbevideo: Gebratenes Rindfleisch">
+
+**[🎬 Video ansehen →](https://x.com/7998l201/status/2099464329146040720)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Quelle:** [Link](https://x.com/7998l201/status/2099464329146040720) | **Veröffentlicht:** Sep 14, 2026
+
+---
 ### Kurzvideo-Prompt für Wohltätigkeitskampagne
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -3008,25 +3073,6 @@ Vermeide: Cartoons, CGI-artige Optik, verzerrte Personen, zusätzliche Gliedmaß
 **Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Quelle:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Veröffentlicht:** Aug 15, 2026
 
 ---
-### Tagesablauf eines Profiboxers
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein energiegeladener, filmischer Prompt für Gemini Omni, der eine 15-sekündige „Day-in-the-life“-Sequenz eines japanischen Boxers erstellt.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie das Referenzbild wie vorgegeben. Erstellen Sie eine energiegeladene 15-sekündige „Day-in-the-life“-Sequenz mit einem jungen japanischen Profiboxer. 0–3s: Tokio vor Sonnenaufgang, er wacht um 5:00 Uhr morgens auf, wäscht sich die Haare, schnürt seine Boxschuhe und bandagiert seine Hände mit Präzision. 3–6s: Er beginnt einen intensiven Lauf durch die ruhigen Straßen, der Atem ist in der kalten Morgenluft sichtbar, entschlossener Gesichtsausdruck. 6–9s: In einem rauen Boxstudio trainiert er schnell Schattenboxen und arbeitet am schweren Boxsack, kraftvolle Kombinationen, realistische Beinarbeit und Schweiß. 9–12s: Extreme Nahaufnahmen der Handschuhe beim Schlag auf den Boxsack, Schweißtropfen fliegen, die Muskeln spannen sich bei jedem Schlag natürlich an. 12–15s: Er beendet das Training mit schnellen Seilsprung-Übungen, atmet schwer und blickt dann selbstbewusst in die Kamera. Hyperrealistische Haut, Schweiß, Haarbewegung und Stoffphysik, authentische Boxtechnik, dynamische Handkamera, schnelle Tracking-Shots, natürliche Bewegungsunschärfe, dramatische Studiobeleuchtung, realistische Schatten, filmische Schärfentiefe, 4K, physisch glaubwürdige Bewegungen, kein CGI-Look
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Tagesablauf eines Profiboxers">
-
-**[🎬 Video ansehen →](https://x.com/AiwithBloodline/status/2087843492257243460)**
-
-**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Quelle:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Veröffentlicht:** Aug 13, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3079,6 +3125,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-15T03:30:21.463Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-15T09:12:24.113Z</sub>
 
 </div>

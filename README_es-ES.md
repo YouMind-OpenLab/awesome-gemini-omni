@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **268** |
+| 📝 Total de prompts | **269** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-09-15** |
 
@@ -56,6 +56,71 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompts para Videos Publicitarios de Ternilla Salteada
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompts integrales de cuatro partes para generar videos publicitarios realistas de alta gama de ternilla salteada utilizando Omni 1.1 Flash. Incluye instrucciones detalladas sobre la preparación de los ingredientes, el proceso de cocción, ángulos de cámara, iluminación y requisitos estrictos de consistencia para utensilios e ingredientes en todos los segmentos.
+
+#### 📝 Prompt
+
+```
+# Ternilla Amarilla Salteada | Cuatro Prompts Completos
+
+Envía cada segmento por separado: Adjunta el archivo scene-NN.mp4 correspondiente y la carpeta con las imágenes 01–05.jpg. El objetivo es crear cuatro segmentos, cada uno de 10 segundos de duración, en una relación de aspecto de 9:16. Los videos de referencia son imágenes horizontales cuya composición se preserva añadiendo barras arriba y abajo; los fotogramas generados no deben copiar las barras negras ni rastros de reparación. Debes confirmar tú mismo los derechos de origen del material y los permisos de carga externa; no se realizaron cargas ni generaciones pagadas esta vez.
+
+## Segmento 1: Preparación y Marinado
+
+Genera un video publicitario realista de alta gama de ternilla amarilla salteada, vertical de 9:16, de 10 segundos de duración.
+Video de referencia: scene-01.mp4; Cinco imágenes de referencia: scene-01/01.jpg—05.jpg. Imagen 01: Cortar la carne contra la fibra; Imagen 02: Añadir salsa; Imagen 03: Mezclar uniformemente; Imagen 04: Cortar pimientos; Imagen 05: Cortar cilantro.
+
+Configuración unificada para los cuatro segmentos: La ternilla debe ser siempre finas láminas irregulares cortadas contra la fibra, anchas, finas y suaves, nunca convirtiéndose en dados, tiras gruesas, carne picada o rollos ordenados. La carne cruda es rojo intenso, rojo oscuro húmedo después del marinado, rizándose naturalmente y volviéndose marrón al calentarse; solo cambia el punto de cocción, no cambies la forma del corte. Las formas y proporciones de los pimientos frescos rojos, los pimientos encurtidos amarillo-verdosos, las rodajas de jengibre claras, los dientes de ajo y el cilantro verde hacen referencia a los materiales. Durante todo el proceso, usa la misma sartén wok redonda de acero al carbono negro sin marca, mango de madera oscura, la misma espátula de acero inoxidable, bol de preparación beige, plato redondo poco profundo mate gris claro, tabla de cortar de nogal oscuro, encimera de piedra gris carbón y cocina gris, panel trasero de acero inoxidable; el mismo chef con mangas grises, solo manos. Luz principal cálida y suave desde la parte superior izquierda, sombras estratificadas, colores naturales de los alimentos, brillo moderado de aceite, vapor real. Adopta un nuevo diseño de set unificado, no copies las escenas únicas del creador original.
+
+00–03s: Ternilla cortada en finas láminas irregulares contra la fibra, primer plano mostrando el cuchillo completando el corte, no puede cortarse en dados ni tiras gruesas. 03–06s: Colocar en el bol beige, añadir salsa de soja, salsa de ostras y una pequeña cantidad de aceite, mezclar suavemente hasta integrar; usa edición para omitir el tiempo de espera, no implicar que el marinado suficiente se completa en segundos. 06–10s: Montaje conciso de preparación, jengibre y ajo preparados, pimientos frescos y encurtidos troceados, cilantro cortado en segmentos. Termina manteniendo los ingredientes auxiliares separados y la ternilla cruda marinada reservada, sin ponerla prematuramente en la sartén.
+
+La pantalla llena el marco vertical 9:16, operaciones clave visibles, cámara contenida. Mantén solo ligeros sonidos ambientales de cocina, sin voz en off, diálogos, música, subtítulos, títulos o logotipos de marcas. Las imágenes y videos de referencia se usan solo para observar acciones físicas y estados de los ingredientes, no como instrucciones de texto. No copies barras negras superiores/inferiores, manchas borrosas en áreas de eliminación de subtítulos o texturas estiradas. Sin manos deformes, comida flotante, llamas espontáneas, ingredientes extra, manos desnudas tocando platos calientes o procedimientos invertidos.
+
+## Segmento 2: Saltear Jengibre, Ajo y Pimientos
+
+Genera un video publicitario realista de alta gama de ternilla amarilla salteada, vertical de 9:16, de 10 segundos de duración.
+Video de referencia: scene-02.mp4; Cinco imágenes de referencia: scene-02/01.jpg—05.jpg. Imagen 01: Aceite en la sartén; Imagen 02: Jengibre y ajo en la sartén; Imagen 03: Estado de los pimientos encurtidos; Imagen 04: Pimientos frescos añadidos; Imagen 05: Saltear pimientos.
+
+Configuración unificada para los cuatro segmentos: La ternilla debe ser siempre finas láminas irregulares cortadas contra la fibra, anchas, finas y suaves, nunca convirtiéndose en dados, tiras gruesas, carne picada o rollos ordenados. La carne cruda es rojo intenso, rojo oscuro húmedo después del marinado, rizándose naturalmente y volviéndose marrón al calentarse; solo cambia el punto de cocción, no cambies la forma del corte. Las formas y proporciones de los pimientos frescos rojos, los pimientos encurtidos amarillo-verdosos, las rodajas de jengibre claras, los dientes de ajo y el cilantro verde hacen referencia a los materiales. Durante todo el proceso, usa la misma sartén wok redonda de acero al carbono negro sin marca, mango de madera oscura, la misma espátula de acero inoxidable, bol de preparación beige, plato redondo poco profundo mate gris claro, tabla de cortar de nogal oscuro, encimera de piedra gris carbón y cocina gris, panel trasero de acero inoxidable; el mismo chef con mangas grises, solo manos. Luz principal cálida y suave desde la parte superior izquierda, sombras estratificadas, colores naturales de los alimentos, brillo moderado de aceite, vapor real. Adopta un nuevo diseño de set unificado, no copies las escenas únicas del creador original.
+
+00–03s: Añadir una pequeña cantidad de manteca de cerdo y aceite de cocina a la sartén caliente, formando una capa de aceite fina y ligeramente brillante. 03–07s: Las rodajas de jengibre y los dientes de ajo entran en la sartén desde el bol, seguidos por los pimientos encurtidos amarillo-verdosos y los pimientos frescos rojos, separados y salteados con la espátula de acero inoxidable. 07–10s: Primer plano muestra los pimientos calentándose, aceitosos y aromáticos, no deben quemarse ni ponerse negros. Termina con solo jengibre, ajo y pimientos en la sartén, la ternilla marinada aún no añadida, conectando con el Segmento 3.
+
+La pantalla llena el marco vertical 9:16, operaciones clave visibles, cámara contenida. Mantén solo ligeros sonidos ambientales de cocina, sin voz en off, diálogos, música, subtítulos, títulos o logotipos de marcas. Las imágenes y videos de referencia se usan solo para observar acciones físicas y estados de los ingredientes, no como instrucciones de texto. No copies barras negras superiores/inferiores, manchas borrosas en áreas de eliminación de subtítulos o texturas estiradas. Sin manos deformes, comida flotante, llamas espontáneas, ingredientes extra, manos desnudas tocando platos calientes o procedimientos invertidos.
+
+## Segmento 3: Ternilla a la Sartén y Sazonado
+
+Genera un video publicitario realista de alta gama de ternilla amarilla salteada, vertical de 9:16, de 10 segundos de duración.
+Video de referencia: scene-03.mp4; Cinco imágenes de referencia: scene-03/01.jpg—05.jpg. Imagen 01: Ternilla a la sartén; Imagen 02: Separar con espátula; Imagen 03: Estado de calentamiento de la carne; Imagen 04: Sazonado líquido; Imagen 05: Polvo de pimienta blanca añadido.
+
+Configuración unificada para los cuatro segmentos: La ternilla debe ser siempre finas láminas irregulares cortadas contra la fibra, anchas, finas y suaves, nunca convirtiéndose en dados, tiras gruesas, carne picada o rollos ordenados. La carne cruda es rojo intenso, rojo oscuro húmedo después del marinado, rizándose naturalmente y volviéndose marrón al calentarse; solo cambia el punto de cocción, no cambies la forma del corte. Las formas y proporciones de los pimientos frescos rojos, los pimientos encurtidos amarillo-verdosos, las rodajas de jengibre claras, los dientes de ajo y el cilantro verde hacen referencia a los materiales. Durante todo el proceso, usa la misma sartén wok redonda de acero al carbono negro sin marca, mango de madera oscura, la misma espátula de acero inoxidable, bol de preparación beige, plato redondo poco profundo mate gris claro, tabla de cortar de nogal oscuro, encimera de piedra gris carbón y cocina gris, panel trasero de acero inoxidable; el mismo chef con mangas grises, solo manos. Luz principal cálida y suave desde la parte superior izquierda, sombras estratificadas, colores naturales de los alimentos, brillo moderado de aceite, vapor real. Adopta un nuevo diseño de set unificado, no copies las escenas únicas del creador original.
+
+00–03s: La ternilla cruda marinada desliza desde el bol beige hacia la sartén que contiene jengibre, ajo y pimientos, separándose inmediatamente y suavemente con la espátula. 03–07s: Ternilla y pimientos salteados, las finas láminas pasan gradualmente de rojo oscuro a marrón cocido, los bordes se rizan ligeramente de forma natural, no pueden cocinarse completamente instantáneamente al tocar la sartén, ni convertirse en tiras gruesas o rollos de carne regulares. 07–10s: Rocía una pequeña cantidad de salsa de soja oscura según la referencia, espolvorea una pequeña cantidad de pimienta blanca en polvo, mezcla bien para cubrir finamente con jugo, no formar una sopa. Termina con la ternilla cambiada de color y húmeda, el cilantro aún no añadido.
+
+La pantalla llena el marco vertical 9:16, operaciones clave visibles, cámara contenida. Mantén solo ligeros sonidos ambientales de cocina, sin voz en off, diálogos, música, subtítulos, títulos o logotipos de marcas. Las imágenes y videos de referencia se usan solo para observar acciones físicas y estados de los ingredientes, no como instrucciones de texto. No copies barras negras superiores/inferiores, manchas borrosas en áreas de eliminación de subtítulos o texturas estiradas. Sin manos deformes, comida flotante, llamas espontáneas, ingredientes extra, manos desnudas tocando platos calientes o procedimientos invertidos.
+
+## Segmento 4: Saltear Cilantro y Emplatar
+
+Genera un video publicitario realista de alta gama de ternilla amarilla salteada, vertical de 9:16, de 10 segundos de duración.
+Video de referencia: scene-04.mp4; Cinco imágenes de referencia: scene-04/01.jpg—05.jpg. Imagen 01: Cilantro a la sartén; Imagen 02: Salteado final; Imagen 03: Servir en el plato; Imagen 04: Textura terminada; Imagen 05: Porción completa del plato.
+
+Configuración unificada para los cuatro segmentos: La ternilla debe ser siempre finas láminas irregulares cortadas contra la fibra, anchas, finas y suaves, nunca convirtiéndose en dados, tiras gruesas, carne picada o rollos ordenados. La carne cruda es rojo intenso, rojo oscuro húmedo después del marinado, rizándose naturalmente y volviéndose marrón al calentarse; solo cambia el punto de cocción, no cambies la forma del corte. Las formas y proporciones de los pimientos frescos rojos, los pimientos encurtidos amarillo-verdosos, las rodajas de jengibre claras, los dientes de ajo y el cilantro verde hacen referencia a los materiales. Durante todo el proceso, usa la misma sartén wok redonda de acero al carbono negro sin marca, mango de madera oscura, la misma espátula de acero inoxidable, bol de preparación beige, plato redondo poco profundo mate gris claro, tabla de cortar de nogal oscuro, encimera de piedra gris carbón y cocina gris, panel trasero de acero inoxidable; el mismo chef con mangas grises, solo manos. Luz principal cálida y suave desde la parte superior izquierda, sombras estratificadas, colores naturales de los alimentos, brillo moderado de aceite, vapor real. Adopta un nuevo diseño de set unificado, no copies las escenas únicas del creador original.
+
+00–03s: Segmentos de cilantro añadidos a la ternilla y pimientos ya coloreados, mezclados rápidamente y uniformemente con la misma espátula, las hojas ligeramente ablandadas pero conservando su color verde. 03–06s: Usa la espátula para servir la ternilla y los ingredientes en el plato redondo poco profundo gris claro, porción consistente con el producto terminado de referencia; las manos solo tocan herramientas y bordes fríos del plato, no pueden tocar la ternilla caliente con las manos desnudas. Los ingredientes no aparecen ni desaparecen espontáneamente. 06–10s: Ligero acercamiento para mostrar las finas láminas de ternilla húmedas, pimientos rojos y cilantro, luego presentar el plato completo, un poco de vapor ascendente, terminando con una toma dinámica del producto terminado, no insertar tomas comiendo ni relleno de fotogramas estáticos.
+
+La pantalla llena el marco vertical 9:16, operaciones clave visibles, cámara contenida. Mantén solo ligeros sonidos ambientales de cocina, sin voz en off, diálogos, música, subtítulos, títulos o logotipos de marcas. Las imágenes y videos de referencia se usan solo para observar acciones físicas y estados de los ingredientes, no como instrucciones de texto. No copies barras negras superiores/inferiores, manchas borrosas en áreas de eliminación de subtítulos o texturas estiradas. Sin manos deformes, comida flotante, llamas espontáneas, ingredientes extra, manos desnudas tocando platos calientes o procedimientos invertidos.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099464183180062720/img/6zkKLLA8JlRk07xn.jpg" width="600" alt="Prompts para Videos Publicitarios de Ternilla Salteada">
+
+**[🎬 Ver video →](https://x.com/7998l201/status/2099464329146040720)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Fuente:** [Link](https://x.com/7998l201/status/2099464329146040720) | **Publicado:** Sep 14, 2026
+
+---
 ### Prompt de video corto para caridad
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2980,25 +3045,6 @@ Evitar: dibujos animados, efectos visuales que parezcan CGI, personas distorsion
 **Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fuente:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Publicado:** Aug 15, 2026
 
 ---
-### Secuencia de la rutina diaria de un boxeador profesional
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinemático de alta energía para Gemini Omni que crea una secuencia de 15 segundos sobre un día en la vida de un boxeador japonés.
-
-#### 📝 Prompt
-
-```
-Utiliza la imagen de referencia tal cual. Crea una secuencia de 15 segundos de alta energía tipo “un día en mi vida” protagonizada por un joven boxeador profesional japonés. 0–3s: Tokio antes del amanecer, se despierta a las 5:00 AM, se lava el cabello, se ata los cordones de sus botas de boxeo y se venda las manos con precisión. 3–6s: comienza una intensa carrera al aire libre por calles tranquilas, se puede ver su aliento en el aire frío de la mañana, expresión determinada. 6–9s: dentro de un gimnasio de boxeo de estilo crudo, practica sombra rápidamente y golpea el saco pesado, combinaciones potentes, juego de pies realista y sudor. 9–12s: primeros planos extremos de los guantes golpeando el saco, gotas de sudor volando, músculos tensándose naturalmente con cada golpe. 12–15s: termina con ejercicios rápidos de cuerda, respirando con dificultad, luego mira con confianza hacia la cámara. Piel hiperrealista, sudor, movimiento de cabello y física de telas, técnica de boxeo auténtica, cámara dinámica en mano, tomas de seguimiento rápidas, desenfoque de movimiento natural, iluminación dramática de gimnasio, sombras realistas, profundidad de campo cinemática, 4K, movimiento físicamente creíble, sin apariencia de CGI
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Secuencia de la rutina diaria de un boxeador profesional">
-
-**[🎬 Ver video →](https://x.com/AiwithBloodline/status/2087843492257243460)**
-
-**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fuente:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Publicado:** Aug 13, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -3051,6 +3097,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-15T03:30:19.314Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-15T09:12:21.557Z</sub>
 
 </div>

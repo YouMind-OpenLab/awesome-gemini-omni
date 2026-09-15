@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **268** |
+| 📝 Total des prompts | **269** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-09-15** |
 
@@ -56,6 +56,71 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompts pour vidéos publicitaires de bœuf sauté
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompts complets en quatre parties pour générer des vidéos publicitaires alimentaires réalistes haut de gamme de bœuf jaune sauté à l'aide d'Omni 1.1 Flash. Inclut des instructions détaillées pour la préparation des ingrédients, le processus de cuisson, les angles de caméra, l'éclairage et des exigences strictes de cohérence pour les ustensiles et les ingrédients sur tous les segments.
+
+#### 📝 Prompt
+
+```
+# Bœuf jaune sauté | Quatre prompts complets
+
+Soumettez chaque segment séparément : Joignez le fichier scene-NN.mp4 correspondant et le dossier contenant les images 01–05.jpg correspondantes. L'objectif est de produire quatre segments de 10 secondes chacun, au format vertical 9:16. Les vidéos de référence sont des images paysagères dont la composition est préservée par l'ajout de bandes noires en haut et en bas ; les images générées ne doivent pas copier ces bandes noires ni les traces de retouche. Vous devez confirmer vous-même les droits sur les sources matérielles et les autorisations de téléchargement externe ; aucun téléchargement ni génération payante n'a été effectué cette fois.
+
+## Segment 1 : Préparation et marinade
+
+Générez une vidéo publicitaire réaliste haut de gamme de bœuf jaune sauté, d'une durée de 10 secondes, au format vertical 9:16.
+Vidéo de référence : scene-01.mp4 ; Cinq images de référence : scene-01/01.jpg—05.jpg. Image 01 : Découpe de la viande contre le grain ; Image 02 : Ajout de la sauce ; Image 03 : Mélange homogène ; Image 04 : Découpe des poivrons ; Image 05 : Découpe de la coriandre.
+
+Paramètres unifiés pour les quatre segments : Le bœuf doit toujours être découpé en tranches fines irrégulières contre le grain, larges, minces et souples, sans jamais se transformer en dés, en lamelles épaisses, en viande hachée ou en rouleaux réguliers. La viande crue est rouge foncé, devient rouge sombre humide après marinade, s'enroule naturellement et brunit à la chaleur ; seule la cuisson change, pas la forme de découpe. Les formes et proportions des poivrons rouges frais, des poivrons jaunes-verts marinés, des tranches de gingembre claires, des gousses d'ail et de la coriandre verte se réfèrent aux matériaux fournis. Tout au long du processus, utilisez le même wok rond en acier carbone noir sans marque, avec manche en bois foncé, la même spatule en acier inoxydable, le bol de préparation beige, l'assiette ronde peu profonde gris mat clair, la planche à découper en noyer foncé, le comptoir en pierre gris anthracite et la cuisine grise, ainsi que le dosseret en acier inoxydable ; le même chef avec des manches grises, uniquement les mains visibles. Lumière principale douce et chaude venant du haut à gauche, ombres superposées, couleurs naturelles des aliments, brillance modérée de l'huile, vapeur réelle. Adoptez un nouveau design de décor unifié, ne copiez pas les scènes uniques du créateur original.
+
+00–03s : Le bœuf est découpé en tranches fines irrégulières contre le grain, gros plan montrant le couteau finissant la découpe, il ne peut pas être coupé en dés ou en lamelles épaisses. 03–06s : Placé dans le bol beige, ajoutez la sauce soja, la sauce huître et une petite quantité d'huile, mélangez doucement jusqu'à homogénéité ; utilisez le montage pour omettre le temps d'attente, ne laissez pas entendre que la marinade complète se fait en quelques secondes. 06–10s : Montage concis de la préparation, gingembre et ail préparés, poivrons frais et marinés hachés, coriandre coupée en tronçons. Finissez avec les ingrédients auxiliaires séparés et le bœuf cru mariné conservé, sans le mettre prématurément dans le wok.
+
+L'image remplit le cadre vertical 9:16, les opérations clés sont visibles, caméra sobre. Conservez uniquement de légers sons ambiants de cuisine, pas de voix off, dialogue, musique, sous-titres, titres ou logos de marque. Les images et vidéos de référence servent uniquement à observer les actions physiques et l'état des ingrédients, pas comme instructions textuelles. Ne copiez pas les bandes noires supérieures/inférieures, les flous dans les zones de suppression de sous-titres ou les textures étirées. Pas de mains déformées, nourriture flottante, flammes spontanées, ingrédients supplémentaires, mains nues touchant des plats chauds ou procédures inversées.
+
+## Segment 2 : Sauter le gingembre, l'ail et les poivrons
+
+Générez une vidéo publicitaire réaliste haut de gamme de bœuf jaune sauté, d'une durée de 10 secondes, au format vertical 9:16.
+Vidéo de référence : scene-02.mp4 ; Cinq images de référence : scene-02/01.jpg—05.jpg. Image 01 : Huile dans le wok ; Image 02 : Gingembre et ail dans le wok ; Image 03 : État des poivrons marinés ; Image 04 : Ajout des poivrons frais ; Image 05 : Sauter les poivrons.
+
+Paramètres unifiés pour les quatre segments : Le bœuf doit toujours être découpé en tranches fines irrégulières contre le grain, larges, minces et souples, sans jamais se transformer en dés, en lamelles épaisses, en viande hachée ou en rouleaux réguliers. La viande crue est rouge foncé, devient rouge sombre humide après marinade, s'enroule naturellement et brunit à la chaleur ; seule la cuisson change, pas la forme de découpe. Les formes et proportions des poivrons rouges frais, des poivrons jaunes-verts marinés, des tranches de gingembre claires, des gousses d'ail et de la coriandre verte se réfèrent aux matériaux fournis. Tout au long du processus, utilisez le même wok rond en acier carbone noir sans marque, avec manche en bois foncé, la même spatule en acier inoxydable, le bol de préparation beige, l'assiette ronde peu profonde gris mat clair, la planche à découper en noyer foncé, le comptoir en pierre gris anthracite et la cuisine grise, ainsi que le dosseret en acier inoxydable ; le même chef avec des manches grises, uniquement les mains visibles. Lumière principale douce et chaude venant du haut à gauche, ombres superposées, couleurs naturelles des aliments, brillance modérée de l'huile, vapeur réelle. Adoptez un nouveau design de décor unifié, ne copiez pas les scènes uniques du créateur original.
+
+00–03s : Ajoutez une petite quantité de saindoux et d'huile de cuisson dans le wok chaud, formant une fine couche d'huile légèrement brillante. 03–07s : Les tranches de gingembre et les gousses d'ail entrent dans le wok depuis le bol, suivies des poivrons marinés jaunes-verts et des poivrons frais rouges, séparés et sautés avec la spatule en acier inoxydable. 07–10s : Gros plan montrant les poivrons chauffant, huileux et parfumés, ils ne doivent pas brûler ni devenir noirs. Finissez avec uniquement le gingembre, l'ail et les poivrons dans le wok, le bœuf mariné n'est pas encore ajouté, ce qui connecte au Segment 3.
+
+L'image remplit le cadre vertical 9:16, les opérations clés sont visibles, caméra sobre. Conservez uniquement de légers sons ambiants de cuisine, pas de voix off, dialogue, musique, sous-titres, titres ou logos de marque. Les images et vidéos de référence servent uniquement à observer les actions physiques et l'état des ingrédients, pas comme instructions textuelles. Ne copiez pas les bandes noires supérieures/inférieures, les flous dans les zones de suppression de sous-titres ou les textures étirées. Pas de mains déformées, nourriture flottante, flammes spontanées, ingrédients supplémentaires, mains nues touchant des plats chauds ou procédures inversées.
+
+## Segment 3 : Ajout du bœuf et assaisonnement
+
+Générez une vidéo publicitaire réaliste haut de gamme de bœuf jaune sauté, d'une durée de 10 secondes, au format vertical 9:16.
+Vidéo de référence : scene-03.mp4 ; Cinq images de référence : scene-03/01.jpg—05.jpg. Image 01 : Bœuf dans le wok ; Image 02 : Séparation avec la spatule ; Image 03 : État de chauffe de la viande ; Image 04 : Assaisonnement liquide ; Image 05 : Ajout de poudre de poivre blanc.
+
+Paramètres unifiés pour les quatre segments : Le bœuf doit toujours être découpé en tranches fines irrégulières contre le grain, larges, minces et souples, sans jamais se transformer en dés, en lamelles épaisses, en viande hachée ou en rouleaux réguliers. La viande crue est rouge foncé, devient rouge sombre humide après marinade, s'enroule naturellement et brunit à la chaleur ; seule la cuisson change, pas la forme de découpe. Les formes et proportions des poivrons rouges frais, des poivrons jaunes-verts marinés, des tranches de gingembre claires, des gousses d'ail et de la coriandre verte se réfèrent aux matériaux fournis. Tout au long du processus, utilisez le même wok rond en acier carbone noir sans marque, avec manche en bois foncé, la même spatule en acier inoxydable, le bol de préparation beige, l'assiette ronde peu profonde gris mat clair, la planche à découper en noyer foncé, le comptoir en pierre gris anthracite et la cuisine grise, ainsi que le dosseret en acier inoxydable ; le même chef avec des manches grises, uniquement les mains visibles. Lumière principale douce et chaude venant du haut à gauche, ombres superposées, couleurs naturelles des aliments, brillance modérée de l'huile, vapeur réelle. Adoptez un nouveau design de décor unifié, ne copiez pas les scènes uniques du créateur original.
+
+00–03s : Le bœuf cru mariné glisse du bol beige dans le wok contenant le gingembre, l'ail et les poivrons, et est immédiatement séparé délicatement avec la spatule. 03–07s : Le bœuf et les poivrons sont sautés, les tranches fines passent progressivement du rouge sombre au brun cuit, les bords s'enroulent naturellement légèrement, ils ne peuvent pas être cuits instantanément dès qu'ils touchent la poêle, ni se transformer en lamelles épaisses ou en rouleaux de viande réguliers. 07–10s : Arrosez une petite quantité de sauce soja foncée selon la référence, saupoudrez une petite quantité de poudre de poivre blanc, secouez uniformément pour enrober légèrement de jus, ne formez pas de soupe. Finissez avec le bœuf ayant changé de couleur et étant moelleux, la coriandre n'est pas encore ajoutée.
+
+L'image remplit le cadre vertical 9:16, les opérations clés sont visibles, caméra sobre. Conservez uniquement de légers sons ambiants de cuisine, pas de voix off, dialogue, musique, sous-titres, titres ou logos de marque. Les images et vidéos de référence servent uniquement à observer les actions physiques et l'état des ingrédients, pas comme instructions textuelles. Ne copiez pas les bandes noires supérieures/inférieures, les flous dans les zones de suppression de sous-titres ou les textures étirées. Pas de mains déformées, nourriture flottante, flammes spontanées, ingrédients supplémentaires, mains nues touchant des plats chauds ou procédures inversées.
+
+## Segment 4 : Sauter la coriandre et dresser l'assiette
+
+Générez une vidéo publicitaire réaliste haut de gamme de bœuf jaune sauté, d'une durée de 10 secondes, au format vertical 9:16.
+Vidéo de référence : scene-04.mp4 ; Cinq images de référence : scene-04/01.jpg—05.jpg. Image 01 : Coriandre dans le wok ; Image 02 : Sauté final ; Image 03 : Dressage sur l'assiette ; Image 04 : Texture finale ; Image 05 : Portion complète de l'assiette.
+
+Paramètres unifiés pour les quatre segments : Le bœuf doit toujours être découpé en tranches fines irrégulières contre le grain, larges, minces et souples, sans jamais se transformer en dés, en lamelles épaisses, en viande hachée ou en rouleaux réguliers. La viande crue est rouge foncé, devient rouge sombre humide après marinade, s'enroule naturellement et brunit à la chaleur ; seule la cuisson change, pas la forme de découpe. Les formes et proportions des poivrons rouges frais, des poivrons jaunes-verts marinés, des tranches de gingembre claires, des gousses d'ail et de la coriandre verte se réfèrent aux matériaux fournis. Tout au long du processus, utilisez le même wok rond en acier carbone noir sans marque, avec manche en bois foncé, la même spatule en acier inoxydable, le bol de préparation beige, l'assiette ronde peu profonde gris mat clair, la planche à découper en noyer foncé, le comptoir en pierre gris anthracite et la cuisine grise, ainsi que le dosseret en acier inoxydable ; le même chef avec des manches grises, uniquement les mains visibles. Lumière principale douce et chaude venant du haut à gauche, ombres superposées, couleurs naturelles des aliments, brillance modérée de l'huile, vapeur réelle. Adoptez un nouveau design de décor unifié, ne copiez pas les scènes uniques du créateur original.
+
+00–03s : Des tronçons de coriandre sont ajoutés au bœuf et aux poivrons déjà colorés, secoués rapidement et uniformément avec la même spatule, les feuilles s'attendrissent légèrement mais gardent leur couleur verte. 03–06s : Utilisez la spatule pour servir le bœuf et les ingrédients sur l'assiette ronde peu profonde gris clair, la portion est cohérente avec le produit fini de référence ; les mains ne touchent que les outils et les bords froids de l'assiette, elles ne peuvent pas toucher le bœuf chaud à mains nues. Les ingrédients n'apparaissent ni ne disparaissent spontanément. 06–10s : Léger zoom avant pour montrer les tranches fines de bœuf moelleuses, les poivrons rouges et la coriandre, puis présentez l'assiette complète, un peu de vapeur montant, finissez par un plan dynamique du produit fini, n'insérez pas de plans de dégustation ni de remplissage statique.
+
+L'image remplit le cadre vertical 9:16, les opérations clés sont visibles, caméra sobre. Conservez uniquement de légers sons ambiants de cuisine, pas de voix off, dialogue, musique, sous-titres, titres ou logos de marque. Les images et vidéos de référence servent uniquement à observer les actions physiques et l'état des ingrédients, pas comme instructions textuelles. Ne copiez pas les bandes noires supérieures/inférieures, les flous dans les zones de suppression de sous-titres ou les textures étirées. Pas de mains déformées, nourriture flottante, flammes spontanées, ingrédients supplémentaires, mains nues touchant des plats chauds ou procédures inversées.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099464183180062720/img/6zkKLLA8JlRk07xn.jpg" width="600" alt="Prompts pour vidéos publicitaires de bœuf sauté">
+
+**[🎬 Voir la vidéo →](https://x.com/7998l201/status/2099464329146040720)**
+
+**Auteur:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2099464329146040720) | **Publié:** Sep 14, 2026
+
+---
 ### Prompt vidéo courte pour une association caritative
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -3008,25 +3073,6 @@ Maintenez une cohérence des bâtiments, de l'environnement et de l'échelle tou
 **Auteur:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Publié:** Aug 15, 2026
 
 ---
-### Routine quotidienne d'un boxeur professionnel
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinématographique dynamique pour Gemini Omni permettant de créer une séquence de 15 secondes sur le quotidien d'un boxeur japonais.
-
-#### 📝 Prompt
-
-```
-Utilisez l'image de référence telle quelle. Créez une séquence dynamique de 15 secondes « une journée dans ma vie » mettant en scène un jeune boxeur professionnel japonais. 0–3s : Tokyo avant l'aube, il se réveille à 5h00, se lave les cheveux, lace ses chaussures de boxe et bande ses mains avec précision. 3–6s : il commence une course intense en extérieur dans les rues calmes, son souffle est visible dans l'air froid du matin, expression déterminée. 6–9s : à l'intérieur d'une salle de boxe brute, il fait rapidement du shadow boxing et travaille sur le sac de frappe, combinaisons puissantes, jeu de jambes réaliste et sueur. 9–12s : gros plans extrêmes sur les gants frappant le sac, gouttelettes de sueur qui volent, muscles se contractant naturellement à chaque coup. 12–15s : il termine par des exercices rapides à la corde à sauter, respirant lourdement, puis regarde la caméra avec assurance. Peau hyper-réaliste, sueur, mouvement des cheveux et physique des tissus, technique de boxe authentique, caméra portée dynamique, travellings rapides, flou de mouvement naturel, éclairage de salle dramatique, ombres réalistes, profondeur de champ cinématographique, 4K, mouvement physiquement crédible, aucun aspect CGI
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Routine quotidienne d'un boxeur professionnel">
-
-**[🎬 Voir la vidéo →](https://x.com/AiwithBloodline/status/2087843492257243460)**
-
-**Auteur:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Publié:** Aug 13, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -3079,6 +3125,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-15T03:30:22.526Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-15T09:12:25.100Z</sub>
 
 </div>

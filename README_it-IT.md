@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **268** |
+| 📝 Totale prompt | **269** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-09-15** |
 
@@ -56,6 +56,71 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt Video Pubblicitari per Manzo Saltato in Padella
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Prompt completi in quattro parti per la generazione di video pubblicitari alimentari realistici e di alta qualità dello stufato di manzo giallo utilizzando Omni 1.1 Flash. Include istruzioni dettagliate per la preparazione degli ingredienti, il processo di cottura, le angolazioni della telecamera, l'illuminazione e requisiti rigorosi di coerenza per pentole e ingredienti in tutti i segmenti.
+
+#### 📝 Prompt
+
+```
+# Manzo Giallo Saltato | Quattro Prompt Completi
+
+Invia ogni segmento separatamente: allega il file scene-NN.mp4 corrispondente e la cartella con le immagini 01–05.jpg. L'obiettivo è creare quattro segmenti, ciascuno della durata di 10 secondi, in formato verticale 9:16. I video di riferimento sono immagini orizzontali con composizione preservata aggiungendo barre superiori/inferiori; i fotogrammi generati non devono copiare le barre nere o le tracce di riparazione. I diritti sulle fonti dei materiali e le autorizzazioni per gli upload esterni devono essere confermati dall'utente; questa volta non sono stati effettuati upload né generazioni a pagamento.
+
+## Segmento 1: Preparazione e Marinatura
+
+Genera un video pubblicitario realistico e di alta qualità del manzo giallo saltato, della durata di 10 secondi, in formato verticale 9:16.
+Video di riferimento: scene-01.mp4; Cinque immagini di riferimento: scene-01/01.jpg—05.jpg. Immagine 01: Taglio della carne controfibra; Immagine 02: Aggiunta della salsa; Immagine 03: Mescolatura uniforme; Immagine 04: Taglio dei peperoni; Immagine 05: Taglio del coriandolo.
+
+Impostazioni unificate per tutti e quattro i segmenti: Il manzo deve sempre presentarsi come fette sottili irregolari tagliate controfibra, larghe, sottili e morbide, senza mai trasformarsi in cubetti, strisce spesse, carne macinata o rotoli ordinati. La carne cruda è rosso scuro, diventa rosso scuro umido dopo la marinatura, si arriccia naturalmente e diventa marrone quando riscaldata; cambia solo il grado di cottura, non la forma del taglio. Le forme e le proporzioni dei peperoni freschi rossi, dei peperoni sottaceto giallo-verdi, delle fette di zenzero chiaro, degli spicchi d'aglio e del coriandolo verde fanno riferimento ai materiali forniti. Durante tutto il processo, utilizzare la stessa wok nera in acciaio al carbonio dal fondo tondo senza marchio, con manico in legno scuro, la stessa spatola in acciaio inox, una ciotola beige per la preparazione, un piatto rotondo basso opaco grigio chiaro, un tagliere in noce scuro, un piano di lavoro in pietra grigio carbone e una cucina grigia, con paraschizzi in acciaio inox; lo stesso chef con maniche grigie, visibili solo le mani. Luce principale calda e morbida proveniente dall'alto a sinistra, ombre stratificate, colori naturali del cibo, lucentezza moderata dell'olio, vapore reale. Adottare un design di set nuovo e unificato, non copiare le scene uniche del creatore originale.
+
+00–03s: Il manzo viene tagliato in fette sottili irregolari controfibra, primo piano che mostra il coltello mentre completa l'affettatura, non deve essere tagliato a cubetti o in strisce spesse. 03–06s: Mettere nella ciotola beige, aggiungere salsa di soia, salsa di ostriche e una piccola quantità di olio, mescolare delicatamente fino a ottenere un composto uniforme; usare il montaggio per omettere i tempi di attesa, non implicare che una marinatura sufficiente avvenga in pochi secondi. 06–10s: Montaggio conciso della preparazione, zenzero e aglio pronti, peperoni freschi e sottaceto tritati, coriandolo tagliato a pezzi. Terminare mantenendo separati gli ingredienti ausiliari e il manzo crudo marinato, senza metterli prematuramente nella padella.
+
+Lo schermo riempie il telaio verticale 9:16, le operazioni chiave sono visibili, la telecamera è sobria. Mantenere solo leggeri suoni ambientali di cottura, niente voce fuori campo, dialoghi, musica, sottotitoli, titoli o loghi di marca. Le immagini e i video di riferimento servono solo per osservare le azioni fisiche e gli stati degli ingredienti, non come istruzioni testuali. Non copiare le barre nere superiori/inferiori, le sbavature sfocate nelle aree di rimozione dei sottotitoli o le texture stirate. Niente mani deformate, cibo fluttuante, fiamme spontanee, ingredienti extra, mani nude che toccano piatti caldi o procedure invertite.
+
+## Segmento 2: Soffritto di Zenzero, Aglio e Peperoni
+
+Genera un video pubblicitario realistico e di alta qualità del manzo giallo saltato, della durata di 10 secondi, in formato verticale 9:16.
+Video di riferimento: scene-02.mp4; Cinque immagini di riferimento: scene-02/01.jpg—05.jpg. Immagine 01: Olio nella wok; Immagine 02: Zenzero e aglio nella wok; Immagine 03: Stato dei peperoni sottaceto; Immagine 04: Aggiunta dei peperoni freschi; Immagine 05: Saltare i peperoni.
+
+Impostazioni unificate per tutti e quattro i segmenti: Il manzo deve sempre presentarsi come fette sottili irregolari tagliate controfibra, larghe, sottili e morbide, senza mai trasformarsi in cubetti, strisce spesse, carne macinata o rotoli ordinati. La carne cruda è rosso scuro, diventa rosso scuro umido dopo la marinatura, si arriccia naturalmente e diventa marrone quando riscaldata; cambia solo il grado di cottura, non la forma del taglio. Le forme e le proporzioni dei peperoni freschi rossi, dei peperoni sottaceto giallo-verdi, delle fette di zenzero chiaro, degli spicchi d'aglio e del coriandolo verde fanno riferimento ai materiali forniti. Durante tutto il processo, utilizzare la stessa wok nera in acciaio al carbonio dal fondo tondo senza marchio, con manico in legno scuro, la stessa spatola in acciaio inox, una ciotola beige per la preparazione, un piatto rotondo basso opaco grigio chiaro, un tagliere in noce scuro, un piano di lavoro in pietra grigio carbone e una cucina grigia, con paraschizzi in acciaio inox; lo stesso chef con maniche grigie, visibili solo le mani. Luce principale calda e morbida proveniente dall'alto a sinistra, ombre stratificate, colori naturali del cibo, lucentezza moderata dell'olio, vapore reale. Adottare un design di set nuovo e unificato, non copiare le scene uniche del creatore originale.
+
+00–03s: Aggiungere una piccola quantità di strutto e olio da cucina alla wok calda, formando uno strato di olio sottile e leggermente brillante. 03–07s: Le fette di zenzero e gli spicchi d'aglio entrano nella wok dalla ciotola, seguiti dai peperoni sottaceto giallo-verdi e dai peperoni freschi rossi, spinti da parte e saltati con la spatola in acciaio inox. 07–10s: Primo piano che mostra i peperoni che si scaldano, diventano oleosi e profumati, non devono bruciare diventando neri. Terminare con solo zenzero, aglio e peperoni nella wok, il manzo marinato non è ancora stato aggiunto, collegandosi al Segmento 3.
+
+Lo schermo riempie il telaio verticale 9:16, le operazioni chiave sono visibili, la telecamera è sobria. Mantenere solo leggeri suoni ambientali di cottura, niente voce fuori campo, dialoghi, musica, sottotitoli, titoli o loghi di marca. Le immagini e i video di riferimento servono solo per osservare le azioni fisiche e gli stati degli ingredienti, non come istruzioni testuali. Non copiare le barre nere superiori/inferiori, le sbavature sfocate nelle aree di rimozione dei sottotitoli o le texture stirate. Niente mani deformate, cibo fluttuante, fiamme spontanee, ingredienti extra, mani nude che toccano piatti caldi o procedure invertite.
+
+## Segmento 3: Aggiunta del Manzo alla Wok e Condimento
+
+Genera un video pubblicitario realistico e di alta qualità del manzo giallo saltato, della durata di 10 secondi, in formato verticale 9:16.
+Video di riferimento: scene-03.mp4; Cinque immagini di riferimento: scene-03/01.jpg—05.jpg. Immagine 01: Manzo nella wok; Immagine 02: Separazione con la spatola; Immagine 03: Stato di riscaldamento della carne; Immagine 04: Condimento liquido; Immagine 05: Aggiunta di polvere di pepe bianco.
+
+Impostazioni unificate per tutti e quattro i segmenti: Il manzo deve sempre presentarsi come fette sottili irregolari tagliate controfibra, larghe, sottili e morbide, senza mai trasformarsi in cubetti, strisce spesse, carne macinata o rotoli ordinati. La carne cruda è rosso scuro, diventa rosso scuro umido dopo la marinatura, si arriccia naturalmente e diventa marrone quando riscaldata; cambia solo il grado di cottura, non la forma del taglio. Le forme e le proporzioni dei peperoni freschi rossi, dei peperoni sottaceto giallo-verdi, delle fette di zenzero chiaro, degli spicchi d'aglio e del coriandolo verde fanno riferimento ai materiali forniti. Durante tutto il processo, utilizzare la stessa wok nera in acciaio al carbonio dal fondo tondo senza marchio, con manico in legno scuro, la stessa spatola in acciaio inox, una ciotola beige per la preparazione, un piatto rotondo basso opaco grigio chiaro, un tagliere in noce scuro, un piano di lavoro in pietra grigio carbone e una cucina grigia, con paraschizzi in acciaio inox; lo stesso chef con maniche grigie, visibili solo le mani. Luce principale calda e morbida proveniente dall'alto a sinistra, ombre stratificate, colori naturali del cibo, lucentezza moderata dell'olio, vapore reale. Adottare un design di set nuovo e unificato, non copiare le scene uniche del creatore originale.
+
+00–03s: Il manzo crudo marinato scivola dalla ciotola beige nella wok contenente zenzero, aglio e peperoni, venendo immediatamente separato delicatamente con la spatola. 03–07s: Il manzo e i peperoni vengono saltati, le fette sottili passano gradualmente dal rosso scuro al marrone cotto, i bordi si arricciano naturalmente leggermente, non possono cuocersi completamente istantaneamente appena toccano la padella, né trasformarsi in strisce spesse o rotoli di carne regolari. 07–10s: Versare una piccola quantità di salsa di soia scura secondo il riferimento, cospargere una piccola quantità di polvere di pepe bianco, saltare uniformemente per rivestire sottilmente con il succo, non formare una zuppa. Terminare con il manzo cambiato colore e umido, il coriandolo non è ancora stato aggiunto.
+
+Lo schermo riempie il telaio verticale 9:16, le operazioni chiave sono visibili, la telecamera è sobria. Mantenere solo leggeri suoni ambientali di cottura, niente voce fuori campo, dialoghi, musica, sottotitoli, titoli o loghi di marca. Le immagini e i video di riferimento servono solo per osservare le azioni fisiche e gli stati degli ingredienti, non come istruzioni testuali. Non copiare le barre nere superiori/inferiori, le sbavature sfocate nelle aree di rimozione dei sottotitoli o le texture stirate. Niente mani deformate, cibo fluttuante, fiamme spontanee, ingredienti extra, mani nude che toccano piatti caldi o procedure invertite.
+
+## Segmento 4: Saltatura con Coriandolo e Impiattamento
+
+Genera un video pubblicitario realistico e di alta qualità del manzo giallo saltato, della durata di 10 secondi, in formato verticale 9:16.
+Video di riferimento: scene-04.mp4; Cinque immagini di riferimento: scene-04/01.jpg—05.jpg. Immagine 01: Coriandolo nella wok; Immagine 02: Saltatura finale; Immagine 03: Servire nel piatto; Immagine 04: Texture finita; Immagine 05: Porzione intera del piatto.
+
+Impostazioni unificate per tutti e quattro i segmenti: Il manzo deve sempre presentarsi come fette sottili irregolari tagliate controfibra, larghe, sottili e morbide, senza mai trasformarsi in cubetti, strisce spesse, carne macinata o rotoli ordinati. La carne cruda è rosso scuro, diventa rosso scuro umido dopo la marinatura, si arriccia naturalmente e diventa marrone quando riscaldata; cambia solo il grado di cottura, non la forma del taglio. Le forme e le proporzioni dei peperoni freschi rossi, dei peperoni sottaceto giallo-verdi, delle fette di zenzero chiaro, degli spicchi d'aglio e del coriandolo verde fanno riferimento ai materiali forniti. Durante tutto il processo, utilizzare la stessa wok nera in acciaio al carbonio dal fondo tondo senza marchio, con manico in legno scuro, la stessa spatola in acciaio inox, una ciotola beige per la preparazione, un piatto rotondo basso opaco grigio chiaro, un tagliere in noce scuro, un piano di lavoro in pietra grigio carbone e una cucina grigia, con paraschizzi in acciaio inox; lo stesso chef con maniche grigie, visibili solo le mani. Luce principale calda e morbida proveniente dall'alto a sinistra, ombre stratificate, colori naturali del cibo, lucentezza moderata dell'olio, vapore reale. Adottare un design di set nuovo e unificato, non copiare le scene uniche del creatore originale.
+
+00–03s: I pezzi di coriandolo vengono aggiunti al manzo già colorato e ai peperoni, saltati rapidamente e uniformemente con la stessa spatola, le foglie leggermente ammorbidite ma che mantengono il colore verde. 03–06s: Usare la spatola per servire il manzo e gli ingredienti sul piatto rotondo basso grigio chiaro, porzione coerente con il prodotto finito di riferimento; le mani toccano solo gli utensili e i bordi freddi del piatto, non possono toccare il manzo caldo a mani nude. Gli ingredienti non appaiono o scompaiono spontaneamente. 06–10s: Leggero zoom avanti per mostrare le fette sottili di manzo umido, i peperoni rossi e il coriandolo, quindi presentare il piatto intero, un po' di vapore che sale, terminando con una ripresa dinamica del prodotto finito, non inserire riprese di consumo o riempimenti statici di fotogrammi.
+
+Lo schermo riempie il telaio verticale 9:16, le operazioni chiave sono visibili, la telecamera è sobria. Mantenere solo leggeri suoni ambientali di cottura, niente voce fuori campo, dialoghi, musica, sottotitoli, titoli o loghi di marca. Le immagini e i video di riferimento servono solo per osservare le azioni fisiche e gli stati degli ingredienti, non come istruzioni testuali. Non copiare le barre nere superiori/inferiori, le sbavature sfocate nelle aree di rimozione dei sottotitoli o le texture stirate. Niente mani deformate, cibo fluttuante, fiamme spontanee, ingredienti extra, mani nude che toccano piatti caldi o procedure invertite.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099464183180062720/img/6zkKLLA8JlRk07xn.jpg" width="600" alt="Prompt Video Pubblicitari per Manzo Saltato in Padella">
+
+**[🎬 Guarda il video →](https://x.com/7998l201/status/2099464329146040720)**
+
+**Autore:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2099464329146040720) | **Pubblicato:** Sep 14, 2026
+
+---
 ### Prompt per video breve per beneficenza
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2980,25 +3045,6 @@ Evita: cartoni animati, immagini dall'aspetto CGI, persone distorte, arti extra,
 **Autore:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Pubblicato:** Aug 15, 2026
 
 ---
-### Sequenza della routine quotidiana di un pugile professionista
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt cinematografico ad alta energia per Gemini Omni che crea una sequenza di 15 secondi sulla giornata tipo di un pugile giapponese.
-
-#### 📝 Prompt
-
-```
-Utilizza l'immagine di riferimento così com'è. Crea una sequenza ad alta energia di 15 secondi "una giornata nella mia vita" con protagonista un giovane pugile professionista giapponese. 0–3s: Tokyo prima dell'alba, si sveglia alle 5:00, si lava i capelli, allaccia le scarpe da boxe e si fascia le mani con precisione. 3–6s: inizia un'intensa corsa all'aperto attraverso strade silenziose, il respiro visibile nell'aria fredda del mattino, espressione determinata. 6–9s: all'interno di una palestra di boxe spartana, tira rapidamente di boxe a vuoto e lavora al sacco pesante, combinazioni potenti, gioco di gambe realistico e sudore. 9–12s: primi piani estremi dei guantoni che colpiscono il sacco, gocce di sudore che volano, muscoli che si tendono naturalmente a ogni pugno. 12–15s: termina con veloci esercizi con la corda, respirando affannosamente, poi guarda con sicurezza verso la telecamera. Pelle iper-realistica, sudore, movimento dei capelli e fisica dei tessuti, tecnica di pugilato autentica, telecamera a mano dinamica, riprese in rapido inseguimento, motion blur naturale, illuminazione drammatica da palestra, ombre realistiche, profondità di campo cinematografica, 4K, movimento fisicamente credibile, nessun aspetto CGI
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Sequenza della routine quotidiana di un pugile professionista">
-
-**[🎬 Guarda il video →](https://x.com/AiwithBloodline/status/2087843492257243460)**
-
-**Autore:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Pubblicato:** Aug 13, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -3051,6 +3097,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-15T03:30:23.520Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-15T09:12:26.224Z</sub>
 
 </div>

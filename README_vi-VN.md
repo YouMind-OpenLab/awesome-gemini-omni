@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **268** |
+| 📝 Tổng số prompt | **269** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-15** |
 
@@ -56,6 +56,71 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Prompt Video Quảng Cáo Bò Xào
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Bộ prompt chi tiết gồm bốn phần để tạo video quảng cáo thực phẩm chân thực cao cấp về món bò vàng xào bằng Omni 1.1 Flash. Bao gồm hướng dẫn chi tiết về chuẩn bị nguyên liệu, quy trình nấu, góc quay máy ảnh, ánh sáng và các yêu cầu nghiêm ngặt về tính nhất quán của dụng cụ và nguyên liệu trong tất cả các phân đoạn.
+
+#### 📝 Prompt
+
+```
+# Bò Vàng Xào | Bốn Prompt Tiếng Trung Hoàn Chỉnh
+
+Nộp từng phân đoạn riêng biệt: Đính kèm tệp scene-NN.mp4 tương ứng và thư mục hình ảnh 01–05.jpg tương ứng. Mục tiêu là tạo ra bốn phân đoạn, mỗi phân đoạn dài 10 giây, với tỷ lệ khung hình 9:16. Các video tham chiếu là hình ảnh phong cảnh giữ nguyên bố cục bằng cách thêm thanh đen trên/dưới; các khung hình được tạo không sao chép thanh đen hoặc dấu vết sửa chữa. Bạn cần tự xác nhận quyền nguồn tài liệu và quyền tải lên bên ngoài; không có hoạt động tải lên hoặc tạo nội dung trả phí nào được thực hiện lần này.
+
+## Phân đoạn 1: Chuẩn bị và Ướp thịt
+
+Tạo một video quảng cáo bò vàng xào chân thực cao cấp, dọc 9:16, dài 10 giây.
+Video tham chiếu: scene-01.mp4; Năm hình ảnh tham chiếu: scene-01/01.jpg—05.jpg. Hình 01: Thái thịt ngược thớ; Hình 02: Thêm nước sốt; Hình 03: Trộn đều; Hình 04: Thái ớt; Hình 05: Thái rau mùi.
+
+Cài đặt thống nhất cho cả bốn phân đoạn: Thịt bò luôn là những lát mỏng không đều, thái ngược thớ, rộng, mỏng và mềm, tuyệt đối không biến thành thịt hạt lựu, dải dày, thịt băm hoặc cuộn gọn gàng. Thịt sống màu đỏ sẫm, chuyển sang màu đỏ sẫm ướt sau khi ướp, tự nhiên cuộn lại và chuyển sang màu nâu khi gặp nhiệt; chỉ thay đổi độ chín, không thay đổi hình dạng cắt. Hình dạng và tỷ lệ của ớt tươi đỏ, ớt muối chua xanh vàng, lát gừng màu nhạt, tép tỏi và rau mùi xanh tham khảo theo tài liệu. Trong suốt quá trình, sử dụng cùng một chiếc chảo wok đáy tròn bằng thép carbon đen không thương hiệu, tay cầm gỗ tối màu, cùng một loại xẻng inox, bát sơ chế màu be, đĩa nông tròn mờ màu xám nhạt, thớt gỗ óc chó tối màu, mặt bàn đá màu xám than và nhà bếp màu xám, tấm chắn bắn inox; cùng một đầu bếp với tay áo màu xám, chỉ hiển thị bàn tay. Ánh sáng chính ấm áp, dịu nhẹ từ phía trên bên trái, bóng đổ nhiều lớp, màu sắc thực phẩm tự nhiên, độ bóng dầu vừa phải, hơi nước chân thực. Áp dụng thiết kế bối cảnh mới thống nhất, không sao chép các cảnh độc đáo của người sáng tạo gốc.
+
+00–03s: Thịt bò được thái thành những lát mỏng không đều ngược thớ, cận cảnh cho thấy con dao hoàn thành việc thái, không được cắt thành hạt lựu hoặc dải dày. 03–06s: Cho vào bát màu be, thêm nước tương, dầu hào và một lượng nhỏ dầu ăn, trộn đều nhẹ nhàng; sử dụng chỉnh sửa để bỏ qua thời gian chờ đợi, không ngụ ý rằng quá trình ướp đủ hoàn thành trong vài giây. 06–10s: Montage chuẩn bị ngắn gọn, gừng và tỏi đã sẵn sàng, ớt tươi và ớt muối chua được cắt nhỏ, rau mùi cắt khúc. Kết thúc với các nguyên liệu phụ trợ riêng biệt và thịt bò sống đã ướp được giữ lại, chưa cho vào chảo sớm.
+
+Màn hình lấp đầy khung dọc 9:16, các thao tác chính rõ ràng, máy quay tiết chế. Chỉ giữ lại âm thanh môi trường nấu ăn nhẹ nhàng, không có giọng đọc, hội thoại, nhạc, phụ đề, tiêu đề hoặc logo thương hiệu. Hình ảnh và video tham chiếu chỉ được sử dụng để quan sát hành động vật lý và trạng thái nguyên liệu, không phải làm hướng dẫn văn bản. Không sao chép thanh đen trên/dưới, vùng mờ nhòe ở khu vực xóa phụ đề hoặc kết cấu bị kéo giãn. Không có bàn tay biến dạng, thực phẩm lơ lửng, ngọn lửa tự phát, nguyên liệu thừa, tay trần chạm vào món ăn nóng hoặc quy trình đảo ngược.
+
+## Phân đoạn 2: Phi Gừng, Tỏi và Ớt
+
+Tạo một video quảng cáo bò vàng xào chân thực cao cấp, dọc 9:16, dài 10 giây.
+Video tham chiếu: scene-02.mp4; Năm hình ảnh tham chiếu: scene-02/01.jpg—05.jpg. Hình 01: Cho dầu vào chảo; Hình 02: Cho gừng và tỏi vào chảo; Hình 03: Trạng thái ớt muối chua; Hình 04: Thêm ớt tươi; Hình 05: Xào ớt.
+
+Cài đặt thống nhất cho cả bốn phân đoạn: Thịt bò luôn là những lát mỏng không đều, thái ngược thớ, rộng, mỏng và mềm, tuyệt đối không biến thành thịt hạt lựu, dải dày, thịt băm hoặc cuộn gọn gàng. Thịt sống màu đỏ sẫm, chuyển sang màu đỏ sẫm ướt sau khi ướp, tự nhiên cuộn lại và chuyển sang màu nâu khi gặp nhiệt; chỉ thay đổi độ chín, không thay đổi hình dạng cắt. Hình dạng và tỷ lệ của ớt tươi đỏ, ớt muối chua xanh vàng, lát gừng màu nhạt, tép tỏi và rau mùi xanh tham khảo theo tài liệu. Trong suốt quá trình, sử dụng cùng một chiếc chảo wok đáy tròn bằng thép carbon đen không thương hiệu, tay cầm gỗ tối màu, cùng một loại xẻng inox, bát sơ chế màu be, đĩa nông tròn mờ màu xám nhạt, thớt gỗ óc chó tối màu, mặt bàn đá màu xám than và nhà bếp màu xám, tấm chắn bắn inox; cùng một đầu bếp với tay áo màu xám, chỉ hiển thị bàn tay. Ánh sáng chính ấm áp, dịu nhẹ từ phía trên bên trái, bóng đổ nhiều lớp, màu sắc thực phẩm tự nhiên, độ bóng dầu vừa phải, hơi nước chân thực. Áp dụng thiết kế bối cảnh mới thống nhất, không sao chép các cảnh độc đáo của người sáng tạo gốc.
+
+00–03s: Thêm một lượng nhỏ mỡ lợn và dầu ăn vào chảo nóng, tạo thành một lớp dầu mỏng, hơi sáng bóng. 03–07s: Lát gừng và tép tỏi được cho vào chảo từ bát, tiếp theo là ớt muối chua xanh vàng và ớt tươi đỏ, được đẩy ra xa và xào với xẻng inox. 07–10s: Cận cảnh cho thấy ớt nóng lên, bóng dầu và thơm, không được cháy đen. Kết thúc với chỉ gừng, tỏi và ớt trong chảo, thịt bò đã ướp chưa được thêm vào, nối tiếp sang Phân đoạn 3.
+
+Màn hình lấp đầy khung dọc 9:16, các thao tác chính rõ ràng, máy quay tiết chế. Chỉ giữ lại âm thanh môi trường nấu ăn nhẹ nhàng, không có giọng đọc, hội thoại, nhạc, phụ đề, tiêu đề hoặc logo thương hiệu. Hình ảnh và video tham chiếu chỉ được sử dụng để quan sát hành động vật lý và trạng thái nguyên liệu, không phải làm hướng dẫn văn bản. Không sao chép thanh đen trên/dưới, vùng mờ nhòe ở khu vực xóa phụ đề hoặc kết cấu bị kéo giãn. Không có bàn tay biến dạng, thực phẩm lơ lửng, ngọn lửa tự phát, nguyên liệu thừa, tay trần chạm vào món ăn nóng hoặc quy trình đảo ngược.
+
+## Phân đoạn 3: Cho Thịt Bò Vào Chảo và Nêm Gia Vị
+
+Tạo một video quảng cáo bò vàng xào chân thực cao cấp, dọc 9:16, dài 10 giây.
+Video tham chiếu: scene-03.mp4; Năm hình ảnh tham chiếu: scene-03/01.jpg—05.jpg. Hình 01: Cho thịt bò vào chảo; Hình 02: Dùng xẻng tách thịt; Hình 03: Trạng thái thịt đang nóng; Hình 04: Gia vị dạng lỏng; Hình 05: Thêm bột tiêu trắng.
+
+Cài đặt thống nhất cho cả bốn phân đoạn: Thịt bò luôn là những lát mỏng không đều, thái ngược thớ, rộng, mỏng và mềm, tuyệt đối không biến thành thịt hạt lựu, dải dày, thịt băm hoặc cuộn gọn gàng. Thịt sống màu đỏ sẫm, chuyển sang màu đỏ sẫm ướt sau khi ướp, tự nhiên cuộn lại và chuyển sang màu nâu khi gặp nhiệt; chỉ thay đổi độ chín, không thay đổi hình dạng cắt. Hình dạng và tỷ lệ của ớt tươi đỏ, ớt muối chua xanh vàng, lát gừng màu nhạt, tép tỏi và rau mùi xanh tham khảo theo tài liệu. Trong suốt quá trình, sử dụng cùng một chiếc chảo wok đáy tròn bằng thép carbon đen không thương hiệu, tay cầm gỗ tối màu, cùng một loại xẻng inox, bát sơ chế màu be, đĩa nông tròn mờ màu xám nhạt, thớt gỗ óc chó tối màu, mặt bàn đá màu xám than và nhà bếp màu xám, tấm chắn bắn inox; cùng một đầu bếp với tay áo màu xám, chỉ hiển thị bàn tay. Ánh sáng chính ấm áp, dịu nhẹ từ phía trên bên trái, bóng đổ nhiều lớp, màu sắc thực phẩm tự nhiên, độ bóng dầu vừa phải, hơi nước chân thực. Áp dụng thiết kế bối cảnh mới thống nhất, không sao chép các cảnh độc đáo của người sáng tạo gốc.
+
+00–03s: Thịt bò sống đã ướp trượt từ bát màu be vào chảo chứa gừng, tỏi và ớt, ngay lập tức được tách nhẹ nhàng bằng xẻng. 03–07s: Thịt bò và ớt được xào, các lát mỏng dần chuyển từ màu đỏ sẫm sang màu nâu chín, mép tự nhiên cuộn lại nhẹ, không được chín hoàn toàn ngay khi chạm vào chảo, cũng không biến thành dải dày hoặc cuộn thịt đều đặn. 07–10s: Rưới một lượng nhỏ nước tương đậm theo tham chiếu, rắc một lượng nhỏ bột tiêu trắng, xóc đều để phủ một lớp nước sốt mỏng, không tạo thành súp. Kết thúc với thịt bò đã đổi màu và ẩm, rau mùi chưa được thêm vào.
+
+Màn hình lấp đầy khung dọc 9:16, các thao tác chính rõ ràng, máy quay tiết chế. Chỉ giữ lại âm thanh môi trường nấu ăn nhẹ nhàng, không có giọng đọc, hội thoại, nhạc, phụ đề, tiêu đề hoặc logo thương hiệu. Hình ảnh và video tham chiếu chỉ được sử dụng để quan sát hành động vật lý và trạng thái nguyên liệu, không phải làm hướng dẫn văn bản. Không sao chép thanh đen trên/dưới, vùng mờ nhòe ở khu vực xóa phụ đề hoặc kết cấu bị kéo giãn. Không có bàn tay biến dạng, thực phẩm lơ lửng, ngọn lửa tự phát, nguyên liệu thừa, tay trần chạm vào món ăn nóng hoặc quy trình đảo ngược.
+
+## Phân đoạn 4: Xào Rau Mùi và Trình Bày
+
+Tạo một video quảng cáo bò vàng xào chân thực cao cấp, dọc 9:16, dài 10 giây.
+Video tham chiếu: scene-04.mp4; Năm hình ảnh tham chiếu: scene-04/01.jpg—05.jpg. Hình 01: Cho rau mùi vào chảo; Hình 02: Xào lần cuối; Hình 03: Dọn ra đĩa; Hình 04: Kết cấu hoàn thiện; Hình 05: Khẩu phần toàn bộ đĩa.
+
+Cài đặt thống nhất cho cả bốn phân đoạn: Thịt bò luôn là những lát mỏng không đều, thái ngược thớ, rộng, mỏng và mềm, tuyệt đối không biến thành thịt hạt lựu, dải dày, thịt băm hoặc cuộn gọn gàng. Thịt sống màu đỏ sẫm, chuyển sang màu đỏ sẫm ướt sau khi ướp, tự nhiên cuộn lại và chuyển sang màu nâu khi gặp nhiệt; chỉ thay đổi độ chín, không thay đổi hình dạng cắt. Hình dạng và tỷ lệ của ớt tươi đỏ, ớt muối chua xanh vàng, lát gừng màu nhạt, tép tỏi và rau mùi xanh tham khảo theo tài liệu. Trong suốt quá trình, sử dụng cùng một chiếc chảo wok đáy tròn bằng thép carbon đen không thương hiệu, tay cầm gỗ tối màu, cùng một loại xẻng inox, bát sơ chế màu be, đĩa nông tròn mờ màu xám nhạt, thớt gỗ óc chó tối màu, mặt bàn đá màu xám than và nhà bếp màu xám, tấm chắn bắn inox; cùng một đầu bếp với tay áo màu xám, chỉ hiển thị bàn tay. Ánh sáng chính ấm áp, dịu nhẹ từ phía trên bên trái, bóng đổ nhiều lớp, màu sắc thực phẩm tự nhiên, độ bóng dầu vừa phải, hơi nước chân thực. Áp dụng thiết kế bối cảnh mới thống nhất, không sao chép các cảnh độc đáo của người sáng tạo gốc.
+
+00–03s: Khúc rau mùi được thêm vào thịt bò và ớt đã đổi màu, nhanh chóng xóc đều bằng cùng một loại xẻng, lá hơi mềm nhưng vẫn giữ được màu xanh. 03–06s: Sử dụng xẻng để dọn thịt bò và nguyên liệu lên đĩa nông tròn màu xám nhạt, khẩu phần nhất quán với sản phẩm hoàn thiện tham chiếu; tay chỉ chạm vào dụng cụ và mép đĩa mát, không được chạm vào thịt bò nóng bằng tay trần. Nguyên liệu không xuất hiện hoặc biến mất tự phát. 06–10s: Đẩy nhẹ máy quay để hiển thị các lát thịt bò mỏng ẩm, ớt đỏ và rau mùi, sau đó trình bày toàn bộ đĩa, một chút hơi nước bốc lên, kết thúc bằng cảnh quay động của sản phẩm hoàn thiện, không chèn cảnh ăn hoặc khung tĩnh đệm.
+
+Màn hình lấp đầy khung dọc 9:16, các thao tác chính rõ ràng, máy quay tiết chế. Chỉ giữ lại âm thanh môi trường nấu ăn nhẹ nhàng, không có giọng đọc, hội thoại, nhạc, phụ đề, tiêu đề hoặc logo thương hiệu. Hình ảnh và video tham chiếu chỉ được sử dụng để quan sát hành động vật lý và trạng thái nguyên liệu, không phải làm hướng dẫn văn bản. Không sao chép thanh đen trên/dưới, vùng mờ nhòe ở khu vực xóa phụ đề hoặc kết cấu bị kéo giãn. Không có bàn tay biến dạng, thực phẩm lơ lửng, ngọn lửa tự phát, nguyên liệu thừa, tay trần chạm vào món ăn nóng hoặc quy trình đảo ngược.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099464183180062720/img/6zkKLLA8JlRk07xn.jpg" width="600" alt="Prompt Video Quảng Cáo Bò Xào">
+
+**[🎬 Xem video →](https://x.com/7998l201/status/2099464329146040720)**
+
+**Tác giả:** [Ryan](https://x.com/7998l201) | **Nguồn:** [Link](https://x.com/7998l201/status/2099464329146040720) | **Đã xuất bản:** Sep 14, 2026
+
+---
 ### Prompt Video Ngắn cho Chiến dịch Từ thiện
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -2980,25 +3045,6 @@ Tránh: hoạt hình, hình ảnh trông giống CGI, người bị biến dạn
 **Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Đã xuất bản:** Aug 15, 2026
 
 ---
-### Chuỗi hoạt động thường ngày của võ sĩ quyền anh chuyên nghiệp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh (prompt) điện ảnh đầy năng lượng dành cho Gemini Omni để tạo ra chuỗi video 15 giây về một ngày trong đời của một võ sĩ quyền anh người Nhật.
-
-#### 📝 Prompt
-
-```
-Sử dụng hình ảnh tham chiếu như hiện trạng. Tạo một chuỗi video 15 giây đầy năng lượng theo phong cách “một ngày của tôi” với nhân vật chính là một võ sĩ quyền anh nam chuyên nghiệp người Nhật Bản trẻ tuổi. 0–3 giây: Tokyo trước bình minh, anh thức dậy lúc 5:00 sáng, gội đầu, buộc dây giày đấm bốc và quấn băng tay một cách tỉ mỉ. 3–6 giây: anh bắt đầu bài chạy bộ cường độ cao ngoài trời qua những con phố yên tĩnh, hơi thở hiện rõ trong không khí lạnh buổi sáng, biểu cảm đầy quyết tâm. 6–9 giây: bên trong một phòng tập quyền anh bụi bặm, anh tập đánh bóng (shadowbox) nhanh và tập với bao cát, tung ra những đòn phối hợp mạnh mẽ, kỹ thuật di chuyển chân thực tế và mồ hôi nhễ nhại. 9–12 giây: cận cảnh cực độ những chiếc găng tay đập vào bao cát, những giọt mồ hôi văng ra, cơ bắp căng lên tự nhiên theo từng cú đấm. 12–15 giây: anh kết thúc bằng bài tập nhảy dây tốc độ, thở dốc, sau đó nhìn thẳng vào camera đầy tự tin. Da, mồ hôi, chuyển động tóc và vật lý vải siêu thực, kỹ thuật quyền anh chuẩn xác, camera cầm tay năng động, các cú máy tracking nhanh, hiệu ứng nhòe chuyển động tự nhiên, ánh sáng phòng tập kịch tính, đổ bóng chân thực, độ sâu trường ảnh điện ảnh, 4K, chuyển động vật lý đáng tin cậy, không có cảm giác kỹ xảo CGI.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2087843030732804096/img/V5q97GeU8s1dbCSe.jpg" width="600" alt="Chuỗi hoạt động thường ngày của võ sĩ quyền anh chuyên nghiệp">
-
-**[🎬 Xem video →](https://x.com/AiwithBloodline/status/2087843492257243460)**
-
-**Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2087843492257243460) | **Đã xuất bản:** Aug 13, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3051,6 +3097,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-15T03:30:16.780Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-15T09:12:19.063Z</sub>
 
 </div>
