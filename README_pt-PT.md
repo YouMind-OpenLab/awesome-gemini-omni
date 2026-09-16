@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **269** |
+| 📝 Total de prompts | **271** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-09-16** |
 
@@ -56,6 +56,167 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompt de Transformação em Vestido Feminino
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Um prompt para o Gemini Omni Flash (via Adobe Firefly) que utiliza uma imagem como primeiro quadro e a transforma em uma mulher vestindo um traje que corresponde ao estilo da imagem original.
+
+#### 📝 Prompt
+
+```
+Use a imagem como o primeiro quadro e, em seguida, faça-a transformar-se em uma mulher vestindo um traje que pareça com a primeira imagem.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099873819129262080/img/TpAU1yMAYqnRHWcw.jpg" width="600" alt="Prompt de Transformação em Vestido Feminino">
+
+**[🎬 Assistir vídeo →](https://x.com/zeng_wt/status/2099873984380911773)**
+
+**Autor:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Fonte:** [Link](https://x.com/zeng_wt/status/2099873984380911773) | **Publicado:** Sep 15, 2026
+
+---
+### Prompt de Vídeo Publicitário de Comida com Omni 1.1 Flash
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Um prompt detalhado e multifacetado para gerar um vídeo publicitário de alta qualidade de carne agridoce usando o Omni 1.1 Flash (provavelmente referindo-se ao modelo alvo). O prompt abrange quatro segmentos: preparação, fritura, mistura do molho e empratamento, com requisitos rigorosos de consistência para a forma da carne, ambiente da cozinha e ângulos de câmera.
+
+#### 📝 Prompt
+
+```
+I. Sujeito Principal do Anúncio Curto
+
+Prato: Carne Agridoce.
+Estilo: Fotografia realista de comida de alto padrão, luz suave e quente, texturas realistas dos ingredientes, destaques sutis no molho.
+Especificações: Tela vertical completa 9:16, 1080x1920, 24fps.
+Duração: Gerada em quatro segmentos de 10 segundos cada; o Segmento 1 é cortado para 0-8s, os outros permanecem completos, o corte final tem 38s.
+II. Detalhamento do Processo de Produção
+Corte a barriga de porco em pedaços, enxágue e escorra, misture com ovo e amido, depois envolva em pó seco; frite até dourar, retire e escorra o óleo, frite rapidamente os acompanhamentos e reserve; faça o molho agridoce, retorne a carne frita à panela para envolver; adicione tomate, cebola e pimentão verde, misture uniformemente e sirva.
+Esta versão usa tomate, cebola e pimentão verde, sem abacaxi, sem etapas fabricadas de dupla fritura.
+
+III. Requisitos Comuns de Geração para Todos os Quatro Segmentos
+
+Envie estes requisitos comuns junto com o prompt correspondente ao segmento.
+
+[Tela Vertical Completa]
+
+Cada quadro deve ser uma tomada completa do espaço da cozinha capturada pela mesma câmera vertical, com perspectiva, iluminação e relações de oclusão contínuas. Wok, mãos, recipientes e trajetórias de operação devem caber naturalmente dentro do campo de visão vertical.
+
+Proíba embutir vídeos de culinária horizontais no centro e emendar paredes/bancadas acima e abaixo. Proíba telas divididas, picture-in-picture, costuras horizontais, barras pretas, preenchimentos desfocados e fundos repetidos.
+
+Os materiais de referência são usados apenas para entender o processo, a forma da carne e o ponto de cozimento; não cole as molduras retangulares dos materiais de referência diretamente na cena gerada.
+
+[Forma dos Pedaços de Carne]
+
+Use fotos reais como base visual principal. Os pedaços de barriga de porco têm aproximadamente 1,5cm de largura, 2cm de comprimento, irregulares, ligeiramente curtos/longos, pequenos pedaços levemente curvados, com bordas e direções variadas, não cuboides regulares ou tiras finas.
+
+O tamanho é um requisito de configuração, não uma medição precisa das imagens. Não interprete descrições de tamanho como formas geométricas semelhantes a moldes.
+
+Mantenha a mesma faixa de forma e tamanho do lote de carne durante o corte, marinada, empanamento, fritura, molhagem e empratamento. Permita apenas encolhimento leve normal e mudanças de superfície; não aumente subitamente, arredonde, quadrifique ou una os pedaços.
+
+Para a etapa de empanamento, refira-se à textura real do pó branco; para as etapas de fritura/molhagem, refira-se às imagens correspondentes da carne cozida, não copie o estado do pó branco cru na carne cozida.
+
+[Cozinha & Utensílios]
+
+Mesma cozinha, mesmo uniforme/mãos do chef, mesma bancada cinza-escura e splashback de aço. Use uniformemente wok preto, espátula de aço inoxidável, escumadeira redonda, bacia de aço, bandeja de preparo bege e prato de servir branco.
+Fixe a luz principal suave e quente no canto superior esquerdo, cores naturais dos alimentos. Acompanhamentos apenas tomate vermelho, cebola roxa, pimentão verde, cortes e proporções consistentes.
+
+[Som & Texto]
+
+Os clipes gerados mantêm apenas sons ambientes leves de cozimento, sem narração, diálogo, música, legendas, títulos, marcas d'água ou branding. A narração contínua em chinês é adicionada separadamente na pós-produção.
+
+IV. Prompts Completos dos Segmentos
+
+Segmento 1: Preparação, Mistura com Ovo e Empanamento
+
+Gere 10s, anúncio de comida realista vertical completo 9:16, seguindo os requisitos comuns acima.
+
+00-03s:
+Close-up oblíquo mostrando barriga de porco cortada em pequenos pedaços naturais curtos/longos, cortes simples mostrando enxágue/escorrida, e preparo de tomate/cebola/pimentão verde. Estabeleça o tamanho correto durante o corte, não corte cubos grandes primeiro para reduzir depois.
+
+03-07s:
+Coloque o mesmo lote de carne na bacia de aço, misture com ovo e amido, mexa suavemente. A massa úmida adere à superfície, os pedaços permanecem separados, não se tornam sopa ou massa. Aos 6-7s, pegue um pedaço empanado, depois mostre-o entrando no pó seco.
+
+07-10s:
+Dedos viram/viram suavemente, deixando o pó seco aderir às bordas naturais e rugas. Levante e sacuda o excesso de pó, a superfície é seca e fosca, revestimento irregular de pó branco, retendo migalhas finas e saliências naturais. Coloque gentilmente na bandeja de preparo, sobrepondo levemente outros pedaços, não arranjados perfeitamente.
+
+Cinematografia:
+Luz lateral suave e quente, close-up oblíquo estável, dedos/tigela de pó/borda da bandeja fornecem referência de escala. Profundidade de campo suficiente para ver o contorno completo da carne; sem vapor durante a etapa de preparação.
+Evitar:
+Cubos grandes, tijolos de pó, almôndegas, tiras, cascas grossas, arredondamento/quadratura, múltiplos pedaços grudando, aumento súbito durante o empanamento.
+
+Transição:
+Termine com carne não frita; o Segmento 2 deve herdar a forma deste lote. A edição mantém apenas os primeiros 8s deste segmento, sem quadros estáticos ou esticamento.
+Segmento 2: Fritura, Assentamento e Escorrimento de Óleo
+
+Gere 10s, anúncio de comida realista vertical completo 9:16, seguindo os requisitos comuns acima.
+00-03s:
+A bandeja bege contém carne empanada consistente com o segmento anterior. Use ferramentas para deslizar os pedaços de carne individualmente da borda da bandeja para o óleo quente. Tamanho/contorno inalterados antes/depois da entrada, não despeje a bandeja inteira, não coloque as mãos no óleo.
+
+03-07s:
+Bolhas finas cercam a carne, o pó assenta primeiro, então separe suavemente com a escumadeira. Comprima o tempo de espera via cortes, a camada externa passa de branca para amarelo-pálido, depois dourado claro. Retenha curvas naturais e saliências crocantes da casca, não inche como nuggets de frango ou bolas.
+07-10s:
+A escumadeira levanta a carne frita, escorre o óleo sobre o wok; então corte para mostrar tomate/cebola/pimentão verde fritos brevemente, levantados/escorridos, colocados separadamente da carne frita.
+
+Cinematografia:
+Combinação estável de médio-próximo oblíquo e close-up de escorrimento, retenha a borda do wok/escumadeira como escala. Luz quente mostra casca crocante dourada clara, bolhas realistas, sem fumaça obscurecendo a forma da carne.
+Evitar:
+Cozimento instantâneo, queimadura, cascas inchadas enormes, fusão de carne, mão tocando óleo quente, aparecimento precoce do molho, adicionar ações de dupla fritura.
+
+Transição:
+Termine com carne frita dourada clara, sem molho; acompanhamentos processados para uso posterior.
+Segmento 3: Fazendo Molho e Envolvendo a Carne
+
+Gere 10s, anúncio de comida realista vertical completo 9:16, seguindo os requisitos comuns acima. Especialmente proíba embutir horizontalmente e emendar verticalmente.
+
+00-01s:
+O wok tem apenas óleo fino, sem molho vermelho/carne/acompanhamentos. O chef segura uma tigela pequena com molho vermelho, tigela e centro do wok claramente no quadro, ainda não derramando.
+
+01-03s:
+Mantenha tomada contínua. Mova a tigela sobre o centro do wok, incline, o molho cai ao longo da trajetória real da boca da tigela, espalha após atingir o fundo. A outra mão raspa o resíduo de molho com a espátula. O molho na tigela diminui, o molho no wok aumenta proporcionalmente, afaste após esvaziar.
+03-05s:
+Pequeno recipiente com tempero líquido entra claramente no quadro, derrama, o fluxo cai continuamente no wok. A espátula mexe de baixo para cima, o molho espuma levemente, fica mais espesso. Permita corte para comprimir o tempo de espera apenas após completar a derramada.
+
+05-07s:
+Escumadeira com carne frita escorrida entra no quadro primeiro, então inclina, deixando a carne deslizar naturalmente para o molho. Mostre completamente a fonte e o processo de queda, não deixe a carne aparecer subitamente no wok.
+07-10s:
+Espátula empurra/levanta/vira suavemente de baixo, deixando o molho fino aderir a cada pedaço. Forma estritamente referencia imagens reais de carne frita/com molho: irregularidade natural, curvas leves, rugas/saliências finas claras. Vira de dourado claro para superfície brilhante laranja-dourada, não force vermelho profundo.
+
+Cinematografia:
+Close-up oblíquo estável, mesma perspectiva mostrando mãos/tigela/wok/trajetória de derramamento. Vapor real leve, não bloqueando ações-chave, sem zoom violento.
+Evitar:
+Molho surgindo do nada, molho infinito de tigela vazia, cortes bruscos durante o derramamento, aumento súbito de carne, tornando-se redondo/quadrado após molhar, molho grosso escondendo a forma, fios/caldo cheio.
+
+Transição:
+Termine com o mesmo lote de carne levemente molhada, acompanhamentos ainda não retornados; o Segmento 4 herda cor do molho/forma/contagem da carne.
+Segmento 4: Misturando Acompanhamentos e Empratando
+
+Gere 10s, anúncio de comida realista vertical completo 9:16, seguindo os requisitos comuns acima.
+00-03s:
+Adicione tomate/cebola/pimentão verde processados à carne com molho, espátula levanta/mistura rapidamente de baixo. Acompanhamentos retêm contornos/cores, carne mantém tamanho anterior, sem deformação/fusão.
+
+03-06s:
+Pegue o prato para o mesmo prato de servir branco em lotes com a espátula. Ações de pegar/mover/colocar completas e críveis. Mãos seguram apenas ferramentas ou borda fria do prato, não agarram carne quente. Empilhamento solto natural, porção vem dos ingredientes no wok, sem adição.
+06-10s:
+Push lento do close-up oblíquo mostrando a borda do prato, exibindo pedaços de carne irregulares curtos/longos, casca crocante saliente e molho fino brilhante. Tomate vermelho/cebola roxa/pimentão verde naturalmente intercalados. Finalmente estabilize no produto acabado dinâmico, vapor subindo levemente, sem quadros estáticos.
+
+Cinematografia:
+Continue luz lateral suave e quente e mesma cena, destaque brilhos finos do molho, retenha contornos da carne e sensação completa de quantidade do prato.
+
+Evitar:
+Mudar forma da carne após empratar, esferas grandes, tijolos regulares, empratar com mão nua em calor, altura exagerada, vapor branco grosso, adicionar abacaxi/gergelim/coentro.
+
+Transição:
+Produto acabado corresponde ao lote anterior, mudando apenas ponto de cozimento/estado de superfície, não identidade.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099806279283953664/img/sqQjOdvjoeQSWotJ.jpg" width="600" alt="Prompt de Vídeo Publicitário de Comida com Omni 1.1 Flash">
+
+**[🎬 Assistir vídeo →](https://x.com/7998l201/status/2099806467641745865)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2099806467641745865) | **Publicado:** Sep 15, 2026
+
+---
 ### Prompts para Vídeo Publicitário de Carne Bovina Salteada
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -3025,54 +3186,6 @@ Loop contínuo. Silhueta de perfil estática e fixa de uma pessoa contra um fund
 **Autor:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Publicado:** Aug 16, 2026
 
 ---
-### Vídeo em loop de floresta de algas subaquática
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo tranquilo para um loop contínuo de uma floresta de algas subaquática com a luz do sol filtrada através de águas azul-turquesa.
-
-#### 📝 Prompt
-
-```
-Loop contínuo, visão subaquática estática em ângulo aberto em uma floresta de algas temperada. Frondes altas de algas âmbar balançam em correntes oceânicas lentas e hipnóticas, enquanto raios de luz solar dourada penetram a superfície em direção à água azul-turquesa cristalina.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Vídeo em loop de floresta de algas subaquática">
-
-**[🎬 Assistir vídeo →](https://x.com/genevieve__h/status/2089068314764997056)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Publicado:** Aug 16, 2026
-
----
-### Cena de Desastre em Miniatura Cinematográfica com VFX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt detalhado para gerar uma cena de desastre em miniatura cinematográfica em um ambiente de estúdio de VFX, apresentando física de água realista e iluminação profissional.
-
-#### 📝 Prompt
-
-```
-Crie uma cena de desastre em miniatura cinematográfica ultrarrealista dentro de um enorme estúdio profissional de VFX de Hollywood.
-
-Mostre uma megacidade costeira moderna em miniatura altamente detalhada com arranha-céus, estradas, pontes, edifícios à beira-mar, veículos e barcos. Uma onda oceânica realista gigantesca colide contra a cidade, criando inundações fisicamente verossímeis, espuma, borrifos, névoa, reflexos na água e detritos.
-
-Inclua membros da equipe profissional de VFX, câmeras de cinema, equipamentos de iluminação e equipamentos de estúdio ao redor do cenário em miniatura para criar um visual autêntico de efeitos práticos de bastidores.
-
-Fotorrealista, escala de miniatura realista, iluminação cinematográfica, sombras naturais, texturas detalhadas, física de água realista, profundidade de campo rasa, câmera de cinema profissional, movimento de câmera suave, atmosfera dramática, qualidade de VFX de filme de desastre de Hollywood, formato vertical 9:16.
-
-Mantenha a consistência dos edifícios, do ambiente e da escala ao longo do vídeo.
-
-Evite: desenho animado, visuais com aparência de CGI, pessoas distorcidas, membros extras, edifícios deformados, cintilação, água irrealista, objetos aleatórios, texto, logotipos, marcas d'água.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cena de Desastre em Miniatura Cinematográfica com VFX">
-
-**[🎬 Assistir vídeo →](https://x.com/AiwithBloodline/status/2088473623694921736)**
-
-**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Publicado:** Aug 15, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -3125,6 +3238,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-16T03:26:15.138Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-16T09:05:05.674Z</sub>
 
 </div>

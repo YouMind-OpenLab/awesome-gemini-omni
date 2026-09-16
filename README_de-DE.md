@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **269** |
+| 📝 Gesamtanzahl Prompts | **271** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-16** |
 
@@ -56,6 +56,167 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Damenkleid-Umsetzungsprompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein Prompt für Gemini Omni Flash (über Adobe Firefly), der ein Bild als ersten Rahmen verwendet und es in eine Dame mit einem Kleid umwandelt, das dem Stil des Originalbildes entspricht.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das Bild als ersten Rahmen und lassen Sie es sich in eine Dame verwandeln, die ein Kleid trägt, das dem Aussehen des ersten Bildes ähnelt.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099873819129262080/img/TpAU1yMAYqnRHWcw.jpg" width="600" alt="Damenkleid-Umsetzungsprompt">
+
+**[🎬 Video ansehen →](https://x.com/zeng_wt/status/2099873984380911773)**
+
+**Autor:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Quelle:** [Link](https://x.com/zeng_wt/status/2099873984380911773) | **Veröffentlicht:** Sep 15, 2026
+
+---
+### Omni 1.1 Flash Werbespot-Prompt für Süß-Sauer-Fleisch
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detailliertes, mehrteiliges Prompt zur Generierung eines hochwertigen Werbevideos für Süß-Sauer-Fleisch mit Omni 1.1 Flash (vermutlich das Zielmodell). Das Prompt umfasst vier Segmente: Vorbereitung, Frittieren, Saucenmischung und Anrichten, mit strengen Konsistenzanforderungen an Fleischform, Küchenumgebung und Kameraperspektiven.
+
+#### 📝 Prompt
+
+```
+I. Hauptmotiv des Werbeclips
+
+Gericht: Süß-Sauer-Fleisch.
+Stil: Realistische High-End-Food-Fotografie, warmes weiches Licht, realistische Zutatenstrukturen, dezente Glanzlichter auf der Sauce.
+Spezifikationen: Vollständiger 9:16 Hochformat-Bildschirm, 1080x1920, 24fps.
+Dauer: Generiert in vier Segmenten à 10 Sekunden; Segment 1 wird auf 0–8s zugeschnitten, die anderen bleiben vollständig, der finale Schnitt beträgt 38s.
+II. Aufschlüsselung des Produktionsprozesses
+Schweinebauch in Stücke schneiden, abspülen und abtropfen lassen, mit Ei und Stärke mischen, dann mit trockenem Pulver bestäuben; frittieren, bis sie goldbraun sind, herausnehmen und Öl abtropfen lassen, Beilagen kurz frittieren und beiseite stellen; Süß-Sauer-Sauce herstellen, das frittierte Fleisch zurück in die Pfanne geben, um es zu überziehen; Tomate, Zwiebel und grüne Paprika hinzufügen, gleichmäßig schwenken und anrichten.
+Diese Version verwendet Tomate, Zwiebel und grüne Paprika, keine Ananas, keine erfundenen Schritte zum doppelten Frittieren.
+
+III. Gemeinsame Generierungsanforderungen für alle vier Segmente
+
+Reichen Sie diese gemeinsamen Anforderungen zusammen mit dem entsprechenden Segment-Prompt ein.
+
+[Vollständiger Hochformat-Bildschirm]
+
+Jeder Rahmen muss eine vollständige Küchenaufnahme sein, die von derselben vertikalen Kamera aufgenommen wurde, mit durchgehender Perspektive, Beleuchtung und Verdeckungsbeziehungen. Wok, Hände, Behälter und Bewegungsabläufe fügen sich natürlich in das vertikale Sichtfeld ein.
+
+Verboten ist das Einbetten horizontaler Kochvideos in der Mitte und das Zusammenschneiden von Wänden/Arbeitsplatten oben und unten. Verboten sind geteilte Bildschirme, Bild-im-Bild, horizontale Nähte, schwarze Balken, unscharfe Füllungen und wiederholte Hintergründe.
+
+Referenzmaterialien dienen nur zum Verständnis des Prozesses, der Fleischform und des Gargrades; kopieren Sie nicht die rechteckigen Rahmen der Referenzmaterialien direkt in die generierte Szene.
+
+[Form der Fleischstücke]
+
+Verwenden Sie reale Fotos als primäre visuelle Grundlage. Schweinebauchstücke sind ca. 1,5 cm breit, 2 cm lang, unregelmäßig, leicht kurze/lange, leicht gebogene kleine Stücke, mit unterschiedlichen Kanten und Richtungen, keine regelmäßigen Quader oder dünnen Streifen.
+
+Die Größe ist eine Einstellungsvorgabe, keine präzise Messung aus Bildern. Interpretieren Sie Größenbeschreibungen nicht als formähnliche geometrische Formen.
+
+Bewahren Sie die Form und den Größenbereich derselben Charge Fleisch während des Schneidens, Marinierens, Panierens, Frittierens, Saucierens und Anrichtens bei. Erlaubt sind nur normale leichte Schrumpfungen und Oberflächenänderungen; kein plötzliches Vergrößern, Abrunden, Quadratischerwerden oder Verschmelzen.
+
+Für die Panierphase beziehen Sie sich auf die echte Textur des weißen Pulvers; für die Frittier-/Saucierphasen beziehen Sie sich auf entsprechende Bilder von gekochtem Fleisch, kopieren Sie nicht den Zustand des rohen Fleisches mit weißem Pulver auf das gekochte Fleisch.
+
+[Küche & Utensilien]
+
+Dieselbe Küche, dieselbe Kleidung/Hände des Kochs, dieselbe dunkelgraue Arbeitsplatte und derselbe Edelstahl-Rückwand. Einheitlich verwenden Sie einen schwarzen Wok, einen Edelstahl-Wender, einen runden Schaumlöffel, eine Stahlschüssel, ein beiges Vorbereitungsblech und einen weißen Servierteller.
+Fixieren Sie das warme, weiche Hauptlicht oben links, natürliche Lebensmittel Farben. Beilagen nur rote Tomate, lila Zwiebel, grüne Paprika, konsistente Schnitte und Proportionen.
+
+[Ton & Text]
+
+Generierte Clips enthalten nur leichte Umgebungsgeräusche beim Kochen, keinen Voiceover, Dialoge, Musik, Untertitel, Titel, Wasserzeichen oder Branding. Kontinuierlicher chinesischer Voiceover wird separat in der Nachproduktion hinzugefügt.
+
+IV. Vollständige Segment-Prompts
+
+Segment 1: Vorbereitung, Mischung mit Ei und Panieren mit Pulver
+
+Generieren Sie 10s, vollständiges 9:16 Hochformat realistisches Food-Ad, unter Befolgung der obigen gemeinsamen Anforderungen.
+
+00–03s:
+Schräge Nahaufnahme, die zeigt, wie Schweinebauch in natürliche kurze/lange kleine Stücke geschnitten wird, einfache Schnitte, die das Abspülen/Abtropfen zeigen, sowie die Vorbereitung von Tomate/Zwiebel/grüner Paprika. Stellen Sie die korrekte Größe während des Schneidens sicher, schneiden Sie nicht zuerst große Würfel und schrumpfen Sie sie später.
+
+03–07s:
+Geben Sie dieselbe Charge Fleisch in die Stahlschüssel, mischen Sie mit Ei und Stärke, rühren Sie sanft. Der nasse Teig haftet an der Oberfläche, die Stücke bleiben getrennt, werden nicht zu Suppe oder Teig. Bei 6–7s heben Sie ein paniertes Stück hoch, dann zeigen Sie, wie es in das trockene Pulver eintaucht.
+
+07–10s:
+Finger drehen/wenden sanft, sodass das trockene Pulver an natürlichen Kanten und Falten haftet. Heben Sie hoch und schütteln Sie überschüssiges Pulver ab, die Oberfläche ist trocken matt, eine ungleichmäßige weiße Pulverschicht, die feine Krümel und natürliche Unebenheiten behält. Legen Sie sanft auf das Vorbereitungsblech, locker überlappend mit anderen Stücken, nicht ordentlich angeordnet.
+
+Kamerakunst:
+Warmes weiches Seitenlicht, stabile schräge Nahaufnahme, Finger/Pulverschüssel/Blechrand bieten Maßstabsreferenz. Tiefenschärfe ausreichend, um die gesamte Fleischkontur zu sehen; kein Dampf während der Vorbereitungsphase.
+Vermeiden:
+Große Würfel, Pulverziegel, Fleischbällchen, Streifen, dicke Hüllen, Abrunden/Quadratischerwerden, mehrere aneinanderklebende Stücke, plötzliche Vergrößerung während des Panierens.
+
+Übergang:
+Endet mit unfrittiertem Fleisch; Segment 2 muss diese Form dieser Charge erben. Der Schnitt behält nur die ersten 8s dieses Segments, keine statischen Frames oder Dehnungen.
+Segment 2: Frittieren, Ruhenlassen und Abtropfen des Öls
+
+Generieren Sie 10s, vollständiges 9:16 Hochformat realistisches Food-Ad, unter Befolgung der obigen gemeinsamen Anforderungen.
+00–03s:
+Das beige Blech hält paniertes Fleisch, das mit dem vorherigen Segment übereinstimmt. Verwenden Sie Werkzeuge, um die Fleischstücke einzeln vom Rand des Blechs in das heiße Öl zu schieben. Größe/Kontur vor/nach dem Eintauchen unverändert, werfen Sie nicht das ganze Blech hinein, stecken Sie keine Hände ins Öl.
+
+03–07s:
+Feine Blasen umgeben das Fleisch, das Pulver setzt sich zuerst fest, dann vorsichtig mit dem Schaumlöffel trennen. Komprimieren Sie die Wartezeit durch Schnitte, die Außenschicht wechselt von weiß zu hellgelb, dann zu hellgold. Bewahren Sie natürliche Biegungen und knusprige Hüllenunebenheiten, blähen Sie sich nicht zu Chicken Nuggets oder Bällchen auf.
+07–10s:
+Der Schaumlöffel hebt das frittierte Fleisch hoch, tropft das Öl über dem Wok ab; dann Schnitt, um zu zeigen, dass Tomate/Zwiebel/grüne Paprika kurz frittiert, gehoben/abgetropft und getrennt vom frittierten Fleisch platziert werden.
+
+Kamerakunst:
+Kombination aus stabiler schräger Halb-Nahaufnahme und Abtropf-Nahaufnahme, behalten Sie Wokrand/Schaumlöffel als Maßstab. Warmes Licht zeigt hellgoldene knusprige Hülle, realistische Blasen, kein Rauch, der die Fleischform verdeckt.
+Vermeiden:
+Sofortiges Garen, Verbrennen, riesige aufgeblähte Hüllen, Verschmelzen des Fleisches, Hand berührt heißes Öl, frühes Erscheinen der Sauce, Hinzufügen von Aktionen zum doppelten Frittieren.
+
+Übergang:
+Endet mit hellgoldenem frittiertem Fleisch, ohne Sauce; Beilagen für spätere Verwendung verarbeitet.
+Segment 3: Herstellen der Sauce und Überziehen des Fleisches
+
+Generieren Sie 10s, vollständiges 9:16 Hochformat realistisches Food-Ad, unter Befolgung der obigen gemeinsamen Anforderungen. Besonders verboten ist das horizontale Einbetten und vertikale Zusammenschneiden.
+
+00–01s:
+Der Wok enthält nur dünnes Öl, keine rote Sauce/Fleisch/Beilagen. Der Koch hält eine kleine Schüssel mit roter Sauce, Schüssel und Wokmitte sind klar im Bild, noch nicht gegossen.
+
+01–03s:
+Behalten Sie den kontinuierlichen Shot. Bewegen Sie die Schüssel über die Wokmitte, neigen Sie sie, die Sauce fällt entlang einer echten Trajektorie vom Schüsselrand, breitet sich nach dem Aufprall auf dem Boden aus. Die andere Hand kratzt Restsauce mit dem Wender ab. Die Sauce in der Schüssel nimmt ab, die Sauce im Wok nimmt entsprechend zu, entfernen Sie sie nach dem Leeren.
+03–05s:
+Ein kleiner Behälter mit flüssiger Würze tritt klar ins Bild, gießt, der Strahl fällt kontinuierlich in den Wok. Der Wender rührt von unten nach oben, die Sauce schäumt leicht, wird dicker. Erlauben Sie einen Schnitt zur Komprimierung der Wartezeit erst nach Abschluss des Gießens.
+
+05–07s:
+Der Schaumlöffel mit abgetropftem frittiertem Fleisch tritt zuerst ins Bild, dann neigt er sich, sodass das Fleisch natürlich in die Sauce gleitet. Zeigen Sie Quelle und Fallprozess vollständig, lassen Sie das Fleisch nicht plötzlich im Wok erscheinen.
+07–10s:
+Der Wender schiebt/hebt/wendet sanft von unten, sodass die dünne Sauce an jedem Stück haftet. Die Form bezieht sich streng auf echte Bilder von frittiertem/sauciertem Fleisch: natürliche Unregelmäßigkeit, leichte Biegungen, feine Falten/Unebenheiten deutlich sichtbar. Wechseln Sie von hellgold zu glänzend goldorange, erzwingen Sie kein tiefrot.
+
+Kamerakunst:
+Stabile schräge Nahaufnahme, dieselbe Perspektive zeigt Hände/Schüssel/Wok/Gießtrajektorie. Leichter echter Dampf, blockiert keine Schlüsselaktionen, kein gewaltsames Zoomen.
+Vermeiden:
+Sauce erscheint aus dem Nichts, endlose Sauce aus leerer Schüssel, Sprünge während des Gießens, plötzliche Zunahme des Fleisches, wird rund/quadratisch nach dem Saucieren, dicke Sauce versteckt die Form, fadenziehend/volle Brühe.
+
+Übergang:
+Endet mit derselben Charge Fleisch dünn sauciert, Beilagen noch nicht zurückgegeben; Segment 4 erbt Saucenfarbe/Fleischform/Anzahl.
+Segment 4: Schwenken der Beilagen und Anrichten
+
+Generieren Sie 10s, vollständiges 9:16 Hochformat realistisches Food-Ad, unter Befolgung der obigen gemeinsamen Anforderungen.
+00–03s:
+Fügen Sie verarbeitete Tomate/Zwiebel/grüne Paprika zum saucierten Fleisch hinzu, der Wender hebt/schwenkt schnell von unten. Beilagen behalten Konturen/Farben, Fleisch behält die vorherige Größe, keine Verformung/Verschmelzung.
+
+03–06s:
+Schippen Sie das Gericht portionsweise mit dem Wender auf denselben weißen Servierteller. Schöpf-/Bewegungs-/Platzierungsaktionen sind vollständig und glaubwürdig. Hände halten nur Werkzeuge oder den kühlen Tellerrand, greifen Sie nicht nach heißem Fleisch. Natürliche lockere Stapelung, die Portion stammt aus den Zutaten im Wok, keine Zugabe.
+06–10s:
+Langsames Vorwärtsfahren von der schrägen Nahaufnahme, die den Tellerrand zeigt, stellt kurze/lange unregelmäßige Fleischstücke, buckelige knusprige Hülle und dünne glänzende Sauce dar. Rote Tomate/lila Zwiebel/grüne Paprika sind natürlich eingestreut. Stabilisieren Sie schließlich auf dem dynamischen fertigen Produkt, leichter aufsteigender Dampf, keine statischen Frames.
+
+Kamerakunst:
+Fortsetzung des warmen weichen Seitenlichts und derselben Szene, betont feine Sauce-Glanzpunkte, behält Fleischkonturen und das volle Mengenempfinden des Tellers bei.
+
+Vermeiden:
+Änderung der Fleischform nach dem Anrichten, große Kugeln, regelmäßige Ziegel, Anrichten mit bloßen Händen, übertriebene Höhe, dicker weißer Dampf, Hinzufügen von Ananas/Sesam/Koriander.
+
+Übergang:
+Das fertige Produkt entspricht der vorherigen Charge, ändert nur den Garzustand/Oberflächenzustand, nicht die Identität.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099806279283953664/img/sqQjOdvjoeQSWotJ.jpg" width="600" alt="Omni 1.1 Flash Werbespot-Prompt für Süß-Sauer-Fleisch">
+
+**[🎬 Video ansehen →](https://x.com/7998l201/status/2099806467641745865)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Quelle:** [Link](https://x.com/7998l201/status/2099806467641745865) | **Veröffentlicht:** Sep 15, 2026
+
+---
 ### Prompts für Werbevideo: Gebratenes Rindfleisch
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -3025,54 +3186,6 @@ Nahtloser Loop. Statische, feststehende Profil-Silhouette einer Person vor einem
 **Autor:** [genevieveh@](https://x.com/genevieve__h) | **Quelle:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Veröffentlicht:** Aug 16, 2026
 
 ---
-### Video-Loop eines Unterwasser-Tangwaldes
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein ruhiger Video-Prompt für einen nahtlosen Loop eines Unterwasser-Tangwaldes, durch den Sonnenlicht in türkisfarbenem Wasser schimmert.
-
-#### 📝 Prompt
-
-```
-Nahtloser Loop, statische Weitwinkel-Unterwasseraufnahme in einem gemäßigten Tangwald. Hohe, bernsteinfarbene Tangwedel wiegen sich in langsamen, hypnotischen Meeresströmungen, während dramatische Sonnenstrahlen durch die Oberfläche in das klare, türkisfarbene Wasser dringen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Video-Loop eines Unterwasser-Tangwaldes">
-
-**[🎬 Video ansehen →](https://x.com/genevieve__h/status/2089068314764997056)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Quelle:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Veröffentlicht:** Aug 16, 2026
-
----
-### Filmreife Miniatur-Katastrophenszene VFX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein detaillierter Prompt zur Erstellung einer filmreifen Miniatur-Katastrophenszene in einem VFX-Studio-Setting, mit realistischer Wasserphysik und professioneller Beleuchtung.
-
-#### 📝 Prompt
-
-```
-Erstelle eine ultra-realistische, filmreife Miniatur-Katastrophenszene in einem riesigen, professionellen Hollywood-VFX-Studio.
-
-Zeige eine hochdetaillierte Miniatur einer modernen Küsten-Megacity mit Wolkenkratzern, Straßen, Brücken, Gebäuden am Wasser, Fahrzeugen und Booten. Eine gigantische, realistische Meereswelle bricht auf die Stadt zu und erzeugt physikalisch glaubwürdige Überflutungen, Gischt, Sprühnebel, Reflexionen im Wasser und Trümmer.
-
-Integriere professionelle VFX-Crewmitglieder, Kinokameras, Beleuchtungs-Rigs und Studioausrüstung rund um das Miniatur-Set, um einen authentischen Blick hinter die Kulissen der praktischen Effekte zu ermöglichen.
-
-Fotorealistisch, realistischer Miniaturmaßstab, filmische Beleuchtung, natürliche Schatten, detaillierte Texturen, realistische Wasserphysik, geringe Schärfentiefe, professionelle Kinokamera, flüssige Kamerabewegung, dramatische Atmosphäre, VFX-Qualität eines Hollywood-Katastrophenfilms, 9:16 Hochformat.
-
-Sorge für konsistente Gebäude, Umgebungen und Maßstäbe im gesamten Video.
-
-Vermeide: Cartoons, CGI-artige Optik, verzerrte Personen, zusätzliche Gliedmaßen, verzogene Gebäude, Flimmern, unrealistisches Wasser, zufällige Objekte, Text, Logos, Wasserzeichen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Filmreife Miniatur-Katastrophenszene VFX">
-
-**[🎬 Video ansehen →](https://x.com/AiwithBloodline/status/2088473623694921736)**
-
-**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Quelle:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Veröffentlicht:** Aug 15, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3125,6 +3238,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-16T03:26:08.380Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-16T09:05:00.610Z</sub>
 
 </div>

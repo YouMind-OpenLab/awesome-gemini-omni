@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **269** |
+| 📝 Tổng số prompt | **271** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-16** |
 
@@ -56,6 +56,167 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Câu lệnh biến đổi trang phục nữ
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một câu lệnh dành cho Gemini Omni Flash (thông qua Adobe Firefly), sử dụng hình ảnh làm khung đầu tiên và biến đổi nó thành một quý cô mặc váy phù hợp với phong cách của hình ảnh gốc.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh làm khung đầu tiên, sau đó biến đổi nó thành một quý cô mặc chiếc váy có thiết kế tương đồng với hình ảnh ban đầu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099873819129262080/img/TpAU1yMAYqnRHWcw.jpg" width="600" alt="Câu lệnh biến đổi trang phục nữ">
+
+**[🎬 Xem video →](https://x.com/zeng_wt/status/2099873984380911773)**
+
+**Tác giả:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Nguồn:** [Link](https://x.com/zeng_wt/status/2099873984380911773) | **Đã xuất bản:** Sep 15, 2026
+
+---
+### Omni 1.1 Flash Prompt Quảng Cáo Video Món Ăn
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một prompt chi tiết gồm nhiều phần để tạo video quảng cáo món ăn cao cấp cho món thịt heo chua ngọt bằng Omni 1.1 Flash (có thể là mô hình mục tiêu). Prompt bao gồm bốn phân đoạn: sơ chế, chiên, trộn sốt và trình bày, với các yêu cầu nghiêm ngặt về tính nhất quán của hình dạng miếng thịt, môi trường nhà bếp và góc quay camera.
+
+#### 📝 Prompt
+
+```
+I. Chủ thể chính của Video Quảng Cáo Ngắn
+
+Món ăn: Thịt heo chua ngọt.
+Phong cách: Nhiếp ảnh ẩm thực chân thực cao cấp, ánh sáng ấm mềm mại, kết cấu nguyên liệu chân thực, độ bóng của nước sốt tinh tế.
+Thông số: Khung dọc đầy đủ 9:16, 1080x1920, 24fps.
+Thời lượng: Được tạo thành bốn phân đoạn, mỗi phân đoạn 10 giây; Phân đoạn 1 được cắt còn 0-8s, các phân đoạn khác giữ nguyên, bản cắt cuối cùng dài 38s.
+II. Phân Tích Quy Trình Sản Xuất
+Cắt thịt ba chỉ thành từng khối nhỏ, rửa sạch và để ráo, trộn với trứng và bột năng, sau đó áo lớp bột khô; chiên đến khi vàng đều, vớt ra để ráo dầu, chiên nhanh các loại rau ăn kèm rồi để riêng; pha nước sốt chua ngọt, cho lại thịt đã chiên vào chảo để áo đều sốt; thêm cà chua, hành tây và ớt xanh, đảo đều và trình bày.
+Phiên bản này sử dụng cà chua, hành tây và ớt xanh, không có dứa, không có các bước chiên hai lần bịa đặt.
+
+III. Yêu Cầu Chung Cho Cả Bốn Phân Đoạn
+
+Gửi các yêu cầu chung này cùng với prompt tương ứng của từng phân đoạn.
+
+[Khung Dọc Đầy Đủ]
+
+Mỗi khung hình phải là một cảnh không gian nhà bếp hoàn chỉnh được quay bởi cùng một camera dọc, với phối cảnh, ánh sáng và mối quan hệ che khuất liên tục. Chảo, tay, vật chứa và quỹ đạo thao tác tự nhiên nằm trong tầm nhìn dọc.
+
+Cấm nhúng video nấu ăn ngang ở trung tâm và ghép tường/mặt bàn phía trên và dưới. Cấm chia màn hình, hình trong hình, đường nối ngang, thanh đen, làm mờ để lấp đầy và nền lặp lại.
+
+Tài liệu tham khảo chỉ được sử dụng để hiểu quy trình, hình dạng miếng thịt và độ chín; không dán trực tiếp các khung hình chữ nhật từ tài liệu tham khảo vào cảnh được tạo ra.
+
+[Hình Dạng Miếng Thịt]
+
+Sử dụng ảnh thật làm cơ sở hình ảnh chính. Các miếng thịt ba chỉ rộng khoảng 1.5cm, dài 2cm, không đều, hơi ngắn/dài, hơi cong, là những khối nhỏ với các cạnh và hướng khác nhau, không phải hình hộp chữ nhật đều đặn hoặc dải mỏng.
+
+Kích thước là yêu cầu thiết lập, không phải đo lường chính xác từ hình ảnh. Không diễn giải các mô tả kích thước thành các hình dạng hình học giống khuôn đúc.
+
+Duy trì hình dạng và phạm vi kích thước của cùng một mẻ thịt trong suốt quá trình cắt, ướp, áo bột, chiên, phủ sốt và trình bày. Chỉ cho phép co ngót nhẹ bình thường và thay đổi bề mặt; không phóng to đột ngột, làm tròn, vuông hóa hoặc hợp nhất.
+
+Ở giai đoạn áo bột, tham khảo kết cấu bột trắng thực tế; ở giai đoạn chiên/phủ sốt, tham khảo hình ảnh thịt đã chín tương ứng, không sao chép trạng thái bột trắng của thịt sống lên thịt đã chín.
+
+[Nhà Bếp & Dụng Cụ]
+
+Cùng một nhà bếp, cùng trang phục/bàn tay đầu bếp, cùng mặt bàn màu xám đậm và tấm chắn lưng bằng thép. Sử dụng thống nhất chảo đen, xẻng inox, muôi múc tròn, chậu thép, khay sơ chế màu be và đĩa phục vụ màu trắng.
+Cố định ánh sáng chính ấm mềm ở góc trên bên trái, màu sắc thực phẩm tự nhiên. Rau ăn kèm chỉ gồm cà chua đỏ, hành tây tím, ớt xanh, với cách cắt và tỷ lệ nhất quán.
+
+[Âm Thanh & Văn Bản]
+
+Các clip được tạo chỉ giữ lại âm thanh nấu ăn môi trường nhẹ nhàng, không có giọng đọc, hội thoại, nhạc, phụ đề, tiêu đề, hình mờ hoặc thương hiệu. Giọng đọc tiếng Trung liên tục được thêm riêng biệt trong khâu hậu kỳ.
+
+IV. Prompt Hoàn Chỉnh Cho Từng Phân Đoạn
+
+Phân đoạn 1: Sơ chế, Trộn Trứng và Áo Bột
+
+Tạo video 10s, quảng cáo ẩm thực chân thực dọc 9:16 đầy đủ, tuân theo các yêu cầu chung ở trên.
+
+00-03s:
+Cận cảnh nghiêng cho thấy thịt ba chỉ được cắt thành các khối nhỏ ngắn/dài tự nhiên, các động tác cắt đơn giản cho thấy việc rửa/để ráo, và sơ chế cà chua/hành tây/ớt xanh. Thiết lập kích thước đúng ngay khi cắt, không cắt khối lớn trước rồi thu nhỏ sau.
+
+03-07s:
+Cho cùng mẻ thịt vào chậu thép, trộn với trứng và bột năng, khuấy nhẹ. Lớp bột ướt bám vào bề mặt, các miếng vẫn tách rời, không trở thành súp hoặc bột nhão. Ở giây thứ 6-7, nhấc một miếng đã áo bột lên, sau đó cho thấy nó đi vào bột khô.
+
+07-10s:
+Ngón tay lật/vặn nhẹ, để bột khô bám vào các cạnh và nếp nhăn tự nhiên. Nhấc lên và rũ bỏ bột thừa, bề mặt khô mờ, lớp phủ bột trắng không đều, giữ lại các vụn mịn và chỗ gồ ghề tự nhiên. Đặt nhẹ nhàng lên khay sơ chế, xếp chồng lỏng lẻo lên các miếng khác, không sắp xếp gọn gàng.
+
+Quay phim:
+Ánh sáng bên ấm mềm, cận cảnh nghiêng ổn định, ngón tay/bát bột/cạnh khay cung cấp tham chiếu tỷ lệ. Độ sâu trường ảnh đủ để thấy toàn bộ viền miếng thịt; không có hơi nước trong giai đoạn sơ chế.
+Tránh:
+Khối lớn, gạch bột, viên thịt, dải thịt, vỏ dày, làm tròn/vuông hóa, nhiều miếng dính vào nhau, phóng to đột ngột khi áo bột.
+
+Chuyển cảnh:
+Kết thúc với thịt chưa chiên; Phân đoạn 2 phải kế thừa hình dạng của mẻ thịt này. Khi chỉnh sửa, chỉ giữ lại 8s đầu tiên của phân đoạn này, không có khung tĩnh hoặc kéo giãn.
+Phân đoạn 2: Chiên, Định Hình và Để Ráo Dầu
+
+Tạo video 10s, quảng cáo ẩm thực chân thực dọc 9:16 đầy đủ, tuân theo các yêu cầu chung ở trên.
+00-03s:
+Khay màu be chứa thịt đã áo bột nhất quán với phân đoạn trước. Sử dụng dụng cụ để trượt từng miếng thịt từ cạnh khay vào dầu nóng. Kích thước/viền không thay đổi trước/sau khi thả vào, không đổ cả khay, không đưa tay vào dầu.
+
+03-07s:
+Bọt khí mịn bao quanh thịt, bột đông lại trước, sau đó tách nhẹ bằng muôi múc. Nén thời gian chờ đợi qua các cú cắt, lớp ngoài chuyển từ trắng sang vàng nhạt, sau đó vàng nhẹ. Giữ lại các chỗ cong tự nhiên và chỗ gồ ghề giòn, không phồng lên thành gà viên hoặc quả bóng.
+07-10s:
+Muôi múc nâng thịt đã chiên, để ráo dầu trên chảo; sau đó cắt cảnh cho thấy cà chua/hành tây/ớt xanh được chiên nhanh, vớt ra để ráo, đặt riêng biệt so với thịt đã chiên.
+
+Quay phim:
+Kết hợp trung-cận cảnh nghiêng ổn định và cận cảnh để ráo dầu, giữ lại viền chảo/muôi múc làm tham chiếu tỷ lệ. Ánh sáng ấm cho thấy lớp vỏ giòn vàng nhẹ, bọt khí chân thực, không có khói che khuất hình dạng miếng thịt.
+Tránh:
+Nấu chín tức thì, cháy khét, vỏ phồng to khổng lồ, hợp nhất thịt, tay chạm vào dầu nóng, xuất hiện sớm của nước sốt, thêm các hành động chiên hai lần.
+
+Chuyển cảnh:
+Kết thúc với thịt đã chiên vàng nhẹ, chưa phủ sốt; rau ăn kèm đã được xử lý để dùng sau.
+Phân đoạn 3: Pha Sốt và Phủ Sốt Lên Thịt
+
+Tạo video 10s, quảng cáo ẩm thực chân thực dọc 9:16 đầy đủ, tuân theo các yêu cầu chung ở trên. Đặc biệt cấm nhúng ngang và ghép dọc.
+
+00-01s:
+Chảo chỉ có một lớp dầu mỏng, không có sốt đỏ/thịt/rau ăn kèm. Đầu bếp cầm một bát nhỏ chứa sốt đỏ, bát và tâm chảo rõ ràng trong khung hình, chưa đổ.
+
+01-03s:
+Giữ cảnh quay liên tục. Di chuyển bát qua tâm chảo, nghiêng, sốt rơi theo quỹ đạo thực tế từ miệng bát, lan ra sau khi chạm đáy. Tay kia dùng xẻng gạt sốt còn sót lại. Sốt trong bát giảm, sốt trong chảo tăng tương ứng, di chuyển ra xa sau khi hết.
+03-05s:
+Vật chứa nhỏ với gia vị lỏng rõ ràng đi vào khung hình, rót, dòng chảy liên tục rơi vào chảo. Xẻng khuấy từ đáy lên trên, sốt hơi sủi bọt, trở nên đặc hơn. Chỉ cho phép cắt cảnh để nén thời gian chờ đợi sau khi việc rót hoàn tất.
+
+05-07s:
+Muôi múc chứa thịt đã chiên để ráo dầu đi vào khung hình trước, sau đó nghiêng, để thịt trượt tự nhiên vào sốt. Hiển thị đầy đủ nguồn gốc và quá trình rơi, không để thịt xuất hiện đột ngột trong chảo.
+07-10s:
+Xẻng đẩy/nâng/lật nhẹ từ đáy, để lớp sốt mỏng bám vào từng miếng. Hình dạng tuân thủ nghiêm ngặt tham chiếu từ hình ảnh thịt đã chiên/phủ sốt thực tế: không đều tự nhiên, hơi cong, nếp nhăn/chỗ gồ ghề mịn rõ ràng. Chuyển từ vàng nhẹ sang bề mặt bóng cam vàng, không ép buộc màu đỏ thẫm.
+
+Quay phim:
+Cận cảnh nghiêng ổn định, cùng phối cảnh cho thấy tay/bát/chảo/quỹ đạo rót. Hơi nước thực tế nhẹ, không che khuất các hành động chính, không zoom bạo lực.
+Tránh:
+Sốt xuất hiện từ hư không, sốt vô hạn từ bát rỗng, cắt nhảy trong khi rót, thịt tăng đột ngột, trở nên tròn/vuông sau khi phủ sốt, sốt dày che khuất hình dạng, sợi/khan nước dùng.
+
+Chuyển cảnh:
+Kết thúc với cùng mẻ thịt được phủ sốt mỏng, rau ăn kèm chưa được cho lại; Phân đoạn 4 kế thừa màu sốt/hình dạng/số lượng miếng thịt.
+Phân đoạn 4: Đảo Rau Ăn Kèm và Trình Bày
+
+Tạo video 10s, quảng cáo ẩm thực chân thực dọc 9:16 đầy đủ, tuân theo các yêu cầu chung ở trên.
+00-03s:
+Thêm cà chua/hành tây/ớt xanh đã xử lý vào thịt đã phủ sốt, xẻng nâng/đảo nhanh nhẹ từ đáy. Rau ăn kèm giữ nguyên viền/màu sắc, thịt duy trì kích thước trước đó, không biến dạng/hợp nhất.
+
+03-06s:
+Múc món ăn vào cùng một đĩa phục vụ màu trắng theo từng đợt bằng xẻng. Hành động múc/di chuyển/đặt hoàn chỉnh và đáng tin cậy. Tay chỉ cầm dụng cụ hoặc mép đĩa mát, không nắm thịt nóng. Xếp chồng lỏng lẻo tự nhiên, khẩu phần đến từ nguyên liệu trong chảo, không thêm mới.
+06-10s:
+Đẩy chậm từ cận cảnh nghiêng cho thấy viền đĩa, hiển thị các khối thịt ngắn/dài không đều, lớp vỏ giòn gồ ghề và lớp sốt bóng mỏng. Cà chua đỏ/hành tây tím/ớt xanh xen kẽ tự nhiên. Cuối cùng ổn định trên thành phẩm động, hơi nước bốc nhẹ, không có khung tĩnh.
+
+Quay phim:
+Tiếp tục ánh sáng bên ấm mềm và cùng bối cảnh, làm nổi bật các tia sáng tinh tế của sốt, giữ lại viền miếng thịt và cảm giác đầy đặn của toàn bộ đĩa.
+
+Tránh:
+Thay đổi hình dạng miếng thịt sau khi trình bày, quả cầu lớn, gạch đều đặn, trình bày bằng tay trần vào đồ nóng, chiều cao phóng đại, hơi nước trắng dày đặc, thêm dứa/mè/rau mùi.
+
+Chuyển cảnh:
+Thành phẩm tương ứng với mẻ trước đó, chỉ thay đổi độ chín/trạng thái bề mặt, không thay đổi danh tính.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099806279283953664/img/sqQjOdvjoeQSWotJ.jpg" width="600" alt="Omni 1.1 Flash Prompt Quảng Cáo Video Món Ăn">
+
+**[🎬 Xem video →](https://x.com/7998l201/status/2099806467641745865)**
+
+**Tác giả:** [Ryan](https://x.com/7998l201) | **Nguồn:** [Link](https://x.com/7998l201/status/2099806467641745865) | **Đã xuất bản:** Sep 15, 2026
+
+---
 ### Prompt Video Quảng Cáo Bò Xào
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2997,54 +3158,6 @@ Vòng lặp liền mạch. Hình bóng hồ sơ tĩnh của một người trên
 **Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Đã xuất bản:** Aug 16, 2026
 
 ---
-### Video vòng lặp rừng tảo bẹ dưới nước
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video tĩnh lặng cho vòng lặp liền mạch của rừng tảo bẹ dưới nước với ánh nắng mặt trời xuyên qua làn nước màu ngọc lam.
-
-#### 📝 Prompt
-
-```
-Vòng lặp liền mạch, góc quay rộng tĩnh dưới nước trong một khu rừng tảo bẹ ôn đới. Những tán tảo bẹ màu hổ phách cao lớn đung đưa theo dòng hải lưu chậm rãi, đầy mê hoặc khi những tia nắng vàng rực rỡ xuyên qua bề mặt nước vào làn nước màu ngọc lam trong vắt.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Video vòng lặp rừng tảo bẹ dưới nước">
-
-**[🎬 Xem video →](https://x.com/genevieve__h/status/2089068314764997056)**
-
-**Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Đã xuất bản:** Aug 16, 2026
-
----
-### Hiệu ứng hình ảnh (VFX) cảnh thảm họa mô hình thu nhỏ đậm chất điện ảnh
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một câu lệnh chi tiết để tạo ra cảnh thảm họa mô hình thu nhỏ đậm chất điện ảnh trong bối cảnh studio VFX, với hiệu ứng vật lý nước chân thực và hệ thống ánh sáng chuyên nghiệp.
-
-#### 📝 Prompt
-
-```
-Tạo một cảnh thảm họa mô hình thu nhỏ đậm chất điện ảnh siêu thực bên trong một studio VFX chuyên nghiệp quy mô lớn tại Hollywood.
-
-Hiển thị một mô hình thu nhỏ chi tiết về siêu đô thị ven biển hiện đại với các tòa nhà chọc trời, đường sá, cầu cống, công trình ven biển, phương tiện giao thông và tàu thuyền. Một con sóng đại dương khổng lồ, chân thực ập vào thành phố, tạo ra cảnh ngập lụt, bọt nước, màn sương, sự phản chiếu của nước và các mảnh vỡ có tính vật lý đáng tin cậy.
-
-Bao gồm các thành viên trong đội ngũ VFX chuyên nghiệp, máy quay phim, giàn đèn và thiết bị studio xung quanh bối cảnh mô hình để tạo ra vẻ ngoài chân thực của các hiệu ứng thực tế phía sau hậu trường.
-
-Ảnh chân thực, tỷ lệ mô hình thu nhỏ thực tế, ánh sáng điện ảnh, bóng đổ tự nhiên, kết cấu chi tiết, hiệu ứng vật lý nước chân thực, độ sâu trường ảnh nông, máy quay phim chuyên nghiệp, chuyển động máy quay mượt mà, bầu không khí kịch tính, chất lượng VFX phim thảm họa Hollywood, định dạng dọc 9:16.
-
-Duy trì sự nhất quán về các tòa nhà, môi trường và tỷ lệ trong suốt video.
-
-Tránh: hoạt hình, hình ảnh trông giống CGI, người bị biến dạng, thừa chi tiết cơ thể, tòa nhà bị méo mó, nhấp nháy, nước không thực tế, vật thể ngẫu nhiên, văn bản, logo, hình mờ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Hiệu ứng hình ảnh (VFX) cảnh thảm họa mô hình thu nhỏ đậm chất điện ảnh">
-
-**[🎬 Xem video →](https://x.com/AiwithBloodline/status/2088473623694921736)**
-
-**Tác giả:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Nguồn:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Đã xuất bản:** Aug 15, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3097,6 +3210,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-16T03:26:04.844Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-16T09:04:50.135Z</sub>
 
 </div>

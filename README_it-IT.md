@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **269** |
+| 📝 Totale prompt | **271** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-09-16** |
 
@@ -56,6 +56,167 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt per la Trasformazione in Abito da Donna
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt per Gemini Omni Flash (tramite Adobe Firefly) che utilizza un'immagine come primo fotogramma e la trasforma in una donna che indossa un abito nello stile dell'immagine originale.
+
+#### 📝 Prompt
+
+```
+Usa l'immagine come primo fotogramma, poi trasformala in una donna che indossa un abito che richiama lo stile della prima immagine.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099873819129262080/img/TpAU1yMAYqnRHWcw.jpg" width="600" alt="Prompt per la Trasformazione in Abito da Donna">
+
+**[🎬 Guarda il video →](https://x.com/zeng_wt/status/2099873984380911773)**
+
+**Autore:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Fonte:** [Link](https://x.com/zeng_wt/status/2099873984380911773) | **Pubblicato:** Sep 15, 2026
+
+---
+### Prompt Video Annuncio Cibo Omni 1.1 Flash
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt dettagliato e multi-parti per generare un video pubblicitario di alta gamma per il maiale agrodolce utilizzando Omni 1.1 Flash (probabilmente riferito al modello target). Il prompt copre quattro segmenti: preparazione, frittura, miscelazione della salsa e impiattamento, con requisiti rigorosi di coerenza per la forma della carne, l'ambiente della cucina e gli angoli di ripresa.
+
+#### 📝 Prompt
+
+```
+I. Soggetto Principale dello Spot Breve
+
+Piatto: Maiale Agrodolce.
+Stile: Fotografia culinaria realistica di alta gamma, luce calda e morbida, texture degli ingredienti realistiche, riflessi della salsa sobri.
+Specifiche: Schermo verticale completo 9:16, 1080x1920, 24fps.
+Durata: Generato in quattro segmenti da 10 secondi ciascuno; il Segmento 1 viene tagliato a 0-8s, gli altri rimangono completi, il montaggio finale è di 38s.
+II. Scomposizione del Processo di Produzione
+Tagliare la pancetta di maiale a pezzi, sciacquare e sgocciolare, mescolare con uovo e amido, quindi rivestire con polvere secca; friggere fino a doratura, rimuovere e sgocciolare l'olio, friggere brevemente i contorni e mettere da parte; preparare la salsa agrodolce, rimettere la carne fritta nella padella per glassarla; aggiungere pomodoro, cipolla e peperone verde, saltare uniformemente e impiattare.
+Questa versione utilizza pomodoro, cipolla e peperone verde, senza ananas, senza passaggi di doppia frittura inventati.
+
+III. Requisiti Comuni di Generazione per Tutti i Quattro Segmenti
+
+Inviare questi requisiti comuni insieme al prompt del segmento corrispondente.
+
+[Schermo Verticale Completo]
+
+Ogni fotogramma deve essere una ripresa completa dello spazio della cucina effettuata dalla stessa camera verticale, con prospettiva, illuminazione e relazioni di occlusione continue. Wok, mani, contenitori e traiettorie operative si adattano naturalmente al campo visivo verticale.
+
+Vietato incorporare video di cottura orizzontali al centro e incollare pareti/piani di lavoro sopra e sotto. Vietati schermi divisi, picture-in-picture, cuciture orizzontali, barre nere, riempimenti sfocati e sfondi ripetuti.
+
+I materiali di riferimento vengono utilizzati solo per comprendere il processo, la forma della carne e la cottura; non incollare direttamente le cornici rettangolari dei materiali di riferimento nella scena generata.
+
+[Forma dei Pezzi di Carne]
+
+Utilizzare foto reali come base visiva primaria. I pezzi di pancetta di maiale sono larghi circa 1,5 cm, lunghi 2 cm, irregolari, leggermente corti/lunghi, piccoli pezzi leggermente curvi, con bordi e direzioni variabili, non cuboidi regolari o strisce sottili.
+
+La dimensione è un requisito impostato, non una misurazione precisa dalle immagini. Non interpretare le descrizioni delle dimensioni come forme geometriche stampate.
+
+Mantenere la stessa gamma di forma e dimensione del lotto di carne durante il taglio, la marinatura, la panatura, la frittura, la glassatura e l'impiattamento. Consentire solo normali lievi restringimenti e cambiamenti superficiali; non ingrandire improvvisamente, arrotondare, quadrare o fondere.
+
+Per la fase di panatura, fare riferimento alla texture reale della polvere bianca; per le fasi di frittura/glassatura, fare riferimento alle immagini corrispondenti della carne cotta, non copiare lo stato della polvere bianca della carne cruda sulla carne cotta.
+
+[Cucina & Utensili]
+
+Stessa cucina, stesso abbigliamento/mani dello chef, stesso piano di lavoro grigio scuro e paraschizzi in acciaio. Utilizzare uniformemente wok nero, spatola in acciaio inox, schiumarola rotonda, bacinella in acciaio, vassoio di preparazione beige e piatto da portata bianco.
+Fissare la luce principale calda e morbida in alto a sinistra, colori naturali del cibo. I contorni includono solo pomodoro rosso, cipolla viola, peperone verde, tagli e proporzioni coerenti.
+
+[Sonoro & Testo]
+
+Le clip generate mantengono solo leggeri suoni ambientali di cottura, senza voiceover, dialoghi, musica, sottotitoli, titoli, filigrane o branding. La voce fuori campo continua in cinese viene aggiunta separatamente in post-produzione.
+
+IV. Prompt Completi dei Segmenti
+
+Segmento 1: Preparazione, Miscelazione Uovo e Panatura
+
+Generare 10s, annuncio alimentare realistico verticale 9:16 completo, seguendo i requisiti comuni sopra indicati.
+
+00-03s:
+Primo piano obliquo che mostra la pancetta di maiale tagliata in piccoli pezzi naturali corti/lunghi, tagli semplici che mostrano risciacquo/scolatura e preparazione di pomodoro/cipolla/peperone verde. Stabilire la dimensione corretta durante il taglio, non tagliare prima grandi cubetti per poi ridurli successivamente.
+
+03-07s:
+Mettere lo stesso lotto di carne nella bacinella in acciaio, mescolare con uovo e amido, mescolare delicatamente. La pastella bagnata aderisce alla superficie, i pezzi rimangono separati, non diventano zuppa o impasto. A 6-7s sollevare un pezzo panato, quindi mostrarlo mentre entra nella polvere secca.
+
+07-10s:
+Le dita girano delicatamente/ribaltano, lasciando che la polvere secca aderisca ai bordi naturali e alle pieghe. Sollevare e scuotere via la polvere in eccesso, la superficie è asciutta opaca, rivestimento di polvere bianca irregolare, mantenendo briciole fini e rigonfiamenti naturali. Posizionare delicatamente sul vassoio di preparazione, sovrapposti liberamente agli altri pezzi, non disposti ordinatamente.
+
+Cinematografia:
+Luce laterale calda e morbida, primo piano obliquo stabile, dita/ciotola di polvere/bordo del vassoio forniscono riferimento di scala. Profondità di campo sufficiente per vedere l'intero contorno della carne; nessun vapore durante la fase di preparazione.
+Evitare:
+Cubetti grandi, mattoni di polvere, polpette, strisce, gusci spessi, arrotondamento/quadratura, più pezzi attaccati insieme, ingrandimento improvviso durante la panatura.
+
+Transizione:
+Terminare con carne non fritta; il Segmento 2 deve ereditare la forma di questo lotto. Il montaggio mantiene solo i primi 8s di questo segmento, nessuna cornice statica o allungamento.
+Segmento 2: Frittura, Assestamento e Scolatura Olio
+
+Generare 10s, annuncio alimentare realistico verticale 9:16 completo, seguendo i requisiti comuni sopra indicati.
+00-03s:
+Il vassoio beige contiene carne panata coerente con il segmento precedente. Usare gli strumenti per far scivolare i pezzi di carne individualmente dal bordo del vassoio nell'olio caldo. Dimensione/contorno invariati prima/dopo l'ingresso, non versare tutto il vassoio, non mettere le mani nell'olio.
+
+03-07s:
+Bolle fini circondano la carne, la polvere si assesta prima, poi separare delicatamente con la schiumarola. Comprimere il tempo di attesa tramite tagli, lo strato esterno passa da bianco a giallo pallido, poi a dorato chiaro. Mantenere curve naturali e rigonfiamenti croccanti del guscio, non gonfiarsi in nuggets di pollo o palle.
+07-10s:
+La schiumarola solleva la carne fritta, scolando l'olio sopra il wok; quindi tagliare per mostrare pomodoro/cipolla/peperone verde fritti brevemente, sollevati/scolati, posti separatamente dalla carne fritta.
+
+Cinematografia:
+Combinazione stabile di medio-primo piano obliquo e primo piano di scolatura, mantenere il bordo del wok/schiumarola come scala. La luce calda mostra un guscio croccante dorato chiaro, bolle realistiche, nessun fumo che oscura la forma della carne.
+Evitare:
+Cottura istantanea, bruciature, guschi enormi e gonfi, fusione della carne, mano che tocca l'olio caldo, comparsa anticipata della salsa, aggiunta di azioni di doppia frittura.
+
+Transizione:
+Terminare con carne fritta dorata chiara, non glassata; i contorni elaborati per uso successivo.
+Segmento 3: Preparazione Salsa e Glassatura Carne
+
+Generare 10s, annuncio alimentare realistico verticale 9:16 completo, seguendo i requisiti comuni sopra indicati. Specialmente vietato l'incorporamento orizzontale e la giunzione verticale.
+
+00-01s:
+Il wok ha solo olio sottile, nessuna salsa rossa/carne/contorni. Lo chef tiene una piccola ciotola con salsa rossa, ciotola e centro del wok chiaramente nel quadro, non ancora versata.
+
+01-03s:
+Mantenere ripresa continua. Muovere la ciotola sopra il centro del wok, inclinare, la salsa cade lungo una traiettoria reale dalla bocca della ciotola, si diffonde dopo aver colpito il fondo. L'altra mano raschia la salsa residua con la spatola. La salsa nella ciotola diminuisce, la salsa nel wok aumenta di conseguenza, allontanarsi dopo aver svuotato.
+03-05s:
+Un piccolo contenitore con condimento liquido entra chiaramente nel quadro, versa, il getto cade continuamente nel wok. La spatola mescola dal basso verso l'alto, la salsa fa leggermente schiuma, diventa più densa. Consentire il taglio per comprimere il tempo di attesa solo dopo il completamento della versata.
+
+05-07s:
+La schiumarola con la carne fritta scolata entra prima nel quadro, poi inclina, lasciando che la carne scivoli naturalmente nella salsa. Mostrare completamente la fonte e il processo di caduta, non far apparire la carne improvvisamente nel wok.
+07-10s:
+La spatola spinge/solleva/ribalta delicatamente dal basso, lasciando che la salsa sottile aderisca a ogni pezzo. La forma fa strettamente riferimento alle immagini reali di carne fritta/glassata: irregolarità naturale, leggere curve, pieghe/rigonfiamenti fini chiari. Passare da dorato chiaro a superficie lucida arancione-dorata, non forzare il rosso scuro.
+
+Cinematografia:
+Primo piano obliquo stabile, stessa prospettiva che mostra mani/tegame/wok/traiettoria di versamento. Leggero vapore reale, non blocca le azioni chiave, nessun zoom violento.
+Evitare:
+Salsa che appare dal nulla, salsa infinita da ciotola vuota, jump cut durante la versata, aumento improvviso della carne, diventare rotondo/quadrato dopo la glassatura, salsa spessa che nasconde la forma, filante/pieno brodo.
+
+Transizione:
+Terminare con lo stesso lotto di carne glassata sottilmente, i contorni non ancora reintegrati; il Segmento 4 eredita colore della salsa/forma/conteggio della carne.
+Segmento 4: Saltare Contorni e Impiattare
+
+Generare 10s, annuncio alimentare realistico verticale 9:16 completo, seguendo i requisiti comuni sopra indicati.
+00-03s:
+Aggiungere pomodoro/cipolla/peperone verde elaborati alla carne glassata, la spatola solleva/salta rapidamente dal basso. I contorni mantengono contorni/colori, la carne mantiene la dimensione precedente, nessuna deformazione/fusione.
+
+03-06s:
+Raccogliere il piatto nello stesso piatto da portata bianco a lotti con la spatola. Le azioni di raccolta/spostamento/posizionamento sono complete e credibili. Le mani tengono solo strumenti o il bordo freddo del piatto, non afferrare la carne calda. Impilamento naturale lasco, la porzione proviene dagli ingredienti nel wok, nessuna aggiunta.
+06-10s:
+Spinta lenta da primo piano obliquo che mostra il bordo del piatto, visualizzando pezzi di carne irregolari corti/lunghi, guscio croccante rigonfio e salsa lucida sottile. Pomodoro rosso/cipolla viola/peperone verde intervallati naturalmente. Infine stabilizzarsi sul prodotto finito dinamico, leggero vapore ascendente, nessuna cornice statica.
+
+Cinematografia:
+Continuare la luce laterale calda e morbida e la stessa scena, evidenziare i riflessi fini della salsa, mantenere i contorni della carne e il senso di quantità dell'intero piatto.
+
+Evitare:
+Cambiare la forma della carne dopo l'impiattamento, grandi sfere, mattoni regolari, impiattamento a mani nude di cibi caldi, altezza esagerata, vapore bianco spesso, aggiungere ananas/sesamo/coriandolo.
+
+Transizione:
+Il prodotto finito corrisponde al lotto precedente, cambiando solo grado di cottura/stato superficiale, non identità.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099806279283953664/img/sqQjOdvjoeQSWotJ.jpg" width="600" alt="Prompt Video Annuncio Cibo Omni 1.1 Flash">
+
+**[🎬 Guarda il video →](https://x.com/7998l201/status/2099806467641745865)**
+
+**Autore:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2099806467641745865) | **Pubblicato:** Sep 15, 2026
+
+---
 ### Prompt Video Pubblicitari per Manzo Saltato in Padella
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2997,54 +3158,6 @@ Loop continuo. Silhouette di profilo statica e fissa di una persona su uno sfond
 **Autore:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Pubblicato:** Aug 16, 2026
 
 ---
-### Video loop di una foresta di kelp sottomarina
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video tranquillo per un loop continuo di una foresta di kelp sottomarina con la luce del sole che filtra attraverso l'acqua turchese.
-
-#### 📝 Prompt
-
-```
-Loop continuo, vista sottomarina statica a grandangolo in una foresta di kelp temperata. Alte fronde di kelp color ambra ondeggiano in correnti oceaniche lente e ipnotiche, mentre spettacolari raggi di luce solare dorata penetrano dalla superficie nell'acqua turchese cristallina.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Video loop di una foresta di kelp sottomarina">
-
-**[🎬 Guarda il video →](https://x.com/genevieve__h/status/2089068314764997056)**
-
-**Autore:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Pubblicato:** Aug 16, 2026
-
----
-### Scena di disastro in miniatura cinematografica VFX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt dettagliato per generare una scena di disastro in miniatura cinematografica all'interno di uno studio VFX, caratterizzato da una fisica dell'acqua realistica e un'illuminazione professionale.
-
-#### 📝 Prompt
-
-```
-Crea una scena di disastro in miniatura cinematografica ultra-realistica all'interno di un enorme studio VFX professionale di Hollywood.
-
-Mostra una megacittà costiera moderna in miniatura altamente dettagliata con grattacieli, strade, ponti, edifici sul lungomare, veicoli e barche. Un'onda oceanica realistica e gigantesca si infrange verso la città, creando inondazioni fisicamente credibili, schiuma, spruzzi, nebbia, riflessi sull'acqua e detriti.
-
-Includi membri della troupe VFX professionale, cineprese, set di luci e attrezzature da studio attorno al set in miniatura per creare un autentico look da effetti pratici dietro le quinte.
-
-Fotorealistico, scala in miniatura realistica, illuminazione cinematografica, ombre naturali, texture dettagliate, fisica dell'acqua realistica, profondità di campo ridotta, cinepresa professionale, movimento fluido della telecamera, atmosfera drammatica, qualità VFX da film catastrofico di Hollywood, formato verticale 9:16.
-
-Mantieni edifici, ambiente e scala coerenti in tutto il video.
-
-Evita: cartoni animati, immagini dall'aspetto CGI, persone distorte, arti extra, edifici deformati, sfarfallio, acqua irrealistica, oggetti casuali, testo, loghi, filigrane.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Scena di disastro in miniatura cinematografica VFX">
-
-**[🎬 Guarda il video →](https://x.com/AiwithBloodline/status/2088473623694921736)**
-
-**Autore:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fonte:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Pubblicato:** Aug 15, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -3097,6 +3210,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-16T03:26:12.951Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-16T09:05:02.755Z</sub>
 
 </div>

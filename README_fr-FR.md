@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **269** |
+| 📝 Total des prompts | **271** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-09-16** |
 
@@ -56,6 +56,167 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt de transformation en robe féminine
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt pour Gemini Omni Flash (via Adobe Firefly) qui utilise une image comme première frame et la transforme en une femme portant une robe correspondant au style de l'image originale.
+
+#### 📝 Prompt
+
+```
+Utilisez l'image comme première frame, puis faites-la se transformer en une femme portant une robe qui ressemble à la première image.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099873819129262080/img/TpAU1yMAYqnRHWcw.jpg" width="600" alt="Prompt de transformation en robe féminine">
+
+**[🎬 Voir la vidéo →](https://x.com/zeng_wt/status/2099873984380911773)**
+
+**Auteur:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Source:** [Link](https://x.com/zeng_wt/status/2099873984380911773) | **Publié:** Sep 15, 2026
+
+---
+### Prompt vidéo publicitaire pour le porc aigre-doux avec Omni 1.1 Flash
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt détaillé et multi-parties pour générer une vidéo publicitaire haut de gamme de porc aigre-doux à l'aide d'Omni 1.1 Flash (probablement en référence au modèle cible). Le prompt couvre quatre segments : préparation, friture, mélange de sauce et dressage, avec des exigences strictes de cohérence pour la forme de la viande, l'environnement de cuisine et les angles de caméra.
+
+#### 📝 Prompt
+
+```
+I. Sujet principal du court métrage publicitaire
+
+Plat : Porc aigre-doux.
+Style : Photographie culinaire réaliste haut de gamme, lumière douce et chaude, textures d'ingrédients réalistes, reflets de sauce discrets.
+Spécifications : Écran vertical complet 9:16, 1080x1920, 24 fps.
+Durée : Généré en quatre segments de 10 secondes chacun ; le segment 1 est tronqué à 0-8 s, les autres restent complets, le montage final fait 38 s.
+II. Décomposition du processus de production
+Couper le poitrine de porc en morceaux, rincer et égoutter, mélanger avec l'œuf et l'amidon, puis enrober de poudre sèche ; frire jusqu'à ce que ce soit doré, retirer et égoutter l'huile, frire brièvement les garnitures et réserver ; préparer la sauce aigre-douce, remettre la viande frite dans la poêle pour l'enrober ; ajouter la tomate, l'oignon et le poivron vert, remuer uniformément et dresser.
+Cette version utilise la tomate, l'oignon et le poivron vert, sans ananas, sans étapes de double friture inventées.
+
+III. Exigences communes de génération pour les quatre segments
+
+Soumettre ces exigences communes avec le prompt du segment correspondant.
+
+[Écran vertical complet]
+
+Chaque image doit être un plan complet de l'espace cuisine filmé par la même caméra verticale, avec une perspective, un éclairage et des relations d'occlusion continus. La wok, les mains, les récipients et les trajectoires opérationnelles s'intègrent naturellement dans le champ de vision vertical.
+
+Interdire l'intégration de vidéos de cuisson horizontales au centre et l'assemblage de murs/comptoirs en haut et en bas. Interdire les écrans divisés, l'image dans l'image, les coutures horizontales, les bandes noires, les remplissages flous et les arrière-plans répétés.
+
+Les documents de référence ne servent qu'à comprendre le processus, la forme de la viande et la cuisson ; ne pas coller directement les cadres rectangulaires des documents de référence dans la scène générée.
+
+[Forme des morceaux de viande]
+
+Utiliser des photos réelles comme base visuelle principale. Les morceaux de poitrine de porc font environ 1,5 cm de large, 2 cm de long, irréguliers, légèrement courts/longs, petits morceaux légèrement courbés, avec des bords et des directions variés, pas des parallélépipèdes réguliers ni des lamelles fines.
+
+La taille est une exigence de configuration, pas une mesure précise à partir des images. Ne pas interpréter les descriptions de taille comme des formes géométriques moulées.
+
+Maintenir la même forme et la même plage de taille du lot de viande tout au long de la découpe, de la marinade, de l'enrobage, de la friture, de la sauce et du dressage. N'autoriser que les légers rétrécissements normaux et les changements de surface ; ne pas agrandir soudainement, arrondir, carrer ou fusionner.
+
+Pour l'étape d'enrobage, se référer à la texture réelle de la poudre blanche ; pour les étapes de friture/sauce, se référer aux images correspondantes de viande cuite, ne pas copier l'état de la poudre blanche crue sur la viande cuite.
+
+[Cuisine & Ustensiles]
+
+Même cuisine, mêmes vêtements/mains du chef, même comptoir gris foncé et dosseret en acier. Utiliser uniformément une wok noire, une spatule en inox, une écumoire ronde, un bassine en acier, un plateau de préparation beige et une assiette de service blanche.
+Fixer une lumière principale douce et chaude en haut à gauche, couleurs naturelles des aliments. Garnitures uniquement tomate rouge, oignon violet, poivron vert, coupes et proportions cohérentes.
+
+[Son & Texte]
+
+Les clips générés ne conservent que de légers sons ambiants de cuisine, pas de voix off, dialogue, musique, sous-titres, titres, filigranes ou branding. Une voix off continue en chinois est ajoutée séparément en post-production.
+
+IV. Prompts complets des segments
+
+Segment 1 : Préparation, mélange d'œuf et enrobage de poudre
+
+Générer 10 s, publicité alimentaire verticale réaliste complète 9:16, suivant les exigences communes ci-dessus.
+
+00-03 s :
+Gros plan oblique montrant la poitrine de porc coupée en petits morceaux naturels courts/longs, coupes simples montrant le rinçage/l'égouttage, et la préparation de la tomate/oignon/poivron vert. Établir la bonne taille pendant la découpe, ne pas couper de gros cubes d'abord puis les réduire plus tard.
+
+03-07 s :
+Mettre le même lot de viande dans la bassine en acier, mélanger avec l'œuf et l'amidon, remuer doucement. La pâte humide adhère à la surface, les morceaux restent séparés, ne deviennent pas une soupe ou une pâte. À 6-7 s, soulever un morceau enrobé, puis montrer son entrée dans la poudre sèche.
+
+07-10 s :
+Les doigts tournent/doucissent délicatement, laissant la poudre sèche adhérer aux bords naturels et aux plis. Soulever et secouer l'excès de poudre, la surface est sèche et mate, couche de poudre blanche inégale, conservant des miettes fines et des bosses naturelles. Placer doucement sur le plateau de préparation, chevauchant lâchement les autres morceaux, pas disposés soigneusement.
+
+Cinématographie :
+Lumière latérale douce et chaude, gros plan oblique stable, doigts/bol de poudre/bord du plateau fournissant une échelle de référence. Profondeur de champ suffisante pour voir toute la silhouette de la viande ; pas de vapeur pendant l'étape de préparation.
+À éviter :
+Gros cubes, briques de poudre, boulettes de viande, lamelles, coquilles épaisses, arrondissement/carrure, plusieurs morceaux collés ensemble, agrandissement soudain pendant l'enrobage.
+
+Transition :
+Terminer avec la viande non frite ; le segment 2 doit hériter de cette forme de lot. Le montage ne conserve que les 8 premières secondes de ce segment, pas d'images statiques ni d'étirement.
+Segment 2 : Friture, mise en place et égouttage de l'huile
+
+Générer 10 s, publicité alimentaire verticale réaliste complète 9:16, suivant les exigences communes ci-dessus.
+00-03 s :
+Le plateau beige contient la viande enrobée cohérente avec le segment précédent. Utiliser des outils pour glisser les morceaux de viande individuellement du bord du plateau dans l'huile chaude. Taille/silhouette inchangées avant/après l'entrée, ne pas vider tout le plateau, ne pas mettre les mains dans l'huile.
+
+03-07 s :
+De fines bulles entourent la viande, la poudre se fixe d'abord, puis séparer doucement avec l'écumoire. Compresser le temps d'attente via des coupes, la couche extérieure passe du blanc au jaune pâle, puis au doré clair. Conserver les courbes naturelles et les bosses croustillantes, ne pas gonfler en nuggets de poulet ou boules.
+07-10 s :
+L'écumoire soulève la viande frite, égoutte l'huile au-dessus de la wok ; puis coupe pour montrer la tomate/oignon/poivron vert brièvement frits, soulevés/égouttés, placés séparément de la viande frite.
+
+Cinématographie :
+Combinaison stable de moyen-gros plans obliques et de gros plans d'égouttage, conserver le bord de la wok/l'écumoire comme échelle. La lumière chaude montre une coque croustillante dorée claire, des bulles réalistes, pas de fumée obscurcissant la forme de la viande.
+À éviter :
+Cuisson instantanée, brûlure, grosses coques gonflées, fusion de viande, main touchant l'huile chaude, apparition précoce de la sauce, ajout d'actions de double friture.
+
+Transition :
+Terminer avec la viande frite dorée claire, non saucée ; les garnitures sont traitées pour une utilisation ultérieure.
+Segment 3 : Préparation de la sauce et enrobage de la viande
+
+Générer 10 s, publicité alimentaire verticale réaliste complète 9:16, suivant les exigences communes ci-dessus. Interdire particulièrement l'intégration horizontale et l'assemblage vertical.
+
+00-01 s :
+La wok n'a que de l'huile fine, pas de sauce rouge/viande/garnitures. Le chef tient un petit bol avec de la sauce rouge, le bol et le centre de la wok sont clairement dans le cadre, pas encore versés.
+
+01-03 s :
+Conserver la prise de vue continue. Déplacer le bol au-dessus du centre de la wok, incliner, la sauce tombe selon une trajectoire réelle depuis la bouche du bol, se répand après avoir touché le fond. L'autre main gratte la sauce résiduelle avec la spatule. La sauce du bol diminue, la sauce de la wok augmente en conséquence, s'éloigner après avoir vidé.
+03-05 s :
+Un petit contenant avec de l'assaisonnement liquide entre clairement dans le cadre, verse, le filet tombe continuellement dans la wok. La spatule remue du bas vers le haut, la mousse légèrement, devient plus épaisse. Autoriser la coupe pour compresser le temps d'attente seulement après la fin du versement.
+
+05-07 s :
+L'écumoire avec la viande frite égouttée entre d'abord dans le cadre, puis s'incline, laissant la viande glisser naturellement dans la sauce. Montrer complètement la source et le processus de chute, ne pas laisser la viande apparaître soudainement dans la wok.
+07-10 s :
+La spatule pousse/soulève/retourne doucement depuis le bas, laissant la fine sauce adhérer à chaque morceau. La forme se réfère strictement aux images réelles de viande frite/saucée : irrégularité naturelle, légères courbes, fines rides/bosses claires. Passer du doré clair à une surface brillante orange doré, ne pas forcer un rouge profond.
+
+Cinématographie :
+Gros plan oblique stable, même perspective montrant les mains/bol/wok/trajectoire de versement. Légère vapeur réelle, ne bloquant pas les actions clés, pas de zoom violent.
+À éviter :
+Sauce apparaissant de nulle part, sauce infinie depuis un bol vide, coupes brutales pendant le versement, augmentation soudaine de la viande, devenir rond/carré après la sauce, sauce épaisse cachant la forme, filaments/bouillon complet.
+
+Transition :
+Terminer avec le même lot de viande légèrement saucée, les garnitures pas encore retournées ; le segment 4 hérite de la couleur de la sauce/forme/nombre de morceaux de viande.
+Segment 4 : Remuer les garnitures et dressage
+
+Générer 10 s, publicité alimentaire verticale réaliste complète 9:16, suivant les exigences communes ci-dessus.
+00-03 s :
+Ajouter la tomate/oignon/poivron vert traités à la viande saucée, la spatule soulève/remue rapidement depuis le bas. Les garnitures conservent leurs silhouettes/couleurs, la viande maintient sa taille précédente, pas de déformation/fusion.
+
+03-06 s :
+Prendre le plat dans la même assiette de service blanche par lots avec la spatule. Les actions de prise/déplacement/placement sont complètes et crédibles. Les mains tiennent uniquement les outils ou le bord froid de l'assiette, ne pas attraper la viande chaude. Empilement lâche naturel, la portion provient des ingrédients dans la wok, pas d'ajout.
+06-10 s :
+Poussée lente depuis un gros plan oblique montrant le bord de l'assiette, affichant des morceaux de viande irréguliers courts/longs, une coque croustillante bosselée et une fine sauce brillante. Tomate rouge/oignon violet/poivron vert naturellement entremêlés. Stabiliser enfin sur le produit fini dynamique, légère vapeur montante, pas d'images statiques.
+
+Cinématographie :
+Continuer la lumière latérale douce et chaude et la même scène, mettre en évidence les fins éclats de sauce, conserver les silhouettes de la viande et le sens de la quantité de l'assiette complète.
+
+À éviter :
+Changer la forme de la viande après le dressage, grandes sphères, briques régulières, dressage chaud à mains nues, hauteur exagérée, vapeur blanche épaisse, ajout d'ananas/sésame/coriandre.
+
+Transition :
+Le produit fini correspond au lot précédent, ne changeant que la cuisson/l'état de surface, pas l'identité.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099806279283953664/img/sqQjOdvjoeQSWotJ.jpg" width="600" alt="Prompt vidéo publicitaire pour le porc aigre-doux avec Omni 1.1 Flash">
+
+**[🎬 Voir la vidéo →](https://x.com/7998l201/status/2099806467641745865)**
+
+**Auteur:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2099806467641745865) | **Publié:** Sep 15, 2026
+
+---
 ### Prompts pour vidéos publicitaires de bœuf sauté
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -3025,54 +3186,6 @@ Boucle fluide. Silhouette de profil fixe d'une personne sur un fond blanc cassé
 **Auteur:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Publié:** Aug 16, 2026
 
 ---
-### Boucle vidéo d'une forêt de varech sous-marine
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo apaisant pour une boucle fluide d'une forêt de varech sous-marine, avec la lumière du soleil filtrant à travers une eau turquoise.
-
-#### 📝 Prompt
-
-```
-Boucle fluide, vue sous-marine statique en grand angle dans une forêt de varech tempérée. De hautes frondes de varech ambrées se balancent au gré de courants océaniques lents et hypnotiques, tandis que des rayons de soleil dorés spectaculaires percent la surface pour illuminer l'eau turquoise cristalline.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Boucle vidéo d'une forêt de varech sous-marine">
-
-**[🎬 Voir la vidéo →](https://x.com/genevieve__h/status/2089068314764997056)**
-
-**Auteur:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Publié:** Aug 16, 2026
-
----
-### Scène de catastrophe miniature cinématographique en VFX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt détaillé pour générer une scène de catastrophe miniature cinématographique dans un studio VFX, avec une physique de l'eau réaliste et un éclairage professionnel.
-
-#### 📝 Prompt
-
-```
-Créez une scène de catastrophe miniature cinématographique ultra-réaliste à l'intérieur d'un immense studio VFX professionnel d'Hollywood.
-
-Montrez une mégapole côtière moderne miniature très détaillée avec des gratte-ciel, des routes, des ponts, des bâtiments en bord de mer, des véhicules et des bateaux. Une gigantesque vague océanique réaliste s'écrase sur la ville, créant des inondations physiquement crédibles, de l'écume, des embruns, de la brume, des reflets dans l'eau et des débris.
-
-Incluez des membres de l'équipe VFX professionnelle, des caméras de cinéma, des installations d'éclairage et du matériel de studio autour du plateau miniature pour créer un aspect authentique d'effets pratiques en coulisses.
-
-Photoréaliste, échelle miniature réaliste, éclairage cinématographique, ombres naturelles, textures détaillées, physique de l'eau réaliste, faible profondeur de champ, caméra de cinéma professionnelle, mouvement de caméra fluide, atmosphère dramatique, qualité VFX de film catastrophe hollywoodien, format vertical 9:16.
-
-Maintenez une cohérence des bâtiments, de l'environnement et de l'échelle tout au long de la vidéo.
-
-À éviter : dessin animé, visuels à l'aspect CGI, personnes déformées, membres supplémentaires, bâtiments tordus, scintillement, eau irréaliste, objets aléatoires, texte, logos, filigranes.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Scène de catastrophe miniature cinématographique en VFX">
-
-**[🎬 Voir la vidéo →](https://x.com/AiwithBloodline/status/2088473623694921736)**
-
-**Auteur:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Publié:** Aug 15, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -3125,6 +3238,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-16T03:26:11.547Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-16T09:05:01.615Z</sub>
 
 </div>

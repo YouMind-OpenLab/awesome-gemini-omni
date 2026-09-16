@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **269** |
+| 📝 Total de prompts | **271** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-09-16** |
 
@@ -56,6 +56,167 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de Transformación de Vestido para Mujer
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt para Gemini Omni Flash (a través de Adobe Firefly) que utiliza una imagen como primer fotograma y la transforma en una mujer luciendo un vestido que coincide con el estilo de la imagen original.
+
+#### 📝 Prompt
+
+```
+Utiliza la imagen como primer fotograma, luego haz que se transforme en una mujer luciendo un vestido que parezca igual a la primera imagen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099873819129262080/img/TpAU1yMAYqnRHWcw.jpg" width="600" alt="Prompt de Transformación de Vestido para Mujer">
+
+**[🎬 Ver video →](https://x.com/zeng_wt/status/2099873984380911773)**
+
+**Autor:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Fuente:** [Link](https://x.com/zeng_wt/status/2099873984380911773) | **Publicado:** Sep 15, 2026
+
+---
+### Prompt de Video Publicitario de Comida para Omni 1.1 Flash
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado y multifacético para generar un video publicitario de alta gama sobre cerdo agridulce utilizando Omni 1.1 Flash (probablemente refiriéndose al modelo objetivo). El prompt cubre cuatro segmentos: preparación, fritura, mezcla de salsa y emplatado, con requisitos estrictos de consistencia para la forma de la carne, el entorno de cocina y los ángulos de cámara.
+
+#### 📝 Prompt
+
+```
+I. Tema Principal del Anuncio Corto
+
+Plato: Cerdo Agridulce.
+Estilo: Fotografía culinaria realista de alta gama, luz suave y cálida, texturas de ingredientes realistas, brillos de salsa sutiles.
+Especificaciones: Pantalla vertical completa 9:16, 1080x1920, 24fps.
+Duración: Generado en cuatro segmentos de 10 segundos cada uno; el Segmento 1 se recorta a 0-8s, los demás permanecen completos, el corte final es de 38s.
+II. Desglose del Proceso de Producción
+Cortar la panceta de cerdo en trozos, enjuagar y escurrir, mezclar con huevo y almidón, luego rebozar con polvo seco; freír hasta dorar, retirar y escurrir el aceite, freír brevemente los acompañamientos y reservar; preparar la salsa agridulce, devolver la carne frita a la sartén para cubrir; añadir tomate, cebolla y pimiento verde, saltear uniformemente y emplatar.
+Esta versión utiliza tomate, cebolla y pimiento verde, sin piña, sin pasos fabricados de doble fritura.
+
+III. Requisitos Comunes de Generación para los Cuatro Segmentos
+
+Presente estos requisitos comunes junto con el prompt del segmento correspondiente.
+
+[Pantalla Vertical Completa]
+
+Cada fotograma debe ser una toma completa del espacio de cocina capturada por la misma cámara vertical, con relaciones continuas de perspectiva, iluminación y oclusión. La wok, las manos, los recipientes y las trayectorias de operación deben caber naturalmente dentro del campo de visión vertical.
+
+Prohibido incrustar videos de cocina horizontales en el centro y empalmar paredes/encimeras arriba y abajo. Prohibido pantallas divididas, imagen en imagen, costuras horizontales, barras negras, rellenos borrosos y fondos repetidos.
+
+Los materiales de referencia solo se utilizan para entender el proceso, la forma de la carne y el punto de cocción; no pegue directamente los marcos rectangulares de los materiales de referencia en la escena generada.
+
+[Forma de los Trozos de Carne]
+
+Utilice fotos reales como base visual principal. Los trozos de panceta de cerdo tienen aprox. 1,5 cm de ancho, 2 cm de largo, son irregulares, ligeramente cortos/largos, pequeños trozos ligeramente curvados, con bordes y direcciones variables, no cuboides regulares ni tiras finas.
+
+El tamaño es un requisito de configuración, no una medición precisa de las imágenes. No interprete las descripciones de tamaño como formas geométricas tipo molde.
+
+Mantenga la forma y el rango de tamaño del mismo lote de carne durante todo el corte, marinado, rebozado, fritura, salseado y emplatado. Solo se permite una ligera contracción normal y cambios superficiales; no agrandar, redondear, cuadrar o fusionar repentinamente.
+
+Para la etapa de rebozado, refiérase a la textura real del polvo blanco; para las etapas de fritura/salseado, refiérase a las imágenes correspondientes de carne cocinada, no copie el estado de polvo blanco de la carne cruda en la carne cocinada.
+
+[Cocina y Utensilios]
+
+Misma cocina, misma ropa/manos del chef, misma encimera gris oscuro y respaldo de acero. Utilice uniformemente wok negro, espátula de acero inoxidable, colador redondo, cuenco de acero, bandeja de preparación beige y plato de servicio blanco.
+Fije una luz principal suave y cálida en la parte superior izquierda, colores naturales de los alimentos. Los acompañamientos son solo tomate rojo, cebolla morada y pimiento verde, cortes y proporciones consistentes.
+
+[Sonido y Texto]
+
+Los clips generados mantienen solo ligeros sonidos ambientales de cocina, sin voz en off, diálogo, música, subtítulos, títulos, marcas de agua o branding. La voz en off continua en chino se añade por separado en posproducción.
+
+IV. Prompts Completos de Segmento
+
+Segmento 1: Preparación, Mezcla de Huevo y Rebozado en Polvo
+
+Generar 10s, anuncio de comida realista vertical completo 9:16, siguiendo los requisitos comunes anteriores.
+
+00-03s:
+Primer plano oblicuo mostrando la panceta de cerdo cortada en pequeños trozos naturales cortos/largos, cortes simples mostrando el enjuague/escurrido, y preparación de tomate/cebolla/pimiento verde. Establecer el tamaño correcto durante el corte, no cortar grandes cubos primero y reducirlos después.
+
+03-07s:
+Poner el mismo lote de carne en el cuenco de acero, mezclar con huevo y almidón, revolver suavemente. La masa húmeda se adhiere a la superficie, los trozos permanecen separados, no se convierten en sopa ni masa. En 6-7s recoger un trozo rebozado, luego mostrarlo entrando en el polvo seco.
+
+07-10s:
+Dedos girando/volteando suavemente, dejando que el polvo seco se adhiera a los bordes y arrugas naturales. Levantar y sacudir el exceso de polvo, la superficie es mate seca, capa de polvo blanco irregular, reteniendo migajas finas y bultos naturales. Colocar suavemente en la bandeja de preparación, superponiéndose sueltamente a otros trozos, no ordenadamente dispuestos.
+
+Cinematografía:
+Luz lateral suave y cálida, primer plano oblicuo estable, dedos/tazón de polvo/borde de bandeja proporcionan referencia de escala. Profundidad de campo suficiente para ver el contorno completo de la carne; sin vapor durante la etapa de preparación.
+Evitar:
+Cubos grandes, ladrillos de polvo, albóndigas, tiras, cáscaras gruesas, redondeamiento/cuadratura, múltiples trozos pegados, aumento repentino durante el rebozado.
+
+Transición:
+Terminar con carne sin freír; el Segmento 2 debe heredar la forma de este lote. La edición mantiene solo los primeros 8s de este segmento, sin fotogramas estáticos ni estiramientos.
+Segmento 2: Fritura, Reposo y Escurrido de Aceite
+
+Generar 10s, anuncio de comida realista vertical completo 9:16, siguiendo los requisitos comunes anteriores.
+00-03s:
+La bandeja beige sostiene la carne rebozada consistente con el segmento anterior. Usar herramientas para deslizar los trozos de carne individualmente desde el borde de la bandeja hacia el aceite caliente. Tamaño/contorno inalterados antes/después de entrar, no volcar toda la bandeja, no poner manos en el aceite.
+
+03-07s:
+Burbujas finas rodean la carne, el polvo se fija primero, luego se separan suavemente con el colador. Comprimir el tiempo de espera mediante cortes, la capa exterior pasa de blanca a amarillo pálido, luego a dorado claro. Retener curvas naturales y bultos de la cáscara crujiente, no hincharse en nuggets de pollo o bolas.
+07-10s:
+El colador levanta la carne frita, escurre el aceite sobre la wok; luego cortar para mostrar tomate/cebolla/pimiento verde fritos brevemente, levantados/escurridos, colocados por separado de la carne frita.
+
+Cinematografía:
+Combinación estable de medio-primer plano oblicuo y primer plano de escurrido, retener el borde de la wok/colador como escala. La luz cálida muestra una cáscara crujiente dorada clara, burbujas realistas, sin humo que oscurezca la forma de la carne.
+Evitar:
+Cocción instantánea, quemaduras, cáscaras hinchadas enormes, fusión de carne, mano tocando aceite caliente, aparición temprana de salsa, añadir acciones de doble fritura.
+
+Transición:
+Terminar con carne frita dorada clara, sin salsear; los acompañamientos procesados para uso posterior.
+Segmento 3: Preparación de Salsa y Cubrimiento de Carne
+
+Generar 10s, anuncio de comida realista vertical completo 9:16, siguiendo los requisitos comunes anteriores. Especialmente prohibido la incrustación horizontal y el empalme vertical.
+
+00-01s:
+La wok tiene solo aceite fino, sin salsa roja/carne/acompañamientos. El chef sostiene un tazón pequeño con salsa roja, el tazón y el centro de la wok claramente en cuadro, aún no vertiendo.
+
+01-03s:
+Mantener toma continua. Mover el tazón sobre el centro de la wok, inclinar, la salsa cae a lo largo de una trayectoria real desde la boca del tazón, se extiende después de golpear el fondo. La otra mano raspa la salsa residual con la espátula. La salsa del tazón disminuye, la salsa de la wok aumenta acorde, alejarse después de vaciar.
+03-05s:
+Un recipiente pequeño con condimento líquido entra claramente en cuadro, vierte, el chorro cae continuamente en la wok. La espátula revuelve de abajo hacia arriba, la salsa hace espuma ligeramente, se vuelve más espesa. Permitir corte para comprimir el tiempo de espera solo después de completar el vertido.
+
+05-07s:
+El colador con la carne frita escurrida entra en cuadro primero, luego se inclina, dejando que la carne se deslice naturalmente en la salsa. Mostrar completamente la fuente y el proceso de caída, no dejar que la carne aparezca repentinamente en la wok.
+07-10s:
+La espátula empuja/levanta/voltea suavemente desde el fondo, dejando que la salsa fina se adhiera a cada trozo. La forma referencia estrictamente imágenes reales de carne frita/salseada: irregularidad natural, ligeras curvas, arrugas/bultos finos claros. Pasar de dorado claro a superficie brillante naranja dorada, no forzar rojo profundo.
+
+Cinematografía:
+Primer plano oblicuo estable, misma perspectiva mostrando manos/tazón/wok/trayectoria de vertido. Ligero vapor real, no bloqueando acciones clave, sin zoom violento.
+Evitar:
+Salsa apareciendo de la nada, salsa infinita de un tazón vacío, cortes bruscos durante el vertido, aumento repentino de carne, volverse redonda/cuadrada después del salseado, salsa espesa ocultando la forma, hilos/caldo completo.
+
+Transición:
+Terminar con el mismo lote de carne ligeramente salseada, los acompañamientos aún no devueltos; el Segmento 4 hereda color de salsa/forma/cantidad de carne.
+Segmento 4: Salteado de Acompañamientos y Emplatado
+
+Generar 10s, anuncio de comida realista vertical completo 9:16, siguiendo los requisitos comunes anteriores.
+00-03s:
+Añadir tomate/cebolla/pimiento verde procesados a la carne salseada, la espátula levanta/saltear rápidamente desde el fondo. Los acompañamientos retienen contornos/colores, la carne mantiene el tamaño anterior, sin deformación/fusión.
+
+03-06s:
+Servir el plato en el mismo plato de servicio blanco por lotes con la espátula. Las acciones de servir/mover/colocar son completas y creíbles. Las manos solo sostienen herramientas o el borde frío del plato, no agarrar carne caliente. Apilamiento suelto natural, la porción proviene de los ingredientes en la wok, sin adiciones.
+06-10s:
+Empuje lento desde un primer plano oblicuo mostrando el borde del plato, exhibiendo trozos de carne irregulares cortos/largos, cáscara crujiente abultada y salsa fina brillante. Tomate rojo/cebolla morada/pimiento verde intercalados naturalmente. Finalmente estabilizarse en producto terminado dinámico, ligero vapor ascendente, sin fotogramas estáticos.
+
+Cinematografía:
+Continuar con luz lateral suave y cálida y la misma escena, resaltar destellos finos de la salsa, retener contornos de carne y sensación de cantidad del plato completo.
+
+Evitar:
+Cambiar la forma de la carne después del emplatado, esferas grandes, ladrillos regulares, emplatado en caliente con las manos desnudas, altura exagerada, vapor blanco espeso, añadir piña/sésamo/cilantro.
+
+Transición:
+El producto terminado corresponde al lote anterior, cambiando solo el punto de cocción/estado superficial, no la identidad.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099806279283953664/img/sqQjOdvjoeQSWotJ.jpg" width="600" alt="Prompt de Video Publicitario de Comida para Omni 1.1 Flash">
+
+**[🎬 Ver video →](https://x.com/7998l201/status/2099806467641745865)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Fuente:** [Link](https://x.com/7998l201/status/2099806467641745865) | **Publicado:** Sep 15, 2026
+
+---
 ### Prompts para Videos Publicitarios de Ternilla Salteada
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2997,54 +3158,6 @@ Bucle continuo. Silueta de perfil estática y fija de una persona sobre un fondo
 **Autor:** [genevieveh@](https://x.com/genevieve__h) | **Fuente:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Publicado:** Aug 16, 2026
 
 ---
-### Video en bucle de bosque de algas submarino
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video tranquilo para un bucle continuo de un bosque de algas submarino con luz solar filtrándose a través de aguas turquesas.
-
-#### 📝 Prompt
-
-```
-Bucle continuo, vista submarina estática de gran angular en un bosque de algas templado. Las altas frondas de algas color ámbar se balancean con corrientes oceánicas lentas e hipnóticas, mientras espectaculares rayos de luz solar dorada atraviesan la superficie hacia el agua turquesa cristalina.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Video en bucle de bosque de algas submarino">
-
-**[🎬 Ver video →](https://x.com/genevieve__h/status/2089068314764997056)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Fuente:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Publicado:** Aug 16, 2026
-
----
-### Escena de desastre en miniatura cinematográfica VFX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt detallado para generar una escena de desastre en miniatura cinematográfica en un entorno de estudio VFX, con física de agua realista e iluminación profesional.
-
-#### 📝 Prompt
-
-```
-Crea una escena de desastre en miniatura cinematográfica ultrarrealista dentro de un enorme estudio de VFX profesional de Hollywood.
-
-Muestra una megaciudad costera moderna en miniatura altamente detallada con rascacielos, carreteras, puentes, edificios frente al mar, vehículos y barcos. Una gigantesca ola oceánica realista choca contra la ciudad, creando inundaciones físicamente creíbles, espuma, salpicaduras, niebla, reflejos en el agua y escombros.
-
-Incluye miembros del equipo de VFX profesional, cámaras de cine, equipos de iluminación y equipamiento de estudio alrededor del set en miniatura para crear un aspecto auténtico de efectos prácticos detrás de escena.
-
-Fotorrealista, escala de miniatura realista, iluminación cinematográfica, sombras naturales, texturas detalladas, física del agua realista, poca profundidad de campo, cámara de cine profesional, movimiento de cámara suave, atmósfera dramática, calidad de VFX de película de desastres de Hollywood, formato vertical 9:16.
-
-Mantén la consistencia de los edificios, el entorno y la escala a lo largo del video.
-
-Evitar: dibujos animados, efectos visuales que parezcan CGI, personas distorsionadas, extremidades adicionales, edificios deformados, parpadeo, agua poco realista, objetos aleatorios, texto, logotipos, marcas de agua.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Escena de desastre en miniatura cinematográfica VFX">
-
-**[🎬 Ver video →](https://x.com/AiwithBloodline/status/2088473623694921736)**
-
-**Autor:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Fuente:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Publicado:** Aug 15, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -3097,6 +3210,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-16T03:26:06.697Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-16T09:04:57.622Z</sub>
 
 </div>

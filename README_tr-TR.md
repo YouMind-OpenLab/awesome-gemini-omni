@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **269** |
+| 📝 Toplam İstem | **271** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-16** |
 
@@ -56,6 +56,167 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Kadın Elbise Dönüşüm İstemcisi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Adobe Firefly aracılığıyla Gemini Omni Flash için kullanılan, bir görseli ilk kare olarak alan ve bu görseli orijinal stil ile uyumlu bir elbise giyen bir kadına dönüştüren istemci.
+
+#### 📝 İstem
+
+```
+Görseli ilk kare olarak kullanın, ardından bunu ilk görseldeki görünüme sahip bir elbise giyen bir kadına dönüştürün.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099873819129262080/img/TpAU1yMAYqnRHWcw.jpg" width="600" alt="Kadın Elbise Dönüşüm İstemcisi">
+
+**[🎬 Videoyu izle →](https://x.com/zeng_wt/status/2099873984380911773)**
+
+**Yazar:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Kaynak:** [Link](https://x.com/zeng_wt/status/2099873984380911773) | **Yayınlandı:** Sep 15, 2026
+
+---
+### Omni 1.1 Flash Yemek Reklamı Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Omni 1.1 Flash kullanılarak tatlı ekşi domuz eti için yüksek kaliteli bir yemek reklamı videosu oluşturmak üzere hazırlanmış, detaylı ve çok parçalı bir prompt. Prompt; hazırlık, kızartma, sos karıştırma ve tabaklama olmak üzere dört segmenti kapsar ve etin şekli, mutfak ortamı ile kamera açıları için katı tutarlılık gereksinimleri içerir.
+
+#### 📝 İstem
+
+```
+I. Reklam Kısa Filminin Ana Konusu
+
+Yemek: Tatlı Ekşi Domuz Eti.
+Stil: Gerçekçi yüksek kaliteli yemek fotoğrafçılığı, sıcak yumuşak ışık, gerçekçi malzeme dokuları, ölçülü sos parlaklığı.
+Teknik Özellikler: Tam 9:16 dikey ekran, 1080x1920, 24fps.
+Süre: Her biri 10 saniyelik dört segment halinde üretilir; Segment 1 0-8s olarak kırpılır, diğerleri tam kalır, nihai kesim 38s'dir.
+II. Üretim Sürecinin Dökümü
+Domuz göbeğini küp şeklinde doğrayın, durulayın ve süzdürün, yumurta ve nişasta ile karıştırın, ardından kuru tozla kaplayın; altın rengini alana kadar kızartın, çıkarıp yağını süzdürün, garnitürleri kısa süre kızartıp kenara ayırın; tatlı ekşi sosu hazırlayın, kızarmış eti tavaya geri koyup sosa bulayın; domates, soğan ve yeşil biber ekleyin, eşit şekilde harmanlayıp tabağa alın.
+Bu versiyon domates, soğan ve yeşil biber kullanır, ananas yoktur, uydurma çift kızartma adımları yoktur.
+
+III. Dört Segment İçin Ortak Üretim Gereksinimleri
+
+Bu ortak gereksinimleri ilgili segment promptu ile birlikte gönderin.
+
+[Tam Dikey Ekran]
+
+Her kare, aynı dikey kamera tarafından çekilmiş, sürekli perspektif, ışıklandırma ve oklüzyon ilişkilerine sahip eksiksiz bir mutfak mekanı olmalıdır. Wok, eller, kaplar ve işlem yörüngeleri doğal olarak dikey görüş alanına sığmalıdır.
+
+Merkeze yatay pişirme videolarının gömülmesini ve üst/alt duvarların veya tezgahların birleştirilmesini yasaklayın. Bölünmüş ekranları, resim içinde resmi, yatay dikişleri, siyah şeritleri, bulanık dolguları ve tekrarlayan arka planları yasaklayın.
+
+Referans materyaller yalnızca süreci, etin şeklini ve pişme derecesini anlamak için kullanılır; referans materyallerin dikdörtgen çerçevelerini üretilen sahneye doğrudan yapıştırmayın.
+
+[Et Parçası Şekli]
+
+Gerçek fotoğrafları temel görsel dayanak olarak kullanın. Domuz göbeği parçaları yaklaşık 1.5cm genişliğinde, 2cm uzunluğunda, düzensiz, hafif kısa/uzun, hafif eğri küçük parçalardır, kenarları ve yönleri değişkendir, düzenli küpler veya ince şeritler değildir.
+
+Boyut bir ayarlama gereksinimidir, görüntülerden hassas ölçüm değildir. Boyut açıklamalarını kalıp gibi geometrik şekiller olarak yorumlamayın.
+
+Doğrama, marine etme, kaplama, kızartma, soslama ve tabaklama boyunca aynı parti etin şeklini ve boyut aralığını koruyun. Sadece normal hafif büzülmeye ve yüzey değişikliklerine izin verin; ani büyüme, yuvarlanma, kareleşme veya birleşme olmamalıdır.
+
+Kaplama aşamasında gerçek beyaz toz dokusuna bakın; kızartma/soslama aşamalarında ilgili pişmiş et görüntülerine bakın, ham etteki beyaz toz durumunu pişmiş ete kopyalamayın.
+
+[Mutfak ve Aletler]
+
+Aynı mutfak, aynı şef kıyafeti/elleri, aynı koyu gri tezgah ve çelik arka panel. Siyah wok, paslanmaz çelik spatula, yuvarlak kevgir, çelik leğen, bej hazırlık tepsisi ve beyaz servis tabağını tutarlı şekilde kullanın.
+Sıcak yumuşak ana ışığı sol üstte sabitleyin, doğal yiyecek renkleri. Garnitürler sadece kırmızı domates, mor soğan, yeşil biber, tutarlı kesimler ve oranlar.
+
+[Ses ve Metin]
+
+Üretilen kliplerde yalnızca hafif ambiyans pişirme sesleri bulunur, seslendirme, diyalog, müzik, altyazı, başlık, filigran veya marka yok. Sürekli Çince seslendirme post-prodüksiyonda ayrı olarak eklenir.
+
+IV. Tam Segment Promptları
+
+Segment 1: Hazırlık, Yumurta Karıştırma ve Toz Kaplama
+
+Yukarıdaki ortak gereksinimleri takip ederek 10s'lik, tam 9:16 dikey gerçekçi yemek reklamı üretin.
+
+00-03s:
+Domuz göbeğinin doğal kısa/uzun küçük parçalara kesildiğini gösteren eğik yakın çekim, durulama/süzme için basit kesimler ve domates/soğan/yeşil biber hazırlığı. Doğrama sırasında doğru boyutu belirleyin, önce büyük küpler kesip sonra küçültmeyin.
+
+03-07s:
+Aynı parti eti çelik leğene koyun, yumurta ve nişasta ile karıştırın, nazikçe çırpın. Islak hamur yüzeye yapışır, parçalar ayrı kalır, çorba veya hamur haline gelmez. 6-7s'de kaplanmış bir parça kaldırın, ardından kuru toza girdiğini gösterin.
+
+07-10s:
+Parmaklar nazikçe çevirir/karıştırır, kuru tozun doğal kenarlara ve kırışıklıklara yapışmasını sağlar. Kaldırıp fazla tozu silkeleyin, yüzey kuru mat, düzensiz beyaz toz kaplaması, ince kırıntıları ve doğal çıkıntıları korur. Hazırlık tepsisine nazikçe yerleştirin, diğer parçaların üzerine gevşekçe bindirin, düzenli dizmeyin.
+
+Sinematografi:
+Sıcak yumuşak yan ışık, stabil eğik yakın çekim, parmaklar/toz kasesi/tepsi kenarı ölçek referansı sağlar. Derinlik alanı tüm et konturunu görmek için yeterlidir; hazırlık aşamasında buhar yok.
+Kaçınılacaklar:
+Büyük küpler, toz tuğlaları, köfteler, şeritler, kalın kabuklar, yuvarlama/kareleştirme, birden fazla parçanın yapışması, kaplama sırasında ani büyüme.
+
+Geçiş:
+Kızartılmamış etle bitirin; Segment 2 bu partinin şeklini devralmalıdır. Düzenleme bu segmentin ilk 8s'sini tutar, statik kareler veya uzatma yok.
+Segment 2: Kızartma, Sabitleme ve Yağdan Arındırma
+
+Yukarıdaki ortak gereksinimleri takip ederek 10s'lik, tam 9:16 dikey gerçekçi yemek reklamı üretin.
+00-03s:
+Bej tepsi, önceki segmentle tutarlı kaplanmış eti tutar. Aletleri kullanarak et parçalarını tek tek tepsi kenarından sıcak yağa kaydırın. Giriş öncesi/sonrası boyut/kontur değişmez, tüm tepsiyi dökmeyin, elleri yağa sokmayın.
+
+03-07s:
+İnce kabarcıklar eti sarar, toz önce sabitlenir, ardından kevgirle nazikçe ayrılır. Kesmelerle bekleme süresini sıkıştırın, dış katman beyazdan soluk sarıya, ardından açık altına döner. Doğal eğrilikleri ve çıtır kabuk çıkıntılarını koruyun, nugget veya top gibi şişmeyin.
+07-10s:
+Kevgir kızarmış eti kaldırır, wok üzerinde yağını süzer; ardından domates/soğan/yeşil biberin kısa süre kızartılıp kaldırıldığını/süzüldüğünü ve kızarmış etten ayrı konduğunu göstermek için kesme yapılır.
+
+Sinematografi:
+Stabil eğik orta-yakın ve süzme yakın çekim kombinasyonu, wok kenarı/kevgiri ölçek olarak tutun. Sıcak ışık açık altın çıtır kabuğu gösterir, gerçekçi kabarcıklar, et şeklini örten duman yok.
+Kaçınılacaklar:
+Anında pişirme, yanma, devasa şişkin kabuklar, etin birleşmesi, elin sıcak yağa değmesi, erken sos görünümü, çift kızartma eylemlerinin eklenmesi.
+
+Geçiş:
+Açık altın renkli kızarmış etle, sossuz bitirin; garnitürler sonraki kullanım için işlenmiştir.
+Segment 3: Sos Yapımı ve Etin Soslanması
+
+Yukarıdaki ortak gereksinimleri takip ederek 10s'lik, tam 9:16 dikey gerçekçi yemek reklamı üretin. Özellikle yatay gömme ve dikey birleştirmeyi yasaklayın.
+
+00-01s:
+Wok'ta sadece ince yağ var, kırmızı sos/et/garnitür yok. Şef küçük bir kasede kırmızı sos tutuyor, kase ve wok merkezi net bir şekilde kadrajda, henüz dökülmedi.
+
+01-03s:
+Sürekli çekimi koruyun. Kaseyi wok merkezine hareket ettirin, eğin, sos kase ağzından gerçek yörünge boyunca düşer, dibe vurduktan sonra yayılır. Diğer el spatulayla kalan sosu sıyırır. Kasedeki sos azalırken woktaki sos buna göre artar, boşaldıktan sonra uzaklaşın.
+03-05s:
+Sıvı baharat içeren küçük bir kap net bir şekilde kadraja girer, döker, akış sürekli wok'a düşer. Spatula alttan üste karıştırır, sos hafif köpürür, koyulaşır. Dökme tamamlandıktan sonra bekleme süresini sıkıştırmak için kesmeye izin verilir.
+
+05-07s:
+Yağı süzülmüş kızarmış eti taşıyan kevgir önce kadraja girer, ardından eğilir, etin sosa doğal olarak kaymasını sağlar. Kaynağı ve düşme sürecini tamamen gösterin, etin wok'ta aniden belirmesine izin vermeyin.
+07-10s:
+Spatula alttan nazikçe iter/kaldırır/çevirir, ince sosun her parçaya yapışmasını sağlar. Şekil kesinlikle gerçek kızarmış/soslu görüntülere referans verir: doğal düzensizlik, hafif eğrilikler, ince kırışıklıklar/çıkıntılar net. Açık altından parlak turuncu-altın yüzeye dönüşün, zorla koyu kırmızı yapmayın.
+
+Sinematografi:
+Stabil eğik yakın çekim, eller/kase/wok/dökme yörüngesini gösteren aynı perspektif. Hafif gerçek buhar, anahtar eylemleri engellemez, şiddetli zoom yok.
+Kaçınılacaklar:
+Sosun hiçbir yerden gelmesi, boş kaseden sonsuz sos, dökme sırasında atlama kesmeleri, ani et artışı, soslamadan sonra yuvarlak/kare olması, kalın sosun şekli gizlemesi, ipliksi/tamamen suyu olan sos.
+
+Geçiş:
+Aynı parti etin ince soslandığı, garnitürlerin henüz geri eklenmediği haliyle bitirin; Segment 4 sos rengini/etin şeklini/adedini devralır.
+Segment 4: Garnitürlerin Harmanlanması ve Tabaklama
+
+Yukarıdaki ortak gereksinimleri takip ederek 10s'lik, tam 9:16 dikey gerçekçi yemek reklamı üretin.
+00-03s:
+İşlenmiş domates/soğan/yeşil biberi soslu ete ekleyin, spatula alttan nazikçe kaldırıp hızlıca harmanlar. Garnitürler konturlarını/renklerini korur, et önceki boyutunu muhafaza eder, deformasyon/birleşme yok.
+
+03-06s:
+Spatula ile yemeği aynı beyaz servis tabağına partiler halinde kepçeleyin. Kepçeleme/taşıma/yerleştirme eylemleri eksiksiz ve inandırıcı. Eller sadece aletleri veya soğuk tabak kenarını tutar, sıcak eti kavramayın. Doğal gevşek yığılma, porsiyon wok'taki malzemelerden gelir, ekleme yok.
+06-10s:
+Tabak kenarını gösteren eğik yakın çekimden yavaş itme, kısa/uzun düzensiz et parçalarını, çıkıntılı çıtır kabuğu ve ince parlak sosu sergiler. Kırmızı domates/mor soğan/yeşil biber doğal olarak serpili. Son olarak dinamik bitmiş üründe sabitlenir, hafif yükselen buhar, statik kareler yok.
+
+Sinematografi:
+Sıcak yumuşak yan ışığı ve aynı sahneyi sürdürün, ince sos parlamalarını vurgulayın, et konturlarını ve tam tabak doluluk hissini koruyun.
+
+Kaçınılacaklar:
+Tabaklamadan sonra etin şeklinin değişmesi, büyük küreler, düzenli tuğlalar, çıplak elle sıcak tabaklama, abartılı yükseklik, kalın beyaz buhar, ananas/susam/kişniş eklenmesi.
+
+Geçiş:
+Bitmiş ürün önceki partiyle örtüşür, sadece pişme derecesi/yüzey durumu değişir, kimlik değil.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099806279283953664/img/sqQjOdvjoeQSWotJ.jpg" width="600" alt="Omni 1.1 Flash Yemek Reklamı Video Prompt">
+
+**[🎬 Videoyu izle →](https://x.com/7998l201/status/2099806467641745865)**
+
+**Yazar:** [Ryan](https://x.com/7998l201) | **Kaynak:** [Link](https://x.com/7998l201/status/2099806467641745865) | **Yayınlandı:** Sep 15, 2026
+
+---
 ### Sote Edilmiş Dana Eti Reklam Videosu İstemleri
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -3025,54 +3186,6 @@ Kusursuz döngü. Yumuşak, sisli, kemik beyazı bir arka plana karşı bir kiş
 **Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Yayınlandı:** Aug 16, 2026
 
 ---
-### Sualtı Yosun Ormanı Video Döngüsü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Turkuaz suların arasından süzülen güneş ışıklarıyla aydınlanan, kesintisiz bir sualtı yosun ormanı döngüsü için huzur verici bir video istemi.
-
-#### 📝 İstem
-
-```
-Kesintisiz döngü, ılıman bir yosun ormanında sabit geniş açılı sualtı görünümü. Uzun kehribar rengi yosun yaprakları yavaş, hipnotik okyanus akıntılarıyla sallanırken, altın rengi güneş ışınları yüzeyden berrak turkuaz sulara doğru dramatik bir şekilde süzülüyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Sualtı Yosun Ormanı Video Döngüsü">
-
-**[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068314764997056)**
-
-**Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Yayınlandı:** Aug 16, 2026
-
----
-### Sinematik Minyatür Felaket Sahnesi VFX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Gerçekçi su fiziği ve profesyonel aydınlatma özelliklerine sahip, bir VFX stüdyosu ortamında sinematik minyatür felaket sahnesi oluşturmak için detaylı bir komut.
-
-#### 📝 İstem
-
-```
-Devasa ve profesyonel bir Hollywood VFX stüdyosunun içinde ultra gerçekçi, sinematik bir minyatür felaket sahnesi oluşturun.
-
-Gökdelenler, yollar, köprüler, sahil binaları, araçlar ve teknelerle dolu, son derece detaylı minyatür bir modern sahil megakenti gösterin. Devasa ve gerçekçi bir okyanus dalgası şehre doğru çarparak fiziksel olarak inandırıcı bir sel, köpük, serpinti, sis, su yansımaları ve enkaz oluşturuyor.
-
-Otantik bir kamera arkası pratik efekt görünümü yaratmak için minyatür setin etrafında profesyonel VFX ekibi üyeleri, sinema kameraları, aydınlatma donanımları ve stüdyo ekipmanları bulundurun.
-
-Fotogerçekçi, gerçekçi minyatür ölçeği, sinematik aydınlatma, doğal gölgeler, detaylı dokular, gerçekçi su fiziği, sığ alan derinliği, profesyonel sinema kamerası, akıcı kamera hareketi, dramatik atmosfer, Hollywood felaket filmi VFX kalitesi, 9:16 dikey format.
-
-Video boyunca binaların, çevrenin ve ölçeğin tutarlı kalmasını sağlayın.
-
-Kaçınılması gerekenler: çizgi film, CGI görünümlü görseller, bozuk insanlar, fazladan uzuvlar, çarpık binalar, titreme, gerçekçi olmayan su, rastgele nesneler, metin, logolar, filigranlar.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Sinematik Minyatür Felaket Sahnesi VFX">
-
-**[🎬 Videoyu izle →](https://x.com/AiwithBloodline/status/2088473623694921736)**
-
-**Yazar:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Kaynak:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Yayınlandı:** Aug 15, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3125,6 +3238,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-16T03:26:16.166Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-16T09:05:07.566Z</sub>
 
 </div>

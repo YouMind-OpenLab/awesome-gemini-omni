@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **269** |
+| 📝 Total Prompts | **271** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-16** |
 
@@ -56,6 +56,167 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Lady Dress Transformation Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A prompt for Gemini Omni Flash (via Adobe Firefly) that uses an image as the first frame and transforms it into a lady wearing a dress matching the original image style.
+
+#### 📝 Prompt
+
+```
+Use the image as the first frame, then make it transform into a lady wearing a dress that looks like the first image.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099873819129262080/img/TpAU1yMAYqnRHWcw.jpg" width="600" alt="Lady Dress Transformation Prompt">
+
+**[🎬 Watch Video →](https://x.com/zeng_wt/status/2099873984380911773)**
+
+**Author:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Source:** [Link](https://x.com/zeng_wt/status/2099873984380911773) | **Published:** Sep 15, 2026
+
+---
+### Omni 1.1 Flash Food Ad Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed multi-part prompt for generating a high-end food advertisement video of sweet and sour pork using Omni 1.1 Flash (likely referring to the target model). The prompt covers four segments: preparation, frying, sauce mixing, and plating, with strict consistency requirements for meat shape, kitchen environment, and camera angles.
+
+#### 📝 Prompt
+
+```
+I. Main Subject of the Ad Short
+
+Dish: Sweet and Sour Pork.
+Style: Realistic high-end food photography, warm soft light, realistic ingredient textures, restrained sauce highlights.
+Specs: Full 9:16 vertical screen, 1080x1920, 24fps.
+Duration: Generated in four segments of 10 seconds each; Segment 1 is cropped to 0-8s, others remain complete, final cut is 38s.
+II. Production Process Breakdown
+Cut pork belly into chunks, rinse and drain, mix with egg and starch, then coat with dry powder; fry until golden, remove and drain oil, briefly fry side dishes and set aside; make sweet and sour sauce, return fried meat to pan to coat; add tomato, onion, and green pepper, toss evenly and plate.
+This version uses tomato, onion, and green pepper, no pineapple, no fabricated double-frying steps.
+
+III. Common Generation Requirements for All Four Segments
+
+Submit these common requirements together with the corresponding segment prompt.
+
+[Full Vertical Screen]
+
+Every frame must be a complete kitchen space shot by the same vertical camera, with continuous perspective, lighting, and occlusion relationships. Wok, hands, containers, and operation trajectories naturally fit within the vertical field of view.
+
+Prohibit embedding horizontal cooking videos in the center and splicing walls/countertops above and below. Prohibit split screens, picture-in-picture, horizontal seams, black bars, blurred fills, and repeated backgrounds.
+
+Reference materials are only used to understand process, meat shape, and doneness; do not paste the rectangular frames of reference materials directly into the generated scene.
+
+[Meat Chunk Shape]
+
+Use real photos as the primary visual basis. Pork belly pieces are approx. 1.5cm wide, 2cm long, irregular, slightly short/long, slightly bent small chunks, with varying edges and directions, not regular cuboids or thin strips.
+
+Size is a setting requirement, not precise measurement from images. Do not interpret size descriptions as mold-like geometric shapes.
+
+Maintain the same batch of meat's shape and size range throughout cutting, marinating, coating, frying, saucing, and plating. Only allow normal slight shrinkage and surface changes; do not suddenly enlarge, round, square, or merge.
+
+For coating stage, refer to real white powder texture; for frying/saucing stages, refer to corresponding cooked meat images, do not copy raw meat white powder state onto cooked meat.
+
+[Kitchen & Utensils]
+
+Same kitchen, same chef clothing/hands, same dark gray countertop and steel backsplash. Uniformly use black wok, stainless steel spatula, round skimmer, steel basin, beige prep tray, and white serving plate.
+Fix warm soft main light at top-left, natural food colors. Side dishes only red tomato, purple onion, green pepper, consistent cuts and proportions.
+
+[Sound & Text]
+
+Generated clips keep only slight ambient cooking sounds, no voiceover, dialogue, music, subtitles, titles, watermarks, or branding. Continuous Chinese voiceover is added separately in post-production.
+
+IV. Complete Segment Prompts
+
+Segment 1: Prep, Egg Mixing, and Powder Coating
+
+Generate 10s, full 9:16 vertical realistic food ad, following above common requirements.
+
+00-03s:
+Oblique close-up showing pork belly cut into natural short/long small chunks, simple cuts showing rinsing/draining, and tomato/onion/green pepper prep. Establish correct size during cutting, do not cut large cubes first then shrink later.
+
+03-07s:
+Put same batch of meat into steel basin, mix with egg and starch, gently stir. Wet batter adheres to surface, pieces remain separate, do not become soup or dough. At 6-7s pick up one coated piece, then show it entering dry powder.
+
+07-10s:
+Fingers gently turn/flipping, letting dry powder adhere to natural edges and wrinkles. Lift and shake off excess powder, surface is dry matte, uneven white powder coat, retaining fine crumbs and natural bumps. Gently place on prep tray, loosely overlapping other pieces, not neatly arranged.
+
+Cinematography:
+Warm soft side light, stable oblique close-up, fingers/powder bowl/tray rim provide scale reference. Depth of field sufficient to see full meat outline; no steam during prep stage.
+Avoid:
+Large cubes, powder bricks, meatballs, strips, thick shells, rounding/squaring, multiple pieces sticking together, sudden enlargement during coating.
+
+Transition:
+End with un-fried meat; Segment 2 must inherit this batch's shape. Edit keeps only first 8s of this segment, no static frames or stretching.
+Segment 2: Frying, Setting, and Draining Oil
+
+Generate 10s, full 9:16 vertical realistic food ad, following above common requirements.
+00-03s:
+Beige tray holds coated meat consistent with previous segment. Use tools to slide meat pieces individually from tray edge into hot oil. Size/outline unchanged before/after entry, do not dump whole tray, do not put hands in oil.
+
+03-07s:
+Fine bubbles surround meat, powder sets first, then gently separate with skimmer. Compress waiting time via cuts, outer layer turns from white to pale yellow, then light golden. Retain natural bends and crispy shell bumps, do not puff up into chicken nuggets or balls.
+07-10s:
+Skimmer lifts fried meat, drains oil over wok; then cut to show tomato/onion/green pepper briefly fried, lifted/drained, placed separately from fried meat.
+
+Cinematography:
+Stable oblique medium-close and draining close-up combined, retain wok rim/skimmer as scale. Warm light shows light golden crispy shell, realistic bubbles, no smoke obscuring meat shape.
+Avoid:
+Instant cooking, burning, huge puffy shells, merging meat, hand touching hot oil, early appearance of sauce, adding double-frying actions.
+
+Transition:
+End with light golden fried meat, un-sauced; side dishes processed for later use.
+Segment 3: Making Sauce and Coating Meat
+
+Generate 10s, full 9:16 vertical realistic food ad, following above common requirements. Especially prohibit horizontal embedding and vertical splicing.
+
+00-01s:
+Wok has only thin oil, no red sauce/meat/side dishes. Chef holds small bowl with red sauce, bowl and wok center clearly in frame, not yet pouring.
+
+01-03s:
+Keep continuous shot. Move bowl over wok center, tilt, sauce falls along real trajectory from bowl mouth, spreads after hitting bottom. Other hand scrapes residual sauce with spatula. Bowl sauce decreases, wok sauce increases accordingly, move away after empty.
+03-05s:
+Small container with liquid seasoning clearly enters frame, pours, stream continuously falls into wok. Spatula stirs bottom-to-top, sauce foams slightly, becomes thicker. Allow cut to compress waiting time only after pouring completes.
+
+05-07s:
+Skimmer with drained fried meat enters frame first, then tilts, letting meat slide naturally into sauce. Fully show source and falling process, do not let meat appear suddenly in wok.
+07-10s:
+Spatula gently pushes/lifts/flips from bottom, letting thin sauce adhere to each piece. Shape strictly references real fried/sauced images: natural irregularity, slight bends, fine wrinkles/bumps clear. Turn from light golden to golden-orange glossy surface, do not force deep red.
+
+Cinematography:
+Stable oblique close-up, same perspective showing hands/bowl/wok/pouring trajectory. Slight real steam, not blocking key actions, no violent zoom.
+Avoid:
+Sauce appearing from nowhere, infinite sauce from empty bowl, jump cuts during pouring, sudden meat increase, becoming round/square after saucing, thick sauce hiding shape, stringy/full broth.
+
+Transition:
+End with same batch meat thinly sauced, side dishes not yet returned; Segment 4 inherits sauce color/meat shape/count.
+Segment 4: Tossing Side Dishes and Plating
+
+Generate 10s, full 9:16 vertical realistic food ad, following above common requirements.
+00-03s:
+Add processed tomato/onion/green pepper to sauced meat, spatula gently lifts/tosses quickly from bottom. Side dishes retain outlines/colors, meat maintains previous size, no deformation/merging.
+
+03-06s:
+Scoop dish into same white serving plate in batches with spatula. Scooping/moving/placing actions complete and credible. Hands only hold tools or cool plate edge, do not grab hot meat. Natural loose stacking, portion comes from ingredients in wok, no addition.
+06-10s:
+Slow push from oblique close-up showing plate rim, displaying short/long irregular meat chunks, bumpy crispy shell, and thin glossy sauce. Red tomato/purple onion/green pepper naturally interspersed. Finally stabilize on dynamic finished product, slight rising steam, no static frames.
+
+Cinematography:
+Continue warm soft side light and same scene, highlight fine sauce glints, retain meat outlines and full plate sense of quantity.
+
+Avoid:
+Changing meat shape after plating, big spheres, regular bricks, bare-handed hot plating, exaggerated height, thick white steam, adding pineapple/sesame/cilantro.
+
+Transition:
+Finished product corresponds to previous batch, only changing doneness/surface state, not identity.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2099806279283953664/img/sqQjOdvjoeQSWotJ.jpg" width="600" alt="Omni 1.1 Flash Food Ad Video Prompt">
+
+**[🎬 Watch Video →](https://x.com/7998l201/status/2099806467641745865)**
+
+**Author:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2099806467641745865) | **Published:** Sep 15, 2026
+
+---
 ### Stir-Fried Beef Advertising Video Prompts
 
 ![中文](https://img.shields.io/badge/lang-中文-red)
@@ -2957,44 +3118,6 @@ Seamless loop. Static locked-off profile silhouette of a person against a soft, 
 **Author:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Published:** Aug 16, 2026
 
 ---
-### Underwater Kelp Forest Video Loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A tranquil video prompt for a seamless loop of an underwater kelp forest with sunlight filtering through turquoise water.
-
-#### 📝 Prompt
-
-```
-Seamless loop, static wide-angle underwater view in a temperate kelp forest. Tall amber kelp fronds sway in slow, hypnotic ocean currents as dramatic god-rays of golden sunlight pierce down through the surface into the clear turquoise water.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089064950102646785/img/KhVBDSrIXQbz0spv.jpg" width="600" alt="Underwater Kelp Forest Video Loop">
-
-**[🎬 Watch Video →](https://x.com/genevieve__h/status/2089068314764997056)**
-
-**Author:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068314764997056) | **Published:** Aug 16, 2026
-
----
-### Cinematic Miniature Disaster Scene VFX
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A detailed prompt for generating a cinematic miniature disaster scene in a VFX studio setting, featuring realistic water physics and professional lighting.
-
-#### 📝 Prompt
-
-```
-Create an ultra-realistic cinematic miniature disaster scene inside a massive professional Hollywood VFX studio.\n\nShow a highly detailed miniature modern coastal megacity with skyscrapers, roads, bridges, waterfront buildings, vehicles and boats. A gigantic realistic ocean wave crashes toward the city, creating physically believable flooding, foam, spray, mist, water reflections and debris.\n\nInclude professional VFX crew members, cinema cameras, lighting rigs and studio equipment around the miniature set to create an authentic behind-the-scenes practical-effects look.\n\nPhotorealistic, realistic miniature scale, cinematic lighting, natural shadows, detailed textures, realistic water physics, shallow depth of field, professional cinema camera, smooth camera movement, dramatic atmosphere, Hollywood disaster-movie VFX quality, 9:16 vertical format.\n\nMaintain consistent buildings, environment and scale throughout the video.\n\nAvoid: cartoon, CGI-looking visuals, distorted people, extra limbs, warped buildings, flickering, unrealistic water, random objects, text, logos, watermarks.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2088473458426753024/img/WIuR7JuiO-DyhoLK.jpg" width="600" alt="Cinematic Miniature Disaster Scene VFX">
-
-**[🎬 Watch Video →](https://x.com/AiwithBloodline/status/2088473623694921736)**
-
-**Author:** [Dr Bloodline | AI](https://x.com/AiwithBloodline) | **Source:** [Link](https://x.com/AiwithBloodline/status/2088473623694921736) | **Published:** Aug 15, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3047,6 +3170,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T03:25:58.749Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-16T09:04:42.553Z</sub>
 
 </div>
