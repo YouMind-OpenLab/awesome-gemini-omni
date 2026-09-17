@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **271** |
+| 📝 Tổng số prompt | **275** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-17** |
 
@@ -56,6 +56,136 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Chuyển đổi Hình ảnh sang Video với Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Hướng dẫn câu lệnh cụ thể để sử dụng Gemini Omni Flash (thông qua Adobe Firefly) nhằm biến đổi hình ảnh đã tải lên thành video với những thay đổi bất ngờ.
+
+#### 📝 Prompt
+
+```
+Sử dụng hình ảnh làm khung đầu tiên và biến đổi nó thành một thứ gì đó bất ngờ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100233684162924544/img/26f64H7JBlLZF2vN.jpg" width="600" alt="Chuyển đổi Hình ảnh sang Video với Gemini Omni">
+
+**[🎬 Xem video →](https://x.com/zeng_wt/status/2100233714345160937)**
+
+**Tác giả:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Nguồn:** [Link](https://x.com/zeng_wt/status/2100233714345160937) | **Đã xuất bản:** Sep 16, 2026
+
+---
+### Cảnh Video Vệt Sóng Phà Ở Vùng Tây Bắc Thái Bình Dương
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một cảnh mô tả cho việc tạo video, nổi bật với vệt sóng phà, sương mù và ánh sáng trên Vịnh Elliott, được tạo bằng Gemini Omni 1.1 Flash.
+
+#### 📝 Prompt
+
+```
+Vệt sóng phà. Sương mù nhẹ nhàng. Vịnh Elliott trước khi ngày mới thức giấc.
+
+Gemini Omni 1.1 Flash trên Buble — sắc vàng của vùng Tây Bắc Thái Bình Dương phản chiếu trên mặt nước xanh xám, ánh đèn bến tàu tĩnh lặng gợi cảm giác như một thương hiệu đang mở ra.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2100219289315811328/pu/img/v4VJgxHzcbvcsfJ3.jpg" width="600" alt="Cảnh Video Vệt Sóng Phà Ở Vùng Tây Bắc Thái Bình Dương">
+
+**[🎬 Xem video →](https://x.com/itsBubleAI/status/2100219309624565969)**
+
+**Tác giả:** [Buble AI](https://x.com/itsBubleAI) | **Nguồn:** [Link](https://x.com/itsBubleAI/status/2100219309624565969) | **Đã xuất bản:** Sep 16, 2026
+
+---
+### Prompt Video Quảng Cáo Ẩm Thực Cao Cấp cho Gemini Omni
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một bộ prompt toàn diện để tạo video quảng cáo ẩm thực cao cấp gồm 4 phần, tập trung vào xúc tu mực chiên muối ớt. Tài liệu chi tiết các bước nấu ăn cụ thể (làm sạch, cắt, chần, áo bột, chiên) cùng với yêu cầu nghiêm ngặt về tính nhất quán hình ảnh và hướng dẫn sử dụng hình ảnh/video tham chiếu.
+
+#### 📝 Prompt
+
+```
+Tạo một video quảng cáo ẩm thực cao cấp bằng cách sử dụng Omni 1.1 Flash.
+
+# Xúc Tu Mực Tươi Chiên Muối Ớt | Bốn Prompt Tạo Sinh Hoàn Chỉnh Bằng Tiếng Trung
+
+Yêu Cầu Chung: Cả bốn phân đoạn đều phải tạo ra video có chất lượng quảng cáo ẩm thực cao cấp, thời lượng 10 giây, tỷ lệ khung hình dọc 9:16. Duy trì cùng một môi trường bếp, cùng mặt bàn làm việc bằng thép không gỉ, cùng chiếc chảo đen có hoa văn tổ ong, và cùng một mẻ xúc tu mực tươi. Xúc tu mực phải là xúc tu mực tươi thật, thon dài, cong tự nhiên, có giác hút và độ dày không hoàn toàn đồng đều; sau khi chiên, chúng phải có màu vàng nâu, giòn và xoăn tự nhiên. Chúng không được biến thành khoanh mực, xúc tu bạch tuộc lớn, tôm, miếng thịt gà, dải thịt, khoai tây chiên hoặc mì thường. Không phụ đề, không chữ viết, không logo, không watermark, không thương hiệu, không lồng tiếng, không nhạc nền trong suốt toàn bộ video.
+
+## Phân Đoạn 1
+
+Tạo một clip video có chất lượng quảng cáo ẩm thực cao cấp, thời lượng 10 giây, tỷ lệ khung hình dọc 9:16. Món ăn là "Xúc Tu Mực Tươi Chiên Muối Ớt". Nhiệm vụ của phân đoạn này là sơ chế, cắt và chần nhanh xúc tu mực tươi để chuẩn bị cho các bước tẩm ướp và áo bột tiếp theo.
+
+Vui lòng tham khảo đồng thời video đã tải lên scene-01.mp4 và 5 hình ảnh tham chiếu từ 01.jpg đến 05.jpg: 01 chỉ trạng thái rửa và ngâm xúc tu mực tươi trong nước; 02 chỉ màu hồng nhạt trắng và độ cong tự nhiên sau khi vớt ra để ráo; 03 chỉ động tác cắt xúc tu trên thớt gỗ tròn; 04 chỉ kích thước của ớt đỏ và xanh cắt hạt lựu; 05 chỉ sự kết nối giữa việc băm nhỏ tỏi và chần trong nồi. Tài liệu tham chiếu chỉ được sử dụng để hiểu hình dạng nguyên liệu và hành động; không sao chép văn bản, watermark, danh tính tác giả, danh tính nhân vật hoặc bố cục ngang của video gốc.
+
+Duy trì cùng một môi trường bếp chân thực trong khung hình: mặt bàn làm việc bằng thép không gỉ, thớt gỗ tròn dày, chảo đen có hoa văn tổ ong, bát thủy tinh đựng gia vị, ánh sáng bên cạnh ấm áp tự nhiên. Xúc tu mực tươi phải thon dài, mềm mại, có giác hút và cong tự nhiên, với các sợi có độ dày không đều và một số phần gốc còn dính liền; chúng không được trở thành khoanh mực, xúc tu bạch tuộc lớn, tôm, dải thịt hoặc sợi mì trắng gọn gàng. Các đoạn xúc tu mực cắt xong phải giữ nguyên dạng các đoạn dài tự nhiên khoảng 6-10 cm, với mép hơi xoăn lại; không cắt chúng thành khối vuông nhỏ.
+
+0-3 giây: Cận cảnh, nước trong veo nhẹ nhàng lay động trong bát thủy tinh, đôi tay vớt ra những xúc tu mực tươi, bóng loáng và ẩm ướt, giác hút hiện rõ. 3-6 giây: Chuyển sang thớt gỗ tròn, dao đầu bếp cắt mượt mà từ gốc xúc tu thành các đoạn dài tự nhiên, động tác dứt khoát và gọn gàng, giữ cho xúc tu thon dài và cong. 6-8 giây: Ớt đỏ, ớt xanh và tỏi được băm thành hạt nhỏ, màu sắc rực rỡ nhưng không quá bão hòa. 8-10 giây: Nước trong chảo đen đang sôi lăn tăn, xúc tu mực được chần nhanh, hơi nước bốc lên, và xúc tu dần chuyển từ màu hồng nhạt trong suốt sang màu hồng sữa nhạt, kết thúc ở trạng thái xúc tu vừa đổi màu, nối tiếp sang phân đoạn sau để vớt ra và tẩm ướp.
+
+Yêu cầu quay phim: Chuyển động tay chân thực, tỷ lệ thức ăn chính xác, các góc quay chủ yếu là cận trung và cận cảnh từ trên xuống, đẩy nhẹ vào, ánh sáng sạch sẽ đạt chuẩn quảng cáo, giữ lại chi tiết của hơi nước, giọt nước và bề mặt nguyên liệu. Không phụ đề, không chữ viết, không logo, không watermark, không thương hiệu, không lồng tiếng, không nhạc nền, chỉ giữ lại âm thanh môi trường bếp chân thực nhẹ nhàng. Không hiển thị thêm nguyên liệu thừa, không để thức ăn lơ lửng, không nhảy sang công đoạn bày biện thành phẩm, không hiển thị ngón tay sai lệch hoặc dụng cụ biến dạng.
+
+## Phân Đoạn 2
+
+Tạo một clip video có chất lượng quảng cáo ẩm thực cao cấp, thời lượng 10 giây, tỷ lệ khung hình dọc 9:16. Món ăn là "Xúc Tu Mực Tươi Chiên Muối Ớt". Nhiệm vụ của phân đoạn này là tẩm ướp xúc tu mực đã chần, thêm trứng đánh tan, áo bột và chuẩn bị cho công đoạn chiên ngập dầu.
+
+Vui lòng tham khảo đồng thời video đã tải lên scene-02.mp4 và 5 hình ảnh tham chiếu từ 01.jpg đến 05.jpg: 01 chỉ màu hồng sữa nhạt của xúc tu mực trong nồi chần; 02 chỉ trạng thái thêm gia vị và trứng đánh tan vào xúc tu mực trong bát thủy tinh; 03 chỉ cảm giác bột sau khi thêm tinh bột; 04 chỉ động tác trộn xúc tu mực bằng tay; 05 chỉ chảo dầu nóng và môi trường trước khi nguyên liệu đã áo bột cho vào dầu. Tài liệu tham chiếu chỉ dùng cho hành động và trạng thái nguyên liệu; không sao chép văn bản, watermark, danh tính tác giả, viền ngang hoặc danh tính nhân vật của video gốc.
+
+Giữ nguyên bối cảnh bếp như Phân Đoạn 1, cùng chiếc chảo đen có hoa văn tổ ong, cùng bát thủy tinh trong suốt và mặt bàn bằng thép không gỉ. Hình dạng của xúc tu mực phải duy trì sự nhất quán: thon dài, xoăn tự nhiên, có giác hút, chủ yếu là các đoạn dài, một số phần gốc hơi dày hơn, có màu hồng sữa nhạt sau khi chần; chúng không được trở thành khoanh mực, khối thịt vuông, miếng gà, tôm hoặc mì thường. Sau khi áo bột, phải có một lớp bột trắng mỏng, không hoàn toàn đồng đều, cho phép nhìn thấy đường nét của xúc tu và gợn sóng của giác hút; không áo chúng thành một khối bột nhão khổng lồ.
+
+0-3 giây: Hơi nước tan đi trong nồi, xúc tu mực đã chần được vớt ra từ nước nóng, bề mặt còn đọng nước, rơi vào bát thủy tinh trong suốt. 3-6 giây: Thêm trứng đánh tan, bột mịn và một chút gia vị màu đỏ vào xúc tu mực, camera gần miệng bát, tạo ra những đám bụi nhẹ khi bột rơi xuống, xúc tu vẫn phân biệt rõ ràng. 6-8 giây: Đôi tay trộn nhẹ nhàng trong bát thủy tinh, đảm bảo trứng đánh tan và bột áo đều từng xúc tu mực, các xúc tu đan xen nhau nhưng không vón cục thành paste. 8-10 giây: Chuyển sang dầu nóng trong chảo đen, bề mặt dầu hơi sủi bọt, xúc tu mực đã áo bột xuất hiện gần đó sẵn sàng cho vào chảo, kết thúc ở trạng thái ngay trước khi chiên ngập dầu, nối tiếp sang phân đoạn sau.
+
+Yêu cầu quay phim: Nhiếp ảnh ẩm thực thương mại sạch sẽ và sáng sủa, độ sâu trường ảnh nông nhưng hành động rõ ràng, bột, trứng đánh tan, hơi nước và độ bóng của dầu chân thực. Không phụ đề, không chữ viết, không logo, không watermark, không thương hiệu, không lồng tiếng, không nhạc nền, chỉ giữ lại âm thanh môi trường bếp chân thực nhẹ nhàng. Không để gia vị xuất hiện từ hư không; mọi nguyên liệu phải được thêm vào một cách tự nhiên thông qua hành động từ bát, thìa hoặc tay. Không hiển thị sớm thành phẩm đã chiên vàng, không hiển thị thêm đồ ăn thừa hoặc nguyên liệu không liên quan.
+
+## Phân Đoạn 3
+
+Tạo một clip video có chất lượng quảng cáo ẩm thực cao cấp, thời lượng 10 giây, tỷ lệ khung hình dọc 9:16. Món ăn là "Xúc Tu Mực Tươi Chiên Muối Ớt". Nhiệm vụ của phân đoạn này là cho xúc tu mực đã áo bột vào chảo để chiên ngập dầu, thể hiện sự chuyển đổi từ lớp áo bột màu sáng sang màu vàng nâu và giòn rụm.
+
+Vui lòng tham khảo đồng thời video đã tải lên scene-03.mp4 và 5 hình ảnh tham chiếu từ 01.jpg đến 05.jpg: 01 chỉ khoảnh khắc xúc tu mực đã áo bột cho vào dầu; 02 chỉ vị trí của chảo dầu nóng, rây lọc và động tác khuấy; 03 chỉ mức nhiệt với bong bóng dầu bao phủ xúc tu mực; 04 chỉ bong bóng dầu dày đặc trong quá trình chiên hai lần; 05 chỉ trạng thái xúc tu mực màu vàng óng được vớt ra khỏi chảo dầu. Tài liệu tham chiếu chỉ dùng cho trình tự hành động, trạng thái bong bóng và độ chín của xúc tu mực; không sao chép văn bản, watermark, danh tính tác giả hoặc bố cục ngang của video gốc.
+
+Giữ nguyên chiếc chảo đen có hoa văn tổ ong, cùng chiếc rây kim loại tròn và cùng môi trường bếp ga bằng thép không gỉ. Hình dạng của xúc tu mực phải giống hệt hai phân đoạn trước: thon dài, cong tự nhiên, có giác hút, một số cuộn thành vòng cung, một số phần gốc hơi dày hơn, tạo thành lớp áo bột vàng mỏng và thô ráp bên ngoài sau khi chiên; chúng không được trở thành khoanh mực, chân bạch tuộc dày, phi lê gà, khoai tây chiên, que tôm hoặc viên tròn. Màu sắc khi chiên nằm giữa vàng nhạt và vàng đậm, mép hơi nhăn và giòn, nhưng không cháy đen.
+
+0-3 giây: Xúc tu mực đã áo bột trượt tự nhiên từ rây hoặc bên cạnh tay vào dầu nóng, bề mặt dầu nhanh chóng sủi bọt, xúc tu vẫn mang lớp áo bột trắng nhạt, camera gần mép chảo nhưng không che khuất hành động. 3-6 giây: Xúc tu mực lăn trong bong bóng dầu, đũa hoặc rây khuấy nhẹ để tách chúng ra, một vài xúc tu dần uốn cong và định hình, màu sắc chuyển từ trắng nhạt sang vàng nhạt. 6-8 giây: Hiển thị việc chiên lại hoặc tiếp tục chiên ở nhiệt độ cao, bong bóng dầu trở nên dày đặc hơn, bề mặt xúc tu mực trở nên khô và thô ráp, mép vàng rõ ràng. 8-10 giây: Rây kim loại vớt xúc tu mực đã chiên ra khỏi chảo dầu, giọt dầu rơi tự nhiên trở lại vào nồi, xúc tu mực呈现 một khối fluffy, giòn, xoăn tự nhiên, kết thúc ở trạng thái để ráo dầu, nối tiếp sang phân đoạn sau để cho lại vào chảo xào thơm.
+
+Yêu cầu quay phim: Kết cấu chân thực của bong bóng dầu, hơi nước, giọt dầu và lớp áo bột vàng, hình ảnh ngon mắt nhưng không quá bão hòa, camera có thể slightly follow động tác nâng rây. Không phụ đề, không chữ viết, không logo, không watermark, không thương hiệu, không lồng tiếng, không nhạc nền, chỉ giữ lại âm thanh môi trường bếp chân thực nhẹ nhàng. Không hiển thị ngọn lửa lớn phóng đại bao trùm bề mặt chảo, không để xúc tu mực chín tức thì từ hư không, không để thức ăn lơ lửng, không thay đổi chiều dài và độ dày của xúc tu mực.
+
+## Phân Đoạn 4
+
+Tạo một clip video có chất lượng quảng cáo ẩm thực cao cấp, thời lượng 10 giây, tỷ lệ khung hình dọc 9:16. Món ăn là "Xúc Tu Mực Tươi Chiên Muối Ớt". Nhiệm vụ của phân đoạn này là xào thơm các nguyên liệu, cho xúc tu mực đã chiên lại vào chảo đảo đều, rắc muối và tiêu, và trình bày thành phẩm.
+
+Vui lòng tham khảo đồng thời video đã tải lên scene-04.mp4 và 5 hình ảnh tham chiếu từ 01.jpg đến 05.jpg: 01 chỉ dầu thừa và xẻng trong chảo đen; 02 chỉ trạng thái phi tỏi băm, hạt ớt đỏ và hạt ớt xanh cho đến khi thơm; 03 chỉ việc đổ xúc tu mực đã chiên trở lại vào chảo; 04 chỉ hơi wok mạnh mẽ và xào nhanh; 05 chỉ sự xếp chồng, màu sắc và kết cấu giòn của thành phẩm cuối cùng màu vàng óng. Tài liệu tham chiếu chỉ dùng cho hành động, trạng thái nguyên liệu và kết cấu thành phẩm; không sao chép văn bản, watermark, danh tính tác giả hoặc bố cục ngang của video gốc.
+
+Giữ nguyên căn bếp, cùng chiếc chảo đen có hoa văn tổ ong, cùng chiếc xẻng và cùng mẻ xúc tu mực đã chiên như ba phân đoạn đầu tiên. Xúc tu mực thành phẩm phải là xúc tu mực tươi chiên muối ớt thon dài, xoăn tự nhiên, có kết cấu giác hút, bề mặt vàng và giòn, trộn lẫn với hạt ớt đỏ mịn, hạt ớt xanh và tỏi băm; chúng không được trở thành khoanh mực, xúc tu bạch tuộc, khối thịt, tôm hoặc snack dạng dải gọn gàng. Khẩu phần phải đầy đặn như một đĩa món ăn, xếp chồng tự nhiên, không quá thưa thớt.
+
+0-3 giây: Để lại một lượng nhỏ dầu trong chảo đen, thêm tỏi băm, hạt ớt đỏ và hạt ớt xanh, đẩy nhẹ bằng xẻng, nguyên liệu tỏa hương thơm, màu sắc đỏ và xanh phân biệt rõ ràng. 3-6 giây: Xúc tu mực đã chiên vàng được đổ tự nhiên từ rây kim loại hoặc chậu nhỏ vào chảo, xẻng đảo nhanh, làm cho nguyên liệu thơm bám vào bề mặt xúc tu mực, nguồn gốc thức ăn phải rõ ràng, không được xuất hiện từ hư không. 6-8 giây: Rắc muối và tiêu mịn, xẻng đảo hai hoặc ba lần, xúc tu mực vẫn giữ được độ fluffy và giòn, hạt đỏ và xanh phân bố đều, cho phép có hơi wok nhẹ nhưng không có ngọn lửa quá mức. 8-10 giây: Chuyển sang cận cảnh thành phẩm, xúc tu mực tươi chiên muối ớt màu vàng óng được xếp chồng trong một chiếc đĩa màu sáng sạch sẽ, kết cấu giác hút, mép giòn, hạt ớt đỏ và xanh, và các hạt tỏi hiện rõ, kết thúc bằng một shot hero ổn định phù hợp cho các ứng cử viên bìa sau này.
+
+Yêu cầu quay phim: Ánh sáng ấm đạt chuẩn quảng cáo, điểm sáng sạch sẽ, ngoại hình nhiều dầu nhưng không ngấy, độ sâu trường ảnh nông làm nổi bật thành phẩm, hành động liên tục. Không phụ đề, không chữ viết, không logo, không watermark, không thương hiệu, không lồng tiếng, không nhạc nền, chỉ giữ lại âm thanh môi trường bếp chân thực nhẹ nhàng. Không hiển thị thêm món ăn kèm, không hiển thị cơm, ly rượu hoặc khuôn mặt người, không làm cho màu sắc thành phẩm quá đỏ hoặc cháy đen, không thay đổi hình dạng đã thiết lập của xúc tu mực.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100189918064701440/img/nB0Pp6mKiLL9mGBx.jpg" width="600" alt="Prompt Video Quảng Cáo Ẩm Thực Cao Cấp cho Gemini Omni">
+
+**[🎬 Xem video →](https://x.com/7998l201/status/2100190123824714108)**
+
+**Tác giả:** [Ryan](https://x.com/7998l201) | **Nguồn:** [Link](https://x.com/7998l201/status/2100190123824714108) | **Đã xuất bản:** Sep 16, 2026
+
+---
+### Hoạt ảnh Poster Du lịch Mùa thu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Tạo hoạt ảnh poster du lịch bằng cách sử dụng Nano Banana 2 để tham khảo và Gemini Omni Flash để tạo nội dung.
+
+#### 📝 Prompt
+
+```
+Poster video du lịch. Hoàn thành chỉ trong năm phút. Chào mừng đến với… không khí mùa thu của đất nước tôi
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100175485422485504/img/HBDl9P1MDTwJMjuP.jpg" width="600" alt="Hoạt ảnh Poster Du lịch Mùa thu">
+
+**[🎬 Xem video →](https://x.com/Colorinmyspirit/status/2100175537654182360)**
+
+**Tác giả:** [Larisa Shutova / Larysa Shutava](https://x.com/Colorinmyspirit) | **Nguồn:** [Link](https://x.com/Colorinmyspirit/status/2100175537654182360) | **Đã xuất bản:** Sep 16, 2026
+
+---
 ### Câu lệnh biến đổi trang phục nữ
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3082,82 +3212,6 @@ PHONG CÁCH: Nhiếp ảnh thực phẩm siêu thực, kết cấu tương cà b
 **Tác giả:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Nguồn:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Đã xuất bản:** Aug 17, 2026
 
 ---
-### Bình minh phản chiếu trên cánh đồng muối Bolivia
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video tối giản về cảnh bình minh phản chiếu trên cánh đồng muối ngập nước tại Bolivia với không gian âm rộng lớn.
-
-#### 📝 Prompt
-
-```
-Vòng lặp liền mạch, cảnh quay góc rộng tĩnh lặng trên cánh đồng muối ngập nước tại Bolivia. Một lớp nước mỏng phẳng lặng phản chiếu hoàn hảo những đám mây bình minh màu hồng phấn và tím nhạt trôi nhẹ nhàng trên bầu trời. Không gian âm rộng lớn, phong cách tối giản đầy chất thơ.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bình minh phản chiếu trên cánh đồng muối Bolivia">
-
-**[🎬 Xem video →](https://x.com/genevieve__h/status/2089068330225221876)**
-
-**Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Đã xuất bản:** Aug 16, 2026
-
----
-### Vòng lặp hồ cá Koi phong cách Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt tuyệt đẹp lấy cảm hứng từ Studio Ghibli, mô tả những chú cá Koi đang bơi trong hồ nước màu nước với ánh nắng lốm đốm.
-
-#### 📝 Prompt
-
-```
-Vòng lặp liền mạch, góc nhìn từ trên xuống tĩnh lặng của một hồ nước trong vườn theo phong cách anime màu nước của Studio Ghibli. Những chú cá Koi đầy màu sắc đang chậm rãi bơi vòng quanh dưới những lá súng trôi nổi. Gợn nước nhẹ nhàng, ánh nắng lốm đốm xuyên qua tán lá phong, tông màu pastel dịu nhẹ, chuyển động tĩnh lặng đầy thư thái.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Vòng lặp hồ cá Koi phong cách Ghibli">
-
-**[🎬 Xem video →](https://x.com/genevieve__h/status/2089068327691862357)**
-
-**Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Đã xuất bản:** Aug 16, 2026
-
----
-### Dải ruy băng thủy tinh không trọng lực
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một video prompt trừu tượng đầy mê hoặc về dải ruy băng thủy tinh khúc xạ trôi nổi trong môi trường không trọng lực trên nền tối.
-
-#### 📝 Prompt
-
-```
-Vòng lặp liền mạch, góc máy cố định quay cảnh dải ruy băng thủy tinh trong suốt, khúc xạ đang uốn lượn chậm rãi trong môi trường không trọng lực trên nền đen huyền bí. Hiệu ứng quang sai màu tinh tế dọc theo các cạnh, ánh sáng khúc xạ nhẹ nhàng, chuyển động chậm rãi đầy mê hoặc, khoảng trống lớn phù hợp để chèn giao diện người dùng (UI).
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Dải ruy băng thủy tinh không trọng lực">
-
-**[🎬 Xem video →](https://x.com/genevieve__h/status/2089068325493944435)**
-
-**Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Đã xuất bản:** Aug 16, 2026
-
----
-### Vòng lặp video bóng người với hiệu ứng phơi sáng kép trong rừng
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý video phơi sáng kép siêu thực mô tả khu rừng thông đầy sương mù nằm gọn trong bóng đen của một người.
-
-#### 📝 Prompt
-
-```
-Vòng lặp liền mạch. Hình bóng hồ sơ tĩnh của một người trên nền trắng xương mềm mại, đầy sương mù. Hiệu ứng phơi sáng kép: bên trong bóng đen, một khu rừng thông rậm rạp vùng Tây Bắc Thái Bình Dương hiện ra, với những lớp sương mù núi màu trắng trôi chậm rãi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Vòng lặp video bóng người với hiệu ứng phơi sáng kép trong rừng">
-
-**[🎬 Xem video →](https://x.com/genevieve__h/status/2089068323132649758)**
-
-**Tác giả:** [genevieveh@](https://x.com/genevieve__h) | **Nguồn:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Đã xuất bản:** Aug 16, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3210,6 +3264,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-17T03:31:55.289Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-17T09:13:13.746Z</sub>
 
 </div>

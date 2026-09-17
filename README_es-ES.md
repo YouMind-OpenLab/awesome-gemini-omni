@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **271** |
+| 📝 Total de prompts | **275** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-09-17** |
 
@@ -56,6 +56,136 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Transformación de imagen a video con Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Instrucción de prompt específica para usar Gemini Omni Flash (a través de Adobe Firefly) y transformar una imagen subida en un video con cambios inesperados.
+
+#### 📝 Prompt
+
+```
+Usa la imagen como el primer fotograma y haz que se transforme en algo inesperado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100233684162924544/img/26f64H7JBlLZF2vN.jpg" width="600" alt="Transformación de imagen a video con Gemini Omni">
+
+**[🎬 Ver video →](https://x.com/zeng_wt/status/2100233714345160937)**
+
+**Autor:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Fuente:** [Link](https://x.com/zeng_wt/status/2100233714345160937) | **Publicado:** Sep 16, 2026
+
+---
+### Escena de video del rastro de estela del ferry en el Pacífico Noroeste
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una escena descriptiva para la generación de video que muestra la estela del ferry, niebla y la iluminación de Elliott Bay, creada con Gemini Omni 1.1 Flash.
+
+#### 📝 Prompt
+
+```
+Estela del ferry. Niebla suave. Elliott Bay antes de que amanezca.
+
+Gemini Omni 1.1 Flash en Buble — El dorado del Pacífico Noroeste sobre aguas azul grisáceas, una luz tranquila del muelle que ya se siente como un lanzamiento de marca.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2100219289315811328/pu/img/v4VJgxHzcbvcsfJ3.jpg" width="600" alt="Escena de video del rastro de estela del ferry en el Pacífico Noroeste">
+
+**[🎬 Ver video →](https://x.com/itsBubleAI/status/2100219309624565969)**
+
+**Autor:** [Buble AI](https://x.com/itsBubleAI) | **Fuente:** [Link](https://x.com/itsBubleAI/status/2100219309624565969) | **Publicado:** Sep 16, 2026
+
+---
+### Prompt de Video para Anuncios Gastronómicos de Alta Gama en Gemini Omni
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Una serie completa de prompts para crear un video publicitario de alta gama de cuatro partes sobre tentáculos de calamar a la sal y pimienta. Detalla pasos específicos de cocción (limpieza, corte, escaldado, rebozado, fritura) con requisitos estrictos de consistencia visual e instrucciones de uso de imágenes/videos de referencia.
+
+#### 📝 Prompt
+
+```
+Genera un comercial de comida de alta gama usando Omni 1.1 Flash.
+
+# Tentáculos de Calamar Fresco a la Sal y Pimienta | Cuatro Prompts Completos de Generación en Chino
+
+Requisitos Generales: Los cuatro segmentos deben generar videos de 10 segundos, formato vertical 9:16, con calidad de anuncio gastronómico de alta gama. Mantén el mismo entorno de cocina, la misma encimera de acero inoxidable, el mismo wok negro con patrón de panal y el mismo lote de tentáculos de calamar fresco. Los tentáculos de calamar deben ser reales, frescos, delgados, naturalmente curvados, con ventosas visibles y no perfectamente uniformes en grosor; después de freír, deben ser dorados, crujientes y naturalmente rizados. No pueden convertirse en anillos de calamar, grandes tentáculos de pulpo, camarones, trozos de pollo, tiras de carne, papas fritas o fideos normales. Sin subtítulos, sin texto, sin logotipos, sin marcas de agua, sin marcas, sin locuciones, sin música durante todo el video.
+
+## Segmento 1
+
+Genera un clip de video de 10 segundos, formato vertical 9:16, con calidad de anuncio gastronómico de alta gama. El plato es "Tentáculos de Calamar Fresco a la Sal y Pimienta". La tarea de este segmento es procesar, cortar y escaldar brevemente los tentáculos de calamar fresco para prepararlos para el posterior sazonado y rebozado.
+
+Por favor, consulta simultáneamente el video subido scene-01.mp4 y las 5 imágenes de referencia 01.jpg a 05.jpg: 01 se refiere al estado de lavar y remojar los tentáculos de calamar fresco en agua; 02 se refiere al color rosado-blanquecino pálido y la curvatura natural después de escurrir los tentáculos; 03 se refiere a la acción de cortar los tentáculos en una tabla de madera redonda; 04 se refiere al tamaño de los dados de pimientos rojos y verdes; 05 se refiere a la conexión entre picar ajo finamente y escaldar en la olla. Los materiales de referencia solo se usan para entender las formas de los ingredientes y las acciones; no copies el texto original del video, las marcas de agua, los identificadores del autor, las identidades de los personajes ni la composición horizontal.
+
+Mantén el mismo entorno de cocina realista en el cuadro: encimera de acero inoxidable, tabla de madera redonda gruesa, wok negro con patrón de panal, bol de condimentos de vidrio, iluminación lateral blanca cálida natural. Los tentáculos de calamar fresco deben ser delgados, suaves, con ventosas y naturalmente curvados, con hebras de grosor desigual y algunas conexiones en la base; no pueden convertirse en anillos de calamar, grandes tentáculos de pulpo, camarones, tiras de carne o fideos blancos ordenados. Los tentáculos de calamar cortados deben permanecer como segmentos largos naturales de aproximadamente 6-10 cm, con bordes ligeramente rizados; no los cortes en pequeños dados.
+
+0-3 segundos: Primer plano, agua clara moviéndose suavemente en un bol de vidrio, manos levantando los tentáculos de calamar fresco, que están húmedos y brillantes, con las ventosas claramente visibles. 3-6 segundos: Cambio a la tabla de madera redonda, un cuchillo de chef corta suavemente desde la base de los tentáculos en segmentos largos naturales, el movimiento es limpio y preciso, manteniendo los tentáculos delgados y curvados. 6-8 segundos: Pimientos rojos, pimientos verdes y ajo se pican en gránulos finos, colores vívidos pero no sobresaturados. 8-10 segundos: El agua en el wok negro está hirviendo a fuego lento, los tentáculos de calamar se escaldan brevemente, sube vapor y los tentáculos cambian gradualmente de rosa claro transparente a rosa claro lechoso, terminando en el estado donde los tentáculos acaban de cambiar de color, conectando con el siguiente segmento para retirar y sazonar.
+
+Requisitos cinematográficos: Movimientos de mano realistas, proporciones de comida precisas, tomas principalmente de primer plano medio y primeros planos cenitales, ligero acercamiento, iluminación limpia de grado publicitario, preservando detalles de vapor, gotas de agua y superficies de los ingredientes. Sin subtítulos, sin texto, sin logotipos, sin marcas de agua, sin marcas, sin locuciones, sin música, solo retener ligeros sonidos ambientales realistas de cocina. No muestres ingredientes extra, no dejes que la comida flote, no saltes al emplatado del producto terminado, no muestres dedos incorrectos ni herramientas deformadas.
+
+## Segmento 2
+
+Genera un clip de video de 10 segundos, formato vertical 9:16, con calidad de anuncio gastronómico de alta gama. El plato es "Tentáculos de Calamar Fresco a la Sal y Pimienta". La tarea de este segmento es sazonar los tentáculos de calamar escaldados, añadir líquido de huevo, rebozar con polvo y preparar para la fritura profunda.
+
+Por favor, consulta simultáneamente el video subido scene-02.mp4 y las 5 imágenes de referencia 01.jpg a 05.jpg: 01 se refiere al color rosa claro lechoso de los tentáculos de calamar en la olla de escaldado; 02 se refiere al estado de añadir condimentos y líquido de huevo a los tentáculos de calamar en un bol de vidrio; 03 se refiere a la sensación polvorienta después de añadir almidón; 04 se refiere a la acción de mezclar los tentáculos de calamar a mano; 05 se refiere al wok con aceite caliente y el entorno antes de que los ingredientes rebozados entren en el aceite. Los materiales de referencia solo se usan para acciones y estados de los ingredientes; no copies el texto original del video, las marcas de agua, los identificadores del autor, los bordes horizontales ni las identidades de los personajes.
+
+Mantén el mismo set de cocina que el Segmento 1, el mismo wok negro con patrón de panal, el mismo bol de vidrio transparente y la encimera de acero inoxidable. La forma de los tentáculos de calamar debe permanecer consistente: delgados, naturalmente rizados, con ventosas, mayormente segmentos largos, algunas bases ligeramente más gruesas, de color rosa claro lechoso después del escaldado; no pueden convertirse en anillos de calamar, cubos de carne, trozos de pollo, camarones o fideos normales. Después del rebozado, debe haber una capa fina, no completamente uniforme de polvo blanco, permitiendo ver el contorno de los tentáculos y las ondulaciones de las ventosas; no los reboces hasta convertirlos en una gran bola de masa.
+
+0-3 segundos: El vapor se disipa en la olla, los tentáculos de calamar escaldados se levantan del agua caliente, la superficie lleva humedad, cayendo en un bol de vidrio transparente. 3-6 segundos: Añade líquido de huevo, polvo fino y un poco de condimento rojo a los tentáculos de calamar, cámara cerca del borde del bol, formando ligeras nubes de polvo cuando cae el polvo, los tentáculos aún claramente distinguibles. 6-8 segundos: Las manos mezclan suavemente en el bol de vidrio, asegurando que el líquido de huevo y el polvo cubran uniformemente cada tentáculo de calamar, los tentáculos se entrelazan pero no se agrupan en una pasta. 8-10 segundos: Cambio al aceite caliente en el wok negro, la superficie del aceite se agita ligeramente, los tentáculos de calamar rebozados visibles cerca listos para entrar en la olla, terminando en el estado justo antes de la fritura profunda, conectando con el siguiente segmento.
+
+Requisitos cinematográficos: Fotografía de comida comercial limpia y brillante, poca profundidad de campo pero acciones claras, polvo, líquido de huevo, vapor y brillo de aceite realistas. Sin subtítulos, sin texto, sin logotipos, sin marcas de agua, sin marcas, sin locuciones, sin música, solo retener ligeros sonidos ambientales realistas de cocina. No dejes que los condimentos aparezcan de la nada; cada material debe añadirse naturalmente mediante acciones desde boles, cucharas o manos. No muestres prematuramente el producto terminado frito dorado, no muestres vajilla extra o ingredientes irrelevantes.
+
+## Segmento 3
+
+Genera un clip de video de 10 segundos, formato vertical 9:16, con calidad de anuncio gastronómico de alta gama. El plato es "Tentáculos de Calamar Fresco a la Sal y Pimienta". La tarea de este segmento es poner los tentáculos de calamar rebozados en el wok para la fritura profunda, mostrando la transformación del rebozado de polvo claro a dorado y crujiente.
+
+Por favor, consulta simultáneamente el video subido scene-03.mp4 y las 5 imágenes de referencia 01.jpg a 05.jpg: 01 se refiere al momento en que los tentáculos de calamar rebozados entran en el aceite; 02 se refiere a la posición del wok con aceite caliente, el colador y el remover; 03 se refiere al nivel de calor con burbujas de aceite cubriendo los tentáculos de calamar; 04 se refiere a las densas burbujas de aceite durante la doble fritura; 05 se refiere al estado de los tentáculos de calamar amarillos dorados siendo levantados del wok de aceite. Los materiales de referencia solo se usan para la secuencia de acciones, el estado de las burbujas y el punto de cocción de los tentáculos de calamar; no copies el texto original del video, las marcas de agua, los identificadores del autor ni la composición horizontal.
+
+Mantén el mismo wok negro con patrón de panal, el mismo colador metálico redondo y el mismo entorno de estufa de acero inoxidable. La forma de los tentáculos de calamar debe ser exactamente la misma que en los dos segmentos anteriores: delgados, naturalmente curvados, con ventosas, algunos rizándose en arcos, algunos con bases ligeramente más gruesas, formando una capa exterior fina y rugosa de polvo dorado después de freír; no pueden convertirse en anillos de calamar, patas gruesas de pulpo, filetes de pollo, papas fritas, palitos de camarón o bolas. El color frito está entre dorado claro y dorado intenso, bordes ligeramente arrugados y crujientes, pero no negros quemados.
+
+0-3 segundos: Los tentáculos de calamar rebozados se deslizan naturalmente desde el lado del colador o la mano hacia el aceite caliente, la superficie del aceite burbujea rápidamente, los tentáculos aún llevan el rebozado de polvo blanco claro, cámara cerca del borde del wok pero sin bloquear la acción. 3-6 segundos: Los tentáculos de calamar dan vueltas en las burbujas de aceite, palillos o colador remueven suavemente para separarlos, varios tentáculos se doblan y fijan gradualmente, el color cambia de blanco claro a dorado pálido. 6-8 segundos: Muestra la refritura o la fritura continua a alta temperatura, las burbujas de aceite se vuelven más densas, las superficies de los tentáculos de calamar se vuelven secas y rugosas, los bordes dorados claros. 8-10 segundos: El colador metálico levanta los tentáculos de calamar fritos del wok de aceite, las gotas de aceite caen naturalmente de vuelta a la olla, los tentáculos de calamar presentan una masa esponjosa, crujiente y naturalmente rizada, terminando en el estado de escurrido de aceite, conectando con el siguiente segmento para volver al wok a saltear aromáticos.
+
+Requisitos cinematográficos: Textura realista de burbujas de aceite, vapor, gotas de aceite y rebozado de polvo dorado, visuales apetecibles pero no sobresaturados, la cámara puede seguir ligeramente el levantamiento del colador. Sin subtítulos, sin texto, sin logotipos, sin marcas de agua, sin marcas, sin locuciones, sin música, solo retener ligeros sonidos ambientales realistas de cocina. No muestres llamas grandes exageradas envolviendo la superficie del wok, no dejes que los tentáculos de calamar se cocinen instantáneamente de la nada, no dejes que la comida flote, no cambies la longitud y el grosor de los tentáculos de calamar.
+
+## Segmento 4
+
+Genera un clip de video de 10 segundos, formato vertical 9:16, con calidad de anuncio gastronómico de alta gama. El plato es "Tentáculos de Calamar Fresco a la Sal y Pimienta". La tarea de este segmento es saltear aromáticos, devolver los tentáculos de calamar fritos al wok para mezclar uniformemente, espolvorear sal y pimienta, y presentar el producto terminado.
+
+Por favor, consulta simultáneamente el video subido scene-04.mp4 y las 5 imágenes de referencia 01.jpg a 05.jpg: 01 se refiere al aceite residual y la espátula en el wok negro; 02 se refiere al estado de sofreír ajo picado, gránulos de pimiento rojo y gránulos de pimiento verde hasta que estén fragantes; 03 se refiere a verter los tentáculos de calamar fritos de vuelta en el wok; 04 se refiere al fuerte aroma del wok y el salteado rápido; 05 se refiere a la acumulación, el color y la textura crujiente del producto terminado final dorado. Los materiales de referencia solo se usan para acciones, estados de los ingredientes y textura del producto terminado; no copies el texto original del video, las marcas de agua, los identificadores del autor ni la composición horizontal.
+
+Mantén la misma cocina, el mismo wok negro con patrón de panal, la misma espátula y el mismo lote de tentáculos de calamar fritos que en los tres primeros segmentos. Los tentáculos de calamar terminados deben ser delgados, naturalmente rizados, tentáculos de calamar fresco a la sal y pimienta con texturas de ventosas, superficie dorada y crujiente, mezclados con finos gránulos de pimiento rojo, gránulos de pimiento verde y ajo picado; no pueden convertirse en anillos de calamar, tentáculos de pulpo, trozos de carne, camarones o snacks de tiras ordenadas. La porción debe tener la plenitud de un plato de comida, apilada naturalmente, no demasiado dispersa.
+
+0-3 segundos: Deja una pequeña cantidad de aceite en el wok negro, añade ajo picado, gránulos de pimiento rojo y gránulos de pimiento verde, empuja suavemente con la espátula, los aromáticos liberan fragancia, colores distintivamente rojos y verdes. 3-6 segundos: Los tentáculos de calamar fritos dorados se vierten naturalmente desde un colador metálico o un cuenco pequeño en el wok, la espátula mezcla rápidamente, haciendo que los aromáticos se peguen a la superficie de los tentáculos de calamar, la fuente de la comida debe ser clara, no puede aparecer de la nada. 6-8 segundos: Espolvorea sal y pimienta finas, la espátula mezcla dos o tres veces, los tentáculos de calamar permanecen esponjosos y crujientes, los gránulos rojos y verdes distribuidos uniformemente, se permite un ligero aroma del wok pero no llamas excesivas. 8-10 segundos: Cambio a un primer plano del producto terminado, tentáculos de calamar fresco a la sal y pimienta dorados amontonados en un plato limpio de color claro, texturas de ventosas, bordes crujientes, gránulos de pimiento rojo y verde y partículas de ajo claramente visibles, terminando con una toma heroica estable adecuada para candidatos posteriores de portada.
+
+Requisitos cinematográficos: Luz cálida de grado publicitario, reflejos limpios, apariencia aceitosa realista pero no grasosa, poca profundidad de campo resaltando el producto terminado, acciones continuas. Sin subtítulos, sin texto, sin logotipos, sin marcas de agua, sin marcas, sin locuciones, sin música, solo retener ligeros sonidos ambientales realistas de cocina. No muestres guarniciones extra, no muestres arroz, copas de vino o caras de personas, no hagas que el color del producto terminado sea demasiado rojo o negro quemado, no cambies la forma establecida de los tentáculos de calamar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100189918064701440/img/nB0Pp6mKiLL9mGBx.jpg" width="600" alt="Prompt de Video para Anuncios Gastronómicos de Alta Gama en Gemini Omni">
+
+**[🎬 Ver video →](https://x.com/7998l201/status/2100190123824714108)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Fuente:** [Link](https://x.com/7998l201/status/2100190123824714108) | **Publicado:** Sep 16, 2026
+
+---
+### Animación de Póster de Viaje Otoñal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Creación de una animación de póster de viaje utilizando Nano Banana 2 como referencia y Gemini Omni Flash para la generación.
+
+#### 📝 Prompt
+
+```
+Un póster de video de viaje. Creado en cinco minutos. Bienvenido a… el ambiente otoñal de mi país
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100175485422485504/img/HBDl9P1MDTwJMjuP.jpg" width="600" alt="Animación de Póster de Viaje Otoñal">
+
+**[🎬 Ver video →](https://x.com/Colorinmyspirit/status/2100175537654182360)**
+
+**Autor:** [Larisa Shutova / Larysa Shutava](https://x.com/Colorinmyspirit) | **Fuente:** [Link](https://x.com/Colorinmyspirit/status/2100175537654182360) | **Publicado:** Sep 16, 2026
+
+---
 ### Prompt de Transformación de Vestido para Mujer
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3082,82 +3212,6 @@ ESTILO: Fotografía de alimentos ultrarrealista, textura de Ketchup brillante, f
 **Autor:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Fuente:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Publicado:** Aug 17, 2026
 
 ---
-### Amanecer reflejado en el Salar de Uyuni
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video minimalista para un amanecer reflejado sobre el Salar de Uyuni inundado, con un amplio espacio negativo.
-
-#### 📝 Prompt
-
-```
-Bucle continuo, toma estática de horizonte amplio sobre el Salar de Uyuni inundado. Una fina capa de agua en calma refleja a la perfección las nubes de un amanecer en tonos rosa pastel y lavanda que se desplazan imperceptiblemente por el cielo. Amplio espacio negativo, minimalismo etéreo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Amanecer reflejado en el Salar de Uyuni">
-
-**[🎬 Ver video →](https://x.com/genevieve__h/status/2089068330225221876)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Fuente:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Publicado:** Aug 16, 2026
-
----
-### Bucle de estanque de peces koi al estilo Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un hermoso prompt de video inspirado en Studio Ghibli que muestra peces koi nadando en un estanque de acuarela con luz solar filtrada.
-
-#### 📝 Prompt
-
-```
-Bucle continuo, vista cenital estática de un estanque de jardín cristalino al estilo de anime en acuarela de Studio Ghibli. Peces koi coloridos nadando lentamente bajo nenúfares flotantes. Suaves ondas en el agua, luz solar filtrada a través de hojas de arce, colores pastel suaves, movimiento ambiental tranquilo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Bucle de estanque de peces koi al estilo Ghibli">
-
-**[🎬 Ver video →](https://x.com/genevieve__h/status/2089068327691862357)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Fuente:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Publicado:** Aug 16, 2026
-
----
-### Bucle de cinta de cristal en gravedad cero
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de vídeo abstracto e hipnótico de una cinta de cristal refractivo flotando en gravedad cero sobre un fondo oscuro.
-
-#### 📝 Prompt
-
-```
-Bucle continuo, toma de cámara fija de una cinta de cristal transparente y refractiva ondulando lentamente en gravedad cero sobre un fondo de obsidiana. Sutil aberración cromática en los bordes, cáusticas suaves, movimiento lento e hipnótico, gran espacio negativo para la interfaz de usuario.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Bucle de cinta de cristal en gravedad cero">
-
-**[🎬 Ver video →](https://x.com/genevieve__h/status/2089068325493944435)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Fuente:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Publicado:** Aug 16, 2026
-
----
-### Bucle de silueta de bosque con doble exposición
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de video surrealista de doble exposición que muestra un bosque de pinos neblinoso dentro de la silueta oscura de una persona.
-
-#### 📝 Prompt
-
-```
-Bucle continuo. Silueta de perfil estática y fija de una persona sobre un fondo blanco hueso suave y neblinoso. Efecto de doble exposición: dentro de la silueta oscura, se observa un denso bosque de pinos del Noroeste del Pacífico, con capas de niebla blanca de montaña desplazándose lentamente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Bucle de silueta de bosque con doble exposición">
-
-**[🎬 Ver video →](https://x.com/genevieve__h/status/2089068323132649758)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Fuente:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Publicado:** Aug 16, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -3210,6 +3264,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-17T03:31:57.567Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-17T09:13:16.009Z</sub>
 
 </div>

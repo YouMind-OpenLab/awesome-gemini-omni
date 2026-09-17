@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **271** |
+| 📝 Total de prompts | **275** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-09-17** |
 
@@ -56,6 +56,136 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Transformação de Imagem em Vídeo com Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Instrução específica de prompt para usar o Gemini Omni Flash (via Adobe Firefly) para transformar uma imagem enviada em um vídeo com mudanças inesperadas.
+
+#### 📝 Prompt
+
+```
+Use a imagem como primeiro quadro e faça-a transformar-se em algo inesperado.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100233684162924544/img/26f64H7JBlLZF2vN.jpg" width="600" alt="Transformação de Imagem em Vídeo com Gemini Omni">
+
+**[🎬 Assistir vídeo →](https://x.com/zeng_wt/status/2100233714345160937)**
+
+**Autor:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Fonte:** [Link](https://x.com/zeng_wt/status/2100233714345160937) | **Publicado:** Sep 16, 2026
+
+---
+### Cena de Vídeo do Rastro de Balsa no Noroeste do Pacífico
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Uma cena descritiva para geração de vídeo, apresentando o rastro da balsa, névoa e a iluminação da Baía de Elliott, criada com Gemini Omni 1.1 Flash.
+
+#### 📝 Prompt
+
+```
+Rastro da balsa. Névoa suave. A Baía de Elliott antes do amanhecer.
+
+Gemini Omni 1.1 Flash na Buble — o dourado do Noroeste do Pacífico sobre águas azul-acinzentadas, uma luz tranquila do cais que já parece uma abertura de marca.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2100219289315811328/pu/img/v4VJgxHzcbvcsfJ3.jpg" width="600" alt="Cena de Vídeo do Rastro de Balsa no Noroeste do Pacífico">
+
+**[🎬 Assistir vídeo →](https://x.com/itsBubleAI/status/2100219309624565969)**
+
+**Autor:** [Buble AI](https://x.com/itsBubleAI) | **Fonte:** [Link](https://x.com/itsBubleAI/status/2100219309624565969) | **Publicado:** Sep 16, 2026
+
+---
+### Prompt de Vídeo Publicitário Gastronômico Premium para Gemini Omni
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Uma série abrangente de prompts para criar um vídeo publicitário gastronômico premium em 4 partes, destacando tentáculos de lula com sal e pimenta. Detalha etapas específicas de preparo (limpeza, corte, branqueamento, empanamento, fritura) com requisitos rigorosos de consistência visual e instruções de uso de imagens/vídeos de referência.
+
+#### 📝 Prompt
+
+```
+Gere um comercial gastronômico premium usando o Omni 1.1 Flash.
+
+# Tentáculos de Lula Fresca com Sal e Pimenta | Quatro Prompts Completos de Geração em Chinês
+
+Requisitos Gerais: Todos os quatro segmentos devem gerar vídeos de 10 segundos, formato vertical 9:16, com qualidade de publicidade gastronômica premium. Mantenha o mesmo ambiente de cozinha, a mesma bancada de aço inoxidável, a mesma wok preta com padrão de favo de mel e o mesmo lote de tentáculos de lula fresca. Os tentáculos de lula devem ser reais, frescos, alongados, naturalmente curvados, com ventosas visíveis e espessura não perfeitamente uniforme; após a fritura, devem estar dourados, crocantes e naturalmente enrolados. Não podem se transformar em anéis de lula, grandes tentáculos de polvo, camarões, pedaços de frango, tiras de carne, batatas fritas ou macarrão comum. Sem legendas, sem texto, sem logotipos, sem marcas d'água, sem marcas, sem narração e sem música durante todo o vídeo.
+
+## Segmento 1
+
+Gere um clipe de vídeo de 10 segundos, formato vertical 9:16, com qualidade de publicidade gastronômica premium. O prato é "Tentáculos de Lula Fresca com Sal e Pimenta". A tarefa deste segmento é processar, cortar e branquear brevemente os tentáculos de lula fresca para preparar o tempero e o empanamento subsequentes.
+
+Consulte simultaneamente o vídeo enviado scene-01.mp4 e as 5 imagens de referência 01.jpg a 05.jpg: 01 refere-se ao estado de lavagem e imersão dos tentáculos de lula fresca na água; 02 refere-se à cor rosa claro esbranquiçada e curvatura natural após escorrer os tentáculos; 03 refere-se à ação de cortar os tentáculos em uma tábua de madeira redonda; 04 refere-se ao tamanho dos cubos de pimentão vermelho e verde; 05 refere-se à conexão entre picar alho e branquear na panela. Os materiais de referência são usados apenas para entender as formas dos ingredientes e as ações; não copie o texto original do vídeo, marcas d'água, identificadores do autor, identidades de personagens ou composição horizontal.
+
+Mantenha o mesmo ambiente realista de cozinha no quadro: bancada de aço inoxidável, tábua de madeira redonda grossa, wok preta com padrão de favo de mel, tigela de tempero de vidro, iluminação lateral branca quente natural. Os tentáculos de lula fresca devem ser alongados, macios, com ventosas e naturalmente curvados, com fios de espessura desigual e algumas conexões nas raízes; eles não podem se tornar anéis de lula, grandes tentáculos de polvo, camarões, tiras de carne ou macarrão branco organizado. Os tentáculos de lula cortados devem permanecer como longos segmentos naturais de cerca de 6-10 cm, com bordas ligeiramente curvadas; não os corte em pequenos cubos.
+
+0-3 segundos: Close-up, água clara balançando suavemente em uma tigela de vidro, mãos levantando os tentáculos de lula fresca, que estão úmidos e brilhantes, com ventosas claramente visíveis. 3-6 segundos: Mude para a tábua de madeira redonda, uma faca de chef corta suavemente da base dos tentáculos em longos segmentos naturais, o movimento é limpo e preciso, mantendo os tentáculos alongados e curvados. 6-8 segundos: Pimentões vermelhos, verdes e alho são picados em grânulos finos, cores vivas mas não super saturadas. 8-10 segundos: A água na wok preta está fervendo levemente, os tentáculos de lula são branqueados rapidamente, o vapor sobe e os tentáculos mudam gradualmente de rosa claro transparente para rosa claro leitoso, terminando no estado em que os tentáculos acabaram de mudar de cor, conectando ao próximo segmento para remoção e tempero.
+
+Requisitos de cinematografia: Movimentos de mão realistas, proporções precisas dos alimentos, planos principalmente médio-close-ups e close-ups superiores, leve zoom-in, iluminação limpa de nível publicitário, preservando detalhes de vapor, gotas de água e superfícies dos ingredientes. Sem legendas, sem texto, sem logotipos, sem marcas d'água, sem marcas, sem narração, sem música, retendo apenas leves sons ambientes realistas de cozinha. Não mostre ingredientes extras, não deixe a comida flutuar, não pule para o empratamento do produto final, não mostre dedos incorretos ou ferramentas deformadas.
+
+## Segmento 2
+
+Gere um clipe de vídeo de 10 segundos, formato vertical 9:16, com qualidade de publicidade gastronômica premium. O prato é "Tentáculos de Lula Fresca com Sal e Pimenta". A tarefa deste segmento é temperar os tentáculos de lula branqueados, adicionar líquido de ovo, empanar com pó e preparar para a fritura profunda.
+
+Consulte simultaneamente o vídeo enviado scene-02.mp4 e as 5 imagens de referência 01.jpg a 05.jpg: 01 refere-se à cor rosa claro leitoso dos tentáculos de lula na panela de branqueamento; 02 refere-se ao estado de adicionar temperos e líquido de ovo aos tentáculos de lula em uma tigela de vidro; 03 refere-se à sensação empoeirada após adicionar amido; 04 refere-se à ação de misturar os tentáculos de lula com a mão; 05 refere-se à wok com óleo quente e o ambiente antes que os ingredientes empanados entrem no óleo. Os materiais de referência são usados apenas para ações e estados dos ingredientes; não copie o texto original do vídeo, marcas d'água, identificadores do autor, bordas horizontais ou identidades de personagens.
+
+Mantenha o mesmo cenário de cozinha do Segmento 1, a mesma wok preta com padrão de favo de mel, a mesma tigela de vidro transparente e a bancada de aço inoxidável. A forma dos tentáculos de lula deve permanecer consistente: alongados, naturalmente enrolados, com ventosas, principalmente longos segmentos, algumas raízes ligeiramente mais grossas, coloridos rosa claro leitoso após o branqueamento; eles não podem se tornar anéis de lula, carne em cubos, pedaços de frango, camarões ou macarrão comum. Após o empanamento, deve haver uma camada fina, não completamente uniforme, de pó branco, permitindo ver o contorno dos tentáculos e ondulações das ventosas; não os transforme em uma grande bola de massa.
+
+0-3 segundos: O vapor dissipa na panela, os tentáculos de lula branqueados são retirados da água quente, superfície carregando umidade, caindo em uma tigela de vidro transparente. 3-6 segundos: Adicione líquido de ovo, pó fino e um pouco de tempero vermelho aos tentáculos de lula, câmera próxima à borda da tigela, formando nuvens de poeira leves quando o pó cai, tentáculos ainda claramente distinguíveis. 6-8 segundos: As mãos misturam suavemente na tigela de vidro, garantindo que o líquido de ovo e o pó cubram uniformemente cada tentáculo de lula, os tentáculos se entrelaçam mas não formam uma pasta. 8-10 segundos: Mude para óleo quente na wok preta, superfície do óleo ligeiramente agitada, tentáculos de lula empanados visíveis por perto prontos para entrar na panela, terminando no estado imediatamente antes da fritura profunda, conectando ao próximo segmento.
+
+Requisitos de cinematografia: Fotografia gastronômica comercial limpa e brilhante, profundidade de campo rasa mas ações claras, pó, líquido de ovo, vapor e brilho de óleo realistas. Sem legendas, sem texto, sem logotipos, sem marcas d'água, sem marcas, sem narração, sem música, retendo apenas leves sons ambientes realistas de cozinha. Não faça os temperos aparecerem do nada; cada material deve ser adicionado naturalmente através de ações de tigelas, colheres ou mãos. Não mostre prematuramente o produto final frito dourado, não mostre louças extras ou ingredientes irrelevantes.
+
+## Segmento 3
+
+Gere um clipe de vídeo de 10 segundos, formato vertical 9:16, com qualidade de publicidade gastronômica premium. O prato é "Tentáculos de Lula Fresca com Sal e Pimenta". A tarefa deste segmento é colocar os tentáculos de lula empanados na wok para fritura profunda, mostrando a transformação da cobertura de pó clara para dourado e crocante.
+
+Consulte simultaneamente o vídeo enviado scene-03.mp4 e as 5 imagens de referência 01.jpg a 05.jpg: 01 refere-se ao momento em que os tentáculos de lula empanados entram no óleo; 02 refere-se à posição da wok com óleo quente, escumadeira e mexer; 03 refere-se ao nível de calor com bolhas de óleo cobrindo os tentáculos de lula; 04 refere-se às bolhas densas de óleo durante a dupla fritura; 05 refere-se ao estado dos tentáculos de lula amarelo-dourados sendo retirados da wok de óleo. Os materiais de referência são usados apenas para sequência de ações, estado das bolhas e ponto de cozimento dos tentáculos de lula; não copie o texto original do vídeo, marcas d'água, identificadores do autor ou composição horizontal.
+
+Mantenha a mesma wok preta com padrão de favo de mel, a mesma escumadeira de metal redonda e o mesmo ambiente de fogão de aço inoxidável. A forma dos tentáculos de lula deve ser exatamente a mesma dos dois segmentos anteriores: alongados, naturalmente curvados, com ventosas, alguns enrolando em arcos, alguns com raízes ligeiramente mais grossas, formando uma camada externa fina e áspera de pó dourado após a fritura; eles não podem se tornar anéis de lula, pernas grossas de polvo, filés de frango, batatas fritas, palitos de camarão ou bolas. A cor da fritura fica entre dourado claro e dourado profundo, bordas ligeiramente enrugadas e crocantes, mas não queimadas pretas.
+
+0-3 segundos: Os tentáculos de lula empanados deslizam naturalmente da escumadeira ou lado da mão para o óleo quente, a superfície do óleo borbulha rapidamente, os tentáculos ainda carregam uma leve cobertura de pó branco, câmera próxima à borda da wok mas sem bloquear a ação. 3-6 segundos: Os tentáculos de lula rolam nas bolhas de óleo, hashi ou escumadeira mexem suavemente para separá-los, vários tentáculos gradualmente dobram e fixam, cor mudando de branco claro para dourado pálido. 6-8 segundos: Mostre a refritura ou continuação da fritura em alta temperatura, as bolhas de óleo tornam-se mais densas, as superfícies dos tentáculos de lula tornam-se secas e ásperas, bordas douradas claras. 8-10 segundos: A escumadeira de metal levanta os tentáculos de lula fritos da wok de óleo, gotas de óleo caem naturalmente de volta na panela, os tentáculos de lula apresentam uma massa fofa, crocante e naturalmente enrolada, terminando no estado de escorrer o óleo, conectando ao próximo segmento para voltar à wok para refogar aromáticos.
+
+Requisitos de cinematografia: Textura realista de bolhas de óleo, vapor, gotas de óleo e cobertura de pó dourado, visuais apetitosos mas não super saturados, a câmera pode seguir ligeiramente o levantamento da escumadeira. Sem legendas, sem texto, sem logotipos, sem marcas d'água, sem marcas, sem narração, sem música, retendo apenas leves sons ambientes realistas de cozinha. Não mostre chamas grandes exageradas engolindo a superfície da wok, não deixe os tentáculos de lula cozinhar instantaneamente do nada, não deixe a comida flutuar, não mude o comprimento e a espessura dos tentáculos de lula.
+
+## Segmento 4
+
+Gere um clipe de vídeo de 10 segundos, formato vertical 9:16, com qualidade de publicidade gastronômica premium. O prato é "Tentáculos de Lula Fresca com Sal e Pimenta". A tarefa deste segmento é refogar aromáticos, devolver os tentáculos de lula fritos à wok para misturar uniformemente, polvilhar sal e pimenta e apresentar o produto final.
+
+Consulte simultaneamente o vídeo enviado scene-04.mp4 e as 5 imagens de referência 01.jpg a 05.jpg: 01 refere-se ao óleo residual e espátula na wok preta; 02 refere-se ao estado de refogar alho picado, grânulos de pimentão vermelho e grânulos de pimentão verde até ficarem perfumados; 03 refere-se a despejar os tentáculos de lula fritos de volta na wok; 04 refere-se ao forte aroma de wok (wok hei) e refogado rápido; 05 refere-se à empilhamento, cor e textura crocante do produto final dourado. Os materiais de referência são usados apenas para ações, estados dos ingredientes e textura do produto final; não copie o texto original do vídeo, marcas d'água, identificadores do autor ou composição horizontal.
+
+Mantenha a mesma cozinha, a mesma wok preta com padrão de favo de mel, a mesma espátula e o mesmo lote de tentáculos de lula fritos dos três primeiros segmentos. Os tentáculos de lula finais devem ser alongados, naturalmente enrolados, tentáculos de lula fresca com sal e pimenta com texturas de ventosas, superfície dourada e crocante, misturados com finos grânulos de pimentão vermelho, grânulos de pimentão verde e alho picado; eles não podem se tornar anéis de lula, tentáculos de polvo, pedaços de carne, camarões ou petiscos organizados em tiras. A porção deve ter a plenitude de um prato de pratos, empilhada naturalmente, não muito esparsa.
+
+0-3 segundos: Deixe uma pequena quantidade de óleo na wok preta, adicione alho picado, grânulos de pimentão vermelho e grânulos de pimentão verde, empurre levemente com a espátula, os aromáticos liberam perfume, cores distintivamente vermelhas e verdes. 3-6 segundos: Os tentáculos de lula fritos dourados são naturalmente despejados de uma escumadeira de metal ou bacia pequena na wok, a espátula mistura rapidamente, fazendo os aromáticos grudarem na superfície dos tentáculos de lula, a fonte da comida deve ser clara, não pode aparecer do nada. 6-8 segundos: Polvilhe sal fino e pimenta, a espátula mistura duas ou três vezes, os tentáculos de lula permanecem fofos e crocantes, grânulos vermelhos e verdes distribuídos uniformemente, leve aroma de wok permitido mas não chamas excessivas. 8-10 segundos: Mude para close-up do produto final, tentáculos de lula fresca com sal e pimenta dourados empilhados em um prato claro limpo, texturas de ventosas, bordas crocantes, grânulos de pimentão vermelho e verde e partículas de alho claramente visíveis, terminando com uma tomada heroica estável adequada para candidatos subsequentes à capa.
+
+Requisitos de cinematografia: Luz quente de nível publicitário, destaques limpos, aparência oleosa realista mas não gordurosa, profundidade de campo rasa destacando o produto final, ações contínuas. Sem legendas, sem texto, sem logotipos, sem marcas d'água, sem marcas, sem narração, sem música, retendo apenas leves sons ambientes realistas de cozinha. Não mostre acompanhamentos extras, não mostre arroz, taças de vinho ou rostos de pessoas, não faça a cor do produto final muito vermelha ou queimada preta, não mude a forma estabelecida dos tentáculos de lula.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100189918064701440/img/nB0Pp6mKiLL9mGBx.jpg" width="600" alt="Prompt de Vídeo Publicitário Gastronômico Premium para Gemini Omni">
+
+**[🎬 Assistir vídeo →](https://x.com/7998l201/status/2100190123824714108)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2100190123824714108) | **Publicado:** Sep 16, 2026
+
+---
+### Animação de Pôster de Viagem para o Outono
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Criação de uma animação de pôster de viagem usando Nano Banana 2 como referência e Gemini Omni Flash para a geração.
+
+#### 📝 Prompt
+
+```
+Um pôster de vídeo de viagem. Montado em cinco minutos. Bem-vindos ao... clima outonal do meu país
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100175485422485504/img/HBDl9P1MDTwJMjuP.jpg" width="600" alt="Animação de Pôster de Viagem para o Outono">
+
+**[🎬 Assistir vídeo →](https://x.com/Colorinmyspirit/status/2100175537654182360)**
+
+**Autor:** [Larisa Shutova / Larysa Shutava](https://x.com/Colorinmyspirit) | **Fonte:** [Link](https://x.com/Colorinmyspirit/status/2100175537654182360) | **Publicado:** Sep 16, 2026
+
+---
 ### Prompt de Transformação para Vestido Feminino
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3110,82 +3240,6 @@ ESTILO: Fotografia de alimentos ultrarrealista, textura de ketchup brilhante, f�
 **Autor:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Fonte:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Publicado:** Aug 17, 2026
 
 ---
-### Nascer do sol espelhado nas salinas bolivianas
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo minimalista para um nascer do sol espelhado sobre as salinas inundadas da Bolívia com amplo espaço negativo.
-
-#### 📝 Prompt
-
-```
-Loop contínuo, plano estático de horizonte amplo através das salinas inundadas da Bolívia. Uma fina camada de água parada reflete perfeitamente as nuvens do nascer do sol em tons de rosa pastel e lavanda, flutuando imperceptivelmente pelo céu. Amplo espaço negativo, minimalismo etéreo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Nascer do sol espelhado nas salinas bolivianas">
-
-**[🎬 Assistir vídeo →](https://x.com/genevieve__h/status/2089068330225221876)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Publicado:** Aug 16, 2026
-
----
-### Loop de Lago de Carpas Estilo Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um lindo prompt de vídeo inspirado no Studio Ghibli, apresentando carpas nadando em um lago em aquarela com luz solar filtrada.
-
-#### 📝 Prompt
-
-```
-Loop contínuo, visão estática de cima para baixo de um lago de jardim cristalino no estilo anime em aquarela do Studio Ghibli. Carpas coloridas circulando lentamente sob vitórias-régias flutuantes. Ondulações suaves na água, luz solar filtrada através de folhas de bordo, cores pastéis suaves, movimento ambiente calmo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Loop de Lago de Carpas Estilo Ghibli">
-
-**[🎬 Assistir vídeo →](https://x.com/genevieve__h/status/2089068327691862357)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Publicado:** Aug 16, 2026
-
----
-### Fita de Vidro em Gravidade Zero
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo abstrato e hipnótico de uma fita de vidro refrativo flutuando em gravidade zero contra um fundo escuro.
-
-#### 📝 Prompt
-
-```
-Loop contínuo, visão de câmera fixa de uma fita de vidro transparente e refrativa ondulando lentamente em gravidade zero sobre um fundo obsidiana. Aberração cromática sutil nas bordas, cáusticos suaves, movimento lento e hipnótico, alto espaço negativo para interface do usuário.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Fita de Vidro em Gravidade Zero">
-
-**[🎬 Assistir vídeo →](https://x.com/genevieve__h/status/2089068325493944435)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Publicado:** Aug 16, 2026
-
----
-### Loop de silhueta com dupla exposição em floresta
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Um prompt de vídeo surreal de dupla exposição mostrando uma floresta de pinheiros enevoada dentro da silhueta escura de uma pessoa.
-
-#### 📝 Prompt
-
-```
-Loop contínuo. Silhueta de perfil estática e fixa de uma pessoa contra um fundo branco-osso suave e enevoado. Efeito de dupla exposição: dentro da silhueta escura, uma densa floresta de pinheiros do Noroeste Pacífico é visível, com camadas de neblina branca das montanhas passando lentamente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Loop de silhueta com dupla exposição em floresta">
-
-**[🎬 Assistir vídeo →](https://x.com/genevieve__h/status/2089068323132649758)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Publicado:** Aug 16, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -3238,6 +3292,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-17T03:32:04.143Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-17T09:13:23.188Z</sub>
 
 </div>

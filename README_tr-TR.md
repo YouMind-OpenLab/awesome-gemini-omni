@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **271** |
+| 📝 Toplam İstem | **275** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-17** |
 
@@ -56,6 +56,136 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Gemini Omni Görselden Videoya Dönüşüm
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Yüklenen bir görseli beklenmedik değişikliklerle videoya dönüştürmek için Gemini Omni Flash'ı (Adobe Firefly aracılığıyla) kullanmaya yönelik özel istem talimatı.
+
+#### 📝 İstem
+
+```
+Görseli ilk kare olarak kullanın ve onu beklenmedik bir şeye dönüştürün.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100233684162924544/img/26f64H7JBlLZF2vN.jpg" width="600" alt="Gemini Omni Görselden Videoya Dönüşüm">
+
+**[🎬 Videoyu izle →](https://x.com/zeng_wt/status/2100233714345160937)**
+
+**Yazar:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Kaynak:** [Link](https://x.com/zeng_wt/status/2100233714345160937) | **Yayınlandı:** Sep 16, 2026
+
+---
+### Pasifik Kuzeybatı Feribot İzli Video Sahnesi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Gemini Omni 1.1 Flash kullanılarak oluşturulan, feribot izi, sis ve Elliott Bay ışıklandırmasını içeren video üretimi için betimleyici bir sahne.
+
+#### 📝 İstem
+
+```
+Feribot izi. Yumuşak sis. Gün uyanmadan önce Elliott Bay.
+
+Buble üzerinde Gemini Omni 1.1 Flash — Gri-mavi suyun üzerindeki Pasifik Kuzeybatı altını, sessiz iskele ışığı zaten bir marka açılışı gibi hissettiriyor.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2100219289315811328/pu/img/v4VJgxHzcbvcsfJ3.jpg" width="600" alt="Pasifik Kuzeybatı Feribot İzli Video Sahnesi">
+
+**[🎬 Videoyu izle →](https://x.com/itsBubleAI/status/2100219309624565969)**
+
+**Yazar:** [Buble AI](https://x.com/itsBubleAI) | **Kaynak:** [Link](https://x.com/itsBubleAI/status/2100219309624565969) | **Yayınlandı:** Sep 16, 2026
+
+---
+### Gemini Omni İçin Lüks Gıda Reklamı Video Promptu
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Tuzlu ve biberli kalamar tentaküllerini içeren, dört bölümlük lüks bir gıda reklamı videosu oluşturmak için kapsamlı bir prompt serisi. Temizleme, kesme, haşlama, kaplama ve kızartma gibi spesifik pişirme adımlarını, katı görsel tutarlılık gereksinimlerini ve referans görüntü/video kullanım talimatlarını detaylandırır.
+
+#### 📝 İstem
+
+```
+Omni 1.1 Flash kullanarak yüksek kaliteli bir gıda reklamı videosu oluşturun.
+
+# Tuzlu Biberli Taze Kalamar Tentakülleri | Dört Tamamlanmış Çin Üretim Promptu
+
+Genel Gereksinimler: Dört segmentin tamamı, 10 saniye uzunluğunda, 9:16 dikey formatta, yüksek kaliteli gıda reklamı standartlarında videolar üretmelidir. Aynı mutfak ortamı, aynı paslanmaz çelik tezgah, aynı siyah bal peteği desenli wok tavası ve aynı parti taze kalamar tentakülü korunmalıdır. Kalamar tentakülleri gerçek, ince, doğal kıvrımlı, emici başlı (suckers) ve kalınlıkları tamamen eşit olmayan taze kalamar tentakülleri olmalıdır; kızartıldıktan sonra altın sarısı-kahverengi, çıtır ve doğal olarak kıvrılmış görünmelidirler. Kalamar halkalarına, büyük ahtapot kollarına, karideslere, tavuk parçalarına, et şeritlerine, patates kızartmasına veya normal makarnaya dönüşmemelidir. Videonun tamamında altyazı, metin, logo, filigran, marka, seslendirme veya müzik bulunmamalıdır.
+
+## Segment 1
+
+10 saniyelik, 9:16 dikey, yüksek kaliteli gıda reklamı standartlarında bir video klip oluşturun. Yemek "Tuzlu Biberli Taze Kalamar Tentakülleri"dir. Bu segmentteki görev, taze kalamar tentaküllerinin işlenmesi, kesilmesi ve ardından baharatlandırılıp kaplanması için kısa süreliğine haşlanmasıdır.
+
+Lütfen yüklenen scene-01.mp4 videosuna ve 01.jpg ile 05.jpg arasındaki 5 referans görüntüye aynı anda bakın: 01, taze kalamar tentaküllerinin suda yıkanma ve bekletilme durumunu; 02, süzüldükten sonra tentaküllerin soluk pembe-beyaz rengini ve doğal kıvrımını; 03, yuvarlak ahşap kesme tahtasında tentaküllerin kesilme eylemini; 04, doğranmış kırmızı ve yeşil biberlerin boyutunu; 05 ise ezilmiş sarımsak doğrama ile tencerede haşlama arasındaki bağlantıyı gösterir. Referans materyalleri yalnızca malzeme formlarını ve eylemleri anlamak için kullanılır; orijinal videodaki metinleri, filigranları, yazar kimliklerini, karakter kimliklerini veya yatay kompozisyonu kopyalamayın.
+
+Çerçevedeki aynı gerçekçi mutfak ortamını koruyun: Paslanmaz çelik tezgah, kalın yuvarlak ahşap kesme tahtası, siyah bal peteği desenli wok tavası, cam baharat kasesi, doğal sıcak beyaz yan aydınlatma. Taze kalamar tentakülleri ince, yumuşak, emici başlı ve doğal kıvrımlı olmalı, kalınlıkları düzensiz olmalı ve bazı kök bağlantıları bulunmalıdır; kalamar halkaları, büyük ahtapot kolları, karides, et şeritleri veya düzenli beyaz makarna haline gelmemelidir. Kesilen kalamar tentakülleri, kenarları hafif kıvrık olacak şekilde yaklaşık 6-10 cm'lik doğal uzun parçalar halinde kalmalıdır; küçük küpler halinde doğramayın.
+
+0-3 saniye: Yakın çekim, cam kasada hafifçe sallanan duru su, ellerin taze kalamar tentaküllerini kaldırması; tentaküller nemli ve parlak, emici başlar net bir şekilde görünüyor. 3-6 saniye: Yuvarlak ahşap kesme tahtasına geçiş, aşçı bıçağı tentakül tabanından doğal uzun parçalara doğru pürüzsüzce kesiyor, hareket temiz ve net, tentaküller ince ve kıvrık kalıyor. 6-8 saniye: Kırmızı biberler, yeşil biberler ve sarımsak ince granüller halinde doğranıyor, renkler canlı ancak aşırı doygun değil. 8-10 saniye: Siyah wok tavasındaki su kaynıyor, kalamar tentakülleri kısa süreliğine haşlanıyor, buhar yükseliyor ve tentaküller şeffaf açık pembeyden süt beyazı açık pembeye dönüyor; tentaküllerin renk değiştirdiği noktada biterek, çıkarma ve baharatlandırma için sonraki segmente bağlanıyor.
+
+Sinematografi gereksinimleri: Gerçek el hareketleri, doğru yiyecek oranları, çekimler çoğunlukla orta-yakın plan ve yukarıdan yakın plan, hafif itme (push-in), reklam kalitesinde temiz aydınlatma, buhar, su damlacıkları ve malzeme yüzeylerinin detaylarının korunması. Altyazı yok, metin yok, logo yok, filigran yok, marka yok, seslendirme yok, müzik yok, sadece hafif gerçekçi mutfak ambiyans sesleri bırakılacak. Ekstra malzeme göstermeyin, yiyeceklerin havada asılı kalmasına izin vermeyin, bitmiş ürünü servis etmeye atlamayın, yanlış parmaklar veya deforme olmuş aletler göstermeyin.
+
+## Segment 2
+
+10 saniyelik, 9:16 dikey, yüksek kaliteli gıda reklamı standartlarında bir video klip oluşturun. Yemek "Tuzlu Biberli Taze Kalamar Tentakülleri"dir. Bu segmentteki görev, haşlanmış kalamar tentaküllerini baharatlandırmak, yumurta sıvısı eklemek, toz kaplamak ve derin yağda kızartmaya hazırlamaktır.
+
+Lütfen yüklenen scene-02.mp4 videosuna ve 01.jpg ile 05.jpg arasındaki 5 referans görüntüye aynı anda bakın: 01, haşlama tenceresindeki kalamar tentaküllerinin süt beyazı açık pembe rengini; 02, cam kasadaki kalamar tentaküllerine baharat ve yumurta sıvısı eklenme durumunu; 03, nişasta eklendikten sonraki tozlu hissi; 04, kalamar tentaküllerinin elle karıştırılma eylemini; 05 ise sıcak yağlı wok tavasını ve tozlu malzemelerin yağa girmeden önceki ortamı gösterir. Referans materyalleri yalnızca eylemler ve malzeme durumları için kullanılır; orijinal videodaki metinleri, filigranları, yazar kimliklerini, yatay kenarlıkları veya karakter kimliklerini kopyalamayın.
+
+Segment 1 ile aynı mutfak setini, aynı siyah bal peteği desenli wok tavasını, aynı şeffaf cam kaseyi ve paslanmaz çelik tezgahı koruyun. Kalamar tentaküllerinin formu tutarlı kalmalıdır: İnce, doğal kıvrımlı, emici başlı, çoğunlukla uzun parçalar, bazı kökler biraz daha kalın, haşlandıktan sonra süt beyazı açık pembe renkte; kalamar halkalarına, küp ete, tavuk parçalarına, karidese veya normal makarnaya dönüşmemelidir. Kaplama sonrası, ince ve tamamen eşit olmayan beyaz toz tabakası olmalı, tentaküllerin konturu ve emici baş dalgalanmaları görünebilmelidir; onları devasa bir hamur topuna dönüştürmeyin.
+
+0-3 saniye: Tenceredeki buhar dağılıyor, haşlanmış kalamar tentakülleri sıcak sudan kaldırılıyor, yüzeylerinde nem var, şeffaf cam kaseye düşüyor. 3-6 saniye: Kalamar tentaküllerine yumurta sıvısı, ince toz ve az miktarda kırmızı baharat ekleniyor, kamera kase kenarına yakın, toz döküldüğünde hafif toz bulutları oluşuyor, tentaküller hala net bir şekilde ayırt edilebiliyor. 6-8 saniye: Eller cam kasede nazikçe karıştırıyor, yumurta sıvısının ve tozun her bir kalamar tentakülünü eşit şekilde kapladığından emin olunuyor, tentaküller birbirine dolanıyor ancak macunlaşmıyor. 8-10 saniye: Siyah wok tavasındaki sıcak yağa geçiş, yağ yüzeyi hafifçe kaynıyor, kaplanmış kalamar tentakülleri tencereye girmeye hazır şekilde yakında görülüyor, derin yağda kızartmadan hemen önceki durumda biterek sonraki segmente bağlanıyor.
+
+Sinematografi gereksinimleri: Temiz ve parlak ticari gıda fotoğrafçılığı, sığ alan derinliği ancak net eylemler, gerçekçi toz, yumurta sıvısı, buhar ve yağ parlaklığı. Altyazı yok, metin yok, logo yok, filigran yok, marka yok, seslendirme yok, müzik yok, sadece hafif gerçekçi mutfak ambiyans sesleri bırakılacak. Baharatların hiçbir yerden belirmesine izin vermeyin; her malzeme kaselerden, kaşıklardan veya ellerden gelen eylemlerle doğal olarak eklenmelidir. Kızarmış altın sarısı bitmiş ürünü erken göstermeyin, ekstra sofra takımı veya alakasız malzemeler göstermeyin.
+
+## Segment 3
+
+10 saniyelik, 9:16 dikey, yüksek kaliteli gıda reklamı standartlarında bir video klip oluşturun. Yemek "Tuzlu Biberli Taze Kalamar Tentakülleri"dir. Bu segmentteki görev, kaplanmış kalamar tentaküllerini wok tavasına koyup derin yağda kızartmak ve açık renkli toz kaplamadan altın sarısı-kahverengi ve çıtıra dönüşümü göstermektir.
+
+Lütfen yüklenen scene-03.mp4 videosuna ve 01.jpg ile 05.jpg arasındaki 5 referans görüntüye aynı anda bakın: 01, kaplanmış kalamar tentaküllerinin yağa girdiği anı; 02, sıcak yağlı wok tavasının, süzgecin ve karıştırmanın konumunu; 03, yağ kabarcıklarının kalamar tentaküllerini kapattığı ısı seviyesini; 04, çift kızartma sırasında yoğun yağ kabarcıklarını; 05 ise altın sarısı kalamar tentaküllerinin yağ tenceresinden kaldırılma durumunu gösterir. Referans materyalleri yalnızca eylem sırası, kabarcık durumu ve kalamar tentaküllerinin pişme derecesi için kullanılır; orijinal videodaki metinleri, filigranları, yazar kimliklerini veya yatay kompozisyonu kopyalamayın.
+
+Aynı siyah bal peteği desenli wok tavasını, aynı yuvarlak metal süzgeci ve aynı paslanmaz çelik ocak ortamını koruyun. Kalamar tentaküllerinin formu önceki iki segmentle tamamen aynı olmalıdır: İnce, doğal kıvrımlı, emici başlı, bazıları yay şeklinde kıvrılan, bazı kökleri biraz daha kalın, kızartma sonrası dış katmanda ince ve pürüzlü altın sarısı toz kaplama oluşturan; kalamar halkalarına, kalın ahtapot bacaklarına, tavuk filetosuna, patates kızartmasına, karides çubuklarına veya toplara dönüşmemelidir. Kızartma rengi açık altın ile koyu altın arasındadır, kenarlar hafif buruşuk ve çıtır ancak yanmış siyah değildir.
+
+0-3 saniye: Kaplanmış kalamar tentakülleri süzgeçten veya el yanından doğal olarak sıcak yağa kayıyor, yağ yüzeyi hızla kabarıyor, tentaküller hala açık beyaz toz kaplama taşıyor, kamera wok kenarına yakın ancak eylemi engellemiyor. 3-6 saniye: Kalamar tentakülleri yağ kabarcıklarında dönüyor, chopstickler veya süzgeç onları ayırmak için nazikçe karıştırıyor, birkaç tentakül kademeli olarak bükülüp sabitleniyor, renk açık beyazdan soluk altına dönüyor. 6-8 saniye: Yeniden kızartma veya devam eden yüksek sıcaklıkta kızartma gösteriliyor, yağ kabarcıkları yoğunlaşıyor, kalamar tentakülü yüzeyleri kuru ve pürüzlü hale geliyor, altın kenarlar belirginleşiyor. 8-10 saniye: Metal süzgeç kızarmış kalamar tentaküllerini yağ tenceresinden kaldırıyor, yağ damlaları doğal olarak tencereye geri düşüyor, kalamar tentakülleri kabarık, çıtır ve doğal kıvrımlı bir kütle sunuyor, yağ süzme durumunda biterek woka geri dönüp aromatiklerle sotelenmek üzere sonraki segmente bağlanıyor.
+
+Sinematografi gereksinimleri: Yağ kabarcıkları, buhar, yağ damlaları ve altın sarısı toz kaplamanın gerçekçi dokusu, iştah açıcı görseller ancak aşırı doygun değil, kamera süzgecin kalkışını hafifçe takip edebilir. Altyazı yok, metin yok, logo yok, filigran yok, marka yok, seslendirme yok, müzik yok, sadece hafif gerçekçi mutfak ambiyans sesleri bırakılacak. Wok yüzeyini saran abartılı büyük alevler göstermeyin, kalamar tentaküllerinin hiçbir yerden aniden pişmesine izin vermeyin, yiyeceklerin havada asılı kalmasına izin vermeyin, kalamar tentaküllerinin uzunluğunu ve kalınlığını değiştirmeyin.
+
+## Segment 4
+
+10 saniyelik, 9:16 dikey, yüksek kaliteli gıda reklamı standartlarında bir video klip oluşturun. Yemek "Tuzlu Biberli Taze Kalamar Tentakülleri"dir. Bu segmentteki görev, aromatikleri sotelenmek, kızarmış kalamar tentaküllerini woka geri döndürüp eşit şekilde harmanlamak, tuz ve biber serperek bitmiş ürünü sunmaktır.
+
+Lütfen yüklenen scene-04.mp4 videosuna ve 01.jpg ile 05.jpg arasındaki 5 referans görüntüye aynı anda bakın: 01, siyah wok tavasındaki artık yağ ve spatulayı; 02, ezilmiş sarımsağın, kırmızı biber granüllerinin ve yeşil biber granüllerinin kokusu çıkana kadar sotelenme durumunu; 03, kızarmış kalamar tentaküllerinin woka geri dökülmesini; 04, güçlü wok nefesini (wok hei) ve hızlı sotelenmeyi; 05 ise son altın sarısı bitmiş ürünün yığılmasını, rengini ve çıtır dokusunu gösterir. Referans materyalleri yalnızca eylemler, malzeme durumları ve bitmiş ürün dokusu için kullanılır; orijinal videodaki metinleri, filigranları, yazar kimliklerini veya yatay kompozisyonu kopyalamayın.
+
+İlk üç segmentle aynı mutfağı, aynı siyah bal peteği desenli wok tavasını, aynı spatulayı ve aynı parti kızarmış kalamar tentaküllerini koruyun. Bitmiş kalamar tentakülleri ince, doğal kıvrımlı, emici baş dokulu tuzlu biberli taze kalamar tentakülleri olmalı, yüzeyi altın sarısı ve çıtır, ince kırmızı biber granülleri, yeşil biber granülleri ve ezilmiş sarımsak karışık; kalamar halkalarına, ahtapot kollarına, et parçalarına, karidese veya düzenli şerit atıştırmalıklara dönüşmemelidir. Porsiyon, bir tabak yemek dolgunluğunda olmalı, doğal olarak yığılmış, çok seyrek olmamalıdır.
+
+0-3 saniye: Siyah wok tavasında az miktarda yağ bırakın, ezilmiş sarımsak, kırmızı biber granülleri ve yeşil biber granüllerini ekleyin, spatula ile hafifçe itin, aromatikler kokusunu salıyor, renkler belirgin kırmızı ve yeşil. 3-6 saniye: Kızarmış altın sarısı kalamar tentakülleri metal süzgeçten veya küçük leğenden doğal olarak woka dökülüyor, spatula hızlıca harmanlıyor, aromatikler kalamar tentakülü yüzeyine yapışıyor, yiyecek kaynağı net olmalı, hiçbir yerden belirmemeli. 6-8 saniye: İnce tuz ve biber serpiliyor, spatula iki veya üç kez harmanlıyor, kalamar tentakülleri kabarık ve çıtır kalıyor, kırmızı ve yeşil granüller eşit dağılmış, hafif wok nefesi (wok hei) kabul edilir ancak aşırı alev yok. 8-10 saniye: Bitmiş ürünün yakın çekimine geçiş, temiz açık renkli bir tabakta yığılmış altın sarısı tuzlu biberli taze kalamar tentakülleri, emici baş dokuları, çıtır kenarlar, kırmızı ve yeşil biber granülleri ve sarımsak parçacıkları net bir şekilde görülüyor, sonraki kapak adayları için uygun stabil bir kahraman çekimi (hero shot) ile bitiyor.
+
+Sinematografi gereksinimleri: Reklam kalitesinde sıcak ışık, temiz vurgular, gerçekçi yağlı ancak yağlı olmayan görünüm, bitmiş ürünü öne çıkaran sığ alan derinliği, sürekli eylemler. Altyazı yok, metin yok, logo yok, filigran yok, marka yok, seslendirme yok, müzik yok, sadece hafif gerçekçi mutfak ambiyans sesleri bırakılacak. Ekstra garnitürler göstermeyin, pirinç, şarap bardakları veya insan yüzleri göstermeyin, bitmiş ürünün rengini çok kırmızı veya yanmış siyah yapmayın, kalamar tentaküllerinin belirlenen şeklini değiştirmeyin.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100189918064701440/img/nB0Pp6mKiLL9mGBx.jpg" width="600" alt="Gemini Omni İçin Lüks Gıda Reklamı Video Promptu">
+
+**[🎬 Videoyu izle →](https://x.com/7998l201/status/2100190123824714108)**
+
+**Yazar:** [Ryan](https://x.com/7998l201) | **Kaynak:** [Link](https://x.com/7998l201/status/2100190123824714108) | **Yayınlandı:** Sep 16, 2026
+
+---
+### Sonbahar Seyahat Afişi Animasyonu
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Referans olarak Nano Banana 2 ve üretim için Gemini Omni Flash kullanılarak bir seyahat afişi animasyonunun oluşturulması.
+
+#### 📝 İstem
+
+```
+Bir seyahat videosu afişi. Beş dakikada hazırlandı. Hoş geldiniz… ülkemizin sonbahar havasına
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100175485422485504/img/HBDl9P1MDTwJMjuP.jpg" width="600" alt="Sonbahar Seyahat Afişi Animasyonu">
+
+**[🎬 Videoyu izle →](https://x.com/Colorinmyspirit/status/2100175537654182360)**
+
+**Yazar:** [Larisa Shutova / Larysa Shutava](https://x.com/Colorinmyspirit) | **Kaynak:** [Link](https://x.com/Colorinmyspirit/status/2100175537654182360) | **Yayınlandı:** Sep 16, 2026
+
+---
 ### Kadın Elbise Dönüşüm İstemcisi
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3110,82 +3240,6 @@ Buz gezegenini koruyan tanrıça, sakin bir ifadeyle halkına hitaben, "Üzerimi
 **Yazar:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Kaynak:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Yayınlandı:** Aug 17, 2026
 
 ---
-### Bolivya Tuz Gölü'nde Gün Doğumu Yansıması
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Sular altındaki Bolivya tuz gölü üzerinde, geniş negatif alan kullanımıyla oluşturulmuş, yansımalı bir gün doğumu için minimalist video istemi.
-
-#### 📝 İstem
-
-```
-Kesintisiz döngü, sular altındaki Bolivya tuz gölü üzerinde sabit geniş açılı ufuk çekimi. İnce bir durgun su tabakası, gökyüzünde fark edilmeyecek kadar yavaş süzülen pastel pembe ve lavanta rengi gün doğumu bulutlarını kusursuz bir şekilde yansıtıyor. Geniş negatif alan, ruhani minimalizm.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivya Tuz Gölü'nde Gün Doğumu Yansıması">
-
-**[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068330225221876)**
-
-**Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Yayınlandı:** Aug 16, 2026
-
----
-### Ghibli Tarzı Koi Havuzu Döngüsü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Suluboya bir havuzda yüzen koi balıkları ve üzerine vuran güneş ışıklarıyla, Studio Ghibli'den ilham alan büyüleyici bir video istemi.
-
-#### 📝 İstem
-
-```
-Kusursuz döngü, Studio Ghibli suluboya anime tarzında berrak bir bahçe havuzunun yukarıdan sabit görünümü. Yüzen nilüfer yapraklarının altında yavaşça dönen renkli koi balıkları. Hafif su dalgaları, akçaağaç yapraklarının arasından süzülen güneş ışığı, yumuşak pastel renkler, sakin ortam hareketi.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Tarzı Koi Havuzu Döngüsü">
-
-**[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068327691862357)**
-
-**Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Yayınlandı:** Aug 16, 2026
-
----
-### Yerçekimsiz Cam Şerit Döngüsü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Karanlık bir arka plan üzerinde yerçekimsiz ortamda süzülen, kırılmalı cam şeridin yer aldığı soyut ve hipnotik bir video istemi.
-
-#### 📝 İstem
-
-```
-Obsidyen arka plan üzerinde yerçekimsiz ortamda yavaşça dalgalanan, şeffaf ve kırılmalı bir cam şeridin kesintisiz döngüsü, sabit kamera açısı. Kenarlarda hafif renk sapması, yumuşak ışık kırılmaları, yavaş ve hipnotik hareket, arayüz için geniş negatif alan.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Yerçekimsiz Cam Şerit Döngüsü">
-
-**[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068325493944435)**
-
-**Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Yayınlandı:** Aug 16, 2026
-
----
-### Çift Pozlama Silüet Orman Döngüsü
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Bir kişinin karanlık silüeti içinde sisli bir çam ormanını gösteren sürreal bir çift pozlama video istemi.
-
-#### 📝 İstem
-
-```
-Kusursuz döngü. Yumuşak, sisli, kemik beyazı bir arka plana karşı bir kişinin sabit profilli silüeti. Çift pozlama efekti: karanlık silüetin içinde, katmanlar halinde yavaşça süzülen beyaz dağ sisleriyle birlikte yoğun bir Pasifik Kuzeybatı çam ormanı görünür
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Çift Pozlama Silüet Orman Döngüsü">
-
-**[🎬 Videoyu izle →](https://x.com/genevieve__h/status/2089068323132649758)**
-
-**Yazar:** [genevieveh@](https://x.com/genevieve__h) | **Kaynak:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Yayınlandı:** Aug 16, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3238,6 +3292,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-17T03:32:06.587Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-17T09:13:25.834Z</sub>
 
 </div>

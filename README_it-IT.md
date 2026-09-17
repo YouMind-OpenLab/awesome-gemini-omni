@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **271** |
+| 📝 Totale prompt | **275** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-09-17** |
 
@@ -56,6 +56,136 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Trasformazione da Immagine a Video con Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un'istruzione di prompt specifica per utilizzare Gemini Omni Flash (tramite Adobe Firefly) per trasformare un'immagine caricata in un video con cambiamenti inaspettati.
+
+#### 📝 Prompt
+
+```
+Usa l'immagine come primo fotogramma e falla trasformare in qualcosa di inaspettato.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100233684162924544/img/26f64H7JBlLZF2vN.jpg" width="600" alt="Trasformazione da Immagine a Video con Gemini Omni">
+
+**[🎬 Guarda il video →](https://x.com/zeng_wt/status/2100233714345160937)**
+
+**Autore:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Fonte:** [Link](https://x.com/zeng_wt/status/2100233714345160937) | **Pubblicato:** Sep 16, 2026
+
+---
+### Scena video della scia del traghetto nel Pacific Northwest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Una scena descrittiva per la generazione di video che presenta la scia del traghetto, la nebbia e l'illuminazione di Elliott Bay, creata con Gemini Omni 1.1 Flash.
+
+#### 📝 Prompt
+
+```
+Scia del traghetto. Nebbia leggera. Elliott Bay prima che il giorno si svegli.
+
+Gemini Omni 1.1 Flash su Buble — oro del Pacific Northwest sull'acqua grigio-blu, luce tranquilla del molo che sembra già un lancio di brand.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2100219289315811328/pu/img/v4VJgxHzcbvcsfJ3.jpg" width="600" alt="Scena video della scia del traghetto nel Pacific Northwest">
+
+**[🎬 Guarda il video →](https://x.com/itsBubleAI/status/2100219309624565969)**
+
+**Autore:** [Buble AI](https://x.com/itsBubleAI) | **Fonte:** [Link](https://x.com/itsBubleAI/status/2100219309624565969) | **Pubblicato:** Sep 16, 2026
+
+---
+### Prompt Video Pubblicitario Cibo High-End per Gemini Omni
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Una serie completa di prompt per creare un video pubblicitario di alta gamma in 4 parti, incentrato sui tentacoli di calamaro fritti con sale e pepe. Il documento dettaglia specifiche fasi di cottura (pulizia, taglio, sbollentatura, impanatura, frittura) con rigorosi requisiti di coerenza visiva e istruzioni sull'uso di immagini/video di riferimento.
+
+#### 📝 Prompt
+
+```
+Genera uno spot pubblicitario alimentare high-end utilizzando Omni 1.1 Flash.
+
+# Tentacoli di Calamaro Fresco al Sale e Pepe | Quattro Prompt Completi per la Generazione in Cinese
+
+Requisiti Generali: Tutti e quattro i segmenti devono generare video verticali da 10 secondi, formato 9:16, di qualità pubblicitaria high-end. Mantenere lo stesso ambiente cucina, lo stesso piano di lavoro in acciaio inox, lo stesso wok nero con motivo a nido d'ape e lo stesso lotto di tentacoli di calamaro fresco. I tentacoli devono essere veri tentacoli di calamaro freschi, sottili, naturalmente curvi, con ventose, e non perfettamente uniformi nello spessore; dopo la frittura, devono risultare dorati, croccanti e naturalmente arricciati. Non devono trasformarsi in anelli di calamaro, grandi tentacoli di polpo, gamberi, pezzi di pollo, strisce di carne, patatine fritte o noodles regolari. Nessun sottotitolo, nessun testo, nessun logo, nessun watermark, nessun marchio, nessuna voce fuori campo, nessuna musica per l'intera durata del video.
+
+## Segmento 1
+
+Genera una clip video verticale da 10 secondi, formato 9:16, di qualità pubblicitaria high-end. Il piatto è "Tentacoli di Calamaro Fresco al Sale e Pepe". Il compito di questo segmento è la lavorazione, il taglio e la breve sbollentatura dei tentacoli di calamaro freschi per prepararli alla successiva conditura e impanatura.
+
+Si prega di fare riferimento simultaneamente al video caricato scene-01.mp4 e alle 5 immagini di riferimento da 01.jpg a 05.jpg: 01 si riferisce allo stato di lavaggio e ammollo dei tentacoli di calamaro freschi in acqua; 02 si riferisce al colore rosa-biancastro pallido e alla curvatura naturale dopo aver scolato i tentacoli; 03 si riferisce all'azione di tagliare i tentacoli su un tagliere rotondo in legno; 04 si riferisce alla dimensione dei peperoni rossi e verdi a dadini; 05 si riferisce alla connessione tra il trito dell'aglio e la sbollentatura nella pentola. I materiali di riferimento servono solo per comprendere le forme degli ingredienti e le azioni; non copiare il testo originale del video, i watermark, gli identificativi dell'autore, le identità dei personaggi o la composizione orizzontale.
+
+Mantenere lo stesso ambiente cucina realistico nell'inquadratura: piano di lavoro in acciaio inox, spesso tagliere rotondo in legno, wok nero con motivo a nido d'ape, ciotola di vetro per condimenti, luce laterale calda naturale biancastra. I tentacoli di calamaro freschi devono essere sottili, morbidi, con ventose e naturalmente curvi, con filamenti di spessore irregolare e alcune connessioni alla base; non possono diventare anelli di calamaro, grandi tentacoli di polpo, gamberi, strisce di carne o noodles bianchi ordinati. I tentacoli di calamaro tagliati devono rimanere come segmenti lunghi naturali di circa 6-10 cm, con bordi leggermente arricciati; non tagliarli in piccoli cubetti.
+
+0-3 secondi: Primo piano, acqua chiara che ondeggia delicatamente in una ciotola di vetro, mani che sollevano i tentacoli di calamaro freschi, che sono umidi e lucidi, con le ventose chiaramente visibili. 3-6 secondi: Passaggio al tagliere rotondo in legno, un coltello da chef taglia fluidamente dalla base dei tentacoli in segmenti lunghi naturali, il movimento è pulito e preciso, mantenendo i tentacoli sottili e curvi. 6-8 secondi: Peperoni rossi, peperoni verdi e aglio vengono tritati finemente, i colori sono vivaci ma non sovrasaturi. 8-10 secondi: L'acqua nel wok nero sobbolle, i tentacoli di calamaro vengono sbollentati brevemente, il vapore sale e i tentacoli cambiano gradualmente da rosa chiaro trasparente a rosa latte chiaro, terminando nello stato in cui i tentacoli hanno appena cambiato colore, collegandosi al segmento successivo per la rimozione e la conditura.
+
+Requisiti di cinematografia: Movimenti delle mani realistici, proporzioni accurate del cibo, inquadrature principalmente medio-primo piano e primi piani dall'alto, leggero zoom avanti, illuminazione pulita di livello pubblicitario, preservando i dettagli del vapore, delle gocce d'acqua e delle superfici degli ingredienti. Nessun sottotitolo, nessun testo, nessun logo, nessun watermark, nessun marchio, nessuna voce fuori campo, nessuna musica, mantenere solo leggeri suoni ambientali realistici della cucina. Non mostrare ingredienti extra, non far fluttuare il cibo, non saltare all'impiattamento del prodotto finito, non mostrare dita errate o strumenti deformi.
+
+## Segmento 2
+
+Genera una clip video verticale da 10 secondi, formato 9:16, di qualità pubblicitaria high-end. Il piatto è "Tentacoli di Calamaro Fresco al Sale e Pepe". Il compito di questo segmento è condire i tentacoli di calamaro sbollentati, aggiungere liquido d'uovo, impanare con polvere e preparare per la frittura profonda.
+
+Si prega di fare riferimento simultaneamente al video caricato scene-02.mp4 e alle 5 immagini di riferimento da 01.jpg a 05.jpg: 01 si riferisce al colore rosa latte chiaro dei tentacoli di calamaro nella pentola di sbollentatura; 02 si riferisce allo stato di aggiunta di condimenti e liquido d'uovo ai tentacoli di calamaro in una ciotola di vetro; 03 si riferisce alla sensazione polverosa dopo l'aggiunta di amido; 04 si riferisce all'azione di mescolare a mano i tentacoli di calamaro; 05 si riferisce al wok con olio caldo e all'ambiente prima che gli ingredienti impanati entrino nell'olio. I materiali di riferimento servono solo per le azioni e gli stati degli ingredienti; non copiare il testo originale del video, i watermark, gli identificativi dell'autore, i bordi orizzontali o le identità dei personaggi.
+
+Mantenere lo stesso set cucina del Segmento 1, lo stesso wok nero con motivo a nido d'ape, la stessa ciotola di vetro trasparente e il piano di lavoro in acciaio inox. La forma dei tentacoli di calamaro deve rimanere coerente: sottili, naturalmente arricciati, con ventose, per lo più segmenti lunghi, alcune basi leggermente più spesse, colorati rosa latte chiaro dopo la sbollentatura; non possono diventare anelli di calamaro, carne a cubetti, pezzi di pollo, gamberi o noodles regolari. Dopo l'impanatura, ci dovrebbe essere uno strato sottile, non completamente uniforme di polvere bianca, permettendo di vedere il contorno dei tentacoli e le ondulazioni delle ventose; non impanarli in una grande palla di impasto.
+
+0-3 secondi: Il vapore si dissipa nella pentola, i tentacoli di calamaro sbollentati vengono sollevati dall'acqua calda, la superficie porta umidità, cadendo in una ciotola di vetro trasparente. 3-6 secondi: Aggiungere liquido d'uovo, polvere fine e un po' di condimento rosso ai tentacoli di calamaro, camera vicina al bordo della ciotola, formando leggere nuvole di polvere quando cade la polvere, i tentacoli rimangono chiaramente distinguibili. 6-8 secondi: Le mani mescolano delicatamente nella ciotola di vetro, assicurandosi che il liquido d'uovo e la polvere rivestano uniformemente ogni tentacolo di calamaro, i tentacoli si intrecciano ma non si raggruppano in una pasta. 8-10 secondi: Passaggio all'olio caldo nel wok nero, la superficie dell'olio si muove leggermente, i tentacoli di calamaro impanati sono visibili nelle vicinanze pronti per entrare nella pentola, terminando nello stato immediatamente precedente alla frittura profonda, collegandosi al segmento successivo.
+
+Requisiti di cinematografia: Fotografia commerciale del cibo pulita e luminosa, profondità di campo ridotta ma azioni chiare, polvere, liquido d'uovo, vapore e lucentezza dell'olio realistici. Nessun sottotitolo, nessun testo, nessun logo, nessun watermark, nessun marchio, nessuna voce fuori campo, nessuna musica, mantenere solo leggeri suoni ambientali realistici della cucina. Non far apparire i condimenti dal nulla; ogni materiale deve essere aggiunto naturalmente attraverso azioni da ciotole, cucchiai o mani. Non mostrare prematuramente il prodotto finito fritto dorato, non mostrare stoviglie extra o ingredienti irrilevanti.
+
+## Segmento 3
+
+Genera una clip video verticale da 10 secondi, formato 9:16, di qualità pubblicitaria high-end. Il piatto è "Tentacoli di Calamaro Fresco al Sale e Pepe". Il compito di questo segmento è mettere i tentacoli di calamaro impanati nel wok per la frittura profonda, mostrando la trasformazione dal rivestimento in polvere chiaro al marrone dorato e croccante.
+
+Si prega di fare riferimento simultaneamente al video caricato scene-03.mp4 e alle 5 immagini di riferimento da 01.jpg a 05.jpg: 01 si riferisce al momento in cui i tentacoli di calamaro impanati entrano nell'olio; 02 si riferisce alla posizione del wok con olio caldo, dello scolapasta e della mescolatura; 03 si riferisce al livello di calore con bolle d'olio che coprono i tentacoli di calamaro; 04 si riferisce alle dense bolle d'olio durante la doppia frittura; 05 si riferisce allo stato dei tentacoli di calamaro gialli dorati sollevati dal wok con olio. I materiali di riferimento servono solo per la sequenza delle azioni, lo stato delle bolle e la cottura dei tentacoli di calamaro; non copiare il testo originale del video, i watermark, gli identificativi dell'autore o la composizione orizzontale.
+
+Mantenere lo stesso wok nero con motivo a nido d'ape, lo stesso scolapasta metallico rotondo e lo stesso ambiente del fornello in acciaio inox. La forma dei tentacoli di calamaro deve essere esattamente la stessa dei due segmenti precedenti: sottili, naturalmente curvi, con ventose, alcuni che si arricciano ad arco, alcuni con basi leggermente più spesse, formando un sottile e ruvido rivestimento in polvere dorata sullo strato esterno dopo la frittura; non possono diventare anelli di calamaro, gambe spesse di polpo, filetti di pollo, patatine fritte, bastoncini di gambero o palline. Il colore fritto è tra il dorato chiaro e il dorato scuro, i bordi leggermente rugosi e croccanti, ma non bruciati neri.
+
+0-3 secondi: I tentacoli di calamaro impanati scivolano naturalmente dallo scolapasta o dal lato della mano nell'olio caldo, la superficie dell'olio fa rapidamente bolle, i tentacoli portano ancora un leggero rivestimento in polvere bianca, la camera è vicina al bordo del wok ma non blocca l'azione. 3-6 secondi: I tentacoli di calamaro rotolano nelle bolle d'olio, bacchette o scolapasta mescolano delicatamente per separarli, diversi tentacoli si piegano gradualmente e si stabilizzano, il colore cambia da bianco chiaro a dorato pallido. 6-8 secondi: Mostrare la rifrittura o la continuazione della frittura ad alta temperatura, le bolle d'olio diventano più dense, le superfici dei tentacoli di calamaro diventano asciutte e ruvide, i bordi dorati chiari. 8-10 secondi: Lo scolapasta metallico solleva i tentacoli di calamaro fritti dal wok con olio, le gocce d'olio cadono naturalmente indietro nella pentola, i tentacoli di calamaro presentano una massa soffice, croccante e naturalmente arricciata, terminando nello stato di sgocciolamento dell'olio, collegandosi al segmento successivo per il ritorno nel wok per saltare gli aromi.
+
+Requisiti di cinematografia: Texture realistica delle bolle d'olio, del vapore, delle gocce d'olio e del rivestimento in polvere dorata, immagini appetitose ma non sovrasature, la camera può seguire leggermente il sollevamento dello scolapasta. Nessun sottotitolo, nessun testo, nessun logo, nessun watermark, nessun marchio, nessuna voce fuori campo, nessuna musica, mantenere solo leggeri suoni ambientali realistici della cucina. Non mostrare fiamme esagerate che avvolgono la superficie del wok, non far cuocere istantaneamente i tentacoli di calamaro dal nulla, non far fluttuare il cibo, non cambiare la lunghezza e lo spessore dei tentacoli di calamaro.
+
+## Segmento 4
+
+Genera una clip video verticale da 10 secondi, formato 9:16, di qualità pubblicitaria high-end. Il piatto è "Tentacoli di Calamaro Fresco al Sale e Pepe". Il compito di questo segmento è saltare gli aromi, restituire i tentacoli di calamaro fritti al wok per mescolarli uniformemente, cospargere sale e pepe e presentare il prodotto finito.
+
+Si prega di fare riferimento simultaneamente al video caricato scene-04.mp4 e alle 5 immagini di riferimento da 01.jpg a 05.jpg: 01 si riferisce all'olio residuo e alla spatola nel wok nero; 02 si riferisce allo stato di soffriggere aglio tritato, granuli di peperone rosso e granuli di peperone verde fino a profumare; 03 si riferisce al versare i tentacoli di calamaro fritti indietro nel wok; 04 si riferisce al forte respiro del wok e alla rapida saltatura; 05 si riferisce alla sovrapposizione, al colore e alla texture croccante del prodotto finale dorato. I materiali di riferimento servono solo per le azioni, gli stati degli ingredienti e la texture del prodotto finito; non copiare il testo originale del video, i watermark, gli identificativi dell'autore o la composizione orizzontale.
+
+Mantenere la stessa cucina, lo stesso wok nero con motivo a nido d'ape, la stessa spatola e lo stesso lotto di tentacoli di calamaro fritti dei primi tre segmenti. I tentacoli di calamaro finiti devono essere sottili, naturalmente arricciati, tentacoli di calamaro freschi al sale e pepe con texture delle ventose, superficie dorata e croccante, misti a fini granuli di peperone rosso, granuli di peperone verde e aglio tritato; non possono diventare anelli di calamaro, tentacoli di polpo, pezzi di carne, gamberi o snack a strisce ordinate. La porzione dovrebbe avere la pienezza di un piatto di portata, impilata naturalmente, non troppo rada.
+
+0-3 secondi: Lasciare una piccola quantità di olio nel wok nero, aggiungere aglio tritato, granuli di peperone rosso e granuli di peperone verde, spingere leggermente con la spatola, gli aromi rilasciano profumo, colori distintivamente rossi e verdi. 3-6 secondi: I tentacoli di calamaro fritti dorati vengono versati naturalmente da uno scolapasta metallico o una piccola bacinella nel wok, la spatola salta rapidamente, facendo aderire gli aromi alla superficie dei tentacoli di calamaro, la fonte del cibo deve essere chiara, non può apparire dal nulla. 6-8 secondi: Cospargere sale e pepe fini, la spatola salta due o tre volte, i tentacoli di calamaro rimangono soffici e croccanti, i granuli rossi e verdi distribuiti uniformemente, è consentito un leggero respiro del wok ma non fiamme eccessive. 8-10 secondi: Passaggio al primo piano del prodotto finito, tentacoli di calamaro freschi al sale e pepe dorati ammassati in un piatto pulito di colore chiaro, texture delle ventose, bordi croccanti, granuli di peperone rosso e verde e particelle di aglio chiaramente visibili, terminando con un hero shot stabile adatto per successivi candidati per la copertina.
+
+Requisiti di cinematografia: Luce calda di livello pubblicitario, riflessi puliti, aspetto oleoso ma non unto realistico, profondità di campo ridotta che evidenzia il prodotto finito, azioni continue. Nessun sottotitolo, nessun testo, nessun logo, nessun watermark, nessun marchio, nessuna voce fuori campo, nessuna musica, mantenere solo leggeri suoni ambientali realistici della cucina. Non mostrare contorni extra, non mostrare riso, bicchieri di vino o volti di persone, non rendere il colore del prodotto finito troppo rosso o bruciato nero, non cambiare la forma stabilita dei tentacoli di calamaro.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100189918064701440/img/nB0Pp6mKiLL9mGBx.jpg" width="600" alt="Prompt Video Pubblicitario Cibo High-End per Gemini Omni">
+
+**[🎬 Guarda il video →](https://x.com/7998l201/status/2100190123824714108)**
+
+**Autore:** [Ryan](https://x.com/7998l201) | **Fonte:** [Link](https://x.com/7998l201/status/2100190123824714108) | **Pubblicato:** Sep 16, 2026
+
+---
+### Animazione di poster per viaggi autunnali
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Creazione di un'animazione di poster turistico utilizzando Nano Banana 2 come riferimento e Gemini Omni Flash per la generazione.
+
+#### 📝 Prompt
+
+```
+Un poster video di viaggio. Realizzato in cinque minuti. Benvenuti nell'atmosfera autunnale del mio Paese
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100175485422485504/img/HBDl9P1MDTwJMjuP.jpg" width="600" alt="Animazione di poster per viaggi autunnali">
+
+**[🎬 Guarda il video →](https://x.com/Colorinmyspirit/status/2100175537654182360)**
+
+**Autore:** [Larisa Shutova / Larysa Shutava](https://x.com/Colorinmyspirit) | **Fonte:** [Link](https://x.com/Colorinmyspirit/status/2100175537654182360) | **Pubblicato:** Sep 16, 2026
+
+---
 ### Prompt per la Trasformazione in Abito da Donna
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3082,82 +3212,6 @@ STILE: Fotografia alimentare ultra-realistica, consistenza del ketchup lucida, f
 **Autore:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Fonte:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Pubblicato:** Aug 17, 2026
 
 ---
-### Alba specchiata sulle saline boliviane
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video minimalista per un'alba specchiata sulle saline boliviane allagate, caratterizzato da un ampio spazio negativo.
-
-#### 📝 Prompt
-
-```
-Loop continuo, inquadratura statica a campo lungo sulle saline boliviane allagate. Un sottile strato d'acqua immobile riflette perfettamente le nuvole color rosa pastello e lavanda dell'alba, che si spostano impercettibilmente nel cielo. Ampio spazio negativo, minimalismo etereo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Alba specchiata sulle saline boliviane">
-
-**[🎬 Guarda il video →](https://x.com/genevieve__h/status/2089068330225221876)**
-
-**Autore:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Pubblicato:** Aug 16, 2026
-
----
-### Loop di laghetto di koi in stile Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un bellissimo prompt video ispirato allo Studio Ghibli che mostra pesci koi che nuotano in uno stagno ad acquerello con luce solare filtrata.
-
-#### 📝 Prompt
-
-```
-Loop continuo, vista statica dall'alto di un limpido laghetto da giardino in stile anime acquerello dello Studio Ghibli. Pesci koi colorati che nuotano lentamente sotto ninfee galleggianti. Increspature delicate dell'acqua, luce solare filtrata attraverso le foglie d'acero, colori pastello tenui, movimento ambientale calmo.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Loop di laghetto di koi in stile Ghibli">
-
-**[🎬 Guarda il video →](https://x.com/genevieve__h/status/2089068327691862357)**
-
-**Autore:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Pubblicato:** Aug 16, 2026
-
----
-### Nastro di vetro a gravità zero in loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video ipnotico e astratto di un nastro di vetro rifrangente che fluttua in assenza di gravità su uno sfondo scuro.
-
-#### 📝 Prompt
-
-```
-Loop continuo, inquadratura fissa di un nastro di vetro trasparente e rifrangente che ondeggia lentamente in assenza di gravità su uno sfondo color ossidiana. Sottile aberrazione cromatica lungo i bordi, caustiche delicate, movimento lento e ipnotico, ampio spazio negativo per l'interfaccia utente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Nastro di vetro a gravità zero in loop">
-
-**[🎬 Guarda il video →](https://x.com/genevieve__h/status/2089068325493944435)**
-
-**Autore:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Pubblicato:** Aug 16, 2026
-
----
-### Loop di foresta con silhouette a doppia esposizione
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt video surrealista a doppia esposizione che mostra una nebbiosa foresta di pini all'interno della silhouette scura di una persona.
-
-#### 📝 Prompt
-
-```
-Loop continuo. Silhouette di profilo statica e fissa di una persona su uno sfondo bianco osso morbido e nebbioso. Effetto a doppia esposizione: all'interno della silhouette scura è visibile una fitta foresta di pini del Pacifico nord-occidentale, con strati di nebbia montana bianca che scorrono lentamente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Loop di foresta con silhouette a doppia esposizione">
-
-**[🎬 Guarda il video →](https://x.com/genevieve__h/status/2089068323132649758)**
-
-**Autore:** [genevieveh@](https://x.com/genevieve__h) | **Fonte:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Pubblicato:** Aug 16, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -3210,6 +3264,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-17T03:32:02.056Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-17T09:13:22.178Z</sub>
 
 </div>

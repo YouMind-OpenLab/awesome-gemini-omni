@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **271** |
+| 📝 Total Prompts | **275** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-17** |
 
@@ -56,6 +56,136 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Gemini Omni Image-to-Video Transformation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A specific prompt instruction for using Gemini Omni Flash (via Adobe Firefly) to transform an uploaded image into a video with unexpected changes.
+
+#### 📝 Prompt
+
+```
+Use the image as the first frame and make it transform into something unexpected.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100233684162924544/img/26f64H7JBlLZF2vN.jpg" width="600" alt="Gemini Omni Image-to-Video Transformation">
+
+**[🎬 Watch Video →](https://x.com/zeng_wt/status/2100233714345160937)**
+
+**Author:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Source:** [Link](https://x.com/zeng_wt/status/2100233714345160937) | **Published:** Sep 16, 2026
+
+---
+### Pacific Northwest Ferry Wake Video Scene
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A descriptive scene for video generation featuring ferry wake, mist, and Elliott Bay lighting, created with Gemini Omni 1.1 Flash.
+
+#### 📝 Prompt
+
+```
+Ferry wake. Soft mist. Elliott Bay before the day wakes up.
+
+Gemini Omni 1.1 Flash on Buble — Pacific Northwest gold on gray-blue water, quiet pier light that already feels like a brand open.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2100219289315811328/pu/img/v4VJgxHzcbvcsfJ3.jpg" width="600" alt="Pacific Northwest Ferry Wake Video Scene">
+
+**[🎬 Watch Video →](https://x.com/itsBubleAI/status/2100219309624565969)**
+
+**Author:** [Buble AI](https://x.com/itsBubleAI) | **Source:** [Link](https://x.com/itsBubleAI/status/2100219309624565969) | **Published:** Sep 16, 2026
+
+---
+### High-End Food Ad Video Prompt for Gemini Omni
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A comprehensive prompt series for creating a 4-part high-end food advertisement video featuring salt-and-pepper squid tentacles. It details specific cooking steps (cleaning, cutting, blanching, coating, frying) with strict visual consistency requirements and reference image/video usage instructions.
+
+#### 📝 Prompt
+
+```
+Generate a high-end food commercial using Omni 1.1 Flash.
+
+# Salt and Pepper Fresh Squid Tentacles | Four Complete Chinese Generation Prompts
+
+General Requirements: All four segments should generate 10-second, 9:16 vertical, high-end food advertising quality videos. Maintain the same kitchen environment, the same stainless steel worktop, the same black honeycomb-patterned wok, and the same batch of fresh squid tentacles. The squid tentacles must be real fresh squid tentacles that are slender, naturally curved, with suckers, and not perfectly uniform in thickness; after frying, they should be golden brown, crispy, and naturally curled. They cannot turn into squid rings, large octopus tentacles, shrimp, chicken chunks, meat strips, fries, or regular noodles. No subtitles, no text, no logos, no watermarks, no brands, no voiceovers, no music throughout the entire video.
+
+## Segment 1
+
+Generate a 10-second, 9:16 vertical, high-end food advertising quality video clip. The dish is "Salt and Pepper Fresh Squid Tentacles." The task for this segment is processing, cutting, and briefly blanching the fresh squid tentacles to prepare for subsequent seasoning and coating.
+
+Please refer to the uploaded video scene-01.mp4 and 5 reference images 01.jpg to 05.jpg simultaneously: 01 refers to the state of washing and soaking fresh squid tentacles in water; 02 refers to the pale pinkish-white color and natural curvature after draining the tentacles; 03 refers to the action of cutting the tentacles on a round wooden cutting board; 04 refers to the size of diced red and green peppers; 05 refers to the connection between minced garlic chopping and blanching in the pot. Reference materials are only used to understand ingredient forms and actions; do not copy the original video's text, watermarks, author identifiers, character identities, or horizontal composition.
+
+Maintain the same realistic kitchen environment in the frame: stainless steel worktop, thick round wooden cutting board, black honeycomb-patterned wok, glass seasoning bowl, natural warm white side lighting. The fresh squid tentacles must be slender, soft, with suckers, and naturally curved squid tentacles, with unevenly thick strands and some root connections; they cannot become squid rings, large octopus tentacles, shrimp, meat strips, or neat white noodles. Cut squid tentacles should remain as natural long segments of about 6-10 cm, with slightly curled edges; do not cut them into small dice.
+
+0-3 seconds: Close-up, clear water gently swaying in a glass bowl, hands lifting out fresh squid tentacles, which are moist and glossy, with suckers clearly visible. 3-6 seconds: Switch to the round wooden cutting board, a chef's knife smoothly cuts from the base of the tentacles into natural long segments, the movement is clean and crisp, keeping the tentacles slender and curved. 6-8 seconds: Red peppers, green peppers, and garlic are chopped into fine granules, colors are vivid but not oversaturated. 8-10 seconds: Water in the black wok is simmering, squid tentacles are briefly blanched, steam rises, and the tentacles gradually change from transparent light pink to milky light pink, ending at the state where the tentacles have just changed color, connecting to the next segment for removal and seasoning.
+
+Cinematography requirements: Real hand movements, accurate food proportions, shots mainly medium-close-ups and top-down close-ups, slight push-in, ad-grade clean lighting, preserving details of steam, water droplets, and ingredient surfaces. No subtitles, no text, no logos, no watermarks, no brands, no voiceovers, no music, only retain slight realistic kitchen ambient sounds. Do not show extra ingredients, do not let food float, do not jump to plating the finished product, do not show incorrect fingers or deformed tools.
+
+## Segment 2
+
+Generate a 10-second, 9:16 vertical, high-end food advertising quality video clip. The dish is "Salt and Pepper Fresh Squid Tentacles." The task for this segment is seasoning the blanched squid tentacles, adding egg liquid, coating with powder, and preparing for deep-frying.
+
+Please refer to the uploaded video scene-02.mp4 and 5 reference images 01.jpg to 05.jpg simultaneously: 01 refers to the milky light pink color of squid tentacles in the blanching pot; 02 refers to the state of adding seasonings and egg liquid to squid tentacles in a glass bowl; 03 refers to the powdery feel after adding starch; 04 refers to the action of hand-mixing the squid tentacles; 05 refers to the hot oil wok and the environment before the powdered ingredients enter the oil. Reference materials are only used for actions and ingredient states; do not copy the original video's text, watermarks, author identifiers, horizontal borders, or character identities.
+
+Keep the same kitchen set as Segment 1, the same black honeycomb-patterned wok, the same transparent glass bowl, and stainless steel countertop. The form of the squid tentacles must remain consistent: slender, naturally curled, with suckers, mostly long segments, some roots slightly thicker, colored milky light pink after blanching; they cannot become squid rings, cubed meat, chicken chunks, shrimp, or regular noodles. After coating, there should be a thin, not completely uniform layer of white powder, allowing the outline of the tentacles and sucker undulations to be seen; do not coat them into a huge dough ball.
+
+0-3 seconds: Steam dissipates in the pot, blanched squid tentacles are lifted from hot water, surface carrying moisture, falling into a transparent glass bowl. 3-6 seconds: Add egg liquid, fine powder, and a little red seasoning to the squid tentacles, camera close to the bowl rim, forming slight dust clouds when powder falls, tentacles still clearly distinguishable. 6-8 seconds: Hands gently mix in the glass bowl, ensuring egg liquid and powder evenly coat every squid tentacle, tentacles intertwine but do not clump into a paste. 8-10 seconds: Switch to hot oil in the black wok, oil surface slightly churning, coated squid tentacles visible nearby ready to enter the pot, ending at the state just before deep-frying, connecting to the next segment.
+
+Cinematography requirements: Clean and bright commercial food photography, shallow depth of field but clear actions, realistic powder, egg liquid, steam, and oil gloss. No subtitles, no text, no logos, no watermarks, no brands, no voiceovers, no music, only retain slight realistic kitchen ambient sounds. Do not let seasonings appear out of nowhere; every material must be added naturally through actions from bowls, spoons, or hands. Do not prematurely show the fried golden finished product, do not show extra tableware or irrelevant ingredients.
+
+## Segment 3
+
+Generate a 10-second, 9:16 vertical, high-end food advertising quality video clip. The dish is "Salt and Pepper Fresh Squid Tentacles." The task for this segment is to put the coated squid tentacles into the wok for deep-frying, showing the transformation from light-colored powder coating to golden brown and crispy.
+
+Please refer to the uploaded video scene-03.mp4 and 5 reference images 01.jpg to 05.jpg simultaneously: 01 refers to the moment coated squid tentacles enter the oil; 02 refers to the position of the hot oil wok, strainer, and stirring; 03 refers to the heat level with oil bubbles covering the squid tentacles; 04 refers to dense oil bubbles during double-frying; 05 refers to the state of golden yellow squid tentacles being lifted from the oil wok. Reference materials are only used for action sequence, bubble state, and doneness of squid tentacles; do not copy the original video's text, watermarks, author identifiers, or horizontal composition.
+
+Keep the same black honeycomb-patterned wok, the same round metal strainer, and the same stainless steel stove environment. The form of the squid tentacles must be exactly the same as the previous two segments: slender, naturally curved, with suckers, some curling into arcs, some with slightly thicker roots, forming a thin and rough golden powder coating on the outer layer after frying; they cannot become squid rings, thick octopus legs, chicken fillets, fries, shrimp sticks, or balls. The fried color is between light golden and deep golden, edges slightly wrinkled and crispy, but not burnt black.
+
+0-3 seconds: Coated squid tentacles slide naturally from the strainer or hand side into hot oil, oil surface quickly bubbles up, tentacles still carry light white powder coating, camera close to the wok edge but not blocking the action. 3-6 seconds: Squid tentacles tumble in oil bubbles, chopsticks or strainer gently stir to separate them, several tentacles gradually bend and set, color changing from light white to pale golden. 6-8 seconds: Show re-frying or continued high-temperature frying, oil bubbles become denser, squid tentacle surfaces become dry and rough, golden edges clear. 8-10 seconds: Metal strainer lifts fried squid tentacles from the oil wok, oil drops naturally fall back into the pot, squid tentacles present a fluffy, crispy, naturally curled mass, ending at the oil-draining state, connecting to the next segment for returning to the wok to stir-fry aromatics.
+
+Cinematography requirements: Realistic texture of oil bubbles, steam, oil drops, and golden powder coating, appetizing visuals but not oversaturated, camera can slightly follow the lifting of the strainer. No subtitles, no text, no logos, no watermarks, no brands, no voiceovers, no music, only retain slight realistic kitchen ambient sounds. Do not show exaggerated large flames engulfing the wok surface, do not let squid tentacles cook instantly out of nowhere, do not let food float, do not change the length and thickness of the squid tentacles.
+
+## Segment 4
+
+Generate a 10-second, 9:16 vertical, high-end food advertising quality video clip. The dish is "Salt and Pepper Fresh Squid Tentacles." The task for this segment is to stir-fry aromatics, return the fried squid tentacles to the wok to toss evenly, sprinkle salt and pepper, and present the finished product.
+
+Please refer to the uploaded video scene-04.mp4 and 5 reference images 01.jpg to 05.jpg simultaneously: 01 refers to residual oil and spatula in the black wok; 02 refers to the state of sautéing minced garlic, red pepper granules, and green pepper granules until fragrant; 03 refers to pouring the fried squid tentacles back into the wok; 04 refers to strong wok breath and quick stir-frying; 05 refers to the stacking, color, and crispy texture of the final golden finished product. Reference materials are only used for actions, ingredient states, and finished product texture; do not copy the original video's text, watermarks, author identifiers, or horizontal composition.
+
+Keep the same kitchen, same black honeycomb-patterned wok, same spatula, and same batch of fried squid tentacles as the first three segments. The finished squid tentacles must be slender, naturally curled, salt-and-pepper fresh squid tentacles with sucker textures, surface golden and crispy, mixed with fine red pepper granules, green pepper granules, and minced garlic; they cannot become squid rings, octopus tentacles, meat chunks, shrimp, or neat strip snacks. The portion should have the fullness of a plate of dishes, stacked naturally, not too sparse.
+
+0-3 seconds: Leave a small amount of oil in the black wok, add minced garlic, red pepper granules, and green pepper granules, lightly push with the spatula, aromatics release fragrance, colors distinctively red and green. 3-6 seconds: Fried golden squid tentacles are naturally poured from a metal strainer or small basin into the wok, spatula quickly tosses, making aromatics stick to the squid tentacle surface, source of food must be clear, cannot appear out of nowhere. 6-8 seconds: Sprinkle fine salt and pepper, spatula tosses two or three times, squid tentacles remain fluffy and crispy, red and green granules distributed evenly, slight wok breath allowed but not excessive flames. 8-10 seconds: Switch to close-up of finished product, golden salt-and-pepper fresh squid tentacles piled in a clean light-colored plate, sucker textures, crispy edges, red and green pepper granules, and garlic particles clearly visible, ending with a stable hero shot suitable for subsequent cover candidates.
+
+Cinematography requirements: Ad-grade warm light, clean highlights, realistic oily but not greasy appearance, shallow depth of field highlighting the finished product, continuous actions. No subtitles, no text, no logos, no watermarks, no brands, no voiceovers, no music, only retain slight realistic kitchen ambient sounds. Do not show extra side dishes, do not show rice, wine glasses, or people's faces, do not make the finished product color too red or burnt black, do not change the established shape of the squid tentacles.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100189918064701440/img/nB0Pp6mKiLL9mGBx.jpg" width="600" alt="High-End Food Ad Video Prompt for Gemini Omni">
+
+**[🎬 Watch Video →](https://x.com/7998l201/status/2100190123824714108)**
+
+**Author:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2100190123824714108) | **Published:** Sep 16, 2026
+
+---
+### Autumn Travel Poster Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Creation of a travel poster animation using Nano Banana 2 for reference and Gemini Omni Flash for generation.
+
+#### 📝 Prompt
+
+```
+A travel video poster. Put together in five minutes. Welcome to… the autumn vibe of my country
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100175485422485504/img/HBDl9P1MDTwJMjuP.jpg" width="600" alt="Autumn Travel Poster Animation">
+
+**[🎬 Watch Video →](https://x.com/Colorinmyspirit/status/2100175537654182360)**
+
+**Author:** [Larisa Shutova / Larysa Shutava](https://x.com/Colorinmyspirit) | **Source:** [Link](https://x.com/Colorinmyspirit/status/2100175537654182360) | **Published:** Sep 16, 2026
+
+---
 ### Lady Dress Transformation Prompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3042,82 +3172,6 @@ TITLE:\nPremium Tomato Ketchup Product Commercial Storyboard\n\nFORMAT:\n• Sin
 **Author:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Source:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Published:** Aug 17, 2026
 
 ---
-### Bolivian Salt Flats Mirror Sunrise
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A minimalist video prompt for a mirrored sunrise over the flooded Bolivian salt flats with vast negative space.
-
-#### 📝 Prompt
-
-```
-Seamless loop, static wide horizon shot across the flooded Bolivian salt flats. A thin layer of still water perfectly mirrors pastel pink and lavender sunrise clouds drifting imperceptibly across the sky. Vast negative space, ethereal minimalism.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Bolivian Salt Flats Mirror Sunrise">
-
-**[🎬 Watch Video →](https://x.com/genevieve__h/status/2089068330225221876)**
-
-**Author:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Published:** Aug 16, 2026
-
----
-### Ghibli Style Koi Pond Loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A beautiful Studio Ghibli inspired video prompt featuring koi fish swimming in a watercolor pond with dappled sunlight.
-
-#### 📝 Prompt
-
-```
-Seamless loop, static top-down view of a clear garden pond in Studio Ghibli watercolor anime style. colorful koi fish slowly circling beneath floating lily pads. Gentle water ripples, dappled sunlight filtering through maple leaves, soft pastel colors, calm ambient motion.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Ghibli Style Koi Pond Loop">
-
-**[🎬 Watch Video →](https://x.com/genevieve__h/status/2089068327691862357)**
-
-**Author:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Published:** Aug 16, 2026
-
----
-### Zero Gravity Glass Ribbon Loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An abstract hypnotic video prompt of a refractive glass ribbon floating in zero gravity against a dark background.
-
-#### 📝 Prompt
-
-```
-Seamless loop, locked-off camera view of a transparent, refractive glass ribbon slowly undulating in zero gravity across an obsidian background. Subtle chromatic aberration along the edges, gentle caustics, slow and hypnotic movement, high negative space for UI.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Zero Gravity Glass Ribbon Loop">
-
-**[🎬 Watch Video →](https://x.com/genevieve__h/status/2089068325493944435)**
-
-**Author:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Published:** Aug 16, 2026
-
----
-### Double-Exposure Silhouette Forest Loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A surreal double-exposure video prompt showing a misty pine forest within a person's dark silhouette.
-
-#### 📝 Prompt
-
-```
-Seamless loop. Static locked-off profile silhouette of a person against a soft, misty bone-white background. Double-exposure effect: inside the dark silhouette, a dense Pacific Northwest pine forest is visible, with layers of white mountain fog slowly drifting through
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Double-Exposure Silhouette Forest Loop">
-
-**[🎬 Watch Video →](https://x.com/genevieve__h/status/2089068323132649758)**
-
-**Author:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Published:** Aug 16, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3170,6 +3224,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-17T03:31:44.285Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-17T09:13:06.255Z</sub>
 
 </div>

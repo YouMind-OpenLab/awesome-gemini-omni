@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **271** |
+| 📝 Total des prompts | **275** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-09-17** |
 
@@ -56,6 +56,136 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Transformation d'image en vidéo avec Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Instruction de prompt spécifique pour utiliser Gemini Omni Flash (via Adobe Firefly) afin de transformer une image téléchargée en vidéo avec des changements inattendus.
+
+#### 📝 Prompt
+
+```
+Utilisez l'image comme première frame et faites-la se transformer en quelque chose d'inattendu.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100233684162924544/img/26f64H7JBlLZF2vN.jpg" width="600" alt="Transformation d'image en vidéo avec Gemini Omni">
+
+**[🎬 Voir la vidéo →](https://x.com/zeng_wt/status/2100233714345160937)**
+
+**Auteur:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Source:** [Link](https://x.com/zeng_wt/status/2100233714345160937) | **Publié:** Sep 16, 2026
+
+---
+### Scène vidéo du sillage des ferries dans le Pacifique Nord-Ouest
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Une scène descriptive pour la génération de vidéos mettant en vedette le sillage des ferries, la brume et l'éclairage de la baie d'Elliott, créée avec Gemini Omni 1.1 Flash.
+
+#### 📝 Prompt
+
+```
+Sillage du ferry. Brume légère. La baie d'Elliott avant que le jour ne se réveille.
+
+Gemini Omni 1.1 Flash sur Buble — les reflets dorés du Pacifique Nord-Ouest sur une eau bleu-gris, une lumière paisible du quai qui donne déjà l'impression d'une ouverture de marque.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2100219289315811328/pu/img/v4VJgxHzcbvcsfJ3.jpg" width="600" alt="Scène vidéo du sillage des ferries dans le Pacifique Nord-Ouest">
+
+**[🎬 Voir la vidéo →](https://x.com/itsBubleAI/status/2100219309624565969)**
+
+**Auteur:** [Buble AI](https://x.com/itsBubleAI) | **Source:** [Link](https://x.com/itsBubleAI/status/2100219309624565969) | **Publié:** Sep 16, 2026
+
+---
+### Prompt Vidéo Publicitaire Culinaire Haut de Gamme pour Gemini Omni
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Une série complète de prompts pour la création d'une vidéo publicitaire haut de gamme en quatre parties mettant en vedette des tentacules de calamar au sel et poivre. Elle détaille les étapes spécifiques de cuisson (nettoyage, découpe, blanchiment, enrobage, friture) avec des exigences strictes de cohérence visuelle et des instructions sur l'utilisation d'images et de vidéos de référence.
+
+#### 📝 Prompt
+
+```
+Générez une publicité culinaire haut de gamme à l'aide de Omni 1.1 Flash.
+
+# Tentacules de Calamar Frais au Sel et Poivre | Quatre Prompts de Génération Complets
+
+Exigences générales : Les quatre segments doivent générer des vidéos verticales de 10 secondes, au format 9:16, de qualité publicitaire haut de gamme. Maintenez le même environnement de cuisine, le même plan de travail en acier inoxydable, le même wok noir à motif nid d'abeille et le même lot de tentacules de calamar frais. Les tentacules doivent être de vrais tentacules de calamar frais, fins, naturellement courbés, avec des ventouses visibles, et ne pas avoir une épaisseur parfaitement uniforme ; après friture, ils doivent être dorés, croustillants et naturellement recourbés. Ils ne peuvent pas se transformer en anneaux de calamar, gros tentacules de poulpe, crevettes, morceaux de poulet, lamelles de viande, frites ou nouilles ordinaires. Pas de sous-titres, pas de texte, pas de logos, pas de filigranes, pas de marques, pas de voix off, pas de musique tout au long de la vidéo.
+
+## Segment 1
+
+Générez un clip vidéo vertical de 10 secondes, au format 9:16, de qualité publicitaire haut de gamme. Le plat est "Tentacules de Calamar Frais au Sel et Poivre". La tâche de ce segment consiste à traiter, découper et blanchir brièvement les tentacules de calamar frais pour préparer l'assaisonnement et l'enrobage ultérieurs.
+
+Veuillez vous référer simultanément à la vidéo téléversée scene-01.mp4 et aux 5 images de référence 01.jpg à 05.jpg : 01 fait référence à l'état de lavage et trempage des tentacules de calamar frais dans l'eau ; 02 fait référence à la couleur rose-blanc pâle et à la courbure naturelle après égouttage des tentacules ; 03 fait référence à l'action de couper les tentacules sur une planche à découper ronde en bois ; 04 fait référence à la taille des dés de poivrons rouges et verts ; 05 fait référence à la transition entre le hachage de l'ail et le blanchiment dans la casserole. Les documents de référence servent uniquement à comprendre les formes des ingrédients et les actions ; ne copiez pas le texte, les filigranes, les identifiants d'auteur, les identités des personnages ou la composition horizontale de la vidéo originale.
+
+Maintenez le même environnement de cuisine réaliste dans le cadre : plan de travail en acier inoxydable, épaisse planche à découper ronde en bois, wok noir à motif nid d'abeille, bol d'assaisonnement en verre, éclairage latéral naturel blanc chaud. Les tentacules de calamar frais doivent être fins, souples, avec des ventouses, et naturellement courbés, avec des brins d'épaisseur inégale et quelques connexions racinaires ; ils ne peuvent pas devenir des anneaux de calamar, de gros tentacules de poulpe, des crevettes, des lamelles de viande ou des nouilles blanches nettes. Les tentacules coupés doivent rester des segments longs naturels d'environ 6 à 10 cm, avec des bords légèrement recourbés ; ne les coupez pas en petits dés.
+
+0-3 secondes : Gros plan, eau claire ondulant doucement dans un bol en verre, mains soulevant les tentacules de calamar frais, qui sont humides et brillants, avec des ventouses clairement visibles. 3-6 secondes : Passage à la planche à découper ronde en bois, un couteau de chef coupe sans effort depuis la base des tentacules en longs segments naturels, le mouvement est net et précis, gardant les tentacules fins et courbés. 6-8 secondes : Les poivrons rouges, les poivrons verts et l'ail sont hachés en fines granules, les couleurs sont vives mais pas sursaturées. 8-10 secondes : L'eau dans le wok noir mijote, les tentacules de calamar sont brièvement blanchis, la vapeur monte, et les tentacules changent progressivement de transparent rose clair à rose laiteux clair, finissant à l'état où les tentacules viennent juste de changer de couleur, se connectant au segment suivant pour le retrait et l'assaisonnement.
+
+Exigences cinématographiques : Mouvements réels des mains, proportions alimentaires précises, plans principalement en gros plans moyens et en plongée rapprochée, léger zoom avant, éclairage propre de niveau publicitaire, préservant les détails de la vapeur, des gouttelettes d'eau et des surfaces des ingrédients. Pas de sous-titres, pas de texte, pas de logos, pas de filigranes, pas de marques, pas de voix off, pas de musique, conservez uniquement de légers sons ambiants réalistes de cuisine. Ne montrez pas d'ingrédients supplémentaires, ne laissez pas la nourriture flotter, ne sautez pas au dressage du produit fini, ne montrez pas de doigts incorrects ou d'outils déformés.
+
+## Segment 2
+
+Générez un clip vidéo vertical de 10 secondes, au format 9:16, de qualité publicitaire haut de gamme. Le plat est "Tentacules de Calamar Frais au Sel et Poivre". La tâche de ce segment consiste à assaisonner les tentacules de calamar blanchis, ajouter du liquide d'œuf, les enrober de poudre et préparer la friture profonde.
+
+Veuillez vous référer simultanément à la vidéo téléversée scene-02.mp4 et aux 5 images de référence 01.jpg à 05.jpg : 01 fait référence à la couleur rose laiteux clair des tentacules de calamar dans la casserole de blanchiment ; 02 fait référence à l'état d'ajout d'assaisonnements et de liquide d'œuf aux tentacules de calamar dans un bol en verre ; 03 fait référence à la texture poudreuse après ajout de fécule ; 04 fait référence à l'action de mélanger les tentacules de calamar à la main ; 05 fait référence au wok d'huile chaude et à l'environnement avant que les ingrédients poudrés n'entrent dans l'huile. Les documents de référence servent uniquement aux actions et aux états des ingrédients ; ne copiez pas le texte, les filigranes, les identifiants d'auteur, les bordures horizontales ou les identités des personnages de la vidéo originale.
+
+Gardez le même décor de cuisine que le Segment 1, le même wok noir à motif nid d'abeille, le même bol en verre transparent et le comptoir en acier inoxydable. La forme des tentacules de calamar doit rester cohérente : fins, naturellement recourbés, avec des ventouses, principalement des longs segments, certaines racines légèrement plus épaisses, colorés en rose laiteux clair après blanchiment ; ils ne peuvent pas devenir des anneaux de calamar, de la viande en cubes, des morceaux de poulet, des crevettes ou des nouilles ordinaires. Après enrobage, il devrait y avoir une fine couche de poudre blanche, pas complètement uniforme, permettant de voir le contour des tentacules et les ondulations des ventouses ; ne les enrobez pas en une énorme boule de pâte.
+
+0-3 secondes : La vapeur se dissipe dans la casserole, les tentacules de calamar blanchis sont retirés de l'eau chaude, surface portant de l'humidité, tombant dans un bol en verre transparent. 3-6 secondes : Ajoutez du liquide d'œuf, de la poudre fine et un peu d'assaisonnement rouge aux tentacules de calamar, caméra proche du rebord du bol, formant de légers nuages de poussière lorsque la poudre tombe, les tentacules restent clairement distinguables. 6-8 secondes : Les mains mélangent doucement dans le bol en verre, assurant que le liquide d'œuf et la poudre enrobent uniformément chaque tentacule de calamar, les tentacules s'entrelacent mais ne forment pas une pâte collante. 8-10 secondes : Passage à l'huile chaude dans le wok noir, surface de l'huile légèrement agitée, tentacules de calamar enrobés visibles à proximité prêts à entrer dans la casserole, finissant à l'état juste avant la friture profonde, se connectant au segment suivant.
+
+Exigences cinématographiques : Photographie alimentaire commerciale propre et lumineuse, faible profondeur de champ mais actions claires, poudre réaliste, liquide d'œuf, vapeur et brillance de l'huile. Pas de sous-titres, pas de texte, pas de logos, pas de filigranes, pas de marques, pas de voix off, pas de musique, conservez uniquement de légers sons ambiants réalistes de cuisine. Ne laissez pas les assaisonnements apparaître de nulle part ; chaque matériau doit être ajouté naturellement par des actions provenant de bols, de cuillères ou de mains. Ne montrez pas prématurément le produit fini doré frit, ne montrez pas de vaisselle supplémentaire ou d'ingrédients non pertinents.
+
+## Segment 3
+
+Générez un clip vidéo vertical de 10 secondes, au format 9:16, de qualité publicitaire haut de gamme. Le plat est "Tentacules de Calamar Frais au Sel et Poivre". La tâche de ce segment consiste à mettre les tentacules de calamar enrobés dans le wok pour la friture profonde, montrant la transformation de l'enrobage de poudre claire à doré brun et croustillant.
+
+Veuillez vous référer simultanément à la vidéo téléversée scene-03.mp4 et aux 5 images de référence 01.jpg à 05.jpg : 01 fait référence au moment où les tentacules de calamar enrobés entrent dans l'huile ; 02 fait référence à la position du wok d'huile chaude, de l'écumoire et du remuage ; 03 fait référence au niveau de chaleur avec des bulles d'huile couvrant les tentacules de calamar ; 04 fait référence aux bulles d'huile denses lors de la double friture ; 05 fait référence à l'état des tentacules de calamar jaunes dorés étant soulevés du wok d'huile. Les documents de référence servent uniquement à la séquence d'actions, à l'état des bulles et à la cuisson des tentacules de calamar ; ne copiez pas le texte, les filigranes, les identifiants d'auteur ou la composition horizontale de la vidéo originale.
+
+Gardez le même wok noir à motif nid d'abeille, la même écumoire métallique ronde et le même environnement de cuisinière en acier inoxydable. La forme des tentacules de calamar doit être exactement la même que dans les deux segments précédents : fins, naturellement courbés, avec des ventouses, certains se recourbant en arcs, certains avec des racines légèrement plus épaisses, formant une couche extérieure mince et rugueuse de poudre dorée après friture ; ils ne peuvent pas devenir des anneaux de calamar, de grosses pattes de poulpe, des filets de poulet, des frites, des bâtonnets de crevettes ou des boules. La couleur frite est entre doré clair et doré profond, les bords légèrement ridés et croustillants, mais pas brûlés noirs.
+
+0-3 secondes : Les tentacules de calamar enrobés glissent naturellement depuis l'écumoire ou le côté de la main dans l'huile chaude, la surface de l'huile bouillonne rapidement, les tentacules portent encore un léger enrobage de poudre blanche, caméra proche du bord du wok mais ne bloquant pas l'action. 3-6 secondes : Les tentacules de calamar tournent dans les bulles d'huile, baguettes ou écumoire remuent doucement pour les séparer, plusieurs tentacules se courbent et se figent progressivement, la couleur changeant de blanc clair à doré pâle. 6-8 secondes : Montrez la re-friture ou la poursuite de la friture à haute température, les bulles d'huile deviennent plus denses, les surfaces des tentacules de calamar deviennent sèches et rugueuses, les bords dorés sont nets. 8-10 secondes : L'écumoire métallique soulève les tentacules de calamar frits hors du wok d'huile, les gouttes d'huile retombent naturellement dans la casserole, les tentacules de calamar présentent une masse moelleuse, croustillante et naturellement recourbée, finissant à l'état d'égouttage, se connectant au segment suivant pour retourner dans le wok pour faire sauter les aromates.
+
+Exigences cinématographiques : Texture réaliste des bulles d'huile, de la vapeur, des gouttes d'huile et de l'enrobage de poudre dorée, visuels appétissants mais pas sursaturés, la caméra peut suivre légèrement la levée de l'écumoire. Pas de sous-titres, pas de texte, pas de logos, pas de filigranes, pas de marques, pas de voix off, pas de musique, conservez uniquement de légers sons ambiants réalistes de cuisine. Ne montrez pas de grandes flammes exagérées enveloppant la surface du wok, ne laissez pas les tentacules de calamar cuire instantanément de nulle part, ne laissez pas la nourriture flotter, ne changez pas la longueur et l'épaisseur des tentacules de calamar.
+
+## Segment 4
+
+Générez un clip vidéo vertical de 10 secondes, au format 9:16, de qualité publicitaire haut de gamme. Le plat est "Tentacules de Calamar Frais au Sel et Poivre". La tâche de ce segment consiste à faire sauter les aromates, retourner les tentacules de calamar frits dans le wok pour bien mélanger, saupoudrer de sel et de poivre, et présenter le produit fini.
+
+Veuillez vous référer simultanément à la vidéo téléversée scene-04.mp4 et aux 5 images de référence 01.jpg à 05.jpg : 01 fait référence à l'huile résiduelle et à la spatule dans le wok noir ; 02 fait référence à l'état de faire revenir l'ail haché, les granules de poivron rouge et les granules de poivron vert jusqu'à ce qu'ils soient parfumés ; 03 fait référence à verser les tentacules de calamar frits de nouveau dans le wok ; 04 fait référence à un fort souffle de wok (wok hei) et à une cuisson rapide ; 05 fait référence à l'empilement, à la couleur et à la texture croustillante du produit fini doré final. Les documents de référence servent uniquement aux actions, aux états des ingrédients et à la texture du produit fini ; ne copiez pas le texte, les filigranes, les identifiants d'auteur ou la composition horizontale de la vidéo originale.
+
+Gardez la même cuisine, le même wok noir à motif nid d'abeille, la même spatule et le même lot de tentacules de calamar frits que les trois premiers segments. Les tentacules de calamar finis doivent être des tentacules de calamar frais au sel et poivre fins, naturellement recourbés avec des textures de ventouses, surface dorée et croustillante, mélangés avec de fins granules de poivron rouge, de poivron vert et de l'ail haché ; ils ne peuvent pas devenir des anneaux de calamar, des tentacules de poulpe, des morceaux de viande, des crevettes ou des snacks en bandes nettes. La portion doit avoir la plénitude d'une assiette de plats, empilée naturellement, pas trop clairsemée.
+
+0-3 secondes : Laissez une petite quantité d'huile dans le wok noir, ajoutez l'ail haché, les granules de poivron rouge et les granules de poivron vert, poussez légèrement avec la spatule, les aromates libèrent leur parfum, les couleurs sont distinctement rouges et vertes. 3-6 secondes : Les tentacules de calamar frits dorés sont naturellement versés depuis une écumoire métallique ou un petit bassin dans le wok, la spatule remue rapidement, faisant adhérer les aromates à la surface des tentacules de calamar, la source de la nourriture doit être claire, ne peut pas apparaître de nulle part. 6-8 secondes : Saupoudrez de sel fin et de poivre, la spatule remue deux ou trois fois, les tentacules de calamar restent moelleux et croustillants, les granules rouges et verts sont distribués uniformément, un léger souffle de wok est autorisé mais pas de flammes excessives. 8-10 secondes : Passage à un gros plan du produit fini, les tentacules de calamar frais au sel et poivre dorés sont empilés dans une assiette claire propre, les textures des ventouses, les bords croustillants, les granules de poivron rouge et vert et les particules d'ail sont clairement visibles, finissant avec un plan héroïque stable adapté aux candidats de couverture ultérieurs.
+
+Exigences cinématographiques : Lumière chaude de niveau publicitaire, reflets propres, aspect huileux réaliste mais pas gras, faible profondeur de champ mettant en valeur le produit fini, actions continues. Pas de sous-titres, pas de texte, pas de logos, pas de filigranes, pas de marques, pas de voix off, pas de musique, conservez uniquement de légers sons ambiants réalistes de cuisine. Ne montrez pas de plats d'accompagnement supplémentaires, ne montrez pas de riz, de verres à vin ou de visages de personnes, ne rendez pas la couleur du produit fini trop rouge ou brûlée noire, ne changez pas la forme établie des tentacules de calamar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100189918064701440/img/nB0Pp6mKiLL9mGBx.jpg" width="600" alt="Prompt Vidéo Publicitaire Culinaire Haut de Gamme pour Gemini Omni">
+
+**[🎬 Voir la vidéo →](https://x.com/7998l201/status/2100190123824714108)**
+
+**Auteur:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2100190123824714108) | **Publié:** Sep 16, 2026
+
+---
+### Animation d'affiche de voyage automnal
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Création d'une animation d'affiche de voyage en utilisant Nano Banana 2 pour la référence et Gemini Omni Flash pour la génération.
+
+#### 📝 Prompt
+
+```
+Une affiche vidéo de voyage. Réalisée en cinq minutes. Bienvenue dans… l'ambiance automnale de mon pays
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100175485422485504/img/HBDl9P1MDTwJMjuP.jpg" width="600" alt="Animation d'affiche de voyage automnal">
+
+**[🎬 Voir la vidéo →](https://x.com/Colorinmyspirit/status/2100175537654182360)**
+
+**Auteur:** [Larisa Shutova / Larysa Shutava](https://x.com/Colorinmyspirit) | **Source:** [Link](https://x.com/Colorinmyspirit/status/2100175537654182360) | **Publié:** Sep 16, 2026
+
+---
 ### Prompt de transformation en robe féminine
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3110,82 +3240,6 @@ STYLE : Photographie culinaire ultra-réaliste, texture de ketchup brillante, ph
 **Auteur:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Source:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Publié:** Aug 17, 2026
 
 ---
-### Lever de soleil en miroir sur le salar de Bolivie
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo minimaliste pour un lever de soleil en miroir au-dessus du salar inondé de Bolivie, avec un vaste espace négatif.
-
-#### 📝 Prompt
-
-```
-Boucle fluide, plan large et statique de l'horizon sur le salar inondé de Bolivie. Une fine couche d'eau immobile reflète parfaitement les nuages rose pastel et lavande du lever de soleil qui dérivent imperceptiblement dans le ciel. Vaste espace négatif, minimalisme éthéré.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Lever de soleil en miroir sur le salar de Bolivie">
-
-**[🎬 Voir la vidéo →](https://x.com/genevieve__h/status/2089068330225221876)**
-
-**Auteur:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Publié:** Aug 16, 2026
-
----
-### Boucle d'étang à carpes koï style Ghibli
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un magnifique prompt vidéo inspiré du Studio Ghibli représentant des carpes koï nageant dans un étang à l'aquarelle sous une lumière tamisée.
-
-#### 📝 Prompt
-
-```
-Boucle fluide, vue plongeante statique sur un étang de jardin limpide dans le style anime aquarelle du Studio Ghibli. Des carpes koï colorées tournent lentement sous des nénuphars flottants. Ondulations douces à la surface de l'eau, lumière du soleil filtrée à travers les feuilles d'érable, couleurs pastel douces, mouvement ambiant apaisant.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Boucle d'étang à carpes koï style Ghibli">
-
-**[🎬 Voir la vidéo →](https://x.com/genevieve__h/status/2089068327691862357)**
-
-**Auteur:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Publié:** Aug 16, 2026
-
----
-### Ruban de verre en apesanteur
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo abstrait et hypnotique représentant un ruban de verre réfractif flottant en apesanteur sur un fond sombre.
-
-#### 📝 Prompt
-
-```
-Boucle fluide, vue de caméra fixe d'un ruban de verre transparent et réfractif ondulant lentement en apesanteur sur un fond obsidienne. Aberration chromatique subtile sur les bords, caustiques légères, mouvement lent et hypnotique, grand espace négatif pour l'interface utilisateur.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Ruban de verre en apesanteur">
-
-**[🎬 Voir la vidéo →](https://x.com/genevieve__h/status/2089068325493944435)**
-
-**Auteur:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Publié:** Aug 16, 2026
-
----
-### Boucle de silhouette en double exposition avec forêt
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt vidéo surréaliste en double exposition montrant une forêt de pins brumeuse à l'intérieur de la silhouette sombre d'une personne.
-
-#### 📝 Prompt
-
-```
-Boucle fluide. Silhouette de profil fixe d'une personne sur un fond blanc cassé doux et brumeux. Effet de double exposition : à l'intérieur de la silhouette sombre, une forêt dense de pins du nord-ouest du Pacifique est visible, avec des couches de brouillard de montagne blanc dérivant lentement.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Boucle de silhouette en double exposition avec forêt">
-
-**[🎬 Voir la vidéo →](https://x.com/genevieve__h/status/2089068323132649758)**
-
-**Auteur:** [genevieveh@](https://x.com/genevieve__h) | **Source:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Publié:** Aug 16, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -3238,6 +3292,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-17T03:32:00.597Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-17T09:13:21.116Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **271** |
+| 📝 Gesamtanzahl Prompts | **275** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-17** |
 
@@ -56,6 +56,136 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Gemini Omni Bild-zu-Video-Umwandlung
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine spezifische Prompt-Anweisung zur Verwendung von Gemini Omni Flash (über Adobe Firefly), um ein hochgeladenes Bild in ein Video mit unerwarteten Veränderungen zu verwandeln.
+
+#### 📝 Prompt
+
+```
+Verwenden Sie das Bild als ersten Frame und lassen Sie es sich in etwas Unerwartetes verwandeln.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100233684162924544/img/26f64H7JBlLZF2vN.jpg" width="600" alt="Gemini Omni Bild-zu-Video-Umwandlung">
+
+**[🎬 Video ansehen →](https://x.com/zeng_wt/status/2100233714345160937)**
+
+**Autor:** [𝐙𝐞𝐧𝐠 💜](https://x.com/zeng_wt) | **Quelle:** [Link](https://x.com/zeng_wt/status/2100233714345160937) | **Veröffentlicht:** Sep 16, 2026
+
+---
+### Video-Szene: Fährwasser im Pazifischen Nordwesten
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Eine beschreibende Szene für die Videogenerierung mit Fährwasser, Nebel und dem Licht der Elliott Bay, erstellt mit Gemini Omni 1.1 Flash.
+
+#### 📝 Prompt
+
+```
+Fährwasser. Sanfter Nebel. Die Elliott Bay, bevor der Tag erwacht.
+
+Gemini Omni 1.1 Flash auf Buble – das goldene Licht des Pazifischen Nordwestens auf graublauem Wasser, ruhiges Pier-Licht, das sich bereits wie ein Marken-Opening anfühlt.
+```
+
+<img src="https://pbs.twimg.com/ext_tw_video_thumb/2100219289315811328/pu/img/v4VJgxHzcbvcsfJ3.jpg" width="600" alt="Video-Szene: Fährwasser im Pazifischen Nordwesten">
+
+**[🎬 Video ansehen →](https://x.com/itsBubleAI/status/2100219309624565969)**
+
+**Autor:** [Buble AI](https://x.com/itsBubleAI) | **Quelle:** [Link](https://x.com/itsBubleAI/status/2100219309624565969) | **Veröffentlicht:** Sep 16, 2026
+
+---
+### Hochwertiger Video-Prompt für Lebensmittelwerbung mit Gemini Omni
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Eine umfassende Prompt-Serie zur Erstellung eines vierteiligen, hochwertigen Lebensmittelwerbevideos mit Salz-und-Pfeffer-Tintenfischtentakeln. Sie beschreibt spezifische Zubereitungsschritte (Reinigen, Schneiden, Blanchieren, Panieren, Frittieren) mit strengen Anforderungen an die visuelle Konsistenz und Anweisungen zur Verwendung von Referenzbildern/-videos.
+
+#### 📝 Prompt
+
+```
+Generiere einen hochwertigen Lebensmittelwerbespot mit Omni 1.1 Flash.
+
+# Salz-und-Pfeffer-Frische-Tintenfischtentakel | Vier vollständige chinesische Generierungs-Prompts
+
+Allgemeine Anforderungen: Alle vier Segmente sollen 10-sekündige Videos im Hochformat (9:16) in hochwertiger Werbequalität generieren. Bewahre dieselbe Küchenumgebung, dieselbe Edelstahl-Arbeitsplatte, denselben schwarzen Wok mit Honigwabenmuster und dieselbe Charge frischer Tintenfischtentakel bei. Die Tentakel müssen echte, frische Tintenfischtentakel sein – schlank, natürlich gebogen, mit Saugnäpfen und nicht perfekt gleichmäßig in der Dicke; nach dem Frittieren sollten sie goldbraun, knusprig und natürlich eingerollt sein. Sie dürfen sich nicht in Tintenfischringe, große Oktopustentakel, Garnelen, Hähnchenstücke, Fleischstreifen, Pommes oder normale Nudeln verwandeln. Keine Untertitel, kein Text, keine Logos, keine Wasserzeichen, keine Marken, keine Voiceovers, keine Musik während des gesamten Videos.
+
+## Segment 1
+
+Generiere ein 10-sekündiges Video im Hochformat (9:16) in hochwertiger Werbequalität. Das Gericht ist "Salz-und-Pfeffer-Frische-Tintenfischtentakel". Die Aufgabe dieses Segments ist das Verarbeiten, Schneiden und kurze Blanchieren der frischen Tintenfischtentakel zur Vorbereitung auf das anschließende Würzen und Panieren.
+
+Bitte beziehen Sie sich gleichzeitig auf das hochgeladene Video scene-01.mp4 und die 5 Referenzbilder 01.jpg bis 05.jpg: 01 zeigt den Zustand des Waschens und Einweichens der frischen Tintenfischtentakel in Wasser; 02 zeigt die blass rosa-weiße Farbe und natürliche Krümmung nach dem Abtropfen der Tentakel; 03 zeigt die Aktion des Schneidens der Tentakel auf einem runden Holzbrett; 04 zeigt die Größe der gewürfelten roten und grünen Paprika; 05 zeigt die Verbindung zwischen dem Hacken von Knoblauch und dem Blanchieren im Topf. Referenzmaterialien dienen nur zum Verständnis der Zutatenformen und Aktionen; kopieren Sie nicht den Text, die Wasserzeichen, Autorenidentifikatoren, Charakteridentitäten oder die horizontale Komposition des Originalvideos.
+
+Bewahren Sie dieselbe realistische Küchenumgebung im Bildrahmen: Edelstahl-Arbeitsplatte, dickes rundes Holzbrett, schwarzer Wok mit Honigwabenmuster, Glas-Gewürzschüssel, natürliches warmweißes Seitenlicht. Die frischen Tintenfischtentakel müssen schlank, weich, mit Saugnäpfen und natürlich gebogen sein, mit ungleichmäßig dicken Strängen und einigen Wurzelverbindungen; sie dürfen nicht zu Tintenfischringen, großen Oktopustentakeln, Garnelen, Fleischstreifen oder ordentlichen weißen Nudeln werden. Geschnittene Tintenfischtentakel sollten als natürliche lange Segmente von etwa 6–10 cm bleiben, mit leicht gerollten Rändern; schneiden Sie sie nicht in kleine Würfel.
+
+0–3 Sekunden: Nahaufnahme, klares Wasser schaukelt sanft in einer Glasschüssel, Hände heben frische Tintenfischtentakel heraus, die feucht und glänzend sind, mit deutlich sichtbaren Saugnäpfen. 3–6 Sekunden: Wechsel zum runden Holzbrett, ein Kochmesser schneidet sauber vom Fuß der Tentakel in natürliche lange Segmente, die Bewegung ist sauber und knackig, wobei die Tentakel schlank und gebogen bleiben. 6–8 Sekunden: Rote Paprika, grüne Paprika und Knoblauch werden fein gehackt, die Farben sind lebendig, aber nicht übersättigt. 8–10 Sekunden: Das Wasser im schwarzen Wok köchelt leicht, die Tintenfischtentakel werden kurz blanchiert, Dampf steigt auf, und die Tentakel verändern allmählich ihre Farbe von transparent hellrosa zu milchig hellrosa, endend im Zustand, in dem die Tentakel gerade ihre Farbe geändert haben, was an das nächste Segment zum Herausnehmen und Würzen überleitet.
+
+Kamerahandhabungsanforderungen: Echte Handbewegungen, genaue Lebensmittelproportionen, Aufnahmen hauptsächlich als mittlere Nahaufnahmen und Draufsicht-Nahaufnahmen, leichter Zoom-in, werbetaugliche saubere Beleuchtung, Erhaltung von Details wie Dampf, Wassertropfen und Zutatenoberflächen. Keine Untertitel, kein Text, keine Logos, keine Wasserzeichen, keine Marken, keine Voiceovers, keine Musik, behalten Sie nur leichte realistische Küchenumgebungsgeräusche bei. Zeigen Sie keine zusätzlichen Zutaten, lassen Sie keine Lebensmittel schweben, springen Sie nicht zum Anrichten des fertigen Produkts, zeigen Sie keine falschen Finger oder verformten Werkzeuge.
+
+## Segment 2
+
+Generiere ein 10-sekündiges Video im Hochformat (9:16) in hochwertiger Werbequalität. Das Gericht ist "Salz-und-Pfeffer-Frische-Tintenfischtentakel". Die Aufgabe dieses Segments ist das Würzen der blanchierten Tintenfischtentakel, das Hinzufügen von Ei, das Panieren mit Pulver und die Vorbereitung auf das Frittieren.
+
+Bitte beziehen Sie sich gleichzeitig auf das hochgeladene Video scene-02.mp4 und die 5 Referenzbilder 01.jpg bis 05.jpg: 01 zeigt die milchig hellrosa Farbe der Tintenfischtentakel im Blanchier-topf; 02 zeigt den Zustand des Hinzufügens von Gewürzen und Ei zu den Tintenfischtentakeln in einer Glasschüssel; 03 zeigt das pulverige Gefühl nach dem Hinzufügen von Stärke; 04 zeigt die Aktion des Mischens der Tintenfischtentakel mit der Hand; 05 zeigt den heißen Öl-Wok und die Umgebung, bevor die panierten Zutaten ins Öl gegeben werden. Referenzmaterialien dienen nur für Aktionen und Zutatenzustände; kopieren Sie nicht den Text, die Wasserzeichen, Autorenidentifikatoren, horizontalen Rahmen oder Charakteridentitäten des Originalvideos.
+
+Behalten Sie dasselbe Küchenset wie in Segment 1 bei, denselben schwarzen Wok mit Honigwabenmuster, dieselbe transparente Glasschüssel und dieselbe Edelstahl-Arbeitsplatte. Die Form der Tintenfischtentakel muss konsistent bleiben: schlank, natürlich eingerollt, mit Saugnäpfen, meist lange Segmente, einige Wurzeln etwas dicker, nach dem Blanchieren milchig hellrosa gefärbt; sie dürfen nicht zu Tintenfischringen, gewürfeltem Fleisch, Hähnchenstücken, Garnelen oder normalen Nudeln werden. Nach dem Panieren sollte eine dünne, nicht vollständig gleichmäßige Schicht aus weißem Pulver vorhanden sein, sodass die Konturen der Tentakel und die Unebenheiten der Saugnäpfe sichtbar bleiben; panieren Sie sie nicht zu einer riesigen Teigkugel.
+
+0–3 Sekunden: Der Dampf verfliegt im Topf, die blanchierten Tintenfischtentakel werden aus dem heißen Wasser gehoben, tragen Feuchtigkeit auf der Oberfläche und fallen in eine transparente Glasschüssel. 3–6 Sekunden: Fügen Sie Ei, feines Pulver und ein wenig rotes Gewürz zu den Tintenfischtentakeln hinzu, die Kamera nahe am Rand der Schüssel, bildet leichte Staubwolken, wenn das Pulver fällt, die Tentakel sind immer noch deutlich unterscheidbar. 6–8 Sekunden: Hände mischen vorsichtig in der Glasschüssel, um sicherzustellen, dass Ei und Pulver jede Tintenfischtentakel gleichmäßig bedecken, die Tentakel verflechten sich, klumpen aber nicht zu einer Paste zusammen. 8–10 Sekunden: Wechsel zum heißen Öl im schwarzen Wok, die Öloberfläche wälzt sich leicht, die panierten Tintenfischtentakel sind in der Nähe sichtbar, bereit in den Topf zu gehen, endend im Zustand kurz vor dem Frittieren, was an das nächste Segment überleitet.
+
+Kamerahandhabungsanforderungen: Saubere und helle kommerzielle Food-Fotografie, geringe Schärfentiefe, aber klare Aktionen, realistisches Pulver, Ei, Dampf und Ölglanz. Keine Untertitel, kein Text, keine Logos, keine Wasserzeichen, keine Marken, keine Voiceovers, keine Musik, behalten Sie nur leichte realistische Küchenumgebungsgeräusche bei. Lassen Sie keine Gewürze aus dem Nichts erscheinen; jedes Material muss natürlich durch Aktionen aus Schüsseln, Löffeln oder Händen hinzugefügt werden. Zeigen Sie nicht vorzeitig das frittierte goldene Fertigprodukt, zeigen Sie kein zusätzliches Geschirr oder irrelevante Zutaten.
+
+## Segment 3
+
+Generiere ein 10-sekündiges Video im Hochformat (9:16) in hochwertiger Werbequalität. Das Gericht ist "Salz-und-Pfeffer-Frische-Tintenfischtentakel". Die Aufgabe dieses Segments ist es, die panierten Tintenfischtentakel in den Wok zum Frittieren zu geben und die Verwandlung von heller Pulverpanade zu goldbraun und knusprig zu zeigen.
+
+Bitte beziehen Sie sich gleichzeitig auf das hochgeladene Video scene-03.mp4 und die 5 Referenzbilder 01.jpg bis 05.jpg: 01 zeigt den Moment, in dem die panierten Tintenfischtentakel ins Öl gleiten; 02 zeigt die Position des heißen Öl-Woks, des Siebs und des Umrührens; 03 zeigt die Hitzeintensität mit Ölblasen, die die Tintenfischtentakel bedecken; 04 zeigt dichte Ölblasen während des Doppel-Frittierens; 05 zeigt den Zustand der goldenen Tintenfischtentakel, die aus dem Öl-Wok gehoben werden. Referenzmaterialien dienen nur für die Aktionssequenz, den Blasenstatus und den Gargrad der Tintenfischtentakel; kopieren Sie nicht den Text, die Wasserzeichen, Autorenidentifikatoren oder die horizontale Komposition des Originalvideos.
+
+Behalten Sie denselben schwarzen Wok mit Honigwabenmuster, dasselbe runde Metallsieb und dieselbe Edelstahl-Herdumgebung bei. Die Form der Tintenfischtentakel muss genau derselbe sein wie in den beiden vorherigen Segmenten: schlank, natürlich gebogen, mit Saugnäpfen, einige rollen sich zu Bögen, einige haben etwas dickere Wurzeln, bilden nach dem Frittieren eine dünne und raue goldene Pulverpanade auf der Außenschicht; sie dürfen nicht zu Tintenfischringen, dicken Oktopusbeinen, Hähnchenfilets, Pommes, Garnelenstäbchen oder Bällchen werden. Die frittierte Farbe liegt zwischen hellgolden und tiefgolden, die Ränder sind leicht runzelig und knusprig, aber nicht schwarz verbrannt.
+
+0–3 Sekunden: Die panierten Tintenfischtentakel gleiten natürlich vom Sieb oder von der Handseite ins heiße Öl, die Öloberfläche sprudelt schnell auf, die Tentakel tragen immer noch eine leichte weiße Pulverpanade, die Kamera ist nahe am Wokrand, blockiert aber nicht die Aktion. 3–6 Sekunden: Die Tintenfischtentakel wälzen sich in den Ölblasen, Essstäbchen oder das Sieb rühren sanft um, um sie zu trennen, mehrere Tentakel biegen sich allmählich und setzen sich, die Farbe ändert sich von hellweiß zu blassgolden. 6–8 Sekunden: Zeigen Sie das Nachfrittieren oder das Fortsetzen des Frittierens bei hoher Temperatur, die Ölblasen werden dichter, die Oberflächen der Tintenfischtentakel werden trocken und rau, die goldenen Ränder sind klar. 8–10 Sekunden: Das Metallsieb hebt die frittierten Tintenfischtentakel aus dem Öl-Wok, Öltropfen fallen natürlich zurück in den Topf, die Tintenfischtentakel präsentieren sich als flaumige, knusprige, natürlich eingerollte Masse, endend im Zustand des Abtropfens, was an das nächste Segment zum Zurückgeben in den Wok zum Braten der Aromaten überleitet.
+
+Kamerahandhabungsanforderungen: Realistische Textur von Ölblasen, Dampf, Öltropfen und goldener Pulverpanade, appetitliche Visuals, aber nicht übersättigt, die Kamera kann leicht dem Heben des Siebs folgen. Keine Untertitel, kein Text, keine Logos, keine Wasserzeichen, keine Marken, keine Voiceovers, keine Musik, behalten Sie nur leichte realistische Küchenumgebungsgeräusche bei. Zeigen Sie keine übertriebenen großen Flammen, die die Wokoberfläche verschlingen, lassen Sie die Tintenfischtentakel nicht sofort aus dem Nichts garen, lassen Sie keine Lebensmittel schweben, ändern Sie nicht die Länge und Dicke der Tintenfischtentakel.
+
+## Segment 4
+
+Generiere ein 10-sekündiges Video im Hochformat (9:16) in hochwertiger Werbequalität. Das Gericht ist "Salz-und-Pfeffer-Frische-Tintenfischtentakel". Die Aufgabe dieses Segments ist das Braten der Aromaten, das Zurückgeben der frittierten Tintenfischtentakel in den Wok zum Durchmischen, das Bestreuen mit Salz und Pfeffer und das Präsentieren des fertigen Produkts.
+
+Bitte beziehen Sie sich gleichzeitig auf das hochgeladene Video scene-04.mp4 und die 5 Referenzbilder 01.jpg bis 05.jpg: 01 zeigt Restöl und Spatel im schwarzen Wok; 02 zeigt den Zustand des Anbratens von gehacktem Knoblauch, roten Paprikastückchen und grünen Paprikastückchen, bis sie duften; 03 zeigt das Eingießen der frittierten Tintenfischtentakel zurück in den Wok; 04 zeigt starke Wok-Luft (Wok-Hei) und schnelles Braten; 05 zeigt die Stapelung, Farbe und knusprige Textur des finalen goldenen Fertigprodukts. Referenzmaterialien dienen nur für Aktionen, Zutatenzustände und die Textur des Fertigprodukts; kopieren Sie nicht den Text, die Wasserzeichen, Autorenidentifikatoren oder die horizontale Komposition des Originalvideos.
+
+Behalten Sie dieselbe Küche, denselben schwarzen Wok mit Honigwabenmuster, denselben Spatel und dieselbe Charge frittierter Tintenfischtentakel wie in den ersten drei Segmenten bei. Die fertigen Tintenfischtentakel müssen schlank, natürlich eingerollte Salz-und-Pfeffer-Frische-Tintenfischtentakel mit Saugnapf-Texturen sein, die Oberfläche ist golden und knusprig, gemischt mit feinen roten Paprikastückchen, grünen Paprikastückchen und gehacktem Knoblauch; sie dürfen nicht zu Tintenfischringen, Oktopustentakeln, Fleischstücken, Garnelen oder ordentlichen Streifensnacks werden. Die Portion sollte die Fülle eines Tellers Gerichten haben, natürlich gestapelt, nicht zu spärlich.
+
+0–3 Sekunden: Lassen Sie eine kleine Menge Öl im schwarzen Wok, fügen Sie gehackten Knoblauch, rote Paprikastückchen und grüne Paprikastückchen hinzu, schieben Sie leicht mit dem Spatel, die Aromaten geben Duft ab, die Farben sind deutlich rot und grün. 3–6 Sekunden: Die frittierten goldenen Tintenfischtentakel werden natürlich aus einem Metallsieb oder einer kleinen Schüssel in den Wok gegossen, der Spatel wirft schnell um, sodass die Aromaten an der Oberfläche der Tintenfischtentakel haften, die Quelle der Lebensmittel muss klar sein, sie darf nicht aus dem Nichts erscheinen. 6–8 Sekunden: Streuen Sie feines Salz und Pfeffer darüber, werfen Sie mit dem Spatel zwei- oder dreimal um, die Tintenfischtentakel bleiben flaumig und knusprig, rote und grüne Stückchen sind gleichmäßig verteilt, leichte Wok-Luft ist erlaubt, aber keine übermäßigen Flammen. 8–10 Sekunden: Wechsel zur Nahaufnahme des Fertigprodukts, goldene Salz-und-Pfeffer-Frische-Tintenfischtentakel, gestapelt auf einem sauberen hellen Teller, Saugnapf-Texturen, knusprige Ränder, rote und grüne Paprikastückchen und Knoblauchpartikel sind deutlich sichtbar, endend mit einem stabilen Hero-Shot, der für nachfolgende Cover-Kandidaten geeignet ist.
+
+Kamerahandhabungsanforderungen: Werbetaugliches warmes Licht, saubere Highlights, realistisches öliges, aber nicht fettiges Aussehen, geringe Schärfentiefe, die das Fertigprodukt hervorhebt, kontinuierliche Aktionen. Keine Untertitel, kein Text, keine Logos, keine Wasserzeichen, keine Marken, keine Voiceovers, keine Musik, behalten Sie nur leichte realistische Küchenumgebungsgeräusche bei. Zeigen Sie keine zusätzlichen Beilagen, keinen Reis, keine Weingläser oder menschliche Gesichter, machen Sie die Farbe des Fertigprodukts nicht zu rot oder schwarz verbrannt, ändern Sie nicht die etablierte Form der Tintenfischtentakel.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100189918064701440/img/nB0Pp6mKiLL9mGBx.jpg" width="600" alt="Hochwertiger Video-Prompt für Lebensmittelwerbung mit Gemini Omni">
+
+**[🎬 Video ansehen →](https://x.com/7998l201/status/2100190123824714108)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Quelle:** [Link](https://x.com/7998l201/status/2100190123824714108) | **Veröffentlicht:** Sep 16, 2026
+
+---
+### Herbstreise-Poster-Animation
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Erstellung einer Reise-Poster-Animation mit Nano Banana 2 als Referenz und Gemini Omni Flash zur Generierung.
+
+#### 📝 Prompt
+
+```
+Ein Reisevideo-Poster. In fünf Minuten zusammengestellt. Willkommen bei… der Herbststimmung meines Landes
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100175485422485504/img/HBDl9P1MDTwJMjuP.jpg" width="600" alt="Herbstreise-Poster-Animation">
+
+**[🎬 Video ansehen →](https://x.com/Colorinmyspirit/status/2100175537654182360)**
+
+**Autor:** [Larisa Shutova / Larysa Shutava](https://x.com/Colorinmyspirit) | **Quelle:** [Link](https://x.com/Colorinmyspirit/status/2100175537654182360) | **Veröffentlicht:** Sep 16, 2026
+
+---
 ### Damenkleid-Umsetzungsprompt
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3110,82 +3240,6 @@ STIL: Ultrarealistische Food-Fotografie, glänzende Ketchup-Textur, realistische
 **Autor:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Quelle:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Veröffentlicht:** Aug 17, 2026
 
 ---
-### Sonnenaufgang im Spiegel der bolivianischen Salzwüste
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein minimalistischer Video-Prompt für einen gespiegelten Sonnenaufgang über der überfluteten bolivianischen Salzwüste mit viel negativem Raum.
-
-#### 📝 Prompt
-
-```
-Nahtlose Schleife, statische Weitwinkelaufnahme über der überfluteten bolivianischen Salzwüste. Eine dünne Schicht aus stillem Wasser spiegelt perfekt die pastellrosa und lavendelfarbenen Sonnenaufgangswolken wider, die unmerklich über den Himmel ziehen. Großer negativer Raum, ätherischer Minimalismus.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089066175850287106/img/J5dnM6HJO4nQ8oh7.jpg" width="600" alt="Sonnenaufgang im Spiegel der bolivianischen Salzwüste">
-
-**[🎬 Video ansehen →](https://x.com/genevieve__h/status/2089068330225221876)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Quelle:** [Link](https://x.com/genevieve__h/status/2089068330225221876) | **Veröffentlicht:** Aug 16, 2026
-
----
-### Koi-Teich-Loop im Ghibli-Stil
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein wunderschöner, von Studio Ghibli inspirierter Video-Prompt mit Koi-Fischen, die in einem Aquarell-Teich bei gesprenkeltem Sonnenlicht schwimmen.
-
-#### 📝 Prompt
-
-```
-Nahtloser Loop, statische Draufsicht auf einen klaren Gartenteich im Aquarell-Anime-Stil von Studio Ghibli. Bunte Koi-Fische ziehen langsam ihre Kreise unter schwimmenden Seerosenblättern. Sanfte Wasserwellen, durch Ahornblätter gefiltertes, gesprenkeltes Sonnenlicht, weiche Pastellfarben, ruhige Umgebungsbewegung.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065906525638656/img/nhCmPiKRiN3Xwa6y.jpg" width="600" alt="Koi-Teich-Loop im Ghibli-Stil">
-
-**[🎬 Video ansehen →](https://x.com/genevieve__h/status/2089068327691862357)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Quelle:** [Link](https://x.com/genevieve__h/status/2089068327691862357) | **Veröffentlicht:** Aug 16, 2026
-
----
-### Schwerelose Glasband-Schleife
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein abstraktes, hypnotisches Video-Prompt eines lichtbrechenden Glasbandes, das in der Schwerelosigkeit vor einem dunklen Hintergrund schwebt.
-
-#### 📝 Prompt
-
-```
-Nahtlose Schleife, statische Kameraeinstellung eines transparenten, lichtbrechenden Glasbandes, das sich langsam in der Schwerelosigkeit vor einem obsidianfarbenen Hintergrund schlängelt. Subtile chromatische Aberration an den Rändern, sanfte Kaustiken, langsame und hypnotische Bewegung, viel negativer Raum für UI-Elemente.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065734412320768/img/xSdhJFe4SQYUq1En.jpg" width="600" alt="Schwerelose Glasband-Schleife">
-
-**[🎬 Video ansehen →](https://x.com/genevieve__h/status/2089068325493944435)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Quelle:** [Link](https://x.com/genevieve__h/status/2089068325493944435) | **Veröffentlicht:** Aug 16, 2026
-
----
-### Doppelbelichtungs-Silhouette Wald-Loop
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein surrealer Video-Prompt mit Doppelbelichtungseffekt, der einen nebligen Kiefernwald innerhalb der dunklen Silhouette einer Person zeigt.
-
-#### 📝 Prompt
-
-```
-Nahtloser Loop. Statische, feststehende Profil-Silhouette einer Person vor einem weichen, nebligen, knochenweißen Hintergrund. Doppelbelichtungseffekt: Innerhalb der dunklen Silhouette ist ein dichter Kiefernwald des pazifischen Nordwestens zu sehen, durch den langsam Schichten von weißem Bergnebel ziehen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089065567135092736/img/F9vIJzA4sQqlC1Pn.jpg" width="600" alt="Doppelbelichtungs-Silhouette Wald-Loop">
-
-**[🎬 Video ansehen →](https://x.com/genevieve__h/status/2089068323132649758)**
-
-**Autor:** [genevieveh@](https://x.com/genevieve__h) | **Quelle:** [Link](https://x.com/genevieve__h/status/2089068323132649758) | **Veröffentlicht:** Aug 16, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3238,6 +3292,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-17T03:31:59.661Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-17T09:13:19.223Z</sub>
 
 </div>
