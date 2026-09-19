@@ -46,7 +46,7 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 | Metrica | Conteggio |
 |--------|-------|
-| 📝 Totale prompt | **275** |
+| 📝 Totale prompt | **276** |
 | ⭐ Prompt in evidenza | **0** |
 | 🔄 Ultimo aggiornamento | **2026-09-19** |
 
@@ -56,6 +56,152 @@ Una raccolta curata di prompt di generazione video di alta qualità per Gemini O
 
 > 📝 Ordinato per data di pubblicazione (più recente prima)
 
+### Prompt CM Bakery Stile Pixar per Gemini Omni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt dettagliato per generare uno spot commerciale di marca in stile Pixar della durata di 10 secondi per una panetteria immaginaria, utilizzando Gemini Omni Flash 1.1 e facendo riferimento a uno storyboard di 6 pannelli.
+
+#### 📝 Prompt
+
+```
+Fai riferimento allo storyboard allegato di 6 pannelli e produci uno spot commerciale (CM) di marca da 10 secondi per la panetteria immaginaria "Komugi Biyori".
+Rapporto d'aspetto 16:9, con audio.
+
+[Storia]
+Una donna adulta esausta sta camminando quando il profumo fresco del pane le arriva da una panetteria.
+Nota l'aroma, gira il viso verso il negozio e compra il pane.
+Quando dà un morso sulla panchina fuori dal negozio, la sua espressione si rilassa e tutta la città si illumina e si colora.
+La donna recupera energia e cammina via leggera.
+
+[Stile Video]
+Come nelle immagini di riferimento, un'animazione 3D rifinita in stile Pixar, degna di un lungometraggio.
+Disegna tutto—persone, capelli, vestiti, pane, edifici, strade, oggetti di scena—come lo stesso mondo di animazione 3D.
+Personaggi espressivi, modellazione solida ordinata, texture dei materiali morbide, illuminazione cinematografica.
+Non mescolare persone/sfondi live-action o live-action con CG.
+
+[Immagini di Riferimento e Continuità]
+Le immagini allegate sono 01, 02, 03 (riga superiore da sinistra a destra) e 04, 05, 06 (riga inferiore da sinistra a destra).
+In questo ordine, rendi ogni pannello un video a schermo intero indipendente.
+Non mostrare l'intera tavola, i numeri dei pannelli, i bordi o gli schermi divisi.
+
+Solo per 01, aggiungi l'azione di "notare un buon odore e girare il viso verso la panetteria" alla posa di camminata stanca nell'immagine di riferimento.
+Unifica il design di personaggio, costume, negozio, panchina e pane in tutte le inquadrature.
+
+La protagonista è una donna adulta di 32 anni.
+Bob corto marrone scuro, giacca verde salvia, camicetta avorio, pantaloni blu navy, borsa a tracolla marrone.
+Mantieni i tratti facciali e la corporatura adulti.
+
+La fornaia è una donna adulta di 35 anni.
+Cappello beige, camicia da cuoco bianca, grembiule beige.
+Rendi il suo viso diverso da quello della protagonista.
+
+[Composizione delle Riprese da 10 Secondi]
+
+0.0–1.8s | 01: Camminare, annusare l'aroma
+Davanti alla panetteria dalla Riferimento 01.
+La protagonista cammina con le spalle curve e passi pesanti.
+La città è grigio-blu e a bassa saturazione; solo la vetrina della panetteria è calda.
+
+Dall'ingresso aperto, sottili curve dorate semitrasparenti che rappresentano l'aroma fresco raggiungono il naso della protagonista.
+La protagonista inspira leggermente e rallenta.
+Solleva leggermente il naso, guarda la panetteria, poi gira il viso.
+Nasce una piccola aspettativa nell'espressione stanca.
+Infine gira il corpo verso l'ingresso, mostrando l'intenzione di entrare.
+Raffigura in un'unica ripresa continua.
+Mantieni l'aroma molto sottile. Niente fumo o forti raggi di luce.
+Non illuminare tutta la città in questa fase.
+
+1.8–2.8s | 02: Comprare il pane
+Taglio secco all'interno del negozio. Ometti l'ingresso e il processo di pagamento.
+Stessa composizione del bancone come nel Riferimento 02.
+Dopo aver pagato, la protagonista riceve dalla fornaia un pane rotondo avvolto in carta nella metà inferiore.
+La mano della protagonista sostiene il pane prima che la fornaia lo lasci andare.
+La protagonista è ancora leggermente stanca ma gli angoli della bocca si rilassano leggermente.
+
+2.8–4.5s | 03: Un morso fuori
+Taglio secco alla panchina fuori dal negozio.
+Come nel Riferimento 03, la protagonista si siede sulla panchina esterna.
+Lo sfondo mostra la vetrina del negozio e la città ancora grigio-blu.
+Porta il pane rotondo avvolto nella carta alla bocca e dai un piccolo morso.
+Sottile suono "croccante".
+Allontana leggermente il pane dalla bocca.
+Lascia un naturale segno del morso sul pane.
+
+4.5–6.3s | 04: Espressione e mondo si illuminano
+Passa alla composizione del Riferimento 04.
+Collega le azioni dalla stessa panchina, stessa postura.
+La protagonista chiude lentamente gli occhi, assaporando il pane.
+Le sopracciglia si rilassano, le guance si sollevano, le spalle perdono tensione, diventa un sorriso naturale.
+In corrispondenza del cambiamento dell'espressione, una morbida luce solare dorata del mattino illumina la guancia.
+Luce calda e colori si diffondono delicatamente dall'area attorno alla protagonista allo sfondo.
+La città grigio-blu cambia in colori caldi degli edifici, verde vivace, cielo luminoso.
+Non cambiare forme/posizioni di edifici/alberi/strade; raffigura il cambiamento solo attraverso l'illuminazione e la saturazione.
+Mantieni il sorriso brevemente alla fine.
+
+6.3–8.0s | 05: Passo energico
+Composizione ampia del Riferimento 05.
+Ometti il processo di alzarsi tramite taglio.
+La protagonista è già in piedi, tiene il pane in una mano, cammina via leggera.
+La schiena si raddrizza, il viso si solleva, il passo diventa leggermente più ampio.
+Stessa città avvolta nella luce calda del sole e nei colori luminosi.
+Non correre o saltare; trasmetti l'energia recuperata attraverso la postura e il movimento dei piedi.
+
+8.0–10.0s | 06: Prodotto e Marca
+Inquadratura prodotto del Riferimento 06.
+Sfondo avorio.
+Lato destro: Pane rotondo e pane tagliato su un tagliere di legno, sacchetto di carta.
+Anche il pane è nella stessa espressione di animazione 3D, mostrando una crosta profumata e una sezione trasversale morbida.
+
+Testo sul lato sinistro in marrone scuro:
+"Con un morso,
+la giornata si colora."
+
+Sotto più piccolo:
+"Komugi Biyori"
+
+Non visualizzare virgolette.
+Visualizza il testo accuratamente, una volta sola.
+Mostra il testo completo dall'inizio della ripresa, fissa forma e posizione fino alla fine.
+Mantieni il prodotto e la telecamera quasi statici.
+
+[Montaggio]
+Collega 6 riprese con tagli secchi.
+Non accelerare le azioni; ometti ingresso, pagamento, uscita, alzarsi tramite tagli.
+Trasmetti chiaramente l'ingresso innescato dall'aroma attraverso lo sguardo e l'orientamento del corpo in 01.
+L'illuminazione di tutta la città avviene dopo aver mangiato il pane.
+Non usare morphing che deforma persone o oggetti.
+
+[Sonoro]
+Musica calda centrata su un pianoforte morbido.
+L'inizio ha passi leggeri e una melodia tranquilla.
+Aggiungi una nota alta di pianoforte nel momento in cui nota l'aroma.
+Sincronizza il suono della carta e il suono del morso con le azioni.
+La musica si illumina e si diffonde quando il mondo si accende dopo il morso.
+
+Da circa 6.2s, una voce femminile adulta calma e calda legge naturalmente:
+"Con un morso, la giornata si colora. Komugi Biyori."
+La pronuncia del nome del negozio è "Komugi Biyori".
+Finisci la lettura entro circa 9.7s, lasciando una breve risonanza alla fine.
+La protagonista non parla. Nessun dialogo aggiuntivo, testi o narrazione sottotitolata.
+
+[Divieti]
+Live-action, miscela di live-action e animazione.
+Cambiamenti nel viso, età, corporatura, acconciatura, costume della persona.
+Dita rotte, penetrazione di oggetti, moltiplicazione del pane, scomparsa del segno del morso.
+Illuminazione della città prima di mangiare il pane.
+Deformazione di edifici/strade, sostituzione con una città diversa.
+Grandi quantità di fumo, forti raggi di luce, particelle magiche eccessive.
+Numeri dei pannelli, bordi, schermi divisi, testo non specificato, loghi, filigrane.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100902965691453440/img/cyCLo9M_Zx2364ld.jpg" width="600" alt="Prompt CM Bakery Stile Pixar per Gemini Omni">
+
+**[🎬 Guarda il video →](https://x.com/tanabe_fragm/status/2100904306035806238)**
+
+**Autore:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2100904306035806238) | **Pubblicato:** Sep 18, 2026
+
+---
 ### Trasformazione da Immagine a Video con Gemini Omni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3193,25 +3339,6 @@ STILE: Fotografia alimentare ultra-realistica, consistenza del ketchup lucida, f
 **Autore:** [おもも桃](https://x.com/omomomomo0309) | **Fonte:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Pubblicato:** Aug 18, 2026
 
 ---
-### Trasformazione del Drago nella Città Proibita
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt di trasformazione multi-fase per Gemini Omni Flash che trasforma la Sala dell'Armonia Suprema in un Drago Imperiale Cinese utilizzando immagini di riferimento.
-
-#### 📝 Prompt
-
-```
-@Image1 è l'originale esatto della Sala dell'Armonia Suprema. @Image2 definisce la trasformazione intermedia approvata. @Image3 definisce il Drago Imperiale Cinese finale, guardiano del palazzo. Creane uno
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Trasformazione del Drago nella Città Proibita">
-
-**[🎬 Guarda il video →](https://x.com/CrazyKaomei/status/2089279848741261762)**
-
-**Autore:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Fonte:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Pubblicato:** Aug 17, 2026
-
----
 ---
 
 ## 📚 Altri prompt disponibili
@@ -3264,6 +3391,6 @@ Quest'opera è concessa in licenza sotto [CC BY 4.0](https://creativecommons.org
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-19T08:32:53.593Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-19T15:24:09.472Z</sub>
 
 </div>

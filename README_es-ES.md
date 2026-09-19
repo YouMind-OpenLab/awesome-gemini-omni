@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **275** |
+| 📝 Total de prompts | **276** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-09-19** |
 
@@ -56,6 +56,152 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de CM estilo Pixar para panadería en Gemini Omni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt detallado para generar un comercial de marca de 10 segundos estilo Pixar para una panadería ficticia utilizando Gemini Omni Flash 1.1, haciendo referencia a un storyboard de 6 paneles.
+
+#### 📝 Prompt
+
+```
+Consulte el storyboard adjunto de 6 paneles y produzca un CM de marca de 10 segundos para la panadería ficticia "Komugi Biyori".
+Relación de aspecto 16:9, con audio.
+
+[Historia]
+Una mujer adulta exhausta camina cuando el aroma fresco del pan llega hasta ella desde una panadería.
+Percibe el olor, gira la cara hacia la tienda y compra pan.
+Cuando da un mordisco en el banco frente a la tienda, su expresión se relaja y todo el pueblo se ilumina y cobra color.
+La mujer recupera su energía y sale caminando con ligereza.
+
+[Estilo de video]
+Igual que las imágenes de referencia, una animación 3D pulida al estilo de largometraje Pixar.
+Dibuje todo —personas, cabello, ropa, pan, edificios, calles, accesorios— como parte del mismo mundo de animación 3D.
+Personajes expresivos, modelado sólido organizado, texturas de materiales suaves, iluminación cinematográfica.
+No mezcle personas/fondos de acción real ni acción real con CG.
+
+[Imágenes de referencia y continuidad]
+Las imágenes adjuntas son 01, 02, 03 (fila superior, izquierda a derecha) y 04, 05, 06 (fila inferior, izquierda a derecha).
+En este orden, haga que cada panel sea un video independiente a pantalla completa.
+No muestre el tablero completo, números de panel, bordes o pantallas divididas.
+
+Solo para 01, agregue la acción de "percibir un buen aroma y girar la cara hacia la panadería" a la pose de caminar cansada en la imagen de referencia.
+Unifique el diseño del personaje, vestuario, tienda, banco y pan en todos los cortes.
+
+La protagonista es una mujer adulta de 32 años.
+Corte bob corto marrón oscuro, chaqueta verde salvia, blusa marfil, pantalones azul marino, bolso bandolera marrón.
+Mantenga rasgos faciales y físico adultos.
+
+La panadera es una mujer adulta de 35 años.
+Sombrero beige, camisa de cocinero blanca, delantal beige.
+Haga que su rostro sea diferente al de la protagonista.
+
+[Composición de tomas de 10 segundos]
+
+0.0–1.8s | 01: Caminando, oliendo el aroma
+Frente a la panadería de la Referencia 01.
+La protagonista camina con los hombros caídos y pasos pesados.
+El pueblo es azul grisáceo y de baja saturación; solo la ventana de la panadería es cálida.
+
+Desde la entrada abierta, curvas doradas delgadas y semitransparentes que representan el aroma fresco llegan hasta la nariz de la protagonista.
+La protagonista inhala ligeramente y se detiene.
+Levanta un poco la nariz, mira la panadería y luego gira la cara.
+Surge una pequeña expectativa en su expresión cansada.
+Finalmente gira el cuerpo hacia la entrada, mostrando intención de entrar.
+Depictelo en una toma continua.
+Mantenga el aroma muy sutil. Sin humo ni rayos de luz fuertes.
+No ilumine todo el pueblo en esta etapa.
+
+1.8–2.8s | 02: Comprando pan
+Corte directo al interior de la tienda. Omita el proceso de entrada y pago.
+Misma composición de mostrador que la Referencia 02.
+Después de pagar, la protagonista recibe un pan redondo envuelto en papel por la mitad inferior de manos de la panadera.
+La mano de la protagonista sostiene el pan antes de que la panadera lo suelte.
+La protagonista sigue ligeramente cansada pero las comisuras de sus labios se relajan un poco.
+
+2.8–4.5s | 03: Un mordisco afuera
+Corte directo al banco fuera de la tienda.
+Como en la Referencia 03, la protagonista se sienta en el banco exterior.
+El fondo muestra la ventana de la tienda y el pueblo aún azul grisáceo.
+Lleva el pan redondo envuelto en papel a la boca y da un pequeño mordisco.
+Sonido sutil de "crujido".
+Aleja ligeramente el pan de la boca.
+Deje una marca de mordida natural en el pan.
+
+4.5–6.3s | 04: La expresión y el mundo se iluminan
+Cambie a la composición de la Referencia 04.
+Conecte las acciones desde el mismo banco, misma postura.
+La protagonista cierra lentamente los ojos, saboreando el pan.
+Las cejas se relajan, las mejillas se elevan, los hombros pierden tensión, se convierte en una sonrisa natural.
+Coincidencia con el cambio de expresión, la suave luz solar matutina dorada ilumina la mejilla.
+La luz cálida y los colores se extienden suavemente desde alrededor de la protagonista hacia el fondo.
+El pueblo azul grisáceo cambia a colores cálidos de edificios, verde vívido, cielo brillante.
+No cambie las formas/posiciones de edificios/árboles/calles; represente el cambio solo mediante iluminación y saturación.
+Mantenga la sonrisa brevemente al final.
+
+6.3–8.0s | 05: Paso energético
+Composición amplia de la Referencia 05.
+Omita el proceso de ponerse de pie mediante un corte.
+La protagonista ya está de pie, sosteniendo el pan en una mano, sale caminando con ligereza.
+La espalda se endereza, la cara se levanta, la zancada se vuelve ligeramente más grande.
+El mismo pueblo envuelto en luz solar cálida y colores brillantes.
+No corra ni salte; transmita la energía recuperada mediante la postura y el movimiento de los pies.
+
+8.0–10.0s | 06: Producto y Marca
+Corte de producto de la Referencia 06.
+Fondo marfil.
+Lado derecho: Pan redondo y pan partido sobre tabla de madera, bolsa de papel.
+El pan también tiene la misma expresión de animación 3D, mostrando una corteza fragante y una sección transversal suave.
+
+Texto del lado izquierdo en marrón oscuro:
+"Con un mordisco,
+hoy cobra color."
+
+Debajo, más pequeño:
+"Komugi Biyori"
+
+No muestre comillas.
+Muestre el texto con precisión, una sola vez.
+Muestre el texto completo desde el inicio de la toma, fije la forma y posición hasta el final.
+Mantenga el producto y la cámara casi estáticos.
+
+[Edición]
+Conecte 6 tomas con cortes directos.
+No acelere las acciones; omita la entrada, el pago, salir afuera y ponerse de pie mediante cortes.
+Transmita claramente la entrada desencadenada por el aroma mediante la mirada y la orientación corporal en 01.
+El brillo de todo el pueblo ocurre después de comer el pan.
+No use morphing que deforme personas u objetos.
+
+[Audio]
+Música cálida centrada en piano suave.
+El comienzo tiene pasos sutiles y una melodía tranquila.
+Agregue una nota alta de piano en el momento de percibir el aroma.
+Sincronice el sonido del envoltorio y el sonido de morder el pan con las acciones.
+La música se ilumina y se expande cuando el mundo se enciende después del mordisco.
+
+Desde aproximadamente 6.2s, una voz femenina adulta calmada y cálida lee naturalmente:
+"Con un mordisco, hoy cobra color. Komugi Biyori."
+La pronunciación del nombre de la tienda es "Komugi Biyori".
+Termine la lectura aproximadamente a los 9.7s, dejando una breve resonancia al final.
+La protagonista no habla. Sin diálogo adicional, letras o narración de subtítulos.
+
+[Prohibiciones]
+Acción real, mezcla de acción real y animación.
+Cambios en el rostro, edad, físico, peinado o vestuario de la persona.
+Dedos rotos, penetración de objetos, multiplicación del pan, desaparición de la marca de mordida.
+Iluminación del pueblo antes de comer el pan.
+Deformación de edificios/calles, reemplazo por un pueblo diferente.
+Grandes cantidades de humo, rayos de luz fuertes, partículas mágicas excesivas.
+Números de panel, bordes, pantallas divididas, texto no especificado, logotipos, marcas de agua.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100902965691453440/img/cyCLo9M_Zx2364ld.jpg" width="600" alt="Prompt de CM estilo Pixar para panadería en Gemini Omni">
+
+**[🎬 Ver video →](https://x.com/tanabe_fragm/status/2100904306035806238)**
+
+**Autor:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **Fuente:** [Link](https://x.com/tanabe_fragm/status/2100904306035806238) | **Publicado:** Sep 18, 2026
+
+---
 ### Transformación de imagen a video con Gemini Omni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3193,25 +3339,6 @@ ESTILO: Fotografía de alimentos ultrarrealista, textura de Ketchup brillante, f
 **Autor:** [おもも桃](https://x.com/omomomomo0309) | **Fuente:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Publicado:** Aug 18, 2026
 
 ---
-### Transformación del dragón en la Ciudad Prohibida
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de transformación multietapa para Gemini Omni Flash que convierte el Salón de la Armonía Suprema en un dragón imperial chino utilizando imágenes de referencia.
-
-#### 📝 Prompt
-
-```
-@Image1 es el Salón de la Armonía Suprema original. @Image2 define la transformación intermedia aprobada. @Image3 define el dragón imperial chino final, guardián del palacio. Crea uno
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Transformación del dragón en la Ciudad Prohibida">
-
-**[🎬 Ver video →](https://x.com/CrazyKaomei/status/2089279848741261762)**
-
-**Autor:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Fuente:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Publicado:** Aug 17, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -3264,6 +3391,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-19T08:32:48.497Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-19T15:24:05.232Z</sub>
 
 </div>

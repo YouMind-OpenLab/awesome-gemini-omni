@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **275** |
+| 📝 Tổng số prompt | **276** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-19** |
 
@@ -56,6 +56,152 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Pixar Style Bakery CM Prompt for Gemini Omni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for generating a 10-second Pixar-style brand commercial for a fictional bakery using Gemini Omni Flash 1.1, referencing a 6-panel storyboard.
+
+#### 📝 Prompt
+
+```
+Tham khảo storyboard 6 khung hình đính kèm và tạo một quảng cáo thương hiệu (CM) dài 10 giây cho tiệm bánh hư cấu "Komugi Biyori".
+Tỷ lệ khung hình 16:9, có âm thanh.
+
+[Cốt truyện]
+Một người phụ nữ trưởng thành mệt mỏi đang đi bộ thì ngửi thấy mùi thơm của bánh mì mới nướng từ một tiệm bánh.
+Cô nhận ra mùi hương, quay mặt về phía cửa hàng và mua bánh mì.
+Khi cô cắn một miếng trên băng ghế bên ngoài cửa hàng, biểu cảm của cô thư giãn, và toàn bộ thị trấn trở nên tươi sáng và rực rỡ sắc màu.
+Người phụ nữ lấy lại năng lượng và bước đi nhẹ nhàng.
+
+[Phong cách video]
+Giống như các hình ảnh tham chiếu, hoạt hình 3D bóng bẩy theo phong cách Pixar.
+Vẽ mọi thứ—con người, tóc, quần áo, bánh mì, tòa nhà, đường phố, đạo cụ—trong cùng một thế giới hoạt hình 3D.
+Nhân vật biểu cảm, mô hình khối vững chắc được tổ chức tốt, kết cấu chất liệu mềm mại, ánh sáng điện ảnh.
+Không trộn lẫn người/nền quay trực tiếp hoặc quay trực tiếp với CG.
+
+[Hình ảnh tham chiếu và tính liên tục]
+Các hình ảnh đính kèm là 01, 02, 03 (hàng trên từ trái sang phải) và 04, 05, 06 (hàng dưới từ trái sang phải).
+Theo thứ tự này, biến mỗi khung hình thành một video toàn màn hình độc lập.
+Không hiển thị toàn bộ bảng, số khung hình, viền hoặc màn hình chia nhỏ.
+
+Chỉ đối với khung 01, thêm hành động "nhận ra mùi thơm và quay mặt về phía tiệm bánh" vào tư thế đi bộ mệt mỏi trong hình ảnh tham chiếu.
+Thống nhất thiết kế nhân vật, trang phục, cửa hàng, băng ghế và bánh mì qua tất cả các cảnh cắt.
+
+Nhân vật chính là một phụ nữ trưởng thành 32 tuổi.
+Tóc bob ngắn màu nâu sẫm, áo khoác xanh sage, áo blouse màu ngà, quần navy, túi đeo vai màu nâu.
+Duy trì đặc điểm khuôn mặt và vóc dáng người trưởng thành.
+
+Người thợ bánh là một phụ nữ trưởng thành 35 tuổi.
+Mũ be, áo sơ mi đầu bếp trắng, tạp dề be.
+Làm cho khuôn mặt của cô ấy khác với nhân vật chính.
+
+[Bố cục cảnh quay 10 giây]
+
+0.0–1.8s | 01: Đi bộ, ngửi mùi thơm
+Trước tiệm bánh từ Hình tham chiếu 01.
+Nhân vật chính đi bộ với đôi vai rũ xuống và bước chân nặng nề.
+Thị trấn có màu xanh xám và độ bão hòa thấp; chỉ có cửa sổ tiệm bánh là ấm áp.
+
+Từ lối vào mở, những đường cong vàng mỏng bán trong suốt đại diện cho mùi thơm tươi mới bay đến mũi nhân vật chính.
+Nhân vật chính hít nhẹ và chậm lại.
+Nâng mũi lên một chút, nhìn vào tiệm bánh, sau đó quay mặt.
+Một sự kỳ vọng nhỏ xuất hiện trong biểu cảm mệt mỏi.
+Cuối cùng quay cơ thể về phía lối vào, thể hiện ý định bước vào.
+Mô tả trong một cảnh quay liên tục.
+Giữ mùi hương rất tinh tế. Không có khói hoặc tia sáng mạnh.
+Không làm sáng toàn bộ thị trấn ở giai đoạn này.
+
+1.8–2.8s | 02: Mua bánh mì
+Cắt cứng vào bên trong cửa hàng. Bỏ qua quá trình bước vào và thanh toán.
+Cùng bố cục quầy như Hình tham chiếu 02.
+Sau khi trả tiền, nhân vật chính nhận một ổ bánh mì tròn được bọc giấy ở nửa dưới từ người thợ bánh.
+Tay nhân vật chính đỡ bánh mì trước khi người thợ bánh buông tay.
+Nhân vật chính vẫn hơi mệt nhưng khóe miệng thư giãn nhẹ.
+
+2.8–4.5s | 03: Một miếng cắn bên ngoài
+Cắt cứng sang băng ghế bên ngoài cửa hàng.
+Như trong Hình tham chiếu 03, nhân vật chính ngồi trên băng ghế ngoài trời.
+Nền hiển thị cửa sổ cửa hàng và thị trấn vẫn còn màu xanh xám.
+Đưa ổ bánh mì tròn bọc giấy lên miệng và cắn một miếng nhỏ.
+Âm thanh "rắc" tinh tế.
+Di chuyển bánh mì ra khỏi miệng một chút.
+Để lại một vết cắn tự nhiên trên bánh mì.
+
+4.5–6.3s | 04: Biểu cảm và thế giới trở nên tươi sáng
+Chuyển sang bố cục của Hình tham chiếu 04.
+Kết nối các hành động từ cùng một băng ghế, cùng một tư thế.
+Nhân vật chính từ từ nhắm mắt, thưởng thức bánh mì.
+Lông mày thư giãn, gò má nâng lên, vai thả lỏng căng thẳng, trở thành nụ cười tự nhiên.
+Thay đổi biểu cảm đồng bộ, ánh nắng buổi sáng vàng dịu chiếu sáng gò má.
+Ánh sáng ấm áp và màu sắc lan tỏa nhẹ nhàng từ xung quanh nhân vật chính đến nền.
+Thị trấn xanh xám thay đổi thành màu tòa nhà ấm áp, xanh lá cây sống động, bầu trời tươi sáng.
+Không thay đổi hình dạng/vị trí của các tòa nhà/cây/đường; chỉ mô tả sự thay đổi thông qua ánh sáng và độ bão hòa.
+Giữ nụ cười trong chốc lát ở cuối.
+
+6.3–8.0s | 05: Bước đi tràn đầy năng lượng
+Bố cục rộng của Hình tham chiếu 05.
+Bỏ qua quá trình đứng dậy bằng cách cắt cảnh.
+Nhân vật chính đã đứng dậy, cầm bánh mì trong một tay, bước đi nhẹ nhàng.
+Lưng thẳng, mặt ngẩng cao, sải chân trở nên lớn hơn một chút.
+Cùng một thị trấn bao trùm trong ánh nắng ấm áp và màu sắc tươi sáng.
+Không chạy hoặc nhảy; truyền tải năng lượng đã lấy lại thông qua tư thế và bước chân.
+
+8.0–10.0s | 06: Sản phẩm và Thương hiệu
+Cảnh cắt sản phẩm của Hình tham chiếu 06.
+Nền màu ngà.
+Bên phải: Bánh mì tròn và bánh mì bổ đôi trên thớt gỗ, túi giấy.
+Bánh mì cũng được thể hiện bằng hoạt hình 3D tương tự, cho thấy vỏ bánh thơm ngon và mặt cắt mềm mại.
+
+Văn bản bên trái màu nâu sẫm:
+"Với một miếng cắn,
+hôm nay sẽ rực rỡ sắc màu."
+
+Bên dưới nhỏ hơn:
+"Komugi Biyori"
+
+Không hiển thị dấu ngoặc kép.
+Hiển thị văn bản chính xác, mỗi lần một.
+Hiển thị toàn bộ văn bản từ đầu cảnh quay, cố định hình dạng và vị trí cho đến hết.
+Giữ sản phẩm và máy quay gần như tĩnh.
+
+[Chỉnh sửa]
+Kết nối 6 cảnh quay bằng các cú cắt cứng.
+Không tăng tốc các hành động; bỏ qua việc bước vào, thanh toán, di chuyển ra ngoài, đứng dậy bằng cách cắt cảnh.
+Truyền tải rõ ràng việc mùi hương kích hoạt việc bước vào thông qua ánh mắt và hướng cơ thể trong cảnh 01.
+Toàn bộ thị trấn trở nên tươi sáng xảy ra sau khi ăn bánh mì.
+Không sử dụng hiệu ứng morphing làm biến dạng người hoặc đồ vật.
+
+[Âm thanh]
+Âm nhạc ấm áp tập trung vào piano nhẹ nhàng.
+Phần mở đầu có tiếng bước chân tinh tế và giai điệu yên tĩnh.
+Thêm một nốt piano cao tại thời điểm nhận ra mùi hương.
+Đồng bộ hóa âm thanh gói bánh và tiếng cắn bánh mì với các hành động.
+Âm nhạc trở nên tươi sáng và lan tỏa khi thế giới bừng sáng sau miếng cắn.
+
+Từ khoảng 6.2s, giọng nói nữ trưởng thành ấm áp bình tĩnh đọc tự nhiên:
+"Với một miếng cắn, hôm nay sẽ rực rỡ sắc màu. Komugi Biyori."
+Cách phát âm tên cửa hàng là "Komugi Biyori".
+Hoàn thành việc đọc vào khoảng 9.7s, để lại dư âm ngắn ở cuối.
+Nhân vật chính không nói chuyện. Không có thêm lời thoại, lời bài hát hoặc tường thuật phụ đề.
+
+[Những điều cấm kỵ]
+Quay trực tiếp, trộn lẫn quay trực tiếp và hoạt hình.
+Thay đổi khuôn mặt, tuổi tác, vóc dáng, kiểu tóc, trang phục của người.
+Ngón tay bị gãy, xuyên thấu đồ vật, sinh sôi bánh mì, biến mất vết cắn.
+Thị trấn trở nên tươi sáng trước khi ăn bánh mì.
+Biến dạng các tòa nhà/đường phố, thay thế bằng một thị trấn khác.
+Lượng khói lớn, tia sáng mạnh, hạt phép thuật quá mức.
+Số khung hình, viền, màn hình chia nhỏ, văn bản không xác định, logo, hình mờ.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100902965691453440/img/cyCLo9M_Zx2364ld.jpg" width="600" alt="Pixar Style Bakery CM Prompt for Gemini Omni">
+
+**[🎬 Xem video →](https://x.com/tanabe_fragm/status/2100904306035806238)**
+
+**Tác giả:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **Nguồn:** [Link](https://x.com/tanabe_fragm/status/2100904306035806238) | **Đã xuất bản:** Sep 18, 2026
+
+---
 ### Chuyển đổi Hình ảnh sang Video với Gemini Omni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3193,25 +3339,6 @@ PHONG CÁCH: Nhiếp ảnh thực phẩm siêu thực, kết cấu tương cà b
 **Tác giả:** [おもも桃](https://x.com/omomomomo0309) | **Nguồn:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Đã xuất bản:** Aug 18, 2026
 
 ---
-### Biến hình Rồng tại Tử Cấm Thành
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Một câu lệnh (prompt) biến hình đa giai đoạn dành cho Gemini Omni Flash, giúp chuyển đổi Điện Thái Hòa thành một con Rồng Hoàng gia Trung Hoa dựa trên các hình ảnh tham chiếu.
-
-#### 📝 Prompt
-
-```
-@Image1 là hình ảnh gốc chính xác của Điện Thái Hòa. @Image2 xác định giai đoạn biến hình trung gian đã được phê duyệt. @Image3 xác định hình ảnh cuối cùng là Rồng Hoàng gia Trung Hoa - Người bảo vệ Cung điện. Hãy tạo một
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Biến hình Rồng tại Tử Cấm Thành">
-
-**[🎬 Xem video →](https://x.com/CrazyKaomei/status/2089279848741261762)**
-
-**Tác giả:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Nguồn:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Đã xuất bản:** Aug 17, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3264,6 +3391,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-19T08:32:44.684Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-19T15:24:03.608Z</sub>
 
 </div>

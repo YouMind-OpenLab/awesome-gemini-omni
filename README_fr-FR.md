@@ -46,7 +46,7 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 | Métrique | Nombre |
 |--------|-------|
-| 📝 Total des prompts | **275** |
+| 📝 Total des prompts | **276** |
 | ⭐ Prompts en vedette | **0** |
 | 🔄 Dernière mise à jour | **2026-09-19** |
 
@@ -56,6 +56,152 @@ Une collection de prompts de génération vidéo de haute qualité pour Gemini O
 
 > 📝 Trié par date de publication (plus récent en premier)
 
+### Prompt CM Boulangerie Style Pixar pour Gemini Omni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Un prompt détaillé pour générer un spot publicitaire de marque de 10 secondes dans le style Pixar pour une boulangerie fictive, utilisant Gemini Omni Flash 1.1 et s'appuyant sur un storyboard en 6 panneaux.
+
+#### 📝 Prompt
+
+```
+Consultez le storyboard joint en 6 panneaux et produisez un spot publicitaire (CM) de marque de 10 secondes pour la boulangerie fictive "Komugi Biyori".
+Ratio d'aspect 16:9, avec audio.
+
+[Histoire]
+Une femme adulte épuisée marche lorsque l'arôme frais du pain lui parvient depuis une boulangerie.
+Elle remarque le parfum, tourne son visage vers la boutique et achète du pain.
+Lorsqu'elle croque dans le pain sur le banc devant la boutique, son expression se détend, et toute la ville s'illumine et se colore.
+La femme retrouve son énergie et s'éloigne d'un pas léger.
+
+[Style Vidéo]
+Identique aux images de référence : une animation 3D soignée de long métrage dans le style Pixar.
+Représentez tout — les personnages, les cheveux, les vêtements, le pain, les bâtiments, les routes, les accessoires — comme faisant partie du même monde d'animation 3D.
+Personnages expressifs, modélisation solide et organisée, textures de matériaux douces, éclairage cinématographique.
+Ne mélangez pas des personnes/fonds en prise de vue réelle ou live-action avec de la CG.
+
+[Images de Référence et Cohérence]
+Les images jointes sont 01, 02, 03 (rangée supérieure, de gauche à droite), et 04, 05, 06 (rangée inférieure, de gauche à droite).
+Dans cet ordre, faites de chaque panneau une vidéo plein écran indépendante.
+N'affichez pas l'ensemble du tableau, les numéros de panneau, les bordures ou les écrans divisés.
+
+Uniquement pour 01, ajoutez l'action de "remarquer une bonne odeur et tourner le visage vers la boulangerie" à la pose de marche fatiguée de l'image de référence.
+Unifiez le design du personnage, du costume, de la boutique, du banc et du pain sur tous les plans.
+
+Le protagoniste est une femme adulte de 32 ans.
+Bob court brun foncé, veste vert sauge, chemisier ivoire, pantalon marine, sac à bandoulière marron.
+Maintenez les traits faciaux et la morphologie adultes.
+
+La boulangère est une femme adulte de 35 ans.
+Chapeau beige, chemise de cuisinière blanche, tablier beige.
+Faites en sorte que son visage soit différent de celui du protagoniste.
+
+[Composition des Plans de 10 Secondes]
+
+0.0–1.8s | 01 : Marche, sentant l'arôme
+Devant la boulangerie de la Référence 01.
+Le protagoniste marche avec les épaules voûtées et des pas lourds.
+La ville est bleu-gris et peu saturée ; seule la vitrine de la boulangerie est chaude.
+
+Depuis l'entrée ouverte, de fines courbes dorées semi-transparentes représentant l'arôme frais atteignent le nez du protagoniste.
+Le protagoniste inspire légèrement et ralentit.
+Lève légèrement le nez, regarde la boulangerie, puis tourne le visage.
+Une petite attente naît dans son expression fatiguée.
+Enfin, elle tourne son corps vers l'entrée, montrant son intention d'entrer.
+Dépeignez cela en un seul plan continu.
+Gardez l'arôme très subtil. Pas de fumée ni de rayons lumineux forts.
+N'éclaircissez pas toute la ville à ce stade.
+
+1.8–2.8s | 02 : Achat de pain
+Coupe franche à l'intérieur de la boutique. Omettez le processus d'entrée et de paiement.
+Même composition au comptoir que la Référence 02.
+Après avoir payé, le protagoniste reçoit un pain rond emballé dans du papier sur la moitié inférieure de la part de la boulangère.
+La main du protagoniste soutient le pain avant que la boulangère ne le lâche.
+Le protagoniste est encore légèrement fatigué mais les coins de sa bouche se détendent légèrement.
+
+2.8–4.5s | 03 : Une bouchée dehors
+Coupe franche sur le banc extérieur.
+Comme dans la Référence 03, le protagoniste s'assoit sur le banc extérieur.
+L'arrière-plan montre la vitrine et la ville toujours bleu-gris.
+Portez le pain rond emballé dans du papier à la bouche et prenez une petite bouchée.
+Son discret de "croquant".
+Éloignez légèrement le pain de la bouche.
+Laissez une marque de morsure naturelle sur le pain.
+
+4.5–6.3s | 04 : L'expression et le monde s'illuminent
+Passez à la composition de la Référence 04.
+Connectez les actions depuis le même banc, la même posture.
+Le protagoniste ferme lentement les yeux, savourant le pain.
+Les sourcils se détendent, les joues se soulèvent, les épaules relâchent la tension, devenant un sourire naturel.
+En cohérence avec le changement d'expression, une douce lumière matinale dorée illumine sa joue.
+La lumière chaude et les couleurs se propagent doucement autour du protagoniste vers l'arrière-plan.
+La ville bleu-gris change en couleurs de bâtiments chaudes, vert vif, ciel brillant.
+Ne changez pas les formes/positions des bâtiments/arbres/routes ; dépeignez le changement uniquement par l'éclairage et la saturation.
+Maintenez le sourire brièvement à la fin.
+
+6.3–8.0s | 05 : Pas énergique
+Composition large de la Référence 05.
+Omettez le processus de se lever via une coupe.
+Le protagoniste est déjà debout, tenant le pain dans une main, marchant d'un pas léger.
+Le dos se redresse, le visage se relève, la foulée devient légèrement plus grande.
+La même ville enveloppée dans une lumière solaire chaude et des couleurs brillantes.
+Ne courez pas et ne sautez pas ; transmettez l'énergie retrouvée par la posture et la démarche.
+
+8.0–10.0s | 06 : Produit et Marque
+Plan produit de la Référence 06.
+Fond ivoire.
+Côté droit : Pain rond et pain tranché sur une planche en bois, sac en papier.
+Le pain est également représenté dans la même expression d'animation 3D, montrant une croûte parfumée et une mie moelleuse.
+
+Texte côté gauche en brun foncé :
+"Avec une bouchée,
+la journée prend des couleurs."
+
+En dessous, plus petit :
+"Komugi Biyori"
+
+N'affichez pas les guillemets.
+Affichez le texte avec précision, une seule fois.
+Montrez le texte complet dès le début du plan, fixez la forme et la position jusqu'à la fin.
+Gardez le produit et la caméra presque statiques.
+
+[Montage]
+Connectez les 6 plans par des coupes franches.
+N'accélérez pas les actions ; omettez l'entrée, le paiement, la sortie, le fait de se lever via des coupes.
+Transmettez clairement l'entrée déclenchée par l'arôme via le regard et l'orientation du corps dans 01.
+L'illumination de toute la ville se produit après avoir mangé le pain.
+N'utilisez pas de morphing qui déforme les personnes ou les objets.
+
+[Son]
+Musique chaleureuse centrée sur un piano doux.
+Le début a des pas discrets et une mélodie calme.
+Ajoutez une note de piano aiguë au moment où l'arôme est remarqué.
+Synchronisez le bruit de l'emballage et le bruit de la bouchée avec les actions.
+La musique s'illumine et se propage lorsque le monde s'éclaire après la bouchée.
+
+À partir d'environ 6.2s, une voix féminine adulte calme et chaleureuse lit naturellement :
+"Avec une bouchée, la journée prend des couleurs. Komugi Biyori."
+La prononciation du nom de la boutique est "Komugi Biyori".
+Terminez la lecture vers 9.7s, laissant une courte résonance à la fin.
+Le protagoniste ne parle pas. Pas de dialogue supplémentaire, de paroles ou de narration sous-titrée.
+
+[Interdictions]
+Live-action, mélange de live-action et d'animation.
+Changements dans le visage, l'âge, la morphologie, la coiffure, le costume de la personne.
+Doigts cassés, pénétration d'objets, multiplication du pain, disparition de la marque de morsure.
+Illumination de la ville avant de manger le pain.
+Déformation des bâtiments/routes, remplacement par une ville différente.
+Grandes quantités de fumée, rayons lumineux forts, particules magiques excessives.
+Numéros de panneau, bordures, écrans divisés, texte non spécifié, logos, filigranes.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100902965691453440/img/cyCLo9M_Zx2364ld.jpg" width="600" alt="Prompt CM Boulangerie Style Pixar pour Gemini Omni">
+
+**[🎬 Voir la vidéo →](https://x.com/tanabe_fragm/status/2100904306035806238)**
+
+**Auteur:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2100904306035806238) | **Publié:** Sep 18, 2026
+
+---
 ### Transformation d'image en vidéo avec Gemini Omni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3221,25 +3367,6 @@ STYLE : Photographie culinaire ultra-réaliste, texture de ketchup brillante, ph
 **Auteur:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Publié:** Aug 18, 2026
 
 ---
-### Transformation du dragon de la Cité interdite
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Un prompt de transformation multi-étapes pour Gemini Omni Flash qui transforme la Salle de l'Harmonie suprême en un dragon impérial chinois à l'aide d'images de référence.
-
-#### 📝 Prompt
-
-```
-@Image1 est l'original exact de la Salle de l'Harmonie suprême. @Image2 définit la transformation intermédiaire approuvée. @Image3 définit le dragon impérial chinois final, gardien du palais. Créez-en un
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Transformation du dragon de la Cité interdite">
-
-**[🎬 Voir la vidéo →](https://x.com/CrazyKaomei/status/2089279848741261762)**
-
-**Auteur:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Source:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Publié:** Aug 17, 2026
-
----
 ---
 
 ## 📚 Plus de prompts disponibles
@@ -3292,6 +3419,6 @@ Cette œuvre est sous licence [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-19T08:32:52.340Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-19T15:24:08.543Z</sub>
 
 </div>

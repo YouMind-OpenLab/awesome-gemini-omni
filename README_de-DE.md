@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **275** |
+| 📝 Gesamtanzahl Prompts | **276** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-19** |
 
@@ -56,6 +56,152 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Pixar-Stil-Bäckerei-CM-Prompt für Gemini Omni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Ein detaillierter Prompt zur Generierung eines 10-sekündigen Marken-Werbespots im Pixar-Stil für eine fiktive Bäckerei unter Verwendung von Gemini Omni Flash 1.1, basierend auf einem 6-teiligen Storyboard.
+
+#### 📝 Prompt
+
+```
+Beziehen Sie sich auf das beigefügte 6-teilige Storyboard und erstellen Sie einen 10-sekündigen Marken-Werbespot (CM) für die fiktive Bäckerei "Komugi Biyori".
+Seitenverhältnis 16:9, mit Audio.
+
+[Handlung]
+Eine erschöpfte erwachsene Frau geht zu Fuß, als ihr der frische Duft von Brot aus einer Bäckerei in die Nase steigt.
+Sie bemerkt den Geruch, dreht ihren Blick zum Geschäft und kauft Brot.
+Als sie auf der Bank vor dem Laden hineinbeißt, entspannt sich ihr Gesichtsausdruck, und die gesamte Stadt wird heller und farbenfroher.
+Die Frau gewinnt ihre Energie zurück und geht leichtfüßig davon.
+
+[Videostil]
+Wie auf den Referenzbildern: eine hochwertige 3D-Animation im Spielfilmstil nach Vorbild von Pixar.
+Zeichnen Sie alles – Personen, Haare, Kleidung, Brot, Gebäude, Straßen, Requisiten – als dieselbe 3D-Animationswelt.
+Ausdrucksstarke Charaktere, saubere solide Modellierung, weiche Materialtexturen, kinematografische Beleuchtung.
+Mischen Sie keine Realaufnahmen von Personen/Hintergründen oder Realaufnahmen mit CG.
+
+[Referenzbilder und Kontinuität]
+Die beigefügten Bilder sind 01, 02, 03 (obere Reihe von links nach rechts) und 04, 05, 06 (untere Reihe von links nach rechts).
+Erstellen Sie jedes Panel in dieser Reihenfolge als eigenständiges Vollbildvideo.
+Zeigen Sie nicht das gesamte Board, keine Panelnummern, keine Rahmen und keine geteilten Bildschirme.
+
+Fügen Sie nur bei 01 die Aktion "Bemerken eines guten Geruchs und Drehen des Gesichts zur Bäckerei" zur müden Gehpose im Referenzbild hinzu.
+Vereinheitlichen Sie Design von Charakter, Kostüm, Geschäft, Bank und Brot über alle Schnitte hinweg.
+
+Protagonistin ist eine 32-jährige erwachsene Frau.
+Dunkelbrauner kurzer Bob, Salbeigrüne Jacke, Elfenbeinfarbene Bluse, Marineblaue Hose, Braune Umhängetasche.
+Behalten Sie erwachsene Gesichtszüge und Statur bei.
+
+Die Bäckerin ist eine 35-jährige erwachsene Frau.
+Beiges Hut, weißes Kochhemd, beige Schürze.
+Ihr Gesicht soll sich deutlich vom Protagonisten unterscheiden.
+
+[10-Sekunden-Shot-Komposition]
+
+0,0–1,8 s | 01: Gehen, Aroma riechen
+Vor der Bäckerei aus Referenz 01.
+Die Protagonistin geht mit hängenden Schultern und schweren Schritten.
+Die Stadt ist blau-grau und entsättigt; nur das Schaufenster der Bäckerei leuchtet warm.
+
+Vom offenen Eingang steigen dünne, halbtransparente goldene Kurven auf, die den frischen Duft darstellen, und erreichen die Nase der Protagonistin.
+Die Protagonistin atmet leicht ein und verlangsamt ihren Schritt.
+Hebt die Nase leicht, blickt zur Bäckerei und dreht dann das Gesicht.
+In ihrem müden Ausdruck entsteht eine kleine Erwartung.
+Schließlich dreht sie den Körper zum Eingang, was ihre Absicht zeigt, hineinzugehen.
+Darstellung in einer durchgehenden Einstellung.
+Halten Sie das Aroma sehr subtil. Kein Rauch oder starke Lichtstrahlen.
+Hellen Sie die gesamte Stadt in diesem Stadium noch nicht auf.
+
+1,8–2,8 s | 02: Brot kaufen
+Harter Schnitt ins Innere des Geschäfts. Überspringen Sie den Eintritts- und Bezahlvorgang.
+Gleiche Tresenkomposition wie in Referenz 02.
+Nach dem Bezahlen erhält die Protagonistin von der Bäckerin ein rundes Brot, das unten zur Hälfte in Papier eingewickelt ist.
+Die Hand der Protagonistin stützt das Brot, bevor die Bäckerin loslässt.
+Die Protagonistin wirkt immer noch leicht müde, aber ihre Mundwinkel entspannen sich leicht.
+
+2,8–4,5 s | 03: Ein Bissen draußen
+Harter Schnitt zur Bank vor dem Geschäft.
+Wie in Referenz 03 sitzt die Protagonistin auf der Außenbank.
+Im Hintergrund ist das Schaufenster und die weiterhin blau-graue Stadt zu sehen.
+Sie führt das papierumwickelte runde Brot zum Mund und nimmt einen kleinen Bissen.
+Subtiles "Knusper"-Geräusch.
+Entfernt das Brot leicht vom Mund.
+Lassen Sie einen natürlichen Bissabdruck am Brot sichtbar.
+
+4,5–6,3 s | 04: Ausdruck und Welt werden hell
+Wechseln Sie zur Komposition von Referenz 04.
+Verbinden Sie die Aktionen von derselben Bank, derselben Haltung.
+Die Protagonistin schließt langsam die Augen und genießt das Brot.
+Augenbrauen entspannen sich, Wangen heben sich, Schultern verlieren Spannung, es entsteht ein natürliches Lächeln.
+Passend zum Ausdruckwechsel beleuchtet sanftes goldenes Morgenlicht ihre Wange.
+Warmes Licht und Farben breiten sich sanft von der Protagonistin ausgehend zum Hintergrund hin aus.
+Die blau-graue Stadt wechselt zu warmen Gebäudefarben, lebhaftem Grün und hellem Himmel.
+Ändern Sie keine Formen/Positionen von Gebäuden/Bäumen/Straßen; stellen Sie die Veränderung nur durch Beleuchtung und Sättigung dar.
+Halten Sie das Lächeln am Ende kurz inne.
+
+6,3–8,0 s | 05: Energischer Schritt
+Breite Komposition von Referenz 05.
+Überspringen Sie den Vorgang des Aufstehens durch einen Schnitt.
+Die Protagonistin steht bereits, hält das Brot in einer Hand und geht leichtfüßig davon.
+Der Rücken richtet sich auf, das Gesicht hebt sich, der Schritt wird etwas größer.
+Dieselbe Stadt ist in warmes Sonnenlicht und helle Farben gehüllt.
+Nicht rennen oder springen; vermitteln Sie wiedergewonnene Energie durch Haltung und Gangart.
+
+8,0–10,0 s | 06: Produkt und Marke
+Produktaufnahme von Referenz 06.
+Elfenbeinfarbener Hintergrund.
+Rechte Seite: Rundes Brot und aufgeschnittenes Brot auf einem Holzbrett, Papiertüte.
+Das Brot wird ebenfalls in derselben 3D-Animationsdarstellung gezeigt, mit duftender Kruste und weichem Querschnitt.
+
+Text auf der linken Seite in Dunkelbraun:
+"Mit einem Bissen
+wird der Tag bunt."
+
+Darunter kleiner:
+"Komugi Biyori"
+
+Zeigen Sie keine Anführungszeichen an.
+Stellen Sie den Text genau einmal korrekt dar.
+Zeigen Sie den vollständigen Text vom Shot-Beginn bis zum Ende fixiert in Form und Position.
+Halten Sie Produkt und Kamera nahezu statisch.
+
+[Schnitt]
+Verbinden Sie die 6 Shots mit harten Schnitten.
+Beschleunigen Sie keine Aktionen; überspringen Sie Eintritt, Bezahlung, Hinausgehen und Aufstehen durch Schnitte.
+Vermitteln Sie klar, dass der durch das Aroma ausgelöste Eintritt durch Blickrichtung und Körperhaltung in 01 erfolgt.
+Die Aufhellung der gesamten Stadt geschieht erst nach dem Essen des Brotes.
+Verwenden Sie keine Morphing-Effekte, die Personen oder Objekte verzerren.
+
+[Ton]
+Warme Musik, zentriert um sanftes Klavier.
+Am Anfang leise Schritte und eine ruhige Melodie.
+Fügen Sie eine hohe Klaviernote hinzu, wenn der Duft wahrgenommen wird.
+Synchronisieren Sie das Geräusch der Verpackung und des Bisses mit den Aktionen.
+Die Musik wird heller und breitet sich aus, wenn die Welt nach dem Bissen aufleuchtet.
+
+Ab ca. 6,2 s liest eine ruhige, warme weibliche Stimme natürlich vor:
+"Mit einem Bissen wird der Tag bunt. Komugi Biyori."
+Aussprache des Ladennamens ist "Komugi Biyori".
+Beenden Sie das Vorlesen bis ca. 9,7 s und lassen Sie am Ende kurze Resonanz.
+Die Protagonistin spricht nicht. Keine zusätzlichen Dialoge, Liedtexte oder Untertitel-Narration.
+
+[Verbote]
+Realaufnahmen, Mischung aus Realaufnahmen und Animation.
+Änderungen im Gesicht, Alter, Statur, Frisur oder Kostüm der Person.
+Gebogene Finger, Objekt-Durchdringungen, Vervielfältigung des Brotes, Verschwinden des Bissabdrucks.
+Aufhellung der Stadt vor dem Essen des Brotes.
+Verzerrung von Gebäuden/Straßen, Ersetzen durch eine andere Stadt.
+Große Mengen Rauch, starke Lichtstrahlen, übermäßige magische Partikel.
+Panelnummern, Rahmen, geteilte Bildschirme, nicht spezifizierter Text, Logos, Wasserzeichen.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100902965691453440/img/cyCLo9M_Zx2364ld.jpg" width="600" alt="Pixar-Stil-Bäckerei-CM-Prompt für Gemini Omni">
+
+**[🎬 Video ansehen →](https://x.com/tanabe_fragm/status/2100904306035806238)**
+
+**Autor:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **Quelle:** [Link](https://x.com/tanabe_fragm/status/2100904306035806238) | **Veröffentlicht:** Sep 18, 2026
+
+---
 ### Gemini Omni Bild-zu-Video-Umwandlung
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3221,25 +3367,6 @@ STIL: Ultrarealistische Food-Fotografie, glänzende Ketchup-Textur, realistische
 **Autor:** [おもも桃](https://x.com/omomomomo0309) | **Quelle:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Veröffentlicht:** Aug 18, 2026
 
 ---
-### Verbotene Stadt: Drachentransformation
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Ein mehrstufiger Transformations-Prompt für Gemini Omni Flash, der die Halle der höchsten Harmonie mithilfe von Referenzbildern in einen chinesischen Kaiserdrachen verwandelt.
-
-#### 📝 Prompt
-
-```
-@Image1 ist das exakte Original der Halle der höchsten Harmonie. @Image2 definiert die genehmigte Zwischentransformation. @Image3 definiert den finalen chinesischen Kaiserdrachen als Palastwächter. Erstelle eine
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Verbotene Stadt: Drachentransformation">
-
-**[🎬 Video ansehen →](https://x.com/CrazyKaomei/status/2089279848741261762)**
-
-**Autor:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Quelle:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Veröffentlicht:** Aug 17, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3292,6 +3419,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-19T08:32:50.765Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-19T15:24:07.703Z</sub>
 
 </div>

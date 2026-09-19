@@ -46,7 +46,7 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **275** |
+| 📝 Total de prompts | **276** |
 | ⭐ Prompts em destaque | **0** |
 | 🔄 Última atualização | **2026-09-19** |
 
@@ -56,6 +56,152 @@ Uma coleção curada de prompts de geração de vídeo de alta qualidade para o 
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
+### Prompt de CM Estilo Pixar para Padaria no Gemini Omni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> Um prompt detalhado para gerar um comercial de marca de 10 segundos em estilo Pixar para uma padaria fictícia usando o Gemini Omni Flash 1.1, referenciando um storyboard de 6 painéis.
+
+#### 📝 Prompt
+
+```
+Consulte o storyboard anexado de 6 painéis e produza um CM de marca de 10 segundos para a padaria fictícia "Komugi Biyori".
+Proporção de tela 16:9, com áudio.
+
+[História]
+Uma mulher adulta exausta está caminhando quando o aroma fresco de pão chega até ela vindo de uma padaria.
+Ela percebe o cheiro, vira o rosto em direção à loja e compra pão.
+Quando dá uma mordada no banco do lado de fora da loja, sua expressão relaxa, e toda a cidade se ilumina e ganha cores.
+A mulher recupera sua energia e sai caminhando levemente.
+
+[Estilo de Vídeo]
+Mesmo das imagens de referência, uma animação 3D polida de longa-metragem no estilo Pixar.
+Desenhe tudo—pessoas, cabelo, roupas, pão, prédios, ruas, adereços—como o mesmo mundo de animação 3D.
+Personagens expressivos, modelagem sólida organizada, texturas de materiais suaves, iluminação cinematográfica.
+Não misture pessoas/fundos live-action ou live-action com CG.
+
+[Imagens de Referência e Continuidade]
+As imagens anexadas são 01, 02, 03 (linha superior, da esquerda para a direita) e 04, 05, 06 (linha inferior, da esquerda para a direita).
+Nesta ordem, faça de cada painel um vídeo independente em tela cheia.
+Não exiba o quadro inteiro, números de painel, bordas ou telas divididas.
+
+Somente para 01, adicione a ação de "perceber um bom cheiro e virar o rosto em direção à padaria" à pose cansada de caminhada na imagem de referência.
+Unifique o design da personagem, roupa, loja, banco e pão entre todos os cortes.
+
+A protagonista é uma mulher adulta de 32 anos.
+Cabelo curto castanho escuro estilo bob, jaqueta verde sálvia, blusa marfim, calças azul-marinho, bolsa transversal marrom.
+Mantenha as características faciais e físicas adultas.
+
+A padeira é uma mulher adulta de 35 anos.
+Chapéu bege, camisa de cozinha branca, avental bege.
+Faça seu rosto diferente do da protagonista.
+
+[Composição de Planos de 10 Segundos]
+
+0,0–1,8s | 01: Caminhando, sentindo o aroma
+Em frente à padaria da Referência 01.
+A protagonista caminha com os ombros caídos e passos pesados.
+A cidade é azul-acinzentada e de baixa saturação; apenas a vitrine da padaria é quente.
+
+Da entrada aberta, curvas douradas finas e semitransparentes representando o aroma fresco chegam ao nariz da protagonista.
+A protagonista inspira levemente e desacelera.
+Levanta ligeiramente o nariz, olha para a padaria e depois vira o rosto.
+Surge uma pequena expectativa na expressão cansada.
+Finalmente vira o corpo em direção à entrada, mostrando intenção de entrar.
+Depictar em um plano contínuo.
+Mantenha o aroma muito sutil. Sem fumaça ou raios de luz fortes.
+Não ilumine toda a cidade nesta etapa.
+
+1,8–2,8s | 02: Comprando pão
+Corte seco para dentro da loja. Omita o processo de entrada e pagamento.
+Mesma composição de balcão da Referência 02.
+Após pagar, a protagonista recebe da padeira um pão redondo embrulhado em papel na metade inferior.
+A mão da protagonista apoia o pão antes que a padeira solte.
+A protagonista ainda está ligeiramente cansada, mas os cantos da boca relaxam um pouco.
+
+2,8–4,5s | 03: Uma mordida do lado de fora
+Corte seco para o banco do lado de fora da loja.
+Como na Referência 03, a protagonista senta-se no banco externo.
+O fundo mostra a vitrine da loja e a cidade ainda azul-acinzentada.
+Traga o pão redondo embrulhado em papel até a boca e dê uma pequena mordida.
+Som sutil de "crocância".
+Afaste ligeiramente o pão da boca.
+Deixe uma marca de mordida natural no pão.
+
+4,5–6,3s | 04: Expressão e mundo clareiam
+Alterne para a composição da Referência 04.
+Conecte as ações do mesmo banco, mesma postura.
+A protagonista fecha lentamente os olhos, saboreando o pão.
+Sobrancelhas relaxam, bochechas levantam, ombros perdem tensão, torna-se um sorriso natural.
+Correspondendo à mudança de expressão, a suave luz solar matinal dourada ilumina a bochecha.
+Luz quente e cores se espalham gentilmente ao redor da protagonista para o fundo.
+A cidade azul-acinzentada muda para cores quentes nos prédios, verde vívido, céu brilhante.
+Não altere formas/posições de prédios/árvores/ruas; depicte a mudança apenas através de iluminação e saturação.
+Segure o sorriso brevemente no final.
+
+6,3–8,0s | 05: Passo energético
+Composição ampla da Referência 05.
+Omita o processo de levantar via corte.
+A protagonista já está de pé, segurando o pão em uma mão, sai caminhando levemente.
+Costas endireitam, rosto levanta, passada fica ligeiramente maior.
+Mesma cidade envolvida em luz solar quente e cores brilhantes.
+Não corra nem pule; transmita a energia recuperada através da postura e dos movimentos dos pés.
+
+8,0–10,0s | 06: Produto e Marca
+Corte de produto da Referência 06.
+Fundo marfim.
+Lado direito: Pão redondo e pão dividido em tábua de madeira, saco de papel.
+Pão também na mesma expressão de animação 3D, mostrando casca perfumada e seção transversal macia.
+
+Texto no lado esquerdo em castanho escuro:
+"Com uma mordida,
+o dia ganha cor."
+
+Abaixo, menor:
+"Komugi Biyori"
+
+Não exiba aspas.
+Exiba o texto com precisão, uma vez cada.
+Mostre o texto completo desde o início do plano, fixe forma e posição até o fim.
+Mantenha o produto e a câmera quase estáticos.
+
+[Edição]
+Conecte 6 planos com cortes secos.
+Não acelere as ações; omita entrada, pagamento, sair para fora, levantar via cortes.
+Transmita claramente a entrada desencadeada pelo aroma através do olhar e orientação corporal em 01.
+O clareamento da cidade inteira acontece após comer o pão.
+Não use morphing que deforme pessoas ou objetos.
+
+[Som]
+Música quente centrada em piano suave.
+O início tem passos sutis e melodia tranquila.
+Adicione uma nota alta de piano no momento de perceber o aroma.
+Sincronize o som do embrulho e o som de morder o pão com as ações.
+A música clareia e se espalha quando o mundo se ilumina após a mordida.
+
+Por volta de 6,2s, uma voz feminina adulta calma e quente lê naturalmente:
+"Com uma mordida, o dia ganha cor. Komugi Biyori."
+A pronúncia do nome da loja é "Komugi Biyori".
+Termine a leitura por volta de 9,7s, deixando uma breve ressonância no final.
+A protagonista não fala. Sem diálogos adicionais, letras ou narração de legendas.
+
+[Proibições]
+Live-action, mistura de live-action e animação.
+Mudanças no rosto, idade, físico, penteado ou roupa da pessoa.
+Dedos quebrados, penetração de objetos, multiplicação de pão, desaparecimento da marca de mordida.
+Cidade clareando antes de comer o pão.
+Deformação de prédios/ruas, substituição por uma cidade diferente.
+Grandes quantidades de fumaça, raios de luz fortes, partículas mágicas excessivas.
+Números de painel, bordas, telas divididas, texto não especificado, logos, marcas d'água.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100902965691453440/img/cyCLo9M_Zx2364ld.jpg" width="600" alt="Prompt de CM Estilo Pixar para Padaria no Gemini Omni">
+
+**[🎬 Assistir vídeo →](https://x.com/tanabe_fragm/status/2100904306035806238)**
+
+**Autor:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **Fonte:** [Link](https://x.com/tanabe_fragm/status/2100904306035806238) | **Publicado:** Sep 18, 2026
+
+---
 ### Transformação de Imagem em Vídeo com Gemini Omni
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3221,25 +3367,6 @@ ESTILO: Fotografia de alimentos ultrarrealista, textura de ketchup brilhante, f�
 **Autor:** [おもも桃](https://x.com/omomomomo0309) | **Fonte:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Publicado:** Aug 18, 2026
 
 ---
-### Transformação do Dragão na Cidade Proibida
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Um prompt de transformação em várias etapas para o Gemini Omni Flash que transforma o Salão da Harmonia Suprema em um Dragão Imperial Chinês usando imagens de referência.
-
-#### 📝 Prompt
-
-```
-@Image1 é o Salão da Harmonia Suprema original e exato. @Image2 define a transformação intermediária aprovada. @Image3 define o Dragão Imperial Chinês final, guardião do palácio. Crie um
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Transformação do Dragão na Cidade Proibida">
-
-**[🎬 Assistir vídeo →](https://x.com/CrazyKaomei/status/2089279848741261762)**
-
-**Autor:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Fonte:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Publicado:** Aug 17, 2026
-
----
 ---
 
 ## 📚 Mais prompts disponíveis
@@ -3292,6 +3419,6 @@ Esta obra está licenciada sob [CC BY 4.0](https://creativecommons.org/licenses/
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-19T08:32:56.087Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-09-19T15:24:12.147Z</sub>
 
 </div>

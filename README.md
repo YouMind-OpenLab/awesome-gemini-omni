@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **275** |
+| 📝 Total Prompts | **276** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-19** |
 
@@ -56,6 +56,152 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Pixar Style Bakery CM Prompt for Gemini Omni
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> A detailed prompt for generating a 10-second Pixar-style brand commercial for a fictional bakery using Gemini Omni Flash 1.1, referencing a 6-panel storyboard.
+
+#### 📝 Prompt
+
+```
+Refer to the attached 6-panel storyboard and produce a 10-second brand CM for the fictional bakery "Komugi Biyori".
+Aspect ratio 16:9, with audio.
+
+[Story]
+An exhausted adult woman is walking when the fresh aroma of bread reaches her from a bakery.
+She notices the scent, turns her face toward the shop, and buys bread.
+When she takes a bite on the bench outside the shop, her expression relaxes, and the entire town brightens and colors up.
+The woman regains her energy and walks out lightly.
+
+[Video Style]
+Same as the reference images, a polished feature-length 3D animation in Pixar style.
+Draw everything—people, hair, clothes, bread, buildings, roads, props—as the same 3D animation world.
+Expressive characters, organized solid modeling, soft material textures, cinematic lighting.
+Do not mix live-action people/backgrounds or live-action with CG.
+
+[Reference Images and Continuity]
+The attached images are 01, 02, 03 (top row left to right), and 04, 05, 06 (bottom row left to right).
+In this order, make each panel an independent full-screen video.
+Do not display the whole board, panel numbers, borders, or split screens.
+
+Only for 01, add the action of "noticing a good smell and turning face toward the bakery" to the tired walking pose in the reference image.
+Unify character, costume, store, bench, and bread design across all cuts.
+
+Protagonist is a 32-year-old adult woman.
+Dark brown short bob, sage green jacket, ivory blouse, navy pants, brown shoulder bag.
+Maintain adult facial features and physique.
+
+Baker is a 35-year-old adult woman.
+Beige hat, white cook shirt, beige apron.
+Make her face different from the protagonist.
+
+[10-second Shot Composition]
+
+0.0–1.8s | 01: Walking, smelling aroma
+In front of the bakery from Reference 01.
+The protagonist walks with shoulders slumped and heavy steps.
+The town is blue-gray and low saturation; only the bakery window is warm.
+
+From the open entrance, thin semi-transparent golden curves representing the fresh aroma reach the protagonist's nose.
+The protagonist inhales lightly and slows down.
+Lifts nose slightly, looks at the bakery, then turns face.
+Small expectation arises in tired expression.
+Finally turns body toward entrance, showing intent to enter.
+Depict in one continuous shot.
+Keep aroma very subtle. No smoke or strong light rays.
+Do not brighten the whole town at this stage.
+
+1.8–2.8s | 02: Buying bread
+Hard cut to inside the store. Omit entry and payment process.
+Same counter composition as Reference 02.
+After paying, protagonist receives a round bread wrapped in paper on bottom half from baker.
+Protagonist's hand supports bread before baker lets go.
+Protagonist still slightly tired but mouth corners relax slightly.
+
+2.8–4.5s | 03: One bite outside
+Hard cut to bench outside shop.
+As in Reference 03, protagonist sits on outdoor bench.
+Background shows shop window and still blue-gray town.
+Bring paper-wrapped round bread to mouth and take a small bite.
+Subtle "crunch" sound.
+Move bread slightly away from mouth.
+Leave one natural bite mark on the bread.
+
+4.5–6.3s | 04: Expression and world brighten
+Switch to composition of Reference 04.
+Connect actions from same bench, same posture.
+Protagonist slowly closes eyes, savoring bread.
+Eyebrows relax, cheeks lift, shoulders drop tension, becomes natural smile.
+Matching expression change, soft golden morning sun illuminates cheek.
+Warm light and colors gently spread from around protagonist to background.
+Blue-gray town changes to warm building colors, vivid green, bright sky.
+Do not change shapes/positions of buildings/trees/roads; depict change only through lighting and saturation.
+Hold smile briefly at end.
+
+6.3–8.0s | 05: Energetic step
+Wide composition of Reference 05.
+Omit standing up process via cut.
+Protagonist already standing, holding bread in one hand, walks out lightly.
+Back straightens, face lifts, stride becomes slightly larger.
+Same town enveloped in warm sunlight and bright colors.
+Do not run or jump; convey regained energy through posture and footwork.
+
+8.0–10.0s | 06: Product and Brand
+Product cut of Reference 06.
+Ivory background.
+Right side: Round bread and split bread on wooden board, paper bag.
+Bread also in same 3D animation expression, showing fragrant crust and soft cross-section.
+
+Left side text in dark brown:
+"With one bite,
+today gets colored."
+
+Below smaller:
+"Komugi Biyori"
+
+Do not display quotation marks.
+Display text accurately, once each.
+Show full text from shot start, fix shape and position until end.
+Keep product and camera nearly static.
+
+[Editing]
+Connect 6 shots with hard cuts.
+Do not speed up actions; omit entry, payment, moving outside, standing up via cuts.
+Clearly convey aroma triggered entry via gaze and body orientation in 01.
+Whole town brightening happens after eating bread.
+Do not use morphing that deforms people or objects.
+
+[Sound]
+Warm music centered on soft piano.
+Beginning has subtle footsteps and quiet melody.
+Add one high piano note at moment noticing aroma.
+Sync wrapper sound and bread biting sound with actions.
+Music brightens and spreads when world lights up after bite.
+
+From around 6.2s, calm warm adult female voice reads naturally:
+"With one bite, today gets colored. Komugi Biyori."
+Pronunciation of shop name is "Komugi Biyori".
+Finish reading by approx 9.7s, leaving short resonance at end.
+Protagonist does not speak. No additional dialogue, lyrics, or subtitle narration.
+
+[Prohibitions]
+Live-action, mixing live-action and animation.
+Changes in person's face, age, physique, hairstyle, costume.
+Broken fingers, object penetration, bread multiplication, disappearance of bite mark.
+Town brightening before eating bread.
+Deformation of buildings/roads, replacement with different town.
+Large amounts of smoke, strong light rays, excessive magic particles.
+Panel numbers, borders, split screens, unspecified text, logos, watermarks.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100902965691453440/img/cyCLo9M_Zx2364ld.jpg" width="600" alt="Pixar Style Bakery CM Prompt for Gemini Omni">
+
+**[🎬 Watch Video →](https://x.com/tanabe_fragm/status/2100904306035806238)**
+
+**Author:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **Source:** [Link](https://x.com/tanabe_fragm/status/2100904306035806238) | **Published:** Sep 18, 2026
+
+---
 ### Gemini Omni Image-to-Video Transformation
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3153,25 +3299,6 @@ TITLE:\nPremium Tomato Ketchup Product Commercial Storyboard\n\nFORMAT:\n• Sin
 **Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Published:** Aug 18, 2026
 
 ---
-### Forbidden City Dragon Transformation
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> A multi-stage transformation prompt for Gemini Omni Flash that turns the Hall of Supreme Harmony into a Chinese Imperial Dragon using reference images.
-
-#### 📝 Prompt
-
-```
-@Image1 is the exact original Hall of Supreme Harmony. @Image2 defines the approved halfway transformation. @Image3 defines the final Chinese Imperial Dragon-Palace Guardian. Create one
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Forbidden City Dragon Transformation">
-
-**[🎬 Watch Video →](https://x.com/CrazyKaomei/status/2089279848741261762)**
-
-**Author:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Source:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Published:** Aug 17, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3224,6 +3351,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-19T08:32:33.262Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-19T15:23:57.163Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **275** |
+| 📝 Toplam İstem | **276** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-19** |
 
@@ -56,6 +56,150 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Pixar Tarzı Fırın CM İstemi (Gemini Omni İçin)
+
+![日本語](https://img.shields.io/badge/lang-日本語-green)
+
+> 6 panelli bir storyboard'a referansla, Gemini Omni Flash 1.1 kullanılarak kurgusal bir fırın için Pixar tarzında 10 saniyelik marka reklam videosu oluşturmak üzere hazırlanmış detaylı istem.
+
+#### 📝 İstem
+
+```
+Ekli 6 panelli storyboard'u referans alarak, kurgusal "Komugi Biyori" fırını için sesli ve 16:9 en-boy oranına sahip 10 saniyelik bir marka reklam videosu üret.
+
+[Hikaye]
+Yorgun bir yetişkin kadın yürürken, bir fırından gelen taze ekmek kokusu burnuna ulaşır.
+Kokuyu fark eder, yüzünü dükkana çevirir ve ekmek satın alır.
+Dükkanın dışındaki bankta ısırık aldığında ifadesi gevşer ve tüm kasaba aydınlanır, renklenir.
+Kadın enerjisini geri kazanır ve hafif adımlarla uzaklaşır.
+
+[Video Stili]
+Referans görsellerle aynı şekilde, cilalı, uzun metrajlı bir animasyon kalitesinde Pixar tarzı 3D animasyon.
+İnsanlar, saçlar, kıyafetler, ekmekler, binalar, yollar ve aksesuarlar dahil her şeyi aynı 3D animasyon dünyası içinde çiz.
+İfadeli karakterler, düzenli katı modelleme, yumuşak malzeme dokuları, sinematik ışıklandırma.
+Canlı çekim insan/arka plan veya canlı çekim ile CG'yi karıştırma.
+
+[Referans Görseller ve Süreklilik]
+Ekli görseller sırasıyla şu şekildedir: Üst sıra soldan sağa 01, 02, 03; Alt sıra soldan sağa 04, 05, 06.
+Bu sırayla, her paneli bağımsız tam ekran video olarak oluştur.
+Tüm board'u, panel numaralarını, kenarlıkları veya bölünmüş ekranları gösterme.
+
+Sadece 01 için, referans görseldeki yorgun yürüyüş pozuna "iyi bir koku fark edip fırına doğru dönme" aksiyonunu ekle.
+Tüm kesimlerde karakter, kostüm, dükkan, banka ve ekmek tasarımını birleştir.
+
+Başrol, 32 yaşında yetişkin bir kadındır.
+Koyu kahverengi kısa bob saç, adaçayı yeşili ceket, fildişi bluz, lacivert pantolon, kahverengi omuz çantası.
+Yetişkin yüz hatlarını ve fiziksel yapısını koru.
+
+Fırıncı, 35 yaşında yetişkin bir kadındır.
+Bej şapka, beyaz aşçı gömleği, bej önlük.
+Yüzünü başrolden farklı yap.
+
+[10 Saniyelik Çekim Kompozisyonu]
+
+0.0–1.8s | 01: Yürüme, Koku Alma
+Referans 01'deki fırının önünde.
+Başrol, omuzları düşük ve ağır adımlarla yürüyor.
+Kasaba mavi-gri ve düşük doygunlukta; sadece fırın vitrini sıcak tonlarda.
+Açık girişten, taze aromayı temsil eden ince, yarı saydam altın eğriler başrolün burnuna ulaşır.
+Başrol hafifçe nefes alır ve yavaşlar.
+Burnunu biraz kaldırır, fırına bakar, ardından yüzünü çevirir.
+Yorgun ifadede küçük bir beklenti belirir.
+Sonunda vücudunu girişe döndürerek içeri girme niyetini gösterir.
+Tek bir sürekli çekimde tasvir et.
+Aromayı çok ince tut. Duman veya güçlü ışık huzmeleri yok.
+Bu aşamada tüm kasabayı aydınlatma.
+
+1.8–2.8s | 02: Ekmek Satın Alma
+Dükkan içine sert geçiş. Giriş ve ödeme sürecini atla.
+Referans 02 ile aynı tezgah kompozisyonu.
+Ödemeden sonra başrol, fırıncıdan alt yarısı kağıda sarılı yuvarlak bir ekmek alır.
+Fırıncı bırakmadan önce başrolün eli ekmeği destekler.
+Başrol hala biraz yorgun ama ağız köşeleri hafifçe gevşer.
+
+2.8–4.5s | 03: Dışarıda Bir Isırık
+Dükkan dışındaki bankta sert geçiş.
+Referans 03'teki gibi, başrol dışarıdaki bankta oturuyor.
+Arka planda dükkan vitrini ve hala mavi-gri olan kasaba görülüyor.
+Kağıda sarılı yuvarlak ekmeği ağzına götür ve küçük bir ısırık al.
+Hafif bir "çıt" sesi.
+Ekmeği ağzından biraz uzaklaştır.
+Ekmekte doğal tek bir ısırık izi bırak.
+
+4.5–6.3s | 04: İfade ve Dünya Aydınlanır
+Referans 04'ün kompozisyonuna geç.
+Aynı banktan, aynı postürden hareketleri bağla.
+Başrol yavaşça gözlerini kapatır, ekmeğin tadını çıkarır.
+Kaşlar gevşer, yanaklar kalkar, omuzlardaki gerginlik düşer, doğal bir gülümseme oluşur.
+İfade değişikliğine uygun olarak, yumuşak altın sabah güneşi yanağını aydınlatır.
+Sıcak ışık ve renkler başrolün etrafından arka plana doğru nazikçe yayılır.
+Mavi-gri kasaba, sıcak bina renklerine, canlı yeşile ve parlak gökyüzüne dönüşür.
+Binaların/ağaçların/yolların şekillerini/konumlarını değiştirme; değişimi sadece ışıklandırma ve doygunluk yoluyla tasvir et.
+Sonunda gülümsemeyi kısaca sürdür.
+
+6.3–8.0s | 05: Enerjik Adım
+Referans 05'in geniş kompozisyonu.
+Kesimlerle ayağa kalkma sürecini atla.
+Başrol zaten ayakta, bir elinde ekmek var ve hafif adımlarla uzaklaşıyor.
+Sırtı dikleşir, yüzü kalkar, adımları biraz daha büyük olur.
+Aynı kasaba, sıcak güneş ışığı ve parlak renklere sarılmış durumda.
+Koşma veya zıplama; geri kazanılan enerjiyi duruş ve adım atma yoluyla aktar.
+
+8.0–10.0s | 06: Ürün ve Marka
+Referans 06'nın ürün çekimi.
+Fildişi arka plan.
+Sağ taraf: Ahşap tahta üzerinde yuvarlak ekmek ve dilimlenmiş ekmek, kağıt torba.
+Ekmek de aynı 3D animasyon ifadesinde olsun, hoş kabuk ve yumuşak kesit görünümü sergilesin.
+
+Sol tarafta koyu kahverengi metin:
+"Bir ısırıkla,
+bugün renklenir."
+
+Altında daha küçük boyutta:
+"Komugi Biyori"
+
+Tırnak işaretlerini gösterme.
+Metni doğru şekilde, her birini bir kez göster.
+Çekimin başından itibaren tüm metni göster, sonuna kadar şekil ve konumu sabitle.
+Ürün ve kamerayı neredeyse statik tut.
+
+[Düzenleme]
+6 çekimi sert geçişlerle bağla.
+Hareketleri hızlandırma; giriş, ödeme, dışarı çıkma ve ayağa kalkma işlemlerini kesimlerle atla.
+01'de bakış ve vücut yönelimi aracılığıyla koku tetiklenen girişi net bir şekilde aktar.
+Tüm kasaban aydınlanması, ekmek yendikten sonra gerçekleşir.
+İnsanları veya nesneleri bozan morphing efektleri kullanma.
+
+[Ses]
+Yumuşak piyano odaklı sıcak müzik.
+Başlangıçta ince ayak sesleri ve sakin bir melodi var.
+Aromayı fark ettiği anda yüksek bir piyano notası ekle.
+Paketleme sesi ve ekmek ısırma sesini hareketlerle senkronize et.
+Isırıktan sonra dünya aydınlandığında müzik parlar ve yayılır.
+
+Yaklaşık 6.2s'den itibaren, sakin, sıcak bir yetişkin kadın sesi doğal bir şekilde okur:
+"Bir ısırıkla, bugün renklenir. Komugi Biyori."
+Dükkan adının telaffuzu "Komugi Biyori" olmalı.
+Okumayı yaklaşık 9.7s'de bitir, sonunda kısa bir rezonans bırak.
+Başrol konuşmaz. Ek diyalog, şarkı sözü veya altyazı anlatımı yok.
+
+[Yasaklar]
+Canlı çekim, canlı çekim ve animasyon karışımı.
+Kişinin yüzü, yaşı, fiziği, saç modeli, kostümü değişiklikleri.
+Kırık parmaklar, nesne penetrasyonu, ekmek çoğalması, ısırık izinin kaybolması.
+Ekmek yenmeden önce kasabanın aydınlanması.
+Binaların/yolların deformasyonu, farklı bir kasabayla değiştirilmesi.
+Büyük miktarlarda duman, güçlü ışık huzmeleri, aşırı sihirli partiküller.
+Panel numaraları, kenarlıklar, bölünmüş ekranlar, belirtilmemiş metinler, logolar, filigranlar.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2100902965691453440/img/cyCLo9M_Zx2364ld.jpg" width="600" alt="Pixar Tarzı Fırın CM İstemi (Gemini Omni İçin)">
+
+**[🎬 Videoyu izle →](https://x.com/tanabe_fragm/status/2100904306035806238)**
+
+**Yazar:** [タナベ | AI動画 × マーケティング](https://x.com/tanabe_fragm) | **Kaynak:** [Link](https://x.com/tanabe_fragm/status/2100904306035806238) | **Yayınlandı:** Sep 18, 2026
+
+---
 ### Gemini Omni Görselden Videoya Dönüşüm
 
 ![English](https://img.shields.io/badge/lang-English-blue)
@@ -3221,25 +3365,6 @@ Buz gezegenini koruyan tanrıça, sakin bir ifadeyle halkına hitaben, "Üzerimi
 **Yazar:** [おもも桃](https://x.com/omomomomo0309) | **Kaynak:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Yayınlandı:** Aug 18, 2026
 
 ---
-### Yasak Şehir Ejderha Dönüşümü
-
-![中文](https://img.shields.io/badge/lang-中文-red)
-
-> Referans görseller kullanarak Yüce Uyum Sarayı'nı bir Çin İmparatorluk Ejderhasına dönüştüren, Gemini Omni Flash için çok aşamalı bir dönüşüm istemi.
-
-#### 📝 İstem
-
-```
-@Image1, Yüce Uyum Sarayı'nın tam orijinal halidir. @Image2, onaylanmış ara dönüşüm aşamasını tanımlar. @Image3, nihai Çin İmparatorluk Ejderhası-Saray Muhafızı'nı tanımlar. Bir tane oluştur
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089278607621554176/img/NBcWupLC9Uga_xO-.jpg" width="600" alt="Yasak Şehir Ejderha Dönüşümü">
-
-**[🎬 Videoyu izle →](https://x.com/CrazyKaomei/status/2089279848741261762)**
-
-**Yazar:** [疯狂的烤妹儿 🩵](https://x.com/CrazyKaomei) | **Kaynak:** [Link](https://x.com/CrazyKaomei/status/2089279848741261762) | **Yayınlandı:** Aug 17, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3292,6 +3417,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-19T08:32:57.475Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-19T15:24:12.944Z</sub>
 
 </div>
