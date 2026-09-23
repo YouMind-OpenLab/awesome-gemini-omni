@@ -46,7 +46,7 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **276** |
+| 📝 Total de prompts | **279** |
 | ⭐ Prompts destacados | **0** |
 | 🔄 Última actualización | **2026-09-23** |
 
@@ -56,6 +56,221 @@ Una colección curada de prompts de generación de video de alta calidad para Ge
 
 > 📝 Ordenado por fecha de publicación (más reciente primero)
 
+### Prompt de Video para Gemini Omni: Poesía Antigua China
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Un prompt detallado y multifacético para generar un video animado vertical (9:16) en estilo de tinta china antigua, basado en el poema 'Despedida a un Amigo' de Li Bai. Especifica la generación de texto a video sin audio, subtítulos ni superposiciones de texto, centrándose en la narrativa visual de una escena de despedida.
+
+#### 📝 Prompt
+
+```
+## Configuración Unificada de Generación
+
+- Modo: Puro Texto-a-Video
+- No subir videos de referencia
+- No subir imágenes de referencia
+- No subir locuciones ni ningún tipo de audio
+- Relación de Aspecto: Vertical 9:16
+- Duración Sugerida: 10 segundos por segmento
+- Salida: Solo visuales, silencioso
+- Post-producción: La narración original de Doubao y los subtítulos se volverán a añadir localmente
+- Prioridad Máxima: Absolutamente prohibido cualquier texto, subtítulo, título, caligrafía, sellos, texto en placas, marcas de agua, logotipos, interfaz de usuario, pseudo-caracteres, código ilegible, inglés o números desde el primer fotograma hasta el último.
+
+---
+
+## Parte 1 | "Despedida a un Amigo" Apertura: Adiós Fuera de la Ciudad
+
+Generar una animación de estilo antiguo chino, vertical 9:16, de 10 segundos de duración.
+
+Fuera de las murallas de la ciudad durante la Dinastía Tang, una escena de despedida en un paisaje abierto. Montañas verdes continuas y distantes se extienden horizontalmente; cerca, ríos claros serpentean alrededor de la ciudad antigua. Las murallas, las orillas del río, los caminos antiguos y las montañas lejanas crean una profundidad distinta.
+
+Hay dos eruditos de la Dinastía Tang, ambos en sus treinta años, en la escena.
+
+Li Bai: Un rostro masculino del este asiático, delgado y natural, cabello oscuro recogido, vistiendo una túnica larga azul grisácea con cuello cruzado y forro interior blanco hueso, zapatos de tela, poseyendo un temperamento libre y sereno.
+
+Amigo: Un hombre del este asiático de unos treinta años, vistiendo una túnica larga marrón lisa con cuello cruzado, cabello oscuro recogido, llevando una bolsa de viaje sencilla, acompañado por un caballo marrón.
+
+La cámara comienza con una vista amplia de las montañas verdes, los ríos y las murallas, avanzando lentamente hacia adelante. Los dos eruditos caminan lado a lado por el camino antiguo junto a la orilla del río, a punto de separarse. Una brisa mueve sus mangas, las hojas y las crines del caballo; aparecen sutiles ondulaciones en la superficie del río.
+
+Luego, los dos se detienen junto al camino antiguo, con la senda extendiéndose hacia las montañas en la distancia, creando una atmósfera de partida mientras el amigo está a punto de viajar lejos. La emoción general no es de duelo, sino implícita, contenida y libre, con una renuencia subyacente a separarse.
+
+Estilo de animación clásica china de tinta lavada coloreada, paisajes verde cian pálido, textura delicada de papel de arroz, composición cinematográfica, iluminación y sombras naturales, proporciones realistas de los personajes, movimientos naturales y contenidos, trabajo de cámara estable y lento. Debe mantenerse el marco completo 9:16 sin recortar cabezas de personajes ni paisajes importantes.
+
+Animación puramente visual. Sin locución. Los personajes no hablan. Sin sincronización labial. Sin música. Sin sonido ambiental. Sin efectos de sonido.
+
+Absolutamente prohibido en todo momento: Cualquier aparición de texto. Sin subtítulos, títulos, poemas, nombres de autores, caligrafía, sellos, texto en placas, texto en banderas, pergaminos, inscripciones en estelas de piedra, marcas de agua, logotipos, interfaz de usuario, pseudo-caracteres, código ilegible, inglés o números. Las placas en los edificios deben estar en blanco o ausentes por completo. Mantener una pantalla pura sin texto desde el primer fotograma hasta el último.
+
+---
+
+## Parte 2 | Montañas Verdes y Aguas Blancas
+
+Generar una animación de estilo antiguo chino, vertical 9:16, de 10 segundos de duración.
+
+Continuar con el mundo de la despedida fuera de la ciudad de la Dinastía Tang.
+
+La apertura es una gran vista distante de montañas verdes, la ciudad antigua y los ríos. Las montañas verdes se extienden horizontalmente al norte de la ciudad antigua, con laderas que se abren, picos estratificados y nubes tenues moviéndose lentamente entre las montañas.
+
+La cámara hace un paneo constante, revelando gradualmente un río claro que serpentea pasando por el lado este de la ciudad antigua. El agua del río es brillante y limpia, reflejando el cielo, las murallas y las montañas lejanas, con solo ligeras ondulaciones en la superficie.
+
+Junto al camino antiguo en la orilla del río, los dos eruditos de la Dinastía Tang aparecen en el cuadro a menor escala. Li Bai viste una túnica larga azul grisácea con cuello cruzado, el amigo viste una túnica larga marrón lisa, acompañados por un caballo marrón.
+
+Los personajes permanecen quietos, sin hablar, expresando la situación de la separación inminente solo mediante detenerse a contemplar el paisaje.
+
+En la segunda mitad, la cámara se mueve lentamente a lo largo del río, permitiendo que las montañas verdes, las aguas blancas, la ciudad antigua y el camino antiguo formen una composición completa de paisaje chino.
+
+Estilo de tinta lavada coloreada china verde cian pálido, textura delicada de papel de arroz, capas espaciales realistas, sensación cinematográfica, movimiento lento y constante, sin transiciones rápidas.
+
+Visuales puros. Sin locución, sin música, sin sonido ambiental, sin efectos de sonido. Los personajes no hablan ni realizan sincronizaciones labiales de lectura.
+
+La pantalla debe estar 100% libre de texto. Sin subtítulos, sin poemas, sin caligrafía, sin títulos, sin texto en placas, sin sellos, sin pergaminos, sin inscripciones en estelas de piedra, sin marcas de agua, sin logotipos, sin pseudo-caracteres o código ilegible. Cualquier arquitectura u objeto donde podría aparecer texto debe permanecer completamente en blanco.
+
+---
+
+## Parte 3 | Separándonos Aquí, Hierba Solitaria Viajando Lejos
+
+Generar una animación de despedida de estilo antiguo de la Dinastía Tang, vertical 9:16, de 10 segundos de duración.
+
+Junto al camino antiguo en la orilla del río, dos eruditos de la Dinastía Tang en sus treinta años están de pie frente a frente.
+
+Li Bai mantiene su túnica larga azul grisácea con cuello cruzado, cabello oscuro recogido y rostro delgado y natural. El amigo que parte mantiene su túnica larga marrón lisa, cabello oscuro recogido, acompañado por un caballo marrón con solo una bolsa de viaje sencilla sobre su lomo.
+
+Al inicio, los dos se miran en silencio junto al camino antiguo. Luego se despiden con saludos contenidos juntando las manos, asintiendo suavemente, sin abrazos, llantos o actuación exagerada.
+
+El amigo se da la vuelta, guiando al caballo hacia el camino antiguo lejano. La cámara retrocede gradualmente.
+
+El camino antiguo se adentra profundamente en las montañas. Una hierba rodadora limpia y natural es soplada por el viento, rodando o balanceándose ligeramente en el desierto, usando el paisaje natural para implicar deriva y viaje lejano. No convertir al personaje en una hierba rodadora; no usar magia ni efectos especiales fantásticos.
+
+En la segunda mitad, enfocarse en las espaldas del amigo y el caballo desapareciendo gradualmente, mientras Li Bai permanece más cerca, observándolos irse. Los campos montañosos son vastos, y las figuras se hacen más pequeñas, reforzando la sensación de espacio para un viaje de diez mil millas.
+
+Animación clásica china de tinta lavada coloreada, tonos verde cian pálido y marrón tierra, textura de papel de arroz, composición cinematográfica, proporciones realistas de los personajes, mangas y crines del caballo ondeando ligeramente al viento, movimiento de cámara lento y natural.
+
+Visuales puros, sin sonido. Los personajes no hablan ni hacen sincronización labial.
+
+Absolutamente no generar ningún texto. Prohibido: Subtítulos, poemas, títulos, caligrafía, sellos, texto en placas, texto en banderas, pergaminos, inscripciones en estelas de piedra, logotipos, marcas de agua, inglés, números, pseudo-texto y código ilegible.
+
+---
+
+## Parte 4 | Nubes Flotantes para el Errante, Sol Poniente para el Viejo Amigo
+
+Generar una animación de estilo antiguo chino de tinta lavada, vertical 9:16, de 10 segundos de duración.
+
+El camino antiguo fuera de la ciudad de la Dinastía Tang se extiende hacia la distancia. El amigo ya ha montado o guiado al caballo alejándose lentamente por el camino antiguo.
+
+Varias nubes flotantes se mueven lentamente en el cielo. La cámara primero se mueve suavemente hacia arriba, siguiendo las nubes a la deriva en el cielo, luego desciende lentamente para conectar con la espalda del amigo que parte, creando un eco visual natural entre las nubes flotantes y el viajero.
+
+No usar ningún texto o símbolo abstracto para explicar esta concepción artística; expresarlo solo a través de la imaginería.
+
+Luego, la cámara mira hacia atrás lentamente. Li Bai está de pie solo junto al camino antiguo en la orilla del río, vistiendo una túnica larga azul grisácea, observando en silencio cómo su amigo desaparece en la distancia.
+
+El sol poniente en el oeste se hunde lentamente. La suave luz dorada del atardecer ilumina el perfil lateral de Li Bai, la superficie del río y las montañas lejanas.
+
+La expresión de Li Bai es serena pero renuente, sin lágrimas, y sin expresiones tristes exageradas.
+
+Finalmente, se forma una imagen completa: nubes flotantes en el cielo, el amigo lejano, el sol poniente, el río y Li Bai quedándose atrás para observar existen simultáneamente en un espacio de paisaje estratificado.
+
+Estilo de tinta lavada coloreada china, combinando verde cian pálido con el resplandor cálido del atardecer, textura de papel de arroz, iluminación y sombras naturales realistas, sensación cinematográfica, movimiento de cámara lento y fluido, acciones implícitas y contenidas.
+
+Visuales puros. Sin locución, sin música, sin sonido ambiental, sin efectos de sonido. Los personajes no hablan ni hacen sincronización labial.
+
+Absolutamente sin texto en todo el video. Sin subtítulos, sin poemas, sin títulos, sin caligrafía, sin texto en placas, sin sellos, sin pergaminos, sin logotipos, sin marcas de agua, sin pseudo-caracteres, sin código ilegible.
+
+---
+
+## Parte 5 | Despidiéndose con la Mano, el Caballo Relincha Largamente
+
+Generar una animación de despedida de estilo antiguo de la Dinastía Tang, vertical 9:16, de 10 segundos de duración.
+
+El camino antiguo fuera de la ciudad bajo el sol poniente.
+
+Li Bai viste una túnica larga azul grisácea con cuello cruzado, de pie junto al camino antiguo en la orilla del río. El amigo viste una túnica larga marrón lisa y ya ha montado o guiado al caballo marrón a cierta distancia.
+
+Al inicio, el amigo mira hacia atrás. Li Bai levanta la mano para saludar a su amigo; el amigo lejano también se vuelve y saluda en respuesta. Los movimientos son lentos, naturales y contenidos.
+
+Luego, el amigo continúa caminando hacia la distancia.
+
+El caballo marrón gira brevemente la cabeza hacia atrás, levantando suavemente la cabeza, crineando al viento, expresando el sentimiento de renuencia a dejar la manada a través de las acciones del caballo.
+
+Aquí, mostrar solo las acciones visuales del caballo. No generar sonidos de relinchos, ondas de sonido ni texto onomatopéyico.
+
+La cámara retrocede gradualmente. El amigo y el caballo se alejan cada vez más por el camino antiguo, mientras Li Bai permanece en su lugar observando. El sol poniente, las montañas lejanas, el río, el camino antiguo y los dos amigos separándose gradualmente forman la escena final de despedida.
+
+Para los últimos dos segundos, mantener la escena completa, con solo ligeros movimientos de la luz del atardecer, las mangas, las hojas y la crin del caballo.
+
+Sin pantalla negra. Sin fundido a negro para tarjeta final. No generar pergaminos ni texto de pantalla final.
+
+Animación clásica china de tinta lavada coloreada, paisajes verde cian pálido combinados con el resplandor cálido del atardecer, textura delicada de papel de arroz, composición cinematográfica, proporciones realistas de los personajes, movimiento de cámara estable y lento.
+
+Visuales puros, completamente silenciosos. Sin locución. Sin música. Sin sonido ambiental. Sin efectos de sonido. Los personajes no hablan ni hacen sincronización labial.
+
+Desde el primer fotograma hasta el último, debe haber absolutamente cero texto. Prohibido: Subtítulos, poemas, títulos, nombres de autores, caligrafía, sellos, texto en placas, texto en banderas, inscripciones en estelas de piedra, texto en pergaminos, logotipos, marcas de agua, interfaz de usuario, números, inglés, pseudo-caracteres y código ilegible.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102676626068930560/img/Twk6W56KBSf8MFLa.jpg" width="600" alt="Prompt de Video para Gemini Omni: Poesía Antigua China">
+
+**[🎬 Ver video →](https://x.com/7998l201/status/2102676845212709346)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Fuente:** [Link](https://x.com/7998l201/status/2102676845212709346) | **Publicado:** Sep 23, 2026
+
+---
+### Prompt de Video Corporativo Comercial con Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar un video comercial corporativo fotorrealista de 10 segundos utilizando Gemini Omni, basado en un storyboard proporcionado.
+
+#### 📝 Prompt
+
+```
+Crea un video comercial corporativo japonés fotorrealista y de alta gama de exactamente 10 segundos para la empresa ficticia de arquitectura y construcción “NEXARC CONSTRUCTION”.
+
+TABLERO DE REFERENCIA
+El storyboard 3×3 cargado controla la composición de los planos, los ángulos de cámara, la posición de los sujetos y las transiciones de escena. Asegúrate de seguir estrictamente la narrativa visual presentada en las imágenes de referencia.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790153039061_9sfv6o_HS0AkODa8AAhHja.jpg" width="600" alt="Prompt de Video Corporativo Comercial con Gemini Omni">
+
+**[🎬 Ver video →](https://x.com/husky__create/status/2102337252340994249)**
+
+**Autor:** [はすきー｜Midjourneyマニア🐺](https://x.com/husky__create) | **Fuente:** [Link](https://x.com/husky__create/status/2102337252340994249) | **Publicado:** Sep 22, 2026
+
+---
+### Prompt de video de cocina de Khachapuri para Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Un prompt detallado para generar un video de cocina de khachapuri fotorrealista de 10 segundos con instrucciones estrictas de continuidad y cámara.
+
+#### 📝 Prompt
+
+```
+Crea un video de cocina de khachapuri fotorrealista de 10 segundos en formato 16:9, siguiendo exactamente la secuencia indicada. Usa una cámara estática cenital a 90°, sobre una mesa negro mate, con las mismas manos masculinas usando guantes negros. Solo cortes directos (hard cuts), sin magia ni pasos omitidos:
+
+0.0-0.7: Ingredientes dispuestos simétricamente; las manos toman la masa.
+0.7-1.5: Estirar la masa hasta formar un óvalo.
+1.5-2.2: Enrollar los bordes largos hacia adentro.
+2.2-2.8: Pellizcar ambos extremos para dar forma de barco.
+2.8-3.6: Rellenar uniformemente con queso rallado.
+3.6-4.2: Colocar el khachapuri crudo en una bandeja de hornear negra.
+4.2-5.0: Deslizar visiblemente el khachapuri crudo dentro del horno.
+5.0-5.8: Timelapse rápido y realista dentro del horno: la masa sube y se dora, el queso se derrite y burbujea.
+5.8-6.5: Las manos retiran el khachapuri horneado.
+6.5-7.3: Romper un huevo directamente en el centro.
+7.3-8.0: Devolver al horno, timelapse corto: la clara cuaja ligeramente mientras la yema permanece líquida.
+8.0-8.6: Retirar el khachapuri terminado y colocarlo sobre la mesa negra.
+8.6-9.2: Añadir cubitos de mantequilla junto a la yema; la mantequilla comienza a derretirse.
+9.2-10.0: Las manos salen del encuadre; toma heroica del khachapuri dorado con queso fundido, yema líquida brillante y mantequilla derritiéndose.
+
+Cada plano siguiente debe continuar desde el estado exacto del alimento del plano anterior. Movimientos de manos rápidos, precisos y realistas. Sin movimiento de cámara, sin levitación, teletransportación, cocción instantánea, ingredientes que desaparecen o se duplican.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790153036963_wt5ej4_HSxFJWAW4AAusdb.jpg" width="600" alt="Prompt de video de cocina de Khachapuri para Gemini Omni">
+
+**[🎬 Ver video →](https://x.com/999shinobi/status/2102142574848798798)**
+
+**Autor:** [999](https://x.com/999shinobi) | **Fuente:** [Link](https://x.com/999shinobi/status/2102142574848798798) | **Publicado:** Sep 21, 2026
+
+---
 ### Prompt de CM estilo Pixar para panadería en Gemini Omni
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -3199,146 +3414,6 @@ Textura de miel ultra realista, física de líquidos realista, iluminación natu
 **Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2090081415924982038) | **Publicado:** Aug 19, 2026
 
 ---
-### Storyboard para comercial de fideos instantáneos
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de storyboard para un anuncio de comida lleno de energía sobre fideos instantáneos. Describe ocho escenas de alto impacto que incluyen el levantamiento de fideos, tomas macro de texturas y efectos de vapor cinematográficos con iluminación de estudio profesional.
-
-#### 📝 Prompt
-
-```
-TÍTULO:
-Storyboard para comercial de producto de fideos instantáneos premium
-
-FORMATO:
-• Storyboard premium de una sola página
-• Relación de aspecto vertical 3:4
-• Anuncio de comida de alta energía
-• 8 escenas cinematográficas del producto
-• Presentación comercial centrada en el producto
-
-ENCABEZADO:
-• Tipografía moderna y audaz
-• Tarjetas de información:
-  - Duración: 20 segundos
-  - Estilo: Anuncio de comida cinematográfico
-  - Producto: Fideos instantáneos
-  - Audio: ASMR de cocina + ritmo energético
-• Sección de por qué funciona este estilo
-• Acentos en amarillo cálido y rojo
-
-STORYBOARD:
-1. Paquete de fideos instantáneos en posición vertical con iluminación dramática
-2. Apertura del paquete y fideos deslizándose hacia un tazón
-3. Agua hirviendo vertiéndose sobre los fideos
-4. Fideos cocinándose con vapor realista elevándose
-5. Adición de condimento en polvo
-6. Palillos levantando fideos perfectamente cocidos
-7. Toma macro extrema de fideos brillantes con ingredientes
-8. Tazón final protagonista junto al paquete original del producto
-
-CADA PANEL:
-• Número de escena
-• Insignia de duración
-• Visual
-• Acción
-• Dirección de cámara
-• Detalle del producto
-
-CÁMARA:
-Fotografía macro de alimentos, composición cenital, primer plano de vapor, toma de levantamiento de fideos, acercamiento dramático al producto, encuadre cinematográfico del protagonista.
-
-ESTILO:
-Anuncio de comida ultrarrealista, vapor realista, textura detallada de los fideos, caldo brillante, ingredientes vibrantes, iluminación de estudio profesional, empaque premium, 8K.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787217318961_wpvccr_HQE90xdaYAA8DRm.jpg" width="600" alt="Storyboard para comercial de fideos instantáneos">
-
-**[🎬 Ver video →](https://x.com/Strength04_X/status/2090019696779387173)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2090019696779387173) | **Publicado:** Aug 19, 2026
-
----
-### Storyboard para comercial de Ketchup de lujo
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Un prompt de storyboard cinematográfico y detallado para un comercial de alimentos premium, enfocado en tomas macro y estética publicitaria profesional para lanzamientos de productos.
-
-#### 📝 Prompt
-
-```
-TÍTULO:
-Storyboard para comercial de producto de Ketchup de tomate premium
-
-FORMATO:
-• Storyboard premium de una sola página
-• Relación de aspecto vertical 3:4
-• Publicidad de producto alimenticio de lujo
-• 8 escenas de storyboard cinematográficas
-• Presentación premium y limpia
-
-ENCABEZADO:
-• Tipografía editorial en negrita
-• Tarjetas de información:
-  - Duración: 20 segundos
-  - Estilo: Comercial de alimentos premium
-  - Producto: Ketchup de tomate
-  - Audio: ASMR de alimentos frescos
-• Sección de por qué funciona este estilo
-• Estética en rojo, blanco y crema
-
-STORYBOARD:
-1. Botella de Ketchup sobre una superficie blanca impecable
-2. Primer plano macro de la tapa de la botella abriéndose
-3. Ketchup espeso fluyendo desde la botella
-4. Ketchup formando una espiral brillante perfecta
-5. Macro extremo mostrando la rica textura del tomate
-6. Ketchup siendo vertido junto a papas fritas crujientes
-7. Botella rodeada de tomates frescos e ingredientes del producto
-8. Botella protagonista final con reflejo brillante y salpicadura de Ketchup
-
-CADA PANEL:
-• Número de escena
-• Insignia de duración
-• Dirección de cámara
-• Visual
-• Acción
-• Detalle del producto
-
-CÁMARA:
-Macro extremo, acercamiento lento al producto, toma cenital, perfil lateral, fotografía de salpicaduras controlada, packshot premium.
-
-ESTILO: Fotografía de alimentos ultrarrealista, textura de Ketchup brillante, física de líquidos realista, tomates frescos, iluminación de estudio limpia, publicidad comercial premium, 8K.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787217321758_98zrwb_HQAvvJHWUAAx3pk.jpg" width="600" alt="Storyboard para comercial de Ketchup de lujo">
-
-**[🎬 Ver video →](https://x.com/Strength04_X/status/2089722733156266079)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Fuente:** [Link](https://x.com/Strength04_X/status/2089722733156266079) | **Publicado:** Aug 18, 2026
-
----
-### Diosa protegiendo el planeta de hielo
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Un prompt de video cinematográfico de una diosa sobre un mundo congelado, dirigiéndose a su pueblo con una expresión serena mientras caen meteoritos.
-
-#### 📝 Prompt
-
-```
-"Incluso si cae una lluvia de meteoritos ardientes o golpea un rayo de millones de voltios, protegeré a todo mi pueblo", dice la diosa que custodia el planeta de hielo a la población con una expresión serena.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089637983368650752/img/GQypPF6_mBJUcTff.jpg" width="600" alt="Diosa protegiendo el planeta de hielo">
-
-**[🎬 Ver video →](https://x.com/omomomomo0309/status/2089638641664659879)**
-
-**Autor:** [おもも桃](https://x.com/omomomomo0309) | **Fuente:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Publicado:** Aug 18, 2026
-
----
 ---
 
 ## 📚 Más prompts disponibles
@@ -3391,6 +3466,6 @@ Esta obra está bajo licencia [CC BY 4.0](https://creativecommons.org/licenses/b
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-23T03:25:55.713Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-23T09:05:35.629Z</sub>
 
 </div>

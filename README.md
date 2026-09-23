@@ -46,7 +46,7 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **276** |
+| 📝 Total Prompts | **279** |
 | ⭐ Featured Prompts | **0** |
 | 🔄 Last Updated | **2026-09-23** |
 
@@ -56,6 +56,204 @@ A curated collection of high-quality video generation prompts for Google's Gemin
 
 > 📝 Sorted by publish date (newest first)
 
+### Gemini Omni Ancient Chinese Poetry Video Prompt
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> A detailed multi-part prompt for generating a 9:16 vertical ancient Chinese ink-wash style animation video based on the poem 'Seeing Off a Friend' by Li Bai. It specifies text-to-video generation with no audio, subtitles, or text overlays, focusing on visual storytelling of a farewell scene.
+
+#### 📝 Prompt
+
+```
+## Unified Generation Settings
+
+- Mode: Pure Text-to-Video
+- Do not upload reference videos
+- Do not upload reference images
+- Do not upload voiceovers or any audio
+- Aspect Ratio: 9:16 Vertical
+- Suggested Duration: 10 seconds per segment
+- Output: Visuals only, silent
+- Post-production: Original Doubao narration and subtitles will be re-added locally
+- Highest Priority: Absolutely no text, subtitles, titles, calligraphy, seals, plaque text, watermarks, logos, UI, pseudo-characters, garbled code, English, or numbers from the first frame to the last.
+
+---
+
+## Part 1 | "Seeing Off a Friend" Opening: Farewell Outside the City
+
+Generate a 10-second, 9:16 vertical Chinese ancient-style animation.
+
+Outside the city walls of the Tang Dynasty, an open landscape farewell scene. Distant continuous green mountains lie horizontally; nearby, clear rivers wind around the ancient city. The city walls, riverbanks, ancient roads, and distant mountains create distinct depth.
+
+There are two Tang Dynasty scholars in their thirties in the scene.
+
+Li Bai: A slender, natural East Asian male face, dark hair tied up, wearing a blue-gray cross-collar long robe with an off-white inner lining, cloth shoes, possessing a free-spirited and calm temperament.
+
+Friend: An East Asian male around thirty years old, wearing a plain brown cross-collar long robe, dark hair tied up, carrying a simple travel bag, accompanied by a brown horse.
+
+The camera starts with a wide view of the green mountains, rivers, and city walls, slowly pushing forward. The two scholars walk side by side along the ancient road by the riverbank, about to part ways. A breeze moves their sleeves, leaves, and horse manes; subtle ripples appear on the river surface.
+
+Then the two stop by the ancient road, with the path extending towards the mountains in the distance, creating an atmosphere of departure as the friend is about to travel far. The overall emotion is not grief, but implicit, restrained, and free-spirited with underlying reluctance to part.
+
+Chinese classical ink wash colored animation style, pale cyan-green landscapes, delicate rice paper texture, cinematic composition, natural lighting and shadows, realistic character proportions, natural and restrained movements, stable and slow camera work. Must maintain the complete 9:16 frame without cropping character heads or important scenery.
+
+Pure visual animation. No voiceover. Characters do not speak. No lip-syncing. No music. No ambient sound. No sound effects.
+
+Absolutely prohibited throughout: Any appearance of text. No subtitles, titles, poems, author names, calligraphy, seals, plaque text, flag text, scrolls, stone tablet inscriptions, watermarks, logos, UI, pseudo-characters, garbled code, English, or numbers. Plaques on buildings must be blank or completely absent. Maintain a pure text-free screen from the first frame to the last.
+
+---
+
+## Part 2 | Green Mountains and White Water
+
+Generate a 10-second, 9:16 vertical Chinese ancient-style animation.
+
+Continue the worldview of the farewell outside the Tang Dynasty city.
+
+The opening is a grand distant view of green mountains, the ancient city, and rivers. Green mountains lie horizontally north of the ancient city, with spreading slopes, layered peaks, and faint clouds moving slowly among the mountains.
+
+The camera pans steadily, gradually revealing a clear river winding past the east side of the ancient city. The river water is bright and clean, reflecting the sky, city walls, and distant mountains, with only slight ripples on the surface.
+
+By the ancient road on the riverbank, the two Tang Dynasty scholars appear in the frame at a smaller scale. Li Bai wears a blue-gray cross-collar long robe, the friend wears a plain brown long robe, accompanied by a brown horse.
+
+The characters remain quiet, not speaking, expressing the situation of impending separation only by stopping to gaze at the landscape.
+
+In the second half, the camera moves slowly along the river, allowing the green mountains, white water, ancient city, and ancient road to form a complete Chinese landscape composition.
+
+Pale cyan-green Chinese ink wash colored style, delicate rice paper texture, realistic spatial layers, cinematic feel, steady slow motion, no fast transitions.
+
+Pure visuals. No voiceover, no music, no ambient sound, no sound effects. Characters do not speak and do not perform reading lip-syncs.
+
+The screen must be 100% text-free. No subtitles, no poems, no calligraphy, no titles, no plaque text, no seals, no scrolls, no stone tablet inscriptions, no watermarks, no logos, no pseudo-characters or garbled code. Any architecture or objects where text might appear must remain completely blank.
+
+---
+
+## Part 3 | Parting Here, Lone Weed Traveling Far
+
+Generate a 10-second, 9:16 vertical Tang Dynasty ancient-style farewell animation.
+
+By the ancient road on the riverbank, two Tang Dynasty scholars in their thirties stand facing each other.
+
+Li Bai maintains his blue-gray cross-collar long robe, dark tied-up hair, and slender natural face. The departing friend maintains his plain brown long robe, dark tied-up hair, accompanied by a brown horse with only a simple travel bag on its back.
+
+At the start, the two look at each other quietly by the ancient road. Then they bid farewell with restrained clasped-hands greetings, nodding gently, without hugging, crying, or exaggerated acting.
+
+The friend turns around, leading the horse towards the distant ancient road. The camera gradually pulls back.
+
+The ancient road extends deep into the mountains. A clean, natural tumbleweed is blown by the wind, rolling or swaying lightly in the wilderness, using natural scenery to imply drifting and traveling far. Do not turn the character into a tumbleweed; do not use magic or fantasy special effects.
+
+In the second half, focus on the backs of the friend and horse gradually disappearing, while Li Bai stays closer, watching them go. The mountain wilds are vast, and the figures become smaller, reinforcing the sense of space for a journey of ten thousand miles.
+
+Chinese classical ink wash colored animation, pale cyan-green and earthy brown tones, rice paper texture, cinematic composition, realistic character proportions, sleeves and horse manes fluttering lightly in the wind, slow and natural camera movement.
+
+Pure visuals, no sound. Characters do not speak and do not lip-sync.
+
+Absolutely do not generate any text. Prohibited: Subtitles, poems, titles, calligraphy, seals, plaque text, flag text, scrolls, stone tablet inscriptions, logos, watermarks, English, numbers, pseudo-text, and garbled code.
+
+---
+
+## Part 4 | Floating Clouds for the Wanderer, Setting Sun for the Old Friend
+
+Generate a 10-second, 9:16 vertical Chinese ancient-style ink wash animation.
+
+The ancient road outside the Tang Dynasty city extends into the distance. The friend has already ridden or led the horse slowly away along the ancient road.
+
+Several floating clouds move slowly in the sky. The camera first gently moves upward, following the drifting clouds in the sky, then slowly descends to connect with the back of the departing friend, creating a natural visual echo between the floating clouds and the traveler.
+
+Do not use any text or abstract symbols to explain this artistic conception; express it only through the imagery.
+
+Then the camera looks back slowly. Li Bai stands alone by the ancient road on the riverbank, wearing a blue-gray long robe, quietly watching his friend disappear into the distance.
+
+The setting sun in the west is slowly sinking. Soft golden sunset light illuminates Li Bai's side profile, the river surface, and the distant mountains.
+
+Li Bai's expression is calm yet reluctant, without tears, and without exaggerated sad expressions.
+
+Finally, a complete picture is formed: floating clouds in the sky, the distant friend, the setting sun, the river, and Li Bai staying behind to watch exist simultaneously in a layered landscape space.
+
+Chinese ink wash colored style, combining pale cyan-green with warm sunset glow, rice paper texture, realistic natural lighting and shadows, cinematic feel, slow and smooth camera movement, implicit and restrained actions.
+
+Pure visuals. No voiceover, no music, no ambient sound, no sound effects. Characters do not speak and do not lip-sync.
+
+Absolutely no text throughout the video. No subtitles, no poems, no titles, no calligraphy, no plaque text, no seals, no scrolls, no logos, no watermarks, no pseudo-characters, no garbled code.
+
+---
+
+## Part 5 | Waving Goodbye, Horse Neighs Long
+
+Generate a 10-second, 9:16 vertical Tang Dynasty ancient-style farewell animation.
+
+The ancient road outside the city under the setting sun.
+
+Li Bai wears a blue-gray cross-collar long robe, standing by the ancient road on the riverbank. The friend wears a plain brown long robe and has already ridden or led the brown horse some distance away.
+
+At the start, the friend looks back. Li Bai raises his hand to wave goodbye to his friend; the distant friend also turns back and waves in response. The movements are slow, natural, and restrained.
+
+Then the friend continues walking into the distance.
+
+The brown horse briefly turns its head back, gently lifting its head, mane fluttering in the wind, expressing the feeling of reluctance to leave the herd through the horse's actions.
+
+Here, only show the visual actions of the horse. Do not generate horse neighing sounds, sound waves, or onomatopoeia text.
+
+The camera gradually pulls back. The friend and horse get further and further along the ancient road, while Li Bai remains in place watching. The setting sun, distant mountains, river, ancient road, and the two friends gradually separating form the final farewell scene.
+
+For the last two seconds, keep the complete scene, with only slight movements of the sunset light, sleeves, leaves, and horse mane.
+
+No black screen. No fade out to end card. Do not generate scrolls or ending screen text.
+
+Chinese classical ink wash colored animation, pale cyan-green landscapes combined with warm sunset glow, delicate rice paper texture, cinematic composition, realistic character proportions, steady and slow camera movement.
+
+Pure visuals, completely silent. No voiceover. No music. No ambient sound. No sound effects. Characters do not speak and do not lip-sync.
+
+From the first frame to the last, there must be absolutely no text. Prohibited: Subtitles, poems, titles, author names, calligraphy, seals, plaque text, flag text, stone tablet inscriptions, scroll text, logos, watermarks, UI, numbers, English, pseudo-characters, and garbled code.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102676626068930560/img/Twk6W56KBSf8MFLa.jpg" width="600" alt="Gemini Omni Ancient Chinese Poetry Video Prompt">
+
+**[🎬 Watch Video →](https://x.com/7998l201/status/2102676845212709346)**
+
+**Author:** [Ryan](https://x.com/7998l201) | **Source:** [Link](https://x.com/7998l201/status/2102676845212709346) | **Published:** Sep 23, 2026
+
+---
+### Gemini Omni Corporate Commercial Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a 10-second photorealistic corporate commercial video using Gemini Omni, based on a provided storyboard.
+
+#### 📝 Prompt
+
+```
+Create an exact 10-second, high-end photorealistic Japanese corporate commercial for the fictional architecture and construction company “NEXARC CONSTRUCTION.”
+
+REFERENCE BOARD
+The uploaded 3×3 storyboard controls the shot composition, camera angles, subject positioning, and scene transitions. Ensure strict adherence to the visual narrative presented in the reference images.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790153039061_9sfv6o_HS0AkODa8AAhHja.jpg" width="600" alt="Gemini Omni Corporate Commercial Video Prompt">
+
+**[🎬 Watch Video →](https://x.com/husky__create/status/2102337252340994249)**
+
+**Author:** [はすきー｜Midjourneyマニア🐺](https://x.com/husky__create) | **Source:** [Link](https://x.com/husky__create/status/2102337252340994249) | **Published:** Sep 22, 2026
+
+---
+### Gemini Omni Khachapuri Cooking Video Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> A detailed prompt for generating a photorealistic 10-second khachapuri cooking video with strict continuity and camera instructions.
+
+#### 📝 Prompt
+
+```
+Create a 10-second 16:9 photorealistic khachapuri cooking video exactly in sequence, static 90° top-down camera, matte-black table, same male hands in black gloves, hard cuts only, no magic or skipped steps: 0.0-0.7 ingredients symmetrically arranged, hands take dough -> 0.7-1.5 roll dough into an oval -> 1.5-2.2 roll long edges inward -> 2.2-2.8 pinch both ends into a boat -> 2.8-3.6 evenly fill with grated cheese -> 3.6-4.2 place raw khachapuri on black baking tray -> 4.2-5.0 visibly slide the raw khachapuri into the oven -> 5.0-5.8 fast realistic timelapse inside oven: dough rises and turns golden, cheese melts and bubbles -> 5.8-6.5 hands remove baked khachapuri -> 6.5-7.3 crack one egg directly into the center -> 7.3-8.0 return to oven, short timelapse: egg white sets slightly while yolk stays runny -> 8.0-8.6 remove finished khachapuri and place on black table -> 8.6-9.2 add butter cubes beside yolk, butter starts melting -> 9.2-10.0 hands exit, hero shot of golden khachapuri with melted cheese, glossy runny yolk and melting butter. Every next shot must continue from the exact food state of the previous shot; fast precise realistic hand movements, no camera movement, no levitation, teleportation, instant cooking, disappearing or duplicated ingredients.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790153036963_wt5ej4_HSxFJWAW4AAusdb.jpg" width="600" alt="Gemini Omni Khachapuri Cooking Video Prompt">
+
+**[🎬 Watch Video →](https://x.com/999shinobi/status/2102142574848798798)**
+
+**Author:** [999](https://x.com/999shinobi) | **Source:** [Link](https://x.com/999shinobi/status/2102142574848798798) | **Published:** Sep 21, 2026
+
+---
 ### Pixar Style Bakery CM Prompt for Gemini Omni
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -3200,105 +3398,6 @@ Ultra-realistic honey texture, realistic liquid physics, warm natural lighting, 
 **Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2090081415924982038) | **Published:** Aug 19, 2026
 
 ---
-### Instant Noodles Commercial Storyboard
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> An energetic food advertisement storyboard prompt for instant noodles. It describes eight high-impact scenes including noodle pulls, macro texture shots, and cinematic steam effects with professional studio lighting.
-
-#### 📝 Prompt
-
-```
-TITLE:
-Premium Instant Noodles Product Commercial Storyboard
-
-FORMAT:
-• Single-page premium storyboard
-• 3:4 Portrait ratio
-• High-energy food advertisement
-• 8 cinematic product scenes
-• Product-focused commercial presentation
-
-HEADER:
-• Modern bold typography
-• Information cards:
-  - Duration: 20 Seconds
-  - Style: Cinematic Food Advertisement
-  - Product: Instant Noodles
-  - Audio: Cooking ASMR + Energetic Beat
-• Why This Style Works section
-• Warm yellow and red accents
-
-STORYBOARD:
-1. Instant noodle packet standing upright with dramatic lighting
-2. Packet opening and noodles sliding into a bowl
-3. Boiling water pouring over noodles
-4. Noodles cooking with realistic steam rising
-5. Seasoning powder being added
-6. Chopsticks lifting perfectly cooked noodles
-7. Extreme macro shot of glossy noodles with toppings
-8. Final hero bowl beside the original product packet
-
-EVERY PANEL:
-• Scene number
-• Duration badge
-• Visual
-• Action
-• Camera direction
-• Product detail
-
-CAMERA:
-Macro food photography, overhead composition, steam close-up, noodle pull shot, dramatic product push-in, cinematic hero framing.
-
-STYLE:
-Ultra-realistic food commercial, realistic steam, detailed noodle texture, glossy broth, vibrant ingredients, professional studio lighting, premium packaging, 8K.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787217318961_wpvccr_HQE90xdaYAA8DRm.jpg" width="600" alt="Instant Noodles Commercial Storyboard">
-
-**[🎬 Watch Video →](https://x.com/Strength04_X/status/2090019696779387173)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2090019696779387173) | **Published:** Aug 19, 2026
-
----
-### Luxury Ketchup Commercial Storyboard
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> A cinematic and detailed storyboard prompt for a premium food commercial, focusing on macro shots and professional advertising aesthetics for product reveals.
-
-#### 📝 Prompt
-
-```
-TITLE:\nPremium Tomato Ketchup Product Commercial Storyboard\n\nFORMAT:\n• Single-page premium storyboard\n• 3:4 Portrait ratio\n• Luxury food product advertisement\n• 8 cinematic storyboard scenes\n• Clean premium presentation\n\nHEADER:\n• Bold editorial typography\n• Information cards:\n  - Duration: 20 Seconds\n  - Style: Premium Food Commercial\n  - Product: Tomato Ketchup\n  - Audio: Fresh Food ASMR\n• Why This Style Works section\n• Red, white and cream aesthetic\n\nSTORYBOARD:\n1. Ketchup bottle standing on a clean white surface\n2. Bottle cap opening in macro close-up\n3. Thick ketchup flowing from the bottle\n4. Ketchup forming a perfect glossy spiral\n5. Extreme macro showing rich tomato texture\n6. Ketchup being poured beside crispy fries\n7. Bottle surrounded by fresh tomatoes and product ingredients\n8. Final hero bottle with glossy reflection and ketchup splash\n\nEVERY PANEL:\n• Scene number\n• Duration badge\n• Camera direction\n• Visual\n• Action\n• Product detail\n\nCAMERA:\nExtreme macro, slow product push-in, top-down shot, side profile, controlled splash photography, premium packshot.\n\nSTYLE: Ultra-realistic food photography, glossy ketchup texture, realistic liquid physics, fresh tomatoes, clean studio lighting, premium commercial advertising, 8K.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787217321758_98zrwb_HQAvvJHWUAAx3pk.jpg" width="600" alt="Luxury Ketchup Commercial Storyboard">
-
-**[🎬 Watch Video →](https://x.com/Strength04_X/status/2089722733156266079)**
-
-**Author:** [𝐌](https://x.com/Strength04_X) | **Source:** [Link](https://x.com/Strength04_X/status/2089722733156266079) | **Published:** Aug 18, 2026
-
----
-### Serene Goddess of the Ice Planet
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> A narrative video generation prompt describing a protective goddess on a frozen world addressing her people with a serene expression during a meteor shower.
-
-#### 📝 Prompt
-
-```
-"Even if a rain of blazing meteors falls or a lightning bolt of millions of volts strikes, I will protect all my people," the goddess guarding the ice planet says to the populace with a serene expression.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089637983368650752/img/GQypPF6_mBJUcTff.jpg" width="600" alt="Serene Goddess of the Ice Planet">
-
-**[🎬 Watch Video →](https://x.com/omomomomo0309/status/2089638641664659879)**
-
-**Author:** [おもも桃](https://x.com/omomomomo0309) | **Source:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Published:** Aug 18, 2026
-
----
 ---
 
 ## 📚 More Prompts Available
@@ -3351,6 +3450,6 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T03:25:46.787Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-23T09:05:25.333Z</sub>
 
 </div>

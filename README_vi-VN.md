@@ -46,7 +46,7 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số prompt | **276** |
+| 📝 Tổng số prompt | **279** |
 | ⭐ Prompt nổi bật | **0** |
 | 🔄 Cập nhật lần cuối | **2026-09-23** |
 
@@ -56,6 +56,204 @@ Bộ sưu tập prompt tạo video chất lượng cao cho Gemini Omni của Goo
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
+### Gemini Omni Prompt Video Thơ Cổ Trung Quốc
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Một prompt chi tiết gồm nhiều phần để tạo video hoạt họa phong cách tranh thủy mặc cổ Trung Quốc theo tỷ lệ dọc 9:16, dựa trên bài thơ 'Tống Hữu Nhân' của Lý Bạch. Prompt chỉ định tạo video từ văn bản (text-to-video) không có âm thanh, phụ đề hay lớp phủ văn bản, tập trung vào kể chuyện bằng hình ảnh về cảnh chia tay.
+
+#### 📝 Prompt
+
+```
+## Cài Đặt Tạo Thống Nhất
+
+- Chế độ: Pure Text-to-Video (Chuyển đổi văn bản sang video thuần túy)
+- Không tải lên video tham khảo
+- Không tải lên hình ảnh tham khảo
+- Không tải lên lồng tiếng hoặc bất kỳ âm thanh nào
+- Tỷ lệ khung hình: Dọc 9:16
+- Thời lượng đề xuất: 10 giây mỗi phân đoạn
+- Đầu ra: Chỉ hình ảnh, im lặng
+- Hậu kỳ: Giọng đọc và phụ đề gốc của Doubao sẽ được thêm lại cục bộ
+- Ưu tiên cao nhất: Tuyệt đối không có văn bản, phụ đề, tiêu đề, thư pháp, con dấu, chữ trên biển hiệu, watermark, logo, giao diện người dùng (UI), ký tự giả, mã lỗi, tiếng Anh hoặc số từ khung hình đầu tiên đến khung hình cuối cùng.
+
+---
+
+## Phần 1 | Mở đầu "Tống Hữu Nhân": Chia Tay Ngoài Thành
+
+Tạo một video hoạt họa phong cách cổ đại Trung Quốc, thời lượng 10 giây, tỷ lệ dọc 9:16.
+
+Bối cảnh là một cảnh chia tay ở vùng đất mở bên ngoài tường thành thời Đường. Những dãy núi xanh liên tiếp nằm ngang ở phía xa; gần đó, những dòng sông trong vắt uốn quanh thành phố cổ. Tường thành, bờ sông, đường cổ và núi xa tạo nên chiều sâu rõ rệt.
+
+Trong cảnh có hai học giả thời Đường, khoảng ba mươi tuổi.
+
+Lý Bạch: Khuôn mặt nam giới Đông Á thon dài, tự nhiên, tóc đen búi cao, mặc áo choàng dài cổ chéo màu xanh xám với lớp lót bên trong màu trắng ngà, đi giày vải, mang khí chất phóng khoáng và điềm tĩnh.
+
+Người bạn: Nam giới Đông Á khoảng ba mươi tuổi, mặc áo choàng dài cổ chéo màu nâu trơn, tóc đen búi cao, mang theo một túi du lịch đơn giản, đi kèm với một con ngựa nâu.
+
+Máy quay bắt đầu với góc nhìn rộng của núi xanh, sông nước và tường thành, từ từ đẩy tới. Hai học giả đi song song dọc theo con đường cổ bên bờ sông, sắp phải chia tay. Một cơn gió lay động tay áo, lá cây và bờm ngựa của họ; những gợn sóng tinh tế xuất hiện trên mặt sông.
+
+Sau đó, cả hai dừng lại bên đường cổ, với con đường kéo dài về phía những ngọn núi ở phía xa, tạo nên bầu không khí chia ly khi người bạn sắp đi xa. Cảm xúc tổng thể không phải là đau buồn, mà là ngầm ẩn, kiềm chế, phóng khoáng nhưng vẫn chứa đựng sự luyến tiếc chia tay.
+
+Phong cách hoạt họa tranh thủy mặc màu cổ điển Trung Quốc, cảnh quan xanh lục nhạt, kết cấu giấy gạo tinh tế, bố cục điện ảnh, ánh sáng và bóng đổ tự nhiên, tỷ lệ nhân vật chân thực, chuyển động tự nhiên và kiềm chế, máy quay ổn định và chậm. Phải duy trì khung hình 9:16 hoàn chỉnh mà không cắt xén đầu nhân vật hoặc cảnh quan quan trọng.
+
+Hoạt họa thuần túy về thị giác. Không có lồng tiếng. Các nhân vật không nói chuyện. Không đồng bộ môi. Không có nhạc. Không có âm thanh môi trường. Không có hiệu ứng âm thanh.
+
+Tuyệt đối cấm trong toàn bộ quá trình: Bất kỳ sự xuất hiện nào của văn bản. Không có phụ đề, tiêu đề, thơ, tên tác giả, thư pháp, con dấu, chữ trên biển hiệu, chữ trên cờ, cuộn giấy, khắc đá, watermark, logo, UI, ký tự giả, mã lỗi, tiếng Anh hoặc số. Biển hiệu trên các tòa nhà phải trống hoặc hoàn toàn vắng mặt. Duy trì màn hình không có văn bản thuần túy từ khung hình đầu tiên đến khung hình cuối cùng.
+
+---
+
+## Phần 2 | Núi Xanh Nước Trắng
+
+Tạo một video hoạt họa phong cách cổ đại Trung Quốc, thời lượng 10 giây, tỷ lệ dọc 9:16.
+
+Tiếp tục thế giới quan của cảnh chia tay ngoài thành thời Đường.
+
+Mở đầu là một cái nhìn bao quát hùng vĩ của núi xanh, thành phố cổ và sông nước. Núi xanh nằm ngang về phía bắc của thành phố cổ, với những sườn đồi trải rộng, đỉnh núi xếp lớp và những đám mây mờ di chuyển chậm chạp giữa các ngọn núi.
+
+Máy quay lia đều đặn, dần dần hé lộ một dòng sông trong vắt uốn quanh phía đông của thành phố cổ. Nước sông sáng và sạch, phản chiếu bầu trời, tường thành và núi xa, chỉ có những gợn sóng nhẹ trên bề mặt.
+
+Bên con đường cổ trên bờ sông, hai học giả thời Đường xuất hiện trong khung hình với kích thước nhỏ hơn. Lý Bạch mặc áo choàng dài cổ chéo màu xanh xám, người bạn mặc áo choàng dài màu nâu trơn, đi kèm với một con ngựa nâu.
+
+Các nhân vật giữ im lặng, không nói chuyện, chỉ biểu đạt tình huống sắp chia ly bằng cách dừng lại ngắm cảnh.
+
+Ở nửa sau, máy quay di chuyển chậm dọc theo dòng sông, cho phép núi xanh, nước trắng, thành phố cổ và đường cổ tạo thành một bố cục cảnh quan Trung Quốc hoàn chỉnh.
+
+Phong cách tranh thủy mặc màu xanh lục nhạt của Trung Quốc, kết cấu giấy gạo tinh tế, các lớp không gian chân thực, cảm giác điện ảnh, chuyển động chậm và ổn định, không có chuyển cảnh nhanh.
+
+Hình ảnh thuần túy. Không có lồng tiếng, không có nhạc, không có âm thanh môi trường, không có hiệu ứng âm thanh. Các nhân vật không nói chuyện và không thực hiện đồng bộ môi khi đọc.
+
+Màn hình phải 100% không có văn bản. Không có phụ đề, không có thơ, không có thư pháp, không có tiêu đề, không có chữ trên biển hiệu, không có con dấu, không có cuộn giấy, không có khắc đá, không có watermark, không có logo, không có ký tự giả hoặc mã lỗi. Bất kỳ kiến trúc hoặc đồ vật nào nơi văn bản có thể xuất hiện phải hoàn toàn trống.
+
+---
+
+## Phần 3 | Nơi Đây Chia Tay, Cỏ Bồng Du Tử Xa
+
+Tạo một video hoạt họa chia tay phong cách cổ đại thời Đường, thời lượng 10 giây, tỷ lệ dọc 9:16.
+
+Bên con đường cổ trên bờ sông, hai học giả thời Đường khoảng ba mươi tuổi đứng đối mặt nhau.
+
+Lý Bạch giữ nguyên áo choàng dài cổ chéo màu xanh xám, tóc đen búi cao và khuôn mặt thon dài tự nhiên. Người bạn rời đi giữ nguyên áo choàng dài màu nâu trơn, tóc đen búi cao, đi kèm với một con ngựa nâu chỉ có một túi du lịch đơn giản trên lưng.
+
+Khi bắt đầu, cả hai nhìn nhau lặng lẽ bên đường cổ. Sau đó, họ chào tạm biệt bằng cái bắt tay kiềm chế, gật đầu nhẹ nhàng, không ôm ấp, khóc lóc hoặc diễn xuất cường điệu.
+
+Người bạn quay lại, dắt ngựa hướng về phía con đường cổ xa xôi. Máy quay từ từ lùi lại.
+
+Con đường cổ kéo dài sâu vào trong núi. Một bụi cỏ bồng sạch sẽ, tự nhiên bị gió thổi bay, lăn hoặc đung đưa nhẹ trong vùng hoang dã, sử dụng cảnh quan thiên nhiên để ám chỉ sự phiêu bạt và đi xa. Không biến nhân vật thành bụi cỏ bồng; không sử dụng hiệu ứng đặc biệt ma thuật hoặc kỳ ảo.
+
+Ở nửa sau, tập trung vào bóng lưng của người bạn và con ngựa dần biến mất, trong khi Lý Bạch ở gần hơn, dõi theo họ. Vùng núi hoang vu rộng lớn, và các bóng người trở nên nhỏ hơn, củng cố cảm giác không gian cho một hành trình vạn dặm.
+
+Hoạt họa tranh thủy mặc màu cổ điển Trung Quốc, tông màu xanh lục nhạt và nâu đất, kết cấu giấy gạo, bố cục điện ảnh, tỷ lệ nhân vật chân thực, tay áo và bờm ngựa bay phấp phới nhẹ trong gió, chuyển động máy quay chậm và tự nhiên.
+
+Hình ảnh thuần túy, không có âm thanh. Các nhân vật không nói chuyện và không đồng bộ môi.
+
+Tuyệt đối không tạo ra bất kỳ văn bản nào. Cấm: Phụ đề, thơ, tiêu đề, thư pháp, con dấu, chữ trên biển hiệu, chữ trên cờ, cuộn giấy, khắc đá, logo, watermark, tiếng Anh, số, văn bản giả và mã lỗi.
+
+---
+
+## Phần 4 | Mây Nổi Cho Kẻ Lữ, Nắng Chiều Cho Cố Nhân
+
+Tạo một video hoạt họa tranh thủy mặc phong cách cổ đại Trung Quốc, thời lượng 10 giây, tỷ lệ dọc 9:16.
+
+Con đường cổ bên ngoài thành phố thời Đường kéo dài về phía xa. Người bạn đã cưỡi hoặc dắt ngựa từ từ rời đi dọc theo con đường cổ.
+
+Vài đám mây trôi nổi di chuyển chậm chạp trên bầu trời. Máy quay trước tiên di chuyển nhẹ nhàng lên trên, theo dõi những đám mây trôi trong không trung, sau đó từ từ hạ xuống để kết nối với bóng lưng của người bạn đang rời đi, tạo ra một sự vang vọng thị giác tự nhiên giữa những đám mây trôi và kẻ lữ hành.
+
+Không sử dụng bất kỳ văn bản hoặc ký hiệu trừu tượng nào để giải thích ý niệm nghệ thuật này; chỉ biểu đạt nó thông qua hình ảnh.
+
+Sau đó, máy quay nhìn lại từ từ. Lý Bạch đứng một mình bên con đường cổ trên bờ sông, mặc áo choàng dài màu xanh xám, lặng lẽ nhìn theo người bạn của mình biến mất vào khoảng không xa xăm.
+
+Ánh nắng chiều tà ở phía tây đang từ từ lặn xuống. Ánh sáng hoàng hôn vàng dịu dàng chiếu rọi vào profile của Lý Bạch, mặt sông và những ngọn núi xa.
+
+Biểu cảm của Lý Bạch điềm tĩnh nhưng đầy luyến tiếc, không có nước mắt, và không có biểu cảm buồn bã cường điệu.
+
+Cuối cùng, một bức tranh hoàn chỉnh được hình thành: những đám mây trôi trên bầu trời, người bạn ở phía xa, ánh nắng chiều, dòng sông và Lý Bạch ở lại dõi theo cùng tồn tại trong một không gian cảnh quan nhiều lớp.
+
+Phong cách tranh thủy mặc màu Trung Quốc, kết hợp màu xanh lục nhạt với ánh hoàng hôn ấm áp, kết cấu giấy gạo, ánh sáng và bóng đổ tự nhiên chân thực, cảm giác điện ảnh, chuyển động máy quay chậm và mượt mà, hành động ngầm ẩn và kiềm chế.
+
+Hình ảnh thuần túy. Không có lồng tiếng, không có nhạc, không có âm thanh môi trường, không có hiệu ứng âm thanh. Các nhân vật không nói chuyện và không đồng bộ môi.
+
+Tuyệt đối không có văn bản trong suốt video. Không có phụ đề, không có thơ, không có tiêu đề, không có thư pháp, không có chữ trên biển hiệu, không có con dấu, không có cuộn giấy, không có logo, không có watermark, không có ký tự giả, không có mã lỗi.
+
+---
+
+## Phần 5 | Vẫy Tay Từ Biệt, Ngựa Kêu Dài
+
+Tạo một video hoạt họa chia tay phong cách cổ đại thời Đường, thời lượng 10 giây, tỷ lệ dọc 9:16.
+
+Con đường cổ bên ngoài thành phố dưới ánh nắng chiều.
+
+Lý Bạch mặc áo choàng dài cổ chéo màu xanh xám, đứng bên con đường cổ trên bờ sông. Người bạn mặc áo choàng dài màu nâu trơn và đã cưỡi hoặc dắt con ngựa nâu đi xa một đoạn.
+
+Khi bắt đầu, người bạn ngoái lại. Lý Bạch giơ tay vẫy chào tạm biệt người bạn; người bạn ở phía xa cũng quay lại và vẫy tay đáp lại. Các chuyển động chậm rãi, tự nhiên và kiềm chế.
+
+Sau đó, người bạn tiếp tục bước đi vào khoảng không xa.
+
+Con ngựa nâu thoáng quay đầu lại, nhẹ nhàng ngẩng đầu, bờm tung bay trong gió, biểu đạt cảm giác luyến tiếc rời đàn thông qua hành động của con ngựa.
+
+Tại đây, chỉ hiển thị các hành động thị giác của con ngựa. Không tạo ra âm thanh ngựa kêu, sóng âm hoặc văn bản mô phỏng âm thanh.
+
+Máy quay từ từ lùi lại. Người bạn và con ngựa ngày càng xa hơn dọc theo con đường cổ, trong khi Lý Bạch vẫn đứng nguyên tại chỗ dõi theo. Ánh nắng chiều, núi xa, dòng sông, con đường cổ và hai người bạn dần tách biệt tạo nên cảnh chia tay cuối cùng.
+
+Trong hai giây cuối cùng, giữ nguyên cảnh hoàn chỉnh, chỉ có những chuyển động nhẹ của ánh nắng chiều, tay áo, lá cây và bờm ngựa.
+
+Không có màn hình đen. Không mờ dần để kết thúc thẻ. Không tạo ra cuộn giấy hoặc văn bản màn hình kết thúc.
+
+Hoạt họa tranh thủy mặc màu cổ điển Trung Quốc, cảnh quan xanh lục nhạt kết hợp với ánh hoàng hôn ấm áp, kết cấu giấy gạo tinh tế, bố cục điện ảnh, tỷ lệ nhân vật chân thực, chuyển động máy quay ổn định và chậm.
+
+Hình ảnh thuần túy, hoàn toàn im lặng. Không có lồng tiếng. Không có nhạc. Không có âm thanh môi trường. Không có hiệu ứng âm thanh. Các nhân vật không nói chuyện và không đồng bộ môi.
+
+Từ khung hình đầu tiên đến khung hình cuối cùng, tuyệt đối không được có văn bản. Cấm: Phụ đề, thơ, tiêu đề, tên tác giả, thư pháp, con dấu, chữ trên biển hiệu, chữ trên cờ, khắc đá, văn bản trên cuộn giấy, logo, watermark, UI, số, tiếng Anh, ký tự giả và mã lỗi.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102676626068930560/img/Twk6W56KBSf8MFLa.jpg" width="600" alt="Gemini Omni Prompt Video Thơ Cổ Trung Quốc">
+
+**[🎬 Xem video →](https://x.com/7998l201/status/2102676845212709346)**
+
+**Tác giả:** [Ryan](https://x.com/7998l201) | **Nguồn:** [Link](https://x.com/7998l201/status/2102676845212709346) | **Đã xuất bản:** Sep 23, 2026
+
+---
+### Gemini Omni Prompt cho Video Quảng cáo Doanh nghiệp
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Prompt chi tiết để tạo video quảng cáo doanh nghiệp chân thực 10 giây bằng Gemini Omni, dựa trên storyboard được cung cấp.
+
+#### 📝 Prompt
+
+```
+Tạo một video quảng cáo doanh nghiệp Nhật Bản chân thực cao cấp, dài chính xác 10 giây, cho công ty kiến trúc và xây dựng hư cấu “NEXARC CONSTRUCTION.”
+
+BẢNG THAM CHIẾU
+Storyboard 3×3 đã tải lên kiểm soát bố cục cảnh quay, góc máy, vị trí chủ thể và các chuyển cảnh. Đảm bảo tuân thủ nghiêm ngặt câu chuyện hình ảnh được trình bày trong các hình ảnh tham chiếu.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790153039061_9sfv6o_HS0AkODa8AAhHja.jpg" width="600" alt="Gemini Omni Prompt cho Video Quảng cáo Doanh nghiệp">
+
+**[🎬 Xem video →](https://x.com/husky__create/status/2102337252340994249)**
+
+**Tác giả:** [はすきー｜Midjourneyマニア🐺](https://x.com/husky__create) | **Nguồn:** [Link](https://x.com/husky__create/status/2102337252340994249) | **Đã xuất bản:** Sep 22, 2026
+
+---
+### Prompt Video Nấu Khachapuri bằng Gemini Omni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Một prompt chi tiết để tạo video nấu khachapuri chân thực dài 10 giây, kèm theo các chỉ dẫn nghiêm ngặt về tính liên tục và góc quay.
+
+#### 📝 Prompt
+
+```
+Tạo một video nấu khachapuri chân thực (photorealistic) dài 10 giây, tỷ lệ khung hình 16:9, tuân thủ chính xác trình tự sau: camera tĩnh nhìn từ trên xuống ở góc 90°, mặt bàn màu đen mờ, cùng đôi bàn tay nam giới đeo găng tay đen, chỉ sử dụng hiệu ứng cắt cảnh cứng (hard cuts), không có phép thuật hay bỏ qua bước nào: 0.0-0.7 giây nguyên liệu được sắp xếp đối xứng, tay lấy bột -> 0.7-1.5 giây cán bột thành hình bầu dục -> 1.5-2.2 giây cuộn hai mép dài vào trong -> 2.2-2.8 giây bóp chặt hai đầu tạo thành hình chiếc thuyền -> 2.8-3.6 giây phủ đều phô mai bào -> 3.6-4.2 giây đặt khachapuri sống lên khay nướng màu đen -> 4.2-5.0 giây trượt rõ ràng khachapuri sống vào lò -> 5.0-5.8 giây tua nhanh thời gian (timelapse) chân thực bên trong lò: bột nở và chuyển sang màu vàng kim, phô mai tan chảy và sủi bọt -> 5.8-6.5 giây tay lấy khachapuri đã nướng ra -> 6.5-7.3 giây đập một quả trứng trực tiếp vào giữa -> 7.3-8.0 giây đưa lại vào lò, tua nhanh thời gian ngắn: lòng trắng trứng đông nhẹ trong khi lòng đỏ vẫn còn lỏng -> 8.0-8.6 giây lấy khachapuri hoàn chỉnh ra và đặt lên bàn màu đen -> 8.6-9.2 giây thêm các khối bơ cạnh lòng đỏ, bơ bắt đầu tan chảy -> 9.2-10.0 giây tay rút ra, cảnh quay chủ đạo (hero shot) của khachapuri vàng óng với phô mai tan chảy, lòng đỏ bóng loáng và bơ đang tan. Mỗi cảnh quay tiếp theo phải tiếp nối chính xác từ trạng thái món ăn của cảnh quay trước đó; các chuyển động tay nhanh, chính xác và chân thực, không di chuyển máy quay, không bay lơ lửng, không dịch chuyển tức thời, không nấu chín ngay lập tức, không làm biến mất hoặc nhân bản nguyên liệu.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790153036963_wt5ej4_HSxFJWAW4AAusdb.jpg" width="600" alt="Prompt Video Nấu Khachapuri bằng Gemini Omni">
+
+**[🎬 Xem video →](https://x.com/999shinobi/status/2102142574848798798)**
+
+**Tác giả:** [999](https://x.com/999shinobi) | **Nguồn:** [Link](https://x.com/999shinobi/status/2102142574848798798) | **Đã xuất bản:** Sep 21, 2026
+
+---
 ### Pixar Style Bakery CM Prompt for Gemini Omni
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -3199,146 +3397,6 @@ Kết cấu mật ong siêu thực, vật lý chất lỏng chân thực, ánh s
 **Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2090081415924982038) | **Đã xuất bản:** Aug 19, 2026
 
 ---
-### Storyboard quảng cáo mì ăn liền
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý storyboard quảng cáo thực phẩm đầy năng lượng cho mì ăn liền. Nội dung mô tả tám phân cảnh ấn tượng bao gồm cảnh gắp mì, cận cảnh kết cấu sợi mì và hiệu ứng hơi nước điện ảnh với ánh sáng studio chuyên nghiệp.
-
-#### 📝 Prompt
-
-```
-TIÊU ĐỀ:
-Storyboard quảng cáo sản phẩm mì ăn liền cao cấp
-
-ĐỊNH DẠNG:
-• Storyboard cao cấp một trang
-• Tỷ lệ khung hình dọc 3:4
-• Quảng cáo thực phẩm giàu năng lượng
-• 8 phân cảnh sản phẩm đậm chất điện ảnh
-• Trình bày quảng cáo tập trung vào sản phẩm
-
-TIÊU ĐỀ PHỤ:
-• Kiểu chữ đậm hiện đại
-• Thẻ thông tin:
-  - Thời lượng: 20 giây
-  - Phong cách: Quảng cáo thực phẩm điện ảnh
-  - Sản phẩm: Mì ăn liền
-  - Âm thanh: ASMR nấu ăn + Nhịp điệu sôi động
-• Mục "Tại sao phong cách này hiệu quả"
-• Điểm nhấn màu vàng ấm và đỏ
-
-STORYBOARD:
-1. Gói mì ăn liền đặt đứng với ánh sáng kịch tính
-2. Gói mì mở ra và sợi mì trượt vào bát
-3. Nước sôi đổ lên trên mì
-4. Mì đang nấu với hơi nước bốc lên chân thực
-5. Bột gia vị được thêm vào
-6. Đôi đũa gắp những sợi mì chín hoàn hảo
-7. Cận cảnh cực đại những sợi mì bóng bẩy cùng các loại topping
-8. Bát mì thành phẩm đặt cạnh gói sản phẩm gốc
-
-MỖI KHUNG HÌNH:
-• Số thứ tự cảnh
-• Huy hiệu thời lượng
-• Hình ảnh
-• Hành động
-• Hướng máy quay
-• Chi tiết sản phẩm
-
-CAMERA:
-Nhiếp ảnh thực phẩm macro, bố cục từ trên xuống, cận cảnh hơi nước, cảnh gắp mì, máy quay tiến dần vào sản phẩm đầy kịch tính, khung hình sản phẩm chủ đạo đậm chất điện ảnh.
-
-PHONG CÁCH:
-Quảng cáo thực phẩm siêu thực, hơi nước chân thực, kết cấu sợi mì chi tiết, nước dùng bóng bẩy, nguyên liệu tươi ngon, ánh sáng studio chuyên nghiệp, bao bì cao cấp, 8K.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787217318961_wpvccr_HQE90xdaYAA8DRm.jpg" width="600" alt="Storyboard quảng cáo mì ăn liền">
-
-**[🎬 Xem video →](https://x.com/Strength04_X/status/2090019696779387173)**
-
-**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2090019696779387173) | **Đã xuất bản:** Aug 19, 2026
-
----
-### Storyboard quảng cáo tương cà cao cấp
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Một gợi ý storyboard chi tiết và đậm chất điện ảnh cho quảng cáo thực phẩm cao cấp, tập trung vào các góc quay macro và thẩm mỹ quảng cáo chuyên nghiệp để làm nổi bật sản phẩm.
-
-#### 📝 Prompt
-
-```
-TIÊU ĐỀ:
-Storyboard quảng cáo sản phẩm tương cà cao cấp
-
-ĐỊNH DẠNG:
-• Storyboard cao cấp một trang
-• Tỷ lệ khung hình 3:4 dọc
-• Quảng cáo thực phẩm sang trọng
-• 8 cảnh storyboard điện ảnh
-• Trình bày sạch sẽ, cao cấp
-
-TIÊU ĐỀ PHỤ:
-• Kiểu chữ biên tập đậm
-• Thẻ thông tin:
-  - Thời lượng: 20 giây
-  - Phong cách: Quảng cáo thực phẩm cao cấp
-  - Sản phẩm: Tương cà
-  - Âm thanh: ASMR thực phẩm tươi sống
-• Phần "Tại sao phong cách này hiệu quả"
-• Thẩm mỹ màu đỏ, trắng và kem
-
-STORYBOARD:
-1. Chai tương cà đặt trên bề mặt trắng sạch
-2. Cận cảnh macro nắp chai đang mở
-3. Tương cà đặc sánh chảy ra từ chai
-4. Tương cà tạo thành hình xoắn ốc bóng bẩy hoàn hảo
-5. Macro cực đại cho thấy kết cấu cà chua đậm đà
-6. Tương cà được rót bên cạnh khoai tây chiên giòn
-7. Chai tương cà được bao quanh bởi cà chua tươi và các nguyên liệu sản phẩm
-8. Hình ảnh chai sản phẩm cuối cùng với độ phản chiếu bóng bẩy và vệt tương cà bắn tung tóe
-
-MỖI KHUNG HÌNH:
-• Số thứ tự cảnh
-• Huy hiệu thời lượng
-• Hướng máy quay
-• Hình ảnh
-• Hành động
-• Chi tiết sản phẩm
-
-CAMERA:
-Macro cực đại, máy quay tiến dần vào sản phẩm chậm, góc quay từ trên xuống, góc nghiêng, nhiếp ảnh bắt trọn khoảnh khắc bắn tung tóe có kiểm soát, hình ảnh sản phẩm cao cấp (packshot).
-
-PHONG CÁCH: Nhiếp ảnh thực phẩm siêu thực, kết cấu tương cà bóng bẩy, vật lý chất lỏng chân thực, cà chua tươi, ánh sáng studio sạch sẽ, quảng cáo thương mại cao cấp, 8K.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787217321758_98zrwb_HQAvvJHWUAAx3pk.jpg" width="600" alt="Storyboard quảng cáo tương cà cao cấp">
-
-**[🎬 Xem video →](https://x.com/Strength04_X/status/2089722733156266079)**
-
-**Tác giả:** [𝐌](https://x.com/Strength04_X) | **Nguồn:** [Link](https://x.com/Strength04_X/status/2089722733156266079) | **Đã xuất bản:** Aug 18, 2026
-
----
-### Nữ thần bảo vệ hành tinh băng giá
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Một câu lệnh tạo video điện ảnh về một nữ thần đang đứng trên thế giới băng giá, với vẻ mặt thanh thản khi trò chuyện cùng người dân trong lúc thiên thạch rơi xuống.
-
-#### 📝 Prompt
-
-```
-"Dù cho mưa thiên thạch rực lửa có trút xuống hay tia sét hàng triệu vôn có giáng xuống, ta vẫn sẽ bảo vệ tất cả người dân của mình," nữ thần canh giữ hành tinh băng giá nói với thần dân bằng vẻ mặt thanh thản.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089637983368650752/img/GQypPF6_mBJUcTff.jpg" width="600" alt="Nữ thần bảo vệ hành tinh băng giá">
-
-**[🎬 Xem video →](https://x.com/omomomomo0309/status/2089638641664659879)**
-
-**Tác giả:** [おもも桃](https://x.com/omomomomo0309) | **Nguồn:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Đã xuất bản:** Aug 18, 2026
-
----
 ---
 
 ## 📚 Thêm prompt có sẵn
@@ -3391,6 +3449,6 @@ Tác phẩm này được cấp phép theo [CC BY 4.0](https://creativecommons.o
 **[📝 Gửi một prompt](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-23T03:25:53.659Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-23T09:05:32.822Z</sub>
 
 </div>

@@ -46,7 +46,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **276** |
+| 📝 Toplam İstem | **279** |
 | ⭐ Öne Çıkan İstemler | **0** |
 | 🔄 Son Güncelleme | **2026-09-23** |
 
@@ -56,6 +56,204 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
+### Gemini Omni Antik Çin Şiiri Video İstemi
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Li Bai'nin 'Bir Dostu Uğurlarken' şiirine dayalı, 9:16 dikey formatında antik Çin mürekkep boyama tarzı animasyon videosu oluşturmak için detaylı, çok parçalı bir istem. Ses, altyazı veya metin katmanı olmadan görsel anlatıma odaklanan bir veda sahnesinin metinden videoya üretimini belirtir.
+
+#### 📝 İstem
+
+```
+## Birleşik Üretim Ayarları
+
+- Mod: Saf Metinden Videoya
+- Referans videolar yüklemeyin
+- Referans görüntüler yüklemeyin
+- Seslendirme veya herhangi bir ses yüklemeyin
+- En Boy Oranı: 9:16 Dikey
+- Önerilen Süre: Segment başına 10 saniye
+- Çıktı: Yalnızca görseller, sessiz
+- Post-prodüksiyon: Orijinal Doubao seslendirmesi ve altyazıları yerel olarak yeniden eklenecek
+- En Yüksek Öncelik: İlk kareden son kareye kadar kesinlikle metin, altyazı, başlık, kaligrafi, mühür, tabela yazısı, filigran, logo, arayüz (UI), sahte karakterler, bozuk kod, İngilizce veya sayı bulunmamalıdır.
+
+---
+
+## Bölüm 1 | "Bir Dostu Uğurlarken" Açılışı: Şehir Dışındaki Veda
+
+10 saniyelik, 9:16 dikey Çin antik tarzı animasyonu üretin.
+
+Tang Hanedanlığı şehir surlarının dışında, açık manzaralı bir veda sahnesi. Uzaktaki sürekli yeşil dağlar yatay olarak uzanır; yakında ise berrak nehirler antik şehrin etrafından kıvrılır. Şehir surları, nehir kıyıları, antik yollar ve uzak dağlar belirgin bir derinlik yaratır.
+
+Sahnede otuzlu yaşlarında iki Tang Hanedanlığı bilgini vardır.
+
+Li Bai: Zayıf, doğal Doğu Asyalı erkek yüzü, yukarıda bağlanmış koyu renk saç, mavi-gri çapraz yakalı uzun cübbe ve krem rengi astar giyer, bez ayakkabılarla dolaşır, özgür ruhlu ve sakin bir mizaca sahiptir.
+
+Arkadaş: Otuzlu yaşlarında Doğu Asyalı erkek, sade kahverengi çapraz yakalı uzun cübbe giyer, yukarıda bağlanmış koyu renk saç, basit bir seyahat çantası taşır ve yanında kahverengi bir at vardır.
+
+Kamera, yeşil dağların, nehirlerin ve şehir surlarının geniş görünümüyle başlar ve yavaşça ileri doğru itilir. İki bilgin, nehir kıyısındaki antik yol boyunca yan yana yürür ve ayrılmak üzeredirler. Bir esinti kollarını, yaprakları ve atın yelelerini hareket ettirir; nehir yüzeyinde ince dalgalanmalar belirir.
+
+Ardından ikisi antik yolun kenarında durur, yol uzaktaki dağlara doğru uzanır ve arkadaşın uzaklara gitmek üzere olmasıyla ayrılık atmosferi yaratılır. Genel duygu yas değil, ima eden, ölçülü, özgür ruhlu ve altında gizli bir vedalaşma isteksizliği barındıran bir histir.
+
+Çin klasik mürekkep boyama renkli animasyon tarzı, soluk camgöbeği-yeşil manzaralar, zarif pirinç kağıdı dokusu, sinematik kompozisyon, doğal ışıklandırma ve gölgeler, gerçekçi karakter oranları, doğal ve ölçülü hareketler, sabit ve yavaş kamera çalışması. Karakter başlarını veya önemli manzara unsurlarını kırpmadan tam 9:16 çerçevesini korumalıdır.
+
+Saf görsel animasyon. Seslendirme yok. Karakterler konuşmaz. Dudak senkronizasyonu yok. Müzik yok. Ortam sesi yok. Ses efektleri yok.
+
+Baştan sona kesinlikle yasaktır: Herhangi bir metin görünümü. Altyazı, başlık, şiir, yazar adı, kaligrafi, mühür, tabela yazısı, bayrak yazısı, tomar, taş tablet yazıtı, filigran, logo, arayüz (UI), sahte karakterler, bozuk kod, İngilizce veya sayı yok. Binalardaki tabelalar boş olmalı veya tamamen bulunmamalıdır. İlk kareden son kareye kadar saf metinsiz ekranı koruyun.
+
+---
+
+## Bölüm 2 | Yeşil Dağlar ve Beyaz Sular
+
+10 saniyelik, 9:16 dikey Çin antik tarzı animasyonu üretin.
+
+Tang Hanedanlığı şehri dışındaki veda dünyasını sürdürün.
+
+Açılış, yeşil dağların, antik şehrin ve nehirlerin görkemli uzak görünümüdür. Yeşil dağlar antik şehrin kuzeyinde yatay olarak uzanır, yayılan yamaçlar, katmanlı zirveler ve dağlar arasında yavaşça hareket eden hafif bulutlar vardır.
+
+Kamera sabitçe kayar ve antik şehrin doğu tarafından kıvrılan berrak bir nehri giderek ortaya çıkarır. Nehir suyu parlak ve temizdir, gökyüzünü, şehir surlarını ve uzak dağları yansıtır, yüzeyde yalnızca hafif dalgalanmalar vardır.
+
+Nehir kıyısındaki antik yolun yanında, iki Tang Hanedanlığı bilgini daha küçük ölçeklerde kadraja girer. Li Bai mavi-gri çapraz yakalı uzun cübbe, arkadaş ise sade kahverengi uzun cübbe giyer ve yanında kahverengi bir at vardır.
+
+Karakterler sessiz kalır, konuşmaz ve yaklaşan ayrılık durumunu yalnızca manzaraya bakarak ifade eder.
+
+İkinci yarıda, kamera nehir boyunca yavaşça hareket eder ve yeşil dağlar, beyaz sular, antik şehir ve antik yolun eksiksiz bir Çin manzarası kompozisyonu oluşturmasını sağlar.
+
+Soluk camgöbeği-yeşil Çin mürekkep boyama renkli tarzı, zarif pirinç kağıdı dokusu, gerçekçi mekansal katmanlar, sinematik his, sabit yavaş hareket, hızlı geçişler yok.
+
+Saf görseller. Seslendirme yok, müzik yok, ortam sesi yok, ses efektleri yok. Karakterler konuşmaz ve okuma dudak senkronizasyonu yapmaz.
+
+Ekran %100 metinsiz olmalıdır. Altyazı yok, şiir yok, kaligrafi yok, başlık yok, tabela yazısı yok, mühür yok, tomar yok, taş tablet yazıtı yok, filigran yok, logo yok, sahte karakter veya bozuk kod yok. Metnin görünebileceği herhangi bir mimari veya nesne tamamen boş bırakılmalıdır.
+
+---
+
+## Bölüm 3 | Burada Ayrılık, Uzaklara Giden Tek Başına Bir Ot Parçası
+
+10 saniyelik, 9:16 dikey Tang Hanedanlığı antik tarzı veda animasyonu üretin.
+
+Nehir kıyısındaki antik yolun yanında, otuzlu yaşlarında iki Tang Hanedanlığı bilgini birbirlerine dönük durur.
+
+Li Bai mavi-gri çapraz yakalı uzun cübbesini, yukarıda bağlanmış koyu renk saçını ve zayıf doğal yüzünü korur. Ayrılan arkadaş sade kahverengi uzun cübbesini, yukarıda bağlanmış koyu renk saçını korur ve sırtında yalnızca basit bir seyahat çantası olan kahverengi bir ata eşlik eder.
+
+Başlangıçta, ikisi antik yolun yanında sessizce birbirlerine bakar. Ardından, sarılmadan, ağlamadan veya abartılı oyunculuk yapmadan, ölçülü el sıkışma selamlarıyla vedalaşırlar ve nazikçe başlarını sallarlar.
+
+Arkadaş arkasını döner ve atı uzaklardaki antik yola doğru sürer. Kamera yavaşça geri çekilir.
+
+Antik yol dağların derinliklerine uzanır. Temiz, doğal bir rüzgar gülü rüzgarla savrulur, çorak arazide yuvarlanır veya hafifçe sallanır, sürgün ve uzaklara yolculuğu ima etmek için doğal manzarayı kullanır. Karakteri rüzgar gülüne dönüştürmeyin; sihir veya fantastik özel efektler kullanmayın.
+
+İkinci yarıda, arkadaşın ve atın sırtlarının giderek kaybolmasına odaklanırken, Li Bai daha yakın kalır ve onların gidişini izler. Dağlık alan geniştir ve figürler küçülür, on bin millik bir yolculuk için mekan hissini pekiştirir.
+
+Çin klasik mürekkep boyama renkli animasyon, soluk camgöbeği-yeşil ve toprak kahverengisi tonları, pirinç kağıdı dokusu, sinematik kompozisyon, gerçekçi karakter oranları, kollarda ve at yelelerinde rüzgarda hafif titreşimler, yavaş ve doğal kamera hareketi.
+
+Saf görseller, ses yok. Karakterler konuşmaz ve dudak senkronizasyonu yapmaz.
+
+Kesinlikle herhangi bir metin üretmeyin. Yasak: Altyazı, şiir, başlık, kaligrafi, mühür, tabela yazısı, bayrak yazısı, tomar, taş tablet yazıtı, logo, filigran, İngilizce, sayı, sahte metin ve bozuk kod.
+
+---
+
+## Bölüm 4 | Gezgin İçin Süzülen Bulutlar, Eski Dost İçin Batan Güneş
+
+10 saniyelik, 9:16 dikey Çin antik tarzı mürekkep boyama animasyonu üretin.
+
+Tang Hanedanlığı şehri dışındaki antik yol uzağa uzanır. Arkadaş zaten ata binmiş veya onu yavaşça antik yol boyunca uzaklaştırmıştır.
+
+Gökyüzünde birkaç süzülen bulut yavaşça hareket eder. Kamera önce yumuşakça yukarı doğru hareket eder, gökyüzündeki süzülen bulutları takip eder, ardından ayrılan arkadaşın sırtıyla bağlantı kurmak için yavaşça alçalır, süzülen bulutlar ve gezgin arasında doğal bir görsel yankı yaratır.
+
+Bu sanatsal kavramı açıklamak için herhangi bir metin veya soyut sembol kullanmayın; bunu yalnızca imgeleme yoluyla ifade edin.
+
+Ardından kamera yavaşça geriye bakar. Li Bai, nehir kıyısındaki antik yolun yanında tek başına durur, mavi-gri uzun cübbe giyer ve arkadaşının uzaklarda kaybolmasını sessizce izler.
+
+Batıdaki batan güneş yavaşça alçalır. Yumuşak altın rengi gün batımı ışığı Li Bai'nin profilini, nehir yüzeyini ve uzak dağları aydınlatır.
+
+Li Bai'nin ifadesi sakin ama isteksizdir, gözyaşı yoktur ve abartılı üzgün ifadeler yoktur.
+
+Sonunda, eksiksiz bir resim oluşur: Gökyüzündeki süzülen bulutlar, uzaktaki arkadaş, batan güneş, nehir ve geride kalan Li Bai, katmanlı bir manzara alanında aynı anda var olur.
+
+Çin mürekkep boyama renkli tarzı, soluk camgöbeği-yeşili sıcak gün batımı parıltısıyla birleştirir, pirinç kağıdı dokusu, gerçekçi doğal ışıklandırma ve gölgeler, sinematik his, yavaş ve akıcı kamera hareketi, ima eden ve ölçülü eylemler.
+
+Saf görseller. Seslendirme yok, müzik yok, ortam sesi yok, ses efektleri yok. Karakterler konuşmaz ve dudak senkronizasyonu yapmaz.
+
+Videonun tamamında kesinlikle metin yok. Altyazı yok, şiir yok, başlık yok, kaligrafi yok, tabela yazısı yok, mühür yok, tomar yok, logo yok, filigran yok, sahte karakter yok, bozuk kod yok.
+
+---
+
+## Bölüm 5 | El Sallayarak Vedalaşma, Atın Uzun Kişnemesi
+
+10 saniyelik, 9:16 dikey Tang Hanedanlığı antik tarzı veda animasyonu üretin.
+
+Batan güneş altındaki şehir dışındaki antik yol.
+
+Li Bai mavi-gri çapraz yakalı uzun cübbe giyer, nehir kıyısındaki antik yolun yanında durur. Arkadaş sade kahverengi uzun cübbe giyer ve zaten kahverengi ata binmiş veya onu biraz öteye götürmüştür.
+
+Başlangıçta, arkadaş geriye bakar. Li Bai arkadaşına vedalaşmak için elini kaldırır; uzaktaki arkadaş da arkasını döner ve karşılık verir. Hareketler yavaş, doğal ve ölçülüdür.
+
+Ardından arkadaş uzaklaşmaya devam eder.
+
+Kahverengi at kısa bir süre başını geri çevirir, nazikçe başını kaldırır, yeleleri rüzgarda uçuşur, atın eylemleri aracılığıyla sürüyü terk etme isteksizliğini ifade eder.
+
+Burada yalnızca atın görsel eylemlerini gösterin. At kişneme sesleri, ses dalgaları veya onomatope metni üretmeyin.
+
+Kamera yavaşça geri çekilir. Arkadaş ve at antik yol boyunca giderek uzaklaşırken, Li Bai olduğu yerde kalarak izler. Batan güneş, uzak dağlar, nehir, antik yol ve yavaşça ayrılan iki dost, nihai veda sahnesini oluşturur.
+
+Son iki saniye için, yalnızca gün batımı ışığının, kolların, yaprakların ve at yelelerinin hafif hareketleriyle tam sahneyi koruyun.
+
+Siyah ekran yok. Bitiş kartına doğru solma yok. Tomar veya bitiş ekranı metni üretmeyin.
+
+Çin klasik mürekkep boyama renkli animasyon, soluk camgöbeği-yeşil manzaralar sıcak gün batımı parıltısıyla birleştirilmiş, zarif pirinç kağıdı dokusu, sinematik kompozisyon, gerçekçi karakter oranları, sabit ve yavaş kamera hareketi.
+
+Saf görseller, tamamen sessiz. Seslendirme yok. Müzik yok. Ortam sesi yok. Ses efektleri yok. Karakterler konuşmaz ve dudak senkronizasyonu yapmaz.
+
+İlk kareden son kareye kadar kesinlikle metin olmamalıdır. Yasak: Altyazı, şiir, başlık, yazar adı, kaligrafi, mühür, tabela yazısı, bayrak yazısı, taş tablet yazıtı, tomar yazısı, logo, filigran, arayüz (UI), sayı, İngilizce, sahte karakter ve bozuk kod.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102676626068930560/img/Twk6W56KBSf8MFLa.jpg" width="600" alt="Gemini Omni Antik Çin Şiiri Video İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/7998l201/status/2102676845212709346)**
+
+**Yazar:** [Ryan](https://x.com/7998l201) | **Kaynak:** [Link](https://x.com/7998l201/status/2102676845212709346) | **Yayınlandı:** Sep 23, 2026
+
+---
+### Gemini Omni Kurumsal Ticari Video İstemi
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sağlanan bir storyboard'a dayalı olarak Gemini Omni kullanılarak 10 saniyelik fotogerçekçi bir kurumsal ticari video oluşturmak için ayrıntılı istem.
+
+#### 📝 İstem
+
+```
+Kurgusal mimarlık ve inşaat şirketi “NEXARC CONSTRUCTION” için tam 10 saniyelik, üst düzey fotogerçekçi bir Japon kurumsal ticari videosu oluşturun.
+
+REFERANS PANOSU
+Yüklenen 3×3'lük storyboard, çekim kompozisyonunu, kamera açılarını, özne konumlandırmasını ve sahne geçişlerini kontrol eder. Referans görsellerde sunulan görsel anlatıma sıkı sıkıya bağlı kalın.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790153039061_9sfv6o_HS0AkODa8AAhHja.jpg" width="600" alt="Gemini Omni Kurumsal Ticari Video İstemi">
+
+**[🎬 Videoyu izle →](https://x.com/husky__create/status/2102337252340994249)**
+
+**Yazar:** [はすきー｜Midjourneyマニア🐺](https://x.com/husky__create) | **Kaynak:** [Link](https://x.com/husky__create/status/2102337252340994249) | **Yayınlandı:** Sep 22, 2026
+
+---
+### Gemini Omni Haçapuri Pişirme Videosu İstem Metni
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Sıkı süreklilik ve kamera talimatlarıyla fotogerçekçi 10 saniyelik bir haçapuri pişirme videosu oluşturmak için detaylı istem metni.
+
+#### 📝 İstem
+
+```
+Tamamen sırayla, sabit 90° tepeden bakış açısıyla, mat siyah masa üzerinde, aynı erkek elleri siyah eldivenlerle, sadece sert geçişler kullanarak, sihir veya atlanan adım olmadan, 16:9 en-boy oranında fotogerçekçi 10 saniyelik bir haçapuri pişirme videosu oluşturun: 0.0-0.7 malzemeler simetrik olarak dizilmiş, eller hamuru alır -> 0.7-1.5 hamur oval şekle getirilir -> 1.5-2.2 uzun kenarlar içe doğru kıvrılır -> 2.2-2.8 her iki uç tekneye benzer şekilde sıkıştırılır -> 2.8-3.6 rendelenmiş peynirle eşit şekilde doldurulur -> 3.6-4.2 çiğ haçapuri siyah fırın tepsisine yerleştirilir -> 4.2-5.0 çiğ haçapuri gözle görülür şekilde fırına kaydırılır -> 5.0-5.8 fırın içinde hızlı gerçekçi zaman atlaması: hamur kabarır ve altın rengi olur, peynir erir ve kabarcıklar oluşur -> 5.8-6.5 eller pişmiş haçapuriyi çıkarır -> 6.5-7.3 tam ortasına bir yumurta kırılır -> 7.3-8.0 tekrar fırına verilir, kısa zaman atlaması: beyazı hafifçe donarken sarısı akışkan kalır -> 8.0-8.6 bitmiş haçapuri çıkarılır ve siyah masaya konulur -> 8.6-9.2 sarının yanına tereyağı küpleri eklenir, tereyağı erimeye başlar -> 9.2-10.0 eller çekilir, erimiş peynirli, parlak akışkan sarılı ve eriyen tereyağlı altın rengi haçapuri'nin kahraman çekimi. Her sonraki sahne, önceki sahnendeki yiyecek durumunun tam olarak devamından başlamalıdır; hızlı, hassas ve gerçekçi el hareketleri, kamera hareketi yok, havada süzülme, ışınlanma, anlık pişirme, kaybolan veya çoğalan malzeme yok.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790153036963_wt5ej4_HSxFJWAW4AAusdb.jpg" width="600" alt="Gemini Omni Haçapuri Pişirme Videosu İstem Metni">
+
+**[🎬 Videoyu izle →](https://x.com/999shinobi/status/2102142574848798798)**
+
+**Yazar:** [999](https://x.com/999shinobi) | **Kaynak:** [Link](https://x.com/999shinobi/status/2102142574848798798) | **Yayınlandı:** Sep 21, 2026
+
+---
 ### Pixar Tarzı Fırın CM İstemi (Gemini Omni İçin)
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -3225,146 +3423,6 @@ Ultra gerçekçi bal dokusu, gerçekçi sıvı fiziği, sıcak doğal aydınlatm
 **Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2090081415924982038) | **Yayınlandı:** Aug 19, 2026
 
 ---
-### Hazır Noodle Reklamı Storyboard'u
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Hazır noodle'lar için enerjik bir gıda reklamı storyboard istemi. Noodle çekimleri, makro doku çekimleri ve profesyonel stüdyo aydınlatmalı sinematik buhar efektleri dahil olmak üzere sekiz etkileyici sahneyi tanımlar.
-
-#### 📝 İstem
-
-```
-BAŞLIK:
-Premium Hazır Noodle Ürün Reklamı Storyboard'u
-
-FORMAT:
-• Tek sayfalık premium storyboard
-• 3:4 Dikey oran
-• Yüksek enerjili gıda reklamı
-• 8 sinematik ürün sahnesi
-• Ürün odaklı reklam sunumu
-
-ÜST BİLGİ:
-• Modern kalın tipografi
-• Bilgi kartları:
-  - Süre: 20 Saniye
-  - Stil: Sinematik Gıda Reklamı
-  - Ürün: Hazır Noodle
-  - Ses: Yemek Pişirme ASMR + Enerjik Ritim
-• Bu Stil Neden İşe Yarar bölümü
-• Sıcak sarı ve kırmızı vurgular
-
-STORYBOARD:
-1. Dramatik aydınlatma ile dik duran hazır noodle paketi
-2. Paketin açılması ve noodle'ların kaseye dökülmesi
-3. Noodle'ların üzerine kaynar su dökülmesi
-4. Gerçekçi buhar yükselirken noodle'ların pişmesi
-5. Baharat tozunun eklenmesi
-6. Çubukların mükemmel pişmiş noodle'ları kaldırması
-7. Üzerinde malzemeler bulunan parlak noodle'ların aşırı makro çekimi
-8. Orijinal ürün paketinin yanındaki nihai ana kase
-
-HER PANEL:
-• Sahne numarası
-• Süre rozeti
-• Görsel
-• Eylem
-• Kamera yönü
-• Ürün detayı
-
-KAMERA:
-Makro gıda fotoğrafçılığı, tepe kompozisyonu, buhar yakın planı, noodle kaldırma çekimi, dramatik ürün yakınlaştırma, sinematik ana kareleme.
-
-STİL:
-Ultra gerçekçi gıda reklamı, gerçekçi buhar, detaylı noodle dokusu, parlak et suyu, canlı malzemeler, profesyonel stüdyo aydınlatması, premium ambalaj, 8K.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787217318961_wpvccr_HQE90xdaYAA8DRm.jpg" width="600" alt="Hazır Noodle Reklamı Storyboard'u">
-
-**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2090019696779387173)**
-
-**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2090019696779387173) | **Yayınlandı:** Aug 19, 2026
-
----
-### Lüks Ketçap Reklamı Storyboard'u
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Premium gıda reklamları için makro çekimlere ve profesyonel reklam estetiğine odaklanan, ürün tanıtımlarına yönelik sinematik ve detaylı bir storyboard istemi.
-
-#### 📝 İstem
-
-```
-BAŞLIK:
-Premium Domates Ketçabı Ürün Reklamı Storyboard'u
-
-FORMAT:
-• Tek sayfalık premium storyboard
-• 3:4 Dikey oran
-• Lüks gıda ürünü reklamı
-• 8 sinematik storyboard sahnesi
-• Temiz ve premium sunum
-
-ÜST BİLGİ:
-• Kalın editoryal tipografi
-• Bilgi kartları:
-  - Süre: 20 Saniye
-  - Stil: Premium Gıda Reklamı
-  - Ürün: Domates Ketçabı
-  - Ses: Taze Gıda ASMR
-• Bu Stil Neden İşe Yarar bölümü
-• Kırmızı, beyaz ve krem estetiği
-
-STORYBOARD:
-1. Temiz beyaz bir yüzey üzerinde duran ketçap şişesi
-2. Makro yakın çekimde açılan şişe kapağı
-3. Şişeden akan yoğun ketçap
-4. Mükemmel ve parlak bir spiral oluşturan ketçap
-5. Zengin domates dokusunu gösteren ekstrem makro çekim
-6. Çıtır patates kızartmasının yanına dökülen ketçap
-7. Taze domatesler ve ürün içerikleriyle çevrili şişe
-8. Parlak yansımalı ve ketçap sıçramalı final hero şişe çekimi
-
-HER PANEL:
-• Sahne numarası
-• Süre rozeti
-• Kamera yönü
-• Görsel
-• Aksiyon
-• Ürün detayı
-
-KAMERA:
-Ekstrem makro, yavaş ürün yakınlaştırma (push-in), tepeden çekim, yan profil, kontrollü sıçrama fotoğrafçılığı, premium ürün çekimi (packshot).
-
-STİL: Ultra gerçekçi gıda fotoğrafçılığı, parlak ketçap dokusu, gerçekçi sıvı fiziği, taze domatesler, temiz stüdyo aydınlatması, premium ticari reklam, 8K.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787217321758_98zrwb_HQAvvJHWUAAx3pk.jpg" width="600" alt="Lüks Ketçap Reklamı Storyboard'u">
-
-**[🎬 Videoyu izle →](https://x.com/Strength04_X/status/2089722733156266079)**
-
-**Yazar:** [𝐌](https://x.com/Strength04_X) | **Kaynak:** [Link](https://x.com/Strength04_X/status/2089722733156266079) | **Yayınlandı:** Aug 18, 2026
-
----
-### Buz Gezegenini Koruyan Tanrıça
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Donmuş bir dünyada duran, göktaşları düşerken sakin bir ifadeyle halkına seslenen bir tanrıça için sinematik video istemi.
-
-#### 📝 İstem
-
-```
-Buz gezegenini koruyan tanrıça, sakin bir ifadeyle halkına hitaben, "Üzerimize alevli göktaşları yağsa ya da milyonlarca voltluk yıldırımlar düşse bile, tüm halkımı koruyacağım," diyor.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089637983368650752/img/GQypPF6_mBJUcTff.jpg" width="600" alt="Buz Gezegenini Koruyan Tanrıça">
-
-**[🎬 Videoyu izle →](https://x.com/omomomomo0309/status/2089638641664659879)**
-
-**Yazar:** [おもも桃](https://x.com/omomomomo0309) | **Kaynak:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Yayınlandı:** Aug 18, 2026
-
----
 ---
 
 ## 📚 Daha fazla istem mevcut
@@ -3417,6 +3475,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-23T03:26:03.770Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-23T09:05:44.479Z</sub>
 
 </div>

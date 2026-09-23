@@ -46,7 +46,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **276** |
+| 📝 Gesamtanzahl Prompts | **279** |
 | ⭐ Ausgewählte Prompts | **0** |
 | 🔄 Zuletzt aktualisiert | **2026-09-23** |
 
@@ -56,6 +56,204 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
+### Gemini Omni Video-Prompt für antike chinesische Poesie
+
+![中文](https://img.shields.io/badge/lang-中文-red)
+
+> Ein detaillierter, mehrteiliger Prompt zur Generierung eines vertikalen Animationsvideos im Stil der antiken chinesischen Tuschemalerei (9:16) basierend auf dem Gedicht 'Abschied von einem Freund' von Li Bai. Er spezifiziert die Text-zu-Video-Generierung ohne Audio, Untertitel oder Texteinblendungen und konzentriert sich auf die visuelle Erzählung einer Abschiedsszene.
+
+#### 📝 Prompt
+
+```
+## Einheitliche Generierungseinstellungen
+
+- Modus: Reine Text-zu-Video-Generierung
+- Keine Referenzvideos hochladen
+- Keine Referenzbilder hochladen
+- Keine Voiceovers oder jegliches Audio hochladen
+- Seitenverhältnis: 9:16 Vertikal
+- Empfohlene Dauer: 10 Sekunden pro Segment
+- Ausgabe: Nur Visuals, stumm
+- Postproduktion: Original-Doubao-Narration und Untertitel werden lokal erneut hinzugefügt
+- Höchste Priorität: Absolut kein Text, keine Untertitel, Titel, Kalligrafien, Siegel, Schilderinschriften, Wasserzeichen, Logos, UI-Elemente, Pseudo-Zeichen, Code-Müll, Englisch oder Zahlen vom ersten bis zum letzten Bild.
+
+---
+
+## Teil 1 | "Abschied von einem Freund" Einstieg: Abschied außerhalb der Stadt
+
+Generiere ein 10-sekündiges, vertikal orientiertes (9:16) Animationsvideo im antiken chinesischen Stil.
+
+Außerhalb der Stadtmauern der Tang-Dynastie eine offene Landschaft mit einer Abschiedsszene. In der Ferne liegen zusammenhängende grüne Berge horizontal; in der Nähe schlängeln sich klare Flüsse um die alte Stadt. Die Stadtmauern, Flussufer, alten Straßen und fernen Berge schaffen eine deutliche Tiefenwirkung.
+
+Es gibt zwei Gelehrte der Tang-Dynastie in ihren Dreißigern in der Szene.
+
+Li Bai: Ein schlankes, natürliches ostasiatisches männliches Gesicht, dunkles, nach oben gebundenes Haar, trägt einen blau-grauen Langmantel mit gekreuztem Kragen und einem cremeweißen Innenfutter, Stoffschuhe, besitzt ein freigeistiges und ruhiges Temperament.
+
+Freund: Ein ostasiatischer Mann um die dreißig Jahre alt, trägt einen schlichten braunen Langmantel mit gekreuztem Kragen, dunkles, nach oben gebundenes Haar, trägt eine einfache Reisetasche, begleitet von einem braunen Pferd.
+
+Die Kamera beginnt mit einer Weitwinkelansicht der grünen Berge, Flüsse und Stadtmauern und schiebt sich langsam nach vorne. Die beiden Gelehrten gehen nebeneinander entlang der alten Straße am Flussufer, kurz vor der Trennung. Eine Brise bewegt ihre Ärmel, Blätter und Mähnen des Pferdes; subtile Wellen erscheinen auf der Wasseroberfläche.
+
+Dann bleiben die beiden an der alten Straße stehen, wobei der Weg sich zu den Bergen in der Ferne erstreckt, was eine Atmosphäre der Abreise erzeugt, da der Freund bald weit reisen wird. Die gesamte Emotion ist nicht Trauer, sondern implizit, zurückhaltend und freigeistig mit einer zugrunde liegenden Scheu vor der Trennung.
+
+Chinesischer klassischer Tuschefarb-Stil, blass-cyan-grüne Landschaften, feine Reispapier-Textur, kinematografische Komposition, natürliche Beleuchtung und Schatten, realistische Proportionen der Charaktere, natürliche und zurückhaltende Bewegungen, stabile und langsame Kamerabewegung. Muss den vollständigen 9:16-Rahmen beibehalten, ohne Köpfe der Charaktere oder wichtige Szenen abzuschneiden.
+
+Reine visuelle Animation. Kein Voiceover. Charaktere sprechen nicht. Kein Lip-Syncing. Keine Musik. Keine Umgebungsgeräusche. Keine Soundeffekte.
+
+Absolut verboten durchgehend: Jegliches Auftreten von Text. Keine Untertitel, Titel, Gedichte, Autorennamen, Kalligrafien, Siegel, Schilderinschriften, Flaggentexte, Schriftrollen, Steininschriften, Wasserzeichen, Logos, UI, Pseudo-Zeichen, Code-Müll, Englisch oder Zahlen. Schilder an Gebäuden müssen leer sein oder vollständig fehlen. Halte den Bildschirm vom ersten bis zum letzten Bild rein textfrei.
+
+---
+
+## Teil 2 | Grüne Berge und weißes Wasser
+
+Generiere ein 10-sekündiges, vertikal orientiertes (9:16) Animationsvideo im antiken chinesischen Stil.
+
+Fahre mit der Weltanschauung des Abschieds außerhalb der Tang-Stadt fort.
+
+Der Einstieg ist eine große Fernansicht der grünen Berge, der alten Stadt und der Flüsse. Grüne Berge liegen horizontal nördlich der alten Stadt, mit auslaufenden Hängen, geschichteten Gipfeln und schwachen Wolken, die sich langsam zwischen den Bergen bewegen.
+
+Die Kamera schwenkt stetig und enthüllt allmählich einen klaren Fluss, der an der Ostseite der alten Stadt vorbeifließt. Das Flusswasser ist hell und sauber, spiegelt den Himmel, die Stadtmauern und die fernen Berge wider, mit nur leichten Wellen auf der Oberfläche.
+
+An der alten Straße am Flussufer erscheinen die beiden Gelehrten der Tang-Dynastie in kleinerem Maßstab im Bild. Li Bai trägt einen blau-grauen Langmantel mit gekreuztem Kragen, der Freund trägt einen schlichten braunen Langmantel, begleitet von einem braunen Pferd.
+
+Die Charaktere bleiben still, sprechen nicht und drücken die Situation der bevorstehenden Trennung nur dadurch aus, dass sie innehalten, um die Landschaft zu betrachten.
+
+In der zweiten Hälfte bewegt sich die Kamera langsam entlang des Flusses, sodass die grünen Berge, das weiße Wasser, die alte Stadt und die alte Straße eine vollständige chinesische Landschaftskomposition bilden.
+
+Blass-cyan-grüner chinesischer Tuschefarb-Stil, feine Reispapier-Textur, realistische räumliche Schichten, kinematografisches Gefühl, gleichmäßige langsame Bewegung, keine schnellen Übergänge.
+
+Reine Visuals. Kein Voiceover, keine Musik, keine Umgebungsgeräusche, keine Soundeffekte. Charaktere sprechen nicht und führen keine Lese-Lip-Syncs durch.
+
+Der Bildschirm muss zu 100 % textfrei sein. Keine Untertitel, keine Gedichte, keine Kalligrafien, keine Titel, keine Schilderinschriften, keine Siegel, keine Schriftrollen, keine Steininschriften, keine Wasserzeichen, keine Logos, keine Pseudo-Zeichen oder Code-Müll. Jegliche Architektur oder Objekte, wo Text erscheinen könnte, müssen vollständig leer bleiben.
+
+---
+
+## Teil 3 | Hier getrennt, einsames Rollkraut reist weit
+
+Generiere ein 10-sekündiges, vertikal orientiertes (9:16) Abschiedsanimationsvideo im antiken Stil der Tang-Dynastie.
+
+An der alten Straße am Flussufer stehen zwei Gelehrte der Tang-Dynastie in ihren Dreißigern einander gegenüber.
+
+Li Bai behält seinen blau-grauen Langmantel mit gekreuztem Kragen, das dunkle, nach oben gebundene Haar und das schlanke, natürliche Gesicht bei. Der abreisende Freund behält seinen schlichten braunen Langmantel, das dunkle, nach oben gebundene Haar bei, begleitet von einem braunen Pferd mit nur einer einfachen Reisetasche auf dem Rücken.
+
+Zu Beginn schauen sich die beiden still an der alten Straße an. Dann verabschieden sie sich mit zurückhaltenden Begrüßungen durch gefaltete Hände, nicken sanft, ohne Umarmungen, Weinen oder übertriebenes Schauspiel.
+
+Der Freund dreht sich um und führt das Pferd auf die ferne alte Straße zu. Die Kamera zieht sich allmählich zurück.
+
+Die alte Straße erstreckt sich tief in die Berge. Ein sauberes, natürliches Rollkraut wird vom Wind geblasen, rollt oder wiegt leicht in der Wildnis und nutzt die natürliche Szenerie, um Drift und weite Reise zu implizieren. Verwandle den Charakter nicht in ein Rollkraut; verwende keine magischen oder Fantasy-Spezialeffekte.
+
+In der zweiten Hälfte fokussiere auf die Rücken des Freundes und des Pferdes, die allmählich verschwinden, während Li Bai näher bleibt und ihnen nachschaut. Die Bergwildnis ist weitläufig, und die Figuren werden kleiner, was das Raumgefühl für eine Reise von zehntausend Meilen verstärkt.
+
+Chinesische klassische Tuschefarb-Animation, blass-cyan-grüne und erdige braune Töne, Reispapier-Textur, kinematografische Komposition, realistische Proportionen der Charaktere, Ärmel und Pferdemähnen flattern leicht im Wind, langsame und natürliche Kamerabewegung.
+
+Reine Visuals, kein Ton. Charaktere sprechen nicht und machen keinen Lip-Sync.
+
+Absolut keinen Text generieren. Verboten: Untertitel, Gedichte, Titel, Kalligrafien, Siegel, Schilderinschriften, Flaggentexte, Schriftrollen, Steininschriften, Logos, Wasserzeichen, Englisch, Zahlen, Pseudo-Text und Code-Müll.
+
+---
+
+## Teil 4 | Treibende Wolken für den Wanderer, untergehende Sonne für den alten Freund
+
+Generiere ein 10-sekündiges, vertikal orientiertes (9:16) Animationsvideo im antiken chinesischen Tuschefarb-Stil.
+
+Die alte Straße außerhalb der Tang-Stadt erstreckt sich in die Ferne. Der Freund ist bereits geritten oder hat das Pferd langsam entlang der alten Straße weggeführt.
+
+Mehrere treibende Wolken bewegen sich langsam am Himmel. Die Kamera bewegt sich zuerst sanft nach oben, folgt den treibenden Wolken am Himmel und senkt sich dann langsam ab, um sich mit dem Rücken des abreisenden Freundes zu verbinden, wodurch ein natürlicher visueller Widerhall zwischen den treibenden Wolken und dem Reisenden entsteht.
+
+Verwende keinen Text oder abstrakte Symbole, um diese künstlerische Konzeption zu erklären; drücke es nur durch die Bildsprache aus.
+
+Dann blickt die Kamera langsam zurück. Li Bai steht allein an der alten Straße am Flussufer, trägt einen blau-grauen Langmantel und schaut still seinem Freund hinterher, der in der Ferne verschwindet.
+
+Die untergehende Sonne im Westen sinkt langsam herab. Sanftes goldenes Sonnenuntergangslicht beleuchtet Li Bais Profil, die Wasseroberfläche und die fernen Berge.
+
+Li Bais Ausdruck ist ruhig, aber widerwillig, ohne Tränen und ohne übertriebene traurige Ausdrücke.
+
+Schließlich bildet sich ein vollständiges Bild: Treibende Wolken am Himmel, der ferne Freund, die untergehende Sonne, der Fluss und Li Bai, der bleibt und zuschaut, existieren gleichzeitig in einem geschichteten Landschaftsraum.
+
+Chinesischer Tuschefarb-Stil, Kombination aus blass-cyan-grün und warmem Sonnenuntergangsglühen, Reispapier-Textur, realistische natürliche Beleuchtung und Schatten, kinematografisches Gefühl, langsame und flüssige Kamerabewegung, implizite und zurückhaltende Aktionen.
+
+Reine Visuals. Kein Voiceover, keine Musik, keine Umgebungsgeräusche, keine Soundeffekte. Charaktere sprechen nicht und machen keinen Lip-Sync.
+
+Absolut kein Text im gesamten Video. Keine Untertitel, keine Gedichte, keine Titel, keine Kalligrafien, keine Schilderinschriften, keine Siegel, keine Schriftrollen, keine Logos, keine Wasserzeichen, keine Pseudo-Zeichen, kein Code-Müll.
+
+---
+
+## Teil 5 | Winken zum Abschied, das Pferd wiehert lang
+
+Generiere ein 10-sekündiges, vertikal orientiertes (9:16) Abschiedsanimationsvideo im antiken Stil der Tang-Dynastie.
+
+Die alte Straße außerhalb der Stadt unter der untergehenden Sonne.
+
+Li Bai trägt einen blau-grauen Langmantel mit gekreuztem Kragen und steht an der alten Straße am Flussufer. Der Freund trägt einen schlichten braunen Langmantel und hat bereits das braune Pferd geritten oder eine gewisse Entfernung weggeführt.
+
+Zu Beginn schaut der Freund zurück. Li Bai hebt seine Hand, um seinem Freund zum Abschied zu winken; der ferne Freund dreht sich ebenfalls um und winkt zurück. Die Bewegungen sind langsam, natürlich und zurückhaltend.
+
+Dann geht der Freund weiter in die Ferne.
+
+Das braune Pferd dreht kurz den Kopf zurück, hebt sanft den Kopf, die Mähne flattert im Wind und drückt das Gefühl der Unlust, die Herde zu verlassen, durch die Aktionen des Pferdes aus.
+
+Hier zeige nur die visuellen Aktionen des Pferdes. Generiere keine Wiehern-Geräusche, Schallwellen oder onomatopoetischen Texte.
+
+Die Kamera zieht sich allmählich zurück. Der Freund und das Pferd entfernen sich immer weiter entlang der alten Straße, während Li Bai an Ort und Stelle bleibt und zuschaut. Die untergehende Sonne, die fernen Berge, der Fluss, die alte Straße und die beiden sich trennenden Freunde bilden die finale Abschiedsszene.
+
+Halte die letzten zwei Sekunden die vollständige Szene, mit nur leichten Bewegungen des Sonnenuntergangslichts, der Ärmel, Blätter und der Pferdemähne.
+
+Kein schwarzer Bildschirm. Kein Fade-out zum Endcard. Generiere keine Schriftrollen oder Endbildschirmtexte.
+
+Chinesische klassische Tuschefarb-Animation, blass-cyan-grüne Landschaften kombiniert mit warmem Sonnenuntergangsglühen, feine Reispapier-Textur, kinematografische Komposition, realistische Proportionen der Charaktere, stetige und langsame Kamerabewegung.
+
+Reine Visuals, vollständig stumm. Kein Voiceover. Keine Musik. Keine Umgebungsgeräusche. Keine Soundeffekte. Charaktere sprechen nicht und machen keinen Lip-Sync.
+
+Vom ersten bis zum letzten Bild darf absolut kein Text vorhanden sein. Verboten: Untertitel, Gedichte, Titel, Autorennamen, Kalligrafien, Siegel, Schilderinschriften, Flaggentexte, Steininschriften, Schriftrollentexte, Logos, Wasserzeichen, UI, Zahlen, Englisch, Pseudo-Zeichen und Code-Müll.
+```
+
+<img src="https://pbs.twimg.com/amplify_video_thumb/2102676626068930560/img/Twk6W56KBSf8MFLa.jpg" width="600" alt="Gemini Omni Video-Prompt für antike chinesische Poesie">
+
+**[🎬 Video ansehen →](https://x.com/7998l201/status/2102676845212709346)**
+
+**Autor:** [Ryan](https://x.com/7998l201) | **Quelle:** [Link](https://x.com/7998l201/status/2102676845212709346) | **Veröffentlicht:** Sep 23, 2026
+
+---
+### Gemini Omni Prompt für kommerzielle Unternehmensvideos
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Generierung eines 10-sekündigen, fotorealistischen kommerziellen Unternehmensvideos mit Gemini Omni, basierend auf einem bereitgestellten Storyboard.
+
+#### 📝 Prompt
+
+```
+Erstellen Sie ein exakt 10-sekündiges, hochwertiges, fotorealistisches japanisches Unternehmenswerbevideo für das fiktive Architektur- und Bauunternehmen „NEXARC CONSTRUCTION“.
+
+REFERENZBOARD
+Das hochgeladene 3×3-Storyboard steuert die Bildkomposition, Kamerawinkel, Positionierung der Motive und Szenenübergänge. Stellen Sie eine strikte Einhaltung der visuellen Erzählung sicher, wie sie in den Referenzbildern dargestellt ist.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790153039061_9sfv6o_HS0AkODa8AAhHja.jpg" width="600" alt="Gemini Omni Prompt für kommerzielle Unternehmensvideos">
+
+**[🎬 Video ansehen →](https://x.com/husky__create/status/2102337252340994249)**
+
+**Autor:** [はすきー｜Midjourneyマニア🐺](https://x.com/husky__create) | **Quelle:** [Link](https://x.com/husky__create/status/2102337252340994249) | **Veröffentlicht:** Sep 22, 2026
+
+---
+### Gemini Omni Khachapuri Kochvideo-Prompt
+
+![English](https://img.shields.io/badge/lang-English-blue)
+
+> Ein detaillierter Prompt zur Generierung eines fotorealistischen 10-sekündigen Khachapuri-Kochvideos mit strikten Kontinuitäts- und Kamerainstruktionen.
+
+#### 📝 Prompt
+
+```
+Erstelle ein 10-sekündiges, fotorealistisches Khachapuri-Kochvideo im Format 16:9, exakt in der angegebenen Reihenfolge. Statische Top-Down-Kamera (90°), matte schwarze Tischplatte, dieselben männlichen Hände mit schwarzen Handschuhen, nur harte Schnitte, keine Magie oder übersprungenen Schritte: 0,0–0,7 Zutaten symmetrisch angeordnet, Hände nehmen den Teig -> 0,7–1,5 Teig zu einer ovalen Form ausrollen -> 1,5–2,2 lange Ränder nach innen rollen -> 2,2–2,8 beide Enden zu einem Boot zusammendrücken -> 2,8–3,6 gleichmäßig mit geriebenem Käse füllen -> 3,6–4,2 rohes Khachapuri auf ein schwarzes Backblech legen -> 4,2–5,0 das rohe Khachapuri sichtbar in den Ofen schieben -> 5,0–5,8 schneller realistischer Zeitraffer im Ofen: Der Teig geht auf und wird goldbraun, der Käse schmilzt und blubbert -> 5,8–6,5 Hände nehmen das gebackene Khachapuri heraus -> 6,5–7,3 ein Ei direkt in die Mitte schlagen -> 7,3–8,0 zurück in den Ofen, kurzer Zeitraffer: Das Eiweiß stockt leicht, während das Eigelb flüssig bleibt -> 8,0–8,6 fertiges Khachapuri herausnehmen und auf den schwarzen Tisch stellen -> 8,6–9,2 Butterwürfel neben dem Eigelb platzieren, die Butter beginnt zu schmelzen -> 9,2–10,0 Hände verlassen das Bild, Hero-Shot des goldenen Khachapuri mit geschmolzenem Käse, glänzendem flüssigem Eigelb und schmelzender Butter. Jeder nächste Shot muss nahtlos aus dem exakten Lebensmittelzustand des vorherigen Shots fortgesetzt werden; schnelle, präzise, realistische Handbewegungen, keine Kamerabewegung, kein Schweben, Teleportation, sofortiges Garen, Verschwinden oder Vervielfältigen von Zutaten.
+```
+
+<img src="https://cms-assets.youmind.com/media/1790153036963_wt5ej4_HSxFJWAW4AAusdb.jpg" width="600" alt="Gemini Omni Khachapuri Kochvideo-Prompt">
+
+**[🎬 Video ansehen →](https://x.com/999shinobi/status/2102142574848798798)**
+
+**Autor:** [999](https://x.com/999shinobi) | **Quelle:** [Link](https://x.com/999shinobi/status/2102142574848798798) | **Veröffentlicht:** Sep 21, 2026
+
+---
 ### Pixar-Stil-Bäckerei-CM-Prompt für Gemini Omni
 
 ![日本語](https://img.shields.io/badge/lang-日本語-green)
@@ -3227,146 +3425,6 @@ Ultrarealistische Honigtextur, realistische Flüssigkeitsphysik, warme natürlic
 **Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2090081415924982038) | **Veröffentlicht:** Aug 19, 2026
 
 ---
-### Storyboard für Instant-Nudel-Werbespot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein energiegeladenes Storyboard-Prompt für eine Instant-Nudel-Werbung. Es beschreibt acht wirkungsvolle Szenen, darunter Nudel-Close-ups, Makro-Texturaufnahmen und filmische Dampfeffekte mit professioneller Studiobeleuchtung.
-
-#### 📝 Prompt
-
-```
-TITEL:
-Storyboard für einen Premium-Werbespot für Instant-Nudeln
-
-FORMAT:
-• Einseitiges Premium-Storyboard
-• 3:4 Hochformat
-• Hochenergetische Lebensmittelwerbung
-• 8 filmische Produktszenen
-• Produktfokussierte Werbepräsentation
-
-HEADER:
-• Moderne, fette Typografie
-• Informationskarten:
-  - Dauer: 20 Sekunden
-  - Stil: Filmische Lebensmittelwerbung
-  - Produkt: Instant-Nudeln
-  - Audio: Koch-ASMR + energiegeladener Beat
-• Bereich „Warum dieser Stil funktioniert“
-• Warme gelbe und rote Akzente
-
-STORYBOARD:
-1. Instant-Nudelpackung steht aufrecht bei dramatischer Beleuchtung
-2. Packung wird geöffnet und Nudeln gleiten in eine Schüssel
-3. Kochendes Wasser wird über die Nudeln gegossen
-4. Nudeln kochen mit realistisch aufsteigendem Dampf
-5. Würzpulver wird hinzugefügt
-6. Stäbchen heben perfekt gegarte Nudeln an
-7. Extremes Makro-Foto der glänzenden Nudeln mit Toppings
-8. Finale Hero-Schüssel neben der ursprünglichen Produktpackung
-
-JEDES PANEL:
-• Szenennummer
-• Dauer-Badge
-• Visuelles
-• Aktion
-• Kameraführung
-• Produktdetails
-
-KAMERA:
-Makro-Food-Fotografie, Overhead-Komposition, Dampf-Nahaufnahme, Nudel-Pull-Shot, dramatischer Produkt-Push-in, filmische Hero-Einstellung.
-
-STIL:
-Ultra-realistische Lebensmittelwerbung, realistischer Dampf, detaillierte Nudeltextur, glänzende Brühe, lebendige Zutaten, professionelle Studiobeleuchtung, Premium-Verpackung, 8K.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787217318961_wpvccr_HQE90xdaYAA8DRm.jpg" width="600" alt="Storyboard für Instant-Nudel-Werbespot">
-
-**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2090019696779387173)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2090019696779387173) | **Veröffentlicht:** Aug 19, 2026
-
----
-### Storyboard für einen Luxus-Ketchup-Werbespot
-
-![English](https://img.shields.io/badge/lang-English-blue)
-
-> Ein filmisches und detailliertes Storyboard-Prompt für einen Premium-Lebensmittelwerbespot, mit Fokus auf Makroaufnahmen und professionelle Werbeästhetik für Produktpräsentationen.
-
-#### 📝 Prompt
-
-```
-TITEL:
-Storyboard für einen Premium-Tomatenketchup-Werbespot
-
-FORMAT:
-• Einseitiges Premium-Storyboard
-• 3:4 Hochformat
-• Luxus-Lebensmittelwerbung
-• 8 filmische Storyboard-Szenen
-• Klare Premium-Präsentation
-
-HEADER:
-• Fette redaktionelle Typografie
-• Informationskarten:
-  - Dauer: 20 Sekunden
-  - Stil: Premium-Lebensmittelwerbung
-  - Produkt: Tomatenketchup
-  - Audio: Fresh Food ASMR
-• Bereich „Warum dieser Stil funktioniert“
-• Ästhetik in Rot, Weiß und Creme
-
-STORYBOARD:
-1. Ketchup-Flasche auf einer sauberen weißen Oberfläche
-2. Flaschenverschluss öffnet sich in einer Makro-Nahaufnahme
-3. Dickflüssiger Ketchup fließt aus der Flasche
-4. Ketchup bildet eine perfekte, glänzende Spirale
-5. Extremes Makro zeigt die reichhaltige Tomatenstruktur
-6. Ketchup wird neben knusprigen Pommes frites serviert
-7. Flasche umgeben von frischen Tomaten und Produktzutaten
-8. Abschließender Hero-Shot der Flasche mit glänzender Reflexion und Ketchup-Spritzer
-
-JEDES PANEL:
-• Szenennummer
-• Dauer-Badge
-• Kameraanweisung
-• Visualisierung
-• Aktion
-• Produktdetail
-
-KAMERA:
-Extremes Makro, langsamer Produkt-Push-in, Top-Down-Aufnahme, Seitenprofil, kontrollierte Spritzer-Fotografie, Premium-Packshot.
-
-STIL: Ultrarealistische Food-Fotografie, glänzende Ketchup-Textur, realistische Flüssigkeitsphysik, frische Tomaten, saubere Studiobeleuchtung, Premium-Werbung, 8K.
-```
-
-<img src="https://cms-assets.youmind.com/media/1787217321758_98zrwb_HQAvvJHWUAAx3pk.jpg" width="600" alt="Storyboard für einen Luxus-Ketchup-Werbespot">
-
-**[🎬 Video ansehen →](https://x.com/Strength04_X/status/2089722733156266079)**
-
-**Autor:** [𝐌](https://x.com/Strength04_X) | **Quelle:** [Link](https://x.com/Strength04_X/status/2089722733156266079) | **Veröffentlicht:** Aug 18, 2026
-
----
-### Göttin beschützt Eisplaneten
-
-![日本語](https://img.shields.io/badge/lang-日本語-green)
-
-> Ein filmischer Video-Prompt für eine Göttin, die auf einer gefrorenen Welt steht und mit heiterem Ausdruck zu ihrem Volk spricht, während Meteore niedergehen.
-
-#### 📝 Prompt
-
-```
-„Selbst wenn ein Regen aus brennenden Meteoren niedergeht oder ein Blitz mit Millionen von Volt einschlägt, werde ich mein gesamtes Volk beschützen“, sagt die Göttin, die den Eisplaneten bewacht, mit heiterem Ausdruck zu den Menschen.
-```
-
-<img src="https://pbs.twimg.com/amplify_video_thumb/2089637983368650752/img/GQypPF6_mBJUcTff.jpg" width="600" alt="Göttin beschützt Eisplaneten">
-
-**[🎬 Video ansehen →](https://x.com/omomomomo0309/status/2089638641664659879)**
-
-**Autor:** [おもも桃](https://x.com/omomomomo0309) | **Quelle:** [Link](https://x.com/omomomomo0309/status/2089638641664659879) | **Veröffentlicht:** Aug 18, 2026
-
----
 ---
 
 ## 📚 Weitere Prompts verfügbar
@@ -3419,6 +3477,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-23T03:25:57.943Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-23T09:05:38.136Z</sub>
 
 </div>
