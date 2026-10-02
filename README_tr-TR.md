@@ -48,7 +48,7 @@ Google Gemini Omni için yüksek kaliteli video oluşturma istemleri koleksiyonu
 |--------|-------|
 | 📝 Toplam İstem | **279** |
 | ⭐ Öne Çıkan İstemler | **0** |
-| 🔄 Son Güncelleme | **2026-10-01** |
+| 🔄 Son Güncelleme | **2026-10-02** |
 
 ---
 
@@ -3475,6 +3475,6 @@ Bu eser [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) altında lisan
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-01T20:48:19.554Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-02T04:10:12.602Z</sub>
 
 </div>
