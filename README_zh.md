@@ -3477,6 +3477,6 @@ Run `pnpm run generate` locally to regenerate this README from CMS.
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-05T11:52:22.298Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-05T19:30:32.326Z</sub>
 
 </div>
