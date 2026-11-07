@@ -48,7 +48,7 @@ Eine kuratierte Sammlung hochwertiger Videogenerierungs-Prompts für Google Gemi
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **279** |
 | ⭐ Ausgewählte Prompts | **0** |
-| 🔄 Zuletzt aktualisiert | **2026-11-06** |
+| 🔄 Zuletzt aktualisiert | **2026-11-07** |
 
 ---
 
@@ -3477,6 +3477,6 @@ Dieses Werk ist unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) 
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-gemini-omni/pulls)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-gemini-omni)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-06T23:57:27.999Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-11-07T05:21:07.554Z</sub>
 
 </div>
